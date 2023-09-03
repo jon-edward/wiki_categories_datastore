@@ -8,6 +8,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
+      with:
 
     - name: Set up Python
       uses: actions/setup-python@v3
@@ -23,7 +24,7 @@ jobs:
 
     - name: Run data collection, saving
       run: |
-        python ./wiki_categories/main.py ./data --start 3 --end 4
+        python ./wiki_categories/main.py ./data --start 6 --end 7
 
     - name: Push changes
       run: |
