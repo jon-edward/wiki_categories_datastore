@@ -23,7 +23,7 @@ jobs:
 
     - name: Run data collection, saving
       run: |
-        python ./wiki_categories/main.py ./data --start 6 --end 7
+        python ./wiki_categories/main.py ./data
 
     - name: Push changes
       run: |
