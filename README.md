@@ -1,10 +1,9 @@
 # wiki_categories_datastore
 
-This repository contains automatic, monthly deployments of the Wikipedia category tree in JSON format.
+This repository contains automatic deployments of the Wikipedia category tree in JSON format.
 
 Each language includes metadata for when each source was last updated on the data dump mirror; the full 
-category tree with category names, edges, and page count (compressed in gzip format, hidden categories 
-removed); and a plain-text trimmed category tree. 
+category tree with category names, edges, and page count (compressed in gzip format); and a plain-text trimmed category tree. 
 
 The trimmed category tree contains categories with page counts higher than the 65th percentile of all 
 categories in the language (excluding main topic classifications, which are not trimmed regardless), 
