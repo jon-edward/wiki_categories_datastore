@@ -9,6 +9,8 @@ The trimmed category tree contains categories with page counts higher than the 6
 categories in the language (excluding main topic classifications, which are not trimmed regardless), 
 then trimmed to a distance of at most 99 steps from a main topic classification.
 
+Assets are sourced from the [Wikimedia data dumps](https://dumps.wikimedia.org/).
+
 Deployments are available for the following Wikipedia languages:
  - [ar](https://ar.wikipedia.org)
  - [arz](https://arz.wikipedia.org)
