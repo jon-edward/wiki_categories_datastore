@@ -1,0 +1,12296 @@
+{
+ "language": "ceb",
+ "categories": {
+  "36930": {
+   "name": "Panahon",
+   "parents": [
+    41903,
+    0
+   ],
+   "children": [
+    36929,
+    1930,
+    6471473
+   ]
+  },
+  "1930": {
+   "name": "Mga_tuig",
+   "parents": [
+    36930
+   ],
+   "children": [
+    7089827,
+    7092255
+   ]
+  },
+  "52454": {
+   "name": "Kalendaryong_Gregoryano",
+   "parents": [
+    36929
+   ],
+   "children": [
+    2089
+   ]
+  },
+  "2089": {
+   "name": "Mga_adlaw_sa_tuig",
+   "parents": [
+    52454
+   ],
+   "children": []
+  },
+  "3567": {
+   "name": "Espanya",
+   "parents": [
+    55197,
+    51412
+   ],
+   "children": [
+    9916929,
+    41826,
+    10962207,
+    6434158,
+    41809,
+    10813279
+   ]
+  },
+  "55197": {
+   "name": "Monarkiya",
+   "parents": [
+    35164
+   ],
+   "children": [
+    6885231,
+    3567,
+    42259,
+    55196,
+    6953631
+   ]
+  },
+  "51412": {
+   "name": "Unyong_Uropeyo",
+   "parents": [
+    45061
+   ],
+   "children": [
+    40803,
+    53419,
+    52205,
+    3567,
+    6885231,
+    38362
+   ]
+  },
+  "14887": {
+   "name": "Kabisay-an",
+   "parents": [
+    44930
+   ],
+   "children": [
+    43109,
+    40935,
+    43112,
+    43114,
+    54355,
+    3639
+   ]
+  },
+  "3639": {
+   "name": "Mga_pulo_sa_Kabisay-an",
+   "parents": [
+    14887,
+    44930
+   ],
+   "children": [
+    14881,
+    37758
+   ]
+  },
+  "44930": {
+   "name": "Mga_pulo_sa_Pilipinas",
+   "parents": [
+    44928
+   ],
+   "children": [
+    3144456,
+    3149704,
+    3142170,
+    3142435,
+    14887,
+    3141803,
+    3639,
+    3143353,
+    3146170,
+    3141818,
+    3142205,
+    3141822,
+    41538,
+    3141975,
+    3141849,
+    3141978,
+    3141986,
+    3143012,
+    3142643,
+    3143038
+   ]
+  },
+  "14881": {
+   "name": "Sugbo",
+   "parents": [
+    3639
+   ],
+   "children": [
+    43665,
+    42475,
+    2210604
+   ]
+  },
+  "6413294": {
+   "name": "Football",
+   "parents": [
+    40429
+   ],
+   "children": []
+  },
+  "3744": {
+   "name": "Mga_magsusulat_sa_Sinugboanon",
+   "parents": [
+    41409
+   ],
+   "children": [
+    3999
+   ]
+  },
+  "41409": {
+   "name": "Mga_magsusulat",
+   "parents": [
+    3324692
+   ],
+   "children": [
+    3744,
+    43172,
+    55845,
+    41416,
+    41417,
+    55473,
+    54451,
+    9464407,
+    41498,
+    41403
+   ]
+  },
+  "41538": {
+   "name": "Mindanao",
+   "parents": [
+    44930
+   ],
+   "children": [
+    10975812,
+    51206
+   ]
+  },
+  "55506": {
+   "name": "Kaalamdag",
+   "parents": [
+    0
+   ],
+   "children": [
+    53576,
+    54953,
+    41899,
+    14927,
+    41903,
+    36755,
+    44915,
+    39863,
+    39864,
+    3965
+   ]
+  },
+  "3965": {
+   "name": "Linggwistika",
+   "parents": [
+    55506
+   ],
+   "children": [
+    37883,
+    55542
+   ]
+  },
+  "39864": {
+   "name": "Siyensiyang_katilingbanon",
+   "parents": [
+    55506,
+    45062
+   ],
+   "children": [
+    40480,
+    14908,
+    35183
+   ]
+  },
+  "50818": {
+   "name": "Mga_kompositor",
+   "parents": [
+    42511
+   ],
+   "children": [
+    37493,
+    57174
+   ]
+  },
+  "3999": {
+   "name": "Mga_magbabalak_sa_Sinugboanon",
+   "parents": [
+    3744
+   ],
+   "children": []
+  },
+  "50815": {
+   "name": "Mga_mag-aawit",
+   "parents": [
+    42511
+   ],
+   "children": [
+    50816,
+    9819738
+   ]
+  },
+  "14908": {
+   "name": "Kasaysayan",
+   "parents": [
+    39864,
+    0
+   ],
+   "children": [
+    38304,
+    38438,
+    51530,
+    59499,
+    41720
+   ]
+  },
+  "14927": {
+   "name": "Pilosopiya",
+   "parents": [
+    55506,
+    0
+   ],
+   "children": [
+    43640,
+    11340193,
+    53314
+   ]
+  },
+  "14936": {
+   "name": "Matematika",
+   "parents": [
+    0
+   ],
+   "children": [
+    54960
+   ]
+  },
+  "14949": {
+   "name": "Teknolohiya",
+   "parents": [
+    0
+   ],
+   "children": [
+    53576,
+    39868
+   ]
+  },
+  "35111": {
+   "name": "Heyograpiya",
+   "parents": [
+    0
+   ],
+   "children": [
+    44928,
+    44929,
+    36749
+   ]
+  },
+  "7089827": {
+   "name": "Ika-20_ka_gatusan",
+   "parents": [
+    1930
+   ],
+   "children": []
+  },
+  "7092255": {
+   "name": "Ika-21_ka_gatusan",
+   "parents": [
+    1930
+   ],
+   "children": []
+  },
+  "35164": {
+   "name": "Politika",
+   "parents": [
+    0
+   ],
+   "children": [
+    40901,
+    38438,
+    55096,
+    41883,
+    55197
+   ]
+  },
+  "35175": {
+   "name": "Ekonomiks",
+   "parents": [
+    0
+   ],
+   "children": [
+    40038
+   ]
+  },
+  "35182": {
+   "name": "Kultura",
+   "parents": [
+    0
+   ],
+   "children": [
+    53359
+   ]
+  },
+  "35183": {
+   "name": "Edukasyon",
+   "parents": [
+    39864,
+    0
+   ],
+   "children": [
+    44952,
+    55501
+   ]
+  },
+  "36929": {
+   "name": "Kalendaryo",
+   "parents": [
+    36930
+   ],
+   "children": [
+    36064,
+    52443,
+    52444,
+    52454
+   ]
+  },
+  "36064": {
+   "name": "Mga_adlaw_sa_semana",
+   "parents": [
+    36929
+   ],
+   "children": [
+    56539
+   ]
+  },
+  "36749": {
+   "name": "Mga_kapital",
+   "parents": [
+    35111
+   ],
+   "children": [
+    40069
+   ]
+  },
+  "36755": {
+   "name": "Astronomiya",
+   "parents": [
+    55506
+   ],
+   "children": [
+    36954,
+    61171
+   ]
+  },
+  "41903": {
+   "name": "Pisika",
+   "parents": [
+    55506
+   ],
+   "children": [
+    54952,
+    36930
+   ]
+  },
+  "36954": {
+   "name": "Planeta",
+   "parents": [
+    36755,
+    61171
+   ],
+   "children": []
+  },
+  "61171": {
+   "name": "Sistemang_Solar",
+   "parents": [
+    36755
+   ],
+   "children": [
+    36954
+   ]
+  },
+  "54121": {
+   "name": "Ampo",
+   "parents": [
+    54932
+   ],
+   "children": []
+  },
+  "37119": {
+   "name": "Kristyanismo",
+   "parents": [
+    54932
+   ],
+   "children": [
+    37952,
+    42000,
+    57394,
+    52375,
+    57147
+   ]
+  },
+  "54932": {
+   "name": "Tinuohan",
+   "parents": [
+    45062
+   ],
+   "children": [
+    53314,
+    40711,
+    59496,
+    54121,
+    7615783,
+    54931,
+    37119
+   ]
+  },
+  "37493": {
+   "name": "Beethoven",
+   "parents": [
+    50818,
+    53679,
+    42511
+   ],
+   "children": []
+  },
+  "53679": {
+   "name": "Mga_Katoliko",
+   "parents": [
+    37952
+   ],
+   "children": [
+    57448,
+    57340,
+    37493,
+    37950
+   ]
+  },
+  "42511": {
+   "name": "Mga_maghuhuni",
+   "parents": [
+    3324692
+   ],
+   "children": [
+    57505,
+    50818,
+    57162,
+    37493,
+    11220310,
+    43165,
+    50815
+   ]
+  },
+  "37758": {
+   "name": "Bohol",
+   "parents": [
+    3639
+   ],
+   "children": [
+    53057,
+    55787
+   ]
+  },
+  "53015": {
+   "name": "Komunikasyon",
+   "parents": [
+    0
+   ],
+   "children": [
+    37883
+   ]
+  },
+  "37883": {
+   "name": "Pinulongan",
+   "parents": [
+    3965,
+    53015
+   ],
+   "children": [
+    40432,
+    55529,
+    61182,
+    43671
+   ]
+  },
+  "37950": {
+   "name": "Mga_Santo_Papa",
+   "parents": [
+    53679,
+    55196
+   ],
+   "children": []
+  },
+  "55196": {
+   "name": "Mga_monarka",
+   "parents": [
+    55197
+   ],
+   "children": [
+    37950
+   ]
+  },
+  "37952": {
+   "name": "Katolisismo",
+   "parents": [
+    37119,
+    45061
+   ],
+   "children": [
+    53679,
+    57341,
+    37951
+   ]
+  },
+  "37951": {
+   "name": "Simbahang_Romano_Katoliko",
+   "parents": [
+    37952
+   ],
+   "children": []
+  },
+  "45061": {
+   "name": "Mga_organisasyon",
+   "parents": [
+    45062
+   ],
+   "children": [
+    37952,
+    51729,
+    51412,
+    45060
+   ]
+  },
+  "39863": {
+   "name": "Biyolohiya",
+   "parents": [
+    55506,
+    43217
+   ],
+   "children": [
+    39649,
+    1761509,
+    41769,
+    55563,
+    1884623,
+    10802545,
+    41106,
+    39862
+   ]
+  },
+  "39868": {
+   "name": "Teknolohiya_sa_Impormasyon",
+   "parents": [
+    14949
+   ],
+   "children": [
+    52347,
+    6463844,
+    38119
+   ]
+  },
+  "38119": {
+   "name": "Internet",
+   "parents": [
+    39868,
+    0
+   ],
+   "children": [
+    7547141,
+    7645894
+   ]
+  },
+  "43706": {
+   "name": "Ikaduhang_Gubat_Kalibotanon",
+   "parents": [
+    38438
+   ],
+   "children": []
+  },
+  "38304": {
+   "name": "Karaang_Roma",
+   "parents": [
+    14908
+   ],
+   "children": [
+    54876
+   ]
+  },
+  "40432": {
+   "name": "Sistema_sa_pagsulat",
+   "parents": [
+    37883
+   ],
+   "children": [
+    62486
+   ]
+  },
+  "44929": {
+   "name": "Mga_lawis",
+   "parents": [
+    35111
+   ],
+   "children": [
+    38362
+   ]
+  },
+  "38362": {
+   "name": "Italya",
+   "parents": [
+    51412,
+    44929
+   ],
+   "children": [
+    6460994,
+    10962210,
+    56900,
+    41288,
+    10811702,
+    44727,
+    9916958
+   ]
+  },
+  "38438": {
+   "name": "Gubat",
+   "parents": [
+    14908,
+    35164
+   ],
+   "children": [
+    43706
+   ]
+  },
+  "51728": {
+   "name": "Mga_heneral",
+   "parents": [
+    51729
+   ],
+   "children": []
+  },
+  "57165": {
+   "name": "Mga_kawani_sa_kagamhanang_Pilipino",
+   "parents": [
+    41028
+   ],
+   "children": [
+    39216,
+    42476,
+    55478
+   ]
+  },
+  "39216": {
+   "name": "Mga_presidente_sa_Pilipinas",
+   "parents": [
+    57165
+   ],
+   "children": []
+  },
+  "57162": {
+   "name": "Mga_Pilipinong_maghuhuni",
+   "parents": [
+    42511
+   ],
+   "children": []
+  },
+  "39649": {
+   "name": "Anatomiya",
+   "parents": [
+    39863
+   ],
+   "children": []
+  },
+  "45060": {
+   "name": "Mga_kompaniya",
+   "parents": [
+    45061,
+    45057
+   ],
+   "children": [
+    52202
+   ]
+  },
+  "39862": {
+   "name": "Sekswalidad",
+   "parents": [
+    39863
+   ],
+   "children": []
+  },
+  "43217": {
+   "name": "Kinaiyahan",
+   "parents": [
+    0
+   ],
+   "children": [
+    53317,
+    39863
+   ]
+  },
+  "45062": {
+   "name": "Katilingban",
+   "parents": [
+    0
+   ],
+   "children": [
+    11340193,
+    45061,
+    40618,
+    54932,
+    39864
+   ]
+  },
+  "40038": {
+   "name": "Ekonomiya",
+   "parents": [
+    35175
+   ],
+   "children": [
+    45057,
+    40058,
+    52931
+   ]
+  },
+  "40058": {
+   "name": "Kwarta",
+   "parents": [
+    40038
+   ],
+   "children": []
+  },
+  "40069": {
+   "name": "Dakbayan_sa_Manila",
+   "parents": [
+    36749
+   ],
+   "children": [
+    9820025
+   ]
+  },
+  "43665": {
+   "name": "Mga_lungsod_ug_dakbayan_sa_Sugbo",
+   "parents": [
+    14881
+   ],
+   "children": [
+    40070
+   ]
+  },
+  "40070": {
+   "name": "Dakbayan_sa_Sugbo",
+   "parents": [
+    43665
+   ],
+   "children": []
+  },
+  "53575": {
+   "name": "Mga_gambalay_ug_estruktura",
+   "parents": [
+    53576
+   ],
+   "children": [
+    51530,
+    57394
+   ]
+  },
+  "40429": {
+   "name": "Paugnat_sa_kusog",
+   "parents": [
+    0
+   ],
+   "children": [
+    6413294
+   ]
+  },
+  "53359": {
+   "name": "Pagkaon_ug_ilimnon",
+   "parents": [
+    35182,
+    0
+   ],
+   "children": [
+    40457,
+    53358,
+    6568743
+   ]
+  },
+  "40457": {
+   "name": "Pagkaon",
+   "parents": [
+    53359
+   ],
+   "children": [
+    41768,
+    40458,
+    55956,
+    53464
+   ]
+  },
+  "40458": {
+   "name": "Mga_prutas",
+   "parents": [
+    40457,
+    1884623
+   ],
+   "children": [
+    54730
+   ]
+  },
+  "1884623": {
+   "name": "Tanom",
+   "parents": [
+    39863
+   ],
+   "children": [
+    11231232,
+    11273985,
+    11316482,
+    11235204,
+    11080069,
+    11223942,
+    40458,
+    11269131,
+    11058709,
+    11253018,
+    11203228,
+    11231137,
+    11268269,
+    11267122,
+    10988985,
+    11277755,
+    11077445,
+    11250245,
+    2191559,
+    10972359,
+    2028361,
+    11268680,
+    3117515,
+    11267919,
+    2223447,
+    10969689,
+    10977244,
+    11193949,
+    1884513,
+    11288161,
+    11271011,
+    11060330,
+    11198190,
+    11207536,
+    11179769,
+    11197183
+   ]
+  },
+  "40480": {
+   "name": "Sikolohiya",
+   "parents": [
+    39864
+   ],
+   "children": []
+  },
+  "40618": {
+   "name": "Balaod",
+   "parents": [
+    45062,
+    0
+   ],
+   "children": [
+    55028
+   ]
+  },
+  "40658": {
+   "name": "Unyong_Sobyet",
+   "parents": [
+    41720
+   ],
+   "children": []
+  },
+  "41720": {
+   "name": "Mga_kanhing_nasod",
+   "parents": [
+    14908
+   ],
+   "children": [
+    40658,
+    54876
+   ]
+  },
+  "40711": {
+   "name": "Islam",
+   "parents": [
+    54932
+   ],
+   "children": [
+    42053,
+    40710
+   ]
+  },
+  "40710": {
+   "name": "Islam_sa_Pilipinas",
+   "parents": [
+    40711
+   ],
+   "children": [
+    57142
+   ]
+  },
+  "40803": {
+   "name": "Gresya",
+   "parents": [
+    51412
+   ],
+   "children": [
+    40800,
+    6448081,
+    10813280,
+    10962213
+   ]
+  },
+  "40800": {
+   "name": "Mga_Griyego",
+   "parents": [
+    40803
+   ],
+   "children": [
+    57127
+   ]
+  },
+  "40900": {
+   "name": "Kagamhanan_sa_Iran",
+   "parents": [
+    40901
+   ],
+   "children": []
+  },
+  "40901": {
+   "name": "Kagamhanan",
+   "parents": [
+    35164,
+    0
+   ],
+   "children": [
+    41883,
+    40900,
+    41028
+   ]
+  },
+  "40935": {
+   "name": "Iloilo",
+   "parents": [
+    14887
+   ],
+   "children": [
+    53022
+   ]
+  },
+  "41028": {
+   "name": "Kagamhanan_sa_Pilipinas",
+   "parents": [
+    40901
+   ],
+   "children": [
+    57165
+   ]
+  },
+  "41106": {
+   "name": "Mananap",
+   "parents": [
+    39863
+   ],
+   "children": [
+    61312,
+    9932674,
+    77827,
+    61318,
+    78854,
+    78344,
+    61322,
+    192652,
+    78861,
+    77070,
+    78991,
+    64912,
+    78866,
+    64151,
+    62491,
+    9938978,
+    78886,
+    78891,
+    9912366,
+    64442,
+    78789,
+    61518,
+    78798,
+    78802,
+    9874270,
+    78819,
+    9939685,
+    62184,
+    78953,
+    78826,
+    63084,
+    64110,
+    78830,
+    9925490,
+    78838,
+    62458,
+    9938813
+   ]
+  },
+  "41288": {
+   "name": "Mga_Italyano",
+   "parents": [
+    38362
+   ],
+   "children": [
+    57505,
+    57131
+   ]
+  },
+  "41403": {
+   "name": "Mga_magsusulat_sa_Pinersyano",
+   "parents": [
+    41409
+   ],
+   "children": []
+  },
+  "3324692": {
+   "name": "Mga_tawo",
+   "parents": [
+    6711888,
+    0
+   ],
+   "children": [
+    41409,
+    6539686,
+    3108584,
+    54953,
+    42511,
+    3324656,
+    54641,
+    43640,
+    41883
+   ]
+  },
+  "41416": {
+   "name": "Mga_magsusulat_sa_Kinatsila",
+   "parents": [
+    41409
+   ],
+   "children": []
+  },
+  "41417": {
+   "name": "Mga_magsusulat_sa_Tinagalog",
+   "parents": [
+    41409
+   ],
+   "children": []
+  },
+  "41498": {
+   "name": "Mga_magsusulat_sa_Ininggles",
+   "parents": [
+    41409
+   ],
+   "children": []
+  },
+  "41768": {
+   "name": "Mga_lamas",
+   "parents": [
+    40457
+   ],
+   "children": []
+  },
+  "41769": {
+   "name": "Mga_tanom",
+   "parents": [
+    39863
+   ],
+   "children": [
+    41866,
+    55605
+   ]
+  },
+  "41809": {
+   "name": "Mga_Katsila",
+   "parents": [
+    3567
+   ],
+   "children": [
+    57136
+   ]
+  },
+  "41817": {
+   "name": "Mga_diplomatiko",
+   "parents": [
+    41883
+   ],
+   "children": []
+  },
+  "41883": {
+   "name": "Mga_politiko",
+   "parents": [
+    35164,
+    40901,
+    3324692
+   ],
+   "children": [
+    41817
+   ]
+  },
+  "41826": {
+   "name": "Kasaysayan_sa_Espanya",
+   "parents": [
+    3567
+   ],
+   "children": []
+  },
+  "41866": {
+   "name": "Mga_kahoy",
+   "parents": [
+    41769
+   ],
+   "children": []
+  },
+  "41899": {
+   "name": "Meteyorolohiya",
+   "parents": [
+    55506
+   ],
+   "children": []
+  },
+  "59496": {
+   "name": "Hudaismo",
+   "parents": [
+    54932
+   ],
+   "children": [
+    42000,
+    59499,
+    52443,
+    56524
+   ]
+  },
+  "42000": {
+   "name": "Bibliya",
+   "parents": [
+    37119,
+    59496
+   ],
+   "children": [
+    6685592
+   ]
+  },
+  "42051": {
+   "name": "Mga_Iraning_Muslim",
+   "parents": [
+    42053
+   ],
+   "children": []
+  },
+  "42053": {
+   "name": "Mga_Muslim",
+   "parents": [
+    40711
+   ],
+   "children": [
+    42051,
+    57142
+   ]
+  },
+  "45057": {
+   "name": "Patigayon",
+   "parents": [
+    40038,
+    0
+   ],
+   "children": [
+    45060
+   ]
+  },
+  "44952": {
+   "name": "Edukasyon_sa_Pilipinas",
+   "parents": [
+    35183
+   ],
+   "children": [
+    42236,
+    57526
+   ]
+  },
+  "42236": {
+   "name": "Mga_unibersidad_sa_Pilipinas",
+   "parents": [
+    44952
+   ],
+   "children": [
+    54594
+   ]
+  },
+  "42259": {
+   "name": "Hapon",
+   "parents": [
+    55197
+   ],
+   "children": [
+    51527,
+    9917064,
+    7358579,
+    6461781,
+    10962234
+   ]
+  },
+  "42475": {
+   "name": "Mga_Sugboanon",
+   "parents": [
+    14881
+   ],
+   "children": [
+    2210604
+   ]
+  },
+  "42476": {
+   "name": "Mga_senador_sa_Pilipinas",
+   "parents": [
+    57165
+   ],
+   "children": []
+  },
+  "44928": {
+   "name": "Mga_pulo",
+   "parents": [
+    35111
+   ],
+   "children": [
+    44930
+   ]
+  },
+  "43109": {
+   "name": "Habagatang_Leyte",
+   "parents": [
+    14887
+   ],
+   "children": [
+    53087
+   ]
+  },
+  "43112": {
+   "name": "Negros_Oriental",
+   "parents": [
+    14887
+   ],
+   "children": [
+    44983
+   ]
+  },
+  "43114": {
+   "name": "Sidlakang_Samar",
+   "parents": [
+    14887
+   ],
+   "children": [
+    53027
+   ]
+  },
+  "43165": {
+   "name": "Mga_Amerikanong_maghuhuni",
+   "parents": [
+    42511
+   ],
+   "children": [
+    50816
+   ]
+  },
+  "43172": {
+   "name": "Mga_magsusulat_sa_Prinanses",
+   "parents": [
+    41409
+   ],
+   "children": []
+  },
+  "43640": {
+   "name": "Mga_pilosopo",
+   "parents": [
+    14927,
+    3324692
+   ],
+   "children": [
+    59642
+   ]
+  },
+  "43671": {
+   "name": "Mga_pampinulongang_akademya",
+   "parents": [
+    37883
+   ],
+   "children": []
+  },
+  "54931": {
+   "name": "Mga_balaang_dakbayan",
+   "parents": [
+    54932
+   ],
+   "children": []
+  },
+  "44293": {
+   "name": "Mga_lungsod_ug_dakbayan_sa_Italya",
+   "parents": [
+    44727
+   ],
+   "children": []
+  },
+  "44727": {
+   "name": "Mga_subdibisyon_sa_Italya",
+   "parents": [
+    38362
+   ],
+   "children": [
+    811470,
+    44293,
+    60094
+   ]
+  },
+  "44915": {
+   "name": "Kimika",
+   "parents": [
+    55506
+   ],
+   "children": [
+    55046
+   ]
+  },
+  "335567": {
+   "name": "Iring",
+   "parents": [
+    62175
+   ],
+   "children": []
+  },
+  "44983": {
+   "name": "Mga_lungsod_ug_dakbayan_sa_Negros_Oriental",
+   "parents": [
+    43112
+   ],
+   "children": []
+  },
+  "50816": {
+   "name": "Mga_mag-aawit_nga_Amerikano",
+   "parents": [
+    50815,
+    43165
+   ],
+   "children": []
+  },
+  "51206": {
+   "name": "Mga_dakbayan_sa_Mindanao",
+   "parents": [
+    41538
+   ],
+   "children": []
+  },
+  "51527": {
+   "name": "Mga_Hapones",
+   "parents": [
+    42259
+   ],
+   "children": []
+  },
+  "51530": {
+   "name": "Mga_museyo",
+   "parents": [
+    14908,
+    53575
+   ],
+   "children": []
+  },
+  "51727": {
+   "name": "Militar_sa_Pilipinas",
+   "parents": [
+    51729
+   ],
+   "children": [
+    51726
+   ]
+  },
+  "51726": {
+   "name": "Kasundalohan_sa_Pilipinas",
+   "parents": [
+    51727
+   ],
+   "children": []
+  },
+  "51729": {
+   "name": "Militar",
+   "parents": [
+    45061,
+    0
+   ],
+   "children": [
+    51728,
+    51727
+   ]
+  },
+  "52202": {
+   "name": "Disney",
+   "parents": [
+    45060
+   ],
+   "children": [
+    7531258,
+    7332187,
+    10091901
+   ]
+  },
+  "52205": {
+   "name": "Polskowa",
+   "parents": [
+    51412
+   ],
+   "children": [
+    10814313,
+    6500714,
+    53582,
+    10962198
+   ]
+  },
+  "52347": {
+   "name": "Software",
+   "parents": [
+    39868
+   ],
+   "children": [
+    10085251,
+    59913,
+    10212233,
+    10084875,
+    10084876,
+    10092043,
+    10212236,
+    10094096,
+    11235984,
+    7564565,
+    10085017,
+    10085018,
+    10085163,
+    10090802,
+    10087094,
+    10085185,
+    10087106,
+    10087877,
+    10087119,
+    10085201,
+    10085589,
+    10087002,
+    10085467,
+    10109406,
+    10091105,
+    10088674,
+    10109796,
+    10085096,
+    10109802,
+    10085241
+   ]
+  },
+  "52375": {
+   "name": "Protestantismo",
+   "parents": [
+    37119
+   ],
+   "children": [
+    55835
+   ]
+  },
+  "52443": {
+   "name": "Kalendaryong_Ebreyo",
+   "parents": [
+    36929,
+    59496
+   ],
+   "children": [
+    56539
+   ]
+  },
+  "52444": {
+   "name": "Bulan_(panahon)",
+   "parents": [
+    36929
+   ],
+   "children": []
+  },
+  "61182": {
+   "name": "Mga_pinulongan_sa_Uropa",
+   "parents": [
+    37883
+   ],
+   "children": []
+  },
+  "52931": {
+   "name": "Mga_ekonomista",
+   "parents": [
+    40038
+   ],
+   "children": []
+  },
+  "53022": {
+   "name": "Mga_lungsod_ug_dakbayan_sa_Iloilo",
+   "parents": [
+    40935
+   ],
+   "children": []
+  },
+  "53027": {
+   "name": "Mga_lungsod_ug_dakbayan_sa_Sidlakang_Samar",
+   "parents": [
+    43114
+   ],
+   "children": []
+  },
+  "53057": {
+   "name": "Mga_lungsod_ug_dakbayan_sa_Bohol",
+   "parents": [
+    37758
+   ],
+   "children": []
+  },
+  "53087": {
+   "name": "Mga_lungsod_ug_dakbayan_sa_Habagatang_Leyte",
+   "parents": [
+    43109
+   ],
+   "children": []
+  },
+  "53314": {
+   "name": "Etika",
+   "parents": [
+    14927,
+    54932,
+    0
+   ],
+   "children": []
+  },
+  "53317": {
+   "name": "Kinabuhi",
+   "parents": [
+    43217,
+    0
+   ],
+   "children": []
+  },
+  "53358": {
+   "name": "Ilimnon",
+   "parents": [
+    53359
+   ],
+   "children": [
+    53368,
+    55605,
+    53357
+   ]
+  },
+  "53357": {
+   "name": "Kape",
+   "parents": [
+    53358
+   ],
+   "children": []
+  },
+  "53368": {
+   "name": "Gatas",
+   "parents": [
+    53358
+   ],
+   "children": []
+  },
+  "53419": {
+   "name": "Ungariya",
+   "parents": [
+    51412
+   ],
+   "children": [
+    10962203,
+    10813771,
+    6449475
+   ]
+  },
+  "53464": {
+   "name": "Kan-on",
+   "parents": [
+    40457
+   ],
+   "children": []
+  },
+  "53576": {
+   "name": "Inghenyeriya",
+   "parents": [
+    55506,
+    14949,
+    0
+   ],
+   "children": [
+    53575
+   ]
+  },
+  "53582": {
+   "name": "Mga_Polako",
+   "parents": [
+    52205
+   ],
+   "children": []
+  },
+  "54355": {
+   "name": "BisRock",
+   "parents": [
+    14887
+   ],
+   "children": []
+  },
+  "54451": {
+   "name": "Mga_magsusulat_sa_Rinuso",
+   "parents": [
+    41409
+   ],
+   "children": [
+    9024892
+   ]
+  },
+  "54594": {
+   "name": "Unibersidad_sa_Pilipinas",
+   "parents": [
+    42236
+   ],
+   "children": []
+  },
+  "54641": {
+   "name": "Mga_aktor",
+   "parents": [
+    3324692
+   ],
+   "children": [
+    9820640,
+    6363525,
+    7645894,
+    6657544,
+    9027352,
+    61246
+   ]
+  },
+  "54730": {
+   "name": "Mga_ubas",
+   "parents": [
+    40458
+   ],
+   "children": []
+  },
+  "54876": {
+   "name": "Imperyong_Romano",
+   "parents": [
+    38304,
+    41720
+   ],
+   "children": []
+  },
+  "54953": {
+   "name": "Mga_syentipiko",
+   "parents": [
+    55506,
+    3324692
+   ],
+   "children": [
+    54952,
+    55563,
+    55501,
+    54960,
+    55542
+   ]
+  },
+  "54952": {
+   "name": "Mga_pisiko",
+   "parents": [
+    41903,
+    54953
+   ],
+   "children": []
+  },
+  "54960": {
+   "name": "Mga_matematiko",
+   "parents": [
+    14936,
+    54953
+   ],
+   "children": []
+  },
+  "55028": {
+   "name": "Mga_manlalaban",
+   "parents": [
+    40618
+   ],
+   "children": []
+  },
+  "55046": {
+   "name": "Mga_elementong_kimiko",
+   "parents": [
+    44915
+   ],
+   "children": [
+    62662,
+    62572,
+    62772,
+    62549,
+    62555,
+    62588,
+    62622,
+    62719
+   ]
+  },
+  "55096": {
+   "name": "Mga_partidong_politikanhon",
+   "parents": [
+    35164
+   ],
+   "children": []
+  },
+  "55473": {
+   "name": "Mga_peryodista",
+   "parents": [
+    41409
+   ],
+   "children": []
+  },
+  "55478": {
+   "name": "Gabinete_sa_Pilipinas",
+   "parents": [
+    57165
+   ],
+   "children": []
+  },
+  "55501": {
+   "name": "Mga_magtutudlo",
+   "parents": [
+    35183,
+    54953
+   ],
+   "children": [
+    57526
+   ]
+  },
+  "55529": {
+   "name": "Mga_kapulongan",
+   "parents": [
+    37883
+   ],
+   "children": []
+  },
+  "55542": {
+   "name": "Mga_linggwista",
+   "parents": [
+    3965,
+    54953
+   ],
+   "children": []
+  },
+  "55563": {
+   "name": "Mga_byologo",
+   "parents": [
+    39863,
+    54953
+   ],
+   "children": [
+    503604
+   ]
+  },
+  "55605": {
+   "name": "Tsa",
+   "parents": [
+    41769,
+    53358
+   ],
+   "children": []
+  },
+  "61321": {
+   "name": "Isda_nga_adunay_raya_ang_kapay",
+   "parents": [
+    55663
+   ],
+   "children": [
+    55662
+   ]
+  },
+  "55662": {
+   "name": "Karpa",
+   "parents": [
+    61321
+   ],
+   "children": [
+    10330484
+   ]
+  },
+  "61322": {
+   "name": "Mananap_nga_adunay_kord_ang_likod",
+   "parents": [
+    41106
+   ],
+   "children": [
+    61793,
+    55663,
+    242558,
+    242519,
+    62398,
+    62175
+   ]
+  },
+  "55663": {
+   "name": "Isda",
+   "parents": [
+    61322
+   ],
+   "children": [
+    62400,
+    61321,
+    61491,
+    9865624
+   ]
+  },
+  "55787": {
+   "name": "Mga_Bol-anon",
+   "parents": [
+    37758
+   ],
+   "children": []
+  },
+  "55835": {
+   "name": "Mga_Protestante",
+   "parents": [
+    52375
+   ],
+   "children": []
+  },
+  "55845": {
+   "name": "Mga_magbabalak",
+   "parents": [
+    41409
+   ],
+   "children": [
+    57168
+   ]
+  },
+  "55956": {
+   "name": "Tinapay",
+   "parents": [
+    40457
+   ],
+   "children": []
+  },
+  "56524": {
+   "name": "Tanakh",
+   "parents": [
+    59496
+   ],
+   "children": []
+  },
+  "56539": {
+   "name": "Shabat",
+   "parents": [
+    36064,
+    52443
+   ],
+   "children": []
+  },
+  "59499": {
+   "name": "Kasaysayang_Hudiyo",
+   "parents": [
+    14908,
+    59496
+   ],
+   "children": []
+  },
+  "56900": {
+   "name": "Mga_Rehiyon_sa_Italya",
+   "parents": [
+    38362
+   ],
+   "children": []
+  },
+  "57147": {
+   "name": "Mga_adlawanong_Kristohanon",
+   "parents": [
+    37119
+   ],
+   "children": []
+  },
+  "57127": {
+   "name": "Mga_Griyegong_Kristohanon",
+   "parents": [
+    40800
+   ],
+   "children": []
+  },
+  "57131": {
+   "name": "Mga_Italyanong_Kristohanon",
+   "parents": [
+    41288
+   ],
+   "children": []
+  },
+  "57136": {
+   "name": "Mga_Katsilang_Kristohanon",
+   "parents": [
+    41809
+   ],
+   "children": []
+  },
+  "57142": {
+   "name": "Mga_Pilipinong_Muslim",
+   "parents": [
+    40710,
+    42053
+   ],
+   "children": []
+  },
+  "57168": {
+   "name": "Mga_Pilipinong_magbabalak",
+   "parents": [
+    55845
+   ],
+   "children": []
+  },
+  "57174": {
+   "name": "Mga_Pilipinong_kompositor",
+   "parents": [
+    50818
+   ],
+   "children": []
+  },
+  "57341": {
+   "name": "Kapunongan_ni_Jesús",
+   "parents": [
+    37952
+   ],
+   "children": [
+    57340
+   ]
+  },
+  "57340": {
+   "name": "Mga_Heswita",
+   "parents": [
+    53679,
+    57341
+   ],
+   "children": []
+  },
+  "57394": {
+   "name": "Mga_simbahan",
+   "parents": [
+    37119,
+    53575
+   ],
+   "children": []
+  },
+  "57448": {
+   "name": "Mga_obispong_Katolikong_Romano",
+   "parents": [
+    53679
+   ],
+   "children": []
+  },
+  "57505": {
+   "name": "Mga_Italyanong_maghuhuni",
+   "parents": [
+    42511,
+    41288
+   ],
+   "children": []
+  },
+  "57526": {
+   "name": "Mga_Pilipinong_magtutudlo",
+   "parents": [
+    44952,
+    55501
+   ],
+   "children": []
+  },
+  "6953631": {
+   "name": "Thayland",
+   "parents": [
+    55197
+   ],
+   "children": [
+    6443960,
+    10813924,
+    6811557,
+    10962278
+   ]
+  },
+  "59642": {
+   "name": "Mga_teologo",
+   "parents": [
+    43640
+   ],
+   "children": []
+  },
+  "62401": {
+   "name": "Krustaseo",
+   "parents": [
+    61318
+   ],
+   "children": [
+    233027,
+    242566
+   ]
+  },
+  "59913": {
+   "name": "Mga_dagitabnong_dula",
+   "parents": [
+    52347
+   ],
+   "children": []
+  },
+  "60094": {
+   "name": "Mga_lalawigan_sa_Italya",
+   "parents": [
+    44727
+   ],
+   "children": []
+  },
+  "61246": {
+   "name": "Mga_Pilipinong_aktor",
+   "parents": [
+    54641
+   ],
+   "children": []
+  },
+  "61312": {
+   "name": "Tardigrada",
+   "parents": [
+    41106
+   ],
+   "children": [
+    10330552,
+    9978444
+   ]
+  },
+  "61318": {
+   "name": "Mananap_nga_dinugtongan",
+   "parents": [
+    41106
+   ],
+   "children": [
+    62401,
+    242084,
+    61317,
+    214950,
+    293170,
+    242197,
+    250524
+   ]
+  },
+  "61317": {
+   "name": "Insekto",
+   "parents": [
+    61318
+   ],
+   "children": [
+    511842,
+    880771,
+    1515042,
+    62248,
+    1161384,
+    10509832,
+    10509865,
+    533071,
+    10140880,
+    10178256,
+    62490,
+    1087963,
+    10179262,
+    62431
+   ]
+  },
+  "61491": {
+   "name": "Sinonimo_nga_isda",
+   "parents": [
+    55663,
+    62491
+   ],
+   "children": [
+    61484,
+    2208119
+   ]
+  },
+  "61484": {
+   "name": "Sinonimo_nga_iho",
+   "parents": [
+    61491
+   ],
+   "children": []
+  },
+  "62491": {
+   "name": "Sinonimo_nga_mananap",
+   "parents": [
+    41106
+   ],
+   "children": [
+    10330624,
+    10330625,
+    10330626,
+    10330627,
+    203268,
+    10330630,
+    10330631,
+    10330633,
+    61962,
+    10330634,
+    10330635,
+    10330638,
+    10330640,
+    10330641,
+    10330643,
+    10330644,
+    10330647,
+    62488,
+    10330649,
+    10330650,
+    10330651,
+    10330653,
+    10330659,
+    10330668,
+    61491,
+    10330681,
+    115778,
+    10330710,
+    10330726,
+    10330731,
+    10330743,
+    10330750,
+    10330757,
+    10330764,
+    10330779,
+    63139,
+    10330795,
+    10330800,
+    10330804,
+    10330808,
+    10330817,
+    10330824,
+    10330828,
+    10330831,
+    10330834,
+    10330837,
+    120030,
+    115492,
+    314152,
+    115516,
+    116548,
+    10330450,
+    10330451,
+    10330454,
+    10330456,
+    10330458,
+    10330459,
+    10330461,
+    10330464,
+    10330467,
+    10330468,
+    10330470,
+    10330471,
+    10330473,
+    10330474,
+    10330476,
+    10330478,
+    10330479,
+    10330484,
+    10330486,
+    10330488,
+    10330490,
+    10330494,
+    206207,
+    10330497,
+    2208131,
+    10330499,
+    10330504,
+    10330507,
+    10330509,
+    2208146,
+    10330517,
+    10330520,
+    203162,
+    326044,
+    10330524,
+    10330525,
+    10330527,
+    10330528,
+    10330533,
+    10330536,
+    10330538,
+    10330539,
+    10330544,
+    10330547,
+    203191,
+    10330552,
+    10330553,
+    10330557,
+    10330558,
+    10330560,
+    10330565,
+    168903,
+    10330567,
+    10330568,
+    10330571,
+    10330572,
+    10330579,
+    10330581,
+    10330582,
+    10330585,
+    10330587,
+    10330588,
+    10330590,
+    203231,
+    10330591,
+    10330593,
+    10330594,
+    10330596,
+    10330598,
+    10330600,
+    10330602,
+    10330606,
+    10330608,
+    10330611,
+    10330612,
+    10330614,
+    10330615,
+    10330618,
+    10330619,
+    10330620,
+    10330623
+   ]
+  },
+  "61518": {
+   "name": "Nidariya",
+   "parents": [
+    41106
+   ],
+   "children": [
+    9946749,
+    167149,
+    146790,
+    9940431
+   ]
+  },
+  "61793": {
+   "name": "Reptil",
+   "parents": [
+    61322
+   ],
+   "children": [
+    405089,
+    61962,
+    372389,
+    62399
+   ]
+  },
+  "61962": {
+   "name": "Sinonimo_nga_reptil",
+   "parents": [
+    62491,
+    61793
+   ],
+   "children": [
+    2208100,
+    2208153,
+    61940
+   ]
+  },
+  "61940": {
+   "name": "Sinonimo_nga_bitin",
+   "parents": [
+    61962
+   ],
+   "children": []
+  },
+  "62175": {
+   "name": "Mamipero",
+   "parents": [
+    61322
+   ],
+   "children": [
+    9864481,
+    326693,
+    332518,
+    9869131,
+    331341,
+    335567,
+    9867919,
+    9874257,
+    9868948,
+    9869013,
+    9867960,
+    334489,
+    9864570,
+    326044,
+    62174,
+    326751
+   ]
+  },
+  "62174": {
+   "name": "Ungoy",
+   "parents": [
+    62175
+   ],
+   "children": [
+    6711888,
+    330838
+   ]
+  },
+  "62184": {
+   "name": "Mananap_nga_korset",
+   "parents": [
+    41106
+   ],
+   "children": [
+    9948424
+   ]
+  },
+  "62248": {
+   "name": "Alibangbang",
+   "parents": [
+    61317
+   ],
+   "children": [
+    2208083
+   ]
+  },
+  "62398": {
+   "name": "Langgam",
+   "parents": [
+    61322
+   ],
+   "children": [
+    2208131,
+    343813,
+    9887879,
+    350230,
+    9888790,
+    9887524,
+    9887536,
+    9888441,
+    345274,
+    9888575,
+    9888962,
+    9888840,
+    9888970,
+    347734,
+    9888726,
+    351065,
+    347225,
+    9887835,
+    9888474,
+    345693,
+    9888990,
+    350819,
+    9888359,
+    9888746,
+    9888619,
+    348411,
+    9888372,
+    9889016,
+    9887995,
+    9888765
+   ]
+  },
+  "62399": {
+   "name": "Dinosawryo",
+   "parents": [
+    61793
+   ],
+   "children": []
+  },
+  "62400": {
+   "name": "Iho",
+   "parents": [
+    55663
+   ],
+   "children": []
+  },
+  "62431": {
+   "name": "Pulgas",
+   "parents": [
+    61317
+   ],
+   "children": []
+  },
+  "62457": {
+   "name": "Nukos_ug_kugita",
+   "parents": [
+    62458
+   ],
+   "children": [
+    62456,
+    203177
+   ]
+  },
+  "62456": {
+   "name": "Kugita",
+   "parents": [
+    62457
+   ],
+   "children": []
+  },
+  "62458": {
+   "name": "Kinhason",
+   "parents": [
+    41106
+   ],
+   "children": [
+    79400,
+    10081199,
+    102068,
+    62488,
+    62457,
+    9978683
+   ]
+  },
+  "62486": {
+   "name": "Sistema_sa_pagsulat_nga_mga_saha",
+   "parents": [
+    40432
+   ],
+   "children": []
+  },
+  "62488": {
+   "name": "Sinonimo_nga_kinhason",
+   "parents": [
+    62491,
+    62458
+   ],
+   "children": [
+    79896,
+    203177,
+    62487
+   ]
+  },
+  "62487": {
+   "name": "Sinonimo_nga_kugita",
+   "parents": [
+    62488
+   ],
+   "children": []
+  },
+  "62490": {
+   "name": "Sinonimo_nga_insekto",
+   "parents": [
+    61317
+   ],
+   "children": [
+    2208069,
+    2208089,
+    2208138,
+    2208204,
+    2208083,
+    62489,
+    2191548,
+    2191549,
+    2191551
+   ]
+  },
+  "62489": {
+   "name": "Sinonimo_nga_pulgas",
+   "parents": [
+    62490
+   ],
+   "children": []
+  },
+  "62549": {
+   "name": "Gas_nga_halangdon",
+   "parents": [
+    55046
+   ],
+   "children": []
+  },
+  "62555": {
+   "name": "Metalloid",
+   "parents": [
+    55046
+   ],
+   "children": []
+  },
+  "62572": {
+   "name": "Aktinido",
+   "parents": [
+    55046
+   ],
+   "children": []
+  },
+  "62588": {
+   "name": "Puthaw",
+   "parents": [
+    55046
+   ],
+   "children": []
+  },
+  "62622": {
+   "name": "Wala_puthaw",
+   "parents": [
+    55046
+   ],
+   "children": []
+  },
+  "62662": {
+   "name": "Halogen",
+   "parents": [
+    55046
+   ],
+   "children": []
+  },
+  "62719": {
+   "name": "Puthaw_nga_transisyon",
+   "parents": [
+    55046
+   ],
+   "children": []
+  },
+  "62772": {
+   "name": "Puthaw_nga_lantanido",
+   "parents": [
+    55046
+   ],
+   "children": []
+  },
+  "63084": {
+   "name": "Ulod_nga_bituon",
+   "parents": [
+    41106
+   ],
+   "children": [
+    63139
+   ]
+  },
+  "63139": {
+   "name": "Sinonimo_nga_ulod_nga_bituon",
+   "parents": [
+    62491,
+    63084
+   ],
+   "children": []
+  },
+  "64110": {
+   "name": "Ulod_nga_sapatos_sa_kabayo",
+   "parents": [
+    41106
+   ],
+   "children": [
+    10371567
+   ]
+  },
+  "64151": {
+   "name": "Ulod_nga_papangig",
+   "parents": [
+    41106
+   ],
+   "children": [
+    9949162
+   ]
+  },
+  "64442": {
+   "name": "Ulod_nga_kutsara",
+   "parents": [
+    41106
+   ],
+   "children": []
+  },
+  "64912": {
+   "name": "Mananap_nga_tasa",
+   "parents": [
+    41106
+   ],
+   "children": []
+  },
+  "77070": {
+   "name": "Mananap_nga_adunay_tiil_ang_kamot",
+   "parents": [
+    41106
+   ],
+   "children": []
+  },
+  "77827": {
+   "name": "Mananap_nga_kuyamas",
+   "parents": [
+    41106
+   ],
+   "children": []
+  },
+  "78344": {
+   "name": "Ulod_nga_armadura",
+   "parents": [
+    41106
+   ],
+   "children": [
+    9948442,
+    10330557
+   ]
+  },
+  "78789": {
+   "name": "Ulod_nga_gapasan",
+   "parents": [
+    41106
+   ],
+   "children": [
+    9948681,
+    10330558
+   ]
+  },
+  "78798": {
+   "name": "Mananap_nga_lumot",
+   "parents": [
+    41106
+   ],
+   "children": [
+    206207
+   ]
+  },
+  "78802": {
+   "name": "Bukya_nga_sudlay",
+   "parents": [
+    41106
+   ],
+   "children": [
+    115778
+   ]
+  },
+  "78819": {
+   "name": "Ulod_nga_patag",
+   "parents": [
+    41106
+   ],
+   "children": [
+    2208146
+   ]
+  },
+  "78826": {
+   "name": "Banaog",
+   "parents": [
+    41106
+   ],
+   "children": [
+    168903
+   ]
+  },
+  "78830": {
+   "name": "Mananap_nga_ligid",
+   "parents": [
+    41106
+   ],
+   "children": [
+    203162
+   ]
+  },
+  "78838": {
+   "name": "Rombosoa",
+   "parents": [
+    41106
+   ],
+   "children": [
+    10330539,
+    9948790
+   ]
+  },
+  "78854": {
+   "name": "Ulod_nga_singsing",
+   "parents": [
+    41106
+   ],
+   "children": [
+    120030
+   ]
+  },
+  "78861": {
+   "name": "Miksosoa",
+   "parents": [
+    41106
+   ],
+   "children": [
+    9949276,
+    10330527
+   ]
+  },
+  "78866": {
+   "name": "Ulod_nga_lingin",
+   "parents": [
+    41106
+   ],
+   "children": [
+    203231
+   ]
+  },
+  "78886": {
+   "name": "Ulod_nga_buhok_sa_kabayo",
+   "parents": [
+    41106
+   ],
+   "children": [
+    115492
+   ]
+  },
+  "78891": {
+   "name": "Ulod_nga_hukal",
+   "parents": [
+    41106
+   ],
+   "children": [
+    116548
+   ]
+  },
+  "78953": {
+   "name": "Ulod_nga_hok",
+   "parents": [
+    41106
+   ],
+   "children": [
+    115516
+   ]
+  },
+  "78991": {
+   "name": "Mananap_nga_adunay_medyang_kord",
+   "parents": [
+    41106
+   ],
+   "children": [
+    113320,
+    203268
+   ]
+  },
+  "79400": {
+   "name": "Hilahila",
+   "parents": [
+    62458
+   ],
+   "children": [
+    79896
+   ]
+  },
+  "79896": {
+   "name": "Sinonimo_nga_hilahila",
+   "parents": [
+    62488,
+    79400
+   ],
+   "children": []
+  },
+  "102068": {
+   "name": "Ukab-ukab",
+   "parents": [
+    62458
+   ],
+   "children": [
+    10078947,
+    10078500,
+    10060687,
+    203191,
+    10072664,
+    10062651
+   ]
+  },
+  "10509865": {
+   "name": "Buyog",
+   "parents": [
+    61317
+   ],
+   "children": [
+    109796
+   ]
+  },
+  "109796": {
+   "name": "Sinonimo_nga_buyog",
+   "parents": [
+    10509865
+   ],
+   "children": []
+  },
+  "113320": {
+   "name": "Ulod_nga_ulok-ulok",
+   "parents": [
+    78991
+   ],
+   "children": [
+    9949205,
+    10330567
+   ]
+  },
+  "115492": {
+   "name": "Sinonimo_nga_ulod_nga_buhok_sa_kabayo",
+   "parents": [
+    62491,
+    78886
+   ],
+   "children": []
+  },
+  "115516": {
+   "name": "Sinonimo_nga_ulod_nga_hok",
+   "parents": [
+    62491,
+    78953
+   ],
+   "children": []
+  },
+  "115778": {
+   "name": "Sinonimo_nga_bukya_nga_sudlay",
+   "parents": [
+    62491,
+    78802
+   ],
+   "children": []
+  },
+  "116548": {
+   "name": "Sinonimo_nga_ulod_nga_hukal",
+   "parents": [
+    62491,
+    78891
+   ],
+   "children": []
+  },
+  "120030": {
+   "name": "Sinonimo_nga_ulod_nga_singsing",
+   "parents": [
+    62491,
+    78854
+   ],
+   "children": []
+  },
+  "146790": {
+   "name": "Kagaangan",
+   "parents": [
+    61518
+   ],
+   "children": [
+    147214
+   ]
+  },
+  "147214": {
+   "name": "Sinonimo_nga_kagaangan",
+   "parents": [
+    146790
+   ],
+   "children": []
+  },
+  "167149": {
+   "name": "Bukya",
+   "parents": [
+    61518
+   ],
+   "children": [
+    203261
+   ]
+  },
+  "168903": {
+   "name": "Sinonimo_nga_banaog",
+   "parents": [
+    62491,
+    78826
+   ],
+   "children": []
+  },
+  "192652": {
+   "name": "Ortonektida",
+   "parents": [
+    41106
+   ],
+   "children": [
+    9949593
+   ]
+  },
+  "203162": {
+   "name": "Sinonimo_nga_mananap_nga_ligid",
+   "parents": [
+    62491,
+    78830
+   ],
+   "children": []
+  },
+  "203177": {
+   "name": "Sinonimo_nga_nukos",
+   "parents": [
+    62457,
+    62488
+   ],
+   "children": []
+  },
+  "203191": {
+   "name": "Sinonimo_nga_ukab-ukab",
+   "parents": [
+    62491,
+    102068
+   ],
+   "children": []
+  },
+  "203231": {
+   "name": "Sinonimo_nga_ulod_nga_lingin",
+   "parents": [
+    62491,
+    78866
+   ],
+   "children": []
+  },
+  "203261": {
+   "name": "Sinonimo_nga_bukya",
+   "parents": [
+    167149
+   ],
+   "children": []
+  },
+  "203268": {
+   "name": "Sinonimo_nga_mananap_nga_adunay_medyang_kord",
+   "parents": [
+    62491,
+    78991
+   ],
+   "children": []
+  },
+  "206207": {
+   "name": "Sinonimo_nga_mananap_nga_lumot",
+   "parents": [
+    62491,
+    78798
+   ],
+   "children": []
+  },
+  "214950": {
+   "name": "Tiladtilad",
+   "parents": [
+    61318
+   ],
+   "children": [
+    215466
+   ]
+  },
+  "215466": {
+   "name": "Sinonimo_nga_tiladtilad",
+   "parents": [
+    214950
+   ],
+   "children": []
+  },
+  "233027": {
+   "name": "Sisi",
+   "parents": [
+    62401
+   ],
+   "children": [
+    242565
+   ]
+  },
+  "242084": {
+   "name": "Mananap_nga_kaka",
+   "parents": [
+    61318
+   ],
+   "children": [
+    524265,
+    313542,
+    406807
+   ]
+  },
+  "242197": {
+   "name": "Aluhipan",
+   "parents": [
+    61318
+   ],
+   "children": [
+    243313
+   ]
+  },
+  "242519": {
+   "name": "Mananap_nga_baki",
+   "parents": [
+    61322
+   ],
+   "children": [
+    314152,
+    315098,
+    313935
+   ]
+  },
+  "242558": {
+   "name": "Isda_nga_adunay_langodngod_ang_kapay",
+   "parents": [
+    61322
+   ],
+   "children": []
+  },
+  "242566": {
+   "name": "Sinonimo_nga_krustaseo",
+   "parents": [
+    62401
+   ],
+   "children": [
+    242565
+   ]
+  },
+  "242565": {
+   "name": "Sinonimo_nga_sisi",
+   "parents": [
+    233027,
+    242566
+   ],
+   "children": []
+  },
+  "243313": {
+   "name": "Sinonimo_nga_aluhipan",
+   "parents": [
+    242197
+   ],
+   "children": []
+  },
+  "250524": {
+   "name": "Kaka_sa_dagat",
+   "parents": [
+    61318
+   ],
+   "children": [
+    293178
+   ]
+  },
+  "293161": {
+   "name": "Sinonimo_nga_uhipan",
+   "parents": [
+    293170
+   ],
+   "children": []
+  },
+  "293170": {
+   "name": "Uhipan",
+   "parents": [
+    61318
+   ],
+   "children": [
+    293161
+   ]
+  },
+  "293178": {
+   "name": "Sinonimo_nga_kaka_sa_dagat",
+   "parents": [
+    250524
+   ],
+   "children": []
+  },
+  "313542": {
+   "name": "Sinonimo_nga_mananap_nga_kaka",
+   "parents": [
+    242084
+   ],
+   "children": [
+    424545,
+    2208194,
+    2208077
+   ]
+  },
+  "313935": {
+   "name": "Tabili",
+   "parents": [
+    242519
+   ],
+   "children": [
+    314148
+   ]
+  },
+  "314152": {
+   "name": "Sinonimo_nga_mananap_nga_baki",
+   "parents": [
+    62491,
+    242519
+   ],
+   "children": [
+    315131,
+    314148
+   ]
+  },
+  "314148": {
+   "name": "Sinonimo_nga_tabili",
+   "parents": [
+    313935,
+    314152
+   ],
+   "children": []
+  },
+  "315098": {
+   "name": "Baki",
+   "parents": [
+    242519
+   ],
+   "children": [
+    315131
+   ]
+  },
+  "315131": {
+   "name": "Sinonimo_nga_baki",
+   "parents": [
+    314152,
+    315098
+   ],
+   "children": []
+  },
+  "326044": {
+   "name": "Sinonimo_nga_mamipero",
+   "parents": [
+    62491,
+    62175
+   ],
+   "children": [
+    2208169,
+    2210680,
+    2208215,
+    2208184,
+    2210686
+   ]
+  },
+  "326693": {
+   "name": "Duyong",
+   "parents": [
+    62175
+   ],
+   "children": [
+    2210686
+   ]
+  },
+  "326751": {
+   "name": "Mangungutkut",
+   "parents": [
+    62175
+   ],
+   "children": [
+    2208169,
+    327498,
+    9874091
+   ]
+  },
+  "327498": {
+   "name": "Ilaga",
+   "parents": [
+    326751
+   ],
+   "children": [
+    10330471
+   ]
+  },
+  "330838": {
+   "name": "Aliwas",
+   "parents": [
+    62174
+   ],
+   "children": [
+    10330451
+   ]
+  },
+  "331341": {
+   "name": "Koneho",
+   "parents": [
+    62175
+   ],
+   "children": [
+    2210680
+   ]
+  },
+  "332518": {
+   "name": "Kulaknit",
+   "parents": [
+    62175
+   ],
+   "children": [
+    2208215
+   ]
+  },
+  "334489": {
+   "name": "Balyena",
+   "parents": [
+    62175
+   ],
+   "children": []
+  },
+  "343813": {
+   "name": "Mangak",
+   "parents": [
+    62398
+   ],
+   "children": [
+    9889157,
+    10330525
+   ]
+  },
+  "345274": {
+   "name": "Langgam_nga_adunay_tikarol",
+   "parents": [
+    62398
+   ],
+   "children": []
+  },
+  "345693": {
+   "name": "Madre-madre",
+   "parents": [
+    62398
+   ],
+   "children": []
+  },
+  "347225": {
+   "name": "Langgam_nga_adunay_balalatok",
+   "parents": [
+    62398
+   ],
+   "children": [
+    10330490
+   ]
+  },
+  "347734": {
+   "name": "Langgam_nga_adunay_periko",
+   "parents": [
+    62398
+   ],
+   "children": [
+    9889137,
+    10330499,
+    9889145
+   ]
+  },
+  "348411": {
+   "name": "Langgam_nga_adunay_manok",
+   "parents": [
+    62398
+   ],
+   "children": []
+  },
+  "350230": {
+   "name": "Langgam_nga_adunay_sikop",
+   "parents": [
+    62398
+   ],
+   "children": []
+  },
+  "350819": {
+   "name": "Langgam_nga_adunay_pagala",
+   "parents": [
+    62398
+   ],
+   "children": [
+    10330497,
+    9889207
+   ]
+  },
+  "351065": {
+   "name": "Langgam_nga_adunay_kanaway",
+   "parents": [
+    62398
+   ],
+   "children": []
+  },
+  "372389": {
+   "name": "Bao",
+   "parents": [
+    61793
+   ],
+   "children": [
+    2208100
+   ]
+  },
+  "405089": {
+   "name": "Buaya",
+   "parents": [
+    61793
+   ],
+   "children": [
+    2208153
+   ]
+  },
+  "406807": {
+   "name": "Kaka",
+   "parents": [
+    242084
+   ],
+   "children": [
+    424545
+   ]
+  },
+  "424545": {
+   "name": "Sinonimo_nga_kaka",
+   "parents": [
+    313542,
+    406807
+   ],
+   "children": []
+  },
+  "503604": {
+   "name": "Mga_awtor",
+   "parents": [
+    55563
+   ],
+   "children": []
+  },
+  "511842": {
+   "name": "Alindanaw",
+   "parents": [
+    61317
+   ],
+   "children": [
+    2208089
+   ]
+  },
+  "524265": {
+   "name": "Garapata",
+   "parents": [
+    242084
+   ],
+   "children": [
+    2208077
+   ]
+  },
+  "533071": {
+   "name": "Uk-ok",
+   "parents": [
+    61317
+   ],
+   "children": [
+    2208069
+   ]
+  },
+  "811470": {
+   "name": "Apulia",
+   "parents": [
+    44727
+   ],
+   "children": []
+  },
+  "880771": {
+   "name": "Sipit",
+   "parents": [
+    61317
+   ],
+   "children": [
+    10330544
+   ]
+  },
+  "9912365": {
+   "name": "Murag-kaka",
+   "parents": [
+    9912366
+   ],
+   "children": [
+    10330520,
+    10131019,
+    985484
+   ]
+  },
+  "985484": {
+   "name": "Tangla",
+   "parents": [
+    9912365
+   ],
+   "children": []
+  },
+  "1087963": {
+   "name": "Holmigas",
+   "parents": [
+    61317
+   ],
+   "children": [
+    2208204
+   ]
+  },
+  "1161384": {
+   "name": "Langaw",
+   "parents": [
+    61317
+   ],
+   "children": [
+    10481981,
+    2191549
+   ]
+  },
+  "1515042": {
+   "name": "Bakukang",
+   "parents": [
+    61317
+   ],
+   "children": [
+    2191548
+   ]
+  },
+  "1761509": {
+   "name": "Uhong",
+   "parents": [
+    39863
+   ],
+   "children": [
+    1761529,
+    1882516,
+    2191559
+   ]
+  },
+  "1761529": {
+   "name": "Uhong_paghimo_ni_bot",
+   "parents": [
+    1761509
+   ],
+   "children": []
+  },
+  "1882516": {
+   "name": "Sinonimo_nga_uhong",
+   "parents": [
+    1761509
+   ],
+   "children": []
+  },
+  "1884513": {
+   "name": "Tanom_nga_bulak",
+   "parents": [
+    1884623
+   ],
+   "children": [
+    2525251,
+    2770469,
+    2287848,
+    2166537,
+    1935851,
+    1884622,
+    2255792,
+    2337584,
+    2061683,
+    2669907,
+    1894133,
+    2208246,
+    2346815,
+    2690582,
+    2295993,
+    1901439
+   ]
+  },
+  "2028361": {
+   "name": "Sinonimo_nga_tanom",
+   "parents": [
+    1884623
+   ],
+   "children": [
+    10330755,
+    10330767,
+    10330773,
+    10330777,
+    10330780,
+    10330782,
+    10330656,
+    10330657,
+    10330660,
+    10330788,
+    10330792,
+    2281901,
+    10330670,
+    10330797,
+    10330672,
+    10330675,
+    10330676,
+    10330549,
+    10330550,
+    10330679,
+    2092856,
+    10330678,
+    10330805,
+    10330810,
+    10330685,
+    10330687,
+    10330688,
+    10330691,
+    10330692,
+    10330819,
+    10330697,
+    10330698,
+    10330700,
+    1884622,
+    10330574,
+    10330576,
+    10330577,
+    10330704,
+    10330707,
+    10330708,
+    10330832,
+    10330835,
+    10330838,
+    10330716,
+    10330717,
+    10330730,
+    10330734,
+    10330736,
+    10330737,
+    10330740,
+    2800117,
+    10330742,
+    10330745
+   ]
+  },
+  "1884622": {
+   "name": "Sinonimo_nga_tanom_nga_bulak",
+   "parents": [
+    1884513,
+    2028361
+   ],
+   "children": [
+    2191553,
+    2208225,
+    2466723,
+    2191557,
+    2794193,
+    2208242,
+    2794194,
+    2178580,
+    2794195,
+    2794196,
+    2794198,
+    2794200,
+    2794201,
+    2794202,
+    2028348,
+    2281918
+   ]
+  },
+  "3117515": {
+   "name": "Tanom_nga_bulí",
+   "parents": [
+    1884623
+   ],
+   "children": [
+    11063240,
+    1885421
+   ]
+  },
+  "1885421": {
+   "name": "Sinonimo_nga_tanom_nga_bulí",
+   "parents": [
+    3117515
+   ],
+   "children": []
+  },
+  "1894133": {
+   "name": "Tanom_nga_ubi",
+   "parents": [
+    1884513
+   ],
+   "children": [
+    2208225
+   ]
+  },
+  "1901439": {
+   "name": "Tanom_nga_liryo",
+   "parents": [
+    1884513
+   ],
+   "children": [
+    2191557
+   ]
+  },
+  "1935851": {
+   "name": "Tanom_nga_asparagos",
+   "parents": [
+    1884513
+   ],
+   "children": [
+    11003267,
+    2028348
+   ]
+  },
+  "2028348": {
+   "name": "Sinonimo_nga_tanom_nga_asparagos",
+   "parents": [
+    1884622,
+    1935851
+   ],
+   "children": []
+  },
+  "2061683": {
+   "name": "Tanom_nga_balili",
+   "parents": [
+    1884513
+   ],
+   "children": [
+    11033017,
+    10330549,
+    11022175
+   ]
+  },
+  "2092856": {
+   "name": "Sinonimo_nga_balili",
+   "parents": [
+    2028361
+   ],
+   "children": []
+  },
+  "2166537": {
+   "name": "Tanom_nga_rosas",
+   "parents": [
+    1884513
+   ],
+   "children": [
+    11257378,
+    11265427,
+    11255188,
+    10330550,
+    11266299
+   ]
+  },
+  "2178580": {
+   "name": "Sinonimo_nga_tanom_nga_rosa",
+   "parents": [
+    1884622
+   ],
+   "children": [
+    2178578
+   ]
+  },
+  "2178578": {
+   "name": "Sinonimo_nga_rosa",
+   "parents": [
+    2178580
+   ],
+   "children": []
+  },
+  "2191548": {
+   "name": "Sinonimo_nga_bakukang",
+   "parents": [
+    62490,
+    1515042
+   ],
+   "children": []
+  },
+  "2191549": {
+   "name": "Sinonimo_nga_langaw",
+   "parents": [
+    62490,
+    1161384
+   ],
+   "children": []
+  },
+  "2191551": {
+   "name": "Sinonimo_nga_alasiwsiw",
+   "parents": [
+    62490
+   ],
+   "children": []
+  },
+  "2191553": {
+   "name": "Sinonimo_nga_tanom_nga_ripolyo",
+   "parents": [
+    1884622
+   ],
+   "children": []
+  },
+  "2191557": {
+   "name": "Sinonimo_nga_tanom_nga_liryo",
+   "parents": [
+    1884622,
+    1901439
+   ],
+   "children": []
+  },
+  "2191559": {
+   "name": "Lumot",
+   "parents": [
+    1884623,
+    1761509
+   ],
+   "children": [
+    2191558
+   ]
+  },
+  "2191558": {
+   "name": "Sinonimo_nga_lumot",
+   "parents": [
+    2191559
+   ],
+   "children": []
+  },
+  "2208069": {
+   "name": "Sinonimo_nga_uk-ok",
+   "parents": [
+    62490,
+    533071
+   ],
+   "children": []
+  },
+  "2208077": {
+   "name": "Sinonimo_nga_garapata",
+   "parents": [
+    313542,
+    524265
+   ],
+   "children": []
+  },
+  "2208083": {
+   "name": "Sinonimo_nga_alibangbang",
+   "parents": [
+    62248,
+    62490
+   ],
+   "children": []
+  },
+  "2208089": {
+   "name": "Sinonimo_nga_alindanaw",
+   "parents": [
+    62490,
+    511842
+   ],
+   "children": []
+  },
+  "2208100": {
+   "name": "Sinonimo_nga_bao",
+   "parents": [
+    61962,
+    372389
+   ],
+   "children": []
+  },
+  "2208119": {
+   "name": "Sinonimo_nga_pagi",
+   "parents": [
+    61491
+   ],
+   "children": []
+  },
+  "2208131": {
+   "name": "Sinonimo_nga_langgam",
+   "parents": [
+    62491,
+    62398
+   ],
+   "children": []
+  },
+  "2208138": {
+   "name": "Sinonimo_nga_bayingbaying",
+   "parents": [
+    62490
+   ],
+   "children": []
+  },
+  "2208146": {
+   "name": "Sinonimo_nga_ulod_nga_patag",
+   "parents": [
+    62491,
+    78819
+   ],
+   "children": []
+  },
+  "2208153": {
+   "name": "Sinonimo_nga_buaya",
+   "parents": [
+    61962,
+    405089
+   ],
+   "children": []
+  },
+  "2208169": {
+   "name": "Sinonimo_nga_mangungutkut",
+   "parents": [
+    326044,
+    326751
+   ],
+   "children": []
+  },
+  "2208184": {
+   "name": "Sinonimo_nga_puntil_nga_mananap",
+   "parents": [
+    326044
+   ],
+   "children": []
+  },
+  "2208194": {
+   "name": "Sinonimo_nga_tungaw",
+   "parents": [
+    313542
+   ],
+   "children": []
+  },
+  "2208204": {
+   "name": "Sinonimo_nga_holmigas",
+   "parents": [
+    62490,
+    1087963
+   ],
+   "children": []
+  },
+  "2208215": {
+   "name": "Sinonimo_nga_kulaknit",
+   "parents": [
+    326044,
+    332518
+   ],
+   "children": []
+  },
+  "2208225": {
+   "name": "Sinonimo_nga_tanom_nga_ubi",
+   "parents": [
+    1884622,
+    1894133
+   ],
+   "children": []
+  },
+  "2208246": {
+   "name": "Saging",
+   "parents": [
+    1884513
+   ],
+   "children": [
+    2208242
+   ]
+  },
+  "2208242": {
+   "name": "Sinonimo_nga_saging",
+   "parents": [
+    1884622,
+    2208246
+   ],
+   "children": []
+  },
+  "2210604": {
+   "name": "Mga_tawo_gikan_sa_Sugbo",
+   "parents": [
+    14881,
+    42475
+   ],
+   "children": []
+  },
+  "2210680": {
+   "name": "Sinonimo_nga_koneho",
+   "parents": [
+    326044,
+    331341
+   ],
+   "children": []
+  },
+  "2210686": {
+   "name": "Sinonimo_nga_duyong",
+   "parents": [
+    326044,
+    326693
+   ],
+   "children": []
+  },
+  "2223447": {
+   "name": "Tanom_nga_pino",
+   "parents": [
+    1884623
+   ],
+   "children": []
+  },
+  "2255792": {
+   "name": "Tanom_nga_patatas",
+   "parents": [
+    1884513
+   ],
+   "children": []
+  },
+  "2281901": {
+   "name": "Sinonimo_nga_tanom_nga_pino",
+   "parents": [
+    2028361
+   ],
+   "children": [
+    2281907
+   ]
+  },
+  "2281907": {
+   "name": "Sinonimo_nga_pino",
+   "parents": [
+    2281901
+   ],
+   "children": []
+  },
+  "2281918": {
+   "name": "Sinonimo_nga_tanom_nga_patatas",
+   "parents": [
+    1884622
+   ],
+   "children": []
+  },
+  "2287848": {
+   "name": "Tanom_nga_luya",
+   "parents": [
+    1884513
+   ],
+   "children": [
+    2794200,
+    11067865,
+    2794199
+   ]
+  },
+  "2295993": {
+   "name": "Tanom_nga_kinsay",
+   "parents": [
+    1884513
+   ],
+   "children": [
+    11287864,
+    2794193
+   ]
+  },
+  "2337584": {
+   "name": "Tanom_nga_pepino",
+   "parents": [
+    1884513
+   ],
+   "children": [
+    11312012,
+    2794197,
+    2794198
+   ]
+  },
+  "2346815": {
+   "name": "Tanom_nga_sitaw",
+   "parents": [
+    1884513
+   ],
+   "children": [
+    2794202,
+    11181394
+   ]
+  },
+  "2466723": {
+   "name": "Sinonimo_nga_sitaw",
+   "parents": [
+    1884622
+   ],
+   "children": []
+  },
+  "2525251": {
+   "name": "Tanom_nga_paminta",
+   "parents": [
+    1884513
+   ],
+   "children": [
+    11297089,
+    2794195
+   ]
+  },
+  "2669907": {
+   "name": "Tanom_nga_ubas",
+   "parents": [
+    1884513
+   ],
+   "children": [
+    2794201
+   ]
+  },
+  "2690582": {
+   "name": "Tanom_nga_magnolia",
+   "parents": [
+    1884513
+   ],
+   "children": [
+    2794196,
+    11321135
+   ]
+  },
+  "2770469": {
+   "name": "Tanom_nga_lawrel",
+   "parents": [
+    1884513
+   ],
+   "children": [
+    11305025,
+    2794194
+   ]
+  },
+  "2794193": {
+   "name": "Sinonimo_nga_tanom_nga_kinsay",
+   "parents": [
+    1884622,
+    2295993
+   ],
+   "children": []
+  },
+  "2794194": {
+   "name": "Sinonimo_nga_tanom_nga_lawrel",
+   "parents": [
+    1884622,
+    2770469
+   ],
+   "children": []
+  },
+  "2794195": {
+   "name": "Sinonimo_nga_tanom_nga_paminta",
+   "parents": [
+    1884622,
+    2525251
+   ],
+   "children": []
+  },
+  "2794196": {
+   "name": "Sinonimo_nga_magnolia",
+   "parents": [
+    1884622,
+    2690582
+   ],
+   "children": []
+  },
+  "2794198": {
+   "name": "Sinonimo_nga_tanom_nga_pepino",
+   "parents": [
+    1884622,
+    2337584
+   ],
+   "children": [
+    2794197
+   ]
+  },
+  "2794197": {
+   "name": "Sinonimo_nga_pepino",
+   "parents": [
+    2337584,
+    2794198
+   ],
+   "children": []
+  },
+  "2794200": {
+   "name": "Sinonimo_nga_tanom_nga_luya",
+   "parents": [
+    1884622,
+    2287848
+   ],
+   "children": [
+    2794199
+   ]
+  },
+  "2794199": {
+   "name": "Sinonimo_nga_luya",
+   "parents": [
+    2287848,
+    2794200
+   ],
+   "children": []
+  },
+  "2794201": {
+   "name": "Sinonimo_nga_tanom_nga_ubas",
+   "parents": [
+    1884622,
+    2669907
+   ],
+   "children": []
+  },
+  "2794202": {
+   "name": "Sinonimo_nga_tanom_nga_sitaw",
+   "parents": [
+    1884622,
+    2346815
+   ],
+   "children": []
+  },
+  "6885231": {
+   "name": "Sweden",
+   "parents": [
+    55197,
+    51412
+   ],
+   "children": [
+    6552323,
+    9916996,
+    10811670,
+    10962190
+   ]
+  },
+  "2800117": {
+   "name": "Sinonimo_nga_ginkgo",
+   "parents": [
+    2028361
+   ],
+   "children": []
+  },
+  "3108584": {
+   "name": "Mga_pintor",
+   "parents": [
+    3324692
+   ],
+   "children": []
+  },
+  "3141803": {
+   "name": "Kapuloan_sa_Mimaropa_(rehiyon_sa_Pilipinas)",
+   "parents": [
+    44930
+   ],
+   "children": []
+  },
+  "3141818": {
+   "name": "Kapuloan_sa_Bicol_(rehiyon_sa_Pilipinas)",
+   "parents": [
+    44930
+   ],
+   "children": []
+  },
+  "3141822": {
+   "name": "Kapuloan_sa_Mindanawng_Muslim_(rehiyon_sa_Pilipinas)",
+   "parents": [
+    44930
+   ],
+   "children": []
+  },
+  "3141849": {
+   "name": "Kapuloan_sa_Kasadpang_Kabisay-an_(rehiyon_sa_Pilipinas)",
+   "parents": [
+    44930
+   ],
+   "children": []
+  },
+  "3141975": {
+   "name": "Kapuloan_sa_Caraga_(rehiyon)",
+   "parents": [
+    44930
+   ],
+   "children": []
+  },
+  "3141978": {
+   "name": "Kapuloan_sa_Pilipinas_nga_mas_dako_pa_kay_sa_1_ka_mga_kilometro_kwadrado",
+   "parents": [
+    44930
+   ],
+   "children": [
+    3142208
+   ]
+  },
+  "3141986": {
+   "name": "Kapuloan_sa_Central_Visayas_(rehiyon_sa_Pilipinas)",
+   "parents": [
+    44930
+   ],
+   "children": []
+  },
+  "3142170": {
+   "name": "Kapuloan_sa_Calabarzon_(rehiyon_sa_Pilipinas)",
+   "parents": [
+    44930
+   ],
+   "children": []
+  },
+  "3142205": {
+   "name": "Kapuloan_sa_Zamboanga_Peninsula_(rehiyon)",
+   "parents": [
+    44930
+   ],
+   "children": []
+  },
+  "3142207": {
+   "name": "Kapuloan_sa_Pilipinas_nga_mas_dako_pa_kay_sa_5_ka_mga_kilometro_kwadrado",
+   "parents": [
+    3142208
+   ],
+   "children": [
+    3142206
+   ]
+  },
+  "3142206": {
+   "name": "Kapuloan_sa_Pilipinas_nga_mas_dako_pa_kay_sa_10_ka_mga_kilometro_kwadrado",
+   "parents": [
+    3142207
+   ],
+   "children": [
+    3143825
+   ]
+  },
+  "3142208": {
+   "name": "Kapuloan_sa_Pilipinas_nga_mas_dako_pa_kay_sa_2_ka_mga_kilometro_kwadrado",
+   "parents": [
+    3141978
+   ],
+   "children": [
+    3142207
+   ]
+  },
+  "3142435": {
+   "name": "Kapuloan_sa_Sidlakang_Kabisay-an_(rehiyon_sa_Pilipinas)",
+   "parents": [
+    44930
+   ],
+   "children": []
+  },
+  "3142643": {
+   "name": "Kapuloan_sa_Davao_(rehiyon_sa_Pilipinas)",
+   "parents": [
+    44930
+   ],
+   "children": []
+  },
+  "3143012": {
+   "name": "Kapuloan_sa_Tunga-tungang_Luzon_(rehiyon_sa_Pilipinas)",
+   "parents": [
+    44930
+   ],
+   "children": []
+  },
+  "3143038": {
+   "name": "Kapuloan_sa_Soccsksargen_(rehiyon_sa_Pilipinas)",
+   "parents": [
+    44930
+   ],
+   "children": []
+  },
+  "3143353": {
+   "name": "Kapuloan_sa_Lupot_sa_Cagayan_(rehiyon_sa_Pilipinas)",
+   "parents": [
+    44930
+   ],
+   "children": []
+  },
+  "3143825": {
+   "name": "Kapuloan_sa_Pilipinas_nga_mas_dako_pa_kay_sa_100_ka_mga_kilometro_kwadrado",
+   "parents": [
+    3142206
+   ],
+   "children": [
+    3148398
+   ]
+  },
+  "3144456": {
+   "name": "Kapuloan_sa_Rehiyon_sa_Ilocos_(rehiyon_sa_Pilipinas)",
+   "parents": [
+    44930
+   ],
+   "children": []
+  },
+  "3146170": {
+   "name": "Kapuloan_sa_Amihanang_Mindanao_(rehiyon_sa_Pilipinas)",
+   "parents": [
+    44930
+   ],
+   "children": []
+  },
+  "3148398": {
+   "name": "Kapuloan_sa_Pilipinas_nga_mas_dako_pa_kay_sa_1000_ka_mga_kilometro_kwadrado",
+   "parents": [
+    3143825
+   ],
+   "children": []
+  },
+  "3149704": {
+   "name": "Kapuloan_sa_National_Capital_Region",
+   "parents": [
+    44930
+   ],
+   "children": []
+  },
+  "3324656": {
+   "name": "Mga_buhing_tawo",
+   "parents": [
+    3324692
+   ],
+   "children": []
+  },
+  "6711888": {
+   "name": "Tawo",
+   "parents": [
+    62174
+   ],
+   "children": [
+    3324692
+   ]
+  },
+  "6363525": {
+   "name": "Mga_aktor_sa_Tayland",
+   "parents": [
+    54641,
+    6443960
+   ],
+   "children": []
+  },
+  "6443960": {
+   "name": "Mga_tawo_sa_Tayland",
+   "parents": [
+    6953631
+   ],
+   "children": [
+    9819738,
+    6436068,
+    6363525
+   ]
+  },
+  "6434158": {
+   "name": "KML_paghimo_ni_bot_Espanya",
+   "parents": [
+    3567
+   ],
+   "children": []
+  },
+  "6436068": {
+   "name": "Mga_Tayland_politiko",
+   "parents": [
+    6443960
+   ],
+   "children": []
+  },
+  "6448081": {
+   "name": "KML_paghimo_ni_bot_Gresya",
+   "parents": [
+    40803
+   ],
+   "children": []
+  },
+  "6449475": {
+   "name": "KML_paghimo_ni_bot_Ungariya",
+   "parents": [
+    53419
+   ],
+   "children": []
+  },
+  "6460994": {
+   "name": "KML_paghimo_ni_bot_Italya",
+   "parents": [
+    38362
+   ],
+   "children": []
+  },
+  "6461781": {
+   "name": "KML_paghimo_ni_bot_Hapon",
+   "parents": [
+    42259
+   ],
+   "children": []
+  },
+  "6463844": {
+   "name": "Google_Inc.",
+   "parents": [
+    39868
+   ],
+   "children": []
+  },
+  "6471473": {
+   "name": "Mga_sona_sa_panahon",
+   "parents": [
+    36930
+   ],
+   "children": [
+    6527803
+   ]
+  },
+  "6500714": {
+   "name": "KML_paghimo_ni_bot_Polskowa",
+   "parents": [
+    52205
+   ],
+   "children": []
+  },
+  "6527803": {
+   "name": "Time_zones_templates",
+   "parents": [
+    6471473
+   ],
+   "children": []
+  },
+  "6539686": {
+   "name": "Mga_eksplorador",
+   "parents": [
+    3324692
+   ],
+   "children": []
+  },
+  "6552323": {
+   "name": "KML_paghimo_ni_bot_Sweden",
+   "parents": [
+    6885231
+   ],
+   "children": []
+  },
+  "6568743": {
+   "name": "Mga_restawrante",
+   "parents": [
+    53359
+   ],
+   "children": []
+  },
+  "6657544": {
+   "name": "Mga_aktor_sa_Tsina",
+   "parents": [
+    54641
+   ],
+   "children": []
+  },
+  "6685592": {
+   "name": "Mga_tawo_sa_Bibliya",
+   "parents": [
+    42000
+   ],
+   "children": []
+  },
+  "6811557": {
+   "name": "KML_paghimo_ni_bot_Thayland",
+   "parents": [
+    6953631
+   ],
+   "children": []
+  },
+  "7332187": {
+   "name": "Seryeng_pantelebisyon_sa_Disney",
+   "parents": [
+    52202
+   ],
+   "children": []
+  },
+  "7358579": {
+   "name": "Mga_tinukod_sa_Hapon",
+   "parents": [
+    42259
+   ],
+   "children": []
+  },
+  "7531258": {
+   "name": "The_Lion_Guard",
+   "parents": [
+    52202
+   ],
+   "children": []
+  },
+  "7547141": {
+   "name": "Internet_phones",
+   "parents": [
+    38119
+   ],
+   "children": []
+  },
+  "7564565": {
+   "name": "Nintendo",
+   "parents": [
+    52347
+   ],
+   "children": [
+    10087868
+   ]
+  },
+  "7615783": {
+   "name": "Budismo",
+   "parents": [
+    54932
+   ],
+   "children": [
+    11340189
+   ]
+  },
+  "7645894": {
+   "name": "Mga_YouTuber",
+   "parents": [
+    38119,
+    54641
+   ],
+   "children": []
+  },
+  "9024892": {
+   "name": "Anton_Chekhov",
+   "parents": [
+    54451,
+    9464407
+   ],
+   "children": []
+  },
+  "9464407": {
+   "name": "Mga_Rusong_magsusulat",
+   "parents": [
+    41409
+   ],
+   "children": [
+    9024892
+   ]
+  },
+  "9027352": {
+   "name": "Team_10",
+   "parents": [
+    54641
+   ],
+   "children": []
+  },
+  "9819738": {
+   "name": "Mga_mag-aawit_sa_Tayland",
+   "parents": [
+    50815,
+    6443960
+   ],
+   "children": []
+  },
+  "9820025": {
+   "name": "Mga_dalan_sa_Metro_Manila",
+   "parents": [
+    40069
+   ],
+   "children": []
+  },
+  "9820640": {
+   "name": "Mga_Amerikanong_aktor",
+   "parents": [
+    54641
+   ],
+   "children": []
+  },
+  "9864481": {
+   "name": "Murag-unggoy",
+   "parents": [
+    62175
+   ],
+   "children": [
+    10330568,
+    9867985,
+    9868538
+   ]
+  },
+  "9864570": {
+   "name": "Murag-iring",
+   "parents": [
+    62175
+   ],
+   "children": [
+    10330473,
+    9917742
+   ]
+  },
+  "9865624": {
+   "name": "Isdangtunay",
+   "parents": [
+    55663
+   ],
+   "children": [
+    9891977,
+    9898505,
+    9910410,
+    9905551,
+    9898128,
+    9908765,
+    9890469,
+    9912104,
+    9892009,
+    9891242,
+    9894572,
+    9905456,
+    9893052,
+    9891652,
+    9908036,
+    9898441,
+    9909833,
+    9892942,
+    9909844,
+    9890650,
+    9910752,
+    9910241,
+    9904869,
+    9911916,
+    9897332,
+    9898617,
+    9890299,
+    9911036,
+    9895549
+   ]
+  },
+  "9867919": {
+   "name": "Uso",
+   "parents": [
+    62175
+   ],
+   "children": []
+  },
+  "9867960": {
+   "name": "Ayam",
+   "parents": [
+    62175
+   ],
+   "children": [
+    10330474
+   ]
+  },
+  "9867985": {
+   "name": "Mamag",
+   "parents": [
+    9864481
+   ],
+   "children": []
+  },
+  "9868538": {
+   "name": "Àmô",
+   "parents": [
+    9864481
+   ],
+   "children": [
+    10330750
+   ]
+  },
+  "9868948": {
+   "name": "Balyenaglumod",
+   "parents": [
+    62175
+   ],
+   "children": [
+    10330458,
+    9868965
+   ]
+  },
+  "9868965": {
+   "name": "Lumba-lumba",
+   "parents": [
+    9868948
+   ],
+   "children": [
+    10330647
+   ]
+  },
+  "9869013": {
+   "name": "Muragbaboy",
+   "parents": [
+    62175
+   ],
+   "children": []
+  },
+  "9869131": {
+   "name": "Kwakniton",
+   "parents": [
+    62175
+   ],
+   "children": [
+    10330488,
+    9869793,
+    9869677
+   ]
+  },
+  "9869677": {
+   "name": "Kalabiao",
+   "parents": [
+    9869131
+   ],
+   "children": [
+    10330800
+   ]
+  },
+  "9869793": {
+   "name": "Kábug",
+   "parents": [
+    9869131
+   ],
+   "children": [
+    10330795
+   ]
+  },
+  "9874091": {
+   "name": "Kawog",
+   "parents": [
+    326751
+   ],
+   "children": []
+  },
+  "9874257": {
+   "name": "Minyak",
+   "parents": [
+    62175
+   ],
+   "children": [
+    10330579
+   ]
+  },
+  "9874270": {
+   "name": "Maybukobuko",
+   "parents": [
+    41106
+   ],
+   "children": [
+    9874274,
+    9924091,
+    9889228
+   ]
+  },
+  "9874274": {
+   "name": "Muraghalas",
+   "parents": [
+    9874270
+   ],
+   "children": [
+    10330538,
+    9874830,
+    9880314,
+    9875834,
+    9885755,
+    9886395
+   ]
+  },
+  "9874830": {
+   "name": "Hálo",
+   "parents": [
+    9874274
+   ],
+   "children": [
+    10330581
+   ]
+  },
+  "9875834": {
+   "name": "Tabíli",
+   "parents": [
+    9874274
+   ],
+   "children": [
+    10330585
+   ]
+  },
+  "9880314": {
+   "name": "Tiki",
+   "parents": [
+    9874274
+   ],
+   "children": [
+    9880651,
+    10330582,
+    9880767
+   ]
+  },
+  "9880651": {
+   "name": "Tukô",
+   "parents": [
+    9880314
+   ],
+   "children": [
+    10330726
+   ]
+  },
+  "9880767": {
+   "name": "Tôtô",
+   "parents": [
+    9880314
+   ],
+   "children": [
+    10330731
+   ]
+  },
+  "9885755": {
+   "name": "Hambubukad",
+   "parents": [
+    9874274
+   ],
+   "children": [
+    10330710
+   ]
+  },
+  "9886395": {
+   "name": "Pawikag-iwon",
+   "parents": [
+    9874274
+   ],
+   "children": [
+    10330459
+   ]
+  },
+  "9887524": {
+   "name": "Kiyaw",
+   "parents": [
+    62398
+   ],
+   "children": []
+  },
+  "9887536": {
+   "name": "Galansiyang",
+   "parents": [
+    62398
+   ],
+   "children": []
+  },
+  "9887835": {
+   "name": "Aniniho",
+   "parents": [
+    62398
+   ],
+   "children": []
+  },
+  "9887879": {
+   "name": "Tamsi",
+   "parents": [
+    62398
+   ],
+   "children": [
+    9887888,
+    10330757
+   ]
+  },
+  "9887888": {
+   "name": "Manunusok",
+   "parents": [
+    9887879
+   ],
+   "children": []
+  },
+  "9887995": {
+   "name": "Kamantigon",
+   "parents": [
+    62398
+   ],
+   "children": []
+  },
+  "9888359": {
+   "name": "Tukat",
+   "parents": [
+    62398
+   ],
+   "children": []
+  },
+  "9888372": {
+   "name": "Maya",
+   "parents": [
+    62398
+   ],
+   "children": []
+  },
+  "9888441": {
+   "name": "Managoto",
+   "parents": [
+    62398
+   ],
+   "children": []
+  },
+  "9888474": {
+   "name": "Uwak",
+   "parents": [
+    62398
+   ],
+   "children": []
+  },
+  "9888575": {
+   "name": "Aliyakyak",
+   "parents": [
+    62398
+   ],
+   "children": []
+  },
+  "9888619": {
+   "name": "Gitgit",
+   "parents": [
+    62398
+   ],
+   "children": []
+  },
+  "9888726": {
+   "name": "Tikling",
+   "parents": [
+    62398
+   ],
+   "children": [
+    9888729,
+    9888737,
+    9888733,
+    9888735
+   ]
+  },
+  "9888729": {
+   "name": "Bagnok",
+   "parents": [
+    9888726
+   ],
+   "children": []
+  },
+  "9888733": {
+   "name": "Ituman",
+   "parents": [
+    9888726
+   ],
+   "children": []
+  },
+  "9888735": {
+   "name": "Karab-abuhon",
+   "parents": [
+    9888726
+   ],
+   "children": []
+  },
+  "9888737": {
+   "name": "Tighik",
+   "parents": [
+    9888726
+   ],
+   "children": []
+  },
+  "9888746": {
+   "name": "Muragmanok",
+   "parents": [
+    62398
+   ],
+   "children": [
+    9888760
+   ]
+  },
+  "9888760": {
+   "name": "Tabon",
+   "parents": [
+    9888746
+   ],
+   "children": []
+  },
+  "9888765": {
+   "name": "Muragbanog",
+   "parents": [
+    62398
+   ],
+   "children": []
+  },
+  "9888790": {
+   "name": "Tikarolon",
+   "parents": [
+    62398
+   ],
+   "children": [
+    9888792,
+    10330509
+   ]
+  },
+  "9888792": {
+   "name": "Purok-purok",
+   "parents": [
+    9888790
+   ],
+   "children": []
+  },
+  "9888840": {
+   "name": "Kanawayon",
+   "parents": [
+    62398
+   ],
+   "children": [
+    9888888,
+    9888844,
+    10330494
+   ]
+  },
+  "9888844": {
+   "name": "Buntog",
+   "parents": [
+    9888840
+   ],
+   "children": []
+  },
+  "9888888": {
+   "name": "Kanaway",
+   "parents": [
+    9888840
+   ],
+   "children": [
+    10330743
+   ]
+  },
+  "9888962": {
+   "name": "Kawkaw",
+   "parents": [
+    62398
+   ],
+   "children": []
+  },
+  "9888970": {
+   "name": "Muragsayaw",
+   "parents": [
+    62398
+   ],
+   "children": [
+    10330504,
+    9888981
+   ]
+  },
+  "9888981": {
+   "name": "Sáyao",
+   "parents": [
+    9888970
+   ],
+   "children": []
+  },
+  "9888990": {
+   "name": "Murag-itik",
+   "parents": [
+    62398
+   ],
+   "children": []
+  },
+  "9889016": {
+   "name": "Mandaragit",
+   "parents": [
+    62398
+   ],
+   "children": [
+    10330507,
+    9889069
+   ]
+  },
+  "9889069": {
+   "name": "Sikub",
+   "parents": [
+    9889016
+   ],
+   "children": []
+  },
+  "9889137": {
+   "name": "Tusing",
+   "parents": [
+    347734
+   ],
+   "children": []
+  },
+  "9889145": {
+   "name": "Kusi",
+   "parents": [
+    347734
+   ],
+   "children": []
+  },
+  "9889157": {
+   "name": "Bukao",
+   "parents": [
+    343813
+   ],
+   "children": []
+  },
+  "9889207": {
+   "name": "Talabong",
+   "parents": [
+    350819
+   ],
+   "children": []
+  },
+  "9889228": {
+   "name": "Bakion",
+   "parents": [
+    9874270
+   ],
+   "children": [
+    9889232
+   ]
+  },
+  "9889232": {
+   "name": "Tabilistubig",
+   "parents": [
+    9889228
+   ],
+   "children": [
+    10330547
+   ]
+  },
+  "9890299": {
+   "name": "Panangitan",
+   "parents": [
+    9865624
+   ],
+   "children": [
+    10330625,
+    9890322
+   ]
+  },
+  "9890322": {
+   "name": "Diwit",
+   "parents": [
+    9890299
+   ],
+   "children": []
+  },
+  "9890469": {
+   "name": "Bat-og",
+   "parents": [
+    9865624
+   ],
+   "children": [
+    10330608
+   ]
+  },
+  "9890650": {
+   "name": "Asohos",
+   "parents": [
+    9865624
+   ],
+   "children": [
+    10330590
+   ]
+  },
+  "9891242": {
+   "name": "Tikab",
+   "parents": [
+    9865624
+   ],
+   "children": [
+    10330804
+   ]
+  },
+  "9891652": {
+   "name": "Mólmol",
+   "parents": [
+    9865624
+   ],
+   "children": [
+    10330650
+   ]
+  },
+  "9891977": {
+   "name": "Bulgan",
+   "parents": [
+    9865624
+   ],
+   "children": [
+    10330619
+   ]
+  },
+  "9892009": {
+   "name": "Bika-bika",
+   "parents": [
+    9865624
+   ],
+   "children": [
+    9892082,
+    10330611
+   ]
+  },
+  "9892082": {
+   "name": "Bantay-botbot",
+   "parents": [
+    9892009
+   ],
+   "children": [
+    10330615
+   ]
+  },
+  "9892942": {
+   "name": "Bakay",
+   "parents": [
+    9865624
+   ],
+   "children": [
+    10330598
+   ]
+  },
+  "9893052": {
+   "name": "Hinok",
+   "parents": [
+    9865624
+   ],
+   "children": [
+    10330630
+   ]
+  },
+  "9894572": {
+   "name": "Ananambo",
+   "parents": [
+    9865624
+   ],
+   "children": [
+    10330588
+   ]
+  },
+  "9895549": {
+   "name": "Kasbo",
+   "parents": [
+    9865624
+   ],
+   "children": [
+    10330634
+   ]
+  },
+  "9897332": {
+   "name": "Malapati",
+   "parents": [
+    9865624
+   ],
+   "children": [
+    9897400,
+    10330594
+   ]
+  },
+  "9897400": {
+   "name": "Borot",
+   "parents": [
+    9897332
+   ],
+   "children": [
+    10330659
+   ]
+  },
+  "9898128": {
+   "name": "Mo-ong",
+   "parents": [
+    9865624
+   ],
+   "children": [
+    10330668
+   ]
+  },
+  "9898441": {
+   "name": "Palangan",
+   "parents": [
+    9865624
+   ],
+   "children": [
+    10330651
+   ]
+  },
+  "9898505": {
+   "name": "Bagis",
+   "parents": [
+    9865624
+   ],
+   "children": [
+    10330593
+   ]
+  },
+  "9898617": {
+   "name": "Muragkarpa",
+   "parents": [
+    9865624
+   ],
+   "children": [
+    10330476
+   ]
+  },
+  "9904869": {
+   "name": "Dagum-dagum",
+   "parents": [
+    9865624
+   ],
+   "children": [
+    10330624,
+    9904948
+   ]
+  },
+  "9904948": {
+   "name": "Kabayo-kabayo",
+   "parents": [
+    9904869
+   ],
+   "children": [
+    10330623
+   ]
+  },
+  "9905456": {
+   "name": "Bantol",
+   "parents": [
+    9865624
+   ],
+   "children": [
+    9905476,
+    10330606
+   ]
+  },
+  "9905476": {
+   "name": "Lawong",
+   "parents": [
+    9905456
+   ],
+   "children": []
+  },
+  "9905551": {
+   "name": "Sunoga",
+   "parents": [
+    9865624
+   ],
+   "children": [
+    10330779
+   ]
+  },
+  "9908036": {
+   "name": "Upos-upos",
+   "parents": [
+    9865624
+   ],
+   "children": [
+    10330824
+   ]
+  },
+  "9908765": {
+   "name": "Bidbid",
+   "parents": [
+    9865624
+   ],
+   "children": []
+  },
+  "9909833": {
+   "name": "Bolinabid",
+   "parents": [
+    9865624
+   ],
+   "children": [
+    10330612
+   ]
+  },
+  "9909844": {
+   "name": "Lupoy",
+   "parents": [
+    9865624
+   ],
+   "children": [
+    10330649
+   ]
+  },
+  "9910241": {
+   "name": "Ganting",
+   "parents": [
+    9865624
+   ],
+   "children": [
+    10330626
+   ]
+  },
+  "9910410": {
+   "name": "Balanban",
+   "parents": [
+    9865624
+   ],
+   "children": [
+    10330600
+   ]
+  },
+  "9910752": {
+   "name": "Tambod",
+   "parents": [
+    9865624
+   ],
+   "children": [
+    10330817
+   ]
+  },
+  "9911036": {
+   "name": "Guno",
+   "parents": [
+    9865624
+   ],
+   "children": [
+    10330627
+   ]
+  },
+  "9911916": {
+   "name": "Bulaknita",
+   "parents": [
+    9865624
+   ],
+   "children": [
+    10330618
+   ]
+  },
+  "9912104": {
+   "name": "Ampapagot",
+   "parents": [
+    9865624
+   ],
+   "children": [
+    10330587
+   ]
+  },
+  "9912366": {
+   "name": "Daghagtiil",
+   "parents": [
+    41106
+   ],
+   "children": [
+    10085028,
+    10159078,
+    10648075,
+    10159404,
+    9912365,
+    10159026,
+    10158428,
+    10159741
+   ]
+  },
+  "9916929": {
+   "name": "Mananap_sa_Espanya",
+   "parents": [
+    3567
+   ],
+   "children": [
+    9916932,
+    9938821,
+    9932747,
+    9951212,
+    9948814,
+    9940463,
+    9938992,
+    9949617,
+    9950320,
+    9973582,
+    9976399,
+    9948950,
+    9949597
+   ]
+  },
+  "9916932": {
+   "name": "Maybukobuko_sa_Espanya",
+   "parents": [
+    9916929
+   ],
+   "children": [
+    9918656
+   ]
+  },
+  "9916958": {
+   "name": "Mananap_sa_Italya",
+   "parents": [
+    38362
+   ],
+   "children": [
+    9941827,
+    9975779,
+    9973480,
+    9925258,
+    9948639,
+    9939213,
+    9951025,
+    9933399,
+    9916959
+   ]
+  },
+  "9916959": {
+   "name": "Maybukobuko_sa_Italya",
+   "parents": [
+    9916958
+   ],
+   "children": [
+    9918643
+   ]
+  },
+  "9916996": {
+   "name": "Mananap_sa_Sweden",
+   "parents": [
+    6885231
+   ],
+   "children": [
+    9950337,
+    9916997,
+    9940969,
+    9949618,
+    9939221,
+    9987094,
+    9973530,
+    9933371,
+    9956092,
+    10084189
+   ]
+  },
+  "9916997": {
+   "name": "Maybukobuko_sa_Sweden",
+   "parents": [
+    9916996
+   ],
+   "children": [
+    9918661
+   ]
+  },
+  "9917064": {
+   "name": "Mananap_sa_Hapon",
+   "parents": [
+    42259
+   ],
+   "children": [
+    9948801,
+    9917065,
+    9940490,
+    10083851,
+    9935314,
+    9951543,
+    9948888,
+    9974111
+   ]
+  },
+  "9917065": {
+   "name": "Maybukobuko_sa_Hapon",
+   "parents": [
+    9917064
+   ],
+   "children": [
+    9924121,
+    9920061
+   ]
+  },
+  "9917742": {
+   "name": "Murag-iring_paghimo_ni_bot",
+   "parents": [
+    9864570
+   ],
+   "children": []
+  },
+  "9918643": {
+   "name": "Muraghalas_sa_Italya",
+   "parents": [
+    9916959
+   ],
+   "children": [
+    9919869
+   ]
+  },
+  "9918656": {
+   "name": "Muraghalas_sa_Espanya",
+   "parents": [
+    9916932
+   ],
+   "children": []
+  },
+  "9918661": {
+   "name": "Muraghalas_sa_Sweden",
+   "parents": [
+    9916997
+   ],
+   "children": []
+  },
+  "9919869": {
+   "name": "Pawikag-iwon_sa_Italya",
+   "parents": [
+    9918643
+   ],
+   "children": []
+  },
+  "9920061": {
+   "name": "Isdangtunay_sa_Hapon",
+   "parents": [
+    9917065
+   ],
+   "children": [
+    9921376,
+    9923139,
+    9920357,
+    9921861,
+    9922277,
+    9920168,
+    9920776,
+    9923656,
+    9920496,
+    9922002,
+    9920191
+   ]
+  },
+  "9920168": {
+   "name": "Isdangtunay_sa_Hokkaido_(pulo_sa_Hapon)",
+   "parents": [
+    9920061
+   ],
+   "children": []
+  },
+  "9920191": {
+   "name": "Isdangtunay_sa_Ryukyu_Islands",
+   "parents": [
+    9920061
+   ],
+   "children": [
+    9921386,
+    9920927
+   ]
+  },
+  "9920357": {
+   "name": "Panangitan_sa_Hapon",
+   "parents": [
+    9920061
+   ],
+   "children": []
+  },
+  "9920496": {
+   "name": "Isdangtunay_sa_Honshū_Island",
+   "parents": [
+    9920061
+   ],
+   "children": []
+  },
+  "9920776": {
+   "name": "Isdangtunay_sa_Kyushu",
+   "parents": [
+    9920061
+   ],
+   "children": []
+  },
+  "9920927": {
+   "name": "Bika-bika_sa_Ryukyu_Islands",
+   "parents": [
+    9920191
+   ],
+   "children": []
+  },
+  "9921376": {
+   "name": "Ananambo_sa_Hapon",
+   "parents": [
+    9920061
+   ],
+   "children": [
+    9921386
+   ]
+  },
+  "9921386": {
+   "name": "Ananambo_sa_Ryukyu_Islands",
+   "parents": [
+    9920191,
+    9921376
+   ],
+   "children": []
+  },
+  "9921861": {
+   "name": "Malapati_sa_Hapon",
+   "parents": [
+    9920061
+   ],
+   "children": []
+  },
+  "9922002": {
+   "name": "Mo-ong_sa_Hapon",
+   "parents": [
+    9920061
+   ],
+   "children": []
+  },
+  "9922277": {
+   "name": "Muragkarpa_sa_Hapon",
+   "parents": [
+    9920061
+   ],
+   "children": [
+    9922497
+   ]
+  },
+  "9922497": {
+   "name": "Karpa_sa_Hapon",
+   "parents": [
+    9922277
+   ],
+   "children": []
+  },
+  "9923139": {
+   "name": "Bantol_sa_Hapon",
+   "parents": [
+    9920061
+   ],
+   "children": []
+  },
+  "9923656": {
+   "name": "Ganting_sa_Hapon",
+   "parents": [
+    9920061
+   ],
+   "children": []
+  },
+  "9924091": {
+   "name": "Pagig-iho",
+   "parents": [
+    9874270
+   ],
+   "children": [
+    9924329,
+    9924093,
+    10330470
+   ]
+  },
+  "9924093": {
+   "name": "Pagig-iho_paghimo_ni_bot",
+   "parents": [
+    9924091
+   ],
+   "children": [
+    9924330,
+    11337685
+   ]
+  },
+  "9924121": {
+   "name": "Pagig-iho_sa_Hapon",
+   "parents": [
+    9917065
+   ],
+   "children": []
+  },
+  "9924329": {
+   "name": "Kurosan",
+   "parents": [
+    9924091
+   ],
+   "children": [
+    10330641,
+    9924330
+   ]
+  },
+  "9924330": {
+   "name": "Kurosan_paghimo_ni_bot",
+   "parents": [
+    9924093,
+    9924329
+   ],
+   "children": []
+  },
+  "9925257": {
+   "name": "Murag-kaka_sa_Italya",
+   "parents": [
+    9925258
+   ],
+   "children": [
+    10131748,
+    10111750
+   ]
+  },
+  "9925258": {
+   "name": "Daghagtiil_sa_Italya",
+   "parents": [
+    9916958
+   ],
+   "children": [
+    10137510,
+    9925257,
+    10083881,
+    10084011,
+    10085103,
+    10085651,
+    10083894
+   ]
+  },
+  "9925490": {
+   "name": "Tunokogpanit",
+   "parents": [
+    41106
+   ],
+   "children": [
+    9925600,
+    9927874,
+    9925491
+   ]
+  },
+  "9925491": {
+   "name": "Tunokogpanit_paghimo_ni_bot",
+   "parents": [
+    9925490
+   ],
+   "children": [
+    9925601,
+    9927875
+   ]
+  },
+  "9925600": {
+   "name": "Swakigtuyom",
+   "parents": [
+    9925490
+   ],
+   "children": [
+    9925601,
+    10330553
+   ]
+  },
+  "9925601": {
+   "name": "Swakigtuyom_paghimo_ni_bot",
+   "parents": [
+    9925491,
+    9925600
+   ],
+   "children": []
+  },
+  "9927874": {
+   "name": "Bituonbituon",
+   "parents": [
+    9925490
+   ],
+   "children": [
+    9927875,
+    10330461
+   ]
+  },
+  "9927875": {
+   "name": "Bituonbituon_paghimo_ni_bot",
+   "parents": [
+    9925491,
+    9927874
+   ],
+   "children": []
+  },
+  "9932674": {
+   "name": "Muragwati",
+   "parents": [
+    41106
+   ],
+   "children": [
+    9932675,
+    10330565
+   ]
+  },
+  "9932675": {
+   "name": "Muragwati_paghimo_ni_bot",
+   "parents": [
+    9932674
+   ],
+   "children": []
+  },
+  "9932747": {
+   "name": "Muragwati_sa_Espanya",
+   "parents": [
+    9916929
+   ],
+   "children": []
+  },
+  "9933371": {
+   "name": "Muragwati_sa_Sweden",
+   "parents": [
+    9916996
+   ],
+   "children": []
+  },
+  "9933399": {
+   "name": "Muragwati_sa_Italya",
+   "parents": [
+    9916958
+   ],
+   "children": []
+  },
+  "9935314": {
+   "name": "Muragwati_sa_Hapon",
+   "parents": [
+    9917064
+   ],
+   "children": []
+  },
+  "9938813": {
+   "name": "Muragtuway",
+   "parents": [
+    41106
+   ],
+   "children": [
+    10330517,
+    9938814
+   ]
+  },
+  "9938814": {
+   "name": "Muragtuway_paghimo_ni_bot",
+   "parents": [
+    9938813
+   ],
+   "children": []
+  },
+  "9938821": {
+   "name": "Muragtuway_sa_Espanya",
+   "parents": [
+    9916929
+   ],
+   "children": []
+  },
+  "9938978": {
+   "name": "Dapawdapaw",
+   "parents": [
+    41106
+   ],
+   "children": [
+    9938979,
+    10330524
+   ]
+  },
+  "9938979": {
+   "name": "Dapawdapaw_paghimo_ni_bot",
+   "parents": [
+    9938978
+   ],
+   "children": []
+  },
+  "9938992": {
+   "name": "Dapawdapaw_sa_Espanya",
+   "parents": [
+    9916929
+   ],
+   "children": []
+  },
+  "9939213": {
+   "name": "Dapawdapaw_sa_Italya",
+   "parents": [
+    9916958
+   ],
+   "children": []
+  },
+  "9939221": {
+   "name": "Dapawdapaw_sa_Sweden",
+   "parents": [
+    9916996
+   ],
+   "children": []
+  },
+  "9939685": {
+   "name": "Muragkigwa",
+   "parents": [
+    41106
+   ],
+   "children": [
+    10330560,
+    9939686
+   ]
+  },
+  "9939686": {
+   "name": "Muragkigwa_paghimo_ni_bot",
+   "parents": [
+    9939685
+   ],
+   "children": []
+  },
+  "9940431": {
+   "name": "Gasang",
+   "parents": [
+    61518
+   ],
+   "children": [
+    9940432,
+    10330479
+   ]
+  },
+  "9940432": {
+   "name": "Gasang_paghimo_ni_bot",
+   "parents": [
+    9940431
+   ],
+   "children": []
+  },
+  "9940461": {
+   "name": "Gasang_sa_Espanya",
+   "parents": [
+    9940463
+   ],
+   "children": []
+  },
+  "9940463": {
+   "name": "Nidariya_sa_Espanya",
+   "parents": [
+    9916929
+   ],
+   "children": [
+    9940461
+   ]
+  },
+  "9940489": {
+   "name": "Gasang_sa_Hapon",
+   "parents": [
+    9940490
+   ],
+   "children": []
+  },
+  "9940490": {
+   "name": "Nidariya_sa_Hapon",
+   "parents": [
+    9917064
+   ],
+   "children": [
+    9940489,
+    9945687
+   ]
+  },
+  "9940968": {
+   "name": "Gasang_sa_Sweden",
+   "parents": [
+    9940969
+   ],
+   "children": []
+  },
+  "9940969": {
+   "name": "Nidariya_sa_Sweden",
+   "parents": [
+    9916996
+   ],
+   "children": [
+    9940968
+   ]
+  },
+  "9941826": {
+   "name": "Gasang_sa_Italya",
+   "parents": [
+    9941827
+   ],
+   "children": []
+  },
+  "9941827": {
+   "name": "Nidariya_sa_Italya",
+   "parents": [
+    9916958
+   ],
+   "children": [
+    9941826
+   ]
+  },
+  "9945687": {
+   "name": "Bukya_sa_Hapon",
+   "parents": [
+    9940490
+   ],
+   "children": []
+  },
+  "9946749": {
+   "name": "Tigao",
+   "parents": [
+    61518
+   ],
+   "children": [
+    9946750,
+    10330679
+   ]
+  },
+  "9946750": {
+   "name": "Tigao_paghimo_ni_bot",
+   "parents": [
+    9946749
+   ],
+   "children": []
+  },
+  "9948424": {
+   "name": "Mananap_nga_korset_paghimo_ni_bot",
+   "parents": [
+    62184
+   ],
+   "children": []
+  },
+  "9948442": {
+   "name": "Ulod_nga_armadura_paghimo_ni_bot",
+   "parents": [
+    78344
+   ],
+   "children": []
+  },
+  "9948639": {
+   "name": "Bukya_nga_sudlay_sa_Italya",
+   "parents": [
+    9916958
+   ],
+   "children": []
+  },
+  "9948681": {
+   "name": "Ulod_nga_gapasan_paghimo_ni_bot",
+   "parents": [
+    78789
+   ],
+   "children": []
+  },
+  "9948790": {
+   "name": "Rombosoa_paghimo_ni_bot",
+   "parents": [
+    78838
+   ],
+   "children": []
+  },
+  "9948801": {
+   "name": "Rombosoa_sa_Hapon",
+   "parents": [
+    9917064
+   ],
+   "children": [
+    9948812
+   ]
+  },
+  "9948812": {
+   "name": "Rombosoa_sa_Inland_Sea",
+   "parents": [
+    9948801
+   ],
+   "children": []
+  },
+  "9948814": {
+   "name": "Rombosoa_sa_Espanya",
+   "parents": [
+    9916929
+   ],
+   "children": []
+  },
+  "9948888": {
+   "name": "Gastrotricha_sa_Hapon",
+   "parents": [
+    9917064
+   ],
+   "children": []
+  },
+  "9948950": {
+   "name": "Gastrotricha_sa_Espanya",
+   "parents": [
+    9916929
+   ],
+   "children": []
+  },
+  "9949162": {
+   "name": "Ulod_nga_papangig_paghimo_ni_bot",
+   "parents": [
+    64151
+   ],
+   "children": []
+  },
+  "9949205": {
+   "name": "Ulod_nga_ulok-ulok_paghimo_ni_bot",
+   "parents": [
+    113320
+   ],
+   "children": []
+  },
+  "9949276": {
+   "name": "Miksosoa_paghimo_ni_bot",
+   "parents": [
+    78861
+   ],
+   "children": []
+  },
+  "9949593": {
+   "name": "Ortonektida_paghimo_ni_bot",
+   "parents": [
+    192652
+   ],
+   "children": []
+  },
+  "9949597": {
+   "name": "Ortonektida_sa_Espanya",
+   "parents": [
+    9916929
+   ],
+   "children": []
+  },
+  "9949617": {
+   "name": "Ulod_nga_sapatos_sa_kabayo_sa_Espanya",
+   "parents": [
+    9916929
+   ],
+   "children": []
+  },
+  "9949618": {
+   "name": "Ulod_nga_sapatos_sa_kabayo_sa_Sweden",
+   "parents": [
+    9916996
+   ],
+   "children": []
+  },
+  "9950320": {
+   "name": "Ulod_nga_hukal_sa_Espanya",
+   "parents": [
+    9916929
+   ],
+   "children": []
+  },
+  "9950337": {
+   "name": "Ulod_nga_hukal_sa_Sweden",
+   "parents": [
+    9916996
+   ],
+   "children": []
+  },
+  "9951025": {
+   "name": "Ulod_nga_patag_sa_Italya",
+   "parents": [
+    9916958
+   ],
+   "children": []
+  },
+  "9951212": {
+   "name": "Ulod_nga_patag_sa_Espanya",
+   "parents": [
+    9916929
+   ],
+   "children": []
+  },
+  "9951543": {
+   "name": "Ulod_nga_patag_sa_Hapon",
+   "parents": [
+    9917064
+   ],
+   "children": [
+    9959477
+   ]
+  },
+  "9956092": {
+   "name": "Ulod_nga_patag_sa_Sweden",
+   "parents": [
+    9916996
+   ],
+   "children": []
+  },
+  "9959477": {
+   "name": "Ulod_nga_patag_sa_Inland_Sea",
+   "parents": [
+    9951543
+   ],
+   "children": []
+  },
+  "9973480": {
+   "name": "Mananap_nga_ligid_sa_Italya",
+   "parents": [
+    9916958
+   ],
+   "children": []
+  },
+  "9973530": {
+   "name": "Mananap_nga_ligid_sa_Sweden",
+   "parents": [
+    9916996
+   ],
+   "children": []
+  },
+  "9973582": {
+   "name": "Mananap_nga_ligid_sa_Espanya",
+   "parents": [
+    9916929
+   ],
+   "children": [
+    9973670
+   ]
+  },
+  "9973670": {
+   "name": "Mananap_nga_ligid_sa_La_Rioja_(rehiyon)",
+   "parents": [
+    9973582
+   ],
+   "children": []
+  },
+  "9974111": {
+   "name": "Banaog_sa_Hapon",
+   "parents": [
+    9917064
+   ],
+   "children": [
+    9974368
+   ]
+  },
+  "9974368": {
+   "name": "Banaog_sa_Honshū_Island",
+   "parents": [
+    9974111
+   ],
+   "children": []
+  },
+  "9975779": {
+   "name": "Banaog_sa_Italya",
+   "parents": [
+    9916958
+   ],
+   "children": []
+  },
+  "9976399": {
+   "name": "Banaog_sa_Espanya",
+   "parents": [
+    9916929
+   ],
+   "children": []
+  },
+  "9978444": {
+   "name": "Tardigrada_paghimo_ni_bot",
+   "parents": [
+    61312
+   ],
+   "children": []
+  },
+  "9978683": {
+   "name": "Dawhilahila",
+   "parents": [
+    62458
+   ],
+   "children": [
+    10031042,
+    10330468,
+    10031790,
+    10037977,
+    9978684,
+    9996093,
+    10027262,
+    10056959
+   ]
+  },
+  "9978684": {
+   "name": "Dawhilahila_paghimo_ni_bot",
+   "parents": [
+    9978683
+   ],
+   "children": [
+    10056960,
+    10031043,
+    10037978,
+    9996094,
+    10027263
+   ]
+  },
+  "9987093": {
+   "name": "Dawhilahila_sa_Sweden",
+   "parents": [
+    9987094
+   ],
+   "children": []
+  },
+  "9987094": {
+   "name": "Kinhason_sa_Sweden",
+   "parents": [
+    9916996
+   ],
+   "children": [
+    10081228,
+    9987093,
+    10060359
+   ]
+  },
+  "9996093": {
+   "name": "Buwao",
+   "parents": [
+    9978683
+   ],
+   "children": [
+    10330620,
+    9996094
+   ]
+  },
+  "9996094": {
+   "name": "Buwao_paghimo_ni_bot",
+   "parents": [
+    9978684,
+    9996093
+   ],
+   "children": []
+  },
+  "10027262": {
+   "name": "Sangka-sangka",
+   "parents": [
+    9978683
+   ],
+   "children": [
+    10330653,
+    10027263
+   ]
+  },
+  "10027263": {
+   "name": "Sangka-sangka_paghimo_ni_bot",
+   "parents": [
+    9978684,
+    10027262
+   ],
+   "children": []
+  },
+  "10031042": {
+   "name": "Kibol",
+   "parents": [
+    9978683
+   ],
+   "children": [
+    10031043,
+    10330837
+   ]
+  },
+  "10031043": {
+   "name": "Kibol_paghimo_ni_bot",
+   "parents": [
+    9978684,
+    10031042
+   ],
+   "children": []
+  },
+  "10031790": {
+   "name": "Lukot",
+   "parents": [
+    9978683
+   ],
+   "children": []
+  },
+  "10037977": {
+   "name": "Kapinan",
+   "parents": [
+    9978683
+   ],
+   "children": [
+    10330633,
+    10037978
+   ]
+  },
+  "10037978": {
+   "name": "Kapinan_paghimo_ni_bot",
+   "parents": [
+    9978684,
+    10037977
+   ],
+   "children": []
+  },
+  "10056959": {
+   "name": "Amomongpong",
+   "parents": [
+    9978683
+   ],
+   "children": [
+    10056960,
+    10330681
+   ]
+  },
+  "10056960": {
+   "name": "Amomongpong_paghimo_ni_bot",
+   "parents": [
+    9978684,
+    10056959
+   ],
+   "children": []
+  },
+  "10060359": {
+   "name": "Ukab-ukab_sa_Sweden",
+   "parents": [
+    9987094
+   ],
+   "children": []
+  },
+  "10060687": {
+   "name": "Litob",
+   "parents": [
+    102068
+   ],
+   "children": [
+    10060688,
+    10330643
+   ]
+  },
+  "10060688": {
+   "name": "Litob_paghimo_ni_bot",
+   "parents": [
+    10060687
+   ],
+   "children": []
+  },
+  "10062651": {
+   "name": "Antulang",
+   "parents": [
+    102068
+   ],
+   "children": [
+    10330828,
+    10062652
+   ]
+  },
+  "10062652": {
+   "name": "Antulang_paghimo_ni_bot",
+   "parents": [
+    10062651
+   ],
+   "children": []
+  },
+  "10072664": {
+   "name": "Atsa-atsa",
+   "parents": [
+    102068
+   ],
+   "children": [
+    10072665,
+    10330591
+   ]
+  },
+  "10072665": {
+   "name": "Atsa-atsa_paghimo_ni_bot",
+   "parents": [
+    10072664
+   ],
+   "children": []
+  },
+  "10078500": {
+   "name": "Bulok-bulok",
+   "parents": [
+    102068
+   ],
+   "children": [
+    10330808,
+    10078501
+   ]
+  },
+  "10078501": {
+   "name": "Bulok-bulok_paghimo_ni_bot",
+   "parents": [
+    10078500
+   ],
+   "children": []
+  },
+  "10078947": {
+   "name": "Bug-atan",
+   "parents": [
+    102068
+   ],
+   "children": [
+    10330834,
+    10078948
+   ]
+  },
+  "10078948": {
+   "name": "Bug-atan_paghimo_ni_bot",
+   "parents": [
+    10078947
+   ],
+   "children": []
+  },
+  "10081199": {
+   "name": "Pugitagnukos",
+   "parents": [
+    62458
+   ],
+   "children": [
+    10081200,
+    10081313,
+    10082003,
+    10330528
+   ]
+  },
+  "10081200": {
+   "name": "Pugitagnukos_paghimo_ni_bot",
+   "parents": [
+    10081199
+   ],
+   "children": [
+    10081314,
+    10082004
+   ]
+  },
+  "10081228": {
+   "name": "Pugitagnukos_sa_Sweden",
+   "parents": [
+    9987094
+   ],
+   "children": [
+    10082089
+   ]
+  },
+  "10081313": {
+   "name": "Pugita",
+   "parents": [
+    10081199
+   ],
+   "children": [
+    10081314,
+    10330486,
+    10081615
+   ]
+  },
+  "10081314": {
+   "name": "Pugita_paghimo_ni_bot",
+   "parents": [
+    10081200,
+    10081313
+   ],
+   "children": [
+    10081616
+   ]
+  },
+  "10081615": {
+   "name": "Tabugok",
+   "parents": [
+    10081313
+   ],
+   "children": [
+    10081616,
+    10330764
+   ]
+  },
+  "10081616": {
+   "name": "Tabugok_paghimo_ni_bot",
+   "parents": [
+    10081314,
+    10081615
+   ],
+   "children": []
+  },
+  "10082003": {
+   "name": "Kubotan",
+   "parents": [
+    10081199
+   ],
+   "children": [
+    10082004,
+    10330638
+   ]
+  },
+  "10082004": {
+   "name": "Kubotan_paghimo_ni_bot",
+   "parents": [
+    10081200,
+    10082003
+   ],
+   "children": []
+  },
+  "10082089": {
+   "name": "Kubotan_sa_Sweden",
+   "parents": [
+    10081228
+   ],
+   "children": []
+  },
+  "10083850": {
+   "name": "Aluhipan_sa_Hapon",
+   "parents": [
+    10083851
+   ],
+   "children": [
+    10084211,
+    10084262
+   ]
+  },
+  "10083851": {
+   "name": "Daghagtiil_sa_Hapon",
+   "parents": [
+    9917064
+   ],
+   "children": [
+    10111776,
+    10084220,
+    10178537,
+    10083850,
+    10086105,
+    10084252
+   ]
+  },
+  "10083881": {
+   "name": "Aluhipan_sa_Italya",
+   "parents": [
+    9925258
+   ],
+   "children": [
+    10084010,
+    10083893
+   ]
+  },
+  "10083893": {
+   "name": "Aluhipan_sa_Sicilia",
+   "parents": [
+    10083881,
+    10083894
+   ],
+   "children": []
+  },
+  "10083894": {
+   "name": "Daghagtiil_sa_Sicilia",
+   "parents": [
+    9925258
+   ],
+   "children": [
+    10083893,
+    10178615
+   ]
+  },
+  "10084010": {
+   "name": "Aluhipan_sa_Cerdeña",
+   "parents": [
+    10083881,
+    10084011
+   ],
+   "children": []
+  },
+  "10084011": {
+   "name": "Daghagtiil_sa_Cerdeña",
+   "parents": [
+    9925258
+   ],
+   "children": [
+    10084010,
+    10178613
+   ]
+  },
+  "10084189": {
+   "name": "Daghagtiil_sa_Sweden",
+   "parents": [
+    9916996
+   ],
+   "children": [
+    10178650,
+    10112695
+   ]
+  },
+  "10084211": {
+   "name": "Aluhipan_sa_Honshū_Island",
+   "parents": [
+    10083850
+   ],
+   "children": []
+  },
+  "10084220": {
+   "name": "Daghagtiil_sa_Hokkaido_(pulo_sa_Hapon)",
+   "parents": [
+    10083851
+   ],
+   "children": [
+    10288492
+   ]
+  },
+  "10084252": {
+   "name": "Daghagtiil_sa_Kyushu",
+   "parents": [
+    10083851
+   ],
+   "children": [
+    10087288,
+    10288163
+   ]
+  },
+  "10084262": {
+   "name": "Aluhipan_sa_Ryukyu_Islands",
+   "parents": [
+    10083850
+   ],
+   "children": []
+  },
+  "10084875": {
+   "name": "Sly_Cooper",
+   "parents": [
+    52347
+   ],
+   "children": []
+  },
+  "10084876": {
+   "name": "Mga_dula_sa_PlayStation_2",
+   "parents": [
+    52347
+   ],
+   "children": []
+  },
+  "10085017": {
+   "name": "Mga_dula_sa_Nintendo_GameCube",
+   "parents": [
+    52347
+   ],
+   "children": []
+  },
+  "10085018": {
+   "name": "Mga_dula_sa_Xbox",
+   "parents": [
+    52347
+   ],
+   "children": []
+  },
+  "10085028": {
+   "name": "Kubaw",
+   "parents": [
+    9912366
+   ],
+   "children": [
+    10330640,
+    10085029
+   ]
+  },
+  "10085029": {
+   "name": "Kubaw_paghimo_ni_bot",
+   "parents": [
+    10085028
+   ],
+   "children": []
+  },
+  "10085096": {
+   "name": "Ratchet_&_Clank",
+   "parents": [
+    52347
+   ],
+   "children": []
+  },
+  "10085103": {
+   "name": "Kubaw_sa_Italya",
+   "parents": [
+    9925258
+   ],
+   "children": []
+  },
+  "10085163": {
+   "name": "Mga_dula_sa_Spider-Man",
+   "parents": [
+    52347
+   ],
+   "children": []
+  },
+  "10085185": {
+   "name": "Mga_dula_sa_PlayStation",
+   "parents": [
+    52347
+   ],
+   "children": []
+  },
+  "10085201": {
+   "name": "Rayman",
+   "parents": [
+    52347
+   ],
+   "children": []
+  },
+  "10085241": {
+   "name": "Halo_(franchise)",
+   "parents": [
+    52347
+   ],
+   "children": []
+  },
+  "10085251": {
+   "name": "Mga_dula_sa_Xbox_360",
+   "parents": [
+    52347
+   ],
+   "children": []
+  },
+  "10085467": {
+   "name": "Mortal_Kombat",
+   "parents": [
+    52347
+   ],
+   "children": [
+    10098090
+   ]
+  },
+  "10085589": {
+   "name": "Oddworld",
+   "parents": [
+    52347
+   ],
+   "children": []
+  },
+  "10085651": {
+   "name": "Tiladtilad_sa_Italya",
+   "parents": [
+    9925258
+   ],
+   "children": []
+  },
+  "10086105": {
+   "name": "Tiladtilad_sa_Hapon",
+   "parents": [
+    10083851
+   ],
+   "children": [
+    10087288,
+    10087172
+   ]
+  },
+  "10087002": {
+   "name": "Mga_dula_sa_PlayStation_3",
+   "parents": [
+    52347
+   ],
+   "children": []
+  },
+  "10087094": {
+   "name": "Kingdom_Hearts",
+   "parents": [
+    52347
+   ],
+   "children": [
+    10093024
+   ]
+  },
+  "10087106": {
+   "name": "Jak_and_Daxter",
+   "parents": [
+    52347
+   ],
+   "children": []
+  },
+  "10087119": {
+   "name": "Mga_dula_sa_PlayStation_Portable",
+   "parents": [
+    52347
+   ],
+   "children": []
+  },
+  "10087172": {
+   "name": "Tiladtilad_sa_Honshū_Island",
+   "parents": [
+    10086105
+   ],
+   "children": []
+  },
+  "10087288": {
+   "name": "Tiladtilad_sa_Kyushu",
+   "parents": [
+    10084252,
+    10086105
+   ],
+   "children": []
+  },
+  "10087868": {
+   "name": "Mga_dula_sa_Nintendo_64",
+   "parents": [
+    7564565
+   ],
+   "children": []
+  },
+  "10087877": {
+   "name": "Crash_Bandicoot",
+   "parents": [
+    52347
+   ],
+   "children": []
+  },
+  "10088674": {
+   "name": "Mga_dula_sa_Dreamcast",
+   "parents": [
+    52347
+   ],
+   "children": []
+  },
+  "10090802": {
+   "name": "Spyro_the_Dragon",
+   "parents": [
+    52347
+   ],
+   "children": []
+  },
+  "10091105": {
+   "name": "Mga_dula_sa_PlayStation_4",
+   "parents": [
+    52347
+   ],
+   "children": []
+  },
+  "10091901": {
+   "name": "Disney_Renaissance",
+   "parents": [
+    52202
+   ],
+   "children": []
+  },
+  "10092043": {
+   "name": "Mga_dula_sa_Xbox_One",
+   "parents": [
+    52347
+   ],
+   "children": []
+  },
+  "10093024": {
+   "name": "Mga_karakter_sa_Kingdom_Hearts",
+   "parents": [
+    10087094
+   ],
+   "children": []
+  },
+  "10094096": {
+   "name": "Mga_dula_sa_Nintendo_Wii",
+   "parents": [
+    52347
+   ],
+   "children": []
+  },
+  "10098090": {
+   "name": "Mga_karakter_sa_Mortal_Kombat",
+   "parents": [
+    10085467
+   ],
+   "children": [
+    10098105
+   ]
+  },
+  "10098105": {
+   "name": "Mga_karakter_sa_bisita_sa_Mortal_Kombat",
+   "parents": [
+    10098090
+   ],
+   "children": []
+  },
+  "10109406": {
+   "name": "Mga_dula_sa_Nintendo_DS",
+   "parents": [
+    52347
+   ],
+   "children": []
+  },
+  "10109796": {
+   "name": "Mga_dula_sa_Nintendo_Switch",
+   "parents": [
+    52347
+   ],
+   "children": []
+  },
+  "10109802": {
+   "name": "Mga_dula_sa_Nintendo_3DS",
+   "parents": [
+    52347
+   ],
+   "children": []
+  },
+  "10111750": {
+   "name": "Kaka_sa_Italya",
+   "parents": [
+    9925257
+   ],
+   "children": [
+    10111768,
+    10112934
+   ]
+  },
+  "10111768": {
+   "name": "Kaka_sa_Sicilia",
+   "parents": [
+    10111750
+   ],
+   "children": []
+  },
+  "10111775": {
+   "name": "Kaka_sa_Hapon",
+   "parents": [
+    10111776
+   ],
+   "children": [
+    10112148
+   ]
+  },
+  "10111776": {
+   "name": "Murag-kaka_sa_Hapon",
+   "parents": [
+    10083851
+   ],
+   "children": [
+    10131947,
+    10111775
+   ]
+  },
+  "10112148": {
+   "name": "Kaka_sa_Ryukyu_Islands",
+   "parents": [
+    10111775
+   ],
+   "children": []
+  },
+  "10112694": {
+   "name": "Kaka_sa_Sweden",
+   "parents": [
+    10112695
+   ],
+   "children": []
+  },
+  "10112695": {
+   "name": "Murag-kaka_sa_Sweden",
+   "parents": [
+    10084189
+   ],
+   "children": [
+    10112694
+   ]
+  },
+  "10112934": {
+   "name": "Kaka_sa_Cerdeña",
+   "parents": [
+    10111750
+   ],
+   "children": []
+  },
+  "10131019": {
+   "name": "Tungaw",
+   "parents": [
+    9912365
+   ],
+   "children": []
+  },
+  "10131748": {
+   "name": "Garapata_sa_Italya",
+   "parents": [
+    9925257
+   ],
+   "children": []
+  },
+  "10131947": {
+   "name": "Garapata_sa_Hapon",
+   "parents": [
+    10111776
+   ],
+   "children": []
+  },
+  "10137510": {
+   "name": "Insekto_sa_Italya",
+   "parents": [
+    9925258
+   ],
+   "children": [
+    10482215,
+    10791852,
+    10787506,
+    10178613,
+    10178615
+   ]
+  },
+  "10140880": {
+   "name": "Bayingbaying",
+   "parents": [
+    61317
+   ],
+   "children": []
+  },
+  "10158428": {
+   "name": "Banagan",
+   "parents": [
+    9912366
+   ],
+   "children": [
+    10158429
+   ]
+  },
+  "10158429": {
+   "name": "Banagan_paghimo_ni_bot",
+   "parents": [
+    10158428
+   ],
+   "children": []
+  },
+  "10159026": {
+   "name": "Agokoy",
+   "parents": [
+    9912366
+   ],
+   "children": [
+    10159027,
+    10330831
+   ]
+  },
+  "10159027": {
+   "name": "Agokoy_paghimo_ni_bot",
+   "parents": [
+    10159026
+   ],
+   "children": []
+  },
+  "10159078": {
+   "name": "Umang",
+   "parents": [
+    9912366
+   ],
+   "children": []
+  },
+  "10159404": {
+   "name": "Takla",
+   "parents": [
+    9912366
+   ],
+   "children": [
+    10159405
+   ]
+  },
+  "10159405": {
+   "name": "Takla_paghimo_ni_bot",
+   "parents": [
+    10159404
+   ],
+   "children": []
+  },
+  "10159741": {
+   "name": "Lokon",
+   "parents": [
+    9912366
+   ],
+   "children": [
+    10330644,
+    10159742
+   ]
+  },
+  "10159742": {
+   "name": "Lokon_paghimo_ni_bot",
+   "parents": [
+    10159741
+   ],
+   "children": []
+  },
+  "10178256": {
+   "name": "Alindahaw",
+   "parents": [
+    61317
+   ],
+   "children": [
+    10178257,
+    10330450
+   ]
+  },
+  "10178257": {
+   "name": "Alindahaw_paghimo_ni_bot",
+   "parents": [
+    10178256
+   ],
+   "children": []
+  },
+  "10178537": {
+   "name": "Insekto_sa_Hapon",
+   "parents": [
+    10083851
+   ],
+   "children": [
+    10791808,
+    10288163,
+    10288165,
+    10687400,
+    10179338,
+    10288492,
+    10288463,
+    10288208,
+    10787218,
+    10481887
+   ]
+  },
+  "10178613": {
+   "name": "Insekto_sa_Cerdeña",
+   "parents": [
+    10084011,
+    10137510
+   ],
+   "children": [
+    10484266,
+    10180355
+   ]
+  },
+  "10178615": {
+   "name": "Insekto_sa_Sicilia",
+   "parents": [
+    10083894,
+    10137510
+   ],
+   "children": [
+    10482216,
+    10787507,
+    10179573
+   ]
+  },
+  "10178650": {
+   "name": "Insekto_sa_Sweden",
+   "parents": [
+    10084189
+   ],
+   "children": [
+    10791824,
+    10482827,
+    10180301
+   ]
+  },
+  "10179262": {
+   "name": "Bakukangon",
+   "parents": [
+    61317
+   ],
+   "children": [
+    10330456,
+    10291394,
+    10356022,
+    10179263
+   ]
+  },
+  "10179263": {
+   "name": "Bakukangon_paghimo_ni_bot",
+   "parents": [
+    10179262
+   ],
+   "children": [
+    10291395,
+    10356023
+   ]
+  },
+  "10179338": {
+   "name": "Bakukangon_sa_Hapon",
+   "parents": [
+    10178537
+   ],
+   "children": [
+    10288162,
+    10288164,
+    10288491,
+    10288462,
+    10288207
+   ]
+  },
+  "10179573": {
+   "name": "Bakukangon_sa_Sicilia",
+   "parents": [
+    10178615
+   ],
+   "children": []
+  },
+  "10180301": {
+   "name": "Bakukangon_sa_Sweden",
+   "parents": [
+    10178650
+   ],
+   "children": []
+  },
+  "10180355": {
+   "name": "Bakukangon_sa_Cerdeña",
+   "parents": [
+    10178613
+   ],
+   "children": []
+  },
+  "10212233": {
+   "name": "Mga_dula_sa_PlayStation_5",
+   "parents": [
+    52347
+   ],
+   "children": []
+  },
+  "10212236": {
+   "name": "Mga_dula_sa_Game_Boy_Advance",
+   "parents": [
+    52347
+   ],
+   "children": []
+  },
+  "10288162": {
+   "name": "Bakukangon_sa_Kyushu",
+   "parents": [
+    10179338,
+    10288163
+   ],
+   "children": []
+  },
+  "10288163": {
+   "name": "Insekto_sa_Kyushu",
+   "parents": [
+    10084252,
+    10178537
+   ],
+   "children": [
+    10288162,
+    10484242
+   ]
+  },
+  "10288164": {
+   "name": "Bakukangon_sa_Shikoku",
+   "parents": [
+    10179338,
+    10288165
+   ],
+   "children": []
+  },
+  "10288165": {
+   "name": "Insekto_sa_Shikoku",
+   "parents": [
+    10178537
+   ],
+   "children": [
+    10484240,
+    10288164
+   ]
+  },
+  "10288207": {
+   "name": "Bakukangon_sa_Honshū_Island",
+   "parents": [
+    10179338,
+    10288208
+   ],
+   "children": []
+  },
+  "10288208": {
+   "name": "Insekto_sa_Honshū_Island",
+   "parents": [
+    10178537
+   ],
+   "children": [
+    10484241,
+    10288207
+   ]
+  },
+  "10288462": {
+   "name": "Bakukangon_sa_Ryukyu_Islands",
+   "parents": [
+    10179338,
+    10288463
+   ],
+   "children": []
+  },
+  "10288463": {
+   "name": "Insekto_sa_Ryukyu_Islands",
+   "parents": [
+    10178537
+   ],
+   "children": [
+    10787323,
+    10482029,
+    10288462
+   ]
+  },
+  "10288491": {
+   "name": "Bakukangon_sa_Hokkaido_(pulo_sa_Hapon)",
+   "parents": [
+    10179338,
+    10288492
+   ],
+   "children": []
+  },
+  "10288492": {
+   "name": "Insekto_sa_Hokkaido_(pulo_sa_Hapon)",
+   "parents": [
+    10084220,
+    10178537
+   ],
+   "children": [
+    10484243,
+    10288491
+   ]
+  },
+  "10291394": {
+   "name": "Punan",
+   "parents": [
+    10179262
+   ],
+   "children": [
+    10291395,
+    10330660
+   ]
+  },
+  "10291395": {
+   "name": "Punan_paghimo_ni_bot",
+   "parents": [
+    10179263,
+    10291394
+   ],
+   "children": []
+  },
+  "10330450": {
+   "name": "Sinonimo_nga_alindahaw",
+   "parents": [
+    62491,
+    10178256
+   ],
+   "children": []
+  },
+  "10330451": {
+   "name": "Sinonimo_nga_aliwas",
+   "parents": [
+    62491,
+    330838
+   ],
+   "children": []
+  },
+  "10330454": {
+   "name": "Sinonimo_nga_murag-anay",
+   "parents": [
+    62491
+   ],
+   "children": []
+  },
+  "10330456": {
+   "name": "Sinonimo_nga_bakukangon",
+   "parents": [
+    62491,
+    10179262
+   ],
+   "children": []
+  },
+  "10330458": {
+   "name": "Sinonimo_nga_balyenaglumod",
+   "parents": [
+    62491,
+    9868948
+   ],
+   "children": []
+  },
+  "10330459": {
+   "name": "Sinonimo_nga_pawikag-iwon",
+   "parents": [
+    62491,
+    9886395
+   ],
+   "children": []
+  },
+  "10330461": {
+   "name": "Sinonimo_nga_bituonbituon",
+   "parents": [
+    62491,
+    9927874
+   ],
+   "children": []
+  },
+  "10330464": {
+   "name": "Sinonimo_nga_kabayo",
+   "parents": [
+    62491
+   ],
+   "children": []
+  },
+  "10330467": {
+   "name": "Sinonimo_nga_gastrotricha",
+   "parents": [
+    62491
+   ],
+   "children": []
+  },
+  "10330468": {
+   "name": "Sinonimo_nga_dawhilahila",
+   "parents": [
+    62491,
+    9978683
+   ],
+   "children": []
+  },
+  "10330470": {
+   "name": "Sinonimo_nga_pagig-iho",
+   "parents": [
+    62491,
+    9924091
+   ],
+   "children": []
+  },
+  "10330471": {
+   "name": "Sinonimo_nga_ilaga",
+   "parents": [
+    62491,
+    327498
+   ],
+   "children": []
+  },
+  "10330473": {
+   "name": "Sinonimo_nga_murag-iring",
+   "parents": [
+    62491,
+    9864570
+   ],
+   "children": []
+  },
+  "10330474": {
+   "name": "Sinonimo_nga_ayam",
+   "parents": [
+    62491,
+    9867960
+   ],
+   "children": []
+  },
+  "10330476": {
+   "name": "Sinonimo_nga_muragkarpa",
+   "parents": [
+    62491,
+    9898617
+   ],
+   "children": []
+  },
+  "10330478": {
+   "name": "Sinonimo_nga_itik",
+   "parents": [
+    62491
+   ],
+   "children": []
+  },
+  "10330479": {
+   "name": "Sinonimo_nga_gasang",
+   "parents": [
+    62491,
+    9940431
+   ],
+   "children": []
+  },
+  "10330484": {
+   "name": "Sinonimo_nga_karpa",
+   "parents": [
+    55662,
+    62491
+   ],
+   "children": []
+  },
+  "10330486": {
+   "name": "Sinonimo_nga_pugita",
+   "parents": [
+    62491,
+    10081313
+   ],
+   "children": []
+  },
+  "10330488": {
+   "name": "Sinonimo_nga_kwakniton",
+   "parents": [
+    62491,
+    9869131
+   ],
+   "children": []
+  },
+  "10330490": {
+   "name": "Sinonimo_nga_langgam_nga_adunay_balalatok",
+   "parents": [
+    62491,
+    347225
+   ],
+   "children": []
+  },
+  "10330494": {
+   "name": "Sinonimo_nga_kanawayon",
+   "parents": [
+    62491,
+    9888840
+   ],
+   "children": []
+  },
+  "10330497": {
+   "name": "Sinonimo_nga_langgam_nga_adunay_pagala",
+   "parents": [
+    62491,
+    350819
+   ],
+   "children": []
+  },
+  "10330499": {
+   "name": "Sinonimo_nga_langgam_nga_adunay_periko",
+   "parents": [
+    62491,
+    347734
+   ],
+   "children": []
+  },
+  "10330504": {
+   "name": "Sinonimo_nga_muragsayaw",
+   "parents": [
+    62491,
+    9888970
+   ],
+   "children": []
+  },
+  "10330507": {
+   "name": "Sinonimo_nga_mandaragit",
+   "parents": [
+    62491,
+    9889016
+   ],
+   "children": []
+  },
+  "10330509": {
+   "name": "Sinonimo_nga_tikarolon",
+   "parents": [
+    62491,
+    9888790
+   ],
+   "children": []
+  },
+  "10969689": {
+   "name": "Lumot_nga_berde",
+   "parents": [
+    1884623
+   ],
+   "children": [
+    10969691
+   ]
+  },
+  "10972359": {
+   "name": "Lumot_nga_pula",
+   "parents": [
+    1884623
+   ],
+   "children": [
+    10972360
+   ]
+  },
+  "10330517": {
+   "name": "Sinonimo_nga_muragtuway",
+   "parents": [
+    62491,
+    9938813
+   ],
+   "children": []
+  },
+  "10330520": {
+   "name": "Sinonimo_nga_murag-kaka",
+   "parents": [
+    62491,
+    9912365
+   ],
+   "children": []
+  },
+  "10330524": {
+   "name": "Sinonimo_nga_dapawdapaw",
+   "parents": [
+    62491,
+    9938978
+   ],
+   "children": []
+  },
+  "10330525": {
+   "name": "Sinonimo_nga_mangak",
+   "parents": [
+    62491,
+    343813
+   ],
+   "children": []
+  },
+  "10330527": {
+   "name": "Sinonimo_nga_miksosoa",
+   "parents": [
+    62491,
+    78861
+   ],
+   "children": []
+  },
+  "10330528": {
+   "name": "Sinonimo_nga_pugitagnukos",
+   "parents": [
+    62491,
+    10081199
+   ],
+   "children": []
+  },
+  "10330533": {
+   "name": "Sinonimo_nga_pitupit",
+   "parents": [
+    62491
+   ],
+   "children": []
+  },
+  "10330536": {
+   "name": "Sinonimo_nga_priapulida",
+   "parents": [
+    62491
+   ],
+   "children": []
+  },
+  "10330538": {
+   "name": "Sinonimo_nga_muraghalas",
+   "parents": [
+    62491,
+    9874274
+   ],
+   "children": []
+  },
+  "10330539": {
+   "name": "Sinonimo_nga_rombosoa",
+   "parents": [
+    62491,
+    78838
+   ],
+   "children": []
+  },
+  "10330544": {
+   "name": "Sinonimo_nga_sipit",
+   "parents": [
+    62491,
+    880771
+   ],
+   "children": []
+  },
+  "10330547": {
+   "name": "Sinonimo_nga_tabilistubig",
+   "parents": [
+    62491,
+    9889232
+   ],
+   "children": []
+  },
+  "10330549": {
+   "name": "Sinonimo_nga_tanom_nga_balili",
+   "parents": [
+    2028361,
+    2061683
+   ],
+   "children": []
+  },
+  "10330550": {
+   "name": "Sinonimo_nga_tanom_nga_rosas",
+   "parents": [
+    2028361,
+    2166537
+   ],
+   "children": []
+  },
+  "10330552": {
+   "name": "Sinonimo_nga_tardigrada",
+   "parents": [
+    61312,
+    62491
+   ],
+   "children": []
+  },
+  "10330553": {
+   "name": "Sinonimo_nga_swakigtuyom",
+   "parents": [
+    62491,
+    9925600
+   ],
+   "children": []
+  },
+  "10330557": {
+   "name": "Sinonimo_nga_ulod_nga_armadura",
+   "parents": [
+    62491,
+    78344
+   ],
+   "children": []
+  },
+  "10330558": {
+   "name": "Sinonimo_nga_ulod_nga_gapasan",
+   "parents": [
+    62491,
+    78789
+   ],
+   "children": []
+  },
+  "10330560": {
+   "name": "Sinonimo_nga_muragkigwa",
+   "parents": [
+    62491,
+    9939685
+   ],
+   "children": []
+  },
+  "10330565": {
+   "name": "Sinonimo_nga_muragwati",
+   "parents": [
+    62491,
+    9932674
+   ],
+   "children": []
+  },
+  "10330567": {
+   "name": "Sinonimo_nga_ulod_nga_ulok-ulok",
+   "parents": [
+    62491,
+    113320
+   ],
+   "children": []
+  },
+  "10330568": {
+   "name": "Sinonimo_nga_murag-unggoy",
+   "parents": [
+    62491,
+    9864481
+   ],
+   "children": []
+  },
+  "10330571": {
+   "name": "Sinonimo_nga_tiildawbungot",
+   "parents": [
+    62491,
+    10648075
+   ],
+   "children": []
+  },
+  "10648075": {
+   "name": "Tiildawbungot",
+   "parents": [
+    9912366
+   ],
+   "children": [
+    10330571,
+    10648076
+   ]
+  },
+  "10509832": {
+   "name": "Murag-sulom",
+   "parents": [
+    61317
+   ],
+   "children": [
+    10509833,
+    10330572
+   ]
+  },
+  "10330572": {
+   "name": "Sinonimo_nga_murag-sulom",
+   "parents": [
+    62491,
+    10509832
+   ],
+   "children": []
+  },
+  "11003267": {
+   "name": "Ahos-ahos",
+   "parents": [
+    1935851
+   ],
+   "children": [
+    11003268,
+    10330574
+   ]
+  },
+  "10330574": {
+   "name": "Sinonimo_nga_ahos-ahos",
+   "parents": [
+    2028361,
+    11003267
+   ],
+   "children": []
+  },
+  "11265427": {
+   "name": "Alingato",
+   "parents": [
+    2166537
+   ],
+   "children": [
+    10330576,
+    11265428
+   ]
+  },
+  "10330576": {
+   "name": "Sinonimo_nga_alingato",
+   "parents": [
+    2028361,
+    11265427
+   ],
+   "children": []
+  },
+  "10988985": {
+   "name": "Alambrillo",
+   "parents": [
+    1884623
+   ],
+   "children": [
+    10330577,
+    10988986
+   ]
+  },
+  "10330577": {
+   "name": "Sinonimo_nga_alambrillo",
+   "parents": [
+    2028361,
+    10988985
+   ],
+   "children": []
+  },
+  "10330579": {
+   "name": "Sinonimo_nga_minyak",
+   "parents": [
+    62491,
+    9874257
+   ],
+   "children": []
+  },
+  "10330581": {
+   "name": "Sinonimo_nga_hálo",
+   "parents": [
+    62491,
+    9874830
+   ],
+   "children": []
+  },
+  "10330582": {
+   "name": "Sinonimo_nga_tiki",
+   "parents": [
+    62491,
+    9880314
+   ],
+   "children": []
+  },
+  "10330585": {
+   "name": "Sinonimo_nga_tabíli",
+   "parents": [
+    62491,
+    9875834
+   ],
+   "children": []
+  },
+  "10330587": {
+   "name": "Sinonimo_nga_ampapagot",
+   "parents": [
+    62491,
+    9912104
+   ],
+   "children": []
+  },
+  "10330588": {
+   "name": "Sinonimo_nga_ananambo",
+   "parents": [
+    62491,
+    9894572
+   ],
+   "children": []
+  },
+  "10330590": {
+   "name": "Sinonimo_nga_asohos",
+   "parents": [
+    62491,
+    9890650
+   ],
+   "children": []
+  },
+  "10330591": {
+   "name": "Sinonimo_nga_atsa-atsa",
+   "parents": [
+    62491,
+    10072664
+   ],
+   "children": []
+  },
+  "10330593": {
+   "name": "Sinonimo_nga_bagis",
+   "parents": [
+    62491,
+    9898505
+   ],
+   "children": []
+  },
+  "10330594": {
+   "name": "Sinonimo_nga_malapati",
+   "parents": [
+    62491,
+    9897332
+   ],
+   "children": []
+  },
+  "10330596": {
+   "name": "Sinonimo_nga_bakasi",
+   "parents": [
+    62491
+   ],
+   "children": []
+  },
+  "10330598": {
+   "name": "Sinonimo_nga_bakay",
+   "parents": [
+    62491,
+    9892942
+   ],
+   "children": []
+  },
+  "10330600": {
+   "name": "Sinonimo_nga_balanban",
+   "parents": [
+    62491,
+    9910410
+   ],
+   "children": []
+  },
+  "10330602": {
+   "name": "Sinonimo_nga_balanghutin",
+   "parents": [
+    62491
+   ],
+   "children": []
+  },
+  "10330606": {
+   "name": "Sinonimo_nga_bantol",
+   "parents": [
+    62491,
+    9905456
+   ],
+   "children": []
+  },
+  "10330608": {
+   "name": "Sinonimo_nga_bat-og",
+   "parents": [
+    62491,
+    9890469
+   ],
+   "children": []
+  },
+  "10330611": {
+   "name": "Sinonimo_nga_bika-bika",
+   "parents": [
+    62491,
+    9892009
+   ],
+   "children": []
+  },
+  "10330612": {
+   "name": "Sinonimo_nga_bolinabid",
+   "parents": [
+    62491,
+    9909833
+   ],
+   "children": []
+  },
+  "10330614": {
+   "name": "Sinonimo_nga_bolinao",
+   "parents": [
+    62491
+   ],
+   "children": []
+  },
+  "10330615": {
+   "name": "Sinonimo_nga_bantay-botbot",
+   "parents": [
+    62491,
+    9892082
+   ],
+   "children": []
+  },
+  "10330618": {
+   "name": "Sinonimo_nga_bulaknita",
+   "parents": [
+    62491,
+    9911916
+   ],
+   "children": []
+  },
+  "10330619": {
+   "name": "Sinonimo_nga_bulgan",
+   "parents": [
+    62491,
+    9891977
+   ],
+   "children": []
+  },
+  "10330620": {
+   "name": "Sinonimo_nga_buwao",
+   "parents": [
+    62491,
+    9996093
+   ],
+   "children": []
+  },
+  "10330623": {
+   "name": "Sinonimo_nga_kabayo-kabayo",
+   "parents": [
+    62491,
+    9904948
+   ],
+   "children": []
+  },
+  "10330624": {
+   "name": "Sinonimo_nga_dagum-dagum",
+   "parents": [
+    62491,
+    9904869
+   ],
+   "children": []
+  },
+  "10330625": {
+   "name": "Sinonimo_nga_panangitan",
+   "parents": [
+    62491,
+    9890299
+   ],
+   "children": []
+  },
+  "10330626": {
+   "name": "Sinonimo_nga_ganting",
+   "parents": [
+    62491,
+    9910241
+   ],
+   "children": []
+  },
+  "10330627": {
+   "name": "Sinonimo_nga_guno",
+   "parents": [
+    62491,
+    9911036
+   ],
+   "children": []
+  },
+  "10330630": {
+   "name": "Sinonimo_nga_hinok",
+   "parents": [
+    62491,
+    9893052
+   ],
+   "children": []
+  },
+  "10330631": {
+   "name": "Sinonimo_nga_ito",
+   "parents": [
+    62491
+   ],
+   "children": []
+  },
+  "10330633": {
+   "name": "Sinonimo_nga_kapinan",
+   "parents": [
+    62491,
+    10037977
+   ],
+   "children": []
+  },
+  "10330634": {
+   "name": "Sinonimo_nga_kasbo",
+   "parents": [
+    62491,
+    9895549
+   ],
+   "children": []
+  },
+  "10330635": {
+   "name": "Sinonimo_nga_kasili",
+   "parents": [
+    62491
+   ],
+   "children": []
+  },
+  "10330638": {
+   "name": "Sinonimo_nga_kubotan",
+   "parents": [
+    62491,
+    10082003
+   ],
+   "children": []
+  },
+  "10330640": {
+   "name": "Sinonimo_nga_kubaw",
+   "parents": [
+    62491,
+    10085028
+   ],
+   "children": []
+  },
+  "10330641": {
+   "name": "Sinonimo_nga_kurosan",
+   "parents": [
+    62491,
+    9924329
+   ],
+   "children": []
+  },
+  "10330643": {
+   "name": "Sinonimo_nga_litob",
+   "parents": [
+    62491,
+    10060687
+   ],
+   "children": []
+  },
+  "10330644": {
+   "name": "Sinonimo_nga_lokon",
+   "parents": [
+    62491,
+    10159741
+   ],
+   "children": []
+  },
+  "10330647": {
+   "name": "Sinonimo_nga_lumba-lumba",
+   "parents": [
+    62491,
+    9868965
+   ],
+   "children": []
+  },
+  "10330649": {
+   "name": "Sinonimo_nga_lupoy",
+   "parents": [
+    62491,
+    9909844
+   ],
+   "children": []
+  },
+  "10330650": {
+   "name": "Sinonimo_nga_mólmol",
+   "parents": [
+    62491,
+    9891652
+   ],
+   "children": []
+  },
+  "10330651": {
+   "name": "Sinonimo_nga_palangan",
+   "parents": [
+    62491,
+    9898441
+   ],
+   "children": []
+  },
+  "10330653": {
+   "name": "Sinonimo_nga_sangka-sangka",
+   "parents": [
+    62491,
+    10027262
+   ],
+   "children": []
+  },
+  "11181687": {
+   "name": "Akasya",
+   "parents": [
+    11181394
+   ],
+   "children": [
+    11181688
+   ]
+  },
+  "10330656": {
+   "name": "Sinonimo_nga_tindalo",
+   "parents": [
+    2028361,
+    10481981
+   ],
+   "children": []
+  },
+  "10481981": {
+   "name": "Tindalo",
+   "parents": [
+    1161384
+   ],
+   "children": [
+    10330656,
+    10481982
+   ]
+  },
+  "11182418": {
+   "name": "Akle",
+   "parents": [
+    11181394
+   ],
+   "children": [
+    10330657,
+    11182419
+   ]
+  },
+  "10330657": {
+   "name": "Sinonimo_nga_akle",
+   "parents": [
+    2028361,
+    11182418
+   ],
+   "children": []
+  },
+  "10330659": {
+   "name": "Sinonimo_nga_borot",
+   "parents": [
+    62491,
+    9897400
+   ],
+   "children": []
+  },
+  "10330660": {
+   "name": "Sinonimo_nga_punan",
+   "parents": [
+    2028361,
+    10291394
+   ],
+   "children": []
+  },
+  "10330668": {
+   "name": "Sinonimo_nga_mo-ong",
+   "parents": [
+    62491,
+    9898128
+   ],
+   "children": []
+  },
+  "10330670": {
+   "name": "Sinonimo_nga_palmera",
+   "parents": [
+    2028361
+   ],
+   "children": []
+  },
+  "11277755": {
+   "name": "Kagang-kagang",
+   "parents": [
+    1884623
+   ],
+   "children": [
+    10330672,
+    11277756
+   ]
+  },
+  "10330672": {
+   "name": "Sinonimo_nga_kagang-kagang",
+   "parents": [
+    2028361,
+    11277755
+   ],
+   "children": []
+  },
+  "11077445": {
+   "name": "Piga-piga",
+   "parents": [
+    1884623
+   ],
+   "children": [
+    10330675,
+    11077446
+   ]
+  },
+  "10330675": {
+   "name": "Sinonimo_nga_piga-piga",
+   "parents": [
+    2028361,
+    11077445
+   ],
+   "children": []
+  },
+  "11231232": {
+   "name": "Bombil",
+   "parents": [
+    1884623
+   ],
+   "children": [
+    11231233,
+    10330676
+   ]
+  },
+  "10330676": {
+   "name": "Sinonimo_nga_bombil",
+   "parents": [
+    2028361,
+    11231232
+   ],
+   "children": []
+  },
+  "11080069": {
+   "name": "Kosmos",
+   "parents": [
+    1884623
+   ],
+   "children": [
+    11080070,
+    10330678
+   ]
+  },
+  "10330678": {
+   "name": "Sinonimo_nga_kosmos",
+   "parents": [
+    2028361,
+    11080069
+   ],
+   "children": []
+  },
+  "10330679": {
+   "name": "Sinonimo_nga_tigao",
+   "parents": [
+    2028361,
+    9946749
+   ],
+   "children": []
+  },
+  "10330681": {
+   "name": "Sinonimo_nga_amomongpong",
+   "parents": [
+    62491,
+    10056959
+   ],
+   "children": []
+  },
+  "10330685": {
+   "name": "Sinonimo_nga_tsitsirika",
+   "parents": [
+    2028361,
+    11193949
+   ],
+   "children": []
+  },
+  "11193949": {
+   "name": "Tsitsirika",
+   "parents": [
+    1884623
+   ],
+   "children": [
+    10330685,
+    11193950
+   ]
+  },
+  "11267919": {
+   "name": "Doldol",
+   "parents": [
+    1884623
+   ],
+   "children": [
+    11267920,
+    10330687
+   ]
+  },
+  "10330687": {
+   "name": "Sinonimo_nga_doldol",
+   "parents": [
+    2028361,
+    11267919
+   ],
+   "children": []
+  },
+  "11223942": {
+   "name": "Kudiapa",
+   "parents": [
+    1884623
+   ],
+   "children": [
+    10330688,
+    11223943
+   ]
+  },
+  "10330688": {
+   "name": "Sinonimo_nga_kudiapa",
+   "parents": [
+    2028361,
+    11223942
+   ],
+   "children": []
+  },
+  "11305025": {
+   "name": "Kaningag",
+   "parents": [
+    2770469
+   ],
+   "children": [
+    11305026,
+    10330691
+   ]
+  },
+  "10330691": {
+   "name": "Sinonimo_nga_kaningag",
+   "parents": [
+    2028361,
+    11305025
+   ],
+   "children": []
+  },
+  "11257378": {
+   "name": "Libas",
+   "parents": [
+    2166537
+   ],
+   "children": [
+    11257379,
+    10330692
+   ]
+  },
+  "10330692": {
+   "name": "Sinonimo_nga_libas",
+   "parents": [
+    2028361,
+    11257378
+   ],
+   "children": []
+  },
+  "11063240": {
+   "name": "Bólí",
+   "parents": [
+    3117515
+   ],
+   "children": [
+    11063241
+   ]
+  },
+  "10977244": {
+   "name": "Paku",
+   "parents": [
+    1884623
+   ],
+   "children": [
+    10330697,
+    10977245
+   ]
+  },
+  "10330697": {
+   "name": "Sinonimo_nga_paku",
+   "parents": [
+    2028361,
+    10977244
+   ],
+   "children": []
+  },
+  "10330698": {
+   "name": "Sinonimo_nga_tanglad",
+   "parents": [
+    2028361,
+    11040435
+   ],
+   "children": []
+  },
+  "11040435": {
+   "name": "Tanglad",
+   "parents": [
+    11033017
+   ],
+   "children": [
+    10330698,
+    11040436
+   ]
+  },
+  "10330700": {
+   "name": "Sinonimo_nga_tugabang",
+   "parents": [
+    2028361,
+    11268269
+   ],
+   "children": []
+  },
+  "11268269": {
+   "name": "Tugabang",
+   "parents": [
+    1884623
+   ],
+   "children": [
+    10330700,
+    11268270
+   ]
+  },
+  "10330704": {
+   "name": "Sinonimo_nga_túbli",
+   "parents": [
+    2028361,
+    11187668
+   ],
+   "children": []
+  },
+  "11187668": {
+   "name": "Túbli",
+   "parents": [
+    11181394
+   ],
+   "children": [
+    10330704,
+    11187669
+   ]
+  },
+  "11060330": {
+   "name": "Bakya-bakya",
+   "parents": [
+    1884623
+   ],
+   "children": [
+    11060331,
+    10330707
+   ]
+  },
+  "10330707": {
+   "name": "Sinonimo_nga_bakya-bakya",
+   "parents": [
+    2028361,
+    11060330
+   ],
+   "children": []
+  },
+  "11267122": {
+   "name": "Agagkag",
+   "parents": [
+    1884623
+   ],
+   "children": [
+    11267123,
+    10330708
+   ]
+  },
+  "10330708": {
+   "name": "Sinonimo_nga_agagkag",
+   "parents": [
+    2028361,
+    11267122
+   ],
+   "children": []
+  },
+  "10330710": {
+   "name": "Sinonimo_nga_hambubukad",
+   "parents": [
+    62491,
+    9885755
+   ],
+   "children": []
+  },
+  "11268680": {
+   "name": "Duryan",
+   "parents": [
+    1884623
+   ],
+   "children": [
+    11268681
+   ]
+  },
+  "11188170": {
+   "name": "Dapdap",
+   "parents": [
+    11181394
+   ],
+   "children": [
+    11188171,
+    10330716
+   ]
+  },
+  "10330716": {
+   "name": "Sinonimo_nga_dapdap",
+   "parents": [
+    2028361,
+    11188170
+   ],
+   "children": []
+  },
+  "11250245": {
+   "name": "Mindanao_gum",
+   "parents": [
+    1884623
+   ],
+   "children": [
+    10330717,
+    11250246
+   ]
+  },
+  "10330717": {
+   "name": "Sinonimo_nga_Mindanao_gum",
+   "parents": [
+    2028361,
+    11250245
+   ],
+   "children": []
+  },
+  "10330726": {
+   "name": "Sinonimo_nga_tukô",
+   "parents": [
+    62491,
+    9880651
+   ],
+   "children": []
+  },
+  "11068575": {
+   "name": "Kamias",
+   "parents": [
+    11067865
+   ],
+   "children": [
+    11068576,
+    10330730
+   ]
+  },
+  "10330730": {
+   "name": "Sinonimo_nga_kamias",
+   "parents": [
+    2028361,
+    11068575
+   ],
+   "children": []
+  },
+  "10330731": {
+   "name": "Sinonimo_nga_tôtô",
+   "parents": [
+    62491,
+    9880767
+   ],
+   "children": []
+  },
+  "11269131": {
+   "name": "Gumamela",
+   "parents": [
+    1884623
+   ],
+   "children": [
+    11269132,
+    10330734
+   ]
+  },
+  "10330734": {
+   "name": "Sinonimo_nga_gumamela",
+   "parents": [
+    2028361,
+    11269131
+   ],
+   "children": []
+  },
+  "11207536": {
+   "name": "Bagarnga",
+   "parents": [
+    1884623
+   ],
+   "children": [
+    10330736,
+    11207537
+   ]
+  },
+  "10330736": {
+   "name": "Sinonimo_nga_bagarnga",
+   "parents": [
+    2028361,
+    11207536
+   ],
+   "children": []
+  },
+  "10330737": {
+   "name": "Sinonimo_nga_tayum",
+   "parents": [
+    2028361,
+    11188847
+   ],
+   "children": []
+  },
+  "11188847": {
+   "name": "Tayum",
+   "parents": [
+    11181394
+   ],
+   "children": [
+    11188848,
+    10330737
+   ]
+  },
+  "11203228": {
+   "name": "Santan",
+   "parents": [
+    1884623
+   ],
+   "children": [
+    10330740,
+    11203229
+   ]
+  },
+  "10330740": {
+   "name": "Sinonimo_nga_santan",
+   "parents": [
+    2028361,
+    11203228
+   ],
+   "children": []
+  },
+  "11179769": {
+   "name": "Kanding-kanding",
+   "parents": [
+    1884623
+   ],
+   "children": [
+    11179770,
+    10330742
+   ]
+  },
+  "10330742": {
+   "name": "Sinonimo_nga_kanding-kanding",
+   "parents": [
+    2028361,
+    11179769
+   ],
+   "children": []
+  },
+  "10330743": {
+   "name": "Sinonimo_nga_kanaway",
+   "parents": [
+    62491,
+    9888888
+   ],
+   "children": []
+  },
+  "11189289": {
+   "name": "Kabahero",
+   "parents": [
+    11181394
+   ],
+   "children": [
+    10330745,
+    11189290
+   ]
+  },
+  "10330745": {
+   "name": "Sinonimo_nga_kabahero",
+   "parents": [
+    2028361,
+    11189289
+   ],
+   "children": []
+  },
+  "10330750": {
+   "name": "Sinonimo_nga_àmô",
+   "parents": [
+    62491,
+    9868538
+   ],
+   "children": []
+  },
+  "11321135": {
+   "name": "Duguan",
+   "parents": [
+    2690582
+   ],
+   "children": [
+    11321136,
+    10330755
+   ]
+  },
+  "10330755": {
+   "name": "Sinonimo_nga_duguan",
+   "parents": [
+    2028361,
+    11321135
+   ],
+   "children": []
+  },
+  "10330757": {
+   "name": "Sinonimo_nga_tamsi",
+   "parents": [
+    62491,
+    9887879
+   ],
+   "children": []
+  },
+  "11231137": {
+   "name": "Lapsay",
+   "parents": [
+    1884623
+   ],
+   "children": [
+    11231138
+   ]
+  },
+  "10330764": {
+   "name": "Sinonimo_nga_tabugok",
+   "parents": [
+    62491,
+    10081615
+   ],
+   "children": []
+  },
+  "10330767": {
+   "name": "Sinonimo_nga_sinkamas",
+   "parents": [
+    2028361
+   ],
+   "children": []
+  },
+  "11297089": {
+   "name": "Sinaw-sinaw",
+   "parents": [
+    2525251
+   ],
+   "children": [
+    11297090,
+    10330773
+   ]
+  },
+  "10330773": {
+   "name": "Sinonimo_nga_sinaw-sinaw",
+   "parents": [
+    2028361,
+    11297089
+   ],
+   "children": []
+  },
+  "11287864": {
+   "name": "Pangantoan",
+   "parents": [
+    2295993
+   ],
+   "children": [
+    10330777,
+    11287865
+   ]
+  },
+  "10330777": {
+   "name": "Sinonimo_nga_pangantoan",
+   "parents": [
+    2028361,
+    11287864
+   ],
+   "children": []
+  },
+  "10330779": {
+   "name": "Sinonimo_nga_sunoga",
+   "parents": [
+    62491,
+    9905551
+   ],
+   "children": []
+  },
+  "10330780": {
+   "name": "Sinonimo_nga_mayana",
+   "parents": [
+    2028361
+   ],
+   "children": []
+  },
+  "11197183": {
+   "name": "Kalachuchi",
+   "parents": [
+    1884623
+   ],
+   "children": [
+    11197184,
+    10330782
+   ]
+  },
+  "10330782": {
+   "name": "Sinonimo_nga_kalachuchi",
+   "parents": [
+    2028361,
+    11197183
+   ],
+   "children": []
+  },
+  "11235204": {
+   "name": "Olasiman",
+   "parents": [
+    1884623
+   ],
+   "children": [
+    10330788,
+    11235205
+   ]
+  },
+  "10330788": {
+   "name": "Sinonimo_nga_olasiman",
+   "parents": [
+    2028361,
+    11235204
+   ],
+   "children": []
+  },
+  "11190864": {
+   "name": "Narra",
+   "parents": [
+    11181394
+   ],
+   "children": [
+    10330792,
+    11190865
+   ]
+  },
+  "10330792": {
+   "name": "Sinonimo_nga_narra",
+   "parents": [
+    2028361,
+    11190864
+   ],
+   "children": []
+  },
+  "10330795": {
+   "name": "Sinonimo_nga_kábug",
+   "parents": [
+    62491,
+    9869793
+   ],
+   "children": []
+  },
+  "10330797": {
+   "name": "Sinonimo_nga_ulayan",
+   "parents": [
+    2028361,
+    11316482
+   ],
+   "children": []
+  },
+  "11316482": {
+   "name": "Ulayan",
+   "parents": [
+    1884623
+   ],
+   "children": [
+    11316483,
+    10330797
+   ]
+  },
+  "10330800": {
+   "name": "Sinonimo_nga_kalabiao",
+   "parents": [
+    62491,
+    9869677
+   ],
+   "children": []
+  },
+  "10330801": {
+   "name": "Sinonimo_nga_tikog",
+   "parents": [
+    11058709
+   ],
+   "children": []
+  },
+  "11058709": {
+   "name": "Tikog",
+   "parents": [
+    1884623
+   ],
+   "children": [
+    10330801,
+    11058710
+   ]
+  },
+  "10330804": {
+   "name": "Sinonimo_nga_tikab",
+   "parents": [
+    62491,
+    9891242
+   ],
+   "children": []
+  },
+  "10356022": {
+   "name": "Banag",
+   "parents": [
+    10179262
+   ],
+   "children": [
+    10330805,
+    10356023
+   ]
+  },
+  "10330805": {
+   "name": "Sinonimo_nga_banag",
+   "parents": [
+    2028361,
+    10356022
+   ],
+   "children": []
+  },
+  "10330808": {
+   "name": "Sinonimo_nga_bulok-bulok",
+   "parents": [
+    62491,
+    10078500
+   ],
+   "children": []
+  },
+  "11271011": {
+   "name": "Banilad",
+   "parents": [
+    1884623
+   ],
+   "children": [
+    10330810,
+    11271012
+   ]
+  },
+  "10330810": {
+   "name": "Sinonimo_nga_banilad",
+   "parents": [
+    2028361,
+    11271011
+   ],
+   "children": []
+  },
+  "11273985": {
+   "name": "Mahogany",
+   "parents": [
+    1884623
+   ],
+   "children": [
+    11273986
+   ]
+  },
+  "10330817": {
+   "name": "Sinonimo_nga_tambod",
+   "parents": [
+    62491,
+    9910752
+   ],
+   "children": []
+  },
+  "11253018": {
+   "name": "Bunlaon",
+   "parents": [
+    1884623
+   ],
+   "children": [
+    11253019,
+    10330819
+   ]
+  },
+  "10330819": {
+   "name": "Sinonimo_nga_bunlaon",
+   "parents": [
+    2028361,
+    11253018
+   ],
+   "children": []
+  },
+  "10330824": {
+   "name": "Sinonimo_nga_upos-upos",
+   "parents": [
+    62491,
+    9908036
+   ],
+   "children": []
+  },
+  "10330828": {
+   "name": "Sinonimo_nga_antulang",
+   "parents": [
+    62491,
+    10062651
+   ],
+   "children": []
+  },
+  "10330831": {
+   "name": "Sinonimo_nga_agokoy",
+   "parents": [
+    62491,
+    10159026
+   ],
+   "children": []
+  },
+  "11266299": {
+   "name": "Handalamai",
+   "parents": [
+    2166537
+   ],
+   "children": [
+    10330832,
+    11266300
+   ]
+  },
+  "10330832": {
+   "name": "Sinonimo_nga_handalamai",
+   "parents": [
+    2028361,
+    11266299
+   ],
+   "children": []
+  },
+  "10330834": {
+   "name": "Sinonimo_nga_bug-atan",
+   "parents": [
+    62491,
+    10078947
+   ],
+   "children": []
+  },
+  "11198190": {
+   "name": "Komentang",
+   "parents": [
+    1884623
+   ],
+   "children": [
+    10330835,
+    11198191
+   ]
+  },
+  "10330835": {
+   "name": "Sinonimo_nga_komentang",
+   "parents": [
+    2028361,
+    11198190
+   ],
+   "children": []
+  },
+  "10330837": {
+   "name": "Sinonimo_nga_kibol",
+   "parents": [
+    62491,
+    10031042
+   ],
+   "children": []
+  },
+  "10330838": {
+   "name": "Sinonimo_nga_kanaka",
+   "parents": [
+    2028361
+   ],
+   "children": []
+  },
+  "10356023": {
+   "name": "Banag_paghimo_ni_bot",
+   "parents": [
+    10179263,
+    10356022
+   ],
+   "children": []
+  },
+  "10371567": {
+   "name": "Ulod_paghimo_ni_bot",
+   "parents": [
+    64110
+   ],
+   "children": []
+  },
+  "10481887": {
+   "name": "Langaw_sa_Hapon",
+   "parents": [
+    10178537
+   ],
+   "children": [
+    10685024,
+    10482029,
+    10484240,
+    10484241,
+    10484242,
+    10484243
+   ]
+  },
+  "10481982": {
+   "name": "Tindalo_paghimo_ni_bot",
+   "parents": [
+    10481981
+   ],
+   "children": []
+  },
+  "10482029": {
+   "name": "Langaw_sa_Ryukyu_Islands",
+   "parents": [
+    10288463,
+    10481887
+   ],
+   "children": []
+  },
+  "10482215": {
+   "name": "Langaw_sa_Italya",
+   "parents": [
+    10137510
+   ],
+   "children": [
+    10482216,
+    10484266
+   ]
+  },
+  "10482216": {
+   "name": "Langaw_sa_Sicilia",
+   "parents": [
+    10178615,
+    10482215
+   ],
+   "children": []
+  },
+  "10482827": {
+   "name": "Langaw_sa_Sweden",
+   "parents": [
+    10178650
+   ],
+   "children": []
+  },
+  "10484240": {
+   "name": "Langaw_sa_Shikoku",
+   "parents": [
+    10288165,
+    10481887
+   ],
+   "children": []
+  },
+  "10484241": {
+   "name": "Langaw_sa_Honshū_Island",
+   "parents": [
+    10288208,
+    10481887
+   ],
+   "children": [
+    10685025
+   ]
+  },
+  "10484242": {
+   "name": "Langaw_sa_Kyushu",
+   "parents": [
+    10288163,
+    10481887
+   ],
+   "children": []
+  },
+  "10484243": {
+   "name": "Langaw_sa_Hokkaido_(pulo_sa_Hapon)",
+   "parents": [
+    10288492,
+    10481887
+   ],
+   "children": [
+    10685029
+   ]
+  },
+  "10484266": {
+   "name": "Langaw_sa_Cerdeña",
+   "parents": [
+    10178613,
+    10482215
+   ],
+   "children": []
+  },
+  "10509833": {
+   "name": "Murag-sulom_paghimo_ni_bot",
+   "parents": [
+    10509832
+   ],
+   "children": []
+  },
+  "10648076": {
+   "name": "Tiildawbungot_paghimo_ni_bot",
+   "parents": [
+    10648075
+   ],
+   "children": []
+  },
+  "10685024": {
+   "name": "Bukya_nga_sudlay_sa_Hapon",
+   "parents": [
+    10481887
+   ],
+   "children": [
+    10685025,
+    10685029
+   ]
+  },
+  "10685025": {
+   "name": "Bukya_nga_sudlay_sa_Honshū_Island",
+   "parents": [
+    10484241,
+    10685024
+   ],
+   "children": []
+  },
+  "10685029": {
+   "name": "Bukya_nga_sudlay_sa_Hokkaido_(pulo_sa_Hapon)",
+   "parents": [
+    10484243,
+    10685024
+   ],
+   "children": []
+  },
+  "10687400": {
+   "name": "Insekto_sa_Ogasawara_Islands",
+   "parents": [
+    10178537
+   ],
+   "children": []
+  },
+  "10787218": {
+   "name": "Uk-ok_sa_Hapon",
+   "parents": [
+    10178537
+   ],
+   "children": [
+    10787323
+   ]
+  },
+  "10787323": {
+   "name": "Uk-ok_sa_Ryukyu_Islands",
+   "parents": [
+    10288463,
+    10787218
+   ],
+   "children": []
+  },
+  "10787506": {
+   "name": "Uk-ok_sa_Italya",
+   "parents": [
+    10137510
+   ],
+   "children": [
+    10787507
+   ]
+  },
+  "10787507": {
+   "name": "Uk-ok_sa_Sicilia",
+   "parents": [
+    10178615,
+    10787506
+   ],
+   "children": []
+  },
+  "10791808": {
+   "name": "Pulgas_sa_Hapon",
+   "parents": [
+    10178537
+   ],
+   "children": []
+  },
+  "10791824": {
+   "name": "Pulgas_sa_Sweden",
+   "parents": [
+    10178650
+   ],
+   "children": []
+  },
+  "10791852": {
+   "name": "Pulgas_sa_Italya",
+   "parents": [
+    10137510
+   ],
+   "children": []
+  },
+  "10802545": {
+   "name": "Abungawg-uhong",
+   "parents": [
+    39863
+   ],
+   "children": []
+  },
+  "10811670": {
+   "name": "Abungawg-uhong_sa_Sweden",
+   "parents": [
+    6885231
+   ],
+   "children": []
+  },
+  "10811702": {
+   "name": "Abungawg-uhong_sa_Italya",
+   "parents": [
+    38362
+   ],
+   "children": [
+    10818401,
+    10813875
+   ]
+  },
+  "10813279": {
+   "name": "Abungawg-uhong_sa_Espanya",
+   "parents": [
+    3567
+   ],
+   "children": [
+    10848956,
+    10813172
+   ]
+  },
+  "10813172": {
+   "name": "Abungawg-uhong_sa_Canary_Islands_(rehiyon)",
+   "parents": [
+    10813279
+   ],
+   "children": []
+  },
+  "10813280": {
+   "name": "Abungawg-uhong_sa_Gresya",
+   "parents": [
+    40803
+   ],
+   "children": []
+  },
+  "10813771": {
+   "name": "Abungawg-uhong_sa_Ungariya",
+   "parents": [
+    53419
+   ],
+   "children": []
+  },
+  "10813875": {
+   "name": "Abungawg-uhong_sa_Sicilia",
+   "parents": [
+    10811702
+   ],
+   "children": []
+  },
+  "10813924": {
+   "name": "Abungawg-uhong_sa_Thayland",
+   "parents": [
+    6953631
+   ],
+   "children": []
+  },
+  "10814313": {
+   "name": "Abungawg-uhong_sa_Polskowa",
+   "parents": [
+    52205
+   ],
+   "children": []
+  },
+  "10818401": {
+   "name": "Abungawg-uhong_sa_Cerdeña",
+   "parents": [
+    10811702
+   ],
+   "children": []
+  },
+  "10848956": {
+   "name": "Abungawg-uhong_sa_Baleares",
+   "parents": [
+    10813279
+   ],
+   "children": []
+  },
+  "10962190": {
+   "name": "Tanom_sa_Sweden",
+   "parents": [
+    6885231
+   ],
+   "children": [
+    11065282,
+    11327394,
+    11255719,
+    11282156,
+    10994639,
+    11292085,
+    11023774
+   ]
+  },
+  "10962198": {
+   "name": "Tanom_sa_Polskowa",
+   "parents": [
+    52205
+   ],
+   "children": [
+    11282534,
+    11317606,
+    11065288,
+    11327398,
+    11255600,
+    11077681,
+    11023794,
+    11292084,
+    10994551
+   ]
+  },
+  "10962203": {
+   "name": "Tanom_sa_Ungariya",
+   "parents": [
+    53419
+   ],
+   "children": [
+    11255715,
+    11327397,
+    11023785,
+    11065262,
+    11316688,
+    10994548,
+    11292277,
+    11282236
+   ]
+  },
+  "10962207": {
+   "name": "Tanom_sa_Espanya",
+   "parents": [
+    3567
+   ],
+   "children": [
+    11023784,
+    10962225,
+    10962577,
+    11181941,
+    11316606,
+    10976927
+   ]
+  },
+  "10962208": {
+   "name": "Tanom_sa_Cerdeña",
+   "parents": [
+    10962210
+   ],
+   "children": [
+    11255746,
+    11292102,
+    11065265,
+    11282138,
+    10994330,
+    11023771,
+    11316892
+   ]
+  },
+  "10962210": {
+   "name": "Tanom_sa_Italya",
+   "parents": [
+    38362
+   ],
+   "children": [
+    10962208,
+    10962209,
+    11292096,
+    11255716,
+    11077670,
+    11327404,
+    11296596,
+    11282133,
+    11326134,
+    11181944
+   ]
+  },
+  "10962209": {
+   "name": "Tanom_sa_Sicilia",
+   "parents": [
+    10962210
+   ],
+   "children": [
+    11023875,
+    11255747,
+    11065255,
+    11292103,
+    11296615,
+    11316651,
+    11235310,
+    11327406,
+    10994331,
+    11282139
+   ]
+  },
+  "10962213": {
+   "name": "Tanom_sa_Gresya",
+   "parents": [
+    40803
+   ],
+   "children": [
+    11255648,
+    10994339,
+    11182052,
+    10962214,
+    11023787,
+    10974896,
+    10974897,
+    11065266,
+    11235313,
+    11296592,
+    11292093
+   ]
+  },
+  "10962214": {
+   "name": "Tanom_sa_Crete_(rehiyon)",
+   "parents": [
+    10962213
+   ],
+   "children": [
+    11256002,
+    11032138,
+    11235314,
+    11282132,
+    11292094
+   ]
+  },
+  "10962225": {
+   "name": "Tanom_sa_Canary_Islands_(rehiyon)",
+   "parents": [
+    10962207
+   ],
+   "children": [
+    11282144,
+    11023873,
+    11235271,
+    11291310,
+    11292111,
+    11256565,
+    10994392
+   ]
+  },
+  "10962234": {
+   "name": "Tanom_sa_Hapon",
+   "parents": [
+    42259
+   ],
+   "children": [
+    10962274,
+    10982499,
+    11304482,
+    11281994,
+    10994572,
+    11065388,
+    11255278,
+    10962384,
+    10989168,
+    10975250,
+    10975443,
+    10975251,
+    10976884,
+    11327187,
+    11077751,
+    11316504,
+    11325500
+   ]
+  },
+  "10962274": {
+   "name": "Tanom_sa_Volcano_Islands_(kapuloan_sa_Hapon)",
+   "parents": [
+    10962234
+   ],
+   "children": [
+    11023956,
+    11006327
+   ]
+  },
+  "10962278": {
+   "name": "Tanom_sa_Thayland",
+   "parents": [
+    6953631
+   ],
+   "children": [
+    11255299,
+    11207556,
+    11291652,
+    10977290,
+    11064718,
+    11304591,
+    11319706,
+    11290142,
+    11153055,
+    11065377,
+    11181606,
+    11253034,
+    11066923,
+    11325362,
+    11316538,
+    11062589,
+    11267136,
+    11023687,
+    11282255,
+    11271122,
+    11203285,
+    11162714,
+    11327208,
+    11309161,
+    10989170,
+    11296370,
+    10994683
+   ]
+  },
+  "10962384": {
+   "name": "Tanom_sa_Ogasawara_Islands",
+   "parents": [
+    10962234
+   ],
+   "children": [
+    11062727,
+    10995196,
+    11023703
+   ]
+  },
+  "10962577": {
+   "name": "Tanom_sa_Baleares",
+   "parents": [
+    10962207
+   ],
+   "children": [
+    11023872,
+    11065313,
+    11282128,
+    11255730,
+    11291379,
+    10994328,
+    11292090
+   ]
+  },
+  "10969691": {
+   "name": "Lumot_nga_berde_paghimo_ni_bot",
+   "parents": [
+    10969689
+   ],
+   "children": []
+  },
+  "10972360": {
+   "name": "Lumot_nga_pula_paghimo_ni_bot",
+   "parents": [
+    10972359
+   ],
+   "children": []
+  },
+  "10974896": {
+   "name": "Tanom_sa_Aegean_Islands",
+   "parents": [
+    10962213
+   ],
+   "children": [
+    11282145,
+    11023906,
+    10994473,
+    11235315,
+    11296723,
+    11065269,
+    11316630,
+    11257050,
+    11292095
+   ]
+  },
+  "10974897": {
+   "name": "Tanom_sa_Rhodes_(pulo)",
+   "parents": [
+    10962213
+   ],
+   "children": [
+    11292225,
+    11282146,
+    11257051,
+    11235316
+   ]
+  },
+  "10975250": {
+   "name": "Tanom_sa_Hokkaido_(pulo_sa_Hapon)",
+   "parents": [
+    10962234
+   ],
+   "children": [
+    11325546,
+    11281995,
+    11255533,
+    11032078,
+    11292113,
+    11327387
+   ]
+  },
+  "10975251": {
+   "name": "Tanom_sa_Honshū_Island",
+   "parents": [
+    10962234
+   ],
+   "children": [
+    11292007,
+    11032040,
+    11296647,
+    11281996,
+    11255279,
+    11327189,
+    11077752,
+    11304698,
+    11325501
+   ]
+  },
+  "10975443": {
+   "name": "Tanom_sa_Ryukyu_Islands",
+   "parents": [
+    10962234
+   ],
+   "children": [
+    11325504,
+    11290465,
+    11023909,
+    11062726,
+    11182311,
+    11291687,
+    11304585,
+    11065392,
+    11255282,
+    11064725,
+    10994870,
+    10989271,
+    10977273,
+    11282394,
+    11296351
+   ]
+  },
+  "10975812": {
+   "name": "Tanom_sa_Mindanao",
+   "parents": [
+    41538
+   ],
+   "children": [
+    11253058,
+    11290429,
+    11325419,
+    11304632,
+    11255311,
+    10977302,
+    11291704,
+    11192794,
+    11267165,
+    11296831
+   ]
+  },
+  "10976884": {
+   "name": "Tanom_sa_Kyushu",
+   "parents": [
+    10962234
+   ],
+   "children": [
+    11292009,
+    11032042,
+    11255281,
+    11282004,
+    11327190,
+    11304700,
+    11296669,
+    11325503
+   ]
+  },
+  "10976927": {
+   "name": "Tanom_sa_La_Rioja_(rehiyon)",
+   "parents": [
+    10962207
+   ],
+   "children": [
+    11183332,
+    11255432,
+    11282605,
+    11032241,
+    11235287,
+    11291899
+   ]
+  },
+  "10977245": {
+   "name": "Paku_paghimo_ni_bot",
+   "parents": [
+    10977244
+   ],
+   "children": []
+  },
+  "10977273": {
+   "name": "Paku_sa_Ryukyu_Islands",
+   "parents": [
+    10975443
+   ],
+   "children": []
+  },
+  "10977290": {
+   "name": "Paku_sa_Thayland",
+   "parents": [
+    10962278
+   ],
+   "children": []
+  },
+  "10977302": {
+   "name": "Paku_sa_Mindanao",
+   "parents": [
+    10975812
+   ],
+   "children": []
+  },
+  "10982499": {
+   "name": "Tanom_sa_Shikoku",
+   "parents": [
+    10962234
+   ],
+   "children": [
+    11292008,
+    11032041,
+    11255280,
+    11282003,
+    11327191,
+    11304699,
+    11296668,
+    11325502
+   ]
+  },
+  "10988986": {
+   "name": "Alambrillo_paghimo_ni_bot",
+   "parents": [
+    10988985
+   ],
+   "children": []
+  },
+  "10989168": {
+   "name": "Alambrillo_sa_Hapon",
+   "parents": [
+    10962234
+   ],
+   "children": [
+    10989271
+   ]
+  },
+  "10989170": {
+   "name": "Alambrillo_sa_Thayland",
+   "parents": [
+    10962278
+   ],
+   "children": []
+  },
+  "10989271": {
+   "name": "Alambrillo_sa_Ryukyu_Islands",
+   "parents": [
+    10975443,
+    10989168
+   ],
+   "children": []
+  },
+  "10994328": {
+   "name": "Tanom_nga_asparagos_sa_Baleares",
+   "parents": [
+    10962577
+   ],
+   "children": []
+  },
+  "10994330": {
+   "name": "Tanom_nga_asparagos_sa_Cerdeña",
+   "parents": [
+    10962208
+   ],
+   "children": []
+  },
+  "10994331": {
+   "name": "Tanom_nga_asparagos_sa_Sicilia",
+   "parents": [
+    10962209
+   ],
+   "children": []
+  },
+  "10994339": {
+   "name": "Tanom_nga_asparagos_sa_Gresya",
+   "parents": [
+    10962213
+   ],
+   "children": [
+    10994473
+   ]
+  },
+  "10994392": {
+   "name": "Tanom_nga_asparagos_sa_Canary_Islands_(rehiyon)",
+   "parents": [
+    10962225
+   ],
+   "children": []
+  },
+  "10994473": {
+   "name": "Tanom_nga_asparagos_sa_Aegean_Islands",
+   "parents": [
+    10974896,
+    10994339
+   ],
+   "children": []
+  },
+  "10994548": {
+   "name": "Tanom_nga_asparagos_sa_Ungariya",
+   "parents": [
+    10962203
+   ],
+   "children": []
+  },
+  "10994551": {
+   "name": "Tanom_nga_asparagos_sa_Polskowa",
+   "parents": [
+    10962198
+   ],
+   "children": []
+  },
+  "10994572": {
+   "name": "Tanom_nga_asparagos_sa_Hapon",
+   "parents": [
+    10962234
+   ],
+   "children": [
+    10995196,
+    10994870,
+    11006327
+   ]
+  },
+  "10994639": {
+   "name": "Tanom_nga_asparagos_sa_Sweden",
+   "parents": [
+    10962190
+   ],
+   "children": []
+  },
+  "10994683": {
+   "name": "Tanom_nga_asparagos_sa_Thayland",
+   "parents": [
+    10962278
+   ],
+   "children": []
+  },
+  "10994870": {
+   "name": "Tanom_nga_asparagos_sa_Ryukyu_Islands",
+   "parents": [
+    10975443,
+    10994572
+   ],
+   "children": []
+  },
+  "10995196": {
+   "name": "Tanom_nga_asparagos_sa_Ogasawara_Islands",
+   "parents": [
+    10962384,
+    10994572
+   ],
+   "children": []
+  },
+  "11003268": {
+   "name": "Ahos-ahos_paghimo_ni_bot",
+   "parents": [
+    11003267
+   ],
+   "children": []
+  },
+  "11006327": {
+   "name": "Tanom_nga_asparagos_sa_Volcano_Islands_(kapuloan_sa_Hapon)",
+   "parents": [
+    10962274,
+    10994572
+   ],
+   "children": []
+  },
+  "11022175": {
+   "name": "Tanom_nga_balili_paghimo_ni_bot",
+   "parents": [
+    2061683
+   ],
+   "children": []
+  },
+  "11023687": {
+   "name": "Tanom_nga_balili_sa_Thayland",
+   "parents": [
+    10962278
+   ],
+   "children": [
+    11033233
+   ]
+  },
+  "11023703": {
+   "name": "Tanom_nga_balili_sa_Ogasawara_Islands",
+   "parents": [
+    10962384
+   ],
+   "children": [
+    11035484
+   ]
+  },
+  "11023771": {
+   "name": "Tanom_nga_balili_sa_Cerdeña",
+   "parents": [
+    10962208
+   ],
+   "children": [
+    11033041
+   ]
+  },
+  "11023774": {
+   "name": "Tanom_nga_balili_sa_Sweden",
+   "parents": [
+    10962190
+   ],
+   "children": [
+    11033911
+   ]
+  },
+  "11023784": {
+   "name": "Tanom_nga_balili_sa_Espanya",
+   "parents": [
+    10962207
+   ],
+   "children": [
+    11023872,
+    11023873,
+    11032241
+   ]
+  },
+  "11023785": {
+   "name": "Tanom_nga_balili_sa_Ungariya",
+   "parents": [
+    10962203
+   ],
+   "children": [
+    11033049
+   ]
+  },
+  "11023787": {
+   "name": "Tanom_nga_balili_sa_Gresya",
+   "parents": [
+    10962213
+   ],
+   "children": [
+    11023906,
+    11032138
+   ]
+  },
+  "11023794": {
+   "name": "Tanom_nga_balili_sa_Polskowa",
+   "parents": [
+    10962198
+   ],
+   "children": [
+    11033427
+   ]
+  },
+  "11023872": {
+   "name": "Tanom_nga_balili_sa_Baleares",
+   "parents": [
+    10962577,
+    11023784
+   ],
+   "children": [
+    11033033
+   ]
+  },
+  "11023873": {
+   "name": "Tanom_nga_balili_sa_Canary_Islands_(rehiyon)",
+   "parents": [
+    10962225,
+    11023784
+   ],
+   "children": [
+    11033128
+   ]
+  },
+  "11023875": {
+   "name": "Tanom_nga_balili_sa_Sicilia",
+   "parents": [
+    10962209
+   ],
+   "children": [
+    11033042
+   ]
+  },
+  "11023906": {
+   "name": "Tanom_nga_balili_sa_Aegean_Islands",
+   "parents": [
+    10974896,
+    11023787
+   ],
+   "children": [
+    11033037
+   ]
+  },
+  "11023909": {
+   "name": "Tanom_nga_balili_sa_Ryukyu_Islands",
+   "parents": [
+    10975443
+   ],
+   "children": [
+    11034034
+   ]
+  },
+  "11023956": {
+   "name": "Tanom_nga_balili_sa_Volcano_Islands_(kapuloan_sa_Hapon)",
+   "parents": [
+    10962274
+   ],
+   "children": [
+    11037088
+   ]
+  },
+  "11032040": {
+   "name": "Tanom_nga_balili_sa_Honshū_Island",
+   "parents": [
+    10975251
+   ],
+   "children": []
+  },
+  "11032041": {
+   "name": "Tanom_nga_balili_sa_Shikoku",
+   "parents": [
+    10982499
+   ],
+   "children": []
+  },
+  "11032042": {
+   "name": "Tanom_nga_balili_sa_Kyushu",
+   "parents": [
+    10976884
+   ],
+   "children": []
+  },
+  "11032078": {
+   "name": "Tanom_nga_balili_sa_Hokkaido_(pulo_sa_Hapon)",
+   "parents": [
+    10975250
+   ],
+   "children": []
+  },
+  "11032138": {
+   "name": "Tanom_nga_balili_sa_Crete_(rehiyon)",
+   "parents": [
+    10962214,
+    11023787
+   ],
+   "children": []
+  },
+  "11032241": {
+   "name": "Tanom_nga_balili_sa_La_Rioja_(rehiyon)",
+   "parents": [
+    10976927,
+    11023784
+   ],
+   "children": []
+  },
+  "11033017": {
+   "name": "Balili",
+   "parents": [
+    2061683
+   ],
+   "children": [
+    11040435
+   ]
+  },
+  "11033033": {
+   "name": "Balili_sa_Baleares",
+   "parents": [
+    11023872
+   ],
+   "children": []
+  },
+  "11033037": {
+   "name": "Balili_sa_Aegean_Islands",
+   "parents": [
+    11023906
+   ],
+   "children": []
+  },
+  "11033041": {
+   "name": "Balili_sa_Cerdeña",
+   "parents": [
+    11023771
+   ],
+   "children": []
+  },
+  "11033042": {
+   "name": "Balili_sa_Sicilia",
+   "parents": [
+    11023875
+   ],
+   "children": []
+  },
+  "11033049": {
+   "name": "Balili_sa_Ungariya",
+   "parents": [
+    11023785
+   ],
+   "children": []
+  },
+  "11033128": {
+   "name": "Balili_sa_Canary_Islands_(rehiyon)",
+   "parents": [
+    11023873
+   ],
+   "children": []
+  },
+  "11033233": {
+   "name": "Balili_sa_Thayland",
+   "parents": [
+    11023687
+   ],
+   "children": [
+    11040451
+   ]
+  },
+  "11033427": {
+   "name": "Balili_sa_Polskowa",
+   "parents": [
+    11023794
+   ],
+   "children": []
+  },
+  "11033911": {
+   "name": "Balili_sa_Sweden",
+   "parents": [
+    11023774
+   ],
+   "children": []
+  },
+  "11034034": {
+   "name": "Balili_sa_Ryukyu_Islands",
+   "parents": [
+    11023909
+   ],
+   "children": []
+  },
+  "11035484": {
+   "name": "Balili_sa_Ogasawara_Islands",
+   "parents": [
+    11023703
+   ],
+   "children": []
+  },
+  "11037088": {
+   "name": "Balili_sa_Volcano_Islands_(kapuloan_sa_Hapon)",
+   "parents": [
+    11023956
+   ],
+   "children": []
+  },
+  "11040436": {
+   "name": "Tanglad_paghimo_ni_bot",
+   "parents": [
+    11040435
+   ],
+   "children": []
+  },
+  "11040451": {
+   "name": "Tanglad_sa_Thayland",
+   "parents": [
+    11033233
+   ],
+   "children": []
+  },
+  "11058710": {
+   "name": "Tikog_paghimo_ni_bot",
+   "parents": [
+    11058709
+   ],
+   "children": []
+  },
+  "11060331": {
+   "name": "Bakya-bakya_paghimo_ni_bot",
+   "parents": [
+    11060330
+   ],
+   "children": []
+  },
+  "11062589": {
+   "name": "Tanom_nga_bulí_sa_Thayland",
+   "parents": [
+    10962278
+   ],
+   "children": []
+  },
+  "11062726": {
+   "name": "Tanom_nga_bulí_sa_Ryukyu_Islands",
+   "parents": [
+    10975443
+   ],
+   "children": []
+  },
+  "11062727": {
+   "name": "Tanom_nga_bulí_sa_Ogasawara_Islands",
+   "parents": [
+    10962384
+   ],
+   "children": []
+  },
+  "11063241": {
+   "name": "Bólí_paghimo_ni_bot",
+   "parents": [
+    11063240
+   ],
+   "children": []
+  },
+  "11064718": {
+   "name": "Tanom_nga_ubi_sa_Thayland",
+   "parents": [
+    10962278
+   ],
+   "children": []
+  },
+  "11064725": {
+   "name": "Tanom_nga_ubi_sa_Ryukyu_Islands",
+   "parents": [
+    10975443
+   ],
+   "children": []
+  },
+  "11065255": {
+   "name": "Tanom_nga_liryo_sa_Sicilia",
+   "parents": [
+    10962209
+   ],
+   "children": []
+  },
+  "11065262": {
+   "name": "Tanom_nga_liryo_sa_Ungariya",
+   "parents": [
+    10962203
+   ],
+   "children": []
+  },
+  "11065265": {
+   "name": "Tanom_nga_liryo_sa_Cerdeña",
+   "parents": [
+    10962208
+   ],
+   "children": []
+  },
+  "11065266": {
+   "name": "Tanom_nga_liryo_sa_Gresya",
+   "parents": [
+    10962213
+   ],
+   "children": [
+    11065269
+   ]
+  },
+  "11065269": {
+   "name": "Tanom_nga_liryo_sa_Aegean_Islands",
+   "parents": [
+    10974896,
+    11065266
+   ],
+   "children": []
+  },
+  "11065282": {
+   "name": "Tanom_nga_liryo_sa_Sweden",
+   "parents": [
+    10962190
+   ],
+   "children": []
+  },
+  "11065288": {
+   "name": "Tanom_nga_liryo_sa_Polskowa",
+   "parents": [
+    10962198
+   ],
+   "children": []
+  },
+  "11065313": {
+   "name": "Tanom_nga_liryo_sa_Baleares",
+   "parents": [
+    10962577
+   ],
+   "children": []
+  },
+  "11065377": {
+   "name": "Tanom_nga_liryo_sa_Thayland",
+   "parents": [
+    10962278
+   ],
+   "children": [
+    11066354
+   ]
+  },
+  "11065388": {
+   "name": "Tanom_nga_liryo_sa_Hapon",
+   "parents": [
+    10962234
+   ],
+   "children": [
+    11065392
+   ]
+  },
+  "11065392": {
+   "name": "Tanom_nga_liryo_sa_Ryukyu_Islands",
+   "parents": [
+    10975443,
+    11065388
+   ],
+   "children": [
+    11066248
+   ]
+  },
+  "11066248": {
+   "name": "Banag_sa_Ryukyu_Islands",
+   "parents": [
+    11065392
+   ],
+   "children": []
+  },
+  "11066354": {
+   "name": "Banag_sa_Thayland",
+   "parents": [
+    11065377
+   ],
+   "children": []
+  },
+  "11066923": {
+   "name": "Tanom_nga_luya_sa_Thayland",
+   "parents": [
+    10962278
+   ],
+   "children": [
+    11067736,
+    11067977
+   ]
+  },
+  "11067736": {
+   "name": "Saging_sa_Thayland",
+   "parents": [
+    11066923
+   ],
+   "children": []
+  },
+  "11067865": {
+   "name": "Luya",
+   "parents": [
+    2287848
+   ],
+   "children": [
+    11068575
+   ]
+  },
+  "11067977": {
+   "name": "Luya_sa_Thayland",
+   "parents": [
+    11066923
+   ],
+   "children": [
+    11067976,
+    11068581
+   ]
+  },
+  "11067976": {
+   "name": "Punan_sa_Thayland",
+   "parents": [
+    11067977
+   ],
+   "children": []
+  },
+  "11068576": {
+   "name": "Kamias_paghimo_ni_bot",
+   "parents": [
+    11068575
+   ],
+   "children": []
+  },
+  "11068581": {
+   "name": "Kamias_sa_Thayland",
+   "parents": [
+    11067977
+   ],
+   "children": []
+  },
+  "11077446": {
+   "name": "Piga-piga_paghimo_ni_bot",
+   "parents": [
+    11077445
+   ],
+   "children": []
+  },
+  "11077670": {
+   "name": "Piga-piga_sa_Italya",
+   "parents": [
+    10962210
+   ],
+   "children": []
+  },
+  "11077681": {
+   "name": "Piga-piga_sa_Polskowa",
+   "parents": [
+    10962198
+   ],
+   "children": []
+  },
+  "11077751": {
+   "name": "Piga-piga_sa_Hapon",
+   "parents": [
+    10962234
+   ],
+   "children": [
+    11077752
+   ]
+  },
+  "11077752": {
+   "name": "Piga-piga_sa_Honshū_Island",
+   "parents": [
+    10975251,
+    11077751
+   ],
+   "children": []
+  },
+  "11080070": {
+   "name": "Kosmos_paghimo_ni_bot",
+   "parents": [
+    11080069
+   ],
+   "children": []
+  },
+  "11153055": {
+   "name": "Tigao_sa_Thayland",
+   "parents": [
+    10962278
+   ],
+   "children": []
+  },
+  "11162714": {
+   "name": "Mayana_sa_Thayland",
+   "parents": [
+    10962278
+   ],
+   "children": []
+  },
+  "11179770": {
+   "name": "Kanding-kanding_paghimo_ni_bot",
+   "parents": [
+    11179769
+   ],
+   "children": []
+  },
+  "11181394": {
+   "name": "Sitaw",
+   "parents": [
+    2346815
+   ],
+   "children": [
+    11189289,
+    11188170,
+    11188847,
+    11190864,
+    11182418,
+    11187668,
+    11181687
+   ]
+  },
+  "11181605": {
+   "name": "Sitaw_sa_Thayland",
+   "parents": [
+    11181606
+   ],
+   "children": [
+    11182483,
+    11188214,
+    11187678,
+    11188943
+   ]
+  },
+  "11181606": {
+   "name": "Tanom_nga_sitaw_sa_Thayland",
+   "parents": [
+    10962278
+   ],
+   "children": [
+    11181605
+   ]
+  },
+  "11181688": {
+   "name": "Akasya_paghimo_ni_bot",
+   "parents": [
+    11181687
+   ],
+   "children": []
+  },
+  "11181939": {
+   "name": "Akasya_sa_Espanya",
+   "parents": [
+    11181940
+   ],
+   "children": []
+  },
+  "11181940": {
+   "name": "Sitaw_sa_Espanya",
+   "parents": [
+    11181941
+   ],
+   "children": [
+    11182810,
+    11181939,
+    11183331,
+    11182199
+   ]
+  },
+  "11181941": {
+   "name": "Tanom_nga_sitaw_sa_Espanya",
+   "parents": [
+    10962207
+   ],
+   "children": [
+    11181940,
+    11183332
+   ]
+  },
+  "11181942": {
+   "name": "Akasya_sa_Italya",
+   "parents": [
+    11181943
+   ],
+   "children": []
+  },
+  "11181943": {
+   "name": "Sitaw_sa_Italya",
+   "parents": [
+    11181944
+   ],
+   "children": [
+    11182048,
+    11181966,
+    11181942
+   ]
+  },
+  "11181944": {
+   "name": "Tanom_nga_sitaw_sa_Italya",
+   "parents": [
+    10962210
+   ],
+   "children": [
+    11181943
+   ]
+  },
+  "11181966": {
+   "name": "Sitaw_sa_Cerdeña",
+   "parents": [
+    11181943
+   ],
+   "children": []
+  },
+  "11182048": {
+   "name": "Sitaw_sa_Sicilia",
+   "parents": [
+    11181943
+   ],
+   "children": []
+  },
+  "11182051": {
+   "name": "Sitaw_sa_Gresya",
+   "parents": [
+    11182052
+   ],
+   "children": [
+    11183464,
+    11183466,
+    11182695
+   ]
+  },
+  "11182052": {
+   "name": "Tanom_nga_sitaw_sa_Gresya",
+   "parents": [
+    10962213
+   ],
+   "children": [
+    11182051
+   ]
+  },
+  "11182199": {
+   "name": "Sitaw_sa_Canary_Islands_(rehiyon)",
+   "parents": [
+    11181940
+   ],
+   "children": []
+  },
+  "11182310": {
+   "name": "Sitaw_sa_Ryukyu_Islands",
+   "parents": [
+    11182311
+   ],
+   "children": []
+  },
+  "11182311": {
+   "name": "Tanom_nga_sitaw_sa_Ryukyu_Islands",
+   "parents": [
+    10975443
+   ],
+   "children": [
+    11182310
+   ]
+  },
+  "11182419": {
+   "name": "Akle_paghimo_ni_bot",
+   "parents": [
+    11182418
+   ],
+   "children": []
+  },
+  "11182483": {
+   "name": "Akle_sa_Thayland",
+   "parents": [
+    11181605
+   ],
+   "children": []
+  },
+  "11182695": {
+   "name": "Sitaw_sa_Aegean_Islands",
+   "parents": [
+    11182051
+   ],
+   "children": []
+  },
+  "11182810": {
+   "name": "Sitaw_sa_Islas_Baleares",
+   "parents": [
+    11181940
+   ],
+   "children": []
+  },
+  "11183331": {
+   "name": "Sitaw_sa_La_Rioja_(rehiyon)",
+   "parents": [
+    11181940,
+    11183332
+   ],
+   "children": []
+  },
+  "11183332": {
+   "name": "Tanom_nga_sitaw_sa_La_Rioja_(rehiyon)",
+   "parents": [
+    10976927,
+    11181941
+   ],
+   "children": [
+    11183331
+   ]
+  },
+  "11183464": {
+   "name": "Sitaw_sa_Crete_(rehiyon)",
+   "parents": [
+    11182051
+   ],
+   "children": []
+  },
+  "11183466": {
+   "name": "Sitaw_sa_Rhodes_(pulo)",
+   "parents": [
+    11182051
+   ],
+   "children": []
+  },
+  "11187669": {
+   "name": "Túbli_paghimo_ni_bot",
+   "parents": [
+    11187668
+   ],
+   "children": []
+  },
+  "11187678": {
+   "name": "Túbli_sa_Thayland",
+   "parents": [
+    11181605
+   ],
+   "children": []
+  },
+  "11188171": {
+   "name": "Dapdap_paghimo_ni_bot",
+   "parents": [
+    11188170
+   ],
+   "children": []
+  },
+  "11188214": {
+   "name": "Dapdap_sa_Thayland",
+   "parents": [
+    11181605
+   ],
+   "children": []
+  },
+  "11188848": {
+   "name": "Tayum_paghimo_ni_bot",
+   "parents": [
+    11188847
+   ],
+   "children": []
+  },
+  "11188943": {
+   "name": "Tayum_sa_Thayland",
+   "parents": [
+    11181605
+   ],
+   "children": []
+  },
+  "11189290": {
+   "name": "Kabahero_paghimo_ni_bot",
+   "parents": [
+    11189289
+   ],
+   "children": []
+  },
+  "11190865": {
+   "name": "Narra_paghimo_ni_bot",
+   "parents": [
+    11190864
+   ],
+   "children": []
+  },
+  "11192794": {
+   "name": "Tanom_nga_sitaw_sa_Mindanao",
+   "parents": [
+    10975812
+   ],
+   "children": []
+  },
+  "11193950": {
+   "name": "Tsitsirika_paghimo_ni_bot",
+   "parents": [
+    11193949
+   ],
+   "children": []
+  },
+  "11197184": {
+   "name": "Kalachuchi_paghimo_ni_bot",
+   "parents": [
+    11197183
+   ],
+   "children": []
+  },
+  "11198191": {
+   "name": "Komentang_paghimo_ni_bot",
+   "parents": [
+    11198190
+   ],
+   "children": []
+  },
+  "11203229": {
+   "name": "Santan_paghimo_ni_bot",
+   "parents": [
+    11203228
+   ],
+   "children": []
+  },
+  "11203285": {
+   "name": "Santan_sa_Thayland",
+   "parents": [
+    10962278
+   ],
+   "children": []
+  },
+  "11207537": {
+   "name": "Bagarnga_paghimo_ni_bot",
+   "parents": [
+    11207536
+   ],
+   "children": []
+  },
+  "11207556": {
+   "name": "Bagarnga_sa_Thayland",
+   "parents": [
+    10962278
+   ],
+   "children": []
+  },
+  "11220310": {
+   "name": "Taylor_Swift",
+   "parents": [
+    42511
+   ],
+   "children": [
+    11239351
+   ]
+  },
+  "11223943": {
+   "name": "Kudiapa_paghimo_ni_bot",
+   "parents": [
+    11223942
+   ],
+   "children": []
+  },
+  "11231138": {
+   "name": "Lapsay_paghimo_ni_bot",
+   "parents": [
+    11231137
+   ],
+   "children": []
+  },
+  "11231233": {
+   "name": "Bombil_paghimo_ni_bot",
+   "parents": [
+    11231232
+   ],
+   "children": []
+  },
+  "11235205": {
+   "name": "Olasiman_paghimo_ni_bot",
+   "parents": [
+    11235204
+   ],
+   "children": []
+  },
+  "11235271": {
+   "name": "Olasiman_sa_Canary_Islands_(rehiyon)",
+   "parents": [
+    10962225
+   ],
+   "children": []
+  },
+  "11235287": {
+   "name": "Olasiman_sa_La_Rioja_(rehiyon)",
+   "parents": [
+    10976927
+   ],
+   "children": []
+  },
+  "11235310": {
+   "name": "Olasiman_sa_Sicilia",
+   "parents": [
+    10962209
+   ],
+   "children": []
+  },
+  "11235313": {
+   "name": "Olasiman_sa_Gresya",
+   "parents": [
+    10962213
+   ],
+   "children": [
+    11235314,
+    11235315,
+    11235316
+   ]
+  },
+  "11235314": {
+   "name": "Olasiman_sa_Crete_(rehiyon)",
+   "parents": [
+    10962214,
+    11235313
+   ],
+   "children": []
+  },
+  "11235315": {
+   "name": "Olasiman_sa_Aegean_Islands",
+   "parents": [
+    10974896,
+    11235313
+   ],
+   "children": []
+  },
+  "11235316": {
+   "name": "Olasiman_sa_Rhodes_(pulo)",
+   "parents": [
+    10974897,
+    11235313
+   ],
+   "children": []
+  },
+  "11235984": {
+   "name": "Angry_Birds",
+   "parents": [
+    52347
+   ],
+   "children": []
+  },
+  "11239351": {
+   "name": "Mga_album_ni_Taylor_Swift",
+   "parents": [
+    11220310
+   ],
+   "children": []
+  },
+  "11250246": {
+   "name": "Mindanao_gum_paghimo_ni_bot",
+   "parents": [
+    11250245
+   ],
+   "children": []
+  },
+  "11253019": {
+   "name": "Bunlaon_paghimo_ni_bot",
+   "parents": [
+    11253018
+   ],
+   "children": []
+  },
+  "11253034": {
+   "name": "Bunlaon_sa_Thayland",
+   "parents": [
+    10962278
+   ],
+   "children": []
+  },
+  "11253058": {
+   "name": "Bunlaon_sa_Mindanao",
+   "parents": [
+    10975812
+   ],
+   "children": []
+  },
+  "11255188": {
+   "name": "Tanom_nga_rosas_paghimo_ni_bot",
+   "parents": [
+    2166537
+   ],
+   "children": [
+    11257379,
+    11265428,
+    11266300
+   ]
+  },
+  "11255278": {
+   "name": "Tanom_nga_rosas_sa_Hapon",
+   "parents": [
+    10962234
+   ],
+   "children": [
+    11255533,
+    11255279,
+    11255280,
+    11255281,
+    11255282
+   ]
+  },
+  "11255279": {
+   "name": "Tanom_nga_rosas_sa_Honshū_Island",
+   "parents": [
+    10975251,
+    11255278
+   ],
+   "children": []
+  },
+  "11255280": {
+   "name": "Tanom_nga_rosas_sa_Shikoku",
+   "parents": [
+    10982499,
+    11255278
+   ],
+   "children": []
+  },
+  "11255281": {
+   "name": "Tanom_nga_rosas_sa_Kyushu",
+   "parents": [
+    10976884,
+    11255278
+   ],
+   "children": []
+  },
+  "11255282": {
+   "name": "Tanom_nga_rosas_sa_Ryukyu_Islands",
+   "parents": [
+    10975443,
+    11255278
+   ],
+   "children": []
+  },
+  "11255299": {
+   "name": "Tanom_nga_rosas_sa_Thayland",
+   "parents": [
+    10962278
+   ],
+   "children": []
+  },
+  "11255311": {
+   "name": "Tanom_nga_rosas_sa_Mindanao",
+   "parents": [
+    10975812
+   ],
+   "children": [
+    11265449
+   ]
+  },
+  "11255432": {
+   "name": "Tanom_nga_rosas_sa_La_Rioja_(rehiyon)",
+   "parents": [
+    10976927
+   ],
+   "children": []
+  },
+  "11255533": {
+   "name": "Tanom_nga_rosas_sa_Hokkaido_(pulo_sa_Hapon)",
+   "parents": [
+    10975250,
+    11255278
+   ],
+   "children": []
+  },
+  "11255600": {
+   "name": "Tanom_nga_rosas_sa_Polskowa",
+   "parents": [
+    10962198
+   ],
+   "children": []
+  },
+  "11255648": {
+   "name": "Tanom_nga_rosas_sa_Gresya",
+   "parents": [
+    10962213
+   ],
+   "children": [
+    11257050,
+    11256002,
+    11257051
+   ]
+  },
+  "11255715": {
+   "name": "Tanom_nga_rosas_sa_Ungariya",
+   "parents": [
+    10962203
+   ],
+   "children": [
+    11266444
+   ]
+  },
+  "11255716": {
+   "name": "Tanom_nga_rosas_sa_Italya",
+   "parents": [
+    10962210
+   ],
+   "children": [
+    11255746,
+    11255747
+   ]
+  },
+  "11255719": {
+   "name": "Tanom_nga_rosas_sa_Sweden",
+   "parents": [
+    10962190
+   ],
+   "children": []
+  },
+  "11255730": {
+   "name": "Tanom_nga_rosas_sa_Baleares",
+   "parents": [
+    10962577
+   ],
+   "children": []
+  },
+  "11255746": {
+   "name": "Tanom_nga_rosas_sa_Cerdeña",
+   "parents": [
+    10962208,
+    11255716
+   ],
+   "children": []
+  },
+  "11255747": {
+   "name": "Tanom_nga_rosas_sa_Sicilia",
+   "parents": [
+    10962209,
+    11255716
+   ],
+   "children": []
+  },
+  "11256002": {
+   "name": "Tanom_nga_rosas_sa_Crete_(rehiyon)",
+   "parents": [
+    10962214,
+    11255648
+   ],
+   "children": []
+  },
+  "11256565": {
+   "name": "Tanom_nga_rosas_sa_Canary_Islands_(rehiyon)",
+   "parents": [
+    10962225
+   ],
+   "children": []
+  },
+  "11257050": {
+   "name": "Tanom_nga_rosas_sa_Aegean_Islands",
+   "parents": [
+    10974896,
+    11255648
+   ],
+   "children": []
+  },
+  "11257051": {
+   "name": "Tanom_nga_rosas_sa_Rhodes_(pulo)",
+   "parents": [
+    10974897,
+    11255648
+   ],
+   "children": []
+  },
+  "11257379": {
+   "name": "Libas_paghimo_ni_bot",
+   "parents": [
+    11257378,
+    11255188
+   ],
+   "children": []
+  },
+  "11265428": {
+   "name": "Alingato_paghimo_ni_bot",
+   "parents": [
+    11265427,
+    11255188
+   ],
+   "children": []
+  },
+  "11265449": {
+   "name": "Alingato_sa_Mindanao",
+   "parents": [
+    11255311
+   ],
+   "children": []
+  },
+  "11266300": {
+   "name": "Handalamai_paghimo_ni_bot",
+   "parents": [
+    11266299,
+    11255188
+   ],
+   "children": []
+  },
+  "11266444": {
+   "name": "Handalamai_sa_Ungariya",
+   "parents": [
+    11255715
+   ],
+   "children": []
+  },
+  "11267123": {
+   "name": "Agagkag_paghimo_ni_bot",
+   "parents": [
+    11267122
+   ],
+   "children": []
+  },
+  "11267136": {
+   "name": "Agagkag_sa_Thayland",
+   "parents": [
+    10962278
+   ],
+   "children": []
+  },
+  "11267165": {
+   "name": "Agagkag_sa_Mindanao",
+   "parents": [
+    10975812
+   ],
+   "children": []
+  },
+  "11267920": {
+   "name": "Doldol_paghimo_ni_bot",
+   "parents": [
+    11267919
+   ],
+   "children": []
+  },
+  "11268270": {
+   "name": "Tugabang_paghimo_ni_bot",
+   "parents": [
+    11268269
+   ],
+   "children": []
+  },
+  "11268681": {
+   "name": "Duryan_paghimo_ni_bot",
+   "parents": [
+    11268680
+   ],
+   "children": []
+  },
+  "11269132": {
+   "name": "Gumamela_paghimo_ni_bot",
+   "parents": [
+    11269131
+   ],
+   "children": []
+  },
+  "11271012": {
+   "name": "Banilad_paghimo_ni_bot",
+   "parents": [
+    11271011
+   ],
+   "children": []
+  },
+  "11271122": {
+   "name": "Banilad_sa_Thayland",
+   "parents": [
+    10962278
+   ],
+   "children": []
+  },
+  "11273986": {
+   "name": "Mahogany_paghimo_ni_bot",
+   "parents": [
+    11273985
+   ],
+   "children": []
+  },
+  "11277756": {
+   "name": "Kagang-kagang_paghimo_ni_bot",
+   "parents": [
+    11277755
+   ],
+   "children": []
+  },
+  "11281994": {
+   "name": "Tanom_nga_kinsay_sa_Hapon",
+   "parents": [
+    10962234
+   ],
+   "children": [
+    11281995,
+    11281996,
+    11282003,
+    11282004,
+    11282394
+   ]
+  },
+  "11281995": {
+   "name": "Tanom_nga_kinsay_sa_Hokkaido_(pulo_sa_Hapon)",
+   "parents": [
+    10975250,
+    11281994
+   ],
+   "children": []
+  },
+  "11281996": {
+   "name": "Tanom_nga_kinsay_sa_Honshū_Island",
+   "parents": [
+    10975251,
+    11281994
+   ],
+   "children": []
+  },
+  "11282003": {
+   "name": "Tanom_nga_kinsay_sa_Shikoku",
+   "parents": [
+    10982499,
+    11281994
+   ],
+   "children": []
+  },
+  "11282004": {
+   "name": "Tanom_nga_kinsay_sa_Kyushu",
+   "parents": [
+    10976884,
+    11281994
+   ],
+   "children": []
+  },
+  "11282128": {
+   "name": "Tanom_nga_kinsay_sa_Baleares",
+   "parents": [
+    10962577
+   ],
+   "children": []
+  },
+  "11282132": {
+   "name": "Tanom_nga_kinsay_sa_Crete_(rehiyon)",
+   "parents": [
+    10962214
+   ],
+   "children": []
+  },
+  "11282133": {
+   "name": "Tanom_nga_kinsay_sa_Italya",
+   "parents": [
+    10962210
+   ],
+   "children": [
+    11282138,
+    11282139
+   ]
+  },
+  "11282138": {
+   "name": "Tanom_nga_kinsay_sa_Cerdeña",
+   "parents": [
+    10962208,
+    11282133
+   ],
+   "children": []
+  },
+  "11282139": {
+   "name": "Tanom_nga_kinsay_sa_Sicilia",
+   "parents": [
+    10962209,
+    11282133
+   ],
+   "children": []
+  },
+  "11282144": {
+   "name": "Tanom_nga_kinsay_sa_Canary_Islands_(rehiyon)",
+   "parents": [
+    10962225
+   ],
+   "children": []
+  },
+  "11282145": {
+   "name": "Tanom_nga_kinsay_sa_Aegean_Islands",
+   "parents": [
+    10974896
+   ],
+   "children": []
+  },
+  "11282146": {
+   "name": "Tanom_nga_kinsay_sa_Rhodes_(pulo)",
+   "parents": [
+    10974897
+   ],
+   "children": []
+  },
+  "11282156": {
+   "name": "Tanom_nga_kinsay_sa_Sweden",
+   "parents": [
+    10962190
+   ],
+   "children": []
+  },
+  "11282236": {
+   "name": "Tanom_nga_kinsay_sa_Ungariya",
+   "parents": [
+    10962203
+   ],
+   "children": []
+  },
+  "11282255": {
+   "name": "Tanom_nga_kinsay_sa_Thayland",
+   "parents": [
+    10962278
+   ],
+   "children": []
+  },
+  "11282394": {
+   "name": "Tanom_nga_kinsay_sa_Ryukyu_Islands",
+   "parents": [
+    10975443,
+    11281994
+   ],
+   "children": []
+  },
+  "11282534": {
+   "name": "Tanom_nga_kinsay_sa_Polskowa",
+   "parents": [
+    10962198
+   ],
+   "children": []
+  },
+  "11282605": {
+   "name": "Tanom_nga_kinsay_sa_La_Rioja_(rehiyon)",
+   "parents": [
+    10976927
+   ],
+   "children": []
+  },
+  "11287865": {
+   "name": "Pangantoan_paghimo_ni_bot",
+   "parents": [
+    11287864
+   ],
+   "children": []
+  },
+  "11288161": {
+   "name": "Tanom_nga_ripolyo",
+   "parents": [
+    1884623
+   ],
+   "children": []
+  },
+  "11290142": {
+   "name": "Tanom_nga_ripolyo_sa_Thayland",
+   "parents": [
+    10962278
+   ],
+   "children": []
+  },
+  "11290429": {
+   "name": "Tanom_nga_ripolyo_sa_Mindanao",
+   "parents": [
+    10975812
+   ],
+   "children": []
+  },
+  "11290465": {
+   "name": "Tanom_nga_ripolyo_sa_Ryukyu_Islands",
+   "parents": [
+    10975443
+   ],
+   "children": []
+  },
+  "11291310": {
+   "name": "Tanom_nga_ripolyo_sa_Canary_Islands_(rehiyon)",
+   "parents": [
+    10962225
+   ],
+   "children": []
+  },
+  "11291379": {
+   "name": "Tanom_nga_ripolyo_sa_Baleares",
+   "parents": [
+    10962577
+   ],
+   "children": []
+  },
+  "11291652": {
+   "name": "Tanom_nga_patatas_sa_Thayland",
+   "parents": [
+    10962278
+   ],
+   "children": []
+  },
+  "11291687": {
+   "name": "Tanom_nga_patatas_sa_Ryukyu_Islands",
+   "parents": [
+    10975443
+   ],
+   "children": []
+  },
+  "11291704": {
+   "name": "Tanom_nga_patatas_sa_Mindanao",
+   "parents": [
+    10975812
+   ],
+   "children": []
+  },
+  "11291899": {
+   "name": "Tanom_nga_patatas_sa_La_Rioja_(rehiyon)",
+   "parents": [
+    10976927
+   ],
+   "children": []
+  },
+  "11292007": {
+   "name": "Tanom_nga_patatas_sa_Honshū_Island",
+   "parents": [
+    10975251
+   ],
+   "children": []
+  },
+  "11292008": {
+   "name": "Tanom_nga_patatas_sa_Shikoku",
+   "parents": [
+    10982499
+   ],
+   "children": []
+  },
+  "11292009": {
+   "name": "Tanom_nga_patatas_sa_Kyushu",
+   "parents": [
+    10976884
+   ],
+   "children": []
+  },
+  "11292084": {
+   "name": "Tanom_nga_patatas_sa_Polskowa",
+   "parents": [
+    10962198
+   ],
+   "children": []
+  },
+  "11292085": {
+   "name": "Tanom_nga_patatas_sa_Sweden",
+   "parents": [
+    10962190
+   ],
+   "children": []
+  },
+  "11292090": {
+   "name": "Tanom_nga_patatas_sa_Baleares",
+   "parents": [
+    10962577
+   ],
+   "children": []
+  },
+  "11292093": {
+   "name": "Tanom_nga_patatas_sa_Gresya",
+   "parents": [
+    10962213
+   ],
+   "children": [
+    11292225,
+    11292094,
+    11292095
+   ]
+  },
+  "11292094": {
+   "name": "Tanom_nga_patatas_sa_Crete_(rehiyon)",
+   "parents": [
+    10962214,
+    11292093
+   ],
+   "children": []
+  },
+  "11292095": {
+   "name": "Tanom_nga_patatas_sa_Aegean_Islands",
+   "parents": [
+    10974896,
+    11292093
+   ],
+   "children": []
+  },
+  "11292096": {
+   "name": "Tanom_nga_patatas_sa_Italya",
+   "parents": [
+    10962210
+   ],
+   "children": [
+    11292102,
+    11292103
+   ]
+  },
+  "11292102": {
+   "name": "Tanom_nga_patatas_sa_Cerdeña",
+   "parents": [
+    10962208,
+    11292096
+   ],
+   "children": []
+  },
+  "11292103": {
+   "name": "Tanom_nga_patatas_sa_Sicilia",
+   "parents": [
+    10962209,
+    11292096
+   ],
+   "children": []
+  },
+  "11292111": {
+   "name": "Tanom_nga_patatas_sa_Canary_Islands_(rehiyon)",
+   "parents": [
+    10962225
+   ],
+   "children": []
+  },
+  "11292113": {
+   "name": "Tanom_nga_patatas_sa_Hokkaido_(pulo_sa_Hapon)",
+   "parents": [
+    10975250
+   ],
+   "children": []
+  },
+  "11292225": {
+   "name": "Tanom_nga_patatas_sa_Rhodes_(pulo)",
+   "parents": [
+    10974897,
+    11292093
+   ],
+   "children": []
+  },
+  "11292277": {
+   "name": "Tanom_nga_patatas_sa_Ungariya",
+   "parents": [
+    10962203
+   ],
+   "children": []
+  },
+  "11296351": {
+   "name": "Tanom_nga_paminta_sa_Ryukyu_Islands",
+   "parents": [
+    10975443
+   ],
+   "children": []
+  },
+  "11296370": {
+   "name": "Tanom_nga_paminta_sa_Thayland",
+   "parents": [
+    10962278
+   ],
+   "children": []
+  },
+  "11296592": {
+   "name": "Tanom_nga_paminta_sa_Gresya",
+   "parents": [
+    10962213
+   ],
+   "children": [
+    11296723
+   ]
+  },
+  "11296596": {
+   "name": "Tanom_nga_paminta_sa_Italya",
+   "parents": [
+    10962210
+   ],
+   "children": [
+    11296615
+   ]
+  },
+  "11296615": {
+   "name": "Tanom_nga_paminta_sa_Sicilia",
+   "parents": [
+    10962209,
+    11296596
+   ],
+   "children": []
+  },
+  "11296647": {
+   "name": "Tanom_nga_paminta_sa_Honshū_Island",
+   "parents": [
+    10975251
+   ],
+   "children": []
+  },
+  "11296668": {
+   "name": "Tanom_nga_paminta_sa_Shikoku",
+   "parents": [
+    10982499
+   ],
+   "children": []
+  },
+  "11296669": {
+   "name": "Tanom_nga_paminta_sa_Kyushu",
+   "parents": [
+    10976884
+   ],
+   "children": []
+  },
+  "11296723": {
+   "name": "Tanom_nga_paminta_sa_Aegean_Islands",
+   "parents": [
+    10974896,
+    11296592
+   ],
+   "children": []
+  },
+  "11296831": {
+   "name": "Tanom_nga_paminta_sa_Mindanao",
+   "parents": [
+    10975812
+   ],
+   "children": [
+    11297197
+   ]
+  },
+  "11297090": {
+   "name": "Sinaw-sinaw_paghimo_ni_bot",
+   "parents": [
+    11297089
+   ],
+   "children": []
+  },
+  "11297197": {
+   "name": "Sinaw-sinaw_sa_Mindanao",
+   "parents": [
+    11296831
+   ],
+   "children": []
+  },
+  "11304482": {
+   "name": "Tanom_nga_lawrel_sa_Hapon",
+   "parents": [
+    10962234
+   ],
+   "children": [
+    11304585,
+    11304698,
+    11304699,
+    11304700
+   ]
+  },
+  "11304585": {
+   "name": "Tanom_nga_lawrel_sa_Ryukyu_Islands",
+   "parents": [
+    10975443,
+    11304482
+   ],
+   "children": [
+    11305103
+   ]
+  },
+  "11304591": {
+   "name": "Tanom_nga_lawrel_sa_Thayland",
+   "parents": [
+    10962278
+   ],
+   "children": [
+    11305088
+   ]
+  },
+  "11304632": {
+   "name": "Tanom_nga_lawrel_sa_Mindanao",
+   "parents": [
+    10975812
+   ],
+   "children": [
+    11305104
+   ]
+  },
+  "11304698": {
+   "name": "Tanom_nga_lawrel_sa_Honshū_Island",
+   "parents": [
+    10975251,
+    11304482
+   ],
+   "children": []
+  },
+  "11304699": {
+   "name": "Tanom_nga_lawrel_sa_Shikoku",
+   "parents": [
+    10982499,
+    11304482
+   ],
+   "children": []
+  },
+  "11304700": {
+   "name": "Tanom_nga_lawrel_sa_Kyushu",
+   "parents": [
+    10976884,
+    11304482
+   ],
+   "children": []
+  },
+  "11305026": {
+   "name": "Kaningag_paghimo_ni_bot",
+   "parents": [
+    11305025
+   ],
+   "children": []
+  },
+  "11305088": {
+   "name": "Kaningag_sa_Thayland",
+   "parents": [
+    11304591
+   ],
+   "children": []
+  },
+  "11305103": {
+   "name": "Kaningag_sa_Ryukyu_Islands",
+   "parents": [
+    11304585
+   ],
+   "children": []
+  },
+  "11305104": {
+   "name": "Kaningag_sa_Mindanao",
+   "parents": [
+    11304632
+   ],
+   "children": []
+  },
+  "11309161": {
+   "name": "Tanom_nga_pepino_sa_Thayland",
+   "parents": [
+    10962278
+   ],
+   "children": [
+    11312099
+   ]
+  },
+  "11312012": {
+   "name": "Pepino",
+   "parents": [
+    2337584
+   ],
+   "children": []
+  },
+  "11312099": {
+   "name": "Pepino_sa_Thayland",
+   "parents": [
+    11309161
+   ],
+   "children": []
+  },
+  "11316483": {
+   "name": "Ulayan_paghimo_ni_bot",
+   "parents": [
+    11316482
+   ],
+   "children": []
+  },
+  "11316504": {
+   "name": "Ulayan_sa_Hapon",
+   "parents": [
+    10962234
+   ],
+   "children": []
+  },
+  "11316538": {
+   "name": "Ulayan_sa_Thayland",
+   "parents": [
+    10962278
+   ],
+   "children": []
+  },
+  "11316606": {
+   "name": "Ulayan_sa_Espanya",
+   "parents": [
+    10962207
+   ],
+   "children": []
+  },
+  "11316630": {
+   "name": "Ulayan_sa_Aegean_Islands",
+   "parents": [
+    10974896
+   ],
+   "children": []
+  },
+  "11316651": {
+   "name": "Ulayan_sa_Sicilia",
+   "parents": [
+    10962209
+   ],
+   "children": []
+  },
+  "11316688": {
+   "name": "Ulayan_sa_Ungariya",
+   "parents": [
+    10962203
+   ],
+   "children": []
+  },
+  "11316892": {
+   "name": "Ulayan_sa_Cerdeña",
+   "parents": [
+    10962208
+   ],
+   "children": []
+  },
+  "11317606": {
+   "name": "Ulayan_sa_Polskowa",
+   "parents": [
+    10962198
+   ],
+   "children": []
+  },
+  "11319706": {
+   "name": "Tanom_nga_magnolia_sa_Thayland",
+   "parents": [
+    10962278
+   ],
+   "children": [
+    11321161
+   ]
+  },
+  "11321136": {
+   "name": "Duguan_paghimo_ni_bot",
+   "parents": [
+    11321135
+   ],
+   "children": []
+  },
+  "11321161": {
+   "name": "Duguan_sa_Thayland",
+   "parents": [
+    11319706
+   ],
+   "children": []
+  },
+  "11325362": {
+   "name": "Tanom_nga_ubas_sa_Thayland",
+   "parents": [
+    10962278
+   ],
+   "children": []
+  },
+  "11325419": {
+   "name": "Tanom_nga_ubas_sa_Mindanao",
+   "parents": [
+    10975812
+   ],
+   "children": []
+  },
+  "11325500": {
+   "name": "Tanom_nga_ubas_sa_Hapon",
+   "parents": [
+    10962234
+   ],
+   "children": [
+    11325504,
+    11325546,
+    11325501,
+    11325502,
+    11325503
+   ]
+  },
+  "11325501": {
+   "name": "Tanom_nga_ubas_sa_Honshū_Island",
+   "parents": [
+    10975251,
+    11325500
+   ],
+   "children": []
+  },
+  "11325502": {
+   "name": "Tanom_nga_ubas_sa_Shikoku",
+   "parents": [
+    10982499,
+    11325500
+   ],
+   "children": []
+  },
+  "11325503": {
+   "name": "Tanom_nga_ubas_sa_Kyushu",
+   "parents": [
+    10976884,
+    11325500
+   ],
+   "children": []
+  },
+  "11325504": {
+   "name": "Tanom_nga_ubas_sa_Ryukyu_Islands",
+   "parents": [
+    10975443,
+    11325500
+   ],
+   "children": []
+  },
+  "11325546": {
+   "name": "Tanom_nga_ubas_sa_Hokkaido_(pulo_sa_Hapon)",
+   "parents": [
+    10975250,
+    11325500
+   ],
+   "children": []
+  },
+  "11326134": {
+   "name": "Tanom_nga_ubas_sa_Italya",
+   "parents": [
+    10962210
+   ],
+   "children": []
+  },
+  "11327187": {
+   "name": "Tanom_nga_pino_sa_Hapon",
+   "parents": [
+    10962234
+   ],
+   "children": [
+    11327387,
+    11327189,
+    11327190,
+    11327191
+   ]
+  },
+  "11327189": {
+   "name": "Tanom_nga_pino_sa_Honshū_Island",
+   "parents": [
+    10975251,
+    11327187
+   ],
+   "children": []
+  },
+  "11327190": {
+   "name": "Tanom_nga_pino_sa_Kyushu",
+   "parents": [
+    10976884,
+    11327187
+   ],
+   "children": []
+  },
+  "11327191": {
+   "name": "Tanom_nga_pino_sa_Shikoku",
+   "parents": [
+    10982499,
+    11327187
+   ],
+   "children": []
+  },
+  "11327208": {
+   "name": "Tanom_nga_pino_sa_Thayland",
+   "parents": [
+    10962278
+   ],
+   "children": []
+  },
+  "11327387": {
+   "name": "Tanom_nga_pino_sa_Hokkaido_(pulo_sa_Hapon)",
+   "parents": [
+    10975250,
+    11327187
+   ],
+   "children": []
+  },
+  "11327394": {
+   "name": "Tanom_nga_pino_sa_Sweden",
+   "parents": [
+    10962190
+   ],
+   "children": []
+  },
+  "11327397": {
+   "name": "Tanom_nga_pino_sa_Ungariya",
+   "parents": [
+    10962203
+   ],
+   "children": []
+  },
+  "11327398": {
+   "name": "Tanom_nga_pino_sa_Polskowa",
+   "parents": [
+    10962198
+   ],
+   "children": []
+  },
+  "11327404": {
+   "name": "Tanom_nga_pino_sa_Italya",
+   "parents": [
+    10962210
+   ],
+   "children": [
+    11327406
+   ]
+  },
+  "11327406": {
+   "name": "Tanom_nga_pino_sa_Sicilia",
+   "parents": [
+    10962209,
+    11327404
+   ],
+   "children": []
+  },
+  "11337685": {
+   "name": "Kiampao_paghimo_ni_bot",
+   "parents": [
+    9924093
+   ],
+   "children": []
+  },
+  "11340189": {
+   "name": "Mga_Buddhistang_monasteryo",
+   "parents": [
+    7615783
+   ],
+   "children": []
+  },
+  "11340193": {
+   "name": "Relihyon",
+   "parents": [
+    14927,
+    45062,
+    0
+   ],
+   "children": []
+  },
+  "0": {
+   "name": "__root__",
+   "parents": [],
+   "children": [
+    45057,
+    45062,
+    51729,
+    3324692,
+    53015,
+    11340193,
+    35111,
+    40618,
+    14908,
+    53314,
+    36930,
+    40901,
+    53317,
+    53576,
+    14927,
+    43217,
+    55506,
+    14936,
+    35164,
+    14949,
+    35175,
+    38119,
+    40429,
+    35182,
+    35183,
+    53359
+   ]
+  }
+ }
+}

@@ -1,13 +1,24 @@
 {
  "pagetable": {
-  "updated": "2022-08-20"
+  "updated": "2023-09-20"
  },
  "categorylinks": {
-  "updated": "2022-08-20"
+  "updated": "2023-09-20"
  },
  "category": {
-  "updated": "2022-08-20"
+  "updated": "2023-09-20"
  },
- "uncompressed_sha256": "bc6220f2745e6be84408692ba22fe0c2d3f7aa14803e301c0a679d24166fddba",
- "updated": "2023-09-04"
+ "full_category_tree": {
+  "sha256": "4bb290b2bf323cf6fcc354b97792825f9795a65910f179a42b8f5ef43aed17ee",
+  "uncompressed_size": 8201817
+ },
+ "trimmed_category_tree": {
+  "sha256": "099e5c000c29c9dc6afc8944866fdcfa1e0bdddb4707533e23c5da4546cd0497",
+  "uncompressed_size": 811835
+ },
+ "updated": "2023-09-23T22:51:28.733653",
+ "mirror": "Wikimedia",
+ "trimmed_pages_percentile": 65,
+ "trimmed_max_depth": 100,
+ "run_duration_seconds": 49
 }
