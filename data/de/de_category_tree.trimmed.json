@@ -582,9 +582,10 @@
     429298
    ],
    "children": [
-    234841,
+    5777901,
     11580050,
     473076,
+    234841,
     11583390
    ]
   },
@@ -1108,7 +1109,8 @@
    "children": [
     11466721,
     11824329,
-    8132077
+    8132077,
+    9637678
    ]
   },
   "236096": {
@@ -2227,6 +2229,7 @@
     2030575,
     8389647,
     12754607,
+    12831950,
     5400438,
     4958647,
     238040,
@@ -8029,6 +8032,7 @@
    "children": [
     10937894,
     11293321,
+    12833643,
     11139597,
     9903548,
     11293406,
@@ -8411,8 +8415,7 @@
   "8606280": {
    "name": "Drogen_und_Recht",
    "parents": [
-    6510270,
-    8011471
+    6510270
    ],
    "children": [
     6190640,
@@ -8434,8 +8437,7 @@
   "6674469": {
    "name": "Drogenpolitik",
    "parents": [
-    1109157,
-    8011471
+    1109157
    ],
    "children": [
     8535600,
@@ -9762,6 +9764,7 @@
     5853216,
     11856610,
     7536966,
+    12830791,
     272976,
     4544924
    ]
@@ -9910,7 +9913,6 @@
     1889109,
     418398,
     937313,
-    933476,
     335090,
     1838451,
     5818235
@@ -9983,7 +9985,6 @@
     1388456,
     448458,
     564779,
-    8011471,
     1049264,
     10241907,
     551477,
@@ -10797,6 +10798,7 @@
     5250857,
     12581293,
     7825390,
+    12824113,
     278962
    ]
   },
@@ -13567,9 +13569,10 @@
    "children": [
     637632,
     6313057,
+    6800034,
     6851744,
-    7516610,
     7510852,
+    7516610,
     6848294,
     7867175,
     6849480,
@@ -14015,6 +14018,7 @@
     2431409
    ],
    "children": [
+    12823048,
     7955932,
     7942324,
     7955934
@@ -15291,6 +15295,7 @@
     10171736,
     8411993,
     3207515,
+    8174311,
     4329451,
     4329455,
     5760239
@@ -18785,6 +18790,7 @@
   "1657821": {
    "name": "Sorbische_Sprache",
    "parents": [
+    12831825,
     11760485
    ],
    "children": [
@@ -19593,13 +19599,15 @@
    "children": [
     11013344,
     5259297,
+    12828288,
     8956995,
     8957004,
     11198764,
     11013262,
+    9405777,
     12374066,
-    10961558,
-    6064278
+    6064278,
+    10961558
    ]
   },
   "954819": {
@@ -20238,6 +20246,7 @@
     12064192,
     11982437,
     11932199,
+    12830791,
     9672073,
     6290219,
     5783796,
@@ -21236,6 +21245,7 @@
    "children": [
     1771585,
     2096609,
+    12830499,
     4614406,
     3711079,
     6845638,
@@ -22107,7 +22117,6 @@
     3428952,
     8950285,
     9604029,
-    6406896,
     9611135,
     7916468,
     12661332,
@@ -22988,10 +22997,8 @@
     11074517,
     2349278,
     2310751,
-    10482285,
     11437938,
     2654068,
-    5392503,
     4449913
    ]
   },
@@ -23209,7 +23216,8 @@
     499732
    ],
    "children": [
-    5853216
+    5853216,
+    12830791
    ]
   },
   "520671": {
@@ -31004,10 +31012,27 @@
     7399890
    ]
   },
+  "6800034": {
+   "name": "Ehemalige_Verwaltungseinheit_(Nordrhein-Westfalen)",
+   "parents": [
+    5922204
+   ],
+   "children": [
+    5922213,
+    5593702,
+    772070,
+    12144902,
+    7417897,
+    3486955,
+    4884366,
+    10293980
+   ]
+  },
   "772070": {
    "name": "Ehemaliger_Landkreis_in_Nordrhein-Westfalen",
    "parents": [
-    3555966
+    3555966,
+    6800034
    ],
    "children": []
   },
@@ -32573,11 +32598,10 @@
     1734177
    ],
    "children": [
-    1538917,
     9702505,
-    6406896,
-    5534423,
-    7007515
+    7007515,
+    1538917,
+    5534423
    ]
   },
   "1734177": {
@@ -34342,7 +34366,8 @@
   "11554537": {
    "name": "Sprachpolitik_(Deutschland)",
    "parents": [
-    702916
+    702916,
+    12831825
    ],
    "children": [
     898939,
@@ -35429,18 +35454,6 @@
     4062445
    ]
   },
-  "933476": {
-   "name": "Skandinavistik",
-   "parents": [
-    938201
-   ],
-   "children": [
-    934776,
-    12503568,
-    1649690,
-    7045320
-   ]
-  },
   "933696": {
    "name": "Druckerzeugnis",
    "parents": [
@@ -35469,8 +35482,7 @@
   "934776": {
    "name": "Skandinavist",
    "parents": [
-    273164,
-    933476
+    273164
    ],
    "children": [
     6132240,
@@ -37623,7 +37635,8 @@
   "2232797": {
    "name": "Mitteldeutscher_Dialekt",
    "parents": [
-    1033732
+    1033732,
+    12831825
    ],
    "children": [
     2233113,
@@ -37692,6 +37705,7 @@
     236153
    ],
    "children": [
+    12830499,
     5050418,
     6724843,
     12518526
@@ -44704,6 +44718,7 @@
     5395073
    ],
    "children": [
+    12827011,
     1650821,
     11221898,
     1398540,
@@ -44733,7 +44748,6 @@
    "children": [
     4765079,
     6581604,
-    12611765,
     4619943
    ]
   },
@@ -47753,6 +47767,7 @@
    "children": [
     5605760,
     4063489,
+    12832256,
     4034313,
     2383627,
     8068496,
@@ -47761,6 +47776,7 @@
     5405599,
     9138343,
     12816809,
+    12826793,
     5258033,
     4063414,
     4063415,
@@ -47969,9 +47985,31 @@
    "name": "Sprache_in_Thüringen",
    "parents": [
     1033732,
+    12831825,
     4403707
    ],
    "children": []
+  },
+  "12831825": {
+   "name": "Sprache_(Deutschland)",
+   "parents": [
+    4403707
+   ],
+   "children": [
+    11554537,
+    1641610,
+    12638251,
+    2450092,
+    12831977,
+    11226031,
+    1657821,
+    3729618,
+    4288050,
+    1922198,
+    4288060,
+    2232797,
+    9953503
+   ]
   },
   "4403707": {
    "name": "Sprachsituation_einzelner_Gebiete",
@@ -47980,10 +48018,15 @@
     289137
    ],
    "children": [
+    12828580,
     2700072,
-    1641610,
     8055400,
-    2991822
+    1641610,
+    12827753,
+    2991822,
+    12832206,
+    12825424,
+    12831825
    ]
   },
   "9672073": {
@@ -48077,13 +48120,6 @@
    "parents": [
     1871140,
     1863511
-   ],
-   "children": []
-  },
-  "1649690": {
-   "name": "Skandinavische_Literatur",
-   "parents": [
-    933476
    ],
    "children": []
   },
@@ -52139,7 +52175,7 @@
    ]
   },
   "1848691": {
-   "name": "Raumfahrtkatastrophe",
+   "name": "Raumfahrtunfall",
    "parents": [
     10225740
    ],
@@ -52986,8 +53022,7 @@
   "8535555": {
    "name": "Drogen_und_Gesundheit",
    "parents": [
-    240456,
-    8011471
+    240456
    ],
    "children": [
     7975464,
@@ -53573,6 +53608,13 @@
    "name": "Second_Messenger",
    "parents": [
     493698
+   ],
+   "children": []
+  },
+  "1922198": {
+   "name": "Unwort_des_Jahres_(Deutschland)",
+   "parents": [
+    12831825
    ],
    "children": []
   },
@@ -55145,19 +55187,6 @@
     1712446
    ],
    "children": []
-  },
-  "8011471": {
-   "name": "Drogen",
-   "parents": [
-    595902
-   ],
-   "children": [
-    8535555,
-    6674469,
-    8606280,
-    9479370,
-    6689435
-   ]
   },
   "2085632": {
    "name": "Stipendium",
@@ -58833,6 +58862,7 @@
     8254182,
     11567686,
     11567592,
+    5777901,
     6011278,
     11567700,
     8278327,
@@ -58959,7 +58989,9 @@
    "parents": [
     269450
    ],
-   "children": []
+   "children": [
+    7758697
+   ]
   },
   "2389095": {
    "name": "Internetüberwachung",
@@ -59548,6 +59580,13 @@
    "name": "Biermarke_(Deutschland)",
    "parents": [
     6227736
+   ],
+   "children": []
+  },
+  "2450092": {
+   "name": "Niederdeutsch_(Mecklenburg-Vorpommern)",
+   "parents": [
+    12831825
    ],
    "children": []
   },
@@ -65018,10 +65057,8 @@
     5602309
    ],
    "children": [
-    7315172,
     7315141,
     7134375,
-    7315176,
     7315148,
     7134381,
     7134297
@@ -65886,6 +65923,20 @@
     11992530,
     7314403,
     3054837
+   ]
+  },
+  "5777901": {
+   "name": "Forschungseinrichtung",
+   "parents": [
+    248384,
+    5386820
+   ],
+   "children": [
+    7314403,
+    11513834,
+    7390861,
+    6381275,
+    7917759
    ]
   },
   "3054905": {
@@ -67421,6 +67472,24 @@
    ],
    "children": []
   },
+  "11513834": {
+   "name": "Forschungseinrichtung_in_den_Vereinigten_Staaten",
+   "parents": [
+    5777901
+   ],
+   "children": [
+    3211118
+   ]
+  },
+  "3211118": {
+   "name": "Forschungsinstitut_in_den_Vereinigten_Staaten",
+   "parents": [
+    11513834
+   ],
+   "children": [
+    6125604
+   ]
+  },
   "3213782": {
    "name": "Amora",
    "parents": [
@@ -67823,9 +67892,10 @@
     11238489
    ],
    "children": [
-    6251400,
     9396773,
+    6251400,
     10335660,
+    11358042,
     5849405
    ]
   },
@@ -69253,6 +69323,7 @@
     8272648,
     8984330,
     8175349,
+    12558238,
     3393567
    ]
   },
@@ -69462,7 +69533,8 @@
    "parents": [
     3542457,
     3564059,
-    7114912
+    7114912,
+    12347989
    ],
    "children": []
   },
@@ -69484,6 +69556,16 @@
    "children": [
     3407085,
     10405439
+   ]
+  },
+  "12347989": {
+   "name": "Deutsche_Sprache_in_Österreich",
+   "parents": [
+    12832206
+   ],
+   "children": [
+    3407085,
+    12699519
    ]
   },
   "3407180": {
@@ -69515,7 +69597,8 @@
   "7917759": {
    "name": "Ehemalige_Forschungseinrichtung",
    "parents": [
-    441843
+    441843,
+    5777901
    ],
    "children": [
     3407203
@@ -70476,7 +70559,8 @@
   "3486955": {
    "name": "Ehemaliges_Amt_in_Nordrhein-Westfalen",
    "parents": [
-    3555966
+    3555966,
+    6800034
    ],
    "children": []
   },
@@ -70608,9 +70692,10 @@
    ],
    "children": [
     3504768,
-    10707931,
+    7656357,
     3504756,
-    3504949
+    3504949,
+    10707931
    ]
   },
   "3504768": {
@@ -70998,7 +71083,6 @@
    ],
    "children": [
     6334121,
-    6171061,
     6334135
    ]
   },
@@ -73356,6 +73440,13 @@
    "name": "Flagge_(China)",
    "parents": [
     3921411
+   ],
+   "children": []
+  },
+  "3729618": {
+   "name": "Musik_(Niederdeutsch)",
+   "parents": [
+    12831825
    ],
    "children": []
   },
@@ -76218,6 +76309,7 @@
     7069699,
     6432774,
     6256138,
+    6752779,
     6256150,
     7897117,
     5961247,
@@ -76283,6 +76375,7 @@
     10657499,
     6749410,
     5962985,
+    6750962,
     6431987,
     5377780,
     5965048,
@@ -76299,6 +76392,8 @@
     5964058,
     6704411,
     6430500,
+    6753063,
+    6751019,
     6478124,
     6430509,
     6478126,
@@ -77939,8 +78034,7 @@
   "8535573": {
    "name": "Drogenkonsum",
    "parents": [
-    1055043,
-    9479370
+    1055043
    ],
    "children": [
     4186404,
@@ -79188,6 +79282,7 @@
   "4288050": {
    "name": "Dialektsänger_(Kölsch)",
    "parents": [
+    12831825,
     4234943
    ],
    "children": []
@@ -79195,6 +79290,7 @@
   "4288060": {
    "name": "Dialektsänger_(Bairisch)",
    "parents": [
+    12831825,
     3564059,
     4234943
    ],
@@ -80486,22 +80582,25 @@
     8348405
    ],
    "children": [
-    10829729,
-    6776100,
     10231942,
-    8495590,
-    10231976,
-    8003177,
     10928779,
-    10725164,
     10003216,
-    12089841,
-    12801233,
     10940820,
     12653974,
-    10928508,
+    10829729,
+    6776100,
+    10231976,
+    10725164,
+    12827565,
+    11697853,
+    12801233,
     10897885,
-    10706527
+    10706527,
+    8495590,
+    8003177,
+    12825962,
+    12089841,
+    10928508
    ]
   },
   "6791369": {
@@ -83875,9 +83974,22 @@
   "4632934": {
    "name": "Umweltzeichen",
    "parents": [
-    1003626
+    1003626,
+    12830499
    ],
    "children": []
+  },
+  "12830499": {
+   "name": "Nachhaltigkeitspreis",
+   "parents": [
+    740443,
+    1026569
+   ],
+   "children": [
+    12743897,
+    12156226,
+    4632934
+   ]
   },
   "4632986": {
    "name": "Stress",
@@ -86870,6 +86982,15 @@
     416746
    ],
    "children": []
+  },
+  "4884366": {
+   "name": "Ehemaliges_Verwaltungsgebiet_(Rhein-Sieg-Kreis)",
+   "parents": [
+    6800034
+   ],
+   "children": [
+    5856693
+   ]
   },
   "4884520": {
    "name": "Fluchthelfer_(deutsche_Teilung)",
@@ -93472,13 +93593,6 @@
    ],
    "children": []
   },
-  "5392503": {
-   "name": "Gouverneur_(Mauritius)",
-   "parents": [
-    514550
-   ],
-   "children": []
-  },
   "5394052": {
    "name": "Militärische_Operation_des_Deutsch-Sowjetischen_Krieges",
    "parents": [
@@ -97787,6 +97901,13 @@
     8458319
    ]
   },
+  "5593702": {
+   "name": "Ehemalige_kreisfreie_Stadt_in_Nordrhein-Westfalen",
+   "parents": [
+    6800034
+   ],
+   "children": []
+  },
   "5594001": {
    "name": "Modedesigner_(19._Jahrhundert)",
    "parents": [
@@ -99132,6 +99253,22 @@
     6268307
    ]
   },
+  "5658184": {
+   "name": "Ehemalige_Gemeinde_(Kreis_Düren)",
+   "parents": [
+    5922213
+   ],
+   "children": []
+  },
+  "5922213": {
+   "name": "Ehemalige_Verwaltungseinheit_(Kreis_Düren)",
+   "parents": [
+    6800034
+   ],
+   "children": [
+    5658184
+   ]
+  },
   "5659144": {
    "name": "Klangsynthese",
    "parents": [
@@ -100224,10 +100361,22 @@
    ],
    "children": []
   },
+  "11358042": {
+   "name": "Aktion_T4",
+   "parents": [
+    3241015
+   ],
+   "children": [
+    11353368,
+    5705737,
+    7276100
+   ]
+  },
   "5705737": {
    "name": "Person_(Aktion_T4)",
    "parents": [
-    5705637
+    5705637,
+    11358042
    ],
    "children": [
     6305959
@@ -103000,6 +103149,45 @@
    ],
    "children": []
   },
+  "5856693": {
+   "name": "Ehemalige_Gemeinde_(Rhein-Sieg-Kreis)",
+   "parents": [
+    4884366
+   ],
+   "children": []
+  },
+  "5856732": {
+   "name": "Ehemalige_Gemeinde_(Köln)",
+   "parents": [
+    7417897
+   ],
+   "children": []
+  },
+  "7417897": {
+   "name": "Ehemalige_Verwaltungseinheit_(Köln)",
+   "parents": [
+    6800034
+   ],
+   "children": [
+    5856732
+   ]
+  },
+  "5856751": {
+   "name": "Ehemalige_Gemeinde_(Wuppertal)",
+   "parents": [
+    10293980
+   ],
+   "children": []
+  },
+  "10293980": {
+   "name": "Ehemalige_Verwaltungseinheit_(Wuppertal)",
+   "parents": [
+    6800034
+   ],
+   "children": [
+    5856751
+   ]
+  },
   "5858350": {
    "name": "Betriebssport",
    "parents": [
@@ -104638,6 +104826,24 @@
    ],
    "children": []
   },
+  "5954854": {
+   "name": "Langues_d’oïl",
+   "parents": [
+    12828580
+   ],
+   "children": []
+  },
+  "12828580": {
+   "name": "Sprache_(Frankreich)",
+   "parents": [
+    4403707
+   ],
+   "children": [
+    8898754,
+    9959070,
+    5954854
+   ]
+  },
   "5955038": {
    "name": "Antarktis-Expedition",
    "parents": [
@@ -104712,6 +104918,7 @@
     6270102,
     6600470,
     6638614,
+    6985338,
     6971546,
     6593312,
     6810528,
@@ -106903,6 +107110,13 @@
    ],
    "children": []
   },
+  "6125604": {
+   "name": "Forschungseinrichtung_in_Kalifornien",
+   "parents": [
+    3211118
+   ],
+   "children": []
+  },
   "6126300": {
    "name": "Häftling_im_KZ_Esterwegen",
    "parents": [
@@ -107279,7 +107493,6 @@
   "6171061": {
    "name": "Anti-Atomkraft-Organisation",
    "parents": [
-    3559588,
     3992074,
     5589524
    ],
@@ -110221,6 +110434,13 @@
    ],
    "children": []
   },
+  "6381275": {
+   "name": "Exzellenzcluster",
+   "parents": [
+    5777901
+   ],
+   "children": []
+  },
   "6381937": {
    "name": "Vertreibung_von_Deutschen_(20._Jahrhundert)",
    "parents": [
@@ -111040,23 +111260,10 @@
    ],
    "children": []
   },
-  "6406896": {
-   "name": "Dienststellung_(Wehrmacht)",
-   "parents": [
-    492680,
-    838011
-   ],
-   "children": [
-    6662376,
-    11098532,
-    6406895
-   ]
-  },
   "6406895": {
    "name": "Dienststellung_der_Luftwaffe_(Wehrmacht)",
    "parents": [
-    1392872,
-    6406896
+    1392872
    ],
    "children": []
   },
@@ -115092,7 +115299,8 @@
   "12638251": {
    "name": "Schreiben_(Deutschland)",
    "parents": [
-    739087
+    739087,
+    12831825
    ],
    "children": [
     10647563,
@@ -115114,10 +115322,20 @@
    ],
    "children": []
   },
+  "12833643": {
+   "name": "Bildungspolitische_Organisation_(Deutschland)",
+   "parents": [
+    4270702
+   ],
+   "children": [
+    6616157
+   ]
+  },
   "6616157": {
    "name": "Politische_Studentenorganisation_(Deutschland)",
    "parents": [
-    7359794
+    7359794,
+    12833643
    ],
    "children": []
   },
@@ -115670,9 +115888,20 @@
   "6650381": {
    "name": "Mariä-Himmelfahrt-Kirche",
    "parents": [
-    1398540
+    1398540,
+    12827011
    ],
    "children": []
+  },
+  "12827011": {
+   "name": "Mariä_Himmelfahrt",
+   "parents": [
+    1650847,
+    8890806
+   ],
+   "children": [
+    6650381
+   ]
   },
   "6650437": {
    "name": "Umschrift",
@@ -115991,8 +116220,7 @@
   "6662376": {
    "name": "Dienststellung_der_Kriegsmarine",
    "parents": [
-    1393048,
-    6406896
+    1393048
    ],
    "children": []
   },
@@ -116366,13 +116594,6 @@
     7380966,
     6689350
    ]
-  },
-  "6689435": {
-   "name": "Entheogen",
-   "parents": [
-    8011471
-   ],
-   "children": []
   },
   "6689458": {
    "name": "Studio_für_elektronische_Musik",
@@ -117852,6 +118073,20 @@
    ],
    "children": []
   },
+  "6750962": {
+   "name": "Deutscher_Botschafter_in_Katar",
+   "parents": [
+    4031837
+   ],
+   "children": []
+  },
+  "6751019": {
+   "name": "Deutscher_Botschafter_in_der_Mongolei",
+   "parents": [
+    4031837
+   ],
+   "children": []
+  },
   "6751032": {
    "name": "Deutscher_Botschafter_in_Nepal",
    "parents": [
@@ -117920,6 +118155,13 @@
    ],
    "children": []
   },
+  "6752779": {
+   "name": "Deutscher_Botschafter_in_Gabun",
+   "parents": [
+    4031837
+   ],
+   "children": []
+  },
   "6752956": {
    "name": "Deutscher_Botschafter_in_der_Demokratischen_Republik_Kongo",
    "parents": [
@@ -117936,6 +118178,13 @@
   },
   "6752980": {
    "name": "Deutscher_Botschafter_in_der_Republik_Kongo",
+   "parents": [
+    4031837
+   ],
+   "children": []
+  },
+  "6753063": {
+   "name": "Deutscher_Botschafter_in_Malawi",
    "parents": [
     4031837
    ],
@@ -120003,6 +120252,7 @@
     8775520
    ],
    "children": [
+    12827011,
     6898093
    ]
   },
@@ -121082,6 +121332,13 @@
    ],
    "children": []
   },
+  "6985338": {
+   "name": "Ehrendoktor_der_Philosophisch-Theologischen_Hochschule_Vallendar",
+   "parents": [
+    6964495
+   ],
+   "children": []
+  },
   "7404182": {
    "name": "Flüchtlingssiedlung",
    "parents": [
@@ -121579,15 +121836,6 @@
     684918
    ],
    "children": []
-  },
-  "7045320": {
-   "name": "Samische_Studien",
-   "parents": [
-    933476
-   ],
-   "children": [
-    11729526
-   ]
   },
   "7048997": {
    "name": "Vizepräsident_(Bolivien)",
@@ -123203,7 +123451,8 @@
    "name": "Tötungsanstalt",
    "parents": [
     5570644,
-    11238489
+    11238489,
+    11358042
    ],
    "children": []
   },
@@ -123737,7 +123986,8 @@
   "7314403": {
    "name": "Ressortforschungseinrichtung",
    "parents": [
-    11580050
+    11580050,
+    5777901
    ],
    "children": []
   },
@@ -123768,20 +124018,6 @@
   },
   "7315148": {
    "name": "NUTS-3-Ebene",
-   "parents": [
-    2995934
-   ],
-   "children": []
-  },
-  "7315172": {
-   "name": "LAU-2-Ebene",
-   "parents": [
-    2995934
-   ],
-   "children": []
-  },
-  "7315176": {
-   "name": "LAU-1-Ebene",
    "parents": [
     2995934
    ],
@@ -124805,9 +125041,7 @@
    "parents": [
     241409
    ],
-   "children": [
-    11013419
-   ]
+   "children": []
   },
   "7387030": {
    "name": "Hall_of_Fame_(Musik)",
@@ -124866,6 +125100,13 @@
    "name": "Liste_(Abgeordnete_zum_Bundesrat,_Österreich)",
    "parents": [
     7157005
+   ],
+   "children": []
+  },
+  "7390861": {
+   "name": "Laboratorium",
+   "parents": [
+    5777901
    ],
    "children": []
   },
@@ -125178,6 +125419,7 @@
    ],
    "children": [
     7413392,
+    7758697,
     7758589,
     7758990
    ]
@@ -127007,6 +127249,13 @@
    "name": "Papierrohstoff",
    "parents": [
     7582803
+   ],
+   "children": []
+  },
+  "12827753": {
+   "name": "Sprache_(Belgien)",
+   "parents": [
+    4403707
    ],
    "children": []
   },
@@ -129050,6 +129299,13 @@
    ],
    "children": []
   },
+  "7656357": {
+   "name": "Heinrich-Heine-Denkmal",
+   "parents": [
+    7701635
+   ],
+   "children": []
+  },
   "7657692": {
    "name": "Liste_(Kunstwerke_im_öffentlichen_Raum_in_Linz)",
    "parents": [
@@ -130845,6 +131101,14 @@
   "7758589": {
    "name": "Premierminister_(Abchasien)",
    "parents": [
+    7758607
+   ],
+   "children": []
+  },
+  "7758697": {
+   "name": "Amtierender_Regierungschef_eines_nicht_allgemein_anerkannten_Staates",
+   "parents": [
+    2388705,
     7758607
    ],
    "children": []
@@ -135610,6 +135874,15 @@
    ],
    "children": []
   },
+  "12825424": {
+   "name": "Sprache_(Schweiz)",
+   "parents": [
+    4403707
+   ],
+   "children": [
+    12347967
+   ]
+  },
   "8882478": {
    "name": "Holzmerkmal",
    "parents": [
@@ -137183,6 +137456,13 @@
    "children": [
     8259986
    ]
+  },
+  "8174311": {
+   "name": "Eyalet_(Osmanisches_Reich)",
+   "parents": [
+    4262313
+   ],
+   "children": []
   },
   "8175267": {
    "name": "Literaturwissenschaftliche_Organisation",
@@ -138826,7 +139106,9 @@
    "parents": [
     382016
    ],
-   "children": []
+   "children": [
+    12831977
+   ]
   },
   "8309932": {
    "name": "Regierungspräsident_(Kassel,_Preußen)",
@@ -141154,9 +141436,19 @@
   "8482314": {
    "name": "Schweizerdeutsch",
    "parents": [
-    3542457
+    3542457,
+    12347967
    ],
    "children": []
+  },
+  "12347967": {
+   "name": "Deutsche_Sprache_in_der_Schweiz",
+   "parents": [
+    12825424
+   ],
+   "children": [
+    8482314
+   ]
   },
   "8482695": {
    "name": "Präfix_(Chemie)",
@@ -142032,16 +142324,6 @@
     6702503
    ],
    "children": []
-  },
-  "9479370": {
-   "name": "Drogenkultur",
-   "parents": [
-    8011471
-   ],
-   "children": [
-    8535573,
-    9176631
-   ]
   },
   "8535937": {
    "name": "Unternehmensart_(Landwirtschaft)",
@@ -144666,6 +144948,22 @@
    ],
    "children": []
   },
+  "8844753": {
+   "name": "Liste_(Brauereien)",
+   "parents": [
+    11529478
+   ],
+   "children": []
+  },
+  "11529478": {
+   "name": "Liste_(Lebensmittelhersteller)",
+   "parents": [
+    11529450
+   ],
+   "children": [
+    8844753
+   ]
+  },
   "8844971": {
    "name": "Mathematikbibliothek",
    "parents": [
@@ -145410,7 +145708,8 @@
   "8898754": {
    "name": "Französische_Gebärdensprachen",
    "parents": [
-    346538
+    346538,
+    12828580
    ],
    "children": []
   },
@@ -145985,6 +146284,7 @@
    "children": [
     8962816,
     8962754,
+    8961602,
     12383141,
     8962854,
     9350471,
@@ -146409,6 +146709,22 @@
    "name": "Teilnehmer_an_Freuds_Mittwoch-Gesellschaft",
    "parents": [
     273116
+   ],
+   "children": []
+  },
+  "8961602": {
+   "name": "Werk_über_Napoleon_Bonaparte",
+   "parents": [
+    10288895
+   ],
+   "children": [
+    8961607
+   ]
+  },
+  "8961607": {
+   "name": "Film_über_Napoleon_Bonaparte",
+   "parents": [
+    8961602
    ],
    "children": []
   },
@@ -148639,8 +148955,7 @@
    "name": "Stoner-Movie",
    "parents": [
     815668,
-    4186404,
-    9479370
+    4186404
    ],
    "children": []
   },
@@ -150158,6 +150473,13 @@
    "name": "Soziologische_Rollentheorie",
    "parents": [
     1054997
+   ],
+   "children": []
+  },
+  "9405777": {
+   "name": "Kyrillische_Inschrift",
+   "parents": [
+    432292
    ],
    "children": []
   },
@@ -152773,6 +153095,13 @@
    ],
    "children": []
   },
+  "9637678": {
+   "name": "Arbeitsrechtler",
+   "parents": [
+    235969
+   ],
+   "children": []
+  },
   "9638026": {
    "name": "Krankenhausleiter",
    "parents": [
@@ -154100,6 +154429,7 @@
     10035272,
     9930346,
     10035273,
+    9930413,
     10035085,
     10019408,
     10009012,
@@ -155634,6 +155964,13 @@
    ],
    "children": []
   },
+  "9930413": {
+   "name": "Herrendoppel_(Rollstuhl)_bei_den_French_Open",
+   "parents": [
+    12601148
+   ],
+   "children": []
+  },
   "9931298": {
    "name": "Religiöses_Fest_(Altes_Ägypten)",
    "parents": [
@@ -155795,6 +156132,15 @@
    ],
    "children": []
   },
+  "9953503": {
+   "name": "Goethe-Institut",
+   "parents": [
+    12831825
+   ],
+   "children": [
+    10533443
+   ]
+  },
   "9954339": {
    "name": "Auszeichnung_der_Association_for_Computing_Machinery",
    "parents": [
@@ -155834,7 +156180,8 @@
   "9959070": {
    "name": "Organisation_(französische_Sprache)",
    "parents": [
-    6875857
+    6875857,
+    12828580
    ],
    "children": []
   },
@@ -160649,13 +160996,6 @@
    ],
    "children": []
   },
-  "10482285": {
-   "name": "Gouverneur_(Trinidad)",
-   "parents": [
-    514550
-   ],
-   "children": []
-  },
   "10482911": {
    "name": "Geburtsstörung",
    "parents": [
@@ -161108,6 +161448,13 @@
    ],
    "children": []
   },
+  "10533443": {
+   "name": "Person_(Goethe-Institut)",
+   "parents": [
+    9953503
+   ],
+   "children": []
+  },
   "10536852": {
    "name": "Politpunk",
    "parents": [
@@ -161195,7 +161542,8 @@
   "11226031": {
    "name": "Lesen_(Deutschland)",
    "parents": [
-    723885
+    723885,
+    12831825
    ],
    "children": [
     10550608
@@ -165238,13 +165586,6 @@
    ],
    "children": []
   },
-  "11013419": {
-   "name": "Nichtbinäre_Person",
-   "parents": [
-    7386910
-   ],
-   "children": []
-  },
   "11014418": {
    "name": "Öffentliches_Telefon",
    "parents": [
@@ -165822,13 +166163,6 @@
    ],
    "children": []
   },
-  "11098532": {
-   "name": "Dienststellung_des_Heeres_(Wehrmacht)",
-   "parents": [
-    6406896
-   ],
-   "children": []
-  },
   "11099797": {
    "name": "Walfangmuseum",
    "parents": [
@@ -165857,6 +166191,23 @@
    "parents": [
     2001599,
     7916468
+   ],
+   "children": []
+  },
+  "12832206": {
+   "name": "Sprache_(Österreich)",
+   "parents": [
+    4403707
+   ],
+   "children": [
+    11106035,
+    12347989
+   ]
+  },
+  "11106035": {
+   "name": "Unwort_des_Jahres_(Österreich)",
+   "parents": [
+    12832206
    ],
    "children": []
   },
@@ -168202,7 +168553,8 @@
   "11353368": {
    "name": "Gedenkort_der_Aktion_T4",
    "parents": [
-    6861411
+    6861411,
+    11358042
    ],
    "children": []
   },
@@ -169840,7 +170192,9 @@
     5485925,
     11529454
    ],
-   "children": []
+   "children": [
+    11529478
+   ]
   },
   "12125992": {
    "name": "Sportlerdarstellung_(Bildende_Kunst)",
@@ -170983,6 +171337,13 @@
    ],
    "children": []
   },
+  "11697853": {
+   "name": "Deutscher_Emigrant_in_Uruguay",
+   "parents": [
+    4382858
+   ],
+   "children": []
+  },
   "11699092": {
    "name": "Person_(Frankfurter_Zeitung)",
    "parents": [
@@ -171205,8 +171566,7 @@
   "11729526": {
    "name": "Forscher_des_Kildinsamischen",
    "parents": [
-    254694,
-    7045320
+    254694
    ],
    "children": []
   },
@@ -173779,6 +174139,13 @@
    ],
    "children": []
   },
+  "12144902": {
+   "name": "Ehemalige_Verwaltungseinheit_(Kreis_Höxter)",
+   "parents": [
+    6800034
+   ],
+   "children": []
+  },
   "12145461": {
    "name": "Militärische_Operation_im_Bosnienkrieg",
    "parents": [
@@ -173873,6 +174240,7 @@
   "12156226": {
    "name": "Baum_des_Jahres_(Deutschland)",
    "parents": [
+    12830499,
     12455436
    ],
    "children": []
@@ -176598,7 +176966,6 @@
   "12503568": {
    "name": "Skandinavistische_Publikation",
    "parents": [
-    933476,
     12503421
    ],
    "children": []
@@ -177108,6 +177475,22 @@
    ],
    "children": []
   },
+  "12558238": {
+   "name": "Insulare_Buchmalerei",
+   "parents": [
+    9452934
+   ],
+   "children": [
+    12558403
+   ]
+  },
+  "12558403": {
+   "name": "Angelsächsische_Buchmalerei",
+   "parents": [
+    12558238
+   ],
+   "children": []
+  },
   "12558501": {
    "name": "Historischer_Kulturraum",
    "parents": [
@@ -177490,13 +177873,6 @@
    "name": "Trainkaserne",
    "parents": [
     6496358
-   ],
-   "children": []
-  },
-  "12611765": {
-   "name": "Liebeslied",
-   "parents": [
-    1402349
    ],
    "children": []
   },
@@ -178071,6 +178447,13 @@
    ],
    "children": []
   },
+  "12699519": {
+   "name": "Österreichisches_Deutsch",
+   "parents": [
+    12347989
+   ],
+   "children": []
+  },
   "12700505": {
    "name": "Anison",
    "parents": [
@@ -178309,6 +178692,7 @@
   "12743897": {
    "name": "Faire_Schule",
    "parents": [
+    12830499,
     12455436
    ],
    "children": []
@@ -178835,6 +179219,79 @@
    "parents": [
     8993151,
     10892751
+   ],
+   "children": []
+  },
+  "12823048": {
+   "name": "Slowenistischer_Linguist",
+   "parents": [
+    309674
+   ],
+   "children": []
+  },
+  "12824113": {
+   "name": "Stadtgeschichtliches_Museum",
+   "parents": [
+    774404
+   ],
+   "children": []
+  },
+  "12825962": {
+   "name": "Deutscher_Emigrant_in_Dänemark",
+   "parents": [
+    4382858
+   ],
+   "children": []
+  },
+  "12826793": {
+   "name": "Britischer_Gouverneur_(Mauritius)",
+   "parents": [
+    5605077
+   ],
+   "children": []
+  },
+  "12827565": {
+   "name": "Deutscher_Emigrant_in_Österreich",
+   "parents": [
+    4382858
+   ],
+   "children": []
+  },
+  "12828288": {
+   "name": "Felsinschrift",
+   "parents": [
+    432292
+   ],
+   "children": []
+  },
+  "12830791": {
+   "name": "Parteiselbstschutz",
+   "parents": [
+    3230589,
+    457576,
+    5896294
+   ],
+   "children": []
+  },
+  "12831950": {
+   "name": "Datenserialisierungformat",
+   "parents": [
+    244017
+   ],
+   "children": []
+  },
+  "12831977": {
+   "name": "Sprachpreis_(Deutschland)",
+   "parents": [
+    12831825,
+    8309304
+   ],
+   "children": []
+  },
+  "12832256": {
+   "name": "Britischer_Gouverneur_(Trinidad)",
+   "parents": [
+    5605077
    ],
    "children": []
   },

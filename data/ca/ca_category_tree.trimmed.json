@@ -281,6 +281,7 @@
    ],
    "children": [
     1222154,
+    1060148,
     157070
    ]
   },
@@ -784,6 +785,16 @@
     2009380
    ]
   },
+  "12876": {
+   "name": "Informàtics",
+   "parents": [
+    13684
+   ],
+   "children": [
+    1309696,
+    1357193
+   ]
+  },
   "13684": {
    "name": "Informàtica",
    "parents": [
@@ -801,6 +812,7 @@
     742973,
     276032,
     742985,
+    12876,
     464205,
     33743,
     203473,
@@ -1105,6 +1117,7 @@
    "children": [
     171330,
     1993061,
+    2045705,
     1512844,
     111410,
     13171,
@@ -2915,11 +2928,10 @@
     165985
    ],
    "children": [
+    1045929,
     238594,
     885157,
-    16743,
-    1045929,
-    725358
+    16743
    ]
   },
   "16823": {
@@ -3401,16 +3413,6 @@
    ],
    "children": []
   },
-  "18961": {
-   "name": "Periodistes",
-   "parents": [
-    20140
-   ],
-   "children": [
-    1430137,
-    1474643
-   ]
-  },
   "20140": {
    "name": "Periodisme",
    "parents": [
@@ -3418,7 +3420,6 @@
     1954540
    ],
    "children": [
-    18961,
     1751133,
     757916,
     20141
@@ -4993,10 +4994,9 @@
     622030
    ],
    "children": [
+    1415722,
     1222243,
     635396,
-    148135,
-    1415722,
     1802411
    ]
   },
@@ -13409,29 +13409,13 @@
     1274937
    ]
   },
-  "148135": {
-   "name": "Feministes",
-   "parents": [
-    25167,
-    1755651
-   ],
-   "children": [
-    1390017,
-    1949614,
-    1959152,
-    1703474,
-    1949591
-   ]
-  },
   "1755651": {
    "name": "Defensors_dels_drets_de_la_dona",
    "parents": [
     1109279,
     1190598
    ],
-   "children": [
-    148135
-   ]
+   "children": []
   },
   "148440": {
    "name": "Prehistoriadors",
@@ -21391,7 +21375,6 @@
     28249
    ],
    "children": [
-    447555,
     1188028,
     1068038,
     1550319
@@ -23922,13 +23905,6 @@
    "name": "Guardonats_amb_la_Creu_Alemanya",
    "parents": [
     1052226
-   ],
-   "children": []
-  },
-  "447555": {
-   "name": "Activistes",
-   "parents": [
-    349363
    ],
    "children": []
   },
@@ -29778,17 +29754,6 @@
     1060548
    ]
   },
-  "725358": {
-   "name": "La_Caixa",
-   "parents": [
-    164326
-   ],
-   "children": [
-    1041618,
-    1042740,
-    2024018
-   ]
-  },
   "725385": {
    "name": "Psicoanalistes",
    "parents": [
@@ -30945,6 +30910,14 @@
     790849
    ]
   },
+  "800627": {
+   "name": "Estratègia_militar",
+   "parents": [
+    241414,
+    800626
+   ],
+   "children": []
+  },
   "790852": {
    "name": "Grups_guerrillers",
    "parents": [
@@ -31161,14 +31134,6 @@
   "800623": {
    "name": "Estratègia_en_escacs",
    "parents": [
-    800626
-   ],
-   "children": []
-  },
-  "800627": {
-   "name": "Estratègia_militar",
-   "parents": [
-    241414,
     800626
    ],
    "children": []
@@ -36075,13 +36040,6 @@
    ],
    "children": []
   },
-  "1041618": {
-   "name": "Becaris_de_la_Fundació_La_Caixa",
-   "parents": [
-    725358
-   ],
-   "children": []
-  },
   "1041620": {
    "name": "Estàndards_de_l'IEEE",
    "parents": [
@@ -36116,13 +36074,6 @@
     1617811,
     1151926
    ]
-  },
-  "1042740": {
-   "name": "Directius_de_La_Caixa",
-   "parents": [
-    725358
-   ],
-   "children": []
   },
   "1042756": {
    "name": "Pel·lícules_de_thriller_psicològic",
@@ -36568,6 +36519,13 @@
     1059531,
     1938005
    ]
+  },
+  "1060148": {
+   "name": "Banderes_de_municipis",
+   "parents": [
+    12456
+   ],
+   "children": []
   },
   "1061178": {
    "name": "Topògrafs",
@@ -40602,6 +40560,7 @@
   "1309696": {
    "name": "Furoners",
    "parents": [
+    12876,
     284399
    ],
    "children": []
@@ -41037,6 +40996,7 @@
   "1357193": {
    "name": "Programadors",
    "parents": [
+    12876,
     53072
    ],
    "children": [
@@ -41435,16 +41395,6 @@
    ],
    "children": []
   },
-  "1390017": {
-   "name": "Sufragistes",
-   "parents": [
-    148135
-   ],
-   "children": [
-    1603505,
-    1415910
-   ]
-  },
   "1390970": {
    "name": "Empresaris_del_sector_de_l'automòbil",
    "parents": [
@@ -41720,13 +41670,6 @@
    ],
    "children": []
   },
-  "1415910": {
-   "name": "Sufragistes_europeus",
-   "parents": [
-    1390017
-   ],
-   "children": []
-  },
   "1415932": {
    "name": "Història_de_la_dona",
    "parents": [
@@ -41869,7 +41812,6 @@
   "1430137": {
    "name": "Fundadors_de_periòdics",
    "parents": [
-    18961,
     20144
    ],
    "children": []
@@ -42266,13 +42208,6 @@
    "name": "Populisme",
    "parents": [
     1194810
-   ],
-   "children": []
-  },
-  "1474643": {
-   "name": "Periodistes_assassinats",
-   "parents": [
-    18961
    ],
    "children": []
   },
@@ -43762,22 +43697,6 @@
    "name": "Membres_de_la_Comissió_Executiva_Federal_del_Partit_Socialista_Obrer_Espanyol",
    "parents": [
     269789
-   ],
-   "children": []
-  },
-  "1603505": {
-   "name": "Sufragistes_americans",
-   "parents": [
-    1390017
-   ],
-   "children": [
-    1603509
-   ]
-  },
-  "1603509": {
-   "name": "Sufragistes_estatunidencs",
-   "parents": [
-    1603505
    ],
    "children": []
   },
@@ -45296,7 +45215,6 @@
   "1703474": {
    "name": "Feministes_marxistes",
    "parents": [
-    148135,
     173686
    ],
    "children": []
@@ -49030,15 +48948,6 @@
    ],
    "children": []
   },
-  "1949614": {
-   "name": "Anarcofeministes",
-   "parents": [
-    148135
-   ],
-   "children": [
-    1949629
-   ]
-  },
   "1940505": {
    "name": "Aquaris",
    "parents": [
@@ -49139,21 +49048,13 @@
    ],
    "children": []
   },
-  "1949591": {
-   "name": "Feministes_contra_la_pornografia",
-   "parents": [
-    148135
-   ],
-   "children": []
-  },
   "1949629": {
    "name": "Mujeres_Libres",
    "parents": [
     157394,
     682655,
     635396,
-    1415513,
-    1949614
+    1415513
    ],
    "children": []
   },
@@ -49292,13 +49193,6 @@
    "name": "Anime_i_manga_yaoi",
    "parents": [
     684475
-   ],
-   "children": []
-  },
-  "1959152": {
-   "name": "Ecofeministes",
-   "parents": [
-    148135
    ],
    "children": []
   },
@@ -50121,13 +50015,6 @@
    ],
    "children": []
   },
-  "2024018": {
-   "name": "Edificis_de_La_Caixa",
-   "parents": [
-    725358
-   ],
-   "children": []
-  },
   "2025029": {
    "name": "Regidors_de_l'Ajuntament_de_Barcelona_de_la_corporació_2023-2027",
    "parents": [
@@ -50365,6 +50252,13 @@
    "name": "Traductors_mexicans",
    "parents": [
     1203436
+   ],
+   "children": []
+  },
+  "2045705": {
+   "name": "Artistes_d'efectes_especials",
+   "parents": [
+    1173285
    ],
    "children": []
   },

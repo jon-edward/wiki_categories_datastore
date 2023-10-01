@@ -3936,6 +3936,7 @@
     26118,
     309132,
     241006,
+    1939792,
     1886679,
     265209
    ]
@@ -6254,7 +6255,8 @@
    ],
    "children": [
     137481,
-    1365356
+    1365356,
+    1705519
    ]
   },
   "50245": {
@@ -7227,6 +7229,7 @@
     769835,
     1437067,
     82487,
+    1788732,
     208798
    ]
   },
@@ -8772,6 +8775,7 @@
     166803,
     271891,
     1909140,
+    376599,
     1085085,
     181375,
     180001,
@@ -12868,6 +12872,7 @@
    ],
    "children": [
     99312,
+    1802753,
     973192
    ]
   },
@@ -17535,7 +17540,7 @@
    "children": []
   },
   "164297": {
-   "name": "LMBT_témájú_listák",
+   "name": "LMBT-témájú_listák",
    "parents": [
     57460,
     167099
@@ -24110,6 +24115,7 @@
     17838
    ],
    "children": [
+    647922,
     739299,
     840612
    ]
@@ -26615,6 +26621,13 @@
    "name": "Német_labdarúgókupa",
    "parents": [
     360291
+   ],
+   "children": []
+  },
+  "376599": {
+   "name": "Rhédey_család",
+   "parents": [
+    72396
    ],
    "children": []
   },
@@ -33614,7 +33627,9 @@
    "parents": [
     183785
    ],
-   "children": []
+   "children": [
+    1939431
+   ]
   },
   "606874": {
    "name": "Német_filmdrámák",
@@ -34607,6 +34622,13 @@
    "name": "Arab_nyelv",
    "parents": [
     74765
+   ],
+   "children": []
+  },
+  "647922": {
+   "name": "Párizs_utcái_és_terei",
+   "parents": [
+    311685
    ],
    "children": []
   },
@@ -37602,7 +37624,7 @@
    ]
   },
   "769835": {
-   "name": "LMBT_témájú_dalok",
+   "name": "LMBT-témájú_dalok",
    "parents": [
     57460
    ],
@@ -42204,9 +42226,10 @@
     900208
    ],
    "children": [
+    904617,
     902889,
-    904618,
     902890,
+    904618,
     902350,
     902899
    ]
@@ -42723,6 +42746,13 @@
    "name": "1570-ben_született_személyek",
    "parents": [
     902377
+   ],
+   "children": []
+  },
+  "904617": {
+   "name": "1569-ben_született_személyek",
+   "parents": [
+    902391
    ],
    "children": []
   },
@@ -50119,6 +50149,7 @@
     1523269,
     1630534,
     1630248,
+    1626794,
     1628698,
     1630397,
     1624702
@@ -51645,6 +51676,13 @@
    ],
    "children": []
   },
+  "1626794": {
+   "name": "Magyarország_követei_és_nagykövetei_Finnországban",
+   "parents": [
+    1626303
+   ],
+   "children": []
+  },
   "1627204": {
    "name": "Az_ELTE_rektorai",
    "parents": [
@@ -52985,6 +53023,13 @@
    "name": "BAFTA-díjjal_kapcsolatos_navigációs_sablonok",
    "parents": [
     60316
+   ],
+   "children": []
+  },
+  "1705519": {
+   "name": "Oscar-díjjal_kapcsolatos_navigációs_sablonok",
+   "parents": [
+    49935
    ],
    "children": []
   },
@@ -54367,6 +54412,13 @@
    ],
    "children": []
   },
+  "1788732": {
+   "name": "LMBT-kronológiák",
+   "parents": [
+    57460
+   ],
+   "children": []
+  },
   "1791790": {
    "name": "Rákban_elhunyt_személyek",
    "parents": [
@@ -54717,6 +54769,13 @@
    "parents": [
     134648,
     889772
+   ],
+   "children": []
+  },
+  "1802753": {
+   "name": "Televíziótársaságok_navigációs_sablonjai",
+   "parents": [
+    99318
    ],
    "children": []
   },
@@ -56473,6 +56532,20 @@
    "name": "Háborúellenes_filmek",
    "parents": [
     426450
+   ],
+   "children": []
+  },
+  "1939431": {
+   "name": "Magyar_romantikus_filmdrámák",
+   "parents": [
+    606855
+   ],
+   "children": []
+  },
+  "1939792": {
+   "name": "A_18._században_alapított_cégek",
+   "parents": [
+    78185
    ],
    "children": []
   },

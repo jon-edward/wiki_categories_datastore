@@ -2948,6 +2948,7 @@
     748921
    ],
    "children": [
+    8791136,
     8639641,
     8266327,
     1528953,
@@ -6331,6 +6332,7 @@
     612493
    ],
    "children": [
+    8425504,
     2791665,
     1509139,
     1510232,
@@ -10106,14 +10108,13 @@
     1380034,
     54759,
     1379727,
-    1235774,
     519217,
     404437,
     8472469,
     4913182,
     5073144,
     146651,
-    1235742
+    1235774
    ]
   },
   "1425360": {
@@ -10124,7 +10125,6 @@
    "children": [
     1425359,
     1425423,
-    1235742,
     54759
    ]
   },
@@ -10629,7 +10629,6 @@
     55015,
     56116,
     61558,
-    605975,
     8149174,
     167356,
     609278
@@ -11826,8 +11825,6 @@
    "children": [
     1486787,
     391755,
-    116779,
-    921644,
     321806,
     153775,
     414545
@@ -11941,10 +11938,11 @@
     56712
    ],
    "children": [
-    59386,
+    1144903,
     991053,
+    146810,
     55606,
-    1144903
+    59386
    ]
   },
   "146737": {
@@ -12008,6 +12006,7 @@
     55124
    ],
    "children": [
+    475938,
     7174531,
     753034,
     426734,
@@ -12727,7 +12726,6 @@
     86642,
     916660,
     8582453,
-    1489462,
     1167067,
     83070
    ]
@@ -15544,11 +15542,10 @@
     426759
    ],
    "children": [
-    576744,
     4907048,
+    5039358,
     59443,
-    1183862,
-    5039358
+    1183862
    ]
   },
   "426759": {
@@ -17507,9 +17504,10 @@
     531530
    ],
    "children": [
-    238225,
-    76668,
-    3934433
+    8788429,
+    3934433,
+    8788421,
+    8788440
    ]
   },
   "531530": {
@@ -18472,8 +18470,7 @@
    "children": [
     384265,
     297428,
-    72348,
-    869905
+    72348
    ]
   },
   "64823": {
@@ -19970,6 +19967,7 @@
     8616902,
     8616905,
     8617036,
+    8789454,
     8628815,
     3918674,
     8662994,
@@ -21983,8 +21981,7 @@
    ],
    "children": [
     3945979,
-    73941,
-    8675299
+    73941
    ]
   },
   "121942": {
@@ -22955,10 +22952,22 @@
     507165
    ]
   },
+  "3934433": {
+   "name": "Amerikanska_datorföretag",
+   "parents": [
+    62561
+   ],
+   "children": [
+    239312,
+    1210955,
+    76668,
+    196237
+   ]
+  },
   "76668": {
    "name": "Atari",
    "parents": [
-    62561
+    3934433
    ],
    "children": [
     565480,
@@ -24082,6 +24091,7 @@
   "146810": {
    "name": "Judiska_språk",
    "parents": [
+    78774,
     7597357
    ],
    "children": []
@@ -24932,6 +24942,7 @@
     8333356,
     998445,
     8333359,
+    8789043,
     8644152,
     8332345,
     222266,
@@ -25021,6 +25032,7 @@
     8580301,
     8645318,
     8692936,
+    6925520,
     6925521,
     8580308,
     7171800,
@@ -25046,6 +25058,7 @@
     8333079,
     8333080,
     8627478,
+    8789271,
     8662715,
     8612128,
     8620837,
@@ -25579,17 +25592,6 @@
     1598302
    ]
   },
-  "86017": {
-   "name": "Arabiskspråkiga_författare",
-   "parents": [
-    235232,
-    3965885
-   ],
-   "children": [
-    1389713,
-    4882220
-   ]
-  },
   "235232": {
    "name": "Arabiska",
    "parents": [
@@ -25605,6 +25607,17 @@
     1082261,
     3965885,
     8742142
+   ]
+  },
+  "86017": {
+   "name": "Arabiskspråkiga_författare",
+   "parents": [
+    235232,
+    3965885
+   ],
+   "children": [
+    1389713,
+    4882220
    ]
   },
   "3965885": {
@@ -27722,9 +27735,10 @@
    ],
    "children": [
     518433,
+    8781509,
+    4988326,
     268858,
-    407101,
-    4988326
+    407101
    ]
   },
   "119709": {
@@ -28053,8 +28067,7 @@
     8572296,
     1027466,
     167949,
-    910575,
-    8622296
+    910575
    ]
   },
   "375808": {
@@ -29065,16 +29078,16 @@
    "children": [
     4101770,
     1208725,
+    3968408,
     1527576,
     8013215,
     723235,
     343334,
     7179688,
-    117814,
     952379,
     1235132,
     545984,
-    2300108,
+    8789062,
     3493209,
     3932126,
     733153,
@@ -31161,13 +31174,6 @@
    ],
    "children": []
   },
-  "116779": {
-   "name": "Basketspelare",
-   "parents": [
-    55533
-   ],
-   "children": []
-  },
   "116786": {
    "name": "Semantik",
    "parents": [
@@ -31273,7 +31279,9 @@
    "parents": [
     50034
    ],
-   "children": []
+   "children": [
+    8789613
+   ]
   },
   "117269": {
    "name": "Bowling",
@@ -31467,26 +31475,13 @@
   "117814": {
    "name": "Koncentrationsläger",
    "parents": [
-    106244,
-    537141,
-    8013215
+    537141
    ],
    "children": [
     4871673,
     952379,
     2300108,
     8553918
-   ]
-  },
-  "8013215": {
-   "name": "Porajmos",
-   "parents": [
-    73983,
-    106244,
-    613286
-   ],
-   "children": [
-    117814
    ]
   },
   "133833": {
@@ -32916,6 +32911,7 @@
     121942
    ],
    "children": [
+    8675299,
     5037861,
     8145351,
     641427,
@@ -38880,24 +38876,6 @@
     199987
    ]
   },
-  "163440": {
-   "name": "Samiska_musiker",
-   "parents": [
-    1019201
-   ],
-   "children": [
-    704900
-   ]
-  },
-  "1019201": {
-   "name": "Samisk_musik",
-   "parents": [
-    754479
-   ],
-   "children": [
-    163440
-   ]
-  },
   "1026585": {
    "name": "Örlogsfartyg_efter_typ",
    "parents": [
@@ -39505,25 +39483,6 @@
     1502815
    ]
   },
-  "738040": {
-   "name": "Kultur_i_Kina",
-   "parents": [
-    55020
-   ],
-   "children": [
-    538977,
-    1067425,
-    1094183,
-    444360,
-    809356,
-    1885966,
-    1007346,
-    407253,
-    1400151,
-    561722,
-    1205980
-   ]
-  },
   "8317297": {
    "name": "Amerikanska_hamburgerrestauranger",
    "parents": [
@@ -40040,10 +39999,9 @@
     171381
    ],
    "children": [
-    858447,
     513713,
     7993078,
-    657207,
+    858447,
     400543
    ]
   },
@@ -40646,7 +40604,8 @@
    "children": [
     179344,
     186624,
-    179267
+    179267,
+    8528364
    ]
   },
   "179267": {
@@ -42617,12 +42576,12 @@
    "parents": [
     321268,
     62566,
+    3934433,
     3875095,
     1181486,
     787472,
     888089,
     4916341,
-    3934433,
     278215
    ],
    "children": [
@@ -42633,17 +42592,6 @@
     565520,
     565530,
     822908
-   ]
-  },
-  "3934433": {
-   "name": "Amerikanska_datorföretag",
-   "parents": [
-    62561
-   ],
-   "children": [
-    239312,
-    1210955,
-    196237
    ]
   },
   "278215": {
@@ -43089,7 +43037,8 @@
    "children": [
     1375776,
     8718610,
-    1597636
+    1597636,
+    8788590
    ]
   },
   "201464": {
@@ -45190,6 +45139,22 @@
    ],
    "children": []
   },
+  "218302": {
+   "name": "Sumobrottare",
+   "parents": [
+    8106302
+   ],
+   "children": []
+  },
+  "8106302": {
+   "name": "Sumo",
+   "parents": [
+    57859
+   ],
+   "children": [
+    218302
+   ]
+  },
   "597676": {
    "name": "Vetenskap_under_antiken",
    "parents": [
@@ -46578,12 +46543,12 @@
   "238225": {
    "name": "Siemens",
    "parents": [
-    62561,
     608928,
     278215,
     581385,
     616549,
     1176847,
+    8788421,
     8020669,
     486872
    ],
@@ -46605,6 +46570,15 @@
    "name": "Tyska_IT-företag",
    "parents": [
     531530
+   ],
+   "children": [
+    238225
+   ]
+  },
+  "8788421": {
+   "name": "Tyska_datorföretag",
+   "parents": [
+    62561
    ],
    "children": [
     238225
@@ -46864,8 +46838,8 @@
    "parents": [
     207134,
     76666,
-    1181486,
     3934433,
+    1181486,
     513595
    ],
    "children": [
@@ -48494,13 +48468,6 @@
    ],
    "children": []
   },
-  "1191813": {
-   "name": "Kultur_i_Kuba",
-   "parents": [
-    73540
-   ],
-   "children": []
-  },
   "253598": {
    "name": "Ortodox_kristendom",
    "parents": [
@@ -50088,7 +50055,8 @@
    ],
    "children": [
     586728,
-    273809
+    273809,
+    8789613
    ]
   },
   "273809": {
@@ -51577,10 +51545,11 @@
     426844
    ],
    "children": [
-    8685145,
     286756,
     8040685,
-    8042551
+    8042551,
+    8685145,
+    8791166
    ]
   },
   "286775": {
@@ -51993,7 +51962,6 @@
     4916527,
     8084150,
     8371651,
-    4915396,
     8735940,
     4917456,
     8506977,
@@ -58756,7 +58724,8 @@
    ],
    "children": [
     1204803,
-    1538268
+    1538268,
+    1504909
    ]
   },
   "368782": {
@@ -62413,7 +62382,6 @@
    "children": [
     611208,
     1411034,
-    1235742,
     1144775
    ]
   },
@@ -62883,6 +62851,25 @@
     1490212
    ],
    "children": []
+  },
+  "738040": {
+   "name": "Kultur_i_Kina",
+   "parents": [
+    55020
+   ],
+   "children": [
+    538977,
+    1067425,
+    1094183,
+    444360,
+    809356,
+    1885966,
+    1007346,
+    407253,
+    1400151,
+    561722,
+    1205980
+   ]
   },
   "1413993": {
    "name": "Kondenserade_materiens_fysik",
@@ -63374,17 +63361,6 @@
     1102131,
     414806,
     1232919
-   ]
-  },
-  "938865": {
-   "name": "Kultur_i_Sovjetunionen",
-   "parents": [
-    68183
-   ],
-   "children": [
-    1685789,
-    1036620,
-    1059805
    ]
   },
   "414830": {
@@ -67837,6 +67813,7 @@
   "475938": {
    "name": "Sport_i_Östtyskland",
    "parents": [
+    418493,
     605431
    ],
    "children": [
@@ -70507,8 +70484,7 @@
    "children": [
     6231169,
     1145802,
-    1110811,
-    534990
+    1110811
    ]
   },
   "505186": {
@@ -71130,7 +71106,8 @@
    ],
    "children": [
     743744,
-    510148
+    510148,
+    1109807
    ]
   },
   "513205": {
@@ -73154,6 +73131,22 @@
    ],
    "children": [
     891655
+   ]
+  },
+  "517528": {
+   "name": "Sportklättrare",
+   "parents": [
+    4967192
+   ],
+   "children": []
+  },
+  "4967192": {
+   "name": "Klättrare",
+   "parents": [
+    301659
+   ],
+   "children": [
+    517528
    ]
   },
   "1986617": {
@@ -75421,15 +75414,6 @@
     7171217
    ]
   },
-  "534990": {
-   "name": "Bågskyttar",
-   "parents": [
-    505180
-   ],
-   "children": [
-    3903003
-   ]
-  },
   "535002": {
    "name": "Ränta",
    "parents": [
@@ -76128,6 +76112,16 @@
     4994663
    ],
    "children": []
+  },
+  "938865": {
+   "name": "Kultur_i_Sovjetunionen",
+   "parents": [
+    68183
+   ],
+   "children": [
+    1685789,
+    1059805
+   ]
   },
   "543600": {
    "name": "Gator_i_Helsingfors",
@@ -78274,13 +78268,6 @@
     1791883
    ]
   },
-  "576744": {
-   "name": "Asiatiska_spelen",
-   "parents": [
-    1183628
-   ],
-   "children": []
-  },
   "576976": {
    "name": "Svenska_mångkampare",
    "parents": [
@@ -80098,15 +80085,6 @@
    "children": [
     1052560,
     8213791
-   ]
-  },
-  "605975": {
-   "name": "Spårvidder",
-   "parents": [
-    528408
-   ],
-   "children": [
-    2795172
    ]
   },
   "606020": {
@@ -84091,7 +84069,6 @@
   "657207": {
    "name": "Kurdiska_musiker",
    "parents": [
-    171380,
     657210
    ],
    "children": [
@@ -87417,8 +87394,7 @@
     1425360
    ],
    "children": [
-    1425885,
-    1235741
+    1425885
    ]
   },
   "1219545": {
@@ -88184,13 +88160,6 @@
    "name": "Marknadsföringsmetoder",
    "parents": [
     68394
-   ],
-   "children": []
-  },
-  "704900": {
-   "name": "Samiska_sångare",
-   "parents": [
-    163440
    ],
    "children": []
   },
@@ -91672,6 +91641,23 @@
    "parents": [
     51576,
     54856
+   ],
+   "children": []
+  },
+  "3911104": {
+   "name": "Norska_TV-personligheter",
+   "parents": [
+    920726
+   ],
+   "children": [
+    750930,
+    4967548
+   ]
+  },
+  "750930": {
+   "name": "Norska_TV-programledare",
+   "parents": [
+    3911104
    ],
    "children": []
   },
@@ -95965,6 +95951,7 @@
     3922311,
     1507723,
     1507724,
+    1504909,
     2481038,
     1506961,
     1509009,
@@ -96256,6 +96243,30 @@
     121385
    ],
    "children": []
+  },
+  "831201": {
+   "name": "Svenska_fortifikationsofficerare",
+   "parents": [
+    8781509
+   ],
+   "children": []
+  },
+  "8781509": {
+   "name": "Officerare_i_svenska_armén",
+   "parents": [
+    97052
+   ],
+   "children": [
+    831201,
+    8600856,
+    8600875,
+    8600878,
+    8787120,
+    8752564,
+    8600854,
+    1658680,
+    5069468
+   ]
   },
   "831520": {
    "name": "Historiska_församlingar_i_Visby_stift",
@@ -97088,6 +97099,7 @@
     8635924,
     8557590,
     8627478,
+    8789271,
     8590878,
     8623775,
     8332193,
@@ -97101,6 +97113,7 @@
     8331949,
     8630573,
     8699182,
+    8789043,
     8331958,
     8331961,
     848313,
@@ -98625,15 +98638,6 @@
    ],
    "children": []
   },
-  "1695635": {
-   "name": "Bordtennistävlingar",
-   "parents": [
-    62014
-   ],
-   "children": [
-    1695634
-   ]
-  },
   "3955696": {
    "name": "Brottningstävlingar",
    "parents": [
@@ -98736,7 +98740,7 @@
    ]
   },
   "869744": {
-   "name": "Sveriges_Riksbank",
+   "name": "Sveriges_riksbank",
    "parents": [
     65456,
     81382,
@@ -98839,18 +98843,6 @@
     8103958,
     8101788,
     8104055
-   ]
-  },
-  "869905": {
-   "name": "Simning_vid_olympiska_sommarspelen",
-   "parents": [
-    1033908
-   ],
-   "children": [
-    8368187,
-    6166386,
-    1476963,
-    1659811
    ]
   },
   "870398": {
@@ -102182,17 +102174,6 @@
     8572543
    ]
   },
-  "921644": {
-   "name": "Basket_vid_olympiska_sommarspelen",
-   "parents": [
-    55533
-   ],
-   "children": [
-    1550212,
-    1610374,
-    8367887
-   ]
-  },
   "921684": {
    "name": "Huset_Jagiello",
    "parents": [
@@ -105026,10 +105007,22 @@
    "parents": [
     99601,
     106244,
-    117814
+    117814,
+    8013215
    ],
    "children": [
     3978059
+   ]
+  },
+  "8013215": {
+   "name": "Porajmos",
+   "parents": [
+    73983,
+    106244,
+    613286
+   ],
+   "children": [
+    952379
    ]
   },
   "952510": {
@@ -110775,6 +110768,13 @@
    ],
    "children": []
   },
+  "1019201": {
+   "name": "Samisk_musik",
+   "parents": [
+    754479
+   ],
+   "children": []
+  },
   "1019339": {
    "name": "Olympiska_kommittéer",
    "parents": [
@@ -111565,7 +111565,9 @@
    "parents": [
     99597
    ],
-   "children": []
+   "children": [
+    8622296
+   ]
   },
   "1192564": {
    "name": "Svenska_iranister",
@@ -112056,6 +112058,7 @@
     5005413,
     8033643,
     4995897,
+    8791166,
     8666365,
     8697918
    ]
@@ -112189,13 +112192,6 @@
     2738278,
     1036479
    ]
-  },
-  "1036620": {
-   "name": "Sovjetiska_konstnärer",
-   "parents": [
-    938865
-   ],
-   "children": []
   },
   "1036622": {
    "name": "Indiankrigen",
@@ -112481,6 +112477,7 @@
     129827
    ],
    "children": [
+    8147224,
     1100865,
     1038428
    ]
@@ -114880,6 +114877,7 @@
     1168043,
     8309884,
     8529553,
+    1168286,
     1110389,
     1110266,
     1110268,
@@ -116028,8 +116026,9 @@
     1417041,
     1417042,
     1417043,
-    8548693,
+    1417045,
     1129942,
+    8548693,
     1417048,
     4956249,
     1417052,
@@ -117125,6 +117124,13 @@
     8530517,
     1231292
    ]
+  },
+  "1191813": {
+   "name": "Kultur_i_Kuba",
+   "parents": [
+    73540
+   ],
+   "children": []
   },
   "1094344": {
    "name": "Rakdon",
@@ -119686,6 +119692,28 @@
     7974960
    ],
    "children": []
+  },
+  "1109806": {
+   "name": "Medeltidskyrkor",
+   "parents": [
+    1109807
+   ],
+   "children": [
+    4862350,
+    6331439,
+    3926613,
+    6331447,
+    6332670
+   ]
+  },
+  "1109807": {
+   "name": "Medeltida_byggnader",
+   "parents": [
+    597515
+   ],
+   "children": [
+    1109806
+   ]
   },
   "1109864": {
    "name": "Renässansens_konst",
@@ -124606,6 +124634,16 @@
    ],
    "children": []
   },
+  "1168286": {
+   "name": "Sicilien_i_fiktion",
+   "parents": [
+    1064985
+   ],
+   "children": [
+    1208994,
+    1168452
+   ]
+  },
   "1168271": {
    "name": "USA:s_arbetsmarknadsministrar",
    "parents": [
@@ -124639,7 +124677,8 @@
   "1168452": {
    "name": "Sicilien_på_film",
    "parents": [
-    1101886
+    1101886,
+    1168286
    ],
    "children": []
   },
@@ -127678,8 +127717,8 @@
   "1205980": {
    "name": "Kultur_i_Hongkong",
    "parents": [
-    738040,
-    174457
+    174457,
+    738040
    ],
    "children": [
     1205965
@@ -128275,7 +128314,8 @@
   "1208994": {
    "name": "Sicilien_i_skönlitteratur",
    "parents": [
-    1101929
+    1101929,
+    1168286
    ],
    "children": []
   },
@@ -128564,10 +128604,10 @@
   "1210955": {
    "name": "IBM",
    "parents": [
+    3934433,
     888083,
     3875095,
     1181486,
-    3934433,
     5055142
    ],
    "children": []
@@ -128847,9 +128887,19 @@
   "1214281": {
    "name": "Förintelsen_i_skönlitteratur",
    "parents": [
-    1102099
+    1102099,
+    8789062
    ],
    "children": []
+  },
+  "8789062": {
+   "name": "Litteratur_om_förintelsen",
+   "parents": [
+    106244
+   ],
+   "children": [
+    1214281
+   ]
   },
   "1214381": {
    "name": "Böhmens_drottningar",
@@ -131053,9 +131103,7 @@
    "name": "Fornborgar_i_Sverige",
    "parents": [
     937776,
-    1425423,
-    810311,
-    1235742
+    810311
    ],
    "children": [
     4912290,
@@ -131066,19 +131114,6 @@
     4912274,
     4912276,
     4912285
-   ]
-  },
-  "1235742": {
-   "name": "Fornborgar",
-   "parents": [
-    581849,
-    1425360,
-    404437
-   ],
-   "children": [
-    1593072,
-    1235741,
-    4867509
    ]
   },
   "1235744": {
@@ -131296,6 +131331,7 @@
     512329
    ],
    "children": [
+    8528364,
     1237663
    ]
   },
@@ -132850,7 +132886,8 @@
     1636501
    ],
    "children": [
-    8106229
+    8106229,
+    8681767
    ]
   },
   "1253836": {
@@ -137620,6 +137657,13 @@
    ],
    "children": []
   },
+  "1417045": {
+   "name": "Halmstads_borgmästare",
+   "parents": [
+    1601347
+   ],
+   "children": []
+  },
   "1417048": {
    "name": "Norrköpings_borgmästare",
    "parents": [
@@ -142310,15 +142354,6 @@
    ],
    "children": []
   },
-  "1476963": {
-   "name": "Simning_vid_olympiska_sommarspelen_2012",
-   "parents": [
-    869905
-   ],
-   "children": [
-    1677759
-   ]
-  },
   "1477001": {
    "name": "Andinska_folkmusikinstrument",
    "parents": [
@@ -143917,13 +143952,6 @@
    ],
    "children": []
   },
-  "1489462": {
-   "name": "Personer_från_Ibaraki_prefektur",
-   "parents": [
-    56174
-   ],
-   "children": []
-  },
   "1488959": {
    "name": "Saint-Pierre_och_Miquelon",
    "parents": [
@@ -144147,6 +144175,7 @@
     3147715,
     4894020,
     4921297,
+    3952213,
     8513402
    ]
   },
@@ -144314,6 +144343,48 @@
     71467
    ],
    "children": []
+  },
+  "1504909": {
+   "name": "Personer_från_Malmö_kommun",
+   "parents": [
+    368661,
+    823982
+   ],
+   "children": [
+    1489984,
+    3962917,
+    2813021,
+    3343919
+   ]
+  },
+  "1489984": {
+   "name": "Personer_från_Malmö",
+   "parents": [
+    1504909
+   ],
+   "children": [
+    8692225,
+    8247427,
+    8246292,
+    8474145,
+    8251426,
+    8251429,
+    1612198,
+    8251431,
+    8249897,
+    8251433,
+    8601902,
+    8249666,
+    8243534,
+    2808659,
+    7755229,
+    2807522,
+    1635694,
+    1613046,
+    7528315,
+    1681149,
+    8243582
+   ]
   },
   "1509862": {
    "name": "Personer_från_Bohuslän",
@@ -148547,10 +148618,11 @@
     60121
    ],
    "children": [
-    1520720,
-    1520761,
     8788132,
-    1520820
+    8791405,
+    1520720,
+    1520820,
+    1520761
    ]
   },
   "1520720": {
@@ -151471,15 +151543,6 @@
     1549974
    ]
   },
-  "1550212": {
-   "name": "Basket_vid_olympiska_sommarspelen_2012",
-   "parents": [
-    921644
-   ],
-   "children": [
-    1678966
-   ]
-  },
   "1550232": {
    "name": "Svenska_kyrkomålare",
    "parents": [
@@ -152738,21 +152801,9 @@
    "name": "Fornborgar_i_Danmark",
    "parents": [
     1132538,
-    1069512,
-    1235742,
-    8184857
+    1069512
    ],
    "children": []
-  },
-  "8184857": {
-   "name": "Borg-_och_slottsruiner_i_Danmark",
-   "parents": [
-    1069512,
-    1411034
-   ],
-   "children": [
-    1593072
-   ]
   },
   "1593809": {
    "name": "Internationell_kvinnohistoria",
@@ -153656,26 +153707,10 @@
    ],
    "children": []
   },
-  "1610374": {
-   "name": "Basket_vid_olympiska_sommarspelen_1992",
-   "parents": [
-    921644
-   ],
-   "children": [
-    1610636
-   ]
-  },
   "1610507": {
    "name": "Tränare_i_Gais",
    "parents": [
     1267386
-   ],
-   "children": []
-  },
-  "1610636": {
-   "name": "Tävlande_i_basket_vid_olympiska_sommarspelen_1992",
-   "parents": [
-    1610374
    ],
    "children": []
   },
@@ -153815,6 +153850,13 @@
     8082465
    ]
   },
+  "1612198": {
+   "name": "Idrottare_från_Malmö",
+   "parents": [
+    1489984
+   ],
+   "children": []
+  },
   "1612200": {
    "name": "Idrottare_från_Jönköping",
    "parents": [
@@ -153930,7 +153972,9 @@
     1130914,
     1256951
    ],
-   "children": []
+   "children": [
+    8791476
+   ]
   },
   "1612878": {
    "name": "Idrottare_från_Trondheim",
@@ -153975,7 +154019,8 @@
   "1613046": {
    "name": "Musiker_från_Malmö",
    "parents": [
-    1249589
+    1249589,
+    1489984
    ],
    "children": [
     8412182
@@ -155664,6 +155709,7 @@
    "name": "Författare_från_Malmö",
    "parents": [
     930901,
+    1489984,
     2056796
    ],
    "children": [
@@ -156828,7 +156874,8 @@
   "1658680": {
    "name": "Officerare_i_Väg-_och_vattenbyggnadskåren",
    "parents": [
-    788345
+    788345,
+    8781509
    ],
    "children": []
   },
@@ -156959,8 +157006,7 @@
   "1659811": {
    "name": "Simning_vid_olympiska_sommarspelen_2004",
    "parents": [
-    856823,
-    869905
+    856823
    ],
    "children": [
     1659809
@@ -158205,13 +158251,6 @@
    ],
    "children": []
   },
-  "1677759": {
-   "name": "Tävlande_i_simning_vid_olympiska_sommarspelen_2012",
-   "parents": [
-    1476963
-   ],
-   "children": []
-  },
   "1677766": {
    "name": "Personer_från_Shandong",
    "parents": [
@@ -158315,13 +158354,6 @@
    "name": "Kyrkobyggnader_i_Jerusalem",
    "parents": [
     1429000
-   ],
-   "children": []
-  },
-  "1678966": {
-   "name": "Tävlande_i_basket_vid_olympiska_sommarspelen_2012",
-   "parents": [
-    1550212
    ],
    "children": []
   },
@@ -158580,6 +158612,13 @@
     3928115,
     2752022
    ]
+  },
+  "1681149": {
+   "name": "Skådespelare_från_Malmö",
+   "parents": [
+    1489984
+   ],
+   "children": []
   },
   "1681156": {
    "name": "Skådespelare_från_Helsingborg",
@@ -159292,7 +159331,8 @@
    ],
    "children": [
     6526817,
-    6455060
+    6455060,
+    6697885
    ]
   },
   "1690772": {
@@ -159485,6 +159525,15 @@
     275676
    ],
    "children": []
+  },
+  "1695635": {
+   "name": "Bordtennistävlingar",
+   "parents": [
+    62014
+   ],
+   "children": [
+    1695634
+   ]
   },
   "1695634": {
    "name": "Världsmästerskapen_i_bordtennis",
@@ -160055,6 +160104,7 @@
     1445582
    ],
    "children": [
+    8789059,
     8608271
    ]
   },
@@ -160580,6 +160630,7 @@
     622657
    ],
    "children": [
+    8791396,
     8691278
    ]
   },
@@ -162925,7 +162976,10 @@
    ],
    "children": [
     1888578,
+    8678595,
     4917257,
+    8789770,
+    8642524,
     8532086,
     8459004,
     8206908
@@ -166222,7 +166276,6 @@
   "2300108": {
    "name": "Läger_i_Frankrike_under_andra_världskriget",
    "parents": [
-    106244,
     117814
    ],
    "children": []
@@ -168226,7 +168279,10 @@
     998445,
     998079
    ],
-   "children": []
+   "children": [
+    8789043,
+    8789271
+   ]
   },
   "2777610": {
    "name": "Personer_från_Finnerödja_socken",
@@ -169133,13 +169189,6 @@
    ],
    "children": []
   },
-  "2795172": {
-   "name": "Spårvidd_1000_mm",
-   "parents": [
-    605975
-   ],
-   "children": []
-  },
   "2795199": {
    "name": "Fibonaccital",
    "parents": [
@@ -169679,6 +169728,13 @@
    ],
    "children": []
   },
+  "2807522": {
+   "name": "Arkitekter_från_Malmö",
+   "parents": [
+    1489984
+   ],
+   "children": []
+  },
   "2807530": {
    "name": "Personer_från_Österhaninge_socken",
    "parents": [
@@ -169860,7 +169916,8 @@
   "2808659": {
    "name": "Konstnärer_från_Malmö",
    "parents": [
-    930901
+    930901,
+    1489984
    ],
    "children": []
   },
@@ -170020,6 +170077,13 @@
    "name": "Personer_från_Kågeröds_socken",
    "parents": [
     1507718
+   ],
+   "children": []
+  },
+  "2813021": {
+   "name": "Personer_från_Västra_Skrävlinge_socken",
+   "parents": [
+    1504909
    ],
    "children": []
   },
@@ -172605,6 +172669,13 @@
    "name": "Personer_från_Örtofta_socken",
    "parents": [
     1507744
+   ],
+   "children": []
+  },
+  "3343919": {
+   "name": "Personer_från_Husie_socken",
+   "parents": [
+    1504909
    ],
    "children": []
   },
@@ -175475,13 +175546,6 @@
    ],
    "children": []
   },
-  "3903003": {
-   "name": "Världsmästare_i_bågskytte",
-   "parents": [
-    534990
-   ],
-   "children": []
-  },
   "3904074": {
    "name": "Verk_av_James_Ellroy",
    "parents": [
@@ -175680,15 +175744,6 @@
     114929
    ],
    "children": []
-  },
-  "3911104": {
-   "name": "Norska_TV-personligheter",
-   "parents": [
-    920726
-   ],
-   "children": [
-    4967548
-   ]
   },
   "3911242": {
    "name": "Primera_Categoría_Serie_A",
@@ -176711,6 +176766,25 @@
    ],
    "children": []
   },
+  "3926582": {
+   "name": "Medeltida_träkyrkobyggnader_i_Sverige",
+   "parents": [
+    3926613
+   ],
+   "children": [
+    3926642
+   ]
+  },
+  "3926613": {
+   "name": "Medeltida_kyrkobyggnader_i_Sverige",
+   "parents": [
+    1109806
+   ],
+   "children": [
+    8767162,
+    3926582
+   ]
+  },
   "8013034": {
    "name": "Träbyggnader",
    "parents": [
@@ -176723,6 +176797,13 @@
    "parents": [
     54070,
     65988
+   ],
+   "children": []
+  },
+  "3926642": {
+   "name": "Medeltida_stavkyrkor_i_Sverige",
+   "parents": [
+    3926582
    ],
    "children": []
   },
@@ -178257,7 +178338,7 @@
   "8675299": {
    "name": "Energigas",
    "parents": [
-    732574,
+    124530,
     125006
    ],
    "children": [
@@ -178641,6 +178722,13 @@
    ],
    "children": []
   },
+  "3952213": {
+   "name": "Personer_från_Uppsala-Näs_socken",
+   "parents": [
+    1508474
+   ],
+   "children": []
+  },
   "3952263": {
    "name": "Rysslands_flotta",
    "parents": [
@@ -178804,6 +178892,7 @@
    "children": [
     3977090,
     3957129,
+    8204298,
     3974267,
     8276761,
     8683808,
@@ -179308,6 +179397,13 @@
    ],
    "children": []
   },
+  "3962917": {
+   "name": "Personer_från_Hyllie_socken",
+   "parents": [
+    1504909
+   ],
+   "children": []
+  },
   "3963021": {
    "name": "Atari_800-spel",
    "parents": [
@@ -179674,6 +179770,7 @@
    "name": "Nürnbergrättegångarna",
    "parents": [
     57137,
+    106244,
     338579
    ],
    "children": []
@@ -182892,6 +182989,7 @@
     4630381
    ],
    "children": [
+    8791136,
     4630916,
     7610399
    ]
@@ -183307,6 +183405,13 @@
    ],
    "children": []
   },
+  "4862350": {
+   "name": "Medeltida_kyrkobyggnader_i_Finland",
+   "parents": [
+    1109806
+   ],
+   "children": []
+  },
   "4862581": {
    "name": "Listor_över_nationalparker",
    "parents": [
@@ -183476,20 +183581,9 @@
   "4867509": {
    "name": "Fornborgar_i_Finland",
    "parents": [
-    937780,
-    1235742,
-    8184861
+    937780
    ],
    "children": []
-  },
-  "8184861": {
-   "name": "Borg-_och_slottsruiner_i_Finland",
-   "parents": [
-    1411034
-   ],
-   "children": [
-    4867509
-   ]
   },
   "4867864": {
    "name": "Guldgruvor",
@@ -185954,29 +186048,6 @@
     8665916
    ]
   },
-  "4907530": {
-   "name": "Svenska_präster_under_1700-talet",
-   "parents": [
-    4915396
-   ],
-   "children": []
-  },
-  "4915396": {
-   "name": "Präster_under_1700-talet",
-   "parents": [
-    291569
-   ],
-   "children": [
-    6506249,
-    4907530,
-    8507851,
-    8619439,
-    8619382,
-    4963671,
-    8619417,
-    8619423
-   ]
-  },
   "4907570": {
    "name": "Slag_under_fälttåget_mot_Norge_1814",
    "parents": [
@@ -186074,6 +186145,7 @@
     8600673,
     6506243,
     8619427,
+    8791003,
     4988299,
     4908560,
     8507856,
@@ -186911,7 +186983,8 @@
     7974609,
     8619444,
     8619445,
-    8619416
+    8619416,
+    8791002
    ]
   },
   "4917467": {
@@ -188456,13 +188529,6 @@
    ],
    "children": []
   },
-  "4963671": {
-   "name": "Norska_präster_under_1700-talet",
-   "parents": [
-    4915396
-   ],
-   "children": []
-  },
   "4963678": {
    "name": "Lärare_under_1700-talet",
    "parents": [
@@ -188762,13 +188828,6 @@
    "name": "Personer_från_Hellerup",
    "parents": [
     1681777
-   ],
-   "children": []
-  },
-  "4967192": {
-   "name": "Klättrare",
-   "parents": [
-    301659
    ],
    "children": []
   },
@@ -189811,6 +189870,7 @@
     8720463,
     8721942,
     8570233,
+    8791166,
     8678495
    ]
   },
@@ -190297,6 +190357,13 @@
    "name": "Kyoto_Animation",
    "parents": [
     467987
+   ],
+   "children": []
+  },
+  "5069468": {
+   "name": "Svenska_ryttmästare",
+   "parents": [
+    8781509
    ],
    "children": []
   },
@@ -191963,15 +192030,6 @@
    ],
    "children": []
   },
-  "6166386": {
-   "name": "Simning_vid_olympiska_sommarspelen_2016",
-   "parents": [
-    869905
-   ],
-   "children": [
-    7176980
-   ]
-  },
   "6178199": {
    "name": "Fartyg_sänkta_i_Östersjön_och_Finska_viken_under_andra_världskriget",
    "parents": [
@@ -192581,6 +192639,20 @@
    ],
    "children": []
   },
+  "6331439": {
+   "name": "Medeltida_kyrkobyggnader_i_Norge",
+   "parents": [
+    1109806
+   ],
+   "children": []
+  },
+  "6331447": {
+   "name": "Medeltida_stenkyrkobyggnader",
+   "parents": [
+    1109806
+   ],
+   "children": []
+  },
   "6331741": {
    "name": "Koreanskspråkiga_TV-kanaler",
    "parents": [
@@ -192611,6 +192683,13 @@
     8463414,
     8272406
    ]
+  },
+  "6332670": {
+   "name": "Medeltida_kyrkobyggnader_i_Danmark",
+   "parents": [
+    1109806
+   ],
+   "children": []
   },
   "6333008": {
    "name": "Konstnärsduor",
@@ -192912,13 +192991,6 @@
    ],
    "children": []
   },
-  "6506249": {
-   "name": "Danska_präster_under_1700-talet",
-   "parents": [
-    4915396
-   ],
-   "children": []
-  },
   "6506252": {
    "name": "Präster_i_Danska_folkkyrkan",
    "parents": [
@@ -193200,6 +193272,13 @@
    ],
    "children": []
   },
+  "6697885": {
+   "name": "Mottagare_av_Krysantemumorden",
+   "parents": [
+    1689693
+   ],
+   "children": []
+  },
   "6730162": {
    "name": "Existentialism",
    "parents": [
@@ -193402,6 +193481,13 @@
    "name": "Personer_som_stupat_i_strid_under_första_världskriget",
    "parents": [
     70252
+   ],
+   "children": []
+  },
+  "6925520": {
+   "name": "Ätten_Gripenwaldt",
+   "parents": [
+    84429
    ],
    "children": []
   },
@@ -194329,13 +194415,6 @@
    ],
    "children": []
   },
-  "7176980": {
-   "name": "Tävlande_i_simning_vid_olympiska_sommarspelen_2016",
-   "parents": [
-    6166386
-   ],
-   "children": []
-  },
   "7176990": {
    "name": "Olympiska_silvermedaljörer_2016",
    "parents": [
@@ -195147,6 +195226,13 @@
    ],
    "children": []
   },
+  "7528315": {
+   "name": "Militärer_från_Malmö",
+   "parents": [
+    1489984
+   ],
+   "children": []
+  },
   "7528322": {
    "name": "Militärer_från_Visby",
    "parents": [
@@ -195502,6 +195588,13 @@
    "name": "Förorter_till_Buenos_Aires",
    "parents": [
     150840
+   ],
+   "children": []
+  },
+  "7755229": {
+   "name": "Politiker_från_Malmö",
+   "parents": [
+    1489984
    ],
    "children": []
   },
@@ -200469,13 +200562,6 @@
    ],
    "children": []
   },
-  "8106302": {
-   "name": "Sumo",
-   "parents": [
-    57859
-   ],
-   "children": []
-  },
   "8106524": {
    "name": "Västberlin",
    "parents": [
@@ -202187,6 +202273,13 @@
    ],
    "children": []
   },
+  "8147224": {
+   "name": "Italienska_abbotar",
+   "parents": [
+    1038827
+   ],
+   "children": []
+  },
   "8147323": {
    "name": "Finländska_byggmästare",
    "parents": [
@@ -203001,6 +203094,21 @@
    ],
    "children": []
   },
+  "8184857": {
+   "name": "Borg-_och_slottsruiner_i_Danmark",
+   "parents": [
+    1069512,
+    1411034
+   ],
+   "children": []
+  },
+  "8184861": {
+   "name": "Borg-_och_slottsruiner_i_Finland",
+   "parents": [
+    1411034
+   ],
+   "children": []
+  },
   "8184866": {
    "name": "Borg-_och_slottsruiner_i_Tyskland",
    "parents": [
@@ -203422,6 +203530,13 @@
    "name": "Bröderna_Marx_(filmserie)",
    "parents": [
     198636
+   ],
+   "children": []
+  },
+  "8204298": {
+   "name": "Resultattabeller_för_Division_1_i_fotboll_för_damer",
+   "parents": [
+    3954992
    ],
    "children": []
   },
@@ -204588,6 +204703,20 @@
    ],
    "children": []
   },
+  "8243534": {
+   "name": "Ingenjörer_från_Malmö",
+   "parents": [
+    1489984
+   ],
+   "children": []
+  },
+  "8243582": {
+   "name": "Näringslivspersoner_från_Malmö",
+   "parents": [
+    1489984
+   ],
+   "children": []
+  },
   "8243624": {
    "name": "Ingenjörer_från_Uppsala",
    "parents": [
@@ -204916,6 +205045,13 @@
    ],
    "children": []
   },
+  "8246292": {
+   "name": "Präster_från_Malmö",
+   "parents": [
+    1489984
+   ],
+   "children": []
+  },
   "8246294": {
    "name": "Navigationsrutor-Första_världskriget",
    "parents": [
@@ -205061,6 +205197,13 @@
    "name": "Musiker_från_Karlskrona",
    "parents": [
     1377405
+   ],
+   "children": []
+  },
+  "8247427": {
+   "name": "Ämbetsmän_från_Malmö",
+   "parents": [
+    1489984
    ],
    "children": []
   },
@@ -205217,6 +205360,13 @@
    ],
    "children": []
   },
+  "8249666": {
+   "name": "Journalister_från_Malmö",
+   "parents": [
+    1489984
+   ],
+   "children": []
+  },
   "8249699": {
    "name": "Journalister_från_Helsingborg",
    "parents": [
@@ -205256,6 +205406,13 @@
    "name": "Skådespelare_från_Umeå",
    "parents": [
     1477571
+   ],
+   "children": []
+  },
+  "8249897": {
+   "name": "Fotografer_från_Malmö",
+   "parents": [
+    1489984
    ],
    "children": []
   },
@@ -205409,6 +205566,34 @@
    "name": "Journalister_från_Karlstad",
    "parents": [
     1496132
+   ],
+   "children": []
+  },
+  "8251426": {
+   "name": "Jurister_från_Malmö",
+   "parents": [
+    1489984
+   ],
+   "children": []
+  },
+  "8251429": {
+   "name": "Lärare_från_Malmö",
+   "parents": [
+    1489984
+   ],
+   "children": []
+  },
+  "8251431": {
+   "name": "Läkare_från_Malmö",
+   "parents": [
+    1489984
+   ],
+   "children": []
+  },
+  "8251433": {
+   "name": "Diplomater_från_Malmö",
+   "parents": [
+    1489984
    ],
    "children": []
   },
@@ -206848,6 +207033,14 @@
    "name": "Italienska_astrologer",
    "parents": [
     329422
+   ],
+   "children": []
+  },
+  "8528364": {
+   "name": "Engelska_hovet",
+   "parents": [
+    512326,
+    8528363
    ],
    "children": []
   },
@@ -208493,6 +208686,7 @@
     860023
    ],
    "children": [
+    8767333,
     8668207
    ]
   },
@@ -209569,15 +209763,6 @@
    ],
    "children": []
   },
-  "8367887": {
-   "name": "Basket_vid_olympiska_sommarspelen_2020",
-   "parents": [
-    921644
-   ],
-   "children": [
-    8600411
-   ]
-  },
   "8367903": {
    "name": "Friidrott_vid_olympiska_sommarspelen_2020",
    "parents": [
@@ -209585,15 +209770,6 @@
    ],
    "children": [
     8582755
-   ]
-  },
-  "8368187": {
-   "name": "Simning_vid_olympiska_sommarspelen_2020",
-   "parents": [
-    869905
-   ],
-   "children": [
-    8580458
    ]
   },
   "8368342": {
@@ -210271,9 +210447,10 @@
     154311
    ],
    "children": [
-    8748110,
     8392234,
     8392493,
+    8748110,
+    8788590,
     8678541
    ]
   },
@@ -211301,6 +211478,7 @@
   "8425504": {
    "name": "Partiledarval_i_Sverige",
    "parents": [
+    52314,
     480066
    ],
    "children": []
@@ -213429,6 +213607,13 @@
    ],
    "children": []
   },
+  "8474145": {
+   "name": "Forskare_från_Malmö",
+   "parents": [
+    1489984
+   ],
+   "children": []
+  },
   "8474300": {
    "name": "Skådespelare_från_Schleswig-Holstein",
    "parents": [
@@ -214889,13 +215074,6 @@
    "parents": [
     53519,
     8553172
-   ],
-   "children": []
-  },
-  "8507851": {
-   "name": "Tyska_präster_under_1700-talet",
-   "parents": [
-    4915396
    ],
    "children": []
   },
@@ -216673,7 +216851,8 @@
     1424261
    ],
    "children": [
-    8535344
+    8535344,
+    8789059
    ]
   },
   "8535808": {
@@ -218314,13 +218493,6 @@
    ],
    "children": []
   },
-  "8580458": {
-   "name": "Tävlande_i_simning_vid_olympiska_sommarspelen_2020",
-   "parents": [
-    8368187
-   ],
-   "children": []
-  },
   "8580802": {
    "name": "Personer_från_Brågarps_socken",
    "parents": [
@@ -218999,13 +219171,6 @@
    ],
    "children": []
   },
-  "8600411": {
-   "name": "Tävlande_i_basket_vid_olympiska_sommarspelen_2020",
-   "parents": [
-    8367887
-   ],
-   "children": []
-  },
   "8600534": {
    "name": "Justitieråd_i_Högsta_domstolen_(Finland)",
    "parents": [
@@ -219031,6 +219196,34 @@
    "name": "Amerikanska_diplomater_under_2000-talet",
    "parents": [
     4964952
+   ],
+   "children": []
+  },
+  "8600854": {
+   "name": "Generallöjtnanter_i_svenska_armén",
+   "parents": [
+    8781509
+   ],
+   "children": []
+  },
+  "8600856": {
+   "name": "Generaler_i_svenska_armén",
+   "parents": [
+    8781509
+   ],
+   "children": []
+  },
+  "8600875": {
+   "name": "Generalmajorer_i_svenska_armén",
+   "parents": [
+    8781509
+   ],
+   "children": []
+  },
+  "8600878": {
+   "name": "Brigadgeneraler_i_svenska_armén",
+   "parents": [
+    8781509
    ],
    "children": []
   },
@@ -219148,6 +219341,13 @@
    "parents": [
     528815,
     8602604
+   ],
+   "children": []
+  },
+  "8601902": {
+   "name": "Regissörer_från_Malmö",
+   "parents": [
+    1489984
    ],
    "children": []
   },
@@ -220211,13 +220411,6 @@
    ],
    "children": []
   },
-  "8619382": {
-   "name": "Isländska_präster_under_1700-talet",
-   "parents": [
-    4915396
-   ],
-   "children": []
-  },
   "8619408": {
    "name": "Tyska_präster_under_1600-talet",
    "parents": [
@@ -220239,13 +220432,6 @@
    ],
    "children": []
   },
-  "8619417": {
-   "name": "Franska_präster_under_1700-talet",
-   "parents": [
-    4915396
-   ],
-   "children": []
-  },
   "8619418": {
    "name": "Franska_präster_under_1800-talet",
    "parents": [
@@ -220264,13 +220450,6 @@
    "name": "Danska_präster_under_1500-talet",
    "parents": [
     4919425
-   ],
-   "children": []
-  },
-  "8619423": {
-   "name": "Amerikanska_präster_under_1700-talet",
-   "parents": [
-    4915396
    ],
    "children": []
   },
@@ -220307,8 +220486,7 @@
   "8619439": {
    "name": "Finländska_präster_under_1700-talet",
    "parents": [
-    1548460,
-    4915396
+    1548460
    ],
    "children": []
   },
@@ -220491,8 +220669,8 @@
   "8622296": {
    "name": "Salomo",
    "parents": [
-    99597,
-    375808
+    375808,
+    1027466
    ],
    "children": []
   },
@@ -221543,6 +221721,13 @@
    "name": "Namn_på_brittiska_örlogsfartyg",
    "parents": [
     323457
+   ],
+   "children": []
+  },
+  "8642524": {
+   "name": "Finländska_diplomater_under_1900-talet",
+   "parents": [
+    4917014
    ],
    "children": []
   },
@@ -223215,6 +223400,13 @@
    ],
    "children": []
   },
+  "8678595": {
+   "name": "Franska_diplomater_under_1900-talet",
+   "parents": [
+    4917014
+   ],
+   "children": []
+  },
   "8678602": {
    "name": "Finlands_Sjöräddningssällskap",
    "parents": [
@@ -223321,6 +223513,13 @@
    "name": "Kulturella_återgivningar_av_Adam_och_Eva",
    "parents": [
     8681600
+   ],
+   "children": []
+  },
+  "8681767": {
+   "name": "Musikevenemang_i_Karlstad",
+   "parents": [
+    1253717
    ],
    "children": []
   },
@@ -223821,6 +224020,13 @@
    "name": "Manusförfattare_från_Malmö",
    "parents": [
     1635694
+   ],
+   "children": []
+  },
+  "8692225": {
+   "name": "Dansare_från_Malmö",
+   "parents": [
+    1489984
    ],
    "children": []
   },
@@ -225052,9 +225258,20 @@
     201453,
     696000,
     8718386,
+    8788590,
     8720617
    ],
    "children": []
+  },
+  "8788590": {
+   "name": "Slaveri_i_Brasilien",
+   "parents": [
+    201453,
+    8678539
+   ],
+   "children": [
+    8718610
+   ]
   },
   "8720617": {
    "name": "Ursprungsrörelsen_i_Brasilien",
@@ -226201,7 +226418,8 @@
   "8752564": {
    "name": "Överstar_i_svenska_armén",
    "parents": [
-    643793
+    643793,
+    8781509
    ],
    "children": []
   },
@@ -226744,16 +226962,17 @@
    "children": []
   },
   "8761773": {
-   "name": "CONCACAF_Gold_Cup_2023",
+   "name": "Concacaf_Gold_Cup_2023",
    "parents": [
     8570233
    ],
    "children": [
-    8761769
+    8761769,
+    8788369
    ]
   },
   "8761769": {
-   "name": "Poängtabeller_för_CONCACAF_Gold_Cup_2023",
+   "name": "Poängtabeller_för_Concacaf_Gold_Cup_2023",
    "parents": [
     8761773
    ],
@@ -226854,7 +227073,15 @@
    "name": "Medeltida_kyrkor_i_Lund",
    "parents": [
     502579,
-    1930612
+    1930612,
+    3926613
+   ],
+   "children": []
+  },
+  "8767333": {
+   "name": "Le_Mans_Daytona_h",
+   "parents": [
+    8333139
    ],
    "children": []
   },
@@ -227438,6 +227665,13 @@
    ],
    "children": []
   },
+  "8787120": {
+   "name": "Överstelöjtnanter_i_svenska_armén",
+   "parents": [
+    8781509
+   ],
+   "children": []
+  },
   "8787142": {
    "name": "Musiker_från_Piteå",
    "parents": [
@@ -227554,6 +227788,127 @@
    "name": "Kortfilmer_med_Pluto",
    "parents": [
     8788132
+   ],
+   "children": []
+  },
+  "8788369": {
+   "name": "Spelare_i_Concacaf_Gold_Cup_2023",
+   "parents": [
+    8761773
+   ],
+   "children": []
+  },
+  "8788429": {
+   "name": "Svenska_datorföretag",
+   "parents": [
+    62561
+   ],
+   "children": []
+  },
+  "8788440": {
+   "name": "Brittiska_datorföretag",
+   "parents": [
+    62561
+   ],
+   "children": []
+  },
+  "8789043": {
+   "name": "Ätten_De_Geer_af_Finspång",
+   "parents": [
+    84429,
+    998445,
+    2777603
+   ],
+   "children": []
+  },
+  "8789059": {
+   "name": "Brittiska_bordellägare",
+   "parents": [
+    1701770,
+    8718745
+   ],
+   "children": []
+  },
+  "8789271": {
+   "name": "Ätten_De_Geer_af_Leufsta",
+   "parents": [
+    84429,
+    998445,
+    2777603
+   ],
+   "children": []
+  },
+  "8789454": {
+   "name": "Angolanska_politiker_under_1900-talet",
+   "parents": [
+    3894573
+   ],
+   "children": []
+  },
+  "8789613": {
+   "name": "Sjukdomar_och_skadegörare_på_potatis",
+   "parents": [
+    117167,
+    587250
+   ],
+   "children": []
+  },
+  "8789770": {
+   "name": "Spanska_diplomater_under_1900-talet",
+   "parents": [
+    4917014
+   ],
+   "children": []
+  },
+  "8791002": {
+   "name": "Italienska_präster_under_1600-talet",
+   "parents": [
+    4917456
+   ],
+   "children": []
+  },
+  "8791003": {
+   "name": "Italienska_präster_under_1800-talet",
+   "parents": [
+    4913547
+   ],
+   "children": []
+  },
+  "8791136": {
+   "name": "HBTQ-relaterade_författare",
+   "parents": [
+    51531,
+    4631846
+   ],
+   "children": []
+  },
+  "8791166": {
+   "name": "Världsmästerskapen_i_simsport_2023",
+   "parents": [
+    8039134,
+    1034995,
+    4992540
+   ],
+   "children": []
+  },
+  "8791396": {
+   "name": "Oidentifierade_fribrottare",
+   "parents": [
+    1710823
+   ],
+   "children": []
+  },
+  "8791405": {
+   "name": "Animerade_filmer_med_björnar",
+   "parents": [
+    1520768
+   ],
+   "children": []
+  },
+  "8791476": {
+   "name": "Sångare_från_Köpenhamn",
+   "parents": [
+    1612869
    ],
    "children": []
   },

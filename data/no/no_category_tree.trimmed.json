@@ -4699,7 +4699,8 @@
     30886,
     1099860,
     1164918,
-    30872
+    30872,
+    894046
    ]
   },
   "12200": {
@@ -7164,6 +7165,7 @@
     1430330
    ],
    "children": [
+    1001763,
     36907,
     283918,
     283919
@@ -7674,6 +7676,7 @@
    "children": [
     1070368,
     1828224,
+    1787586,
     1760007,
     14185,
     1550732,
@@ -10500,7 +10503,8 @@
   "16466": {
    "name": "Armenia",
    "parents": [
-    1001833
+    1001833,
+    42945
    ],
    "children": [
     1467369,
@@ -10509,6 +10513,21 @@
     636376,
     1828057,
     55803
+   ]
+  },
+  "42945": {
+   "name": "Kaukasia",
+   "parents": [
+    74217,
+    74212
+   ],
+   "children": [
+    34342,
+    337383,
+    337388,
+    249293,
+    44174,
+    16466
    ]
   },
   "16487": {
@@ -18605,7 +18624,8 @@
   "34342": {
    "name": "Georgia",
    "parents": [
-    1001833
+    1001833,
+    42945
    ],
    "children": [
     106759,
@@ -20398,10 +20418,11 @@
     18007
    ],
    "children": [
-    1229711,
-    600825,
     712738,
-    843063
+    1229711,
+    843063,
+    600825,
+    1755514
    ]
   },
   "40147": {
@@ -21598,6 +21619,7 @@
    "children": [
     70659,
     107269,
+    1641639,
     1076687,
     69232,
     928691,
@@ -22254,6 +22276,7 @@
     1268094,
     998469,
     50504,
+    1281867,
     42447,
     1074002,
     1287638,
@@ -22585,18 +22608,6 @@
     105579,
     105613,
     247417
-   ]
-  },
-  "42945": {
-   "name": "Kaukasia",
-   "parents": [
-    74217,
-    74212
-   ],
-   "children": [
-    337388,
-    249293,
-    337383
    ]
   },
   "74212": {
@@ -23876,7 +23887,8 @@
   "44174": {
    "name": "Aserbajdsjan",
    "parents": [
-    1001833
+    1001833,
+    42945
    ],
    "children": [
     767542
@@ -24478,7 +24490,6 @@
     72032,
     44995,
     80552,
-    704201,
     1075817,
     115917,
     185775,
@@ -31382,7 +31393,6 @@
     1372482,
     804424,
     804426,
-    342860,
     65622,
     1809622,
     804315,
@@ -37921,6 +37931,7 @@
     452600,
     2086649,
     2064635,
+    2090748,
     1936893,
     490238
    ]
@@ -47305,8 +47316,7 @@
     255339,
     255342,
     2006862,
-    219059,
-    491675
+    219059
    ]
   },
   "214286": {
@@ -55062,7 +55072,9 @@
     17857,
     213704
    ],
-   "children": []
+   "children": [
+    491675
+   ]
   },
   "213250": {
    "name": "Finske_komponister",
@@ -56321,6 +56333,15 @@
    "children": [
     608300,
     704270
+   ]
+  },
+  "1001763": {
+   "name": "Slovensk_kultur",
+   "parents": [
+    13797
+   ],
+   "children": [
+    1769687
    ]
   },
   "234040": {
@@ -64450,7 +64471,9 @@
     52542,
     76356
    ],
-   "children": []
+   "children": [
+    638469
+   ]
   },
   "316650": {
    "name": "Petrokjemi",
@@ -66135,8 +66158,8 @@
    "name": "Abkhasia",
    "parents": [
     25112,
-    34342,
-    42945
+    42945,
+    34342
    ],
    "children": [
     598404
@@ -66843,13 +66866,6 @@
    "parents": [
     19034,
     75559
-   ],
-   "children": []
-  },
-  "342860": {
-   "name": "Olympiske_mestere",
-   "parents": [
-    816173
    ],
    "children": []
   },
@@ -71511,6 +71527,7 @@
    "children": [
     1120964,
     1026790,
+    1080816,
     1125331,
     963036,
     1352446
@@ -81345,7 +81362,9 @@
    "parents": [
     1564150
    ],
-   "children": []
+   "children": [
+    1755514
+   ]
   },
   "566471": {
    "name": "Den_etniske_konflikten_på_Sri_Lanka",
@@ -84648,7 +84667,7 @@
    "name": "Sigøynere",
    "parents": [
     17857,
-    213704,
+    213224,
     809396
    ],
    "children": []
@@ -88257,6 +88276,26 @@
    ],
    "children": []
   },
+  "514762": {
+   "name": "Seattle",
+   "parents": [
+    984965
+   ],
+   "children": [
+    1577760,
+    517461
+   ]
+  },
+  "984965": {
+   "name": "Bosetninger_etablert_i_1853",
+   "parents": [
+    1462848
+   ],
+   "children": [
+    514762,
+    1333807
+   ]
+  },
   "514825": {
    "name": "Alpinanlegg_i_Norge",
    "parents": [
@@ -88417,6 +88456,23 @@
     725055
    ]
   },
+  "1077035": {
+   "name": "Denver",
+   "parents": [
+    986046
+   ],
+   "children": [
+    1666700,
+    516174
+   ]
+  },
+  "516174": {
+   "name": "Personer_fra_Denver",
+   "parents": [
+    1077035
+   ],
+   "children": []
+  },
   "516220": {
    "name": "Kosmetikk",
    "parents": [
@@ -88516,6 +88572,13 @@
     932036,
     813116
    ]
+  },
+  "517461": {
+   "name": "Personer_fra_Seattle",
+   "parents": [
+    514762
+   ],
+   "children": []
   },
   "517467": {
    "name": "Sommer-OL_2016",
@@ -97929,6 +97992,18 @@
    ],
    "children": []
   },
+  "638469": {
+   "name": "Norske_seilskip",
+   "parents": [
+    316576
+   ],
+   "children": [
+    976713,
+    976505,
+    979638,
+    978215
+   ]
+  },
   "638746": {
    "name": "Nedlagte_kinoer_i_Oslo",
    "parents": [
@@ -100764,7 +100839,9 @@
     1229687,
     679365
    ],
-   "children": []
+   "children": [
+    1755514
+   ]
   },
   "679365": {
    "name": "Ris",
@@ -102533,17 +102610,6 @@
     1341432,
     1903148,
     2136068
-   ]
-  },
-  "704201": {
-   "name": "Busser",
-   "parents": [
-    1562622
-   ],
-   "children": [
-    1288138,
-    1288131,
-    1327207
    ]
   },
   "1146672": {
@@ -114460,6 +114526,7 @@
   "894046": {
    "name": "Drikkestell",
    "parents": [
+    12192,
     104157,
     444363
    ],
@@ -120235,7 +120302,9 @@
    "parents": [
     222983
    ],
-   "children": []
+   "children": [
+    1462848
+   ]
   },
   "969080": {
    "name": "Hekseprosessene_i_Salem",
@@ -120261,6 +120330,33 @@
     1298632,
     969169,
     969181
+   ]
+  },
+  "1462848": {
+   "name": "Bosetninger_etablert_i_1850-årene",
+   "parents": [
+    968587
+   ],
+   "children": [
+    986050,
+    984965,
+    970002,
+    984818,
+    972596,
+    972598,
+    986038,
+    969176,
+    986042,
+    986046
+   ]
+  },
+  "969176": {
+   "name": "Bosetninger_etablert_i_1855",
+   "parents": [
+    1462848
+   ],
+   "children": [
+    1333863
    ]
   },
   "969181": {
@@ -120346,6 +120442,16 @@
     820207
    ],
    "children": []
+  },
+  "970002": {
+   "name": "Bosetninger_etablert_i_1850",
+   "parents": [
+    1462848
+   ],
+   "children": [
+    1452680,
+    1352402
+   ]
   },
   "970138": {
    "name": "Utdanningsinstitusjoner_etablert_i_1970",
@@ -120554,7 +120660,15 @@
   "972596": {
    "name": "Bosetninger_etablert_i_1856",
    "parents": [
-    441591
+    441591,
+    1462848
+   ],
+   "children": []
+  },
+  "972598": {
+   "name": "Bosetninger_etablert_i_1852",
+   "parents": [
+    1462848
    ],
    "children": []
   },
@@ -120823,6 +120937,13 @@
    ],
    "children": []
   },
+  "976505": {
+   "name": "Norske_skonnerter",
+   "parents": [
+    638469
+   ],
+   "children": []
+  },
   "976526": {
    "name": "Det_matematisk-naturvitenskapelige_fakultet_(UiB)",
    "parents": [
@@ -120836,6 +120957,13 @@
     71892,
     1193927,
     1513943
+   ],
+   "children": []
+  },
+  "976713": {
+   "name": "Norske_fullriggere",
+   "parents": [
+    638469
    ],
    "children": []
   },
@@ -120945,6 +121073,13 @@
    ],
    "children": []
   },
+  "978215": {
+   "name": "Norske_barker",
+   "parents": [
+    638469
+   ],
+   "children": []
+  },
   "978222": {
    "name": "Vektløfting_under_Panamerikanske_leker",
    "parents": [
@@ -121000,6 +121135,13 @@
    "children": [
     979628
    ]
+  },
+  "979638": {
+   "name": "Norske_jekter",
+   "parents": [
+    638469
+   ],
+   "children": []
   },
   "979753": {
    "name": "Trykkenheter",
@@ -121290,6 +121432,16 @@
    ],
    "children": []
   },
+  "984818": {
+   "name": "Bosetninger_etablert_i_1857",
+   "parents": [
+    1462848
+   ],
+   "children": [
+    1390966,
+    1338367
+   ]
+  },
   "984939": {
    "name": "Asialekene_1994",
    "parents": [
@@ -121342,6 +121494,38 @@
    "name": "Albanske_musikere",
    "parents": [
     596242
+   ],
+   "children": []
+  },
+  "986038": {
+   "name": "Bosetninger_etablert_i_1851",
+   "parents": [
+    1462848
+   ],
+   "children": [
+    1339980
+   ]
+  },
+  "986042": {
+   "name": "Bosetninger_etablert_i_1854",
+   "parents": [
+    1462848
+   ],
+   "children": []
+  },
+  "986046": {
+   "name": "Bosetninger_etablert_i_1858",
+   "parents": [
+    1462848
+   ],
+   "children": [
+    1077035
+   ]
+  },
+  "986050": {
+   "name": "Bosetninger_etablert_i_1859",
+   "parents": [
+    1462848
    ],
    "children": []
   },
@@ -129443,6 +129627,13 @@
    "name": "Utdanningsinstitusjoner_nedlagt_i_2008",
    "parents": [
     1045274
+   ],
+   "children": []
+  },
+  "1080816": {
+   "name": "Utdanningsinstitusjoner_nedlagt_i_1991",
+   "parents": [
+    1045367
    ],
    "children": []
   },
@@ -139808,7 +139999,9 @@
    "parents": [
     15024
    ],
-   "children": []
+   "children": [
+    1702639
+   ]
   },
   "1245625": {
    "name": "Norske_hørespillforfattere",
@@ -142555,6 +142748,13 @@
    ],
    "children": []
   },
+  "1281867": {
+   "name": "Aserbajdsjanske_statsministre",
+   "parents": [
+    42262
+   ],
+   "children": []
+  },
   "1281942": {
    "name": "Ulstein_Group",
    "parents": [
@@ -142919,22 +143119,6 @@
    "parents": [
     15587,
     17582
-   ],
-   "children": []
-  },
-  "1288131": {
-   "name": "Bussprodusenter",
-   "parents": [
-    704201
-   ],
-   "children": [
-    1386199
-   ]
-  },
-  "1288138": {
-   "name": "Bussmodeller",
-   "parents": [
-    704201
    ],
    "children": []
   },
@@ -144175,13 +144359,6 @@
    ],
    "children": []
   },
-  "1327207": {
-   "name": "Busstyper",
-   "parents": [
-    704201
-   ],
-   "children": []
-  },
   "1327262": {
    "name": "Gudbrandsdalslågen",
    "parents": [
@@ -144591,6 +144768,24 @@
    ],
    "children": []
   },
+  "1333807": {
+   "name": "Fylker_etablert_i_1853",
+   "parents": [
+    984965
+   ],
+   "children": [
+    1339350
+   ]
+  },
+  "1333863": {
+   "name": "Fylker_etablert_i_1855",
+   "parents": [
+    969176
+   ],
+   "children": [
+    1337928
+   ]
+  },
   "1334386": {
    "name": "Saab_AB",
    "parents": [
@@ -144767,6 +144962,13 @@
     1643802
    ]
   },
+  "1337928": {
+   "name": "Fylker_i_USA_etablert_i_1855",
+   "parents": [
+    1333863
+   ],
+   "children": []
+  },
   "1338006": {
    "name": "Bymarka",
    "parents": [
@@ -144850,6 +145052,13 @@
     2040601,
     2035642
    ]
+  },
+  "1338367": {
+   "name": "Byer_grunnlagt_i_1857",
+   "parents": [
+    984818
+   ],
+   "children": []
   },
   "1338376": {
    "name": "Pasvikvassdraget",
@@ -145056,6 +145265,13 @@
    ],
    "children": []
   },
+  "1339350": {
+   "name": "Fylker_i_USA_etablert_i_1853",
+   "parents": [
+    1333807
+   ],
+   "children": []
+  },
   "1339452": {
    "name": "Ranavassdraget",
    "parents": [
@@ -145083,6 +145299,13 @@
    "parents": [
     1739602,
     517467
+   ],
+   "children": []
+  },
+  "1339980": {
+   "name": "Byer_grunnlagt_i_1851",
+   "parents": [
+    986038
    ],
    "children": []
   },
@@ -145926,6 +146149,13 @@
     1388948,
     1535127
    ]
+  },
+  "1352402": {
+   "name": "Kommuner_etablert_i_1850",
+   "parents": [
+    970002
+   ],
+   "children": []
   },
   "1352443": {
    "name": "Høgskulen_i_Volda",
@@ -147676,8 +147906,7 @@
   "1386199": {
    "name": "Tidligere_bussprodusenter",
    "parents": [
-    1493844,
-    1288131
+    1493844
    ],
    "children": [
     1780444
@@ -148647,6 +148876,13 @@
    "name": "Lister_over_figurer_i_videospill",
    "parents": [
     351064
+   ],
+   "children": []
+  },
+  "1390966": {
+   "name": "Distrikter_etablert_i_1857",
+   "parents": [
+    984818
    ],
    "children": []
   },
@@ -152894,6 +153130,13 @@
    "parents": [
     806578,
     1149267
+   ],
+   "children": []
+  },
+  "1452680": {
+   "name": "Byer_grunnlagt_i_1850",
+   "parents": [
+    970002
    ],
    "children": []
   },
@@ -157366,7 +157609,7 @@
    "children": []
   },
   "1555680": {
-   "name": "Italiensk_mafiosi",
+   "name": "Italienske_mafiosi",
    "parents": [
     137627
    ],
@@ -158730,6 +158973,13 @@
    ],
    "children": []
   },
+  "1577760": {
+   "name": "Filmer_lagt_til_Seattle",
+   "parents": [
+    514762
+   ],
+   "children": []
+  },
   "1577761": {
    "name": "Banten",
    "parents": [
@@ -158948,6 +159198,22 @@
     55803
    ],
    "children": []
+  },
+  "1583030": {
+   "name": "Slovenske_sangere",
+   "parents": [
+    1769687
+   ],
+   "children": []
+  },
+  "1769687": {
+   "name": "Slovensk_musikk",
+   "parents": [
+    1001763
+   ],
+   "children": [
+    1583030
+   ]
   },
   "1584092": {
    "name": "Pop-punkgrupper",
@@ -162558,6 +162824,13 @@
    ],
    "children": []
   },
+  "1641639": {
+   "name": "Fødsler_i_900",
+   "parents": [
+    41714
+   ],
+   "children": []
+  },
   "1641892": {
    "name": "Filemonbrevet",
    "parents": [
@@ -163792,6 +164065,13 @@
    "name": "EM_i_moderne_femkamp",
    "parents": [
     478836
+   ],
+   "children": []
+  },
+  "1666700": {
+   "name": "Sport_i_Denver",
+   "parents": [
+    1077035
    ],
    "children": []
   },
@@ -165669,6 +165949,13 @@
    "parents": [
     29527,
     43527
+   ],
+   "children": []
+  },
+  "1702639": {
+   "name": "Bosetninger_første_gang_omtalt_i_1136",
+   "parents": [
+    1701558
    ],
    "children": []
   },
@@ -167554,6 +167841,15 @@
    ],
    "children": []
   },
+  "1755514": {
+   "name": "Sushi",
+   "parents": [
+    40136,
+    459019,
+    679364
+   ],
+   "children": []
+  },
   "1755797": {
    "name": "Lysestaker",
    "parents": [
@@ -168741,6 +169037,13 @@
    "name": "Dyrevernere",
    "parents": [
     165074
+   ],
+   "children": []
+  },
+  "1787586": {
+   "name": "Aktivister",
+   "parents": [
+    796899
    ],
    "children": []
   },
@@ -178443,6 +178746,13 @@
    "name": "Engelske_humanister",
    "parents": [
     2090374
+   ],
+   "children": []
+  },
+  "2090748": {
+   "name": "Barkglansbiller",
+   "parents": [
+    85908
    ],
    "children": []
   },

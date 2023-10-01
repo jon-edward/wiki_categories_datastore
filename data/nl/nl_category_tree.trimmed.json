@@ -777,6 +777,7 @@
     357296,
     324400,
     3188143,
+    4011316,
     856505,
     686394,
     3953353,
@@ -2214,6 +2215,7 @@
     113073,
     592243,
     2251252,
+    4011316,
     63578
    ]
   },
@@ -5082,9 +5084,21 @@
     295290
    ]
   },
+  "5092714": {
+   "name": "Betwist_grondgebied_in_Azië",
+   "parents": [
+    147420
+   ],
+   "children": [
+    64602,
+    593045,
+    67959
+   ]
+  },
   "64602": {
    "name": "Jeruzalem",
    "parents": [
+    5092714,
     295290,
     195436
    ],
@@ -5169,6 +5183,7 @@
     2169492,
     71733,
     3886710,
+    4387028,
     157663
    ]
   },
@@ -8482,10 +8497,9 @@
     63298
    ],
    "children": [
-    417956,
-    2814469,
     2282152,
     1363916,
+    2814469,
     1363951
    ]
   },
@@ -8597,6 +8611,7 @@
     1807998
    ],
    "children": [
+    4011316,
     4834806
    ]
   },
@@ -8705,6 +8720,7 @@
     167665,
     2020177,
     2969426,
+    5786897,
     570103,
     1641816,
     2996314
@@ -9730,6 +9746,36 @@
     1107061
    ]
   },
+  "67959": {
+   "name": "Taiwan",
+   "parents": [
+    5092714,
+    126996
+   ],
+   "children": [
+    596523,
+    559127
+   ]
+  },
+  "126996": {
+   "name": "Niet-erkende_staat",
+   "parents": [
+    147420
+   ],
+   "children": [
+    222626,
+    399365,
+    424007,
+    1485320,
+    5623304,
+    699181,
+    672750,
+    1681744,
+    4773874,
+    67959,
+    405469
+   ]
+  },
   "2088194": {
    "name": "Bemande_ruimtevaart",
    "parents": [
@@ -10542,7 +10588,6 @@
    "parents": [
     3831695,
     1572940,
-    895942,
     523449
    ],
    "children": [
@@ -10624,59 +10669,6 @@
     2774907,
     888700,
     4384766
-   ]
-  },
-  "895942": {
-   "name": "Personage_uit_televisieserie",
-   "parents": [
-    1691683
-   ],
-   "children": [
-    1752064,
-    1590532,
-    341125,
-    883593,
-    1183754,
-    1270666,
-    594573,
-    860431,
-    69649,
-    991251,
-    428186,
-    597021,
-    3736350,
-    1863585,
-    895533,
-    2052273,
-    724788,
-    2293300,
-    570940,
-    2022846,
-    3025986,
-    1370950,
-    814536,
-    903497,
-    937288,
-    1282121,
-    1370954,
-    1797704,
-    878415,
-    2211279,
-    2296918,
-    1429720,
-    1292889,
-    883548,
-    887389,
-    811612,
-    1286239,
-    1833692,
-    1417322,
-    1140075,
-    1705834,
-    859760,
-    1089907,
-    1083128,
-    341115
    ]
   },
   "523449": {
@@ -11392,11 +11384,9 @@
    "children": [
     251591,
     248361,
-    2003529,
     4840020,
     1851445,
-    248310,
-    248383
+    248310
    ]
   },
   "521725": {
@@ -11513,6 +11503,7 @@
     382217,
     5352201,
     382220,
+    5352206,
     847645,
     847647,
     847650,
@@ -12668,7 +12659,6 @@
     521725
    ],
    "children": [
-    248385,
     248359,
     248330,
     1851439,
@@ -14974,7 +14964,6 @@
    "children": [
     248353,
     1851427,
-    1156362,
     262382,
     248340,
     4840025
@@ -16041,7 +16030,6 @@
    ],
    "children": [
     1851432,
-    248905,
     262384,
     248338,
     4840024,
@@ -16280,7 +16268,6 @@
     455107
    ],
    "children": [
-    87881,
     87826,
     87868
    ]
@@ -16299,6 +16286,7 @@
     87829,
     3560309,
     5143958,
+    147420,
     4202655
    ]
   },
@@ -16316,15 +16304,6 @@
    ],
    "children": [
     5078995
-   ]
-  },
-  "87881": {
-   "name": "Exclave",
-   "parents": [
-    669411
-   ],
-   "children": [
-    5079016
    ]
   },
   "87974": {
@@ -16521,11 +16500,8 @@
    "children": [
     1852160,
     869989,
-    1635849,
     361245,
-    1415181,
     4840015,
-    534673,
     574269
    ]
   },
@@ -16536,11 +16512,10 @@
     521725
    ],
    "children": [
+    1851419,
     262386,
     248915,
-    4840026,
-    1851419,
-    480607
+    4840026
    ]
   },
   "88517": {
@@ -16601,7 +16576,7 @@
    ]
   },
   "1197671": {
-   "name": "Postaal_systeem",
+   "name": "Posterijen",
    "parents": [
     80120,
     80543
@@ -20865,6 +20840,7 @@
     743952
    ],
    "children": [
+    4915026,
     805724,
     1238607
    ]
@@ -20948,6 +20924,17 @@
     2026551
    ],
    "children": []
+  },
+  "147420": {
+   "name": "Betwist_grondgebied",
+   "parents": [
+    87826
+   ],
+   "children": [
+    5092713,
+    5092714,
+    126996
+   ]
   },
   "127059": {
    "name": "Consul",
@@ -22063,6 +22050,24 @@
     1468891,
     1888958,
     1468895
+   ]
+  },
+  "5092713": {
+   "name": "Betwist_grondgebied_in_Afrika",
+   "parents": [
+    147420
+   ],
+   "children": [
+    135866
+   ]
+  },
+  "135866": {
+   "name": "Westelijke_Sahara",
+   "parents": [
+    5092713
+   ],
+   "children": [
+    4021625
    ]
   },
   "4359818": {
@@ -23412,7 +23417,6 @@
     84784
    ],
    "children": [
-    614880,
     248929,
     259592,
     1851413,
@@ -23756,6 +23760,7 @@
     321043,
     248371,
     252660,
+    4915190,
     1851870
    ]
   },
@@ -24195,7 +24200,6 @@
     1662594,
     1633765,
     869638,
-    1635849,
     4840013,
     1876345,
     1851900,
@@ -26563,6 +26567,58 @@
     1410264
    ]
   },
+  "895942": {
+   "name": "Personage_uit_televisieserie",
+   "parents": [
+    1691683
+   ],
+   "children": [
+    1752064,
+    1590532,
+    341125,
+    883593,
+    1183754,
+    1270666,
+    594573,
+    860431,
+    991251,
+    428186,
+    597021,
+    3736350,
+    1863585,
+    895533,
+    2052273,
+    724788,
+    2293300,
+    570940,
+    2022846,
+    3025986,
+    1370950,
+    814536,
+    903497,
+    937288,
+    1282121,
+    1370954,
+    1797704,
+    878415,
+    2211279,
+    2296918,
+    1429720,
+    1292889,
+    883548,
+    887389,
+    811612,
+    1286239,
+    1833692,
+    1417322,
+    1140075,
+    1705834,
+    859760,
+    1089907,
+    1083128,
+    341115
+   ]
+  },
   "221632": {
    "name": "Logicus",
    "parents": [
@@ -26603,6 +26659,19 @@
     5629659,
     1446892,
     222133
+   ]
+  },
+  "222626": {
+   "name": "Catalonië",
+   "parents": [
+    126996
+   ],
+   "children": [
+    2091237,
+    2254727,
+    5580463,
+    1436764,
+    777213
    ]
   },
   "222724": {
@@ -27865,7 +27934,8 @@
    ],
    "children": [
     5352201,
-    240859
+    240859,
+    5352206
    ]
   },
   "240859": {
@@ -28314,6 +28384,13 @@
     1592703
    ]
   },
+  "424007": {
+   "name": "Micronatie",
+   "parents": [
+    126996
+   ],
+   "children": []
+  },
   "246698": {
    "name": "Paradox",
    "parents": [
@@ -28515,28 +28592,6 @@
     1800015
    ]
   },
-  "248383": {
-   "name": "Politiek_in_2004",
-   "parents": [
-    71196
-   ],
-   "children": [
-    1800011,
-    1662957,
-    1658983
-   ]
-  },
-  "248385": {
-   "name": "Politiek_in_2003",
-   "parents": [
-    78801
-   ],
-   "children": [
-    1662889,
-    1662947,
-    1800007
-   ]
-  },
   "248743": {
    "name": "Open_standaard",
    "parents": [
@@ -28562,17 +28617,6 @@
     4915033
    ],
    "children": []
-  },
-  "248905": {
-   "name": "Politiek_in_2002",
-   "parents": [
-    86676
-   ],
-   "children": [
-    1800005,
-    1656021,
-    1662895
-   ]
   },
   "1941238": {
    "name": "Zeilterminologie",
@@ -29373,26 +29417,24 @@
    "name": "Literair_tijdschrift",
    "parents": [
     63529,
-    2712504
+    1143494
    ],
    "children": [
     421240,
     1378034
    ]
   },
-  "2712504": {
-   "name": "Cultureel_tijdschrift",
+  "1143494": {
+   "name": "Kunsttijdschrift",
    "parents": [
-    66068
+    63472,
+    2712504
    ],
    "children": [
-    430499,
-    430501,
-    1143494,
+    4841561,
     257354,
-    367061,
-    815547,
-    592347
+    430499,
+    430501
    ]
   },
   "257362": {
@@ -31463,6 +31505,28 @@
    "children": [
     5605504,
     3016043
+   ]
+  },
+  "286767": {
+   "name": "President_van_Catalonië",
+   "parents": [
+    777213
+   ],
+   "children": []
+  },
+  "777213": {
+   "name": "Geschiedenis_van_Catalonië",
+   "parents": [
+    222626
+   ],
+   "children": [
+    838189,
+    286767,
+    696209,
+    5270195,
+    666295,
+    4222905,
+    1789275
    ]
   },
   "287173": {
@@ -34407,10 +34471,8 @@
    ],
    "children": [
     369480,
-    1635849,
     1851881,
     4840017,
-    690034,
     410073,
     361244
    ]
@@ -35501,8 +35563,8 @@
   "491952": {
    "name": "Connexxion",
    "parents": [
-    417956,
-    2282152
+    2282152,
+    417956
    ],
    "children": []
   },
@@ -36660,8 +36722,7 @@
   "367061": {
    "name": "Televisiegids",
    "parents": [
-    63957,
-    2712504
+    63957
    ],
    "children": [
     1712679
@@ -36909,10 +36970,11 @@
     67080
    ],
    "children": [
+    846543,
+    631952,
     2007346,
     592949,
-    432821,
-    846543
+    432821
    ]
   },
   "375413": {
@@ -37483,6 +37545,18 @@
    ],
    "children": []
   },
+  "2282152": {
+   "name": "Nederlands_openbaarvervoerbedrijf",
+   "parents": [
+    67382
+   ],
+   "children": [
+    491952,
+    2746433,
+    1469493,
+    2284999
+   ]
+  },
   "392233": {
    "name": "Slogan",
    "parents": [
@@ -37628,6 +37702,13 @@
    ],
    "children": []
   },
+  "399365": {
+   "name": "Vlag_van_niet-erkende_staat",
+   "parents": [
+    126996
+   ],
+   "children": []
+  },
   "885278": {
    "name": "Filmregisseur",
    "parents": [
@@ -37685,6 +37766,15 @@
     1950779
    ],
    "children": []
+  },
+  "405469": {
+   "name": "Kosovo",
+   "parents": [
+    126996
+   ],
+   "children": [
+    987574
+   ]
   },
   "407214": {
    "name": "Paramaribo",
@@ -38346,8 +38436,7 @@
   "417956": {
    "name": "Nederlandse_spoorwegmaatschappij",
    "parents": [
-    67378,
-    67382
+    67378
    ],
    "children": [
     2746433,
@@ -38590,8 +38679,8 @@
   "428186": {
    "name": "Personage_uit_Battlestar_Galactica",
    "parents": [
-    895942,
-    100075
+    100075,
+    895942
    ],
    "children": []
   },
@@ -38636,14 +38725,14 @@
    "name": "Filmtijdschrift",
    "parents": [
     63723,
-    2712504
+    1143494
    ],
    "children": []
   },
   "430501": {
    "name": "Muziektijdschrift",
    "parents": [
-    2712504
+    1143494
    ],
    "children": [
     4800531
@@ -39231,6 +39320,25 @@
    ],
    "children": []
   },
+  "461350": {
+   "name": "Comarca_van_Catalonië",
+   "parents": [
+    1436764
+   ],
+   "children": []
+  },
+  "1436764": {
+   "name": "Geografie_van_Catalonië",
+   "parents": [
+    222626
+   ],
+   "children": [
+    2860472,
+    5446441,
+    461350,
+    2964975
+   ]
+  },
   "461463": {
    "name": "Cryptograaf",
    "parents": [
@@ -39535,17 +39643,6 @@
    ],
    "children": []
   },
-  "480607": {
-   "name": "Politiek_in_2000",
-   "parents": [
-    88509
-   ],
-   "children": [
-    1799938,
-    1662909,
-    1662942
-   ]
-  },
   "480782": {
    "name": "Domain_Name_System",
    "parents": [
@@ -39762,17 +39859,6 @@
     114261
    ],
    "children": []
-  },
-  "2282152": {
-   "name": "Nederlands_stads-_en_streekvervoerbedrijf",
-   "parents": [
-    67382
-   ],
-   "children": [
-    491952,
-    2746433,
-    2284999
-   ]
   },
   "493135": {
    "name": "Gemeente_in_Isabela",
@@ -40621,17 +40707,6 @@
     534599
    ]
   },
-  "534673": {
-   "name": "Politiek_in_2008",
-   "parents": [
-    88507
-   ],
-   "children": [
-    1662603,
-    1800078,
-    1662975
-   ]
-  },
   "534757": {
    "name": "Gemeente_in_Sorsogon",
    "parents": [
@@ -41447,10 +41522,22 @@
    ],
    "children": []
   },
+  "559127": {
+   "name": "Geschiedenis_van_Taiwan",
+   "parents": [
+    67959
+   ],
+   "children": [
+    733707,
+    2052412
+   ]
+  },
   "838189": {
    "name": "Graaf_van_Barcelona",
    "parents": [
     125709,
+    777213,
+    666295,
     3014985
    ],
    "children": [
@@ -42007,8 +42094,8 @@
   "570940": {
    "name": "Personage_uit_The_Simpsons",
    "parents": [
-    895942,
     211807,
+    895942,
     2054452
    ],
    "children": []
@@ -42060,7 +42147,6 @@
     1852164,
     965191,
     1583688,
-    1635849,
     4840014,
     782479,
     4811855,
@@ -43382,6 +43468,17 @@
     1238607
    ]
   },
+  "2712504": {
+   "name": "Cultureel_tijdschrift",
+   "parents": [
+    66068
+   ],
+   "children": [
+    592347,
+    815547,
+    1143494
+   ]
+  },
   "592347": {
    "name": "Esperantotijdschrift",
    "parents": [
@@ -43409,6 +43506,16 @@
     600478
    ],
    "children": []
+  },
+  "593045": {
+   "name": "Koerilen",
+   "parents": [
+    5092714
+   ],
+   "children": [
+    606181,
+    1177238
+   ]
   },
   "593083": {
    "name": "Roeiboot_(scheepstype)",
@@ -43762,6 +43869,7 @@
   "596523": {
    "name": "Endemisch_dier_uit_Taiwan",
    "parents": [
+    67959,
     596411
    ],
    "children": []
@@ -44332,6 +44440,7 @@
   "606181": {
    "name": "Eiland_van_de_Koerilen",
    "parents": [
+    593045,
     1244486
    ],
    "children": []
@@ -44829,18 +44938,6 @@
     1673617,
     1673622,
     1798463
-   ]
-  },
-  "614880": {
-   "name": "Politiek_in_1999",
-   "parents": [
-    166221
-   ],
-   "children": [
-    1663568,
-    1663554,
-    1798464,
-    1663558
    ]
   },
   "614881": {
@@ -45420,6 +45517,13 @@
    "name": "Torpedo",
    "parents": [
     1060337
+   ],
+   "children": []
+  },
+  "631952": {
+   "name": "Multiple_Purpose_Vehicle",
+   "parents": [
+    375016
    ],
    "children": []
   },
@@ -46164,8 +46268,6 @@
    "children": [
     820641,
     4840011,
-    2722224,
-    2786740,
     2710265,
     2285148,
     2717213,
@@ -46955,6 +47057,16 @@
    ],
    "children": []
   },
+  "666295": {
+   "name": "Geschiedenis_van_Barcelona",
+   "parents": [
+    777213
+   ],
+   "children": [
+    696233,
+    838189
+   ]
+  },
   "667763": {
    "name": "Nederlandse_rockband",
    "parents": [
@@ -47151,6 +47263,15 @@
    ],
    "children": []
   },
+  "672750": {
+   "name": "Zuid-Ossetië",
+   "parents": [
+    126996
+   ],
+   "children": [
+    5645551
+   ]
+  },
   "672754": {
    "name": "Belgische_jazzband",
    "parents": [
@@ -47206,6 +47327,24 @@
     673859
    ],
    "children": []
+  },
+  "674594": {
+   "name": "Geschiedenis_van_Joegoslavië",
+   "parents": [
+    987574
+   ],
+   "children": [
+    1241403
+   ]
+  },
+  "987574": {
+   "name": "Geschiedenis_van_Kosovo",
+   "parents": [
+    405469
+   ],
+   "children": [
+    674594
+   ]
   },
   "4740589": {
    "name": "Engelstalige_jeugdboekenreeks",
@@ -47670,17 +47809,6 @@
    ],
    "children": []
   },
-  "690034": {
-   "name": "Politiek_in_2007",
-   "parents": [
-    325175
-   ],
-   "children": [
-    1662960,
-    1800073,
-    1662823
-   ]
-  },
   "691403": {
    "name": "Hockey_in_1998",
    "parents": [
@@ -47811,6 +47939,20 @@
    ],
    "children": []
   },
+  "696209": {
+   "name": "Koning_van_Majorca",
+   "parents": [
+    777213
+   ],
+   "children": []
+  },
+  "696233": {
+   "name": "Huis_Barcelona",
+   "parents": [
+    666295
+   ],
+   "children": []
+  },
   "696294": {
    "name": "Militaire_tactiek",
    "parents": [
@@ -47885,6 +48027,15 @@
     4789324,
     5551514,
     5551518
+   ]
+  },
+  "699181": {
+   "name": "Abchazië",
+   "parents": [
+    126996
+   ],
+   "children": [
+    1393698
    ]
   },
   "699468": {
@@ -48665,6 +48816,13 @@
    ],
    "children": []
   },
+  "733707": {
+   "name": "Ridderorde_in_China",
+   "parents": [
+    559127
+   ],
+   "children": []
+  },
   "734540": {
    "name": "Film_van_Warner_Brothers",
    "parents": [
@@ -49332,6 +49490,7 @@
     5587545,
     1541594,
     748132,
+    5471334,
     811368,
     748142,
     2848882,
@@ -51266,7 +51425,6 @@
    ],
    "children": [
     815345,
-    960323,
     1932149
    ]
   },
@@ -53823,8 +53981,8 @@
   "883548": {
    "name": "Personage_uit_Friends",
    "parents": [
-    895942,
-    118606
+    118606,
+    895942
    ],
    "children": []
   },
@@ -54051,8 +54209,8 @@
   "887389": {
    "name": "Personage_uit_Stargate",
    "parents": [
-    895942,
     1691630,
+    895942,
     350690
    ],
    "children": []
@@ -54452,6 +54610,7 @@
    ],
    "children": [
     2029856,
+    976601,
     1904396,
     900014
    ]
@@ -54631,8 +54790,8 @@
   "903497": {
    "name": "Personage_uit_Teenage_Mutant_Ninja_Turtles",
    "parents": [
-    895942,
     1691630,
+    895942,
     2054452,
     852719
    ],
@@ -54977,6 +55136,13 @@
    "children": [
     915014
    ]
+  },
+  "4773874": {
+   "name": "Historische_niet-erkende_staat",
+   "parents": [
+    126996
+   ],
+   "children": []
   },
   "915407": {
    "name": "Graaf_van_Eu",
@@ -56037,13 +56203,6 @@
    ],
    "children": []
   },
-  "960323": {
-   "name": "Muziekalbum_van_The_Moody_Blues_solo",
-   "parents": [
-    959055
-   ],
-   "children": []
-  },
   "961600": {
    "name": "Handelsroute",
    "parents": [
@@ -56392,10 +56551,31 @@
     1760511
    ]
   },
+  "976601": {
+   "name": "Frans_bisschop",
+   "parents": [
+    1220805,
+    1101369
+   ],
+   "children": [
+    976451,
+    1465027,
+    2075080,
+    1358154,
+    976430,
+    2065871,
+    976470,
+    4406008,
+    2741081,
+    976445,
+    5138174
+   ]
+  },
   "976430": {
    "name": "Bisschop_van_Terwaan",
    "parents": [
     246233,
+    976601,
     1822891
    ],
    "children": []
@@ -56425,10 +56605,20 @@
   "976445": {
    "name": "Bisschop_van_Kamerijk",
    "parents": [
+    976601,
     2766775
    ],
    "children": [
     3695009
+   ]
+  },
+  "976451": {
+   "name": "Bisschop_van_Metz",
+   "parents": [
+    976601
+   ],
+   "children": [
+    3694813
    ]
   },
   "976644": {
@@ -56443,6 +56633,7 @@
   "976470": {
    "name": "Bisschop_van_Parijs",
    "parents": [
+    976601,
     976644
    ],
    "children": []
@@ -56486,6 +56677,7 @@
     976952
    ],
    "children": [
+    976601,
     3777586
    ]
   },
@@ -58876,6 +59068,22 @@
    ],
    "children": []
   },
+  "4915190": {
+   "name": "Gebeurtenis_in_2006",
+   "parents": [
+    172938
+   ],
+   "children": [
+    1124610
+   ]
+  },
+  "1124610": {
+   "name": "Misdrijf_in_2006",
+   "parents": [
+    4915190
+   ],
+   "children": []
+  },
   "1125003": {
    "name": "Vijfduizender",
    "parents": [
@@ -59598,16 +59806,6 @@
    ],
    "children": []
   },
-  "1143494": {
-   "name": "Kunsttijdschrift",
-   "parents": [
-    63472,
-    2712504
-   ],
-   "children": [
-    4841561
-   ]
-  },
   "1143556": {
    "name": "Muziekalbum_van_Keith_Jarrett",
    "parents": [
@@ -60031,16 +60229,6 @@
    "children": [
     1155808,
     5145036
-   ]
-  },
-  "1156362": {
-   "name": "Politiek_in_2001",
-   "parents": [
-    83480
-   ],
-   "children": [
-    1662908,
-    1799999
    ]
   },
   "1157157": {
@@ -60653,6 +60841,13 @@
     1176492,
     1831851
    ]
+  },
+  "1177238": {
+   "name": "Vulkaan_op_de_Koerilen",
+   "parents": [
+    593045
+   ],
+   "children": []
   },
   "1177275": {
    "name": "Steroïdhormoon",
@@ -62124,6 +62319,13 @@
    "name": "Uitgestorven_knaagdieren",
    "parents": [
     157665
+   ],
+   "children": []
+  },
+  "1241403": {
+   "name": "Tweede_Wereldoorlog_in_Joegoslavië",
+   "parents": [
+    674594
    ],
    "children": []
   },
@@ -64094,6 +64296,16 @@
     4049439
    ]
   },
+  "1367521": {
+   "name": "Bouwwerk_in_Barcelona",
+   "parents": [
+    2254727
+   ],
+   "children": [
+    1367523,
+    1367494
+   ]
+  },
   "1357058": {
    "name": "Liberaal",
    "parents": [
@@ -64104,6 +64316,7 @@
   "1358154": {
    "name": "Bisschop_van_Atrecht",
    "parents": [
+    976601,
     4448931
    ],
    "children": []
@@ -64385,7 +64598,8 @@
   "1367494": {
    "name": "Metrostation_in_Barcelona",
    "parents": [
-    509997
+    509997,
+    1367521
    ],
    "children": []
   },
@@ -64394,6 +64608,23 @@
    "parents": [
     128417,
     726208
+   ],
+   "children": []
+  },
+  "2254727": {
+   "name": "Bouwwerk_in_Catalonië",
+   "parents": [
+    222626
+   ],
+   "children": [
+    1367521,
+    1939651
+   ]
+  },
+  "1367523": {
+   "name": "Museum_in_Barcelona",
+   "parents": [
+    1367521
    ],
    "children": []
   },
@@ -64417,21 +64648,12 @@
     1367898
    ]
   },
-  "1368670": {
-   "name": "Amerikaanse_presidentsverkiezingen_2008",
+  "1681744": {
+   "name": "Transnistrië",
    "parents": [
-    1662603
+    126996
    ],
    "children": []
-  },
-  "1662603": {
-   "name": "Verkiezingen_in_2008",
-   "parents": [
-    534673
-   ],
-   "children": [
-    1368670
-   ]
   },
   "2499161": {
    "name": "24_(televisieserie)",
@@ -65155,6 +65377,13 @@
    ],
    "children": []
   },
+  "1393698": {
+   "name": "Plaats_in_Abchazië",
+   "parents": [
+    699181
+   ],
+   "children": []
+  },
   "1394731": {
    "name": "Intern_transportmiddel",
    "parents": [
@@ -65618,13 +65847,6 @@
    "children": [
     2153104
    ]
-  },
-  "1415181": {
-   "name": "Misdrijf_in_2008",
-   "parents": [
-    88507
-   ],
-   "children": []
   },
   "1416636": {
    "name": "Groenwieren",
@@ -66800,6 +67022,13 @@
    ],
    "children": []
   },
+  "1465027": {
+   "name": "Bisschop_van_Orange",
+   "parents": [
+    976601
+   ],
+   "children": []
+  },
   "1465314": {
    "name": "Internationale_school",
    "parents": [
@@ -66881,6 +67110,7 @@
   "1469493": {
    "name": "Nederlandse_Spoorwegen",
    "parents": [
+    2282152,
     417956
    ],
    "children": []
@@ -67103,6 +67333,22 @@
    "children": [
     3142143
    ]
+  },
+  "1485320": {
+   "name": "Noord-Cyprus",
+   "parents": [
+    126996
+   ],
+   "children": [
+    1485319
+   ]
+  },
+  "1485319": {
+   "name": "Stad_in_Noord-Cyprus",
+   "parents": [
+    1485320
+   ],
+   "children": []
   },
   "1486200": {
    "name": "Hars",
@@ -68435,7 +68681,7 @@
    "children": []
   },
   "1559320": {
-   "name": "Goederenwagen",
+   "name": "Goederenwagon",
    "parents": [
     5686511
    ],
@@ -70554,11 +70800,7 @@
   "1635849": {
    "name": "Kredietcrisis",
    "parents": [
-    88507,
-    179750,
     581003,
-    325175,
-    571978,
     1568476
    ],
    "children": []
@@ -71076,13 +71318,6 @@
     1655980
    ]
   },
-  "1656021": {
-   "name": "Nederlandse_politiek_in_2002",
-   "parents": [
-    248905
-   ],
-   "children": []
-  },
   "1656478": {
    "name": "Muziekalbum_van_Radiohead",
    "parents": [
@@ -71213,20 +71448,6 @@
    "name": "Bewindhebber_van_de_West-Indische_Compagnie",
    "parents": [
     1790896
-   ],
-   "children": []
-  },
-  "1662957": {
-   "name": "Belgische_politiek_in_2004",
-   "parents": [
-    248383
-   ],
-   "children": []
-  },
-  "1658983": {
-   "name": "Verkiezingen_in_2004",
-   "parents": [
-    248383
    ],
    "children": []
   },
@@ -71394,13 +71615,6 @@
    ],
    "children": []
   },
-  "1662823": {
-   "name": "Verkiezingen_in_2007",
-   "parents": [
-    690034
-   ],
-   "children": []
-  },
   "1662860": {
    "name": "Verkiezingen_in_2006",
    "parents": [
@@ -71424,48 +71638,6 @@
    ],
    "children": []
   },
-  "1662889": {
-   "name": "Verkiezingen_in_2003",
-   "parents": [
-    248385
-   ],
-   "children": []
-  },
-  "1662895": {
-   "name": "Verkiezingen_in_2002",
-   "parents": [
-    248905
-   ],
-   "children": []
-  },
-  "1662908": {
-   "name": "Verkiezingen_in_2001",
-   "parents": [
-    1156362
-   ],
-   "children": []
-  },
-  "1662909": {
-   "name": "Verkiezingen_in_2000",
-   "parents": [
-    480607
-   ],
-   "children": []
-  },
-  "1662942": {
-   "name": "Belgische_politiek_in_2000",
-   "parents": [
-    480607
-   ],
-   "children": []
-  },
-  "1662947": {
-   "name": "Belgische_politiek_in_2003",
-   "parents": [
-    248385
-   ],
-   "children": []
-  },
   "1662958": {
    "name": "Belgische_politiek_in_2005",
    "parents": [
@@ -71477,20 +71649,6 @@
    "name": "Belgische_politiek_in_2006",
    "parents": [
     252660
-   ],
-   "children": []
-  },
-  "1662960": {
-   "name": "Belgische_politiek_in_2007",
-   "parents": [
-    690034
-   ],
-   "children": []
-  },
-  "1662975": {
-   "name": "Belgische_politiek_in_2008",
-   "parents": [
-    534673
    ],
    "children": []
   },
@@ -71514,27 +71672,6 @@
    "parents": [
     67086,
     2053988
-   ],
-   "children": []
-  },
-  "1663554": {
-   "name": "Verkiezingen_in_1999",
-   "parents": [
-    614880
-   ],
-   "children": []
-  },
-  "1663558": {
-   "name": "Belgische_politiek_in_1999",
-   "parents": [
-    614880
-   ],
-   "children": []
-  },
-  "1663568": {
-   "name": "Nederlandse_politiek_in_1999",
-   "parents": [
-    614880
    ],
    "children": []
   },
@@ -71982,6 +72119,22 @@
     469471
    ],
    "children": []
+  },
+  "1681232": {
+   "name": "Station_van_Rodalies_Barcelona",
+   "parents": [
+    1939651
+   ],
+   "children": []
+  },
+  "1939651": {
+   "name": "Spoorwegstation_in_Catalonië",
+   "parents": [
+    2254727
+   ],
+   "children": [
+    1681232
+   ]
   },
   "1682090": {
    "name": "Deens_singer-songwriter",
@@ -75830,6 +75983,7 @@
    "name": "Graaf_van_Urgell",
    "parents": [
     125709,
+    777213,
     3014985
    ],
    "children": []
@@ -76140,13 +76294,6 @@
    ],
    "children": []
   },
-  "1798464": {
-   "name": "Resolutie_van_de_Veiligheidsraad_van_de_Verenigde_Naties_uit_1999",
-   "parents": [
-    614880
-   ],
-   "children": []
-  },
   "1798646": {
    "name": "Resolutie_van_de_Veiligheidsraad_van_de_Verenigde_Naties_uit_2009",
    "parents": [
@@ -76198,41 +76345,6 @@
    ],
    "children": []
   },
-  "1799938": {
-   "name": "Resolutie_van_de_Veiligheidsraad_van_de_Verenigde_Naties_uit_2000",
-   "parents": [
-    480607
-   ],
-   "children": []
-  },
-  "1799999": {
-   "name": "Resolutie_van_de_Veiligheidsraad_van_de_Verenigde_Naties_uit_2001",
-   "parents": [
-    1156362
-   ],
-   "children": []
-  },
-  "1800005": {
-   "name": "Resolutie_van_de_Veiligheidsraad_van_de_Verenigde_Naties_uit_2002",
-   "parents": [
-    248905
-   ],
-   "children": []
-  },
-  "1800007": {
-   "name": "Resolutie_van_de_Veiligheidsraad_van_de_Verenigde_Naties_uit_2003",
-   "parents": [
-    248385
-   ],
-   "children": []
-  },
-  "1800011": {
-   "name": "Resolutie_van_de_Veiligheidsraad_van_de_Verenigde_Naties_uit_2004",
-   "parents": [
-    248383
-   ],
-   "children": []
-  },
   "1800015": {
    "name": "Resolutie_van_de_Veiligheidsraad_van_de_Verenigde_Naties_uit_2005",
    "parents": [
@@ -76251,20 +76363,6 @@
    "name": "Psophodidae",
    "parents": [
     86872
-   ],
-   "children": []
-  },
-  "1800073": {
-   "name": "Resolutie_van_de_Veiligheidsraad_van_de_Verenigde_Naties_uit_2007",
-   "parents": [
-    690034
-   ],
-   "children": []
-  },
-  "1800078": {
-   "name": "Resolutie_van_de_Veiligheidsraad_van_de_Verenigde_Naties_uit_2008",
-   "parents": [
-    534673
    ],
    "children": []
   },
@@ -80225,6 +80323,7 @@
     1993640,
     5588073,
     5595048,
+    5531085,
     5531086,
     5600431,
     5596505,
@@ -80377,13 +80476,6 @@
    "name": "Italodisco",
    "parents": [
     2822653
-   ],
-   "children": []
-  },
-  "2003529": {
-   "name": "Misdrijf_in_2004",
-   "parents": [
-    71196
    ],
    "children": []
   },
@@ -81201,7 +81293,8 @@
    "name": "Nederlands-Formosa",
    "parents": [
     2056371,
-    914370
+    914370,
+    559127
    ],
    "children": []
   },
@@ -81659,6 +81752,13 @@
    ],
    "children": []
   },
+  "2065871": {
+   "name": "Bisschop_van_Valence",
+   "parents": [
+    976601
+   ],
+   "children": []
+  },
   "2065895": {
    "name": "Endemisch_dier_uit_Samoa",
    "parents": [
@@ -81822,6 +81922,13 @@
    "parents": [
     1382470,
     5502137
+   ],
+   "children": []
+  },
+  "2075080": {
+   "name": "Bisschop_van_Meaux",
+   "parents": [
+    976601
    ],
    "children": []
   },
@@ -82277,6 +82384,13 @@
    "parents": [
     78769,
     1867223
+   ],
+   "children": []
+  },
+  "2091237": {
+   "name": "Catalaanse_media",
+   "parents": [
+    222626
    ],
    "children": []
   },
@@ -83840,6 +83954,7 @@
     3877793,
     4108038,
     4765103,
+    5713873,
     5153365,
     5301405,
     4929495,
@@ -84753,8 +84868,8 @@
   "2284999": {
    "name": "Syntus",
    "parents": [
-    417956,
-    2282152
+    2282152,
+    417956
    ],
    "children": []
   },
@@ -87049,13 +87164,6 @@
    ],
    "children": []
   },
-  "2722224": {
-   "name": "Ramp_in_2012",
-   "parents": [
-    647537
-   ],
-   "children": []
-  },
   "2722516": {
    "name": "Na_de_Tweede_Wereldoorlog_geëxecuteerd_Nederlands_persoon",
    "parents": [
@@ -87272,6 +87380,13 @@
    ],
    "children": []
   },
+  "2741081": {
+   "name": "Bisschop_in_Gallië",
+   "parents": [
+    976601
+   ],
+   "children": []
+  },
   "2742189": {
    "name": "Ruimtevaart_naar_de_Zon",
    "parents": [
@@ -87312,8 +87427,8 @@
   "2746433": {
    "name": "Arriva_Nederland",
    "parents": [
-    417956,
-    2282152
+    2282152,
+    417956
    ],
    "children": []
   },
@@ -87631,13 +87746,6 @@
    "name": "Organisatie_voor_gehandicaptensport",
    "parents": [
     464258
-   ],
-   "children": []
-  },
-  "2786740": {
-   "name": "Misdrijf_in_2012",
-   "parents": [
-    647537
    ],
    "children": []
   },
@@ -88432,6 +88540,13 @@
    "parents": [
     1550584,
     79549
+   ],
+   "children": []
+  },
+  "2860472": {
+   "name": "Rivier_in_Catalonië",
+   "parents": [
+    1436764
    ],
    "children": []
   },
@@ -89431,6 +89546,13 @@
    "name": "Vestingwerk_van_Venlo",
    "parents": [
     1683997
+   ],
+   "children": []
+  },
+  "2964975": {
+   "name": "Weg_in_Catalonië",
+   "parents": [
+    1436764
    ],
    "children": []
   },
@@ -92026,6 +92148,13 @@
    "name": "Surinaams_ministerie",
    "parents": [
     1660339
+   ],
+   "children": []
+  },
+  "3694813": {
+   "name": "Prins-bisschop_van_Metz",
+   "parents": [
+    976451
    ],
    "children": []
   },
@@ -94704,6 +94833,15 @@
     5502979
    ]
   },
+  "4011316": {
+   "name": "Staking",
+   "parents": [
+    68528,
+    99644,
+    67419
+   ],
+   "children": []
+  },
   "4012297": {
    "name": "FIFA-wereldranglijsten_2006",
    "parents": [
@@ -94825,6 +94963,13 @@
    "parents": [
     704820,
     1707238
+   ],
+   "children": []
+  },
+  "4021625": {
+   "name": "Politiek_in_de_Westelijke_Sahara",
+   "parents": [
+    135866
    ],
    "children": []
   },
@@ -96003,6 +96148,13 @@
    ],
    "children": []
   },
+  "4222905": {
+   "name": "Onderkoning_van_Catalonië",
+   "parents": [
+    777213
+   ],
+   "children": []
+  },
   "4227224": {
    "name": "Symfonie_van_Mieczysław_Weinberg",
    "parents": [
@@ -96751,10 +96903,20 @@
     4803529
    ]
   },
+  "4387028": {
+   "name": "Brits_romanschrijver",
+   "parents": [
+    70221
+   ],
+   "children": [
+    4387092
+   ]
+  },
   "4387092": {
    "name": "Engels_romanschrijver",
    "parents": [
-    64680
+    64680,
+    4387028
    ],
    "children": []
   },
@@ -96926,6 +97088,7 @@
   "4406008": {
    "name": "Lijsten_van_Franse_bisschoppen",
    "parents": [
+    976601,
     5576302
    ],
    "children": []
@@ -102073,6 +102236,13 @@
    ],
    "children": []
   },
+  "4915026": {
+   "name": "Conferentie_naar_jaar",
+   "parents": [
+    125595
+   ],
+   "children": []
+  },
   "4915045": {
    "name": "Partner_van_de_vorst_van_Sardinië",
    "parents": [
@@ -103107,8 +103277,7 @@
   "5079016": {
    "name": "Historische_exclave",
    "parents": [
-    78114,
-    87881
+    78114
    ],
    "children": []
   },
@@ -103472,6 +103641,13 @@
    "children": [
     5420298
    ]
+  },
+  "5138174": {
+   "name": "Bisschop_in_Frankrijk_in_de_11e_eeuw",
+   "parents": [
+    976601
+   ],
+   "children": []
   },
   "5138495": {
    "name": "Land_op_de_Olympische_Zomerspelen_2020",
@@ -103968,8 +104144,10 @@
    ],
    "children": [
     5717517,
+    5713873,
     5631828,
-    5650645
+    5650645,
+    5732446
    ]
   },
   "5179778": {
@@ -104489,9 +104667,19 @@
   "5270188": {
    "name": "Catalaanse_onafhankelijkheidsbeweging",
    "parents": [
-    1326250
+    1326250,
+    5270195
    ],
    "children": []
+  },
+  "5270195": {
+   "name": "Catalaans_separatisme",
+   "parents": [
+    777213
+   ],
+   "children": [
+    5270188
+   ]
   },
   "5278348": {
    "name": "Veeteelt_in_Nederland",
@@ -106160,6 +106348,14 @@
    ],
    "children": []
   },
+  "5352206": {
+   "name": "1676",
+   "parents": [
+    521725,
+    1146328
+   ],
+   "children": []
+  },
   "5353325": {
    "name": "Film_over_musici",
    "parents": [
@@ -107065,6 +107261,13 @@
    ],
    "children": []
   },
+  "5446441": {
+   "name": "Val_d'Aran",
+   "parents": [
+    1436764
+   ],
+   "children": []
+  },
   "5448210": {
    "name": "Lid_van_de_Internationale_Brigades",
    "parents": [
@@ -107401,6 +107604,13 @@
     78763,
     1590162,
     1590193
+   ],
+   "children": []
+  },
+  "5471334": {
+   "name": "Nummer_van_Florence_and_the_Machine",
+   "parents": [
+    1610172
    ],
    "children": []
   },
@@ -107853,6 +108063,23 @@
    ],
    "children": []
   },
+  "5516914": {
+   "name": "Evenement_in_2023",
+   "parents": [
+    5732446
+   ],
+   "children": []
+  },
+  "5732446": {
+   "name": "Gebeurtenis_in_2023",
+   "parents": [
+    5178048
+   ],
+   "children": [
+    5516914,
+    5785595
+   ]
+  },
   "5517411": {
    "name": "Beladen_erfgoed",
    "parents": [
@@ -107971,9 +108198,21 @@
    ],
    "children": []
   },
+  "5531085": {
+   "name": "Gebeurtenis_in_2022",
+   "parents": [
+    1993644
+   ],
+   "children": [
+    5543984,
+    5785600,
+    5531084
+   ]
+  },
   "5531084": {
    "name": "Verkiezingen_in_2022",
    "parents": [
+    5531085,
     5531086
    ],
    "children": []
@@ -108039,6 +108278,13 @@
    "parents": [
     66072,
     1560234
+   ],
+   "children": []
+  },
+  "5543984": {
+   "name": "Evenement_in_2022",
+   "parents": [
+    5531085
    ],
    "children": []
   },
@@ -109078,6 +109324,13 @@
    ],
    "children": []
   },
+  "5580463": {
+   "name": "Lijsten_van_Catalonië",
+   "parents": [
+    222626
+   ],
+   "children": []
+  },
   "5582346": {
    "name": "Pilotenstrip",
    "parents": [
@@ -109592,6 +109845,13 @@
     5622444
    ]
   },
+  "5623304": {
+   "name": "Volksrepubliek_Donetsk",
+   "parents": [
+    126996
+   ],
+   "children": []
+  },
   "5624705": {
    "name": "Krk",
    "parents": [
@@ -109744,6 +110004,13 @@
    "parents": [
     1754513,
     2291486
+   ],
+   "children": []
+  },
+  "5645551": {
+   "name": "Politiek_in_Zuid-Ossetië",
+   "parents": [
+    672750
    ],
    "children": []
   },
@@ -110989,6 +111256,14 @@
    ],
    "children": []
   },
+  "5713873": {
+   "name": "Lijsten_van_personen_overleden_in_2023",
+   "parents": [
+    2723069,
+    5178048
+   ],
+   "children": []
+  },
   "5715273": {
    "name": "Muziekalbum_uit_2023",
    "parents": [
@@ -111391,6 +111666,27 @@
    "parents": [
     80850,
     79262
+   ],
+   "children": []
+  },
+  "5785595": {
+   "name": "Ruimtevaart_in_2023",
+   "parents": [
+    5732446
+   ],
+   "children": []
+  },
+  "5785600": {
+   "name": "Ruimtevaart_in_2022",
+   "parents": [
+    5531085
+   ],
+   "children": []
+  },
+  "5786897": {
+   "name": "Biermuseum",
+   "parents": [
+    67427
    ],
    "children": []
   },

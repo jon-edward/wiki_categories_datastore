@@ -594,8 +594,7 @@
     443329,
     392323,
     2778950,
-    3276904,
-    3667185
+    3276904
    ]
   },
   "27499": {
@@ -2308,7 +2307,9 @@
     338875,
     4727618
    ],
-   "children": []
+   "children": [
+    4780826
+   ]
   },
   "2486655": {
    "name": "Letteratura",
@@ -2959,7 +2960,6 @@
     1588868,
     3476741,
     27882,
-    625099,
     4281388,
     5444560,
     305554,
@@ -2979,6 +2979,8 @@
     2312664
    ],
    "children": [
+    9891642,
+    9891643,
     4655517,
     7838782
    ]
@@ -3054,7 +3056,6 @@
     2979665
    ],
    "children": [
-    3667684,
     9767814,
     8284717,
     1434799,
@@ -6802,6 +6803,7 @@
     8947133,
     3800010,
     4190026,
+    3271631,
     3173200,
     8018513,
     3204179,
@@ -7511,8 +7513,8 @@
     613670
    ],
    "children": [
+    9896066,
     41605,
-    4002508,
     3320047,
     4208664,
     2330970
@@ -10740,9 +10742,10 @@
     106203
    ],
    "children": [
-    2372312,
-    443284,
+    9899202,
     6167494,
+    443284,
+    2372312,
     4100126
    ]
   },
@@ -12462,6 +12465,7 @@
     27322
    ],
    "children": [
+    9899841,
     8312763,
     379942
    ]
@@ -12697,6 +12701,7 @@
    "children": [
     709284,
     3246436,
+    9205604,
     290987,
     463020,
     1445711,
@@ -13199,6 +13204,7 @@
     337054
    ],
    "children": [
+    3191428,
     9252038,
     8695880,
     9375753,
@@ -13588,7 +13594,8 @@
     58477,
     1705167,
     259444,
-    1974742
+    1974742,
+    9902010
    ]
   },
   "58521": {
@@ -14767,6 +14774,7 @@
     1466631
    ],
    "children": [
+    9899202,
     1082087,
     2816745,
     393257,
@@ -15715,6 +15723,7 @@
     3667157,
     3667062,
     1490806,
+    9802555,
     3667100,
     5132605,
     3667039
@@ -16812,7 +16821,8 @@
     709963,
     1896910,
     1840181,
-    66746
+    66746,
+    9802555
    ]
   },
   "66754": {
@@ -16833,7 +16843,8 @@
     55505
    ],
    "children": [
-    152651
+    152651,
+    1798796
    ]
   },
   "66759": {
@@ -17582,6 +17593,7 @@
     1999880,
     5756687,
     5754259,
+    4481564,
     4347420,
     4168991,
     4301226,
@@ -17589,8 +17601,8 @@
     5997619,
     1858375,
     5231562,
-    6073947,
     6031579,
+    6073947,
     4439645,
     69981,
     5791199,
@@ -18253,6 +18265,7 @@
     403768
    ],
    "children": [
+    9900035,
     72173,
     1606638
    ]
@@ -18302,6 +18315,31 @@
    ],
    "children": [
     608639
+   ]
+  },
+  "72882": {
+   "name": "Liechtenstein",
+   "parents": [
+    1239037
+   ],
+   "children": [
+    9434797,
+    1738054
+   ]
+  },
+  "1239037": {
+   "name": "Stati_del_Sacro_Romano_Impero",
+   "parents": [
+    1396824,
+    65867
+   ],
+   "children": [
+    4071137,
+    8647592,
+    3086635,
+    72882,
+    2613213,
+    4000543
    ]
   },
   "72980": {
@@ -18449,7 +18487,6 @@
    "children": [
     330616,
     7899656,
-    6158860,
     9408457
    ]
   },
@@ -18901,6 +18938,7 @@
     2312108,
     1452652,
     1788061,
+    3275166,
     328575
    ]
   },
@@ -20630,28 +20668,6 @@
     1201438
    ]
   },
-  "85478": {
-   "name": "Alice_nel_Paese_delle_Meraviglie",
-   "parents": [
-    5143008
-   ],
-   "children": [
-    1704799
-   ]
-  },
-  "5143008": {
-   "name": "Romanzi_per_ragazzi",
-   "parents": [
-    278947
-   ],
-   "children": [
-    6061601,
-    4524902,
-    85478,
-    9643124,
-    2877503
-   ]
-  },
   "85749": {
    "name": "Divinità_persiane",
    "parents": [
@@ -20736,25 +20752,6 @@
     1872818,
     1841765
    ]
-  },
-  "3667185": {
-   "name": "Fumettisti",
-   "parents": [
-    24773
-   ],
-   "children": [
-    4762017,
-    85861,
-    4978526,
-    9035230
-   ]
-  },
-  "85861": {
-   "name": "Autori_Disney",
-   "parents": [
-    3667185
-   ],
-   "children": []
   },
   "85868": {
    "name": "Resistenza_italiana",
@@ -22965,6 +22962,7 @@
     2974822,
     1263272,
     7767625,
+    8573102,
     3283632,
     436082,
     118002,
@@ -26460,25 +26458,24 @@
     135882
    ],
    "children": [
-    6655620,
-    8956181,
-    8956183,
-    9708188,
-    9313693,
-    9892896,
-    207913,
-    3754806,
-    7706563,
-    9255621,
-    7706183,
-    3295435,
-    7883860,
     7715040,
     6778209,
     2581858,
+    7706563,
+    6655620,
+    9255621,
     207974,
+    7706183,
+    9892896,
+    207913,
+    3295435,
     7706226,
-    8046454
+    7883860,
+    8956181,
+    3754806,
+    8046454,
+    8956183,
+    9313693
    ]
   },
   "717957": {
@@ -27665,7 +27662,6 @@
    ],
    "children": [
     849313,
-    660218,
     152040,
     5486635,
     1103245,
@@ -27673,7 +27669,7 @@
     2823951,
     4644500,
     4154074,
-    415418,
+    660218,
     1854844
    ]
   },
@@ -31370,6 +31366,7 @@
     1872818,
     1991922,
     1992109,
+    1992111,
     6124662,
     4124599,
     1554203,
@@ -33796,7 +33793,8 @@
    "children": [
     268065,
     6114537,
-    4117358
+    4117358,
+    9872543
    ]
   },
   "268065": {
@@ -34166,6 +34164,7 @@
     27328
    ],
    "children": [
+    3863376,
     275079
    ]
   },
@@ -36988,9 +36987,8 @@
    ],
    "children": [
     5175617,
-    315237,
-    315021,
     3396915,
+    315021,
     9225174
    ]
   },
@@ -37049,27 +37047,12 @@
     360255
    ]
   },
-  "315237": {
-   "name": "Trafori_ferroviari",
-   "parents": [
-    4691094,
-    4111737
-   ],
-   "children": [
-    1553969,
-    6337458,
-    1548204,
-    1554012
-   ]
-  },
   "4111737": {
    "name": "Trafori",
    "parents": [
     51935
    ],
    "children": [
-    415418,
-    315237,
     1233839
    ]
   },
@@ -38590,6 +38573,7 @@
     5619799,
     2196442,
     3311580,
+    9900765,
     2217311,
     3168741,
     3403749,
@@ -39688,6 +39672,7 @@
    "children": [
     8595690,
     9880332,
+    9896876,
     4922256,
     4922453,
     1342005,
@@ -40296,7 +40281,6 @@
     3877237,
     370678,
     668535,
-    570877,
     411166
    ]
   },
@@ -42548,18 +42532,6 @@
     415317,
     5226846,
     5227871
-   ]
-  },
-  "415418": {
-   "name": "Trafori_stradali",
-   "parents": [
-    849193,
-    4111737
-   ],
-   "children": [
-    7591259,
-    1548196,
-    2104615
    ]
   },
   "415519": {
@@ -44827,6 +44799,23 @@
     1137061
    ]
   },
+  "459028": {
+   "name": "Dottori_della_Chiesa_cattolica",
+   "parents": [
+    6155011
+   ],
+   "children": []
+  },
+  "6155011": {
+   "name": "Teologi_cattolici",
+   "parents": [
+    1672040,
+    2778896
+   ],
+   "children": [
+    459028
+   ]
+  },
   "459040": {
    "name": "Bolle_pontificie",
    "parents": [
@@ -45085,6 +45074,7 @@
   "3271631": {
    "name": "Super_sentai",
    "parents": [
+    3172359,
     2946818
    ],
    "children": [
@@ -48035,16 +48025,6 @@
     3327675
    ]
   },
-  "4122147": {
-   "name": "Personalità_del_protestantesimo",
-   "parents": [
-    65563
-   ],
-   "children": [
-    2905875,
-    2371413
-   ]
-  },
   "498037": {
    "name": "Ostrogoti",
    "parents": [
@@ -49494,26 +49474,14 @@
     6485450
    ]
   },
-  "523261": {
-   "name": "Architetture_di_Urbino",
-   "parents": [
-    523345
-   ],
-   "children": [
-    4574642,
-    5061202,
-    2102014
-   ]
-  },
   "523345": {
    "name": "Urbino",
    "parents": [
     3275311
    ],
    "children": [
-    4713973,
     5284571,
-    523261,
+    4713973,
     5304326
    ]
   },
@@ -49584,6 +49552,7 @@
    "children": [
     9606155,
     3183148,
+    9900229,
     5727398
    ]
   },
@@ -50675,8 +50644,9 @@
     722495
    ],
    "children": [
-    1881785,
     8109185,
+    5928464,
+    1881785,
     8109180,
     4041917
    ]
@@ -51825,19 +51795,6 @@
    ],
    "children": []
   },
-  "570877": {
-   "name": "Trasporti_in_Spagna",
-   "parents": [
-    617781
-   ],
-   "children": [
-    1380354,
-    1899876,
-    1299492,
-    3274791,
-    1822290
-   ]
-  },
   "571310": {
    "name": "Sport_a_Genova",
    "parents": [
@@ -52076,6 +52033,7 @@
     3628301,
     576754,
     3762838,
+    6044538,
     5299099,
     3409020
    ]
@@ -52693,7 +52651,8 @@
    ],
    "children": [
     3763089,
-    7693564
+    7693564,
+    4796409
    ]
   },
   "2730693": {
@@ -53053,6 +53012,17 @@
     8706196
    ]
   },
+  "601414": {
+   "name": "Università_di_Bologna",
+   "parents": [
+    3394920
+   ],
+   "children": [
+    6328130,
+    5895902,
+    4877390
+   ]
+  },
   "3394920": {
    "name": "Gruppo_di_Coimbra",
    "parents": [
@@ -53063,17 +53033,6 @@
     1703897,
     5227427,
     601414
-   ]
-  },
-  "601414": {
-   "name": "Università_di_Bologna",
-   "parents": [
-    3394920
-   ],
-   "children": [
-    6328130,
-    5895902,
-    4877390
    ]
   },
   "601630": {
@@ -53654,6 +53613,7 @@
     1720902
    ],
    "children": [
+    9899202,
     4273446,
     4281873,
     4393880,
@@ -53968,6 +53928,7 @@
    ],
    "children": [
     4207873,
+    9896066,
     2558759,
     5739559,
     8999561,
@@ -54722,7 +54683,6 @@
   "625099": {
    "name": "Diritto_bancario",
    "parents": [
-    47358,
     65814,
     5286633
    ],
@@ -55973,6 +55933,7 @@
     4399533
    ],
    "children": [
+    9902939,
     4094043,
     644780
    ]
@@ -56674,6 +56635,7 @@
     5696701
    ],
    "children": [
+    4239282,
     4220282,
     5174884
    ]
@@ -57719,7 +57681,9 @@
     1882090
    ],
    "children": [
-    4539819
+    9899458,
+    4539819,
+    9899459
    ]
   },
   "681841": {
@@ -61047,7 +61011,8 @@
     3660322,
     770219,
     9732044,
-    7046382
+    7046382,
+    9903933
    ]
   },
   "770219": {
@@ -62720,6 +62685,7 @@
    ],
    "children": [
     2003360,
+    9899202,
     3741225,
     2724719,
     5205880,
@@ -62871,8 +62837,7 @@
    "children": [
     5248016,
     5248040,
-    5248059,
-    5248071
+    5248059
    ]
   },
   "830636": {
@@ -64950,6 +64915,7 @@
     8244431
    ],
    "children": [
+    1855936,
     1607201,
     5492418,
     2040484,
@@ -65679,6 +65645,7 @@
     8653664,
     9771040,
     884425,
+    1798796,
     1219056,
     5309393,
     2116058
@@ -70086,6 +70053,7 @@
    ],
    "children": [
     7784392,
+    9890729,
     9890731
    ]
   },
@@ -70386,6 +70354,7 @@
    "children": [
     3659809,
     3705314,
+    3183139,
     3212518,
     3603887
    ]
@@ -73950,20 +73919,6 @@
     3092978
    ]
   },
-  "1239037": {
-   "name": "Stati_del_Sacro_Romano_Impero",
-   "parents": [
-    1396824,
-    65867
-   ],
-   "children": [
-    4071137,
-    8647592,
-    3086635,
-    2613213,
-    4000543
-   ]
-  },
   "1239281": {
    "name": "David_di_Donatello_per_il_miglior_film",
    "parents": [
@@ -76020,15 +75975,6 @@
    ],
    "children": []
   },
-  "1299492": {
-   "name": "Ponti_della_Spagna",
-   "parents": [
-    570877
-   ],
-   "children": [
-    5213132
-   ]
-  },
   "1302044": {
    "name": "Duchi_di_Lorena",
    "parents": [
@@ -76352,8 +76298,9 @@
     2312073
    ],
    "children": [
-    4431560,
-    6163440
+    4431552,
+    6163440,
+    4431560
    ]
   },
   "2312073": {
@@ -79269,15 +79216,6 @@
     8669253
    ]
   },
-  "1380354": {
-   "name": "Compagnie_aeree_spagnole",
-   "parents": [
-    570877
-   ],
-   "children": [
-    8816215
-   ]
-  },
   "1380732": {
    "name": "Re_mitologici_di_Svezia",
    "parents": [
@@ -81137,7 +81075,8 @@
     108710
    ],
    "children": [
-    1440770
+    1440770,
+    9900803
    ]
   },
   "1441004": {
@@ -82133,6 +82072,7 @@
    "children": [
     9431136,
     1475906,
+    9890787,
     1475909,
     5767660,
     8962842
@@ -83979,6 +83919,16 @@
    ],
    "children": []
   },
+  "4122147": {
+   "name": "Personalità_del_protestantesimo",
+   "parents": [
+    65563
+   ],
+   "children": [
+    2905875,
+    2371413
+   ]
+  },
   "5696723": {
    "name": "Debugging",
    "parents": [
@@ -84854,20 +84804,6 @@
    ],
    "children": []
   },
-  "1548196": {
-   "name": "Trafori_stradali_in_Svizzera",
-   "parents": [
-    415418
-   ],
-   "children": []
-  },
-  "1548204": {
-   "name": "Trafori_ferroviari_in_Svizzera",
-   "parents": [
-    315237
-   ],
-   "children": []
-  },
   "3308555": {
    "name": "Cucina_norvegese",
    "parents": [
@@ -85066,15 +85002,7 @@
   "1553969": {
    "name": "Trafori_ferroviari_in_Italia",
    "parents": [
-    315237,
     2877392
-   ],
-   "children": []
-  },
-  "1554012": {
-   "name": "Trafori_ferroviari_in_Austria",
-   "parents": [
-    315237
    ],
    "children": []
   },
@@ -85813,6 +85741,13 @@
    "name": "Film_di_Sherlock_Holmes",
    "parents": [
     58645
+   ],
+   "children": []
+  },
+  "4796409": {
+   "name": "Architetture_di_Bratislava",
+   "parents": [
+    591257
    ],
    "children": []
   },
@@ -89791,13 +89726,6 @@
     4612470
    ]
   },
-  "1704799": {
-   "name": "Personaggi_di_Alice_nel_Paese_delle_Meraviglie",
-   "parents": [
-    85478
-   ],
-   "children": []
-  },
   "1705167": {
    "name": "Film_sulla_mafia",
    "parents": [
@@ -91089,6 +91017,7 @@
   "1738054": {
    "name": "Principi_del_Liechtenstein",
    "parents": [
+    72882,
     3894111
    ],
    "children": []
@@ -91852,8 +91781,9 @@
     2494957
    ],
    "children": [
-    4141265,
+    9896066,
     6193835,
+    4141265,
     6349533,
     4355390
    ]
@@ -93690,6 +93620,14 @@
     7594303
    ]
   },
+  "1798796": {
+   "name": "Centri_spaziali_russi",
+   "parents": [
+    66758,
+    1798785
+   ],
+   "children": []
+  },
   "1798810": {
    "name": "Documenti_pontifici_su_Maria",
    "parents": [
@@ -94430,24 +94368,9 @@
   "1822288": {
    "name": "Società_ferroviarie_spagnole",
    "parents": [
-    315289,
-    1822290
+    315289
    ],
    "children": []
-  },
-  "1822290": {
-   "name": "Ferrovie_in_Spagna",
-   "parents": [
-    570877
-   ],
-   "children": [
-    4344768,
-    6216744,
-    3289965,
-    1822288,
-    2575573,
-    3662969
-   ]
   },
   "1822483": {
    "name": "Sistemi_di_bigliettazione_elettronica",
@@ -95519,6 +95442,13 @@
    "name": "Lingue_creole_africane",
    "parents": [
     1896659
+   ],
+   "children": []
+  },
+  "1855936": {
+   "name": "Minturno",
+   "parents": [
+    3631543
    ],
    "children": []
   },
@@ -97464,15 +97394,6 @@
    ],
    "children": []
   },
-  "1899876": {
-   "name": "Strade_della_Spagna",
-   "parents": [
-    570877
-   ],
-   "children": [
-    2948291
-   ]
-  },
   "1899926": {
    "name": "Piazze_di_Stoccolma",
    "parents": [
@@ -98612,7 +98533,6 @@
     901069
    ],
    "children": [
-    6412256,
     3984777
    ]
   },
@@ -99279,6 +99199,7 @@
    ],
    "children": [
     8675525,
+    2104584,
     4265965,
     4699091,
     2947252,
@@ -99701,51 +99622,6 @@
    ],
    "children": []
   },
-  "6158860": {
-   "name": "Competizioni_di_lotta",
-   "parents": [
-    73743
-   ],
-   "children": [
-    2442982,
-    7899399,
-    6820264,
-    4919914,
-    9178090,
-    1947887,
-    8910196,
-    9362836,
-    4688477
-   ]
-  },
-  "1947887": {
-   "name": "Lotta_ai_Giochi_olimpici",
-   "parents": [
-    6158860
-   ],
-   "children": [
-    4894086,
-    1951118,
-    7619342,
-    5285143,
-    4480558,
-    4123701,
-    5099830,
-    4522178,
-    4949189,
-    5965383,
-    4615499,
-    4679116,
-    5871190,
-    6476502,
-    4789860,
-    9028070,
-    6026216,
-    8245609,
-    4467055,
-    1962749
-   ]
-  },
   "1947888": {
    "name": "Nuoto_ai_Giochi_olimpici",
    "parents": [
@@ -99800,6 +99676,7 @@
     4036790,
     4129751,
     4910934,
+    9905046,
     9029309,
     5905790
    ]
@@ -99899,13 +99776,6 @@
    "name": "Antispastici",
    "parents": [
     3530159
-   ],
-   "children": []
-  },
-  "1951118": {
-   "name": "Lotta_ai_Giochi_della_XXVIII_Olimpiade",
-   "parents": [
-    1947887
    ],
    "children": []
   },
@@ -100421,13 +100291,6 @@
    ],
    "children": []
   },
-  "1962749": {
-   "name": "Lotta_ai_Giochi_della_XXIX_Olimpiade",
-   "parents": [
-    1947887
-   ],
-   "children": []
-  },
   "1962793": {
    "name": "Stazioni_meteorologiche_della_provincia_di_Bolzano",
    "parents": [
@@ -100535,10 +100398,7 @@
    "parents": [
     691405
    ],
-   "children": [
-    6412256,
-    8877343
-   ]
+   "children": []
   },
   "1964854": {
    "name": "Itineraria",
@@ -101762,6 +101622,13 @@
    ],
    "children": []
   },
+  "1992111": {
+   "name": "Ponti_romani_di_Roma",
+   "parents": [
+    319516
+   ],
+   "children": []
+  },
   "3818605": {
    "name": "Armée_de_terre",
    "parents": [
@@ -102962,7 +102829,9 @@
    "parents": [
     2121997
    ],
-   "children": []
+   "children": [
+    4186152
+   ]
   },
   "2121997": {
    "name": "Emerson,_Lake_&_Palmer",
@@ -102970,7 +102839,6 @@
     2475161
    ],
    "children": [
-    4186152,
     2443426,
     2443443,
     2028919
@@ -103624,9 +103492,11 @@
     4648383,
     2246852,
     2246980,
+    2246989,
     2283730,
     3429331,
     2384726,
+    9872471,
     5971803,
     2247260,
     2246879,
@@ -104544,6 +104414,7 @@
     1194570
    ],
    "children": [
+    9899841,
     2080338
    ]
   },
@@ -105120,13 +104991,6 @@
     4894422
    ]
   },
-  "2102014": {
-   "name": "Chiese_di_Urbino",
-   "parents": [
-    523261
-   ],
-   "children": []
-  },
   "2102151": {
    "name": "Partecipazio",
    "parents": [
@@ -105183,10 +105047,10 @@
    ],
    "children": []
   },
-  "2104615": {
-   "name": "Trafori_stradali_in_Italia",
+  "2104584": {
+   "name": "Trafori_stradali_in_Francia",
    "parents": [
-    415418
+    1941438
    ],
    "children": []
   },
@@ -108109,13 +107973,6 @@
    ],
    "children": []
   },
-  "7488699": {
-   "name": "Sport_a_Nyon",
-   "parents": [
-    7488701
-   ],
-   "children": []
-  },
   "2222312": {
    "name": "Campionati_europei_di_canottaggio",
    "parents": [
@@ -108315,10 +108172,7 @@
    "parents": [
     338647
    ],
-   "children": [
-    6011218,
-    8764740
-   ]
+   "children": []
   },
   "2228202": {
    "name": "Marwanidi",
@@ -109071,6 +108925,13 @@
    ],
    "children": []
   },
+  "2246989": {
+   "name": "Brani_musicali_di_Edoardo_Bennato",
+   "parents": [
+    3033538
+   ],
+   "children": []
+  },
   "2246994": {
    "name": "Brani_musicali_di_Elton_John",
    "parents": [
@@ -109203,7 +109064,9 @@
     543305,
     2436606
    ],
-   "children": []
+   "children": [
+    9866145
+   ]
   },
   "2247772": {
    "name": "Brani_musicali_folk",
@@ -109867,10 +109730,11 @@
     58836
    ],
    "children": [
-    2387152,
-    2387065,
+    9901273,
     2679879,
-    2274999
+    2387152,
+    2274999,
+    2387065
    ]
   },
   "2275172": {
@@ -110401,6 +110265,7 @@
     2529248,
     2529250,
     2529506,
+    3183139,
     2529253,
     2529529,
     2529550,
@@ -110451,6 +110316,7 @@
    ],
    "children": [
     5603123,
+    5290229,
     4756094,
     2580231
    ]
@@ -112864,6 +112730,7 @@
     2436605
    ],
    "children": [
+    4772388,
     3155965
    ]
   },
@@ -114002,9 +113869,9 @@
   "2877503": {
    "name": "Piccoli_brividi",
    "parents": [
-    5143008,
     3810210,
-    4395583
+    4395583,
+    5143008
    ],
    "children": [
     2411764
@@ -114913,13 +114780,6 @@
    "children": [
     2442646
    ]
-  },
-  "2442982": {
-   "name": "Lotta_ai_Giochi_del_Mediterraneo",
-   "parents": [
-    6158860
-   ],
-   "children": []
   },
   "2442985": {
    "name": "Nuoto_ai_XVI_Giochi_del_Mediterraneo",
@@ -118765,7 +118625,8 @@
    "children": [
     6675785,
     3245649,
-    2564091
+    2564091,
+    9809811
    ]
   },
   "2564701": {
@@ -119051,17 +118912,6 @@
     2817105,
     2817108,
     3079606
-   ]
-  },
-  "2575573": {
-   "name": "Stazioni_ferroviarie_della_Spagna",
-   "parents": [
-    1822290
-   ],
-   "children": [
-    9508161,
-    6654358,
-    9816806
    ]
   },
   "2576543": {
@@ -126045,7 +125895,9 @@
     1082646,
     936241
    ],
-   "children": []
+   "children": [
+    9899202
+   ]
   },
   "2816768": {
    "name": "Costituzione_del_Regno_Unito",
@@ -127439,6 +127291,18 @@
    ],
    "children": [
     6061601,
+    2877503
+   ]
+  },
+  "5143008": {
+   "name": "Romanzi_per_ragazzi",
+   "parents": [
+    278947
+   ],
+   "children": [
+    6061601,
+    9643124,
+    4524902,
     2877503
    ]
   },
@@ -128956,13 +128820,6 @@
    "children": [
     4129524
    ]
-  },
-  "2948291": {
-   "name": "Autostrade_in_Spagna",
-   "parents": [
-    1899876
-   ],
-   "children": []
   },
   "2948739": {
    "name": "Rāmāyaṇa",
@@ -131338,6 +131195,7 @@
     63095
    ],
    "children": [
+    9894800,
     8465703
    ]
   },
@@ -135405,6 +135263,14 @@
    ],
    "children": []
   },
+  "3183139": {
+   "name": "Bestiari",
+   "parents": [
+    1139020,
+    2296606
+   ],
+   "children": []
+  },
   "3183148": {
    "name": "Santi_agostiniani",
    "parents": [
@@ -135503,6 +135369,13 @@
    "name": "Trattati_della_Norvegia",
    "parents": [
     219535
+   ],
+   "children": []
+  },
+  "3191428": {
+   "name": "Trattati_della_Corea",
+   "parents": [
+    56537
    ],
    "children": []
   },
@@ -138406,15 +138279,6 @@
    ],
    "children": []
   },
-  "3274791": {
-   "name": "Aeroporti_della_Spagna",
-   "parents": [
-    570877
-   ],
-   "children": [
-    8861623
-   ]
-  },
   "3274793": {
    "name": "Aeroporti_della_Svizzera",
    "parents": [
@@ -138475,6 +138339,13 @@
    "name": "Patrimoni_dell'umanità_dell'Armenia",
    "parents": [
     80111
+   ],
+   "children": []
+  },
+  "3275166": {
+   "name": "Patrimoni_dell'umanità_della_Cambogia",
+   "parents": [
+    75372
    ],
    "children": []
   },
@@ -138962,16 +138833,6 @@
     1202671
    ],
    "children": []
-  },
-  "3289965": {
-   "name": "Tranvie_in_Spagna",
-   "parents": [
-    1822290
-   ],
-   "children": [
-    7884853,
-    6881702
-   ]
   },
   "3291359": {
    "name": "Suicidio_e_religione",
@@ -147035,9 +146896,20 @@
   "3656794": {
    "name": "Dipinti_sul_circo",
    "parents": [
-    4374087
+    4374087,
+    9872543
    ],
    "children": []
+  },
+  "9872543": {
+   "name": "Opere_sul_circo",
+   "parents": [
+    328956
+   ],
+   "children": [
+    9374906,
+    3656794
+   ]
   },
   "8010260": {
    "name": "Censura_di_Internet",
@@ -147295,7 +147167,6 @@
   "3662969": {
    "name": "Servizi_ferroviari_suburbani_in_Spagna",
    "parents": [
-    1822290,
     1944256
    ],
    "children": [
@@ -147426,13 +147297,6 @@
     9890761,
     9890759
    ]
-  },
-  "3667684": {
-   "name": "Fumettisti_tedeschi",
-   "parents": [
-    1528365
-   ],
-   "children": []
   },
   "3667958": {
    "name": "Stagioni_di_Hawaii_Five-0",
@@ -150857,7 +150721,8 @@
     3828376
    ],
    "children": [
-    3829953
+    3829953,
+    9902939
    ]
   },
   "3830023": {
@@ -151916,9 +151781,19 @@
   "3863353": {
    "name": "Interior_designer_italiani",
    "parents": [
-    623548
+    623548,
+    3863376
    ],
    "children": []
+  },
+  "3863376": {
+   "name": "Interior_designer",
+   "parents": [
+    3111008
+   ],
+   "children": [
+    3863353
+   ]
   },
   "3863355": {
    "name": "Singoli_dei_2PM",
@@ -152165,7 +152040,9 @@
    "parents": [
     3818602
    ],
-   "children": []
+   "children": [
+    3982728
+   ]
   },
   "3872747": {
    "name": "Reggimenti_dell'United_States_Army",
@@ -154757,6 +154634,13 @@
    ],
    "children": []
   },
+  "3982728": {
+   "name": "Reggimenti_di_cavalleria_britannici",
+   "parents": [
+    3872714
+   ],
+   "children": []
+  },
   "3982746": {
    "name": "Reggimenti_di_cavalleria_dell'Esercito_italiano",
    "parents": [
@@ -155376,28 +155260,27 @@
     9198132
    ]
   },
-  "4002508": {
-   "name": "Guerra_del_Nagorno_Karabakh",
+  "9896066": {
+   "name": "Conflitto_del_Nagorno_Karabakh",
    "parents": [
     4207873,
+    613670,
+    1750877,
     4141265
    ],
    "children": [
-    4374641,
-    4374636
+    4374636,
+    4002508,
+    9896062
    ]
   },
-  "4141265": {
-   "name": "Storia_del_Nagorno_Karabakh",
+  "4002508": {
+   "name": "Prima_guerra_del_Nagorno_Karabakh",
    "parents": [
-    307532,
-    337054,
-    2494957,
-    1750877,
-    4141239
+    9896066
    ],
    "children": [
-    4002508
+    4374641
    ]
   },
   "4002696": {
@@ -155474,7 +155357,8 @@
    "children": [
     4003752,
     9328057,
-    9328058
+    9328058,
+    9902939
    ]
   },
   "4003752": {
@@ -158739,13 +158623,6 @@
    ],
    "children": []
   },
-  "4123701": {
-   "name": "Lotta_ai_Giochi_della_XXX_Olimpiade",
-   "parents": [
-    1947887
-   ],
-   "children": []
-  },
   "4123972": {
    "name": "Malines",
    "parents": [
@@ -159226,6 +159103,19 @@
    ],
    "children": [
     4141230
+   ]
+  },
+  "4141265": {
+   "name": "Storia_del_Nagorno_Karabakh",
+   "parents": [
+    307532,
+    337054,
+    2494957,
+    1750877,
+    4141239
+   ],
+   "children": [
+    9896066
    ]
   },
   "4141470": {
@@ -160288,7 +160178,7 @@
   "4186152": {
    "name": "Album_video_degli_Emerson,_Lake_&_Palmer",
    "parents": [
-    2121997
+    2028919
    ],
    "children": []
   },
@@ -161417,6 +161307,13 @@
    "parents": [
     2073250,
     823466
+   ],
+   "children": []
+  },
+  "4239282": {
+   "name": "Compilatori_proprietari",
+   "parents": [
+    662949
    ],
    "children": []
   },
@@ -162894,6 +162791,7 @@
     5258284,
     4299501,
     9060849,
+    6351797,
     4381366,
     4553082
    ]
@@ -162928,21 +162826,13 @@
    ],
    "children": []
   },
-  "4301222": {
-   "name": "Nati_a_Schladming",
-   "parents": [
-    4301226
-   ],
-   "children": []
-  },
   "4301226": {
    "name": "Schladming",
    "parents": [
     108721
    ],
    "children": [
-    8032517,
-    4301222
+    8032517
    ]
   },
   "4301258": {
@@ -163775,8 +163665,7 @@
   "4344768": {
    "name": "Alta_velocità_in_Spagna",
    "parents": [
-    1246296,
-    1822290
+    1246296
    ],
    "children": []
   },
@@ -164810,10 +164699,10 @@
    "children": []
   },
   "4374636": {
-   "name": "Trattative_di_pace_nella_guerra_del_Nagorno_Karabakh",
+   "name": "Trattative_di_pace_nel_conflitto_del_Nagorno_Karabakh",
    "parents": [
     118002,
-    4002508
+    9896066
    ],
    "children": []
   },
@@ -166006,12 +165895,22 @@
    ],
    "children": []
   },
+  "4431552": {
+   "name": "Primi_ministri_dell'Azerbaigian",
+   "parents": [
+    1308879,
+    6163440
+   ],
+   "children": []
+  },
   "6163440": {
    "name": "Parlamentari_azeri",
    "parents": [
     1308879
    ],
-   "children": []
+   "children": [
+    4431552
+   ]
   },
   "4431560": {
    "name": "Presidenti_dell'Azerbaigian",
@@ -166486,13 +166385,6 @@
    ],
    "children": []
   },
-  "4467055": {
-   "name": "Lotta_ai_Giochi_della_III_Olimpiade",
-   "parents": [
-    1947887
-   ],
-   "children": []
-  },
   "4468021": {
    "name": "Dolci_di_San_Giuseppe",
    "parents": [
@@ -166723,13 +166615,6 @@
    ],
    "children": []
   },
-  "4480558": {
-   "name": "Lotta_ai_Giochi_della_IV_Olimpiade",
-   "parents": [
-    1947887
-   ],
-   "children": []
-  },
   "4480729": {
    "name": "SIP_(azienda)",
    "parents": [
@@ -166751,6 +166636,13 @@
    "name": "Nuoto_ai_Giochi_della_IV_Olimpiade",
    "parents": [
     1947888
+   ],
+   "children": []
+  },
+  "4481564": {
+   "name": "Gmunden",
+   "parents": [
+    108721
    ],
    "children": []
   },
@@ -167705,13 +167597,6 @@
    "name": "Stagioni_di_The_Andy_Griffith_Show",
    "parents": [
     1202671
-   ],
-   "children": []
-  },
-  "4522178": {
-   "name": "Lotta_ai_Giochi_della_V_Olimpiade",
-   "parents": [
-    1947887
    ],
    "children": []
   },
@@ -169050,13 +168935,6 @@
    ],
    "children": []
   },
-  "4574642": {
-   "name": "Palazzi_di_Urbino",
-   "parents": [
-    523261
-   ],
-   "children": []
-  },
   "4574672": {
    "name": "Corner",
    "parents": [
@@ -170101,13 +169979,6 @@
    ],
    "children": []
   },
-  "4615499": {
-   "name": "Lotta_ai_Giochi_della_VII_Olimpiade",
-   "parents": [
-    1947887
-   ],
-   "children": []
-  },
   "4615528": {
    "name": "Funzionari_russi",
    "parents": [
@@ -170738,19 +170609,9 @@
   "4636361": {
    "name": "Stazioni_di_Cercanías_di_Madrid",
    "parents": [
-    3805285,
-    8861612
+    3805285
    ],
    "children": []
-  },
-  "8861612": {
-   "name": "Stazioni_ferroviarie_di_Madrid",
-   "parents": [
-    9816806
-   ],
-   "children": [
-    4636361
-   ]
   },
   "4636771": {
    "name": "Terra_del_Fuoco",
@@ -171734,13 +171595,6 @@
     6002622
    ]
   },
-  "4679116": {
-   "name": "Lotta_ai_Giochi_della_VIII_Olimpiade",
-   "parents": [
-    1947887
-   ],
-   "children": []
-  },
   "4679227": {
    "name": "Sinagoghe_della_Francia",
    "parents": [
@@ -171942,13 +171796,6 @@
    "parents": [
     1602870,
     6454007
-   ],
-   "children": []
-  },
-  "4688477": {
-   "name": "Campionati_mondiali_di_lotta",
-   "parents": [
-    6158860
    ],
    "children": []
   },
@@ -173656,7 +173503,6 @@
   "4762017": {
    "name": "Fumettisti_trattanti_tematiche_LGBT",
    "parents": [
-    3667185,
     639454
    ],
    "children": []
@@ -173852,6 +173698,13 @@
    ],
    "children": []
   },
+  "4772388": {
+   "name": "Singoli_hard_trance",
+   "parents": [
+    2372718
+   ],
+   "children": []
+  },
   "4773967": {
    "name": "Opere_su_Dante_Alighieri",
    "parents": [
@@ -173928,6 +173781,13 @@
    "name": "Software_per_AmigaOS",
    "parents": [
     72097
+   ],
+   "children": []
+  },
+  "4780826": {
+   "name": "Kunsthalle",
+   "parents": [
+    3783825
    ],
    "children": []
   },
@@ -174087,13 +173947,6 @@
    "name": "Lemno",
    "parents": [
     7659373
-   ],
-   "children": []
-  },
-  "4789860": {
-   "name": "Lotta_ai_Giochi_della_IX_Olimpiade",
-   "parents": [
-    1947887
    ],
    "children": []
   },
@@ -176531,13 +176384,6 @@
    ],
    "children": []
   },
-  "4894086": {
-   "name": "Lotta_ai_Giochi_della_X_Olimpiade",
-   "parents": [
-    1947887
-   ],
-   "children": []
-  },
   "4894422": {
    "name": "Fazzoletti",
    "parents": [
@@ -177425,8 +177271,7 @@
   "4919914": {
    "name": "Campionati_europei_di_lotta",
    "parents": [
-    2929818,
-    6158860
+    2929818
    ],
    "children": []
   },
@@ -178054,13 +177899,6 @@
    ],
    "children": []
   },
-  "4949189": {
-   "name": "Lotta_ai_Giochi_della_XI_Olimpiade",
-   "parents": [
-    1947887
-   ],
-   "children": []
-  },
   "4949694": {
    "name": "Attori_sordi",
    "parents": [
@@ -178633,13 +178471,6 @@
    "children": [
     4979273
    ]
-  },
-  "4978526": {
-   "name": "Template_di_navigazione_-_fumettisti",
-   "parents": [
-    3667185
-   ],
-   "children": []
   },
   "4980726": {
    "name": "Campionati_europei_di_atletica_leggera_2014",
@@ -179876,13 +179707,6 @@
     5059920
    ]
   },
-  "5061202": {
-   "name": "Architetture_rinascimentali_di_Urbino",
-   "parents": [
-    523261
-   ],
-   "children": []
-  },
   "5063072": {
    "name": "Romanzo_di_Alessandro",
    "parents": [
@@ -180228,13 +180052,6 @@
    "parents": [
     475496,
     7661430
-   ],
-   "children": []
-  },
-  "5099830": {
-   "name": "Lotta_ai_Giochi_della_XIV_Olimpiade",
-   "parents": [
-    1947887
    ],
    "children": []
   },
@@ -181544,7 +181361,6 @@
   "5213132": {
    "name": "Ponti_romani_della_Spagna",
    "parents": [
-    1299492,
     3845261
    ],
    "children": []
@@ -182329,13 +182145,6 @@
   },
   "5248059": {
    "name": "Musei_di_arte_contemporanea_della_Germania",
-   "parents": [
-    830631
-   ],
-   "children": []
-  },
-  "5248071": {
-   "name": "Musei_di_arte_contemporanea_della_Svizzera",
    "parents": [
     830631
    ],
@@ -183219,13 +183028,6 @@
    ],
    "children": []
   },
-  "5285143": {
-   "name": "Lotta_ai_Giochi_della_XV_Olimpiade",
-   "parents": [
-    1947887
-   ],
-   "children": []
-  },
   "5285333": {
    "name": "Burro",
    "parents": [
@@ -183316,6 +183118,13 @@
    "name": "Comunisti_in_Azerbaigian",
    "parents": [
     2312073
+   ],
+   "children": []
+  },
+  "5290229": {
+   "name": "Dipinti_di_Élisabeth_Vigée_Le_Brun",
+   "parents": [
+    2296801
    ],
    "children": []
   },
@@ -191629,13 +191438,6 @@
    ],
    "children": []
   },
-  "5871190": {
-   "name": "Lotta_ai_Giochi_della_XVI_Olimpiade",
-   "parents": [
-    1947887
-   ],
-   "children": []
-  },
   "5871264": {
    "name": "Programmazione_logica",
    "parents": [
@@ -192447,6 +192249,13 @@
    ],
    "children": []
   },
+  "5928464": {
+   "name": "Campionati_europei_di_nuoto_paralimpico",
+   "parents": [
+    543888
+   ],
+   "children": []
+  },
   "5928932": {
    "name": "Naz-Sciaves",
    "parents": [
@@ -192787,13 +192596,6 @@
     45351,
     58496,
     539488
-   ],
-   "children": []
-  },
-  "5965383": {
-   "name": "Lotta_ai_Giochi_della_XVII_Olimpiade",
-   "parents": [
-    1947887
    ],
    "children": []
   },
@@ -193225,8 +193027,7 @@
   "6011218": {
    "name": "Architettura_fatimide",
    "parents": [
-    559475,
-    2228133
+    559475
    ],
    "children": []
   },
@@ -193347,13 +193148,6 @@
    "name": "Vela_ai_Giochi_della_XVII_Olimpiade",
    "parents": [
     1951132
-   ],
-   "children": []
-  },
-  "6026216": {
-   "name": "Lotta_ai_Giochi_della_XXXI_Olimpiade",
-   "parents": [
-    1947887
    ],
    "children": []
   },
@@ -193492,6 +193286,13 @@
    ],
    "children": []
   },
+  "6044538": {
+   "name": "Canzoni_abruzzesi",
+   "parents": [
+    2384726
+   ],
+   "children": []
+  },
   "6045084": {
    "name": "White_Fox",
    "parents": [
@@ -193591,8 +193392,8 @@
   "6061601": {
    "name": "Super_brividi",
    "parents": [
-    5143008,
-    4395583
+    4395583,
+    5143008
    ],
    "children": []
   },
@@ -194554,14 +194355,6 @@
    ],
    "children": []
   },
-  "6155011": {
-   "name": "Teologi_cattolici",
-   "parents": [
-    1672040,
-    2778896
-   ],
-   "children": []
-  },
   "6155224": {
    "name": "Fauna_endemica_di_Mauritius",
    "parents": [
@@ -195372,13 +195165,6 @@
    "name": "Wandsworth",
    "parents": [
     1298920
-   ],
-   "children": []
-  },
-  "6216744": {
-   "name": "Linee_ferroviarie_in_Spagna",
-   "parents": [
-    1822290
    ],
    "children": []
   },
@@ -197163,13 +196949,6 @@
     8074422
    ]
   },
-  "6337458": {
-   "name": "Trafori_ferroviari_negli_Stati_Uniti_d'America",
-   "parents": [
-    315237
-   ],
-   "children": []
-  },
   "6338103": {
    "name": "View-Master",
    "parents": [
@@ -197360,6 +197139,13 @@
    "name": "Repubblica_Socialista_Sovietica_Estone",
    "parents": [
     3881759
+   ],
+   "children": []
+  },
+  "6351797": {
+   "name": "Morti_nel_campo_di_sterminio_di_Treblinka",
+   "parents": [
+    4299512
    ],
    "children": []
   },
@@ -198468,14 +198254,6 @@
    ],
    "children": []
   },
-  "6412256": {
-   "name": "Mosaici_romani",
-   "parents": [
-    1929035,
-    1964784
-   ],
-   "children": []
-  },
   "8302984": {
    "name": "Teoremi_di_matematica",
    "parents": [
@@ -199374,13 +199152,6 @@
    "name": "Competizioni_calcistiche_italiane_durante_periodi_bellici",
    "parents": [
     630727
-   ],
-   "children": []
-  },
-  "6476502": {
-   "name": "Lotta_ai_Giochi_della_XVIII_Olimpiade",
-   "parents": [
-    1947887
    ],
    "children": []
   },
@@ -200959,13 +200730,6 @@
    ],
    "children": []
   },
-  "6654358": {
-   "name": "Stazioni_ferroviarie_soppresse_della_Spagna",
-   "parents": [
-    2575573
-   ],
-   "children": []
-  },
   "6654513": {
    "name": "Discoteche_in_Italia",
    "parents": [
@@ -202203,13 +201967,6 @@
    ],
    "children": []
   },
-  "6820264": {
-   "name": "Campionati_asiatici_di_lotta",
-   "parents": [
-    6158860
-   ],
-   "children": []
-  },
   "6829078": {
    "name": "World_Music_Award",
    "parents": [
@@ -202257,13 +202014,6 @@
    "name": "Formati_di_schede_madri",
    "parents": [
     6881509
-   ],
-   "children": []
-  },
-  "6881702": {
-   "name": "Rete_tranviaria_di_Madrid",
-   "parents": [
-    3289965
    ],
    "children": []
   },
@@ -203602,9 +203352,7 @@
    "parents": [
     51041
    ],
-   "children": [
-    7488699
-   ]
+   "children": []
   },
   "7491788": {
    "name": "Abolizionisti_afroamericani",
@@ -204478,13 +204226,6 @@
    ],
    "children": []
   },
-  "7591259": {
-   "name": "Trafori_stradali_in_Norvegia",
-   "parents": [
-    415418
-   ],
-   "children": []
-  },
   "7591375": {
    "name": "Opere_liriche_basate_su_Le_metamorfosi_(Ovidio)",
    "parents": [
@@ -204769,13 +204510,6 @@
    "name": "Abati_dell'abbazia_di_San_Gallo",
    "parents": [
     7618272
-   ],
-   "children": []
-  },
-  "7619342": {
-   "name": "Lotta_ai_Giochi_della_XIX_Olimpiade",
-   "parents": [
-    1947887
    ],
    "children": []
   },
@@ -209142,13 +208876,6 @@
    ],
    "children": []
   },
-  "7884853": {
-   "name": "Rete_tranviaria_di_Valencia",
-   "parents": [
-    3289965
-   ],
-   "children": []
-  },
   "7885724": {
    "name": "Spiritisti",
    "parents": [
@@ -209388,13 +209115,6 @@
    "name": "Piazze_di_Bucarest",
    "parents": [
     4617241
-   ],
-   "children": []
-  },
-  "7899399": {
-   "name": "Campionati_africani_di_lotta",
-   "parents": [
-    6158860
    ],
    "children": []
   },
@@ -210859,7 +210579,9 @@
    "parents": [
     265269
    ],
-   "children": []
+   "children": [
+    8148661
+   ]
   },
   "7996297": {
    "name": "Cocktail_a_base_di_brandy",
@@ -212118,6 +211840,13 @@
     8148625
    ]
   },
+  "8148661": {
+   "name": "Cocktail_a_base_di_crema_di_whisky",
+   "parents": [
+    7996289
+   ],
+   "children": []
+  },
   "8149247": {
    "name": "Margravi_di_Carniola",
    "parents": [
@@ -212784,15 +212513,6 @@
    ],
    "children": []
   },
-  "9816806": {
-   "name": "Stazioni_ferroviarie_di_Madrid_(comunità_autonoma)",
-   "parents": [
-    2575573
-   ],
-   "children": [
-    8861612
-   ]
-  },
   "8214574": {
    "name": "Orlandi_(famiglia)",
    "parents": [
@@ -213247,13 +212967,6 @@
    "name": "Riviste_letterarie_italiane_del_XX_secolo",
    "parents": [
     58309
-   ],
-   "children": []
-  },
-  "8245609": {
-   "name": "Lotta_ai_Giochi_della_XX_Olimpiade",
-   "parents": [
-    1947887
    ],
    "children": []
   },
@@ -213763,7 +213476,10 @@
    "parents": [
     531896
    ],
-   "children": []
+   "children": [
+    9899904,
+    9900765
+   ]
   },
   "8294608": {
    "name": "Sette_savi",
@@ -216662,6 +216378,13 @@
    ],
    "children": []
   },
+  "8573102": {
+   "name": "Storici_militari",
+   "parents": [
+    492082
+   ],
+   "children": []
+  },
   "8886866": {
    "name": "Emigranti_dalla_Germania_nazista",
    "parents": [
@@ -219169,7 +218892,6 @@
   "8764740": {
    "name": "Visir_fatimidi",
    "parents": [
-    2228133,
     8764732
    ],
    "children": []
@@ -219779,7 +219501,6 @@
   "8816215": {
    "name": "Compagnie_aeree_del_passato_spagnole",
    "parents": [
-    1380354,
     2483034
    ],
    "children": []
@@ -220130,13 +219851,6 @@
    ],
    "children": []
   },
-  "8861623": {
-   "name": "Aeroporti_delle_Canarie",
-   "parents": [
-    3274791
-   ],
-   "children": []
-  },
   "8861935": {
    "name": "Stagioni_di_Dr._Sommerfeld_-_Neues_vom_Bülowbogen",
    "parents": [
@@ -220252,13 +219966,6 @@
    "children": [
     8884970
    ]
-  },
-  "8877343": {
-   "name": "Mosaici_in_Turchia",
-   "parents": [
-    1964784
-   ],
-   "children": []
   },
   "8881509": {
    "name": "Affluenti_del_Songhua",
@@ -220419,13 +220126,6 @@
    "name": "Pedali_per_chitarra",
    "parents": [
     1140841
-   ],
-   "children": []
-  },
-  "8910196": {
-   "name": "Campionati_del_Mediterraneo_di_lotta",
-   "parents": [
-    6158860
    ],
    "children": []
   },
@@ -220796,7 +220496,9 @@
    "parents": [
     8956181
    ],
-   "children": []
+   "children": [
+    9903933
+   ]
   },
   "8953271": {
    "name": "Film_inediti",
@@ -221305,13 +221007,6 @@
    ],
    "children": []
   },
-  "9028070": {
-   "name": "Lotta_ai_Giochi_della_XXXII_Olimpiade",
-   "parents": [
-    1947887
-   ],
-   "children": []
-  },
   "9029276": {
    "name": "Medaglie_militari_turche",
    "parents": [
@@ -221415,7 +221110,6 @@
   "9035230": {
    "name": "Fumettisti_underground",
    "parents": [
-    3667185,
     834368
    ],
    "children": []
@@ -222455,8 +222149,7 @@
   "9178090": {
    "name": "Campionati_nordici_di_lotta",
    "parents": [
-    1807542,
-    6158860
+    1807542
    ],
    "children": []
   },
@@ -222722,6 +222415,13 @@
    "name": "Spiriti_dell'aria",
    "parents": [
     3716580
+   ],
+   "children": []
+  },
+  "9205604": {
+   "name": "Spiriti_dell'acqua",
+   "parents": [
+    1445690
    ],
    "children": []
   },
@@ -223865,13 +223565,6 @@
     9872620
    ]
   },
-  "9362836": {
-   "name": "Campionati_arabi_di_lotta",
-   "parents": [
-    6158860
-   ],
-   "children": []
-  },
   "9364488": {
    "name": "Chiese_della_diocesi_di_Rieti",
    "parents": [
@@ -223926,6 +223619,13 @@
    "parents": [
     912002,
     9374978
+   ],
+   "children": []
+  },
+  "9374906": {
+   "name": "Film_sul_circo",
+   "parents": [
+    9872543
    ],
    "children": []
   },
@@ -224318,6 +224018,13 @@
    ],
    "children": []
   },
+  "9434797": {
+   "name": "Principesse_del_Liechtenstein",
+   "parents": [
+    72882
+   ],
+   "children": []
+  },
   "9435186": {
    "name": "Scismi_nel_cristianesimo",
    "parents": [
@@ -224676,13 +224383,6 @@
    "name": "Thailandesi_della_seconda_guerra_mondiale",
    "parents": [
     9507193
-   ],
-   "children": []
-  },
-  "9508161": {
-   "name": "Stazioni_ferroviarie_della_Galizia",
-   "parents": [
-    2575573
    ],
    "children": []
   },
@@ -225696,8 +225396,8 @@
   "9643124": {
    "name": "Romanzi_gialli_per_ragazzi",
    "parents": [
-    5143008,
-    648591
+    648591,
+    5143008
    ],
    "children": []
   },
@@ -226130,7 +225830,6 @@
   "9708188": {
    "name": "Comandanti_dei_campi_di_concentramento_nazisti",
    "parents": [
-    135877,
     207913
    ],
    "children": []
@@ -226302,7 +226001,9 @@
     7046379,
     8956181
    ],
-   "children": []
+   "children": [
+    9903933
+   ]
   },
   "9734143": {
    "name": "Ministri_della_Serbia",
@@ -226723,6 +226424,14 @@
    ],
    "children": []
   },
+  "9802555": {
+   "name": "Obiettivi_di_sviluppo_sostenibile",
+   "parents": [
+    63159,
+    1537020
+   ],
+   "children": []
+  },
   "9803438": {
    "name": "Vincenzo_Scamozzi",
    "parents": [
@@ -226786,6 +226495,13 @@
    "children": [
     9816258
    ]
+  },
+  "9809811": {
+   "name": "Biografi_di_Tommaso_d'Aquino",
+   "parents": [
+    4197012
+   ],
+   "children": []
   },
   "9815367": {
    "name": "Sacramentali",
@@ -226931,6 +226647,13 @@
    ],
    "children": []
   },
+  "9866145": {
+   "name": "Brani_musicali_italo_disco",
+   "parents": [
+    2247770
+   ],
+   "children": []
+  },
   "9867820": {
    "name": "Principesse_d'Albania",
    "parents": [
@@ -227033,6 +226756,13 @@
    "name": "Cantanti_russi_del_XXI_secolo",
    "parents": [
     148884
+   ],
+   "children": []
+  },
+  "9872471": {
+   "name": "Brani_musicali_dei_Righeira",
+   "parents": [
+    3033538
    ],
    "children": []
   },
@@ -227298,6 +227028,13 @@
    ],
    "children": []
   },
+  "9890729": {
+   "name": "Politici_armeni_del_XXI_secolo",
+   "parents": [
+    1135963
+   ],
+   "children": []
+  },
   "9890731": {
    "name": "Politici_armeni_del_XX_secolo",
    "parents": [
@@ -227316,6 +227053,13 @@
    "name": "Fumettisti_francesi_del_XX_secolo",
    "parents": [
     3667369
+   ],
+   "children": []
+  },
+  "9890787": {
+   "name": "Fumettisti_tedeschi_del_XX_secolo",
+   "parents": [
+    9767814
    ],
    "children": []
   },
@@ -227348,6 +227092,20 @@
    ],
    "children": []
   },
+  "9891642": {
+   "name": "Politici_georgiani_del_XXI_secolo",
+   "parents": [
+    27884
+   ],
+   "children": []
+  },
+  "9891643": {
+   "name": "Politici_georgiani_del_XX_secolo",
+   "parents": [
+    27884
+   ],
+   "children": []
+  },
   "9891917": {
    "name": "Seconda_Fitna",
    "parents": [
@@ -227365,6 +227123,13 @@
    ],
    "children": []
   },
+  "9894800": {
+   "name": "Battaglie_della_terza_crociata",
+   "parents": [
+    3055885
+   ],
+   "children": []
+  },
   "9894841": {
    "name": "Battaglie_della_Reconquista",
    "parents": [
@@ -227377,6 +227142,137 @@
    "name": "Politici_finlandesi_del_XX_secolo",
    "parents": [
     130860
+   ],
+   "children": []
+  },
+  "9896062": {
+   "name": "Seconda_guerra_del_Nagorno_Karabakh",
+   "parents": [
+    9896066
+   ],
+   "children": []
+  },
+  "9896876": {
+   "name": "Politici_estoni_del_XX_secolo",
+   "parents": [
+    357629
+   ],
+   "children": []
+  },
+  "9899202": {
+   "name": "Linux_Day",
+   "parents": [
+    48911,
+    1082646,
+    1087825,
+    829468,
+    2816745
+   ],
+   "children": []
+  },
+  "9899458": {
+   "name": "Politici_thailandesi_del_XXI_secolo",
+   "parents": [
+    681095
+   ],
+   "children": []
+  },
+  "9899459": {
+   "name": "Politici_thailandesi_del_XX_secolo",
+   "parents": [
+    681095
+   ],
+   "children": []
+  },
+  "9899841": {
+   "name": "Premio_Valmor",
+   "parents": [
+    53523,
+    5888506
+   ],
+   "children": []
+  },
+  "9899904": {
+   "name": "Stato_ismailita_nizarita",
+   "parents": [
+    8293343
+   ],
+   "children": []
+  },
+  "9900035": {
+   "name": "Critici_dell'ateismo",
+   "parents": [
+    397400
+   ],
+   "children": []
+  },
+  "9900229": {
+   "name": "Teologi_agostiniani",
+   "parents": [
+    524449
+   ],
+   "children": []
+  },
+  "9900765": {
+   "name": "Buridi",
+   "parents": [
+    338647,
+    8293343
+   ],
+   "children": []
+  },
+  "9900803": {
+   "name": "Conquista_islamica_della_Transoxiana",
+   "parents": [
+    3795415
+   ],
+   "children": []
+  },
+  "9901273": {
+   "name": "Membri_dei_Rolling_Stones",
+   "parents": [
+    2387096
+   ],
+   "children": []
+  },
+  "9902010": {
+   "name": "Storici_della_mafia",
+   "parents": [
+    1505389
+   ],
+   "children": []
+  },
+  "9902939": {
+   "name": "Organizzazione_Gladio",
+   "parents": [
+    2456212,
+    8272457,
+    4003750
+   ],
+   "children": [
+    9902942
+   ]
+  },
+  "9902942": {
+   "name": "Appartenenti_all'Organizzazione_Gladio",
+   "parents": [
+    9902939
+   ],
+   "children": []
+  },
+  "9903933": {
+   "name": "Blood_for_goods",
+   "parents": [
+    7046379,
+    9254517,
+    9732044
+   ],
+   "children": []
+  },
+  "9905046": {
+   "name": "Sollevamento_pesi_ai_Giochi_della_XX_Olimpiade",
+   "parents": [
+    1947910
    ],
    "children": []
   },

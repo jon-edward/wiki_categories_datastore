@@ -249,6 +249,7 @@
     215972,
     298730,
     1276972,
+    18350,
     1372880,
     240086,
     954428,
@@ -954,6 +955,16 @@
     459579,
     181085,
     18334
+   ]
+  },
+  "18350": {
+   "name": "Lentäjät",
+   "parents": [
+    17932
+   ],
+   "children": [
+    997734,
+    1575743
    ]
   },
   "30619": {
@@ -3214,6 +3225,7 @@
     1051014,
     1180420,
     840107,
+    70989,
     296046,
     684015,
     683986,
@@ -4304,7 +4316,6 @@
    "children": [
     210115,
     22278,
-    213322,
     119315,
     170613,
     980474
@@ -8528,6 +8539,7 @@
     484135,
     57295,
     215248,
+    211510,
     30646,
     1477757
    ]
@@ -9279,7 +9291,6 @@
     29192,
     1706056,
     683534,
-    1440374,
     344222
    ]
   },
@@ -9290,10 +9301,7 @@
     19128,
     1603077
    ],
-   "children": [
-    1075401,
-    1666967
-   ]
+   "children": []
   },
   "29194": {
    "name": "Biotekniikka",
@@ -9440,6 +9448,7 @@
     962952,
     1724618,
     1498284,
+    1770413,
     313519,
     55664,
     1067729,
@@ -9764,6 +9773,7 @@
    "children": [
     1687609,
     1730138,
+    1730123,
     1684564
    ]
   },
@@ -10504,6 +10514,7 @@
     30636
    ],
    "children": [
+    1770309,
     330345,
     79852,
     945520,
@@ -10923,6 +10934,7 @@
     164544
    ],
    "children": [
+    1769943,
     158979,
     970760,
     1109147,
@@ -14026,6 +14038,7 @@
     330205
    ],
    "children": [
+    1388146,
     875923,
     81197
    ]
@@ -14212,7 +14225,7 @@
    "children": []
   },
   "46228": {
-   "name": "Talousrikolliset",
+   "name": "Talousrikoksista_tuomitut_henkilöt",
    "parents": [
     38319,
     333955
@@ -15158,6 +15171,7 @@
    "children": [
     701056,
     471299,
+    353540,
     275848,
     557320,
     617741,
@@ -18351,6 +18365,7 @@
     120051
    ],
    "children": [
+    1770309,
     1704647,
     88168,
     444585,
@@ -18770,6 +18785,15 @@
    "children": [
     730921,
     952793
+   ]
+  },
+  "70989": {
+   "name": "Tanssijat",
+   "parents": [
+    21596
+   ],
+   "children": [
+    108868
    ]
   },
   "71210": {
@@ -19406,6 +19430,7 @@
     1116564,
     1380980,
     1176472,
+    1178619,
     512445
    ]
   },
@@ -21309,6 +21334,7 @@
    ],
    "children": [
     1180153,
+    1388146,
     1436799
    ]
   },
@@ -23061,6 +23087,7 @@
   "108868": {
    "name": "Balettitanssijat",
    "parents": [
+    70989,
     108865
    ],
    "children": []
@@ -24080,7 +24107,6 @@
     144732
    ],
    "children": [
-    213322,
     887759
    ]
   },
@@ -25193,10 +25219,11 @@
     113933
    ],
    "children": [
+    861420,
+    1439502,
     1489081,
     1651514,
-    132958,
-    1439502
+    132958
    ]
   },
   "1641031": {
@@ -27257,6 +27284,7 @@
     1442642,
     1446643,
     1442389,
+    1444373,
     1444375,
     573562
    ]
@@ -28428,6 +28456,15 @@
    ],
    "children": []
   },
+  "1143869": {
+   "name": "Käskynhaltijat",
+   "parents": [
+    75770
+   ],
+   "children": [
+    1707116
+   ]
+  },
   "174573": {
    "name": "Arvopaperioikeus",
    "parents": [
@@ -29344,9 +29381,7 @@
     1362394,
     1603077
    ],
-   "children": [
-    1602903
-   ]
+   "children": []
   },
   "189015": {
    "name": "Metodismi",
@@ -29355,8 +29390,7 @@
     19128
    ],
    "children": [
-    1699459,
-    1655599
+    1699459
    ]
   },
   "189067": {
@@ -31259,6 +31293,15 @@
    ],
    "children": []
   },
+  "211510": {
+   "name": "Linja-autoasemat",
+   "parents": [
+    27842
+   ],
+   "children": [
+    1030867
+   ]
+  },
   "211552": {
    "name": "Etelä-Afrikan_pääministerit",
    "parents": [
@@ -31301,16 +31344,6 @@
     114471
    ],
    "children": []
-  },
-  "213322": {
-   "name": "Turbiinit",
-   "parents": [
-    144732,
-    119315
-   ],
-   "children": [
-    1361044
-   ]
   },
   "213330": {
    "name": "Funktionaaliset_ohjelmointikielet",
@@ -32343,9 +32376,10 @@
    ],
    "children": [
     1403200,
-    714041,
     1734532,
-    1358798
+    1358798,
+    714041,
+    1751514
    ]
   },
   "222414": {
@@ -34541,8 +34575,7 @@
    ],
    "children": [
     1387065,
-    1393746,
-    1482619
+    1393746
    ]
   },
   "244573": {
@@ -36974,8 +37007,9 @@
     263841
    ],
    "children": [
-    509746,
+    1768954,
     870020,
+    1768950,
     1030855
    ]
   },
@@ -36996,9 +37030,10 @@
     45763
    ],
    "children": [
-    1686485,
-    1291975,
     794501,
+    1291975,
+    1686485,
+    1568919,
     720895
    ]
   },
@@ -37864,6 +37899,13 @@
     1322333,
     359822
    ]
+  },
+  "997734": {
+   "name": "Koelentäjät",
+   "parents": [
+    18350
+   ],
+   "children": []
   },
   "287025": {
    "name": "Maansiirtokoneet",
@@ -39173,9 +39215,7 @@
    "parents": [
     253912
    ],
-   "children": [
-    1482619
-   ]
+   "children": []
   },
   "311382": {
    "name": "Hybridiautot",
@@ -40792,6 +40832,18 @@
    ],
    "children": []
   },
+  "1590125": {
+   "name": "Suomen_keskiajan_henkilöt",
+   "parents": [
+    32083
+   ],
+   "children": [
+    1768104,
+    1080633,
+    775949,
+    1385358
+   ]
+  },
   "346024": {
    "name": "Espanjan_kolonialismin_historia",
    "parents": [
@@ -41124,6 +41176,13 @@
     1293586,
     1000431
    ]
+  },
+  "353540": {
+   "name": "Slovakialaiset_jalkapalloseurat",
+   "parents": [
+    49593
+   ],
+   "children": []
   },
   "353880": {
    "name": "Suomalaiset_elokuvasäveltäjät",
@@ -44212,6 +44271,7 @@
     774498,
     1056037,
     919177,
+    929042,
     914322,
     947386,
     427901
@@ -44524,6 +44584,14 @@
    ],
    "children": []
   },
+  "444277": {
+   "name": "Beetasalpaajat",
+   "parents": [
+    385854,
+    1084397
+   ],
+   "children": []
+  },
   "1084397": {
    "name": "Sydänlääkkeet",
    "parents": [
@@ -44534,14 +44602,6 @@
     1479153,
     444277
    ]
-  },
-  "444277": {
-   "name": "Beetasalpaajat",
-   "parents": [
-    385854,
-    1084397
-   ],
-   "children": []
   },
   "444664": {
    "name": "Norjalaiset_lasten-_ja_nuortenkirjailijat",
@@ -46194,13 +46254,22 @@
    ],
    "children": []
   },
+  "1768950": {
+   "name": "Googlen_palvelut",
+   "parents": [
+    277417
+   ],
+   "children": [
+    509746
+   ]
+  },
   "509746": {
    "name": "YouTube",
    "parents": [
     401406,
     204473,
-    277417,
-    286047
+    286047,
+    1768950
    ],
    "children": [
     1417061
@@ -53543,7 +53612,8 @@
     111654
    ],
    "children": [
-    737483
+    737483,
+    1568919
    ]
   },
   "737721": {
@@ -54858,18 +54928,6 @@
    ],
    "children": []
   },
-  "1590125": {
-   "name": "Suomen_keskiajan_henkilöt",
-   "parents": [
-    32083
-   ],
-   "children": [
-    1768104,
-    1080633,
-    775949,
-    1385358
-   ]
-  },
   "776128": {
    "name": "Ranskalaiset_elokuvasäveltäjät",
    "parents": [
@@ -54937,6 +54995,7 @@
    ],
    "children": [
     780416,
+    1191648,
     1189442,
     1191651,
     1190180,
@@ -56637,6 +56696,22 @@
    ],
    "children": []
   },
+  "861420": {
+   "name": "Suomen_Keskustan_puoluesihteerit",
+   "parents": [
+    164214
+   ],
+   "children": [
+    861429
+   ]
+  },
+  "861429": {
+   "name": "Maalaisliiton_puoluesihteerit",
+   "parents": [
+    861420
+   ],
+   "children": []
+  },
   "862230": {
    "name": "National_Register_of_Historic_Places_-kohteet_Texasissa",
    "parents": [
@@ -58125,6 +58200,13 @@
    ],
    "children": []
   },
+  "929042": {
+   "name": "Winchesterin_piispat",
+   "parents": [
+    1677752
+   ],
+   "children": []
+  },
   "929385": {
    "name": "National_Register_of_Historic_Places_-kohteet_New_Yorkin_osavaltiossa",
    "parents": [
@@ -58966,7 +59048,9 @@
     1658828,
     207725
    ],
-   "children": []
+   "children": [
+    1655695
+   ]
   },
   "961436": {
    "name": "Tansanialaiset_papit",
@@ -60740,6 +60824,7 @@
   "1030867": {
    "name": "Suomen_linja-autoasemat",
    "parents": [
+    211510,
     1477757
    ],
    "children": []
@@ -61743,7 +61828,8 @@
    ],
    "children": [
     1110188,
-    1361574
+    1361574,
+    1770230
    ]
   },
   "1058526": {
@@ -62293,18 +62379,6 @@
     944775
    ],
    "children": []
-  },
-  "1075401": {
-   "name": "Helluntaiherätys_Suomessa",
-   "parents": [
-    29192
-   ],
-   "children": [
-    1285448,
-    1266105,
-    1675410,
-    1711076
-   ]
   },
   "1076408": {
    "name": "Suomalaisten_jalkapalloseurojen_logot",
@@ -63927,15 +64001,6 @@
    ],
    "children": []
   },
-  "1143869": {
-   "name": "Käskynhaltijat",
-   "parents": [
-    75770
-   ],
-   "children": [
-    1707116
-   ]
-  },
   "1143880": {
    "name": "Luontaistuotteet",
    "parents": [
@@ -64654,6 +64719,13 @@
    ],
    "children": []
   },
+  "1178619": {
+   "name": "Kortepohja",
+   "parents": [
+    828939
+   ],
+   "children": []
+  },
   "1179333": {
    "name": "Valvonta",
    "parents": [
@@ -65237,6 +65309,13 @@
    ],
    "children": []
   },
+  "1191648": {
+   "name": "Leipsoí",
+   "parents": [
+    1185630
+   ],
+   "children": []
+  },
   "1191651": {
    "name": "Léros",
    "parents": [
@@ -65286,11 +65365,19 @@
     1013824
    ],
    "children": [
-    1192600,
-    1192603,
+    1192593,
     1192596,
-    1192598
+    1192598,
+    1192600,
+    1192603
    ]
+  },
+  "1192593": {
+   "name": "Agkístri",
+   "parents": [
+    1274564
+   ],
+   "children": []
   },
   "1192596": {
    "name": "Aígina",
@@ -66311,8 +66398,7 @@
   "1266105": {
    "name": "Suomen_helluntaiherätyksen_lähetystyöntekijät",
    "parents": [
-    591910,
-    1075401
+    591910
    ],
    "children": []
   },
@@ -66532,6 +66618,23 @@
    ],
    "children": []
   },
+  "1388146": {
+   "name": "Eino_Leino",
+   "parents": [
+    45365,
+    90294
+   ],
+   "children": [
+    1280181
+   ]
+  },
+  "1280181": {
+   "name": "Eino_Leinon_teokset",
+   "parents": [
+    1388146
+   ],
+   "children": []
+  },
   "1280448": {
    "name": "1980-luvun_autot",
    "parents": [
@@ -66621,6 +66724,24 @@
    ],
    "children": []
   },
+  "1568919": {
+   "name": "Suomalais-ugrilainen_sukukansatoiminta",
+   "parents": [
+    753142,
+    932889
+   ],
+   "children": [
+    1568921,
+    1283955
+   ]
+  },
+  "1283955": {
+   "name": "Suomen_ja_Viron_väliset_suhteet",
+   "parents": [
+    1568919
+   ],
+   "children": []
+  },
   "1284174": {
    "name": "Temptress-luokan_partioveneet",
    "parents": [
@@ -66642,15 +66763,6 @@
    ],
    "children": [
     1552276
-   ]
-  },
-  "1285448": {
-   "name": "Suomen_helluntaiseurakunnat",
-   "parents": [
-    1075401
-   ],
-   "children": [
-    1707479
    ]
   },
   "1285471": {
@@ -68287,13 +68399,6 @@
    ],
    "children": []
   },
-  "1361044": {
-   "name": "Suihkumoottorit",
-   "parents": [
-    213322
-   ],
-   "children": []
-  },
   "1361463": {
    "name": "Suomalaiset_partiojärjestöt",
    "parents": [
@@ -68307,7 +68412,9 @@
    "parents": [
     1057972
    ],
-   "children": []
+   "children": [
+    1663385
+   ]
   },
   "1361635": {
    "name": "Reaaliaikaiset_käyttöjärjestelmät",
@@ -70076,13 +70183,6 @@
    ],
    "children": []
   },
-  "1440374": {
-   "name": "Megakirkot",
-   "parents": [
-    1603077
-   ],
-   "children": []
-  },
   "1440535": {
    "name": "Ruotsalaiset_kielenkääntäjät",
    "parents": [
@@ -70189,6 +70289,13 @@
    "parents": [
     164658,
     27678
+   ],
+   "children": []
+  },
+  "1444373": {
+   "name": "Suomalaiset_miljardöörit",
+   "parents": [
+    160311
    ],
    "children": []
   },
@@ -70991,14 +71098,6 @@
    "name": "Muinaissaagat",
    "parents": [
     74494
-   ],
-   "children": []
-  },
-  "1482619": {
-   "name": "Formula_E_-autot",
-   "parents": [
-    1482010,
-    311381
    ],
    "children": []
   },
@@ -72082,6 +72181,13 @@
    ],
    "children": []
   },
+  "1751514": {
+   "name": "Saksan_pormestarit",
+   "parents": [
+    222275
+   ],
+   "children": []
+  },
   "1550336": {
    "name": "Virolaiset_kielenkääntäjät",
    "parents": [
@@ -72445,7 +72551,8 @@
   "1568921": {
    "name": "Suomalais-ugrilaiset_sukukansajärjestöt",
    "parents": [
-    794501
+    794501,
+    1568919
    ],
    "children": []
   },
@@ -72632,6 +72739,13 @@
    "name": "Suomen_perustuslaki",
    "parents": [
     89867
+   ],
+   "children": []
+  },
+  "1575743": {
+   "name": "Kuumailmapallolentäjät",
+   "parents": [
+    18350
    ],
    "children": []
   },
@@ -72995,15 +73109,6 @@
     704377
    ],
    "children": []
-  },
-  "1602903": {
-   "name": "Baptismi_Suomessa",
-   "parents": [
-    188995
-   ],
-   "children": [
-    1710815
-   ]
   },
   "1604576": {
    "name": "Vuoristo-Karabahin_konflikti",
@@ -73876,14 +73981,12 @@
    ],
    "children": []
   },
-  "1655599": {
-   "name": "Metodismi_Suomessa",
+  "1655695": {
+   "name": "Orkneysaarten_historia",
    "parents": [
-    189015
+    1658843
    ],
-   "children": [
-    1722084
-   ]
+   "children": []
   },
   "1655697": {
    "name": "Ródoksen_historia",
@@ -74007,6 +74110,13 @@
    ],
    "children": []
   },
+  "1663385": {
+   "name": "Suomalaiset_sinologit",
+   "parents": [
+    1361574
+   ],
+   "children": []
+  },
   "1664335": {
    "name": "Molekyylibiologiset_tutkimusmenetelmät",
    "parents": [
@@ -74093,13 +74203,6 @@
    "name": "Kvartsi",
    "parents": [
     28075
-   ],
-   "children": []
-  },
-  "1666967": {
-   "name": "Helluntaiherätys_Ruotsissa",
-   "parents": [
-    29192
    ],
    "children": []
   },
@@ -74220,8 +74323,7 @@
   "1675410": {
    "name": "Suomalaiset_helluntailaiset_pastorit",
    "parents": [
-    118210,
-    1075401
+    118210
    ],
    "children": []
   },
@@ -75056,13 +75158,6 @@
    ],
    "children": []
   },
-  "1707479": {
-   "name": "Suomen_entiset_helluntaiseurakunnat",
-   "parents": [
-    1285448
-   ],
-   "children": []
-  },
   "1707802": {
    "name": "Suomalaiset_somevaikuttajat",
    "parents": [
@@ -75096,15 +75191,6 @@
     1470876
    ],
    "children": []
-  },
-  "1710815": {
-   "name": "Suomen_baptistiseurakunnat",
-   "parents": [
-    1602903
-   ],
-   "children": [
-    1728863
-   ]
   },
   "1710913": {
    "name": "Tanskan_sisäministerit",
@@ -75144,8 +75230,7 @@
   "1711076": {
    "name": "Suomen_Helluntaikirkko",
    "parents": [
-    1681705,
-    1075401
+    1681705
    ],
    "children": []
   },
@@ -75287,13 +75372,6 @@
    "name": "Kuvitteelliset_yhdysvaltalaiset_kaupungit",
    "parents": [
     247091
-   ],
-   "children": []
-  },
-  "1722084": {
-   "name": "Suomen_metodistiseurakunnat",
-   "parents": [
-    1655599
    ],
    "children": []
   },
@@ -75463,13 +75541,6 @@
    ],
    "children": []
   },
-  "1728863": {
-   "name": "Suomen_entiset_baptistiseurakunnat",
-   "parents": [
-    1710815
-   ],
-   "children": []
-  },
   "1729478": {
    "name": "Työaika",
    "parents": [
@@ -75509,6 +75580,13 @@
    "name": "Suurkäräjien_puhemiehet",
    "parents": [
     502323
+   ],
+   "children": []
+  },
+  "1730123": {
+   "name": "Vuoden_2023_kirjat",
+   "parents": [
+    1490321
    ],
    "children": []
   },
@@ -76279,6 +76357,42 @@
    "parents": [
     1373346,
     1381519
+   ],
+   "children": []
+  },
+  "1768954": {
+   "name": "Googlen_laitteet",
+   "parents": [
+    277417
+   ],
+   "children": []
+  },
+  "1769943": {
+   "name": "Sulfonihapot",
+   "parents": [
+    232741
+   ],
+   "children": []
+  },
+  "1770230": {
+   "name": "Japanologit",
+   "parents": [
+    1057972
+   ],
+   "children": []
+  },
+  "1770309": {
+   "name": "Aatelisarvot",
+   "parents": [
+    31350,
+    101951
+   ],
+   "children": []
+  },
+  "1770413": {
+   "name": "Slovakian_kansallispuistot",
+   "parents": [
+    29326
    ],
    "children": []
   },

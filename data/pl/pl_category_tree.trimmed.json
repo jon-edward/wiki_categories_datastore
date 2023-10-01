@@ -1040,6 +1040,7 @@
     336970
    ],
    "children": [
+    65449,
     74707,
     65236
    ]
@@ -1410,6 +1411,27 @@
     1378165,
     1228150,
     5103355
+   ]
+  },
+  "65449": {
+   "name": "Poznań",
+   "parents": [
+    161334
+   ],
+   "children": [
+    4562435,
+    1053860,
+    5176261,
+    1089064,
+    434218,
+    434225,
+    1532243,
+    3211251,
+    1527575,
+    171096,
+    3192057,
+    1816379,
+    1057852
    ]
   },
   "1420616": {
@@ -1904,6 +1926,7 @@
     131488,
     2367462,
     130056,
+    1890737,
     66994,
     1065554,
     922806,
@@ -2834,6 +2857,7 @@
     4285705,
     686286,
     3138964,
+    1554935,
     3106970,
     66365,
     899455
@@ -2982,7 +3006,6 @@
    ],
    "children": [
     3525601,
-    445250,
     786597,
     2458829,
     4409583,
@@ -3687,6 +3710,7 @@
     786368,
     1546821,
     4951751,
+    5209421,
     3385555,
     204631,
     634457,
@@ -5178,7 +5202,6 @@
     142486
    ],
    "children": [
-    484433,
     1269930
    ]
   },
@@ -5687,7 +5710,6 @@
     81514
    ],
    "children": [
-    710395,
     1786870,
     998327
    ]
@@ -10185,7 +10207,6 @@
     1447770,
     2472804,
     1550184,
-    1193324,
     1193325,
     1654132,
     1193346,
@@ -13832,6 +13853,7 @@
     68626
    ],
    "children": [
+    1614744,
     1625036,
     1845252
    ]
@@ -14334,6 +14356,7 @@
     1016049,
     953171,
     2375767,
+    129911,
     1124667,
     2038332,
     123423
@@ -15582,6 +15605,23 @@
     129899,
     5413868,
     3031526
+   ]
+  },
+  "129911": {
+   "name": "Polskie_powstania",
+   "parents": [
+    1541115
+   ],
+   "children": [
+    521601,
+    2831618,
+    551075,
+    461828,
+    2854315,
+    1655826,
+    289304,
+    549083,
+    1458974
    ]
   },
   "130023": {
@@ -17269,6 +17309,7 @@
     435414,
     435418,
     432986,
+    436571,
     436831,
     435425,
     433890,
@@ -17693,7 +17734,6 @@
    "children": [
     4034720,
     3111585,
-    4034904,
     2067077,
     4034823,
     147038,
@@ -19574,7 +19614,6 @@
     1264558
    ],
    "children": [
-    5366528,
     568579,
     2948999,
     1571337,
@@ -19591,11 +19630,9 @@
     569386,
     573491,
     1174204,
-    4952775,
     3495003,
     3491933,
     1788257,
-    3844709,
     573938,
     568694,
     572792,
@@ -19947,10 +19984,8 @@
     126318
    ],
    "children": [
-    197216,
-    257538,
-    2603902,
-    2268136
+    2268136,
+    2603902
    ]
   },
   "166685": {
@@ -20229,6 +20264,34 @@
     1038926,
     170905,
     1302268
+   ]
+  },
+  "171096": {
+   "name": "Ludzie_związani_z_Poznaniem",
+   "parents": [
+    65449
+   ],
+   "children": [
+    4140173,
+    1533714,
+    3187607,
+    3242017,
+    2720180,
+    4805690,
+    2299197,
+    3332036,
+    1532236,
+    4917453,
+    5347285,
+    4779482,
+    2299226,
+    2295005,
+    2412396,
+    5140846,
+    4070771,
+    4914038,
+    3800440,
+    3668857
    ]
   },
   "171157": {
@@ -22128,7 +22191,7 @@
     4732660
    ],
    "children": [
-    1334204,
+    5533595,
     1368788,
     190244
    ]
@@ -22808,13 +22871,6 @@
     878975
    ]
   },
-  "197216": {
-   "name": "Hobbici",
-   "parents": [
-    166660
-   ],
-   "children": []
-  },
   "1030782": {
    "name": "1975_w_muzyce",
    "parents": [
@@ -22902,6 +22958,36 @@
     198641,
     4972436,
     1478929
+   ]
+  },
+  "1849862": {
+   "name": "Duchowni_archidiecezji_poznańskiej",
+   "parents": [
+    4917453
+   ],
+   "children": [
+    198648,
+    4932043,
+    4546685
+   ]
+  },
+  "198648": {
+   "name": "Biskupi_poznańscy",
+   "parents": [
+    1849862,
+    4917453
+   ],
+   "children": []
+  },
+  "4917453": {
+   "name": "Duchowni_związani_z_Poznaniem",
+   "parents": [
+    171096
+   ],
+   "children": [
+    198648,
+    1484057,
+    1849862
    ]
   },
   "199137": {
@@ -24456,13 +24542,6 @@
     821021
    ]
   },
-  "257538": {
-   "name": "Krasnoludowie_Śródziemia",
-   "parents": [
-    166660
-   ],
-   "children": []
-  },
   "257577": {
    "name": "Producenci_broni_strzeleckiej",
    "parents": [
@@ -25127,6 +25206,7 @@
     871487
    ],
    "children": [
+    2037832,
     1042233,
     528706,
     1215213
@@ -25587,6 +25667,19 @@
    ],
    "children": [
     623051
+   ]
+  },
+  "289304": {
+   "name": "Powstanie_warszawskie",
+   "parents": [
+    129911
+   ],
+   "children": [
+    1924073,
+    1793967,
+    604079,
+    451547,
+    4599613
    ]
   },
   "289801": {
@@ -27274,6 +27367,16 @@
    ],
    "children": []
   },
+  "3211251": {
+   "name": "Urbanistyka_Poznania",
+   "parents": [
+    65449
+   ],
+   "children": [
+    4779482,
+    4563334
+   ]
+  },
   "465476": {
    "name": "Technika_cieplna",
    "parents": [
@@ -27900,6 +28003,7 @@
     4509762,
     5444038,
     1660871,
+    5532742,
     1667410,
     3804501,
     1714007,
@@ -28186,7 +28290,6 @@
     69796
    ],
    "children": [
-    2923625,
     3102802,
     641181,
     1189679
@@ -29066,10 +29169,9 @@
    ],
    "children": [
     1970265,
+    1256217,
     1970273,
-    5365107,
-    1970008,
-    1256217
+    5365107
    ]
   },
   "404783": {
@@ -29925,6 +30027,60 @@
    ],
    "children": []
   },
+  "434213": {
+   "name": "Licea_ogólnokształcące_w_Poznaniu",
+   "parents": [
+    4562435
+   ],
+   "children": []
+  },
+  "4562435": {
+   "name": "Oświata_w_Poznaniu",
+   "parents": [
+    65449
+   ],
+   "children": [
+    434213,
+    2709995,
+    2412396,
+    741819,
+    5134716
+   ]
+  },
+  "434218": {
+   "name": "Historia_Poznania",
+   "parents": [
+    65449
+   ],
+   "children": [
+    4086688,
+    4086248,
+    5132296,
+    5143720,
+    4086251,
+    4086668,
+    2451149,
+    4086254,
+    4086671,
+    4652338,
+    3146644,
+    1327575,
+    3622234
+   ]
+  },
+  "434225": {
+   "name": "Sport_w_Poznaniu",
+   "parents": [
+    65449
+   ],
+   "children": [
+    3800440,
+    3229223,
+    3229228,
+    2325752,
+    3800474
+   ]
+  },
   "434236": {
    "name": "Dźwignice",
    "parents": [
@@ -29932,6 +30088,17 @@
     873000
    ],
    "children": []
+  },
+  "1053860": {
+   "name": "Transport_w_Poznaniu",
+   "parents": [
+    65449
+   ],
+   "children": [
+    439324,
+    2595949,
+    2807895
+   ]
   },
   "434252": {
    "name": "Narzędzia_rolnicze",
@@ -29999,7 +30166,6 @@
    ],
    "children": [
     434824,
-    1005417,
     1720273,
     2785491,
     932474,
@@ -30268,6 +30434,13 @@
     2799037
    ]
   },
+  "436571": {
+   "name": "Chińscy_kardynałowie",
+   "parents": [
+    142775
+   ],
+   "children": []
+  },
   "436750": {
    "name": "Błonkoskrzydłe",
    "parents": [
@@ -30363,6 +30536,15 @@
     2911324
    ]
   },
+  "439324": {
+   "name": "Komunikacja_miejska_w_Poznaniu",
+   "parents": [
+    1053860
+   ],
+   "children": [
+    901518
+   ]
+  },
   "586900": {
    "name": "Ludzie_związani_z_Bielskiem-Białą",
    "parents": [
@@ -30393,6 +30575,30 @@
    "name": "Posłowie_z_okręgu_Kraków",
    "parents": [
     220235
+   ],
+   "children": []
+  },
+  "1532236": {
+   "name": "Politycy_związani_z_Poznaniem",
+   "parents": [
+    171096,
+    1532243
+   ],
+   "children": [
+    4906342,
+    1810474,
+    1788046,
+    4221968,
+    439377,
+    2179063,
+    1828795,
+    1872541
+   ]
+  },
+  "439377": {
+   "name": "Posłowie_z_okręgu_Poznań",
+   "parents": [
+    1532236
    ],
    "children": []
   },
@@ -30697,18 +30903,6 @@
     445236,
     4729117,
     1180542
-   ]
-  },
-  "445250": {
-   "name": "Nietoperze",
-   "parents": [
-    66597
-   ],
-   "children": [
-    2472256,
-    1240154,
-    1633627,
-    1422197
    ]
   },
   "446084": {
@@ -31197,6 +31391,13 @@
    "name": "Podział_administracyjny_Salwadoru",
    "parents": [
     81514
+   ],
+   "children": []
+  },
+  "451547": {
+   "name": "Kalendarium_powstania_warszawskiego",
+   "parents": [
+    289304
    ],
    "children": []
   },
@@ -31714,6 +31915,18 @@
    ],
    "children": [
     2852516
+   ]
+  },
+  "461828": {
+   "name": "Powstanie_styczniowe",
+   "parents": [
+    129911
+   ],
+   "children": [
+    1247633,
+    5173442,
+    1503985,
+    3711079
    ]
   },
   "1848489": {
@@ -32919,16 +33132,6 @@
     2736863
    ]
   },
-  "484433": {
-   "name": "Tablice_rejestracyjne",
-   "parents": [
-    69794,
-    4140006
-   ],
-   "children": [
-    3774102
-   ]
-  },
   "4140006": {
    "name": "Listy_związane_z_transportem",
    "parents": [
@@ -32939,7 +33142,6 @@
     4140007,
     4140009,
     4225289,
-    484433,
     4778525
    ]
   },
@@ -33846,6 +34048,27 @@
    ],
    "children": []
   },
+  "1057852": {
+   "name": "Kultura_w_Poznaniu",
+   "parents": [
+    65449
+   ],
+   "children": [
+    549024,
+    1874468,
+    2391206,
+    3187591,
+    1285289,
+    1099310,
+    3020472,
+    5134703,
+    3008401,
+    5137373,
+    2104915,
+    2485688,
+    2299197
+   ]
+  },
   "503887": {
    "name": "Pomniki_w_Krakowie",
    "parents": [
@@ -34056,7 +34279,6 @@
    "children": [
     5297240,
     506841,
-    4650245,
     3521055
    ]
   },
@@ -34420,6 +34642,17 @@
    "children": [
     519653,
     1318934
+   ]
+  },
+  "521601": {
+   "name": "Powstanie_listopadowe",
+   "parents": [
+    129911
+   ],
+   "children": [
+    614265,
+    5107890,
+    1819782
    ]
   },
   "521630": {
@@ -35173,6 +35406,7 @@
    ],
    "children": [
     553985,
+    5129634,
     1567845,
     2740655,
     3172688,
@@ -35726,7 +35960,8 @@
   "5176261": {
    "name": "Atrakcje_turystyczne_w_Poznaniu",
    "parents": [
-    2320450
+    2320450,
+    65449
    ],
    "children": [
     549024,
@@ -35736,9 +35971,37 @@
   "549024": {
    "name": "Muzea_w_Poznaniu",
    "parents": [
+    1057852,
     5176261
    ],
    "children": []
+  },
+  "549082": {
+   "name": "Powstańcy_śląscy",
+   "parents": [
+    549083
+   ],
+   "children": [
+    3904928,
+    3947490,
+    3939277,
+    3310711,
+    3631645,
+    3882815
+   ]
+  },
+  "549083": {
+   "name": "Powstania_śląskie",
+   "parents": [
+    129911
+   ],
+   "children": [
+    2701888,
+    1421839,
+    3581872,
+    549082,
+    3904927
+   ]
   },
   "549511": {
    "name": "Czujniki",
@@ -35788,6 +36051,7 @@
   "2854315": {
    "name": "Powstanie_w_getcie_warszawskim",
    "parents": [
+    129911,
     2754612
    ],
    "children": [
@@ -35803,6 +36067,31 @@
    "children": [
     2970945,
     2452253
+   ]
+  },
+  "3375627": {
+   "name": "Uczestnicy_bitwy_o_Lwów_1918–1919_(strona_polska)",
+   "parents": [
+    551075
+   ],
+   "children": [
+    4287681,
+    3897103,
+    4287695,
+    2730932,
+    3166038,
+    1988986,
+    4674751
+   ]
+  },
+  "551075": {
+   "name": "Obrona_Lwowa_w_latach_1918–1920",
+   "parents": [
+    129911
+   ],
+   "children": [
+    4617193,
+    3375627
    ]
   },
   "551736": {
@@ -37842,6 +38131,13 @@
    ],
    "children": []
   },
+  "604079": {
+   "name": "Oddziały_powstania_warszawskiego",
+   "parents": [
+    289304
+   ],
+   "children": []
+  },
   "604881": {
    "name": "Obiekty_NGC",
    "parents": [
@@ -38034,6 +38330,13 @@
    "children": [
     4638060
    ]
+  },
+  "614265": {
+   "name": "Bitwy_powstania_listopadowego",
+   "parents": [
+    521601
+   ],
+   "children": []
   },
   "614411": {
    "name": "Władcy_Partów",
@@ -40003,6 +40306,7 @@
     648407
    ],
    "children": [
+    5326976,
     2395018,
     2395029,
     3820574,
@@ -40015,8 +40319,10 @@
     2395188,
     1535422,
     4945344,
+    5529283,
     1487174,
     1439947,
+    4028495,
     2043742,
     3822047,
     3821023,
@@ -41595,31 +41901,6 @@
     1160846
    ]
   },
-  "710395": {
-   "name": "Wsie_w_Rosji",
-   "parents": [
-    175412
-   ],
-   "children": [
-    5126174,
-    4713475,
-    1949894,
-    4994599,
-    999214,
-    5454491,
-    5389500,
-    995027,
-    5067284,
-    4713462,
-    4959990,
-    2595128,
-    5284057,
-    990491,
-    5097628,
-    999069,
-    4262814
-   ]
-  },
   "710638": {
    "name": "Kurlandzka_szlachta",
    "parents": [
@@ -42677,6 +42958,15 @@
     727668
    ],
    "children": []
+  },
+  "741819": {
+   "name": "Budynki_szkół_i_instytucji_badawczych_w_Poznaniu",
+   "parents": [
+    4562435
+   ],
+   "children": [
+    5184398
+   ]
   },
   "741888": {
    "name": "Sekretarze_generalni_ONZ",
@@ -44709,6 +44999,7 @@
     1982530,
     1821015,
     1668055,
+    3146202,
     3031515,
     1857373,
     3031518,
@@ -45408,6 +45699,7 @@
     5008930,
     1064998,
     811047,
+    2037832,
     2037896,
     1708362,
     1251021,
@@ -45530,7 +45822,8 @@
    "children": [
     4619513,
     1830434,
-    2339603
+    2339603,
+    4633275
    ]
   },
   "815145": {
@@ -45615,6 +45908,27 @@
    ],
    "children": [
     3642588
+   ]
+  },
+  "817322": {
+   "name": "Lech_Poznań",
+   "parents": [
+    3229228
+   ],
+   "children": [
+    2768758
+   ]
+  },
+  "3229228": {
+   "name": "Kluby_sportowe_w_Poznaniu",
+   "parents": [
+    434225
+   ],
+   "children": [
+    3189584,
+    817322,
+    1021318,
+    1021306
    ]
   },
   "817339": {
@@ -48754,6 +49068,7 @@
    "children": [
     1345863,
     1753103,
+    5530063,
     1383477,
     1748598,
     1767641,
@@ -49525,6 +49840,7 @@
   "901518": {
    "name": "Tramwaje_w_Poznaniu",
    "parents": [
+    439324,
     901514
    ],
    "children": []
@@ -49781,9 +50097,7 @@
    "parents": [
     2819811
    ],
-   "children": [
-    1222864
-   ]
+   "children": []
   },
   "911440": {
    "name": "Rabini_Wrocławia",
@@ -51012,6 +51326,23 @@
    ],
    "children": []
   },
+  "938405": {
+   "name": "Chóry_w_Poznaniu",
+   "parents": [
+    1285289
+   ],
+   "children": []
+  },
+  "1285289": {
+   "name": "Muzyka_w_Poznaniu",
+   "parents": [
+    1057852
+   ],
+   "children": [
+    2299205,
+    938405
+   ]
+  },
   "940411": {
    "name": "Sufrażystki",
    "parents": [
@@ -52091,22 +52422,6 @@
     116217
    ],
    "children": []
-  },
-  "960530": {
-   "name": "Albumy_Ich_Troje",
-   "parents": [
-    5512590
-   ],
-   "children": []
-  },
-  "5512590": {
-   "name": "Ich_Troje",
-   "parents": [
-    3844709
-   ],
-   "children": [
-    960530
-   ]
   },
   "3012234": {
    "name": "Teoria_partii_politycznych",
@@ -53709,13 +54024,6 @@
     2407839
    ]
   },
-  "990491": {
-   "name": "Wsie_w_Tuwie",
-   "parents": [
-    710395
-   ],
-   "children": []
-  },
   "991114": {
    "name": "Wróżbici_w_mitologii_greckiej",
    "parents": [
@@ -53874,13 +54182,6 @@
    "name": "Brytyjscy_ministrowie_spraw_zagranicznych",
    "parents": [
     1780484
-   ],
-   "children": []
-  },
-  "995027": {
-   "name": "Wsie_w_Kraju_Ałtajskim",
-   "parents": [
-    710395
    ],
    "children": []
   },
@@ -54079,20 +54380,6 @@
     3501694,
     998463
    ]
-  },
-  "999069": {
-   "name": "Wsie_w_Jakucji",
-   "parents": [
-    710395
-   ],
-   "children": []
-  },
-  "999214": {
-   "name": "Wsie_w_Buriacji",
-   "parents": [
-    710395
-   ],
-   "children": []
   },
   "999577": {
    "name": "Protestanccy_tłumacze_Biblii",
@@ -54301,13 +54588,6 @@
     1446753,
     1451479
    ]
-  },
-  "1005417": {
-   "name": "Instytuty_badań_nad_Leonardem_da_Vinci",
-   "parents": [
-    2377635
-   ],
-   "children": []
   },
   "1005584": {
    "name": "Albumy_Entombed",
@@ -54704,6 +54984,35 @@
     1523815
    ]
   },
+  "3800440": {
+   "name": "Ludzie_sportu_związani_z_Poznaniem",
+   "parents": [
+    171096,
+    434225
+   ],
+   "children": [
+    3493056,
+    2768758,
+    1013167
+   ]
+  },
+  "1013167": {
+   "name": "Sportowcy_związani_z_Poznaniem",
+   "parents": [
+    3800440
+   ],
+   "children": [
+    4582560,
+    3800535,
+    2916165,
+    1228870,
+    4072592,
+    3800594,
+    2903796,
+    3630741,
+    2907191
+   ]
+  },
   "5352173": {
    "name": "Dziedzictwo_kulturowe_Żydów_we_Wrocławiu",
    "parents": [
@@ -54883,6 +55192,24 @@
     621099
    ],
    "children": []
+  },
+  "1021306": {
+   "name": "Warta_Poznań",
+   "parents": [
+    3229228
+   ],
+   "children": [
+    2769321
+   ]
+  },
+  "1021318": {
+   "name": "Olimpia_Poznań",
+   "parents": [
+    3229228
+   ],
+   "children": [
+    3493056
+   ]
   },
   "1021341": {
    "name": "Cracovia",
@@ -56054,22 +56381,6 @@
    ],
    "children": [
     1031607
-   ]
-  },
-  "1031701": {
-   "name": "Albumy_Varius_Manx",
-   "parents": [
-    1484027
-   ],
-   "children": []
-  },
-  "1484027": {
-   "name": "Varius_Manx",
-   "parents": [
-    3844709
-   ],
-   "children": [
-    1031701
    ]
   },
   "1413625": {
@@ -57423,9 +57734,20 @@
    ],
    "children": []
   },
+  "4086248": {
+   "name": "Historia_Poznania_po_1945",
+   "parents": [
+    434218
+   ],
+   "children": [
+    1057928,
+    4659491
+   ]
+  },
   "1057928": {
    "name": "Poznański_Czerwiec_1956",
    "parents": [
+    4086248,
     3332033
    ],
    "children": [
@@ -58941,6 +59263,18 @@
     1490926
    ]
   },
+  "1089064": {
+   "name": "Wojsko_w_Poznaniu",
+   "parents": [
+    65449
+   ],
+   "children": [
+    4070771,
+    1853092,
+    1319982,
+    1327575
+   ]
+  },
   "1089840": {
    "name": "Miecze_ceremonialne",
    "parents": [
@@ -59117,6 +59451,13 @@
    "name": "Australian_Open_2006",
    "parents": [
     5324693
+   ],
+   "children": []
+  },
+  "1099310": {
+   "name": "Kina_w_Poznaniu",
+   "parents": [
+    1057852
    ],
    "children": []
   },
@@ -61439,13 +61780,6 @@
    ],
    "children": []
   },
-  "5366528": {
-   "name": "Zespoły_muzyczne_związane_z_Gdańskiem",
-   "parents": [
-    2990048
-   ],
-   "children": []
-  },
   "1175206": {
    "name": "Etycy",
    "parents": [
@@ -61657,16 +61991,6 @@
    "children": [
     1183977,
     1739963
-   ]
-  },
-  "1343467": {
-   "name": "Słynne_konie",
-   "parents": [
-    1448535,
-    1343462
-   ],
-   "children": [
-    1344135
    ]
   },
   "3387450": {
@@ -62169,15 +62493,6 @@
     68435
    ],
    "children": []
-  },
-  "1193324": {
-   "name": "1950_w_sportach_zimowych",
-   "parents": [
-    126319
-   ],
-   "children": [
-    1241328
-   ]
   },
   "1193325": {
    "name": "1954_w_sportach_zimowych",
@@ -63786,13 +64101,6 @@
     5391396
    ]
   },
-  "1222864": {
-   "name": "AZS_AWF_Poznań",
-   "parents": [
-    911206
-   ],
-   "children": []
-  },
   "1223023": {
    "name": "Rektorzy_Uniwersytetu_Kardynała_Stefana_Wyszyńskiego",
    "parents": [
@@ -63837,6 +64145,7 @@
     2295997
    ],
    "children": [
+    5533616,
     4190190,
     1223574,
     5218007
@@ -63907,6 +64216,24 @@
    ],
    "children": []
   },
+  "1227367": {
+   "name": "Rektorzy_Politechniki_Śląskiej",
+   "parents": [
+    2228010
+   ],
+   "children": []
+  },
+  "2228010": {
+   "name": "Wykładowcy_Politechniki_Śląskiej",
+   "parents": [
+    2295997
+   ],
+   "children": [
+    4191100,
+    5275445,
+    1227367
+   ]
+  },
   "1227426": {
    "name": "Przedsiębiorstwa_farmaceutyczne_w_Polsce",
    "parents": [
@@ -63950,6 +64277,13 @@
    "name": "Krytycy_sztuki",
    "parents": [
     65406
+   ],
+   "children": []
+  },
+  "1228870": {
+   "name": "Siatkarze_KS_Poznań",
+   "parents": [
+    1013167
    ],
    "children": []
   },
@@ -64372,13 +64706,6 @@
    ],
    "children": []
   },
-  "1240154": {
-   "name": "Molosowate",
-   "parents": [
-    445250
-   ],
-   "children": []
-  },
   "3004014": {
    "name": "Bazyliki_we_Włoszech",
    "parents": [
@@ -64470,13 +64797,6 @@
    "name": "Gubernie_Królestwa_Polskiego",
    "parents": [
     1379009
-   ],
-   "children": []
-  },
-  "1241328": {
-   "name": "Medaliści_Mistrzostw_Świata_w_Narciarstwie_Klasycznym_1950",
-   "parents": [
-    1193324
    ],
    "children": []
   },
@@ -64785,6 +65105,15 @@
    "children": [
     1367179,
     1246188
+   ]
+  },
+  "1247633": {
+   "name": "Rządy_powstania_styczniowego",
+   "parents": [
+    461828
+   ],
+   "children": [
+    1616904
    ]
   },
   "2827894": {
@@ -66168,6 +66497,22 @@
     1531896
    ]
   },
+  "3800474": {
+   "name": "Boks_w_Poznaniu",
+   "parents": [
+    434225
+   ],
+   "children": [
+    1280321
+   ]
+  },
+  "1280321": {
+   "name": "Bokserzy_Warty_Poznań",
+   "parents": [
+    3800474
+   ],
+   "children": []
+  },
   "1280435": {
    "name": "Kościół_Ewangelicko-Reformowany_w_RP",
    "parents": [
@@ -66309,6 +66654,23 @@
     2960268
    ],
    "children": []
+  },
+  "1282864": {
+   "name": "Laskarze_Grunwaldu_Poznań",
+   "parents": [
+    3800594
+   ],
+   "children": []
+  },
+  "3800594": {
+   "name": "Sportowcy_Grunwaldu_Poznań",
+   "parents": [
+    1013167
+   ],
+   "children": [
+    1282864,
+    2909982
+   ]
   },
   "1284423": {
    "name": "Układowe_zapalenia_naczyń",
@@ -66582,6 +66944,25 @@
     672260
    ],
    "children": []
+  },
+  "1527575": {
+   "name": "Gospodarka_Poznania",
+   "parents": [
+    65449
+   ],
+   "children": [
+    1291896,
+    2014769
+   ]
+  },
+  "1291896": {
+   "name": "Przedsiębiorstwa_w_Poznaniu",
+   "parents": [
+    1527575
+   ],
+   "children": [
+    3020082
+   ]
   },
   "1293418": {
    "name": "Single_Alice_in_Chains",
@@ -67601,10 +67982,22 @@
   "1319982": {
    "name": "Twierdza_Poznań",
    "parents": [
-    813221
+    813221,
+    1089064,
+    4086668
    ],
    "children": [
     5364678
+   ]
+  },
+  "4086668": {
+   "name": "Historia_Poznania_1789–1914",
+   "parents": [
+    434218
+   ],
+   "children": [
+    3500918,
+    1319982
    ]
   },
   "3614862": {
@@ -67838,6 +68231,14 @@
     3312453,
     3312455
    ]
+  },
+  "1327575": {
+   "name": "Wojsko_niemieckie_w_Poznaniu",
+   "parents": [
+    434218,
+    1089064
+   ],
+   "children": []
   },
   "1328711": {
    "name": "Dywizje_forteczne_III_Rzeszy",
@@ -68156,15 +68557,6 @@
     5391982,
     5340562,
     2009431
-   ]
-  },
-  "1334204": {
-   "name": "Dywizje_kawalerii",
-   "parents": [
-    1334331
-   ],
-   "children": [
-    2077131
    ]
   },
   "4732660": {
@@ -68508,6 +68900,16 @@
     1343462
    ],
    "children": []
+  },
+  "1343467": {
+   "name": "Słynne_konie",
+   "parents": [
+    1448535,
+    1343462
+   ],
+   "children": [
+    1344135
+   ]
   },
   "1343468": {
    "name": "Słynne_ptaki",
@@ -69570,6 +69972,13 @@
    ],
    "children": []
   },
+  "5533595": {
+   "name": "Korpusy_kawalerii",
+   "parents": [
+    1334331
+   ],
+   "children": []
+  },
   "1368784": {
    "name": "Sztuka_operacyjna",
    "parents": [
@@ -70344,9 +70753,10 @@
     1667223
    ],
    "children": [
-    1386480,
-    2265835,
+    5534112,
     3092133,
+    2265835,
+    1386480,
     2262903
    ]
   },
@@ -70743,7 +71153,9 @@
    "parents": [
     87850
    ],
-   "children": []
+   "children": [
+    5079017
+   ]
   },
   "1398278": {
    "name": "Charytologia",
@@ -71306,6 +71718,22 @@
    ],
    "children": []
   },
+  "5107890": {
+   "name": "Powstanie_listopadowe_w_kulturze",
+   "parents": [
+    521601
+   ],
+   "children": [
+    1411055
+   ]
+  },
+  "1411055": {
+   "name": "Powstanie_listopadowe_w_literaturze",
+   "parents": [
+    5107890
+   ],
+   "children": []
+  },
   "1411110": {
    "name": "Grand_Prix_Bahrajnu_Formuły_1",
    "parents": [
@@ -71478,9 +71906,8 @@
     1646319
    ],
    "children": [
-    2051280,
-    1607995,
     2471792,
+    1607995,
     3207711
    ]
   },
@@ -71688,7 +72115,8 @@
   "2857822": {
    "name": "Wykładowcy_uczelni_w_Poznaniu",
    "parents": [
-    2857832
+    2857832,
+    2709995
    ],
    "children": [
     5475264,
@@ -71938,10 +72366,10 @@
    ],
    "children": []
   },
-  "1422197": {
-   "name": "Mroczkowate",
+  "1421839": {
+   "name": "Pułki_piechoty_powstańców_śląskich",
    "parents": [
-    445250
+    549083
    ],
    "children": []
   },
@@ -72557,6 +72985,27 @@
    ],
    "children": []
   },
+  "4086254": {
+   "name": "Historia_Poznania_1939–1945",
+   "parents": [
+    434218
+   ],
+   "children": [
+    1442323,
+    2241995
+   ]
+  },
+  "1442323": {
+   "name": "Kraj_Warty",
+   "parents": [
+    4086254
+   ],
+   "children": [
+    3940656,
+    2146937,
+    1451675
+   ]
+  },
   "1442579": {
    "name": "Mitologia_Jorubów",
    "parents": [
@@ -73041,7 +73490,8 @@
   "1451675": {
    "name": "Getta_żydowskie_w_Kraju_Warty",
    "parents": [
-    1451853
+    1451853,
+    1442323
    ],
    "children": []
   },
@@ -73335,6 +73785,26 @@
    ],
    "children": []
   },
+  "1458974": {
+   "name": "Powstanie_wielkopolskie_1918–1919",
+   "parents": [
+    129911,
+    4086671
+   ],
+   "children": [
+    2701465,
+    3227161
+   ]
+  },
+  "4086671": {
+   "name": "Historia_Poznania_1914–1918",
+   "parents": [
+    434218
+   ],
+   "children": [
+    1458974
+   ]
+  },
   "1459147": {
    "name": "Dywizje_strzeleckie_NKWD",
    "parents": [
@@ -73483,9 +73953,21 @@
   "1460522": {
    "name": "Urzędy_certyfikacji",
    "parents": [
-    2037651
+    2037651,
+    2037832
    ],
    "children": []
+  },
+  "2037832": {
+   "name": "Instytucje_kryptologiczne",
+   "parents": [
+    278273,
+    1129473
+   ],
+   "children": [
+    1460522,
+    5533237
+   ]
   },
   "1460578": {
    "name": "Akcje_Armii_Krajowej",
@@ -74160,15 +74642,13 @@
    ],
    "children": []
   },
-  "3844709": {
-   "name": "Zespoły_muzyczne_związane_z_Łodzią",
+  "1484057": {
+   "name": "Kanonicy_poznańscy",
    "parents": [
-    2990048
+    4917453
    ],
    "children": [
-    1484027,
-    1517166,
-    5512590
+    4077289
    ]
   },
   "1484130": {
@@ -74787,6 +75267,15 @@
    ],
    "children": [
     3759121
+   ]
+  },
+  "1503985": {
+   "name": "Powstanie_styczniowe_na_ziemiach_zabranych",
+   "parents": [
+    461828
+   ],
+   "children": [
+    2166865
    ]
   },
   "1504481": {
@@ -75586,15 +76075,6 @@
    ],
    "children": []
   },
-  "1517166": {
-   "name": "Coma",
-   "parents": [
-    3844709
-   ],
-   "children": [
-    1674010
-   ]
-  },
   "1518147": {
    "name": "Puchar_Europy_w_lekkoatletyce",
    "parents": [
@@ -75703,6 +76183,7 @@
     3381646,
     3131566,
     3131567,
+    3382224,
     5083952,
     3382483,
     3382452,
@@ -76016,6 +76497,16 @@
     1615317
    ]
   },
+  "1532243": {
+   "name": "Polityka_w_Poznaniu",
+   "parents": [
+    65449
+   ],
+   "children": [
+    3328473,
+    1532236
+   ]
+  },
   "1532310": {
    "name": "Członkowie_Towarzystwa_Naukowego_we_Lwowie",
    "parents": [
@@ -76058,6 +76549,7 @@
   "1533714": {
    "name": "Członkowie_Poznańskiego_Towarzystwa_Przyjaciół_Nauk",
    "parents": [
+    171096,
     1533738
    ],
    "children": []
@@ -76844,6 +77336,18 @@
    ],
    "children": []
   },
+  "1554935": {
+   "name": "Dworzanie_królewscy",
+   "parents": [
+    1513529
+   ],
+   "children": [
+    5285320,
+    4496417,
+    5328227,
+    5284470
+   ]
+  },
   "5379828": {
    "name": "Rodzicielstwo",
    "parents": [
@@ -77466,6 +77970,7 @@
     905463
    ],
    "children": [
+    1870273,
     3647913
    ]
   },
@@ -77490,13 +77995,6 @@
    "children": [
     2865037
    ]
-  },
-  "4324093": {
-   "name": "Powstania_podczas_wojny_domowej_w_Rosji",
-   "parents": [
-    190736
-   ],
-   "children": []
   },
   "1575580": {
    "name": "Pociągi_pancerne_Białej_Armii",
@@ -77599,6 +78097,25 @@
    "children": [
     5145402,
     1763828
+   ]
+  },
+  "1580730": {
+   "name": "Członkowie_Acid_Drinkers",
+   "parents": [
+    2299205
+   ],
+   "children": []
+  },
+  "2299205": {
+   "name": "Muzycy_związani_z_Poznaniem",
+   "parents": [
+    1285289,
+    3915872
+   ],
+   "children": [
+    2529064,
+    2303345,
+    1580730
    ]
   },
   "1581242": {
@@ -78291,6 +78808,24 @@
     2409712
    ],
    "children": []
+  },
+  "1594659": {
+   "name": "Wojsko_Polskie_II_Rzeczypospolitej_w_Poznaniu",
+   "parents": [
+    1853092
+   ],
+   "children": []
+  },
+  "1853092": {
+   "name": "Wojsko_Polskie_w_Poznaniu",
+   "parents": [
+    1089064
+   ],
+   "children": [
+    1594659,
+    1853091,
+    1853102
+   ]
   },
   "1595156": {
    "name": "Morfologia_bakterii",
@@ -79065,6 +79600,13 @@
    ],
    "children": []
   },
+  "1614744": {
+   "name": "Język_kurdyjski",
+   "parents": [
+    117568
+   ],
+   "children": []
+  },
   "1614849": {
    "name": "Francuskie_formacje_kolaboranckie_w_służbie_Niemiec_hitlerowskich",
    "parents": [
@@ -79158,6 +79700,13 @@
    "name": "Architektura_renesansu",
    "parents": [
     468970
+   ],
+   "children": []
+  },
+  "1616904": {
+   "name": "Członkowie_rządów_powstańczych_(powstanie_styczniowe)",
+   "parents": [
+    1247633
    ],
    "children": []
   },
@@ -79445,13 +79994,6 @@
     1734334
    ]
   },
-  "1633627": {
-   "name": "Liścionosowate",
-   "parents": [
-    445250
-   ],
-   "children": []
-  },
   "1766763": {
    "name": "Powstania_chłopskie",
    "parents": [
@@ -79468,6 +80010,24 @@
     2634928
    ],
    "children": []
+  },
+  "1634268": {
+   "name": "Stacje_i_przystanki_kolejowe_w_Poznaniu",
+   "parents": [
+    2807895
+   ],
+   "children": [
+    2527515
+   ]
+  },
+  "2807895": {
+   "name": "Transport_kolejowy_w_Poznaniu",
+   "parents": [
+    1053860
+   ],
+   "children": [
+    1634268
+   ]
   },
   "1634413": {
    "name": "Burmistrzowie_Kłodzka",
@@ -80328,6 +80888,22 @@
     4470514
    ]
   },
+  "1655826": {
+   "name": "Powstanie_wielkopolskie_(1848)",
+   "parents": [
+    129911
+   ],
+   "children": [
+    1655833
+   ]
+  },
+  "1655833": {
+   "name": "Bitwy_powstania_wielkopolskiego_(1848)",
+   "parents": [
+    1655826
+   ],
+   "children": []
+  },
   "1656104": {
    "name": "Niemieckie_piwa",
    "parents": [
@@ -80789,6 +81365,26 @@
    ],
    "children": []
   },
+  "3622234": {
+   "name": "Nieistniejące_obiekty_budowlane_w_Poznaniu",
+   "parents": [
+    434218
+   ],
+   "children": [
+    2320904,
+    3151981,
+    1666655
+   ]
+  },
+  "1666655": {
+   "name": "Zniszczone_budynki_w_Poznaniu",
+   "parents": [
+    3622234
+   ],
+   "children": [
+    3635320
+   ]
+  },
   "1666680": {
    "name": "Atrybucja",
    "parents": [
@@ -81044,6 +81640,35 @@
    ],
    "children": []
   },
+  "1670686": {
+   "name": "Pochowani_w_bazylice_archikatedralnej_Świętych_Apostołów_Piotra_i_Pawła_w_Poznaniu",
+   "parents": [
+    2299226
+   ],
+   "children": []
+  },
+  "2299226": {
+   "name": "Pochowani_w_Poznaniu",
+   "parents": [
+    171096
+   ],
+   "children": [
+    3074593,
+    5442850,
+    2426340,
+    3242730,
+    3457387,
+    4220473,
+    4737360,
+    4940947,
+    3533588,
+    1826165,
+    4737653,
+    3242009,
+    1670686,
+    1809023
+   ]
+  },
   "1671339": {
    "name": "Elektrownie_wodne_w_Polsce",
    "parents": [
@@ -81096,13 +81721,6 @@
    "name": "Polscy_teoretycy_muzyki",
    "parents": [
     804462
-   ],
-   "children": []
-  },
-  "1674010": {
-   "name": "Albumy_Comy",
-   "parents": [
-    1517166
    ],
    "children": []
   },
@@ -81550,6 +82168,36 @@
    "children": [
     3479715
    ]
+  },
+  "2786229": {
+   "name": "Absolwenci_Uniwersytetu_im._Adama_Mickiewicza_w_Poznaniu",
+   "parents": [
+    2412396
+   ],
+   "children": [
+    2786241,
+    3804898,
+    2786243,
+    3808932,
+    1687717,
+    3809318,
+    3804908,
+    4905806,
+    3804879,
+    3808944,
+    3804913,
+    3808948,
+    3808919,
+    5180154,
+    3804892
+   ]
+  },
+  "1687717": {
+   "name": "Absolwenci_Wydziału_Historycznego_Uniwersytetu_im._Adama_Mickiewicza_w_Poznaniu",
+   "parents": [
+    2786229
+   ],
+   "children": []
   },
   "1688920": {
    "name": "Analogowe_maszyny_liczące",
@@ -84131,10 +84779,26 @@
    ],
    "children": []
   },
+  "3229223": {
+   "name": "Zawody_sportowe_w_Poznaniu",
+   "parents": [
+    434225
+   ],
+   "children": [
+    2966154
+   ]
+  },
   "1762702": {
    "name": "Politycy_Stronnictwa_Polityki_Realnej_(1905–1923)",
    "parents": [
     129899
+   ],
+   "children": []
+  },
+  "4324093": {
+   "name": "Powstania_podczas_wojny_domowej_w_Rosji",
+   "parents": [
+    190736
    ],
    "children": []
   },
@@ -84538,6 +85202,16 @@
     116565
    ],
    "children": []
+  },
+  "1870273": {
+   "name": "Zbrodnie_Einsatzgruppen",
+   "parents": [
+    1574590,
+    1867986
+   ],
+   "children": [
+    4260246
+   ]
   },
   "1772372": {
    "name": "Ofiary_mordu_profesorów_lwowskich_1941",
@@ -85197,6 +85871,13 @@
    ],
    "children": []
   },
+  "1788046": {
+   "name": "Pierwsi_sekretarze_Komitetu_Wojewódzkiego_PZPR_w_Poznaniu",
+   "parents": [
+    1532236
+   ],
+   "children": []
+  },
   "1788257": {
    "name": "Polskie_zespoły_muzyki_dawnej",
    "parents": [
@@ -85349,6 +86030,7 @@
   "1793967": {
    "name": "Siły_niemieckie_w_powstaniu_warszawskim",
    "parents": [
+    289304,
     1319047
    ],
    "children": [
@@ -85835,6 +86517,13 @@
     1808795
    ]
   },
+  "1809023": {
+   "name": "Pochowani_na_Cmentarzu_na_Junikowie",
+   "parents": [
+    2299226
+   ],
+   "children": []
+  },
   "1809027": {
    "name": "Filtry_rodzinne",
    "parents": [
@@ -85924,6 +86613,7 @@
   "1810474": {
    "name": "Wiceprezydenci_Poznania",
    "parents": [
+    1532236,
     3325432
    ],
    "children": []
@@ -86310,6 +87000,13 @@
    ],
    "children": []
   },
+  "1816379": {
+   "name": "Harcerstwo_w_Poznaniu",
+   "parents": [
+    65449
+   ],
+   "children": []
+  },
   "1816535": {
    "name": "Wykładowcy_Akademii_Muzycznej_im._Feliksa_Nowowiejskiego_w_Bydgoszczy",
    "parents": [
@@ -86346,6 +87043,13 @@
    "name": "Wykładowcy_Uniwersytetu_Technologiczno-Przyrodniczego_im._Jana_i_Jędrzeja_Śniadeckich_w_Bydgoszczy",
    "parents": [
     3158116
+   ],
+   "children": []
+  },
+  "1819782": {
+   "name": "Powstanie_listopadowe_na_ziemiach_zabranych",
+   "parents": [
+    521601
    ],
    "children": []
   },
@@ -86575,6 +87279,13 @@
    ],
    "children": []
   },
+  "1826165": {
+   "name": "Pochowani_na_cmentarzu_Bożego_Ciała_w_Poznaniu",
+   "parents": [
+    2299226
+   ],
+   "children": []
+  },
   "1826264": {
    "name": "Uroczyska",
    "parents": [
@@ -86674,6 +87385,13 @@
    "parents": [
     66331,
     133747
+   ],
+   "children": []
+  },
+  "1828795": {
+   "name": "Wicewojewodowie_poznańscy_i_wielkopolscy",
+   "parents": [
+    1532236
    ],
    "children": []
   },
@@ -87162,6 +87880,35 @@
    ],
    "children": []
   },
+  "2412396": {
+   "name": "Absolwenci_poznańskich_szkół_i_uczelni",
+   "parents": [
+    171096,
+    4562435
+   ],
+   "children": [
+    2730817,
+    1840195,
+    1839493,
+    2308230,
+    3241925,
+    2459056,
+    2303345,
+    2460027,
+    4699315,
+    2786229,
+    2410235
+   ]
+  },
+  "1839493": {
+   "name": "Absolwenci_Uniwersytetu_Przyrodniczego_w_Poznaniu",
+   "parents": [
+    2412396
+   ],
+   "children": [
+    5180153
+   ]
+  },
   "1839863": {
    "name": "Neuropatolodzy",
    "parents": [
@@ -87175,6 +87922,13 @@
    "name": "Absolwenci_Uniwersytetu_Ekonomicznego_we_Wrocławiu",
    "parents": [
     2412407
+   ],
+   "children": []
+  },
+  "1840195": {
+   "name": "Absolwenci_Uniwersytetu_Ekonomicznego_w_Poznaniu",
+   "parents": [
+    2412396
    ],
    "children": []
   },
@@ -87655,6 +88409,20 @@
    ],
    "children": []
   },
+  "1853091": {
+   "name": "Wojsko_Polskie_III_Rzeczypospolitej_w_Poznaniu",
+   "parents": [
+    1853092
+   ],
+   "children": []
+  },
+  "1853102": {
+   "name": "Ludowe_Wojsko_Polskie_w_Poznaniu",
+   "parents": [
+    1853092
+   ],
+   "children": []
+  },
   "1853135": {
    "name": "Polscy_demografowie",
    "parents": [
@@ -88095,6 +88863,7 @@
     78247
    ],
    "children": [
+    1870273,
     4941409
    ]
   },
@@ -88249,6 +89018,7 @@
   "1872541": {
    "name": "Radni_Poznania",
    "parents": [
+    1532236,
     959806
    ],
    "children": [
@@ -88344,6 +89114,7 @@
   "1874468": {
    "name": "Obrazy_w_Muzeum_Narodowym_w_Poznaniu",
    "parents": [
+    1057852,
     2081906
    ],
    "children": []
@@ -88801,6 +89572,13 @@
    "name": "Średniowieczna_literatura_filozoficzna",
    "parents": [
     1893452
+   ],
+   "children": []
+  },
+  "1890737": {
+   "name": "Literatura_z_zakresu_logiki",
+   "parents": [
+    65983
    ],
    "children": []
   },
@@ -89504,7 +90282,9 @@
     465690,
     1129473
    ],
-   "children": []
+   "children": [
+    5533237
+   ]
   },
   "1911758": {
    "name": "Prezydenci_i_burmistrzowie_Głogowa",
@@ -90214,6 +90994,7 @@
   "1924073": {
    "name": "Zbrodnie_niemieckie_w_powstaniu_warszawskim",
    "parents": [
+    289304,
     3949604
    ],
    "children": [
@@ -91063,13 +91844,6 @@
     5111741
    ]
   },
-  "1949894": {
-   "name": "Wsie_w_obwodzie_smoleńskim",
-   "parents": [
-    710395
-   ],
-   "children": []
-  },
   "1951379": {
    "name": "Meksykańscy_generałowie",
    "parents": [
@@ -91352,6 +92126,7 @@
     403767
    ],
    "children": [
+    1970008,
     1969986,
     1969979,
     1969994
@@ -91379,9 +92154,9 @@
    "children": []
   },
   "1970008": {
-   "name": "Rada_Naczelna_Związku_Harcerstwa_Rzeczypospolitej",
+   "name": "Członkowie_Rady_Naczelnej_Związku_Harcerstwa_Rzeczypospolitej",
    "parents": [
-    403767
+    5365107
    ],
    "children": []
   },
@@ -91685,6 +92460,13 @@
    "name": "Brytyjscy_związkowcy",
    "parents": [
     549517
+   ],
+   "children": []
+  },
+  "1988986": {
+   "name": "Odznaczeni_odznaką_pamiątkową_„Orlęta”",
+   "parents": [
+    3375627
    ],
    "children": []
   },
@@ -92152,7 +92934,9 @@
    "parents": [
     459211
    ],
-   "children": []
+   "children": [
+    5530640
+   ]
   },
   "2006336": {
    "name": "Wachlarzykowate_(rodzina_motyli)",
@@ -92446,7 +93230,8 @@
   "2014769": {
    "name": "Międzynarodowe_Targi_Poznańskie",
    "parents": [
-    3038341
+    3038341,
+    1527575
    ],
    "children": [
     4140146,
@@ -93217,6 +94002,23 @@
     2046262
    ]
   },
+  "2046265": {
+   "name": "Stary_Rynek_w_Poznaniu",
+   "parents": [
+    3250339
+   ],
+   "children": []
+  },
+  "3250339": {
+   "name": "Stare_Miasto_(Poznań)",
+   "parents": [
+    2098219
+   ],
+   "children": [
+    2046265,
+    3600124
+   ]
+  },
   "2047131": {
    "name": "BDSM_w_filmie",
    "parents": [
@@ -93297,13 +94099,6 @@
    "children": [
     4639593
    ]
-  },
-  "2051280": {
-   "name": "La_Gomera",
-   "parents": [
-    1413250
-   ],
-   "children": []
   },
   "2051483": {
    "name": "Usługi_katalogowe",
@@ -94466,13 +95261,6 @@
     2076883
    ]
   },
-  "2077131": {
-   "name": "Dywizje_kawalerii_austro-węgierskiej",
-   "parents": [
-    1334204
-   ],
-   "children": []
-  },
   "2077162": {
    "name": "Numidia_(prowincja_rzymska)",
    "parents": [
@@ -94577,6 +95365,22 @@
     137656
    ],
    "children": []
+  },
+  "2079989": {
+   "name": "Festiwale_w_Poznaniu",
+   "parents": [
+    3020472
+   ],
+   "children": []
+  },
+  "3020472": {
+   "name": "Imprezy_w_Poznaniu",
+   "parents": [
+    1057852
+   ],
+   "children": [
+    2079989
+   ]
   },
   "2080162": {
    "name": "Android",
@@ -95128,6 +95932,24 @@
    ],
    "children": []
   },
+  "2097611": {
+   "name": "Koszykarki_AZS_Poznań",
+   "parents": [
+    3800535
+   ],
+   "children": []
+  },
+  "3800535": {
+   "name": "Sportowcy_AZS_Poznań",
+   "parents": [
+    1013167
+   ],
+   "children": [
+    2097611,
+    4176093,
+    3800550
+   ]
+  },
   "2098023": {
    "name": "Muzea_kolejnictwa",
    "parents": [
@@ -95135,6 +95957,27 @@
    ],
    "children": [
     2264020
+   ]
+  },
+  "4563334": {
+   "name": "Zespoły_urbanistyczne_i_architektoniczne_w_Poznaniu",
+   "parents": [
+    3211251
+   ],
+   "children": [
+    2098219
+   ]
+  },
+  "2098219": {
+   "name": "Zabytkowe_zespoły_urbanistyczne_i_architektoniczne_w_Poznaniu",
+   "parents": [
+    4563334
+   ],
+   "children": [
+    3317666,
+    3250339,
+    3175173,
+    3173158
    ]
   },
   "2098839": {
@@ -95288,6 +96131,13 @@
    "name": "Miasta_w_okręgu_szawelskim",
    "parents": [
     1337367
+   ],
+   "children": []
+  },
+  "2104915": {
+   "name": "Biblioteki_w_Poznaniu",
+   "parents": [
+    1057852
    ],
    "children": []
   },
@@ -96090,6 +96940,13 @@
    ],
    "children": []
   },
+  "2146937": {
+   "name": "Zbrodnie_niemieckie_w_Kraju_Warty",
+   "parents": [
+    1442323
+   ],
+   "children": []
+  },
   "2147625": {
    "name": "Tramwaje_w_Stanach_Zjednoczonych",
    "parents": [
@@ -96403,6 +97260,17 @@
     1409438
    ],
    "children": []
+  },
+  "2166865": {
+   "name": "Członkowie_władz_powstania_styczniowego_na_ziemiach_zabranych",
+   "parents": [
+    1503985
+   ],
+   "children": [
+    4028187,
+    3941875,
+    3941852
+   ]
   },
   "2166882": {
    "name": "Inwazja_na_Rosję_(1812)",
@@ -96763,6 +97631,13 @@
    "name": "Posłowie_z_okręgu_Gdynia",
    "parents": [
     645191
+   ],
+   "children": []
+  },
+  "2179063": {
+   "name": "Wojewodowie_poznańscy_(II_Rzeczpospolita)",
+   "parents": [
+    1532236
    ],
    "children": []
   },
@@ -97829,15 +98704,6 @@
     2551744
    ]
   },
-  "2228010": {
-   "name": "Wykładowcy_Politechniki_Śląskiej",
-   "parents": [
-    2295997
-   ],
-   "children": [
-    4191100
-   ]
-  },
   "3241416": {
    "name": "Absolwenci_uczelni_w_Londynie",
    "parents": [
@@ -98185,6 +99051,7 @@
    "name": "Więźniowie_KL_Posen",
    "parents": [
     879746,
+    4086254,
     3939902
    ],
    "children": [
@@ -99363,6 +100230,24 @@
    ],
    "children": []
   },
+  "2295005": {
+   "name": "Honorowi_obywatele_Poznania",
+   "parents": [
+    171096,
+    5137373
+   ],
+   "children": []
+  },
+  "5137373": {
+   "name": "Nagrody_przyznawane_w_Poznaniu",
+   "parents": [
+    1057852
+   ],
+   "children": [
+    2295005,
+    5140846
+   ]
+  },
   "2295386": {
    "name": "Nieczynne_browary_w_Polsce",
    "parents": [
@@ -99510,6 +100395,36 @@
     2908238
    ]
   },
+  "2299197": {
+   "name": "Ludzie_kultury_związani_z_Poznaniem",
+   "parents": [
+    171096,
+    1057852
+   ],
+   "children": [
+    3915872,
+    5298550,
+    5471286
+   ]
+  },
+  "3915872": {
+   "name": "Artyści_związani_z_Poznaniem",
+   "parents": [
+    2299197
+   ],
+   "children": [
+    2299205,
+    3163205,
+    3915855,
+    2350513,
+    3916114,
+    3919733,
+    2350679,
+    2474776,
+    5064027,
+    2350524
+   ]
+  },
   "2299229": {
    "name": "Białoruscy_literaturoznawcy",
    "parents": [
@@ -99575,6 +100490,14 @@
    "name": "Niemieccy_autorzy_powieści_kryminalnych_i_sensacyjnych",
    "parents": [
     1095325
+   ],
+   "children": []
+  },
+  "2303345": {
+   "name": "Absolwenci_Akademii_Muzycznej_w_Poznaniu",
+   "parents": [
+    2299205,
+    2412396
    ],
    "children": []
   },
@@ -99732,6 +100655,15 @@
     284934
    ],
    "children": []
+  },
+  "2308230": {
+   "name": "Absolwenci_Uniwersytetu_Medycznego_im._Karola_Marcinkowskiego_w_Poznaniu",
+   "parents": [
+    2412396
+   ],
+   "children": [
+    4250377
+   ]
   },
   "2308389": {
    "name": "Niemieccy_myśliciele_polityczni",
@@ -100182,6 +101114,7 @@
   "2320904": {
    "name": "Nieistniejące_pomniki_w_Poznaniu",
    "parents": [
+    3622234,
     2583661
    ],
    "children": []
@@ -100351,6 +101284,18 @@
     2274371
    ],
    "children": []
+  },
+  "2325752": {
+   "name": "Lekkoatletyka_w_Poznaniu",
+   "parents": [
+    434225
+   ],
+   "children": [
+    4079674,
+    2917429,
+    3800550,
+    2917471
+   ]
   },
   "2326053": {
    "name": "Gry_z_użyciem_kartki_papieru",
@@ -101001,6 +101946,27 @@
    "name": "Władcy,_którzy_abdykowali",
    "parents": [
     66365
+   ],
+   "children": []
+  },
+  "2350513": {
+   "name": "Kompozytorzy_związani_z_Poznaniem",
+   "parents": [
+    3915872
+   ],
+   "children": []
+  },
+  "2350524": {
+   "name": "Scenarzyści_związani_z_Poznaniem",
+   "parents": [
+    3915872
+   ],
+   "children": []
+  },
+  "2350679": {
+   "name": "Reżyserzy_związani_z_Poznaniem",
+   "parents": [
+    3915872
    ],
    "children": []
   },
@@ -101721,6 +102687,13 @@
    ],
    "children": []
   },
+  "2391206": {
+   "name": "Bambrzy_poznańscy",
+   "parents": [
+    1057852
+   ],
+   "children": []
+  },
   "2394685": {
    "name": "Wykonawcy_zamachu_z_11_września_2001",
    "parents": [
@@ -101901,14 +102874,16 @@
   "2400739": {
    "name": "Rektorzy_Politechniki_Poznańskiej",
    "parents": [
-    2857393
+    2857393,
+    2994923
    ],
    "children": []
   },
   "2857393": {
    "name": "Rektorzy_uczelni_w_Poznaniu",
    "parents": [
-    2857351
+    2857351,
+    2709995
    ],
    "children": [
     2400739,
@@ -101918,6 +102893,18 @@
     2786204,
     4546685,
     2792703
+   ]
+  },
+  "2994923": {
+   "name": "Wykładowcy_Politechniki_Poznańskiej",
+   "parents": [
+    2295997,
+    2857822
+   ],
+   "children": [
+    4191785,
+    3695746,
+    2400739
    ]
   },
   "2401331": {
@@ -102147,6 +103134,7 @@
     2710176,
     2710183,
     2710952,
+    3136167,
     2710959,
     2710194,
     2710198,
@@ -102304,6 +103292,13 @@
    "name": "Wykładowcy_Uniwersytetu_Artystycznego_w_Poznaniu",
    "parents": [
     2857822
+   ],
+   "children": []
+  },
+  "2410235": {
+   "name": "Absolwenci_Uniwersytetu_Artystycznego_w_Poznaniu",
+   "parents": [
+    2412396
    ],
    "children": []
   },
@@ -103041,6 +104036,13 @@
    ],
    "children": []
   },
+  "2426340": {
+   "name": "Pochowani_na_cmentarzu_Zasłużonych_Wielkopolan_w_Poznaniu",
+   "parents": [
+    2299226
+   ],
+   "children": []
+  },
   "2426515": {
    "name": "Rynek_we_Wrocławiu",
    "parents": [
@@ -103427,6 +104429,13 @@
     3634027
    ]
   },
+  "2451149": {
+   "name": "Historia_Poznania_w_średniowieczu",
+   "parents": [
+    434218
+   ],
+   "children": []
+  },
   "2452253": {
    "name": "Jakość_energii_elektrycznej",
    "parents": [
@@ -103463,7 +104472,9 @@
    "parents": [
     67017
    ],
-   "children": []
+   "children": [
+    5330813
+   ]
   },
   "2454475": {
    "name": "Niemieccy_organmistrzowie",
@@ -103608,6 +104619,13 @@
    ],
    "children": []
   },
+  "2459056": {
+   "name": "Absolwenci_Wyższej_Szkoły_Oficerskiej_Wojsk_Pancernych",
+   "parents": [
+    2412396
+   ],
+   "children": []
+  },
   "2459317": {
    "name": "Czasopisma_radiotechniczne",
    "parents": [
@@ -103672,6 +104690,13 @@
    "parents": [
     91306,
     2459993
+   ],
+   "children": []
+  },
+  "2460027": {
+   "name": "Absolwenci_Oficerskiej_Szkoły_Wojsk_Pancernych",
+   "parents": [
+    2412396
    ],
    "children": []
   },
@@ -103845,13 +104870,6 @@
    ],
    "children": []
   },
-  "2472256": {
-   "name": "Lironosowate",
-   "parents": [
-    445250
-   ],
-   "children": []
-  },
   "2472804": {
    "name": "Artykuły_Wikiprojektu_Sporty_zimowe",
    "parents": [
@@ -103916,6 +104934,13 @@
    "name": "Bitwy_morskie_w_historii_Włoch",
    "parents": [
     72298
+   ],
+   "children": []
+  },
+  "2474776": {
+   "name": "Architekci_związani_z_Poznaniem",
+   "parents": [
+    3915872
    ],
    "children": []
   },
@@ -104021,6 +105046,24 @@
     152927
    ],
    "children": []
+  },
+  "2478449": {
+   "name": "Opaci_oliwscy",
+   "parents": [
+    3718337
+   ],
+   "children": []
+  },
+  "3718337": {
+   "name": "Opactwo_Cystersów_w_Oliwie",
+   "parents": [
+    2779369
+   ],
+   "children": [
+    2478449,
+    3718339,
+    2638749
+   ]
   },
   "2478522": {
    "name": "Królewicze_w_mitologii_greckiej",
@@ -104252,6 +105295,17 @@
     309544
    ],
    "children": []
+  },
+  "2485688": {
+   "name": "Organizacje_w_Poznaniu",
+   "parents": [
+    1057852
+   ],
+   "children": [
+    5532737,
+    5222138,
+    5222487
+   ]
   },
   "2485861": {
    "name": "Dzielnice_Ostrawy",
@@ -105293,6 +106347,13 @@
    ],
    "children": []
   },
+  "2527515": {
+   "name": "Zlikwidowane_stacje_i_przystanki_kolejowe_w_Poznaniu",
+   "parents": [
+    1634268
+   ],
+   "children": []
+  },
   "3746364": {
    "name": "Francuskie_przedsiębiorstwa_zbrojeniowe",
    "parents": [
@@ -105357,7 +106418,8 @@
   "2529064": {
    "name": "Wykładowcy_Akademii_Muzycznej_w_Poznaniu",
    "parents": [
-    2857822
+    2857822,
+    2299205
    ],
    "children": [
     4552851
@@ -107913,10 +108975,10 @@
    ],
    "children": []
   },
-  "2595128": {
-   "name": "Wsie_w_Baszkirii",
+  "2595949": {
+   "name": "Obwodnice_Poznania",
    "parents": [
-    710395
+    1053860
    ],
    "children": []
   },
@@ -108821,6 +109883,13 @@
     2638670
    ]
   },
+  "2638749": {
+   "name": "Pochowani_w_bazylice_archikatedralnej_w_Gdańsku-Oliwie",
+   "parents": [
+    3718337
+   ],
+   "children": []
+  },
   "2638758": {
    "name": "Szpice_azjatyckie",
    "parents": [
@@ -109529,10 +110598,24 @@
    ],
    "children": []
   },
+  "2701465": {
+   "name": "Pomniki_upamiętniające_powstanie_wielkopolskie_1918–1919",
+   "parents": [
+    1458974
+   ],
+   "children": []
+  },
   "2701482": {
    "name": "Pomniki_harcerskie",
    "parents": [
     75442
+   ],
+   "children": []
+  },
+  "2701888": {
+   "name": "Pomniki_upamiętniające_powstania_śląskie",
+   "parents": [
+    549083
    ],
    "children": []
   },
@@ -109792,8 +110875,9 @@
     2857505,
     2857506,
     2857762,
-    3760676,
+    3226276,
     2857509,
+    3760676,
     2857768,
     3835317,
     2709948,
@@ -109831,6 +110915,16 @@
    "children": [
     2710096,
     2710106
+   ]
+  },
+  "2709995": {
+   "name": "Uczelnie_w_Poznaniu",
+   "parents": [
+    4562435
+   ],
+   "children": [
+    2857393,
+    2857822
    ]
   },
   "2710897": {
@@ -110188,7 +111282,9 @@
    "parents": [
     2710108
    ],
-   "children": []
+   "children": [
+    3226276
+   ]
   },
   "2711062": {
    "name": "Uczelnie_w_Wielkiej_Brytanii",
@@ -110482,12 +111578,37 @@
    ],
    "children": []
   },
+  "2720180": {
+   "name": "Członkowie_Towarzystwa_Miłośników_Miasta_Poznania",
+   "parents": [
+    171096
+   ],
+   "children": [
+    4179061
+   ]
+  },
   "2720455": {
    "name": "Śmierci_według_osób",
    "parents": [
     841487
    ],
    "children": []
+  },
+  "5222487": {
+   "name": "Stowarzyszenia_w_Poznaniu",
+   "parents": [
+    2485688
+   ],
+   "children": []
+  },
+  "5532737": {
+   "name": "Towarzystwa_w_Poznaniu",
+   "parents": [
+    2485688
+   ],
+   "children": [
+    3796189
+   ]
   },
   "2721230": {
    "name": "Motocykle_enduro",
@@ -110621,10 +111742,33 @@
    ],
    "children": []
   },
+  "2730817": {
+   "name": "Absolwenci_Politechniki_Poznańskiej",
+   "parents": [
+    2412396
+   ],
+   "children": [
+    2730815
+   ]
+  },
+  "2730815": {
+   "name": "Absolwenci_Wydziału_Architektury_Politechniki_Poznańskiej",
+   "parents": [
+    2730817
+   ],
+   "children": []
+  },
   "2730818": {
    "name": "Absolwenci_Wydziału_Architektury_Politechniki_Wrocławskiej",
    "parents": [
     1961560
+   ],
+   "children": []
+  },
+  "2730932": {
+   "name": "Pochowani_na_Cmentarzu_Obrońców_Lwowa",
+   "parents": [
+    3375627
    ],
    "children": []
   },
@@ -111487,6 +112631,14 @@
    ],
    "children": []
   },
+  "2768758": {
+   "name": "Trenerzy_piłkarzy_Lecha_Poznań",
+   "parents": [
+    817322,
+    3800440
+   ],
+   "children": []
+  },
   "2769286": {
    "name": "Trenerzy_piłkarzy_Podbeskidzia_Bielsko-Biała",
    "parents": [
@@ -111505,6 +112657,13 @@
    "name": "Trenerzy_piłkarzy_Widzewa_Łódź",
    "parents": [
     794861
+   ],
+   "children": []
+  },
+  "2769321": {
+   "name": "Trenerzy_piłkarzy_Warty_Poznań",
+   "parents": [
+    1021306
    ],
    "children": []
   },
@@ -111610,7 +112769,9 @@
    "parents": [
     1902203
    ],
-   "children": []
+   "children": [
+    3718337
+   ]
   },
   "2779784": {
    "name": "Guru_sikhów",
@@ -111797,6 +112958,20 @@
    "name": "Rektorzy_Uniwersytetu_im._Adama_Mickiewicza_w_Poznaniu",
    "parents": [
     2857393
+   ],
+   "children": []
+  },
+  "2786241": {
+   "name": "Absolwenci_Wydziału_Nauk_Politycznych_i_Dziennikarstwa_Uniwersytetu_im._Adama_Mickiewicza_w_Poznaniu",
+   "parents": [
+    2786229
+   ],
+   "children": []
+  },
+  "2786243": {
+   "name": "Absolwenci_Wydziału_Prawa_i_Administracji_Uniwersytetu_im._Adama_Mickiewicza_w_Poznaniu",
+   "parents": [
+    2786229
    ],
    "children": []
   },
@@ -112949,6 +114124,7 @@
   "2831618": {
    "name": "Akcja_„Burza”",
    "parents": [
+    129911,
     424165,
     1460578,
     2598352
@@ -113805,6 +114981,7 @@
     162702
    ],
    "children": [
+    4034904,
     2860660
    ]
   },
@@ -114528,6 +115705,13 @@
    ],
    "children": []
   },
+  "2903796": {
+   "name": "Żużlowcy_PSŻ_Poznań",
+   "parents": [
+    1013167
+   ],
+   "children": []
+  },
   "2904026": {
    "name": "Pochowani_na_Cmentarzu_Świętej_Rodziny_we_Wrocławiu",
    "parents": [
@@ -114625,6 +115809,13 @@
    ],
    "children": []
   },
+  "2907191": {
+   "name": "Brydżyści_Budowlanych_Poznań",
+   "parents": [
+    1013167
+   ],
+   "children": []
+  },
   "2907477": {
    "name": "Europejskie_Obserwatorium_Południowe",
    "parents": [
@@ -114666,6 +115857,13 @@
    "name": "Polscy_historycy_Kościoła_katolickiego",
    "parents": [
     2909948
+   ],
+   "children": []
+  },
+  "2909982": {
+   "name": "Zapaśnicy_Grunwaldu_Poznań",
+   "parents": [
+    3800594
    ],
    "children": []
   },
@@ -114858,6 +116056,13 @@
    ],
    "children": []
   },
+  "2916165": {
+   "name": "Wioślarze_KW_04_Poznań",
+   "parents": [
+    1013167
+   ],
+   "children": []
+  },
   "2916573": {
    "name": "Biskupi_Kościoła_unickiego_w_Imperium_Rosyjskim",
    "parents": [
@@ -114888,6 +116093,13 @@
    "name": "Szachiści_Polonii_Wrocław",
    "parents": [
     2836730
+   ],
+   "children": []
+  },
+  "2917429": {
+   "name": "Lekkoatleci_Olimpii_Poznań",
+   "parents": [
+    2325752
    ],
    "children": []
   },
@@ -114942,6 +116154,13 @@
     3952815,
     2921919
    ]
+  },
+  "2917471": {
+   "name": "Lekkoatleci_Warty_Poznań",
+   "parents": [
+    2325752
+   ],
+   "children": []
   },
   "2917566": {
    "name": "Lekkoatleci_Bałtyku_Gdynia",
@@ -115066,7 +116285,6 @@
   "2923625": {
    "name": "Spektakle_Teatru_Sensacji_Kobra",
    "parents": [
-    2476900,
     1848242
    ],
    "children": []
@@ -115909,6 +117127,13 @@
    ],
    "children": []
   },
+  "2966154": {
+   "name": "Poznań_Open",
+   "parents": [
+    3229223
+   ],
+   "children": []
+  },
   "2966446": {
    "name": "Sezon_2013/2014_w_skokach_narciarskich",
    "parents": [
@@ -116547,17 +117772,6 @@
    ],
    "children": []
   },
-  "2994923": {
-   "name": "Wykładowcy_Politechniki_Poznańskiej",
-   "parents": [
-    2295997,
-    2857822
-   ],
-   "children": [
-    4191785,
-    3695746
-   ]
-  },
   "2994967": {
    "name": "Tour_de_Pologne_2013",
    "parents": [
@@ -116874,7 +118088,8 @@
   "3008401": {
    "name": "Kabarety_Poznania",
    "parents": [
-    136736
+    136736,
+    1057852
    ],
    "children": []
   },
@@ -117165,6 +118380,13 @@
    "children": [
     4622318
    ]
+  },
+  "3020082": {
+   "name": "Banki_w_Poznaniu",
+   "parents": [
+    1291896
+   ],
+   "children": []
   },
   "3020696": {
    "name": "Wioślarstwo_na_Letnich_Igrzyskach_Olimpijskich_1924",
@@ -118975,6 +120197,13 @@
    ],
    "children": []
   },
+  "3074593": {
+   "name": "Pochowani_na_cmentarzu_Jeżyckim_w_Poznaniu",
+   "parents": [
+    2299226
+   ],
+   "children": []
+  },
   "3074904": {
    "name": "Wydziały_humanistyczne",
    "parents": [
@@ -119611,6 +120840,13 @@
    ],
    "children": []
   },
+  "5129634": {
+   "name": "Górnictwo_Królestwa_Kongresowego",
+   "parents": [
+    2729282
+   ],
+   "children": []
+  },
   "3099088": {
    "name": "Dzielnice_i_osiedla_Bremerhaven",
    "parents": [
@@ -119879,6 +121115,30 @@
    "name": "Nieistniejące_skocznie_narciarskie_w_Polsce",
    "parents": [
     3108257
+   ],
+   "children": []
+  },
+  "4588180": {
+   "name": "Ludzie_związani_z_Poznaniem_(I_Rzeczpospolita)",
+   "parents": [
+    4086688
+   ],
+   "children": [
+    4646945,
+    3512227,
+    3108420,
+    3512300,
+    3320108,
+    4270160,
+    4708185,
+    4932284,
+    4103933
+   ]
+  },
+  "3108420": {
+   "name": "Sędziowie_ziemscy_poznańscy",
+   "parents": [
+    4588180
    ],
    "children": []
   },
@@ -120568,6 +121828,13 @@
    ],
    "children": []
   },
+  "3136167": {
+   "name": "Uczelnie_w_Argentynie",
+   "parents": [
+    2710108
+   ],
+   "children": []
+  },
   "3136589": {
    "name": "Dowódcy_Międzynarodowej_Stacji_Kosmicznej",
    "parents": [
@@ -120838,10 +122105,24 @@
     5441246
    ]
   },
+  "3146202": {
+   "name": "Politycy_Partii_Demokratycznej_Lewicy",
+   "parents": [
+    3175850
+   ],
+   "children": []
+  },
   "3146472": {
    "name": "Więźniowie_Palace",
    "parents": [
     3939917
+   ],
+   "children": []
+  },
+  "3146644": {
+   "name": "Katastrofy_w_Poznaniu",
+   "parents": [
+    434218
    ],
    "children": []
   },
@@ -120945,6 +122226,13 @@
    "name": "Grafficiarze",
    "parents": [
     569060
+   ],
+   "children": []
+  },
+  "3151981": {
+   "name": "Wyburzone_obiekty_budowlane_w_Poznaniu",
+   "parents": [
+    3622234
    ],
    "children": []
   },
@@ -121217,10 +122505,11 @@
     3321020
    ],
    "children": [
-    3601396,
-    3602427,
     3162028,
-    3325357
+    3325357,
+    3601396,
+    3586265,
+    3602427
    ]
   },
   "3162028": {
@@ -121269,6 +122558,7 @@
   "3163205": {
    "name": "Laureaci_Medalu_Młodej_Sztuki",
    "parents": [
+    3915872,
     3163206
    ],
    "children": []
@@ -121413,6 +122703,13 @@
    ],
    "children": []
   },
+  "3166038": {
+   "name": "Odznaczeni_Krzyżem_Obrony_Lwowa",
+   "parents": [
+    3375627
+   ],
+   "children": []
+  },
   "3167445": {
    "name": "Pochowani_na_Cmentarzu_Ducha_Świętego_we_Wrocławiu",
    "parents": [
@@ -121450,7 +122747,9 @@
    "parents": [
     1413667
    ],
-   "children": []
+   "children": [
+    5520686
+   ]
   },
   "3170289": {
    "name": "Czetwertyńscy_herbu_Pogoń_Ruska",
@@ -121620,6 +122919,13 @@
     3443540
    ]
   },
+  "3173158": {
+   "name": "Wilda",
+   "parents": [
+    2098219
+   ],
+   "children": []
+  },
   "4068480": {
    "name": "Członkowie_dworu_Zygmunta_III_Wazy",
    "parents": [
@@ -121712,6 +123018,13 @@
    "name": "Myraboliidae",
    "parents": [
     850242
+   ],
+   "children": []
+  },
+  "3175173": {
+   "name": "Śródka_(Poznań)",
+   "parents": [
+    2098219
    ],
    "children": []
   },
@@ -122065,6 +123378,20 @@
    ],
    "children": []
   },
+  "3187591": {
+   "name": "Filmy_kręcone_w_Poznaniu",
+   "parents": [
+    1057852
+   ],
+   "children": []
+  },
+  "3187607": {
+   "name": "Laureaci_Nagrody_Jana_Baptysty_Quadro",
+   "parents": [
+    171096
+   ],
+   "children": []
+  },
   "3995356": {
    "name": "Nagrody_architektoniczne_w_Polsce",
    "parents": [
@@ -122133,6 +123460,13 @@
    "name": "Muzea_etnograficzne_w_Niemczech",
    "parents": [
     1254997
+   ],
+   "children": []
+  },
+  "3189584": {
+   "name": "Kluby_piłkarskie_w_Poznaniu",
+   "parents": [
+    3229228
    ],
    "children": []
   },
@@ -122231,6 +123565,13 @@
    "name": "Internowani_w_Beniaminowie",
    "parents": [
     3195555
+   ],
+   "children": []
+  },
+  "3192057": {
+   "name": "Dziedzictwo_kulturowe_Żydów_w_Poznaniu",
+   "parents": [
+    65449
    ],
    "children": []
   },
@@ -123113,6 +124454,14 @@
    ],
    "children": []
   },
+  "3226276": {
+   "name": "Wykładowcy_uczelni_w_Turcji",
+   "parents": [
+    2709953,
+    2711044
+   ],
+   "children": []
+  },
   "3226566": {
    "name": "Nagrody_Telewizyjne_Akademii_Brytyjskiej",
    "parents": [
@@ -123143,6 +124492,13 @@
    "name": "Przewodniczący_Wielkiego_Zgromadzenia_Narodowego_Turcji",
    "parents": [
     5444038
+   ],
+   "children": []
+  },
+  "3227161": {
+   "name": "Bitwy_powstania_wielkopolskiego_(1918–1919)",
+   "parents": [
+    1458974
    ],
    "children": []
   },
@@ -123445,10 +124801,33 @@
    ],
    "children": []
   },
+  "3241925": {
+   "name": "Absolwenci_Akademii_Wychowania_Fizycznego_im._Eugeniusza_Piaseckiego_w_Poznaniu",
+   "parents": [
+    2412396
+   ],
+   "children": [
+    5397790
+   ]
+  },
   "3241928": {
    "name": "Wykładowcy_Akademii_Wychowania_Fizycznego_im._Eugeniusza_Piaseckiego_w_Poznaniu",
    "parents": [
     2857822
+   ],
+   "children": []
+  },
+  "3242009": {
+   "name": "Pochowani_na_Cmentarzu_parafialnym_św._Jana_Vianneya_w_Poznaniu",
+   "parents": [
+    2299226
+   ],
+   "children": []
+  },
+  "3242017": {
+   "name": "Odznaczeni_Odznaką_Honorową_Miasta_Poznania",
+   "parents": [
+    171096
    ],
    "children": []
   },
@@ -123469,6 +124848,13 @@
     3242842,
     4423043
    ]
+  },
+  "3242730": {
+   "name": "Pochowani_na_cmentarzu_Górczyńskim_w_Poznaniu",
+   "parents": [
+    2299226
+   ],
+   "children": []
   },
   "3242842": {
    "name": "Członkowie_Tajnej_Organizacji_Nauczycielskiej",
@@ -124448,6 +125834,13 @@
    ],
    "children": []
   },
+  "3310711": {
+   "name": "Członkowie_Związku_Powstańców_Śląskich",
+   "parents": [
+    549082
+   ],
+   "children": []
+  },
   "3311303": {
    "name": "Więźniowie_polityczni_w_Rosji",
    "parents": [
@@ -124780,6 +126173,13 @@
    ],
    "children": []
   },
+  "3317666": {
+   "name": "Ostrów_Tumski_(Poznań)",
+   "parents": [
+    2098219
+   ],
+   "children": []
+  },
   "3317669": {
    "name": "Minialbumy_wydane_w_roku_1994",
    "parents": [
@@ -125045,6 +126445,13 @@
     3320104,
     3582177
    ]
+  },
+  "3320108": {
+   "name": "Burmistrzowie_Poznania_(I_Rzeczpospolita)",
+   "parents": [
+    4588180
+   ],
+   "children": []
   },
   "3320110": {
    "name": "Polscy_kupcy_średniowieczni",
@@ -125371,12 +126778,22 @@
   "3326134": {
    "name": "Intelligenzaktion",
    "parents": [
-    3949604
+    3949604,
+    4260246
    ],
    "children": [
     3907712,
     3882828,
     3326143
+   ]
+  },
+  "4260246": {
+   "name": "Zbrodnie_Einsatzgruppen_w_okupowanej_Polsce_(1939–1945)",
+   "parents": [
+    1870273
+   ],
+   "children": [
+    3326134
    ]
   },
   "3326136": {
@@ -125729,6 +127146,7 @@
   "3328473": {
    "name": "Rada_Miasta_Poznania",
    "parents": [
+    1532243,
     3328475
    ],
    "children": []
@@ -126042,6 +127460,7 @@
   "3332036": {
    "name": "Uczestnicy_wydarzeń_poznańskiego_Czerwca_1956",
    "parents": [
+    171096,
     1057928
    ],
    "children": []
@@ -127490,6 +128909,13 @@
    ],
    "children": []
   },
+  "3382224": {
+   "name": "Instytucje_Kultury_Samorządu_Województwa_Opolskiego",
+   "parents": [
+    1521618
+   ],
+   "children": []
+  },
   "3382225": {
    "name": "Superkomputery_w_Polsce",
    "parents": [
@@ -128143,6 +129569,13 @@
    ],
    "children": []
   },
+  "3457387": {
+   "name": "Pochowani_na_cmentarzu_Miłostowo_w_Poznaniu",
+   "parents": [
+    2299226
+   ],
+   "children": []
+  },
   "3458087": {
    "name": "Sezon_2015/2016_w_skokach_narciarskich",
    "parents": [
@@ -128474,6 +129907,7 @@
   "4599613": {
    "name": "Działania_militarne_w_powstaniu_warszawskim",
    "parents": [
+    289304,
     3888389
    ],
    "children": [
@@ -129008,6 +130442,14 @@
    ],
    "children": []
   },
+  "3493056": {
+   "name": "Trenerzy_piłkarzy_Olimpii_Poznań",
+   "parents": [
+    3800440,
+    1021318
+   ],
+   "children": []
+  },
   "3493490": {
    "name": "Syriolodzy",
    "parents": [
@@ -129084,6 +130526,23 @@
     1648769
    ],
    "children": []
+  },
+  "3500918": {
+   "name": "Członkowie_Towarzystwa_Przemysłowego_Polskiego_w_Poznaniu",
+   "parents": [
+    4086668,
+    4652338
+   ],
+   "children": []
+  },
+  "4652338": {
+   "name": "Ludzie_związani_z_Poznaniem_(zabór_pruski)",
+   "parents": [
+    434218
+   ],
+   "children": [
+    3500918
+   ]
   },
   "3501162": {
    "name": "Lean_management",
@@ -129303,6 +130762,20 @@
    "parents": [
     66605,
     301106
+   ],
+   "children": []
+  },
+  "3512227": {
+   "name": "Absolwenci_i_studenci_kolegium_jezuitów_w_Poznaniu",
+   "parents": [
+    4588180
+   ],
+   "children": []
+  },
+  "3512300": {
+   "name": "Absolwenci_i_studenci_Akademii_Lubrańskiego_w_Poznaniu",
+   "parents": [
+    4588180
    ],
    "children": []
   },
@@ -129769,6 +131242,13 @@
    "children": [
     3653810
    ]
+  },
+  "3533588": {
+   "name": "Pochowani_na_cmentarzu_parafii_św._Wojciecha_w_Poznaniu",
+   "parents": [
+    2299226
+   ],
+   "children": []
   },
   "3625396": {
    "name": "Kancelaria_Prezesa_Rady_Ministrów",
@@ -131218,6 +132698,13 @@
    ],
    "children": []
   },
+  "3581872": {
+   "name": "Członkowie_Polskiej_Organizacji_Wojskowej_Górnego_Śląska",
+   "parents": [
+    549083
+   ],
+   "children": []
+  },
   "3582166": {
    "name": "Publicyści_związani_z_Gdańskiem",
    "parents": [
@@ -131461,8 +132948,16 @@
     2488560
    ],
    "children": [
+    3583697,
     3584469
    ]
+  },
+  "3583697": {
+   "name": "Rodzaje_układów_przestrzennych_wsi",
+   "parents": [
+    4436435
+   ],
+   "children": []
   },
   "3584152": {
    "name": "Członkowie_Stronnictwa_Narodowego_na_emigracji",
@@ -131598,6 +133093,13 @@
    "name": "Autostichidae",
    "parents": [
     197170
+   ],
+   "children": []
+  },
+  "3586265": {
+   "name": "Łączniczki_Związku_Walki_Zbrojnej",
+   "parents": [
+    3324258
    ],
    "children": []
   },
@@ -131849,6 +133351,13 @@
    "children": [
     3752602
    ]
+  },
+  "3600124": {
+   "name": "Garbary_(Poznań)",
+   "parents": [
+    3250339
+   ],
+   "children": []
   },
   "3600144": {
    "name": "Świątynie_pod_wezwaniem_Matki_Bożej_Loretańskiej",
@@ -132645,10 +134154,24 @@
    ],
    "children": []
   },
+  "3630741": {
+   "name": "Koszykarze_PBG_Basketu_Poznań",
+   "parents": [
+    1013167
+   ],
+   "children": []
+  },
   "3631542": {
    "name": "Stoły",
    "parents": [
     160678
+   ],
+   "children": []
+  },
+  "3631645": {
+   "name": "Oficerowie_II_Rzeczypospolitej_w_powstaniach_śląskich",
+   "parents": [
+    549082
    ],
    "children": []
   },
@@ -132782,6 +134305,13 @@
     4015633,
     3634419
    ]
+  },
+  "3635320": {
+   "name": "Zniszczone_kościoły_w_Poznaniu",
+   "parents": [
+    1666655
+   ],
+   "children": []
   },
   "3636790": {
    "name": "Władcy_Jülich",
@@ -133289,6 +134819,13 @@
    "name": "Ludzie_urodzeni_w_Sopocie",
    "parents": [
     787438
+   ],
+   "children": []
+  },
+  "3668857": {
+   "name": "Ludzie_urodzeni_w_Poznaniu",
+   "parents": [
+    171096
    ],
    "children": []
   },
@@ -133970,7 +135507,8 @@
   "3711079": {
    "name": "Broń_powstania_styczniowego",
    "parents": [
-    80894
+    80894,
+    461828
    ],
    "children": []
   },
@@ -134077,6 +135615,13 @@
    "name": "Katastrofy_morskie_radzieckiej_marynarki_wojennej",
    "parents": [
     402724
+   ],
+   "children": []
+  },
+  "3718339": {
+   "name": "Wsie_cystersów_oliwskich_(województwo_pomorskie)",
+   "parents": [
+    3718337
    ],
    "children": []
   },
@@ -134708,13 +136253,6 @@
    ],
    "children": []
   },
-  "3774102": {
-   "name": "Tablice_rejestracyjne_w_Polsce",
-   "parents": [
-    484433
-   ],
-   "children": []
-  },
   "3774176": {
    "name": "Wiceprezydenci_Białegostoku",
    "parents": [
@@ -134966,6 +136504,13 @@
    ],
    "children": []
   },
+  "3796189": {
+   "name": "Polskie_Towarzystwo_Technologii_i_Mediów_Edukacyjnych",
+   "parents": [
+    5532737
+   ],
+   "children": []
+  },
   "3796311": {
    "name": "Amerykanie_pochodzenia_wietnamskiego",
    "parents": [
@@ -135128,6 +136673,14 @@
    ],
    "children": []
   },
+  "3800550": {
+   "name": "Lekkoatleci_AZS_Poznań",
+   "parents": [
+    3800535,
+    2325752
+   ],
+   "children": []
+  },
   "4517491": {
    "name": "Ksienie_katolickie",
    "parents": [
@@ -135217,14 +136770,43 @@
    ],
    "children": []
   },
+  "3804879": {
+   "name": "Absolwenci_Wydziału_Nauk_Społecznych_Uniwersytetu_im._Adama_Mickiewicza_w_Poznaniu",
+   "parents": [
+    2786229
+   ],
+   "children": []
+  },
+  "3804892": {
+   "name": "Absolwenci_Wydziału_Filologii_Polskiej_i_Klasycznej_Uniwersytetu_im._Adama_Mickiewicza_w_Poznaniu",
+   "parents": [
+    2786229
+   ],
+   "children": []
+  },
   "3804898": {
    "name": "Absolwenci_Wydziału_Teologicznego_Uniwersytetu_im._Adama_Mickiewicza_w_Poznaniu",
    "parents": [
+    2786229,
     4813867
    ],
    "children": [
     5256693
    ]
+  },
+  "3804908": {
+   "name": "Absolwenci_Wydziału_Biologii_Uniwersytetu_im._Adama_Mickiewicza_w_Poznaniu",
+   "parents": [
+    2786229
+   ],
+   "children": []
+  },
+  "3804913": {
+   "name": "Absolwenci_Wydziału_Anglistyki_Uniwersytetu_im._Adama_Mickiewicza_w_Poznaniu",
+   "parents": [
+    2786229
+   ],
+   "children": []
   },
   "3804942": {
    "name": "Laureaci_Oscara_za_najlepszy_scenariusz_oryginalny",
@@ -135275,6 +136857,41 @@
    "name": "Polskie_publikacje_protestanckie",
    "parents": [
     1312927
+   ],
+   "children": []
+  },
+  "3808919": {
+   "name": "Absolwenci_Wydziału_Neofilologii_Uniwersytetu_im._Adama_Mickiewicza_w_Poznaniu",
+   "parents": [
+    2786229
+   ],
+   "children": []
+  },
+  "3808932": {
+   "name": "Absolwenci_Wydziału_Fizyki_Uniwersytetu_im._Adama_Mickiewicza_w_Poznaniu",
+   "parents": [
+    2786229
+   ],
+   "children": []
+  },
+  "3808944": {
+   "name": "Absolwenci_Wydziału_Nauk_Geograficznych_i_Geologicznych_Uniwersytetu_im._Adama_Mickiewicza_w_Poznaniu",
+   "parents": [
+    2786229
+   ],
+   "children": []
+  },
+  "3808948": {
+   "name": "Absolwenci_Wydziału_Chemii_Uniwersytetu_im._Adama_Mickiewicza_w_Poznaniu",
+   "parents": [
+    2786229
+   ],
+   "children": []
+  },
+  "3809318": {
+   "name": "Absolwenci_Wydziału_Matematyki_i_Informatyki_Uniwersytetu_im._Adama_Mickiewicza_w_Poznaniu",
+   "parents": [
+    2786229
    ],
    "children": []
   },
@@ -136541,6 +138158,7 @@
   "3882815": {
    "name": "Powstańcy_śląscy_–_straceni_przez_Niemcy_nazistowskie_1939–1945",
    "parents": [
+    549082,
     3325653
    ],
    "children": []
@@ -136833,6 +138451,13 @@
     4052398
    ]
   },
+  "3897103": {
+   "name": "Członkowie_Tymczasowego_Komitetu_Rządzącego",
+   "parents": [
+    3375627
+   ],
+   "children": []
+  },
   "3898451": {
    "name": "Politycy_Stronnictwa_Prawicy_Narodowej",
    "parents": [
@@ -136919,6 +138544,23 @@
     4033990
    ]
   },
+  "3904927": {
+   "name": "III_powstanie_śląskie",
+   "parents": [
+    549083
+   ],
+   "children": [
+    3904928
+   ]
+  },
+  "3904928": {
+   "name": "Uczestnicy_III_powstania_śląskiego",
+   "parents": [
+    549082,
+    3904927
+   ],
+   "children": []
+  },
   "3905123": {
    "name": "Fora_internetowe",
    "parents": [
@@ -136998,11 +138640,22 @@
    ],
    "children": []
   },
+  "4086251": {
+   "name": "Historia_Poznania_1918–1939",
+   "parents": [
+    434218
+   ],
+   "children": [
+    4659480,
+    3907554
+   ]
+  },
   "3907554": {
    "name": "Radni_Poznania_(II_Rzeczpospolita)",
    "parents": [
     1872541,
-    3907558
+    3907558,
+    4086251
    ],
    "children": []
   },
@@ -137307,6 +138960,20 @@
    ],
    "children": []
   },
+  "3915855": {
+   "name": "Aktorki_związane_z_Poznaniem",
+   "parents": [
+    3915872
+   ],
+   "children": []
+  },
+  "3916114": {
+   "name": "Aktorzy_związani_z_Poznaniem",
+   "parents": [
+    3915872
+   ],
+   "children": []
+  },
   "3917222": {
    "name": "Powstańcy_węgierscy_(1956)",
    "parents": [
@@ -137326,6 +138993,13 @@
    "name": "Minialbumy_wydane_w_roku_2017",
    "parents": [
     3886601
+   ],
+   "children": []
+  },
+  "3919733": {
+   "name": "Pisarze_związani_z_Poznaniem",
+   "parents": [
+    3915872
    ],
    "children": []
   },
@@ -137474,6 +139148,13 @@
     4649210
    ]
   },
+  "3939277": {
+   "name": "Uczestnicy_II_powstania_śląskiego",
+   "parents": [
+    549082
+   ],
+   "children": []
+  },
   "3939377": {
    "name": "Amerykańskie_astronautki",
    "parents": [
@@ -137519,6 +139200,13 @@
    ],
    "children": []
   },
+  "3940656": {
+   "name": "Funkcjonariusze_niemieckich_władz_okupacyjnych_w_Polsce_1939–1945_(Kraj_Warty)",
+   "parents": [
+    1442323
+   ],
+   "children": []
+  },
   "3940770": {
    "name": "Polacy_i_obywatele_polscy_straceni_przez_Niemcy_nazistowskie_w_dystrykcie_radomskim_Generalnego_Gubernatorstwa",
    "parents": [
@@ -137537,6 +139225,20 @@
    "name": "Papiescy_wojskowi",
    "parents": [
     79058
+   ],
+   "children": []
+  },
+  "3941852": {
+   "name": "Członkowie_władz_powstania_styczniowego_w_województwie_kowieńskim",
+   "parents": [
+    2166865
+   ],
+   "children": []
+  },
+  "3941875": {
+   "name": "Członkowie_władz_powstania_styczniowego_w_województwie_grodzieńskim",
+   "parents": [
+    2166865
    ],
    "children": []
   },
@@ -137581,6 +139283,13 @@
    "name": "Więźniowie_więzienia_w_Sanoku_(okupacja_niemiecka)",
    "parents": [
     3939917
+   ],
+   "children": []
+  },
+  "3947490": {
+   "name": "Uczestnicy_I_powstania_śląskiego",
+   "parents": [
+    549082
    ],
    "children": []
   },
@@ -137729,7 +139438,8 @@
   "4221968": {
    "name": "Prezydenci_Poznania",
    "parents": [
-    3325360
+    3325360,
+    1532236
    ],
    "children": []
   },
@@ -139192,6 +140902,20 @@
    ],
    "children": []
   },
+  "4028187": {
+   "name": "Członkowie_władz_powstania_styczniowego_w_województwie_mińskim",
+   "parents": [
+    2166865
+   ],
+   "children": []
+  },
+  "4028495": {
+   "name": "Anapidae",
+   "parents": [
+    668470
+   ],
+   "children": []
+  },
   "4028537": {
    "name": "Oonopidae",
    "parents": [
@@ -139328,7 +141052,7 @@
    "parents": [
     489106,
     555333,
-    162702
+    4034732
    ],
    "children": []
   },
@@ -140084,6 +141808,16 @@
    ],
    "children": []
   },
+  "4070771": {
+   "name": "Wojskowi_związani_z_Poznaniem",
+   "parents": [
+    171096,
+    1089064
+   ],
+   "children": [
+    4957274
+   ]
+  },
   "4071128": {
    "name": "Geyerzy",
    "parents": [
@@ -140105,6 +141839,13 @@
    "name": "Janczarzy",
    "parents": [
     5020412
+   ],
+   "children": []
+  },
+  "4072592": {
+   "name": "Koszykarki_MUKS-u_Poznań",
+   "parents": [
+    1013167
    ],
    "children": []
   },
@@ -140227,6 +141968,13 @@
    ],
    "children": []
   },
+  "4077289": {
+   "name": "Kanonicy_poznańskiej_kapituły_katedralnej",
+   "parents": [
+    1484057
+   ],
+   "children": []
+  },
   "4077301": {
    "name": "Kanonicy_krakowskiej_kapituły_katedralnej",
    "parents": [
@@ -140273,6 +142021,13 @@
    "name": "Chaty",
    "parents": [
     173778
+   ],
+   "children": []
+  },
+  "4079674": {
+   "name": "Lekkoatleci_KS_Energetyk_Poznań",
+   "parents": [
+    2325752
    ],
    "children": []
   },
@@ -140361,6 +142116,15 @@
    ],
    "children": [
     4658806
+   ]
+  },
+  "4086688": {
+   "name": "Historia_Poznania_1453–1789",
+   "parents": [
+    434218
+   ],
+   "children": [
+    4588180
    ]
   },
   "4086962": {
@@ -140630,6 +142394,13 @@
    ],
    "children": []
   },
+  "4103933": {
+   "name": "Deputaci_duchowni_Trybunału_Głównego_Koronnego_(kapituła_katedralna_poznańska)",
+   "parents": [
+    4588180
+   ],
+   "children": []
+  },
   "4106617": {
    "name": "Członkowie_Rady_Programowej_Żydowskiego_Instytutu_Historycznego",
    "parents": [
@@ -140889,6 +142660,7 @@
   "4140173": {
    "name": "Ludzie_związani_z_Międzynarodowymi_Targami_Poznańskimi",
    "parents": [
+    171096,
     2014769
    ],
    "children": []
@@ -141521,6 +143293,13 @@
    ],
    "children": []
   },
+  "4176093": {
+   "name": "Koszykarze_AZS-u_Poznań",
+   "parents": [
+    3800535
+   ],
+   "children": []
+  },
   "4176270": {
    "name": "Czasopisma_kardiologiczne",
    "parents": [
@@ -141560,6 +143339,13 @@
    "name": "Filmy_o_kurczakach",
    "parents": [
     5136517
+   ],
+   "children": []
+  },
+  "4179061": {
+   "name": "Prezesi_Towarzystwa_Miłośników_Miasta_Poznania",
+   "parents": [
+    2720180
    ],
    "children": []
   },
@@ -142325,6 +144111,13 @@
    ],
    "children": []
   },
+  "4220473": {
+   "name": "Pochowani_na_cmentarzu_parafialnym_św._Stanisława_Kostki_w_Poznaniu",
+   "parents": [
+    2299226
+   ],
+   "children": []
+  },
   "4220747": {
    "name": "Absolwenci_Massachusetts_Institute_of_Technology",
    "parents": [
@@ -142746,12 +144539,39 @@
    ],
    "children": []
   },
+  "4617193": {
+   "name": "Obrońcy_Lwowa_(1920)",
+   "parents": [
+    551075
+   ],
+   "children": []
+  },
   "4249427": {
    "name": "Wykładowcy_Wydziału_Farmaceutycznego_Uniwersytetu_Warszawskiego",
    "parents": [
     1206230
    ],
    "children": []
+  },
+  "4250377": {
+   "name": "Absolwenci_Wydziału_Lekarskiego_Uniwersytetu_Poznańskiego",
+   "parents": [
+    2308230,
+    5180154
+   ],
+   "children": []
+  },
+  "5180154": {
+   "name": "Absolwenci_Uniwersytetu_Poznańskiego",
+   "parents": [
+    2786229
+   ],
+   "children": [
+    4250377,
+    4890403,
+    5180153,
+    4890383
+   ]
   },
   "4252043": {
    "name": "Przedstawiciele_dyplomatyczni_Rady_Regencyjnej_Królestwa_Polskiego_1917–1918",
@@ -142801,6 +144621,18 @@
     2897675
    ],
    "children": []
+  },
+  "5347285": {
+   "name": "Absolwenci_szkół_średnich_w_Poznaniu",
+   "parents": [
+    171096
+   ],
+   "children": [
+    4784840,
+    5454858,
+    5313184,
+    4754279
+   ]
   },
   "4256631": {
    "name": "Niemieckie_powieści_dla_dzieci_i_młodzieży",
@@ -142943,13 +144775,6 @@
    ],
    "children": []
   },
-  "4262814": {
-   "name": "Wsie_w_Kraju_Krasnodarskim",
-   "parents": [
-    710395
-   ],
-   "children": []
-  },
   "4264333": {
    "name": "Wykładowcy_IESE_Business_School",
    "parents": [
@@ -143047,6 +144872,13 @@
    "parents": [
     531816,
     3456643
+   ],
+   "children": []
+  },
+  "4270160": {
+   "name": "Wykładowcy_Akademii_Lubrańskiego",
+   "parents": [
+    4588180
    ],
    "children": []
   },
@@ -143183,7 +145015,7 @@
    ]
   },
   "4274149": {
-   "name": "Żołnierze_5._Wileńskiej_Brygady_Armii_Krajowej",
+   "name": "Żołnierze_5_Wileńskiej_Brygady_Armii_Krajowej",
    "parents": [
     2792085
    ],
@@ -143354,6 +145186,20 @@
    "parents": [
     65383,
     328003
+   ],
+   "children": []
+  },
+  "4287681": {
+   "name": "Członkowie_Polskiego_Komitetu_Narodowego",
+   "parents": [
+    3375627
+   ],
+   "children": []
+  },
+  "4287695": {
+   "name": "Członkowie_Naczelnej_Komendy_Obrony_Lwowa",
+   "parents": [
+    3375627
    ],
    "children": []
   },
@@ -146296,6 +148142,13 @@
    ],
    "children": []
   },
+  "4496417": {
+   "name": "Strukczaszowie_królewscy",
+   "parents": [
+    1554935
+   ],
+   "children": []
+  },
   "4496501": {
    "name": "Sanktuaria_maryjne_na_Malcie",
    "parents": [
@@ -146787,6 +148640,7 @@
   "4546685": {
    "name": "Rektorzy_Arcybiskupiego_Seminarium_Duchownego_w_Poznaniu",
    "parents": [
+    1849862,
     3558228,
     2857393
    ],
@@ -147167,6 +149021,13 @@
    "name": "Starożytne_Delfy",
    "parents": [
     4180516
+   ],
+   "children": []
+  },
+  "4582560": {
+   "name": "Koszykarze_Basketu_Poznań",
+   "parents": [
+    1013167
    ],
    "children": []
   },
@@ -147846,6 +149707,13 @@
    ],
    "children": []
   },
+  "4633275": {
+   "name": "Polskie_organizacje_rolnicze",
+   "parents": [
+    4026056
+   ],
+   "children": []
+  },
   "4633404": {
    "name": "Jaskinie_Krakowa",
    "parents": [
@@ -148105,6 +149973,13 @@
    ],
    "children": []
   },
+  "4646945": {
+   "name": "Kasztelanowie_poznańscy_(I_Rzeczpospolita)",
+   "parents": [
+    4588180
+   ],
+   "children": []
+  },
   "4648052": {
    "name": "Wykładowcy_Akademii_Sztuki_w_Szczecinie",
    "parents": [
@@ -148176,13 +150051,6 @@
     4779070,
     4784295
    ]
-  },
-  "4650245": {
-   "name": "Polskie_galerie_fotografii",
-   "parents": [
-    1417308
-   ],
-   "children": []
   },
   "4650414": {
    "name": "Elektrociepłownie",
@@ -148472,9 +150340,17 @@
    ],
    "children": []
   },
+  "4659480": {
+   "name": "Prasa_w_Poznaniu_(II_Rzeczpospolita)",
+   "parents": [
+    4086251
+   ],
+   "children": []
+  },
   "4659491": {
    "name": "Prasa_w_Poznaniu_(Polska_Ludowa)",
    "parents": [
+    4086248,
     3590537
    ],
    "children": []
@@ -148761,6 +150637,13 @@
    ],
    "children": []
   },
+  "4674751": {
+   "name": "Orlęta_lwowskie_(1918–1919)",
+   "parents": [
+    3375627
+   ],
+   "children": []
+  },
   "4675681": {
    "name": "Przedmioty_szkolne",
    "parents": [
@@ -149040,6 +150923,13 @@
    ],
    "children": []
   },
+  "4699315": {
+   "name": "Absolwenci_Uniwersytetu_WSB_Merito_w_Poznaniu",
+   "parents": [
+    2412396
+   ],
+   "children": []
+  },
   "4701907": {
    "name": "Amerykanie_pochodzenia_brazylijskiego",
    "parents": [
@@ -149073,6 +150963,13 @@
    "name": "Wykładowcy_Wyższej_Szkoły_Europejskiej_im._ks._Józefa_Tischnera_w_Krakowie",
    "parents": [
     2857828
+   ],
+   "children": []
+  },
+  "4708185": {
+   "name": "Artyści_związani_z_Poznaniem_(I_Rzeczpospolita)",
+   "parents": [
+    4588180
    ],
    "children": []
   },
@@ -149185,20 +151082,6 @@
    "name": "Amerykanie_pochodzenia_kabowerdeńskiego",
    "parents": [
     3725913
-   ],
-   "children": []
-  },
-  "4713462": {
-   "name": "Wsie_w_obwodzie_moskiewskim",
-   "parents": [
-    710395
-   ],
-   "children": []
-  },
-  "4713475": {
-   "name": "Wsie_w_Tatarstanie",
-   "parents": [
-    710395
    ],
    "children": []
   },
@@ -149427,10 +151310,24 @@
    ],
    "children": []
   },
+  "4737360": {
+   "name": "Pochowani_na_Cmentarzu_Parafii_Matki_Bożej_Pocieszenia_w_Poznaniu",
+   "parents": [
+    2299226
+   ],
+   "children": []
+  },
   "4737567": {
    "name": "Halowe_Mistrzostwa_Europy_w_Lekkoatletyce_1976",
    "parents": [
     730020
+   ],
+   "children": []
+  },
+  "4737653": {
+   "name": "Pochowani_na_Cmentarzu_parafii_Matki_Bożej_Częstochowskiej_w_Poznaniu",
+   "parents": [
+    2299226
    ],
    "children": []
   },
@@ -149612,6 +151509,13 @@
    "parents": [
     135445,
     1403724
+   ],
+   "children": []
+  },
+  "4754279": {
+   "name": "Absolwenci_VI_Liceum_Ogólnokształcącego_im._Ignacego_Jana_Paderewskiego_w_Poznaniu",
+   "parents": [
+    5347285
    ],
    "children": []
   },
@@ -150049,6 +151953,14 @@
    ],
    "children": []
   },
+  "4779482": {
+   "name": "Pracownicy_Miastoprojekt_–_Poznań",
+   "parents": [
+    171096,
+    3211251
+   ],
+   "children": []
+  },
   "4779489": {
    "name": "Sekretarze_Komitetów_Gminnych_PPR",
    "parents": [
@@ -150259,6 +152171,13 @@
    "name": "Pionierzy_lotnictwa",
    "parents": [
     66333
+   ],
+   "children": []
+  },
+  "4784840": {
+   "name": "Absolwenci_VIII_Liceum_Ogólnokształcącego_im._Adama_Mickiewicza_w_Poznaniu",
+   "parents": [
+    5347285
    ],
    "children": []
   },
@@ -150579,6 +152498,15 @@
     2857472
    ],
    "children": []
+  },
+  "4805690": {
+   "name": "Dziennikarze_związani_z_Poznaniem",
+   "parents": [
+    171096
+   ],
+   "children": [
+    5471121
+   ]
   },
   "4808239": {
    "name": "Absolwenci_uczelni_w_Gruzji",
@@ -151202,6 +153130,20 @@
    ],
    "children": []
   },
+  "4890383": {
+   "name": "Absolwenci_Wydziału_Matematyczno-Przyrodniczego_Uniwersytetu_Poznańskiego",
+   "parents": [
+    5180154
+   ],
+   "children": []
+  },
+  "4890403": {
+   "name": "Absolwenci_Wydziału_Prawno-Ekonomicznego_Uniwersytetu_Poznańskiego",
+   "parents": [
+    5180154
+   ],
+   "children": []
+  },
   "4891199": {
    "name": "Listy_posłów_do_Parlamentu_Europejskiego_według_kadencji",
    "parents": [
@@ -151427,10 +153369,24 @@
    ],
    "children": []
   },
+  "4905806": {
+   "name": "Absolwenci_Wydziału_Matematyczno-Fizyczno-Chemicznego_Uniwersytetu_im._Adama_Mickiewicza_w_Poznaniu",
+   "parents": [
+    2786229
+   ],
+   "children": []
+  },
   "4905911": {
    "name": "Francuscy_ministrowie_środowiska",
    "parents": [
     2709361
+   ],
+   "children": []
+  },
+  "4906342": {
+   "name": "Kandydaci_na_urząd_prezydenta_Poznania",
+   "parents": [
+    1532236
    ],
    "children": []
   },
@@ -151637,6 +153593,7 @@
   "4914038": {
    "name": "Więźniowie_aresztu_śledczego_Gestapo_przy_ul._Młyńskiej_w_Poznaniu",
    "parents": [
+    171096,
     3939902
    ],
    "children": []
@@ -151946,6 +153903,13 @@
    ],
    "children": []
   },
+  "4932043": {
+   "name": "Duchowni_diecezji_poznańskiej_(I_Rzeczpospolita)",
+   "parents": [
+    1849862
+   ],
+   "children": []
+  },
   "4932055": {
    "name": "Polscy_franciszkanie_konwentualni_(I_Rzeczpospolita)",
    "parents": [
@@ -151984,6 +153948,7 @@
   "4932284": {
    "name": "Wykładowcy_kolegium_jezuitów_w_Poznaniu",
    "parents": [
+    4588180,
     4588179
    ],
    "children": []
@@ -152069,6 +154034,13 @@
    "name": "Cesarzowe_epoki_Han",
    "parents": [
     2331774
+   ],
+   "children": []
+  },
+  "4940947": {
+   "name": "Pochowani_w_krypcie_Zasłużonych_Wielkopolan_w_kościele_św._Wojciecha_w_Poznaniu",
+   "parents": [
+    2299226
    ],
    "children": []
   },
@@ -152187,13 +154159,6 @@
    ],
    "children": []
   },
-  "4952775": {
-   "name": "Zespoły_muzyczne_związane_z_Białymstokiem",
-   "parents": [
-    2990048
-   ],
-   "children": []
-  },
   "4953450": {
    "name": "Denhoffowie_herbu_Dzik",
    "parents": [
@@ -152215,6 +154180,22 @@
    ],
    "children": []
   },
+  "4957274": {
+   "name": "Żołnierze_15_Pułku_Ułanów_Poznańskich",
+   "parents": [
+    4070771
+   ],
+   "children": [
+    4957273
+   ]
+  },
+  "4957273": {
+   "name": "Oficerowie_15_Pułku_Ułanów_Poznańskich",
+   "parents": [
+    4957274
+   ],
+   "children": []
+  },
   "4958438": {
    "name": "Puchar_Świata_w_biathlonie_2020/2021",
    "parents": [
@@ -152227,13 +154208,6 @@
    "name": "Sielsowiety_obwodu_mińskiego",
    "parents": [
     2956212
-   ],
-   "children": []
-  },
-  "4959990": {
-   "name": "Wsie_w_obwodzie_kurskim",
-   "parents": [
-    710395
    ],
    "children": []
   },
@@ -152814,13 +154788,6 @@
     4995229,
     4995222
    ]
-  },
-  "4994599": {
-   "name": "Wsie_w_obwodzie_lipieckim",
-   "parents": [
-    710395
-   ],
-   "children": []
   },
   "4994905": {
    "name": "Radni_Tarnowa_(zabór_austriacki)",
@@ -153901,6 +155868,13 @@
    ],
    "children": []
   },
+  "5064027": {
+   "name": "Fotografowie_związani_z_Poznańskim_Towarzystwem_Fotograficznym",
+   "parents": [
+    3915872
+   ],
+   "children": []
+  },
   "5064177": {
    "name": "Odkrywcy_cząstek_elementarnych",
    "parents": [
@@ -153958,13 +155932,6 @@
    "name": "Rzeki_i_potoki_w_Warszawie",
    "parents": [
     887609
-   ],
-   "children": []
-  },
-  "5067284": {
-   "name": "Wsie_w_obwodzie_pskowskim",
-   "parents": [
-    710395
    ],
    "children": []
   },
@@ -154213,6 +156180,13 @@
    ],
    "children": []
   },
+  "5079017": {
+   "name": "Kełderasze",
+   "parents": [
+    1398207
+   ],
+   "children": []
+  },
   "5081459": {
    "name": "Muzea_lotnictwa_i_astronautyki_w_Stanach_Zjednoczonych",
    "parents": [
@@ -154382,13 +156356,6 @@
    "name": "Astronomia_amatorska",
    "parents": [
     93893
-   ],
-   "children": []
-  },
-  "5097628": {
-   "name": "Wsie_w_Czeczenii",
-   "parents": [
-    710395
    ],
    "children": []
   },
@@ -154989,13 +156956,6 @@
    ],
    "children": []
   },
-  "5126174": {
-   "name": "Wsie_w_Mordowii",
-   "parents": [
-    710395
-   ],
-   "children": []
-  },
   "5126313": {
    "name": "Burmistrzowie_Koła",
    "parents": [
@@ -155046,6 +157006,13 @@
    ],
    "children": []
   },
+  "5132296": {
+   "name": "Poznań_w_XX_wieku",
+   "parents": [
+    434218
+   ],
+   "children": []
+  },
   "5132526": {
    "name": "Pływanie_na_Letnich_Igrzyskach_Olimpijskich_1996",
    "parents": [
@@ -155071,6 +157038,20 @@
    "name": "Pływanie_na_Letnich_Igrzyskach_Olimpijskich_1976",
    "parents": [
     1413649
+   ],
+   "children": []
+  },
+  "5134703": {
+   "name": "Poznań_w_literaturze",
+   "parents": [
+    1057852
+   ],
+   "children": []
+  },
+  "5134716": {
+   "name": "Biblioteka_Raczyńskich_w_Poznaniu",
+   "parents": [
+    4562435
    ],
    "children": []
   },
@@ -155202,7 +157183,7 @@
    "children": []
   },
   "5136250": {
-   "name": "Żołnierze_3._Wileńskiej_Brygady_Armii_Krajowej",
+   "name": "Żołnierze_3_Wileńskiej_Brygady_Armii_Krajowej",
    "parents": [
     2792085
    ],
@@ -155294,6 +157275,14 @@
    ],
    "children": []
   },
+  "5140846": {
+   "name": "Zasłużeni_dla_Miasta_Poznania",
+   "parents": [
+    171096,
+    5137373
+   ],
+   "children": []
+  },
   "5142069": {
    "name": "Wyjątkowe_przypadki_medyczne",
    "parents": [
@@ -155306,6 +157295,13 @@
    "name": "Członkowie_„Grunwaldu”_(1939–1941)",
    "parents": [
     3321020
+   ],
+   "children": []
+  },
+  "5143720": {
+   "name": "Poznań_w_XIX_wieku",
+   "parents": [
+    434218
    ],
    "children": []
   },
@@ -155794,6 +157790,13 @@
    ],
    "children": []
   },
+  "5173442": {
+   "name": "Piechota_powstania_styczniowego",
+   "parents": [
+    461828
+   ],
+   "children": []
+  },
   "5173622": {
    "name": "Prezesi_Polskiego_Towarzystwa_Informatycznego",
    "parents": [
@@ -155992,6 +157995,14 @@
    ],
    "children": []
   },
+  "5180153": {
+   "name": "Absolwenci_Wydziału_Rolniczo-Leśnego_Uniwersytetu_Poznańskiego",
+   "parents": [
+    1839493,
+    5180154
+   ],
+   "children": []
+  },
   "5180158": {
    "name": "Wykładowcy_Wydziału_Rolniczo-Leśnego_Uniwersytetu_Poznańskiego",
    "parents": [
@@ -156024,6 +158035,13 @@
    "name": "Elementy_herbowe",
    "parents": [
     5183996
+   ],
+   "children": []
+  },
+  "5184398": {
+   "name": "Zabytkowe_budynki_szkół_i_instytucji_badawczych_w_Poznaniu",
+   "parents": [
+    741819
    ],
    "children": []
   },
@@ -156380,6 +158398,13 @@
    ],
    "children": []
   },
+  "5209421": {
+   "name": "Polscy_biografowie",
+   "parents": [
+    67017
+   ],
+   "children": []
+  },
   "5210328": {
    "name": "Prorektorzy_Uniwersytetu_Warszawskiego",
    "parents": [
@@ -156595,6 +158620,13 @@
    "parents": [
     649625,
     2404884
+   ],
+   "children": []
+  },
+  "5222138": {
+   "name": "Fundacje_w_Poznaniu",
+   "parents": [
+    2485688
    ],
    "children": []
   },
@@ -157124,6 +159156,13 @@
    ],
    "children": []
   },
+  "5275445": {
+   "name": "Prorektorzy_Politechniki_Śląskiej",
+   "parents": [
+    2228010
+   ],
+   "children": []
+  },
   "5275492": {
    "name": "Opozycja_polityczna_na_Białorusi",
    "parents": [
@@ -157258,13 +159297,6 @@
    ],
    "children": []
   },
-  "5284057": {
-   "name": "Wsie_w_Dagestanie",
-   "parents": [
-    710395
-   ],
-   "children": []
-  },
   "5284119": {
    "name": "Mistrzostwa_świata_w_curlingu_na_wózkach",
    "parents": [
@@ -157272,10 +159304,24 @@
    ],
    "children": []
   },
+  "5284470": {
+   "name": "Dworzanie_pokojowi_królewscy",
+   "parents": [
+    1554935
+   ],
+   "children": []
+  },
   "5284934": {
    "name": "Proplatycnemis",
    "parents": [
     2057061
+   ],
+   "children": []
+  },
+  "5285320": {
+   "name": "Dworzanie_konni_królewscy",
+   "parents": [
+    1554935
    ],
    "children": []
   },
@@ -157474,7 +159520,8 @@
   "5298550": {
    "name": "Dziennikarze_Radia_S_Poznań",
    "parents": [
-    1742101
+    1742101,
+    2299197
    ],
    "children": []
   },
@@ -157787,6 +159834,13 @@
    "parents": [
     1596393,
     3321020
+   ],
+   "children": []
+  },
+  "5313184": {
+   "name": "Absolwenci_I_Liceum_Ogólnokształcącego_im._Karola_Marcinkowskiego_w_Poznaniu",
+   "parents": [
+    5347285
    ],
    "children": []
   },
@@ -158323,6 +160377,13 @@
    ],
    "children": []
   },
+  "5326976": {
+   "name": "Dipluridae",
+   "parents": [
+    668470
+   ],
+   "children": []
+  },
   "5327061": {
    "name": "Bitwy_i_operacje_wojny_na_wyczerpanie",
    "parents": [
@@ -158348,6 +160409,13 @@
    "name": "Państwa_uczestniczące_w_Mistrzostwach_Świata_w_Lekkoatletyce_2022",
    "parents": [
     5316806
+   ],
+   "children": []
+  },
+  "5328227": {
+   "name": "Dworzanie_hospodarscy",
+   "parents": [
+    1554935
    ],
    "children": []
   },
@@ -158432,6 +160500,13 @@
    "name": "Pułki_lotnictwa_szturmowego_ludowego_Wojska_Polskiego",
    "parents": [
     1382463
+   ],
+   "children": []
+  },
+  "5330813": {
+   "name": "Polscy_kronikarze_XVI_wieku",
+   "parents": [
+    2454243
    ],
    "children": []
   },
@@ -159090,7 +161165,9 @@
    "parents": [
     1413667
    ],
-   "children": []
+   "children": [
+    5520521
+   ]
   },
   "5368213": {
    "name": "Puchar_Świata_w_biathlonie_2022/2023",
@@ -159516,13 +161593,6 @@
    ],
    "children": []
   },
-  "5389500": {
-   "name": "Wsie_w_obwodzie_astrachańskim",
-   "parents": [
-    710395
-   ],
-   "children": []
-  },
   "5389602": {
    "name": "Wąskotorowe_linie_kolejowe",
    "parents": [
@@ -159575,7 +161645,9 @@
    "parents": [
     1413658
    ],
-   "children": []
+   "children": [
+    5475425
+   ]
   },
   "5391257": {
    "name": "Absolwenci_Akademii_Wojskowej_w_Tiranie",
@@ -159837,6 +161909,13 @@
    "name": "Reaktory_jądrowe_według_typu",
    "parents": [
     881585
+   ],
+   "children": []
+  },
+  "5397790": {
+   "name": "Absolwenci_Zamiejscowego_Wydziału_Kultury_Fizycznej_w_Gorzowie_Wielkopolskim_Akademii_Wychowania_Fizycznego_im._Eugeniusza_Piaseckiego_w_Poznaniu",
+   "parents": [
+    3241925
    ],
    "children": []
   },
@@ -160792,6 +162871,13 @@
    ],
    "children": []
   },
+  "5442850": {
+   "name": "Pochowani_na_Cmentarzu_Garnizonowym_w_Poznaniu",
+   "parents": [
+    2299226
+   ],
+   "children": []
+  },
   "5443762": {
    "name": "Prorektorzy_Akademii_Sztuk_Pięknych_w_Gdańsku",
    "parents": [
@@ -160985,10 +163071,10 @@
    ],
    "children": []
   },
-  "5454491": {
-   "name": "Wsie_w_obwodzie_biełgorodzkim",
+  "5454858": {
+   "name": "Absolwenci_Ogólnokształcącej_Szkoły_Baletowej_im._Olgi_Sławskiej-Lipczyńskiej_w_Poznaniu",
    "parents": [
-    710395
+    5347285
    ],
    "children": []
   },
@@ -161206,9 +163292,20 @@
   "5471121": {
    "name": "Dziennikarze_Radia_Poznań",
    "parents": [
-    1742101
+    1742101,
+    4805690,
+    5471286
    ],
    "children": []
+  },
+  "5471286": {
+   "name": "Ludzie_związani_z_Radiem_Poznań",
+   "parents": [
+    2299197
+   ],
+   "children": [
+    5471121
+   ]
   },
   "5471433": {
    "name": "Wykładowcy_Państwowej_Akademii_Nauk_Stosowanych_w_Nysie",
@@ -161257,6 +163354,13 @@
    "name": "Strzelcy_na_Letnich_Igrzyskach_Olimpijskich_1952",
    "parents": [
     5389146
+   ],
+   "children": []
+  },
+  "5475425": {
+   "name": "Strzelcy_na_Letnich_Igrzyskach_Olimpijskich_1956",
+   "parents": [
+    5390797
    ],
    "children": []
   },
@@ -161735,6 +163839,20 @@
    ],
    "children": []
   },
+  "5520521": {
+   "name": "Wioślarze_na_Letnich_Igrzyskach_Olimpijskich_1948",
+   "parents": [
+    5368066
+   ],
+   "children": []
+  },
+  "5520686": {
+   "name": "Wioślarze_na_Letnich_Igrzyskach_Olimpijskich_1952",
+   "parents": [
+    3169941
+   ],
+   "children": []
+  },
   "5524006": {
    "name": "Nieistniejące_przedsiębiorstwa_chemiczne_w_Polsce",
    "parents": [
@@ -161789,6 +163907,56 @@
    "name": "Ludzie_związani_z_bankowością_w_Wielkiej_Brytanii",
    "parents": [
     3633887
+   ],
+   "children": []
+  },
+  "5529283": {
+   "name": "Euagridae",
+   "parents": [
+    668470
+   ],
+   "children": []
+  },
+  "5530063": {
+   "name": "Gry_komputerowe_o_tematyce_LGBT",
+   "parents": [
+    1383255
+   ],
+   "children": []
+  },
+  "5530640": {
+   "name": "Infra_Silesia",
+   "parents": [
+    2005893
+   ],
+   "children": []
+  },
+  "5532742": {
+   "name": "Salomońscy_parlamentarzyści",
+   "parents": [
+    1935184
+   ],
+   "children": []
+  },
+  "5533237": {
+   "name": "Biuro_Szyfrów",
+   "parents": [
+    2037832,
+    1911735
+   ],
+   "children": []
+  },
+  "5533616": {
+   "name": "Wykładowcy_Wydziału_Chemicznego_Politechniki_Gdańskiej",
+   "parents": [
+    1712795
+   ],
+   "children": []
+  },
+  "5534112": {
+   "name": "Motyw_niewolnictwa_w_filmie",
+   "parents": [
+    1386506
    ],
    "children": []
   },

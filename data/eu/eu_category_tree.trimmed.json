@@ -1223,7 +1223,6 @@
     7968,
     11937,
     373409,
-    11047,
     9130,
     24746,
     6971,
@@ -1888,6 +1887,7 @@
     46304,
     144290,
     340073,
+    906121,
     853099,
     18830,
     678673,
@@ -2088,7 +2088,6 @@
    ],
    "children": [
     8454,
-    11047,
     5292,
     5293,
     8460,
@@ -2915,8 +2914,7 @@
     14422,
     721846,
     8440,
-    144347,
-    6558
+    144347
    ]
   },
   "5806": {
@@ -5041,18 +5039,6 @@
     1061654
    ]
   },
-  "6558": {
-   "name": "Musika_taldeak",
-   "parents": [
-    5804
-   ],
-   "children": [
-    1062065,
-    116794,
-    1053142,
-    942702
-   ]
-  },
   "6560": {
    "name": "Eskultoreak",
    "parents": [
@@ -5794,7 +5780,8 @@
     293166,
     67952,
     459223,
-    109757
+    109757,
+    1123390
    ]
   },
   "6737": {
@@ -9046,12 +9033,24 @@
    "name": "Finlandia",
    "parents": [
     18732,
-    97531
+    97531,
+    1122949
    ],
    "children": [
     50346,
     44899,
     44311
+   ]
+  },
+  "1122949": {
+   "name": "Errusiar_Inperioaren_ondorengo_herrialdeak",
+   "parents": [
+    41707,
+    241266,
+    675764
+   ],
+   "children": [
+    8927
    ]
   },
   "8965": {
@@ -10273,10 +10272,9 @@
    ],
    "children": [
     16293,
-    32280,
     143024,
     94229,
-    12440,
+    32280,
     344766
    ]
   },
@@ -11018,17 +11016,6 @@
     479596,
     11030,
     711965
-   ]
-  },
-  "11047": {
-   "name": "Hungaria",
-   "parents": [
-    18732,
-    97531
-   ],
-   "children": [
-    74008,
-    660433
    ]
   },
   "11083": {
@@ -12234,33 +12221,14 @@
     239390
    ]
   },
-  "12378": {
-   "name": "Bartzelona",
-   "parents": [
-    48552
-   ],
-   "children": [
-    144545,
-    144546,
-    48484,
-    144548,
-    101679,
-    103185,
-    103186,
-    103187,
-    728468,
-    143573
-   ]
-  },
   "48552": {
    "name": "Kataluniako_hiriak",
    "parents": [
     41852
    ],
    "children": [
-    516010,
-    12378,
-    588656
+    588656,
+    516010
    ]
   },
   "12399": {
@@ -12303,22 +12271,6 @@
     751763,
     726169,
     991900
-   ]
-  },
-  "12440": {
-   "name": "Gales",
-   "parents": [
-    94029
-   ],
-   "children": [
-    50275,
-    144941,
-    50258,
-    100181,
-    144663,
-    99034,
-    105692,
-    33183
    ]
   },
   "743303": {
@@ -14446,40 +14398,30 @@
     106078
    ]
   },
-  "18052": {
-   "name": "Psikologoak",
-   "parents": [
-    18053
-   ],
-   "children": [
-    395715
-   ]
-  },
   "18053": {
    "name": "Psikologia",
    "parents": [
     655111
    ],
    "children": [
-    18052,
-    582930,
-    973985,
-    161960,
-    378152,
-    126896,
-    159536,
-    148024,
-    162105,
-    698182,
-    901848,
-    745946,
     114017,
+    973985,
     94694,
     132327,
-    573926,
+    161960,
+    378152,
     116330,
+    573926,
+    698182,
     738925,
-    718707
+    901848,
+    126896,
+    159536,
+    582930,
+    718707,
+    148024,
+    162105,
+    745946
    ]
   },
   "18102": {
@@ -15627,7 +15569,6 @@
     482350,
     428655,
     146744,
-    898969,
     340059,
     144284,
     942621,
@@ -15690,6 +15631,7 @@
    ],
    "children": [
     24691,
+    49780,
     20053,
     436686
    ]
@@ -16585,8 +16527,9 @@
     1109987
    ],
    "children": [
-    729768,
     21985,
+    1109985,
+    729768,
     164025,
     599645
    ]
@@ -19002,17 +18945,6 @@
     42330
    ]
   },
-  "33183": {
-   "name": "Galestarrak",
-   "parents": [
-    12440
-   ],
-   "children": [
-    297704,
-    225283,
-    994367
-   ]
-  },
   "33187": {
    "name": "Eskoziarrak",
    "parents": [
@@ -19209,25 +19141,6 @@
     1109878
    ]
   },
-  "144546": {
-   "name": "Bartzelonako_kirola",
-   "parents": [
-    12378
-   ],
-   "children": [
-    33438
-   ]
-  },
-  "33438": {
-   "name": "Bartzelona_Futbol_Kluba",
-   "parents": [
-    144546
-   ],
-   "children": [
-    144667,
-    948103
-   ]
-  },
   "33458": {
    "name": "Onddoak",
    "parents": [
@@ -19245,9 +19158,10 @@
     5976
    ],
    "children": [
-    656295,
     127235,
     656292,
+    1123910,
+    656295,
     133175
    ]
   },
@@ -19307,6 +19221,7 @@
    "children": [
     43842,
     944516,
+    1054216,
     990381,
     737401,
     33499
@@ -20252,7 +20167,6 @@
   "50258": {
    "name": "Galesko_geografia",
    "parents": [
-    12440,
     49483
    ],
    "children": [
@@ -20437,7 +20351,7 @@
    "children": [
     729408,
     725945,
-    895247
+    739778
    ]
   },
   "385154": {
@@ -21839,10 +21753,11 @@
     141188
    ],
    "children": [
+    1122949,
     739814,
     741545,
-    741566,
-    436686
+    436686,
+    741566
    ]
   },
   "1109903": {
@@ -22289,6 +22204,7 @@
    ],
    "children": [
     944516,
+    1054216,
     72398,
     739735,
     961179,
@@ -22872,6 +22788,7 @@
     943631,
     101424,
     68242,
+    1123192,
     139737,
     731931,
     731934
@@ -22884,6 +22801,7 @@
    ],
    "children": [
     45571,
+    1122852,
     241271,
     43345,
     45746,
@@ -24583,17 +24501,6 @@
     433278
    ]
   },
-  "48484": {
-   "name": "Bartzelonarrak",
-   "parents": [
-    12378
-   ],
-   "children": [
-    143513,
-    995651,
-    374374
-   ]
-  },
   "48485": {
    "name": "Galizierazko_idazleak",
    "parents": [
@@ -24819,10 +24726,11 @@
     123946
    ],
    "children": [
-    752216,
+    1122852,
+    619023,
     723059,
     980920,
-    619023
+    752216
    ]
   },
   "1054266": {
@@ -25200,6 +25108,13 @@
     583691
    ]
   },
+  "49780": {
+   "name": "Neguko_Gerra",
+   "parents": [
+    943679
+   ],
+   "children": []
+  },
   "101364": {
    "name": "Alemaniako_kultura",
    "parents": [
@@ -25439,8 +25354,7 @@
   "50275": {
    "name": "Galesa",
    "parents": [
-    129961,
-    12440
+    129961
    ],
    "children": [
     225283,
@@ -26211,7 +26125,9 @@
     6922,
     1109896
    ],
-   "children": []
+   "children": [
+    1122788
+   ]
   },
   "1109896": {
    "name": "Lehen_Mundu_Gerraren_ondorioak",
@@ -26993,8 +26909,7 @@
     8837
    ],
    "children": [
-    1120381,
-    730151
+    1120381
    ]
   },
   "1083274": {
@@ -32205,7 +32120,6 @@
   "225283": {
    "name": "Gales_hiztunak",
    "parents": [
-    33183,
     50275
    ],
    "children": [
@@ -33353,8 +33267,7 @@
   "74008": {
    "name": "Hungariako_historia",
    "parents": [
-    8837,
-    11047
+    8837
    ],
    "children": [
     334915,
@@ -34019,6 +33932,7 @@
     993201,
     577364,
     850169,
+    1123290,
     678939
    ]
   },
@@ -38305,7 +38219,6 @@
   "99034": {
    "name": "Galestar_mitologia",
    "parents": [
-    12440,
     94229,
     105692
    ],
@@ -38316,7 +38229,6 @@
   "105692": {
    "name": "Galesko_kultura",
    "parents": [
-    12440,
     116658
    ],
    "children": [
@@ -39403,7 +39315,6 @@
   "100181": {
    "name": "Galesko_historia",
    "parents": [
-    12440,
     44974
    ],
    "children": [
@@ -39824,20 +39735,6 @@
     78775
    ],
    "children": []
-  },
-  "101679": {
-   "name": "Bartzelonako_eraikinak",
-   "parents": [
-    12378
-   ],
-   "children": [
-    136772,
-    293533,
-    415240,
-    721545,
-    294319,
-    656157
-   ]
   },
   "101683": {
    "name": "Art_Nouveau",
@@ -40649,7 +40546,6 @@
   "143573": {
    "name": "Bartzelonako_garraioa",
    "parents": [
-    12378,
     141512
    ],
    "children": [
@@ -40673,35 +40569,6 @@
     983211,
     143573
    ]
-  },
-  "103185": {
-   "name": "Bartzelonako_auzoak",
-   "parents": [
-    12378
-   ],
-   "children": [
-    161385,
-    293374,
-    293799
-   ]
-  },
-  "103186": {
-   "name": "Bartzelonako_kaleak",
-   "parents": [
-    12378
-   ],
-   "children": [
-    293785,
-    293722,
-    136614
-   ]
-  },
-  "103187": {
-   "name": "Bartzelonako_enparantzak",
-   "parents": [
-    12378
-   ],
-   "children": []
   },
   "103240": {
    "name": "Joxe_Azurmendi",
@@ -42862,8 +42729,7 @@
    ],
    "children": [
     154473,
-    227229,
-    730151
+    227229
    ]
   },
   "110820": {
@@ -43892,15 +43758,6 @@
     744631
    ]
   },
-  "116794": {
-   "name": "Abesbatzak",
-   "parents": [
-    6558
-   ],
-   "children": [
-    290762
-   ]
-  },
   "116937": {
    "name": "Telekomunikazio_enpresak",
    "parents": [
@@ -43990,7 +43847,6 @@
   "144941": {
    "name": "Galesko_ikurrak",
    "parents": [
-    12440,
     105692
    ],
    "children": []
@@ -47282,9 +47138,7 @@
     387452,
     1100904
    ],
-   "children": [
-    895247
-   ]
+   "children": []
   },
   "230093": {
    "name": "Musika_klasikoko_konposizioak",
@@ -47655,13 +47509,6 @@
     631989
    ]
   },
-  "136614": {
-   "name": "La_Rambla",
-   "parents": [
-    103186
-   ],
-   "children": []
-  },
   "480188": {
    "name": "Animalia_etxekotuak",
    "parents": [
@@ -47692,7 +47539,6 @@
   "136772": {
    "name": "Modernismo_katalana_Bartzelonan",
    "parents": [
-    101679,
     732445
    ],
    "children": []
@@ -49729,7 +49575,6 @@
   "143513": {
    "name": "Bartzelonako_alkateak",
    "parents": [
-    48484,
     733145
    ],
    "children": []
@@ -50278,29 +50123,6 @@
    ],
    "children": []
   },
-  "144545": {
-   "name": "Bartzelonako_hedabideak",
-   "parents": [
-    12378,
-    144548
-   ],
-   "children": [
-    518368,
-    518365
-   ]
-  },
-  "144548": {
-   "name": "Bartzelonako_kultura",
-   "parents": [
-    12378
-   ],
-   "children": [
-    144545,
-    731868,
-    293533,
-    294319
-   ]
-  },
   "144563": {
    "name": "Alemaniako_Errepublika_Demokratikoa",
    "parents": [
@@ -50473,15 +50295,7 @@
   "144663": {
    "name": "Gizateriaren_Ondarea_Galesen",
    "parents": [
-    12440,
     105692
-   ],
-   "children": []
-  },
-  "144667": {
-   "name": "FC_Barcelonako_futbolariak",
-   "parents": [
-    33438
    ],
    "children": []
   },
@@ -51145,7 +50959,7 @@
    ]
   },
   "146744": {
-   "name": "Bigarren_Mundu_Gerrako_guduak",
+   "name": "Bigarren_Mundu_Gerrako_operazioak_eta_guduak",
    "parents": [
     20053
    ],
@@ -51411,6 +51225,7 @@
     737401
    ],
    "children": [
+    1054216,
     147361
    ]
   },
@@ -55335,13 +55150,6 @@
     480087
    ]
   },
-  "161385": {
-   "name": "El_Raval",
-   "parents": [
-    103185
-   ],
-   "children": []
-  },
   "161441": {
    "name": "Euskal_Herriko_arkeologoak",
    "parents": [
@@ -57327,8 +57135,9 @@
    ],
    "children": [
     383937,
-    167858,
     549061,
+    1123535,
+    167858,
     383935
    ]
   },
@@ -58939,8 +58748,6 @@
    "name": "Jugoslaviako_Gerrak",
    "parents": [
     53486,
-    54405,
-    110817,
     130786,
     296925,
     680551
@@ -61162,6 +60969,7 @@
     44314
    ],
    "children": [
+    1072597,
     1037119
    ]
   },
@@ -61220,7 +61028,8 @@
     6713
    ],
    "children": [
-    241265
+    241265,
+    1122894
    ]
   },
   "241265": {
@@ -61242,7 +61051,8 @@
    "children": [
     241265,
     1064549,
-    723918
+    723918,
+    1122949
    ]
   },
   "850919": {
@@ -61542,6 +61352,7 @@
    ],
    "children": [
     938849,
+    898437,
     241992,
     720009,
     241994,
@@ -63108,8 +62919,7 @@
   "290762": {
    "name": "Abesbatza_zuzendariak",
    "parents": [
-    33229,
-    116794
+    33229
    ],
    "children": []
   },
@@ -64178,13 +63988,6 @@
    ],
    "children": []
   },
-  "293374": {
-   "name": "El_Gòtic",
-   "parents": [
-    103185
-   ],
-   "children": []
-  },
   "293383": {
    "name": "Material_konposatuak",
    "parents": [
@@ -64258,14 +64061,6 @@
     293529
    ]
   },
-  "293533": {
-   "name": "Bartzelonako_museoak",
-   "parents": [
-    101679,
-    144548
-   ],
-   "children": []
-  },
   "295382": {
    "name": "Sarraskiak",
    "parents": [
@@ -64334,13 +64129,6 @@
    ],
    "children": []
   },
-  "293722": {
-   "name": "Gràcia_pasealekua",
-   "parents": [
-    103186
-   ],
-   "children": []
-  },
   "996981": {
    "name": "Emakume_diplomazialariak",
    "parents": [
@@ -64371,20 +64159,6 @@
    "children": [
     293777
    ]
-  },
-  "293785": {
-   "name": "Avinguda_Diagonal",
-   "parents": [
-    103186
-   ],
-   "children": []
-  },
-  "293799": {
-   "name": "Sant_Pere,_Santa_Caterina_i_la_Ribera",
-   "parents": [
-    103185
-   ],
-   "children": []
   },
   "293918": {
    "name": "Austriako_gastronomia",
@@ -64614,14 +64388,6 @@
    "name": "Espainiako_arkeologoak",
    "parents": [
     106075
-   ],
-   "children": []
-  },
-  "294319": {
-   "name": "Bartzelonako_antzokiak",
-   "parents": [
-    101679,
-    144548
    ],
    "children": []
   },
@@ -65529,13 +65295,6 @@
    "parents": [
     68242,
     105885
-   ],
-   "children": []
-  },
-  "297704": {
-   "name": "Galestar_estatubatuarrak",
-   "parents": [
-    33183
    ],
    "children": []
   },
@@ -69225,14 +68984,26 @@
   "340071": {
    "name": "Taktika_militarrak",
    "parents": [
+    1123390,
     340072
    ],
    "children": [
     340070,
     1114892,
-    895247,
+    1123665,
     885717,
     725945
+   ]
+  },
+  "1123390": {
+   "name": "Estrategia_militarra",
+   "parents": [
+    6736,
+    340072
+   ],
+   "children": [
+    895187,
+    340071
    ]
   },
   "340072": {
@@ -69242,10 +69013,11 @@
     6736
    ],
    "children": [
-    422023,
     678980,
     943046,
-    340071
+    422023,
+    340071,
+    1123390
    ]
   },
   "340085": {
@@ -71171,7 +70943,8 @@
    "children": [
     668024,
     715897,
-    369235
+    369235,
+    1122384
    ]
   },
   "430763": {
@@ -71336,7 +71109,9 @@
    "parents": [
     675764
    ],
-   "children": []
+   "children": [
+    1109985
+   ]
   },
   "717089": {
    "name": "Napoliko_historia",
@@ -71390,7 +71165,9 @@
    "parents": [
     367892
    ],
-   "children": []
+   "children": [
+    1121336
+   ]
   },
   "372558": {
    "name": "Euskaltzaindiaren_hiztegiak",
@@ -71730,13 +71507,6 @@
    ],
    "children": []
   },
-  "374374": {
-   "name": "Bartzelonako_kondeak",
-   "parents": [
-    48484
-   ],
-   "children": []
-  },
   "435676": {
    "name": "Kataluniako_konderriak",
    "parents": [
@@ -71749,7 +71519,6 @@
   "728468": {
    "name": "Bartzelonako_historia",
    "parents": [
-    12378,
     80938
    ],
    "children": []
@@ -71809,6 +71578,25 @@
     436571,
     482237,
     1029406
+   ]
+  },
+  "375650": {
+   "name": "Savoiako_etxea",
+   "parents": [
+    1109985
+   ],
+   "children": []
+  },
+  "1109985": {
+   "name": "Italiako_Erresuma_(1861–1946)",
+   "parents": [
+    1109986,
+    722852
+   ],
+   "children": [
+    752544,
+    375650,
+    668786
    ]
   },
   "375663": {
@@ -73569,13 +73357,6 @@
    ],
    "children": []
   },
-  "395715": {
-   "name": "Emakume_psikologoak",
-   "parents": [
-    18052
-   ],
-   "children": []
-  },
   "395716": {
    "name": "Emakume_pedagogoak",
    "parents": [
@@ -73895,13 +73676,6 @@
    "name": "Europako_Eskrima_Txapelketa",
    "parents": [
     64085
-   ],
-   "children": []
-  },
-  "415240": {
-   "name": "Bartzelonako_merkatuak",
-   "parents": [
-    101679
    ],
    "children": []
   },
@@ -76341,9 +76115,11 @@
     164025
    ],
    "children": [
+    1122789,
+    895246,
     482323,
     725107,
-    895246
+    1122810
    ]
   },
   "482334": {
@@ -77463,13 +77239,6 @@
    ],
    "children": []
   },
-  "518365": {
-   "name": "Bartzelonako_aldizkariak",
-   "parents": [
-    144545
-   ],
-   "children": []
-  },
   "518366": {
    "name": "Madrilgo_aldizkariak",
    "parents": [
@@ -77487,8 +77256,7 @@
   "518368": {
    "name": "Bartzelonako_egunkariak",
    "parents": [
-    64990,
-    144545
+    64990
    ],
    "children": []
   },
@@ -79537,7 +79305,9 @@
     6166,
     18053
    ],
-   "children": []
+   "children": [
+    1054216
+   ]
   },
   "574055": {
    "name": "Euskal_Herriko_epaitegiak",
@@ -79563,9 +79333,7 @@
    "parents": [
     574107
    ],
-   "children": [
-    895247
-   ]
+   "children": []
   },
   "574168": {
    "name": "Iruñeko_musika",
@@ -81570,7 +81338,8 @@
    ],
    "children": [
     938849,
-    724754
+    724754,
+    898437
    ]
   },
   "724756": {
@@ -82697,7 +82466,8 @@
     594473
    ],
    "children": [
-    594497
+    594497,
+    835147
    ]
   },
   "594497": {
@@ -85987,23 +85757,9 @@
    "parents": [
     65401,
     124457,
-    895247,
     938770
    ],
    "children": []
-  },
-  "895247": {
-   "name": "Bonbardaketak",
-   "parents": [
-    35707,
-    133848,
-    340071,
-    574106
-   ],
-   "children": [
-    653000,
-    895246
-   ]
   },
   "938770": {
    "name": "Espainiako_Gerra_Zibileko_sarraskiak",
@@ -86370,13 +86126,6 @@
    ],
    "children": []
   },
-  "656157": {
-   "name": "Bartzelonako_etxe_orratzak",
-   "parents": [
-    101679
-   ],
-   "children": []
-  },
   "656278": {
    "name": "Frantziako_flora",
    "parents": [
@@ -86710,20 +86459,9 @@
   "660431": {
    "name": "Transilvanian_girotutako_filmak",
    "parents": [
-    660433,
     660434
    ],
    "children": []
-  },
-  "660433": {
-   "name": "Hungarian_girotutako_filmak",
-   "parents": [
-    11047
-   ],
-   "children": [
-    727046,
-    660431
-   ]
   },
   "660434": {
    "name": "Transilvania",
@@ -87758,10 +87496,21 @@
    "parents": [
     121889,
     895105,
-    1105514
+    1105514,
+    1109985,
+    752544
    ],
    "children": [
     668791
+   ]
+  },
+  "752544": {
+   "name": "Italia_Bigarren_Mundu_Gerran",
+   "parents": [
+    1109985
+   ],
+   "children": [
+    668786
    ]
   },
   "668791": {
@@ -88200,6 +87949,7 @@
     594473
    ],
    "children": [
+    835147,
     1008854,
     897222
    ]
@@ -88947,6 +88697,7 @@
     1101895,
     723498,
     1100778,
+    1122949,
     752464,
     1095472,
     723924,
@@ -91462,7 +91213,6 @@
   "721545": {
    "name": "Kanpoko_eskulturak_Bartzelonan",
    "parents": [
-    101679,
     227069
    ],
    "children": []
@@ -92630,7 +92380,8 @@
     482326
    ],
    "children": [
-    1045673
+    1045673,
+    1122841
    ]
   },
   "725114": {
@@ -92977,13 +92728,6 @@
    "parents": [
     677106,
     421190
-   ],
-   "children": []
-  },
-  "727046": {
-   "name": "Budapesten_girotutako_filmak",
-   "parents": [
-    660433
    ],
    "children": []
   },
@@ -93416,7 +93160,8 @@
    "parents": [
     6715,
     1099696,
-    386210
+    386210,
+    739778
    ],
    "children": [
     729769,
@@ -93845,8 +93590,7 @@
    "name": "Òmnium_Cultural",
    "parents": [
     12093,
-    383267,
-    144548
+    383267
    ],
    "children": []
   },
@@ -94552,6 +94296,15 @@
     241490
    ],
    "children": []
+  },
+  "739778": {
+   "name": "Hilik_gabeko_guduak_eta_gatazkak",
+   "parents": [
+    35707
+   ],
+   "children": [
+    933152
+   ]
   },
   "739814": {
    "name": "Errusiako_Gerra_Zibileko_militarrak",
@@ -96980,6 +96733,16 @@
     518772
    ],
    "children": []
+  },
+  "835147": {
+   "name": "Autobiografoak",
+   "parents": [
+    594495,
+    670188
+   ],
+   "children": [
+    1105950
+   ]
   },
   "835208": {
    "name": "Espainiako_ehun_urtedunak",
@@ -100732,6 +100495,7 @@
    "parents": [
     166239,
     7783,
+    1123390,
     943046
    ],
    "children": [
@@ -100760,7 +100524,6 @@
    "parents": [
     482326,
     621823,
-    895247,
     839081
    ],
    "children": []
@@ -100955,6 +100718,14 @@
    ],
    "children": []
   },
+  "898437": {
+   "name": "Gizon_transgenero_eta_transexualak",
+   "parents": [
+    241991,
+    587595
+   ],
+   "children": []
+  },
   "898496": {
    "name": "Euskal_Herriko_estazio_megalitikoak",
    "parents": [
@@ -101021,7 +100792,6 @@
    "parents": [
     44314,
     11588,
-    20053,
     24691,
     101406,
     293531,
@@ -101361,6 +101131,13 @@
    ],
    "children": []
   },
+  "906121": {
+   "name": "Ekintzaile_politikoak",
+   "parents": [
+    4528
+   ],
+   "children": []
+  },
   "906183": {
    "name": "Txikipedia:Ekosistemak",
    "parents": [
@@ -101573,6 +101350,7 @@
     147516
    ],
    "children": [
+    1123228,
     1073933
    ]
   },
@@ -102265,9 +102043,22 @@
    "name": "Eleaniztunak",
    "parents": [
     737401,
-    9611
+    9611,
+    1054216
    ],
    "children": []
+  },
+  "1054216": {
+   "name": "Eleaniztasuna",
+   "parents": [
+    597039,
+    42441,
+    229753,
+    573926
+   ],
+   "children": [
+    929820
+   ]
   },
   "929824": {
    "name": "Dazia",
@@ -103772,7 +103563,6 @@
   "942702": {
    "name": "Musika_taldeei_buruzko_filmak",
    "parents": [
-    6558,
     578797
    ],
    "children": []
@@ -104000,6 +103790,7 @@
     558893
    ],
    "children": [
+    1122894,
     943679
    ]
   },
@@ -104577,13 +104368,6 @@
    ],
    "children": []
   },
-  "948103": {
-   "name": "Bartzelona_Futbol_Kluba_saskibaloia",
-   "parents": [
-    33438
-   ],
-   "children": []
-  },
   "948163": {
    "name": "Kirol_arropa",
    "parents": [
@@ -104962,11 +104746,21 @@
    "parents": [
     366305,
     63557,
-    340064
+    340064,
+    1123289
    ],
    "children": [
     960088,
     960207
+   ]
+  },
+  "1123289": {
+   "name": "Espainiako_Gerra_Zibileko_unitate_eta_formazio_militarrak",
+   "parents": [
+    1123290
+   ],
+   "children": [
+    960086
    ]
   },
   "960088": {
@@ -108536,13 +108330,6 @@
    ],
    "children": []
   },
-  "994367": {
-   "name": "Galesko_biografia_zirriborroak",
-   "parents": [
-    33183
-   ],
-   "children": []
-  },
   "994368": {
    "name": "Bizantziar_Inperioko_biografia_zirriborroak",
    "parents": [
@@ -108660,13 +108447,6 @@
     995473,
     1099684
    ]
-  },
-  "995651": {
-   "name": "Bartzelonan_hildakoak",
-   "parents": [
-    48484
-   ],
-   "children": []
   },
   "995818": {
    "name": "Herbehereetako_erregina_ezkontideak",
@@ -112454,7 +112234,6 @@
   "1053142": {
    "name": "Emakumezko_musika_taldeak",
    "parents": [
-    6558,
     945401
    ],
    "children": []
@@ -113011,7 +112790,6 @@
   "1062065": {
    "name": "Musika_hirukoteak",
    "parents": [
-    6558,
     1062133
    ],
    "children": []
@@ -113547,6 +113325,13 @@
    "name": "Baigorriko_monumentuak",
    "parents": [
     301311
+   ],
+   "children": []
+  },
+  "1072597": {
+   "name": "Alemania_Naziko_itunak",
+   "parents": [
+    241253
    ],
    "children": []
   },
@@ -115621,7 +115406,8 @@
    "name": "Norberaren_bortxaketaz_idatzi_duten_emakume_idazleak",
    "parents": [
     848663,
-    718425
+    718425,
+    835147
    ],
    "children": []
   },
@@ -116273,6 +116059,13 @@
    ],
    "children": []
   },
+  "1121336": {
+   "name": "Espainiako_informatikariak",
+   "parents": [
+    372528
+   ],
+   "children": []
+  },
   "1121607": {
    "name": "Virginia_Woolf",
    "parents": [
@@ -116297,6 +116090,113 @@
    "name": "Espainiako_diputatuak_XV._legegintzaldian",
    "parents": [
     615928
+   ],
+   "children": []
+  },
+  "1122384": {
+   "name": "Diakonoak",
+   "parents": [
+    369230
+   ],
+   "children": []
+  },
+  "1122789": {
+   "name": "Ozeano_Barea_Pazifikoko_gerran",
+   "parents": [
+    482326
+   ],
+   "children": [
+    1122855
+   ]
+  },
+  "1122788": {
+   "name": "Nazioen_Ligako_agindupeko_lurraldeak",
+   "parents": [
+    52350
+   ],
+   "children": []
+  },
+  "1122810": {
+   "name": "Ameriketako_Estatu_Batuetako_Marineen_Gorputza_Bigarren_Mundu_Gerran",
+   "parents": [
+    482326
+   ],
+   "children": [
+    1122855
+   ]
+  },
+  "1122841": {
+   "name": "Salomon_Uharteek_parte_hartutako_Bigarren_Mundu_Gerrako_gudu_eta_operazioak",
+   "parents": [
+    725107
+   ],
+   "children": []
+  },
+  "1122852": {
+   "name": "Britainiar_Inperioko_historia",
+   "parents": [
+    44974,
+    48796
+   ],
+   "children": []
+  },
+  "1122855": {
+   "name": "Guadalcanalgo_Kanpaina",
+   "parents": [
+    1122789,
+    1122810
+   ],
+   "children": []
+  },
+  "1122894": {
+   "name": "Sobietar_Batasuneko_itunak",
+   "parents": [
+    241263,
+    943684
+   ],
+   "children": []
+  },
+  "1123192": {
+   "name": "Erresuma_Batuko_Kontseilu_Pribatuko_kideak",
+   "parents": [
+    43345
+   ],
+   "children": []
+  },
+  "1123228": {
+   "name": "Britainiar_Inperioaren_Ordenako_Gurutze_Handiko_Zaldunak",
+   "parents": [
+    908633
+   ],
+   "children": []
+  },
+  "1123290": {
+   "name": "Espainiako_unitate_eta_formazio_militarrak",
+   "parents": [
+    78447
+   ],
+   "children": [
+    1123289
+   ]
+  },
+  "1123535": {
+   "name": "Indiako_erregeordeak",
+   "parents": [
+    167859
+   ],
+   "children": []
+  },
+  "1123665": {
+   "name": "Zalditeria_kargak",
+   "parents": [
+    340071
+   ],
+   "children": []
+  },
+  "1123910": {
+   "name": "Amurrioko_kontzejuak",
+   "parents": [
+    33465
    ],
    "children": []
   },
