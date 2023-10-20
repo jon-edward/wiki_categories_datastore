@@ -38,6 +38,7 @@
     169771,
     248364,
     297005,
+    1901491,
     1116868,
     1148487,
     1934416,
@@ -364,8 +365,9 @@
     13770,
     364458,
     226606,
-    364464,
+    33904,
     4113,
+    364464,
     364530,
     304020,
     364532,
@@ -453,14 +455,11 @@
     167081,
     34475,
     644554,
-    1031113,
-    90990,
     1139948,
-    1438826,
-    1706590,
+    90990,
     199514,
     4219,
-    469918,
+    1706590,
     364543
    ]
   },
@@ -486,13 +485,13 @@
     932041,
     31050,
     9429,
-    77141,
     1184732,
     4701,
     7905,
     32098,
     80226,
     14564,
+    33904,
     388848,
     4218,
     4220
@@ -1162,6 +1161,7 @@
    "name": "Vallás",
    "parents": [
     32098,
+    33904,
     0
    ],
    "children": [
@@ -1207,6 +1207,17 @@
     1060596,
     32126,
     289663
+   ]
+  },
+  "33904": {
+   "name": "Világnézet",
+   "parents": [
+    7583,
+    32096
+   ],
+   "children": [
+    6677,
+    33839
    ]
   },
   "6845": {
@@ -1482,6 +1493,7 @@
    ],
    "children": [
     425123,
+    148869,
     440262,
     425129,
     795530,
@@ -1883,6 +1895,7 @@
     131638,
     826422,
     245056,
+    1941824,
     104656,
     125137,
     9427,
@@ -2145,6 +2158,7 @@
     1426248,
     132627,
     33560,
+    840251,
     1661406
    ]
   },
@@ -2164,7 +2178,6 @@
     1499190,
     33559,
     33562,
-    840251,
     163166
    ]
   },
@@ -2567,7 +2580,6 @@
     479009,
     908961,
     410563,
-    1782327,
     201705,
     13457,
     167025,
@@ -2805,6 +2817,7 @@
     351202,
     482211,
     1592806,
+    67239,
     292201,
     699755,
     1538763,
@@ -3062,7 +3075,7 @@
    "children": [
     1910626,
     721928,
-    1023919,
+    1942512,
     492593,
     1538077,
     405172,
@@ -3550,7 +3563,9 @@
    "parents": [
     10187
    ],
-   "children": []
+   "children": [
+    67239
+   ]
   },
   "226606": {
    "name": "Etika",
@@ -3733,6 +3748,35 @@
     281882,
     201819,
     68380
+   ]
+  },
+  "148869": {
+   "name": "Vendéglátás",
+   "parents": [
+    7886,
+    396265
+   ],
+   "children": [
+    545423,
+    597104,
+    1732146,
+    178291,
+    21947
+   ]
+  },
+  "21947": {
+   "name": "Gasztronómia",
+   "parents": [
+    148869
+   ],
+   "children": [
+    463008,
+    1151905,
+    462989,
+    597104,
+    178291,
+    616027,
+    862813
    ]
   },
   "22161": {
@@ -4577,6 +4621,7 @@
     132908
    ],
    "children": [
+    1603635,
     32939,
     1010037,
     80213
@@ -4700,6 +4745,7 @@
    ],
    "children": [
     33248,
+    1941747,
     1729821
    ]
   },
@@ -4712,8 +4758,10 @@
    ],
    "children": [
     457600,
-    660457,
+    1941824,
     575044,
+    660457,
+    1941747,
     1506079
    ]
   },
@@ -4935,6 +4983,7 @@
   "33839": {
    "name": "Ateizmus",
    "parents": [
+    33904,
     364464
    ],
    "children": [
@@ -5969,23 +6018,6 @@
     82765
    ]
   },
-  "75106": {
-   "name": "Római_társadalom",
-   "parents": [
-    77141
-   ],
-   "children": [
-    46888,
-    581751
-   ]
-  },
-  "46888": {
-   "name": "Római_nemzetségek",
-   "parents": [
-    75106
-   ],
-   "children": []
-  },
   "47286": {
    "name": "Könyvtártudomány",
    "parents": [
@@ -6418,6 +6450,20 @@
    ],
    "children": []
   },
+  "90990": {
+   "name": "Tudománytörténet",
+   "parents": [
+    4218,
+    4220
+   ],
+   "children": [
+    469922,
+    352355,
+    90891,
+    822155,
+    200376
+   ]
+  },
   "85866": {
    "name": "Kisebbségek",
    "parents": [
@@ -6453,6 +6499,7 @@
     494278,
     111308,
     979374,
+    1150385,
     356787,
     179356
    ]
@@ -7285,31 +7332,6 @@
     79183
    ]
   },
-  "57864": {
-   "name": "Évek_a_légi_közlekedésben",
-   "parents": [
-    72863
-   ],
-   "children": []
-  },
-  "72863": {
-   "name": "Légi_közlekedés",
-   "parents": [
-    840015
-   ],
-   "children": [
-    156736,
-    1477732,
-    57864,
-    479021,
-    239279,
-    607919,
-    1511795,
-    162968,
-    167801,
-    1346269
-   ]
-  },
   "58376": {
    "name": "Karmesterek",
    "parents": [
@@ -7407,6 +7429,7 @@
     164225,
     99013,
     99015,
+    857708,
     72529,
     66098,
     391763
@@ -7921,6 +7944,82 @@
    ],
    "children": []
   },
+  "67173": {
+   "name": "1962",
+   "parents": [
+    67239
+   ],
+   "children": [
+    896728,
+    67172,
+    249437,
+    896783
+   ]
+  },
+  "67172": {
+   "name": "1962_filmjei",
+   "parents": [
+    67173
+   ],
+   "children": []
+  },
+  "67239": {
+   "name": "1960-as_évek",
+   "parents": [
+    77717,
+    19750
+   ],
+   "children": [
+    83395,
+    83875,
+    67173,
+    67238,
+    83876,
+    83877,
+    67413,
+    67192,
+    896378,
+    68027
+   ]
+  },
+  "67192": {
+   "name": "1968",
+   "parents": [
+    67239
+   ],
+   "children": [
+    290576,
+    896786,
+    896742,
+    67191
+   ]
+  },
+  "67191": {
+   "name": "1968_filmjei",
+   "parents": [
+    67192
+   ],
+   "children": []
+  },
+  "67238": {
+   "name": "1963",
+   "parents": [
+    67239
+   ],
+   "children": [
+    896733,
+    249452,
+    67237,
+    896591
+   ]
+  },
+  "67237": {
+   "name": "1963_filmjei",
+   "parents": [
+    67238
+   ],
+   "children": []
+  },
   "77718": {
    "name": "21._század",
    "parents": [
@@ -7932,6 +8031,26 @@
     838733
    ]
   },
+  "67413": {
+   "name": "1969",
+   "parents": [
+    67239
+   ],
+   "children": [
+    896743,
+    67412,
+    896597,
+    1882676,
+    290615
+   ]
+  },
+  "67412": {
+   "name": "1969_filmjei",
+   "parents": [
+    67413
+   ],
+   "children": []
+  },
   "410563": {
    "name": "Közlekedési_vállalatok",
    "parents": [
@@ -7941,6 +8060,21 @@
     1784649,
     200100,
     411087
+   ]
+  },
+  "72863": {
+   "name": "Légi_közlekedés",
+   "parents": [
+    840015
+   ],
+   "children": [
+    156736,
+    1477732,
+    479021,
+    607919,
+    162968,
+    167801,
+    1346269
    ]
   },
   "67863": {
@@ -7975,6 +8109,25 @@
     839270,
     1112121
    ]
+  },
+  "68027": {
+   "name": "1965",
+   "parents": [
+    67239
+   ],
+   "children": [
+    896784,
+    68026,
+    249444,
+    896734
+   ]
+  },
+  "68026": {
+   "name": "1965_filmjei",
+   "parents": [
+    68027
+   ],
+   "children": []
   },
   "839207": {
    "name": "Tudományos_kutatóintézetek",
@@ -9234,16 +9387,6 @@
     74772
    ]
   },
-  "77141": {
-   "name": "Ókori_társadalom",
-   "parents": [
-    32096
-   ],
-   "children": [
-    75106,
-    77140
-   ]
-  },
   "135999": {
    "name": "Gallia",
    "parents": [
@@ -9472,8 +9615,7 @@
   "77140": {
    "name": "Ókori_görög_társadalom",
    "parents": [
-    55684,
-    77141
+    55684
    ],
    "children": []
   },
@@ -9805,10 +9947,11 @@
     20757
    ],
    "children": [
+    209735,
     262289,
+    1940947,
     1360086,
-    265303,
-    209735
+    265303
    ]
   },
   "78189": {
@@ -10099,6 +10242,27 @@
     98857
    ],
    "children": []
+  },
+  "78714": {
+   "name": "Távközlési_műholdak",
+   "parents": [
+    857708
+   ],
+   "children": [
+    1139972
+   ]
+  },
+  "857708": {
+   "name": "Távközlési_technika",
+   "parents": [
+    184796
+   ],
+   "children": [
+    1941824,
+    78714,
+    1941747,
+    857863
+   ]
   },
   "79183": {
    "name": "Kriptográfia",
@@ -10403,10 +10567,22 @@
   "80654": {
    "name": "Budapest_színházai",
    "parents": [
-    38296
+    38296,
+    1942512
    ],
    "children": [
     839684
+   ]
+  },
+  "1942512": {
+   "name": "Budapest_színházi_élete",
+   "parents": [
+    80634
+   ],
+   "children": [
+    1138781,
+    80654,
+    1023919
    ]
   },
   "80716": {
@@ -10731,6 +10907,62 @@
     1569779,
     1544981
    ]
+  },
+  "83395": {
+   "name": "1960",
+   "parents": [
+    67239
+   ],
+   "children": [
+    896616,
+    107873,
+    896726,
+    290575
+   ]
+  },
+  "83875": {
+   "name": "1961",
+   "parents": [
+    67239
+   ],
+   "children": [
+    249409,
+    896782,
+    87246,
+    896727
+   ]
+  },
+  "83876": {
+   "name": "1964",
+   "parents": [
+    67239
+   ],
+   "children": [
+    249408,
+    896736,
+    896589,
+    108133
+   ]
+  },
+  "83877": {
+   "name": "1967",
+   "parents": [
+    67239
+   ],
+   "children": [
+    896741,
+    83878,
+    896785,
+    1793489,
+    249407
+   ]
+  },
+  "83878": {
+   "name": "1967_filmjei",
+   "parents": [
+    83877
+   ],
+   "children": []
   },
   "83948": {
    "name": "Kapucinus_szerzetesek",
@@ -11095,8 +11327,7 @@
    "children": [
     149866,
     85963,
-    85974,
-    633687
+    85974
    ]
   },
   "85967": {
@@ -11390,6 +11621,13 @@
    "name": "Spanyolország_autonóm_közösségeinek_zászlói",
    "parents": [
     14820
+   ],
+   "children": []
+  },
+  "87246": {
+   "name": "1961_filmjei",
+   "parents": [
+    83875
    ],
    "children": []
   },
@@ -12337,20 +12575,6 @@
     212399
    ]
   },
-  "90990": {
-   "name": "Tudománytörténet",
-   "parents": [
-    4218,
-    4220
-   ],
-   "children": [
-    469922,
-    352355,
-    90891,
-    822155,
-    200376
-   ]
-  },
   "90893": {
    "name": "Ősföldrajz",
    "parents": [
@@ -13195,6 +13419,7 @@
    ],
    "children": [
     472128,
+    1941024,
     1806307,
     103398,
     1919080,
@@ -13250,6 +13475,7 @@
     427686
    ],
    "children": [
+    1941281,
     1088685,
     1735444,
     1694229,
@@ -13867,6 +14093,13 @@
     1171319
    ]
   },
+  "107873": {
+   "name": "1960_filmjei",
+   "parents": [
+    83395
+   ],
+   "children": []
+  },
   "506559": {
    "name": "Kajak-kenu_versenyzők",
    "parents": [
@@ -13885,6 +14118,13 @@
    "children": [
     1807081
    ]
+  },
+  "108133": {
+   "name": "1964_filmjei",
+   "parents": [
+    83876
+   ],
+   "children": []
   },
   "1128899": {
    "name": "Cselgáncsozók",
@@ -14957,6 +15197,26 @@
     979475
    ]
   },
+  "124165": {
+   "name": "Kávéházak",
+   "parents": [
+    178291
+   ],
+   "children": [
+    983630
+   ]
+  },
+  "178291": {
+   "name": "Vendéglátóhelyek",
+   "parents": [
+    148869,
+    21947
+   ],
+   "children": [
+    164041,
+    124165
+   ]
+  },
   "124177": {
    "name": "Esztergomi_kanonokok",
    "parents": [
@@ -15141,6 +15401,7 @@
    ],
    "children": [
     1140912,
+    1438749,
     1471196,
     126621
    ]
@@ -15207,6 +15468,7 @@
     7905
    ],
    "children": [
+    1941281,
     1735651,
     1383396,
     127117,
@@ -15868,6 +16130,16 @@
    ],
    "children": []
   },
+  "290576": {
+   "name": "1968_a_sportban",
+   "parents": [
+    67192
+   ],
+   "children": [
+    259992,
+    290712
+   ]
+  },
   "223828": {
    "name": "Építészet_stílusok_szerint",
    "parents": [
@@ -15989,6 +16261,26 @@
    ],
    "children": [
     1131083
+   ]
+  },
+  "249408": {
+   "name": "1964_a_sportban",
+   "parents": [
+    83876
+   ],
+   "children": [
+    290713,
+    259995
+   ]
+  },
+  "290575": {
+   "name": "1960_a_sportban",
+   "parents": [
+    83395
+   ],
+   "children": [
+    290714,
+    259989
    ]
   },
   "135123": {
@@ -16661,6 +16953,13 @@
    ],
    "children": []
   },
+  "706312": {
+   "name": "Európai_pénznemek",
+   "parents": [
+    37972
+   ],
+   "children": []
+  },
   "144545": {
    "name": "Labdarúgó-bajnokságok",
    "parents": [
@@ -16743,13 +17042,6 @@
     197517
    ]
   },
-  "147113": {
-   "name": "Pannonhalmi_főapátok",
-   "parents": [
-    423284
-   ],
-   "children": []
-  },
   "423284": {
    "name": "Magyar_bencés_szerzetesek",
    "parents": [
@@ -16758,6 +17050,13 @@
    "children": [
     147113
    ]
+  },
+  "147113": {
+   "name": "Pannonhalmi_főapátok",
+   "parents": [
+    423284
+   ],
+   "children": []
   },
   "147556": {
    "name": "Bakony",
@@ -16800,9 +17099,19 @@
     21030
    ],
    "children": [
+    148869,
     721566,
     446807
    ]
+  },
+  "1008349": {
+   "name": "Szökőkutak",
+   "parents": [
+    49559,
+    440262,
+    438960
+   ],
+   "children": []
   },
   "149866": {
    "name": "Magyarország_általános_iskolái",
@@ -17245,6 +17554,7 @@
   "463008": {
    "name": "Gasztronómiai_márkanevek",
    "parents": [
+    21947,
     270644
    ],
    "children": []
@@ -17498,6 +17808,16 @@
     198586,
     1130819,
     1002653
+   ]
+  },
+  "164041": {
+   "name": "Éttermek",
+   "parents": [
+    178291
+   ],
+   "children": [
+    836778,
+    702463
    ]
   },
   "164090": {
@@ -21637,7 +21957,6 @@
    "parents": [
     653308,
     89178,
-    72863,
     201705
    ],
    "children": [
@@ -21890,6 +22209,51 @@
    ],
    "children": [
     684532
+   ]
+  },
+  "249407": {
+   "name": "1967_a_sportban",
+   "parents": [
+    83877
+   ],
+   "children": [
+    292133
+   ]
+  },
+  "249409": {
+   "name": "1961_a_sportban",
+   "parents": [
+    83875
+   ],
+   "children": [
+    292138
+   ]
+  },
+  "249437": {
+   "name": "1962_a_sportban",
+   "parents": [
+    67173
+   ],
+   "children": [
+    292137
+   ]
+  },
+  "249444": {
+   "name": "1965_a_sportban",
+   "parents": [
+    68027
+   ],
+   "children": [
+    292134
+   ]
+  },
+  "249452": {
+   "name": "1963_a_sportban",
+   "parents": [
+    67238
+   ],
+   "children": [
+    292136
    ]
   },
   "249548": {
@@ -22217,6 +22581,27 @@
    "children": [
     262190
    ]
+  },
+  "259989": {
+   "name": "Olimpiai_bajnokok_(1960)",
+   "parents": [
+    290575
+   ],
+   "children": []
+  },
+  "259992": {
+   "name": "Olimpiai_bajnokok_(1968)",
+   "parents": [
+    290576
+   ],
+   "children": []
+  },
+  "259995": {
+   "name": "Olimpiai_bajnokok_(1964)",
+   "parents": [
+    249408
+   ],
+   "children": []
   },
   "260091": {
    "name": "Romantikus_költők,_írók",
@@ -23814,6 +24199,42 @@
     1658494
    ]
   },
+  "290615": {
+   "name": "1969_a_sportban",
+   "parents": [
+    67413
+   ],
+   "children": [
+    292130
+   ]
+  },
+  "290712": {
+   "name": "1968_a_labdarúgásban",
+   "parents": [
+    290576
+   ],
+   "children": [
+    574374
+   ]
+  },
+  "290713": {
+   "name": "1964_a_labdarúgásban",
+   "parents": [
+    249408
+   ],
+   "children": [
+    574340
+   ]
+  },
+  "290714": {
+   "name": "1960_a_labdarúgásban",
+   "parents": [
+    290575
+   ],
+   "children": [
+    574356
+   ]
+  },
   "290930": {
    "name": "Vasúti_balesetek",
    "parents": [
@@ -23831,6 +24252,58 @@
     10534
    ],
    "children": []
+  },
+  "292130": {
+   "name": "1969_a_labdarúgásban",
+   "parents": [
+    290615
+   ],
+   "children": []
+  },
+  "292133": {
+   "name": "1967_a_labdarúgásban",
+   "parents": [
+    249407
+   ],
+   "children": [
+    574382
+   ]
+  },
+  "292134": {
+   "name": "1965_a_labdarúgásban",
+   "parents": [
+    249444
+   ],
+   "children": [
+    574373
+   ]
+  },
+  "292136": {
+   "name": "1963_a_labdarúgásban",
+   "parents": [
+    249452
+   ],
+   "children": [
+    574361
+   ]
+  },
+  "292137": {
+   "name": "1962_a_labdarúgásban",
+   "parents": [
+    249437
+   ],
+   "children": [
+    574371
+   ]
+  },
+  "292138": {
+   "name": "1961_a_labdarúgásban",
+   "parents": [
+    249409
+   ],
+   "children": [
+    574362
+   ]
   },
   "292201": {
    "name": "Avantgárd",
@@ -27134,16 +27607,6 @@
     469100
    ]
   },
-  "1031113": {
-   "name": "Tudományos_folyóiratok",
-   "parents": [
-    4218
-   ],
-   "children": [
-    561482,
-    469071
-   ]
-  },
   "396351": {
    "name": "Irodalomelmélet",
    "parents": [
@@ -27542,6 +28005,7 @@
   "462989": {
    "name": "Gasztronómiai_eszközök",
    "parents": [
+    21947,
     533319
    ],
    "children": [
@@ -28064,8 +28528,7 @@
   "469918": {
    "name": "Tudományos_könyvek",
    "parents": [
-    3949,
-    4218
+    3949
    ],
    "children": [
     1126273,
@@ -29319,7 +29782,9 @@
    "parents": [
     183785
    ],
-   "children": []
+   "children": [
+    1941510
+   ]
   },
   "459507": {
    "name": "Tibet-portál",
@@ -29801,13 +30266,6 @@
    "name": "Jeszenszky_család",
    "parents": [
     72396
-   ],
-   "children": []
-  },
-  "469071": {
-   "name": "Fizikai_folyóiratok",
-   "parents": [
-    1031113
    ],
    "children": []
   },
@@ -30545,6 +31003,7 @@
    ],
    "children": [
     1698298,
+    1696595,
     480580,
     1696588
    ]
@@ -32410,6 +32869,13 @@
    ],
    "children": []
   },
+  "545423": {
+   "name": "Étteremkalauzok",
+   "parents": [
+    148869
+   ],
+   "children": []
+  },
   "545752": {
    "name": "Finnugristák",
    "parents": [
@@ -32660,8 +33126,7 @@
   "561482": {
    "name": "Nyelvészeti_folyóiratok",
    "parents": [
-    11890,
-    1031113
+    11890
    ],
    "children": []
   },
@@ -32873,6 +33338,62 @@
    ],
    "children": []
   },
+  "574340": {
+   "name": "1964-ben_alapított_labdarúgócsapatok",
+   "parents": [
+    290713
+   ],
+   "children": []
+  },
+  "574356": {
+   "name": "1960-ban_alapított_labdarúgócsapatok",
+   "parents": [
+    290714
+   ],
+   "children": []
+  },
+  "574361": {
+   "name": "1963-ban_alapított_labdarúgócsapatok",
+   "parents": [
+    292136
+   ],
+   "children": []
+  },
+  "574362": {
+   "name": "1961-ben_alapított_labdarúgócsapatok",
+   "parents": [
+    292138
+   ],
+   "children": []
+  },
+  "574371": {
+   "name": "1962-ben_alapított_labdarúgócsapatok",
+   "parents": [
+    292137
+   ],
+   "children": []
+  },
+  "574373": {
+   "name": "1965-ben_alapított_labdarúgócsapatok",
+   "parents": [
+    292134
+   ],
+   "children": []
+  },
+  "574374": {
+   "name": "1968-ban_alapított_labdarúgócsapatok",
+   "parents": [
+    290712
+   ],
+   "children": []
+  },
+  "574382": {
+   "name": "1967-ben_alapított_labdarúgócsapatok",
+   "parents": [
+    292133
+   ],
+   "children": []
+  },
   "574738": {
    "name": "2000-ben_alapított_labdarúgócsapatok",
    "parents": [
@@ -32949,7 +33470,9 @@
    "parents": [
     183785
    ],
-   "children": []
+   "children": [
+    1941736
+   ]
   },
   "699755": {
    "name": "Második_világháború",
@@ -33037,13 +33560,6 @@
    "parents": [
     9076,
     150258
-   ],
-   "children": []
-  },
-  "581751": {
-   "name": "Római_jog",
-   "parents": [
-    75106
    ],
    "children": []
   },
@@ -33377,6 +33893,16 @@
    ],
    "children": []
   },
+  "597104": {
+   "name": "Szakácsok",
+   "parents": [
+    148869,
+    21947
+   ],
+   "children": [
+    615879
+   ]
+  },
   "597187": {
    "name": "Orosz_forgatókönyvírók",
    "parents": [
@@ -33690,9 +34216,17 @@
    ],
    "children": []
   },
+  "615879": {
+   "name": "Magyar_szakácsok,_mesterszakácsok",
+   "parents": [
+    597104
+   ],
+   "children": []
+  },
   "616027": {
    "name": "Gasztronómiai_fogalmak",
    "parents": [
+    21947,
     839553
    ],
    "children": [
@@ -34105,29 +34639,10 @@
     633136
    ]
   },
-  "633687": {
-   "name": "Felekezeti_iskolák_Magyarországon",
-   "parents": [
-    634171
-   ],
-   "children": [
-    633709,
-    633693,
-    633685
-   ]
-  },
-  "633685": {
-   "name": "Katolikus_középiskolák_Magyarországon",
-   "parents": [
-    633687
-   ],
-   "children": []
-  },
   "633693": {
    "name": "Protestáns_középiskolák_Magyarországon",
    "parents": [
-    85712,
-    633687
+    85712
    ],
    "children": []
   },
@@ -34136,8 +34651,7 @@
    "parents": [
     85963,
     85712,
-    85974,
-    633687
+    85974
    ],
    "children": []
   },
@@ -35427,6 +35941,7 @@
     77728
    ],
    "children": [
+    1942433,
     1600647,
     706697,
     1407596,
@@ -35716,6 +36231,13 @@
     705495
    ]
   },
+  "702463": {
+   "name": "Étteremláncok",
+   "parents": [
+    164041
+   ],
+   "children": []
+  },
   "702525": {
    "name": "Fosszilis_madarak",
    "parents": [
@@ -36000,7 +36522,9 @@
    "parents": [
     54742
    ],
-   "children": []
+   "children": [
+    1656333
+   ]
   },
   "705958": {
    "name": "Az_Antarktisz_földrajza",
@@ -36036,13 +36560,6 @@
    "name": "Öröklési_jog",
    "parents": [
     103493
-   ],
-   "children": []
-  },
-  "706312": {
-   "name": "Európai_pénznemek",
-   "parents": [
-    37972
    ],
    "children": []
   },
@@ -37122,184 +37639,17 @@
    ],
    "children": []
   },
-  "753465": {
-   "name": "Főispánok",
-   "parents": [
-    753467
-   ],
-   "children": [
-    753536,
-    1769475,
-    753796,
-    754052,
-    753543,
-    754047,
-    754056,
-    754063,
-    754066,
-    753560,
-    754586,
-    753570,
-    754723,
-    753846,
-    754746,
-    753987,
-    753988,
-    753989,
-    753478,
-    753483,
-    753484,
-    753486,
-    753490,
-    753491,
-    753492,
-    753496,
-    753501,
-    753504,
-    753505,
-    753506,
-    753507,
-    753508,
-    754410,
-    754031,
-    754036,
-    1591802,
-    753535
-   ]
-  },
   "753467": {
    "name": "Ispánok",
    "parents": [
     801130
-   ],
-   "children": [
-    753465
-   ]
-  },
-  "753478": {
-   "name": "Pozsony_vármegye_főispánjai",
-   "parents": [
-    753465
-   ],
-   "children": []
-  },
-  "753483": {
-   "name": "Zólyom_vármegye_főispánjai",
-   "parents": [
-    753465
-   ],
-   "children": []
-  },
-  "753484": {
-   "name": "Temes_vármegye_főispánjai",
-   "parents": [
-    753465
-   ],
-   "children": []
-  },
-  "753486": {
-   "name": "Csongrád_vármegye_főispánjai",
-   "parents": [
-    753465
-   ],
-   "children": []
-  },
-  "753490": {
-   "name": "Szatmár_vármegye_főispánjai",
-   "parents": [
-    753465
-   ],
-   "children": []
-  },
-  "753491": {
-   "name": "Bihar_vármegye_főispánjai",
-   "parents": [
-    753465
-   ],
-   "children": []
-  },
-  "753492": {
-   "name": "Szabolcs_vármegye_főispánjai",
-   "parents": [
-    753465
    ],
    "children": []
   },
   "753496": {
    "name": "Örökös_főispánok",
    "parents": [
-    181783,
-    753465
-   ],
-   "children": []
-  },
-  "753501": {
-   "name": "Fejér_vármegye_főispánjai",
-   "parents": [
-    753465
-   ],
-   "children": []
-  },
-  "753504": {
-   "name": "Sopron_vármegye_főispánjai",
-   "parents": [
-    753465
-   ],
-   "children": []
-  },
-  "753505": {
-   "name": "Somogy_vármegye_főispánjai",
-   "parents": [
-    753465
-   ],
-   "children": []
-  },
-  "753506": {
-   "name": "Bács_vármegye_főispánjai",
-   "parents": [
-    753465
-   ],
-   "children": []
-  },
-  "753507": {
-   "name": "Vas_vármegye_főispánjai",
-   "parents": [
-    753465
-   ],
-   "children": []
-  },
-  "753508": {
-   "name": "Zala_vármegye_főispánjai",
-   "parents": [
-    753465
-   ],
-   "children": []
-  },
-  "753535": {
-   "name": "Torna_vármegye_főispánjai",
-   "parents": [
-    753465
-   ],
-   "children": []
-  },
-  "753536": {
-   "name": "Sáros_vármegye_főispánjai",
-   "parents": [
-    753465
-   ],
-   "children": []
-  },
-  "753543": {
-   "name": "Arad_vármegye_főispánjai",
-   "parents": [
-    753465
-   ],
-   "children": []
-  },
-  "753560": {
-   "name": "Nyitra_vármegye_főispánjai",
-   "parents": [
-    753465
+    181783
    ],
    "children": []
   },
@@ -37307,97 +37657,6 @@
    "name": "Keresztény_templomépítészet",
    "parents": [
     283678
-   ],
-   "children": []
-  },
-  "753570": {
-   "name": "Csanád_vármegye_főispánjai",
-   "parents": [
-    753465
-   ],
-   "children": []
-  },
-  "753796": {
-   "name": "Abaúj_vármegye_főispánjai",
-   "parents": [
-    753465
-   ],
-   "children": []
-  },
-  "753846": {
-   "name": "Máramaros_vármegye_főispánjai",
-   "parents": [
-    753465
-   ],
-   "children": []
-  },
-  "753987": {
-   "name": "Komárom_vármegye_főispánjai",
-   "parents": [
-    753465
-   ],
-   "children": []
-  },
-  "753988": {
-   "name": "Szepes_vármegye_főispánjai",
-   "parents": [
-    753465
-   ],
-   "children": []
-  },
-  "753989": {
-   "name": "Zemplén_vármegye_főispánjai",
-   "parents": [
-    753465
-   ],
-   "children": []
-  },
-  "754031": {
-   "name": "Moson_vármegye_főispánjai",
-   "parents": [
-    753465
-   ],
-   "children": []
-  },
-  "754036": {
-   "name": "Békés_vármegye_főispánjai",
-   "parents": [
-    753465
-   ],
-   "children": []
-  },
-  "754047": {
-   "name": "Borsod_vármegye_főispánjai",
-   "parents": [
-    753465
-   ],
-   "children": []
-  },
-  "754052": {
-   "name": "Hont_vármegye_főispánjai",
-   "parents": [
-    753465
-   ],
-   "children": []
-  },
-  "754056": {
-   "name": "Bars_vármegye_főispánjai",
-   "parents": [
-    753465
-   ],
-   "children": []
-  },
-  "754063": {
-   "name": "Nógrád_vármegye_főispánjai",
-   "parents": [
-    753465
-   ],
-   "children": []
-  },
-  "754066": {
-   "name": "Trencsén_vármegye_főispánjai",
-   "parents": [
-    753465
    ],
    "children": []
   },
@@ -37409,38 +37668,10 @@
    ],
    "children": []
   },
-  "754410": {
-   "name": "Turóc_vármegye_főispánjai",
-   "parents": [
-    753465
-   ],
-   "children": []
-  },
   "754467": {
    "name": "Büntető_törvénykönyv",
    "parents": [
     19776
-   ],
-   "children": []
-  },
-  "754586": {
-   "name": "Baranya_vármegye_főispánjai",
-   "parents": [
-    753465
-   ],
-   "children": []
-  },
-  "754723": {
-   "name": "Jász-Nagykun-Szolnok_vármegye_főispánjai",
-   "parents": [
-    753465
-   ],
-   "children": []
-  },
-  "754746": {
-   "name": "Tolna_vármegye_főispánjai",
-   "parents": [
-    753465
    ],
    "children": []
   },
@@ -37620,7 +37851,8 @@
    ],
    "children": [
     1806305,
-    1918970
+    1918970,
+    1941025
    ]
   },
   "769835": {
@@ -38177,7 +38409,7 @@
    "children": []
   },
   "800689": {
-   "name": "Izraeli-palesztin_konfliktus",
+   "name": "Izraeli–palesztin_konfliktus",
    "parents": [
     131007
    ],
@@ -38810,6 +39042,22 @@
    ],
    "children": []
   },
+  "836778": {
+   "name": "Magyarország_éttermei",
+   "parents": [
+    164041
+   ],
+   "children": [
+    836781
+   ]
+  },
+  "836781": {
+   "name": "Budapest_éttermei",
+   "parents": [
+    836778
+   ],
+   "children": []
+  },
   "837059": {
    "name": "Harckoreográfusok",
    "parents": [
@@ -39001,7 +39249,7 @@
   "840251": {
    "name": "Magyarországi_művészeti_szervezetek",
    "parents": [
-    31616,
+    33559,
     191113
    ],
    "children": []
@@ -39253,7 +39501,8 @@
    "name": "Kábelek",
    "parents": [
     15981,
-    72529
+    72529,
+    857708
    ],
    "children": []
   },
@@ -39352,6 +39601,13 @@
    "name": "Török_dalszerzők",
    "parents": [
     862713
+   ],
+   "children": []
+  },
+  "862813": {
+   "name": "Gasztrofilmek",
+   "parents": [
+    21947
    ],
    "children": []
   },
@@ -39863,6 +40119,13 @@
    ],
    "children": []
   },
+  "1603635": {
+   "name": "Natura_2000",
+   "parents": [
+    45885
+   ],
+   "children": []
+  },
   "896368": {
    "name": "A_20._században_született_személyek",
    "parents": [
@@ -39914,6 +40177,7 @@
   "896378": {
    "name": "Az_1960-as_években_született_személyek",
    "parents": [
+    67239,
     896368
    ],
    "children": [
@@ -39962,6 +40226,7 @@
   "896589": {
    "name": "1964-ben_született_személyek",
    "parents": [
+    83876,
     896378
    ],
    "children": []
@@ -39969,6 +40234,7 @@
   "896591": {
    "name": "1963-ban_született_személyek",
    "parents": [
+    67238,
     896378
    ],
    "children": []
@@ -39976,6 +40242,7 @@
   "896597": {
    "name": "1969-ben_született_személyek",
    "parents": [
+    67413,
     896378
    ],
    "children": []
@@ -40018,6 +40285,7 @@
   "896616": {
    "name": "1960-ban_született_személyek",
    "parents": [
+    83395,
     896378
    ],
    "children": []
@@ -40055,6 +40323,69 @@
    "children": [
     897093
    ]
+  },
+  "896726": {
+   "name": "1960-ban_elhunyt_személyek",
+   "parents": [
+    83395
+   ],
+   "children": []
+  },
+  "896727": {
+   "name": "1961-ben_elhunyt_személyek",
+   "parents": [
+    83875
+   ],
+   "children": []
+  },
+  "896728": {
+   "name": "1962-ben_elhunyt_személyek",
+   "parents": [
+    67173
+   ],
+   "children": []
+  },
+  "896733": {
+   "name": "1963-ban_elhunyt_személyek",
+   "parents": [
+    67238
+   ],
+   "children": []
+  },
+  "896734": {
+   "name": "1965-ben_elhunyt_személyek",
+   "parents": [
+    68027
+   ],
+   "children": []
+  },
+  "896736": {
+   "name": "1964-ben_elhunyt_személyek",
+   "parents": [
+    83876
+   ],
+   "children": []
+  },
+  "896741": {
+   "name": "1967-ben_elhunyt_személyek",
+   "parents": [
+    83877
+   ],
+   "children": []
+  },
+  "896742": {
+   "name": "1968-ban_elhunyt_személyek",
+   "parents": [
+    67192
+   ],
+   "children": []
+  },
+  "896743": {
+   "name": "1969-ben_elhunyt_személyek",
+   "parents": [
+    67413
+   ],
+   "children": []
   },
   "896761": {
    "name": "1942-ben_született_személyek",
@@ -40157,6 +40488,7 @@
   "896782": {
    "name": "1961-ben_született_személyek",
    "parents": [
+    83875,
     896378
    ],
    "children": []
@@ -40164,6 +40496,7 @@
   "896783": {
    "name": "1962-ben_született_személyek",
    "parents": [
+    67173,
     896378
    ],
    "children": []
@@ -40171,6 +40504,7 @@
   "896784": {
    "name": "1965-ben_született_személyek",
    "parents": [
+    68027,
     896378
    ],
    "children": []
@@ -40178,6 +40512,7 @@
   "896785": {
    "name": "1967-ben_született_személyek",
    "parents": [
+    83877,
     896378
    ],
    "children": []
@@ -40185,6 +40520,7 @@
   "896786": {
    "name": "1968-ban_született_személyek",
    "parents": [
+    67192,
     896378
    ],
    "children": []
@@ -43584,15 +43920,6 @@
    ],
    "children": []
   },
-  "1782327": {
-   "name": "Az_Alpok_közlekedése",
-   "parents": [
-    14862
-   ],
-   "children": [
-    1899935
-   ]
-  },
   "927118": {
    "name": "Sífutás_az_1992._évi_téli_olimpiai_játékokon",
    "parents": [
@@ -43649,6 +43976,13 @@
    "name": "Sífutás_a_2002._évi_téli_olimpiai_játékokon",
    "parents": [
     640914
+   ],
+   "children": []
+  },
+  "1150385": {
+   "name": "Vonattípusok",
+   "parents": [
+    51955
    ],
    "children": []
   },
@@ -44418,6 +44752,13 @@
    ],
    "children": []
   },
+  "983630": {
+   "name": "Budapest_kávéházai",
+   "parents": [
+    124165
+   ],
+   "children": []
+  },
   "984012": {
    "name": "Teljesítménytúrák",
    "parents": [
@@ -44746,15 +45087,6 @@
    ],
    "children": []
   },
-  "1008349": {
-   "name": "Szökőkutak",
-   "parents": [
-    49559,
-    440262,
-    438960
-   ],
-   "children": []
-  },
   "1009362": {
    "name": "Cirque_du_Soleil",
    "parents": [
@@ -45004,7 +45336,7 @@
   "1023919": {
    "name": "A_Magyar_Állami_Operaház_örökös_tagjai",
    "parents": [
-    80634
+    1942512
    ],
    "children": []
   },
@@ -45865,6 +46197,15 @@
    "name": "Vágbeszterce_városrészei",
    "parents": [
     86906
+   ],
+   "children": []
+  },
+  "1941824": {
+   "name": "Amatőr_rádiózás",
+   "parents": [
+    80004,
+    33249,
+    857708
    ],
    "children": []
   },
@@ -46835,6 +47176,13 @@
    ],
    "children": []
   },
+  "1138781": {
+   "name": "A_Budapesti_Operettszínház_örökös_tagjai",
+   "parents": [
+    1942512
+   ],
+   "children": []
+  },
   "1138905": {
    "name": "Emmy-díjasok",
    "parents": [
@@ -46860,6 +47208,13 @@
    "name": "A_Nemzeti_Színház_örökös_tagjai",
    "parents": [
     405979
+   ],
+   "children": []
+  },
+  "1139972": {
+   "name": "Astra_műholdak",
+   "parents": [
+    78714
    ],
    "children": []
   },
@@ -47176,6 +47531,13 @@
    "children": [
     1151162
    ]
+  },
+  "1151905": {
+   "name": "Gasztronómia_portál",
+   "parents": [
+    21947
+   ],
+   "children": []
   },
   "1152457": {
    "name": "Zelk_Zoltán-díjasok",
@@ -48434,6 +48796,29 @@
    ],
    "children": []
   },
+  "1793489": {
+   "name": "1967-ben_átadott_építmények",
+   "parents": [
+    83877
+   ],
+   "children": []
+  },
+  "1882676": {
+   "name": "1969-ben_átadott_építmények",
+   "parents": [
+    67413
+   ],
+   "children": [
+    1347780
+   ]
+  },
+  "1347780": {
+   "name": "1969-ben_megnyílt_vasútállomások",
+   "parents": [
+    1882676
+   ],
+   "children": []
+  },
   "1348961": {
    "name": "BAFTA-díjasok",
    "parents": [
@@ -49377,17 +49762,17 @@
    ],
    "children": []
   },
+  "1438749": {
+   "name": "Palesztin_terrorizmus",
+   "parents": [
+    126620
+   ],
+   "children": []
+  },
   "1438806": {
    "name": "Meggyilkolt_bűnözők",
    "parents": [
     75668
-   ],
-   "children": []
-  },
-  "1438826": {
-   "name": "Meggyilkolt_tudósok",
-   "parents": [
-    4218
    ],
    "children": []
   },
@@ -50048,7 +50433,6 @@
   "1511795": {
    "name": "Repülési_múzeumok",
    "parents": [
-    72863,
     908961
    ],
    "children": []
@@ -51302,13 +51686,6 @@
    ],
    "children": []
   },
-  "1591802": {
-   "name": "Pécs_város_főispánjai",
-   "parents": [
-    753465
-   ],
-   "children": []
-  },
   "1592703": {
    "name": "16._századi_festmények",
    "parents": [
@@ -52024,6 +52401,13 @@
    "parents": [
     89190,
     260088
+   ],
+   "children": []
+  },
+  "1656333": {
+   "name": "Magyarország_elektronikus_könyvtárai",
+   "parents": [
+    705930
    ],
    "children": []
   },
@@ -52865,6 +53249,13 @@
    ],
    "children": []
   },
+  "1696595": {
+   "name": "Izrael_védelmi_miniszterei",
+   "parents": [
+    1696544
+   ],
+   "children": []
+  },
   "1696605": {
    "name": "Francia_teológusok",
    "parents": [
@@ -53521,6 +53912,13 @@
    ],
    "children": []
   },
+  "1732146": {
+   "name": "Az_Amerikai_Egyesült_Államok_vendéglátóipari_cégei",
+   "parents": [
+    148869
+   ],
+   "children": []
+  },
   "1733030": {
    "name": "Walesi_pilóták",
    "parents": [
@@ -53626,7 +54024,9 @@
     132918,
     447487
    ],
-   "children": []
+   "children": [
+    1941024
+   ]
   },
   "1735447": {
    "name": "A_Szálasi-kormány_miniszterei",
@@ -54145,8 +54545,7 @@
    "parents": [
     164989,
     167109,
-    167131,
-    753465
+    167131
    ],
    "children": []
   },
@@ -56083,17 +56482,17 @@
    ],
    "children": []
   },
-  "1899935": {
-   "name": "Az_Alpok_alagútjai",
-   "parents": [
-    1782327
-   ],
-   "children": []
-  },
   "1900887": {
    "name": "A_Szent_Mihály-rend_lovagjai",
    "parents": [
     42264
+   ],
+   "children": []
+  },
+  "1901491": {
+   "name": "Keresztény_eszkatológia",
+   "parents": [
+    3948
    ],
    "children": []
   },
@@ -56546,6 +56945,69 @@
    "name": "A_18._században_alapított_cégek",
    "parents": [
     78185
+   ],
+   "children": []
+  },
+  "1940947": {
+   "name": "A_15._században_alapított_szervezetek",
+   "parents": [
+    78188
+   ],
+   "children": []
+  },
+  "1941024": {
+   "name": "Bebörtönzött_magyar_katonák",
+   "parents": [
+    112751,
+    1735444
+   ],
+   "children": [
+    1941025
+   ]
+  },
+  "1941025": {
+   "name": "Az_1848–49-es_szabadságharc_bebörtönzött_katonái",
+   "parents": [
+    769712,
+    1941024
+   ],
+   "children": []
+  },
+  "1941281": {
+   "name": "Hadifoglyok",
+   "parents": [
+    132918,
+    447487
+   ],
+   "children": []
+  },
+  "1941510": {
+   "name": "Amerikai_romantikus_filmdrámák",
+   "parents": [
+    459496
+   ],
+   "children": []
+  },
+  "1941736": {
+   "name": "Brit_romantikus_filmdrámák",
+   "parents": [
+    576004
+   ],
+   "children": []
+  },
+  "1941747": {
+   "name": "Antennatechnika",
+   "parents": [
+    1506079,
+    33249,
+    857708
+   ],
+   "children": []
+  },
+  "1942433": {
+   "name": "Nindzsafilmek",
+   "parents": [
+    691466
    ],
    "children": []
   },

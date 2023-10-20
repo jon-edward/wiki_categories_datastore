@@ -1283,11 +1283,10 @@
     112428
    ],
    "children": [
-    207364,
-    234286,
+    1312408,
     527603,
     265686,
-    1312408
+    234286
    ]
   },
   "13260": {
@@ -1339,8 +1338,8 @@
    "children": [
     1487466,
     1606572,
+    1740623,
     58228,
-    612537,
     27327
    ]
   },
@@ -2003,7 +2002,7 @@
    ],
    "children": [
     96434,
-    14719
+    724356
    ]
   },
   "916772": {
@@ -2015,16 +2014,15 @@
     14713
    ]
   },
-  "14719": {
-   "name": "Colles_castelleres",
+  "14758": {
+   "name": "Antroponímia",
    "parents": [
-    14713
+    14759
    ],
    "children": [
-    750601,
-    797762,
-    940283,
-    724356
+    1741514,
+    819250,
+    213851
    ]
   },
   "14759": {
@@ -2035,17 +2033,6 @@
    "children": [
     18971,
     14758
-   ]
-  },
-  "14758": {
-   "name": "Antroponímia",
-   "parents": [
-    14759
-   ],
-   "children": [
-    1741514,
-    819250,
-    213851
    ]
   },
   "14760": {
@@ -2188,6 +2175,7 @@
     442653
    ],
    "children": [
+    1248264,
     989114,
     18917
    ]
@@ -2768,10 +2756,11 @@
     179226
    ],
    "children": [
-    1203112,
     1203105,
-    1156698,
-    1556339
+    1203112,
+    1556338,
+    1556339,
+    1156698
    ]
   },
   "179226": {
@@ -3413,6 +3402,16 @@
    ],
    "children": []
   },
+  "18961": {
+   "name": "Periodistes",
+   "parents": [
+    20140
+   ],
+   "children": [
+    1430137,
+    1474643
+   ]
+  },
   "20140": {
    "name": "Periodisme",
    "parents": [
@@ -3420,6 +3419,7 @@
     1954540
    ],
    "children": [
+    18961,
     1751133,
     757916,
     20141
@@ -4001,6 +4001,7 @@
    ],
    "children": [
     970560,
+    2041153,
     904169,
     19819,
     119725,
@@ -5235,6 +5236,18 @@
     25967
    ]
   },
+  "786854": {
+   "name": "Antifeixistes",
+   "parents": [
+    583085
+   ],
+   "children": [
+    271112,
+    743978,
+    1947722,
+    269629
+   ]
+  },
   "26283": {
    "name": "Aruba",
    "parents": [
@@ -5676,7 +5689,6 @@
     958464,
     92514,
     873538,
-    2020452,
     1145488,
     502549,
     50392,
@@ -5942,6 +5954,7 @@
     608753,
     755316,
     144021,
+    1243222,
     1949433
    ]
   },
@@ -6515,6 +6528,7 @@
     1902720,
     1109382,
     1190598,
+    1109385,
     235786,
     1153099,
     1691083,
@@ -7744,6 +7758,7 @@
     630879
    ],
    "children": [
+    2041257,
     1114331,
     1114325,
     45246
@@ -8463,11 +8478,12 @@
     1024527
    ],
    "children": [
+    2050208,
+    2043367,
     2033902,
     2040690,
     2033939,
-    2036791,
-    2033915
+    2036791
    ]
   },
   "1024527": {
@@ -9922,16 +9938,6 @@
    ],
    "children": []
   },
-  "207364": {
-   "name": "Personatges_d'anime",
-   "parents": [
-    13259,
-    207347
-   ],
-   "children": [
-    175666
-   ]
-  },
   "1028671": {
    "name": "Literatura_fantàstica",
    "parents": [
@@ -9949,6 +9955,22 @@
    ],
    "children": [
     156674
+   ]
+  },
+  "78984": {
+   "name": "Tes",
+   "parents": [
+    673192
+   ],
+   "children": []
+  },
+  "673192": {
+   "name": "Te",
+   "parents": [
+    1248264
+   ],
+   "children": [
+    78984
    ]
   },
   "1380805": {
@@ -11493,7 +11515,8 @@
     1721203
    ],
    "children": [
-    102648
+    102648,
+    1981547
    ]
   },
   "1760757": {
@@ -13441,6 +13464,7 @@
     124787
    ],
    "children": [
+    1242599,
     1865450,
     994059,
     2010318,
@@ -13734,6 +13758,25 @@
     1065794
    ]
   },
+  "155426": {
+   "name": "Corals_de_Catalunya",
+   "parents": [
+    1047921
+   ],
+   "children": [
+    319969
+   ]
+  },
+  "1047921": {
+   "name": "Corals",
+   "parents": [
+    156776,
+    1037181
+   ],
+   "children": [
+    155426
+   ]
+  },
   "155697": {
    "name": "Documentals",
    "parents": [
@@ -13790,7 +13833,9 @@
     155615,
     272777
    ],
-   "children": []
+   "children": [
+    1047921
+   ]
   },
   "157070": {
    "name": "Llistes_de_banderes",
@@ -14724,13 +14769,6 @@
    ],
    "children": []
   },
-  "175666": {
-   "name": "Personatges_de_Naruto",
-   "parents": [
-    207364
-   ],
-   "children": []
-  },
   "177073": {
    "name": "Enciclopèdies",
    "parents": [
@@ -14981,6 +15019,7 @@
     247954
    ],
    "children": [
+    1109385,
     1911081,
     187982,
     187985,
@@ -15270,7 +15309,6 @@
    ],
    "children": [
     459036,
-    207364,
     186693
    ]
   },
@@ -15727,7 +15765,8 @@
     238737
    ],
    "children": [
-    1706186
+    1706186,
+    1981547
    ]
   },
   "238737": {
@@ -16028,7 +16067,9 @@
    "parents": [
     202311
    ],
-   "children": []
+   "children": [
+    1981547
+   ]
   },
   "202357": {
    "name": "Gestió_de_projectes",
@@ -16370,7 +16411,8 @@
    ],
    "children": [
     298536,
-    1709633
+    1709633,
+    1717172
    ]
   },
   "212551": {
@@ -16833,10 +16875,9 @@
     28249
    ],
    "children": [
-    928270,
     1035437,
     496918,
-    838839
+    928270
    ]
   },
   "232174": {
@@ -17472,6 +17513,7 @@
    ],
    "children": [
     715497,
+    2041257,
     680055,
     247639
    ]
@@ -18345,6 +18387,27 @@
    ],
    "children": []
   },
+  "1556338": {
+   "name": "Biografies_del_segle_XVI",
+   "parents": [
+    16474
+   ],
+   "children": [
+    265382,
+    1458727,
+    1369062,
+    329195,
+    1994898,
+    1878367
+   ]
+  },
+  "265382": {
+   "name": "Papes_de_Roma_del_segle_XVI",
+   "parents": [
+    1556338
+   ],
+   "children": []
+  },
   "1569874": {
    "name": "Biografies_del_segle_XVII",
    "parents": [
@@ -18353,6 +18416,7 @@
    "children": [
     1368929,
     1458755,
+    2001703,
     1994632,
     1999336,
     1475248,
@@ -18635,7 +18699,7 @@
   "612537": {
    "name": "Camps_de_concentració",
    "parents": [
-    13525,
+    373171,
     918773
    ],
    "children": [
@@ -18648,18 +18712,6 @@
     1184591
    ],
    "children": []
-  },
-  "786854": {
-   "name": "Antifeixistes",
-   "parents": [
-    583085
-   ],
-   "children": [
-    271112,
-    743978,
-    1947722,
-    269629
-   ]
   },
   "269629": {
    "name": "Militars_de_les_Brigades_Internacionals",
@@ -18731,8 +18783,8 @@
   "271112": {
    "name": "Antifranquistes",
    "parents": [
-    193460,
-    786854
+    786854,
+    193460
    ],
    "children": [
     790849,
@@ -20210,7 +20262,9 @@
     31109,
     174015
    ],
-   "children": []
+   "children": [
+    332732
+   ]
   },
   "313844": {
    "name": "Terpens_i_terpenoides",
@@ -20351,6 +20405,13 @@
    "name": "Revoltes_a_Catalunya",
    "parents": [
     25601
+   ],
+   "children": []
+  },
+  "319969": {
+   "name": "Corals_de_Barcelona",
+   "parents": [
+    155426
    ],
    "children": []
   },
@@ -20598,6 +20659,13 @@
    ],
    "children": []
   },
+  "329195": {
+   "name": "Sants_morts_al_segle_XVI",
+   "parents": [
+    1556338
+   ],
+   "children": []
+  },
   "1101535": {
    "name": "Sociòlegs_espanyols",
    "parents": [
@@ -20687,6 +20755,15 @@
     439612
    ],
    "children": []
+  },
+  "332732": {
+   "name": "Senders_de_gran_recorregut",
+   "parents": [
+    312238
+   ],
+   "children": [
+    1446692
+   ]
   },
   "332804": {
    "name": "Receptors_de_la_Medalla_al_Servei_Distingit",
@@ -20892,6 +20969,7 @@
     1337830,
     341291,
     1600911,
+    2049012,
     1019639,
     373784,
     1414430
@@ -22173,6 +22251,7 @@
    ],
    "children": [
     616296,
+    612537,
     1070434,
     1195186
    ]
@@ -24883,7 +24962,8 @@
    ],
    "children": [
     622536,
-    1968650
+    1968650,
+    1968687
    ]
   },
   "495900": {
@@ -26562,7 +26642,9 @@
    "parents": [
     868952
    ],
-   "children": []
+   "children": [
+    1968687
+   ]
   },
   "557993": {
    "name": "Gnosticisme",
@@ -26838,6 +26920,24 @@
    "name": "Persones_de_Mèrida",
    "parents": [
     572287
+   ],
+   "children": []
+  },
+  "1248264": {
+   "name": "Begudes_sense_alcohol",
+   "parents": [
+    15064
+   ],
+   "children": [
+    673192,
+    809521,
+    572375
+   ]
+  },
+  "572375": {
+   "name": "Refrescs",
+   "parents": [
+    1248264
    ],
    "children": []
   },
@@ -27343,16 +27443,8 @@
    ],
    "children": [
     1260757,
-    739589,
-    1664933
+    739589
    ]
-  },
-  "1664933": {
-   "name": "Coalicions_electorals_d'Espanya",
-   "parents": [
-    589491
-   ],
-   "children": []
   },
   "590073": {
    "name": "Esglésies_gòtiques_del_País_Valencià",
@@ -28139,7 +28231,8 @@
    "name": "Llet",
    "parents": [
     283878,
-    419162
+    419162,
+    1248264
    ],
    "children": [
     630095
@@ -29730,7 +29823,7 @@
   "724356": {
    "name": "Membres_de_colles_castelleres",
    "parents": [
-    14719
+    14713
    ],
    "children": []
   },
@@ -30226,13 +30319,6 @@
    "children": [
     807464
    ]
-  },
-  "750601": {
-   "name": "Colles_castelleres_desaparegudes",
-   "parents": [
-    14719
-   ],
-   "children": []
   },
   "751222": {
    "name": "Traductors_del_japonès",
@@ -31065,13 +31151,6 @@
    ],
    "children": []
   },
-  "797762": {
-   "name": "Colles_castelleres_de_Catalunya",
-   "parents": [
-    14719
-   ],
-   "children": []
-  },
   "798910": {
    "name": "Canals_d'Hamburg",
    "parents": [
@@ -31642,6 +31721,22 @@
    ],
    "children": []
   },
+  "832112": {
+   "name": "Llibres_de_viatges",
+   "parents": [
+    1231365
+   ],
+   "children": []
+  },
+  "1231365": {
+   "name": "Literatura_de_viatges",
+   "parents": [
+    35547
+   ],
+   "children": [
+    832112
+   ]
+  },
   "832152": {
    "name": "Kans_de_l'Horda_d'Or",
    "parents": [
@@ -31727,15 +31822,6 @@
     19796
    ],
    "children": []
-  },
-  "838839": {
-   "name": "Bombers",
-   "parents": [
-    231838
-   ],
-   "children": [
-    1911723
-   ]
   },
   "841578": {
    "name": "Eines_manuals",
@@ -32189,13 +32275,6 @@
    "parents": [
     1448906,
     1893685
-   ],
-   "children": []
-  },
-  "1231365": {
-   "name": "Literatura_de_viatges",
-   "parents": [
-    35547
    ],
    "children": []
   },
@@ -33465,13 +33544,6 @@
     961006
    ]
   },
-  "940283": {
-   "name": "Colles_castelleres_universitàries",
-   "parents": [
-    14719
-   ],
-   "children": []
-  },
   "941337": {
    "name": "Accessibilitat",
    "parents": [
@@ -33899,7 +33971,8 @@
     1004627
    ],
    "children": [
-    1181172
+    1181172,
+    2050396
    ]
   },
   "1004627": {
@@ -34891,7 +34964,9 @@
    "parents": [
     1004627
    ],
-   "children": []
+   "children": [
+    2050539
+   ]
   },
   "1004110": {
    "name": "Guionistes_de_còmics_estatunidencs",
@@ -35907,7 +35982,9 @@
    "parents": [
     155615
    ],
-   "children": []
+   "children": [
+    1047921
+   ]
   },
   "1037448": {
    "name": "Criptògrafs",
@@ -37413,6 +37490,14 @@
    "name": "Guionistes_de_cinema_d'Illinois",
    "parents": [
     1512853
+   ],
+   "children": []
+  },
+  "1109385": {
+   "name": "Drets_lingüístics",
+   "parents": [
+    31567,
+    181808
    ],
    "children": []
   },
@@ -39697,12 +39782,31 @@
    ],
    "children": []
   },
+  "1242599": {
+   "name": "Cartellistes",
+   "parents": [
+    149707,
+    1242600
+   ],
+   "children": []
+  },
   "1242600": {
    "name": "Cartellisme",
    "parents": [
     20141
    ],
-   "children": []
+   "children": [
+    1242599
+   ]
+  },
+  "1243222": {
+   "name": "Finances_corporatives",
+   "parents": [
+    462330
+   ],
+   "children": [
+    1267576
+   ]
   },
   "1243834": {
    "name": "Creixement_econòmic",
@@ -40081,7 +40185,8 @@
   "1267576": {
    "name": "Ràtios_financeres",
    "parents": [
-    144021
+    144021,
+    1243222
    ],
    "children": []
   },
@@ -41195,6 +41300,13 @@
    ],
    "children": []
   },
+  "1369062": {
+   "name": "Matemàtics_del_segle_XVI",
+   "parents": [
+    1556338
+   ],
+   "children": []
+  },
   "1371444": {
    "name": "Revoltes_del_segle_XVII",
    "parents": [
@@ -41812,6 +41924,7 @@
   "1430137": {
    "name": "Fundadors_de_periòdics",
    "parents": [
+    18961,
     20144
    ],
    "children": []
@@ -41979,6 +42092,13 @@
    ],
    "children": []
   },
+  "1446692": {
+   "name": "Senders_de_gran_recorregut_a_Catalunya",
+   "parents": [
+    332732
+   ],
+   "children": []
+  },
   "1446704": {
    "name": "Everest",
    "parents": [
@@ -42044,6 +42164,13 @@
    "name": "Premi_Enric_Valor",
    "parents": [
     674571
+   ],
+   "children": []
+  },
+  "1458727": {
+   "name": "Teòlegs_del_segle_XVI",
+   "parents": [
+    1556338
    ],
    "children": []
   },
@@ -42208,6 +42335,13 @@
    "name": "Populisme",
    "parents": [
     1194810
+   ],
+   "children": []
+  },
+  "1474643": {
+   "name": "Periodistes_assassinats",
+   "parents": [
+    18961
    ],
    "children": []
   },
@@ -45142,7 +45276,9 @@
    "parents": [
     658205
    ],
-   "children": []
+   "children": [
+    1949895
+   ]
   },
   "1935937": {
    "name": "Inventors_catalans_del_sud_contemporanis",
@@ -45273,6 +45409,18 @@
    ],
    "children": [
     1980288,
+    1706186,
+    1981547
+   ]
+  },
+  "1981547": {
+   "name": "Friedrich_Engels",
+   "parents": [
+    198002,
+    202305,
+    1721203
+   ],
+   "children": [
     1706186
    ]
   },
@@ -45422,6 +45570,13 @@
    "name": "Escaladors_de_l'Everest_catalans",
    "parents": [
     1648810
+   ],
+   "children": []
+  },
+  "1717172": {
+   "name": "Publicacions_de_DC_Comics",
+   "parents": [
+    1170699
    ],
    "children": []
   },
@@ -45689,6 +45844,13 @@
     1954010,
     1900502
    ]
+  },
+  "1740623": {
+   "name": "Terminologia_geogràfica",
+   "parents": [
+    13525
+   ],
+   "children": []
   },
   "1741717": {
    "name": "Apol·lo",
@@ -46399,6 +46561,16 @@
    ],
    "children": []
   },
+  "2041257": {
+   "name": "Rescloses",
+   "parents": [
+    970560,
+    832524
+   ],
+   "children": [
+    2041294
+   ]
+  },
   "1796743": {
    "name": "Premis_del_Sindicat_Nacional_de_l'Espectacle",
    "parents": [
@@ -46663,13 +46835,22 @@
    ],
    "children": []
   },
+  "1818064": {
+   "name": "Alumnes_de_l'Acadèmia_d'Enginyeria_de_les_Forces_Aèries_Jukovski",
+   "parents": [
+    1885705
+   ],
+   "children": []
+  },
   "1885705": {
    "name": "Enginyers_militars",
    "parents": [
     178544,
     1885703
    ],
-   "children": []
+   "children": [
+    1818064
+   ]
   },
   "1818305": {
    "name": "Escriptors_d'Estocolm",
@@ -48005,6 +48186,13 @@
    ],
    "children": []
   },
+  "1878367": {
+   "name": "Compositors_del_segle_XVI",
+   "parents": [
+    1556338
+   ],
+   "children": []
+  },
   "1878591": {
    "name": "Plantilles_de_navegació_d'exploració_espacial",
    "parents": [
@@ -48416,13 +48604,6 @@
    "parents": [
     280698,
     889241
-   ],
-   "children": []
-  },
-  "1911723": {
-   "name": "Pel·lícules_sobre_bombers",
-   "parents": [
-    838839
    ],
    "children": []
   },
@@ -49002,9 +49183,9 @@
   "1947722": {
    "name": "Fidel_Castro",
    "parents": [
+    786854,
     573498,
     173686,
-    786854,
     751984,
     1097104,
     1222042,
@@ -49062,6 +49243,13 @@
    "name": "Gonfanoners_de_l'Església",
    "parents": [
     53166
+   ],
+   "children": []
+  },
+  "1949895": {
+   "name": "Oscar_a_la_millor_cançó_original",
+   "parents": [
+    1698288
    ],
    "children": []
   },
@@ -49274,6 +49462,14 @@
    "parents": [
     495592,
     1017030
+   ],
+   "children": []
+  },
+  "1968687": {
+   "name": "Síndromes_rares",
+   "parents": [
+    495592,
+    557448
    ],
    "children": []
   },
@@ -49515,6 +49711,13 @@
    ],
    "children": []
   },
+  "1994898": {
+   "name": "Naixements_del_1596",
+   "parents": [
+    1556338
+   ],
+   "children": []
+  },
   "1992508": {
    "name": "Directors_de_doblatge",
    "parents": [
@@ -49707,6 +49910,13 @@
    "name": "Jugadors_de_bàsquet_del_FC_Barcelona_B",
    "parents": [
     281666
+   ],
+   "children": []
+  },
+  "2001703": {
+   "name": "Naixements_del_1666",
+   "parents": [
+    1569874
    ],
    "children": []
   },
@@ -49980,13 +50190,6 @@
    ],
    "children": []
   },
-  "2020452": {
-   "name": "Telefilms",
-   "parents": [
-    28189
-   ],
-   "children": []
-  },
   "2020556": {
    "name": "Segle_XIX_a_Mèxic",
    "parents": [
@@ -50199,13 +50402,6 @@
     2033894
    ]
   },
-  "2033915": {
-   "name": "Organismes_fòssils_trobats_a_la_República_Popular_de_la_Xina",
-   "parents": [
-    58908
-   ],
-   "children": []
-  },
   "2033939": {
    "name": "Mamífers_fòssils_trobats_a_Alemanya",
    "parents": [
@@ -50248,6 +50444,20 @@
    ],
    "children": []
   },
+  "2041153": {
+   "name": "Comportes",
+   "parents": [
+    30759
+   ],
+   "children": []
+  },
+  "2041294": {
+   "name": "Rescloses_a_Catalunya",
+   "parents": [
+    2041257
+   ],
+   "children": []
+  },
   "2042368": {
    "name": "Traductors_mexicans",
    "parents": [
@@ -50255,10 +50465,45 @@
    ],
    "children": []
   },
+  "2043367": {
+   "name": "Mamífers_fòssils_trobats_al_Canadà",
+   "parents": [
+    58908
+   ],
+   "children": []
+  },
   "2045705": {
    "name": "Artistes_d'efectes_especials",
    "parents": [
     1173285
+   ],
+   "children": []
+  },
+  "2049012": {
+   "name": "Atletisme_als_Jocs_Olímpics_d'Estiu_de_1928",
+   "parents": [
+    338377
+   ],
+   "children": []
+  },
+  "2050208": {
+   "name": "Mamífers_fòssils_trobats_a_Austràlia",
+   "parents": [
+    58908
+   ],
+   "children": []
+  },
+  "2050396": {
+   "name": "Professors_d'història_valencians",
+   "parents": [
+    961281
+   ],
+   "children": []
+  },
+  "2050539": {
+   "name": "Professors_de_dret_valencians",
+   "parents": [
+    1004080
    ],
    "children": []
   },

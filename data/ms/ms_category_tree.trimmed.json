@@ -4800,10 +4800,11 @@
     35620
    ],
    "children": [
+    27719,
     294698,
-    74011,
+    1162474,
     1079346,
-    27719
+    74011
    ]
   },
   "27719": {
@@ -6988,6 +6989,7 @@
     161940,
     167585,
     75938,
+    1165095,
     77993,
     80946,
     1039924,
@@ -7362,7 +7364,8 @@
     5444
    ],
    "children": [
-    825091
+    825091,
+    1164939
    ]
   },
   "35075": {
@@ -9067,6 +9070,15 @@
    ],
    "children": []
   },
+  "889949": {
+   "name": "Kerabat_diraja_Selangor",
+   "parents": [
+    765931
+   ],
+   "children": [
+    1083336
+   ]
+  },
   "64888": {
    "name": "Orang_Malaysia_berketurunan_Bugis",
    "parents": [
@@ -10035,6 +10047,31 @@
    ],
    "children": []
   },
+  "53499": {
+   "name": "Kelahiran_1980",
+   "parents": [
+    88250
+   ],
+   "children": []
+  },
+  "88250": {
+   "name": "Kelahiran_1980-an",
+   "parents": [
+    123929
+   ],
+   "children": [
+    78939,
+    78832,
+    53650,
+    76275,
+    75862,
+    78935,
+    78937,
+    78938,
+    53499,
+    78942
+   ]
+  },
   "53554": {
    "name": "Pelukis_manga",
    "parents": [
@@ -10044,6 +10081,13 @@
     112034,
     108278
    ]
+  },
+  "53650": {
+   "name": "Kelahiran_1981",
+   "parents": [
+    88250
+   ],
+   "children": []
   },
   "53655": {
    "name": "Kelahiran_1940",
@@ -12145,7 +12189,8 @@
    ],
    "children": [
     1054568,
-    64547
+    64547,
+    1165095
    ]
   },
   "135919": {
@@ -13943,6 +13988,13 @@
     75747
    ]
   },
+  "75862": {
+   "name": "Kelahiran_1983",
+   "parents": [
+    88250
+   ],
+   "children": []
+  },
   "896787": {
    "name": "Menteri_Kerajaan_Malaysia",
    "parents": [
@@ -14346,6 +14398,13 @@
     1051215,
     835345
    ]
+  },
+  "76275": {
+   "name": "Kelahiran_1986",
+   "parents": [
+    88250
+   ],
+   "children": []
   },
   "76276": {
    "name": "Kanada",
@@ -15252,10 +15311,11 @@
     103783
    ],
    "children": [
+    794688,
     1135019,
+    1150991,
     884692,
-    996605,
-    1150991
+    996605
    ]
   },
   "76616": {
@@ -15957,6 +16017,13 @@
     1005415
    ]
   },
+  "78832": {
+   "name": "Kelahiran_1984",
+   "parents": [
+    88250
+   ],
+   "children": []
+  },
   "78851": {
    "name": "Hadiah_Nobel",
    "parents": [
@@ -15997,6 +16064,41 @@
    "parents": [
     78927,
     331387
+   ],
+   "children": []
+  },
+  "78935": {
+   "name": "Kelahiran_1982",
+   "parents": [
+    88250
+   ],
+   "children": []
+  },
+  "78937": {
+   "name": "Kelahiran_1987",
+   "parents": [
+    88250
+   ],
+   "children": []
+  },
+  "78938": {
+   "name": "Kelahiran_1988",
+   "parents": [
+    88250
+   ],
+   "children": []
+  },
+  "78939": {
+   "name": "Kelahiran_1989",
+   "parents": [
+    88250
+   ],
+   "children": []
+  },
+  "78942": {
+   "name": "Kelahiran_1985",
+   "parents": [
+    88250
    ],
    "children": []
   },
@@ -16555,10 +16657,11 @@
     24183
    ],
    "children": [
-    909683,
-    230521,
+    1155363,
     86411,
-    1155363
+    1150449,
+    909683,
+    230521
    ]
   },
   "81755": {
@@ -16840,6 +16943,7 @@
    ],
    "children": [
     81819,
+    660358,
     81799
    ]
   },
@@ -18711,9 +18815,10 @@
    ],
    "children": [
     328833,
-    442300,
     1075493,
-    1052687
+    1052687,
+    125399,
+    442300
    ]
   },
   "84890": {
@@ -19324,9 +19429,10 @@
     52627
    ],
    "children": [
-    89578,
+    88250,
     89579,
-    89580
+    89580,
+    89578
    ]
   },
   "89874": {
@@ -20932,6 +21038,27 @@
    ],
    "children": []
   },
+  "103866": {
+   "name": "Parti_politik_di_Palestin",
+   "parents": [
+    1165095
+   ],
+   "children": [
+    196728
+   ]
+  },
+  "1165095": {
+   "name": "Politik_Palestin_(wilayah)",
+   "parents": [
+    80947,
+    76500
+   ],
+   "children": [
+    106537,
+    103866,
+    1054497
+   ]
+  },
   "103962": {
    "name": "Portal_sains",
    "parents": [
@@ -21404,6 +21531,7 @@
    "name": "Konflik_Israel–Palestin",
    "parents": [
     71599,
+    1165095,
     274813,
     1054568,
     996608
@@ -23449,6 +23577,15 @@
    ],
    "children": [
     125300
+   ]
+  },
+  "125399": {
+   "name": "Carta_rakaman",
+   "parents": [
+    84888
+   ],
+   "children": [
+    328143
    ]
   },
   "125575": {
@@ -30374,6 +30511,7 @@
   "196728": {
    "name": "Hamas",
    "parents": [
+    103866,
     1054285,
     1055075
    ],
@@ -32113,7 +32251,8 @@
   "1120286": {
    "name": "Orang_Arab_Saudi",
    "parents": [
-    15421
+    15421,
+    302152
    ],
    "children": [
     296201
@@ -32721,7 +32860,9 @@
     44834
    ],
    "children": [
-    820549
+    1050962,
+    820549,
+    1120286
    ]
   },
   "302380": {
@@ -34009,6 +34150,13 @@
    "name": "Tunas_geografi_Jepun",
    "parents": [
     224879
+   ],
+   "children": []
+  },
+  "328143": {
+   "name": "Carta_Gaon",
+   "parents": [
+    125399
    ],
    "children": []
   },
@@ -37778,6 +37926,13 @@
     660378
    ]
   },
+  "660358": {
+   "name": "Frasa_pemikat_politik",
+   "parents": [
+    81800
+   ],
+   "children": []
+  },
   "660407": {
    "name": "Fauna_di_Malaysia",
    "parents": [
@@ -39568,7 +39723,8 @@
     94796
    ],
    "children": [
-    899324
+    899324,
+    889949
    ]
   },
   "765979": {
@@ -39693,7 +39849,7 @@
    ]
   },
   "771928": {
-   "name": "Selebriti_YouTube",
+   "name": "Penggiat_YouTube",
    "parents": [
     759811
    ],
@@ -39915,6 +40071,13 @@
    "name": "Bahasa_di_Iraq",
    "parents": [
     75476
+   ],
+   "children": []
+  },
+  "794688": {
+   "name": "Bahasa_di_Lubnan",
+   "parents": [
+    76610
    ],
    "children": []
   },
@@ -43174,7 +43337,8 @@
     68585
    ],
    "children": [
-    1128681
+    1128681,
+    1133195
    ]
   },
   "884692": {
@@ -43212,6 +43376,22 @@
    "name": "Presiden_Habsyah",
    "parents": [
     76791
+   ],
+   "children": []
+  },
+  "1054708": {
+   "name": "Menteri_kerajaan_Pihak_Berkuasa_Palestin",
+   "parents": [
+    1054497
+   ],
+   "children": [
+    884740
+   ]
+  },
+  "884740": {
+   "name": "Perdana_Menteri_Pihak_Berkuasa_Palestin",
+   "parents": [
+    1054708
    ],
    "children": []
   },
@@ -43717,6 +43897,7 @@
     880227
    ],
    "children": [
+    888387,
     887881,
     887883,
     1043662,
@@ -43777,6 +43958,13 @@
    "name": "Tunas_Laos",
    "parents": [
     880227
+   ],
+   "children": []
+  },
+  "888387": {
+   "name": "Tunas_Palestin",
+   "parents": [
+    888394
    ],
    "children": []
   },
@@ -49870,7 +50058,8 @@
   "1050962": {
    "name": "Orang_Maghribi",
    "parents": [
-    103619
+    103619,
+    302152
    ],
    "children": []
   },
@@ -51044,6 +51233,15 @@
    ],
    "children": [
     1054454
+   ]
+  },
+  "1054497": {
+   "name": "Ahli_politik_Palestin",
+   "parents": [
+    1165095
+   ],
+   "children": [
+    1054708
    ]
   },
   "1054514": {
@@ -53120,6 +53318,7 @@
   "1083336": {
    "name": "Raja_Muda_Selangor",
    "parents": [
+    889949,
     64888,
     1083380
    ],
@@ -54016,6 +54215,13 @@
    ],
    "children": []
   },
+  "1133195": {
+   "name": "Xi_Jinping",
+   "parents": [
+    884690
+   ],
+   "children": []
+  },
   "1133333": {
    "name": "Keingkaran_awam",
    "parents": [
@@ -54463,6 +54669,13 @@
    "parents": [
     76434,
     372163
+   ],
+   "children": []
+  },
+  "1150449": {
+   "name": "Perbidanan",
+   "parents": [
+    81759
    ],
    "children": []
   },
@@ -55112,6 +55325,13 @@
    ],
    "children": []
   },
+  "1162474": {
+   "name": "Muslim_Arab_Saudi",
+   "parents": [
+    855070
+   ],
+   "children": []
+  },
   "1162606": {
    "name": "Pertubuhan_sukan_antarabangsa",
    "parents": [
@@ -55138,6 +55358,13 @@
    "name": "Pengurus_FC_Barcelona",
    "parents": [
     866279
+   ],
+   "children": []
+  },
+  "1164939": {
+   "name": "Ibrahim_dalam_Islam",
+   "parents": [
+    35055
    ],
    "children": []
   },
