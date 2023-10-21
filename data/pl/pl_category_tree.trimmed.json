@@ -869,6 +869,7 @@
     2337306,
     284916,
     1259478,
+    5539799,
     1913273,
     133018,
     1535803,
@@ -1321,6 +1322,7 @@
     66605,
     3194163,
     1974197,
+    5539766,
     303163,
     187078,
     1420616,
@@ -1394,6 +1396,7 @@
     1264795,
     2922141,
     3187101,
+    1040672,
     66340,
     1264553,
     749486,
@@ -1432,6 +1435,32 @@
     3192057,
     1816379,
     1057852
+   ]
+  },
+  "1040672": {
+   "name": "Artystki_i_artyści",
+   "parents": [
+    65406
+   ],
+   "children": [
+    66752,
+    408929,
+    2645250,
+    5046369,
+    1870404,
+    5069635,
+    1263078,
+    2056040,
+    1054569,
+    2199049,
+    2222845,
+    1040687,
+    79184,
+    3332029,
+    4725758,
+    2588953,
+    216797,
+    3151326
    ]
   },
   "1420616": {
@@ -1926,7 +1955,6 @@
     131488,
     2367462,
     130056,
-    1890737,
     66994,
     1065554,
     922806,
@@ -3201,6 +3229,7 @@
   "66752": {
    "name": "Choreografowie",
    "parents": [
+    1040672,
     66341
    ],
    "children": [
@@ -3560,6 +3589,7 @@
     516741,
     3478725,
     3546979,
+    5536066,
     830761,
     3485247,
     3477998,
@@ -5722,11 +5752,13 @@
     0
    ],
    "children": [
+    763841,
     153602,
     71787,
     71788,
     71789,
     2704813,
+    5539761,
     2848856
    ]
   },
@@ -7405,6 +7437,15 @@
     864670
    ]
   },
+  "79184": {
+   "name": "Autorzy_komiksów",
+   "parents": [
+    1040672
+   ],
+   "children": [
+    417609
+   ]
+  },
   "1219554": {
    "name": "Inżynieria_mechaniczna",
    "parents": [
@@ -8420,6 +8461,7 @@
     4736148,
     144821,
     2804693,
+    5539800,
     1259609,
     1085722,
     87580
@@ -9551,6 +9593,7 @@
     65702
    ],
    "children": [
+    4819011,
     95525,
     625704,
     2013741,
@@ -9952,6 +9995,7 @@
     3033806,
     3633742,
     3633744,
+    5539799,
     1259612,
     732636,
     137570,
@@ -14073,6 +14117,7 @@
     2271091,
     2174809,
     820858,
+    5396220,
     1908158
    ]
   },
@@ -14645,6 +14690,7 @@
     694612,
     3905123,
     2803687,
+    3899506,
     1158516,
     3161078,
     4313207,
@@ -19054,7 +19100,6 @@
    ],
    "children": [
     838114,
-    1740108,
     1658733,
     1761166,
     882674,
@@ -19650,6 +19695,7 @@
     2471040,
     5427907,
     918660,
+    5312132,
     1230258,
     1839859,
     2718515,
@@ -22355,7 +22401,8 @@
     1444658,
     3904052,
     2038332,
-    4324093
+    4324093,
+    5077534
    ]
   },
   "2099924": {
@@ -22924,6 +22971,7 @@
   "2588953": {
    "name": "Artyści_kabaretowi",
    "parents": [
+    1040672,
     97903
    ],
    "children": [
@@ -23335,7 +23383,8 @@
     1646570
    ],
    "children": [
-    3327573
+    3327573,
+    3327575
    ]
   },
   "1646570": {
@@ -23740,6 +23789,7 @@
   "216797": {
    "name": "Komicy",
    "parents": [
+    1040672,
     153016
    ],
    "children": [
@@ -26249,8 +26299,13 @@
     428651,
     2031884,
     2635854,
+    5539761,
     2856754,
     1900915,
+    5539794,
+    5539800,
+    5539766,
+    5539799,
     1676952,
     2630169,
     745114,
@@ -28861,7 +28916,6 @@
     383511,
     1359753,
     720427,
-    979341,
     498039,
     766684
    ]
@@ -29268,6 +29322,7 @@
   "408929": {
    "name": "Iluzjoniści",
    "parents": [
+    1040672,
     301047
    ],
    "children": []
@@ -29386,6 +29441,13 @@
    "children": [
     4067151
    ]
+  },
+  "417609": {
+   "name": "Twórcy_mang",
+   "parents": [
+    79184
+   ],
+   "children": []
   },
   "417626": {
    "name": "Terminologia_z_zakresu_mangi_i_anime",
@@ -30769,7 +30831,20 @@
     82848,
     69150
    ],
-   "children": []
+   "children": [
+    444162
+   ]
+  },
+  "444162": {
+   "name": "Złośliwe_oprogramowanie",
+   "parents": [
+    2041960
+   ],
+   "children": [
+    3586225,
+    3586737,
+    3586214
+   ]
   },
   "444378": {
    "name": "Interakcjonizm_symboliczny",
@@ -32311,6 +32386,7 @@
     503887,
     1632976,
     2821727,
+    5539025,
     4005779,
     872917,
     4304698,
@@ -35588,7 +35664,9 @@
    "parents": [
     541124
    ],
-   "children": []
+   "children": [
+    5537005
+   ]
   },
   "1319687": {
    "name": "Projekty_Wikimedia_Foundation",
@@ -35996,11 +36074,10 @@
     129911
    ],
    "children": [
-    2701888,
-    1421839,
     3581872,
     549082,
-    3904927
+    3904927,
+    1421839
    ]
   },
   "549511": {
@@ -37792,7 +37869,6 @@
     593761,
     1355745,
     4062916,
-    4669991,
     1693229,
     2174446,
     1334197,
@@ -37873,6 +37949,15 @@
    "name": "Elementy_zawieszenia_pojazdów",
    "parents": [
     1266999
+   ],
+   "children": [
+    595592
+   ]
+  },
+  "595592": {
+   "name": "Amortyzatory",
+   "parents": [
+    2105184
    ],
    "children": []
   },
@@ -40323,6 +40408,7 @@
     1487174,
     1439947,
     4028495,
+    3820242,
     2043742,
     3822047,
     3821023,
@@ -43808,6 +43894,13 @@
     4712027
    ]
   },
+  "763841": {
+   "name": "Fakty_medialne",
+   "parents": [
+    71786
+   ],
+   "children": []
+  },
   "764000": {
    "name": "Pojazdy_specjalne",
    "parents": [
@@ -44152,6 +44245,7 @@
    ],
    "children": [
     3804520,
+    5539794,
     769613
    ]
   },
@@ -44535,24 +44629,6 @@
    "parents": [
     112176,
     798350
-   ],
-   "children": []
-  },
-  "1445354": {
-   "name": "Strony_przeglądowe_–_chrześcijaństwo",
-   "parents": [
-    620690
-   ],
-   "children": [
-    2183626,
-    781586,
-    1009598
-   ]
-  },
-  "781586": {
-   "name": "Wezwania_kościołów",
-   "parents": [
-    1445354
    ],
    "children": []
   },
@@ -48319,6 +48395,7 @@
     1920483,
     3328998,
     1043689,
+    2837737,
     3278314,
     994030,
     3855472,
@@ -53416,13 +53493,6 @@
     979122
    ]
   },
-  "979341": {
-   "name": "Organizacje_ze_świata_Gwiezdnych_wojen",
-   "parents": [
-    383529
-   ],
-   "children": []
-  },
   "979361": {
    "name": "Teatry_w_Polsce",
    "parents": [
@@ -53783,6 +53853,7 @@
     792642
    ],
    "children": [
+    5390030,
     3774343
    ]
   },
@@ -54737,13 +54808,6 @@
    ],
    "children": []
   },
-  "1009598": {
-   "name": "Wezwania_parafii",
-   "parents": [
-    1445354
-   ],
-   "children": []
-  },
   "5256467": {
    "name": "Własności_relacji",
    "parents": [
@@ -54832,6 +54896,7 @@
    "children": [
     1011040,
     1344410,
+    5390030,
     4057254
    ]
   },
@@ -56842,6 +56907,7 @@
   "1040687": {
    "name": "Artyści_multimedialni",
    "parents": [
+    1040672,
     97358
    ],
    "children": []
@@ -57642,6 +57708,37 @@
     785717
    ],
    "children": []
+  },
+  "1054569": {
+   "name": "Artyści_współcześni",
+   "parents": [
+    1040672
+   ],
+   "children": [
+    3662560,
+    3335969,
+    3662556,
+    3787662,
+    3662544,
+    3662578,
+    1639188,
+    3662549,
+    3662553,
+    1054556,
+    1594239
+   ]
+  },
+  "1054556": {
+   "name": "Polscy_artyści_współcześni",
+   "parents": [
+    1054569
+   ],
+   "children": [
+    3343192,
+    4034091,
+    2077444,
+    4002966
+   ]
   },
   "1054609": {
    "name": "Ilchanidzi",
@@ -62925,7 +63022,7 @@
    "children": []
   },
   "1199285": {
-   "name": "Ezzonowie",
+   "name": "Ezzonidzi",
    "parents": [
     106975
    ],
@@ -63858,10 +63955,11 @@
     355892
    ],
    "children": [
-    1984200,
-    1767322,
     5366018,
-    1482516
+    1984200,
+    5531795,
+    1482516,
+    1767322
    ]
   },
   "1217896": {
@@ -64404,6 +64502,7 @@
     3841072,
     1230258,
     4086962,
+    5531319,
     4229058,
     4417474,
     5395779,
@@ -65707,6 +65806,13 @@
     1586435,
     1874071
    ]
+  },
+  "1263078": {
+   "name": "Artyści_intermedialni",
+   "parents": [
+    1040672
+   ],
+   "children": []
   },
   "1263396": {
    "name": "Silniki_spalinowe_tłokowe",
@@ -70084,6 +70190,15 @@
     2354433
    ]
   },
+  "4725758": {
+   "name": "Artyści_flamenco",
+   "parents": [
+    1040672
+   ],
+   "children": [
+    2837082
+   ]
+  },
   "1371085": {
    "name": "Polskie_przedsiębiorstwa_handlu_detalicznego",
    "parents": [
@@ -70211,8 +70326,7 @@
    ],
    "children": [
     3260200,
-    1373468,
-    3009029
+    1373468
    ]
   },
   "1373468": {
@@ -73125,6 +73239,15 @@
     1486878
    ]
   },
+  "1445354": {
+   "name": "Strony_przeglądowe_–_chrześcijaństwo",
+   "parents": [
+    620690
+   ],
+   "children": [
+    2183626
+   ]
+  },
   "1445687": {
    "name": "Zabytkowe_kopalnie_w_Polsce",
    "parents": [
@@ -75217,6 +75340,7 @@
   "5046369": {
    "name": "Artystki_i_artyści_LGBT",
    "parents": [
+    1040672,
     1392179
    ],
    "children": [
@@ -78287,7 +78411,6 @@
     3158109,
     2857822,
     2857823,
-    3690336,
     2419038,
     4417501,
     2857828,
@@ -78295,7 +78418,6 @@
     4203367,
     4789740,
     5358573,
-    3724782,
     4082546,
     4394995,
     5480312
@@ -78792,6 +78914,15 @@
     1448535
    ],
    "children": []
+  },
+  "1594239": {
+   "name": "Artyści_konceptualni",
+   "parents": [
+    1054569
+   ],
+   "children": [
+    1644808
+   ]
   },
   "1594244": {
    "name": "Artyści_postmodernistyczni",
@@ -80231,6 +80362,13 @@
    ],
    "children": []
   },
+  "1639188": {
+   "name": "Performerzy",
+   "parents": [
+    1054569
+   ],
+   "children": []
+  },
   "1640147": {
    "name": "Rosyjscy_ministrowie_spraw_zagranicznych",
    "parents": [
@@ -80413,6 +80551,13 @@
    "name": "Podstawowe_pojęcia_socjologiczne",
    "parents": [
     64592
+   ],
+   "children": []
+  },
+  "1644808": {
+   "name": "Polscy_artyści_konceptualni",
+   "parents": [
+    1594239
    ],
    "children": []
   },
@@ -80774,7 +80919,9 @@
    "parents": [
     1543182
    ],
-   "children": []
+   "children": [
+    5540507
+   ]
   },
   "1653819": {
    "name": "Kolarstwo_górskie",
@@ -81668,6 +81815,22 @@
     1670686,
     1809023
    ]
+  },
+  "1946227": {
+   "name": "Malarze_maryniści",
+   "parents": [
+    1870404
+   ],
+   "children": [
+    1670749
+   ]
+  },
+  "1670749": {
+   "name": "Polscy_maryniści",
+   "parents": [
+    1946227
+   ],
+   "children": []
   },
   "1671339": {
    "name": "Elektrownie_wodne_w_Polsce",
@@ -83977,13 +84140,6 @@
    ],
    "children": []
   },
-  "1740108": {
-   "name": "Organizacje_buddyjskie",
-   "parents": [
-    2652152
-   ],
-   "children": []
-  },
   "1740654": {
    "name": "Nagrody_informatyczne",
    "parents": [
@@ -85265,6 +85421,22 @@
     74015
    ],
    "children": []
+  },
+  "1772854": {
+   "name": "Rektorzy_Politechniki_Opolskiej",
+   "parents": [
+    2623230
+   ],
+   "children": []
+  },
+  "2623230": {
+   "name": "Wykładowcy_Politechniki_Opolskiej",
+   "parents": [
+    2295997
+   ],
+   "children": [
+    1772854
+   ]
   },
   "1773268": {
    "name": "Teoretycy_literatury_LGBT",
@@ -87252,7 +87424,7 @@
    "children": []
   },
   "1825707": {
-   "name": "Piłkarze_FC_Vítkovice",
+   "name": "Piłkarze_MFK_Vítkovice",
    "parents": [
     1407248
    ],
@@ -87291,7 +87463,14 @@
    "parents": [
     162702
    ],
-   "children": []
+   "children": [
+    5542160,
+    5542161,
+    5542131,
+    5542139,
+    5542206,
+    5542207
+   ]
   },
   "1826331": {
    "name": "Inuit",
@@ -88972,6 +89151,16 @@
     2921785
    ]
   },
+  "1870404": {
+   "name": "Maryniści",
+   "parents": [
+    1040672
+   ],
+   "children": [
+    1946242,
+    1946227
+   ]
+  },
   "1870979": {
    "name": "Żołnierze_Korpusu_Bezpieczeństwa",
    "parents": [
@@ -89572,13 +89761,6 @@
    "name": "Średniowieczna_literatura_filozoficzna",
    "parents": [
     1893452
-   ],
-   "children": []
-  },
-  "1890737": {
-   "name": "Literatura_z_zakresu_logiki",
-   "parents": [
-    65983
    ],
    "children": []
   },
@@ -91698,7 +91880,8 @@
   "1946242": {
    "name": "Pisarze_maryniści",
    "parents": [
-    763723
+    763723,
+    1870404
    ],
    "children": []
   },
@@ -92772,10 +92955,21 @@
    "name": "Fotoreporterzy",
    "parents": [
     2708322,
-    1822902
+    1822902,
+    2222845
    ],
    "children": [
     2851267
+   ]
+  },
+  "2222845": {
+   "name": "Fotografowie",
+   "parents": [
+    1040672
+   ],
+   "children": [
+    2002173,
+    3123381
    ]
   },
   "2003703": {
@@ -94291,6 +94485,7 @@
   "2056040": {
    "name": "Artyści_wodewilowi",
    "parents": [
+    1040672,
     2056026
    ],
    "children": []
@@ -95265,6 +95460,13 @@
    "name": "Numidia_(prowincja_rzymska)",
    "parents": [
     113086
+   ],
+   "children": []
+  },
+  "2077444": {
+   "name": "Polscy_performerzy",
+   "parents": [
+    1054556
    ],
    "children": []
   },
@@ -97287,7 +97489,9 @@
    "parents": [
     2857822
    ],
-   "children": []
+   "children": [
+    3451079
+   ]
   },
   "2168158": {
    "name": "Wychowanie_w_III_Rzeszy",
@@ -98024,6 +98228,7 @@
   "2199049": {
    "name": "Artyści_cyrkowi",
    "parents": [
+    1040672,
     344676
    ],
    "children": [
@@ -100477,7 +100682,9 @@
    "parents": [
     2241110
    ],
-   "children": []
+   "children": [
+    5527089
+   ]
   },
   "2303141": {
    "name": "Angielscy_powstańcy",
@@ -100654,7 +100861,9 @@
     64357,
     284934
    ],
-   "children": []
+   "children": [
+    5539794
+   ]
   },
   "2308230": {
    "name": "Absolwenci_Uniwersytetu_Medycznego_im._Karola_Marcinkowskiego_w_Poznaniu",
@@ -100883,22 +101092,6 @@
     3358081,
     3360815,
     3358071
-   ]
-  },
-  "2316159": {
-   "name": "Wykładowcy_Politechniki_Koszalińskiej",
-   "parents": [
-    3724782
-   ],
-   "children": []
-  },
-  "3724782": {
-   "name": "Wykładowcy_uczelni_w_Koszalinie",
-   "parents": [
-    2857832
-   ],
-   "children": [
-    2316159
    ]
   },
   "2316471": {
@@ -102536,7 +102729,8 @@
     2954773
    ],
    "children": [
-    3882378
+    3882378,
+    5327151
    ]
   },
   "2378229": {
@@ -105302,7 +105496,6 @@
     1057852
    ],
    "children": [
-    5532737,
     5222138,
     5222487
    ]
@@ -109614,13 +109807,6 @@
    ],
    "children": []
   },
-  "2623230": {
-   "name": "Wykładowcy_Politechniki_Opolskiej",
-   "parents": [
-    2295997
-   ],
-   "children": []
-  },
   "2623439": {
    "name": "Nagrody_pokojowe",
    "parents": [
@@ -110052,6 +110238,17 @@
     5439503
    ]
   },
+  "2645250": {
+   "name": "Artyści_musicalowi",
+   "parents": [
+    1040672
+   ],
+   "children": [
+    2707248,
+    2662281,
+    4461633
+   ]
+  },
   "2645868": {
    "name": "Rynek_energii_elektrycznej",
    "parents": [
@@ -110092,6 +110289,13 @@
    "name": "French_Open_2012",
    "parents": [
     5325259
+   ],
+   "children": []
+  },
+  "2662281": {
+   "name": "Polscy_aktorzy_musicalowi",
+   "parents": [
+    2645250
    ],
    "children": []
   },
@@ -110428,7 +110632,9 @@
    "parents": [
     4140008
    ],
-   "children": []
+   "children": [
+    5538326
+   ]
   },
   "2695852": {
    "name": "Czechosłowackie_fortyfikacje",
@@ -110609,13 +110815,6 @@
    "name": "Pomniki_harcerskie",
    "parents": [
     75442
-   ],
-   "children": []
-  },
-  "2701888": {
-   "name": "Pomniki_upamiętniające_powstania_śląskie",
-   "parents": [
-    549083
    ],
    "children": []
   },
@@ -110803,6 +111002,13 @@
    "name": "Haitańscy_generałowie",
    "parents": [
     864670
+   ],
+   "children": []
+  },
+  "2707248": {
+   "name": "Polskie_aktorki_musicalowe",
+   "parents": [
+    2645250
    ],
    "children": []
   },
@@ -111596,13 +111802,6 @@
   },
   "5222487": {
    "name": "Stowarzyszenia_w_Poznaniu",
-   "parents": [
-    2485688
-   ],
-   "children": []
-  },
-  "5532737": {
-   "name": "Towarzystwa_w_Poznaniu",
    "parents": [
     2485688
    ],
@@ -114219,6 +114418,13 @@
    ],
    "children": []
   },
+  "2837082": {
+   "name": "Śpiewaczki_flamenco",
+   "parents": [
+    4725758
+   ],
+   "children": []
+  },
   "2837084": {
    "name": "Polskie_śpiewaczki_operowe",
    "parents": [
@@ -114288,6 +114494,13 @@
    "name": "Entamoeba",
    "parents": [
     2812039
+   ],
+   "children": []
+  },
+  "2837737": {
+   "name": "Chilijscy_ministrowie_spraw_zagranicznych",
+   "parents": [
+    1780484
    ],
    "children": []
   },
@@ -118100,13 +118313,6 @@
    ],
    "children": []
   },
-  "3009029": {
-   "name": "Bracia_Muzułmańscy",
-   "parents": [
-    5340719
-   ],
-   "children": []
-  },
   "3009893": {
    "name": "Strzelectwo_na_Letnich_Igrzyskach_Olimpijskich_1920",
    "parents": [
@@ -118868,7 +119074,6 @@
     933860
    ],
    "children": [
-    5492187,
     3041045,
     5356958,
     5358431
@@ -121481,7 +121686,8 @@
   "3123381": {
    "name": "Fotografowie_mody",
    "parents": [
-    133747
+    133747,
+    2222845
    ],
    "children": []
   },
@@ -122225,6 +122431,7 @@
   "3151326": {
    "name": "Grafficiarze",
    "parents": [
+    1040672,
     569060
    ],
    "children": []
@@ -125003,6 +125210,13 @@
    ],
    "children": []
   },
+  "3332029": {
+   "name": "Anonimowi_artyści",
+   "parents": [
+    1040672
+   ],
+   "children": []
+  },
   "3258178": {
    "name": "Nowotwory_germinalne",
    "parents": [
@@ -126925,6 +127139,13 @@
    ],
    "children": []
   },
+  "3327575": {
+   "name": "Polscy_historycy_literatury_francuskiej",
+   "parents": [
+    204631
+   ],
+   "children": []
+  },
   "3327577": {
    "name": "Polacy_i_obywatele_polscy_straceni_przez_Niemcy_nazistowskie_za_ukrywanie_osób_narodowości_żydowskiej",
    "parents": [
@@ -127607,6 +127828,27 @@
    ],
    "children": []
   },
+  "3335969": {
+   "name": "Malarze_współcześni",
+   "parents": [
+    1054569
+   ],
+   "children": [
+    3340584,
+    3337418,
+    3344435,
+    3343192,
+    3343293,
+    3335967
+   ]
+  },
+  "3335967": {
+   "name": "Niemieccy_malarze_współcześni",
+   "parents": [
+    3335969
+   ],
+   "children": []
+  },
   "3336067": {
    "name": "Absolwenci_Terezjańskiej_Akademii_Wojskowej",
    "parents": [
@@ -127630,6 +127872,13 @@
    "name": "Czasopisma_w_Czechosłowacji",
    "parents": [
     848106
+   ],
+   "children": []
+  },
+  "3337418": {
+   "name": "Francuscy_malarze_współcześni",
+   "parents": [
+    3335969
    ],
    "children": []
   },
@@ -127744,6 +127993,13 @@
    ],
    "children": []
   },
+  "3340584": {
+   "name": "Brytyjscy_malarze_współcześni",
+   "parents": [
+    3335969
+   ],
+   "children": []
+  },
   "4065829": {
    "name": "Surrealiści_(pisarze)",
    "parents": [
@@ -127848,10 +128104,27 @@
    ],
    "children": []
   },
+  "3343192": {
+   "name": "Polscy_malarze_współcześni",
+   "parents": [
+    1054556,
+    3335969
+   ],
+   "children": [
+    4144079
+   ]
+  },
   "3343264": {
    "name": "Zmarli_w_górach",
    "parents": [
     87642
+   ],
+   "children": []
+  },
+  "3343293": {
+   "name": "Hiszpańscy_malarze_współcześni",
+   "parents": [
+    3335969
    ],
    "children": []
   },
@@ -127899,6 +128172,13 @@
    "children": [
     3344378
    ]
+  },
+  "3344435": {
+   "name": "Włoscy_malarze_współcześni",
+   "parents": [
+    3335969
+   ],
+   "children": []
   },
   "3344645": {
    "name": "Inicjujące_materiały_wybuchowe",
@@ -129361,6 +129641,7 @@
   "3451079": {
    "name": "Rektorzy_Uniwersytetu_Przyrodniczego_w_Poznaniu",
    "parents": [
+    2167975,
     2857393
    ],
    "children": []
@@ -133089,6 +133370,20 @@
    ],
    "children": []
   },
+  "3586214": {
+   "name": "Konie_trojańskie",
+   "parents": [
+    444162
+   ],
+   "children": []
+  },
+  "3586225": {
+   "name": "Wirusy_komputerowe",
+   "parents": [
+    444162
+   ],
+   "children": []
+  },
   "3586229": {
    "name": "Autostichidae",
    "parents": [
@@ -133140,6 +133435,13 @@
    "children": [
     5520240
    ]
+  },
+  "3586737": {
+   "name": "Robaki_komputerowe",
+   "parents": [
+    444162
+   ],
+   "children": []
   },
   "3587240": {
    "name": "Holenderscy_związkowcy",
@@ -134702,6 +135004,48 @@
    ],
    "children": []
   },
+  "3662544": {
+   "name": "Francuscy_artyści_współcześni",
+   "parents": [
+    1054569
+   ],
+   "children": []
+  },
+  "3662549": {
+   "name": "Amerykańscy_artyści_współcześni",
+   "parents": [
+    1054569
+   ],
+   "children": []
+  },
+  "3662553": {
+   "name": "Brytyjscy_artyści_współcześni",
+   "parents": [
+    1054569
+   ],
+   "children": []
+  },
+  "3662556": {
+   "name": "Niemieccy_artyści_współcześni",
+   "parents": [
+    1054569
+   ],
+   "children": []
+  },
+  "3662560": {
+   "name": "Włoscy_artyści_współcześni",
+   "parents": [
+    1054569
+   ],
+   "children": []
+  },
+  "3662578": {
+   "name": "Holenderscy_artyści_współcześni",
+   "parents": [
+    1054569
+   ],
+   "children": []
+  },
   "3662996": {
    "name": "Sanktuaria_maryjne_na_Białorusi",
    "parents": [
@@ -135342,13 +135686,6 @@
     3735896,
     4214593
    ]
-  },
-  "3690336": {
-   "name": "Wykładowcy_Państwowej_Wyższej_Szkoły_Wschodnioeuropejskiej_w_Przemyślu",
-   "parents": [
-    2857832
-   ],
-   "children": []
   },
   "3692354": {
    "name": "Inkwizycja_według_regionów",
@@ -136392,6 +136729,13 @@
     5239226
    ]
   },
+  "3787662": {
+   "name": "Albańscy_artyści_współcześni",
+   "parents": [
+    1054569
+   ],
+   "children": []
+  },
   "3787970": {
    "name": "Trasy_koncertowe_w_2006",
    "parents": [
@@ -136507,7 +136851,7 @@
   "3796189": {
    "name": "Polskie_Towarzystwo_Technologii_i_Mediów_Edukacyjnych",
    "parents": [
-    5532737
+    5222487
    ],
    "children": []
   },
@@ -137082,6 +137426,13 @@
    "name": "Absolwenci_Trinity_College_(Cambridge)",
    "parents": [
     1705102
+   ],
+   "children": []
+  },
+  "3820242": {
+   "name": "Sicariidae",
+   "parents": [
+    668470
    ],
    "children": []
   },
@@ -138473,6 +138824,30 @@
    ],
    "children": []
   },
+  "3899506": {
+   "name": "Seriale_internetowe",
+   "parents": [
+    885237
+   ],
+   "children": [
+    3899507,
+    3899511
+   ]
+  },
+  "3899507": {
+   "name": "Polskie_seriale_internetowe",
+   "parents": [
+    3899506
+   ],
+   "children": []
+  },
+  "3899511": {
+   "name": "Amerykańskie_seriale_internetowe",
+   "parents": [
+    3899506
+   ],
+   "children": []
+  },
   "3900492": {
    "name": "Uczestnicy_Bitwy_Warszawskiej_(1920)",
    "parents": [
@@ -138846,7 +139221,9 @@
    "parents": [
     1413649
    ],
-   "children": []
+   "children": [
+    5526310
+   ]
   },
   "3911101": {
    "name": "Polscy_rzeźbiarze_ludowi",
@@ -140412,6 +140789,13 @@
    ],
    "children": []
   },
+  "4002966": {
+   "name": "Polscy_rzeźbiarze_współcześni",
+   "parents": [
+    1054556
+   ],
+   "children": []
+  },
   "4003114": {
    "name": "Wykładowcy_Uniwersytetu_w_Edynburgu",
    "parents": [
@@ -141022,6 +141406,13 @@
    "name": "Żołnierze_5._Dywizji_Strzelców_Polskich_na_Syberii",
    "parents": [
     3904052
+   ],
+   "children": []
+  },
+  "4034091": {
+   "name": "Polscy_fotografowie_współcześni",
+   "parents": [
+    1054556
    ],
    "children": []
   },
@@ -141954,6 +142345,14 @@
    ],
    "children": []
   },
+  "5390030": {
+   "name": "Receptory_immunologiczne",
+   "parents": [
+    987124,
+    1203972
+   ],
+   "children": []
+  },
   "4077220": {
    "name": "Zwycięzcy_Wyścigu_Pokoju",
    "parents": [
@@ -142163,7 +142562,7 @@
    "children": []
   },
   "4095060": {
-   "name": "Wykładowcy_Akademii_Ignatianum_w_Krakowie",
+   "name": "Wykładowcy_Uniwersytetu_Ignatianum_w_Krakowie",
    "parents": [
     2857828
    ],
@@ -142820,7 +143219,8 @@
   "4144079": {
    "name": "Polscy_malarze_surrealiści",
    "parents": [
-    3341338
+    3341338,
+    3343192
    ],
    "children": []
   },
@@ -144567,10 +144967,11 @@
     2786229
    ],
    "children": [
-    4250377,
+    4890401,
     4890403,
-    5180153,
-    4890383
+    4250377,
+    4890383,
+    5180153
    ]
   },
   "4252043": {
@@ -144628,10 +145029,11 @@
     171096
    ],
    "children": [
-    4784840,
-    5454858,
     5313184,
-    4754279
+    4843137,
+    4754279,
+    4784840,
+    5454858
    ]
   },
   "4256631": {
@@ -147802,6 +148204,13 @@
    ],
    "children": []
   },
+  "4461633": {
+   "name": "Libreciści_musicalowi",
+   "parents": [
+    2645250
+   ],
+   "children": []
+  },
   "4461895": {
    "name": "Obumierkowate",
    "parents": [
@@ -150541,16 +150950,6 @@
     4742711
    ]
   },
-  "4669991": {
-   "name": "Sowieckie_oddziały_wojskowe_z_okresu_wojny_polsko-bolszewickiej",
-   "parents": [
-    593760
-   ],
-   "children": [
-    5175421,
-    5175422
-   ]
-  },
   "4703945": {
    "name": "Armia_Rozejmowa_Francji_Vichy",
    "parents": [
@@ -152672,6 +153071,13 @@
    ],
    "children": []
   },
+  "4819011": {
+   "name": "Ułaskawieni",
+   "parents": [
+    344675
+   ],
+   "children": []
+  },
   "4819355": {
    "name": "Wykładowcy_Metropolitalnego_Seminarium_Duchownego_w_Lublinie",
    "parents": [
@@ -152807,6 +153213,13 @@
    "name": "Odwachy",
    "parents": [
     92255
+   ],
+   "children": []
+  },
+  "4843137": {
+   "name": "Absolwenci_II_Liceum_Ogólnokształcącego_im._Generałowej_Zamoyskiej_i_Heleny_Modrzejewskiej_w_Poznaniu",
+   "parents": [
+    5347285
    ],
    "children": []
   },
@@ -153086,7 +153499,9 @@
    "parents": [
     1413630
    ],
-   "children": []
+   "children": [
+    5515346
+   ]
   },
   "4887546": {
    "name": "Filmy_o_wyścigach_samochodowych",
@@ -153132,6 +153547,13 @@
   },
   "4890383": {
    "name": "Absolwenci_Wydziału_Matematyczno-Przyrodniczego_Uniwersytetu_Poznańskiego",
+   "parents": [
+    5180154
+   ],
+   "children": []
+  },
+  "4890401": {
+   "name": "Absolwenci_Wydziału_Humanistycznego_Uniwersytetu_Poznańskiego",
    "parents": [
     5180154
    ],
@@ -155957,6 +156379,13 @@
    ],
    "children": []
   },
+  "5069635": {
+   "name": "Osmańskie_artystki_i_artyści",
+   "parents": [
+    1040672
+   ],
+   "children": []
+  },
   "5071276": {
    "name": "Ofiary_prześladowań_antykatolickich_w_Gwatemali",
    "parents": [
@@ -156119,6 +156548,13 @@
    "name": "Laureaci_Nagrody_Literackiej_miesięcznika_„Kultura”",
    "parents": [
     5077577
+   ],
+   "children": []
+  },
+  "5077534": {
+   "name": "Wojna_estońsko-bolszewicka",
+   "parents": [
+    190736
    ],
    "children": []
   },
@@ -157168,6 +157604,7 @@
     5397682
    ],
    "children": [
+    5312132,
     5312104,
     5312108,
     5312112,
@@ -157867,20 +158304,6 @@
    "name": "Polskie_pułki_artylerii_ciężkiej_z_okresu_wojny_polsko-bolszewickiej",
    "parents": [
     2218612
-   ],
-   "children": []
-  },
-  "5175421": {
-   "name": "Sowieckie_dywizje_strzelców_z_okresu_wojny_polsko-bolszewickiej",
-   "parents": [
-    4669991
-   ],
-   "children": []
-  },
-  "5175422": {
-   "name": "Sowieckie_dywizje_kawalerii_z_okresu_wojny_polsko-bolszewickiej",
-   "parents": [
-    4669991
    ],
    "children": []
   },
@@ -158683,7 +159106,7 @@
    "children": []
   },
   "5222949": {
-   "name": "Stowarzyszenia_ekonomiczne_i_finansowe",
+   "name": "Stowarzyszenia_związane_z_ekonomią",
    "parents": [
     1257330
    ],
@@ -159799,6 +160222,14 @@
    ],
    "children": []
   },
+  "5312132": {
+   "name": "Amerykańscy_lekarze_wojskowi",
+   "parents": [
+    163752,
+    5264896
+   ],
+   "children": []
+  },
   "5312534": {
    "name": "Skrzydło_owadów",
    "parents": [
@@ -160402,6 +160833,13 @@
    "name": "Bitwy_i_operacje_wojny_Jom_Kipur",
    "parents": [
     5171193
+   ],
+   "children": []
+  },
+  "5327151": {
+   "name": "Honorowi_obywatele_gminy_Kadzidło",
+   "parents": [
+    3828732
    ],
    "children": []
   },
@@ -161804,7 +162242,9 @@
    "parents": [
     1413658
    ],
-   "children": []
+   "children": [
+    5475432
+   ]
   },
   "5394842": {
    "name": "Ofiary_wojny_domowej_w_Syrii",
@@ -161858,6 +162298,7 @@
   "5396220": {
    "name": "Rasy_bydła",
    "parents": [
+    174027,
     1908158
    ],
    "children": []
@@ -163364,6 +163805,13 @@
    ],
    "children": []
   },
+  "5475432": {
+   "name": "Strzelcy_na_Letnich_Igrzyskach_Olimpijskich_1968",
+   "parents": [
+    5394490
+   ],
+   "children": []
+  },
   "5475598": {
    "name": "Przedsiębiorczość",
    "parents": [
@@ -163564,13 +164012,6 @@
    ],
    "children": []
   },
-  "5492187": {
-   "name": "Zrekonstruowane_obiekty_budowlane_Głównego_Miasta",
-   "parents": [
-    5356956
-   ],
-   "children": []
-  },
   "5493351": {
    "name": "Medaliści_Igrzysk_Europejskich,_Kraków_2023",
    "parents": [
@@ -163748,6 +164189,13 @@
    ],
    "children": []
   },
+  "5515346": {
+   "name": "Lekkoatleci_na_Letnich_Igrzyskach_Olimpijskich_1964",
+   "parents": [
+    4887356
+   ],
+   "children": []
+  },
   "5515925": {
    "name": "Sezon_2023/2024_w_kombinacji_norweskiej",
    "parents": [
@@ -163874,10 +164322,24 @@
    ],
    "children": []
   },
+  "5526310": {
+   "name": "Pływacy_na_Letnich_Igrzyskach_Olimpijskich_1956",
+   "parents": [
+    3911000
+   ],
+   "children": []
+  },
   "5527086": {
    "name": "Kajakarze_na_Letnich_Igrzyskach_Olimpijskich_1956",
    "parents": [
     2224557
+   ],
+   "children": []
+  },
+  "5527089": {
+   "name": "Kajakarze_na_Letnich_Igrzyskach_Olimpijskich_1960",
+   "parents": [
+    2301986
    ],
    "children": []
   },
@@ -163931,6 +164393,20 @@
    ],
    "children": []
   },
+  "5531319": {
+   "name": "Absolwenci_i_studenci_Uniwersytetu_Kansas",
+   "parents": [
+    2857472
+   ],
+   "children": []
+  },
+  "5531795": {
+   "name": "Armie_Imperium_Rosyjskiego",
+   "parents": [
+    1355335
+   ],
+   "children": []
+  },
   "5532742": {
    "name": "Salomońscy_parlamentarzyści",
    "parents": [
@@ -163957,6 +164433,125 @@
    "name": "Motyw_niewolnictwa_w_filmie",
    "parents": [
     1386506
+   ],
+   "children": []
+  },
+  "5536066": {
+   "name": "Święci_z_Syczuanu",
+   "parents": [
+    67002
+   ],
+   "children": []
+  },
+  "5537005": {
+   "name": "Wikipedia_w_językach_germańskich",
+   "parents": [
+    541121
+   ],
+   "children": []
+  },
+  "5538326": {
+   "name": "Stacje_metra_w_Atenach",
+   "parents": [
+    2695821
+   ],
+   "children": []
+  },
+  "5539025": {
+   "name": "Domy_i_centra_kultury_w_Krakowie",
+   "parents": [
+    1325116
+   ],
+   "children": []
+  },
+  "5539761": {
+   "name": "Zawody_związane_z_mediami",
+   "parents": [
+    71786,
+    563230
+   ],
+   "children": []
+  },
+  "5539766": {
+   "name": "Zawody_związane_z_kulturą",
+   "parents": [
+    65389,
+    563230
+   ],
+   "children": []
+  },
+  "5539794": {
+   "name": "Zawody_związane_z_gastronomią_i_hotelarstwem",
+   "parents": [
+    563230,
+    3462175,
+    2307940
+   ],
+   "children": []
+  },
+  "5539799": {
+   "name": "Zawody_związane_z_ekonomią_i_finansami",
+   "parents": [
+    64593,
+    115702,
+    563230
+   ],
+   "children": []
+  },
+  "5539800": {
+   "name": "Zawody_handlowe",
+   "parents": [
+    153630,
+    563230
+   ],
+   "children": []
+  },
+  "5540507": {
+   "name": "Sestriere",
+   "parents": [
+    1653415
+   ],
+   "children": []
+  },
+  "5542131": {
+   "name": "Uroczyska_w_województwie_warmińsko-mazurskim",
+   "parents": [
+    1826264
+   ],
+   "children": []
+  },
+  "5542139": {
+   "name": "Uroczyska_w_województwie_zachodniopomorskim",
+   "parents": [
+    1826264
+   ],
+   "children": []
+  },
+  "5542160": {
+   "name": "Uroczyska_w_województwie_pomorskim",
+   "parents": [
+    1826264
+   ],
+   "children": []
+  },
+  "5542161": {
+   "name": "Uroczyska_w_województwie_lubuskim",
+   "parents": [
+    1826264
+   ],
+   "children": []
+  },
+  "5542206": {
+   "name": "Uroczyska_w_województwie_podlaskim",
+   "parents": [
+    1826264
+   ],
+   "children": []
+  },
+  "5542207": {
+   "name": "Uroczyska_w_województwie_mazowieckim",
+   "parents": [
+    1826264
    ],
    "children": []
   },
