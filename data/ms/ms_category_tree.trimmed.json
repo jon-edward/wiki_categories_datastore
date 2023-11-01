@@ -2829,6 +2829,17 @@
     311987
    ]
   },
+  "20938": {
+   "name": "Pemuzik",
+   "parents": [
+    23884
+   ],
+   "children": [
+    23633,
+    33777,
+    28238
+   ]
+  },
   "23884": {
    "name": "Muzik",
    "parents": [
@@ -2839,6 +2850,7 @@
     810210,
     41476,
     339654,
+    20938,
     52716,
     52847,
     116789,
@@ -3285,6 +3297,15 @@
     5443
    ],
    "children": []
+  },
+  "23633": {
+   "name": "Kumpulan_muzik",
+   "parents": [
+    20938
+   ],
+   "children": [
+    55468
+   ]
   },
   "23639": {
    "name": "Tasik",
@@ -5115,6 +5136,7 @@
   "28238": {
    "name": "Penyanyi",
    "parents": [
+    20938,
     29250
    ],
    "children": [
@@ -7192,6 +7214,16 @@
     82244
    ],
    "children": []
+  },
+  "33777": {
+   "name": "Penggubah",
+   "parents": [
+    20938
+   ],
+   "children": [
+    59872,
+    429442
+   ]
   },
   "33810": {
    "name": "Pengawasan",
@@ -10377,6 +10409,13 @@
     863051
    ]
   },
+  "55468": {
+   "name": "Kumpulan_muzik_antarabangsa",
+   "parents": [
+    23633
+   ],
+   "children": []
+  },
   "55481": {
    "name": "Bandar_di_Pulau_Pinang",
    "parents": [
@@ -11251,6 +11290,7 @@
   "59872": {
    "name": "Penggubah_Opera",
    "parents": [
+    33777,
     48293
    ],
    "children": []
@@ -12841,6 +12881,7 @@
     27376
    ],
    "children": [
+    1052723,
     896555,
     71134
    ]
@@ -21558,7 +21599,8 @@
     76500
    ],
    "children": [
-    106537
+    106537,
+    794685
    ]
   },
   "996608": {
@@ -22855,7 +22897,9 @@
    "parents": [
     867236
    ],
-   "children": []
+   "children": [
+    1052723
+   ]
   },
   "119452": {
    "name": "Senarai_komun_di_Perancis",
@@ -35484,6 +35528,13 @@
     443647
    ]
   },
+  "429442": {
+   "name": "Penggubah_lagu_Malaysia",
+   "parents": [
+    33777
+   ],
+   "children": []
+  },
   "432581": {
    "name": "Wilayah_di_Republik_Czech",
    "parents": [
@@ -40071,6 +40122,13 @@
    "name": "Bahasa_di_Iraq",
    "parents": [
     75476
+   ],
+   "children": []
+  },
+  "794685": {
+   "name": "Bahasa_di_Palestin",
+   "parents": [
+    1054568
    ],
    "children": []
   },
@@ -50669,6 +50727,14 @@
    "name": "Perpustakaan_akademik_di_Malaysia",
    "parents": [
     148860
+   ],
+   "children": []
+  },
+  "1052723": {
+   "name": "Studio_animasi_Malaysia",
+   "parents": [
+    69269,
+    178328
    ],
    "children": []
   },

@@ -125,6 +125,7 @@
     66016,
     1042756,
     89765,
+    910885,
     1073380,
     12431,
     152849,
@@ -731,8 +732,7 @@
     41733,
     12841,
     486584,
-    1012858,
-    129215
+    1012858
    ]
   },
   "12842": {
@@ -881,14 +881,13 @@
   "14404": {
    "name": "Lingüística",
    "parents": [
-    20894
+    16730,
+    2051922
    ],
    "children": [
-    14405,
-    247954,
     1134196,
-    570964,
-    20829
+    247954,
+    570964
    ]
   },
   "12930": {
@@ -1353,6 +1352,7 @@
     13697,
     17826,
     21154,
+    910885,
     241414,
     442951,
     16729,
@@ -1673,10 +1673,12 @@
     957587,
     262298,
     580125,
+    910885,
     82855,
     17196,
     29617,
     56243,
+    1838138,
     816449,
     1174468,
     566866,
@@ -1896,23 +1898,46 @@
     315519
    ]
   },
-  "20894": {
-   "name": "Filologia",
+  "16730": {
+   "name": "Antropologia",
    "parents": [
+    24443,
     13526
    ],
    "children": [
-    1813971,
+    867297,
     14404,
-    767365,
-    1026028
+    1556613,
+    1239558,
+    82855,
+    28649,
+    124749,
+    660368,
+    56243,
+    999638,
+    1015767
+   ]
+  },
+  "2051922": {
+   "name": "Llenguatge",
+   "parents": [
+    867297,
+    0
+   ],
+   "children": [
+    14404,
+    14405,
+    1573900,
+    416880,
+    772467,
+    20829
    ]
   },
   "14405": {
    "name": "Llengües",
    "parents": [
     12968,
-    14404
+    2051922
    ],
    "children": [
     14434,
@@ -2130,7 +2155,7 @@
   "20829": {
    "name": "Escriptura",
    "parents": [
-    14404,
+    2051922,
     934367
    ],
    "children": [
@@ -2594,10 +2619,11 @@
     102648
    ],
    "children": [
+    237957,
+    1744399,
     15921,
     1679291,
-    237957,
-    1744399
+    284223
    ]
   },
   "16025": {
@@ -2750,30 +2776,16 @@
     16351
    ]
   },
-  "16474": {
-   "name": "Segle_XVI",
-   "parents": [
-    179226
-   ],
-   "children": [
-    1203105,
-    1203112,
-    1556338,
-    1556339,
-    1156698
-   ]
-  },
   "179226": {
    "name": "Edat_moderna",
    "parents": [
     682692
    ],
    "children": [
-    202309,
     870696,
     19507,
-    16474,
-    16859
+    16859,
+    202309
    ]
   },
   "40601": {
@@ -2788,7 +2800,6 @@
     1362082,
     1889506,
     870696,
-    1703289,
     19728,
     26480,
     1041649,
@@ -2797,7 +2808,7 @@
     1426485,
     16823,
     18968,
-    18969
+    1703289
    ]
   },
   "18946": {
@@ -2875,25 +2886,6 @@
     1778717
    ]
   },
-  "16730": {
-   "name": "Antropologia",
-   "parents": [
-    24443,
-    13526
-   ],
-   "children": [
-    867297,
-    1556613,
-    1239558,
-    82855,
-    28649,
-    124749,
-    660368,
-    56243,
-    999638,
-    1015767
-   ]
-  },
   "16743": {
    "name": "Mèxic",
    "parents": [
@@ -2921,6 +2913,17 @@
     238594,
     885157,
     16743
+   ]
+  },
+  "20894": {
+   "name": "Filologia",
+   "parents": [
+    13526
+   ],
+   "children": [
+    1813971,
+    1026028,
+    767365
    ]
   },
   "16823": {
@@ -3434,19 +3437,6 @@
    "children": [
     1282425,
     1282350
-   ]
-  },
-  "18969": {
-   "name": "Segle_XII",
-   "parents": [
-    40601
-   ],
-   "children": [
-    477094,
-    1569895,
-    1282447,
-    719186,
-    1244372
    ]
   },
   "18971": {
@@ -4265,7 +4255,6 @@
     101986,
     105865,
     107625,
-    508075,
     1693934,
     1142257,
     448404,
@@ -4536,6 +4525,7 @@
     199674
    ],
    "children": [
+    772467,
     1013006,
     1093638
    ]
@@ -4859,7 +4849,6 @@
   "719186": {
    "name": "Poesia_trobadoresca",
    "parents": [
-    18969,
     138738,
     1360407
    ],
@@ -5582,7 +5571,9 @@
     18438,
     752465
    ],
-   "children": []
+   "children": [
+    420034
+   ]
   },
   "752465": {
    "name": "Pseudociències",
@@ -5774,7 +5765,8 @@
    "name": "Conceptes_filosòfics",
    "parents": [
     13780,
-    1083144
+    1083144,
+    772467
    ],
    "children": [
     1200482,
@@ -5789,7 +5781,8 @@
     196869
    ],
    "children": [
-    1293306
+    1293306,
+    1838138
    ]
   },
   "1194810": {
@@ -6138,8 +6131,10 @@
     772578,
     885155,
     910851,
+    910885,
     1012291,
     660368,
+    2051922,
     1647860,
     1013782,
     30200,
@@ -6437,6 +6432,7 @@
    ],
    "children": [
     89537,
+    923959,
     1147750,
     31231
    ]
@@ -6522,6 +6518,7 @@
    "parents": [
     24443,
     30200,
+    1838138,
     1236229
    ],
    "children": [
@@ -6537,6 +6534,17 @@
     1575577,
     918780,
     1109279
+   ]
+  },
+  "1838138": {
+   "name": "Justícia_social",
+   "parents": [
+    13769,
+    1293303
+   ],
+   "children": [
+    968413,
+    31567
    ]
   },
   "1236229": {
@@ -6599,6 +6607,7 @@
    "children": [
     31750,
     1286535,
+    1741302,
     44953,
     1646363,
     1064606
@@ -6669,9 +6678,7 @@
    "parents": [
     18951
    ],
-   "children": [
-    1828888
-   ]
+   "children": []
   },
   "32400": {
    "name": "Parcs_naturals",
@@ -8364,6 +8371,7 @@
     291609
    ],
    "children": [
+    517186,
     1264041,
     1214481,
     315547,
@@ -9705,9 +9713,7 @@
    "parents": [
     42059
    ],
-   "children": [
-    281666
-   ]
+   "children": []
   },
   "75548": {
    "name": "Vaixells",
@@ -12575,15 +12581,6 @@
     127842
    ]
   },
-  "129215": {
-   "name": "Unió_Africana",
-   "parents": [
-    1425284
-   ],
-   "children": [
-    1957684
-   ]
-  },
   "129244": {
    "name": "Plantilles_de_navegació_d'esports",
    "parents": [
@@ -13133,7 +13130,8 @@
   "1388334": {
    "name": "Terminologia_musical",
    "parents": [
-    12437
+    12437,
+    772467
    ],
    "children": [
     454205,
@@ -14478,7 +14476,8 @@
     283909
    ],
    "children": [
-    169712
+    169712,
+    2030820
    ]
   },
   "170159": {
@@ -15122,6 +15121,23 @@
     183217
    ]
   },
+  "772467": {
+   "name": "Terminologia",
+   "parents": [
+    2051922,
+    444395
+   ],
+   "children": [
+    1102857,
+    734254,
+    1388334,
+    772464,
+    183217,
+    1740623,
+    1722679,
+    1703231
+   ]
+  },
   "202307": {
    "name": "Filosofia_de_l'edat_mitjana",
    "parents": [
@@ -15475,6 +15491,13 @@
    "name": "Anime_i_manga_de_ciència-ficció",
    "parents": [
     1186114
+   ],
+   "children": []
+  },
+  "1721818": {
+   "name": "TMS_Entertainment",
+   "parents": [
+    234286
    ],
    "children": []
   },
@@ -16571,8 +16594,7 @@
   "723589": {
    "name": "Guerra_dels_Vuitanta_Anys",
    "parents": [
-    987568,
-    585506
+    987568
    ],
    "children": [
     723594,
@@ -16695,24 +16717,6 @@
    ],
    "children": [
     214462
-   ]
-  },
-  "217659": {
-   "name": "Jugadors_de_bàsquet_del_FC_Barcelona",
-   "parents": [
-    281666
-   ],
-   "children": []
-  },
-  "281666": {
-   "name": "Secció_de_bàsquet_del_Futbol_Club_Barcelona",
-   "parents": [
-    75377
-   ],
-   "children": [
-    808480,
-    2001137,
-    217659
    ]
   },
   "217954": {
@@ -16968,8 +16972,9 @@
     502549
    ],
    "children": [
-    1742202,
-    1742555
+    1721818,
+    1742555,
+    1742202
    ]
   },
   "502549": {
@@ -18387,27 +18392,6 @@
    ],
    "children": []
   },
-  "1556338": {
-   "name": "Biografies_del_segle_XVI",
-   "parents": [
-    16474
-   ],
-   "children": [
-    265382,
-    1458727,
-    1369062,
-    329195,
-    1994898,
-    1878367
-   ]
-  },
-  "265382": {
-   "name": "Papes_de_Roma_del_segle_XVI",
-   "parents": [
-    1556338
-   ],
-   "children": []
-  },
   "1569874": {
    "name": "Biografies_del_segle_XVII",
    "parents": [
@@ -18733,6 +18717,7 @@
    "name": "Glossari_de_termes_de_còmic",
    "parents": [
     212547,
+    772467,
     767365
    ],
    "children": [
@@ -19088,7 +19073,8 @@
   "633982": {
    "name": "Far_West",
    "parents": [
-    56808
+    56808,
+    517186
    ],
    "children": []
   },
@@ -19341,6 +19327,16 @@
     283894
    ]
   },
+  "284223": {
+   "name": "Trotskisme",
+   "parents": [
+    970608
+   ],
+   "children": [
+    284843,
+    284837
+   ]
+  },
   "284287": {
    "name": "Ortografia",
    "parents": [
@@ -19425,6 +19421,20 @@
    "name": "Lanzarote",
    "parents": [
     1075604
+   ],
+   "children": []
+  },
+  "284837": {
+   "name": "Trotskistes",
+   "parents": [
+    284223
+   ],
+   "children": []
+  },
+  "284843": {
+   "name": "Partits_polítics_trotskistes",
+   "parents": [
+    284223
    ],
    "children": []
   },
@@ -20318,7 +20328,8 @@
   "772464": {
    "name": "Terminologia_esportiva",
    "parents": [
-    815150
+    815150,
+    772467
    ],
    "children": [
     657955,
@@ -20656,13 +20667,6 @@
    "name": "Regidors_a_l'Ajuntament_de_Barcelona_pel_PSC",
    "parents": [
     268821
-   ],
-   "children": []
-  },
-  "329195": {
-   "name": "Sants_morts_al_segle_XVI",
-   "parents": [
-    1556338
    ],
    "children": []
   },
@@ -21816,7 +21820,9 @@
    "parents": [
     20853
    ],
-   "children": []
+   "children": [
+    735129
+   ]
   },
   "360923": {
    "name": "Himnes_litúrgics",
@@ -22362,17 +22368,6 @@
    ],
    "children": []
   },
-  "477094": {
-   "name": "Comunitats_i_instituts_de_perfecció_catòlics_fundats_al_segle_XII",
-   "parents": [
-    18969
-   ],
-   "children": [
-    1071698,
-    964675,
-    648351
-   ]
-  },
   "477103": {
    "name": "Ordes_monàstics_masculins",
    "parents": [
@@ -22815,6 +22810,7 @@
    "name": "Semiòtica",
    "parents": [
     13769,
+    2051922,
     247954,
     196869
    ],
@@ -23287,6 +23283,13 @@
    "children": [
     809521
    ]
+  },
+  "420034": {
+   "name": "Medicina_tradicional_xinesa",
+   "parents": [
+    27332
+   ],
+   "children": []
   },
   "421245": {
    "name": "Grans_Mestres_de_l'Orde_de_Sant_Joan_de_Jerusalem",
@@ -23842,7 +23845,8 @@
     13526
    ],
    "children": [
-    1525472
+    1525472,
+    910885
    ]
   },
   "1162192": {
@@ -25365,13 +25369,6 @@
    ],
    "children": []
   },
-  "508075": {
-   "name": "Novel·les_visuals",
-   "parents": [
-    20303
-   ],
-   "children": []
-  },
   "508498": {
    "name": "Família_Dolabel·la",
    "parents": [
@@ -25508,6 +25505,16 @@
    ],
    "children": []
   },
+  "735129": {
+   "name": "Damasc",
+   "parents": [
+    1312601
+   ],
+   "children": [
+    777419,
+    1835606
+   ]
+  },
   "515449": {
    "name": "Edificis_de_Florència",
    "parents": [
@@ -25579,6 +25586,17 @@
     12437
    ],
    "children": []
+  },
+  "517186": {
+   "name": "Geografia_històrica_dels_Estats_Units",
+   "parents": [
+    56808
+   ],
+   "children": [
+    1599130,
+    786094,
+    633982
+   ]
   },
   "517346": {
    "name": "Instruments_musicals_d'Àfrica",
@@ -27030,7 +27048,8 @@
     1153233
    ],
    "children": [
-    1981576
+    1981576,
+    587580
    ]
   },
   "579208": {
@@ -27253,26 +27272,6 @@
    ],
    "children": []
   },
-  "1203105": {
-   "name": "Esdeveniments_del_segle_XVI",
-   "parents": [
-    16474
-   ],
-   "children": [
-    585506
-   ]
-  },
-  "585506": {
-   "name": "Guerres_del_segle_XVI",
-   "parents": [
-    1203105
-   ],
-   "children": [
-    609890,
-    635060,
-    723589
-   ]
-  },
   "586833": {
    "name": "Pel·lícules_de_catàstrofes",
    "parents": [
@@ -27300,6 +27299,13 @@
    "parents": [
     291985,
     367402
+   ],
+   "children": []
+  },
+  "587580": {
+   "name": "Malalties_del_sistema_reproductor_masculí",
+   "parents": [
+    578586
    ],
    "children": []
   },
@@ -27714,26 +27720,6 @@
    "children": [
     904788,
     1556613
-   ]
-  },
-  "609878": {
-   "name": "Batalles_d'Espanya_del_segle_XVI",
-   "parents": [
-    609890
-   ],
-   "children": [
-    723594
-   ]
-  },
-  "609890": {
-   "name": "Batalles_del_segle_XVI",
-   "parents": [
-    585506
-   ],
-   "children": [
-    653673,
-    656411,
-    609878
    ]
   },
   "609880": {
@@ -28367,13 +28353,6 @@
    ],
    "children": []
   },
-  "635060": {
-   "name": "Batalles_de_les_Guerres_d'Itàlia",
-   "parents": [
-    585506
-   ],
-   "children": []
-  },
   "635150": {
    "name": "Al·lucinògens",
    "parents": [
@@ -28678,7 +28657,6 @@
    "name": "Orde_de_Sant_Jaume",
    "parents": [
     44207,
-    477094,
     477240
    ],
    "children": [
@@ -28804,13 +28782,6 @@
    "name": "Setges_del_segle_XII",
    "parents": [
     653647
-   ],
-   "children": []
-  },
-  "653673": {
-   "name": "Setges_del_segle_XVI",
-   "parents": [
-    609890
    ],
    "children": []
   },
@@ -28944,13 +28915,6 @@
    "name": "Aqüeductes_romans",
    "parents": [
     1377009
-   ],
-   "children": []
-  },
-  "656411": {
-   "name": "Batalles_de_França_del_segle_XVI",
-   "parents": [
-    609890
    ],
    "children": []
   },
@@ -29815,8 +29779,7 @@
   "723594": {
    "name": "Batalles_de_la_Guerra_dels_Vuitanta_Anys",
    "parents": [
-    723589,
-    609878
+    723589
    ],
    "children": []
   },
@@ -29994,7 +29957,8 @@
   "734254": {
    "name": "Terminologia_soviètica",
    "parents": [
-    30541
+    30541,
+    772467
    ],
    "children": []
   },
@@ -30734,6 +30698,15 @@
     1729939
    ]
   },
+  "777419": {
+   "name": "Damasquins",
+   "parents": [
+    735129
+   ],
+   "children": [
+    1934423
+   ]
+  },
   "778394": {
    "name": "Grans_Prínceps_de_la_Rus_de_Kíev",
    "parents": [
@@ -30922,6 +30895,7 @@
    "name": "Virregnat_de_Nova_Espanya",
    "parents": [
     34284,
+    517186,
     950248
    ],
    "children": [
@@ -31325,13 +31299,6 @@
    "name": "Plantes_paràsites",
    "parents": [
     31689
-   ],
-   "children": []
-  },
-  "808480": {
-   "name": "Entrenadors_de_bàsquet_del_FC_Barcelona",
-   "parents": [
-    281666
    ],
    "children": []
   },
@@ -32799,6 +32766,17 @@
    ],
    "children": []
   },
+  "910885": {
+   "name": "Conflicte",
+   "parents": [
+    17826,
+    13526,
+    13769,
+    867297,
+    442951
+   ],
+   "children": []
+  },
   "910933": {
    "name": "Teoria_de_control",
    "parents": [
@@ -33199,6 +33177,13 @@
    "parents": [
     83122,
     112653
+   ],
+   "children": []
+  },
+  "923959": {
+   "name": "Jocs_Panamericans",
+   "parents": [
+    114221
    ],
    "children": []
   },
@@ -34039,7 +34024,6 @@
    "name": "Orde_Teutònic",
    "parents": [
     44207,
-    477094,
     684416,
     477240
    ],
@@ -34100,6 +34084,15 @@
     13788
    ],
    "children": []
+  },
+  "968413": {
+   "name": "Pobresa",
+   "parents": [
+    1838138
+   ],
+   "children": [
+    1710996
+   ]
   },
   "968810": {
    "name": "Karatekes_japonesos",
@@ -34851,8 +34844,8 @@
   "999638": {
    "name": "Mòmies",
    "parents": [
-    16117,
     16730,
+    16117,
     1024527,
     294284,
     660368
@@ -36874,7 +36867,6 @@
   "1071698": {
    "name": "Beguines_i_begards",
    "parents": [
-    477094,
     477241
    ],
    "children": []
@@ -37428,6 +37420,13 @@
     1994371,
     1306101
    ]
+  },
+  "1102857": {
+   "name": "Terminologia_fotogràfica",
+   "parents": [
+    772467
+   ],
+   "children": []
   },
   "1537728": {
    "name": "Història_de_l'escriptura",
@@ -38347,13 +38346,6 @@
    ],
    "children": []
   },
-  "1156698": {
-   "name": "Pel·lícules_ambientades_en_el_segle_XVI",
-   "parents": [
-    16474
-   ],
-   "children": []
-  },
   "1156752": {
    "name": "Pel·lícules_ambientades_en_el_segle_XVII",
    "parents": [
@@ -39119,20 +39111,6 @@
    ],
    "children": []
   },
-  "1556339": {
-   "name": "Obres_del_segle_XVI",
-   "parents": [
-    16474
-   ],
-   "children": []
-  },
-  "1203112": {
-   "name": "Anys_del_segle_XVI",
-   "parents": [
-    16474
-   ],
-   "children": []
-  },
   "1203381": {
    "name": "Discriminació_de_la_dona",
    "parents": [
@@ -39825,7 +39803,6 @@
   "1244372": {
    "name": "Minnesänger",
    "parents": [
-    18969,
     1360407
    ],
    "children": []
@@ -40395,13 +40372,6 @@
    "name": "Bisbats_erigits_al_segle_XI",
    "parents": [
     16823
-   ],
-   "children": []
-  },
-  "1282447": {
-   "name": "Bisbats_erigits_al_segle_XII",
-   "parents": [
-    18969
    ],
    "children": []
   },
@@ -41300,13 +41270,6 @@
    ],
    "children": []
   },
-  "1369062": {
-   "name": "Matemàtics_del_segle_XVI",
-   "parents": [
-    1556338
-   ],
-   "children": []
-  },
   "1371444": {
    "name": "Revoltes_del_segle_XVII",
    "parents": [
@@ -42164,13 +42127,6 @@
    "name": "Premi_Enric_Valor",
    "parents": [
     674571
-   ],
-   "children": []
-  },
-  "1458727": {
-   "name": "Teòlegs_del_segle_XVI",
-   "parents": [
-    1556338
    ],
    "children": []
   },
@@ -43432,13 +43388,6 @@
    ],
    "children": []
   },
-  "1569895": {
-   "name": "Anys_del_segle_XII",
-   "parents": [
-    18969
-   ],
-   "children": []
-  },
   "1570114": {
    "name": "Tarot",
    "parents": [
@@ -43476,6 +43425,7 @@
   "1573900": {
    "name": "Trastorns_de_la_parla_i_el_llenguatge",
    "parents": [
+    2051922,
     1017030
    ],
    "children": []
@@ -43735,6 +43685,22 @@
    ],
    "children": []
   },
+  "1710996": {
+   "name": "Activistes_contra_la_pobresa",
+   "parents": [
+    968413
+   ],
+   "children": [
+    1592350
+   ]
+  },
+  "1592350": {
+   "name": "Teòlegs_de_l'alliberament",
+   "parents": [
+    1710996
+   ],
+   "children": []
+  },
   "1593168": {
    "name": "Herbaris",
    "parents": [
@@ -43767,6 +43733,13 @@
    "name": "Encenedors",
    "parents": [
     945043
+   ],
+   "children": []
+  },
+  "1599130": {
+   "name": "Antigues_regions_i_territoris_dels_Estats_Units",
+   "parents": [
+    517186
    ],
    "children": []
   },
@@ -45342,7 +45315,8 @@
   "1703231": {
    "name": "Terminologia_jurídica",
    "parents": [
-    21154
+    21154,
+    772467
    ],
    "children": [
     1911826
@@ -45848,7 +45822,15 @@
   "1740623": {
    "name": "Terminologia_geogràfica",
    "parents": [
-    13525
+    13525,
+    772467
+   ],
+   "children": []
+  },
+  "1741302": {
+   "name": "Associacions_professionals_relacionades_amb_la_informació_i_la_documentació",
+   "parents": [
+    535706
    ],
    "children": []
   },
@@ -45920,13 +45902,6 @@
    "children": [
     1768591
    ]
-  },
-  "1826429": {
-   "name": "Morts_als_Estats_Units_d'Amèrica",
-   "parents": [
-    56808
-   ],
-   "children": []
   },
   "1747852": {
    "name": "Prenoms_femenins_turcs",
@@ -47027,6 +47002,15 @@
    ],
    "children": []
   },
+  "1826429": {
+   "name": "Morts_als_Estats_Units_d'Amèrica",
+   "parents": [
+    56808
+   ],
+   "children": [
+    2018892
+   ]
+  },
   "1826456": {
    "name": "Morts_a_Nàpols",
    "parents": [
@@ -47126,13 +47110,6 @@
    "name": "Morts_a_Cracòvia",
    "parents": [
     100861
-   ],
-   "children": []
-  },
-  "1828888": {
-   "name": "Diplomàtics_cubans",
-   "parents": [
-    32317
    ],
    "children": []
   },
@@ -47270,6 +47247,13 @@
    "name": "100_millors_pel·lícules_del_cinema_mexicà",
    "parents": [
     406856
+   ],
+   "children": []
+  },
+  "1835606": {
+   "name": "Morts_a_Damasc",
+   "parents": [
+    735129
    ],
    "children": []
   },
@@ -48186,13 +48170,6 @@
    ],
    "children": []
   },
-  "1878367": {
-   "name": "Compositors_del_segle_XVI",
-   "parents": [
-    1556338
-   ],
-   "children": []
-  },
   "1878591": {
    "name": "Plantilles_de_navegació_d'exploració_espacial",
    "parents": [
@@ -49033,6 +49010,13 @@
    ],
    "children": []
   },
+  "1934423": {
+   "name": "Polítics_damasquins",
+   "parents": [
+    777419
+   ],
+   "children": []
+  },
   "1934484": {
    "name": "Científics_de_Ciutat_de_Mèxic",
    "parents": [
@@ -49331,13 +49315,6 @@
    "name": "Morts_per_arma_de_foc_de_la_policia",
    "parents": [
     1870266
-   ],
-   "children": []
-  },
-  "1957684": {
-   "name": "Presidents_de_la_Unió_Africana",
-   "parents": [
-    129215
    ],
    "children": []
   },
@@ -49711,13 +49688,6 @@
    ],
    "children": []
   },
-  "1994898": {
-   "name": "Naixements_del_1596",
-   "parents": [
-    1556338
-   ],
-   "children": []
-  },
   "1992508": {
    "name": "Directors_de_doblatge",
    "parents": [
@@ -49903,13 +49873,6 @@
    "name": "Llocs_web_de_política",
    "parents": [
     13779
-   ],
-   "children": []
-  },
-  "2001137": {
-   "name": "Jugadors_de_bàsquet_del_FC_Barcelona_B",
-   "parents": [
-    281666
    ],
    "children": []
   },
@@ -50190,6 +50153,13 @@
    ],
    "children": []
   },
+  "2018892": {
+   "name": "Morts_a_Puerto_Rico",
+   "parents": [
+    1826429
+   ],
+   "children": []
+  },
   "2020556": {
    "name": "Segle_XIX_a_Mèxic",
    "parents": [
@@ -50278,6 +50248,13 @@
    "name": "Persones_relacionades_amb_la_Croada_Albigesa",
    "parents": [
     424124
+   ],
+   "children": []
+  },
+  "2030820": {
+   "name": "Reflexes",
+   "parents": [
+    797638
    ],
    "children": []
   },
@@ -50529,6 +50506,7 @@
     591034,
     1102912,
     13774,
+    2051922,
     13779,
     13780,
     13525,

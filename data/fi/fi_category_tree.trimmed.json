@@ -784,7 +784,8 @@
   "672186": {
    "name": "Systeemit",
    "parents": [
-    1009931
+    1009931,
+    613837
    ],
    "children": [
     382466,
@@ -803,7 +804,6 @@
     24384,
     21059,
     354381,
-    613837,
     206549,
     20074,
     19947,
@@ -1996,6 +1996,7 @@
    ],
    "children": [
     290040,
+    1773761,
     44546,
     188995,
     1701367,
@@ -5562,6 +5563,19 @@
     24630
    ]
   },
+  "28071": {
+   "name": "Venäjän_hallitsijat",
+   "parents": [
+    23257
+   ],
+   "children": [
+    378752,
+    982368,
+    781102,
+    110455,
+    778300
+   ]
+  },
   "120689": {
    "name": "Asevoimat",
    "parents": [
@@ -6476,6 +6490,7 @@
     32536
    ],
    "children": [
+    1071847,
     269096,
     1061706,
     25981,
@@ -8882,19 +8897,6 @@
     28061
    ]
   },
-  "28071": {
-   "name": "Venäjän_hallitsijat",
-   "parents": [
-    23257
-   ],
-   "children": [
-    378752,
-    982368,
-    781102,
-    110455,
-    778300
-   ]
-  },
   "28074": {
    "name": "Norjan_kuninkaat",
    "parents": [
@@ -8946,6 +8948,7 @@
     1176321,
     42984,
     623802,
+    1539626,
     336346,
     86549,
     76373,
@@ -9208,6 +9211,7 @@
     1394946
    ],
    "children": [
+    1539626,
     359541,
     825013
    ]
@@ -9299,11 +9303,10 @@
     19128
    ],
    "children": [
-    492128,
+    1773761,
     188995,
     29192,
     1706056,
-    683534,
     1440374,
     344222
    ]
@@ -9315,7 +9318,9 @@
     19128,
     1603077
    ],
-   "children": []
+   "children": [
+    1773761
+   ]
   },
   "29194": {
    "name": "Biotekniikka",
@@ -9407,6 +9412,7 @@
    ],
    "children": [
     1071872,
+    78849,
     763906,
     1755426,
     1705156,
@@ -9756,6 +9762,17 @@
     527787,
     101246,
     534671
+   ]
+  },
+  "1071847": {
+   "name": "Naiset_ja_uskonto",
+   "parents": [
+    286985,
+    372587
+   ],
+   "children": [
+    1071872,
+    1042475
    ]
   },
   "29635": {
@@ -10882,10 +10899,11 @@
     40245
    ],
    "children": [
-    295928,
-    945520,
+    891494,
     32078,
-    1410167
+    945520,
+    1410167,
+    295928
    ]
   },
   "36319": {
@@ -15358,23 +15376,10 @@
    "name": "Hengelliset_ritarikunnat",
    "parents": [
     25988,
-    101246,
-    165910
+    101246
    ],
    "children": [
     582936
-   ]
-  },
-  "165910": {
-   "name": "Ritarikunnat",
-   "parents": [
-    330345
-   ],
-   "children": [
-    1741681,
-    50474,
-    471493,
-    257703
    ]
   },
   "50480": {
@@ -16288,6 +16293,7 @@
    "children": [
     849091,
     1336996,
+    1774179,
     1536233,
     1516045,
     764466,
@@ -16506,6 +16512,7 @@
     1502894,
     1204243,
     698740,
+    1774068,
     935606,
     796698,
     1685437
@@ -19942,9 +19949,18 @@
    ],
    "children": [
     1174184,
+    78849,
     101246,
     1347831
    ]
+  },
+  "78849": {
+   "name": "Pyhäinjäännökset",
+   "parents": [
+    29319,
+    1571211
+   ],
+   "children": []
   },
   "79158": {
    "name": "Wikipediat_kielittäin",
@@ -20221,9 +20237,9 @@
     923612
    ],
    "children": [
+    1773682,
     1612646,
-    712250,
-    324043,
+    1773674,
     1143942
    ]
   },
@@ -23851,7 +23867,7 @@
   "324043": {
    "name": "Osmanien_valtakunnan_sodat",
    "parents": [
-    80732
+    1773674
    ],
    "children": [
     115233
@@ -23893,10 +23909,11 @@
     20169
    ],
    "children": [
-    1732344,
-    223500,
     1331397,
-    1549132
+    1417894,
+    223500,
+    1549132,
+    1732344
    ]
   },
   "116936": {
@@ -24254,6 +24271,7 @@
     127378,
     414834,
     216340,
+    1773682,
     614744,
     120700,
     311965,
@@ -24287,8 +24305,7 @@
    ],
    "children": [
     382448,
-    195693,
-    128445
+    195693
    ]
   },
   "121616": {
@@ -24926,13 +24943,6 @@
     1405509
    ]
   },
-  "128445": {
-   "name": "Sketsisarjat",
-   "parents": [
-    121459
-   ],
-   "children": []
-  },
   "128669": {
    "name": "The_Beatlesin_albumit",
    "parents": [
@@ -25081,9 +25091,17 @@
     31697
    ],
    "children": [
+    131320,
     1067808,
     591910
    ]
+  },
+  "131320": {
+   "name": "Ranskalaiset_lähetyssaarnaajat",
+   "parents": [
+    131316
+   ],
+   "children": []
   },
   "131366": {
    "name": "Saamelaiset_taruolennot",
@@ -26830,6 +26848,7 @@
    ],
    "children": [
     1564449,
+    1049020,
     153932,
     1451383
    ]
@@ -27583,7 +27602,8 @@
    ],
    "children": [
     1180584,
-    1624779
+    1624779,
+    1773575
    ]
   },
   "163236": {
@@ -27832,8 +27852,7 @@
     267665
    ],
    "children": [
-    1302592,
-    165910
+    1302592
    ]
   },
   "377433": {
@@ -28211,7 +28230,8 @@
     212275,
     762771,
     1030200,
-    991547
+    991547,
+    1068445
    ]
   },
   "1084150": {
@@ -28220,10 +28240,11 @@
     1083933
    ],
    "children": [
+    722919,
+    203405,
     212275,
     762771,
-    203405,
-    722919
+    1068445
    ]
   },
   "169878": {
@@ -28965,7 +28986,9 @@
     96936,
     100251
    ],
-   "children": []
+   "children": [
+    1773499
+   ]
   },
   "184495": {
    "name": "Vastapaavit",
@@ -30227,7 +30250,8 @@
    "children": [
     1183562,
     713917,
-    229910
+    229910,
+    1773575
    ]
   },
   "1277088": {
@@ -30241,7 +30265,8 @@
    "children": [
     1183562,
     713917,
-    229910
+    229910,
+    1773575
    ]
   },
   "372587": {
@@ -30251,6 +30276,7 @@
    ],
    "children": [
     533379,
+    1071847,
     229864,
     245704,
     217936,
@@ -34642,7 +34668,7 @@
    "children": []
   },
   "1260969": {
-   "name": "Entiset_suomalaiset_puolueet",
+   "name": "Suomen_entiset_puolueet",
    "parents": [
     1761766
    ],
@@ -35429,13 +35455,6 @@
    "name": "ISO_3166",
    "parents": [
     28797
-   ],
-   "children": []
-  },
-  "257703": {
-   "name": "Ranskalaiset_ritarikunnat",
-   "parents": [
-    165910
    ],
    "children": []
   },
@@ -39364,6 +39383,7 @@
    "name": "Neitsyt_Maria",
    "parents": [
     29319,
+    1071847,
     30005,
     34150
    ],
@@ -40018,6 +40038,16 @@
    ],
    "children": [
     596209
+   ]
+  },
+  "1773674": {
+   "name": "Osmanien_valtakunnan_historia",
+   "parents": [
+    80732
+   ],
+   "children": [
+    712250,
+    324043
    ]
   },
   "872627": {
@@ -43884,7 +43914,7 @@
    ]
   },
   "414057": {
-   "name": "Suomalaisten_puolueiden_puheenjohtajat",
+   "name": "Suomen_puolueiden_puheenjohtajat",
    "parents": [
     649632
    ],
@@ -45421,13 +45451,6 @@
    ],
    "children": []
   },
-  "471493": {
-   "name": "Portugalilaiset_ritarikunnat",
-   "parents": [
-    165910
-   ],
-   "children": []
-  },
   "472477": {
    "name": "Luolat",
    "parents": [
@@ -45836,10 +45859,12 @@
    ],
    "children": []
   },
-  "492128": {
-   "name": "Tunnustuskuntiin_sitoutumaton_uuskarismaattisuus",
+  "1773761": {
+   "name": "Karismaattinen_liike",
    "parents": [
-    1603077
+    1362394,
+    1603077,
+    29192
    ],
    "children": []
   },
@@ -51203,13 +51228,6 @@
    ],
    "children": []
   },
-  "683534": {
-   "name": "Viidesläisyys",
-   "parents": [
-    1603077
-   ],
-   "children": []
-  },
   "683540": {
    "name": "Nykytanssi",
    "parents": [
@@ -51540,7 +51558,9 @@
    "parents": [
     100251
    ],
-   "children": []
+   "children": [
+    1773499
+   ]
   },
   "1668282": {
    "name": "Yhdysvaltalaiset_graafiset_suunnittelijat",
@@ -52196,6 +52216,7 @@
     1492897,
     1625033,
     1744747,
+    1744751,
     1744733,
     1601631,
     1711487
@@ -52581,7 +52602,7 @@
   "712250": {
    "name": "Osmanien_valtakunnan_taistelut",
    "parents": [
-    80732
+    1773674
    ],
    "children": []
   },
@@ -57503,6 +57524,7 @@
   "891494": {
    "name": "Kruunut",
    "parents": [
+    82211,
     85700
    ],
    "children": []
@@ -59032,7 +59054,9 @@
    "parents": [
     220432
    ],
-   "children": []
+   "children": [
+    1773575
+   ]
   },
   "1110642": {
    "name": "Linux-mobiilikäyttöjärjestelmät",
@@ -61480,6 +61504,7 @@
   "1042475": {
    "name": "Diakonissat",
    "parents": [
+    1071847,
     496473
    ],
    "children": []
@@ -61638,6 +61663,13 @@
     214091,
     229915,
     1048558
+   ],
+   "children": []
+  },
+  "1049020": {
+   "name": "Ruotsalaiset_oikeustieteilijät",
+   "parents": [
+    153936
    ],
    "children": []
   },
@@ -62337,6 +62369,14 @@
    "name": "Saksalaiset_kielenkääntäjät",
    "parents": [
     53813
+   ],
+   "children": []
+  },
+  "1068445": {
+   "name": "Salaiset_kansiot",
+   "parents": [
+    911286,
+    1084150
    ],
    "children": []
   },
@@ -69823,6 +69863,13 @@
     1529750
    ]
   },
+  "1417894": {
+   "name": "Euroopan_unionin_neuvosto",
+   "parents": [
+    903615
+   ],
+   "children": []
+  },
   "1417995": {
    "name": "Norjalaiset_piispat",
    "parents": [
@@ -72150,6 +72197,16 @@
    ],
    "children": []
   },
+  "1539626": {
+   "name": "Gazan_kaista",
+   "parents": [
+    99294,
+    29025
+   ],
+   "children": [
+    1773575
+   ]
+  },
   "1540451": {
    "name": "Saamelaiskielten_tutkijat",
    "parents": [
@@ -74349,14 +74406,14 @@
    "children": []
   },
   "1669522": {
-   "name": "Espanjalaisten_puolueiden_puheenjohtajat",
+   "name": "Espanjan_puolueiden_puheenjohtajat",
    "parents": [
     649632
    ],
    "children": []
   },
   "1669545": {
-   "name": "Ruotsalaisten_puolueiden_puheenjohtajat",
+   "name": "Ruotsin_puolueiden_puheenjohtajat",
    "parents": [
     649632
    ],
@@ -75038,7 +75095,7 @@
    "children": []
   },
   "1700125": {
-   "name": "Tanskalaisten_puolueiden_puheenjohtajat",
+   "name": "Tanskan_puolueiden_puheenjohtajat",
    "parents": [
     649632
    ],
@@ -75926,8 +75983,7 @@
   "1741681": {
    "name": "Naisille_tarkoitetut_ritarikunnat",
    "parents": [
-    286985,
-    165910
+    286985
    ],
    "children": []
   },
@@ -76034,6 +76090,13 @@
    "children": [
     1744747
    ]
+  },
+  "1744751": {
+   "name": "Espanjalaiset_katoliset_arkkipiispat",
+   "parents": [
+    704377
+   ],
+   "children": []
   },
   "1746434": {
    "name": "OpenAI",
@@ -76545,6 +76608,47 @@
    "name": "Aragonian_hallitsijat",
    "parents": [
     23257
+   ],
+   "children": []
+  },
+  "1773499": {
+   "name": "Suomalaiset_urkujen_valmistajat",
+   "parents": [
+    184396,
+    694191
+   ],
+   "children": []
+  },
+  "1773575": {
+   "name": "Hamas",
+   "parents": [
+    304116,
+    801441,
+    1277088,
+    960152,
+    1539626
+   ],
+   "children": []
+  },
+  "1773682": {
+   "name": "Osmanien_valtakunnan_asevoimat",
+   "parents": [
+    80732,
+    240493
+   ],
+   "children": []
+  },
+  "1774068": {
+   "name": "Suomenpuolalaiset_henkilöt",
+   "parents": [
+    183218
+   ],
+   "children": []
+  },
+  "1774179": {
+   "name": "Etelä-Konneveden_kansallispuisto",
+   "parents": [
+    55664
    ],
    "children": []
   },

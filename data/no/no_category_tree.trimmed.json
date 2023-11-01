@@ -707,9 +707,10 @@
    ],
    "children": [
     30085,
+    864142,
     1374833,
-    1350139,
     1373595,
+    1350139,
     1363805,
     364830
    ]
@@ -3631,6 +3632,7 @@
     1238502,
     384071,
     1238895,
+    1238973,
     1238898,
     1475795,
     1238902,
@@ -5323,7 +5325,6 @@
    "children": [
     1814793,
     511757,
-    316910,
     877938,
     642228,
     354357,
@@ -12569,7 +12570,6 @@
     1057734,
     33191,
     426920,
-    348697,
     145199,
     20495,
     138066,
@@ -25678,6 +25678,7 @@
     442686,
     492746,
     442700,
+    1371726,
     443115,
     486900,
     462582,
@@ -26299,6 +26300,7 @@
    ],
    "children": [
     289482,
+    2099243,
     1257614,
     307025,
     228597,
@@ -26622,16 +26624,17 @@
     866311
    ],
    "children": [
+    338081,
     338082,
     267877,
     1566437,
     1030673,
-    1759795,
     1759796,
     338069,
     1759799,
     1759800,
     1756185,
+    338078,
     338079
    ]
   },
@@ -27344,6 +27347,7 @@
     142592
    ],
    "children": [
+    2152792,
     1506313,
     54909
    ]
@@ -27724,10 +27728,25 @@
     77513
    ],
    "children": [
+    1828224,
+    56539,
     1327664,
-    2094203,
     2090384,
-    1828224
+    2094203
+   ]
+  },
+  "56539": {
+   "name": "Konservative_politikere",
+   "parents": [
+    80765
+   ],
+   "children": [
+    64196,
+    593223,
+    868904,
+    1430635,
+    526702,
+    526717
    ]
   },
   "56550": {
@@ -30348,6 +30367,7 @@
   "64196": {
    "name": "Høyre-politikere",
    "parents": [
+    56539,
     73362
    ],
    "children": [
@@ -39450,7 +39470,6 @@
     8975
    ],
    "children": [
-    1490699,
     460998
    ]
   },
@@ -45866,9 +45885,7 @@
     8973,
     8975
    ],
-   "children": [
-    1490699
-   ]
+   "children": []
   },
   "145312": {
    "name": "Engelske_forfattere",
@@ -46838,6 +46855,7 @@
    ],
    "children": [
     804496,
+    1901929,
     1828208,
     1893309
    ]
@@ -47720,6 +47738,7 @@
     526980,
     456678,
     429062,
+    580429,
     578990,
     578991,
     446197,
@@ -53089,8 +53108,9 @@
    "children": [
     197280,
     949665,
-    978356,
-    1564913
+    976742,
+    1564913,
+    978356
    ]
   },
   "197309": {
@@ -54297,8 +54317,7 @@
     47258
    ],
    "children": [
-    1377880,
-    1490699
+    1377880
    ]
   },
   "211272": {
@@ -62302,6 +62321,7 @@
    ],
    "children": [
     2116280,
+    2152833,
     301078
    ]
   },
@@ -63651,13 +63671,6 @@
    "children": [
     1733727
    ]
-  },
-  "316910": {
-   "name": "Kypros'_geografi",
-   "parents": [
-    13180
-   ],
-   "children": []
   },
   "317023": {
    "name": "Restauranter_i_Sverige",
@@ -65401,8 +65414,22 @@
    ],
    "children": []
   },
+  "338078": {
+   "name": "Videregående_skoler_i_Telemark",
+   "parents": [
+    52702
+   ],
+   "children": []
+  },
   "338079": {
    "name": "Videregående_skoler_i_Møre_og_Romsdal",
+   "parents": [
+    52702
+   ],
+   "children": []
+  },
+  "338081": {
+   "name": "Videregående_skoler_i_Vestfold",
    "parents": [
     52702
    ],
@@ -66707,15 +66734,6 @@
     9080
    ],
    "children": []
-  },
-  "348697": {
-   "name": "Uranus",
-   "parents": [
-    44215
-   ],
-   "children": [
-    355769
-   ]
   },
   "348698": {
    "name": "Venus",
@@ -68080,8 +68098,7 @@
   "355769": {
    "name": "Uranus'_måner",
    "parents": [
-    20495,
-    348697
+    20495
    ],
    "children": []
   },
@@ -79679,7 +79696,8 @@
     14188
    ],
    "children": [
-    2150204
+    2150204,
+    2152772
    ]
   },
   "454605": {
@@ -82011,7 +82029,8 @@
     25112
    ],
    "children": [
-    1578120
+    1578120,
+    1344713
    ]
   },
   "471134": {
@@ -88370,6 +88389,13 @@
     526618
    ]
   },
+  "526702": {
+   "name": "CDU-politikere",
+   "parents": [
+    56539
+   ],
+   "children": []
+  },
   "526710": {
    "name": "SED-politikere",
    "parents": [
@@ -88378,6 +88404,13 @@
    "children": [
     800502
    ]
+  },
+  "526717": {
+   "name": "CSU-politikere",
+   "parents": [
+    56539
+   ],
+   "children": []
   },
   "526902": {
    "name": "Fylker_i_Ningxia_Hui",
@@ -88394,7 +88427,7 @@
    "children": []
   },
   "526980": {
-   "name": "Ordførerlister_i_Vestfold_og_Telemark",
+   "name": "Ordførerlister_i_Vestfold",
    "parents": [
     145258
    ],
@@ -92338,6 +92371,13 @@
     583348
    ]
   },
+  "580429": {
+   "name": "Ordførerlister_i_Telemark",
+   "parents": [
+    145258
+   ],
+   "children": []
+  },
   "580586": {
    "name": "KGB",
    "parents": [
@@ -93790,6 +93830,17 @@
    ],
    "children": []
   },
+  "593223": {
+   "name": "Det_Konservative_Folkeparti-politikere",
+   "parents": [
+    56539
+   ],
+   "children": [
+    1738497,
+    1738490,
+    1738493
+   ]
+  },
   "593259": {
    "name": "Personer_fra_Lemvig_kommune",
    "parents": [
@@ -94402,6 +94453,24 @@
    "children": [
     1019601
    ]
+  },
+  "868904": {
+   "name": "Frisinnede_Venstre-politikere",
+   "parents": [
+    56539
+   ],
+   "children": [
+    868906,
+    1157227,
+    602655
+   ]
+  },
+  "602655": {
+   "name": "Stortingsrepresentanter_fra_Frisinnede_Venstre",
+   "parents": [
+    868904
+   ],
+   "children": []
   },
   "602757": {
    "name": "Askese",
@@ -103122,8 +103191,7 @@
     144092
    ],
    "children": [
-    735760,
-    1490699
+    735760
    ]
   },
   "735760": {
@@ -103719,8 +103787,8 @@
    "children": [
     743701,
     1514263,
+    743703,
     743705,
-    743708,
     1514012,
     1514015,
     743584,
@@ -103733,6 +103801,7 @@
     743630,
     743638,
     743641,
+    2151405,
     1392115,
     2148092,
     1757950
@@ -103878,6 +103947,15 @@
     1027669
    ]
   },
+  "743703": {
+   "name": "Veitunneler_i_Telemark",
+   "parents": [
+    743531
+   ],
+   "children": [
+    2151412
+   ]
+  },
   "743705": {
    "name": "Veitunneler_i_Troms",
    "parents": [
@@ -103886,16 +103964,6 @@
    "children": [
     2148267,
     2148252
-   ]
-  },
-  "743708": {
-   "name": "Veitunneler_i_Vestfold_og_Telemark",
-   "parents": [
-    743531
-   ],
-   "children": [
-    2148356,
-    2148342
    ]
   },
   "1571388": {
@@ -111600,6 +111668,14 @@
     864129
    ]
   },
+  "864142": {
+   "name": "MediaWiki",
+   "parents": [
+    9079,
+    1577924
+   ],
+   "children": []
+  },
   "1577924": {
    "name": "Gruppevare",
    "parents": [
@@ -111607,7 +111683,8 @@
     99033
    ],
    "children": [
-    2076908
+    2076908,
+    864142
    ]
   },
   "864408": {
@@ -111939,6 +112016,13 @@
    "name": "Oljedirektoratet",
    "parents": [
     39886
+   ],
+   "children": []
+  },
+  "868906": {
+   "name": "Frisinnede_Venstre-statsråder",
+   "parents": [
+    868904
    ],
    "children": []
   },
@@ -116086,7 +116170,6 @@
    ],
    "children": [
     1377880,
-    1490699,
     932823
    ]
   },
@@ -119617,6 +119700,13 @@
    "name": "Norske_fullriggere",
    "parents": [
     638469
+   ],
+   "children": []
+  },
+  "976742": {
+   "name": "Skøyteklubber_i_Vestfold",
+   "parents": [
+    903834
    ],
    "children": []
   },
@@ -133076,6 +133166,13 @@
     1157106
    ]
   },
+  "1157227": {
+   "name": "Lokalpolitikere_fra_Frisinnede_Venstre",
+   "parents": [
+    868904
+   ],
+   "children": []
+  },
   "1157364": {
    "name": "Kapitalisme",
    "parents": [
@@ -138086,7 +138183,14 @@
    "children": []
   },
   "1238969": {
-   "name": "Musikkfestivaler_i_Vestfold_og_Telemark",
+   "name": "Musikkfestivaler_i_Vestfold",
+   "parents": [
+    11219
+   ],
+   "children": []
+  },
+  "1238973": {
+   "name": "Musikkfestivaler_i_Telemark",
    "parents": [
     11219
    ],
@@ -144285,6 +144389,13 @@
    ],
    "children": []
   },
+  "1344713": {
+   "name": "Personer_fra_guvernementet_Hebron",
+   "parents": [
+    471118
+   ],
+   "children": []
+  },
   "1344785": {
    "name": "Snåsavassdraget",
    "parents": [
@@ -146144,6 +146255,13 @@
    "name": "Lastebilprodusenter",
    "parents": [
     411418
+   ],
+   "children": []
+  },
+  "1371726": {
+   "name": "Mexicos_Grand_Prix",
+   "parents": [
+    48680
    ],
    "children": []
   },
@@ -150648,6 +150766,7 @@
   "1430635": {
    "name": "Britiske_konservative_politikere",
    "parents": [
+    56539,
     1430637
    ],
    "children": [
@@ -153464,17 +153583,6 @@
    ],
    "children": []
   },
-  "1490699": {
-   "name": "Arthur_Conan_Doyle",
-   "parents": [
-    98734,
-    703420,
-    211228,
-    906114,
-    1136965
-   ],
-   "children": []
-  },
   "1490096": {
    "name": "Lotterier",
    "parents": [
@@ -156117,7 +156225,9 @@
    "parents": [
     337845
    ],
-   "children": []
+   "children": [
+    1565008
+   ]
   },
   "1557938": {
    "name": "Sp-politikere_i_Trøndelag",
@@ -156591,6 +156701,13 @@
    "name": "Musikkfestivaler_i_Trøndelag",
    "parents": [
     11219
+   ],
+   "children": []
+  },
+  "1565008": {
+   "name": "Høyre-ordførere_i_Trøndelag",
+   "parents": [
+    1557934
    ],
    "children": []
   },
@@ -165286,14 +165403,23 @@
   "1738490": {
    "name": "Folketingsmedlemmer_fra_Det_Konservative_Folkeparti",
    "parents": [
-    84484
+    84484,
+    593223
    ],
    "children": []
   },
   "1738493": {
    "name": "Borgermestre_fra_Det_Konservative_Folkeparti",
    "parents": [
+    593223,
     1624542
+   ],
+   "children": []
+  },
+  "1738497": {
+   "name": "Det_Konservative_Folkeparti-ministre",
+   "parents": [
+    593223
    ],
    "children": []
   },
@@ -166592,13 +166718,6 @@
    "name": "Råtevedbiller",
    "parents": [
     85908
-   ],
-   "children": []
-  },
-  "1759795": {
-   "name": "Videregående_skoler_i_Vestfold_og_Telemark",
-   "parents": [
-    52702
    ],
    "children": []
   },
@@ -171467,6 +171586,13 @@
    "name": "Formel_1-sesongen_2021",
    "parents": [
     458034
+   ],
+   "children": []
+  },
+  "1901929": {
+   "name": "Personer_drept_i_luftangrep",
+   "parents": [
+    1828190
    ],
    "children": []
   },
@@ -177642,6 +177768,16 @@
    "parents": [
     1497887
    ],
+   "children": [
+    2099243
+   ]
+  },
+  "2099243": {
+   "name": "Filistinske_byer",
+   "parents": [
+    51355,
+    2099244
+   ],
    "children": []
   },
   "2099301": {
@@ -178963,14 +179099,24 @@
   "2148342": {
    "name": "Veitunneler_i_Holmestrand",
    "parents": [
-    743708
+    2151405
    ],
    "children": []
+  },
+  "2151405": {
+   "name": "Veitunneler_i_Vestfold",
+   "parents": [
+    743531
+   ],
+   "children": [
+    2148356,
+    2148342
+   ]
   },
   "2148356": {
    "name": "Veitunneler_i_Larvik",
    "parents": [
-    743708
+    2151405
    ],
    "children": []
   },
@@ -179050,6 +179196,43 @@
    "name": "Dekaner_ved_NTNU",
    "parents": [
     746696
+   ],
+   "children": []
+  },
+  "2151412": {
+   "name": "Veitunneler_i_Porsgrunn",
+   "parents": [
+    743703
+   ],
+   "children": []
+  },
+  "2152772": {
+   "name": "Israel–Hamas-krigen_2023",
+   "parents": [
+    454558
+   ],
+   "children": [
+    2152778
+   ]
+  },
+  "2152778": {
+   "name": "Personer_drept_i_Israel–Hamas-krigen_2023",
+   "parents": [
+    2152772
+   ],
+   "children": []
+  },
+  "2152792": {
+   "name": "Sherlock_Holmes",
+   "parents": [
+    453237
+   ],
+   "children": []
+  },
+  "2152833": {
+   "name": "Planetflekker",
+   "parents": [
+    2116088
    ],
    "children": []
   },

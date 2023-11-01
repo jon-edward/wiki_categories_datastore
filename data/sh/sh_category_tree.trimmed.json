@@ -119,7 +119,6 @@
     3557815,
     2168,
     3558770,
-    4021172,
     81759
    ]
   },
@@ -2923,7 +2922,7 @@
     82132,
     4681396,
     4680471,
-    82136
+    4684220
    ]
   },
   "2577": {
@@ -8566,6 +8565,7 @@
     1477771,
     220812,
     1283597,
+    4566925,
     220817,
     1477906,
     13472,
@@ -8660,8 +8660,8 @@
     4646248,
     4646250,
     4644203,
-    4646252,
     4646251,
+    4646252,
     4644206,
     4646253,
     4646254,
@@ -8671,6 +8671,7 @@
     1112436,
     1281409,
     244107,
+    4566925,
     4646825,
     4646826,
     172496,
@@ -13177,7 +13178,8 @@
    ],
    "children": [
     56482,
-    22763
+    22763,
+    4684212
    ]
   },
   "22763": {
@@ -13977,6 +13979,7 @@
     3555690,
     1283958,
     135163,
+    4680957,
     70527
    ]
   },
@@ -27675,6 +27678,7 @@
    ],
    "children": [
     4028261,
+    4030314,
     1351084,
     3555950,
     4602705,
@@ -31165,6 +31169,7 @@
     1351722,
     4673903,
     4673841,
+    4684273,
     4577845,
     4608117,
     4577850,
@@ -31691,23 +31696,6 @@
    ],
    "children": [
     117800
-   ]
-  },
-  "72970": {
-   "name": "Potpredsjednici_Federalnih_Država_Mikronezije",
-   "parents": [
-    4021172
-   ],
-   "children": []
-  },
-  "4021172": {
-   "name": "Potpredsjednici",
-   "parents": [
-    1777
-   ],
-   "children": [
-    72970,
-    4020894
    ]
   },
   "72972": {
@@ -35062,6 +35050,16 @@
    ],
    "children": [
     75070
+   ]
+  },
+  "4566925": {
+   "name": "Etničke_grupe_Nizozemske",
+   "parents": [
+    2555095,
+    86759
+   ],
+   "children": [
+    4566924
    ]
   },
   "75114": {
@@ -39169,7 +39167,7 @@
     112944,
     1478163,
     1478164,
-    1478173
+    4684244
    ]
   },
   "1478185": {
@@ -39200,15 +39198,6 @@
     4021178,
     4653854,
     129087
-   ]
-  },
-  "82136": {
-   "name": "Fudbalski_ili_nogometni_stadioni",
-   "parents": [
-    4674404
-   ],
-   "children": [
-    256651
    ]
   },
   "82154": {
@@ -49319,6 +49308,7 @@
    ],
    "children": [
     170672,
+    4684273,
     3550546,
     1478331
    ]
@@ -59103,7 +59093,6 @@
     4514
    ],
    "children": [
-    1320449,
     4030567,
     187242,
     174096,
@@ -61699,6 +61688,13 @@
    "children": [
     189528
    ]
+  },
+  "4030314": {
+   "name": "Vitez",
+   "parents": [
+    66500
+   ],
+   "children": []
   },
   "189664": {
    "name": "Ohridska_arhiepiskopija",
@@ -64693,22 +64689,6 @@
    ],
    "children": []
   },
-  "4641226": {
-   "name": "Sportski_objekti_u_Beogradu",
-   "parents": [
-    109579
-   ],
-   "children": [
-    222181
-   ]
-  },
-  "222181": {
-   "name": "Stadioni_u_Beogradu",
-   "parents": [
-    4641226
-   ],
-   "children": []
-  },
   "222186": {
    "name": "Francuski_kartografi",
    "parents": [
@@ -67236,7 +67216,10 @@
     4577780
    ],
    "children": [
-    237376
+    237376,
+    1478355,
+    3558900,
+    4576654
    ]
   },
   "237376": {
@@ -67254,8 +67237,7 @@
     24684
    ],
    "children": [
-    237377,
-    1478355
+    237377
    ]
   },
   "237379": {
@@ -70864,13 +70846,6 @@
    "name": "Genetika,_članci_u_začetku",
    "parents": [
     47748
-   ],
-   "children": []
-  },
-  "256651": {
-   "name": "Fudbalski_ili_nogometni_stadioni_u_Engleskoj",
-   "parents": [
-    82136
    ],
    "children": []
   },
@@ -81209,7 +81184,6 @@
   "1320449": {
    "name": "Dječje_TV-serije",
    "parents": [
-    254604,
     187242
    ],
    "children": []
@@ -84897,24 +84871,6 @@
    ],
    "children": []
   },
-  "1478173": {
-   "name": "Nogometna_igrališta_u_Zagrebu",
-   "parents": [
-    82007,
-    4640327
-   ],
-   "children": []
-  },
-  "4640327": {
-   "name": "Sportski_objekti_u_Zagrebu",
-   "parents": [
-    1478185,
-    91861
-   ],
-   "children": [
-    1478173
-   ]
-  },
   "1478181": {
    "name": "Slovaci_u_Hrvatskoj",
    "parents": [
@@ -85141,7 +85097,7 @@
    "name": "Kosače",
    "parents": [
     4577850,
-    237378
+    1351722
    ],
    "children": []
   },
@@ -95788,7 +95744,8 @@
   "3558900": {
    "name": "Pavlovići",
    "parents": [
-    4577850
+    4577850,
+    1351722
    ],
    "children": []
   },
@@ -96551,15 +96508,6 @@
    ],
    "children": [
     4263413
-   ]
-  },
-  "4020894": {
-   "name": "Potpredsjednici_SAD",
-   "parents": [
-    4021172
-   ],
-   "children": [
-    4575917
    ]
   },
   "4020922": {
@@ -100532,6 +100480,13 @@
    ],
    "children": []
   },
+  "4566924": {
+   "name": "Nizozemski_Jevreji",
+   "parents": [
+    4566925
+   ],
+   "children": []
+  },
   "4567438": {
    "name": "Historija_Benina",
    "parents": [
@@ -100735,13 +100690,6 @@
    ],
    "children": []
   },
-  "4575917": {
-   "name": "Druge_dame_SAD",
-   "parents": [
-    4020894
-   ],
-   "children": []
-  },
   "4576155": {
    "name": "Umrli_2017.",
    "parents": [
@@ -100815,7 +100763,8 @@
   "4576654": {
    "name": "Hrvatinići",
    "parents": [
-    4577850
+    4577850,
+    1351722
    ],
    "children": []
   },
@@ -103888,6 +103837,16 @@
    ],
    "children": []
   },
+  "4640327": {
+   "name": "Sportski_objekti_u_Zagrebu",
+   "parents": [
+    1478185,
+    91861
+   ],
+   "children": [
+    4684244
+   ]
+  },
   "4640359": {
    "name": "Bivše_hrvatske_kompanije",
    "parents": [
@@ -104145,6 +104104,15 @@
     20447
    ],
    "children": []
+  },
+  "4641226": {
+   "name": "Sportski_objekti_u_Beogradu",
+   "parents": [
+    109579
+   ],
+   "children": [
+    4684242
+   ]
   },
   "4641232": {
    "name": "Sportski_objekti_u_Rijeci",
@@ -108351,6 +108319,13 @@
    ],
    "children": []
   },
+  "4680957": {
+   "name": "Predsjednici_Surinama",
+   "parents": [
+    70578
+   ],
+   "children": []
+  },
   "4681169": {
    "name": "Liburni",
    "parents": [
@@ -108449,6 +108424,43 @@
    "name": "Dezitijati",
    "parents": [
     4576544
+   ],
+   "children": []
+  },
+  "4684212": {
+   "name": "Naselja_u_Ukrajini",
+   "parents": [
+    72091
+   ],
+   "children": []
+  },
+  "4684220": {
+   "name": "Fudbalski_stadioni",
+   "parents": [
+    4674404
+   ],
+   "children": []
+  },
+  "4684242": {
+   "name": "Fudbalski_stadioni_u_Beogradu",
+   "parents": [
+    4641226
+   ],
+   "children": []
+  },
+  "4684244": {
+   "name": "Fudbalski_stadioni_u_Zagrebu",
+   "parents": [
+    82007,
+    4640327
+   ],
+   "children": []
+  },
+  "4684273": {
+   "name": "Srednjovjekovna_Bosna_i_Dubrovačka_Republika",
+   "parents": [
+    4577780,
+    126620
    ],
    "children": []
   },

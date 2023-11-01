@@ -1384,6 +1384,7 @@
    ],
    "children": [
     144129,
+    1127363,
     8837,
     62729,
     121294,
@@ -7054,7 +7055,8 @@
   "7585": {
    "name": "Sare_informatikoak",
    "parents": [
-    6344
+    6344,
+    1109224
    ],
    "children": [
     990373,
@@ -7063,6 +7065,16 @@
     109237,
     520408,
     22844
+   ]
+  },
+  "1109224": {
+   "name": "Sareak",
+   "parents": [
+    1109225
+   ],
+   "children": [
+    7585,
+    138815
    ]
   },
   "7611": {
@@ -7764,8 +7776,9 @@
     336178,
     35508,
     336180,
-    897650,
+    337269,
     52343,
+    897650,
     335963,
     61566
    ]
@@ -7975,6 +7988,7 @@
     722406,
     1031751,
     59849,
+    848137,
     160843,
     293531,
     111474,
@@ -9089,10 +9103,21 @@
    "name": "Gibraltar",
    "parents": [
     6853,
+    1127363,
     1053420
    ],
    "children": [
     678635
+   ]
+  },
+  "1127363": {
+   "name": "Europako_dependentziak",
+   "parents": [
+    4313
+   ],
+   "children": [
+    143024,
+    9110
    ]
   },
   "1053420": {
@@ -10063,6 +10088,7 @@
     118823,
     128489,
     65132,
+    224431,
     369044,
     520085,
     1068346,
@@ -10106,6 +10132,7 @@
     0
    ],
    "children": [
+    1109224,
     9899
    ]
   },
@@ -10807,6 +10834,7 @@
    "children": [
     883904,
     506977,
+    1127335,
     62728,
     10825,
     56011,
@@ -10836,6 +10864,7 @@
     50419
    ],
    "children": [
+    1127335,
     10825,
     60332,
     729140,
@@ -12685,6 +12714,7 @@
     52528,
     50641,
     64466,
+    367829,
     50486,
     103702,
     366495,
@@ -13404,6 +13434,7 @@
     1037675,
     582063,
     977903,
+    972305,
     587507,
     609364,
     840667,
@@ -14163,6 +14194,7 @@
     18732
    ],
    "children": [
+    382528,
     60261,
     99774
    ]
@@ -14379,7 +14411,6 @@
     380811,
     231022,
     656718,
-    24656,
     265048,
     85498
    ]
@@ -15145,6 +15176,7 @@
     383363,
     40204,
     656140,
+    972305,
     586138,
     142240,
     515364,
@@ -17464,7 +17496,6 @@
    ],
    "children": [
     334702,
-    83068,
     141957,
     23086
    ]
@@ -17801,16 +17832,6 @@
     39918
    ]
   },
-  "24656": {
-   "name": "Bahamak",
-   "parents": [
-    231026
-   ],
-   "children": [
-    755958,
-    880847
-   ]
-  },
   "24689": {
    "name": "Zurgintza",
    "parents": [
@@ -18043,7 +18064,9 @@
     506962,
     506961
    ],
-   "children": []
+   "children": [
+    999602
+   ]
   },
   "506962": {
    "name": "Espainiako_etniak",
@@ -18081,7 +18104,6 @@
     149935,
     36273,
     24951,
-    89208,
     32543
    ]
   },
@@ -18983,6 +19005,7 @@
    ],
    "children": [
     1103008,
+    616051,
     62178,
     240435
    ]
@@ -19010,7 +19033,6 @@
     42401,
     103049,
     596393,
-    302261,
     302262,
     227388
    ]
@@ -19936,7 +19958,8 @@
    ],
    "children": [
     336139,
-    395084
+    395084,
+    337269
    ]
   },
   "35612": {
@@ -20119,6 +20142,7 @@
    "children": [
     674880,
     238948,
+    1100901,
     35687,
     131054,
     156371,
@@ -21339,10 +21363,7 @@
    ],
    "children": [
     49728,
-    241044,
-    162868,
-    42715,
-    384383
+    241044
    ]
   },
   "41162": {
@@ -21525,6 +21546,7 @@
    ],
    "children": [
     41669,
+    1084582,
     968719,
     969073,
     969170,
@@ -22155,12 +22177,23 @@
   "42568": {
    "name": "Satelite_bidezko_nabigazio_sistemak",
    "parents": [
+    224431,
     910501,
     1105476,
     42569,
     84708
    ],
    "children": []
+  },
+  "224431": {
+   "name": "Geografia_informazioko_sistemak",
+   "parents": [
+    9755,
+    369044
+   ],
+   "children": [
+    42568
+   ]
   },
   "910501": {
    "name": "Haririk_gabeko_kokapena",
@@ -22340,16 +22373,6 @@
     725244
    ]
   },
-  "42715": {
-   "name": "Kataluniako_enpresak",
-   "parents": [
-    41068
-   ],
-   "children": [
-    729481,
-    743121
-   ]
-  },
   "42779": {
    "name": "Plaken_tektonika",
    "parents": [
@@ -22518,10 +22541,11 @@
     942917
    ],
    "children": [
-    133688,
-    384788,
     297062,
-    386967
+    848137,
+    384788,
+    386967,
+    133688
    ]
   },
   "942917": {
@@ -23705,6 +23729,7 @@
     340062
    ],
    "children": [
+    1127299,
     599644
    ]
   },
@@ -23870,6 +23895,7 @@
     948178
    ],
    "children": [
+    1100901,
     46877
    ]
   },
@@ -24009,7 +24035,9 @@
    "parents": [
     42585
    ],
-   "children": []
+   "children": [
+    592824
+   ]
   },
   "47686": {
    "name": "Sexu-transmisiozko_gaixotasunak",
@@ -25417,6 +25445,7 @@
     50612
    ],
    "children": [
+    1127299,
     840295,
     721737,
     841719,
@@ -26402,6 +26431,7 @@
    "parents": [
     387452,
     131054,
+    1100901,
     229863
    ],
    "children": [
@@ -26419,6 +26449,17 @@
    ],
    "children": [
     740175,
+    53895
+   ]
+  },
+  "1100901": {
+   "name": "Istripu_eta_gertakari_industrialak",
+   "parents": [
+    1100904,
+    948176,
+    737452
+   ],
+   "children": [
     53895
    ]
   },
@@ -34735,15 +34776,6 @@
    ],
    "children": []
   },
-  "83068": {
-   "name": "Alemaniako_futbolariak",
-   "parents": [
-    329073
-   ],
-   "children": [
-    774627
-   ]
-  },
   "141958": {
    "name": "Alemaniako_kirola",
    "parents": [
@@ -35148,6 +35180,7 @@
     159571,
     242067,
     723924,
+    1127220,
     165817
    ]
   },
@@ -35462,11 +35495,33 @@
   "86498": {
    "name": "Espainiako_gastronomia",
    "parents": [
-    48476
+    48476,
+    1055300
    ],
    "children": [
     970212,
     114877
+   ]
+  },
+  "1055300": {
+   "name": "Gastronomia_mediterraneoa",
+   "parents": [
+    130621
+   ],
+   "children": [
+    86498,
+    907042,
+    121124,
+    99560,
+    908744,
+    908746,
+    908747,
+    383438,
+    748529,
+    1026391,
+    436762,
+    751163,
+    908767
    ]
   },
   "86530": {
@@ -35909,18 +35964,6 @@
     89201,
     728738,
     645659
-   ]
-  },
-  "89208": {
-   "name": "Aljeriarrak",
-   "parents": [
-    53517
-   ],
-   "children": [
-    667904,
-    684745,
-    946981,
-    521302
    ]
   },
   "89228": {
@@ -36843,6 +36886,7 @@
     94229
    ],
    "children": [
+    943177,
     1090979,
     943174
    ]
@@ -38450,6 +38494,20 @@
     99550
    ]
   },
+  "99560": {
+   "name": "Frantziako_gastronomia",
+   "parents": [
+    1055300
+   ],
+   "children": [
+    430349,
+    596080,
+    970513,
+    988632,
+    114396,
+    114878
+   ]
+  },
   "99613": {
    "name": "Autobusa",
    "parents": [
@@ -39317,13 +39375,6 @@
     148188
    ]
   },
-  "302261": {
-   "name": "Zumaiako_kirola",
-   "parents": [
-    33467
-   ],
-   "children": []
-  },
   "302125": {
    "name": "Hondarribiko_kirola",
    "parents": [
@@ -40082,6 +40133,7 @@
     1097817
    ],
    "children": [
+    839573,
     102750,
     1097815
    ]
@@ -40980,6 +41032,7 @@
     342809,
     1071130,
     342811,
+    1021885,
     940158
    ]
   },
@@ -43065,6 +43118,13 @@
     435543
    ]
   },
+  "114396": {
+   "name": "Frantziako_gaztak",
+   "parents": [
+    99560
+   ],
+   "children": []
+  },
   "114398": {
    "name": "Gazta_urdinak",
    "parents": [
@@ -43137,6 +43197,15 @@
     86498
    ],
    "children": []
+  },
+  "114878": {
+   "name": "Frantziako_ardoak",
+   "parents": [
+    99560
+   ],
+   "children": [
+    988632
+   ]
   },
   "540684": {
    "name": "Nafarroako_Erresumako_noblezia",
@@ -44124,6 +44193,26 @@
     1067482
    ]
   },
+  "121123": {
+   "name": "Italiako_gaztak",
+   "parents": [
+    121124
+   ],
+   "children": []
+  },
+  "121124": {
+   "name": "Italiako_gastronomia",
+   "parents": [
+    1055300
+   ],
+   "children": [
+    121123,
+    596076,
+    602061,
+    596077,
+    294841
+   ]
+  },
   "121447": {
    "name": "Santiago_(Txile)",
    "parents": [
@@ -44506,22 +44595,6 @@
     840827,
     841476,
     573526
-   ]
-  },
-  "122191": {
-   "name": "Bahametako_geografia_zirriborroak",
-   "parents": [
-    755958
-   ],
-   "children": []
-  },
-  "755958": {
-   "name": "Bahametako_geografia",
-   "parents": [
-    24656
-   ],
-   "children": [
-    122191
    ]
   },
   "123385": {
@@ -45292,20 +45365,10 @@
     576423
    ]
   },
-  "384383": {
-   "name": "Asturiasko_enpresak",
-   "parents": [
-    41068
-   ],
-   "children": [
-    126910
-   ]
-  },
   "126910": {
    "name": "Asturiasko_hedabideak",
    "parents": [
-    126923,
-    384383
+    126923
    ],
    "children": []
   },
@@ -46030,6 +46093,7 @@
     482234
    ],
    "children": [
+    1055300,
     301996,
     907629,
     545006,
@@ -46219,6 +46283,7 @@
   "143024": {
    "name": "Man_uhartea",
    "parents": [
+    1127363,
     94029
    ],
    "children": [
@@ -47332,6 +47397,7 @@
    "name": "Gizarte-sareak",
    "parents": [
     5735,
+    1109224,
     583048,
     973305,
     990381
@@ -48592,10 +48658,21 @@
     906617
    ]
   },
+  "972305": {
+   "name": "Antirrazismoa",
+   "parents": [
+    95487,
+    19162
+   ],
+   "children": [
+    142240
+   ]
+  },
   "142240": {
    "name": "Eskubide_zibilen_mugimendua",
    "parents": [
     19162,
+    972305,
     1049058,
     142241
    ],
@@ -48835,6 +48912,7 @@
     1030379
    ],
    "children": [
+    1017008,
     540514,
     142798
    ]
@@ -48845,6 +48923,7 @@
     6272
    ],
    "children": [
+    1017008,
     582063,
     142799
    ]
@@ -51726,7 +51805,8 @@
   "293291": {
    "name": "Hizkuntza_baltikoak",
    "parents": [
-    16292
+    16292,
+    1127335
    ],
    "children": [
     149234
@@ -54431,7 +54511,10 @@
     14816,
     160872
    ],
-   "children": []
+   "children": [
+    1128370,
+    1128373
+   ]
   },
   "160872": {
    "name": "Erretzea",
@@ -55219,13 +55302,6 @@
    "name": "Alemaniako_presidenteak",
    "parents": [
     36246
-   ],
-   "children": []
-  },
-  "162868": {
-   "name": "Galiziako_enpresak",
-   "parents": [
-    41068
    ],
    "children": []
   },
@@ -57581,6 +57657,7 @@
     480691
    ],
    "children": [
+    1120352,
     670177,
     660427,
     222444,
@@ -57711,7 +57788,8 @@
     9755
    ],
    "children": [
-    947618
+    947618,
+    224431
    ]
   },
   "224580": {
@@ -61112,6 +61190,7 @@
     1030395
    ],
    "children": [
+    592824,
     420369
    ]
   },
@@ -62444,9 +62523,10 @@
     102211
    ],
    "children": [
-    1107274,
     1039108,
     893093,
+    1107274,
+    1127275,
     848663
    ]
   },
@@ -62647,6 +62727,7 @@
     71513
    ],
    "children": [
+    1084582,
     291798,
     291799
    ]
@@ -63519,6 +63600,17 @@
    ],
    "children": []
   },
+  "1127335": {
+   "name": "Herri_baltikoak",
+   "parents": [
+    62729,
+    508252,
+    337419
+   ],
+   "children": [
+    293291
+   ]
+  },
   "678962": {
    "name": "Paisaialariak",
    "parents": [
@@ -64250,6 +64342,7 @@
   "294841": {
    "name": "Pizza",
    "parents": [
+    121124,
     125441,
     293919
    ],
@@ -64611,8 +64704,7 @@
   "743121": {
    "name": "Bruguera",
    "parents": [
-    238094,
-    42715
+    238094
    ],
    "children": [
     296921
@@ -67899,12 +67991,21 @@
     1059067
    ]
   },
+  "337269": {
+   "name": "San_Ignazio_(Bilbo)",
+   "parents": [
+    7956,
+    35508
+   ],
+   "children": []
+  },
   "337419": {
    "name": "Baltikoa",
    "parents": [
     482234
    ],
    "children": [
+    1127335,
     657595,
     926655
    ]
@@ -70158,6 +70259,15 @@
     733032
    ]
   },
+  "367829": {
+   "name": "Euskal_Herriko_abesbatzak",
+   "parents": [
+    144100
+   ],
+   "children": [
+    754088
+   ]
+  },
   "367854": {
    "name": "Beijing_udal-probintziako_pertsonak",
    "parents": [
@@ -71859,6 +71969,13 @@
     435270
    ]
   },
+  "382528": {
+   "name": "Txileko_ekonomia",
+   "parents": [
+    17991
+   ],
+   "children": []
+  },
   "382558": {
    "name": "Tolosako_idazleak",
    "parents": [
@@ -72013,6 +72130,13 @@
    "name": "Kroaziako_uharteak",
    "parents": [
     106272
+   ],
+   "children": []
+  },
+  "383438": {
+   "name": "Kroaziako_gastronomia",
+   "parents": [
+    1055300
    ],
    "children": []
   },
@@ -73956,7 +74080,8 @@
   "430349": {
    "name": "Frantziako_sukaldariak",
    "parents": [
-    32869
+    32869,
+    99560
    ],
    "children": []
   },
@@ -74596,6 +74721,13 @@
    "name": "Orreagako_kolegiata",
    "parents": [
     585447
+   ],
+   "children": []
+  },
+  "436762": {
+   "name": "Greziako_gastronomia",
+   "parents": [
+    1055300
    ],
    "children": []
   },
@@ -76269,7 +76401,9 @@
    "parents": [
     528653
    ],
-   "children": []
+   "children": [
+    1127505
+   ]
   },
   "512117": {
    "name": "Bartzelonan_girotutako_filmak",
@@ -77222,7 +77356,6 @@
   "521302": {
    "name": "Aljertarrak",
    "parents": [
-    89208,
     387125
    ],
    "children": [
@@ -79851,6 +79984,7 @@
     854690
    ],
    "children": [
+    1017008,
     1037675,
     1017061,
     582063
@@ -81749,6 +81883,24 @@
    ],
    "children": []
   },
+  "592824": {
+   "name": "Behin-behineko_IRA",
+   "parents": [
+    47554,
+    242168
+   ],
+   "children": [
+    592825,
+    667214
+   ]
+  },
+  "592825": {
+   "name": "Behin-behineko_IRAkideak",
+   "parents": [
+    592824
+   ],
+   "children": []
+  },
   "592828": {
    "name": "IRAkideak_(1917-1922)",
    "parents": [
@@ -82091,10 +82243,31 @@
    ],
    "children": []
   },
+  "596076": {
+   "name": "Italiako_azkenburukoak",
+   "parents": [
+    121124
+   ],
+   "children": []
+  },
+  "596077": {
+   "name": "Italiako_saltsak",
+   "parents": [
+    121124
+   ],
+   "children": []
+  },
   "596079": {
    "name": "Euskal_Herriko_saltsak",
    "parents": [
     62460
+   ],
+   "children": []
+  },
+  "596080": {
+   "name": "Frantziako_saltsak",
+   "parents": [
+    99560
    ],
    "children": []
   },
@@ -82963,7 +83136,8 @@
   "602061": {
    "name": "Pasta_motak",
    "parents": [
-    986964
+    986964,
+    121124
    ],
    "children": []
   },
@@ -83559,6 +83733,13 @@
    "children": [
     711892
    ]
+  },
+  "616051": {
+   "name": "Onddo_patogenoak",
+   "parents": [
+    33458
+   ],
+   "children": []
   },
   "616122": {
    "name": "Belaunaldiak",
@@ -85103,7 +85284,9 @@
    "parents": [
     40652
    ],
-   "children": []
+   "children": [
+    1127730
+   ]
   },
   "649112": {
    "name": "Ingurumen_ekonomia",
@@ -86133,6 +86316,13 @@
     1111808
    ]
   },
+  "754088": {
+   "name": "Gipuzkoako_abesbatzak",
+   "parents": [
+    367829
+   ],
+   "children": []
+  },
   "661797": {
    "name": "Jupiterrerako_zundak",
    "parents": [
@@ -86389,6 +86579,7 @@
    "parents": [
     42585,
     102276,
+    592824,
     1107468
    ],
    "children": []
@@ -86616,13 +86807,6 @@
    "name": "Inpresionismoko_margolanak",
    "parents": [
     118565
-   ],
-   "children": []
-  },
-  "667904": {
-   "name": "Aljero-frantziarrak",
-   "parents": [
-    89208
    ],
    "children": []
   },
@@ -89036,13 +89220,6 @@
    "name": "Espainiako_diputatuak_III._legegintzaldian",
    "parents": [
     615928
-   ],
-   "children": []
-  },
-  "684745": {
-   "name": "Aljeriako_biografia_zirriborroak",
-   "parents": [
-    89208
    ],
    "children": []
   },
@@ -92626,13 +92803,6 @@
    ],
    "children": []
   },
-  "729481": {
-   "name": "Kataluniako_enpresaburuak",
-   "parents": [
-    42715
-   ],
-   "children": []
-  },
   "729545": {
    "name": "Pilotari_buruzko_filmak",
    "parents": [
@@ -93063,6 +93233,7 @@
     1032791
    ],
    "children": [
+    1100901,
     961460,
     1032789,
     1067967
@@ -93553,6 +93724,7 @@
     3844
    ],
    "children": [
+    1127730,
     736103
    ]
   },
@@ -94984,6 +95156,7 @@
   "748529": {
    "name": "Marokoko_gastronomia",
    "parents": [
+    1055300,
     1055457
    ],
    "children": []
@@ -95347,6 +95520,7 @@
   "751163": {
    "name": "Aljeriako_gastronomia",
    "parents": [
+    1055300,
     1055457
    ],
    "children": []
@@ -96044,7 +96218,6 @@
   "774627": {
    "name": "Alemaniako_futbol_atezainak",
    "parents": [
-    83068,
     105499
    ],
    "children": []
@@ -96517,6 +96690,7 @@
    "parents": [
     849712,
     48476,
+    1097816,
     105195,
     576173,
     580480
@@ -97392,6 +97566,14 @@
    "children": [
     1091306
    ]
+  },
+  "848137": {
+   "name": "Espetxe_ihesak",
+   "parents": [
+    8000,
+    43155
+   ],
+   "children": []
   },
   "848168": {
    "name": "Hexosak",
@@ -98767,13 +98949,6 @@
    "name": "Ediacararreko_biota",
    "parents": [
     881750
-   ],
-   "children": []
-  },
-  "880847": {
-   "name": "Bahametan_girotutako_filmak",
-   "parents": [
-    24656
    ],
    "children": []
   },
@@ -100750,6 +100925,7 @@
    "name": "Sefardi_gastronomia",
    "parents": [
     677106,
+    1055300,
     678893
    ],
    "children": []
@@ -100908,9 +101084,24 @@
     1024416
    ]
   },
+  "908744": {
+   "name": "Libanoko_gastronomia",
+   "parents": [
+    1055300
+   ],
+   "children": []
+  },
+  "908746": {
+   "name": "Siriako_gastronomia",
+   "parents": [
+    1055300
+   ],
+   "children": []
+  },
   "908747": {
    "name": "Palestinako_gastronomia",
    "parents": [
+    1055300,
     1055457
    ],
    "children": []
@@ -100918,6 +101109,7 @@
   "908767": {
    "name": "Jordaniako_gastronomia",
    "parents": [
+    1055300,
     1055457
    ],
    "children": []
@@ -103227,6 +103419,13 @@
    ],
    "children": []
   },
+  "943177": {
+   "name": "Tuatha_Dé_Danann",
+   "parents": [
+    94230
+   ],
+   "children": []
+  },
   "943235": {
    "name": "Bizikleta_motak",
    "parents": [
@@ -103848,13 +104047,6 @@
    "name": "Musikeneko_irakasleak",
    "parents": [
     142904
-   ],
-   "children": []
-  },
-  "946981": {
-   "name": "Orandarrak",
-   "parents": [
-    89208
    ],
    "children": []
   },
@@ -105169,6 +105361,13 @@
    "children": [
     1096702
    ]
+  },
+  "970513": {
+   "name": "Frantziako_azkenburukoak",
+   "parents": [
+    99560
+   ],
+   "children": []
   },
   "970613": {
    "name": "Euskal_Herriko_telefilmak",
@@ -107346,6 +107545,8 @@
    "name": "Xanpaina",
    "parents": [
     228083,
+    99560,
+    114878,
     580468
    ],
    "children": []
@@ -108334,6 +108535,13 @@
    "name": "Tomatea",
    "parents": [
     78638
+   ],
+   "children": []
+  },
+  "999602": {
+   "name": "Euskal_Herriko_suizidak",
+   "parents": [
+    24950
    ],
    "children": []
   },
@@ -109630,6 +109838,15 @@
    ],
    "children": []
   },
+  "1017008": {
+   "name": "Antisionismoa",
+   "parents": [
+    142799,
+    982006,
+    854689
+   ],
+   "children": []
+  },
   "1017152": {
    "name": "Nazio_Batuen_Erakundeko_kideak",
    "parents": [
@@ -109883,6 +110100,13 @@
    ],
    "children": []
   },
+  "1021885": {
+   "name": "Mexikoko_futbol_atezainak",
+   "parents": [
+    105499
+   ],
+   "children": []
+  },
   "1021927": {
    "name": "Murtziako_Eskualdean_girotutako_filmak",
    "parents": [
@@ -110088,7 +110312,8 @@
   "1026391": {
    "name": "Antzinako_Erromako_gastronomia",
    "parents": [
-    344774
+    344774,
+    1055300
    ],
    "children": []
   },
@@ -113420,6 +113645,24 @@
    ],
    "children": []
   },
+  "1084582": {
+   "name": "Doctor_Who",
+   "parents": [
+    901457,
+    654465
+   ],
+   "children": [
+    1107881,
+    1084583
+   ]
+  },
+  "1084583": {
+   "name": "Doctor_Who_telesaileko_aktoreak",
+   "parents": [
+    1084582
+   ],
+   "children": []
+  },
   "1085195": {
    "name": "Txikipedia:Edariak",
    "parents": [
@@ -115132,7 +115375,8 @@
   "1107881": {
    "name": "Doctor_Whoko_pertsonaiak",
    "parents": [
-    294258
+    294258,
+    1084582
    ],
    "children": [
     1114645
@@ -115502,12 +115746,21 @@
    ],
    "children": []
   },
+  "1114895": {
+   "name": "Gerra_psikologikoko_taktikak",
+   "parents": [
+    1114897
+   ],
+   "children": []
+  },
   "1114897": {
    "name": "Gerra_psikologikoa",
    "parents": [
     961225
    ],
-   "children": []
+   "children": [
+    1114895
+   ]
   },
   "1114902": {
    "name": "Ultimatumak",
@@ -115605,6 +115858,22 @@
    "parents": [
     80878,
     843134
+   ],
+   "children": []
+  },
+  "1120352": {
+   "name": "Pio_XII.a",
+   "parents": [
+    292011
+   ],
+   "children": [
+    1120353
+   ]
+  },
+  "1120353": {
+   "name": "Pio_XII.ak_kanonizatutakoak",
+   "parents": [
+    1120352
    ],
    "children": []
   },
@@ -116033,6 +116302,57 @@
    "name": "Bigarren_Mundu_Gerrako_Ameriketako_Estatu_Batuetako_Marineen_Gorputzeko_pertsonala",
    "parents": [
     1122810
+   ],
+   "children": []
+  },
+  "1127220": {
+   "name": "Livonia",
+   "parents": [
+    157389
+   ],
+   "children": []
+  },
+  "1127275": {
+   "name": "Emakumeen_aurkako_indarkeriari_buruzko_telesailak",
+   "parents": [
+    290746
+   ],
+   "children": []
+  },
+  "1127299": {
+   "name": "Franklin_D._Roosevelt",
+   "parents": [
+    46304,
+    50611
+   ],
+   "children": []
+  },
+  "1127505": {
+   "name": "Berlingo_Harresiari_buruzko_filmak",
+   "parents": [
+    512022
+   ],
+   "children": []
+  },
+  "1127730": {
+   "name": "Naturari_buruzko_telesail_dokumental_didaktikoak",
+   "parents": [
+    649103,
+    736104
+   ],
+   "children": []
+  },
+  "1128370": {
+   "name": "Tabako-enpresak",
+   "parents": [
+    160871
+   ],
+   "children": []
+  },
+  "1128373": {
+   "name": "Tabako-markak",
+   "parents": [
+    160871
    ],
    "children": []
   },

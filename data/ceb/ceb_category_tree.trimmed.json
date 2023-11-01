@@ -1028,6 +1028,7 @@
     78854,
     78344,
     61322,
+    79371,
     192652,
     78861,
     77070,
@@ -2080,10 +2081,30 @@
    ],
    "children": []
   },
+  "79371": {
+   "name": "Animalia",
+   "parents": [
+    41106
+   ],
+   "children": [
+    61312,
+    78737,
+    78709,
+    61310
+   ]
+  },
+  "61310": {
+   "name": "Arthropoda",
+   "parents": [
+    79371
+   ],
+   "children": []
+  },
   "61312": {
    "name": "Tardigrada",
    "parents": [
-    41106
+    41106,
+    79371
    ],
    "children": [
     10330552,
@@ -2647,6 +2668,26 @@
    "children": [
     9948442,
     10330557
+   ]
+  },
+  "78709": {
+   "name": "Priapulida",
+   "parents": [
+    79371
+   ],
+   "children": [
+    10330536,
+    9948366
+   ]
+  },
+  "78737": {
+   "name": "Gastrotricha",
+   "parents": [
+    79371
+   ],
+   "children": [
+    10330467,
+    9948885
    ]
   },
   "78789": {
@@ -6024,6 +6065,13 @@
    ],
    "children": []
   },
+  "9948366": {
+   "name": "Priapulida_paghimo_ni_bot",
+   "parents": [
+    78709
+   ],
+   "children": []
+  },
   "9948424": {
    "name": "Mananap_nga_korset_paghimo_ni_bot",
    "parents": [
@@ -6079,6 +6127,13 @@
    "name": "Rombosoa_sa_Espanya",
    "parents": [
     9916929
+   ],
+   "children": []
+  },
+  "9948885": {
+   "name": "Gastrotricha_paghimo_ni_bot",
+   "parents": [
+    78737
    ],
    "children": []
   },
@@ -7474,7 +7529,8 @@
   "10330467": {
    "name": "Sinonimo_nga_gastrotricha",
    "parents": [
-    62491
+    62491,
+    78737
    ],
    "children": []
   },
@@ -7697,7 +7753,8 @@
   "10330536": {
    "name": "Sinonimo_nga_priapulida",
    "parents": [
-    62491
+    62491,
+    78709
    ],
    "children": []
   },

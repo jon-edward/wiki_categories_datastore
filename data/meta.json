@@ -1,6 +1,24 @@
 {
- "finished_run": "2023-10-31T17:37:19.910346",
- "updated_languages": [],
+ "finished_run": "2023-11-01T18:41:29.761072",
+ "updated_languages": [
+  "en",
+  "ceb",
+  "arz",
+  "fa",
+  "ca",
+  "sr",
+  "no",
+  "ce",
+  "fi",
+  "tr",
+  "cs",
+  "tt",
+  "sh",
+  "ro",
+  "eu",
+  "ms",
+  "eo"
+ ],
  "pages_percentile": 65,
  "max_depth": 100
 }
