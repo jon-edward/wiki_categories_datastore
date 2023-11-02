@@ -1,0 +1,24 @@
+{
+ "pagetable": {
+  "updated": "2023-11-01"
+ },
+ "categorylinks": {
+  "updated": "2023-11-01"
+ },
+ "category": {
+  "updated": "2023-11-01"
+ },
+ "full_category_tree": {
+  "sha256": "0a3c0b103cb83215c224506a3ee53c18d43e4a76f38f6a0aacb36bf73196bfda",
+  "uncompressed_size": 75177002
+ },
+ "trimmed_category_tree": {
+  "sha256": "60c6f31de6e2ff82b28e3466f8cefd81bb81b8f9ddade7311493c2fdbd8d45bd",
+  "uncompressed_size": 2691854
+ },
+ "updated": "2023-11-02T17:41:59.780949",
+ "mirror": "Wikimedia",
+ "trimmed_pages_percentile": 65,
+ "trimmed_max_depth": 100,
+ "run_duration_seconds": 302
+}
