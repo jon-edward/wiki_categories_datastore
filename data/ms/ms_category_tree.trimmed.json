@@ -200,7 +200,6 @@
     62380,
     62381,
     35128,
-    29116,
     165437,
     123456,
     161859,
@@ -244,7 +243,6 @@
     153895,
     75959,
     42047,
-    301383,
     6856,
     39501,
     11217,
@@ -270,7 +268,6 @@
     78571,
     768110,
     31250,
-    29203,
     163698,
     306996,
     82296,
@@ -292,6 +289,7 @@
     45378
    ],
    "children": [
+    127233,
     573826,
     679237,
     165350,
@@ -553,7 +551,6 @@
     32431,
     301109,
     29113,
-    29116,
     29117,
     274244,
     299738,
@@ -3584,7 +3581,6 @@
    ],
    "children": [
     46480,
-    1119412,
     68829
    ]
   },
@@ -5670,7 +5666,8 @@
     1078597,
     961158,
     80915,
-    1122387
+    1122387,
+    1074078
    ]
   },
   "28951": {
@@ -5911,17 +5908,6 @@
     36235
    ]
   },
-  "29116": {
-   "name": "Fizik_matematik",
-   "parents": [
-    6856,
-    11126
-   ],
-   "children": [
-    1130066,
-    1006484
-   ]
-  },
   "29117": {
    "name": "Mekanik",
    "parents": [
@@ -6056,13 +6042,22 @@
   "29203": {
    "name": "Bahasa_Indonesia",
    "parents": [
-    7137,
     6882,
+    166190,
     768049
    ],
    "children": [
     167021,
     845438
+   ]
+  },
+  "166190": {
+   "name": "Bahasa_baku",
+   "parents": [
+    166192
+   ],
+   "children": [
+    29203
    ]
   },
   "768049": {
@@ -8284,11 +8279,23 @@
   "41355": {
    "name": "Penyanyi_Mesir",
    "parents": [
-    29031
+    29031,
+    84906
    ],
    "children": [
     1065512,
     1065513
+   ]
+  },
+  "84906": {
+   "name": "Penyanyi_berbahasa_Arab",
+   "parents": [
+    64116
+   ],
+   "children": [
+    796162,
+    41355,
+    1065109
    ]
   },
   "41358": {
@@ -8875,7 +8882,6 @@
    ],
    "children": [
     42302,
-    301383,
     1125385,
     285330,
     166164,
@@ -9981,7 +9987,9 @@
    "parents": [
     52663
    ],
-   "children": []
+   "children": [
+    996681
+   ]
   },
   "52666": {
    "name": "2007",
@@ -13610,10 +13618,11 @@
     166216
    ],
    "children": [
-    120120,
     1041440,
     163304,
-    74430
+    74430,
+    120120,
+    1033278
    ]
   },
   "74430": {
@@ -14853,22 +14862,11 @@
    "name": "Bioinformatik",
    "parents": [
     11181,
-    76470,
-    301383
+    76470
    ],
    "children": [
     1062268,
     415157
-   ]
-  },
-  "301383": {
-   "name": "Sains_pengiraan",
-   "parents": [
-    8013,
-    76484
-   ],
-   "children": [
-    76469
    ]
   },
   "76472": {
@@ -18908,13 +18906,6 @@
    ],
    "children": []
   },
-  "84906": {
-   "name": "Penyanyi_berbahasa_Arab",
-   "parents": [
-    64116
-   ],
-   "children": []
-  },
   "983850": {
    "name": "Pendebungaan",
    "parents": [
@@ -21600,7 +21591,8 @@
    ],
    "children": [
     106537,
-    794685
+    794685,
+    1054574
    ]
   },
   "996608": {
@@ -23716,6 +23708,13 @@
    ],
    "children": []
   },
+  "127233": {
+   "name": "Filem_bahasa_Melayu",
+   "parents": [
+    6882
+   ],
+   "children": []
+  },
   "127292": {
    "name": "Siri_Love_Comes_Softly",
    "parents": [
@@ -25517,6 +25516,7 @@
     26892
    ],
    "children": [
+    1007992,
     162827
    ]
   },
@@ -26928,9 +26928,19 @@
    "parents": [
     135919,
     233113,
-    67580
+    67580,
+    1054574
    ],
    "children": []
+  },
+  "1054574": {
+   "name": "Geografi_Negara_Palestin",
+   "parents": [
+    1054568
+   ],
+   "children": [
+    162629
+   ]
   },
   "162634": {
    "name": "Timur_Dekat",
@@ -28147,7 +28157,9 @@
    "parents": [
     162084
    ],
-   "children": []
+   "children": [
+    1166052
+   ]
   },
   "165923": {
    "name": "Pertubuhan_antara_pemerintahan",
@@ -28212,13 +28224,6 @@
    "children": [
     1049403
    ]
-  },
-  "166190": {
-   "name": "Bahasa_baku",
-   "parents": [
-    166192
-   ],
-   "children": []
   },
   "166192": {
    "name": "Kelainan_dan_gaya_bahasa",
@@ -30542,7 +30547,7 @@
    "children": []
   },
   "1054285": {
-   "name": "Ikhwan_al-Muslimin",
+   "name": "Ikhwan_Muslimin",
    "parents": [
     82125,
     168541,
@@ -31618,6 +31623,7 @@
    ],
    "children": [
     274800,
+    1166416,
     1007822
    ]
   },
@@ -32740,7 +32746,8 @@
    ],
    "children": [
     301618,
-    301621
+    301621,
+    1033278
    ]
   },
   "301621": {
@@ -35005,6 +35012,7 @@
     196728
    ],
    "children": [
+    1166182,
     1055263
    ]
   },
@@ -40328,6 +40336,16 @@
    ],
    "children": []
   },
+  "796162": {
+   "name": "Penyanyi_Lubnan",
+   "parents": [
+    84906
+   ],
+   "children": [
+    868026,
+    868394
+   ]
+  },
   "796881": {
    "name": "Bahasa-bahasa_Ainu",
    "parents": [
@@ -42065,6 +42083,13 @@
     1161693
    ]
   },
+  "868026": {
+   "name": "Penyanyi_wanita_Lubnan",
+   "parents": [
+    796162
+   ],
+   "children": []
+  },
   "868292": {
    "name": "Penyanyi_wanita_Filipina",
    "parents": [
@@ -42097,6 +42122,13 @@
    "name": "Penyanyi_lelaki_Turki",
    "parents": [
     41358
+   ],
+   "children": []
+  },
+  "868394": {
+   "name": "Penyanyi_lelaki_Lubnan",
+   "parents": [
+    796162
    ],
    "children": []
   },
@@ -43982,7 +44014,9 @@
    "parents": [
     117619
    ],
-   "children": []
+   "children": [
+    1166416
+   ]
   },
   "888236": {
    "name": "Tunas_geografi_Singapura",
@@ -47466,6 +47500,13 @@
    ],
    "children": []
   },
+  "996681": {
+   "name": "Pertubuhan_yang_diasaskan_pada_2005",
+   "parents": [
+    52664
+   ],
+   "children": []
+  },
   "996790": {
    "name": "Organel",
    "parents": [
@@ -47833,7 +47874,6 @@
   "1006484": {
    "name": "Mekanik_statistik",
    "parents": [
-    29116,
     29117
    ],
    "children": []
@@ -47934,6 +47974,13 @@
    "name": "TVRI",
    "parents": [
     30340
+   ],
+   "children": []
+  },
+  "1007992": {
+   "name": "Jenis_perpustakaan",
+   "parents": [
+    153935
    ],
    "children": []
   },
@@ -48255,6 +48302,14 @@
    "name": "Bukit_Batok",
    "parents": [
     91612
+   ],
+   "children": []
+  },
+  "1033278": {
+   "name": "Perkongsian_fail",
+   "parents": [
+    163306,
+    301619
    ],
    "children": []
   },
@@ -52147,6 +52202,30 @@
    ],
    "children": []
   },
+  "1065109": {
+   "name": "Penyanyi_Maghribi",
+   "parents": [
+    84906
+   ],
+   "children": [
+    1065110,
+    1065111
+   ]
+  },
+  "1065110": {
+   "name": "Penyanyi_lelaki_Maghribi",
+   "parents": [
+    1065109
+   ],
+   "children": []
+  },
+  "1065111": {
+   "name": "Penyanyi_wanita_Maghribi",
+   "parents": [
+    1065109
+   ],
+   "children": []
+  },
   "1065220": {
    "name": "Orang_dari_Ipoh",
    "parents": [
@@ -52801,6 +52880,13 @@
    "name": "Peristiwa_di_Terengganu",
    "parents": [
     162319
+   ],
+   "children": []
+  },
+  "1074078": {
+   "name": "Minuman_Malaysia",
+   "parents": [
+    28950
    ],
    "children": []
   },
@@ -53612,13 +53698,6 @@
    ],
    "children": []
   },
-  "1119412": {
-   "name": "Orang_Algeria",
-   "parents": [
-    23860
-   ],
-   "children": []
-  },
   "1119787": {
    "name": "Hematopatologi",
    "parents": [
@@ -54190,7 +54269,6 @@
   "1130066": {
    "name": "Simetri",
    "parents": [
-    29116,
     76244,
     82344
    ],
@@ -55431,6 +55509,28 @@
    "name": "Ibrahim_dalam_Islam",
    "parents": [
     35055
+   ],
+   "children": []
+  },
+  "1166052": {
+   "name": "Orang_Punjabi",
+   "parents": [
+    165899
+   ],
+   "children": []
+  },
+  "1166182": {
+   "name": "Anggota_wanita_Hamas",
+   "parents": [
+    352660
+   ],
+   "children": []
+  },
+  "1166416": {
+   "name": "Tunas_Kalimantan",
+   "parents": [
+    274801,
+    888234
    ],
    "children": []
   },

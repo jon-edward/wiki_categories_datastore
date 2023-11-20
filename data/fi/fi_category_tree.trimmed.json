@@ -48,6 +48,7 @@
     595841,
     1148161,
     50697,
+    847755,
     170124,
     278669,
     50702,
@@ -81,6 +82,7 @@
     882156,
     97135,
     1107311,
+    1757043,
     100084,
     61815,
     1131261
@@ -169,7 +171,6 @@
     25089,
     37539,
     27976,
-    26825,
     275176,
     667135,
     17872,
@@ -1196,7 +1197,6 @@
     26733,
     34286,
     26738,
-    707827,
     26741
    ]
   },
@@ -1385,6 +1385,7 @@
    ],
    "children": [
     237474,
+    42980,
     1149756,
     964620,
     1517393,
@@ -1511,7 +1512,6 @@
     671169,
     21059,
     927558,
-    26825,
     26711,
     18777,
     108122,
@@ -2390,11 +2390,10 @@
     1713354
    ],
    "children": [
+    1054481,
     184965,
-    1755591,
     36174,
-    184977,
-    1054481
+    1755591
    ]
   },
   "1713354": {
@@ -3213,6 +3212,7 @@
     1051014,
     1180420,
     840107,
+    70989,
     296046,
     684015,
     683986,
@@ -3567,6 +3567,7 @@
    "children": [
     467810,
     20996,
+    26825,
     56074,
     34457,
     596188,
@@ -3626,41 +3627,6 @@
     21082,
     64132,
     1432606
-   ]
-  },
-  "21174": {
-   "name": "Sarjakuvantekijät",
-   "parents": [
-    206884
-   ],
-   "children": [
-    413892,
-    413867,
-    343692,
-    1143764,
-    413942,
-    413879,
-    1080664,
-    413949,
-    150266,
-    413943,
-    413789
-   ]
-  },
-  "206884": {
-   "name": "Sarjakuva",
-   "parents": [
-    707827
-   ],
-   "children": [
-    70636,
-    402516,
-    21174,
-    192471,
-    186906,
-    1518555,
-    447421,
-    1436799
    ]
   },
   "21181": {
@@ -3817,6 +3783,7 @@
    ],
    "children": [
     398464,
+    42980,
     21325,
     43151
    ]
@@ -4452,6 +4419,7 @@
     71547,
     71556,
     897923,
+    304648,
     239695,
     233563,
     56380,
@@ -4507,7 +4475,6 @@
     595169,
     55714,
     1525249,
-    371499,
     332751,
     1061009,
     337746,
@@ -4742,23 +4709,6 @@
     780777,
     170615,
     195832
-   ]
-  },
-  "34457": {
-   "name": "Antropologia",
-   "parents": [
-    596189,
-    667135
-   ],
-   "children": [
-    55714,
-    52293,
-    26854,
-    25990,
-    1041580,
-    146670,
-    25296,
-    738269
    ]
   },
   "1041580": {
@@ -5191,7 +5141,6 @@
     37191,
     25995,
     48237,
-    945102,
     407951,
     905327,
     946191,
@@ -5412,19 +5361,6 @@
     206483,
     490010,
     24383
-   ]
-  },
-  "309486": {
-   "name": "Tuotantotekniikka",
-   "parents": [],
-   "children": [
-    24384,
-    47493,
-    965256,
-    705515,
-    309493,
-    25109,
-    329148
    ]
   },
   "24802": {
@@ -5833,6 +5769,20 @@
     214974
    ]
   },
+  "309486": {
+   "name": "Tuotantotekniikka",
+   "parents": [
+    24384
+   ],
+   "children": [
+    47493,
+    965256,
+    705515,
+    309493,
+    25109,
+    329148
+   ]
+  },
   "86686": {
    "name": "Formaalit_kielet",
    "parents": [
@@ -6210,6 +6160,23 @@
     976853,
     286936,
     380348
+   ]
+  },
+  "34457": {
+   "name": "Antropologia",
+   "parents": [
+    596189,
+    667135
+   ],
+   "children": [
+    55714,
+    52293,
+    26854,
+    25990,
+    1041580,
+    146670,
+    25296,
+    738269
    ]
   },
   "25296": {
@@ -6871,6 +6838,13 @@
     600694
    ]
   },
+  "847755": {
+   "name": "Saksalaiset_hallitsijat",
+   "parents": [
+    23257
+   ],
+   "children": []
+  },
   "27546": {
    "name": "Orgaaniset_yhdisteet",
    "parents": [
@@ -7342,8 +7316,7 @@
   "26825": {
    "name": "Oikeustiede",
    "parents": [
-    407243,
-    23764,
+    596189,
     0
    ],
    "children": [
@@ -7528,6 +7501,36 @@
     26862,
     887247,
     230614
+   ]
+  },
+  "26863": {
+   "name": "Teosofia",
+   "parents": [
+    140993
+   ],
+   "children": [
+    226173,
+    232503
+   ]
+  },
+  "140993": {
+   "name": "Okkultismi",
+   "parents": [
+    258451
+   ],
+   "children": [
+    246592,
+    252769,
+    46627,
+    141258,
+    26863,
+    72819,
+    281299,
+    257783,
+    39257,
+    29402,
+    226107,
+    30109
    ]
   },
   "26864": {
@@ -7799,22 +7802,10 @@
   "27160": {
    "name": "Paperiteollisuus",
    "parents": [
-    112254,
-    215274
+    112254
    ],
    "children": [
     222414
-   ]
-  },
-  "215274": {
-   "name": "Paperi",
-   "parents": [
-    707825
-   ],
-   "children": [
-    27160,
-    222489,
-    342626
    ]
   },
   "27161": {
@@ -8994,24 +8985,10 @@
     1148718
    ]
   },
-  "1080664": {
-   "name": "Disneyn_sarjakuvien_tekijät",
-   "parents": [
-    21174
-   ],
-   "children": []
-  },
   "772559": {
    "name": "Eisner-palkinnon_saajat",
    "parents": [
     186906
-   ],
-   "children": []
-  },
-  "413789": {
-   "name": "Yhdysvaltalaiset_sarjakuvantekijät",
-   "parents": [
-    21174
    ],
    "children": []
   },
@@ -9187,6 +9164,7 @@
     18334
    ],
    "children": [
+    1557764,
     1067724,
     235475,
     29399,
@@ -9474,6 +9452,7 @@
     208925,
     1683103,
     208932,
+    208936,
     208938,
     1498284,
     1770413,
@@ -9575,6 +9554,8 @@
   "72819": {
    "name": "Ennustaminen",
    "parents": [
+    140993,
+    29434,
     188524,
     131973
    ],
@@ -9588,6 +9569,7 @@
   "29402": {
    "name": "Astrologia",
    "parents": [
+    140993,
     72819,
     281299,
     252763
@@ -9600,6 +9582,7 @@
   "281299": {
    "name": "Hermetismi",
    "parents": [
+    140993,
     252763
    ],
    "children": [
@@ -9685,6 +9668,32 @@
    "children": [
     1664468,
     29420
+   ]
+  },
+  "29434": {
+   "name": "Parapsykologia",
+   "parents": [
+    258451
+   ],
+   "children": [
+    72819,
+    207756,
+    1125951
+   ]
+  },
+  "258451": {
+   "name": "Paranormaali",
+   "parents": [
+    536201
+   ],
+   "children": [
+    140993,
+    230851,
+    262921,
+    188524,
+    257783,
+    29434,
+    257819
    ]
   },
   "29442": {
@@ -9805,10 +9814,11 @@
     131973
    ],
    "children": [
-    1687609,
-    1730138,
+    1633482,
     1730123,
-    1684564
+    1684564,
+    1687609,
+    1730138
    ]
   },
   "72261": {
@@ -10032,6 +10042,7 @@
   "30109": {
    "name": "Numerologia",
    "parents": [
+    140993,
     29548,
     72819
    ],
@@ -10080,6 +10091,7 @@
    "children": [
     182458,
     1008431,
+    1575350,
     231695
    ]
   },
@@ -10495,6 +10507,7 @@
    "children": [
     400826,
     257819,
+    258451,
     31309
    ]
   },
@@ -10551,14 +10564,12 @@
    ],
    "children": [
     1770309,
-    330345,
-    79852,
     945520,
-    1201855,
     1204433,
     31349,
+    1766205,
     1096190,
-    101951
+    1201855
    ]
   },
   "31349": {
@@ -10638,24 +10649,12 @@
   "31374": {
    "name": "Prinsessat",
    "parents": [
-    32078,
-    945520
+    32078
    ],
    "children": [
     1741161,
     1741154,
     295926
-   ]
-  },
-  "945520": {
-   "name": "Kuninkaalliset_arvonimet",
-   "parents": [
-    31350,
-    82211
-   ],
-   "children": [
-    1256413,
-    31374
    ]
   },
   "689766": {
@@ -10835,7 +10834,8 @@
    ],
    "children": [
     32043,
-    1653412
+    1653412,
+    1096190
    ]
   },
   "32044": {
@@ -11122,8 +11122,9 @@
     440738,
     497477,
     33866,
+    40916,
     1125268,
-    40916
+    204412
    ]
   },
   "33867": {
@@ -11451,7 +11452,9 @@
     671515,
     72750
    ],
-   "children": []
+   "children": [
+    895837
+   ]
   },
   "72750": {
    "name": "Kasvimaantiede",
@@ -11636,8 +11639,8 @@
    ],
    "children": [
     1055056,
-    393305,
     453115,
+    1775676,
     1372950
    ]
   },
@@ -12086,7 +12089,8 @@
   "39257": {
    "name": "Enkelit",
    "parents": [
-    258424
+    258424,
+    140993
    ],
    "children": [
     294285
@@ -12983,7 +12987,8 @@
   "496473": {
    "name": "Kirkolliset_virat",
    "parents": [
-    335496
+    335496,
+    347168
    ],
    "children": [
     1732896,
@@ -13601,6 +13606,24 @@
     228795,
     42671
    ]
+  },
+  "42980": {
+   "name": "Kuun_pinnanmuodot",
+   "parents": [
+    1030840,
+    29148
+   ],
+   "children": [
+    42707,
+    516190
+   ]
+  },
+  "42707": {
+   "name": "Kuun_meret",
+   "parents": [
+    42980
+   ],
+   "children": []
   },
   "42830": {
    "name": "Italian_pääministerit",
@@ -14341,6 +14364,7 @@
    "name": "Noituus",
    "parents": [
     74541,
+    140993,
     188524
    ],
    "children": [
@@ -14353,6 +14377,7 @@
    "parents": [
     23775,
     25990,
+    258451,
     279103
    ],
    "children": [
@@ -14649,6 +14674,7 @@
   "257819": {
    "name": "Ufot",
    "parents": [
+    258451,
     536201,
     111154
    ],
@@ -14798,12 +14824,11 @@
     393624,
     543243,
     1745771,
-    320052,
-    285621,
     390740,
+    285621,
     1222452,
-    126040,
     1426646,
+    126040,
     1305756
    ]
   },
@@ -15376,10 +15401,23 @@
    "name": "Hengelliset_ritarikunnat",
    "parents": [
     25988,
-    101246
+    101246,
+    165910
    ],
    "children": [
     582936
+   ]
+  },
+  "165910": {
+   "name": "Ritarikunnat",
+   "parents": [
+    330345
+   ],
+   "children": [
+    1741681,
+    50474,
+    471493,
+    257703
    ]
   },
   "50480": {
@@ -18377,7 +18415,6 @@
   "101951": {
    "name": "Aateli",
    "parents": [
-    31350,
     267665,
     120051
    ],
@@ -18753,7 +18790,6 @@
   "70636": {
    "name": "Sarjakuvahahmot",
    "parents": [
-    206884,
     45877
    ],
    "children": [
@@ -18809,6 +18845,15 @@
    "children": [
     730921,
     952793
+   ]
+  },
+  "70989": {
+   "name": "Tanssijat",
+   "parents": [
+    21596
+   ],
+   "children": [
+    108868
    ]
   },
   "71210": {
@@ -20102,8 +20147,7 @@
   "79852": {
    "name": "Roomalaiset_virat_ja_arvonimet",
    "parents": [
-    18085,
-    31350
+    18085
    ],
    "children": []
   },
@@ -20175,6 +20219,7 @@
     974445,
     1563733,
     477691,
+    1563739,
     1563998
    ]
   },
@@ -20975,7 +21020,9 @@
    "parents": [
     41178
    ],
-   "children": []
+   "children": [
+    689781
+   ]
   },
   "86922": {
    "name": "Juudan_kuninkaat",
@@ -22789,9 +22836,19 @@
    "name": "Kummitukset",
    "parents": [
     258424,
+    258451,
     325010
    ],
    "children": []
+  },
+  "230851": {
+   "name": "Paranormaalit_ilmiöt",
+   "parents": [
+    258451
+   ],
+   "children": [
+    1741542
+   ]
   },
   "105120": {
    "name": "Alankomaalaiset_jalkapalloseurat",
@@ -23103,6 +23160,7 @@
   "108868": {
    "name": "Balettitanssijat",
    "parents": [
+    70989,
     108865
    ],
    "children": []
@@ -24162,26 +24220,6 @@
     1631080,
     344222,
     791959
-   ]
-  },
-  "120206": {
-   "name": "Tekninen_piirtäminen",
-   "parents": [
-    707827
-   ],
-   "children": [
-    437352
-   ]
-  },
-  "707827": {
-   "name": "Piirustus",
-   "parents": [
-    21513
-   ],
-   "children": [
-    707825,
-    206884,
-    120206
    ]
   },
   "120380": {
@@ -25928,6 +25966,16 @@
     1320638
    ]
   },
+  "141258": {
+   "name": "Okkultistit",
+   "parents": [
+    140993
+   ],
+   "children": [
+    349970,
+    304575
+   ]
+  },
   "141493": {
    "name": "Yhdysvaltalaiset_musiikkituottajat",
    "parents": [
@@ -26533,15 +26581,6 @@
     91301
    ],
    "children": []
-  },
-  "150266": {
-   "name": "Suomalaiset_sarjakuvantekijät",
-   "parents": [
-    21174
-   ],
-   "children": [
-    1294661
-   ]
   },
   "150332": {
    "name": "Lentopallokilpailut",
@@ -27847,12 +27886,12 @@
    "name": "Ritarit",
    "parents": [
     267674,
-    31350,
     66846,
     267665
    ],
    "children": [
-    1302592
+    1302592,
+    165910
    ]
   },
   "377433": {
@@ -28208,16 +28247,6 @@
    "children": [
     799040,
     974323
-   ]
-  },
-  "1746364": {
-   "name": "1990-luvun_yhdysvaltalaiset_tilannekomediat",
-   "parents": [
-    195693
-   ],
-   "children": [
-    203405,
-    722919
    ]
   },
   "911286": {
@@ -29024,13 +29053,6 @@
    ],
    "children": []
   },
-  "184977": {
-   "name": "Rauhansanalaisuus",
-   "parents": [
-    19642
-   ],
-   "children": []
-  },
   "185195": {
    "name": "Sveitsiläiset_jalkapalloseurat",
    "parents": [
@@ -29181,7 +29203,6 @@
   "186906": {
    "name": "Sarjakuvapalkinnot",
    "parents": [
-    206884,
     734483
    ],
    "children": [
@@ -29661,20 +29682,6 @@
    ],
    "children": []
   },
-  "192471": {
-   "name": "Sarjakuviin_pohjautuvat_elokuvat",
-   "parents": [
-    206884
-   ],
-   "children": [
-    1035969,
-    516738,
-    1036066,
-    352878,
-    385846,
-    307096
-   ]
-  },
   "192860": {
    "name": "Raamatun_käsikirjoitukset",
    "parents": [
@@ -29898,9 +29905,7 @@
    "parents": [
     121459
    ],
-   "children": [
-    1746364
-   ]
+   "children": []
   },
   "1504151": {
    "name": "Aktivistit",
@@ -30441,7 +30446,6 @@
   "203405": {
    "name": "Frendit",
    "parents": [
-    1746364,
     1084150
    ],
    "children": []
@@ -30651,6 +30655,13 @@
    "parents": [
     57834,
     204400
+   ],
+   "children": []
+  },
+  "204412": {
+   "name": "Yhteystietoyritykset",
+   "parents": [
+    201540
    ],
    "children": []
   },
@@ -30885,6 +30896,13 @@
     878422
    ]
   },
+  "207756": {
+   "name": "Parapsykologit",
+   "parents": [
+    29434
+   ],
+   "children": []
+  },
   "207757": {
    "name": "South_Park",
    "parents": [
@@ -30983,6 +31001,13 @@
   },
   "208932": {
    "name": "Kenian_kansallispuistot",
+   "parents": [
+    29326
+   ],
+   "children": []
+  },
+  "208936": {
+   "name": "Kroatian_kansallispuistot",
    "parents": [
     29326
    ],
@@ -31194,6 +31219,8 @@
     1010284
    ],
    "children": [
+    1618154,
+    1766203,
     922134
    ]
   },
@@ -31316,6 +31343,7 @@
    ],
    "children": [
     568232,
+    1535641,
     1487000,
     247286
    ]
@@ -31327,9 +31355,10 @@
    ],
    "children": [
     1317089,
-    877244,
+    662676,
     231797,
-    210869
+    210869,
+    877244
    ]
   },
   "211160": {
@@ -31609,16 +31638,6 @@
     178987
    ],
    "children": []
-  },
-  "707825": {
-   "name": "Piirustustarvikkeet",
-   "parents": [
-    707827
-   ],
-   "children": [
-    215274,
-    1729850
-   ]
   },
   "215284": {
    "name": "Yhdysvaltain_vuoret",
@@ -32160,9 +32179,19 @@
     1606427
    ]
   },
+  "1575350": {
+   "name": "Kirjankustantajat",
+   "parents": [
+    30343
+   ],
+   "children": [
+    220271
+   ]
+  },
   "220271": {
    "name": "Suomalaiset_kirjankustantajat",
    "parents": [
+    1575350,
     1008431
    ],
    "children": []
@@ -32445,8 +32474,7 @@
   "222489": {
    "name": "Paperilaadut",
    "parents": [
-    29694,
-    215274
+    29694
    ],
    "children": []
   },
@@ -32744,6 +32772,7 @@
   "226173": {
    "name": "Uusplatonismi",
    "parents": [
+    26863,
     100480
    ],
    "children": [
@@ -32775,6 +32804,13 @@
    "name": "Suomen_Keskustan_piirijärjestöt",
    "parents": [
     113933
+   ],
+   "children": []
+  },
+  "226107": {
+   "name": "Kabbala",
+   "parents": [
+    140993
    ],
    "children": []
   },
@@ -33344,6 +33380,7 @@
     25659
    ],
    "children": [
+    1755336,
     1745013,
     1754735
    ]
@@ -33576,6 +33613,13 @@
    "children": [
     232480
    ]
+  },
+  "232503": {
+   "name": "Teosofit",
+   "parents": [
+    26863
+   ],
+   "children": []
   },
   "232515": {
    "name": "Puolijohteet",
@@ -33929,6 +33973,7 @@
    "children": [
     235475,
     1548911,
+    1557764,
     1038863
    ]
   },
@@ -34714,6 +34759,7 @@
    "name": "Demonit",
    "parents": [
     258424,
+    140993,
     1321616
    ],
    "children": [
@@ -35239,6 +35285,7 @@
   "252769": {
    "name": "Alkemia",
    "parents": [
+    140993,
     1131608,
     252776
    ],
@@ -35458,6 +35505,13 @@
    ],
    "children": []
   },
+  "257703": {
+   "name": "Ranskalaiset_ritarikunnat",
+   "parents": [
+    165910
+   ],
+   "children": []
+  },
   "257769": {
    "name": "Propaganda",
    "parents": [
@@ -35470,6 +35524,14 @@
     1217954,
     804244
    ]
+  },
+  "257783": {
+   "name": "Spiritualismi",
+   "parents": [
+    140993,
+    258451
+   ],
+   "children": []
   },
   "1006921": {
    "name": "Parodiat",
@@ -36429,8 +36491,7 @@
    "children": [
     1671090,
     1680251,
-    1734846,
-    1771479
+    1734846
    ]
   },
   "268876": {
@@ -37493,6 +37554,7 @@
    ],
    "children": [
     372586,
+    285612,
     738682
    ]
   },
@@ -37665,7 +37727,8 @@
   "285612": {
    "name": "Hedelmällisyyden_jumalattaret",
    "parents": [
-    269096
+    269096,
+    282599
    ],
    "children": []
   },
@@ -38049,8 +38112,7 @@
   "288962": {
    "name": "Smallville",
    "parents": [
-    1745739,
-    1555594
+    1745739
    ],
    "children": []
   },
@@ -38062,16 +38124,6 @@
    "children": [
     288962,
     954059
-   ]
-  },
-  "1555594": {
-   "name": "DC-universumiin_perustuvat_televisiosarjat",
-   "parents": [
-    1305761
-   ],
-   "children": [
-    288962,
-    374887
    ]
   },
   "369923": {
@@ -38976,7 +39028,15 @@
   "304575": {
    "name": "Astrologit",
    "parents": [
-    29402
+    29402,
+    141258
+   ],
+   "children": []
+  },
+  "304648": {
+   "name": "Anatomit",
+   "parents": [
+    22497
    ],
    "children": []
   },
@@ -39027,26 +39087,6 @@
    ],
    "children": []
   },
-  "306403": {
-   "name": "Marvel-universumiin_perustuvat_videopelit",
-   "parents": [
-    1518555
-   ],
-   "children": [
-    1518976
-   ]
-  },
-  "1518555": {
-   "name": "Sarjakuviin_perustuvat_videopelit",
-   "parents": [
-    206884
-   ],
-   "children": [
-    643680,
-    391289,
-    306403
-   ]
-  },
   "363445": {
    "name": "Superroistot",
    "parents": [
@@ -39072,16 +39112,6 @@
     246592
    ],
    "children": []
-  },
-  "307096": {
-   "name": "Marvel-universumiin_perustuvat_elokuvat",
-   "parents": [
-    192471
-   ],
-   "children": [
-    1165699,
-    641757
-   ]
   },
   "307180": {
    "name": "Italialaiset_elokuvakäsikirjoittajat",
@@ -39210,7 +39240,8 @@
     170174
    ],
    "children": [
-    309565
+    309565,
+    1468790
    ]
   },
   "309860": {
@@ -39355,15 +39386,6 @@
     436322
    ],
    "children": []
-  },
-  "447421": {
-   "name": "Sarjakuvat",
-   "parents": [
-    206884
-   ],
-   "children": [
-    1305761
-   ]
   },
   "942755": {
    "name": "Eksorkistit",
@@ -39625,22 +39647,6 @@
     1288654
    ]
   },
-  "316945": {
-   "name": "Suunnitteluohjelmistot",
-   "parents": [
-    437352
-   ],
-   "children": []
-  },
-  "437352": {
-   "name": "Tietokoneavusteinen_suunnittelu",
-   "parents": [
-    120206
-   ],
-   "children": [
-    316945
-   ]
-  },
   "316984": {
    "name": "Metabolia",
    "parents": [
@@ -39831,15 +39837,6 @@
     612980
    ],
    "children": []
-  },
-  "320052": {
-   "name": "Tuomas_Veturi",
-   "parents": [
-    47768
-   ],
-   "children": [
-    1706799
-   ]
   },
   "1311316": {
    "name": "Antiikin_Kreikan_pyhäköt",
@@ -40768,7 +40765,6 @@
   "342626": {
    "name": "Paperityöt",
    "parents": [
-    215274,
     304806
    ],
    "children": []
@@ -40803,13 +40799,6 @@
    "children": [
     878039
    ]
-  },
-  "343692": {
-   "name": "Japanilaiset_sarjakuvantekijät",
-   "parents": [
-    21174
-   ],
-   "children": []
   },
   "343805": {
    "name": "Yhdysvaltalaiset_DJ:t",
@@ -40971,7 +40960,9 @@
    "parents": [
     75770
    ],
-   "children": []
+   "children": [
+    496473
+   ]
   },
   "347413": {
    "name": "Bysanttilaiset_historioitsijat",
@@ -41123,6 +41114,7 @@
   "349970": {
    "name": "Alkemistit",
    "parents": [
+    141258,
     252769
    ],
    "children": [
@@ -41227,17 +41219,6 @@
    ],
    "children": []
   },
-  "352878": {
-   "name": "DC-universumiin_perustuvat_elokuvat",
-   "parents": [
-    192471
-   ],
-   "children": [
-    778305,
-    1293586,
-    1000431
-   ]
-  },
   "353540": {
    "name": "Slovakialaiset_jalkapalloseurat",
    "parents": [
@@ -41318,24 +41299,6 @@
    "name": "Suomalaiset_elokuvaäänittäjät",
    "parents": [
     548242
-   ],
-   "children": []
-  },
-  "1554033": {
-   "name": "Marvel-universumiin_perustuvat_televisiosarjat",
-   "parents": [
-    1305761
-   ],
-   "children": [
-    1362582,
-    1666636,
-    355686
-   ]
-  },
-  "355686": {
-   "name": "Marvel-animaatiouniversumi",
-   "parents": [
-    1554033
    ],
    "children": []
   },
@@ -42067,7 +42030,6 @@
   "371499": {
    "name": "Lapsinerot",
    "parents": [
-    27163,
     299299
    ],
    "children": [
@@ -42173,8 +42135,7 @@
   "374887": {
    "name": "The_Batman",
    "parents": [
-    64475,
-    1555594
+    64475
    ],
    "children": []
   },
@@ -42738,13 +42699,6 @@
    ],
    "children": []
   },
-  "385846": {
-   "name": "Dragon_Ball_-elokuvat",
-   "parents": [
-    192471
-   ],
-   "children": []
-  },
   "385854": {
    "name": "Verenpainelääkkeet",
    "parents": [
@@ -43022,8 +42976,7 @@
   "391289": {
    "name": "Teini-ikäiset_mutanttininjakilpikonnat_-pelit",
    "parents": [
-    843151,
-    1518555
+    843151
    ],
    "children": []
   },
@@ -43071,10 +43024,19 @@
    ],
    "children": []
   },
+  "1775676": {
+   "name": "Vanhoillislestadiolaiset_rauhanyhdistykset",
+   "parents": [
+    36174
+   ],
+   "children": [
+    393305
+   ]
+  },
   "393305": {
    "name": "Suomen_rauhanyhdistysten_keskusyhdistys",
    "parents": [
-    36174
+    1775676
    ],
    "children": []
   },
@@ -43477,16 +43439,6 @@
     561243
    ]
   },
-  "402516": {
-   "name": "Luettelot_sarjakuvista",
-   "parents": [
-    206884
-   ],
-   "children": [
-    1290059,
-    1575764
-   ]
-  },
   "402886": {
    "name": "Hausmyllyn_albumit",
    "parents": [
@@ -43854,48 +43806,6 @@
    "name": "Sionistit",
    "parents": [
     1031869
-   ],
-   "children": []
-  },
-  "413867": {
-   "name": "Belgialaiset_sarjakuvantekijät",
-   "parents": [
-    21174
-   ],
-   "children": []
-  },
-  "413879": {
-   "name": "Ranskalaiset_sarjakuvantekijät",
-   "parents": [
-    21174
-   ],
-   "children": []
-  },
-  "413892": {
-   "name": "Brittiläiset_sarjakuvantekijät",
-   "parents": [
-    21174
-   ],
-   "children": []
-  },
-  "413942": {
-   "name": "Italialaiset_sarjakuvantekijät",
-   "parents": [
-    21174
-   ],
-   "children": []
-  },
-  "413943": {
-   "name": "Ruotsalaiset_sarjakuvantekijät",
-   "parents": [
-    21174
-   ],
-   "children": []
-  },
-  "413949": {
-   "name": "Espanjalaiset_sarjakuvantekijät",
-   "parents": [
-    21174
    ],
    "children": []
   },
@@ -44445,6 +44355,24 @@
     296499
    ],
    "children": []
+  },
+  "689781": {
+   "name": "Ruotsalaiset_piispat",
+   "parents": [
+    86895
+   ],
+   "children": [
+    430990
+   ]
+  },
+  "430990": {
+   "name": "Ruotsin_kirkon_piispat_ja_arkkipiispat",
+   "parents": [
+    689781
+   ],
+   "children": [
+    1523667
+   ]
   },
   "432398": {
    "name": "Ravitsemustieteilijät",
@@ -45451,6 +45379,13 @@
    ],
    "children": []
   },
+  "471493": {
+   "name": "Portugalilaiset_ritarikunnat",
+   "parents": [
+    165910
+   ],
+   "children": []
+  },
   "472477": {
    "name": "Luolat",
    "parents": [
@@ -46127,6 +46062,13 @@
    ],
    "children": []
   },
+  "1755336": {
+   "name": "2010-luvun_yhdysvaltalaiset_nuorten_tilannekomediat",
+   "parents": [
+    232176
+   ],
+   "children": []
+  },
   "502323": {
    "name": "Puhemiehet",
    "parents": [
@@ -46534,6 +46476,13 @@
    ],
    "children": []
   },
+  "516190": {
+   "name": "Kuun_kraatterit",
+   "parents": [
+    42980
+   ],
+   "children": []
+  },
   "516311": {
    "name": "Liège–Bastogne–Liège",
    "parents": [
@@ -46545,32 +46494,6 @@
    "name": "Ranskan_vasallit",
    "parents": [
     387558
-   ],
-   "children": []
-  },
-  "516738": {
-   "name": "Teini-ikäiset_mutanttininjakilpikonnat_-elokuvat",
-   "parents": [
-    192471
-   ],
-   "children": []
-  },
-  "1305761": {
-   "name": "Sarjakuviin_perustuvat_televisiosarjat",
-   "parents": [
-    447421
-   ],
-   "children": [
-    1554033,
-    1554018,
-    516740,
-    1555594
-   ]
-  },
-  "516740": {
-   "name": "Teini-ikäiset_mutanttininjakilpikonnat_-sarjat",
-   "parents": [
-    1305761
    ],
    "children": []
   },
@@ -50025,8 +49948,7 @@
   "641757": {
    "name": "Hämähäkkimies-elokuvat",
    "parents": [
-    228212,
-    307096
+    228212
    ],
    "children": []
   },
@@ -50082,15 +50004,6 @@
     1328609
    ],
    "children": []
-  },
-  "643680": {
-   "name": "DC_Comics_-universumiin_perustuvat_videopelit",
-   "parents": [
-    1518555
-   ],
-   "children": [
-    1397787
-   ]
   },
   "644580": {
    "name": "Venäläiset_ornitologit",
@@ -50554,6 +50467,7 @@
    "name": "Yhdysvaltain_linnoitukset",
    "parents": [
     40529,
+    247309,
     489160
    ],
    "children": []
@@ -53204,7 +53118,6 @@
   "722919": {
    "name": "Sinkkuelämää",
    "parents": [
-    1746364,
     911286,
     1084150
    ],
@@ -53259,7 +53172,6 @@
    "name": "Tove_Jansson",
    "parents": [
     1022897,
-    150266,
     249331
    ],
    "children": [
@@ -55053,8 +54965,7 @@
   "778305": {
    "name": "Batman-elokuvat",
    "parents": [
-    64475,
-    352878
+    64475
    ],
    "children": []
   },
@@ -57273,7 +57184,9 @@
    "parents": [
     25164
    ],
-   "children": []
+   "children": [
+    1644306
+   ]
   },
   "880090": {
    "name": "Kulttuurihistorialliset_museot",
@@ -57585,6 +57498,13 @@
    "name": "Kuvitteelliset_mallit",
    "parents": [
     296499
+   ],
+   "children": []
+  },
+  "895837": {
+   "name": "Tundra",
+   "parents": [
+    34459
    ],
    "children": []
   },
@@ -58561,7 +58481,6 @@
   "945102": {
    "name": "Antikolinergit",
    "parents": [
-    23799,
     29411
    ],
    "children": [
@@ -58575,6 +58494,16 @@
     815008
    ],
    "children": []
+  },
+  "945520": {
+   "name": "Kuninkaalliset_arvonimet",
+   "parents": [
+    31350,
+    82211
+   ],
+   "children": [
+    1256413
+   ]
   },
   "945755": {
    "name": "Kuningataräidit",
@@ -60183,13 +60112,6 @@
    ],
    "children": []
   },
-  "1000431": {
-   "name": "Teräsmies-elokuvat",
-   "parents": [
-    352878
-   ],
-   "children": []
-  },
   "1001514": {
    "name": "Saaristomeren_lahdet",
    "parents": [
@@ -61190,13 +61112,6 @@
    ],
    "children": []
   },
-  "1036066": {
-   "name": "Dark_Horse_Comicsin_sarjakuviin_perustuvat_elokuvat",
-   "parents": [
-    192471
-   ],
-   "children": []
-  },
   "1035714": {
    "name": "Elokuvat_karhuista",
    "parents": [
@@ -61209,13 +61124,6 @@
    "parents": [
     436047,
     1328609
-   ],
-   "children": []
-  },
-  "1035969": {
-   "name": "Asterix_seikkailee_-elokuvat",
-   "parents": [
-    192471
    ],
    "children": []
   },
@@ -61947,8 +61855,7 @@
   "1290059": {
    "name": "Luettelot_sarjakuvahahmoista",
    "parents": [
-    70636,
-    402516
+    70636
    ],
    "children": []
   },
@@ -63052,7 +62959,8 @@
   "1096190": {
    "name": "Venäjän_rankijärjestelmä",
    "parents": [
-    31350
+    31350,
+    1064549
    ],
    "children": []
   },
@@ -63689,7 +63597,8 @@
   "1125951": {
    "name": "Selvänäkijät",
    "parents": [
-    23256
+    23256,
+    29434
    ],
    "children": []
   },
@@ -64124,13 +64033,6 @@
    ],
    "children": []
   },
-  "1143764": {
-   "name": "Alankomaalaiset_sarjakuvantekijät",
-   "parents": [
-    21174
-   ],
-   "children": []
-  },
   "1143880": {
    "name": "Luontaistuotteet",
    "parents": [
@@ -64536,13 +64438,6 @@
    "name": "Syyrian_ja_Libanonin_valtaus",
    "parents": [
     1168181
-   ],
-   "children": []
-  },
-  "1165699": {
-   "name": "X-Men-elokuvat",
-   "parents": [
-    307096
    ],
    "children": []
   },
@@ -65127,17 +65022,6 @@
    ],
    "children": []
   },
-  "1188102": {
-   "name": "Lesbos",
-   "parents": [
-    1206456
-   ],
-   "children": [
-    1444841,
-    1594982,
-    1594983
-   ]
-  },
   "1206456": {
    "name": "Pohjoisen_Egean_saaret",
    "parents": [
@@ -65146,7 +65030,6 @@
    "children": [
     1189953,
     1188132,
-    1188102,
     1191659,
     1191662,
     1190161,
@@ -66354,21 +66237,10 @@
   "1256413": {
    "name": "Yhdistyneen_kuningaskunnan_kuninkaalliset_arvonimet",
    "parents": [
-    945520,
     172228,
-    1671090
+    945520
    ],
    "children": []
-  },
-  "1671090": {
-   "name": "Brittiläiset_herttuat",
-   "parents": [
-    229003,
-    268821
-   ],
-   "children": [
-    1256413
-   ]
   },
   "1257064": {
    "name": "Telia_Finland",
@@ -67216,13 +67088,6 @@
     1658828,
     121794,
     581449
-   ],
-   "children": []
-  },
-  "1293586": {
-   "name": "DC_Extended_Universe",
-   "parents": [
-    352878
    ],
    "children": []
   },
@@ -68578,13 +68443,6 @@
    ],
    "children": []
   },
-  "1362582": {
-   "name": "Marvel_Televisionin_televisiosarjat",
-   "parents": [
-    1554033
-   ],
-   "children": []
-  },
   "1363833": {
    "name": "Nvidia",
    "parents": [
@@ -69512,8 +69370,7 @@
    "name": "Batman-pelit",
    "parents": [
     64475,
-    843151,
-    643680
+    843151
    ],
    "children": []
   },
@@ -70194,7 +70051,6 @@
   "1436799": {
    "name": "Sarjakuvien_suomentajat",
    "parents": [
-    206884,
     90294
    ],
    "children": []
@@ -70453,13 +70309,6 @@
    "name": "Brittiläiset_miljardöörit",
    "parents": [
     160311
-   ],
-   "children": []
-  },
-  "1444841": {
-   "name": "Antiikin_Lesbos",
-   "parents": [
-    1188102
    ],
    "children": []
   },
@@ -70959,6 +70808,13 @@
    "name": "Yhdysvaltalaiset_ilmasta_maahan_-ohjukset",
    "parents": [
     720840
+   ],
+   "children": []
+  },
+  "1468790": {
+   "name": "Ohjattavat_pommit",
+   "parents": [
+    309566
    ],
    "children": []
   },
@@ -71826,8 +71682,7 @@
   "1518976": {
    "name": "Hämähäkkimies-videopelit",
    "parents": [
-    228212,
-    306403
+    228212
    ],
    "children": []
   },
@@ -71976,6 +71831,13 @@
    "parents": [
     32083,
     704377
+   ],
+   "children": []
+  },
+  "1523667": {
+   "name": "Ruotsin_luterilaiset_arkkipiispat",
+   "parents": [
+    430990
    ],
    "children": []
   },
@@ -72136,7 +71998,8 @@
   "1535641": {
    "name": "Irakin_sodan_taistelut",
    "parents": [
-    143111
+    143111,
+    210869
    ],
    "children": []
   },
@@ -72432,13 +72295,6 @@
     1553758
    ]
   },
-  "1554018": {
-   "name": "The_Walking_Dead_(televisiosarja)",
-   "parents": [
-    1305761
-   ],
-   "children": []
-  },
   "1601407": {
    "name": "Yhdysvaltalaiset_mustan_komedian_elokuvat",
    "parents": [
@@ -72478,6 +72334,14 @@
    "name": "Venäläiset_kääntäjät",
    "parents": [
     53813
+   ],
+   "children": []
+  },
+  "1557764": {
+   "name": "Järjestelmäpiirit",
+   "parents": [
+    28904,
+    927477
    ],
    "children": []
   },
@@ -72651,6 +72515,13 @@
    "name": "Suomalaiset_nuortenelokuvat",
    "parents": [
     923666
+   ],
+   "children": []
+  },
+  "1563739": {
+   "name": "Saksan_jääkiekkosarjat",
+   "parents": [
+    80062
    ],
    "children": []
   },
@@ -72919,13 +72790,6 @@
    ],
    "children": []
   },
-  "1575764": {
-   "name": "Luettelot_Aku_Ankan_taskukirjoista",
-   "parents": [
-    402516
-   ],
-   "children": []
-  },
   "1578056": {
    "name": "Islamin_kulta-aika",
    "parents": [
@@ -73153,20 +73017,6 @@
    "name": "Lapinkuvauksien_kirjoittajat",
    "parents": [
     997738
-   ],
-   "children": []
-  },
-  "1594982": {
-   "name": "Länsi-Lesbos",
-   "parents": [
-    1188102
-   ],
-   "children": []
-  },
-  "1594983": {
-   "name": "Mytilíni",
-   "parents": [
-    1188102
    ],
    "children": []
   },
@@ -73590,6 +73440,13 @@
    ],
    "children": []
   },
+  "1618154": {
+   "name": "Prostituoidut",
+   "parents": [
+    209703
+   ],
+   "children": []
+  },
   "1619394": {
    "name": "Apostolien_tekojen_henkilöt",
    "parents": [
@@ -73863,6 +73720,23 @@
     1631984
    ]
   },
+  "1633482": {
+   "name": "Vuoden_2023_elokuvat",
+   "parents": [
+    1490321
+   ],
+   "children": [
+    1633481,
+    1676765
+   ]
+  },
+  "1633481": {
+   "name": "Vuoden_2023_yhdysvaltalaiset_elokuvat",
+   "parents": [
+    1633482
+   ],
+   "children": []
+  },
   "1634209": {
    "name": "Elisa_Viihde_-alkuperäissarjat",
    "parents": [
@@ -74002,7 +73876,8 @@
   "1644306": {
    "name": "Kromosomipoikkeavuudet",
    "parents": [
-    18851
+    18851,
+    880069
    ],
    "children": []
   },
@@ -74369,13 +74244,6 @@
    ],
    "children": []
   },
-  "1666636": {
-   "name": "Marvel_Studiosin_televisiosarjat",
-   "parents": [
-    1554033
-   ],
-   "children": []
-  },
   "1666898": {
    "name": "Kvartsi",
    "parents": [
@@ -74437,6 +74305,14 @@
    "name": "Jalkapallon_maailmanmestaruuskilpailut_2022",
    "parents": [
     66289
+   ],
+   "children": []
+  },
+  "1671090": {
+   "name": "Brittiläiset_herttuat",
+   "parents": [
+    229003,
+    268821
    ],
    "children": []
   },
@@ -74567,6 +74443,13 @@
    "name": "Norjan_kulttuuriministerit",
    "parents": [
     1672228
+   ],
+   "children": []
+  },
+  "1676765": {
+   "name": "Vuoden_2023_suomalaiset_elokuvat",
+   "parents": [
+    1633482
    ],
    "children": []
   },
@@ -75309,7 +75192,6 @@
   "1706799": {
    "name": "Tuomas_Veturi_-elokuvat",
    "parents": [
-    320052,
     941355
    ],
    "children": []
@@ -75739,13 +75621,6 @@
    ],
    "children": []
   },
-  "1729850": {
-   "name": "Kynät",
-   "parents": [
-    707825
-   ],
-   "children": []
-  },
   "1730075": {
    "name": "Suurkäräjien_puhemiehet",
    "parents": [
@@ -75976,14 +75851,16 @@
   "1741542": {
    "name": "Ihmeet",
    "parents": [
-    279531
+    279531,
+    230851
    ],
    "children": []
   },
   "1741681": {
    "name": "Naisille_tarkoitetut_ritarikunnat",
    "parents": [
-    286985
+    286985,
+    165910
    ],
    "children": []
   },
@@ -76392,6 +76269,13 @@
    ],
    "children": []
   },
+  "1757043": {
+   "name": "Milanon_herttuat",
+   "parents": [
+    23257
+   ],
+   "children": []
+  },
   "1757954": {
    "name": "2020-luvun_suomalaiset_musiikkiohjelmat",
    "parents": [
@@ -76485,6 +76369,20 @@
    ],
    "children": []
   },
+  "1766203": {
+   "name": "Kurtisaanit",
+   "parents": [
+    209703
+   ],
+   "children": []
+  },
+  "1766205": {
+   "name": "Naisten_arvonimet",
+   "parents": [
+    31350
+   ],
+   "children": []
+  },
   "1766340": {
    "name": "Norjalaiset_koomikot",
    "parents": [
@@ -76569,9 +76467,7 @@
     31350,
     101951
    ],
-   "children": [
-    1771479
-   ]
+   "children": []
   },
   "1770413": {
    "name": "Slovakian_kansallispuistot",
@@ -76598,9 +76494,7 @@
   "1771479": {
    "name": "Herttuattaret",
    "parents": [
-    66846,
-    268821,
-    1770309
+    66846
    ],
    "children": []
   },

@@ -417,28 +417,17 @@
     12574
    ]
   },
-  "12612": {
-   "name": "Bàsquet",
-   "parents": [
-    53116,
-    118359
-   ],
-   "children": [
-    516665
-   ]
-  },
   "53116": {
    "name": "Esports_d'equip",
    "parents": [
     865214
    ],
    "children": [
-    12612,
     61093,
     12681,
     326639,
-    43892,
-    60020
+    60020,
+    43892
    ]
   },
   "118359": {
@@ -447,12 +436,11 @@
     865214
    ],
    "children": [
-    12612,
     12681,
     213166,
     326639,
-    43892,
-    60020
+    60020,
+    43892
    ]
   },
   "1774927": {
@@ -807,6 +795,7 @@
     202770,
     61979,
     259625,
+    2017325,
     20149,
     925629,
     742973,
@@ -1684,6 +1673,7 @@
     566866,
     13779,
     1203421,
+    628446,
     867297,
     772578,
     989797,
@@ -4395,6 +4385,7 @@
     755753,
     1231050,
     551469,
+    2017325,
     1949433,
     396922,
     1082940,
@@ -5007,6 +4998,7 @@
     1471637,
     1415932,
     1900509,
+    628446,
     682655
    ]
   },
@@ -5091,6 +5083,7 @@
    ],
    "children": [
     25601,
+    2054083,
     589485,
     94102,
     53465,
@@ -7181,10 +7174,9 @@
     355429,
     39624,
     50473,
-    1023736,
     1579025,
     174803,
-    957560
+    1023736
    ]
   },
   "299758": {
@@ -7382,6 +7374,7 @@
    "children": [
     1382064,
     663389,
+    1054230,
     1132495
    ]
   },
@@ -8418,6 +8411,7 @@
     257318,
     190631,
     58224,
+    58229,
     186008,
     659291,
     779135
@@ -8448,6 +8442,13 @@
     58357,
     71960
    ]
+  },
+  "58229": {
+   "name": "Llistes_d'illes",
+   "parents": [
+    58228
+   ],
+   "children": []
   },
   "58357": {
    "name": "Llistes_d'esport",
@@ -9980,7 +9981,7 @@
    ]
   },
   "1380805": {
-   "name": "Topònims_de_la_Ilíada",
+   "name": "Llocs_de_la_Ilíada",
    "parents": [
     18971,
     150149
@@ -12372,8 +12373,15 @@
     283444
    ],
    "children": [
+    2056900,
+    120677,
+    2055591,
     1978088,
-    120677
+    2057193,
+    2057330,
+    2057334,
+    2057336,
+    2057183
    ]
   },
   "121430": {
@@ -14137,6 +14145,7 @@
    ],
    "children": [
     805758,
+    805731,
     805742
    ]
   },
@@ -16743,6 +16752,24 @@
    ],
    "children": []
   },
+  "229921": {
+   "name": "Karakoram",
+   "parents": [
+    2055591
+   ],
+   "children": [
+    896297
+   ]
+  },
+  "2055591": {
+   "name": "Geografia_de_Xinjiang",
+   "parents": [
+    1792866
+   ],
+   "children": [
+    229921
+   ]
+  },
   "230252": {
    "name": "Inquisidors",
    "parents": [
@@ -17199,6 +17226,13 @@
    ],
    "children": []
   },
+  "942435": {
+   "name": "Lleis_orgàniques",
+   "parents": [
+    666885
+   ],
+   "children": []
+  },
   "237957": {
    "name": "Escola_de_Frankfurt",
    "parents": [
@@ -17298,11 +17332,10 @@
     100935
    ],
    "children": [
-    672774,
     673161,
-    239343,
-    354673,
-    564595
+    564595,
+    672774,
+    239343
    ]
   },
   "239515": {
@@ -17416,6 +17449,23 @@
    ],
    "children": []
   },
+  "245675": {
+   "name": "Actors_de_l'antiga_Grècia",
+   "parents": [
+    685553
+   ],
+   "children": []
+  },
+  "685553": {
+   "name": "Teatre_a_l'antiga_Grècia",
+   "parents": [
+    1212872
+   ],
+   "children": [
+    245675,
+    294093
+   ]
+  },
   "245680": {
    "name": "Geògrafs_de_l'antiga_Grècia",
    "parents": [
@@ -17424,7 +17474,7 @@
    "children": []
   },
   "245968": {
-   "name": "Hip_hop",
+   "name": "Hip-hop",
    "parents": [
     143440
    ],
@@ -18304,9 +18354,19 @@
    "name": "Teoria_de_la_conspiració",
    "parents": [
     13769,
+    2054083,
     1061111
    ],
    "children": []
+  },
+  "2054083": {
+   "name": "Complots_i_conspiracions",
+   "parents": [
+    425809
+   ],
+   "children": [
+    262298
+   ]
   },
   "1061111": {
    "name": "Pseudohistòria",
@@ -18403,6 +18463,7 @@
     2001703,
     1994632,
     1999336,
+    1994831,
     1475248,
     1994833,
     1996976,
@@ -18411,7 +18472,8 @@
     1994837,
     1998327,
     1994840,
-    1417307
+    1417307,
+    1994684
    ]
   },
   "1460258": {
@@ -18420,6 +18482,7 @@
     16122
    ],
    "children": [
+    1601568,
     1475362,
     1458949,
     1625775,
@@ -18447,6 +18510,7 @@
     1539480,
     1368729,
     464954,
+    2017305,
     1601727
    ]
   },
@@ -19176,7 +19240,6 @@
     53516
    ],
    "children": [
-    282538,
     1385706,
     1225580,
     1144370,
@@ -19225,13 +19288,6 @@
   },
   "282520": {
    "name": "Competicions_d'hoquei_sobre_patins_femenines",
-   "parents": [
-    281920
-   ],
-   "children": []
-  },
-  "282538": {
-   "name": "Competicions_de_bàsquet_femenines",
    "parents": [
     281920
    ],
@@ -19645,7 +19701,7 @@
    ]
   },
   "1778022": {
-   "name": "Repressaliats_polítics",
+   "name": "Represaliats_polítics",
    "parents": [
     918773
    ],
@@ -19823,6 +19879,15 @@
    "children": [
     673194,
     662946
+   ]
+  },
+  "294093": {
+   "name": "Dramaturgs_de_l'antiga_Grècia",
+   "parents": [
+    685553
+   ],
+   "children": [
+    359963
    ]
   },
   "294284": {
@@ -21586,17 +21651,6 @@
    ],
    "children": []
   },
-  "354673": {
-   "name": "Sant_Petersburg",
-   "parents": [
-    827139,
-    916854
-   ],
-   "children": [
-    550970,
-    939254
-   ]
-  },
   "916854": {
    "name": "Patrimoni_de_la_Humanitat_a_Rússia",
    "parents": [
@@ -21604,7 +21658,6 @@
     915332
    ],
    "children": [
-    354673,
     745482
    ]
   },
@@ -21731,6 +21784,13 @@
     359682,
     661758
    ]
+  },
+  "359963": {
+   "name": "Poetes_tràgics_de_l'antiga_Grècia",
+   "parents": [
+    294093
+   ],
+   "children": []
   },
   "360309": {
    "name": "Compositors_del_segle_XX",
@@ -23677,6 +23737,7 @@
    ],
    "children": [
     950242,
+    2017325,
     970566
    ]
   },
@@ -25566,13 +25627,6 @@
    ],
    "children": []
   },
-  "516665": {
-   "name": "Seleccions_de_bàsquet",
-   "parents": [
-    12612
-   ],
-   "children": []
-  },
   "559972": {
    "name": "Esquí_alpí_als_Jocs_Olímpics",
    "parents": [
@@ -25626,6 +25680,7 @@
    ],
    "children": [
     1492353,
+    1578802,
     1858908
    ]
   },
@@ -25673,6 +25728,7 @@
     422911
    ],
    "children": [
+    666041,
     647570,
     2003582
    ]
@@ -26465,16 +26521,6 @@
     569719
    ]
   },
-  "550970": {
-   "name": "Persones_de_Sant_Petersburg",
-   "parents": [
-    354673
-   ],
-   "children": [
-    1095854,
-    1801478
-   ]
-  },
   "551469": {
    "name": "Correu",
    "parents": [
@@ -26626,7 +26672,7 @@
    "children": []
   },
   "681523": {
-   "name": "Grups_de_música_de_hip_hop",
+   "name": "Grups_de_música_de_hip-hop",
    "parents": [
     245968
    ],
@@ -26710,6 +26756,7 @@
     237556
    ],
    "children": [
+    942435,
     559349
    ]
   },
@@ -26949,6 +26996,7 @@
    "children": [
     673192,
     809521,
+    989120,
     572375
    ]
   },
@@ -27048,8 +27096,7 @@
     1153233
    ],
    "children": [
-    1981576,
-    587580
+    1981576
    ]
   },
   "579208": {
@@ -27302,13 +27349,6 @@
    ],
    "children": []
   },
-  "587580": {
-   "name": "Malalties_del_sistema_reproductor_masculí",
-   "parents": [
-    578586
-   ],
-   "children": []
-  },
   "587622": {
    "name": "Malalties_i_trastorns_de_la_cavitat_oral,_les_glàndules_salivals_i_els_maxil·lars",
    "parents": [
@@ -27322,8 +27362,7 @@
     274064
    ],
    "children": [
-    998675,
-    1421494
+    998675
    ]
   },
   "588245": {
@@ -28136,6 +28175,14 @@
     1942463
    ]
   },
+  "628446": {
+   "name": "Maternitat",
+   "parents": [
+    13769,
+    622030
+   ],
+   "children": []
+  },
   "628465": {
    "name": "Menstruació",
    "parents": [
@@ -28221,6 +28268,7 @@
     1248264
    ],
    "children": [
+    989120,
     630095
    ]
   },
@@ -28754,7 +28802,6 @@
     557039
    ],
    "children": [
-    768417,
     653642,
     956956,
     956958
@@ -29107,6 +29154,13 @@
    "parents": [
     13260,
     298523
+   ],
+   "children": []
+  },
+  "666041": {
+   "name": "Pel·lícules_guanyadores_del_premi_Oscar_a_millor_curtmetratge_d'animació",
+   "parents": [
+    519926
    ],
    "children": []
   },
@@ -29528,6 +29582,7 @@
     15625
    ],
    "children": [
+    685553,
     1365354
    ]
   },
@@ -30538,13 +30593,6 @@
    ],
    "children": []
   },
-  "768417": {
-   "name": "Arxius_de_Barcelona",
-   "parents": [
-    768302
-   ],
-   "children": []
-  },
   "768789": {
    "name": "Màquines_eina",
    "parents": [
@@ -31250,6 +31298,30 @@
    ],
    "children": []
   },
+  "805731": {
+   "name": "Plantilles_de_navegació_de_clubs_de_futbol",
+   "parents": [
+    163297
+   ],
+   "children": [
+    805739,
+    805735
+   ]
+  },
+  "805735": {
+   "name": "Plantilles_de_navegació_de_clubs_de_futbol_d'Espanya",
+   "parents": [
+    805731
+   ],
+   "children": []
+  },
+  "805739": {
+   "name": "Plantilles_de_navegació_de_clubs_de_futbol_d'Anglaterra",
+   "parents": [
+    805731
+   ],
+   "children": []
+  },
   "805758": {
    "name": "Plantilles_de_navegació_de_guardons_de_futbol",
    "parents": [
@@ -31913,6 +31985,13 @@
    ],
    "children": []
   },
+  "2057330": {
+   "name": "Geografia_de_Guangdong",
+   "parents": [
+    1792866
+   ],
+   "children": []
+  },
   "866049": {
    "name": "Senyera_Reial",
    "parents": [
@@ -32399,6 +32478,7 @@
     171497
    ],
    "children": [
+    2056881,
     1724973,
     888445
    ]
@@ -32534,6 +32614,13 @@
    "name": "Salsitxes",
    "parents": [
     68413
+   ],
+   "children": []
+  },
+  "896297": {
+   "name": "Muntanyes_del_Karakoram",
+   "parents": [
+    229921
    ],
    "children": []
   },
@@ -32705,9 +32792,21 @@
    "name": "Codificació_de_caràcters",
    "parents": [
     198774,
+    2017325,
     912833
    ],
    "children": []
+  },
+  "2017325": {
+   "name": "Codificació",
+   "parents": [
+    13684,
+    934367,
+    436719
+   ],
+   "children": [
+    908772
+   ]
   },
   "912833": {
    "name": "Tipografia_digital",
@@ -32870,10 +32969,20 @@
    ],
    "children": []
   },
+  "1054230": {
+   "name": "Educació_infantil",
+   "parents": [
+    658225
+   ],
+   "children": [
+    914300
+   ]
+  },
   "914300": {
    "name": "Jocs_infantils",
    "parents": [
-    19325
+    19325,
+    1054230
    ],
    "children": []
   },
@@ -33425,13 +33534,6 @@
    ],
    "children": []
   },
-  "939254": {
-   "name": "Edificis_de_Sant_Petersburg",
-   "parents": [
-    354673
-   ],
-   "children": []
-  },
   "938916": {
    "name": "Revistes_de_Catalunya_desaparegudes",
    "parents": [
@@ -33838,9 +33940,7 @@
    "parents": [
     957545
    ],
-   "children": [
-    957560
-   ]
+   "children": []
   },
   "957545": {
    "name": "Pirateria",
@@ -33858,14 +33958,6 @@
    "name": "Entitats_de_població_de_la_conca_del_Rin_alpí",
    "parents": [
     323101
-   ],
-   "children": []
-  },
-  "957560": {
-   "name": "Pirates_de_ficció",
-   "parents": [
-    87268,
-    957544
    ],
    "children": []
   },
@@ -34448,6 +34540,14 @@
    "parents": [
     15064,
     544814
+   ],
+   "children": []
+  },
+  "989120": {
+   "name": "Begudes_amb_llet",
+   "parents": [
+    1248264,
+    809521
    ],
    "children": []
   },
@@ -35431,7 +35531,7 @@
    "children": []
   },
   "1017168": {
-   "name": "Emmagatzematge_en_núvol",
+   "name": "Emmagatzematge_al_núvol",
    "parents": [
     151791,
     1085495,
@@ -35794,23 +35894,6 @@
    ],
    "children": [
     1029014
-   ]
-  },
-  "1030139": {
-   "name": "Jugadors_d'escacs_de_Sant_Petersburg",
-   "parents": [
-    1095854
-   ],
-   "children": []
-  },
-  "1095854": {
-   "name": "Esportistes_de_Sant_Petersburg",
-   "parents": [
-    550970
-   ],
-   "children": [
-    1030139,
-    1095859
    ]
   },
   "1030808": {
@@ -37318,13 +37401,6 @@
    "name": "Partits_polítics_de_França_desapareguts",
    "parents": [
     589485
-   ],
-   "children": []
-  },
-  "1095859": {
-   "name": "Ciclistes_de_Sant_Petersburg",
-   "parents": [
-    1095854
    ],
    "children": []
   },
@@ -39544,6 +39620,13 @@
    ],
    "children": []
   },
+  "2057193": {
+   "name": "Geografia_de_Hubei",
+   "parents": [
+    1792866
+   ],
+   "children": []
+  },
   "1232945": {
    "name": "Anàlisis_en_sang",
    "parents": [
@@ -41672,7 +41755,8 @@
     1625775
    ],
    "children": [
-    1601112
+    1601112,
+    1601568
    ]
   },
   "1409674": {
@@ -41809,13 +41893,6 @@
    "name": "Windows_10",
    "parents": [
     20868
-   ],
-   "children": []
-  },
-  "1421494": {
-   "name": "Trastorns_d'apèndixs_cutanis",
-   "parents": [
-    1037979
    ],
    "children": []
   },
@@ -42092,6 +42169,13 @@
    "parents": [
     144737,
     151025
+   ],
+   "children": []
+  },
+  "1578802": {
+   "name": "Animadors_japonesos",
+   "parents": [
+    518991
    ],
    "children": []
   },
@@ -42723,6 +42807,7 @@
     1173285
    ],
    "children": [
+    1874080,
     1871970,
     1874307,
     1873991,
@@ -43287,6 +43372,44 @@
    ],
    "children": []
   },
+  "2012631": {
+   "name": "Polítics_catalans_del_segle_XXI",
+   "parents": [
+    2012630
+   ],
+   "children": [
+    2012681,
+    1682319,
+    1621950,
+    1999173,
+    2025029,
+    1676615,
+    1999177,
+    1564498,
+    1682262,
+    1682266,
+    2054369,
+    1677794,
+    2012642,
+    1650660,
+    1650662,
+    2012647,
+    1650664,
+    1650665,
+    2012649,
+    2012650,
+    2012652,
+    2012653,
+    2012671
+   ]
+  },
+  "1564498": {
+   "name": "Regidors_de_l'Ajuntament_de_Barcelona_de_la_corporació_2015-2019",
+   "parents": [
+    2012631
+   ],
+   "children": []
+  },
   "1565300": {
    "name": "Premis_Feroz",
    "parents": [
@@ -43793,6 +43916,14 @@
    ],
    "children": []
   },
+  "1601568": {
+   "name": "Dramaturgs_francesos_del_segle_XIX",
+   "parents": [
+    1460258,
+    1574030
+   ],
+   "children": []
+  },
   "1601628": {
    "name": "Dramaturgs_espanyols_del_segle_XX",
    "parents": [
@@ -44074,6 +44205,13 @@
    "name": "Excursionistes_barcelonins",
    "parents": [
     992631
+   ],
+   "children": []
+  },
+  "1621950": {
+   "name": "Membres_del_Consell_Metropolità_de_l'Àrea_Metropolitana_de_Barcelona_(2015-2019)",
+   "parents": [
+    2012631
    ],
    "children": []
   },
@@ -44657,6 +44795,34 @@
    ],
    "children": []
   },
+  "1650660": {
+   "name": "Regidors_de_l'Ajuntament_de_Barcelona_de_la_corporació_2011-2015",
+   "parents": [
+    2012631
+   ],
+   "children": []
+  },
+  "1650662": {
+   "name": "Regidors_de_l'Ajuntament_de_Barcelona_de_la_corporació_2007-2011",
+   "parents": [
+    2012631
+   ],
+   "children": []
+  },
+  "1650664": {
+   "name": "Regidors_de_l'Ajuntament_de_Barcelona_de_la_corporació_2003-2007",
+   "parents": [
+    2012631
+   ],
+   "children": []
+  },
+  "1650665": {
+   "name": "Regidors_de_l'Ajuntament_de_Barcelona_de_la_corporació_1999-2003",
+   "parents": [
+    2012631
+   ],
+   "children": []
+  },
   "1651300": {
    "name": "Fusió_musical",
    "parents": [
@@ -44948,6 +45114,13 @@
    ],
    "children": []
   },
+  "1676615": {
+   "name": "Regidors_de_l'Ajuntament_de_Barcelona_de_la_corporació_2019-2023",
+   "parents": [
+    2012631
+   ],
+   "children": []
+  },
   "1676934": {
    "name": "Doctrina_social_de_l'Església_catòlica",
    "parents": [
@@ -44955,27 +45128,17 @@
    ],
    "children": []
   },
-  "2012631": {
-   "name": "Polítics_catalans_del_segle_XXI",
-   "parents": [
-    2012630
-   ],
-   "children": [
-    2012642,
-    2025029,
-    2012647,
-    2012649,
-    2012650,
-    2012681,
-    2012652,
-    2012653,
-    2012671
-   ]
-  },
   "1677742": {
    "name": "Fons_i_col·leccions_de_la_Biblioteca_de_Catalunya",
    "parents": [
     1064606
+   ],
+   "children": []
+  },
+  "1677794": {
+   "name": "Regidors_de_l'Ajuntament_de_Badalona_de_la_corporació_2015-2019",
+   "parents": [
+    2012631
    ],
    "children": []
   },
@@ -45073,6 +45236,7 @@
    ],
    "children": [
     2033408,
+    2054369,
     1999173,
     2033277,
     1999177,
@@ -45088,6 +45252,7 @@
   "1682262": {
    "name": "Diputats_provincials_de_Barcelona_de_la_corporació_2019-2023",
    "parents": [
+    2012631,
     1682258
    ],
    "children": []
@@ -45095,6 +45260,7 @@
   "1682266": {
    "name": "Diputats_provincials_de_Barcelona_de_la_corporació_2015-2019",
    "parents": [
+    2012631,
     1682258
    ],
    "children": []
@@ -45102,6 +45268,7 @@
   "1682319": {
    "name": "Diputats_provincials_de_Barcelona_de_la_corporació_2011-2015",
    "parents": [
+    2012631,
     1682258
    ],
    "children": []
@@ -46601,13 +46768,6 @@
    ],
    "children": []
   },
-  "1801478": {
-   "name": "Científics_de_Sant_Petersburg",
-   "parents": [
-    550970
-   ],
-   "children": []
-  },
   "1802211": {
    "name": "Científics_moscovites",
    "parents": [
@@ -47068,6 +47228,13 @@
     588860,
     987572,
     1626966
+   ],
+   "children": []
+  },
+  "2057334": {
+   "name": "Geografia_de_Sichuan",
+   "parents": [
+    1792866
    ],
    "children": []
   },
@@ -48053,6 +48220,13 @@
    "name": "Morts_de_càncer_a_Mèxic",
    "parents": [
     1828747
+   ],
+   "children": []
+  },
+  "1874080": {
+   "name": "Guionistes_de_cinema_xinesos",
+   "parents": [
+    1512844
    ],
    "children": []
   },
@@ -49213,6 +49387,13 @@
    ],
    "children": []
   },
+  "2056900": {
+   "name": "Geografia_de_Shandong",
+   "parents": [
+    1792866
+   ],
+   "children": []
+  },
   "1949629": {
    "name": "Mujeres_Libres",
    "parents": [
@@ -49771,10 +49952,24 @@
    ],
    "children": []
   },
+  "1994684": {
+   "name": "Naixements_del_1628",
+   "parents": [
+    1569874
+   ],
+   "children": []
+  },
   "1994775": {
    "name": "Pel·lícules_ajornades_a_causa_de_la_pandèmia_de_COVID-19",
    "parents": [
     1744131
+   ],
+   "children": []
+  },
+  "1994831": {
+   "name": "Naixements_del_1663",
+   "parents": [
+    1569874
    ],
    "children": []
   },
@@ -49851,6 +50046,7 @@
   "1999173": {
    "name": "Diputats_provincials_de_Barcelona_de_la_corporació_2007-2011",
    "parents": [
+    2012631,
     1682258
    ],
    "children": []
@@ -49858,6 +50054,7 @@
   "1999177": {
    "name": "Diputats_provincials_de_Barcelona_de_la_corporació_2003-2007",
    "parents": [
+    2012631,
     1682258
    ],
    "children": []
@@ -50136,6 +50333,13 @@
    "name": "Llistes_de_Creus_de_Sant_Jordi",
    "parents": [
     501347
+   ],
+   "children": []
+  },
+  "2017305": {
+   "name": "Activistes_del_segle_XX",
+   "parents": [
+    1459135
    ],
    "children": []
   },
@@ -50481,6 +50685,35 @@
    "name": "Professors_de_dret_valencians",
    "parents": [
     1004080
+   ],
+   "children": []
+  },
+  "2054369": {
+   "name": "Diputats_provincials_de_Barcelona_de_la_corporació_2023-2027",
+   "parents": [
+    2012631,
+    1682258
+   ],
+   "children": []
+  },
+  "2056881": {
+   "name": "Retratistes",
+   "parents": [
+    893080
+   ],
+   "children": []
+  },
+  "2057183": {
+   "name": "Geografia_de_Hebei",
+   "parents": [
+    1792866
+   ],
+   "children": []
+  },
+  "2057336": {
+   "name": "Geografia_de_Liaoning",
+   "parents": [
+    1792866
    ],
    "children": []
   },

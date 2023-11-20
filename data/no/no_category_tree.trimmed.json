@@ -3675,7 +3675,6 @@
    ],
    "children": [
     307105,
-    1324229,
     1574763,
     1788683,
     763121,
@@ -3795,6 +3794,7 @@
     145161,
     1539337,
     1538827,
+    2156809,
     305421,
     1440526,
     415506,
@@ -4604,6 +4604,7 @@
     1099860,
     1164918,
     30872,
+    1164923,
     894046
    ]
   },
@@ -5052,6 +5053,7 @@
    "children": [
     13121,
     1373546,
+    1431723,
     966063,
     864114,
     632310,
@@ -5807,19 +5809,6 @@
     87166
    ]
   },
-  "13369": {
-   "name": "Sykehus",
-   "parents": [
-    1185615
-   ],
-   "children": [
-    708533,
-    619959,
-    1585912,
-    586939,
-    714108
-   ]
-  },
   "1185615": {
    "name": "Helse-_og_omsorgsinstitusjoner",
    "parents": [
@@ -5828,7 +5817,6 @@
    ],
    "children": [
     1288360,
-    13369,
     1241126,
     1288359
    ]
@@ -6701,6 +6689,7 @@
     62564,
     105195,
     788365,
+    1188686,
     1807223,
     1004797,
     70711,
@@ -7548,8 +7537,9 @@
    ],
    "children": [
     1070368,
-    1828224,
+    1120832,
     1787586,
+    1828224,
     1760007,
     14185,
     1550732,
@@ -7767,9 +7757,7 @@
     14205,
     810410
    ],
-   "children": [
-    1763945
-   ]
+   "children": []
   },
   "810410": {
    "name": "Boksing_i_Norge",
@@ -7777,10 +7765,11 @@
     1449477
    ],
    "children": [
-    1724250,
-    14195,
+    1826919,
+    1763945,
     903821,
-    1826919
+    14195,
+    1724250
    ]
   },
   "32195": {
@@ -11436,6 +11425,7 @@
     1090681,
     1576827,
     1286628,
+    52741,
     817212,
     2026939,
     793014,
@@ -11870,7 +11860,6 @@
     315386
    ],
    "children": [
-    2089019,
     19205
    ]
   },
@@ -16994,13 +16983,23 @@
   "30877": {
    "name": "Øl",
    "parents": [
-    172148
+    172148,
+    1164923
    ],
    "children": [
     506712,
     531861,
     171590,
     506727
+   ]
+  },
+  "1164923": {
+   "name": "Øldrikker",
+   "parents": [
+    12192
+   ],
+   "children": [
+    30877
    ]
   },
   "30880": {
@@ -17801,6 +17800,32 @@
    "children": [
     792569,
     206525
+   ]
+  },
+  "1440234": {
+   "name": "Animerte_komiserier_fra_USA",
+   "parents": [
+    1440231
+   ],
+   "children": [
+    695904,
+    172325,
+    1213100,
+    32335,
+    53689
+   ]
+  },
+  "32335": {
+   "name": "Simpsons",
+   "parents": [
+    1440234
+   ],
+   "children": [
+    165699,
+    216006,
+    380689,
+    380726,
+    381148
    ]
   },
   "32347": {
@@ -20305,13 +20330,6 @@
     68604
    ]
   },
-  "40979": {
-   "name": "Dødsfall_i_1016",
-   "parents": [
-    40981
-   ],
-   "children": []
-  },
   "40981": {
    "name": "Dødsfall_på_1000-tallet",
    "parents": [
@@ -20321,7 +20339,6 @@
     337289,
     165262,
     41615,
-    40979,
     63892,
     40984,
     41112,
@@ -21739,6 +21756,7 @@
     42061
    ],
    "children": [
+    2153157,
     770631
    ]
   },
@@ -23910,7 +23928,10 @@
     44755,
     145055
    ],
-   "children": []
+   "children": [
+    2153157,
+    2153118
+   ]
   },
   "145055": {
    "name": "St._Olavs_Orden",
@@ -25217,6 +25238,7 @@
     15289
    ],
    "children": [
+    1120832,
     167556,
     1569412,
     1474342,
@@ -26370,6 +26392,7 @@
     9214
    ],
    "children": [
+    1120832,
     93362,
     670627
    ]
@@ -26663,6 +26686,15 @@
     52702
    ]
   },
+  "52741": {
+   "name": "Teaterkompanier",
+   "parents": [
+    147254
+   ],
+   "children": [
+    73011
+   ]
+  },
   "52742": {
    "name": "Teatre_i_Norge",
    "parents": [
@@ -26790,6 +26822,7 @@
   "53689": {
    "name": "Futurama",
    "parents": [
+    1440234,
     1440249
    ],
    "children": []
@@ -28691,6 +28724,7 @@
    "children": [
     355711,
     128872,
+    1431723,
     77069,
     60144,
     1385279
@@ -29136,7 +29170,6 @@
    "children": [
     1251778,
     502053,
-    1558478,
     290384,
     121425,
     902322,
@@ -31054,7 +31087,8 @@
     792154,
     1578165,
     1393304,
-    241242
+    241242,
+    573950
    ]
   },
   "65704": {
@@ -31066,7 +31100,8 @@
    "children": [
     1521389,
     1513444,
-    1232845
+    1232845,
+    2156782
    ]
   },
   "65706": {
@@ -31080,6 +31115,7 @@
     1804515,
     1259685,
     1155597,
+    2156784,
     1503346,
     1578166,
     1097757,
@@ -32734,10 +32770,11 @@
     380118
    ],
    "children": [
+    1120832,
     81729,
     991617,
-    1902610,
     121298,
+    1902610,
     431573
    ]
   },
@@ -34023,6 +34060,16 @@
    ],
    "children": []
   },
+  "73011": {
+   "name": "Norske_teaterkompanier",
+   "parents": [
+    52741
+   ],
+   "children": [
+    1560758,
+    245710
+   ]
+  },
   "73016": {
    "name": "Skoler_i_Oslo",
    "parents": [
@@ -35034,6 +35081,7 @@
     1652695,
     1652694,
     1643227,
+    2126060,
     1886830,
     607087,
     1571055,
@@ -38542,7 +38590,8 @@
     1040213,
     573976,
     288506,
-    1184828
+    1184828,
+    2153118
    ]
   },
   "93978": {
@@ -38740,13 +38789,12 @@
     105825
    ],
    "children": [
-    1324229,
     1627206,
     1328359,
-    1792860,
+    1440668,
     995794,
     2026294,
-    1440668,
+    1792860,
     2026303
    ]
   },
@@ -39899,7 +39947,8 @@
     16224
    ],
    "children": [
-    100816
+    100816,
+    286797
    ]
   },
   "100822": {
@@ -42577,7 +42626,8 @@
     110934,
     126550,
     116313,
-    1485210
+    1485210,
+    1163771
    ]
   },
   "110952": {
@@ -46537,7 +46587,6 @@
     22936
    ],
    "children": [
-    1561574,
     1272648,
     1932812,
     1624749,
@@ -50061,6 +50110,13 @@
     883985
    ]
   },
+  "165699": {
+   "name": "Simpsons-episoder",
+   "parents": [
+    32335
+   ],
+   "children": []
+  },
   "165788": {
    "name": "Skoger_i_Norge",
    "parents": [
@@ -51057,10 +51113,20 @@
     896223
    ]
   },
+  "172325": {
+   "name": "South_Park",
+   "parents": [
+    1440234
+   ],
+   "children": [
+    172324
+   ]
+  },
   "172324": {
    "name": "Figurer_i_South_Park",
    "parents": [
-    929794
+    929794,
+    172325
    ],
    "children": []
   },
@@ -51963,6 +52029,7 @@
     1683433
    ],
    "children": [
+    1120832,
     905426,
     182907,
     402495
@@ -54617,6 +54684,13 @@
    ],
    "children": []
   },
+  "216006": {
+   "name": "Simpsons-maler",
+   "parents": [
+    32335
+   ],
+   "children": []
+  },
   "216293": {
    "name": "Arthur-legenden",
    "parents": [
@@ -56665,6 +56739,15 @@
     167677
    ],
    "children": []
+  },
+  "245710": {
+   "name": "Tramteatret",
+   "parents": [
+    73011
+   ],
+   "children": [
+    827616
+   ]
   },
   "246027": {
    "name": "Norske_filmfotografer",
@@ -60339,6 +60422,15 @@
    ],
    "children": []
   },
+  "286797": {
+   "name": "Komiserier",
+   "parents": [
+    140033
+   ],
+   "children": [
+    1440231
+   ]
+  },
   "1220070": {
    "name": "Kriminalprogrammer_på_TV",
    "parents": [
@@ -60575,6 +60667,7 @@
    ],
    "children": [
     1557914,
+    2155474,
     1167196,
     1167203,
     1167211,
@@ -60613,7 +60706,8 @@
     1182772,
     1182773,
     1182774,
-    1182775
+    1182775,
+    1182776
    ]
   },
   "288906": {
@@ -60882,8 +60976,7 @@
    ],
    "children": [
     809186,
-    627186,
-    454605
+    627186
    ]
   },
   "290396": {
@@ -63494,6 +63587,7 @@
     1493364,
     1827000,
     315289,
+    2089019,
     1322300,
     1520062
    ]
@@ -65382,6 +65476,7 @@
     1178787,
     1557934,
     1175231,
+    1784135,
     1175241,
     1168332,
     1175272,
@@ -65459,6 +65554,7 @@
     29467
    ],
    "children": [
+    2026329,
     338655
    ]
   },
@@ -65677,7 +65773,8 @@
     47123
    ],
    "children": [
-    1736600
+    1736600,
+    2152933
    ]
   },
   "340104": {
@@ -66408,7 +66505,8 @@
     290384
    ],
    "children": [
-    346226
+    346226,
+    454605
    ]
   },
   "346226": {
@@ -70215,7 +70313,8 @@
    "parents": [
     349459,
     1045368,
-    1045374
+    1045374,
+    1045569
    ],
    "children": []
   },
@@ -70296,7 +70395,8 @@
     1045202
    ],
    "children": [
-    377026
+    377026,
+    1195686
    ]
   },
   "377026": {
@@ -71220,7 +71320,15 @@
   "380689": {
    "name": "Figurer_i_Simpsons",
    "parents": [
+    32335,
     929794
+   ],
+   "children": []
+  },
+  "380726": {
+   "name": "Stemmer_i_Simpsons",
+   "parents": [
+    32335
    ],
    "children": []
   },
@@ -71236,6 +71344,13 @@
    "name": "De_første_norske_borgerkriger",
    "parents": [
     401407
+   ],
+   "children": []
+  },
+  "381148": {
+   "name": "Gjesteskuespillere_i_Simpsons",
+   "parents": [
+    32335
    ],
    "children": []
   },
@@ -77003,7 +77118,9 @@
     1341630,
     33442
    ],
-   "children": []
+   "children": [
+    2152933
+   ]
   },
   "431509": {
    "name": "Alan_Parsons_Project-album",
@@ -79001,6 +79118,22 @@
    ],
    "children": []
   },
+  "841830": {
+   "name": "Bloggere",
+   "parents": [
+    1431723
+   ],
+   "children": [
+    449150
+   ]
+  },
+  "449150": {
+   "name": "Norske_bloggere",
+   "parents": [
+    841830
+   ],
+   "children": []
+  },
   "449175": {
    "name": "Hjernen",
    "parents": [
@@ -79704,7 +79837,7 @@
    "name": "Aerodynamikk",
    "parents": [
     1337755,
-    290384
+    627186
    ],
    "children": []
   },
@@ -86312,18 +86445,6 @@
    ],
    "children": []
   },
-  "1624749": {
-   "name": "Minnesmerker_for_andre_verdenskrig_og_holocaust",
-   "parents": [
-    9241,
-    126496,
-    138232
-   ],
-   "children": [
-    1272648,
-    1353924
-   ]
-  },
   "1108874": {
    "name": "Byggverk_i_Australia",
    "parents": [
@@ -92107,10 +92228,20 @@
    ],
    "children": []
   },
+  "573950": {
+   "name": "Bukter_i_Atlanterhavet",
+   "parents": [
+    65700
+   ],
+   "children": [
+    573948
+   ]
+  },
   "573948": {
    "name": "Bukter_i_Middelhavet",
    "parents": [
-    26351
+    26351,
+    573950
    ],
    "children": []
   },
@@ -93016,10 +93147,27 @@
    ],
    "children": []
   },
+  "586889": {
+   "name": "Byer_på_Gazastripen",
+   "parents": [
+    1578123
+   ],
+   "children": [
+    2150565
+   ]
+  },
+  "1578123": {
+   "name": "Gazastripens_geografi",
+   "parents": [
+    1578437
+   ],
+   "children": [
+    586889
+   ]
+  },
   "586939": {
    "name": "Psykiatriske_sykehus",
    "parents": [
-    13369,
     32967
    ],
    "children": []
@@ -95763,13 +95911,6 @@
     619728
    ]
   },
-  "619959": {
-   "name": "Sykehusavdelinger",
-   "parents": [
-    13369
-   ],
-   "children": []
-  },
   "620416": {
    "name": "Bladhullmøll",
    "parents": [
@@ -95937,6 +96078,22 @@
     589053
    ],
    "children": []
+  },
+  "622992": {
+   "name": "Elver_i_Tsjukotka",
+   "parents": [
+    2026329
+   ],
+   "children": []
+  },
+  "2026329": {
+   "name": "Tsjukotkas_geografi",
+   "parents": [
+    338652
+   ],
+   "children": [
+    622992
+   ]
   },
   "623118": {
    "name": "Aviser_etablert_i_2002",
@@ -100265,10 +100422,23 @@
    ],
    "children": []
   },
+  "2153157": {
+   "name": "Haakon_VII",
+   "parents": [
+    42038,
+    44782
+   ],
+   "children": [
+    959710,
+    685446,
+    735455
+   ]
+  },
   "685446": {
    "name": "Haakon_VIIs_frihetskors",
    "parents": [
-    70742
+    70742,
+    2153157
    ],
    "children": []
   },
@@ -100854,6 +101024,13 @@
    "name": "Sovjetiske_komponister",
    "parents": [
     417812
+   ],
+   "children": []
+  },
+  "695904": {
+   "name": "Politiskolen",
+   "parents": [
+    1440234
    ],
    "children": []
   },
@@ -101631,7 +101808,6 @@
   "708533": {
    "name": "Militærsykehus",
    "parents": [
-    13369,
     99303
    ],
    "children": []
@@ -101914,26 +102090,10 @@
    ],
    "children": []
   },
-  "714108": {
-   "name": "Private_sykehus",
-   "parents": [
-    13369
-   ],
-   "children": [
-    714265
-   ]
-  },
   "714232": {
    "name": "Konsuler",
    "parents": [
     17678
-   ],
-   "children": []
-  },
-  "714265": {
-   "name": "Private_sykehus_i_Norge",
-   "parents": [
-    714108
    ],
    "children": []
   },
@@ -102045,7 +102205,9 @@
    "parents": [
     13175
    ],
-   "children": []
+   "children": [
+    2153807
+   ]
   },
   "716245": {
    "name": "Halvøyer_på_Svalbard",
@@ -103180,7 +103342,8 @@
   "735455": {
    "name": "Haakon_VIIs_70-årsmedalje",
    "parents": [
-    70742
+    70742,
+    2153157
    ],
    "children": []
   },
@@ -103558,13 +103721,26 @@
     820052
    ]
   },
+  "1431723": {
+   "name": "Blogging",
+   "parents": [
+    1404857,
+    1407133
+   ],
+   "children": [
+    739256,
+    1431724,
+    841830
+   ]
+  },
   "739256": {
    "name": "Blogger",
    "parents": [
     38182,
     63098,
     1405601,
-    632310
+    632310,
+    1431723
    ],
    "children": [
     1820189
@@ -105501,7 +105677,8 @@
   "1431724": {
    "name": "Bloggtjenester",
    "parents": [
-    63098
+    63098,
+    1431723
    ],
    "children": [
     780714
@@ -109467,6 +109644,13 @@
     837954
    ]
   },
+  "827616": {
+   "name": "Tramteatret-album",
+   "parents": [
+    245710
+   ],
+   "children": []
+  },
   "828160": {
    "name": "Personer_tilknyttet_Geelmuyden.Kiese",
    "parents": [
@@ -111545,20 +111729,12 @@
    ],
    "children": []
   },
-  "860809": {
-   "name": "Universitetet_i_Nordland",
-   "parents": [
-    944088
-   ],
-   "children": []
-  },
   "944088": {
    "name": "Utdanningsinstitusjoner_etablert_i_1994",
    "parents": [
     1045364
    ],
    "children": [
-    860809,
     1923886,
     1075055
    ]
@@ -117614,7 +117790,8 @@
   "959710": {
    "name": "Haakon_VIIs_Frihetsmedalje",
    "parents": [
-    70742
+    70742,
+    2153157
    ],
    "children": []
   },
@@ -130352,6 +130529,17 @@
     1287927
    ]
   },
+  "1120832": {
+   "name": "Blitz",
+   "parents": [
+    796899,
+    76350,
+    51716,
+    70125,
+    410888
+   ],
+   "children": []
+  },
   "1120920": {
    "name": "Publikasjoner_etablert_i_1937",
    "parents": [
@@ -133228,6 +133416,13 @@
    ],
    "children": []
   },
+  "1182776": {
+   "name": "KrF-politikere_i_Troms",
+   "parents": [
+    380316
+   ],
+   "children": []
+  },
   "1998017": {
    "name": "Nettverksutstyr",
    "parents": [
@@ -133555,6 +133750,22 @@
    "name": "Danske_klassiske_filologer",
    "parents": [
     20108
+   ],
+   "children": []
+  },
+  "1163771": {
+   "name": "Konstantinopel",
+   "parents": [
+    115471
+   ],
+   "children": [
+    1163770
+   ]
+  },
+  "1163770": {
+   "name": "Personer_fra_Konstantinopel",
+   "parents": [
+    1163771
    ],
    "children": []
   },
@@ -135495,6 +135706,13 @@
    ],
    "children": []
   },
+  "1188686": {
+   "name": "TV-produksjonsselskaper",
+   "parents": [
+    13666
+   ],
+   "children": []
+  },
   "1189056": {
    "name": "Porselensglasur",
    "parents": [
@@ -136577,6 +136795,13 @@
    "children": [
     1380518
    ]
+  },
+  "1213100": {
+   "name": "Familien_Griffin",
+   "parents": [
+    1440234
+   ],
+   "children": []
   },
   "2027922": {
    "name": "Fyrtøy",
@@ -140899,6 +141124,18 @@
    ],
    "children": []
   },
+  "1624749": {
+   "name": "Minnesmerker_for_andre_verdenskrig_og_holocaust",
+   "parents": [
+    9241,
+    126496,
+    138232
+   ],
+   "children": [
+    1272648,
+    1353924
+   ]
+  },
   "1272968": {
    "name": "Mesternes_Mester-deltakere",
    "parents": [
@@ -142787,14 +143024,6 @@
    "children": [
     1820434
    ]
-  },
-  "1324229": {
-   "name": "Krigshistorie",
-   "parents": [
-    95309,
-    95305
-   ],
-   "children": []
   },
   "1324449": {
    "name": "Overflater",
@@ -148816,7 +149045,7 @@
    "children": []
   },
   "1409178": {
-   "name": "Johannes'_åpenbaring",
+   "name": "Johannes’_åpenbaring",
    "parents": [
     786795
    ],
@@ -151313,6 +151542,15 @@
     384063
    ],
    "children": []
+  },
+  "1440231": {
+   "name": "Animerte_komiserier",
+   "parents": [
+    286797
+   ],
+   "children": [
+    1440234
+   ]
   },
   "1440238": {
    "name": "Animerte_eventyrserier",
@@ -156260,13 +156498,6 @@
    ],
    "children": []
   },
-  "1558478": {
-   "name": "Oppdrift",
-   "parents": [
-    61272
-   ],
-   "children": []
-  },
   "1558710": {
    "name": "Personer_fra_Mytilini",
    "parents": [
@@ -156326,6 +156557,7 @@
   "1560758": {
    "name": "Norske_figurteaterkompanier",
    "parents": [
+    73011,
     1576827
    ],
    "children": []
@@ -156356,8 +156588,7 @@
   "1561574": {
    "name": "Minnesmerker_for_første_verdenskrig",
    "parents": [
-    15250,
-    138232
+    15250
    ],
    "children": []
   },
@@ -157538,7 +157769,10 @@
    "parents": [
     14188
    ],
-   "children": []
+   "children": [
+    1578123,
+    2154383
+   ]
   },
   "1578165": {
    "name": "Filmer_lagt_til_Atlanterhavet",
@@ -157789,13 +158023,6 @@
    "name": "Filmer_lagt_til_politimiljø",
    "parents": [
     29961
-   ],
-   "children": []
-  },
-  "1585912": {
-   "name": "Filmer_lagt_til_sykehusmiljø",
-   "parents": [
-    13369
    ],
    "children": []
   },
@@ -166864,7 +167091,7 @@
   "1763945": {
    "name": "Norgesmestere_i_boksing",
    "parents": [
-    14195,
+    810410,
     804296,
     1724250
    ],
@@ -167433,6 +167660,22 @@
     426948
    ],
    "children": []
+  },
+  "1784134": {
+   "name": "Høyre-ordførere_i_Vestland",
+   "parents": [
+    1784135
+   ],
+   "children": []
+  },
+  "1784135": {
+   "name": "Høyre-politikere_i_Vestland",
+   "parents": [
+    337845
+   ],
+   "children": [
+    1784134
+   ]
   },
   "1784259": {
    "name": "Kinesisk_kampsport",
@@ -177076,7 +177319,7 @@
   "2089019": {
    "name": "Norgesmestere_i_skytesport",
    "parents": [
-    315289,
+    315386,
     804296
    ],
    "children": []
@@ -178479,6 +178722,13 @@
    ],
    "children": []
   },
+  "2126060": {
+   "name": "Verdenscup_vinteren_2023/24",
+   "parents": [
+    1096892
+   ],
+   "children": []
+  },
   "2126500": {
    "name": "Boligbygninger_i_Trondheim",
    "parents": [
@@ -179176,7 +179426,9 @@
    "parents": [
     454558
    ],
-   "children": []
+   "children": [
+    2153310
+   ]
   },
   "2150263": {
    "name": "Lister_over_ordførere_i_Finnmark",
@@ -179185,10 +179437,34 @@
    ],
    "children": []
   },
+  "2150565": {
+   "name": "Gaza_by",
+   "parents": [
+    586889
+   ],
+   "children": [
+    2150564,
+    2150269
+   ]
+  },
+  "2150269": {
+   "name": "Personer_fra_byen_Gaza",
+   "parents": [
+    2150565
+   ],
+   "children": []
+  },
   "2150386": {
    "name": "Beste_film_ved_Hong_Kong_Film_Awards",
    "parents": [
     16845
+   ],
+   "children": []
+  },
+  "2150564": {
+   "name": "Nabolag_i_Gaza_by",
+   "parents": [
+    2150565
    ],
    "children": []
   },
@@ -179233,6 +179509,71 @@
    "name": "Planetflekker",
    "parents": [
     2116088
+   ],
+   "children": []
+  },
+  "2152933": {
+   "name": "Geodeter",
+   "parents": [
+    339782,
+    431393
+   ],
+   "children": []
+  },
+  "2153118": {
+   "name": "Dronning_Sonjas_skolepris",
+   "parents": [
+    44782,
+    660836
+   ],
+   "children": []
+  },
+  "2153310": {
+   "name": "Personer_tilknyttet_Hamas'_militære_gren",
+   "parents": [
+    2150204
+   ],
+   "children": []
+  },
+  "2153807": {
+   "name": "Mottakere_av_Bigsbymedaljen",
+   "parents": [
+    716074
+   ],
+   "children": []
+  },
+  "2154383": {
+   "name": "Sykehus_på_Gazastripen",
+   "parents": [
+    1578437
+   ],
+   "children": []
+  },
+  "2155474": {
+   "name": "Ap-politikere_i_Vestland",
+   "parents": [
+    337846
+   ],
+   "children": []
+  },
+  "2156782": {
+   "name": "Bukter_i_Nordishavet",
+   "parents": [
+    65704
+   ],
+   "children": []
+  },
+  "2156784": {
+   "name": "Bukter_i_Stillehavet",
+   "parents": [
+    65706
+   ],
+   "children": []
+  },
+  "2156809": {
+   "name": "Mottakere_av_Nordisk_Film_Prisen",
+   "parents": [
+    16845
    ],
    "children": []
   },
