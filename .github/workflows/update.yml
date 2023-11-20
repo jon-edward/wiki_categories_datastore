@@ -3,6 +3,7 @@ name: "Update"
 on:
   push:
     branches:
+    - main
   schedule:
     - cron: "30 17 * * *"
 
@@ -19,7 +20,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests wiki_data_dump networkx
+          pip install requests wiki_data_dump networkx tqdm numpy pandas
 
       - name: Clone utilities
         run: |
