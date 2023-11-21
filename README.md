@@ -1,13 +1,6 @@
 # wiki_categories_datastore
 
-This repository contains automatic deployments of the Wikipedia category tree in JSON format.
-
-Each language includes metadata for when each source was last updated on the data dump mirror; the full 
-category tree with category names, edges, and page count (compressed in gzip format); and a plain-text trimmed category tree. 
-
-The trimmed category tree contains categories with page counts higher than the 65th percentile of all 
-categories in the language (excluding main topic classifications, which are not trimmed regardless), 
-then trimmed to a distance of at most 99 steps from a main topic classification.
+This repository contains automatic deployments of the Wikipedia category tree.
 
 Assets are sourced from the [Wikimedia data dumps](https://dumps.wikimedia.org/).
 
@@ -33,14 +26,12 @@ Deployments are available for the following Wikipedia languages:
  - [ms](https://ms.wikipedia.org)
  - [nl](https://nl.wikipedia.org)
  - [no](https://no.wikipedia.org)
- - [pl](https://pl.wikipedia.org)
  - [pt](https://pt.wikipedia.org)
  - [ro](https://ro.wikipedia.org)
  - [ru](https://ru.wikipedia.org)
  - [sh](https://sh.wikipedia.org)
  - [sr](https://sr.wikipedia.org)
  - [sv](https://sv.wikipedia.org)
- - [tr](https://tr.wikipedia.org)
  - [tt](https://tt.wikipedia.org)
  - [uk](https://uk.wikipedia.org)
  - [vi](https://vi.wikipedia.org)
