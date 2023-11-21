@@ -1,6 +1,14 @@
 # wiki_categories_datastore
 
-This repository contains automatic deployments of the Wikipedia category tree.
+This repository contains automatic deployments of the Wikipedia category tree, trimmed by the algorithm described in 
+[process_language](https://github.com/jon-edward/wiki_categories/blob/main/wiki_categories/scripts/save_graph_run.py).
+
+**The data stored here does not contain faithful reproductions of the Wikipedia category trees. In an effort to make a 
+trimmed category tree, many categories are excluded and there are many edges added that do not exist in their respective 
+true category graphs.**
+
+To construct the full (untrimmed) category tree, see [CategoryTree](https://github.com/jon-edward/wiki_categories/blob/main/wiki_categories/core/category_tree.py) 
+and [Assets](https://github.com/jon-edward/wiki_categories/blob/main/wiki_categories/core/assets/__init__.py),
 
 Assets are sourced from the [Wikimedia data dumps](https://dumps.wikimedia.org/).
 
