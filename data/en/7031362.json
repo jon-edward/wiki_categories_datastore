@@ -1,0 +1,1 @@
+{"name": "Electric_rail_transport", "id": 7031362, "predecessors": [{"name": "Electric_vehicles", "id": 961956}, {"name": "Rail_infrastructure", "id": 2962895}], "successors": [{"name": "Electric_locomotives", "id": 1389555}, {"name": "Traction_power_networks", "id": 33861770}, {"name": "Magnetic_levitation", "id": 36409773}]}

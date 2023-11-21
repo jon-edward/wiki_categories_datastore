@@ -1,0 +1,1 @@
+{"name": "Contaminació", "id": 680055, "predecessors": [{"name": "Salut_pública", "id": 436412}, {"name": "Ciències_ambientals", "id": 1176345}], "successors": [{"name": "Contaminació_atmosfèrica", "id": 680884}, {"name": "Contaminants_orgànics_persistents", "id": 948465}]}

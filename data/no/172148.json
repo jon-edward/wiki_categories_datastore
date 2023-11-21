@@ -1,0 +1,1 @@
+{"name": "Alkoholholdige_drikker", "id": 172148, "predecessors": [{"name": "Alkohol", "id": 326220}, {"name": "Drikke", "id": 12192}], "successors": [{"name": "Øl", "id": 30877}, {"name": "Brennevin", "id": 30880}, {"name": "Vin", "id": 30886}, {"name": "Cocktailer", "id": 75816}, {"name": "Sterkvin", "id": 107558}]}

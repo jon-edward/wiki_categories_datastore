@@ -1,0 +1,1 @@
+{"name": "Medisinske_behandlinger", "id": 29942, "predecessors": [{"name": "Medisin", "id": 13341}], "successors": [{"name": "Førstehjelp", "id": 56680}, {"name": "Kirurgi", "id": 63801}, {"name": "Abort", "id": 147396}, {"name": "Kreftbehandling", "id": 1373534}, {"name": "Tvangsbehandling", "id": 1970269}]}

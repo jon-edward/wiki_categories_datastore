@@ -1,0 +1,1 @@
+{"name": "Kolbenmaschine", "id": 5454995, "predecessors": [{"name": "Energietechnik", "id": 239318}, {"name": "Antriebstechnik", "id": 491624}], "successors": [{"name": "Verbrennungsmotor", "id": 340642}, {"name": "Kolbenpumpe", "id": 4814513}]}

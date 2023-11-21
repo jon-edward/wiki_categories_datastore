@@ -1,0 +1,1 @@
+{"name": "Printing_processes", "id": 25245567, "predecessors": [{"name": "Forming_processes", "id": 42703403}, {"name": "Industrial_processes", "id": 1186213}, {"name": "Printing", "id": 774014}], "successors": [{"name": "Relief_printing", "id": 24355302}, {"name": "Non-impact_printing", "id": 25246426}, {"name": "3D_printing_processes", "id": 52018641}]}

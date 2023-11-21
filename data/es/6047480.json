@@ -1,0 +1,1 @@
+{"name": "Fallecidos_por_gripe", "id": 6047480, "predecessors": [{"name": "Fallecidos_por_enfermedades_infecciosas", "id": 5032833}, {"name": "Gripe", "id": 438880}], "successors": [{"name": "Fallecidos_por_la_gripe_española", "id": 6299582}]}

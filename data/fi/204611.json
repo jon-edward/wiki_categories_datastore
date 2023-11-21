@@ -1,0 +1,1 @@
+{"name": "Sähkövoima", "id": 204611, "predecessors": [{"name": "Energiantuotanto", "id": 22278}, {"name": "Sähkömagnetismi", "id": 27392}, {"name": "Sähkötekniikka", "id": 18833}], "successors": [{"name": "Generaattorit", "id": 887759}]}

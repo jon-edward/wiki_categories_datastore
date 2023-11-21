@@ -1,0 +1,1 @@
+{"name": "Windows_technology", "id": 43126260, "predecessors": [{"name": "Microsoft_Windows", "id": 1930130}], "successors": [{"name": "Windows_code_pages", "id": 2766670}, {"name": "Microsoft_Windows_security_technology", "id": 7788034}, {"name": "Windows_environment_variables", "id": 43453988}, {"name": "Windows_device_names", "id": 52130520}]}

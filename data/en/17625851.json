@@ -1,0 +1,1 @@
+{"name": "Planetary_rovers", "id": 17625851, "predecessors": [{"name": "Off-road_vehicles", "id": 945069}, {"name": "Spacecraft", "id": 723329}, {"name": "Unmanned_ground_vehicles", "id": 11052817}, {"name": "Outer_space", "id": 36093771}], "successors": [{"name": "Lunar_rovers", "id": 34181061}, {"name": "Mars_rovers", "id": 40979951}]}

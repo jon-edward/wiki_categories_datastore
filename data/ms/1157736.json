@@ -1,0 +1,1 @@
+{"name": "Penyakit_serebrovaskular", "id": 1157736, "predecessors": [{"name": "Angiologi", "id": 970681}, {"name": "Gangguan_neurologi", "id": 161538}], "successors": [{"name": "Angin_ahmar", "id": 1157505}, {"name": "Kematian_akibat_angin_ahmar", "id": 898554}]}

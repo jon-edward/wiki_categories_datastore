@@ -1,0 +1,1 @@
+{"name": "Windows-spill", "id": 118171, "predecessors": [{"name": "Microsoft_Windows", "id": 58690}, {"name": "Microsoft", "id": 58797}], "successors": [{"name": "Games_for_Windows-spill", "id": 499106}]}

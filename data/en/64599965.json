@@ -1,0 +1,1 @@
+{"name": "Magnetic_confinement_fusion_devices", "id": 64599965, "predecessors": [{"name": "Magnetic_confinement_fusion", "id": 64599885}, {"name": "Particle_traps", "id": 64710360}, {"name": "Fusion_power", "id": 1834810}], "successors": [{"name": "Tokamaks", "id": 24315993}, {"name": "Stellarators", "id": 24316017}]}

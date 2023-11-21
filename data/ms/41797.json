@@ -1,0 +1,1 @@
+{"name": "Pengangkutan_darat", "id": 41797, "predecessors": [{"name": "Pengangkutan", "id": 11130}], "successors": [{"name": "Kereta", "id": 23403}, {"name": "Keselamatan_jalan_raya", "id": 62405}, {"name": "Peraturan_jalan_raya", "id": 62406}, {"name": "Lori", "id": 80328}, {"name": "Kereta_kabel", "id": 115440}, {"name": "Infrastruktur_jalan_raya", "id": 144418}]}

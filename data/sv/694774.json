@@ -1,0 +1,1 @@
+{"name": "Internetprotokoll", "id": 694774, "predecessors": [{"name": "Nätverksprotokoll", "id": 122411}], "successors": [{"name": "Nätverksskiktsprotokoll", "id": 8050634}, {"name": "Datalänkskiktsprotokoll", "id": 8050635}, {"name": "Fysiskt_skikt-protokoll", "id": 8050636}, {"name": "IP-adresser", "id": 8051008}]}

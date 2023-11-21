@@ -1,0 +1,1 @@
+{"name": "Pankkitoimi", "id": 27806, "predecessors": [{"name": "Rahoitus", "id": 34371}, {"name": "Talous", "id": 27543}], "successors": [{"name": "Pankit", "id": 27805}, {"name": "Luottoyhtiöt", "id": 64965}, {"name": "Pankinjohtajat", "id": 405291}, {"name": "Korko", "id": 473089}, {"name": "Suomen_pankkitoimi", "id": 1125081}, {"name": "Maksuvälineet", "id": 1409671}]}

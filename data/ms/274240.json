@@ -1,0 +1,1 @@
+{"name": "Diagnosis_perubatan", "id": 274240, "predecessors": [{"name": "Perubatan", "id": 8047}, {"name": "Kognisi", "id": 81768}, {"name": "Tingkah_laku_manusia", "id": 82073}], "successors": [{"name": "Tanda_perubatan", "id": 274239}, {"name": "Ujian_perubatan", "id": 998648}]}

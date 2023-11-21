@@ -1,0 +1,1 @@
+{"name": "Dataliikenne", "id": 201974, "predecessors": [{"name": "Tietoliikenne", "id": 20750}], "successors": [{"name": "Tietoliikenneprotokollat", "id": 20759}, {"name": "Internet", "id": 21514}, {"name": "Langaton_dataliikenne", "id": 201975}, {"name": "Tietokoneverkko", "id": 876957}, {"name": "Suoratoistopalvelut", "id": 1553759}, {"name": "Radio", "id": 26848}]}

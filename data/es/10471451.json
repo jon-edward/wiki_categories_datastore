@@ -1,0 +1,1 @@
+{"name": "Tipos_de_viaje", "id": 10471451, "predecessors": [{"name": "Viaje", "id": 2763778}], "successors": [{"name": "Viaje_en_el_tiempo", "id": 988836}, {"name": "Tipos_de_turismo", "id": 2897906}, {"name": "Viaje_interestelar", "id": 5726668}, {"name": "Andar", "id": 6998070}]}

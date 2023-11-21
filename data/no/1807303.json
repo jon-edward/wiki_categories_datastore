@@ -1,0 +1,1 @@
+{"name": "Koronavirus_vaksinearbeid", "id": 1807303, "predecessors": [{"name": "Medikamentbruk_mot_covid-19", "id": 1819623}, {"name": "Vaksinasjon", "id": 1775861}, {"name": "RNA-virus", "id": 81444}], "successors": [{"name": "Covid-19-vaksiner", "id": 1807869}]}

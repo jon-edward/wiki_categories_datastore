@@ -1,0 +1,1 @@
+{"name": "Cryptographic_hardware", "id": 1069918, "predecessors": [{"name": "Cryptography", "id": 692160}], "successors": [{"name": "Encryption_devices", "id": 1068514}, {"name": "Smart_cards", "id": 15056030}]}

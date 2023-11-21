@@ -1,0 +1,1 @@
+{"name": "Tempestades", "id": 4610011, "predecessors": [{"name": "Desastres_naturais", "id": 92888}, {"name": "Fenômenos_meteorológicos", "id": 49289}], "successors": [{"name": "Ciclones_tropicais", "id": 1423461}, {"name": "Tornados", "id": 1896122}, {"name": "Ciclones_extratropicais", "id": 6362243}]}

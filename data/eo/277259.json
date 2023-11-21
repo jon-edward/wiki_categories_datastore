@@ -1,0 +1,1 @@
+{"name": "Transportaj_akcidentoj", "id": 277259, "predecessors": [{"name": "Akcidentoj", "id": 592589}, {"name": "Katastrofoj", "id": 40359}, {"name": "Transporto", "id": 51301}], "successors": [{"name": "Mortintoj_en_transportaj_akcidentoj", "id": 592587}, {"name": "Vrakoj", "id": 671520}, {"name": "Aviadilaj_akcidentoj_kaj_incidentoj", "id": 214277}]}

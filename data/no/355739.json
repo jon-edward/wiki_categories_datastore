@@ -1,0 +1,1 @@
+{"name": "Kompilatorer", "id": 355739, "predecessors": [{"name": "Programmeringsspråk", "id": 14222}], "successors": [{"name": "Parsingalgoritmer", "id": 1369682}, {"name": "C++_kompilatorer", "id": 1397808}, {"name": "C_kompilatorer", "id": 1397964}]}

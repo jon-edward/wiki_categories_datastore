@@ -1,0 +1,1 @@
+{"name": "Vind", "id": 252396, "predecessors": [{"name": "Meteorologi", "id": 10378}, {"name": "Vær", "id": 855921}], "successors": [{"name": "Sykloner", "id": 255340}, {"name": "Vindenergi", "id": 1031722}, {"name": "Vinder", "id": 1226177}]}

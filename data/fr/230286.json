@@ -1,0 +1,1 @@
+{"name": "Vitamine", "id": 230286, "predecessors": [{"name": "Additif_alimentaire", "id": 301431}, {"name": "Biomolécule", "id": 516351}, {"name": "Nutriment", "id": 1887221}], "successors": [{"name": "Vitamine_D", "id": 4796928}, {"name": "Carence_en_vitamine", "id": 14328426}, {"name": "Vitamine_B", "id": 14328602}]}

@@ -1,0 +1,1 @@
+{"name": "Metalurgio", "id": 83077, "predecessors": [{"name": "Materiala_scienco", "id": 91395}, {"name": "Metaloj", "id": 39234}, {"name": "Minado", "id": 225314}, {"name": "Kemio", "id": 21203}], "successors": [{"name": "Metaloj", "id": 39234}, {"name": "Industriaj_fornoj", "id": 301308}, {"name": "Hungaraj_inĝenieroj_pri_metalurgio", "id": 541603}]}

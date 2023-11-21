@@ -1,0 +1,1 @@
+{"name": "Vehicles_militars_terrestres", "id": 1099148, "predecessors": [{"name": "Vehicles_terrestres", "id": 995436}, {"name": "Ciència_militar", "id": 241414}], "successors": [{"name": "Tancs", "id": 375457}, {"name": "Vehicles_de_combat_d'infanteria", "id": 1137961}, {"name": "Transports_blindats_de_personal", "id": 1235164}]}

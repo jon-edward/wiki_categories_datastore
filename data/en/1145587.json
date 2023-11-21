@@ -1,0 +1,1 @@
+{"name": "Broadband", "id": 1145587, "predecessors": [{"name": "Internet_access", "id": 3534405}, {"name": "Telecommunications_equipment", "id": 1952309}], "successors": [{"name": "Digital_subscriber_line", "id": 34446750}, {"name": "Fiber_to_the_premises", "id": 53947842}]}

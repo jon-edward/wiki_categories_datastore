@@ -1,0 +1,1 @@
+{"name": "Detaljhandel", "id": 39910, "predecessors": [{"name": "Handel", "id": 29119}], "successors": [{"name": "Apotek", "id": 69774}, {"name": "Detaljistselskaper", "id": 78053}, {"name": "Bokhandler", "id": 255523}, {"name": "Dagligvarehandel", "id": 1301070}, {"name": "Bensinstasjoner", "id": 1419518}]}

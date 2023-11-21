@@ -1,0 +1,1 @@
+{"name": "Outil_de_gestion_de_projet", "id": 4542073, "predecessors": [{"name": "Gestion_de_la_construction", "id": 2279626}, {"name": "Gestion_de_projet", "id": 176734}, {"name": "Outil_du_management", "id": 4277999}], "successors": [{"name": "Workflow", "id": 428437}, {"name": "Diagramme", "id": 866141}, {"name": "Logiciel_de_gestion_de_projets", "id": 1700336}]}

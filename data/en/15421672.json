@@ -1,0 +1,1 @@
+{"name": "Primary_care", "id": 15421672, "predecessors": [{"name": "Health_care", "id": 35880954}], "successors": [{"name": "General_practice", "id": 839794}, {"name": "Clinics", "id": 41261645}]}

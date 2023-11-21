@@ -1,0 +1,1 @@
+{"name": "Bahan_api", "id": 302380, "predecessors": [{"name": "Bahan_kimia", "id": 84676}, {"name": "Bahan", "id": 58300}, {"name": "Sumber_tenaga", "id": 302386}], "successors": [{"name": "Bahan_api_fosil", "id": 302379}, {"name": "Bahan_api_nuklear", "id": 979809}]}

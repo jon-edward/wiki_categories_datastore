@@ -1,0 +1,1 @@
+{"name": "Sânge", "id": 1243585, "predecessors": [{"name": "Aparatul_cardiovascular", "id": 172754}, {"name": "Fluide_corporale", "id": 2363825}, {"name": "Hematologie", "id": 185584}, {"name": "Țesuturi", "id": 761059}], "successors": [{"name": "Celule_sanguine", "id": 1328889}, {"name": "Proteine_plasmatice", "id": 2529829}]}

@@ -1,0 +1,1 @@
+{"name": "Windenergie", "id": 323598, "predecessors": [{"name": "Aerodynamica", "id": 2143057}, {"name": "Duurzame_energie", "id": 807616}, {"name": "Wind", "id": 80719}], "successors": [{"name": "Windmolen", "id": 793137}, {"name": "Windturbine", "id": 2187607}]}

@@ -1,0 +1,1 @@
+{"name": "Patologi", "id": 161082, "predecessors": [{"name": "Perubatan", "id": 8047}], "successors": [{"name": "Patologi_anatomi", "id": 986778}, {"name": "Mikrobiologi", "id": 161080}, {"name": "Hematopatologi", "id": 1119787}]}

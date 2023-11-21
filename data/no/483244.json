@@ -1,0 +1,1 @@
+{"name": "Energiforsyning", "id": 483244, "predecessors": [{"name": "Energi", "id": 96350}, {"name": "Infrastruktur", "id": 199693}], "successors": [{"name": "Kraftselskaper", "id": 72267}, {"name": "Oljerørledninger", "id": 732847}, {"name": "Gassrørledninger", "id": 733091}, {"name": "Elektrisk_energiforsyning", "id": 1148220}, {"name": "Bensinstasjoner", "id": 1419518}]}

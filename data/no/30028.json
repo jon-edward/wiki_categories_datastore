@@ -1,0 +1,1 @@
+{"name": "Eksplosiver", "id": 30028, "predecessors": [{"name": "Eksplosjoner", "id": 1196207}, {"name": "Teknikk", "id": 147152}], "successors": [{"name": "Pyroteknikk", "id": 30027}, {"name": "Bomber", "id": 563347}, {"name": "Granater", "id": 638291}, {"name": "Torpedoer", "id": 773934}, {"name": "Sprengstoff", "id": 94880}]}

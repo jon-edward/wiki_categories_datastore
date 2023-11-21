@@ -1,0 +1,1 @@
+{"name": "Beschaffungslogistik", "id": 1282273, "predecessors": [{"name": "Logistik", "id": 264068}], "successors": [{"name": "Losgrößenplanung", "id": 8866326}, {"name": "Materialbedarfsermittlung", "id": 9613623}]}

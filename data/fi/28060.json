@@ -1,0 +1,1 @@
+{"name": "Unix", "id": 28060, "predecessors": [{"name": "Käyttöjärjestelmät", "id": 18183}], "successors": [{"name": "Linux", "id": 17885}, {"name": "MacOS", "id": 56547}, {"name": "GNU", "id": 109851}, {"name": "Unix-ohjelmat", "id": 1558489}, {"name": "Alustariippumattomat_ohjelmat", "id": 1558541}]}

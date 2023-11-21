@@ -1,0 +1,1 @@
+{"name": "Debian", "id": 1362748, "predecessors": [{"name": "Ideelle_organisasjoner", "id": 53193}, {"name": "Linux-distribusjoner", "id": 768398}, {"name": "Linuxdistribusjoner_for_x86-32", "id": 1368074}, {"name": "Linuxdistribusjoner_for_x86-64", "id": 1368077}, {"name": "Operativsystemer", "id": 31525}], "successors": [{"name": "Debianderivater", "id": 1364796}]}

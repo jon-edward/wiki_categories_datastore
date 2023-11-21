@@ -1,0 +1,1 @@
+{"name": "Anjing_pemburu", "id": 442289, "predecessors": [{"name": "Anjing_pekerja", "id": 442281}, {"name": "Jenis_anjing", "id": 442276}, {"name": "Pemburuan", "id": 661762}], "successors": [{"name": "Hound", "id": 646737}, {"name": "Spaniel", "id": 747020}, {"name": "Terier", "id": 747150}]}

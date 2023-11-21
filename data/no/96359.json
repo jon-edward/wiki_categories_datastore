@@ -1,0 +1,1 @@
+{"name": "Telefoni", "id": 96359, "predecessors": [{"name": "Muntlig_kommunikasjon", "id": 1381701}, {"name": "Telekommunikasjon", "id": 30381}], "successors": [{"name": "Mobiltelefoni", "id": 257797}, {"name": "Voip", "id": 355703}, {"name": "Fasttelefoni", "id": 451451}, {"name": "Kommunikasjonssatellitter", "id": 451492}, {"name": "Telefonnumre", "id": 1233905}]}

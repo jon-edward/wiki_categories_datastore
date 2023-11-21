@@ -1,0 +1,1 @@
+{"name": "Virus", "id": 125619, "predecessors": [{"name": "Mikrobiologi", "id": 28657}, {"name": "Virale_infeksjoner", "id": 247373}, {"name": "Virologi", "id": 130323}, {"name": "Organismer", "id": 16252}], "successors": [{"name": "DNA-virus", "id": 81438}, {"name": "RNA-virus", "id": 81444}, {"name": "Coronaviridae", "id": 1841603}]}

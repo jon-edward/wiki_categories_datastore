@@ -1,0 +1,1 @@
+{"name": "Vermögensdelikt", "id": 6190627, "predecessors": [{"name": "Kriminalfall", "id": 825863}], "successors": [{"name": "Erpressungsfall", "id": 2273515}, {"name": "Steuerdelikt", "id": 8255511}, {"name": "Betrugsfall", "id": 8293153}]}

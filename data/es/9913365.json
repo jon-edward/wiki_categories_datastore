@@ -1,0 +1,1 @@
+{"name": "Cocina_de_aprovechamiento", "id": 9913365, "predecessors": [{"name": "Cocina", "id": 358568}, {"name": "Preservación_de_alimentos", "id": 614658}, {"name": "Comunicación_oral", "id": 4575507}], "successors": [{"name": "Casquería", "id": 3080155}, {"name": "Platos_rellenos", "id": 10016196}, {"name": "Platos_con_pan", "id": 10023958}]}

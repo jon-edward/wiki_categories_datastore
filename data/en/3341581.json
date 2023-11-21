@@ -1,0 +1,1 @@
+{"name": "Internet_hosting", "id": 3341581, "predecessors": [{"name": "Internet", "id": 700895}, {"name": "Knowledge_sharing", "id": 17224923}, {"name": "Online_services", "id": 33315753}], "successors": [{"name": "Internet_service_providers", "id": 887423}, {"name": "Web_hosting", "id": 1084677}, {"name": "File_hosting", "id": 2045846}]}

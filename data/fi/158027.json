@@ -1,0 +1,1 @@
+{"name": "Kaivosteollisuus", "id": 158027, "predecessors": [{"name": "Teollisuus", "id": 24384}, {"name": "Tiede", "id": 19816}, {"name": "Geologia", "id": 20768}], "successors": [{"name": "Kaivosyhtiöt", "id": 158026}, {"name": "Kaivokset", "id": 170610}, {"name": "Kullankaivuu", "id": 1328326}]}

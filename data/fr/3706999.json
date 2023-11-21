@@ -1,0 +1,1 @@
+{"name": "Ligne_de_bus", "id": 3706999, "predecessors": [{"name": "Autobus", "id": 204666}, {"name": "Transport_en_commun", "id": 89315}], "successors": [{"name": "Liste_de_lignes_de_bus", "id": 4812971}]}

@@ -1,0 +1,1 @@
+{"name": "Autobús", "id": 995432, "predecessors": [{"name": "Indústria_automobilística", "id": 1390838}, {"name": "Transport_públic", "id": 305528}, {"name": "Vehicles_terrestres", "id": 995436}], "successors": [{"name": "Línies_d'autobús_de_Barcelona", "id": 1304258}]}

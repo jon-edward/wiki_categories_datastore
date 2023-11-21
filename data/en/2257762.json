@@ -1,0 +1,1 @@
+{"name": "Beef", "id": 2257762, "predecessors": [{"name": "Livestock", "id": 917009}, {"name": "Meat", "id": 757474}, {"name": "Animal_products", "id": 2304680}], "successors": [{"name": "Cuts_of_beef", "id": 5283249}]}

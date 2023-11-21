@@ -1,0 +1,1 @@
+{"name": "Conditionnement_et_stockage_du_vin", "id": 3524383, "predecessors": [{"name": "Élevage_et_conservation_du_vin", "id": 9742592}, {"name": "Logistique", "id": 441337}], "successors": [{"name": "Bouteille_de_vin", "id": 9744075}]}

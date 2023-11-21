@@ -1,0 +1,1 @@
+{"name": "Spårvagnar", "id": 65776, "predecessors": [{"name": "Järnvägsfordon", "id": 224208}, {"name": "Spårvägar", "id": 61558}], "successors": [{"name": "Spårvagnstillverkare", "id": 6189506}, {"name": "Göteborgsspårvagnar", "id": 8095918}, {"name": "Stockholmsspårvagnar", "id": 8095923}, {"name": "Spårvagnsmodeller", "id": 8096416}]}

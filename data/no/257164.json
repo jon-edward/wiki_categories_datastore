@@ -1,0 +1,1 @@
+{"name": "Databaser", "id": 257164, "predecessors": [{"name": "Informasjonssystemer", "id": 1148206}, {"name": "Programvare", "id": 9080}, {"name": "Registre", "id": 1101592}], "successors": [{"name": "SQL", "id": 355672}, {"name": "Databasehåndteringssystem", "id": 1798986}, {"name": "Datamodellering", "id": 1944704}]}

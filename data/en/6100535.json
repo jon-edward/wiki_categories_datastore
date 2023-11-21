@@ -1,0 +1,1 @@
+{"name": "Windows_CE", "id": 6100535, "predecessors": [{"name": "Microsoft_operating_systems", "id": 2043508}, {"name": "Real-time_operating_systems", "id": 2148723}], "successors": [{"name": "Windows_CE_devices", "id": 2893098}, {"name": "Windows_Mobile", "id": 21082954}, {"name": "Windows_Phone", "id": 35024388}]}

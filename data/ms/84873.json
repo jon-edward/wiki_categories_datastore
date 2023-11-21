@@ -1,0 +1,1 @@
+{"name": "Enzim", "id": 84873, "predecessors": [{"name": "Protein", "id": 84877}, {"name": "Bahan_kimia", "id": 84676}], "successors": [{"name": "Koenzim", "id": 971549}, {"name": "EC_2.7.1", "id": 1133629}]}

@@ -1,0 +1,1 @@
+{"name": "Bactericides", "id": 38440505, "predecessors": [{"name": "Antimicrobials", "id": 7466358}, {"name": "Biocides", "id": 38440289}], "successors": [{"name": "Antibiotics", "id": 695084}, {"name": "Antiseptics", "id": 901310}, {"name": "Disinfectants", "id": 3107232}]}

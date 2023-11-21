@@ -1,0 +1,1 @@
+{"name": "Tramvaie", "id": 1240500, "predecessors": [{"name": "Transport_public", "id": 230300}, {"name": "Vehicule_electrice", "id": 812717}, {"name": "Material_rulant", "id": 253772}], "successors": [{"name": "Linii_de_tramvai", "id": 2015949}, {"name": "Tramvaiele_din_România", "id": 477239}, {"name": "Tramvaiul_din_Antwerpen", "id": 1846591}]}

@@ -1,0 +1,1 @@
+{"name": "Biltyper", "id": 114404, "predecessors": [{"name": "Biler", "id": 72032}, {"name": "Transportmidler", "id": 85117}], "successors": [{"name": "Konseptbiler", "id": 199634}, {"name": "Sportsbiler", "id": 351930}, {"name": "Lastebiler", "id": 411418}, {"name": "Mikrobiler", "id": 815086}, {"name": "Elbiler", "id": 967152}, {"name": "Hybridbiler", "id": 1695548}]}

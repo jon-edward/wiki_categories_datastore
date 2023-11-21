@@ -1,0 +1,1 @@
+{"name": "Molecular_biology_techniques", "id": 15668807, "predecessors": [{"name": "Biological_techniques_and_tools", "id": 5881429}, {"name": "Laboratory_techniques", "id": 1305783}], "successors": [{"name": "DNA_sequencing", "id": 16791603}, {"name": "Microarrays", "id": 24114689}, {"name": "RNA_sequencing", "id": 53406007}, {"name": "Genomics_techniques", "id": 64572315}]}

@@ -1,0 +1,1 @@
+{"name": "Protein_families", "id": 5689164, "predecessors": [{"name": "Protein_classification", "id": 26850944}, {"name": "Protein_structure", "id": 740536}], "successors": [{"name": "Protein_domains", "id": 2647525}, {"name": "Glycoside_hydrolase_families", "id": 17437843}, {"name": "Nuclear_receptors", "id": 62860215}]}

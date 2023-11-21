@@ -1,0 +1,1 @@
+{"name": "Logistikk", "id": 98204, "predecessors": [{"name": "Handel", "id": 29119}, {"name": "Transport", "id": 13648}], "successors": [{"name": "Postombæring", "id": 78739}, {"name": "Emballasje", "id": 156758}, {"name": "Logistikkselskaper", "id": 320752}, {"name": "Militær_logistikk", "id": 1679988}, {"name": "Godstransport", "id": 1985109}]}

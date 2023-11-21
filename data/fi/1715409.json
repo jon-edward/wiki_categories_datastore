@@ -1,0 +1,1 @@
+{"name": "Verkkoprotokollat", "id": 1715409, "predecessors": [{"name": "Tietoliikenneprotokollat", "id": 20759}], "successors": [{"name": "Salausprotokollat", "id": 22488}, {"name": "TCP/IP", "id": 22577}, {"name": "Ethernet", "id": 23029}, {"name": "OSI-sovelluskerros", "id": 1515474}, {"name": "IEEE_802", "id": 25351}]}

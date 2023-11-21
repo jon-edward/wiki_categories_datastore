@@ -1,0 +1,1 @@
+{"name": "Pokok", "id": 120296, "predecessors": [{"name": "Hutan", "id": 77603}, {"name": "Tumbuhan", "id": 27952}], "successors": [{"name": "Pokok_beracun", "id": 102266}, {"name": "Pokok_perubatan", "id": 883126}, {"name": "Pokok_hiasan", "id": 883132}, {"name": "Kayu", "id": 985808}]}

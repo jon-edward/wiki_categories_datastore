@@ -1,0 +1,1 @@
+{"name": "Waste_processing_sites", "id": 6225843, "predecessors": [{"name": "Waste_management", "id": 1233052}, {"name": "Cartography", "id": 716309}], "successors": [{"name": "Incinerators", "id": 4792430}, {"name": "Radioactive_waste_repositories", "id": 11662081}]}

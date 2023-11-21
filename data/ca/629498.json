@@ -1,0 +1,1 @@
+{"name": "Busos", "id": 629498, "predecessors": [{"name": "Components_elèctrics", "id": 53195}, {"name": "Maquinari", "id": 15470}, {"name": "Xarxes_informàtiques", "id": 33743}], "successors": [{"name": "Busos_serials", "id": 659323}]}

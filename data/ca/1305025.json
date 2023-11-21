@@ -1,0 +1,1 @@
+{"name": "Escoles_de_negocis", "id": 1305025, "predecessors": [{"name": "Empresa", "id": 462330}, {"name": "Educació", "id": 20148}], "successors": [{"name": "Alumnes_d'ESADE", "id": 604229}, {"name": "Alumnes_de_la_HEC_Paris", "id": 1817399}, {"name": "Alumnes_de_la_Wharton_School", "id": 1817527}, {"name": "Alumnes_de_l'IESE", "id": 1817947}]}

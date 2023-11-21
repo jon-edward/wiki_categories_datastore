@@ -1,0 +1,1 @@
+{"name": "Light_therapy", "id": 27706489, "predecessors": [{"name": "Light", "id": 4464083}, {"name": "Medical_treatments", "id": 694975}, {"name": "Therapy", "id": 870156}], "successors": [{"name": "Light_therapy_advocates", "id": 71261245}]}

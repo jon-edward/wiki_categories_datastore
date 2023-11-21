@@ -1,0 +1,1 @@
+{"name": "Tickets", "id": 23239649, "predecessors": [{"name": "Ephemera", "id": 1273608}, {"name": "Legal_documents", "id": 694070}], "successors": [{"name": "Airline_tickets", "id": 2294654}, {"name": "Fare_collection_systems", "id": 2315292}, {"name": "Ticket_sales_companies", "id": 27974105}, {"name": "British_Rail_fares_and_ticketing", "id": 34875168}]}

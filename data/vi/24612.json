@@ -1,0 +1,1 @@
+{"name": "Hệ_điều_hành_tự_do", "id": 24612, "predecessors": [{"name": "Hệ_điều_hành", "id": 5194}, {"name": "Phần_mềm_hệ_thống_tự_do", "id": 78397}, {"name": "Phần_mềm_tự_do", "id": 4939}], "successors": [{"name": "Linux", "id": 5196}, {"name": "Debian", "id": 16188}, {"name": "BSD", "id": 84757}]}

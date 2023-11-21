@@ -1,0 +1,1 @@
+{"name": "Avioane", "id": 28760, "predecessors": [{"name": "Aeronave", "id": 51490}], "successors": [{"name": "Avioane_militare", "id": 33094}, {"name": "Componente_de_avion", "id": 214579}, {"name": "Avioane_spațiale", "id": 748769}, {"name": "Avioane_militare_fără_pilot", "id": 398663}, {"name": "Avioane_bireactoare", "id": 1243303}]}

@@ -1,0 +1,1 @@
+{"name": "Medical_error", "id": 21255822, "predecessors": [{"name": "Health_care_quality", "id": 16191835}, {"name": "Medical_diagnosis", "id": 16705234}, {"name": "Patient_safety", "id": 15446018}], "successors": [{"name": "Medical_malpractice", "id": 11891988}, {"name": "Psychiatric_false_diagnosis", "id": 38904587}]}

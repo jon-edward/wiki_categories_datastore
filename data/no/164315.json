@@ -1,0 +1,1 @@
+{"name": "Hvalfangst", "id": 164315, "predecessors": [{"name": "Fangst", "id": 313491}, {"name": "Hvaler", "id": 66124}], "successors": [{"name": "Hvalfangstselskaper", "id": 588913}, {"name": "Hvalfangststasjoner", "id": 588941}, {"name": "Hvalbåter", "id": 615688}, {"name": "Hvalkokerier", "id": 615692}]}

@@ -1,0 +1,1 @@
+{"name": "Experimentalflugzeug", "id": 383221, "predecessors": [{"name": "Experimentatorik", "id": 7707690}, {"name": "Flugzeugtyp", "id": 239348}, {"name": "Luftfahrzeug", "id": 1054297}], "successors": [{"name": "Muskelkraft-Flugzeug", "id": 5481838}, {"name": "X-Flugzeug", "id": 6142027}, {"name": "Flugauto", "id": 8577528}, {"name": "Lifting_Body", "id": 8587578}]}

@@ -1,0 +1,1 @@
+{"name": "Sauna", "id": 25162, "predecessors": [{"name": "Peseytyminen", "id": 1060813}, {"name": "Tilat", "id": 322628}, {"name": "Ihmisen_toiminta", "id": 826193}], "successors": [{"name": "Saunakulttuuri", "id": 890847}, {"name": "Saunatyypit", "id": 890848}, {"name": "Yleiset_saunat", "id": 890856}]}

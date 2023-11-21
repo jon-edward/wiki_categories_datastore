@@ -1,0 +1,1 @@
+{"name": "Maquinaria_agrícola", "id": 698961, "predecessors": [{"name": "Herramientas_agrícolas", "id": 245714}, {"name": "Máquinas", "id": 324649}, {"name": "Agricultura_por_tipo", "id": 6513547}], "successors": [{"name": "Tractores", "id": 5064422}, {"name": "Fabricantes_de_maquinaria_agrícola", "id": 5394940}]}

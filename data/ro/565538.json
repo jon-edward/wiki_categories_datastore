@@ -1,0 +1,1 @@
+{"name": "Produse_animaliere", "id": 565538, "predecessors": [{"name": "Animale", "id": 31429}, {"name": "Materiale_naturale", "id": 201480}], "successors": [{"name": "Produse_lactate", "id": 104498}, {"name": "Produse_apicole", "id": 105656}, {"name": "Carne", "id": 201372}, {"name": "Pene", "id": 2016288}, {"name": "Ouă", "id": 2356716}]}

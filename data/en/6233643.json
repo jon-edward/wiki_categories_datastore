@@ -1,0 +1,1 @@
+{"name": "Suicides_by_gas", "id": 6233643, "predecessors": [{"name": "Suicide_by_poison", "id": 74571678}, {"name": "Gases", "id": 1645013}], "successors": [{"name": "Suicides_by_carbon_monoxide_poisoning", "id": 18688002}]}

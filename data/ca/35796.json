@@ -1,0 +1,1 @@
+{"name": "Topologia", "id": 35796, "predecessors": [{"name": "Geometria", "id": 13572}, {"name": "Física", "id": 12670}], "successors": [{"name": "Teoria_de_grafs", "id": 468663}, {"name": "Topologia_diferencial", "id": 768157}, {"name": "Topòlegs", "id": 1198991}, {"name": "Corbes", "id": 267876}, {"name": "Superfícies", "id": 267890}, {"name": "Grups_de_Lie", "id": 904411}]}

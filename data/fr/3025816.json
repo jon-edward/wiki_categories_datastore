@@ -1,0 +1,1 @@
+{"name": "Bouteille", "id": 3025816, "predecessors": [{"name": "Emballage", "id": 981107}, {"name": "Récipient", "id": 304539}], "successors": [{"name": "Bouteille_de_vin", "id": 9744075}]}

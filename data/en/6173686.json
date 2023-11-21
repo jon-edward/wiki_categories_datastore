@@ -1,0 +1,1 @@
+{"name": "Windows_administration", "id": 6173686, "predecessors": [{"name": "Microsoft_Windows", "id": 1930130}, {"name": "System_administration", "id": 2052362}, {"name": "Windows_software", "id": 978482}], "successors": [{"name": "Windows_remote_administration_software", "id": 41456930}, {"name": "Backup_software_for_Windows", "id": 41510347}]}

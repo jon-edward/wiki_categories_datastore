@@ -1,0 +1,1 @@
+{"name": "Poŝto", "id": 45369, "predecessors": [{"name": "Komunikado", "id": 52357}, {"name": "Organizaĵoj", "id": 79542}, {"name": "Transporto", "id": 51301}], "successors": [{"name": "Filatelo", "id": 321336}, {"name": "Historio_de_poŝto", "id": 601420}, {"name": "Poŝtkartoj", "id": 631242}, {"name": "Leteroj", "id": 660006}, {"name": "Poŝto_en_Usono", "id": 524869}]}

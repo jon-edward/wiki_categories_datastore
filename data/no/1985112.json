@@ -1,0 +1,1 @@
+{"name": "Persontransport", "id": 1985112, "predecessors": [{"name": "Transport", "id": 13648}], "successors": [{"name": "Passasjerfly", "id": 100770}, {"name": "Kollektivtrafikk", "id": 248506}, {"name": "Passasjerskip", "id": 483912}, {"name": "Persontog_med_navn", "id": 1193188}, {"name": "Bilutleiefirmaer", "id": 2025753}]}

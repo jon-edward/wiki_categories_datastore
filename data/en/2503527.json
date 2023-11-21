@@ -1,0 +1,1 @@
+{"name": "Fish_products", "id": 2503527, "predecessors": [{"name": "Animal_products", "id": 2304680}, {"name": "Fish_processing", "id": 11967779}], "successors": [{"name": "Fermented_fish", "id": 52233504}, {"name": "Fish_markets", "id": 6229656}, {"name": "Fishmongers_(people)", "id": 58964463}]}

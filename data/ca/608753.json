@@ -1,0 +1,1 @@
+{"name": "Producció", "id": 608753, "predecessors": [{"name": "Empresa", "id": 462330}, {"name": "Enginyeria_per_disciplina", "id": 1203479}], "successors": [{"name": "Processos_industrials", "id": 642707}, {"name": "Fabricació", "id": 817824}, {"name": "Dissenyadors_de_producció", "id": 2010318}]}

@@ -1,0 +1,1 @@
+{"name": "Forsikring", "id": 60544, "predecessors": [{"name": "Finans", "id": 54339}, {"name": "Privatrett", "id": 70558}], "successors": [{"name": "Forsikringsselskaper", "id": 60543}, {"name": "Trygd", "id": 68510}, {"name": "Norske_assurandører", "id": 1058366}]}

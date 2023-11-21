@@ -1,0 +1,1 @@
+{"name": "Hidangan_daging", "id": 882418, "predecessors": [{"name": "Daging", "id": 91508}, {"name": "Makanan", "id": 28867}], "successors": [{"name": "Hidangan_ayam", "id": 882428}, {"name": "Hidangan_lembu", "id": 882429}, {"name": "Hidangan_babi", "id": 882434}, {"name": "Barbeku", "id": 954286}, {"name": "Sate", "id": 1122387}, {"name": "Sosej", "id": 946780}]}

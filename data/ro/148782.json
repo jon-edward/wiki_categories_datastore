@@ -1,0 +1,1 @@
+{"name": "Vehicule_aeriene", "id": 148782, "predecessors": [{"name": "Transporturi_aeriene", "id": 28686}, {"name": "Aviație", "id": 748757}], "successors": [{"name": "Rachete", "id": 28750}, {"name": "Aeronave", "id": 51490}]}

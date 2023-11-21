@@ -1,0 +1,1 @@
+{"name": "Mașini_electrice", "id": 852518, "predecessors": [{"name": "Electrotehnică", "id": 112689}, {"name": "Inginerie_electrică", "id": 40646}, {"name": "Mașini", "id": 753896}], "successors": [{"name": "Motoare_electrice", "id": 852538}, {"name": "Transformatoare_electrice", "id": 852560}, {"name": "Generatoare_electrice", "id": 852563}]}

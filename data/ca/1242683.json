@@ -1,0 +1,1 @@
+{"name": "Instruments_financers", "id": 1242683, "predecessors": [{"name": "Finances", "id": 159072}], "successors": [{"name": "Derivats_financers", "id": 1242682}, {"name": "Bons", "id": 1242695}, {"name": "Empreses_asseguradores", "id": 801970}]}

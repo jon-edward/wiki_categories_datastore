@@ -1,0 +1,1 @@
+{"name": "Sotilasajoneuvot", "id": 168296, "predecessors": [{"name": "Ajoneuvot", "id": 463418}, {"name": "Sotilaskalusto", "id": 58091}], "successors": [{"name": "Panssarivaunut", "id": 43217}, {"name": "Panssariajoneuvot", "id": 241546}, {"name": "Puolitelavaunut", "id": 380991}, {"name": "Maastokuorma-autot", "id": 799158}]}

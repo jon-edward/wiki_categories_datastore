@@ -1,0 +1,1 @@
+{"name": "Transporto_en_Caen", "id": 549152, "predecessors": [{"name": "Caen", "id": 326512}, {"name": "Transporto_en_Normandio", "id": 542130}, {"name": "Transporto", "id": 51301}, {"name": "Transporto_en_Francio", "id": 211587}], "successors": [{"name": "Tramtransporto_en_Caen", "id": 549150}]}

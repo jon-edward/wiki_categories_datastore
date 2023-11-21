@@ -1,0 +1,1 @@
+{"name": "Microsoft_Windows", "id": 12044, "predecessors": [{"name": "Software_Microsoftu", "id": 161569}, {"name": "Operační_systémy", "id": 4429}], "successors": [{"name": "Komponenty_Windows", "id": 162630}, {"name": "Software_pro_Windows", "id": 271782}, {"name": "Windows_Phone", "id": 833069}, {"name": "Software_pro_Windows_Mobile", "id": 462860}]}

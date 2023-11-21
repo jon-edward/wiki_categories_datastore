@@ -1,0 +1,1 @@
+{"name": "Meteorologi", "id": 71588, "predecessors": [{"name": "Cuaca", "id": 39507}, {"name": "Sains", "id": 8013}], "successors": [{"name": "Awan", "id": 72866}, {"name": "Kimia_alam_sekitar", "id": 160800}, {"name": "Siklon_tropika", "id": 299727}, {"name": "Termodinamik_atmosfera", "id": 999015}, {"name": "Klimatologi", "id": 160103}, {"name": "Kerpasan", "id": 302104}]}

@@ -1,0 +1,1 @@
+{"name": "Příměstské_železnice", "id": 107597, "predecessors": [{"name": "Dopravní_systémy", "id": 105559}, {"name": "Metro", "id": 46997}, {"name": "Městská_doprava", "id": 76704}, {"name": "Konstrukce_železničních_drah", "id": 116491}, {"name": "Dopravní_stavby", "id": 19972}], "successors": [{"name": "Meziměstské_tramvaje_a_vlakotramvaje", "id": 196683}]}

@@ -1,0 +1,1 @@
+{"name": "Ujian_perubatan", "id": 998648, "predecessors": [{"name": "Diagnosis_perubatan", "id": 274240}, {"name": "Sains", "id": 8013}], "successors": [{"name": "Refleks", "id": 881979}, {"name": "Ujian_darah", "id": 1044140}]}

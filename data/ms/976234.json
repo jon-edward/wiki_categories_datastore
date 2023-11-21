@@ -1,0 +1,1 @@
+{"name": "Pemvaksinan", "id": 976234, "predecessors": [{"name": "Bioteknologi", "id": 76470}, {"name": "Imunologi", "id": 970168}, {"name": "Kesihatan_awam", "id": 86423}, {"name": "Pediatrik", "id": 970597}], "successors": [{"name": "Pengeluar_vaksin", "id": 1042875}, {"name": "Vaksin", "id": 1042933}]}

@@ -1,0 +1,1 @@
+{"name": "Examination", "id": 1711416, "predecessors": [{"name": "Certifiering", "id": 3893976}, {"name": "Pedagogiska_mätningar", "id": 8603910}, {"name": "Utbildning", "id": 110193}], "successors": [{"name": "Betyg", "id": 405857}]}

@@ -1,0 +1,1 @@
+{"name": "Carne_de_cerdo", "id": 3166047, "predecessors": [{"name": "Carnes_por_animal", "id": 10005986}, {"name": "Cerdos", "id": 8081198}], "successors": [{"name": "Charcutería", "id": 2868734}, {"name": "Platos_de_cerdo", "id": 2910847}, {"name": "Cortes_de_cerdo", "id": 3166033}, {"name": "Jamones", "id": 4216919}]}

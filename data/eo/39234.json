@@ -1,0 +1,1 @@
+{"name": "Metaloj", "id": 39234, "predecessors": [{"name": "Konstrumaterialoj", "id": 432702}, {"name": "Kristaloj", "id": 82648}, {"name": "Metalurgio", "id": 83077}, {"name": "Substancoj", "id": 104811}], "successors": [{"name": "Metalurgio", "id": 83077}, {"name": "Metaloprilaborado", "id": 567222}, {"name": "Arĝento", "id": 553204}, {"name": "Paladio", "id": 673925}]}

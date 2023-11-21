@@ -1,0 +1,1 @@
+{"name": "Pesawat", "id": 128703, "predecessors": [{"name": "Kenderaan", "id": 23565}, {"name": "Penerbangan", "id": 127791}], "successors": [{"name": "Komponen_pesawat", "id": 128946}, {"name": "Konfigurasi_pesawat", "id": 129070}, {"name": "Pengeluar_pesawat", "id": 138055}, {"name": "Pesawat_tentera", "id": 28970}, {"name": "Pesawat_enjin_tunggal", "id": 304406}]}

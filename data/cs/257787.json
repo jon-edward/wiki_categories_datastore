@@ -1,0 +1,1 @@
+{"name": "Výstupní_zařízení", "id": 257787, "predecessors": [{"name": "Hardware", "id": 4487}], "successors": [{"name": "Monitory", "id": 150469}, {"name": "Zvukové_karty", "id": 326191}, {"name": "Displeje", "id": 961540}, {"name": "Počítačové_tiskárny", "id": 1035561}]}

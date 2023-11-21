@@ -1,0 +1,1 @@
+{"name": "Feu_de_forêt", "id": 8626818, "predecessors": [{"name": "Forêt", "id": 104627}, {"name": "Incendie_par_type", "id": 14402135}, {"name": "Sylviculture", "id": 138155}], "successors": [{"name": "Feu_de_forêt_en_Europe", "id": 15090067}, {"name": "Feu_de_forêt_en_Californie", "id": 12184037}]}

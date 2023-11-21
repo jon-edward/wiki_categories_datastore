@@ -1,0 +1,1 @@
+{"name": "Température_seuil", "id": 11747427, "predecessors": [{"name": "Température", "id": 3420232}, {"name": "Thermodynamique", "id": 95525}, {"name": "Transition_de_phase", "id": 1006573}, {"name": "Physique", "id": 81538}], "successors": []}

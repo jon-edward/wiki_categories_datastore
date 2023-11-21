@@ -1,0 +1,1 @@
+{"name": "Betalingssystemer", "id": 806288, "predecessors": [{"name": "Bankvirksomhet", "id": 582287}, {"name": "Penger", "id": 806289}], "successors": [{"name": "Valuta", "id": 11781}, {"name": "Kredittkort", "id": 220907}, {"name": "Mobilbetaling", "id": 1746696}]}

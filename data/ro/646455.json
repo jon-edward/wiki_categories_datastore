@@ -1,0 +1,1 @@
+{"name": "Camioane", "id": 646455, "predecessors": [{"name": "Vehicule_rutiere", "id": 225538}, {"name": "Obiecte", "id": 555690}], "successors": [{"name": "Autocamioane", "id": 314082}, {"name": "Filme_cu_camioane", "id": 963311}]}

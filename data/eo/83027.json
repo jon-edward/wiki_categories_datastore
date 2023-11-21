@@ -1,0 +1,1 @@
+{"name": "Matematika_fiziko", "id": 83027, "predecessors": [{"name": "Aplika_matematiko", "id": 82511}, {"name": "Teoria_fiziko", "id": 83553}, {"name": "Inĝenierarto", "id": 209361}], "successors": [{"name": "Diferencialaj_ekvacioj", "id": 82675}, {"name": "Diferenciala_geometrio", "id": 82677}, {"name": "Relativeco", "id": 83440}, {"name": "Statistika_mekaniko", "id": 83518}]}

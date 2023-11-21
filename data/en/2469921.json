@@ -1,0 +1,1 @@
+{"name": "Infant_feeding", "id": 2469921, "predecessors": [{"name": "Infancy", "id": 1737226}, {"name": "Nutrition", "id": 9936002}, {"name": "Childhood", "id": 1517600}], "successors": [{"name": "Breastfeeding", "id": 10251298}, {"name": "Baby_food_manufacturers", "id": 31524679}]}

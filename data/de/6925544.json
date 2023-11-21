@@ -1,0 +1,1 @@
+{"name": "Flusssystem_Amper", "id": 6925544, "predecessors": [{"name": "Amper", "id": 10463253}, {"name": "Flusssystem_Donau", "id": 1948785}, {"name": "Flusssystem_Isar", "id": 4341954}], "successors": [{"name": "Flusssystem_Würm_(Amper)", "id": 10020889}, {"name": "Flusssystem_Starnberger_See", "id": 12380419}]}

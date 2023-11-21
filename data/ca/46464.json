@@ -1,0 +1,1 @@
+{"name": "Nombres_naturals", "id": 46464, "predecessors": [{"name": "Nombres_enters", "id": 156453}], "successors": [{"name": "Nombres_primers", "id": 293089}, {"name": "Nombres_d'Erdős-Woods", "id": 1549052}, {"name": "Quadrats_perfectes", "id": 1462044}, {"name": "Nombres_triangulars", "id": 1462061}]}

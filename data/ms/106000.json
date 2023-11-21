@@ -1,0 +1,1 @@
+{"name": "Bijirin", "id": 106000, "predecessors": [{"name": "Makanan_ruji", "id": 107422}, {"name": "Ramuan_masakan", "id": 69033}, {"name": "Bahan", "id": 58300}], "successors": [{"name": "Beras", "id": 113123}, {"name": "Padi", "id": 184395}]}

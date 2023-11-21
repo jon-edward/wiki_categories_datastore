@@ -1,0 +1,1 @@
+{"name": "Patologio", "id": 319023, "predecessors": [{"name": "Medicinaj_fakoj", "id": 293155}], "successors": [{"name": "Sindromoj", "id": 258732}, {"name": "Patologoj", "id": 543359}, {"name": "Nozologio", "id": 545761}, {"name": "Denaskaj_misformoj", "id": 581013}, {"name": "Logopedio", "id": 597509}]}

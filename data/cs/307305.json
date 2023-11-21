@@ -1,0 +1,1 @@
+{"name": "Lékařská_diagnostika", "id": 307305, "predecessors": [{"name": "Analýza", "id": 93708}, {"name": "Biomedicínské_inženýrství", "id": 372980}, {"name": "Lékařství", "id": 4636}], "successors": [{"name": "Radiologie", "id": 257061}, {"name": "Nukleární_medicína", "id": 317464}, {"name": "Klinické_příznaky", "id": 478266}, {"name": "Endoskopie", "id": 827259}]}

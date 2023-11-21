@@ -1,0 +1,1 @@
+{"name": "TGV_trainsets", "id": 25670136, "predecessors": [{"name": "SNCF_multiple_units", "id": 2323719}, {"name": "TGV", "id": 3660532}, {"name": "High-speed_trains", "id": 3650148}, {"name": "Alstom", "id": 30587109}], "successors": []}

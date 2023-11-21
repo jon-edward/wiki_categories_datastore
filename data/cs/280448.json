@@ -1,0 +1,1 @@
+{"name": "Bezpečnostní_software", "id": 280448, "predecessors": [{"name": "Počítačová_bezpečnost", "id": 236981}, {"name": "Systémový_software", "id": 271860}], "successors": [{"name": "Antivirový_software", "id": 161586}, {"name": "Kryptografický_software", "id": 215612}, {"name": "Firewally", "id": 280449}, {"name": "Svobodný_bezpečnostní_software", "id": 775297}]}

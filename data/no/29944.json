@@ -1,0 +1,1 @@
+{"name": "Medisinske_undersøkelser", "id": 29944, "predecessors": [{"name": "Empiri", "id": 1490796}, {"name": "Medisin", "id": 13341}], "successors": [{"name": "Blodprøver", "id": 292313}, {"name": "Klinisk_kjemi", "id": 1814554}, {"name": "Testing_for_covid-19", "id": 1821911}]}

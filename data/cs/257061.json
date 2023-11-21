@@ -1,0 +1,1 @@
+{"name": "Radiologie", "id": 257061, "predecessors": [{"name": "Lékařská_diagnostika", "id": 307305}, {"name": "Lékařské_obory", "id": 307296}, {"name": "Lékařské_nástroje", "id": 112876}], "successors": [{"name": "Dozimetrie", "id": 721229}, {"name": "Čeští_radiologové", "id": 694526}]}

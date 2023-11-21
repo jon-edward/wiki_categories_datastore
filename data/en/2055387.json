@@ -1,0 +1,1 @@
+{"name": "Radiation", "id": 2055387, "predecessors": [{"name": "Transport_phenomena", "id": 2325722}, {"name": "Waves", "id": 758467}], "successors": [{"name": "Electromagnetic_radiation", "id": 697318}, {"name": "Cosmic_rays", "id": 2777746}, {"name": "Radiation_effects", "id": 4998227}, {"name": "Ionizing_radiation", "id": 56212364}]}

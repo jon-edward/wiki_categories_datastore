@@ -1,0 +1,1 @@
+{"name": "Energia_solar", "id": 643442, "predecessors": [{"name": "Energias_renováveis", "id": 643444}, {"name": "Sol", "id": 643443}, {"name": "Vidro", "id": 863088}], "successors": [{"name": "Usinas_solares", "id": 3810115}, {"name": "Célula_fotovoltaica", "id": 4859144}]}

@@ -1,0 +1,1 @@
+{"name": "Nuclear_fuels", "id": 12895339, "predecessors": [{"name": "Fuels", "id": 770810}, {"name": "Nuclear_materials", "id": 3095692}, {"name": "Nuclear_technology", "id": 888845}], "successors": [{"name": "Nuclear_reprocessing", "id": 3099184}, {"name": "Uranium", "id": 4133461}, {"name": "Nuclear_fuel_companies", "id": 19326115}]}

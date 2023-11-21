@@ -1,0 +1,1 @@
+{"name": "Metro_podle_měst", "id": 1747498, "predecessors": [{"name": "Metro", "id": 46997}, {"name": "Podzemní_stavby", "id": 44250}, {"name": "Drážní_doprava", "id": 46994}], "successors": [{"name": "Metro_v_Paříži", "id": 124656}, {"name": "Metro_v_Praze", "id": 124672}, {"name": "Metro_v_Kyjevě", "id": 1763932}]}

@@ -1,0 +1,1 @@
+{"name": "Measles", "id": 29261665, "predecessors": [{"name": "Viral_diseases", "id": 9219628}, {"name": "Viral_respiratory_tract_infections", "id": 39756458}, {"name": "Paramyxoviridae", "id": 39617740}], "successors": [{"name": "Deaths_from_measles", "id": 19417963}, {"name": "MMR_vaccine_and_autism", "id": 61409152}, {"name": "2019_measles_outbreaks", "id": 60693561}]}

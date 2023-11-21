@@ -1,0 +1,1 @@
+{"name": "Minuman", "id": 29716, "predecessors": [{"name": "Kehidupan_peribadi", "id": 76137}], "successors": [{"name": "Minuman_tidak_beralkohol", "id": 127979}, {"name": "Minuman_beralkohol", "id": 130769}, {"name": "Bir", "id": 130772}, {"name": "Teh", "id": 55609}, {"name": "Kopi", "id": 58367}]}

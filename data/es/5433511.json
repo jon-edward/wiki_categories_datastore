@@ -1,0 +1,1 @@
+{"name": "Enfermedades_de_herbívoros", "id": 5433511, "predecessors": [{"name": "Enfermedades_de_mamíferos", "id": 5433514}, {"name": "Enfermedades_veterinarias", "id": 5433544}], "successors": [{"name": "Enfermedades_de_rumiantes", "id": 5433519}, {"name": "Enfermedades_equinas", "id": 5433538}]}

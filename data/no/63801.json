@@ -1,0 +1,1 @@
+{"name": "Kirurgi", "id": 63801, "predecessors": [{"name": "Medisinske_behandlinger", "id": 29942}, {"name": "Medisinske_spesialiteter", "id": 62894}], "successors": [{"name": "Kirurger", "id": 61037}, {"name": "Urologi", "id": 137383}, {"name": "Kirurgiske_inngrep", "id": 589887}, {"name": "Revmatologi", "id": 1366252}, {"name": "Nevrokirurger", "id": 62626}]}

@@ -1,0 +1,1 @@
+{"name": "Residential_heating", "id": 11090990, "predecessors": [{"name": "Heating", "id": 21742755}, {"name": "Housing", "id": 4152584}], "successors": [{"name": "Fireplaces", "id": 6554383}, {"name": "Solar_thermal_energy", "id": 28116966}, {"name": "Cogeneration", "id": 28264731}, {"name": "Residential_heating_appliances", "id": 39533330}]}

@@ -1,0 +1,1 @@
+{"name": "Jednočipové_mikropočítače", "id": 640002, "predecessors": [{"name": "Integrované_obvody", "id": 82692}, {"name": "Počítače", "id": 4485}, {"name": "Vestavěné_systémy", "id": 475724}], "successors": [{"name": "MCS-51", "id": 640035}, {"name": "MCS-48", "id": 640038}]}

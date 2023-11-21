@@ -1,0 +1,1 @@
+{"name": "Redningstjeneste", "id": 329506, "predecessors": [{"name": "Myndigheter", "id": 45822}, {"name": "Sikkerhet", "id": 51648}, {"name": "Sjøfart", "id": 15467}], "successors": [{"name": "Kystvakter", "id": 29866}, {"name": "Nødkommunikasjon", "id": 1394205}, {"name": "Redningsfartøyer", "id": 1745210}]}

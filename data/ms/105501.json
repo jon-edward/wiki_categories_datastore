@@ -1,0 +1,1 @@
+{"name": "Indeks_pasaran_saham", "id": 105501, "predecessors": [{"name": "Pasaran_saham", "id": 105502}, {"name": "Ekonomi", "id": 26641}], "successors": [{"name": "TOPIX_100", "id": 972029}]}

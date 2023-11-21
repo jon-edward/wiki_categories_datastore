@@ -1,0 +1,1 @@
+{"name": "Bancs", "id": 832009, "predecessors": [{"name": "Banca", "id": 938417}, {"name": "Finances", "id": 159072}], "successors": [{"name": "Bancs_centrals", "id": 832010}, {"name": "Bancs_d'Espanya", "id": 1117573}, {"name": "Bancs_de_Catalunya_desapareguts", "id": 884645}, {"name": "Trofeu_Comte_de_Godó", "id": 987099}]}

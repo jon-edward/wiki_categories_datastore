@@ -1,0 +1,1 @@
+{"name": "Gjeld", "id": 842038, "predecessors": [{"name": "Bankvirksomhet", "id": 582287}, {"name": "Finans", "id": 54339}, {"name": "Pengekravsrett", "id": 235932}], "successors": [{"name": "Kredittkort", "id": 220907}, {"name": "Rente", "id": 913248}]}

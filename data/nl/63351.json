@@ -1,0 +1,1 @@
+{"name": "Trein", "id": 63351, "predecessors": [{"name": "Railvervoer", "id": 135540}], "successors": [{"name": "Hogesnelheidstrein", "id": 63357}, {"name": "Modeltrein", "id": 212394}, {"name": "Internationale_trein", "id": 551760}, {"name": "Trein_met_een_naam", "id": 2629490}, {"name": "Treinsoort", "id": 4656882}]}

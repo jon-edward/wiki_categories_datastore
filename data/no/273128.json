@@ -1,0 +1,1 @@
+{"name": "Temperatur", "id": 273128, "predecessors": [{"name": "Meteorologi", "id": 10378}, {"name": "Termodynamikk", "id": 25321}], "successors": [{"name": "Varme", "id": 1836612}, {"name": "Vinter", "id": 855931}, {"name": "Kjøleteknikk", "id": 1230378}]}

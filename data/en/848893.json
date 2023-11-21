@@ -1,0 +1,1 @@
+{"name": "Apples", "id": 848893, "predecessors": [{"name": "Edible_fruits", "id": 39951547}, {"name": "Malus", "id": 38974748}], "successors": [{"name": "Apple_cultivars", "id": 18236595}, {"name": "Crabapples", "id": 38974755}, {"name": "Apple_tree_diseases", "id": 42677409}, {"name": "Apple_festivals", "id": 44480709}, {"name": "Apples_in_culture", "id": 67880321}]}

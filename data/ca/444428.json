@@ -1,0 +1,1 @@
+{"name": "Cuina", "id": 444428, "predecessors": [{"name": "Gastronomia", "id": 13685}, {"name": "Comportament_humà", "id": 867297}], "successors": [{"name": "Cuiners", "id": 27936}, {"name": "Estris_de_cuina", "id": 293437}, {"name": "Tècniques_culinàries", "id": 444426}, {"name": "Menjar_ràpid", "id": 940183}]}

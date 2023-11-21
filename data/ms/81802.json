@@ -1,0 +1,1 @@
+{"name": "Pengiklanan", "id": 81802, "predecessors": [{"name": "Pemasaran", "id": 81756}, {"name": "Promosi_dan_komunikasi_pemasaran", "id": 81755}, {"name": "Reka_bentuk_komunikasi", "id": 81801}, {"name": "Industri", "id": 78664}, {"name": "Media_massa", "id": 30125}], "successors": [{"name": "Reka_bentuk_komunikasi", "id": 81801}, {"name": "Jenama", "id": 84893}]}

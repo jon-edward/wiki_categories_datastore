@@ -1,0 +1,1 @@
+{"name": "Gentoo", "id": 1365183, "predecessors": [{"name": "Linux-distribusjoner", "id": 768398}, {"name": "Linuxdistribusjoner_for_x86-32", "id": 1368074}, {"name": "Linuxdistribusjoner_for_x86-64", "id": 1368077}], "successors": [{"name": "Gentooderivater", "id": 1365186}]}

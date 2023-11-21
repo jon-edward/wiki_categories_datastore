@@ -1,0 +1,1 @@
+{"name": "Tvagning", "id": 3440249, "predecessors": [{"name": "Hygien", "id": 118729}, {"name": "VVS", "id": 72046}, {"name": "Vatten", "id": 222479}], "successors": [{"name": "Badhus", "id": 404138}, {"name": "Bad", "id": 499274}, {"name": "Bastu", "id": 4328620}]}

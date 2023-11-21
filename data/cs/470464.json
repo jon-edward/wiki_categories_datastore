@@ -1,0 +1,1 @@
+{"name": "Pečení", "id": 470464, "predecessors": [{"name": "Ohřev", "id": 1562544}, {"name": "Příprava_jídla", "id": 270974}], "successors": [{"name": "Kypřidla", "id": 470462}, {"name": "Těsta", "id": 1458637}]}

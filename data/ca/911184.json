@@ -1,0 +1,1 @@
+{"name": "Gestió", "id": 911184, "predecessors": [{"name": "Empresa", "id": 462330}, {"name": "Ciència", "id": 591034}, {"name": "Principal", "id": 13225}], "successors": [{"name": "Control_de_gestió", "id": 159268}, {"name": "Logística", "id": 911207}, {"name": "Recursos_humans", "id": 1949433}]}

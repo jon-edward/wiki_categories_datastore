@@ -1,0 +1,1 @@
+{"name": "Vehicule_nautice", "id": 178161, "predecessors": [{"name": "Termeni_navali", "id": 92346}, {"name": "Transporturi_acvatice", "id": 92345}], "successors": [{"name": "Submarine", "id": 293356}, {"name": "Ambarcațiuni", "id": 748216}]}

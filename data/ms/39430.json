@@ -1,0 +1,1 @@
+{"name": "Planet", "id": 39430, "predecessors": [{"name": "Objek_astronomi", "id": 95698}, {"name": "Sains_planet", "id": 297657}], "successors": [{"name": "Planet_luar_suria", "id": 78475}, {"name": "Planet_kerdil", "id": 210465}, {"name": "Jenis_planet", "id": 297656}]}

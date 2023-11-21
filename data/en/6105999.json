@@ -1,0 +1,1 @@
+{"name": "Light_pollution", "id": 6105999, "predecessors": [{"name": "Atmospheric_optical_phenomena", "id": 8107505}, {"name": "Darkness", "id": 31958196}, {"name": "Lighting", "id": 927824}, {"name": "Observational_astronomy", "id": 2776354}, {"name": "Pollution", "id": 871522}], "successors": [{"name": "Street_lighting", "id": 3453794}]}

@@ -1,0 +1,1 @@
+{"name": "Elektronická_pošta", "id": 103518, "predecessors": [{"name": "Internet", "id": 4436}, {"name": "Typy_pošty", "id": 1520834}], "successors": [{"name": "E-mailoví_klienti", "id": 161594}, {"name": "Spam", "id": 271820}, {"name": "Poštovní_servery", "id": 278777}, {"name": "E-mailový_marketing", "id": 1351200}]}

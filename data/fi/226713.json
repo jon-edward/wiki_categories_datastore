@@ -1,0 +1,1 @@
+{"name": "Rautatieinfrastruktuuri", "id": 226713, "predecessors": [{"name": "Rautatieliikenne", "id": 26737}, {"name": "Liikenne", "id": 21059}], "successors": [{"name": "Rautatieasemat", "id": 40526}, {"name": "Rautatiet", "id": 40746}, {"name": "Rautatietunnelit", "id": 92686}, {"name": "Rautatiesillat", "id": 355036}]}

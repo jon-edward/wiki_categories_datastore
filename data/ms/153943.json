@@ -1,0 +1,1 @@
+{"name": "Grafik_komputer", "id": 153943, "predecessors": [{"name": "Sains_komputer", "id": 42047}, {"name": "Sains", "id": 8013}], "successors": [{"name": "Pemprosesan_imej", "id": 153941}, {"name": "Grafik_komputer_3D", "id": 301477}, {"name": "Perkakasan_grafik", "id": 501246}, {"name": "Format_fail_grafik", "id": 306067}]}

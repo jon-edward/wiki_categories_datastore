@@ -1,0 +1,1 @@
+{"name": "Mécanique_des_milieux_continus", "id": 96660, "predecessors": [{"name": "Mécanique_classique", "id": 177239}, {"name": "Science_des_matériaux", "id": 94638}], "successors": [{"name": "Mécanique_des_fluides", "id": 96654}, {"name": "Résistance_des_matériaux", "id": 1374128}, {"name": "Méthode_des_éléments_finis", "id": 8771172}, {"name": "Élasticité", "id": 13938294}]}

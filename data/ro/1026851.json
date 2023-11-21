@@ -1,0 +1,1 @@
+{"name": "Piese_auto", "id": 1026851, "predecessors": [{"name": "Componente_de_vehicule", "id": 1026856}, {"name": "Industria_automobilelor", "id": 818358}], "successors": [{"name": "Producători_de_componente_auto", "id": 638892}, {"name": "Anvelope", "id": 912568}]}

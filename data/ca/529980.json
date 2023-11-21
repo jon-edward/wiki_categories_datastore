@@ -1,0 +1,1 @@
+{"name": "Inflamacions", "id": 529980, "predecessors": [{"name": "Signes_i_símptomes", "id": 141049}, {"name": "Sistema_immunitari", "id": 389932}, {"name": "Immunologia", "id": 146036}], "successors": [{"name": "Inflamacions_de_l'aparell_digestiu", "id": 529991}, {"name": "Pneumònia", "id": 504916}, {"name": "Artritis", "id": 1028193}]}

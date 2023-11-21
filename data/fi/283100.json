@@ -1,0 +1,1 @@
+{"name": "Tukholman_metro", "id": 283100, "predecessors": [{"name": "Tukholman_liikenne", "id": 198876}, {"name": "Tukholman_rakennukset_ja_rakennelmat", "id": 198866}, {"name": "Euroopan_liikenne", "id": 1209773}, {"name": "Joukkoliikenne", "id": 40744}], "successors": [{"name": "Tukholman_metroasemat", "id": 599688}]}

@@ -1,0 +1,1 @@
+{"name": "Polio", "id": 10761217, "predecessors": [{"name": "Enterovirus-associated_diseases", "id": 40650676}, {"name": "Viral_respiratory_tract_infections", "id": 39756458}, {"name": "Animal_viral_diseases", "id": 48674710}], "successors": [{"name": "Deaths_from_polio", "id": 19632053}, {"name": "Polio_survivors", "id": 74424454}]}

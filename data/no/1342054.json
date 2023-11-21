@@ -1,0 +1,1 @@
+{"name": "Akselerasjon", "id": 1342054, "predecessors": [{"name": "Dynamikk", "id": 121425}, {"name": "Fysiske_størrelser", "id": 1031660}, {"name": "Hastighet", "id": 1342073}, {"name": "Kinematikk", "id": 1251778}, {"name": "Lengde", "id": 1342066}], "successors": [{"name": "Kraft", "id": 1342033}]}

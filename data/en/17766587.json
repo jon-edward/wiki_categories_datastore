@@ -1,0 +1,1 @@
+{"name": "Unemployment", "id": 17766587, "predecessors": [{"name": "Waste_of_resources", "id": 40312836}], "successors": [{"name": "Termination_of_employment", "id": 16552514}, {"name": "Employment_discrimination", "id": 36658726}, {"name": "Unemployment_in_fiction", "id": 42492238}, {"name": "Unemployment_benefits", "id": 43241506}, {"name": "Refusal_of_work", "id": 51997249}]}

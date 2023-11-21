@@ -1,0 +1,1 @@
+{"name": "Procesarea_semnalelor", "id": 296202, "predecessors": [{"name": "Inginerie_electrică", "id": 40646}, {"name": "Telecomunicații", "id": 760304}], "successors": [{"name": "Procesare_numerică_de_semnal", "id": 738515}, {"name": "Eșantionare_(procesare_de_semnal)", "id": 822580}, {"name": "Prelucrarea_limbajului_natural", "id": 2488323}]}

@@ -1,0 +1,1 @@
+{"name": "Vermittlungstechnik", "id": 1356135, "predecessors": [{"name": "Nachrichtentechnik", "id": 274181}, {"name": "Netzwerktechnik", "id": 1037323}, {"name": "Telefonnetz", "id": 2356666}], "successors": [{"name": "Telefonanlage", "id": 2359214}, {"name": "Routing", "id": 6743881}, {"name": "Nummerierung_(Telekommunikation)", "id": 8453413}]}

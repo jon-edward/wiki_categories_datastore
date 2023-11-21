@@ -1,0 +1,1 @@
+{"name": "Matériau_semi-conducteur", "id": 3867803, "predecessors": [{"name": "Semi-conducteur", "id": 365339}], "successors": [{"name": "Semi-conducteur_organique", "id": 1451580}, {"name": "Composé_III-V", "id": 6433878}, {"name": "Composé_II-VI", "id": 8181827}]}

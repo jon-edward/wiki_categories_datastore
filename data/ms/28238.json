@@ -1,0 +1,1 @@
+{"name": "Penyanyi", "id": 28238, "predecessors": [{"name": "Pekerjaan", "id": 29250}, {"name": "Muzik", "id": 23884}], "successors": [{"name": "Penyanyi_pop", "id": 48396}, {"name": "Penyanyi_dan_pelakon_opera", "id": 59591}, {"name": "Penyanyi_tenor", "id": 48289}, {"name": "Penyanyi_soprano", "id": 59648}]}

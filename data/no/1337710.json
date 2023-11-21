@@ -1,0 +1,1 @@
+{"name": "Roterende_maskiner", "id": 1337710, "predecessors": [{"name": "Maskiner", "id": 16238}], "successors": [{"name": "Motorer", "id": 29820}, {"name": "Turbiner", "id": 29984}, {"name": "Hjul", "id": 1288746}, {"name": "Propeller", "id": 1337735}]}

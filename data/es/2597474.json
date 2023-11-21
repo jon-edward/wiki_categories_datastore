@@ -1,0 +1,1 @@
+{"name": "IPhone", "id": 2597474, "predecessors": [{"name": "Hardware_de_Apple_Inc.", "id": 2180509}, {"name": "Teléfonos_inteligentes", "id": 5478070}, {"name": "Teléfonos_móviles_táctiles", "id": 4410049}, {"name": "Teléfonos_móviles", "id": 1890681}], "successors": [{"name": "Software_para_iOS", "id": 6067995}, {"name": "Software_para_iPhone", "id": 6068084}]}

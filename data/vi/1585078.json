@@ -1,0 +1,1 @@
+{"name": "Hệ_thống_quản_lý_dữ_liệu_phân_tán", "id": 1585078, "predecessors": [{"name": "Lưu_trữ_dữ_liệu_phân_tán", "id": 1585084}, {"name": "Lưu_trữ_dữ_liệu_máy_tính", "id": 1585083}], "successors": [{"name": "Mạng_chia_sẻ_tập_tin", "id": 76122}, {"name": "Hệ_thống_tập_tin_phân_tán", "id": 1585077}]}

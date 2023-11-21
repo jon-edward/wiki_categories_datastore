@@ -1,0 +1,1 @@
+{"name": "Desinfectantes", "id": 2877834, "predecessors": [{"name": "Compostos_químicos", "id": 30516}, {"name": "Higiene", "id": 150940}, {"name": "Farmácia", "id": 198186}], "successors": [{"name": "Desinfetantes_de_uso_doméstico", "id": 7065043}]}

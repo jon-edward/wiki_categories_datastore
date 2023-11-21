@@ -1,0 +1,1 @@
+{"name": "Maksuvälineet", "id": 1409671, "predecessors": [{"name": "Pankkitoimi", "id": 27806}, {"name": "Raha", "id": 28038}], "successors": [{"name": "Maksukortit", "id": 1118998}, {"name": "Kultarahat", "id": 1131610}, {"name": "Hopearahat", "id": 1131648}, {"name": "Kryptovaluutat", "id": 1183384}]}

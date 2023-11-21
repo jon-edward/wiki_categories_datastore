@@ -1,0 +1,1 @@
+{"name": "Smärtbehandling", "id": 516614, "predecessors": [{"name": "Akutvård", "id": 1488966}, {"name": "Sjukvårdsbehandlingar", "id": 640639}, {"name": "Smärta", "id": 783378}], "successors": [{"name": "Anestesi", "id": 160655}, {"name": "Analgetika", "id": 751729}, {"name": "Palliativ_vård", "id": 1220441}]}

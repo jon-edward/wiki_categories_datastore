@@ -1,0 +1,1 @@
+{"name": "Transporte_terrestre", "id": 4869637, "predecessors": [{"name": "Transporte", "id": 55371}], "successors": [{"name": "Ciclismo", "id": 52744}, {"name": "Transporte_por_carretera", "id": 73767}, {"name": "Vehículos_terrestres", "id": 4683712}, {"name": "Andar", "id": 6998070}]}

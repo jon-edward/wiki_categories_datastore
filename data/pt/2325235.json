@@ -1,0 +1,1 @@
+{"name": "Leitura", "id": 2325235, "predecessors": [{"name": "Dislexia", "id": 2325241}, {"name": "Educação_por_assunto", "id": 2276906}, {"name": "Passatempos", "id": 23932}, {"name": "Sistemas_de_escrita", "id": 50666}, {"name": "Comportamento_humano", "id": 983221}], "successors": [{"name": "Publicação", "id": 1903278}, {"name": "Alfabetização", "id": 4303182}]}

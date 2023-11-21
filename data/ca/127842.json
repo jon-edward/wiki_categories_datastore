@@ -1,0 +1,1 @@
+{"name": "Sondes_espacials", "id": 127842, "predecessors": [{"name": "Naus_espacials", "id": 742000}, {"name": "Colonització_de_l'espai", "id": 1139153}], "successors": [{"name": "Sondes_espacials_de_la_NASA", "id": 486581}, {"name": "Mòduls_de_descens", "id": 1387797}, {"name": "Sondes_de_l'Agència_Espacial_Europea", "id": 1387804}]}

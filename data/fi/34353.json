@@ -1,0 +1,1 @@
+{"name": "Tutkinnot", "id": 34353, "predecessors": [{"name": "Koulutus", "id": 24930}], "successors": [{"name": "Toisen_asteen_tutkinnot", "id": 86409}, {"name": "Ammattikorkeakoulututkinnot", "id": 86410}, {"name": "Yliopistotutkinnot", "id": 86411}, {"name": "Kulttuurialan_tutkinnot", "id": 242364}]}

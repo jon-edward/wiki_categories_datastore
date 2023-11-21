@@ -1,0 +1,1 @@
+{"name": "Medicina_diagnozo", "id": 227373, "predecessors": [{"name": "Medicino", "id": 29606}], "successors": [{"name": "Medicinaj_testoj", "id": 83075}, {"name": "Simptomoj", "id": 83536}, {"name": "Diagnoziko", "id": 546214}, {"name": "Psikiatriaj_diagnozoj", "id": 633236}]}

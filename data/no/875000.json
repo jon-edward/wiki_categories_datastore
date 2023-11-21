@@ -1,0 +1,1 @@
+{"name": "Helikopterprodusenter", "id": 875000, "predecessors": [{"name": "Flyprodusenter", "id": 30265}, {"name": "Helikoptre", "id": 31184}], "successors": [{"name": "Airbus_Helicopters", "id": 1489761}, {"name": "Leonardo", "id": 1517910}, {"name": "Boeing", "id": 100745}, {"name": "Sikorsky", "id": 1229887}, {"name": "Bell_Helicopter", "id": 1465926}]}

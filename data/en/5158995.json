@@ -1,0 +1,1 @@
+{"name": "Toei_Subway", "id": 5158995, "predecessors": [{"name": "Tokyo_Metropolitan_Bureau_of_Transportation", "id": 8049261}, {"name": "Rail_infrastructure", "id": 2962895}], "successors": [{"name": "Toei_Asakusa_Line", "id": 7504176}, {"name": "Toei_Mita_Line", "id": 8112956}, {"name": "Toei_Ōedo_Line", "id": 8215561}]}

@@ -1,0 +1,1 @@
+{"name": "Hydrocarbure", "id": 589966, "predecessors": [{"name": "Composé_organique", "id": 87728}, {"name": "Hydrure", "id": 650845}], "successors": [{"name": "Alcane", "id": 87790}, {"name": "Alcyne", "id": 143480}, {"name": "Alcène", "id": 144219}, {"name": "Pétrole", "id": 144823}, {"name": "Gaz_naturel", "id": 4224171}]}

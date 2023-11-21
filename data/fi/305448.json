@@ -1,0 +1,1 @@
+{"name": "Antibiootit", "id": 305448, "predecessors": [{"name": "Lääkkeet", "id": 29411}], "successors": [{"name": "Penisilliinit", "id": 1520904}, {"name": "Kefalosporiinit", "id": 1520909}, {"name": "Makrolidit", "id": 1520913}, {"name": "Sulfonamidiantibiootit", "id": 1520922}, {"name": "Aminoglykosidit", "id": 1544791}, {"name": "Fluorokinolonit", "id": 1571982}]}

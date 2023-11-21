@@ -1,0 +1,1 @@
+{"name": "Prosess", "id": 234248, "predecessors": [{"name": "Offentlig_rett", "id": 70556}, {"name": "Rettspleie", "id": 319661}, {"name": "Epistemologi", "id": 1054397}], "successors": [{"name": "Straffeprosess", "id": 70467}, {"name": "Rettsmidler", "id": 277911}, {"name": "Megling", "id": 1239484}, {"name": "Eder", "id": 1954303}, {"name": "Rettergang", "id": 2005391}]}

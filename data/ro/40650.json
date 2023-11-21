@@ -1,0 +1,1 @@
+{"name": "Dispozitive_semiconductoare", "id": 40650, "predecessors": [{"name": "Componente_electronice", "id": 134771}, {"name": "Fizica_materiei_condensate", "id": 40617}], "successors": [{"name": "Diode", "id": 40639}, {"name": "Circuite_integrate", "id": 235353}, {"name": "Fabricarea_dispozitivelor_semiconductoare", "id": 740955}, {"name": "Tranzistoare", "id": 852571}]}

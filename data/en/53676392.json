@@ -1,0 +1,1 @@
+{"name": "Drug_advertising", "id": 53676392, "predecessors": [{"name": "Drugs", "id": 1325883}, {"name": "Advertising", "id": 884913}, {"name": "Taxonomy", "id": 918375}], "successors": [{"name": "Tobacco_advertising", "id": 3068411}, {"name": "Beer_advertising", "id": 5271579}]}

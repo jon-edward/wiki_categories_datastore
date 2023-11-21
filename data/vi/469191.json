@@ -1,0 +1,1 @@
+{"name": "Máy_thu", "id": 469191, "predecessors": [{"name": "Ghi_dữ_liệu", "id": 3171337}, {"name": "Hệ_thống_công_nghệ", "id": 1678743}, {"name": "Thiết_bị", "id": 62726}], "successors": [{"name": "Thiết_bị_lưu_trữ_máy_tính", "id": 26060}, {"name": "Máy_ảnh", "id": 103647}, {"name": "Công_nghệ_ghi_âm", "id": 3131201}]}

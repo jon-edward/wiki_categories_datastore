@@ -1,0 +1,1 @@
+{"name": "Textbook_business", "id": 42629516, "predecessors": [{"name": "Book_publishing", "id": 5666524}, {"name": "Educational_materials", "id": 2488034}], "successors": [{"name": "Textbook_writers", "id": 5384215}, {"name": "Textbooks", "id": 8123675}, {"name": "Textbook_publishing_companies", "id": 42629249}]}

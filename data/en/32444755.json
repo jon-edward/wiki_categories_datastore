@@ -1,0 +1,1 @@
+{"name": "X-ray_computed_tomography", "id": 32444755, "predecessors": [{"name": "Inverse_problems", "id": 12829781}, {"name": "Multidimensional_signal_processing", "id": 44235526}, {"name": "Radiography", "id": 10041001}, {"name": "Tomography", "id": 13886417}], "successors": []}

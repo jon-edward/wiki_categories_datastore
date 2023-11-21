@@ -1,0 +1,1 @@
+{"name": "Molecular_dynamics", "id": 2865718, "predecessors": [{"name": "Computational_chemistry", "id": 743353}, {"name": "Computational_physics", "id": 792595}], "successors": [{"name": "Force_fields_(chemistry)", "id": 7288747}, {"name": "Molecular_dynamics_software", "id": 10187763}]}

@@ -1,0 +1,1 @@
+{"name": "Frachtschifffahrt", "id": 4031066, "predecessors": [{"name": "Berufsschifffahrt", "id": 801885}, {"name": "Güterverkehr", "id": 347950}, {"name": "Seehandel", "id": 11044337}], "successors": [{"name": "Frachtschiffstyp", "id": 347974}, {"name": "Frachtschiff", "id": 689676}, {"name": "Frachtschifffahrt_(Deutschland)", "id": 11534906}]}

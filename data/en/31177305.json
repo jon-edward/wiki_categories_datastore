@@ -1,0 +1,1 @@
+{"name": "DOS_memory_management", "id": 31177305, "predecessors": [{"name": "DOS_on_IBM_PC_compatibles", "id": 1094172}, {"name": "X86_memory_management", "id": 4012312}], "successors": [{"name": "DOS_extenders", "id": 18972907}]}

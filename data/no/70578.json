@@ -1,0 +1,1 @@
+{"name": "Landbruksredskaper", "id": 70578, "predecessors": [{"name": "Landbruk", "id": 42587}, {"name": "Redskaper", "id": 419025}], "successors": [{"name": "Traktorer", "id": 72985}, {"name": "Landbruksredskapsprodusenter", "id": 435738}, {"name": "Traktorredskaper", "id": 435761}, {"name": "Hesteredskaper", "id": 435860}]}

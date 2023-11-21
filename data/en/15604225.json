@@ -1,0 +1,1 @@
+{"name": "Road_haulage", "id": 15604225, "predecessors": [{"name": "Freight_transport", "id": 710066}], "successors": [{"name": "Trucks", "id": 2803819}, {"name": "Truck_drivers", "id": 2891794}, {"name": "Truck_rental", "id": 13588023}, {"name": "Truck_road_incident_deaths", "id": 52229444}, {"name": "Trucking_industry_in_the_United_States", "id": 15604277}]}

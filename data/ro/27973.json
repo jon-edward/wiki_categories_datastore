@@ -1,0 +1,1 @@
+{"name": "Reactoare_nucleare", "id": 27973, "predecessors": [{"name": "Centrale_nuclearo-electrice", "id": 27970}, {"name": "Conversie_de_energie", "id": 127370}, {"name": "Fisiune_nucleară", "id": 432766}, {"name": "Recipiente_sub_presiune", "id": 1020411}, {"name": "Tehnologie_nucleară", "id": 219000}], "successors": [{"name": "Combustibili_nucleari", "id": 2001518}]}

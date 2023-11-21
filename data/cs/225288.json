@@ -1,0 +1,1 @@
+{"name": "Malware", "id": 225288, "predecessors": [{"name": "Počítačové_útoky", "id": 626088}, {"name": "Software", "id": 4486}], "successors": [{"name": "Boti", "id": 96558}, {"name": "Počítačové_viry", "id": 132485}, {"name": "Počítačoví_červi", "id": 598995}]}

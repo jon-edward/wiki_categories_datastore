@@ -1,0 +1,1 @@
+{"name": "Mobilní_hry", "id": 283646, "predecessors": [{"name": "Mobilní_telefonie", "id": 151024}, {"name": "Počítačové_platformy", "id": 280355}], "successors": [{"name": "Hry_v_Javě", "id": 284854}, {"name": "Hry_pro_Android", "id": 866098}, {"name": "Hry_pro_Windows_Phone", "id": 997888}, {"name": "Hry_pro_iOS", "id": 1490187}]}

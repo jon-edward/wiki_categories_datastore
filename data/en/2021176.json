@@ -1,0 +1,1 @@
+{"name": "Interest_rates", "id": 2021176, "predecessors": [{"name": "Interest", "id": 14509905}, {"name": "Loans", "id": 26925763}, {"name": "Rates", "id": 47294138}], "successors": [{"name": "Federal_Reserve_System", "id": 3034578}, {"name": "Reference_rates", "id": 24161715}, {"name": "Short-rate_models", "id": 35916864}]}

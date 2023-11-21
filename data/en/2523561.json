@@ -1,0 +1,1 @@
+{"name": "Scientific_observation", "id": 2523561, "predecessors": [{"name": "Scientific_method", "id": 700292}, {"name": "Research_methods", "id": 1557538}], "successors": [{"name": "Observational_astronomy", "id": 2776354}, {"name": "Citizen_science", "id": 4091482}, {"name": "Observatories", "id": 23086787}]}

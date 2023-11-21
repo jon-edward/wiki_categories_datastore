@@ -1,0 +1,1 @@
+{"name": "Bệnh_vi_khuẩn", "id": 1773684, "predecessors": [{"name": "Bệnh_truyền_nhiễm", "id": 12910}, {"name": "Vi_khuẩn_học", "id": 13315}], "successors": [{"name": "Bệnh_lao", "id": 26933}, {"name": "Thương_hàn", "id": 3167809}, {"name": "Ngộ_độc_thịt", "id": 3187633}]}

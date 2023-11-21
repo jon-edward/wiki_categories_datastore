@@ -1,0 +1,1 @@
+{"name": "Gangguan_neurologi", "id": 161538, "predecessors": [{"name": "Neurologi", "id": 161539}, {"name": "Penyakit_dan_gangguan", "id": 161300}, {"name": "Kesihatan", "id": 24183}], "successors": [{"name": "Gangguan_otak", "id": 1157291}, {"name": "Neurotrauma", "id": 1157630}, {"name": "Barah_otak", "id": 1157290}, {"name": "Penyakit_serebrovaskular", "id": 1157736}]}

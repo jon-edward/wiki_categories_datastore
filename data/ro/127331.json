@@ -1,0 +1,1 @@
+{"name": "Catastrofe", "id": 127331, "predecessors": [{"name": "Evenimente_violente", "id": 75386}, {"name": "Risc", "id": 200361}], "successors": [{"name": "Catastrofe_naturale", "id": 15967}, {"name": "Dezastre", "id": 74911}, {"name": "Catastrofe_navale", "id": 664006}, {"name": "Ajutor_umanitar", "id": 1237836}, {"name": "Plan_de_urgență", "id": 1319719}]}

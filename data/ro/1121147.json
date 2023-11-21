@@ -1,0 +1,1 @@
+{"name": "Video_hosting", "id": 1121147, "predecessors": [{"name": "Găzduire_web", "id": 884268}, {"name": "Video", "id": 320089}, {"name": "Site-uri_web", "id": 1166146}], "successors": [{"name": "YouTube", "id": 856265}, {"name": "Videouri_virale", "id": 1121146}, {"name": "Netflix", "id": 2583419}, {"name": "HBO_Max", "id": 2986402}]}

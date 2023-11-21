@@ -1,0 +1,1 @@
+{"name": "Microprocesoare_Intel", "id": 1121031, "predecessors": [{"name": "Intel", "id": 182868}, {"name": "Microprocesoare", "id": 235351}], "successors": [{"name": "Microprocesoare_Intel_x86", "id": 1121033}]}

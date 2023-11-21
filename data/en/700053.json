@@ -1,0 +1,1 @@
+{"name": "Artillery", "id": 700053, "predecessors": [{"name": "Ballistics", "id": 981903}, {"name": "Projectile_weapons", "id": 16745210}, {"name": "Weapons", "id": 698507}], "successors": [{"name": "Propellants", "id": 1095504}, {"name": "Artillery_components", "id": 19853082}]}

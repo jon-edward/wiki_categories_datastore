@@ -1,0 +1,1 @@
+{"name": "Bentuk_air", "id": 82063, "predecessors": [{"name": "Air", "id": 48107}, {"name": "Hidrologi", "id": 82064}], "successors": [{"name": "Air_cecair", "id": 82062}, {"name": "Salji", "id": 663026}]}

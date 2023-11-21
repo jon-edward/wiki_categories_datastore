@@ -1,0 +1,1 @@
+{"name": "Turun_liikenne", "id": 277708, "predecessors": [{"name": "Turku", "id": 19448}, {"name": "Liikenne", "id": 21059}], "successors": [{"name": "Turun_kadut", "id": 444521}, {"name": "Valtatie_1", "id": 681691}, {"name": "Turun_sillat", "id": 752894}, {"name": "Turun_rautatieliikennepaikat", "id": 998555}]}

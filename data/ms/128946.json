@@ -1,0 +1,1 @@
+{"name": "Komponen_pesawat", "id": 128946, "predecessors": [{"name": "Istilah_penerbangan", "id": 138217}, {"name": "Pesawat", "id": 128703}, {"name": "Jirim", "id": 84644}], "successors": [{"name": "Enjin_pesawat", "id": 16928}, {"name": "Avionik", "id": 303620}]}

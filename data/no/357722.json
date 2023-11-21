@@ -1,0 +1,1 @@
+{"name": "KDE", "id": 357722, "predecessors": [{"name": "Freedesktop.org", "id": 1350139}, {"name": "Linux-programmer", "id": 352507}, {"name": "Skrivebordsmiljø", "id": 355732}, {"name": "Programvare", "id": 9080}], "successors": [{"name": "BSD", "id": 592691}, {"name": "Linuxdistribusjoner_som_bruker_KDE", "id": 1368589}]}

@@ -1,0 +1,1 @@
+{"name": "X_Window系统", "id": 1156320, "predecessors": [{"name": "遠端桌面", "id": 1221495}], "successors": [{"name": "X_視窗管理器", "id": 654854}, {"name": "Qt", "id": 1055910}]}

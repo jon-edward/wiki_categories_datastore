@@ -1,0 +1,1 @@
+{"name": "Diet", "id": 167373, "predecessors": [{"name": "Pemakanan", "id": 75747}, {"name": "Pencegahan", "id": 81751}, {"name": "Ekologi", "id": 82101}], "successors": [{"name": "Puasa", "id": 765979}, {"name": "Vegetarian", "id": 233068}]}

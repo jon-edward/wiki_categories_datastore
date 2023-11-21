@@ -1,0 +1,1 @@
+{"name": "Resíduos", "id": 2484667, "predecessors": [{"name": "Impacto_ambiental", "id": 529107}, {"name": "Poluição", "id": 528482}, {"name": "Eventos", "id": 61537}], "successors": [{"name": "Reciclagem", "id": 520210}, {"name": "Resíduos_sólidos", "id": 2438628}, {"name": "Gestão_de_resíduos", "id": 3466333}]}

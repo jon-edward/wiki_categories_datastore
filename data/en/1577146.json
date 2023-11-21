@@ -1,0 +1,1 @@
+{"name": "Valves", "id": 1577146, "predecessors": [{"name": "Gas_technologies", "id": 19500591}, {"name": "Hydraulics", "id": 2373132}, {"name": "Mechanisms_(engineering)", "id": 44366434}, {"name": "Piping", "id": 5458024}], "successors": [{"name": "Engine_valves", "id": 1197016}, {"name": "Safety_valves", "id": 48578601}]}

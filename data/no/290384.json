@@ -1,0 +1,1 @@
+{"name": "Fluidmekanikk", "id": 290384, "predecessors": [{"name": "Klassisk_mekanikk", "id": 61272}], "successors": [{"name": "Fluiddynamikk", "id": 627186}, {"name": "Hydraulikk", "id": 809186}, {"name": "Oppdrift", "id": 1558478}]}

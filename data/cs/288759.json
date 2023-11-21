@@ -1,0 +1,1 @@
+{"name": "Ochrana_rostlin", "id": 288759, "predecessors": [{"name": "Boj_proti_škůdcům", "id": 636362}, {"name": "Rostlinná_výroba", "id": 11514}, {"name": "Zahradnictví", "id": 30980}, {"name": "Botanika", "id": 4627}], "successors": [{"name": "Pesticidy", "id": 26980}, {"name": "Choroby_a_škůdci_rostlin", "id": 350855}]}

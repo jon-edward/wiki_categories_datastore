@@ -1,0 +1,1 @@
+{"name": "Random_number_generation", "id": 38066142, "predecessors": [{"name": "Cryptographic_primitives", "id": 4266201}, {"name": "Entropy_and_information", "id": 9910848}, {"name": "Statistical_randomness", "id": 6538827}], "successors": [{"name": "Pseudorandom_number_generators", "id": 1060172}, {"name": "Non-uniform_random_numbers", "id": 20817602}]}

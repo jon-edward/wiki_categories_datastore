@@ -1,0 +1,1 @@
+{"name": "Actuación", "id": 6419374, "predecessors": [{"name": "Cine", "id": 50592}, {"name": "Teatro", "id": 51851}], "successors": [{"name": "Actores", "id": 52486}, {"name": "Escuelas_de_teatro", "id": 1334518}, {"name": "Monólogos", "id": 4095722}, {"name": "Recreación_histórica", "id": 4149225}, {"name": "Combate_escénico", "id": 7161061}]}

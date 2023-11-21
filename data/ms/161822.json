@@ -1,0 +1,1 @@
+{"name": "Teknologi_nuklear", "id": 161822, "predecessors": [{"name": "Kuasa_nuklear", "id": 161825}, {"name": "Fizik_atom", "id": 125507}, {"name": "Tenaga", "id": 76551}], "successors": [{"name": "Kuasa_nuklear", "id": 161825}, {"name": "Bahan_api_nuklear", "id": 979809}]}

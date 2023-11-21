@@ -1,0 +1,1 @@
+{"name": "Sains_kesihatan", "id": 76463, "predecessors": [{"name": "Kesihatan", "id": 24183}, {"name": "Sains_gunaan", "id": 75959}], "successors": [{"name": "Perubatan", "id": 8047}, {"name": "Perubatan_veterinar", "id": 76462}, {"name": "Epidemiologi", "id": 302895}]}

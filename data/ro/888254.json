@@ -1,0 +1,1 @@
+{"name": "Vehicule_terestre", "id": 888254, "predecessors": [{"name": "Transport", "id": 17973}], "successors": [{"name": "Vehicule_rutiere", "id": 225538}, {"name": "Vehicule_cu_tracțiune_integrală", "id": 2534628}]}

@@ -1,0 +1,1 @@
+{"name": "Sekretaj_policoj", "id": 285301, "predecessors": [{"name": "Polico", "id": 210879}, {"name": "Sekretaj_servoj", "id": 217985}], "successors": [{"name": "Gestapo", "id": 600817}, {"name": "Stasi", "id": 671706}]}

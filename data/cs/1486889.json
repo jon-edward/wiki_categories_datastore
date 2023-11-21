@@ -1,0 +1,1 @@
+{"name": "Předpovídání_počasí", "id": 1486889, "predecessors": [{"name": "Meteorologie", "id": 8930}, {"name": "Počasí", "id": 5605}, {"name": "Předpovídání", "id": 60914}], "successors": []}

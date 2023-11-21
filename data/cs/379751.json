@@ -1,0 +1,1 @@
+{"name": "Zavlažování", "id": 379751, "predecessors": [{"name": "Voda", "id": 7651}, {"name": "Zahradnictví", "id": 30980}, {"name": "Zemědělství", "id": 4730}], "successors": [{"name": "Čerpadla", "id": 22021}, {"name": "Zavlažovací_kanály", "id": 379754}]}

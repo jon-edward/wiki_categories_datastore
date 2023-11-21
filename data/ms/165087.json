@@ -1,0 +1,1 @@
+{"name": "Sistem_pembayaran", "id": 165087, "predecessors": [{"name": "Perdagangan_elektronik", "id": 134210}, {"name": "Sistem_ekonomi", "id": 81793}, {"name": "Wang", "id": 81786}], "successors": [{"name": "Kad_kredit", "id": 404708}, {"name": "Mata_wang_kripto", "id": 1158289}]}

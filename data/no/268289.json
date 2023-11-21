@@ -1,0 +1,1 @@
+{"name": "Vin_etter_produksjonsland", "id": 268289, "predecessors": [{"name": "Vin", "id": 30886}, {"name": "Drikke", "id": 12192}], "successors": [{"name": "Italienske_viner", "id": 20477}, {"name": "Franske_viner", "id": 110445}, {"name": "Tyske_viner", "id": 165054}, {"name": "Spanske_viner", "id": 399092}]}

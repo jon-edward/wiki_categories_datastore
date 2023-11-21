@@ -1,0 +1,1 @@
+{"name": "Klassisk_mekanikk", "id": 61272, "predecessors": [{"name": "Mekanikk", "id": 60263}, {"name": "Teoretisk_fysikk", "id": 61263}], "successors": [{"name": "Lyd", "id": 70618}, {"name": "Dynamikk", "id": 121425}, {"name": "Fluidmekanikk", "id": 290384}, {"name": "Himmelmekanikk", "id": 502053}, {"name": "Akustikk", "id": 902322}, {"name": "Kinematikk", "id": 1251778}]}

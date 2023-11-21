@@ -1,0 +1,1 @@
+{"name": "Telefon_bimbit", "id": 78637, "predecessors": [{"name": "Elektronik_pengguna", "id": 43827}, {"name": "Sistem_terbenam", "id": 301676}, {"name": "Teknologi", "id": 8027}, {"name": "Bahasa", "id": 7137}], "successors": [{"name": "Telefon_pintar", "id": 209950}, {"name": "Telefon_bimbit_Nokia", "id": 286739}, {"name": "Telefon_bimbit_skrin_sentuh", "id": 301643}]}

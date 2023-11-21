@@ -1,0 +1,1 @@
+{"name": "IBM_datamaskiner", "id": 1333016, "predecessors": [{"name": "Datamaskiner", "id": 9081}, {"name": "IBM", "id": 811394}], "successors": [{"name": "Z/Architecture", "id": 1368832}, {"name": "IBM_System/360", "id": 1476318}, {"name": "FreeBSD", "id": 1374833}, {"name": "Operativsystemer_for_IBM_System/360", "id": 1476866}]}

@@ -1,0 +1,1 @@
+{"name": "Sumber_tenaga", "id": 302386, "predecessors": [{"name": "Penghasilan_tenaga", "id": 302387}, {"name": "Tenaga", "id": 76551}], "successors": [{"name": "Bahan_api", "id": 302380}]}

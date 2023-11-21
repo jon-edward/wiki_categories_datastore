@@ -1,0 +1,1 @@
+{"name": "Clinics", "id": 41261645, "predecessors": [{"name": "Primary_care", "id": 15421672}, {"name": "Private_aid_programs", "id": 62706820}, {"name": "Types_of_health_care_facilities", "id": 14967315}, {"name": "Health_care", "id": 35880954}], "successors": [{"name": "Clinics_in_the_United_States", "id": 54439671}]}

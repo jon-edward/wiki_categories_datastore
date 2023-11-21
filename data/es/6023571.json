@@ -1,0 +1,1 @@
+{"name": "Conectores_eléctricos", "id": 6023571, "predecessors": [{"name": "Componentes_electrónicos", "id": 52194}, {"name": "Estándares_mecánicos", "id": 6023565}, {"name": "Componentes_pasivos", "id": 2580793}], "successors": [{"name": "Buses", "id": 66982}, {"name": "Conectores_audiovisuales", "id": 8756046}, {"name": "Conectores_coaxiales", "id": 8843002}]}

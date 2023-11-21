@@ -1,0 +1,1 @@
+{"name": "Environnement_de_bureau", "id": 3787844, "predecessors": [{"name": "Interface_utilisateur", "id": 82562}, {"name": "Logiciel_système", "id": 1431422}], "successors": [{"name": "GNOME", "id": 104104}, {"name": "KDE", "id": 151349}, {"name": "XFCE", "id": 4516639}]}

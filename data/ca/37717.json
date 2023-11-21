@@ -1,0 +1,1 @@
+{"name": "Càlcul", "id": 37717, "predecessors": [{"name": "Anàlisi_matemàtica", "id": 86320}], "successors": [{"name": "Càlcul_integral", "id": 266306}, {"name": "Sèries", "id": 313676}, {"name": "Càlcul_multivariable", "id": 405923}, {"name": "Successions", "id": 468710}, {"name": "Càlcul_diferencial", "id": 924323}]}

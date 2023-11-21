@@ -1,0 +1,1 @@
+{"name": "Schiffsabwrackung", "id": 5456297, "predecessors": [{"name": "Küstenbau", "id": 7712174}, {"name": "Schiffbau", "id": 240982}, {"name": "Wirtschaft", "id": 236153}, {"name": "Recycling", "id": 2096609}, {"name": "Abfallwirtschaft", "id": 1857277}], "successors": [{"name": "Verschrottung_in_Alang", "id": 12833209}, {"name": "Verschrottung_in_Aliağa", "id": 12833346}]}

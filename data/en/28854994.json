@@ -1,0 +1,1 @@
+{"name": "Recycling_by_product", "id": 28854994, "predecessors": [{"name": "Recycling", "id": 2119852}, {"name": "Recycling_by_material", "id": 28933001}], "successors": [{"name": "Vehicle_recycling", "id": 27950130}, {"name": "Paper_recycling", "id": 28855360}]}

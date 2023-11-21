@@ -1,0 +1,1 @@
+{"name": "Pengurusan_sisa", "id": 160033, "predecessors": [{"name": "Sisa", "id": 160034}, {"name": "Alam_sekitar", "id": 133164}], "successors": [{"name": "Sanitasi", "id": 1071813}, {"name": "Pencernaan_anaerob", "id": 160031}]}

@@ -1,0 +1,1 @@
+{"name": "Hubschraubertyp", "id": 289047, "predecessors": [{"name": "Hubschrauber", "id": 287493}, {"name": "Luftfahrzeug", "id": 1054297}], "successors": [{"name": "Rettungshubschrauber", "id": 1717238}, {"name": "Militärhubschrauber", "id": 8587559}, {"name": "Mehrzweckhubschrauber", "id": 8587573}]}

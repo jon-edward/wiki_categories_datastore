@@ -1,0 +1,1 @@
+{"name": "Himmelmekanikk", "id": 502053, "predecessors": [{"name": "Astrometri", "id": 502042}, {"name": "Klassisk_mekanikk", "id": 61272}, {"name": "Astronomi", "id": 9142}], "successors": [{"name": "Astrodynamikk", "id": 1012958}, {"name": "Gravitasjon", "id": 1031642}, {"name": "Baner", "id": 1057685}]}

@@ -1,0 +1,1 @@
+{"name": "FK_Sarajevo", "id": 5763119, "predecessors": [{"name": "Football_clubs_in_Bosnia_and_Herzegovina", "id": 34428248}], "successors": [{"name": "FK_Sarajevo_players", "id": 5763103}, {"name": "FK_Sarajevo_managers", "id": 36696329}, {"name": "FK_Sarajevo_seasons", "id": 43098390}, {"name": "FK_Sarajevo_presidents_of_the_assembly", "id": 63145858}]}

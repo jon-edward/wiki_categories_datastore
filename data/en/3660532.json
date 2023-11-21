@@ -1,0 +1,1 @@
+{"name": "TGV", "id": 3660532, "predecessors": [{"name": "Alstom", "id": 30587109}, {"name": "High-speed_trains", "id": 3650148}, {"name": "SNCF", "id": 2323663}], "successors": [{"name": "TGV_trainsets", "id": 25670136}, {"name": "High-speed_railway_lines_in_France", "id": 32355945}]}

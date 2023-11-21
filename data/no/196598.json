@@ -1,0 +1,1 @@
+{"name": "Oppvarming", "id": 196598, "predecessors": [{"name": "Energiomforming", "id": 1337698}, {"name": "Varme", "id": 1836612}], "successors": [{"name": "Ildsteder", "id": 307694}, {"name": "VVS", "id": 716441}]}

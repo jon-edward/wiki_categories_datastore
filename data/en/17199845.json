@@ -1,0 +1,1 @@
+{"name": "Buses_by_type", "id": 17199845, "predecessors": [{"name": "Vehicles_by_type", "id": 25508719}], "successors": [{"name": "Electric_buses", "id": 9267300}, {"name": "Double-decker_buses", "id": 11831605}, {"name": "Airport_bus_services", "id": 62049380}]}

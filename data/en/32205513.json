@@ -1,0 +1,1 @@
+{"name": "Lead_poisoning", "id": 32205513, "predecessors": [{"name": "Lead", "id": 6648993}, {"name": "Poisons", "id": 7628523}, {"name": "Toxic_effects_of_metals", "id": 32637759}], "successors": [{"name": "Lead_poisoning_incidents", "id": 49138692}]}

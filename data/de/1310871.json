@@ -1,0 +1,1 @@
+{"name": "Kreditgeschäft", "id": 1310871, "predecessors": [{"name": "Finanzierung", "id": 561840}, {"name": "Zinsgeschäft", "id": 1310866}], "successors": [{"name": "Bonitätsprüfung", "id": 4248486}, {"name": "Kreditsicherung", "id": 5147833}, {"name": "Kreditkarte", "id": 5829621}]}

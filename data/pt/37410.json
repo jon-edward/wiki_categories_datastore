@@ -1,0 +1,1 @@
+{"name": "GNOME", "id": 37410, "predecessors": [{"name": "Gestores_de_janelas", "id": 75778}, {"name": "Programas_Unix", "id": 60633}, {"name": "Software_do_Projeto_GNU", "id": 192762}, {"name": "Toolkits_gráficos", "id": 2493731}], "successors": [{"name": "Freedesktop.org", "id": 1441151}, {"name": "Programas_para_GNOME", "id": 3643870}]}

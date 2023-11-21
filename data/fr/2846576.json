@@ -1,0 +1,1 @@
+{"name": "Location", "id": 2846576, "predecessors": [{"name": "Droit_des_biens", "id": 882590}, {"name": "Droit_immobilier", "id": 808934}, {"name": "Service", "id": 744947}, {"name": "Type_de_contrat", "id": 1093063}], "successors": [{"name": "Entreprise_de_location_de_véhicules", "id": 1532564}, {"name": "Vélopartage", "id": 1739181}]}

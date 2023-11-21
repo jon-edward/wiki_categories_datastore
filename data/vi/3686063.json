@@ -1,0 +1,1 @@
+{"name": "Chất_lượng_phần_mềm", "id": 3686063, "predecessors": [{"name": "Chất_lượng", "id": 1591259}, {"name": "Công_nghệ_phần_mềm", "id": 47752}], "successors": [{"name": "Kiểm_thử_phần_mềm", "id": 3221574}, {"name": "Bất_thường_trong_phần_mềm", "id": 3686062}]}

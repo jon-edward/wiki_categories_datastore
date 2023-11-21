@@ -1,0 +1,1 @@
+{"name": "Transport_terrestre", "id": 306437, "predecessors": [{"name": "Transport", "id": 19819}], "successors": [{"name": "Ferrocarril", "id": 30691}, {"name": "Túnels", "id": 119725}, {"name": "Automoció", "id": 404791}, {"name": "Vehicles_terrestres", "id": 995436}, {"name": "Carreteres", "id": 145301}]}

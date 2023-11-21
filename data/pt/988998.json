@@ -1,0 +1,1 @@
+{"name": "Vacinação", "id": 988998, "predecessors": [{"name": "Biotecnologia", "id": 296940}, {"name": "Imunologia", "id": 63510}, {"name": "Medicina_preventiva", "id": 91613}, {"name": "Saúde_pública", "id": 972253}], "successors": [{"name": "Vacinas", "id": 1940216}, {"name": "Fabricantes_de_vacinas", "id": 6771271}]}

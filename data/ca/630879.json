@@ -1,0 +1,1 @@
+{"name": "Hidràulica", "id": 630879, "predecessors": [{"name": "Enginyeria_civil", "id": 30759}, {"name": "Enginyeria_mecànica", "id": 89938}, {"name": "Física", "id": 12670}], "successors": [{"name": "Vàlvules", "id": 755043}, {"name": "Enginyeria_hidràulica", "id": 970560}, {"name": "Bombes_(màquines)", "id": 1049465}, {"name": "Molins_hidràulics", "id": 1748457}]}

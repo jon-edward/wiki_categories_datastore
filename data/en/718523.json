@@ -1,0 +1,1 @@
+{"name": "Antihistamines", "id": 718523, "predecessors": [{"name": "Receptor_antagonists", "id": 11603042}, {"name": "Biogenic_amines", "id": 4488332}], "successors": [{"name": "H1_receptor_antagonists", "id": 797731}, {"name": "H2_receptor_antagonists", "id": 797746}, {"name": "H3_receptor_antagonists", "id": 11860209}]}

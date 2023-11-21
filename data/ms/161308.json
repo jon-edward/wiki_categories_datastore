@@ -1,0 +1,1 @@
+{"name": "Kaedah_pengesahan", "id": 161308, "predecessors": [{"name": "Keselamatan_komputer", "id": 42303}, {"name": "Kriptografi", "id": 42302}, {"name": "Daya_cipta", "id": 153898}], "successors": [{"name": "Biometri", "id": 161306}, {"name": "Dokumen_pengenalan_diri", "id": 352160}]}

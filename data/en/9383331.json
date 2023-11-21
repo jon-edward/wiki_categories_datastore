@@ -1,0 +1,1 @@
+{"name": "Toxins", "id": 9383331, "predecessors": [{"name": "Drugs", "id": 1325883}, {"name": "Poisons", "id": 7628523}, {"name": "Toxicology", "id": 1043816}, {"name": "Chemical_substances", "id": 1308633}], "successors": [{"name": "Toxic_effects_of_substances_chiefly_nonmedicinal_as_to_source", "id": 26434208}, {"name": "Toxic_amino_acids", "id": 53511970}]}

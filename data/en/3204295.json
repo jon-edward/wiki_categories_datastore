@@ -1,0 +1,1 @@
+{"name": "Chemical_synthesis", "id": 3204295, "predecessors": [{"name": "Chemical_processes", "id": 698322}, {"name": "Chemical_reactions", "id": 995738}], "successors": [{"name": "Total_synthesis", "id": 3129129}, {"name": "Carbohydrate_chemistry", "id": 22441793}, {"name": "Biosynthesis", "id": 23192469}]}

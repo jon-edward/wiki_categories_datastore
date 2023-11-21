@@ -1,0 +1,1 @@
+{"name": "Data_storage", "id": 25108506, "predecessors": [{"name": "Data_management", "id": 762162}], "successors": [{"name": "Computer_data_storage", "id": 711721}, {"name": "Video_storage", "id": 764184}, {"name": "Recording", "id": 1479108}, {"name": "Storage_media", "id": 14787871}]}

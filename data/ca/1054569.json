@@ -1,0 +1,1 @@
+{"name": "Transport_nàutic", "id": 1054569, "predecessors": [{"name": "Nàutica", "id": 208508}, {"name": "Transport", "id": 19819}], "successors": [{"name": "Canals", "id": 45246}, {"name": "Navegació", "id": 630833}, {"name": "Vaixells_de_transport", "id": 655551}, {"name": "Transport_marítim", "id": 995458}]}

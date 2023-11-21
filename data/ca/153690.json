@@ -1,0 +1,1 @@
+{"name": "Embarcacions", "id": 153690, "predecessors": [{"name": "Nàutica", "id": 208508}, {"name": "Vehicles", "id": 562181}], "successors": [{"name": "Submarins", "id": 39275}, {"name": "Vaixells", "id": 75548}, {"name": "Embarcacions_de_vela", "id": 655364}, {"name": "Embarcacions_de_rem", "id": 655391}, {"name": "Vaixells_militars", "id": 334368}]}

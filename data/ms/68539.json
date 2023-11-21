@@ -1,0 +1,1 @@
+{"name": "Sistem_kenderaan", "id": 68539, "predecessors": [{"name": "Kenderaan", "id": 23565}, {"name": "Teknologi", "id": 8027}], "successors": [{"name": "Enjin_kenderaan", "id": 88723}, {"name": "Bahagian_kenderaan", "id": 107793}]}

@@ -1,0 +1,1 @@
+{"name": "Medical_hygiene", "id": 3807053, "predecessors": [{"name": "Hygiene", "id": 1056532}, {"name": "Patient_safety", "id": 15446018}, {"name": "Health_promotion", "id": 4344045}], "successors": [{"name": "Antibiotics", "id": 695084}, {"name": "Antiseptics", "id": 901310}]}

@@ -1,0 +1,1 @@
+{"name": "Fährverkehr", "id": 12687761, "predecessors": [{"name": "Schifffahrt", "id": 236640}], "successors": [{"name": "Fähre", "id": 612206}, {"name": "Fährverbindung", "id": 7522490}, {"name": "Eisenbahnfähre", "id": 2857946}, {"name": "Fährbahnhof", "id": 12688129}, {"name": "Vogelfluglinie", "id": 5847354}, {"name": "Königslinie", "id": 5847374}]}

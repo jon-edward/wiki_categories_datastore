@@ -1,0 +1,1 @@
+{"name": "Seguridad_aérea", "id": 4509594, "predecessors": [{"name": "Aviación", "id": 282606}, {"name": "Transporte_aéreo", "id": 4518448}], "successors": [{"name": "Accidentes_e_incidentes_aéreos", "id": 1690753}, {"name": "Autoridades_nacionales_de_aviación_civil", "id": 2753644}, {"name": "Accidentes_e_incidentes_aéreos_causados_por_error_del_controlador", "id": 5358544}]}

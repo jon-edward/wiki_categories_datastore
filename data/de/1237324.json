@@ -1,0 +1,1 @@
+{"name": "Lehrmittel", "id": 1237324, "predecessors": [{"name": "Pädagogische_Methode/Lehre", "id": 391636}, {"name": "Schulmaterial", "id": 5049904}, {"name": "Unterricht", "id": 2918103}], "successors": [{"name": "Lerncomputer", "id": 570870}, {"name": "Schulbuchverlag", "id": 2888339}, {"name": "Lehrmittelverlag_(Deutschland)", "id": 4889240}]}

@@ -1,0 +1,1 @@
+{"name": "Chemical_pathology", "id": 728578, "predecessors": [{"name": "Medical_tests", "id": 1075994}, {"name": "Human_metabolites", "id": 39304616}], "successors": [{"name": "Tumor_markers", "id": 2849527}, {"name": "Blood_tests", "id": 4262351}]}

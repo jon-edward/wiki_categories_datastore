@@ -1,0 +1,1 @@
+{"name": "Bathrooms", "id": 24887661, "predecessors": [{"name": "Bathing", "id": 3431925}, {"name": "Sanitation", "id": 24327721}], "successors": [{"name": "Public_toilets", "id": 33980203}, {"name": "Bathroom_fixture_companies", "id": 39054622}]}

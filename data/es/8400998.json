@@ -1,0 +1,1 @@
+{"name": "IEEE_802.11", "id": 8400998, "predecessors": [{"name": "IEEE_802", "id": 196390}, {"name": "Normas_IEEE", "id": 3192347}, {"name": "Protocolos_de_nivel_de_enlace_de_datos", "id": 234650}, {"name": "Tecnologías_y_protocolos_de_nivel_físico", "id": 235044}, {"name": "Estándares_de_redes_informáticas", "id": 6017340}], "successors": [{"name": "Wi-Fi", "id": 4927131}]}

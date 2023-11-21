@@ -1,0 +1,1 @@
+{"name": "Query_languages", "id": 911721, "predecessors": [{"name": "Data_management", "id": 762162}, {"name": "Databases", "id": 2276471}, {"name": "Domain-specific_programming_languages", "id": 910359}], "successors": [{"name": "SQL", "id": 1250646}]}

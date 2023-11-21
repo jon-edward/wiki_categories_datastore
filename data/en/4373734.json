@@ -1,0 +1,1 @@
+{"name": "IPod_software", "id": 4373734, "predecessors": [{"name": "Apple_Inc._software", "id": 9301144}, {"name": "IPod", "id": 8323256}, {"name": "Media_players", "id": 924860}], "successors": [{"name": "IPod_games", "id": 7021036}, {"name": "ITunes", "id": 20706616}]}

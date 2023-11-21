@@ -1,0 +1,1 @@
+{"name": "Henkilöjunaliikenne", "id": 111524, "predecessors": [{"name": "Rautatieliikenne", "id": 26737}, {"name": "Joukkoliikenne", "id": 40744}], "successors": [{"name": "Paikallisjunaverkot", "id": 197083}, {"name": "Suurnopeusjunat", "id": 310088}, {"name": "Suomen_henkilöjunaliikenne", "id": 1518328}]}

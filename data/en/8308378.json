@@ -1,0 +1,1 @@
+{"name": "Ranchers", "id": 8308378, "predecessors": [{"name": "Livestock", "id": 917009}, {"name": "Ranches", "id": 2062442}, {"name": "Agriculture", "id": 694871}], "successors": [{"name": "Canadian_ranchers", "id": 4021903}, {"name": "Pastoralists", "id": 5154571}, {"name": "American_ranchers", "id": 10127520}]}

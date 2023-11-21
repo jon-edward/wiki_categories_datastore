@@ -1,0 +1,1 @@
+{"name": "Snow_or_ice_weather_phenomena", "id": 11606551, "predecessors": [{"name": "Meteorological_phenomena", "id": 38779805}, {"name": "Snow", "id": 1376968}, {"name": "Water_ice", "id": 3184757}, {"name": "Winter", "id": 2656251}], "successors": [{"name": "Blizzards", "id": 1539298}, {"name": "Ice_storms", "id": 12789127}, {"name": "Sea_ice", "id": 19552980}]}

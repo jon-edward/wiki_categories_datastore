@@ -1,0 +1,1 @@
+{"name": "RATP", "id": 667296, "predecessors": [{"name": "Transporto_en_Parizo", "id": 352286}], "successors": [{"name": "Metroo_de_Parizo", "id": 230051}, {"name": "Tramtransporto_en_Parizo", "id": 348371}, {"name": "RER_de_Francilio", "id": 349336}]}

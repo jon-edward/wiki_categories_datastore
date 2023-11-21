@@ -1,0 +1,1 @@
+{"name": "Maladie_métabolique_congénitale", "id": 286502, "predecessors": [{"name": "Maladie_en_pédiatrie", "id": 1449006}, {"name": "Maladie_génétique", "id": 132107}, {"name": "Maladie_métabolique", "id": 225609}, {"name": "Endocrinologie", "id": 99401}], "successors": [{"name": "Maladie_lysosomale", "id": 280774}]}

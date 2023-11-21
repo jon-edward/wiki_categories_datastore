@@ -1,0 +1,1 @@
+{"name": "Barcodes", "id": 839015, "predecessors": [{"name": "Encodings", "id": 1352241}, {"name": "Identifiers", "id": 2019925}, {"name": "Input/output", "id": 30373204}, {"name": "Labels", "id": 54320014}], "successors": [{"name": "DNA_barcoding", "id": 68796470}]}

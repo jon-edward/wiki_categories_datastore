@@ -1,0 +1,1 @@
+{"name": "Pengangkutan_dan_pengedaran_barang_perdagangan", "id": 153830, "predecessors": [{"name": "Industri", "id": 78664}, {"name": "Perkapalan", "id": 116383}, {"name": "Pemasaran", "id": 81756}], "successors": [{"name": "Sempadan", "id": 153829}, {"name": "Pembungkusan", "id": 321714}]}

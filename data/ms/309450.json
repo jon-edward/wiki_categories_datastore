@@ -1,0 +1,1 @@
+{"name": "Industri_makanan", "id": 309450, "predecessors": [{"name": "Industri", "id": 78664}, {"name": "Kehidupan_peribadi", "id": 76137}, {"name": "Tingkah_laku_manusia", "id": 82073}], "successors": [{"name": "Pertanian", "id": 74936}, {"name": "Sains_makanan", "id": 309453}, {"name": "Bahan_tambah_makanan", "id": 718777}]}

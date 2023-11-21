@@ -1,0 +1,1 @@
+{"name": "Valvonta", "id": 1179333, "predecessors": [{"name": "Tiedustelu", "id": 24946}, {"name": "Turvallisuus", "id": 26868}, {"name": "Turvallisuuspolitiikka", "id": 102868}, {"name": "Vakoilu", "id": 29442}, {"name": "Yksityisyys", "id": 237209}], "successors": [{"name": "Joukkovalvonta", "id": 1179095}, {"name": "Tunnistautuminen", "id": 1179364}]}

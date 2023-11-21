@@ -1,0 +1,1 @@
+{"name": "Componente_de_avion", "id": 214579, "predecessors": [{"name": "Avioane", "id": 28760}, {"name": "Aeronautică", "id": 28746}], "successors": [{"name": "Motoare_de_avion", "id": 214578}, {"name": "Comenzi_de_zbor", "id": 2007416}]}

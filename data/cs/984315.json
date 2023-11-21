@@ -1,0 +1,1 @@
+{"name": "Počítačová_paměť", "id": 984315, "predecessors": [{"name": "Hardware", "id": 4487}, {"name": "Paměť", "id": 4832}], "successors": [{"name": "Flash_paměti", "id": 95329}, {"name": "Čipové_karty", "id": 263276}, {"name": "Správa_paměti", "id": 272981}, {"name": "Ukládání_dat", "id": 281349}]}

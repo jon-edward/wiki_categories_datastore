@@ -1,0 +1,1 @@
+{"name": "Perkilangan", "id": 30204, "predecessors": [{"name": "Industri", "id": 78664}, {"name": "Kejuruteraan_mekanik", "id": 73734}, {"name": "Pengeluaran_dan_perkilangan", "id": 78663}], "successors": [{"name": "Bahan", "id": 58300}, {"name": "Kerja_logam", "id": 163721}, {"name": "Proses_industri", "id": 984235}]}

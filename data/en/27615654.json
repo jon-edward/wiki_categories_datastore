@@ -1,0 +1,1 @@
+{"name": "Logical_consequence", "id": 27615654, "predecessors": [{"name": "Binary_operations", "id": 4190449}, {"name": "Deductive_reasoning", "id": 37832157}, {"name": "Syntax_(logic)", "id": 34846657}], "successors": [{"name": "Conditionals", "id": 21981503}]}

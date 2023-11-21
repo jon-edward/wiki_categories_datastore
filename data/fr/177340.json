@@ -1,0 +1,1 @@
+{"name": "Maladie_auto-immune", "id": 177340, "predecessors": [{"name": "Immunologie", "id": 99415}, {"name": "Maladie", "id": 87795}], "successors": [{"name": "Maladie_inflammatoire_de_l'appareil_digestif", "id": 1606083}, {"name": "Sclérose_en_plaques", "id": 11313364}]}

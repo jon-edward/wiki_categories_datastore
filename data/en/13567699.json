@@ -1,0 +1,1 @@
+{"name": "Cancelled_spacecraft", "id": 13567699, "predecessors": [{"name": "Cancelled_projects", "id": 25624451}, {"name": "Proposed_spacecraft", "id": 2424350}], "successors": [{"name": "Cancelled_space_launch_vehicles", "id": 33337040}, {"name": "Cancelled_space_stations", "id": 41023485}]}

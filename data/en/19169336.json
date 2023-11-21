@@ -1,0 +1,1 @@
+{"name": "Distributed_generation", "id": 19169336, "predecessors": [{"name": "Electric_power_distribution", "id": 28606596}, {"name": "Electric_power_generation", "id": 28605732}, {"name": "Sustainable_technologies", "id": 6091415}, {"name": "Infrastructure", "id": 2962329}], "successors": [{"name": "Fuel_cells", "id": 1475382}]}

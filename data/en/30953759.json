@@ -1,0 +1,1 @@
+{"name": "Leasing", "id": 30953759, "predecessors": [{"name": "Capital_management", "id": 74274616}, {"name": "Financial_capital", "id": 51493716}, {"name": "Renting", "id": 13682390}], "successors": [{"name": "Leasing_companies", "id": 30953897}]}

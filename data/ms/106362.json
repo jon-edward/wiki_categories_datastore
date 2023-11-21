@@ -1,0 +1,1 @@
+{"name": "Perabot_jalan", "id": 106362, "predecessors": [{"name": "Infrastruktur_jalan_raya", "id": 144418}, {"name": "Jenis_jalan_raya", "id": 210019}], "successors": [{"name": "Papan_tanda_lalu_lintas", "id": 411040}]}

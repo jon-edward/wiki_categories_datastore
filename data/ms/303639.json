@@ -1,0 +1,1 @@
+{"name": "Artileri", "id": 303639, "predecessors": [{"name": "Senjata", "id": 84550}, {"name": "Senjata_api_mengikut_jenis", "id": 303641}, {"name": "Senjata_peluncur", "id": 303628}], "successors": [{"name": "Balistik", "id": 303635}, {"name": "Meriam", "id": 303637}]}

@@ -1,0 +1,1 @@
+{"name": "Space_agencies", "id": 1031839, "predecessors": [{"name": "Government_research", "id": 34575403}, {"name": "Space_organizations", "id": 7298832}, {"name": "Traffic_management", "id": 44938737}, {"name": "Space_industry", "id": 32035460}], "successors": [{"name": "JAXA", "id": 40967678}, {"name": "CNES", "id": 47326880}]}

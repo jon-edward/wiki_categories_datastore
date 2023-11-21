@@ -1,0 +1,1 @@
+{"name": "Formaalit_kielet", "id": 86686, "predecessors": [{"name": "Keinotekoiset_kielet", "id": 19200}, {"name": "Matemaattinen_logiikka", "id": 168760}, {"name": "Tietojenkäsittelyteoria", "id": 243863}, {"name": "Tietojenkäsittelytiede", "id": 37539}], "successors": [{"name": "Ohjelmointikielet", "id": 25115}, {"name": "XML", "id": 23020}]}

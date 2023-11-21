@@ -1,0 +1,1 @@
+{"name": "Componente_electronice", "id": 134771, "predecessors": [{"name": "Circuite_electronice", "id": 142772}, {"name": "Echipament_electric", "id": 301837}], "successors": [{"name": "Dispozitive_semiconductoare", "id": 40650}, {"name": "Tuburi_electronice", "id": 1329202}, {"name": "Conectori", "id": 2540323}]}

@@ -1,0 +1,1 @@
+{"name": "Hosiery", "id": 9912714, "predecessors": [{"name": "Fashion", "id": 1000816}, {"name": "Footwear", "id": 711905}, {"name": "Lingerie", "id": 10450826}], "successors": [{"name": "Socks", "id": 10794681}, {"name": "Hosiery_brands", "id": 10983325}]}

@@ -1,0 +1,1 @@
+{"name": "Cấu_tạo_máy_bay", "id": 1001066, "predecessors": [{"name": "Khí_cụ_bay", "id": 29192}, {"name": "Kỹ_thuật_hàng_không", "id": 3221368}, {"name": "Kỹ_thuật_hàng_không_vũ_trụ", "id": 1436237}], "successors": [{"name": "Thiết_bị_máy_bay", "id": 469190}, {"name": "Máy_bay_cánh_giữa", "id": 3666933}]}

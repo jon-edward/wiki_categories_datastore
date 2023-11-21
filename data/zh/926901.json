@@ -1,0 +1,1 @@
+{"name": "制冷剂", "id": 926901, "predecessors": [{"name": "冷冻剂", "id": 697169}, {"name": "化学品", "id": 80697}], "successors": [{"name": "水", "id": 80602}]}

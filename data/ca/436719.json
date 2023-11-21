@@ -1,0 +1,1 @@
+{"name": "Processament_de_senyals", "id": 436719, "predecessors": [{"name": "Electrònica", "id": 12667}, {"name": "Telecomunicacions", "id": 21317}], "successors": [{"name": "Processament_digital_del_senyal", "id": 950242}, {"name": "Filtres_electrònics", "id": 970566}, {"name": "Codificació", "id": 2017325}]}

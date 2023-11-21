@@ -1,0 +1,1 @@
+{"name": "Tenperatura", "id": 164111, "predecessors": [{"name": "Magnitude_termodinamikoak", "id": 164101}], "successors": [{"name": "Tresna_termikoak", "id": 648358}, {"name": "Hotz-boladak", "id": 899523}, {"name": "Hozte-teknologia", "id": 971560}]}

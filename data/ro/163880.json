@@ -1,0 +1,1 @@
+{"name": "Enzime", "id": 163880, "predecessors": [{"name": "Biochimie", "id": 27840}, {"name": "Catalizatori", "id": 861270}, {"name": "Proteine", "id": 111454}], "successors": [{"name": "Coenzime", "id": 1950989}, {"name": "Transferaze", "id": 661270}, {"name": "Hidrolaze", "id": 2398945}, {"name": "Liaze", "id": 2398949}, {"name": "Oxidoreductaze", "id": 2398951}]}

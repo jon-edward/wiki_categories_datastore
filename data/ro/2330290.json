@@ -1,0 +1,1 @@
+{"name": "Prevenire", "id": 2330290, "predecessors": [{"name": "Mecanisme_de_apărare", "id": 1243430}, {"name": "Planificare", "id": 464647}, {"name": "Predicție", "id": 759328}, {"name": "Comportament_uman", "id": 244948}], "successors": [{"name": "Medicină_preventivă", "id": 536589}, {"name": "Siguranță", "id": 871757}, {"name": "Prevenire_incendii", "id": 2948369}]}

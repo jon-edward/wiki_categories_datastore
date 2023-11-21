@@ -1,0 +1,1 @@
+{"name": "Ramuan_masakan", "id": 69033, "predecessors": [{"name": "Makanan", "id": 28867}, {"name": "Jirim", "id": 84644}], "successors": [{"name": "Bijirin", "id": 106000}, {"name": "Perasa", "id": 882374}, {"name": "Minyak_masak", "id": 974234}, {"name": "Agen_penaik", "id": 979167}]}

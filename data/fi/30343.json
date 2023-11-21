@@ -1,0 +1,1 @@
+{"name": "Kustantajat", "id": 30343, "predecessors": [{"name": "Kustannustoimi", "id": 27900}, {"name": "Ihmiset", "id": 1041580}], "successors": [{"name": "Saksalaiset_kustantajat", "id": 182458}, {"name": "Yhdysvaltalaiset_kustantajat", "id": 231695}, {"name": "Suomalaiset_kustantajat", "id": 1008431}, {"name": "Suomalaiset_kirjankustantajat", "id": 220271}]}

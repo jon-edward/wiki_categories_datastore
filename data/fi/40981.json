@@ -1,0 +1,1 @@
+{"name": "Polttoaineet", "id": 40981, "predecessors": [{"name": "Energia", "id": 27703}, {"name": "Energiantuotanto", "id": 22278}, {"name": "Kemialliset_aineet", "id": 32368}], "successors": [{"name": "Maakaasu", "id": 489508}, {"name": "Kivihiili", "id": 489555}, {"name": "Vety", "id": 513163}, {"name": "Biopolttoaineet", "id": 865854}, {"name": "Maaöljy", "id": 984801}]}

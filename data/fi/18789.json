@@ -1,0 +1,1 @@
+{"name": "Viljelyskasvit", "id": 18789, "predecessors": [{"name": "Hyötykasvit", "id": 965123}, {"name": "Kasvintuotanto", "id": 409646}], "successors": [{"name": "Kuitukasvit", "id": 367022}, {"name": "Viljeltävät_ravintokasvit", "id": 889606}, {"name": "Maustekasvit", "id": 909264}, {"name": "Rehukasvit", "id": 964286}, {"name": "Öljykasvit", "id": 1593532}]}

@@ -1,0 +1,1 @@
+{"name": "Steam_boilers", "id": 26060050, "predecessors": [{"name": "Boilers", "id": 3684059}, {"name": "Steam_engines", "id": 4270833}, {"name": "Steam_power", "id": 15894282}], "successors": [{"name": "Steam_boiler_components", "id": 30283338}]}

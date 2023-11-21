@@ -1,0 +1,1 @@
+{"name": "Transporto_en_Korsiko", "id": 800025, "predecessors": [{"name": "Korsiko", "id": 341388}, {"name": "Transporto_en_Francio", "id": 211587}], "successors": [{"name": "Transporto_en_Ajaccio", "id": 805899}, {"name": "Transporto_en_Bastia", "id": 805900}, {"name": "Fervojaj_stacioj_en_Corse", "id": 799076}]}

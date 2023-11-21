@@ -1,0 +1,1 @@
+{"name": "Astrometria", "id": 44409, "predecessors": [{"name": "Mesura", "id": 501351}, {"name": "Astronomia", "id": 13760}], "successors": [{"name": "Mecànica_celeste", "id": 64434}, {"name": "Radiometria", "id": 205885}, {"name": "Sistema_de_coordenades_celestes", "id": 405155}, {"name": "Línies_de_latitud", "id": 928626}, {"name": "Línies_de_longitud", "id": 928628}]}

@@ -1,0 +1,1 @@
+{"name": "Game_equipment", "id": 36829240, "predecessors": [{"name": "Gaming", "id": 11608552}, {"name": "Manufactured_goods", "id": 699552}], "successors": [{"name": "Dice", "id": 1090172}, {"name": "Sports_equipment", "id": 8619631}, {"name": "Video_game_hardware", "id": 9568781}, {"name": "Playing_cards", "id": 2167123}, {"name": "Domino_games", "id": 7705451}]}

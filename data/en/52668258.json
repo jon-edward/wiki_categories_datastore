@@ -1,0 +1,1 @@
+{"name": "Taxes_by_type", "id": 52668258, "predecessors": [{"name": "Tax", "id": 1241037}], "successors": [{"name": "Vehicle_taxes", "id": 7857367}, {"name": "Corporate_taxation", "id": 12806731}, {"name": "Environmental_tax", "id": 19043260}]}

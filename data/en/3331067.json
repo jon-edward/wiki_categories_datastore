@@ -1,0 +1,1 @@
+{"name": "Key_management", "id": 3331067, "predecessors": [{"name": "Cryptography", "id": 692160}, {"name": "Management_by_type", "id": 36812489}], "successors": [{"name": "Public_key_infrastructure", "id": 46271337}]}

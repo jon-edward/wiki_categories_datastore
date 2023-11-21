@@ -1,0 +1,1 @@
+{"name": "Penyakit_tropika", "id": 1001337, "predecessors": [{"name": "Penyakit_berjangkit", "id": 46517}], "successors": [{"name": "Ebola", "id": 1001338}, {"name": "Malaria", "id": 1155344}]}

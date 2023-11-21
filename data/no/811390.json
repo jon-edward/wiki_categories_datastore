@@ -1,0 +1,1 @@
+{"name": "IBM_mikroprosessorer", "id": 811390, "predecessors": [{"name": "Prosessorer", "id": 80419}, {"name": "IBM", "id": 811394}], "successors": [{"name": "POWER_mikroprosessorer", "id": 811391}, {"name": "PowerPC_mikroprosessorer", "id": 811395}]}

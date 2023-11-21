@@ -1,0 +1,1 @@
+{"name": "Video_hardware", "id": 10194180, "predecessors": [{"name": "Manufactured_goods", "id": 699552}, {"name": "Video", "id": 7513737}], "successors": [{"name": "Graphics_hardware", "id": 1931221}, {"name": "Audiovisual_connectors", "id": 2942607}, {"name": "Digital_video_recorders", "id": 3249526}, {"name": "Display_devices", "id": 12901362}]}

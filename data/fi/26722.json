@@ -1,0 +1,1 @@
+{"name": "Maanmittaus", "id": 26722, "predecessors": [{"name": "Geodesia", "id": 26723}, {"name": "Kartografia", "id": 164985}, {"name": "Mittaustekniikka", "id": 306958}, {"name": "Rakentaminen", "id": 24951}], "successors": [{"name": "Maanmittauslaitos", "id": 683221}, {"name": "Koordinaattijärjestelmät", "id": 967615}]}

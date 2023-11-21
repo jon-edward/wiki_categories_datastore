@@ -1,0 +1,1 @@
+{"name": "Congenital_disorders", "id": 966400, "predecessors": [{"name": "Animal_diseases", "id": 2992388}, {"name": "Pediatrics", "id": 790701}], "successors": [{"name": "Teratogens", "id": 733800}, {"name": "Inborn_errors_of_metabolism", "id": 1124856}, {"name": "Albinism", "id": 10720895}, {"name": "Cystic_fibrosis", "id": 38048145}]}

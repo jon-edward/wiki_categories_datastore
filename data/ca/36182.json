@@ -1,0 +1,1 @@
+{"name": "Combustibles", "id": 36182, "predecessors": [{"name": "Combustió", "id": 1057545}, {"name": "Energia", "id": 14232}, {"name": "Matèria", "id": 247873}], "successors": [{"name": "Biocombustibles", "id": 758182}, {"name": "Gasos_combustibles", "id": 995845}, {"name": "Carbó_i_derivats", "id": 184206}, {"name": "Gas_natural", "id": 747685}]}

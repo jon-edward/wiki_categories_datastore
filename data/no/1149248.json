@@ -1,0 +1,1 @@
+{"name": "Elektroakustikk", "id": 1149248, "predecessors": [{"name": "Akustikk", "id": 902322}, {"name": "Lydteknikk", "id": 250948}, {"name": "Signalbehandling", "id": 1256744}], "successors": [{"name": "Lydkort", "id": 481038}, {"name": "Produsenter_av_lydutstyr", "id": 1251793}, {"name": "Elektrofoner", "id": 1376313}]}
