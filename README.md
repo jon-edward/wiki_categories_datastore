@@ -1,7 +1,7 @@
 # wiki_categories_datastore
 
-This repository contains automatic deployments of the Wikipedia category tree, trimmed by the algorithm described in 
-[process_language](https://github.com/jon-edward/wiki_categories/blob/main/wiki_categories/scripts/save_graph_run.py).
+This repository contains automatic deployments of the Wikipedia category tree, trimmed by the algorithm defined in 
+[main](https://github.com/jon-edward/wiki_categories_datastore/blob/main/main.py).
 
 **The data stored here does not contain faithful reproductions of the Wikipedia category trees. To make a 
 trimmed category tree, many categories are excluded and there are many edges added that do not exist in their respective 
