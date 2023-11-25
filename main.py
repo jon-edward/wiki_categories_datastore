@@ -2,7 +2,10 @@ import datetime
 import json
 import logging
 import pathlib
+import sys
 import traceback
+
+sys.path.append(str(pathlib.Path("./wiki_categories").absolute()))
 
 from wiki_categories.scripts.save_graph_run import process_language, default_languages
 
