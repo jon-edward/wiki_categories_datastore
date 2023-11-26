@@ -1,10 +1,4 @@
-"""
-Process languages defined below, and save to ./data/
-
-If the run should be forced (not check existing output for currentness), set 
-environment variable FORCE_WIKI_RUN
-"""
-
+import argparse
 import datetime
 import gzip
 import json
@@ -208,9 +202,19 @@ def process_language(lang: str, save_dir: pathlib.Path, force: bool = False) -> 
 
 
 if __name__ == '__main__':
-    logging.getLogger().setLevel(logging.INFO)
+    parser = argparse.ArgumentParser(
+        description="Process languages defined by `default_languages`, and save to ./data/"
+    )
 
-    _force = True if "FORCE_WIKI_RUN" in os.environ else False
+    parser.add_argument(
+        "--force", 
+        action="store_true", 
+        help="If provided, don't check existing output for currentness and force run execution."
+    )
+
+    _force = vars(parser.parse_args()).get("force", False)
+    
+    logging.getLogger().setLevel(logging.INFO)
 
     started = datetime.datetime.now()
 
