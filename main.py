@@ -1,4 +1,12 @@
+"""
+Process languages defined below, and save to ./data/
+
+If the run should be forced (not check existing output for currentness), set 
+environment variable FORCE_WIKI_RUN
+"""
+
 import datetime
+import gzip
 import json
 import logging
 import pathlib
@@ -128,12 +136,12 @@ def save_graph_run(
         with open(save_dir.joinpath(f"{x}.json"), 'w', encoding="utf-8") as f:
             json.dump(output_dict, f, ensure_ascii=False)
 
-    with open(save_dir.joinpath("_index.bytes"), 'wb') as f:
+    with gzip.open(save_dir.joinpath("_index.txt.gz"), 'wt') as f:
         for n in src_tree.nodes:
-            f.write(n.to_bytes(4, 'big'))
+            f.write(f"{n} {src_tree.nodes[n]["name"]}\n")
 
 
-def process_language(lang: str, save_dir: pathlib.Path) -> bool:
+def process_language(lang: str, save_dir: pathlib.Path, force: bool = False) -> bool:
     started = time.time()
     assets = Assets(lang, wiki_dump=wiki_data_dump.WikiDump(mirror=MirrorType.WIKIMEDIA))
 
@@ -144,7 +152,7 @@ def process_language(lang: str, save_dir: pathlib.Path) -> bool:
     page_percentile = 70
     max_depth = 100
 
-    if save_dir.joinpath("_meta.json").exists():
+    if not force and save_dir.joinpath("_meta.json").exists():
         try:
             with open(save_dir.joinpath("_meta.json"), 'r', encoding="utf-8") as f:
                 meta_json = json.load(f)
@@ -169,7 +177,7 @@ def process_language(lang: str, save_dir: pathlib.Path) -> bool:
     for file_name in os.listdir(save_dir):
         file_name = str(file_name)
 
-        if file_name.endswith(".json"):
+        if file_name.endswith(".json") or file_name.endswith(".txt.gz"):
             os.unlink(save_dir.joinpath(file_name))
 
     save_graph_run(
@@ -202,6 +210,8 @@ def process_language(lang: str, save_dir: pathlib.Path) -> bool:
 if __name__ == '__main__':
     logging.getLogger().setLevel(logging.INFO)
 
+    _force = True if "FORCE_WIKI_RUN" in os.environ else False
+
     started = datetime.datetime.now()
 
     root = pathlib.Path("./data")
@@ -215,7 +225,7 @@ if __name__ == '__main__':
         logging.info(f"Starting {language}wiki at {datetime.datetime.now()}. {index + 1} of {len(default_languages)}")
 
         try:
-            finished = process_language(language, root.joinpath(language))
+            finished = process_language(language, root.joinpath(language), force=_force)
 
             if finished:
                 languages_processed.append(language)
