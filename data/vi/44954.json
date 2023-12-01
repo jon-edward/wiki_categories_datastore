@@ -1,1 +1,0 @@
-{"name": "IEEE_802", "id": 44954, "predecessors": [{"name": "Chuẩn_mạng_máy_tính", "id": 373194}, {"name": "Giao_thức_liên_kết", "id": 188609}, {"name": "Giao_thức_tầng_vật_lý", "id": 14669827}, {"name": "Tiêu_chuẩn_IEEE", "id": 3707831}], "successors": [{"name": "Ethernet", "id": 44953}, {"name": "Wi-Fi", "id": 3184853}, {"name": "IEEE_802.11", "id": 3184854}]}

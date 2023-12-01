@@ -1,1 +1,1 @@
-{"name": "Artiste_inuit", "id": 5277358, "predecessors": [{"name": "Arctique", "id": 367026}, {"name": "Culture_inuite", "id": 8119846}, {"name": "Anthropologie", "id": 84938}], "successors": [{"name": "Sculpteur_inuit", "id": 2972744}, {"name": "Graveur_inuit", "id": 12464220}]}
+{"name": "Artiste_inuit", "id": 5277358, "predecessors": [{"name": "Arctique", "id": 367026}, {"name": "Culture_inuite", "id": 8119846}, {"name": "Accueil", "id": 1155637}], "successors": [{"name": "Sculpteur_inuit", "id": 2972744}, {"name": "Graveur_inuit", "id": 12464220}]}

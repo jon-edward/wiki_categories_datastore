@@ -1,1 +1,1 @@
-{"name": "Fotball_i_Buskerud", "id": 979709, "predecessors": [{"name": "Kultur_i_Viken", "id": 1758118}, {"name": "Fotball_i_Norge", "id": 65725}], "successors": [{"name": "Fotballag_i_Buskerud", "id": 191821}]}
+{"name": "Fotball_i_Buskerud", "id": 979709, "predecessors": [{"name": "Kultur_i_Buskerud", "id": 105313}, {"name": "Fotball_i_Norge", "id": 65725}], "successors": [{"name": "Fotballag_i_Buskerud", "id": 191821}, {"name": "Fotballstadioner_i_Buskerud", "id": 2158009}]}

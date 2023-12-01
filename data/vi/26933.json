@@ -1,1 +1,0 @@
-{"name": "Bệnh_lao", "id": 26933, "predecessors": [{"name": "Bệnh_truyền_nhiễm", "id": 12910}, {"name": "Bệnh_vi_khuẩn", "id": 1773684}, {"name": "Khoa_hô_hấp", "id": 16713}, {"name": "Mycobacterium", "id": 1684407}], "successors": [{"name": "Chết_vì_bệnh_lao", "id": 1752072}]}

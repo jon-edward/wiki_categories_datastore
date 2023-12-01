@@ -1,1 +1,1 @@
-{"name": "Cimetière_dans_le_Bas-Rhin", "id": 8387285, "predecessors": [{"name": "Monument_dans_le_Bas-Rhin", "id": 383595}, {"name": "Architecture_en_France", "id": 4907456}, {"name": "Histoire_de_France", "id": 83579}], "successors": [{"name": "Cimetière_à_Strasbourg", "id": 4770028}]}
+{"name": "Cimetière_dans_le_Bas-Rhin", "id": 8387285, "predecessors": [{"name": "Monument_dans_le_Bas-Rhin", "id": 383595}, {"name": "Histoire_de_France", "id": 83579}, {"name": "Rite_funéraire", "id": 639877}], "successors": [{"name": "Cimetière_à_Strasbourg", "id": 4770028}]}

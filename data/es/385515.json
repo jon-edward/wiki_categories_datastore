@@ -1,1 +1,1 @@
-{"name": "Cirque_du_Soleil", "id": 385515, "predecessors": [{"name": "Circos", "id": 3118123}, {"name": "Cultura_de_Quebec", "id": 2454363}, {"name": "Empresas_de_Canadá", "id": 131169}, {"name": "Grupos_de_teatro", "id": 414933}], "successors": []}
+{"name": "Cirque_du_Soleil", "id": 385515, "predecessors": [{"name": "Circos", "id": 3118123}, {"name": "Cultura_de_Quebec", "id": 2454363}, {"name": "Empresas_de_Canadá", "id": 131169}, {"name": "Grupos_de_teatro", "id": 414933}], "successors": [{"name": "Artistas_de_Cirque_du_Soleil", "id": 5322812}]}

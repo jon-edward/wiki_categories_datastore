@@ -1,1 +1,1 @@
-{"name": "Eläinruoka", "id": 937309, "predecessors": [{"name": "Ruoka", "id": 23298}], "successors": [{"name": "Rehu", "id": 1273399}]}
+{"name": "Eläinruoka", "id": 937309, "predecessors": [{"name": "Ihmisen_toiminta", "id": 826193}], "successors": [{"name": "Rehu", "id": 1273399}]}

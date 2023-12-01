@@ -1,1 +1,1 @@
-{"name": "Geneven_kantonin_kunnat", "id": 1375128, "predecessors": [{"name": "Sveitsin_maantiede", "id": 105622}, {"name": "Paikallishallinto", "id": 102778}], "successors": [{"name": "Geneve", "id": 337784}, {"name": "Le_Grand-Saconnex", "id": 1469494}, {"name": "ISO", "id": 28797}]}
+{"name": "Geneven_kantonin_kunnat", "id": 1375128, "predecessors": [{"name": "Hallinto", "id": 26870}, {"name": "Paikallishallinto", "id": 102778}], "successors": [{"name": "Geneve", "id": 337784}, {"name": "Le_Grand-Saconnex", "id": 1469494}, {"name": "ISO", "id": 28797}]}

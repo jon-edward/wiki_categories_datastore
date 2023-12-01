@@ -1,1 +1,1 @@
-{"name": "Actores_ficticios", "id": 1505391, "predecessors": [{"name": "Actores", "id": 52486}, {"name": "Artistas_ficticios", "id": 9353495}, {"name": "Ocupaciones", "id": 77994}], "successors": [{"name": "Luchadores_profesionales_ficticios", "id": 10367559}]}
+{"name": "Actores_ficticios", "id": 1505391, "predecessors": [{"name": "Artistas_ficticios", "id": 9353495}, {"name": "Actuación", "id": 6419374}, {"name": "Ocupaciones", "id": 77994}], "successors": [{"name": "Luchadores_profesionales_ficticios", "id": 10367559}]}

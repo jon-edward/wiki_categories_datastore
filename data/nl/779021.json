@@ -1,1 +1,0 @@
-{"name": "Luchtdruk", "id": 779021, "predecessors": [{"name": "Meteorologie", "id": 63469}, {"name": "Thermodynamica", "id": 67213}], "successors": [{"name": "Wind", "id": 80719}]}

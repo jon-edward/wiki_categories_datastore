@@ -1,1 +1,0 @@
-{"name": "Kiểm_thử_phần_mềm", "id": 3221574, "predecessors": [{"name": "Bảo_đảm_chất_lượng", "id": 3221576}, {"name": "Chất_lượng_phần_mềm", "id": 3686063}, {"name": "Công_nghệ_phần_mềm", "id": 47752}, {"name": "Thử_nghiệm_sản_phẩm", "id": 3201928}], "successors": [{"name": "Bất_thường_trong_phần_mềm", "id": 3686062}, {"name": "Công_cụ_kiểm_thử_phần_mềm", "id": 3699342}]}

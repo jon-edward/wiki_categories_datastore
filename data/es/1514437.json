@@ -1,1 +1,1 @@
-{"name": "Seguros_de_automóvil", "id": 1514437, "predecessors": [{"name": "Automoción", "id": 73875}, {"name": "Derecho_del_transporte_por_carretera", "id": 1574679}, {"name": "Seguros", "id": 1532771}], "successors": []}
+{"name": "Seguros_de_automóvil", "id": 1514437, "predecessors": [{"name": "Automoción", "id": 73875}, {"name": "Derecho_del_transporte_por_carretera", "id": 1574679}, {"name": "Seguros", "id": 1532771}], "successors": [{"name": "Mapfre", "id": 839094}]}

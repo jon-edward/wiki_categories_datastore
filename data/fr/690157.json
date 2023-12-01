@@ -1,1 +1,1 @@
-{"name": "Parfum", "id": 690157, "predecessors": [{"name": "Chimie", "id": 81540}], "successors": [{"name": "Parfumerie", "id": 437583}, {"name": "Composant_de_parfum", "id": 704311}]}
+{"name": "Parfum", "id": 690157, "predecessors": [{"name": "Chimie", "id": 81540}], "successors": [{"name": "Parfumerie", "id": 437583}, {"name": "Composant_de_parfum", "id": 704311}, {"name": "Parfum_dans_la_fiction", "id": 16010075}]}

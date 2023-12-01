@@ -1,1 +1,1 @@
-{"name": "Ursidae", "id": 8018629, "predecessors": [{"name": "Animal_carnivore", "id": 12520517}], "successors": [{"name": "Ours_connu", "id": 5022515}, {"name": "Panda_géant", "id": 12626375}, {"name": "Ours_dans_les_Pyrénées", "id": 6510756}]}
+{"name": "Ursidae", "id": 8018629, "predecessors": [{"name": "Mammalia", "id": 5510836}], "successors": [{"name": "Ours_connu", "id": 5022515}, {"name": "Panda_géant", "id": 12626375}, {"name": "Ours_dans_les_Pyrénées", "id": 6510756}]}

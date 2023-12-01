@@ -1,1 +1,1 @@
-{"name": "Divinité_des_animaux", "id": 6501024, "predecessors": [{"name": "Animal_dans_la_culture", "id": 4295088}, {"name": "Divinité", "id": 360889}], "successors": [{"name": "Divinité_liée_au_serpent", "id": 6501054}]}
+{"name": "Divinité_des_animaux", "id": 6501024, "predecessors": [{"name": "Animal_dans_la_culture", "id": 4295088}, {"name": "Divinité", "id": 360889}, {"name": "Biologie", "id": 81357}], "successors": [{"name": "Divinité_liée_au_serpent", "id": 6501054}]}

@@ -1,1 +1,1 @@
-{"name": "Canidae", "id": 134232, "predecessors": [{"name": "Animal_carnivore", "id": 12520517}], "successors": [{"name": "Chien", "id": 109029}, {"name": "Canis_lupus", "id": 2755388}, {"name": "Canidé_dans_la_culture", "id": 4295393}, {"name": "Renard", "id": 11029855}]}
+{"name": "Canidae", "id": 134232, "predecessors": [{"name": "Mammalia", "id": 5510836}], "successors": [{"name": "Chien", "id": 109029}, {"name": "Canis_lupus", "id": 2755388}, {"name": "Canidé_dans_la_culture", "id": 4295393}, {"name": "Renard", "id": 11029855}]}

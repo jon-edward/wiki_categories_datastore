@@ -1,1 +1,1 @@
-{"name": "Kuntoutus", "id": 301584, "predecessors": [{"name": "Sosiaalipolitiikka", "id": 26847}, {"name": "Terveys", "id": 209689}], "successors": []}
+{"name": "Kuntoutus", "id": 301584, "predecessors": [{"name": "Sosiaalipolitiikka", "id": 26847}, {"name": "Terveys", "id": 209689}], "successors": [{"name": "Ammatillinen_kuntoutus", "id": 1778108}, {"name": "Psykoterapia", "id": 100501}, {"name": "Suomalaiset_fysioterapeutit", "id": 619665}]}

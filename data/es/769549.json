@@ -1,1 +1,1 @@
-{"name": "Estaciones_del_Biotrén", "id": 769549, "predecessors": [{"name": "Estaciones_de_ferrocarril_de_la_Región_del_Biobío", "id": 6076352}, {"name": "Transporte_público_de_Chile", "id": 7049811}, {"name": "Edificios_y_estructuras_por_tipo", "id": 3260541}], "successors": []}
+{"name": "Estaciones_del_Biotrén", "id": 769549, "predecessors": [{"name": "Estaciones_de_ferrocarril_de_la_Región_del_Biobío", "id": 6076352}, {"name": "Transporte_en_Gran_Concepción", "id": 2077500}, {"name": "Edificios_y_estructuras_por_tipo", "id": 3260541}], "successors": []}

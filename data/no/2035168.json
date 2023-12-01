@@ -1,1 +1,1 @@
-{"name": "Jernbanebyggverk_i_Bærum", "id": 2035168, "predecessors": [{"name": "Byggverk_i_Bærum", "id": 1327165}, {"name": "Transport_i_Bærum", "id": 417123}, {"name": "Jernbane_i_Viken", "id": 1758103}], "successors": [{"name": "Jernbanestasjoner_i_Bærum", "id": 417447}]}
+{"name": "Jernbanebyggverk_i_Bærum", "id": 2035168, "predecessors": [{"name": "Byggverk_i_Bærum", "id": 1327165}, {"name": "Transport_i_Bærum", "id": 417123}, {"name": "Jernbane_i_Norge", "id": 39893}], "successors": [{"name": "Jernbanestasjoner_i_Bærum", "id": 417447}]}

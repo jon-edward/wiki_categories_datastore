@@ -1,1 +1,0 @@
-{"name": "Desktopomgeving", "id": 263821, "predecessors": [{"name": "Systeemsoftware", "id": 263814}, {"name": "X_Window_System", "id": 507806}], "successors": [{"name": "KDE", "id": 210624}, {"name": "GNOME", "id": 248046}, {"name": "TDE", "id": 5807588}]}

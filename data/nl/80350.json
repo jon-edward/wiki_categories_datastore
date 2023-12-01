@@ -1,1 +1,0 @@
-{"name": "Dag", "id": 80350, "predecessors": [{"name": "Evenement", "id": 192971}, {"name": "Tijdseenheid", "id": 114707}], "successors": [{"name": "Datum", "id": 88416}, {"name": "Themadag_of_themaweek", "id": 1062985}, {"name": "Feestdag", "id": 1385023}, {"name": "Herdenkingsdag", "id": 2141863}, {"name": "Naamdag", "id": 5238238}, {"name": "Ontbijt", "id": 5167446}]}

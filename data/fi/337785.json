@@ -1,1 +1,1 @@
-{"name": "Basel", "id": 337785, "predecessors": [{"name": "Sveitsin_kaupungit", "id": 34986}, {"name": "Sveitsin_maantiede", "id": 105622}], "successors": [{"name": "Baselin_urheilu", "id": 1489557}]}
+{"name": "Basel", "id": 337785, "predecessors": [{"name": "Sveitsin_kaupungit", "id": 34986}, {"name": "Hallinto", "id": 26870}], "successors": [{"name": "Baselin_urheilu", "id": 1489557}]}

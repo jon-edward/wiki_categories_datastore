@@ -1,1 +1,1 @@
-{"name": "Local_Group", "id": 953906, "predecessors": [{"name": "Galaxy_clusters", "id": 953703}, {"name": "Galaxy_superclusters", "id": 953706}], "successors": [{"name": "Andromeda_Subgroup", "id": 1240751}, {"name": "Milky_Way_Subgroup", "id": 1240768}]}
+{"name": "Local_Group", "id": 953906, "predecessors": [{"name": "Galaxy_clusters", "id": 953703}, {"name": "Galaxy_superclusters", "id": 953706}], "successors": [{"name": "Andromeda_Subgroup", "id": 1240751}, {"name": "Milky_Way_Subgroup", "id": 1240768}, {"name": "Triangulum_Galaxy", "id": 28942753}]}

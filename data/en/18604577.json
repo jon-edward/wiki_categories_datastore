@@ -1,1 +1,1 @@
-{"name": "Wave_power", "id": 18604577, "predecessors": [{"name": "Marine_energy", "id": 18056759}, {"name": "Renewable_energy", "id": 906645}], "successors": []}
+{"name": "Wave_power", "id": 18604577, "predecessors": [{"name": "Marine_energy", "id": 18056759}, {"name": "Electric_power", "id": 959286}], "successors": []}

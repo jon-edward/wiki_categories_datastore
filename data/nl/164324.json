@@ -1,1 +1,0 @@
-{"name": "Internetprotocol", "id": 164324, "predecessors": [{"name": "Internet", "id": 63440}, {"name": "Netwerkprotocol", "id": 81412}], "successors": [{"name": "Domain_Name_System", "id": 480782}, {"name": "Internet_Relay_Chat", "id": 1680270}, {"name": "XMPP-client", "id": 5376989}]}

@@ -1,1 +1,1 @@
-{"name": "Tenis_v_USA_v_roce_2012", "id": 1776859, "predecessors": [{"name": "Historie_tenisu", "id": 445771}, {"name": "Tenis_v_roce_2012", "id": 710828}, {"name": "Sport_podle_let", "id": 623744}], "successors": [{"name": "US_Open_2012", "id": 829376}]}
+{"name": "Tenis_v_USA_v_roce_2012", "id": 1776859, "predecessors": [{"name": "Sport_v_USA_v_roce_2012", "id": 1768974}, {"name": "Historie_tenisu", "id": 445771}, {"name": "Tenis_v_roce_2012", "id": 710828}], "successors": [{"name": "US_Open_2012", "id": 829376}]}

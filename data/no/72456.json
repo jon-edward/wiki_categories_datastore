@@ -1,1 +1,1 @@
-{"name": "Fjorder_i_Viken", "id": 72456, "predecessors": [{"name": "Glasiale_landformer", "id": 1111184}, {"name": "Vikens_geografi", "id": 1746889}], "successors": [{"name": "Fjorder_i_Østfold", "id": 72460}, {"name": "Oslofjorden", "id": 323914}, {"name": "Drammensfjorden", "id": 2066604}]}
+{"name": "Fjorder_i_Akershus", "id": 72456, "predecessors": [{"name": "Akershus'_geografi", "id": 58562}, {"name": "Glasiale_landformer", "id": 1111184}], "successors": [{"name": "Oslofjorden", "id": 323914}, {"name": "Drammensfjorden", "id": 2066604}]}

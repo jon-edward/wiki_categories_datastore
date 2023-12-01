@@ -1,1 +1,1 @@
-{"name": "タイの鉄道車両", "id": 4139786, "predecessors": [{"name": "タイの鉄道", "id": 384060}, {"name": "交通", "id": 124935}], "successors": []}
+{"name": "タイの鉄道車両", "id": 4139786, "predecessors": [{"name": "鉄道", "id": 103555}, {"name": "交通", "id": 124935}], "successors": []}

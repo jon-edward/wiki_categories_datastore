@@ -1,1 +1,1 @@
-{"name": "Acetal", "id": 3340041, "predecessors": [{"name": "Ether", "id": 846363}], "successors": [{"name": "Disaccharid", "id": 3340181}, {"name": "Benzodioxol", "id": 5458347}, {"name": "Primverosid", "id": 12763359}, {"name": "Anthocyan", "id": 12772440}]}
+{"name": "Acetal", "id": 3340041, "predecessors": [{"name": "Sauerstoffbrückenverbindung", "id": 12201242}], "successors": [{"name": "Disaccharid", "id": 3340181}, {"name": "Benzodioxol", "id": 5458347}, {"name": "Primverosid", "id": 12763359}, {"name": "Anthocyan", "id": 12772440}]}

@@ -1,1 +1,1 @@
-{"name": "Film_de_Studiocanal", "id": 13469723, "predecessors": [{"name": "Entreprise_du_cinéma", "id": 2213312}], "successors": []}
+{"name": "Film_de_Studiocanal", "id": 13469723, "predecessors": [{"name": "Entreprise_du_cinéma", "id": 2213312}], "successors": [{"name": "Film_distribué_par_Studiocanal", "id": 15296706}]}

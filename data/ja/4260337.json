@@ -1,1 +1,1 @@
-{"name": "UEFAチャンピオンズリーグ決勝", "id": 4260337, "predecessors": [{"name": "UEFAサッカー大会", "id": 608188}, {"name": "スポーツの試合", "id": 2630017}], "successors": []}
+{"name": "UEFAチャンピオンズリーグ決勝", "id": 4260337, "predecessors": [{"name": "スポーツの試合", "id": 2630017}, {"name": "UEFAサッカー大会", "id": 608188}], "successors": []}

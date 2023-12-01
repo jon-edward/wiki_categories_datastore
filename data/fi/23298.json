@@ -1,1 +1,0 @@
-{"name": "Ruoka", "id": 23298, "predecessors": [{"name": "Ruoka_ja_juoma", "id": 210619}], "successors": [{"name": "Ruokalajit", "id": 37404}, {"name": "Ruoka-ainekset", "id": 414023}, {"name": "Ihmisravinnoksi_käytetyt_kasvit", "id": 921443}, {"name": "Eläinruoka", "id": 937309}]}

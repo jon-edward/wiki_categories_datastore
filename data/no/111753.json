@@ -1,1 +1,1 @@
-{"name": "Turisthytter_i_Telemark", "id": 111753, "predecessors": [{"name": "Kultur_i_Telemark", "id": 105310}, {"name": "Byggverk_i_Norge", "id": 1073706}, {"name": "Næringsliv_i_Telemark", "id": 352592}, {"name": "Administrative_inndelinger_i_Norge", "id": 497295}], "successors": []}
+{"name": "Turisthytter_i_Telemark", "id": 111753, "predecessors": [{"name": "Byggverk_i_Norge", "id": 1073706}, {"name": "Næringsliv_i_Telemark", "id": 352592}, {"name": "Administrative_inndelinger_i_Norge", "id": 497295}, {"name": "Kultur_i_Telemark", "id": 105310}], "successors": []}

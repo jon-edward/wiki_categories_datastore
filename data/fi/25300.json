@@ -1,1 +1,1 @@
-{"name": "Keittiövälineet", "id": 25300, "predecessors": [{"name": "Kotitalous", "id": 27272}, {"name": "Ruoanlaitto", "id": 26821}, {"name": "Välineet", "id": 87843}, {"name": "Ihmisen_toiminta", "id": 826193}], "successors": [{"name": "Teevälineet", "id": 1734634}]}
+{"name": "Keittiövälineet", "id": 25300, "predecessors": [{"name": "Kotitalous", "id": 27272}, {"name": "Välineet", "id": 87843}, {"name": "Ihmisen_toiminta", "id": 826193}, {"name": "Harrastukset", "id": 21513}], "successors": [{"name": "Keittiökoneet", "id": 1005054}, {"name": "Teevälineet", "id": 1734634}]}

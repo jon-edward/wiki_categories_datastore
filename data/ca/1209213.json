@@ -1,1 +1,1 @@
-{"name": "Equips_continentals", "id": 1209213, "predecessors": [{"name": "Competicions_ciclistes", "id": 61315}, {"name": "Esports_d'equip", "id": 53116}], "successors": []}
+{"name": "Equips_continentals", "id": 1209213, "predecessors": [{"name": "Competicions_ciclistes", "id": 61315}, {"name": "Ciclisme", "id": 13688}], "successors": []}

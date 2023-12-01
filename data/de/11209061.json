@@ -1,1 +1,1 @@
-{"name": "Dreimotoriges_Flugzeug_mit_Kolbenmotoren", "id": 11209061, "predecessors": [{"name": "Flugzeugtyp", "id": 239348}], "successors": []}
+{"name": "Dreimotoriges_Flugzeug_mit_Kolbenmotoren", "id": 11209061, "predecessors": [{"name": "Propellerbetriebenes_Fahrzeug", "id": 12705142}], "successors": []}

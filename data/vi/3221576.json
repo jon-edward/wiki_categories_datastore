@@ -1,1 +1,0 @@
-{"name": "Bảo_đảm_chất_lượng", "id": 3221576, "predecessors": [{"name": "Quản_lý_chất_lượng", "id": 287188}, {"name": "Đánh_giá", "id": 1685435}], "successors": [{"name": "Kiểm_tra_không_phá_hủy", "id": 1407359}, {"name": "Kiểm_thử_phần_mềm", "id": 3221574}]}

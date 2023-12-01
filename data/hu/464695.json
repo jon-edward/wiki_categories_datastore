@@ -1,1 +1,1 @@
-{"name": "Tűzesetek", "id": 464695, "predecessors": [{"name": "Katasztrófák", "id": 89178}, {"name": "Tűzvédelem", "id": 272020}], "successors": []}
+{"name": "Tűzesetek", "id": 464695, "predecessors": [{"name": "Tűzvédelem", "id": 272020}, {"name": "Halál", "id": 88228}], "successors": []}

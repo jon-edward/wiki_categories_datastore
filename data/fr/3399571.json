@@ -1,1 +1,1 @@
-{"name": "Banane", "id": 3399571, "predecessors": [{"name": "Fruit_tropical", "id": 2340146}, {"name": "Musa", "id": 15758984}], "successors": []}
+{"name": "Banane", "id": 3399571, "predecessors": [{"name": "Fruit_tropical", "id": 2340146}, {"name": "Musa", "id": 15758984}], "successors": [{"name": "Spécialité_à_base_de_banane", "id": 14496639}]}

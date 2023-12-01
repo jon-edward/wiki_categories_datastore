@@ -1,1 +1,1 @@
-{"name": "Wandelflugzeug", "id": 7045161, "predecessors": [{"name": "Flugzeugtyp", "id": 239348}], "successors": []}
+{"name": "Wandelflugzeug", "id": 7045161, "predecessors": [{"name": "Luftfahrzeug", "id": 1054297}], "successors": []}

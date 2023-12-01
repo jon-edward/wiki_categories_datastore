@@ -1,1 +1,1 @@
-{"name": "Type_de_contrat", "id": 1093063, "predecessors": [{"name": "Droit_des_contrats", "id": 707341}, {"name": "Lexique_juridique", "id": 7313263}], "successors": [{"name": "Contrat_de_travail", "id": 376929}, {"name": "Location", "id": 2846576}]}
+{"name": "Type_de_contrat", "id": 1093063, "predecessors": [{"name": "Concept_juridique", "id": 6004557}, {"name": "Droit_des_contrats", "id": 707341}], "successors": [{"name": "Contrat_de_travail", "id": 376929}, {"name": "Location", "id": 2846576}]}

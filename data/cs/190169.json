@@ -1,1 +1,1 @@
-{"name": "Počítače_Apple", "id": 190169, "predecessors": [{"name": "Hardware_Apple", "id": 30026}, {"name": "Počítače", "id": 4485}, {"name": "Elektronika", "id": 8925}], "successors": []}
+{"name": "Počítače_Apple", "id": 190169, "predecessors": [{"name": "Hardware_Apple", "id": 30026}, {"name": "Počítače", "id": 4485}, {"name": "Spotřební_elektronika", "id": 1626176}], "successors": []}

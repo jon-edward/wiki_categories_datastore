@@ -1,1 +1,1 @@
-{"name": "Gipuzkoako_medikuak", "id": 729373, "predecessors": [{"name": "Euskal_Herriko_zientzialariak", "id": 144019}, {"name": "Osasuna", "id": 6285}, {"name": "Euskal_Herria", "id": 5242}], "successors": [{"name": "Mikel_Laboa", "id": 60479}]}
+{"name": "Gipuzkoako_medikuak", "id": 729373, "predecessors": [{"name": "Gipuzkoako_zientzialariak", "id": 729374}, {"name": "Osasuna", "id": 6285}, {"name": "Euskal_Herria", "id": 5242}], "successors": [{"name": "Mikel_Laboa", "id": 60479}]}

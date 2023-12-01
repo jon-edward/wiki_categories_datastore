@@ -1,1 +1,1 @@
-{"name": "Boîte_utilisateur_bande_dessinée", "id": 3524298, "predecessors": [{"name": "Boîte_utilisateur_littérature", "id": 3735062}, {"name": "Modèle_arts", "id": 1150180}], "successors": [{"name": "Boîte_utilisateur_manga", "id": 2727636}]}
+{"name": "Boîte_utilisateur_bande_dessinée", "id": 3524298, "predecessors": [{"name": "Boîte_utilisateur_littérature", "id": 3735062}, {"name": "Modèle_bande_dessinée", "id": 4159537}], "successors": [{"name": "Boîte_utilisateur_manga", "id": 2727636}]}

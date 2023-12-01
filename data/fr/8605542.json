@@ -1,1 +1,1 @@
-{"name": "Mort_d'une_rupture_d'anévrisme", "id": 8605542, "predecessors": [{"name": "Maladie_cardiovasculaire", "id": 600762}, {"name": "Cause_de_décès", "id": 10144464}], "successors": []}
+{"name": "Mort_d'une_rupture_d'anévrisme", "id": 8605542, "predecessors": [{"name": "Maladie_cardiovasculaire", "id": 600762}, {"name": "Mort_d'une_maladie", "id": 4499804}], "successors": []}

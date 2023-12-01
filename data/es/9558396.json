@@ -1,1 +1,1 @@
-{"name": "Espacio_de_Hilbert", "id": 9558396, "predecessors": [{"name": "Análisis_funcional", "id": 113532}, {"name": "Matemáticas_de_la_mecánica_cuántica", "id": 10331194}], "successors": []}
+{"name": "Espacio_de_Hilbert", "id": 9558396, "predecessors": [{"name": "Análisis_funcional", "id": 113532}, {"name": "Espacios_vectoriales_topológicos", "id": 7369182}, {"name": "Matemáticas_de_la_mecánica_cuántica", "id": 10331194}], "successors": []}

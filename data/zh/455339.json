@@ -1,1 +1,0 @@
-{"name": "电子地图", "id": 455339, "predecessors": [{"name": "Web服务", "id": 756606}, {"name": "地图", "id": 81587}], "successors": [{"name": "街景地图", "id": 3553130}, {"name": "開放街圖", "id": 5732762}, {"name": "Google地圖", "id": 6755171}]}

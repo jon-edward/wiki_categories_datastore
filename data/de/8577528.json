@@ -1,1 +1,1 @@
-{"name": "Flugauto", "id": 8577528, "predecessors": [{"name": "Experimentalflugzeug", "id": 383221}, {"name": "Flugzeugtyp", "id": 239348}, {"name": "Propellerbetriebenes_Fahrzeug", "id": 12705142}], "successors": []}
+{"name": "Flugauto", "id": 8577528, "predecessors": [{"name": "Experimentalflugzeug", "id": 383221}, {"name": "Propellerbetriebenes_Fahrzeug", "id": 12705142}, {"name": "Luftfahrzeug", "id": 1054297}], "successors": []}

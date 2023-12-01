@@ -1,1 +1,1 @@
-{"name": "航路", "id": 3913820, "predecessors": [{"name": "交通", "id": 124935}, {"name": "水運", "id": 186535}], "successors": []}
+{"name": "航路", "id": 3913820, "predecessors": [{"name": "水運", "id": 186535}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Arbre_en_Asie", "id": 9728023, "predecessors": [{"name": "Arbre", "id": 87495}, {"name": "Flore_en_Asie", "id": 1859523}], "successors": [{"name": "Arbre_en_Chine", "id": 3404365}, {"name": "Arbre_au_Japon", "id": 3404373}, {"name": "Arbre_au_Sri_Lanka", "id": 6676354}]}
+{"name": "Arbre_en_Asie", "id": 9728023, "predecessors": [{"name": "Arbre_et_arbuste_en_Asie", "id": 15928180}, {"name": "Arbre", "id": 87495}], "successors": [{"name": "Arbre_en_Chine", "id": 3404365}, {"name": "Arbre_au_Japon", "id": 3404373}, {"name": "Arbre_au_Sri_Lanka", "id": 6676354}]}

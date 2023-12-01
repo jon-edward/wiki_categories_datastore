@@ -1,1 +1,1 @@
-{"name": "Tribunal_judiciaire", "id": 6071772, "predecessors": [{"name": "Juridiction_judiciaire_en_France", "id": 2844738}, {"name": "Droit", "id": 84954}], "successors": []}
+{"name": "Tribunal_judiciaire", "id": 6071772, "predecessors": [{"name": "Juridiction_judiciaire_en_France", "id": 2844738}, {"name": "Justice", "id": 248708}], "successors": []}

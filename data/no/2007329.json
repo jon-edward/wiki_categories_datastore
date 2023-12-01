@@ -1,1 +1,1 @@
-{"name": "Norske_legeforeninger", "id": 2007329, "predecessors": [{"name": "Norske_fagforbund", "id": 232352}, {"name": "Norske_helseorganisasjoner", "id": 115943}, {"name": "Fagforbund", "id": 232350}], "successors": []}
+{"name": "Norske_legeforeninger", "id": 2007329, "predecessors": [{"name": "Legeforeninger", "id": 162634}, {"name": "Norske_fagforbund", "id": 232352}, {"name": "Norske_helseorganisasjoner", "id": 115943}], "successors": []}

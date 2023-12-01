@@ -1,1 +1,0 @@
-{"name": "Nước_thải", "id": 3306291, "predecessors": [{"name": "Công_nghệ_xử_lý_chất_thải", "id": 2611800}, {"name": "Dịch_vụ_công_cộng", "id": 494966}, {"name": "Hệ_thống_vệ_sinh", "id": 19697049}, {"name": "Kỹ_thuật_môi_trường", "id": 2430178}, {"name": "Kỹ_thuật_thủy_lợi", "id": 2458904}], "successors": [{"name": "Tiêu_hóa_kỵ_khí", "id": 2611798}]}

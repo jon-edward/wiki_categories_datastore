@@ -1,1 +1,1 @@
-{"name": "Norjan_ulkoministerit", "id": 1064700, "predecessors": [{"name": "Norjan_ministerit", "id": 973798}, {"name": "Ulkoministerit", "id": 1064702}, {"name": "Politiikka", "id": 19990}], "successors": []}
+{"name": "Norjan_ulkoministerit", "id": 1064700, "predecessors": [{"name": "Norjan_ministerit", "id": 973798}, {"name": "Ulkoministerit", "id": 1064702}, {"name": "Norjan_hallinto", "id": 174277}], "successors": []}

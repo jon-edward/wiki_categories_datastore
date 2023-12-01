@@ -1,1 +1,1 @@
-{"name": "Eurostar", "id": 5285943, "predecessors": [{"name": "Channel_Tunnel", "id": 6140960}], "successors": []}
+{"name": "Eurostar", "id": 5285943, "predecessors": [{"name": "Channel_Tunnel", "id": 6140960}], "successors": [{"name": "Railway_stations_served_by_Eurostar", "id": 31914919}]}

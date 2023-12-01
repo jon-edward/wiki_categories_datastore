@@ -1,1 +1,1 @@
-{"name": "Psiquiatras_de_Suiza", "id": 522888, "predecessors": [{"name": "Especialidades_médicas", "id": 52892}, {"name": "Médicos_de_Suiza", "id": 277791}], "successors": [{"name": "Carl_Gustav_Jung", "id": 6592259}]}
+{"name": "Psiquiatras_de_Suiza", "id": 522888, "predecessors": [{"name": "Psiquiatras", "id": 69194}, {"name": "Médicos_de_Suiza", "id": 277791}], "successors": [{"name": "Carl_Gustav_Jung", "id": 6592259}]}

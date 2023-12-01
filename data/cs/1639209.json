@@ -1,1 +1,1 @@
-{"name": "Kardiochirurgové", "id": 1639209, "predecessors": [{"name": "Chirurgové", "id": 168229}], "successors": []}
+{"name": "Kardiochirurgové", "id": 1639209, "predecessors": [{"name": "Chirurgové", "id": 168229}, {"name": "Chirurgie", "id": 101544}], "successors": []}

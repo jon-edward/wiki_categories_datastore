@@ -1,1 +1,1 @@
-{"name": "Düngemittelhersteller", "id": 4728390, "predecessors": [{"name": "Agrochemie", "id": 4133540}, {"name": "Dünger", "id": 476514}, {"name": "Chemieunternehmen", "id": 1725055}], "successors": []}
+{"name": "Düngemittelhersteller", "id": 4728390, "predecessors": [{"name": "Dünger", "id": 476514}, {"name": "Chemieunternehmen", "id": 1725055}], "successors": []}

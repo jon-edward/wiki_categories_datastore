@@ -1,1 +1,1 @@
-{"name": "Globální_oteplování", "id": 1526611, "predecessors": [{"name": "Klimatické_změny", "id": 366763}, {"name": "Ohřev", "id": 1562544}], "successors": []}
+{"name": "Změna_klimatu", "id": 1526611, "predecessors": [{"name": "Ohřev", "id": 1562544}, {"name": "Proměnlivost_a_změny_klimatu", "id": 366763}], "successors": [{"name": "Skleníkové_plyny", "id": 366764}, {"name": "Konference_OSN_o_změně_klimatu", "id": 1518737}, {"name": "Ekonomika_a_klimatické_změny", "id": 1559616}, {"name": "Mezivládní_panel_pro_změnu_klimatu", "id": 1691926}]}

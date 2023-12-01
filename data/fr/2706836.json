@@ -1,1 +1,1 @@
-{"name": "Site_web_musical", "id": 2706836, "predecessors": [{"name": "Site_web_sur_les_arts", "id": 3275976}, {"name": "Anthropologie", "id": 84938}], "successors": [{"name": "Base_de_données_musicales_sur_Internet", "id": 7332668}, {"name": "Webzine_musical", "id": 11492052}]}
+{"name": "Site_web_musical", "id": 2706836, "predecessors": [{"name": "Site_web_sur_les_arts", "id": 3275976}, {"name": "Médias", "id": 84985}], "successors": [{"name": "Base_de_données_musicales_sur_Internet", "id": 7332668}, {"name": "Webzine_musical", "id": 11492052}]}

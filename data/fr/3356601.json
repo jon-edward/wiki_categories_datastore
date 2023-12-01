@@ -1,1 +1,1 @@
-{"name": "Film_tiré_d'une_œuvre_d'Ernest_Hemingway", "id": 3356601, "predecessors": [{"name": "Adaptation_d'une_œuvre_littéraire_au_cinéma", "id": 358523}, {"name": "Accueil", "id": 1155637}], "successors": []}
+{"name": "Film_tiré_d'une_œuvre_d'Ernest_Hemingway", "id": 3356601, "predecessors": [{"name": "Ernest_Hemingway", "id": 3356565}, {"name": "Adaptation_d'une_œuvre_littéraire_au_cinéma", "id": 358523}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Elektroflugzeug", "id": 5713860, "predecessors": [{"name": "Elektrogerät", "id": 295771}, {"name": "Flugzeugtyp", "id": 239348}], "successors": [{"name": "Einmotoriges_Flugzeug_mit_Elektromotor", "id": 11210462}]}
+{"name": "Elektroflugzeug", "id": 5713860, "predecessors": [{"name": "Elektrogerät", "id": 295771}, {"name": "Propellerbetriebenes_Fahrzeug", "id": 12705142}], "successors": [{"name": "Einmotoriges_Flugzeug_mit_Elektromotor", "id": 11210462}]}

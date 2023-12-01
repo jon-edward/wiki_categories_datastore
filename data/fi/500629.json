@@ -1,1 +1,1 @@
-{"name": "Norjan_puolueet", "id": 500629, "predecessors": [{"name": "Järjestöt", "id": 27427}, {"name": "Politiikka", "id": 19990}, {"name": "Yhteiskunta", "id": 23764}], "successors": []}
+{"name": "Norjan_puolueet", "id": 500629, "predecessors": [{"name": "Järjestöt", "id": 27427}, {"name": "Norjan_hallinto", "id": 174277}, {"name": "Yhteiskunta", "id": 23764}], "successors": []}

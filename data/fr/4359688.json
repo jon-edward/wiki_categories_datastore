@@ -1,1 +1,1 @@
-{"name": "Débat_télévisé", "id": 4359688, "predecessors": [{"name": "Émission_de_télévision_culturelle", "id": 251105}, {"name": "Émission_de_télévision_de_divertissement", "id": 217635}, {"name": "Rhétorique", "id": 85239}], "successors": []}
+{"name": "Débat_télévisé", "id": 4359688, "predecessors": [{"name": "Émission_de_télévision_culturelle", "id": 251105}, {"name": "Émission_de_télévision_de_divertissement", "id": 217635}, {"name": "Rhétorique", "id": 85239}], "successors": [{"name": "Chroniqueur_à_L'Heure_des_pros", "id": 15992868}]}

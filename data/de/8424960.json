@@ -1,1 +1,1 @@
-{"name": "Gymnasium_in_Wien", "id": 8424960, "predecessors": [{"name": "Schule_in_Wien", "id": 992242}, {"name": "Gymnasium_in_Europa", "id": 8607596}, {"name": "Gymnasium", "id": 305827}], "successors": [{"name": "Realgymnasium_in_Wien", "id": 10335362}]}
+{"name": "Gymnasium_in_Wien", "id": 8424960, "predecessors": [{"name": "Schule_in_Wien", "id": 992242}, {"name": "Gymnasium_in_Europa", "id": 8607596}, {"name": "Gymnasiales_System", "id": 1367019}], "successors": [{"name": "Realgymnasium_in_Wien", "id": 10335362}]}

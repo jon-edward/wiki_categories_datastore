@@ -1,1 +1,1 @@
-{"name": "Norjan_vaalit", "id": 961218, "predecessors": [{"name": "Norjan_historia", "id": 51448}, {"name": "Politiikka", "id": 19990}, {"name": "Historia", "id": 18187}], "successors": []}
+{"name": "Norjan_vaalit", "id": 961218, "predecessors": [{"name": "Norjan_historia", "id": 51448}, {"name": "Norjan_hallinto", "id": 174277}, {"name": "Historia", "id": 18187}], "successors": []}

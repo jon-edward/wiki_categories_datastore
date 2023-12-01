@@ -1,1 +1,1 @@
-{"name": "People_acquitted_of_rape", "id": 26929197, "predecessors": [{"name": "People_acquitted_of_sex_crimes", "id": 34436338}, {"name": "People_charged_with_rape", "id": 55943133}], "successors": [{"name": "People_wrongfully_convicted_of_rape", "id": 24649016}]}
+{"name": "People_acquitted_of_rape", "id": 26929197, "predecessors": [{"name": "People_charged_with_rape", "id": 55943133}], "successors": [{"name": "People_wrongfully_convicted_of_rape", "id": 24649016}]}
