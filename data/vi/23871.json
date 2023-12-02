@@ -1,0 +1,1 @@
+{"name": "Vận_tốc", "id": 23871, "predecessors": [{"name": "Chiều_dài", "id": 24925}, {"name": "Chuyển_động", "id": 396930}, {"name": "Chuyển_động_học", "id": 396927}, {"name": "Thời_gian", "id": 8613}, {"name": "Đại_lượng_vật_lý", "id": 4635}], "successors": [{"name": "Đơn_vị_đo_vận_tốc", "id": 19447}, {"name": "Tốc_độ_vũ_trụ", "id": 55672}, {"name": "Gia_tốc", "id": 3199035}]}

@@ -1,0 +1,1 @@
+{"name": "Bus_in_Vlaanderen", "id": 5501585, "predecessors": [{"name": "Bus", "id": 131445}, {"name": "Openbaar_vervoer", "id": 63298}, {"name": "Belgisch_staatsbedrijf", "id": 3045811}], "successors": [{"name": "Kortrijkse_stadsbus", "id": 1858686}, {"name": "Leuvense_streekbussen", "id": 3980096}, {"name": "Buslijn_in_Vlaanderen", "id": 5501590}]}

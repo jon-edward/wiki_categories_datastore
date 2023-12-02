@@ -1,0 +1,1 @@
+{"name": "Quản_lý_chất_lượng", "id": 287188, "predecessors": [{"name": "Chất_lượng", "id": 1591259}, {"name": "Phương_pháp_đánh_giá", "id": 1705627}, {"name": "Quản_lý_dự_án", "id": 45449}, {"name": "Sản_xuất", "id": 37656}, {"name": "Sản_xuất_và_phát_hành", "id": 1615407}], "successors": [{"name": "Bảo_đảm_chất_lượng", "id": 3221576}]}

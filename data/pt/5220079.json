@@ -1,0 +1,1 @@
+{"name": "Transporte_por_ônibus", "id": 5220079, "predecessors": [{"name": "Transporte_público", "id": 192790}, {"name": "Transporte_rodoviário", "id": 107511}], "successors": [{"name": "Ônibus", "id": 1407162}, {"name": "Empresas_de_transporte_por_ônibus", "id": 1790900}, {"name": "Bus_Rapid_Transit", "id": 3221878}, {"name": "Corredores_de_ônibus", "id": 4133565}]}

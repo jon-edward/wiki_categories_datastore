@@ -1,0 +1,1 @@
+{"name": "Virus", "id": 67210, "predecessors": [{"name": "Parasiet", "id": 93485}, {"name": "Virologie", "id": 1397413}], "successors": [{"name": "Plantenvirus", "id": 5313029}, {"name": "Dierenvirus", "id": 5313039}, {"name": "RNA-virus", "id": 5314817}]}

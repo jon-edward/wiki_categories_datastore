@@ -1,0 +1,1 @@
+{"name": "Vrachtschip", "id": 5360451, "predecessors": [{"name": "Goederenvervoer", "id": 80543}, {"name": "Scheepstype", "id": 122199}], "successors": [{"name": "Vrachtschip_op_naam", "id": 1168608}, {"name": "Tanker", "id": 4102666}]}

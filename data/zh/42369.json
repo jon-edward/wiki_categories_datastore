@@ -1,0 +1,1 @@
+{"name": "卫生", "id": 42369, "predecessors": [{"name": "健康", "id": 42371}], "successors": [{"name": "洗衣", "id": 1142697}]}

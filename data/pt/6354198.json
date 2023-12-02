@@ -1,0 +1,1 @@
+{"name": "Comunicação_entre_processos", "id": 6354198, "predecessors": [{"name": "Arquitetura_de_computação_distribuída", "id": 5565239}, {"name": "Computação_concorrente", "id": 880694}, {"name": "Processo_(computação)", "id": 5752739}], "successors": [{"name": "Chamada_de_procedimento_remoto", "id": 1849368}]}

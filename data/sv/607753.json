@@ -1,0 +1,1 @@
+{"name": "Listor_med_anknytning_till_teknik", "id": 607753, "predecessors": [{"name": "Teknik", "id": 50676}, {"name": "Topp", "id": 113605}], "successors": [{"name": "Listor_med_anknytning_till_media", "id": 616862}, {"name": "Listor_med_anknytning_till_sjöfart", "id": 679350}, {"name": "Listor_med_anknytning_till_rymdfart", "id": 1195158}]}

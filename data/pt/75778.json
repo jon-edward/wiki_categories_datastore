@@ -1,0 +1,1 @@
+{"name": "Gestores_de_janelas", "id": 75778, "predecessors": [{"name": "Interface_gráfica_do_utilizador", "id": 1697201}, {"name": "Programas_de_computador_por_finalidade", "id": 430478}, {"name": "Softwares_de_sistema", "id": 2797440}], "successors": [{"name": "GNOME", "id": 37410}, {"name": "KDE", "id": 107613}, {"name": "LXDE", "id": 2382269}]}

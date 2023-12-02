@@ -1,0 +1,1 @@
+{"name": "Radioteknik", "id": 378010, "predecessors": [{"name": "Radio", "id": 51307}, {"name": "Teknik", "id": 50676}, {"name": "Telekommunikation", "id": 69280}], "successors": [{"name": "Amatörradio", "id": 401456}, {"name": "TETRA", "id": 600764}, {"name": "Radar", "id": 957908}, {"name": "Antenner", "id": 1050222}, {"name": "Frekvensband", "id": 8033082}]}
