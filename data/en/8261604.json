@@ -1,1 +1,1 @@
-{"name": "French_restaurants", "id": 8261604, "predecessors": [{"name": "French_cuisine", "id": 707216}, {"name": "Ethnicity", "id": 787548}], "successors": []}
+{"name": "French_restaurants", "id": 8261604, "predecessors": [{"name": "French_cuisine", "id": 707216}, {"name": "Mediterranean_cuisine", "id": 1342134}, {"name": "European_cuisine", "id": 1259768}], "successors": [{"name": "Defunct_French_restaurants", "id": 69028474}]}

@@ -1,1 +1,1 @@
-{"name": "Belgian_physiologists", "id": 3181581, "predecessors": [{"name": "Medical_researchers", "id": 2986153}, {"name": "Health_care", "id": 35880954}], "successors": []}
+{"name": "Belgian_physiologists", "id": 3181581, "predecessors": [{"name": "Belgian_biologists", "id": 1702428}, {"name": "Belgian_medical_researchers", "id": 38529932}, {"name": "Physiologists", "id": 905822}], "successors": []}

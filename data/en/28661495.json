@@ -1,1 +1,1 @@
-{"name": "Painters_from_Bruges", "id": 28661495, "predecessors": [{"name": "Painting", "id": 707606}], "successors": []}
+{"name": "Painters_from_Bruges", "id": 28661495, "predecessors": [{"name": "Artists_from_Bruges", "id": 67702808}, {"name": "History_of_Bruges", "id": 19246680}, {"name": "Painting", "id": 707606}], "successors": []}

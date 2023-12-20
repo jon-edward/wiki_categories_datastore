@@ -1,1 +1,1 @@
-{"name": "Mammalian_proteins", "id": 53431484, "predecessors": [{"name": "Proteins", "id": 717889}], "successors": [{"name": "Human_proteins", "id": 14134516}, {"name": "Mouse_proteins", "id": 34026700}]}
+{"name": "Mammalian_proteins", "id": 53431484, "predecessors": [{"name": "Biology", "id": 692675}], "successors": [{"name": "Human_proteins", "id": 14134516}, {"name": "Mouse_proteins", "id": 34026700}]}

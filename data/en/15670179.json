@@ -1,1 +1,1 @@
-{"name": "Aerobatic_pilots", "id": 15670179, "predecessors": [{"name": "Air_sports", "id": 3021809}], "successors": [{"name": "Aerobatic_record_holders", "id": 54351113}]}
+{"name": "Aerobatic_pilots", "id": 15670179, "predecessors": [{"name": "Air_sports", "id": 3021809}, {"name": "Vehicles", "id": 694929}], "successors": [{"name": "Aerobatic_record_holders", "id": 54351113}]}

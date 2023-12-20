@@ -1,1 +1,1 @@
-{"name": "Nuclear_air-to-surface_missiles", "id": 1934420, "predecessors": [{"name": "Nuclear_weapons", "id": 698500}], "successors": []}
+{"name": "Nuclear_air-to-surface_missiles", "id": 1934420, "predecessors": [{"name": "Air-to-surface_missiles", "id": 762504}, {"name": "Guided_missiles", "id": 1930532}], "successors": []}

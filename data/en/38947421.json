@@ -1,1 +1,1 @@
-{"name": "Italian_female_speed_skaters", "id": 38947421, "predecessors": [{"name": "Speed_skating", "id": 700819}], "successors": [{"name": "Italian_female_short_track_speed_skaters", "id": 62362286}]}
+{"name": "Italian_female_speed_skaters", "id": 38947421, "predecessors": [{"name": "Sport_in_Italy", "id": 3049847}, {"name": "Speed_skating", "id": 700819}], "successors": [{"name": "Italian_female_short_track_speed_skaters", "id": 62362286}]}

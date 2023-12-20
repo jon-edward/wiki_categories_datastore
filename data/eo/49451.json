@@ -1,1 +1,1 @@
-{"name": "Elektra_energio", "id": 49451, "predecessors": [{"name": "Energetiko", "id": 287215}, {"name": "Energio", "id": 56848}], "successors": [{"name": "Elektra_trakcio", "id": 291749}, {"name": "Generatoroj", "id": 587866}]}
+{"name": "Elektra_energio", "id": 49451, "predecessors": [{"name": "Energia_industrio", "id": 287215}], "successors": [{"name": "Elektra_trakcio", "id": 291749}, {"name": "Generatoroj", "id": 587866}]}

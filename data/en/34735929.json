@@ -1,1 +1,1 @@
-{"name": "Fraud_in_the_United_States", "id": 34735929, "predecessors": [{"name": "Fraud", "id": 737192}, {"name": "Crime_in_the_United_States", "id": 3386178}], "successors": []}
+{"name": "Fraud_in_the_United_States", "id": 34735929, "predecessors": [{"name": "Fraud", "id": 737192}, {"name": "Crime_in_the_United_States", "id": 3386178}], "successors": [{"name": "Madoff_investment_scandal", "id": 27654191}, {"name": "Education_fraud_in_the_United_States", "id": 70094076}]}

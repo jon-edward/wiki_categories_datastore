@@ -1,1 +1,1 @@
-{"name": "Vietnamese_Zen_Buddhists", "id": 17224334, "predecessors": [{"name": "Chan_Buddhists", "id": 17037770}], "successors": [{"name": "Thiền_Buddhists", "id": 14987313}]}
+{"name": "Vietnamese_Zen_Buddhists", "id": 17224334, "predecessors": [{"name": "Vietnamese_Buddhists", "id": 6119653}, {"name": "Chan_Buddhists", "id": 17037770}], "successors": [{"name": "Thiền_Buddhists", "id": 14987313}]}

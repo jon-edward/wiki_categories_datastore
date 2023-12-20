@@ -1,1 +1,1 @@
-{"name": "Estacions_de_ferrocarril_al_Baix_Llobregat", "id": 463834, "predecessors": [{"name": "Transport_al_Baix_Llobregat", "id": 402270}, {"name": "Català", "id": 12453}, {"name": "Geografia_de_Catalunya", "id": 12481}], "successors": []}
+{"name": "Estacions_de_ferrocarril_al_Baix_Llobregat", "id": 463834, "predecessors": [{"name": "Transport_al_Baix_Llobregat", "id": 402270}, {"name": "Transport_a_Catalunya", "id": 205580}, {"name": "Català", "id": 12453}], "successors": []}

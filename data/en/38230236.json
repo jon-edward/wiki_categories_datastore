@@ -1,1 +1,1 @@
-{"name": "Polish_brands", "id": 38230236, "predecessors": [{"name": "Brands", "id": 887230}], "successors": [{"name": "Beer_brands_of_Poland", "id": 46246551}]}
+{"name": "Polish_brands", "id": 38230236, "predecessors": [{"name": "Culture_of_Poland", "id": 726347}, {"name": "Brands", "id": 887230}], "successors": [{"name": "Polish_products_with_protected_designation_of_origin", "id": 42091874}, {"name": "Beer_brands_of_Poland", "id": 46246551}]}

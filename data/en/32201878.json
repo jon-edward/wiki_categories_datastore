@@ -1,1 +1,1 @@
-{"name": "American_emigrants_to_Germany", "id": 32201878, "predecessors": [{"name": "German_people_of_American_descent", "id": 27950508}], "successors": [{"name": "American_emigrants_to_West_Germany", "id": 74878908}]}
+{"name": "American_emigrants_to_Germany", "id": 32201878, "predecessors": [{"name": "American_emigrants", "id": 8764788}, {"name": "German_people_of_American_descent", "id": 27950508}, {"name": "Immigrants_to_Germany", "id": 16669816}], "successors": [{"name": "American_emigrants_to_West_Germany", "id": 74878908}]}

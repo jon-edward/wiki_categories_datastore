@@ -1,1 +1,1 @@
-{"name": "Arcade_system_boards", "id": 1503434, "predecessors": [{"name": "Motherboard", "id": 1827185}, {"name": "Arcade_video_games", "id": 696445}], "successors": [{"name": "Discrete_video_arcade_games", "id": 17116726}]}
+{"name": "Arcade_system_boards", "id": 1503434, "predecessors": [{"name": "Motherboard", "id": 1827185}, {"name": "Arcade_video_games", "id": 696445}], "successors": [{"name": "Discrete_video_arcade_games", "id": 17116726}, {"name": "68k-based_arcade_system_boards", "id": 71815333}]}

@@ -1,1 +1,1 @@
-{"name": "Oregon_state_court_judges", "id": 7929458, "predecessors": [{"name": "Oregon_lawyers", "id": 6371101}, {"name": "Government_of_Oregon", "id": 1174202}], "successors": [{"name": "Justices_of_the_Oregon_Supreme_Court", "id": 9515694}]}
+{"name": "Oregon_state_court_judges", "id": 7929458, "predecessors": [{"name": "Oregon_lawyers", "id": 6371101}, {"name": "Government_of_Oregon", "id": 1174202}], "successors": [{"name": "Justices_of_the_Oregon_Supreme_Court", "id": 9515694}, {"name": "Oregon_Court_of_Appeals_judges", "id": 19436138}]}

@@ -1,1 +1,1 @@
-{"name": "Spanish_romantic_drama_films", "id": 62502625, "predecessors": [{"name": "Spanish_literature", "id": 724379}, {"name": "Drama_genres", "id": 25775707}], "successors": [{"name": "Spanish_romantic_comedy-drama_films", "id": 63496746}]}
+{"name": "Spanish_romantic_drama_films", "id": 62502625, "predecessors": [{"name": "Spanish_drama_films", "id": 22638319}, {"name": "Spanish_literature", "id": 724379}], "successors": [{"name": "Spanish_romantic_comedy-drama_films", "id": 63496746}]}

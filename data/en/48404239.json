@@ -1,1 +1,1 @@
-{"name": "Serravallian", "id": 48404239, "predecessors": [{"name": "Geological_ages", "id": 47135419}], "successors": []}
+{"name": "Serravallian", "id": 48404239, "predecessors": [{"name": "Geological_ages", "id": 47135419}, {"name": "Miocene_geochronology", "id": 48404240}], "successors": [{"name": "Laventan", "id": 54831220}, {"name": "Clarendonian", "id": 54982785}, {"name": "Barstovian", "id": 55570578}, {"name": "Serravallian_extinctions", "id": 47228509}]}

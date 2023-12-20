@@ -1,0 +1,1 @@
+{"name": "Multilinear_algebra", "id": 772566, "predecessors": [{"name": "Linear_algebra", "id": 690777}], "successors": [{"name": "Clifford_algebras", "id": 1002062}, {"name": "Tensors", "id": 1012758}, {"name": "Invariant_theory", "id": 1089492}, {"name": "Determinants", "id": 1504581}, {"name": "Monoidal_categories", "id": 3609475}, {"name": "Bilinear_maps", "id": 23152860}]}

@@ -1,1 +1,1 @@
-{"name": "Bucking_bulls", "id": 52483099, "predecessors": [{"name": "Bull_sports", "id": 52650108}, {"name": "Entertainment", "id": 693016}, {"name": "Cattle", "id": 972888}], "successors": [{"name": "Bull_riders", "id": 52474462}, {"name": "Professional_Bull_Riders", "id": 54884489}]}
+{"name": "Bucking_bulls", "id": 52483099, "predecessors": [{"name": "Bull_sports", "id": 52650108}, {"name": "Bulls", "id": 43519061}], "successors": [{"name": "Bull_riders", "id": 52474462}, {"name": "Professional_Bull_Riders", "id": 54884489}]}

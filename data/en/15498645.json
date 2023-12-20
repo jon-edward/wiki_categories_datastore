@@ -1,1 +1,1 @@
-{"name": "Internet_in_Poland", "id": 15498645, "predecessors": [{"name": "Internet_by_country", "id": 3485020}], "successors": []}
+{"name": "Internet_in_Poland", "id": 15498645, "predecessors": [{"name": "Internet_by_country", "id": 3485020}, {"name": "Mass_media_in_Poland", "id": 1143825}, {"name": "Telecommunications_by_country", "id": 5073807}], "successors": [{"name": "Polish_news_websites", "id": 58738713}]}

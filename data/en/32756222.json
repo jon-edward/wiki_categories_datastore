@@ -1,1 +1,1 @@
-{"name": "Bacterial_toxins", "id": 32756222, "predecessors": [{"name": "Chemical_substances", "id": 1308633}], "successors": [{"name": "Cyanotoxins", "id": 32778810}, {"name": "Bacteriocins", "id": 47095672}]}
+{"name": "Bacterial_toxins", "id": 32756222, "predecessors": [{"name": "Biomolecules", "id": 11662086}], "successors": [{"name": "Cyanotoxins", "id": 32778810}, {"name": "Bacteriocins", "id": 47095672}]}

@@ -1,1 +1,1 @@
-{"name": "Anthraquinone_dyes", "id": 3234191, "predecessors": [{"name": "Phenol_dyes", "id": 33962836}, {"name": "Quinones", "id": 14379642}], "successors": []}
+{"name": "Anthraquinone_dyes", "id": 3234191, "predecessors": [{"name": "Anthraquinones", "id": 25542323}, {"name": "Phenol_dyes", "id": 33962836}], "successors": []}

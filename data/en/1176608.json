@@ -1,1 +1,1 @@
-{"name": "Railway_weapons", "id": 1176608, "predecessors": [{"name": "Weapons", "id": 698507}], "successors": [{"name": "Great_Locomotive_Chase", "id": 63880765}]}
+{"name": "Railway_weapons", "id": 1176608, "predecessors": [{"name": "Weapons", "id": 698507}, {"name": "Military_railways", "id": 16726899}], "successors": [{"name": "Great_Locomotive_Chase", "id": 63880765}]}

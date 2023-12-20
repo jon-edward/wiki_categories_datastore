@@ -1,1 +1,1 @@
-{"name": "NBC_News_people", "id": 57302544, "predecessors": [{"name": "NBC_News", "id": 5848602}, {"name": "NBC_employees", "id": 50769910}, {"name": "Broadcasting", "id": 765733}], "successors": [{"name": "Presidents_of_NBC_News", "id": 36242413}]}
+{"name": "NBC_News_people", "id": 57302544, "predecessors": [{"name": "NBC_News", "id": 5848602}, {"name": "NBC_employees", "id": 50769910}, {"name": "Networks", "id": 744360}], "successors": [{"name": "Presidents_of_NBC_News", "id": 36242413}]}

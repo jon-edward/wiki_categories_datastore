@@ -1,1 +1,1 @@
-{"name": "Aircraft_carriers_sunk_by_aircraft", "id": 33654274, "predecessors": [{"name": "Aircraft_carriers", "id": 733409}], "successors": []}
+{"name": "Aircraft_carriers_sunk_by_aircraft", "id": 33654274, "predecessors": [{"name": "Aircraft_carriers", "id": 733409}, {"name": "Ships_sunk_by_aircraft", "id": 32005715}], "successors": []}

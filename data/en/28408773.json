@@ -1,1 +1,1 @@
-{"name": "Chemical_thermodynamics", "id": 28408773, "predecessors": [{"name": "Thermodynamics", "id": 693006}], "successors": []}
+{"name": "Chemical_thermodynamics", "id": 28408773, "predecessors": [{"name": "Branches_of_thermodynamics", "id": 13805509}, {"name": "Physical_chemistry", "id": 784394}], "successors": []}

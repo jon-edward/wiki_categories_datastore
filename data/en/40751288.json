@@ -1,1 +1,1 @@
-{"name": "Ralston_Purina_products", "id": 40751288, "predecessors": [{"name": "Ralston_Purina", "id": 54146935}], "successors": []}
+{"name": "Ralston_Purina_products", "id": 40751288, "predecessors": [{"name": "Ralston_Purina", "id": 54146935}], "successors": [{"name": "Ralston_cereals", "id": 24245896}]}

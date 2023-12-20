@@ -1,1 +1,1 @@
-{"name": "Unconferences", "id": 23342994, "predecessors": [{"name": "Communication_theory", "id": 1527661}, {"name": "Deliberative_groups", "id": 7811354}, {"name": "Group_decision-making", "id": 51605359}], "successors": []}
+{"name": "Unconferences", "id": 23342994, "predecessors": [{"name": "Communication_theory", "id": 1527661}, {"name": "Conferences", "id": 3267377}, {"name": "Deliberative_groups", "id": 7811354}, {"name": "Group_decision-making", "id": 51605359}, {"name": "Meetings", "id": 1261738}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Steroid_oximes", "id": 57766855, "predecessors": [{"name": "Steroids", "id": 720288}, {"name": "Functional_groups", "id": 724516}], "successors": []}
+{"name": "Steroid_oximes", "id": 57766855, "predecessors": [{"name": "Oximes", "id": 15174661}, {"name": "Steroids", "id": 720288}], "successors": []}

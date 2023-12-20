@@ -1,1 +1,1 @@
-{"name": "Minicomputers", "id": 802819, "predecessors": [{"name": "Classes_of_computers", "id": 2071681}, {"name": "Legacy_systems", "id": 1168061}], "successors": [{"name": "DEC_minicomputers", "id": 70013650}]}
+{"name": "Minicomputers", "id": 802819, "predecessors": [{"name": "Classes_of_computers", "id": 2071681}, {"name": "Legacy_systems", "id": 1168061}], "successors": [{"name": "Unix_software", "id": 2423579}, {"name": "DEC_minicomputers", "id": 70013650}]}

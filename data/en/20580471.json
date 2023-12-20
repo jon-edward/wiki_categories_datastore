@@ -1,1 +1,1 @@
-{"name": "Compound_locomotives", "id": 20580471, "predecessors": [{"name": "Steam_locomotive_technologies", "id": 3676576}], "successors": [{"name": "Mallet_locomotives", "id": 3600813}, {"name": "Vauclain_compound_locomotives", "id": 45143404}]}
+{"name": "Compound_locomotives", "id": 20580471, "predecessors": [{"name": "Steam_locomotive_technologies", "id": 3676576}, {"name": "Steam_locomotive_types", "id": 18660569}], "successors": [{"name": "Mallet_locomotives", "id": 3600813}, {"name": "Vauclain_compound_locomotives", "id": 45143404}]}

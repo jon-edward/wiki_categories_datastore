@@ -1,1 +1,1 @@
-{"name": "Geochemistry_journals", "id": 69518573, "predecessors": [{"name": "Chemistry_journals", "id": 2428937}, {"name": "Geology_journals", "id": 22390320}], "successors": []}
+{"name": "Geochemistry_journals", "id": 69518573, "predecessors": [{"name": "Chemistry_journals", "id": 2428937}, {"name": "Geochemistry", "id": 716915}, {"name": "Geology_journals", "id": 22390320}], "successors": []}

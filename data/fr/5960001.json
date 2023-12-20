@@ -1,1 +1,0 @@
-{"name": "Palette_Transport_en_commun", "id": 5960001, "predecessors": [{"name": "Modèle_transport_en_commun", "id": 4752737}, {"name": "Palette_Transports", "id": 2690238}], "successors": [{"name": "Palette_Tramway", "id": 6656073}, {"name": "Palette_Métro", "id": 6656146}, {"name": "Palette_Autobus_et_autocar", "id": 15125731}]}

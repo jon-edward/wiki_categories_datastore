@@ -1,1 +1,1 @@
-{"name": "Platyhelminth_anatomy", "id": 30196459, "predecessors": [{"name": "Animal_anatomy", "id": 3120301}], "successors": []}
+{"name": "Platyhelminth_anatomy", "id": 30196459, "predecessors": [{"name": "Platyhelminthes", "id": 13755294}, {"name": "Animal_anatomy", "id": 3120301}], "successors": []}

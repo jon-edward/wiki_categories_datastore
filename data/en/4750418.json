@@ -1,1 +1,1 @@
-{"name": "Deaths_from_diabetes", "id": 4750418, "predecessors": [{"name": "Diabetes", "id": 1604872}, {"name": "Autoimmune_diseases", "id": 846728}], "successors": []}
+{"name": "Deaths_from_diabetes", "id": 4750418, "predecessors": [{"name": "Complications_of_diabetes", "id": 75458334}, {"name": "Deaths_from_digestive_disease", "id": 19627699}, {"name": "Autoimmune_diseases", "id": 846728}], "successors": []}

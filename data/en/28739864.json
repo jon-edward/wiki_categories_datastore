@@ -1,1 +1,1 @@
-{"name": "Organoiron_compounds", "id": 28739864, "predecessors": [{"name": "Iron_compounds", "id": 1879501}], "successors": [{"name": "Hemoproteins", "id": 2038641}, {"name": "Ferrocenes", "id": 54206725}]}
+{"name": "Organoiron_compounds", "id": 28739864, "predecessors": [{"name": "Iron_compounds", "id": 1879501}, {"name": "Organometallic_compounds", "id": 990210}], "successors": [{"name": "Hemoproteins", "id": 2038641}, {"name": "Ferrocenes", "id": 54206725}]}

@@ -1,1 +1,1 @@
-{"name": "Kritiikit", "id": 279577, "predecessors": [{"name": "Kognitio", "id": 299301}], "successors": [{"name": "Uskontokritiikki", "id": 219186}, {"name": "Kriitikot", "id": 449075}, {"name": "Taidekriitikot", "id": 972168}, {"name": "Elokuvakritiikki", "id": 1192869}]}
+{"name": "Kritiikit", "id": 279577, "predecessors": [{"name": "Kognitiivinen_neurotiede", "id": 1415587}], "successors": [{"name": "Uskontokritiikki", "id": 219186}, {"name": "Kriitikot", "id": 449075}, {"name": "Taidekriitikot", "id": 972168}, {"name": "Elokuvakritiikki", "id": 1192869}]}

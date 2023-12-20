@@ -1,1 +1,1 @@
-{"name": "Hilbert_spaces", "id": 1213181, "predecessors": [{"name": "Quadratic_forms", "id": 935504}, {"name": "Quantum_mechanics", "id": 697231}], "successors": []}
+{"name": "Hilbert_spaces", "id": 1213181, "predecessors": [{"name": "Banach_spaces", "id": 1213183}, {"name": "Quadratic_forms", "id": 935504}, {"name": "Quantum_mechanics", "id": 697231}], "successors": []}

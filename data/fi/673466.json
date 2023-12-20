@@ -1,1 +1,1 @@
-{"name": "Alkoholittomat_juomat", "id": 673466, "predecessors": [{"name": "Elintarvikkeet", "id": 116374}], "successors": [{"name": "Virvoitusjuomat", "id": 62204}, {"name": "Maito", "id": 286980}, {"name": "Mehut", "id": 490812}, {"name": "Kahvijuomat", "id": 1657108}]}
+{"name": "Alkoholittomat_juomat", "id": 673466, "predecessors": [{"name": "Elintarvikkeet", "id": 116374}], "successors": [{"name": "Virvoitusjuomat", "id": 62204}, {"name": "Tee", "id": 215621}, {"name": "Maito", "id": 286980}, {"name": "Mehut", "id": 490812}, {"name": "Kahvijuomat", "id": 1657108}]}

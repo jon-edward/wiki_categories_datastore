@@ -1,1 +1,1 @@
-{"name": "Hospitals_in_Aberdeen", "id": 20946400, "predecessors": [{"name": "Buildings_and_structures_in_Aberdeen", "id": 5967750}, {"name": "Medical_and_health_organisations_based_in_Scotland", "id": 54527887}, {"name": "Aberdeen", "id": 1579743}], "successors": []}
+{"name": "Hospitals_in_Aberdeen", "id": 20946400, "predecessors": [{"name": "Buildings_and_structures_in_Aberdeen", "id": 5967750}, {"name": "Health_in_Aberdeen", "id": 5722264}, {"name": "Medical_and_health_organisations_based_in_Scotland", "id": 54527887}], "successors": []}

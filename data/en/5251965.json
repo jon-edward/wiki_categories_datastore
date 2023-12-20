@@ -1,1 +1,1 @@
-{"name": "Gyroscopes", "id": 5251965, "predecessors": [{"name": "Orientation_(geometry)", "id": 44363014}, {"name": "Machines", "id": 7810459}], "successors": [{"name": "Tops", "id": 29247828}]}
+{"name": "Gyroscopes", "id": 5251965, "predecessors": [{"name": "Angle_measuring_instruments", "id": 44968730}, {"name": "Orientation_(geometry)", "id": 44363014}, {"name": "Rotating_machines", "id": 18789631}], "successors": [{"name": "Tops", "id": 29247828}]}

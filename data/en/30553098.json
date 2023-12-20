@@ -1,1 +1,1 @@
-{"name": "Existentialist_books", "id": 30553098, "predecessors": [{"name": "Existentialist_works", "id": 7695082}], "successors": [{"name": "Existentialist_novels", "id": 30553089}]}
+{"name": "Existentialist_books", "id": 30553098, "predecessors": [{"name": "Existentialist_works", "id": 7695082}, {"name": "Philosophy_books", "id": 775417}], "successors": [{"name": "Existentialist_novels", "id": 30553089}]}

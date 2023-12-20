@@ -1,1 +1,1 @@
-{"name": "Algal_anatomy", "id": 43626267, "predecessors": [{"name": "Plant_anatomy", "id": 1894679}], "successors": []}
+{"name": "Algal_anatomy", "id": 43626267, "predecessors": [{"name": "Phycology", "id": 42479439}, {"name": "Plant_anatomy", "id": 1894679}], "successors": []}

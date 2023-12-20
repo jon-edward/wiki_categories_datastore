@@ -1,1 +1,1 @@
-{"name": "Railway_stations_in_Ankara_Province", "id": 50660905, "predecessors": [{"name": "Turkish_State_Railways", "id": 5871436}], "successors": [{"name": "Ankara_metro_stations", "id": 56331565}]}
+{"name": "Railway_stations_in_Ankara_Province", "id": 50660905, "predecessors": [{"name": "Buildings_and_structures_in_Ankara_Province", "id": 36579745}, {"name": "Transport_in_Ankara_Province", "id": 47004538}, {"name": "Rail_transport", "id": 700920}], "successors": [{"name": "Ankara_metro_stations", "id": 56331565}]}

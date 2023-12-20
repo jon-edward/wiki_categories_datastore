@@ -1,1 +1,1 @@
-{"name": "FIBA_EuroBasket_qualification", "id": 53119414, "predecessors": [{"name": "EuroBasket", "id": 40467608}, {"name": "Qualification_for_sports_events", "id": 44447547}], "successors": []}
+{"name": "FIBA_EuroBasket_qualification", "id": 53119414, "predecessors": [{"name": "EuroBasket", "id": 40467608}, {"name": "World", "id": 3260154}], "successors": []}

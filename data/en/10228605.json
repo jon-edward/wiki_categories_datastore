@@ -1,1 +1,1 @@
-{"name": "Immigration_to_Mexico", "id": 10228605, "predecessors": [{"name": "Immigration", "id": 8704137}, {"name": "North_America", "id": 878995}], "successors": []}
+{"name": "Immigration_to_Mexico", "id": 10228605, "predecessors": [{"name": "Demographics_of_Mexico", "id": 2635387}, {"name": "Immigration", "id": 8704137}, {"name": "North_America", "id": 878995}], "successors": [{"name": "Jewish_Mexican_history", "id": 22701418}, {"name": "American_diaspora_in_Mexico", "id": 61494322}, {"name": "Mexican_people_of_Canadian_descent", "id": 27982601}]}

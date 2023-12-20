@@ -1,0 +1,1 @@
+{"name": "Vacuum_systems", "id": 32085589, "predecessors": [{"name": "Engineering_disciplines", "id": 9930194}, {"name": "Vacuum", "id": 2634715}], "successors": [{"name": "Vacuum_pumps", "id": 9061023}, {"name": "Hyperloop", "id": 49282492}]}

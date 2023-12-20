@@ -1,1 +1,1 @@
-{"name": "Deaths_from_peritonitis", "id": 18224324, "predecessors": [{"name": "Disorders_of_fascia", "id": 42976952}, {"name": "Inflammations", "id": 2308187}], "successors": []}
+{"name": "Deaths_from_peritonitis", "id": 18224324, "predecessors": [{"name": "Deaths_from_digestive_disease", "id": 19627699}, {"name": "Disorders_of_fascia", "id": 42976952}, {"name": "Inflammations", "id": 2308187}, {"name": "Digestive_diseases", "id": 3615861}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Earth_sciences_data_formats", "id": 29119676, "predecessors": [{"name": "Meteorological_data_and_networks", "id": 4979130}, {"name": "Science_software", "id": 4076421}], "successors": [{"name": "GIS_file_formats", "id": 6437761}]}
+{"name": "Earth_sciences_data_formats", "id": 29119676, "predecessors": [{"name": "Meteorological_data_and_networks", "id": 4979130}, {"name": "Earth_sciences", "id": 716903}], "successors": [{"name": "GIS_file_formats", "id": 6437761}]}

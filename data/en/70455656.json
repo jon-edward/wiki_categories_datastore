@@ -1,1 +1,1 @@
-{"name": "Scales_in_meteorology", "id": 70455656, "predecessors": [{"name": "Meteorological_concepts", "id": 4165760}], "successors": [{"name": "Mesoscale_meteorology", "id": 7547098}, {"name": "Microscale_meteorology", "id": 11554537}]}
+{"name": "Scales_in_meteorology", "id": 70455656, "predecessors": [{"name": "Meteorological_concepts", "id": 4165760}, {"name": "Scales", "id": 731882}], "successors": [{"name": "Mesoscale_meteorology", "id": 7547098}, {"name": "Microscale_meteorology", "id": 11554537}]}

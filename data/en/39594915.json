@@ -1,1 +1,1 @@
-{"name": "Drink_companies_of_Mexico", "id": 39594915, "predecessors": [{"name": "Manufacturing_companies_of_Mexico", "id": 2211642}], "successors": [{"name": "Beer_in_Mexico", "id": 4824517}]}
+{"name": "Drink_companies_of_Mexico", "id": 39594915, "predecessors": [{"name": "Food_and_drink_companies_of_Mexico", "id": 7529340}, {"name": "Manufacturing_companies_of_Mexico", "id": 2211642}, {"name": "Mexican_drinks", "id": 18224350}], "successors": [{"name": "Beer_in_Mexico", "id": 4824517}]}

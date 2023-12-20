@@ -1,1 +1,1 @@
-{"name": "CNN_people", "id": 28105318, "predecessors": [{"name": "CNN", "id": 8177752}, {"name": "Warner_Bros._Discovery_people", "id": 33092594}, {"name": "Broadcasting", "id": 765733}], "successors": [{"name": "CNN_executives", "id": 26048955}]}
+{"name": "CNN_people", "id": 28105318, "predecessors": [{"name": "CNN", "id": 8177752}, {"name": "Warner_Bros._Discovery_people", "id": 33092594}, {"name": "Networks", "id": 744360}, {"name": "Turner_Broadcasting_System", "id": 10171621}], "successors": [{"name": "CNN_executives", "id": 26048955}]}

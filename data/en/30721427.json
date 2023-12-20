@@ -1,1 +1,1 @@
-{"name": "Locomotive_boilers", "id": 30721427, "predecessors": [{"name": "Locomotive_parts", "id": 1044978}], "successors": []}
+{"name": "Locomotive_boilers", "id": 30721427, "predecessors": [{"name": "Locomotive_parts", "id": 1044978}, {"name": "Steam_boiler_types", "id": 27417567}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Leadership_training", "id": 32116497, "predecessors": [{"name": "Leadership_studies", "id": 28086469}], "successors": [{"name": "Leadership_training_of_the_Boy_Scouts_of_America", "id": 13365217}]}
+{"name": "Leadership_training", "id": 32116497, "predecessors": [{"name": "Leadership_studies", "id": 28086469}, {"name": "Professionalism", "id": 71864065}], "successors": [{"name": "Leadership_training_of_the_Boy_Scouts_of_America", "id": 13365217}]}

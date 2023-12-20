@@ -1,1 +1,1 @@
-{"name": "Colloids", "id": 17794276, "predecessors": [{"name": "Chemical_mixtures", "id": 1975221}, {"name": "Condensed_matter_physics", "id": 692176}, {"name": "Soft_matter", "id": 3588680}], "successors": [{"name": "Gels", "id": 3121333}]}
+{"name": "Colloids", "id": 17794276, "predecessors": [{"name": "Chemical_mixtures", "id": 1975221}, {"name": "Condensed_matter_physics", "id": 692176}, {"name": "Soft_matter", "id": 3588680}], "successors": [{"name": "Colloidal_chemistry", "id": 739564}, {"name": "Gels", "id": 3121333}]}

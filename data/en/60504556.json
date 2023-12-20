@@ -1,1 +1,1 @@
-{"name": "Physical_culture", "id": 60504556, "predecessors": [{"name": "Physical_exercise", "id": 34955640}], "successors": [{"name": "Bodybuilding", "id": 773557}, {"name": "Gymnastics", "id": 907904}, {"name": "People_associated_with_physical_culture", "id": 60504562}, {"name": "Pilates_instructors", "id": 74765091}]}
+{"name": "Physical_culture", "id": 60504556, "predecessors": [{"name": "Physical_exercise", "id": 34955640}, {"name": "Western_culture", "id": 961295}], "successors": [{"name": "Bodybuilding", "id": 773557}, {"name": "Gymnastics", "id": 907904}]}

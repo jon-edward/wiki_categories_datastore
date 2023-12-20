@@ -1,1 +1,1 @@
-{"name": "Wildlife_magazines", "id": 2834513, "predecessors": [{"name": "Animal_and_pet_magazines", "id": 2321473}, {"name": "Mass_media", "id": 696790}], "successors": [{"name": "Journals_and_magazines_relating_to_birding_and_ornithology", "id": 4748917}]}
+{"name": "Wildlife_magazines", "id": 2834513, "predecessors": [{"name": "Animal_and_pet_magazines", "id": 2321473}, {"name": "Wildlife", "id": 10932162}, {"name": "Publications_by_format", "id": 11278400}], "successors": [{"name": "Journals_and_magazines_relating_to_birding_and_ornithology", "id": 4748917}]}

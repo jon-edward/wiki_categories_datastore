@@ -1,1 +1,1 @@
-{"name": "National_theatres", "id": 5968205, "predecessors": [{"name": "Cultural_centers", "id": 30661910}], "successors": [{"name": "Chairpersons_of_the_National_Theatre_Bucharest", "id": 8885182}]}
+{"name": "National_theatres", "id": 5968205, "predecessors": [{"name": "Nation", "id": 68793135}, {"name": "Cultural_centers", "id": 30661910}], "successors": [{"name": "Chairpersons_of_the_National_Theatre_Bucharest", "id": 8885182}]}

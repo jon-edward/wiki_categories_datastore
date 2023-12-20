@@ -1,1 +1,1 @@
-{"name": "CP/M_technology", "id": 33094633, "predecessors": [{"name": "Digital_Research", "id": 3605756}], "successors": []}
+{"name": "CP/M_technology", "id": 33094633, "predecessors": [{"name": "CP/M", "id": 3590082}, {"name": "Digital_Research", "id": 3605756}, {"name": "Operating_system_technology", "id": 1956884}], "successors": []}

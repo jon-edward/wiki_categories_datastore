@@ -1,1 +1,1 @@
-{"name": "Events_(computing)", "id": 16072179, "predecessors": [{"name": "Information_systems", "id": 2978151}, {"name": "Terms_in_science_and_technology", "id": 70740984}], "successors": [{"name": "Interrupts", "id": 3468652}, {"name": "Unix_signals", "id": 7541625}]}
+{"name": "Events_(computing)", "id": 16072179, "predecessors": [{"name": "Information_systems", "id": 2978151}, {"name": "Terms_in_science_and_technology", "id": 70740984}, {"name": "Technology", "id": 696648}], "successors": [{"name": "Interrupts", "id": 3468652}, {"name": "Unix_signals", "id": 7541625}]}

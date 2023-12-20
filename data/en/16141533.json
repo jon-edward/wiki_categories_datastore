@@ -1,1 +1,1 @@
-{"name": "Child_development", "id": 16141533, "predecessors": [{"name": "Childhood", "id": 1517600}, {"name": "Human_development", "id": 981229}], "successors": [{"name": "Attachment_theory", "id": 11484129}]}
+{"name": "Child_development", "id": 16141533, "predecessors": [{"name": "Childhood", "id": 1517600}, {"name": "Human_development", "id": 981229}], "successors": [{"name": "Developmental_psychology", "id": 2870476}, {"name": "Attachment_theory", "id": 11484129}, {"name": "Adverse_childhood_experiences", "id": 56730990}]}

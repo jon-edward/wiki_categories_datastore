@@ -1,1 +1,1 @@
-{"name": "Pencegahan_terorisme", "id": 289745, "predecessors": [{"name": "Keselamatan_awam", "id": 84595}, {"name": "Keselamatan_negara", "id": 81748}, {"name": "Hubungan_antarabangsa", "id": 81824}, {"name": "Doktrin_tentera", "id": 161337}], "successors": []}
+{"name": "Pencegahan_terorisme", "id": 289745, "predecessors": [{"name": "Keselamatan_awam", "id": 84595}, {"name": "Keselamatan_negara", "id": 81748}, {"name": "Hubungan_antarabangsa", "id": 81824}, {"name": "Doktrin_tentera", "id": 161337}], "successors": [{"name": "Undang-undang_darurat", "id": 161325}]}

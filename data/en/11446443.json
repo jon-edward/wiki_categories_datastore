@@ -1,1 +1,1 @@
-{"name": "Painters_from_Naples", "id": 11446443, "predecessors": [{"name": "Painting", "id": 707606}], "successors": []}
+{"name": "Painters_from_Naples", "id": 11446443, "predecessors": [{"name": "Artists_from_Naples", "id": 66252617}, {"name": "Culture_in_Naples", "id": 19011427}, {"name": "Painters_from_Campania", "id": 69716578}, {"name": "Italian_artists", "id": 1031803}], "successors": []}

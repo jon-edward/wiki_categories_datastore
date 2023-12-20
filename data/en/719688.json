@@ -1,1 +1,1 @@
-{"name": "Tyrosine_kinases", "id": 719688, "predecessors": [{"name": "EC_2.7.10", "id": 5612824}, {"name": "Protein_kinases", "id": 719683}], "successors": [{"name": "Tyrosine_kinase_receptors", "id": 719669}, {"name": "Tyrosine_kinase_inhibitors", "id": 1678515}]}
+{"name": "Tyrosine_kinases", "id": 719688, "predecessors": [{"name": "Cell_signaling", "id": 5754178}, {"name": "EC_2.7.10", "id": 5612824}, {"name": "Protein_kinases", "id": 719683}], "successors": [{"name": "Tyrosine_kinase_receptors", "id": 719669}, {"name": "Tyrosine_kinase_inhibitors", "id": 1678515}]}

@@ -1,1 +1,1 @@
-{"name": "Wheat_dishes", "id": 40066041, "predecessors": [{"name": "Wheat", "id": 4285059}, {"name": "Cereals", "id": 694869}], "successors": [{"name": "Semolina_dishes", "id": 65191281}]}
+{"name": "Wheat_dishes", "id": 40066041, "predecessors": [{"name": "Wheat", "id": 4285059}, {"name": "Cereals", "id": 694869}], "successors": [{"name": "Semolina_dishes", "id": 65191281}, {"name": "Bulgur_dishes", "id": 65191390}]}

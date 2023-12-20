@@ -1,1 +1,1 @@
-{"name": "Angiogenesis", "id": 72952541, "predecessors": [{"name": "Angiology", "id": 1482803}], "successors": [{"name": "Angiogenesis_inhibitors", "id": 3359229}]}
+{"name": "Angiogenesis", "id": 72952541, "predecessors": [{"name": "Angiology", "id": 1482803}, {"name": "Biological_processes", "id": 7684410}], "successors": [{"name": "Angiogenesis_inhibitors", "id": 3359229}]}

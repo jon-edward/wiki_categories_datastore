@@ -1,1 +1,1 @@
-{"name": "Muscular_dystrophy", "id": 1106676, "predecessors": [{"name": "Genetic_disorders_by_system", "id": 29889834}], "successors": [{"name": "People_with_muscular_dystrophy", "id": 9371164}]}
+{"name": "Muscular_dystrophy", "id": 1106676, "predecessors": [{"name": "Genetic_disorders_by_system", "id": 29889834}, {"name": "Myoneural_junction_and_neuromuscular_diseases", "id": 27091491}], "successors": [{"name": "People_with_muscular_dystrophy", "id": 9371164}]}

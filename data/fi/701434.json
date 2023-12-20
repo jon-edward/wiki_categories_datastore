@@ -1,1 +1,1 @@
-{"name": "Ruotsalaiset_virkamiehet", "id": 701434, "predecessors": [{"name": "Ammatit", "id": 26041}, {"name": "Aluemaantiede", "id": 423146}], "successors": [{"name": "Ruotsin_maaherrat", "id": 963676}]}
+{"name": "Ruotsalaiset_virkamiehet", "id": 701434, "predecessors": [{"name": "Virkamiehet", "id": 75770}, {"name": "Aluemaantiede", "id": 423146}], "successors": [{"name": "Ruotsin_maaherrat", "id": 963676}]}

@@ -1,1 +1,1 @@
-{"name": "Environmental_research_institutes", "id": 13460420, "predecessors": [{"name": "Environmental_research", "id": 38350034}], "successors": [{"name": "Natural_Environment_Research_Council", "id": 53592824}]}
+{"name": "Environmental_research_institutes", "id": 13460420, "predecessors": [{"name": "Environmental_research", "id": 38350034}, {"name": "Earth_sciences_organizations", "id": 54707751}], "successors": [{"name": "Natural_Environment_Research_Council", "id": 53592824}]}

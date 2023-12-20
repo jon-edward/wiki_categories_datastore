@@ -1,1 +1,1 @@
-{"name": "Plant_collectors", "id": 5999994, "predecessors": [{"name": "Natural_history_collectors", "id": 34290073}], "successors": [{"name": "Botanical_collectors_active_in_Australia", "id": 10369013}]}
+{"name": "Plant_collectors", "id": 5999994, "predecessors": [{"name": "Botanists", "id": 711955}, {"name": "Natural_history_collectors", "id": 34290073}], "successors": [{"name": "Botanical_collectors_active_in_Australia", "id": 10369013}, {"name": "Scottish_plant_collectors", "id": 74110423}]}

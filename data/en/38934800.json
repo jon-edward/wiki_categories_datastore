@@ -1,1 +1,1 @@
-{"name": "PPAR_agonists", "id": 38934800, "predecessors": [{"name": "Receptor_agonists", "id": 22002801}], "successors": []}
+{"name": "PPAR_agonists", "id": 38934800, "predecessors": [{"name": "Drugs_acting_on_the_gastrointestinal_system_and_metabolism", "id": 22260378}, {"name": "Receptor_agonists", "id": 22002801}], "successors": [{"name": "Thiazolidinediones", "id": 3358078}]}

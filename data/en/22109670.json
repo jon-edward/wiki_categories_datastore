@@ -1,1 +1,1 @@
-{"name": "Russian_newspaper_editors", "id": 22109670, "predecessors": [{"name": "Newspaper_publishing", "id": 24204175}], "successors": [{"name": "Soviet_newspaper_editors", "id": 25527613}]}
+{"name": "Russian_newspaper_editors", "id": 22109670, "predecessors": [{"name": "Newspaper_publishing", "id": 24204175}, {"name": "Asian_culture", "id": 1438369}], "successors": []}

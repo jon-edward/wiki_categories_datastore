@@ -1,1 +1,1 @@
-{"name": "Integral_equations", "id": 1957772, "predecessors": [{"name": "Functional_analysis", "id": 691866}], "successors": [{"name": "Fredholm_theory", "id": 4355212}]}
+{"name": "Integral_equations", "id": 1957772, "predecessors": [{"name": "Equations", "id": 1013712}, {"name": "Functional_analysis", "id": 691866}], "successors": [{"name": "Fredholm_theory", "id": 4355212}]}

@@ -1,1 +1,1 @@
-{"name": "Private_railway_stations", "id": 13840639, "predecessors": [{"name": "Railway_stations", "id": 3075249}], "successors": [{"name": "Railway_stations_served_by_Eurostar", "id": 31914919}]}
+{"name": "Private_railway_stations", "id": 13840639, "predecessors": [{"name": "Railway_stations", "id": 3075249}], "successors": [{"name": "Shosholoza_Meyl_stations", "id": 27785549}, {"name": "Railway_stations_served_by_Eurostar", "id": 31914919}]}

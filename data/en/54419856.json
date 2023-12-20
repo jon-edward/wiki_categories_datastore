@@ -1,1 +1,1 @@
-{"name": "Health_care_companies_based_in_Texas", "id": 54419856, "predecessors": [{"name": "Health_care", "id": 35880954}], "successors": []}
+{"name": "Health_care_companies_based_in_Texas", "id": 54419856, "predecessors": [{"name": "Companies_based_in_Texas", "id": 1429621}, {"name": "Medical_and_health_organizations_based_in_Texas", "id": 54389066}, {"name": "Health_by_country", "id": 2693630}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Accessible_New_York_City_Subway_stations", "id": 52578159, "predecessors": [{"name": "New_York_City_Subway", "id": 706749}], "successors": [{"name": "Future_accessible_New_York_City_Subway_stations", "id": 54774596}]}
+{"name": "Accessible_New_York_City_Subway_stations", "id": 52578159, "predecessors": [{"name": "Accessible_transportation", "id": 26115643}, {"name": "New_York_City_Subway", "id": 706749}], "successors": [{"name": "Future_accessible_New_York_City_Subway_stations", "id": 54774596}]}

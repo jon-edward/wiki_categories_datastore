@@ -1,1 +1,1 @@
-{"name": "Murder_in_Sydney", "id": 13690780, "predecessors": [{"name": "Crime_in_Sydney", "id": 3212311}, {"name": "Crime_in_Oceania", "id": 29494903}], "successors": []}
+{"name": "Murder_in_Sydney", "id": 13690780, "predecessors": [{"name": "Crime_in_Sydney", "id": 3212311}, {"name": "Murder_in_New_South_Wales", "id": 20201422}, {"name": "Crime_in_Australia", "id": 2942659}], "successors": [{"name": "People_murdered_in_Sydney", "id": 47248693}]}

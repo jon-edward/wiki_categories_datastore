@@ -1,1 +1,1 @@
-{"name": "Economy_ministries", "id": 9612783, "predecessors": [{"name": "Economic_policy", "id": 3168459}], "successors": []}
+{"name": "Economy_ministries", "id": 9612783, "predecessors": [{"name": "Economic_policy", "id": 3168459}], "successors": [{"name": "Trade_ministries", "id": 20569084}, {"name": "Ministry_of_Commerce_and_Industry_(India)", "id": 31375098}, {"name": "Ministers_of_Economy_of_Lithuania", "id": 38069416}]}

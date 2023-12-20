@@ -1,1 +1,1 @@
-{"name": "Yamaha_sound_chips", "id": 41656408, "predecessors": [{"name": "Yamaha_music_products", "id": 2590736}], "successors": []}
+{"name": "Yamaha_sound_chips", "id": 41656408, "predecessors": [{"name": "Sound_chips", "id": 1761187}, {"name": "Yamaha_music_products", "id": 2590736}], "successors": []}

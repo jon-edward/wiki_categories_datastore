@@ -1,1 +1,1 @@
-{"name": "Graph_theorists", "id": 5328035, "predecessors": [{"name": "Graph_theory", "id": 691898}], "successors": [{"name": "Graph_drawing_people", "id": 33681437}]}
+{"name": "Graph_theorists", "id": 5328035, "predecessors": [{"name": "Combinatorialists", "id": 30709999}, {"name": "Graph_theory", "id": 691898}], "successors": [{"name": "Graph_drawing_people", "id": 33681437}]}

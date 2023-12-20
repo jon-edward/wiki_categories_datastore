@@ -1,1 +1,1 @@
-{"name": "Contraception_for_males", "id": 6006943, "predecessors": [{"name": "Birth_control", "id": 1187059}, {"name": "Human_reproduction", "id": 10099038}], "successors": [{"name": "Condoms", "id": 15106949}]}
+{"name": "Contraception_for_males", "id": 6006943, "predecessors": [{"name": "Men_and_sexuality", "id": 33848835}, {"name": "Birth_control", "id": 1187059}], "successors": [{"name": "Condoms", "id": 15106949}]}

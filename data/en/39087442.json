@@ -1,1 +1,1 @@
-{"name": "MacOS_media_players", "id": 39087442, "predecessors": [{"name": "MacOS_multimedia_software", "id": 39087470}, {"name": "Media_players", "id": 924860}], "successors": [{"name": "ITunes", "id": 20706616}]}
+{"name": "MacOS_media_players", "id": 39087442, "predecessors": [{"name": "MacOS_multimedia_software", "id": 39087470}, {"name": "Media_players", "id": 924860}, {"name": "Macintosh_software", "id": 53245880}], "successors": [{"name": "ITunes", "id": 20706616}]}

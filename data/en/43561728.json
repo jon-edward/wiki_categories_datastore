@@ -1,1 +1,1 @@
-{"name": "Rocket_engines_of_Russia", "id": 43561728, "predecessors": [{"name": "Rocket_engines", "id": 881627}], "successors": [{"name": "Energomash_rocket_engines", "id": 51706542}, {"name": "KBKhA_rocket_engines", "id": 51706715}]}
+{"name": "Rocket_engines_of_Russia", "id": 43561728, "predecessors": [{"name": "Space_program_of_Russia", "id": 36845342}, {"name": "Rocket_engines", "id": 881627}], "successors": [{"name": "Energomash_rocket_engines", "id": 51706542}, {"name": "KBKhA_rocket_engines", "id": 51706715}, {"name": "KB_KhimMash_rocket_engines", "id": 51706806}]}

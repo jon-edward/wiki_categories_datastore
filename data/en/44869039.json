@@ -1,1 +1,1 @@
-{"name": "Czech_male_fencers", "id": 44869039, "predecessors": [{"name": "Fencing", "id": 1072254}, {"name": "Martial_arts", "id": 729832}], "successors": []}
+{"name": "Czech_male_fencers", "id": 44869039, "predecessors": [{"name": "Fencing", "id": 1072254}, {"name": "Men", "id": 1585667}, {"name": "Culture_of_the_Czech_Republic", "id": 725131}], "successors": [{"name": "Czech_male_épée_fencers", "id": 69749901}]}

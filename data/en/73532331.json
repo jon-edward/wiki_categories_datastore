@@ -1,1 +1,1 @@
-{"name": "Max_(streaming_service)", "id": 73532331, "predecessors": [{"name": "Subscription_video_on_demand_services", "id": 57597593}], "successors": [{"name": "Max_(streaming_service)_original_programming", "id": 73531694}]}
+{"name": "Max_(streaming_service)", "id": 73532331, "predecessors": [{"name": "Subscription_video_on_demand_services", "id": 57597593}, {"name": "Warner_Bros._Discovery_brands", "id": 35076180}], "successors": [{"name": "Max_(streaming_service)_original_programming", "id": 73531694}]}

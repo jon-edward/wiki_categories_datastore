@@ -1,1 +1,1 @@
-{"name": "Radio_communications", "id": 20494344, "predecessors": [{"name": "Radio", "id": 693378}], "successors": [{"name": "Maritime_communication", "id": 13421455}, {"name": "Radio_masts_and_towers", "id": 40376778}]}
+{"name": "Radio_communications", "id": 20494344, "predecessors": [{"name": "Radio", "id": 693378}, {"name": "Telecommunications_engineering", "id": 31195638}], "successors": [{"name": "Maritime_communication", "id": 13421455}, {"name": "Radio_masts_and_towers", "id": 40376778}]}

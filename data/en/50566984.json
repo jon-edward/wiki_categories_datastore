@@ -1,1 +1,1 @@
-{"name": "Cretaceous_cephalopods", "id": 50566984, "predecessors": [{"name": "Mesozoic_cephalopods", "id": 47624571}, {"name": "Geochronology", "id": 1265016}], "successors": []}
+{"name": "Cretaceous_cephalopods", "id": 50566984, "predecessors": [{"name": "Mesozoic_cephalopods", "id": 47624571}, {"name": "Earth", "id": 754965}], "successors": [{"name": "Cretaceous_ammonites", "id": 42981505}]}

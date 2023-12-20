@@ -1,1 +1,0 @@
-{"name": "Transition_de_phase", "id": 1006573, "predecessors": [{"name": "Phase", "id": 1006522}, {"name": "Transformation_thermodynamique", "id": 1767136}], "successors": [{"name": "Température_seuil", "id": 11747427}]}

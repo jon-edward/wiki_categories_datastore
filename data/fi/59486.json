@@ -1,1 +1,1 @@
-{"name": "Jalokivet", "id": 59486, "predecessors": [{"name": "Luonnonvarat", "id": 28075}, {"name": "Asusteet", "id": 1699052}, {"name": "Makrotaloustiede", "id": 20999}], "successors": [{"name": "Timantit", "id": 344188}]}
+{"name": "Jalokivet", "id": 59486, "predecessors": [{"name": "Luonnonvarat", "id": 28075}, {"name": "Keräily", "id": 25169}, {"name": "Makrotaloustiede", "id": 20999}], "successors": [{"name": "Timantit", "id": 344188}]}

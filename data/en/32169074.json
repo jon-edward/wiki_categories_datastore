@@ -1,1 +1,1 @@
-{"name": "Japanese_folk_art", "id": 32169074, "predecessors": [{"name": "Japanese_culture", "id": 692609}, {"name": "Folk_art", "id": 2941728}], "successors": [{"name": "Rakugo", "id": 40183183}, {"name": "Mingei", "id": 61473831}]}
+{"name": "Japanese_folk_art", "id": 32169074, "predecessors": [{"name": "Folk_art", "id": 2941728}, {"name": "Asian_culture", "id": 1438369}], "successors": [{"name": "Rakugo", "id": 40183183}, {"name": "Mingei", "id": 61473831}]}

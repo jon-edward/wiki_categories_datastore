@@ -1,1 +1,1 @@
-{"name": "Zimní_svátky", "id": 1760517, "predecessors": [{"name": "Svátky", "id": 53477}, {"name": "Zima", "id": 176125}], "successors": [{"name": "Vánoce", "id": 51640}, {"name": "Svátky_zimního_slunovratu", "id": 1256739}]}
+{"name": "Zimní_svátky", "id": 1760517, "predecessors": [{"name": "Svátky", "id": 53477}, {"name": "Zima", "id": 176125}], "successors": [{"name": "Vánoce", "id": 51640}]}

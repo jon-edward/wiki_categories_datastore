@@ -1,1 +1,1 @@
-{"name": "Green_Bay_Packers_coaches", "id": 3868979, "predecessors": [{"name": "Coaches_of_American_football", "id": 20671228}, {"name": "National_Football_League", "id": 841731}], "successors": []}
+{"name": "Green_Bay_Packers_coaches", "id": 3868979, "predecessors": [{"name": "National_Football_League_coaches", "id": 1816103}, {"name": "National_Football_League", "id": 841731}], "successors": [{"name": "Green_Bay_Packers_head_coaches", "id": 18352110}]}

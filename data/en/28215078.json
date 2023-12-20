@@ -1,1 +1,1 @@
-{"name": "Computer_science_educators", "id": 28215078, "predecessors": [{"name": "Computer_science_education", "id": 2275290}], "successors": []}
+{"name": "Computer_science_educators", "id": 28215078, "predecessors": [{"name": "Computer_science_education", "id": 2275290}, {"name": "Computer_scientists", "id": 694790}, {"name": "Science_teachers", "id": 10173768}], "successors": []}

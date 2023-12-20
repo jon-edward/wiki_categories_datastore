@@ -1,1 +1,1 @@
-{"name": "Japanese_food_preparation_utensils", "id": 692466, "predecessors": [{"name": "Japanese_cuisine", "id": 937592}, {"name": "Japanese_culture", "id": 692609}, {"name": "Food_preparation_utensils", "id": 24916231}], "successors": []}
+{"name": "Japanese_food_preparation_utensils", "id": 692466, "predecessors": [{"name": "Japanese_cuisine", "id": 937592}, {"name": "Japanese_culture", "id": 692609}, {"name": "East_Asian_cuisine", "id": 25514991}], "successors": [{"name": "Japanese_kitchen_knives", "id": 6829647}]}

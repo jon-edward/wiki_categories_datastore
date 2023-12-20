@@ -1,1 +1,1 @@
-{"name": "Sports_drinks", "id": 14685785, "predecessors": [{"name": "Non-alcoholic_drinks", "id": 4197151}, {"name": "Sports_culture", "id": 1489599}, {"name": "Sports_nutrition", "id": 70516127}], "successors": [{"name": "Gatorade", "id": 25859767}]}
+{"name": "Sports_drinks", "id": 14685785, "predecessors": [{"name": "Non-alcoholic_drinks", "id": 4197151}, {"name": "Sports_nutrition", "id": 70516127}], "successors": [{"name": "Gatorade", "id": 25859767}]}

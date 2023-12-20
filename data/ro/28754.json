@@ -1,1 +1,1 @@
-{"name": "Armament", "id": 28754, "predecessors": [{"name": "Armată", "id": 28755}], "successors": [{"name": "Arme", "id": 28748}, {"name": "Autovehicule_blindate", "id": 387247}]}
+{"name": "Armament", "id": 28754, "predecessors": [{"name": "Armată", "id": 28755}], "successors": [{"name": "Arme", "id": 28748}, {"name": "Autovehicule_blindate", "id": 387247}, {"name": "Companii_din_industria_de_apărare", "id": 372828}]}

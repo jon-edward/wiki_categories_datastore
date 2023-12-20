@@ -1,1 +1,1 @@
-{"name": "British_pies", "id": 6353132, "predecessors": [{"name": "Pies", "id": 810522}], "successors": [{"name": "British_pie_brands", "id": 31285710}]}
+{"name": "British_pies", "id": 6353132, "predecessors": [{"name": "British_cuisine", "id": 694858}, {"name": "Pies", "id": 810522}], "successors": [{"name": "British_pie_brands", "id": 31285710}]}

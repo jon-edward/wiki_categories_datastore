@@ -1,1 +1,0 @@
-{"name": "Servicio_y_comedor", "id": 6873786, "predecessors": [{"name": "Comida_y_bebida", "id": 6511317}, {"name": "Hogar", "id": 106882}], "successors": [{"name": "Servicio_de_mesa", "id": 2424178}, {"name": "Artículos_para_beber", "id": 8598315}]}

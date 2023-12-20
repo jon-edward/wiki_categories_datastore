@@ -1,1 +1,1 @@
-{"name": "Alcohol_abuse_counselors", "id": 1061278, "predecessors": [{"name": "Alcohol_abuse", "id": 2387019}, {"name": "Drug_rehabilitation", "id": 870146}, {"name": "Health_care_occupations", "id": 1006080}], "successors": []}
+{"name": "Alcohol_abuse_counselors", "id": 1061278, "predecessors": [{"name": "Alcohol_abuse", "id": 2387019}, {"name": "Drug_rehabilitation", "id": 870146}, {"name": "Health", "id": 751381}, {"name": "Counseling", "id": 13139517}], "successors": []}

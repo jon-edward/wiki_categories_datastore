@@ -1,1 +1,1 @@
-{"name": "Maccabiah_Games_chess_players", "id": 34039824, "predecessors": [{"name": "Maccabiah_Games_competitors_by_sport", "id": 34039843}, {"name": "Chess_competitions", "id": 913045}], "successors": []}
+{"name": "Maccabiah_Games_chess_players", "id": 34039824, "predecessors": [{"name": "Maccabiah_Games_competitors_by_sport", "id": 34039843}, {"name": "Chess_competitions", "id": 913045}], "successors": [{"name": "Maccabiah_Games_medalists_in_chess", "id": 60324424}]}

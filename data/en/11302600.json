@@ -1,1 +1,1 @@
-{"name": "Anthropology_writers", "id": 11302600, "predecessors": [{"name": "Science_writers", "id": 706179}, {"name": "Academic_publishing", "id": 2239162}], "successors": [{"name": "American_anthropology_writers", "id": 17686837}]}
+{"name": "Anthropology_writers", "id": 11302600, "predecessors": [{"name": "Anthropology", "id": 694863}, {"name": "Anthropology_literature", "id": 8898323}, {"name": "Science_writers", "id": 706179}], "successors": [{"name": "American_anthropology_writers", "id": 17686837}]}

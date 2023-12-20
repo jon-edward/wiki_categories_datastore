@@ -1,1 +1,1 @@
-{"name": "Mekaaninen_metsäteollisuus", "id": 589471, "predecessors": [{"name": "Metsäteollisuus", "id": 112254}], "successors": [{"name": "Puunjalostusteollisuus", "id": 25297}, {"name": "Puupohjaiset_materiaalit", "id": 297464}]}
+{"name": "Mekaaninen_metsäteollisuus", "id": 589471, "predecessors": [{"name": "Metsäteollisuus", "id": 112254}], "successors": [{"name": "Puunjalostusteollisuus", "id": 25297}, {"name": "Puupohjaiset_materiaalit", "id": 297464}, {"name": "Rauma-Repola", "id": 1780466}]}

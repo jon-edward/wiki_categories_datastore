@@ -1,1 +1,1 @@
-{"name": "Painters_from_Siena", "id": 15360890, "predecessors": [{"name": "Painting", "id": 707606}], "successors": []}
+{"name": "Painters_from_Siena", "id": 15360890, "predecessors": [{"name": "Artists_from_Siena", "id": 74554691}, {"name": "Painters_from_Tuscany", "id": 1028118}, {"name": "Italian_artists", "id": 1031803}], "successors": []}

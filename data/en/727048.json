@@ -1,1 +1,1 @@
-{"name": "Uruguayan_music", "id": 727048, "predecessors": [{"name": "Uruguayan_culture", "id": 727049}], "successors": [{"name": "Uruguayan_musicians", "id": 986584}, {"name": "Tangos", "id": 7287778}]}
+{"name": "Uruguayan_music", "id": 727048, "predecessors": [{"name": "Latin_American_music", "id": 36235233}, {"name": "Uruguayan_culture", "id": 727049}], "successors": [{"name": "Uruguayan_musicians", "id": 986584}, {"name": "Tangos", "id": 7287778}]}

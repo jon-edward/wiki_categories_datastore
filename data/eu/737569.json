@@ -1,1 +1,1 @@
-{"name": "Matematikako_teoremak", "id": 737569, "predecessors": [{"name": "Matematika", "id": 5742}], "successors": [{"name": "Probabilitate_teoremak", "id": 945780}]}
+{"name": "Matematikako_teoremak", "id": 737569, "predecessors": [{"name": "Matematika", "id": 5742}, {"name": "Matematikaren_historia", "id": 128636}], "successors": [{"name": "Probabilitate_teoremak", "id": 945780}]}

@@ -1,1 +1,1 @@
-{"name": "Ticks", "id": 27032498, "predecessors": [{"name": "Hematophages", "id": 50510836}], "successors": [{"name": "Tick-borne_diseases", "id": 28888506}, {"name": "Argasidae", "id": 56108761}, {"name": "Ixodidae", "id": 56121559}]}
+{"name": "Ticks", "id": 27032498, "predecessors": [{"name": "Hematophages", "id": 50510836}, {"name": "Parasitic_acari", "id": 40027567}, {"name": "Acari", "id": 4904032}], "successors": [{"name": "Tick-borne_diseases", "id": 28888506}, {"name": "Argasidae", "id": 56108761}, {"name": "Ixodidae", "id": 56121559}]}

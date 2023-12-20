@@ -1,1 +1,1 @@
-{"name": "Deaths_from_pneumonia", "id": 14112751, "predecessors": [{"name": "Infectious_diseases", "id": 707355}], "successors": [{"name": "Deaths_from_bronchopneumonia", "id": 35989469}]}
+{"name": "Deaths_from_pneumonia", "id": 14112751, "predecessors": [{"name": "Deaths_from_lung_disease", "id": 14244764}, {"name": "Pneumonia", "id": 4178770}, {"name": "Infectious_diseases", "id": 707355}], "successors": [{"name": "Deaths_from_bronchopneumonia", "id": 35989469}]}

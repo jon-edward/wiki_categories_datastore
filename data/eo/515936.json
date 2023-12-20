@@ -1,1 +1,1 @@
-{"name": "Energiŝparado", "id": 515936, "predecessors": [{"name": "Daŭripovaj_teknologioj", "id": 515939}, {"name": "Energetiko", "id": 287215}, {"name": "Energia_transiro", "id": 515937}, {"name": "Energio", "id": 56848}], "successors": []}
+{"name": "Energiŝparado", "id": 515936, "predecessors": [{"name": "Daŭripovaj_teknologioj", "id": 515939}, {"name": "Energia_industrio", "id": 287215}, {"name": "Energia_transiro", "id": 515937}, {"name": "Energio", "id": 56848}], "successors": []}

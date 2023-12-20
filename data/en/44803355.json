@@ -1,1 +1,1 @@
-{"name": "American_male_guitarists", "id": 44803355, "predecessors": [{"name": "Male_guitarists", "id": 44803363}], "successors": [{"name": "American_male_bass_guitarists", "id": 59289591}, {"name": "African-American_male_guitarists", "id": 61319968}]}
+{"name": "American_male_guitarists", "id": 44803355, "predecessors": [{"name": "American_male_musicians", "id": 40298306}, {"name": "Male_guitarists", "id": 44803363}], "successors": [{"name": "American_male_bass_guitarists", "id": 59289591}, {"name": "African-American_male_guitarists", "id": 61319968}]}

@@ -1,1 +1,1 @@
-{"name": "Winter_traditions", "id": 16748297, "predecessors": [{"name": "Winter_in_culture", "id": 47213819}, {"name": "Seasons", "id": 1074697}], "successors": [{"name": "Jack_Frost", "id": 53723429}]}
+{"name": "Winter_traditions", "id": 16748297, "predecessors": [{"name": "Seasonal_traditions", "id": 696383}, {"name": "Winter_in_culture", "id": 47213819}], "successors": [{"name": "Jack_Frost", "id": 53723429}]}

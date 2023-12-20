@@ -1,1 +1,1 @@
-{"name": "Edinburgh_Trams", "id": 26591142, "predecessors": [{"name": "Transport_in_Edinburgh", "id": 1755002}], "successors": [{"name": "Edinburgh_Trams_stops", "id": 40661006}]}
+{"name": "Edinburgh_Trams", "id": 26591142, "predecessors": [{"name": "Tram_transport_in_Scotland", "id": 25442869}, {"name": "Transport_in_Edinburgh", "id": 1755002}], "successors": [{"name": "Edinburgh_Trams_stops", "id": 40661006}]}

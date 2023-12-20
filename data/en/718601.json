@@ -1,1 +1,1 @@
-{"name": "Nonsteroidal_anti-inflammatory_drugs", "id": 718601, "predecessors": [{"name": "Analgesics", "id": 718589}, {"name": "Antipyretics", "id": 718599}], "successors": [{"name": "Aspirin", "id": 16283265}, {"name": "COX-2_inhibitors", "id": 19599470}]}
+{"name": "Nonsteroidal_anti-inflammatory_drugs", "id": 718601, "predecessors": [{"name": "Analgesics", "id": 718589}, {"name": "Anti-inflammatory_agents", "id": 718606}, {"name": "Antipyretics", "id": 718599}], "successors": [{"name": "Aspirin", "id": 16283265}, {"name": "COX-2_inhibitors", "id": 19599470}]}

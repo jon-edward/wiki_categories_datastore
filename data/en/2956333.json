@@ -1,1 +1,1 @@
-{"name": "Auxiliary_ships", "id": 2956333, "predecessors": [{"name": "Naval_ships", "id": 733412}], "successors": [{"name": "Colliers", "id": 764220}, {"name": "Naval_trawlers", "id": 26344090}]}
+{"name": "Auxiliary_ships", "id": 2956333, "predecessors": [{"name": "Naval_ships", "id": 733412}], "successors": [{"name": "Colliers", "id": 764220}, {"name": "Icebreakers", "id": 1146894}, {"name": "Naval_trawlers", "id": 26344090}, {"name": "Electronic_intelligence_ships", "id": 32741821}]}

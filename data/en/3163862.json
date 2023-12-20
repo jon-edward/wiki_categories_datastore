@@ -1,1 +1,1 @@
-{"name": "Parades_in_New_York_City", "id": 3163862, "predecessors": [{"name": "Events_in_New_York_City", "id": 32272838}], "successors": []}
+{"name": "Parades_in_New_York_City", "id": 3163862, "predecessors": [{"name": "Events_in_New_York_City", "id": 32272838}, {"name": "Parades_in_the_United_States", "id": 21818889}], "successors": []}

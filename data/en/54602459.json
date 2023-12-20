@@ -1,1 +1,1 @@
-{"name": "Santonian_genera", "id": 54602459, "predecessors": [{"name": "Santonian_life", "id": 51888767}, {"name": "Geochronology", "id": 1265016}], "successors": [{"name": "Santonian_genus_first_appearances", "id": 54301939}]}
+{"name": "Santonian_genera", "id": 54602459, "predecessors": [{"name": "Santonian_life", "id": 51888767}, {"name": "Earth", "id": 754965}], "successors": [{"name": "Santonian_genus_first_appearances", "id": 54301939}, {"name": "Santonian_genus_extinctions", "id": 54302216}]}

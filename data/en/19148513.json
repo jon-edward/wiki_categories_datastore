@@ -1,1 +1,1 @@
-{"name": "Comics_retailers", "id": 19148513, "predecessors": [{"name": "Bookstores", "id": 857915}, {"name": "Comics_industry", "id": 19007324}], "successors": []}
+{"name": "Comics_retailers", "id": 19148513, "predecessors": [{"name": "Bookstores", "id": 857915}], "successors": [{"name": "Comics_retailers_in_Canada", "id": 34152315}]}

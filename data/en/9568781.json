@@ -1,1 +1,1 @@
-{"name": "Video_game_hardware", "id": 9568781, "predecessors": [{"name": "Game_equipment", "id": 36829240}, {"name": "Video_gaming", "id": 53895843}], "successors": [{"name": "Nintendo_hardware", "id": 1020908}, {"name": "Video_game_accessories", "id": 36003129}]}
+{"name": "Video_game_hardware", "id": 9568781, "predecessors": [{"name": "Game_equipment", "id": 36829240}, {"name": "Video_gaming", "id": 53895843}], "successors": [{"name": "Nintendo_hardware", "id": 1020908}, {"name": "Video_game_platforms", "id": 9569419}, {"name": "Video_game_accessories", "id": 36003129}]}

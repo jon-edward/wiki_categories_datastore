@@ -1,1 +1,1 @@
-{"name": "Food_analysis", "id": 73506437, "predecessors": [{"name": "Food_science", "id": 974555}], "successors": []}
+{"name": "Food_analysis", "id": 73506437, "predecessors": [{"name": "Analytical_chemistry", "id": 695001}, {"name": "Biochemistry", "id": 695996}], "successors": []}

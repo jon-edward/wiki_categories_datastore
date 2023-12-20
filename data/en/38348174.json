@@ -1,1 +1,1 @@
-{"name": "Ford_racing_cars", "id": 38348174, "predecessors": [{"name": "Ford_vehicles", "id": 704106}, {"name": "Racing_cars", "id": 1047165}], "successors": []}
+{"name": "Ford_racing_cars", "id": 38348174, "predecessors": [{"name": "Ford_vehicles", "id": 704106}, {"name": "Car_brands", "id": 52723773}], "successors": []}

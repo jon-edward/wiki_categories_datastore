@@ -1,1 +1,1 @@
-{"name": "Puppet_theaters", "id": 18918211, "predecessors": [{"name": "Theatre", "id": 698600}, {"name": "Puppetry", "id": 877831}], "successors": []}
+{"name": "Puppet_theaters", "id": 18918211, "predecessors": [{"name": "Theatre", "id": 698600}, {"name": "Theatrical_organizations", "id": 2891415}], "successors": []}

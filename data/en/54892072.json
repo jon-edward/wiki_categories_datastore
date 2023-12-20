@@ -1,1 +1,1 @@
-{"name": "Hamburg_U-Bahn_stations_in_Hamburg", "id": 54892072, "predecessors": [{"name": "Underground_rapid_transit_in_Germany", "id": 31149414}], "successors": []}
+{"name": "Hamburg_U-Bahn_stations_in_Hamburg", "id": 54892072, "predecessors": [{"name": "Railway_stations_in_Hamburg", "id": 5800073}, {"name": "Hamburg_U-Bahn", "id": 17532316}], "successors": []}

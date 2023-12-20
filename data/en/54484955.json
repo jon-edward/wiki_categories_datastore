@@ -1,1 +1,1 @@
-{"name": "Plant_geneticists", "id": 54484955, "predecessors": [{"name": "Plant_genetics", "id": 41200306}], "successors": []}
+{"name": "Plant_geneticists", "id": 54484955, "predecessors": [{"name": "Geneticists", "id": 714834}, {"name": "Plant_genetics", "id": 41200306}], "successors": []}

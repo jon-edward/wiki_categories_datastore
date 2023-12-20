@@ -1,1 +1,1 @@
-{"name": "Pathology_journals", "id": 30542174, "predecessors": [{"name": "Health_care", "id": 35880954}], "successors": []}
+{"name": "Pathology_journals", "id": 30542174, "predecessors": [{"name": "Pathology", "id": 1311481}, {"name": "Health_care", "id": 35880954}], "successors": []}

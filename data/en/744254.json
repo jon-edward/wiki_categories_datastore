@@ -1,1 +1,1 @@
-{"name": "Nucleotides", "id": 744254, "predecessors": [{"name": "Nucleosides", "id": 751348}, {"name": "Organophosphates", "id": 3556880}], "successors": [{"name": "Nucleic_acids", "id": 714707}]}
+{"name": "Nucleotides", "id": 744254, "predecessors": [{"name": "Genetics", "id": 696008}, {"name": "Nucleosides", "id": 751348}, {"name": "Organophosphates", "id": 3556880}], "successors": [{"name": "Nucleic_acids", "id": 714707}]}

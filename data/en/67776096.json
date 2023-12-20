@@ -1,1 +1,1 @@
-{"name": "Social_science_experiments", "id": 67776096, "predecessors": [{"name": "Science_experiments", "id": 1126634}], "successors": [{"name": "Psychology_experiments", "id": 1126648}]}
+{"name": "Social_science_experiments", "id": 67776096, "predecessors": [{"name": "Experiments", "id": 9500290}, {"name": "Science_experiments", "id": 1126634}], "successors": [{"name": "Psychology_experiments", "id": 1126648}]}

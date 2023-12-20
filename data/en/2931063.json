@@ -1,1 +1,1 @@
-{"name": "Photochemistry", "id": 2931063, "predecessors": [{"name": "Light", "id": 4464083}], "successors": [{"name": "Photosynthesis", "id": 706474}, {"name": "Ultraviolet_radiation", "id": 28081585}, {"name": "Photochemists", "id": 35216328}]}
+{"name": "Photochemistry", "id": 2931063, "predecessors": [{"name": "Light", "id": 4464083}, {"name": "Chemistry", "id": 691185}], "successors": [{"name": "Photosynthesis", "id": 706474}, {"name": "Ultraviolet_radiation", "id": 28081585}, {"name": "Photoelectrochemistry", "id": 30942676}, {"name": "Photochemists", "id": 35216328}]}

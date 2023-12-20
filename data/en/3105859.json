@@ -1,1 +1,1 @@
-{"name": "American_potters", "id": 3105859, "predecessors": [{"name": "American_ceramists", "id": 22121865}, {"name": "American_pottery", "id": 20832296}, {"name": "Pottery", "id": 999447}], "successors": []}
+{"name": "American_potters", "id": 3105859, "predecessors": [{"name": "American_ceramists", "id": 22121865}, {"name": "American_pottery", "id": 20832296}, {"name": "Pottery", "id": 999447}], "successors": [{"name": "Native_American_potters", "id": 31153545}]}

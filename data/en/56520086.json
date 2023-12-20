@@ -1,1 +1,1 @@
-{"name": "Japanese_fusion_cuisine", "id": 56520086, "predecessors": [{"name": "Japanese_cuisine", "id": 937592}], "successors": [{"name": "Japanese-American_cuisine", "id": 49319881}]}
+{"name": "Japanese_fusion_cuisine", "id": 56520086, "predecessors": [{"name": "Fusion_cuisine", "id": 31930801}, {"name": "Japanese_cuisine", "id": 937592}], "successors": [{"name": "Japanese-American_cuisine", "id": 49319881}]}

@@ -1,1 +1,1 @@
-{"name": "Energy_weapons", "id": 945960, "predecessors": [{"name": "Weapons", "id": 698507}], "successors": [{"name": "Pulsed_power", "id": 25827982}, {"name": "Fictional_energy_weapons", "id": 50333619}]}
+{"name": "Energy_weapons", "id": 945960, "predecessors": [{"name": "Energy", "id": 865456}, {"name": "Weapons", "id": 698507}], "successors": [{"name": "Pulsed_power", "id": 25827982}, {"name": "Fictional_energy_weapons", "id": 50333619}]}

@@ -1,1 +1,1 @@
-{"name": "Buddhist_charities", "id": 62350177, "predecessors": [{"name": "Charity_fundraisers", "id": 5743331}], "successors": [{"name": "Fo_Guang_Shan", "id": 3523401}]}
+{"name": "Buddhist_charities", "id": 62350177, "predecessors": [{"name": "Buddhist_organizations", "id": 3232614}, {"name": "Charities", "id": 34436800}], "successors": [{"name": "Fo_Guang_Shan", "id": 3523401}]}

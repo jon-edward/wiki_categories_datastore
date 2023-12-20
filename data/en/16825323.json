@@ -1,0 +1,1 @@
+{"name": "Property_taxes", "id": 16825323, "predecessors": [{"name": "Property", "id": 1141987}, {"name": "Taxes_by_type", "id": 52668258}], "successors": [{"name": "Land_taxation", "id": 22578864}]}

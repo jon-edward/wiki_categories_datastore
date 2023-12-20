@@ -1,1 +1,1 @@
-{"name": "Statistics_journals", "id": 1873676, "predecessors": [{"name": "Mathematics_journals", "id": 10423841}, {"name": "Academic_publishing", "id": 2239162}], "successors": [{"name": "Econometrics_journals", "id": 19552957}]}
+{"name": "Statistics_journals", "id": 1873676, "predecessors": [{"name": "Mathematics_journals", "id": 10423841}, {"name": "Applied_mathematics", "id": 966983}, {"name": "Thought", "id": 983652}], "successors": [{"name": "Econometrics_journals", "id": 19552957}]}

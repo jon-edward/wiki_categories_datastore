@@ -1,1 +1,1 @@
-{"name": "Sheriff_courts", "id": 48930348, "predecessors": [{"name": "Scottish_Courts_and_Tribunals_Service", "id": 35154900}], "successors": [{"name": "Scottish_sheriffs", "id": 41147027}]}
+{"name": "Sheriff_courts", "id": 48930348, "predecessors": [{"name": "Courts_of_Scotland", "id": 2392396}, {"name": "Scottish_Courts_and_Tribunals_Service", "id": 35154900}], "successors": [{"name": "Scottish_sheriffs", "id": 41147027}]}

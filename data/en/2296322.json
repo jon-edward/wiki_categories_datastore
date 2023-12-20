@@ -1,1 +1,1 @@
-{"name": "Experimental_archaeology", "id": 2296322, "predecessors": [{"name": "Science_experiments", "id": 1126634}], "successors": [{"name": "Replications_of_ancient_voyages", "id": 26828613}]}
+{"name": "Experimental_archaeology", "id": 2296322, "predecessors": [{"name": "Archaeological_sub-disciplines", "id": 1863622}, {"name": "Science_experiments", "id": 1126634}], "successors": [{"name": "Replications_of_ancient_voyages", "id": 26828613}]}

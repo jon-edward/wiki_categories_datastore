@@ -1,1 +1,1 @@
-{"name": "Korean_Tour", "id": 33826661, "predecessors": [{"name": "Professional_golf_tours", "id": 1324713}], "successors": [{"name": "Korean_Tour_events", "id": 33826671}]}
+{"name": "Korean_Tour", "id": 33826661, "predecessors": [{"name": "Professional_golf_tours", "id": 1324713}, {"name": "Korean_culture", "id": 726322}], "successors": [{"name": "Korean_Tour_events", "id": 33826671}]}

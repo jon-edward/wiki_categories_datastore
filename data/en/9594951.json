@@ -1,1 +1,1 @@
-{"name": "Munich_S-Bahn_lines", "id": 9594951, "predecessors": [{"name": "Railway_lines_in_Bavaria", "id": 9154202}], "successors": []}
+{"name": "Munich_S-Bahn_lines", "id": 9594951, "predecessors": [{"name": "Railway_lines_in_Bavaria", "id": 9154202}, {"name": "Transport_in_Munich", "id": 3247349}], "successors": []}

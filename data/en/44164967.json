@@ -1,1 +1,1 @@
-{"name": "Non-profit_organizations_based_in_Boston", "id": 44164967, "predecessors": [{"name": "Organizations_based_in_Boston", "id": 15815490}], "successors": [{"name": "WGBH_Educational_Foundation", "id": 53796596}]}
+{"name": "Non-profit_organizations_based_in_Boston", "id": 44164967, "predecessors": [{"name": "Non-profit_organizations_based_in_Massachusetts", "id": 15163758}, {"name": "Organizations_based_in_Boston", "id": 15815490}], "successors": [{"name": "WGBH_Educational_Foundation", "id": 53796596}]}

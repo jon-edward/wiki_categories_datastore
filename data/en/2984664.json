@@ -1,1 +1,1 @@
-{"name": "Light_guns", "id": 2984664, "predecessors": [{"name": "Game_controllers", "id": 36003040}], "successors": [{"name": "Light_gun_games", "id": 921521}]}
+{"name": "Light_guns", "id": 2984664, "predecessors": [{"name": "Game_controllers", "id": 36003040}, {"name": "Pointing_devices", "id": 705502}], "successors": [{"name": "Light_gun_games", "id": 921521}]}

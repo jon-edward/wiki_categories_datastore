@@ -1,1 +1,1 @@
-{"name": "Kehonmuokkaus", "id": 63121, "predecessors": [{"name": "Alakulttuurit", "id": 58629}, {"name": "Kauneudenhoito", "id": 28929}], "successors": [{"name": "Tatuointi", "id": 896316}, {"name": "Lävistykset", "id": 1029209}]}
+{"name": "Kehonmuokkaus", "id": 63121, "predecessors": [{"name": "Alakulttuurit", "id": 58629}, {"name": "Kauneudenhoito", "id": 28929}, {"name": "Transhumanismi", "id": 62498}], "successors": [{"name": "Implantit", "id": 540141}, {"name": "Tatuointi", "id": 896316}, {"name": "Lävistykset", "id": 1029209}]}

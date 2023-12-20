@@ -1,1 +1,1 @@
-{"name": "Nortel_protocols", "id": 11931645, "predecessors": [{"name": "Internet_protocols", "id": 1034331}, {"name": "Nortel", "id": 3594502}], "successors": []}
+{"name": "Nortel_protocols", "id": 11931645, "predecessors": [{"name": "Internet_protocols", "id": 1034331}, {"name": "Network_protocols", "id": 754784}, {"name": "Nortel", "id": 3594502}], "successors": []}

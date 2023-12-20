@@ -1,1 +1,1 @@
-{"name": "Santiago_Metro_stations", "id": 21445234, "predecessors": [{"name": "Rail_infrastructure", "id": 2962895}, {"name": "Buildings_and_structures_by_type", "id": 6884364}], "successors": []}
+{"name": "Santiago_Metro_stations", "id": 21445234, "predecessors": [{"name": "Railway_stations_in_Chile", "id": 32418632}, {"name": "Rail_transport_in_Chile", "id": 8700989}, {"name": "Railway_stations_by_type", "id": 72782274}], "successors": []}

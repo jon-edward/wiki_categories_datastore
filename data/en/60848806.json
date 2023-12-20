@@ -1,1 +1,1 @@
-{"name": "Vinylogous_carboxylic_acids", "id": 60848806, "predecessors": [{"name": "Carboxylic_acids", "id": 695889}, {"name": "Enols", "id": 28878608}, {"name": "Enones", "id": 54892416}], "successors": [{"name": "3-Hydroxypropenals", "id": 61333466}]}
+{"name": "Vinylogous_carboxylic_acids", "id": 60848806, "predecessors": [{"name": "Carboxylic_acids", "id": 695889}, {"name": "Enols", "id": 28878608}, {"name": "Enones", "id": 54892416}], "successors": [{"name": "Tropolones", "id": 54393335}, {"name": "3-Hydroxypropenals", "id": 61333466}]}

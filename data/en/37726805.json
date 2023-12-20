@@ -1,1 +1,1 @@
-{"name": "Coal_in_Germany", "id": 37726805, "predecessors": [{"name": "Coal", "id": 1103533}], "successors": [{"name": "Coal-fired_power_stations_in_Germany", "id": 8772092}]}
+{"name": "Coal_in_Germany", "id": 37726805, "predecessors": [{"name": "Coal", "id": 1103533}, {"name": "Energy_in_the_European_Union", "id": 8100978}], "successors": [{"name": "Coal-fired_power_stations_in_Germany", "id": 8772092}]}

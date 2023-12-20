@@ -1,1 +1,1 @@
-{"name": "Fiat_trucks", "id": 40958177, "predecessors": [{"name": "Fiat_vehicles", "id": 922234}, {"name": "Manufactured_goods", "id": 699552}], "successors": []}
+{"name": "Fiat_trucks", "id": 40958177, "predecessors": [{"name": "Fiat_vehicles", "id": 922234}, {"name": "Road_transport_in_Italy", "id": 23798229}], "successors": []}

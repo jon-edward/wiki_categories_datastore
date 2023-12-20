@@ -1,1 +1,1 @@
-{"name": "Myndigheter_i_Innlandet", "id": 1760920, "predecessors": [{"name": "Innlandet", "id": 1736800}, {"name": "Norske_myndigheter", "id": 45823}], "successors": [{"name": "Fylkesmenn_i_Oppland", "id": 1023201}, {"name": "Fylkesmenn_i_Hedmark", "id": 1023188}]}
+{"name": "Myndigheter_i_Innlandet", "id": 1760920, "predecessors": [{"name": "Innlandet", "id": 1736800}, {"name": "Administrative_inndelinger_i_Norge", "id": 497295}], "successors": [{"name": "Tidligere_myndigheter_i_Innlandet", "id": 2160351}]}

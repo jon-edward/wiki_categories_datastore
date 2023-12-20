@@ -1,1 +1,1 @@
-{"name": "Science_fiction_academics", "id": 8947302, "predecessors": [{"name": "Literary_scholars", "id": 30315636}, {"name": "Science_fiction_studies", "id": 9318105}, {"name": "Outer_space", "id": 36093771}], "successors": [{"name": "Tolkien_Society_members", "id": 15059958}]}
+{"name": "Science_fiction_academics", "id": 8947302, "predecessors": [{"name": "Literary_scholars", "id": 30315636}, {"name": "Science_fiction_studies", "id": 9318105}, {"name": "Technology", "id": 696648}], "successors": [{"name": "Tolkien_Society_members", "id": 15059958}]}

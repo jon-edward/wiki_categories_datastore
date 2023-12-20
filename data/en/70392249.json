@@ -1,1 +1,1 @@
-{"name": "Imperial_Korean_military_personnel", "id": 70392249, "predecessors": [{"name": "Korean_Empire", "id": 29448957}], "successors": []}
+{"name": "Imperial_Korean_military_personnel", "id": 70392249, "predecessors": [{"name": "Korean_military_personnel", "id": 8460988}, {"name": "Korean_Empire", "id": 29448957}], "successors": [{"name": "Lieutenant_generals_of_Korean_Empire", "id": 69738172}]}

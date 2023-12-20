@@ -1,0 +1,1 @@
+{"name": "Articulated_passenger_trains", "id": 21703511, "predecessors": [{"name": "Articulated_vehicles", "id": 5851395}, {"name": "Passenger_rail_rolling_stock", "id": 40390806}], "successors": [{"name": "Talgo", "id": 24863106}, {"name": "TGV_trainsets", "id": 25670136}]}

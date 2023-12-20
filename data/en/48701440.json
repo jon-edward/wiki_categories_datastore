@@ -1,1 +1,1 @@
-{"name": "Mammal_behavior", "id": 48701440, "predecessors": [{"name": "Mammalogy", "id": 2463985}, {"name": "Ethology", "id": 2650082}], "successors": [{"name": "Horse_behavior", "id": 6331269}, {"name": "Primate_behavior", "id": 47255370}]}
+{"name": "Mammal_behavior", "id": 48701440, "predecessors": [{"name": "Behavior", "id": 737037}, {"name": "Reptiliomorphs", "id": 5660452}], "successors": [{"name": "Dog_training_and_behavior", "id": 970360}, {"name": "Cat_behavior", "id": 2558456}, {"name": "Horse_behavior", "id": 6331269}, {"name": "Primate_behavior", "id": 47255370}]}

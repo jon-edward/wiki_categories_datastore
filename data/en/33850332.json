@@ -1,1 +1,1 @@
-{"name": "Biopesticides", "id": 33850332, "predecessors": [{"name": "Biological_pest_control", "id": 4545205}], "successors": [{"name": "Plant_toxin_insecticides", "id": 3651318}]}
+{"name": "Biopesticides", "id": 33850332, "predecessors": [{"name": "Biological_pest_control_agents", "id": 4962280}], "successors": [{"name": "Plant_toxin_insecticides", "id": 3651318}]}

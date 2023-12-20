@@ -1,1 +1,1 @@
-{"name": "Insurance_companies_of_Germany", "id": 1499132, "predecessors": [{"name": "Insurance", "id": 873395}], "successors": [{"name": "Allianz", "id": 63048787}]}
+{"name": "Insurance_companies_of_Germany", "id": 1499132, "predecessors": [{"name": "Financial_services_companies_of_Germany", "id": 6070895}, {"name": "Insurance", "id": 873395}], "successors": [{"name": "Allianz", "id": 63048787}]}

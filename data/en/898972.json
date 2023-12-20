@@ -1,1 +1,1 @@
-{"name": "Regions_of_Italy", "id": 898972, "predecessors": [{"name": "NUTS_2_statistical_regions_of_the_European_Union", "id": 10955888}], "successors": []}
+{"name": "Regions_of_Italy", "id": 898972, "predecessors": [{"name": "First-level_administrative_divisions_by_country", "id": 8420344}, {"name": "NUTS_2_statistical_regions_of_the_European_Union", "id": 10955888}, {"name": "Subdivisions_of_Italy", "id": 1990118}], "successors": [{"name": "Flags_of_regions_of_Italy", "id": 46915021}, {"name": "Region-owned_companies_of_Italy", "id": 49711854}]}

@@ -1,1 +1,1 @@
-{"name": "Total_synthesis", "id": 3129129, "predecessors": [{"name": "Chemical_synthesis", "id": 3204295}], "successors": []}
+{"name": "Total_synthesis", "id": 3129129, "predecessors": [{"name": "Chemical_synthesis", "id": 3204295}, {"name": "Organic_chemistry", "id": 693273}], "successors": []}

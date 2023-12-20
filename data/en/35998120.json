@@ -1,1 +1,1 @@
-{"name": "Acceleration", "id": 35998120, "predecessors": [{"name": "Dynamics_(mechanics)", "id": 44366494}, {"name": "Kinematics", "id": 1074082}, {"name": "Velocity", "id": 22663785}], "successors": []}
+{"name": "Acceleration", "id": 35998120, "predecessors": [{"name": "Dynamics_(mechanics)", "id": 44366494}, {"name": "Kinematics", "id": 1074082}, {"name": "Physical_quantities", "id": 18726608}, {"name": "Velocity", "id": 22663785}], "successors": [{"name": "Accelerometers", "id": 23209651}]}

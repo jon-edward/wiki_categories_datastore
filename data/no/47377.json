@@ -1,1 +1,1 @@
-{"name": "Aviser_i_Buskerud", "id": 47377, "predecessors": [{"name": "Aviser_i_Viken", "id": 2157324}, {"name": "Kultur_i_Buskerud", "id": 105313}, {"name": "Næringsliv_i_Buskerud", "id": 352561}, {"name": "Norske_aviser", "id": 10214}], "successors": [{"name": "Nettaviser_i_Buskerud", "id": 816621}]}
+{"name": "Aviser_i_Buskerud", "id": 47377, "predecessors": [{"name": "Kultur_i_Buskerud", "id": 105313}, {"name": "Næringsliv_i_Buskerud", "id": 352561}, {"name": "Norske_aviser", "id": 10214}], "successors": [{"name": "Nettaviser_i_Buskerud", "id": 816621}]}

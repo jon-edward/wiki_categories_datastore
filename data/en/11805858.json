@@ -1,1 +1,1 @@
-{"name": "Neuroscience_books", "id": 11805858, "predecessors": [{"name": "Biology_books", "id": 1224374}], "successors": [{"name": "Books_by_Oliver_Sacks", "id": 8269539}, {"name": "Artificial_intelligence_publications", "id": 12931786}]}
+{"name": "Neuroscience_books", "id": 11805858, "predecessors": [{"name": "Biology_books", "id": 1224374}, {"name": "Science_books", "id": 47064376}, {"name": "Neuroscience", "id": 714648}], "successors": [{"name": "Books_by_Oliver_Sacks", "id": 8269539}, {"name": "Artificial_intelligence_publications", "id": 12931786}]}

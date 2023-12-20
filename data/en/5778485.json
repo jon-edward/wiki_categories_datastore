@@ -1,1 +1,1 @@
-{"name": "Deep_sea_fish", "id": 5778485, "predecessors": [{"name": "Marine_fish", "id": 42090184}, {"name": "Taxonomy_(biology)", "id": 40944932}], "successors": [{"name": "Halosauridae", "id": 7851992}, {"name": "Stomiidae", "id": 7854094}]}
+{"name": "Deep_sea_fish", "id": 5778485, "predecessors": [{"name": "Marine_fish", "id": 42090184}, {"name": "Biology", "id": 692675}], "successors": [{"name": "Halosauridae", "id": 7851992}, {"name": "Stomiidae", "id": 7854094}]}

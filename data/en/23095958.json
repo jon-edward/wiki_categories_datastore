@@ -1,1 +1,1 @@
-{"name": "Financial_advisors", "id": 23095958, "predecessors": [{"name": "Advisors", "id": 24195941}], "successors": [{"name": "American_investment_advisors", "id": 37742837}]}
+{"name": "Financial_advisors", "id": 23095958, "predecessors": [{"name": "Advisors", "id": 24195941}, {"name": "Labor_relations", "id": 1262025}], "successors": [{"name": "American_investment_advisors", "id": 37742837}]}

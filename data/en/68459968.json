@@ -1,1 +1,1 @@
-{"name": "Network_scientists", "id": 68459968, "predecessors": [{"name": "Network_theory", "id": 18839833}], "successors": []}
+{"name": "Network_scientists", "id": 68459968, "predecessors": [{"name": "Systems_scientists", "id": 12119152}, {"name": "Computer_science", "id": 691117}], "successors": []}

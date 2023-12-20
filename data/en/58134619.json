@@ -1,1 +1,1 @@
-{"name": "Italian_male_long-distance_swimmers", "id": 58134619, "predecessors": [{"name": "Italian_male_swimmers", "id": 51187090}, {"name": "Open_water_swimming", "id": 31574580}, {"name": "Male_long-distance_swimmers", "id": 26451818}], "successors": []}
+{"name": "Italian_male_long-distance_swimmers", "id": 58134619, "predecessors": [{"name": "Sport_in_Italy", "id": 3049847}, {"name": "Open_water_swimming", "id": 31574580}, {"name": "Male_long-distance_swimmers", "id": 26451818}], "successors": []}

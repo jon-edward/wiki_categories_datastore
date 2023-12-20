@@ -1,1 +1,1 @@
-{"name": "Cave_dwellings", "id": 42246265, "predecessors": [{"name": "House_types", "id": 803191}, {"name": "Vernacular_architecture", "id": 7381096}, {"name": "Erosion_landforms", "id": 11063669}], "successors": [{"name": "Cave_monasteries", "id": 38231807}]}
+{"name": "Cave_dwellings", "id": 42246265, "predecessors": [{"name": "Caves", "id": 824482}, {"name": "House_types", "id": 803191}, {"name": "Vernacular_architecture", "id": 7381096}], "successors": [{"name": "Cave_monasteries", "id": 38231807}]}

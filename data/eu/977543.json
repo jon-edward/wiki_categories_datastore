@@ -1,1 +1,1 @@
-{"name": "Hidrologia_eta_hirigintza", "id": 977543, "predecessors": [{"name": "Hidrologia", "id": 42349}, {"name": "Hirigintza_iraunkorra", "id": 1099793}], "successors": []}
+{"name": "Hidrologia_eta_hirigintza", "id": 977543, "predecessors": [{"name": "Azpiegitura_hidraulikoak", "id": 932546}, {"name": "Hidrologia", "id": 42349}, {"name": "Hirigintza_iraunkorra", "id": 1099793}], "successors": []}

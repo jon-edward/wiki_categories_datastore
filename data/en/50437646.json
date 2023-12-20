@@ -1,1 +1,1 @@
-{"name": "Air_traffic_controllers", "id": 50437646, "predecessors": [{"name": "Air_traffic_control", "id": 3067015}, {"name": "Occupations_in_aviation", "id": 23099382}], "successors": []}
+{"name": "Air_traffic_controllers", "id": 50437646, "predecessors": [{"name": "Air_traffic_control", "id": 3067015}, {"name": "Occupations_in_aviation", "id": 23099382}, {"name": "Aeronautics", "id": 1492803}], "successors": []}

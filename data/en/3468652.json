@@ -1,1 +1,1 @@
-{"name": "Interrupts", "id": 3468652, "predecessors": [{"name": "Events_(computing)", "id": 16072179}], "successors": []}
+{"name": "Interrupts", "id": 3468652, "predecessors": [{"name": "Computer_architecture", "id": 869984}, {"name": "Events_(computing)", "id": 16072179}, {"name": "Operating_system_technology", "id": 1956884}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Rodent_cell_lines", "id": 49437747, "predecessors": [{"name": "Animal_cells", "id": 3108645}, {"name": "Cell_culture", "id": 35355834}], "successors": []}
+{"name": "Rodent_cell_lines", "id": 49437747, "predecessors": [{"name": "Animal_cells", "id": 3108645}, {"name": "Cell_culture", "id": 35355834}, {"name": "Mammal_taxonomy", "id": 39031289}], "successors": []}

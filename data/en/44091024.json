@@ -1,1 +1,1 @@
-{"name": "Freshwater_snails", "id": 44091024, "predecessors": [{"name": "Freshwater_molluscs", "id": 44091028}], "successors": [{"name": "Freshwater_snails_of_Africa", "id": 44225505}]}
+{"name": "Freshwater_snails", "id": 44091024, "predecessors": [{"name": "Freshwater_molluscs", "id": 44091028}, {"name": "Gastropods", "id": 1079808}], "successors": [{"name": "Freshwater_snails_of_Africa", "id": 44225505}]}

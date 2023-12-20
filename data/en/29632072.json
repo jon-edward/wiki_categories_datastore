@@ -1,1 +1,1 @@
-{"name": "Deaths_from_gangrene", "id": 29632072, "predecessors": [{"name": "Deaths_from_cardiovascular_disease", "id": 68937676}, {"name": "Cardiovascular_diseases", "id": 1339883}, {"name": "Infectious_diseases", "id": 707355}], "successors": []}
+{"name": "Deaths_from_gangrene", "id": 29632072, "predecessors": [{"name": "Deaths_from_cardiovascular_disease", "id": 68937676}, {"name": "Gangrene", "id": 23172646}, {"name": "Infectious_diseases", "id": 707355}], "successors": []}

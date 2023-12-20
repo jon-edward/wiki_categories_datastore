@@ -1,1 +1,1 @@
-{"name": "Systems_psychologists", "id": 17529140, "predecessors": [{"name": "Systems_psychology", "id": 17528160}], "successors": [{"name": "Family_therapists", "id": 12440466}]}
+{"name": "Systems_psychologists", "id": 17529140, "predecessors": [{"name": "Systems_psychology", "id": 17528160}, {"name": "Systems_scientists", "id": 12119152}, {"name": "Psychology", "id": 695868}], "successors": [{"name": "Family_therapists", "id": 12440466}]}

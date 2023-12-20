@@ -1,1 +1,1 @@
-{"name": "Pliocene_stratovolcanoes", "id": 71096600, "predecessors": [{"name": "Pliocene_volcanoes", "id": 22579468}], "successors": [{"name": "Mount_Kenya", "id": 20953783}]}
+{"name": "Pliocene_stratovolcanoes", "id": 71096600, "predecessors": [{"name": "Pliocene_volcanoes", "id": 22579468}, {"name": "Stratovolcanoes", "id": 986452}], "successors": [{"name": "Mount_Kenya", "id": 20953783}]}

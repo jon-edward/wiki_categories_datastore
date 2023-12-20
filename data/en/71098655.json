@@ -1,1 +1,1 @@
-{"name": "Miocene_shield_volcanoes", "id": 71098655, "predecessors": [{"name": "Miocene_volcanoes", "id": 22579561}], "successors": [{"name": "Level_Mountain", "id": 48756626}, {"name": "Flora_of_Lord_Howe_Island", "id": 8153292}, {"name": "Fauna_of_Lord_Howe_Island", "id": 20667977}]}
+{"name": "Miocene_shield_volcanoes", "id": 71098655, "predecessors": [{"name": "Miocene_volcanoes", "id": 22579561}, {"name": "Shield_volcanoes", "id": 693786}], "successors": [{"name": "Lord_Howe_Island", "id": 3635715}, {"name": "Level_Mountain", "id": 48756626}]}

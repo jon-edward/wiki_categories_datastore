@@ -1,1 +1,1 @@
-{"name": "American_financial_traders", "id": 38171600, "predecessors": [{"name": "American_financial_businesspeople", "id": 28944540}], "successors": [{"name": "American_derivatives_traders", "id": 34063644}]}
+{"name": "American_financial_traders", "id": 38171600, "predecessors": [{"name": "American_financial_businesspeople", "id": 28944540}], "successors": [{"name": "American_stock_traders", "id": 34028976}, {"name": "American_derivatives_traders", "id": 34063644}]}

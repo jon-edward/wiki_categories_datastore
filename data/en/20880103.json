@@ -1,1 +1,1 @@
-{"name": "New_York_City_firefighters", "id": 20880103, "predecessors": [{"name": "New_York_City_Fire_Department", "id": 7425400}], "successors": []}
+{"name": "New_York_City_firefighters", "id": 20880103, "predecessors": [{"name": "American_firefighters", "id": 1251845}, {"name": "New_York_City_Fire_Department", "id": 7425400}], "successors": []}

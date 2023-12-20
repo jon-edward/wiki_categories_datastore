@@ -1,1 +1,1 @@
-{"name": "ARM_processors", "id": 72563833, "predecessors": [{"name": "ARM_architecture", "id": 3291475}], "successors": []}
+{"name": "ARM_processors", "id": 72563833, "predecessors": [{"name": "ARM_architecture", "id": 3291475}, {"name": "Instruction_set_architectures", "id": 23410612}], "successors": []}

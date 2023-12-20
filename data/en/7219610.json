@@ -1,1 +1,1 @@
-{"name": "Waterford_Wedgwood", "id": 7219610, "predecessors": [{"name": "Manufacturing", "id": 867519}], "successors": [{"name": "Wedgwood_pottery", "id": 58986322}]}
+{"name": "Waterford_Wedgwood", "id": 7219610, "predecessors": [{"name": "Manufacturing", "id": 867519}, {"name": "Port_cities_and_towns_in_the_Republic_of_Ireland", "id": 12133744}, {"name": "Tourist_attractions_in_the_Republic_of_Ireland", "id": 5591770}], "successors": [{"name": "Wedgwood_pottery", "id": 58986322}]}

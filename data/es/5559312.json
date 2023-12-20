@@ -1,1 +1,0 @@
-{"name": "Análisis_de_software", "id": 5559312, "predecessors": [{"name": "Análisis", "id": 3088716}, {"name": "Compiladores", "id": 98574}, {"name": "Métodos_formales", "id": 5559355}, {"name": "Lenguajes_de_programación", "id": 54634}], "successors": [{"name": "Optimizaciones_del_compilador", "id": 5585560}]}

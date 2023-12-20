@@ -1,1 +1,1 @@
-{"name": "Proclamations", "id": 33310800, "predecessors": [{"name": "Documents", "id": 694072}, {"name": "Legal_documents", "id": 694070}, {"name": "Statements", "id": 13887504}], "successors": [{"name": "Declarations_of_independence", "id": 12377282}]}
+{"name": "Proclamations", "id": 33310800, "predecessors": [{"name": "Documents", "id": 694072}, {"name": "Legal_documents", "id": 694070}, {"name": "Statements", "id": 13887504}], "successors": [{"name": "Declarations_of_independence", "id": 12377282}, {"name": "Fatwas", "id": 10402700}]}

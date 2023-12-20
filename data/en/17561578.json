@@ -1,1 +1,1 @@
-{"name": "Sentences_by_type", "id": 17561578, "predecessors": [{"name": "Semantics", "id": 776364}], "successors": [{"name": "Statements", "id": 13887504}]}
+{"name": "Sentences_by_type", "id": 17561578, "predecessors": [{"name": "Semantics", "id": 776364}, {"name": "Syntax", "id": 897612}], "successors": [{"name": "Statements", "id": 13887504}]}

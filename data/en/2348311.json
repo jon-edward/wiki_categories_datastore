@@ -1,1 +1,1 @@
-{"name": "Chemistry_theories", "id": 2348311, "predecessors": [{"name": "Scientific_method", "id": 700292}], "successors": [{"name": "Theoretical_chemistry", "id": 2646540}]}
+{"name": "Chemistry_theories", "id": 2348311, "predecessors": [{"name": "Epistemology_of_science", "id": 34379506}, {"name": "Chemistry", "id": 691185}], "successors": [{"name": "Theoretical_chemistry", "id": 2646540}]}

@@ -1,1 +1,1 @@
-{"name": "Environmental_magazines", "id": 15370875, "predecessors": [{"name": "Environmental_mass_media", "id": 22870229}, {"name": "Publications", "id": 706830}], "successors": [{"name": "Horticultural_magazines", "id": 2319661}]}
+{"name": "Environmental_magazines", "id": 15370875, "predecessors": [{"name": "Publications_by_format", "id": 11278400}, {"name": "Environmental_mass_media", "id": 22870229}], "successors": [{"name": "Horticultural_magazines", "id": 2319661}]}

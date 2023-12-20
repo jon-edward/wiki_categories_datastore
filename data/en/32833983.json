@@ -1,1 +1,1 @@
-{"name": "Houses_completed_in_1924", "id": 32833983, "predecessors": [{"name": "Residential_buildings_completed_in_1924", "id": 33748678}], "successors": []}
+{"name": "Houses_completed_in_1924", "id": 32833983, "predecessors": [{"name": "Houses_completed_in_the_20th_century", "id": 32750857}, {"name": "Residential_buildings_completed_in_1924", "id": 33748678}], "successors": []}

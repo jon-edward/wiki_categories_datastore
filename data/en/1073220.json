@@ -1,1 +1,1 @@
-{"name": "Archaeoastronomy", "id": 1073220, "predecessors": [{"name": "Ancient_astronomy", "id": 2007177}], "successors": [{"name": "Stonehenge", "id": 3730375}]}
+{"name": "Archaeoastronomy", "id": 1073220, "predecessors": [{"name": "Ancient_astronomy", "id": 2007177}, {"name": "Archaeological_sub-disciplines", "id": 1863622}, {"name": "Astronomical_sub-disciplines", "id": 6251189}], "successors": [{"name": "Stonehenge", "id": 3730375}, {"name": "Archaeoastronomers", "id": 22156860}]}

@@ -1,1 +1,1 @@
-{"name": "School_bombings_in_Asia", "id": 70579750, "predecessors": [{"name": "Building_bombings_in_Asia", "id": 65034501}, {"name": "School_bombings", "id": 35484070}, {"name": "Occupational_hazards", "id": 53924025}], "successors": []}
+{"name": "School_bombings_in_Asia", "id": 70579750, "predecessors": [{"name": "Building_bombings_in_Asia", "id": 65034501}, {"name": "Occupational_hazards", "id": 53924025}, {"name": "Attacks_on_buildings_and_structures_in_Asia", "id": 61050736}], "successors": [{"name": "School_bombings_in_Pakistan", "id": 75597015}]}

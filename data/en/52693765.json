@@ -1,1 +1,1 @@
-{"name": "Satellite_imagery", "id": 52693765, "predecessors": [{"name": "Satellites", "id": 787571}], "successors": [{"name": "Earth_imaging_satellites", "id": 65068436}, {"name": "Satellite_imaging_sensors", "id": 65087081}]}
+{"name": "Satellite_imagery", "id": 52693765, "predecessors": [{"name": "Satellites", "id": 787571}, {"name": "Astronomy_image_articles", "id": 9386647}], "successors": [{"name": "Earth_imaging_satellites", "id": 65068436}, {"name": "Satellite_imaging_sensors", "id": 65087081}]}

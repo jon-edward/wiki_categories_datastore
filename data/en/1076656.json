@@ -1,1 +1,1 @@
-{"name": "Baltimore_Orioles_managers", "id": 1076656, "predecessors": [{"name": "Baseball_managers", "id": 846062}], "successors": [{"name": "St._Louis_Browns_managers", "id": 1566577}]}
+{"name": "Baltimore_Orioles_managers", "id": 1076656, "predecessors": [{"name": "Baltimore_Orioles", "id": 1666951}, {"name": "Baseball_managers", "id": 846062}], "successors": [{"name": "St._Louis_Browns_managers", "id": 1566577}]}

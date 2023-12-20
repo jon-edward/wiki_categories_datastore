@@ -1,1 +1,1 @@
-{"name": "Air_pollution_in_Malaysia", "id": 28545783, "predecessors": [{"name": "Air_pollution_by_region", "id": 28530271}], "successors": [{"name": "Southeast_Asian_haze", "id": 39735363}]}
+{"name": "Air_pollution_in_Malaysia", "id": 28545783, "predecessors": [{"name": "Environment_of_Malaysia", "id": 5628933}, {"name": "Air_pollution_by_region", "id": 28530271}], "successors": [{"name": "Southeast_Asian_haze", "id": 39735363}]}

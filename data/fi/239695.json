@@ -1,1 +1,1 @@
-{"name": "Immuunijärjestelmä", "id": 239695, "predecessors": [{"name": "Anatomia", "id": 22497}, {"name": "Immunologia", "id": 48237}], "successors": [{"name": "Lymfoomat", "id": 1061077}, {"name": "Autoimmuunisairaudet", "id": 243028}]}
+{"name": "Immuunijärjestelmä", "id": 239695, "predecessors": [{"name": "Anatomia", "id": 22497}, {"name": "Immunologia", "id": 48237}], "successors": [{"name": "Vasta-aineet", "id": 562119}, {"name": "Lymfoomat", "id": 1061077}, {"name": "Autoimmuunisairaudet", "id": 243028}]}

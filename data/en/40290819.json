@@ -1,1 +1,1 @@
-{"name": "Parasites_of_equines", "id": 40290819, "predecessors": [{"name": "Horse_health", "id": 2674028}, {"name": "Veterinary_parasitology", "id": 12377170}], "successors": []}
+{"name": "Parasites_of_equines", "id": 40290819, "predecessors": [{"name": "Horse_health", "id": 2674028}, {"name": "Parasites_of_mammals", "id": 40157358}, {"name": "Veterinary_parasitology", "id": 12377170}], "successors": []}

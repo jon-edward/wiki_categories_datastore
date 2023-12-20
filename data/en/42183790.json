@@ -1,1 +1,1 @@
-{"name": "Primate_genera", "id": 42183790, "predecessors": [{"name": "Mammalogy", "id": 2463985}], "successors": [{"name": "Prehistoric_primate_genera", "id": 49519828}, {"name": "Lemur_genera", "id": 49647685}, {"name": "Monotypic_primate_genera", "id": 49647713}]}
+{"name": "Primate_genera", "id": 42183790, "predecessors": [{"name": "Mammal_genera", "id": 39031277}, {"name": "Reptiliomorphs", "id": 5660452}], "successors": [{"name": "Prehistoric_primate_genera", "id": 49519828}, {"name": "Lemur_genera", "id": 49647685}, {"name": "Monotypic_primate_genera", "id": 49647713}]}

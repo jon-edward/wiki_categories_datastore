@@ -1,1 +1,1 @@
-{"name": "Manganese(III)_minerals", "id": 60799718, "predecessors": [{"name": "Manganese_minerals", "id": 3886960}, {"name": "Manganese_compounds", "id": 1907067}], "successors": []}
+{"name": "Manganese(III)_minerals", "id": 60799718, "predecessors": [{"name": "Manganese(III)_compounds", "id": 60746671}, {"name": "Manganese_minerals", "id": 3886960}], "successors": []}

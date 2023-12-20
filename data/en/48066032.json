@@ -1,1 +1,1 @@
-{"name": "Miocene_pinnipeds", "id": 48066032, "predecessors": [{"name": "Pinnipeds", "id": 898019}], "successors": []}
+{"name": "Miocene_pinnipeds", "id": 48066032, "predecessors": [{"name": "Miocene_carnivorans", "id": 38271495}, {"name": "Pinnipeds", "id": 898019}], "successors": []}

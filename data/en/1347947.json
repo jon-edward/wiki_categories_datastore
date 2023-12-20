@@ -1,1 +1,1 @@
-{"name": "Terns", "id": 1347947, "predecessors": [{"name": "Seabirds", "id": 1140431}], "successors": [{"name": "Sterna", "id": 2384885}]}
+{"name": "Terns", "id": 1347947, "predecessors": [{"name": "Seabirds", "id": 1140431}, {"name": "Charadriiformes", "id": 1340858}], "successors": [{"name": "Sterna", "id": 2384885}, {"name": "Thalasseus", "id": 6826604}, {"name": "Sternula", "id": 6828290}]}

@@ -1,1 +1,1 @@
-{"name": "Nanomaterials", "id": 8058041, "predecessors": [{"name": "Artificial_materials", "id": 51591971}, {"name": "Nanotechnology", "id": 888769}], "successors": []}
+{"name": "Nanomaterials", "id": 8058041, "predecessors": [{"name": "Artificial_materials", "id": 51591971}, {"name": "Nanotechnology", "id": 888769}], "successors": [{"name": "Nanoparticles", "id": 40146460}]}

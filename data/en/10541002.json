@@ -1,1 +1,1 @@
-{"name": "Chess_books", "id": 10541002, "predecessors": [{"name": "Books_about_games", "id": 38266789}, {"name": "Board_games", "id": 9205892}], "successors": [{"name": "Novels_about_chess", "id": 34448325}]}
+{"name": "Chess_books", "id": 10541002, "predecessors": [{"name": "Chess", "id": 691713}, {"name": "Books_about_games", "id": 38266789}], "successors": [{"name": "Novels_about_chess", "id": 34448325}]}

@@ -1,1 +1,1 @@
-{"name": "Space_Shuttle_missions", "id": 3909217, "predecessors": [{"name": "Kennedy_Space_Center", "id": 16150038}], "successors": []}
+{"name": "Space_Shuttle_missions", "id": 3909217, "predecessors": [{"name": "Human_spaceflights", "id": 850824}, {"name": "Kennedy_Space_Center", "id": 16150038}, {"name": "Space_Shuttle_program", "id": 856304}, {"name": "Space_exploration", "id": 40138768}], "successors": [{"name": "Department_of_Defense_Space_Shuttle_missions", "id": 49204243}]}

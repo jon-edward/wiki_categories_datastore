@@ -1,1 +1,1 @@
-{"name": "Programadors", "id": 1357193, "predecessors": [{"name": "Programació", "id": 53072}, {"name": "Biografies", "id": 16117}], "successors": [{"name": "Programadors_estatunidencs", "id": 1729192}]}
+{"name": "Programadors", "id": 1357193, "predecessors": [{"name": "Informàtics", "id": 12876}, {"name": "Programació", "id": 53072}], "successors": [{"name": "Programadors_estatunidencs", "id": 1729192}]}

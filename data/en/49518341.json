@@ -1,1 +1,1 @@
-{"name": "Mesozoic_fish_of_Europe", "id": 49518341, "predecessors": [{"name": "Geochronology", "id": 1265016}, {"name": "Paleozoology", "id": 971334}], "successors": []}
+{"name": "Mesozoic_fish_of_Europe", "id": 49518341, "predecessors": [{"name": "Earth", "id": 754965}, {"name": "Paleozoology", "id": 971334}], "successors": [{"name": "Jurassic_fish_of_Europe", "id": 49518336}, {"name": "Cretaceous_fish_of_Europe", "id": 49518400}, {"name": "Triassic_fish_of_Europe", "id": 49518529}]}

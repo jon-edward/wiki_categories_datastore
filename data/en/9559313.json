@@ -1,1 +1,1 @@
-{"name": "Departments_of_University_College_London", "id": 9559313, "predecessors": [{"name": "University_College_London", "id": 1789988}], "successors": [{"name": "UCL_Institute_of_Education", "id": 3196375}]}
+{"name": "Departments_of_University_College_London", "id": 9559313, "predecessors": [{"name": "University_College_London", "id": 1789988}, {"name": "Academic_administration", "id": 21241756}], "successors": [{"name": "UCL_Institute_of_Education", "id": 3196375}]}

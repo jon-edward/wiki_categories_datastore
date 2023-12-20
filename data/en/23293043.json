@@ -1,1 +1,1 @@
-{"name": "Beacons", "id": 23293043, "predecessors": [{"name": "Navigational_aids", "id": 67284098}], "successors": []}
+{"name": "Beacons", "id": 23293043, "predecessors": [{"name": "Optical_communications", "id": 16069265}, {"name": "Navigational_aids", "id": 67284098}], "successors": []}

@@ -1,1 +1,0 @@
-{"name": "Synthesizer", "id": 123395, "predecessors": [{"name": "Elektrofoon", "id": 123405}, {"name": "Toetsinstrument", "id": 71553}], "successors": [{"name": "Roland-synthesizer", "id": 5059535}, {"name": "Korg-synthesizer", "id": 5097555}, {"name": "Yamaha-synthesizer", "id": 5097557}, {"name": "Synthesizerbouwer", "id": 5438672}]}

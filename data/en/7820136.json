@@ -1,1 +1,1 @@
-{"name": "German_music_critics", "id": 7820136, "predecessors": [{"name": "Music_critics", "id": 736693}], "successors": []}
+{"name": "German_music_critics", "id": 7820136, "predecessors": [{"name": "German_journalists", "id": 1076730}, {"name": "German_writers_about_music", "id": 35836796}, {"name": "Music_critics", "id": 736693}, {"name": "German_non-fiction_writers", "id": 4870968}], "successors": []}

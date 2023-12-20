@@ -1,1 +1,1 @@
-{"name": "Speed_limits_by_country", "id": 28571958, "predecessors": [{"name": "Road_traffic_management", "id": 13986772}], "successors": []}
+{"name": "Speed_limits_by_country", "id": 28571958, "predecessors": [{"name": "Road_transport", "id": 700964}, {"name": "Road_safety", "id": 3500284}, {"name": "Transport_law", "id": 18633737}], "successors": []}

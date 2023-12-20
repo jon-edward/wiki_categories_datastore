@@ -1,1 +1,1 @@
-{"name": "Finite_differences", "id": 3963063, "predecessors": [{"name": "Numerical_analysis", "id": 697506}, {"name": "Subtraction", "id": 50836823}, {"name": "Iterative_methods", "id": 29526090}], "successors": []}
+{"name": "Finite_differences", "id": 3963063, "predecessors": [{"name": "Factorial_and_binomial_topics", "id": 4073996}, {"name": "Mathematical_analysis", "id": 691875}, {"name": "Numerical_analysis", "id": 697506}, {"name": "Subtraction", "id": 50836823}, {"name": "Iterative_methods", "id": 29526090}], "successors": []}

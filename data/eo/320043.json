@@ -1,1 +1,1 @@
-{"name": "Planedaj_sistemoj", "id": 320043, "predecessors": [{"name": "Astronomiaj_objektoj", "id": 171234}, {"name": "Planedoj", "id": 130571}], "successors": [{"name": "Sunsistemo", "id": 23154}]}
+{"name": "Planedaj_sistemoj", "id": 320043, "predecessors": [{"name": "Astronomiaj_objektoj", "id": 171234}, {"name": "Planedoj", "id": 130571}], "successors": [{"name": "Sunsistemo", "id": 23154}, {"name": "CoRoT-7", "id": 845781}, {"name": "PSR_B1257+12", "id": 845782}]}

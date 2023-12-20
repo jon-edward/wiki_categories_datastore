@@ -1,1 +1,1 @@
-{"name": "Embotits", "id": 68413, "predecessors": [{"name": "Aliments_elaborats", "id": 442653}, {"name": "Carn", "id": 1247570}, {"name": "Tècniques_de_conservació", "id": 527715}], "successors": []}
+{"name": "Embotits", "id": 68413, "predecessors": [{"name": "Aliments_elaborats", "id": 442653}, {"name": "Carn", "id": 1247570}, {"name": "Tècniques_de_conservació", "id": 527715}], "successors": [{"name": "Salsitxes", "id": 894813}]}

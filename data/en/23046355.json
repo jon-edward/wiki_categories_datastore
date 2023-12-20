@@ -1,1 +1,1 @@
-{"name": "Mechanical_fasteners", "id": 23046355, "predecessors": [{"name": "Fasteners", "id": 1402148}], "successors": [{"name": "Screws", "id": 4071869}, {"name": "Threaded_fasteners", "id": 32000046}]}
+{"name": "Mechanical_fasteners", "id": 23046355, "predecessors": [{"name": "Fasteners", "id": 1402148}, {"name": "Mechanical_engineering", "id": 717561}], "successors": [{"name": "Screws", "id": 4071869}, {"name": "Threaded_fasteners", "id": 32000046}]}

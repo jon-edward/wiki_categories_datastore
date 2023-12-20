@@ -1,0 +1,1 @@
+{"name": "Nuclear_propulsion", "id": 3099673, "predecessors": [{"name": "Nuclear_technology", "id": 888845}, {"name": "Propulsion", "id": 881055}, {"name": "Emissions_reduction", "id": 2644560}, {"name": "Energy_in_transport", "id": 18688976}], "successors": [{"name": "Nuclear_spacecraft_propulsion", "id": 1353261}, {"name": "Nuclear-powered_robots", "id": 33605838}]}

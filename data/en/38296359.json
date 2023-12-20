@@ -1,1 +1,1 @@
-{"name": "FK_Varnsdorf_players", "id": 38296359, "predecessors": [{"name": "Football_clubs_in_the_Czech_Republic", "id": 34429210}], "successors": []}
+{"name": "FK_Varnsdorf_players", "id": 38296359, "predecessors": [{"name": "Děčín_District", "id": 2922753}, {"name": "Football_in_the_Czech_Republic", "id": 3064094}], "successors": []}

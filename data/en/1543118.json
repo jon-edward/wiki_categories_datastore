@@ -1,1 +1,1 @@
-{"name": "Roads_in_Switzerland", "id": 1543118, "predecessors": [{"name": "Transport_infrastructure", "id": 2962532}], "successors": [{"name": "Motorways_in_Switzerland", "id": 1543106}, {"name": "Streets_in_Bern", "id": 23260265}]}
+{"name": "Roads_in_Switzerland", "id": 1543118, "predecessors": [{"name": "Roads", "id": 780674}, {"name": "Road_transport", "id": 700964}], "successors": [{"name": "Motorways_in_Switzerland", "id": 1543106}, {"name": "Streets_in_Bern", "id": 23260265}]}

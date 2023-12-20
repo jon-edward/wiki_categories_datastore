@@ -1,1 +1,1 @@
-{"name": "Climatologists", "id": 759256, "predecessors": [{"name": "Atmospheric_scientists", "id": 8228336}], "successors": [{"name": "Paleoclimatologists", "id": 2557001}, {"name": "Women_climatologists", "id": 63454818}]}
+{"name": "Climatologists", "id": 759256, "predecessors": [{"name": "Atmospheric_scientists", "id": 8228336}, {"name": "Climatology", "id": 798288}], "successors": [{"name": "Paleoclimatologists", "id": 2557001}, {"name": "Women_climatologists", "id": 63454818}]}

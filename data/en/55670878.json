@@ -1,1 +1,1 @@
-{"name": "Shenzhen_Stock_Exchange", "id": 55670878, "predecessors": [{"name": "Finance_in_China", "id": 20787264}, {"name": "Shenzhen", "id": 1670340}], "successors": []}
+{"name": "Shenzhen_Stock_Exchange", "id": 55670878, "predecessors": [{"name": "Finance_in_China", "id": 20787264}, {"name": "Shenzhen", "id": 1670340}], "successors": [{"name": "Companies_listed_on_the_Shenzhen_Stock_Exchange", "id": 4182548}]}

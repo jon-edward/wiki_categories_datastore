@@ -1,1 +1,1 @@
-{"name": "Crimes_in_Indiana", "id": 44622304, "predecessors": [{"name": "Indiana_law", "id": 9120794}], "successors": []}
+{"name": "Crimes_in_Indiana", "id": 44622304, "predecessors": [{"name": "Indiana_law", "id": 9120794}, {"name": "Indiana_culture", "id": 1206633}], "successors": [{"name": "People_murdered_in_Indiana", "id": 19034525}, {"name": "Lynching_deaths_in_Indiana", "id": 19165422}]}

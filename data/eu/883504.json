@@ -1,1 +1,1 @@
-{"name": "Manhattango_etxe_orratzak", "id": 883504, "predecessors": [{"name": "Ameriketako_Estatu_Batuetako_etxe_orratzak", "id": 297804}, {"name": "Ameriketako_Estatu_Batuetako_geografia", "id": 50600}], "successors": [{"name": "World_Trade_Center", "id": 655892}]}
+{"name": "Manhattango_etxe_orratzak", "id": 883504, "predecessors": [{"name": "Manhattango_eraikinak", "id": 883510}, {"name": "Ameriketako_Estatu_Batuetako_etxe_orratzak", "id": 297804}], "successors": [{"name": "World_Trade_Center", "id": 655892}, {"name": "Manhattango_bulego_etxe_orratzak", "id": 996570}]}

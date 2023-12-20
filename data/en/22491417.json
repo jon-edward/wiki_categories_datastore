@@ -1,1 +1,1 @@
-{"name": "Catholic_sculptors", "id": 22491417, "predecessors": [{"name": "Sculpture", "id": 728026}, {"name": "Catholic_art", "id": 43600199}, {"name": "Christian_sculptures", "id": 47626589}], "successors": []}
+{"name": "Catholic_sculptors", "id": 22491417, "predecessors": [{"name": "Catholic_sculpture", "id": 22491082}, {"name": "Sculpture", "id": 728026}, {"name": "Catholic_art", "id": 43600199}], "successors": []}

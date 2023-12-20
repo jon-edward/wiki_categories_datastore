@@ -1,1 +1,1 @@
-{"name": "Ancient_Roman_theatre", "id": 1974303, "predecessors": [{"name": "Ancient_Roman_culture", "id": 4360729}, {"name": "History_of_theatre", "id": 6991004}, {"name": "Classical_antiquity", "id": 5294499}], "successors": []}
+{"name": "Ancient_Roman_theatre", "id": 1974303, "predecessors": [{"name": "Ancient_Roman_culture", "id": 4360729}, {"name": "History_of_theatre", "id": 6991004}, {"name": "Classical_antiquity", "id": 5294499}], "successors": [{"name": "Ancient_Roman_theatre_practitioners", "id": 7408100}]}

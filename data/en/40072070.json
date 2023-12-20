@@ -1,1 +1,1 @@
-{"name": "Russian_women_physicians", "id": 40072070, "predecessors": [{"name": "Women_physicians", "id": 3903758}, {"name": "Health_care", "id": 35880954}], "successors": [{"name": "Women_physicians_from_the_Russian_Empire", "id": 66041418}]}
+{"name": "Russian_women_physicians", "id": 40072070, "predecessors": [{"name": "Women_physicians", "id": 3903758}, {"name": "Health_by_country", "id": 2693630}], "successors": [{"name": "Women_physicians_from_the_Russian_Empire", "id": 66041418}, {"name": "20th-century_Russian_women_physicians", "id": 75480860}]}

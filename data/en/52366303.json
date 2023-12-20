@@ -1,1 +1,1 @@
-{"name": "Errors_and_residuals", "id": 52366303, "predecessors": [{"name": "Estimation_theory", "id": 1587689}], "successors": []}
+{"name": "Errors_and_residuals", "id": 52366303, "predecessors": [{"name": "Error", "id": 1195726}, {"name": "Estimation_theory", "id": 1587689}], "successors": []}

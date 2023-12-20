@@ -1,1 +1,1 @@
-{"name": "SJ_multiple_units", "id": 16361726, "predecessors": [{"name": "Taxonomy", "id": 918375}], "successors": []}
+{"name": "SJ_multiple_units", "id": 16361726, "predecessors": [{"name": "Rolling_stock", "id": 1103564}, {"name": "Vehicles", "id": 694929}], "successors": []}

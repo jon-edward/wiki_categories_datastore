@@ -1,1 +1,1 @@
-{"name": "Coal_mining_in_Queensland", "id": 53442163, "predecessors": [{"name": "Coal_in_Australia", "id": 28080627}, {"name": "Mining_in_Queensland", "id": 30205331}], "successors": []}
+{"name": "Coal_mining_in_Queensland", "id": 53442163, "predecessors": [{"name": "Coal_in_Australia", "id": 28080627}, {"name": "Mining_in_Queensland", "id": 30205331}], "successors": [{"name": "Coal_mines_in_Queensland", "id": 53440913}]}

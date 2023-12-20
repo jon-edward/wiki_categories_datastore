@@ -1,1 +1,1 @@
-{"name": "Dog_trainers", "id": 11606621, "predecessors": [{"name": "Animal_trainers", "id": 13948060}, {"name": "Dog-related_professions_and_professionals", "id": 1777080}], "successors": []}
+{"name": "Dog_trainers", "id": 11606621, "predecessors": [{"name": "Animal_trainers", "id": 13948060}, {"name": "Dog_training_and_behavior", "id": 970360}, {"name": "Dog-related_professions_and_professionals", "id": 1777080}], "successors": [{"name": "British_greyhound_racing_trainers", "id": 56206654}, {"name": "Irish_greyhound_racing_trainers", "id": 56206657}]}

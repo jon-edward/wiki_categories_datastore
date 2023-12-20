@@ -1,1 +1,1 @@
-{"name": "Hand_gestures", "id": 35893261, "predecessors": [{"name": "Interpersonal_communication", "id": 34562178}], "successors": [{"name": "Mudras", "id": 14613136}, {"name": "Punches_(combat)", "id": 30558614}]}
+{"name": "Hand_gestures", "id": 35893261, "predecessors": [{"name": "Gestures", "id": 1363132}, {"name": "Hand", "id": 2322113}, {"name": "Interpersonal_communication", "id": 34562178}], "successors": [{"name": "Mudras", "id": 14613136}, {"name": "Punches_(combat)", "id": 30558614}]}

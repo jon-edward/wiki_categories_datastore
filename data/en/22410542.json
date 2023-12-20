@@ -1,1 +1,1 @@
-{"name": "Television_stations_in_San_Diego", "id": 22410542, "predecessors": [{"name": "Mass_media_in_San_Diego", "id": 16639923}], "successors": [{"name": "Television_anchors_from_San_Diego", "id": 22261540}]}
+{"name": "Television_stations_in_San_Diego", "id": 22410542, "predecessors": [{"name": "Mass_media_in_San_Diego", "id": 16639923}, {"name": "Television_stations_in_California", "id": 901598}], "successors": [{"name": "Television_anchors_from_San_Diego", "id": 22261540}]}

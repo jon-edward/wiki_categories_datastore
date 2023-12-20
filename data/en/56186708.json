@@ -1,1 +1,1 @@
-{"name": "Pakistan_Stock_Exchange", "id": 56186708, "predecessors": [{"name": "Financial_markets", "id": 1654788}], "successors": []}
+{"name": "Pakistan_Stock_Exchange", "id": 56186708, "predecessors": [{"name": "Economy_of_Karachi", "id": 17114982}, {"name": "Economy_of_Pakistan", "id": 2605291}, {"name": "Financial_markets", "id": 1654788}], "successors": [{"name": "Companies_listed_on_the_Pakistan_Stock_Exchange", "id": 56186725}]}

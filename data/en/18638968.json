@@ -1,1 +1,1 @@
-{"name": "Railway_museums_in_Germany", "id": 18638968, "predecessors": [{"name": "History_of_rail_transport_in_Germany", "id": 23112794}], "successors": [{"name": "Railway_museums_in_Bavaria", "id": 18581777}]}
+{"name": "Railway_museums_in_Germany", "id": 18638968, "predecessors": [{"name": "History_of_rail_transport_in_Germany", "id": 23112794}, {"name": "Rail_transport_in_Germany", "id": 2000349}], "successors": [{"name": "Railway_museums_in_Bavaria", "id": 18581777}]}

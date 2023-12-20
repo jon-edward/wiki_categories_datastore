@@ -1,1 +1,1 @@
-{"name": "Military_parades", "id": 10533287, "predecessors": [{"name": "Parades", "id": 1203075}, {"name": "Historically_themed_events", "id": 50634628}, {"name": "Military_traditions", "id": 4672943}], "successors": [{"name": "Parade_grounds", "id": 63366377}]}
+{"name": "Military_parades", "id": 10533287, "predecessors": [{"name": "Military_ceremonies", "id": 63920631}, {"name": "Military_life", "id": 1018928}, {"name": "Parades", "id": 1203075}, {"name": "Historically_themed_events", "id": 50634628}], "successors": [{"name": "Parade_grounds", "id": 63366377}]}

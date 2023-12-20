@@ -1,1 +1,1 @@
-{"name": "Zeiss_E-mount_lenses", "id": 40291447, "predecessors": [{"name": "Zeiss_lenses", "id": 11192338}], "successors": []}
+{"name": "Zeiss_E-mount_lenses", "id": 40291447, "predecessors": [{"name": "Zeiss_lenses", "id": 11192338}, {"name": "Lens_mounts", "id": 3152085}], "successors": []}

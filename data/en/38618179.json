@@ -1,1 +1,1 @@
-{"name": "Nail_polish", "id": 38618179, "predecessors": [{"name": "Nail_care", "id": 10156282}], "successors": []}
+{"name": "Nail_polish", "id": 38618179, "predecessors": [{"name": "Handwear", "id": 72499274}, {"name": "Nail_care", "id": 10156282}], "successors": []}

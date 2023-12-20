@@ -1,1 +1,1 @@
-{"name": "Volta_a_Portugal", "id": 42754283, "predecessors": [{"name": "Cycle_races_in_Portugal", "id": 15922408}], "successors": [{"name": "Volta_a_Portugal_winners", "id": 54906719}]}
+{"name": "Volta_a_Portugal", "id": 42754283, "predecessors": [{"name": "Cycle_races_in_Portugal", "id": 15922408}, {"name": "UCI_Europe_Tour_races", "id": 42981987}], "successors": [{"name": "Volta_a_Portugal_winners", "id": 54906719}]}

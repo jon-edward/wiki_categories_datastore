@@ -1,1 +1,1 @@
-{"name": "Medici_villas", "id": 18146596, "predecessors": [{"name": "Villas_in_Tuscany", "id": 13205987}, {"name": "World_Heritage_Sites_in_Italy", "id": 1233657}, {"name": "House_of_Medici", "id": 6305219}], "successors": []}
+{"name": "Medici_villas", "id": 18146596, "predecessors": [{"name": "Medici_residences", "id": 53917082}, {"name": "Villas_in_Tuscany", "id": 13205987}, {"name": "World_Heritage_Sites_in_Italy", "id": 1233657}], "successors": []}

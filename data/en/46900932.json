@@ -1,1 +1,1 @@
-{"name": "Pleistocene_first_appearances", "id": 46900932, "predecessors": [{"name": "Pleistocene_life", "id": 3350395}, {"name": "Quaternary", "id": 7211112}], "successors": [{"name": "Extant_Pleistocene_first_appearances", "id": 48589402}]}
+{"name": "Pleistocene_first_appearances", "id": 46900932, "predecessors": [{"name": "Pleistocene_events", "id": 46614111}, {"name": "Pleistocene_life", "id": 3350395}, {"name": "Quaternary", "id": 7211112}, {"name": "Pleistocene_geology", "id": 47558415}], "successors": [{"name": "Extant_Pleistocene_first_appearances", "id": 48589402}]}

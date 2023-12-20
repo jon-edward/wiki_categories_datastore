@@ -1,1 +1,1 @@
-{"name": "Apartment_buildings_in_Boston", "id": 59936098, "predecessors": [{"name": "Housing_in_Massachusetts", "id": 65638254}, {"name": "Buildings_and_structures_in_Boston", "id": 13519357}], "successors": []}
+{"name": "Apartment_buildings_in_Boston", "id": 59936098, "predecessors": [{"name": "Residential_buildings_in_Boston", "id": 37828905}, {"name": "Housing_in_Massachusetts", "id": 65638254}], "successors": []}

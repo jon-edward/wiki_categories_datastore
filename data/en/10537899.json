@@ -1,1 +1,1 @@
-{"name": "Museums_in_Greater_Manchester", "id": 10537899, "predecessors": [{"name": "North_West_England", "id": 24196752}], "successors": [{"name": "Museums_in_Manchester", "id": 8586448}, {"name": "Historic_house_museums_in_Greater_Manchester", "id": 26409307}]}
+{"name": "Museums_in_Greater_Manchester", "id": 10537899, "predecessors": [{"name": "Greater_Manchester", "id": 843605}], "successors": [{"name": "Museums_in_Manchester", "id": 8586448}, {"name": "Historic_house_museums_in_Greater_Manchester", "id": 26409307}]}

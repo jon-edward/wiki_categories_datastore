@@ -1,1 +1,1 @@
-{"name": "SI_units", "id": 696184, "predecessors": [{"name": "Cultural_globalization", "id": 35936848}], "successors": [{"name": "SI_derived_units", "id": 697781}, {"name": "SI_prefixes", "id": 40275945}]}
+{"name": "SI_units", "id": 696184, "predecessors": [{"name": "International_System_of_Units", "id": 40233651}], "successors": [{"name": "SI_derived_units", "id": 697781}, {"name": "SI_prefixes", "id": 40275945}]}

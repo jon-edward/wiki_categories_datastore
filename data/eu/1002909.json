@@ -1,1 +1,1 @@
-{"name": "Etiologia_ezezaguneko_gaixotasunak", "id": 1002909, "predecessors": [{"name": "Gaixotasunak", "id": 6739}], "successors": [{"name": "Gaixotasun_autoimmuneak", "id": 86695}, {"name": "Seneszentzia", "id": 1002906}]}
+{"name": "Etiologia_ezezaguneko_gaixotasunak", "id": 1002909, "predecessors": [{"name": "Gaixotasunak", "id": 6739}, {"name": "Biologia", "id": 4331}], "successors": [{"name": "Gaixotasun_autoimmuneak", "id": 86695}, {"name": "Seneszentzia", "id": 1002906}]}

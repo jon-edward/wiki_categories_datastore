@@ -1,1 +1,1 @@
-{"name": "Roland_synthesizers", "id": 8330038, "predecessors": [{"name": "Japanese_musical_instruments", "id": 13726404}, {"name": "Musical_instruments", "id": 691595}], "successors": [{"name": "D-Beam", "id": 61426798}]}
+{"name": "Roland_synthesizers", "id": 8330038, "predecessors": [{"name": "Japanese_musical_instruments", "id": 13726404}, {"name": "Musical_instruments", "id": 691595}], "successors": [{"name": "Roland_drum_machines", "id": 38663880}, {"name": "D-Beam", "id": 61426798}]}

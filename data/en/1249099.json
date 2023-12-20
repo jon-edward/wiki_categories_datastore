@@ -1,1 +1,1 @@
-{"name": "Supermarkets_of_Germany", "id": 1249099, "predecessors": [{"name": "Supermarkets", "id": 702093}], "successors": [{"name": "Trader_Joe's", "id": 18700761}]}
+{"name": "Supermarkets_of_Germany", "id": 1249099, "predecessors": [{"name": "Food_and_drink_companies_of_Germany", "id": 6407413}, {"name": "Retail_companies_of_Germany", "id": 3501218}, {"name": "Supermarkets", "id": 702093}], "successors": []}

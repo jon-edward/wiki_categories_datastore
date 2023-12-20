@@ -1,1 +1,1 @@
-{"name": "Oral_surgery", "id": 15124664, "predecessors": [{"name": "Dentistry_branches", "id": 15024139}, {"name": "Digestive_system_surgery", "id": 32487353}], "successors": []}
+{"name": "Oral_surgery", "id": 15124664, "predecessors": [{"name": "Dentistry_branches", "id": 15024139}, {"name": "Oral_and_maxillofacial_surgery", "id": 9324347}, {"name": "Digestive_system_surgery", "id": 32487353}], "successors": []}

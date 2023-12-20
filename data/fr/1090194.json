@@ -1,1 +1,0 @@
-{"name": "Instrument_de_mesure_mécanique", "id": 1090194, "predecessors": [{"name": "Contrôle_industriel", "id": 936174}, {"name": "Instrument_de_mesure", "id": 390899}, {"name": "Usinage", "id": 151882}], "successors": [{"name": "Instrument_de_mesure_de_pression", "id": 10858441}]}

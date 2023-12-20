@@ -1,1 +1,1 @@
-{"name": "Terpeny_a_terpenoidy", "id": 25381, "predecessors": [{"name": "Alkeny", "id": 239792}, {"name": "Biomolekuly", "id": 110494}], "successors": [{"name": "Steroidy", "id": 78031}, {"name": "Monoterpeny", "id": 264357}]}
+{"name": "Terpeny_a_terpenoidy", "id": 25381, "predecessors": [{"name": "Alkeny", "id": 239792}, {"name": "Biomolekuly", "id": 110494}], "successors": [{"name": "Steroidy", "id": 78031}, {"name": "Monoterpeny", "id": 264357}, {"name": "Seskviterpeny", "id": 264358}]}

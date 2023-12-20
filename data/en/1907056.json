@@ -1,1 +1,1 @@
-{"name": "Zinc_compounds", "id": 1907056, "predecessors": [{"name": "Chemical_compounds_by_element", "id": 1674961}, {"name": "Zinc", "id": 4563788}], "successors": [{"name": "Zinc_minerals", "id": 3875228}]}
+{"name": "Zinc_compounds", "id": 1907056, "predecessors": [{"name": "Chemical_compounds_by_element", "id": 1674961}, {"name": "Zinc", "id": 4563788}], "successors": [{"name": "Zinc_minerals", "id": 3875228}, {"name": "Zinc_proteins", "id": 20412060}]}

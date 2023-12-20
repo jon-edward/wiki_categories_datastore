@@ -1,1 +1,1 @@
-{"name": "Lathes", "id": 14991925, "predecessors": [{"name": "Machine_tools", "id": 8475272}, {"name": "Woodworking_machines", "id": 2722381}, {"name": "Machines", "id": 7810459}, {"name": "Machining", "id": 2687049}], "successors": []}
+{"name": "Lathes", "id": 14991925, "predecessors": [{"name": "Machine_tools", "id": 8475272}, {"name": "Rotating_machines", "id": 18789631}, {"name": "Woodworking_machines", "id": 2722381}, {"name": "Machining", "id": 2687049}], "successors": []}

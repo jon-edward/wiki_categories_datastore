@@ -1,1 +1,1 @@
-{"name": "Anglican_sacraments", "id": 5174107, "predecessors": [{"name": "Anglican_liturgy", "id": 17843674}], "successors": [{"name": "Anglican_Eucharistic_theology", "id": 5174125}]}
+{"name": "Anglican_sacraments", "id": 5174107, "predecessors": [{"name": "Anglican_liturgy", "id": 17843674}, {"name": "Sacraments", "id": 1988923}], "successors": [{"name": "Anglican_Eucharistic_theology", "id": 5174125}]}

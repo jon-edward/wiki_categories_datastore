@@ -1,1 +1,1 @@
-{"name": "Spanish_pop_singers", "id": 6760971, "predecessors": [{"name": "Latin_pop_singers", "id": 11968803}], "successors": [{"name": "Spanish_women_pop_singers", "id": 48852289}]}
+{"name": "Spanish_pop_singers", "id": 6760971, "predecessors": [{"name": "Latin_pop_singers", "id": 11968803}, {"name": "Spanish_musicians", "id": 724375}], "successors": [{"name": "Spanish_women_pop_singers", "id": 48852289}]}

@@ -1,1 +1,1 @@
-{"name": "IMSA_GTP", "id": 41218058, "predecessors": [{"name": "Auto_racing_series_in_the_United_States", "id": 22253843}], "successors": [{"name": "IMSA_GTP_cars", "id": 11298091}]}
+{"name": "IMSA_GTP", "id": 41218058, "predecessors": [{"name": "IMSA_GT_Championship", "id": 11875961}], "successors": [{"name": "IMSA_GTP_cars", "id": 11298091}]}

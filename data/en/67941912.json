@@ -1,1 +1,1 @@
-{"name": "Scales_of_temperature", "id": 67941912, "predecessors": [{"name": "Temperature", "id": 1214620}], "successors": [{"name": "Units_of_temperature", "id": 753839}]}
+{"name": "Scales_of_temperature", "id": 67941912, "predecessors": [{"name": "Physical_quantities", "id": 18726608}, {"name": "Temperature", "id": 1214620}], "successors": [{"name": "Units_of_temperature", "id": 753839}]}

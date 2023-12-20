@@ -1,1 +1,1 @@
-{"name": "Bygningsdetaljer", "id": 65318, "predecessors": [{"name": "Arkitektur", "id": 10949}, {"name": "Bygninger", "id": 21505}], "successors": [{"name": "Rom", "id": 133267}, {"name": "Ildsteder", "id": 307694}, {"name": "Tak", "id": 1154582}]}
+{"name": "Bygningsdetaljer", "id": 65318, "predecessors": [{"name": "Arkitektur", "id": 10949}, {"name": "Bygninger", "id": 21505}], "successors": [{"name": "Rom", "id": 133267}, {"name": "Ildsteder", "id": 307694}, {"name": "Tak", "id": 1154582}, {"name": "Trapper", "id": 2160972}]}

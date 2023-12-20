@@ -1,1 +1,1 @@
-{"name": "Western_Interconnection", "id": 28418384, "predecessors": [{"name": "Electric_power_transmission_systems_in_the_United_States", "id": 10634937}, {"name": "Electrical_grid", "id": 25278606}], "successors": []}
+{"name": "Western_Interconnection", "id": 28418384, "predecessors": [{"name": "Electric_grid_interconnections_in_North_America", "id": 28131942}, {"name": "Electric_power_transmission_systems_in_the_United_States", "id": 10634937}], "successors": []}

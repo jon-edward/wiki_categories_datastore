@@ -1,1 +1,1 @@
-{"name": "Computer-related_trade_shows", "id": 14661165, "predecessors": [{"name": "Trade_fairs", "id": 35181669}, {"name": "Industries_(economics)", "id": 694873}, {"name": "Computing_culture", "id": 3467352}], "successors": [{"name": "Video_game_trade_shows", "id": 9569822}]}
+{"name": "Computer-related_trade_shows", "id": 14661165, "predecessors": [{"name": "Computer-related_events", "id": 14661047}, {"name": "Trade_fairs", "id": 35181669}, {"name": "Industries_(economics)", "id": 694873}], "successors": [{"name": "Video_game_trade_shows", "id": 9569822}]}

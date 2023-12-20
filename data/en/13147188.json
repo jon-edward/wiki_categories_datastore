@@ -1,1 +1,1 @@
-{"name": "User_groups", "id": 13147188, "predecessors": [{"name": "Computer_clubs", "id": 2912579}], "successors": [{"name": "Linux_user_groups", "id": 34313533}]}
+{"name": "User_groups", "id": 13147188, "predecessors": [{"name": "Computer_clubs", "id": 2912579}, {"name": "Social_groups", "id": 1093141}], "successors": [{"name": "Linux_user_groups", "id": 34313533}]}

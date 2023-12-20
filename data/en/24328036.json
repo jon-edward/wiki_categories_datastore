@@ -1,1 +1,1 @@
-{"name": "Firths_of_Scotland", "id": 24328036, "predecessors": [{"name": "Coasts_of_the_Atlantic_Ocean", "id": 41350914}], "successors": [{"name": "Firth_of_Forth", "id": 38257338}, {"name": "Firth_of_Clyde", "id": 52547868}, {"name": "Solway_Firth", "id": 54160065}]}
+{"name": "Firths_of_Scotland", "id": 24328036, "predecessors": [{"name": "Scottish_coast", "id": 21035012}], "successors": [{"name": "Firth_of_Forth", "id": 38257338}, {"name": "Firth_of_Clyde", "id": 52547868}, {"name": "Solway_Firth", "id": 54160065}]}

@@ -1,1 +1,1 @@
-{"name": "Hominid_cryptids", "id": 2491555, "predecessors": [{"name": "Cryptids", "id": 729844}, {"name": "Legendary_mammals", "id": 10433225}, {"name": "Purported_mammals", "id": 62670911}, {"name": "Primatology", "id": 3076626}], "successors": [{"name": "Bigfoot", "id": 2037881}, {"name": "Yeti_in_fiction", "id": 45672451}]}
+{"name": "Hominid_cryptids", "id": 2491555, "predecessors": [{"name": "Cryptids", "id": 729844}, {"name": "Purported_mammals", "id": 62670911}, {"name": "Mammal_orders", "id": 43534992}], "successors": [{"name": "Bigfoot", "id": 2037881}]}

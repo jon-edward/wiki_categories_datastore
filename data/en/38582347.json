@@ -1,1 +1,1 @@
-{"name": "Bay-class_minesweepers", "id": 38582347, "predecessors": [{"name": "Mine_warfare_vessel_classes", "id": 34342058}], "successors": [{"name": "Bay-class_minesweepers_of_the_French_Navy", "id": 38582356}]}
+{"name": "Bay-class_minesweepers", "id": 38582347, "predecessors": [{"name": "Mine_warfare_vessel_classes", "id": 34342058}, {"name": "Minesweepers_of_the_Royal_Canadian_Navy", "id": 24862300}], "successors": [{"name": "Bay-class_minesweepers_of_the_French_Navy", "id": 38582356}]}

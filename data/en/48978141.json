@@ -1,1 +1,1 @@
-{"name": "Centipede_families", "id": 48978141, "predecessors": [{"name": "Predation", "id": 10473271}], "successors": []}
+{"name": "Centipede_families", "id": 48978141, "predecessors": [{"name": "Arthropod_families", "id": 48216431}, {"name": "Biological_classification", "id": 41221871}], "successors": [{"name": "Ribautia", "id": 73121700}, {"name": "Geophilus", "id": 73165050}, {"name": "Paralamyctes", "id": 73235961}, {"name": "Lithobius", "id": 73284275}, {"name": "Parascutigera", "id": 73309040}]}

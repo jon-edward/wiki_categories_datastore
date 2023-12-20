@@ -1,1 +1,1 @@
-{"name": "Maglev", "id": 70822594, "predecessors": [{"name": "Magnetic_levitation", "id": 36409773}], "successors": []}
+{"name": "Maglev", "id": 70822594, "predecessors": [{"name": "Magnetic_levitation", "id": 36409773}, {"name": "Monorails", "id": 1699880}], "successors": []}

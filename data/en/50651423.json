@@ -1,1 +1,1 @@
-{"name": "Manycore_processors", "id": 50651423, "predecessors": [{"name": "Parallel_computing", "id": 957606}], "successors": []}
+{"name": "Manycore_processors", "id": 50651423, "predecessors": [{"name": "Microprocessors", "id": 832619}, {"name": "Parallel_computing", "id": 957606}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Uuden_testamentin_henkilöt", "id": 34150, "predecessors": [{"name": "Raamatun_henkilöt", "id": 232106}, {"name": "Uuden_testamentin_sisältö", "id": 1741544}], "successors": [{"name": "Neitsyt_Maria", "id": 1071872}]}
+{"name": "Uuden_testamentin_henkilöt", "id": 34150, "predecessors": [{"name": "Uuden_testamentin_sisältö", "id": 1741544}, {"name": "Ihmiset", "id": 1041580}], "successors": [{"name": "Neitsyt_Maria", "id": 1071872}]}

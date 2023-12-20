@@ -1,1 +1,1 @@
-{"name": "Waffles", "id": 8116091, "predecessors": [{"name": "Breakfast_dishes", "id": 66535856}, {"name": "Quick_breads", "id": 6776440}, {"name": "Sweet_breads", "id": 6811259}], "successors": []}
+{"name": "Waffles", "id": 8116091, "predecessors": [{"name": "Belgian_cuisine", "id": 705929}, {"name": "Breakfast_dishes", "id": 66535856}, {"name": "Quick_breads", "id": 6776440}, {"name": "Sweet_breads", "id": 6811259}], "successors": []}

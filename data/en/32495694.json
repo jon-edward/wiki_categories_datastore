@@ -1,1 +1,0 @@
-{"name": "Eye_procedures", "id": 32495694, "predecessors": [{"name": "Medical_procedures", "id": 22735454}, {"name": "Ophthalmology", "id": 765995}], "successors": [{"name": "Eye_surgery", "id": 27011354}, {"name": "Diagnostic_ophthalmology", "id": 70251106}]}

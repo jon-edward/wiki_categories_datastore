@@ -1,1 +1,1 @@
-{"name": "Pure_Land_temples", "id": 14998938, "predecessors": [{"name": "Buddhist_temples", "id": 724758}], "successors": [{"name": "Jōdo_Shin_temples", "id": 60469989}]}
+{"name": "Pure_Land_temples", "id": 14998938, "predecessors": [{"name": "Pure_Land_Buddhism", "id": 1726174}, {"name": "Mahayana", "id": 29694388}], "successors": [{"name": "Jōdo_Shin_temples", "id": 60469989}]}

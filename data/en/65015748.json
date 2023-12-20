@@ -1,1 +1,1 @@
-{"name": "Palaces_in_Moscow", "id": 65015748, "predecessors": [{"name": "Buildings_and_structures_in_Moscow", "id": 3051357}, {"name": "Tourist_attractions_in_Moscow", "id": 3194934}], "successors": [{"name": "Moscow_Kremlin", "id": 20529720}]}
+{"name": "Palaces_in_Moscow", "id": 65015748, "predecessors": [{"name": "Buildings_and_structures_in_Moscow", "id": 3051357}, {"name": "Palaces_in_Russia", "id": 979074}, {"name": "Tourist_attractions_in_Moscow", "id": 3194934}], "successors": [{"name": "Moscow_Kremlin", "id": 20529720}]}

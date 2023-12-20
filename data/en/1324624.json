@@ -1,1 +1,1 @@
-{"name": "Golf_equipment", "id": 1324624, "predecessors": [{"name": "Ball_and_bat_games", "id": 15340140}], "successors": [{"name": "Golf_equipment_manufacturers", "id": 19299447}, {"name": "Golf_clubs", "id": 33918142}]}
+{"name": "Golf_equipment", "id": 1324624, "predecessors": [{"name": "Individual_sports", "id": 862248}], "successors": [{"name": "Golf_equipment_manufacturers", "id": 19299447}, {"name": "Golf_clubs", "id": 33918142}]}

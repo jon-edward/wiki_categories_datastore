@@ -1,1 +1,1 @@
-{"name": "Cyberinfrastructure", "id": 5953713, "predecessors": [{"name": "IT_infrastructure", "id": 35704717}], "successors": [{"name": "Computer_security_organizations", "id": 4800492}, {"name": "E-Science", "id": 5953696}]}
+{"name": "Cyberinfrastructure", "id": 5953713, "predecessors": [{"name": "IT_infrastructure", "id": 35704717}, {"name": "Information_and_communications_technology", "id": 50886144}, {"name": "Network_architecture", "id": 5065063}], "successors": [{"name": "Computer_security_organizations", "id": 4800492}, {"name": "E-Science", "id": 5953696}]}

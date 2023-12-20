@@ -1,1 +1,1 @@
-{"name": "Animal_species_groups", "id": 47552690, "predecessors": [{"name": "Species", "id": 41221580}, {"name": "Taxonomy_(biology)", "id": 40944932}], "successors": [{"name": "Insect_species_groups", "id": 53858883}]}
+{"name": "Animal_species_groups", "id": 47552690, "predecessors": [{"name": "Species", "id": 41221580}, {"name": "Biological_classification", "id": 41221871}], "successors": []}

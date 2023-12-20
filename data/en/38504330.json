@@ -1,1 +1,1 @@
-{"name": "World_War_II_suicide_weapons_of_Japan", "id": 38504330, "predecessors": [{"name": "Suicide_bombing", "id": 971187}], "successors": [{"name": "Kamikaze", "id": 33386271}]}
+{"name": "World_War_II_suicide_weapons_of_Japan", "id": 38504330, "predecessors": [{"name": "World_War_II_weapons_of_Japan", "id": 38504295}, {"name": "Suicide_bombing", "id": 971187}], "successors": [{"name": "Kamikaze", "id": 33386271}]}

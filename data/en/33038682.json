@@ -1,1 +1,1 @@
-{"name": "Slave_rebellions_in_North_America", "id": 33038682, "predecessors": [{"name": "Slave_rebellions", "id": 4546843}], "successors": [{"name": "Haitian_Revolution", "id": 7506977}, {"name": "Slave_rebellions_in_the_United_States", "id": 41541246}]}
+{"name": "Slave_rebellions_in_North_America", "id": 33038682, "predecessors": [{"name": "Slave_rebellions", "id": 4546843}, {"name": "Slavery_in_North_America", "id": 42534144}], "successors": [{"name": "Haitian_Revolution", "id": 7506977}, {"name": "Slave_rebellions_in_the_United_States", "id": 41541246}]}

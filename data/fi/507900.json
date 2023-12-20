@@ -1,1 +1,1 @@
-{"name": "Riisi", "id": 507900, "predecessors": [{"name": "Elintarvikkeet", "id": 116374}, {"name": "Viljat", "id": 966266}], "successors": [{"name": "Riisiruoat", "id": 1012713}]}
+{"name": "Riisi", "id": 507900, "predecessors": [{"name": "Elintarvikkeet", "id": 116374}, {"name": "Viljat", "id": 966266}, {"name": "Eliöt", "id": 33291}, {"name": "Heinäkasvit", "id": 49275}], "successors": [{"name": "Riisiruoat", "id": 1012713}]}

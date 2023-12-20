@@ -1,1 +1,1 @@
-{"name": "Olfactory_receptors", "id": 53679344, "predecessors": [{"name": "G_protein-coupled_receptors", "id": 719555}], "successors": []}
+{"name": "Olfactory_receptors", "id": 53679344, "predecessors": [{"name": "G_protein-coupled_receptors", "id": 719555}, {"name": "Olfactory_system", "id": 749761}], "successors": []}

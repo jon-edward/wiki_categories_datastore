@@ -1,1 +1,1 @@
-{"name": "Roads_in_Moscow", "id": 65382720, "predecessors": [{"name": "Transport_in_Moscow", "id": 3194624}, {"name": "Roads_in_Russia", "id": 3520122}], "successors": []}
+{"name": "Roads_in_Moscow", "id": 65382720, "predecessors": [{"name": "Transport_in_Moscow", "id": 3194624}, {"name": "Roads_in_Russia", "id": 3520122}], "successors": [{"name": "Ring_roads_in_Moscow", "id": 37482042}]}

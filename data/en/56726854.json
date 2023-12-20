@@ -1,1 +1,1 @@
-{"name": "EchoStar_satellites", "id": 56726854, "predecessors": [{"name": "Communications_satellite_operators", "id": 22178661}], "successors": []}
+{"name": "EchoStar_satellites", "id": 56726854, "predecessors": [{"name": "Communications_satellites_of_the_United_States", "id": 56726734}, {"name": "Communications_satellite_operators", "id": 22178661}], "successors": []}

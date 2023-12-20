@@ -1,1 +1,1 @@
-{"name": "Flyplasser_i_Akershus", "id": 220135, "predecessors": [{"name": "Kollektivtrafikk", "id": 248506}, {"name": "Byggverk_i_Norge", "id": 1073706}], "successors": []}
+{"name": "Flyplasser_i_Akershus", "id": 220135, "predecessors": [{"name": "Kollektivtransport_i_Akershus", "id": 426160}, {"name": "Kollektivtrafikk", "id": 248506}, {"name": "Transport_i_Akershus", "id": 103065}], "successors": []}

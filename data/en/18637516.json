@@ -1,1 +1,1 @@
-{"name": "Ruminant_diseases", "id": 18637516, "predecessors": [{"name": "Ruminants", "id": 70273263}], "successors": [{"name": "Bovine_diseases", "id": 7407111}, {"name": "Sheep_and_goat_diseases", "id": 29807203}]}
+{"name": "Ruminant_diseases", "id": 18637516, "predecessors": [{"name": "Ruminants", "id": 70273263}, {"name": "Mammal_diseases", "id": 48666507}], "successors": [{"name": "Bovine_diseases", "id": 7407111}, {"name": "Sheep_and_goat_diseases", "id": 29807203}]}

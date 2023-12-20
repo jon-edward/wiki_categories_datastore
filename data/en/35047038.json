@@ -1,1 +1,1 @@
-{"name": "Japanese_drinks", "id": 35047038, "predecessors": [{"name": "Japanese_cuisine", "id": 937592}, {"name": "Health_in_Japan", "id": 2695938}], "successors": [{"name": "Drink_companies_of_Japan", "id": 6739207}, {"name": "Japanese_tea", "id": 9913642}]}
+{"name": "Japanese_drinks", "id": 35047038, "predecessors": [{"name": "Japanese_cuisine", "id": 937592}, {"name": "Health_in_Japan", "id": 2695938}, {"name": "East_Asian_cuisine", "id": 25514991}], "successors": [{"name": "Drink_companies_of_Japan", "id": 6739207}, {"name": "Japanese_tea", "id": 9913642}]}

@@ -1,1 +1,1 @@
-{"name": "Java_specification_requests", "id": 4138620, "predecessors": [{"name": "Java_(programming_language)", "id": 44668068}, {"name": "Programming_language_topics", "id": 5699671}], "successors": []}
+{"name": "Java_specification_requests", "id": 4138620, "predecessors": [{"name": "Java_(programming_language)", "id": 44668068}, {"name": "Java_platform", "id": 979568}, {"name": "Programming_language_topics", "id": 5699671}], "successors": [{"name": "Jakarta_Server_Faces", "id": 19539605}]}

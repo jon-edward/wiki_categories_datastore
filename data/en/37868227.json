@@ -1,1 +1,1 @@
-{"name": "Whooping_cough", "id": 37868227, "predecessors": [{"name": "Animal_bacterial_diseases", "id": 48682499}, {"name": "Burkholderiales", "id": 1410372}], "successors": []}
+{"name": "Whooping_cough", "id": 37868227, "predecessors": [{"name": "Animal_bacterial_diseases", "id": 48682499}, {"name": "Burkholderiales", "id": 1410372}, {"name": "Vaccine-preventable_diseases", "id": 56263158}], "successors": []}

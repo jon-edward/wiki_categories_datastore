@@ -1,1 +1,1 @@
-{"name": "Aldohexoses", "id": 7085518, "predecessors": [{"name": "Aldols", "id": 60947046}, {"name": "Monosaccharides", "id": 721885}], "successors": [{"name": "Cellulose", "id": 5047804}, {"name": "Glucosides", "id": 29898805}]}
+{"name": "Aldohexoses", "id": 7085518, "predecessors": [{"name": "Aldehydes", "id": 695891}, {"name": "Monosaccharides", "id": 721885}], "successors": [{"name": "Cellulose", "id": 5047804}, {"name": "Glucosides", "id": 29898805}]}

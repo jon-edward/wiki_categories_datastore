@@ -1,1 +1,1 @@
-{"name": "Kultur_i_Frogn", "id": 1058131, "predecessors": [{"name": "Follo", "id": 194532}, {"name": "Kultur_i_Viken", "id": 1758118}], "successors": [{"name": "Kulturminner_i_Frogn", "id": 1058116}, {"name": "Sport_i_Frogn", "id": 1955420}, {"name": "Skoler_i_Frogn", "id": 1955421}]}
+{"name": "Kultur_i_Frogn", "id": 1058131, "predecessors": [{"name": "Follo", "id": 194532}, {"name": "Kultur_i_Akershus", "id": 105328}], "successors": [{"name": "Kulturminner_i_Frogn", "id": 1058116}, {"name": "Sport_i_Frogn", "id": 1955420}, {"name": "Skoler_i_Frogn", "id": 1955421}]}

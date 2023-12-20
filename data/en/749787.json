@@ -1,1 +1,1 @@
-{"name": "Brainstem", "id": 749787, "predecessors": [{"name": "Brain", "id": 5239453}], "successors": []}
+{"name": "Brainstem", "id": 749787, "predecessors": [{"name": "Brain", "id": 5239453}], "successors": [{"name": "Midbrain", "id": 1512958}, {"name": "Pons", "id": 32560552}, {"name": "Medulla_oblongata", "id": 32560828}, {"name": "Cranial_nerve_nuclei", "id": 39135773}]}

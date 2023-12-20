@@ -1,1 +1,1 @@
-{"name": "Pernod_Ricard_brands", "id": 5326543, "predecessors": [{"name": "Alcoholic_drink_brands", "id": 5109188}, {"name": "Alcohol_by_country", "id": 24323097}, {"name": "Alcoholic_drink_companies", "id": 18621662}], "successors": []}
+{"name": "Pernod_Ricard_brands", "id": 5326543, "predecessors": [{"name": "Alcoholic_drink_brands", "id": 5109188}, {"name": "Pernod_Ricard", "id": 61844544}, {"name": "Alcohol_by_country", "id": 24323097}], "successors": []}

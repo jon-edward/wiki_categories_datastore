@@ -1,1 +1,1 @@
-{"name": "Prehistoric_lungfish", "id": 50583987, "predecessors": [{"name": "Prehistoric_bony_fish", "id": 14622901}, {"name": "Taxonomy_(biology)", "id": 40944932}], "successors": []}
+{"name": "Prehistoric_lungfish", "id": 50583987, "predecessors": [{"name": "Prehistoric_bony_fish", "id": 14622901}], "successors": [{"name": "Prehistoric_lungfish_genera", "id": 50779667}]}

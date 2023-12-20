@@ -1,1 +1,1 @@
-{"name": "Inclinometers", "id": 11518581, "predecessors": [{"name": "In_situ_geotechnical_investigations", "id": 62422898}], "successors": []}
+{"name": "Inclinometers", "id": 11518581, "predecessors": [{"name": "Angle_measuring_instruments", "id": 44968730}, {"name": "In_situ_geotechnical_investigations", "id": 62422898}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Poisonous_fungi", "id": 22255036, "predecessors": [{"name": "Poisons", "id": 7628523}, {"name": "Toxicology", "id": 1043816}], "successors": [{"name": "Mycotoxins", "id": 4645470}]}
+{"name": "Poisonous_fungi", "id": 22255036, "predecessors": [{"name": "Mycology", "id": 1248840}, {"name": "Poisons", "id": 7628523}, {"name": "Toxicology", "id": 1043816}], "successors": [{"name": "Mycotoxins", "id": 4645470}]}

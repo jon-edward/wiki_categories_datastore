@@ -1,1 +1,1 @@
-{"name": "Programari_lliure_escrit_en_C", "id": 804284, "predecessors": [{"name": "Programari_lliure", "id": 12877}, {"name": "Llenguatges_de_programació", "id": 13682}], "successors": [{"name": "Linux_(nucli)", "id": 1095875}]}
+{"name": "Programari_lliure_escrit_en_C", "id": 804284, "predecessors": [{"name": "Llenguatge_de_programació_C", "id": 1652116}, {"name": "Programari_lliure", "id": 12877}], "successors": [{"name": "Linux_(nucli)", "id": 1095875}]}

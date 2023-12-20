@@ -1,1 +1,1 @@
-{"name": "Roads_in_Belarus", "id": 4663417, "predecessors": [{"name": "Transport_infrastructure", "id": 2962532}], "successors": [{"name": "European_route_E85", "id": 54062002}]}
+{"name": "Roads_in_Belarus", "id": 4663417, "predecessors": [{"name": "Roads", "id": 780674}, {"name": "Road_transport", "id": 700964}], "successors": [{"name": "European_route_E85", "id": 54062002}]}

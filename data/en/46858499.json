@@ -1,1 +1,1 @@
-{"name": "Laboratory_mice", "id": 46858499, "predecessors": [{"name": "Animal_models", "id": 34537140}, {"name": "Biological_nomenclature", "id": 24147863}], "successors": [{"name": "Mouse_proteins", "id": 34026700}]}
+{"name": "Laboratory_mice", "id": 46858499, "predecessors": [{"name": "Rodents_by_common_name", "id": 49553670}, {"name": "Animal_models", "id": 34537140}], "successors": [{"name": "Laboratory_mouse_strains", "id": 40129580}, {"name": "Mouse_proteins", "id": 34026700}, {"name": "Mouse_genetics", "id": 40126206}]}

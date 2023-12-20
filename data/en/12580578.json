@@ -1,1 +1,1 @@
-{"name": "Prison_uprisings", "id": 12580578, "predecessors": [{"name": "Prisons", "id": 698491}], "successors": []}
+{"name": "Prison_uprisings", "id": 12580578, "predecessors": [{"name": "Prisons", "id": 698491}], "successors": [{"name": "Prison_uprisings_in_the_United_States", "id": 64612679}]}

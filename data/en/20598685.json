@@ -1,1 +1,1 @@
-{"name": "Natural_gas_plants", "id": 20598685, "predecessors": [{"name": "Chemical_plants", "id": 36353235}, {"name": "Natural_gas_technology", "id": 20598699}, {"name": "Infrastructure", "id": 2962329}], "successors": [{"name": "Liquefied_natural_gas_plants", "id": 18792964}]}
+{"name": "Natural_gas_plants", "id": 20598685, "predecessors": [{"name": "Chemical_plants", "id": 36353235}, {"name": "Natural_gas_technology", "id": 20598699}, {"name": "Energy", "id": 865456}], "successors": [{"name": "Liquefied_natural_gas_plants", "id": 18792964}]}

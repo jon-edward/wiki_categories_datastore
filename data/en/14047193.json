@@ -1,1 +1,1 @@
-{"name": "Tobu_Sano_Line", "id": 14047193, "predecessors": [{"name": "Lines_of_Tobu_Railway", "id": 8199444}], "successors": []}
+{"name": "Tobu_Sano_Line", "id": 14047193, "predecessors": [{"name": "Lines_of_Tobu_Railway", "id": 8199444}, {"name": "Rail_transport_in_Gunma_Prefecture", "id": 10084866}, {"name": "Rail_transport_in_Tochigi_Prefecture", "id": 7671932}], "successors": []}

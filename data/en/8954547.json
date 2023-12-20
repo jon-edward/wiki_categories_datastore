@@ -1,1 +1,1 @@
-{"name": "Free_package_management_systems", "id": 8954547, "predecessors": [{"name": "Package_management_systems", "id": 1842209}], "successors": [{"name": "Dpkg", "id": 3565967}]}
+{"name": "Free_package_management_systems", "id": 8954547, "predecessors": [{"name": "Package_management_systems", "id": 1842209}, {"name": "Free_software_operating_systems", "id": 1337950}], "successors": [{"name": "Dpkg", "id": 3565967}]}

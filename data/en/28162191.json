@@ -1,1 +1,1 @@
-{"name": "Royal_Air_Force_chaplains", "id": 28162191, "predecessors": [{"name": "Royal_Air_Force_officers", "id": 998480}, {"name": "Military_chaplains", "id": 8048811}], "successors": [{"name": "Royal_Air_Force_Chaplains-in-Chief", "id": 39019340}]}
+{"name": "Royal_Air_Force_chaplains", "id": 28162191, "predecessors": [{"name": "British_military_chaplains", "id": 34560432}, {"name": "Royal_Air_Force_officers", "id": 998480}, {"name": "Military_chaplains", "id": 8048811}], "successors": [{"name": "Royal_Air_Force_Chaplains-in-Chief", "id": 39019340}]}

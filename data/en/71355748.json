@@ -1,1 +1,1 @@
-{"name": "Genetics_in_Germany", "id": 71355748, "predecessors": [{"name": "Genetics_by_country", "id": 36632739}], "successors": []}
+{"name": "Genetics_in_Germany", "id": 71355748, "predecessors": [{"name": "Genetics_by_country", "id": 36632739}, {"name": "Biology_in_Europe", "id": 72232399}], "successors": [{"name": "German_geneticists", "id": 10879257}, {"name": "Max_Planck_Institute_for_Evolutionary_Anthropology", "id": 68178731}]}

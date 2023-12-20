@@ -1,1 +1,1 @@
-{"name": "GIS_vector_file_formats", "id": 57707189, "predecessors": [{"name": "GIS_file_formats", "id": 6437761}], "successors": []}
+{"name": "GIS_vector_file_formats", "id": 57707189, "predecessors": [{"name": "GIS_file_formats", "id": 6437761}, {"name": "Graphics_file_formats", "id": 737744}], "successors": []}

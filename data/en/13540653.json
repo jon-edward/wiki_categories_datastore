@@ -1,1 +1,1 @@
-{"name": "Healthcare_journals", "id": 13540653, "predecessors": [{"name": "Health_care", "id": 35880954}], "successors": [{"name": "Public_health_journals", "id": 27367199}, {"name": "General_nursing_journals", "id": 29501394}, {"name": "Pediatric_nursing_journals", "id": 29506876}, {"name": "Occupational_safety_and_health_journals", "id": 28638141}]}
+{"name": "Healthcare_journals", "id": 13540653, "predecessors": [{"name": "Health_sciences", "id": 964864}, {"name": "Health", "id": 751381}, {"name": "Health_care", "id": 35880954}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Alcohol-related_deaths_in_California", "id": 19209242, "predecessors": [{"name": "Alcohol-related_deaths", "id": 13033255}], "successors": []}
+{"name": "Alcohol-related_deaths_in_California", "id": 19209242, "predecessors": [{"name": "Drug-related_deaths_in_California", "id": 19166664}, {"name": "Alcohol-related_deaths", "id": 13033255}], "successors": []}

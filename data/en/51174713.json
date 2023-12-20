@@ -1,1 +1,1 @@
-{"name": "Manufacturing_companies_based_in_Shanghai", "id": 51174713, "predecessors": [{"name": "Companies_based_in_Shanghai", "id": 23922382}, {"name": "Manufacturing_companies_of_China", "id": 37574513}], "successors": [{"name": "Baowu", "id": 52129044}]}
+{"name": "Manufacturing_companies_based_in_Shanghai", "id": 51174713, "predecessors": [{"name": "Companies_based_in_Shanghai", "id": 23922382}, {"name": "Manufacturing_companies_of_China", "id": 37574513}], "successors": [{"name": "SAIC_Motor", "id": 36346959}, {"name": "Baowu", "id": 52129044}]}

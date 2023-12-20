@@ -1,1 +1,1 @@
-{"name": "Manufacturing_companies_based_in_Indianapolis", "id": 51892075, "predecessors": [{"name": "Companies_based_in_Indianapolis", "id": 14462604}], "successors": [{"name": "Eli_Lilly_and_Company", "id": 14794969}]}
+{"name": "Manufacturing_companies_based_in_Indianapolis", "id": 51892075, "predecessors": [{"name": "Companies_based_in_Indianapolis", "id": 14462604}, {"name": "Manufacturing_companies_based_in_Indiana", "id": 25996232}], "successors": [{"name": "Eli_Lilly_and_Company", "id": 14794969}]}

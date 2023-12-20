@@ -1,1 +1,1 @@
-{"name": "Renal_dialysis", "id": 8981501, "predecessors": [{"name": "Medical_treatments", "id": 694975}, {"name": "Nephrology_procedures", "id": 53306066}], "successors": []}
+{"name": "Renal_dialysis", "id": 8981501, "predecessors": [{"name": "Nephrology_procedures", "id": 53306066}], "successors": []}

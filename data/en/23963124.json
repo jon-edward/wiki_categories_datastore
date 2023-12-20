@@ -1,1 +1,1 @@
-{"name": "Wooden_toys", "id": 23963124, "predecessors": [{"name": "Wood_products", "id": 40719418}, {"name": "Wooden_sculptures", "id": 28165585}, {"name": "Materials", "id": 722279}], "successors": [{"name": "Wooden_dolls", "id": 70954567}]}
+{"name": "Wooden_toys", "id": 23963124, "predecessors": [{"name": "Wood_products", "id": 40719418}, {"name": "Wooden_sculptures", "id": 28165585}, {"name": "Technology", "id": 696648}], "successors": [{"name": "Wooden_dolls", "id": 70954567}]}

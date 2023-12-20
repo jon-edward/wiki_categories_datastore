@@ -1,1 +1,1 @@
-{"name": "Soviet_cosmonauts", "id": 8098786, "predecessors": [{"name": "Soviet_Air_Force_officers", "id": 1826380}], "successors": [{"name": "Alexei_Leonov", "id": 59644986}, {"name": "Monuments_and_memorials_to_Yuri_Gagarin", "id": 68599257}]}
+{"name": "Soviet_cosmonauts", "id": 8098786, "predecessors": [{"name": "Crewed_space_program_of_the_Soviet_Union", "id": 36845180}, {"name": "Soviet_Air_Force_officers", "id": 1826380}, {"name": "Soviet_explorers", "id": 38188700}], "successors": [{"name": "Yuri_Gagarin", "id": 49687746}, {"name": "Alexei_Leonov", "id": 59644986}]}

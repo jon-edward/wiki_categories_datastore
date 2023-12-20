@@ -1,1 +1,1 @@
-{"name": "Linii_de_tramvai", "id": 2015949, "predecessors": [{"name": "Tramvaie", "id": 1240500}, {"name": "Călătorii", "id": 818023}], "successors": []}
+{"name": "Linii_de_tramvai", "id": 2015949, "predecessors": [{"name": "Tramvaie", "id": 1240500}, {"name": "Călătorii", "id": 818023}], "successors": [{"name": "Tramvaiele_din_România", "id": 477239}, {"name": "Tramvaiul_din_Antwerpen", "id": 1846591}]}

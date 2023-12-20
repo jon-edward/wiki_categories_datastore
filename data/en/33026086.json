@@ -1,1 +1,1 @@
-{"name": "Hadoop", "id": 33026086, "predecessors": [{"name": "Apache_Software_Foundation_projects", "id": 1972685}, {"name": "Cluster_computing", "id": 8963884}, {"name": "Free_software_programmed_in_Java_(programming_language)", "id": 11468473}], "successors": []}
+{"name": "Hadoop", "id": 33026086, "predecessors": [{"name": "Apache_Software_Foundation_projects", "id": 1972685}, {"name": "Big_data_products", "id": 48573664}, {"name": "Cluster_computing", "id": 8963884}, {"name": "Free_software_programmed_in_Java_(programming_language)", "id": 11468473}], "successors": []}

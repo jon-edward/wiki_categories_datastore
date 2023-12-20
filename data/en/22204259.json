@@ -1,1 +1,1 @@
-{"name": "Mucins", "id": 22204259, "predecessors": [{"name": "Glycoproteins", "id": 993004}, {"name": "Single-pass_transmembrane_proteins", "id": 14581995}, {"name": "Cell_adhesion_proteins", "id": 3090766}], "successors": []}
+{"name": "Mucins", "id": 22204259, "predecessors": [{"name": "Glycoproteins", "id": 993004}, {"name": "Single-pass_transmembrane_proteins", "id": 14581995}, {"name": "Cell_biology", "id": 714693}], "successors": []}

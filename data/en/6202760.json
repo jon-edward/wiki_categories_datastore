@@ -1,1 +1,1 @@
-{"name": "Best_Film_Editing_Academy_Award_winners", "id": 6202760, "predecessors": [{"name": "Film_editing_awards", "id": 16918862}], "successors": [{"name": "Films_whose_editor_won_the_Best_Film_Editing_Academy_Award", "id": 17047852}]}
+{"name": "Best_Film_Editing_Academy_Award_winners", "id": 6202760, "predecessors": [{"name": "Film_editing_awards", "id": 16918862}, {"name": "Academy_Awards", "id": 773951}], "successors": [{"name": "Films_whose_editor_won_the_Best_Film_Editing_Academy_Award", "id": 17047852}]}

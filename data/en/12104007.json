@@ -1,1 +1,1 @@
-{"name": "German_fairy_tales", "id": 12104007, "predecessors": [{"name": "Fairy_tales", "id": 735431}, {"name": "Fantasy", "id": 694508}], "successors": [{"name": "Grimms'_Fairy_Tales", "id": 40231767}]}
+{"name": "German_fairy_tales", "id": 12104007, "predecessors": [{"name": "German_children's_literature", "id": 18104202}, {"name": "Fairy_tales", "id": 735431}, {"name": "German_literature", "id": 724505}], "successors": [{"name": "Grimms'_Fairy_Tales", "id": 40231767}, {"name": "Snow_White", "id": 40851218}]}

@@ -1,1 +1,1 @@
-{"name": "Resorts_in_California", "id": 24556096, "predecessors": [{"name": "Resorts_in_the_United_States", "id": 7163911}], "successors": [{"name": "Seaside_resorts_in_California", "id": 17541548}]}
+{"name": "Resorts_in_California", "id": 24556096, "predecessors": [{"name": "Hotels_in_California", "id": 2905961}, {"name": "Tourist_attractions_in_California", "id": 7331470}, {"name": "Resorts_in_the_United_States", "id": 7163911}], "successors": [{"name": "Ski_areas_and_resorts_in_California", "id": 10535711}, {"name": "Seaside_resorts_in_California", "id": 17541548}]}

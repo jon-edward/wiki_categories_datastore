@@ -1,1 +1,1 @@
-{"name": "Bone_fractures", "id": 15255181, "predecessors": [{"name": "Injuries", "id": 10158091}], "successors": []}
+{"name": "Bone_fractures", "id": 15255181, "predecessors": [{"name": "Injuries", "id": 10158091}, {"name": "Skeletal_disorders", "id": 2840427}], "successors": []}

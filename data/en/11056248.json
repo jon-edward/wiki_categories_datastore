@@ -1,1 +1,1 @@
-{"name": "Non-coding_RNA", "id": 11056248, "predecessors": [{"name": "RNA", "id": 726353}], "successors": [{"name": "Ribosomal_RNA", "id": 11155024}, {"name": "MicroRNA_precursor_families", "id": 43816799}]}
+{"name": "Non-coding_RNA", "id": 11056248, "predecessors": [{"name": "RNA", "id": 726353}], "successors": [{"name": "Ribosomal_RNA", "id": 11155024}, {"name": "RNA_antitoxins", "id": 31722667}, {"name": "MicroRNA_precursor_families", "id": 43816799}]}

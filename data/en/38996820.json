@@ -1,1 +1,1 @@
-{"name": "Backward-compatible_video_game_consoles", "id": 38996820, "predecessors": [{"name": "Backward_compatibility", "id": 4463429}, {"name": "Electronic_toys", "id": 23718480}], "successors": [{"name": "Xbox_360", "id": 6256375}]}
+{"name": "Backward-compatible_video_game_consoles", "id": 38996820, "predecessors": [{"name": "Backward_compatibility", "id": 4463429}, {"name": "Video_game_consoles", "id": 705587}], "successors": [{"name": "Xbox_360", "id": 6256375}]}

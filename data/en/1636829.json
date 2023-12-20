@@ -1,1 +1,1 @@
-{"name": "Joinery", "id": 1636829, "predecessors": [{"name": "Joining", "id": 8737559}, {"name": "Woodworking", "id": 999563}], "successors": [{"name": "Axes", "id": 1556769}, {"name": "Carpenters", "id": 13706961}]}
+{"name": "Joinery", "id": 1636829, "predecessors": [{"name": "Joining", "id": 8737559}, {"name": "Woodworking", "id": 999563}], "successors": [{"name": "Axes", "id": 1556769}, {"name": "Furniture_makers", "id": 1588201}, {"name": "Carpenters", "id": 13706961}]}

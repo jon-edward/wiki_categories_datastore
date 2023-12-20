@@ -1,1 +1,1 @@
-{"name": "Remote_sensing_software", "id": 15491881, "predecessors": [{"name": "Remote_sensing", "id": 14659192}], "successors": [{"name": "Photogrammetry_software", "id": 53985679}]}
+{"name": "Remote_sensing_software", "id": 15491881, "predecessors": [{"name": "Remote_sensing", "id": 14659192}, {"name": "Geographic_data_and_information", "id": 51208626}], "successors": [{"name": "Photogrammetry_software", "id": 53985679}]}

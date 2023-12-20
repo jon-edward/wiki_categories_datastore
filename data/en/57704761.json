@@ -1,1 +1,1 @@
-{"name": "Madrid_Metro_lines", "id": 57704761, "predecessors": [{"name": "Rail_infrastructure", "id": 2962895}, {"name": "Railway_lines_in_Spain", "id": 21149566}], "successors": []}
+{"name": "Madrid_Metro_lines", "id": 57704761, "predecessors": [{"name": "Madrid_Metro", "id": 10121832}, {"name": "Railway_lines_in_Spain", "id": 21149566}], "successors": []}

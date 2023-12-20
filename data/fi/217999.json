@@ -1,1 +1,1 @@
-{"name": "Ranskalaiset_sotilaat", "id": 217999, "predecessors": [{"name": "Sotilaat", "id": 34816}, {"name": "Ranskalaiset_henkilöt", "id": 124892}], "successors": [{"name": "Ranskalaiset_kenraalit", "id": 105481}, {"name": "Napoleon", "id": 1176853}]}
+{"name": "Ranskalaiset_sotilaat", "id": 217999, "predecessors": [{"name": "Sotilaat", "id": 34816}, {"name": "Ranskalaiset_henkilöt", "id": 124892}], "successors": [{"name": "Ranskalaiset_kenraalit", "id": 105481}, {"name": "Ranskalaiset_amiraalit", "id": 662836}, {"name": "Napoleon", "id": 1176853}]}

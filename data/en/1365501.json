@@ -1,1 +1,1 @@
-{"name": "Indian_fast_food", "id": 1365501, "predecessors": [{"name": "Fast_food", "id": 730141}], "successors": []}
+{"name": "Indian_fast_food", "id": 1365501, "predecessors": [{"name": "Fast_food", "id": 730141}, {"name": "Indian_cuisine", "id": 851793}], "successors": []}

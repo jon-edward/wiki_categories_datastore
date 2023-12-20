@@ -1,1 +1,1 @@
-{"name": "Climate_and_weather_statistics", "id": 17668715, "predecessors": [{"name": "Environmental_statistics", "id": 25345834}, {"name": "Oceanography", "id": 716910}], "successors": [{"name": "Lists_of_extreme_temperatures", "id": 61894719}]}
+{"name": "Climate_and_weather_statistics", "id": 17668715, "predecessors": [{"name": "Climatology", "id": 798288}, {"name": "Environmental_statistics", "id": 25345834}, {"name": "Atmosphere", "id": 1136015}], "successors": [{"name": "Lists_of_extreme_temperatures", "id": 61894719}]}

@@ -1,1 +1,1 @@
-{"name": "Bacteria_families", "id": 48337045, "predecessors": [{"name": "Taxonomy_(biology)", "id": 40944932}, {"name": "Bacteria", "id": 948811}], "successors": [{"name": "Cyanobacteria_families", "id": 55187420}]}
+{"name": "Bacteria_families", "id": 48337045, "predecessors": [{"name": "Biology", "id": 692675}, {"name": "Bacteria", "id": 948811}], "successors": [{"name": "Cyanobacteria_families", "id": 55187420}]}

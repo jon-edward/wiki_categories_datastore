@@ -1,1 +1,0 @@
-{"name": "Lärm", "id": 2774493, "predecessors": [{"name": "Schall", "id": 1608072}, {"name": "Umweltschäden", "id": 1926469}], "successors": [{"name": "Lärmquelle", "id": 9701656}, {"name": "Lärmschutzmaßnahme", "id": 9735652}, {"name": "Verkehrslärm", "id": 9735712}]}

@@ -1,1 +1,1 @@
-{"name": "Stoichiometry", "id": 11118700, "predecessors": [{"name": "Amount_of_substance", "id": 19500713}, {"name": "Chemical_reaction_engineering", "id": 42620702}, {"name": "Ratios", "id": 4773318}], "successors": []}
+{"name": "Stoichiometry", "id": 11118700, "predecessors": [{"name": "Amount_of_substance", "id": 19500713}, {"name": "Chemical_reaction_engineering", "id": 42620702}, {"name": "Ratios", "id": 4773318}, {"name": "Chemistry", "id": 691185}], "successors": []}

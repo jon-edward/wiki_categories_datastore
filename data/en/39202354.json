@@ -1,1 +1,1 @@
-{"name": "Parkinson's_disease_researchers", "id": 39202354, "predecessors": [{"name": "Medical_researchers", "id": 2986153}, {"name": "Neuroscientists", "id": 839250}, {"name": "Parkinson's_disease", "id": 5850920}], "successors": []}
+{"name": "Parkinson's_disease_researchers", "id": 39202354, "predecessors": [{"name": "Neuroscientists", "id": 839250}, {"name": "Parkinson's_disease", "id": 5850920}], "successors": []}

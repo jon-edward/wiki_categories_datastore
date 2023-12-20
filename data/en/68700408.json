@@ -1,1 +1,1 @@
-{"name": "Lombard_cheeses", "id": 68700408, "predecessors": [{"name": "Italian_cheeses", "id": 704908}], "successors": []}
+{"name": "Lombard_cheeses", "id": 68700408, "predecessors": [{"name": "Cuisine_of_Lombardy", "id": 17964399}, {"name": "Italian_cheeses", "id": 704908}], "successors": []}

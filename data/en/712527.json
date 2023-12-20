@@ -1,1 +1,1 @@
-{"name": "Integral_transforms", "id": 712527, "predecessors": [{"name": "Functional_analysis", "id": 691866}, {"name": "Linear_operators", "id": 22834535}, {"name": "Transforms", "id": 1034994}], "successors": []}
+{"name": "Integral_transforms", "id": 712527, "predecessors": [{"name": "Functional_analysis", "id": 691866}, {"name": "Integral_geometry", "id": 859298}, {"name": "Linear_operators", "id": 22834535}, {"name": "Transforms", "id": 1034994}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Archaeological_expeditions", "id": 36501635, "predecessors": [{"name": "Scientific_expeditions", "id": 8120296}], "successors": []}
+{"name": "Archaeological_expeditions", "id": 36501635, "predecessors": [{"name": "Scientific_expeditions", "id": 8120296}, {"name": "Archaeology", "id": 696279}], "successors": []}

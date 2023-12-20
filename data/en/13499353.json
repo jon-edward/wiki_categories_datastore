@@ -1,1 +1,1 @@
-{"name": "Race_games", "id": 13499353, "predecessors": [{"name": "Racing", "id": 43030261}, {"name": "Board_games", "id": 9205892}], "successors": [{"name": "Tables_games", "id": 4204047}, {"name": "Cross_and_circle_games", "id": 39072210}]}
+{"name": "Race_games", "id": 13499353, "predecessors": [{"name": "Board_games", "id": 9205892}], "successors": [{"name": "Tables_games", "id": 4204047}, {"name": "Cross_and_circle_games", "id": 39072210}]}

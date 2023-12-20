@@ -1,1 +1,1 @@
-{"name": "Smoke_grenades", "id": 29761796, "predecessors": [{"name": "Non-lethal_weapons", "id": 29174287}, {"name": "Smoke", "id": 8126063}], "successors": []}
+{"name": "Smoke_grenades", "id": 29761796, "predecessors": [{"name": "Grenades", "id": 1021085}, {"name": "Non-lethal_weapons", "id": 29174287}, {"name": "Smoke", "id": 8126063}], "successors": []}

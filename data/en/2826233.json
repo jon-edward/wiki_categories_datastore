@@ -1,1 +1,1 @@
-{"name": "Roads_in_Lithuania", "id": 2826233, "predecessors": [{"name": "Transport_infrastructure", "id": 2962532}, {"name": "Economies_of_Europe_by_country", "id": 62161788}], "successors": [{"name": "European_route_E85", "id": 54062002}]}
+{"name": "Roads_in_Lithuania", "id": 2826233, "predecessors": [{"name": "Roads", "id": 780674}, {"name": "Economies_of_Europe_by_country", "id": 62161788}], "successors": [{"name": "European_route_E85", "id": 54062002}, {"name": "Streets_in_Vilnius", "id": 10775220}]}

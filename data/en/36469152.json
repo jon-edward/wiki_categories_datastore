@@ -1,1 +1,1 @@
-{"name": "Sports_venues_completed_in_1980", "id": 36469152, "predecessors": [{"name": "1980", "id": 885519}, {"name": "Event_management", "id": 38591267}, {"name": "Buildings_and_structures_by_type", "id": 6884364}], "successors": []}
+{"name": "Sports_venues_completed_in_1980", "id": 36469152, "predecessors": [{"name": "Buildings_and_structures_completed_in_1980", "id": 29728848}, {"name": "1980", "id": 885519}, {"name": "Buildings_and_structures_completed_in_the_20th_century", "id": 30134951}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Defunct_minor_league_baseball_venues", "id": 24954899, "predecessors": [{"name": "Minor_league_baseball_venues", "id": 2309425}, {"name": "Tourist_attractions", "id": 17199034}], "successors": [{"name": "Defunct_Midwest_League_ballparks", "id": 66259393}]}
+{"name": "Defunct_minor_league_baseball_venues", "id": 24954899, "predecessors": [{"name": "Defunct_baseball_venues", "id": 2309867}, {"name": "Minor_league_baseball_venues", "id": 2309425}], "successors": [{"name": "Defunct_Midwest_League_ballparks", "id": 66259393}]}

@@ -1,1 +1,1 @@
-{"name": "Transport_associations_in_Germany", "id": 6235609, "predecessors": [{"name": "Traffic_management", "id": 44938737}, {"name": "Intermodal_transport", "id": 28589652}, {"name": "Taxonomy", "id": 918375}, {"name": "Industries_(economics)", "id": 694873}], "successors": []}
+{"name": "Transport_associations_in_Germany", "id": 6235609, "predecessors": [{"name": "Transport_economics", "id": 3646902}, {"name": "Traffic_management", "id": 44938737}, {"name": "Intermodal_transport", "id": 28589652}, {"name": "Taxonomy", "id": 918375}], "successors": []}

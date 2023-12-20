@@ -1,1 +1,1 @@
-{"name": "Arthropod_superfamilies", "id": 48866992, "predecessors": [{"name": "Animal_superfamilies", "id": 48254264}, {"name": "Superphyla", "id": 52195996}], "successors": [{"name": "Insect_superfamilies", "id": 48217881}]}
+{"name": "Arthropod_superfamilies", "id": 48866992, "predecessors": [{"name": "Animal_superfamilies", "id": 48254264}, {"name": "Superphyla", "id": 52195996}], "successors": [{"name": "Insect_superfamilies", "id": 48217881}, {"name": "Arachnid_superfamilies", "id": 56664397}]}

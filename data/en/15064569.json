@@ -1,1 +1,1 @@
-{"name": "Dassault_Group_aircraft", "id": 15064569, "predecessors": [{"name": "Manufactured_goods", "id": 699552}], "successors": [{"name": "Bloch_aircraft", "id": 27216517}]}
+{"name": "Dassault_Group_aircraft", "id": 15064569, "predecessors": [{"name": "Dassault_Group", "id": 13526922}, {"name": "Vehicles", "id": 694929}], "successors": [{"name": "Bloch_aircraft", "id": 27216517}]}

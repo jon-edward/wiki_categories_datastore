@@ -1,1 +1,1 @@
-{"name": "Microbiology_institutes", "id": 54841792, "predecessors": [{"name": "Microbiology_organizations", "id": 40640794}], "successors": [{"name": "Pasteur_Institute", "id": 42799742}, {"name": "Virology_institutes", "id": 63681090}]}
+{"name": "Microbiology_institutes", "id": 54841792, "predecessors": [{"name": "Biological_research_institutes", "id": 11496589}, {"name": "Microbiology_organizations", "id": 40640794}], "successors": [{"name": "Pasteur_Institute", "id": 42799742}, {"name": "Virology_institutes", "id": 63681090}]}

@@ -1,1 +1,1 @@
-{"name": "Studio_Ghibli_animated_films", "id": 36893112, "predecessors": [{"name": "Japanese_animated_feature_films", "id": 69466956}, {"name": "Studio_Ghibli", "id": 2431302}], "successors": [{"name": "Topcraft", "id": 38203105}]}
+{"name": "Studio_Ghibli_animated_films", "id": 36893112, "predecessors": [{"name": "Japanese_animated_feature_films", "id": 69466956}, {"name": "Studio_Ghibli", "id": 2431302}, {"name": "Japanese_film_studios", "id": 5393419}], "successors": [{"name": "Topcraft", "id": 38203105}]}

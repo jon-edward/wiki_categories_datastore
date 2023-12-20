@@ -1,1 +1,1 @@
-{"name": "Physiographic_regions_of_Canada", "id": 40483114, "predecessors": [{"name": "Regions_of_Canada", "id": 2406675}], "successors": [{"name": "Rocky_Mountains", "id": 719149}, {"name": "Pacific_Coast_Ranges", "id": 28183939}]}
+{"name": "Physiographic_regions_of_Canada", "id": 40483114, "predecessors": [{"name": "Physiographic_divisions", "id": 14483386}, {"name": "Regions_of_Canada", "id": 2406675}], "successors": [{"name": "Rocky_Mountains", "id": 719149}, {"name": "Pacific_Coast_Ranges", "id": 28183939}]}

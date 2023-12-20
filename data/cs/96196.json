@@ -1,1 +1,1 @@
-{"name": "Železniční_návěsti", "id": 96196, "predecessors": [{"name": "Dorozumívací_systémy_v_dopravě", "id": 104752}, {"name": "Návěstidla_v_dopravě", "id": 358775}, {"name": "Řízení_železniční_dopravy", "id": 116483}, {"name": "Železnice", "id": 6502}], "successors": []}
+{"name": "Železniční_návěsti", "id": 96196, "predecessors": [{"name": "Dorozumívací_systémy_v_dopravě", "id": 104752}, {"name": "Návěstidla_v_dopravě", "id": 358775}, {"name": "Řízení_železniční_dopravy", "id": 116483}, {"name": "Železnice", "id": 6502}], "successors": [{"name": "Patníky", "id": 1897067}]}

@@ -1,1 +1,1 @@
-{"name": "Havel_basin", "id": 27225527, "predecessors": [{"name": "Elbe_basin", "id": 4676762}], "successors": [{"name": "Tributaries_of_the_Havel", "id": 62914575}, {"name": "Tributaries_of_the_Spree", "id": 62914699}]}
+{"name": "Havel_basin", "id": 27225527, "predecessors": [{"name": "Elbe_basin", "id": 4676762}, {"name": "Geography_of_Berlin", "id": 7770479}], "successors": [{"name": "Tributaries_of_the_Havel", "id": 62914575}, {"name": "Tributaries_of_the_Spree", "id": 62914699}]}

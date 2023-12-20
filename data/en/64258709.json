@@ -1,1 +1,1 @@
-{"name": "Medicine_goddesses", "id": 64258709, "predecessors": [{"name": "Health_goddesses", "id": 709854}, {"name": "Health_care", "id": 35880954}], "successors": [{"name": "Minerva", "id": 68952522}]}
+{"name": "Medicine_goddesses", "id": 64258709, "predecessors": [{"name": "Health_goddesses", "id": 709854}, {"name": "Branches_of_biology", "id": 37535091}], "successors": [{"name": "Sekhmet", "id": 61902661}, {"name": "Minerva", "id": 68952522}]}

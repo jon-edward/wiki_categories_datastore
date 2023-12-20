@@ -1,1 +1,1 @@
-{"name": "Cancelled_referendums", "id": 31450658, "predecessors": [{"name": "Direct_democracy", "id": 5692938}, {"name": "Planning", "id": 7297152}], "successors": []}
+{"name": "Cancelled_referendums", "id": 31450658, "predecessors": [{"name": "Referendums", "id": 9111240}, {"name": "Planning", "id": 7297152}], "successors": []}

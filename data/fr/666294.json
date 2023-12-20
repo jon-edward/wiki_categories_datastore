@@ -1,1 +1,0 @@
-{"name": "Acide_gras", "id": 666294, "predecessors": [{"name": "Acide_carboxylique", "id": 87733}, {"name": "Lipide", "id": 231476}, {"name": "Matière_grasse_alimentaire", "id": 208282}], "successors": [{"name": "Eicosanoïde", "id": 298221}, {"name": "Acide_gras_insaturé", "id": 6541165}, {"name": "Acide_gras_saturé", "id": 12814963}]}

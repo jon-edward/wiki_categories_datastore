@@ -1,1 +1,1 @@
-{"name": "Diageo_brands", "id": 4297930, "predecessors": [{"name": "Alcoholic_drink_brands", "id": 5109188}, {"name": "Diageo", "id": 32486020}], "successors": []}
+{"name": "Diageo_brands", "id": 4297930, "predecessors": [{"name": "Alcoholic_drink_brands", "id": 5109188}, {"name": "Diageo", "id": 32486020}], "successors": [{"name": "Diageo_beer_brands", "id": 24771018}]}

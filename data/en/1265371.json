@@ -1,1 +1,1 @@
-{"name": "Electric_motors", "id": 1265371, "predecessors": [{"name": "Electromagnetic_components", "id": 1464030}, {"name": "Engines", "id": 743017}], "successors": [{"name": "Electric_motor_manufacturers", "id": 61532126}]}
+{"name": "Electric_motors", "id": 1265371, "predecessors": [{"name": "Electrical_engineering", "id": 706415}, {"name": "Electromagnetic_components", "id": 1464030}, {"name": "Engines", "id": 743017}], "successors": [{"name": "Electric_motor_manufacturers", "id": 61532126}]}

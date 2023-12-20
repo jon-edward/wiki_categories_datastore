@@ -1,1 +1,1 @@
-{"name": "Television_shows_based_on_magazines", "id": 30925766, "predecessors": [{"name": "Publications", "id": 706830}, {"name": "Artistic_techniques", "id": 891248}], "successors": [{"name": "Television_shows_based_on_comics", "id": 1275232}]}
+{"name": "Television_shows_based_on_magazines", "id": 30925766, "predecessors": [{"name": "Publications_by_format", "id": 11278400}, {"name": "Artistic_techniques", "id": 891248}], "successors": [{"name": "Television_shows_based_on_comics", "id": 1275232}]}

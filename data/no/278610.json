@@ -1,1 +1,1 @@
-{"name": "Tunneler_i_Akershus", "id": 278610, "predecessors": [{"name": "Byggverk_i_Norge", "id": 1073706}], "successors": [{"name": "Veitunneler_i_Akershus", "id": 743569}]}
+{"name": "Tunneler_i_Akershus", "id": 278610, "predecessors": [{"name": "Byggverk_i_Norge", "id": 1073706}, {"name": "Transport_i_Akershus", "id": 103065}], "successors": [{"name": "Veitunneler_i_Akershus", "id": 743569}]}

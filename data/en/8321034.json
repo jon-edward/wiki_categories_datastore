@@ -1,1 +1,1 @@
-{"name": "Internet_search", "id": 8321034, "predecessors": [{"name": "Web_services", "id": 1489691}, {"name": "World_Wide_Web", "id": 826436}], "successors": [{"name": "Internet_search_engines", "id": 699876}, {"name": "Real-time_web", "id": 23686083}]}
+{"name": "Internet_search", "id": 8321034, "predecessors": [{"name": "Web_services", "id": 1489691}, {"name": "World_Wide_Web", "id": 826436}, {"name": "Information_science", "id": 1009204}], "successors": [{"name": "Internet_search_engines", "id": 699876}, {"name": "Real-time_web", "id": 23686083}]}

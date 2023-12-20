@@ -1,1 +1,1 @@
-{"name": "X.25", "id": 65801563, "predecessors": [{"name": "ITU-T_X_Series_Recommendations", "id": 61043087}, {"name": "OSI_protocols", "id": 1117741}, {"name": "Wide_area_networks", "id": 5013842}], "successors": []}
+{"name": "X.25", "id": 65801563, "predecessors": [{"name": "Network_protocols", "id": 754784}, {"name": "OSI_protocols", "id": 1117741}, {"name": "Wide_area_networks", "id": 5013842}], "successors": []}

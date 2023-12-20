@@ -1,1 +1,1 @@
-{"name": "British_chemical_engineers", "id": 11311425, "predecessors": [{"name": "Chemical_industry_in_the_United_Kingdom", "id": 53075485}], "successors": [{"name": "Fellows_of_the_Institution_of_Chemical_Engineers", "id": 59387617}]}
+{"name": "British_chemical_engineers", "id": 11311425, "predecessors": [{"name": "British_chemists", "id": 1336831}, {"name": "Chemical_industry_in_the_United_Kingdom", "id": 53075485}], "successors": [{"name": "Fellows_of_the_Institution_of_Chemical_Engineers", "id": 59387617}]}

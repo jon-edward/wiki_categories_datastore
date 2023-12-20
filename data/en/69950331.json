@@ -1,1 +1,1 @@
-{"name": "Swedish_Golf_Tour", "id": 69950331, "predecessors": [{"name": "Professional_golf_tours", "id": 1324713}], "successors": [{"name": "Swedish_Golf_Tour_events", "id": 64309654}]}
+{"name": "Swedish_Golf_Tour", "id": 69950331, "predecessors": [{"name": "European_international_sports_competitions", "id": 43128524}, {"name": "Professional_golf_tours", "id": 1324713}], "successors": [{"name": "Swedish_Golf_Tour_events", "id": 64309654}]}

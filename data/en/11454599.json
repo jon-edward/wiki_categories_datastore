@@ -1,0 +1,1 @@
+{"name": "Wildfires_in_California", "id": 11454599, "predecessors": [{"name": "Environment_of_California", "id": 10334456}, {"name": "Fires_in_California", "id": 11404652}, {"name": "Natural_disasters_in_California", "id": 11454654}], "successors": [{"name": "Wildfires_in_California_by_year", "id": 41670559}, {"name": "California_wildfires_caused_by_arson", "id": 66120141}]}

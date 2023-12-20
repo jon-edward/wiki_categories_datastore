@@ -1,1 +1,1 @@
-{"name": "Possible_world", "id": 37408002, "predecessors": [{"name": "Modal_logic", "id": 744034}], "successors": []}
+{"name": "Possible_world", "id": 37408002, "predecessors": [{"name": "Modal_logic", "id": 744034}, {"name": "Modal_metaphysics", "id": 73766058}, {"name": "Possibility", "id": 22170324}], "successors": []}

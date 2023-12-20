@@ -1,1 +1,0 @@
-{"name": "Sensor", "id": 1596632, "predecessors": [{"name": "Elektrisches_Bauelement", "id": 1695030}, {"name": "Messgerät", "id": 261351}, {"name": "Sensorik", "id": 2319976}], "successors": [{"name": "Bildsensor", "id": 1592578}, {"name": "Tonabnehmer", "id": 6805404}]}

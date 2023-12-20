@@ -1,1 +1,1 @@
-{"name": "Thai_restaurants", "id": 38283870, "predecessors": [{"name": "Ethnicity", "id": 787548}], "successors": []}
+{"name": "Thai_restaurants", "id": 38283870, "predecessors": [{"name": "Thai_cuisine", "id": 873319}, {"name": "Asian_cuisine", "id": 2112752}], "successors": []}

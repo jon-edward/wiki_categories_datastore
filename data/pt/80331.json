@@ -1,1 +1,0 @@
-{"name": "Núcleo_de_sistema_operativo", "id": 80331, "predecessors": [{"name": "Arquitetura_de_computadores", "id": 64279}, {"name": "Tecnologia_dos_sistemas_operacionais", "id": 3761009}], "successors": [{"name": "Micronúcleo", "id": 4275727}, {"name": "Núcleo_do_Linux", "id": 4594608}]}

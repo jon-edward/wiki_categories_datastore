@@ -1,1 +1,1 @@
-{"name": "Muscular_disorders", "id": 2900731, "predecessors": [{"name": "Muscular_system", "id": 726229}, {"name": "Soft_tissue_disorders", "id": 24771435}], "successors": []}
+{"name": "Muscular_disorders", "id": 2900731, "predecessors": [{"name": "Muscular_system", "id": 726229}, {"name": "Musculoskeletal_disorders", "id": 2900721}, {"name": "Soft_tissue_disorders", "id": 24771435}], "successors": []}

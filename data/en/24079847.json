@@ -1,1 +1,1 @@
-{"name": "Uncooked_fish_dishes", "id": 24079847, "predecessors": [{"name": "Raw_foods", "id": 27462000}], "successors": [{"name": "Fermented_fish", "id": 52233504}]}
+{"name": "Uncooked_fish_dishes", "id": 24079847, "predecessors": [{"name": "Fish_dishes", "id": 16096793}, {"name": "Raw_foods", "id": 27462000}], "successors": [{"name": "Fermented_fish", "id": 52233504}]}

@@ -1,1 +1,1 @@
-{"name": "Druhy_oběžných_drah", "id": 948327, "predecessors": [{"name": "Astrodynamika", "id": 373100}], "successors": [{"name": "Elementy_dráhy", "id": 884533}]}
+{"name": "Druhy_oběžných_drah", "id": 948327, "predecessors": [{"name": "Oběžná_dráha", "id": 948323}], "successors": [{"name": "Elementy_dráhy", "id": 884533}]}

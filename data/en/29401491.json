@@ -1,1 +1,1 @@
-{"name": "Mining_rescues", "id": 29401491, "predecessors": [{"name": "Mine_safety", "id": 13127767}], "successors": [{"name": "2010_Copiapó_mining_accident", "id": 29172577}]}
+{"name": "Mining_rescues", "id": 29401491, "predecessors": [{"name": "Mine_safety", "id": 13127767}, {"name": "Rescue", "id": 1013590}], "successors": [{"name": "2010_Copiapó_mining_accident", "id": 29172577}]}

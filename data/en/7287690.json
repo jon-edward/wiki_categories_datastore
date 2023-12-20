@@ -1,1 +1,1 @@
-{"name": "American_football_strategy", "id": 7287690, "predecessors": [{"name": "Strategy", "id": 4685400}, {"name": "Football_codes", "id": 27631491}], "successors": [{"name": "American_football_formations", "id": 7620179}]}
+{"name": "American_football_strategy", "id": 7287690, "predecessors": [{"name": "Sports", "id": 693708}, {"name": "Football_codes", "id": 27631491}], "successors": [{"name": "American_football_formations", "id": 7620179}]}

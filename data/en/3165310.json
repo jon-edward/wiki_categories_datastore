@@ -1,1 +1,1 @@
-{"name": "Symmetric_functions", "id": 3165310, "predecessors": [{"name": "Invariant_theory", "id": 1089492}, {"name": "Polynomials", "id": 771700}, {"name": "Symmetry", "id": 2320527}], "successors": []}
+{"name": "Symmetric_functions", "id": 3165310, "predecessors": [{"name": "Algebra", "id": 690637}, {"name": "Invariant_theory", "id": 1089492}, {"name": "Polynomials", "id": 771700}, {"name": "Symmetry", "id": 2320527}], "successors": []}

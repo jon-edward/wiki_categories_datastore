@@ -1,1 +1,1 @@
-{"name": "Lightweight_Unix-like_systems", "id": 24290877, "predecessors": [{"name": "Unix_variants", "id": 10429397}], "successors": [{"name": "OpenBSD", "id": 4693625}, {"name": "Light-weight_Linux_distributions", "id": 10919392}]}
+{"name": "Lightweight_Unix-like_systems", "id": 24290877, "predecessors": [{"name": "Unix", "id": 880814}, {"name": "Unix_variants", "id": 10429397}], "successors": [{"name": "OpenBSD", "id": 4693625}, {"name": "Light-weight_Linux_distributions", "id": 10919392}, {"name": "MINIX", "id": 55753565}]}

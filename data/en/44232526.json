@@ -1,1 +1,1 @@
-{"name": "Fish_subfamilies", "id": 44232526, "predecessors": [{"name": "Superphyla", "id": 52195996}], "successors": [{"name": "Ray-finned_fish_subfamilies", "id": 57331741}]}
+{"name": "Fish_subfamilies", "id": 44232526, "predecessors": [{"name": "Chordates", "id": 912575}, {"name": "Aquatic_animals", "id": 43539222}], "successors": [{"name": "Ray-finned_fish_subfamilies", "id": 57331741}]}

@@ -1,1 +1,1 @@
-{"name": "FK_Teplice_players", "id": 5012569, "predecessors": [{"name": "Football_clubs_in_the_Czech_Republic", "id": 34429210}], "successors": []}
+{"name": "FK_Teplice_players", "id": 5012569, "predecessors": [{"name": "Football_clubs_in_the_Czech_Republic", "id": 34429210}, {"name": "Football_in_the_Czech_Republic", "id": 3064094}], "successors": []}

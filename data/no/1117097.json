@@ -1,1 +1,1 @@
-{"name": "Jernbanestrekninger_i_Akershus", "id": 1117097, "predecessors": [{"name": "Jernbane_i_Norge", "id": 39893}, {"name": "Byggverk_i_Norge", "id": 1073706}], "successors": [{"name": "Follobanen", "id": 1443178}]}
+{"name": "Jernbanestrekninger_i_Akershus", "id": 1117097, "predecessors": [{"name": "Jernbane_i_Norge", "id": 39893}, {"name": "Transport_i_Akershus", "id": 103065}], "successors": [{"name": "Follobanen", "id": 1443178}]}

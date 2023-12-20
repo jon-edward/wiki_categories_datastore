@@ -1,1 +1,1 @@
-{"name": "Chilean_alcoholic_drinks", "id": 24686539, "predecessors": [{"name": "Alcohol_by_country", "id": 24323097}], "successors": [{"name": "Wineries_of_Chile", "id": 10137788}]}
+{"name": "Chilean_alcoholic_drinks", "id": 24686539, "predecessors": [{"name": "Chilean_cuisine", "id": 2035190}, {"name": "Alcohol_by_country", "id": 24323097}], "successors": [{"name": "Wineries_of_Chile", "id": 10137788}]}

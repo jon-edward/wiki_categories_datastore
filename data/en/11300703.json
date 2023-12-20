@@ -1,1 +1,1 @@
-{"name": "Formula_SAE", "id": 11300703, "predecessors": [{"name": "Formula_racing", "id": 3460564}, {"name": "Student_sports_competitions", "id": 61778136}, {"name": "Engineering_competitions", "id": 31339785}], "successors": []}
+{"name": "Formula_SAE", "id": 11300703, "predecessors": [{"name": "Engineering_education", "id": 6643701}, {"name": "Formula_racing", "id": 3460564}, {"name": "Student_sports_competitions", "id": 61778136}, {"name": "Engineering_competitions", "id": 31339785}], "successors": []}

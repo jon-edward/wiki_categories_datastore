@@ -1,1 +1,1 @@
-{"name": "Events_in_Miami", "id": 53456252, "predecessors": [{"name": "Cities_in_Miami-Dade_County,_Florida", "id": 7200020}], "successors": [{"name": "Sports_competitions_in_Miami", "id": 53456245}]}
+{"name": "Events_in_Miami", "id": 53456252, "predecessors": [{"name": "Cities_in_Florida", "id": 896762}, {"name": "Events_in_Florida", "id": 37325621}], "successors": [{"name": "Sports_competitions_in_Miami", "id": 53456245}]}

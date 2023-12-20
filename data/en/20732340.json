@@ -1,1 +1,1 @@
-{"name": "Football_clubs_in_Vojvodina", "id": 20732340, "predecessors": [{"name": "Football_clubs_in_Serbia", "id": 34432988}], "successors": [{"name": "FK_Vojvodina_players", "id": 4703180}, {"name": "FK_Vojvodina_managers", "id": 22675044}, {"name": "FK_Cement_Beočin_players", "id": 52106524}]}
+{"name": "Football_clubs_in_Vojvodina", "id": 20732340, "predecessors": [{"name": "Football_clubs_in_Serbia", "id": 34432988}, {"name": "Autonomous_provinces", "id": 31692677}], "successors": [{"name": "FK_Cement_Beočin_players", "id": 52106524}]}

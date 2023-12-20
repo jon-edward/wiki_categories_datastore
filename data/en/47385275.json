@@ -1,1 +1,1 @@
-{"name": "Ships_sunk_by_British_aircraft", "id": 47385275, "predecessors": [{"name": "Aerospace_industry_in_the_United_Kingdom", "id": 39042968}], "successors": [{"name": "U-boats_sunk_by_British_aircraft", "id": 44014564}]}
+{"name": "Ships_sunk_by_British_aircraft", "id": 47385275, "predecessors": [{"name": "Ships_sunk_by_aircraft", "id": 32005715}, {"name": "Aerospace_industry_in_the_United_Kingdom", "id": 39042968}], "successors": [{"name": "U-boats_sunk_by_British_aircraft", "id": 44014564}]}

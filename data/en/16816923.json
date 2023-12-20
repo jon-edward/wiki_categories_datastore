@@ -1,1 +1,1 @@
-{"name": "Silurian_trilobites", "id": 16816923, "predecessors": [{"name": "Silurian_arthropods", "id": 40879769}, {"name": "Paleozoic_invertebrates", "id": 50580224}], "successors": []}
+{"name": "Silurian_trilobites", "id": 16816923, "predecessors": [{"name": "Silurian_arthropods", "id": 40879769}, {"name": "Artiopoda", "id": 63547391}], "successors": [{"name": "Silurian_trilobites_of_Europe", "id": 47622182}, {"name": "Silurian_trilobites_of_North_America", "id": 47622228}]}

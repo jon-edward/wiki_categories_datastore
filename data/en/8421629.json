@@ -1,1 +1,1 @@
-{"name": "Paris_Métro_rolling_stock", "id": 8421629, "predecessors": [{"name": "Paris_Métro", "id": 8421454}, {"name": "Taxonomy", "id": 918375}], "successors": []}
+{"name": "Paris_Métro_rolling_stock", "id": 8421629, "predecessors": [{"name": "Paris_Métro", "id": 8421454}, {"name": "Rolling_stock", "id": 1103564}, {"name": "Vehicles", "id": 694929}], "successors": []}

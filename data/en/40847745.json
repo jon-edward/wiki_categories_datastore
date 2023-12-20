@@ -1,1 +1,1 @@
-{"name": "Cold_fusion", "id": 40847745, "predecessors": [{"name": "Energy_development", "id": 1059057}, {"name": "Fringe_physics", "id": 5401771}, {"name": "Hydrogen", "id": 3459391}, {"name": "Nuclear_fusion", "id": 1019080}], "successors": []}
+{"name": "Cold_fusion", "id": 40847745, "predecessors": [{"name": "Energy_development", "id": 1059057}, {"name": "Fringe_physics", "id": 5401771}, {"name": "Hydrogen", "id": 3459391}, {"name": "Nuclear_fusion", "id": 1019080}, {"name": "Nuclear_physics", "id": 692984}], "successors": []}

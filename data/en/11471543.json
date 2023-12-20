@@ -1,1 +1,1 @@
-{"name": "Natural_disasters_in_New_Jersey", "id": 11471543, "predecessors": [{"name": "Environment_of_New_Jersey", "id": 14407369}, {"name": "History_of_New_Jersey", "id": 3518448}], "successors": []}
+{"name": "Natural_disasters_in_New_Jersey", "id": 11471543, "predecessors": [{"name": "Environment_of_New_Jersey", "id": 14407369}, {"name": "History_of_New_Jersey", "id": 3518448}], "successors": [{"name": "Tornadoes_in_New_Jersey", "id": 30622344}, {"name": "Hurricanes_in_New_Jersey", "id": 30623132}]}

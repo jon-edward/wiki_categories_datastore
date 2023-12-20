@@ -1,1 +1,1 @@
-{"name": "Figurate_numbers", "id": 925128, "predecessors": [{"name": "Integer_sequences", "id": 693721}, {"name": "Numbers", "id": 698425}, {"name": "Polygons", "id": 731055}, {"name": "Polyhedra", "id": 731400}], "successors": []}
+{"name": "Figurate_numbers", "id": 925128, "predecessors": [{"name": "Dot_patterns", "id": 2542605}, {"name": "Integer_sequences", "id": 693721}, {"name": "Numbers", "id": 698425}, {"name": "Polygons", "id": 731055}, {"name": "Polyhedra", "id": 731400}], "successors": []}

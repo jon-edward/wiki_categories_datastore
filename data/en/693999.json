@@ -1,1 +1,1 @@
-{"name": "Differential_operators", "id": 693999, "predecessors": [{"name": "Differential_equations", "id": 696330}, {"name": "Operator_theory", "id": 691908}], "successors": [{"name": "Connection_(mathematics)", "id": 5723727}]}
+{"name": "Differential_operators", "id": 693999, "predecessors": [{"name": "Differential_equations", "id": 696330}, {"name": "Mathematical_analysis", "id": 691875}, {"name": "Multivariable_calculus", "id": 11056269}, {"name": "Operator_theory", "id": 691908}], "successors": [{"name": "Connection_(mathematics)", "id": 5723727}]}

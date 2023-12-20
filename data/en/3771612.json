@@ -1,1 +1,1 @@
-{"name": "Castles_in_Russia", "id": 3771612, "predecessors": [{"name": "Forts_in_Russia", "id": 7902472}], "successors": [{"name": "Kremlins", "id": 27720055}]}
+{"name": "Castles_in_Russia", "id": 3771612, "predecessors": [{"name": "Forts_in_Russia", "id": 7902472}, {"name": "History_of_Russia", "id": 2169965}], "successors": [{"name": "Kremlins", "id": 27720055}]}

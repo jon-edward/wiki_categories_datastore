@@ -1,1 +1,1 @@
-{"name": "Nucleosynthesis", "id": 2777714, "predecessors": [{"name": "Nuclear_fission", "id": 68777847}, {"name": "Nuclear_fusion", "id": 1019080}], "successors": []}
+{"name": "Nucleosynthesis", "id": 2777714, "predecessors": [{"name": "Astrophysics", "id": 698070}, {"name": "Nuclear_fission", "id": 68777847}, {"name": "Nuclear_fusion", "id": 1019080}, {"name": "Nuclear_physics", "id": 692984}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Visual_thinking", "id": 16839095, "predecessors": [{"name": "Vision", "id": 1060974}], "successors": [{"name": "Mental_calculators", "id": 34560666}]}
+{"name": "Visual_thinking", "id": 16839095, "predecessors": [{"name": "Cognition", "id": 1055995}, {"name": "Thought", "id": 983652}, {"name": "Vision", "id": 1060974}], "successors": []}

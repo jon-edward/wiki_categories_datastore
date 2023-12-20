@@ -1,1 +1,1 @@
-{"name": "Painters_from_Berlin", "id": 74511927, "predecessors": [{"name": "Painting", "id": 707606}], "successors": []}
+{"name": "Painters_from_Berlin", "id": 74511927, "predecessors": [{"name": "Artists_from_Berlin", "id": 32933237}, {"name": "Painting", "id": 707606}], "successors": []}

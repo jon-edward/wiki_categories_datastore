@@ -1,1 +1,1 @@
-{"name": "Lancia_trucks", "id": 40224619, "predecessors": [{"name": "Lancia_vehicles", "id": 1047110}, {"name": "Manufactured_goods", "id": 699552}], "successors": []}
+{"name": "Lancia_trucks", "id": 40224619, "predecessors": [{"name": "Lancia_vehicles", "id": 1047110}, {"name": "Road_transport_in_Italy", "id": 23798229}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Vertebrate_developmental_biology", "id": 55565267, "predecessors": [{"name": "Animal_developmental_biology", "id": 55563424}, {"name": "Superphyla", "id": 52195996}], "successors": [{"name": "Human_development", "id": 981229}]}
+{"name": "Vertebrate_developmental_biology", "id": 55565267, "predecessors": [{"name": "Animal_developmental_biology", "id": 55563424}, {"name": "Chordates", "id": 912575}], "successors": [{"name": "Human_development", "id": 981229}]}

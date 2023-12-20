@@ -1,1 +1,1 @@
-{"name": "Plant_physiologists", "id": 37411352, "predecessors": [{"name": "Plant_physiology", "id": 717191}, {"name": "Medical_researchers", "id": 2986153}], "successors": []}
+{"name": "Plant_physiologists", "id": 37411352, "predecessors": [{"name": "Physiologists", "id": 905822}, {"name": "Plant_physiology", "id": 717191}, {"name": "Branches_of_biology", "id": 37535091}], "successors": []}

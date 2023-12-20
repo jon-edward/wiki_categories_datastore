@@ -1,1 +1,1 @@
-{"name": "Telebista_generoak", "id": 719243, "predecessors": [{"name": "Arte-generoak", "id": 579300}, {"name": "Telebista", "id": 6159}], "successors": [{"name": "Dokumentalak", "id": 40652}, {"name": "Espainiako_telefilmak", "id": 970608}, {"name": "Ameriketako_Estatu_Batuetako_telefilmak", "id": 970612}, {"name": "Euskal_Herriko_telefilmak", "id": 970613}]}
+{"name": "Telebista_generoak", "id": 719243, "predecessors": [{"name": "Arte-generoak", "id": 579300}, {"name": "Telebista", "id": 6159}], "successors": [{"name": "Dokumentalak", "id": 40652}]}

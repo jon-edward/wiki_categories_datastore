@@ -1,1 +1,1 @@
-{"name": "Japanese_music_critics", "id": 9649970, "predecessors": [{"name": "Music_critics", "id": 736693}], "successors": []}
+{"name": "Japanese_music_critics", "id": 9649970, "predecessors": [{"name": "Japanese_critics", "id": 24373214}, {"name": "Japanese_journalists", "id": 8788572}, {"name": "Music_critics", "id": 736693}, {"name": "Japanese_music", "id": 713836}], "successors": []}

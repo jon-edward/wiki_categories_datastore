@@ -1,1 +1,1 @@
-{"name": "Corris", "id": 38879996, "predecessors": [{"name": "Mining_communities_in_Wales", "id": 23318478}], "successors": []}
+{"name": "Corris", "id": 38879996, "predecessors": [{"name": "Communities_in_Gwynedd", "id": 21125792}, {"name": "Mining_communities_in_Wales", "id": 23318478}, {"name": "Villages_in_Gwynedd", "id": 3409091}], "successors": [{"name": "Aberllefenni", "id": 61717699}]}

@@ -1,1 +1,1 @@
-{"name": "Medieval_Gaels", "id": 3374320, "predecessors": [{"name": "Middle_Ages", "id": 1016633}], "successors": [{"name": "Norse-Gaels", "id": 6387642}]}
+{"name": "Medieval_Gaels", "id": 3374320, "predecessors": [{"name": "Gaels", "id": 7350384}, {"name": "Middle_Ages", "id": 1016633}], "successors": [{"name": "Norse-Gaels", "id": 6387642}, {"name": "Medieval_Gaels_from_Scotland", "id": 48553756}, {"name": "Medieval_Gaels_from_Ireland", "id": 48553767}]}

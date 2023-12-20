@@ -1,1 +1,1 @@
-{"name": "Residential_skyscrapers_in_San_Francisco", "id": 26068762, "predecessors": [{"name": "Residential_buildings_in_San_Francisco", "id": 19395395}, {"name": "Housing_in_California", "id": 65638263}], "successors": []}
+{"name": "Residential_skyscrapers_in_San_Francisco", "id": 26068762, "predecessors": [{"name": "Residential_buildings_in_San_Francisco", "id": 19395395}, {"name": "Skyscrapers_in_San_Francisco", "id": 21808048}, {"name": "Skyscrapers_in_California", "id": 10540406}], "successors": []}

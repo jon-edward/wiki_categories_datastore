@@ -1,1 +1,1 @@
-{"name": "Business_occupations", "id": 787615, "predecessors": [{"name": "Business", "id": 771152}, {"name": "Employment_classifications", "id": 15387066}], "successors": [{"name": "Management_occupations", "id": 787595}, {"name": "Consulting_occupations", "id": 32493006}]}
+{"name": "Business_occupations", "id": 787615, "predecessors": [{"name": "Business", "id": 771152}, {"name": "Professionals", "id": 71864158}], "successors": [{"name": "Management_occupations", "id": 787595}, {"name": "Consulting_occupations", "id": 32493006}]}

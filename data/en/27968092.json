@@ -1,1 +1,1 @@
-{"name": "Scheduled_events", "id": 27968092, "predecessors": [{"name": "Prediction", "id": 1436435}], "successors": [{"name": "Scheduled_sports_events", "id": 30256818}, {"name": "2023_awards", "id": 72340700}]}
+{"name": "Scheduled_events", "id": 27968092, "predecessors": [{"name": "Prediction", "id": 1436435}], "successors": [{"name": "Scheduled_sports_events", "id": 30256818}, {"name": "2023_awards", "id": 72340700}, {"name": "2024_beauty_pageants", "id": 73312390}]}

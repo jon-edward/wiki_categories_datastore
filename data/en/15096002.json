@@ -1,1 +1,1 @@
-{"name": "Goldman_Sachs", "id": 15096002, "predecessors": [{"name": "Banks_based_in_New_York_City", "id": 19865630}, {"name": "Investment_banks_in_the_United_States", "id": 40414273}], "successors": []}
+{"name": "Goldman_Sachs", "id": 15096002, "predecessors": [{"name": "Banks_based_in_New_York_City", "id": 19865630}, {"name": "Investment_banks_in_the_United_States", "id": 40414273}], "successors": [{"name": "Goldman_Sachs_people", "id": 14513593}]}

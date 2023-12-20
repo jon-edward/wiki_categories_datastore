@@ -1,1 +1,1 @@
-{"name": "Volvo_Trucks_vehicles", "id": 44756281, "predecessors": [{"name": "Goods_manufactured_in_Sweden", "id": 36923938}, {"name": "Manufactured_goods", "id": 699552}], "successors": []}
+{"name": "Volvo_Trucks_vehicles", "id": 44756281, "predecessors": [{"name": "Goods_manufactured_in_Sweden", "id": 36923938}, {"name": "Volvo_Trucks", "id": 21309541}, {"name": "Vehicles", "id": 694929}], "successors": []}

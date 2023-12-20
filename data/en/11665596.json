@@ -1,1 +1,1 @@
-{"name": "Medieval_armour", "id": 11665596, "predecessors": [{"name": "Body_armor", "id": 11665620}, {"name": "Medieval_defences", "id": 23962925}, {"name": "Militaria", "id": 7943754}], "successors": []}
+{"name": "Medieval_armour", "id": 11665596, "predecessors": [{"name": "Body_armor", "id": 11665620}, {"name": "History_of_clothing_(Western_fashion)", "id": 5674990}, {"name": "Medieval_defences", "id": 23962925}, {"name": "Militaria", "id": 7943754}], "successors": [{"name": "Medieval_helmets", "id": 4386116}]}

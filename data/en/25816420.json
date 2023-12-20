@@ -1,1 +1,1 @@
-{"name": "2010_Haiti_earthquake_relief", "id": 25816420, "predecessors": [{"name": "Humanitarian_aid", "id": 1064501}], "successors": []}
+{"name": "2010_Haiti_earthquake_relief", "id": 25816420, "predecessors": [{"name": "2010_Haiti_earthquake", "id": 25793134}, {"name": "Humanitarian_aid", "id": 1064501}], "successors": []}

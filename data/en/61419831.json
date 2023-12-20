@@ -1,1 +1,1 @@
-{"name": "Dengue_fever_outbreaks", "id": 61419831, "predecessors": [{"name": "Dengue_fever", "id": 39990326}, {"name": "Hemorrhagic_fevers", "id": 7295649}], "successors": []}
+{"name": "Dengue_fever_outbreaks", "id": 61419831, "predecessors": [{"name": "Dengue_fever", "id": 39990326}, {"name": "Disease_outbreaks", "id": 33346982}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Spacecraft_launched_by_the_Space_Shuttle", "id": 40443273, "predecessors": [{"name": "Space_launch_vehicles", "id": 762771}], "successors": []}
+{"name": "Spacecraft_launched_by_the_Space_Shuttle", "id": 40443273, "predecessors": [{"name": "Space_Shuttle_program", "id": 856304}, {"name": "Space_launch_vehicles", "id": 762771}], "successors": []}

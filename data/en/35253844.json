@@ -1,1 +1,1 @@
-{"name": "Engine_lubrication_systems", "id": 35253844, "predecessors": [{"name": "Engine_components", "id": 21627526}, {"name": "Engine_technology", "id": 1124196}, {"name": "Automotive_technologies", "id": 859604}], "successors": [{"name": "Motor_oils", "id": 3385365}]}
+{"name": "Engine_lubrication_systems", "id": 35253844, "predecessors": [{"name": "Automotive_engine_technologies", "id": 34548853}, {"name": "Engine_components", "id": 21627526}, {"name": "Engine_technology", "id": 1124196}], "successors": [{"name": "Motor_oils", "id": 3385365}]}

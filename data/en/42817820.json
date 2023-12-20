@@ -1,1 +1,1 @@
-{"name": "Bird_superfamilies", "id": 42817820, "predecessors": [{"name": "Vertebrate_superfamilies", "id": 49554219}], "successors": []}
+{"name": "Bird_superfamilies", "id": 42817820, "predecessors": [{"name": "Vertebrate_superfamilies", "id": 49554219}, {"name": "Chordates", "id": 912575}], "successors": []}

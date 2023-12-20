@@ -1,1 +1,1 @@
-{"name": "Structured_finance", "id": 2334041, "predecessors": [{"name": "Bonds_(finance)", "id": 41030260}, {"name": "Financial_law", "id": 57272655}], "successors": [{"name": "Mortgage-backed_security", "id": 5386911}]}
+{"name": "Structured_finance", "id": 2334041, "predecessors": [{"name": "Bonds_(finance)", "id": 41030260}, {"name": "Corporate_finance", "id": 1654984}, {"name": "Financial_law", "id": 57272655}], "successors": [{"name": "Mortgage-backed_security", "id": 5386911}]}

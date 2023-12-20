@@ -1,1 +1,1 @@
-{"name": "Audio_amplifier_specifications", "id": 49431983, "predecessors": [{"name": "Audio_electronics", "id": 11387266}], "successors": []}
+{"name": "Audio_amplifier_specifications", "id": 49431983, "predecessors": [{"name": "Audio_electronics", "id": 11387266}, {"name": "Electrical_engineering", "id": 706415}, {"name": "Electrical_parameters", "id": 12199174}, {"name": "Electronic_engineering", "id": 2909311}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Grottoes", "id": 22176300, "predecessors": [{"name": "Buildings_and_structures_by_type", "id": 6884364}, {"name": "Erosion_landforms", "id": 11063669}], "successors": [{"name": "Chinese_Buddhist_grottoes", "id": 32322566}, {"name": "Shell_grottoes", "id": 58029909}]}
+{"name": "Grottoes", "id": 22176300, "predecessors": [{"name": "Buildings_and_structures_by_type", "id": 6884364}, {"name": "Caves", "id": 824482}], "successors": [{"name": "Chinese_Buddhist_grottoes", "id": 32322566}, {"name": "Shell_grottoes", "id": 58029909}]}

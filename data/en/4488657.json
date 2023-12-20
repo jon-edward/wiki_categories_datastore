@@ -1,1 +1,1 @@
-{"name": "Hospitals_in_Wisconsin", "id": 4488657, "predecessors": [{"name": "Health_care", "id": 35880954}], "successors": []}
+{"name": "Hospitals_in_Wisconsin", "id": 4488657, "predecessors": [{"name": "Healthcare_in_Wisconsin", "id": 26200637}, {"name": "Medical_and_health_organizations_based_in_Wisconsin", "id": 54390628}], "successors": [{"name": "Hospital_buildings_on_the_National_Register_of_Historic_Places_in_Wisconsin", "id": 38677173}]}

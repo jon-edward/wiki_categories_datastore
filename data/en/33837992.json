@@ -1,1 +1,1 @@
-{"name": "Privately_held_companies_based_in_New_York_City", "id": 33837992, "predecessors": [{"name": "Companies_based_in_New_York_City", "id": 1433598}], "successors": [{"name": "Hearst_Communications", "id": 34823061}]}
+{"name": "Privately_held_companies_based_in_New_York_City", "id": 33837992, "predecessors": [{"name": "Companies_based_in_New_York_City", "id": 1433598}, {"name": "Privately_held_companies_based_in_New_York_(state)", "id": 32093951}], "successors": [{"name": "Hearst_Communications", "id": 34823061}]}

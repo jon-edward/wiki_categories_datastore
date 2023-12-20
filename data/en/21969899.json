@@ -1,1 +1,1 @@
-{"name": "Nerves_of_the_head_and_neck", "id": 21969899, "predecessors": [{"name": "Human_head_and_neck", "id": 36703875}], "successors": []}
+{"name": "Nerves_of_the_head_and_neck", "id": 21969899, "predecessors": [{"name": "Human_head_and_neck", "id": 36703875}, {"name": "Nerves", "id": 19827041}], "successors": [{"name": "Cranial_nerves", "id": 1198302}]}

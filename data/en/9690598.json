@@ -1,1 +1,1 @@
-{"name": "British_puddings", "id": 9690598, "predecessors": [{"name": "Puddings", "id": 2183068}], "successors": []}
+{"name": "British_puddings", "id": 9690598, "predecessors": [{"name": "British_cuisine", "id": 694858}, {"name": "Puddings", "id": 2183068}], "successors": []}

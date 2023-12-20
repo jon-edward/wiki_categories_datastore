@@ -1,1 +1,1 @@
-{"name": "Sulfur_oxyanions", "id": 8269933, "predecessors": [{"name": "Sulfur_ions", "id": 40518307}, {"name": "Oxyanions", "id": 3368648}], "successors": [{"name": "Sulfates", "id": 698800}]}
+{"name": "Sulfur_oxyanions", "id": 8269933, "predecessors": [{"name": "Sulfur_ions", "id": 40518307}, {"name": "Oxyanions", "id": 3368648}], "successors": [{"name": "Sulfates", "id": 698800}, {"name": "Sulfites", "id": 2021275}, {"name": "Persulfates", "id": 5063487}]}

@@ -1,1 +1,1 @@
-{"name": "Fire_protection_organizations", "id": 21148303, "predecessors": [{"name": "Fire_prevention", "id": 3331056}, {"name": "Fire_protection", "id": 5634220}], "successors": [{"name": "Firefighters_associations", "id": 8294612}]}
+{"name": "Fire_protection_organizations", "id": 21148303, "predecessors": [{"name": "Fire_prevention", "id": 3331056}, {"name": "Fire_protection", "id": 5634220}, {"name": "Safety_organizations", "id": 2746706}], "successors": [{"name": "Firefighters_associations", "id": 8294612}]}

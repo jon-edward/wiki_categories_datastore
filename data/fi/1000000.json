@@ -1,1 +1,1 @@
-{"name": "Sveitsiläiset_soutajat", "id": 1000000, "predecessors": [{"name": "Sveitsiläiset_henkilöt", "id": 143943}, {"name": "Urheilu", "id": 18692}], "successors": []}
+{"name": "Sveitsiläiset_soutajat", "id": 1000000, "predecessors": [{"name": "Soutu", "id": 41712}, {"name": "Sveitsiläiset_henkilöt", "id": 143943}], "successors": []}

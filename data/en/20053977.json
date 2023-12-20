@@ -1,1 +1,1 @@
-{"name": "Gastrointestinal_cancer", "id": 20053977, "predecessors": [{"name": "Digestive_system_neoplasia", "id": 32510846}], "successors": [{"name": "Pancreatic_cancer", "id": 43871760}, {"name": "Colorectal_cancer", "id": 43871855}]}
+{"name": "Gastrointestinal_cancer", "id": 20053977, "predecessors": [{"name": "Digestive_system_neoplasia", "id": 32510846}], "successors": [{"name": "Pancreatic_cancer", "id": 43871760}, {"name": "Colorectal_cancer", "id": 43871855}, {"name": "Deaths_from_stomach_cancer", "id": 18669637}]}

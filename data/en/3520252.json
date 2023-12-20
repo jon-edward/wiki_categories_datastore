@@ -1,1 +1,1 @@
-{"name": "Pop_punk_musicians", "id": 3520252, "predecessors": [{"name": "Pop_music_genres", "id": 2567688}], "successors": [{"name": "Pop_punk_groups", "id": 1273083}, {"name": "Pop_punk_singers", "id": 25131707}, {"name": "Emo_rap_musicians", "id": 57435439}]}
+{"name": "Pop_punk_musicians", "id": 3520252, "predecessors": [{"name": "Punk_rock_genres", "id": 43064989}], "successors": [{"name": "Pop_punk_groups", "id": 1273083}, {"name": "Pop_punk_singers", "id": 25131707}, {"name": "Emo_rap_musicians", "id": 57435439}]}

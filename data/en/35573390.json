@@ -1,1 +1,1 @@
-{"name": "Mobile_security", "id": 35573390, "predecessors": [{"name": "Computer_security", "id": 765969}], "successors": []}
+{"name": "Mobile_security", "id": 35573390, "predecessors": [{"name": "Computer_security", "id": 765969}, {"name": "Mobile_technology", "id": 15878432}], "successors": []}

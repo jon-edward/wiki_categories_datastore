@@ -1,1 +1,1 @@
-{"name": "Synthetic_fibers", "id": 3447161, "predecessors": [{"name": "Fibers", "id": 1436866}, {"name": "Plastics", "id": 2206328}, {"name": "Artificial_materials", "id": 51591971}], "successors": []}
+{"name": "Synthetic_fibers", "id": 3447161, "predecessors": [{"name": "Fibers", "id": 1436866}, {"name": "Plastics", "id": 2206328}, {"name": "Synthetic_materials", "id": 2018552}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Historical_continents", "id": 1047333, "predecessors": [{"name": "Continents", "id": 788686}, {"name": "Paleogeography", "id": 2256426}, {"name": "Cartography", "id": 716309}], "successors": []}
+{"name": "Historical_continents", "id": 1047333, "predecessors": [{"name": "Continents", "id": 788686}, {"name": "Historical_geology", "id": 1150528}, {"name": "Paleogeography", "id": 2256426}, {"name": "Plate_tectonics", "id": 717341}, {"name": "Cartography", "id": 716309}], "successors": [{"name": "Former_supercontinents", "id": 56675409}]}

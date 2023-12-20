@@ -1,1 +1,1 @@
-{"name": "Royal_Academicians", "id": 6402021, "predecessors": [{"name": "Art_museums_and_galleries_in_London", "id": 2742259}, {"name": "Arts_organizations", "id": 4295481}], "successors": [{"name": "Honorary_Members_of_the_Royal_Academy", "id": 56393454}]}
+{"name": "Royal_Academicians", "id": 6402021, "predecessors": [{"name": "Royal_Academy", "id": 26421579}, {"name": "Arts_organizations", "id": 4295481}], "successors": [{"name": "Honorary_Members_of_the_Royal_Academy", "id": 56393454}]}

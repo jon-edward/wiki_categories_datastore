@@ -1,1 +1,1 @@
-{"name": "Information_technology_projects", "id": 12959651, "predecessors": [{"name": "Engineering_projects", "id": 10548354}], "successors": [{"name": "Software_projects", "id": 8853166}, {"name": "Distributed_computing_projects", "id": 10141883}]}
+{"name": "Information_technology_projects", "id": 12959651, "predecessors": [{"name": "Engineering_projects", "id": 10548354}, {"name": "Information_technology", "id": 700911}], "successors": [{"name": "Software_projects", "id": 8853166}, {"name": "Distributed_computing_projects", "id": 10141883}]}

@@ -1,1 +1,1 @@
-{"name": "Deaths_due_to_shark_attacks", "id": 22807202, "predecessors": [{"name": "Shark_attacks", "id": 38428261}, {"name": "Fish_and_humans", "id": 48544133}], "successors": []}
+{"name": "Deaths_due_to_shark_attacks", "id": 22807202, "predecessors": [{"name": "Shark_attack_victims", "id": 38428309}, {"name": "Shark_attacks", "id": 38428261}, {"name": "Fish_and_humans", "id": 48544133}], "successors": []}

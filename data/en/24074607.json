@@ -1,1 +1,1 @@
-{"name": "Byzantine_usurpers", "id": 24074607, "predecessors": [{"name": "Byzantine_rebels", "id": 23958541}, {"name": "Government_of_the_Byzantine_Empire", "id": 13375087}, {"name": "Roman_emperors", "id": 700918}], "successors": [{"name": "Byzantine_pretenders_after_1453", "id": 68714495}]}
+{"name": "Byzantine_usurpers", "id": 24074607, "predecessors": [{"name": "Byzantine_rebels", "id": 23958541}, {"name": "Byzantine_Empire", "id": 718686}, {"name": "Africa", "id": 697008}], "successors": [{"name": "Byzantine_pretenders_after_1453", "id": 68714495}]}

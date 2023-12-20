@@ -1,1 +1,1 @@
-{"name": "Sähköautot", "id": 311381, "predecessors": [{"name": "Autotekniikka", "id": 253912}, {"name": "Kulkuneuvot", "id": 463377}], "successors": []}
+{"name": "Sähköautot", "id": 311381, "predecessors": [{"name": "Autotekniikka", "id": 253912}, {"name": "Ilmastonmuutos", "id": 165623}, {"name": "Tieliikenne", "id": 53115}, {"name": "Ympäristönsuojelu", "id": 27709}, {"name": "Ajoneuvot", "id": 463418}], "successors": []}

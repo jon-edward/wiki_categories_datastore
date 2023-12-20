@@ -1,1 +1,1 @@
-{"name": "AROS_software", "id": 28075264, "predecessors": [{"name": "Amiga", "id": 1863151}], "successors": []}
+{"name": "AROS_software", "id": 28075264, "predecessors": [{"name": "Amiga", "id": 1863151}, {"name": "Operating_systems", "id": 693664}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Bees", "id": 1131326, "predecessors": [{"name": "Beekeeping", "id": 1399146}], "successors": [{"name": "Beekeeping", "id": 1399146}]}
+{"name": "Bees", "id": 1131326, "predecessors": [{"name": "Beekeeping", "id": 1399146}, {"name": "Apocrita", "id": 23635036}], "successors": [{"name": "Beekeeping", "id": 1399146}, {"name": "Bee_ecology", "id": 48814755}, {"name": "Bees_in_popular_culture", "id": 50051099}, {"name": "Fossil_bee_taxa", "id": 53847778}]}

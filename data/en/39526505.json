@@ -1,1 +1,1 @@
-{"name": "Water_treaties", "id": 39526505, "predecessors": [{"name": "Environmental_treaties", "id": 39463015}, {"name": "Water_law", "id": 12072633}], "successors": [{"name": "Fisheries_treaties", "id": 40950625}]}
+{"name": "Water_treaties", "id": 39526505, "predecessors": [{"name": "Environmental_treaties", "id": 39463015}, {"name": "Water_conflicts", "id": 36888228}, {"name": "Water_law", "id": 12072633}], "successors": [{"name": "Fisheries_treaties", "id": 40950625}]}

@@ -1,1 +1,1 @@
-{"name": "Gardening_books", "id": 23828944, "predecessors": [{"name": "Gardening_aids", "id": 21250113}], "successors": []}
+{"name": "Gardening_books", "id": 23828944, "predecessors": [{"name": "Nature_books", "id": 24957660}, {"name": "Gardening_aids", "id": 21250113}], "successors": [{"name": "Garden_writers", "id": 3577932}]}

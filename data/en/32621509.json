@@ -1,1 +1,1 @@
-{"name": "Congenital_disorders_of_eyes", "id": 32621509, "predecessors": [{"name": "Eye_diseases", "id": 26710333}], "successors": []}
+{"name": "Congenital_disorders_of_eyes", "id": 32621509, "predecessors": [{"name": "Congenital_disorders_of_eye,_ear,_face_and_neck", "id": 26122387}, {"name": "Eye_diseases", "id": 26710333}], "successors": []}

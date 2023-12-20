@@ -1,1 +1,1 @@
-{"name": "Twin_performers", "id": 38556101, "predecessors": [{"name": "Entertainer_duos", "id": 37397660}], "successors": [{"name": "Twin_musicians", "id": 37668724}, {"name": "Identical_twin_actresses", "id": 38828568}, {"name": "Identical_twin_male_actors", "id": 40486316}, {"name": "Fraternal_twin_actresses", "id": 40486194}]}
+{"name": "Twin_performers", "id": 38556101, "predecessors": [{"name": "Entertainer_duos", "id": 37397660}, {"name": "Sibling_duos", "id": 3652945}], "successors": [{"name": "Twin_musicians", "id": 37668724}]}

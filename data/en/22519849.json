@@ -1,1 +1,1 @@
-{"name": "Digital_library_software", "id": 22519849, "predecessors": [{"name": "Digital_libraries", "id": 919055}, {"name": "Library_automation", "id": 16709133}], "successors": [{"name": "Institutional_repository_software", "id": 9917701}]}
+{"name": "Digital_library_software", "id": 22519849, "predecessors": [{"name": "Digital_libraries", "id": 919055}, {"name": "Library_and_information_science_software", "id": 20685797}], "successors": [{"name": "Institutional_repository_software", "id": 9917701}]}

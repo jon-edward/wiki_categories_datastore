@@ -1,1 +1,1 @@
-{"name": "Hormonit", "id": 61936, "predecessors": [{"name": "Biomolekyylit", "id": 946191}, {"name": "Fysiologia", "id": 25979}, {"name": "Lääketieteen_erikoisalat", "id": 645775}], "successors": [{"name": "Peptidihormonit", "id": 515948}, {"name": "Steroidihormonit", "id": 524577}]}
+{"name": "Hormonit", "id": 61936, "predecessors": [{"name": "Biomolekyylit", "id": 946191}, {"name": "Endokrinologia", "id": 342069}, {"name": "Fysiologia", "id": 25979}], "successors": [{"name": "Peptidihormonit", "id": 515948}, {"name": "Steroidihormonit", "id": 524577}]}

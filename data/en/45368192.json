@@ -1,1 +1,1 @@
-{"name": "Kneeling", "id": 45368192, "predecessors": [{"name": "Gestures_of_respect", "id": 42462739}, {"name": "Human_positions", "id": 34802160}], "successors": []}
+{"name": "Kneeling", "id": 45368192, "predecessors": [{"name": "Gestures_of_respect", "id": 42462739}, {"name": "Human_positions", "id": 34802160}, {"name": "Knee", "id": 29039054}], "successors": []}

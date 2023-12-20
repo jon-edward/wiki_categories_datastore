@@ -1,1 +1,1 @@
-{"name": "Citrus_hybrids", "id": 34314271, "predecessors": [{"name": "Citrus", "id": 1505085}, {"name": "Hybrid_fruit", "id": 2520602}], "successors": []}
+{"name": "Citrus_hybrids", "id": 34314271, "predecessors": [{"name": "Citrus", "id": 1505085}, {"name": "Hybrid_fruit", "id": 2520602}], "successors": [{"name": "Grapefruit", "id": 10122753}, {"name": "Oranges_(fruit)", "id": 20811559}, {"name": "Limes_(fruit)", "id": 48028385}, {"name": "Lemons", "id": 48113112}]}

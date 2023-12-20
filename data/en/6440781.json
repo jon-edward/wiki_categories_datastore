@@ -1,1 +1,1 @@
-{"name": "Rural_tourism", "id": 6440781, "predecessors": [{"name": "Rural_community_development", "id": 7042395}, {"name": "Rural_economics", "id": 20570566}], "successors": []}
+{"name": "Rural_tourism", "id": 6440781, "predecessors": [{"name": "Rural_community_development", "id": 7042395}, {"name": "Rural_economics", "id": 20570566}, {"name": "Types_of_tourism", "id": 6669410}], "successors": []}

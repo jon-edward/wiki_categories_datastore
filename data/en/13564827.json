@@ -1,1 +1,1 @@
-{"name": "Vehicle_insurance", "id": 13564827, "predecessors": [{"name": "Car_ownership", "id": 42009098}, {"name": "Property_insurance", "id": 51782206}, {"name": "Vehicle_law", "id": 7902308}], "successors": []}
+{"name": "Vehicle_insurance", "id": 13564827, "predecessors": [{"name": "Car_ownership", "id": 42009098}, {"name": "Property_insurance", "id": 51782206}, {"name": "Vehicle_law", "id": 7902308}], "successors": [{"name": "Auto_insurance_in_the_United_States", "id": 34219887}, {"name": "Auto_insurance_in_Canada", "id": 73593338}]}

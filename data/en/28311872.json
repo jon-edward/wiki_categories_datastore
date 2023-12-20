@@ -1,1 +1,1 @@
-{"name": "Painters_from_Lucca", "id": 28311872, "predecessors": [{"name": "Painting", "id": 707606}], "successors": []}
+{"name": "Painters_from_Lucca", "id": 28311872, "predecessors": [{"name": "Artists_from_Lucca", "id": 66321821}, {"name": "Painters_from_Tuscany", "id": 1028118}, {"name": "Italian_artists", "id": 1031803}], "successors": []}

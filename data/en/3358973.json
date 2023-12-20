@@ -1,1 +1,1 @@
-{"name": "Antigout_agents", "id": 3358973, "predecessors": [{"name": "Metabolic_disorders", "id": 966815}], "successors": []}
+{"name": "Antigout_agents", "id": 3358973, "predecessors": [{"name": "Musculoskeletal_system", "id": 800597}, {"name": "Metabolic_disorders", "id": 966815}], "successors": []}

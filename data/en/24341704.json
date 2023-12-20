@@ -1,1 +1,1 @@
-{"name": "Museum_ships_in_France", "id": 24341704, "predecessors": [{"name": "Museums_in_France", "id": 867399}, {"name": "Maritime_museums", "id": 707046}, {"name": "Museum_ships", "id": 741139}], "successors": []}
+{"name": "Museum_ships_in_France", "id": 24341704, "predecessors": [{"name": "Maritime_museums_in_France", "id": 22976962}, {"name": "Museums_in_France", "id": 867399}, {"name": "Museum_ships", "id": 741139}, {"name": "Maritime_history", "id": 3120048}], "successors": []}

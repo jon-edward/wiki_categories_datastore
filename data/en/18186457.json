@@ -1,1 +1,1 @@
-{"name": "Neuropsychological_tests", "id": 18186457, "predecessors": [{"name": "Diagnostic_neurology", "id": 72219889}, {"name": "Psychological_tests_and_scales", "id": 8378411}], "successors": []}
+{"name": "Neuropsychological_tests", "id": 18186457, "predecessors": [{"name": "Diagnostic_neurology", "id": 72219889}, {"name": "Neuropsychological_assessment", "id": 16245547}, {"name": "Psychological_tests_and_scales", "id": 8378411}], "successors": []}

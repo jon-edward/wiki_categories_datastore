@@ -1,1 +1,1 @@
-{"name": "Arthropod_subfamilies", "id": 51837253, "predecessors": [{"name": "Protostome_subfamilies", "id": 52978882}, {"name": "Superphyla", "id": 52195996}], "successors": []}
+{"name": "Arthropod_subfamilies", "id": 51837253, "predecessors": [{"name": "Protostome_subfamilies", "id": 52978882}, {"name": "Superphyla", "id": 52195996}], "successors": [{"name": "Insect_subfamilies", "id": 48191471}, {"name": "Spider_subfamilies", "id": 66515229}]}

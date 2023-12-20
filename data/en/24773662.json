@@ -1,1 +1,1 @@
-{"name": "Gazprom_oil_and_gas_fields", "id": 24773662, "predecessors": [{"name": "Gazprom", "id": 4449146}], "successors": []}
+{"name": "Gazprom_oil_and_gas_fields", "id": 24773662, "predecessors": [{"name": "Gazprom", "id": 4449146}, {"name": "Natural_gas_fields_in_Russia", "id": 17973520}, {"name": "Oil_fields_of_Russia", "id": 3374471}], "successors": []}

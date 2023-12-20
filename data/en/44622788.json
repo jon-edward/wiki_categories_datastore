@@ -1,1 +1,1 @@
-{"name": "Crimes_in_Nevada", "id": 44622788, "predecessors": [{"name": "Nevada_law", "id": 1229174}], "successors": []}
+{"name": "Crimes_in_Nevada", "id": 44622788, "predecessors": [{"name": "Nevada_law", "id": 1229174}, {"name": "Nevada_culture", "id": 1229163}], "successors": [{"name": "People_murdered_in_Nevada", "id": 19034283}, {"name": "Murder_in_Nevada", "id": 21454691}]}

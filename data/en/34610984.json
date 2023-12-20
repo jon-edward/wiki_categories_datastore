@@ -1,1 +1,1 @@
-{"name": "Complex_dynamics", "id": 34610984, "predecessors": [{"name": "Dynamical_systems", "id": 877149}], "successors": [{"name": "Chaos_theory", "id": 976386}, {"name": "Complex_systems_theory", "id": 10955733}]}
+{"name": "Complex_dynamics", "id": 34610984, "predecessors": [{"name": "Complex_analysis", "id": 691914}, {"name": "Dynamical_systems", "id": 877149}], "successors": [{"name": "Chaos_theory", "id": 976386}, {"name": "Complex_systems_theory", "id": 10955733}]}

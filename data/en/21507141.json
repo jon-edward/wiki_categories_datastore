@@ -1,1 +1,1 @@
-{"name": "Educational_buildings_in_Lille", "id": 21507141, "predecessors": [{"name": "Buildings_and_structures_in_Lille", "id": 21507066}], "successors": [{"name": "University_of_Lille_Nord_de_France", "id": 18436059}]}
+{"name": "Educational_buildings_in_Lille", "id": 21507141, "predecessors": [{"name": "Buildings_and_structures_in_Lille", "id": 21507066}, {"name": "Education_in_Lille", "id": 21507076}], "successors": [{"name": "Universities_and_colleges_in_Lille", "id": 39360203}]}

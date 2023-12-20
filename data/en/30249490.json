@@ -1,1 +1,1 @@
-{"name": "Symbian_software", "id": 30249490, "predecessors": [{"name": "Nokia", "id": 1503940}, {"name": "Symbian_OS", "id": 22533699}], "successors": [{"name": "Symbian_games", "id": 42853845}, {"name": "WhatsApp", "id": 51068136}]}
+{"name": "Symbian_software", "id": 30249490, "predecessors": [{"name": "Nokia", "id": 1503940}, {"name": "Symbian_OS", "id": 22533699}, {"name": "Operating_systems", "id": 693664}], "successors": [{"name": "Symbian_games", "id": 42853845}, {"name": "WhatsApp", "id": 51068136}]}

@@ -1,1 +1,1 @@
-{"name": "Old_East_Slavic", "id": 53153952, "predecessors": [{"name": "Culture_of_Kievan_Rus'", "id": 53148315}, {"name": "Medieval_languages", "id": 2665601}, {"name": "Slavic_languages", "id": 694914}], "successors": [{"name": "Old_East_Slavic_literature", "id": 40254064}]}
+{"name": "Old_East_Slavic", "id": 53153952, "predecessors": [{"name": "Culture_of_Kievan_Rus'", "id": 53148315}, {"name": "East_Slavic_languages", "id": 3134337}, {"name": "Medieval_languages", "id": 2665601}], "successors": [{"name": "Old_East_Slavic_literature", "id": 40254064}]}

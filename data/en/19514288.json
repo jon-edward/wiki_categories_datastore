@@ -1,1 +1,1 @@
-{"name": "Properties_of_chemical_elements", "id": 19514288, "predecessors": [{"name": "Chemical_elements", "id": 691255}], "successors": [{"name": "Biology_and_pharmacology_of_chemical_elements", "id": 5888460}, {"name": "Allotropes", "id": 23551411}]}
+{"name": "Properties_of_chemical_elements", "id": 19514288, "predecessors": [{"name": "Chemical_elements", "id": 691255}, {"name": "Chemical_properties", "id": 743292}], "successors": [{"name": "Biology_and_pharmacology_of_chemical_elements", "id": 5888460}, {"name": "Allotropes", "id": 23551411}]}

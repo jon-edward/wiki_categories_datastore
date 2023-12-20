@@ -1,1 +1,1 @@
-{"name": "SUNY_Downstate_Medical_Center_faculty", "id": 28643958, "predecessors": [{"name": "Public_medical_universities", "id": 68352267}, {"name": "Health_care_occupations", "id": 1006080}], "successors": []}
+{"name": "SUNY_Downstate_Medical_Center_faculty", "id": 28643958, "predecessors": [{"name": "SUNY_Downstate_Medical_Center", "id": 28643961}, {"name": "State_University_of_New_York_faculty", "id": 7952020}, {"name": "American_medical_academics", "id": 16592356}], "successors": []}

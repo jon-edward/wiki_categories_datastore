@@ -1,1 +1,1 @@
-{"name": "Coachbuilders_of_Italy", "id": 30597742, "predecessors": [{"name": "Automobile_designers", "id": 1053680}, {"name": "Manufacturing_companies_of_Italy", "id": 4869629}], "successors": [{"name": "Pininfarina", "id": 8295900}]}
+{"name": "Coachbuilders_of_Italy", "id": 30597742, "predecessors": [{"name": "Italian_automobile_designers", "id": 1636854}, {"name": "Automobile_designers", "id": 1053680}, {"name": "Companies_of_Italy", "id": 864346}], "successors": [{"name": "Pininfarina", "id": 8295900}]}

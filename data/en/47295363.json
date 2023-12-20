@@ -1,1 +1,1 @@
-{"name": "Ships_sunk_by_Soviet_aircraft", "id": 47295363, "predecessors": [{"name": "Soviet_Air_Force", "id": 843487}], "successors": []}
+{"name": "Ships_sunk_by_Soviet_aircraft", "id": 47295363, "predecessors": [{"name": "Ships_sunk_by_aircraft", "id": 32005715}, {"name": "Soviet_Air_Force", "id": 843487}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Actor_model_(computer_science)", "id": 2469194, "predecessors": [{"name": "Concurrent_computing", "id": 2581694}, {"name": "Models_of_computation", "id": 31036668}], "successors": []}
+{"name": "Actor_model_(computer_science)", "id": 2469194, "predecessors": [{"name": "Concurrency_(computer_science)", "id": 35016674}, {"name": "Concurrent_computing", "id": 2581694}, {"name": "Models_of_computation", "id": 31036668}], "successors": []}

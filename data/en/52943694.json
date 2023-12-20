@@ -1,1 +1,1 @@
-{"name": "Formula_E_ePrix", "id": 52943694, "predecessors": [{"name": "Formula_E", "id": 41412708}, {"name": "Motorsport", "id": 13306047}], "successors": [{"name": "Berlin_ePrix", "id": 49096599}]}
+{"name": "Formula_E_ePrix", "id": 52943694, "predecessors": [{"name": "Formula_E", "id": 41412708}, {"name": "Automotive_events", "id": 5252068}], "successors": [{"name": "Berlin_ePrix", "id": 49096599}]}

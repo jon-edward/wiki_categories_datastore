@@ -1,1 +1,1 @@
-{"name": "Singers_from_Cincinnati", "id": 72588889, "predecessors": [{"name": "Musicians_from_Cincinnati", "id": 22128874}], "successors": []}
+{"name": "Singers_from_Cincinnati", "id": 72588889, "predecessors": [{"name": "Musicians_from_Cincinnati", "id": 22128874}, {"name": "Singers_from_Ohio", "id": 40356506}], "successors": [{"name": "Rappers_from_Cincinnati", "id": 45470273}]}

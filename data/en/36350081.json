@@ -1,1 +1,1 @@
-{"name": "Pension_funds", "id": 36350081, "predecessors": [{"name": "Investment_funds", "id": 27350964}, {"name": "Pensions", "id": 26537276}], "successors": [{"name": "Public_pension_funds", "id": 38803013}]}
+{"name": "Pension_funds", "id": 36350081, "predecessors": [{"name": "Investment_funds", "id": 27350964}, {"name": "Pensions", "id": 26537276}], "successors": [{"name": "Public_pension_funds", "id": 38803013}, {"name": "Superannuation_funds_in_Australia", "id": 62801244}]}

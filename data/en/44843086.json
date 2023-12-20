@@ -1,1 +1,1 @@
-{"name": "Cook_Strait_ferries", "id": 44843086, "predecessors": [{"name": "Ships", "id": 711332}], "successors": []}
+{"name": "Cook_Strait_ferries", "id": 44843086, "predecessors": [{"name": "Cook_Strait_Ferry", "id": 44843081}, {"name": "Economy_of_Oceania", "id": 12074081}, {"name": "Ships", "id": 711332}], "successors": []}

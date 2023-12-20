@@ -1,1 +1,1 @@
-{"name": "Kyoto_Municipal_Subway", "id": 8048152, "predecessors": [{"name": "Kyoto", "id": 1543284}, {"name": "Rail_infrastructure", "id": 2962895}], "successors": [{"name": "Stations_of_Kyoto_Municipal_Subway", "id": 23740376}]}
+{"name": "Kyoto_Municipal_Subway", "id": 8048152, "predecessors": [{"name": "Rail_transport_in_Kyoto_Prefecture", "id": 10907699}, {"name": "Kyoto", "id": 1543284}, {"name": "Rapid_transit", "id": 4286827}], "successors": [{"name": "Stations_of_Kyoto_Municipal_Subway", "id": 23740376}]}

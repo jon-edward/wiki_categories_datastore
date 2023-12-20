@@ -1,0 +1,1 @@
+{"name": "Seismology_measurement", "id": 14907645, "predecessors": [{"name": "Measurement", "id": 734262}, {"name": "Seismology", "id": 717012}], "successors": [{"name": "Seismology_instruments", "id": 65083656}, {"name": "Seismic_intensity_scales", "id": 55906969}]}

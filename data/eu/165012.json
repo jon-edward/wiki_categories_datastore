@@ -1,1 +1,1 @@
-{"name": "Kyoto", "id": 165012, "predecessors": [{"name": "Kyoto_prefektura", "id": 162715}], "successors": [{"name": "Kyototarrak", "id": 286200}, {"name": "Kyotoko_eraikinak", "id": 435186}, {"name": "Kyoton_girotutako_filmak", "id": 727802}]}
+{"name": "Kyoto", "id": 165012, "predecessors": [{"name": "Japoniako_prefekturetako_hiriburuak", "id": 162717}, {"name": "Demografia", "id": 7864}], "successors": [{"name": "Kyototarrak", "id": 286200}, {"name": "Kyotoko_eraikinak", "id": 435186}, {"name": "Kyoton_girotutako_filmak", "id": 727802}]}

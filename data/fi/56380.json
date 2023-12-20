@@ -1,1 +1,1 @@
-{"name": "Kasvianatomia", "id": 56380, "predecessors": [{"name": "Anatomia", "id": 22497}, {"name": "Kasvimorfologia", "id": 922348}], "successors": [{"name": "Kasvisolukot", "id": 1416647}]}
+{"name": "Kasvianatomia", "id": 56380, "predecessors": [{"name": "Anatomia", "id": 22497}, {"name": "Kasvimorfologia", "id": 922348}], "successors": [{"name": "Siemenet", "id": 670499}, {"name": "Kasvisolukot", "id": 1416647}]}

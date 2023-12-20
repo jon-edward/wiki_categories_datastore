@@ -1,1 +1,1 @@
-{"name": "Electric_aircraft", "id": 16672105, "predecessors": [{"name": "Electric_vehicles", "id": 961956}, {"name": "Aerodynamics", "id": 1303037}], "successors": []}
+{"name": "Electric_aircraft", "id": 16672105, "predecessors": [{"name": "Electric_vehicles", "id": 961956}, {"name": "Power_(physics)", "id": 27860687}], "successors": []}

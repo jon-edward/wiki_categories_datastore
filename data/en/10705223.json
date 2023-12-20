@@ -1,1 +1,1 @@
-{"name": "Chiptune_musicians", "id": 10705223, "predecessors": [{"name": "Electronica_musicians", "id": 10541505}, {"name": "Video_game_musicians", "id": 9569262}, {"name": "20th-century_music_genres", "id": 29466760}], "successors": []}
+{"name": "Chiptune_musicians", "id": 10705223, "predecessors": [{"name": "Video_game_musicians", "id": 9569262}, {"name": "20th-century_music_genres", "id": 29466760}], "successors": [{"name": "Tracker_musicians", "id": 5638663}]}

@@ -1,1 +1,1 @@
-{"name": "Integrins", "id": 22204400, "predecessors": [{"name": "Single-pass_transmembrane_proteins", "id": 14581995}, {"name": "Transmembrane_receptors", "id": 719556}, {"name": "Cell_adhesion_proteins", "id": 3090766}, {"name": "Immune_system", "id": 729294}], "successors": []}
+{"name": "Integrins", "id": 22204400, "predecessors": [{"name": "Single-pass_transmembrane_proteins", "id": 14581995}, {"name": "Transmembrane_receptors", "id": 719556}, {"name": "Immune_system", "id": 729294}, {"name": "Cell_biology", "id": 714693}], "successors": []}

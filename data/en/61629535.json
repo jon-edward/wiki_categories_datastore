@@ -1,1 +1,1 @@
-{"name": "Fried_chicken", "id": 61629535, "predecessors": [{"name": "Fried_foods", "id": 50279441}], "successors": [{"name": "KFC", "id": 30153872}]}
+{"name": "Fried_chicken", "id": 61629535, "predecessors": [{"name": "Chicken_dishes", "id": 18236924}, {"name": "Fried_foods", "id": 50279441}], "successors": [{"name": "KFC", "id": 30153872}]}

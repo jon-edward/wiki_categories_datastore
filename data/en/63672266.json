@@ -1,1 +1,1 @@
-{"name": "Film_people_from_Berlin", "id": 63672266, "predecessors": [{"name": "Film", "id": 2012004}], "successors": [{"name": "Film_directors_from_Berlin", "id": 43906675}]}
+{"name": "Film_people_from_Berlin", "id": 63672266, "predecessors": [{"name": "Mass_media_people_from_Berlin", "id": 64403079}, {"name": "Film", "id": 2012004}], "successors": [{"name": "Film_directors_from_Berlin", "id": 43906675}]}

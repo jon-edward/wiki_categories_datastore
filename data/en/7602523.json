@@ -1,1 +1,1 @@
-{"name": "Glycolysis", "id": 7602523, "predecessors": [{"name": "Metabolic_pathways", "id": 7602496}], "successors": []}
+{"name": "Glycolysis", "id": 7602523, "predecessors": [{"name": "Metabolic_pathways", "id": 7602496}], "successors": [{"name": "Glycolysis_enzymes", "id": 67136088}]}

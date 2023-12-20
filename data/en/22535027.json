@@ -1,1 +1,1 @@
-{"name": "Breccias", "id": 22535027, "predecessors": [{"name": "Fracture_mechanics", "id": 16353331}, {"name": "Sedimentary_rocks", "id": 717421}], "successors": []}
+{"name": "Breccias", "id": 22535027, "predecessors": [{"name": "Fracture_mechanics", "id": 16353331}, {"name": "Petrology", "id": 1105513}, {"name": "Sedimentary_rocks", "id": 717421}], "successors": []}

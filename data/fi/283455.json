@@ -1,1 +1,1 @@
-{"name": "Korroosio", "id": 283455, "predecessors": [{"name": "Kemialliset_prosessit", "id": 283453}, {"name": "Metallurgia", "id": 112378}, {"name": "Sähkökemia", "id": 182477}], "successors": []}
+{"name": "Korroosio", "id": 283455, "predecessors": [{"name": "Kemialliset_prosessit", "id": 283453}, {"name": "Materiaalitekniikka", "id": 308976}, {"name": "Metallurgia", "id": 112378}, {"name": "Sähkökemia", "id": 182477}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Syndromes_affecting_the_gastrointestinal_tract", "id": 53611862, "predecessors": [{"name": "Syndromes", "id": 4678438}], "successors": []}
+{"name": "Syndromes_affecting_the_gastrointestinal_tract", "id": 53611862, "predecessors": [{"name": "Gastrointestinal_tract_disorders", "id": 32609584}, {"name": "Syndromes", "id": 4678438}], "successors": []}

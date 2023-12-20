@@ -1,1 +1,1 @@
-{"name": "Tram_stops_in_Melbourne", "id": 72045439, "predecessors": [{"name": "Buildings_and_structures_by_type", "id": 6884364}], "successors": []}
+{"name": "Tram_stops_in_Melbourne", "id": 72045439, "predecessors": [{"name": "Trams_in_Melbourne", "id": 17215039}, {"name": "Railway_stations_by_type", "id": 72782274}, {"name": "Infrastructure_in_Australia", "id": 27401714}], "successors": []}

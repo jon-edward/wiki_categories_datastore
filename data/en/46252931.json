@@ -1,1 +1,1 @@
-{"name": "Aposematic_species", "id": 46252931, "predecessors": [{"name": "Species", "id": 41221580}, {"name": "Animals_by_adaptation", "id": 50053927}], "successors": []}
+{"name": "Aposematic_species", "id": 46252931, "predecessors": [{"name": "Aposematic_animals", "id": 46253030}, {"name": "Species", "id": 41221580}], "successors": []}

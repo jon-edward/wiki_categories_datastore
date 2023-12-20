@@ -1,1 +1,1 @@
-{"name": "Baroque_instruments", "id": 11094303, "predecessors": [{"name": "Early_musical_instruments", "id": 6586977}], "successors": [{"name": "Violins", "id": 1649250}, {"name": "Cellos", "id": 9150590}, {"name": "Double_basses", "id": 17124734}, {"name": "Compositions_for_viola", "id": 11364350}]}
+{"name": "Baroque_instruments", "id": 11094303, "predecessors": [{"name": "Baroque_music", "id": 1466222}, {"name": "Early_musical_instruments", "id": 6586977}], "successors": [{"name": "Violin_family_instruments", "id": 63291037}]}

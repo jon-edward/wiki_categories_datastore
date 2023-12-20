@@ -1,1 +1,1 @@
-{"name": "Disasters_in_schools", "id": 5347837, "predecessors": [{"name": "Disasters", "id": 745842}], "successors": [{"name": "School_fire_disasters", "id": 48989315}]}
+{"name": "Disasters_in_schools", "id": 5347837, "predecessors": [{"name": "Social_history", "id": 4831571}, {"name": "Disasters", "id": 745842}], "successors": [{"name": "School_fire_disasters", "id": 48989315}]}

@@ -1,1 +1,1 @@
-{"name": "Double-decker_buses", "id": 11831605, "predecessors": [{"name": "Buses_by_type", "id": 17199845}, {"name": "Manufactured_goods", "id": 699552}], "successors": []}
+{"name": "Double-decker_buses", "id": 11831605, "predecessors": [{"name": "Buses_by_type", "id": 17199845}, {"name": "Vehicles", "id": 694929}], "successors": []}

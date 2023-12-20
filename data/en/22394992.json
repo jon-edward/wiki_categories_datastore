@@ -1,1 +1,1 @@
-{"name": "Car_collectors", "id": 22394992, "predecessors": [{"name": "Collecting", "id": 1053587}], "successors": [{"name": "Automotive_museums", "id": 3444554}, {"name": "British_car_collectors", "id": 42796274}, {"name": "American_car_collectors", "id": 50788246}]}
+{"name": "Car_collectors", "id": 22394992, "predecessors": [{"name": "Car_culture", "id": 42009149}, {"name": "Collecting", "id": 1053587}], "successors": [{"name": "Automotive_museums", "id": 3444554}, {"name": "British_car_collectors", "id": 42796274}, {"name": "American_car_collectors", "id": 50788246}]}

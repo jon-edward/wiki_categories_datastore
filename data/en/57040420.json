@@ -1,1 +1,1 @@
-{"name": "Breweries_in_Denmark", "id": 57040420, "predecessors": [{"name": "Alcohol_by_country", "id": 24323097}], "successors": [{"name": "Breweries_in_Copenhagen", "id": 62828990}]}
+{"name": "Breweries_in_Denmark", "id": 57040420, "predecessors": [{"name": "Food_and_drink_companies_of_Denmark", "id": 18548431}, {"name": "Alcohol_by_country", "id": 24323097}], "successors": [{"name": "Breweries_in_Copenhagen", "id": 62828990}, {"name": "Royal_Unibrew_subsidiaries", "id": 69840041}]}

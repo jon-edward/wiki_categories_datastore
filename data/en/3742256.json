@@ -1,1 +1,1 @@
-{"name": "Seven_Samurai", "id": 3742256, "predecessors": [{"name": "Samurai_films", "id": 1304355}], "successors": []}
+{"name": "Seven_Samurai", "id": 3742256, "predecessors": [{"name": "Films_directed_by_Akira_Kurosawa", "id": 2568915}, {"name": "Samurai_films", "id": 1304355}], "successors": []}

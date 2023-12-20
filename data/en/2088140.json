@@ -1,1 +1,1 @@
-{"name": "Advertising-free_magazines", "id": 2088140, "predecessors": [{"name": "Advertising", "id": 884913}, {"name": "Publications", "id": 706830}], "successors": []}
+{"name": "Advertising-free_magazines", "id": 2088140, "predecessors": [{"name": "Publications_by_format", "id": 11278400}, {"name": "Advertising", "id": 884913}], "successors": []}

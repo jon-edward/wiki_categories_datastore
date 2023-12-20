@@ -1,1 +1,1 @@
-{"name": "American_television_sports_announcers", "id": 22318988, "predecessors": [{"name": "American_sports_announcers", "id": 3651002}], "successors": [{"name": "American_television_sports_anchors", "id": 24591017}]}
+{"name": "American_television_sports_announcers", "id": 22318988, "predecessors": [{"name": "American_sports_announcers", "id": 3651002}, {"name": "American_television_personalities", "id": 961759}, {"name": "Sports_television_in_the_United_States", "id": 3652694}], "successors": [{"name": "American_television_sports_anchors", "id": 24591017}]}

@@ -1,1 +1,1 @@
-{"name": "Car-free_zones_in_Europe", "id": 62587728, "predecessors": [{"name": "Pedestrian_infrastructure", "id": 11193164}], "successors": [{"name": "Car-free_villages_in_Switzerland", "id": 38117322}]}
+{"name": "Car-free_zones_in_Europe", "id": 62587728, "predecessors": [{"name": "Car-free_movement", "id": 22434662}, {"name": "Geography_of_Europe", "id": 2512738}], "successors": [{"name": "Car-free_villages_in_Switzerland", "id": 38117322}, {"name": "Car-free_islands_of_Europe", "id": 73541740}]}

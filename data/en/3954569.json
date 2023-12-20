@@ -1,1 +1,1 @@
-{"name": "Missile_launchers", "id": 3954569, "predecessors": [{"name": "Projectile_weapons", "id": 16745210}, {"name": "Rocket_launchers", "id": 30733159}], "successors": [{"name": "Self-propelled_rocket_launchers", "id": 29874530}]}
+{"name": "Missile_launchers", "id": 3954569, "predecessors": [{"name": "Guided_missiles", "id": 1930532}, {"name": "Missile_operation", "id": 1930529}, {"name": "Projectile_weapons", "id": 16745210}, {"name": "Rocket_launchers", "id": 30733159}], "successors": [{"name": "Self-propelled_rocket_launchers", "id": 29874530}]}

@@ -1,1 +1,1 @@
-{"name": "Obesity_by_country", "id": 24009848, "predecessors": [{"name": "Obesity", "id": 2919604}], "successors": []}
+{"name": "Obesity_by_country", "id": 24009848, "predecessors": [{"name": "Obesity", "id": 2919604}], "successors": [{"name": "Obesity_in_the_United_States", "id": 24875950}, {"name": "Obesity_in_the_United_Kingdom", "id": 42880330}]}

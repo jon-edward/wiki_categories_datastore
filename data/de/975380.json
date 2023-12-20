@@ -1,1 +1,0 @@
-{"name": "Optisches_Bauteil", "id": 975380, "predecessors": [{"name": "Bauteil", "id": 2199719}, {"name": "Technische_Optik", "id": 471777}], "successors": [{"name": "Objektiv_(Optik)", "id": 5582409}, {"name": "Linse", "id": 5669214}, {"name": "Optischer_Spiegel", "id": 7629530}, {"name": "Okular", "id": 9366429}]}

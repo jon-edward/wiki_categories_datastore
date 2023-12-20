@@ -1,0 +1,1 @@
+{"name": "Missile_guidance", "id": 1095963, "predecessors": [{"name": "Guided_missiles", "id": 1930532}, {"name": "Missile_operation", "id": 1930529}, {"name": "Missiles", "id": 43438573}, {"name": "Uncrewed_vehicles", "id": 2386176}, {"name": "Weapon_guidance", "id": 1698097}], "successors": []}

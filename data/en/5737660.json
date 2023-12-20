@@ -1,1 +1,1 @@
-{"name": "Chalcogenides", "id": 5737660, "predecessors": [{"name": "Chemical_compounds", "id": 695235}, {"name": "Groups_(periodic_table)", "id": 41959197}], "successors": [{"name": "Oxides", "id": 695963}, {"name": "Tellurides", "id": 3514274}]}
+{"name": "Chalcogenides", "id": 5737660, "predecessors": [{"name": "Chemical_compounds", "id": 695235}, {"name": "Groups_(periodic_table)", "id": 41959197}], "successors": [{"name": "Oxides", "id": 695963}, {"name": "Sulfides", "id": 1682005}, {"name": "Selenides", "id": 2021156}, {"name": "Tellurides", "id": 3514274}]}

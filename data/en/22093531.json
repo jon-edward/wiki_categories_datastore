@@ -1,0 +1,1 @@
+{"name": "German_drinks", "id": 22093531, "predecessors": [{"name": "German_cuisine", "id": 725640}, {"name": "Goods_manufactured_in_Germany", "id": 5165917}, {"name": "Health_by_country", "id": 2693630}], "successors": [{"name": "Beer_in_Germany", "id": 4822666}, {"name": "German_wine", "id": 6042298}, {"name": "German_distilled_drinks", "id": 21757352}]}

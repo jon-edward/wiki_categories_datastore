@@ -1,1 +1,1 @@
-{"name": "Piaggio_motorcycles", "id": 37429368, "predecessors": [{"name": "Motorcycles_by_brand", "id": 8258612}, {"name": "Italian_brands", "id": 8124715}, {"name": "Engineering_companies_of_Italy", "id": 18347189}], "successors": []}
+{"name": "Piaggio_motorcycles", "id": 37429368, "predecessors": [{"name": "Motorcycles_by_brand", "id": 8258612}, {"name": "Italian_brands", "id": 8124715}, {"name": "Piaggio_Group", "id": 5560855}], "successors": [{"name": "Piaggio_Vespa", "id": 37429532}]}

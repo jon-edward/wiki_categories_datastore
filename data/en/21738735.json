@@ -1,1 +1,1 @@
-{"name": "Theoretical_chemists", "id": 21738735, "predecessors": [{"name": "Quantum_chemistry", "id": 1913786}, {"name": "Theoretical_chemistry", "id": 2646540}], "successors": [{"name": "Computational_chemists", "id": 49872005}]}
+{"name": "Theoretical_chemists", "id": 21738735, "predecessors": [{"name": "Physical_chemists", "id": 694938}, {"name": "Quantum_chemistry", "id": 1913786}, {"name": "Theoretical_chemistry", "id": 2646540}, {"name": "Intellectualism", "id": 61650615}], "successors": [{"name": "Computational_chemists", "id": 49872005}]}

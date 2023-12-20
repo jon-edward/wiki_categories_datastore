@@ -1,1 +1,1 @@
-{"name": "Operator_algebras", "id": 22974471, "predecessors": [{"name": "Functional_analysis", "id": 691866}], "successors": [{"name": "Von_Neumann_algebras", "id": 973516}, {"name": "C*-algebras", "id": 2361433}]}
+{"name": "Operator_algebras", "id": 22974471, "predecessors": [{"name": "Algebras", "id": 19303722}, {"name": "Functional_analysis", "id": 691866}], "successors": [{"name": "Von_Neumann_algebras", "id": 973516}, {"name": "C*-algebras", "id": 2361433}]}

@@ -1,1 +1,1 @@
-{"name": "Tax_forms", "id": 22943812, "predecessors": [{"name": "Government_documents", "id": 694041}, {"name": "Legal_documents", "id": 694070}, {"name": "Tax", "id": 1241037}], "successors": []}
+{"name": "Tax_forms", "id": 22943812, "predecessors": [{"name": "Government_documents", "id": 694041}, {"name": "Legal_documents", "id": 694070}, {"name": "Tax", "id": 1241037}], "successors": [{"name": "IRS_tax_forms", "id": 44704436}]}

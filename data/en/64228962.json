@@ -1,1 +1,1 @@
-{"name": "1920_crime_films", "id": 64228962, "predecessors": [{"name": "1920_films", "id": 758341}], "successors": [{"name": "1920_crime_drama_films", "id": 65364888}]}
+{"name": "1920_crime_films", "id": 64228962, "predecessors": [{"name": "1920_films", "id": 758341}, {"name": "20th_century", "id": 884457}], "successors": [{"name": "1920_crime_drama_films", "id": 65364888}]}

@@ -1,1 +1,1 @@
-{"name": "Stations_of_Yokohama_City_Transportation_Bureau", "id": 8083254, "predecessors": [{"name": "Bus_companies_of_Japan", "id": 7668980}, {"name": "Railway_companies_of_Japan", "id": 703223}], "successors": []}
+{"name": "Stations_of_Yokohama_City_Transportation_Bureau", "id": 8083254, "predecessors": [{"name": "Railway_stations_in_Yokohama", "id": 45519219}, {"name": "Bus_companies_of_Japan", "id": 7668980}, {"name": "Railway_companies_of_Japan", "id": 703223}], "successors": []}

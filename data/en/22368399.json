@@ -1,1 +1,1 @@
-{"name": "Glass_chemistry", "id": 22368399, "predecessors": [{"name": "Glass_engineering_and_science", "id": 15358462}], "successors": [{"name": "Glass_coating_and_surface_modification", "id": 22369286}]}
+{"name": "Glass_chemistry", "id": 22368399, "predecessors": [{"name": "Glass_engineering_and_science", "id": 15358462}, {"name": "Inorganic_chemistry", "id": 697178}], "successors": [{"name": "Glass_coating_and_surface_modification", "id": 22369286}]}

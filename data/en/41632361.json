@@ -1,1 +1,1 @@
-{"name": "Payment_cards", "id": 41632361, "predecessors": [{"name": "Payment_systems", "id": 1053701}], "successors": [{"name": "Contactless_smart_cards", "id": 32070775}]}
+{"name": "Payment_cards", "id": 41632361, "predecessors": [{"name": "Payment_systems", "id": 1053701}, {"name": "Economic_anthropology", "id": 13943255}], "successors": [{"name": "Contactless_smart_cards", "id": 32070775}]}

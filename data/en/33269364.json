@@ -1,1 +1,1 @@
-{"name": "Kadokawa_Shoten_magazines", "id": 33269364, "predecessors": [{"name": "Manga_magazines_published_in_Japan", "id": 11862893}], "successors": []}
+{"name": "Kadokawa_Shoten_magazines", "id": 33269364, "predecessors": [{"name": "Kadokawa_Shoten", "id": 28926536}, {"name": "Manga_magazines_published_in_Japan", "id": 11862893}], "successors": []}

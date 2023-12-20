@@ -1,1 +1,1 @@
-{"name": "Home_computer_peripherals", "id": 1752395, "predecessors": [{"name": "Computer_peripherals", "id": 3547205}], "successors": [{"name": "CBM_floppy_disk_drives", "id": 19349218}]}
+{"name": "Home_computer_peripherals", "id": 1752395, "predecessors": [{"name": "Computer_peripherals", "id": 3547205}, {"name": "Home_computers", "id": 707669}], "successors": [{"name": "CBM_floppy_disk_drives", "id": 19349218}]}

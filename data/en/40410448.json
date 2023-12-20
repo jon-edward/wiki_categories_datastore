@@ -1,1 +1,1 @@
-{"name": "Object_manipulation", "id": 40410448, "predecessors": [{"name": "Circus_skills", "id": 949006}, {"name": "Sleight_of_hand", "id": 2952834}], "successors": [{"name": "Juggling", "id": 732090}, {"name": "Twirling", "id": 6873393}]}
+{"name": "Object_manipulation", "id": 40410448, "predecessors": [{"name": "Circus_skills", "id": 949006}, {"name": "Hobbies", "id": 698271}, {"name": "Leisure_activities", "id": 8245547}, {"name": "Motor_control", "id": 22728692}, {"name": "Sleight_of_hand", "id": 2952834}], "successors": [{"name": "Juggling", "id": 732090}]}

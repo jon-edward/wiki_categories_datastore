@@ -1,1 +1,1 @@
-{"name": "Antennas", "id": 5849955, "predecessors": [{"name": "Electromagnetic_radiation", "id": 697318}], "successors": [{"name": "Antennas_(radio)", "id": 11056199}]}
+{"name": "Antennas", "id": 5849955, "predecessors": [{"name": "Electromagnetic_radiation", "id": 697318}, {"name": "Telecommunications_engineering", "id": 31195638}, {"name": "Wireless", "id": 7290928}], "successors": [{"name": "Antennas_(radio)", "id": 11056199}]}

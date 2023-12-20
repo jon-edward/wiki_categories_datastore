@@ -1,1 +1,1 @@
-{"name": "German-language_books", "id": 63498739, "predecessors": [{"name": "German_language", "id": 1405531}, {"name": "Books", "id": 694040}], "successors": [{"name": "German-language_encyclopedias", "id": 37744777}]}
+{"name": "German-language_books", "id": 63498739, "predecessors": [{"name": "German-language_works", "id": 37110198}, {"name": "German_language", "id": 1405531}, {"name": "Books", "id": 694040}], "successors": [{"name": "German-language_encyclopedias", "id": 37744777}]}

@@ -1,1 +1,1 @@
-{"name": "Marriage_user_templates", "id": 34762519, "predecessors": [{"name": "Family_user_templates", "id": 5963345}, {"name": "Genealogy", "id": 724361}], "successors": []}
+{"name": "Marriage_user_templates", "id": 34762519, "predecessors": [{"name": "Family_user_templates", "id": 5963345}, {"name": "Marriage_templates", "id": 63719735}], "successors": []}

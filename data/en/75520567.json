@@ -1,0 +1,1 @@
+{"name": "Drug_development", "id": 75520567, "predecessors": [{"name": "Pharmaceutical_industry", "id": 2161287}, {"name": "Research_and_development", "id": 3594251}], "successors": [{"name": "Clinical_trials", "id": 1067749}]}

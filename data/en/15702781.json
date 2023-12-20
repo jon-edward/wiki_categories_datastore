@@ -1,1 +1,1 @@
-{"name": "Food_allergies", "id": 15702781, "predecessors": [{"name": "Food_and_drink", "id": 694860}], "successors": []}
+{"name": "Food_allergies", "id": 15702781, "predecessors": [{"name": "Immune_system_disorders", "id": 1580888}, {"name": "Food_and_drink", "id": 694860}], "successors": []}

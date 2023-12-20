@@ -1,1 +1,1 @@
-{"name": "Electronics_journals", "id": 32502839, "predecessors": [{"name": "Physics_journals", "id": 1332992}], "successors": [{"name": "Hobby_electronics_magazines", "id": 62315257}]}
+{"name": "Electronics_journals", "id": 32502839, "predecessors": [{"name": "Physics_journals", "id": 1332992}, {"name": "Electronics", "id": 707661}], "successors": [{"name": "Hobby_electronics_magazines", "id": 62315257}]}

@@ -1,1 +1,1 @@
-{"name": "Art_Deco_architects", "id": 20325419, "predecessors": [{"name": "Art_Deco_architecture", "id": 29229767}, {"name": "Architectural_styles", "id": 961891}], "successors": []}
+{"name": "Art_Deco_architects", "id": 20325419, "predecessors": [{"name": "Art_Deco_architecture", "id": 29229767}, {"name": "Art_Deco_designers", "id": 20325468}, {"name": "Architectural_styles", "id": 961891}], "successors": []}

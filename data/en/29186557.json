@@ -1,1 +1,1 @@
-{"name": "Mechanics_(trade)", "id": 29186557, "predecessors": [{"name": "Industrial_occupations", "id": 1616813}, {"name": "Employment_classifications", "id": 15387066}], "successors": [{"name": "Aircraft_mechanics", "id": 56608665}]}
+{"name": "Mechanics_(trade)", "id": 29186557, "predecessors": [{"name": "Industrial_occupations", "id": 1616813}, {"name": "Apprenticeship", "id": 35189993}], "successors": [{"name": "Aircraft_mechanics", "id": 56608665}]}

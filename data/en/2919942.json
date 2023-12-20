@@ -1,1 +1,1 @@
-{"name": "Interference", "id": 2919942, "predecessors": [{"name": "Telecommunications", "id": 700813}, {"name": "Wave_mechanics", "id": 991325}], "successors": [{"name": "Interferometry", "id": 1614862}]}
+{"name": "Interference", "id": 2919942, "predecessors": [{"name": "Electronics", "id": 707661}, {"name": "Telecommunications", "id": 700813}, {"name": "Wave_mechanics", "id": 991325}], "successors": [{"name": "Interferometry", "id": 1614862}]}

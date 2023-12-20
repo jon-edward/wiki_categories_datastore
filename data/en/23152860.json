@@ -1,1 +1,1 @@
-{"name": "Bilinear_maps", "id": 23152860, "predecessors": [{"name": "Binary_operations", "id": 4190449}, {"name": "Linear_operators", "id": 22834535}], "successors": [{"name": "Bilinear_forms", "id": 1013715}]}
+{"name": "Bilinear_maps", "id": 23152860, "predecessors": [{"name": "Binary_operations", "id": 4190449}, {"name": "Linear_operators", "id": 22834535}, {"name": "Multilinear_algebra", "id": 772566}], "successors": [{"name": "Bilinear_forms", "id": 1013715}]}

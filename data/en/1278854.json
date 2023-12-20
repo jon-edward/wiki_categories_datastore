@@ -1,1 +1,1 @@
-{"name": "Shepherds", "id": 1278854, "predecessors": [{"name": "Sheep_farming", "id": 65086185}, {"name": "Agriculture", "id": 694871}, {"name": "Animals_and_humans", "id": 52196069}], "successors": [{"name": "Fictional_shepherds", "id": 48479994}]}
+{"name": "Shepherds", "id": 1278854, "predecessors": [{"name": "Sheep_farming", "id": 65086185}, {"name": "Agriculture", "id": 694871}, {"name": "Animals_and_humans", "id": 52196069}], "successors": [{"name": "Fictional_shepherds", "id": 48479994}, {"name": "Gyges_of_Lydia", "id": 57821070}]}

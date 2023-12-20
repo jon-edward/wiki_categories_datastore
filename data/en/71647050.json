@@ -1,1 +1,1 @@
-{"name": "Tandy_1000", "id": 71647050, "predecessors": [{"name": "IBM_PC_compatibles", "id": 1094042}, {"name": "Personal_computers", "id": 707673}, {"name": "RadioShack", "id": 22183287}], "successors": []}
+{"name": "Tandy_1000", "id": 71647050, "predecessors": [{"name": "Home_computers", "id": 707669}, {"name": "IBM_PC_compatibles", "id": 1094042}, {"name": "Personal_computers", "id": 707673}, {"name": "RadioShack", "id": 22183287}, {"name": "X86-based_computers", "id": 67732610}], "successors": []}

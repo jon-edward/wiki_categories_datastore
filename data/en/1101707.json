@@ -1,1 +1,1 @@
-{"name": "Several_complex_variables", "id": 1101707, "predecessors": [{"name": "Functions_and_mappings", "id": 8111581}], "successors": [{"name": "Complex_manifolds", "id": 763402}, {"name": "Theorems_in_complex_geometry", "id": 34601337}]}
+{"name": "Several_complex_variables", "id": 1101707, "predecessors": [{"name": "Complex_analysis", "id": 691914}, {"name": "Functions_and_mappings", "id": 8111581}], "successors": [{"name": "Complex_manifolds", "id": 763402}, {"name": "Theorems_in_complex_geometry", "id": 34601337}]}

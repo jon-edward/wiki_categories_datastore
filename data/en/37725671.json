@@ -1,1 +1,1 @@
-{"name": "People_convicted_of_tax_crimes", "id": 37725671, "predecessors": [{"name": "Tax_evasion", "id": 20886037}, {"name": "Commercial_crimes", "id": 1418756}, {"name": "Crime_by_type", "id": 15090762}], "successors": [{"name": "People_convicted_of_money_laundering", "id": 39648829}]}
+{"name": "People_convicted_of_tax_crimes", "id": 37725671, "predecessors": [{"name": "Tax_evasion", "id": 20886037}, {"name": "Commercial_crimes", "id": 1418756}, {"name": "Crime_by_type", "id": 15090762}], "successors": []}

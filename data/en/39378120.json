@@ -1,0 +1,1 @@
+{"name": "System_on_a_chip", "id": 39378120, "predecessors": [{"name": "Embedded_systems", "id": 852879}, {"name": "Integrated_circuits", "id": 1240658}, {"name": "Microprocessors", "id": 832619}], "successors": [{"name": "ARM-based_systems_on_chips", "id": 72563895}]}

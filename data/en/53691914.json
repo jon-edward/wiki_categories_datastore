@@ -1,1 +1,1 @@
-{"name": "Thalamic_connections", "id": 53691914, "predecessors": [{"name": "Central_nervous_system_pathways", "id": 1542844}], "successors": []}
+{"name": "Thalamic_connections", "id": 53691914, "predecessors": [{"name": "Central_nervous_system_pathways", "id": 1542844}, {"name": "Thalamus", "id": 53598383}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "European_space_programmes", "id": 23143037, "predecessors": [{"name": "Engineering_projects", "id": 10548354}], "successors": [{"name": "Space_launch_vehicles_of_Europe", "id": 29498469}]}
+{"name": "European_space_programmes", "id": 23143037, "predecessors": [{"name": "Engineering_projects", "id": 10548354}], "successors": [{"name": "European_Space_Agency", "id": 1347639}, {"name": "Space_launch_vehicles_of_Europe", "id": 29498469}, {"name": "Space_program_of_Turkey", "id": 37967438}, {"name": "European_Space_Agency_programmes", "id": 56923958}]}

@@ -1,1 +1,1 @@
-{"name": "Energia_enpresak", "id": 140414, "predecessors": [{"name": "Energia", "id": 14616}, {"name": "Enpresak", "id": 14167}], "successors": [{"name": "Petrolio-enpresak", "id": 634272}]}
+{"name": "Energia_enpresak", "id": 140414, "predecessors": [{"name": "Energia", "id": 14616}, {"name": "Energiaren_ekonomia", "id": 945552}, {"name": "Enpresak", "id": 14167}], "successors": [{"name": "Petrolio-enpresak", "id": 634272}]}

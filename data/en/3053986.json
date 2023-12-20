@@ -1,1 +1,1 @@
-{"name": "Bluetooth", "id": 3053986, "predecessors": [{"name": "Computer_hardware_standards", "id": 30857280}, {"name": "Personal_area_networks", "id": 5026224}, {"name": "Radio_technology", "id": 2959298}], "successors": []}
+{"name": "Bluetooth", "id": 3053986, "predecessors": [{"name": "Computer_hardware_standards", "id": 30857280}, {"name": "Personal_area_networks", "id": 5026224}, {"name": "Radio_technology", "id": 2959298}, {"name": "Wireless_networking", "id": 979699}], "successors": [{"name": "Bluetooth_speakers", "id": 42296125}]}

@@ -1,1 +1,1 @@
-{"name": "Hopf_algebras", "id": 3979846, "predecessors": [{"name": "Coalgebras", "id": 7756216}], "successors": [{"name": "Quantum_groups", "id": 10158310}]}
+{"name": "Hopf_algebras", "id": 3979846, "predecessors": [{"name": "Algebras", "id": 19303722}, {"name": "Coalgebras", "id": 7756216}], "successors": [{"name": "Quantum_groups", "id": 10158310}]}

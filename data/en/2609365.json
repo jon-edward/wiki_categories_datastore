@@ -1,1 +1,1 @@
-{"name": "Teaching_hospitals", "id": 2609365, "predecessors": [{"name": "Hospitals", "id": 791496}, {"name": "Medical_education", "id": 1427229}, {"name": "Medical_research_organizations", "id": 39596137}], "successors": []}
+{"name": "Teaching_hospitals", "id": 2609365, "predecessors": [{"name": "Hospitals", "id": 791496}, {"name": "Medical_education", "id": 1427229}, {"name": "Medical_research_organizations", "id": 39596137}], "successors": [{"name": "Qasr_El_Eyni_Hospital", "id": 43412156}]}

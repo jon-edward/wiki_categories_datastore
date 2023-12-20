@@ -1,1 +1,1 @@
-{"name": "Manufacturing_companies_based_in_Bologna", "id": 62635902, "predecessors": [{"name": "Manufacturing_companies_of_Italy", "id": 4869629}], "successors": [{"name": "Ducati_(company)", "id": 1674340}]}
+{"name": "Manufacturing_companies_based_in_Bologna", "id": 62635902, "predecessors": [{"name": "Companies_based_in_Bologna", "id": 24920245}, {"name": "Manufacturing_companies_of_Italy", "id": 4869629}], "successors": [{"name": "Ducati_(company)", "id": 1674340}]}

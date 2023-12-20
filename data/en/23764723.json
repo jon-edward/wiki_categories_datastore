@@ -1,1 +1,1 @@
-{"name": "Ships_built_in_Hamburg", "id": 23764723, "predecessors": [{"name": "Ships_built_in_Germany", "id": 10734517}], "successors": []}
+{"name": "Ships_built_in_Hamburg", "id": 23764723, "predecessors": [{"name": "Economy_of_Hamburg", "id": 17955899}, {"name": "History_of_Hamburg", "id": 3389549}, {"name": "Ships_built_in_Germany", "id": 10734517}, {"name": "Transport_in_Hamburg", "id": 3389586}], "successors": []}

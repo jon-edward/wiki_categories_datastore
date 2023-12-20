@@ -1,1 +1,1 @@
-{"name": "Experimentální_lokomotivy", "id": 37466, "predecessors": [{"name": "Lokomotivy", "id": 34893}, {"name": "Dopravní_prostředky", "id": 6521}, {"name": "Doprava", "id": 5636}, {"name": "Železniční_doprava", "id": 116517}], "successors": []}
+{"name": "Experimentální_lokomotivy", "id": 37466, "predecessors": [{"name": "Experimentální_dopravní_prostředky", "id": 798300}, {"name": "Lokomotivy", "id": 34893}, {"name": "Doprava", "id": 5636}, {"name": "Železniční_doprava", "id": 116517}], "successors": []}

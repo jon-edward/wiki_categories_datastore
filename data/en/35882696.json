@@ -1,1 +1,1 @@
-{"name": "Peer_learning", "id": 35882696, "predecessors": [{"name": "Peer-to-peer", "id": 35882813}], "successors": []}
+{"name": "Peer_learning", "id": 35882696, "predecessors": [{"name": "Learning_methods", "id": 10246702}, {"name": "Peer-to-peer", "id": 35882813}], "successors": []}

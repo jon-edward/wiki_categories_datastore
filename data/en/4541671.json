@@ -1,1 +1,1 @@
-{"name": "Ear_training", "id": 4541671, "predecessors": [{"name": "Music_education", "id": 1272239}, {"name": "Musical_tuning", "id": 22255021}], "successors": []}
+{"name": "Ear_training", "id": 4541671, "predecessors": [{"name": "Ear_procedures", "id": 32497208}, {"name": "Musical_tuning", "id": 22255021}], "successors": []}

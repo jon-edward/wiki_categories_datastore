@@ -1,1 +1,1 @@
-{"name": "Observational_study", "id": 27730065, "predecessors": [{"name": "Epidemiology", "id": 903647}, {"name": "Research_methods", "id": 1557538}], "successors": []}
+{"name": "Observational_study", "id": 27730065, "predecessors": [{"name": "Epidemiology", "id": 903647}, {"name": "Observation", "id": 2523515}, {"name": "Data_collection", "id": 2523568}], "successors": []}

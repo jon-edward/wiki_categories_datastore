@@ -1,1 +1,1 @@
-{"name": "Proteiinit", "id": 56597, "predecessors": [{"name": "Biomolekyylit", "id": 946191}, {"name": "Rakennebiologia", "id": 172453}], "successors": [{"name": "Entsyymit", "id": 40531}, {"name": "Reseptorit", "id": 239547}]}
+{"name": "Proteiinit", "id": 56597, "predecessors": [{"name": "Biomolekyylit", "id": 946191}, {"name": "Rakennebiologia", "id": 172453}], "successors": [{"name": "Entsyymit", "id": 40531}, {"name": "Reseptorit", "id": 239547}, {"name": "Vasta-aineet", "id": 562119}]}

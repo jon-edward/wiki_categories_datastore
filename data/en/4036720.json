@@ -1,1 +1,1 @@
-{"name": "Quadrics", "id": 4036720, "predecessors": [{"name": "Quadratic_forms", "id": 935504}], "successors": []}
+{"name": "Quadrics", "id": 4036720, "predecessors": [{"name": "Algebraic_varieties", "id": 1120104}, {"name": "Quadratic_forms", "id": 935504}], "successors": []}

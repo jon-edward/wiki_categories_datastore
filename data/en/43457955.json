@@ -1,1 +1,1 @@
-{"name": "Canadian_beauty_pageant_contestants", "id": 43457955, "predecessors": [{"name": "Beauty_pageants_in_Canada", "id": 25229117}], "successors": [{"name": "Canadian_beauty_pageant_winners", "id": 21845759}]}
+{"name": "Canadian_beauty_pageant_contestants", "id": 43457955, "predecessors": [{"name": "Beauty_pageants_in_Canada", "id": 25229117}, {"name": "Beauty_pageant_contestants", "id": 1041018}], "successors": [{"name": "Canadian_beauty_pageant_winners", "id": 21845759}]}

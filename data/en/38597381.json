@@ -1,1 +1,1 @@
-{"name": "Wood_fuel", "id": 38597381, "predecessors": [{"name": "Biomass", "id": 17824428}, {"name": "Wood_products", "id": 40719418}], "successors": []}
+{"name": "Wood_fuel", "id": 38597381, "predecessors": [{"name": "Biomass", "id": 17824428}, {"name": "Wood_products", "id": 40719418}], "successors": [{"name": "Firewood", "id": 30047064}]}

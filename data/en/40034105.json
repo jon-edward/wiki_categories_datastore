@@ -1,1 +1,1 @@
-{"name": "Insects_of_Canada", "id": 40034105, "predecessors": [{"name": "Fauna_of_Canada", "id": 4033232}], "successors": [{"name": "Lepidoptera_of_Canada", "id": 50876898}]}
+{"name": "Insects_of_Canada", "id": 40034105, "predecessors": [{"name": "Insects_of_North_America", "id": 6935709}, {"name": "Fauna_of_Canada", "id": 4033232}], "successors": [{"name": "Lepidoptera_of_Canada", "id": 50876898}]}

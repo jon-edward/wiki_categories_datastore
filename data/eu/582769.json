@@ -1,1 +1,1 @@
-{"name": "Negozioei_buruzko_filmak", "id": 582769, "predecessors": [{"name": "Enpresa", "id": 123618}], "successors": [{"name": "Finantzei_buruzko_filmak", "id": 577530}]}
+{"name": "Negozioei_buruzko_filmak", "id": 582769, "predecessors": [{"name": "Enpresa", "id": 123618}, {"name": "Arte_ederrak", "id": 24683}], "successors": [{"name": "Finantzei_buruzko_filmak", "id": 577530}]}

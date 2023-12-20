@@ -1,1 +1,1 @@
-{"name": "Animal_breeders", "id": 38715578, "predecessors": [{"name": "Animal_breeding", "id": 36659941}, {"name": "Animals_and_humans", "id": 52196069}], "successors": [{"name": "Dog_breeders", "id": 11606599}, {"name": "Horse_breeders", "id": 48863407}]}
+{"name": "Animal_breeders", "id": 38715578, "predecessors": [{"name": "Animal_breeding", "id": 36659941}, {"name": "Animals_and_humans", "id": 52196069}], "successors": [{"name": "Dog_breeders", "id": 11606599}, {"name": "Horse_breeders", "id": 48863407}, {"name": "Aviculturists", "id": 74153956}]}

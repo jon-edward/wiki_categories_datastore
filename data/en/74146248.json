@@ -1,1 +1,1 @@
-{"name": "East_Auckland", "id": 74146248, "predecessors": [{"name": "Auckland_Region", "id": 6606872}], "successors": [{"name": "Howick_Local_Board_Area", "id": 68742724}]}
+{"name": "East_Auckland", "id": 74146248, "predecessors": [{"name": "Auckland_Region", "id": 6606872}, {"name": "Populated_places_in_the_Auckland_Region", "id": 37060091}], "successors": [{"name": "Howick_Local_Board_Area", "id": 68742724}, {"name": "Schools_in_East_Auckland", "id": 74146264}]}

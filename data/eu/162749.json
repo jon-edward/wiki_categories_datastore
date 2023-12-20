@@ -1,1 +1,1 @@
-{"name": "Aichi_prefekturako_hiriak", "id": 162749, "predecessors": [{"name": "Aichi_prefektura", "id": 162697}], "successors": [{"name": "Nagoya", "id": 154447}]}
+{"name": "Aichi_prefekturako_hiriak", "id": 162749, "predecessors": [{"name": "Aichi_prefektura", "id": 162697}, {"name": "Demografia", "id": 7864}], "successors": [{"name": "Nagoya", "id": 154447}]}

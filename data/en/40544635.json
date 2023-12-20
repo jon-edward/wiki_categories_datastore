@@ -1,1 +1,1 @@
-{"name": "Biosafety_level_4_laboratories", "id": 40544635, "predecessors": [{"name": "Biological_hazards", "id": 2638111}, {"name": "Infectious_diseases", "id": 707355}, {"name": "Laboratories", "id": 1150992}], "successors": []}
+{"name": "Biosafety_level_4_laboratories", "id": 40544635, "predecessors": [{"name": "Biological_hazards", "id": 2638111}, {"name": "Infectious_diseases", "id": 707355}, {"name": "Laboratories", "id": 1150992}], "successors": [{"name": "Riken", "id": 59910818}]}

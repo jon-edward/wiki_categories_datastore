@@ -1,1 +1,1 @@
-{"name": "Lobster_fishing", "id": 61003400, "predecessors": [{"name": "Fishing_industry", "id": 11967701}], "successors": []}
+{"name": "Lobster_fishing", "id": 61003400, "predecessors": [{"name": "Achelata", "id": 12299906}, {"name": "Fishing_industry", "id": 11967701}, {"name": "True_lobsters", "id": 2626663}], "successors": []}

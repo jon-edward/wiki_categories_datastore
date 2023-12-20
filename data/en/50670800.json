@@ -1,1 +1,1 @@
-{"name": "Fauna_of_the_Atlantic_Forest", "id": 50670800, "predecessors": [{"name": "Atlantic_Forest", "id": 39824259}], "successors": [{"name": "Birds_of_the_Atlantic_Forest", "id": 51872439}]}
+{"name": "Fauna_of_the_Atlantic_Forest", "id": 50670800, "predecessors": [{"name": "Atlantic_Forest", "id": 39824259}, {"name": "Fauna_of_Brazil", "id": 4033207}], "successors": [{"name": "Birds_of_the_Atlantic_Forest", "id": 51872439}]}

@@ -1,1 +1,0 @@
-{"name": "Arquitetura_da_internet", "id": 3161254, "predecessors": [{"name": "Arquitetura_de_redes", "id": 3161220}, {"name": "Internet", "id": 15036}, {"name": "Web", "id": 3169825}], "successors": [{"name": "Protocolos_da_Internet", "id": 51094}, {"name": "DNS", "id": 1147145}, {"name": "Normas_da_internet", "id": 3161242}]}

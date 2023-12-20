@@ -1,1 +1,1 @@
-{"name": "UFO_conspiracy_theorists", "id": 7034939, "predecessors": [{"name": "UFO_conspiracy_theories", "id": 75098225}, {"name": "Ufologists", "id": 10963403}, {"name": "Conspiracy_theories", "id": 874184}], "successors": []}
+{"name": "UFO_conspiracy_theorists", "id": 7034939, "predecessors": [{"name": "Conspiracy_theorists", "id": 780183}, {"name": "UFO_conspiracy_theories", "id": 75098225}, {"name": "Ufologists", "id": 10963403}], "successors": [{"name": "Contactees", "id": 7031264}, {"name": "Ancient_astronauts_proponents", "id": 59562117}]}

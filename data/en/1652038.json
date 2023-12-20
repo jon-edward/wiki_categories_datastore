@@ -1,1 +1,1 @@
-{"name": "Gas_compressors", "id": 1652038, "predecessors": [{"name": "Gas_technologies", "id": 19500591}, {"name": "Turbomachinery", "id": 31719704}], "successors": [{"name": "Superchargers", "id": 1124303}, {"name": "Turbochargers", "id": 6833217}]}
+{"name": "Gas_compressors", "id": 1652038, "predecessors": [{"name": "Gas_technologies", "id": 19500591}, {"name": "Turbomachinery", "id": 31719704}], "successors": [{"name": "Superchargers", "id": 1124303}, {"name": "Turbochargers", "id": 6833217}, {"name": "Vacuum_pumps", "id": 9061023}]}

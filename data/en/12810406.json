@@ -1,1 +1,1 @@
-{"name": "Chinese_given_names", "id": 12810406, "predecessors": [{"name": "Chinese_culture", "id": 715451}], "successors": [{"name": "Chinese_feminine_given_names", "id": 36658988}, {"name": "Chinese_masculine_given_names", "id": 37669959}]}
+{"name": "Chinese_given_names", "id": 12810406, "predecessors": [{"name": "Asian_given_names", "id": 16334489}, {"name": "Chinese_names", "id": 74141129}], "successors": [{"name": "Chinese_feminine_given_names", "id": 36658988}, {"name": "Chinese_masculine_given_names", "id": 37669959}]}

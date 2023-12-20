@@ -1,1 +1,1 @@
-{"name": "Astronautics", "id": 28347112, "predecessors": [{"name": "Aerospace", "id": 13517230}, {"name": "Manufactured_goods", "id": 699552}], "successors": [{"name": "Spaceflight", "id": 1040006}]}
+{"name": "Astronautics", "id": 28347112, "predecessors": [{"name": "Aerospace", "id": 13517230}, {"name": "Skills", "id": 1079731}], "successors": [{"name": "Spaceflight", "id": 1040006}]}

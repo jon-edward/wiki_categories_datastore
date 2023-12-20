@@ -1,1 +1,1 @@
-{"name": "Spanish_male_songwriters", "id": 72968825, "predecessors": [{"name": "Spanish_male_writers", "id": 44405658}, {"name": "Spanish_writers", "id": 724377}], "successors": [{"name": "Spanish_male_singer-songwriters", "id": 49452080}]}
+{"name": "Spanish_male_songwriters", "id": 72968825, "predecessors": [{"name": "Spanish_male_musicians", "id": 68222660}, {"name": "Spanish_male_writers", "id": 44405658}, {"name": "Spanish_musicians", "id": 724375}], "successors": [{"name": "Spanish_male_singer-songwriters", "id": 49452080}]}

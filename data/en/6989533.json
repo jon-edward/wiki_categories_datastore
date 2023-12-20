@@ -1,1 +1,1 @@
-{"name": "Trading_companies", "id": 6989533, "predecessors": [{"name": "Trade", "id": 18526113}, {"name": "Services_sector_of_the_economy", "id": 10887914}], "successors": [{"name": "Chartered_companies", "id": 3729208}, {"name": "Oil_traders", "id": 17909238}]}
+{"name": "Trading_companies", "id": 6989533, "predecessors": [{"name": "Trade", "id": 18526113}, {"name": "Services_sector_of_the_economy", "id": 10887914}], "successors": [{"name": "Oil_traders", "id": 17909238}]}

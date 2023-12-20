@@ -1,1 +1,1 @@
-{"name": "Condominium", "id": 47479656, "predecessors": [{"name": "House_types", "id": 803191}, {"name": "Planned_residential_developments", "id": 18767189}], "successors": []}
+{"name": "Condominium", "id": 47479656, "predecessors": [{"name": "House_types", "id": 803191}, {"name": "Living_arrangements", "id": 1374137}, {"name": "Planned_residential_developments", "id": 18767189}], "successors": []}

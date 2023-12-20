@@ -1,1 +1,1 @@
-{"name": "Nasdaq_Nordic", "id": 13968320, "predecessors": [{"name": "Stock_exchanges_in_Europe", "id": 3265712}], "successors": []}
+{"name": "Nasdaq_Nordic", "id": 13968320, "predecessors": [{"name": "Stock_exchanges_in_Europe", "id": 3265712}, {"name": "Stock_exchanges_in_Asia", "id": 3266053}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Online_gambling", "id": 29549452, "predecessors": [{"name": "Online_games", "id": 2087401}, {"name": "Crimes", "id": 694944}, {"name": "Entertainment", "id": 693016}], "successors": [{"name": "Online_casinos", "id": 57327383}, {"name": "Esports_websites", "id": 50761521}, {"name": "Online_poker_companies", "id": 61173404}]}
+{"name": "Online_gambling", "id": 29549452, "predecessors": [{"name": "Online_games", "id": 2087401}, {"name": "Crimes", "id": 694944}, {"name": "Technology_by_type", "id": 17200193}], "successors": [{"name": "Online_casinos", "id": 57327383}]}

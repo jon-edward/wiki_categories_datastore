@@ -1,1 +1,1 @@
-{"name": "Stews", "id": 873099, "predecessors": [{"name": "Types_of_food", "id": 58080273}], "successors": [{"name": "Soup-related_lists", "id": 45261428}, {"name": "Fish_stews", "id": 65247847}, {"name": "Meat_stews", "id": 67997692}]}
+{"name": "Stews", "id": 873099, "predecessors": [{"name": "Types_of_food", "id": 58080273}, {"name": "Cuisine", "id": 713870}], "successors": [{"name": "Soup-related_lists", "id": 45261428}, {"name": "Fish_stews", "id": 65247847}, {"name": "Meat_stews", "id": 67997692}]}

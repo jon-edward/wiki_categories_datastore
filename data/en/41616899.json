@@ -1,1 +1,1 @@
-{"name": "Ice_storms_in_the_United_States", "id": 41616899, "predecessors": [{"name": "Ice_storms", "id": 12789127}, {"name": "Winter_weather_events", "id": 30798023}, {"name": "North_American_winters", "id": 44872623}], "successors": []}
+{"name": "Ice_storms_in_the_United_States", "id": 41616899, "predecessors": [{"name": "Ice_storms", "id": 12789127}, {"name": "Weather_events_in_the_United_States", "id": 14291068}, {"name": "Environment_of_the_United_States", "id": 5393496}], "successors": []}

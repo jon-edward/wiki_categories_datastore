@@ -1,1 +1,1 @@
-{"name": "Driving_licences", "id": 15429155, "predecessors": [{"name": "Identity_documents", "id": 45377533}, {"name": "Licenses", "id": 703174}], "successors": [{"name": "Driving_licences_by_country", "id": 28571289}]}
+{"name": "Driving_licences", "id": 15429155, "predecessors": [{"name": "Identity_documents", "id": 45377533}, {"name": "Licenses", "id": 703174}, {"name": "Traffic_law", "id": 939690}], "successors": [{"name": "Driving_licences_by_country", "id": 28571289}]}

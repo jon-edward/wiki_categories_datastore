@@ -1,1 +1,1 @@
-{"name": "Double-deck_aircraft", "id": 60886660, "predecessors": [{"name": "Aircraft_configurations", "id": 1024208}, {"name": "Manufactured_goods", "id": 699552}], "successors": []}
+{"name": "Double-deck_aircraft", "id": 60886660, "predecessors": [{"name": "Aircraft_configurations", "id": 1024208}, {"name": "Vehicles", "id": 694929}], "successors": []}

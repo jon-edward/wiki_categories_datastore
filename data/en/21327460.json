@@ -1,1 +1,1 @@
-{"name": "Chrysler_concept_vehicles", "id": 21327460, "predecessors": [{"name": "Chrysler_vehicles", "id": 693221}, {"name": "Concept_cars", "id": 4929536}], "successors": []}
+{"name": "Chrysler_concept_vehicles", "id": 21327460, "predecessors": [{"name": "Chrysler_vehicles", "id": 693221}, {"name": "Concept_cars", "id": 4929536}], "successors": [{"name": "Dodge_concept_vehicles", "id": 21155877}]}

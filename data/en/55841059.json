@@ -1,1 +1,1 @@
-{"name": "Manufacturing_companies_based_in_Dhaka", "id": 55841059, "predecessors": [{"name": "Manufacturing", "id": 867519}], "successors": []}
+{"name": "Manufacturing_companies_based_in_Dhaka", "id": 55841059, "predecessors": [{"name": "Companies_based_in_Dhaka", "id": 54568753}, {"name": "Manufacturing_companies_of_Bangladesh", "id": 44050943}], "successors": []}

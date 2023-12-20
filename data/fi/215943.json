@@ -1,1 +1,1 @@
-{"name": "Umpierityssairaudet", "id": 215943, "predecessors": [{"name": "Sairaudet", "id": 18851}, {"name": "Lääketieteen_erikoisalat", "id": 645775}], "successors": [{"name": "Diabetes", "id": 54725}]}
+{"name": "Umpierityssairaudet", "id": 215943, "predecessors": [{"name": "Endokrinologia", "id": 342069}, {"name": "Sairaudet", "id": 18851}], "successors": [{"name": "Diabetes", "id": 54725}]}

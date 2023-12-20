@@ -1,1 +1,1 @@
-{"name": "Inorganic_phosphorus_compounds", "id": 28804707, "predecessors": [{"name": "Inorganic_compounds", "id": 695962}, {"name": "Phosphorus_compounds", "id": 1800668}], "successors": []}
+{"name": "Inorganic_phosphorus_compounds", "id": 28804707, "predecessors": [{"name": "Inorganic_compounds", "id": 695962}, {"name": "Phosphorus_compounds", "id": 1800668}], "successors": [{"name": "Phosphorus_oxoacids", "id": 30853958}]}

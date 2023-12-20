@@ -1,1 +1,1 @@
-{"name": "Thyroid_cancer", "id": 27574740, "predecessors": [{"name": "Endocrine_neoplasia", "id": 32581998}, {"name": "Thyroid", "id": 37920871}], "successors": [{"name": "Deaths_from_thyroid_cancer", "id": 18669676}]}
+{"name": "Thyroid_cancer", "id": 27574740, "predecessors": [{"name": "Endocrine_neoplasia", "id": 32581998}, {"name": "Thyroid", "id": 37920871}, {"name": "Thyroid_disease", "id": 5253687}], "successors": [{"name": "Deaths_from_thyroid_cancer", "id": 18669676}]}

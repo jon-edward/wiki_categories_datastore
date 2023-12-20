@@ -1,1 +1,1 @@
-{"name": "Marine_fish_genera", "id": 47609474, "predecessors": [{"name": "Marine_fish", "id": 42090184}], "successors": [{"name": "Monotypic_marine_fish_genera", "id": 48560024}]}
+{"name": "Marine_fish_genera", "id": 47609474, "predecessors": [{"name": "Marine_fish", "id": 42090184}, {"name": "Aquatic_animals", "id": 43539222}], "successors": [{"name": "Monotypic_marine_fish_genera", "id": 48560024}]}

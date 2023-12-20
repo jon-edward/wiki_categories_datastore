@@ -1,1 +1,1 @@
-{"name": "Polish_women_physicians", "id": 48592860, "predecessors": [{"name": "Women_physicians", "id": 3903758}, {"name": "Health_care", "id": 35880954}], "successors": []}
+{"name": "Polish_women_physicians", "id": 48592860, "predecessors": [{"name": "Women_physicians", "id": 3903758}, {"name": "Health_by_country", "id": 2693630}], "successors": [{"name": "20th-century_Polish_women_physicians", "id": 75481609}]}

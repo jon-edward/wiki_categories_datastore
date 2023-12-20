@@ -1,1 +1,1 @@
-{"name": "Pulsars", "id": 953290, "predecessors": [{"name": "Neutron_stars", "id": 992761}], "successors": []}
+{"name": "Pulsars", "id": 953290, "predecessors": [{"name": "Neutron_stars", "id": 992761}, {"name": "Variable_stars", "id": 972177}], "successors": [{"name": "Magnetars", "id": 1525486}]}

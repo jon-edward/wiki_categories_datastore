@@ -1,1 +1,1 @@
-{"name": "Samferdsel_i_Gjøvik", "id": 847845, "predecessors": [{"name": "Gjøvik", "id": 51576}, {"name": "Europa", "id": 9038}], "successors": [{"name": "Veier_i_Gjøvik", "id": 507229}]}
+{"name": "Samferdsel_i_Gjøvik", "id": 847845, "predecessors": [{"name": "Europa", "id": 9038}, {"name": "Innlandet", "id": 1736800}], "successors": [{"name": "Veier_i_Gjøvik", "id": 507229}]}

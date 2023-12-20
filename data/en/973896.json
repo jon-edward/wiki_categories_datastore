@@ -1,0 +1,1 @@
+{"name": "Cell_cycle", "id": 973896, "predecessors": [{"name": "Cellular_processes", "id": 7684398}], "successors": [{"name": "Mitosis", "id": 973875}, {"name": "Meiosis", "id": 52142392}, {"name": "Cell_cycle_regulators", "id": 68241427}, {"name": "Programmed_cell_death", "id": 8509253}]}

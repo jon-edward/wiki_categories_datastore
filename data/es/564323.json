@@ -1,1 +1,0 @@
-{"name": "Desayunos", "id": 564323, "predecessors": [{"name": "Comidas_diarias", "id": 179972}], "successors": [{"name": "Alimentos_de_desayuno", "id": 581526}, {"name": "Dónuts", "id": 2496640}, {"name": "Panqueques", "id": 2506309}, {"name": "Arepa", "id": 7414773}, {"name": "Sándwiches_tostados", "id": 7615407}]}

@@ -1,1 +1,1 @@
-{"name": "Drag_racing_events", "id": 16803344, "predecessors": [{"name": "Drag_racing", "id": 1434069}, {"name": "Motorsport", "id": 13306047}], "successors": [{"name": "NHRA_Camping_World_Drag_Racing_Series", "id": 50363609}, {"name": "NHRA_Winternationals", "id": 63074073}]}
+{"name": "Drag_racing_events", "id": 16803344, "predecessors": [{"name": "Drag_racing", "id": 1434069}, {"name": "Automotive_events", "id": 5252068}], "successors": [{"name": "NHRA_Camping_World_Drag_Racing_Series", "id": 50363609}, {"name": "NHRA_Winternationals", "id": 63074073}]}

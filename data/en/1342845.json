@@ -1,1 +1,1 @@
-{"name": "Box_zithers", "id": 1342845, "predecessors": [{"name": "Zithers", "id": 1342833}], "successors": [{"name": "Piano", "id": 1812082}, {"name": "Hammered_box_zithers", "id": 16883935}]}
+{"name": "Box_zithers", "id": 1342845, "predecessors": [{"name": "Zithers", "id": 1342833}], "successors": [{"name": "Piano", "id": 1812082}, {"name": "Hammered_box_zithers", "id": 16883935}, {"name": "Bowed_box_zithers", "id": 16948766}]}

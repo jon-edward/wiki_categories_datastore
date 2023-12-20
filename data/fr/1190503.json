@@ -1,1 +1,0 @@
-{"name": "Authentification", "id": 1190503, "predecessors": [{"name": "Sécurité_du_système_d'information", "id": 1112862}, {"name": "Ingénierie", "id": 84694}], "successors": [{"name": "Système_d'authentification", "id": 1277950}, {"name": "Signature_électronique", "id": 6837890}, {"name": "Gestionnaire_de_mots_de_passe", "id": 7910228}]}

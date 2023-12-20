@@ -1,1 +1,1 @@
-{"name": "Empresaris_argentins", "id": 1667248, "predecessors": [{"name": "Argentins", "id": 25965}, {"name": "Economia_d'Amèrica", "id": 537529}, {"name": "Empresaris_americans", "id": 493021}], "successors": [{"name": "Productors_de_cinema_argentins", "id": 1870775}]}
+{"name": "Empresaris_argentins", "id": 1667248, "predecessors": [{"name": "Economia_d'Amèrica", "id": 537529}, {"name": "Empresaris_americans", "id": 493021}, {"name": "Biografies", "id": 16117}], "successors": [{"name": "Productors_de_cinema_argentins", "id": 1870775}]}

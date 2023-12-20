@@ -1,1 +1,1 @@
-{"name": "Streets_in_Beirut", "id": 11815173, "predecessors": [{"name": "Transport_infrastructure", "id": 2962532}], "successors": []}
+{"name": "Streets_in_Beirut", "id": 11815173, "predecessors": [{"name": "Road_transport", "id": 700964}, {"name": "Beirut", "id": 5637333}], "successors": []}

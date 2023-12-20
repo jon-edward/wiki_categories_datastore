@@ -1,1 +1,1 @@
-{"name": "Musical_comedy_plays", "id": 56605982, "predecessors": [{"name": "Comedy_plays", "id": 14640707}, {"name": "Musical_theatre", "id": 692816}, {"name": "Comedy_genres", "id": 14988940}], "successors": []}
+{"name": "Musical_comedy_plays", "id": 56605982, "predecessors": [{"name": "Musical_theatre", "id": 692816}, {"name": "Musicals", "id": 1028878}], "successors": []}

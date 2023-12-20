@@ -1,1 +1,1 @@
-{"name": "Jouluruoat", "id": 106169, "predecessors": [{"name": "Joulu", "id": 25828}, {"name": "Ruokakulttuuri", "id": 210624}, {"name": "Ruokalajit", "id": 37404}], "successors": []}
+{"name": "Jouluruoat", "id": 106169, "predecessors": [{"name": "Joulu", "id": 25828}, {"name": "Ruokakulttuuri", "id": 210624}, {"name": "Ruokalajit", "id": 37404}], "successors": [{"name": "Joululeivonnaiset", "id": 1780170}]}

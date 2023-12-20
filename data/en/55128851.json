@@ -1,1 +1,1 @@
-{"name": "Parasitic_nematodes_of_vertebrates", "id": 55128851, "predecessors": [{"name": "Animal_parasites_of_vertebrates", "id": 55809907}], "successors": []}
+{"name": "Parasitic_nematodes_of_vertebrates", "id": 55128851, "predecessors": [{"name": "Animal_parasites_of_vertebrates", "id": 55809907}, {"name": "Parasitic_nematodes_of_animals", "id": 51433224}], "successors": [{"name": "Parasitic_nematodes_of_fish", "id": 55136168}, {"name": "Parasitic_nematodes_of_mammals", "id": 55120171}]}

@@ -1,1 +1,1 @@
-{"name": "Muscarinic_antagonists", "id": 797543, "predecessors": [{"name": "Receptor_antagonists", "id": 11603042}, {"name": "G_protein-coupled_receptors", "id": 719555}], "successors": [{"name": "Deliriants", "id": 1765534}]}
+{"name": "Muscarinic_antagonists", "id": 797543, "predecessors": [{"name": "G_protein-coupled_receptors", "id": 719555}, {"name": "Neurotransmitters", "id": 717823}], "successors": [{"name": "Deliriants", "id": 1765534}]}

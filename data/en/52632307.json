@@ -1,1 +1,1 @@
-{"name": "Spanish_male_archers", "id": 52632307, "predecessors": [{"name": "Archery", "id": 868539}], "successors": []}
+{"name": "Spanish_male_archers", "id": 52632307, "predecessors": [{"name": "Archery", "id": 868539}, {"name": "Sport_in_Spain", "id": 3058492}, {"name": "Men", "id": 1585667}], "successors": []}

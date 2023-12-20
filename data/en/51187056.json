@@ -1,1 +1,1 @@
-{"name": "Argentine_male_swimmers", "id": 51187056, "predecessors": [{"name": "Entertainment", "id": 693016}, {"name": "Argentine_culture", "id": 719449}], "successors": [{"name": "Argentine_male_freestyle_swimmers", "id": 64804192}]}
+{"name": "Argentine_male_swimmers", "id": 51187056, "predecessors": [{"name": "Americas", "id": 1526345}, {"name": "Sport_in_Argentina", "id": 3020701}, {"name": "Swimming", "id": 691570}], "successors": [{"name": "Argentine_male_freestyle_swimmers", "id": 64804192}, {"name": "Argentine_male_breaststroke_swimmers", "id": 69089700}]}

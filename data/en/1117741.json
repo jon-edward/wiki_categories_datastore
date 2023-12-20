@@ -1,1 +1,1 @@
-{"name": "OSI_protocols", "id": 1117741, "predecessors": [{"name": "ISO_standards", "id": 711826}], "successors": [{"name": "X.25", "id": 65801563}]}
+{"name": "OSI_protocols", "id": 1117741, "predecessors": [{"name": "Network_protocols", "id": 754784}, {"name": "OSI_model", "id": 55360985}], "successors": [{"name": "X.25", "id": 65801563}]}

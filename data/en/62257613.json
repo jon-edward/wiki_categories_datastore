@@ -1,1 +1,1 @@
-{"name": "Period_horror_films", "id": 62257613, "predecessors": [{"name": "Historical_fiction", "id": 5740752}, {"name": "Horror_genres", "id": 12301023}], "successors": []}
+{"name": "Period_horror_films", "id": 62257613, "predecessors": [{"name": "Horror_films_by_genre", "id": 10180630}, {"name": "Historical_fiction", "id": 5740752}], "successors": []}

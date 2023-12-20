@@ -1,1 +1,1 @@
-{"name": "Determinants", "id": 1504581, "predecessors": [{"name": "1_(number)", "id": 44538185}], "successors": []}
+{"name": "Determinants", "id": 1504581, "predecessors": [{"name": "Linear_algebra", "id": 690777}, {"name": "Matrix_theory", "id": 692453}, {"name": "Multilinear_algebra", "id": 772566}, {"name": "1_(number)", "id": 44538185}], "successors": []}

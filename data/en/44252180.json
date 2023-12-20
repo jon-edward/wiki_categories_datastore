@@ -1,1 +1,1 @@
-{"name": "Tetrapod_subfamilies", "id": 44252180, "predecessors": [{"name": "Superphyla", "id": 52195996}], "successors": []}
+{"name": "Tetrapod_subfamilies", "id": 44252180, "predecessors": [{"name": "Chordates", "id": 912575}], "successors": [{"name": "Bird_subfamilies", "id": 42817831}, {"name": "Mammal_subfamilies", "id": 49552707}, {"name": "Amphibian_subfamilies", "id": 62011539}, {"name": "Reptile_subfamilies", "id": 73328374}]}

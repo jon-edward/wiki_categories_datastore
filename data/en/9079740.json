@@ -1,1 +1,1 @@
-{"name": "Behavioral_finance", "id": 9079740, "predecessors": [{"name": "Behavioral_economics", "id": 28697216}, {"name": "Human_behavior", "id": 2524202}], "successors": []}
+{"name": "Behavioral_finance", "id": 9079740, "predecessors": [{"name": "Behavioral_economics", "id": 28697216}, {"name": "Financial_economics", "id": 4818599}, {"name": "Human_behavior", "id": 2524202}], "successors": [{"name": "Economics_effects", "id": 1819037}]}

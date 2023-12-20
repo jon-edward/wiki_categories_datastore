@@ -1,1 +1,1 @@
-{"name": "Lada_vehicles", "id": 1212677, "predecessors": [{"name": "AvtoVAZ", "id": 54438522}], "successors": []}
+{"name": "Lada_vehicles", "id": 1212677, "predecessors": [{"name": "AvtoVAZ", "id": 54438522}, {"name": "Cars_of_Russia", "id": 18528352}], "successors": []}

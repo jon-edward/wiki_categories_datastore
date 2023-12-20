@@ -1,1 +1,1 @@
-{"name": "Superhero_horror_films", "id": 55608491, "predecessors": [{"name": "Horror_genres", "id": 12301023}, {"name": "Entertainment", "id": 693016}], "successors": [{"name": "The_Toxic_Avenger_(franchise)", "id": 36850553}]}
+{"name": "Superhero_horror_films", "id": 55608491, "predecessors": [{"name": "Horror_films_by_genre", "id": 10180630}, {"name": "Adventure_fiction", "id": 5741107}, {"name": "Horror_genres", "id": 12301023}], "successors": [{"name": "The_Toxic_Avenger_(franchise)", "id": 36850553}]}

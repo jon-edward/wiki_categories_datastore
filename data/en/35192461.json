@@ -1,1 +1,1 @@
-{"name": "Crime_in_Uttar_Pradesh", "id": 35192461, "predecessors": [{"name": "Law_enforcement_in_India", "id": 1234980}], "successors": [{"name": "Criminals_from_Uttar_Pradesh", "id": 47035134}]}
+{"name": "Crime_in_Uttar_Pradesh", "id": 35192461, "predecessors": [{"name": "Uttar_Pradesh", "id": 977240}, {"name": "Crime_in_India", "id": 3541387}], "successors": [{"name": "People_murdered_in_Uttar_Pradesh", "id": 41947601}, {"name": "Criminals_from_Uttar_Pradesh", "id": 47035134}]}

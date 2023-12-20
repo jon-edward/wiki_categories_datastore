@@ -1,1 +1,1 @@
-{"name": "2020s_comedy_road_movies", "id": 64081158, "predecessors": [{"name": "2020s_road_movies", "id": 61427053}, {"name": "Comedy", "id": 696823}, {"name": "Science_fiction_themes", "id": 786868}], "successors": [{"name": "2020s_road_comedy-drama_films", "id": 66801331}]}
+{"name": "2020s_comedy_road_movies", "id": 64081158, "predecessors": [{"name": "2020s_road_movies", "id": 61427053}, {"name": "2020s_in_comedy", "id": 61764255}, {"name": "Human_behavior", "id": 2524202}], "successors": [{"name": "2020s_road_comedy-drama_films", "id": 66801331}]}

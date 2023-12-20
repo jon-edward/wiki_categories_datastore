@@ -1,1 +1,1 @@
-{"name": "Hanwha_Eagles_players", "id": 20934062, "predecessors": [{"name": "KBO_League_teams", "id": 27465771}, {"name": "Entertainment", "id": 693016}], "successors": []}
+{"name": "Hanwha_Eagles_players", "id": 20934062, "predecessors": [{"name": "KBO_League_players", "id": 27467097}, {"name": "KBO_League_teams", "id": 27465771}], "successors": []}

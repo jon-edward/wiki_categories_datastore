@@ -1,1 +1,1 @@
-{"name": "Kanagawa_prefekturako_hiriak", "id": 162811, "predecessors": [{"name": "Kanagawa_prefektura", "id": 162714}], "successors": [{"name": "Yokohama", "id": 154451}]}
+{"name": "Kanagawa_prefekturako_hiriak", "id": 162811, "predecessors": [{"name": "Kanagawa_prefektura", "id": 162714}, {"name": "Demografia", "id": 7864}], "successors": [{"name": "Yokohama", "id": 154451}]}

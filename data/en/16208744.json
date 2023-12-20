@@ -1,1 +1,1 @@
-{"name": "Triangles_of_numbers", "id": 16208744, "predecessors": [{"name": "Integer_sequences", "id": 693721}, {"name": "Triangles", "id": 732892}], "successors": []}
+{"name": "Triangles_of_numbers", "id": 16208744, "predecessors": [{"name": "Combinatorics", "id": 691896}, {"name": "Integer_sequences", "id": 693721}, {"name": "Matrix_theory", "id": 692453}, {"name": "Triangles", "id": 732892}], "successors": []}

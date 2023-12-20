@@ -1,1 +1,0 @@
-{"name": "Optimización", "id": 459870, "predecessors": [{"name": "Análisis_numérico", "id": 117351}], "successors": [{"name": "Algoritmos_de_búsqueda", "id": 182286}, {"name": "Análisis_de_la_regresión", "id": 2441264}, {"name": "Eficiencia_económica", "id": 5348353}, {"name": "Investigación_operativa", "id": 5472764}, {"name": "Optimización_combinatoria", "id": 10333846}]}

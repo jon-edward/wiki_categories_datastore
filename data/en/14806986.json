@@ -1,1 +1,1 @@
-{"name": "Bison", "id": 14806986, "predecessors": [{"name": "Bovines", "id": 922758}], "successors": [{"name": "Bison_herds", "id": 33803231}, {"name": "Bison_hunting", "id": 25656440}]}
+{"name": "Bison", "id": 14806986, "predecessors": [{"name": "Bovines", "id": 922758}], "successors": [{"name": "Bison_herds", "id": 33803231}, {"name": "Bison_hunting", "id": 25656440}, {"name": "Coats_of_arms_with_bison", "id": 46239343}]}

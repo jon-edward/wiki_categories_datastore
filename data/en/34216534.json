@@ -1,1 +1,1 @@
-{"name": "Insect_pheromones", "id": 34216534, "predecessors": [{"name": "Insect_ecology", "id": 4264463}, {"name": "Zoology", "id": 694590}], "successors": []}
+{"name": "Insect_pheromones", "id": 34216534, "predecessors": [{"name": "Chemical_ecology", "id": 26986497}, {"name": "Insect_ecology", "id": 4264463}, {"name": "Pheromones", "id": 5482244}, {"name": "Semiochemicals", "id": 65987992}, {"name": "Insects", "id": 858692}], "successors": []}

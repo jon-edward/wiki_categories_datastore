@@ -1,1 +1,1 @@
-{"name": "Murer", "id": 1393143, "predecessors": [{"name": "Arkitektur", "id": 10949}, {"name": "Geoteknikk", "id": 280121}], "successors": [{"name": "Bymurer", "id": 1355151}]}
+{"name": "Murer", "id": 1393143, "predecessors": [{"name": "Arkitektur", "id": 10949}, {"name": "Geoteknikk", "id": 280121}, {"name": "Byggverk_etter_funksjon", "id": 1370629}], "successors": [{"name": "Den_kinesiske_mur", "id": 510120}, {"name": "Bymurer", "id": 1355151}]}

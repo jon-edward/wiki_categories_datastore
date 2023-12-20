@@ -1,1 +1,1 @@
-{"name": "Obsolete_vertebrate_taxa", "id": 43808562, "predecessors": [{"name": "Obsolete_animal_taxa", "id": 43807812}, {"name": "Superphyla", "id": 52195996}], "successors": [{"name": "Obsolete_mammal_taxa", "id": 43530019}, {"name": "Obsolete_bird_taxa", "id": 43808592}]}
+{"name": "Obsolete_vertebrate_taxa", "id": 43808562, "predecessors": [{"name": "Obsolete_animal_taxa", "id": 43807812}, {"name": "Chordates", "id": 912575}], "successors": [{"name": "Obsolete_mammal_taxa", "id": 43530019}, {"name": "Obsolete_bird_taxa", "id": 43808592}]}

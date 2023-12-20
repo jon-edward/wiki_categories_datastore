@@ -1,1 +1,1 @@
-{"name": "Palm_diseases", "id": 41097694, "predecessors": [{"name": "Arecaceae", "id": 1190683}, {"name": "Monocot_diseases", "id": 41518190}], "successors": [{"name": "Coconut_palm_diseases", "id": 9691630}]}
+{"name": "Palm_diseases", "id": 41097694, "predecessors": [{"name": "Arecaceae", "id": 1190683}], "successors": [{"name": "Coconut_palm_diseases", "id": 9691630}, {"name": "Pests_of_oil_palm", "id": 66778960}]}

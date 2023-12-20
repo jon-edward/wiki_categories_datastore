@@ -1,1 +1,1 @@
-{"name": "Embaràs_humà", "id": 1123204, "predecessors": [{"name": "Fisiologia_animal", "id": 283909}, {"name": "Reproducció_sexual", "id": 1123272}], "successors": []}
+{"name": "Embaràs_humà", "id": 1123204, "predecessors": [{"name": "Fisiologia_animal", "id": 283909}, {"name": "Reproducció_sexual", "id": 1123272}], "successors": [{"name": "Problemes_de_salut_en_l'embaràs", "id": 1818085}]}

@@ -1,1 +1,1 @@
-{"name": "Maids", "id": 39859714, "predecessors": [{"name": "Gendered_occupations", "id": 47230144}], "successors": [{"name": "Fictional_maids", "id": 11734817}, {"name": "Maids_in_films", "id": 54445321}]}
+{"name": "Maids", "id": 39859714, "predecessors": [{"name": "Domestic_workers", "id": 4684029}, {"name": "Gendered_occupations", "id": 47230144}], "successors": [{"name": "Fictional_maids", "id": 11734817}, {"name": "Maids_in_films", "id": 54445321}]}

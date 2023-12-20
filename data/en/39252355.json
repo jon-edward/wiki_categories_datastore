@@ -1,1 +1,1 @@
-{"name": "Women_collectors", "id": 39252355, "predecessors": [{"name": "Collecting", "id": 1053587}], "successors": [{"name": "Women_philatelists", "id": 48688957}, {"name": "Women_art_collectors", "id": 56837793}, {"name": "Women_numismatists", "id": 61522649}]}
+{"name": "Women_collectors", "id": 39252355, "predecessors": [{"name": "Collecting", "id": 1053587}, {"name": "Female_mammals", "id": 36776654}], "successors": [{"name": "Women_philatelists", "id": 48688957}, {"name": "Women_art_collectors", "id": 56837793}, {"name": "Women_numismatists", "id": 61522649}]}

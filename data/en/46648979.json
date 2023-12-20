@@ -1,1 +1,1 @@
-{"name": "Electronic_cigarettes", "id": 46648979, "predecessors": [{"name": "Cigarette_types", "id": 17596699}, {"name": "Cigarettes", "id": 4568603}, {"name": "Smoking_cessation", "id": 31990749}], "successors": []}
+{"name": "Electronic_cigarettes", "id": 46648979, "predecessors": [{"name": "Cigarette_types", "id": 17596699}, {"name": "Cigarettes", "id": 4568603}, {"name": "Consumer_electronics", "id": 880368}, {"name": "Smoking_cessation", "id": 31990749}], "successors": []}

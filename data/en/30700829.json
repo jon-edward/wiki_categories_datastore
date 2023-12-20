@@ -1,1 +1,1 @@
-{"name": "Static_program_analysis", "id": 30700829, "predecessors": [{"name": "Program_analysis", "id": 30677141}], "successors": [{"name": "Static_program_analysis_tools", "id": 30852782}]}
+{"name": "Static_program_analysis", "id": 30700829, "predecessors": [{"name": "Program_analysis", "id": 30677141}], "successors": [{"name": "Abstract_interpretation", "id": 30701119}, {"name": "Static_program_analysis_tools", "id": 30852782}]}

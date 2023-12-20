@@ -1,1 +1,1 @@
-{"name": "Airport_bus_services", "id": 62049380, "predecessors": [{"name": "Airport_infrastructure", "id": 8942753}, {"name": "Buses_by_type", "id": 17199845}], "successors": [{"name": "Buses_serving_Heathrow_Airport", "id": 58230842}]}
+{"name": "Airport_bus_services", "id": 62049380, "predecessors": [{"name": "Airport_infrastructure", "id": 8942753}, {"name": "Buses_by_type", "id": 17199845}, {"name": "Public_transport_by_mode", "id": 15720272}], "successors": [{"name": "Buses_serving_Heathrow_Airport", "id": 58230842}]}

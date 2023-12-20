@@ -1,1 +1,1 @@
-{"name": "Proposed_energy_projects", "id": 27784853, "predecessors": [{"name": "Planning", "id": 7297152}, {"name": "Industries_(economics)", "id": 694873}], "successors": [{"name": "Oil_megaprojects", "id": 25935744}, {"name": "Proposed_energy_infrastructure", "id": 37494197}]}
+{"name": "Proposed_energy_projects", "id": 27784853, "predecessors": [{"name": "Planning", "id": 7297152}, {"name": "Energy", "id": 865456}], "successors": [{"name": "Oil_megaprojects", "id": 25935744}, {"name": "Proposed_energy_infrastructure", "id": 37494197}]}

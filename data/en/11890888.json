@@ -1,1 +1,1 @@
-{"name": "Neuroscience_journals", "id": 11890888, "predecessors": [{"name": "Biology_journals", "id": 1190560}], "successors": [{"name": "Psychiatry_journals", "id": 15092097}, {"name": "Neurology_journals", "id": 25977549}]}
+{"name": "Neuroscience_journals", "id": 11890888, "predecessors": [{"name": "Biology_journals", "id": 1190560}, {"name": "Neuroscience", "id": 714648}], "successors": [{"name": "Psychiatry_journals", "id": 15092097}, {"name": "Neurology_journals", "id": 25977549}]}

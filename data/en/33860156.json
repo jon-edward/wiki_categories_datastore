@@ -1,1 +1,1 @@
-{"name": "Aircraft_fires", "id": 33860156, "predecessors": [{"name": "Manufactured_goods", "id": 699552}], "successors": [{"name": "Aircraft_rescue_and_firefighting", "id": 71632854}]}
+{"name": "Aircraft_fires", "id": 33860156, "predecessors": [{"name": "Vehicles", "id": 694929}], "successors": [{"name": "Aircraft_rescue_and_firefighting", "id": 71632854}]}

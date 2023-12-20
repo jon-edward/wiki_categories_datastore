@@ -1,1 +1,1 @@
-{"name": "Weekly_news_magazines", "id": 51190368, "predecessors": [{"name": "Weekly_magazines", "id": 4809485}, {"name": "Publications", "id": 706830}], "successors": []}
+{"name": "Weekly_news_magazines", "id": 51190368, "predecessors": [{"name": "Weekly_magazines", "id": 4809485}, {"name": "Publications_by_format", "id": 11278400}], "successors": []}

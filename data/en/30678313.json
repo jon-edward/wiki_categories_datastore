@@ -1,1 +1,1 @@
-{"name": "Snooker_Shoot_Out", "id": 30678313, "predecessors": [{"name": "Snooker_non-ranking_competitions", "id": 25435751}, {"name": "Snooker_ranking_tournaments", "id": 696494}, {"name": "Sports_by_type", "id": 23596516}], "successors": []}
+{"name": "Snooker_Shoot_Out", "id": 30678313, "predecessors": [{"name": "Snooker_competitions_in_England", "id": 36673287}, {"name": "Snooker_non-ranking_competitions", "id": 25435751}, {"name": "Snooker_ranking_tournaments", "id": 696494}, {"name": "Cue_sports", "id": 9550418}], "successors": []}

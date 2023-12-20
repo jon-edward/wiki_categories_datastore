@@ -1,1 +1,1 @@
-{"name": "Pronouns", "id": 2396879, "predecessors": [{"name": "Parts_of_speech", "id": 869421}], "successors": [{"name": "Personal_pronouns", "id": 10722736}, {"name": "Pronouns_by_language", "id": 10812810}]}
+{"name": "Pronouns", "id": 2396879, "predecessors": [{"name": "Grammatical_number", "id": 1232708}, {"name": "Parts_of_speech", "id": 869421}], "successors": [{"name": "Personal_pronouns", "id": 10722736}, {"name": "Pronouns_by_language", "id": 10812810}]}

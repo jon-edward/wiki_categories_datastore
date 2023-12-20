@@ -1,1 +1,1 @@
-{"name": "Naval_trawlers", "id": 26344090, "predecessors": [{"name": "Auxiliary_ships", "id": 2956333}, {"name": "Naval_ships", "id": 733412}, {"name": "Trawlers", "id": 26344095}], "successors": [{"name": "Trawlers_of_the_Soviet_Navy", "id": 25121905}]}
+{"name": "Naval_trawlers", "id": 26344090, "predecessors": [{"name": "Auxiliary_ships", "id": 2956333}, {"name": "Naval_ships", "id": 733412}, {"name": "Trawlers", "id": 26344095}], "successors": [{"name": "Trawlers_of_the_Soviet_Navy", "id": 25121905}, {"name": "Battle-class_trawlers", "id": 13248656}]}

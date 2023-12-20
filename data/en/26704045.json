@@ -1,1 +1,1 @@
-{"name": "Music_chart_shows", "id": 26704045, "predecessors": [{"name": "Record_charts", "id": 1001347}, {"name": "Mass_media", "id": 696790}], "successors": [{"name": "American_Top_40", "id": 14965944}, {"name": "American_music_chart_television_shows", "id": 27406006}]}
+{"name": "Music_chart_shows", "id": 26704045, "predecessors": [{"name": "Record_charts", "id": 1001347}, {"name": "Sound_recording", "id": 2497458}], "successors": [{"name": "American_Top_40", "id": 14965944}, {"name": "American_music_chart_television_shows", "id": 27406006}]}

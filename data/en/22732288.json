@@ -1,1 +1,1 @@
-{"name": "Makerere_University", "id": 22732288, "predecessors": [{"name": "Education_in_Kampala", "id": 25229660}], "successors": []}
+{"name": "Makerere_University", "id": 22732288, "predecessors": [{"name": "Education_in_Kampala", "id": 25229660}], "successors": [{"name": "Makerere_University_alumni", "id": 19510230}, {"name": "Academic_staff_of_Makerere_University", "id": 31353408}]}

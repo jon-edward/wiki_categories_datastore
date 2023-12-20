@@ -1,1 +1,1 @@
-{"name": "Epidermal_nevi,_neoplasms,_and_cysts", "id": 19989709, "predecessors": [{"name": "Cysts", "id": 32580604}, {"name": "Integumentary_neoplasia", "id": 32582116}], "successors": []}
+{"name": "Epidermal_nevi,_neoplasms,_and_cysts", "id": 19989709, "predecessors": [{"name": "Cutaneous_conditions", "id": 19985319}, {"name": "Cysts", "id": 32580604}, {"name": "Integumentary_neoplasia", "id": 32582116}], "successors": []}

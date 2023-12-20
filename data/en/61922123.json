@@ -1,1 +1,1 @@
-{"name": "Cotton_industry_trade_unions", "id": 61922123, "predecessors": [{"name": "Cotton_industry", "id": 23671574}, {"name": "Textile_and_clothing_trade_unions", "id": 4055691}], "successors": []}
+{"name": "Cotton_industry_trade_unions", "id": 61922123, "predecessors": [{"name": "Textile_and_clothing_trade_unions", "id": 4055691}, {"name": "Agriculture_by_type", "id": 31038144}], "successors": []}

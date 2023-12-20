@@ -1,1 +1,1 @@
-{"name": "People_with_motor_neuron_disease", "id": 30447958, "predecessors": [{"name": "Amyotrophic_lateral_sclerosis", "id": 51014639}], "successors": [{"name": "Deaths_from_motor_neuron_disease", "id": 4378262}]}
+{"name": "People_with_motor_neuron_disease", "id": 30447958, "predecessors": [{"name": "Amyotrophic_lateral_sclerosis", "id": 51014639}, {"name": "Motor_neuron_diseases", "id": 30447951}], "successors": [{"name": "Deaths_from_motor_neuron_disease", "id": 4378262}]}

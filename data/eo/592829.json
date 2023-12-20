@@ -1,1 +1,1 @@
-{"name": "Historio_de_Burkino", "id": 592829, "predecessors": [{"name": "Burkino", "id": 45323}, {"name": "Historio", "id": 29769}, {"name": "Historio_de_Afriko", "id": 138155}], "successors": [{"name": "Franca_Okcidenta_Afriko", "id": 442194}]}
+{"name": "Historio_de_Burkino", "id": 592829, "predecessors": [{"name": "Burkino", "id": 45323}, {"name": "Historio_de_Okcidenta_Afriko", "id": 520763}, {"name": "Historio", "id": 29769}, {"name": "Historio_de_Afriko", "id": 138155}], "successors": [{"name": "Franca_Okcidenta_Afriko", "id": 442194}]}

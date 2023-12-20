@@ -1,1 +1,1 @@
-{"name": "Eicosanoids", "id": 720300, "predecessors": [{"name": "Lipids", "id": 713771}], "successors": [{"name": "Prostaglandins", "id": 718608}]}
+{"name": "Eicosanoids", "id": 720300, "predecessors": [{"name": "Lipids", "id": 713771}, {"name": "Chemistry", "id": 691185}], "successors": [{"name": "Prostaglandins", "id": 718608}]}

@@ -1,1 +1,1 @@
-{"name": "GABA_reuptake_inhibitors", "id": 18589181, "predecessors": [{"name": "Anticonvulsants", "id": 2273733}], "successors": []}
+{"name": "GABA_reuptake_inhibitors", "id": 18589181, "predecessors": [{"name": "Anticonvulsants", "id": 2273733}, {"name": "Membrane_biology", "id": 1064336}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Library_buildings_completed_in_1980", "id": 38499788, "predecessors": [{"name": "Buildings_and_structures_by_type", "id": 6884364}], "successors": []}
+{"name": "Library_buildings_completed_in_1980", "id": 38499788, "predecessors": [{"name": "Buildings_and_structures_completed_in_1980", "id": 29728848}, {"name": "Buildings_and_structures_completed_in_the_20th_century", "id": 30134951}], "successors": []}

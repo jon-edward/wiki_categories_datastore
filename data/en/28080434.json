@@ -1,1 +1,1 @@
-{"name": "Battery_(electricity)", "id": 28080434, "predecessors": [{"name": "Energy_storage", "id": 1847555}, {"name": "Transducers", "id": 969840}], "successors": [{"name": "Battery_inventors", "id": 31869369}]}
+{"name": "Battery_(electricity)", "id": 28080434, "predecessors": [{"name": "Energy_storage", "id": 1847555}, {"name": "Transducers", "id": 969840}, {"name": "Electrochemistry", "id": 698311}], "successors": [{"name": "Battery_inventors", "id": 31869369}]}

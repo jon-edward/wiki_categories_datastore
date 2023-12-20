@@ -1,1 +1,1 @@
-{"name": "Normal_distribution", "id": 31024872, "predecessors": [{"name": "Exponential_family_distributions", "id": 35718126}, {"name": "Gaussian_function", "id": 31024818}], "successors": [{"name": "Normality_tests", "id": 21393762}]}
+{"name": "Normal_distribution", "id": 31024872, "predecessors": [{"name": "Exponential_family_distributions", "id": 35718126}, {"name": "Gaussian_function", "id": 31024818}], "successors": [{"name": "Normality_tests", "id": 21393762}, {"name": "Central_limit_theorem", "id": 31025332}]}

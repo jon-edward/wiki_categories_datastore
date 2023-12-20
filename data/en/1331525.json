@@ -1,1 +1,1 @@
-{"name": "Oscillators", "id": 1331525, "predecessors": [{"name": "Oscillation", "id": 14056709}], "successors": [{"name": "Pendulums", "id": 7873884}, {"name": "Mechanical_vibrations", "id": 13532645}, {"name": "Electronic_oscillators", "id": 58774873}]}
+{"name": "Oscillators", "id": 1331525, "predecessors": [{"name": "Oscillation", "id": 14056709}], "successors": [{"name": "Pendulums", "id": 7873884}, {"name": "Mechanical_vibrations", "id": 13532645}, {"name": "Resonators", "id": 55937549}, {"name": "Electronic_oscillators", "id": 58774873}]}

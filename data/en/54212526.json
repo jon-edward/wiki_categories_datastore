@@ -1,1 +1,1 @@
-{"name": "Glider_manufacturers", "id": 54212526, "predecessors": [{"name": "Aerospace_companies", "id": 760233}, {"name": "Air_sports", "id": 3021809}], "successors": [{"name": "Schempp-Hirth_aircraft", "id": 18486598}]}
+{"name": "Glider_manufacturers", "id": 54212526, "predecessors": [{"name": "Glider_aircraft", "id": 751910}, {"name": "Aerospace_companies", "id": 760233}, {"name": "Air_sports", "id": 3021809}], "successors": [{"name": "Schempp-Hirth_aircraft", "id": 18486598}]}

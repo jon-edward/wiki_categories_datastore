@@ -1,1 +1,1 @@
-{"name": "Women's_conferences", "id": 48876948, "predecessors": [{"name": "Women's_events", "id": 37308407}], "successors": []}
+{"name": "Women's_conferences", "id": 48876948, "predecessors": [{"name": "Conferences", "id": 3267377}, {"name": "Women's_events", "id": 37308407}, {"name": "Identity_politics", "id": 16609007}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Propfan_engines", "id": 3812617, "predecessors": [{"name": "Gas_turbines", "id": 2077993}, {"name": "Jet_engines", "id": 723337}], "successors": []}
+{"name": "Propfan_engines", "id": 3812617, "predecessors": [{"name": "Gas_turbines", "id": 2077993}, {"name": "Jet_engines", "id": 723337}], "successors": [{"name": "Propfan-powered_aircraft", "id": 27008637}]}

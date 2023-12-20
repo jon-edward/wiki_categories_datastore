@@ -1,1 +1,1 @@
-{"name": "Opera_houses_in_Vienna", "id": 73018626, "predecessors": [{"name": "Classical_music", "id": 692796}], "successors": [{"name": "Vienna_State_Opera", "id": 27585932}]}
+{"name": "Opera_houses_in_Vienna", "id": 73018626, "predecessors": [{"name": "Music_in_Vienna", "id": 29870709}, {"name": "Theatres_in_Vienna", "id": 19261465}], "successors": [{"name": "Vienna_State_Opera", "id": 27585932}]}

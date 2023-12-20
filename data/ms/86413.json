@@ -1,1 +1,1 @@
-{"name": "Gerakan_agama_baru", "id": 86413, "predecessors": [{"name": "Agama", "id": 34804}], "successors": [{"name": "Zaman_Baru", "id": 86412}]}
+{"name": "Gerakan_agama_baru", "id": 86413, "predecessors": [{"name": "Agama", "id": 34804}, {"name": "Gerakan_sosial", "id": 82125}], "successors": [{"name": "Zaman_Baru", "id": 86412}]}

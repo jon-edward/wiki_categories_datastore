@@ -1,1 +1,1 @@
-{"name": "Reunions", "id": 20162175, "predecessors": [{"name": "Parties", "id": 698265}], "successors": [{"name": "Reunion_concert_tours", "id": 32584613}]}
+{"name": "Reunions", "id": 20162175, "predecessors": [{"name": "Meetings", "id": 1261738}, {"name": "Parties", "id": 698265}], "successors": [{"name": "Reunion_concert_tours", "id": 32584613}]}

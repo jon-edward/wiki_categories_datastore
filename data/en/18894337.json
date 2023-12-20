@@ -1,1 +1,1 @@
-{"name": "Industry_in_the_Arctic", "id": 18894337, "predecessors": [{"name": "Arctic", "id": 1392428}], "successors": []}
+{"name": "Industry_in_the_Arctic", "id": 18894337, "predecessors": [{"name": "Arctic", "id": 1392428}], "successors": [{"name": "Airports_in_Greenland", "id": 3504051}, {"name": "Ilulissat", "id": 31638456}, {"name": "Fjords_of_Greenland", "id": 2340038}, {"name": "Glaciers_of_Greenland", "id": 7714606}]}

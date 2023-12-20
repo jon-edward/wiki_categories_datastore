@@ -1,1 +1,1 @@
-{"name": "Kollektivtransport_i_Østfold", "id": 1194523, "predecessors": [{"name": "Kollektivtransport_i_Viken", "id": 1758085}, {"name": "Transport_i_Norge", "id": 39246}, {"name": "Administrative_inndelinger_i_Norge", "id": 497295}], "successors": [{"name": "Jernbanestasjoner_i_Østfold", "id": 1108725}]}
+{"name": "Kollektivtransport_i_Østfold", "id": 1194523, "predecessors": [{"name": "Transport_i_Norge", "id": 39246}, {"name": "Administrative_inndelinger_i_Norge", "id": 497295}], "successors": [{"name": "Jernbanestasjoner_i_Østfold", "id": 1108725}]}

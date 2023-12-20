@@ -1,1 +1,1 @@
-{"name": "Rock-cut_tombs", "id": 28022334, "predecessors": [{"name": "Rock-cut_architecture", "id": 42380454}, {"name": "Tombs", "id": 35250394}, {"name": "Erosion_landforms", "id": 11063669}], "successors": [{"name": "Petra", "id": 10146964}]}
+{"name": "Rock-cut_tombs", "id": 28022334, "predecessors": [{"name": "Caves", "id": 824482}, {"name": "Rock-cut_architecture", "id": 42380454}, {"name": "Tombs", "id": 35250394}], "successors": [{"name": "Petra", "id": 10146964}]}

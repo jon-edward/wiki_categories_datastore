@@ -1,1 +1,1 @@
-{"name": "Somerset_Light_Infantry_officers", "id": 13770944, "predecessors": [{"name": "Military_units_and_formations_in_Somerset", "id": 44829376}, {"name": "Military_units_and_formations_in_Cornwall", "id": 48306919}], "successors": [{"name": "Somerset_Militia_officers", "id": 72713564}]}
+{"name": "Somerset_Light_Infantry_officers", "id": 13770944, "predecessors": [{"name": "British_Army_officers", "id": 788424}, {"name": "British_light_infantry", "id": 18198340}], "successors": [{"name": "Somerset_Militia_officers", "id": 72713564}]}

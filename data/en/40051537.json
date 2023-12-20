@@ -1,1 +1,1 @@
-{"name": "Ectoparasites", "id": 40051537, "predecessors": [{"name": "Parasites", "id": 1653240}], "successors": []}
+{"name": "Ectoparasites", "id": 40051537, "predecessors": [{"name": "Microorganisms", "id": 2048996}], "successors": [{"name": "Polyopisthocotylea", "id": 41292359}, {"name": "Monopisthocotylea", "id": 41292361}, {"name": "Monogenea_genera", "id": 55699156}]}

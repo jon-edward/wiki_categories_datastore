@@ -1,1 +1,1 @@
-{"name": "Hengitys", "id": 291895, "predecessors": [{"name": "Fysiologia", "id": 25979}], "successors": [{"name": "Hengityselimistö", "id": 194133}]}
+{"name": "Hengitys", "id": 291895, "predecessors": [{"name": "Fysiologia", "id": 25979}, {"name": "Refleksit", "id": 249694}], "successors": [{"name": "Hengityselimistö", "id": 194133}]}

@@ -1,1 +1,1 @@
-{"name": "Spawn_characters", "id": 37789520, "predecessors": [{"name": "Spawn_(comics)", "id": 32931976}, {"name": "Image_Comics", "id": 693490}], "successors": []}
+{"name": "Spawn_characters", "id": 37789520, "predecessors": [{"name": "Image_Comics_characters", "id": 711029}, {"name": "Spawn_(comics)", "id": 32931976}], "successors": []}

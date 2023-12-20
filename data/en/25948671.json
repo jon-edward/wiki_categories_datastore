@@ -1,1 +1,1 @@
-{"name": "Thought_experiments_in_physics", "id": 25948671, "predecessors": [{"name": "Physics_experiments", "id": 1126619}], "successors": [{"name": "Physical_paradoxes", "id": 5307312}, {"name": "Thought_experiments_in_quantum_mechanics", "id": 25948765}]}
+{"name": "Thought_experiments_in_physics", "id": 25948671, "predecessors": [{"name": "Physics_experiments", "id": 1126619}, {"name": "Thought_experiments", "id": 1189668}], "successors": [{"name": "Physical_paradoxes", "id": 5307312}, {"name": "Thought_experiments_in_quantum_mechanics", "id": 25948765}]}

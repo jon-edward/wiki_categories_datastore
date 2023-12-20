@@ -1,1 +1,1 @@
-{"name": "Ontology_(information_science)", "id": 26259157, "predecessors": [{"name": "Knowledge_representation", "id": 796635}, {"name": "Metadata", "id": 2388558}], "successors": [{"name": "Ontology_languages", "id": 25225317}]}
+{"name": "Ontology_(information_science)", "id": 26259157, "predecessors": [{"name": "Knowledge_representation", "id": 796635}, {"name": "Metadata", "id": 2388558}], "successors": [{"name": "Ontology_editors", "id": 17688744}, {"name": "Ontology_languages", "id": 25225317}]}

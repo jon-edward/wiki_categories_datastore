@@ -1,1 +1,1 @@
-{"name": "Continued_fractions", "id": 2196538, "predecessors": [{"name": "Real_numbers", "id": 736442}], "successors": [{"name": "Golden_ratio", "id": 4175676}]}
+{"name": "Continued_fractions", "id": 2196538, "predecessors": [{"name": "Complex_analysis", "id": 691914}, {"name": "Number_theory", "id": 693745}, {"name": "Real_numbers", "id": 736442}], "successors": [{"name": "Golden_ratio", "id": 4175676}]}

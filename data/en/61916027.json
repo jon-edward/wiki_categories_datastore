@@ -1,1 +1,1 @@
-{"name": "United_States_Coast_Guard_enlisted", "id": 61916027, "predecessors": [{"name": "United_States_Coast_Guard", "id": 767677}, {"name": "United_States_military_enlisted_ranks", "id": 21180549}], "successors": [{"name": "United_States_Coast_Guard_non-commissioned_officers", "id": 67873446}]}
+{"name": "United_States_Coast_Guard_enlisted", "id": 61916027, "predecessors": [{"name": "American_military_personnel", "id": 6676519}], "successors": [{"name": "United_States_Coast_Guard_non-commissioned_officers", "id": 67873446}]}

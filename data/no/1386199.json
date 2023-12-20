@@ -1,1 +1,1 @@
-{"name": "Tidligere_bussprodusenter", "id": 1386199, "predecessors": [{"name": "Bussprodusenter", "id": 1288131}, {"name": "Tidligere_bilprodusenter", "id": 1493844}], "successors": [{"name": "Tidligere_norske_bussprodusenter", "id": 1780444}]}
+{"name": "Tidligere_bussprodusenter", "id": 1386199, "predecessors": [{"name": "Bussprodusenter", "id": 1288131}, {"name": "Bilprodusenter", "id": 17049}], "successors": [{"name": "Tidligere_norske_bussprodusenter", "id": 1780444}]}
