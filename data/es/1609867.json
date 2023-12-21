@@ -1,0 +1,1 @@
+{"name": "Neumáticos", "id": 1609867, "predecessors": [{"name": "Componentes_del_automóvil", "id": 1728403}, {"name": "Ruedas", "id": 9280931}, {"name": "Tecnologías_del_automóvil", "id": 377206}], "successors": [{"name": "Fabricantes_de_neumáticos", "id": 266218}]}

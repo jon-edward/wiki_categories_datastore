@@ -1,1 +1,1 @@
-{"name": "糖酸", "id": 1119702, "predecessors": [{"name": "糖类", "id": 1381230}, {"name": "羧酸", "id": 80594}], "successors": []}
+{"name": "糖酸", "id": 1119702, "predecessors": [{"name": "羧酸", "id": 80594}], "successors": []}

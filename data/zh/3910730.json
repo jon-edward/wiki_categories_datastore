@@ -1,1 +1,1 @@
-{"name": "入侵昆蟲種", "id": 3910730, "predecessors": [{"name": "昆蟲綱", "id": 71029}], "successors": []}
+{"name": "入侵昆蟲種", "id": 3910730, "predecessors": [{"name": "入侵動物種", "id": 3910728}, {"name": "昆蟲綱", "id": 71029}], "successors": []}

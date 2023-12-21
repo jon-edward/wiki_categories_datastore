@@ -1,1 +1,1 @@
-{"name": "宗教音樂", "id": 158602, "predecessors": [{"name": "音樂類型", "id": 70662}, {"name": "視覺藝術", "id": 66057}], "successors": []}
+{"name": "宗教音樂", "id": 158602, "predecessors": [{"name": "宗教", "id": 33582}], "successors": [{"name": "基督教歌曲", "id": 1237100}]}

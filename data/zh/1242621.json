@@ -1,1 +1,1 @@
-{"name": "秘魯河流", "id": 1242621, "predecessors": [{"name": "秘鲁地理", "id": 490413}], "successors": [{"name": "亞馬孫河", "id": 2801393}]}
+{"name": "秘魯河流", "id": 1242621, "predecessors": [{"name": "水體", "id": 77215}, {"name": "秘鲁地理", "id": 490413}], "successors": [{"name": "亞馬孫河", "id": 2801393}]}

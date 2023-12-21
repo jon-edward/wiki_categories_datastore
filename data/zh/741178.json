@@ -1,1 +1,1 @@
-{"name": "电路定理", "id": 741178, "predecessors": [{"name": "物理定理", "id": 751915}], "successors": []}
+{"name": "电路定理", "id": 741178, "predecessors": [{"name": "物理定理", "id": 751915}, {"name": "电路", "id": 98228}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "長田區交通", "id": 8113415, "predecessors": [{"name": "神戶市", "id": 687814}], "successors": [{"name": "長田區鐵路車站", "id": 5234973}]}
+{"name": "長田區交通", "id": 8113415, "predecessors": [{"name": "神戶市", "id": 687814}, {"name": "交通", "id": 44301}], "successors": [{"name": "長田區鐵路車站", "id": 5234973}]}

@@ -1,1 +1,1 @@
-{"name": "N-异丙基苯氧基丙醇胺", "id": 8339143, "predecessors": [{"name": "胺", "id": 80579}], "successors": []}
+{"name": "N-异丙基苯氧基丙醇胺", "id": 8339143, "predecessors": [{"name": "異丙基化合物", "id": 6926026}, {"name": "胺", "id": 80579}], "successors": [{"name": "N-叔丁基苯氧基丙醇胺", "id": 8566679}]}

@@ -1,1 +1,1 @@
-{"name": "无线电频率传播", "id": 1723366, "predecessors": [{"name": "業餘無線電", "id": 1269864}, {"name": "電磁輻射", "id": 776892}], "successors": [{"name": "頻譜", "id": 542502}]}
+{"name": "无线电频率传播", "id": 1723366, "predecessors": [{"name": "電磁輻射", "id": 776892}], "successors": [{"name": "頻譜", "id": 542502}]}

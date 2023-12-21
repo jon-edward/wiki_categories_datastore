@@ -1,1 +1,1 @@
-{"name": "燃烧", "id": 1655420, "predecessors": [{"name": "化学过程", "id": 1535018}, {"name": "氧", "id": 598171}], "successors": [{"name": "火", "id": 405987}]}
+{"name": "燃烧", "id": 1655420, "predecessors": [{"name": "化学过程", "id": 1535018}, {"name": "氧", "id": 598171}, {"name": "可持续技术", "id": 1603235}], "successors": [{"name": "燃料", "id": 80696}, {"name": "火", "id": 405987}]}

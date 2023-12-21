@@ -1,1 +1,1 @@
-{"name": "溫度計", "id": 377692, "predecessors": [{"name": "温度", "id": 78153}, {"name": "電磁波譜", "id": 73332}], "successors": []}
+{"name": "溫度計", "id": 377692, "predecessors": [{"name": "温度", "id": 78153}, {"name": "玻璃应用", "id": 1608234}, {"name": "度量儀器", "id": 65700}], "successors": []}

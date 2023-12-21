@@ -1,1 +1,1 @@
-{"name": "甲府市建築物", "id": 8370363, "predecessors": [{"name": "甲府市", "id": 4047090}], "successors": [{"name": "甲府市鐵路車站", "id": 7060944}]}
+{"name": "甲府市建築物", "id": 8370363, "predecessors": [{"name": "甲府市", "id": 4047090}, {"name": "大洲", "id": 41476}], "successors": [{"name": "甲府市鐵路車站", "id": 7060944}]}

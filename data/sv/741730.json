@@ -1,1 +1,1 @@
-{"name": "Förstörda_byggnadsverk", "id": 741730, "predecessors": [{"name": "Ej_längre_existerande_byggnader", "id": 928879}, {"name": "Förstörelse", "id": 2480861}, {"name": "Arkitektur", "id": 51576}], "successors": []}
+{"name": "Förstörda_byggnadsverk", "id": 741730, "predecessors": [{"name": "Ej_längre_existerande_byggnader", "id": 928879}, {"name": "Förstörelse", "id": 2480861}, {"name": "Arkitektur", "id": 51576}], "successors": [{"name": "Ruiner", "id": 404437}]}

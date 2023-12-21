@@ -1,1 +1,1 @@
-{"name": "美國艦炮", "id": 8527776, "predecessors": [{"name": "火炮", "id": 52697}, {"name": "美國海軍武器", "id": 7929366}], "successors": []}
+{"name": "美國艦炮", "id": 8527776, "predecessors": [{"name": "海軍武器", "id": 467511}, {"name": "火炮", "id": 52697}, {"name": "美國海軍武器", "id": 7929366}], "successors": []}

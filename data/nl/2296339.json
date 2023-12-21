@@ -1,0 +1,1 @@
+{"name": "Vervoer_met_behulp_van_dieren", "id": 2296339, "predecessors": [{"name": "Dier", "id": 65919}, {"name": "Vervoermiddel", "id": 79534}], "successors": [{"name": "Paard_en_wagen", "id": 1881894}, {"name": "Cavalerie", "id": 2975222}]}

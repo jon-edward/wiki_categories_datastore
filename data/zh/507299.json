@@ -1,1 +1,1 @@
-{"name": "茶具", "id": 507299, "predecessors": [{"name": "茶", "id": 46065}], "successors": [{"name": "東亞茶具", "id": 5351891}]}
+{"name": "茶具", "id": 507299, "predecessors": [{"name": "茶", "id": 46065}, {"name": "陶器", "id": 3213670}, {"name": "飲具", "id": 4724475}], "successors": [{"name": "東亞茶具", "id": 5351891}]}

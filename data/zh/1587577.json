@@ -1,1 +1,1 @@
-{"name": "暴風雪災", "id": 1587577, "predecessors": [{"name": "風暴", "id": 1587572}], "successors": []}
+{"name": "暴風雪災", "id": 1587577, "predecessors": [{"name": "氣象災害", "id": 1221189}], "successors": [{"name": "雪崩", "id": 1512279}]}

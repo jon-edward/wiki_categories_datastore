@@ -1,1 +1,1 @@
-{"name": "分娩", "id": 1693351, "predecessors": [{"name": "一", "id": 741289}], "successors": []}
+{"name": "分娩", "id": 1693351, "predecessors": [{"name": "產科學", "id": 653805}, {"name": "本体论", "id": 594818}], "successors": [{"name": "助产术", "id": 1693341}, {"name": "妊娠，分娩和產褥期的病理", "id": 3750739}]}

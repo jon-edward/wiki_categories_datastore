@@ -1,1 +1,1 @@
-{"name": "核动力潜艇", "id": 522976, "predecessors": [{"name": "核动力舰船", "id": 522974}], "successors": []}
+{"name": "核动力潜艇", "id": 522976, "predecessors": [{"name": "核动力舰船", "id": 522974}, {"name": "潛艇", "id": 281388}], "successors": []}

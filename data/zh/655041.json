@@ -1,1 +1,1 @@
-{"name": "中秋節食品", "id": 655041, "predecessors": [{"name": "地方主義", "id": 5230196}], "successors": [{"name": "月饼", "id": 2999461}]}
+{"name": "中秋節食品", "id": 655041, "predecessors": [{"name": "中秋節", "id": 654635}, {"name": "亚洲文化", "id": 947695}], "successors": [{"name": "月饼", "id": 2999461}]}

@@ -1,1 +1,1 @@
-{"name": "月球車", "id": 3741655, "predecessors": [{"name": "空间探测器", "id": 34009}], "successors": []}
+{"name": "月球車", "id": 3741655, "predecessors": [{"name": "月球航天器", "id": 363688}, {"name": "空间探测器", "id": 34009}], "successors": []}

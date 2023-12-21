@@ -1,0 +1,1 @@
+{"name": "Feuerung", "id": 3456962, "predecessors": [{"name": "Feuerungstechnik", "id": 5171202}, {"name": "Wärmeerzeuger", "id": 884190}], "successors": [{"name": "Brenner_(Gerät)", "id": 3522964}]}

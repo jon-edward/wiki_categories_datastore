@@ -1,1 +1,1 @@
-{"name": "塑料工业", "id": 1713578, "predecessors": [{"name": "塑料", "id": 525872}, {"name": "製造業", "id": 1159067}], "successors": [{"name": "机械加工", "id": 1713576}]}
+{"name": "塑料工业", "id": 1713578, "predecessors": [{"name": "化学工业", "id": 78032}, {"name": "製造業", "id": 1159067}], "successors": [{"name": "机械加工", "id": 1713576}]}

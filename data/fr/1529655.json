@@ -1,0 +1,1 @@
+{"name": "Support_et_contenant_pour_le_transport", "id": 1529655, "predecessors": [{"name": "Transport", "id": 82492}, {"name": "Logistique", "id": 441337}], "successors": [{"name": "Sac", "id": 1692477}, {"name": "Wagon", "id": 2889202}]}

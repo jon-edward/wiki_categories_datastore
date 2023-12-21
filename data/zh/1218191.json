@@ -1,1 +1,1 @@
-{"name": "發電機", "id": 1218191, "predecessors": [{"name": "机械", "id": 321815}], "successors": []}
+{"name": "發電機", "id": 1218191, "predecessors": [{"name": "电力系统组件", "id": 1666806}, {"name": "電子元件", "id": 73185}], "successors": []}

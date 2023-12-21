@@ -1,1 +1,1 @@
-{"name": "水力学", "id": 1295309, "predecessors": [{"name": "流体动力学", "id": 743163}, {"name": "机械工程", "id": 55833}], "successors": [{"name": "泵", "id": 1045919}, {"name": "压力容器", "id": 1440518}]}
+{"name": "水力学", "id": 1295309, "predecessors": [{"name": "地球科学", "id": 42997}], "successors": [{"name": "泵", "id": 1045919}, {"name": "压力容器", "id": 1440518}]}

@@ -1,1 +1,1 @@
-{"name": "艦炮", "id": 589265, "predecessors": [{"name": "火炮", "id": 52697}], "successors": [{"name": "海軍高射炮", "id": 6230516}, {"name": "海岸炮", "id": 7292212}]}
+{"name": "艦炮", "id": 589265, "predecessors": [{"name": "海軍武器", "id": 467511}, {"name": "火炮", "id": 52697}], "successors": [{"name": "海軍高射炮", "id": 6230516}, {"name": "海岸炮", "id": 7292212}]}

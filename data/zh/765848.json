@@ -1,1 +1,1 @@
-{"name": "有机碘化合物", "id": 765848, "predecessors": [{"name": "碘化合物", "id": 697146}], "successors": []}
+{"name": "有机碘化合物", "id": 765848, "predecessors": [{"name": "卤素", "id": 714236}], "successors": [{"name": "碘代芳烃", "id": 6922284}, {"name": "碘代烷烃", "id": 7047827}]}

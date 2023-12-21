@@ -1,1 +1,1 @@
-{"name": "军用动物", "id": 481488, "predecessors": [{"name": "化学武器", "id": 110854}], "successors": []}
+{"name": "军用动物", "id": 481488, "predecessors": [{"name": "军事装备", "id": 144375}, {"name": "馴養動物", "id": 78182}, {"name": "化学武器", "id": 110854}], "successors": []}

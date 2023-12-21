@@ -1,1 +1,1 @@
-{"name": "郵件傳送代理", "id": 520985, "predecessors": [{"name": "电子邮件", "id": 64514}], "successors": []}
+{"name": "郵件傳送代理", "id": 520985, "predecessors": [{"name": "电子邮件", "id": 64514}, {"name": "系统软件", "id": 43177}], "successors": []}

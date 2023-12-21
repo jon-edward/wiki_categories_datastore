@@ -1,1 +1,1 @@
-{"name": "GNOME", "id": 112834, "predecessors": [{"name": "GNU计划软件", "id": 540844}, {"name": "GTK", "id": 1130245}], "successors": [{"name": "GNOME应用程序", "id": 4008477}, {"name": "GNOME函式庫", "id": 8121105}]}
+{"name": "GNOME", "id": 112834, "predecessors": [{"name": "GNU计划软件", "id": 540844}, {"name": "GTK", "id": 1130245}, {"name": "自由桌面环境", "id": 4031381}, {"name": "Unix软件", "id": 451600}], "successors": [{"name": "GNOME应用程序", "id": 4008477}, {"name": "GNOME函式庫", "id": 8121105}]}

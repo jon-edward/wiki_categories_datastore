@@ -1,1 +1,1 @@
-{"name": "王位继承顺序", "id": 5700860, "predecessors": [{"name": "貴族", "id": 70685}, {"name": "国家安全", "id": 674440}], "successors": []}
+{"name": "王位继承顺序", "id": 5700860, "predecessors": [{"name": "王位继承", "id": 5700859}, {"name": "貴族", "id": 70685}, {"name": "军事通信", "id": 1714145}], "successors": []}

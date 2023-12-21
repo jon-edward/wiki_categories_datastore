@@ -1,0 +1,1 @@
+{"name": "Tumor", "id": 3414304, "predecessors": [{"name": "Doenças", "id": 15057}], "successors": [{"name": "Tipos_de_tumores", "id": 3414303}, {"name": "Tumor_vascular", "id": 5206051}]}

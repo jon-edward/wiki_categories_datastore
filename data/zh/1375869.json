@@ -1,1 +1,1 @@
-{"name": "语言游戏", "id": 1375869, "predecessors": [{"name": "文字游戏", "id": 396642}], "successors": []}
+{"name": "语言游戏", "id": 1375869, "predecessors": [{"name": "人工語言", "id": 72619}, {"name": "文字游戏", "id": 396642}, {"name": "智力游戏", "id": 85009}, {"name": "辨识混淆", "id": 7661728}], "successors": []}

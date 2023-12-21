@@ -1,1 +1,1 @@
-{"name": "生物胺", "id": 1520757, "predecessors": [{"name": "生物分子", "id": 1520756}, {"name": "胺", "id": 80579}], "successors": [{"name": "儿茶酚胺", "id": 1122160}]}
+{"name": "生物胺", "id": 1520757, "predecessors": [{"name": "胺", "id": 80579}], "successors": [{"name": "儿茶酚胺", "id": 1122160}]}

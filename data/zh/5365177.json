@@ -1,1 +1,1 @@
-{"name": "内流盆地", "id": 5365177, "predecessors": [{"name": "流水地貌", "id": 1836283}], "successors": []}
+{"name": "内流盆地", "id": 5365177, "predecessors": [{"name": "流水地貌", "id": 1836283}, {"name": "窪地", "id": 7596021}], "successors": [{"name": "新疆盆地", "id": 5577227}]}

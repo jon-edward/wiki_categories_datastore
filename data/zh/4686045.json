@@ -1,1 +1,1 @@
-{"name": "物理算符", "id": 4686045, "predecessors": [{"name": "理论物理", "id": 458961}, {"name": "经典力学", "id": 120464}, {"name": "量子力学", "id": 123370}, {"name": "量子场论", "id": 123403}], "successors": []}
+{"name": "物理算符", "id": 4686045, "predecessors": [{"name": "理论物理", "id": 458961}], "successors": []}

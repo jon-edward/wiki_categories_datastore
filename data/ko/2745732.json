@@ -1,0 +1,1 @@
+{"name": "환기_장치", "id": 2745732, "predecessors": [{"name": "도구", "id": 30522}, {"name": "HVAC", "id": 1113936}], "successors": [{"name": "부채", "id": 2745594}]}

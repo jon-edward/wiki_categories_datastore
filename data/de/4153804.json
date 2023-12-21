@@ -1,0 +1,1 @@
+{"name": "Ziegelei", "id": 4153804, "predecessors": [{"name": "Baustoffhersteller", "id": 2793595}, {"name": "Keramikbrennofen", "id": 7475863}, {"name": "Keramikhersteller", "id": 5281032}, {"name": "Ziegel", "id": 961224}], "successors": [{"name": "Ziegelei_in_Deutschland", "id": 7396862}, {"name": "Ziegeleimuseum", "id": 7852271}]}

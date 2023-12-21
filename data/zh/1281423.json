@@ -1,1 +1,1 @@
-{"name": "破冰船", "id": 1281423, "predecessors": [{"name": "冰", "id": 1543454}], "successors": []}
+{"name": "破冰船", "id": 1281423, "predecessors": [{"name": "冰", "id": 1543454}, {"name": "军舰类型", "id": 4668711}], "successors": []}

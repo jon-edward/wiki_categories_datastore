@@ -1,1 +1,1 @@
-{"name": "墨西哥城交通", "id": 4020848, "predecessors": [{"name": "墨西哥城", "id": 1233009}, {"name": "墨西哥", "id": 56651}], "successors": [{"name": "墨西哥城地鐵路線", "id": 6730402}]}
+{"name": "墨西哥城交通", "id": 4020848, "predecessors": [{"name": "墨西哥城", "id": 1233009}, {"name": "美洲", "id": 41474}], "successors": []}

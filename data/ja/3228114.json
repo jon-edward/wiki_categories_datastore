@@ -1,0 +1,1 @@
+{"name": "クイズ解答者", "id": 3228114, "predecessors": [{"name": "クイズ", "id": 246841}, {"name": "レジャー活動", "id": 4010591}], "successors": [{"name": "QuizKnock", "id": 4686673}]}

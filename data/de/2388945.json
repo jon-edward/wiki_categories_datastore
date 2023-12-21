@@ -1,0 +1,1 @@
+{"name": "Internetzugang", "id": 2388945, "predecessors": [{"name": "Internet", "id": 240464}], "successors": [{"name": "WLAN", "id": 288767}, {"name": "ISDN", "id": 356610}, {"name": "Digital_Subscriber_Line", "id": 1712252}, {"name": "Internetdienstanbieter", "id": 2198160}, {"name": "Modemtechnik", "id": 8616097}]}

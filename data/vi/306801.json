@@ -1,1 +1,1 @@
-{"name": "Billboard_Hot_100", "id": 306801, "predecessors": [{"name": "Bảng_xếp_hạng_Billboard", "id": 488679}], "successors": [{"name": "Đĩa_đơn_quán_quân_Billboard_Hot_100", "id": 288234}, {"name": "Danh_sách_đĩa_đơn_quán_quân_Hot_100", "id": 387405}]}
+{"name": "Billboard_Hot_100", "id": 306801, "predecessors": [{"name": "Bảng_xếp_hạng_Billboard", "id": 488679}, {"name": "Bảng_xếp_hạng_âm_nhạc", "id": 19831171}], "successors": [{"name": "Đĩa_đơn_quán_quân_Billboard_Hot_100", "id": 288234}, {"name": "Danh_sách_đĩa_đơn_quán_quân_Hot_100", "id": 387405}]}

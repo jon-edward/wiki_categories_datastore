@@ -1,1 +1,1 @@
-{"name": "財務比率", "id": 1570494, "predecessors": [{"name": "基本面分析", "id": 124915}, {"name": "比率", "id": 819683}], "successors": []}
+{"name": "財務比率", "id": 1570494, "predecessors": [{"name": "基本面分析", "id": 124915}, {"name": "审计", "id": 269677}, {"name": "金融", "id": 168518}], "successors": []}

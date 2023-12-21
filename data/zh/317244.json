@@ -1,1 +1,1 @@
-{"name": "新幹線車輛", "id": 317244, "predecessors": [{"name": "新幹線", "id": 58296}, {"name": "高速铁路车辆", "id": 1492373}], "successors": []}
+{"name": "新幹線車輛", "id": 317244, "predecessors": [{"name": "新幹線", "id": 58296}, {"name": "日本鐵路", "id": 219206}], "successors": []}

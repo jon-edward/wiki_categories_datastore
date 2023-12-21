@@ -1,1 +1,1 @@
-{"name": "美國高原", "id": 3231277, "predecessors": [{"name": "美国地理", "id": 42995}], "successors": [{"name": "科罗拉多高原", "id": 6099994}]}
+{"name": "美國高原", "id": 3231277, "predecessors": [{"name": "高原", "id": 51818}, {"name": "大洲", "id": 41476}], "successors": [{"name": "科罗拉多高原", "id": 6099994}]}

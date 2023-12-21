@@ -1,1 +1,1 @@
-{"name": "奥地利命名列车", "id": 3716692, "predecessors": [{"name": "國家列表", "id": 393719}], "successors": []}
+{"name": "奥地利命名列车", "id": 3716692, "predecessors": [{"name": "鐵路列車", "id": 698153}, {"name": "交通", "id": 44301}], "successors": []}

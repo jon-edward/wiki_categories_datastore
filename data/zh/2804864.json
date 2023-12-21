@@ -1,1 +1,1 @@
-{"name": "美国石油工业", "id": 2804864, "predecessors": [{"name": "美國經濟", "id": 69985}], "successors": [{"name": "美国石油公司", "id": 1523754}]}
+{"name": "美国石油工业", "id": 2804864, "predecessors": [{"name": "石油工业", "id": 149048}, {"name": "各类产业", "id": 1405671}], "successors": [{"name": "美国石油公司", "id": 1523754}]}

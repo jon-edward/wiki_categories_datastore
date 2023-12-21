@@ -1,1 +1,1 @@
-{"name": "地球軌道", "id": 7387012, "predecessors": [{"name": "航天", "id": 81152}, {"name": "軌道", "id": 695036}], "successors": [{"name": "环绕地球运行的废弃卫星", "id": 7387017}]}
+{"name": "地球軌道", "id": 7387012, "predecessors": [{"name": "地球", "id": 33918}, {"name": "航天", "id": 81152}, {"name": "軌道", "id": 695036}], "successors": []}

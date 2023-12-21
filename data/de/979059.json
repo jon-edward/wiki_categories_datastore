@@ -1,0 +1,1 @@
+{"name": "Passives_Bauelement", "id": 979059, "predecessors": [{"name": "Elektrisches_Bauelement", "id": 1695030}], "successors": [{"name": "Induktanz", "id": 1708329}, {"name": "Kondensator_(Elektrotechnik)", "id": 1708376}, {"name": "Widerstand", "id": 2263484}, {"name": "Gasentladungslampe", "id": 3336395}, {"name": "Glühlampe", "id": 7651361}]}

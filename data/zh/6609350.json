@@ -1,1 +1,1 @@
-{"name": "空气质量指数", "id": 6609350, "predecessors": [{"name": "指標", "id": 1287054}], "successors": []}
+{"name": "空气质量指数", "id": 6609350, "predecessors": [{"name": "空氣污染", "id": 294487}, {"name": "指標", "id": 1287054}], "successors": []}

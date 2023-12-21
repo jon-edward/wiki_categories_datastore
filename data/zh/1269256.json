@@ -1,1 +1,1 @@
-{"name": "光污染", "id": 1269256, "predecessors": [{"name": "光", "id": 1349820}], "successors": []}
+{"name": "光污染", "id": 1269256, "predecessors": [{"name": "光", "id": 1349820}, {"name": "污染", "id": 65705}, {"name": "觀測天文學", "id": 501862}], "successors": [{"name": "暗空保育区", "id": 6150233}]}

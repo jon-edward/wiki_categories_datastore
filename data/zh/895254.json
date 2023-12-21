@@ -1,1 +1,1 @@
-{"name": "可循環再造物料", "id": 895254, "predecessors": [{"name": "材料", "id": 58876}], "successors": []}
+{"name": "可循環再造物料", "id": 895254, "predecessors": [{"name": "循環再造", "id": 748757}, {"name": "材料", "id": 58876}], "successors": []}

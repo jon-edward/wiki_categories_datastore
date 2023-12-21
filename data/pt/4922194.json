@@ -1,0 +1,1 @@
+{"name": "Neoplasias", "id": 4922194, "predecessors": [{"name": "Anatomia_patológica", "id": 254766}, {"name": "Doenças", "id": 15057}, {"name": "Oncologia", "id": 59675}], "successors": [{"name": "Tipos_de_neoplasia", "id": 4631121}, {"name": "Neoplasias_benignas", "id": 4922172}, {"name": "Neoplasias_malignas", "id": 4922184}, {"name": "Anomalias_vasculares", "id": 4938828}]}

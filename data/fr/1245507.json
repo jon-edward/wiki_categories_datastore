@@ -1,0 +1,1 @@
+{"name": "Matériel_de_réseau_informatique", "id": 1245507, "predecessors": [{"name": "Matériel_informatique", "id": 126616}, {"name": "Réseau_de_télécommunications", "id": 2693947}, {"name": "Réseau_informatique", "id": 302733}], "successors": [{"name": "Routeur", "id": 1017741}, {"name": "Serveur_informatique", "id": 7020165}]}

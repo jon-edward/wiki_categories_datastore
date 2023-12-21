@@ -1,0 +1,1 @@
+{"name": "Tamaño", "id": 5061592, "predecessors": [{"name": "Medición", "id": 5060662}], "successors": [{"name": "Estatura", "id": 2997432}, {"name": "Área", "id": 4538588}, {"name": "Longitud", "id": 5061611}, {"name": "Volumen", "id": 5061933}, {"name": "Gigantismo_insular", "id": 5570936}, {"name": "Enanismo_insular", "id": 5570943}]}

@@ -1,1 +1,1 @@
-{"name": "市电电源连接器", "id": 6208525, "predecessors": [{"name": "电线", "id": 1714416}, {"name": "電子連接器", "id": 1133641}], "successors": []}
+{"name": "市电电源连接器", "id": 6208525, "predecessors": [{"name": "电线", "id": 1714416}, {"name": "電源連接器", "id": 4329123}], "successors": []}

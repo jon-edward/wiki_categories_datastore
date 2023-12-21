@@ -1,1 +1,1 @@
-{"name": "美國飛彈", "id": 940861, "predecessors": [{"name": "美國軍事裝備", "id": 3412410}], "successors": [{"name": "美國彈道飛彈", "id": 641771}]}
+{"name": "美國飛彈", "id": 940861, "predecessors": [{"name": "导弹", "id": 322540}, {"name": "美國軍事裝備", "id": 3412410}], "successors": [{"name": "美國彈道飛彈", "id": 641771}]}

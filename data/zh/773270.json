@@ -1,1 +1,1 @@
-{"name": "塞舌尔岛屿", "id": 773270, "predecessors": [{"name": "塞舌尔地理", "id": 1619721}], "successors": []}
+{"name": "塞舌尔岛屿", "id": 773270, "predecessors": [{"name": "岛屿", "id": 52393}, {"name": "塞舌尔地理", "id": 1619721}, {"name": "大洲", "id": 41476}], "successors": [{"name": "塞舌尔环礁", "id": 5206169}, {"name": "馬埃島", "id": 6696623}]}

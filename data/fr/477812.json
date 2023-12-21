@@ -1,0 +1,1 @@
+{"name": "TGV", "id": 477812, "predecessors": [{"name": "Marque_de_transport", "id": 1339314}, {"name": "Train_articulé", "id": 4625905}, {"name": "Train_à_grande_vitesse", "id": 477797}, {"name": "Voyages_SNCF", "id": 5057045}], "successors": [{"name": "Gare_TGV", "id": 837236}, {"name": "Rame_TGV", "id": 4774652}]}

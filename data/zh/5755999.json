@@ -1,1 +1,1 @@
-{"name": "光學家", "id": 5755999, "predecessors": [{"name": "光學", "id": 59777}, {"name": "物理学家", "id": 35540}], "successors": [{"name": "配鏡師", "id": 90093}, {"name": "中国光学家", "id": 3185308}]}
+{"name": "光學家", "id": 5755999, "predecessors": [{"name": "光學", "id": 59777}], "successors": [{"name": "配鏡師", "id": 90093}, {"name": "中国光学家", "id": 3185308}]}

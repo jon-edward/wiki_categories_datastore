@@ -1,1 +1,1 @@
-{"name": "XML", "id": 77551, "predecessors": [{"name": "W3C标准", "id": 521573}], "successors": [{"name": "基于XML的标准", "id": 521585}, {"name": "AJAX", "id": 770719}]}
+{"name": "XML", "id": 77551, "predecessors": [{"name": "W3C标准", "id": 521573}, {"name": "标记语言", "id": 1594798}], "successors": [{"name": "基于XML的标准", "id": 521585}, {"name": "AJAX", "id": 770719}]}

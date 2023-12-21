@@ -1,1 +1,1 @@
-{"name": "伦敦塔囚徒", "id": 6858339, "predecessors": [{"name": "倫敦建築物", "id": 3071299}], "successors": [{"name": "處決於倫敦塔者", "id": 6456050}]}
+{"name": "伦敦塔囚徒", "id": 6858339, "predecessors": [{"name": "欧洲执法", "id": 5352801}, {"name": "城堡", "id": 69952}], "successors": [{"name": "處決於倫敦塔者", "id": 6456050}]}

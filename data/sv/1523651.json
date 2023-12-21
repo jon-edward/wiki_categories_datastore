@@ -1,1 +1,1 @@
-{"name": "Danska_klassiska_pianister", "id": 1523651, "predecessors": [{"name": "Danska_klassiska_musiker", "id": 1432843}, {"name": "Danska_pianister", "id": 707661}, {"name": "Musikgenrer", "id": 56587}], "successors": []}
+{"name": "Danska_klassiska_pianister", "id": 1523651, "predecessors": [{"name": "Danska_pianister", "id": 707661}, {"name": "Danska_musiker", "id": 117707}, {"name": "Musikgenrer", "id": 56587}], "successors": []}

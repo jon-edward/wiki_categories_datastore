@@ -1,1 +1,1 @@
-{"name": "橫濱市營地下鐵轉乘車站", "id": 7959174, "predecessors": [{"name": "日本巴士公司", "id": 699048}], "successors": []}
+{"name": "橫濱市營地下鐵轉乘車站", "id": 7959174, "predecessors": [{"name": "日本交通", "id": 58361}, {"name": "鐵路車站", "id": 81216}, {"name": "日本鐵路", "id": 219206}], "successors": []}

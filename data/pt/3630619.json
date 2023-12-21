@@ -1,0 +1,1 @@
+{"name": "Pilhas", "id": 3630619, "predecessors": [{"name": "Armazenagem_de_energia", "id": 3613567}], "successors": [{"name": "Baterias_recarregáveis", "id": 3663630}, {"name": "Inventores_de_baterias", "id": 4768299}, {"name": "Pilhas_por_padrão_de_tamanho", "id": 7065052}]}

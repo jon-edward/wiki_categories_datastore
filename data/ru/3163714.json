@@ -1,0 +1,1 @@
+{"name": "Букинг-агентства", "id": 3163714, "predecessors": [{"name": "Бизнес", "id": 26135}, {"name": "Развлечения", "id": 10196}], "successors": [{"name": "Модельные_агентства", "id": 2183436}, {"name": "Amuse", "id": 5330358}, {"name": "Stardust_Promotion", "id": 5330376}, {"name": "Johnny's", "id": 2993837}]}

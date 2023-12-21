@@ -1,1 +1,1 @@
-{"name": "头戴式显示设备", "id": 4977406, "predecessors": [{"name": "虚拟现实", "id": 466268}], "successors": []}
+{"name": "头戴式显示设备", "id": 4977406, "predecessors": [{"name": "眼鏡", "id": 1076569}, {"name": "虚拟现实", "id": 466268}, {"name": "顯示器", "id": 3536166}, {"name": "顯示科技", "id": 542852}], "successors": []}

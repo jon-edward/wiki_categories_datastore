@@ -1,1 +1,1 @@
-{"name": "新北市墓葬", "id": 4751400, "predecessors": [{"name": "新北市建築物", "id": 2850246}, {"name": "中華民國", "id": 51932}], "successors": [{"name": "安葬於新北市者", "id": 4751402}]}
+{"name": "新北市墓葬", "id": 4751400, "predecessors": [{"name": "墓地", "id": 140864}], "successors": [{"name": "安葬於新北市者", "id": 4751402}]}

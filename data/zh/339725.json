@@ -1,1 +1,1 @@
-{"name": "硝酸盐", "id": 339725, "predecessors": [{"name": "氮化合物", "id": 589525}], "successors": []}
+{"name": "硝酸盐", "id": 339725, "predecessors": [{"name": "含氧酸盐", "id": 775175}], "successors": [{"name": "硝酸酯", "id": 723551}]}

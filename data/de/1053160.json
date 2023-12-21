@@ -1,0 +1,1 @@
+{"name": "Obstbau", "id": 1053160, "predecessors": [{"name": "Frucht", "id": 1826643}, {"name": "Gartenbau", "id": 478862}], "successors": [{"name": "Obst", "id": 242767}, {"name": "Schädling_im_Obstbau", "id": 5444236}, {"name": "Anbau_von_Kern-_und_Steinobst", "id": 9934535}, {"name": "Obstbau_(Deutschland)", "id": 11494685}, {"name": "Pomologe", "id": 2497054}]}

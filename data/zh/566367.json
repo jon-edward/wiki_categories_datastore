@@ -1,1 +1,1 @@
-{"name": "壽司", "id": 566367, "predecessors": [{"name": "日本米飯食品", "id": 3706746}, {"name": "日本发明", "id": 1556630}], "successors": [{"name": "壽司店", "id": 4308681}]}
+{"name": "壽司", "id": 566367, "predecessors": [{"name": "日本米飯食品", "id": 3706746}, {"name": "日本飲食", "id": 115911}], "successors": [{"name": "壽司店", "id": 4308681}]}

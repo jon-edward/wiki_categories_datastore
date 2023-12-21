@@ -1,0 +1,1 @@
+{"name": "Conférencier", "id": 4934749, "predecessors": [{"name": "Conférence", "id": 235109}, {"name": "Métier", "id": 87726}], "successors": [{"name": "Conférencier_Massey", "id": 3736391}, {"name": "Conférencier_inspirant", "id": 11322836}, {"name": "Conférencier_français", "id": 13444833}, {"name": "Conférencier_américain", "id": 13649439}]}

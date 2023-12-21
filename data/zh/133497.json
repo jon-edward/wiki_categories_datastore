@@ -1,1 +1,1 @@
-{"name": "X86架構", "id": 133497, "predecessors": [{"name": "英特爾產品", "id": 3524630}], "successors": []}
+{"name": "X86架構", "id": 133497, "predecessors": [{"name": "英特爾產品", "id": 3524630}], "successors": [{"name": "Microsoft_Windows", "id": 973088}, {"name": "Firefox_OS", "id": 3779787}]}

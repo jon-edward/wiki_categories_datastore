@@ -1,0 +1,1 @@
+{"name": "Search_and_rescue", "id": 1584660, "predecessors": [{"name": "Hulpdienst", "id": 203400}, {"name": "Luchtvaart", "id": 63468}, {"name": "Rampenbestrijding", "id": 1266228}, {"name": "Scheepvaart", "id": 67188}], "successors": [{"name": "Reddingsbrigade", "id": 1044529}, {"name": "Koninklijke_Nederlandse_Redding_Maatschappij", "id": 1745538}]}

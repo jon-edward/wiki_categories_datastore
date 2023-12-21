@@ -1,0 +1,1 @@
+{"name": "Grandeur_thermodynamique", "id": 5426861, "predecessors": [{"name": "Grandeur_physique", "id": 1129304}, {"name": "Thermodynamique", "id": 95525}], "successors": [{"name": "Température", "id": 3420232}, {"name": "Grandeur_en_thermochimie", "id": 5426897}, {"name": "Enthalpie", "id": 5426903}]}

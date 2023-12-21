@@ -1,1 +1,1 @@
-{"name": "放射性定年法", "id": 1140008, "predecessors": [{"name": "放射性", "id": 1557612}], "successors": []}
+{"name": "放射性定年法", "id": 1140008, "predecessors": [{"name": "地球物理学", "id": 175109}, {"name": "地质年代学", "id": 7436516}, {"name": "放射性", "id": 1557612}], "successors": []}

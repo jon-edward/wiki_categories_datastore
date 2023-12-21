@@ -1,1 +1,1 @@
-{"name": "印度飲食", "id": 56649, "predecessors": [{"name": "印度文化", "id": 56636}], "successors": [{"name": "印度食品", "id": 509723}]}
+{"name": "印度飲食", "id": 56649, "predecessors": [{"name": "南亚饮食", "id": 3205776}, {"name": "印度文化", "id": 56636}, {"name": "亚洲文化", "id": 947695}], "successors": [{"name": "印度食品", "id": 509723}]}

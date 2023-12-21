@@ -1,0 +1,1 @@
+{"name": "Fleisch", "id": 242506, "predecessors": [{"name": "Tierisches_Produkt", "id": 11485866}, {"name": "Fleisch_als_Thema", "id": 9091681}], "successors": [{"name": "Innereien", "id": 3192686}, {"name": "Geflügelfleisch", "id": 3925851}, {"name": "Rindfleisch", "id": 4902003}, {"name": "Schweinefleisch", "id": 4902236}]}

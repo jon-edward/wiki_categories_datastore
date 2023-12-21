@@ -1,0 +1,1 @@
+{"name": "Hortalizas", "id": 51210, "predecessors": [{"name": "Cultivos", "id": 988705}, {"name": "Plantas_comestibles", "id": 3181693}], "successors": [{"name": "Legumbres", "id": 133633}, {"name": "Verduras", "id": 133676}, {"name": "Agricultura_mesoamericana", "id": 353328}, {"name": "Raíces_y_tubérculos_comestibles", "id": 1794093}]}

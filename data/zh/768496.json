@@ -1,1 +1,1 @@
-{"name": "透镜", "id": 768496, "predecessors": [{"name": "光學元件", "id": 7845946}], "successors": []}
+{"name": "透镜", "id": 768496, "predecessors": [{"name": "光學元件", "id": 7845946}], "successors": [{"name": "眼鏡", "id": 1076569}]}

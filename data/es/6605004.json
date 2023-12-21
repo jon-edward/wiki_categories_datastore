@@ -1,0 +1,1 @@
+{"name": "Ruby", "id": 6605004, "predecessors": [{"name": "Compiladores_e_intérpretes_libres", "id": 467799}, {"name": "Lenguajes_de_programación_orientada_a_objetos", "id": 2190987}, {"name": "Lenguajes_interpretados", "id": 54633}], "successors": [{"name": "Software_libre_programado_en_Ruby", "id": 6286755}]}

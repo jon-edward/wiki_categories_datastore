@@ -1,1 +1,1 @@
-{"name": "磁盘操作系统", "id": 519411, "predecessors": [{"name": "IBM_PC兼容机", "id": 190909}], "successors": []}
+{"name": "磁盘操作系统", "id": 519411, "predecessors": [{"name": "IBM_PC兼容机", "id": 190909}, {"name": "操作系统", "id": 33605}], "successors": [{"name": "DOS軟體", "id": 1047105}, {"name": "DOS技术", "id": 5648872}]}

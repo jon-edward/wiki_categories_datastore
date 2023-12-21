@@ -1,1 +1,1 @@
-{"name": "Steam商店遊戲", "id": 5231429, "predecessors": [{"name": "電子遊戲線上零售商", "id": 3989548}], "successors": []}
+{"name": "Steam商店遊戲", "id": 5231429, "predecessors": [{"name": "Steam", "id": 5232124}, {"name": "電子遊戲線上零售商", "id": 3989548}], "successors": []}

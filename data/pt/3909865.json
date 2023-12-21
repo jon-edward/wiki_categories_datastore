@@ -1,0 +1,1 @@
+{"name": "Bibliotecas_gráficas", "id": 3909865, "predecessors": [{"name": "Bibliotecas_de_rotinas", "id": 524737}, {"name": "Editores_gráficos", "id": 429307}], "successors": [{"name": "OpenGL", "id": 3909839}]}

@@ -1,1 +1,1 @@
-{"name": "慈善", "id": 6916046, "predecessors": [{"name": "愛", "id": 76982}, {"name": "福利經濟學", "id": 2888619}], "successors": []}
+{"name": "慈善", "id": 6916046, "predecessors": [{"name": "愛", "id": 76982}, {"name": "社會倫理", "id": 1651228}, {"name": "福利經濟學", "id": 2888619}], "successors": [{"name": "公益单曲", "id": 2862674}]}

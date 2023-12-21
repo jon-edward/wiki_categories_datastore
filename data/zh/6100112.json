@@ -1,1 +1,1 @@
-{"name": "電壓", "id": 6100112, "predecessors": [{"name": "勢", "id": 586417}], "successors": [{"name": "電容器", "id": 1455948}]}
+{"name": "電壓", "id": 6100112, "predecessors": [{"name": "建筑材料", "id": 309164}], "successors": [{"name": "電容器", "id": 1455948}]}

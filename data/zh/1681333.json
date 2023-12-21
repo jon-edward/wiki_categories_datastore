@@ -1,1 +1,1 @@
-{"name": "郑州公园", "id": 1681333, "predecessors": [{"name": "郑州旅游", "id": 1473082}], "successors": []}
+{"name": "郑州公园", "id": 1681333, "predecessors": [{"name": "郑州", "id": 86591}, {"name": "保護區", "id": 1572252}, {"name": "中国艺术", "id": 57161}], "successors": []}

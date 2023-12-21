@@ -1,1 +1,1 @@
-{"name": "陰囊", "id": 6915487, "predecessors": [{"name": "男色", "id": 6331542}], "successors": [{"name": "睾丸", "id": 4344372}]}
+{"name": "陰囊", "id": 6915487, "predecessors": [{"name": "男性生殖系统", "id": 122498}, {"name": "男色", "id": 6331542}, {"name": "性解剖学", "id": 1676431}], "successors": [{"name": "睾丸", "id": 4344372}]}

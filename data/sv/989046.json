@@ -1,1 +1,1 @@
-{"name": "Kanadensiska_filmer_baserade_på_böcker", "id": 989046, "predecessors": [{"name": "Kanadensiska_filmer", "id": 60001}, {"name": "Filmer_baserade_på_böcker", "id": 617551}], "successors": []}
+{"name": "Kanadensiska_filmer_baserade_på_böcker", "id": 989046, "predecessors": [{"name": "Filmer_baserade_på_böcker", "id": 617551}, {"name": "Film", "id": 50715}], "successors": []}

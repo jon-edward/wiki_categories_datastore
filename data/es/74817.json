@@ -1,0 +1,1 @@
+{"name": "Urgencias_médicas", "id": 74817, "predecessors": [{"name": "Especialidades_médicas", "id": 52892}], "successors": [{"name": "Accidente_cerebrovascular", "id": 4065578}, {"name": "Epilepsia", "id": 4094807}, {"name": "Trastornos_ácido-base", "id": 4115471}, {"name": "Fallecidos_por_meningitis", "id": 6382064}]}

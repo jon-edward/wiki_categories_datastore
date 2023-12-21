@@ -1,1 +1,1 @@
-{"name": "KDE_Software_Compilation", "id": 4042742, "predecessors": [{"name": "KDE", "id": 450835}], "successors": []}
+{"name": "KDE_Software_Compilation", "id": 4042742, "predecessors": [{"name": "KDE", "id": 450835}, {"name": "自由桌面环境", "id": 4031381}], "successors": []}

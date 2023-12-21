@@ -1,0 +1,1 @@
+{"name": "Vaccin", "id": 569894, "predecessors": [{"name": "Geneeskundige_behandeling", "id": 93146}, {"name": "Vaccinatie", "id": 5358559}, {"name": "Geneesmiddel", "id": 63460}], "successors": [{"name": "COVID-19-vaccin", "id": 5455819}]}

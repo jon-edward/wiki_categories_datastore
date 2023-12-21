@@ -1,0 +1,1 @@
+{"name": "Kampfflugzeug", "id": 8586230, "predecessors": [{"name": "Militärischer_Flugzeugtyp", "id": 239349}], "successors": [{"name": "Bomber", "id": 8558897}, {"name": "Jagdflugzeug", "id": 8586229}, {"name": "Mehrzweckkampfflugzeug", "id": 8586239}, {"name": "Erdkampfflugzeug", "id": 8586243}, {"name": "U-Boot-Jagdflugzeug", "id": 8598606}]}

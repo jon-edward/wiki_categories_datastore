@@ -1,1 +1,1 @@
-{"name": "漢服", "id": 956333, "predecessors": [{"name": "中国传统服饰", "id": 5924159}, {"name": "民族服飾", "id": 472258}], "successors": [{"name": "汉服冠帽", "id": 8393305}]}
+{"name": "漢服", "id": 956333, "predecessors": [{"name": "中国传统服饰", "id": 5924159}, {"name": "汉族", "id": 147556}], "successors": [{"name": "汉服冠帽", "id": 8393305}]}

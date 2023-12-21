@@ -1,1 +1,1 @@
-{"name": "隐形舰船", "id": 7489858, "predecessors": [{"name": "隐形技术", "id": 7489854}], "successors": []}
+{"name": "隐形舰船", "id": 7489858, "predecessors": [{"name": "海戰", "id": 756721}, {"name": "隐形技术", "id": 7489854}], "successors": []}

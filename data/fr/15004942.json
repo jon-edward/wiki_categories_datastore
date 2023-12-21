@@ -1,0 +1,1 @@
+{"name": "Camion-citerne", "id": 15004942, "predecessors": [{"name": "Réservoir_de_carburant", "id": 4961660}, {"name": "Transport_de_l'énergie", "id": 10161489}, {"name": "Type_de_camion", "id": 13605789}, {"name": "Véhicule_de_lutte_contre_l'incendie", "id": 290834}], "successors": []}

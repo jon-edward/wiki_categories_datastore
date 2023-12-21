@@ -1,0 +1,1 @@
+{"name": "組み込みオペレーティングシステム", "id": 3444023, "predecessors": [{"name": "オペレーティングシステム", "id": 105059}, {"name": "組み込みシステム", "id": 831100}], "successors": [{"name": "Android", "id": 2342629}, {"name": "Windows_CE", "id": 2357850}, {"name": "IOS", "id": 2378053}]}

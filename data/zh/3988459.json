@@ -1,1 +1,1 @@
-{"name": "合成器流行歌曲", "id": 3988459, "predecessors": [{"name": "電子歌曲", "id": 3988465}], "successors": []}
+{"name": "合成器流行歌曲", "id": 3988459, "predecessors": [{"name": "電子歌曲", "id": 3988465}, {"name": "電子音樂類型", "id": 3887417}], "successors": [{"name": "合成器流行谣曲", "id": 7354860}]}

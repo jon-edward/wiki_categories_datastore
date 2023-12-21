@@ -1,1 +1,1 @@
-{"name": "计算机总线", "id": 190899, "predecessors": [{"name": "電子連接器", "id": 1133641}], "successors": []}
+{"name": "计算机总线", "id": 190899, "predecessors": [{"name": "電子連接器", "id": 1133641}], "successors": [{"name": "USB", "id": 165787}, {"name": "串行总线", "id": 190898}, {"name": "SCSI", "id": 497452}, {"name": "乙太網路", "id": 514113}, {"name": "驱动程序", "id": 522608}, {"name": "顯示卡", "id": 202789}, {"name": "Serial_ATA", "id": 5537884}]}

@@ -1,1 +1,1 @@
-{"name": "DNA修复", "id": 1195389, "predecessors": [{"name": "DNA", "id": 3513588}], "successors": []}
+{"name": "DNA修复", "id": 1195389, "predecessors": [{"name": "DNA", "id": 3513588}, {"name": "细胞过程", "id": 1521015}], "successors": []}

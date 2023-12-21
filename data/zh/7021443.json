@@ -1,1 +1,1 @@
-{"name": "模式匹配编程语言", "id": 7021443, "predecessors": [{"name": "形式语言", "id": 59439}], "successors": []}
+{"name": "模式匹配编程语言", "id": 7021443, "predecessors": [{"name": "字符串", "id": 1765614}, {"name": "形式语言", "id": 59439}, {"name": "程序设计语言", "id": 44415}, {"name": "編程典範", "id": 44961}], "successors": []}

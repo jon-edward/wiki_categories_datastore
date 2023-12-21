@@ -1,1 +1,1 @@
-{"name": "Bostadshus_i_Stockholm", "id": 1374820, "predecessors": [{"name": "Byggnader_och_anläggningar_i_Stockholm", "id": 55031}, {"name": "Bostadshus_i_Sverige", "id": 1374822}], "successors": [{"name": "Villor_i_Stockholm", "id": 1374861}]}
+{"name": "Bostadshus_i_Stockholm", "id": 1374820, "predecessors": [{"name": "Arkitektur_i_Stockholm", "id": 913816}, {"name": "Bostadshus_i_Sverige", "id": 1374822}], "successors": [{"name": "Villor_i_Stockholm", "id": 1374861}]}

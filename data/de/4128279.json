@@ -1,0 +1,1 @@
+{"name": "Bildbearbeitung", "id": 4128279, "predecessors": [{"name": "Computergrafik", "id": 249536}, {"name": "Fernsehtechnik", "id": 238067}, {"name": "Fototechnik", "id": 295847}, {"name": "Postproduktion", "id": 4131282}, {"name": "Reproduktionstechnik", "id": 4566246}], "successors": [{"name": "Bildfehler", "id": 705651}]}

@@ -1,1 +1,1 @@
-{"name": "网络性能", "id": 5536259, "predecessors": [{"name": "信息论", "id": 291241}], "successors": [{"name": "反向代理", "id": 4008150}]}
+{"name": "网络性能", "id": 5536259, "predecessors": [{"name": "信息论", "id": 291241}, {"name": "網路管理", "id": 1147843}], "successors": [{"name": "反向代理", "id": 4008150}]}

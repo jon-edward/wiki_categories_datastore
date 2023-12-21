@@ -1,1 +1,1 @@
-{"name": "合成樹脂", "id": 1482089, "predecessors": [{"name": "塑料", "id": 525872}, {"name": "树脂", "id": 1546767}, {"name": "材料", "id": 58876}], "successors": []}
+{"name": "合成樹脂", "id": 1482089, "predecessors": [{"name": "树脂", "id": 1546767}, {"name": "化学合成", "id": 705516}], "successors": []}

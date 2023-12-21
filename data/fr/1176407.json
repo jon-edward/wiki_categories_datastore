@@ -1,0 +1,1 @@
+{"name": "Ustensile", "id": 1176407, "predecessors": [{"name": "Objet", "id": 1351474}, {"name": "Outil", "id": 104861}], "successors": [{"name": "Ustensile_de_cuisine", "id": 126992}, {"name": "Récipient", "id": 304539}, {"name": "Accessoire_à_vin", "id": 3498202}, {"name": "Accessoire_à_bière", "id": 4923633}, {"name": "Accessoire_à_thé", "id": 6540557}]}

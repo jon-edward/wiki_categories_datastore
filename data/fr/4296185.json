@@ -1,0 +1,1 @@
+{"name": "Animal_dans_le_jeu_vidéo", "id": 4296185, "predecessors": [{"name": "Jeu_mettant_en_scène_un_animal", "id": 9367076}, {"name": "Jeu_vidéo", "id": 85212}], "successors": [{"name": "Zoo_Tycoon", "id": 7527937}, {"name": "Jeu_vidéo_de_simulation_de_vie_animale", "id": 12294667}, {"name": "Jeu_vidéo_sur_les_dinosaures", "id": 3191898}]}

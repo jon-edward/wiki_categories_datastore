@@ -1,0 +1,1 @@
+{"name": "AMDのマイクロプロセッサ", "id": 2331907, "predecessors": [{"name": "マイクロプロセッサ", "id": 115381}], "successors": [{"name": "AMDのCPUソケット", "id": 4179210}, {"name": "AMDのx86マイクロプロセッサ", "id": 4253116}]}

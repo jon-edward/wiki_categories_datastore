@@ -1,1 +1,1 @@
-{"name": "异丙氨基化合物", "id": 8299552, "predecessors": [{"name": "胺", "id": 80579}], "successors": []}
+{"name": "异丙氨基化合物", "id": 8299552, "predecessors": [{"name": "異丙基化合物", "id": 6926026}, {"name": "胺", "id": 80579}], "successors": [{"name": "二异丙氨基化合物", "id": 7617104}]}

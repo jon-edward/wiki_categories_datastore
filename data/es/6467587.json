@@ -1,0 +1,1 @@
+{"name": "Peste", "id": 6467587, "predecessors": [{"name": "Agentes_biológicos_patógenos", "id": 802756}, {"name": "Enfermedades_bacterianas", "id": 779142}, {"name": "Enfermedades_infecciosas", "id": 64496}, {"name": "Zoonosis_bacterianas", "id": 7391942}], "successors": [{"name": "Fallecidos_por_peste", "id": 5446742}]}

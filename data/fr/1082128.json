@@ -1,0 +1,1 @@
+{"name": "Débit_de_boisson", "id": 1082128, "predecessors": [{"name": "Boisson", "id": 95606}, {"name": "Type_de_commerces", "id": 1049148}], "successors": [{"name": "Café_(établissement)", "id": 1076872}, {"name": "Brasserie_(restaurant)", "id": 1076956}, {"name": "Hôtel,_café_ou_restaurant_de_fiction", "id": 7326206}]}

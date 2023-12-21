@@ -1,1 +1,1 @@
-{"name": "MacOS軟體", "id": 3535888, "predecessors": [{"name": "MacOS", "id": 1845228}], "successors": []}
+{"name": "MacOS軟體", "id": 3535888, "predecessors": [{"name": "MacOS", "id": 1845228}, {"name": "Mac_OS软件", "id": 410694}, {"name": "Unix软件", "id": 451600}, {"name": "操作系统", "id": 33605}], "successors": [{"name": "ITunes", "id": 3535972}, {"name": "Mac_OS軟體螢幕截圖", "id": 3538070}, {"name": "MacOS遊戲", "id": 4064362}, {"name": "MacOS计算机代数系统软件", "id": 6146055}, {"name": "R語言", "id": 5932115}]}

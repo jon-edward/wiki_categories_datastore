@@ -1,1 +1,1 @@
-{"name": "網頁伺服器", "id": 84716, "predecessors": [{"name": "HTTP", "id": 369871}], "successors": [{"name": "自由网络服务器软件", "id": 4008139}]}
+{"name": "網頁伺服器", "id": 84716, "predecessors": [{"name": "HTTP", "id": 369871}, {"name": "服务器", "id": 497498}, {"name": "系统软件", "id": 43177}], "successors": [{"name": "自由网络服务器软件", "id": 4008139}]}

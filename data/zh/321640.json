@@ -1,1 +1,1 @@
-{"name": "洗澡", "id": 321640, "predecessors": [{"name": "水", "id": 80602}], "successors": []}
+{"name": "洗澡", "id": 321640, "predecessors": [{"name": "水", "id": 80602}], "successors": [{"name": "浴室", "id": 493412}, {"name": "礦泉水", "id": 5504213}]}

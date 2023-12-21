@@ -1,1 +1,1 @@
-{"name": "23毫米口径武器", "id": 5367981, "predecessors": [{"name": "火炮", "id": 52697}], "successors": []}
+{"name": "23毫米口径武器", "id": 5367981, "predecessors": [{"name": "火炮", "id": 52697}, {"name": "枪械", "id": 81509}], "successors": []}

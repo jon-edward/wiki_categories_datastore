@@ -1,1 +1,1 @@
-{"name": "美國軍用直升機", "id": 3141588, "predecessors": [{"name": "美国军用飞机", "id": 536489}], "successors": []}
+{"name": "美國軍用直升機", "id": 3141588, "predecessors": [{"name": "军用直升机", "id": 527078}, {"name": "美国军用飞机", "id": 536489}], "successors": []}

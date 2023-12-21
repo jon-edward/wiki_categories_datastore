@@ -1,1 +1,1 @@
-{"name": "發射體", "id": 1713188, "predecessors": [{"name": "弹道学", "id": 1181463}], "successors": [{"name": "射擊武器", "id": 1713186}]}
+{"name": "發射體", "id": 1713188, "predecessors": [{"name": "弹药", "id": 1558705}, {"name": "弹道学", "id": 1181463}], "successors": [{"name": "射擊武器", "id": 1713186}]}

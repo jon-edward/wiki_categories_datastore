@@ -1,1 +1,1 @@
-{"name": "始新世哺乳類", "id": 907733, "predecessors": [{"name": "哺乳類", "id": 52535}], "successors": []}
+{"name": "始新世哺乳類", "id": 907733, "predecessors": [{"name": "始新世動物", "id": 907711}, {"name": "史前動物", "id": 668195}], "successors": [{"name": "雷獸", "id": 676089}]}

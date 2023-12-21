@@ -1,1 +1,1 @@
-{"name": "漁具", "id": 1662745, "predecessors": [{"name": "漁業", "id": 78056}], "successors": []}
+{"name": "漁具", "id": 1662745, "predecessors": [{"name": "漁業", "id": 78056}, {"name": "设备", "id": 543552}], "successors": []}

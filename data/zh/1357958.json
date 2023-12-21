@@ -1,1 +1,1 @@
-{"name": "HBO電視節目", "id": 1357958, "predecessors": [{"name": "HBO", "id": 5051955}, {"name": "美國電視節目", "id": 109866}], "successors": [{"name": "慾望城市", "id": 855350}, {"name": "酒私風雲", "id": 5557861}, {"name": "HBO電影", "id": 6090757}]}
+{"name": "HBO電視節目", "id": 1357958, "predecessors": [{"name": "HBO", "id": 5051955}], "successors": [{"name": "慾望城市", "id": 855350}, {"name": "酒私風雲", "id": 5557861}, {"name": "HBO電影", "id": 6090757}, {"name": "人在江湖", "id": 6360776}]}

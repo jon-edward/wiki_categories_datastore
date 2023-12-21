@@ -1,1 +1,1 @@
-{"name": "工程故障", "id": 5084408, "predecessors": [{"name": "土木工程", "id": 80121}], "successors": [{"name": "阿波羅13號", "id": 6276276}, {"name": "挑战者号航天飞机灾难", "id": 7736590}]}
+{"name": "工程故障", "id": 5084408, "predecessors": [{"name": "土木工程", "id": 80121}, {"name": "灾难", "id": 51813}], "successors": []}

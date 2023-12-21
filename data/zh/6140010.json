@@ -1,1 +1,1 @@
-{"name": "胡志明市街道", "id": 6140010, "predecessors": [{"name": "胡志明市交通", "id": 3443419}], "successors": []}
+{"name": "胡志明市街道", "id": 6140010, "predecessors": [{"name": "胡志明市交通", "id": 3443419}, {"name": "交通", "id": 44301}, {"name": "越南公路", "id": 1849130}], "successors": []}

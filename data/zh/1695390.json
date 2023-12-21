@@ -1,1 +1,1 @@
-{"name": "压电材料", "id": 1695390, "predecessors": [{"name": "材料", "id": 58876}], "successors": []}
+{"name": "压电材料", "id": 1695390, "predecessors": [{"name": "材料", "id": 58876}, {"name": "电现象", "id": 920326}, {"name": "電子元件", "id": 73185}], "successors": []}

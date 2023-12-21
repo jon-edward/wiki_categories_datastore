@@ -1,1 +1,1 @@
-{"name": "塗料公司", "id": 3124865, "predecessors": [{"name": "塗料", "id": 684240}], "successors": []}
+{"name": "塗料公司", "id": 3124865, "predecessors": [{"name": "化學工業公司", "id": 289366}, {"name": "塗料", "id": 684240}], "successors": []}
