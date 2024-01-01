@@ -1,1 +1,0 @@
-{"name": "E-mail", "id": 94020, "predecessors": [{"name": "Internetdienst", "id": 115521}], "successors": [{"name": "E-mailclient", "id": 247260}, {"name": "Webmail", "id": 653048}]}

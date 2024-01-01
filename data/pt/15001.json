@@ -1,1 +1,0 @@
-{"name": "Equipamentos_laboratoriais", "id": 15001, "predecessors": [{"name": "Equipamentos", "id": 493814}, {"name": "Experiências_científicas", "id": 49118}, {"name": "Laboratórios", "id": 108781}], "successors": [{"name": "Termómetros", "id": 493214}, {"name": "Instrumentos_ópticos", "id": 840520}, {"name": "Equipamentos_de_química", "id": 2664354}]}

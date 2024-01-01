@@ -1,1 +1,1 @@
-{"name": "Tbilisi", "id": 101302, "predecessors": [{"name": "Georgian_kaupungit", "id": 84614}, {"name": "Kaupungit", "id": 20192}], "successors": []}
+{"name": "Tbilisi", "id": 101302, "predecessors": [{"name": "Georgian_kaupungit", "id": 84614}, {"name": "Georgian_maantiede", "id": 101313}, {"name": "Kaupungit", "id": 20192}], "successors": [{"name": "Tbilisin_urheilu", "id": 1096173}]}

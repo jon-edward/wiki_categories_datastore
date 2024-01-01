@@ -1,1 +1,1 @@
-{"name": "Hazelnut_tree_diseases", "id": 42780696, "predecessors": [{"name": "Nut_tree_diseases", "id": 42714995}], "successors": []}
+{"name": "Hazelnut_tree_diseases", "id": 42780696, "predecessors": [{"name": "Corylus", "id": 15002190}, {"name": "Edible_nuts_and_seeds", "id": 6769223}], "successors": []}

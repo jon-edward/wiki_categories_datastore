@@ -1,1 +1,1 @@
-{"name": "White_dwarfs", "id": 39120330, "predecessors": [{"name": "Stars", "id": 694492}, {"name": "Star_types", "id": 3177479}, {"name": "Astronomy", "id": 692915}], "successors": [{"name": "Dwarf_novae", "id": 5112827}]}
+{"name": "White_dwarfs", "id": 39120330, "predecessors": [{"name": "Stars", "id": 694492}, {"name": "Exotic_matter", "id": 11641308}, {"name": "Astronomy", "id": 692915}], "successors": [{"name": "Dwarf_novae", "id": 5112827}]}

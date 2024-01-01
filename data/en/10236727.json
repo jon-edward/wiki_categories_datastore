@@ -1,1 +1,1 @@
-{"name": "Israeli_columnists", "id": 10236727, "predecessors": [{"name": "Israeli_journalists", "id": 3027713}, {"name": "Newspaper_publishing", "id": 24204175}], "successors": [{"name": "Israeli_opinion_journalists", "id": 27173500}, {"name": "Israeli_women_columnists", "id": 72148233}]}
+{"name": "Israeli_columnists", "id": 10236727, "predecessors": [{"name": "Israeli_journalists", "id": 3027713}], "successors": [{"name": "Israeli_opinion_journalists", "id": 27173500}, {"name": "Israeli_women_columnists", "id": 72148233}]}

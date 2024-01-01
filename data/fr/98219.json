@@ -1,1 +1,0 @@
-{"name": "Connectique", "id": 98219, "predecessors": [{"name": "Composant_électronique", "id": 89359}, {"name": "Matériel_informatique", "id": 126616}], "successors": [{"name": "Connecteur", "id": 1068906}, {"name": "USB", "id": 2836383}, {"name": "Bluetooth", "id": 6145898}, {"name": "Entreprise_de_connectique", "id": 13130518}]}

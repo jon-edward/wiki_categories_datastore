@@ -1,1 +1,1 @@
-{"name": "Pysäköinti", "id": 205938, "predecessors": [{"name": "Autoilu", "id": 373535}, {"name": "Tieliikenne", "id": 53115}], "successors": []}
+{"name": "Pysäköinti", "id": 205938, "predecessors": [{"name": "Autoilu", "id": 373535}, {"name": "Pyöräily", "id": 23776}], "successors": []}

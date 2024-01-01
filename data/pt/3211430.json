@@ -1,1 +1,0 @@
-{"name": "Pi", "id": 3211430, "predecessors": [{"name": "Constantes_matemáticas", "id": 125261}, {"name": "Números_transcendentais", "id": 3407850}, {"name": "Aritmética", "id": 51642}], "successors": [{"name": "Algoritmos_de_cálculo_de_Pi", "id": 5805267}]}

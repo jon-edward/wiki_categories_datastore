@@ -1,1 +1,0 @@
-{"name": "Assurance_maladie", "id": 1822448, "predecessors": [{"name": "Assurance", "id": 106168}, {"name": "Maladie", "id": 87795}, {"name": "Sécurité_sociale", "id": 1180604}, {"name": "Économie_de_la_santé", "id": 5018828}], "successors": [{"name": "Mutuelle_de_santé", "id": 10972811}, {"name": "Assurance_maladie_en_France", "id": 13693912}]}

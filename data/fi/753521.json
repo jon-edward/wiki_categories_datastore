@@ -1,1 +1,1 @@
-{"name": "Xinjiangin_maantiede", "id": 753521, "predecessors": [{"name": "Kiinan_maantiede", "id": 127730}, {"name": "Oikeudet_ja_vapaudet", "id": 24491}], "successors": [{"name": "Xinjiangin_kaupungit", "id": 701377}, {"name": "Xinjiangin_prefektuurit", "id": 1209470}]}
+{"name": "Xinjiangin_maantiede", "id": 753521, "predecessors": [{"name": "Kiinan_maantiede", "id": 127730}, {"name": "Itsehallintoalueet", "id": 1758028}], "successors": [{"name": "Xinjiangin_kaupungit", "id": 701377}, {"name": "Xinjiangin_prefektuurit", "id": 1209470}]}

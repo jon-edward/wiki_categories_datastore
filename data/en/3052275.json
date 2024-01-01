@@ -1,1 +1,1 @@
-{"name": "4-manifolds", "id": 3052275, "predecessors": [{"name": "Geometric_topology", "id": 695981}, {"name": "Manifolds", "id": 3030322}], "successors": [{"name": "Algebraic_surfaces", "id": 1569227}, {"name": "Spacetime", "id": 10973513}, {"name": "Complex_surfaces", "id": 22836232}]}
+{"name": "4-manifolds", "id": 3052275, "predecessors": [{"name": "Manifolds", "id": 3030322}], "successors": [{"name": "Algebraic_surfaces", "id": 1569227}, {"name": "Spacetime", "id": 10973513}, {"name": "Complex_surfaces", "id": 22836232}]}

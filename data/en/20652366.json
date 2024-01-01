@@ -1,1 +1,1 @@
-{"name": "Asterid_families", "id": 20652366, "predecessors": [{"name": "Eudicot_families", "id": 20652250}], "successors": [{"name": "Ericales_families", "id": 20173070}, {"name": "Lamiales_families", "id": 20173144}, {"name": "Asterales_families", "id": 20625994}]}
+{"name": "Asterid_families", "id": 20652366, "predecessors": [{"name": "Asterids", "id": 5287022}, {"name": "Eudicot_families", "id": 20652250}], "successors": [{"name": "Ericales_families", "id": 20173070}, {"name": "Lamiales_families", "id": 20173144}, {"name": "Asterales_families", "id": 20625994}]}

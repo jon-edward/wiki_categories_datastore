@@ -1,1 +1,0 @@
-{"name": "Pruebas_químicas", "id": 1314055, "predecessors": [{"name": "Propiedades_químicas", "id": 75569}, {"name": "Química_analítica", "id": 66920}, {"name": "Técnicas_analíticas", "id": 1496047}, {"name": "Técnicas_de_laboratorio", "id": 1828839}], "successors": [{"name": "Análisis_volumétrico", "id": 3221634}, {"name": "Indicador_de_pH", "id": 1825517}]}

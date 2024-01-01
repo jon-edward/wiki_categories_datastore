@@ -1,1 +1,1 @@
-{"name": "Nursing_education", "id": 30709876, "predecessors": [{"name": "Nursing", "id": 744245}, {"name": "Health_care", "id": 35880954}], "successors": []}
+{"name": "Nursing_education", "id": 30709876, "predecessors": [{"name": "Nursing", "id": 744245}, {"name": "Health_care", "id": 35880954}], "successors": [{"name": "Nursing_educators", "id": 41484084}, {"name": "Nursing_education_in_the_United_Kingdom", "id": 71194462}]}

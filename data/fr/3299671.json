@@ -1,1 +1,0 @@
-{"name": "Mélange_chimique", "id": 3299671, "predecessors": [{"name": "Produit_chimique", "id": 4817319}], "successors": [{"name": "Plastifiant", "id": 4817500}, {"name": "Mélange_gazeux", "id": 12789068}, {"name": "Adjuvant_immunologique", "id": 6050477}]}

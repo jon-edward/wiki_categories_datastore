@@ -1,1 +1,1 @@
-{"name": "Windowing_systems", "id": 1207783, "predecessors": [{"name": "Graphical_user_interfaces", "id": 30872503}], "successors": [{"name": "Window-based_operating_systems", "id": 5935458}, {"name": "Unix_windowing_system-related_software", "id": 25610566}]}
+{"name": "Windowing_systems", "id": 1207783, "predecessors": [{"name": "Graphical_user_interfaces", "id": 30872503}], "successors": [{"name": "Window-based_operating_systems", "id": 5935458}, {"name": "Unix_windowing_system-related_software", "id": 25610566}, {"name": "X_Window_System", "id": 766932}]}

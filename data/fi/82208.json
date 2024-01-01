@@ -1,1 +1,1 @@
-{"name": "Moottoriurheilussa_surmansa_saaneet_kuljettajat", "id": 82208, "predecessors": [{"name": "Moottoriurheilu", "id": 19758}, {"name": "Kuolema", "id": 325013}], "successors": [{"name": "Formula_1_-autoilussa_surmansa_saaneet_kuljettajat", "id": 79979}]}
+{"name": "Moottoriurheilussa_surmansa_saaneet_kuljettajat", "id": 82208, "predecessors": [{"name": "Moottoriurheilun_henkilöt", "id": 93581}, {"name": "Kuolema", "id": 325013}], "successors": [{"name": "Formula_1_-autoilussa_surmansa_saaneet_kuljettajat", "id": 79979}]}

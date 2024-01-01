@@ -1,1 +1,1 @@
-{"name": "Organ_trade", "id": 25381043, "predecessors": [{"name": "Organs_(anatomy)", "id": 2487666}, {"name": "Smuggling", "id": 3515950}, {"name": "Commodities", "id": 27371902}], "successors": []}
+{"name": "Organ_trade", "id": 25381043, "predecessors": [{"name": "Organs_(anatomy)", "id": 2487666}, {"name": "Smuggling", "id": 3515950}, {"name": "Transplantation_medicine", "id": 1282332}, {"name": "Commodities", "id": 27371902}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Priors", "id": 4593825, "predecessors": [{"name": "Members_of_Christian_religious_orders", "id": 918140}, {"name": "Catholic_Church", "id": 733334}], "successors": [{"name": "Scottish_priors", "id": 7604731}, {"name": "English_priors", "id": 11744308}, {"name": "Benedictine_priors", "id": 28282247}]}
+{"name": "Priors", "id": 4593825, "predecessors": [{"name": "Catholic_Church", "id": 733334}], "successors": [{"name": "Scottish_priors", "id": 7604731}, {"name": "English_priors", "id": 11744308}, {"name": "Benedictine_priors", "id": 28282247}]}

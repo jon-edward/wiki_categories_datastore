@@ -1,1 +1,1 @@
-{"name": "Norwegian_ice_hockey_forwards", "id": 62037189, "predecessors": [{"name": "Athletic_sports", "id": 31210709}], "successors": []}
+{"name": "Norwegian_ice_hockey_forwards", "id": 62037189, "predecessors": [{"name": "Sports_terminology", "id": 1489690}, {"name": "Athletic_sports", "id": 31210709}], "successors": [{"name": "Norwegian_ice_hockey_centres", "id": 62037203}, {"name": "Norwegian_ice_hockey_left_wingers", "id": 62037214}, {"name": "Norwegian_ice_hockey_right_wingers", "id": 62037237}]}

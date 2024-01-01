@@ -1,1 +1,1 @@
-{"name": "Edible_Solanaceae", "id": 20049985, "predecessors": [{"name": "Edible_fruits", "id": 39951547}, {"name": "Edible_plants", "id": 1318013}], "successors": [{"name": "Potatoes", "id": 1900059}, {"name": "Tomatoes", "id": 4878647}]}
+{"name": "Edible_Solanaceae", "id": 20049985, "predecessors": [{"name": "Edible_fruits", "id": 39951547}, {"name": "Edible_plants", "id": 1318013}, {"name": "Solanaceae", "id": 1411183}], "successors": [{"name": "Potatoes", "id": 1900059}, {"name": "Tomatoes", "id": 4878647}, {"name": "Chili_peppers", "id": 5760873}]}

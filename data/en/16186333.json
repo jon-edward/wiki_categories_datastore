@@ -1,1 +1,1 @@
-{"name": "Anxiety_disorder_treatment", "id": 16186333, "predecessors": [{"name": "Anxiety_disorders", "id": 1394400}], "successors": [{"name": "Anxiolytics", "id": 719510}]}
+{"name": "Anxiety_disorder_treatment", "id": 16186333, "predecessors": [{"name": "Anxiety_disorders", "id": 1394400}, {"name": "Treatment_of_mental_disorders", "id": 4150047}], "successors": [{"name": "Anxiolytics", "id": 719510}]}

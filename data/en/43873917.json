@@ -1,1 +1,1 @@
-{"name": "Brassicaceae_genera", "id": 43873917, "predecessors": [{"name": "Brassicales_genera", "id": 43941001}], "successors": [{"name": "Monotypic_Brassicaceae_genera", "id": 43873906}]}
+{"name": "Brassicaceae_genera", "id": 43873917, "predecessors": [{"name": "Brassicaceae", "id": 1336977}, {"name": "Brassicales_genera", "id": 43941001}], "successors": [{"name": "Monotypic_Brassicaceae_genera", "id": 43873906}]}

@@ -1,1 +1,1 @@
-{"name": "Medieval_assassins", "id": 51431322, "predecessors": [{"name": "Crime_by_type", "id": 15090762}], "successors": [{"name": "Victims_of_the_Order_of_Assassins", "id": 65930507}]}
+{"name": "Medieval_assassins", "id": 51431322, "predecessors": [{"name": "Crime_by_type", "id": 15090762}, {"name": "Law", "id": 691928}], "successors": [{"name": "Victims_of_the_Order_of_Assassins", "id": 65930507}]}

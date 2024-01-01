@@ -1,1 +1,1 @@
-{"name": "Stop_motion", "id": 1944519, "predecessors": [{"name": "Animation_techniques", "id": 13888116}, {"name": "Special_effects", "id": 801183}], "successors": [{"name": "Clay_animation", "id": 15764854}]}
+{"name": "Stop_motion", "id": 1944519, "predecessors": [{"name": "Animation_techniques", "id": 13888116}, {"name": "Special_effects", "id": 801183}], "successors": [{"name": "Stop-motion_animated_films", "id": 11499395}, {"name": "Clay_animation", "id": 15764854}, {"name": "Pixilation_films", "id": 55240792}]}

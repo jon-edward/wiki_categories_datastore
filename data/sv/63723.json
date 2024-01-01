@@ -1,1 +1,0 @@
-{"name": "Alkoholdrycker", "id": 63723, "predecessors": [{"name": "Alkohol", "id": 239071}, {"name": "Drycker", "id": 57613}], "successors": [{"name": "Drinkar", "id": 57655}, {"name": "Spritdrycker", "id": 60030}, {"name": "Öl", "id": 65083}, {"name": "Vin", "id": 67563}]}

@@ -1,1 +1,1 @@
-{"name": "Horror_anthologies", "id": 9967676, "predecessors": [{"name": "Fiction_anthologies", "id": 1507261}], "successors": [{"name": "Cthulhu_Mythos_anthologies", "id": 14180213}]}
+{"name": "Horror_anthologies", "id": 9967676, "predecessors": [{"name": "Fiction_anthologies", "id": 1507261}, {"name": "Fiction", "id": 692981}], "successors": [{"name": "Cthulhu_Mythos_anthologies", "id": 14180213}]}

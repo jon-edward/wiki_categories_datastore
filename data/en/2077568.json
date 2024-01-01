@@ -1,1 +1,1 @@
-{"name": "Military_psychiatrists", "id": 2077568, "predecessors": [{"name": "Military_psychiatry", "id": 1019257}, {"name": "Mental_health_professionals", "id": 10406353}, {"name": "Military_supporting_service_occupations", "id": 19383275}], "successors": []}
+{"name": "Military_psychiatrists", "id": 2077568, "predecessors": [{"name": "Military_psychiatry", "id": 1019257}, {"name": "Psychiatrists", "id": 802101}, {"name": "Military_supporting_service_occupations", "id": 19383275}], "successors": []}

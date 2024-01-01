@@ -1,1 +1,1 @@
-{"name": "Cyprinidae_genera", "id": 56136090, "predecessors": [{"name": "Ray-finned_fish_genera", "id": 52001834}], "successors": [{"name": "Monotypic_cyprinid_fish_genera", "id": 56143954}]}
+{"name": "Cyprinidae_genera", "id": 56136090, "predecessors": [{"name": "Cyprinidae", "id": 1270758}, {"name": "Ray-finned_fish_genera", "id": 52001834}], "successors": [{"name": "Monotypic_cyprinid_fish_genera", "id": 56143954}]}

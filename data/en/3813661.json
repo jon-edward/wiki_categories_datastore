@@ -1,1 +1,1 @@
-{"name": "Java_enterprise_platform", "id": 3813661, "predecessors": [{"name": "Enterprise_architecture", "id": 12120882}, {"name": "Java_platform", "id": 979568}], "successors": [{"name": "Jakarta_Server_Faces", "id": 19539605}]}
+{"name": "Java_enterprise_platform", "id": 3813661, "predecessors": [{"name": "Business_software", "id": 1744470}, {"name": "Enterprise_architecture", "id": 12120882}, {"name": "Java_platform", "id": 979568}], "successors": [{"name": "Jakarta_Server_Faces", "id": 19539605}]}

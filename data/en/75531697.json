@@ -1,1 +1,1 @@
-{"name": "Tennis_players_from_Virginia", "id": 75531697, "predecessors": [{"name": "Sportspeople_from_Virginia", "id": 21156566}, {"name": "Athletic_sports", "id": 31210709}], "successors": []}
+{"name": "Tennis_players_from_Virginia", "id": 75531697, "predecessors": [{"name": "Sportspeople_from_Virginia", "id": 21156566}, {"name": "Tennis_players_from_Virginia", "id": 75531697}], "successors": [{"name": "Tennis_players_from_Virginia", "id": 75531697}]}

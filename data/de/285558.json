@@ -1,1 +1,0 @@
-{"name": "Webservice", "id": 285558, "predecessors": [{"name": "Datenübertragungsstandard", "id": 2356795}, {"name": "Middleware", "id": 284823}, {"name": "Programmierschnittstelle", "id": 702674}, {"name": "Web-Entwicklung", "id": 722783}], "successors": [{"name": "Geodienst", "id": 6161940}]}

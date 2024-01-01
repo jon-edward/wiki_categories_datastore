@@ -1,1 +1,1 @@
-{"name": "White_Fathers", "id": 38888266, "predecessors": [{"name": "Catholic_missionary_orders", "id": 2056421}], "successors": [{"name": "White_Fathers_priests", "id": 38888311}, {"name": "White_Fathers_missions", "id": 39108842}]}
+{"name": "White_Fathers", "id": 38888266, "predecessors": [{"name": "Catholic_missionary_orders", "id": 2056421}, {"name": "Societies_of_apostolic_life", "id": 38214011}, {"name": "Catholic_missions", "id": 7666271}], "successors": [{"name": "White_Fathers_priests", "id": 38888311}, {"name": "White_Fathers_missions", "id": 39108842}]}

@@ -1,1 +1,1 @@
-{"name": "Week-long_observances", "id": 69651831, "predecessors": [{"name": "Week-long_events", "id": 69651940}, {"name": "Calendars", "id": 698466}], "successors": [{"name": "Holy_Week", "id": 17345709}, {"name": "Awareness_weeks", "id": 51793574}]}
+{"name": "Week-long_observances", "id": 69651831, "predecessors": [{"name": "Calendars", "id": 698466}], "successors": [{"name": "Holy_Week", "id": 17345709}, {"name": "Awareness_weeks", "id": 51793574}]}

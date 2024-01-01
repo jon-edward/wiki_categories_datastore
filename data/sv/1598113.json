@@ -1,1 +1,0 @@
-{"name": "Psykisk_anamnes", "id": 1598113, "predecessors": [{"name": "Medicinsk_diagnostik", "id": 1474644}, {"name": "Psykiska_störningar", "id": 264126}], "successors": [{"name": "Kognitiva_symtom", "id": 1473872}, {"name": "Beteendesymtom", "id": 1479896}, {"name": "Affektiva_symtom", "id": 1617035}]}

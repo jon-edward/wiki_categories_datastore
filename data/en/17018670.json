@@ -1,1 +1,1 @@
-{"name": "Medical_journalists", "id": 17018670, "predecessors": [{"name": "Medical_writers", "id": 10910270}, {"name": "Medicine_in_society", "id": 16705284}, {"name": "Journalism", "id": 698307}], "successors": [{"name": "American_medical_journalists", "id": 22649048}]}
+{"name": "Medical_journalists", "id": 17018670, "predecessors": [{"name": "Medical_writers", "id": 10910270}, {"name": "Journalism", "id": 698307}, {"name": "Medical_research", "id": 1169815}], "successors": [{"name": "American_medical_journalists", "id": 22649048}]}

@@ -1,1 +1,1 @@
-{"name": "Science_fiction_anthologies", "id": 2941326, "predecessors": [{"name": "Fiction_anthologies", "id": 1507261}], "successors": [{"name": "Science_fiction_anthology_series", "id": 12452115}]}
+{"name": "Science_fiction_anthologies", "id": 2941326, "predecessors": [{"name": "Fiction_anthologies", "id": 1507261}, {"name": "Science_fiction_books", "id": 1157999}], "successors": [{"name": "Science_fiction_anthology_series", "id": 12452115}, {"name": "Alternate_history_anthologies", "id": 15250311}, {"name": "Isaac_Asimov_anthologies", "id": 53612576}]}

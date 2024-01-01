@@ -1,1 +1,1 @@
-{"name": "Chili_pepper_dishes", "id": 58734780, "predecessors": [{"name": "Vegetable_dishes", "id": 41995703}], "successors": [{"name": "Chili_sauce_and_paste", "id": 64262594}]}
+{"name": "Chili_pepper_dishes", "id": 58734780, "predecessors": [{"name": "Chili_peppers", "id": 5760873}, {"name": "Vegetable_dishes", "id": 41995703}], "successors": [{"name": "Chili_sauce_and_paste", "id": 64262594}]}

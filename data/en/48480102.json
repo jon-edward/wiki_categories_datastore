@@ -1,1 +1,1 @@
-{"name": "IOS_malware", "id": 48480102, "predecessors": [{"name": "IOS_software", "id": 30128111}], "successors": []}
+{"name": "IOS_malware", "id": 48480102, "predecessors": [{"name": "IOS_software", "id": 30128111}, {"name": "Mobile_security", "id": 35573390}], "successors": []}

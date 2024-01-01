@@ -1,1 +1,0 @@
-{"name": "Zerspanungswerkzeug", "id": 9388296, "predecessors": [{"name": "Trennwerkzeug", "id": 1604947}, {"name": "Zerspanen", "id": 481585}], "successors": [{"name": "Hobel", "id": 1604674}, {"name": "Schleifwerkzeug", "id": 1604823}, {"name": "Spanender_Bohrer", "id": 9842469}]}

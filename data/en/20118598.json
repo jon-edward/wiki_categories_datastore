@@ -1,1 +1,1 @@
-{"name": "Plant_subfamilies", "id": 20118598, "predecessors": [{"name": "Plants", "id": 867260}, {"name": "Biology", "id": 692675}], "successors": []}
+{"name": "Plant_subfamilies", "id": 20118598, "predecessors": [{"name": "Plants", "id": 867260}, {"name": "Biology", "id": 692675}], "successors": [{"name": "Eudicot_subfamilies", "id": 56690338}]}

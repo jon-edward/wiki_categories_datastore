@@ -1,1 +1,1 @@
-{"name": "Mountain_huts_in_Italy", "id": 27576165, "predecessors": [{"name": "Mountain_huts", "id": 1840383}, {"name": "Health_by_country", "id": 2693630}], "successors": [{"name": "Mountain_huts_in_Aosta_Valley", "id": 69625358}]}
+{"name": "Mountain_huts_in_Italy", "id": 27576165, "predecessors": [{"name": "Mountain_huts", "id": 1840383}, {"name": "Health_by_country", "id": 2693630}, {"name": "Hospitality_industry", "id": 13824113}], "successors": [{"name": "Mountain_huts_in_Aosta_Valley", "id": 69625358}]}

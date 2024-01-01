@@ -1,1 +1,1 @@
-{"name": "Kimchi", "id": 9412422, "predecessors": [{"name": "National_dishes", "id": 9484662}, {"name": "Pickles", "id": 1842492}, {"name": "Plant-based_fermented_foods", "id": 52240097}, {"name": "Leaf_vegetables", "id": 1616555}, {"name": "Korean_cuisine", "id": 805747}], "successors": []}
+{"name": "Kimchi", "id": 9412422, "predecessors": [{"name": "National_dishes", "id": 9484662}, {"name": "Pickles", "id": 1842492}, {"name": "Plant-based_fermented_foods", "id": 52240097}, {"name": "Brassica", "id": 5001237}, {"name": "Korean_cuisine", "id": 805747}], "successors": []}

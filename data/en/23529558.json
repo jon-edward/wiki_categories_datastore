@@ -1,1 +1,1 @@
-{"name": "Gecko-based_software", "id": 23529558, "predecessors": [{"name": "Mozilla", "id": 744772}, {"name": "Computer_libraries", "id": 7482978}], "successors": [{"name": "Firefox", "id": 31874463}]}
+{"name": "Gecko-based_software", "id": 23529558, "predecessors": [{"name": "Computer_libraries", "id": 7482978}], "successors": [{"name": "Firefox", "id": 31874463}]}

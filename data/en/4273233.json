@@ -1,1 +1,1 @@
-{"name": "French_murder_victims", "id": 4273233, "predecessors": [{"name": "Murder_in_France", "id": 20217343}], "successors": [{"name": "Assassinated_French_people", "id": 5917674}, {"name": "French_people_murdered_abroad", "id": 17997445}]}
+{"name": "French_murder_victims", "id": 4273233, "predecessors": [{"name": "Murder_in_France", "id": 20217343}, {"name": "Law_enforcement_in_France", "id": 947645}], "successors": [{"name": "Assassinated_French_people", "id": 5917674}, {"name": "French_people_murdered_abroad", "id": 17997445}]}

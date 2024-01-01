@@ -1,1 +1,1 @@
-{"name": "Anti-acne_preparations", "id": 22102494, "predecessors": [{"name": "Dermatologic_drugs", "id": 22227047}], "successors": []}
+{"name": "Anti-acne_preparations", "id": 22102494, "predecessors": [{"name": "Acne_treatments", "id": 22247626}, {"name": "Dermatologic_drugs", "id": 22227047}], "successors": []}

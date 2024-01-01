@@ -1,1 +1,1 @@
-{"name": "Seed_storage_proteins", "id": 12513215, "predecessors": [{"name": "Plant_proteins", "id": 32687734}, {"name": "Seeds", "id": 21371365}], "successors": [{"name": "Gluten", "id": 12513168}]}
+{"name": "Seed_storage_proteins", "id": 12513215, "predecessors": [{"name": "Plant_proteins", "id": 32687734}, {"name": "Seeds", "id": 21371365}, {"name": "Proteins", "id": 717889}], "successors": []}

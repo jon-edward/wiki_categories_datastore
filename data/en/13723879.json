@@ -1,1 +1,1 @@
-{"name": "Beer_in_Ireland", "id": 13723879, "predecessors": [{"name": "Irish_alcoholic_drinks", "id": 24682519}, {"name": "Irish_drinks", "id": 24682565}], "successors": [{"name": "Irish_brewers", "id": 37792492}]}
+{"name": "Beer_in_Ireland", "id": 13723879, "predecessors": [{"name": "Irish_drinks", "id": 24682565}, {"name": "Health_in_Europe", "id": 29366955}], "successors": [{"name": "Irish_brewers", "id": 37792492}]}

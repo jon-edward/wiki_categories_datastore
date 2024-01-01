@@ -1,1 +1,1 @@
-{"name": "Golf_tournaments_in_Mexico", "id": 4607336, "predecessors": [{"name": "Individual_sports", "id": 862248}, {"name": "Sport_in_Mexico", "id": 3050168}, {"name": "Tourist_attractions_in_Mexico", "id": 4756716}], "successors": [{"name": "WGC_Championship", "id": 35004691}]}
+{"name": "Golf_tournaments_in_Mexico", "id": 4607336, "predecessors": [{"name": "Sport_in_Mexico", "id": 3050168}, {"name": "Tourist_attractions_in_Mexico", "id": 4756716}, {"name": "Environment_and_society", "id": 15474891}], "successors": [{"name": "WGC_Championship", "id": 35004691}]}

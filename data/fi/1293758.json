@@ -1,1 +1,1 @@
-{"name": "Trenton_maakunta", "id": 1293758, "predecessors": [{"name": "Italian_maantiede", "id": 100752}], "successors": [{"name": "Trenton_maakunnan_kunnat", "id": 1293762}]}
+{"name": "Trenton_maakunta", "id": 1293758, "predecessors": [{"name": "Italian_maantiede", "id": 100752}, {"name": "Itsehallintoalueet", "id": 1758028}], "successors": [{"name": "Trenton_maakunnan_kunnat", "id": 1293762}]}

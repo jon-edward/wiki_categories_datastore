@@ -1,1 +1,0 @@
-{"name": "Eau_potable", "id": 3938528, "predecessors": [{"name": "Boisson", "id": 95606}, {"name": "Gestion_de_l'eau", "id": 3189774}], "successors": [{"name": "Eau_minérale", "id": 741889}, {"name": "Fontaine_d'eau_potable", "id": 14265587}, {"name": "Eau_gazeuse", "id": 15128872}, {"name": "Marque_d'eau_minérale", "id": 741971}]}

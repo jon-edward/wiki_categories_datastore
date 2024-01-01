@@ -1,1 +1,1 @@
-{"name": "Novartis_brands", "id": 31169675, "predecessors": [{"name": "Drug_brand_names", "id": 21183991}, {"name": "Novartis", "id": 5909689}], "successors": []}
+{"name": "Drugs_developed_by_Novartis", "id": 31169675, "predecessors": [{"name": "Drug_brand_names", "id": 21183991}, {"name": "Novartis", "id": 5909689}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Books_about_rock_music", "id": 28009914, "predecessors": [{"name": "Music_books", "id": 1241451}], "successors": [{"name": "Books_about_rock_musicians", "id": 28076842}]}
+{"name": "Books_about_rock_music", "id": 28009914, "predecessors": [{"name": "Music_books", "id": 1241451}, {"name": "Works_about_art_genres", "id": 35611746}], "successors": [{"name": "Books_about_rock_musicians", "id": 28076842}]}

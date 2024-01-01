@@ -1,1 +1,1 @@
-{"name": "FK_Kokand_1912_players", "id": 74825829, "predecessors": [{"name": "Asian_culture", "id": 1438369}], "successors": []}
+{"name": "FK_Kokand_1912_players", "id": 74825829, "predecessors": [{"name": "Asian_culture", "id": 1438369}, {"name": "Football_clubs_in_Uzbekistan", "id": 34435690}], "successors": []}

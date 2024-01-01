@@ -1,1 +1,1 @@
-{"name": "Plastičtí_chirurgové", "id": 646157, "predecessors": [{"name": "Chirurgové", "id": 168229}, {"name": "Plastická_chirurgie", "id": 101545}, {"name": "Lékaři", "id": 6246}], "successors": []}
+{"name": "Plastičtí_chirurgové", "id": 646157, "predecessors": [{"name": "Chirurgové", "id": 168229}, {"name": "Plastická_chirurgie", "id": 101545}, {"name": "Lékaři", "id": 6246}], "successors": [{"name": "Plastické_chiruržky", "id": 1901142}]}

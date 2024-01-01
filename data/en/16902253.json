@@ -1,1 +1,1 @@
-{"name": "Veterinary_procedures", "id": 16902253, "predecessors": [{"name": "Veterinary_medicine", "id": 977183}], "successors": [{"name": "Veterinary_castration", "id": 16902554}, {"name": "ATCvet_codes", "id": 37851806}]}
+{"name": "Veterinary_procedures", "id": 16902253, "predecessors": [{"name": "Medical_procedures", "id": 22735454}, {"name": "Veterinary_medicine", "id": 977183}], "successors": [{"name": "Veterinary_castration", "id": 16902554}, {"name": "ATCvet_codes", "id": 37851806}]}

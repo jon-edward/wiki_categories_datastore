@@ -1,1 +1,1 @@
-{"name": "Investment_management_companies", "id": 4826298, "predecessors": [{"name": "Investment_management", "id": 53152615}, {"name": "Capital_management", "id": 74274616}], "successors": [{"name": "Private_equity_firms", "id": 1020169}, {"name": "Alternative_investment_management_companies", "id": 8101576}]}
+{"name": "Investment_management_companies", "id": 4826298, "predecessors": [{"name": "Capital_management", "id": 74274616}], "successors": [{"name": "Private_equity_firms", "id": 1020169}, {"name": "Alternative_investment_management_companies", "id": 8101576}]}

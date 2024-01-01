@@ -1,1 +1,0 @@
-{"name": "Softwares_de_virtualização", "id": 3962813, "predecessors": [{"name": "Camadas_de_compatibilidade", "id": 3964896}, {"name": "Softwares_de_sistema", "id": 2797440}], "successors": [{"name": "Emuladores", "id": 74771}, {"name": "Software_livre_de_virtualização", "id": 3960454}, {"name": "VMware", "id": 6228726}]}

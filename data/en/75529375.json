@@ -1,1 +1,1 @@
-{"name": "Tennis_players_from_Minnesota", "id": 75529375, "predecessors": [{"name": "Sportspeople_from_Minnesota", "id": 16752013}, {"name": "Athletic_sports", "id": 31210709}], "successors": []}
+{"name": "Tennis_players_from_Minnesota", "id": 75529375, "predecessors": [{"name": "Sportspeople_from_Minnesota", "id": 16752013}, {"name": "Tennis_players_from_Minnesota", "id": 75529375}], "successors": [{"name": "Tennis_players_from_Minnesota", "id": 75529375}]}

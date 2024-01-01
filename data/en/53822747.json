@@ -1,1 +1,1 @@
-{"name": "Trematode_genera", "id": 53822747, "predecessors": [{"name": "Platyhelminthes_genera", "id": 48153407}, {"name": "Trematoda", "id": 55640866}], "successors": [{"name": "Digenea_genera", "id": 55632745}]}
+{"name": "Trematode_genera", "id": 53822747, "predecessors": [{"name": "Platyhelminthes_genera", "id": 48153407}, {"name": "Parasitic_protostomes", "id": 55821909}], "successors": [{"name": "Digenea_genera", "id": 55632745}]}

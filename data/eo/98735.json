@@ -1,1 +1,1 @@
-{"name": "Videoludaj_firmaoj", "id": 98735, "predecessors": [{"name": "Firmaoj", "id": 53508}, {"name": "Videoludoj", "id": 81002}], "successors": [{"name": "Nintendo", "id": 161527}, {"name": "Videoludoj_de_Valve_Corporation", "id": 496382}]}
+{"name": "Videoludaj_firmaoj", "id": 98735, "predecessors": [{"name": "Videoludoj", "id": 81002}, {"name": "Firmaoj", "id": 53508}], "successors": [{"name": "Nintendo", "id": 161527}, {"name": "Videoludoj_de_Valve_Corporation", "id": 496382}]}

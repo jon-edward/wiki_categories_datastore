@@ -1,1 +1,1 @@
-{"name": "Harvard_Divinity_School_faculty", "id": 11371693, "predecessors": [{"name": "Harvard_University_faculty", "id": 4881137}, {"name": "Harvard_University_schools", "id": 19707943}], "successors": []}
+{"name": "Harvard_Divinity_School_faculty", "id": 11371693, "predecessors": [{"name": "Harvard_Divinity_School", "id": 6943150}, {"name": "Harvard_University_faculty", "id": 4881137}], "successors": []}

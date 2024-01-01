@@ -1,1 +1,1 @@
-{"name": "Vaccinologists", "id": 12911038, "predecessors": [{"name": "Immunologists", "id": 1077034}, {"name": "Vaccination", "id": 3898959}], "successors": []}
+{"name": "Vaccinologists", "id": 12911038, "predecessors": [{"name": "Immunologists", "id": 1077034}, {"name": "Medical_researchers", "id": 2986153}, {"name": "Vaccination", "id": 3898959}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Illes_volcàniques", "id": 1035576, "predecessors": [{"name": "Accidents_geogràfics", "id": 185863}, {"name": "Vulcanologia", "id": 20454}], "successors": [{"name": "Lanzarote", "id": 284798}, {"name": "Persones_de_Tenerife", "id": 1011392}, {"name": "Municipis_de_Tenerife", "id": 285619}]}
+{"name": "Illes_volcàniques", "id": 1035576, "predecessors": [{"name": "Accidents_geogràfics", "id": 185863}, {"name": "Vulcanologia", "id": 20454}], "successors": [{"name": "Tenerife", "id": 267361}, {"name": "Lanzarote", "id": 284798}]}

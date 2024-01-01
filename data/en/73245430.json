@@ -1,1 +1,1 @@
-{"name": "Cancelled_multi-sport_events", "id": 73245430, "predecessors": [{"name": "Cancelled_sports_events", "id": 27837491}, {"name": "Multi-sport_events", "id": 944214}], "successors": [{"name": "Multi-sport_events_cancelled_due_to_the_COVID-19_pandemic", "id": 65681995}]}
+{"name": "Cancelled_multi-sport_events", "id": 73245430, "predecessors": [{"name": "Cancelled_sports_events", "id": 27837491}], "successors": [{"name": "Multi-sport_events_cancelled_due_to_the_COVID-19_pandemic", "id": 65681995}]}

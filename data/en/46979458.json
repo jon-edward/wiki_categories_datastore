@@ -1,1 +1,1 @@
-{"name": "Patient_advocacy", "id": 46979458, "predecessors": [{"name": "Health_care_quality", "id": 16191835}], "successors": [{"name": "Health_advocacy_groups", "id": 24223246}, {"name": "Autism_rights_movement", "id": 44330799}]}
+{"name": "Patient_advocacy", "id": 46979458, "predecessors": [{"name": "Health_care_quality", "id": 16191835}, {"name": "Patient", "id": 49859754}], "successors": [{"name": "Patients'_organizations", "id": 8905699}, {"name": "Health_advocacy_groups", "id": 24223246}, {"name": "Autism_rights_movement", "id": 44330799}]}

@@ -1,1 +1,1 @@
-{"name": "Business_travel", "id": 55674033, "predecessors": [{"name": "Business", "id": 771152}, {"name": "Types_of_travel", "id": 23210501}], "successors": [{"name": "Traveling_teams", "id": 75173986}, {"name": "Very_light_jets", "id": 15998978}]}
+{"name": "Business_travel", "id": 55674033, "predecessors": [{"name": "Business", "id": 771152}, {"name": "Types_of_travel", "id": 23210501}], "successors": [{"name": "Traveling_teams", "id": 75173986}]}

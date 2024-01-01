@@ -1,1 +1,1 @@
-{"name": "Fictional_continents", "id": 893765, "predecessors": [{"name": "Continents", "id": 788686}, {"name": "Fictional_locations", "id": 701500}], "successors": [{"name": "Atlantis", "id": 2975113}, {"name": "Lemuria", "id": 46248742}]}
+{"name": "Fictional_continents", "id": 893765, "predecessors": [{"name": "Continents", "id": 788686}, {"name": "Landforms", "id": 705424}], "successors": [{"name": "Atlantis", "id": 2975113}, {"name": "Lemuria", "id": 46248742}]}

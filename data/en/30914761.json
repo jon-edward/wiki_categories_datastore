@@ -1,1 +1,1 @@
-{"name": "Teacher_training_programs", "id": 30914761, "predecessors": [{"name": "Learning_programs", "id": 30891264}, {"name": "Teacher_training", "id": 3311790}, {"name": "Vocational_education", "id": 2251696}], "successors": []}
+{"name": "Teacher_training_programs", "id": 30914761, "predecessors": [{"name": "Learning_programs", "id": 30891264}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Lettuce", "id": 39550889, "predecessors": [{"name": "Leaf_vegetables", "id": 1616555}], "successors": [{"name": "Lettuce_diseases", "id": 9598112}]}
+{"name": "Lettuce", "id": 39550889, "predecessors": [{"name": "Lactuca", "id": 15924489}, {"name": "Leaf_vegetables", "id": 1616555}], "successors": [{"name": "Lettuce_diseases", "id": 9598112}]}

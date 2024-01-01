@@ -1,1 +1,1 @@
-{"name": "Faith_in_Christianity", "id": 61652936, "predecessors": [{"name": "Christian_belief_and_doctrine", "id": 20873103}, {"name": "Religious_belief_and_doctrine", "id": 20813658}], "successors": [{"name": "Christian_statements_of_faith", "id": 38240419}]}
+{"name": "Faith_in_Christianity", "id": 61652936, "predecessors": [{"name": "Christian_belief_and_doctrine", "id": 20873103}, {"name": "Faith", "id": 57035652}], "successors": [{"name": "Christian_statements_of_faith", "id": 38240419}]}

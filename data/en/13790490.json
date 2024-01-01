@@ -1,1 +1,1 @@
-{"name": "Business-related_television_channels", "id": 13790490, "predecessors": [{"name": "Television_networks", "id": 703398}, {"name": "Business", "id": 771152}], "successors": [{"name": "CNBC", "id": 1941968}]}
+{"name": "Business-related_television_channels", "id": 13790490, "predecessors": [{"name": "Networks", "id": 744360}, {"name": "Business", "id": 771152}], "successors": [{"name": "CNBC", "id": 1941968}]}

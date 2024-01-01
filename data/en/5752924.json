@@ -1,1 +1,1 @@
-{"name": "Trivia_books", "id": 5752924, "predecessors": [{"name": "Popular_culture_books", "id": 1224354}, {"name": "Reference_works", "id": 699920}, {"name": "Entertainment", "id": 693016}], "successors": [{"name": "Guinness_World_Records", "id": 45111777}]}
+{"name": "Trivia_books", "id": 5752924, "predecessors": [{"name": "Popular_culture_books", "id": 1224354}, {"name": "Reference_works", "id": 699920}, {"name": "Trivia", "id": 1262226}], "successors": [{"name": "Guinness_World_Records", "id": 45111777}]}

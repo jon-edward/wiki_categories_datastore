@@ -1,1 +1,1 @@
-{"name": "Medical_lawsuits", "id": 50965649, "predecessors": [{"name": "Medical_law", "id": 24684705}], "successors": []}
+{"name": "Medical_lawsuits", "id": 50965649, "predecessors": [{"name": "Lawsuits", "id": 4984484}, {"name": "Medical_law", "id": 24684705}], "successors": []}

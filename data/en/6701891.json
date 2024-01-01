@@ -1,1 +1,1 @@
-{"name": "Free_personal_information_managers", "id": 6701891, "predecessors": [{"name": "Free_application_software", "id": 6702554}, {"name": "Personal_information_managers", "id": 1444957}], "successors": [{"name": "Free_calendaring_software", "id": 6701869}, {"name": "Free_password_managers", "id": 39679305}]}
+{"name": "Free_personal_information_managers", "id": 6701891, "predecessors": [{"name": "Personal_information_managers", "id": 1444957}], "successors": [{"name": "Free_calendaring_software", "id": 6701869}, {"name": "Free_password_managers", "id": 39679305}]}

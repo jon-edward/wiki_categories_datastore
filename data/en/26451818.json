@@ -1,1 +1,1 @@
-{"name": "Male_long-distance_swimmers", "id": 26451818, "predecessors": [{"name": "Open_water_swimming", "id": 31574580}, {"name": "Swimming", "id": 691570}], "successors": [{"name": "French_male_long-distance_swimmers", "id": 68536582}, {"name": "Italian_male_long-distance_swimmers", "id": 58134619}]}
+{"name": "Male_long-distance_swimmers", "id": 26451818, "predecessors": [{"name": "Swimming", "id": 691570}], "successors": [{"name": "French_male_long-distance_swimmers", "id": 68536582}, {"name": "Italian_male_long-distance_swimmers", "id": 58134619}]}

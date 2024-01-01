@@ -1,1 +1,1 @@
-{"name": "Electronics_and_the_environment", "id": 24171302, "predecessors": [{"name": "Electronics", "id": 707661}], "successors": [{"name": "Electronic_waste", "id": 6257773}, {"name": "Computers_and_the_environment", "id": 25504486}]}
+{"name": "Electronics_and_the_environment", "id": 24171302, "predecessors": [{"name": "Economy_and_the_environment", "id": 51432643}, {"name": "Electronics", "id": 707661}], "successors": [{"name": "Electronic_waste", "id": 6257773}, {"name": "Computers_and_the_environment", "id": 25504486}]}

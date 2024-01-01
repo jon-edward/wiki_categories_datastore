@@ -1,1 +1,1 @@
-{"name": "Puppet_films", "id": 8561433, "predecessors": [{"name": "Fictional_puppets", "id": 14434813}], "successors": [{"name": "Marionette_films", "id": 8495303}, {"name": "The_Muppets_films", "id": 38085979}]}
+{"name": "Puppet_films", "id": 8561433, "predecessors": [{"name": "Fictional_puppets", "id": 14434813}, {"name": "Puppetry", "id": 877831}], "successors": [{"name": "Marionette_films", "id": 8495303}, {"name": "The_Muppets_films", "id": 38085979}]}

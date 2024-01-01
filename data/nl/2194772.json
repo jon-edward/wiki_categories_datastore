@@ -1,1 +1,0 @@
-{"name": "Robot", "id": 2194772, "predecessors": [{"name": "Robotica", "id": 82750}, {"name": "Werktuig", "id": 94143}], "successors": [{"name": "Fictieve_robot", "id": 1183263}, {"name": "Onbemand_luchtvaartuig", "id": 1187957}, {"name": "Rover_(ruimtevaartuig)", "id": 2089252}, {"name": "Zelfrijdend_voertuig", "id": 4996031}]}

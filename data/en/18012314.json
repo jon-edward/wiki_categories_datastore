@@ -1,1 +1,1 @@
-{"name": "French_prisoners_sentenced_to_death", "id": 18012314, "predecessors": [{"name": "Capital_punishment", "id": 3519519}], "successors": [{"name": "Executed_French_people", "id": 18537683}]}
+{"name": "French_prisoners_sentenced_to_death", "id": 18012314, "predecessors": [{"name": "French_prisoners_and_detainees", "id": 12223098}, {"name": "Capital_punishment", "id": 3519519}], "successors": [{"name": "Executed_French_people", "id": 18537683}]}

@@ -1,1 +1,1 @@
-{"name": "Crowdfunded_video_games", "id": 45518109, "predecessors": [{"name": "Crowdfunding_projects", "id": 45441912}, {"name": "Video_game_marketing", "id": 9569093}, {"name": "Video_game_development", "id": 9254238}], "successors": [{"name": "Kickstarter-funded_video_games", "id": 56142846}]}
+{"name": "Crowdfunded_video_games", "id": 45518109, "predecessors": [{"name": "Crowdfunding_projects", "id": 45441912}, {"name": "Video_game_marketing", "id": 9569093}], "successors": [{"name": "Kickstarter-funded_video_games", "id": 56142846}]}

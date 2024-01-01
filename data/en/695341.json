@@ -1,1 +1,1 @@
-{"name": "Chess_openings", "id": 695341, "predecessors": [{"name": "Chess_theory", "id": 17041454}], "successors": [{"name": "Chess_traps", "id": 1756486}]}
+{"name": "Chess_openings", "id": 695341, "predecessors": [{"name": "Chess_theory", "id": 17041454}], "successors": [{"name": "Chess_traps", "id": 1756486}, {"name": "Chess_gambits", "id": 75649651}]}

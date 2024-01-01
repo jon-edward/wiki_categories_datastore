@@ -1,1 +1,1 @@
-{"name": "Eulimidae", "id": 15345516, "predecessors": [{"name": "Gastropod_families", "id": 14721017}], "successors": [{"name": "Eulima", "id": 44647776}, {"name": "Vitreolina", "id": 44741913}, {"name": "Melanella", "id": 44741946}]}
+{"name": "Eulimidae", "id": 15345516, "predecessors": [{"name": "Gastropod_families", "id": 14721017}, {"name": "Littorinimorpha", "id": 22344995}], "successors": [{"name": "Eulima", "id": 44647776}, {"name": "Vitreolina", "id": 44741913}, {"name": "Melanella", "id": 44741946}]}

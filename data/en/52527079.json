@@ -1,1 +1,1 @@
-{"name": "Animal_subgenera", "id": 52527079, "predecessors": [{"name": "Biology", "id": 692675}, {"name": "Biological_classification", "id": 41221871}], "successors": [{"name": "Gastropod_subgenera", "id": 71918528}, {"name": "Donkeys", "id": 5893599}]}
+{"name": "Animal_subgenera", "id": 52527079, "predecessors": [{"name": "Biology", "id": 692675}, {"name": "Biological_classification", "id": 41221871}], "successors": [{"name": "Insect_subgenera", "id": 57381693}, {"name": "Gastropod_subgenera", "id": 71918528}, {"name": "Donkeys", "id": 5893599}]}

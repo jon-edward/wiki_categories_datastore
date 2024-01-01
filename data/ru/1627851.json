@@ -1,1 +1,0 @@
-{"name": "Компоненты_Windows", "id": 1627851, "predecessors": [{"name": "Microsoft_Windows", "id": 68440}, {"name": "Компоненты_ОС", "id": 7148163}, {"name": "Программное_обеспечение_только_под_Windows", "id": 5507707}], "successors": [{"name": "Службы_Windows", "id": 2346810}, {"name": "Командная_строка_MS-DOS/Windows", "id": 4207955}]}

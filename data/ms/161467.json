@@ -1,1 +1,1 @@
-{"name": "Fesyen", "id": 161467, "predecessors": [{"name": "Pakaian", "id": 56871}, {"name": "Masyarakat", "id": 8064}], "successors": [{"name": "Pakaian", "id": 56871}, {"name": "Aksesori_fesyen", "id": 271535}, {"name": "Peragawati", "id": 30102}, {"name": "Peragawan", "id": 53722}]}
+{"name": "Fesyen", "id": 161467, "predecessors": [{"name": "Pakaian", "id": 56871}, {"name": "Masyarakat", "id": 8064}], "successors": [{"name": "Pakaian", "id": 56871}, {"name": "Aksesori_fesyen", "id": 271535}, {"name": "Model", "id": 161484}]}

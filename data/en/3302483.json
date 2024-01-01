@@ -1,1 +1,1 @@
-{"name": "Islamic_schools", "id": 3302483, "predecessors": [{"name": "Islamic_education", "id": 43660240}, {"name": "Religious_buildings_and_structures", "id": 1880790}, {"name": "Islamic_architecture", "id": 724784}], "successors": [{"name": "Madrasas", "id": 725725}]}
+{"name": "Islamic_schools", "id": 3302483, "predecessors": [{"name": "Private_schools", "id": 1050673}, {"name": "Religious_buildings_and_structures", "id": 1880790}, {"name": "Islamic_architecture", "id": 724784}], "successors": [{"name": "Madrasas", "id": 725725}]}

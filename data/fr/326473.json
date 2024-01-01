@@ -1,1 +1,0 @@
-{"name": "Antihistaminique", "id": 326473, "predecessors": [{"name": "Classe_pharmacologique", "id": 131501}, {"name": "Psychotrope", "id": 313018}, {"name": "Médicament", "id": 131503}], "successors": [{"name": "Antihistaminique_H1", "id": 326470}]}

@@ -1,1 +1,1 @@
-{"name": "Homiletics", "id": 13189412, "predecessors": [{"name": "Christian_media", "id": 6894804}, {"name": "Practical_theology", "id": 22334576}, {"name": "Public_speaking", "id": 2810397}, {"name": "Rhetoric", "id": 795966}], "successors": []}
+{"name": "Homiletics", "id": 13189412, "predecessors": [{"name": "Christian_sermons", "id": 40689462}, {"name": "Public_speaking", "id": 2810397}, {"name": "Rhetoric", "id": 795966}], "successors": []}

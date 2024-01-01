@@ -1,1 +1,1 @@
-{"name": "Scottish_male_film_actors", "id": 40394081, "predecessors": [{"name": "British_film_actors", "id": 3066772}], "successors": [{"name": "Scottish_male_silent_film_actors", "id": 40399285}]}
+{"name": "Scottish_male_film_actors", "id": 40394081, "predecessors": [{"name": "British_male_film_actors", "id": 40387564}, {"name": "British_film_actors", "id": 3066772}], "successors": [{"name": "Scottish_male_silent_film_actors", "id": 40399285}]}

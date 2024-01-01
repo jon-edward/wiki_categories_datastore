@@ -1,1 +1,1 @@
-{"name": "Erysiphales", "id": 49001544, "predecessors": [{"name": "Leotiomycetes", "id": 18667321}], "successors": []}
+{"name": "Erysiphales", "id": 49001544, "predecessors": [{"name": "Leotiomycetes", "id": 18667321}], "successors": [{"name": "Erysiphe", "id": 18683844}, {"name": "Podosphaera", "id": 49001617}, {"name": "Microsphaera", "id": 49004031}]}

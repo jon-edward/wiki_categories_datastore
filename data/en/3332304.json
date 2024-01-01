@@ -1,1 +1,1 @@
-{"name": "Cemeteries_in_Egypt", "id": 3332304, "predecessors": [{"name": "Egyptian_culture", "id": 727688}], "successors": [{"name": "Theban_Necropolis", "id": 3721479}, {"name": "Burials_in_Egypt", "id": 20390391}]}
+{"name": "Cemeteries_in_Egypt", "id": 3332304, "predecessors": [{"name": "Burials_in_Egypt", "id": 20390391}], "successors": [{"name": "Theban_Necropolis", "id": 3721479}]}

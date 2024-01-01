@@ -1,1 +1,1 @@
-{"name": "German_police_chiefs", "id": 5197881, "predecessors": [{"name": "Chiefs_of_police", "id": 23962515}], "successors": [{"name": "SS_and_Police_Leaders", "id": 2731510}]}
+{"name": "German_police_chiefs", "id": 5197881, "predecessors": [{"name": "Chiefs_of_police", "id": 23962515}, {"name": "German_police_officers", "id": 2405695}], "successors": [{"name": "SS_and_Police_Leaders", "id": 2731510}]}

@@ -1,1 +1,1 @@
-{"name": "Austrian_ice_hockey_forwards", "id": 62035310, "predecessors": [{"name": "Athletic_sports", "id": 31210709}], "successors": []}
+{"name": "Austrian_ice_hockey_forwards", "id": 62035310, "predecessors": [{"name": "Sports_terminology", "id": 1489690}, {"name": "Austrian_ice_hockey_players", "id": 870909}], "successors": [{"name": "Austrian_ice_hockey_centres", "id": 62035329}, {"name": "Austrian_ice_hockey_left_wingers", "id": 62035348}, {"name": "Austrian_ice_hockey_right_wingers", "id": 62035365}]}

@@ -1,1 +1,1 @@
-{"name": "Compositors_noruecs", "id": 1065294, "predecessors": [{"name": "Artistes_noruecs", "id": 203632}, {"name": "Compositors", "id": 12451}], "successors": [{"name": "Compositors_noruecs_del_Romanticisme", "id": 1110623}]}
+{"name": "Compositors_noruecs", "id": 1065294, "predecessors": [{"name": "Artistes_noruecs", "id": 203632}, {"name": "Biografies", "id": 16117}], "successors": [{"name": "Compositors_noruecs_del_Romanticisme", "id": 1110623}]}

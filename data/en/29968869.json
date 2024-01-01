@@ -1,1 +1,1 @@
-{"name": "Target_drones", "id": 29968869, "predecessors": [{"name": "Unmanned_military_aircraft", "id": 40647472}], "successors": [{"name": "Target_drones_of_the_United_States", "id": 34776408}]}
+{"name": "Target_drones", "id": 29968869, "predecessors": [{"name": "Airborne_military_robots", "id": 26348922}], "successors": [{"name": "Target_drones_of_the_United_States", "id": 34776408}]}

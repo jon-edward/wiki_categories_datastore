@@ -1,1 +1,1 @@
-{"name": "Film_festival_directors", "id": 31181185, "predecessors": [{"name": "Arts_managers", "id": 4300880}, {"name": "Festival_directors", "id": 4460205}, {"name": "Entertainment", "id": 693016}], "successors": [{"name": "Film_festival_founders", "id": 20588452}]}
+{"name": "Film_festival_directors", "id": 31181185, "predecessors": [{"name": "Film", "id": 2012004}], "successors": [{"name": "Film_festival_founders", "id": 20588452}]}

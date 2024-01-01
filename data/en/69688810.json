@@ -1,1 +1,1 @@
-{"name": "Deaths_from_coronary_artery_disease", "id": 69688810, "predecessors": [{"name": "Ischemic_heart_diseases", "id": 12180072}], "successors": []}
+{"name": "Deaths_from_coronary_artery_disease", "id": 69688810, "predecessors": [{"name": "Deaths_from_heart_disease", "id": 67653370}, {"name": "Ischemic_heart_diseases", "id": 12180072}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "NBC_sitcoms", "id": 75500266, "predecessors": [{"name": "NBC_original_programming", "id": 796477}, {"name": "American_comedy_television_series", "id": 6944733}], "successors": []}
+{"name": "NBC_sitcoms", "id": 75500266, "predecessors": [{"name": "NBC_original_programming", "id": 796477}, {"name": "American_comedy", "id": 51024020}], "successors": [{"name": "I_Dream_of_Jeannie", "id": 37557742}, {"name": "Superstore_(TV_series)", "id": 55475164}, {"name": "Brooklyn_Nine-Nine", "id": 59709098}]}

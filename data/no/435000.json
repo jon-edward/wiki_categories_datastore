@@ -1,1 +1,1 @@
-{"name": "Kjøpesentre_i_Buskerud", "id": 435000, "predecessors": [{"name": "Næringsliv_i_Buskerud", "id": 352561}, {"name": "Byggverk_i_Norge", "id": 1073706}, {"name": "Administrative_inndelinger_i_Norge", "id": 497295}], "successors": [{"name": "Kjøpesentre_i_Drammen", "id": 2068802}]}
+{"name": "Kjøpesentre_i_Buskerud", "id": 435000, "predecessors": [{"name": "Næringsliv_i_Buskerud", "id": 352561}, {"name": "Byggverk_i_Norge", "id": 1073706}, {"name": "Buskeruds_geografi", "id": 60645}], "successors": [{"name": "Kjøpesentre_i_Drammen", "id": 2068802}]}

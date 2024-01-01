@@ -1,1 +1,1 @@
-{"name": "Neurology_procedures", "id": 32498603, "predecessors": [{"name": "Neurology", "id": 714324}], "successors": [{"name": "Neuroimaging", "id": 3748377}, {"name": "Diagnostic_neurology", "id": 72219889}]}
+{"name": "Neurology_procedures", "id": 32498603, "predecessors": [{"name": "Medical_procedures", "id": 22735454}, {"name": "Neurology", "id": 714324}], "successors": [{"name": "Neuroimaging", "id": 3748377}, {"name": "Diagnostic_neurology", "id": 72219889}]}

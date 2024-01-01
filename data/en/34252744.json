@@ -1,1 +1,1 @@
-{"name": "Word-sense_disambiguation", "id": 34252744, "predecessors": [{"name": "Ambiguity", "id": 38790415}, {"name": "Computational_linguistics", "id": 787876}, {"name": "Lexical_semantics", "id": 7955286}, {"name": "Tasks_of_natural_language_processing", "id": 40640752}], "successors": []}
+{"name": "Word-sense_disambiguation", "id": 34252744, "predecessors": [{"name": "Ambiguity", "id": 38790415}, {"name": "Computational_linguistics", "id": 787876}, {"name": "Lexical_semantics", "id": 7955286}], "successors": []}

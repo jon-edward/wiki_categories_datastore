@@ -1,1 +1,1 @@
-{"name": "Tennis_players_from_Kansas", "id": 75529306, "predecessors": [{"name": "Sportspeople_from_Kansas", "id": 21156440}, {"name": "Athletic_sports", "id": 31210709}], "successors": []}
+{"name": "Tennis_players_from_Kansas", "id": 75529306, "predecessors": [{"name": "Sportspeople_from_Kansas", "id": 21156440}, {"name": "Tennis_players_from_Kansas", "id": 75529306}], "successors": [{"name": "Tennis_players_from_Kansas", "id": 75529306}]}

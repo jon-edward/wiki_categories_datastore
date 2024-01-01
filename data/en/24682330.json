@@ -1,1 +1,1 @@
-{"name": "Canadian_alcoholic_drinks", "id": 24682330, "predecessors": [{"name": "Canadian_drinks", "id": 24682347}, {"name": "Alcohol_by_country", "id": 24323097}], "successors": [{"name": "Canadian_wine", "id": 6042878}, {"name": "Canadian_whisky", "id": 3304555}]}
+{"name": "Canadian_alcoholic_drinks", "id": 24682330, "predecessors": [{"name": "Canadian_drinks", "id": 24682347}, {"name": "Health_in_Canada", "id": 4723025}], "successors": [{"name": "Canadian_wine", "id": 6042878}, {"name": "Canadian_whisky", "id": 3304555}]}

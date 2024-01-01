@@ -1,1 +1,1 @@
-{"name": "Horror_artists", "id": 6838421, "predecessors": [{"name": "Horror_fiction", "id": 31995985}, {"name": "Illustration", "id": 722157}], "successors": [{"name": "Horror_writers", "id": 694250}, {"name": "Horror_hosts", "id": 4177514}]}
+{"name": "Horror_artists", "id": 6838421, "predecessors": [{"name": "Horror_fiction", "id": 31995985}, {"name": "Speculative_fiction", "id": 1072285}], "successors": [{"name": "Horror_writers", "id": 694250}, {"name": "Horror_hosts", "id": 4177514}]}

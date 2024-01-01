@@ -1,1 +1,1 @@
-{"name": "John_20", "id": 43499544, "predecessors": [{"name": "Gospel_of_John_chapters", "id": 32782561}, {"name": "Resurrection_of_Jesus_in_the_New_Testament", "id": 57958274}, {"name": "Gospel_of_John", "id": 32782493}], "successors": []}
+{"name": "John_20", "id": 43499544, "predecessors": [{"name": "Gospel_of_John_chapters", "id": 32782561}, {"name": "Gospel_of_John", "id": 32782493}, {"name": "Gospel_episodes", "id": 2681068}], "successors": []}

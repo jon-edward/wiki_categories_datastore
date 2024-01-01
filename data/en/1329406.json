@@ -1,1 +1,1 @@
-{"name": "LaserDisc_video_games", "id": 1329406, "predecessors": [{"name": "Arcade_video_games", "id": 696445}, {"name": "Interactive_movie_video_games", "id": 9571519}, {"name": "LaserDisc", "id": 3911050}, {"name": "Video_game_distribution", "id": 36002716}], "successors": []}
+{"name": "LaserDisc_video_games", "id": 1329406, "predecessors": [{"name": "Arcade_video_games", "id": 696445}, {"name": "Interactive_movie_video_games", "id": 9571519}, {"name": "LaserDisc", "id": 3911050}], "successors": []}

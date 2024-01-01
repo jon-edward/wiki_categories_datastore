@@ -1,1 +1,1 @@
-{"name": "Environment_and_health", "id": 63620959, "predecessors": [{"name": "Health", "id": 751381}], "successors": [{"name": "Environmental_health", "id": 17265684}]}
+{"name": "Environment_and_health", "id": 63620959, "predecessors": [{"name": "Health", "id": 751381}, {"name": "Natural_environment", "id": 3103170}], "successors": [{"name": "Environmental_health", "id": 17265684}]}

@@ -1,1 +1,1 @@
-{"name": "Britaj_reĝisoroj", "id": 37049, "predecessors": [{"name": "Britoj", "id": 80886}, {"name": "Eŭropa_kino", "id": 311515}, {"name": "Kino", "id": 43019}], "successors": [{"name": "Anglaj_reĝisoroj", "id": 640101}]}
+{"name": "Britaj_reĝisoroj", "id": 37049, "predecessors": [{"name": "Brita_kino", "id": 304340}, {"name": "Britoj", "id": 80886}, {"name": "Kino", "id": 43019}], "successors": [{"name": "Anglaj_reĝisoroj", "id": 640101}]}

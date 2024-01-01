@@ -1,1 +1,1 @@
-{"name": "ALPG_Tour_golfers", "id": 32703706, "predecessors": [{"name": "Women's_sports", "id": 1696202}, {"name": "Professional_golf_tours", "id": 1324713}, {"name": "Time", "id": 744728}], "successors": []}
+{"name": "ALPG_Tour_golfers", "id": 32703706, "predecessors": [{"name": "Professional_golf_tours", "id": 1324713}, {"name": "Women's_sports", "id": 1696202}], "successors": []}

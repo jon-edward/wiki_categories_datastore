@@ -1,1 +1,1 @@
-{"name": "Italian_women_nurses", "id": 73163024, "predecessors": [{"name": "Women_nurses", "id": 51145581}], "successors": []}
+{"name": "Italian_women_nurses", "id": 73163024, "predecessors": [{"name": "Italian_nurses", "id": 3943364}, {"name": "Women_nurses", "id": 51145581}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Portrait_photography", "id": 52177668, "predecessors": [{"name": "Photography_by_genre", "id": 1137627}, {"name": "Portrait_art", "id": 2385777}, {"name": "Photography", "id": 717207}], "successors": [{"name": "Selfies", "id": 59273597}]}
+{"name": "Portrait_photography", "id": 52177668, "predecessors": [{"name": "Photography_by_genre", "id": 1137627}, {"name": "Portrait_art", "id": 2385777}, {"name": "Photography", "id": 717207}], "successors": [{"name": "Portrait_photographers", "id": 4329667}, {"name": "Selfies", "id": 59273597}]}

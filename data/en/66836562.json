@@ -1,1 +1,1 @@
-{"name": "Sports_clubs_and_teams_in_Istanbul", "id": 66836562, "predecessors": [{"name": "Sport_in_Istanbul", "id": 3089742}], "successors": [{"name": "Football_clubs_in_Istanbul", "id": 21981697}]}
+{"name": "Sports_clubs_and_teams_in_Istanbul", "id": 66836562, "predecessors": [{"name": "Organizations_based_in_Istanbul", "id": 21383118}, {"name": "Sport_in_Istanbul", "id": 3089742}], "successors": [{"name": "Football_clubs_in_Istanbul", "id": 21981697}]}

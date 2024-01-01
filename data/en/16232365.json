@@ -1,1 +1,1 @@
-{"name": "Landmine_victims", "id": 16232365, "predecessors": [{"name": "Land_mines", "id": 13494611}], "successors": []}
+{"name": "Landmine_victims", "id": 16232365, "predecessors": [{"name": "Land_mines", "id": 13494611}, {"name": "War_casualties", "id": 2430429}], "successors": []}

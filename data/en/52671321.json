@@ -1,1 +1,1 @@
-{"name": "Australian_male_speed_skaters", "id": 52671321, "predecessors": [{"name": "Recreation", "id": 723096}, {"name": "Speed_skating", "id": 700819}, {"name": "Men", "id": 1585667}], "successors": [{"name": "Australian_male_short_track_speed_skaters", "id": 62356012}]}
+{"name": "Australian_male_speed_skaters", "id": 52671321, "predecessors": [{"name": "Recreation", "id": 723096}, {"name": "Men", "id": 1585667}, {"name": "Sport_in_Australia", "id": 3020778}], "successors": [{"name": "Australian_male_short_track_speed_skaters", "id": 62356012}]}

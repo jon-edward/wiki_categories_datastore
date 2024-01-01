@@ -1,1 +1,1 @@
-{"name": "Solanaceae_genera", "id": 43885579, "predecessors": [{"name": "Asterid_genera", "id": 43884123}], "successors": [{"name": "Monotypic_Solanaceae_genera", "id": 43885574}]}
+{"name": "Solanaceae_genera", "id": 43885579, "predecessors": [{"name": "Solanaceae", "id": 1411183}, {"name": "Asterid_genera", "id": 43884123}], "successors": [{"name": "Monotypic_Solanaceae_genera", "id": 43885574}]}

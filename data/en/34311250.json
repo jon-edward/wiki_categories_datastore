@@ -1,1 +1,1 @@
-{"name": "Free_multimedia_software", "id": 34311250, "predecessors": [{"name": "Free_application_software", "id": 6702554}, {"name": "Multimedia_software", "id": 9734361}], "successors": [{"name": "Free_graphics_software", "id": 4345597}]}
+{"name": "Free_multimedia_software", "id": 34311250, "predecessors": [{"name": "Multimedia_software", "id": 9734361}], "successors": [{"name": "Free_audio_software", "id": 1202353}, {"name": "Free_graphics_software", "id": 4345597}]}

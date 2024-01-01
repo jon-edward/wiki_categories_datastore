@@ -1,1 +1,1 @@
-{"name": "Netflix_original_television_series_episodes", "id": 63417709, "predecessors": [{"name": "Netflix", "id": 47667317}], "successors": [{"name": "BoJack_Horseman_episodes", "id": 61345866}]}
+{"name": "Netflix_original_television_series_episodes", "id": 63417709, "predecessors": [{"name": "Netflix_original_programming", "id": 34291874}], "successors": [{"name": "BoJack_Horseman_episodes", "id": 61345866}]}

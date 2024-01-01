@@ -1,1 +1,1 @@
-{"name": "Environmental_certification", "id": 34981064, "predecessors": [{"name": "Product_certification", "id": 3692977}], "successors": [{"name": "Environmental_certification_marks", "id": 34981166}, {"name": "Forest_certification", "id": 38582516}]}
+{"name": "Environmental_certification", "id": 34981064, "predecessors": [{"name": "Economy_and_the_environment", "id": 51432643}, {"name": "Product_certification", "id": 3692977}], "successors": [{"name": "Environmental_certification_marks", "id": 34981166}, {"name": "Forest_certification", "id": 38582516}]}

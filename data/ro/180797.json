@@ -1,1 +1,1 @@
-{"name": "Instrumente_astronomice", "id": 180797, "predecessors": [{"name": "Știință", "id": 761042}], "successors": [{"name": "Calendare", "id": 24782}, {"name": "Telescoape", "id": 180801}]}
+{"name": "Instrumente_astronomice", "id": 180797, "predecessors": [{"name": "Astronomie", "id": 19575}, {"name": "Știință", "id": 761042}], "successors": [{"name": "Calendare", "id": 24782}, {"name": "Telescoape", "id": 180801}]}

@@ -1,1 +1,1 @@
-{"name": "Lawyers_in_Alberta", "id": 23854043, "predecessors": [{"name": "Alberta_law", "id": 3022807}], "successors": [{"name": "Lawyers_from_Calgary", "id": 74610854}]}
+{"name": "Lawyers_in_Alberta", "id": 23854043, "predecessors": [{"name": "Alberta_law", "id": 3022807}, {"name": "Canadian_lawyers", "id": 1025568}], "successors": [{"name": "Lawyers_from_Calgary", "id": 74610854}]}

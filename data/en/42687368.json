@@ -1,1 +1,1 @@
-{"name": "Pear_tree_diseases", "id": 42687368, "predecessors": [{"name": "Fruit_tree_diseases", "id": 9500255}], "successors": []}
+{"name": "Pear_tree_diseases", "id": 42687368, "predecessors": [{"name": "Fruit_tree_diseases", "id": 9500255}, {"name": "Pears", "id": 1141114}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Eocene_horses", "id": 49471924, "predecessors": [{"name": "Eocene_mammals", "id": 3353318}, {"name": "Eocene_odd-toed_ungulates", "id": 38280187}, {"name": "Perissodactyla", "id": 922663}], "successors": []}
+{"name": "Eocene_horses", "id": 49471924, "predecessors": [{"name": "Eocene_Perissodactyla", "id": 38280187}, {"name": "Eocene_mammals", "id": 3353318}, {"name": "Perissodactyla", "id": 922663}], "successors": []}

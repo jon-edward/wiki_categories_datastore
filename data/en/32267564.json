@@ -1,1 +1,1 @@
-{"name": "Breslov_Hasidim", "id": 32267564, "predecessors": [{"name": "Breslov_Hasidism", "id": 2511205}], "successors": [{"name": "Breslov_rabbis", "id": 5955073}]}
+{"name": "Breslov_Hasidim", "id": 32267564, "predecessors": [{"name": "Breslov_Hasidism", "id": 2511205}, {"name": "Haredi_Judaism", "id": 48622897}], "successors": [{"name": "Breslov_rabbis", "id": 5955073}]}

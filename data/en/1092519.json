@@ -1,1 +1,1 @@
-{"name": "Pop_music", "id": 1092519, "predecessors": [{"name": "Contemporary_music", "id": 22152132}, {"name": "Popular_music", "id": 692803}], "successors": []}
+{"name": "Pop_music", "id": 1092519, "predecessors": [{"name": "Contemporary_music", "id": 22152132}, {"name": "Popular_music", "id": 692803}], "successors": [{"name": "Books_about_pop_music", "id": 28009884}, {"name": "The_Beatles_in_film", "id": 37551149}, {"name": "Disco_films", "id": 63003594}, {"name": "Documentary_films_about_pop_music_and_musicians", "id": 65054619}]}

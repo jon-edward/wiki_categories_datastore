@@ -1,1 +1,1 @@
-{"name": "Opiskelu", "id": 232394, "predecessors": [{"name": "Koulutus", "id": 24930}], "successors": [{"name": "Kynät", "id": 1729850}]}
+{"name": "Opiskelu", "id": 232394, "predecessors": [{"name": "Koulutus", "id": 24930}], "successors": [{"name": "Suomalaiset_opiskelijalehdet", "id": 753959}, {"name": "Kynät", "id": 1729850}]}

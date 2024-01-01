@@ -1,1 +1,1 @@
-{"name": "Aerosol_propellants", "id": 1095812, "predecessors": [{"name": "Industrial_gases", "id": 27086455}, {"name": "Propellants", "id": 1095504}, {"name": "Containers", "id": 1047091}], "successors": []}
+{"name": "Aerosol_propellants", "id": 1095812, "predecessors": [{"name": "Industrial_gases", "id": 27086455}, {"name": "Propellants", "id": 1095504}, {"name": "Aerosols", "id": 22228255}], "successors": []}

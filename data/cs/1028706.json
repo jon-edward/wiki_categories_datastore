@@ -1,1 +1,1 @@
-{"name": "Papežská_pohřebiště", "id": 1028706, "predecessors": [{"name": "Funerální_stavby", "id": 1297943}, {"name": "Diecéze_Řím", "id": 1231277}], "successors": [{"name": "Bazilika_svatého_Petra", "id": 1205597}, {"name": "Pohřbení_v_bazilice_sv._Petra", "id": 632495}]}
+{"name": "Papežská_pohřebiště", "id": 1028706, "predecessors": [{"name": "Funerální_stavby", "id": 1297943}, {"name": "Papežové", "id": 9554}], "successors": [{"name": "Bazilika_svatého_Petra", "id": 1205597}, {"name": "Pohřbení_v_bazilice_sv._Petra", "id": 632495}]}

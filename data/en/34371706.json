@@ -1,1 +1,1 @@
-{"name": "FIFA_World_Cup_finals", "id": 34371706, "predecessors": [{"name": "FIFA_World_Cup_matches", "id": 5265997}, {"name": "Meetings", "id": 1261738}, {"name": "Cultural_globalization", "id": 35936848}], "successors": [{"name": "FIFA_World_Cup_finals_match_officials", "id": 7514487}]}
+{"name": "FIFA_World_Cup_finals", "id": 34371706, "predecessors": [{"name": "FIFA_World_Cup_matches", "id": 5265997}, {"name": "Football", "id": 1080800}, {"name": "Cultural_globalization", "id": 35936848}], "successors": [{"name": "FIFA_World_Cup_finals_match_officials", "id": 7514487}]}

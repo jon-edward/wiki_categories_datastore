@@ -1,1 +1,1 @@
-{"name": "Property_management", "id": 2937661, "predecessors": [{"name": "Asset_management", "id": 53226524}, {"name": "Real_estate", "id": 984323}], "successors": [{"name": "Property_management_companies", "id": 32155437}]}
+{"name": "Property_management", "id": 2937661, "predecessors": [{"name": "Real_estate", "id": 984323}], "successors": [{"name": "Property_management_companies", "id": 32155437}]}

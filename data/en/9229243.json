@@ -1,1 +1,1 @@
-{"name": "Book_artists", "id": 9229243, "predecessors": [{"name": "Contemporary_artists", "id": 871132}], "successors": [{"name": "Women_book_artists", "id": 41216425}, {"name": "Pop-up_book_artists", "id": 51433446}]}
+{"name": "Book_artists", "id": 9229243, "predecessors": [{"name": "Book_arts", "id": 9228357}, {"name": "Contemporary_artists", "id": 871132}], "successors": [{"name": "Women_book_artists", "id": 41216425}, {"name": "Pop-up_book_artists", "id": 51433446}]}

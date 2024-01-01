@@ -1,1 +1,1 @@
-{"name": "Vascular_procedures", "id": 32520439, "predecessors": [{"name": "Angiology", "id": 1482803}, {"name": "Cardiovascular_system", "id": 715237}], "successors": [{"name": "Vascular_surgery", "id": 846989}]}
+{"name": "Vascular_procedures", "id": 32520439, "predecessors": [{"name": "Angiology", "id": 1482803}, {"name": "Medical_procedures", "id": 22735454}, {"name": "Cardiovascular_system", "id": 715237}], "successors": [{"name": "Vascular_surgery", "id": 846989}]}

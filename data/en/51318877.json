@@ -1,1 +1,1 @@
-{"name": "Mexican_female_long-distance_runners", "id": 51318877, "predecessors": [{"name": "Running", "id": 847059}, {"name": "Long-distance_running", "id": 32886224}, {"name": "Americas", "id": 1526345}], "successors": [{"name": "Mexican_female_marathon_runners", "id": 51318871}]}
+{"name": "Mexican_female_long-distance_runners", "id": 51318877, "predecessors": [{"name": "Sport_in_Mexico", "id": 3050168}, {"name": "Americas", "id": 1526345}], "successors": [{"name": "Mexican_female_marathon_runners", "id": 51318871}]}

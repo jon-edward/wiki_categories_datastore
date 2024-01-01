@@ -1,1 +1,1 @@
-{"name": "Satellite_launch_failures", "id": 7417641, "predecessors": [{"name": "Satellites", "id": 787571}, {"name": "Technological_failures", "id": 20806807}, {"name": "Engineering_failures", "id": 941939}], "successors": [{"name": "Partial_satellite_launch_failures", "id": 24313242}]}
+{"name": "Satellite_launch_failures", "id": 7417641, "predecessors": [{"name": "Satellites", "id": 787571}, {"name": "Technological_failures", "id": 20806807}, {"name": "Engineering_failures", "id": 941939}], "successors": []}

@@ -1,1 +1,0 @@
-{"name": "Internet-Anwendungsprotokoll", "id": 6743637, "predecessors": [{"name": "Netzwerkprotokoll_auf_Anwendungsschicht", "id": 587098}, {"name": "Netzwerkprotokoll", "id": 240539}], "successors": [{"name": "Internet-E-Mail-Protokoll", "id": 6744097}, {"name": "Internet-Dateiübertragungsprotokoll", "id": 6744214}, {"name": "Instant-Messaging-Protokoll", "id": 8922099}]}

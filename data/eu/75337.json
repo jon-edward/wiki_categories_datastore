@@ -1,1 +1,1 @@
-{"name": "Aerodinamika", "id": 75337, "predecessors": [{"name": "Fluidoen_dinamika", "id": 75338}, {"name": "Ingeniaritza_aeroespaziala", "id": 586484}], "successors": [{"name": "Energia_eolikoa", "id": 101598}]}
+{"name": "Aerodinamika", "id": 75337, "predecessors": [{"name": "Fluidoen_dinamika", "id": 75338}, {"name": "Ingeniaritza_aeroespaziala", "id": 586484}], "successors": [{"name": "Energia_eolikoa", "id": 101598}, {"name": "Espazio-hegaldia", "id": 654259}]}

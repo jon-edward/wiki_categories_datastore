@@ -1,1 +1,0 @@
-{"name": "Pèlerinage", "id": 405941, "predecessors": [{"name": "Voyage", "id": 1393962}, {"name": "Lieu_sacré", "id": 3418664}], "successors": [{"name": "Ville_de_pèlerinage", "id": 130748}, {"name": "Pèlerinage_bouddhiste", "id": 3338288}, {"name": "Récit_de_pèlerinage", "id": 7822344}, {"name": "Pèlerinage_chrétien", "id": 14278415}]}

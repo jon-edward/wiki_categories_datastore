@@ -1,1 +1,1 @@
-{"name": "Tennis_people_from_Queensland", "id": 27980854, "predecessors": [{"name": "Athletic_sports", "id": 31210709}], "successors": [{"name": "Tennis_players_from_Brisbane", "id": 66979009}, {"name": "Tennis_people_from_the_Gold_Coast", "id": 69670503}]}
+{"name": "Tennis_players_from_Queensland", "id": 27980854, "predecessors": [{"name": "Tennis_in_Queensland", "id": 43886228}, {"name": "Tennis_in_Australia", "id": 2329922}], "successors": [{"name": "Tennis_players_from_Brisbane", "id": 66979009}, {"name": "Tennis_people_from_the_Gold_Coast", "id": 69670503}]}

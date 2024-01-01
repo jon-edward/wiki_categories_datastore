@@ -1,1 +1,1 @@
-{"name": "Films_based_on_mystery_novels", "id": 19442896, "predecessors": [{"name": "Films_based_on_novels", "id": 19084923}], "successors": [{"name": "Sherlock_Holmes_films_based_on_works_by_Arthur_Conan_Doyle", "id": 33663983}]}
+{"name": "Films_based_on_mystery_novels", "id": 19442896, "predecessors": [{"name": "Mystery_novels", "id": 946839}, {"name": "Mystery_fiction", "id": 5740835}, {"name": "Films_based_on_novels", "id": 19084923}], "successors": [{"name": "Sherlock_Holmes_films_based_on_works_by_Arthur_Conan_Doyle", "id": 33663983}]}

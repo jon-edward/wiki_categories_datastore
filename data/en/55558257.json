@@ -1,1 +1,1 @@
-{"name": "Canadian_hospital_administrators", "id": 55558257, "predecessors": [{"name": "Hospital_administrators", "id": 11014157}], "successors": []}
+{"name": "Canadian_hospital_administrators", "id": 55558257, "predecessors": [{"name": "Hospital_administrators", "id": 11014157}, {"name": "Medical_and_health_organizations_based_in_Canada", "id": 32686581}, {"name": "Health_care_management", "id": 24320730}], "successors": []}

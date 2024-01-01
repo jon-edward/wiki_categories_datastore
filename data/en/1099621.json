@@ -1,1 +1,1 @@
-{"name": "Exercise_equipment", "id": 1099621, "predecessors": [{"name": "Physical_exercise", "id": 34955640}, {"name": "Sports_equipment", "id": 8619631}], "successors": [{"name": "Weight_training_equipment", "id": 4503668}]}
+{"name": "Exercise_equipment", "id": 1099621, "predecessors": [{"name": "Physical_exercise", "id": 34955640}, {"name": "Sports_equipment", "id": 8619631}], "successors": [{"name": "Weight_training_equipment", "id": 4503668}, {"name": "Exercise_equipment_companies", "id": 38474910}]}

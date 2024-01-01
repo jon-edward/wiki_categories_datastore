@@ -1,1 +1,1 @@
-{"name": "Tiedelehdet", "id": 39848, "predecessors": [{"name": "Aikakauslehdet", "id": 26739}, {"name": "Viestintä", "id": 40231}], "successors": [{"name": "Fysiikkalehdet", "id": 393321}, {"name": "Suomalaiset_tiedelehdet", "id": 753968}]}
+{"name": "Tiedelehdet", "id": 39848, "predecessors": [{"name": "Media", "id": 19572}, {"name": "Viestintä", "id": 40231}], "successors": [{"name": "Fysiikkalehdet", "id": 393321}, {"name": "Suomalaiset_tiedelehdet", "id": 753968}]}

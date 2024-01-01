@@ -1,1 +1,1 @@
-{"name": "Holy_Cross_universities_and_colleges", "id": 4962889, "predecessors": [{"name": "Catholic_universities_and_colleges", "id": 2700325}], "successors": [{"name": "University_of_Notre_Dame", "id": 1460318}]}
+{"name": "Holy_Cross_universities_and_colleges", "id": 4962889, "predecessors": [{"name": "Congregation_of_Holy_Cross", "id": 5099603}, {"name": "Congregations_of_Holy_Cross", "id": 4823594}, {"name": "Catholic_universities_and_colleges", "id": 2700325}], "successors": [{"name": "University_of_Notre_Dame", "id": 1460318}]}

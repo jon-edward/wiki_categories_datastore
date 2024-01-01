@@ -1,1 +1,1 @@
-{"name": "Intravenous_fluids", "id": 3770419, "predecessors": [{"name": "Dosage_forms", "id": 16073324}, {"name": "Medical_devices", "id": 41242589}, {"name": "Medical_equipment", "id": 799934}], "successors": []}
+{"name": "Intravenous_fluids", "id": 3770419, "predecessors": [{"name": "Dosage_forms", "id": 16073324}, {"name": "Medical_devices", "id": 41242589}, {"name": "Medical_equipment", "id": 799934}, {"name": "Medical_treatments", "id": 694975}], "successors": []}

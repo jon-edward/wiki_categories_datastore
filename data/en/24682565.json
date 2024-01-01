@@ -1,1 +1,1 @@
-{"name": "Irish_drinks", "id": 24682565, "predecessors": [{"name": "Manufacturing", "id": 867519}], "successors": [{"name": "Irish_alcoholic_drinks", "id": 24682519}, {"name": "Beer_in_Ireland", "id": 13723879}]}
+{"name": "Irish_drinks", "id": 24682565, "predecessors": [{"name": "Manufacturing", "id": 867519}], "successors": [{"name": "Beer_in_Ireland", "id": 13723879}, {"name": "Distilleries_in_the_Republic_of_Ireland", "id": 43648894}, {"name": "Irish_whiskey", "id": 40642469}]}

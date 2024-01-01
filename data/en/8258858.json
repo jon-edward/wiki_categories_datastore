@@ -1,1 +1,1 @@
-{"name": "Grenadier_regiments", "id": 8258858, "predecessors": [{"name": "Explosions", "id": 2650747}], "successors": [{"name": "Grenadier_Guards", "id": 31320580}]}
+{"name": "Grenadier_regiments", "id": 8258858, "predecessors": [{"name": "Explosive_weapons", "id": 1150760}], "successors": [{"name": "Grenadier_Guards", "id": 31320580}]}

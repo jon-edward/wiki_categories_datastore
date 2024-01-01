@@ -1,1 +1,1 @@
-{"name": "Raspberry_diseases", "id": 42917023, "predecessors": [{"name": "Raspberry", "id": 63125816}], "successors": []}
+{"name": "Raspberry_diseases", "id": 42917023, "predecessors": [{"name": "Raspberry", "id": 63125816}, {"name": "Small_fruit_diseases", "id": 9500916}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Web_programming", "id": 33365108, "predecessors": [{"name": "Domain-specific_programming_languages", "id": 910359}, {"name": "PHP_frameworks", "id": 34419929}, {"name": "Web_development", "id": 7829307}], "successors": []}
+{"name": "Web_programming", "id": 33365108, "predecessors": [{"name": "Domain-specific_programming_languages", "id": 910359}, {"name": "Web_development", "id": 7829307}], "successors": []}

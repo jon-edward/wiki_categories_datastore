@@ -1,1 +1,0 @@
-{"name": "Rayons_X", "id": 791556, "predecessors": [{"name": "Rayonnement_ionisant", "id": 574008}, {"name": "Spectre_électromagnétique", "id": 161117}], "successors": [{"name": "Radiologie", "id": 99411}, {"name": "Analyse_par_rayon_X", "id": 9700220}, {"name": "Télescope_spatial_à_rayons_X", "id": 251689}, {"name": "Source_X", "id": 6336275}]}
