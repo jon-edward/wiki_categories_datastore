@@ -1,1 +1,1 @@
-{"name": "GUNDAM兵器", "id": 202920, "predecessors": [{"name": "虛構兵器", "id": 675408}, {"name": "虛構機器人兵器", "id": 1715825}], "successors": [{"name": "C.E.兵器", "id": 800506}, {"name": "GUNDAM_00兵器", "id": 931204}]}
+{"name": "GUNDAM兵器", "id": 202920, "predecessors": [{"name": "GUNDAM", "id": 199531}, {"name": "虛構機器人兵器", "id": 1715825}], "successors": [{"name": "GUNDAM_00兵器", "id": 931204}]}

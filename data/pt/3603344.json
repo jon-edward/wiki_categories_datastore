@@ -1,0 +1,1 @@
+{"name": "Hipertensão_arterial", "id": 3603344, "predecessors": [{"name": "Cardiologia", "id": 117786}, {"name": "Doenças", "id": 15057}, {"name": "Endocrinologia", "id": 46203}, {"name": "Nefrologia", "id": 153610}, {"name": "Fisiopatologia", "id": 176743}], "successors": [{"name": "Mortes_por_hipertensão_arterial", "id": 5792421}]}

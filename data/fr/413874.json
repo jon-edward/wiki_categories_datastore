@@ -1,0 +1,1 @@
+{"name": "Soupe", "id": 413874, "predecessors": [{"name": "Préparation_culinaire", "id": 3257048}], "successors": [{"name": "Soupe_froide", "id": 4216054}, {"name": "Soupe_de_nouilles", "id": 13494555}, {"name": "Soupe_de_poisson", "id": 15481840}, {"name": "Soupe_française", "id": 7879006}, {"name": "Soupe_espagnole", "id": 10648679}]}

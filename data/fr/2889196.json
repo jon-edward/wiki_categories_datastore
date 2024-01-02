@@ -1,0 +1,1 @@
+{"name": "Voiture_de_chemin_de_fer", "id": 2889196, "predecessors": [{"name": "Matériel_roulant_ferroviaire", "id": 89483}, {"name": "Transport_en_commun", "id": 89315}], "successors": [{"name": "Voiture_passagers_de_la_SNCB", "id": 7749919}]}

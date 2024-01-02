@@ -1,0 +1,1 @@
+{"name": "Laser", "id": 1105209, "predecessors": [{"name": "Instrument_optique", "id": 139614}, {"name": "Opto-électronique", "id": 957737}, {"name": "Électronique_quantique", "id": 5499618}], "successors": [{"name": "Milieu_amplificateur_pour_laser", "id": 6320327}, {"name": "Utilisation_du_laser", "id": 15844757}]}

@@ -1,1 +1,1 @@
-{"name": "网上订餐", "id": 5863375, "predecessors": [{"name": "電子商務網站", "id": 992758}, {"name": "餐飲服務", "id": 1156943}, {"name": "貨運", "id": 58335}], "successors": []}
+{"name": "网上订餐", "id": 5863375, "predecessors": [{"name": "電子商務網站", "id": 992758}, {"name": "網站", "id": 52951}], "successors": []}

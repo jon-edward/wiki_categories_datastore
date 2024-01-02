@@ -1,1 +1,1 @@
-{"name": "鸡蛋", "id": 5607692, "predecessors": [{"name": "卵", "id": 1809446}, {"name": "鸡", "id": 581987}], "successors": [{"name": "鸡蛋制品", "id": 5607690}]}
+{"name": "鸡蛋", "id": 5607692, "predecessors": [{"name": "鸡", "id": 581987}], "successors": [{"name": "鸡蛋制品", "id": 5607690}]}

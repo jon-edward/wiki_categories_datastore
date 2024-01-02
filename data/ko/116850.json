@@ -1,0 +1,1 @@
+{"name": "CPU_소켓", "id": 116850, "predecessors": [{"name": "중앙_처리_장치", "id": 102728}], "successors": [{"name": "AMD_소켓", "id": 2472895}]}

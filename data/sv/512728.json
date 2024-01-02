@@ -1,0 +1,1 @@
+{"name": "Kemikaliesäkerhet", "id": 512728, "predecessors": [{"name": "Kemikalier", "id": 121942}, {"name": "Säkerhet", "id": 117350}, {"name": "Toxikologi", "id": 306373}], "successors": [{"name": "Utrustning_för_användning_i_explosiv_atmosfär", "id": 8246990}, {"name": "ATEX", "id": 8256870}]}

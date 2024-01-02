@@ -1,1 +1,1 @@
-{"name": ".NET", "id": 227331, "predecessors": [{"name": "Microsoft_Windows", "id": 973088}, {"name": "微軟API", "id": 519752}], "successors": [{"name": "ASP.NET", "id": 584928}, {"name": ".NET编程语言", "id": 1570924}]}
+{"name": ".NET", "id": 227331, "predecessors": [{"name": "Microsoft_Windows", "id": 973088}, {"name": "计算平台", "id": 6222973}], "successors": []}

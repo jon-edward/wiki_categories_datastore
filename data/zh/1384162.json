@@ -1,1 +1,1 @@
-{"name": "焊接", "id": 1384162, "predecessors": [{"name": "金屬加工", "id": 78002}, {"name": "電子製造", "id": 6162501}], "successors": [{"name": "電弧焊", "id": 1700348}]}
+{"name": "焊接", "id": 1384162, "predecessors": [{"name": "金屬加工", "id": 78002}], "successors": []}

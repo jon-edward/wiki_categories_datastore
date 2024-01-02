@@ -1,0 +1,1 @@
+{"name": "Plante_à_féculents", "id": 101133, "predecessors": [{"name": "Plante_alimentaire", "id": 97917}, {"name": "Plante_industrielle", "id": 101340}], "successors": [{"name": "Céréale", "id": 100330}, {"name": "Pomme_de_terre", "id": 359572}, {"name": "Soja", "id": 1757689}, {"name": "Haricot", "id": 2916380}, {"name": "Patate_douce", "id": 12800203}]}

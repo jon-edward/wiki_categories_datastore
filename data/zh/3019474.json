@@ -1,1 +1,1 @@
-{"name": "系统分析", "id": 3019474, "predecessors": [{"name": "系統理論", "id": 78484}, {"name": "系统工程", "id": 789917}], "successors": [{"name": "數學最佳化", "id": 1234093}]}
+{"name": "系统分析", "id": 3019474, "predecessors": [{"name": "分析", "id": 1196777}], "successors": [{"name": "數學最佳化", "id": 1234093}]}

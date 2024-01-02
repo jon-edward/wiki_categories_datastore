@@ -1,0 +1,1 @@
+{"name": "Interface_de_programação_de_aplicações", "id": 1121594, "predecessors": [{"name": "Bibliotecas_de_rotinas", "id": 524737}], "successors": [{"name": "Plataforma_.NET", "id": 2748650}, {"name": "Qt", "id": 2797476}, {"name": "POSIX", "id": 3719186}, {"name": "OpenGL", "id": 3909839}, {"name": "Plataforma_KDE", "id": 4140750}]}

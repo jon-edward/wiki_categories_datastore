@@ -1,0 +1,1 @@
+{"name": "Opioides", "id": 2211134, "predecessors": [{"name": "Alcaloides", "id": 2211138}, {"name": "Drogas_psicoativas", "id": 2450879}, {"name": "Analgésicos", "id": 493308}], "successors": [{"name": "Opiáceos", "id": 3873117}, {"name": "Agonistas_mu-opioides", "id": 6583144}, {"name": "Agonistas_sigma", "id": 2821292}]}

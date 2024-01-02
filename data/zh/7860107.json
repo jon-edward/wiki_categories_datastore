@@ -1,1 +1,1 @@
-{"name": "KADOKAWA文庫本", "id": 7860107, "predecessors": [{"name": "日本媒體", "id": 57329}, {"name": "日本書籍", "id": 819144}], "successors": [{"name": "MF文庫J", "id": 735531}]}
+{"name": "KADOKAWA文庫本", "id": 7860107, "predecessors": [{"name": "KADOKAWA", "id": 4815022}, {"name": "丛书", "id": 696569}], "successors": [{"name": "MF文庫J", "id": 735531}]}

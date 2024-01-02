@@ -1,0 +1,1 @@
+{"name": "Strömungsmaschine", "id": 1403477, "predecessors": [{"name": "Strömungsmaschinenbau", "id": 5106611}, {"name": "Energietechnik", "id": 239318}], "successors": [{"name": "Triebwerkstyp", "id": 519661}, {"name": "Turbine", "id": 3450790}, {"name": "Kreiselpumpe", "id": 5456246}]}

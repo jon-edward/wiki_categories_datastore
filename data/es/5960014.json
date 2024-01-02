@@ -1,0 +1,1 @@
+{"name": "Hambre", "id": 5960014, "predecessors": [{"name": "Justicia_social", "id": 6328545}, {"name": "Nutrición", "id": 51228}, {"name": "Pobreza", "id": 3055543}, {"name": "Problemas_sociales", "id": 5308901}], "successors": [{"name": "Hambrunas", "id": 167021}, {"name": "Fallecidos_por_inanición", "id": 5377607}]}

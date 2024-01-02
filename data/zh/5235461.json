@@ -1,1 +1,1 @@
-{"name": "JSON", "id": 5235461, "predecessors": [{"name": "AJAX", "id": 770719}, {"name": "JavaScript", "id": 4010536}, {"name": "标记语言", "id": 1594798}], "successors": []}
+{"name": "JSON", "id": 5235461, "predecessors": [{"name": "AJAX", "id": 770719}, {"name": "数据序列化格式", "id": 1420861}], "successors": []}

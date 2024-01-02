@@ -1,1 +1,1 @@
-{"name": "阪急電鐵路線模板", "id": 658349, "predecessors": [{"name": "日本鐵路路線模板", "id": 6207062}], "successors": [{"name": "阪急電鐵RDT", "id": 6231978}]}
+{"name": "阪急電鐵路線模板", "id": 658349, "predecessors": [{"name": "阪急電鐵", "id": 453854}], "successors": [{"name": "阪急電鐵RDT", "id": 6231978}]}

@@ -1,0 +1,1 @@
+{"name": "Diabetes", "id": 1510407, "predecessors": [{"name": "Enfermedades_endocrinas", "id": 509905}, {"name": "Enfermedades_metabólicas", "id": 62025}], "successors": [{"name": "Personas_diabéticas", "id": 3072423}, {"name": "Insulinas", "id": 2081371}, {"name": "Sulfonilureas", "id": 2969361}]}

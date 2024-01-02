@@ -1,1 +1,0 @@
-{"name": "X_Window系统", "id": 1156320, "predecessors": [{"name": "Open_Group標準", "id": 1451166}, {"name": "遠端桌面", "id": 1221495}, {"name": "自由系統軟體", "id": 1187918}, {"name": "Linux軟件", "id": 766194}, {"name": "Unix软件", "id": 451600}], "successors": [{"name": "X_視窗管理器", "id": 654854}, {"name": "Qt", "id": 1055910}, {"name": "GTK", "id": 1130245}]}

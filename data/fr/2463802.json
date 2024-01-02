@@ -1,0 +1,1 @@
+{"name": "Type_de_chaussures", "id": 2463802, "predecessors": [{"name": "Chaussure", "id": 415615}], "successors": [{"name": "Chaussure_de_sport", "id": 1768972}, {"name": "Chaussure_traditionnelle", "id": 1769167}, {"name": "Modèle_de_chaussure", "id": 10210037}, {"name": "Sabot", "id": 14093225}]}

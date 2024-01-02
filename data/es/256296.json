@@ -1,0 +1,1 @@
+{"name": "Colorantes", "id": 256296, "predecessors": [{"name": "Color", "id": 162887}, {"name": "Compuestos_químicos", "id": 112512}, {"name": "Materiales", "id": 74562}], "successors": [{"name": "Colorantes_alimentarios", "id": 2062072}, {"name": "Marcadores_fluorescentes", "id": 4467497}, {"name": "Colorantes_azoderivados", "id": 4547011}]}

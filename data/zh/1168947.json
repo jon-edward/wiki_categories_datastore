@@ -1,1 +1,1 @@
-{"name": "宿場", "id": 1168947, "predecessors": [{"name": "日本街道", "id": 1147258}, {"name": "江戶時代交通", "id": 4463873}, {"name": "日本旅遊", "id": 3160837}], "successors": []}
+{"name": "宿場", "id": 1168947, "predecessors": [{"name": "江戶時代交通", "id": 4463873}], "successors": [{"name": "東海道五十三次", "id": 6258787}]}

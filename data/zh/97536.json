@@ -1,1 +1,1 @@
-{"name": "日本動畫工作室", "id": 97536, "predecessors": [{"name": "日本動畫", "id": 69960}, {"name": "日本媒體公司", "id": 489872}], "successors": [{"name": "A-1_Pictures", "id": 1335500}, {"name": "SATELIGHT", "id": 1554827}, {"name": "OLM", "id": 4869365}, {"name": "CloverWorks", "id": 7368781}]}
+{"name": "日本動畫工作室", "id": 97536, "predecessors": [{"name": "日本動畫", "id": 69960}, {"name": "動畫", "id": 64212}], "successors": [{"name": "日昇", "id": 531613}, {"name": "SATELIGHT", "id": 1554827}, {"name": "OLM", "id": 4869365}]}

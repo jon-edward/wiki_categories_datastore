@@ -1,0 +1,1 @@
+{"name": "Cine_de_terror", "id": 5056400, "predecessors": [{"name": "Ficción_de_terror", "id": 5056437}, {"name": "Géneros_cinematográficos", "id": 123052}], "successors": [{"name": "Películas_de_terror", "id": 136219}, {"name": "Películas_gore", "id": 3051237}, {"name": "Directores_de_cine_de_terror", "id": 6131126}]}

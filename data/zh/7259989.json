@@ -1,1 +1,1 @@
-{"name": "网络恶搞", "id": 7259989, "predecessors": [{"name": "恶搞文化", "id": 120499}, {"name": "欺凌", "id": 567754}, {"name": "科技伦理学", "id": 1677200}], "successors": [{"name": "互联网泄漏", "id": 8037535}]}
+{"name": "网络恶搞", "id": 7259989, "predecessors": [{"name": "网络文化", "id": 43925}], "successors": [{"name": "互联网泄漏", "id": 8037535}]}

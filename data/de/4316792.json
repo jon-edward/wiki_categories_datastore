@@ -1,0 +1,1 @@
+{"name": "POSIX-konformes_Betriebssystem", "id": 4316792, "predecessors": [{"name": "Betriebssystem", "id": 232598}, {"name": "POSIX", "id": 4010788}], "successors": [{"name": "Unix-Betriebssystem", "id": 4314214}]}

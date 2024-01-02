@@ -1,0 +1,1 @@
+{"name": "Ejecutados_por_asesinato", "id": 5004933, "predecessors": [{"name": "Asesinos", "id": 113536}, {"name": "Criminales", "id": 81234}], "successors": [{"name": "Asesinos_en_serie_ejecutados", "id": 5769806}, {"name": "Asesinos_en_masa_ejecutados", "id": 10230895}]}

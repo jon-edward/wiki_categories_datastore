@@ -1,1 +1,1 @@
-{"name": "大氣輻射", "id": 5668442, "predecessors": [{"name": "光学散射，吸收和辐射转移", "id": 8519002}, {"name": "太阳", "id": 41889}, {"name": "气象现象", "id": 8230660}], "successors": []}
+{"name": "大氣輻射", "id": 5668442, "predecessors": [{"name": "太阳", "id": 41889}], "successors": []}

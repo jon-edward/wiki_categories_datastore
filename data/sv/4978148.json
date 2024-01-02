@@ -1,0 +1,1 @@
+{"name": "Rotation", "id": 4978148, "predecessors": [{"name": "Klassisk_mekanik", "id": 4978154}, {"name": "Rörelse", "id": 1486711}, {"name": "Transformation", "id": 4978153}], "successors": [{"name": "Vinkel", "id": 3976398}, {"name": "Rotationssymmetri", "id": 4978144}]}

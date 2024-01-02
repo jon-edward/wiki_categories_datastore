@@ -1,1 +1,1 @@
-{"name": "信用卡", "id": 170519, "predecessors": [{"name": "信用", "id": 603071}, {"name": "支付卡", "id": 6052052}, {"name": "個人理財", "id": 1569860}], "successors": [{"name": "信用卡发卡组织", "id": 6052049}]}
+{"name": "信用卡", "id": 170519, "predecessors": [{"name": "创造力", "id": 1931253}], "successors": [{"name": "信用卡发卡组织", "id": 6052049}]}

@@ -1,0 +1,1 @@
+{"name": "연료_가스", "id": 687442, "predecessors": [{"name": "기체", "id": 33409}, {"name": "연료", "id": 31800}], "successors": [{"name": "천연_가스", "id": 559048}]}

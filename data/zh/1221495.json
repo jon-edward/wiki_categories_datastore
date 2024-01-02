@@ -1,1 +1,0 @@
-{"name": "遠端桌面", "id": 1221495, "predecessors": [{"name": "远程管理软件", "id": 4031330}, {"name": "基础设施", "id": 1405664}], "successors": [{"name": "X_Window系统", "id": 1156320}]}

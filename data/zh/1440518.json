@@ -1,1 +1,1 @@
-{"name": "压力容器", "id": 1440518, "predecessors": [{"name": "容器", "id": 526569}, {"name": "气体技术", "id": 1601156}, {"name": "水力学", "id": 1295309}, {"name": "结构工程", "id": 511437}], "successors": [{"name": "锅炉", "id": 916762}]}
+{"name": "压力容器", "id": 1440518, "predecessors": [{"name": "容器", "id": 526569}], "successors": []}

@@ -1,0 +1,1 @@
+{"name": "Jogos_de_estratégia_abstratos", "id": 3522778, "predecessors": [{"name": "Estratégia", "id": 503399}, {"name": "Jogos_de_tabuleiro", "id": 54844}], "successors": [{"name": "Xadrez", "id": 15255}, {"name": "Go", "id": 1744494}, {"name": "Damas", "id": 2726887}]}

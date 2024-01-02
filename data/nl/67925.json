@@ -1,0 +1,1 @@
+{"name": "Groente", "id": 67925, "predecessors": [{"name": "Akkerbouw", "id": 67120}, {"name": "Cultuurgewas", "id": 3761199}, {"name": "Tuinbouw", "id": 67122}, {"name": "Plant", "id": 65915}], "successors": [{"name": "Vrucht-als-groente", "id": 278811}, {"name": "Bladgroente", "id": 1700180}, {"name": "Wortelgroente", "id": 1700192}, {"name": "Knolgroente", "id": 1700207}]}

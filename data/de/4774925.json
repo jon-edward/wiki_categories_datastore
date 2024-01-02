@@ -1,0 +1,1 @@
+{"name": "Wertpapiere", "id": 4774925, "predecessors": [{"name": "Finanzmarkt", "id": 1724331}], "successors": [{"name": "Wertpapierrecht", "id": 235946}, {"name": "Wertpapier", "id": 1460518}, {"name": "Wertpapieremission", "id": 1675418}, {"name": "Wertpapierverwahrung", "id": 1724432}, {"name": "Wertpapierbörse", "id": 2172439}, {"name": "Wertpapierkennung", "id": 3371031}]}

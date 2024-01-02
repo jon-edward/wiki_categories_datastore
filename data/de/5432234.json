@@ -1,0 +1,1 @@
+{"name": "Passagierluftfahrt", "id": 5432234, "predecessors": [{"name": "Luftverkehr", "id": 242461}, {"name": "Personenverkehr", "id": 7804459}], "successors": [{"name": "Flugreisen", "id": 2330858}, {"name": "Verkehrsflugzeug", "id": 8586162}]}

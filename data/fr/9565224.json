@@ -1,0 +1,1 @@
+{"name": "Type_de_carte", "id": 9565224, "predecessors": [{"name": "Cartographie", "id": 142368}], "successors": [{"name": "Cadastre", "id": 7715895}, {"name": "Atlas", "id": 9564679}, {"name": "Planisphère", "id": 9564697}, {"name": "Globe_terrestre", "id": 9565280}]}

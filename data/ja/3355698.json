@@ -1,0 +1,1 @@
+{"name": "IEEE_802", "id": 3355698, "predecessors": [{"name": "IEEE標準", "id": 3355695}, {"name": "イーサネット", "id": 3896638}, {"name": "物理層プロトコル", "id": 3625959}], "successors": [{"name": "IEEE_802.11", "id": 2220585}]}

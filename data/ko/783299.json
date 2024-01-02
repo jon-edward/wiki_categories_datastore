@@ -1,0 +1,1 @@
+{"name": "택시", "id": 783299, "predecessors": [{"name": "대중_교통", "id": 40988}], "successors": [{"name": "택시_운전사", "id": 1886138}]}

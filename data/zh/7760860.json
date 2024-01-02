@@ -1,1 +1,1 @@
-{"name": "语音合成软件", "id": 7760860, "predecessors": [{"name": "語音合成", "id": 4704955}], "successors": [{"name": "VOCALOID", "id": 698183}, {"name": "Voiceroid角色", "id": 6232156}, {"name": "Synthesizer_V角色", "id": 7333484}, {"name": "CeVIO角色", "id": 7431974}]}
+{"name": "语音合成软件", "id": 7760860, "predecessors": [{"name": "語音合成", "id": 4704955}, {"name": "多媒體軟體", "id": 1155471}], "successors": [{"name": "VOCALOID", "id": 698183}]}

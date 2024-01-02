@@ -1,1 +1,1 @@
-{"name": "Windows_CE", "id": 557622, "predecessors": [{"name": "实时操作系统", "id": 495859}, {"name": "嵌入式操作系统", "id": 519419}, {"name": "微軟操作系統", "id": 691176}], "successors": []}
+{"name": "Windows_CE", "id": 557622, "predecessors": [{"name": "微軟操作系統", "id": 691176}], "successors": []}

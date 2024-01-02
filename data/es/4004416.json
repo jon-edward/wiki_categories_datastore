@@ -1,0 +1,1 @@
+{"name": "Enfermos_por_viruela", "id": 4004416, "predecessors": [{"name": "Viruela", "id": 4163013}], "successors": [{"name": "Fallecidos_por_viruela", "id": 5032967}, {"name": "Sobrevivientes_de_viruela", "id": 5373507}]}

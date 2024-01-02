@@ -1,0 +1,1 @@
+{"name": "Platos_rellenos", "id": 10016196, "predecessors": [{"name": "Cocina_de_aprovechamiento", "id": 9913365}, {"name": "Platos", "id": 7345182}, {"name": "Técnicas_culinarias", "id": 147644}], "successors": [{"name": "Dumplings", "id": 1911038}, {"name": "Verdura_rellena", "id": 2567094}, {"name": "Tacos", "id": 4382281}, {"name": "Postres_rellenos", "id": 10016198}]}

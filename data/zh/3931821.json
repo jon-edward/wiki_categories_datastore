@@ -1,1 +1,1 @@
-{"name": "Hadoop", "id": 3931821, "predecessors": [{"name": "Apache软件基金会项目", "id": 4043187}, {"name": "叢集計算", "id": 3023240}, {"name": "用Java編程的自由軟體", "id": 1381652}, {"name": "雲端運算", "id": 1208451}], "successors": []}
+{"name": "Hadoop", "id": 3931821, "predecessors": [{"name": "Apache软件基金会项目", "id": 4043187}], "successors": []}

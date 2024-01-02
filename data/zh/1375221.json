@@ -1,1 +1,1 @@
-{"name": "虚构鸭", "id": 1375221, "predecessors": [{"name": "虚构水栖生物", "id": 1574089}, {"name": "虛構鳥類", "id": 1251116}], "successors": [{"name": "唐老鴨電影", "id": 3893686}]}
+{"name": "虚构鸭", "id": 1375221, "predecessors": [{"name": "虛構鳥類", "id": 1251116}, {"name": "鸭科", "id": 59337}], "successors": []}

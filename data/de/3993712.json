@@ -1,0 +1,1 @@
+{"name": "Brenngastechnik", "id": 3993712, "predecessors": [{"name": "Brennstofftechnik", "id": 3566403}, {"name": "Gastechnik", "id": 930194}], "successors": [{"name": "Wasserstofftechnik", "id": 2139727}, {"name": "Brenngas", "id": 3188464}, {"name": "Erdgaswirtschaft", "id": 4030522}, {"name": "Biogastechnik", "id": 4459975}, {"name": "Kohlevergasung", "id": 5147677}]}

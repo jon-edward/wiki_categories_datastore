@@ -1,1 +1,1 @@
-{"name": "医疗事故", "id": 752399, "predecessors": [{"name": "灾难", "id": 51813}, {"name": "产业", "id": 58086}, {"name": "健康照護品質", "id": 6249281}], "successors": []}
+{"name": "医疗事故", "id": 752399, "predecessors": [{"name": "機密", "id": 3161439}, {"name": "診斷", "id": 3738137}], "successors": []}

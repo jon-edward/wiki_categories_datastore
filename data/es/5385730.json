@@ -1,0 +1,1 @@
+{"name": "Piedras", "id": 5385730, "predecessors": [{"name": "Cantería", "id": 470218}, {"name": "Materiales_de_origen_natural", "id": 1188782}, {"name": "Materia", "id": 1851267}], "successors": [{"name": "Monolitos", "id": 5880235}, {"name": "Piedra_de_edificación", "id": 6258652}, {"name": "Monumentos_megalíticos", "id": 7250407}, {"name": "Objetos_de_piedra", "id": 8221355}]}

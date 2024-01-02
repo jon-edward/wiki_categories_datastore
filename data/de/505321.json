@@ -1,0 +1,1 @@
+{"name": "Geothermie", "id": 505321, "predecessors": [{"name": "Erneuerbare_Energien", "id": 8296949}, {"name": "Geologie", "id": 236007}, {"name": "Wärmetechnik", "id": 1642003}], "successors": [{"name": "Geothermisches_Heiz-_oder_Kraftwerk", "id": 4598007}, {"name": "Thermalquelle", "id": 5552881}]}

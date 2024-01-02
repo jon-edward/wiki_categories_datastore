@@ -1,1 +1,1 @@
-{"name": "虛構弓箭手", "id": 1816586, "predecessors": [{"name": "弓弩", "id": 725996}, {"name": "武器", "id": 39124}], "successors": []}
+{"name": "虛構弓箭手", "id": 1816586, "predecessors": [{"name": "射箭", "id": 179740}, {"name": "弓弩", "id": 725996}], "successors": []}

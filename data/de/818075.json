@@ -1,0 +1,1 @@
+{"name": "Hydrolase", "id": 818075, "predecessors": [{"name": "Enzym", "id": 242268}], "successors": [{"name": "Peptidase", "id": 3220940}, {"name": "Glykosidase", "id": 3924456}, {"name": "G-Protein", "id": 3948385}, {"name": "Membran-ATPase", "id": 4153354}, {"name": "Esterase", "id": 5345026}]}

@@ -1,0 +1,1 @@
+{"name": "Sabotageprogram", "id": 357596, "predecessors": [{"name": "Datasäkerhet", "id": 62585}, {"name": "Datorprogram", "id": 58984}, {"name": "Nätbrottslighet", "id": 1502815}, {"name": "Säkerhetsbrott", "id": 3996180}], "successors": [{"name": "Datorvirus", "id": 357591}, {"name": "Bluff-antivirus", "id": 620875}]}

@@ -1,1 +1,1 @@
-{"name": "建筑机械", "id": 917646, "predecessors": [{"name": "土木工程", "id": 80121}, {"name": "建筑", "id": 47070}], "successors": [{"name": "工程車輛", "id": 569257}]}
+{"name": "建筑机械", "id": 917646, "predecessors": [{"name": "建筑", "id": 47070}], "successors": [{"name": "工程車輛", "id": 569257}]}

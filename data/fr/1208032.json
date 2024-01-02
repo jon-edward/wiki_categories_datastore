@@ -1,0 +1,1 @@
+{"name": "Matériel_audio", "id": 1208032, "predecessors": [{"name": "Matériel_audio-vidéo", "id": 468120}, {"name": "Technologie_du_son", "id": 3953545}], "successors": [{"name": "Enregistrement_sonore", "id": 157704}, {"name": "Baladeur_numérique", "id": 920098}, {"name": "Fabricant_de_matériel_audio", "id": 1819243}, {"name": "Microphone", "id": 15098001}]}

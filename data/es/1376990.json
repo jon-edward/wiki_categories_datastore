@@ -1,0 +1,1 @@
+{"name": "Arroz", "id": 1376990, "predecessors": [{"name": "Cereales", "id": 51208}, {"name": "Ingredientes_culinarios", "id": 3146307}], "successors": [{"name": "Bebidas_de_arroz", "id": 2048024}, {"name": "Platos_de_arroz", "id": 3146562}, {"name": "Variedades_de_arroz", "id": 5446868}, {"name": "Escudos_con_arroz", "id": 9067802}]}

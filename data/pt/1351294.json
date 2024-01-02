@@ -1,0 +1,1 @@
+{"name": "Veículos_aéreos_não_tripulados", "id": 1351294, "predecessors": [{"name": "Aeronaves_por_tipo", "id": 1935897}, {"name": "Robôs", "id": 109692}, {"name": "Sistemas_embarcados", "id": 926694}, {"name": "Veículos_não_tripulados", "id": 3290620}], "successors": [{"name": "Drones_alvo", "id": 5820528}, {"name": "Drones_na_ficção", "id": 6792677}]}

@@ -1,0 +1,1 @@
+{"name": "Transportvliegtuig", "id": 542055, "predecessors": [{"name": "Vliegtuig", "id": 65847}], "successors": [{"name": "Transporthelikopter", "id": 633970}, {"name": "Militair_transportvliegtuig", "id": 683080}]}

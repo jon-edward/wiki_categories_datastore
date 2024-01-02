@@ -1,0 +1,1 @@
+{"name": "Kroppstemperaturförändringar", "id": 1545209, "predecessors": [{"name": "Medicinska_symtom", "id": 509189}, {"name": "Patologiska_kroppsliga_tillstånd", "id": 1473918}, {"name": "Termoreglering", "id": 1545210}], "successors": [{"name": "Värmerelaterade_sjukdomstillstånd", "id": 4441341}]}

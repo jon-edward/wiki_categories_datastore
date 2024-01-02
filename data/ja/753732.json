@@ -1,0 +1,1 @@
+{"name": "マイクロソフトのAPI", "id": 753732, "predecessors": [{"name": "Microsoft_Windows", "id": 105058}, {"name": "マイクロソフト", "id": 105056}, {"name": "API", "id": 2432466}], "successors": [{"name": ".NET_Framework", "id": 661433}, {"name": "DirectX", "id": 1827025}]}

@@ -1,0 +1,1 @@
+{"name": "Dames", "id": 2493240, "predecessors": [{"name": "Jeu_de_société", "id": 96467}, {"name": "Jeu_de_stratégie_combinatoire_abstrait", "id": 577499}, {"name": "Sport_de_l'esprit", "id": 5440766}], "successors": [{"name": "Variante_du_jeu_de_dames", "id": 11650228}, {"name": "Coup_aux_dames", "id": 14320409}, {"name": "Joueur_de_dames_français", "id": 6399992}]}

@@ -1,0 +1,1 @@
+{"name": "Équation_en_physique", "id": 6765277, "predecessors": [{"name": "Physique_mathématique", "id": 970837}, {"name": "Physique_théorique", "id": 109105}, {"name": "Équation", "id": 155108}], "successors": [{"name": "Équation_et_formule_en_thermodynamique", "id": 5426947}, {"name": "Équation_en_dynamique_des_fluides", "id": 6765275}]}

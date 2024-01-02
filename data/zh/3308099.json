@@ -1,1 +1,1 @@
-{"name": "台灣斷層", "id": 3308099, "predecessors": [{"name": "地震断层", "id": 643400}], "successors": []}
+{"name": "台灣斷層", "id": 3308099, "predecessors": [{"name": "台灣地質", "id": 1670540}, {"name": "台灣地理", "id": 48327}], "successors": []}

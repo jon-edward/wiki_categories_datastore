@@ -1,1 +1,1 @@
-{"name": "Android遊戲", "id": 1771515, "predecessors": [{"name": "Android软件", "id": 1350082}, {"name": "行動電話遊戲", "id": 346625}, {"name": "掌上遊戲機", "id": 796781}, {"name": "Google", "id": 87063}], "successors": [{"name": "Ouya遊戲", "id": 4058397}, {"name": "Android游戏封面", "id": 5156589}, {"name": "Oculus_Quest游戏", "id": 8132332}, {"name": "Netflix遊戲", "id": 8598135}]}
+{"name": "Android遊戲", "id": 1771515, "predecessors": [{"name": "Android软件", "id": 1350082}, {"name": "行動電話遊戲", "id": 346625}, {"name": "Google", "id": 87063}], "successors": [{"name": "Netflix遊戲", "id": 8598135}]}

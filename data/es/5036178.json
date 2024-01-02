@@ -1,0 +1,1 @@
+{"name": "Desnutrición", "id": 5036178, "predecessors": [{"name": "Causas_de_muerte", "id": 2161243}, {"name": "Nutrición", "id": 51228}, {"name": "Pobreza", "id": 3055543}, {"name": "Enfermedades", "id": 50842}], "successors": [{"name": "Política_alimentaria", "id": 5036170}]}

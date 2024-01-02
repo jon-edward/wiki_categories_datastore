@@ -1,1 +1,1 @@
-{"name": "閱讀", "id": 790212, "predecessors": [{"name": "知識來源", "id": 683061}], "successors": [{"name": "学习阅读", "id": 8120666}]}
+{"name": "閱讀", "id": 790212, "predecessors": [{"name": "書籍", "id": 59760}], "successors": [{"name": "書美術品", "id": 8269904}]}
