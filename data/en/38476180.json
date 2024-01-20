@@ -1,1 +1,1 @@
-{"name": "Television_shows_about_reincarnation", "id": 38476180, "predecessors": [{"name": "Fiction_about_reincarnation", "id": 38476151}], "successors": [{"name": "Television_episodes_about_reincarnation", "id": 62571361}]}
+{"name": "Television_shows_about_reincarnation", "id": 38476180, "predecessors": [{"name": "Fiction_about_reincarnation", "id": 38476151}, {"name": "Television_genres", "id": 1259802}], "successors": [{"name": "Television_episodes_about_reincarnation", "id": 62571361}]}

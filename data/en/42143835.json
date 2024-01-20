@@ -1,1 +1,1 @@
-{"name": "Men's_interest_channels", "id": 42143835, "predecessors": [{"name": "Men's_mass_media", "id": 37204431}, {"name": "Networks", "id": 744360}], "successors": [{"name": "Spike_(TV_network)", "id": 42179797}]}
+{"name": "Men's_interest_channels", "id": 42143835, "predecessors": [{"name": "Men's_mass_media", "id": 37204431}, {"name": "Mass_media", "id": 696790}], "successors": [{"name": "Spike_(TV_network)", "id": 42179797}]}

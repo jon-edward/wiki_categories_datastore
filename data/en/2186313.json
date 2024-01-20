@@ -1,1 +1,0 @@
-{"name": "Link_protocols", "id": 2186313, "predecessors": [{"name": "Internet_protocols", "id": 1034331}], "successors": [{"name": "Ethernet", "id": 893717}, {"name": "IEEE_802", "id": 2067440}, {"name": "Wi-Fi", "id": 2162549}, {"name": "IEEE_802.11", "id": 12556298}, {"name": "Logical_link_control", "id": 34959061}, {"name": "Media_access_control", "id": 34959072}]}

@@ -1,1 +1,0 @@
-{"name": "Vehicles_for_hire", "id": 17726382, "predecessors": [{"name": "Public_transport_by_mode", "id": 15720272}], "successors": [{"name": "Taxis", "id": 1018520}, {"name": "Rickshaws", "id": 48526823}, {"name": "Water_taxis", "id": 52220451}]}

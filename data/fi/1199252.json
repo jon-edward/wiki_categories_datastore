@@ -1,1 +1,1 @@
-{"name": "Tukholman_sillat", "id": 1199252, "predecessors": [{"name": "Ruotsin_sillat", "id": 282601}, {"name": "Tukholman_liikenne", "id": 198876}, {"name": "Tukholman_rakennukset_ja_rakennelmat", "id": 198866}], "successors": []}
+{"name": "Tukholman_sillat", "id": 1199252, "predecessors": [{"name": "Tukholman_liikenne", "id": 198876}, {"name": "Tukholman_rakennukset_ja_rakennelmat", "id": 198866}, {"name": "Ruotsin_rakennukset_ja_rakennelmat", "id": 198865}], "successors": []}

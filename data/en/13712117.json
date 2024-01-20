@@ -1,1 +1,1 @@
-{"name": "Product_lifecycle_management", "id": 13712117, "predecessors": [{"name": "Management_frameworks", "id": 74765841}, {"name": "Product_management", "id": 1228702}], "successors": [{"name": "Maintenance", "id": 6173101}, {"name": "Software_project_management", "id": 15487337}, {"name": "Product_expiration", "id": 54004990}]}
+{"name": "Product_lifecycle_management", "id": 13712117, "predecessors": [{"name": "Management_frameworks", "id": 74765841}, {"name": "Product_management", "id": 1228702}], "successors": [{"name": "Software_project_management", "id": 15487337}]}

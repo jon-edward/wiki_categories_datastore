@@ -1,1 +1,1 @@
-{"name": "Virus_orders", "id": 48654364, "predecessors": [{"name": "Biology", "id": 692675}, {"name": "Taxonomy_(biology)", "id": 40944932}], "successors": [{"name": "Caulimoviridae", "id": 39794836}, {"name": "Lentiviruses", "id": 26835974}, {"name": "Gammaretroviruses", "id": 32647824}]}
+{"name": "Virus_orders", "id": 48654364, "predecessors": [{"name": "Taxonomy_(biology)", "id": 40944932}], "successors": []}

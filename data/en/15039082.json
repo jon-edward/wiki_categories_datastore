@@ -1,1 +1,1 @@
-{"name": "Dentistry_education", "id": 15039082, "predecessors": [{"name": "Dentistry", "id": 1001629}, {"name": "Medical_education", "id": 1427229}, {"name": "Health_care", "id": 35880954}], "successors": [{"name": "Dental_schools", "id": 4166806}, {"name": "Dental_schools_in_England", "id": 56628622}]}
+{"name": "Dentistry_education", "id": 15039082, "predecessors": [{"name": "Dentistry", "id": 1001629}, {"name": "Medical_education", "id": 1427229}], "successors": [{"name": "Dental_schools", "id": 4166806}]}

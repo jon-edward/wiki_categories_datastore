@@ -1,1 +1,1 @@
-{"name": "Aluminium_smelters", "id": 12835714, "predecessors": [{"name": "Chemical_plants", "id": 36353235}, {"name": "Mining_companies", "id": 1327917}], "successors": []}
+{"name": "Aluminium_smelters", "id": 12835714, "predecessors": [{"name": "Smelting", "id": 38462896}, {"name": "Mining_companies", "id": 1327917}], "successors": []}

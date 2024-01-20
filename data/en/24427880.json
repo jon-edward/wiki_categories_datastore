@@ -1,1 +1,1 @@
-{"name": "Propaganda_radio_broadcasts", "id": 24427880, "predecessors": [{"name": "Sound_recording", "id": 2497458}], "successors": []}
+{"name": "Propaganda_radio_broadcasts", "id": 24427880, "predecessors": [{"name": "Radio_broadcasting", "id": 62287703}, {"name": "Propaganda", "id": 838111}], "successors": []}

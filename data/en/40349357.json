@@ -1,1 +1,1 @@
-{"name": "Mango_cultivars", "id": 40349357, "predecessors": [{"name": "Food_plant_cultivars", "id": 39613582}, {"name": "Mangoes", "id": 26796010}], "successors": [{"name": "Mango_cultivars_of_India", "id": 49776273}]}
+{"name": "Mango_cultivars", "id": 40349357, "predecessors": [{"name": "Food_plant_cultivars", "id": 39613582}, {"name": "Fruits_originating_in_Asia", "id": 14437824}], "successors": [{"name": "Mango_cultivars_of_India", "id": 49776273}]}

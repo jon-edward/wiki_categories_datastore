@@ -1,1 +1,0 @@
-{"name": "Fuel_production", "id": 12894669, "predecessors": [{"name": "Fuels", "id": 770810}, {"name": "Energy", "id": 865456}], "successors": [{"name": "Natural_gas", "id": 930957}, {"name": "Petroleum_production", "id": 1243675}, {"name": "Coal_mining", "id": 3045355}, {"name": "Hydrogen_production", "id": 6849324}, {"name": "Uranium_mining", "id": 9220462}]}

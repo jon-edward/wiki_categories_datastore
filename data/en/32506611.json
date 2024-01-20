@@ -1,1 +1,1 @@
-{"name": "Breast_imaging", "id": 32506611, "predecessors": [{"name": "Diagnostic_obstetrics_and_gynaecology", "id": 70739472}, {"name": "Breast", "id": 3884710}, {"name": "Diagnostic_medical_imaging", "id": 74641432}], "successors": []}
+{"name": "Breast_imaging", "id": 32506611, "predecessors": [{"name": "Diagnostic_obstetrics_and_gynaecology", "id": 70739472}], "successors": []}

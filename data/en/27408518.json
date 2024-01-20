@@ -1,1 +1,1 @@
-{"name": "Transocean", "id": 27408518, "predecessors": [{"name": "Drilling_rig_operators", "id": 13465433}, {"name": "Energy_engineering_and_contractor_companies", "id": 33654356}, {"name": "1970s_economic_history", "id": 24511068}], "successors": [{"name": "Deepwater_Horizon_oil_spill", "id": 27404657}]}
+{"name": "Transocean", "id": 27408518, "predecessors": [{"name": "Drilling_rig_operators", "id": 13465433}], "successors": [{"name": "Deepwater_Horizon_oil_spill", "id": 27404657}]}

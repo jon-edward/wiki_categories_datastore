@@ -1,1 +1,1 @@
-{"name": "New_Zealand_fashion", "id": 13495657, "predecessors": [{"name": "New_Zealand_culture", "id": 715387}], "successors": [{"name": "New_Zealand_fashion_designers", "id": 5847234}]}
+{"name": "New_Zealand_fashion", "id": 13495657, "predecessors": [{"name": "New_Zealand_culture", "id": 715387}, {"name": "Fashion", "id": 1000816}], "successors": [{"name": "New_Zealand_fashion_designers", "id": 5847234}]}

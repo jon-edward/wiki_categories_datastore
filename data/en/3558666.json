@@ -1,1 +1,1 @@
-{"name": "Hadrons", "id": 3558666, "predecessors": [{"name": "Quantum_chromodynamics", "id": 1653460}, {"name": "Subatomic_particles", "id": 700598}], "successors": [{"name": "Baryons", "id": 3558594}, {"name": "Mesons", "id": 3558609}, {"name": "B_physics", "id": 53905770}]}
+{"name": "Hadrons", "id": 3558666, "predecessors": [{"name": "Atoms", "id": 3129516}], "successors": []}

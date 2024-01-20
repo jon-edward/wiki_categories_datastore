@@ -1,1 +1,1 @@
-{"name": "Mitochondria", "id": 8129426, "predecessors": [{"name": "Endosymbiotic_events", "id": 38291131}, {"name": "Eukaryotic_cell_anatomy", "id": 74011094}, {"name": "Organelles", "id": 734927}], "successors": [{"name": "Mitochondrial_diseases", "id": 7481631}, {"name": "Mitochondrial_genetics", "id": 14250263}, {"name": "Mitochondrial_proteins", "id": 58804960}]}
+{"name": "Mitochondria", "id": 8129426, "predecessors": [{"name": "Endosymbiotic_events", "id": 38291131}], "successors": [{"name": "Mitochondrial_proteins", "id": 58804960}]}

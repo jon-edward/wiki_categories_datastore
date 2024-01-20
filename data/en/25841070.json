@@ -1,1 +1,1 @@
-{"name": "Penguin_Books", "id": 25841070, "predecessors": [{"name": "Pearson_plc", "id": 30982394}, {"name": "Penguin_Random_House", "id": 50112117}], "successors": [{"name": "Penguin_Books_books", "id": 30861543}, {"name": "Penguin_Books_people", "id": 50930063}, {"name": "Gotham_Books_books", "id": 71836058}]}
+{"name": "Penguin_Books", "id": 25841070, "predecessors": [{"name": "Pearson_plc", "id": 30982394}, {"name": "Penguin_Random_House", "id": 50112117}], "successors": [{"name": "Penguin_Books_people", "id": 50930063}, {"name": "Gotham_Books_books", "id": 71836058}]}

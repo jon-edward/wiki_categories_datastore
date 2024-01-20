@@ -1,1 +1,1 @@
-{"name": "AI_software", "id": 72630892, "predecessors": [{"name": "Artificial_intelligence", "id": 700355}], "successors": [{"name": "Data_mining_and_machine_learning_software", "id": 33542714}]}
+{"name": "AI_software", "id": 72630892, "predecessors": [{"name": "Application_software", "id": 708063}, {"name": "Artificial_intelligence", "id": 700355}], "successors": [{"name": "Data_mining_and_machine_learning_software", "id": 33542714}]}

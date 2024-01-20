@@ -1,1 +1,0 @@
-{"name": "Spanendes_Fertigungsverfahren", "id": 9191428, "predecessors": [{"name": "Zerspanen", "id": 481585}, {"name": "Fertigungsverfahren", "id": 1459446}], "successors": [{"name": "Spanendes_Fertigungsverfahren_mit_geometrisch_bestimmter_Schneide", "id": 9244605}, {"name": "Spanendes_Fertigungsverfahren_mit_geometrisch_unbestimmter_Schneide", "id": 9244625}]}

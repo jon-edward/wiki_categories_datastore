@@ -1,1 +1,1 @@
-{"name": "Acetaldehyde_dehydrogenase_inhibitors", "id": 55272017, "predecessors": [{"name": "Alcohol", "id": 1344286}, {"name": "Alcohol_abuse", "id": 2387019}, {"name": "Disulfiram-like_drugs", "id": 55272138}, {"name": "Enzyme_inhibitors", "id": 19642097}], "successors": []}
+{"name": "Acetaldehyde_dehydrogenase_inhibitors", "id": 55272017, "predecessors": [{"name": "Alcohol_abuse", "id": 2387019}, {"name": "Disulfiram-like_drugs", "id": 55272138}, {"name": "Enzyme_inhibitors", "id": 19642097}], "successors": []}

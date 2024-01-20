@@ -1,1 +1,1 @@
-{"name": "TRS-80", "id": 16369241, "predecessors": [{"name": "Home_computers", "id": 707669}, {"name": "RadioShack", "id": 22183287}], "successors": [{"name": "TRS-80_Color_Computer", "id": 3330181}, {"name": "TRS-80_games", "id": 5664585}]}
+{"name": "TRS-80", "id": 16369241, "predecessors": [{"name": "Home_computers", "id": 707669}, {"name": "RadioShack", "id": 22183287}, {"name": "Computers", "id": 4583997}], "successors": [{"name": "TRS-80_Color_Computer", "id": 3330181}, {"name": "TRS-80_games", "id": 5664585}]}

@@ -1,1 +1,1 @@
-{"name": "Spanish_female_breaststroke_swimmers", "id": 64141939, "predecessors": [{"name": "Female_breaststroke_swimmers", "id": 26451796}, {"name": "Sport_in_Spain", "id": 3058492}, {"name": "Swimming", "id": 691570}], "successors": []}
+{"name": "Spanish_female_breaststroke_swimmers", "id": 64141939, "predecessors": [{"name": "Female_breaststroke_swimmers", "id": 26451796}, {"name": "Swimming", "id": 691570}, {"name": "Swimming_styles", "id": 4946017}], "successors": []}

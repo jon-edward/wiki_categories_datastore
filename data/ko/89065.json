@@ -1,1 +1,0 @@
-{"name": "마이크로소프트_API", "id": 89065, "predecessors": [{"name": "API", "id": 74093}, {"name": "운영_체제_API", "id": 2292097}], "successors": [{"name": "닷넷_프레임워크", "id": 178602}, {"name": "DirectX", "id": 841317}, {"name": "윈도우_API", "id": 2623634}]}

@@ -1,1 +1,1 @@
-{"name": "Messu", "id": 149723, "predecessors": [{"name": "Jumalanpalvelukset", "id": 52040}, {"name": "Katolinen_liturgia", "id": 1174184}, {"name": "Kirkkomusiikki", "id": 44389}, {"name": "Kirkolliset_toimitukset", "id": 27841}], "successors": [{"name": "Messut", "id": 586032}]}
+{"name": "Messu", "id": 149723, "predecessors": [{"name": "Katolinen_liturgia", "id": 1174184}, {"name": "Kirkkomusiikki", "id": 44389}, {"name": "Kirkolliset_toimitukset", "id": 27841}], "successors": [{"name": "Messut", "id": 586032}]}

@@ -1,1 +1,1 @@
-{"name": "Reviste_pentru_copii", "id": 125058, "predecessors": [{"name": "Copii", "id": 209085}, {"name": "Literatură_pentru_copii", "id": 22998}], "successors": [{"name": "Reviste_pentru_copii_din_România", "id": 790553}]}
+{"name": "Reviste_pentru_copii", "id": 125058, "predecessors": [{"name": "Copii", "id": 209085}, {"name": "Literatură_pentru_copii", "id": 22998}, {"name": "Reviste", "id": 63913}], "successors": [{"name": "Reviste_pentru_copii_din_România", "id": 790553}]}

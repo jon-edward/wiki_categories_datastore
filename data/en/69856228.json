@@ -1,1 +1,1 @@
-{"name": "School_inspectors", "id": 69856228, "predecessors": [{"name": "Educational_administrators", "id": 45238710}, {"name": "Educational_personnel_assessment_and_evaluation", "id": 4274104}], "successors": []}
+{"name": "School_inspectors", "id": 69856228, "predecessors": [{"name": "Educational_personnel_assessment_and_evaluation", "id": 4274104}], "successors": []}

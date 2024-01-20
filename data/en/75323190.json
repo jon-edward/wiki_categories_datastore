@@ -1,1 +1,1 @@
-{"name": "Free_France", "id": 75323190, "predecessors": [{"name": "Charles_de_Gaulle_in_World_War_II", "id": 75364485}, {"name": "France_in_World_War_II", "id": 24651024}, {"name": "French_Resistance", "id": 892338}], "successors": [{"name": "Free_French_Forces", "id": 1436820}]}
+{"name": "Free_France", "id": 75323190, "predecessors": [{"name": "French_Resistance", "id": 892338}, {"name": "French_governments", "id": 22638245}, {"name": "Charles_de_Gaulle", "id": 4170692}], "successors": [{"name": "Free_French_Forces", "id": 1436820}]}

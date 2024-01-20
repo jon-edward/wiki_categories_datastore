@@ -1,1 +1,1 @@
-{"name": "Cannabis_research", "id": 8157009, "predecessors": [{"name": "Cannabis", "id": 1512579}, {"name": "Medical_research", "id": 1169815}, {"name": "Medicinal_use_of_cannabis", "id": 14581364}], "successors": [{"name": "Cannabinoids", "id": 717992}, {"name": "Cannabis_researchers", "id": 21670156}]}
+{"name": "Cannabis_research", "id": 8157009, "predecessors": [{"name": "Cannabis", "id": 1512579}, {"name": "Medicinal_use_of_cannabis", "id": 14581364}], "successors": [{"name": "Cannabinoids", "id": 717992}, {"name": "Cannabis_researchers", "id": 21670156}]}

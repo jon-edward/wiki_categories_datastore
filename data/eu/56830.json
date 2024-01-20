@@ -1,1 +1,1 @@
-{"name": "Wii", "id": 56830, "predecessors": [{"name": "Etxeko_bideokontsolak", "id": 1104118}, {"name": "Nintendo", "id": 56829}, {"name": "2000ko_hamarkadako_jostailuak", "id": 1130804}], "successors": [{"name": "Wiirako_jokoak", "id": 1130894}]}
+{"name": "Wii", "id": 56830, "predecessors": [{"name": "Nintendo", "id": 56829}], "successors": [{"name": "Wiirako_jokoak", "id": 1130894}]}

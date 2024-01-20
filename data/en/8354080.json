@@ -1,1 +1,1 @@
-{"name": "Rolex", "id": 8354080, "predecessors": [{"name": "Manufacturing_companies_based_in_Geneva", "id": 51289193}, {"name": "Watch_brands", "id": 18799891}], "successors": [{"name": "Rolex_watches", "id": 22903011}, {"name": "Rolex_sponsorships", "id": 72201546}]}
+{"name": "Rolex", "id": 8354080, "predecessors": [{"name": "Watch_brands", "id": 18799891}], "successors": [{"name": "Rolex_watches", "id": 22903011}, {"name": "Rolex_sponsorships", "id": 72201546}]}

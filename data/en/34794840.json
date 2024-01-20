@@ -1,1 +1,1 @@
-{"name": "Poker_in_Las_Vegas", "id": 34794840, "predecessors": [{"name": "Gambling_in_Nevada", "id": 45659431}, {"name": "Sports_in_Las_Vegas", "id": 36954921}], "successors": [{"name": "World_Series_of_Poker", "id": 3709095}]}
+{"name": "Poker_in_Las_Vegas", "id": 34794840, "predecessors": [{"name": "Sports_in_Las_Vegas", "id": 36954921}], "successors": [{"name": "World_Series_of_Poker", "id": 3709095}]}

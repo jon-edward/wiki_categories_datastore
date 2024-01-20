@@ -1,1 +1,1 @@
-{"name": "Homeopathic_hospitals", "id": 48560225, "predecessors": [{"name": "Hospitals", "id": 791496}], "successors": []}
+{"name": "Homeopathic_hospitals", "id": 48560225, "predecessors": [{"name": "Homeopathic_organizations", "id": 57910879}, {"name": "Hospitals", "id": 791496}], "successors": []}

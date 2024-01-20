@@ -1,1 +1,1 @@
-{"name": "Given_names_derived_from_colors", "id": 74200297, "predecessors": [{"name": "Given_names", "id": 911440}], "successors": []}
+{"name": "Given_names_derived_from_colors", "id": 74200297, "predecessors": [{"name": "Color_in_culture", "id": 51873165}, {"name": "Lexicology", "id": 7955229}], "successors": []}

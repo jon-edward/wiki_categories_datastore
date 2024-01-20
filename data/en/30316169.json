@@ -1,1 +1,1 @@
-{"name": "Entomology_equipment", "id": 30316169, "predecessors": [{"name": "Animal_equipment", "id": 4699536}, {"name": "Biological_techniques_and_tools", "id": 5881429}, {"name": "Entomology", "id": 949749}, {"name": "Scientific_equipment", "id": 1784869}], "successors": []}
+{"name": "Entomology_equipment", "id": 30316169, "predecessors": [{"name": "Animal_equipment", "id": 4699536}, {"name": "Scientific_equipment", "id": 1784869}], "successors": []}

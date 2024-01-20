@@ -1,1 +1,1 @@
-{"name": "Executed_spree_killers", "id": 25076525, "predecessors": [{"name": "Spree_killers", "id": 4484511}], "successors": [{"name": "Executed_American_spree_killers", "id": 73463985}]}
+{"name": "Executed_spree_killers", "id": 25076525, "predecessors": [{"name": "Executed_mass_murderers", "id": 14846224}, {"name": "Spree_killers", "id": 4484511}], "successors": [{"name": "Executed_American_spree_killers", "id": 73463985}]}

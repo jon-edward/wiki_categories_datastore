@@ -1,1 +1,1 @@
-{"name": "Stool_tests", "id": 9026557, "predecessors": [{"name": "Feces", "id": 5120590}, {"name": "Medical_tests", "id": 1075994}], "successors": [{"name": "Conditions_diagnosed_by_stool_test", "id": 9046250}]}
+{"name": "Stool_tests", "id": 9026557, "predecessors": [{"name": "Medical_tests", "id": 1075994}], "successors": [{"name": "Conditions_diagnosed_by_stool_test", "id": 9046250}]}

@@ -1,1 +1,1 @@
-{"name": "Maakaasu", "id": 489508, "predecessors": [{"name": "Polttoaineet", "id": 40981}, {"name": "Energiantuotanto", "id": 22278}], "successors": [{"name": "Kaasunsiirto", "id": 720801}]}
+{"name": "Maakaasu", "id": 489508, "predecessors": [{"name": "Polttoaineet", "id": 40981}, {"name": "Rakennuksen_lämmitysjärjestelmät", "id": 459575}, {"name": "Energiantuotanto", "id": 22278}], "successors": [{"name": "Kaasunsiirto", "id": 720801}]}

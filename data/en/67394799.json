@@ -1,1 +1,1 @@
-{"name": "British_restaurant_critics", "id": 67394799, "predecessors": [{"name": "British_food_writers", "id": 1500014}, {"name": "Restaurant_critics", "id": 28137078}, {"name": "British_cuisine", "id": 694858}], "successors": []}
+{"name": "British_restaurant_critics", "id": 67394799, "predecessors": [{"name": "Restaurant_critics", "id": 28137078}, {"name": "British_journalists", "id": 849784}], "successors": []}

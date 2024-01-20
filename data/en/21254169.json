@@ -1,1 +1,1 @@
-{"name": "Henschel_aircraft", "id": 21254169, "predecessors": [{"name": "Goods_manufactured_in_Germany", "id": 5165917}, {"name": "Bus_manufacturers_of_Germany", "id": 61175162}], "successors": []}
+{"name": "Henschel_aircraft", "id": 21254169, "predecessors": [{"name": "Aviation", "id": 735378}], "successors": []}

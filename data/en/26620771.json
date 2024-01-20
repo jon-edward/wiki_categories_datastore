@@ -1,1 +1,1 @@
-{"name": "Potassium_channel_blockers", "id": 26620771, "predecessors": [{"name": "Antiarrhythmic_agents", "id": 699517}, {"name": "Ion_channels", "id": 3238733}], "successors": [{"name": "HERG_blocker", "id": 68658863}]}
+{"name": "Potassium_channel_blockers", "id": 26620771, "predecessors": [{"name": "Ion_channels", "id": 3238733}], "successors": [{"name": "HERG_blocker", "id": 68658863}]}

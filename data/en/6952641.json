@@ -1,1 +1,1 @@
-{"name": "Gospel_Books", "id": 6952641, "predecessors": [{"name": "Canonical_Gospels", "id": 17865395}, {"name": "Christian_illuminated_manuscripts", "id": 10766812}, {"name": "Illuminated_biblical_manuscripts", "id": 10281885}, {"name": "Illuminated_manuscripts", "id": 766016}], "successors": []}
+{"name": "Gospel_Books", "id": 6952641, "predecessors": [{"name": "Illuminated_biblical_manuscripts", "id": 10281885}, {"name": "Illuminated_manuscripts", "id": 766016}, {"name": "Ancient_Christianity", "id": 20650674}], "successors": []}

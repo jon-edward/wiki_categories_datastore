@@ -1,1 +1,1 @@
-{"name": "Peanut_dishes", "id": 50910386, "predecessors": [{"name": "Legume_dishes", "id": 11367803}, {"name": "Peanuts", "id": 1106162}], "successors": [{"name": "Peanut_butter", "id": 25764762}, {"name": "M&M's", "id": 68830307}]}
+{"name": "Peanut_dishes", "id": 50910386, "predecessors": [{"name": "Legume_dishes", "id": 11367803}, {"name": "Peanuts", "id": 1106162}], "successors": [{"name": "Peanut_butter", "id": 25764762}]}

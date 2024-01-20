@@ -1,1 +1,1 @@
-{"name": "Silk_mills", "id": 40081224, "predecessors": [{"name": "Silk_production", "id": 35302982}, {"name": "Textile_mills", "id": 23379106}], "successors": [{"name": "Silk_mills_in_the_United_States", "id": 43962619}]}
+{"name": "Silk_mills", "id": 40081224, "predecessors": [{"name": "Silk_production", "id": 35302982}], "successors": [{"name": "Silk_mills_in_the_United_States", "id": 43962619}]}

@@ -1,1 +1,1 @@
-{"name": "Terrorist_incidents_in_Istanbul", "id": 39368225, "predecessors": [{"name": "Law_enforcement_in_Turkey", "id": 2449220}, {"name": "Political_violence", "id": 38401703}, {"name": "Terrorism_in_Turkey", "id": 10240382}], "successors": [{"name": "Suicide_bombings_in_Istanbul", "id": 49852351}]}
+{"name": "Terrorist_incidents_in_Istanbul", "id": 39368225, "predecessors": [{"name": "Political_violence", "id": 38401703}], "successors": [{"name": "Suicide_bombings_in_Istanbul", "id": 49852351}]}

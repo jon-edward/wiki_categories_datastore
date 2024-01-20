@@ -1,1 +1,1 @@
-{"name": "Spectrometers", "id": 3730420, "predecessors": [{"name": "Spectroscopy", "id": 697614}], "successors": []}
+{"name": "Spectrometers", "id": 3730420, "predecessors": [{"name": "Optical_instruments", "id": 38244384}, {"name": "Spectroscopy", "id": 697614}], "successors": []}

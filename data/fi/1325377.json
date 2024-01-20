@@ -1,1 +1,1 @@
-{"name": "VR-Yhtymä", "id": 1325377, "predecessors": [{"name": "Suomalaiset_valtionyhtiöt", "id": 439478}, {"name": "Suomen_henkilöjunaliikenne", "id": 1518328}, {"name": "Rautatieyhtiöt", "id": 68929}], "successors": [{"name": "Rautatiehallituksen_pääjohtajat", "id": 1716343}]}
+{"name": "VR-Yhtymä", "id": 1325377, "predecessors": [{"name": "Suomalaiset_rautatieyhtiöt", "id": 207900}, {"name": "Suomalaiset_valtionyhtiöt", "id": 439478}, {"name": "Suomen_henkilöjunaliikenne", "id": 1518328}], "successors": [{"name": "Rautatiehallituksen_pääjohtajat", "id": 1716343}]}

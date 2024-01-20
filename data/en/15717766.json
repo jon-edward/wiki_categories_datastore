@@ -1,1 +1,1 @@
-{"name": "Elasticity_(physics)", "id": 15717766, "predecessors": [{"name": "Deformation_(mechanics)", "id": 44366417}, {"name": "Solid_mechanics", "id": 7077725}, {"name": "Physical_phenomena", "id": 3450392}], "successors": [{"name": "Beam_theory", "id": 75446193}]}
+{"name": "Elasticity_(physics)", "id": 15717766, "predecessors": [{"name": "Physical_phenomena", "id": 3450392}], "successors": [{"name": "Beam_theory", "id": 75446193}]}

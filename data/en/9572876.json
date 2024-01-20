@@ -1,1 +1,1 @@
-{"name": "Volleyball_video_games", "id": 9572876, "predecessors": [{"name": "Sports_video_games", "id": 9716925}], "successors": [{"name": "Beach_volleyball_video_games", "id": 18198003}]}
+{"name": "Volleyball_video_games", "id": 9572876, "predecessors": [{"name": "Sports_video_games", "id": 9716925}, {"name": "Athletic_sports", "id": 31210709}], "successors": [{"name": "Beach_volleyball_video_games", "id": 18198003}]}

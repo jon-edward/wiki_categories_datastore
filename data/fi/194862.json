@@ -1,1 +1,1 @@
-{"name": "Erityisruokavaliot", "id": 194862, "predecessors": [{"name": "Ravinto-oppi", "id": 25308}], "successors": [{"name": "Vegetarismi", "id": 249753}, {"name": "Luontaislääkintä", "id": 290354}]}
+{"name": "Ruokavaliot", "id": 194862, "predecessors": [{"name": "Ravinto-oppi", "id": 25308}], "successors": [{"name": "Vegetarismi", "id": 249753}]}

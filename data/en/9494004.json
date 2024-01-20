@@ -1,1 +1,1 @@
-{"name": "Italian_printmakers", "id": 9494004, "predecessors": [{"name": "Italian_artists", "id": 1031803}], "successors": [{"name": "Italian_engravers", "id": 2434118}, {"name": "Italian_etchers", "id": 2434165}, {"name": "Italian_lithographers", "id": 26340830}]}
+{"name": "Italian_printmakers", "id": 9494004, "predecessors": [{"name": "Italian_artists", "id": 1031803}, {"name": "Printmakers", "id": 2347803}], "successors": [{"name": "Italian_engravers", "id": 2434118}, {"name": "Italian_etchers", "id": 2434165}]}

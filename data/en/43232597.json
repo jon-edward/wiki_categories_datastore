@@ -1,1 +1,1 @@
-{"name": "Maritime_magazines", "id": 43232597, "predecessors": [{"name": "Professional_and_trade_magazines", "id": 24909694}, {"name": "Publications_by_format", "id": 11278400}, {"name": "Maritime_culture", "id": 18335592}], "successors": [{"name": "Boating_magazines", "id": 33968323}]}
+{"name": "Maritime_magazines", "id": 43232597, "predecessors": [{"name": "Maritime_culture", "id": 18335592}, {"name": "Printing", "id": 774014}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Yoga_teachers", "id": 39269846, "predecessors": [{"name": "Yoga_as_exercise", "id": 61339745}, {"name": "Ascetics", "id": 5177907}], "successors": [{"name": "American_yoga_teachers", "id": 25040862}]}
+{"name": "Yoga_teachers", "id": 39269846, "predecessors": [{"name": "Teaching", "id": 2478638}], "successors": [{"name": "American_yoga_teachers", "id": 25040862}, {"name": "Indian_yoga_teachers", "id": 39269832}]}

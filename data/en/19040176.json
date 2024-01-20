@@ -1,1 +1,0 @@
-{"name": "Gasoline_engines", "id": 19040176, "predecessors": [{"name": "Fossil_fuel_phase-out", "id": 74610730}, {"name": "Internal_combustion_piston_engines", "id": 18429197}, {"name": "Combustion", "id": 3022121}], "successors": [{"name": "Gasoline_engines_by_model", "id": 27428690}, {"name": "Two-stroke_gasoline_engines", "id": 35488862}]}

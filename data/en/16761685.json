@@ -1,1 +1,1 @@
-{"name": "Quarrying", "id": 16761685, "predecessors": [{"name": "Stone_(material)", "id": 3975504}, {"name": "Surface_mining", "id": 13633400}], "successors": [{"name": "Quarries", "id": 20075383}, {"name": "Quarries_in_Wales", "id": 31345459}, {"name": "Quarries_in_England", "id": 36579760}, {"name": "Quarries_in_Scotland", "id": 42459976}]}
+{"name": "Quarrying", "id": 16761685, "predecessors": [{"name": "Stone_(material)", "id": 3975504}, {"name": "Surface_mining", "id": 13633400}], "successors": [{"name": "Quarries", "id": 20075383}]}

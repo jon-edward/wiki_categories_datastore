@@ -1,1 +1,1 @@
-{"name": "Tour_of_Qatar", "id": 26264216, "predecessors": [{"name": "UCI_Asia_Tour_races", "id": 42984278}, {"name": "Road_transport", "id": 700964}], "successors": [{"name": "Ladies_Tour_of_Qatar", "id": 38308023}]}
+{"name": "Tour_of_Qatar", "id": 26264216, "predecessors": [{"name": "UCI_Asia_Tour_races", "id": 42984278}, {"name": "UCI_World_Tour_races", "id": 39344105}], "successors": [{"name": "Ladies_Tour_of_Qatar", "id": 38308023}]}

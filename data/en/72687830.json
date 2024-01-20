@@ -1,1 +1,1 @@
-{"name": "East_Jerusalem", "id": 72687830, "predecessors": [{"name": "Cities_in_the_West_Bank", "id": 9883912}, {"name": "Jerusalem_Governorate", "id": 11774119}], "successors": [{"name": "Mount_of_Olives", "id": 23603746}, {"name": "City_of_David_(archaeological_site)", "id": 26304396}, {"name": "Israeli_settlements_in_East_Jerusalem", "id": 68836728}, {"name": "Old_City_(Jerusalem)", "id": 70806155}]}
+{"name": "East_Jerusalem", "id": 72687830, "predecessors": [{"name": "Jerusalem_Governorate", "id": 11774119}], "successors": [{"name": "Mount_of_Olives", "id": 23603746}]}

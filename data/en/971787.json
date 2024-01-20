@@ -1,1 +1,1 @@
-{"name": "Modular_forms", "id": 971787, "predecessors": [{"name": "Automorphic_forms", "id": 971791}, {"name": "Complex_analysis", "id": 691914}, {"name": "Number_theory", "id": 693745}], "successors": [{"name": "Elliptic_functions", "id": 1120101}, {"name": "Theta_functions", "id": 7193523}]}
+{"name": "Modular_forms", "id": 971787, "predecessors": [{"name": "Number_theory", "id": 693745}], "successors": []}

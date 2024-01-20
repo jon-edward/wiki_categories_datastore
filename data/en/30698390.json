@@ -1,1 +1,1 @@
-{"name": "Nursing_ethics", "id": 30698390, "predecessors": [{"name": "Medical_ethics", "id": 692697}, {"name": "Nursing", "id": 744245}, {"name": "Professional_ethics", "id": 6270079}], "successors": [{"name": "Human_subject_research", "id": 34211828}]}
+{"name": "Nursing_ethics", "id": 30698390, "predecessors": [{"name": "Medical_ethics", "id": 692697}], "successors": [{"name": "Human_subject_research", "id": 34211828}]}

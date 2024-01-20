@@ -1,1 +1,1 @@
-{"name": "Aromaattiset_hiilivedyt", "id": 232294, "predecessors": [{"name": "Aromaattiset_yhdisteet", "id": 58978}, {"name": "Hiilivedyt", "id": 27525}], "successors": []}
+{"name": "Aromaattiset_hiilivedyt", "id": 232294, "predecessors": [{"name": "Aromaattiset_yhdisteet", "id": 58978}, {"name": "Hiilivedyt", "id": 27525}], "successors": [{"name": "Polysykliset_aromaattiset_hiilivedyt", "id": 1784649}, {"name": "Nitrotolueenit", "id": 1784561}]}

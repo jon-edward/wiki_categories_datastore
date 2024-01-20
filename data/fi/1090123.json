@@ -1,1 +1,1 @@
-{"name": "Portit", "id": 1090123, "predecessors": [{"name": "Rakennukset_ja_rakennelmat", "id": 25177}], "successors": [{"name": "Riemukaaret", "id": 49549}]}
+{"name": "Portit", "id": 1090123, "predecessors": [{"name": "Katukalusteet", "id": 1411313}, {"name": "Rakennuksen_maa-_ja_pihatyöt", "id": 456013}, {"name": "Rakennukset_ja_rakennelmat", "id": 25177}], "successors": [{"name": "Riemukaaret", "id": 49549}]}

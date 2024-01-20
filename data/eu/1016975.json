@@ -1,1 +1,1 @@
-{"name": "Proxy_gerrak", "id": 1016975, "predecessors": [{"name": "Gerrak", "id": 35687}], "successors": [{"name": "Mexikoko_Iraultza", "id": 164940}, {"name": "Vietnamgo_Gerra", "id": 334753}, {"name": "Donbasseko_gerra", "id": 1042602}]}
+{"name": "Proxy_gerrak", "id": 1016975, "predecessors": [{"name": "Gerrak", "id": 35687}, {"name": "Gerra", "id": 238948}], "successors": [{"name": "Mexikoko_Iraultza", "id": 164940}, {"name": "Vietnamgo_Gerra", "id": 334753}, {"name": "Donbasseko_gerra", "id": 1042602}]}

@@ -1,1 +1,1 @@
-{"name": "Clinical_data_management", "id": 34875542, "predecessors": [{"name": "Clinical_research", "id": 1984022}, {"name": "Data_management", "id": 762162}, {"name": "Pharmaceutical_industry", "id": 2161287}], "successors": []}
+{"name": "Clinical_data_management", "id": 34875542, "predecessors": [{"name": "Data_management", "id": 762162}], "successors": []}

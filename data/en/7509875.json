@@ -1,1 +1,1 @@
-{"name": "Homebrew_software", "id": 7509875, "predecessors": [{"name": "Hacker_culture", "id": 25195855}, {"name": "Hardware_restrictions", "id": 34289528}, {"name": "Proprietary_hardware", "id": 34289367}], "successors": [{"name": "Dreamcast_homebrew_games", "id": 4384328}]}
+{"name": "Homebrew_software", "id": 7509875, "predecessors": [{"name": "Hacker_culture", "id": 25195855}, {"name": "Hardware_restrictions", "id": 34289528}, {"name": "Software", "id": 691633}], "successors": [{"name": "Dreamcast_homebrew_games", "id": 4384328}]}

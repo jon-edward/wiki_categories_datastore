@@ -1,1 +1,1 @@
-{"name": "Securities_clearing_and_depository_institutions", "id": 29576327, "predecessors": [{"name": "Securities_(finance)", "id": 41030240}, {"name": "Settlement_(finance)", "id": 62351847}], "successors": []}
+{"name": "Securities_clearing_and_depository_institutions", "id": 29576327, "predecessors": [{"name": "Settlement_(finance)", "id": 62351847}], "successors": [{"name": "Central_securities_depositories", "id": 9248443}]}

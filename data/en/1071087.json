@@ -1,1 +1,0 @@
-{"name": "CPU_sockets", "id": 1071087, "predecessors": [{"name": "Central_processing_unit", "id": 5834555}, {"name": "Motherboard", "id": 1827185}], "successors": [{"name": "AMD_sockets", "id": 26212596}, {"name": "Intel_CPU_sockets", "id": 60182751}]}

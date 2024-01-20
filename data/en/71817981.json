@@ -1,1 +1,1 @@
-{"name": "Mythological_hunters", "id": 71817981, "predecessors": [{"name": "Fictional_hunters", "id": 4045256}, {"name": "Mythological_characters", "id": 4650460}], "successors": [{"name": "Artemis", "id": 17681338}, {"name": "Atalanta", "id": 73459887}]}
+{"name": "Mythological_hunters", "id": 71817981, "predecessors": [{"name": "Hunters", "id": 3145620}, {"name": "Mythological_characters", "id": 4650460}], "successors": [{"name": "Artemis", "id": 17681338}, {"name": "Atalanta", "id": 73459887}]}

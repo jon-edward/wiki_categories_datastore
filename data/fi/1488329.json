@@ -1,1 +1,1 @@
-{"name": "Suomen_ravikilpailut", "id": 1488329, "predecessors": [{"name": "Ravikilpailut", "id": 40376}, {"name": "Suomen_urheilutapahtumat", "id": 1073838}, {"name": "Raviurheilu", "id": 89507}], "successors": [{"name": "Kuninkuusravit", "id": 1111360}]}
+{"name": "Suomen_ravikilpailut", "id": 1488329, "predecessors": [{"name": "Suomen_urheilutapahtumat", "id": 1073838}, {"name": "Hevosurheilu", "id": 27839}, {"name": "Raviurheilu", "id": 89507}], "successors": [{"name": "Kuninkuusravit", "id": 1111360}]}

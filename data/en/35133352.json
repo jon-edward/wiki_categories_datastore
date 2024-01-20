@@ -1,1 +1,1 @@
-{"name": "Urbanization", "id": 35133352, "predecessors": [{"name": "Human_migration", "id": 1206703}, {"name": "Population_geography", "id": 67794624}], "successors": [{"name": "Urban_planning", "id": 705232}, {"name": "Green_belts", "id": 42264974}, {"name": "Species_endangered_by_urbanization", "id": 53844570}]}
+{"name": "Urbanization", "id": 35133352, "predecessors": [{"name": "Human_migration", "id": 1206703}, {"name": "Population_geography", "id": 67794624}], "successors": [{"name": "Urban_planning", "id": 705232}]}

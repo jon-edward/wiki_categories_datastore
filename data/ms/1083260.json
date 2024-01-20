@@ -1,1 +1,1 @@
-{"name": "Astronomi_cerapan", "id": 1083260, "predecessors": [{"name": "Astronomi", "id": 9733}, {"name": "Kaedah_saintifik", "id": 82267}], "successors": []}
+{"name": "Astronomi_cerapan", "id": 1083260, "predecessors": [{"name": "Astronomi", "id": 9733}, {"name": "Kaedah_saintifik", "id": 82267}], "successors": [{"name": "Pencemaran_cahaya", "id": 1083263}]}

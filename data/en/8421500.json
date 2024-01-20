@@ -1,1 +1,1 @@
-{"name": "Paris_Métro_line_4", "id": 8421500, "predecessors": [{"name": "Rubber-tyred_metros", "id": 24064955}, {"name": "Paris_Métro", "id": 8421454}], "successors": []}
+{"name": "Paris_Métro_line_4", "id": 8421500, "predecessors": [{"name": "Rubber-tyred_metros", "id": 24064955}, {"name": "Rapid_transit", "id": 4286827}], "successors": []}

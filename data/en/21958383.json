@@ -1,1 +1,1 @@
-{"name": "Road_signs_by_country", "id": 21958383, "predecessors": [{"name": "Traffic_signs", "id": 1221746}, {"name": "Road_transport", "id": 700964}], "successors": [{"name": "Road_signs_in_the_United_States", "id": 67979399}, {"name": "Alberta_Highway_shields", "id": 22284307}]}
+{"name": "Road_signs_by_country", "id": 21958383, "predecessors": [{"name": "Traffic_signs", "id": 1221746}], "successors": [{"name": "Road_signs_in_the_United_States", "id": 67979399}, {"name": "Alberta_Highway_shields", "id": 22284307}]}

@@ -1,1 +1,1 @@
-{"name": "Motherboard_expansion_slot", "id": 6757285, "predecessors": [{"name": "Computer_buses", "id": 1124098}, {"name": "Motherboard", "id": 1827185}], "successors": []}
+{"name": "Motherboard_expansion_slot", "id": 6757285, "predecessors": [{"name": "Computer_buses", "id": 1124098}], "successors": []}

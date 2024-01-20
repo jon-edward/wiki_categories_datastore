@@ -1,1 +1,1 @@
-{"name": "Euronext_100_-indeksi", "id": 496195, "predecessors": [{"name": "Osakeindeksit", "id": 248095}], "successors": []}
+{"name": "Euronext_100_-indeksi", "id": 496195, "predecessors": [{"name": "Osakeindeksit", "id": 248095}, {"name": "Alankomaalaiset_pörssiyhtiöt", "id": 1225765}], "successors": [{"name": "Renault", "id": 98578}, {"name": "Ferrari", "id": 100649}, {"name": "Universal_Music_Group", "id": 1712917}]}

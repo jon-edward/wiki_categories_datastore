@@ -1,1 +1,1 @@
-{"name": "Experts_on_terrorism", "id": 39287526, "predecessors": [{"name": "People_in_counterterrorism", "id": 51497525}, {"name": "Social_sciences", "id": 695042}], "successors": [{"name": "Terrorism_theorists", "id": 11274942}]}
+{"name": "Experts_on_terrorism", "id": 39287526, "predecessors": [{"name": "Social_sciences", "id": 695042}, {"name": "Counterterrorism", "id": 3223549}], "successors": [{"name": "Terrorism_theorists", "id": 11274942}]}

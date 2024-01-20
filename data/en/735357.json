@@ -1,1 +1,0 @@
-{"name": "Motor_vehicle_theft", "id": 735357, "predecessors": [{"name": "Car_crime", "id": 25478108}, {"name": "Theft", "id": 1515403}], "successors": [{"name": "Vehicle_security_systems", "id": 36802410}]}

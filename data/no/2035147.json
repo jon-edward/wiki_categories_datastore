@@ -1,1 +1,1 @@
-{"name": "Jernbanebyggverk_i_Asker", "id": 2035147, "predecessors": [{"name": "Byggverk_i_Asker", "id": 1327245}, {"name": "Jernbane_i_Norge", "id": 39893}, {"name": "Administrative_inndelinger_i_Norge", "id": 497295}], "successors": [{"name": "Jernbanestasjoner_i_Asker", "id": 779927}]}
+{"name": "Jernbanebyggverk_i_Asker", "id": 2035147, "predecessors": [{"name": "Byggverk_i_Asker", "id": 1327245}, {"name": "Jernbane_i_Norge", "id": 39893}, {"name": "Akershus", "id": 16205}], "successors": [{"name": "Jernbanestasjoner_i_Asker", "id": 779927}]}

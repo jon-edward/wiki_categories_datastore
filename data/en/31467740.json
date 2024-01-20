@@ -1,1 +1,1 @@
-{"name": "Genomics_companies", "id": 31467740, "predecessors": [{"name": "Biotechnology_companies", "id": 2402861}, {"name": "Genomics_organizations", "id": 62383653}], "successors": [{"name": "Genetic_genealogy_companies", "id": 34636386}]}
+{"name": "Genomics_companies", "id": 31467740, "predecessors": [{"name": "Genomics_organizations", "id": 62383653}, {"name": "Biotechnology_organizations", "id": 19397247}], "successors": [{"name": "Genetic_genealogy_companies", "id": 34636386}]}

@@ -1,1 +1,1 @@
-{"name": "Upcoming_video_games", "id": 10271781, "predecessors": [{"name": "Software_development", "id": 1470317}], "successors": [{"name": "Upcoming_video_games_scheduled_for_2024", "id": 72453297}]}
+{"name": "Upcoming_video_games", "id": 10271781, "predecessors": [{"name": "Software_development", "id": 1470317}, {"name": "Video_game_development", "id": 9254238}], "successors": [{"name": "Upcoming_video_games_scheduled_for_2024", "id": 72453297}]}

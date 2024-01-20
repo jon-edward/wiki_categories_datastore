@@ -1,1 +1,0 @@
-{"name": "Materiaalschade", "id": 5218255, "predecessors": [{"name": "Materiaalkunde", "id": 80458}, {"name": "Ongeluk", "id": 2161550}, {"name": "Verzekeren", "id": 206717}], "successors": [{"name": "Breukleer", "id": 245566}, {"name": "Brand", "id": 1696220}]}

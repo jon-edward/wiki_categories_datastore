@@ -1,1 +1,1 @@
-{"name": "Léčivé_houby", "id": 1048978, "predecessors": [{"name": "Houby", "id": 10134}, {"name": "Alternativní_medicína", "id": 36012}], "successors": [{"name": "Psychoaktivní_houby", "id": 470920}]}
+{"name": "Léčivé_houby", "id": 1048978, "predecessors": [{"name": "Fytoterapie", "id": 561494}, {"name": "Houby", "id": 10134}], "successors": [{"name": "Psychoaktivní_houby", "id": 470920}]}

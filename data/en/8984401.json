@@ -1,1 +1,0 @@
-{"name": "Kidney_diseases", "id": 8984401, "predecessors": [{"name": "Nephrology", "id": 694340}, {"name": "Urological_conditions", "id": 25408617}], "successors": [{"name": "Deaths_from_kidney_disease", "id": 19628090}, {"name": "Kidney_cancer", "id": 26723658}, {"name": "Glomerular_diseases", "id": 27087448}, {"name": "Syndromes_affecting_the_kidneys", "id": 53611809}]}

@@ -1,1 +1,1 @@
-{"name": "7TM_receptors", "id": 719558, "predecessors": [{"name": "Cell_signaling", "id": 5754178}, {"name": "Transmembrane_receptors", "id": 719556}], "successors": [{"name": "G_protein-coupled_receptors", "id": 719555}]}
+{"name": "7TM_receptors", "id": 719558, "predecessors": [{"name": "Transmembrane_receptors", "id": 719556}], "successors": [{"name": "G_protein-coupled_receptors", "id": 719555}]}

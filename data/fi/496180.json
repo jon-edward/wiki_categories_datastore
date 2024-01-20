@@ -1,1 +1,1 @@
-{"name": "CAC_40_-indeksi", "id": 496180, "predecessors": [{"name": "Osakeindeksit", "id": 248095}], "successors": []}
+{"name": "CAC_40_-indeksi", "id": 496180, "predecessors": [{"name": "Osakeindeksit", "id": 248095}, {"name": "Pariisi", "id": 46926}], "successors": [{"name": "Renault", "id": 98578}]}

@@ -1,1 +1,1 @@
-{"name": "Ship_compartments", "id": 4606455, "predecessors": [{"name": "Rooms", "id": 965836}, {"name": "Ships", "id": 711332}], "successors": []}
+{"name": "Ship_compartments", "id": 4606455, "predecessors": [{"name": "Rooms", "id": 965836}], "successors": []}

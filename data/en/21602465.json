@@ -1,1 +1,1 @@
-{"name": "Punishment", "id": 21602465, "predecessors": [{"name": "Behavior_modification", "id": 9430658}, {"name": "Justice", "id": 2388327}], "successors": [{"name": "Hell", "id": 7450650}, {"name": "Impunity", "id": 66000693}]}
+{"name": "Punishment", "id": 21602465, "predecessors": [{"name": "Behavior_modification", "id": 9430658}], "successors": [{"name": "Punishments", "id": 938374}, {"name": "Hell", "id": 7450650}, {"name": "Sentencing_(law)", "id": 15428896}, {"name": "Sports_penalties", "id": 30236040}, {"name": "Impunity", "id": 66000693}]}

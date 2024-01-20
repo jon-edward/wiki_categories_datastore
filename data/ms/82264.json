@@ -1,1 +1,1 @@
-{"name": "Psikologi_gunaan", "id": 82264, "predecessors": [{"name": "Cabang_psikologi", "id": 82043}], "successors": [{"name": "Psikologi_pendidikan", "id": 82265}, {"name": "Kelakuan_pengguna", "id": 185025}, {"name": "Psikoterapi", "id": 86417}]}
+{"name": "Psikologi_gunaan", "id": 82264, "predecessors": [{"name": "Cabang_psikologi", "id": 82043}], "successors": [{"name": "Psikologi_pendidikan", "id": 82265}, {"name": "Kelakuan_pengguna", "id": 185025}]}

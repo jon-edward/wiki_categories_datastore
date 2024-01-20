@@ -1,1 +1,1 @@
-{"name": "Cannabis_cultivation", "id": 8157296, "predecessors": [{"name": "Agriculture_by_type", "id": 31038144}, {"name": "Cannabis", "id": 1512579}], "successors": [{"name": "Cannabis_strains", "id": 4025423}, {"name": "Cannabis_eradication", "id": 53847964}]}
+{"name": "Cannabis_cultivation", "id": 8157296, "predecessors": [{"name": "Agriculture_by_type", "id": 31038144}, {"name": "Cannabis", "id": 1512579}], "successors": [{"name": "Cannabis_strains", "id": 4025423}]}

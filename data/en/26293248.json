@@ -1,1 +1,1 @@
-{"name": "Winter_Olympic_video_games", "id": 26293248, "predecessors": [{"name": "Olympic_video_games", "id": 9571935}, {"name": "Sports_video_games", "id": 9716925}, {"name": "Winter_sports", "id": 700686}], "successors": []}
+{"name": "Winter_Olympic_video_games", "id": 26293248, "predecessors": [{"name": "Sports_video_games", "id": 9716925}], "successors": []}

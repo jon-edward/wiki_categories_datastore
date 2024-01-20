@@ -1,1 +1,1 @@
-{"name": "Fantail_helicopters", "id": 33482762, "predecessors": [{"name": "Helicopter_components", "id": 7773273}, {"name": "Helicopters", "id": 751767}], "successors": []}
+{"name": "Fantail_helicopters", "id": 33482762, "predecessors": [{"name": "Ducted_fan-powered_aircraft", "id": 27009805}, {"name": "Helicopter_components", "id": 7773273}, {"name": "Helicopters", "id": 751767}], "successors": []}

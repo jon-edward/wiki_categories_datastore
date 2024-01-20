@@ -1,1 +1,1 @@
-{"name": "Medical_educators", "id": 11304253, "predecessors": [{"name": "Medical_education", "id": 1427229}], "successors": [{"name": "Celebrity_doctors", "id": 51676112}, {"name": "Indian_medical_educators", "id": 53742434}]}
+{"name": "Medical_educators", "id": 11304253, "predecessors": [{"name": "Medical_education", "id": 1427229}, {"name": "Teaching", "id": 2478638}], "successors": [{"name": "Celebrity_doctors", "id": 51676112}, {"name": "Indian_medical_educators", "id": 53742434}]}

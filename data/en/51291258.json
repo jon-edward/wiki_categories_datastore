@@ -1,1 +1,1 @@
-{"name": "Chinese_male_sprinters", "id": 51291258, "predecessors": [{"name": "Men's_athletics", "id": 53241340}, {"name": "Chinese_culture", "id": 715451}], "successors": [{"name": "Hong_Kong_male_sprinters", "id": 51296049}]}
+{"name": "Chinese_male_sprinters", "id": 51291258, "predecessors": [{"name": "Running", "id": 847059}, {"name": "Men's_athletics", "id": 53241340}, {"name": "Athletics_by_country", "id": 30874057}], "successors": [{"name": "Hong_Kong_male_sprinters", "id": 51296049}]}

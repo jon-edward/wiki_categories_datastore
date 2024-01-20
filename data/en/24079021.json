@@ -1,1 +1,1 @@
-{"name": "Food_and_the_environment", "id": 24079021, "predecessors": [{"name": "Food_and_drink", "id": 694860}, {"name": "Environment_and_society", "id": 15474891}], "successors": [{"name": "Sustainable_food_system", "id": 18611674}, {"name": "Food_waste", "id": 53942169}]}
+{"name": "Food_and_the_environment", "id": 24079021, "predecessors": [{"name": "Food_and_drink", "id": 694860}], "successors": [{"name": "Sustainable_food_system", "id": 18611674}, {"name": "Food_waste", "id": 53942169}]}

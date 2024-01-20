@@ -1,1 +1,1 @@
-{"name": "Airports_established_in_1943", "id": 33433795, "predecessors": [{"name": "20th-century_aviation", "id": 48739569}, {"name": "Buildings_and_structures_completed_in_the_20th_century", "id": 30134951}], "successors": [{"name": "Military_airbases_established_in_1943", "id": 58030470}]}
+{"name": "Airports_established_in_1943", "id": 33433795, "predecessors": [{"name": "Aviation", "id": 735378}], "successors": [{"name": "Military_airbases_established_in_1943", "id": 58030470}]}

@@ -1,1 +1,1 @@
-{"name": "Bank_fraud", "id": 37540333, "predecessors": [{"name": "Fraud", "id": 737192}, {"name": "Crimes", "id": 694944}], "successors": []}
+{"name": "Bank_fraud", "id": 37540333, "predecessors": [{"name": "Fraud", "id": 737192}], "successors": []}

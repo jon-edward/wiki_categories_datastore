@@ -1,1 +1,1 @@
-{"name": "London_Film_Critics_Circle_Awards", "id": 4164721, "predecessors": [{"name": "London_awards", "id": 43434694}], "successors": [{"name": "London_Film_Critics_Circle_Award_templates", "id": 62823222}]}
+{"name": "London_Film_Critics_Circle_Awards", "id": 4164721, "predecessors": [{"name": "British_film_awards", "id": 14387646}, {"name": "Criticism", "id": 7883896}], "successors": [{"name": "London_Film_Critics_Circle_Award_templates", "id": 62823222}]}

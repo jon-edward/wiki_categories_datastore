@@ -1,1 +1,1 @@
-{"name": "Radiation_health_effects_research", "id": 62627791, "predecessors": [{"name": "Medical_research", "id": 1169815}, {"name": "Radiation_health_effects", "id": 13015705}, {"name": "Radiobiology", "id": 1967877}], "successors": [{"name": "Radiation_health_effects_researchers", "id": 13336902}]}
+{"name": "Radiation_health_effects_research", "id": 62627791, "predecessors": [{"name": "Radiation_health_effects", "id": 13015705}, {"name": "Radiobiology", "id": 1967877}], "successors": [{"name": "Radiation_health_effects_researchers", "id": 13336902}]}

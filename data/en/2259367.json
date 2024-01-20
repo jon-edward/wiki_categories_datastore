@@ -1,1 +1,1 @@
-{"name": "Mexican_judges", "id": 2259367, "predecessors": [{"name": "Mexican_jurists", "id": 18266568}, {"name": "Government_of_Mexico", "id": 1857327}], "successors": [{"name": "Supreme_Court_of_Justice_of_the_Nation_justices", "id": 38455495}, {"name": "20th-century_Mexican_judges", "id": 71325890}, {"name": "21st-century_Mexican_judges", "id": 71325907}]}
+{"name": "Mexican_judges", "id": 2259367, "predecessors": [{"name": "Judiciaries", "id": 4683914}], "successors": [{"name": "Supreme_Court_of_Justice_of_the_Nation_justices", "id": 38455495}]}

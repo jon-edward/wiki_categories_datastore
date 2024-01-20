@@ -1,1 +1,1 @@
-{"name": "Oljeservice", "id": 582430, "predecessors": [{"name": "Oljeselskaper", "id": 30166}, {"name": "Petroleumsvirksomhet", "id": 582960}], "successors": [{"name": "Seismikk", "id": 582437}, {"name": "Offshore_serviceskip", "id": 1808513}, {"name": "Norske_boreriggselskaper", "id": 748717}]}
+{"name": "Oljeservice", "id": 582430, "predecessors": [{"name": "Petroleumsvirksomhet", "id": 582960}], "successors": [{"name": "Seismikk", "id": 582437}, {"name": "Offshore_serviceskip", "id": 1808513}, {"name": "Norske_boreriggselskaper", "id": 748717}]}

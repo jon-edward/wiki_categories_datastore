@@ -1,1 +1,1 @@
-{"name": "Dialectic", "id": 2687835, "predecessors": [{"name": "Philosophical_logic", "id": 1063460}, {"name": "Philosophical_methodology", "id": 22393833}, {"name": "Rhetoric", "id": 795966}], "successors": [{"name": "Dialogues", "id": 7811689}, {"name": "Dialectical_materialism", "id": 54717906}]}
+{"name": "Dialectic", "id": 2687835, "predecessors": [{"name": "Rhetoric", "id": 795966}], "successors": [{"name": "Dialogues", "id": 7811689}, {"name": "Dialectical_materialism", "id": 54717906}]}

@@ -1,1 +1,1 @@
-{"name": "Disneyland", "id": 36350491, "predecessors": [{"name": "Amusement_parks_in_California", "id": 7331474}, {"name": "Disneyland_Resort", "id": 1422241}, {"name": "Amusement_parks", "id": 713049}], "successors": [{"name": "Restaurants_at_Disneyland", "id": 61763267}]}
+{"name": "Disneyland", "id": 36350491, "predecessors": [{"name": "Amusement_parks_in_California", "id": 7331474}, {"name": "Disneyland_Resort", "id": 1422241}], "successors": [{"name": "Restaurants_at_Disneyland", "id": 61763267}]}

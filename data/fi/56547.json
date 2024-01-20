@@ -1,1 +1,1 @@
-{"name": "MacOS", "id": 56547, "predecessors": [{"name": "Unix", "id": 28060}, {"name": "Applen_ohjelmistot", "id": 609152}], "successors": []}
+{"name": "MacOS", "id": 56547, "predecessors": [{"name": "Unix", "id": 28060}, {"name": "Applen_ohjelmistot", "id": 609152}], "successors": [{"name": "MacOS-ohjelmat", "id": 1557581}]}

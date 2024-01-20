@@ -1,1 +1,1 @@
-{"name": "Cycling_journalists", "id": 19481636, "predecessors": [{"name": "Cycling_writers", "id": 66540314}, {"name": "Sports_journalists", "id": 6023369}], "successors": [{"name": "Tour_de_France_journalists", "id": 57313966}]}
+{"name": "Cycling_journalists", "id": 19481636, "predecessors": [{"name": "Sports_journalists", "id": 6023369}], "successors": [{"name": "Tour_de_France_journalists", "id": 57313966}]}

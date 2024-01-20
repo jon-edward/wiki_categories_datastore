@@ -1,1 +1,1 @@
-{"name": "Tornit", "id": 25180, "predecessors": [{"name": "Rakennukset_ja_rakennelmat", "id": 25177}], "successors": [{"name": "Näkötornit", "id": 705075}, {"name": "Televisiotornit", "id": 705076}, {"name": "Suomen_vesitornit", "id": 707694}, {"name": "Suomen_näkötornit", "id": 705087}]}
+{"name": "Tornit", "id": 25180, "predecessors": [{"name": "Rakennukset_ja_rakennelmat", "id": 25177}], "successors": [{"name": "Näkötornit", "id": 705075}, {"name": "Televisiotornit", "id": 705076}, {"name": "Suomen_näkötornit", "id": 705087}, {"name": "Suomen_vesitornit", "id": 707694}]}

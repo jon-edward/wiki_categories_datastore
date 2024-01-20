@@ -1,1 +1,1 @@
-{"name": "Central_volcanoes", "id": 74396900, "predecessors": [{"name": "Polygenetic_volcanoes", "id": 22591277}, {"name": "Volcanic_landforms", "id": 11062721}, {"name": "Volcanoes", "id": 693788}], "successors": [{"name": "Central_volcanoes_of_Iceland", "id": 65174364}]}
+{"name": "Central_volcanoes", "id": 74396900, "predecessors": [{"name": "Volcanic_landforms", "id": 11062721}], "successors": [{"name": "Central_volcanoes_of_Iceland", "id": 65174364}]}

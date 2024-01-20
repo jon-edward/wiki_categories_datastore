@@ -1,1 +1,1 @@
-{"name": "Authentication_protocols", "id": 35484742, "predecessors": [{"name": "Authentication", "id": 50675892}, {"name": "Cryptographic_protocols", "id": 769027}], "successors": []}
+{"name": "Authentication_protocols", "id": 35484742, "predecessors": [{"name": "Accountability", "id": 25283376}], "successors": []}

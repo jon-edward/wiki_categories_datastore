@@ -1,1 +1,1 @@
-{"name": "Leather_clothing", "id": 21192784, "predecessors": [{"name": "Clothing_by_material", "id": 21192113}, {"name": "Leather_goods", "id": 40018387}], "successors": [{"name": "Leather_subculture", "id": 37173662}]}
+{"name": "Leather_clothing", "id": 21192784, "predecessors": [{"name": "Leather_goods", "id": 40018387}], "successors": [{"name": "Leather_subculture", "id": 37173662}]}

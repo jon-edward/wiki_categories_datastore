@@ -1,1 +1,0 @@
-{"name": "Matrix_decompositions", "id": 22476294, "predecessors": [{"name": "Factorization", "id": 70823127}, {"name": "Matrix_theory", "id": 692453}, {"name": "Numerical_linear_algebra", "id": 1770656}], "successors": [{"name": "Singular_value_decomposition", "id": 6890644}]}

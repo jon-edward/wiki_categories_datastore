@@ -1,1 +1,1 @@
-{"name": "Baseball_strategy", "id": 22299804, "predecessors": [{"name": "Athletic_sports", "id": 31210709}, {"name": "Sports", "id": 693708}], "successors": [{"name": "Baseball_plays", "id": 5732348}]}
+{"name": "Baseball_strategy", "id": 22299804, "predecessors": [{"name": "Athletic_sports", "id": 31210709}], "successors": [{"name": "Baseball_plays", "id": 5732348}]}

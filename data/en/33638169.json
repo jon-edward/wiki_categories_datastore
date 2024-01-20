@@ -1,1 +1,0 @@
-{"name": "Industrial_robotics", "id": 33638169, "predecessors": [{"name": "Industrial_automation", "id": 30944101}, {"name": "Robotics", "id": 853492}], "successors": [{"name": "Industrial_robots", "id": 17613421}, {"name": "3D_printing", "id": 33961970}, {"name": "Numerical_control", "id": 52125500}]}

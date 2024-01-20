@@ -1,1 +1,1 @@
-{"name": "Swedish_naturalists", "id": 1070362, "predecessors": [{"name": "Swedish_biologists", "id": 1070363}, {"name": "Branches_of_biology", "id": 37535091}], "successors": [{"name": "Swedish_botanists", "id": 1623254}, {"name": "Swedish_zoologists", "id": 1849660}]}
+{"name": "Swedish_naturalists", "id": 1070362, "predecessors": [{"name": "Biology", "id": 692675}], "successors": [{"name": "Swedish_botanists", "id": 1623254}, {"name": "Swedish_zoologists", "id": 1849660}]}

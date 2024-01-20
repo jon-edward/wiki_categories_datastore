@@ -1,1 +1,1 @@
-{"name": "Deaths_from_kidney_cancer", "id": 18669473, "predecessors": [{"name": "Deaths_from_kidney_disease", "id": 19628090}, {"name": "Kidney_cancer", "id": 26723658}], "successors": []}
+{"name": "Deaths_from_kidney_cancer", "id": 18669473, "predecessors": [{"name": "Kidney_cancer", "id": 26723658}], "successors": []}

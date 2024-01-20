@@ -1,1 +1,1 @@
-{"name": "Santosham_Film_Awards", "id": 8355379, "predecessors": [{"name": "Indian_film_awards", "id": 10012051}, {"name": "Telugu_cinema", "id": 41583441}, {"name": "South_India", "id": 990205}], "successors": []}
+{"name": "Santosham_Film_Awards", "id": 8355379, "predecessors": [{"name": "Telugu_cinema", "id": 41583441}], "successors": [{"name": "Santosham_Film_Awards_winners", "id": 53721513}]}

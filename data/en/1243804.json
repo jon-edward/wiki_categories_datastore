@@ -1,1 +1,1 @@
-{"name": "Radio_telescopes", "id": 1243804, "predecessors": [{"name": "Radio_astronomy", "id": 2780251}, {"name": "Radio_observatories", "id": 49377898}, {"name": "Telescopes", "id": 1025823}], "successors": [{"name": "Cosmic_microwave_background_experiments", "id": 26375132}, {"name": "Square_Kilometre_Array", "id": 35939543}]}
+{"name": "Radio_telescopes", "id": 1243804, "predecessors": [{"name": "Radio_astronomy", "id": 2780251}, {"name": "Telescopes", "id": 1025823}], "successors": [{"name": "Cosmic_microwave_background_experiments", "id": 26375132}]}

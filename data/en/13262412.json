@@ -1,1 +1,1 @@
-{"name": "Sleep_physiology", "id": 13262412, "predecessors": [{"name": "Neurophysiology", "id": 3367631}, {"name": "Physiology", "id": 702173}, {"name": "Sleep", "id": 910767}], "successors": []}
+{"name": "Sleep_physiology", "id": 13262412, "predecessors": [{"name": "Sleep", "id": 910767}], "successors": []}

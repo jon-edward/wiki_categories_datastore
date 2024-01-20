@@ -1,1 +1,1 @@
-{"name": "Kollektivtransport_i_Telemark", "id": 1194616, "predecessors": [{"name": "Kollektivtransport_i_Vestfold_og_Telemark", "id": 1758699}, {"name": "Transport_i_Norge", "id": 39246}, {"name": "Administrative_inndelinger_i_Norge", "id": 497295}], "successors": [{"name": "Jernbanestasjoner_i_Telemark", "id": 1108691}]}
+{"name": "Kollektivtransport_i_Telemark", "id": 1194616, "predecessors": [{"name": "Transport_i_Norge", "id": 39246}, {"name": "Administrative_inndelinger_i_Norge", "id": 497295}], "successors": [{"name": "Jernbanestasjoner_i_Telemark", "id": 1108691}]}

@@ -1,1 +1,1 @@
-{"name": "American_gossip_columnists", "id": 58887334, "predecessors": [{"name": "Gossip_columnists", "id": 8098899}], "successors": []}
+{"name": "American_gossip_columnists", "id": 58887334, "predecessors": [{"name": "American_columnists", "id": 3041802}, {"name": "Gossip_columnists", "id": 8098899}], "successors": []}

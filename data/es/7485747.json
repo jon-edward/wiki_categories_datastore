@@ -1,1 +1,0 @@
-{"name": "Arrendamiento", "id": 7485747, "predecessors": [{"name": "Contratos", "id": 75769}, {"name": "Distribución_de_ingresos", "id": 6142616}, {"name": "Propiedad", "id": 1235581}], "successors": [{"name": "Sistemas_de_bicicletas_compartidas", "id": 4413677}, {"name": "Empresas_de_alquiler_de_automóviles", "id": 10194989}]}

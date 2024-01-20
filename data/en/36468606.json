@@ -1,1 +1,1 @@
-{"name": "Solar_car_racing", "id": 36468606, "predecessors": [{"name": "Auto_racing_by_type", "id": 5656089}, {"name": "Engineering_education", "id": 6643701}, {"name": "Solar-powered_vehicles", "id": 36468963}, {"name": "College_sports", "id": 1453059}], "successors": [{"name": "Solar_car_races", "id": 8784754}]}
+{"name": "Solar_car_racing", "id": 36468606, "predecessors": [{"name": "Engineering_education", "id": 6643701}, {"name": "College_sports", "id": 1453059}], "successors": [{"name": "Solar_car_races", "id": 8784754}]}

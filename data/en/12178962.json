@@ -1,0 +1,1 @@
+{"name": "Murder_committed_by_minors", "id": 12178962, "predecessors": [{"name": "Juvenile_delinquency", "id": 52135076}, {"name": "Murder", "id": 1167833}], "successors": [{"name": "Minors_convicted_of_murder", "id": 47205293}, {"name": "School_shootings_committed_by_pupils", "id": 47205671}, {"name": "Murder_committed_by_female_minors", "id": 75784874}]}

@@ -1,1 +1,1 @@
-{"name": "Fauna_of_the_Black_Sea", "id": 34410857, "predecessors": [{"name": "Fauna_of_the_Atlantic_Ocean", "id": 24823130}, {"name": "Biota_of_the_Atlantic_Ocean", "id": 34420445}], "successors": [{"name": "Fish_of_the_Black_Sea", "id": 29348086}]}
+{"name": "Fauna_of_the_Black_Sea", "id": 34410857, "predecessors": [{"name": "Black_Sea", "id": 2529165}], "successors": [{"name": "Fish_of_the_Black_Sea", "id": 29348086}]}

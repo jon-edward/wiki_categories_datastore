@@ -1,1 +1,1 @@
-{"name": "Muurit", "id": 29490, "predecessors": [{"name": "Rakennukset_ja_rakennelmat", "id": 25177}], "successors": [{"name": "Kaupunginmuurit", "id": 1296471}]}
+{"name": "Muurit", "id": 29490, "predecessors": [{"name": "Arkkitehtuurin_käsitteet", "id": 698464}, {"name": "Rakennuksen_maa-_ja_pihatyöt", "id": 456013}, {"name": "Rakennukset_ja_rakennelmat", "id": 25177}], "successors": [{"name": "Kaupunginmuurit", "id": 1296471}]}

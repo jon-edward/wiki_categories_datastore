@@ -1,1 +1,1 @@
-{"name": "German_male_weightlifters", "id": 51379922, "predecessors": [{"name": "Men", "id": 1585667}], "successors": [{"name": "West_German_male_weightlifters", "id": 52257097}, {"name": "East_German_male_weightlifters", "id": 73489293}]}
+{"name": "German_male_weightlifters", "id": 51379922, "predecessors": [{"name": "Weightlifting", "id": 930333}], "successors": [{"name": "West_German_male_weightlifters", "id": 52257097}, {"name": "East_German_male_weightlifters", "id": 73489293}]}

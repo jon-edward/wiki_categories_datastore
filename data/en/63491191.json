@@ -1,1 +1,1 @@
-{"name": "Micromobility", "id": 63491191, "predecessors": [{"name": "Land_transport", "id": 34296861}], "successors": [{"name": "Personal_transporters", "id": 31495148}, {"name": "Electric_bicycles", "id": 46697156}]}
+{"name": "Micromobility", "id": 63491191, "predecessors": [{"name": "Land_tenure", "id": 49153374}], "successors": []}

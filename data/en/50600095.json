@@ -1,1 +1,1 @@
-{"name": "Charitable_trusts", "id": 50600095, "predecessors": [{"name": "Charities", "id": 34436800}, {"name": "Charity_law", "id": 37646909}, {"name": "Wills_and_trusts", "id": 2288073}], "successors": [{"name": "Hulme_Trust", "id": 68559656}, {"name": "Charities_based_in_Wales", "id": 5774674}, {"name": "Charities_based_in_England", "id": 6127181}]}
+{"name": "Charitable_trusts", "id": 50600095, "predecessors": [{"name": "Charity_law", "id": 37646909}, {"name": "Wills_and_trusts", "id": 2288073}], "successors": [{"name": "Hulme_Trust", "id": 68559656}]}

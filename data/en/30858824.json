@@ -1,1 +1,1 @@
-{"name": "Automotive_standards", "id": 30858824, "predecessors": [{"name": "Automotive_industry", "id": 1338498}, {"name": "Automotive_safety", "id": 810226}, {"name": "Automotive_technologies", "id": 859604}, {"name": "Safety_codes", "id": 2706562}], "successors": [{"name": "Motorcycle_standards", "id": 32009329}, {"name": "New_Car_Assessment_Programs", "id": 38363108}]}
+{"name": "Automotive_standards", "id": 30858824, "predecessors": [{"name": "Automotive_safety", "id": 810226}, {"name": "Safety_codes", "id": 2706562}], "successors": []}

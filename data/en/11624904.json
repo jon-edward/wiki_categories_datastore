@@ -1,1 +1,1 @@
-{"name": "Architecture_educators", "id": 11624904, "predecessors": [{"name": "Architectural_education", "id": 6868095}, {"name": "Design_educators", "id": 39615239}], "successors": []}
+{"name": "Architecture_educators", "id": 11624904, "predecessors": [{"name": "Design_educators", "id": 39615239}, {"name": "Teaching", "id": 2478638}], "successors": []}

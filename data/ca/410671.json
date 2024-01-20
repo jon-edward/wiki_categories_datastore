@@ -1,1 +1,1 @@
-{"name": "Prenoms_masculins", "id": 410671, "predecessors": [{"name": "Home", "id": 1153233}, {"name": "Antroponímia", "id": 14758}], "successors": [{"name": "Prenoms_masculins_àrabs", "id": 411132}]}
+{"name": "Prenoms_masculins", "id": 410671, "predecessors": [{"name": "Antroponímia", "id": 14758}, {"name": "Gènere", "id": 566866}], "successors": [{"name": "Prenoms_masculins_àrabs", "id": 411132}]}

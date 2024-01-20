@@ -1,1 +1,1 @@
-{"name": "Individual_vases", "id": 67153295, "predecessors": [{"name": "Individual_pieces_of_pottery", "id": 49046679}, {"name": "Containers", "id": 1047091}], "successors": [{"name": "Individual_ancient_Greek_vases", "id": 8224456}]}
+{"name": "Individual_vases", "id": 67153295, "predecessors": [{"name": "Individual_pieces_of_pottery", "id": 49046679}, {"name": "Decorative_arts", "id": 15917611}], "successors": [{"name": "Individual_ancient_Greek_vases", "id": 8224456}, {"name": "Vase_sports_trophies", "id": 67170649}]}

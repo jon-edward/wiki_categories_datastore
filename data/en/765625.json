@@ -1,1 +1,1 @@
-{"name": "Rocket-powered_aircraft", "id": 765625, "predecessors": [{"name": "Rocketry", "id": 1421160}, {"name": "Power_(physics)", "id": 27860687}], "successors": [{"name": "Aircraft_with_auxiliary_rocket_engines", "id": 33236221}, {"name": "SpaceShipTwo", "id": 49755660}]}
+{"name": "Rocket-powered_aircraft", "id": 765625, "predecessors": [{"name": "Aviation", "id": 735378}], "successors": [{"name": "Aircraft_with_auxiliary_rocket_engines", "id": 33236221}, {"name": "SpaceShipTwo", "id": 49755660}]}

@@ -1,1 +1,1 @@
-{"name": "Cave_geology", "id": 1145457, "predecessors": [{"name": "Earth_sciences", "id": 716903}, {"name": "Geology", "id": 697077}], "successors": [{"name": "Speleothems", "id": 17317711}, {"name": "Speleologists", "id": 19687883}, {"name": "Karst", "id": 30494801}, {"name": "Evaporite", "id": 32832702}]}
+{"name": "Cave_geology", "id": 1145457, "predecessors": [{"name": "Earth_sciences", "id": 716903}, {"name": "Geology", "id": 697077}], "successors": [{"name": "Speleologists", "id": 19687883}, {"name": "Karst", "id": 30494801}, {"name": "Evaporite", "id": 32832702}]}

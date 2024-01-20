@@ -1,1 +1,0 @@
-{"name": "Dermatitis", "id": 19989232, "predecessors": [{"name": "Cutaneous_conditions", "id": 19985319}, {"name": "Inflammations", "id": 2308187}], "successors": [{"name": "Eczema", "id": 19989205}, {"name": "Contact_dermatitis", "id": 19989276}, {"name": "Pustular_dermatitis", "id": 19989300}, {"name": "Atopic_dermatitis", "id": 20026518}]}

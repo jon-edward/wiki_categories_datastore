@@ -1,1 +1,1 @@
-{"name": "Organisations_based_in_Barcelona", "id": 41396144, "predecessors": [{"name": "Barcelona", "id": 719201}], "successors": [{"name": "Companies_based_in_Barcelona", "id": 35870888}, {"name": "Sports_clubs_and_teams_in_Barcelona", "id": 57857091}]}
+{"name": "Organisations_based_in_Barcelona", "id": 41396144, "predecessors": [{"name": "Barcelona", "id": 719201}, {"name": "Organisations_based_in_Catalonia", "id": 29130779}], "successors": [{"name": "Companies_based_in_Barcelona", "id": 35870888}, {"name": "Sports_clubs_and_teams_in_Barcelona", "id": 57857091}]}

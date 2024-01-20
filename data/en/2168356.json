@@ -1,1 +1,1 @@
-{"name": "Comedy_musicians", "id": 2168356, "predecessors": [{"name": "Musical_theatre", "id": 692816}], "successors": [{"name": "Parody_musicians", "id": 3803629}, {"name": "Comedy_musical_groups", "id": 24039011}, {"name": "Comedy_rappers", "id": 74451284}]}
+{"name": "Comedy_musicians", "id": 2168356, "predecessors": [{"name": "Comedy", "id": 696823}, {"name": "Comedy_genres", "id": 14988940}], "successors": [{"name": "Parody_musicians", "id": 3803629}, {"name": "Comedy_musical_groups", "id": 24039011}, {"name": "Comedy_rappers", "id": 74451284}]}

@@ -1,1 +1,1 @@
-{"name": "Criminal_defense_lawyers", "id": 27392525, "predecessors": [{"name": "Criminal_defenses", "id": 1576540}, {"name": "Criminal_law", "id": 692799}, {"name": "Courts", "id": 1771407}], "successors": [{"name": "Public_defenders", "id": 37570126}, {"name": "Criminal_defense_organizations", "id": 47989085}]}
+{"name": "Criminal_defense_lawyers", "id": 27392525, "predecessors": [{"name": "Criminal_defenses", "id": 1576540}, {"name": "Criminal_law", "id": 692799}, {"name": "Courts", "id": 1771407}], "successors": []}

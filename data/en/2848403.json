@@ -1,1 +1,1 @@
-{"name": "Italian_drinks", "id": 2848403, "predecessors": [{"name": "Italian_cuisine", "id": 742859}, {"name": "Culture_of_Italy", "id": 715520}], "successors": [{"name": "Italian_alcoholic_drinks", "id": 24682529}, {"name": "Coffee_in_Italy", "id": 50716218}]}
+{"name": "Italian_drinks", "id": 2848403, "predecessors": [{"name": "Italian_cuisine", "id": 742859}], "successors": [{"name": "Coffee_in_Italy", "id": 50716218}, {"name": "Italian_wine", "id": 6042382}, {"name": "Wineries_of_Italy", "id": 3725419}, {"name": "Coffeehouses_and_cafés_in_Italy", "id": 25071697}]}

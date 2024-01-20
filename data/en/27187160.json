@@ -1,1 +1,1 @@
-{"name": "Tribology", "id": 27187160, "predecessors": [{"name": "Friction", "id": 33725189}, {"name": "Materials_science", "id": 709184}, {"name": "Mechanical_engineering", "id": 717561}, {"name": "Surface_science", "id": 2237966}], "successors": [{"name": "Tribologists", "id": 58763184}]}
+{"name": "Tribology", "id": 27187160, "predecessors": [{"name": "Friction", "id": 33725189}, {"name": "Materials_science", "id": 709184}], "successors": [{"name": "Tribologists", "id": 58763184}]}

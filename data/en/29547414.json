@@ -1,1 +1,1 @@
-{"name": "Book_of_Job", "id": 29547414, "predecessors": [{"name": "Ketuvim", "id": 3510549}, {"name": "Ancient_Hebrew_texts", "id": 56362413}, {"name": "Middle_Eastern_culture", "id": 1851513}], "successors": [{"name": "Book_of_Job_chapters", "id": 52025041}, {"name": "Job_(biblical_figure)", "id": 42123408}]}
+{"name": "Book_of_Job", "id": 29547414, "predecessors": [{"name": "Ketuvim", "id": 3510549}, {"name": "Wisdom_literature", "id": 20497537}, {"name": "Ancient_Hebrew_texts", "id": 56362413}], "successors": [{"name": "Book_of_Job_chapters", "id": 52025041}]}

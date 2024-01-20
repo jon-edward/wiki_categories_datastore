@@ -1,1 +1,1 @@
-{"name": "Prison_escapes", "id": 40240122, "predecessors": [{"name": "Escapes", "id": 18441957}, {"name": "Prison-related_crime", "id": 17286867}], "successors": [{"name": "Prison_raids", "id": 48751890}, {"name": "Fiction_about_prison_escapes", "id": 51318101}]}
+{"name": "Prison_escapes", "id": 40240122, "predecessors": [{"name": "Penal_imprisonment", "id": 2395638}, {"name": "Prison-related_crime", "id": 17286867}], "successors": [{"name": "Prison_raids", "id": 48751890}, {"name": "Fiction_about_prison_escapes", "id": 51318101}]}

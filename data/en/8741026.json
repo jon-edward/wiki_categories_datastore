@@ -1,1 +1,1 @@
-{"name": "Davidson_College", "id": 8741026, "predecessors": [{"name": "NCAA_conferences", "id": 27935685}, {"name": "Universities_and_colleges_in_the_United_States", "id": 1620371}], "successors": [{"name": "Davidson_College_alumni", "id": 9494557}, {"name": "Davidson_College_faculty", "id": 32479086}, {"name": "Presidents_of_Davidson_College", "id": 54450094}]}
+{"name": "Davidson_College", "id": 8741026, "predecessors": [{"name": "NCAA_Division_I", "id": 27934135}], "successors": [{"name": "Presidents_of_Davidson_College", "id": 54450094}]}

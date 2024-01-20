@@ -1,1 +1,1 @@
-{"name": "Windows_environment_variables", "id": 43453988, "predecessors": [{"name": "Windows_technology", "id": 43126260}, {"name": "Command_shells", "id": 6435584}], "successors": []}
+{"name": "Windows_environment_variables", "id": 43453988, "predecessors": [{"name": "Windows_technology", "id": 43126260}, {"name": "Computer_configuration", "id": 18694395}], "successors": []}

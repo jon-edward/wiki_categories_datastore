@@ -1,1 +1,1 @@
-{"name": "Taidetarvikkeet", "id": 707831, "predecessors": [{"name": "Ihmiset", "id": 1041580}], "successors": [{"name": "Väriaineet", "id": 555856}, {"name": "Piirustustarvikkeet", "id": 707825}, {"name": "Kuvanveiston_materiaalit", "id": 707872}]}
+{"name": "Taidetarvikkeet", "id": 707831, "predecessors": [{"name": "Ihmiset", "id": 1041580}], "successors": [{"name": "Väriaineet", "id": 555856}, {"name": "Piirustustarvikkeet", "id": 707825}, {"name": "Betoni", "id": 455978}]}

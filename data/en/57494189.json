@@ -1,1 +1,1 @@
-{"name": "Criminal_rock-throwing", "id": 57494189, "predecessors": [{"name": "Crime_by_type", "id": 15090762}, {"name": "Rocks", "id": 2629756}], "successors": [{"name": "Deaths_by_rocks_thrown_at_cars", "id": 46467090}]}
+{"name": "Criminal_rock-throwing", "id": 57494189, "predecessors": [{"name": "Rocks", "id": 2629756}], "successors": [{"name": "Deaths_by_rocks_thrown_at_cars", "id": 46467090}]}

@@ -1,1 +1,1 @@
-{"name": "Sistema_reproductor_masculí", "id": 578586, "predecessors": [{"name": "Home", "id": 1153233}, {"name": "Reproducció", "id": 374685}], "successors": [{"name": "Morts_de_càncer_de_pròstata", "id": 1893289}]}
+{"name": "Sistema_reproductor_masculí", "id": 578586, "predecessors": [{"name": "Reproducció", "id": 374685}, {"name": "Gènere", "id": 566866}], "successors": [{"name": "Penis", "id": 1981576}, {"name": "Morts_de_càncer_de_pròstata", "id": 1893289}]}

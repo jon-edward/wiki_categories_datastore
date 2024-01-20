@@ -1,1 +1,1 @@
-{"name": "Royal_Marines_ranks", "id": 1102693, "predecessors": [{"name": "Royal_Marines", "id": 788276}], "successors": []}
+{"name": "Royal_Marines_ranks", "id": 1102693, "predecessors": [{"name": "Military_personnel", "id": 6660319}, {"name": "Royal_Marines", "id": 788276}], "successors": []}

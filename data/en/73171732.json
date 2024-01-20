@@ -1,1 +1,1 @@
-{"name": "Topological_tensor_products", "id": 73171732, "predecessors": [{"name": "Functional_analysis", "id": 691866}, {"name": "Tensors", "id": 1012758}, {"name": "Topological_vector_spaces", "id": 7409974}, {"name": "Abstract_algebra", "id": 690672}], "successors": []}
+{"name": "Topological_tensor_products", "id": 73171732, "predecessors": [{"name": "Topological_vector_spaces", "id": 7409974}, {"name": "Abstract_algebra", "id": 690672}], "successors": []}

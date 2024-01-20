@@ -1,1 +1,1 @@
-{"name": "Troff", "id": 6463999, "predecessors": [{"name": "Markup_languages", "id": 892293}, {"name": "Unix_text_processing_utilities", "id": 25608187}, {"name": "Domain-specific_programming_languages", "id": 910359}], "successors": []}
+{"name": "Troff", "id": 6463999, "predecessors": [{"name": "Unix_text_processing_utilities", "id": 25608187}, {"name": "Domain-specific_programming_languages", "id": 910359}, {"name": "Mathematical_notation", "id": 1001537}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Highland", "id": 66817, "predecessors": [{"name": "Geografiske_inndelinger", "id": 1013363}], "successors": [{"name": "Byer_i_Highland", "id": 75230}, {"name": "Landsbyer_i_Highland", "id": 109209}, {"name": "Caithness", "id": 109319}, {"name": "Personer_fra_Highland", "id": 512491}]}
+{"name": "Highland", "id": 66817, "predecessors": [{"name": "Geografi", "id": 13178}], "successors": [{"name": "Byer_i_Highland", "id": 75230}, {"name": "Landsbyer_i_Highland", "id": 109209}, {"name": "Caithness", "id": 109319}, {"name": "Personer_fra_Highland", "id": 512491}]}

@@ -1,1 +1,0 @@
-{"name": "Schalten", "id": 8001957, "predecessors": [{"name": "Elektroinstallation", "id": 467762}, {"name": "Elektromechanik", "id": 1692375}], "successors": [{"name": "Schalter", "id": 1596241}, {"name": "Relais", "id": 3232159}, {"name": "Unterbrecher", "id": 8002003}]}

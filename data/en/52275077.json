@@ -1,1 +1,1 @@
-{"name": "Panama_Metro_stations", "id": 52275077, "predecessors": [{"name": "Buildings_and_structures_in_Panama_City", "id": 41937736}, {"name": "Panamá_Province", "id": 22603237}, {"name": "Panama_City", "id": 13578338}, {"name": "Railway_stations_by_type", "id": 72782274}], "successors": []}
+{"name": "Panama_Metro_stations", "id": 52275077, "predecessors": [{"name": "Rapid_transit", "id": 4286827}], "successors": []}

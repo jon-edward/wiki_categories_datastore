@@ -1,1 +1,1 @@
-{"name": "Oil_traders", "id": 17909238, "predecessors": [{"name": "Oil_and_gas_markets", "id": 55313149}, {"name": "Trading_companies", "id": 6989533}, {"name": "Oil_and_gas_companies", "id": 64429295}, {"name": "Commodity_markets", "id": 42311854}], "successors": []}
+{"name": "Oil_traders", "id": 17909238, "predecessors": [{"name": "Oil_and_gas_markets", "id": 55313149}, {"name": "Trading_companies", "id": 6989533}, {"name": "Oil_and_gas_companies", "id": 64429295}], "successors": []}

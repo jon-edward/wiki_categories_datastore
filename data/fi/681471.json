@@ -1,1 +1,1 @@
-{"name": "Suomen_puukirkot", "id": 681471, "predecessors": [{"name": "Puukirkot", "id": 676937}, {"name": "Kirkkohistoria", "id": 25988}], "successors": [{"name": "Suomen_puiset_ristikirkot", "id": 697580}, {"name": "Suomen_puiset_pitkäkirkot", "id": 699076}]}
+{"name": "Suomen_puukirkot", "id": 681471, "predecessors": [{"name": "Arkkitehtuuri", "id": 25092}, {"name": "Kirkkohistoria", "id": 25988}], "successors": [{"name": "Suomen_puiset_ristikirkot", "id": 697580}, {"name": "Suomen_puiset_pitkäkirkot", "id": 699076}]}

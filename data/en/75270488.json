@@ -1,1 +1,1 @@
-{"name": "Innkeepers", "id": 75270488, "predecessors": [{"name": "Drinking_establishment_owners", "id": 38704428}, {"name": "Historical_economic_occupations", "id": 53044201}, {"name": "Hoteliers", "id": 7961319}, {"name": "Restaurateurs", "id": 6023523}], "successors": []}
+{"name": "Innkeepers", "id": 75270488, "predecessors": [{"name": "Drinking_establishment_owners", "id": 38704428}, {"name": "Restaurateurs", "id": 6023523}], "successors": []}

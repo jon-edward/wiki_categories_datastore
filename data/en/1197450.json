@@ -1,1 +1,1 @@
-{"name": "Quantum_gravity", "id": 1197450, "predecessors": [{"name": "Physics_beyond_the_Standard_Model", "id": 37781448}, {"name": "Quantum_field_theory", "id": 799531}, {"name": "Theories_of_gravity", "id": 2317048}], "successors": [{"name": "String_theory", "id": 962873}, {"name": "Loop_quantum_gravity", "id": 1197454}]}
+{"name": "Quantum_gravity", "id": 1197450, "predecessors": [{"name": "Physics_beyond_the_Standard_Model", "id": 37781448}], "successors": [{"name": "String_theory", "id": 962873}, {"name": "Loop_quantum_gravity", "id": 1197454}]}

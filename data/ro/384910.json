@@ -1,1 +1,1 @@
-{"name": "Terminologie_informatică", "id": 384910, "predecessors": [{"name": "Informatică", "id": 12197}, {"name": "Cunoaștere", "id": 749849}], "successors": [{"name": "Terminologie_internet", "id": 954053}]}
+{"name": "Terminologie_informatică", "id": 384910, "predecessors": [{"name": "Informatică", "id": 12197}, {"name": "Terminologie_tehnică", "id": 384912}], "successors": [{"name": "Terminologie_internet", "id": 954053}]}

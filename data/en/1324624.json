@@ -1,1 +1,1 @@
-{"name": "Golf_equipment", "id": 1324624, "predecessors": [{"name": "Environment_and_society", "id": 15474891}], "successors": [{"name": "Golf_equipment_manufacturers", "id": 19299447}, {"name": "Golf_clubs", "id": 33918142}]}
+{"name": "Golf_equipment", "id": 1324624, "predecessors": [{"name": "Summer", "id": 6826679}], "successors": [{"name": "Golf_equipment_manufacturers", "id": 19299447}, {"name": "Golf_clubs", "id": 33918142}]}

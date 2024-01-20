@@ -1,1 +1,0 @@
-{"name": "Service_météorologique_en_Europe", "id": 2921256, "predecessors": [{"name": "Environnement_en_Europe", "id": 3304744}, {"name": "Agence_gouvernementale", "id": 1036897}], "successors": [{"name": "Météo-France", "id": 1797052}, {"name": "Met_Office", "id": 4492785}, {"name": "Satellite_météorologique_européen", "id": 8814502}]}

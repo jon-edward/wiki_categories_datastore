@@ -1,1 +1,1 @@
-{"name": "Kappa-opioid_receptor_agonists", "id": 27101186, "predecessors": [{"name": "Opioids", "id": 719361}], "successors": [{"name": "Morphine", "id": 35026059}]}
+{"name": "Kappa-opioid_receptor_agonists", "id": 27101186, "predecessors": [{"name": "Receptor_agonists", "id": 22002801}], "successors": [{"name": "Morphine", "id": 35026059}]}

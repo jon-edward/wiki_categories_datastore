@@ -1,1 +1,1 @@
-{"name": "Ancient_helmets", "id": 24512051, "predecessors": [{"name": "Helmets", "id": 750903}, {"name": "Military_equipment_of_antiquity", "id": 42806124}], "successors": [{"name": "Ancient_Greek_helmets", "id": 24512032}, {"name": "Ancient_Roman_helmets", "id": 24527211}]}
+{"name": "Ancient_helmets", "id": 24512051, "predecessors": [{"name": "Helmets", "id": 750903}], "successors": [{"name": "Ancient_Roman_helmets", "id": 24527211}]}

@@ -1,1 +1,1 @@
-{"name": "Romanian_newspaper_editors", "id": 12263845, "predecessors": [{"name": "Romanian_journalists", "id": 1626900}, {"name": "Culture_of_Romania", "id": 708507}, {"name": "Newspapers_published_in_Romania", "id": 6462252}], "successors": [{"name": "Adevărul_editors", "id": 34869217}]}
+{"name": "Romanian_newspaper_editors", "id": 12263845, "predecessors": [{"name": "Romanian_journalists", "id": 1626900}], "successors": [{"name": "Adevărul_editors", "id": 34869217}]}

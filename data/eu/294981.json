@@ -1,1 +1,1 @@
-{"name": "Emakume_abeslariak", "id": 294981, "predecessors": [{"name": "Abeslariak", "id": 5948}, {"name": "Emakumea_historian", "id": 581146}], "successors": [{"name": "Sopranoak", "id": 294979}, {"name": "Mezzosopranoak", "id": 396280}, {"name": "Kontraltoak", "id": 670555}]}
+{"name": "Emakume_abeslariak", "id": 294981, "predecessors": [{"name": "Abeslariak", "id": 5948}, {"name": "Emakumea", "id": 102211}], "successors": [{"name": "Sopranoak", "id": 294979}, {"name": "Mezzosopranoak", "id": 396280}, {"name": "Kontraltoak", "id": 670555}]}

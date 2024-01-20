@@ -1,1 +1,1 @@
-{"name": "Computer_book_publishing_companies", "id": 15488243, "predecessors": [{"name": "Computer_books", "id": 1081208}], "successors": [{"name": "O'Reilly_Media", "id": 22328252}]}
+{"name": "Computer_book_publishing_companies", "id": 15488243, "predecessors": [{"name": "Computer_books", "id": 1081208}], "successors": [{"name": "O'Reilly_Media", "id": 22328252}, {"name": "MIT_Press_academic_journals", "id": 26707031}, {"name": "MIT_Press_books", "id": 41927735}]}

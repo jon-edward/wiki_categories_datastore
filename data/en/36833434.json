@@ -1,1 +1,1 @@
-{"name": "Antibody_mimetics", "id": 36833434, "predecessors": [{"name": "Drugs", "id": 1325883}, {"name": "Engineered_proteins", "id": 6731801}, {"name": "Molecular_biology", "id": 714665}], "successors": []}
+{"name": "Antibody_mimetics", "id": 36833434, "predecessors": [{"name": "Engineered_proteins", "id": 6731801}], "successors": []}

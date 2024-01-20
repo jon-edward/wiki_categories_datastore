@@ -1,1 +1,1 @@
-{"name": "Educational_book_publishing_companies", "id": 8079671, "predecessors": [{"name": "Thought", "id": 983652}], "successors": [{"name": "Textbook_publishing_companies", "id": 42629249}]}
+{"name": "Educational_book_publishing_companies", "id": 8079671, "predecessors": [{"name": "Educational_publishing_companies", "id": 13504513}, {"name": "Academic_publishing", "id": 2239162}], "successors": [{"name": "Textbook_publishing_companies", "id": 42629249}]}

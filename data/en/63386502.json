@@ -1,1 +1,1 @@
-{"name": "Country_lockdowns", "id": 63386502, "predecessors": [{"name": "Emergency_laws", "id": 4000026}, {"name": "Geographic_classifications", "id": 53137668}, {"name": "Ageism", "id": 8783424}], "successors": []}
+{"name": "Country_lockdowns", "id": 63386502, "predecessors": [{"name": "Emergency_laws", "id": 4000026}, {"name": "Ageism", "id": 8783424}, {"name": "Cartography", "id": 716309}], "successors": []}

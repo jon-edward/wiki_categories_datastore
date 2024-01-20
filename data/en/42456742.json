@@ -1,1 +1,1 @@
-{"name": "Audio_player_software_that_uses_GTK", "id": 42456742, "predecessors": [{"name": "Audio_software_that_uses_GTK", "id": 42358464}, {"name": "Audio_software_for_Linux", "id": 42392164}], "successors": []}
+{"name": "Audio_player_software_that_uses_GTK", "id": 42456742, "predecessors": [{"name": "Audio_software_that_uses_GTK", "id": 42358464}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Luzera", "id": 599004, "predecessors": [{"name": "Magnitude_fisiko_eskalarrak", "id": 1132789}, {"name": "Magnitude_fisikoak", "id": 23916}, {"name": "Aeronautika", "id": 5952}], "successors": [{"name": "Luzera,_distantzia_edo_eremua_neurtzeko_tresnak", "id": 1105477}]}
+{"name": "Luzera", "id": 599004, "predecessors": [{"name": "Magnitude_fisiko_eskalarrak", "id": 1132789}, {"name": "Aeronautika", "id": 5952}, {"name": "Geometria", "id": 7334}], "successors": [{"name": "Luzera,_distantzia_edo_eremua_neurtzeko_tresnak", "id": 1105477}]}

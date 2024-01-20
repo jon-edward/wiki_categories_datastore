@@ -1,1 +1,1 @@
-{"name": "Flora_of_the_Alps", "id": 34474734, "predecessors": [{"name": "Alpine_flora", "id": 4168379}, {"name": "Flora_of_Middle_Europe", "id": 47133047}, {"name": "Environmental_conservation", "id": 35366151}, {"name": "Alps", "id": 757555}, {"name": "Flora_of_Europe", "id": 6858462}], "successors": [{"name": "Dryas_octopetala", "id": 75577449}]}
+{"name": "Flora_of_the_Alps", "id": 34474734, "predecessors": [{"name": "Alps", "id": 757555}], "successors": [{"name": "Dryas_octopetala", "id": 75577449}]}

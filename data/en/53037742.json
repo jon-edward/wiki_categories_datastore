@@ -1,1 +1,1 @@
-{"name": "John_Glenn", "id": 53037742, "predecessors": [{"name": "Space_Shuttle_program_astronauts", "id": 61267035}, {"name": "Human_spaceflight_programs", "id": 43562977}], "successors": [{"name": "Glenn_Research_Center", "id": 26262270}]}
+{"name": "John_Glenn", "id": 53037742, "predecessors": [{"name": "Space_Shuttle_program_astronauts", "id": 61267035}, {"name": "Aeronautics", "id": 1492803}], "successors": []}

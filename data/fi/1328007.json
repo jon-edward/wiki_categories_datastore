@@ -1,1 +1,1 @@
-{"name": "Huvilat", "id": 1328007, "predecessors": [{"name": "Rakennukset_ja_rakennelmat", "id": 25177}], "successors": [{"name": "Helsingin_huvilat_ja_villat", "id": 1571851}, {"name": "Espoon_huvilat", "id": 1599270}]}
+{"name": "Huvilat", "id": 1328007, "predecessors": [{"name": "Talotyypit", "id": 209321}, {"name": "Rakennukset_ja_rakennelmat", "id": 25177}], "successors": [{"name": "Helsingin_huvilat_ja_villat", "id": 1571851}, {"name": "Espoon_huvilat", "id": 1599270}]}

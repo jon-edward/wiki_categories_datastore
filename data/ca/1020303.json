@@ -1,1 +1,1 @@
-{"name": "Plantes_medicinals_monocotiledònies", "id": 1020303, "predecessors": [{"name": "Biologia_evolutiva", "id": 98936}], "successors": [{"name": "Plantes_medicinals_asparagals", "id": 1020305}, {"name": "Arròs", "id": 808432}]}
+{"name": "Plantes_medicinals_monocotiledònies", "id": 1020303, "predecessors": [{"name": "Biologia_evolutiva", "id": 98936}, {"name": "Plantes_medicinals", "id": 43957}], "successors": [{"name": "Plantes_medicinals_asparagals", "id": 1020305}, {"name": "Arròs", "id": 808432}]}

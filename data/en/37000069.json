@@ -1,1 +1,1 @@
-{"name": "Circadian_rhythm", "id": 37000069, "predecessors": [{"name": "Chronobiology", "id": 27090319}, {"name": "Physiology", "id": 702173}, {"name": "Sleep", "id": 910767}, {"name": "Day", "id": 16710267}], "successors": []}
+{"name": "Circadian_rhythm", "id": 37000069, "predecessors": [{"name": "Chronobiology", "id": 27090319}, {"name": "Sleep", "id": 910767}], "successors": [{"name": "Melatonin_receptor_agonists", "id": 44775516}]}

@@ -1,1 +1,1 @@
-{"name": "ARD_(broadcaster)_people", "id": 63157025, "predecessors": [{"name": "ARD_(broadcaster)", "id": 53492472}, {"name": "Networks", "id": 744360}], "successors": [{"name": "Tagesschau_(ARD)_presenters_and_reporters", "id": 68650367}]}
+{"name": "ARD_(broadcaster)_people", "id": 63157025, "predecessors": [{"name": "ARD_(broadcaster)", "id": 53492472}, {"name": "Broadcasting", "id": 765733}], "successors": [{"name": "Tagesschau_(ARD)_presenters_and_reporters", "id": 68650367}]}

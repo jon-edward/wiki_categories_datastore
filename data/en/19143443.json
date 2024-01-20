@@ -1,1 +1,1 @@
-{"name": "Deaths_by_firearm_in_Georgia_(U.S._state)", "id": 19143443, "predecessors": [{"name": "Deaths_by_firearm_in_the_United_States", "id": 10357088}, {"name": "Georgia_(U.S._state)_law", "id": 1195784}, {"name": "Southern_United_States", "id": 3668670}], "successors": [{"name": "Suicides_by_firearm_in_Georgia_(U.S._state)", "id": 22369974}]}
+{"name": "Deaths_by_firearm_in_Georgia_(U.S._state)", "id": 19143443, "predecessors": [{"name": "Deaths_by_firearm", "id": 5202201}], "successors": [{"name": "Suicides_by_firearm_in_Georgia_(U.S._state)", "id": 22369974}]}

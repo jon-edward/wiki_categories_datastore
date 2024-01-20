@@ -1,1 +1,1 @@
-{"name": "Laundry_drying_equipment", "id": 57468386, "predecessors": [{"name": "Laundry_equipment", "id": 57468088}], "successors": []}
+{"name": "Laundry_drying_equipment", "id": 57468386, "predecessors": [{"name": "Laundry", "id": 4474688}], "successors": []}

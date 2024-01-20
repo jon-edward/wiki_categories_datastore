@@ -1,1 +1,1 @@
-{"name": "Economic_liberalization", "id": 25660413, "predecessors": [{"name": "Economic_efficiency", "id": 2022327}, {"name": "Economic_liberalism", "id": 10314741}, {"name": "Economic_reforms", "id": 53001326}, {"name": "Free_market", "id": 18034672}], "successors": [{"name": "Privatization", "id": 38343832}]}
+{"name": "Economic_liberalization", "id": 25660413, "predecessors": [{"name": "Economic_liberalism", "id": 10314741}, {"name": "Economic_reforms", "id": 53001326}, {"name": "Free_market", "id": 18034672}], "successors": [{"name": "Privatization", "id": 38343832}]}

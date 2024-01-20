@@ -1,1 +1,1 @@
-{"name": "Ez-metal_diatomikoak", "id": 971556, "predecessors": [{"name": "Elementu_kimikoen_taldeak", "id": 969646}, {"name": "Gas_industrialak", "id": 971557}, {"name": "Elementu_kimikoak", "id": 3441}], "successors": [{"name": "Oxigenoa", "id": 68224}]}
+{"name": "Ez-metal_diatomikoak", "id": 971556, "predecessors": [{"name": "Elementu_kimikoen_taldeak", "id": 969646}, {"name": "Gas_industrialak", "id": 971557}, {"name": "Elementu_kimikoak", "id": 3441}], "successors": [{"name": "Oxigenoa", "id": 68224}, {"name": "Hidrogenoa", "id": 164420}]}

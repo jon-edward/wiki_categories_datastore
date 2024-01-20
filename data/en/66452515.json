@@ -1,1 +1,1 @@
-{"name": "Empathy", "id": 66452515, "predecessors": [{"name": "Cognitive_neuroscience", "id": 10690420}, {"name": "Interpersonal_relationships", "id": 1055603}, {"name": "Life_skills", "id": 28085670}, {"name": "Moral_psychology", "id": 12842966}], "successors": []}
+{"name": "Empathy", "id": 66452515, "predecessors": [{"name": "Cognitive_neuroscience", "id": 10690420}, {"name": "Emotions", "id": 20860353}, {"name": "Interpersonal_relationships", "id": 1055603}, {"name": "Life_skills", "id": 28085670}, {"name": "Moral_psychology", "id": 12842966}], "successors": []}

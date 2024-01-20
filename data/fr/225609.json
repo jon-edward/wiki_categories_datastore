@@ -1,1 +1,0 @@
-{"name": "Maladie_métabolique", "id": 225609, "predecessors": [{"name": "Maladie", "id": 87795}], "successors": [{"name": "Maladie_métabolique_congénitale", "id": 286502}, {"name": "Obésité", "id": 436453}, {"name": "Déséquilibre_électrolytique", "id": 14110317}]}

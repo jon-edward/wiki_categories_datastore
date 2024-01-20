@@ -1,1 +1,1 @@
-{"name": "Literary_trilogies", "id": 24122287, "predecessors": [{"name": "Trilogies", "id": 3469647}, {"name": "Narrative_forms", "id": 3245270}], "successors": [{"name": "Condor_Trilogy", "id": 4589800}, {"name": "Fantasy_novel_trilogies", "id": 29128623}, {"name": "Science_fiction_novel_trilogies", "id": 29128665}]}
+{"name": "Literary_trilogies", "id": 24122287, "predecessors": [{"name": "Books_by_type", "id": 1925647}, {"name": "Narrative_forms", "id": 3245270}], "successors": [{"name": "Condor_Trilogy", "id": 4589800}]}

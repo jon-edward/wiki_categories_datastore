@@ -1,1 +1,1 @@
-{"name": "Bicycle_parking", "id": 25381857, "predecessors": [{"name": "Cycling_infrastructure", "id": 31407588}, {"name": "Parking", "id": 3627417}, {"name": "Buildings_and_structures_by_type", "id": 6884364}], "successors": []}
+{"name": "Bicycle_parking", "id": 25381857, "predecessors": [{"name": "Parking", "id": 3627417}], "successors": []}

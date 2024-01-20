@@ -1,1 +1,1 @@
-{"name": "Restaurant_towers", "id": 54044290, "predecessors": [{"name": "Towers", "id": 791935}, {"name": "Buildings_and_structures_by_type", "id": 6884364}], "successors": [{"name": "Towers_with_revolving_restaurants", "id": 54045447}]}
+{"name": "Restaurant_towers", "id": 54044290, "predecessors": [{"name": "Buildings_and_structures_by_type", "id": 6884364}], "successors": [{"name": "Towers_with_revolving_restaurants", "id": 54045447}]}

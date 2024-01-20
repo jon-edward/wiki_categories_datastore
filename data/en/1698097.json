@@ -1,1 +1,1 @@
-{"name": "Weapon_guidance", "id": 1698097, "predecessors": [{"name": "Military_electronics", "id": 3007121}, {"name": "Targeting_(warfare)", "id": 25368222}, {"name": "Weapons", "id": 698507}], "successors": [{"name": "Missile_guidance", "id": 1095963}]}
+{"name": "Weapon_guidance", "id": 1698097, "predecessors": [{"name": "Military_electronics", "id": 3007121}, {"name": "Targeting_(warfare)", "id": 25368222}, {"name": "Weapons", "id": 698507}], "successors": [{"name": "Targeting_pods", "id": 1071642}, {"name": "Missile_guidance", "id": 1095963}]}

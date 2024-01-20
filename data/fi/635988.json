@@ -1,1 +1,1 @@
-{"name": "Tiedonhaku", "id": 635988, "predecessors": [{"name": "Informaatiotutkimus", "id": 155832}, {"name": "Tietojärjestelmätiede", "id": 244084}], "successors": [{"name": "Tiedonhallinta", "id": 788172}]}
+{"name": "Tiedonhaku", "id": 635988, "predecessors": [{"name": "Informaatiotutkimus", "id": 155832}, {"name": "Tietojärjestelmätiede", "id": 244084}], "successors": [{"name": "Hakukoneet", "id": 27535}, {"name": "Tiedonhallinta", "id": 788172}]}

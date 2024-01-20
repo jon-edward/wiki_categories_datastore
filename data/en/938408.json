@@ -1,1 +1,1 @@
-{"name": "G_proteins", "id": 938408, "predecessors": [{"name": "Cell_signaling", "id": 5754178}, {"name": "EC_3.6.5", "id": 11737893}, {"name": "Peripheral_membrane_proteins", "id": 719588}, {"name": "Signal_transduction", "id": 754106}], "successors": []}
+{"name": "G_proteins", "id": 938408, "predecessors": [{"name": "Peripheral_membrane_proteins", "id": 719588}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "SPAD_aircraft", "id": 36256662, "predecessors": [{"name": "Blériot_aircraft", "id": 12013281}, {"name": "Vehicles", "id": 694929}], "successors": []}
+{"name": "SPAD_aircraft", "id": 36256662, "predecessors": [{"name": "Blériot_aircraft", "id": 12013281}, {"name": "Aviation", "id": 735378}], "successors": []}

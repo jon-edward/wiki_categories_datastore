@@ -1,1 +1,1 @@
-{"name": "Sleight_of_hand", "id": 2952834, "predecessors": [{"name": "Deception", "id": 1212288}, {"name": "Magic_(illusion)", "id": 2620492}, {"name": "Motor_skills", "id": 1490530}, {"name": "Theft", "id": 1515403}], "successors": [{"name": "Card_tricks", "id": 2952685}, {"name": "Object_manipulation", "id": 40410448}]}
+{"name": "Sleight_of_hand", "id": 2952834, "predecessors": [{"name": "Magic_(illusion)", "id": 2620492}, {"name": "Motor_skills", "id": 1490530}], "successors": [{"name": "Card_tricks", "id": 2952685}, {"name": "Object_manipulation", "id": 40410448}]}

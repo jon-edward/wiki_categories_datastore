@@ -1,1 +1,1 @@
-{"name": "Non-volatile_memory", "id": 2024393, "predecessors": [{"name": "Computer_memory", "id": 877797}], "successors": [{"name": "Spintronics", "id": 5345784}]}
+{"name": "Non-volatile_memory", "id": 2024393, "predecessors": [{"name": "Computer_memory", "id": 877797}, {"name": "Solid-state_computer_storage", "id": 28177990}], "successors": []}

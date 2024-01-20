@@ -1,1 +1,0 @@
-{"name": "Battery_charging", "id": 34215626, "predecessors": [{"name": "Power_electronics", "id": 4532149}], "successors": [{"name": "Charging_stations", "id": 14083481}, {"name": "Wireless_energy_transfer", "id": 28018816}, {"name": "Electric_vehicle_infrastructure_developers", "id": 27859446}]}

@@ -1,1 +1,1 @@
-{"name": "BASIC_programming_language", "id": 3418154, "predecessors": [{"name": "Procedural_programming_languages", "id": 911358}], "successors": [{"name": "BASIC_compilers", "id": 3317241}, {"name": "Discontinued_BASICs", "id": 21031517}, {"name": "BASIC_interpreters", "id": 26158712}]}
+{"name": "BASIC_programming_language", "id": 3418154, "predecessors": [{"name": "Procedural_programming_languages", "id": 911358}], "successors": [{"name": "BASIC_compilers", "id": 3317241}]}

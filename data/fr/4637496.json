@@ -1,1 +1,0 @@
-{"name": "Transducteur", "id": 4637496, "predecessors": [{"name": "Composant_électronique", "id": 89359}, {"name": "Traitement_du_signal", "id": 108437}, {"name": "Électroacoustique", "id": 5330944}], "successors": [{"name": "Capteur", "id": 116410}, {"name": "Matériau_piézoélectrique", "id": 4637630}]}

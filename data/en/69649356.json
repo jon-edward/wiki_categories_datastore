@@ -1,1 +1,1 @@
-{"name": "German_literature_academics", "id": 69649356, "predecessors": [{"name": "German_literature", "id": 724505}, {"name": "Germanists", "id": 5009053}, {"name": "Literary_scholars", "id": 30315636}], "successors": [{"name": "American_academics_of_German_literature", "id": 71647882}]}
+{"name": "Scholars_of_German_literature", "id": 69649356, "predecessors": [{"name": "German_literature", "id": 724505}, {"name": "Literary_scholars", "id": 30315636}], "successors": [{"name": "American_academics_of_German_literature", "id": 71647882}]}

@@ -1,1 +1,1 @@
-{"name": "German_female_high_jumpers", "id": 51221179, "predecessors": [{"name": "Women_in_Germany", "id": 35077063}], "successors": [{"name": "East_German_female_high_jumpers", "id": 38287054}]}
+{"name": "German_female_high_jumpers", "id": 51221179, "predecessors": [{"name": "Female_high_jumpers", "id": 26335467}, {"name": "High_jump", "id": 22621045}, {"name": "Athletics_by_country", "id": 30874057}], "successors": [{"name": "East_German_female_high_jumpers", "id": 38287054}]}

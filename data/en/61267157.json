@@ -1,1 +1,1 @@
-{"name": "Skylab_program_astronauts", "id": 61267157, "predecessors": [{"name": "Skylab_program", "id": 850871}, {"name": "Human_spaceflight_programs", "id": 43562977}], "successors": [{"name": "Pete_Conrad", "id": 61484636}, {"name": "Alan_Bean", "id": 61497293}]}
+{"name": "Skylab_program_astronauts", "id": 61267157, "predecessors": [{"name": "Aeronautics", "id": 1492803}], "successors": [{"name": "Pete_Conrad", "id": 61484636}, {"name": "Alan_Bean", "id": 61497293}]}

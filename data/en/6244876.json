@@ -1,1 +1,1 @@
-{"name": "Acoustic_fingerprinting", "id": 6244876, "predecessors": [{"name": "Acoustics", "id": 796718}, {"name": "Digital_signal_processing", "id": 707453}, {"name": "Signal_processing", "id": 763505}, {"name": "Algorithms", "id": 691136}], "successors": []}
+{"name": "Acoustic_fingerprinting", "id": 6244876, "predecessors": [{"name": "Digital_signal_processing", "id": 707453}, {"name": "Signal_processing", "id": 763505}, {"name": "Algorithms", "id": 691136}], "successors": []}

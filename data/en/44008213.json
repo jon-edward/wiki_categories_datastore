@@ -1,1 +1,1 @@
-{"name": "3D_printed_firearms", "id": 44008213, "predecessors": [{"name": "3D_printed_objects", "id": 52049361}, {"name": "Weapon_development", "id": 1935335}, {"name": "Firearm_components", "id": 1033336}], "successors": []}
+{"name": "3D_printed_firearms", "id": 44008213, "predecessors": [{"name": "3D_printed_objects", "id": 52049361}, {"name": "Homemade_firearms", "id": 21050524}, {"name": "Weapon_development", "id": 1935335}, {"name": "Military_technology", "id": 1073580}], "successors": []}

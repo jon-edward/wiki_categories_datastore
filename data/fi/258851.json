@@ -1,1 +1,1 @@
-{"name": "Sisällönhallintajärjestelmät", "id": 258851, "predecessors": [{"name": "Tiedonhallinta", "id": 788172}, {"name": "Tietojärjestelmät", "id": 173197}, {"name": "Ohjelmistot", "id": 20754}], "successors": [{"name": "Wiki", "id": 120448}]}
+{"name": "Sisällönhallintajärjestelmät", "id": 258851, "predecessors": [{"name": "Systeemit", "id": 672186}, {"name": "Tiedonhallinta", "id": 788172}, {"name": "Tietojärjestelmät", "id": 173197}, {"name": "Ohjelmistot", "id": 20754}], "successors": [{"name": "Wiki", "id": 120448}]}

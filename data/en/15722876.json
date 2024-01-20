@@ -1,1 +1,1 @@
-{"name": "Carts", "id": 15722876, "predecessors": [{"name": "Animal-powered_vehicles", "id": 15770009}, {"name": "Horse_driving", "id": 13280505}, {"name": "Land_transport", "id": 34296861}], "successors": []}
+{"name": "Carts", "id": 15722876, "predecessors": [{"name": "Animal-powered_vehicles", "id": 15770009}, {"name": "Horse_driving", "id": 13280505}, {"name": "Land_tenure", "id": 49153374}], "successors": []}

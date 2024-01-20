@@ -1,1 +1,1 @@
-{"name": "Foods_with_alcoholic_drinks", "id": 48680692, "predecessors": [{"name": "Alcoholic_drinks", "id": 13294809}, {"name": "Food_and_drink", "id": 694860}], "successors": [{"name": "Flambéed_foods", "id": 23744312}, {"name": "Beer_dishes", "id": 52852650}, {"name": "Wine_dishes", "id": 56126644}]}
+{"name": "Foods_with_alcoholic_drinks", "id": 48680692, "predecessors": [{"name": "Alcoholic_drinks", "id": 13294809}, {"name": "Food_and_drink", "id": 694860}], "successors": [{"name": "Beer_dishes", "id": 52852650}]}

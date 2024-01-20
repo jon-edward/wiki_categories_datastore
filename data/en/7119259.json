@@ -1,1 +1,1 @@
-{"name": "Shoemakers", "id": 7119259, "predecessors": [{"name": "Craft_occupations", "id": 43362047}, {"name": "Service_retailing", "id": 55586648}, {"name": "Shoemaking", "id": 10928540}], "successors": [{"name": "Fiction_about_shoemakers", "id": 48561140}]}
+{"name": "Shoemakers", "id": 7119259, "predecessors": [{"name": "Craft_occupations", "id": 43362047}, {"name": "Shoemaking", "id": 10928540}, {"name": "Retail_formats", "id": 60643813}], "successors": [{"name": "Fiction_about_shoemakers", "id": 48561140}]}

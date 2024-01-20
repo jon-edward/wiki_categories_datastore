@@ -1,1 +1,1 @@
-{"name": "Developmental_biologists", "id": 11375969, "predecessors": [{"name": "Developmental_biology", "id": 714674}, {"name": "Branches_of_biology", "id": 37535091}], "successors": [{"name": "Embryologists", "id": 11493934}, {"name": "Teratologists", "id": 36636639}]}
+{"name": "Developmental_biologists", "id": 11375969, "predecessors": [{"name": "Developmental_biology", "id": 714674}, {"name": "Biology", "id": 692675}], "successors": [{"name": "Embryologists", "id": 11493934}, {"name": "Teratologists", "id": 36636639}]}

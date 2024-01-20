@@ -1,1 +1,1 @@
-{"name": "Kalkulua", "id": 43971, "predecessors": [{"name": "Analisi_matematikoa", "id": 121796}], "successors": [{"name": "Kalkulu_diferentziala", "id": 43924}, {"name": "Kalkulu_integrala", "id": 43926}, {"name": "Trigonometria", "id": 97694}, {"name": "Aldagai_anitzeko_kalkulua", "id": 1005053}]}
+{"name": "Kalkulua", "id": 43971, "predecessors": [{"name": "Analisi_matematikoa", "id": 121796}], "successors": [{"name": "Kalkulu_integrala", "id": 43926}, {"name": "Trigonometria", "id": 97694}]}

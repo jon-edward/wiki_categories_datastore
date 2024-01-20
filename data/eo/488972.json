@@ -1,1 +1,1 @@
-{"name": "Publika_transporto", "id": 488972, "predecessors": [{"name": "Transporto", "id": 51301}], "successors": [{"name": "Metrooj", "id": 101528}, {"name": "Publika_transporto_en_Francio", "id": 488970}, {"name": "Publika_transporto_en_Usono", "id": 557060}]}
+{"name": "Publika_transporto", "id": 488972, "predecessors": [{"name": "Transporto", "id": 51301}], "successors": [{"name": "Metrooj", "id": 101528}, {"name": "Publika_transporto_en_Francio", "id": 488970}, {"name": "Publika_transporto_en_Usono", "id": 557060}, {"name": "Tramtransporto_en_Ĉinio", "id": 849479}]}

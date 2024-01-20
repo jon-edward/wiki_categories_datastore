@@ -1,1 +1,1 @@
-{"name": "Copper_smelters", "id": 44072995, "predecessors": [{"name": "Chemical_plants", "id": 36353235}], "successors": []}
+{"name": "Copper_smelters", "id": 44072995, "predecessors": [{"name": "Smelting", "id": 38462896}], "successors": []}

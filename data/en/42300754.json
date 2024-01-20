@@ -1,1 +1,1 @@
-{"name": "Han_dynasty_literature", "id": 42300754, "predecessors": [{"name": "Chinese_culture", "id": 715451}, {"name": "Chinese_literature", "id": 752495}], "successors": [{"name": "Han_dynasty_essayists", "id": 42300701}, {"name": "2nd-century_Chinese_poets", "id": 49747231}]}
+{"name": "Han_dynasty_literature", "id": 42300754, "predecessors": [{"name": "Han_dynasty", "id": 42300580}, {"name": "Chinese_literature", "id": 752495}], "successors": [{"name": "Han_dynasty_essayists", "id": 42300701}]}

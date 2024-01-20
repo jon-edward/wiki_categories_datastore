@@ -1,1 +1,1 @@
-{"name": "Unsolved_murders_in_Australia", "id": 8702757, "predecessors": [{"name": "Health_by_country", "id": 2693630}, {"name": "Crime_in_Australia", "id": 2942659}, {"name": "Killings_by_type", "id": 50222534}, {"name": "Unsolved_deaths", "id": 40259972}, {"name": "Crime_in_Oceania", "id": 29494903}], "successors": [{"name": "Melbourne_gangland_killings", "id": 4873092}]}
+{"name": "Unsolved_murders_in_Australia", "id": 8702757, "predecessors": [{"name": "Murder", "id": 1167833}], "successors": [{"name": "Melbourne_gangland_killings", "id": 4873092}]}

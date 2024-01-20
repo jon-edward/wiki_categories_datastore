@@ -1,1 +1,1 @@
-{"name": "Cider", "id": 1499225, "predecessors": [{"name": "Fermented_drinks", "id": 4193389}, {"name": "Apples", "id": 848893}], "successors": [{"name": "Brands_of_cider", "id": 14589914}, {"name": "Cider_mills", "id": 73797071}]}
+{"name": "Cider", "id": 1499225, "predecessors": [{"name": "Fermented_drinks", "id": 4193389}, {"name": "Apples", "id": 848893}], "successors": [{"name": "Brands_of_cider", "id": 14589914}]}

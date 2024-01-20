@@ -1,1 +1,1 @@
-{"name": "Food_antioxidants", "id": 9903596, "predecessors": [{"name": "Antioxidants", "id": 1045727}, {"name": "Food_additives", "id": 717916}, {"name": "Preservatives", "id": 901298}, {"name": "Materials", "id": 722279}], "successors": []}
+{"name": "Food_antioxidants", "id": 9903596, "predecessors": [{"name": "Food_additives", "id": 717916}, {"name": "Preservatives", "id": 901298}, {"name": "Materials", "id": 722279}], "successors": []}

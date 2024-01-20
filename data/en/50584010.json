@@ -1,1 +1,1 @@
-{"name": "Vote_counting", "id": 50584010, "predecessors": [{"name": "Voting", "id": 15854681}, {"name": "Numbers", "id": 698425}], "successors": []}
+{"name": "Vote_counting", "id": 50584010, "predecessors": [{"name": "Voting", "id": 15854681}], "successors": []}

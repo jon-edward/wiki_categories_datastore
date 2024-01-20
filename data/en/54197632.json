@@ -1,1 +1,1 @@
-{"name": "SES_S.A.", "id": 54197632, "predecessors": [{"name": "Communications_satellite_operators", "id": 22178661}, {"name": "Telecommunications_by_country", "id": 5073807}], "successors": [{"name": "Astra_satellites", "id": 39632894}, {"name": "SES_satellites", "id": 39632981}]}
+{"name": "SES_S.A.", "id": 54197632, "predecessors": [{"name": "Communications_satellite_operators", "id": 22178661}], "successors": [{"name": "Astra_satellites", "id": 39632894}, {"name": "SES_satellites", "id": 39632981}]}

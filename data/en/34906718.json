@@ -1,1 +1,1 @@
-{"name": "Flow_cytometry", "id": 34906718, "predecessors": [{"name": "Biological_techniques_and_tools", "id": 5881429}, {"name": "Laboratory_techniques", "id": 1305783}], "successors": []}
+{"name": "Flow_cytometry", "id": 34906718, "predecessors": [{"name": "Laboratory_techniques", "id": 1305783}], "successors": []}

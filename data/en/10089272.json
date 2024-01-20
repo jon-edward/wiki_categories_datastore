@@ -1,1 +1,1 @@
-{"name": "Art_duos", "id": 10089272, "predecessors": [{"name": "Art_occupations", "id": 63223006}], "successors": [{"name": "Animation_duos", "id": 34779816}, {"name": "Donaldson_and_Scheffler", "id": 62668865}]}
+{"name": "Art_duos", "id": 10089272, "predecessors": [{"name": "Art", "id": 5344528}], "successors": [{"name": "Animation_duos", "id": 34779816}, {"name": "Donaldson_and_Scheffler", "id": 62668865}]}

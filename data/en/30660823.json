@@ -1,1 +1,1 @@
-{"name": "Parachuting_deaths", "id": 30660823, "predecessors": [{"name": "Accidental_deaths_from_falls", "id": 8919479}, {"name": "Deaths_in_sport", "id": 6344465}, {"name": "Parachuting", "id": 1172127}], "successors": [{"name": "Wingsuit_flight_deaths", "id": 46735602}]}
+{"name": "Parachuting_deaths", "id": 30660823, "predecessors": [{"name": "Parachuting", "id": 1172127}], "successors": []}

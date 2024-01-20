@@ -1,1 +1,1 @@
-{"name": "Cheese_retailers", "id": 46630317, "predecessors": [{"name": "Cheese", "id": 3464727}, {"name": "Food_retailers", "id": 21550842}], "successors": []}
+{"name": "Cheese_retailers", "id": 46630317, "predecessors": [{"name": "Cheese", "id": 3464727}, {"name": "Food_retailers", "id": 21550842}, {"name": "Retailers_by_type_of_merchandise_sold", "id": 55586528}], "successors": []}

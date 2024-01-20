@@ -1,1 +1,1 @@
-{"name": "Suomen_kunnanvaltuustot", "id": 759759, "predecessors": [{"name": "Suomen_kunnallishallinto", "id": 754060}], "successors": []}
+{"name": "Suomen_kunnanvaltuustot", "id": 759759, "predecessors": [{"name": "Suomen_kunnallishallinto", "id": 754060}, {"name": "Asuminen", "id": 24802}], "successors": [{"name": "Suomen_kaupunginvaltuustot", "id": 1782534}]}

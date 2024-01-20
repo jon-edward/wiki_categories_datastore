@@ -1,1 +1,1 @@
-{"name": "Automatické_kanóny", "id": 1704761, "predecessors": [{"name": "Kanóny", "id": 100309}, {"name": "Samočinné_zbraně", "id": 6847}], "successors": []}
+{"name": "Automatické_kanóny", "id": 1704761, "predecessors": [{"name": "Kanóny", "id": 100309}, {"name": "Samočinné_zbraně", "id": 6847}], "successors": [{"name": "Revolverové_kanóny", "id": 1902832}]}

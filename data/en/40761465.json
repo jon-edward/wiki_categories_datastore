@@ -1,1 +1,1 @@
-{"name": "Groundskeepers", "id": 40761465, "predecessors": [{"name": "Lawn_care", "id": 5978396}, {"name": "Sports_venue_managers", "id": 57495222}, {"name": "Gardening", "id": 740309}], "successors": []}
+{"name": "Groundskeepers", "id": 40761465, "predecessors": [{"name": "Lawn_care", "id": 5978396}, {"name": "Gardening", "id": 740309}], "successors": []}

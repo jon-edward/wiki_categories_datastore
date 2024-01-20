@@ -1,1 +1,1 @@
-{"name": "Therizinosaurs", "id": 4480849, "predecessors": [{"name": "Clawed_herbivores", "id": 43703916}, {"name": "Prehistoric_maniraptorans", "id": 56117036}, {"name": "Chordates", "id": 912575}], "successors": []}
+{"name": "Therizinosaurs", "id": 4480849, "predecessors": [{"name": "Clawed_herbivores", "id": 43703916}, {"name": "Herbivory", "id": 10928120}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Animal_racing", "id": 23391353, "predecessors": [{"name": "Animals_in_sport", "id": 5986124}], "successors": [{"name": "Horse_racing", "id": 866747}, {"name": "Greyhound_racing", "id": 2306823}, {"name": "Pigeon_racing", "id": 8984307}, {"name": "Horse_racing_video_games", "id": 68262429}]}
+{"name": "Animal_racing", "id": 23391353, "predecessors": [{"name": "Animals_in_sport", "id": 5986124}], "successors": [{"name": "Horse_racing", "id": 866747}, {"name": "Pigeon_racing", "id": 8984307}, {"name": "Animal_welfare_in_greyhound_racing", "id": 50696329}]}

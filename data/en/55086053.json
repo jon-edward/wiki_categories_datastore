@@ -1,1 +1,1 @@
-{"name": "Mudstone_formations", "id": 55086053, "predecessors": [{"name": "Petrology", "id": 1105513}], "successors": [{"name": "Salamanca_Formation", "id": 72135060}, {"name": "Santa_Cruz_Formation", "id": 72370682}]}
+{"name": "Mudstone_formations", "id": 55086053, "predecessors": [{"name": "Sedimentary_rocks", "id": 717421}, {"name": "Petrology", "id": 1105513}], "successors": [{"name": "Salamanca_Formation", "id": 72135060}, {"name": "Santa_Cruz_Formation", "id": 72370682}]}

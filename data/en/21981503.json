@@ -1,1 +1,1 @@
-{"name": "Conditionals", "id": 21981503, "predecessors": [{"name": "Logical_consequence", "id": 27615654}, {"name": "Propositions", "id": 34489602}, {"name": "Semantics", "id": 776364}], "successors": [{"name": "Conditional_constructs", "id": 10974311}]}
+{"name": "Conditionals", "id": 21981503, "predecessors": [{"name": "Propositions", "id": 34489602}, {"name": "Semantics", "id": 776364}], "successors": [{"name": "Conditional_constructs", "id": 10974311}]}

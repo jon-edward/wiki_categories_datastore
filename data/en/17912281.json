@@ -1,1 +1,1 @@
-{"name": "Commuting", "id": 17912281, "predecessors": [{"name": "Public_transport", "id": 700497}, {"name": "City", "id": 9467493}, {"name": "Urban_planning", "id": 705232}], "successors": []}
+{"name": "Commuting", "id": 17912281, "predecessors": [{"name": "Urban_planning", "id": 705232}], "successors": []}

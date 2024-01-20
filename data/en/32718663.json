@@ -1,1 +1,1 @@
-{"name": "Traffic_signals", "id": 32718663, "predecessors": [{"name": "Pedestrian_crossings", "id": 3660631}, {"name": "Road_safety", "id": 3500284}, {"name": "Road_traffic_management", "id": 13986772}, {"name": "Street_furniture", "id": 965867}, {"name": "Optical_communications", "id": 16069265}], "successors": []}
+{"name": "Traffic_signals", "id": 32718663, "predecessors": [{"name": "Road_safety", "id": 3500284}, {"name": "Street_furniture", "id": 965867}, {"name": "Types_of_lamp", "id": 45198981}], "successors": []}

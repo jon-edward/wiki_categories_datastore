@@ -1,1 +1,1 @@
-{"name": "Military_symbols", "id": 3168484, "predecessors": [{"name": "Military", "id": 716572}], "successors": [{"name": "Naval_ensigns", "id": 51850232}]}
+{"name": "Military_symbols", "id": 3168484, "predecessors": [{"name": "Military", "id": 716572}], "successors": [{"name": "Military_insignia", "id": 1673195}, {"name": "Naval_ensigns", "id": 51850232}]}

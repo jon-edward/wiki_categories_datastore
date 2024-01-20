@@ -1,1 +1,1 @@
-{"name": "Pilgrimage_accounts", "id": 27321998, "predecessors": [{"name": "Travel_books", "id": 1241441}, {"name": "Pilgrimage", "id": 725614}], "successors": [{"name": "Hajj_accounts", "id": 37658373}]}
+{"name": "Pilgrimage_accounts", "id": 27321998, "predecessors": [{"name": "Travel_books", "id": 1241441}], "successors": [{"name": "Hajj_accounts", "id": 37658373}]}

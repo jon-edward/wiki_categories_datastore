@@ -1,1 +1,1 @@
-{"name": "Formula_5000", "id": 17801420, "predecessors": [{"name": "Formula_racing", "id": 3460564}, {"name": "Formula_racing_series", "id": 14690937}], "successors": [{"name": "Tasman_Series", "id": 13677804}, {"name": "Formula_5000_cars", "id": 20496136}, {"name": "Formula_5000_race_reports", "id": 20498202}]}
+{"name": "Formula_5000", "id": 17801420, "predecessors": [{"name": "Formula_racing_series", "id": 14690937}], "successors": [{"name": "Tasman_Series", "id": 13677804}]}

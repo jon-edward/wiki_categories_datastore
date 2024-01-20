@@ -1,1 +1,1 @@
-{"name": "Canadian_drinks", "id": 24682347, "predecessors": [{"name": "Canadian_cuisine", "id": 706035}, {"name": "Food_and_drink_in_Canada", "id": 12148246}], "successors": [{"name": "Drink_companies_of_Canada", "id": 1770532}, {"name": "Canadian_alcoholic_drinks", "id": 24682330}]}
+{"name": "Canadian_drinks", "id": 24682347, "predecessors": [{"name": "Canadian_cuisine", "id": 706035}], "successors": [{"name": "Drink_companies_of_Canada", "id": 1770532}, {"name": "Canadian_alcoholic_drinks", "id": 24682330}]}

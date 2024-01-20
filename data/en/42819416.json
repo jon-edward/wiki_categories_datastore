@@ -1,1 +1,1 @@
-{"name": "Tombs_in_Italy", "id": 42819416, "predecessors": [{"name": "Tombs", "id": 35250394}, {"name": "Burials_in_Italy", "id": 13047224}], "successors": []}
+{"name": "Tombs_in_Italy", "id": 42819416, "predecessors": [{"name": "Tombs", "id": 35250394}], "successors": [{"name": "Cemeteries_and_tombs_in_Rome", "id": 4825997}, {"name": "Etruscan_tombs", "id": 33027221}]}

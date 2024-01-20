@@ -1,0 +1,1 @@
+{"name": "Transfer_tax", "id": 51044196, "predecessors": [{"name": "Trade", "id": 18526113}], "successors": [{"name": "Sales_taxes", "id": 16868415}]}

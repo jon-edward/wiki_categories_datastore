@@ -1,1 +1,1 @@
-{"name": "Tennis_Napoli_Cup", "id": 35573751, "predecessors": [{"name": "ATP_Challenger_Tour", "id": 21431308}, {"name": "ATP_Tour", "id": 12843681}, {"name": "Clay_court_tennis_tournaments", "id": 12843499}, {"name": "Tennis_tournaments_in_Italy", "id": 5796275}], "successors": []}
+{"name": "Tennis_Napoli_Cup", "id": 35573751, "predecessors": [{"name": "Clay_court_tennis_tournaments", "id": 12843499}], "successors": []}

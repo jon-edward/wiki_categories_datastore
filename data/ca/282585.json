@@ -1,1 +1,1 @@
-{"name": "Competicions_tennístiques_femenines", "id": 282585, "predecessors": [{"name": "Competicions_esportives_femenines", "id": 281920}, {"name": "Esports_de_pilota", "id": 118359}, {"name": "Dona", "id": 622030}], "successors": [{"name": "WTA_Tour", "id": 562479}]}
+{"name": "Competicions_tennístiques_femenines", "id": 282585, "predecessors": [{"name": "Esports_de_pilota", "id": 118359}, {"name": "Dona", "id": 622030}, {"name": "Competicions_esportives_femenines", "id": 281920}], "successors": [{"name": "WTA_Tour", "id": 562479}]}

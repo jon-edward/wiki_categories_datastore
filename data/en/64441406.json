@@ -1,1 +1,1 @@
-{"name": "Film_people_from_Bavaria", "id": 64441406, "predecessors": [{"name": "Film", "id": 2012004}], "successors": [{"name": "Film_people_from_Munich", "id": 63978361}, {"name": "Film_directors_from_Munich", "id": 63977177}]}
+{"name": "Film_people_from_Bavaria", "id": 64441406, "predecessors": [{"name": "Mass_media_people_from_Bavaria", "id": 64403012}, {"name": "German_mass_media_people", "id": 38512493}], "successors": [{"name": "Film_people_from_Munich", "id": 63978361}]}

@@ -1,1 +1,1 @@
-{"name": "Conditions_diagnosed_by_stool_test", "id": 9046250, "predecessors": [{"name": "Human_diseases_and_disorders", "id": 48701151}, {"name": "Stool_tests", "id": 9026557}], "successors": [{"name": "Diarrhea", "id": 31039123}]}
+{"name": "Conditions_diagnosed_by_stool_test", "id": 9046250, "predecessors": [{"name": "Stool_tests", "id": 9026557}], "successors": [{"name": "Diarrhea", "id": 31039123}]}

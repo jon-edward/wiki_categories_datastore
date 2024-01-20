@@ -1,1 +1,1 @@
-{"name": "Ceramic_glazes", "id": 27964842, "predecessors": [{"name": "Ceramics", "id": 2014113}, {"name": "Coatings", "id": 4931478}, {"name": "Pottery", "id": 999447}], "successors": [{"name": "Vitreous_enamel", "id": 27802956}]}
+{"name": "Ceramic_glazes", "id": 27964842, "predecessors": [{"name": "Coatings", "id": 4931478}, {"name": "Pottery", "id": 999447}], "successors": [{"name": "Vitreous_enamel", "id": 27802956}]}

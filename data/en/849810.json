@@ -1,1 +1,1 @@
-{"name": "Metallurgists", "id": 849810, "predecessors": [{"name": "Metallurgy", "id": 977017}], "successors": []}
+{"name": "Metallurgists", "id": 849810, "predecessors": [{"name": "Metallurgy", "id": 977017}], "successors": [{"name": "British_ironmasters", "id": 44075699}, {"name": "Australian_ironmasters", "id": 44631537}, {"name": "American_ironmasters", "id": 58478847}, {"name": "Swedish_ironmasters", "id": 58478867}]}

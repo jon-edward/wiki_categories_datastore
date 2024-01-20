@@ -1,1 +1,1 @@
-{"name": "Patrons_of_literature", "id": 4942078, "predecessors": [{"name": "Patrons_of_the_arts", "id": 40834601}], "successors": [{"name": "Italian_literature_patrons", "id": 55361428}, {"name": "French_patrons_of_literature", "id": 63281029}]}
+{"name": "Patrons_of_literature", "id": 4942078, "predecessors": [{"name": "Patrons_of_the_arts", "id": 40834601}, {"name": "Books", "id": 694040}], "successors": []}

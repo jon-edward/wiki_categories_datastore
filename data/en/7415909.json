@@ -1,1 +1,1 @@
-{"name": "Chemical_formulas", "id": 7415909, "predecessors": [{"name": "Chemical_nomenclature", "id": 2296270}, {"name": "Formulas", "id": 69894286}, {"name": "Chemistry", "id": 691185}], "successors": [{"name": "Molecular_formulas", "id": 24232296}]}
+{"name": "Chemical_formulas", "id": 7415909, "predecessors": [{"name": "Chemical_nomenclature", "id": 2296270}, {"name": "Chemistry", "id": 691185}], "successors": [{"name": "Molecular_formulas", "id": 24232296}]}

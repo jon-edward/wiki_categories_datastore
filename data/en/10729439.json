@@ -1,1 +1,1 @@
-{"name": "Arts_centres_in_England", "id": 10729439, "predecessors": [{"name": "Arts_organisations_based_in_England", "id": 55071689}, {"name": "English_culture", "id": 2210082}, {"name": "Arts_centres", "id": 1024182}], "successors": [{"name": "Arts_centres_in_London", "id": 24067238}]}
+{"name": "Arts_centres_in_England", "id": 10729439, "predecessors": [{"name": "Arts_centres", "id": 1024182}], "successors": [{"name": "Arts_centres_in_London", "id": 24067238}]}

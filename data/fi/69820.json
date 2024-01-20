@@ -1,1 +1,1 @@
-{"name": "Joukko-oppi", "id": 69820, "predecessors": [{"name": "Matemaattinen_logiikka", "id": 168760}], "successors": [{"name": "Graafiteoria", "id": 38388}]}
+{"name": "Joukko-oppi", "id": 69820, "predecessors": [{"name": "Matemaattinen_logiikka", "id": 168760}], "successors": [{"name": "Graafiteoria", "id": 38388}, {"name": "Funktiot", "id": 264323}]}

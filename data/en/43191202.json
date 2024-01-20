@@ -1,1 +1,1 @@
-{"name": "Football_clubs_in_Novi_Sad", "id": 43191202, "predecessors": [{"name": "Sport_in_Novi_Sad", "id": 6858426}], "successors": [{"name": "FK_Vojvodina_players", "id": 4703180}, {"name": "FK_Vojvodina_managers", "id": 22675044}, {"name": "FK_Vojvodina_seasons", "id": 38973746}, {"name": "FK_Proleter_Novi_Sad_players", "id": 29991225}, {"name": "RFK_Novi_Sad_1921_players", "id": 42004276}]}
+{"name": "Football_clubs_in_Novi_Sad", "id": 43191202, "predecessors": [{"name": "Sport_in_Novi_Sad", "id": 6858426}], "successors": []}

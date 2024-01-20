@@ -1,1 +1,1 @@
-{"name": "Plays_based_on_works_by_Euripides", "id": 63316307, "predecessors": [{"name": "Works_based_on_classical_literature", "id": 32103256}, {"name": "Artistic_techniques", "id": 891248}], "successors": []}
+{"name": "Plays_based_on_works_by_Euripides", "id": 63316307, "predecessors": [{"name": "Classical_literature", "id": 49957299}, {"name": "Artistic_techniques", "id": 891248}], "successors": []}

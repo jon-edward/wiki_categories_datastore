@@ -1,1 +1,1 @@
-{"name": "Schempp-Hirth_aircraft", "id": 18486598, "predecessors": [{"name": "Glider_manufacturers", "id": 54212526}, {"name": "Glider_aircraft", "id": 751910}, {"name": "Goods_manufactured_in_Germany", "id": 5165917}], "successors": []}
+{"name": "Schempp-Hirth_aircraft", "id": 18486598, "predecessors": [{"name": "Glider_manufacturers", "id": 54212526}, {"name": "Glider_aircraft", "id": 751910}, {"name": "Aviation", "id": 735378}], "successors": []}

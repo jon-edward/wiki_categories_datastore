@@ -1,1 +1,1 @@
-{"name": "Mahaigain_ingurune_libreak", "id": 105680, "predecessors": [{"name": "Software_librea", "id": 4251}, {"name": "Erabiltzaile_interfazeak", "id": 105684}], "successors": [{"name": "GNOME", "id": 7630}, {"name": "KDE", "id": 10979}, {"name": "Xfce", "id": 98293}]}
+{"name": "Mahaigain_ingurune_libreak", "id": 105680, "predecessors": [{"name": "Software_librea", "id": 4251}, {"name": "Erabiltzaile_interfazeak", "id": 105684}], "successors": []}

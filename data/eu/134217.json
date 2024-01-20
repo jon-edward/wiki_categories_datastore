@@ -1,1 +1,1 @@
-{"name": "Neurofisiologia", "id": 134217, "predecessors": [{"name": "Nerbio-sistema", "id": 22507}], "successors": [{"name": "Erreflexuak", "id": 974003}]}
+{"name": "Neurofisiologia", "id": 134217, "predecessors": [{"name": "Fisiologia", "id": 4343}, {"name": "Nerbio-sistema", "id": 22507}], "successors": [{"name": "Erreflexuak", "id": 974003}]}

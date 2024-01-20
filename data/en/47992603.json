@@ -1,1 +1,1 @@
-{"name": "Canadian_news_websites", "id": 47992603, "predecessors": [{"name": "Canadian_websites", "id": 15654011}, {"name": "Americas", "id": 1526345}], "successors": [{"name": "National_Film_Board_of_Canada_web_documentaries", "id": 43079634}, {"name": "Maclean's_writers_and_editors", "id": 47443546}]}
+{"name": "Canadian_news_websites", "id": 47992603, "predecessors": [{"name": "Online_journalism", "id": 26732328}], "successors": [{"name": "National_Film_Board_of_Canada_web_documentaries", "id": 43079634}, {"name": "Maclean's_writers_and_editors", "id": 47443546}]}

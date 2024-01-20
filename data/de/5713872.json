@@ -1,1 +1,0 @@
-{"name": "Elektrokraftfahrzeug", "id": 5713872, "predecessors": [{"name": "Elektrogerät", "id": 295771}, {"name": "Kraftfahrzeug", "id": 339615}], "successors": [{"name": "Elektrokraftrad", "id": 5713813}, {"name": "Omnibus_mit_Elektroantrieb", "id": 6464680}, {"name": "Oberleitungsbusfahrzeug", "id": 6739562}, {"name": "Hybridelektroautomodell", "id": 9518698}]}

@@ -1,1 +1,1 @@
-{"name": "Outdoor_sculptures_in_Germany", "id": 31752795, "predecessors": [{"name": "Sculptures_in_Germany", "id": 40866225}], "successors": [{"name": "Fountains_in_Germany", "id": 25818423}, {"name": "Outdoor_sculptures_in_Berlin", "id": 52031781}]}
+{"name": "Outdoor_sculptures_in_Germany", "id": 31752795, "predecessors": [{"name": "Sculptures_in_Germany", "id": 40866225}, {"name": "German_art", "id": 3774333}], "successors": [{"name": "Fountains_in_Germany", "id": 25818423}]}

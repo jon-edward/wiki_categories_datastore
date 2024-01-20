@@ -1,1 +1,1 @@
-{"name": "Deaths_from_cholera", "id": 7483504, "predecessors": [{"name": "Cholera", "id": 20614770}, {"name": "Deaths_from_digestive_disease", "id": 19627699}, {"name": "Infectious_diseases", "id": 707355}], "successors": []}
+{"name": "Deaths_from_cholera", "id": 7483504, "predecessors": [{"name": "Cholera", "id": 20614770}], "successors": []}

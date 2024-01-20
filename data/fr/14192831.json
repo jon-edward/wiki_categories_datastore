@@ -1,1 +1,0 @@
-{"name": "Lavage_des_mains", "id": 14192831, "predecessors": [{"name": "Hygiène", "id": 99656}, {"name": "Main", "id": 414599}, {"name": "Nettoyage", "id": 10550184}, {"name": "Soin_du_corps", "id": 122387}], "successors": [{"name": "Fontaine", "id": 1468150}, {"name": "Savon", "id": 14192975}]}

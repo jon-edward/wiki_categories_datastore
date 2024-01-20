@@ -1,1 +1,1 @@
-{"name": "Tuna", "id": 39651019, "predecessors": [{"name": "Commercial_fish", "id": 17539360}, {"name": "Oily_fish", "id": 23007289}, {"name": "Scombridae", "id": 1329270}, {"name": "Sport_fish", "id": 17553254}], "successors": [{"name": "Thunnus", "id": 28275351}, {"name": "Tuna_dishes", "id": 36008145}]}
+{"name": "Tuna", "id": 39651019, "predecessors": [{"name": "Commercial_fish", "id": 17539360}, {"name": "Oily_fish", "id": 23007289}], "successors": [{"name": "Thunnus", "id": 28275351}, {"name": "Tuna_dishes", "id": 36008145}]}

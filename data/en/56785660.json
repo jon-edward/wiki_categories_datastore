@@ -1,1 +1,1 @@
-{"name": "GLONASS_satellites", "id": 56785660, "predecessors": [{"name": "Soviet_inventions", "id": 23283572}, {"name": "Military_satellites", "id": 9284603}, {"name": "Geodetic_satellites", "id": 61900142}, {"name": "Satellites", "id": 787571}], "successors": []}
+{"name": "GLONASS_satellites", "id": 56785660, "predecessors": [{"name": "Soviet_inventions", "id": 23283572}, {"name": "Military_satellites", "id": 9284603}, {"name": "Satellite_navigation", "id": 62424638}, {"name": "Satellites", "id": 787571}], "successors": []}

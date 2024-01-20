@@ -1,1 +1,1 @@
-{"name": "Indolit", "id": 1030540, "predecessors": [{"name": "Amiinit", "id": 67185}, {"name": "Aromaattiset_yhdisteet", "id": 58978}, {"name": "Heterosykliset_yhdisteet", "id": 262541}], "successors": [{"name": "Tryptamiinit", "id": 67176}]}
+{"name": "Indolit", "id": 1030540, "predecessors": [{"name": "Amiinit", "id": 67185}], "successors": [{"name": "Tryptamiinit", "id": 67176}]}

@@ -1,1 +1,1 @@
-{"name": "Plastics_additives", "id": 24482145, "predecessors": [{"name": "Plastics", "id": 2206328}, {"name": "Polymers", "id": 698100}], "successors": []}
+{"name": "Plastics_additives", "id": 24482145, "predecessors": [{"name": "Plastics", "id": 2206328}], "successors": [{"name": "Plasticizers", "id": 3007170}, {"name": "Flame_retardants", "id": 3156092}, {"name": "Reactive_diluents", "id": 70460845}]}

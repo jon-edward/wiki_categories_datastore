@@ -1,1 +1,1 @@
-{"name": "Jewish_magazines", "id": 4985768, "predecessors": [{"name": "Religious_magazines", "id": 1328460}], "successors": [{"name": "Jewish_magazines_published_in_the_United_States", "id": 18285926}]}
+{"name": "Jewish_magazines", "id": 4985768, "predecessors": [{"name": "Jewish_literature", "id": 3687043}, {"name": "Jewish_media", "id": 1204313}, {"name": "Religious_magazines", "id": 1328460}], "successors": [{"name": "Jewish_magazines_published_in_the_United_States", "id": 18285926}]}

@@ -1,1 +1,1 @@
-{"name": "Book_fairs_in_the_United_States", "id": 17419894, "predecessors": [{"name": "Book_publishing_in_the_United_States", "id": 17419849}, {"name": "Fairs_in_the_United_States", "id": 29205703}, {"name": "Trade_shows_in_the_United_States", "id": 35244999}, {"name": "Bookselling", "id": 13123053}], "successors": []}
+{"name": "Book_fairs_in_the_United_States", "id": 17419894, "predecessors": [{"name": "Trade_shows_in_the_United_States", "id": 35244999}, {"name": "Trade_fairs", "id": 35181669}], "successors": []}

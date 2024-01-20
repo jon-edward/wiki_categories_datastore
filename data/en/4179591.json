@@ -1,1 +1,1 @@
-{"name": "Educational_environment", "id": 4179591, "predecessors": [{"name": "Student_culture", "id": 698268}], "successors": [{"name": "Campuses", "id": 8525766}, {"name": "School_and_classroom_behaviour", "id": 31768366}]}
+{"name": "Educational_environment", "id": 4179591, "predecessors": [{"name": "Student_culture", "id": 698268}], "successors": [{"name": "Campuses", "id": 8525766}, {"name": "Educational_facilities", "id": 17564179}, {"name": "School_and_classroom_behaviour", "id": 31768366}]}

@@ -1,1 +1,1 @@
-{"name": "Medical_physicists", "id": 47564379, "predecessors": [{"name": "Medical_physics", "id": 8811012}, {"name": "Natural_sciences", "id": 697022}, {"name": "Health", "id": 751381}], "successors": [{"name": "Health_physicists", "id": 43567436}]}
+{"name": "Medical_physicists", "id": 47564379, "predecessors": [{"name": "Physics", "id": 692318}, {"name": "Health", "id": 751381}], "successors": []}

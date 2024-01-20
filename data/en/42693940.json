@@ -1,1 +1,1 @@
-{"name": "Musculoskeletal_examination", "id": 42693940, "predecessors": [{"name": "Musculoskeletal_system", "id": 800597}, {"name": "Physical_examination", "id": 3049821}], "successors": [{"name": "Examination_of_the_knee", "id": 53903951}]}
+{"name": "Musculoskeletal_examination", "id": 42693940, "predecessors": [{"name": "Physical_examination", "id": 3049821}], "successors": [{"name": "Examination_of_the_knee", "id": 53903951}]}

@@ -1,1 +1,1 @@
-{"name": "Quadrotors", "id": 29294011, "predecessors": [{"name": "Rotorcraft", "id": 894955}], "successors": [{"name": "Quadcopters", "id": 52997912}]}
+{"name": "Quadrotors", "id": 29294011, "predecessors": [{"name": "Rotorcraft", "id": 894955}, {"name": "Aircraft_configurations", "id": 1024208}], "successors": [{"name": "Quadcopters", "id": 52997912}]}

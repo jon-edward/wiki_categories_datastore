@@ -1,1 +1,1 @@
-{"name": "Activity_trackers", "id": 42464885, "predecessors": [{"name": "Wearable_computers", "id": 39163763}, {"name": "Wireless_transmitters", "id": 15991172}], "successors": [{"name": "Smart_bands", "id": 44775660}]}
+{"name": "Activity_trackers", "id": 42464885, "predecessors": [{"name": "Wearable_computers", "id": 39163763}, {"name": "Broadcast_transmitters", "id": 15627126}], "successors": [{"name": "Smart_bands", "id": 44775660}]}

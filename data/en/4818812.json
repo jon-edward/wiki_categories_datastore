@@ -1,1 +1,1 @@
-{"name": "Beer_in_Belgium", "id": 4818812, "predecessors": [{"name": "Belgian_cuisine", "id": 705929}, {"name": "Health_in_Europe", "id": 29366955}], "successors": [{"name": "Belgian_beer_brands", "id": 57305175}, {"name": "Breweries_of_Flanders", "id": 50807568}, {"name": "Breweries_of_Wallonia", "id": 50807637}]}
+{"name": "Beer_in_Belgium", "id": 4818812, "predecessors": [{"name": "European_cuisine", "id": 1259768}], "successors": []}

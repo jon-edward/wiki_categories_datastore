@@ -1,1 +1,1 @@
-{"name": "Mexican_printmakers", "id": 36703616, "predecessors": [{"name": "Mexican_artists", "id": 1057750}], "successors": [{"name": "Mexican_engravers", "id": 2469418}]}
+{"name": "Mexican_printmakers", "id": 36703616, "predecessors": [{"name": "Mexican_artists", "id": 1057750}, {"name": "Printmakers", "id": 2347803}], "successors": [{"name": "Mexican_engravers", "id": 2469418}]}

@@ -1,1 +1,1 @@
-{"name": "Geomicrobiology", "id": 29854990, "predecessors": [{"name": "Microbiology", "id": 726300}, {"name": "Branches_of_biology", "id": 37535091}], "successors": [{"name": "Extremophiles", "id": 1067115}, {"name": "Geomicrobiologists", "id": 29854942}]}
+{"name": "Geomicrobiology", "id": 29854990, "predecessors": [{"name": "Microbiology", "id": 726300}, {"name": "Geology", "id": 697077}], "successors": [{"name": "Extremophiles", "id": 1067115}]}

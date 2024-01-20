@@ -1,1 +1,1 @@
-{"name": "Garnet_group", "id": 13661491, "predecessors": [{"name": "Nesosilicates", "id": 4417663}], "successors": [{"name": "Garnet_gemstones", "id": 50744111}]}
+{"name": "Garnet_group", "id": 13661491, "predecessors": [{"name": "Cubic_minerals", "id": 28212424}, {"name": "Nesosilicates", "id": 4417663}, {"name": "Minerals", "id": 708104}], "successors": [{"name": "Garnet_gemstones", "id": 50744111}]}

@@ -1,1 +1,1 @@
-{"name": "Emergency_communication", "id": 7289148, "predecessors": [{"name": "Disaster_management_tools", "id": 5241067}, {"name": "Emergency_services", "id": 1318794}, {"name": "Rescue", "id": 1013590}], "successors": [{"name": "Emergency_telephone_numbers", "id": 15443685}, {"name": "Distress_signals", "id": 29612135}]}
+{"name": "Emergency_communication", "id": 7289148, "predecessors": [{"name": "Rescue", "id": 1013590}], "successors": []}

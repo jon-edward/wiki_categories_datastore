@@ -1,1 +1,1 @@
-{"name": "Dutch_naturalists", "id": 17736749, "predecessors": [{"name": "Dutch_biologists", "id": 1070367}, {"name": "Branches_of_biology", "id": 37535091}], "successors": [{"name": "Antonie_van_Leeuwenhoek", "id": 50516653}]}
+{"name": "Dutch_naturalists", "id": 17736749, "predecessors": [{"name": "Biology", "id": 692675}], "successors": [{"name": "Antonie_van_Leeuwenhoek", "id": 50516653}]}

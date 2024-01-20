@@ -1,1 +1,1 @@
-{"name": "Entertainment_Internet_forums", "id": 38545088, "predecessors": [{"name": "Internet_forums", "id": 1059772}], "successors": [{"name": "Music_Internet_forums", "id": 38545064}, {"name": "Video_game_Internet_forums", "id": 38545116}]}
+{"name": "Entertainment_Internet_forums", "id": 38545088, "predecessors": [{"name": "Internet_forums", "id": 1059772}, {"name": "Entertainment", "id": 693016}], "successors": [{"name": "Video_game_Internet_forums", "id": 38545116}]}

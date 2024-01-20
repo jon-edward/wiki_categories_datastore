@@ -1,1 +1,1 @@
-{"name": "Environmental_tax", "id": 19043260, "predecessors": [{"name": "Economics_of_sustainability", "id": 6020013}, {"name": "Environmental_policy", "id": 32607076}, {"name": "Taxes_by_type", "id": 52668258}, {"name": "Consumer_behaviour", "id": 1232620}], "successors": []}
+{"name": "Environmental_tax", "id": 19043260, "predecessors": [{"name": "Environmental_policy", "id": 32607076}, {"name": "Consumer_behaviour", "id": 1232620}], "successors": []}

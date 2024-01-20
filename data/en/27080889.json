@@ -1,1 +1,1 @@
-{"name": "Brain_tumor", "id": 27080889, "predecessors": [{"name": "Brain_disorders", "id": 32592519}, {"name": "Head_and_neck_cancer", "id": 27088665}, {"name": "Nervous_system_neoplasia", "id": 32560640}], "successors": [{"name": "Deaths_from_brain_tumor", "id": 38446700}]}
+{"name": "Brain_tumor", "id": 27080889, "predecessors": [{"name": "Nervous_system_neoplasia", "id": 32560640}, {"name": "Human_head_and_neck", "id": 36703875}], "successors": [{"name": "Deaths_from_brain_tumor", "id": 38446700}]}

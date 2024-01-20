@@ -1,1 +1,1 @@
-{"name": "Excavations", "id": 62430845, "predecessors": [{"name": "Artificial_landforms", "id": 23430128}], "successors": [{"name": "Artificial_lakes", "id": 12628132}, {"name": "Cuts_(earthmoving)", "id": 28649795}]}
+{"name": "Excavations", "id": 62430845, "predecessors": [{"name": "Earthworks_(engineering)", "id": 62421825}], "successors": [{"name": "Artificial_lakes", "id": 12628132}, {"name": "Cuts_(earthmoving)", "id": 28649795}]}

@@ -1,1 +1,1 @@
-{"name": "Albatros_aircraft", "id": 10595233, "predecessors": [{"name": "Goods_manufactured_in_Germany", "id": 5165917}], "successors": []}
+{"name": "Albatros_aircraft", "id": 10595233, "predecessors": [{"name": "Aviation", "id": 735378}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Hygienists", "id": 5883019, "predecessors": [{"name": "Hygiene", "id": 1056532}], "successors": []}
+{"name": "Hygienists", "id": 5883019, "predecessors": [{"name": "Hygiene", "id": 1056532}, {"name": "People_in_public_health", "id": 21280486}], "successors": []}

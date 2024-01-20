@@ -1,1 +1,1 @@
-{"name": "Security_software", "id": 52792599, "predecessors": [{"name": "Security_technology", "id": 25388151}], "successors": [{"name": "Computer_security_software", "id": 22273150}, {"name": "Emergency_management_software", "id": 52791675}]}
+{"name": "Security_software", "id": 52792599, "predecessors": [{"name": "Security_technology", "id": 25388151}, {"name": "Software", "id": 691633}], "successors": [{"name": "Computer_security_software", "id": 22273150}, {"name": "Emergency_management_software", "id": 52791675}]}

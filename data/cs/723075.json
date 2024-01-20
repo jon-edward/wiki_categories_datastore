@@ -1,1 +1,1 @@
-{"name": "Skeptici", "id": 723075, "predecessors": [{"name": "Lidé_podle_činnosti", "id": 154301}, {"name": "Vědecký_skepticismus", "id": 723074}], "successors": [{"name": "Kritici_alternativní_medicíny", "id": 1160383}]}
+{"name": "Skeptici", "id": 723075, "predecessors": [{"name": "Vědecký_skepticismus", "id": 723074}, {"name": "Lidé_podle_činnosti", "id": 154301}, {"name": "Filozofie", "id": 5210}], "successors": [{"name": "Kritici_alternativní_medicíny", "id": 1160383}]}

@@ -1,1 +1,1 @@
-{"name": "Atmospheric_radiation", "id": 4164987, "predecessors": [{"name": "Meteorological_phenomena", "id": 38779805}, {"name": "Scattering,_absorption_and_radiative_transfer_(optics)", "id": 5233412}, {"name": "Sun", "id": 887873}], "successors": [{"name": "Atmospheric_radiative_transfer_codes", "id": 10415019}]}
+{"name": "Atmospheric_radiation", "id": 4164987, "predecessors": [{"name": "Meteorological_phenomena", "id": 38779805}, {"name": "Scattering,_absorption_and_radiative_transfer_(optics)", "id": 5233412}, {"name": "Sun", "id": 887873}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Hazardous_waste", "id": 26664133, "predecessors": [{"name": "Technology_hazards", "id": 55050397}, {"name": "Waste", "id": 691538}], "successors": [{"name": "Radioactive_waste", "id": 1007344}]}
+{"name": "Hazardous_waste", "id": 26664133, "predecessors": [{"name": "Technology_hazards", "id": 55050397}, {"name": "Waste", "id": 691538}], "successors": [{"name": "Radioactive_waste", "id": 1007344}, {"name": "Lists_of_Superfund_sites_in_the_United_States", "id": 11096370}]}

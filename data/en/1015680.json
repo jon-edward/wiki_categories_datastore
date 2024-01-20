@@ -1,1 +1,1 @@
-{"name": "Household_chemicals", "id": 1015680, "predecessors": [{"name": "Home", "id": 803231}], "successors": [{"name": "Cleaning_product_components", "id": 2920933}, {"name": "Bleaches", "id": 2954636}, {"name": "Vinegar", "id": 24795429}, {"name": "Cosmetics_chemicals", "id": 28553073}]}
+{"name": "Household_chemicals", "id": 1015680, "predecessors": [{"name": "Home", "id": 803231}], "successors": [{"name": "Vinegar", "id": 24795429}, {"name": "Cosmetics_chemicals", "id": 28553073}]}

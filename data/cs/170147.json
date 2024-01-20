@@ -1,1 +1,1 @@
-{"name": "Vodní_elektrárny", "id": 170147, "predecessors": [{"name": "Elektrárny", "id": 170144}, {"name": "Vodní_díla", "id": 705649}, {"name": "Vodní_energie", "id": 219468}], "successors": [{"name": "Kaskády_vodních_elektráren", "id": 1543073}]}
+{"name": "Vodní_elektrárny", "id": 170147, "predecessors": [{"name": "Elektrárny", "id": 170144}, {"name": "Vodní_díla", "id": 705649}, {"name": "Vodní_energie", "id": 219468}], "successors": [{"name": "Kaskády_vodních_elektráren", "id": 1543073}, {"name": "Přečerpávací_vodní_elektrárny_v_Česku", "id": 357437}]}

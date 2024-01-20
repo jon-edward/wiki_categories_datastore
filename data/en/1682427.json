@@ -1,1 +1,1 @@
-{"name": "Diplomatic_buildings", "id": 1682427, "predecessors": [{"name": "Government", "id": 697609}, {"name": "Diplomacy", "id": 911551}], "successors": [{"name": "Ambassadorial_residences", "id": 3821061}, {"name": "State_guesthouses", "id": 58024612}]}
+{"name": "Diplomatic_buildings", "id": 1682427, "predecessors": [{"name": "Diplomacy", "id": 911551}], "successors": []}

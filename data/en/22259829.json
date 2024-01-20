@@ -1,1 +1,1 @@
-{"name": "Occult_texts", "id": 22259829, "predecessors": [{"name": "Esotericism", "id": 2255400}], "successors": [{"name": "Anglo-Saxon_metrical_charms", "id": 59652796}]}
+{"name": "Occult_texts", "id": 22259829, "predecessors": [{"name": "Religious_texts", "id": 694048}, {"name": "Esotericism", "id": 2255400}], "successors": [{"name": "Occult_books", "id": 1241458}, {"name": "Anglo-Saxon_metrical_charms", "id": 59652796}]}

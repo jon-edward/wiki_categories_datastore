@@ -1,1 +1,1 @@
-{"name": "Sin_City", "id": 1600113, "predecessors": [{"name": "Comics_by_Frank_Miller_(comics)", "id": 20454505}, {"name": "Crime_comics", "id": 3674073}, {"name": "Dark_Horse_Comics_titles", "id": 21598378}, {"name": "Film_noir", "id": 2532687}], "successors": [{"name": "Sin_City_characters", "id": 43267407}]}
+{"name": "Sin_City", "id": 1600113, "predecessors": [{"name": "Dark_Horse_Comics_titles", "id": 21598378}, {"name": "Film_noir", "id": 2532687}, {"name": "Comics", "id": 697992}], "successors": [{"name": "Sin_City_characters", "id": 43267407}]}

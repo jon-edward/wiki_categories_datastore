@@ -1,1 +1,1 @@
-{"name": "American_football_defensive_backs", "id": 4686186, "predecessors": [{"name": "American_football_positions", "id": 2631180}, {"name": "Grass_field_surfaces", "id": 72517655}], "successors": [{"name": "American_football_safeties", "id": 1285606}, {"name": "American_football_cornerbacks", "id": 1285610}]}
+{"name": "American_football_defensive_backs", "id": 4686186, "predecessors": [{"name": "American_football_positions", "id": 2631180}], "successors": [{"name": "American_football_safeties", "id": 1285606}, {"name": "American_football_cornerbacks", "id": 1285610}]}

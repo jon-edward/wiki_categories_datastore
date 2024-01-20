@@ -1,1 +1,1 @@
-{"name": "Action_choreographers", "id": 38332798, "predecessors": [{"name": "Dance_moves", "id": 1041146}], "successors": [{"name": "Indian_action_choreographers", "id": 55720607}]}
+{"name": "Action_choreographers", "id": 38332798, "predecessors": [{"name": "Art_directors", "id": 2504996}, {"name": "Acting", "id": 3887514}], "successors": [{"name": "Indian_action_choreographers", "id": 55720607}]}

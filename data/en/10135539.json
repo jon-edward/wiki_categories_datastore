@@ -1,1 +1,1 @@
-{"name": "Iranian_fashion_designers", "id": 10135539, "predecessors": [{"name": "Iranian_artists", "id": 15080664}], "successors": [{"name": "Iranian_women_fashion_designers", "id": 72300642}]}
+{"name": "Iranian_fashion_designers", "id": 10135539, "predecessors": [{"name": "Fashion", "id": 1000816}, {"name": "Iranian_artists", "id": 15080664}], "successors": [{"name": "Iranian_women_fashion_designers", "id": 72300642}]}

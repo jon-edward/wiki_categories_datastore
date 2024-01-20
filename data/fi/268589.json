@@ -1,1 +1,1 @@
-{"name": "Ympäristömyrkyt", "id": 268589, "predecessors": [{"name": "Kemialliset_aineet", "id": 32368}, {"name": "Ympäristönsuojelu", "id": 27709}, {"name": "Ympäristötoksikologia", "id": 1320638}], "successors": [{"name": "Torjunta-aineet", "id": 287013}]}
+{"name": "Ympäristömyrkyt", "id": 268589, "predecessors": [{"name": "Kemialliset_aineet", "id": 32368}, {"name": "Ympäristönsuojelu", "id": 27709}, {"name": "Ympäristötoksikologia", "id": 1320638}], "successors": [{"name": "Torjunta-aineet", "id": 287013}, {"name": "Polysykliset_aromaattiset_hiilivedyt", "id": 1784649}]}

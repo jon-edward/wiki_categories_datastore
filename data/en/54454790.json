@@ -1,1 +1,1 @@
-{"name": "Pest_control_techniques", "id": 54454790, "predecessors": [{"name": "Pest_control", "id": 7473834}], "successors": [{"name": "Pesticides", "id": 1891566}, {"name": "Biological_pest_control", "id": 4545205}, {"name": "Pest_trapping", "id": 54454819}]}
+{"name": "Pest_control_techniques", "id": 54454790, "predecessors": [{"name": "Pest_control", "id": 7473834}], "successors": [{"name": "Pesticides", "id": 1891566}, {"name": "Biological_pest_control", "id": 4545205}]}

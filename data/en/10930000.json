@@ -1,1 +1,1 @@
-{"name": "Dancewear", "id": 10930000, "predecessors": [{"name": "Dance_equipment", "id": 14828113}, {"name": "Sportswear", "id": 5233828}], "successors": []}
+{"name": "Dancewear", "id": 10930000, "predecessors": [{"name": "Sportswear", "id": 5233828}], "successors": [{"name": "Clubwear", "id": 75802947}]}

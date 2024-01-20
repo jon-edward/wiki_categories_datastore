@@ -1,1 +1,1 @@
-{"name": "LVMH_brands", "id": 5322851, "predecessors": [{"name": "LVMH", "id": 34839613}, {"name": "Luxury_brands", "id": 4348450}], "successors": [{"name": "Tiffany_&_Co.", "id": 40517717}, {"name": "Dior", "id": 52096992}]}
+{"name": "LVMH_brands", "id": 5322851, "predecessors": [{"name": "Luxury_brands", "id": 4348450}], "successors": [{"name": "Tiffany_&_Co.", "id": 40517717}, {"name": "Dior", "id": 52096992}]}

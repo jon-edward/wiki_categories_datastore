@@ -1,1 +1,1 @@
-{"name": "Hokkaido_Shinkansen", "id": 63641842, "predecessors": [{"name": "Lines_of_Hokkaido_Railway_Company", "id": 9790090}, {"name": "Rail_transport_in_Aomori_Prefecture", "id": 7638327}, {"name": "Rail_transport_in_Hokkaido", "id": 36642378}, {"name": "Shinkansen", "id": 693827}, {"name": "Transport_in_Japan", "id": 6394372}], "successors": []}
+{"name": "Hokkaido_Shinkansen", "id": 63641842, "predecessors": [{"name": "Rail_transport_in_Hokkaido", "id": 36642378}, {"name": "Shinkansen", "id": 693827}], "successors": []}

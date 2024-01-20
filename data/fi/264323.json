@@ -1,1 +1,1 @@
-{"name": "Funktiot", "id": 264323, "predecessors": [{"name": "Matematiikka", "id": 17872}], "successors": [{"name": "Erikoisfunktiot", "id": 305383}, {"name": "Polynomit", "id": 306878}]}
+{"name": "Funktiot", "id": 264323, "predecessors": [{"name": "Joukko-oppi", "id": 69820}, {"name": "Matematiikka", "id": 17872}], "successors": [{"name": "Vakiot", "id": 233025}, {"name": "Erikoisfunktiot", "id": 305383}, {"name": "Polynomit", "id": 306878}]}

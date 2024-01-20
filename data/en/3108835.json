@@ -1,1 +1,0 @@
-{"name": "Blood_cells", "id": 3108835, "predecessors": [{"name": "Blood", "id": 968308}, {"name": "Human_cells", "id": 729309}, {"name": "Animal_cells", "id": 3108645}], "successors": [{"name": "Leukocytes", "id": 3108846}, {"name": "Hematopoiesis", "id": 32636203}]}

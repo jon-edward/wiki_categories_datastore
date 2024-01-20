@@ -1,1 +1,1 @@
-{"name": "Reviste_din_Ungaria", "id": 1219953, "predecessors": [{"name": "Artă", "id": 22407}, {"name": "Cultură", "id": 22567}], "successors": [{"name": "Reviste_literare_din_Ungaria", "id": 2208162}]}
+{"name": "Reviste_din_Ungaria", "id": 1219953, "predecessors": [{"name": "Reviste", "id": 63913}, {"name": "Cultură", "id": 22567}], "successors": [{"name": "Reviste_literare_din_Ungaria", "id": 2208162}]}

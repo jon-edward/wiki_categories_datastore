@@ -1,1 +1,1 @@
-{"name": "Oslo_Metro_lines", "id": 22597649, "predecessors": [{"name": "Railway_lines_in_Oslo", "id": 18263907}, {"name": "Oslo_Sporveier", "id": 9020480}, {"name": "Railway_lines_in_Norway", "id": 17624031}, {"name": "Rapid_transit", "id": 4286827}], "successors": []}
+{"name": "Oslo_Metro_lines", "id": 22597649, "predecessors": [{"name": "Rapid_transit", "id": 4286827}], "successors": []}

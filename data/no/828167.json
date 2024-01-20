@@ -1,1 +1,1 @@
-{"name": "Naturreservater_i_Telemark", "id": 828167, "predecessors": [{"name": "Administrative_inndelinger_i_Norge", "id": 497295}, {"name": "Telemarks_geografi", "id": 60661}], "successors": [{"name": "Naturreservater_i_Bamble", "id": 2048068}, {"name": "Naturreservater_i_Kragerø", "id": 2150794}]}
+{"name": "Naturreservater_i_Telemark", "id": 828167, "predecessors": [{"name": "Naturreservater", "id": 53351}, {"name": "Telemarks_geografi", "id": 60661}], "successors": [{"name": "Naturreservater_i_Bamble", "id": 2048068}, {"name": "Naturreservater_i_Kragerø", "id": 2150794}]}

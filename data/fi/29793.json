@@ -1,1 +1,1 @@
-{"name": "Neurologiset_poikkeavuudet", "id": 29793, "predecessors": [{"name": "Neurologiset_sairaudet", "id": 29635}], "successors": [{"name": "Autismi", "id": 20319}]}
+{"name": "Neurologiset_poikkeavuudet", "id": 29793, "predecessors": [{"name": "Neurologiset_sairaudet", "id": 29635}], "successors": [{"name": "Autismi", "id": 20319}, {"name": "Neuropsykologia", "id": 505852}]}

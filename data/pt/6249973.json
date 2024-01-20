@@ -1,1 +1,0 @@
-{"name": "Sistemas_computacionais_tolerantes_a_falhas", "id": 6249973, "predecessors": [{"name": "Arquitetura_de_computadores", "id": 64279}, {"name": "Tipos_de_computadores", "id": 3722472}, {"name": "Tolerância_a_falhas", "id": 3751666}, {"name": "Computadores", "id": 15775}], "successors": [{"name": "Detecção_e_correção_de_erros", "id": 3760776}]}

@@ -1,1 +1,1 @@
-{"name": "Voimat", "id": 1686095, "predecessors": [{"name": "Luonnontieteet", "id": 25089}], "successors": []}
+{"name": "Voimat", "id": 1686095, "predecessors": [{"name": "Klassinen_mekaniikka", "id": 27403}, {"name": "Suureet", "id": 19948}, {"name": "Luonnontieteet", "id": 25089}], "successors": []}

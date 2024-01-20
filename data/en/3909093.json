@@ -1,1 +1,1 @@
-{"name": "Football_venues_in_Singapore", "id": 3909093, "predecessors": [{"name": "Football_in_Singapore", "id": 3067289}, {"name": "Sports_venues_in_Singapore", "id": 3826028}, {"name": "Asian_culture", "id": 1438369}], "successors": [{"name": "Singapore_Premier_League_venues", "id": 44506656}]}
+{"name": "Football_venues_in_Singapore", "id": 3909093, "predecessors": [{"name": "Football", "id": 1080800}], "successors": [{"name": "Singapore_Premier_League_venues", "id": 44506656}]}

@@ -1,1 +1,1 @@
-{"name": "Azo_dyes", "id": 3233502, "predecessors": [{"name": "Azo_compounds", "id": 2057249}, {"name": "Dyes", "id": 859422}], "successors": []}
+{"name": "Azo_dyes", "id": 3233502, "predecessors": [{"name": "Dyes", "id": 859422}], "successors": []}

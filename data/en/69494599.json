@@ -1,1 +1,1 @@
-{"name": "Teachers_at_Harrow_School", "id": 69494599, "predecessors": [{"name": "Harrow_School", "id": 16005287}, {"name": "People_from_Harrow,_London", "id": 30623503}], "successors": [{"name": "Head_Masters_of_Harrow_School", "id": 35306277}]}
+{"name": "Teachers_at_Harrow_School", "id": 69494599, "predecessors": [{"name": "Teaching", "id": 2478638}], "successors": [{"name": "Head_Masters_of_Harrow_School", "id": 35306277}]}

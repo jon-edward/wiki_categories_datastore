@@ -1,1 +1,1 @@
-{"name": "Monuments_and_memorials_to_Queen_Victoria", "id": 34181721, "predecessors": [{"name": "Monuments_and_memorials_to_women", "id": 49658399}, {"name": "Queen_Victoria", "id": 19312552}, {"name": "Monuments_and_memorials", "id": 4869336}], "successors": [{"name": "Statues_of_Queen_Victoria", "id": 61353171}]}
+{"name": "Monuments_and_memorials_to_Queen_Victoria", "id": 34181721, "predecessors": [{"name": "Queen_Victoria", "id": 19312552}, {"name": "Royalty", "id": 2023501}], "successors": [{"name": "Statues_of_Queen_Victoria", "id": 61353171}]}

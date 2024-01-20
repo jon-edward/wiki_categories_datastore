@@ -1,1 +1,1 @@
-{"name": "Kinesisk_film", "id": 121153, "predecessors": [{"name": "Kinesisk_kultur", "id": 121154}, {"name": "Film", "id": 8911}], "successors": [{"name": "Kinesiske_skuespillere", "id": 121120}, {"name": "Kinesiske_regissører", "id": 446932}]}
+{"name": "Kinesisk_film", "id": 121153, "predecessors": [{"name": "Kinesisk_kultur", "id": 121154}, {"name": "Film", "id": 8911}], "successors": [{"name": "Kinesiske_skuespillere", "id": 121120}, {"name": "Kinesiske_filmprodusenter", "id": 1800873}, {"name": "Kinesiske_manusforfattere", "id": 2130248}]}

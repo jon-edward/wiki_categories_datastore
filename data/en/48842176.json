@@ -1,1 +1,1 @@
-{"name": "Safari_parks", "id": 48842176, "predecessors": [{"name": "Amusement_parks", "id": 713049}, {"name": "Zoos", "id": 700581}], "successors": []}
+{"name": "Safari_parks", "id": 48842176, "predecessors": [{"name": "Zoos", "id": 700581}], "successors": []}

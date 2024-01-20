@@ -1,1 +1,1 @@
-{"name": "Unfinished_books", "id": 1242853, "predecessors": [{"name": "Cancelled_projects", "id": 25624451}], "successors": [{"name": "Unfinished_novels", "id": 7180089}]}
+{"name": "Unfinished_books", "id": 1242853, "predecessors": [{"name": "Books_by_type", "id": 1925647}, {"name": "Copyright_law", "id": 702268}], "successors": []}

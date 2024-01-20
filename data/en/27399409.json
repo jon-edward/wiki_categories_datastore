@@ -1,1 +1,0 @@
-{"name": "Financial_data_vendors", "id": 27399409, "predecessors": [{"name": "Market_data", "id": 31027834}], "successors": [{"name": "Credit_rating_agencies", "id": 2890046}, {"name": "Financial_news_agencies", "id": 30687374}, {"name": "Thomson_Reuters", "id": 32947261}]}

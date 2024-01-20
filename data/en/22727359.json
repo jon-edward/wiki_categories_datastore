@@ -1,1 +1,1 @@
-{"name": "Jewish_physicists", "id": 22727359, "predecessors": [{"name": "Jewish_scientists", "id": 2727249}, {"name": "Natural_sciences", "id": 697022}], "successors": [{"name": "Jewish_astronomers", "id": 62077428}, {"name": "Jewish_American_physicists", "id": 62868974}, {"name": "Jewish_Russian_physicists", "id": 62869225}]}
+{"name": "Jewish_physicists", "id": 22727359, "predecessors": [{"name": "Jewish_scientists", "id": 2727249}, {"name": "Physics", "id": 692318}], "successors": [{"name": "Jewish_Russian_physicists", "id": 62869225}]}

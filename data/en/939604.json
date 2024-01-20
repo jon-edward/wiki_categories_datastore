@@ -1,1 +1,1 @@
-{"name": "Opera_houses", "id": 939604, "predecessors": [{"name": "Opera", "id": 694830}, {"name": "Music_venues", "id": 2313791}, {"name": "Cultural_centers", "id": 30661910}], "successors": []}
+{"name": "Opera_houses", "id": 939604, "predecessors": [{"name": "Drama", "id": 709071}, {"name": "Theatre", "id": 698600}, {"name": "Music_venues", "id": 2313791}], "successors": []}

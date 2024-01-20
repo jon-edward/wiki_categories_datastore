@@ -1,1 +1,1 @@
-{"name": "Cardiopulmonary_resuscitation", "id": 33846440, "predecessors": [{"name": "Emergency_medical_procedures", "id": 19402490}, {"name": "First_aid", "id": 761888}, {"name": "Heart_diseases", "id": 32535910}], "successors": []}
+{"name": "Cardiopulmonary_resuscitation", "id": 33846440, "predecessors": [{"name": "First_aid", "id": 761888}], "successors": []}

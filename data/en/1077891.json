@@ -1,1 +1,1 @@
-{"name": "Hand_games", "id": 1077891, "predecessors": [{"name": "Games_of_physical_skill", "id": 8429269}, {"name": "Hand", "id": 2322113}], "successors": [{"name": "Clapping_games", "id": 22360562}]}
+{"name": "Hand_games", "id": 1077891, "predecessors": [{"name": "Games_of_physical_skill", "id": 8429269}], "successors": [{"name": "Clapping_games", "id": 22360562}]}

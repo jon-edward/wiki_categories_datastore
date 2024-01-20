@@ -1,1 +1,1 @@
-{"name": "Government_software", "id": 20726593, "predecessors": [{"name": "Government", "id": 697609}], "successors": [{"name": "COVID-19_contact_tracing_apps", "id": 64468643}]}
+{"name": "Government_software", "id": 20726593, "predecessors": [{"name": "Application_software", "id": 708063}], "successors": [{"name": "COVID-19_contact_tracing_apps", "id": 64468643}]}

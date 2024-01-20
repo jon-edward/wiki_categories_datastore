@@ -1,1 +1,0 @@
-{"name": "Pedestrian_crossings", "id": 3660631, "predecessors": [{"name": "Pedestrian_infrastructure", "id": 11193164}, {"name": "Pedestrian_safety", "id": 55541333}, {"name": "Road_infrastructure", "id": 2963113}, {"name": "Traffic_law", "id": 939690}], "successors": [{"name": "Traffic_signals", "id": 32718663}]}

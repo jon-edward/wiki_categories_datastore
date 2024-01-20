@@ -1,1 +1,1 @@
-{"name": "Sport_in_Davos", "id": 40932030, "predecessors": [{"name": "Davos", "id": 33966701}], "successors": [{"name": "Spengler_Cup", "id": 8709466}, {"name": "HC_Davos_players", "id": 14740663}]}
+{"name": "Sport_in_Davos", "id": 40932030, "predecessors": [{"name": "Sport_in_Switzerland", "id": 3058759}], "successors": [{"name": "Spengler_Cup", "id": 8709466}]}

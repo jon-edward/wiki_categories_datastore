@@ -1,1 +1,1 @@
-{"name": "HSV_vehicles", "id": 7754300, "predecessors": [{"name": "Cars_of_Australia", "id": 28855580}, {"name": "General_Motors_vehicles", "id": 852440}, {"name": "Holden_vehicles", "id": 926090}, {"name": "Holden", "id": 1039674}], "successors": []}
+{"name": "HSV_vehicles", "id": 7754300, "predecessors": [{"name": "General_Motors_vehicles", "id": 852440}, {"name": "Holden_vehicles", "id": 926090}, {"name": "Holden", "id": 1039674}], "successors": []}

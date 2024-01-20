@@ -1,1 +1,1 @@
-{"name": "Jeep_vehicles", "id": 895105, "predecessors": [{"name": "AMC_vehicles", "id": 962588}, {"name": "Cars_of_the_United_States", "id": 14781156}, {"name": "Jeep", "id": 896963}, {"name": "Kaiser_Motors", "id": 48987356}, {"name": "Off-road_vehicles", "id": 945069}, {"name": "Sport_utility_vehicles", "id": 39819664}, {"name": "Willys_vehicles", "id": 2296088}], "successors": []}
+{"name": "Jeep_vehicles", "id": 895105, "predecessors": [{"name": "AMC_vehicles", "id": 962588}, {"name": "Jeep", "id": 896963}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Fungal_proteins", "id": 40126938, "predecessors": [{"name": "Mycology", "id": 1248840}, {"name": "Biology", "id": 692675}], "successors": [{"name": "Saccharomyces_cerevisiae_genes", "id": 40125749}]}
+{"name": "Fungal_proteins", "id": 40126938, "predecessors": [{"name": "Biology", "id": 692675}], "successors": [{"name": "Saccharomyces_cerevisiae_genes", "id": 40125749}]}

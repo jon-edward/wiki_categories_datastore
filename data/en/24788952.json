@@ -1,1 +1,1 @@
-{"name": "Philips_products", "id": 24788952, "predecessors": [{"name": "Philips", "id": 1503946}], "successors": [{"name": "Magnavox_Odyssey_2_games", "id": 1427593}, {"name": "CD-i_games", "id": 1428295}, {"name": "LaserDisc", "id": 3911050}, {"name": "Philips_Records_albums", "id": 22348653}, {"name": "Philips_Records_singles", "id": 40146949}]}
+{"name": "Philips_products", "id": 24788952, "predecessors": [{"name": "Philips", "id": 1503946}], "successors": [{"name": "CD-i_games", "id": 1428295}, {"name": "LaserDisc", "id": 3911050}]}

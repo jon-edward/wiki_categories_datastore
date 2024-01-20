@@ -1,1 +1,1 @@
-{"name": "Museer_i_Innlandet", "id": 1758346, "predecessors": [{"name": "Kultur_i_Innlandet", "id": 1758226}, {"name": "Administrative_inndelinger_i_Norge", "id": 497295}, {"name": "Innlandet", "id": 1736800}], "successors": [{"name": "Lillehammer_museum", "id": 2064039}]}
+{"name": "Museer_i_Innlandet", "id": 1758346, "predecessors": [{"name": "Kultur_i_Innlandet", "id": 1758226}, {"name": "Museer_i_Norge", "id": 63950}, {"name": "Innlandet", "id": 1736800}, {"name": "Turisme_i_Norge", "id": 271162}], "successors": [{"name": "Lillehammer_museum", "id": 2064039}]}

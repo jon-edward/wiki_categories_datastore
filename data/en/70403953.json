@@ -1,1 +1,1 @@
-{"name": "Virtualization", "id": 70403953, "predecessors": [{"name": "Computer_networking", "id": 4677693}, {"name": "Backup", "id": 30482454}], "successors": [{"name": "Virtualization_software", "id": 1135181}]}
+{"name": "Virtualization", "id": 70403953, "predecessors": [{"name": "Computer_networking", "id": 4677693}], "successors": [{"name": "Virtualization_software", "id": 1135181}]}

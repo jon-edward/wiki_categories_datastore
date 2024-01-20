@@ -1,1 +1,1 @@
-{"name": "Drug-induced_diseases", "id": 51615087, "predecessors": [{"name": "Drug_safety", "id": 18900455}, {"name": "Human_diseases_and_disorders", "id": 48701151}, {"name": "Medication_side_effects", "id": 54231933}], "successors": [{"name": "Drug_eruptions", "id": 19989333}]}
+{"name": "Drug-induced_diseases", "id": 51615087, "predecessors": [{"name": "Drug_safety", "id": 18900455}, {"name": "Medication_side_effects", "id": 54231933}], "successors": [{"name": "Drug_eruptions", "id": 19989333}]}

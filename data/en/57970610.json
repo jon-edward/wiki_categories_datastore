@@ -1,1 +1,1 @@
-{"name": "Churches_destroyed_by_arson", "id": 57970610, "predecessors": [{"name": "Destroyed_churches", "id": 33855040}, {"name": "Buildings_and_structures_destroyed_by_arson", "id": 38548718}, {"name": "Anti-Christian_sentiment", "id": 10551822}, {"name": "Disasters_in_religious_buildings_and_structures", "id": 47809604}], "successors": []}
+{"name": "Churches_destroyed_by_arson", "id": 57970610, "predecessors": [{"name": "Destroyed_churches", "id": 33855040}, {"name": "Disasters_in_religious_buildings_and_structures", "id": 47809604}], "successors": []}

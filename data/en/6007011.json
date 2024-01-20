@@ -1,1 +1,1 @@
-{"name": "Prime_ministerial_residences", "id": 6007011, "predecessors": [{"name": "Official_residences", "id": 1220237}], "successors": [{"name": "Prime_ministerial_homes_in_the_United_Kingdom", "id": 41533365}, {"name": "10_Downing_Street", "id": 73040090}]}
+{"name": "Prime_ministerial_residences", "id": 6007011, "predecessors": [{"name": "Prime_ministers", "id": 725862}], "successors": [{"name": "10_Downing_Street", "id": 73040090}]}

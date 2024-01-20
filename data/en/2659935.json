@@ -1,1 +1,1 @@
-{"name": "Submarine_volcanoes", "id": 2659935, "predecessors": [{"name": "Marine_geology", "id": 4946349}, {"name": "Submarine_topography", "id": 47440442}, {"name": "Volcanoes", "id": 693788}], "successors": [{"name": "Submarine_calderas", "id": 22968338}]}
+{"name": "Submarine_volcanoes", "id": 2659935, "predecessors": [{"name": "Marine_geology", "id": 4946349}], "successors": [{"name": "Submarine_calderas", "id": 22968338}]}

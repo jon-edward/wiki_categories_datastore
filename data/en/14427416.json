@@ -1,1 +1,1 @@
-{"name": "Toll-like_receptors", "id": 14427416, "predecessors": [{"name": "Single-pass_transmembrane_proteins", "id": 14581995}, {"name": "Transmembrane_receptors", "id": 719556}, {"name": "Immune_system", "id": 729294}], "successors": []}
+{"name": "Toll-like_receptors", "id": 14427416, "predecessors": [{"name": "Transmembrane_receptors", "id": 719556}], "successors": []}

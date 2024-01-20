@@ -1,1 +1,1 @@
-{"name": "Antibodies", "id": 12520046, "predecessors": [{"name": "Glycoproteins", "id": 993004}, {"name": "Immune_system", "id": 729294}], "successors": [{"name": "Therapeutic_antibodies", "id": 21135963}]}
+{"name": "Antibodies", "id": 12520046, "predecessors": [{"name": "Glycoproteins", "id": 993004}], "successors": [{"name": "Autoantibodies", "id": 12629900}, {"name": "Monoclonal_antibodies_for_tumors", "id": 32586381}, {"name": "Antibody-drug_conjugates", "id": 46471356}]}

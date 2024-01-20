@@ -1,1 +1,0 @@
-{"name": "Tåg", "id": 59589, "predecessors": [{"name": "Järnväg", "id": 56116}, {"name": "Järnvägsfordon", "id": 224208}], "successors": [{"name": "Snabbtåg", "id": 157073}, {"name": "Sånger_om_järnväg_och_tåg", "id": 274602}, {"name": "Lokaltåg", "id": 1064675}, {"name": "Nattåg", "id": 4870404}, {"name": "Svenska_tåg", "id": 164982}]}

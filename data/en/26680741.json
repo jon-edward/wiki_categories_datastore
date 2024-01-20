@@ -1,1 +1,1 @@
-{"name": "Hybrid_animals", "id": 26680741, "predecessors": [{"name": "Classical_genetics", "id": 987078}, {"name": "Biology", "id": 692675}], "successors": [{"name": "Mammal_hybrids", "id": 4248561}, {"name": "Fish_hybrids", "id": 34030526}, {"name": "Bird_hybrids", "id": 41272542}]}
+{"name": "Hybrid_animals", "id": 26680741, "predecessors": [{"name": "Biology", "id": 692675}], "successors": []}

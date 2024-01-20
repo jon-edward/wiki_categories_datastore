@@ -1,1 +1,1 @@
-{"name": "Subsidies", "id": 2144922, "predecessors": [{"name": "Economic_policy", "id": 3168459}, {"name": "Government_aid_programs", "id": 62706779}, {"name": "Payments", "id": 35838996}, {"name": "Welfare_state", "id": 21761213}], "successors": [{"name": "Agricultural_subsidies", "id": 23658130}]}
+{"name": "Subsidies", "id": 2144922, "predecessors": [{"name": "Economic_policy", "id": 3168459}, {"name": "Payments", "id": 35838996}, {"name": "Welfare_state", "id": 21761213}], "successors": [{"name": "Agricultural_subsidies", "id": 23658130}]}

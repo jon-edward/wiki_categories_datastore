@@ -1,1 +1,1 @@
-{"name": "Elektrospotřebiče", "id": 359213, "predecessors": [{"name": "Elektrotechnika", "id": 4847}, {"name": "Přístroje", "id": 12085}], "successors": [{"name": "Domácí_spotřebiče", "id": 35318}]}
+{"name": "Elektrospotřebiče", "id": 359213, "predecessors": [{"name": "Elektrické_přístroje", "id": 34775}, {"name": "Elektrotechnika", "id": 4847}, {"name": "Přístroje", "id": 12085}], "successors": [{"name": "Domácí_spotřebiče", "id": 35318}]}

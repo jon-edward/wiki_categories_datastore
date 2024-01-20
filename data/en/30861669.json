@@ -1,1 +1,1 @@
-{"name": "Penguin_Books_book_series", "id": 30861669, "predecessors": [{"name": "Penguin_Books_books", "id": 30861543}, {"name": "Series_of_books", "id": 936033}], "successors": []}
+{"name": "Penguin_Books_book_series", "id": 30861669, "predecessors": [{"name": "Series_of_books", "id": 936033}], "successors": []}

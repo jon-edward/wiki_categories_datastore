@@ -1,1 +1,1 @@
-{"name": "Trenuri_de_mare_viteză", "id": 32760, "predecessors": [{"name": "Trenuri", "id": 1183923}, {"name": "Căi_ferate", "id": 19849}], "successors": [{"name": "Linii_de_cale_ferată_de_mare_viteză", "id": 307080}, {"name": "Shinkansen", "id": 445182}]}
+{"name": "Trenuri_de_mare_viteză", "id": 32760, "predecessors": [{"name": "Trenuri", "id": 1183923}, {"name": "Căi_ferate", "id": 19849}], "successors": [{"name": "Linii_de_cale_ferată_de_mare_viteză", "id": 307080}, {"name": "Shinkansen", "id": 445182}, {"name": "TGV", "id": 3034438}]}

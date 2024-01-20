@@ -1,1 +1,1 @@
-{"name": "School_bus_manufacturers", "id": 25925984, "predecessors": [{"name": "School_buses", "id": 9518697}, {"name": "Motor_vehicle_manufacturers", "id": 5754930}], "successors": [{"name": "Blue_Bird_Corporation", "id": 25925959}]}
+{"name": "School_bus_manufacturers", "id": 25925984, "predecessors": [{"name": "School_buses", "id": 9518697}], "successors": [{"name": "Blue_Bird_Corporation", "id": 25925959}]}

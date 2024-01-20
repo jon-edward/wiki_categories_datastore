@@ -1,1 +1,1 @@
-{"name": "FK_Slavija_Sarajevo_players", "id": 18214839, "predecessors": [{"name": "Istočno_Sarajevo", "id": 18037579}, {"name": "Football_clubs_in_Bosnia_and_Herzegovina", "id": 34428248}, {"name": "Football_in_Bosnia_and_Herzegovina", "id": 2067152}], "successors": []}
+{"name": "FK_Slavija_Sarajevo_players", "id": 18214839, "predecessors": [{"name": "Football_clubs_in_Bosnia_and_Herzegovina", "id": 34428248}], "successors": []}

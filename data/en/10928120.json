@@ -1,1 +1,1 @@
-{"name": "Herbivory", "id": 10928120, "predecessors": [{"name": "Eating_behaviors", "id": 1476452}], "successors": []}
+{"name": "Herbivory", "id": 10928120, "predecessors": [{"name": "Eating_behaviors", "id": 1476452}], "successors": [{"name": "Folivores", "id": 33748744}, {"name": "Clawed_herbivores", "id": 43703916}, {"name": "Therizinosaurs", "id": 4480849}, {"name": "Herbivorous_mammals", "id": 54540055}, {"name": "Termites", "id": 1831640}, {"name": "Woodboring_beetles", "id": 5409985}]}

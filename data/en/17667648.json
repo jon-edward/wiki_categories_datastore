@@ -1,1 +1,1 @@
-{"name": "Wine_classification", "id": 17667648, "predecessors": [{"name": "Classification_systems_by_subject", "id": 50661878}, {"name": "Wine", "id": 1635343}], "successors": [{"name": "Appellations", "id": 1331143}, {"name": "Grand_Cru_Champagne_villages", "id": 28222618}]}
+{"name": "Wine_classification", "id": 17667648, "predecessors": [{"name": "Classification_systems_by_subject", "id": 50661878}, {"name": "Wine", "id": 1635343}], "successors": [{"name": "Appellations", "id": 1331143}]}

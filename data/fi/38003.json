@@ -1,1 +1,1 @@
-{"name": "Differentiaalilaskenta", "id": 38003, "predecessors": [{"name": "Analyysi", "id": 105707}], "successors": [{"name": "Osittaisdifferentiaaliyhtälöt", "id": 866576}]}
+{"name": "Differentiaalilaskenta", "id": 38003, "predecessors": [{"name": "Analyysi", "id": 105707}], "successors": [{"name": "Polynomit", "id": 306878}, {"name": "Osittaisdifferentiaaliyhtälöt", "id": 866576}]}

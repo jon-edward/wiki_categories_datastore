@@ -1,1 +1,1 @@
-{"name": "Women_sports_commentators", "id": 54690246, "predecessors": [{"name": "Sports_commentators", "id": 2344107}, {"name": "Women_in_sports", "id": 54686091}], "successors": [{"name": "Women_sports_announcers", "id": 4941752}, {"name": "Women_association_football_commentators", "id": 54689891}, {"name": "Women_cricket_commentators", "id": 56920261}]}
+{"name": "Women_sports_commentators", "id": 54690246, "predecessors": [{"name": "Sports_commentators", "id": 2344107}], "successors": [{"name": "Women_sports_announcers", "id": 4941752}]}

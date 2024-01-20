@@ -1,1 +1,1 @@
-{"name": "Polynomit", "id": 306878, "predecessors": [{"name": "Algebra", "id": 25113}, {"name": "Funktiot", "id": 264323}], "successors": []}
+{"name": "Polynomit", "id": 306878, "predecessors": [{"name": "Algebra", "id": 25113}, {"name": "Analyysi", "id": 105707}, {"name": "Differentiaalilaskenta", "id": 38003}, {"name": "Funktiot", "id": 264323}], "successors": []}

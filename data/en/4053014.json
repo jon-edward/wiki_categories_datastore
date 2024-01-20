@@ -1,1 +1,1 @@
-{"name": "Revues", "id": 4053014, "predecessors": [{"name": "Variety_shows", "id": 35047104}, {"name": "Musical_theatre", "id": 692816}], "successors": [{"name": "Ziegfeld_Follies", "id": 3374814}]}
+{"name": "Revues", "id": 4053014, "predecessors": [{"name": "Variety_shows", "id": 35047104}, {"name": "Theatrical_genres", "id": 1231826}], "successors": [{"name": "Ziegfeld_Follies", "id": 3374814}]}

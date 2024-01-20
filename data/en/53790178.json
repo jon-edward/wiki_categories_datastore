@@ -1,1 +1,1 @@
-{"name": "Monotypic_protostome_taxa", "id": 53790178, "predecessors": [{"name": "Superphyla", "id": 52195996}, {"name": "Biological_classification", "id": 41221871}], "successors": [{"name": "Monotypic_arthropod_taxa", "id": 50019245}, {"name": "Monotypic_protostome_genera", "id": 52957521}]}
+{"name": "Monotypic_protostome_taxa", "id": 53790178, "predecessors": [{"name": "Biology", "id": 692675}], "successors": [{"name": "Monotypic_arthropod_taxa", "id": 50019245}, {"name": "Monotypic_protostome_genera", "id": 52957521}]}

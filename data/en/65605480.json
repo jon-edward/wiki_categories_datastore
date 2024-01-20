@@ -1,1 +1,1 @@
-{"name": "COVID-19_drug_development", "id": 65605480, "predecessors": [{"name": "COVID-19", "id": 63508804}, {"name": "Drug_discovery", "id": 10435830}, {"name": "Medical_responses_to_the_COVID-19_pandemic", "id": 63754590}], "successors": [{"name": "COVID-19_vaccines", "id": 65133612}, {"name": "Clinical_trials_related_to_COVID-19", "id": 74662714}]}
+{"name": "COVID-19_drug_development", "id": 65605480, "predecessors": [{"name": "Drug_discovery", "id": 10435830}, {"name": "Medical_responses_to_the_COVID-19_pandemic", "id": 63754590}], "successors": []}

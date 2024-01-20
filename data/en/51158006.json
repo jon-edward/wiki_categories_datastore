@@ -1,1 +1,1 @@
-{"name": "Czech_male_swimmers", "id": 51158006, "predecessors": [{"name": "Men", "id": 1585667}, {"name": "Culture_of_the_Czech_Republic", "id": 725131}, {"name": "Swimming", "id": 691570}], "successors": [{"name": "Czech_male_freestyle_swimmers", "id": 67433327}]}
+{"name": "Czech_male_swimmers", "id": 51158006, "predecessors": [{"name": "Swimming", "id": 691570}], "successors": [{"name": "Czech_male_freestyle_swimmers", "id": 67433327}]}

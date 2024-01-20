@@ -1,1 +1,1 @@
-{"name": "Enontekiö", "id": 61243, "predecessors": [{"name": "Lapin_maakunta", "id": 697600}, {"name": "Lappi", "id": 61123}], "successors": [{"name": "Enontekiön_kylät", "id": 94075}, {"name": "Enontekiön_luonto", "id": 763736}]}
+{"name": "Enontekiö", "id": 61243, "predecessors": [{"name": "Lapin_maakunta", "id": 697600}, {"name": "Lappi", "id": 61123}], "successors": [{"name": "Enontekiön_kylät", "id": 94075}, {"name": "Enontekiön_rakennukset_ja_rakennelmat", "id": 763734}, {"name": "Enontekiön_luonto", "id": 763736}]}

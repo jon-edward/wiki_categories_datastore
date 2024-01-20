@@ -1,1 +1,1 @@
-{"name": "Abortion_referendums", "id": 51859590, "predecessors": [{"name": "Abortion_law", "id": 1063984}, {"name": "Referendums", "id": 9111240}, {"name": "Abortion", "id": 744578}], "successors": []}
+{"name": "Abortion_referendums", "id": 51859590, "predecessors": [{"name": "Abortion_law", "id": 1063984}, {"name": "Direct_democracy", "id": 5692938}, {"name": "Abortion", "id": 744578}], "successors": []}

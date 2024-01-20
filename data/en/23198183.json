@@ -1,1 +1,1 @@
-{"name": "Electron_microscopy", "id": 23198183, "predecessors": [{"name": "Electron", "id": 3272213}, {"name": "Microscopy", "id": 1894701}], "successors": [{"name": "Electron_microscopy_stains", "id": 3284151}, {"name": "Electron_microscopy_techniques", "id": 69325886}]}
+{"name": "Electron_microscopy", "id": 23198183, "predecessors": [{"name": "Microscopy", "id": 1894701}], "successors": [{"name": "Electron_microscopy_stains", "id": 3284151}, {"name": "Electron_microscopy_techniques", "id": 69325886}]}

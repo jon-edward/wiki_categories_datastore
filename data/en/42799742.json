@@ -1,1 +1,1 @@
-{"name": "Pasteur_Institute", "id": 42799742, "predecessors": [{"name": "Louis_Pasteur", "id": 17499043}, {"name": "Medical_research_institutes", "id": 1275525}, {"name": "Microbiology_institutes", "id": 54841792}], "successors": []}
+{"name": "Pasteur_Institute", "id": 42799742, "predecessors": [{"name": "Medical_research_institutes", "id": 1275525}, {"name": "Microbiology_institutes", "id": 54841792}], "successors": []}

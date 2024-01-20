@@ -1,1 +1,1 @@
-{"name": "Rowing_boats", "id": 39916430, "predecessors": [{"name": "Boat_types", "id": 886322}, {"name": "Rowing_equipment", "id": 67390285}], "successors": [{"name": "Rowing_equipment_manufacturers", "id": 25508554}, {"name": "Rowing_racing_boats", "id": 30689365}]}
+{"name": "Rowing_boats", "id": 39916430, "predecessors": [{"name": "Rowing_equipment", "id": 67390285}], "successors": [{"name": "Rowing_equipment_manufacturers", "id": 25508554}, {"name": "Rowing_racing_boats", "id": 30689365}]}

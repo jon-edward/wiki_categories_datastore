@@ -1,1 +1,1 @@
-{"name": "Engineering_trade_unions", "id": 4059994, "predecessors": [{"name": "Machining", "id": 2687049}, {"name": "Metal_trade_unions", "id": 4748453}], "successors": []}
+{"name": "Engineering_trade_unions", "id": 4059994, "predecessors": [{"name": "Machining", "id": 2687049}], "successors": [{"name": "Presidents_of_the_Amalgamated_Engineering_Union", "id": 54654474}, {"name": "General_Secretaries_of_the_Amalgamated_Engineering_Union", "id": 54658107}, {"name": "Amalgamated_Engineering_Union-sponsored_MPs", "id": 58663740}]}

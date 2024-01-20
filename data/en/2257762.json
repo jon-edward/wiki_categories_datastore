@@ -1,1 +1,1 @@
-{"name": "Beef", "id": 2257762, "predecessors": [{"name": "Livestock", "id": 917009}, {"name": "Meat", "id": 757474}, {"name": "Animal_products", "id": 2304680}], "successors": [{"name": "Cuts_of_beef", "id": 5283249}]}
+{"name": "Beef", "id": 2257762, "predecessors": [{"name": "Livestock", "id": 917009}, {"name": "Meat", "id": 757474}, {"name": "Animal_products", "id": 2304680}], "successors": [{"name": "Cuts_of_beef", "id": 5283249}, {"name": "Beef_dishes", "id": 18238012}, {"name": "Beef_cattle_breeds", "id": 23812426}, {"name": "Veal_dishes", "id": 20036740}]}

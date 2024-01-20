@@ -1,1 +1,1 @@
-{"name": "Intel_graphics", "id": 57558237, "predecessors": [{"name": "Computer_graphics", "id": 735771}], "successors": []}
+{"name": "Intel_graphics", "id": 57558237, "predecessors": [{"name": "Computer_graphics", "id": 735771}, {"name": "Intel_products", "id": 13752883}], "successors": []}

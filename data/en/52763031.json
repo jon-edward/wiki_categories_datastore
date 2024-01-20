@@ -1,1 +1,1 @@
-{"name": "Intel_software", "id": 52763031, "predecessors": [{"name": "Software_companies", "id": 695117}], "successors": []}
+{"name": "Intel_software", "id": 52763031, "predecessors": [{"name": "Intel_products", "id": 13752883}, {"name": "Software_companies", "id": 695117}], "successors": []}

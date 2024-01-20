@@ -1,1 +1,1 @@
-{"name": "Stochastic_models", "id": 25291400, "predecessors": [{"name": "Probabilistic_models", "id": 28927577}, {"name": "Statistical_models", "id": 17193471}], "successors": [{"name": "Random_graphs", "id": 17766079}, {"name": "Markov_models", "id": 24059390}, {"name": "Financial_models", "id": 52462377}]}
+{"name": "Stochastic_models", "id": 25291400, "predecessors": [{"name": "Probabilistic_models", "id": 28927577}, {"name": "Statistical_models", "id": 17193471}], "successors": [{"name": "Markov_models", "id": 24059390}, {"name": "Financial_models", "id": 52462377}]}

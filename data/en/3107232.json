@@ -1,1 +1,1 @@
-{"name": "Disinfectants", "id": 3107232, "predecessors": [{"name": "Antimicrobials", "id": 7466358}, {"name": "Bactericides", "id": 38440505}, {"name": "Cleaning_products", "id": 1332524}, {"name": "Hygiene", "id": 1056532}, {"name": "Applied_sciences", "id": 697060}], "successors": []}
+{"name": "Disinfectants", "id": 3107232, "predecessors": [{"name": "Antimicrobials", "id": 7466358}, {"name": "Hygiene", "id": 1056532}], "successors": []}

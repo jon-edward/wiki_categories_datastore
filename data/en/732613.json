@@ -1,1 +1,1 @@
-{"name": "Antimalarial_agents", "id": 732613, "predecessors": [{"name": "Antiprotozoal_agents", "id": 3328221}, {"name": "Malaria", "id": 4274737}], "successors": [{"name": "Quinine", "id": 732606}]}
+{"name": "Antimalarial_agents", "id": 732613, "predecessors": [{"name": "Malaria", "id": 4274737}], "successors": [{"name": "Quinine", "id": 732606}]}

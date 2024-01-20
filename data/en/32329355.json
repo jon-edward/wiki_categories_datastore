@@ -1,1 +1,1 @@
-{"name": "Robotic_vacuum_cleaners", "id": 32329355, "predecessors": [{"name": "Domestic_robots", "id": 2688416}, {"name": "Vacuum_cleaners", "id": 4988891}], "successors": []}
+{"name": "Robotic_vacuum_cleaners", "id": 32329355, "predecessors": [{"name": "Domestic_robots", "id": 2688416}], "successors": []}

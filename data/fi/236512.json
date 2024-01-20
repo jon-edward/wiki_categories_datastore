@@ -1,1 +1,1 @@
-{"name": "Rikkiyhdisteet", "id": 236512, "predecessors": [{"name": "Alkuaineet", "id": 18805}, {"name": "Myrkylliset_kemikaalit", "id": 892746}], "successors": [{"name": "Sulfaatit", "id": 36431}, {"name": "Sulfidit", "id": 196472}, {"name": "Tiolit", "id": 236511}]}
+{"name": "Rikkiyhdisteet", "id": 236512, "predecessors": [{"name": "Alkuaineet", "id": 18805}, {"name": "Myrkylliset_kemikaalit", "id": 892746}], "successors": [{"name": "Sulfaatit", "id": 36431}, {"name": "Sulfidit", "id": 196472}, {"name": "Orgaaniset_rikkiyhdisteet", "id": 1785370}]}

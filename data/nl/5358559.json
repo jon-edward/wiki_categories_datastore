@@ -1,1 +1,0 @@
-{"name": "Vaccinatie", "id": 5358559, "predecessors": [{"name": "Epidemiologie", "id": 130491}, {"name": "Immunologie", "id": 459951}, {"name": "Infectieziekte", "id": 68339}, {"name": "Volksgezondheid", "id": 3838813}], "successors": [{"name": "Vaccin", "id": 569894}]}

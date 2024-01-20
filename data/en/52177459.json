@@ -1,1 +1,1 @@
-{"name": "Marketing_strategy", "id": 52177459, "predecessors": [{"name": "Marketing", "id": 784409}, {"name": "Strategic_management", "id": 1226495}], "successors": [{"name": "Market_segmentation", "id": 52132196}, {"name": "Bundled_products_or_services", "id": 56259521}]}
+{"name": "Marketing_strategy", "id": 52177459, "predecessors": [{"name": "Marketing", "id": 784409}], "successors": [{"name": "Market_segmentation", "id": 52132196}, {"name": "Bundled_products_or_services", "id": 56259521}]}

@@ -1,1 +1,1 @@
-{"name": "British_furniture_makers", "id": 39001281, "predecessors": [{"name": "Furniture_makers", "id": 1588201}, {"name": "Manufacturing_companies_of_the_United_Kingdom", "id": 1577217}], "successors": []}
+{"name": "British_furniture_makers", "id": 39001281, "predecessors": [{"name": "Artisans", "id": 742819}, {"name": "Furniture", "id": 965851}], "successors": [{"name": "British_cabinetmakers", "id": 39001309}]}

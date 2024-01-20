@@ -1,1 +1,1 @@
-{"name": "Compositions_for_violin", "id": 6335728, "predecessors": [{"name": "Violins", "id": 1649250}, {"name": "Musical_instruments", "id": 691595}], "successors": [{"name": "Violin_sonatas", "id": 1315204}, {"name": "Solo_violin_pieces", "id": 16290128}, {"name": "Compositions_for_violin_and_orchestra", "id": 28086778}, {"name": "Compositions_for_violin_and_piano", "id": 66156672}]}
+{"name": "Compositions_for_violin", "id": 6335728, "predecessors": [{"name": "Musical_instruments", "id": 691595}], "successors": [{"name": "Violin_sonatas", "id": 1315204}]}

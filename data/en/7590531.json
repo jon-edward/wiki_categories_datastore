@@ -1,1 +1,1 @@
-{"name": "Phage_workers", "id": 7590531, "predecessors": [{"name": "Bacteriophages", "id": 15358444}, {"name": "Virologists", "id": 5894917}, {"name": "Branches_of_biology", "id": 37535091}], "successors": []}
+{"name": "Phage_workers", "id": 7590531, "predecessors": [{"name": "Bacteriophages", "id": 15358444}, {"name": "Biology", "id": 692675}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "New_wave_record_labels", "id": 42246546, "predecessors": [{"name": "New_wave_music", "id": 39140245}], "successors": [{"name": "Virgin_Records", "id": 8093729}]}
+{"name": "New_wave_record_labels", "id": 42246546, "predecessors": [{"name": "New_wave_music", "id": 39140245}, {"name": "Pop_record_labels", "id": 8119298}], "successors": [{"name": "Virgin_Records", "id": 8093729}]}

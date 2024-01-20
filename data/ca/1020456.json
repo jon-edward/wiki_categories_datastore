@@ -1,1 +1,1 @@
-{"name": "Plantes_medicinals_lamials", "id": 1020456, "predecessors": [{"name": "Lamials", "id": 90919}, {"name": "Magnoliòpsids", "id": 1515783}], "successors": [{"name": "Plantes_medicinals_lamiàcies", "id": 1020314}]}
+{"name": "Plantes_medicinals_lamials", "id": 1020456, "predecessors": [{"name": "Lamials", "id": 90919}, {"name": "Plantes_medicinals", "id": 43957}], "successors": [{"name": "Plantes_medicinals_lamiàcies", "id": 1020314}]}

@@ -1,1 +1,1 @@
-{"name": "Nautical_charts", "id": 47947049, "predecessors": [{"name": "Hydrography", "id": 1101998}, {"name": "Infographics", "id": 1017414}, {"name": "Nautical_terminology", "id": 1829860}, {"name": "Map_types", "id": 28066666}], "successors": []}
+{"name": "Nautical_charts", "id": 47947049, "predecessors": [{"name": "Hydrography", "id": 1101998}, {"name": "Infographics", "id": 1017414}, {"name": "Nautical_terminology", "id": 1829860}, {"name": "Map_types", "id": 28066666}], "successors": [{"name": "Electronic_navigation", "id": 13057381}]}

@@ -1,1 +1,1 @@
-{"name": "Science_diplomacy", "id": 62293254, "predecessors": [{"name": "Science_policy", "id": 37202370}, {"name": "Types_of_diplomacy", "id": 21212983}], "successors": [{"name": "International_research_institutes", "id": 11944675}]}
+{"name": "Science_diplomacy", "id": 62293254, "predecessors": [{"name": "Science_policy", "id": 37202370}], "successors": [{"name": "International_research_institutes", "id": 11944675}]}

@@ -1,1 +1,1 @@
-{"name": "Veto", "id": 15440408, "predecessors": [{"name": "Governance", "id": 38301528}, {"name": "Government", "id": 697609}, {"name": "Power_sharing", "id": 64301707}], "successors": []}
+{"name": "Veto", "id": 15440408, "predecessors": [{"name": "Power_sharing", "id": 64301707}], "successors": []}

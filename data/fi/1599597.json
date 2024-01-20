@@ -1,1 +1,1 @@
-{"name": "BBC:n_televisio-ohjelmat", "id": 1599597, "predecessors": [{"name": "Brittiläiset_televisio-ohjelmat", "id": 754793}, {"name": "Brittiläiset_yritykset", "id": 466274}], "successors": [{"name": "Doctor_Who", "id": 267699}]}
+{"name": "BBC:n_televisio-ohjelmat", "id": 1599597, "predecessors": [{"name": "BBC", "id": 518280}, {"name": "Brittiläiset_televisio-ohjelmat", "id": 754793}], "successors": [{"name": "Doctor_Who", "id": 267699}]}

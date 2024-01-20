@@ -1,1 +1,1 @@
-{"name": "São_Paulo_Metro_stations", "id": 30244635, "predecessors": [{"name": "São_Paulo_Metro", "id": 30244243}, {"name": "Rapid_transit_in_Brazil", "id": 10660726}, {"name": "Buildings_and_structures_in_São_Paulo", "id": 11555284}, {"name": "Railway_stations_by_type", "id": 72782274}], "successors": []}
+{"name": "São_Paulo_Metro_stations", "id": 30244635, "predecessors": [{"name": "Rapid_transit", "id": 4286827}], "successors": []}

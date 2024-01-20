@@ -1,1 +1,1 @@
-{"name": "Database_models", "id": 34222569, "predecessors": [{"name": "Data_modeling", "id": 1116481}, {"name": "Database_theory", "id": 10221974}, {"name": "Databases", "id": 2276471}, {"name": "Scientific_models", "id": 69842117}], "successors": [{"name": "Relational_model", "id": 6868511}]}
+{"name": "Database_models", "id": 34222569, "predecessors": [{"name": "Data_modeling", "id": 1116481}, {"name": "Database_theory", "id": 10221974}, {"name": "Databases", "id": 2276471}, {"name": "Scientific_models", "id": 69842117}], "successors": []}

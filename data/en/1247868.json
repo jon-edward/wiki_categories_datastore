@@ -1,1 +1,1 @@
-{"name": "Medical_testing_equipment", "id": 1247868, "predecessors": [{"name": "Medical_equipment", "id": 799934}, {"name": "Medical_tests", "id": 1075994}, {"name": "Physiological_instruments", "id": 13800206}], "successors": []}
+{"name": "Medical_testing_equipment", "id": 1247868, "predecessors": [{"name": "Medical_tests", "id": 1075994}, {"name": "Physiological_instruments", "id": 13800206}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Skewered_kebabs", "id": 69003286, "predecessors": [{"name": "Grilled_skewers", "id": 69005543}], "successors": []}
+{"name": "Skewered_kebabs", "id": 69003286, "predecessors": [{"name": "Grilled_skewers", "id": 69005543}, {"name": "Kebabs", "id": 35077282}], "successors": []}

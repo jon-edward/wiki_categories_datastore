@@ -1,1 +1,1 @@
-{"name": "Pontoj_en_Romo", "id": 601414, "predecessors": [{"name": "Konstruaĵoj_en_Romo", "id": 258475}, {"name": "Pontoj_en_Italio", "id": 383797}, {"name": "Konstruaĵoj_laŭ_tipoj", "id": 303445}, {"name": "Transporto_en_Italio", "id": 236575}], "successors": []}
+{"name": "Pontoj_en_Romo", "id": 601414, "predecessors": [{"name": "Konstruaĵoj_en_Romo", "id": 258475}, {"name": "Pontoj_en_Italio", "id": 383797}, {"name": "Transporto_en_Romo", "id": 601415}, {"name": "Konstruaĵoj_laŭ_tipoj", "id": 303445}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Hydrotherapy", "id": 31600121, "predecessors": [{"name": "Bathing", "id": 3431925}, {"name": "Natural_environment_based_therapies", "id": 20084530}, {"name": "Physical_exercise", "id": 34955640}], "successors": [{"name": "Hydrotherapists", "id": 32307220}]}
+{"name": "Hydrotherapy", "id": 31600121, "predecessors": [{"name": "Bathing", "id": 3431925}, {"name": "Physical_exercise", "id": 34955640}, {"name": "Alternative_medical_treatments", "id": 20085242}], "successors": [{"name": "Hydrotherapists", "id": 32307220}]}

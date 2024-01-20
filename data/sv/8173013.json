@@ -1,1 +1,0 @@
-{"name": "Ambulansflyg", "id": 8173013, "predecessors": [{"name": "Flyg", "id": 60557}, {"name": "Sjukvård", "id": 54642}], "successors": [{"name": "Ambulanshelikoptrar", "id": 8173010}]}

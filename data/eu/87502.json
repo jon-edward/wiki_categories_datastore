@@ -1,1 +1,1 @@
-{"name": "Azido_nukleikoak", "id": 87502, "predecessors": [{"name": "Biokimika", "id": 9744}], "successors": [{"name": "Nukleosidoak", "id": 290772}, {"name": "Nukleotidoak", "id": 368821}, {"name": "RNA", "id": 546376}, {"name": "DNA", "id": 546423}]}
+{"name": "Azido_nukleikoak", "id": 87502, "predecessors": [{"name": "Biokimika", "id": 9744}, {"name": "Biologia_molekularra", "id": 95223}], "successors": [{"name": "Nukleosidoak", "id": 290772}, {"name": "Nukleotidoak", "id": 368821}, {"name": "RNA", "id": 546376}, {"name": "DNA", "id": 546423}]}

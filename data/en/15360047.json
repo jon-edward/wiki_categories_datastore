@@ -1,1 +1,1 @@
-{"name": "Government_statements", "id": 15360047, "predecessors": [{"name": "Government", "id": 697609}, {"name": "Government_documents", "id": 694041}, {"name": "Statements", "id": 13887504}], "successors": []}
+{"name": "Government_statements", "id": 15360047, "predecessors": [{"name": "Government_documents", "id": 694041}, {"name": "Statements", "id": 13887504}], "successors": []}

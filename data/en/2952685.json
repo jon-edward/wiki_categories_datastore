@@ -1,1 +1,1 @@
-{"name": "Card_tricks", "id": 2952685, "predecessors": [{"name": "Card_magic", "id": 2620405}, {"name": "Magic_tricks", "id": 2952677}, {"name": "Sleight_of_hand", "id": 2952834}], "successors": []}
+{"name": "Card_tricks", "id": 2952685, "predecessors": [{"name": "Magic_tricks", "id": 2952677}, {"name": "Sleight_of_hand", "id": 2952834}], "successors": []}

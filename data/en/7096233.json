@@ -1,1 +1,1 @@
-{"name": "Jewish_fast_days", "id": 7096233, "predecessors": [{"name": "Fasting", "id": 7108115}, {"name": "Jewish_observances", "id": 13920372}, {"name": "Food_and_drink_culture", "id": 18623243}], "successors": [{"name": "Yom_Kippur", "id": 19369351}, {"name": "Tisha_B'Av", "id": 42728946}]}
+{"name": "Jewish_fast_days", "id": 7096233, "predecessors": [{"name": "Fasting", "id": 7108115}, {"name": "Food_and_drink_culture", "id": 18623243}], "successors": [{"name": "Yom_Kippur", "id": 19369351}, {"name": "Tisha_B'Av", "id": 42728946}]}

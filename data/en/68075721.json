@@ -1,1 +1,1 @@
-{"name": "Unmanned_stealth_aircraft", "id": 68075721, "predecessors": [{"name": "Airborne_military_robots", "id": 26348922}], "successors": []}
+{"name": "Unmanned_stealth_aircraft", "id": 68075721, "predecessors": [{"name": "Stealth_aircraft", "id": 759720}], "successors": []}

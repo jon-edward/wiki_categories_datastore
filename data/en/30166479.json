@@ -1,1 +1,1 @@
-{"name": "Lists_of_books_by_type", "id": 30166479, "predecessors": [{"name": "Lists_of_books", "id": 773803}], "successors": [{"name": "Lists_of_novels", "id": 5213198}, {"name": "Lists_of_children's_books", "id": 33488201}, {"name": "Lists_of_non-fiction_books", "id": 73834211}]}
+{"name": "Lists_of_books_by_type", "id": 30166479, "predecessors": [{"name": "Books_by_type", "id": 1925647}, {"name": "Lists_of_books", "id": 773803}], "successors": [{"name": "Lists_of_children's_books", "id": 33488201}, {"name": "Lists_of_non-fiction_books", "id": 73834211}]}

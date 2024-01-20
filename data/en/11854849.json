@@ -1,1 +1,1 @@
-{"name": "Medical_degrees", "id": 11854849, "predecessors": [{"name": "Academic_degrees_in_healthcare", "id": 34519745}, {"name": "Medical_education", "id": 1427229}], "successors": []}
+{"name": "Medical_degrees", "id": 11854849, "predecessors": [{"name": "Medical_education", "id": 1427229}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Mines_in_British_Columbia", "id": 12601640, "predecessors": [{"name": "Mining_in_British_Columbia", "id": 23566792}, {"name": "Mining_in_Canada", "id": 7639409}], "successors": [{"name": "Gold_mines_in_British_Columbia", "id": 68434476}, {"name": "Copper_mines_in_British_Columbia", "id": 68434497}]}
+{"name": "Mines_in_British_Columbia", "id": 12601640, "predecessors": [{"name": "Mining_in_Canada", "id": 7639409}], "successors": [{"name": "Gold_mines_in_British_Columbia", "id": 68434476}]}

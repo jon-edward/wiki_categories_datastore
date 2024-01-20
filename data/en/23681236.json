@@ -1,1 +1,1 @@
-{"name": "Ski-orienteers", "id": 23681236, "predecessors": [{"name": "Cross-country_skiing", "id": 765983}, {"name": "Orienteering", "id": 4065715}], "successors": []}
+{"name": "Ski-orienteers", "id": 23681236, "predecessors": [{"name": "Orienteering", "id": 4065715}, {"name": "Multisports", "id": 34822335}], "successors": [{"name": "Asian_Games_medalists_in_ski_orienteering", "id": 42109644}, {"name": "Ski-orienteers_at_the_2011_Asian_Winter_Games", "id": 42109652}]}

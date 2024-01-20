@@ -1,1 +1,0 @@
-{"name": "Mechanical_failure", "id": 30241222, "predecessors": [{"name": "Engineering_failures", "id": 941939}, {"name": "Materials_science", "id": 709184}, {"name": "Mechanical_engineering", "id": 717561}], "successors": [{"name": "Building_defects", "id": 7409405}, {"name": "Mechanical_failure_modes", "id": 14247115}]}

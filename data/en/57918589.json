@@ -1,1 +1,1 @@
-{"name": "Military_equipment_of_NATO", "id": 57918589, "predecessors": [{"name": "NATO", "id": 1473450}], "successors": []}
+{"name": "Military_equipment_of_NATO", "id": 57918589, "predecessors": [{"name": "NATO", "id": 1473450}], "successors": [{"name": "5.56×45mm_NATO_machine_guns", "id": 56834426}, {"name": "5.56×45mm_NATO_assault_rifles", "id": 56834551}, {"name": "5.56×45mm_NATO_semi-automatic_rifles", "id": 61201526}]}

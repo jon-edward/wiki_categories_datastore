@@ -1,1 +1,1 @@
-{"name": "Military_recruitment", "id": 24876315, "predecessors": [{"name": "Military_organization", "id": 1054894}, {"name": "Military_sociology", "id": 18916709}, {"name": "Safety", "id": 902977}, {"name": "Government", "id": 697609}], "successors": [{"name": "Conscription", "id": 1638497}, {"name": "British_Army_recruitment", "id": 34264622}]}
+{"name": "Military_recruitment", "id": 24876315, "predecessors": [{"name": "Military_organization", "id": 1054894}, {"name": "Military_sociology", "id": 18916709}, {"name": "Safety", "id": 902977}], "successors": []}

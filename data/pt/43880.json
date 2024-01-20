@@ -1,1 +1,0 @@
-{"name": "Fertilizantes", "id": 43880, "predecessors": [{"name": "Agricultura", "id": 24009}, {"name": "Agronomia", "id": 19988}, {"name": "Compostos_químicos", "id": 30516}, {"name": "Química_dos_solos", "id": 1273335}], "successors": [{"name": "Fertilizantes_inorgânicos", "id": 5559946}]}

@@ -1,1 +1,1 @@
-{"name": "Upcoming_books", "id": 3782198, "predecessors": [{"name": "Upcoming_products", "id": 27968708}], "successors": []}
+{"name": "Upcoming_books", "id": 3782198, "predecessors": [{"name": "Unpublished_books", "id": 24602650}, {"name": "Upcoming_products", "id": 27968708}], "successors": []}

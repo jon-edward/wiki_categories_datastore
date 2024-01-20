@@ -1,1 +1,1 @@
-{"name": "Keurig_Dr_Pepper", "id": 25801581, "predecessors": [{"name": "Drink_companies_of_the_United_States", "id": 732755}, {"name": "Soft_drinks_manufacturers", "id": 61259821}], "successors": [{"name": "Keurig_Dr_Pepper_brands", "id": 57936890}]}
+{"name": "Keurig_Dr_Pepper", "id": 25801581, "predecessors": [{"name": "Soft_drinks_manufacturers", "id": 61259821}], "successors": [{"name": "Keurig_Dr_Pepper_brands", "id": 57936890}]}

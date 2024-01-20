@@ -1,1 +1,1 @@
-{"name": "People_executed_by_France_by_firing_squad", "id": 39008174, "predecessors": [{"name": "Deaths_by_firearm_in_France", "id": 12040266}], "successors": [{"name": "Executed_French_collaborators_with_Nazi_Germany", "id": 38890526}]}
+{"name": "People_executed_by_France_by_firing_squad", "id": 39008174, "predecessors": [{"name": "People_executed_by_firearm", "id": 16827213}, {"name": "People_executed_by_firing_squad", "id": 4976958}], "successors": [{"name": "Executed_French_collaborators_with_Nazi_Germany", "id": 38890526}]}

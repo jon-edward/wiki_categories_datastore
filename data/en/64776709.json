@@ -1,1 +1,1 @@
-{"name": "Airbands", "id": 64776709, "predecessors": [{"name": "Air_traffic_control", "id": 3067015}, {"name": "Bandplans", "id": 1145790}], "successors": []}
+{"name": "Airbands", "id": 64776709, "predecessors": [{"name": "Air_traffic_control", "id": 3067015}, {"name": "Aviation_communications", "id": 33870766}, {"name": "Bandplans", "id": 1145790}], "successors": []}

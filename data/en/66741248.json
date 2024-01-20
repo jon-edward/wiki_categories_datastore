@@ -1,1 +1,1 @@
-{"name": "Named_Shinkansen_trains", "id": 66741248, "predecessors": [{"name": "Named_passenger_trains_of_Japan", "id": 3625426}, {"name": "Shinkansen", "id": 693827}], "successors": []}
+{"name": "Named_Shinkansen_trains", "id": 66741248, "predecessors": [{"name": "Shinkansen", "id": 693827}], "successors": []}

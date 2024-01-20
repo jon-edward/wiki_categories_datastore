@@ -1,1 +1,1 @@
-{"name": "MacOS-ohjelmat", "id": 1557581, "predecessors": [{"name": "Mac_OS_-ohjelmat", "id": 70214}], "successors": [{"name": "MacOS-pelit", "id": 1519623}, {"name": "Alustariippumattomat_ohjelmat", "id": 1558541}]}
+{"name": "MacOS-ohjelmat", "id": 1557581, "predecessors": [{"name": "MacOS", "id": 56547}, {"name": "Mac_OS_-ohjelmat", "id": 70214}], "successors": [{"name": "MacOS-pelit", "id": 1519623}, {"name": "Alustariippumattomat_ohjelmat", "id": 1558541}]}

@@ -1,1 +1,1 @@
-{"name": "Ginger", "id": 26111106, "predecessors": [{"name": "Medicinal_plants", "id": 771411}, {"name": "Spices", "id": 700797}, {"name": "Zingiber", "id": 55544080}], "successors": [{"name": "Ginger_dishes", "id": 65028820}, {"name": "Ginger_ale", "id": 1780442}]}
+{"name": "Ginger", "id": 26111106, "predecessors": [{"name": "Medicinal_plants", "id": 771411}, {"name": "Spices", "id": 700797}], "successors": [{"name": "Ginger_dishes", "id": 65028820}, {"name": "Ginger_ale", "id": 1780442}]}

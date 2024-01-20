@@ -1,1 +1,1 @@
-{"name": "Wildfire_suppression_agencies", "id": 55429955, "predecessors": [{"name": "Wildfire_suppression", "id": 5811261}], "successors": []}
+{"name": "Wildfire_suppression_agencies", "id": 55429955, "predecessors": [{"name": "Fire_protection_organizations", "id": 21148303}, {"name": "Wildfire_suppression", "id": 5811261}], "successors": []}

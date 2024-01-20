@@ -1,1 +1,0 @@
-{"name": "Breathing_apparatus", "id": 29161423, "predecessors": [{"name": "Breathing_gases", "id": 7256780}, {"name": "Respiration", "id": 1320459}, {"name": "Manufactured_goods", "id": 699552}], "successors": [{"name": "Rebreathers", "id": 5058503}, {"name": "Industrial_breathing_sets", "id": 5466681}, {"name": "Underwater_breathing_apparatus", "id": 35668454}]}

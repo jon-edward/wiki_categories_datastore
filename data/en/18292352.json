@@ -1,1 +1,1 @@
-{"name": "Software_maintenance", "id": 18292352, "predecessors": [{"name": "Legacy_systems", "id": 1168061}, {"name": "Maintenance", "id": 6173101}, {"name": "Software_engineering", "id": 700943}], "successors": []}
+{"name": "Software_maintenance", "id": 18292352, "predecessors": [{"name": "Legacy_systems", "id": 1168061}, {"name": "Software_engineering", "id": 700943}], "successors": []}

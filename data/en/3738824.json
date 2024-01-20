@@ -1,1 +1,0 @@
-{"name": "Medical_signs", "id": 3738824, "predecessors": [{"name": "Symptoms_and_signs", "id": 40767698}], "successors": [{"name": "Radiologic_signs", "id": 8542401}, {"name": "Audible_medical_signs", "id": 19275325}, {"name": "Biomarkers", "id": 34431537}, {"name": "Defecation", "id": 55720380}]}

@@ -1,1 +1,1 @@
-{"name": "Bowling_broadcasters", "id": 17193550, "predecessors": [{"name": "Sports_commentators", "id": 2344107}], "successors": []}
+{"name": "Bowling_broadcasters", "id": 17193550, "predecessors": [{"name": "Sports_commentators", "id": 2344107}, {"name": "Ten-pin_bowling", "id": 54121168}], "successors": []}

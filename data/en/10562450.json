@@ -1,1 +1,1 @@
-{"name": "Prop_design", "id": 10562450, "predecessors": [{"name": "Design", "id": 999651}, {"name": "Film_production", "id": 1233269}, {"name": "Stagecraft", "id": 938285}, {"name": "Theatrical_occupations", "id": 11829358}], "successors": [{"name": "Prop_designers", "id": 10562302}]}
+{"name": "Prop_design", "id": 10562450, "predecessors": [{"name": "Film_production", "id": 1233269}, {"name": "Stagecraft", "id": 938285}, {"name": "Theatrical_occupations", "id": 11829358}], "successors": [{"name": "Prop_designers", "id": 10562302}]}

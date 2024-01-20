@@ -1,1 +1,1 @@
-{"name": "Street_vendors", "id": 42442598, "predecessors": [{"name": "People_in_retailing", "id": 60643837}], "successors": [{"name": "Street_food", "id": 24757085}]}
+{"name": "Street_vendors", "id": 42442598, "predecessors": [{"name": "People_in_retailing", "id": 60643837}, {"name": "Retail_formats", "id": 60643813}], "successors": [{"name": "Street_food", "id": 24757085}]}

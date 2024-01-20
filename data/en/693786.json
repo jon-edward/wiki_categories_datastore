@@ -1,1 +1,1 @@
-{"name": "Shield_volcanoes", "id": 693786, "predecessors": [{"name": "Volcanic_landforms", "id": 11062721}, {"name": "Volcanoes", "id": 693788}], "successors": [{"name": "Polygenetic_shield_volcanoes", "id": 51616782}, {"name": "Pliocene_shield_volcanoes", "id": 71098523}, {"name": "Miocene_shield_volcanoes", "id": 71098655}]}
+{"name": "Shield_volcanoes", "id": 693786, "predecessors": [{"name": "Volcanic_landforms", "id": 11062721}], "successors": []}

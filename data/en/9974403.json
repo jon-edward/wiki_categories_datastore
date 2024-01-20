@@ -1,1 +1,1 @@
-{"name": "Bibliophiles", "id": 9974403, "predecessors": [{"name": "Hobbies", "id": 698271}, {"name": "Book_collecting", "id": 9203521}], "successors": [{"name": "Book_and_manuscript_collectors", "id": 1679896}]}
+{"name": "Bibliophiles", "id": 9974403, "predecessors": [{"name": "Hobbies", "id": 698271}, {"name": "Books", "id": 694040}, {"name": "Book_collecting", "id": 9203521}], "successors": [{"name": "Book_and_manuscript_collectors", "id": 1679896}]}

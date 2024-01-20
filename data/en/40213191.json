@@ -1,1 +1,1 @@
-{"name": "Forestry_equipment", "id": 40213191, "predecessors": [{"name": "Forestry", "id": 996757}, {"name": "Manufactured_goods", "id": 699552}], "successors": [{"name": "Aerial_firefighting", "id": 13094277}]}
+{"name": "Forestry_equipment", "id": 40213191, "predecessors": [{"name": "Forestry", "id": 996757}, {"name": "Manufactured_goods", "id": 699552}], "successors": [{"name": "Log_transport", "id": 5833330}, {"name": "Aerial_firefighting", "id": 13094277}]}

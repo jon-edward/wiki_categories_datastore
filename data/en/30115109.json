@@ -1,1 +1,1 @@
-{"name": "Palaces_in_Barcelona", "id": 30115109, "predecessors": [{"name": "Buildings_and_structures_in_Barcelona", "id": 3337884}, {"name": "Tourist_attractions_in_Barcelona", "id": 12910130}, {"name": "Buildings_and_structures_in_Catalonia", "id": 3011787}, {"name": "Palaces_in_Spain", "id": 981509}], "successors": []}
+{"name": "Palaces_in_Barcelona", "id": 30115109, "predecessors": [{"name": "Buildings_and_structures_in_Barcelona", "id": 3337884}, {"name": "Tourist_attractions_in_Barcelona", "id": 12910130}, {"name": "Catalonia", "id": 705468}], "successors": []}

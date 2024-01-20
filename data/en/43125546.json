@@ -1,1 +1,1 @@
-{"name": "Local_Bubble", "id": 43125546, "predecessors": [{"name": "Interstellar_media", "id": 2778973}, {"name": "Open_clusters", "id": 936321}], "successors": [{"name": "Ursa_Major_moving_group", "id": 32180939}, {"name": "Hyades_(star_cluster)", "id": 35250473}, {"name": "Tau_Ceti", "id": 41313511}, {"name": "Solar_System", "id": 7473633}]}
+{"name": "Local_Bubble", "id": 43125546, "predecessors": [{"name": "Interstellar_media", "id": 2778973}], "successors": [{"name": "Hyades_(star_cluster)", "id": 35250473}]}

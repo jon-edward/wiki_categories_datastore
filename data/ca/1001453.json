@@ -1,1 +1,1 @@
-{"name": "Professors_de_la_Universitat_de_Londres", "id": 1001453, "predecessors": [{"name": "Universitats_d'Anglaterra", "id": 591687}, {"name": "Professors_universitaris", "id": 1126774}], "successors": [{"name": "Professors_de_la_London_School_of_Economics", "id": 1001450}]}
+{"name": "Professors_de_la_Universitat_de_Londres", "id": 1001453, "predecessors": [{"name": "Centres_educatius_de_Londres", "id": 993769}, {"name": "Professors_universitaris", "id": 1126774}], "successors": [{"name": "Professors_de_la_London_School_of_Economics", "id": 1001450}]}

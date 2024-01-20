@@ -1,1 +1,1 @@
-{"name": "Theatre_magazines", "id": 10560965, "predecessors": [{"name": "Entertainment_magazines", "id": 2340169}], "successors": [{"name": "Entertainment_trade_magazines", "id": 40541715}]}
+{"name": "Theatre_magazines", "id": 10560965, "predecessors": [{"name": "Entertainment_magazines", "id": 2340169}, {"name": "History_of_theatre", "id": 6991004}], "successors": [{"name": "Entertainment_trade_magazines", "id": 40541715}]}

@@ -1,1 +1,0 @@
-{"name": "Trouble_nutritionnel", "id": 478100, "predecessors": [{"name": "Nutrition", "id": 84920}], "successors": [{"name": "Carence_nutritionnelle", "id": 358409}, {"name": "Obésité", "id": 436453}, {"name": "Intoxication_alimentaire", "id": 464699}, {"name": "Trouble_des_conduites_alimentaires", "id": 533312}]}

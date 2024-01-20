@@ -1,1 +1,1 @@
-{"name": "International_Harvester_vehicles", "id": 12861688, "predecessors": [{"name": "Motor_vehicles_manufactured_in_the_United_States", "id": 24891097}, {"name": "Navistar_International", "id": 14207563}], "successors": [{"name": "Farmall_tractors", "id": 68583154}]}
+{"name": "International_Harvester_vehicles", "id": 12861688, "predecessors": [{"name": "Navistar_International", "id": 14207563}], "successors": [{"name": "Farmall_tractors", "id": 68583154}]}

@@ -1,1 +1,1 @@
-{"name": "Energy_harvesting", "id": 22207511, "predecessors": [{"name": "Energy_conversion", "id": 1947340}, {"name": "Sustainable_energy", "id": 14290410}], "successors": [{"name": "Bioenergy", "id": 9484434}, {"name": "Photovoltaics", "id": 17899952}]}
+{"name": "Energy_harvesting", "id": 22207511, "predecessors": [{"name": "Energy_conversion", "id": 1947340}, {"name": "Sustainable_energy", "id": 14290410}], "successors": [{"name": "Photovoltaics", "id": 17899952}]}

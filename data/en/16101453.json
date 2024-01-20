@@ -1,1 +1,1 @@
-{"name": "Compound_helicopters", "id": 16101453, "predecessors": [{"name": "Gyrodynes", "id": 6498610}, {"name": "Helicopters", "id": 751767}, {"name": "VTOL_aircraft", "id": 759772}], "successors": []}
+{"name": "Compound_helicopters", "id": 16101453, "predecessors": [{"name": "Helicopters", "id": 751767}, {"name": "VTOL_aircraft", "id": 759772}, {"name": "Rotorcraft", "id": 894955}], "successors": []}

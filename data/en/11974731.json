@@ -1,1 +1,1 @@
-{"name": "Intelligence_analysis", "id": 11974731, "predecessors": [{"name": "Analysis", "id": 25448614}, {"name": "Espionage", "id": 878532}, {"name": "Intelligence_assessment", "id": 14470219}], "successors": [{"name": "Intelligence_websites", "id": 3544644}]}
+{"name": "Intelligence_analysis", "id": 11974731, "predecessors": [{"name": "Analysis", "id": 25448614}, {"name": "Espionage", "id": 878532}, {"name": "Intelligence_assessment", "id": 14470219}], "successors": []}

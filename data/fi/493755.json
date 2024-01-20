@@ -1,1 +1,1 @@
-{"name": "DAX-indeksi", "id": 493755, "predecessors": [{"name": "Osakeindeksit", "id": 248095}], "successors": [{"name": "Siemens", "id": 993140}, {"name": "Adidaksen_tavaramerkit", "id": 836241}]}
+{"name": "DAX-indeksi", "id": 493755, "predecessors": [{"name": "Osakeindeksit", "id": 248095}], "successors": [{"name": "BMW", "id": 151021}, {"name": "Porsche", "id": 196630}, {"name": "Volkswagen_Group", "id": 504825}, {"name": "Siemens", "id": 993140}, {"name": "Adidaksen_tavaramerkit", "id": 836241}]}

@@ -1,1 +1,1 @@
-{"name": "Synthetic_minerals", "id": 1007396, "predecessors": [{"name": "Minerals", "id": 708104}, {"name": "Synthetic_materials", "id": 2018552}], "successors": [{"name": "Synthetic_diamond", "id": 8156704}]}
+{"name": "Synthetic_minerals", "id": 1007396, "predecessors": [{"name": "Minerals", "id": 708104}], "successors": [{"name": "Synthetic_diamond", "id": 8156704}]}

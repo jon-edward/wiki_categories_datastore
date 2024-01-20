@@ -1,1 +1,1 @@
-{"name": "Nvidia_microarchitectures", "id": 42100626, "predecessors": [{"name": "Computer_architecture", "id": 869984}], "successors": []}
+{"name": "Nvidia_microarchitectures", "id": 42100626, "predecessors": [{"name": "Nvidia_products", "id": 51180513}, {"name": "Computer_architecture", "id": 869984}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Japanese_printmakers", "id": 3597376, "predecessors": [{"name": "Japanese_artists", "id": 693107}], "successors": [{"name": "Ukiyo-e_artists", "id": 8608032}, {"name": "Sosaku_hanga_artists", "id": 20304907}, {"name": "Shin_hanga_artists", "id": 20310034}]}
+{"name": "Japanese_printmakers", "id": 3597376, "predecessors": [{"name": "Japanese_artists", "id": 693107}, {"name": "Printmakers", "id": 2347803}], "successors": [{"name": "Ukiyo-e_artists", "id": 8608032}, {"name": "Sosaku_hanga_artists", "id": 20304907}, {"name": "Shin_hanga_artists", "id": 20310034}]}

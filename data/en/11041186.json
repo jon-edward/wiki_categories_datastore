@@ -1,1 +1,1 @@
-{"name": "Secret_broadcasting", "id": 11041186, "predecessors": [{"name": "Applications_of_cryptography", "id": 3506226}, {"name": "Espionage_techniques", "id": 11671017}, {"name": "International_broadcasting", "id": 1000874}, {"name": "Secrecy", "id": 3114961}], "successors": [{"name": "Numbers_stations", "id": 70028537}]}
+{"name": "Secret_broadcasting", "id": 11041186, "predecessors": [{"name": "Espionage_techniques", "id": 11671017}, {"name": "International_broadcasting", "id": 1000874}, {"name": "Secrecy", "id": 3114961}], "successors": []}

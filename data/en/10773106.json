@@ -1,1 +1,1 @@
-{"name": "Oil_wells", "id": 10773106, "predecessors": [{"name": "Drilling_technology", "id": 11015159}, {"name": "Petroleum_technology", "id": 14311725}], "successors": [{"name": "Hydraulic_fracturing", "id": 32544541}, {"name": "Oil_wells_on_the_National_Register_of_Historic_Places", "id": 71805802}]}
+{"name": "Oil_wells", "id": 10773106, "predecessors": [{"name": "Drilling_technology", "id": 11015159}], "successors": [{"name": "Hydraulic_fracturing", "id": 32544541}, {"name": "Oil_wells_on_the_National_Register_of_Historic_Places", "id": 71805802}]}

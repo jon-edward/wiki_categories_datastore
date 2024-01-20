@@ -1,1 +1,1 @@
-{"name": "School_arson_fires_in_the_United_Kingdom", "id": 48202284, "predecessors": [{"name": "Arson_in_the_United_Kingdom", "id": 38513573}, {"name": "Occupational_hazards", "id": 53924025}, {"name": "Education_in_Europe", "id": 23578659}], "successors": [{"name": "School_buildings_in_the_United_Kingdom_destroyed_by_arson", "id": 38513553}]}
+{"name": "School_arson_fires_in_the_United_Kingdom", "id": 48202284, "predecessors": [{"name": "School_violence", "id": 65494286}], "successors": [{"name": "School_buildings_in_the_United_Kingdom_destroyed_by_arson", "id": 38513553}]}

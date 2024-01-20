@@ -1,1 +1,1 @@
-{"name": "Integumentary_neoplasia", "id": 32582116, "predecessors": [{"name": "Cutaneous_conditions", "id": 19985319}, {"name": "Types_of_neoplasia", "id": 32581830}], "successors": [{"name": "Epidermal_nevi,_neoplasms,_and_cysts", "id": 19989709}, {"name": "Melanocytic_nevi_and_neoplasms", "id": 19989724}]}
+{"name": "Integumentary_neoplasia", "id": 32582116, "predecessors": [{"name": "Types_of_neoplasia", "id": 32581830}], "successors": [{"name": "Epidermal_nevi,_neoplasms,_and_cysts", "id": 19989709}, {"name": "Melanocytic_nevi_and_neoplasms", "id": 19989724}]}

@@ -1,1 +1,1 @@
-{"name": "Physics_conferences", "id": 25400899, "predecessors": [{"name": "Physics_events", "id": 71976587}, {"name": "Physics_organizations", "id": 1673597}, {"name": "Science_conferences", "id": 28876907}], "successors": []}
+{"name": "Physics_conferences", "id": 25400899, "predecessors": [{"name": "Physics_organizations", "id": 1673597}, {"name": "Science_conferences", "id": 28876907}, {"name": "Physics", "id": 692318}], "successors": []}

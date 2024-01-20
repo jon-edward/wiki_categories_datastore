@@ -1,1 +1,1 @@
-{"name": "Jure_uxoris_officeholders", "id": 38666595, "predecessors": [{"name": "Feudalism", "id": 1378039}, {"name": "Genealogy", "id": 724361}, {"name": "Inheritance", "id": 5660296}], "successors": []}
+{"name": "Jure_uxoris_officeholders", "id": 38666595, "predecessors": [{"name": "Feudalism", "id": 1378039}, {"name": "Genealogy", "id": 724361}, {"name": "Inheritance", "id": 5660296}, {"name": "Marriage", "id": 744826}], "successors": [{"name": "Peers_jure_uxoris", "id": 14905478}, {"name": "Jure_uxoris_kings", "id": 25188998}]}

@@ -1,1 +1,1 @@
-{"name": "Deaths_from_esophageal_cancer", "id": 29050048, "predecessors": [{"name": "Deaths_from_throat_cancer", "id": 29053247}, {"name": "Deaths_from_digestive_disease", "id": 19627699}], "successors": []}
+{"name": "Deaths_from_esophageal_cancer", "id": 29050048, "predecessors": [{"name": "Deaths_from_throat_cancer", "id": 29053247}, {"name": "Gastrointestinal_cancer", "id": 20053977}], "successors": []}

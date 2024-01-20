@@ -1,1 +1,1 @@
-{"name": "Volcanic_cones", "id": 994360, "predecessors": [{"name": "Volcanic_landforms", "id": 11062721}, {"name": "Volcanoes", "id": 693788}], "successors": [{"name": "Cinder_cones", "id": 986629}, {"name": "Tuff_cones", "id": 990428}, {"name": "Pyroclastic_cones", "id": 10205056}]}
+{"name": "Volcanic_cones", "id": 994360, "predecessors": [{"name": "Volcanic_landforms", "id": 11062721}], "successors": [{"name": "Cinder_cones", "id": 986629}, {"name": "Tuff_cones", "id": 990428}, {"name": "Pyroclastic_cones", "id": 10205056}]}

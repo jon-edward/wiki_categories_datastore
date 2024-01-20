@@ -1,1 +1,1 @@
-{"name": "Mathematics_educators", "id": 8881239, "predecessors": [{"name": "Mathematics_education", "id": 780676}, {"name": "Formal_sciences", "id": 17503782}], "successors": [{"name": "Statistics_educators", "id": 27363556}]}
+{"name": "Mathematics_educators", "id": 8881239, "predecessors": [{"name": "Mathematics_education", "id": 780676}, {"name": "Formal_sciences", "id": 17503782}, {"name": "Teaching", "id": 2478638}], "successors": [{"name": "Statistics_educators", "id": 27363556}]}

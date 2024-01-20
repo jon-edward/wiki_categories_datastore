@@ -1,1 +1,1 @@
-{"name": "Esportistes_lisboetes", "id": 1105987, "predecessors": [{"name": "Lisboetes", "id": 642641}, {"name": "Cultura", "id": 12968}, {"name": "Cultura_de_Portugal", "id": 1850803}], "successors": [{"name": "Futbolistes_lisboetes", "id": 1058624}]}
+{"name": "Esportistes_lisboetes", "id": 1105987, "predecessors": [{"name": "Esportistes_portuguesos", "id": 128909}, {"name": "Lisboetes", "id": 642641}, {"name": "Cultura_de_Portugal", "id": 1850803}], "successors": [{"name": "Futbolistes_lisboetes", "id": 1058624}]}

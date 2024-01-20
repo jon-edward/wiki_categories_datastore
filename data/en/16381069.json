@@ -1,1 +1,1 @@
-{"name": "Cyberpunk_comics", "id": 16381069, "predecessors": [{"name": "Dystopian_comics", "id": 43202058}], "successors": [{"name": "Steampunk_comics", "id": 16363284}, {"name": "Cyberpunk_anime_and_manga", "id": 16381054}]}
+{"name": "Cyberpunk_comics", "id": 16381069, "predecessors": [{"name": "Dystopian_comics", "id": 43202058}, {"name": "Cyberpunk", "id": 710319}], "successors": [{"name": "Steampunk_comics", "id": 16363284}, {"name": "Cyberpunk_anime_and_manga", "id": 16381054}, {"name": "Marvel_2099_characters", "id": 6648255}]}

@@ -1,1 +1,1 @@
-{"name": "Kulit", "id": 987428, "predecessors": [{"name": "Sistem_endokrin", "id": 306053}], "successors": [{"name": "Penjagaan_kulit", "id": 112275}]}
+{"name": "Kulit", "id": 987428, "predecessors": [{"name": "Sistem_endokrin", "id": 306053}, {"name": "Organ", "id": 76465}], "successors": [{"name": "Penjagaan_kulit", "id": 112275}]}

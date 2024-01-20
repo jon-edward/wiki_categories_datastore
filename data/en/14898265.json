@@ -1,1 +1,1 @@
-{"name": "Apple_Inc._peripherals", "id": 14898265, "predecessors": [{"name": "Computer_peripherals", "id": 3547205}], "successors": [{"name": "Macintosh_peripherals", "id": 14898218}, {"name": "Apple_II_peripherals", "id": 14899079}]}
+{"name": "Apple_Inc._peripherals", "id": 14898265, "predecessors": [{"name": "Apple_Inc._hardware", "id": 9301031}], "successors": [{"name": "Macintosh_peripherals", "id": 14898218}, {"name": "Apple_II_peripherals", "id": 14899079}]}

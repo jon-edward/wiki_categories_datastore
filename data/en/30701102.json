@@ -1,1 +1,0 @@
-{"name": "Model_checking", "id": 30701102, "predecessors": [{"name": "Formal_methods", "id": 2574961}, {"name": "Model_theory", "id": 693979}], "successors": [{"name": "Model_checkers", "id": 8232149}, {"name": "Temporal_logic", "id": 30577353}]}

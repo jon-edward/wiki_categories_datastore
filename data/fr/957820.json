@@ -1,1 +1,0 @@
-{"name": "Voix_sur_réseau_IP", "id": 957820, "predecessors": [{"name": "Application_d'Internet", "id": 2752309}, {"name": "Réseau_informatique", "id": 302733}, {"name": "Téléphonie", "id": 155838}], "successors": [{"name": "Logiciel_de_voix_sur_réseau_IP", "id": 1085046}, {"name": "Protocole_de_voix_sur_réseau_IP", "id": 1085095}]}

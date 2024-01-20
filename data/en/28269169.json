@@ -1,1 +1,1 @@
-{"name": "Dark_fantasy_novels", "id": 28269169, "predecessors": [{"name": "Dark_fantasy", "id": 28065347}, {"name": "Fantasy_novels", "id": 1595179}, {"name": "Horror_genres", "id": 12301023}], "successors": [{"name": "The_Witcher", "id": 14412436}, {"name": "The_Book_of_The_New_Sun", "id": 47025384}]}
+{"name": "Dark_fantasy_novels", "id": 28269169, "predecessors": [{"name": "Dark_fantasy", "id": 28065347}, {"name": "Horror_genres", "id": 12301023}], "successors": [{"name": "The_Witcher", "id": 14412436}, {"name": "The_Book_of_The_New_Sun", "id": 47025384}]}

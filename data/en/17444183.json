@@ -1,1 +1,1 @@
-{"name": "Hospitals_in_Seattle", "id": 17444183, "predecessors": [{"name": "Buildings_and_structures_in_Seattle", "id": 17389395}, {"name": "Economy_of_Seattle", "id": 16313902}, {"name": "Hospitals_in_Washington_(state)", "id": 30845279}], "successors": []}
+{"name": "Hospitals_in_Seattle", "id": 17444183, "predecessors": [{"name": "Buildings_and_structures_in_Seattle", "id": 17389395}, {"name": "Hospitals_in_Washington_(state)", "id": 30845279}, {"name": "Seattle", "id": 1860652}], "successors": []}

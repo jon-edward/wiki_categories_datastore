@@ -1,1 +1,1 @@
-{"name": "Indole_alkaloids", "id": 10958099, "predecessors": [{"name": "Indoles", "id": 3231798}, {"name": "Alkaloids", "id": 717944}], "successors": [{"name": "Tryptamine_alkaloids", "id": 41052192}]}
+{"name": "Indole_alkaloids", "id": 10958099, "predecessors": [{"name": "Alkaloids", "id": 717944}], "successors": [{"name": "Tryptamine_alkaloids", "id": 41052192}]}

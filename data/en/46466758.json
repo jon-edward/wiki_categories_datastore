@@ -1,1 +1,1 @@
-{"name": "Copper_objects", "id": 46466758, "predecessors": [{"name": "Artworks_in_metal", "id": 18420811}, {"name": "Copper", "id": 3726228}, {"name": "Metallic_objects", "id": 64425173}], "successors": [{"name": "Copper_coins", "id": 46466754}]}
+{"name": "Copper_objects", "id": 46466758, "predecessors": [{"name": "Artworks_in_metal", "id": 18420811}, {"name": "Metallic_objects", "id": 64425173}], "successors": [{"name": "Copper_coins", "id": 46466754}, {"name": "Copper_sculptures_in_the_United_States", "id": 45423791}]}

@@ -1,1 +1,1 @@
-{"name": "Train_and_rapid_transit_fires", "id": 8300897, "predecessors": [{"name": "Rapid_transit", "id": 4286827}, {"name": "Trains", "id": 1784707}, {"name": "Vehicles", "id": 694929}], "successors": []}
+{"name": "Train_and_rapid_transit_fires", "id": 8300897, "predecessors": [{"name": "Rapid_transit", "id": 4286827}], "successors": []}

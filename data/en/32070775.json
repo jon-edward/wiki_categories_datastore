@@ -1,1 +1,1 @@
-{"name": "Contactless_smart_cards", "id": 32070775, "predecessors": [{"name": "Payment_cards", "id": 41632361}, {"name": "Radio-frequency_identification", "id": 16047036}, {"name": "Smart_cards", "id": 15056030}], "successors": [{"name": "Near-field_communication", "id": 39108751}]}
+{"name": "Contactless_smart_cards", "id": 32070775, "predecessors": [{"name": "Radio-frequency_identification", "id": 16047036}, {"name": "Smart_cards", "id": 15056030}], "successors": []}

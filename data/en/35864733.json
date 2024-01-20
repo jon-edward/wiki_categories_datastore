@@ -1,1 +1,1 @@
-{"name": "Lumberjack_sports", "id": 35864733, "predecessors": [{"name": "Forestry", "id": 996757}, {"name": "Logging", "id": 5846471}, {"name": "Multisports", "id": 34822335}, {"name": "Team_sports", "id": 700681}, {"name": "Traditional_sports", "id": 26207253}, {"name": "Environment_and_society", "id": 15474891}], "successors": []}
+{"name": "Lumberjack_sports", "id": 35864733, "predecessors": [{"name": "Forestry", "id": 996757}, {"name": "Logging", "id": 5846471}, {"name": "Multisports", "id": 34822335}, {"name": "Foresters", "id": 23887526}], "successors": []}

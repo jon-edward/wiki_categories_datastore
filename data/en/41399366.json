@@ -1,1 +1,1 @@
-{"name": "4_×_100_metres_relay", "id": 41399366, "predecessors": [{"name": "Track_relay_races", "id": 36702409}], "successors": [{"name": "4_×_100_metres_relay_at_the_Universiade", "id": 67968678}]}
+{"name": "4_×_100_metres_relay", "id": 41399366, "predecessors": [{"name": "100_metres", "id": 31922014}, {"name": "Track_relay_races", "id": 36702409}], "successors": [{"name": "4_×_100_metres_relay_at_the_Universiade", "id": 67968678}]}

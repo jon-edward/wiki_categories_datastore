@@ -1,1 +1,1 @@
-{"name": "Lavras", "id": 71563485, "predecessors": [{"name": "Christian_communities", "id": 5163118}, {"name": "Catholic_Church", "id": 733334}, {"name": "Legacy_of_the_Roman_Empire", "id": 70508814}], "successors": [{"name": "Kyiv_Pechersk_Lavra", "id": 7878062}, {"name": "Great_Lavra", "id": 71563067}]}
+{"name": "Lavras", "id": 71563485, "predecessors": [{"name": "Christian_architecture", "id": 18985026}], "successors": [{"name": "Kyiv_Pechersk_Lavra", "id": 7878062}, {"name": "Great_Lavra", "id": 71563067}]}

@@ -1,1 +1,1 @@
-{"name": "USAs_regioner", "id": 469854, "predecessors": [{"name": "USAs_geografi", "id": 46108}, {"name": "Geografiske_inndelinger", "id": 1013363}], "successors": [{"name": "Texas'_regioner", "id": 1524998}, {"name": "New_England", "id": 1688474}]}
+{"name": "USAs_regioner", "id": 469854, "predecessors": [{"name": "USAs_geografi", "id": 46108}, {"name": "Geografi", "id": 13178}], "successors": [{"name": "Texas'_regioner", "id": 1524998}, {"name": "New_England", "id": 1688474}]}

@@ -1,1 +1,1 @@
-{"name": "Gelug_tulkus", "id": 61506306, "predecessors": [{"name": "Tulkus", "id": 4088885}], "successors": [{"name": "Dalai_Lamas", "id": 882629}, {"name": "Panchen_Lamas", "id": 3818301}]}
+{"name": "Gelug_tulkus", "id": 61506306, "predecessors": [{"name": "Gelug_Buddhists", "id": 14986031}, {"name": "Tulkus", "id": 4088885}], "successors": [{"name": "Dalai_Lamas", "id": 882629}, {"name": "Panchen_Lamas", "id": 3818301}]}

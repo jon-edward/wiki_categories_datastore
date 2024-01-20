@@ -1,1 +1,1 @@
-{"name": "3D_cinema", "id": 33266016, "predecessors": [{"name": "Film", "id": 2012004}, {"name": "Stereoscopy", "id": 20877634}], "successors": [{"name": "3D_short_films", "id": 36422631}, {"name": "3D_re-releases", "id": 51456934}, {"name": "3D_documentary_films", "id": 60555525}, {"name": "3D_animated_films", "id": 61150316}]}
+{"name": "3D_cinema", "id": 33266016, "predecessors": [{"name": "Film", "id": 2012004}, {"name": "Stereoscopy", "id": 20877634}], "successors": [{"name": "3D_documentary_films", "id": 60555525}]}

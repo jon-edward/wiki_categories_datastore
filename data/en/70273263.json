@@ -1,1 +1,1 @@
-{"name": "Ruminants", "id": 70273263, "predecessors": [{"name": "Extant_Ypresian_first_appearances", "id": 48650497}, {"name": "Herbivorous_mammals", "id": 54540055}, {"name": "Artiodactyls", "id": 922678}], "successors": [{"name": "Ruminant_diseases", "id": 18637516}, {"name": "Chevrotains", "id": 29549078}]}
+{"name": "Ruminants", "id": 70273263, "predecessors": [{"name": "Herbivorous_mammals", "id": 54540055}, {"name": "Phylogenetics", "id": 825200}], "successors": []}

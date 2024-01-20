@@ -1,1 +1,1 @@
-{"name": "Hybrid_plants", "id": 18930823, "predecessors": [{"name": "Plants", "id": 867260}, {"name": "Agriculture_by_type", "id": 31038144}, {"name": "Classical_genetics", "id": 987078}], "successors": [{"name": "Orchid_hybrids", "id": 52546768}, {"name": "Interspecific_plant_hybrids", "id": 52547201}, {"name": "Plant_nothogenera", "id": 52547299}, {"name": "Nepenthes_natural_hybrids", "id": 26418040}]}
+{"name": "Hybrid_plants", "id": 18930823, "predecessors": [{"name": "Agriculture_by_type", "id": 31038144}], "successors": []}

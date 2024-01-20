@@ -1,1 +1,1 @@
-{"name": "Diagnostic_neurology", "id": 72219889, "predecessors": [{"name": "Medical_diagnosis", "id": 16705234}, {"name": "Neurology_procedures", "id": 32498603}], "successors": [{"name": "Neuropsychological_tests", "id": 18186457}]}
+{"name": "Diagnostic_neurology", "id": 72219889, "predecessors": [{"name": "Medical_diagnosis", "id": 16705234}], "successors": [{"name": "Neuropsychological_tests", "id": 18186457}]}

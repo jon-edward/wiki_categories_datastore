@@ -1,1 +1,1 @@
-{"name": "Phycologists", "id": 13208325, "predecessors": [{"name": "Phycology", "id": 42479439}, {"name": "Branches_of_biology", "id": 37535091}], "successors": [{"name": "Women_phycologists", "id": 41980166}]}
+{"name": "Phycologists", "id": 13208325, "predecessors": [{"name": "Phycology", "id": 42479439}, {"name": "Biology", "id": 692675}], "successors": [{"name": "Women_phycologists", "id": 41980166}]}

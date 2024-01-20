@@ -1,1 +1,1 @@
-{"name": "Weirs", "id": 7146956, "predecessors": [{"name": "Dams_by_type", "id": 17500975}, {"name": "Hydraulic_structures", "id": 23140599}, {"name": "Hydrology", "id": 1101997}, {"name": "Rivers", "id": 695393}], "successors": [{"name": "Weirs_on_the_River_Thames", "id": 7207213}, {"name": "Weirs_on_the_River_Lea", "id": 30821614}]}
+{"name": "Weirs", "id": 7146956, "predecessors": [{"name": "Dams_by_type", "id": 17500975}, {"name": "Hydrology", "id": 1101997}, {"name": "Rivers", "id": 695393}], "successors": []}

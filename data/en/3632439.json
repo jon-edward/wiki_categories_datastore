@@ -1,1 +1,1 @@
-{"name": "Carbamate_insecticides", "id": 3632439, "predecessors": [{"name": "Carbamates", "id": 5127812}, {"name": "Drugs_acting_on_the_nervous_system", "id": 22001763}, {"name": "Insecticides", "id": 1099869}], "successors": []}
+{"name": "Carbamate_insecticides", "id": 3632439, "predecessors": [{"name": "Insecticides", "id": 1099869}], "successors": []}
