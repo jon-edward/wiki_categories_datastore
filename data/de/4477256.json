@@ -1,0 +1,1 @@
+{"name": "Energiesparendes_Bauen", "id": 4477256, "predecessors": [{"name": "Baukonstruktion", "id": 266008}, {"name": "Energieeinsparung", "id": 1771585}], "successors": [{"name": "Energiestandard", "id": 518337}, {"name": "Dämmung", "id": 3335258}, {"name": "Solararchitektur", "id": 4479740}]}

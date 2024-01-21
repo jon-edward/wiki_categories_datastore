@@ -1,0 +1,1 @@
+{"name": "Equipamiento_animal", "id": 5474015, "predecessors": [{"name": "Veterinaria", "id": 51742}], "successors": [{"name": "Recipientes_para_animales", "id": 4376798}, {"name": "Equipamiento_canino", "id": 6513352}, {"name": "Equipamiento_equino", "id": 8653992}]}

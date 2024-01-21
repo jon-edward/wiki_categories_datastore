@@ -1,0 +1,1 @@
+{"name": "IRC", "id": 117208, "predecessors": [{"name": "응용_계층_프로토콜", "id": 927488}, {"name": "채팅", "id": 576625}], "successors": [{"name": "IRC_클라이언트", "id": 3090923}]}

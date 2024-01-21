@@ -1,0 +1,1 @@
+{"name": "Enfermedades_inmunológicas", "id": 1020518, "predecessors": [{"name": "Inmunología", "id": 102552}], "successors": [{"name": "Enfermedades_autoinmunitarias", "id": 73817}, {"name": "Enfermedades_atópicas", "id": 414998}, {"name": "Inmunodeficiencias", "id": 1020534}, {"name": "Alergia", "id": 1653616}]}

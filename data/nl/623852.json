@@ -1,0 +1,1 @@
+{"name": "Medisch_beroep", "id": 623852, "predecessors": [{"name": "Beroep", "id": 63395}, {"name": "Geneeskunde", "id": 63397}], "successors": [{"name": "Geneeskundig_specialisme", "id": 93115}, {"name": "Psychotherapeut", "id": 808585}]}

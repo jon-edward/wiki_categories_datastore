@@ -1,1 +1,1 @@
-{"name": "算子理论", "id": 912735, "predecessors": [{"name": "泛函分析", "id": 85177}], "successors": [{"name": "线性算子", "id": 1129683}]}
+{"name": "算子理论", "id": 912735, "predecessors": [{"name": "泛函分析", "id": 85177}], "successors": [{"name": "线性算子", "id": 1129683}, {"name": "谱理论", "id": 8619720}]}

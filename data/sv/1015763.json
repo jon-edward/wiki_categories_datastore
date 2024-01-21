@@ -1,0 +1,1 @@
+{"name": "Navigationsrutor-Flyg", "id": 1015763, "predecessors": [{"name": "Navigationsrutor-Infrastruktur", "id": 984148}, {"name": "Flyg", "id": 60557}], "successors": [{"name": "Navigationsrutor-Flygplatser", "id": 4897683}, {"name": "Navigationsrutor-Flygbolag", "id": 4897727}, {"name": "Navigationsrutor-Flygplanstillverkare", "id": 4897728}]}

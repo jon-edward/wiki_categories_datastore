@@ -1,0 +1,1 @@
+{"name": "Supercomputadoras", "id": 1434358, "predecessors": [{"name": "Computadoras", "id": 1434456}, {"name": "Instrumentos_científicos", "id": 4240405}, {"name": "Informática_aplicada", "id": 1332328}], "successors": [{"name": "Computación_distribuida", "id": 505918}, {"name": "Cray", "id": 5884298}]}

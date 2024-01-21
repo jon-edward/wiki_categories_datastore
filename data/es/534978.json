@@ -1,0 +1,1 @@
+{"name": "Perl", "id": 534978, "predecessors": [{"name": "Compiladores_e_intérpretes_libres", "id": 467799}, {"name": "Software_libre", "id": 51355}, {"name": "Software_para_Linux", "id": 1115149}, {"name": "Software_para_Unix", "id": 1115786}], "successors": [{"name": "Programas_hechos_con_Perl", "id": 539347}]}

@@ -1,1 +1,1 @@
-{"name": "Biểu_tình_năm_2023", "id": 19777467, "predecessors": [{"name": "Biểu_tình", "id": 199012}], "successors": [{"name": "Biểu_tình_đang_diễn_ra", "id": 19535961}]}
+{"name": "Biểu_tình_năm_2023", "id": 19777467, "predecessors": [{"name": "Biểu_tình", "id": 199012}, {"name": "Năm_2023", "id": 19166861}], "successors": [{"name": "Biểu_tình_đang_diễn_ra", "id": 19535961}]}

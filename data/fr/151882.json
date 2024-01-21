@@ -1,0 +1,1 @@
+{"name": "Usinage", "id": 151882, "predecessors": [{"name": "Procédé_industriel", "id": 9510438}, {"name": "Construction_mécanique", "id": 805482}], "successors": [{"name": "Machine-outil", "id": 876387}, {"name": "Instrument_de_mesure_mécanique", "id": 1090194}]}

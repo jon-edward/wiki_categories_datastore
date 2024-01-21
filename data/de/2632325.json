@@ -1,0 +1,1 @@
+{"name": "Krankheitsbild_in_Hämatologie_und_Onkologie", "id": 2632325, "predecessors": [{"name": "Hämatologie", "id": 290097}, {"name": "Krankheitsbild_in_der_Inneren_Medizin", "id": 2628108}, {"name": "Onkologie", "id": 290099}], "successors": [{"name": "Anämie", "id": 8781991}, {"name": "Bösartige_Tumorbildung", "id": 11648064}]}

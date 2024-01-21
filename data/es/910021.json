@@ -1,0 +1,1 @@
+{"name": "Utensilios", "id": 910021, "predecessors": [{"name": "Aparatos", "id": 667958}], "successors": [{"name": "Utensilios_de_cocina", "id": 141072}, {"name": "Utensilios_de_limpieza", "id": 2453180}, {"name": "Utensilios_domésticos", "id": 6873789}, {"name": "Utensilios_de_pintura", "id": 9549850}]}

@@ -1,0 +1,1 @@
+{"name": "GNOME", "id": 158828, "predecessors": [{"name": "GNUプロジェクト", "id": 683745}, {"name": "X_Window_System", "id": 1064679}, {"name": "デスクトップ環境", "id": 783263}, {"name": "コンピュータの文化", "id": 1053661}], "successors": [{"name": "Freedesktop.org", "id": 1472599}]}

@@ -1,0 +1,1 @@
+{"name": "Bancos_multinacionales", "id": 9827395, "predecessors": [{"name": "Bancos", "id": 132846}, {"name": "Empresas_multinacionales", "id": 559459}], "successors": [{"name": "Banco_Santander", "id": 727747}, {"name": "BBVA", "id": 3050480}, {"name": "Banco_Sabadell", "id": 5378737}, {"name": "Grupo_Banesco", "id": 6233258}]}

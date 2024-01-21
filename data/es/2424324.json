@@ -1,0 +1,1 @@
+{"name": "Toxinas", "id": 2424324, "predecessors": [{"name": "Contaminación_biológica", "id": 5923943}, {"name": "Metabolitos_secundarios", "id": 5215286}, {"name": "Seguridad_alimentaria", "id": 664644}, {"name": "Venenos", "id": 837255}], "successors": [{"name": "Micotoxinas", "id": 1035226}, {"name": "Neurotoxinas", "id": 1516214}]}

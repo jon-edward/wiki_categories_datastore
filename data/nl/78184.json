@@ -1,0 +1,1 @@
+{"name": "Horeca", "id": 78184, "predecessors": [{"name": "Bedrijfstype", "id": 804745}, {"name": "Voeding", "id": 66072}], "successors": [{"name": "Hotel", "id": 87380}, {"name": "Restaurant", "id": 317990}, {"name": "Café", "id": 561778}, {"name": "Jazzclub", "id": 1263731}, {"name": "Homohoreca", "id": 2897678}, {"name": "Congrescentrum", "id": 3849352}]}

@@ -1,0 +1,1 @@
+{"name": "Sales", "id": 209662, "predecessors": [{"name": "Compuestos_químicos", "id": 112512}, {"name": "Química_ácido-base", "id": 1825458}, {"name": "Nomenclatura_química", "id": 2561049}, {"name": "Estados_de_la_materia", "id": 132421}], "successors": [{"name": "Sales_orgánicas", "id": 286380}, {"name": "Iones", "id": 1190305}]}

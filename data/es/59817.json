@@ -1,0 +1,1 @@
+{"name": "Virus", "id": 59817, "predecessors": [{"name": "Agentes_biológicos_patógenos", "id": 802756}, {"name": "Virología", "id": 214919}], "successors": [{"name": "Enfermedades_virales", "id": 779141}, {"name": "Bacteriófagos", "id": 2236736}, {"name": "Proteína_viral", "id": 4885078}, {"name": "Virus_ARN", "id": 9499088}, {"name": "Virus_ADN", "id": 9499093}]}

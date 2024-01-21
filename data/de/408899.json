@@ -1,0 +1,1 @@
+{"name": "Zahlungsverkehr", "id": 408899, "predecessors": [{"name": "Bankwesen", "id": 1286951}], "successors": [{"name": "Unbarer_Zahlungsverkehr", "id": 2092318}, {"name": "Barer_Zahlungsverkehr", "id": 2092329}, {"name": "Zahlung", "id": 7562935}, {"name": "Zahlungsmittel", "id": 11234359}]}

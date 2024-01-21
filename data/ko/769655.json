@@ -1,0 +1,1 @@
+{"name": "스모그", "id": 769655, "predecessors": [{"name": "대기_오염", "id": 208526}], "successors": [{"name": "미세먼지", "id": 769644}]}

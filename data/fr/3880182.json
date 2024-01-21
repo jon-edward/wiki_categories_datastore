@@ -1,0 +1,1 @@
+{"name": "Démolition", "id": 3880182, "predecessors": [{"name": "Génie_civil", "id": 85512}, {"name": "Violence", "id": 167059}], "successors": [{"name": "Pont_démoli", "id": 3880160}, {"name": "Bâtiment_détruit", "id": 4910374}, {"name": "Ville_détruite", "id": 539186}]}

@@ -1,0 +1,1 @@
+{"name": "Buses", "id": 66982, "predecessors": [{"name": "Telecomunicaciones", "id": 52300}, {"name": "Conectores_eléctricos", "id": 6023571}], "successors": [{"name": "Ethernet", "id": 507179}, {"name": "Ranuras_de_expansión_de_placas_base", "id": 511692}, {"name": "Buses_de_almacenamiento", "id": 5993459}, {"name": "Buses_seriales", "id": 9742818}]}

@@ -1,0 +1,1 @@
+{"name": "Conductores_eléctricos", "id": 6370724, "predecessors": [{"name": "Materiales", "id": 74562}], "successors": [{"name": "Materiales_superconductores", "id": 1189060}, {"name": "Aluminio", "id": 1330179}, {"name": "Electrodos", "id": 1851194}]}

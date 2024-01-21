@@ -1,0 +1,1 @@
+{"name": "デスクトップ環境", "id": 783263, "predecessors": [{"name": "ウィンドウシステム", "id": 3502459}], "successors": [{"name": "GNOME", "id": 158828}, {"name": "KDE", "id": 888954}]}

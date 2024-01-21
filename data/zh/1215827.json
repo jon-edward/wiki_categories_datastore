@@ -1,1 +1,1 @@
-{"name": "電子音樂家", "id": 1215827, "predecessors": [{"name": "電子音樂", "id": 55512}, {"name": "音乐", "id": 41218}], "successors": [{"name": "使用Vocaloid的音樂家", "id": 1538857}, {"name": "混音師", "id": 3887298}]}
+{"name": "電子音樂家", "id": 1215827, "predecessors": [{"name": "電子音樂", "id": 55512}, {"name": "表演藝術", "id": 58285}], "successors": [{"name": "使用Vocaloid的音樂家", "id": 1538857}, {"name": "混音師", "id": 3887298}]}

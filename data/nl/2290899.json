@@ -1,0 +1,1 @@
+{"name": "Werktuigmachine", "id": 2290899, "predecessors": [{"name": "Machine", "id": 2290895}, {"name": "Werktuig", "id": 94143}], "successors": [{"name": "Zaag", "id": 80213}, {"name": "Boor_(gereedschap)", "id": 2841573}]}

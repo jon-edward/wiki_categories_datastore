@@ -1,0 +1,1 @@
+{"name": "Platos_preparados", "id": 8535889, "predecessors": [{"name": "Comida_rápida", "id": 266796}], "successors": [{"name": "Comida_rápida", "id": 266796}, {"name": "Pizza", "id": 4129047}, {"name": "Comida_callejera", "id": 5358867}, {"name": "Comida_instantánea", "id": 8535916}]}

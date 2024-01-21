@@ -1,0 +1,1 @@
+{"name": "Cervecerías", "id": 2641728, "predecessors": [{"name": "Bebidas_fermentadas", "id": 437685}, {"name": "Empresas_de_bebidas", "id": 4981831}], "successors": [{"name": "Cervecerías_de_Alemania", "id": 5998723}, {"name": "Cervecerías_de_México", "id": 5998738}, {"name": "Cervecerías_de_España", "id": 5998744}, {"name": "Cervecerías_de_Bélgica", "id": 5999135}]}

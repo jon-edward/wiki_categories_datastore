@@ -1,0 +1,1 @@
+{"name": "Straßenfahrzeug", "id": 237158, "predecessors": [{"name": "Landfahrzeug", "id": 1943698}, {"name": "Straßenverkehr", "id": 235275}], "successors": [{"name": "Kraftfahrzeug", "id": 339615}, {"name": "Zweiwegefahrzeug", "id": 5660766}, {"name": "Staatskarosse", "id": 8384934}, {"name": "Anhänger_(Fahrzeug)", "id": 9812137}]}

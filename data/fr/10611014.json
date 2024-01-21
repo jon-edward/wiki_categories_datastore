@@ -1,0 +1,1 @@
+{"name": "Gaz_industriel", "id": 10611014, "predecessors": [{"name": "Gaz", "id": 129186}, {"name": "Industrie_chimique", "id": 299097}, {"name": "Produit_chimique", "id": 4817319}], "successors": [{"name": "Monoxyde_de_carbone", "id": 14932440}]}

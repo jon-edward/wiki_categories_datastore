@@ -1,0 +1,1 @@
+{"name": "Proteïne", "id": 245276, "predecessors": [{"name": "Biomolecuul", "id": 1190888}, {"name": "Eiwitchemie", "id": 1185416}, {"name": "Peptide", "id": 916788}], "successors": [{"name": "Enzym", "id": 245269}, {"name": "Cytokine", "id": 1141545}, {"name": "Immunoglobuline", "id": 1229562}]}

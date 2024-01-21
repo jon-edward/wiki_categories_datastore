@@ -1,0 +1,1 @@
+{"name": "Jeu_de_stratégie_combinatoire_abstrait", "id": 577499, "predecessors": [{"name": "Jeu_de_stratégie", "id": 90173}, {"name": "Jeu", "id": 82568}], "successors": [{"name": "Jeu_de_go", "id": 125822}, {"name": "Dames", "id": 2493240}]}

@@ -1,0 +1,1 @@
+{"name": "Medicina_preventiva", "id": 1449728, "predecessors": [{"name": "Salud_pública", "id": 1635793}], "successors": [{"name": "Vacunas", "id": 446713}, {"name": "Control_de_la_natalidad", "id": 4040891}, {"name": "Cuarentena_por_la_pandemia_de_COVID-19", "id": 9333761}, {"name": "Vacunación", "id": 9459647}]}

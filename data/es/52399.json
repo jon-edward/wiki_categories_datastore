@@ -1,0 +1,1 @@
+{"name": "Enfermedades_raras", "id": 52399, "predecessors": [{"name": "Asistencia_sanitaria", "id": 5537485}], "successors": [{"name": "Enfermedades_mitocondriales", "id": 4195278}, {"name": "Genodermatosis", "id": 10176496}, {"name": "Fibrosis_quística", "id": 10683510}]}

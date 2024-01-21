@@ -1,0 +1,1 @@
+{"name": "Börse", "id": 835510, "predecessors": [{"name": "Börsenhandel", "id": 1689696}, {"name": "Finanzdienstleister", "id": 3394126}], "successors": [{"name": "Wertpapierbörse", "id": 2172439}, {"name": "Terminbörse", "id": 2172639}, {"name": "Computerbörse", "id": 3383297}, {"name": "Warenbörse", "id": 4131482}, {"name": "Energiebörse", "id": 5601626}]}

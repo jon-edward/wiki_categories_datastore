@@ -1,0 +1,1 @@
+{"name": "Alojamiento_web", "id": 4378252, "predecessors": [{"name": "Alojamiento_de_Internet", "id": 2594683}], "successors": [{"name": "Alojamiento_de_archivos", "id": 2594685}, {"name": "Alojamiento_de_imágenes", "id": 4378270}, {"name": "Alojamiento_de_videos", "id": 6288819}]}

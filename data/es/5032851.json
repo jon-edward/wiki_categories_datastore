@@ -1,0 +1,1 @@
+{"name": "Fallecidos_por_envenenamiento", "id": 5032851, "predecessors": [{"name": "Venenos", "id": 837255}, {"name": "Causas_de_muerte", "id": 2161243}], "successors": [{"name": "Ejecutados_por_inyección_letal", "id": 4208406}, {"name": "Suicidas_por_envenenamiento", "id": 5205318}, {"name": "Fallecidos_por_envenenamiento_de_serpientes", "id": 8697763}]}

@@ -1,0 +1,1 @@
+{"name": "Distribución_de_energía_eléctrica", "id": 5164858, "predecessors": [{"name": "Red_eléctrica", "id": 227154}], "successors": [{"name": "Transmisión_inalámbrica_de_energía", "id": 5164857}, {"name": "Generación_distribuida", "id": 6960005}]}

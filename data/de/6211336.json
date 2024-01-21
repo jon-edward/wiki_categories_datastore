@@ -1,0 +1,1 @@
+{"name": "Uranbergbau", "id": 6211336, "predecessors": [{"name": "Erzbergbau", "id": 7657267}, {"name": "Kernbrennstofftechnik", "id": 3564770}, {"name": "Uran", "id": 9586225}, {"name": "Energiewirtschaft", "id": 262344}], "successors": [{"name": "Uranbergwerk", "id": 5852027}, {"name": "Uranbergbauunternehmen", "id": 6211354}, {"name": "Uranlagerstätte", "id": 6407352}]}

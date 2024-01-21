@@ -1,0 +1,1 @@
+{"name": "Inmuebles", "id": 2456464, "predecessors": [{"name": "Derecho_tributario", "id": 85878}, {"name": "Tipos_de_bienes", "id": 566747}], "successors": [{"name": "Vivienda", "id": 66907}, {"name": "Edificios_y_estructuras", "id": 1046693}, {"name": "Hipotecas", "id": 2129981}]}

@@ -1,0 +1,1 @@
+{"name": "Edulcorantes", "id": 252048, "predecessors": [{"name": "Aditivos_alimentarios", "id": 329965}, {"name": "Compuestos_químicos", "id": 112512}], "successors": [{"name": "Azúcar", "id": 1903432}, {"name": "Azúcares_alcohólicos", "id": 2145381}, {"name": "Miel", "id": 2232224}, {"name": "Siropes", "id": 2722041}, {"name": "Polioles", "id": 3179067}]}

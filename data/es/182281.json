@@ -1,0 +1,1 @@
+{"name": "Electroacústica", "id": 182281, "predecessors": [{"name": "Acústica", "id": 78852}, {"name": "Electrónica", "id": 52195}], "successors": [{"name": "Transductores", "id": 190032}, {"name": "Micrófonos", "id": 1146319}, {"name": "Altavoces", "id": 1146368}, {"name": "Electrónica_de_audio", "id": 5985526}]}

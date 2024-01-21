@@ -1,0 +1,1 @@
+{"name": "Autentificación_de_correo_electrónico", "id": 9055037, "predecessors": [{"name": "Correo_electrónico", "id": 432225}, {"name": "Seguridad_de_redes_informáticas", "id": 8026898}, {"name": "Criptografía", "id": 55406}], "successors": [{"name": "Antispam", "id": 4087335}, {"name": "OpenPGP", "id": 9054431}]}

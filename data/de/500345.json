@@ -1,0 +1,1 @@
+{"name": "Datenbankmanagementsystem", "id": 500345, "predecessors": [{"name": "Datenbanken", "id": 7589376}, {"name": "Middleware", "id": 284823}], "successors": [{"name": "Freies_Datenbankmanagementsystem", "id": 4786158}, {"name": "Relationales_Datenbankmanagementsystem", "id": 6123811}]}

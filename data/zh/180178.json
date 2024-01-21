@@ -1,1 +1,1 @@
-{"name": "林口線車站", "id": 180178, "predecessors": [{"name": "臺灣鐵路公司車站", "id": 1462894}, {"name": "台灣", "id": 51154}], "successors": []}
+{"name": "林口線車站", "id": 180178, "predecessors": [{"name": "台灣", "id": 51154}, {"name": "臺灣鐵路管理局建築物", "id": 8608129}], "successors": []}

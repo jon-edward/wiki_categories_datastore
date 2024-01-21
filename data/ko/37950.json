@@ -1,0 +1,1 @@
+{"name": "DNA", "id": 37950, "predecessors": [{"name": "핵산", "id": 37949}], "successors": [{"name": "DNA_복제", "id": 878887}, {"name": "DNA_수선", "id": 878899}, {"name": "DNA_시퀀싱", "id": 2928390}, {"name": "DNA_백신", "id": 3047670}, {"name": "DNA_결합_물질", "id": 3701568}, {"name": "인류_Y-DNA_하플로그룹", "id": 821990}, {"name": "인류_미토콘드리아_DNA_하플로그룹", "id": 2485415}]}

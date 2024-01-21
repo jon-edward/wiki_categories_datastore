@@ -1,0 +1,1 @@
+{"name": "Error", "id": 9408459, "predecessors": [{"name": "Comunicación_de_falsedades", "id": 7773381}, {"name": "Comunicación_humana", "id": 425690}, {"name": "Ignorancia", "id": 10431143}], "successors": [{"name": "Detección_y_corrección_de_errores", "id": 1175118}, {"name": "Islas_fantasma", "id": 1352682}, {"name": "Creencias_erróneas", "id": 10431119}]}

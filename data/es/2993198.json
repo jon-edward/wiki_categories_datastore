@@ -1,0 +1,1 @@
+{"name": "Hornos", "id": 2993198, "predecessors": [{"name": "Fuego", "id": 2181517}, {"name": "Herramientas_de_panadero", "id": 10137620}], "successors": [{"name": "Horno_de_tierra", "id": 6413027}, {"name": "Horneado", "id": 6878318}, {"name": "Hornos_de_alfarería_y_cerámica", "id": 7266798}]}

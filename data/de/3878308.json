@@ -1,0 +1,1 @@
+{"name": "Druckbehälter", "id": 3878308, "predecessors": [{"name": "Behälter_nach_Verwendung", "id": 7829693}, {"name": "Hydraulik", "id": 1607372}, {"name": "Pneumatik", "id": 1607384}], "successors": [{"name": "Dampfkessel", "id": 3456908}]}

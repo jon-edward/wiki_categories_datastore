@@ -1,0 +1,1 @@
+{"name": "Carpintería", "id": 206852, "predecessors": [{"name": "Artesanía", "id": 51374}, {"name": "Construcción", "id": 70487}, {"name": "Industria", "id": 70145}], "successors": [{"name": "Carpinteros", "id": 206854}, {"name": "Materiales_abrasivos", "id": 1188788}, {"name": "Ebanistas", "id": 1709718}, {"name": "Herramientas_de_carpintero", "id": 3164169}]}

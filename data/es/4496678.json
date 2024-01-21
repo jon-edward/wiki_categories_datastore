@@ -1,0 +1,1 @@
+{"name": "Tests_psicológicos", "id": 4496678, "predecessors": [{"name": "Exámenes_y_pruebas", "id": 5069425}, {"name": "Psicología", "id": 50651}], "successors": [{"name": "Tipos_MBTI", "id": 5097292}, {"name": "Tests_de_personalidad", "id": 6016716}, {"name": "Pruebas_psicométricas_estandarizadas", "id": 6120131}, {"name": "Tests_cognitivos", "id": 6597051}]}

@@ -1,1 +1,1 @@
-{"name": "神舟飞船", "id": 6905202, "predecessors": [{"name": "中国航天", "id": 103399}], "successors": []}
+{"name": "神舟飞船", "id": 6905202, "predecessors": [{"name": "中国载人航天工程", "id": 7320794}, {"name": "中国航天", "id": 103399}], "successors": []}

@@ -1,0 +1,1 @@
+{"name": "FTP", "id": 507217, "predecessors": [{"name": "Protocolos_de_Internet", "id": 183735}, {"name": "Redes_informáticas", "id": 186159}, {"name": "Software_de_Internet", "id": 193142}, {"name": "Protocolos_de_nivel_de_aplicación", "id": 234518}], "successors": [{"name": "Clientes_FTP_libres", "id": 5027204}]}

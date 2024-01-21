@@ -1,1 +1,1 @@
-{"name": "音樂表演", "id": 3891110, "predecessors": [{"name": "音乐", "id": 41218}, {"name": "音乐技巧", "id": 1269774}], "successors": [{"name": "歌唱", "id": 70660}]}
+{"name": "音樂表演", "id": 3891110, "predecessors": [{"name": "音乐技巧", "id": 1269774}, {"name": "表演藝術", "id": 58285}], "successors": [{"name": "歌唱", "id": 70660}]}

@@ -1,0 +1,1 @@
+{"name": "Detección_y_corrección_de_errores", "id": 1175118, "predecessors": [{"name": "Error", "id": 9408459}, {"name": "Protocolos_de_nivel_de_transporte", "id": 234505}, {"name": "Telecomunicaciones", "id": 52300}], "successors": [{"name": "Algoritmos_de_suma_de_verificación", "id": 1175162}, {"name": "Funciones_hash_criptográficas", "id": 181111}]}

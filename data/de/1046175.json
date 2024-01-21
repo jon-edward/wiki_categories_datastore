@@ -1,0 +1,1 @@
+{"name": "Transferase", "id": 1046175, "predecessors": [{"name": "Enzym", "id": 242268}], "successors": [{"name": "Kinase", "id": 3957622}, {"name": "Nukleotidyltransferase", "id": 3961566}, {"name": "Glycosyltransferase", "id": 4120439}, {"name": "Methyltransferase", "id": 5168260}]}

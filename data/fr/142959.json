@@ -1,0 +1,1 @@
+{"name": "Serveur_internet", "id": 142959, "predecessors": [{"name": "Logiciel_réseau_et_Internet", "id": 3747806}, {"name": "Serveur_informatique", "id": 7020165}], "successors": [{"name": "Serveur_web", "id": 2706891}, {"name": "Proxy", "id": 6803658}, {"name": "Datacenter", "id": 9376911}]}

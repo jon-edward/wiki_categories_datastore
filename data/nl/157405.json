@@ -1,0 +1,1 @@
+{"name": "Huisdier", "id": 157405, "predecessors": [{"name": "Dier_naar_kenmerk", "id": 157760}, {"name": "Wonen", "id": 80091}], "successors": [{"name": "Hond", "id": 86625}, {"name": "Kat", "id": 123375}]}

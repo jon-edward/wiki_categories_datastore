@@ -1,0 +1,1 @@
+{"name": "Anticuerpos", "id": 1527936, "predecessors": [{"name": "Globulinas", "id": 1546106}, {"name": "Sistema_inmunitario", "id": 3946773}, {"name": "Proteínas", "id": 208870}], "successors": [{"name": "Inmunoglobulinas", "id": 208908}, {"name": "Anticuerpos_monoclonales", "id": 1527929}, {"name": "Autoanticuerpos", "id": 3276090}]}

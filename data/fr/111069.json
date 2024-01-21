@@ -1,0 +1,1 @@
+{"name": "Nombre_premier", "id": 111069, "predecessors": [{"name": "Entier_naturel", "id": 15054810}], "successors": [{"name": "Test_de_primalité", "id": 617143}, {"name": "Nombre_premier_de_Mersenne", "id": 993268}]}

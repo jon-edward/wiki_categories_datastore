@@ -1,0 +1,1 @@
+{"name": "Gestion_du_trafic", "id": 1866011, "predecessors": [{"name": "Volume_de_transport", "id": 15820826}, {"name": "Aménagement_urbain", "id": 1314963}, {"name": "Transport", "id": 82492}], "successors": [{"name": "Gestion_et_contrôle_du_trafic_routier", "id": 1246900}]}

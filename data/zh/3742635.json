@@ -1,1 +1,1 @@
-{"name": "中国空间站", "id": 3742635, "predecessors": [{"name": "中国航天", "id": 103399}], "successors": []}
+{"name": "中国空间站", "id": 3742635, "predecessors": [{"name": "中国空间站工程", "id": 8058395}, {"name": "中国航天", "id": 103399}], "successors": []}

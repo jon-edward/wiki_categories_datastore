@@ -1,0 +1,1 @@
+{"name": "Terme_médical", "id": 262266, "predecessors": [{"name": "Médecine", "id": 82499}, {"name": "Terminologie", "id": 302872}, {"name": "Science", "id": 81541}], "successors": [{"name": "Maladie", "id": 87795}, {"name": "Syndrome", "id": 299210}, {"name": "Encéphalite_virale", "id": 4492889}, {"name": "Viscère", "id": 5536815}]}

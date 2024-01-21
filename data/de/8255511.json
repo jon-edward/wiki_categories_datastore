@@ -1,0 +1,1 @@
+{"name": "Steuerdelikt", "id": 8255511, "predecessors": [{"name": "Finanzkriminalität", "id": 8528610}, {"name": "Vermögensdelikt", "id": 6190627}, {"name": "Kriminalistik", "id": 242397}], "successors": [{"name": "Steuer-Leak", "id": 9960753}]}

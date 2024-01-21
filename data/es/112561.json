@@ -1,0 +1,1 @@
+{"name": "Enfermedades_cutáneas", "id": 112561, "predecessors": [{"name": "Dermatología", "id": 51745}, {"name": "Piel", "id": 1776771}], "successors": [{"name": "Cáncer_de_piel", "id": 1452419}, {"name": "Alopecia", "id": 1812404}, {"name": "Enfermedades_de_la_piel_y_del_tejido_subcutáneo", "id": 5788993}, {"name": "Erupciones_acneiformes", "id": 10144823}]}

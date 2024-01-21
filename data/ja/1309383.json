@@ -1,0 +1,1 @@
+{"name": "Java", "id": 1309383, "predecessors": [{"name": "Javaプラットフォーム", "id": 1043415}, {"name": "オブジェクト指向言語", "id": 721482}, {"name": "サン・マイクロシステムズ", "id": 252052}, {"name": "プログラミング言語", "id": 104919}, {"name": "並行計算", "id": 751729}], "successors": [{"name": "Java_specification_requests", "id": 924359}]}

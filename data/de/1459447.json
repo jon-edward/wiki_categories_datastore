@@ -1,0 +1,1 @@
+{"name": "Baumaschine", "id": 1459447, "predecessors": [{"name": "Maschine", "id": 960178}, {"name": "Bauausführung", "id": 277209}], "successors": [{"name": "Großmuldenkippermodell", "id": 11209056}, {"name": "Planierraupe", "id": 11793297}, {"name": "Gleisbaumaschine", "id": 12119694}, {"name": "Baggerschiff", "id": 6463021}]}

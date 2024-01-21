@@ -1,0 +1,1 @@
+{"name": "Maderas", "id": 321311, "predecessors": [{"name": "Materiales_biodegradables", "id": 3225618}, {"name": "Materiales_de_origen_natural", "id": 1188782}, {"name": "Materiales_de_origen_vegetal", "id": 1188779}, {"name": "Materias_primas", "id": 1188810}], "successors": [{"name": "Productos_de_madera", "id": 5166877}, {"name": "Construcción_con_madera", "id": 8137500}]}

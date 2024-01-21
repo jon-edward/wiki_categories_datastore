@@ -1,0 +1,1 @@
+{"name": "Electrodomésticos", "id": 69448, "predecessors": [{"name": "Aparatos_eléctricos", "id": 5551805}, {"name": "Hogar", "id": 106882}, {"name": "Máquinas", "id": 324649}], "successors": [{"name": "Electrodomésticos_de_cocina", "id": 2899438}, {"name": "Marcas_de_electrodomésticos", "id": 6081804}, {"name": "Robots_domésticos", "id": 6169218}]}

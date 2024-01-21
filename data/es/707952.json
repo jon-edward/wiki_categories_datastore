@@ -1,0 +1,1 @@
+{"name": "Acceso_a_Internet", "id": 707952, "predecessors": [{"name": "Internet", "id": 83426}], "successors": [{"name": "Banda_ancha", "id": 83424}, {"name": "Internet_móvil", "id": 1329396}, {"name": "OLPC", "id": 2823367}, {"name": "Proveedores_de_servicios_de_Internet", "id": 3798275}, {"name": "Wi-Fi", "id": 4927131}]}

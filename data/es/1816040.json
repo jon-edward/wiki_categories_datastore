@@ -1,0 +1,1 @@
+{"name": "Spam", "id": 1816040, "predecessors": [{"name": "Correo_electrónico", "id": 432225}, {"name": "Ética_de_la_ciencia_y_la_tecnología", "id": 8572558}], "successors": [{"name": "Antispam", "id": 4087335}, {"name": "Botnets", "id": 8761533}]}

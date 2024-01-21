@@ -1,0 +1,1 @@
+{"name": "Alimentation_animale", "id": 135280, "predecessors": [{"name": "Alimentation", "id": 87520}, {"name": "Médecine_vétérinaire", "id": 124157}, {"name": "Élevage", "id": 135281}], "successors": [{"name": "Nutrition", "id": 84920}, {"name": "Plante_fourragère", "id": 105107}]}

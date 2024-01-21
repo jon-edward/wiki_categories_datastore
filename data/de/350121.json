@@ -1,0 +1,1 @@
+{"name": "Theaterschauspieler", "id": 350121, "predecessors": [{"name": "Schauspieler", "id": 235885}, {"name": "Theaterschaffender", "id": 4995998}], "successors": [{"name": "Burgschauspieler", "id": 1082866}, {"name": "Kammerschauspieler", "id": 7508258}, {"name": "Hofschauspieler", "id": 9473942}]}

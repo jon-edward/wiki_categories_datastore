@@ -1,0 +1,1 @@
+{"name": "Trenes_turísticos", "id": 6180593, "predecessors": [{"name": "Atracciones_turísticas", "id": 1688782}], "successors": [{"name": "Trenes_turísticos_de_Argentina", "id": 6180595}, {"name": "Trenes_turísticos_de_España", "id": 10115318}, {"name": "Trenes_turísticos_de_México", "id": 10676569}]}
