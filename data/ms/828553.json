@@ -1,1 +1,1 @@
-{"name": "Alkana", "id": 828553, "predecessors": [{"name": "Kimia", "id": 11182}, {"name": "Sains_tulen", "id": 682211}], "successors": [{"name": "Halometana", "id": 973488}]}
+{"name": "Alkana", "id": 828553, "predecessors": [{"name": "Hidrokarbon", "id": 26089}], "successors": [{"name": "Halometana", "id": 973488}]}

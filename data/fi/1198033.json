@@ -1,1 +1,1 @@
-{"name": "IOS-sovellukset", "id": 1198033, "predecessors": [{"name": "Ohjelmistot", "id": 20754}, {"name": "Matkapuhelimet", "id": 20729}, {"name": "Applen_ohjelmistot", "id": 609152}], "successors": [{"name": "IOS-pelit", "id": 897108}]}
+{"name": "IOS-sovellukset", "id": 1198033, "predecessors": [{"name": "Mobiilisovellukset", "id": 1157565}, {"name": "Ohjelmistot", "id": 20754}, {"name": "Applen_ohjelmistot", "id": 609152}], "successors": [{"name": "IOS-pelit", "id": 897108}]}

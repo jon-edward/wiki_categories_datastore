@@ -1,1 +1,1 @@
-{"name": "Iveco", "id": 1835248, "predecessors": [{"name": "Unternehmenswesen", "id": 8993194}, {"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Magirus-Deutz", "id": 3306656}, {"name": "Lkw-Modell_(Iveco)", "id": 11054978}]}
+{"name": "Iveco", "id": 1835248, "predecessors": [{"name": "Unternehmenswesen", "id": 8993194}, {"name": "Technik", "id": 242544}], "successors": [{"name": "Magirus-Deutz", "id": 3306656}, {"name": "Lkw-Modell_(Iveco)", "id": 11054978}]}

@@ -1,1 +1,1 @@
-{"name": "Schädel", "id": 1216491, "predecessors": [{"name": "Knochen", "id": 478079}, {"name": "Zahnmedizin", "id": 283495}, {"name": "Anatomie", "id": 235280}], "successors": []}
+{"name": "Schädel", "id": 1216491, "predecessors": [{"name": "Anatomie_des_Kopfes", "id": 12213290}, {"name": "Knochen", "id": 478079}, {"name": "Zahnmedizin", "id": 283495}], "successors": []}

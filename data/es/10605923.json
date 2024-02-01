@@ -1,1 +1,1 @@
-{"name": "Política_y_deporte", "id": 10605923, "predecessors": [{"name": "Deporte", "id": 50825}], "successors": [{"name": "Juegos_de_la_Mancomunidad", "id": 453004}]}
+{"name": "Política_y_deporte", "id": 10605923, "predecessors": [{"name": "Política_por_tipo", "id": 5065903}, {"name": "Comportamiento_humano", "id": 744693}], "successors": [{"name": "Juegos_de_la_Mancomunidad", "id": 453004}]}

@@ -1,1 +1,1 @@
-{"name": "News", "id": 1311438, "predecessors": [{"name": "Calendars", "id": 698466}], "successors": [{"name": "Broadcast_journalism", "id": 1053378}, {"name": "News_media", "id": 1752847}, {"name": "Tabloid_journalism", "id": 40505308}]}
+{"name": "News", "id": 1311438, "predecessors": [{"name": "2024", "id": 15844687}], "successors": [{"name": "Broadcast_journalism", "id": 1053378}, {"name": "Tabloid_journalism", "id": 40505308}]}

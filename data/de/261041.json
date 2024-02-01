@@ -1,1 +1,1 @@
-{"name": "Kraftstoff", "id": 261041, "predecessors": [{"name": "Kraftstofftechnik", "id": 3998307}, {"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Luftfahrtkraftstoff", "id": 3998946}, {"name": "Biokraftstoff", "id": 3999040}]}
+{"name": "Kraftstoff", "id": 261041, "predecessors": [{"name": "Kraftstofftechnik", "id": 3998307}, {"name": "Technik", "id": 242544}], "successors": [{"name": "Luftfahrtkraftstoff", "id": 3998946}, {"name": "Biokraftstoff", "id": 3999040}]}

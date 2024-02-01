@@ -1,1 +1,1 @@
-{"name": "Médicos_de_Zaragoza", "id": 6962543, "predecessors": [{"name": "Científicos_de_Zaragoza", "id": 6961737}, {"name": "Médicos_de_Aragón", "id": 4409170}, {"name": "Médicos_de_España", "id": 129103}, {"name": "Sanidad_en_España", "id": 2002938}], "successors": []}
+{"name": "Médicos_de_Zaragoza", "id": 6962543, "predecessors": [{"name": "Médicos_de_Aragón", "id": 4409170}, {"name": "Médicos_de_España", "id": 129103}, {"name": "Personas_de_Zaragoza", "id": 8476494}, {"name": "Sanidad_en_España", "id": 2002938}], "successors": []}

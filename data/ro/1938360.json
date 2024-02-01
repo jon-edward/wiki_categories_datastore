@@ -1,1 +1,1 @@
-{"name": "Arbori_ornamentali", "id": 1938360, "predecessors": [{"name": "Arbori", "id": 64651}, {"name": "Plante_ornamentale", "id": 169067}], "successors": []}
+{"name": "Arbori_ornamentali", "id": 1938360, "predecessors": [{"name": "Arbori", "id": 64651}, {"name": "Plante_ornamentale", "id": 169067}], "successors": [{"name": "Plante_utilizate_în_bonsai", "id": 1891141}]}

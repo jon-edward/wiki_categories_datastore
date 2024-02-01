@@ -1,1 +1,1 @@
-{"name": "Uber_Cup", "id": 5541799, "predecessors": [{"name": "Badmintonwettbewerb", "id": 2654600}, {"name": "Frauenbadmintonwettbewerb", "id": 10395046}], "successors": []}
+{"name": "Uber_Cup", "id": 5541799, "predecessors": [{"name": "Frauenbadmintonwettbewerb", "id": 10395046}, {"name": "Ballsport", "id": 2458510}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Technik_(Postwesen)", "id": 11223733, "predecessors": [{"name": "Postwesen", "id": 349071}, {"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Rohrpost", "id": 2070514}, {"name": "Postlandfahrzeuge", "id": 9622133}]}
+{"name": "Technik_(Postwesen)", "id": 11223733, "predecessors": [{"name": "Postwesen", "id": 349071}, {"name": "Technik", "id": 242544}], "successors": [{"name": "Rohrpost", "id": 2070514}, {"name": "Postlandfahrzeuge", "id": 9622133}]}

@@ -1,1 +1,1 @@
-{"name": "Gestapo", "id": 21127845, "predecessors": [{"name": "Secret_police", "id": 4083427}, {"name": "The_Holocaust", "id": 7767376}], "successors": []}
+{"name": "Gestapo", "id": 21127845, "predecessors": [{"name": "Allgemeine_SS", "id": 66779780}, {"name": "Secret_police", "id": 4083427}, {"name": "The_Holocaust", "id": 7767376}], "successors": [{"name": "Gestapo_personnel", "id": 35823165}]}

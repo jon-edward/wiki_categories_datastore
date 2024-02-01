@@ -1,1 +1,0 @@
-{"name": "Composant_optique", "id": 7724101, "predecessors": [{"name": "Optique", "id": 87130}], "successors": [{"name": "Lentille", "id": 786133}, {"name": "Photodétecteur", "id": 5499617}, {"name": "Miroir", "id": 6144461}, {"name": "Prisme", "id": 7080844}]}

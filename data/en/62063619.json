@@ -1,1 +1,1 @@
-{"name": "American_review_websites", "id": 62063619, "predecessors": [{"name": "Review_websites", "id": 5386534}], "successors": [{"name": "American_film_review_websites", "id": 62070258}]}
+{"name": "American_review_websites", "id": 62063619, "predecessors": [{"name": "American_websites", "id": 15653658}, {"name": "Review_websites", "id": 5386534}], "successors": [{"name": "American_film_review_websites", "id": 62070258}]}

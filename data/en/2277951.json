@@ -1,1 +1,1 @@
-{"name": "Rescue_equipment", "id": 2277951, "predecessors": [{"name": "Rescue", "id": 1013590}, {"name": "Safety_equipment", "id": 1206445}], "successors": []}
+{"name": "Rescue_equipment", "id": 2277951, "predecessors": [{"name": "Rescue", "id": 1013590}, {"name": "Safety_equipment", "id": 1206445}], "successors": [{"name": "Submarine_rescue_ships", "id": 42576094}]}

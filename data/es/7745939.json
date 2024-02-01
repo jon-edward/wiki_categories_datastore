@@ -1,1 +1,1 @@
-{"name": "Animadoras", "id": 7745939, "predecessors": [{"name": "Ocupaciones_del_deporte", "id": 5070947}, {"name": "Deportes_de_equipo", "id": 101766}], "successors": [{"name": "Animadoras_ficticias", "id": 7745966}]}
+{"name": "Animadoras", "id": 7745939, "predecessors": [{"name": "Entretenimiento", "id": 296195}], "successors": [{"name": "Animadoras_ficticias", "id": 7745966}]}

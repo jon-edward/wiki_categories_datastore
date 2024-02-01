@@ -1,1 +1,1 @@
-{"name": "Libros_de_matemáticas", "id": 2824789, "predecessors": [{"name": "Matemática_y_cultura", "id": 8793544}], "successors": [{"name": "Obras_matemáticas_de_la_Antigua_Grecia", "id": 9002796}]}
+{"name": "Libros_de_matemáticas", "id": 2824789, "predecessors": [{"name": "Libros_de_ciencia", "id": 1188415}, {"name": "Matemática_y_cultura", "id": 8793544}, {"name": "Publicaciones_de_matemática", "id": 1218403}], "successors": [{"name": "Obras_matemáticas_de_la_Antigua_Grecia", "id": 9002796}]}

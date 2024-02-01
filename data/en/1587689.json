@@ -1,0 +1,1 @@
+{"name": "Estimation_theory", "id": 1587689, "predecessors": [{"name": "Econometrics", "id": 946892}, {"name": "Statistical_inference", "id": 17193265}], "successors": [{"name": "Regression_analysis", "id": 6534587}, {"name": "Estimation_methods", "id": 52314443}, {"name": "Bayesian_estimation", "id": 52314788}, {"name": "Errors_and_residuals", "id": 52366303}]}

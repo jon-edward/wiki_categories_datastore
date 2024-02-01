@@ -1,1 +1,1 @@
-{"name": "Flautistas_de_jazz", "id": 872395, "predecessors": [{"name": "Músicos_de_jazz", "id": 215657}], "successors": [{"name": "Flautistas_de_jazz_de_Estados_Unidos", "id": 1419705}]}
+{"name": "Flautistas_de_jazz", "id": 872395, "predecessors": [{"name": "Instrumentistas", "id": 139304}, {"name": "Músicos_de_jazz", "id": 215657}], "successors": [{"name": "Flautistas_de_jazz_de_Estados_Unidos", "id": 1419705}]}

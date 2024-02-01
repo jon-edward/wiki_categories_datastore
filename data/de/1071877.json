@@ -1,1 +1,1 @@
-{"name": "Rosensorte", "id": 1071877, "predecessors": [{"name": "Produkt_von_Baumschulen", "id": 9934332}, {"name": "Zierpflanze", "id": 1164939}, {"name": "Baumschulwesen", "id": 3142698}, {"name": "Rosen_als_Thema", "id": 10493464}], "successors": []}
+{"name": "Rosensorte", "id": 1071877, "predecessors": [{"name": "Produkt_von_Baumschulen", "id": 9934332}, {"name": "Rosenzüchtung", "id": 6360481}, {"name": "Zierpflanze", "id": 1164939}, {"name": "Rosen_als_Thema", "id": 10493464}], "successors": []}

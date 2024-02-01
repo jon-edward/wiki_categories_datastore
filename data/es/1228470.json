@@ -1,1 +1,1 @@
-{"name": "Astronomía_amateur", "id": 1228470, "predecessors": [{"name": "Aficiones", "id": 2132905}, {"name": "Disciplinas_de_la_astronomía", "id": 1318560}], "successors": []}
+{"name": "Astronomía_amateur", "id": 1228470, "predecessors": [{"name": "Aficiones", "id": 2132905}, {"name": "Academia", "id": 1704568}], "successors": [{"name": "Asociaciones_astronómicas_amateur", "id": 1096101}]}

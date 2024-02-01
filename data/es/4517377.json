@@ -1,1 +1,1 @@
-{"name": "Yacimientos_arqueológicos_de_Irak", "id": 4517377, "predecessors": [{"name": "Yacimientos_arqueológicos", "id": 1277022}, {"name": "Arqueología_del_Oriente_Próximo", "id": 5293214}], "successors": [{"name": "Ur", "id": 5025084}, {"name": "Samarra", "id": 6638862}]}
+{"name": "Yacimientos_arqueológicos_de_Irak", "id": 4517377, "predecessors": [{"name": "Arqueología_del_Oriente_Próximo", "id": 5293214}, {"name": "Yacimientos_arqueológicos", "id": 1277022}], "successors": [{"name": "Ur", "id": 5025084}]}

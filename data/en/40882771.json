@@ -1,1 +1,1 @@
-{"name": "Smog_events", "id": 40882771, "predecessors": [{"name": "Smog", "id": 3156368}], "successors": [{"name": "Southeast_Asian_haze", "id": 39735363}]}
+{"name": "Smog_events", "id": 40882771, "predecessors": [{"name": "Environmental_disasters", "id": 2651116}, {"name": "Smog", "id": 3156368}], "successors": [{"name": "Southeast_Asian_haze", "id": 39735363}]}

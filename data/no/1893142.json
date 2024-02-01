@@ -1,1 +1,1 @@
-{"name": "Kristne_begrep", "id": 1893142, "predecessors": [{"name": "Ord_og_uttrykk", "id": 30673}], "successors": [{"name": "Bibelske_ord_og_uttrykk", "id": 1014490}]}
+{"name": "Kristne_begrep", "id": 1893142, "predecessors": [{"name": "Kristendom", "id": 11348}, {"name": "Ord_og_uttrykk", "id": 30673}], "successors": [{"name": "Bibelske_ord_og_uttrykk", "id": 1014490}, {"name": "Kirkelige_organer", "id": 2168987}]}

@@ -1,1 +1,1 @@
-{"name": "Baustoffkunde", "id": 9383251, "predecessors": [{"name": "Baustoffe", "id": 9382361}, {"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Bauchemie", "id": 500835}, {"name": "Betonprüfverfahren", "id": 7733989}, {"name": "Historischer_Baustoff", "id": 9384606}]}
+{"name": "Baustoffkunde", "id": 9383251, "predecessors": [{"name": "Baustoffe", "id": 9382361}, {"name": "Technik", "id": 242544}], "successors": [{"name": "Bauchemie", "id": 500835}, {"name": "Betonprüfverfahren", "id": 7733989}, {"name": "Historischer_Baustoff", "id": 9384606}]}

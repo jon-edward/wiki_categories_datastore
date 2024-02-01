@@ -1,1 +1,1 @@
-{"name": "Modelos_de_Toyota", "id": 312883, "predecessors": [{"name": "Toyota", "id": 2331524}, {"name": "Marcas_comerciales", "id": 1188838}], "successors": [{"name": "Modelos_de_competición_de_Toyota", "id": 5405211}]}
+{"name": "Modelos_de_Toyota", "id": 312883, "predecessors": [{"name": "Toyota", "id": 2331524}, {"name": "Industria_automotriz", "id": 6424489}], "successors": [{"name": "Modelos_de_competición_de_Toyota", "id": 5405211}]}

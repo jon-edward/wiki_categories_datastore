@@ -1,1 +1,1 @@
-{"name": "Pilotos_de_la_era_de_los_Grandes_Premios", "id": 9143620, "predecessors": [{"name": "Ocupaciones_del_deporte", "id": 5070947}, {"name": "Monoplazas_de_automovilismo", "id": 1351093}], "successors": [{"name": "Pilotos_del_Campeonato_Europeo_de_Pilotos", "id": 9143483}]}
+{"name": "Pilotos_de_la_era_de_los_Grandes_Premios", "id": 9143620, "predecessors": [{"name": "Automovilismo", "id": 67497}, {"name": "Monoplazas_de_automovilismo", "id": 1351093}], "successors": [{"name": "Pilotos_del_Campeonato_Europeo_de_Pilotos", "id": 9143483}]}

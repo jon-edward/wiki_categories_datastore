@@ -1,1 +1,1 @@
-{"name": "U-boats_sunk_by_US_aircraft", "id": 44014894, "predecessors": [{"name": "Ships_sunk_by_US_aircraft", "id": 47295351}], "successors": []}
+{"name": "U-boats_sunk_by_US_aircraft", "id": 44014894, "predecessors": [{"name": "Ships_sunk_by_US_aircraft", "id": 47295351}, {"name": "Submarines_sunk_by_aircraft", "id": 33653970}], "successors": []}

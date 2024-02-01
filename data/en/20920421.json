@@ -1,1 +1,1 @@
-{"name": "Firearm_techniques", "id": 20920421, "predecessors": [{"name": "Martial_art_techniques", "id": 2868338}, {"name": "Weapon_operation", "id": 1911900}], "successors": []}
+{"name": "Firearm_techniques", "id": 20920421, "predecessors": [{"name": "Firearms", "id": 739385}, {"name": "Martial_art_techniques", "id": 2868338}, {"name": "Weapon_operation", "id": 1911900}], "successors": []}

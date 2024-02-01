@@ -1,1 +1,1 @@
-{"name": "Análisis_de_series_temporales", "id": 2423042, "predecessors": [{"name": "Análisis_de_datos", "id": 2453390}, {"name": "Econometría", "id": 444338}, {"name": "Pronósticos_estadísticos", "id": 2476500}], "successors": []}
+{"name": "Análisis_de_series_temporales", "id": 2423042, "predecessors": [{"name": "Econometría", "id": 444338}, {"name": "Procesos_estocásticos", "id": 1832184}], "successors": []}

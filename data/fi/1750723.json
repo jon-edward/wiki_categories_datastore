@@ -1,1 +1,1 @@
-{"name": "Suomalaiset_sijoitusyhtiöt", "id": 1750723, "predecessors": [{"name": "Sijoitusyhtiöt", "id": 123876}, {"name": "Suomen_finanssipalveluyhtiöt", "id": 743937}], "successors": [{"name": "Citycon", "id": 1583799}]}
+{"name": "Suomalaiset_sijoitusyhtiöt", "id": 1750723, "predecessors": [{"name": "Sijoitusyhtiöt", "id": 123876}, {"name": "Suomen_finanssipalveluyhtiöt", "id": 743937}], "successors": [{"name": "Suomalaiset_pääomasijoitusyhtiöt", "id": 1786942}, {"name": "Citycon", "id": 1583799}]}

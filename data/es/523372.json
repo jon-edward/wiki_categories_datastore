@@ -1,1 +1,1 @@
-{"name": "Gnomónica", "id": 523372, "predecessors": [{"name": "Disciplinas_de_la_astronomía", "id": 1318560}, {"name": "Sol", "id": 165788}, {"name": "Disciplinas_académicas", "id": 5968974}], "successors": [{"name": "Relojes_solares", "id": 8846675}]}
+{"name": "Gnomónica", "id": 523372, "predecessors": [{"name": "Relojería", "id": 3544817}, {"name": "Sol", "id": 165788}, {"name": "Conocimiento", "id": 703218}, {"name": "Academia", "id": 1704568}], "successors": [{"name": "Relojes_solares", "id": 8846675}]}

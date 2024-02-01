@@ -1,1 +1,1 @@
-{"name": "Vibración_mecánica", "id": 1851895, "predecessors": [{"name": "Análisis_estructural", "id": 1814463}, {"name": "Mecánica_de_ondas", "id": 2579857}], "successors": []}
+{"name": "Vibración_mecánica", "id": 1851895, "predecessors": [{"name": "Análisis_estructural", "id": 1814463}, {"name": "Mecánica_de_ondas", "id": 2579857}, {"name": "Oscilaciones", "id": 2964212}], "successors": []}

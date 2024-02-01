@@ -1,1 +1,1 @@
-{"name": "Luettelot_kielistä", "id": 175298, "predecessors": [{"name": "Kielet", "id": 18717}, {"name": "Pääluokat", "id": 65378}], "successors": [{"name": "Luettelot_suomen_kielestä", "id": 1584794}]}
+{"name": "Luettelot_kielistä", "id": 175298, "predecessors": [{"name": "Kielet", "id": 18717}, {"name": "Luettelot", "id": 19540}], "successors": [{"name": "Luettelot_suomen_kielestä", "id": 1584794}]}

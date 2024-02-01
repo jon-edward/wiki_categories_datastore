@@ -1,1 +1,1 @@
-{"name": "Música_gitana", "id": 2782782, "predecessors": [{"name": "Pueblo_gitano", "id": 7991942}], "successors": [{"name": "Flamenco", "id": 179242}]}
+{"name": "Música_gitana", "id": 2782782, "predecessors": [{"name": "Historia_de_la_música", "id": 112794}, {"name": "Pueblo_gitano", "id": 7991942}], "successors": [{"name": "Flamenco", "id": 179242}]}

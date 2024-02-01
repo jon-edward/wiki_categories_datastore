@@ -1,1 +1,1 @@
-{"name": "Agentes_quelantes", "id": 1536903, "predecessors": [{"name": "Propiedades_químicas", "id": 75569}, {"name": "Química_de_coordinación", "id": 1828713}, {"name": "Fármacos", "id": 54550}], "successors": []}
+{"name": "Agentes_quelantes", "id": 1536903, "predecessors": [{"name": "Propiedades_químicas", "id": 75569}, {"name": "Química_de_coordinación", "id": 1828713}, {"name": "Toxicología", "id": 129853}, {"name": "Farmacología", "id": 55416}], "successors": []}

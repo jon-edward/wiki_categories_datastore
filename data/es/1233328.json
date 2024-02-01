@@ -1,1 +1,1 @@
-{"name": "Reproductores_multimedia_para_Linux", "id": 1233328, "predecessors": [{"name": "Software_para_Linux", "id": 1115149}], "successors": []}
+{"name": "Reproductores_multimedia_para_Linux", "id": 1233328, "predecessors": [{"name": "Reproductores_multimedia", "id": 67110}, {"name": "Software_para_Linux", "id": 1115149}], "successors": []}

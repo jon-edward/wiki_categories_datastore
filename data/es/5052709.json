@@ -1,1 +1,1 @@
-{"name": "Estaciones_de_Cercanías_San_Sebastián", "id": 5052709, "predecessors": [{"name": "Estaciones_ferroviarias_de_Guipúzcoa", "id": 5144927}, {"name": "Ferrocarriles_suburbanos_de_España", "id": 1025924}], "successors": []}
+{"name": "Estaciones_de_Cercanías_San_Sebastián", "id": 5052709, "predecessors": [{"name": "Estaciones_ferroviarias_de_Guipúzcoa", "id": 5144927}, {"name": "Renfe_Viajeros", "id": 10214505}, {"name": "Transporte_en_Guipúzcoa", "id": 2871039}], "successors": []}

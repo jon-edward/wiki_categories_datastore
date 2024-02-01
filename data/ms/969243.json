@@ -1,1 +1,1 @@
-{"name": "Pelarut", "id": 969243, "predecessors": [{"name": "Larutan", "id": 969246}, {"name": "Sebatian_kimia", "id": 30367}], "successors": [{"name": "Pelarut_hidrokarbon", "id": 996973}]}
+{"name": "Pelarut", "id": 969243, "predecessors": [{"name": "Larutan", "id": 969246}, {"name": "Sebatian_kimia", "id": 30367}], "successors": [{"name": "Pelarut_hidrokarbon", "id": 996973}, {"name": "Pelarut_alkohol", "id": 999585}]}

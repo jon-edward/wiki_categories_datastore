@@ -1,1 +1,1 @@
-{"name": "Fallecidos_por_neumonía_en_California", "id": 10556317, "predecessors": [{"name": "Fallecidos_en_California", "id": 9625277}], "successors": [{"name": "Ronald_Reagan", "id": 2009928}]}
+{"name": "Fallecidos_por_neumonía_en_California", "id": 10556317, "predecessors": [{"name": "Fallecidos_por_neumonía_en_Estados_Unidos", "id": 10515091}, {"name": "Fallecidos_en_California", "id": 9625277}], "successors": [{"name": "Ronald_Reagan", "id": 2009928}]}

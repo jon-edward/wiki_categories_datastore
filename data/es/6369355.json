@@ -1,1 +1,1 @@
-{"name": "Procesos_fotográficos", "id": 6369355, "predecessors": [{"name": "Impresión", "id": 50634}, {"name": "Procesos_químicos", "id": 209960}], "successors": [{"name": "Procesos_fotográficos_del_siglo_XIX", "id": 9218905}]}
+{"name": "Procesos_fotográficos", "id": 6369355, "predecessors": [{"name": "Fotografía", "id": 50607}, {"name": "Fotoquímica", "id": 1835180}, {"name": "Impresión", "id": 50634}, {"name": "Procesos_químicos", "id": 209960}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Audio-Wiedergabegerät", "id": 5515104, "predecessors": [{"name": "Tonaufnahme", "id": 6477890}, {"name": "Medientechnik", "id": 7707913}], "successors": [{"name": "Mechanischer_Musikautomat", "id": 5680458}]}
+{"name": "Audio-Wiedergabegerät", "id": 5515104, "predecessors": [{"name": "Tonaufnahme", "id": 6477890}, {"name": "Medien", "id": 280667}], "successors": [{"name": "Mechanischer_Musikautomat", "id": 5680458}]}

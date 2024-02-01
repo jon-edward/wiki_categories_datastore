@@ -1,1 +1,1 @@
-{"name": "Fiscales_generales_de_España", "id": 8653392, "predecessors": [{"name": "Fiscales_de_España", "id": 3181689}, {"name": "Poder_Judicial_de_España", "id": 567980}], "successors": [{"name": "Fiscales_generales_del_Estado", "id": 5308089}]}
+{"name": "Fiscales_generales_de_España", "id": 8653392, "predecessors": [{"name": "Fiscales_de_España", "id": 3181689}, {"name": "Fiscales", "id": 6819313}, {"name": "Ministerios_públicos", "id": 1850915}], "successors": [{"name": "Fiscales_generales_del_Estado", "id": 5308089}]}

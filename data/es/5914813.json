@@ -1,1 +1,1 @@
-{"name": "Enfermeros_de_España", "id": 5914813, "predecessors": [{"name": "Científicos_de_España", "id": 103163}, {"name": "Ocupaciones", "id": 77994}, {"name": "Salud_en_España", "id": 1544146}], "successors": []}
+{"name": "Enfermeros_de_España", "id": 5914813, "predecessors": [{"name": "Científicos_de_España", "id": 103163}, {"name": "Enfermeros", "id": 531724}, {"name": "Salud_en_España", "id": 1544146}, {"name": "Gentilicios", "id": 70166}], "successors": []}

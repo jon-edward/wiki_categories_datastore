@@ -1,1 +1,1 @@
-{"name": "Material_de_oficina", "id": 2517707, "predecessors": [{"name": "Oficina", "id": 2517705}], "successors": [{"name": "Impresoras", "id": 508491}]}
+{"name": "Material_de_oficina", "id": 2517707, "predecessors": [{"name": "Administración", "id": 3417332}], "successors": [{"name": "Impresoras", "id": 508491}]}

@@ -1,1 +1,1 @@
-{"name": "Verbundwerkstoff", "id": 590158, "predecessors": [{"name": "Werkstoff", "id": 966579}, {"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Faserverstärkter_Werkstoff", "id": 7577710}, {"name": "Metallischer_Verbundwerkstoff", "id": 9763732}]}
+{"name": "Verbundwerkstoff", "id": 590158, "predecessors": [{"name": "Werkstoff", "id": 966579}, {"name": "Technik", "id": 242544}], "successors": [{"name": "Faserverstärkter_Werkstoff", "id": 7577710}, {"name": "Metallischer_Verbundwerkstoff", "id": 9763732}]}

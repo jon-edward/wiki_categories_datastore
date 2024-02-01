@@ -1,1 +1,1 @@
-{"name": "Aeropuertos_de_Panamá", "id": 1800870, "predecessors": [{"name": "Transporte_de_Panamá", "id": 2206466}, {"name": "Infraestructuras_de_América", "id": 6592017}, {"name": "Economía_de_América_Central", "id": 1007107}], "successors": []}
+{"name": "Aeropuertos_de_Panamá", "id": 1800870, "predecessors": [{"name": "Transporte_de_Panamá", "id": 2206466}, {"name": "Aeropuertos", "id": 74698}, {"name": "Infraestructuras_de_América", "id": 6592017}, {"name": "Geografía_física", "id": 741956}], "successors": []}

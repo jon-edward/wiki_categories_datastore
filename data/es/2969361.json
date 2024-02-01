@@ -1,1 +1,1 @@
-{"name": "Sulfonilureas", "id": 2969361, "predecessors": [{"name": "Fármacos_antidiabéticos", "id": 1772939}, {"name": "Sulfonamidas", "id": 5214806}], "successors": []}
+{"name": "Sulfonilureas", "id": 2969361, "predecessors": [{"name": "Farmacología", "id": 55416}, {"name": "Sulfonamidas", "id": 5214806}, {"name": "Diabetes", "id": 1510407}], "successors": []}

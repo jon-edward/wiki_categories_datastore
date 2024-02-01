@@ -1,1 +1,1 @@
-{"name": "Raamatunkäännökset", "id": 232121, "predecessors": [{"name": "Raamattu", "id": 25991}, {"name": "Käännöstiede", "id": 178319}], "successors": [{"name": "Suomalaiset_raamatunkäännökset", "id": 111048}]}
+{"name": "Raamatunkäännökset", "id": 232121, "predecessors": [{"name": "Käännöstiede", "id": 178319}, {"name": "Kirkkohistoria", "id": 25988}], "successors": [{"name": "Suomalaiset_raamatunkäännökset", "id": 111048}, {"name": "Raamatun_kääntäjät", "id": 250818}]}

@@ -1,1 +1,1 @@
-{"name": "Grupos_de_pop_progresivo", "id": 8816251, "predecessors": [{"name": "Grupos_de_rock_progresivo", "id": 246370}, {"name": "Grupos_de_música_rock", "id": 5066693}, {"name": "Grupos_de_música_pop", "id": 5066669}, {"name": "Géneros_de_música_pop", "id": 1464253}], "successors": []}
+{"name": "Grupos_de_pop_progresivo", "id": 8816251, "predecessors": [{"name": "Grupos_de_rock_progresivo", "id": 246370}, {"name": "Músicos_de_rock", "id": 239120}, {"name": "Géneros_musicales_de_los_años_1960", "id": 2269904}], "successors": []}

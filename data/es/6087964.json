@@ -1,1 +1,1 @@
-{"name": "Guionistas_de_Chile", "id": 6087964, "predecessors": [{"name": "Escritores_de_Chile", "id": 76235}], "successors": [{"name": "Guionistas_de_cine_de_Chile", "id": 631949}, {"name": "Guionistas_de_televisión_de_Chile", "id": 3080966}]}
+{"name": "Guionistas_de_Chile", "id": 6087964, "predecessors": [{"name": "Escritores_de_Chile", "id": 76235}, {"name": "Guionistas", "id": 685755}], "successors": [{"name": "Guionistas_de_cine_de_Chile", "id": 631949}, {"name": "Guionistas_de_televisión_de_Chile", "id": 3080966}]}

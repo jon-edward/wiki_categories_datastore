@@ -1,1 +1,1 @@
-{"name": "Moskovan_metro", "id": 862741, "predecessors": [{"name": "Kaupungit", "id": 20192}, {"name": "Aasian_metroliikenne", "id": 1032143}], "successors": [{"name": "Moskovan_metroasemat", "id": 862431}]}
+{"name": "Moskovan_metro", "id": 862741, "predecessors": [{"name": "Venäläiset_valtionyhtiöt", "id": 1722839}, {"name": "Kaupungit", "id": 20192}, {"name": "Aasian_metroliikenne", "id": 1032143}], "successors": [{"name": "Moskovan_metroasemat", "id": 862431}]}

@@ -1,1 +1,1 @@
-{"name": "Calles_de_Rosario", "id": 1980064, "predecessors": [{"name": "Transporte_en_Rosario", "id": 1374150}, {"name": "Rosario", "id": 345714}, {"name": "Transporte", "id": 55371}], "successors": []}
+{"name": "Calles_de_Rosario", "id": 1980064, "predecessors": [{"name": "Transporte_en_Rosario", "id": 1374150}, {"name": "Rosario", "id": 345714}, {"name": "Calles", "id": 155790}], "successors": []}

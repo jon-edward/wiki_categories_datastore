@@ -1,1 +1,1 @@
-{"name": "Ecología_forestal", "id": 7873393, "predecessors": [{"name": "Disciplinas_de_ecología", "id": 1318886}], "successors": [{"name": "Madera_muerta", "id": 8009794}, {"name": "Extinción_de_incendios_forestales", "id": 7758120}]}
+{"name": "Ecología_forestal", "id": 7873393, "predecessors": [{"name": "Disciplinas_de_ecología", "id": 1318886}, {"name": "Silvicultura", "id": 236099}], "successors": [{"name": "Madera_muerta", "id": 8009794}, {"name": "Extinción_de_incendios_forestales", "id": 7758120}]}

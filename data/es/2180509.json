@@ -1,1 +1,1 @@
-{"name": "Hardware_de_Apple_Inc.", "id": 2180509, "predecessors": [{"name": "Productos_de_Apple_Inc.", "id": 2144787}], "successors": [{"name": "IPhone", "id": 2597474}, {"name": "Computadoras_Apple_II", "id": 9361348}]}
+{"name": "Hardware_de_Apple_Inc.", "id": 2180509, "predecessors": [{"name": "Productos_de_Apple_Inc.", "id": 2144787}, {"name": "Empresas_de_hardware", "id": 2936318}], "successors": [{"name": "IPod", "id": 311965}, {"name": "IPhone", "id": 2597474}, {"name": "IPad", "id": 6068112}]}

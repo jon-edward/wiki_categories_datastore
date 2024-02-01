@@ -1,1 +1,1 @@
-{"name": "Motores_radiales", "id": 3775151, "predecessors": [{"name": "Motores_por_disposición_de_cilindros", "id": 9867917}, {"name": "Motores_de_combustión_interna", "id": 324656}], "successors": []}
+{"name": "Motores_radiales", "id": 3775151, "predecessors": [{"name": "Motores_aeronáuticos", "id": 4514767}, {"name": "Disposición_del_motor", "id": 1791116}], "successors": []}

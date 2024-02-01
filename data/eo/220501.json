@@ -1,1 +1,1 @@
-{"name": "Vilno", "id": 220501, "predecessors": [{"name": "Distrikto_Vilnius", "id": 126173}, {"name": "Komunumoj_de_Litovio", "id": 217859}, {"name": "Ĉefurboj_de_Eŭropo", "id": 39030}], "successors": [{"name": "Vilnanoj", "id": 403548}]}
+{"name": "Vilno", "id": 220501, "predecessors": [{"name": "Distrikto_Vilnius", "id": 126173}, {"name": "Komunumoj_de_Litovio", "id": 217859}, {"name": "Ĉefurboj_de_Eŭropo", "id": 39030}], "successors": [{"name": "Vilnanoj", "id": 403548}, {"name": "Transporto_en_Vilno", "id": 853174}]}

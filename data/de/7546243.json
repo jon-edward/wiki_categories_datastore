@@ -1,1 +1,1 @@
-{"name": "Packmittel", "id": 7546243, "predecessors": [{"name": "Verpackung", "id": 662474}, {"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Flasche", "id": 571134}, {"name": "Faltschachtel", "id": 7545174}]}
+{"name": "Packmittel", "id": 7546243, "predecessors": [{"name": "Verpackung", "id": 662474}, {"name": "Technik", "id": 242544}], "successors": [{"name": "Flasche", "id": 571134}, {"name": "Faltschachtel", "id": 7545174}]}

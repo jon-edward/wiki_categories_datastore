@@ -1,1 +1,1 @@
-{"name": "Tiedustelusatelliitit", "id": 21351, "predecessors": [{"name": "Joukkovalvonta", "id": 1179095}, {"name": "Tiedustelu", "id": 24946}, {"name": "Satelliitit", "id": 34505}], "successors": []}
+{"name": "Tiedustelusatelliitit", "id": 21351, "predecessors": [{"name": "Joukkovalvonta", "id": 1179095}, {"name": "Kaukokartoitussatelliitit", "id": 639878}, {"name": "Tiedustelu", "id": 24946}, {"name": "Vakoilu", "id": 29442}, {"name": "Satelliitit", "id": 34505}], "successors": []}

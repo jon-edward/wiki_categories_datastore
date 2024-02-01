@@ -1,1 +1,1 @@
-{"name": "Vehicle_technology", "id": 8345984, "predecessors": [{"name": "Technology_by_type", "id": 17200193}, {"name": "Vehicles", "id": 694929}], "successors": [{"name": "Engines", "id": 743017}, {"name": "Tires", "id": 2341191}, {"name": "Vehicle_telematics", "id": 28237732}]}
+{"name": "Vehicle_technology", "id": 8345984, "predecessors": [{"name": "Technology_by_type", "id": 17200193}, {"name": "Technology", "id": 696648}], "successors": [{"name": "Engines", "id": 743017}, {"name": "Tires", "id": 2341191}, {"name": "Vehicle_telematics", "id": 28237732}]}

@@ -1,1 +1,1 @@
-{"name": "Gas", "id": 589970, "predecessors": [{"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Gastechnik", "id": 930194}, {"name": "Brenngas", "id": 3188464}, {"name": "Atemgas", "id": 3766323}]}
+{"name": "Gas", "id": 589970, "predecessors": [{"name": "Technik", "id": 242544}], "successors": [{"name": "Gastechnik", "id": 930194}, {"name": "Brenngas", "id": 3188464}, {"name": "Atemgas", "id": 3766323}]}

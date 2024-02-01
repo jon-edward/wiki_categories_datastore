@@ -1,1 +1,1 @@
-{"name": "Anatomía_patológica", "id": 106914, "predecessors": [{"name": "Anatomía_animal", "id": 210561}, {"name": "Anatomía_humana", "id": 91674}], "successors": [{"name": "Anatomopatólogos", "id": 5779478}]}
+{"name": "Anatomía_patológica", "id": 106914, "predecessors": [{"name": "Anatomía_animal", "id": 210561}, {"name": "Anatomía_humana", "id": 91674}, {"name": "Especialidades_médicas", "id": 52892}, {"name": "Patología", "id": 379789}], "successors": [{"name": "Anatomopatólogos", "id": 5779478}]}

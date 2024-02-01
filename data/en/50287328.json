@@ -1,1 +1,1 @@
-{"name": "Film_distribution", "id": 50287328, "predecessors": [{"name": "Distribution_(marketing)", "id": 1232228}, {"name": "Economics_of_the_arts_and_literature", "id": 51335119}], "successors": [{"name": "Film_distributors", "id": 1139888}]}
+{"name": "Film_distribution", "id": 50287328, "predecessors": [{"name": "Distribution_(marketing)", "id": 1232228}, {"name": "Film_industry", "id": 42321809}], "successors": [{"name": "Film_distributors", "id": 1139888}]}

@@ -1,1 +1,1 @@
-{"name": "Technisches_Fachgebiet", "id": 3516371, "predecessors": [{"name": "Wissen", "id": 408867}, {"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Ingenieurwissenschaftliches_Fachgebiet", "id": 9241448}]}
+{"name": "Technisches_Fachgebiet", "id": 3516371, "predecessors": [{"name": "Technik", "id": 242544}, {"name": "Wissen", "id": 408867}], "successors": [{"name": "Ingenieurwissenschaftliches_Fachgebiet", "id": 9241448}]}

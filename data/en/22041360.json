@@ -1,1 +1,1 @@
-{"name": "Starfleet_officers", "id": 22041360, "predecessors": [{"name": "Science_fiction_franchises", "id": 60666394}, {"name": "Fictional_astronauts", "id": 2641296}], "successors": []}
+{"name": "Starfleet_officers", "id": 22041360, "predecessors": [{"name": "Science_fiction_franchises", "id": 60666394}, {"name": "Fictional_astronauts", "id": 2641296}], "successors": [{"name": "Starfleet_admirals", "id": 28126366}, {"name": "Starfleet_commanders", "id": 28126378}, {"name": "Starfleet_lieutenant_commanders", "id": 28126416}, {"name": "Starfleet_ensigns", "id": 28126487}]}

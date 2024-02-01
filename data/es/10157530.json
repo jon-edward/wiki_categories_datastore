@@ -1,1 +1,1 @@
-{"name": "Hermanos_beisbolistas", "id": 10157530, "predecessors": [{"name": "Ocupaciones_del_deporte", "id": 5070947}], "successors": []}
+{"name": "Hermanos_beisbolistas", "id": 10157530, "predecessors": [{"name": "Hermanos_deportistas", "id": 4324533}, {"name": "Deporte_en_Estados_Unidos", "id": 4168512}], "successors": []}

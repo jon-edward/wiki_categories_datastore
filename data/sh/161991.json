@@ -1,1 +1,1 @@
-{"name": "Talasi", "id": 161991, "predecessors": [{"name": "Fizika", "id": 3418}, {"name": "Sadržaj", "id": 150410}], "successors": [{"name": "Zvuk", "id": 236626}, {"name": "Elektromagnetna_radijacija", "id": 161989}]}
+{"name": "Valovi", "id": 161991, "predecessors": [{"name": "Fizika", "id": 3418}, {"name": "Oscilacije", "id": 239624}, {"name": "Sadržaj", "id": 150410}], "successors": [{"name": "Zvuk", "id": 236626}, {"name": "Elektromagnetna_radijacija", "id": 161989}]}

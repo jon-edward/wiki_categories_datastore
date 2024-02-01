@@ -1,1 +1,1 @@
-{"name": "Petempatan_di_Seremban", "id": 1115097, "predecessors": [{"name": "Daerah_di_Negeri_Sembilan", "id": 123798}], "successors": [{"name": "Kampung_di_Seremban", "id": 1115101}, {"name": "Pekan_di_Seremban", "id": 1154473}]}
+{"name": "Petempatan_di_Seremban", "id": 1115097, "predecessors": [{"name": "Seremban", "id": 1115135}, {"name": "Daerah_di_Negeri_Sembilan", "id": 123798}], "successors": [{"name": "Kampung_di_Seremban", "id": 1115101}, {"name": "Pekan_di_Seremban", "id": 1154473}]}

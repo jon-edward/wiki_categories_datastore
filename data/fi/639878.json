@@ -1,1 +1,1 @@
-{"name": "Kaukokartoitussatelliitit", "id": 639878, "predecessors": [{"name": "Satelliitit", "id": 34505}, {"name": "Avaruustoiminta", "id": 35794}], "successors": [{"name": "Sääsatelliitit", "id": 944474}]}
+{"name": "Kaukokartoitussatelliitit", "id": 639878, "predecessors": [{"name": "Satelliitit", "id": 34505}, {"name": "Avaruustoiminta", "id": 35794}], "successors": [{"name": "Tiedustelusatelliitit", "id": 21351}, {"name": "Sääsatelliitit", "id": 944474}]}

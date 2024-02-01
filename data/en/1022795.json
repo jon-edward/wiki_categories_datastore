@@ -1,1 +1,1 @@
-{"name": "Driving", "id": 1022795, "predecessors": [{"name": "Land_tenure", "id": 49153374}, {"name": "Skills", "id": 1079731}], "successors": [{"name": "Fictional_drivers", "id": 3892748}, {"name": "Hazardous_motor_vehicle_activities", "id": 6630485}, {"name": "Horse_driving", "id": 13280505}]}
+{"name": "Driving", "id": 1022795, "predecessors": [{"name": "Land_tenure", "id": 49153374}, {"name": "Skills", "id": 1079731}], "successors": [{"name": "Horse_driving", "id": 13280505}]}

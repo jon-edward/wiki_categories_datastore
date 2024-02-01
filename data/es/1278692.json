@@ -1,1 +1,1 @@
-{"name": "Compuestos_de_litio", "id": 1278692, "predecessors": [{"name": "Antipsicóticos", "id": 212212}, {"name": "Compuestos_químicos", "id": 112512}], "successors": [{"name": "Minerales_de_litio", "id": 3557180}]}
+{"name": "Compuestos_de_litio", "id": 1278692, "predecessors": [{"name": "Antipsicóticos", "id": 212212}, {"name": "Sales", "id": 209662}], "successors": [{"name": "Minerales_de_litio", "id": 3557180}]}

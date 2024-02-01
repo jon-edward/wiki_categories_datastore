@@ -1,1 +1,1 @@
-{"name": "Personas_diabéticas", "id": 3072423, "predecessors": [{"name": "Diabetes", "id": 1510407}, {"name": "Personalidad", "id": 4496858}], "successors": [{"name": "Fallecidos_por_diabetes", "id": 5032798}, {"name": "Gabriela_Mistral", "id": 7077125}]}
+{"name": "Personas_diabéticas", "id": 3072423, "predecessors": [{"name": "Diabetes", "id": 1510407}, {"name": "Personalidad", "id": 4496858}], "successors": [{"name": "Fallecidos_por_diabetes", "id": 5032798}]}

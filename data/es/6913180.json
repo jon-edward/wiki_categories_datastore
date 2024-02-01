@@ -1,1 +1,1 @@
-{"name": "Razón", "id": 6913180, "predecessors": [{"name": "Análisis", "id": 3088716}, {"name": "Cognición", "id": 1831370}, {"name": "Inteligencia", "id": 908702}, {"name": "Lógica", "id": 72060}, {"name": "Pensamiento_crítico", "id": 6913167}], "successors": [{"name": "Argumentos", "id": 6913162}]}
+{"name": "Razón", "id": 6913180, "predecessors": [{"name": "Cognición", "id": 1831370}, {"name": "Inteligencia", "id": 908702}, {"name": "Lógica", "id": 72060}, {"name": "Pensamiento_crítico", "id": 6913167}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Skyscrapers", "id": 699630, "predecessors": [{"name": "Buildings_and_structures", "id": 702393}, {"name": "Length", "id": 923167}], "successors": [{"name": "Proposed_skyscrapers", "id": 31800741}, {"name": "Unbuilt_skyscrapers", "id": 72585941}]}
+{"name": "Skyscrapers", "id": 699630, "predecessors": [{"name": "Buildings_and_structures", "id": 702393}, {"name": "Length", "id": 923167}], "successors": [{"name": "Proposed_skyscrapers", "id": 31800741}, {"name": "High-rise_fires", "id": 70020088}, {"name": "Unbuilt_skyscrapers", "id": 72585941}]}

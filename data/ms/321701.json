@@ -1,1 +1,1 @@
-{"name": "Polimer", "id": 321701, "predecessors": [{"name": "Bahan_kimia", "id": 84676}, {"name": "Kimia_polimer", "id": 321702}, {"name": "Disiplin_kejuruteraan", "id": 58302}], "successors": [{"name": "Polimer_organik", "id": 997486}]}
+{"name": "Polimer", "id": 321701, "predecessors": [{"name": "Bahan_kimia", "id": 84676}, {"name": "Kimia_polimer", "id": 321702}, {"name": "Disiplin_kejuruteraan", "id": 58302}], "successors": []}

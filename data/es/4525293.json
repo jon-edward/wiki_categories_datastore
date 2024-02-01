@@ -1,1 +1,1 @@
-{"name": "Sucesiones_de_números_primos", "id": 4525293, "predecessors": [{"name": "Números_primos", "id": 1618350}], "successors": []}
+{"name": "Sucesiones_de_números_primos", "id": 4525293, "predecessors": [{"name": "Números_primos", "id": 1618350}, {"name": "Sucesiones_de_números_enteros", "id": 4525113}], "successors": []}

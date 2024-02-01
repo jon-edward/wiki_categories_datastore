@@ -1,1 +1,1 @@
-{"name": "Zierpflanzenbau", "id": 1047878, "predecessors": [{"name": "Gartenbau", "id": 478862}], "successors": [{"name": "Zierpflanze", "id": 1164939}, {"name": "Bonsai", "id": 1867319}, {"name": "Floristik", "id": 2166306}]}
+{"name": "Zierpflanzenbau", "id": 1047878, "predecessors": [{"name": "Gartenbau", "id": 478862}], "successors": [{"name": "Zierpflanze", "id": 1164939}, {"name": "Bonsai", "id": 1867319}, {"name": "Floristik", "id": 2166306}, {"name": "Rosenzüchtung", "id": 6360481}]}

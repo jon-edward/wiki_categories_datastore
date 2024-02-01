@@ -1,1 +1,1 @@
-{"name": "Grupo_Carrefour", "id": 5038624, "predecessors": [{"name": "Empresas_de_alimentación_de_Francia", "id": 3964138}, {"name": "Tipos_de_empresas", "id": 2817018}], "successors": []}
+{"name": "Grupo_Carrefour", "id": 5038624, "predecessors": [{"name": "Distribución_comercial", "id": 81477}, {"name": "Empresas_de_alimentación_de_Francia", "id": 3964138}, {"name": "Tipos_de_empresas", "id": 2817018}], "successors": []}

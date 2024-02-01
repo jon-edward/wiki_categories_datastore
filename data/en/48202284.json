@@ -1,1 +1,1 @@
-{"name": "School_arson_fires_in_the_United_Kingdom", "id": 48202284, "predecessors": [{"name": "School_violence", "id": 65494286}], "successors": [{"name": "School_buildings_in_the_United_Kingdom_destroyed_by_arson", "id": 38513553}]}
+{"name": "School_arson_fires_in_the_United_Kingdom", "id": 48202284, "predecessors": [{"name": "Violence", "id": 692173}, {"name": "Disasters", "id": 745842}], "successors": [{"name": "School_buildings_in_the_United_Kingdom_destroyed_by_arson", "id": 38513553}]}

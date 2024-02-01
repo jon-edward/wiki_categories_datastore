@@ -1,1 +1,1 @@
-{"name": "Fallecidos_por_insuficiencia_cardíaca", "id": 6424471, "predecessors": [{"name": "Fallecidos_por_enfermedades_cardíacas", "id": 10299855}, {"name": "Enfermedades_cardíacas", "id": 1019751}], "successors": [{"name": "Juan_Pablo_II", "id": 341510}]}
+{"name": "Fallecidos_por_insuficiencia_cardíaca", "id": 6424471, "predecessors": [{"name": "Enfermedades_cardíacas", "id": 1019751}], "successors": [{"name": "Juan_Pablo_II", "id": 341510}]}

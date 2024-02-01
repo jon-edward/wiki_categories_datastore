@@ -1,1 +1,1 @@
-{"name": "Rückenmark", "id": 3425135, "predecessors": [{"name": "Neurobiologie", "id": 1083301}, {"name": "Medizin", "id": 236137}], "successors": []}
+{"name": "Rückenmark", "id": 3425135, "predecessors": [{"name": "Neurobiologie", "id": 1083301}, {"name": "Medizin", "id": 236137}], "successors": [{"name": "Tumor_des_zentralen_Nervensystems", "id": 5572383}]}

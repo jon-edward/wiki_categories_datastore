@@ -1,1 +1,1 @@
-{"name": "Estaciones_de_la_línea_12_del_Metro_de_la_Ciudad_de_México", "id": 7796759, "predecessors": [{"name": "Metro_de_Ciudad_de_México", "id": 312210}, {"name": "Estaciones_de_ferrocarril_de_México", "id": 5565498}], "successors": []}
+{"name": "Estaciones_de_la_línea_12_del_Metro_de_la_Ciudad_de_México", "id": 7796759, "predecessors": [{"name": "Estaciones_de_ferrocarril_de_México", "id": 5565498}, {"name": "Ferrocarriles_metropolitanos", "id": 73726}], "successors": []}

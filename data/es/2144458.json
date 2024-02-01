@@ -1,1 +1,1 @@
-{"name": "Estaciones_del_Metro_de_Medellín", "id": 2144458, "predecessors": [{"name": "Transporte_de_Colombia", "id": 239838}], "successors": [{"name": "Estaciones_de_la_línea_A_del_Metro_de_Medellín", "id": 2144460}]}
+{"name": "Estaciones_del_Metro_de_Medellín", "id": 2144458, "predecessors": [{"name": "Ferrocarriles_metropolitanos", "id": 73726}], "successors": [{"name": "Estaciones_de_la_línea_A_del_Metro_de_Medellín", "id": 2144460}]}

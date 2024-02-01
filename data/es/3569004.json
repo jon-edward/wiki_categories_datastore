@@ -1,1 +1,1 @@
-{"name": "Teoría_de_tipos", "id": 3569004, "predecessors": [{"name": "Informática_teórica", "id": 375078}, {"name": "Teorías_científicas", "id": 1376500}], "successors": [{"name": "Tipos_abstractos_de_datos", "id": 8066833}]}
+{"name": "Teoría_de_tipos", "id": 3569004, "predecessors": [{"name": "Informática_teórica", "id": 375078}, {"name": "Lenguajes_de_programación", "id": 54634}, {"name": "Álgebra_abstracta", "id": 75815}], "successors": []}

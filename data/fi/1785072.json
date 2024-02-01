@@ -1,1 +1,1 @@
-{"name": "Heterosykliset_typpiyhdisteet", "id": 1785072, "predecessors": [{"name": "Heterosykliset_yhdisteet", "id": 262541}, {"name": "Typpiyhdisteet", "id": 232835}], "successors": [{"name": "Piperidiinit", "id": 635918}]}
+{"name": "Heterosykliset_typpiyhdisteet", "id": 1785072, "predecessors": [{"name": "Heterosykliset_yhdisteet", "id": 262541}, {"name": "Orgaaniset_typpiyhdisteet", "id": 1787074}], "successors": [{"name": "Piperidiinit", "id": 635918}, {"name": "Aromaattiset_heterosykliset_typpiyhdisteet", "id": 1784917}]}

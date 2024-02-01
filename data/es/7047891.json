@@ -1,1 +1,1 @@
-{"name": "Estaciones_de_Terrasur", "id": 7047891, "predecessors": [{"name": "Infraestructuras_de_América", "id": 6592017}, {"name": "Empresa_de_los_Ferrocarriles_del_Estado", "id": 464745}], "successors": []}
+{"name": "Estaciones_de_Terrasur", "id": 7047891, "predecessors": [{"name": "Empresa_de_los_Ferrocarriles_del_Estado", "id": 464745}, {"name": "Ferrocarriles", "id": 326073}], "successors": []}

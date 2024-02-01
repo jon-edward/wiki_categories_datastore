@@ -1,1 +1,1 @@
-{"name": "Polinización", "id": 1543321, "predecessors": [{"name": "Apicultura", "id": 74792}, {"name": "Reproducción_vegetal", "id": 991951}], "successors": [{"name": "Polinizadores", "id": 1230822}]}
+{"name": "Polinización", "id": 1543321, "predecessors": [{"name": "Apicultura", "id": 74792}, {"name": "Relaciones_biológicas_interespecíficas", "id": 257858}, {"name": "Reproducción_vegetal", "id": 991951}], "successors": [{"name": "Polinizadores", "id": 1230822}]}

@@ -1,1 +1,0 @@
-{"name": "Voie_métabolique", "id": 5180373, "predecessors": [{"name": "Métabolisme", "id": 341790}], "successors": [{"name": "Photosynthèse", "id": 478008}, {"name": "Glycolyse", "id": 3338342}, {"name": "Cycle_de_Krebs", "id": 5180361}, {"name": "Méthanogenèse", "id": 5443366}, {"name": "Voie_des_pentoses_phosphates", "id": 6354228}, {"name": "Bêta-oxydation", "id": 7558014}]}

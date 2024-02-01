@@ -1,1 +1,1 @@
-{"name": "Embarcaciones_de_remo", "id": 2932428, "predecessors": [{"name": "Remo", "id": 157949}], "successors": [{"name": "Canoas", "id": 7514840}, {"name": "Botes_de_remo_de_competición", "id": 8689636}]}
+{"name": "Embarcaciones_de_remo", "id": 2932428, "predecessors": [{"name": "Remo", "id": 157949}, {"name": "Vehículos_de_propulsión_humana", "id": 2500204}, {"name": "Vehículos", "id": 66642}], "successors": [{"name": "Botes_de_remo_de_competición", "id": 8689636}]}

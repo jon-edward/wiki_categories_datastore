@@ -1,1 +1,1 @@
-{"name": "Letristas_de_Argentina", "id": 6110893, "predecessors": [{"name": "Compositores_de_canciones_de_Argentina", "id": 10037275}, {"name": "Escritores_de_Argentina", "id": 75718}], "successors": [{"name": "Letristas_de_tango_de_Argentina", "id": 3568312}]}
+{"name": "Letristas_de_Argentina", "id": 6110893, "predecessors": [{"name": "Compositores_de_canciones_de_Argentina", "id": 10037275}, {"name": "Escritores_de_Argentina", "id": 75718}, {"name": "Letristas", "id": 189031}], "successors": [{"name": "Letristas_de_tango_de_Argentina", "id": 3568312}]}

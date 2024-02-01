@@ -1,1 +1,1 @@
-{"name": "Hospitales_clausurados", "id": 5706591, "predecessors": [{"name": "Organizaciones_desaparecidas", "id": 567215}], "successors": [{"name": "Hospitales_clausurados_de_España", "id": 5706472}, {"name": "Hospitales_clausurados_de_México", "id": 7815762}]}
+{"name": "Hospitales_clausurados", "id": 5706591, "predecessors": [{"name": "Organizaciones_desaparecidas", "id": 567215}, {"name": "Hospitales", "id": 155839}], "successors": [{"name": "Hospitales_clausurados_de_España", "id": 5706472}]}

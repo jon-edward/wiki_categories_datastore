@@ -1,1 +1,1 @@
-{"name": "Tortură", "id": 68074, "predecessors": [{"name": "Drepturile_omului", "id": 164854}, {"name": "Violență", "id": 760572}, {"name": "Delicte", "id": 480382}, {"name": "Corpul_uman", "id": 1244564}], "successors": [{"name": "Victime_ale_torturii", "id": 2337501}]}
+{"name": "Tortură", "id": 68074, "predecessors": [{"name": "Drepturile_omului", "id": 164854}, {"name": "Pedepse_corporale", "id": 1225547}, {"name": "Violență", "id": 760572}, {"name": "Delicte", "id": 480382}], "successors": [{"name": "Victime_ale_torturii", "id": 2337501}]}

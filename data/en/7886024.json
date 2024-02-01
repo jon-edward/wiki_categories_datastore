@@ -1,1 +1,1 @@
-{"name": "Maneuver_tactics", "id": 7886024, "predecessors": [{"name": "Military_tactics", "id": 1074382}], "successors": []}
+{"name": "Maneuver_tactics", "id": 7886024, "predecessors": [{"name": "Military_tactics", "id": 1074382}], "successors": [{"name": "Encirclements_in_World_War_II", "id": 30660655}, {"name": "Landing_operations", "id": 57047254}]}

@@ -1,1 +1,1 @@
-{"name": "Fármacos_usados_en_enfermedad_de_Parkinson", "id": 8322443, "predecessors": [{"name": "Antiparkinsonianos", "id": 438881}], "successors": []}
+{"name": "Fármacos_usados_en_enfermedad_de_Parkinson", "id": 8322443, "predecessors": [{"name": "Antiparkinsonianos", "id": 438881}, {"name": "Farmacología", "id": 55416}], "successors": []}

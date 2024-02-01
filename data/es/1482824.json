@@ -1,1 +1,1 @@
-{"name": "Primarias_presidenciales_de_Estados_Unidos", "id": 1482824, "predecessors": [{"name": "Elecciones_presidenciales_de_Estados_Unidos", "id": 1132406}], "successors": [{"name": "Primarias_presidenciales_del_Partido_Republicano", "id": 2839894}]}
+{"name": "Primarias_presidenciales_de_Estados_Unidos", "id": 1482824, "predecessors": [{"name": "Elecciones_presidenciales_de_Estados_Unidos", "id": 1132406}, {"name": "Elecciones_primarias", "id": 2523675}], "successors": [{"name": "Primarias_presidenciales_del_Partido_Republicano", "id": 2839894}]}

@@ -1,1 +1,1 @@
-{"name": "Transporte_por_carretera_en_Costa_Rica", "id": 9644858, "predecessors": [{"name": "Transporte_de_Costa_Rica", "id": 5643614}], "successors": [{"name": "Carreteras_de_Costa_Rica", "id": 6148305}]}
+{"name": "Transporte_por_carretera_en_Costa_Rica", "id": 9644858, "predecessors": [{"name": "Transporte_de_Costa_Rica", "id": 5643614}, {"name": "Transporte_por_carretera", "id": 73767}], "successors": [{"name": "Carreteras_de_Costa_Rica", "id": 6148305}]}

@@ -1,1 +1,1 @@
-{"name": "Cortafuegos_(informática)", "id": 1272052, "predecessors": [{"name": "Seguridad_de_redes_informáticas", "id": 8026898}, {"name": "Seguridad_informática", "id": 105215}, {"name": "Protocolo_de_Internet", "id": 5991293}], "successors": []}
+{"name": "Cortafuegos_(informática)", "id": 1272052, "predecessors": [{"name": "Seguridad_de_redes_informáticas", "id": 8026898}, {"name": "Seguridad_informática", "id": 105215}, {"name": "Software_de_seguridad", "id": 5022449}, {"name": "Software_de_redes", "id": 2293344}], "successors": []}

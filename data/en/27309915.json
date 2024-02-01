@@ -1,1 +1,1 @@
-{"name": "Live_heavy_metal_albums", "id": 27309915, "predecessors": [{"name": "Live_rock_albums", "id": 27307367}], "successors": [{"name": "Albums_recorded_at_Wacken_Open_Air", "id": 74747907}]}
+{"name": "Live_heavy_metal_albums", "id": 27309915, "predecessors": [{"name": "Live_rock_albums", "id": 27307367}, {"name": "Heavy_metal_music", "id": 724484}], "successors": [{"name": "Hawkwind_live_albums", "id": 26814094}, {"name": "Albums_recorded_at_Wacken_Open_Air", "id": 74747907}]}

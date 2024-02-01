@@ -1,1 +1,1 @@
-{"name": "Pac-Man", "id": 3349637, "predecessors": [{"name": "Franquicias_de_Bandai_Namco_Entertainment", "id": 9439552}, {"name": "Videojuegos_de_Namco", "id": 2028319}], "successors": []}
+{"name": "Pac-Man", "id": 3349637, "predecessors": [{"name": "Videojuegos_de_Namco", "id": 2028319}, {"name": "Franquicias_de_medios", "id": 6537682}, {"name": "Namco", "id": 6563784}], "successors": []}

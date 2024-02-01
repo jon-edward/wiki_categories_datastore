@@ -1,1 +1,1 @@
-{"name": "Android-sovellukset", "id": 1198172, "predecessors": [{"name": "Android", "id": 960416}, {"name": "Ohjelmistot", "id": 20754}, {"name": "Matkapuhelimet", "id": 20729}], "successors": [{"name": "Android-pelit", "id": 897106}]}
+{"name": "Android-sovellukset", "id": 1198172, "predecessors": [{"name": "Android", "id": 960416}, {"name": "Mobiilisovellukset", "id": 1157565}, {"name": "Ohjelmistot", "id": 20754}], "successors": [{"name": "Android-pelit", "id": 897106}]}

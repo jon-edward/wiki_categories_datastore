@@ -1,1 +1,0 @@
-{"name": "Usinas_de_energia", "id": 1283254, "predecessors": [{"name": "Energia", "id": 63475}, {"name": "Infraestrutura_energética", "id": 4382479}, {"name": "Construções", "id": 41684}, {"name": "Indústria", "id": 77469}], "successors": [{"name": "Usinas_hidrelétricas", "id": 66953}, {"name": "Usinas_nucleares", "id": 192795}, {"name": "Usinas_solares", "id": 3810115}]}

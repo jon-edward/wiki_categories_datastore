@@ -1,1 +1,1 @@
-{"name": "Licores_de_España", "id": 1358165, "predecessors": [{"name": "Bebidas_alcohólicas_de_España", "id": 1773259}], "successors": [{"name": "Brandy_de_Jerez", "id": 2136518}]}
+{"name": "Licores_de_España", "id": 1358165, "predecessors": [{"name": "Bebidas_alcohólicas_de_España", "id": 1773259}, {"name": "Licores", "id": 861115}], "successors": []}

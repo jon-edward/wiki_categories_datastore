@@ -1,1 +1,0 @@
-{"name": "Molécule", "id": 4817343, "predecessors": [{"name": "Chimie_générale", "id": 456442}, {"name": "Physique_moléculaire", "id": 4817342}, {"name": "Concept_en_physique", "id": 6763455}], "successors": [{"name": "Composé_chimique", "id": 84594}, {"name": "Polymère", "id": 88073}, {"name": "Isomérie", "id": 1218821}, {"name": "Géométrie_moléculaire", "id": 6542285}]}

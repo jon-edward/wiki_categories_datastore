@@ -1,1 +1,1 @@
-{"name": "Hapot", "id": 32141, "predecessors": [{"name": "Yhdisteet", "id": 27547}], "successors": [{"name": "Epäorgaaniset_hapot", "id": 32107}, {"name": "Karboksyylihapot", "id": 32217}]}
+{"name": "Hapot", "id": 32141, "predecessors": [{"name": "Yhdisteet", "id": 27547}], "successors": [{"name": "Epäorgaaniset_hapot", "id": 32107}, {"name": "Karboksyylihapot", "id": 32217}, {"name": "Sulfonihapot", "id": 1769943}]}

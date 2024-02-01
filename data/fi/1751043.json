@@ -1,1 +1,1 @@
-{"name": "Suomalaiset_kiinteistöpalveluyritykset", "id": 1751043, "predecessors": [{"name": "Kiinteistöala", "id": 164701}, {"name": "Asuminen_Suomessa", "id": 1225237}], "successors": [{"name": "Suomalaiset_arkkitehtitoimistot", "id": 1484596}]}
+{"name": "Suomalaiset_kiinteistöpalveluyritykset", "id": 1751043, "predecessors": [{"name": "Kiinteistöala", "id": 164701}, {"name": "Asuminen_Suomessa", "id": 1225237}], "successors": [{"name": "Suomalaiset_kiinteistönvälitysyritykset", "id": 1464513}, {"name": "Suomalaiset_arkkitehtitoimistot", "id": 1484596}]}

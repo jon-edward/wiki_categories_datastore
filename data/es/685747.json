@@ -1,1 +1,1 @@
-{"name": "Productores_de_cine_de_Hungría", "id": 685747, "predecessors": [{"name": "Arte", "id": 51311}, {"name": "Húngaros", "id": 190099}], "successors": []}
+{"name": "Productores_de_cine_de_Hungría", "id": 685747, "predecessors": [{"name": "Productores_de_cine", "id": 194470}, {"name": "Húngaros", "id": 190099}, {"name": "Arte", "id": 51311}], "successors": []}

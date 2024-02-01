@@ -1,1 +1,1 @@
-{"name": "Carreteras_de_Venezuela", "id": 743122, "predecessors": [{"name": "Transporte_de_Venezuela", "id": 239780}, {"name": "Geografía_física", "id": 741956}], "successors": [{"name": "Autopistas_de_Venezuela", "id": 561836}]}
+{"name": "Carreteras_de_Venezuela", "id": 743122, "predecessors": [{"name": "Transporte_de_Venezuela", "id": 239780}, {"name": "Carreteras", "id": 793814}, {"name": "Infraestructuras_de_Venezuela", "id": 2380310}, {"name": "Geografía_física", "id": 741956}], "successors": [{"name": "Autopistas_de_Venezuela", "id": 561836}]}

@@ -1,1 +1,1 @@
-{"name": "Fallecidos_por_accidentes_de_tráfico", "id": 5032693, "predecessors": [{"name": "Fallecidos_por_accidentes", "id": 5032649}], "successors": []}
+{"name": "Fallecidos_por_accidentes_de_tráfico", "id": 5032693, "predecessors": [{"name": "Fallecidos_por_accidentes", "id": 5032649}, {"name": "Transporte_por_carretera", "id": 73767}], "successors": []}

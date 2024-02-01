@@ -1,1 +1,1 @@
-{"name": "Hunting_accident_deaths", "id": 27249656, "predecessors": [{"name": "Hunters", "id": 3145620}, {"name": "Hunting", "id": 1067592}], "successors": []}
+{"name": "Hunting_accident_deaths", "id": 27249656, "predecessors": [{"name": "Accidental_deaths", "id": 2301018}, {"name": "Deaths_in_sport", "id": 6344465}, {"name": "Hunters", "id": 3145620}, {"name": "Hunting", "id": 1067592}], "successors": []}

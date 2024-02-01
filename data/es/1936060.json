@@ -1,1 +1,1 @@
-{"name": "Biocombustibles", "id": 1936060, "predecessors": [{"name": "Combustibles_alternativos", "id": 276583}, {"name": "Combustibles", "id": 144034}], "successors": [{"name": "Biomasa", "id": 264498}]}
+{"name": "Biocombustibles", "id": 1936060, "predecessors": [{"name": "Combustibles_alternativos", "id": 276583}, {"name": "Explotación_de_los_recursos_naturales", "id": 52763}, {"name": "Tecnologías_sustentables", "id": 3167376}, {"name": "Energías_alternativas", "id": 5138570}, {"name": "Combustibles", "id": 144034}], "successors": [{"name": "Biomasa", "id": 264498}]}

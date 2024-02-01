@@ -1,1 +1,1 @@
-{"name": "Actores_de_televisión_de_Turquía", "id": 7690959, "predecessors": [{"name": "Actores_de_Turquía", "id": 646456}, {"name": "Comunicación", "id": 274050}], "successors": [{"name": "Actrices_de_televisión_de_Turquía", "id": 10520792}]}
+{"name": "Actores_de_televisión_de_Turquía", "id": 7690959, "predecessors": [{"name": "Actores_de_Turquía", "id": 646456}, {"name": "Actores_de_televisión", "id": 291336}, {"name": "Comunicación", "id": 274050}], "successors": [{"name": "Actrices_de_televisión_de_Turquía", "id": 10520792}]}

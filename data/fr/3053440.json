@@ -1,1 +1,0 @@
-{"name": "Dynamique", "id": 3053440, "predecessors": [{"name": "Mécanique_classique", "id": 177239}, {"name": "Physique", "id": 81538}], "successors": [{"name": "Analyse_harmonique", "id": 666205}, {"name": "Dynamique_du_solide", "id": 3059924}, {"name": "Dynamique_des_fluides", "id": 6068152}, {"name": "Potentiel", "id": 6765489}, {"name": "Systèmes_dynamiques", "id": 7847744}]}

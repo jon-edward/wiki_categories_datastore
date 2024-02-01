@@ -1,1 +1,1 @@
-{"name": "Seznamy_hvězd", "id": 122903, "predecessors": [{"name": "Hvězdy", "id": 29316}, {"name": "Seznamy_vesmírných_objektů", "id": 82817}], "successors": [{"name": "Seznamy_hvězd_podle_souhvězdí", "id": 643782}]}
+{"name": "Seznamy_hvězd", "id": 122903, "predecessors": [{"name": "Hvězdy", "id": 29316}, {"name": "Seznamy_astronomických_objektů", "id": 82817}], "successors": [{"name": "Seznamy_hvězd_podle_souhvězdí", "id": 643782}]}

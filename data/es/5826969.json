@@ -1,1 +1,1 @@
-{"name": "Jefes_de_Gobierno_LGBT", "id": 5826969, "predecessors": [{"name": "Culturas_basadas_en_la_sexualidad_e_identidad_de_género", "id": 7250796}], "successors": []}
+{"name": "Jefes_de_Gobierno_LGBT", "id": 5826969, "predecessors": [{"name": "Jefes_de_Gobierno", "id": 300867}, {"name": "Política_por_tipo", "id": 5065903}], "successors": [{"name": "Alcaldes_gais", "id": 10671582}]}

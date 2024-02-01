@@ -1,1 +1,1 @@
-{"name": "Actores_de_cine_de_los_Países_Bajos", "id": 2522032, "predecessors": [{"name": "Actores_de_los_Países_Bajos", "id": 619627}, {"name": "Arte", "id": 51311}], "successors": [{"name": "Actrices_de_cine_de_los_Países_Bajos", "id": 10538127}]}
+{"name": "Actores_de_cine_de_los_Países_Bajos", "id": 2522032, "predecessors": [{"name": "Actores_de_los_Países_Bajos", "id": 619627}, {"name": "Actores_de_cine", "id": 397320}, {"name": "Arte", "id": 51311}], "successors": [{"name": "Actrices_de_cine_de_los_Países_Bajos", "id": 10538127}]}

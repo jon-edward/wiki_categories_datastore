@@ -1,1 +1,1 @@
-{"name": "Barcos_de_Costa_Cruceros", "id": 5098013, "predecessors": [{"name": "Empresas", "id": 62409}, {"name": "Ciencia_y_tecnología_de_Italia", "id": 262967}], "successors": []}
+{"name": "Barcos_de_Costa_Cruceros", "id": 5098013, "predecessors": [{"name": "Buques_de_pasajeros", "id": 2215371}, {"name": "Empresas_navieras", "id": 4503302}, {"name": "Barcos", "id": 66044}], "successors": []}

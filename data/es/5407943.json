@@ -1,0 +1,1 @@
+{"name": "Proceso_metalúrgico", "id": 5407943, "predecessors": [{"name": "Metalurgia", "id": 66619}], "successors": [{"name": "Arte_en_metal", "id": 7651444}, {"name": "Metalistería", "id": 8355166}, {"name": "Fabricación_del_acero", "id": 10179341}]}

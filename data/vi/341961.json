@@ -1,1 +1,0 @@
-{"name": "VoIP", "id": 341961, "predecessors": [{"name": "Giao_thức_tầng_ứng_dụng", "id": 2260979}, {"name": "Viễn_thông", "id": 17312}, {"name": "Âm_thanh_kỹ_thuật_số", "id": 586182}, {"name": "Điện_thoại", "id": 17313}], "successors": [{"name": "Phần_mềm_VoIP", "id": 3244910}]}

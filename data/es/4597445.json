@@ -1,1 +1,1 @@
-{"name": "Aviones_acrobáticos", "id": 4597445, "predecessors": [{"name": "Acrobacias", "id": 2643525}], "successors": []}
+{"name": "Aviones_acrobáticos", "id": 4597445, "predecessors": [{"name": "Aeronaves_por_tipo", "id": 1878571}, {"name": "Deportes_aeronáuticos", "id": 173940}], "successors": []}

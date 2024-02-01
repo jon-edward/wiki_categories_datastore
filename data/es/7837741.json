@@ -1,1 +1,1 @@
-{"name": "Tecnología_de_motores", "id": 7837741, "predecessors": [{"name": "Motores_de_combustión_interna", "id": 324656}], "successors": [{"name": "Turbocompresores", "id": 8650020}, {"name": "Sistemas_de_arranque", "id": 9407990}]}
+{"name": "Tecnología_de_motores", "id": 7837741, "predecessors": [{"name": "Motores", "id": 604095}, {"name": "Motores_de_combustión_interna", "id": 324656}], "successors": []}

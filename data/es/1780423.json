@@ -1,1 +1,1 @@
-{"name": "Nervios", "id": 1780423, "predecessors": [{"name": "Sistema_nervioso_periférico", "id": 182427}], "successors": []}
+{"name": "Nervios", "id": 1780423, "predecessors": [{"name": "Sistema_nervioso_periférico", "id": 182427}], "successors": [{"name": "Nervios_del_miembro_superior", "id": 2084588}, {"name": "Nervios_del_miembro_inferior", "id": 2089177}, {"name": "Nervios_de_la_cabeza_y_cuello", "id": 5682245}]}

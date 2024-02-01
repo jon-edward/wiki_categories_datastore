@@ -1,1 +1,1 @@
-{"name": "Ranuras_de_expansión_de_placas_base", "id": 511692, "predecessors": [{"name": "Buses", "id": 66982}], "successors": []}
+{"name": "Ranuras_de_expansión_de_placas_base", "id": 511692, "predecessors": [{"name": "Buses", "id": 66982}, {"name": "Tarjeta_madre", "id": 502389}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Localidades_de_Utrecht", "id": 4978250, "predecessors": [{"name": "Localidades", "id": 104681}, {"name": "NUTS", "id": 337393}], "successors": []}
+{"name": "Localidades_de_Utrecht", "id": 4978250, "predecessors": [{"name": "Entidades_subnacionales", "id": 365760}, {"name": "NUTS", "id": 337393}], "successors": [{"name": "Utrecht", "id": 3583865}]}

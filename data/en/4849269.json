@@ -1,1 +1,1 @@
-{"name": "Blackjack", "id": 4849269, "predecessors": [{"name": "American_card_games", "id": 69613434}, {"name": "Banking_games", "id": 59585212}, {"name": "Gambling_games", "id": 8949287}], "successors": [{"name": "American_blackjack_players", "id": 5874392}]}
+{"name": "Blackjack", "id": 4849269, "predecessors": [{"name": "American_card_games", "id": 69613434}, {"name": "Banking_games", "id": 59585212}], "successors": [{"name": "American_blackjack_players", "id": 5874392}]}

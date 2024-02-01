@@ -1,1 +1,1 @@
-{"name": "Maestros_de_karate", "id": 1008002, "predecessors": [{"name": "Karate", "id": 580795}, {"name": "Ocupaciones_del_deporte", "id": 5070947}], "successors": []}
+{"name": "Maestros_de_karate", "id": 1008002, "predecessors": [{"name": "Karate", "id": 580795}, {"name": "Profesores", "id": 113460}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Destilación", "id": 354946, "predecessors": [{"name": "Procesos_de_separación", "id": 1826272}], "successors": [{"name": "Bebidas_destiladas", "id": 437683}]}
+{"name": "Destilación", "id": 354946, "predecessors": [{"name": "Procesos_de_separación", "id": 1826272}, {"name": "Transferencia_de_calor", "id": 5166646}], "successors": [{"name": "Bebidas_destiladas", "id": 437683}]}

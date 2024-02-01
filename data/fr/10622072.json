@@ -1,1 +1,0 @@
-{"name": "Type_de_déchets", "id": 10622072, "predecessors": [{"name": "Accueil", "id": 1155637}], "successors": [{"name": "Déchet_radioactif", "id": 843295}, {"name": "Objet_jetable", "id": 4946348}, {"name": "Déchet_dangereux", "id": 10622143}]}

@@ -1,1 +1,1 @@
-{"name": "Penalistas_de_Chile", "id": 5460722, "predecessors": [{"name": "Derecho_penal_de_Chile", "id": 4267825}, {"name": "Juristas_de_Chile", "id": 441727}], "successors": []}
+{"name": "Penalistas_de_Chile", "id": 5460722, "predecessors": [{"name": "Juristas_de_Chile", "id": 441727}, {"name": "Penalistas", "id": 427850}, {"name": "Derecho_penal", "id": 75741}], "successors": []}

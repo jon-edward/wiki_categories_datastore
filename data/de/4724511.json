@@ -1,1 +1,1 @@
-{"name": "Produzierendes_Unternehmen_(Metall)", "id": 4724511, "predecessors": [{"name": "Organisation_(Industrie)", "id": 8513610}, {"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Metallverarbeitendes_Unternehmen", "id": 9181150}]}
+{"name": "Produzierendes_Unternehmen_(Metall)", "id": 4724511, "predecessors": [{"name": "Organisation_(Industrie)", "id": 8513610}, {"name": "Technik", "id": 242544}], "successors": [{"name": "Metallverarbeitendes_Unternehmen", "id": 9181150}]}

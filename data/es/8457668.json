@@ -1,1 +1,1 @@
-{"name": "Nacionalidades_por_país", "id": 8457668, "predecessors": [{"name": "Nacionalidad", "id": 1699794}], "successors": []}
+{"name": "Nacionalidades_por_país", "id": 8457668, "predecessors": [{"name": "Ciudadanía", "id": 6914647}, {"name": "Derecho_constitucional", "id": 75758}, {"name": "Derecho_por_disciplina", "id": 1442768}, {"name": "Nacionalidad", "id": 1699794}], "successors": []}

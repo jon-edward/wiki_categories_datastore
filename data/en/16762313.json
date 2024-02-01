@@ -1,0 +1,1 @@
+{"name": "Incident_management", "id": 16762313, "predecessors": [{"name": "Disaster_management_tools", "id": 5241067}, {"name": "Firefighting", "id": 854544}], "successors": [{"name": "Triage", "id": 16822652}]}

@@ -1,1 +1,1 @@
-{"name": "Sistemas_de_gestión_empresarial", "id": 2897005, "predecessors": [{"name": "Herramientas_de_gestión", "id": 324641}], "successors": [{"name": "CRM", "id": 2952991}, {"name": "ERP", "id": 4574689}]}
+{"name": "Sistemas_de_gestión_empresarial", "id": 2897005, "predecessors": [{"name": "Aplicaciones_informáticas", "id": 54102}, {"name": "Herramientas_de_gestión", "id": 324641}], "successors": [{"name": "Sistemas_de_gestión_empresarial_libres", "id": 1813246}, {"name": "CRM", "id": 2952991}, {"name": "ERP", "id": 4574689}]}

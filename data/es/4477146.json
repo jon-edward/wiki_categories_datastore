@@ -1,0 +1,1 @@
+{"name": "Fabricantes_de_barcos", "id": 4477146, "predecessors": [{"name": "Barcos", "id": 66044}, {"name": "Fabricantes_de_vehículos", "id": 2125679}], "successors": [{"name": "Astilleros", "id": 2640531}, {"name": "Empresas_de_astilleros_de_España", "id": 5403685}, {"name": "Ansaldo", "id": 7454650}]}

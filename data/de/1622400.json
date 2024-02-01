@@ -1,1 +1,1 @@
-{"name": "Unterhaltungselektronik", "id": 1622400, "predecessors": [{"name": "Elektronik", "id": 274174}, {"name": "Unterhaltung", "id": 7561558}, {"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Spielkonsole", "id": 308144}, {"name": "Videotechnik", "id": 595417}]}
+{"name": "Unterhaltungselektronik", "id": 1622400, "predecessors": [{"name": "Elektronik", "id": 274174}, {"name": "Unterhaltung", "id": 7561558}, {"name": "Technik", "id": 242544}], "successors": [{"name": "Spielkonsole", "id": 308144}, {"name": "Videotechnik", "id": 595417}]}

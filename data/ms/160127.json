@@ -1,1 +1,1 @@
-{"name": "Sebatian_tak_organik", "id": 160127, "predecessors": [{"name": "Sebatian_kimia", "id": 30367}, {"name": "Kimia", "id": 11182}], "successors": [{"name": "Halida_logam", "id": 971170}]}
+{"name": "Sebatian_tak_organik", "id": 160127, "predecessors": [{"name": "Kimia_tak_organik", "id": 160128}, {"name": "Sebatian_kimia", "id": 30367}], "successors": [{"name": "Halida_logam", "id": 971170}]}

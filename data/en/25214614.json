@@ -1,1 +1,1 @@
-{"name": "Natural_history_books", "id": 25214614, "predecessors": [{"name": "Natural_history", "id": 2054828}, {"name": "Science_books", "id": 47064376}], "successors": [{"name": "New_Naturalist_writers", "id": 45499570}]}
+{"name": "Natural_history_books", "id": 25214614, "predecessors": [{"name": "Natural_history", "id": 2054828}, {"name": "Science_books", "id": 47064376}], "successors": [{"name": "Botany_books", "id": 7721504}, {"name": "Books_about_Australian_natural_history", "id": 31199826}, {"name": "New_Naturalist_writers", "id": 45499570}]}

@@ -1,1 +1,1 @@
-{"name": "Paleobotánica", "id": 2821187, "predecessors": [{"name": "Disciplinas_de_la_botánica", "id": 9119350}, {"name": "Disciplinas_de_paleontología", "id": 1329108}], "successors": [{"name": "Paleobotánicos", "id": 867478}, {"name": "Fósiles_vegetales", "id": 2147448}]}
+{"name": "Paleobotánica", "id": 2821187, "predecessors": [{"name": "Disciplinas_de_paleontología", "id": 1329108}], "successors": [{"name": "Paleobotánicos", "id": 867478}, {"name": "Fósiles_vegetales", "id": 2147448}]}

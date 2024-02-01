@@ -1,1 +1,1 @@
-{"name": "Motores_turborreactor", "id": 3775070, "predecessors": [{"name": "Turbomáquinas", "id": 5610984}], "successors": []}
+{"name": "Motores_turborreactor", "id": 3775070, "predecessors": [{"name": "Motores_de_reacción", "id": 3773693}, {"name": "Turbomáquinas", "id": 5610984}], "successors": []}

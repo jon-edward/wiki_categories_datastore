@@ -1,1 +1,1 @@
-{"name": "Sijoitusrahastot", "id": 1257403, "predecessors": [{"name": "Sijoittaminen", "id": 19494}, {"name": "Apurahat", "id": 419911}], "successors": []}
+{"name": "Sijoitusrahastot", "id": 1257403, "predecessors": [{"name": "Arvopaperioikeus", "id": 174573}, {"name": "Sijoittaminen", "id": 19494}, {"name": "Yhtiömuodot", "id": 34414}, {"name": "Apurahat", "id": 419911}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Helicopter_carrier_classes", "id": 6253655, "predecessors": [{"name": "Helicopter_carriers", "id": 6253055}], "successors": []}
+{"name": "Helicopter_carrier_classes", "id": 6253655, "predecessors": [{"name": "Aircraft_carrier_classes", "id": 3502980}, {"name": "Helicopter_carriers", "id": 6253055}], "successors": []}

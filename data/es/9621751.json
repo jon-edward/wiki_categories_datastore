@@ -1,1 +1,1 @@
-{"name": "Fallecidos_en_Valladolid", "id": 9621751, "predecessors": [{"name": "Personas_de_Valladolid", "id": 8232364}, {"name": "Provincia_de_Valladolid", "id": 105061}], "successors": []}
+{"name": "Fallecidos_en_Valladolid", "id": 9621751, "predecessors": [{"name": "Valladolid", "id": 51095}, {"name": "Provincia_de_Valladolid", "id": 105061}], "successors": []}

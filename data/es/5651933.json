@@ -1,1 +1,1 @@
-{"name": "Juegos_matemáticos", "id": 5651933, "predecessors": [{"name": "Deportes_mentales", "id": 1647074}, {"name": "Matemática_recreativa", "id": 495321}], "successors": [{"name": "Cubo_de_Rubik", "id": 4132098}]}
+{"name": "Juegos_matemáticos", "id": 5651933, "predecessors": [{"name": "Matemática_recreativa", "id": 495321}], "successors": [{"name": "Cubo_de_Rubik", "id": 4132098}]}

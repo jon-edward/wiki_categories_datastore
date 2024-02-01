@@ -1,1 +1,1 @@
-{"name": "Bancos_de_Japón", "id": 3780109, "predecessors": [{"name": "Bancos_de_Asia", "id": 6254796}, {"name": "Bancos", "id": 132846}, {"name": "Empresas_de_Japón", "id": 141520}], "successors": []}
+{"name": "Bancos_de_Japón", "id": 3780109, "predecessors": [{"name": "Bancos", "id": 132846}, {"name": "Empresas_de_Japón", "id": 141520}, {"name": "Asia", "id": 64610}], "successors": []}

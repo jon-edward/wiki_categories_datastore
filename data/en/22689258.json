@@ -1,1 +1,1 @@
-{"name": "Social_statistics_data", "id": 22689258, "predecessors": [{"name": "Social_statistics", "id": 6538330}, {"name": "Statistical_data_sets", "id": 6538378}], "successors": [{"name": "Economic_data", "id": 2114600}, {"name": "Surveys_(human_research)", "id": 64713370}]}
+{"name": "Social_statistics_data", "id": 22689258, "predecessors": [{"name": "Social_statistics", "id": 6538330}], "successors": [{"name": "Economic_data", "id": 2114600}, {"name": "Panel_data", "id": 20134093}, {"name": "Surveys_(human_research)", "id": 64713370}]}

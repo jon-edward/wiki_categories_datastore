@@ -1,1 +1,1 @@
-{"name": "Rosenzüchter", "id": 1712541, "predecessors": [{"name": "Gärtner", "id": 334497}, {"name": "Pflanzenzüchter", "id": 2469182}, {"name": "Baumschulwesen", "id": 3142698}], "successors": []}
+{"name": "Rosenzüchter", "id": 1712541, "predecessors": [{"name": "Gärtner", "id": 334497}, {"name": "Pflanzenzüchter", "id": 2469182}, {"name": "Rosenzüchtung", "id": 6360481}], "successors": []}

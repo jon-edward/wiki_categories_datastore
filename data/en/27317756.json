@@ -1,1 +1,1 @@
-{"name": "Punk_rock_compilation_albums", "id": 27317756, "predecessors": [{"name": "Rock_compilation_albums", "id": 27307970}], "successors": [{"name": "Emo_compilation_albums", "id": 38087700}]}
+{"name": "Punk_rock_compilation_albums", "id": 27317756, "predecessors": [{"name": "Rock_compilation_albums", "id": 27307970}, {"name": "Punk_rock", "id": 2604751}], "successors": [{"name": "Emo_compilation_albums", "id": 38087700}]}

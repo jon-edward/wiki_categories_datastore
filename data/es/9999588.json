@@ -1,1 +1,1 @@
-{"name": "Banderas_con_aves", "id": 9999588, "predecessors": [{"name": "Banderas_con_animales", "id": 10011665}], "successors": [{"name": "Banderas_con_águilas", "id": 10012793}]}
+{"name": "Banderas_con_aves", "id": 9999588, "predecessors": [{"name": "Aves_en_la_cultura", "id": 9994144}, {"name": "Banderas_con_animales", "id": 10011665}], "successors": [{"name": "Banderas_con_águilas", "id": 10012793}]}

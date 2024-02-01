@@ -1,1 +1,1 @@
-{"name": "Siglas", "id": 1852015, "predecessors": [{"name": "Abreviatura", "id": 1320430}, {"name": "Tipos_de_palabras", "id": 3451299}], "successors": [{"name": "FIFA", "id": 451535}, {"name": "BMW", "id": 2305283}, {"name": "SNCF", "id": 10111404}]}
+{"name": "Siglas", "id": 1852015, "predecessors": [{"name": "Abreviatura", "id": 1320430}, {"name": "Tipos_de_palabras", "id": 3451299}], "successors": [{"name": "FIFA", "id": 451535}, {"name": "Siglas_de_informática", "id": 1855787}, {"name": "Siglas_políticas", "id": 1949856}, {"name": "BMW", "id": 2305283}]}

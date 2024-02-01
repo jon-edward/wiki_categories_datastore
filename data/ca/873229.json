@@ -1,1 +1,1 @@
-{"name": "Místics_cristians", "id": 873229, "predecessors": [{"name": "Religiosos_cristians", "id": 155152}, {"name": "Cristianisme", "id": 13169}, {"name": "Escriptors_de_temàtica_religiosa", "id": 1762199}], "successors": [{"name": "Estigmatitzats", "id": 1704284}]}
+{"name": "Místics_cristians", "id": 873229, "predecessors": [{"name": "Místics", "id": 1178096}, {"name": "Religiosos_cristians", "id": 155152}, {"name": "Cristianisme", "id": 13169}], "successors": [{"name": "Estigmatitzats", "id": 1704284}]}

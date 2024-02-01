@@ -1,1 +1,1 @@
-{"name": "Médicos_de_Puerto_Rico", "id": 407527, "predecessors": [{"name": "Científicos_de_Puerto_Rico", "id": 350956}, {"name": "Médicos_de_Estados_Unidos", "id": 170615}, {"name": "Salud_en_Estados_Unidos", "id": 1390796}], "successors": []}
+{"name": "Médicos_de_Puerto_Rico", "id": 407527, "predecessors": [{"name": "Médicos_de_Estados_Unidos", "id": 170615}, {"name": "Ciencia_y_tecnología_de_Estados_Unidos", "id": 1149566}, {"name": "Salud_en_Estados_Unidos", "id": 1390796}], "successors": []}

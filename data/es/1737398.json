@@ -1,1 +1,1 @@
-{"name": "Camiones_militares", "id": 1737398, "predecessors": [{"name": "Vehículos_militares", "id": 1737385}], "successors": []}
+{"name": "Camiones_militares", "id": 1737398, "predecessors": [{"name": "Camiones", "id": 181049}, {"name": "Armamento", "id": 68567}], "successors": []}

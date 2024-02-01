@@ -1,1 +1,1 @@
-{"name": "Planetas_en_la_cultura", "id": 9988418, "predecessors": [{"name": "Planetas", "id": 69541}, {"name": "Cultura", "id": 51310}], "successors": [{"name": "Planetas_ficticios", "id": 1132368}, {"name": "Venus_en_la_cultura_popular", "id": 1282207}]}
+{"name": "Planetas_en_la_cultura", "id": 9988418, "predecessors": [{"name": "Planetas", "id": 69541}, {"name": "Objetos_astronómicos", "id": 178331}], "successors": [{"name": "Planetas_ficticios", "id": 1132368}, {"name": "Venus_en_la_cultura_popular", "id": 1282207}]}

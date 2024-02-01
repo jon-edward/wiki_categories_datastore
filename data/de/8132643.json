@@ -1,1 +1,1 @@
-{"name": "Airbus_Group", "id": 8132643, "predecessors": [{"name": "Unternehmenswesen", "id": 8993194}, {"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Airbus", "id": 1402542}, {"name": "Airbus_Helicopters", "id": 8132641}, {"name": "Person_(Airbus_Group)", "id": 8133822}]}
+{"name": "Airbus_Group", "id": 8132643, "predecessors": [{"name": "Unternehmenswesen", "id": 8993194}, {"name": "Technik", "id": 242544}], "successors": [{"name": "Airbus", "id": 1402542}, {"name": "Airbus_Helicopters", "id": 8132641}, {"name": "Person_(Airbus_Group)", "id": 8133822}]}

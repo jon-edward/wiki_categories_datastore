@@ -1,1 +1,1 @@
-{"name": "Groupe_PSA", "id": 2097896, "predecessors": [{"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Opel", "id": 258695}, {"name": "Citroën", "id": 481003}, {"name": "Peugeot", "id": 487591}, {"name": "DS_Automobiles", "id": 9461181}]}
+{"name": "Groupe_PSA", "id": 2097896, "predecessors": [{"name": "Technik", "id": 242544}], "successors": [{"name": "Opel", "id": 258695}, {"name": "Citroën", "id": 481003}, {"name": "Peugeot", "id": 487591}, {"name": "DS_Automobiles", "id": 9461181}]}

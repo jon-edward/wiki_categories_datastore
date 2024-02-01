@@ -1,1 +1,1 @@
-{"name": "Semiología_del_aparato_respiratorio", "id": 7369732, "predecessors": [{"name": "Enfermedades_del_aparato_respiratorio", "id": 55358}, {"name": "Signos_clínicos", "id": 1459328}, {"name": "Síntomas", "id": 52223}], "successors": [{"name": "Respiración_anormal", "id": 7024711}]}
+{"name": "Semiología_del_aparato_respiratorio", "id": 7369732, "predecessors": [{"name": "Enfermedades_del_aparato_respiratorio", "id": 55358}], "successors": [{"name": "Respiración_anormal", "id": 7024711}]}

@@ -1,1 +1,1 @@
-{"name": "Permutaciones", "id": 1525295, "predecessors": [{"name": "Teoría_de_grupos", "id": 75814}], "successors": [{"name": "Teoría_de_invariantes", "id": 10367015}]}
+{"name": "Permutaciones", "id": 1525295, "predecessors": [{"name": "Combinatoria", "id": 4511848}, {"name": "Teoría_de_grupos", "id": 75814}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Bailarines_de_bailes_de_salón", "id": 7885941, "predecessors": [{"name": "Bailarines", "id": 296489}, {"name": "Bailes_de_salón", "id": 7885944}], "successors": []}
+{"name": "Bailarines_de_bailes_de_salón", "id": 7885941, "predecessors": [{"name": "Bailes_de_salón", "id": 7885944}, {"name": "Artistas", "id": 459774}], "successors": []}

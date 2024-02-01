@@ -1,1 +1,1 @@
-{"name": "Enzimologia", "id": 252495, "predecessors": [{"name": "Bioquímica", "id": 12711}, {"name": "Cinètica_química", "id": 247578}, {"name": "Proteòmica", "id": 542383}], "successors": [{"name": "Enzims", "id": 13116}]}
+{"name": "Enzimologia", "id": 252495, "predecessors": [{"name": "Bioquímica", "id": 12711}, {"name": "Proteòmica", "id": 542383}, {"name": "Química_física", "id": 12728}], "successors": [{"name": "Enzims", "id": 13116}]}

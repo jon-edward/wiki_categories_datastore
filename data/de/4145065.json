@@ -1,1 +1,1 @@
-{"name": "Stempelschneider", "id": 4145065, "predecessors": [{"name": "Metallkünstler", "id": 8053074}, {"name": "Person_(Numismatik)", "id": 4475753}, {"name": "Metallkunst", "id": 7664523}], "successors": []}
+{"name": "Stempelschneider", "id": 4145065, "predecessors": [{"name": "Metallkünstler", "id": 8053074}, {"name": "Person_(Numismatik)", "id": 4475753}, {"name": "Stempelschneidekunst", "id": 5165052}], "successors": []}

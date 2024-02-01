@@ -1,1 +1,1 @@
-{"name": "Nukleotida", "id": 1036408, "predecessors": [{"name": "Genetik", "id": 57509}, {"name": "Nukleosida", "id": 1171108}, {"name": "Organofosfat", "id": 1136342}], "successors": []}
+{"name": "Nukleotida", "id": 1036408, "predecessors": [{"name": "Genetik", "id": 57509}, {"name": "Nukleosida", "id": 1171108}, {"name": "Organofosfat", "id": 1136342}], "successors": [{"name": "DNA", "id": 417513}]}

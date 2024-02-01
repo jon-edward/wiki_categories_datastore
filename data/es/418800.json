@@ -1,1 +1,1 @@
-{"name": "Cantantes_de_country", "id": 418800, "predecessors": [{"name": "Músicos_de_country", "id": 713276}, {"name": "Cantantes", "id": 54148}], "successors": [{"name": "Canciones_de_Shania_Twain", "id": 6620835}]}
+{"name": "Cantantes_de_country", "id": 418800, "predecessors": [{"name": "Músicos_de_country", "id": 713276}], "successors": [{"name": "Canciones_de_Shania_Twain", "id": 6620835}]}

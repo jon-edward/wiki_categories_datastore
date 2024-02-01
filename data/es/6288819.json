@@ -1,1 +1,1 @@
-{"name": "Alojamiento_de_videos", "id": 6288819, "predecessors": [{"name": "Alojamiento_web", "id": 4378252}, {"name": "Medios_de_comunicación", "id": 142719}], "successors": [{"name": "YouTube", "id": 1894010}, {"name": "Facebook", "id": 2455181}]}
+{"name": "Alojamiento_de_videos", "id": 6288819, "predecessors": [{"name": "Almacenamiento_de_video", "id": 615302}, {"name": "Alojamiento_web", "id": 4378252}, {"name": "Medios_de_comunicación", "id": 142719}], "successors": [{"name": "YouTube", "id": 1894010}, {"name": "Facebook", "id": 2455181}]}

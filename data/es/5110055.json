@@ -1,1 +1,1 @@
-{"name": "Profesores_de_la_Universidad_de_Pisa", "id": 5110055, "predecessors": [{"name": "Profesores_de_universidades_de_Italia", "id": 5110034}, {"name": "Ciencia_por_año", "id": 6823049}], "successors": []}
+{"name": "Profesores_de_la_Universidad_de_Pisa", "id": 5110055, "predecessors": [{"name": "Profesores_de_Italia", "id": 1536529}, {"name": "Cronología", "id": 407929}], "successors": []}

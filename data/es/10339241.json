@@ -1,1 +1,1 @@
-{"name": "Almacenamiento_de_computadora_en_disquete", "id": 10339241, "predecessors": [{"name": "Hardware_heredado", "id": 10337191}], "successors": [{"name": "Disqueteras", "id": 10592170}]}
+{"name": "Almacenamiento_de_computadora_en_disquete", "id": 10339241, "predecessors": [{"name": "Dispositivos_de_almacenamiento", "id": 5993454}, {"name": "Hardware_heredado", "id": 10337191}, {"name": "Medios_de_almacenamiento_de_computadora_de_disco_giratorio", "id": 8787780}], "successors": [{"name": "Disqueteras_CBM", "id": 10592175}]}

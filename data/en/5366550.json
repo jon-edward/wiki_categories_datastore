@@ -1,1 +1,1 @@
-{"name": "Tennis_organizations", "id": 5366550, "predecessors": [{"name": "Athletic_sports", "id": 31210709}], "successors": [{"name": "World_Championship_Tennis", "id": 17065748}, {"name": "Tennis_clubs", "id": 69818459}]}
+{"name": "Tennis_organizations", "id": 5366550, "predecessors": [{"name": "Athletic_sports", "id": 31210709}], "successors": [{"name": "World_Championship_Tennis", "id": 17065748}, {"name": "Tennis_academies", "id": 30407113}, {"name": "Tennis_clubs", "id": 69818459}]}

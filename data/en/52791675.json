@@ -1,1 +1,1 @@
-{"name": "Emergency_management_software", "id": 52791675, "predecessors": [{"name": "Application_software", "id": 708063}, {"name": "Emergency_management", "id": 5047412}, {"name": "Security_software", "id": 52792599}], "successors": [{"name": "Mesh_networking", "id": 46326466}]}
+{"name": "Emergency_management_software", "id": 52791675, "predecessors": [{"name": "Application_software", "id": 708063}, {"name": "Disaster_management_tools", "id": 5241067}, {"name": "Security_software", "id": 52792599}], "successors": [{"name": "Mesh_networking", "id": 46326466}]}

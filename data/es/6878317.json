@@ -1,1 +1,1 @@
-{"name": "Masas", "id": 6878317, "predecessors": [{"name": "Horneado", "id": 6878318}, {"name": "Ingredientes_culinarios", "id": 3146307}, {"name": "Pan", "id": 206342}], "successors": [{"name": "Hojaldre", "id": 6930986}]}
+{"name": "Masas", "id": 6878317, "predecessors": [{"name": "Ingredientes_culinarios", "id": 3146307}, {"name": "Pan", "id": 206342}, {"name": "Comida_y_bebida", "id": 6511317}], "successors": [{"name": "Hojaldre", "id": 6930986}]}

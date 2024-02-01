@@ -1,1 +1,1 @@
-{"name": "Ferrocarriles_metropolitanos_de_Canadá", "id": 383677, "predecessors": [{"name": "Ferrocarril_en_Canadá", "id": 1540561}, {"name": "Geografía_física", "id": 741956}], "successors": [{"name": "Metro_de_Toronto", "id": 9570529}]}
+{"name": "Ferrocarriles_metropolitanos_de_Canadá", "id": 383677, "predecessors": [{"name": "Ferrocarril_en_Canadá", "id": 1540561}, {"name": "Ferrocarriles_metropolitanos", "id": 73726}, {"name": "Geografía_física", "id": 741956}], "successors": [{"name": "Metro_de_Toronto", "id": 9570529}]}

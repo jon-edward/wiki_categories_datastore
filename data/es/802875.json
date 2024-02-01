@@ -1,1 +1,1 @@
-{"name": "Vectores_biológicos", "id": 802875, "predecessors": [{"name": "Genética", "id": 49504}, {"name": "Microbiología", "id": 68208}, {"name": "Términos_de_ecología", "id": 1800449}, {"name": "Zoología", "id": 55377}], "successors": [{"name": "Culicidae", "id": 861014}, {"name": "Reduviidae", "id": 1108440}]}
+{"name": "Vectores_biológicos", "id": 802875, "predecessors": [{"name": "Términos_de_ecología", "id": 1800449}, {"name": "Zoología", "id": 55377}], "successors": [{"name": "Culicidae", "id": 861014}, {"name": "Reduviidae", "id": 1108440}]}

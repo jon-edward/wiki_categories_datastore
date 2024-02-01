@@ -1,1 +1,1 @@
-{"name": "Novelas_de_terror", "id": 517385, "predecessors": [{"name": "Literatura_de_terror", "id": 77827}, {"name": "Novelas", "id": 350469}], "successors": [{"name": "Novelas_góticas", "id": 804057}]}
+{"name": "Novelas_de_terror", "id": 517385, "predecessors": [{"name": "Literatura_de_terror", "id": 77827}, {"name": "Novelas", "id": 350469}, {"name": "Ficción_especulativa", "id": 5392481}], "successors": [{"name": "Novelas_góticas", "id": 804057}, {"name": "Novelas_de_vampiros", "id": 3305241}, {"name": "Novelas_de_terror_de_Estados_Unidos", "id": 8546585}]}

@@ -1,1 +1,1 @@
-{"name": "Tarjetas_inteligentes", "id": 3650501, "predecessors": [{"name": "Seguridad_informática", "id": 105215}, {"name": "Sistemas_de_autentificación", "id": 3149765}], "successors": []}
+{"name": "Tarjetas_inteligentes", "id": 3650501, "predecessors": [{"name": "Hardware", "id": 52372}, {"name": "Seguridad_informática", "id": 105215}, {"name": "Sistemas_de_autentificación", "id": 3149765}], "successors": []}

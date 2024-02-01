@@ -1,1 +1,1 @@
-{"name": "Enfermedades_pediátricas", "id": 1081274, "predecessors": [{"name": "Pediatría", "id": 444547}], "successors": [{"name": "Errores_congénitos_del_metabolismo", "id": 3071629}]}
+{"name": "Enfermedades_pediátricas", "id": 1081274, "predecessors": [{"name": "Enfermedades", "id": 50842}, {"name": "Pediatría", "id": 444547}], "successors": [{"name": "Errores_congénitos_del_metabolismo", "id": 3071629}]}

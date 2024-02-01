@@ -1,1 +1,1 @@
-{"name": "Fallecidos_en_Leeds", "id": 10335950, "predecessors": [{"name": "Fallecidos_en_Yorkshire_y_Humber", "id": 10210848}, {"name": "Leeds", "id": 2248906}, {"name": "Británicos", "id": 116575}], "successors": []}
+{"name": "Fallecidos_en_Leeds", "id": 10335950, "predecessors": [{"name": "Leeds", "id": 2248906}, {"name": "Británicos", "id": 116575}, {"name": "NUTS", "id": 337393}], "successors": []}

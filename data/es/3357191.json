@@ -1,1 +1,1 @@
-{"name": "Ciclistas_en_los_Juegos_Olímpicos_de_Atenas_1896", "id": 3357191, "predecessors": [{"name": "Competiciones_deportivas_mundiales_celebradas_en_Grecia", "id": 8256175}, {"name": "Ciclismo_en_los_Juegos_Olímpicos", "id": 157932}, {"name": "Ocupaciones_del_deporte", "id": 5070947}], "successors": []}
+{"name": "Ciclistas_en_los_Juegos_Olímpicos_de_Atenas_1896", "id": 3357191, "predecessors": [{"name": "Juegos_Olímpicos", "id": 61083}, {"name": "Eventos", "id": 967311}, {"name": "Ciclismo", "id": 52744}], "successors": []}

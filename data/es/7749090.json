@@ -1,1 +1,1 @@
-{"name": "Diarios_personales", "id": 7749090, "predecessors": [{"name": "Subgéneros_narrativos", "id": 186119}], "successors": [{"name": "Diaristas", "id": 1980638}, {"name": "Blogs", "id": 2605322}]}
+{"name": "Diarios_personales", "id": 7749090, "predecessors": [{"name": "Autobiografías", "id": 1337046}, {"name": "Libros_por_tipo", "id": 5280211}, {"name": "Memorias", "id": 4997137}, {"name": "Subgéneros_narrativos", "id": 186119}], "successors": [{"name": "Diaristas", "id": 1980638}, {"name": "Blogs", "id": 2605322}]}

@@ -1,1 +1,1 @@
-{"name": "Insectos_de_Canadá", "id": 6960883, "predecessors": [{"name": "Fauna_de_Canadá", "id": 6915724}, {"name": "Insectos_de_América_del_Norte", "id": 4590544}, {"name": "Biodiversidad", "id": 1472874}], "successors": [{"name": "Lepidópteros_de_Canadá", "id": 6984343}]}
+{"name": "Insectos_de_Canadá", "id": 6960883, "predecessors": [{"name": "Fauna_de_Canadá", "id": 6915724}, {"name": "Insecta", "id": 601162}, {"name": "Insectos_de_América_del_Norte", "id": 4590544}], "successors": [{"name": "Lepidópteros_de_Canadá", "id": 6984343}]}

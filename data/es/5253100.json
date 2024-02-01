@@ -1,1 +1,1 @@
-{"name": "Pintores_de_escenas_mitológicas", "id": 5253100, "predecessors": [{"name": "Pintura_mitológica", "id": 2576878}, {"name": "Pintura", "id": 50602}, {"name": "Artistas", "id": 459774}], "successors": []}
+{"name": "Pintores_de_escenas_mitológicas", "id": 5253100, "predecessors": [{"name": "Pintura_mitológica", "id": 2576878}, {"name": "Artistas_gráficos", "id": 5307264}], "successors": [{"name": "Pintores_de_la_Antigua_Grecia_de_escenas_mitológicas", "id": 5309603}]}

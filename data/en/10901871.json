@@ -1,1 +1,1 @@
-{"name": "Equipment_of_the_United_States_Navy", "id": 10901871, "predecessors": [{"name": "Military_equipment", "id": 771670}], "successors": []}
+{"name": "Equipment_of_the_United_States_Navy", "id": 10901871, "predecessors": [{"name": "United_States_Navy", "id": 747847}, {"name": "Military_equipment", "id": 771670}], "successors": [{"name": "Weapons_and_ammunition_installations_of_the_United_States_Navy", "id": 62879880}]}

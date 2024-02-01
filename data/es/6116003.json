@@ -1,1 +1,1 @@
-{"name": "Agricultores_de_Chile", "id": 6116003, "predecessors": [{"name": "Ocupaciones", "id": 77994}, {"name": "Agricultores", "id": 6112166}, {"name": "Economía_de_América", "id": 51672}], "successors": [{"name": "Ingenieros_forestales_de_Chile", "id": 5139949}]}
+{"name": "Agricultores_de_Chile", "id": 6116003, "predecessors": [{"name": "Agricultores", "id": 6112166}, {"name": "Gentilicios", "id": 70166}, {"name": "Economía", "id": 50645}], "successors": []}

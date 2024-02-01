@@ -1,1 +1,1 @@
-{"name": "Campeonatos_de_fútbol_cancelados", "id": 5542909, "predecessors": [{"name": "Eventos_deportivos_cancelados", "id": 9768644}, {"name": "Deporte", "id": 50825}], "successors": []}
+{"name": "Campeonatos_de_fútbol_cancelados", "id": 5542909, "predecessors": [{"name": "Fútbol", "id": 49834}, {"name": "Eventos", "id": 967311}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Demonios_ficticios", "id": 6503821, "predecessors": [{"name": "Demonios", "id": 1551182}, {"name": "Personajes_ficticios", "id": 1870159}], "successors": [{"name": "Hellboy", "id": 1790792}, {"name": "Demonios_de_DC_Comics", "id": 8202519}, {"name": "Demonios_de_Marvel_Comics", "id": 8791525}]}
+{"name": "Demonios_ficticios", "id": 6503821, "predecessors": [{"name": "Demonios", "id": 1551182}], "successors": [{"name": "Demonios_de_DC_Comics", "id": 8202519}, {"name": "Demonios_de_Marvel_Comics", "id": 8791525}]}

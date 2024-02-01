@@ -1,1 +1,1 @@
-{"name": "Actrices_de_cine_de_Canadá", "id": 8189639, "predecessors": [{"name": "Actores_de_cine_de_Canadá", "id": 1075845}, {"name": "Actrices_de_Canadá", "id": 7376207}, {"name": "Arte", "id": 51311}], "successors": [{"name": "Actrices_de_cine_mudo_de_Canadá", "id": 10345290}]}
+{"name": "Actrices_de_cine_de_Canadá", "id": 8189639, "predecessors": [{"name": "Actores_de_cine_de_Canadá", "id": 1075845}, {"name": "Actrices_de_Canadá", "id": 7376207}, {"name": "Actores_de_cine", "id": 397320}], "successors": [{"name": "Actrices_de_cine_mudo_de_Canadá", "id": 10345290}]}

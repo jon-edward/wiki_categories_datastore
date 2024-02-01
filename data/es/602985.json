@@ -1,1 +1,1 @@
-{"name": "Pilotos_de_Suzuki", "id": 602985, "predecessors": [{"name": "Suzuki", "id": 4584665}, {"name": "Motociclismo", "id": 60965}, {"name": "Automovilismo", "id": 67497}], "successors": []}
+{"name": "Pilotos_de_Suzuki", "id": 602985, "predecessors": [{"name": "Motociclismo", "id": 60965}, {"name": "Automovilismo", "id": 67497}, {"name": "Fabricantes_de_vehículos", "id": 2125679}], "successors": []}

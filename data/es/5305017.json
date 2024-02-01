@@ -1,1 +1,1 @@
-{"name": "Productores_de_cine_de_Perú", "id": 5305017, "predecessors": [{"name": "Cine_de_Perú", "id": 610174}, {"name": "Arte", "id": 51311}, {"name": "Empresarios_de_Perú", "id": 113503}], "successors": []}
+{"name": "Productores_de_cine_de_Perú", "id": 5305017, "predecessors": [{"name": "Cine_de_Perú", "id": 610174}, {"name": "Productores_de_cine", "id": 194470}, {"name": "Empresarios_de_Perú", "id": 113503}], "successors": []}

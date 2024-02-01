@@ -1,1 +1,1 @@
-{"name": "Libros_de_biología", "id": 1468769, "predecessors": [{"name": "Historia_de_la_biología", "id": 964621}, {"name": "Biología", "id": 49848}], "successors": [{"name": "Libros_sobre_evolución", "id": 5448959}]}
+{"name": "Libros_de_biología", "id": 1468769, "predecessors": [{"name": "Historia_de_la_biología", "id": 964621}, {"name": "Libros_de_ciencia", "id": 1188415}], "successors": [{"name": "Libros_de_botánica", "id": 3138982}]}

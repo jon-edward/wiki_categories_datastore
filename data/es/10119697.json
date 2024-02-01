@@ -1,1 +1,1 @@
-{"name": "Desastres_en_2022", "id": 10119697, "predecessors": [{"name": "Años", "id": 407751}, {"name": "Desastres", "id": 166962}, {"name": "Siglo_XXI", "id": 63867}], "successors": []}
+{"name": "Desastres_en_2022", "id": 10119697, "predecessors": [{"name": "Año", "id": 6521971}, {"name": "Desastres", "id": 166962}], "successors": [{"name": "Desastres_naturales_en_2022", "id": 10123964}, {"name": "Atentados_terroristas_en_2022", "id": 10141815}, {"name": "Accidentes_e_incidentes_aéreos_de_2022", "id": 10154422}]}

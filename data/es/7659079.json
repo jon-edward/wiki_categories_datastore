@@ -1,1 +1,1 @@
-{"name": "Marcas_de_cerveza", "id": 7659079, "predecessors": [{"name": "Marcas_de_bebidas_alcohólicas", "id": 8370762}, {"name": "Bebidas_fermentadas", "id": 437685}, {"name": "Empresas", "id": 62409}], "successors": [{"name": "Marcas_de_AB_InBev", "id": 6979371}]}
+{"name": "Marcas_de_cerveza", "id": 7659079, "predecessors": [{"name": "Marcas_de_bebidas_alcohólicas", "id": 8370762}, {"name": "Bebidas_fermentadas", "id": 437685}, {"name": "Empresas", "id": 62409}], "successors": []}

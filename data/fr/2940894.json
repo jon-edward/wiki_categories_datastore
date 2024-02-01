@@ -1,1 +1,0 @@
-{"name": "Type_de_nombres", "id": 2940894, "predecessors": [{"name": "Nombre", "id": 110719}], "successors": [{"name": "Nombre_transcendant", "id": 1428087}, {"name": "Suite_d'entiers", "id": 264755}, {"name": "Zéro", "id": 1213789}, {"name": "Entier_naturel", "id": 15054810}]}

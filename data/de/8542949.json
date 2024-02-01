@@ -1,1 +1,1 @@
-{"name": "Modellfahrzeug", "id": 8542949, "predecessors": [{"name": "Modellbau", "id": 301388}, {"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Modelleisenbahn", "id": 538370}, {"name": "Modellflugzeug", "id": 1233226}, {"name": "Schiffsmodell", "id": 4289809}]}
+{"name": "Modellfahrzeug", "id": 8542949, "predecessors": [{"name": "Modellbau", "id": 301388}, {"name": "Technik", "id": 242544}], "successors": [{"name": "Modelleisenbahn", "id": 538370}, {"name": "Modellflugzeug", "id": 1233226}, {"name": "Schiffsmodell", "id": 4289809}]}

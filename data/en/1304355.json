@@ -1,1 +1,1 @@
-{"name": "Samurai_films", "id": 1304355, "predecessors": [{"name": "Martial_arts_films", "id": 1208322}, {"name": "Genres", "id": 1403800}], "successors": [{"name": "Zatoichi_films", "id": 25859614}]}
+{"name": "Samurai_films", "id": 1304355, "predecessors": [{"name": "Martial_arts_films", "id": 1208322}, {"name": "Samurai", "id": 2565034}], "successors": [{"name": "Zatoichi_films", "id": 25859614}]}

@@ -1,1 +1,1 @@
-{"name": "Herederos_al_trono", "id": 3296887, "predecessors": [{"name": "Apellidos_por_familias", "id": 771903}], "successors": [{"name": "Príncipes_de_Asturias", "id": 276472}]}
+{"name": "Herederos_al_trono", "id": 3296887, "predecessors": [{"name": "Apellidos_por_familias", "id": 771903}, {"name": "Monarquía", "id": 252111}], "successors": [{"name": "Príncipes_de_Asturias", "id": 276472}]}

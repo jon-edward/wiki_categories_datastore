@@ -1,1 +1,1 @@
-{"name": "Waterpolo_femenino", "id": 3126240, "predecessors": [{"name": "Deporte", "id": 50825}, {"name": "Deporte_femenino", "id": 692554}], "successors": [{"name": "Selecciones_femeninas_de_waterpolo", "id": 8154347}]}
+{"name": "Waterpolo_femenino", "id": 3126240, "predecessors": [{"name": "Deportes_de_pelota", "id": 187024}], "successors": [{"name": "Selecciones_femeninas_de_waterpolo", "id": 8154347}]}

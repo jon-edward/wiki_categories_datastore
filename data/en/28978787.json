@@ -1,1 +1,1 @@
-{"name": "Firearm_training", "id": 28978787, "predecessors": [{"name": "Law_enforcement_techniques", "id": 1307032}, {"name": "Training", "id": 4189120}], "successors": []}
+{"name": "Firearm_training", "id": 28978787, "predecessors": [{"name": "Firearms", "id": 739385}, {"name": "Law_enforcement_techniques", "id": 1307032}, {"name": "Training", "id": 4189120}], "successors": []}

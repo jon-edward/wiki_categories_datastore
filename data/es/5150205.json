@@ -1,1 +1,1 @@
-{"name": "Supervivientes_del_Titanic", "id": 5150205, "predecessors": [{"name": "Pasajeros_del_RMS_Titanic", "id": 2492160}], "successors": []}
+{"name": "Supervivientes_del_Titanic", "id": 5150205, "predecessors": [{"name": "Pasajeros_del_RMS_Titanic", "id": 2492160}, {"name": "Terminología_naval", "id": 1904894}], "successors": []}

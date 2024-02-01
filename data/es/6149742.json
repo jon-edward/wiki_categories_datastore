@@ -1,1 +1,1 @@
-{"name": "Sacerdotes_ficticios", "id": 6149742, "predecessors": [{"name": "Sacerdotes", "id": 5056257}, {"name": "Ocupaciones", "id": 77994}], "successors": [{"name": "Sacerdotes_católicos_ficticios", "id": 2380648}]}
+{"name": "Sacerdotes_ficticios", "id": 6149742, "predecessors": [{"name": "Religiosos_ficticios", "id": 1870181}, {"name": "Sacerdotes", "id": 5056257}], "successors": [{"name": "Sacerdotes_católicos_ficticios", "id": 2380648}]}

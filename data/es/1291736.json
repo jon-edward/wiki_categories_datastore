@@ -1,1 +1,1 @@
-{"name": "Licores_de_Francia", "id": 1291736, "predecessors": [{"name": "Bebidas_alcohólicas_de_Francia", "id": 1773364}, {"name": "Gastronomía_de_Francia", "id": 152196}], "successors": []}
+{"name": "Licores_de_Francia", "id": 1291736, "predecessors": [{"name": "Gastronomía_de_Francia", "id": 152196}, {"name": "Licores", "id": 861115}, {"name": "Bebidas_alcohólicas", "id": 51293}], "successors": []}

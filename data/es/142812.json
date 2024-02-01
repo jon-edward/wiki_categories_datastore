@@ -1,1 +1,1 @@
-{"name": "Permacultura", "id": 142812, "predecessors": [{"name": "Agroecología", "id": 5054610}], "successors": [{"name": "Tecnología_adecuada", "id": 7719085}]}
+{"name": "Permacultura", "id": 142812, "predecessors": [{"name": "Agricultura_sustentable", "id": 4081357}, {"name": "Agroecología", "id": 5054610}], "successors": [{"name": "Tecnología_adecuada", "id": 7719085}]}

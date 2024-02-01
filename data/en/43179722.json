@@ -1,1 +1,1 @@
-{"name": "Marine_geologists", "id": 43179722, "predecessors": [{"name": "Marine_geology", "id": 4946349}, {"name": "Oceanographers", "id": 1249747}, {"name": "Geology", "id": 697077}], "successors": []}
+{"name": "Marine_geologists", "id": 43179722, "predecessors": [{"name": "Geologists", "id": 763224}, {"name": "Marine_geology", "id": 4946349}, {"name": "Oceanographers", "id": 1249747}], "successors": []}

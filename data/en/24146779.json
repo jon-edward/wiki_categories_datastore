@@ -1,1 +1,1 @@
-{"name": "U_Sports_ice_hockey", "id": 24146779, "predecessors": [{"name": "Amateur_ice_hockey", "id": 14976618}], "successors": [{"name": "U_Sports_women's_ice_hockey", "id": 25424621}, {"name": "U_Sports_women's_ice_hockey_teams", "id": 32847028}]}
+{"name": "U_Sports_ice_hockey", "id": 24146779, "predecessors": [{"name": "Amateur_ice_hockey", "id": 14976618}], "successors": [{"name": "U_Sports_women's_ice_hockey", "id": 25424621}, {"name": "U_Sports_women's_ice_hockey_teams", "id": 32847028}, {"name": "U_Sports_men's_ice_hockey_teams", "id": 32847067}]}

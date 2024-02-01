@@ -1,1 +1,1 @@
-{"name": "Zámecké_parky", "id": 971213, "predecessors": [{"name": "Parky", "id": 1385933}, {"name": "Prostory", "id": 117044}, {"name": "Budovy", "id": 44130}], "successors": [{"name": "Zámecké_parky_v_Česku", "id": 1260639}]}
+{"name": "Zámecké_parky", "id": 971213, "predecessors": [{"name": "Parky", "id": 1385933}, {"name": "Prostory", "id": 117044}, {"name": "Historické_stavby", "id": 44133}], "successors": [{"name": "Zámecké_parky_v_Česku", "id": 1260639}]}

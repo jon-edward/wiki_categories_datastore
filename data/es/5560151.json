@@ -1,1 +1,1 @@
-{"name": "Educadores_de_Ecuador", "id": 5560151, "predecessors": [{"name": "Educación_en_Ecuador", "id": 767329}, {"name": "Profesores_de_Ecuador", "id": 1652448}], "successors": [{"name": "Profesores_de_Ecuador", "id": 1652448}, {"name": "Pedagogos_de_Ecuador", "id": 5560152}]}
+{"name": "Educadores_de_Ecuador", "id": 5560151, "predecessors": [{"name": "Educación_en_Ecuador", "id": 767329}, {"name": "Profesores_de_Ecuador", "id": 1652448}, {"name": "Científicos_sociales", "id": 636571}], "successors": [{"name": "Profesores_de_Ecuador", "id": 1652448}]}

@@ -1,1 +1,1 @@
-{"name": "Vehículos_con_motor_de_combustión_interna", "id": 5808141, "predecessors": [{"name": "Motores_de_combustión_interna", "id": 324656}], "successors": []}
+{"name": "Vehículos_con_motor_de_combustión_interna", "id": 5808141, "predecessors": [{"name": "Motores_de_combustión_interna", "id": 324656}, {"name": "Vehículos", "id": 66642}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Hawaii_State_Route", "id": 4605092, "predecessors": [{"name": "State_Route", "id": 2078568}, {"name": "Verkehrswesen", "id": 2273788}], "successors": []}
+{"name": "Hawaii_State_Route", "id": 4605092, "predecessors": [{"name": "State_Route", "id": 2078568}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}

@@ -1,1 +1,0 @@
-{"name": "Cơ_sở_hạ_tầng_cung_cấp_nước", "id": 2458903, "predecessors": [{"name": "Cung_cấp_nước", "id": 1699446}, {"name": "Kết_cấu_hạ_tầng", "id": 564932}, {"name": "Con_người", "id": 18532}], "successors": [{"name": "Đập", "id": 806767}, {"name": "Xử_lý_nước", "id": 2430177}, {"name": "Hồ_chứa_nước", "id": 2458902}, {"name": "Tháp_nước", "id": 3716665}]}

@@ -1,1 +1,1 @@
-{"name": "Videojuegos_para_Linux", "id": 5834107, "predecessors": [{"name": "Software_para_Linux", "id": 1115149}], "successors": [{"name": "Videojuegos_para_la_plataforma_Java", "id": 8226239}, {"name": "Dota", "id": 8553912}]}
+{"name": "Videojuegos_para_Linux", "id": 5834107, "predecessors": [{"name": "Software_para_Linux", "id": 1115149}, {"name": "Videojuegos_para_PC", "id": 3554176}], "successors": [{"name": "Videojuegos_para_la_plataforma_Java", "id": 8226239}]}

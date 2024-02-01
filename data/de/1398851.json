@@ -1,1 +1,1 @@
-{"name": "Hyundai", "id": 1398851, "predecessors": [{"name": "Unternehmenswesen", "id": 8993194}, {"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Kia", "id": 1515022}, {"name": "Hyundai-Motor", "id": 5625292}, {"name": "Hyundai-Automobil", "id": 12093337}]}
+{"name": "Hyundai", "id": 1398851, "predecessors": [{"name": "Unternehmenswesen", "id": 8993194}, {"name": "Technik", "id": 242544}], "successors": [{"name": "Kia", "id": 1515022}, {"name": "Hyundai-Motor", "id": 5625292}, {"name": "Hyundai-Automobil", "id": 12093337}]}

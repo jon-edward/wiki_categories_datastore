@@ -1,1 +1,1 @@
-{"name": "Pilas_eléctricas", "id": 404117, "predecessors": [{"name": "Aparatos_eléctricos", "id": 5551805}, {"name": "Fuentes_de_energía", "id": 52768}, {"name": "Electroquímica", "id": 1550059}], "successors": []}
+{"name": "Pilas_eléctricas", "id": 404117, "predecessors": [{"name": "Almacenamiento_de_energía", "id": 400164}, {"name": "Aparatos_eléctricos", "id": 5551805}, {"name": "Componentes_activos", "id": 2580759}, {"name": "Energía_eléctrica", "id": 465413}, {"name": "Electroquímica", "id": 1550059}], "successors": []}

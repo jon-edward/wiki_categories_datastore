@@ -1,1 +1,1 @@
-{"name": "Ciclistas_de_Ucrania", "id": 197801, "predecessors": [{"name": "Ciclismo_(deporte)", "id": 9879253}, {"name": "Cultura_de_Ucrania", "id": 126614}], "successors": [{"name": "Ciclistas_de_pista_de_Ucrania", "id": 7722273}]}
+{"name": "Ciclistas_de_Ucrania", "id": 197801, "predecessors": [{"name": "Cultura_de_Ucrania", "id": 126614}, {"name": "Ciclismo", "id": 52744}], "successors": [{"name": "Ciclistas_de_pista_de_Ucrania", "id": 7722273}]}

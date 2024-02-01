@@ -1,1 +1,1 @@
-{"name": "Zvuk", "id": 236626, "predecessors": [{"name": "Talasi", "id": 161991}], "successors": [{"name": "Akustika", "id": 10737}, {"name": "Radio", "id": 58017}, {"name": "Elektroakustika", "id": 240622}]}
+{"name": "Zvuk", "id": 236626, "predecessors": [{"name": "Valovi", "id": 161991}], "successors": [{"name": "Akustika", "id": 10737}, {"name": "Radio", "id": 58017}, {"name": "Elektroakustika", "id": 240622}]}

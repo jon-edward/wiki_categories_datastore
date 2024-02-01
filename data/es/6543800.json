@@ -1,1 +1,1 @@
-{"name": "Letristas_de_Turquía", "id": 6543800, "predecessors": [{"name": "Artistas", "id": 459774}], "successors": [{"name": "Cantautores_de_Turquía", "id": 6543798}]}
+{"name": "Letristas_de_Turquía", "id": 6543800, "predecessors": [{"name": "Letristas", "id": 189031}, {"name": "Artistas", "id": 459774}], "successors": [{"name": "Cantautores_de_Turquía", "id": 6543798}]}

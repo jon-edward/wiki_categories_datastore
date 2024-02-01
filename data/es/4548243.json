@@ -1,1 +1,1 @@
-{"name": "Pilotos_acrobáticos", "id": 4548243, "predecessors": [{"name": "Ocupaciones_del_deporte", "id": 5070947}, {"name": "Acrobacias", "id": 2643525}, {"name": "Deportes_de_motor", "id": 255100}], "successors": []}
+{"name": "Pilotos_acrobáticos", "id": 4548243, "predecessors": [{"name": "Ocupaciones_aeronáuticas", "id": 5070937}, {"name": "Deportes_aeronáuticos", "id": 173940}, {"name": "Ocupaciones_del_transporte", "id": 5070934}], "successors": []}

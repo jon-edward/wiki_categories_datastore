@@ -1,1 +1,1 @@
-{"name": "Periódicos_en_italiano", "id": 4465435, "predecessors": [{"name": "Lenguas", "id": 51345}], "successors": [{"name": "Periódicos_de_Italia", "id": 277440}, {"name": "Periódicos_de_Suiza", "id": 1827882}]}
+{"name": "Periódicos_en_italiano", "id": 4465435, "predecessors": [{"name": "Lenguas", "id": 51345}, {"name": "Publicaciones", "id": 4503526}], "successors": [{"name": "Periódicos_de_Italia", "id": 277440}]}

@@ -1,0 +1,1 @@
+{"name": "Máquinas_térmicas", "id": 1690139, "predecessors": [{"name": "Máquinas", "id": 324649}, {"name": "Transferencia_de_calor", "id": 5166646}], "successors": [{"name": "Instrumentos_térmicos", "id": 166417}, {"name": "Motores_térmicos", "id": 1690148}, {"name": "Refrigeración", "id": 2803868}, {"name": "Turbomáquinas", "id": 5610984}]}

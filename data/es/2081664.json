@@ -1,1 +1,1 @@
-{"name": "Analgésicos_opioides", "id": 2081664, "predecessors": [{"name": "Analgésicos", "id": 446719}, {"name": "Opioides", "id": 212214}], "successors": []}
+{"name": "Analgésicos_opioides", "id": 2081664, "predecessors": [{"name": "Analgésicos", "id": 446719}, {"name": "Farmacología", "id": 55416}, {"name": "Opioides", "id": 212214}], "successors": []}

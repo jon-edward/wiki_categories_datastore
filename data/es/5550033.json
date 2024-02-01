@@ -1,1 +1,1 @@
-{"name": "Línea_Linares_Baeza-Almería", "id": 5550033, "predecessors": [{"name": "Ferrocarril_en_la_provincia_de_Jaén", "id": 5826414}, {"name": "Transporte_en_la_provincia_de_Almería", "id": 2258148}, {"name": "Ferrocarril_en_Andalucía", "id": 1008763}], "successors": []}
+{"name": "Línea_Linares_Baeza-Almería", "id": 5550033, "predecessors": [{"name": "Transporte_en_la_provincia_de_Almería", "id": 2258148}, {"name": "Ferrocarril_en_Andalucía", "id": 1008763}], "successors": []}

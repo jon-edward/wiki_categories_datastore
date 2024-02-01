@@ -1,1 +1,1 @@
-{"name": "Películas_sobre_clonación", "id": 3234228, "predecessors": [{"name": "Clonación_en_la_ficción", "id": 9428544}], "successors": [{"name": "Películas_de_Jurassic_Park", "id": 3177992}, {"name": "Blade_Runner", "id": 8751842}]}
+{"name": "Películas_sobre_clonación", "id": 3234228, "predecessors": [{"name": "Clonación_en_la_ficción", "id": 9428544}, {"name": "Películas_sobre_temas_médicos", "id": 4124265}, {"name": "Películas_sobre_ética", "id": 4124275}, {"name": "Películas_de_ciencia_ficción", "id": 101273}], "successors": [{"name": "Blade_Runner", "id": 8751842}]}

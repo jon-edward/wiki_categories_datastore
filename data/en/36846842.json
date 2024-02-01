@@ -1,1 +1,1 @@
-{"name": "Disney_television_specials", "id": 36846842, "predecessors": [{"name": "The_Walt_Disney_Company", "id": 38868360}], "successors": [{"name": "The_Muppets_television_specials", "id": 38086048}]}
+{"name": "Disney_television_specials", "id": 36846842, "predecessors": [{"name": "American_television_specials", "id": 17451116}, {"name": "The_Walt_Disney_Company", "id": 38868360}], "successors": [{"name": "The_Muppets_television_specials", "id": 38086048}]}

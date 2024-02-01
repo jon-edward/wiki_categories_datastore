@@ -1,1 +1,1 @@
-{"name": "Futbolistas_del_Wydad_Casablanca", "id": 5043660, "predecessors": [{"name": "Personas_de_Casablanca", "id": 3553297}, {"name": "Wydad_Casablanca", "id": 5563528}, {"name": "Ocupaciones_del_deporte", "id": 5070947}], "successors": []}
+{"name": "Futbolistas_del_Wydad_Casablanca", "id": 5043660, "predecessors": [{"name": "Personas_de_Casablanca", "id": 3553297}, {"name": "Deporte_en_Casablanca", "id": 3098231}, {"name": "Fútbol", "id": 49834}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Programas_educativos", "id": 5069113, "predecessors": [{"name": "Educación", "id": 50646}, {"name": "Investigación_y_evaluación_educativa", "id": 10558241}], "successors": [{"name": "Programas_de_televisión_educativos", "id": 312826}]}
+{"name": "Programas_educativos", "id": 5069113, "predecessors": [{"name": "Educación", "id": 50646}, {"name": "Investigación_y_evaluación_educativa", "id": 10558241}, {"name": "Programas_de_gobierno", "id": 6407920}], "successors": [{"name": "Programas_de_televisión_educativos", "id": 312826}]}

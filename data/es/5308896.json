@@ -1,1 +1,1 @@
-{"name": "Agresión", "id": 5308896, "predecessors": [{"name": "Comportamiento", "id": 744691}, {"name": "Emociones", "id": 177156}], "successors": [{"name": "Conflicto", "id": 5308905}]}
+{"name": "Agresión", "id": 5308896, "predecessors": [{"name": "Comportamiento", "id": 744691}, {"name": "Conceptos_de_ética", "id": 6124901}, {"name": "Emociones", "id": 177156}, {"name": "Problemas_de_comportamiento", "id": 8931532}, {"name": "Relaciones_biológicas_interespecíficas", "id": 257858}], "successors": [{"name": "Conflicto", "id": 5308905}]}

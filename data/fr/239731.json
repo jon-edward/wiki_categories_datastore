@@ -1,1 +1,0 @@
-{"name": "Hydrolase", "id": 239731, "predecessors": [{"name": "Enzyme", "id": 235868}], "successors": [{"name": "EC_3.1", "id": 342883}, {"name": "EC_3.4.21", "id": 331154}, {"name": "EC_3.4.23", "id": 342891}, {"name": "EC_3.4.22", "id": 1311463}, {"name": "EC_3.2.1", "id": 322340}, {"name": "EC_3.5.1", "id": 4237633}]}

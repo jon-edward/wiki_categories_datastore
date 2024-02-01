@@ -1,1 +1,1 @@
-{"name": "Procesamiento_de_señales_de_audio", "id": 2932395, "predecessors": [{"name": "Procesamiento_de_señales", "id": 2932402}], "successors": []}
+{"name": "Procesamiento_de_señales_de_audio", "id": 2932395, "predecessors": [{"name": "Audio", "id": 156840}, {"name": "Procesamiento_de_señales", "id": 2932402}], "successors": []}

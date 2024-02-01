@@ -1,1 +1,1 @@
-{"name": "Bangunan_dan_struktur_di_Seremban", "id": 1115128, "predecessors": [{"name": "Bangunan_dan_struktur_di_Negeri_Sembilan", "id": 850582}, {"name": "Daerah_di_Negeri_Sembilan", "id": 123798}], "successors": [{"name": "Masjid_di_Seremban", "id": 750193}]}
+{"name": "Bangunan_dan_struktur_di_Seremban", "id": 1115128, "predecessors": [{"name": "Seremban", "id": 1115135}, {"name": "Bangunan_dan_struktur_di_Negeri_Sembilan", "id": 850582}], "successors": [{"name": "Masjid_di_Seremban", "id": 750193}]}

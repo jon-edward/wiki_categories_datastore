@@ -1,1 +1,1 @@
-{"name": "Disciplinas_motociclísticas", "id": 1351008, "predecessors": [{"name": "Motociclismo", "id": 60965}, {"name": "Deportes_de_motor", "id": 255100}], "successors": []}
+{"name": "Disciplinas_motociclísticas", "id": 1351008, "predecessors": [{"name": "Motociclismo", "id": 60965}, {"name": "Comportamiento_humano", "id": 744693}], "successors": [{"name": "Competiciones_de_automovilismo_de_resistencia", "id": 9063311}, {"name": "Competiciones_de_rally_raid", "id": 2065512}]}

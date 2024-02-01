@@ -1,1 +1,0 @@
-{"name": "Météorologie_marine", "id": 868643, "predecessors": [{"name": "Eau", "id": 189766}, {"name": "Discipline_académique", "id": 3602878}], "successors": [{"name": "Vent", "id": 449411}, {"name": "Courant_marin", "id": 503435}, {"name": "Marée", "id": 660751}, {"name": "Zone_de_météorologie_marine", "id": 15564041}]}

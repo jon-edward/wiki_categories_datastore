@@ -1,1 +1,1 @@
-{"name": "Desinfectantes", "id": 289240, "predecessors": [{"name": "Higiene", "id": 75406}, {"name": "Compuestos_químicos", "id": 112512}], "successors": [{"name": "Fenoles", "id": 1190019}, {"name": "Ozono", "id": 5512418}]}
+{"name": "Desinfectantes", "id": 289240, "predecessors": [{"name": "Higiene", "id": 75406}, {"name": "Materiales", "id": 74562}], "successors": [{"name": "Fenoles", "id": 1190019}]}

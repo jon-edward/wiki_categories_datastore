@@ -1,1 +1,1 @@
-{"name": "Revistas_científicas_bimestrales", "id": 5065392, "predecessors": [{"name": "Revistas_científicas", "id": 73526}], "successors": []}
+{"name": "Revistas_científicas_bimestrales", "id": 5065392, "predecessors": [{"name": "Revistas_bimestrales", "id": 2910689}, {"name": "Revistas_científicas", "id": 73526}], "successors": []}

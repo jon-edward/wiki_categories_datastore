@@ -1,1 +1,1 @@
-{"name": "Hermanos_tenistas", "id": 4328993, "predecessors": [{"name": "Ocupaciones_del_deporte", "id": 5070947}], "successors": []}
+{"name": "Hermanos_tenistas", "id": 4328993, "predecessors": [{"name": "Hermanos_deportistas", "id": 4324533}, {"name": "Personalidad", "id": 4496858}], "successors": []}

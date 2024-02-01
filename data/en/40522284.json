@@ -1,1 +1,1 @@
-{"name": "Naval_intelligence", "id": 40522284, "predecessors": [{"name": "Military_intelligence", "id": 4759727}], "successors": []}
+{"name": "Naval_intelligence", "id": 40522284, "predecessors": [{"name": "Military_intelligence", "id": 4759727}, {"name": "Naval_warfare", "id": 1054971}], "successors": []}

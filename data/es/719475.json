@@ -1,1 +1,1 @@
-{"name": "Mutualidades", "id": 719475, "predecessors": [{"name": "Economía_social", "id": 276471}, {"name": "Seguros", "id": 1532771}], "successors": [{"name": "Cooperativas", "id": 519542}]}
+{"name": "Mutualidades", "id": 719475, "predecessors": [{"name": "Economía_social", "id": 276471}, {"name": "Instituciones", "id": 155836}, {"name": "Seguros", "id": 1532771}], "successors": [{"name": "Cooperativas", "id": 519542}]}

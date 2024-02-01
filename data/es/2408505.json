@@ -1,1 +1,1 @@
-{"name": "Libros_de_Suecia", "id": 2408505, "predecessors": [{"name": "Literatura_de_Suecia", "id": 2121739}, {"name": "Libros", "id": 158006}], "successors": [{"name": "Novelas_de_Suecia", "id": 4919877}]}
+{"name": "Libros_de_Suecia", "id": 2408505, "predecessors": [{"name": "Libros", "id": 158006}, {"name": "Arte_de_Suecia", "id": 3187458}], "successors": [{"name": "Novelas_de_Suecia", "id": 4919877}]}

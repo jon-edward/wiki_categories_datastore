@@ -1,1 +1,1 @@
-{"name": "Structural_analysis", "id": 11036106, "predecessors": [{"name": "Analysis", "id": 25448614}, {"name": "Earthquake_engineering", "id": 20416809}, {"name": "Numerical_analysis", "id": 697506}, {"name": "Structural_engineering", "id": 1600827}], "successors": []}
+{"name": "Structural_analysis", "id": 11036106, "predecessors": [{"name": "Analysis", "id": 25448614}, {"name": "Numerical_analysis", "id": 697506}, {"name": "Structural_engineering", "id": 1600827}], "successors": []}

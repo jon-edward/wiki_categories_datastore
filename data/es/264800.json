@@ -1,1 +1,1 @@
-{"name": "Humoristas_de_Venezuela", "id": 264800, "predecessors": [{"name": "Artistas", "id": 459774}, {"name": "Cultura_de_Venezuela", "id": 128872}, {"name": "Ocupaciones", "id": 77994}], "successors": []}
+{"name": "Humoristas_de_Venezuela", "id": 264800, "predecessors": [{"name": "Artistas", "id": 459774}, {"name": "Venezolanos", "id": 195272}, {"name": "Cultura_de_Venezuela", "id": 128872}], "successors": [{"name": "Caricaturistas_de_Venezuela", "id": 2306969}]}

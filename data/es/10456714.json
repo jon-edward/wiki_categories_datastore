@@ -1,1 +1,1 @@
-{"name": "Corredores_de_obstáculos", "id": 10456714, "predecessors": [{"name": "Vallistas", "id": 10455475}, {"name": "Atletismo", "id": 84106}, {"name": "Pruebas_atléticas", "id": 505890}], "successors": []}
+{"name": "Corredores_de_obstáculos", "id": 10456714, "predecessors": [{"name": "Vallistas", "id": 10455475}, {"name": "Carrera_a_pie", "id": 6427286}], "successors": []}

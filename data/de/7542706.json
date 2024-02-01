@@ -1,1 +1,1 @@
-{"name": "Güterzugunfall", "id": 7542706, "predecessors": [{"name": "Schienengüterverkehr", "id": 6500143}, {"name": "Verkehrswesen", "id": 2273788}, {"name": "Sicherheit_im_Bahnbetrieb", "id": 11894297}], "successors": []}
+{"name": "Güterzugunfall", "id": 7542706, "predecessors": [{"name": "Schienengüterverkehr", "id": 6500143}, {"name": "!Hauptkategorie", "id": 235489}, {"name": "Sicherheit_im_Bahnbetrieb", "id": 11894297}], "successors": []}

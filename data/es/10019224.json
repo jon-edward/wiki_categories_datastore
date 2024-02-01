@@ -1,1 +1,1 @@
-{"name": "Nacidos_en_Sogamoso", "id": 10019224, "predecessors": [{"name": "Nacidos_en_Boyacá", "id": 10281956}, {"name": "Sogamoso", "id": 2843049}, {"name": "Cartografía", "id": 51115}], "successors": []}
+{"name": "Nacidos_en_Sogamoso", "id": 10019224, "predecessors": [{"name": "Nacidos_en_Boyacá", "id": 10281956}, {"name": "Boyacá", "id": 1220281}, {"name": "Cartografía", "id": 51115}], "successors": []}

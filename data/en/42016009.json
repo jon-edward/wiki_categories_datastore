@@ -1,1 +1,1 @@
-{"name": "People_killed_in_Mossad_operations", "id": 42016009, "predecessors": [{"name": "People_killed_by_Israeli_security_forces", "id": 64643604}, {"name": "Targeted_killing_by_Israel", "id": 73777965}], "successors": []}
+{"name": "People_killed_in_Mossad_operations", "id": 42016009, "predecessors": [{"name": "Mossad_operations", "id": 40544922}, {"name": "People_killed_by_Israeli_security_forces", "id": 64643604}, {"name": "Targeted_killing_by_Israel", "id": 73777965}], "successors": []}

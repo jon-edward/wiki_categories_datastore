@@ -1,1 +1,1 @@
-{"name": "Libros_de_1900", "id": 308600, "predecessors": [{"name": "Libros_del_siglo_XX", "id": 308542}, {"name": "Libros", "id": 158006}, {"name": "Años", "id": 407751}], "successors": []}
+{"name": "Libros_de_1900", "id": 308600, "predecessors": [{"name": "Libros_del_siglo_XX", "id": 308542}, {"name": "Libros", "id": 158006}], "successors": [{"name": "Novelas_de_1900", "id": 3280434}]}

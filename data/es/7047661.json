@@ -1,1 +1,1 @@
-{"name": "Políticos_de_Colima", "id": 7047661, "predecessors": [{"name": "Mexicanos", "id": 168599}, {"name": "Colimenses", "id": 853434}], "successors": [{"name": "Miembros_del_PRI_de_Colima", "id": 7055520}, {"name": "Senadores_de_Colima", "id": 7803389}]}
+{"name": "Políticos_de_Colima", "id": 7047661, "predecessors": [{"name": "Colimenses", "id": 853434}, {"name": "Gentilicios", "id": 70166}], "successors": [{"name": "Miembros_del_PRI_de_Colima", "id": 7055520}, {"name": "Senadores_de_Colima", "id": 7803389}]}

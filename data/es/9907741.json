@@ -1,1 +1,1 @@
-{"name": "Edificios_convertidos_en_iglesias_católicas", "id": 9907741, "predecessors": [{"name": "Lugares_religiosos_convertidos_a_otra_religión", "id": 4464541}, {"name": "Confesiones_cristianas", "id": 169934}], "successors": [{"name": "Mezquita-catedral_de_Córdoba", "id": 5889060}]}
+{"name": "Edificios_convertidos_en_iglesias_católicas", "id": 9907741, "predecessors": [{"name": "Conversión_religiosa", "id": 4160860}, {"name": "Confesiones_cristianas", "id": 169934}], "successors": [{"name": "Mezquita-catedral_de_Córdoba", "id": 5889060}]}

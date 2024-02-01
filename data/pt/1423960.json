@@ -1,1 +1,0 @@
-{"name": "HTTP", "id": 1423960, "predecessors": [{"name": "Protocolos_de_camada_de_aplicação", "id": 3161302}], "successors": [{"name": "Servidores_web", "id": 2808260}, {"name": "Códigos_de_estado_do_Hypertext_Transfer_Protocol", "id": 5163671}]}

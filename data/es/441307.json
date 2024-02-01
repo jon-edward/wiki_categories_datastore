@@ -1,1 +1,1 @@
-{"name": "Canonistas", "id": 441307, "predecessors": [{"name": "Derecho_canónico", "id": 166402}], "successors": [{"name": "Profesores_de_Derecho_Canónico", "id": 6892262}]}
+{"name": "Canonistas", "id": 441307, "predecessors": [{"name": "Derecho_canónico", "id": 166402}, {"name": "Jurisprudencia", "id": 6250005}], "successors": [{"name": "Profesores_de_Derecho_Canónico", "id": 6892262}]}

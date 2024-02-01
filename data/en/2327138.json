@@ -1,1 +1,1 @@
-{"name": "Professional_wrestling_executives", "id": 2327138, "predecessors": [{"name": "Mock_combat", "id": 10029789}], "successors": [{"name": "WWE_executives", "id": 48856409}, {"name": "Impact_Wrestling_executives", "id": 51328587}]}
+{"name": "Professional_wrestling_executives", "id": 2327138, "predecessors": [{"name": "Mock_combat", "id": 10029789}], "successors": [{"name": "Professional_wrestling_promoters", "id": 41408972}, {"name": "WWE_executives", "id": 48856409}, {"name": "Impact_Wrestling_executives", "id": 51328587}]}

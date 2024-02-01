@@ -1,1 +1,1 @@
-{"name": "Business_cycle", "id": 6123171, "predecessors": [{"name": "Macroeconomics", "id": 1005920}, {"name": "Periodic_phenomena", "id": 6993687}], "successors": [{"name": "Economic_growth", "id": 4849135}, {"name": "Economic_booms", "id": 7785901}, {"name": "Economic_crises", "id": 24327200}]}
+{"name": "Business_cycle", "id": 6123171, "predecessors": [{"name": "Macroeconomics", "id": 1005920}, {"name": "Periodic_phenomena", "id": 6993687}], "successors": [{"name": "Economic_growth", "id": 4849135}, {"name": "Economic_booms", "id": 7785901}]}

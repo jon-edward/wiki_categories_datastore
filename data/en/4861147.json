@@ -1,1 +1,1 @@
-{"name": "Econometric_models", "id": 4861147, "predecessors": [{"name": "Economics_models", "id": 1650642}, {"name": "Statistical_models", "id": 17193471}], "successors": [{"name": "Time_series_models", "id": 21671816}]}
+{"name": "Econometric_models", "id": 4861147, "predecessors": [{"name": "Econometric_modeling", "id": 51706300}, {"name": "Economics_models", "id": 1650642}], "successors": [{"name": "Time_series_models", "id": 21671816}]}

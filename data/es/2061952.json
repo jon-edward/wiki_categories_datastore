@@ -1,1 +1,1 @@
-{"name": "Nootrópicos", "id": 2061952, "predecessors": [{"name": "Fármacos_del_sistema_nervioso", "id": 2081543}], "successors": [{"name": "Ampakinas", "id": 5213161}, {"name": "Racetamos", "id": 8766000}]}
+{"name": "Nootrópicos", "id": 2061952, "predecessors": [{"name": "Farmacología", "id": 55416}, {"name": "Fármacos_del_sistema_nervioso", "id": 2081543}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Suizid", "id": 2748391, "predecessors": [{"name": "Klinische_Psychologie", "id": 676375}, {"name": "Psychiatrie", "id": 283837}, {"name": "Tod", "id": 730647}], "successors": [{"name": "Pilotensuizid", "id": 8808449}, {"name": "Suizid_im_Film", "id": 9616194}]}
+{"name": "Suizid", "id": 2748391, "predecessors": [{"name": "Tod", "id": 730647}], "successors": [{"name": "Pilotensuizid", "id": 8808449}, {"name": "Suizid_im_Film", "id": 9616194}]}

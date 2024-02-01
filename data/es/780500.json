@@ -1,1 +1,1 @@
-{"name": "Barranquilleros", "id": 780500, "predecessors": [{"name": "Nacionalidad", "id": 1699794}, {"name": "Entidades_subnacionales", "id": 365760}, {"name": "Ciudades", "id": 8905315}], "successors": [{"name": "Nacidos_en_Barranquilla", "id": 9359693}]}
+{"name": "Barranquilleros", "id": 780500, "predecessors": [{"name": "Geografía_política", "id": 1708360}, {"name": "Cartografía", "id": 51115}, {"name": "Ciudades", "id": 8905315}], "successors": [{"name": "Nacidos_en_Barranquilla", "id": 9359693}]}

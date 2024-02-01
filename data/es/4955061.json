@@ -1,1 +1,1 @@
-{"name": "Profesores_de_la_Universidad_de_Múnich", "id": 4955061, "predecessors": [{"name": "Profesores_de_universidades_de_Alemania", "id": 6085157}, {"name": "Cultura_de_Múnich", "id": 4981598}], "successors": []}
+{"name": "Profesores_de_la_Universidad_de_Múnich", "id": 4955061, "predecessors": [{"name": "Cultura_de_Múnich", "id": 4981598}, {"name": "Profesores_de_Alemania", "id": 1583288}], "successors": []}

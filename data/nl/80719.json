@@ -1,1 +1,0 @@
-{"name": "Wind", "id": 80719, "predecessors": [{"name": "Luchtdruk", "id": 779021}, {"name": "Meteorologie", "id": 63469}], "successors": [{"name": "Orkaan", "id": 247632}, {"name": "Windenergie", "id": 323598}, {"name": "Molen", "id": 67284}, {"name": "Zeilschip", "id": 136925}]}

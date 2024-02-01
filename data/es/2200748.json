@@ -1,1 +1,1 @@
-{"name": "Parques_en_miniatura", "id": 2200748, "predecessors": [{"name": "Atracciones_turísticas", "id": 1688782}, {"name": "Espacios_arquitectónicos", "id": 2101991}, {"name": "Modelismo", "id": 80259}], "successors": []}
+{"name": "Parques_en_miniatura", "id": 2200748, "predecessors": [{"name": "Atracciones_turísticas", "id": 1688782}, {"name": "Modelismo", "id": 80259}, {"name": "Entretenimiento", "id": 296195}, {"name": "Parques", "id": 374993}], "successors": []}

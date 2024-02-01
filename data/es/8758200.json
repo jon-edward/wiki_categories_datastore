@@ -1,1 +1,1 @@
-{"name": "Cazadores_de_Zombis", "id": 8758200, "predecessors": [{"name": "Cazamonstruos", "id": 9173750}, {"name": "Ocupaciones", "id": 77994}], "successors": [{"name": "Personajes_de_Resident_Evil", "id": 1188997}, {"name": "Personajes_de_The_Walking_Dead", "id": 6524836}, {"name": "Personajes_de_Fear_the_Walking_Dead", "id": 9637823}]}
+{"name": "Cazadores_de_Zombis", "id": 8758200, "predecessors": [{"name": "Ocupaciones", "id": 77994}], "successors": [{"name": "Personajes_de_Resident_Evil", "id": 1188997}, {"name": "Personajes_de_The_Walking_Dead", "id": 6524836}]}

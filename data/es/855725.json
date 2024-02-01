@@ -1,1 +1,1 @@
-{"name": "Negociación", "id": 855725, "predecessors": [{"name": "Teoría_de_la_decisión", "id": 1831939}, {"name": "Toma_de_decisiones", "id": 8570718}], "successors": [{"name": "Teoría_de_juegos", "id": 74885}, {"name": "Relaciones_laborales", "id": 855607}, {"name": "Procesos_de_negociación", "id": 5812909}]}
+{"name": "Negociación", "id": 855725, "predecessors": [{"name": "Resolución_de_conflictos", "id": 5914505}, {"name": "Teoría_de_la_decisión", "id": 1831939}], "successors": [{"name": "Teoría_de_juegos", "id": 74885}, {"name": "Relaciones_laborales", "id": 855607}]}

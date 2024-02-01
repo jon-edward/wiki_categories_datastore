@@ -1,1 +1,1 @@
-{"name": "Vigilantism", "id": 43123329, "predecessors": [{"name": "Crime", "id": 1183180}, {"name": "Crowd_psychology", "id": 12717273}, {"name": "Law_enforcement", "id": 718211}, {"name": "Violence", "id": 692173}], "successors": [{"name": "Internet_vigilantism", "id": 5672739}]}
+{"name": "Vigilantism", "id": 43123329, "predecessors": [{"name": "Crowd_psychology", "id": 12717273}, {"name": "Law_enforcement", "id": 718211}, {"name": "Violence", "id": 692173}], "successors": [{"name": "Internet_vigilantism", "id": 5672739}]}

@@ -1,1 +1,1 @@
-{"name": "Puertos_de_India", "id": 596486, "predecessors": [{"name": "Geografía_litoral", "id": 4558001}, {"name": "Geografía_de_India", "id": 121736}, {"name": "Cultura_de_Asia", "id": 142392}, {"name": "Asia", "id": 64610}], "successors": [{"name": "Bombay", "id": 2745093}]}
+{"name": "Puertos_de_India", "id": 596486, "predecessors": [{"name": "Geografía_de_India", "id": 121736}, {"name": "Infraestructuras_de_transporte", "id": 318244}, {"name": "Cultura_de_Asia", "id": 142392}, {"name": "Agua", "id": 79856}], "successors": [{"name": "Bombay", "id": 2745093}]}

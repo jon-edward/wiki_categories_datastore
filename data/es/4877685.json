@@ -1,1 +1,1 @@
-{"name": "Torneos_de_tenis_de_Italia", "id": 4877685, "predecessors": [{"name": "Deporte_en_Italia", "id": 4168897}, {"name": "Cartografía", "id": 51115}], "successors": [{"name": "ATP_Challenger_Tour_en_Italia", "id": 6380711}]}
+{"name": "Torneos_de_tenis_de_Italia", "id": 4877685, "predecessors": [{"name": "Tenis", "id": 91401}, {"name": "Deporte_en_Italia", "id": 4168897}], "successors": [{"name": "ATP_Challenger_Tour_en_Italia", "id": 6380711}, {"name": "Ganadores_del_Trofeo_Bonfiglio", "id": 8539188}]}

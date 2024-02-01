@@ -1,1 +1,0 @@
-{"name": "MOSFET", "id": 19485778, "predecessors": [{"name": "Cảm_biến", "id": 3274490}, {"name": "Mạch_tích_hợp", "id": 3170435}, {"name": "Transistor", "id": 19589407}, {"name": "Điện_tử_kỹ_thuật_số", "id": 19138721}, {"name": "Các_công_tắc", "id": 3225846}], "successors": [{"name": "Bộ_nhớ_máy_tính", "id": 163215}, {"name": "Cảm_biến_ảnh", "id": 2449131}]}

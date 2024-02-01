@@ -1,1 +1,1 @@
-{"name": "Videojuegos_para_Android", "id": 5106335, "predecessors": [{"name": "Android", "id": 3590018}, {"name": "Software_para_Android", "id": 5784029}], "successors": [{"name": "Videojuegos_de_Gameloft", "id": 8005058}]}
+{"name": "Videojuegos_para_Android", "id": 5106335, "predecessors": [{"name": "Android", "id": 3590018}, {"name": "Software_para_Android", "id": 5784029}, {"name": "Videojuegos_para_teléfonos_móviles", "id": 5099388}, {"name": "Videojuegos", "id": 61224}], "successors": [{"name": "Videojuegos_de_Gameloft", "id": 8005058}]}

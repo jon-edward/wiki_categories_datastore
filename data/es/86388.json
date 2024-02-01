@@ -1,1 +1,1 @@
-{"name": "Bioquímicos", "id": 86388, "predecessors": [{"name": "Bioquímica", "id": 51270}, {"name": "Ciencia", "id": 1733769}, {"name": "Biólogos", "id": 60037}, {"name": "Ocupaciones", "id": 77994}], "successors": [{"name": "Hematólogos", "id": 1718619}, {"name": "Cristalógrafos", "id": 5509293}]}
+{"name": "Bioquímicos", "id": 86388, "predecessors": [{"name": "Ciencia", "id": 1733769}, {"name": "Ocupaciones", "id": 77994}], "successors": [{"name": "Hematólogos", "id": 1718619}, {"name": "Cristalógrafos", "id": 5509293}]}

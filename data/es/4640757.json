@@ -1,1 +1,1 @@
-{"name": "Minerales_óxidos", "id": 4640757, "predecessors": [{"name": "Minerales_por_clase_(Nickel-Strunz)", "id": 3234050}, {"name": "Óxidos", "id": 67694}], "successors": [{"name": "Cuarzo", "id": 3541926}, {"name": "Minerales_hidróxidos", "id": 7958407}]}
+{"name": "Minerales_óxidos", "id": 4640757, "predecessors": [{"name": "Óxidos", "id": 67694}, {"name": "Minerales", "id": 1132313}], "successors": [{"name": "Cuarzo", "id": 3541926}, {"name": "Minerales_hidróxidos", "id": 7958407}]}

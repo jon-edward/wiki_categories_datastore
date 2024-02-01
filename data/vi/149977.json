@@ -1,1 +1,0 @@
-{"name": "CPU", "id": 149977, "predecessors": [{"name": "Kiến_trúc_máy_tính", "id": 45617}, {"name": "Phần_cứng", "id": 17721}], "successors": [{"name": "Vi_điều_khiển", "id": 45609}, {"name": "Vi_xử_lý", "id": 45611}, {"name": "CPU_Intel", "id": 194933}]}

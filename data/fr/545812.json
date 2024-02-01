@@ -1,1 +1,0 @@
-{"name": "Vision_artificielle", "id": 545812, "predecessors": [{"name": "Intelligence_artificielle", "id": 174306}, {"name": "Optique", "id": 87130}, {"name": "Traitement_d'image", "id": 618655}, {"name": "Vision", "id": 545742}], "successors": [{"name": "Reconnaissance_optique_de_caractères", "id": 3279257}, {"name": "Réalité_augmentée", "id": 6202800}]}

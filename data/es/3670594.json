@@ -1,1 +1,1 @@
-{"name": "Revistas_de_ciencias_de_la_computación", "id": 3670594, "predecessors": [{"name": "Revistas_de_informática", "id": 2723790}, {"name": "Revistas_científicas", "id": 73526}], "successors": [{"name": "Publicaciones_de_la_ACM", "id": 3671074}]}
+{"name": "Revistas_de_ciencias_de_la_computación", "id": 3670594, "predecessors": [{"name": "Revistas_de_informática", "id": 2723790}, {"name": "Informática_teórica", "id": 375078}, {"name": "Revistas_científicas", "id": 73526}], "successors": [{"name": "Publicaciones_de_la_ACM", "id": 3671074}]}

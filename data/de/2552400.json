@@ -1,1 +1,1 @@
-{"name": "Grenzkonflikt", "id": 2552400, "predecessors": [{"name": "Grenze", "id": 372868}, {"name": "Politischer_Konflikt", "id": 1415539}], "successors": [{"name": "Grenzkrieg", "id": 2188461}]}
+{"name": "Grenzkonflikt", "id": 2552400, "predecessors": [{"name": "Grenze", "id": 372868}, {"name": "Politischer_Konflikt", "id": 1415539}], "successors": [{"name": "Umstrittenes_Territorium", "id": 706613}, {"name": "Grenzkrieg", "id": 2188461}]}

@@ -1,1 +1,1 @@
-{"name": "Insectos_en_estado_vulnerable", "id": 4256027, "predecessors": [{"name": "Artrópodos_en_estado_vulnerable", "id": 4257146}], "successors": []}
+{"name": "Insectos_en_estado_vulnerable", "id": 4256027, "predecessors": [{"name": "Artrópodos_en_estado_vulnerable", "id": 4257146}, {"name": "Insecta", "id": 601162}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Pandemik_COVID-19_di_Asia", "id": 1004564, "predecessors": [{"name": "Kebudayaan_Asia", "id": 83812}], "successors": [{"name": "Pandemik_COVID-19_di_Malaysia", "id": 999269}]}
+{"name": "Pandemik_COVID-19_di_Asia", "id": 1004564, "predecessors": [{"name": "Pandemik_COVID-19", "id": 996654}, {"name": "Kebudayaan_Asia", "id": 83812}], "successors": [{"name": "Pandemik_COVID-19_di_Malaysia", "id": 999269}]}

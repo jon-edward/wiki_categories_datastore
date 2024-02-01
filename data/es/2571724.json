@@ -1,1 +1,1 @@
-{"name": "Salario_mínimo", "id": 2571724, "predecessors": [{"name": "Bienestar", "id": 6948126}, {"name": "Derecho_laboral", "id": 75762}, {"name": "Ingreso", "id": 3055537}, {"name": "Salarios_y_remuneraciones", "id": 8767599}], "successors": []}
+{"name": "Salario_mínimo", "id": 2571724, "predecessors": [{"name": "Derecho_laboral", "id": 75762}, {"name": "Ingreso", "id": 3055537}, {"name": "Macroeconomía", "id": 413704}, {"name": "Política_económica", "id": 791793}, {"name": "Distribución_de_ingresos", "id": 6142616}], "successors": []}

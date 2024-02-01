@@ -1,1 +1,1 @@
-{"name": "Red_de_Carreteras_Europeas", "id": 1213104, "predecessors": [{"name": "Infraestructuras", "id": 2391557}], "successors": [{"name": "Red_de_Carreteras_Europeas_en_España", "id": 6453708}]}
+{"name": "Red_de_Carreteras_Europeas", "id": 1213104, "predecessors": [{"name": "Carreteras", "id": 793814}], "successors": [{"name": "Red_de_Carreteras_Europeas_en_España", "id": 6453708}]}

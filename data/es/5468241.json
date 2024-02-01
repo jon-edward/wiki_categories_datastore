@@ -1,1 +1,1 @@
-{"name": "Trenes_nocturnos", "id": 5468241, "predecessors": [{"name": "Cielo_en_la_cultura", "id": 9984688}], "successors": []}
+{"name": "Trenes_nocturnos", "id": 5468241, "predecessors": [{"name": "Tipos_de_servicios_ferroviarios", "id": 5268935}, {"name": "Turismo", "id": 55707}, {"name": "Fenómenos_periódicos", "id": 6842040}], "successors": []}

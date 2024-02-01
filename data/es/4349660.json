@@ -1,1 +1,1 @@
-{"name": "Entrenadores_de_tenis", "id": 4349660, "predecessors": [{"name": "Entrenamiento", "id": 602966}, {"name": "Deporte", "id": 50825}], "successors": []}
+{"name": "Entrenadores_de_tenis", "id": 4349660, "predecessors": [{"name": "Personalidad", "id": 4496858}], "successors": []}
