@@ -1,0 +1,1 @@
+{"name": "Calcul_de_la_date_d'un_événement", "id": 7250042, "predecessors": [{"name": "Fête_à_date_mobile", "id": 3727612}, {"name": "Mesure_du_temps", "id": 88806}], "successors": [{"name": "Modèle_calculant_la_date_d'un_événement", "id": 5883530}]}

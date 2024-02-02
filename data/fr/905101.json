@@ -1,0 +1,1 @@
+{"name": "Transilien_Paris-Nord", "id": 905101, "predecessors": [{"name": "Groupe_SNCF", "id": 5057033}], "successors": [{"name": "Ligne_C_du_RER_d'Île-de-France", "id": 778725}, {"name": "Ligne_D_du_RER_d'Île-de-France", "id": 778732}, {"name": "Transilien_H", "id": 3310440}, {"name": "Transilien_K", "id": 3310441}]}

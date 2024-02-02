@@ -1,0 +1,1 @@
+{"name": "Microsoft_Windows", "id": 973088, "predecessors": [{"name": "微軟操作系統", "id": 691176}, {"name": "计算平台", "id": 6222973}, {"name": "X86架構", "id": 133497}], "successors": [{"name": ".NET", "id": 227331}, {"name": "Windows_Mobile", "id": 998308}, {"name": "Windows_Phone", "id": 2766806}]}

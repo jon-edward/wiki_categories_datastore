@@ -1,0 +1,1 @@
+{"name": "Xử_lý_ảnh", "id": 559301, "predecessors": [{"name": "Thị_giác_máy_tính", "id": 3162005}, {"name": "Xử_lý_tín_hiệu", "id": 14117}, {"name": "Xử_lý_tín_hiệu_số", "id": 52756}, {"name": "Đồ_họa_máy_tính", "id": 48452}], "successors": [{"name": "Màu_sắc", "id": 4117}, {"name": "Định_dạng_tập_tin_hình_ảnh", "id": 17617}, {"name": "Nhiếp_ảnh_kỹ_thuật_số", "id": 3138165}]}

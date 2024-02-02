@@ -1,0 +1,1 @@
+{"name": "Onderwijsproces", "id": 1864644, "predecessors": [{"name": "Onderwijs", "id": 63505}], "successors": [{"name": "School", "id": 88649}, {"name": "Examen", "id": 201855}, {"name": "Leermiddel", "id": 345386}, {"name": "Onderwijsberoep", "id": 520386}]}

@@ -1,1 +1,1 @@
-{"name": "FK_라보트니치키의_축구_선수", "id": 523496, "predecessors": [{"name": "북마케도니아의_도시", "id": 46294}, {"name": "축구인", "id": 458036}], "successors": []}
+{"name": "FK_라보트니치키의_축구_선수", "id": 523496, "predecessors": [{"name": "북마케도니아의_도시", "id": 46294}, {"name": "축구", "id": 11702}], "successors": []}

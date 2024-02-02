@@ -1,1 +1,1 @@
-{"name": "홈_팜_FC의_축구_선수", "id": 797323, "predecessors": [{"name": "축구인", "id": 458036}, {"name": "축구_리그", "id": 117033}], "successors": []}
+{"name": "홈_팜_FC의_축구_선수", "id": 797323, "predecessors": [{"name": "축구_리그", "id": 117033}, {"name": "축구", "id": 11702}], "successors": []}

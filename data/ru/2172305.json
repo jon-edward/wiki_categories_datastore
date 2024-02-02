@@ -1,0 +1,1 @@
+{"name": "Видеокарты_NVIDIA", "id": 2172305, "predecessors": [{"name": "Аппаратное_обеспечение_Nvidia", "id": 10348225}, {"name": "Видеокарты", "id": 181038}], "successors": [{"name": "Микроархитектуры_Nvidia", "id": 10352042}, {"name": "NVIDIA_GeForce", "id": 10352063}]}

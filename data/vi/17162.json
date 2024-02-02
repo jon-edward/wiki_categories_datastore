@@ -1,0 +1,1 @@
+{"name": "Cúm", "id": 17162, "predecessors": [{"name": "Bệnh_gia_cầm", "id": 3187638}, {"name": "Bệnh_truyền_nhiễm", "id": 12910}, {"name": "Virus", "id": 17161}], "successors": [{"name": "Cúm_gia_cầm", "id": 440947}, {"name": "Serotype_của_virus_cúm_A", "id": 1751622}]}

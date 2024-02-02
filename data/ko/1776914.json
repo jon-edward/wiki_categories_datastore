@@ -1,1 +1,1 @@
-{"name": "FC_다키아_키시너우의_축구_선수", "id": 1776914, "predecessors": [{"name": "축구인", "id": 458036}, {"name": "스포츠_단체", "id": 71162}], "successors": []}
+{"name": "FC_다키아_키시너우의_축구_선수", "id": 1776914, "predecessors": [{"name": "스포츠_단체", "id": 71162}, {"name": "축구", "id": 11702}], "successors": []}

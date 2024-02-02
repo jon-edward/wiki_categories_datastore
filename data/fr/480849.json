@@ -1,0 +1,1 @@
+{"name": "Lait", "id": 480849, "predecessors": [{"name": "Produit_d'élevage", "id": 2682923}, {"name": "Alimentation_humaine", "id": 3930512}, {"name": "Vivant", "id": 4649497}], "successors": [{"name": "Produit_laitier", "id": 321206}, {"name": "Allaitement", "id": 798638}, {"name": "Élevage_laitier", "id": 5716432}, {"name": "Lait_par_animal", "id": 13655991}]}

@@ -1,1 +1,1 @@
-{"name": "UD_이비사의_축구_감독", "id": 3673909, "predecessors": [{"name": "축구인", "id": 458036}, {"name": "행정_구역_단위", "id": 581695}], "successors": []}
+{"name": "UD_이비사의_축구_감독", "id": 3673909, "predecessors": [{"name": "행정_구역_단위", "id": 581695}, {"name": "스포츠_지도자", "id": 2453021}], "successors": []}

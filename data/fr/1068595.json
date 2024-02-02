@@ -1,0 +1,1 @@
+{"name": "Rhum", "id": 1068595, "predecessors": [{"name": "Canne_à_sucre", "id": 1767023}, {"name": "Eau-de-vie", "id": 377066}], "successors": [{"name": "Marque_de_rhum", "id": 2723852}, {"name": "Cocktail_à_base_de_rhum", "id": 2726448}, {"name": "Rhum_agricole", "id": 4113034}]}

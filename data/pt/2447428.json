@@ -1,0 +1,1 @@
+{"name": "Qualidade_de_software", "id": 2447428, "predecessors": [{"name": "Engenharia_de_software", "id": 38258}], "successors": [{"name": "Teste_de_software", "id": 1457351}, {"name": "Tolerância_a_falhas", "id": 3751666}, {"name": "Antipadrão_de_projeto", "id": 5782611}]}

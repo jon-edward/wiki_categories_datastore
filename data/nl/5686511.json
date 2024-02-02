@@ -1,0 +1,1 @@
+{"name": "Goederenvervoer_per_spoor", "id": 5686511, "predecessors": [{"name": "Goederenvervoer", "id": 80543}, {"name": "Spoorwegen", "id": 67745}], "successors": [{"name": "Goederenwagon", "id": 1559320}, {"name": "Nederlandse_spoorwegmaatschappij_voor_goederen", "id": 5686474}, {"name": "Raccordement_in_Nederland", "id": 1221020}]}

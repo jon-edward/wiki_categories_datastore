@@ -1,1 +1,1 @@
-{"name": "UD_이비사의_축구_선수", "id": 3673908, "predecessors": [{"name": "축구인", "id": 458036}, {"name": "행정_구역_단위", "id": 581695}], "successors": []}
+{"name": "UD_이비사의_축구_선수", "id": 3673908, "predecessors": [{"name": "행정_구역_단위", "id": 581695}, {"name": "축구", "id": 11702}], "successors": []}

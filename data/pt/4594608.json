@@ -1,0 +1,1 @@
+{"name": "Núcleo_do_Linux", "id": 4594608, "predecessors": [{"name": "Linux", "id": 15828}, {"name": "Núcleo_de_sistema_operativo", "id": 80331}], "successors": [{"name": "Recursos_do_núcleo_do_Linux", "id": 5222463}, {"name": "Interfaces_do_núcleo_do_Linux", "id": 5761474}, {"name": "Sistemas_de_arquivos_suportados_pelo_núcleo_do_Linux", "id": 6280590}]}

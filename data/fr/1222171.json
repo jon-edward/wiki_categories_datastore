@@ -1,0 +1,1 @@
+{"name": "Format_ouvert", "id": 1222171, "predecessors": [{"name": "Format_de_données_numériques", "id": 142603}], "successors": [{"name": "XML", "id": 111466}, {"name": "TeX", "id": 248420}, {"name": "Client_FTP", "id": 358180}]}

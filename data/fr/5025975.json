@@ -1,0 +1,1 @@
+{"name": "Lavoir", "id": 5025975, "predecessors": [{"name": "Entretien_des_textiles", "id": 1769773}, {"name": "Lavage_des_textiles", "id": 11883966}, {"name": "Édifice-type", "id": 3403103}, {"name": "Équipement_public", "id": 676279}], "successors": [{"name": "Lavoir_monument_historique_en_France", "id": 6306658}]}

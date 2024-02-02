@@ -1,0 +1,1 @@
+{"name": "Chế_tạo_thuốc", "id": 14518255, "predecessors": [{"name": "Công_nghiệp_dược_phẩm", "id": 14498873}, {"name": "Công_nghiệp_khoa_học_sự_sống", "id": 14518570}, {"name": "Dược_liệu_học", "id": 14518576}, {"name": "Dược_lý_học", "id": 12915}, {"name": "Hóa_dược", "id": 3417616}, {"name": "Dược_khoa", "id": 6350}], "successors": [{"name": "Trị_liệu", "id": 14518214}]}

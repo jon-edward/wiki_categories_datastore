@@ -1,0 +1,1 @@
+{"name": "Anesthésique", "id": 342816, "predecessors": [{"name": "Anesthésie-réanimation", "id": 1445865}, {"name": "Classe_pharmacologique", "id": 131501}, {"name": "Médicament_agissant_sur_le_système_nerveux", "id": 6017794}], "successors": [{"name": "Anesthésique_local", "id": 342825}, {"name": "Curare", "id": 1619108}, {"name": "Hypnotique", "id": 1619145}]}

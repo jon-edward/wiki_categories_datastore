@@ -1,0 +1,1 @@
+{"name": "GNOME", "id": 112834, "predecessors": [{"name": "GNU计划软件", "id": 540844}, {"name": "GTK", "id": 1130245}], "successors": [{"name": "GNOME应用程序", "id": 4008477}, {"name": "GNOME函式庫", "id": 8121105}]}

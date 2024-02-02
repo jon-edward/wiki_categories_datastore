@@ -1,0 +1,1 @@
+{"name": "P2P", "id": 82041, "predecessors": [{"name": "檔案分享", "id": 79485}, {"name": "网络技术", "id": 54303}], "successors": [{"name": "BitTorrent", "id": 514459}, {"name": "密碼貨幣", "id": 3882991}, {"name": "网络借贷公司", "id": 6406118}, {"name": "網狀網路", "id": 7929365}, {"name": "EDonkey客戶端", "id": 1448662}, {"name": "分布式数据存储", "id": 5654646}]}

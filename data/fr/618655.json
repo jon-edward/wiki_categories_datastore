@@ -1,0 +1,1 @@
+{"name": "Traitement_d'image", "id": 618655, "predecessors": [{"name": "Imagerie_numérique", "id": 126776}, {"name": "Traitement_du_signal", "id": 108437}], "successors": [{"name": "Imagerie_médicale", "id": 322267}, {"name": "Vision_artificielle", "id": 545812}, {"name": "Stéganographie", "id": 1626614}]}

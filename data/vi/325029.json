@@ -1,0 +1,1 @@
+{"name": "Mạch_điện", "id": 325029, "predecessors": [{"name": "Kỹ_thuật_điện", "id": 76264}, {"name": "Kỹ_thuật_điện_tử", "id": 1520235}, {"name": "Điện_tử_học", "id": 4950}], "successors": [{"name": "Mạch_tương_tự", "id": 491991}, {"name": "Định_lý_mạch", "id": 2430640}, {"name": "Mạch_tích_hợp", "id": 3170435}]}

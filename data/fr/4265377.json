@@ -1,0 +1,1 @@
+{"name": "Protocole_réseau_sur_la_couche_application", "id": 4265377, "predecessors": [{"name": "Protocole_réseau", "id": 314354}], "successors": [{"name": "IRC", "id": 142045}, {"name": "Domain_Name_System", "id": 1022685}, {"name": "Hypertext_Transfer_Protocol", "id": 1145322}, {"name": "Client_(informatique)", "id": 15862478}]}

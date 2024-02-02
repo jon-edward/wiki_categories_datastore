@@ -1,0 +1,1 @@
+{"name": "Musique_vocale", "id": 5819690, "predecessors": [{"name": "Musique_par_genre", "id": 2914843}, {"name": "Voix", "id": 172912}, {"name": "Arts_du_spectacle", "id": 84979}], "successors": [{"name": "Chanson", "id": 94750}, {"name": "Chef_de_chœur", "id": 2861293}, {"name": "Œuvre_pour_chœur", "id": 15701867}]}

@@ -1,1 +1,1 @@
-{"name": "단어_게임", "id": 708550, "predecessors": [{"name": "게임", "id": 250682}, {"name": "낱말", "id": 77313}, {"name": "두뇌_게임", "id": 3333211}], "successors": []}
+{"name": "단어_게임", "id": 708550, "predecessors": [{"name": "낱말", "id": 77313}, {"name": "두뇌_게임", "id": 3333211}, {"name": "언어_게임", "id": 502916}], "successors": []}

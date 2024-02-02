@@ -1,0 +1,1 @@
+{"name": "Explosif", "id": 243630, "predecessors": [{"name": "Arme", "id": 87379}, {"name": "Pyrotechnie", "id": 2068449}], "successors": [{"name": "Produit_chimique_explosif", "id": 3448786}, {"name": "Liquide_explosif", "id": 8238447}]}

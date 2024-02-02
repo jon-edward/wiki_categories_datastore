@@ -1,0 +1,1 @@
+{"name": "Architecture_x86", "id": 969149, "predecessors": [{"name": "Architecture_informatique", "id": 216174}, {"name": "Microprocesseur", "id": 175718}], "successors": [{"name": "Jeu_d'instruction_x86", "id": 915386}, {"name": "Microprocesseur_x86_Intel", "id": 3357447}, {"name": "Microprocesseur_x86_AMD", "id": 3357448}]}

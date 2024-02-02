@@ -1,1 +1,1 @@
-{"name": "제모", "id": 712336, "predecessors": [{"name": "인간_모발", "id": 1161589}, {"name": "털", "id": 290893}, {"name": "미", "id": 531962}], "successors": [{"name": "면도", "id": 712334}]}
+{"name": "제모", "id": 712336, "predecessors": [{"name": "미용", "id": 1673721}, {"name": "인간_모발", "id": 1161589}, {"name": "털", "id": 290893}], "successors": [{"name": "면도", "id": 712334}]}

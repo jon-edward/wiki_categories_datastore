@@ -1,1 +1,1 @@
-{"name": "管楽器", "id": 103776, "predecessors": [{"name": "楽器", "id": 103771}], "successors": [{"name": "木管楽器", "id": 103769}, {"name": "金管楽器", "id": 156386}]}
+{"name": "管楽器", "id": 103776, "predecessors": [{"name": "楽器", "id": 103771}], "successors": [{"name": "金管楽器", "id": 156386}]}

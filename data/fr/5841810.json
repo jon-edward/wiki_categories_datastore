@@ -1,0 +1,1 @@
+{"name": "Pont_métallique", "id": 5841810, "predecessors": [{"name": "Construction_métallique", "id": 5836168}, {"name": "Matériau_de_construction", "id": 149632}], "successors": [{"name": "Pont_en_acier", "id": 3880157}, {"name": "Pont_en_fer_forgé", "id": 5841854}, {"name": "Pont_Eiffel", "id": 15185706}]}

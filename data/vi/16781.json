@@ -1,0 +1,1 @@
+{"name": "Máu", "id": 16781, "predecessors": [{"name": "Huyết_học", "id": 16782}, {"name": "Hệ_tim_mạch", "id": 16780}], "successors": [{"name": "Huyết_học", "id": 16782}, {"name": "Huyết_áp", "id": 818023}, {"name": "Hút_máu", "id": 1677168}, {"name": "Hiến_máu", "id": 3182280}, {"name": "Tế_bào_máu", "id": 11573929}, {"name": "Y_học_truyền_máu", "id": 19522603}]}

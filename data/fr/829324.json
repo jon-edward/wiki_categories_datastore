@@ -1,0 +1,1 @@
+{"name": "Précipitations", "id": 829324, "predecessors": [{"name": "Forme_de_l'eau", "id": 1246858}, {"name": "Hydrologie", "id": 99734}, {"name": "Phénomène_météorologique", "id": 2738172}], "successors": [{"name": "Radar_météorologique", "id": 912796}, {"name": "Neige", "id": 5933869}, {"name": "Pluie", "id": 8968312}, {"name": "Modification_du_temps", "id": 11859193}]}

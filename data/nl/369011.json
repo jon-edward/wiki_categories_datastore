@@ -1,0 +1,1 @@
+{"name": "Psychotherapie", "id": 369011, "predecessors": [{"name": "Geneeskundige_behandeling", "id": 93146}, {"name": "Hulpverlening", "id": 694363}, {"name": "Psychiatrie", "id": 64435}, {"name": "Psychologie", "id": 66843}], "successors": [{"name": "Psychoanalyse", "id": 662426}, {"name": "Psychotherapeut", "id": 808585}, {"name": "Gedragstherapie", "id": 1130727}]}

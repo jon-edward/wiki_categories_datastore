@@ -1,1 +1,1 @@
-{"name": "여자_생물학자", "id": 2562227, "predecessors": [{"name": "여자_과학자", "id": 709909}, {"name": "학문_분야", "id": 275046}], "successors": []}
+{"name": "여자_생물학자", "id": 2562227, "predecessors": [{"name": "생물학자", "id": 12374}, {"name": "여자_과학자", "id": 709909}], "successors": []}

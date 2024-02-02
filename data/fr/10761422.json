@@ -1,0 +1,1 @@
+{"name": "Deux-mâts", "id": 10761422, "predecessors": [{"name": "Type_de_voilier", "id": 10140127}], "successors": [{"name": "Type_de_bateau_à_un_mât", "id": 12569773}, {"name": "Type_de_bateau_à_deux_mâts", "id": 12569798}, {"name": "Type_de_bateau_à_trois_mâts", "id": 12569812}, {"name": "Type_de_bateau_à_quatre_mâts_et_plus", "id": 12569827}]}

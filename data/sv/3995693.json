@@ -1,0 +1,1 @@
+{"name": "Anmälningspliktiga_sjukdomar", "id": 3995693, "predecessors": [{"name": "Medicinsk_rätt", "id": 740414}, {"name": "Sjukdomar", "id": 50034}, {"name": "Smittskydd", "id": 3995623}], "successors": [{"name": "Epizootier", "id": 8309169}, {"name": "Smittspårningspliktiga_sjukdomar", "id": 8512165}]}

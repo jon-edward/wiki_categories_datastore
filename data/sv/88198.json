@@ -1,0 +1,1 @@
+{"name": "Linuxdistributioner", "id": 88198, "predecessors": [{"name": "Linux", "id": 166843}], "successors": [{"name": "Debian-baserade_distributioner", "id": 334004}, {"name": "Red_Hat-baserade_distributioner", "id": 723593}, {"name": "Android_(operativsystem)", "id": 1497818}]}

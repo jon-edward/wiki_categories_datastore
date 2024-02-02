@@ -1,0 +1,1 @@
+{"name": "Windows_Phone", "id": 5674293, "predecessors": [{"name": "Microsoft_Windows", "id": 68440}, {"name": "Операционные_системы_ARM", "id": 7517093}, {"name": "Операционные_системы_для_мобильных_устройств", "id": 1458722}], "successors": [{"name": "Устройства_на_Windows_Phone", "id": 4003232}, {"name": "Программное_обеспечение_для_Windows_Phone", "id": 5674295}]}
