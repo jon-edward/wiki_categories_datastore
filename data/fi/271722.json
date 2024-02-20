@@ -1,1 +1,1 @@
-{"name": "Työsuojelu", "id": 271722, "predecessors": [{"name": "Turvallisuus", "id": 26868}, {"name": "Työ", "id": 26711}], "successors": [{"name": "Työturvallisuus", "id": 196787}, {"name": "Sähköturvallisuus", "id": 283538}, {"name": "Työterveys", "id": 773439}]}
+{"name": "Työsuojelu", "id": 271722, "predecessors": [{"name": "Terveys", "id": 209689}, {"name": "Turvallisuus", "id": 26868}, {"name": "Työ", "id": 26711}], "successors": [{"name": "Työturvallisuus", "id": 196787}, {"name": "Sähköturvallisuus", "id": 283538}, {"name": "Työterveys", "id": 773439}]}

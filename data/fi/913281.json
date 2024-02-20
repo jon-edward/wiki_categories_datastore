@@ -1,1 +1,1 @@
-{"name": "Oululaiset_urheiluseurat", "id": 913281, "predecessors": [{"name": "Oulun_urheilu", "id": 279510}, {"name": "Suomalaiset_urheiluseurat", "id": 81289}], "successors": [{"name": "Oulun_Kärpät", "id": 105039}, {"name": "AC_Oulun_pelaajat", "id": 351528}]}
+{"name": "Oululaiset_urheiluseurat", "id": 913281, "predecessors": [{"name": "Oululaiset_yhdistykset", "id": 365931}, {"name": "Oulun_urheilu", "id": 279510}, {"name": "Suomalaiset_urheiluseurat", "id": 81289}], "successors": [{"name": "Oulun_Kärpät", "id": 105039}, {"name": "AC_Oulun_pelaajat", "id": 351528}]}

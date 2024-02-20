@@ -1,1 +1,1 @@
-{"name": "Wine_industry_organizations", "id": 5172831, "predecessors": [{"name": "Alcohol_industry_trade_associations", "id": 41508949}, {"name": "Wine", "id": 1635343}, {"name": "Alcoholic_drinks", "id": 13294809}, {"name": "Taxonomy", "id": 918375}], "successors": [{"name": "Wine_museums", "id": 30092374}]}
+{"name": "Wine_industry_organizations", "id": 5172831, "predecessors": [{"name": "Wine", "id": 1635343}, {"name": "Alcoholic_drinks", "id": 13294809}, {"name": "Taxonomy", "id": 918375}], "successors": [{"name": "Wine_museums", "id": 30092374}]}

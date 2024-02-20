@@ -1,1 +1,1 @@
-{"name": "Poetes_britànics", "id": 306717, "predecessors": [{"name": "Escriptors_britànics", "id": 201095}, {"name": "Poetes_europeus", "id": 1178103}], "successors": [{"name": "Poetes_anglesos", "id": 673453}, {"name": "Poetes_escocesos", "id": 1192780}]}
+{"name": "Poetes_britànics", "id": 306717, "predecessors": [{"name": "Escriptors_britànics", "id": 201095}, {"name": "Poetes_europeus", "id": 1178103}], "successors": [{"name": "Poetes_britànics_en_anglès", "id": 306720}, {"name": "Poetes_anglesos", "id": 673453}, {"name": "Poetes_escocesos", "id": 1192780}]}

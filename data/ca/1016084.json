@@ -1,1 +1,1 @@
-{"name": "Malalties_vasculars", "id": 1016084, "predecessors": [{"name": "Anatomia", "id": 20747}], "successors": [{"name": "Morts_d'embòlia_pulmonar", "id": 1893823}]}
+{"name": "Malalties_vasculars", "id": 1016084, "predecessors": [{"name": "Anatomia", "id": 20747}, {"name": "Especialitats_de_la_medicina", "id": 498206}], "successors": [{"name": "Morts_d'embòlia_pulmonar", "id": 1893823}]}

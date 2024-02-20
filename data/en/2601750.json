@@ -1,1 +1,1 @@
-{"name": "Internment_camps", "id": 2601750, "predecessors": [{"name": "Forced_migration", "id": 1219264}, {"name": "Internments", "id": 2601537}, {"name": "Prisons", "id": 698491}], "successors": [{"name": "Prisoner-of-war_camps", "id": 32870393}]}
+{"name": "Internment_camps", "id": 2601750, "predecessors": [{"name": "Forced_migration", "id": 1219264}, {"name": "Human_rights_abuses", "id": 716087}, {"name": "Internments", "id": 2601537}, {"name": "Political_repression", "id": 1299694}, {"name": "Military_prisons", "id": 36573819}], "successors": []}

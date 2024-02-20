@@ -1,1 +1,1 @@
-{"name": "Canid_attacks", "id": 42500695, "predecessors": [{"name": "Carnivorans", "id": 24597400}], "successors": [{"name": "Deaths_due_to_wolf_attacks", "id": 22807058}, {"name": "Beast_of_Gévaudan", "id": 73923669}]}
+{"name": "Canid_attacks", "id": 42500695, "predecessors": [{"name": "Carnivorans", "id": 24597400}], "successors": [{"name": "Deaths_due_to_dog_attacks", "id": 22806874}, {"name": "Deaths_due_to_wolf_attacks", "id": 22807058}, {"name": "Beast_of_Gévaudan", "id": 73923669}]}

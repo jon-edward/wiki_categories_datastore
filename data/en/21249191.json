@@ -1,1 +1,1 @@
-{"name": "Bartenders", "id": 21249191, "predecessors": [{"name": "Bartending", "id": 9419866}, {"name": "Restaurant_staff", "id": 36453461}], "successors": [{"name": "Fictional_bartenders", "id": 1891994}, {"name": "American_bartenders", "id": 62703810}]}
+{"name": "Bartenders", "id": 21249191, "predecessors": [{"name": "Restaurant_staff", "id": 36453461}], "successors": [{"name": "Fictional_bartenders", "id": 1891994}, {"name": "American_bartenders", "id": 62703810}]}

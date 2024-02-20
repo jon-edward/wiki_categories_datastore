@@ -1,1 +1,1 @@
-{"name": "Horror_fandom", "id": 65392596, "predecessors": [{"name": "Fandom", "id": 924410}, {"name": "Horror_fiction", "id": 31995985}], "successors": []}
+{"name": "Horror_fandom", "id": 65392596, "predecessors": [{"name": "Fandom", "id": 924410}, {"name": "Horror_fiction", "id": 31995985}], "successors": [{"name": "Horror_hosts", "id": 4177514}]}

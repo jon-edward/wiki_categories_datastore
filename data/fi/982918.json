@@ -1,1 +1,1 @@
-{"name": "Venäläiset_liikenneyhtiöt", "id": 982918, "predecessors": [{"name": "Venäläiset_yritykset", "id": 466383}, {"name": "Yritykset", "id": 428190}, {"name": "Liikenne", "id": 21059}], "successors": [{"name": "Venäläiset_lentoyhtiöt", "id": 131931}]}
+{"name": "Venäläiset_liikenneyhtiöt", "id": 982918, "predecessors": [{"name": "Venäläiset_yritykset", "id": 466383}, {"name": "Liiketalous", "id": 27542}, {"name": "Liikenne", "id": 21059}], "successors": [{"name": "Venäläiset_lentoyhtiöt", "id": 131931}]}

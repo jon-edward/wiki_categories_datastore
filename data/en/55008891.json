@@ -1,1 +1,1 @@
-{"name": "Stairs", "id": 55008891, "predecessors": [{"name": "Garden_features", "id": 25138706}, {"name": "Pedestrian_infrastructure", "id": 11193164}], "successors": []}
+{"name": "Stairs", "id": 55008891, "predecessors": [{"name": "Garden_features", "id": 25138706}], "successors": [{"name": "Escalator_manufacturers", "id": 37616502}]}

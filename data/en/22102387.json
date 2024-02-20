@@ -1,1 +1,1 @@
-{"name": "Hunting_dogs", "id": 22102387, "predecessors": [{"name": "Hunting", "id": 1067592}, {"name": "Working_dogs", "id": 970319}], "successors": []}
+{"name": "Hunting_dogs", "id": 22102387, "predecessors": [{"name": "Dog_types", "id": 704388}, {"name": "Hunting", "id": 1067592}, {"name": "Working_dogs", "id": 970319}], "successors": [{"name": "Terriers", "id": 1888386}, {"name": "Hounds", "id": 2464727}, {"name": "Spaniels", "id": 2635531}]}

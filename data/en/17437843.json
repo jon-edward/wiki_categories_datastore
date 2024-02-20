@@ -1,1 +1,1 @@
-{"name": "Glycoside_hydrolase_families", "id": 17437843, "predecessors": [{"name": "Hydrolases", "id": 719747}, {"name": "Protein_domains", "id": 2647525}, {"name": "Protein_families", "id": 5689164}], "successors": []}
+{"name": "Glycoside_hydrolase_families", "id": 17437843, "predecessors": [{"name": "Protein_domains", "id": 2647525}, {"name": "Protein_families", "id": 5689164}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Menjar_ràpid", "id": 940183, "predecessors": [{"name": "Aliments", "id": 19901}, {"name": "Cuina", "id": 444428}], "successors": [{"name": "Amanides", "id": 510698}, {"name": "Cadenes_de_locals_de_menjar_ràpid", "id": 989141}, {"name": "Pizza", "id": 1350797}]}
+{"name": "Menjar_ràpid", "id": 940183, "predecessors": [{"name": "Aliments", "id": 19901}, {"name": "Cuina", "id": 444428}], "successors": [{"name": "Amanides", "id": 510698}, {"name": "Cadenes_de_locals_de_menjar_ràpid", "id": 989141}]}

@@ -1,1 +1,1 @@
-{"name": "Frozen_pizza_brands", "id": 10042601, "predecessors": [{"name": "Frozen_food_brands", "id": 10042612}, {"name": "Pizza", "id": 1824041}], "successors": []}
+{"name": "Frozen_pizza_brands", "id": 10042601, "predecessors": [{"name": "Pizza", "id": 1824041}], "successors": []}

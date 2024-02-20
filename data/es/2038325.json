@@ -1,1 +1,0 @@
-{"name": "Alimentos_secos", "id": 2038325, "predecessors": [{"name": "Preservación_de_alimentos", "id": 614658}, {"name": "Alimentos", "id": 51176}, {"name": "Alimentos_probióticos", "id": 8446706}], "successors": [{"name": "Frutos_secos", "id": 129058}, {"name": "Carne_seca", "id": 2800531}, {"name": "Pescado_seco", "id": 2800538}, {"name": "Fruta_seca", "id": 3172880}]}

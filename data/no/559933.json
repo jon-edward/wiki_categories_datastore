@@ -1,1 +1,1 @@
-{"name": "Sport_i_Harstad", "id": 559933, "predecessors": [{"name": "Kultur_i_Harstad", "id": 1058419}, {"name": "1904_i_Norge", "id": 930795}, {"name": "Kultur_i_Troms", "id": 74337}], "successors": [{"name": "Idrettslag_i_Harstad", "id": 505723}]}
+{"name": "Sport_i_Harstad", "id": 559933, "predecessors": [{"name": "Harstad", "id": 66254}, {"name": "Kultur_i_Harstad", "id": 1058419}, {"name": "Kultur_i_Troms", "id": 74337}], "successors": [{"name": "Idrettslag_i_Harstad", "id": 505723}]}

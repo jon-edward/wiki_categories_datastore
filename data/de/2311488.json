@@ -1,1 +1,0 @@
-{"name": "Funknavigation", "id": 2311488, "predecessors": [{"name": "Funkdienst", "id": 2313053}, {"name": "Navigation", "id": 280750}, {"name": "Telemetrie", "id": 6748018}], "successors": [{"name": "Radar", "id": 674497}, {"name": "Satellitennavigation", "id": 2311544}]}

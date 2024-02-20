@@ -1,1 +1,1 @@
-{"name": "Gule_blomster", "id": 497673, "predecessors": [{"name": "Botanikk", "id": 10476}], "successors": [{"name": "Tomat", "id": 1633745}]}
+{"name": "Gule_blomster", "id": 497673, "predecessors": [{"name": "Botanikk", "id": 10476}, {"name": "Farger", "id": 15199}], "successors": [{"name": "Tomat", "id": 1633745}]}

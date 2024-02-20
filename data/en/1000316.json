@@ -1,1 +1,1 @@
-{"name": "Juice", "id": 1000316, "predecessors": [{"name": "Non-alcoholic_drinks", "id": 4197151}, {"name": "Edible_fruits", "id": 39951547}], "successors": [{"name": "Fruit_juice", "id": 1000304}, {"name": "Juice_brands", "id": 41814129}]}
+{"name": "Juice", "id": 1000316, "predecessors": [{"name": "Edible_fruits", "id": 39951547}], "successors": [{"name": "Fruit_juice", "id": 1000304}, {"name": "Juice_brands", "id": 41814129}]}

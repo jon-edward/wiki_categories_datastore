@@ -1,1 +1,1 @@
-{"name": "Reunions", "id": 1013479, "predecessors": [{"name": "Comunicació", "id": 934367}, {"name": "Trobades", "id": 1464822}], "successors": [{"name": "Presentació", "id": 2001908}]}
+{"name": "Reunions", "id": 1013479, "predecessors": [{"name": "Comunicació", "id": 934367}, {"name": "Esdeveniments_organitzats", "id": 910663}], "successors": [{"name": "Presentació", "id": 2001908}]}

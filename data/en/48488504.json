@@ -1,1 +1,1 @@
-{"name": "Entertainment_journalists", "id": 48488504, "predecessors": [{"name": "Journalism", "id": 698307}, {"name": "Entertainment", "id": 693016}], "successors": []}
+{"name": "Entertainment_journalists", "id": 48488504, "predecessors": [{"name": "Entertainment_industry", "id": 40423958}, {"name": "Journalism", "id": 698307}, {"name": "Entertainment", "id": 693016}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Rail_technologies", "id": 1239654, "predecessors": [{"name": "Technology_by_type", "id": 17200193}], "successors": [{"name": "Railway_signalling", "id": 4389998}, {"name": "Tram_technology", "id": 19025565}]}
+{"name": "Rail_technologies", "id": 1239654, "predecessors": [{"name": "Technology_by_type", "id": 17200193}], "successors": [{"name": "Railway_signalling", "id": 4389998}]}

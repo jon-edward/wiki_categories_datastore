@@ -1,1 +1,1 @@
-{"name": "Bahan_api_nuklear", "id": 979809, "predecessors": [{"name": "Bahan_api", "id": 302380}, {"name": "Bahan_kimia", "id": 84676}, {"name": "Teknologi_nuklear", "id": 161822}], "successors": []}
+{"name": "Bahan_api_nuklear", "id": 979809, "predecessors": [{"name": "Bahan_api", "id": 302380}, {"name": "Teknologi_nuklear", "id": 161822}, {"name": "Bahan", "id": 58300}], "successors": []}

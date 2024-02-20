@@ -1,1 +1,1 @@
-{"name": "Agricultural_land", "id": 18476554, "predecessors": [{"name": "Agriculture", "id": 694871}, {"name": "Natural_resources", "id": 1103405}], "successors": [{"name": "Grasslands", "id": 2564852}, {"name": "Farms", "id": 3985281}, {"name": "Settlers", "id": 4386498}]}
+{"name": "Agricultural_land", "id": 18476554, "predecessors": [{"name": "Natural_resources", "id": 1103405}], "successors": [{"name": "Grasslands", "id": 2564852}, {"name": "Farms", "id": 3985281}, {"name": "Settlers", "id": 4386498}]}

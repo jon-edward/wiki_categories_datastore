@@ -1,1 +1,1 @@
-{"name": "Terveydenhoitoalan_yritykset", "id": 594879, "predecessors": [{"name": "Terveydenhoito", "id": 25163}, {"name": "Yritykset", "id": 428190}], "successors": []}
+{"name": "Terveydenhoitoalan_yritykset", "id": 594879, "predecessors": [{"name": "Terveydenhoito", "id": 25163}, {"name": "Liiketalous", "id": 27542}], "successors": [{"name": "Lääkevalmistajat", "id": 157974}]}

@@ -1,1 +1,1 @@
-{"name": "Bilboko_hotelak", "id": 551566, "predecessors": [{"name": "Bilboko_eraikinak", "id": 14067}, {"name": "Bizkaiko_hotelak", "id": 551571}, {"name": "Ekonomia", "id": 5731}], "successors": []}
+{"name": "Bilboko_hotelak", "id": 551566, "predecessors": [{"name": "Bilboko_ekonomia", "id": 336081}, {"name": "Bilboko_eraikinak", "id": 14067}, {"name": "Bizkaiko_hotelak", "id": 551571}, {"name": "Ekonomia", "id": 5731}], "successors": []}

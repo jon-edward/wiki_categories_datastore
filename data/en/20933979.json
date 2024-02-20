@@ -1,1 +1,1 @@
-{"name": "Entertainment_districts", "id": 20933979, "predecessors": [{"name": "Arts_districts", "id": 22746207}, {"name": "Tourist_attractions", "id": 17199034}], "successors": [{"name": "Theater_districts_in_the_United_States", "id": 60813181}]}
+{"name": "Entertainment_districts", "id": 20933979, "predecessors": [{"name": "Arts_districts", "id": 22746207}, {"name": "Entertainment_industry", "id": 40423958}, {"name": "Tourist_attractions", "id": 17199034}], "successors": [{"name": "Theater_districts_in_the_United_States", "id": 60813181}]}

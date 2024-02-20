@@ -1,1 +1,1 @@
-{"name": "Terapia", "id": 435957, "predecessors": [{"name": "Psykiatria", "id": 25298}], "successors": [{"name": "Psykoterapia", "id": 100501}]}
+{"name": "Terapia", "id": 435957, "predecessors": [{"name": "Psykiatria", "id": 25298}, {"name": "Terveydenhoito", "id": 25163}], "successors": [{"name": "Psykoterapia", "id": 100501}]}

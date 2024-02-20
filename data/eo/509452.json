@@ -1,1 +1,1 @@
-{"name": "Baja", "id": 509452, "predecessors": [{"name": "Urboj_de_Hungario", "id": 46685}, {"name": "Urboj_ĉe_Danubo", "id": 246707}, {"name": "Vinvilaĝoj", "id": 277316}], "successors": [{"name": "Kristanaj_preĝejoj_en_Baja", "id": 692754}]}
+{"name": "Baja", "id": 509452, "predecessors": [{"name": "Urboj_ĉe_Danubo", "id": 246707}, {"name": "Vinvilaĝoj", "id": 277316}, {"name": "Geografio_de_Hungario", "id": 134260}], "successors": [{"name": "Kristanaj_preĝejoj_en_Baja", "id": 692754}]}

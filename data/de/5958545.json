@@ -1,1 +1,0 @@
-{"name": "Steine-Erden-Bergbau", "id": 5958545, "predecessors": [{"name": "Bergbau_nach_Rohstoff", "id": 3592842}], "successors": [{"name": "Steinbruch", "id": 1366466}, {"name": "Baggersee", "id": 1928606}, {"name": "Kalkabbau", "id": 3595882}, {"name": "Naturwerkstein", "id": 4025211}, {"name": "Ehemalige_Ton-_oder_Lehmgrube", "id": 6845045}]}

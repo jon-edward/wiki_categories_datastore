@@ -1,1 +1,1 @@
-{"name": "Novels_set_in_prison", "id": 59987240, "predecessors": [{"name": "Books_about_imprisonment", "id": 70519192}, {"name": "Penal_imprisonment", "id": 2395638}], "successors": [{"name": "Novels_about_the_Holocaust", "id": 34603326}]}
+{"name": "Novels_set_in_prison", "id": 59987240, "predecessors": [{"name": "Books_about_imprisonment", "id": 70519192}, {"name": "Prisons", "id": 698491}], "successors": [{"name": "Novels_about_the_Holocaust", "id": 34603326}]}

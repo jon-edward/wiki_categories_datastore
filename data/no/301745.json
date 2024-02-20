@@ -1,1 +1,1 @@
-{"name": "Fotballstadioner_i_Nederland", "id": 301745, "predecessors": [{"name": "Fotballstadioner", "id": 11655}, {"name": "Byggverk_i_Nederland", "id": 1108792}, {"name": "Geografi", "id": 13178}], "successors": []}
+{"name": "Fotballstadioner_i_Nederland", "id": 301745, "predecessors": [{"name": "Fotball_i_Nederland", "id": 101432}, {"name": "Fotballstadioner", "id": 11655}, {"name": "Byggverk_i_Nederland", "id": 1108792}], "successors": []}

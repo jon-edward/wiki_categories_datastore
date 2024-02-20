@@ -1,1 +1,1 @@
-{"name": "Nave_militare", "id": 1182771, "predecessors": [{"name": "Obiecte", "id": 555690}], "successors": [{"name": "Nave_militare_românești", "id": 843184}, {"name": "Portavioane", "id": 110069}]}
+{"name": "Nave_militare", "id": 1182771, "predecessors": [{"name": "Obiecte", "id": 555690}], "successors": [{"name": "Nave_de_război", "id": 167942}, {"name": "Nave_militare_românești", "id": 843184}, {"name": "Portavioane", "id": 110069}, {"name": "Distrugătoare", "id": 1782035}]}

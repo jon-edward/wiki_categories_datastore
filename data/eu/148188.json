@@ -1,1 +1,1 @@
-{"name": "Getxoko_Arenas", "id": 148188, "predecessors": [{"name": "Bizkaiko_futbol_taldeak", "id": 661567}], "successors": [{"name": "Getxoko_Arenasko_futbolariak", "id": 148189}]}
+{"name": "Getxoko_Arenas", "id": 148188, "predecessors": [{"name": "Bizkaiko_futbol_taldeak", "id": 661567}, {"name": "Getxoko_kirola", "id": 509303}], "successors": [{"name": "Getxoko_Arenasko_futbolariak", "id": 148189}]}

@@ -1,1 +1,1 @@
-{"name": "Canadian_wine", "id": 6042878, "predecessors": [{"name": "Canadian_alcoholic_drinks", "id": 24682330}, {"name": "Canadian_cuisine", "id": 706035}], "successors": []}
+{"name": "Canadian_wine", "id": 6042878, "predecessors": [{"name": "Canadian_alcoholic_drinks", "id": 24682330}, {"name": "Canadian_cuisine", "id": 706035}], "successors": [{"name": "Wineries_of_British_Columbia", "id": 15205845}]}

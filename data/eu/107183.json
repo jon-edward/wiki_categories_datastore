@@ -1,1 +1,1 @@
-{"name": "Teleskopioak", "id": 107183, "predecessors": [{"name": "Astronomiarako_tresnak", "id": 229748}, {"name": "Gailu_optikoak", "id": 229747}], "successors": [{"name": "Behatoki_espazialak", "id": 910480}]}
+{"name": "Teleskopioak", "id": 107183, "predecessors": [{"name": "Astronomiarako_tresnak", "id": 229748}, {"name": "Behaketa-astronomia", "id": 910516}, {"name": "Gailu_optikoak", "id": 229747}], "successors": [{"name": "Behatoki_espazialak", "id": 910480}]}

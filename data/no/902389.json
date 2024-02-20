@@ -1,1 +1,1 @@
-{"name": "NASA-personell", "id": 902389, "predecessors": [{"name": "NASA", "id": 147394}], "successors": [{"name": "NASAs_administratorer", "id": 1072805}, {"name": "NASAs_viseadministratorer", "id": 1072806}]}
+{"name": "NASA-personell", "id": 902389, "predecessors": [{"name": "NASA", "id": 147394}], "successors": [{"name": "NASAs_administratorer", "id": 1072805}, {"name": "NASAs_viseadministratorer", "id": 1072806}, {"name": "NASA-astronauter", "id": 2170608}]}

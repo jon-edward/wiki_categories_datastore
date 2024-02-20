@@ -1,1 +1,0 @@
-{"name": "Bindemittel_für_Feststoffe", "id": 10550944, "predecessors": [{"name": "Baustoff", "id": 282209}, {"name": "Chemikalien_nach_Verwendung", "id": 5176459}], "successors": [{"name": "Klebstoff", "id": 590014}, {"name": "Kunstharz", "id": 1850527}, {"name": "Naturharz", "id": 3711117}, {"name": "Zementart", "id": 10473792}, {"name": "Imprägnierungsmittel", "id": 10570281}]}

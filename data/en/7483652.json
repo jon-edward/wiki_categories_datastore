@@ -1,1 +1,1 @@
-{"name": "Italian_princesses", "id": 7483652, "predecessors": [{"name": "Italian_royalty", "id": 12846875}], "successors": [{"name": "Modenese_princesses", "id": 20483326}]}
+{"name": "Italian_princesses", "id": 7483652, "predecessors": [{"name": "Italian_royalty", "id": 12846875}, {"name": "Nobility", "id": 1068479}], "successors": [{"name": "Modenese_princesses", "id": 20483326}]}

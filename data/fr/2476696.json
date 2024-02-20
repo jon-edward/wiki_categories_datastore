@@ -1,1 +1,0 @@
-{"name": "Architecture_ARM", "id": 2476696, "predecessors": [{"name": "Architecture_informatique", "id": 216174}, {"name": "Microcontrôleur", "id": 468380}, {"name": "Microprocesseur", "id": 175718}], "successors": [{"name": "Microprocesseur_ARM", "id": 3357507}, {"name": "SoC_ARM", "id": 6440063}]}

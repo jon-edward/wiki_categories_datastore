@@ -1,1 +1,1 @@
-{"name": "Force_protection_tactics", "id": 7891314, "predecessors": [{"name": "Military_tactics", "id": 1074382}], "successors": [{"name": "Rapid_reaction_force_units_and_formations", "id": 73992038}]}
+{"name": "Force_protection_tactics", "id": 7891314, "predecessors": [{"name": "Military_tactics", "id": 1074382}], "successors": [{"name": "Rapid_reaction_force_units_and_formations", "id": 73992038}, {"name": "Camouflage_patterns", "id": 19475449}, {"name": "Camoufleurs", "id": 36567627}, {"name": "Camouflage_mechanisms", "id": 75409815}]}

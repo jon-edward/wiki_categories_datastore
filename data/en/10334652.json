@@ -1,1 +1,1 @@
-{"name": "Element_toxicology", "id": 10334652, "predecessors": [{"name": "Biology_and_pharmacology_of_chemical_elements", "id": 5888460}], "successors": []}
+{"name": "Element_toxicology", "id": 10334652, "predecessors": [{"name": "Biology_and_pharmacology_of_chemical_elements", "id": 5888460}], "successors": [{"name": "Toxic_effects_of_metals", "id": 32637759}]}

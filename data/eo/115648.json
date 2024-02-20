@@ -1,1 +1,1 @@
-{"name": "Manĝiloj", "id": 115648, "predecessors": [{"name": "Iloj", "id": 30251}, {"name": "Kuirarto", "id": 39653}, {"name": "Manĝujoj", "id": 115649}], "successors": [{"name": "Kuleroj", "id": 403561}]}
+{"name": "Manĝiloj", "id": 115648, "predecessors": [{"name": "Iloj", "id": 30251}, {"name": "Kuirarto", "id": 39653}, {"name": "Manĝilaro", "id": 288429}], "successors": [{"name": "Kuleroj", "id": 403561}]}

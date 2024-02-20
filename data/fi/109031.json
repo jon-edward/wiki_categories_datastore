@@ -1,1 +1,1 @@
-{"name": "Musiikkistudiot", "id": 109031, "predecessors": [{"name": "Yritykset", "id": 428190}, {"name": "Esittävät_taiteet", "id": 700898}], "successors": [{"name": "Suomalaiset_musiikkistudiot", "id": 109030}]}
+{"name": "Musiikkistudiot", "id": 109031, "predecessors": [{"name": "Esittävät_taiteet", "id": 700898}, {"name": "Viihde", "id": 27898}], "successors": [{"name": "Suomalaiset_musiikkistudiot", "id": 109030}]}

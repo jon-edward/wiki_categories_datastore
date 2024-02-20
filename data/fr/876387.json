@@ -1,1 +1,0 @@
-{"name": "Machine-outil", "id": 876387, "predecessors": [{"name": "Machine", "id": 104860}, {"name": "Outil", "id": 104861}, {"name": "Usinage", "id": 151882}, {"name": "Électromécanique", "id": 580517}], "successors": [{"name": "Scie_(machine)", "id": 1593120}, {"name": "Tour_(usinage)", "id": 8410827}, {"name": "Marque_de_machines_à_coudre", "id": 11144314}]}

@@ -1,1 +1,0 @@
-{"name": "Connexion", "id": 13971130, "predecessors": [{"name": "Analyse_globale", "id": 14070111}, {"name": "Géométrie_différentielle", "id": 130561}, {"name": "Géométrie_riemannienne", "id": 898576}, {"name": "Opérateur_différentiel", "id": 5467810}], "successors": [{"name": "Tenseur_de_courbure", "id": 12991582}]}

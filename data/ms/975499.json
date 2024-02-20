@@ -1,1 +1,1 @@
-{"name": "Baja", "id": 975499, "predecessors": [{"name": "Agronomi", "id": 979329}, {"name": "Kimia_tanah", "id": 975501}, {"name": "Kitaran_nitrogen", "id": 975496}, {"name": "Bahan_kimia", "id": 84676}], "successors": [{"name": "Baja_organik", "id": 975498}]}
+{"name": "Baja", "id": 975499, "predecessors": [{"name": "Agronomi", "id": 979329}, {"name": "Kimia_tanah", "id": 975501}, {"name": "Kitaran_nitrogen", "id": 975496}, {"name": "Pertanian", "id": 74936}], "successors": [{"name": "Baja_organik", "id": 975498}]}

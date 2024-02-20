@@ -1,1 +1,1 @@
-{"name": "ABC:n_televisio-ohjelmat", "id": 1489130, "predecessors": [{"name": "Televisio", "id": 25249}, {"name": "Televisiokanavat", "id": 34155}], "successors": [{"name": "Lost", "id": 212275}, {"name": "Täydelliset_naiset", "id": 762771}]}
+{"name": "ABC:n_televisio-ohjelmat", "id": 1489130, "predecessors": [{"name": "Televisio", "id": 25249}, {"name": "Televisiokanavat", "id": 34155}], "successors": [{"name": "Lost", "id": 212275}]}

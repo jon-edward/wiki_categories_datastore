@@ -1,1 +1,1 @@
-{"name": "Ilmakehä", "id": 165626, "predecessors": [{"name": "Maa", "id": 29157}, {"name": "Meteorologia", "id": 25275}], "successors": [{"name": "Ilmakehän_optiset_ilmiöt", "id": 67803}, {"name": "Ilmastopolitiikka", "id": 386169}, {"name": "Salamat", "id": 818781}]}
+{"name": "Ilmakehä", "id": 165626, "predecessors": [{"name": "Klimatologia", "id": 26797}, {"name": "Maa", "id": 29157}, {"name": "Meteorologia", "id": 25275}], "successors": [{"name": "Ilmakehän_optiset_ilmiöt", "id": 67803}, {"name": "Ilmastopolitiikka", "id": 386169}, {"name": "Salamat", "id": 818781}]}

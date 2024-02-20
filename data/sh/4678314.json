@@ -1,1 +1,1 @@
-{"name": "Administrativna_podjela_Paname", "id": 4678314, "predecessors": [{"name": "Administrativna_podjela_po_državama", "id": 78102}, {"name": "Geografija_Paname", "id": 4644201}], "successors": []}
+{"name": "Administrativna_podjela_Paname", "id": 4678314, "predecessors": [{"name": "Administrativna_podjela_po_državama", "id": 78102}, {"name": "Geografija_po_državama", "id": 58021}], "successors": []}

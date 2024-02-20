@@ -1,1 +1,1 @@
-{"name": "Suomalaiset_kiinteistöomistajat", "id": 1225243, "predecessors": [{"name": "Kiinteistöala", "id": 164701}, {"name": "Asuminen_Suomessa", "id": 1225237}], "successors": [{"name": "Fiskars", "id": 1534334}, {"name": "Suomen_opiskelija-asunnot", "id": 1570575}]}
+{"name": "Suomalaiset_kiinteistöomistajat", "id": 1225243, "predecessors": [{"name": "Asuminen_Suomessa", "id": 1225237}, {"name": "Kiinteistöala", "id": 164701}], "successors": [{"name": "Fiskars", "id": 1534334}, {"name": "Suomen_opiskelija-asunnot", "id": 1570575}]}

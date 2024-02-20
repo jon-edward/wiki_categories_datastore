@@ -1,1 +1,1 @@
-{"name": "Pohjois-Pohjanmaan_hyvinvointialue", "id": 1779285, "predecessors": [{"name": "Pohjois-Pohjanmaa", "id": 64881}, {"name": "Terveydenhoito_Suomessa", "id": 728700}], "successors": [{"name": "Pohjois-Pohjanmaan_aluevaltuutetut", "id": 1780802}]}
+{"name": "Pohjois-Pohjanmaan_hyvinvointialue", "id": 1779285, "predecessors": [{"name": "Pohjois-Pohjanmaa", "id": 64881}, {"name": "Julkinen_terveydenhoito_Suomessa", "id": 1790840}], "successors": [{"name": "Pohjois-Pohjanmaan_aluevaltuutetut", "id": 1780802}]}

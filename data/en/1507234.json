@@ -1,1 +1,1 @@
-{"name": "Amateur_golf_tournaments", "id": 1507234, "predecessors": [{"name": "Amateur_golf", "id": 4391803}, {"name": "Summer", "id": 6826679}], "successors": [{"name": "Junior_golf_tournaments", "id": 3828378}, {"name": "Curtis_Cup", "id": 7857383}]}
+{"name": "Amateur_golf_tournaments", "id": 1507234, "predecessors": [{"name": "Amateur_golf", "id": 4391803}, {"name": "Summer", "id": 6826679}, {"name": "Competitions", "id": 737119}], "successors": [{"name": "Junior_golf_tournaments", "id": 3828378}, {"name": "Curtis_Cup", "id": 7857383}]}

@@ -1,1 +1,0 @@
-{"name": "Digue", "id": 1775466, "predecessors": [{"name": "Application_géotechnique", "id": 3932543}, {"name": "Infrastructure_maritime", "id": 132296}, {"name": "Ouvrage_lié_à_l'eau", "id": 2782652}, {"name": "Architecture", "id": 81442}], "successors": [{"name": "Plan_Delta", "id": 213116}, {"name": "Travaux_du_Zuiderzee", "id": 5767558}]}

@@ -1,1 +1,1 @@
-{"name": "Supergigantoj", "id": 849993, "predecessors": [{"name": "Specoj_de_steloj", "id": 163545}], "successors": [{"name": "Ruĝaj_supergigantoj", "id": 850242}, {"name": "Flavaj_supergigantoj", "id": 853198}]}
+{"name": "Supergigantoj", "id": 849993, "predecessors": [{"name": "Specoj_de_steloj", "id": 163545}, {"name": "Stela_astronomio", "id": 393764}], "successors": [{"name": "Ruĝaj_supergigantoj", "id": 850242}, {"name": "Flavaj_supergigantoj", "id": 853198}, {"name": "Bluaj_supergigantoj", "id": 853261}]}

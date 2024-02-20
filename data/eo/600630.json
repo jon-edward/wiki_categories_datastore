@@ -1,1 +1,1 @@
-{"name": "Islama_kulturo", "id": 600630, "predecessors": [{"name": "Araba_kulturo", "id": 295400}, {"name": "Islamo", "id": 23479}], "successors": [{"name": "Islamaj_vestoj", "id": 635316}]}
+{"name": "Islama_kulturo", "id": 600630, "predecessors": [{"name": "Araba_kulturo", "id": 295400}, {"name": "Islamo", "id": 23479}], "successors": [{"name": "Islama_arto", "id": 600629}, {"name": "Islamaj_vestoj", "id": 635316}]}

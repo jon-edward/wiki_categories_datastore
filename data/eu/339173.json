@@ -1,1 +1,1 @@
-{"name": "Suitzako_eskia", "id": 339173, "predecessors": [{"name": "Suitzako_kirola", "id": 141963}], "successors": [{"name": "Suitzako_eskiatzaileak", "id": 339172}]}
+{"name": "Suitzako_eskia", "id": 339173, "predecessors": [{"name": "Suitzako_kirola", "id": 141963}, {"name": "Eskia", "id": 57472}], "successors": [{"name": "Suitzako_eskiatzaileak", "id": 339172}]}

@@ -1,1 +1,1 @@
-{"name": "Tractors", "id": 883796, "predecessors": [{"name": "Agricultural_machinery", "id": 1189821}, {"name": "Engineering_vehicles", "id": 727285}, {"name": "Land_tenure", "id": 49153374}], "successors": [{"name": "Lawn_and_garden_tractors", "id": 8474688}]}
+{"name": "Tractors", "id": 883796, "predecessors": [{"name": "Engineering_vehicles", "id": 727285}, {"name": "Land_tenure", "id": 49153374}], "successors": [{"name": "Lawn_and_garden_tractors", "id": 8474688}]}

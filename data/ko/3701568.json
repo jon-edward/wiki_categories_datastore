@@ -1,1 +1,0 @@
-{"name": "DNA_결합_물질", "id": 3701568, "predecessors": [{"name": "DNA", "id": 37950}, {"name": "화합물", "id": 31627}, {"name": "유전학", "id": 11592}], "successors": [{"name": "DNA_결합_단백질", "id": 2503719}, {"name": "DNA_인터칼레이터", "id": 3701506}]}

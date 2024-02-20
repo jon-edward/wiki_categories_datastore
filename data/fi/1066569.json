@@ -1,1 +1,1 @@
-{"name": "Maatalouskonevalmistajat", "id": 1066569, "predecessors": [{"name": "Maatalouskoneet", "id": 70139}, {"name": "Teollisuus", "id": 24384}], "successors": []}
+{"name": "Maatalouskonevalmistajat", "id": 1066569, "predecessors": [{"name": "Maatalouskoneet", "id": 70139}, {"name": "Teollisuus", "id": 24384}, {"name": "Maatalous", "id": 25109}], "successors": []}

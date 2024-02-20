@@ -1,1 +1,1 @@
-{"name": "Ràtios_financeres", "id": 1267576, "predecessors": [{"name": "Anàlisi_financera", "id": 938582}, {"name": "Comptabilitat", "id": 144021}, {"name": "Empresa", "id": 462330}], "successors": []}
+{"name": "Ràtios_financeres", "id": 1267576, "predecessors": [{"name": "Anàlisi_financera", "id": 938582}, {"name": "Comptabilitat", "id": 144021}, {"name": "Finances_corporatives", "id": 1243222}], "successors": []}

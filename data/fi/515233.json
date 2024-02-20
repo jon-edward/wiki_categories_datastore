@@ -1,1 +1,1 @@
-{"name": "Puolalaiset_yritykset", "id": 515233, "predecessors": [{"name": "Yritykset", "id": 428190}, {"name": "Euroopan_neuvosto", "id": 382420}], "successors": [{"name": "Puolalaiset_levy-yhtiöt", "id": 579147}, {"name": "Puolalaiset_pörssiyhtiöt", "id": 1312769}]}
+{"name": "Puolalaiset_yritykset", "id": 515233, "predecessors": [{"name": "Liiketalous", "id": 27542}, {"name": "Euroopan_neuvosto", "id": 382420}], "successors": [{"name": "Puolalaiset_levy-yhtiöt", "id": 579147}, {"name": "Puolalaiset_pörssiyhtiöt", "id": 1312769}]}

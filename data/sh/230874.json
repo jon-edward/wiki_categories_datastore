@@ -1,1 +1,1 @@
-{"name": "Misterije", "id": 230874, "predecessors": [{"name": "Kriminal", "id": 20550}, {"name": "Nauka", "id": 18608}], "successors": [{"name": "Nestali_ljudi", "id": 124428}, {"name": "Ufologija", "id": 206924}]}
+{"name": "Misterije", "id": 230874, "predecessors": [{"name": "Kriminal", "id": 20550}, {"name": "Nauka", "id": 18608}], "successors": [{"name": "Nestale_osobe", "id": 124428}, {"name": "Ufologija", "id": 206924}]}

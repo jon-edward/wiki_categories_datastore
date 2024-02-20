@@ -1,1 +1,0 @@
-{"name": "Hydrolases", "id": 719747, "predecessors": [{"name": "Enzymes", "id": 702815}], "successors": [{"name": "EC_3.4", "id": 733592}, {"name": "EC_3.1", "id": 733605}, {"name": "Ribonucleases", "id": 9759652}, {"name": "Glycoside_hydrolase_families", "id": 17437843}, {"name": "Hydrolase_inhibitors", "id": 32657731}]}

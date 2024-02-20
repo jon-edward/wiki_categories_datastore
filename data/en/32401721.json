@@ -1,1 +1,1 @@
-{"name": "Church_buildings_converted_to_a_different_denomination", "id": 32401721, "predecessors": [{"name": "Christian_architecture", "id": 18985026}, {"name": "Religious_buildings_and_structures", "id": 1880790}], "successors": [{"name": "Hagia_Sophia", "id": 74427860}]}
+{"name": "Church_buildings_converted_to_a_different_denomination", "id": 32401721, "predecessors": [{"name": "Christian_architecture", "id": 18985026}, {"name": "Religious_conversion", "id": 3898965}], "successors": [{"name": "Hagia_Sophia", "id": 74427860}]}

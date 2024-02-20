@@ -1,1 +1,0 @@
-{"name": "ATA", "id": 2927313, "predecessors": [{"name": "IBM_PC_호환기종", "id": 1798561}, {"name": "컴퓨터_버스", "id": 317666}], "successors": [{"name": "직렬_ATA", "id": 2927311}]}

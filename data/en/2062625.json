@@ -1,1 +1,1 @@
-{"name": "Social_programs", "id": 2062625, "predecessors": [{"name": "Welfare_state", "id": 21761213}], "successors": [{"name": "Universal_health_care", "id": 24140264}, {"name": "Free_meals", "id": 32519289}]}
+{"name": "Social_programs", "id": 2062625, "predecessors": [{"name": "Welfare_state", "id": 21761213}, {"name": "Collaboration", "id": 2934593}], "successors": [{"name": "Universal_health_care", "id": 24140264}, {"name": "Free_meals", "id": 32519289}]}

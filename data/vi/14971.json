@@ -1,1 +1,0 @@
-{"name": "Hệ_quản_trị_cơ_sở_dữ_liệu", "id": 14971, "predecessors": [{"name": "Cơ_sở_dữ_liệu", "id": 7675}, {"name": "Phần_mềm", "id": 2314}, {"name": "Quản_trị_dữ_liệu", "id": 14974}], "successors": [{"name": "SQL", "id": 14930}, {"name": "NoSQL", "id": 19145116}]}

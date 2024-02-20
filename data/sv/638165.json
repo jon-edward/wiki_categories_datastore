@@ -1,1 +1,0 @@
-{"name": "Trafiksäkerhet", "id": 638165, "predecessors": [{"name": "Säkerhet", "id": 117350}, {"name": "Trafik", "id": 110729}, {"name": "Vägar", "id": 73795}], "successors": [{"name": "Bilsäkerhet", "id": 502268}, {"name": "Körteknik", "id": 1216200}, {"name": "Trafikbrott", "id": 3996182}, {"name": "Trafikhinder", "id": 4983748}]}

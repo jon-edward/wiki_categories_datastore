@@ -1,1 +1,0 @@
-{"name": "Livros_digitais", "id": 3625272, "predecessors": [{"name": "Livros_por_tipo", "id": 865293}, {"name": "Publicações_digitais", "id": 3620380}], "successors": [{"name": "Leitores_de_livros_digitais", "id": 2990544}, {"name": "Fornecedores_de_livros_digitais", "id": 3625283}]}

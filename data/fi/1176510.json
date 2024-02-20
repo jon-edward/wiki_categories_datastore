@@ -1,1 +1,1 @@
-{"name": "Lahden_kulttuuri", "id": 1176510, "predecessors": [{"name": "Lahti", "id": 42397}, {"name": "Kaupungit", "id": 20192}], "successors": [{"name": "Lahden_tapahtumat", "id": 170251}, {"name": "Lahden_patsaat_ja_veistokset", "id": 551270}]}
+{"name": "Lahden_kulttuuri", "id": 1176510, "predecessors": [{"name": "Lahti", "id": 42397}, {"name": "Kaupungit", "id": 20192}], "successors": [{"name": "Lahden_tapahtumat", "id": 170251}, {"name": "Lahden_media", "id": 384370}, {"name": "Lahden_patsaat_ja_veistokset", "id": 551270}]}

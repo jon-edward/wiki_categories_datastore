@@ -1,1 +1,0 @@
-{"name": "Adressage_réseau", "id": 1172041, "predecessors": [{"name": "Architecture_réseau", "id": 2477029}, {"name": "Identifiant", "id": 1014315}, {"name": "Protocole_réseau", "id": 314354}, {"name": "Standard_Internet", "id": 558857}], "successors": [{"name": "Domain_Name_System", "id": 1022685}]}

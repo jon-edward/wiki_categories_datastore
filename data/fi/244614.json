@@ -1,1 +1,1 @@
-{"name": "Venäläiset_öljy-yhtiöt", "id": 244614, "predecessors": [{"name": "Venäläiset_energiayhtiöt", "id": 373522}, {"name": "Yritykset", "id": 428190}], "successors": [{"name": "Gazprom", "id": 110175}]}
+{"name": "Venäläiset_öljy-yhtiöt", "id": 244614, "predecessors": [{"name": "Venäläiset_energiayhtiöt", "id": 373522}, {"name": "Liiketalous", "id": 27542}], "successors": [{"name": "Gazprom", "id": 110175}]}

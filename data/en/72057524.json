@@ -1,1 +1,1 @@
-{"name": "E_Line_(Los_Angeles_Metro)_stations", "id": 72057524, "predecessors": [{"name": "Public_transportation_in_Los_Angeles", "id": 28606895}, {"name": "Railway_stations_in_Los_Angeles_County,_California", "id": 18959835}], "successors": []}
+{"name": "E_Line_(Los_Angeles_Metro)_stations", "id": 72057524, "predecessors": [{"name": "Public_transportation_in_Los_Angeles", "id": 28606895}, {"name": "Los_Angeles_Metro_Rail", "id": 2116424}], "successors": []}

@@ -1,1 +1,0 @@
-{"name": "Polluant", "id": 2955603, "predecessors": [{"name": "Pollution", "id": 99469}], "successors": [{"name": "Pesticide", "id": 185299}, {"name": "Hydrocarbure_aromatique_polycyclique", "id": 2818121}, {"name": "Perturbateur_endocrinien", "id": 3588220}]}

@@ -1,1 +1,1 @@
-{"name": "Data_scientists", "id": 49143309, "predecessors": [{"name": "Information_scientists", "id": 60918831}, {"name": "Data_analysis", "id": 14482748}], "successors": [{"name": "Women_data_scientists", "id": 52704280}]}
+{"name": "Data_scientists", "id": 49143309, "predecessors": [{"name": "Data_science", "id": 72097483}, {"name": "Information_scientists", "id": 60918831}], "successors": [{"name": "Women_data_scientists", "id": 52704280}]}

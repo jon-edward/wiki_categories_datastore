@@ -1,1 +1,1 @@
-{"name": "Competicions_ciclistes_del_2023", "id": 2002069, "predecessors": [{"name": "Competicions_ciclistes", "id": 61315}, {"name": "Esdeveniments_del_2023", "id": 1989502}], "successors": [{"name": "UCI_World_Tour_2023", "id": 2008527}]}
+{"name": "Competicions_ciclistes_del_2023", "id": 2002069, "predecessors": [{"name": "Competicions_ciclistes", "id": 61315}, {"name": "Competicions_esportives", "id": 53516}], "successors": [{"name": "UCI_World_Tour_2023", "id": 2008527}]}

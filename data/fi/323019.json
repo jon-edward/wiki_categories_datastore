@@ -1,1 +1,1 @@
-{"name": "Yhdysvaltalaiset_öljy-yhtiöt", "id": 323019, "predecessors": [{"name": "Yhdysvaltalaiset_energiayhtiöt", "id": 376152}, {"name": "Yritykset", "id": 428190}], "successors": []}
+{"name": "Yhdysvaltalaiset_öljy-yhtiöt", "id": 323019, "predecessors": [{"name": "Liiketalous", "id": 27542}, {"name": "Energia", "id": 27703}], "successors": []}

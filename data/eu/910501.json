@@ -1,1 +1,1 @@
-{"name": "Haririk_gabeko_kokapena", "id": 910501, "predecessors": [{"name": "Haririk_gabeko_komunikazioa", "id": 910486}, {"name": "Teknologia_mugikorra", "id": 910503}, {"name": "Datuak", "id": 148130}], "successors": []}
+{"name": "Haririk_gabeko_kokapena", "id": 910501, "predecessors": [{"name": "Haririk_gabeko_komunikazioa", "id": 910486}, {"name": "Teknologia_mugikorra", "id": 910503}, {"name": "Datuak", "id": 148130}], "successors": [{"name": "Satelite_bidezko_nabigazio_sistemak", "id": 42568}]}

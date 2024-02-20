@@ -1,1 +1,1 @@
-{"name": "Kuopiolaiset_urheiluseurat", "id": 913634, "predecessors": [{"name": "Kuopion_urheilu", "id": 473090}, {"name": "Kuopio", "id": 19997}, {"name": "Suomalaiset_urheiluseurat", "id": 81289}], "successors": [{"name": "KalPan_pelaajat", "id": 558909}]}
+{"name": "Kuopiolaiset_urheiluseurat", "id": 913634, "predecessors": [{"name": "Kuopiolaiset_yhdistykset", "id": 679534}, {"name": "Kuopion_urheilu", "id": 473090}, {"name": "Suomalaiset_urheiluseurat", "id": 81289}], "successors": [{"name": "KalPan_pelaajat", "id": 558909}]}

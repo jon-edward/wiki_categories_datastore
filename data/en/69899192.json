@@ -1,1 +1,1 @@
-{"name": "Cancelled_amusement_parks", "id": 69899192, "predecessors": [{"name": "Unbuilt_buildings_and_structures", "id": 16587169}, {"name": "Unfinished_buildings_and_structures", "id": 28655342}, {"name": "Infrastructure", "id": 2962329}], "successors": []}
+{"name": "Cancelled_amusement_parks", "id": 69899192, "predecessors": [{"name": "Cancelled_projects", "id": 25624451}, {"name": "Unbuilt_buildings_and_structures", "id": 16587169}, {"name": "Unfinished_buildings_and_structures", "id": 28655342}, {"name": "Infrastructure", "id": 2962329}], "successors": []}

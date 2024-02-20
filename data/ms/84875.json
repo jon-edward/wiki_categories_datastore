@@ -1,1 +1,1 @@
-{"name": "Kinetik_kimia", "id": 84875, "predecessors": [{"name": "Kimia_fizik", "id": 84642}], "successors": []}
+{"name": "Kinetik_kimia", "id": 84875, "predecessors": [{"name": "Kimia_fizik", "id": 84642}], "successors": [{"name": "Pemangkinan", "id": 1040823}, {"name": "Enzim", "id": 84873}]}

@@ -1,1 +1,1 @@
-{"name": "Tulli", "id": 46817, "predecessors": [{"name": "Kansainvälinen_kauppa", "id": 976853}, {"name": "Rajat", "id": 1041013}, {"name": "Verotus", "id": 32366}], "successors": [{"name": "Tullivirkamiehet", "id": 1167939}, {"name": "Suomen_tulli", "id": 1357342}]}
+{"name": "Tulli", "id": 46817, "predecessors": [{"name": "Kansainvälinen_kauppa", "id": 976853}, {"name": "Rajavalvonta", "id": 190204}, {"name": "Verotus", "id": 32366}], "successors": [{"name": "Tullivirkamiehet", "id": 1167939}, {"name": "Suomen_tulli", "id": 1357342}]}

@@ -1,1 +1,0 @@
-{"name": "POSIX", "id": 1096702, "predecessors": [{"name": "IEEE_표준", "id": 28115}, {"name": "오픈_그룹_표준", "id": 2705077}, {"name": "운영_체제_API", "id": 2292097}, {"name": "컴퓨터_표준", "id": 662635}], "successors": [{"name": "C_POSIX_라이브러리", "id": 1982422}]}

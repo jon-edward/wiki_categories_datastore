@@ -1,1 +1,1 @@
-{"name": "Espainiako_telesailak", "id": 93598, "predecessors": [{"name": "Espainiako_telebista", "id": 291627}], "successors": [{"name": "Kataluniako_telesailak", "id": 161160}]}
+{"name": "Espainiako_telesailak", "id": 93598, "predecessors": [{"name": "Telesailak", "id": 24473}, {"name": "Espainiako_telebista", "id": 291627}], "successors": [{"name": "Kataluniako_telesailak", "id": 161160}]}

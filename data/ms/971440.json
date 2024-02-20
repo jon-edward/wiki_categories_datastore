@@ -1,1 +1,1 @@
-{"name": "Fisiologi_tumbuhan", "id": 971440, "predecessors": [{"name": "Fisiologi", "id": 76443}, {"name": "Tumbuhan", "id": 27952}, {"name": "Botani", "id": 20176}], "successors": []}
+{"name": "Fisiologi_tumbuhan", "id": 971440, "predecessors": [{"name": "Fisiologi", "id": 76443}, {"name": "Tumbuhan", "id": 27952}, {"name": "Botani", "id": 20176}], "successors": [{"name": "Fotosintesis", "id": 840226}]}

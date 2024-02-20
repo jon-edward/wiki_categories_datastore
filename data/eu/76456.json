@@ -1,1 +1,1 @@
-{"name": "Ammoniteak", "id": 76456, "predecessors": [{"name": "Fosilak", "id": 59931}, {"name": "Moluskuak", "id": 139877}, {"name": "Animaliak", "id": 6556}], "successors": [{"name": "Kretazeoko_ammoniteak", "id": 76779}]}
+{"name": "Ammoniteak", "id": 76456, "predecessors": [{"name": "Animaliak", "id": 6556}], "successors": [{"name": "Kretazeoko_ammoniteak", "id": 76779}]}

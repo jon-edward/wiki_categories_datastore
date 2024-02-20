@@ -1,1 +1,1 @@
-{"name": "Euskal_Herriko_dorreak", "id": 655745, "predecessors": [{"name": "Dorreak", "id": 8114}, {"name": "Eraikinak", "id": 120999}], "successors": [{"name": "Euskal_Herriko_etxe_orratzak", "id": 297822}, {"name": "Bizkaiko_itsasargiak", "id": 541898}]}
+{"name": "Euskal_Herriko_dorreak", "id": 655745, "predecessors": [{"name": "Dorreak", "id": 8114}], "successors": [{"name": "Euskal_Herriko_etxe_orratzak", "id": 297822}, {"name": "Lapurdiko_itsasargiak", "id": 541896}, {"name": "Bizkaiko_itsasargiak", "id": 541898}]}

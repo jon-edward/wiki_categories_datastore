@@ -1,1 +1,1 @@
-{"name": "Antzinaroko_eskultura", "id": 591523, "predecessors": [{"name": "Eskultura", "id": 238608}], "successors": [{"name": "Antzinako_Greziako_eskultura", "id": 668613}, {"name": "Antzinako_Erromako_eskultura", "id": 668784}]}
+{"name": "Antzinaroko_eskultura", "id": 591523, "predecessors": [{"name": "Eskultura", "id": 238608}, {"name": "Antzinaroa", "id": 41660}], "successors": [{"name": "Antzinako_Greziako_eskultura", "id": 668613}, {"name": "Antzinako_Erromako_eskultura", "id": 668784}]}

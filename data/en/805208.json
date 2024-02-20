@@ -1,1 +1,1 @@
-{"name": "Diving_medicine", "id": 805208, "predecessors": [{"name": "Military_medicine", "id": 1046649}, {"name": "Sports_medicine", "id": 3919497}, {"name": "Research_and_development", "id": 3594251}], "successors": []}
+{"name": "Underwater_diving_medicine", "id": 805208, "predecessors": [{"name": "Military_medicine", "id": 1046649}, {"name": "Sports_medicine", "id": 3919497}, {"name": "Research_and_development", "id": 3594251}], "successors": []}

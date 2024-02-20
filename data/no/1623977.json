@@ -1,1 +1,1 @@
-{"name": "NM_i_hopp_uten_tilløp", "id": 1623977, "predecessors": [{"name": "NM_i_friidrett", "id": 582873}], "successors": []}
+{"name": "NM_i_hopp_uten_tilløp", "id": 1623977, "predecessors": [{"name": "NM_i_friidrett", "id": 582873}, {"name": "NM_i_friidrett_innendørs", "id": 1075560}], "successors": []}

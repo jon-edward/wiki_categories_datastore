@@ -1,1 +1,1 @@
-{"name": "Kuopion_nähtävyydet", "id": 173806, "predecessors": [{"name": "Kuopio", "id": 19997}, {"name": "Pohjois-Savo", "id": 41409}], "successors": [{"name": "Kuopion_kirkot", "id": 473919}, {"name": "Kuopion_museot", "id": 1466827}]}
+{"name": "Kuopion_nähtävyydet", "id": 173806, "predecessors": [{"name": "Pohjois-Savo", "id": 41409}], "successors": [{"name": "Kuopion_kirkot", "id": 473919}, {"name": "Kuopion_museot", "id": 1466827}]}

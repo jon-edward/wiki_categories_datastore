@@ -1,1 +1,1 @@
-{"name": "Socia_politiko", "id": 439661, "predecessors": [{"name": "Politiko", "id": 36390}], "successors": [{"name": "Sociaj_problemoj", "id": 439660}, {"name": "Labora_juro", "id": 226537}]}
+{"name": "Socia_politiko", "id": 439661, "predecessors": [{"name": "Politiko", "id": 36390}], "successors": [{"name": "Sociaj_problemoj", "id": 439660}, {"name": "Publika_politiko", "id": 595056}, {"name": "Labora_juro", "id": 226537}]}

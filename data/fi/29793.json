@@ -1,1 +1,1 @@
-{"name": "Neurologiset_poikkeavuudet", "id": 29793, "predecessors": [{"name": "Neurologiset_sairaudet", "id": 29635}], "successors": [{"name": "Autismi", "id": 20319}, {"name": "Neuropsykologia", "id": 505852}]}
+{"name": "Neurologiset_poikkeavuudet", "id": 29793, "predecessors": [{"name": "Neurologia", "id": 29636}], "successors": [{"name": "Autismi", "id": 20319}, {"name": "Neuropsykologia", "id": 505852}, {"name": "Tourette-henkilöt", "id": 1352276}]}

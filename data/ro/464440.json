@@ -1,1 +1,1 @@
-{"name": "Albume_Westlife", "id": 464440, "predecessors": [{"name": "Westlife", "id": 464439}, {"name": "Oameni_în_artă", "id": 1183750}, {"name": "Artă", "id": 22407}], "successors": []}
+{"name": "Albume_Westlife", "id": 464440, "predecessors": [{"name": "Westlife", "id": 464439}, {"name": "Albume_muzicale", "id": 50801}, {"name": "Artă", "id": 22407}], "successors": []}

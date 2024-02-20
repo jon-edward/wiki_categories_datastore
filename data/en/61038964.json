@@ -1,1 +1,1 @@
-{"name": "Harvest_deities", "id": 61038964, "predecessors": [{"name": "Agricultural_deities", "id": 709684}, {"name": "Harvest", "id": 21024994}], "successors": [{"name": "Yakshas", "id": 60303821}, {"name": "Harvest_goddesses", "id": 62001069}, {"name": "Harvest_gods", "id": 63488372}]}
+{"name": "Harvest_deities", "id": 61038964, "predecessors": [{"name": "Agricultural_deities", "id": 709684}], "successors": [{"name": "Yakshas", "id": 60303821}, {"name": "Harvest_goddesses", "id": 62001069}, {"name": "Harvest_gods", "id": 63488372}]}

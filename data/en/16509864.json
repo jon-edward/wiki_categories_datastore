@@ -1,1 +1,1 @@
-{"name": "Pedestrian_malls", "id": 16509864, "predecessors": [{"name": "Pedestrian_infrastructure", "id": 11193164}, {"name": "Retail_formats", "id": 60643813}, {"name": "Shopping_districts_and_streets", "id": 6126785}], "successors": []}
+{"name": "Pedestrian_malls", "id": 16509864, "predecessors": [{"name": "Retail_formats", "id": 60643813}, {"name": "Cartography", "id": 716309}, {"name": "Shopping_districts_and_streets", "id": 6126785}], "successors": []}

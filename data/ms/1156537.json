@@ -1,1 +1,1 @@
-{"name": "Pengubahsuaian_pascatranslasi", "id": 1156537, "predecessors": [{"name": "Struktur_protein", "id": 1134943}, {"name": "Biokimia", "id": 74622}, {"name": "Metabolisme", "id": 306048}], "successors": []}
+{"name": "Pengubahsuaian_pascatranslasi", "id": 1156537, "predecessors": [{"name": "Ekspresi_gen", "id": 1156713}, {"name": "Struktur_protein", "id": 1134943}, {"name": "Biokimia", "id": 74622}, {"name": "Metabolisme", "id": 306048}], "successors": []}

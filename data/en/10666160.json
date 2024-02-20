@@ -1,1 +1,1 @@
-{"name": "Stairways", "id": 10666160, "predecessors": [{"name": "Garden_features", "id": 25138706}, {"name": "Pedestrian_infrastructure", "id": 11193164}], "successors": [{"name": "Ladders", "id": 36507363}, {"name": "Stairways_in_the_United_States", "id": 51384842}]}
+{"name": "Stairways", "id": 10666160, "predecessors": [{"name": "Garden_features", "id": 25138706}], "successors": [{"name": "Ladders", "id": 36507363}, {"name": "Stairways_in_the_United_States", "id": 51384842}]}

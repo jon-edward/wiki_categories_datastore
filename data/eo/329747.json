@@ -1,1 +1,1 @@
-{"name": "Aviadaj_muzeoj", "id": 329747, "predecessors": [{"name": "Aviado", "id": 35824}, {"name": "Historio_de_transporto", "id": 314849}], "successors": []}
+{"name": "Aviadaj_muzeoj", "id": 329747, "predecessors": [{"name": "Transportaj_muzeoj", "id": 315181}, {"name": "Aviado", "id": 35824}], "successors": []}

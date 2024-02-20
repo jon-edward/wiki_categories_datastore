@@ -1,1 +1,1 @@
-{"name": "Ikusmen-sistema", "id": 1068240, "predecessors": [{"name": "Ikusmena", "id": 159398}, {"name": "Zentzumen-sistema", "id": 1002897}], "successors": [{"name": "Begia", "id": 56082}, {"name": "Oftalmologia", "id": 56083}, {"name": "Gaixotasun_oftalmologikoak", "id": 56087}]}
+{"name": "Ikusmen-sistema", "id": 1068240, "predecessors": [{"name": "Ikusmena", "id": 159398}], "successors": [{"name": "Begia", "id": 56082}, {"name": "Oftalmologia", "id": 56083}, {"name": "Gaixotasun_oftalmologikoak", "id": 56087}]}

@@ -1,1 +1,1 @@
-{"name": "Disney-videopelit", "id": 1080440, "predecessors": [{"name": "Disney", "id": 199966}, {"name": "Elektroniset_pelit", "id": 1294219}], "successors": [{"name": "Kingdom_Hearts_-pelit", "id": 1017605}]}
+{"name": "Disney-videopelit", "id": 1080440, "predecessors": [{"name": "Disney", "id": 199966}, {"name": "Videopelit", "id": 839380}], "successors": [{"name": "Kingdom_Hearts_-pelit", "id": 1017605}]}

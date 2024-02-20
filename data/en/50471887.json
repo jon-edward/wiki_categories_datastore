@@ -1,1 +1,1 @@
-{"name": "Oil-bearing_shales_in_Canada", "id": 50471887, "predecessors": [{"name": "Reservoir_rock_formations", "id": 55085903}, {"name": "Shale_formations", "id": 47510353}, {"name": "Source_rock_formations", "id": 55085917}, {"name": "Petroleum", "id": 700634}], "successors": [{"name": "Western_Canadian_Sedimentary_Basin", "id": 50359618}]}
+{"name": "Oil-bearing_shales_in_Canada", "id": 50471887, "predecessors": [{"name": "Shale_formations", "id": 47510353}], "successors": [{"name": "Western_Canadian_Sedimentary_Basin", "id": 50359618}]}

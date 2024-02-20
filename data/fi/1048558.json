@@ -1,1 +1,1 @@
-{"name": "Vanhan_testamentin_apokryfit", "id": 1048558, "predecessors": [{"name": "Vanha_testamentti", "id": 232105}, {"name": "Eksegetiikka", "id": 34476}], "successors": [{"name": "Deuterokanoniset_kirjat", "id": 1048560}]}
+{"name": "Vanhan_testamentin_apokryfit", "id": 1048558, "predecessors": [{"name": "Eksegetiikka", "id": 34476}, {"name": "Antiikin_kirjallisuus", "id": 788608}], "successors": [{"name": "Deuterokanoniset_kirjat", "id": 1048560}]}

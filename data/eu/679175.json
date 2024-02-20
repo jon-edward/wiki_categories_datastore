@@ -1,1 +1,1 @@
-{"name": "Gripeak_hildakoak", "id": 679175, "predecessors": [{"name": "Airetik_transmititutako_gaixotasunak", "id": 976160}, {"name": "Gaixotasun_infekziosoak", "id": 6806}], "successors": [{"name": "1918ko_gripe_pandemiak_hildakoak", "id": 941697}]}
+{"name": "Gripeak_hildakoak", "id": 679175, "predecessors": [{"name": "Gaixotasun_infekziosoak", "id": 6806}, {"name": "Animalien_gaixotasun_birikoak", "id": 976150}], "successors": [{"name": "1918ko_gripe_pandemiak_hildakoak", "id": 941697}]}

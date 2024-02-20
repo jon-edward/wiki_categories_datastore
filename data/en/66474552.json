@@ -1,1 +1,1 @@
-{"name": "Yeomen", "id": 66474552, "predecessors": [{"name": "Agriculture", "id": 694871}, {"name": "Land_tenure", "id": 49153374}], "successors": [{"name": "Yeomanry_regiments_of_the_British_Army", "id": 10775681}]}
+{"name": "Yeomen", "id": 66474552, "predecessors": [{"name": "Land_tenure", "id": 49153374}, {"name": "Employment_classifications", "id": 15387066}], "successors": [{"name": "Yeomanry_regiments_of_the_British_Army", "id": 10775681}]}

@@ -1,1 +1,1 @@
-{"name": "Ridesharing_companies", "id": 43629584, "predecessors": [{"name": "Online_marketplaces", "id": 51773390}, {"name": "Taxis", "id": 1018520}, {"name": "Transport_software", "id": 28607430}], "successors": [{"name": "Ridesharing_companies_of_the_United_States", "id": 61856649}]}
+{"name": "Ridesharing_companies", "id": 43629584, "predecessors": [{"name": "Online_marketplaces", "id": 51773390}, {"name": "Transport_software", "id": 28607430}], "successors": [{"name": "Ridesharing_companies_of_the_United_States", "id": 61856649}]}

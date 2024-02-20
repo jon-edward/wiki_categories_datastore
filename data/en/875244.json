@@ -1,1 +1,1 @@
-{"name": "Dumplings", "id": 875244, "predecessors": [{"name": "Cuisine", "id": 713870}, {"name": "Doughs", "id": 23464533}], "successors": [{"name": "Steamed_buns", "id": 56336819}]}
+{"name": "Dumplings", "id": 875244, "predecessors": [{"name": "Cuisine", "id": 713870}], "successors": [{"name": "Steamed_buns", "id": 56336819}]}

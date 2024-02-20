@@ -1,1 +1,1 @@
-{"name": "Arnasketa_terapia", "id": 974001, "predecessors": [{"name": "Pneumologia", "id": 48518}, {"name": "Osasun-zainketa", "id": 344267}], "successors": []}
+{"name": "Arnasketa_terapia", "id": 974001, "predecessors": [{"name": "Pneumologia", "id": 48518}, {"name": "Osasun-zainketa", "id": 344267}], "successors": [{"name": "Bronkozabaltzaileak", "id": 90263}]}

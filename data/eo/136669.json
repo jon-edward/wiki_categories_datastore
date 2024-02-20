@@ -1,1 +1,1 @@
-{"name": "Manĝeblaj_fiŝoj", "id": 136669, "predecessors": [{"name": "Fiŝoj", "id": 23385}], "successors": [{"name": "Malvarmakvaj_fiŝoj", "id": 136662}, {"name": "Fiŝaĵoj", "id": 654681}]}
+{"name": "Manĝeblaj_fiŝoj", "id": 136669, "predecessors": [{"name": "Fiŝoj_kaj_homoj", "id": 654682}], "successors": [{"name": "Malvarmakvaj_fiŝoj", "id": 136662}, {"name": "Fiŝaĵoj", "id": 654681}]}

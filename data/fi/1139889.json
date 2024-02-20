@@ -1,1 +1,1 @@
-{"name": "Porin_kulttuuri", "id": 1139889, "predecessors": [{"name": "Pori", "id": 49649}, {"name": "Kaupungit", "id": 20192}], "successors": [{"name": "Porin_patsaat_ja_veistokset", "id": 353168}]}
+{"name": "Porin_kulttuuri", "id": 1139889, "predecessors": [{"name": "Satakunta", "id": 173840}, {"name": "Kaupungit", "id": 20192}], "successors": [{"name": "Porin_musiikki", "id": 168091}, {"name": "Porin_media", "id": 175493}, {"name": "Porin_tapahtumat", "id": 221396}, {"name": "Porin_patsaat_ja_veistokset", "id": 353168}]}

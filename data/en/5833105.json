@@ -1,1 +1,1 @@
-{"name": "Brand_name_cookies", "id": 5833105, "predecessors": [{"name": "Brand_name_desserts", "id": 18083148}, {"name": "Brand_name_snack_foods", "id": 5827977}, {"name": "Cookies", "id": 1864543}], "successors": [{"name": "Biscuit_brands", "id": 29404781}]}
+{"name": "Brand_name_cookies", "id": 5833105, "predecessors": [{"name": "Cookies", "id": 1864543}], "successors": [{"name": "Biscuit_brands", "id": 29404781}]}

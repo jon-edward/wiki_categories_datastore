@@ -1,1 +1,1 @@
-{"name": "Funtzio_bereziak", "id": 165367, "predecessors": [{"name": "Funtzio_motak", "id": 989712}, {"name": "Funtzioak", "id": 121845}, {"name": "Geometria_diferentziala", "id": 162852}, {"name": "Analisi_matematikoa", "id": 121796}], "successors": []}
+{"name": "Funtzio_bereziak", "id": 165367, "predecessors": [{"name": "Funtzio_motak", "id": 989712}, {"name": "Funtzioak", "id": 121845}, {"name": "Geometria_diferentziala", "id": 162852}, {"name": "Analisi_matematikoa", "id": 121796}], "successors": [{"name": "Funtzio_hiperbolikoak", "id": 646615}]}

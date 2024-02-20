@@ -1,1 +1,1 @@
-{"name": "Servicii_web", "id": 397226, "predecessors": [{"name": "Servicii", "id": 11022}, {"name": "Internet", "id": 12210}], "successors": [{"name": "Servicii_Google", "id": 575769}]}
+{"name": "Servicii_web", "id": 397226, "predecessors": [{"name": "Servicii", "id": 11022}, {"name": "Cunoaștere", "id": 749849}], "successors": [{"name": "Servicii_Google", "id": 575769}]}

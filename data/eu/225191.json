@@ -1,1 +1,1 @@
-{"name": "Mexikoko_gastronomia", "id": 225191, "predecessors": [{"name": "Gastronomia", "id": 6165}, {"name": "Mexiko", "id": 8655}, {"name": "Amerika", "id": 4312}], "successors": []}
+{"name": "Mexikoko_gastronomia", "id": 225191, "predecessors": [{"name": "Gastronomia", "id": 6165}, {"name": "Kultura", "id": 7633}, {"name": "Amerika", "id": 4312}], "successors": [{"name": "Tex-Mex_gastronomia", "id": 1058957}]}

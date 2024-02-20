@@ -1,1 +1,1 @@
-{"name": "Linux_magazines", "id": 5671870, "predecessors": [{"name": "Printing", "id": 774014}], "successors": []}
+{"name": "Linux_magazines", "id": 5671870, "predecessors": [{"name": "Linux", "id": 694804}, {"name": "Printing", "id": 774014}], "successors": []}

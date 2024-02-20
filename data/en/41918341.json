@@ -1,1 +1,1 @@
-{"name": "Charitable_hospitals", "id": 41918341, "predecessors": [{"name": "Health_charities", "id": 1490887}, {"name": "Hospitals", "id": 791496}], "successors": []}
+{"name": "Charitable_hospitals", "id": 41918341, "predecessors": [{"name": "Health_charities", "id": 1490887}, {"name": "Types_of_hospitals", "id": 71789932}], "successors": []}

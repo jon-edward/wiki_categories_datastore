@@ -1,1 +1,0 @@
-{"name": "IRC", "id": 227402, "predecessors": [{"name": "Internet", "id": 57109}, {"name": "Nätkulturer", "id": 1502803}, {"name": "Nätverksprotokoll", "id": 122411}], "successors": [{"name": "IRC-nätverk", "id": 227398}, {"name": "IRC-klienter", "id": 227405}]}

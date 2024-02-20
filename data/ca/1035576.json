@@ -1,1 +1,1 @@
-{"name": "Illes_volcàniques", "id": 1035576, "predecessors": [{"name": "Accidents_geogràfics", "id": 185863}, {"name": "Vulcanologia", "id": 20454}], "successors": [{"name": "Tenerife", "id": 267361}, {"name": "Lanzarote", "id": 284798}]}
+{"name": "Illes_volcàniques", "id": 1035576, "predecessors": [{"name": "Volcans", "id": 26621}, {"name": "Accidents_geogràfics", "id": 185863}], "successors": [{"name": "Tenerife", "id": 267361}, {"name": "Lanzarote", "id": 284798}]}

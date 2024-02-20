@@ -1,1 +1,1 @@
-{"name": "German_opinion_journalists", "id": 23841797, "predecessors": [{"name": "German_columnists", "id": 31473552}, {"name": "German_journalists", "id": 1076730}], "successors": []}
+{"name": "German_opinion_journalists", "id": 23841797, "predecessors": [{"name": "German_journalists", "id": 1076730}], "successors": [{"name": "German_columnists", "id": 31473552}]}

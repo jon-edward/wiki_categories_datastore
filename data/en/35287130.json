@@ -1,1 +1,0 @@
-{"name": "Rice_production_by_country", "id": 35287130, "predecessors": [{"name": "Rice_production", "id": 22075030}, {"name": "Agriculture_by_country", "id": 2300147}], "successors": [{"name": "Rice_production_in_India", "id": 42193073}, {"name": "Rice_production_in_the_United_States", "id": 50883988}]}

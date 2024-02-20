@@ -1,1 +1,1 @@
-{"name": "Racun_serangga", "id": 1156822, "predecessors": [{"name": "Bahan_kimia", "id": 84676}], "successors": []}
+{"name": "Racun_serangga", "id": 1156822, "predecessors": [{"name": "Pertanian", "id": 74936}, {"name": "Bahan", "id": 58300}], "successors": []}

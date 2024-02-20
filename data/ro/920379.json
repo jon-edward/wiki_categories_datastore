@@ -1,1 +1,1 @@
-{"name": "Locuință", "id": 920379, "predecessors": [{"name": "Adăposturi", "id": 189044}, {"name": "Viață_privată", "id": 760561}], "successors": [{"name": "Bucătărie", "id": 29289}, {"name": "Chimicale_de_uz_casnic", "id": 919445}]}
+{"name": "Locuință", "id": 920379, "predecessors": [{"name": "Adăposturi", "id": 189044}, {"name": "Viață_privată", "id": 760561}], "successors": [{"name": "Bucătărie", "id": 29289}]}

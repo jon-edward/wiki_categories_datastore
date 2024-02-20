@@ -1,1 +1,1 @@
-{"name": "Rawatan_perubatan", "id": 58311, "predecessors": [{"name": "Perubatan", "id": 8047}], "successors": [{"name": "Dadah", "id": 42392}, {"name": "Ubat", "id": 58309}, {"name": "Pembedahan", "id": 82301}, {"name": "Terapi", "id": 86411}]}
+{"name": "Rawatan_perubatan", "id": 58311, "predecessors": [{"name": "Perubatan", "id": 8047}], "successors": [{"name": "Dadah", "id": 42392}, {"name": "Ubat", "id": 58309}, {"name": "Pembedahan", "id": 82301}, {"name": "Terapi", "id": 86411}, {"name": "Kejuruteraan_biologi", "id": 1173302}]}

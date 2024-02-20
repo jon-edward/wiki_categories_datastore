@@ -1,1 +1,0 @@
-{"name": "Frozen_food", "id": 67278943, "predecessors": [{"name": "Food_preservation", "id": 999907}, {"name": "Food_storage", "id": 18859537}], "successors": [{"name": "Frozen_desserts", "id": 6441285}, {"name": "Frozen_food_brands", "id": 10042612}]}

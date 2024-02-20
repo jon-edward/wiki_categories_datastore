@@ -1,1 +1,1 @@
-{"name": "Päihdepolitiikka", "id": 45276, "predecessors": [{"name": "Päihteet", "id": 24630}, {"name": "Sosiaalipolitiikka", "id": 26847}], "successors": [{"name": "Huumerikolliset", "id": 46223}, {"name": "Raittiusliike", "id": 631539}]}
+{"name": "Päihdepolitiikka", "id": 45276, "predecessors": [{"name": "Päihteet", "id": 24630}, {"name": "Terveydenhoito", "id": 25163}], "successors": [{"name": "Huumerikolliset", "id": 46223}, {"name": "Raittiusliike", "id": 631539}]}

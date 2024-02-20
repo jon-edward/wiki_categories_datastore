@@ -1,1 +1,1 @@
-{"name": "Coffee_varieties", "id": 25631287, "predecessors": [{"name": "Coffea", "id": 24624342}, {"name": "Food_plant_cultivars", "id": 39613582}], "successors": []}
+{"name": "Coffee_varieties", "id": 25631287, "predecessors": [{"name": "Food_plant_cultivars", "id": 39613582}], "successors": []}

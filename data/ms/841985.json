@@ -1,1 +1,1 @@
-{"name": "Respirasi_sel", "id": 841985, "predecessors": [{"name": "Biokimia", "id": 74622}, {"name": "Metabolisme", "id": 306048}, {"name": "Fisiologi_haiwan", "id": 161535}], "successors": []}
+{"name": "Respirasi_sel", "id": 841985, "predecessors": [{"name": "Biokimia", "id": 74622}, {"name": "Metabolisme", "id": 306048}, {"name": "Fisiologi_haiwan", "id": 161535}, {"name": "Fisiologi", "id": 76443}], "successors": []}

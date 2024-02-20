@@ -1,1 +1,1 @@
-{"name": "Zenbaki_errealak", "id": 950203, "predecessors": [{"name": "Analisi_erreala", "id": 950204}, {"name": "Zenbakiak", "id": 8612}], "successors": [{"name": "Zenbaki_irrazionalak", "id": 8708}, {"name": "Konstante_fisikoak", "id": 33616}]}
+{"name": "Zenbaki_errealak", "id": 950203, "predecessors": [{"name": "Analisi_erreala", "id": 950204}, {"name": "Zenbakiak", "id": 8612}], "successors": [{"name": "Zenbaki_irrazionalak", "id": 8708}, {"name": "Konstante_fisikoak", "id": 33616}, {"name": "Zero", "id": 583998}, {"name": "Bat", "id": 950198}]}

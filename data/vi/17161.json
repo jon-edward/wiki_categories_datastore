@@ -1,1 +1,0 @@
-{"name": "Virus", "id": 17161, "predecessors": [{"name": "Bệnh", "id": 16308}, {"name": "Vi_sinh_vật", "id": 66463}, {"name": "Vi_sinh_vật_học", "id": 12912}], "successors": [{"name": "Cúm", "id": 17162}, {"name": "Enzyme_virus", "id": 17163}, {"name": "Virus_herpes", "id": 562113}, {"name": "Nidovirales", "id": 18997270}, {"name": "Lentivirus", "id": 1407214}]}

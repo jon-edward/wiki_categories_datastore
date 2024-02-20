@@ -1,1 +1,1 @@
-{"name": "Lahtelaiset_urheiluseurat", "id": 913625, "predecessors": [{"name": "Lahden_urheilu", "id": 473179}, {"name": "Suomalaiset_urheiluseurat", "id": 81289}], "successors": [{"name": "Pelicansin_pelaajat", "id": 159401}]}
+{"name": "Lahtelaiset_urheiluseurat", "id": 913625, "predecessors": [{"name": "Lahden_urheilu", "id": 473179}, {"name": "Lahti", "id": 42397}, {"name": "Suomalaiset_urheiluseurat", "id": 81289}], "successors": [{"name": "Pelicansin_pelaajat", "id": 159401}]}

@@ -1,1 +1,1 @@
-{"name": "Venäläiset_pankit", "id": 373371, "predecessors": [{"name": "Venäläiset_yritykset", "id": 466383}, {"name": "Pankit", "id": 27805}], "successors": []}
+{"name": "Venäläiset_pankit", "id": 373371, "predecessors": [{"name": "Pankit", "id": 27805}, {"name": "Venäläiset_yritykset", "id": 466383}], "successors": []}

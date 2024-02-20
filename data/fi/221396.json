@@ -1,1 +1,1 @@
-{"name": "Porin_tapahtumat", "id": 221396, "predecessors": [{"name": "Pori", "id": 49649}, {"name": "Kaupungit", "id": 20192}], "successors": [{"name": "Porin_urheilutapahtumat", "id": 1370131}]}
+{"name": "Porin_tapahtumat", "id": 221396, "predecessors": [{"name": "Porin_kulttuuri", "id": 1139889}, {"name": "Kaupungit", "id": 20192}], "successors": [{"name": "Porin_urheilutapahtumat", "id": 1370131}]}

@@ -1,1 +1,1 @@
-{"name": "Vegetarian_cookbooks", "id": 32116233, "predecessors": [{"name": "Books_about_vegetarianism", "id": 62134960}, {"name": "Cookbooks", "id": 979207}, {"name": "Vegetarian_cuisine", "id": 1171878}], "successors": [{"name": "Vegetarian_cookbook_writers", "id": 69707243}]}
+{"name": "Vegetarian_cookbooks", "id": 32116233, "predecessors": [{"name": "Cookbooks", "id": 979207}, {"name": "Vegetarian_cuisine", "id": 1171878}], "successors": [{"name": "Vegetarian_cookbook_writers", "id": 69707243}]}

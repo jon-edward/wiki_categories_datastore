@@ -1,1 +1,1 @@
-{"name": "Diarrhea", "id": 31039123, "predecessors": [{"name": "Conditions_diagnosed_by_stool_test", "id": 9046250}, {"name": "Waterborne_diseases", "id": 29332974}], "successors": []}
+{"name": "Diarrhea", "id": 31039123, "predecessors": [{"name": "Conditions_diagnosed_by_stool_test", "id": 9046250}], "successors": []}

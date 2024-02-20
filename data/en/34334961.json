@@ -1,1 +1,1 @@
-{"name": "Climate_change_and_agriculture", "id": 34334961, "predecessors": [{"name": "Agriculture_and_the_environment", "id": 25399957}, {"name": "Climate_change_and_society", "id": 34332259}, {"name": "Environmental_impact_of_agriculture", "id": 17018080}], "successors": [{"name": "Southeast_Asian_haze", "id": 39735363}]}
+{"name": "Climate_change_and_agriculture", "id": 34334961, "predecessors": [{"name": "Climate_change_and_society", "id": 34332259}], "successors": [{"name": "Southeast_Asian_haze", "id": 39735363}]}

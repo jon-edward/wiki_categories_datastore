@@ -1,1 +1,1 @@
-{"name": "Urheilupelit", "id": 115284, "predecessors": [{"name": "Elektroniset_pelit", "id": 1294219}], "successors": [{"name": "Mario-urheilupelit", "id": 186160}, {"name": "Jalkapalloaiheiset_pelit", "id": 233599}, {"name": "Olympia-aiheiset_pelit", "id": 1606377}]}
+{"name": "Urheilupelit", "id": 115284, "predecessors": [{"name": "Videopelit", "id": 839380}], "successors": [{"name": "Mario-urheilupelit", "id": 186160}, {"name": "Jalkapalloaiheiset_pelit", "id": 233599}, {"name": "Olympia-aiheiset_pelit", "id": 1606377}]}

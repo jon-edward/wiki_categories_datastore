@@ -1,1 +1,1 @@
-{"name": "Računari", "id": 237870, "predecessors": [{"name": "Komunikacije", "id": 47770}, {"name": "Računarstvo", "id": 2014}, {"name": "Tehnologija", "id": 46561}], "successors": []}
+{"name": "Računari", "id": 237870, "predecessors": [{"name": "Kompjuteri", "id": 46904}, {"name": "Komunikacije", "id": 47770}, {"name": "Računarstvo", "id": 2014}, {"name": "Tehnologija", "id": 46561}], "successors": []}

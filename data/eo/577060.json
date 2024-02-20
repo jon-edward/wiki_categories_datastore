@@ -1,1 +1,1 @@
-{"name": "Ceramikaj_materialoj", "id": 577060, "predecessors": [{"name": "Ceramiko", "id": 302320}, {"name": "Materialoj", "id": 82979}], "successors": [{"name": "Terakoto", "id": 599387}, {"name": "Minado_de_kaolino_en_Ĉeĥio", "id": 766038}]}
+{"name": "Ceramikaj_materialoj", "id": 577060, "predecessors": [{"name": "Ceramiko", "id": 302320}, {"name": "Materialoj", "id": 82979}], "successors": [{"name": "Terakoto", "id": 599387}, {"name": "Brikaj_konstruaĵoj", "id": 495900}, {"name": "Minado_de_kaolino_en_Ĉeĥio", "id": 766038}]}

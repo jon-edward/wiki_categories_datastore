@@ -1,1 +1,1 @@
-{"name": "Komunitate_motak", "id": 948448, "predecessors": [{"name": "Antolaketa_motak", "id": 948450}, {"name": "Emergentzia", "id": 960899}], "successors": [{"name": "Komunitate_birtualak", "id": 990338}]}
+{"name": "Komunitate_motak", "id": 948448, "predecessors": [{"name": "Antolaketa_motak", "id": 948450}, {"name": "Emergentzia", "id": 960899}, {"name": "Gizarte_taldeak", "id": 98161}], "successors": [{"name": "Komunitate_birtualak", "id": 990338}]}

@@ -1,1 +1,1 @@
-{"name": "Wolves_in_art", "id": 47186965, "predecessors": [{"name": "Mammals_in_art", "id": 47186986}], "successors": [{"name": "Sculptures_of_wolves", "id": 74156430}]}
+{"name": "Wolves_in_art", "id": 47186965, "predecessors": [{"name": "Mammals_in_art", "id": 47186986}, {"name": "Wolves", "id": 2499005}], "successors": [{"name": "Sculptures_of_wolves", "id": 74156430}]}

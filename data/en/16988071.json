@@ -1,1 +1,1 @@
-{"name": "Assassinated_nobility", "id": 16988071, "predecessors": [{"name": "Nobility", "id": 1068479}, {"name": "Murder", "id": 1167833}], "successors": []}
+{"name": "Assassinated_nobility", "id": 16988071, "predecessors": [{"name": "Nobility", "id": 1068479}], "successors": [{"name": "Assassinated_royalty", "id": 5919626}]}

@@ -1,1 +1,1 @@
-{"name": "Mac_OS_-pelit", "id": 1030887, "predecessors": [{"name": "Mac_OS_-ohjelmat", "id": 70214}, {"name": "Elektroniset_pelit", "id": 1294219}], "successors": [{"name": "World_of_Warcraft", "id": 862951}, {"name": "MacOS-pelit", "id": 1519623}]}
+{"name": "Mac_OS_-pelit", "id": 1030887, "predecessors": [{"name": "Mac_OS_-ohjelmat", "id": 70214}, {"name": "Videopelit", "id": 839380}], "successors": [{"name": "World_of_Warcraft", "id": 862951}, {"name": "MacOS-pelit", "id": 1519623}]}

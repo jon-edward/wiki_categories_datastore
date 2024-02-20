@@ -1,1 +1,1 @@
-{"name": "Vulcanologia", "id": 20454, "predecessors": [{"name": "Geologia", "id": 12963}], "successors": [{"name": "Banyons_volcànics", "id": 1782497}, {"name": "Volcans_d'Europa", "id": 130501}, {"name": "Volcans_d'Àfrica", "id": 130509}, {"name": "Illes_volcàniques", "id": 1035576}]}
+{"name": "Vulcanologia", "id": 20454, "predecessors": [{"name": "Geologia", "id": 12963}], "successors": [{"name": "Volcans", "id": 26621}, {"name": "Banyons_volcànics", "id": 1782497}]}

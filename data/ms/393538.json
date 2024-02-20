@@ -1,1 +1,1 @@
-{"name": "Torso", "id": 393538, "predecessors": [{"name": "Anatomi_manusia", "id": 76456}], "successors": [{"name": "Pelvis", "id": 393537}, {"name": "Abdomen", "id": 984935}]}
+{"name": "Torso", "id": 393538, "predecessors": [{"name": "Anatomi_manusia", "id": 76456}], "successors": [{"name": "Pelvis", "id": 393537}, {"name": "Abdomen", "id": 984935}, {"name": "Toraks", "id": 1175145}]}

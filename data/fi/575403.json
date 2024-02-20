@@ -1,1 +1,1 @@
-{"name": "Tornion_rakennukset_ja_rakennelmat", "id": 575403, "predecessors": [{"name": "Tornio", "id": 50726}, {"name": "Lapin_maakunta", "id": 697600}, {"name": "Asuminen", "id": 24802}], "successors": [{"name": "Tornion_rautatieliikennepaikat", "id": 1439405}]}
+{"name": "Tornion_rakennukset_ja_rakennelmat", "id": 575403, "predecessors": [{"name": "Lapin_maakunta", "id": 697600}, {"name": "Asuminen", "id": 24802}], "successors": [{"name": "Tornion_rautatieliikennepaikat", "id": 1439405}]}

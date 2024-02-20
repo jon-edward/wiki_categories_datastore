@@ -1,1 +1,0 @@
-{"name": "Wärmeerzeuger", "id": 884190, "predecessors": [{"name": "Wärmetechnik", "id": 1642003}, {"name": "Gerät", "id": 381787}], "successors": [{"name": "Feuerung", "id": 3456962}, {"name": "Ofen", "id": 4834662}, {"name": "Gargerät", "id": 6907936}, {"name": "Elektrowärmegerät", "id": 7628089}, {"name": "Wärmegerät_(Küchengerät)", "id": 8058017}]}

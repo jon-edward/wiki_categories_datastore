@@ -1,1 +1,1 @@
-{"name": "Porilaiset_urheiluseurat", "id": 913665, "predecessors": [{"name": "Pori", "id": 49649}, {"name": "Suomalaiset_urheiluseurat", "id": 81289}], "successors": [{"name": "Ässien_pelaajat", "id": 391274}, {"name": "Porin_Ässien_kaudet", "id": 1397394}]}
+{"name": "Porilaiset_urheiluseurat", "id": 913665, "predecessors": [{"name": "Suomen_urheilu", "id": 75926}, {"name": "Suomalaiset_urheiluseurat", "id": 81289}], "successors": [{"name": "Ässien_pelaajat", "id": 391274}, {"name": "Porin_Ässien_kaudet", "id": 1397394}]}
