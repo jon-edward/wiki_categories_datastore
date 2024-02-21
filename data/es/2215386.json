@@ -1,0 +1,1 @@
+{"name": "Buques_mercantes", "id": 2215386, "predecessors": [{"name": "Transporte_marítimo", "id": 73768}, {"name": "Buques", "id": 1065549}], "successors": [{"name": "Petroleros", "id": 715264}, {"name": "Buques_portacontenedores", "id": 6943837}, {"name": "Buques_de_YPF", "id": 10284965}, {"name": "Buques_de_la_Empresa_Líneas_Marítimas_Argentinas", "id": 10295424}]}

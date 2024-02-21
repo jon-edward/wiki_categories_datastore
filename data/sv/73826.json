@@ -1,0 +1,1 @@
+{"name": "Tunnelbanesystem", "id": 73826, "predecessors": [{"name": "Kollektivtrafik", "id": 99085}, {"name": "Spårtrafik", "id": 528408}, {"name": "Underjorden", "id": 497331}], "successors": [{"name": "Tunnelbanestationer", "id": 510803}, {"name": "Tunnelbanelinjer", "id": 2792583}]}

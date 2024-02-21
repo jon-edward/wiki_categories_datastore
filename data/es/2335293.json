@@ -1,0 +1,1 @@
+{"name": "Transporte_de_Londres", "id": 2335293, "predecessors": [{"name": "Gran_Londres", "id": 4548098}, {"name": "Londres", "id": 157931}, {"name": "Economía_de_Reino_Unido", "id": 167478}, {"name": "Transporte_de_Reino_Unido", "id": 207252}], "successors": [{"name": "Metro_de_Londres", "id": 633765}, {"name": "Estaciones_de_ferrocarril_de_Londres", "id": 6022900}]}

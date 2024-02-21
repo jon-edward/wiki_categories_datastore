@@ -1,0 +1,1 @@
+{"name": "Sistemas_operativos_x86", "id": 6365518, "predecessors": [{"name": "Arquitectura_x86", "id": 588873}, {"name": "Arquitectura_de_computadoras", "id": 2494449}], "successors": [{"name": "Linux", "id": 70698}, {"name": "DOS", "id": 134208}, {"name": "Microsoft_Windows", "id": 263795}, {"name": "Sistemas_operativos_x64-86", "id": 6367319}]}

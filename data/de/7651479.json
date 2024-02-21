@@ -1,0 +1,1 @@
+{"name": "Elektrisches_Leuchtmittel", "id": 7651479, "predecessors": [{"name": "Leuchtmitteltechnik", "id": 7629364}, {"name": "Lichtquelle_nach_Verwendung", "id": 7646585}, {"name": "Elektrogerät", "id": 295771}], "successors": [{"name": "Gasentladungslampe", "id": 3336395}, {"name": "Glühlampe", "id": 7651361}]}

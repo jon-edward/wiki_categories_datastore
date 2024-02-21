@@ -1,0 +1,1 @@
+{"name": "Mikroprozessor", "id": 244247, "predecessors": [{"name": "Integrierter_Schaltkreis", "id": 4223913}, {"name": "Mikroprozessortechnik", "id": 2847927}], "successors": [{"name": "Grafikchip", "id": 1876267}, {"name": "Soundchip", "id": 3054356}]}

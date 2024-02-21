@@ -1,0 +1,1 @@
+{"name": "Herbicide", "id": 334512, "predecessors": [{"name": "Pesticide", "id": 185299}, {"name": "Produit_phytosanitaire", "id": 8235862}, {"name": "Lutte_contre_les_bioagresseurs", "id": 8254745}], "successors": [{"name": "Substance_active_d'herbicide", "id": 8828932}, {"name": "Herbicide_auxinique", "id": 9843855}]}

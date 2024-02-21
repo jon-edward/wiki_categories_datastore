@@ -1,0 +1,1 @@
+{"name": "Tenis_de_mesa", "id": 678724, "predecessors": [{"name": "Deportes_de_pelota", "id": 187024}, {"name": "Deporte", "id": 50825}], "successors": [{"name": "Jugadores_de_tenis_de_mesa", "id": 678719}, {"name": "Competiciones_de_tenis_de_mesa", "id": 1869199}]}

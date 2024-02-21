@@ -1,0 +1,1 @@
+{"name": "IPadOS", "id": 2775546, "predecessors": [{"name": "ARM_운영체제", "id": 1931897}, {"name": "모바일_운영체제", "id": 696186}, {"name": "애플의_운영_체제", "id": 469318}], "successors": [{"name": "IPadOS_장치", "id": 3072745}, {"name": "IPadOS_소프트웨어", "id": 3083371}, {"name": "IPadOS_웹_브라우저", "id": 3083846}, {"name": "IPadOS_게임", "id": 3086565}]}

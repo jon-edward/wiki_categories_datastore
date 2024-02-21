@@ -1,0 +1,1 @@
+{"name": "Nettoyage", "id": 10550184, "predecessors": [{"name": "Hygiène", "id": 99656}], "successors": [{"name": "Lavage_des_textiles", "id": 11883966}, {"name": "Lavage_des_mains", "id": 14192831}, {"name": "Savon", "id": 14192975}]}

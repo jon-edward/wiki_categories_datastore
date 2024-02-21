@@ -1,0 +1,1 @@
+{"name": "Protein-Methode", "id": 8253274, "predecessors": [{"name": "Biochemische_Methode", "id": 7911082}, {"name": "Biochemie", "id": 281260}], "successors": [{"name": "Immunchemisches_Testverfahren", "id": 2057563}, {"name": "Protein-Protein-Interaktionsbestimmung", "id": 8257024}, {"name": "Proteinfarbstoff", "id": 9126234}]}

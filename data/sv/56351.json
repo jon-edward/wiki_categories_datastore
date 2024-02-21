@@ -1,0 +1,1 @@
+{"name": "Kirurgi", "id": 56351, "predecessors": [{"name": "Medicinska_specialiteter", "id": 290989}], "successors": [{"name": "Anestesi", "id": 160655}, {"name": "Missbildningar", "id": 337506}, {"name": "Kirurger", "id": 511977}, {"name": "Operationer", "id": 1489254}, {"name": "Endoskopi", "id": 1489363}]}

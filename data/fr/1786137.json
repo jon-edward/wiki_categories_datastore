@@ -1,0 +1,1 @@
+{"name": "Détection_et_correction_d'erreur", "id": 1786137, "predecessors": [{"name": "Algorithme", "id": 116394}, {"name": "Théorie_de_l'information", "id": 111384}, {"name": "Théorie_des_codes", "id": 605806}, {"name": "Théorie_des_télécommunications", "id": 2693923}], "successors": [{"name": "Somme_de_contrôle", "id": 1786161}, {"name": "Hachage", "id": 1832926}]}

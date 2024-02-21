@@ -1,0 +1,1 @@
+{"name": "Ocupaciones_forestales", "id": 10502561, "predecessors": [{"name": "Ocupaciones_agrícolas_y_ganaderas", "id": 2517803}, {"name": "Silvicultores", "id": 10502558}], "successors": [{"name": "Guardabosques", "id": 8342169}, {"name": "Silvicultores", "id": 10502558}, {"name": "Extinción_de_incendios_forestales", "id": 7758120}]}

@@ -1,0 +1,1 @@
+{"name": "Hambrunas", "id": 167021, "predecessors": [{"name": "Desastres_naturales", "id": 166966}, {"name": "Desastres_provocados_por_el_hombre", "id": 166967}, {"name": "Escasez", "id": 8526646}, {"name": "Hambre", "id": 5960014}, {"name": "Pobreza", "id": 3055543}], "successors": [{"name": "Holodomor", "id": 5918484}]}

@@ -1,0 +1,1 @@
+{"name": "Ruedas", "id": 9280931, "predecessors": [{"name": "Elementos_de_máquinas", "id": 1133040}, {"name": "Máquinas_simples", "id": 75804}, {"name": "Tecnologías_del_transporte", "id": 7862621}], "successors": [{"name": "Neumáticos", "id": 1609867}, {"name": "Escudos_con_ruedas_dentadas", "id": 9067724}]}

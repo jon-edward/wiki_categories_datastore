@@ -1,0 +1,1 @@
+{"name": "Compilateur", "id": 149386, "predecessors": [{"name": "Outil_de_développement_logiciel", "id": 1295414}], "successors": [{"name": "Théorie_de_la_compilation", "id": 4482061}, {"name": "Compilateur_C", "id": 5682321}, {"name": "Compilateur_C++", "id": 6109726}]}

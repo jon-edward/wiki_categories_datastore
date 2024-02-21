@@ -1,0 +1,1 @@
+{"name": "Batterij", "id": 4418120, "predecessors": [{"name": "Elektrotechniek", "id": 63475}, {"name": "Elektrochemie", "id": 129750}], "successors": [{"name": "Oplaadbare_batterij", "id": 5829273}]}

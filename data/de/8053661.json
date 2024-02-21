@@ -1,0 +1,1 @@
+{"name": "Tischler", "id": 8053661, "predecessors": [{"name": "Handwerker", "id": 247653}, {"name": "Holzverarbeitung", "id": 1473346}], "successors": [{"name": "Kunstschreiner", "id": 1498394}]}

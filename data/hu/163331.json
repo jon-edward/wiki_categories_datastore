@@ -1,0 +1,1 @@
+{"name": "Fizikai_kémia", "id": 163331, "predecessors": [{"name": "Fizika", "id": 4211}, {"name": "Kémia", "id": 4217}], "successors": [{"name": "Izotópok", "id": 185000}, {"name": "Reakciókinetika", "id": 201021}, {"name": "Elektrokémia", "id": 469087}, {"name": "Fázisállapotok", "id": 469365}, {"name": "Lumineszcencia", "id": 839270}]}

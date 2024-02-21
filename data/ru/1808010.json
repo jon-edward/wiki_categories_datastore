@@ -1,0 +1,1 @@
+{"name": "Solaris", "id": 1808010, "predecessors": [{"name": "System_V", "id": 1942117}, {"name": "Программное_обеспечение_Sun", "id": 3360592}, {"name": "Программное_обеспечение_Oracle", "id": 2208065}], "successors": [{"name": "OpenSolaris", "id": 1922119}, {"name": "Программное_обеспечение_для_Solaris", "id": 2037278}]}

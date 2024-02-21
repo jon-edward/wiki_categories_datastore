@@ -1,0 +1,1 @@
+{"name": "Technischer_Defekt", "id": 8925351, "predecessors": [{"name": "Fehler", "id": 3658820}, {"name": "Technische_Sicherheit", "id": 1062123}], "successors": [{"name": "Programmfehler", "id": 5088018}]}

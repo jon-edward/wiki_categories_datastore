@@ -1,0 +1,1 @@
+{"name": "Ej_längre_existerande_banker", "id": 966274, "predecessors": [{"name": "Bankväsen", "id": 748323}, {"name": "Ej_längre_existerande_företag", "id": 414955}], "successors": [{"name": "Ej_längre_existerande_svenska_banker", "id": 966240}, {"name": "Ej_längre_existerande_finländska_banker", "id": 990457}, {"name": "Ej_längre_existerande_amerikanska_banker", "id": 1004505}]}

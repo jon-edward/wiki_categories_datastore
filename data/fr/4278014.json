@@ -1,0 +1,1 @@
+{"name": "Viande_bovine", "id": 4278014, "predecessors": [{"name": "Viande_par_animal", "id": 13538737}, {"name": "Vivant", "id": 4649497}], "successors": [{"name": "Découpe_du_bœuf", "id": 379781}, {"name": "Spécialité_à_base_de_viande_bovine", "id": 4278036}]}

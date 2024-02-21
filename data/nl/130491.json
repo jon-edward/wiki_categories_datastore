@@ -1,0 +1,1 @@
+{"name": "Epidemiologie", "id": 130491, "predecessors": [{"name": "Geneeskundig_onderzoek", "id": 93119}, {"name": "Geneeskundig_specialisme", "id": 93115}, {"name": "Volksgezondheid", "id": 3838813}], "successors": [{"name": "Infectieziekte", "id": 68339}, {"name": "Epidemioloog", "id": 3902408}, {"name": "Vaccinatie", "id": 5358559}, {"name": "Pandemie", "id": 5423146}]}

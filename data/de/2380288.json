@@ -1,0 +1,1 @@
+{"name": "Schaltungssimulation", "id": 2380288, "predecessors": [{"name": "Anwendungssoftware", "id": 5234444}, {"name": "Schaltungstechnik", "id": 8614500}], "successors": [{"name": "Hardwarebeschreibungssprache", "id": 3182481}]}

@@ -1,0 +1,1 @@
+{"name": "Salzbergbau", "id": 3592880, "predecessors": [{"name": "Bergbau_nach_Rohstoff", "id": 3592842}, {"name": "Salzgewinnung", "id": 1902710}], "successors": [{"name": "Salzbergwerk", "id": 4038660}, {"name": "Salzbergbau_(Deutschland)", "id": 4964403}, {"name": "Geschichte_des_Salzbergbaus", "id": 9791664}, {"name": "Salzbergbauunternehmen_(Deutschland)", "id": 5575496}]}

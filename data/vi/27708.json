@@ -1,0 +1,1 @@
+{"name": "Dụng_cụ_ăn_uống", "id": 27708, "predecessors": [{"name": "Dụng_cụ", "id": 38805}, {"name": "Nấu_ăn", "id": 38913}, {"name": "Thiết_bị_nhà_bếp", "id": 77369}, {"name": "Vật_dụng_trong_nhà", "id": 3175944}, {"name": "Ăn_uống", "id": 494980}], "successors": [{"name": "Dụng_cụ_nấu_ăn", "id": 17067}]}

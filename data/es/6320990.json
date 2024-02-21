@@ -1,0 +1,1 @@
+{"name": "Terapia", "id": 6320990, "predecessors": [{"name": "Asistencia_sanitaria", "id": 5537485}, {"name": "Tratamientos_en_medicina", "id": 74857}], "successors": [{"name": "Terapia_respiratoria", "id": 4968849}, {"name": "Terapias_complementarias", "id": 5420401}, {"name": "Perros_de_asistencia", "id": 4102729}]}

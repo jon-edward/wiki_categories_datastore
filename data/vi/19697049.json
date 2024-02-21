@@ -1,0 +1,1 @@
+{"name": "Hệ_thống_vệ_sinh", "id": 19697049, "predecessors": [{"name": "Cải_thiện_điều_kiện_sống", "id": 3175961}, {"name": "Vệ_sinh", "id": 34041}, {"name": "Y_tế_công_cộng", "id": 24929}], "successors": [{"name": "Phòng_tắm", "id": 1201558}, {"name": "Nhà_vệ_sinh", "id": 1308200}, {"name": "Cung_cấp_nước", "id": 1699446}, {"name": "Nước_thải", "id": 3306291}]}

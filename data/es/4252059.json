@@ -1,0 +1,1 @@
+{"name": "Plantas_en_estado_vulnerable", "id": 4252059, "predecessors": [{"name": "Especies_en_estado_vulnerable", "id": 189785}, {"name": "Plantae", "id": 724077}], "successors": [{"name": "Angiospermas_en_estado_vulnerable", "id": 4252058}, {"name": "Gimnospermas_en_estado_vulnerable", "id": 4265396}]}

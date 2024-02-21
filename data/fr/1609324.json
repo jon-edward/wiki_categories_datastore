@@ -1,0 +1,1 @@
+{"name": "Énergie_pneumatique", "id": 1609324, "predecessors": [{"name": "Mécanique_des_fluides", "id": 96654}], "successors": [{"name": "Pompe", "id": 3291592}, {"name": "Soupape", "id": 3329951}]}

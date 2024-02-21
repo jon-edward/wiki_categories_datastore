@@ -1,0 +1,1 @@
+{"name": "Máquinas", "id": 1443285, "predecessors": [{"name": "Engenharia_mecânica", "id": 77329}], "successors": [{"name": "Veículos", "id": 77151}, {"name": "Robôs", "id": 109692}, {"name": "Maquinaria_agrícola", "id": 1511749}, {"name": "Elementos_de_máquinas", "id": 3183681}, {"name": "Máquinas_simples", "id": 3384866}, {"name": "Geradores_elétricos", "id": 5286934}]}

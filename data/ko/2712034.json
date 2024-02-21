@@ -1,0 +1,1 @@
+{"name": "국제_표준", "id": 2712034, "predecessors": [{"name": "국제_관계", "id": 12141}, {"name": "표준", "id": 14968}], "successors": [{"name": "ISO_표준", "id": 15003}, {"name": "W3C_표준", "id": 15004}, {"name": "IEEE_표준", "id": 28115}, {"name": "IEC_표준", "id": 449082}, {"name": "3GPP_표준", "id": 1985082}, {"name": "Ecma_표준", "id": 2712032}, {"name": "SMPTE_표준", "id": 2712044}]}

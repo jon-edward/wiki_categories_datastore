@@ -1,0 +1,1 @@
+{"name": "MacOS", "id": 1116000, "predecessors": [{"name": "Sistemas_operativos_de_Apple_Inc.", "id": 2144821}, {"name": "Sistemas_operativos_x64-86", "id": 6367319}, {"name": "Software_de_1999", "id": 3660188}, {"name": "Sistemas_operativos", "id": 54097}], "successors": [{"name": "Software_para_macOS", "id": 1115965}, {"name": "IOS_(Apple)", "id": 6147190}]}

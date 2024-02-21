@@ -1,0 +1,1 @@
+{"name": "Réservoir_de_carburant", "id": 4961660, "predecessors": [{"name": "Carburant", "id": 210709}, {"name": "Récipient", "id": 304539}, {"name": "Stockage_de_l'énergie", "id": 1078284}], "successors": [{"name": "Camion-citerne", "id": 15004942}]}

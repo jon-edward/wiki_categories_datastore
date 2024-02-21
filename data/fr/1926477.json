@@ -1,0 +1,1 @@
+{"name": "Véhicule_agricole", "id": 1926477, "predecessors": [{"name": "Véhicule", "id": 84529}, {"name": "Agriculture", "id": 81359}], "successors": [{"name": "Cheval_de_trait", "id": 3152077}, {"name": "Tracteur_agricole", "id": 5137455}]}

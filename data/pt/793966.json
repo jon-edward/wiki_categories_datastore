@@ -1,0 +1,1 @@
+{"name": "Ambiente_de_trabalho_remoto", "id": 793966, "predecessors": [{"name": "Programas_de_computador_por_finalidade", "id": 430478}, {"name": "Infraestrutura", "id": 2658298}], "successors": [{"name": "X_Window_System", "id": 2173026}, {"name": "Servidores_X", "id": 2345517}]}

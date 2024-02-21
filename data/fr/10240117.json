@@ -1,0 +1,1 @@
+{"name": "Échangeur_de_chaleur", "id": 10240117, "predecessors": [{"name": "Réfrigération", "id": 854533}, {"name": "Transfert_thermique", "id": 2755250}], "successors": [{"name": "Installation_de_récupération_de_chaleur", "id": 5789935}]}

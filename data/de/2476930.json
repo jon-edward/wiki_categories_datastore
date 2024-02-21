@@ -1,0 +1,1 @@
+{"name": "Halbleiterhersteller", "id": 2476930, "predecessors": [{"name": "Hardwarehersteller", "id": 338650}, {"name": "Mikroelektronik", "id": 932472}], "successors": [{"name": "CPU-Hersteller", "id": 436960}, {"name": "Chipsatz-Hersteller", "id": 436963}, {"name": "Grafikchip-Hersteller", "id": 1035919}, {"name": "Foundry", "id": 4761200}, {"name": "Fabless", "id": 10112671}]}

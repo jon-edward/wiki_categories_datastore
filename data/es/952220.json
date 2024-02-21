@@ -1,0 +1,1 @@
+{"name": "Fibras", "id": 952220, "predecessors": [{"name": "Industria_textil", "id": 72127}, {"name": "Materiales", "id": 74562}], "successors": [{"name": "Fibras_vegetales", "id": 1779067}, {"name": "Fibras_sintéticas", "id": 3238061}, {"name": "Seda", "id": 5438749}, {"name": "Lana", "id": 5969777}, {"name": "Asbestos", "id": 8921614}]}

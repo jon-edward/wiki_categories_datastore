@@ -1,0 +1,1 @@
+{"name": "E-Mail", "id": 254903, "predecessors": [{"name": "Schriftliche_Kommunikation", "id": 1618336}, {"name": "Internet", "id": 240464}], "successors": [{"name": "E-Mail-Programm", "id": 698201}, {"name": "Webmail-Anbieter", "id": 1106740}, {"name": "Mail_Transfer_Agent", "id": 5342515}, {"name": "Internet-E-Mail-Protokoll", "id": 6744097}]}

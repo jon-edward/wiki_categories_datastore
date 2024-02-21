@@ -1,0 +1,1 @@
+{"name": "CAD", "id": 190427, "predecessors": [{"name": "CAE", "id": 3214780}, {"name": "Thiết_kế_công_nghiệp", "id": 13676049}, {"name": "Thuật_toán_hình_học", "id": 817864}, {"name": "Vẽ_kỹ_thuật", "id": 827845}], "successors": [{"name": "Phần_mềm_CAD", "id": 3214769}, {"name": "In_3D", "id": 13509883}]}

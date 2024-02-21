@@ -1,0 +1,1 @@
+{"name": "Máquinas_eléctricas", "id": 1690427, "predecessors": [{"name": "Aparatos_eléctricos", "id": 5551805}, {"name": "Máquinas", "id": 324649}], "successors": [{"name": "Motores_eléctricos", "id": 190269}, {"name": "Vehículos_eléctricos", "id": 796404}]}

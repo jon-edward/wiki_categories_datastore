@@ -1,0 +1,1 @@
+{"name": "Quản_lý_bộ_nhớ", "id": 3210312, "predecessors": [{"name": "Bộ_nhớ_máy_tính", "id": 163215}, {"name": "Công_nghệ_hệ_điều_hành", "id": 1585089}, {"name": "Quản_lý_theo_dạng", "id": 1678558}, {"name": "Triển_khai_ngôn_ngữ_lập_trình", "id": 19551127}], "successors": [{"name": "Cache_(tin_học)", "id": 3210310}]}

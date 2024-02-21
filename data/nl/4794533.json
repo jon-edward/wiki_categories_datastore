@@ -1,0 +1,1 @@
+{"name": "Juridisch_document", "id": 4794533, "predecessors": [{"name": "Document_naar_type", "id": 4794525}, {"name": "Recht", "id": 67092}], "successors": [{"name": "Verdrag", "id": 65307}, {"name": "Certificaat", "id": 92801}, {"name": "Historische_wet", "id": 798213}]}
