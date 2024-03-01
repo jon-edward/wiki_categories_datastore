@@ -1,1 +1,1 @@
-{"name": "Brand_name_breads", "id": 6755230, "predecessors": [{"name": "Breads", "id": 839059}], "successors": [{"name": "Bakeries", "id": 6755161}]}
+{"name": "Brand_name_breads", "id": 6755230, "predecessors": [{"name": "Breads", "id": 839059}], "successors": [{"name": "Pâtisserie", "id": 38471774}, {"name": "Bakery_cafés", "id": 38675516}, {"name": "Bagel_companies", "id": 44406173}]}

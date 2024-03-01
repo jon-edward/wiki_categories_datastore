@@ -1,1 +1,1 @@
-{"name": "Sistemes_de_pagament", "id": 906787, "predecessors": [{"name": "Comerç", "id": 158851}], "successors": [{"name": "Monedes", "id": 44588}]}
+{"name": "Sistemes_de_pagament", "id": 906787, "predecessors": [{"name": "Comerç", "id": 158851}], "successors": [{"name": "Monedes", "id": 44588}, {"name": "Targetes_de_pagament", "id": 2076235}]}

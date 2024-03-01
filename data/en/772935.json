@@ -1,1 +1,1 @@
-{"name": "Cruise_lines", "id": 772935, "predecessors": [{"name": "Logistics_companies", "id": 7440032}], "successors": [{"name": "Norwegian_Cruise_Line", "id": 6233745}, {"name": "Royal_Caribbean_Group", "id": 20693045}]}
+{"name": "Cruise_lines", "id": 772935, "predecessors": [{"name": "Shipping_companies", "id": 881735}], "successors": [{"name": "Norwegian_Cruise_Line", "id": 6233745}, {"name": "Royal_Caribbean_Group", "id": 20693045}]}

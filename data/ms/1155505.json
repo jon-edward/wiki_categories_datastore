@@ -1,1 +1,1 @@
-{"name": "Transduksi_isyarat", "id": 1155505, "predecessors": [{"name": "Biokimia", "id": 74622}, {"name": "Biologi_sel", "id": 84878}], "successors": [{"name": "Fosfolipid", "id": 1172798}, {"name": "Pemodulat_alosterik_positif_reseptor_GABAA", "id": 1171500}]}
+{"name": "Transduksi_isyarat", "id": 1155505, "predecessors": [{"name": "Biokimia", "id": 74622}, {"name": "Biologi_sel", "id": 84878}], "successors": [{"name": "Faktor_pertumbuhan", "id": 1155818}, {"name": "Fosfolipid", "id": 1172798}, {"name": "Pemodulat_alosterik_positif_reseptor_GABAA", "id": 1171500}]}

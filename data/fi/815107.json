@@ -1,1 +1,1 @@
-{"name": "Videopelien_lajityypit", "id": 815107, "predecessors": [{"name": "Videopelit", "id": 839380}], "successors": [{"name": "Ajopelit", "id": 114471}, {"name": "Pulmapelit", "id": 114719}, {"name": "Opetuspelit", "id": 267271}, {"name": "MMOG-pelit", "id": 402167}]}
+{"name": "Videopelien_lajityypit", "id": 815107, "predecessors": [{"name": "Elektroniset_pelit", "id": 1294219}], "successors": [{"name": "Ajopelit", "id": 114471}, {"name": "Pulmapelit", "id": 114719}, {"name": "Opetuspelit", "id": 267271}, {"name": "MMOG-pelit", "id": 402167}]}

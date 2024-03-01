@@ -1,1 +1,1 @@
-{"name": "Txirrindularitza_lasterketa_amateurrak", "id": 226000, "predecessors": [{"name": "Txirrindularitza_lasterketak", "id": 12411}, {"name": "Txirrindularitza", "id": 7496}], "successors": [{"name": "Bizkaiko_Bira", "id": 1069758}]}
+{"name": "Txirrindularitza_lasterketa_amateurrak", "id": 226000, "predecessors": [{"name": "Txirrindularitza", "id": 7496}, {"name": "Kirol_txapelketak", "id": 223600}], "successors": [{"name": "Bizkaiko_Bira", "id": 1069758}]}

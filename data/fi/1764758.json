@@ -1,1 +1,1 @@
-{"name": "Pohjois-Savon_hyvinvointialue", "id": 1764758, "predecessors": [{"name": "Pohjois-Savo", "id": 41409}, {"name": "Julkinen_terveydenhoito_Suomessa", "id": 1790840}], "successors": [{"name": "Pohjois-Savon_aluevaltuutetut", "id": 1788027}]}
+{"name": "Pohjois-Savon_hyvinvointialue", "id": 1764758, "predecessors": [{"name": "Pohjois-Savo", "id": 41409}, {"name": "Suomen_politiikka", "id": 86317}], "successors": [{"name": "Pohjois-Savon_aluevaltuutetut", "id": 1788027}]}

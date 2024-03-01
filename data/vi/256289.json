@@ -1,1 +1,0 @@
-{"name": "Thiết_bị_điện", "id": 256289, "predecessors": [{"name": "Kỹ_thuật_điện", "id": 76264}, {"name": "Thiết_bị", "id": 62726}, {"name": "Điện", "id": 480101}, {"name": "Điện_học", "id": 26951}, {"name": "Điện_lực", "id": 66662}], "successors": [{"name": "Linh_kiện_điện_tử", "id": 17182}, {"name": "Loa", "id": 256287}]}

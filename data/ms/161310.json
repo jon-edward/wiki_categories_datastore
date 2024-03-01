@@ -1,1 +1,1 @@
-{"name": "Forensik", "id": 161310, "predecessors": [{"name": "Penguatkuasaan_undang-undang", "id": 84593}, {"name": "Sains_gunaan", "id": 75959}, {"name": "Sains", "id": 8013}], "successors": [{"name": "Biometri", "id": 161306}]}
+{"name": "Forensik", "id": 161310, "predecessors": [{"name": "Penguatkuasaan_undang-undang", "id": 84593}, {"name": "Sains_gunaan", "id": 75959}, {"name": "Sains", "id": 8013}], "successors": [{"name": "Biometri", "id": 161306}, {"name": "Psikologi_forensik", "id": 995874}]}

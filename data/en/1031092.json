@@ -1,1 +1,1 @@
-{"name": "Riemann_surfaces", "id": 1031092, "predecessors": [{"name": "Complex_manifolds", "id": 763402}, {"name": "Surfaces", "id": 695994}, {"name": "Geometric_shapes", "id": 1470457}], "successors": [{"name": "Hyperbolic_geometry", "id": 1045182}]}
+{"name": "Riemann_surfaces", "id": 1031092, "predecessors": [{"name": "Complex_manifolds", "id": 763402}, {"name": "Surfaces", "id": 695994}, {"name": "Eponyms", "id": 1269208}], "successors": [{"name": "Hyperbolic_geometry", "id": 1045182}]}

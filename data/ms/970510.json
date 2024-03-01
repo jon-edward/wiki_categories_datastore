@@ -1,1 +1,1 @@
-{"name": "Tisu", "id": 970510, "predecessors": [{"name": "Anatomi", "id": 48731}], "successors": [{"name": "Darah", "id": 194004}, {"name": "Tisu_lembut", "id": 729886}]}
+{"name": "Tisu", "id": 970510, "predecessors": [{"name": "Anatomi", "id": 48731}, {"name": "Histologi", "id": 985455}], "successors": [{"name": "Darah", "id": 194004}, {"name": "Tisu_lembut", "id": 729886}]}

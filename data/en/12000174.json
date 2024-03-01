@@ -1,1 +1,1 @@
-{"name": "Transatlantic_shipping_companies", "id": 12000174, "predecessors": [{"name": "Logistics_companies", "id": 7440032}], "successors": [{"name": "Ships_of_the_Compagnie_Générale_Transatlantique", "id": 32254284}, {"name": "Ships_of_CMA_CGM", "id": 41911513}]}
+{"name": "Transatlantic_shipping_companies", "id": 12000174, "predecessors": [{"name": "Shipping_companies", "id": 881735}], "successors": [{"name": "Ships_of_the_Compagnie_Générale_Transatlantique", "id": 32254284}, {"name": "Ships_of_CMA_CGM", "id": 41911513}]}

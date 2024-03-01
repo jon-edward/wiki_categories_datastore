@@ -1,1 +1,1 @@
-{"name": "Boeing", "id": 160389, "predecessors": [{"name": "Yhdysvaltalaiset_aseteollisuusyritykset", "id": 1293534}, {"name": "Avaruusteknologiayhtiöt", "id": 109456}, {"name": "Lentokonevalmistajat", "id": 75365}], "successors": [{"name": "Boeingin_ilma-alukset", "id": 216324}]}
+{"name": "Boeing", "id": 160389, "predecessors": [{"name": "Yhdysvaltalaiset_aseteollisuusyritykset", "id": 1293534}, {"name": "Yhdysvaltalaiset_avaruustekniikkayhtiöt", "id": 1351957}, {"name": "Lentokonevalmistajat", "id": 75365}], "successors": [{"name": "Boeingin_ilma-alukset", "id": 216324}]}

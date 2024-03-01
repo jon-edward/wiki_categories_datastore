@@ -1,1 +1,1 @@
-{"name": "Scottish_clothing", "id": 881002, "predecessors": [{"name": "Scottish_culture", "id": 724317}], "successors": [{"name": "Highland_dress", "id": 74131822}]}
+{"name": "Scottish_clothing", "id": 881002, "predecessors": [{"name": "British_clothing", "id": 5454831}, {"name": "Scottish_culture", "id": 724317}], "successors": [{"name": "Highland_dress", "id": 74131822}]}

@@ -1,1 +1,1 @@
-{"name": "Online_časopisi", "id": 157135, "predecessors": [{"name": "Mrežna_mjesta", "id": 157133}, {"name": "Časopisi", "id": 41488}], "successors": []}
+{"name": "Onlajn-časopisi", "id": 157135, "predecessors": [{"name": "Časopisi", "id": 41488}, {"name": "Sajtovi", "id": 157133}], "successors": []}

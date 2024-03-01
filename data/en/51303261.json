@@ -1,1 +1,1 @@
-{"name": "Problem_solving_skills", "id": 51303261, "predecessors": [{"name": "Life_skills", "id": 28085670}, {"name": "Problem_solving", "id": 1855180}], "successors": [{"name": "Debugging", "id": 3293605}, {"name": "Imagination", "id": 3368800}]}
+{"name": "Problem_solving_skills", "id": 51303261, "predecessors": [{"name": "Critical_thinking_skills", "id": 53899290}, {"name": "Life_skills", "id": 28085670}, {"name": "Problem_solving", "id": 1855180}], "successors": [{"name": "Debugging", "id": 3293605}, {"name": "Imagination", "id": 3368800}]}

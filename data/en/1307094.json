@@ -1,1 +1,1 @@
-{"name": "Law_enforcement_equipment", "id": 1307094, "predecessors": [{"name": "Law_enforcement", "id": 718211}], "successors": [{"name": "Forensic_equipment", "id": 24245278}, {"name": "Mounted_police", "id": 37282839}, {"name": "Police_dogs", "id": 65410345}]}
+{"name": "Law_enforcement_equipment", "id": 1307094, "predecessors": [{"name": "Law_enforcement", "id": 718211}], "successors": [{"name": "Law_enforcement_uniforms", "id": 17622348}, {"name": "Forensic_equipment", "id": 24245278}, {"name": "Mounted_police", "id": 37282839}, {"name": "Police_dogs", "id": 65410345}]}

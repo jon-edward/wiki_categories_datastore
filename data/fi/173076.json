@@ -1,1 +1,1 @@
-{"name": "Lontoon_museot", "id": 173076, "predecessors": [{"name": "Lontoon_kulttuuri", "id": 503745}, {"name": "Englannin_nähtävyydet", "id": 236929}, {"name": "Kaupungit", "id": 20192}], "successors": [{"name": "Lontoon_taidemuseot", "id": 1502195}]}
+{"name": "Lontoon_museot", "id": 173076, "predecessors": [{"name": "Lontoon_kulttuuri", "id": 503745}, {"name": "Lontoon_rakennukset_ja_rakennelmat", "id": 231649}, {"name": "Englannin_nähtävyydet", "id": 236929}], "successors": [{"name": "Lontoon_taidemuseot", "id": 1502195}]}

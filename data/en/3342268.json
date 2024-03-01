@@ -1,1 +1,1 @@
-{"name": "Excretion", "id": 3342268, "predecessors": [{"name": "Animal_physiology", "id": 1648315}, {"name": "Hygiene", "id": 1056532}, {"name": "Biology", "id": 692675}], "successors": [{"name": "Uric_acid", "id": 7329631}, {"name": "Toilet_training", "id": 31875100}]}
+{"name": "Excretion", "id": 3342268, "predecessors": [{"name": "Animal_physiology", "id": 1648315}, {"name": "Hygiene", "id": 1056532}, {"name": "Biology", "id": 692675}], "successors": [{"name": "Uric_acid", "id": 7329631}, {"name": "Diapers", "id": 19331980}, {"name": "Toilet_training", "id": 31875100}]}

@@ -1,1 +1,1 @@
-{"name": "Zeelanda_Berriko_uharteak", "id": 341922, "predecessors": [{"name": "Kosta_eta_ozeano_forma_geografikoak", "id": 337281}, {"name": "Zeelanda_Berriko_geografia", "id": 43043}, {"name": "Ozeaniako_uharteak", "id": 52829}], "successors": [{"name": "Cook_uharteak", "id": 928856}]}
+{"name": "Zeelanda_Berriko_uharteak", "id": 341922, "predecessors": [{"name": "Uharteak", "id": 19156}, {"name": "Zeelanda_Berriko_geografia", "id": 43043}, {"name": "Ozeaniako_uharteak", "id": 52829}], "successors": [{"name": "Cook_uharteak", "id": 928856}]}

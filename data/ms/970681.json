@@ -1,1 +1,1 @@
-{"name": "Angiologi", "id": 970681, "predecessors": [{"name": "Perubatan", "id": 8047}, {"name": "Anatomi", "id": 48731}], "successors": [{"name": "Sistem_limfa", "id": 1007391}, {"name": "Vena", "id": 1032924}, {"name": "Penyakit_serebrovaskular", "id": 1157736}]}
+{"name": "Angiologi", "id": 970681, "predecessors": [{"name": "Perubatan", "id": 8047}, {"name": "Anatomi", "id": 48731}], "successors": [{"name": "Sistem_limfa", "id": 1007391}, {"name": "Penyakit_serebrovaskular", "id": 1157736}]}

@@ -1,1 +1,1 @@
-{"name": "Mexikoko_hizkuntzak", "id": 149046, "predecessors": [{"name": "Hizkuntzak", "id": 3425}, {"name": "Kultura", "id": 7633}], "successors": [{"name": "Gaztelania", "id": 34798}, {"name": "Maia_hizkuntzak", "id": 345272}, {"name": "Nahuatl_toponimia", "id": 1067738}]}
+{"name": "Mexikoko_hizkuntzak", "id": 149046, "predecessors": [{"name": "Mexikoko_kultura", "id": 149052}, {"name": "Hizkuntzak", "id": 3425}], "successors": [{"name": "Gaztelania", "id": 34798}, {"name": "Maia_hizkuntzak", "id": 345272}, {"name": "Nahuatl_toponimia", "id": 1067738}]}

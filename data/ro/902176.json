@@ -1,1 +1,1 @@
-{"name": "Instituții_Cod_Civil", "id": 902176, "predecessors": [{"name": "Instituții_juridice", "id": 752878}], "successors": [{"name": "Căsătorie", "id": 228145}, {"name": "Custodie", "id": 894324}, {"name": "Proprietate", "id": 1329246}]}
+{"name": "Instituții_Cod_Civil", "id": 902176, "predecessors": [{"name": "Drept_civil", "id": 101326}, {"name": "Instituții_juridice", "id": 752878}], "successors": [{"name": "Căsătorie", "id": 228145}, {"name": "Custodie", "id": 894324}]}

@@ -1,1 +1,1 @@
-{"name": "Analgesik", "id": 985786, "predecessors": [{"name": "Ubat", "id": 58309}], "successors": []}
+{"name": "Analgesik", "id": 985786, "predecessors": [{"name": "Ubat", "id": 58309}], "successors": [{"name": "Ubat_antiradang_bukan_steroid", "id": 1175959}]}

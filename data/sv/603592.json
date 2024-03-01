@@ -1,1 +1,0 @@
-{"name": "Vägtransport", "id": 603592, "predecessors": [{"name": "Transport", "id": 907491}], "successors": [{"name": "Vägar", "id": 73795}, {"name": "Fordon", "id": 76896}, {"name": "Trafik", "id": 110729}, {"name": "Vägmärken", "id": 118199}, {"name": "Parkering", "id": 506477}, {"name": "Rastplatser", "id": 1624714}, {"name": "Vägtullsoperatörer", "id": 8295720}]}

@@ -1,0 +1,1 @@
+{"name": "Biosintesis_protein", "id": 1156539, "predecessors": [{"name": "Ekspresi_gen", "id": 1156713}, {"name": "Metabolisme", "id": 306048}], "successors": [{"name": "Pengubahsuaian_pascatranslasi", "id": 1156537}]}

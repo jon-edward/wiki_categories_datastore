@@ -1,1 +1,1 @@
-{"name": "Norjan_puolustusvoimat", "id": 414834, "predecessors": [{"name": "Asevoimat_maittain", "id": 240493}, {"name": "Kansainväliset_järjestöt", "id": 18091}], "successors": [{"name": "Norjan_laivasto", "id": 663292}]}
+{"name": "Norjan_puolustusvoimat", "id": 414834, "predecessors": [{"name": "Asevoimat_maittain", "id": 240493}, {"name": "Kansainväliset_järjestöt", "id": 18091}], "successors": [{"name": "Norjan_laivasto", "id": 663292}, {"name": "Norjan_laivaston_sotalaivat", "id": 900386}, {"name": "Norjalaiset_toisen_maailmansodan_hävittäjät", "id": 928411}]}

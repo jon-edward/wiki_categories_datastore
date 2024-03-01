@@ -1,1 +1,0 @@
-{"name": "Phòng_chống_lũ_lụt", "id": 3211100, "predecessors": [{"name": "Kỹ_thuật_môi_trường", "id": 2430178}, {"name": "Kỹ_thuật_thủy_lợi", "id": 2458904}, {"name": "Lũ_lụt", "id": 384355}, {"name": "Nước_và_môi_trường", "id": 1406755}, {"name": "Quản_lý_nguồn_nước", "id": 1406764}], "successors": [{"name": "Đập", "id": 806767}]}

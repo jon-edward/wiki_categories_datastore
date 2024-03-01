@@ -1,1 +1,0 @@
-{"name": "Phần_mềm_đa_nền_tảng", "id": 3416805, "predecessors": [{"name": "Phần_mềm_cho_Linux", "id": 46768}, {"name": "Phần_mềm_cho_Unix", "id": 150977}, {"name": "Phần_mềm_cho_Windows", "id": 38111}, {"name": "Hệ_điều_hành", "id": 5194}], "successors": [{"name": "Phần_mềm_nền_tảng_Java", "id": 3265302}, {"name": "Phần_mềm_tự_do_đa_nền_tảng", "id": 19522549}]}

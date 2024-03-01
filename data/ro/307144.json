@@ -1,1 +1,1 @@
-{"name": "Contracte", "id": 307144, "predecessors": [{"name": "Documente_oficiale", "id": 22487}], "successors": [{"name": "Asigurări", "id": 200358}]}
+{"name": "Contracte", "id": 307144, "predecessors": [{"name": "Drept_privat", "id": 1573347}, {"name": "Documente_oficiale", "id": 22487}, {"name": "Drept", "id": 19804}], "successors": [{"name": "Asigurări", "id": 200358}]}

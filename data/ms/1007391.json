@@ -1,1 +1,1 @@
-{"name": "Sistem_limfa", "id": 1007391, "predecessors": [{"name": "Anatomi_haiwan", "id": 76460}, {"name": "Angiologi", "id": 970681}, {"name": "Sistem_imun", "id": 970171}, {"name": "Anatomi", "id": 48731}], "successors": []}
+{"name": "Sistem_limfa", "id": 1007391, "predecessors": [{"name": "Anatomi_haiwan", "id": 76460}, {"name": "Angiologi", "id": 970681}, {"name": "Sistem_imun", "id": 970171}, {"name": "Anatomi", "id": 48731}], "successors": [{"name": "Limfosit", "id": 1175302}]}

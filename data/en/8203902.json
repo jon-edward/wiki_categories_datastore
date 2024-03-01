@@ -1,1 +1,1 @@
-{"name": "Kosher_restaurants", "id": 8203902, "predecessors": [{"name": "Kosher_food", "id": 7096869}, {"name": "Restaurants_by_type", "id": 15748273}, {"name": "Jewish_cuisine", "id": 3473739}], "successors": []}
+{"name": "Kosher_restaurants", "id": 8203902, "predecessors": [{"name": "Kosher_food", "id": 7096869}, {"name": "Restaurants_by_type", "id": 15748273}, {"name": "Jewish_cuisine", "id": 3473739}], "successors": [{"name": "Fleischig_restaurants", "id": 69482717}]}

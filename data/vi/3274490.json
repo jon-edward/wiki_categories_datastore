@@ -1,1 +1,0 @@
-{"name": "Cảm_biến", "id": 3274490, "predecessors": [{"name": "Biến_đổi_năng_lượng", "id": 121186}, {"name": "Linh_kiện_điện_tử", "id": 17182}], "successors": [{"name": "Cảm_biến_ảnh", "id": 2449131}, {"name": "Cảm_biến_sinh_học", "id": 19485643}, {"name": "MOSFET", "id": 19485778}]}

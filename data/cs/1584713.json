@@ -1,1 +1,1 @@
-{"name": "Turistická_doprava", "id": 1584713, "predecessors": [{"name": "Doprava", "id": 5636}, {"name": "Turistika", "id": 5285}], "successors": [{"name": "Lanové_dráhy", "id": 54862}]}
+{"name": "Turistická_doprava", "id": 1584713, "predecessors": [{"name": "Turistika", "id": 5285}, {"name": "Doprava", "id": 5636}], "successors": [{"name": "Lanové_dráhy", "id": 54862}]}

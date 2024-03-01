@@ -1,1 +1,0 @@
-{"name": "Mạch_tích_hợp", "id": 3170435, "predecessors": [{"name": "Kỹ_thuật_máy_tính", "id": 1520214}, {"name": "Mạch_điện", "id": 325029}, {"name": "Điện_tử_kỹ_thuật_số", "id": 19138721}], "successors": [{"name": "Vi_xử_lý", "id": 45611}, {"name": "Cảm_biến_ảnh", "id": 2449131}, {"name": "MOSFET", "id": 19485778}]}

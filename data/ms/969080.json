@@ -1,1 +1,1 @@
-{"name": "Gas_rumah_hijau", "id": 969080, "predecessors": [{"name": "Gas", "id": 27955}, {"name": "Perubahan_iklim", "id": 160100}], "successors": []}
+{"name": "Gas_rumah_hijau", "id": 969080, "predecessors": [{"name": "Gas", "id": 27955}, {"name": "Perubahan_iklim", "id": 160100}], "successors": [{"name": "Karbon_dioksida", "id": 160125}]}

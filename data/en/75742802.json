@@ -1,1 +1,1 @@
-{"name": "Tobacco-related_deaths", "id": 75742802, "predecessors": [{"name": "Drug-related_deaths", "id": 1302615}], "successors": []}
+{"name": "Tobacco-related_deaths", "id": 75742802, "predecessors": [{"name": "Deaths_from_cancer", "id": 18669378}, {"name": "Drug-related_deaths", "id": 1302615}], "successors": []}

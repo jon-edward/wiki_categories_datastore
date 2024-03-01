@@ -1,1 +1,1 @@
-{"name": "Monopolo", "id": 465595, "predecessors": [{"name": "Ekonomiaj_sistemoj", "id": 439139}, {"name": "Industrio", "id": 108587}, {"name": "Financa_merkato", "id": 465604}], "successors": []}
+{"name": "Monopolo", "id": 465595, "predecessors": [{"name": "Ekonomiaj_sistemoj", "id": 439139}, {"name": "Industrio", "id": 108587}, {"name": "Financa_merkato", "id": 465604}], "successors": [{"name": "Monopoloj", "id": 465594}]}

@@ -1,1 +1,1 @@
-{"name": "Dot_patterns", "id": 2542605, "predecessors": [{"name": "Geometric_shapes", "id": 1470457}, {"name": "Patterns", "id": 1349988}], "successors": [{"name": "Figurate_numbers", "id": 925128}]}
+{"name": "Dot_patterns", "id": 2542605, "predecessors": [{"name": "Patterns", "id": 1349988}], "successors": [{"name": "Figurate_numbers", "id": 925128}]}

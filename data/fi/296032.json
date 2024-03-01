@@ -1,1 +1,1 @@
-{"name": "Musiikkipelit", "id": 296032, "predecessors": [{"name": "Musiikkiohjelmistot", "id": 232459}, {"name": "Videopelit", "id": 839380}], "successors": [{"name": "Tanssipelit", "id": 20484}, {"name": "Rytmipelit", "id": 114695}]}
+{"name": "Musiikkipelit", "id": 296032, "predecessors": [{"name": "Musiikkiohjelmistot", "id": 232459}, {"name": "Elektroniset_pelit", "id": 1294219}], "successors": [{"name": "Tanssipelit", "id": 20484}, {"name": "Rytmipelit", "id": 114695}]}

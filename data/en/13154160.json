@@ -1,1 +1,1 @@
-{"name": "Car_carrier_shipping_companies", "id": 13154160, "predecessors": [{"name": "Logistics_companies", "id": 7440032}], "successors": []}
+{"name": "Car_carrier_shipping_companies", "id": 13154160, "predecessors": [{"name": "Shipping_companies", "id": 881735}], "successors": []}

@@ -1,1 +1,0 @@
-{"name": "Listor_med_anknytning_till_medicin", "id": 679179, "predecessors": [{"name": "Medicin", "id": 122937}, {"name": "Topp", "id": 113605}], "successors": [{"name": "Medicinsk_klassifikation", "id": 1489796}]}

@@ -1,1 +1,1 @@
-{"name": "MediaWiki_websiteovi", "id": 4545090, "predecessors": [{"name": "Mrežna_mjesta", "id": 157133}, {"name": "Nevladine_organizacije", "id": 27855}], "successors": [{"name": "Projekti_Wikimedije", "id": 4545088}]}
+{"name": "Sajtovi_zasnovani_na_MediaWikiju", "id": 4545090, "predecessors": [{"name": "Nevladine_organizacije", "id": 27855}, {"name": "Sajtovi", "id": 157133}], "successors": [{"name": "Wikimedijini_projekti", "id": 4545088}]}
