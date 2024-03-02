@@ -1,1 +1,1 @@
-{"name": "Vainqueur_du_rallye_du_Touquet", "id": 12486794, "predecessors": [{"name": "Sportif_lié_au_Touquet-Paris-Plage", "id": 12450598}, {"name": "Automobile", "id": 83581}], "successors": []}
+{"name": "Vainqueur_du_rallye_du_Touquet", "id": 12486794, "predecessors": [{"name": "Sportif_lié_au_Touquet-Paris-Plage", "id": 12450598}, {"name": "Sport_automobile", "id": 130529}], "successors": []}

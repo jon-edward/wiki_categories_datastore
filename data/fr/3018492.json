@@ -1,1 +1,1 @@
-{"name": "Œuvre_expressionniste", "id": 3018492, "predecessors": [{"name": "Expressionnisme", "id": 531196}, {"name": "Communication", "id": 84690}], "successors": [{"name": "Film_expressionniste", "id": 2378151}, {"name": "Architecture_expressionniste", "id": 3601542}]}
+{"name": "Œuvre_expressionniste", "id": 3018492, "predecessors": [{"name": "Expressionnisme", "id": 531196}, {"name": "Œuvre_d'art", "id": 230126}], "successors": [{"name": "Film_expressionniste", "id": 2378151}, {"name": "Architecture_expressionniste", "id": 3601542}]}

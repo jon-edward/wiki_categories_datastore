@@ -1,1 +1,1 @@
-{"name": "Turm_in_Heidelberg", "id": 10090505, "predecessors": [{"name": "Bauwerk_in_Heidelberg", "id": 1992305}, {"name": "Architektur", "id": 1884679}, {"name": "Architektur_(Deutschland)", "id": 1206957}], "successors": []}
+{"name": "Turm_in_Heidelberg", "id": 10090505, "predecessors": [{"name": "Bauwerk_in_Heidelberg", "id": 1992305}, {"name": "Turm", "id": 239452}, {"name": "Architektur_(Deutschland)", "id": 1206957}], "successors": []}

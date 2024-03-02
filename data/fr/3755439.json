@@ -1,1 +1,1 @@
-{"name": "Nez", "id": 3755439, "predecessors": [{"name": "Système_respiratoire", "id": 276929}, {"name": "Mot_long", "id": 1288054}, {"name": "Chimie", "id": 81540}], "successors": [{"name": "Nez_dans_la_culture", "id": 15410444}]}
+{"name": "Nez", "id": 3755439, "predecessors": [{"name": "Système_respiratoire", "id": 276929}, {"name": "Chimie", "id": 81540}, {"name": "Lexicologie", "id": 239903}], "successors": [{"name": "Nez_dans_la_culture", "id": 15410444}]}

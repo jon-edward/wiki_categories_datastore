@@ -1,0 +1,1 @@
+{"name": "Mantenimiento", "id": 1387897, "predecessors": [{"name": "Escasez", "id": 8526646}, {"name": "Ingeniería", "id": 65205}], "successors": [{"name": "Mantenimiento_de_aeronaves", "id": 4516454}, {"name": "Mantenimiento_de_software", "id": 5845589}, {"name": "Mantenimiento_de_una_embarcación", "id": 9346026}, {"name": "Talleres_ferroviarios_de_Argentina", "id": 8353721}]}

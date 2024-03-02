@@ -1,0 +1,1 @@
+{"name": "GNOME", "id": 48448, "predecessors": [{"name": "Dự_án_GNU", "id": 65089}, {"name": "Dự_án_phần_mềm_tự_do", "id": 68369}, {"name": "Môi_trường_màn_hình_nền_tự_do", "id": 48444}], "successors": [{"name": "Freedesktop.org", "id": 1311478}, {"name": "GTK", "id": 15394732}]}

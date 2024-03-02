@@ -1,0 +1,1 @@
+{"name": "알레르기", "id": 108502, "predecessors": [{"name": "면역학", "id": 13232}], "successors": [{"name": "식품_알레르기", "id": 3337879}]}

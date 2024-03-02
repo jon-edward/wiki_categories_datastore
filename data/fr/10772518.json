@@ -1,1 +1,1 @@
-{"name": "Compositrice_de_jazz", "id": 10772518, "predecessors": [{"name": "Musicienne_de_jazz", "id": 10845624}, {"name": "Accueil", "id": 1155637}], "successors": [{"name": "Compositrice_française_de_jazz", "id": 13146262}]}
+{"name": "Compositrice_de_jazz", "id": 10772518, "predecessors": [{"name": "Compositrice", "id": 1591804}, {"name": "Musicienne_de_jazz", "id": 10845624}], "successors": [{"name": "Compositrice_française_de_jazz", "id": 13146262}]}

@@ -1,1 +1,1 @@
-{"name": "Pilote_de_rallye_allemand", "id": 5754876, "predecessors": [{"name": "Pilote_automobile_allemand", "id": 669720}, {"name": "Automobile", "id": 83581}], "successors": []}
+{"name": "Pilote_de_rallye_allemand", "id": 5754876, "predecessors": [{"name": "Pilote_automobile_allemand", "id": 669720}, {"name": "Sport_automobile", "id": 130529}], "successors": []}

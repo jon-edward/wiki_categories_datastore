@@ -1,1 +1,1 @@
-{"name": "Opisthobranchia", "id": 4435993, "predecessors": [{"name": "Discipline_zoologique", "id": 1199295}], "successors": [{"name": "Sacoglossa", "id": 4435986}, {"name": "Dexiarchia", "id": 6958601}, {"name": "Euctenidiacea", "id": 6958605}, {"name": "Aplysiidae", "id": 5645673}]}
+{"name": "Opisthobranchia", "id": 4435993, "predecessors": [{"name": "Zoologie", "id": 81546}], "successors": [{"name": "Sacoglossa", "id": 4435986}, {"name": "Dexiarchia", "id": 6958601}, {"name": "Euctenidiacea", "id": 6958605}, {"name": "Aplysiidae", "id": 5645673}]}

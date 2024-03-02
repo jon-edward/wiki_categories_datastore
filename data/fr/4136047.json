@@ -1,1 +1,1 @@
-{"name": "Pilote_de_rallye_norvégien", "id": 4136047, "predecessors": [{"name": "Pilote_automobile_norvégien", "id": 1438312}, {"name": "Automobile", "id": 83581}], "successors": []}
+{"name": "Pilote_de_rallye_norvégien", "id": 4136047, "predecessors": [{"name": "Pilote_automobile_norvégien", "id": 1438312}, {"name": "Sport_automobile", "id": 130529}], "successors": []}

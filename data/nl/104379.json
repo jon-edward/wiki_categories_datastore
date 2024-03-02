@@ -1,0 +1,1 @@
+{"name": "Afval", "id": 104379, "predecessors": [{"name": "Milieu", "id": 67603}], "successors": [{"name": "Verpakking", "id": 218005}, {"name": "Radioactief_afval", "id": 639189}, {"name": "Afvalverwerking", "id": 1432357}, {"name": "Ontlasting", "id": 1872223}]}

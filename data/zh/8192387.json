@@ -1,0 +1,1 @@
+{"name": "货物运输", "id": 8192387, "predecessors": [{"name": "消費品", "id": 58336}, {"name": "贸易", "id": 512833}], "successors": [{"name": "包裝", "id": 740106}]}

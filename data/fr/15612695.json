@@ -1,1 +1,1 @@
-{"name": "Film_tourné_avec_un_téléphone_mobile", "id": 15612695, "predecessors": [{"name": "Téléphone_mobile", "id": 2540938}, {"name": "Communication", "id": 84690}], "successors": []}
+{"name": "Film_tourné_avec_un_téléphone_mobile", "id": 15612695, "predecessors": [{"name": "Téléphone_mobile", "id": 2540938}, {"name": "Œuvre_d'art", "id": 230126}], "successors": []}

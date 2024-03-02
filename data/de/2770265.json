@@ -1,1 +1,1 @@
-{"name": "Holzturm", "id": 2770265, "predecessors": [{"name": "Bauwerk_aus_Holz", "id": 2771929}, {"name": "Architektur", "id": 1884679}], "successors": []}
+{"name": "Holzturm", "id": 2770265, "predecessors": [{"name": "Bauwerk_aus_Holz", "id": 2771929}, {"name": "Turm", "id": 239452}], "successors": []}

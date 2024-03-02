@@ -1,1 +1,1 @@
-{"name": "Octopode", "id": 1200470, "predecessors": [{"name": "Discipline_zoologique", "id": 1199295}], "successors": [{"name": "Octopode_(nom_scientifique)", "id": 1200491}, {"name": "Octopode_(nom_vernaculaire)", "id": 1200506}, {"name": "Octopodidae", "id": 7991569}]}
+{"name": "Octopode", "id": 1200470, "predecessors": [{"name": "Zoologie", "id": 81546}], "successors": [{"name": "Octopode_(nom_scientifique)", "id": 1200491}, {"name": "Octopode_(nom_vernaculaire)", "id": 1200506}, {"name": "Octopodidae", "id": 7991569}]}

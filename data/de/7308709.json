@@ -1,1 +1,1 @@
-{"name": "Feuerwachturm", "id": 7308709, "predecessors": [{"name": "Feuerwehr", "id": 235365}, {"name": "Waldschutz", "id": 1150107}, {"name": "Architektur", "id": 1884679}], "successors": []}
+{"name": "Feuerwachturm", "id": 7308709, "predecessors": [{"name": "Feuerwehr", "id": 235365}, {"name": "Turm", "id": 239452}, {"name": "Waldschutz", "id": 1150107}], "successors": []}

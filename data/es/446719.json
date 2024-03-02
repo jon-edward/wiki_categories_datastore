@@ -1,0 +1,1 @@
+{"name": "Analgésicos", "id": 446719, "predecessors": [{"name": "Fármacos_del_sistema_nervioso", "id": 2081543}], "successors": [{"name": "Narcóticos", "id": 211945}, {"name": "Opioides", "id": 212214}, {"name": "Analgésicos_opioides", "id": 2081664}, {"name": "Analgésicos-antipiréticos_no_opioides", "id": 2081666}, {"name": "Antimigrañosos", "id": 2081668}]}

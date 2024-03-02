@@ -1,0 +1,1 @@
+{"name": "Listor_med_anknytning_till_film", "id": 671987, "predecessors": [{"name": "Film", "id": 50715}, {"name": "Listor_med_anknytning_till_kultur", "id": 444104}], "successors": [{"name": "Filmlistor", "id": 1649065}, {"name": "Filmografier", "id": 4982885}]}

@@ -1,0 +1,1 @@
+{"name": "Error_judicial", "id": 4154092, "predecessors": [{"name": "Casos_judiciales", "id": 242188}, {"name": "Error", "id": 9408459}], "successors": [{"name": "Caso_Dreyfus", "id": 1332367}, {"name": "Personas_condenadas_injustamente_por_asesinato", "id": 7422104}]}

@@ -1,1 +1,1 @@
-{"name": "Mammifère_mâle", "id": 11490092, "predecessors": [{"name": "Biologie_du_sexe_chez_l'humain", "id": 10497240}, {"name": "Vivant", "id": 4649497}], "successors": [{"name": "Étalon", "id": 10605988}]}
+{"name": "Mammifère_mâle", "id": 11490092, "predecessors": [{"name": "Zoologie", "id": 81546}, {"name": "Biologie_du_sexe_chez_l'humain", "id": 10497240}], "successors": [{"name": "Étalon", "id": 10605988}]}

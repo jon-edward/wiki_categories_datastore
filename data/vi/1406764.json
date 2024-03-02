@@ -1,0 +1,1 @@
+{"name": "Quản_lý_nguồn_nước", "id": 1406764, "predecessors": [{"name": "Nước_và_môi_trường", "id": 1406755}, {"name": "Quản_lý_tài_nguyên_thiên_nhiên", "id": 2440815}], "successors": [{"name": "Thủy_lợi", "id": 797125}, {"name": "Cung_cấp_nước", "id": 1699446}, {"name": "Xử_lý_nước", "id": 2430177}, {"name": "Phòng_chống_lũ_lụt", "id": 3211100}]}

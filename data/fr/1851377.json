@@ -1,1 +1,1 @@
-{"name": "Signe_clinique_en_otorhinolaryngologie", "id": 1851377, "predecessors": [{"name": "Signe_clinique", "id": 577936}, {"name": "Mot_long", "id": 1288054}], "successors": []}
+{"name": "Signe_clinique_en_otorhinolaryngologie", "id": 1851377, "predecessors": [{"name": "Dépistage_et_diagnostic_en_otorhinolaryngologie", "id": 1623913}, {"name": "Signe_clinique", "id": 577936}], "successors": []}

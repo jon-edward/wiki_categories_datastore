@@ -1,1 +1,1 @@
-{"name": "Écologie_du_paysage", "id": 1294103, "predecessors": [{"name": "Discipline_écologique", "id": 1048506}, {"name": "Paysage", "id": 1457418}], "successors": [{"name": "Biogéographie", "id": 352475}, {"name": "Clôture", "id": 3513141}, {"name": "Connectivité_écologique", "id": 5248514}]}
+{"name": "Écologie_du_paysage", "id": 1294103, "predecessors": [{"name": "Paysage", "id": 1457418}, {"name": "Écologie", "id": 80787}], "successors": [{"name": "Biogéographie", "id": 352475}, {"name": "Clôture", "id": 3513141}, {"name": "Connectivité_écologique", "id": 5248514}]}

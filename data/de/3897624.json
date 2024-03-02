@@ -1,1 +1,1 @@
-{"name": "Uhrturm", "id": 3897624, "predecessors": [{"name": "Öffentliche_Uhr", "id": 11014325}, {"name": "Architektur", "id": 1884679}], "successors": []}
+{"name": "Uhrturm", "id": 3897624, "predecessors": [{"name": "Turm", "id": 239452}, {"name": "Öffentliche_Uhr", "id": 11014325}], "successors": []}

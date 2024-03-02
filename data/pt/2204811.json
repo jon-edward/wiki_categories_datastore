@@ -1,0 +1,1 @@
+{"name": "Infraestrutura_aeroportuária", "id": 2204811, "predecessors": [{"name": "Transporte_aéreo", "id": 1731231}, {"name": "Infraestrutura", "id": 2658298}], "successors": [{"name": "Aeroportos", "id": 44582}, {"name": "Operadores_de_aeroportos", "id": 4644158}]}

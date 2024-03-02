@@ -1,0 +1,1 @@
+{"name": "Sữa", "id": 525420, "predecessors": [{"name": "Chế_phẩm_sữa", "id": 186879}, {"name": "Sản_phẩm_động_vật", "id": 525419}, {"name": "Thức_uống", "id": 317843}, {"name": "Thức_uống_không_cồn", "id": 827472}, {"name": "Thực_phẩm", "id": 33900}], "successors": [{"name": "Chế_phẩm_sữa", "id": 186879}, {"name": "Thức_uống_làm_từ_sữa", "id": 19548866}]}

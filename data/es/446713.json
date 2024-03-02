@@ -1,0 +1,1 @@
+{"name": "Vacunas", "id": 446713, "predecessors": [{"name": "Inmunología", "id": 102552}, {"name": "Medicina_preventiva", "id": 1449728}, {"name": "Productos_biotecnológicos", "id": 455640}, {"name": "Biocidas", "id": 4968931}], "successors": [{"name": "Vacunas_contra_la_COVID-19", "id": 9721057}]}

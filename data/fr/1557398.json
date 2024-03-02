@@ -1,1 +1,1 @@
-{"name": "Maladie_tumorale_du_système_nerveux", "id": 1557398, "predecessors": [{"name": "Neuropathologie", "id": 4086785}, {"name": "Maladie_du_système_nerveux", "id": 1549630}, {"name": "Tumeur", "id": 7771273}], "successors": []}
+{"name": "Maladie_tumorale_du_système_nerveux", "id": 1557398, "predecessors": [{"name": "Neuropathologie", "id": 4086785}, {"name": "Maladie_du_système_nerveux", "id": 1549630}, {"name": "Tumeur", "id": 7771273}], "successors": [{"name": "Cancer_du_système_nerveux", "id": 12553176}]}

@@ -1,1 +1,1 @@
-{"name": "Mammalogiste_japonais", "id": 952310, "predecessors": [{"name": "Zoologiste_japonais", "id": 1052161}, {"name": "Discipline_zoologique", "id": 1199295}, {"name": "Accueil", "id": 1155637}], "successors": []}
+{"name": "Mammalogiste_japonais", "id": 952310, "predecessors": [{"name": "Zoologiste_japonais", "id": 1052161}, {"name": "Zoologie", "id": 81546}, {"name": "Accueil", "id": 1155637}], "successors": []}

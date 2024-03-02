@@ -1,0 +1,1 @@
+{"name": "CAE", "id": 3214780, "predecessors": [{"name": "Sản_xuất", "id": 37656}], "successors": [{"name": "CAD", "id": 190427}, {"name": "CAM", "id": 3214773}, {"name": "Phần_mềm_CAE", "id": 3214777}, {"name": "CNC", "id": 13712171}]}

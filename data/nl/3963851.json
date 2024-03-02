@@ -1,0 +1,1 @@
+{"name": "Computernetwerk", "id": 3963851, "predecessors": [{"name": "Computer", "id": 85026}], "successors": [{"name": "Internet", "id": 63440}, {"name": "Netwerkprotocol", "id": 81412}, {"name": "Distributed_computing", "id": 166563}, {"name": "Netwerksoftware", "id": 591356}]}

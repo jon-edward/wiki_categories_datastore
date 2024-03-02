@@ -1,1 +1,1 @@
-{"name": "Élevage_porcin", "id": 2680533, "predecessors": [{"name": "Élevage_spécialisé", "id": 2682861}, {"name": "Vivant", "id": 4649497}], "successors": [{"name": "Race_porcine", "id": 113827}]}
+{"name": "Élevage_porcin", "id": 2680533, "predecessors": [{"name": "Élevage_spécialisé", "id": 2682861}, {"name": "Zoologie", "id": 81546}], "successors": [{"name": "Race_porcine", "id": 113827}]}

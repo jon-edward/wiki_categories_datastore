@@ -1,1 +1,1 @@
-{"name": "Zuchttierschau", "id": 12645530, "predecessors": [{"name": "Tierzucht", "id": 1062321}, {"name": "Wettbewerb", "id": 561951}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}
+{"name": "Zuchttierschau", "id": 12645530, "predecessors": [{"name": "Tierzucht", "id": 1062321}, {"name": "Wettbewerb", "id": 561951}, {"name": "Veranstaltung", "id": 400277}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Panthéon_de_Paris", "id": 1594136, "predecessors": [{"name": "Cimetière", "id": 103473}], "successors": [{"name": "Personnalité_transférée_au_Panthéon_de_Paris", "id": 1596843}, {"name": "Personne_citée_au_Panthéon_de_Paris", "id": 1596844}]}
+{"name": "Panthéon_de_Paris", "id": 1594136, "predecessors": [{"name": "Cimetière", "id": 103473}, {"name": "Monument", "id": 87354}], "successors": [{"name": "Personnalité_transférée_au_Panthéon_de_Paris", "id": 1596843}, {"name": "Personne_citée_au_Panthéon_de_Paris", "id": 1596844}]}

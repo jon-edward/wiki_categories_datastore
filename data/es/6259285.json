@@ -1,0 +1,1 @@
+{"name": "Uno", "id": 6259285, "predecessors": [{"name": "Constantes_matemáticas", "id": 1850497}, {"name": "Números_enteros", "id": 4551056}, {"name": "Números_primos", "id": 1618350}], "successors": [{"name": "Operaciones_unarias", "id": 10334676}]}

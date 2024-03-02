@@ -1,1 +1,1 @@
-{"name": "Pilote_de_rallye_tchèque", "id": 5777689, "predecessors": [{"name": "Pilote_automobile_tchèque", "id": 2319603}, {"name": "Automobile", "id": 83581}], "successors": []}
+{"name": "Pilote_de_rallye_tchèque", "id": 5777689, "predecessors": [{"name": "Pilote_automobile_tchèque", "id": 2319603}, {"name": "Sport_automobile", "id": 130529}], "successors": []}

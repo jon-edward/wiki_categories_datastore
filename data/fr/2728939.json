@@ -1,1 +1,1 @@
-{"name": "Tour_Down_Under", "id": 2728939, "predecessors": [{"name": "UCI_World_Tour", "id": 5089797}, {"name": "Compétition_cycliste", "id": 164669}, {"name": "Accueil", "id": 1155637}, {"name": "Compétition_cycliste_en_Australie", "id": 2823260}], "successors": []}
+{"name": "Tour_Down_Under", "id": 2728939, "predecessors": [{"name": "UCI_World_Tour", "id": 5089797}, {"name": "Événement_sportif_à_Adélaïde_(Australie)", "id": 5716464}, {"name": "Compétition_cycliste", "id": 164669}, {"name": "Compétition_cycliste_en_Australie", "id": 2823260}], "successors": []}

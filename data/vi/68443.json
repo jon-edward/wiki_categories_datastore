@@ -1,0 +1,1 @@
+{"name": "Tuần", "id": 68443, "predecessors": [{"name": "Lịch", "id": 10690}, {"name": "Đơn_vị_thời_gian", "id": 1599685}], "successors": [{"name": "Ngày_trong_tuần", "id": 68440}]}

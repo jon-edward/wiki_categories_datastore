@@ -1,1 +1,1 @@
-{"name": "Femme_arachnologiste", "id": 14269736, "predecessors": [{"name": "Femme_zoologiste", "id": 6393366}, {"name": "Discipline_zoologique", "id": 1199295}], "successors": []}
+{"name": "Femme_arachnologiste", "id": 14269736, "predecessors": [{"name": "Femme_zoologiste", "id": 6393366}, {"name": "Zoologie", "id": 81546}], "successors": []}

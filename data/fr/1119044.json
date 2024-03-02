@@ -1,1 +1,1 @@
-{"name": "Presse_automobile", "id": 1119044, "predecessors": [{"name": "Média_automobile", "id": 14100657}, {"name": "Automobile", "id": 83581}, {"name": "Médias", "id": 84985}], "successors": [{"name": "Presse_automobile_en_France", "id": 1173661}]}
+{"name": "Presse_automobile", "id": 1119044, "predecessors": [{"name": "Média_automobile", "id": 14100657}, {"name": "Automobile", "id": 83581}, {"name": "Médias", "id": 84985}], "successors": [{"name": "Presse_automobile_en_France", "id": 1173661}, {"name": "Journaliste_automobile", "id": 16155388}]}

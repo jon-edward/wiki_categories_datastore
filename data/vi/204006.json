@@ -1,0 +1,1 @@
+{"name": "Giao_thức_tầng_mạng", "id": 204006, "predecessors": [{"name": "Giao_thức_Internet", "id": 17705}], "successors": [{"name": "Định_tuyến", "id": 55626}, {"name": "Giao_thức_IP", "id": 203999}, {"name": "URI", "id": 19524288}]}

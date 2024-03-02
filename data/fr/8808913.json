@@ -1,1 +1,1 @@
-{"name": "Discipline_agronomique", "id": 8808913, "predecessors": [{"name": "Agronomie", "id": 373572}, {"name": "Discipline_académique", "id": 3602878}], "successors": [{"name": "Géographie_rurale", "id": 435608}, {"name": "Pathologie_végétale", "id": 446922}, {"name": "Science_des_sols", "id": 13746205}]}
+{"name": "Discipline_agronomique", "id": 8808913, "predecessors": [{"name": "Agronomie", "id": 373572}, {"name": "Discipline_de_la_biologie", "id": 1082423}], "successors": []}

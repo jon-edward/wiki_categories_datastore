@@ -1,1 +1,1 @@
-{"name": "Ethnobotanique", "id": 1199277, "predecessors": [{"name": "Discipline_botanique", "id": 1023211}, {"name": "Anthropologie", "id": 84938}], "successors": [{"name": "Ethnobotaniste", "id": 4159494}]}
+{"name": "Ethnobotanique", "id": 1199277, "predecessors": [{"name": "Botanique", "id": 81547}, {"name": "Anthropologie", "id": 84938}], "successors": [{"name": "Ethnobotaniste", "id": 4159494}]}

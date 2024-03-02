@@ -1,0 +1,1 @@
+{"name": "暗号化プロトコル", "id": 3923699, "predecessors": [{"name": "アプリケーション層プロトコル", "id": 2214898}, {"name": "暗号技術", "id": 142576}], "successors": [{"name": "Transport_Layer_Security", "id": 3609239}]}

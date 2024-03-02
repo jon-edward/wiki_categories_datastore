@@ -1,1 +1,1 @@
-{"name": "Olfaction", "id": 771878, "predecessors": [{"name": "Perception", "id": 360640}, {"name": "Mot_long", "id": 1288054}, {"name": "Chimie", "id": 81540}], "successors": [{"name": "Art_olfactif", "id": 15913219}]}
+{"name": "Olfaction", "id": 771878, "predecessors": [{"name": "Perception", "id": 360640}, {"name": "Chimie", "id": 81540}, {"name": "Lexicologie", "id": 239903}], "successors": [{"name": "Art_olfactif", "id": 15913219}]}

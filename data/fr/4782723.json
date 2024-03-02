@@ -1,1 +1,1 @@
-{"name": "Génomique", "id": 4782723, "predecessors": [{"name": "Discipline_de_la_biologie", "id": 1082423}, {"name": "Génome", "id": 4782724}], "successors": []}
+{"name": "Génomique", "id": 4782723, "predecessors": [{"name": "Biologie", "id": 81357}, {"name": "Génome", "id": 4782724}], "successors": []}

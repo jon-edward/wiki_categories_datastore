@@ -1,0 +1,1 @@
+{"name": "Lỗi_sai", "id": 3271079, "predecessors": [{"name": "Giao_tiếp_ở_người", "id": 18999077}, {"name": "Thiếu_hiểu_biết", "id": 3271080}, {"name": "Tri_thức", "id": 24894}, {"name": "Truyền_thông_sai_sự_thật", "id": 3185277}], "successors": [{"name": "Lỗi_máy_tính", "id": 3167589}, {"name": "Phát_hiện_và_sửa_lỗi", "id": 15973924}]}

@@ -1,1 +1,1 @@
-{"name": "Pilote_de_rallye_espagnol", "id": 1290573, "predecessors": [{"name": "Pilote_automobile_espagnol", "id": 739061}, {"name": "Automobile", "id": 83581}], "successors": []}
+{"name": "Pilote_de_rallye_espagnol", "id": 1290573, "predecessors": [{"name": "Pilote_automobile_espagnol", "id": 739061}, {"name": "Sport_automobile", "id": 130529}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Trésor_d'orfèvrerie", "id": 8437585, "predecessors": [{"name": "Orfèvrerie", "id": 1019330}, {"name": "Trésor", "id": 3158064}], "successors": [{"name": "Trésor_de_Saint-Denis", "id": 4281378}]}
+{"name": "Trésor_d'orfèvrerie", "id": 8437585, "predecessors": [{"name": "Orfèvrerie", "id": 1019330}, {"name": "Artéfact_archéologique", "id": 468701}], "successors": [{"name": "Trésor_de_Saint-Denis", "id": 4281378}]}

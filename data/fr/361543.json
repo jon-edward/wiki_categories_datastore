@@ -1,1 +1,1 @@
-{"name": "Inflammation", "id": 361543, "predecessors": [{"name": "Médecine", "id": 82499}, {"name": "Anatomopathologie", "id": 243587}], "successors": [{"name": "Connectivite", "id": 324489}, {"name": "Arthrite", "id": 944666}, {"name": "Anti-inflammatoire", "id": 4702321}]}
+{"name": "Inflammation", "id": 361543, "predecessors": [{"name": "Discipline_de_la_biologie", "id": 1082423}, {"name": "Anatomopathologie", "id": 243587}], "successors": [{"name": "Connectivite", "id": 324489}, {"name": "Arthrite", "id": 944666}, {"name": "Anti-inflammatoire", "id": 4702321}]}

@@ -1,1 +1,1 @@
-{"name": "Œuvre_de_Vincent_van_Gogh_au_musée_Van_Gogh", "id": 12296017, "predecessors": [{"name": "Œuvre_d'un_artiste_dans_un_musée_qui_lui_est_consacré", "id": 15793606}, {"name": "Communication", "id": 84690}, {"name": "Vincent_van_Gogh", "id": 4755833}], "successors": []}
+{"name": "Œuvre_de_Vincent_van_Gogh_au_musée_Van_Gogh", "id": 12296017, "predecessors": [{"name": "Œuvre_d'un_artiste_dans_un_musée_qui_lui_est_consacré", "id": 15793606}, {"name": "Œuvre_d'art", "id": 230126}, {"name": "Vincent_van_Gogh", "id": 4755833}], "successors": []}

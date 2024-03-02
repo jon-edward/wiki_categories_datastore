@@ -1,1 +1,1 @@
-{"name": "Film_sur_les_langues_et_la_traduction", "id": 7507158, "predecessors": [{"name": "Traduction", "id": 343265}, {"name": "Fiction", "id": 340157}], "successors": [{"name": "Film_documentaire_sur_les_langues_et_la_traduction", "id": 15200557}]}
+{"name": "Film_sur_les_langues_et_la_traduction", "id": 7507158, "predecessors": [{"name": "Traduction", "id": 343265}, {"name": "Fiction", "id": 340157}, {"name": "Communication", "id": 84690}], "successors": [{"name": "Film_documentaire_sur_les_langues_et_la_traduction", "id": 15200557}]}

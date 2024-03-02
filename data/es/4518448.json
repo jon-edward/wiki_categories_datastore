@@ -1,0 +1,1 @@
+{"name": "Transporte_aéreo", "id": 4518448, "predecessors": [{"name": "Ingeniería_aeroespacial", "id": 2366303}, {"name": "Transporte", "id": 55371}], "successors": [{"name": "Aeronáutica", "id": 51122}, {"name": "Transporte_por_avión", "id": 397542}, {"name": "Seguridad_aérea", "id": 4509594}]}

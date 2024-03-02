@@ -1,0 +1,1 @@
+{"name": "Bilar_efter_klass", "id": 8481558, "predecessors": [{"name": "Bilar", "id": 55125}, {"name": "Fordon", "id": 76896}], "successors": [{"name": "Sportbilar", "id": 277999}, {"name": "Muskelbilar", "id": 720280}, {"name": "Mikrobilar", "id": 871760}, {"name": "Mopedbilar", "id": 8259979}]}

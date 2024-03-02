@@ -1,0 +1,1 @@
+{"name": "Máy_biến_năng", "id": 228183, "predecessors": [{"name": "Biến_đổi_năng_lượng", "id": 121186}, {"name": "Linh_kiện_điện_tử", "id": 17182}, {"name": "Máy_điện", "id": 75359}, {"name": "Xử_lý_tín_hiệu", "id": 14117}], "successors": [{"name": "Pin", "id": 26952}, {"name": "Động_cơ", "id": 43050}, {"name": "Máy_phát_điện", "id": 228182}, {"name": "Loa", "id": 256287}]}
