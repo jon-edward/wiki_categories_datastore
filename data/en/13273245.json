@@ -1,1 +1,1 @@
-{"name": "Ecological_techniques", "id": 13273245, "predecessors": [{"name": "Ecological_restoration", "id": 24997051}, {"name": "Habitat_management_equipment_and_methods", "id": 4127077}], "successors": [{"name": "Bioremediation", "id": 8031396}]}
+{"name": "Ecological_techniques", "id": 13273245, "predecessors": [{"name": "Biological_techniques_and_tools", "id": 5881429}, {"name": "Habitat_management_equipment_and_methods", "id": 4127077}], "successors": [{"name": "Bioremediation", "id": 8031396}]}

@@ -1,1 +1,1 @@
-{"name": "Epilepsie", "id": 822640, "predecessors": [{"name": "Boli_ale_sistemului_nervos", "id": 876593}], "successors": [{"name": "Antiepileptice", "id": 2473377}]}
+{"name": "Epilepsie", "id": 822640, "predecessors": [{"name": "Boli_ale_sistemului_nervos", "id": 876593}], "successors": [{"name": "Persoane_cu_epilepsie", "id": 1528685}, {"name": "Antiepileptice", "id": 2473377}, {"name": "Decese_cauzate_de_epilepsie", "id": 3074387}]}

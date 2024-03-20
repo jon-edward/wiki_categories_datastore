@@ -1,1 +1,1 @@
-{"name": "Dorset_Militia_officers", "id": 73706999, "predecessors": [{"name": "Dorset_Regiment_officers", "id": 13739714}], "successors": []}
+{"name": "Dorset_Militia_officers", "id": 73706999, "predecessors": [{"name": "Dorset_Militia", "id": 73706892}, {"name": "Dorset_Regiment_officers", "id": 13739714}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Dance_writers", "id": 8640106, "predecessors": [{"name": "Entertainment_occupations", "id": 1003616}, {"name": "Dance_research", "id": 27554409}], "successors": [{"name": "Dance_critics", "id": 11081957}]}
+{"name": "Dance_writers", "id": 8640106, "predecessors": [{"name": "Dance_scholars", "id": 74680410}, {"name": "Entertainment_occupations", "id": 1003616}], "successors": [{"name": "Dance_critics", "id": 11081957}]}

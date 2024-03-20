@@ -1,1 +1,1 @@
-{"name": "Microsoftin_ohjelmistot", "id": 869897, "predecessors": [{"name": "Microsoft", "id": 166232}, {"name": "Ohjelmistot", "id": 20754}], "successors": [{"name": "Windows-versiot", "id": 685110}]}
+{"name": "Microsoftin_ohjelmistot", "id": 869897, "predecessors": [{"name": "Microsoft", "id": 166232}, {"name": "Ohjelmistot", "id": 20754}], "successors": [{"name": "Microsoft_Windows", "id": 31146}, {"name": "Windows-versiot", "id": 685110}]}

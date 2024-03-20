@@ -1,1 +1,1 @@
-{"name": "Burgess_Shale_fossils", "id": 7880007, "predecessors": [{"name": "Lagerstätten", "id": 21168918}], "successors": [{"name": "Burgess_Shale_animals", "id": 54824618}]}
+{"name": "Burgess_Shale_fossils", "id": 7880007, "predecessors": [{"name": "Lagerstätten", "id": 21168918}, {"name": "Biology", "id": 692675}], "successors": [{"name": "Burgess_Shale_animals", "id": 54824618}]}

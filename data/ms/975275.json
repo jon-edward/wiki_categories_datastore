@@ -1,1 +1,1 @@
-{"name": "Asid_amino", "id": 975275, "predecessors": [{"name": "Amina", "id": 970913}, {"name": "Asid_karboksilik", "id": 351383}], "successors": [{"name": "Asid_amino_proteinogenik", "id": 1132901}]}
+{"name": "Asid_amino", "id": 975275, "predecessors": [{"name": "Amina", "id": 970913}, {"name": "Asid_karboksilik", "id": 351383}], "successors": [{"name": "Asid_amino_proteinogenik", "id": 1132901}, {"name": "Asid_alfa-amino", "id": 1174319}]}

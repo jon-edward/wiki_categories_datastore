@@ -1,1 +1,1 @@
-{"name": "Science_libraries", "id": 42773515, "predecessors": [{"name": "History_of_science", "id": 707333}, {"name": "Inquiry", "id": 21994999}], "successors": [{"name": "Medical_libraries", "id": 18886235}]}
+{"name": "Science_libraries", "id": 42773515, "predecessors": [{"name": "History_of_science", "id": 707333}, {"name": "Scientific_organizations", "id": 53077700}], "successors": [{"name": "Medical_libraries", "id": 18886235}]}

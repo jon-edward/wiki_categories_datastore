@@ -1,1 +1,1 @@
-{"name": "Ekuazioak", "id": 39822, "predecessors": [{"name": "Fisikako_ekuazioak", "id": 39821}, {"name": "Matematika", "id": 5742}], "successors": [{"name": "Fisikako_ekuazioak", "id": 39821}, {"name": "Ekuazio_diferentzialak", "id": 337821}]}
+{"name": "Ekuazioak", "id": 39822, "predecessors": [{"name": "Fisikako_ekuazioak", "id": 39821}, {"name": "Matematika", "id": 5742}, {"name": "Matematikaren_filosofia", "id": 945774}], "successors": [{"name": "Fisikako_ekuazioak", "id": 39821}, {"name": "Ekuazio_diferentzialak", "id": 337821}]}

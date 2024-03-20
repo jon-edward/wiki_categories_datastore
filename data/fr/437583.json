@@ -1,1 +1,0 @@
-{"name": "Parfumerie", "id": 437583, "predecessors": [{"name": "Cosmétique", "id": 486826}, {"name": "Mode", "id": 525281}, {"name": "Parfum", "id": 690157}, {"name": "Soin_du_corps", "id": 122387}], "successors": [{"name": "Nom_de_parfum", "id": 5682146}, {"name": "Entreprise_de_la_parfumerie", "id": 5682249}, {"name": "Parfumeur", "id": 1042927}]}

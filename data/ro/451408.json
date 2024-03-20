@@ -1,1 +1,1 @@
-{"name": "Mecanica_solidului", "id": 451408, "predecessors": [{"name": "Mecanica_mediilor_continue", "id": 584736}], "successors": [{"name": "Seismologie", "id": 110114}, {"name": "Geotehnică", "id": 605253}, {"name": "Elasticitate_(fizică)", "id": 1927749}]}
+{"name": "Mecanica_solidului", "id": 451408, "predecessors": [{"name": "Mecanica_mediilor_continue", "id": 584736}], "successors": [{"name": "Seismologie", "id": 110114}, {"name": "Geotehnică", "id": 605253}, {"name": "Elasticitate_(fizică)", "id": 1927749}, {"name": "Deformare_(mecanică)", "id": 1927751}]}

@@ -1,1 +1,1 @@
-{"name": "Pești_marini", "id": 759040, "predecessors": [{"name": "Pești", "id": 759036}, {"name": "Biologie_marină", "id": 1300907}], "successors": [{"name": "Rechini", "id": 224321}, {"name": "Pești_din_Oceanul_Atlantic", "id": 1993482}]}
+{"name": "Pești_marini", "id": 759040, "predecessors": [{"name": "Pești", "id": 759036}, {"name": "Biologie_marină", "id": 1300907}], "successors": [{"name": "Rechini", "id": 224321}, {"name": "Pești_din_Marea_Neagră", "id": 1661240}, {"name": "Pești_din_Oceanul_Atlantic", "id": 1993482}]}

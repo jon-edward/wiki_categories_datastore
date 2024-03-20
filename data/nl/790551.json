@@ -1,1 +1,0 @@
-{"name": "Warmte", "id": 790551, "predecessors": [{"name": "Energie", "id": 63867}], "successors": [{"name": "Thermodynamica", "id": 67213}, {"name": "Koeling", "id": 579083}, {"name": "Warmtewisselaar", "id": 2133381}, {"name": "Verwarming", "id": 2134943}]}

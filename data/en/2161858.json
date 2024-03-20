@@ -1,1 +1,1 @@
-{"name": "Medicinal_chemistry", "id": 2161858, "predecessors": [{"name": "Biochemistry", "id": 695996}, {"name": "Chemistry", "id": 691185}], "successors": [{"name": "Drug_discovery", "id": 10435830}, {"name": "Natural_products", "id": 11677996}, {"name": "Medicinal_radiochemistry", "id": 45116184}]}
+{"name": "Medicinal_chemistry", "id": 2161858, "predecessors": [{"name": "Biochemistry", "id": 695996}, {"name": "Chemistry", "id": 691185}], "successors": [{"name": "Drug_discovery", "id": 10435830}, {"name": "Medicinal_radiochemistry", "id": 45116184}]}

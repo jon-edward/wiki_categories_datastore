@@ -1,1 +1,1 @@
-{"name": "Epic_poems_in_English", "id": 29638132, "predecessors": [{"name": "English-language_poems", "id": 37680134}, {"name": "Epic_poems", "id": 24592326}], "successors": [{"name": "Beowulf", "id": 40117485}, {"name": "Ossian", "id": 73990559}]}
+{"name": "Epic_poems_in_English", "id": 29638132, "predecessors": [{"name": "Epic_poems", "id": 24592326}, {"name": "Poems_in_English", "id": 37680134}], "successors": [{"name": "Beowulf", "id": 40117485}, {"name": "Ossian", "id": 73990559}]}

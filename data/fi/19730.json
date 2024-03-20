@@ -1,1 +1,1 @@
-{"name": "Miehitetyt_avaruuslennot", "id": 19730, "predecessors": [{"name": "Avaruustoiminta", "id": 35794}], "successors": [{"name": "Avaruussukkulalennot", "id": 188518}, {"name": "Avaruuslentäjät", "id": 432804}]}
+{"name": "Miehitetyt_avaruuslennot", "id": 19730, "predecessors": [{"name": "Avaruustoiminta", "id": 35794}], "successors": [{"name": "Apollo-ohjelma", "id": 21325}, {"name": "Avaruussukkulalennot", "id": 188518}, {"name": "Gemini-ohjelma", "id": 236429}, {"name": "Vostok-ohjelma", "id": 238944}, {"name": "Avaruuslentäjät", "id": 432804}]}

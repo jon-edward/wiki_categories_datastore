@@ -1,1 +1,1 @@
-{"name": "Bankierer", "id": 17031, "predecessors": [{"name": "Bankvirksomhet", "id": 582287}, {"name": "Forretningsfolk", "id": 45853}, {"name": "Beskjeftigelser", "id": 46352}, {"name": "Finans", "id": 54339}], "successors": [{"name": "Tyske_bankierer", "id": 293591}]}
+{"name": "Bankierer", "id": 17031, "predecessors": [{"name": "Bankvirksomhet", "id": 582287}, {"name": "Finansfolk", "id": 724496}, {"name": "Forretningsfolk", "id": 45853}, {"name": "Beskjeftigelser", "id": 46352}], "successors": [{"name": "Tyske_bankierer", "id": 293591}]}

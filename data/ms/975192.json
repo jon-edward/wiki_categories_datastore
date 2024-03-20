@@ -1,1 +1,1 @@
-{"name": "Sebatian_klorin", "id": 975192, "predecessors": [{"name": "Sebatian_kimia", "id": 30367}], "successors": [{"name": "Klorida", "id": 968954}, {"name": "Organoklorida", "id": 996028}]}
+{"name": "Sebatian_klorin", "id": 975192, "predecessors": [{"name": "Sebatian_kimia", "id": 30367}, {"name": "Halogen", "id": 143795}], "successors": [{"name": "Klorida", "id": 968954}, {"name": "Organoklorida", "id": 996028}]}

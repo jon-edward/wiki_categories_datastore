@@ -1,1 +1,1 @@
-{"name": "Bataloj_en_Bohemio", "id": 688760, "predecessors": [{"name": "Bataloj_en_Ĉeĥio", "id": 324338}, {"name": "Bohemio", "id": 345706}], "successors": []}
+{"name": "Bataloj_en_Bohemio", "id": 688760, "predecessors": [{"name": "Bohemio", "id": 345706}, {"name": "Ĉeĥio", "id": 26421}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Weeds", "id": 65810099, "predecessors": [{"name": "Garden_pests", "id": 21049869}, {"name": "Anthropology", "id": 694863}], "successors": []}
+{"name": "Weeds", "id": 65810099, "predecessors": [{"name": "Garden_pests", "id": 21049869}, {"name": "Biology", "id": 692675}, {"name": "Cultural_anthropology", "id": 715355}], "successors": []}

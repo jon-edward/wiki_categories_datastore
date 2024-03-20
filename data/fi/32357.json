@@ -1,1 +1,1 @@
-{"name": "Topologia", "id": 32357, "predecessors": [{"name": "Matematiikka", "id": 17872}], "successors": [{"name": "Algebrallinen_topologia", "id": 70055}, {"name": "Topologiset_avaruudet", "id": 347808}, {"name": "Erikoisfunktiot", "id": 305383}]}
+{"name": "Topologia", "id": 32357, "predecessors": [{"name": "Matematiikka", "id": 17872}], "successors": [{"name": "Algebrallinen_topologia", "id": 70055}, {"name": "Topologiset_avaruudet", "id": 347808}, {"name": "Käyrät", "id": 802347}, {"name": "Erikoisfunktiot", "id": 305383}]}

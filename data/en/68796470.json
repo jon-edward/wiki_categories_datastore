@@ -1,1 +1,1 @@
-{"name": "DNA_barcoding", "id": 68796470, "predecessors": [{"name": "Barcodes", "id": 839015}, {"name": "DNA", "id": 745820}, {"name": "Phylogenetics", "id": 825200}], "successors": []}
+{"name": "DNA_barcoding", "id": 68796470, "predecessors": [{"name": "Barcodes", "id": 839015}, {"name": "DNA", "id": 745820}, {"name": "Genetics_techniques", "id": 68202999}, {"name": "Phylogenetics", "id": 825200}], "successors": []}

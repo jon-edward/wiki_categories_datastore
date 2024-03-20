@@ -1,1 +1,1 @@
-{"name": "Private_spaceflight", "id": 1040005, "predecessors": [{"name": "Space_industry", "id": 32035460}, {"name": "Spaceflight", "id": 1040006}], "successors": [{"name": "Google_Lunar_X_Prize", "id": 15762496}, {"name": "Ansari_X_Prize", "id": 37984133}]}
+{"name": "Private_spaceflight", "id": 1040005, "predecessors": [{"name": "Space_industry", "id": 32035460}, {"name": "Spaceflight", "id": 1040006}], "successors": [{"name": "Private_spaceflight_companies", "id": 6385227}, {"name": "Google_Lunar_X_Prize", "id": 15762496}, {"name": "Ansari_X_Prize", "id": 37984133}]}

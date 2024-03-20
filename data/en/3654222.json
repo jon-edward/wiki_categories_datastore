@@ -1,1 +1,1 @@
-{"name": "Herbal_and_fungal_hallucinogens", "id": 3654222, "predecessors": [{"name": "Entheogens", "id": 717783}, {"name": "Incapacitating_agents", "id": 1581932}, {"name": "Herbalism", "id": 13465409}], "successors": [{"name": "Psychedelic_tryptamine_carriers", "id": 2004742}]}
+{"name": "Herbal_and_fungal_hallucinogens", "id": 3654222, "predecessors": [{"name": "Entheogens", "id": 717783}, {"name": "Psychedelics,_dissociatives_and_deliriants", "id": 2194339}, {"name": "Herbalism", "id": 13465409}], "successors": [{"name": "Psychedelic_tryptamine_carriers", "id": 2004742}]}

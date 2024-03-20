@@ -1,1 +1,1 @@
-{"name": "Cell_biologists", "id": 14247125, "predecessors": [{"name": "Biology", "id": 692675}], "successors": [{"name": "Fellows_of_the_American_Society_for_Cell_Biology", "id": 66031723}]}
+{"name": "Cell_biologists", "id": 14247125, "predecessors": [{"name": "Cell_biology", "id": 714693}, {"name": "Branches_of_biology", "id": 37535091}], "successors": [{"name": "Fellows_of_the_American_Society_for_Cell_Biology", "id": 66031723}]}

@@ -1,1 +1,1 @@
-{"name": "Images_of_buildings_and_structures", "id": 7580576, "predecessors": [{"name": "Architecture", "id": 708984}, {"name": "Buildings_and_structures", "id": 702393}], "successors": [{"name": "Images_of_airports", "id": 74677572}]}
+{"name": "Images_of_buildings_and_structures", "id": 7580576, "predecessors": [{"name": "Architecture", "id": 708984}, {"name": "Buildings_and_structures", "id": 702393}, {"name": "Geography", "id": 693800}], "successors": [{"name": "Images_of_airports", "id": 74677572}]}

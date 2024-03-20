@@ -1,1 +1,1 @@
-{"name": "Olsenbanden", "id": 105929, "predecessors": [{"name": "Danske_filmer", "id": 123992}, {"name": "Norske_familiefilmer", "id": 1408515}, {"name": "Norske_filmkomedier", "id": 354460}, {"name": "Film", "id": 8911}], "successors": [{"name": "Jönssonligan", "id": 1827387}]}
+{"name": "Olsenbanden", "id": 105929, "predecessors": [{"name": "Danske_filmer", "id": 123992}, {"name": "Filmer_etter_serie", "id": 145521}, {"name": "Norske_familiefilmer", "id": 1408515}, {"name": "Norske_filmkomedier", "id": 354460}], "successors": [{"name": "Jönssonligan", "id": 1827387}]}

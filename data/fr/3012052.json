@@ -1,1 +1,0 @@
-{"name": "Taxi", "id": 3012052, "predecessors": [{"name": "Locomotion", "id": 1527198}, {"name": "Transport_routier", "id": 89425}, {"name": "Transport_en_commun", "id": 89315}], "successors": [{"name": "Taxi_collectif", "id": 4318871}, {"name": "Entreprise_de_taxi", "id": 6590428}, {"name": "Taxi_par_pays", "id": 7121399}, {"name": "Taxi_au_cinéma", "id": 9843676}]}

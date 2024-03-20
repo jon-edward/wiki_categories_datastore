@@ -1,1 +1,0 @@
-{"name": "Communication_d'urgence", "id": 14238366, "predecessors": [{"name": "Application_des_télécommunications", "id": 2693919}, {"name": "Service_de_secours", "id": 129487}], "successors": [{"name": "Système_d'alerte", "id": 2809376}, {"name": "Numéro_d'urgence", "id": 6697795}, {"name": "Signal_de_détresse", "id": 14238370}]}

@@ -1,1 +1,0 @@
-{"name": "Medizinische_Vorsorge", "id": 2509628, "predecessors": [{"name": "Gesundheitswesen", "id": 299241}, {"name": "Medizin", "id": 236137}], "successors": [{"name": "Sexualaufklärung", "id": 282530}, {"name": "Impfung", "id": 1822291}, {"name": "Medizinische_Hygiene", "id": 3727761}, {"name": "UV-Absorber", "id": 8121388}]}

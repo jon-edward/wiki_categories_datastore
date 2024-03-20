@@ -1,1 +1,1 @@
-{"name": "Companyies_de_teatre_catalanes", "id": 323546, "predecessors": [{"name": "Companyies_de_teatre", "id": 127591}, {"name": "Teatre_a_Catalunya", "id": 490017}, {"name": "Empreses_de_Catalunya", "id": 56141}], "successors": []}
+{"name": "Companyies_de_teatre_catalanes", "id": 323546, "predecessors": [{"name": "Teatre_a_Catalunya", "id": 490017}, {"name": "Empresa", "id": 462330}, {"name": "Empreses_de_Catalunya", "id": 56141}], "successors": []}

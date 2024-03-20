@@ -1,1 +1,1 @@
-{"name": "Firearm_propellants", "id": 1096023, "predecessors": [{"name": "Ballistics", "id": 981903}, {"name": "Propellants", "id": 1095504}], "successors": [{"name": "Cordite", "id": 5073931}]}
+{"name": "Firearm_propellants", "id": 1096023, "predecessors": [{"name": "Propellants", "id": 1095504}], "successors": [{"name": "Cordite", "id": 5073931}]}

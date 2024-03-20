@@ -1,1 +1,1 @@
-{"name": "Prehistoric_plants", "id": 2021441, "predecessors": [{"name": "Extinct_plants", "id": 2399820}, {"name": "Biology", "id": 692675}], "successors": [{"name": "Amber", "id": 43523158}, {"name": "Kauri_gum", "id": 70962132}]}
+{"name": "Prehistoric_plants", "id": 2021441, "predecessors": [{"name": "Extinct_plants", "id": 2399820}, {"name": "Plants", "id": 867260}, {"name": "Biology", "id": 692675}], "successors": [{"name": "Amber", "id": 43523158}, {"name": "Kauri_gum", "id": 70962132}]}

@@ -1,1 +1,0 @@
-{"name": "Conversion_d'énergie", "id": 6435749, "predecessors": [{"name": "Énergie", "id": 86274}], "successors": [{"name": "Moteur", "id": 104866}, {"name": "Thermoélectricité", "id": 340036}, {"name": "Pile_à_combustible", "id": 1049025}, {"name": "Éolienne", "id": 10214130}, {"name": "Cellule_photovoltaïque", "id": 10220952}]}

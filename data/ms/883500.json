@@ -1,1 +1,1 @@
-{"name": "Agen_pengoksidaan", "id": 883500, "predecessors": [{"name": "Bahan", "id": 58300}], "successors": []}
+{"name": "Agen_pengoksidaan", "id": 883500, "predecessors": [{"name": "Bahan", "id": 58300}], "successors": [{"name": "Asid_pengoksida", "id": 1176875}]}

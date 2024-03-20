@@ -1,1 +1,0 @@
-{"name": "Piéton", "id": 1169525, "predecessors": [{"name": "Locomotion", "id": 1527198}, {"name": "Marcheur_(voyage)", "id": 14100095}, {"name": "Écomobilité", "id": 7402928}], "successors": [{"name": "Passerelle", "id": 2814980}, {"name": "Voie_piétonnière", "id": 10448098}, {"name": "Lieu_sans_voiture", "id": 14402748}]}

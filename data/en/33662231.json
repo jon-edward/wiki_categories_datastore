@@ -1,1 +1,1 @@
-{"name": "Mycology_organizations", "id": 33662231, "predecessors": [{"name": "Biology_organizations", "id": 8860574}], "successors": [{"name": "British_Mycological_Society", "id": 33362128}]}
+{"name": "Mycology_organizations", "id": 33662231, "predecessors": [{"name": "Biology_organizations", "id": 8860574}, {"name": "Mycology", "id": 1248840}], "successors": [{"name": "British_Mycological_Society", "id": 33362128}]}

@@ -1,1 +1,1 @@
-{"name": "Faktor_pertumbuhan", "id": 1155818, "predecessors": [{"name": "Transduksi_isyarat", "id": 1155505}, {"name": "Protein", "id": 84877}, {"name": "Biologi_sel", "id": 84878}], "successors": []}
+{"name": "Faktor_pertumbuhan", "id": 1155818, "predecessors": [{"name": "Pengisyaratan_sel", "id": 1134309}, {"name": "Transduksi_isyarat", "id": 1155505}, {"name": "Protein", "id": 84877}], "successors": []}

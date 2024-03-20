@@ -1,1 +1,1 @@
-{"name": "Restaurant_staff", "id": 36453461, "predecessors": [{"name": "Buildings_and_structures_by_type", "id": 6884364}], "successors": [{"name": "Chefs", "id": 902960}, {"name": "Bartenders", "id": 21249191}]}
+{"name": "Restaurant_staff", "id": 36453461, "predecessors": [{"name": "Buildings_and_structures_by_type", "id": 6884364}], "successors": [{"name": "Chefs", "id": 902960}, {"name": "Bartenders", "id": 21249191}, {"name": "Fictional_restaurant_staff", "id": 61889491}]}

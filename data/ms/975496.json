@@ -1,1 +1,1 @@
-{"name": "Kitaran_nitrogen", "id": 975496, "predecessors": [{"name": "Unsur_kimia", "id": 30090}, {"name": "Biogeografi", "id": 82105}, {"name": "Biologi", "id": 11181}], "successors": [{"name": "Baja", "id": 975499}]}
+{"name": "Kitaran_nitrogen", "id": 975496, "predecessors": [{"name": "Unsur_kimia", "id": 30090}, {"name": "Biogeografi", "id": 82105}, {"name": "Biologi", "id": 11181}], "successors": [{"name": "Baja", "id": 975499}, {"name": "Kitaran_urea", "id": 1173251}]}

@@ -1,1 +1,1 @@
-{"name": "Video_game_control_methods", "id": 9568076, "predecessors": [{"name": "Video_game_gameplay", "id": 9250932}], "successors": [{"name": "Game_controllers", "id": 36003040}]}
+{"name": "Video_game_control_methods", "id": 9568076, "predecessors": [{"name": "Video_game_design", "id": 9568249}], "successors": [{"name": "Microphone-controlled_computer_games", "id": 6515585}, {"name": "Game_controllers", "id": 36003040}, {"name": "Trackball_video_games", "id": 66256582}]}

@@ -1,1 +1,1 @@
-{"name": "Plumbing", "id": 765224, "predecessors": [{"name": "Building_materials", "id": 3962842}, {"name": "Construction", "id": 755979}, {"name": "Home_appliances", "id": 1392560}, {"name": "Hydraulic_engineering", "id": 3757625}], "successors": []}
+{"name": "Plumbing", "id": 765224, "predecessors": [{"name": "Building_materials", "id": 3962842}, {"name": "Construction", "id": 755979}, {"name": "Home_appliances", "id": 1392560}], "successors": []}

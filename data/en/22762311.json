@@ -1,1 +1,1 @@
-{"name": "HIV_vaccine_research", "id": 22762311, "predecessors": [{"name": "Drug_discovery", "id": 10435830}], "successors": []}
+{"name": "HIV_vaccine_research", "id": 22762311, "predecessors": [{"name": "Drug_discovery", "id": 10435830}, {"name": "HIV/AIDS", "id": 737084}], "successors": []}

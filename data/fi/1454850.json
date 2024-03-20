@@ -1,1 +1,1 @@
-{"name": "Lukutaito", "id": 1454850, "predecessors": [{"name": "Oppiminen", "id": 832041}, {"name": "Harrastukset", "id": 21513}], "successors": []}
+{"name": "Lukutaito", "id": 1454850, "predecessors": [{"name": "Lukeminen", "id": 1261160}, {"name": "Oppiminen", "id": 832041}], "successors": []}

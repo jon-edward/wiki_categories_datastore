@@ -1,1 +1,1 @@
-{"name": "Geofysikere", "id": 339782, "predecessors": [{"name": "Geofysikk", "id": 47123}, {"name": "Fysikk", "id": 9312}], "successors": [{"name": "Seismologer", "id": 1736600}, {"name": "Geodeter", "id": 2152933}]}
+{"name": "Geofysikere", "id": 339782, "predecessors": [{"name": "Fysikere", "id": 9313}, {"name": "Geofysikk", "id": 47123}], "successors": [{"name": "Seismologer", "id": 1736600}, {"name": "Geodeter", "id": 2152933}]}

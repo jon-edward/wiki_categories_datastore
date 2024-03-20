@@ -1,1 +1,1 @@
-{"name": "České_pivo", "id": 220479, "predecessors": [{"name": "České_alkoholické_nápoje", "id": 926192}, {"name": "Obchodní_značky", "id": 721026}, {"name": "Ekonomika_Česka", "id": 191584}], "successors": [{"name": "České_pivovary", "id": 206843}]}
+{"name": "České_pivo", "id": 220479, "predecessors": [{"name": "České_alkoholické_nápoje", "id": 926192}, {"name": "Obchodní_značky", "id": 721026}, {"name": "Potravinářství", "id": 10390}, {"name": "Pivovarnictví", "id": 1104380}], "successors": [{"name": "České_pivovary", "id": 206843}]}

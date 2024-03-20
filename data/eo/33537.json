@@ -1,1 +1,1 @@
-{"name": "Urboj_de_Bulgario", "id": 33537, "predecessors": [{"name": "Geografio_de_Bulgario", "id": 205265}, {"name": "Urboj_de_Eŭropo", "id": 35266}, {"name": "Politika_geografio", "id": 108524}], "successors": [{"name": "Sofio", "id": 312080}, {"name": "Kazanlako", "id": 357781}]}
+{"name": "Urboj_de_Bulgario", "id": 33537, "predecessors": [{"name": "Urboj_de_Eŭropo", "id": 35266}, {"name": "Politika_geografio", "id": 108524}, {"name": "Geografio_de_Eŭropo", "id": 187203}], "successors": [{"name": "Sofio", "id": 312080}, {"name": "Kazanlako", "id": 357781}]}

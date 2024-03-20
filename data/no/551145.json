@@ -1,1 +1,1 @@
-{"name": "Konkurs", "id": 551145, "predecessors": [{"name": "Bedriftsøkonomi", "id": 146541}, {"name": "Selskapsrett", "id": 146538}, {"name": "Tingsrett", "id": 98170}], "successors": []}
+{"name": "Konkurs", "id": 551145, "predecessors": [{"name": "Bedriftsøkonomi", "id": 146541}, {"name": "Selskapsrett", "id": 146538}, {"name": "Tingsrett", "id": 98170}], "successors": [{"name": "Konkurser", "id": 551143}]}

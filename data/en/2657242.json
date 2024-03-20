@@ -1,1 +1,1 @@
-{"name": "Flooded_grasslands_and_savannas", "id": 2657242, "predecessors": [{"name": "Grasslands", "id": 2564852}, {"name": "Terrestrial_biomes", "id": 945493}, {"name": "Wetlands", "id": 777667}], "successors": [{"name": "Pantanal", "id": 50466604}]}
+{"name": "Flooded_grasslands_and_savannas", "id": 2657242, "predecessors": [{"name": "Grasslands", "id": 2564852}, {"name": "Terrestrial_biomes", "id": 945493}, {"name": "Wetlands", "id": 777667}, {"name": "Ecoregions", "id": 964977}], "successors": [{"name": "Pantanal", "id": 50466604}]}

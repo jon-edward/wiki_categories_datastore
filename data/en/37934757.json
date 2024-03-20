@@ -1,1 +1,1 @@
-{"name": "Paleobiologists", "id": 37934757, "predecessors": [{"name": "Biology", "id": 692675}, {"name": "Paleontologists", "id": 756721}], "successors": [{"name": "Paleobotanists", "id": 1768042}]}
+{"name": "Paleobiologists", "id": 37934757, "predecessors": [{"name": "Paleobiology", "id": 27481266}, {"name": "Branches_of_biology", "id": 37535091}, {"name": "Paleontologists", "id": 756721}], "successors": [{"name": "Paleobotanists", "id": 1768042}]}

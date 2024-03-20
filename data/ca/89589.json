@@ -1,1 +1,1 @@
-{"name": "Palaus_d'Itàlia", "id": 89589, "predecessors": [{"name": "Edificis_per_tipus", "id": 246214}, {"name": "Europa", "id": 13523}, {"name": "Palaus", "id": 27164}], "successors": [{"name": "Palaus_de_Roma", "id": 515439}]}
+{"name": "Palaus_d'Itàlia", "id": 89589, "predecessors": [{"name": "Palaus_d'Europa", "id": 915521}, {"name": "Edificis_per_tipus", "id": 246214}, {"name": "Europa", "id": 13523}], "successors": [{"name": "Palaus_de_Roma", "id": 515439}]}

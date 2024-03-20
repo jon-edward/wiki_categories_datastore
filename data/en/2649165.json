@@ -1,1 +1,1 @@
-{"name": "Droughts", "id": 2649165, "predecessors": [{"name": "Natural_disasters", "id": 2643767}, {"name": "Weather_events", "id": 2855793}, {"name": "Aquatic_ecology", "id": 6840293}], "successors": [{"name": "Drought-tolerant_plants", "id": 23704954}]}
+{"name": "Droughts", "id": 2649165, "predecessors": [{"name": "Natural_disasters", "id": 2643767}], "successors": [{"name": "Drought-tolerant_plants", "id": 23704954}]}

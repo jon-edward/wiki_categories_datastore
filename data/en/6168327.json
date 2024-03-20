@@ -1,1 +1,1 @@
-{"name": "Botanical_art", "id": 6168327, "predecessors": [{"name": "Biology_and_culture", "id": 37535285}, {"name": "Plants_in_art", "id": 47716018}, {"name": "Visual_arts_genres", "id": 1209735}], "successors": [{"name": "Botanical_illustrators", "id": 22588481}]}
+{"name": "Botanical_art", "id": 6168327, "predecessors": [{"name": "Biology_and_culture", "id": 37535285}, {"name": "Botany", "id": 693494}, {"name": "Plants_in_art", "id": 47716018}, {"name": "Visual_arts_genres", "id": 1209735}], "successors": [{"name": "Botanical_illustrators", "id": 22588481}]}

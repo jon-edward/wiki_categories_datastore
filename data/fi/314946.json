@@ -1,1 +1,1 @@
-{"name": "Nasa", "id": 314946, "predecessors": [{"name": "Avaruusjärjestöt", "id": 21340}, {"name": "Yhdysvaltain_valtion_virastot", "id": 111131}, {"name": "Tyynimeri", "id": 125464}], "successors": [{"name": "Nasan_ohjelmat", "id": 314947}]}
+{"name": "Nasa", "id": 314946, "predecessors": [{"name": "Avaruusjärjestöt", "id": 21340}, {"name": "Yhdysvaltain_avaruustoiminta", "id": 440582}, {"name": "Yhdysvaltain_valtion_virastot", "id": 111131}], "successors": [{"name": "Nasan_ohjelmat", "id": 314947}]}

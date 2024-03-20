@@ -1,1 +1,1 @@
-{"name": "Slavery_legislation", "id": 32579789, "predecessors": [{"name": "Statutory_law", "id": 1585128}, {"name": "Property_law", "id": 1090277}], "successors": [{"name": "Slave_trade_legislation", "id": 32579800}]}
+{"name": "Slavery_legislation", "id": 32579789, "predecessors": [{"name": "Statutory_law", "id": 1585128}, {"name": "Slavery", "id": 716086}], "successors": [{"name": "Slave_trade_legislation", "id": 32579800}]}

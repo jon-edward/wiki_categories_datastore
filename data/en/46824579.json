@@ -1,1 +1,1 @@
-{"name": "Airbus_Defence_and_Space", "id": 46824579, "predecessors": [{"name": "Airbus_subsidiaries_and_divisions", "id": 54731125}], "successors": [{"name": "Airbus_Defence_and_Space_aircraft", "id": 41740708}]}
+{"name": "Airbus_Defence_and_Space", "id": 46824579, "predecessors": [{"name": "Airbus_subsidiaries_and_divisions", "id": 54731125}, {"name": "Spacecraft_manufacturers", "id": 1972691}], "successors": [{"name": "Airbus_Defence_and_Space_aircraft", "id": 41740708}]}

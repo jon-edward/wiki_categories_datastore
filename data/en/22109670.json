@@ -1,1 +1,1 @@
-{"name": "Russian_newspaper_editors", "id": 22109670, "predecessors": [{"name": "Mass_media", "id": 696790}, {"name": "Science_and_technology_in_Russia", "id": 2939931}], "successors": []}
+{"name": "Russian_newspaper_editors", "id": 22109670, "predecessors": [{"name": "Russian_journalists", "id": 2615718}, {"name": "Mass_media", "id": 696790}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Pemain_gitar", "id": 299755, "predecessors": [{"name": "Alat_muzik", "id": 23885}], "successors": [{"name": "Pemain_gitar_bes_Malaysia", "id": 299752}, {"name": "Pemain_gitar_Malaysia", "id": 299760}]}
+{"name": "Pemain_gitar", "id": 299755, "predecessors": [{"name": "Gitar", "id": 255865}], "successors": [{"name": "Pemain_gitar_bes_Malaysia", "id": 299752}, {"name": "Pemain_gitar_Malaysia", "id": 299760}]}

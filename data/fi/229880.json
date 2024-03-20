@@ -1,1 +1,1 @@
-{"name": "Seksismi", "id": 229880, "predecessors": [{"name": "Nainen", "id": 286985}, {"name": "Sukupuoli", "id": 32536}, {"name": "Syrjintä", "id": 229877}, {"name": "Logiikka", "id": 25317}], "successors": []}
+{"name": "Seksismi", "id": 229880, "predecessors": [{"name": "Nainen", "id": 286985}, {"name": "Sukupuoli", "id": 32536}, {"name": "Syrjintä", "id": 229877}, {"name": "Logiikka", "id": 25317}], "successors": [{"name": "Feminismin_kritiikki", "id": 1329698}]}

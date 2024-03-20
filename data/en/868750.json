@@ -1,1 +1,1 @@
-{"name": "Spaceports", "id": 868750, "predecessors": [{"name": "Space_industry", "id": 32035460}, {"name": "Cartography", "id": 716309}], "successors": [{"name": "Baikonur_Cosmodrome", "id": 13621615}, {"name": "Guiana_Space_Centre", "id": 22035881}]}
+{"name": "Spaceports", "id": 868750, "predecessors": [{"name": "Space_industry", "id": 32035460}, {"name": "Cartography", "id": 716309}], "successors": [{"name": "Baikonur_Cosmodrome", "id": 13621615}]}

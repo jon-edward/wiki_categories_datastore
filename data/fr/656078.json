@@ -1,1 +1,0 @@
-{"name": "Neuroleptique", "id": 656078, "predecessors": [{"name": "Classe_pharmacologique", "id": 131501}, {"name": "Médicament_agissant_sur_le_système_nerveux", "id": 6017794}, {"name": "Traitement_en_psychiatrie", "id": 1404411}], "successors": [{"name": "Antipsychotique_atypique", "id": 621818}, {"name": "Phénothiazine", "id": 3687202}]}

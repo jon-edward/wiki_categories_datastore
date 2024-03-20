@@ -1,1 +1,1 @@
-{"name": "Hematologi", "id": 194005, "predecessors": [{"name": "Darah", "id": 194004}, {"name": "Perubatan", "id": 8047}], "successors": [{"name": "Ujian_darah", "id": 1044140}]}
+{"name": "Hematologi", "id": 194005, "predecessors": [{"name": "Darah", "id": 194004}, {"name": "Perubatan", "id": 8047}], "successors": [{"name": "Ujian_darah", "id": 1044140}, {"name": "Perubatan_transfusi", "id": 1177058}]}

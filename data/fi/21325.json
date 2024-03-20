@@ -1,1 +1,1 @@
-{"name": "Apollo-ohjelma", "id": 21325, "predecessors": [{"name": "Kuu", "id": 29148}, {"name": "Nasan_ohjelmat", "id": 314947}], "successors": [{"name": "Saturn-rakettiperhe", "id": 1225721}]}
+{"name": "Apollo-ohjelma", "id": 21325, "predecessors": [{"name": "Kuu", "id": 29148}, {"name": "Miehitetyt_avaruuslennot", "id": 19730}, {"name": "Miehittämättömät_avaruuslennot", "id": 19731}, {"name": "Nasan_ohjelmat", "id": 314947}], "successors": [{"name": "Saturn-rakettiperhe", "id": 1225721}]}

@@ -1,1 +1,0 @@
-{"name": "Abfallaufbereitungsanlage", "id": 3557060, "predecessors": [{"name": "Recycling", "id": 2096609}, {"name": "Abfallwirtschaft", "id": 1857277}], "successors": [{"name": "Nukleare_Wiederaufarbeitungsanlage", "id": 3556952}, {"name": "Flugzeugfriedhof", "id": 11327716}, {"name": "Kläranlage_in_Deutschland", "id": 12522623}]}

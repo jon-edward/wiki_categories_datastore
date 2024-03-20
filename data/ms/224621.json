@@ -1,1 +1,1 @@
-{"name": "Gas_adi", "id": 224621, "predecessors": [{"name": "Gas", "id": 27955}, {"name": "Unsur_kimia", "id": 30090}], "successors": [{"name": "Sebatian_gas_adi", "id": 437171}, {"name": "Helium", "id": 973809}]}
+{"name": "Gas_adi", "id": 224621, "predecessors": [{"name": "Gas", "id": 27955}, {"name": "Kumpulan_unsur_kimia", "id": 84614}], "successors": [{"name": "Sebatian_gas_adi", "id": 437171}, {"name": "Helium", "id": 973809}]}

@@ -1,1 +1,1 @@
-{"name": "Bartzelona_Futbol_Kluba", "id": 33438, "predecessors": [{"name": "Bartzelonako_kirola", "id": 144546}], "successors": [{"name": "FC_Barcelonako_futbolariak", "id": 144667}, {"name": "Bartzelona_Futbol_Kluba_saskibaloia", "id": 948103}]}
+{"name": "Bartzelona_Futbol_Kluba", "id": 33438, "predecessors": [{"name": "Bartzelonako_kirola", "id": 144546}, {"name": "Espainiako_futbol_ligako_lehen_maila", "id": 25054}], "successors": [{"name": "FC_Barcelonako_futbolariak", "id": 144667}, {"name": "Bartzelona_Futbol_Kluba_saskibaloia", "id": 948103}]}

@@ -1,1 +1,0 @@
-{"name": "Insecte_ravageur", "id": 4367854, "predecessors": [{"name": "Écologie_de_l'insecte", "id": 1045452}, {"name": "Protection_des_cultures", "id": 100391}, {"name": "Vivant", "id": 4649497}], "successors": [{"name": "Insecte_cécidogène", "id": 7352757}, {"name": "Type_d'insecte_ravageur", "id": 8268623}, {"name": "Insecte_ravageur_de_la_vigne", "id": 12484597}]}

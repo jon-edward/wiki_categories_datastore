@@ -1,1 +1,1 @@
-{"name": "Tropical_cyclones_in_2010", "id": 64334275, "predecessors": [{"name": "2010_meteorology", "id": 25374645}, {"name": "2010_natural_disasters", "id": 23016979}], "successors": [{"name": "2010_Atlantic_hurricane_season", "id": 25458927}]}
+{"name": "Tropical_cyclones_in_2010", "id": 64334275, "predecessors": [{"name": "2010_meteorology", "id": 25374645}, {"name": "2010_natural_disasters", "id": 23016979}, {"name": "Tropical_cyclones_by_year", "id": 58513214}], "successors": [{"name": "2010_Atlantic_hurricane_season", "id": 25458927}]}

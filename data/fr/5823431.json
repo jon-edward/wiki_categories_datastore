@@ -1,1 +1,0 @@
-{"name": "Isolant_thermique", "id": 5823431, "predecessors": [{"name": "Bricolage", "id": 84915}, {"name": "Isolation_thermique_du_bâtiment", "id": 5818541}, {"name": "Matériau_de_construction", "id": 149632}, {"name": "Transfert_thermique", "id": 2755250}, {"name": "Matériau", "id": 154211}], "successors": [{"name": "Laine", "id": 6271458}]}

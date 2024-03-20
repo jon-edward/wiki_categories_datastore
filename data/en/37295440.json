@@ -1,1 +1,1 @@
-{"name": "Biogeochemistry", "id": 37295440, "predecessors": [{"name": "Chemical_oceanography", "id": 935804}, {"name": "Environmental_chemistry", "id": 795223}, {"name": "Geochemistry", "id": 716915}, {"name": "Systems_ecology", "id": 13630475}], "successors": [{"name": "Biogeochemical_cycle", "id": 32832038}]}
+{"name": "Biogeochemistry", "id": 37295440, "predecessors": [{"name": "Chemical_oceanography", "id": 935804}, {"name": "Environmental_chemistry", "id": 795223}, {"name": "Geochemistry", "id": 716915}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Pel·lícules_rodades_a_Itàlia", "id": 2056955, "predecessors": [{"name": "Cinema", "id": 13271}, {"name": "Art", "id": 12691}], "successors": [{"name": "Pel·lícules_rodades_a_Roma", "id": 2056958}]}
+{"name": "Pel·lícules_rodades_a_Itàlia", "id": 2056955, "predecessors": [{"name": "Cinema_a_Itàlia", "id": 669162}, {"name": "Cinema", "id": 13271}], "successors": [{"name": "Pel·lícules_rodades_a_Roma", "id": 2056958}]}

@@ -1,1 +1,1 @@
-{"name": "Microbiologists", "id": 744687, "predecessors": [{"name": "Microbiology", "id": 726300}, {"name": "Health", "id": 751381}, {"name": "Biology", "id": 692675}], "successors": [{"name": "Virologists", "id": 5894917}, {"name": "Protistologists", "id": 25680118}]}
+{"name": "Microbiologists", "id": 744687, "predecessors": [{"name": "Microbiology", "id": 726300}, {"name": "Branches_of_biology", "id": 37535091}], "successors": [{"name": "Virologists", "id": 5894917}, {"name": "Protistologists", "id": 25680118}]}

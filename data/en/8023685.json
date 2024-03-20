@@ -1,1 +1,1 @@
-{"name": "Heineken_brands", "id": 8023685, "predecessors": [{"name": "Alcoholic_drink_brands", "id": 5109188}, {"name": "Beer_brands", "id": 13979965}, {"name": "Alcoholic_drink_companies", "id": 18621662}], "successors": []}
+{"name": "Heineken_brands", "id": 8023685, "predecessors": [{"name": "Beer_brands", "id": 13979965}, {"name": "Alcoholic_drink_companies", "id": 18621662}], "successors": []}

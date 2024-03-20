@@ -1,1 +1,1 @@
-{"name": "Lastenhoito", "id": 34146, "predecessors": [{"name": "Terveydenhoito", "id": 25163}, {"name": "Ihmisen_toiminta", "id": 826193}, {"name": "Kehityspsykologia", "id": 299285}], "successors": [{"name": "Vauvanhoito", "id": 44178}]}
+{"name": "Lastenhoito", "id": 34146, "predecessors": [{"name": "Terveydenhoito", "id": 25163}, {"name": "Ihmisen_toiminta", "id": 826193}, {"name": "Kehityspsykologia", "id": 299285}], "successors": [{"name": "Vauvanhoito", "id": 44178}, {"name": "Kylpylät", "id": 169646}]}

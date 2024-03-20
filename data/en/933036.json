@@ -1,1 +1,1 @@
-{"name": "Glycosides", "id": 933036, "predecessors": [{"name": "Biomolecules", "id": 11662086}, {"name": "Carbohydrates", "id": 713772}], "successors": [{"name": "Aminoglycoside_antibiotics", "id": 695357}, {"name": "Saponins", "id": 34290326}]}
+{"name": "Glycosides", "id": 933036, "predecessors": [{"name": "Carbohydrates", "id": 713772}], "successors": [{"name": "Aminoglycoside_antibiotics", "id": 695357}, {"name": "Saponins", "id": 34290326}]}

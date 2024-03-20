@@ -1,1 +1,0 @@
-{"name": "Wasseraufbereitung", "id": 3491940, "predecessors": [{"name": "Wasser_in_der_Technik", "id": 5616530}, {"name": "Wasserqualität", "id": 3495426}], "successors": [{"name": "Abwasserbehandlung", "id": 3492393}, {"name": "Aquariumfilter", "id": 4822749}, {"name": "Warmwasser", "id": 7714664}]}

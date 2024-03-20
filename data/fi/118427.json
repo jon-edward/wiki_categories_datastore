@@ -1,1 +1,1 @@
-{"name": "Albertan_kaupungit", "id": 118427, "predecessors": [{"name": "Albertan_maantiede", "id": 796065}, {"name": "Maantiede", "id": 20136}], "successors": [{"name": "Calgaryn_urheilu", "id": 1304840}, {"name": "Edmonton_Oilersin_pelaajat", "id": 81098}, {"name": "Edmonton_Oilersin_varaamat_pelaajat", "id": 1331011}]}
+{"name": "Albertan_kaupungit", "id": 118427, "predecessors": [{"name": "Albertan_maantiede", "id": 796065}, {"name": "Maantiede", "id": 20136}], "successors": [{"name": "Calgaryn_urheilu", "id": 1304840}, {"name": "Edmontonin_urheilu", "id": 1482654}]}

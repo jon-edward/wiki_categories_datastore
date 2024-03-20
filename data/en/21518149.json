@@ -1,1 +1,1 @@
-{"name": "Apostasy", "id": 21518149, "predecessors": [{"name": "Religious_conversion", "id": 3898965}], "successors": []}
+{"name": "Apostasy", "id": 21518149, "predecessors": [{"name": "Religious_conversion", "id": 3898965}], "successors": [{"name": "Apostasy_in_Islam", "id": 10544283}]}

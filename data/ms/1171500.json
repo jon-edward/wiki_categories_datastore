@@ -1,1 +1,1 @@
-{"name": "Pemodulat_alosterik_positif_reseptor_GABAA", "id": 1171500, "predecessors": [{"name": "Ubat", "id": 58309}, {"name": "Transduksi_isyarat", "id": 1155505}], "successors": []}
+{"name": "Pemodulat_alosterik_positif_reseptor_GABAA", "id": 1171500, "predecessors": [{"name": "Ubat", "id": 58309}, {"name": "Pengisyaratan_sel", "id": 1134309}], "successors": []}

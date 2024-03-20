@@ -1,1 +1,1 @@
-{"name": "Homeostasis", "id": 19522768, "predecessors": [{"name": "Biological_processes", "id": 7684410}, {"name": "Chronobiology", "id": 27090319}], "successors": [{"name": "Human_homeostasis", "id": 19522758}, {"name": "Thermoregulation", "id": 39305624}]}
+{"name": "Homeostasis", "id": 19522768, "predecessors": [{"name": "Biological_processes", "id": 7684410}, {"name": "Chronobiology", "id": 27090319}, {"name": "Physiology", "id": 702173}], "successors": [{"name": "Thermoregulation", "id": 39305624}]}

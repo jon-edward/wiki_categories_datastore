@@ -1,1 +1,1 @@
-{"name": "Embargoes", "id": 38267978, "predecessors": [{"name": "Economic_warfare", "id": 4936574}, {"name": "International_sanctions", "id": 11131949}], "successors": []}
+{"name": "Embargoes", "id": 38267978, "predecessors": [{"name": "International_sanctions", "id": 11131949}, {"name": "Economic_warfare", "id": 4936574}], "successors": []}

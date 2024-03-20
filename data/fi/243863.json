@@ -1,1 +1,1 @@
-{"name": "Tietojenkäsittelyteoria", "id": 243863, "predecessors": [{"name": "Tietojenkäsittelytiede", "id": 37539}], "successors": [{"name": "Formaalit_kielet", "id": 86686}, {"name": "Kvantti-informaatiotiede", "id": 272369}]}
+{"name": "Tietojenkäsittelyteoria", "id": 243863, "predecessors": [{"name": "Tietojenkäsittelytiede", "id": 37539}, {"name": "Matematiikka", "id": 17872}], "successors": [{"name": "Formaalit_kielet", "id": 86686}, {"name": "Kvantti-informaatiotiede", "id": 272369}]}

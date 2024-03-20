@@ -1,1 +1,1 @@
-{"name": "Fire_lookout_towers", "id": 11075956, "predecessors": [{"name": "Wildfire_suppression", "id": 5811261}], "successors": []}
+{"name": "Fire_lookout_towers", "id": 11075956, "predecessors": [{"name": "Wildfire_prevention", "id": 30550737}, {"name": "Wildfire_suppression", "id": 5811261}], "successors": []}

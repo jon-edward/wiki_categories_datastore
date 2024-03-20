@@ -1,1 +1,1 @@
-{"name": "W3C-standardit", "id": 167597, "predecessors": [{"name": "Standardit", "id": 20074}, {"name": "World_Wide_Web", "id": 21526}], "successors": [{"name": "XML", "id": 23020}]}
+{"name": "W3C-standardit", "id": 167597, "predecessors": [{"name": "Standardit", "id": 20074}, {"name": "World_Wide_Web", "id": 21526}], "successors": [{"name": "XML", "id": 23020}, {"name": "HTTP", "id": 1284511}]}

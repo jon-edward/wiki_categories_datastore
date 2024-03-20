@@ -1,1 +1,1 @@
-{"name": "FK_Khujand_players", "id": 65714726, "predecessors": [{"name": "Tajikistani_culture", "id": 36211137}], "successors": []}
+{"name": "FK_Khujand_players", "id": 65714726, "predecessors": [{"name": "Culture_of_Tajikistan", "id": 36211137}], "successors": []}

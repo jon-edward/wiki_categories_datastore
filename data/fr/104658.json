@@ -1,1 +1,0 @@
-{"name": "Plante_fruitière", "id": 104658, "predecessors": [{"name": "Plante_alimentaire", "id": 97917}], "successors": [{"name": "Fruit_alimentaire", "id": 101492}, {"name": "Arbre_fruitier", "id": 103171}]}

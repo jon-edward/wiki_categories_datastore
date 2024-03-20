@@ -1,1 +1,1 @@
-{"name": "Gerontologie", "id": 974143, "predecessors": [{"name": "Specialități_medicale", "id": 760126}, {"name": "Concepte_sociale", "id": 1510652}], "successors": [{"name": "Îmbătrânire", "id": 974148}, {"name": "Prelungirea_vieții", "id": 1224810}]}
+{"name": "Gerontologie", "id": 974143, "predecessors": [{"name": "Bătrânețe", "id": 974144}, {"name": "Specialități_medicale", "id": 760126}], "successors": [{"name": "Îmbătrânire", "id": 974148}, {"name": "Prelungirea_vieții", "id": 1224810}]}

@@ -1,1 +1,1 @@
-{"name": "James_Bond-filmer", "id": 145520, "predecessors": [{"name": "James_Bond", "id": 54909}, {"name": "Spionfilmer", "id": 180461}, {"name": "Film", "id": 8911}, {"name": "Bøker", "id": 15249}], "successors": []}
+{"name": "James_Bond-filmer", "id": 145520, "predecessors": [{"name": "Filmer_etter_serie", "id": 145521}, {"name": "James_Bond", "id": 54909}, {"name": "Spionfilmer", "id": 180461}, {"name": "Bøker", "id": 15249}], "successors": []}

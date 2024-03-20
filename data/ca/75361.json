@@ -1,1 +1,1 @@
-{"name": "Díodes", "id": 75361, "predecessors": [{"name": "Transductors", "id": 759538}], "successors": []}
+{"name": "Díodes", "id": 75361, "predecessors": [{"name": "Transductors", "id": 759538}], "successors": [{"name": "Díodes_emissors_de_llum", "id": 1647076}]}

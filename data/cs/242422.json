@@ -1,1 +1,1 @@
-{"name": "Oslavy_Nového_roku", "id": 242422, "predecessors": [{"name": "Rok", "id": 1527733}, {"name": "Společenské_akce", "id": 810714}, {"name": "Svátky", "id": 53477}], "successors": []}
+{"name": "Oslavy_Nového_roku", "id": 242422, "predecessors": [{"name": "Rok", "id": 1527733}, {"name": "Společenské_události", "id": 810714}, {"name": "Svátky", "id": 53477}], "successors": []}

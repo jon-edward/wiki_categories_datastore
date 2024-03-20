@@ -1,1 +1,0 @@
-{"name": "Produit_chimique_qui_réagit_avec_l'eau", "id": 3550244, "predecessors": [{"name": "Produit_chimique", "id": 4817319}, {"name": "Sécurité_en_chimie", "id": 408977}, {"name": "Chimie_des_solutions", "id": 1923911}], "successors": [{"name": "Substance_déliquescente", "id": 6571152}]}

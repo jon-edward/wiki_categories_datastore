@@ -1,1 +1,0 @@
-{"name": "MIDI", "id": 1010746, "predecessors": [{"name": "오디오_파일_포맷", "id": 1094460}, {"name": "전자_악기", "id": 93795}, {"name": "직렬_버스", "id": 163895}], "successors": [{"name": "MIDI_표준", "id": 1768362}]}

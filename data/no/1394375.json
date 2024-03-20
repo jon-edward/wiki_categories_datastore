@@ -1,1 +1,1 @@
-{"name": "Kortfilmer_fra_USA", "id": 1394375, "predecessors": [{"name": "Filmer_fra_USA", "id": 468108}, {"name": "Film", "id": 8911}], "successors": [{"name": "Animerte_kortfilmer_fra_USA", "id": 1397047}, {"name": "Stum-kortfilmer_fra_USA", "id": 2077372}]}
+{"name": "Kortfilmer_fra_USA", "id": 1394375, "predecessors": [{"name": "Filmer_fra_USA", "id": 468108}, {"name": "Kortfilmer", "id": 54048}], "successors": [{"name": "Animerte_kortfilmer_fra_USA", "id": 1397047}, {"name": "Stum-kortfilmer_fra_USA", "id": 2077372}]}

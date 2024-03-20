@@ -1,1 +1,1 @@
-{"name": "Bankovní_lupiči", "id": 954771, "predecessors": [{"name": "Lupiči", "id": 954772}, {"name": "Banky", "id": 54073}], "successors": []}
+{"name": "Bankovní_lupiči", "id": 954771, "predecessors": [{"name": "Lupiči", "id": 954772}, {"name": "Banky", "id": 54073}], "successors": [{"name": "Členové_Frakce_Rudé_armády", "id": 941737}]}

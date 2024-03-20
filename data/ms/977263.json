@@ -1,1 +1,1 @@
-{"name": "Logam_alkali_bumi", "id": 977263, "predecessors": [{"name": "Unsur_kimia", "id": 30090}, {"name": "Bahan_bangunan", "id": 84631}], "successors": [{"name": "Sebatian_barium", "id": 967723}]}
+{"name": "Logam_alkali_bumi", "id": 977263, "predecessors": [{"name": "Kumpulan_unsur_kimia", "id": 84614}], "successors": [{"name": "Sebatian_barium", "id": 967723}]}

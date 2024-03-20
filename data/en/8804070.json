@@ -1,1 +1,1 @@
-{"name": "Microbiology_equipment", "id": 8804070, "predecessors": [{"name": "Laboratory_equipment", "id": 697674}, {"name": "Microbiology", "id": 726300}], "successors": []}
+{"name": "Microbiology_equipment", "id": 8804070, "predecessors": [{"name": "Biological_techniques_and_tools", "id": 5881429}, {"name": "Laboratory_equipment", "id": 697674}, {"name": "Microbiology", "id": 726300}], "successors": []}

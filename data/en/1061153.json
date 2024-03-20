@@ -1,1 +1,1 @@
-{"name": "Proprioception", "id": 1061153, "predecessors": [{"name": "Perception", "id": 1053998}], "successors": []}
+{"name": "Proprioception", "id": 1061153, "predecessors": [{"name": "Neuroscience", "id": 714648}, {"name": "Perception", "id": 1053998}, {"name": "Physiology", "id": 702173}], "successors": []}
