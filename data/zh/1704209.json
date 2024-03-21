@@ -1,1 +1,1 @@
-{"name": "Unicode未收錄文字", "id": 1704209, "predecessors": [{"name": "文字", "id": 46395}], "successors": [{"name": "未收錄漢字", "id": 124484}]}
+{"name": "Unicode未收錄文字", "id": 1704209, "predecessors": [{"name": "Unicode", "id": 92904}, {"name": "文字", "id": 46395}], "successors": [{"name": "未收錄漢字", "id": 124484}]}

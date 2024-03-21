@@ -1,0 +1,1 @@
+{"name": "Vente_aux_enchères", "id": 1195262, "predecessors": [{"name": "Vente", "id": 1413661}], "successors": [{"name": "Vente_aux_enchères_en_France", "id": 8277797}, {"name": "Maison_de_vente_d'œuvres_d'art", "id": 11683436}, {"name": "Commissaire-priseur", "id": 11800379}]}

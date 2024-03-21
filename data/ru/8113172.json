@@ -1,1 +1,1 @@
-{"name": "Фильмы_ZDF", "id": 8113172, "predecessors": [{"name": "ZDF", "id": 7326010}, {"name": "Фильмы_Германии", "id": 50482}], "successors": [{"name": "Телефильмы_ZDF", "id": 9046093}]}
+{"name": "Фильмы_ZDF", "id": 8113172, "predecessors": [{"name": "ZDF", "id": 7326010}, {"name": "Искусство_Германии", "id": 48720}], "successors": [{"name": "Телефильмы_ZDF", "id": 9046093}]}

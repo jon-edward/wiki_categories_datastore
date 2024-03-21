@@ -1,1 +1,1 @@
-{"name": "Transport_i_Finnmark_fylke", "id": 8818696, "predecessors": [{"name": "Finnmark_fylke", "id": 1439252}, {"name": "Transport_i_Norge", "id": 426214}], "successors": []}
+{"name": "Transport_i_Finnmark_fylke", "id": 8818696, "predecessors": [{"name": "Finnmark_fylke", "id": 1439252}, {"name": "Transport_i_Norge", "id": 426214}], "successors": [{"name": "Fylkesvägar_i_Finnmark_fylke", "id": 8820031}]}

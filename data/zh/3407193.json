@@ -1,1 +1,1 @@
-{"name": "英國零售商", "id": 3407193, "predecessors": [{"name": "英國公司", "id": 77295}], "successors": [{"name": "英国超级市场", "id": 5885072}]}
+{"name": "英國零售商", "id": 3407193, "predecessors": [{"name": "英國公司", "id": 77295}, {"name": "貿易公司", "id": 1446252}], "successors": [{"name": "英国超级市场", "id": 5885072}]}

@@ -1,0 +1,1 @@
+{"name": "Métro_de_Chicago", "id": 3917161, "predecessors": [{"name": "Transport_en_commun", "id": 89315}, {"name": "Chicago", "id": 484197}, {"name": "Entreprise_ayant_son_siège_à_Chicago", "id": 3973008}], "successors": [{"name": "Union_Loop", "id": 5191580}, {"name": "Station_du_métro_de_Chicago", "id": 13882181}]}

@@ -1,1 +1,1 @@
-{"name": "素肉", "id": 7901285, "predecessors": [{"name": "素食饮食", "id": 8111675}], "successors": []}
+{"name": "素肉", "id": 7901285, "predecessors": [{"name": "食品", "id": 40514}, {"name": "素食饮食", "id": 8111675}], "successors": []}

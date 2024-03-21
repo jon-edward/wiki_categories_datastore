@@ -1,1 +1,1 @@
-{"name": "战略轰炸机", "id": 3931057, "predecessors": [{"name": "空戰戰略", "id": 7606626}], "successors": []}
+{"name": "战略轰炸机", "id": 3931057, "predecessors": [{"name": "轰炸机", "id": 98267}, {"name": "空戰戰略", "id": 7606626}], "successors": []}

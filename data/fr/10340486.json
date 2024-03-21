@@ -1,0 +1,1 @@
+{"name": "Attaque_animale", "id": 10340486, "predecessors": [{"name": "Comportement_animal", "id": 8033786}], "successors": [{"name": "Mort_causée_par_une_attaque_animale", "id": 2462945}, {"name": "Attaque_de_requin", "id": 5735700}, {"name": "Bête_féroce", "id": 4753653}]}

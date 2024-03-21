@@ -1,0 +1,1 @@
+{"name": "Arme_embarquée_dans_un_avion", "id": 4560420, "predecessors": [{"name": "Arme", "id": 87379}], "successors": [{"name": "Missile_air-air", "id": 1673980}, {"name": "Missile_air-sol", "id": 1675997}]}

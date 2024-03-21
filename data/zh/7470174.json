@@ -1,1 +1,1 @@
-{"name": "速食漢堡店", "id": 7470174, "predecessors": [{"name": "漢堡包", "id": 512268}], "successors": [{"name": "麥當勞", "id": 555565}]}
+{"name": "速食漢堡店", "id": 7470174, "predecessors": [{"name": "速食餐廳", "id": 74389}, {"name": "漢堡包", "id": 512268}], "successors": [{"name": "麥當勞", "id": 555565}]}

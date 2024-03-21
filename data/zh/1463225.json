@@ -1,1 +1,1 @@
-{"name": "山东岛屿", "id": 1463225, "predecessors": [{"name": "山东地形", "id": 5419079}, {"name": "中国岛屿", "id": 101405}], "successors": [{"name": "青岛岛屿", "id": 2981382}]}
+{"name": "山东岛屿", "id": 1463225, "predecessors": [{"name": "山东地形", "id": 5419079}, {"name": "中国地理", "id": 45940}], "successors": [{"name": "青岛岛屿", "id": 2981382}]}

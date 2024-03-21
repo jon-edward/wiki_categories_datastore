@@ -1,1 +1,1 @@
-{"name": "创业", "id": 8152486, "predecessors": [{"name": "商業模式", "id": 1451165}], "successors": []}
+{"name": "创业", "id": 8152486, "predecessors": [{"name": "公司", "id": 51786}], "successors": [{"name": "公司创始人", "id": 7212276}]}

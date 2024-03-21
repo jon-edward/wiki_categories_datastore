@@ -1,0 +1,1 @@
+{"name": "Vlees", "id": 97963, "predecessors": [{"name": "Dierlijk_product", "id": 4048771}, {"name": "Veeteelt", "id": 75918}, {"name": "Voedsel", "id": 1702982}], "successors": [{"name": "Vleeswaren", "id": 680909}, {"name": "Vleesgerecht", "id": 693893}, {"name": "Varkensvlees", "id": 694499}, {"name": "Rundvlees", "id": 694502}, {"name": "Vleesvervanger", "id": 1702430}]}

@@ -1,1 +1,1 @@
-{"name": "CJK", "id": 1506782, "predecessors": [{"name": "中文信息处理", "id": 56112}], "successors": []}
+{"name": "CJK", "id": 1506782, "predecessors": [{"name": "Unicode", "id": 92904}, {"name": "中文信息处理", "id": 56112}], "successors": []}

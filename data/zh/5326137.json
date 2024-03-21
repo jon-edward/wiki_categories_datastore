@@ -1,1 +1,1 @@
-{"name": "罗马地铁车站", "id": 5326137, "predecessors": [{"name": "地铁", "id": 322517}], "successors": []}
+{"name": "罗马地铁车站", "id": 5326137, "predecessors": [{"name": "地铁", "id": 322517}, {"name": "意大利鐵路", "id": 1672176}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "裝甲", "id": 754646, "predecessors": [{"name": "军事装备", "id": 144375}], "successors": [{"name": "盔甲", "id": 612549}]}
+{"name": "裝甲", "id": 754646, "predecessors": [{"name": "军事装备", "id": 144375}], "successors": [{"name": "裝甲車", "id": 372201}, {"name": "盔甲", "id": 612549}]}

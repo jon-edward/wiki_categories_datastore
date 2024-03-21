@@ -1,1 +1,1 @@
-{"name": "计算机打印机", "id": 497506, "predecessors": [{"name": "电脑打印", "id": 1103196}], "successors": []}
+{"name": "计算机打印机", "id": 497506, "predecessors": [{"name": "电脑打印", "id": 1103196}, {"name": "電腦輸出裝置", "id": 497507}], "successors": []}

@@ -1,0 +1,1 @@
+{"name": "Hundezucht", "id": 4016382, "predecessors": [{"name": "Hundehaltung", "id": 10341141}, {"name": "Tierzucht", "id": 1062321}], "successors": [{"name": "Hunderasse", "id": 337592}, {"name": "Hundezuchtverband", "id": 5582080}, {"name": "Erbkrankheit_des_Hundes", "id": 5582321}, {"name": "Hundezüchter", "id": 7510883}]}

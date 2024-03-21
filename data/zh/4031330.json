@@ -1,1 +1,1 @@
-{"name": "远程管理软件", "id": 4031330, "predecessors": [{"name": "系統管理", "id": 1144948}, {"name": "通讯软件", "id": 4031285}], "successors": [{"name": "Secure_Shell", "id": 4031270}]}
+{"name": "远程管理软件", "id": 4031330, "predecessors": [{"name": "系統管理", "id": 1144948}, {"name": "网络软件", "id": 181101}, {"name": "通讯软件", "id": 4031285}], "successors": [{"name": "Secure_Shell", "id": 4031270}]}

@@ -1,0 +1,1 @@
+{"name": "Sensores", "id": 1728615, "predecessors": [{"name": "Componentes_pasivos", "id": 2580793}, {"name": "Domótica", "id": 100066}, {"name": "Elementos_de_máquinas", "id": 1133040}, {"name": "Instrumentación_electrónica", "id": 191003}], "successors": [{"name": "Instrumentos_de_medición", "id": 55315}]}

@@ -1,0 +1,1 @@
+{"name": "Utilisateur_Étudiant", "id": 1101911, "predecessors": [{"name": "Accueil", "id": 1155637}], "successors": [{"name": "Utilisateur_Doctorant", "id": 1524158}, {"name": "Utilisateur_Master", "id": 2485658}, {"name": "Utilisateur_Licence", "id": 2687525}]}

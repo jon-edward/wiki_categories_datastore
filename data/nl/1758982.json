@@ -1,0 +1,1 @@
+{"name": "Unixvariant", "id": 1758982, "predecessors": [{"name": "Unix", "id": 65103}], "successors": [{"name": "Linux", "id": 65089}, {"name": "BSD", "id": 297227}, {"name": "MacOS", "id": 3664361}]}

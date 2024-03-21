@@ -1,1 +1,1 @@
-{"name": "法國電力動車組", "id": 741865, "predecessors": [{"name": "法國鐵路", "id": 388459}], "successors": []}
+{"name": "法國電力動車組", "id": 741865, "predecessors": [{"name": "電力動車組", "id": 723192}, {"name": "交通工具", "id": 58315}], "successors": []}

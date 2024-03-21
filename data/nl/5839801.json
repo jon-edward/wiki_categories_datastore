@@ -1,0 +1,1 @@
+{"name": "Railterminal", "id": 5839801, "predecessors": [{"name": "Goederenvervoer_per_spoor", "id": 5686511}, {"name": "Intermodaal_goederenvervoer", "id": 5686674}, {"name": "Goederenvervoer", "id": 80543}], "successors": [{"name": "Railterminal_in_Nederland", "id": 5839802}]}

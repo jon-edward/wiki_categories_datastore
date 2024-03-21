@@ -1,1 +1,1 @@
-{"name": "招聘网站", "id": 7549677, "predecessors": [{"name": "網路搜尋引擎", "id": 72435}, {"name": "網站", "id": 52951}], "successors": []}
+{"name": "招聘网站", "id": 7549677, "predecessors": [{"name": "招聘", "id": 769751}, {"name": "網路搜尋引擎", "id": 72435}, {"name": "網站", "id": 52951}], "successors": []}

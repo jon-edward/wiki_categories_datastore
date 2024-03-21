@@ -1,0 +1,1 @@
+{"name": "Fiets", "id": 67665, "predecessors": [{"name": "Vervoermiddel", "id": 79534}, {"name": "Verkeer_en_vervoer", "id": 80542}], "successors": [{"name": "Fietsonderdeel", "id": 1951924}, {"name": "Fietsmodel", "id": 1951960}, {"name": "Fietsmerk", "id": 1951986}, {"name": "Publiek_fietssysteem", "id": 2053166}]}

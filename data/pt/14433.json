@@ -1,1 +1,1 @@
-{"name": "Psicólogos", "id": 14433, "predecessors": [{"name": "Profissionais_da_saúde", "id": 1956340}, {"name": "Psicologia", "id": 22480}], "successors": [{"name": "Psicólogos_behavioristas", "id": 3083441}, {"name": "Psicólogos_sociais", "id": 6258142}]}
+{"name": "Psicólogos", "id": 14433, "predecessors": [{"name": "Cientistas_sociais", "id": 490869}, {"name": "Profissionais_da_saúde", "id": 1956340}, {"name": "Psicologia", "id": 22480}], "successors": [{"name": "Psicólogos_behavioristas", "id": 3083441}, {"name": "Psicólogos_sociais", "id": 6258142}]}

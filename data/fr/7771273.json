@@ -1,0 +1,1 @@
+{"name": "Tumeur", "id": 7771273, "predecessors": [{"name": "Maladie", "id": 87795}], "successors": [{"name": "Tumeur_cutanée", "id": 1463507}, {"name": "Maladie_tumorale_du_système_nerveux", "id": 1557398}, {"name": "Tumeur_de_l'appareil_digestif", "id": 1606078}, {"name": "Maladie_tumorale_de_l'appareil_reproducteur_masculin", "id": 1774702}]}

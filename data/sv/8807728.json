@@ -1,1 +1,1 @@
-{"name": "Kanadensiska_passgångslopp", "id": 8807728, "predecessors": [{"name": "Sportevenemang_i_Kanada", "id": 426995}, {"name": "Hästsport", "id": 117478}], "successors": [{"name": "Breeders_Crown", "id": 8239876}]}
+{"name": "Kanadensiska_passgångslopp", "id": 8807728, "predecessors": [{"name": "Hästsport", "id": 117478}, {"name": "Sport", "id": 55124}], "successors": [{"name": "Breeders_Crown", "id": 8239876}]}

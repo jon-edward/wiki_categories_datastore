@@ -1,0 +1,1 @@
+{"name": "Ambulance", "id": 4441637, "predecessors": [{"name": "Véhicule_de_secours", "id": 121740}], "successors": [{"name": "Ambulance_militaire", "id": 4441632}, {"name": "Ambulancier_de_la_Première_Guerre_mondiale", "id": 9434123}]}

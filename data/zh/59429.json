@@ -1,1 +1,1 @@
-{"name": "脚本语言", "id": 59429, "predecessors": [{"name": "特定领域语言", "id": 3488593}, {"name": "编程语言分类", "id": 4019414}], "successors": [{"name": "PHP", "id": 170805}]}
+{"name": "脚本语言", "id": 59429, "predecessors": [{"name": "特定领域语言", "id": 3488593}, {"name": "编程语言分类", "id": 4019414}], "successors": [{"name": "PHP", "id": 170805}, {"name": "Ruby", "id": 553024}, {"name": "Perl", "id": 767607}, {"name": "Python", "id": 847540}]}

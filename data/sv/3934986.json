@@ -1,1 +1,1 @@
-{"name": "Framtida_TV-program", "id": 3934986, "predecessors": [{"name": "Framtida_produkter", "id": 339287}, {"name": "TV-program", "id": 50730}], "successors": []}
+{"name": "Framtida_TV-program", "id": 3934986, "predecessors": [{"name": "TV-program", "id": 50730}, {"name": "Framtida_händelser", "id": 499408}], "successors": []}

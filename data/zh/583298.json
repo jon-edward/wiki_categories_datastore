@@ -1,1 +1,1 @@
-{"name": "法國高速鐵路車輛", "id": 583298, "predecessors": [{"name": "法國鐵路", "id": 388459}], "successors": []}
+{"name": "法國高速鐵路車輛", "id": 583298, "predecessors": [{"name": "歐洲高速鐵路", "id": 817713}, {"name": "交通工具", "id": 58315}], "successors": []}

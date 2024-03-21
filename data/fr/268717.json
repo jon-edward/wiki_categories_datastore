@@ -1,0 +1,1 @@
+{"name": "Équipement_de_laboratoire", "id": 268717, "predecessors": [{"name": "Instrument_scientifique", "id": 342193}, {"name": "Laboratoire", "id": 284268}], "successors": [{"name": "Verrerie_de_laboratoire", "id": 268729}, {"name": "Équipement_de_laboratoire_de_biologie_moléculaire", "id": 1241503}]}

@@ -1,0 +1,1 @@
+{"name": "Sirop", "id": 329670, "predecessors": [{"name": "Boisson", "id": 95606}, {"name": "Conservation_alimentaire", "id": 479563}, {"name": "Dessert", "id": 87854}, {"name": "Glucide", "id": 229557}, {"name": "Pâte_à_tartiner", "id": 170445}, {"name": "Édulcorant", "id": 301441}, {"name": "Fruit_alimentaire", "id": 101492}], "successors": []}

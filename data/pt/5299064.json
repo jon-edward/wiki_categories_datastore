@@ -1,1 +1,1 @@
-{"name": "Ciclistas_do_estado_de_São_Paulo", "id": 5299064, "predecessors": [{"name": "Desportistas_do_estado_de_São_Paulo", "id": 3428004}, {"name": "Ciclismo", "id": 55432}, {"name": "Desporto_do_Brasil", "id": 2051287}], "successors": []}
+{"name": "Ciclistas_do_estado_de_São_Paulo", "id": 5299064, "predecessors": [{"name": "Ciclistas_do_Brasil", "id": 117743}, {"name": "Desportistas_do_estado_de_São_Paulo", "id": 3428004}, {"name": "Desporto_do_Brasil", "id": 2051287}], "successors": []}

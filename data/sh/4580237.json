@@ -1,0 +1,1 @@
+{"name": "Vodoopskrba", "id": 4580237, "predecessors": [{"name": "Hidraulika", "id": 225402}, {"name": "Hidrologija", "id": 74223}, {"name": "Voda", "id": 91064}], "successors": [{"name": "Vodoopskrbna_infrastruktura", "id": 4580236}]}

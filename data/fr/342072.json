@@ -1,0 +1,1 @@
+{"name": "Antiparasitaire", "id": 342072, "predecessors": [{"name": "Antimicrobien", "id": 7931383}, {"name": "Classe_pharmacologique", "id": 131501}, {"name": "Parasitologie", "id": 99419}, {"name": "Médicament", "id": 131503}], "successors": [{"name": "Antipaludéen", "id": 342074}, {"name": "Antihelminthique", "id": 1036817}, {"name": "Antiprotozoaire", "id": 4817446}]}

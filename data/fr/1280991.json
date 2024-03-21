@@ -1,0 +1,1 @@
+{"name": "Productique", "id": 1280991, "predecessors": [{"name": "Automatisme", "id": 147868}, {"name": "Gestion_de_production", "id": 4556980}, {"name": "Génie_mécanique", "id": 719812}, {"name": "Ingénierie", "id": 84694}, {"name": "Recherche_opérationnelle", "id": 122514}, {"name": "Technique_industrielle", "id": 1060255}], "successors": [{"name": "Robotique", "id": 136715}]}

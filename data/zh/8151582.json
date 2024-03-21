@@ -1,1 +1,1 @@
-{"name": "结构性融资", "id": 8151582, "predecessors": [{"name": "金融法", "id": 7752331}], "successors": [{"name": "次贷危机", "id": 8180445}]}
+{"name": "结构性融资", "id": 8151582, "predecessors": [{"name": "债券", "id": 209038}, {"name": "公司金融", "id": 8150552}, {"name": "金融法", "id": 7752331}], "successors": [{"name": "次贷危机", "id": 8180445}]}

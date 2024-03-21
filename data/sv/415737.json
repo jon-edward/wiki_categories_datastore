@@ -1,1 +1,1 @@
-{"name": "Broar_i_Norge", "id": 415737, "predecessors": [{"name": "Transport_i_Norge", "id": 426214}, {"name": "Turism", "id": 91247}, {"name": "Arkitektur", "id": 51576}, {"name": "Broar", "id": 62220}], "successors": []}
+{"name": "Broar_i_Norge", "id": 415737, "predecessors": [{"name": "Transport_i_Norge", "id": 426214}, {"name": "Turism", "id": 91247}, {"name": "Arkitektur", "id": 51576}, {"name": "Broar", "id": 62220}], "successors": [{"name": "Broar_i_Vestland_fylke", "id": 8833983}]}

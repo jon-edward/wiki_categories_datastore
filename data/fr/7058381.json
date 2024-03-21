@@ -1,0 +1,1 @@
+{"name": "Mort_brûlé_vif", "id": 7058381, "predecessors": [{"name": "Feu", "id": 157850}, {"name": "Cause_de_décès", "id": 10144464}], "successors": [{"name": "Suicide_par_le_feu", "id": 1862937}, {"name": "Condamné_à_mort_exécuté_au_bûcher", "id": 7058379}, {"name": "Personne_brûlée_vive_par_intolérance_religieuse", "id": 13848969}]}

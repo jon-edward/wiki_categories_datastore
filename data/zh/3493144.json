@@ -1,1 +1,1 @@
-{"name": "银行抢劫案", "id": 3493144, "predecessors": [{"name": "經濟犯罪", "id": 910319}], "successors": []}
+{"name": "银行抢劫案", "id": 3493144, "predecessors": [{"name": "偷竊", "id": 4856654}, {"name": "銀行", "id": 44740}], "successors": []}

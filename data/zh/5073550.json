@@ -1,1 +1,1 @@
-{"name": "摩托車類型", "id": 5073550, "predecessors": [{"name": "分类系统", "id": 1575681}], "successors": []}
+{"name": "摩托車類型", "id": 5073550, "predecessors": [{"name": "摩托車", "id": 606928}, {"name": "交通工具", "id": 58315}, {"name": "分类系统", "id": 1575681}], "successors": []}

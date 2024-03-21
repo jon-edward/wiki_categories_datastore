@@ -1,1 +1,1 @@
-{"name": "二战日本轰炸机", "id": 6978235, "predecessors": [{"name": "第二次世界大战军事装备", "id": 1422403}], "successors": []}
+{"name": "二战日本轰炸机", "id": 6978235, "predecessors": [{"name": "日本轟炸機", "id": 579638}, {"name": "军用飞机", "id": 48815}, {"name": "轰炸机", "id": 98267}], "successors": []}

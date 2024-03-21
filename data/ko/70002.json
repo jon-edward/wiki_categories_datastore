@@ -1,0 +1,1 @@
+{"name": "경매", "id": 70002, "predecessors": [{"name": "가격_결정", "id": 556153}, {"name": "게임_이론", "id": 69994}, {"name": "시장", "id": 15417}], "successors": []}

@@ -1,0 +1,1 @@
+{"name": "Gift", "id": 628792, "predecessors": [{"name": "Klinische_Toxikologie", "id": 290093}], "successors": [{"name": "Nervengift", "id": 1084847}, {"name": "Toxin", "id": 3286363}, {"name": "Giftiger_Stoff_bei_Verschlucken", "id": 12245613}, {"name": "Giftiger_Stoff_bei_Einatmen", "id": 12245615}, {"name": "Giftiger_Stoff_bei_Hautkontakt", "id": 12245618}]}

@@ -1,1 +1,1 @@
-{"name": "地下街", "id": 247436, "predecessors": [{"name": "商业街", "id": 526271}], "successors": [{"name": "臺灣地下街", "id": 6037301}]}
+{"name": "地下街", "id": 247436, "predecessors": [{"name": "商业街", "id": 526271}, {"name": "旅遊景點", "id": 4818335}, {"name": "街道設施", "id": 846890}], "successors": [{"name": "臺灣地下街", "id": 6037301}]}

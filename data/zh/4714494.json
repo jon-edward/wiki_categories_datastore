@@ -1,1 +1,1 @@
-{"name": "行動支付", "id": 4714494, "predecessors": [{"name": "在线支付", "id": 5982218}, {"name": "支付系统", "id": 751175}], "successors": []}
+{"name": "行動支付", "id": 4714494, "predecessors": [{"name": "在线支付", "id": 5982218}, {"name": "支付系统", "id": 751175}, {"name": "金融技術", "id": 4475097}], "successors": []}

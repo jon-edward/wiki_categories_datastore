@@ -1,1 +1,1 @@
-{"name": "行動電話遊戲", "id": 346625, "predecessors": [{"name": "行動應用程式", "id": 7101639}], "successors": [{"name": "Android遊戲", "id": 1771515}, {"name": "Windows_Phone游戏", "id": 3689670}, {"name": "N-Gage服务游戏", "id": 4375241}]}
+{"name": "行動電話遊戲", "id": 346625, "predecessors": [{"name": "行動應用程式", "id": 7101639}, {"name": "行動電話", "id": 65996}], "successors": [{"name": "手机游戏公司", "id": 1095556}, {"name": "IOS遊戲", "id": 1467813}, {"name": "Android遊戲", "id": 1771515}, {"name": "Windows_Phone游戏", "id": 3689670}, {"name": "N-Gage服务游戏", "id": 4375241}]}

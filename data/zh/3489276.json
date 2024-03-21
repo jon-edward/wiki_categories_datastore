@@ -1,1 +1,1 @@
-{"name": "耳機", "id": 3489276, "predecessors": [{"name": "消費品", "id": 58336}], "successors": []}
+{"name": "耳機", "id": 3489276, "predecessors": [{"name": "工具", "id": 65701}, {"name": "消費品", "id": 58336}, {"name": "输入/输出", "id": 512725}], "successors": []}

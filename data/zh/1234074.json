@@ -1,1 +1,1 @@
-{"name": "K聯賽球員", "id": 1234074, "predecessors": [{"name": "K聯賽", "id": 1234075}], "successors": [{"name": "K聯賽1球員", "id": 5215877}]}
+{"name": "K聯賽球員", "id": 1234074, "predecessors": [{"name": "K聯賽", "id": 1234075}, {"name": "僱傭", "id": 769801}], "successors": [{"name": "K聯賽1球員", "id": 5215877}]}

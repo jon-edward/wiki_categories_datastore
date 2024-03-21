@@ -1,0 +1,1 @@
+{"name": "Trein", "id": 63351, "predecessors": [{"name": "Vervoermiddel", "id": 79534}], "successors": [{"name": "Hogesnelheidstrein", "id": 63357}, {"name": "Modeltrein", "id": 212394}, {"name": "Treinsoort", "id": 4656882}]}

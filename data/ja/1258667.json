@@ -1,0 +1,1 @@
+{"name": "音声合成", "id": 1258667, "predecessors": [{"name": "ロボット工学", "id": 354193}, {"name": "人工知能", "id": 185049}, {"name": "音声処理", "id": 577406}], "successors": [{"name": "VOCALOID", "id": 1636867}, {"name": "CeVIO", "id": 4377809}]}

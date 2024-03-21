@@ -1,0 +1,1 @@
+{"name": "Wärmeträger", "id": 8023225, "predecessors": [{"name": "Wärmetechnik", "id": 1642003}, {"name": "Energietechnik", "id": 239318}, {"name": "Technik", "id": 242544}], "successors": [{"name": "Kühlmittel", "id": 4065017}, {"name": "Kältemittel", "id": 8605886}]}

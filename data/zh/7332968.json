@@ -1,1 +1,1 @@
-{"name": "美国军用飞机采购计划", "id": 7332968, "predecessors": [{"name": "美國國防部", "id": 2946798}], "successors": []}
+{"name": "美国军用飞机采购计划", "id": 7332968, "predecessors": [{"name": "美国军用飞机", "id": 536489}, {"name": "美国联邦政府预算", "id": 7209171}], "successors": []}

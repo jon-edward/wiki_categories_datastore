@@ -1,1 +1,1 @@
-{"name": "列車炮", "id": 605306, "predecessors": [{"name": "军用车辆", "id": 48202}, {"name": "军事设施", "id": 144376}], "successors": []}
+{"name": "列車炮", "id": 605306, "predecessors": [{"name": "军用车辆", "id": 48202}, {"name": "鐵路車輛", "id": 391449}, {"name": "军事设施", "id": 144376}], "successors": []}

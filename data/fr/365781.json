@@ -1,0 +1,1 @@
+{"name": "Radiochimie", "id": 365781, "predecessors": [{"name": "Chimie_nucléaire", "id": 1080389}], "successors": [{"name": "Fusion_nucléaire", "id": 304390}, {"name": "Isotope", "id": 365795}, {"name": "Neutron", "id": 894285}, {"name": "Fission_nucléaire", "id": 14816221}]}

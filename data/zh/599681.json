@@ -1,1 +1,1 @@
-{"name": "专有软件", "id": 599681, "predecessors": [{"name": "軟體授權", "id": 552329}], "successors": [{"name": "共享軟件", "id": 226319}, {"name": "Warez", "id": 599665}, {"name": "VMware", "id": 3348836}, {"name": "微軟操作系統", "id": 691176}]}
+{"name": "专有软件", "id": 599681, "predecessors": [{"name": "軟體授權", "id": 552329}], "successors": [{"name": "共享軟件", "id": 226319}, {"name": "Warez", "id": 599665}, {"name": "甲骨文公司軟體", "id": 2766801}, {"name": "VMware", "id": 3348836}, {"name": "苹果操作系统", "id": 519407}, {"name": "微軟操作系統", "id": 691176}]}

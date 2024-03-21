@@ -1,0 +1,1 @@
+{"name": "Turbinenschiff", "id": 4795316, "predecessors": [{"name": "Antrieb_nach_Energiequelle", "id": 9393332}], "successors": [{"name": "Gasturbinenschiff", "id": 4619356}, {"name": "Dampfturbinenschiff", "id": 4795314}, {"name": "Schiff_mit_turboelektrischem_Antrieb", "id": 8191296}]}

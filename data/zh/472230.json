@@ -1,1 +1,1 @@
-{"name": "性用品", "id": 472230, "predecessors": [{"name": "生活用品", "id": 458965}], "successors": [{"name": "春药", "id": 475891}, {"name": "BDSM用具", "id": 5164875}]}
+{"name": "性用品", "id": 472230, "predecessors": [{"name": "性文化", "id": 80393}, {"name": "性產業", "id": 285334}, {"name": "生活用品", "id": 458965}], "successors": [{"name": "春药", "id": 475891}, {"name": "性玩具", "id": 1572480}, {"name": "BDSM用具", "id": 5164875}]}

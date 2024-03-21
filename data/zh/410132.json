@@ -1,1 +1,1 @@
-{"name": "作業系統核心", "id": 410132, "predecessors": [{"name": "操作系统", "id": 33605}], "successors": []}
+{"name": "作業系統核心", "id": 410132, "predecessors": [{"name": "操作系统", "id": 33605}, {"name": "電腦架構", "id": 133831}], "successors": []}

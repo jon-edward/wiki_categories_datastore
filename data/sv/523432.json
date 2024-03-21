@@ -1,1 +1,1 @@
-{"name": "Felidae", "id": 523432, "predecessors": [{"name": "Mammalia", "id": 239720}], "successors": [{"name": "Panthera", "id": 516097}, {"name": "Felis", "id": 1114523}]}
+{"name": "Felidae", "id": 523432, "predecessors": [{"name": "Carnivora", "id": 239719}], "successors": [{"name": "Panthera", "id": 516097}, {"name": "Felis", "id": 1114523}]}

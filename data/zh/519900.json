@@ -1,0 +1,1 @@
+{"name": "客戶端", "id": 519900, "predecessors": [{"name": "分散式計算架構", "id": 1176305}, {"name": "网络软件", "id": 181101}, {"name": "软件", "id": 322354}], "successors": [{"name": "Usenet客户端", "id": 84685}, {"name": "电子邮件客户端", "id": 144392}, {"name": "BitTorrent客戶端", "id": 519902}, {"name": "IRC客户端", "id": 520068}, {"name": "Jabber客户端", "id": 1052652}]}

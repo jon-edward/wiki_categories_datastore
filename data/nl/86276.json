@@ -1,0 +1,1 @@
+{"name": "Computerprocessor", "id": 86276, "predecessors": [{"name": "Computerarchitectuur", "id": 127640}, {"name": "Computerhardware", "id": 63493}, {"name": "Geïntegreerde_schakeling", "id": 1204473}], "successors": [{"name": "Instructieset", "id": 916931}, {"name": "AMD-processor", "id": 5566634}, {"name": "Intel-processor", "id": 5567579}]}

@@ -1,0 +1,1 @@
+{"name": "Transport_routier_en_Suisse", "id": 1672324, "predecessors": [{"name": "Transport_en_Suisse", "id": 124912}, {"name": "Camion", "id": 204958}], "successors": [{"name": "Tunnel_routier_en_Suisse", "id": 6994870}]}

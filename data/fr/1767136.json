@@ -1,0 +1,1 @@
+{"name": "Transformation_thermodynamique", "id": 1767136, "predecessors": [{"name": "Dynamique_des_fluides", "id": 6068152}, {"name": "Thermodynamique", "id": 95525}], "successors": [{"name": "Fusion_nucléaire", "id": 304390}, {"name": "Transition_de_phase", "id": 1006573}, {"name": "Cycle_thermodynamique", "id": 1765405}, {"name": "Fission_nucléaire", "id": 14816221}]}

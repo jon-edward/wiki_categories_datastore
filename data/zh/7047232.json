@@ -1,1 +1,1 @@
-{"name": "JR北海道轉乘車站", "id": 7047232, "predecessors": [{"name": "日本國有鐵道廢站", "id": 4525198}], "successors": []}
+{"name": "JR北海道轉乘車站", "id": 7047232, "predecessors": [{"name": "北海道旅客鐵道", "id": 308827}, {"name": "鐵路公司", "id": 262167}], "successors": []}

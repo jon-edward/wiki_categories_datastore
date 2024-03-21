@@ -1,1 +1,1 @@
-{"name": "类Unix系统", "id": 467370, "predecessors": [{"name": "Unix", "id": 93929}, {"name": "操作系统", "id": 33605}], "successors": []}
+{"name": "类Unix系统", "id": 467370, "predecessors": [{"name": "Unix", "id": 93929}, {"name": "操作系统", "id": 33605}], "successors": [{"name": "MacOS", "id": 1845228}]}

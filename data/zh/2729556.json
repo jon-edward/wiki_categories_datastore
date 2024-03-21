@@ -1,1 +1,1 @@
-{"name": "曼谷交通", "id": 2729556, "predecessors": [{"name": "城市经济学", "id": 1693521}], "successors": [{"name": "曼谷街道", "id": 946254}]}
+{"name": "曼谷交通", "id": 2729556, "predecessors": [{"name": "亞洲首都", "id": 139484}, {"name": "城市经济学", "id": 1693521}], "successors": [{"name": "曼谷街道", "id": 946254}]}

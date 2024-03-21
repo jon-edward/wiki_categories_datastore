@@ -1,0 +1,1 @@
+{"name": "VoIP", "id": 615582, "predecessors": [{"name": "Telefonie", "id": 5635002}, {"name": "Internet", "id": 240464}], "successors": [{"name": "VoIP-Software", "id": 2171484}, {"name": "VoIP-Hardware", "id": 2171499}, {"name": "VoIP-Provider", "id": 2171501}]}

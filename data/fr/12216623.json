@@ -1,0 +1,1 @@
+{"name": "Chercheuse", "id": 12216623, "predecessors": [{"name": "Recherche", "id": 10851057}, {"name": "Métier", "id": 87726}], "successors": [{"name": "Chercheuse_en_médecine", "id": 6393194}, {"name": "Chercheuse_en_communication", "id": 13170859}, {"name": "Chercheuse_en_biologie", "id": 13198492}, {"name": "Chercheuse_au_CNRS", "id": 14513170}]}
