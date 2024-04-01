@@ -1,1 +1,1 @@
-{"name": "Books_about_public_opinion", "id": 11279030, "predecessors": [{"name": "Political_science_books", "id": 5951563}], "successors": [{"name": "Non-fiction_books_about_elections", "id": 15784069}]}
+{"name": "Books_about_public_opinion", "id": 11279030, "predecessors": [{"name": "Political_science_books", "id": 5951563}, {"name": "Public_opinion", "id": 11277715}], "successors": [{"name": "Non-fiction_books_about_elections", "id": 15784069}]}

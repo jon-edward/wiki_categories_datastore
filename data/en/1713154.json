@@ -1,1 +1,1 @@
-{"name": "LAN_parties", "id": 1713154, "predecessors": [{"name": "Local_area_networks", "id": 5014434}, {"name": "Science_events", "id": 13887373}, {"name": "Competitions", "id": 737119}], "successors": []}
+{"name": "LAN_parties", "id": 1713154, "predecessors": [{"name": "Science_events", "id": 13887373}, {"name": "Competitions", "id": 737119}], "successors": []}

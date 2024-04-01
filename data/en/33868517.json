@@ -1,1 +1,1 @@
-{"name": "ARCA_Menards_Series_tracks", "id": 33868517, "predecessors": [{"name": "NASCAR_tracks", "id": 1261857}, {"name": "Competitions", "id": 737119}], "successors": []}
+{"name": "ARCA_Menards_Series_tracks", "id": 33868517, "predecessors": [{"name": "ARCA_Menards_Series", "id": 33503199}, {"name": "NASCAR_tracks", "id": 1261857}, {"name": "Sports_venues", "id": 3826004}], "successors": []}

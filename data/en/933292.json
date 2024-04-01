@@ -1,0 +1,1 @@
+{"name": "Rocket_artillery", "id": 933292, "predecessors": [{"name": "Artillery_by_type", "id": 13392456}, {"name": "Rocket_weapons", "id": 1930654}], "successors": [{"name": "Self-propelled_rocket_launchers", "id": 29874530}, {"name": "Multiple_rocket_launchers", "id": 30733122}, {"name": "Rocket_launchers", "id": 30733159}]}

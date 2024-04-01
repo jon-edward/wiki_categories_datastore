@@ -1,0 +1,1 @@
+{"name": "Tram_manufacturers", "id": 34835388, "predecessors": [{"name": "Electric_vehicle_manufacturers", "id": 15113215}, {"name": "Tram_transport", "id": 1226506}, {"name": "Technology_companies", "id": 3608033}], "successors": [{"name": "Alstom", "id": 30587109}, {"name": "Bombardier_Transportation", "id": 30698342}]}

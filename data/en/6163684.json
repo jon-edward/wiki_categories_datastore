@@ -1,1 +1,1 @@
-{"name": "ITV_news_shows", "id": 6163684, "predecessors": [{"name": "ITN", "id": 13633971}], "successors": [{"name": "ITV_regional_news_shows", "id": 6123880}, {"name": "ITV_regional_newsreaders_and_journalists", "id": 15384364}]}
+{"name": "ITV_news_shows", "id": 6163684, "predecessors": [{"name": "British_television_news_shows", "id": 6163505}, {"name": "ITN", "id": 13633971}], "successors": [{"name": "ITV_regional_news_shows", "id": 6123880}, {"name": "ITV_regional_newsreaders_and_journalists", "id": 15384364}]}

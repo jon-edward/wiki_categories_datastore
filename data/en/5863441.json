@@ -1,1 +1,1 @@
-{"name": "French_music_critics", "id": 5863441, "predecessors": [{"name": "Music_critics", "id": 736693}], "successors": []}
+{"name": "French_music_critics", "id": 5863441, "predecessors": [{"name": "French_journalists", "id": 1433945}, {"name": "Music_critics", "id": 736693}], "successors": []}

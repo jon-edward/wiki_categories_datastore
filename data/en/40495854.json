@@ -1,1 +1,1 @@
-{"name": "Animal_size", "id": 40495854, "predecessors": [{"name": "Animal_morphology", "id": 25585048}, {"name": "Biology", "id": 692675}], "successors": [{"name": "Human_body_weight", "id": 36655477}, {"name": "Tardigrades", "id": 4453722}]}
+{"name": "Animal_size", "id": 40495854, "predecessors": [{"name": "Animal_morphology", "id": 25585048}, {"name": "Biology", "id": 692675}], "successors": [{"name": "Lists_of_largest_animals", "id": 54665008}, {"name": "Human_body_weight", "id": 36655477}, {"name": "Tardigrades", "id": 4453722}]}

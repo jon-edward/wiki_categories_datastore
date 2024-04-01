@@ -1,0 +1,1 @@
+{"name": "Fire_service_vehicles", "id": 35101557, "predecessors": [{"name": "Emergency_vehicles", "id": 1298014}, {"name": "Firefighting_equipment", "id": 2012171}], "successors": [{"name": "Fire_service_vehicle_manufacturers", "id": 44200168}, {"name": "Aerial_firefighting_aircraft", "id": 55432297}]}

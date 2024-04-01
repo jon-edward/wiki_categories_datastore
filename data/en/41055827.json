@@ -1,1 +1,1 @@
-{"name": "Stealth_ships", "id": 41055827, "predecessors": [{"name": "Naval_ships", "id": 733412}, {"name": "Naval_warfare", "id": 1054971}, {"name": "Stealth_technology", "id": 28325072}], "successors": [{"name": "Braunschweig-class_corvettes", "id": 45264737}]}
+{"name": "Stealth_ships", "id": 41055827, "predecessors": [{"name": "Naval_ships", "id": 733412}, {"name": "Stealth_technology", "id": 28325072}], "successors": [{"name": "Braunschweig-class_corvettes", "id": 45264737}]}

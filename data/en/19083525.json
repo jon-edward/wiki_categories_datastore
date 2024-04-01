@@ -1,1 +1,1 @@
-{"name": "Australian_magazine_editors", "id": 19083525, "predecessors": [{"name": "Magazine_publishing", "id": 13090284}], "successors": []}
+{"name": "Australian_magazine_editors", "id": 19083525, "predecessors": [{"name": "Magazine_editors", "id": 952108}, {"name": "Magazine_publishing", "id": 13090284}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Political_plays", "id": 53685097, "predecessors": [{"name": "Theatrical_genres", "id": 1231826}, {"name": "Modernist_theatre", "id": 37525253}], "successors": []}
+{"name": "Political_plays", "id": 53685097, "predecessors": [{"name": "Modernist_theatre", "id": 37525253}], "successors": [{"name": "English_political_plays", "id": 53685107}]}

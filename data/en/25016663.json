@@ -1,1 +1,1 @@
-{"name": "Confederate_States_Army_soldiers", "id": 25016663, "predecessors": [{"name": "Confederate_States_Army_personnel", "id": 34879801}], "successors": [{"name": "Irish_soldiers_in_the_Confederate_States_Army", "id": 36377267}]}
+{"name": "Confederate_States_Army_soldiers", "id": 25016663, "predecessors": [{"name": "Confederate_States_Army_personnel", "id": 34879801}, {"name": "American_military_personnel", "id": 6676519}, {"name": "Military", "id": 716572}], "successors": [{"name": "Irish_soldiers_in_the_Confederate_States_Army", "id": 36377267}]}

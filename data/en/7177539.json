@@ -1,1 +1,1 @@
-{"name": "Crewed_Soyuz_missions", "id": 7177539, "predecessors": [{"name": "Soyuz_program", "id": 39258662}], "successors": []}
+{"name": "Crewed_Soyuz_missions", "id": 7177539, "predecessors": [{"name": "Soyuz_program", "id": 39258662}, {"name": "Space_exploration", "id": 40138768}], "successors": []}

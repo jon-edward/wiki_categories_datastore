@@ -1,1 +1,1 @@
-{"name": "Email_authentication", "id": 28655364, "predecessors": [{"name": "Authentication", "id": 50675892}, {"name": "Computer_network_security", "id": 4651913}, {"name": "Email", "id": 28655867}], "successors": []}
+{"name": "Email_authentication", "id": 28655364, "predecessors": [{"name": "Authentication", "id": 50675892}, {"name": "Computer_network_security", "id": 4651913}, {"name": "Email", "id": 28655867}], "successors": [{"name": "OpenPGP", "id": 1386552}, {"name": "Anti-spam", "id": 7540197}]}

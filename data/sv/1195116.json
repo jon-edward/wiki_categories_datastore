@@ -1,1 +1,0 @@
-{"name": "Listor_med_anknytning_till_spel", "id": 1195116, "predecessors": [{"name": "Listor_med_anknytning_till_kultur", "id": 444104}, {"name": "Spel", "id": 52267}], "successors": [{"name": "Listor_över_spel", "id": 616776}, {"name": "Datorspelslistor_efter_serie", "id": 2478767}, {"name": "Listor_över_datorspelsfigurer", "id": 8103591}]}

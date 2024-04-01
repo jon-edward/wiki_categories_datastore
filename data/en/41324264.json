@@ -1,1 +1,1 @@
-{"name": "UK_garage_singers", "id": 41324264, "predecessors": [{"name": "UK_garage_musicians", "id": 20006099}, {"name": "Electronic_musicians", "id": 711299}], "successors": []}
+{"name": "UK_garage_singers", "id": 41324264, "predecessors": [{"name": "Electronic_music_singers", "id": 44630136}, {"name": "UK_garage_musicians", "id": 20006099}], "successors": []}

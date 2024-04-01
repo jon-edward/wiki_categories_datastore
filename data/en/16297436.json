@@ -1,1 +1,1 @@
-{"name": "Currencies_with_multiple_banknote_issuers", "id": 16297436, "predecessors": [{"name": "Banknotes", "id": 3880210}], "successors": []}
+{"name": "Currencies_with_multiple_banknote_issuers", "id": 16297436, "predecessors": [{"name": "Banknotes", "id": 3880210}], "successors": [{"name": "Currencies_of_British_Overseas_Territories", "id": 13678806}, {"name": "Banknotes_of_Scotland", "id": 35279825}, {"name": "Banknotes_of_Northern_Ireland", "id": 35280033}, {"name": "Banknotes_of_England", "id": 35280081}]}

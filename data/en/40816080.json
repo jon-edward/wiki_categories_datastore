@@ -1,1 +1,1 @@
-{"name": "Atamans", "id": 40816080, "predecessors": [{"name": "Russian_Cossacks", "id": 37428394}, {"name": "Cossacks", "id": 1090514}], "successors": [{"name": "Hetmans_of_the_Zaporozhian_Cossacks", "id": 4694693}]}
+{"name": "Atamans", "id": 40816080, "predecessors": [{"name": "Military_leaders", "id": 1258701}, {"name": "Russian_Cossacks", "id": 37428394}, {"name": "Cossacks", "id": 1090514}], "successors": [{"name": "Hetmans_of_the_Zaporozhian_Cossacks", "id": 4694693}, {"name": "Great_Crown_Hetmans", "id": 52991623}, {"name": "Field_Crown_Hetmans", "id": 52991627}]}

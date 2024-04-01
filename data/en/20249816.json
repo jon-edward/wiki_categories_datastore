@@ -1,1 +1,1 @@
-{"name": "Military_psychology", "id": 20249816, "predecessors": [{"name": "Industrial_and_organizational_psychology", "id": 35557618}, {"name": "Military_science", "id": 1437392}], "successors": [{"name": "Psychological_warfare", "id": 1312487}]}
+{"name": "Military_psychology", "id": 20249816, "predecessors": [{"name": "Industrial_and_organizational_psychology", "id": 35557618}, {"name": "Military_science", "id": 1437392}, {"name": "War", "id": 691877}], "successors": [{"name": "Psychological_warfare", "id": 1312487}]}

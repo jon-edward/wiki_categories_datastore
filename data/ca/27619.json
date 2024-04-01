@@ -1,1 +1,1 @@
-{"name": "Àcids_orgànics", "id": 27619, "predecessors": [{"name": "Compostos_orgànics", "id": 27486}, {"name": "Àcids", "id": 14214}], "successors": [{"name": "Àcids_carboxílics", "id": 314465}]}
+{"name": "Àcids_orgànics", "id": 27619, "predecessors": [{"name": "Compostos_orgànics", "id": 27486}, {"name": "Compostos_químics", "id": 13735}], "successors": [{"name": "Àcids_carboxílics", "id": 314465}]}

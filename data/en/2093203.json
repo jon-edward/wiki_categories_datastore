@@ -1,1 +1,1 @@
-{"name": "Sanrio_characters", "id": 2093203, "predecessors": [{"name": "Toy_brands", "id": 6076778}, {"name": "Anime_series", "id": 2250028}, {"name": "Film_characters", "id": 1891545}], "successors": [{"name": "Hello_Kitty", "id": 32940575}, {"name": "Jewelpet", "id": 35025665}]}
+{"name": "Sanrio_characters", "id": 2093203, "predecessors": [{"name": "Anime_series", "id": 2250028}, {"name": "Ownership", "id": 40528816}, {"name": "Film_characters", "id": 1891545}], "successors": [{"name": "Hello_Kitty", "id": 32940575}, {"name": "Jewelpet", "id": 35025665}]}

@@ -1,1 +1,1 @@
-{"name": "Electrophysiology", "id": 4244958, "predecessors": [{"name": "Medical_imaging", "id": 1745805}, {"name": "Physiology", "id": 702173}], "successors": []}
+{"name": "Electrophysiology", "id": 4244958, "predecessors": [{"name": "Medical_imaging", "id": 1745805}, {"name": "Physiology", "id": 702173}], "successors": [{"name": "Action_potentials", "id": 68939550}]}

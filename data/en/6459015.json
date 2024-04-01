@@ -1,1 +1,1 @@
-{"name": "Oregon_wine", "id": 6459015, "predecessors": [{"name": "Agriculture_in_Oregon", "id": 17642496}, {"name": "Oregon_culture", "id": 1234531}, {"name": "States_of_the_United_States", "id": 2837635}], "successors": [{"name": "Wineries_in_Oregon", "id": 42546126}]}
+{"name": "Oregon_wine", "id": 6459015, "predecessors": [{"name": "Agriculture_in_Oregon", "id": 17642496}, {"name": "Oregon_culture", "id": 1234531}, {"name": "West_Coast_of_the_United_States", "id": 9611146}], "successors": [{"name": "Wineries_in_Oregon", "id": 42546126}]}

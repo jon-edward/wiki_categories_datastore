@@ -1,1 +1,1 @@
-{"name": "Italian_Benedictines", "id": 34547606, "predecessors": [{"name": "Italian_Roman_Catholics", "id": 5880019}], "successors": [{"name": "Italian_Cistercians", "id": 46592998}]}
+{"name": "Italian_Benedictines", "id": 34547606, "predecessors": [{"name": "Italian_Christian_monks", "id": 17091187}, {"name": "Italian_Roman_Catholics", "id": 5880019}, {"name": "Benedictines", "id": 916568}], "successors": []}

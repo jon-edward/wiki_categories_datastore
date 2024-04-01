@@ -1,1 +1,1 @@
-{"name": "Country_zpěvačky", "id": 621735, "predecessors": [{"name": "Country_zpěváci", "id": 116119}, {"name": "Hudební_žánry", "id": 127871}], "successors": [{"name": "Taylor_Swift", "id": 412002}]}
+{"name": "Country_zpěvačky", "id": 621735, "predecessors": [{"name": "Country_zpěváci", "id": 116119}, {"name": "Zpěvačky", "id": 504589}, {"name": "Hudební_žánry", "id": 127871}], "successors": [{"name": "Taylor_Swift", "id": 412002}]}

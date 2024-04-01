@@ -1,1 +1,1 @@
-{"name": "Hotel_buildings_completed_in_1935", "id": 37790632, "predecessors": [{"name": "Commercial_buildings_completed_in_1935", "id": 37750540}, {"name": "Residential_buildings_completed_in_1935", "id": 33779253}], "successors": []}
+{"name": "Hotel_buildings_completed_in_1935", "id": 37790632, "predecessors": [{"name": "Buildings_and_structures_by_type", "id": 6884364}], "successors": []}

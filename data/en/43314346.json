@@ -1,1 +1,1 @@
-{"name": "3D_printer_companies", "id": 43314346, "predecessors": [{"name": "3D_printing", "id": 33961970}, {"name": "Computer_peripheral_companies", "id": 7636678}, {"name": "Computer_printer_companies", "id": 7653958}], "successors": []}
+{"name": "3D_printer_companies", "id": 43314346, "predecessors": [{"name": "3D_printing", "id": 33961970}, {"name": "Computer_peripheral_companies", "id": 7636678}, {"name": "Computer_printer_companies", "id": 7653958}, {"name": "Robotics_companies", "id": 1949494}], "successors": []}

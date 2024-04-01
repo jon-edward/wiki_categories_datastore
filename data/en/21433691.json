@@ -1,1 +1,1 @@
-{"name": "Jötnar", "id": 21433691, "predecessors": [{"name": "Giants", "id": 707332}, {"name": "Types_of_deities", "id": 71272043}], "successors": [{"name": "Trolls", "id": 10215922}, {"name": "Loki", "id": 56519729}, {"name": "Gýgjar", "id": 62410451}, {"name": "Ymir", "id": 71388538}]}
+{"name": "Jötnar", "id": 21433691, "predecessors": [{"name": "Giants", "id": 707332}], "successors": [{"name": "Trolls", "id": 10215922}, {"name": "Loki", "id": 56519729}, {"name": "Gýgjar", "id": 62410451}, {"name": "Ymir", "id": 71388538}]}

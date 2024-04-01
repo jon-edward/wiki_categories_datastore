@@ -1,1 +1,1 @@
-{"name": "Fiat_Group_factories", "id": 24988683, "predecessors": [{"name": "Fiat", "id": 922242}], "successors": []}
+{"name": "Fiat_Group_factories", "id": 24988683, "predecessors": [{"name": "Fiat", "id": 922242}, {"name": "Manufacturing_plants", "id": 2003393}], "successors": []}

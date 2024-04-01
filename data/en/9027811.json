@@ -1,1 +1,1 @@
-{"name": "Construction_documents", "id": 9027811, "predecessors": [{"name": "Construction_management", "id": 56625291}, {"name": "Documents", "id": 694072}, {"name": "Landscape_architecture", "id": 2927773}], "successors": [{"name": "Technical_drawing", "id": 1494454}]}
+{"name": "Construction_documents", "id": 9027811, "predecessors": [{"name": "Architectural_communication", "id": 8217037}, {"name": "Documents", "id": 694072}, {"name": "Landscape_architecture", "id": 2927773}], "successors": [{"name": "Technical_drawing", "id": 1494454}]}

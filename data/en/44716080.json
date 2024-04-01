@@ -1,1 +1,1 @@
-{"name": "Court_of_Justice_of_the_European_Union_case_law", "id": 44716080, "predecessors": [{"name": "Courts", "id": 1771407}], "successors": []}
+{"name": "Court_of_Justice_of_the_European_Union_case_law", "id": 44716080, "predecessors": [{"name": "Court_of_Justice_of_the_European_Union", "id": 6633394}, {"name": "Courts", "id": 1771407}, {"name": "European_Union_law", "id": 714411}], "successors": [{"name": "European_Union_labour_case_law", "id": 44867348}]}

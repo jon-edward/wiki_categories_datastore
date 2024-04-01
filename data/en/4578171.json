@@ -1,1 +1,1 @@
-{"name": "Capability_systems", "id": 4578171, "predecessors": [{"name": "Computer_architecture", "id": 869984}, {"name": "Computer_systems", "id": 1940227}], "successors": []}
+{"name": "Capability_systems", "id": 4578171, "predecessors": [{"name": "Computer_architecture", "id": 869984}, {"name": "Computer_security_models", "id": 4750783}, {"name": "Computer_systems", "id": 1940227}], "successors": []}

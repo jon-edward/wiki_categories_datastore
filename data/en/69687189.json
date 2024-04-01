@@ -1,1 +1,1 @@
-{"name": "Queen's_Own_Rifles_of_Canada_soldiers", "id": 69687189, "predecessors": [{"name": "Queen's_Own_Rifles_of_Canada", "id": 30128489}], "successors": []}
+{"name": "Queen's_Own_Rifles_of_Canada_soldiers", "id": 69687189, "predecessors": [{"name": "Canadian_Army_soldiers", "id": 35013931}, {"name": "Queen's_Own_Rifles_of_Canada", "id": 30128489}, {"name": "Canadian_Army_personnel", "id": 20929498}], "successors": []}

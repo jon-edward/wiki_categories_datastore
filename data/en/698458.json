@@ -1,1 +1,1 @@
-{"name": "Shotgun_shooting_sports", "id": 698458, "predecessors": [{"name": "Shooting_sports", "id": 698444}], "successors": []}
+{"name": "Shotgun_shooting_sports", "id": 698458, "predecessors": [{"name": "Shooting_sports", "id": 698444}, {"name": "Shotguns", "id": 868225}], "successors": [{"name": "Skeet_shooters", "id": 2527308}, {"name": "Trap_and_double_trap_shooters", "id": 19072594}]}

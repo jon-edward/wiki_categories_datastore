@@ -1,1 +1,1 @@
-{"name": "Shaving", "id": 13945753, "predecessors": [{"name": "Hair_removal", "id": 44532338}, {"name": "Hairdressing", "id": 933176}, {"name": "Facial_features", "id": 10156905}], "successors": [{"name": "Shaving_cream_brands", "id": 33219236}]}
+{"name": "Shaving", "id": 13945753, "predecessors": [{"name": "Hair_removal", "id": 44532338}, {"name": "Hairdressing", "id": 933176}, {"name": "Facial_features", "id": 10156905}], "successors": []}

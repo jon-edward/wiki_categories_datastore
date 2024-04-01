@@ -1,1 +1,1 @@
-{"name": "Muskets", "id": 1021372, "predecessors": [{"name": "Early_firearms", "id": 1944800}, {"name": "Militaria", "id": 7943754}], "successors": [{"name": "Rifled_muskets", "id": 13315027}]}
+{"name": "Muskets", "id": 1021372, "predecessors": [{"name": "Early_firearms", "id": 1944800}, {"name": "Muzzleloaders", "id": 29794020}, {"name": "Militaria", "id": 7943754}], "successors": [{"name": "Rifled_muskets", "id": 13315027}]}

@@ -1,1 +1,1 @@
-{"name": "Infrared_technology", "id": 15908724, "predecessors": [{"name": "Technology_by_type", "id": 17200193}], "successors": [{"name": "Infrared_spectroscopy", "id": 14347873}, {"name": "Remote_control", "id": 15998203}]}
+{"name": "Infrared_technology", "id": 15908724, "predecessors": [{"name": "Technology_by_type", "id": 17200193}, {"name": "Wireless", "id": 7290928}], "successors": []}

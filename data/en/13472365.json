@@ -1,1 +1,1 @@
-{"name": "Radial_engines", "id": 13472365, "predecessors": [{"name": "Aircraft_engines", "id": 762219}], "successors": [{"name": "Inline_radial_engines", "id": 31531402}, {"name": "Aircraft_air-cooled_radial_piston_engines", "id": 38007805}]}
+{"name": "Radial_engines", "id": 13472365, "predecessors": [{"name": "Aircraft_engines", "id": 762219}, {"name": "Internal_combustion_engine", "id": 15024245}], "successors": [{"name": "Inline_radial_engines", "id": 31531402}, {"name": "Aircraft_air-cooled_radial_piston_engines", "id": 38007805}]}

@@ -1,1 +1,1 @@
-{"name": "Sastera_Parsi", "id": 63490, "predecessors": [{"name": "Sejarah_Iran", "id": 46691}, {"name": "Demografi_Iran", "id": 47879}, {"name": "Iran", "id": 46689}], "successors": [{"name": "Penulis_Parsi", "id": 63491}]}
+{"name": "Sastera_Parsi", "id": 63490, "predecessors": [{"name": "Kebudayaan_Iran", "id": 63603}, {"name": "Sejarah_Iran", "id": 46691}, {"name": "Demografi_Iran", "id": 47879}], "successors": [{"name": "Penulis_Parsi", "id": 63491}]}

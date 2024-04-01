@@ -1,1 +1,1 @@
-{"name": "School_counselors", "id": 53605334, "predecessors": [{"name": "School_counseling", "id": 6706638}, {"name": "Teaching", "id": 2478638}], "successors": []}
+{"name": "School_counselors", "id": 53605334, "predecessors": [{"name": "School_counseling", "id": 6706638}, {"name": "Teaching", "id": 2478638}, {"name": "Childhood", "id": 1517600}], "successors": []}

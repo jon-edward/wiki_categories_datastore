@@ -1,1 +1,1 @@
-{"name": "Escape_rooms", "id": 50012272, "predecessors": [{"name": "Puzzles", "id": 1013641}], "successors": []}
+{"name": "Escape_rooms", "id": 50012272, "predecessors": [{"name": "Puzzles", "id": 1013641}, {"name": "Crime", "id": 1183180}], "successors": []}

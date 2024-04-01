@@ -1,1 +1,1 @@
-{"name": "Stage_lighting", "id": 2905940, "predecessors": [{"name": "Lighting", "id": 927824}, {"name": "Stagecraft", "id": 938285}, {"name": "Theatrical_occupations", "id": 11829358}], "successors": [{"name": "Lighting_designers", "id": 1069562}, {"name": "Stage_lighting_instruments", "id": 34241068}]}
+{"name": "Stage_lighting", "id": 2905940, "predecessors": [{"name": "Lighting", "id": 927824}, {"name": "Stagecraft", "id": 938285}], "successors": [{"name": "Lighting_designers", "id": 1069562}, {"name": "Stage_lighting_instruments", "id": 34241068}]}

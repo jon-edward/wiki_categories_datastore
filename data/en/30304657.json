@@ -1,1 +1,1 @@
-{"name": "Storage_area_networks", "id": 30304657, "predecessors": [{"name": "Computer_data_storage", "id": 711721}, {"name": "Data_management", "id": 762162}, {"name": "Local_area_networks", "id": 5014434}, {"name": "Storage_virtualization", "id": 23400592}], "successors": []}
+{"name": "Storage_area_networks", "id": 30304657, "predecessors": [{"name": "Data_management", "id": 762162}], "successors": []}

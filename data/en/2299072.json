@@ -1,1 +1,1 @@
-{"name": "Agronomists", "id": 2299072, "predecessors": [{"name": "Agronomy", "id": 2298488}], "successors": [{"name": "Phytopathologists", "id": 4951121}, {"name": "Pomologists", "id": 10946601}, {"name": "Textile_scientists", "id": 13499915}, {"name": "Women_agronomists", "id": 41979149}]}
+{"name": "Agronomists", "id": 2299072, "predecessors": [{"name": "Agronomy", "id": 2298488}, {"name": "Agriculture", "id": 694871}], "successors": [{"name": "Phytopathologists", "id": 4951121}, {"name": "Pomologists", "id": 10946601}]}

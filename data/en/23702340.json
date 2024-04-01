@@ -1,1 +1,1 @@
-{"name": "Hasidic_music", "id": 23702340, "predecessors": [{"name": "Jewish_music", "id": 724766}], "successors": [{"name": "Klezmer_musicians", "id": 1310666}, {"name": "Hasidic_singers", "id": 26358795}, {"name": "Orthodox_pop_musicians", "id": 69738652}]}
+{"name": "Hasidic_music", "id": 23702340, "predecessors": [{"name": "Hasidic_Judaism", "id": 2169339}, {"name": "Jewish_music", "id": 724766}], "successors": [{"name": "Klezmer_musicians", "id": 1310666}, {"name": "Hasidic_singers", "id": 26358795}, {"name": "Orthodox_pop_musicians", "id": 69738652}]}

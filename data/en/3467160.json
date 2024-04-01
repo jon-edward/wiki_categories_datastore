@@ -1,1 +1,1 @@
-{"name": "Microfinance", "id": 3467160, "predecessors": [{"name": "Banking", "id": 1245386}, {"name": "Economic_development", "id": 4880168}], "successors": [{"name": "Microfinance_organizations", "id": 14347665}, {"name": "Microfinance_people", "id": 51022110}, {"name": "Microfinance_banks", "id": 57326517}]}
+{"name": "Microfinance", "id": 3467160, "predecessors": [{"name": "Economic_development", "id": 4880168}], "successors": []}

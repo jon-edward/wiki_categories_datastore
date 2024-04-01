@@ -1,1 +1,1 @@
-{"name": "Avalanche_safety", "id": 13434395, "predecessors": [{"name": "Safety", "id": 902977}, {"name": "Natural_disasters", "id": 2643767}], "successors": []}
+{"name": "Avalanche_safety", "id": 13434395, "predecessors": [{"name": "Emergency_management", "id": 5047412}, {"name": "Safety", "id": 902977}, {"name": "Natural_disasters", "id": 2643767}], "successors": []}

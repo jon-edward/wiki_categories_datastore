@@ -1,1 +1,1 @@
-{"name": "English_land_law", "id": 41258166, "predecessors": [{"name": "Land_law", "id": 28066052}], "successors": [{"name": "English_land_case_law", "id": 35739684}]}
+{"name": "English_land_law", "id": 41258166, "predecessors": [{"name": "English_property_law", "id": 13859461}, {"name": "Land_law", "id": 28066052}], "successors": [{"name": "English_land_case_law", "id": 35739684}]}

@@ -1,1 +1,1 @@
-{"name": "Ceasefires", "id": 18366809, "predecessors": [{"name": "Peace", "id": 1243099}], "successors": [{"name": "Participants_of_the_Christmas_truce_of_1914", "id": 69710410}]}
+{"name": "Ceasefires", "id": 18366809, "predecessors": [{"name": "Law_of_war", "id": 780169}, {"name": "Peace", "id": 1243099}, {"name": "Military_diplomacy", "id": 4649694}], "successors": []}

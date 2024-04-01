@@ -1,1 +1,1 @@
-{"name": "Data_Encryption_Standard", "id": 17778616, "predecessors": [{"name": "IBM", "id": 768637}], "successors": []}
+{"name": "Data_Encryption_Standard", "id": 17778616, "predecessors": [{"name": "Broken_block_ciphers", "id": 24096072}, {"name": "Feistel_ciphers", "id": 24150368}, {"name": "IBM", "id": 768637}, {"name": "National_Security_Agency_cryptography", "id": 42838280}, {"name": "Cryptographic_algorithms", "id": 704483}], "successors": []}

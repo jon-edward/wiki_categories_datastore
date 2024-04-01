@@ -1,1 +1,1 @@
-{"name": "Playscale_figures", "id": 5728064, "predecessors": [{"name": "Toy_figurines", "id": 30367490}], "successors": [{"name": "Barbie", "id": 1398299}, {"name": "G.I._Joe", "id": 2314100}, {"name": "Jem_and_the_Holograms", "id": 75612581}]}
+{"name": "Playscale_figures", "id": 5728064, "predecessors": [{"name": "Playscale_miniaturism", "id": 34955765}, {"name": "Toy_figurines", "id": 30367490}], "successors": [{"name": "Barbie", "id": 1398299}, {"name": "G.I._Joe", "id": 2314100}, {"name": "Jem_and_the_Holograms", "id": 75612581}]}

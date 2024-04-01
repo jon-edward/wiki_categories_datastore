@@ -1,0 +1,1 @@
+{"name": "Electrical_systems", "id": 4274881, "predecessors": [{"name": "Building_materials", "id": 3962842}, {"name": "Electricity", "id": 959298}, {"name": "Concepts_in_physics", "id": 36477012}], "successors": [{"name": "Electrical_wiring", "id": 8386771}, {"name": "Electrical_standards", "id": 15444632}, {"name": "Voltage", "id": 49526903}]}

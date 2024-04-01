@@ -1,1 +1,1 @@
-{"name": "Arbitration_courts_and_tribunals", "id": 25196202, "predecessors": [{"name": "Courts_by_type", "id": 23963805}], "successors": []}
+{"name": "Arbitration_courts_and_tribunals", "id": 25196202, "predecessors": [{"name": "Arbitration_organizations", "id": 14337773}, {"name": "Courts_by_type", "id": 23963805}], "successors": [{"name": "International_arbitration_courts_and_tribunals", "id": 25195470}]}

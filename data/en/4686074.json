@@ -1,1 +1,1 @@
-{"name": "Accounting_organizations", "id": 4686074, "predecessors": [{"name": "Taxonomy", "id": 918375}], "successors": []}
+{"name": "Accounting_organizations", "id": 4686074, "predecessors": [{"name": "Taxonomy", "id": 918375}], "successors": [{"name": "Accounting_firms", "id": 41932085}, {"name": "Auditing_organizations", "id": 52676687}]}

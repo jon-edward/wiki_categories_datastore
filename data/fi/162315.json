@@ -1,1 +1,1 @@
-{"name": "Syömishäiriöt", "id": 162315, "predecessors": [{"name": "Psyykkiset_sairaudet", "id": 25309}, {"name": "Ravinto-oppi", "id": 25308}], "successors": []}
+{"name": "Syömishäiriöt", "id": 162315, "predecessors": [{"name": "Masennus", "id": 578251}, {"name": "Psyykkiset_sairaudet", "id": 25309}, {"name": "Ravinto-oppi", "id": 25308}], "successors": []}

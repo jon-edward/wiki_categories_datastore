@@ -1,0 +1,1 @@
+{"name": "Gas_turbines", "id": 2077993, "predecessors": [{"name": "Engines", "id": 743017}, {"name": "Gas_technologies", "id": 19500591}], "successors": [{"name": "Jet_engines", "id": 723337}, {"name": "Propfan_engines", "id": 3812617}, {"name": "Axial-compressor_gas_turbine_engines", "id": 50624353}]}

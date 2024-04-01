@@ -1,1 +1,1 @@
-{"name": "Iron_ore_mining_companies", "id": 7954348, "predecessors": [{"name": "Mining_companies", "id": 1327917}], "successors": [{"name": "Rio_Tinto_(corporation)", "id": 29498069}, {"name": "Vale_S.A.", "id": 60523643}, {"name": "Rio_Tinto_Iron_Ore", "id": 29498096}, {"name": "BHP", "id": 29532615}, {"name": "Fortescue_Metals_Group", "id": 29532683}]}
+{"name": "Iron_ore_mining_companies", "id": 7954348, "predecessors": [{"name": "Mining_companies", "id": 1327917}], "successors": [{"name": "Vale_S.A.", "id": 60523643}]}

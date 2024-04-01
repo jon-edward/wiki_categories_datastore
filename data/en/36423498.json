@@ -1,1 +1,1 @@
-{"name": "Pacific_Gas_and_Electric_Company", "id": 36423498, "predecessors": [{"name": "Energy_in_California", "id": 36360450}], "successors": [{"name": "Pacific_Gas_and_Electric_Company_dams", "id": 36423529}]}
+{"name": "Pacific_Gas_and_Electric_Company", "id": 36423498, "predecessors": [{"name": "Energy_in_California", "id": 36360450}, {"name": "Natural_gas_companies_of_the_United_States", "id": 9574385}, {"name": "Nuclear_power_companies_of_the_United_States", "id": 26723026}], "successors": [{"name": "Pacific_Gas_and_Electric_Company_dams", "id": 36423529}]}

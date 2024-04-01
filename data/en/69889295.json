@@ -1,1 +1,1 @@
-{"name": "Energy_infrastructure_completed_in_2022", "id": 69889295, "predecessors": [{"name": "Buildings_and_structures_completed_in_2022", "id": 62327060}], "successors": []}
+{"name": "Energy_infrastructure_completed_in_2022", "id": 69889295, "predecessors": [{"name": "Buildings_and_structures_by_type", "id": 6884364}, {"name": "Buildings_and_structures_completed_in_2022", "id": 62327060}], "successors": []}

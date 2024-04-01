@@ -1,1 +1,1 @@
-{"name": "Metallurgical_facilities", "id": 22457954, "predecessors": [{"name": "Metallurgy", "id": 977017}], "successors": [{"name": "Iron_and_steel_mills", "id": 8775493}, {"name": "Foundries", "id": 31601033}, {"name": "Stamp_mills", "id": 53923047}]}
+{"name": "Metallurgical_facilities", "id": 22457954, "predecessors": [{"name": "Industrial_buildings_and_structures", "id": 11269637}, {"name": "Metallurgy", "id": 977017}], "successors": [{"name": "Iron_and_steel_mills", "id": 8775493}, {"name": "Foundries", "id": 31601033}, {"name": "Stamp_mills", "id": 53923047}]}

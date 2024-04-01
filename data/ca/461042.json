@@ -1,1 +1,1 @@
-{"name": "Nucleòtids", "id": 461042, "predecessors": [{"name": "Biomolècules", "id": 284236}], "successors": [{"name": "ARN", "id": 461036}, {"name": "ADN", "id": 501260}]}
+{"name": "Nucleòtids", "id": 461042, "predecessors": [{"name": "Biomolècules", "id": 284236}, {"name": "Fàrmacs_del_sistema_nerviós", "id": 652515}], "successors": [{"name": "ARN", "id": 461036}, {"name": "ADN", "id": 501260}]}

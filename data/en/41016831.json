@@ -1,1 +1,1 @@
-{"name": "Targeted_killing", "id": 41016831, "predecessors": [{"name": "Murder", "id": 1167833}], "successors": [{"name": "Military_assassinations", "id": 36588516}, {"name": "Targeted_killings_in_Pakistan", "id": 46673911}, {"name": "Targeted_killing_by_Israel", "id": 73777965}]}
+{"name": "Targeted_killing", "id": 41016831, "predecessors": [{"name": "Extrajudicial_killings", "id": 4994735}], "successors": [{"name": "Military_assassinations", "id": 36588516}, {"name": "Targeted_killings_in_Pakistan", "id": 46673911}, {"name": "Targeted_killing_by_Israel", "id": 73777965}]}

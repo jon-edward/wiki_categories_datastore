@@ -1,1 +1,1 @@
-{"name": "Prison_islands", "id": 57914948, "predecessors": [{"name": "Islands", "id": 698414}, {"name": "Buildings_and_structures_by_type", "id": 6884364}], "successors": [{"name": "Alcatraz_Island", "id": 21117459}, {"name": "Robinson_Crusoe_Island", "id": 53834582}]}
+{"name": "Prison_islands", "id": 57914948, "predecessors": [{"name": "Buildings_and_structures_by_type", "id": 6884364}], "successors": [{"name": "Alcatraz_Island", "id": 21117459}, {"name": "Robinson_Crusoe_Island", "id": 53834582}]}

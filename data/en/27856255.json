@@ -1,1 +1,1 @@
-{"name": "Financial_risk", "id": 27856255, "predecessors": [{"name": "Risk", "id": 1257366}], "successors": [{"name": "Financial_risk_modeling", "id": 52568369}]}
+{"name": "Financial_risk", "id": 27856255, "predecessors": [{"name": "Risk", "id": 1257366}], "successors": [{"name": "Insurance", "id": 873395}, {"name": "Systemic_risk", "id": 31028159}, {"name": "Credit_risk", "id": 52546814}, {"name": "Market_risk", "id": 52546884}, {"name": "Financial_risk_modeling", "id": 52568369}, {"name": "Financial_risk_management", "id": 52569571}]}

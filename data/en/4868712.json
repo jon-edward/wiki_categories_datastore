@@ -1,1 +1,1 @@
-{"name": "Art_forgers", "id": 4868712, "predecessors": [{"name": "Art_forgery", "id": 728952}, {"name": "Forgers", "id": 5396745}, {"name": "Art", "id": 5344528}], "successors": []}
+{"name": "Art_forgers", "id": 4868712, "predecessors": [{"name": "Art_forgery", "id": 728952}, {"name": "Forgers", "id": 5396745}, {"name": "Crime_by_type", "id": 15090762}, {"name": "Art", "id": 5344528}], "successors": []}

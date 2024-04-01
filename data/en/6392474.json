@@ -1,1 +1,0 @@
-{"name": "MP3", "id": 6392474, "predecessors": [{"name": "Audio_codecs", "id": 734245}, {"name": "Lossy_compression_algorithms", "id": 1063519}, {"name": "MPEG", "id": 3943280}], "successors": [{"name": "Digital_audio_players", "id": 2637572}]}

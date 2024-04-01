@@ -1,1 +1,1 @@
-{"name": "Large_Hadron_Collider", "id": 10130592, "predecessors": [{"name": "Particle_physics_facilities", "id": 2758349}, {"name": "Underground_laboratories", "id": 13361527}, {"name": "Ain", "id": 2800069}], "successors": []}
+{"name": "Large_Hadron_Collider", "id": 10130592, "predecessors": [{"name": "CERN_accelerators", "id": 45688237}, {"name": "Particle_physics_facilities", "id": 2758349}, {"name": "Underground_laboratories", "id": 13361527}, {"name": "Ain", "id": 2800069}], "successors": []}

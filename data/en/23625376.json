@@ -1,1 +1,1 @@
-{"name": "Uranium_mining_in_Australia", "id": 23625376, "predecessors": [{"name": "Mining", "id": 843521}, {"name": "Geology_of_Australia", "id": 4088582}], "successors": []}
+{"name": "Uranium_mining_in_Australia", "id": 23625376, "predecessors": [{"name": "Nuclear_energy", "id": 22990933}, {"name": "Uranium_mining", "id": 9220462}, {"name": "Geology_of_Australia", "id": 4088582}], "successors": []}

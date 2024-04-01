@@ -1,1 +1,1 @@
-{"name": "Image_stabilization", "id": 51924055, "predecessors": [{"name": "Photography_equipment", "id": 8066037}], "successors": []}
+{"name": "Image_stabilization", "id": 51924055, "predecessors": [{"name": "Imaging", "id": 2102726}, {"name": "Photography_equipment", "id": 8066037}], "successors": []}

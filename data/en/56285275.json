@@ -1,1 +1,1 @@
-{"name": "Rugby_World_Cup_referees", "id": 56285275, "predecessors": [{"name": "Football_codes", "id": 27631491}], "successors": []}
+{"name": "Rugby_World_Cup_referees", "id": 56285275, "predecessors": [{"name": "World_Rugby_competitions", "id": 45296237}, {"name": "Rugby_football", "id": 15878505}], "successors": []}

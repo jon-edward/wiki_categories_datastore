@@ -1,1 +1,1 @@
-{"name": "Naval_special_forces_units_and_formations", "id": 44271368, "predecessors": [{"name": "Naval_units_and_formations", "id": 42408491}], "successors": [{"name": "United_States_Naval_Special_Warfare_Command", "id": 3848394}]}
+{"name": "Naval_special_forces_units_and_formations", "id": 44271368, "predecessors": [{"name": "Special_forces_units_and_formations", "id": 8866611}, {"name": "Naval_units_and_formations", "id": 42408491}, {"name": "Special_forces", "id": 740538}], "successors": [{"name": "United_States_Naval_Special_Warfare_Command", "id": 3848394}]}

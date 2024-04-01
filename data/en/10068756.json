@@ -1,1 +1,1 @@
-{"name": "Scottish_Protestants", "id": 10068756, "predecessors": [{"name": "Scottish_Christians", "id": 6778873}], "successors": [{"name": "Scottish_Episcopalians", "id": 6395321}]}
+{"name": "Scottish_Protestants", "id": 10068756, "predecessors": [{"name": "British_Protestants", "id": 10068659}, {"name": "Scottish_Christians", "id": 6778873}, {"name": "Protestantism", "id": 744844}], "successors": [{"name": "Scottish_Protestant_missionaries", "id": 52439335}, {"name": "Protestant_martyrs_of_Scotland", "id": 61114097}]}

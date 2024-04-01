@@ -1,1 +1,1 @@
-{"name": "Shipping_companies_of_Greece", "id": 3281964, "predecessors": [{"name": "Shipping_companies", "id": 881735}, {"name": "Merchant_navy", "id": 1884325}], "successors": [{"name": "Ferry_companies_of_Greece", "id": 19125526}]}
+{"name": "Shipping_companies_of_Greece", "id": 3281964, "predecessors": [{"name": "Merchant_navy", "id": 1884325}, {"name": "Taxonomy", "id": 918375}, {"name": "Maritime_transport", "id": 56494593}], "successors": []}

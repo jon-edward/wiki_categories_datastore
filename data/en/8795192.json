@@ -1,1 +1,1 @@
-{"name": "Library_science_journals", "id": 8795192, "predecessors": [{"name": "Academic_publishing", "id": 2239162}, {"name": "Library_science", "id": 30813411}], "successors": [{"name": "Information_science_journals", "id": 56183498}]}
+{"name": "Library_science_journals", "id": 8795192, "predecessors": [{"name": "Library_science", "id": 30813411}, {"name": "Mass_media", "id": 696790}], "successors": [{"name": "Information_science_journals", "id": 56183498}]}

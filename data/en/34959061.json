@@ -1,0 +1,1 @@
+{"name": "Logical_link_control", "id": 34959061, "predecessors": [{"name": "IEEE_802", "id": 2067440}, {"name": "Internet_protocols", "id": 1034331}, {"name": "Link_protocols", "id": 2186313}], "successors": [{"name": "Error_detection_and_correction", "id": 1061200}, {"name": "Modems", "id": 4380426}, {"name": "Flow_control_(data)", "id": 40416830}]}

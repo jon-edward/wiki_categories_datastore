@@ -1,1 +1,1 @@
-{"name": "Universal_health_care", "id": 24140264, "predecessors": [{"name": "Health_care", "id": 35880954}, {"name": "Health_policy", "id": 21421283}, {"name": "Social_programs", "id": 2062625}], "successors": []}
+{"name": "Universal_health_care", "id": 24140264, "predecessors": [{"name": "Health_care", "id": 35880954}, {"name": "Health_insurance", "id": 23120838}, {"name": "Health_policy", "id": 21421283}], "successors": [{"name": "National_Health_Service", "id": 1373488}]}

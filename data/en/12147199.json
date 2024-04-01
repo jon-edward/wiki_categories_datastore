@@ -1,1 +1,1 @@
-{"name": "Dixieland_albums", "id": 12147199, "predecessors": [{"name": "Jazz_genres", "id": 1762087}], "successors": [{"name": "Louis_Armstrong_albums", "id": 6277093}, {"name": "Roswell_Rudd_albums", "id": 30070601}]}
+{"name": "Dixieland_albums", "id": 12147199, "predecessors": [{"name": "American_jazz", "id": 32157196}], "successors": [{"name": "Louis_Armstrong_albums", "id": 6277093}, {"name": "Roswell_Rudd_albums", "id": 30070601}]}

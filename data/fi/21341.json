@@ -1,1 +1,1 @@
-{"name": "Avaruusasemat", "id": 21341, "predecessors": [{"name": "Avaruusalukset", "id": 463412}], "successors": [{"name": "Kansainvälinen_avaruusasema", "id": 401415}]}
+{"name": "Avaruusasemat", "id": 21341, "predecessors": [{"name": "Avaruuden_asuttaminen", "id": 941379}, {"name": "Avaruusalukset", "id": 463412}], "successors": [{"name": "Kansainvälinen_avaruusasema", "id": 401415}]}

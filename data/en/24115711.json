@@ -1,1 +1,1 @@
-{"name": "Tannins", "id": 24115711, "predecessors": [{"name": "Natural_phenols", "id": 30819804}], "successors": [{"name": "Condensed_tannins", "id": 31643598}]}
+{"name": "Tannins", "id": 24115711, "predecessors": [{"name": "Organic_polymers", "id": 987522}, {"name": "Natural_phenols", "id": 30819804}], "successors": [{"name": "Condensed_tannins", "id": 31643598}, {"name": "Phlorotannins", "id": 31644193}]}

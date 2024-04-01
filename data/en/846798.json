@@ -1,0 +1,1 @@
+{"name": "Emergency_medicine", "id": 846798, "predecessors": [{"name": "Medical_emergencies", "id": 741752}], "successors": [{"name": "Emergency_medical_services", "id": 16842991}, {"name": "Emergency_medicine_organisations", "id": 45462310}, {"name": "Airway_management", "id": 50013617}, {"name": "Wilderness_medical_emergencies", "id": 32510781}]}

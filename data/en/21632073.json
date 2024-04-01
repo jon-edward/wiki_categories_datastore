@@ -1,1 +1,1 @@
-{"name": "Hazardous_materials", "id": 21632073, "predecessors": [{"name": "Chemical_safety", "id": 4062420}, {"name": "Materials", "id": 722279}, {"name": "Technology_hazards", "id": 55050397}], "successors": [{"name": "Lists_of_UN_numbers", "id": 40688717}]}
+{"name": "Hazardous_materials", "id": 21632073, "predecessors": [{"name": "Chemical_safety", "id": 4062420}, {"name": "Materials", "id": 722279}, {"name": "Technology_hazards", "id": 55050397}], "successors": [{"name": "Lists_of_UN_numbers", "id": 40688717}, {"name": "Pyrophoric_materials", "id": 75311681}]}

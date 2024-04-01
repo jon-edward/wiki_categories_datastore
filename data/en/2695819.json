@@ -1,1 +1,1 @@
-{"name": "Local_museums", "id": 2695819, "predecessors": [{"name": "Community_building", "id": 3704881}, {"name": "History_museums", "id": 1503198}], "successors": []}
+{"name": "Local_museums", "id": 2695819, "predecessors": [{"name": "Community_building", "id": 3704881}, {"name": "History_museums", "id": 1503198}], "successors": [{"name": "City_museums", "id": 3333663}, {"name": "Local_museums_in_Russia", "id": 25035342}, {"name": "Local_museums_in_the_Republic_of_Ireland", "id": 28246620}]}

@@ -1,1 +1,1 @@
-{"name": "Military_engineering_vehicles", "id": 788745, "predecessors": [{"name": "Engineering_vehicles", "id": 727285}, {"name": "Military_engineering", "id": 6759454}], "successors": []}
+{"name": "Military_engineering_vehicles", "id": 788745, "predecessors": [{"name": "Engineering_vehicles", "id": 727285}, {"name": "Military_engineering", "id": 6759454}], "successors": [{"name": "Armoured_vehicle-launched_bridges", "id": 19136446}]}

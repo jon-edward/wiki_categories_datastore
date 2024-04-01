@@ -1,1 +1,1 @@
-{"name": "Uranium(VI)_minerals", "id": 60818851, "predecessors": [{"name": "Uranium_minerals", "id": 3886867}], "successors": []}
+{"name": "Uranium(VI)_minerals", "id": 60818851, "predecessors": [{"name": "Uranium_minerals", "id": 3886867}, {"name": "Uranium_compounds", "id": 1949958}], "successors": []}

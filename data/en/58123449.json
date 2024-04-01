@@ -1,1 +1,1 @@
-{"name": "2.5D_musicals", "id": 58123449, "predecessors": [{"name": "Otaku", "id": 796454}], "successors": [{"name": "Musicals_based_on_anime_and_manga", "id": 15223503}]}
+{"name": "2.5D_musicals", "id": 58123449, "predecessors": [{"name": "Japanese_musicals", "id": 55092530}, {"name": "Otaku", "id": 796454}], "successors": [{"name": "Musicals_based_on_anime_and_manga", "id": 15223503}]}

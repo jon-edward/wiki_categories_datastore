@@ -1,1 +1,1 @@
-{"name": "Steroidihormonit", "id": 524577, "predecessors": [{"name": "Hormonit", "id": 61936}], "successors": []}
+{"name": "Steroidihormonit", "id": 524577, "predecessors": [{"name": "Hormonit", "id": 61936}], "successors": [{"name": "Kortikosteroidit", "id": 1047137}]}

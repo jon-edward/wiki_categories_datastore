@@ -1,1 +1,1 @@
-{"name": "Solid-state_chemistry", "id": 3948098, "predecessors": [{"name": "Condensed_matter_physics", "id": 692176}, {"name": "Chemistry", "id": 691185}], "successors": []}
+{"name": "Solid-state_chemistry", "id": 3948098, "predecessors": [{"name": "Condensed_matter_physics", "id": 692176}, {"name": "Chemistry", "id": 691185}], "successors": [{"name": "Salts", "id": 695960}, {"name": "Semiconductor_materials", "id": 3088470}, {"name": "Non-stoichiometric_compounds", "id": 18745518}, {"name": "Solid_state_chemists", "id": 71566910}]}

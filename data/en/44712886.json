@@ -1,1 +1,1 @@
-{"name": "Arson_in_California", "id": 44712886, "predecessors": [{"name": "Crime_in_California", "id": 14533463}], "successors": [{"name": "1992_Los_Angeles_riots", "id": 31564913}, {"name": "California_wildfires_caused_by_arson", "id": 66120141}]}
+{"name": "Arson_in_California", "id": 44712886, "predecessors": [{"name": "Fires_in_California", "id": 11404652}, {"name": "Crime_in_California", "id": 14533463}], "successors": [{"name": "1992_Los_Angeles_riots", "id": 31564913}, {"name": "California_wildfires_caused_by_arson", "id": 66120141}]}

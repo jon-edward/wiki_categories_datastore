@@ -1,1 +1,1 @@
-{"name": "Alkali_metals", "id": 1572687, "predecessors": [{"name": "Groups_(periodic_table)", "id": 41959197}], "successors": [{"name": "Lithium", "id": 4541378}, {"name": "Sodium", "id": 4563558}, {"name": "Potassium", "id": 6473183}]}
+{"name": "Alkali_metals", "id": 1572687, "predecessors": [{"name": "Groups_(periodic_table)", "id": 41959197}, {"name": "Metals", "id": 744693}], "successors": [{"name": "Lithium", "id": 4541378}, {"name": "Sodium", "id": 4563558}, {"name": "Potassium", "id": 6473183}]}

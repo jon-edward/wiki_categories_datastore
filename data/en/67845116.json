@@ -1,1 +1,1 @@
-{"name": "Reich_Labour_Service_members", "id": 67845116, "predecessors": [{"name": "Non-combatant_military_personnel", "id": 8736185}, {"name": "Military_logistics", "id": 2734200}], "successors": []}
+{"name": "Reich_Labour_Service_members", "id": 67845116, "predecessors": [{"name": "Non-combatant_military_personnel", "id": 8736185}, {"name": "Military_logistics", "id": 2734200}, {"name": "Military_personnel", "id": 6660319}], "successors": []}

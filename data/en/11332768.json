@@ -1,1 +1,1 @@
-{"name": "Storage_companies", "id": 11332768, "predecessors": [{"name": "Logistics_companies", "id": 7440032}, {"name": "Real_estate_industry", "id": 55340774}], "successors": [{"name": "Computer_storage_companies", "id": 7582549}]}
+{"name": "Storage_companies", "id": 11332768, "predecessors": [{"name": "Logistics_companies", "id": 7440032}], "successors": [{"name": "Computer_storage_companies", "id": 7582549}]}

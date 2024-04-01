@@ -1,1 +1,1 @@
-{"name": "Friction", "id": 33725189, "predecessors": [{"name": "Force", "id": 1770374}, {"name": "Physical_phenomena", "id": 3450392}], "successors": [{"name": "Tribology", "id": 27187160}, {"name": "Bowed_instruments", "id": 2754791}]}
+{"name": "Friction", "id": 33725189, "predecessors": [{"name": "Force", "id": 1770374}, {"name": "Surface_science", "id": 2237966}, {"name": "Physical_phenomena", "id": 3450392}], "successors": [{"name": "Tribology", "id": 27187160}, {"name": "Bowed_instruments", "id": 2754791}]}

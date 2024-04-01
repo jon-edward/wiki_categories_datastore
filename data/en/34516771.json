@@ -1,1 +1,1 @@
-{"name": "Carburettors", "id": 34516771, "predecessors": [{"name": "Aircraft_fuel_system_components", "id": 32737378}], "successors": [{"name": "Carburetor_manufacturers", "id": 64661364}]}
+{"name": "Carburettors", "id": 34516771, "predecessors": [{"name": "Aircraft_fuel_system_components", "id": 32737378}, {"name": "Engine_components", "id": 21627526}, {"name": "Engine_fuel_system_technology", "id": 2307483}], "successors": [{"name": "Carburetor_manufacturers", "id": 64661364}]}

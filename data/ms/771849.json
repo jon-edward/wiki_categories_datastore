@@ -1,1 +1,1 @@
-{"name": "Universiti_di_Singapura", "id": 771849, "predecessors": [{"name": "Pendidikan_tinggi", "id": 165027}, {"name": "Singapura", "id": 8576}], "successors": [{"name": "Universiti_Malaya", "id": 75328}]}
+{"name": "Universiti_di_Singapura", "id": 771849, "predecessors": [{"name": "Pendidikan_tinggi", "id": 165027}, {"name": "Pendidikan_di_Singapura", "id": 771851}], "successors": [{"name": "Universiti_Malaya", "id": 75328}]}

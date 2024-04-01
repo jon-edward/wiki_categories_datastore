@@ -1,1 +1,1 @@
-{"name": "Market_trends", "id": 5017833, "predecessors": [{"name": "Economic_forecasting", "id": 6533466}, {"name": "Financial_markets", "id": 1654788}], "successors": [{"name": "Technical_analysis", "id": 1614858}, {"name": "Fundamental_analysis", "id": 1654824}, {"name": "Economic_booms", "id": 7785901}]}
+{"name": "Market_trends", "id": 5017833, "predecessors": [{"name": "Economic_forecasting", "id": 6533466}, {"name": "Financial_markets", "id": 1654788}], "successors": [{"name": "Technical_analysis", "id": 1614858}, {"name": "Fundamental_analysis", "id": 1654824}]}

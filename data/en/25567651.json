@@ -1,1 +1,1 @@
-{"name": "Volcanic_craters", "id": 25567651, "predecessors": [{"name": "Depressions_(geology)", "id": 28061687}, {"name": "Volcanic_landforms", "id": 11062721}], "successors": []}
+{"name": "Volcanic_craters", "id": 25567651, "predecessors": [{"name": "Depressions_(geology)", "id": 28061687}, {"name": "Volcanoes", "id": 693788}], "successors": [{"name": "Volcanic_crater_lakes", "id": 10300901}, {"name": "Maars", "id": 21877806}, {"name": "VEI-7_volcanoes", "id": 4468743}, {"name": "VEI-8_volcanoes", "id": 4567180}, {"name": "Submarine_calderas", "id": 22968338}]}

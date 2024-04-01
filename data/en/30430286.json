@@ -1,1 +1,1 @@
-{"name": "Military_courts", "id": 30430286, "predecessors": [{"name": "Courts_by_type", "id": 23963805}], "successors": [{"name": "International_Military_Tribunal_for_the_Far_East", "id": 17982169}]}
+{"name": "Military_courts", "id": 30430286, "predecessors": [{"name": "Courts_by_type", "id": 23963805}, {"name": "Military_justice", "id": 5840537}], "successors": [{"name": "International_Military_Tribunal_for_the_Far_East", "id": 17982169}, {"name": "Judges_of_the_United_States_Court_of_Appeals_for_the_Armed_Forces", "id": 7409492}]}

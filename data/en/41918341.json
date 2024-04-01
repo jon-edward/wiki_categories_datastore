@@ -1,1 +1,1 @@
-{"name": "Charitable_hospitals", "id": 41918341, "predecessors": [{"name": "Health_charities", "id": 1490887}, {"name": "Types_of_hospitals", "id": 71789932}], "successors": []}
+{"name": "Charitable_hospitals", "id": 41918341, "predecessors": [{"name": "Health_charities", "id": 1490887}, {"name": "Types_of_hospitals", "id": 71789932}], "successors": [{"name": "Tung_Wah_Group_of_Hospitals", "id": 3405481}, {"name": "Voluntary_hospitals", "id": 54228318}]}

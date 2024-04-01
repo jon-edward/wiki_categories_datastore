@@ -1,1 +1,1 @@
-{"name": "Russian_Air_Force_generals", "id": 25378225, "predecessors": [{"name": "Russian_Air_Force_officers", "id": 25378189}, {"name": "Russian_generals", "id": 2662304}], "successors": []}
+{"name": "Russian_Air_Force_generals", "id": 25378225, "predecessors": [{"name": "Air_force_generals", "id": 9776663}, {"name": "Russian_Air_Force_officers", "id": 25378189}, {"name": "Russian_generals", "id": 2662304}], "successors": []}

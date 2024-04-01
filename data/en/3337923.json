@@ -1,1 +1,1 @@
-{"name": "Transport_in_Barcelona", "id": 3337923, "predecessors": [{"name": "Barcelona", "id": 719201}, {"name": "Catalonia", "id": 705468}], "successors": [{"name": "Rail_transport_in_Barcelona", "id": 71547829}, {"name": "Transport_in_Sants-Montjuïc", "id": 17449229}]}
+{"name": "Transport_in_Barcelona", "id": 3337923, "predecessors": [{"name": "Barcelona", "id": 719201}, {"name": "Catalonia", "id": 705468}, {"name": "Geography_of_Catalonia", "id": 2849943}], "successors": [{"name": "Rail_transport_in_Barcelona", "id": 71547829}]}

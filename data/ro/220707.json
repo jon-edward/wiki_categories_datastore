@@ -1,1 +1,1 @@
-{"name": "Drept_procesual", "id": 220707, "predecessors": [{"name": "Drept", "id": 19804}], "successors": [{"name": "Drept_procesual_penal", "id": 101744}, {"name": "Sancțiuni_internaționale", "id": 1321736}, {"name": "Cazuri_judiciare_în_România", "id": 1228808}]}
+{"name": "Drept_procesual", "id": 220707, "predecessors": [{"name": "Drept", "id": 19804}], "successors": [{"name": "Sancțiuni_internaționale", "id": 1321736}]}

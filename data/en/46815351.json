@@ -1,1 +1,1 @@
-{"name": "French_fries", "id": 46815351, "predecessors": [{"name": "Deep_fried_foods", "id": 27780712}, {"name": "Potato_dishes", "id": 873315}, {"name": "Street_food", "id": 24757085}, {"name": "World_cuisine", "id": 2431640}, {"name": "Fried_foods", "id": 50279441}], "successors": []}
+{"name": "French_fries", "id": 46815351, "predecessors": [{"name": "Deep_fried_foods", "id": 27780712}, {"name": "Street_food", "id": 24757085}, {"name": "World_cuisine", "id": 2431640}, {"name": "Fried_foods", "id": 50279441}], "successors": []}

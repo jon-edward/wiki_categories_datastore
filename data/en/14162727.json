@@ -1,1 +1,1 @@
-{"name": "Tennessee_gubernatorial_elections", "id": 14162727, "predecessors": [{"name": "Elections", "id": 792537}], "successors": []}
+{"name": "Tennessee_gubernatorial_elections", "id": 14162727, "predecessors": [{"name": "Governor_of_Tennessee", "id": 69208168}, {"name": "Elections", "id": 792537}, {"name": "Government_of_Tennessee", "id": 1223860}], "successors": []}

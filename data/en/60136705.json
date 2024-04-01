@@ -1,1 +1,1 @@
-{"name": "Nobility_in_the_Nazi_Party", "id": 60136705, "predecessors": [{"name": "Nobility", "id": 1068479}], "successors": [{"name": "Royalty_in_the_Nazi_Party", "id": 43168489}]}
+{"name": "Nobility_in_the_Nazi_Party", "id": 60136705, "predecessors": [{"name": "Nazi_Party_members", "id": 44775880}, {"name": "Nobility", "id": 1068479}], "successors": [{"name": "Royalty_in_the_Nazi_Party", "id": 43168489}]}

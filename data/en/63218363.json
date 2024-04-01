@@ -1,1 +1,1 @@
-{"name": "Human_commodity_auctions", "id": 63218363, "predecessors": [{"name": "Contexts_for_auctions", "id": 62951595}, {"name": "Commodities", "id": 27371902}], "successors": [{"name": "Slave_trade_in_the_United_States", "id": 68990100}]}
+{"name": "Human_commodity_auctions", "id": 63218363, "predecessors": [{"name": "Contexts_for_auctions", "id": 62951595}], "successors": [{"name": "Slave_trade_in_the_United_States", "id": 68990100}]}

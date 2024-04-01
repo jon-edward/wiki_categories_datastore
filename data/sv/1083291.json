@@ -1,1 +1,0 @@
-{"name": "E-handel", "id": 1083291, "predecessors": [{"name": "Handel", "id": 117575}, {"name": "Internet", "id": 57109}, {"name": "Konsumtion", "id": 4902523}, {"name": "Massmedia", "id": 4503326}], "successors": [{"name": "E-handelsföretag", "id": 1083294}, {"name": "Betalningssystem", "id": 1478253}, {"name": "Digitala_valutor", "id": 8132588}]}

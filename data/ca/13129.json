@@ -1,1 +1,1 @@
-{"name": "Aminoàcids", "id": 13129, "predecessors": [{"name": "Proteòmica", "id": 542383}, {"name": "Àcids_carboxílics", "id": 314465}], "successors": []}
+{"name": "Aminoàcids", "id": 13129, "predecessors": [{"name": "Proteòmica", "id": 542383}, {"name": "Àcids_carboxílics", "id": 314465}], "successors": [{"name": "Aminoàcids_alfa", "id": 2083798}]}

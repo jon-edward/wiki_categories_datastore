@@ -1,1 +1,1 @@
-{"name": "Raw_foods", "id": 27462000, "predecessors": [{"name": "Raw_foodism", "id": 27461835}, {"name": "Cooking_techniques", "id": 757512}], "successors": [{"name": "Uncooked_fish_dishes", "id": 24079847}, {"name": "Raw_beef_dishes", "id": 25202059}]}
+{"name": "Raw_foods", "id": 27462000, "predecessors": [{"name": "Raw_foodism", "id": 27461835}, {"name": "Cooking_techniques", "id": 757512}], "successors": [{"name": "Uncooked_fish_dishes", "id": 24079847}, {"name": "Fermented_sausages", "id": 62811208}]}

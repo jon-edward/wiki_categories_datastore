@@ -1,1 +1,1 @@
-{"name": "Malarialääkkeet", "id": 1615404, "predecessors": [{"name": "Alkueläinlääkkeet", "id": 619512}], "successors": []}
+{"name": "Malarialääkkeet", "id": 1615404, "predecessors": [{"name": "Alkueläinlääkkeet", "id": 619512}, {"name": "Loistautien_lääkkeet", "id": 1180404}, {"name": "Loistaudit", "id": 215973}], "successors": []}

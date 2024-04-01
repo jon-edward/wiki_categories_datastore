@@ -1,1 +1,1 @@
-{"name": "Telstar_satellites", "id": 56726668, "predecessors": [{"name": "Satellite_television", "id": 1378610}, {"name": "Communications_satellite_operators", "id": 22178661}], "successors": []}
+{"name": "Telstar_satellites", "id": 56726668, "predecessors": [{"name": "Satellite_television", "id": 1378610}, {"name": "Communications_satellite_operators", "id": 22178661}, {"name": "Communications_satellites", "id": 885916}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Land_Rover", "id": 884084, "predecessors": [{"name": "British_royal_warrant_holders", "id": 30188737}, {"name": "Military_vehicle_manufacturers", "id": 2260995}], "successors": []}
+{"name": "Land_Rover", "id": 884084, "predecessors": [{"name": "British_royal_warrant_holders", "id": 30188737}, {"name": "Diesel_engine_manufacturers", "id": 28636939}, {"name": "Emergency_services_equipment_makers", "id": 4135270}, {"name": "Military_vehicle_manufacturers", "id": 2260995}], "successors": [{"name": "Land_Rover_vehicles", "id": 884085}]}

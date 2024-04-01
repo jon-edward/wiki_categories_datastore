@@ -1,1 +1,1 @@
-{"name": "Syndromes_with_tumors", "id": 53612032, "predecessors": [{"name": "Cancer", "id": 999635}], "successors": []}
+{"name": "Syndromes_with_tumors", "id": 53612032, "predecessors": [{"name": "Cancer", "id": 999635}, {"name": "Syndromes", "id": 4678438}], "successors": []}

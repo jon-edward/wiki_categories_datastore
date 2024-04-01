@@ -1,1 +1,1 @@
-{"name": "Agricultural_shows", "id": 5166528, "predecessors": [{"name": "Trade_fairs", "id": 35181669}], "successors": [{"name": "Agricultural_shows_in_the_United_States", "id": 9649301}, {"name": "Agricultural_fairs_in_Canada", "id": 35835314}]}
+{"name": "Agricultural_shows", "id": 5166528, "predecessors": [{"name": "Agriculture_in_society", "id": 17000943}, {"name": "Trade_fairs", "id": 35181669}], "successors": []}

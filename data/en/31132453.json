@@ -1,1 +1,1 @@
-{"name": "Olympic_judo_venues", "id": 31132453, "predecessors": [{"name": "Judo_at_the_Summer_Olympics", "id": 33840219}, {"name": "Judo_venues", "id": 31132472}], "successors": []}
+{"name": "Olympic_judo_venues", "id": 31132453, "predecessors": [{"name": "Judo_at_the_Summer_Olympics", "id": 33840219}, {"name": "Event_management", "id": 38591267}, {"name": "Judo_venues", "id": 31132472}], "successors": []}

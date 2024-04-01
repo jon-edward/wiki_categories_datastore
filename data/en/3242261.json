@@ -1,1 +1,1 @@
-{"name": "Film_scores", "id": 3242261, "predecessors": [{"name": "Film_music", "id": 13083724}, {"name": "Film_soundtracks", "id": 3012997}], "successors": [{"name": "Filmi", "id": 727081}, {"name": "Film_awards_for_best_score", "id": 44652219}]}
+{"name": "Film_scores", "id": 3242261, "predecessors": [{"name": "Film_music", "id": 13083724}, {"name": "Film_soundtracks", "id": 3012997}], "successors": [{"name": "Filmi", "id": 727081}]}

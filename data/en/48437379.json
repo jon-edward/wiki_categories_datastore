@@ -1,1 +1,1 @@
-{"name": "Floating_point", "id": 48437379, "predecessors": [{"name": "Primitive_types", "id": 22687270}, {"name": "Rational_numbers", "id": 1921992}], "successors": [{"name": "Floating_point_types", "id": 47084882}]}
+{"name": "Floating_point", "id": 48437379, "predecessors": [{"name": "Primitive_types", "id": 22687270}, {"name": "Rational_numbers", "id": 1921992}], "successors": []}

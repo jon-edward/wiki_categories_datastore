@@ -1,1 +1,1 @@
-{"name": "Fermented_dairy_products", "id": 48518508, "predecessors": [{"name": "Dairy_products", "id": 776875}, {"name": "Animal_products", "id": 2304680}], "successors": [{"name": "Yogurts", "id": 19979677}]}
+{"name": "Fermented_dairy_products", "id": 48518508, "predecessors": [{"name": "Dairy_products", "id": 776875}, {"name": "Animal_products", "id": 2304680}, {"name": "Biologically_based_therapies", "id": 5717653}], "successors": [{"name": "Yogurts", "id": 19979677}]}

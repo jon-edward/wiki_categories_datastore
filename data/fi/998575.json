@@ -1,1 +1,1 @@
-{"name": "Uskonto_Turussa", "id": 998575, "predecessors": [{"name": "Turun_kulttuuri", "id": 973055}, {"name": "Uskonto_Suomessa", "id": 559391}], "successors": [{"name": "Turun_kirkkorakennukset", "id": 99749}, {"name": "Turun_seurakunnat", "id": 1144087}]}
+{"name": "Uskonto_Turussa", "id": 998575, "predecessors": [{"name": "Turun_kulttuuri", "id": 973055}, {"name": "Suomalainen_kulttuuri", "id": 208088}], "successors": [{"name": "Turun_kirkkorakennukset", "id": 99749}, {"name": "Turun_seurakunnat", "id": 1144087}]}

@@ -1,1 +1,1 @@
-{"name": "Magnetism_in_astronomy", "id": 67942301, "predecessors": [{"name": "Astronomy", "id": 692915}], "successors": [{"name": "Magnetars", "id": 1525486}, {"name": "Maunder_Minimum", "id": 68258326}]}
+{"name": "Magnetism_in_astronomy", "id": 67942301, "predecessors": [{"name": "Astronomy", "id": 692915}, {"name": "Magnetism", "id": 982364}], "successors": [{"name": "Magnetars", "id": 1525486}, {"name": "Maunder_Minimum", "id": 68258326}, {"name": "Magnetic_anomalies", "id": 33450759}]}

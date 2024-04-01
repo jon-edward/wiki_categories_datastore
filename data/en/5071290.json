@@ -1,1 +1,1 @@
-{"name": "Wayne_State_University", "id": 5071290, "predecessors": [{"name": "Midtown_Detroit", "id": 51490210}, {"name": "Universities_and_colleges_in_Detroit", "id": 31889607}, {"name": "NCAA_Division_I", "id": 27934135}, {"name": "National_Collegiate_Athletic_Association", "id": 27933984}], "successors": []}
+{"name": "Wayne_State_University", "id": 5071290, "predecessors": [{"name": "NCAA_Division_I", "id": 27934135}, {"name": "Great_Lakes", "id": 730678}], "successors": [{"name": "Wayne_State_University_people", "id": 31603318}]}

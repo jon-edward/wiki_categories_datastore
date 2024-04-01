@@ -1,1 +1,1 @@
-{"name": "Patrol_vessels_of_Iceland", "id": 24812593, "predecessors": [{"name": "Patrol_vessels", "id": 3287460}], "successors": []}
+{"name": "Patrol_vessels_of_Iceland", "id": 24812593, "predecessors": [{"name": "Patrol_vessels", "id": 3287460}, {"name": "Coast_guards", "id": 765959}], "successors": []}

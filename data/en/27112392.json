@@ -1,1 +1,1 @@
-{"name": "Wankel-engined_aircraft", "id": 27112392, "predecessors": [{"name": "Rotary-engined_aircraft", "id": 27056127}], "successors": []}
+{"name": "Wankel-engined_aircraft", "id": 27112392, "predecessors": [{"name": "Rotary-engined_aircraft", "id": 27056127}, {"name": "Internal_combustion_engine", "id": 15024245}], "successors": []}

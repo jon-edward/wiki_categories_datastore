@@ -1,1 +1,0 @@
-{"name": "Binnenvaartschip_naar_type", "id": 685342, "predecessors": [{"name": "Binnenvaart", "id": 352870}, {"name": "Scheepstype", "id": 122199}], "successors": [{"name": "Binnenvaartschip_op_naam", "id": 4082337}, {"name": "Skûtsje", "id": 4083155}]}

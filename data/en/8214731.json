@@ -1,1 +1,1 @@
-{"name": "Ancient_Romans_killed_in_action", "id": 8214731, "predecessors": [{"name": "Ancient_Roman_military_personnel", "id": 22735084}, {"name": "People_killed_in_action", "id": 28400094}, {"name": "Society_of_ancient_Rome", "id": 26863244}], "successors": [{"name": "Roman_generals_killed_in_action", "id": 1882313}, {"name": "Byzantines_killed_in_battle", "id": 26067692}]}
+{"name": "Ancient_Romans_killed_in_action", "id": 8214731, "predecessors": [{"name": "Death", "id": 921954}], "successors": [{"name": "Byzantines_killed_in_battle", "id": 26067692}]}

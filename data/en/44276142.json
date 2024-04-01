@@ -1,1 +1,1 @@
-{"name": "Ballet_critics", "id": 44276142, "predecessors": [{"name": "Classical_music_critics", "id": 27495700}, {"name": "Dance_critics", "id": 11081957}, {"name": "Journalism", "id": 698307}], "successors": []}
+{"name": "Ballet_critics", "id": 44276142, "predecessors": [{"name": "Classical_music_critics", "id": 27495700}, {"name": "Dance_critics", "id": 11081957}, {"name": "Criticism", "id": 7883896}], "successors": []}

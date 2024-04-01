@@ -1,1 +1,1 @@
-{"name": "Modern_European_swords", "id": 32344421, "predecessors": [{"name": "Warfare", "id": 49504783}], "successors": [{"name": "Swords_of_the_United_States", "id": 22069650}]}
+{"name": "Modern_European_swords", "id": 32344421, "predecessors": [{"name": "European_swords", "id": 739367}, {"name": "Swords", "id": 739338}, {"name": "Weapons", "id": 698507}], "successors": [{"name": "Swords_of_the_United_States", "id": 22069650}]}

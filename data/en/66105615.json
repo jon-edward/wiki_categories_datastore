@@ -1,1 +1,1 @@
-{"name": "Gaelic_football_coaches", "id": 66105615, "predecessors": [{"name": "Sports_coaches", "id": 17908961}, {"name": "Football", "id": 1080800}], "successors": [{"name": "Gaelic_football_goalkeeping_coaches", "id": 66134829}]}
+{"name": "Gaelic_football_coaches", "id": 66105615, "predecessors": [{"name": "Sports_coaches", "id": 17908961}, {"name": "Athletic_sports", "id": 31210709}], "successors": [{"name": "Gaelic_football_goalkeeping_coaches", "id": 66134829}]}

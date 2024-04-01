@@ -1,1 +1,1 @@
-{"name": "Scotland_national_football_team_managers", "id": 2632336, "predecessors": [{"name": "National_team_coaches", "id": 25325389}], "successors": [{"name": "Scotland_national_under-21_football_team_managers", "id": 44308937}]}
+{"name": "Scotland_national_football_team_managers", "id": 2632336, "predecessors": [{"name": "Scotland_national_football_team", "id": 5419283}, {"name": "National_team_coaches", "id": 25325389}], "successors": [{"name": "Scotland_national_under-21_football_team_managers", "id": 44308937}]}

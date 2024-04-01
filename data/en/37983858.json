@@ -1,1 +1,1 @@
-{"name": "Irish_cricket_coaches", "id": 37983858, "predecessors": [{"name": "Sports_coaches", "id": 17908961}], "successors": [{"name": "Coaches_of_the_Irish_national_cricket_team", "id": 49679245}]}
+{"name": "Irish_cricket_coaches", "id": 37983858, "predecessors": [{"name": "Sports_coaches", "id": 17908961}, {"name": "Cricket", "id": 692385}], "successors": [{"name": "Coaches_of_the_Irish_national_cricket_team", "id": 49679245}]}

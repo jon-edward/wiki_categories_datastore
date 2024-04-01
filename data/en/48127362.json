@@ -1,1 +1,1 @@
-{"name": "Radio_programs_based_on_comic_strips", "id": 48127362, "predecessors": [{"name": "Comics", "id": 697992}], "successors": [{"name": "Ripley's_Believe_It_or_Not!", "id": 31187801}]}
+{"name": "Radio_programs_based_on_comic_strips", "id": 48127362, "predecessors": [{"name": "Comics", "id": 697992}, {"name": "Comic_strips", "id": 698008}], "successors": [{"name": "Ripley's_Believe_It_or_Not!", "id": 31187801}]}

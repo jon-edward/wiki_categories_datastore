@@ -1,1 +1,1 @@
-{"name": "Allergiat", "id": 242654, "predecessors": [{"name": "Sairaudet", "id": 18851}, {"name": "Immunologia", "id": 48237}], "successors": []}
+{"name": "Allergiat", "id": 242654, "predecessors": [{"name": "Immunologia", "id": 48237}, {"name": "Sairaudet", "id": 18851}], "successors": [{"name": "Antihistamiinit", "id": 767481}]}

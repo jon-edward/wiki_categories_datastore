@@ -1,1 +1,1 @@
-{"name": "Logarithms", "id": 4001310, "predecessors": [{"name": "Operations_on_numbers", "id": 66134032}, {"name": "Mathematical_constants", "id": 976746}], "successors": [{"name": "Logarithmic_scales_of_measurement", "id": 35526926}]}
+{"name": "Logarithms", "id": 4001310, "predecessors": [{"name": "Operations_on_numbers", "id": 66134032}, {"name": "Mathematical_constants", "id": 976746}], "successors": [{"name": "Logarithmic_scales_of_measurement", "id": 35526926}, {"name": "Logistic_regression", "id": 52316653}]}

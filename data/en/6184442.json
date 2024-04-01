@@ -1,1 +1,1 @@
-{"name": "Microsoft_database_software", "id": 6184442, "predecessors": [{"name": "Database_management_systems", "id": 700602}, {"name": "Microsoft_software", "id": 695106}], "successors": []}
+{"name": "Microsoft_database_software", "id": 6184442, "predecessors": [{"name": "Microsoft_software", "id": 695106}], "successors": []}

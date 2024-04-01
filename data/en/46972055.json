@@ -1,1 +1,1 @@
-{"name": "Education_school_deans", "id": 46972055, "predecessors": [{"name": "Teachers_colleges", "id": 50720783}], "successors": []}
+{"name": "Education_school_deans", "id": 46972055, "predecessors": [{"name": "Deans_(academic)", "id": 22297670}, {"name": "Teachers_colleges", "id": 50720783}], "successors": []}

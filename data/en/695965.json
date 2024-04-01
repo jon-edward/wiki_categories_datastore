@@ -1,0 +1,1 @@
+{"name": "Alloys", "id": 695965, "predecessors": [{"name": "Artificial_materials", "id": 51591971}, {"name": "Chemical_mixtures", "id": 1975221}, {"name": "Metals", "id": 744693}], "successors": [{"name": "Fusible_alloys", "id": 3316170}, {"name": "Intermetallics", "id": 3846261}, {"name": "Magnetic_alloys", "id": 5523361}, {"name": "Refractory_metals", "id": 30625870}]}

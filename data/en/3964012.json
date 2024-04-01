@@ -1,1 +1,1 @@
-{"name": "Australian_rules_football_umpires", "id": 3964012, "predecessors": [{"name": "Australian_rules_football", "id": 893658}], "successors": []}
+{"name": "Australian_rules_football_umpires", "id": 3964012, "predecessors": [{"name": "Australian_rules_football", "id": 893658}], "successors": [{"name": "Australian_Football_League_umpires", "id": 48492521}, {"name": "West_Australian_Football_League_umpires", "id": 48492895}, {"name": "Victorian_Football_Association_umpires", "id": 48493033}]}

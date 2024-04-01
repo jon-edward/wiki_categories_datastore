@@ -1,1 +1,0 @@
-{"name": "Lightrail", "id": 69751, "predecessors": [{"name": "Hoogwaardig_openbaar_vervoer", "id": 1576614}, {"name": "Spoorlijn", "id": 78860}, {"name": "Vervoermiddel", "id": 79534}], "successors": [{"name": "RandstadRail", "id": 304521}, {"name": "Sneltram", "id": 344048}]}

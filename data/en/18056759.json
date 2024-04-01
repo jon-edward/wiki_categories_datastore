@@ -1,1 +1,1 @@
-{"name": "Marine_energy", "id": 18056759, "predecessors": [{"name": "Oceans", "id": 900479}, {"name": "Bodies_of_water", "id": 2699217}], "successors": []}
+{"name": "Marine_energy", "id": 18056759, "predecessors": [{"name": "Oceans", "id": 900479}, {"name": "Bodies_of_water", "id": 2699217}, {"name": "Energy_conversion", "id": 1947340}], "successors": [{"name": "Wave_power", "id": 18604577}, {"name": "Tidal_power", "id": 18604631}]}

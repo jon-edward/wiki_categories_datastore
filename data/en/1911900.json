@@ -1,1 +1,1 @@
-{"name": "Weapon_operation", "id": 1911900, "predecessors": [{"name": "Military_tactics", "id": 1074382}, {"name": "Weapons", "id": 698507}], "successors": [{"name": "Firearm_techniques", "id": 20920421}]}
+{"name": "Weapon_operation", "id": 1911900, "predecessors": [{"name": "Military_tactics", "id": 1074382}, {"name": "Weapons", "id": 698507}], "successors": [{"name": "Missile_operation", "id": 1930529}, {"name": "Artillery_operation", "id": 19771684}, {"name": "Firearm_techniques", "id": 20920421}]}

@@ -1,1 +1,1 @@
-{"name": "Kit_houses", "id": 71662945, "predecessors": [{"name": "Do_it_yourself", "id": 28020483}], "successors": [{"name": "Sears_Modern_Homes", "id": 71661432}]}
+{"name": "Kit_houses", "id": 71662945, "predecessors": [{"name": "Do_it_yourself", "id": 28020483}, {"name": "Prefabricated_houses", "id": 31019187}], "successors": [{"name": "Sears_Modern_Homes", "id": 71661432}]}

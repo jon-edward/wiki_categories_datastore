@@ -1,1 +1,1 @@
-{"name": "American_copy_editors", "id": 1496646, "predecessors": [{"name": "Copy_editing", "id": 1018750}], "successors": []}
+{"name": "American_copy_editors", "id": 1496646, "predecessors": [{"name": "American_print_editors", "id": 5780988}, {"name": "Copy_editing", "id": 1018750}], "successors": []}

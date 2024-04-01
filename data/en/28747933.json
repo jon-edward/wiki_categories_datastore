@@ -1,1 +1,1 @@
-{"name": "Dinner_theatre", "id": 28747933, "predecessors": [{"name": "Dinner", "id": 49788090}, {"name": "Restaurants_by_type", "id": 15748273}, {"name": "Theatrical_genres", "id": 1231826}, {"name": "Theatre", "id": 698600}], "successors": []}
+{"name": "Dinner_theatre", "id": 28747933, "predecessors": [{"name": "Dinner", "id": 49788090}, {"name": "Restaurants_by_type", "id": 15748273}, {"name": "Entertainment", "id": 693016}], "successors": []}

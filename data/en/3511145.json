@@ -1,1 +1,1 @@
-{"name": "Hiking_organizations", "id": 3511145, "predecessors": [{"name": "Exercise_organizations", "id": 7962036}], "successors": []}
+{"name": "Hiking_organizations", "id": 3511145, "predecessors": [{"name": "Exercise_organizations", "id": 7962036}, {"name": "Hiking", "id": 965797}, {"name": "Outdoor_recreation_organizations", "id": 39577516}], "successors": [{"name": "Hiking_organizations_in_the_United_States", "id": 38165374}, {"name": "Hiking_organisations_in_Germany", "id": 45273246}]}

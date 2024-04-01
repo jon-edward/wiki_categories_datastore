@@ -1,1 +1,1 @@
-{"name": "Clock_towers", "id": 2830372, "predecessors": [{"name": "Clocks", "id": 1095785}], "successors": [{"name": "Ottoman_clock_towers", "id": 49107809}]}
+{"name": "Clock_towers", "id": 2830372, "predecessors": [{"name": "Clocks", "id": 1095785}, {"name": "Towers", "id": 791935}], "successors": [{"name": "Ottoman_clock_towers", "id": 49107809}]}

@@ -1,1 +1,1 @@
-{"name": "Syndromes_of_unknown_causes", "id": 55576753, "predecessors": [{"name": "Ailments_of_unknown_cause", "id": 1438581}, {"name": "Medical_diagnosis", "id": 16705234}], "successors": [{"name": "Myalgic_encephalomyelitis/chronic_fatigue_syndrome", "id": 42320789}, {"name": "Long_COVID", "id": 74596012}]}
+{"name": "Syndromes_of_unknown_causes", "id": 55576753, "predecessors": [{"name": "Ailments_of_unknown_cause", "id": 1438581}, {"name": "Cause_(medicine)", "id": 31580983}], "successors": [{"name": "Myalgic_encephalomyelitis/chronic_fatigue_syndrome", "id": 42320789}]}

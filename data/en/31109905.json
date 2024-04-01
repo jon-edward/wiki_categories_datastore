@@ -1,1 +1,1 @@
-{"name": "Olympic_badminton_venues", "id": 31109905, "predecessors": [{"name": "Badminton_at_the_Summer_Olympics", "id": 33839109}, {"name": "Badminton_venues", "id": 8953223}], "successors": []}
+{"name": "Olympic_badminton_venues", "id": 31109905, "predecessors": [{"name": "Badminton_at_the_Summer_Olympics", "id": 33839109}, {"name": "Badminton_venues", "id": 8953223}, {"name": "Event_management", "id": 38591267}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Fisheries_protection", "id": 35251725, "predecessors": [{"name": "Fisheries_law", "id": 40950612}, {"name": "Law_enforcement", "id": 718211}], "successors": [{"name": "Fishery_protection_vessels", "id": 48134950}]}
+{"name": "Fisheries_protection", "id": 35251725, "predecessors": [{"name": "Fisheries_law", "id": 40950612}, {"name": "Law_enforcement", "id": 718211}], "successors": []}

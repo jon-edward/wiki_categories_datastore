@@ -1,1 +1,1 @@
-{"name": "Download_managers", "id": 1340076, "predecessors": [{"name": "Internet_Protocol_based_network_software", "id": 32946450}], "successors": []}
+{"name": "Download_managers", "id": 1340076, "predecessors": [{"name": "Internet_Protocol_based_network_software", "id": 32946450}, {"name": "Web_software", "id": 8660251}], "successors": []}

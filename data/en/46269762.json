@@ -1,1 +1,1 @@
-{"name": "Hazfi_Cup_seasons", "id": 46269762, "predecessors": [{"name": "Football", "id": 1080800}], "successors": [{"name": "Hazfi_Cup_finals", "id": 70578577}]}
+{"name": "Hazfi_Cup_seasons", "id": 46269762, "predecessors": [{"name": "Football_codes", "id": 27631491}, {"name": "Athletic_sports", "id": 31210709}], "successors": [{"name": "Hazfi_Cup_finals", "id": 70578577}]}

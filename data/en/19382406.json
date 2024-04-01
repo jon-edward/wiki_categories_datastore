@@ -1,1 +1,1 @@
-{"name": "Combat_diving", "id": 19382406, "predecessors": [{"name": "Combat", "id": 16795907}], "successors": [{"name": "Frogman_operations", "id": 22236679}]}
+{"name": "Combat_diving", "id": 19382406, "predecessors": [{"name": "Armed_forces_diving", "id": 15457202}, {"name": "Combat", "id": 16795907}], "successors": [{"name": "Frogman_operations", "id": 22236679}]}

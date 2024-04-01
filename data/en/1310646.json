@@ -1,1 +1,1 @@
-{"name": "Kanji", "id": 1310646, "predecessors": [{"name": "Writing_systems_using_Chinese_characters", "id": 18891015}], "successors": [{"name": "Kangxi_radicals", "id": 20895072}, {"name": "Kyōiku_kanji", "id": 73826303}]}
+{"name": "Kanji", "id": 1310646, "predecessors": [{"name": "Japanese_language", "id": 692956}, {"name": "Japanese_writing_system", "id": 2638280}, {"name": "Writing_systems_using_Chinese_characters", "id": 18891015}], "successors": [{"name": "Kangxi_radicals", "id": 20895072}, {"name": "Kyōiku_kanji", "id": 73826303}]}

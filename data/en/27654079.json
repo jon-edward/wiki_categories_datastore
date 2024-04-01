@@ -1,1 +1,1 @@
-{"name": "Samsung_computers", "id": 27654079, "predecessors": [{"name": "Computers", "id": 4583997}], "successors": [{"name": "Samsung_Galaxy_Tab_series", "id": 40776963}]}
+{"name": "Samsung_computers", "id": 27654079, "predecessors": [{"name": "Samsung_Electronics_products", "id": 27639204}, {"name": "Computers", "id": 4583997}], "successors": [{"name": "Samsung_Galaxy_Tab_series", "id": 40776963}]}

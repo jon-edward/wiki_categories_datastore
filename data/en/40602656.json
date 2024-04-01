@@ -1,1 +1,1 @@
-{"name": "Palm_oil_production_in_Indonesia", "id": 40602656, "predecessors": [{"name": "Palm_oil", "id": 39767889}], "successors": [{"name": "Palm_oil_companies_of_Indonesia", "id": 61351217}]}
+{"name": "Palm_oil_production_in_Indonesia", "id": 40602656, "predecessors": [{"name": "Agriculture_in_Indonesia", "id": 17652033}, {"name": "Agriculture_by_country", "id": 2300147}], "successors": [{"name": "Palm_oil_companies_of_Indonesia", "id": 61351217}]}

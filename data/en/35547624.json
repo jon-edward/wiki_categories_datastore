@@ -1,1 +1,1 @@
-{"name": "NHS_hospitals_in_Wales", "id": 35547624, "predecessors": [{"name": "NHS_Wales", "id": 31476124}], "successors": []}
+{"name": "NHS_hospitals_in_Wales", "id": 35547624, "predecessors": [{"name": "NHS_Wales", "id": 31476124}, {"name": "National_Health_Service", "id": 1373488}], "successors": []}

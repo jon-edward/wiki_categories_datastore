@@ -1,1 +1,1 @@
-{"name": "Student_exchange", "id": 2708878, "predecessors": [{"name": "Learning_programs", "id": 30891264}, {"name": "Student_migration", "id": 39287488}, {"name": "Learning", "id": 1055691}], "successors": [{"name": "Erasmus_Programme", "id": 68421191}]}
+{"name": "Student_exchange", "id": 2708878, "predecessors": [{"name": "Learning_programs", "id": 30891264}, {"name": "Student_migration", "id": 39287488}, {"name": "Learning", "id": 1055691}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Winter", "id": 2656251, "predecessors": [{"name": "Seasons", "id": 1074697}], "successors": [{"name": "Winter_sports", "id": 700686}, {"name": "Winter_weather_events", "id": 30798023}, {"name": "Winter_clothes", "id": 45124292}, {"name": "Winter_in_culture", "id": 47213819}, {"name": "Winter_solstice", "id": 74091737}]}
+{"name": "Winter", "id": 2656251, "predecessors": [{"name": "Seasons", "id": 1074697}], "successors": [{"name": "Winter_clothes", "id": 45124292}]}

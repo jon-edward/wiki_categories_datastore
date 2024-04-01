@@ -1,0 +1,1 @@
+{"name": "Fish_as_food", "id": 70405003, "predecessors": [{"name": "Animal-based_seafood", "id": 36325535}, {"name": "Meat_by_animal", "id": 51423933}], "successors": [{"name": "Edible_fish", "id": 3245185}, {"name": "Dried_fish", "id": 5804576}, {"name": "Smoked_fish", "id": 35186207}]}

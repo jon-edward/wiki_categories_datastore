@@ -1,1 +1,1 @@
-{"name": "Neutrino_astronomy", "id": 4550474, "predecessors": [{"name": "Astronomical_sub-disciplines", "id": 6251189}], "successors": [{"name": "Neutrino_observatories", "id": 1326910}]}
+{"name": "Neutrino_astronomy", "id": 4550474, "predecessors": [{"name": "Astronomical_sub-disciplines", "id": 6251189}, {"name": "Neutrinos", "id": 22820165}], "successors": [{"name": "Neutrino_observatories", "id": 1326910}]}

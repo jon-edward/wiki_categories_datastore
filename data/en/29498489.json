@@ -1,1 +1,1 @@
-{"name": "Space_launch_vehicles_of_Russia", "id": 29498489, "predecessors": [{"name": "Space_program_of_Russia", "id": 36845342}], "successors": [{"name": "R-7_(rocket_family)", "id": 35609758}]}
+{"name": "Space_launch_vehicles_of_Russia", "id": 29498489, "predecessors": [{"name": "Space_program_of_Russia", "id": 36845342}, {"name": "Space_launch_vehicles", "id": 762771}], "successors": [{"name": "R-7_(rocket_family)", "id": 35609758}]}

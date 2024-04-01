@@ -1,1 +1,1 @@
-{"name": "XML_editors", "id": 8999525, "predecessors": [{"name": "Text_editors", "id": 694684}, {"name": "XML", "id": 1035551}, {"name": "XML_software", "id": 27707910}], "successors": []}
+{"name": "XML_editors", "id": 8999525, "predecessors": [{"name": "XML", "id": 1035551}, {"name": "XML_software", "id": 27707910}], "successors": []}

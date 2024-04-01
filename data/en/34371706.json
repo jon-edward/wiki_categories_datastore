@@ -1,1 +1,1 @@
-{"name": "FIFA_World_Cup_finals", "id": 34371706, "predecessors": [{"name": "FIFA_World_Cup_matches", "id": 5265997}, {"name": "World_championships_in_association_football", "id": 56098369}], "successors": [{"name": "FIFA_World_Cup_finals_match_officials", "id": 7514487}]}
+{"name": "FIFA_World_Cup_finals", "id": 34371706, "predecessors": [{"name": "FIFA_World_Cup_matches", "id": 5265997}, {"name": "Competitions", "id": 737119}, {"name": "FIFA", "id": 2156849}], "successors": []}

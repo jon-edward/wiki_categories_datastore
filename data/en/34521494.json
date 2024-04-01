@@ -1,1 +1,1 @@
-{"name": "Music_festivals_in_Quebec", "id": 34521494, "predecessors": [{"name": "Quebec_music", "id": 947770}, {"name": "Francophonie", "id": 7933044}], "successors": [{"name": "Music_festivals_in_Montreal", "id": 34539715}]}
+{"name": "Music_festivals_in_Quebec", "id": 34521494, "predecessors": [{"name": "Music_events", "id": 1471803}], "successors": [{"name": "Music_festivals_in_Montreal", "id": 34539715}]}

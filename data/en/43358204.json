@@ -1,1 +1,1 @@
-{"name": "Byzantine_courtiers", "id": 43358204, "predecessors": [{"name": "Royal_and_noble_courts", "id": 30635777}], "successors": [{"name": "Protostratores", "id": 44925442}]}
+{"name": "Byzantine_courtiers", "id": 43358204, "predecessors": [{"name": "Byzantine_officials", "id": 22724039}, {"name": "Royal_and_noble_courts", "id": 30635777}], "successors": [{"name": "Parakoimomenoi", "id": 25955506}]}

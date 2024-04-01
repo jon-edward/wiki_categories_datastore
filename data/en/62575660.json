@@ -1,1 +1,1 @@
-{"name": "Infant_mortality", "id": 62575660, "predecessors": [{"name": "Infancy", "id": 1737226}], "successors": [{"name": "Infanticide", "id": 1737329}]}
+{"name": "Infant_mortality", "id": 62575660, "predecessors": [{"name": "Death_of_children", "id": 41034749}, {"name": "Infancy", "id": 1737226}], "successors": [{"name": "Infanticide", "id": 1737329}]}

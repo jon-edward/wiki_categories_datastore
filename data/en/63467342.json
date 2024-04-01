@@ -1,1 +1,1 @@
-{"name": "Champ_Car_champions", "id": 63467342, "predecessors": [{"name": "Champ_Car", "id": 5100878}, {"name": "Motorsports_in_fiction", "id": 8201191}], "successors": []}
+{"name": "Champ_Car_champions", "id": 63467342, "predecessors": [{"name": "Champ_Car", "id": 5100878}, {"name": "Champ_Car_drivers", "id": 2960561}, {"name": "Motorsports_in_fiction", "id": 8201191}], "successors": []}

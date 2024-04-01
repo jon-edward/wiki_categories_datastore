@@ -1,1 +1,1 @@
-{"name": "Terrorist_incidents_in_Paris", "id": 45252969, "predecessors": [{"name": "Political_violence", "id": 38401703}, {"name": "Terrorist_incidents_in_France", "id": 44291660}], "successors": [{"name": "Islamic_terrorism_in_Paris", "id": 61322535}]}
+{"name": "Terrorist_incidents_in_Paris", "id": 45252969, "predecessors": [{"name": "Crime_in_Île-de-France", "id": 51179001}, {"name": "Irregular_military", "id": 1769907}, {"name": "Military", "id": 716572}], "successors": [{"name": "Islamic_terrorism_in_Paris", "id": 61322535}]}

@@ -1,1 +1,1 @@
-{"name": "Virkanimikkeet", "id": 347168, "predecessors": [{"name": "Virkamiehet", "id": 75770}, {"name": "Ammatit", "id": 26041}], "successors": [{"name": "Yliopiston_virat", "id": 85735}, {"name": "Kirkolliset_virat", "id": 496473}]}
+{"name": "Virkanimikkeet", "id": 347168, "predecessors": [{"name": "Virkamiehet", "id": 75770}, {"name": "Ammatit", "id": 26041}], "successors": [{"name": "Yliopiston_virat", "id": 85735}, {"name": "Hallinnon_ammatit", "id": 365672}, {"name": "Kirkolliset_virat", "id": 496473}]}

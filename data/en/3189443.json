@@ -1,1 +1,1 @@
-{"name": "Thin_film_deposition", "id": 3189443, "predecessors": [{"name": "Coatings", "id": 4931478}, {"name": "Industrial_processes", "id": 1186213}], "successors": [{"name": "Metal_plating", "id": 3825871}]}
+{"name": "Thin_film_deposition", "id": 3189443, "predecessors": [{"name": "Coatings", "id": 4931478}, {"name": "Industrial_processes", "id": 1186213}, {"name": "Thin_films", "id": 3189331}, {"name": "Condensed_matter_physics", "id": 692176}], "successors": [{"name": "Metal_plating", "id": 3825871}]}

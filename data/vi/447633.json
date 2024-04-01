@@ -1,1 +1,0 @@
-{"name": "Quản_lý_chuỗi_cung_ứng", "id": 447633, "predecessors": [{"name": "Quản_lý_theo_dạng", "id": 1678558}, {"name": "Quy_trình_kinh_doanh", "id": 3430729}], "successors": [{"name": "Hàng_hóa", "id": 37646}, {"name": "Thương_mại_điện_tử", "id": 42895}, {"name": "Vận_tải", "id": 280326}, {"name": "Hàng_tồn_kho", "id": 385228}]}

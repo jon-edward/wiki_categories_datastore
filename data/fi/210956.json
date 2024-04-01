@@ -1,1 +1,1 @@
-{"name": "Malesian_Grand_Prix", "id": 210956, "predecessors": [{"name": "Malesian_maantiede", "id": 134393}, {"name": "Autourheilu", "id": 57834}, {"name": "Urheilu", "id": 18692}, {"name": "Urheilulajit", "id": 965253}], "successors": []}
+{"name": "Malesian_Grand_Prix", "id": 210956, "predecessors": [{"name": "Malesian_moottoriurheilu", "id": 216534}, {"name": "Malesian_urheilutapahtumat", "id": 1400068}, {"name": "Sepang", "id": 1253021}, {"name": "Autourheilu", "id": 57834}], "successors": []}

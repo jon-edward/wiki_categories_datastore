@@ -1,1 +1,1 @@
-{"name": "Exoplanets_detected_by_astrometry", "id": 71415001, "predecessors": [{"name": "Astrometry", "id": 2749337}], "successors": []}
+{"name": "Exoplanets_detected_by_astrometry", "id": 71415001, "predecessors": [{"name": "Astrometry", "id": 2749337}, {"name": "Exoplanets", "id": 41108019}], "successors": []}

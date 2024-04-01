@@ -1,1 +1,1 @@
-{"name": "Indoor_speed_skating_venues", "id": 31358187, "predecessors": [{"name": "Music_venues", "id": 2313791}], "successors": [{"name": "Olympic_short_track_speed_skating_venues", "id": 31283783}]}
+{"name": "Indoor_speed_skating_venues", "id": 31358187, "predecessors": [{"name": "Speed_skating_venues", "id": 24401437}, {"name": "Sports_venues_by_type", "id": 47719489}], "successors": [{"name": "Olympic_short_track_speed_skating_venues", "id": 31283783}]}

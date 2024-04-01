@@ -1,1 +1,1 @@
-{"name": "Northwestern_University", "id": 3360796, "predecessors": [{"name": "NCAA_Division_I", "id": 27934135}], "successors": [{"name": "Northwestern_University_campus", "id": 17371823}]}
+{"name": "Northwestern_University", "id": 3360796, "predecessors": [{"name": "Evanston,_Illinois", "id": 10949172}, {"name": "NCAA_Division_I", "id": 27934135}], "successors": [{"name": "Northwestern_University_campus", "id": 17371823}, {"name": "Northwestern_Medicine", "id": 66136469}]}

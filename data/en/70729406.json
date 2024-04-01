@@ -1,1 +1,1 @@
-{"name": "Magnetic_hysteresis", "id": 70729406, "predecessors": [{"name": "Hysteresis", "id": 59231481}], "successors": []}
+{"name": "Magnetic_hysteresis", "id": 70729406, "predecessors": [{"name": "Ferromagnetism", "id": 70796079}, {"name": "Hysteresis", "id": 59231481}], "successors": []}

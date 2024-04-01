@@ -1,1 +1,1 @@
-{"name": "Nitrogen", "id": 4374928, "predecessors": [{"name": "Chemical_elements", "id": 691255}, {"name": "Coolants", "id": 3670551}, {"name": "Pnictogens", "id": 2011646}], "successors": [{"name": "Nitrogen_cycle", "id": 1313381}, {"name": "Nitrogen_mustards", "id": 28792532}]}
+{"name": "Nitrogen", "id": 4374928, "predecessors": [{"name": "Chemical_elements", "id": 691255}, {"name": "Coolants", "id": 3670551}, {"name": "Pnictogens", "id": 2011646}], "successors": [{"name": "Nitrogen_cycle", "id": 1313381}]}

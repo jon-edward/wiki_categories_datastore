@@ -1,1 +1,1 @@
-{"name": "Theban_tombs", "id": 2271749, "predecessors": [{"name": "Theban_Necropolis", "id": 3721479}, {"name": "Tombs_of_ancient_Egypt", "id": 7869307}], "successors": []}
+{"name": "Theban_tombs", "id": 2271749, "predecessors": [{"name": "Theban_Necropolis", "id": 3721479}, {"name": "Tombs_of_ancient_Egypt", "id": 7869307}], "successors": [{"name": "Valley_of_the_Kings", "id": 2269209}, {"name": "Valley_of_the_Queens", "id": 2269315}]}

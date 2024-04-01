@@ -1,1 +1,1 @@
-{"name": "Matemaattiset_apuvälineet", "id": 53445, "predecessors": [{"name": "Matematiikka", "id": 17872}, {"name": "Suunnittelu_ja_innovaatio", "id": 308995}, {"name": "Välineet", "id": 87843}], "successors": [{"name": "Laskimet", "id": 172281}]}
+{"name": "Matemaattiset_apuvälineet", "id": 53445, "predecessors": [{"name": "Matematiikka", "id": 17872}, {"name": "Suunnittelu_ja_innovaatio", "id": 308995}, {"name": "Välineet", "id": 87843}], "successors": [{"name": "Tietokoneet", "id": 29399}, {"name": "Laskimet", "id": 172281}]}

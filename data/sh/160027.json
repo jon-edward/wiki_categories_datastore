@@ -1,1 +1,1 @@
-{"name": "Hip-hop", "id": 160027, "predecessors": [{"name": "Američka_muzika", "id": 258559}, {"name": "Muzički_žanrovi", "id": 91300}], "successors": [{"name": "Hip_hop_muzičke_grupe", "id": 1478925}, {"name": "Američki_hip-hop_muzičari", "id": 160017}, {"name": "Srpski_hip-hop_muzičari", "id": 160025}]}
+{"name": "Hip-hop", "id": 160027, "predecessors": [{"name": "Američka_muzika", "id": 258559}, {"name": "Muzički_žanrovi", "id": 91300}], "successors": [{"name": "Hip-hop_muzičari", "id": 160024}, {"name": "Hip_hop_muzičke_grupe", "id": 1478925}]}

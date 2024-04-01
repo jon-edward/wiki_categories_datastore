@@ -1,1 +1,1 @@
-{"name": "Gas_chromatography", "id": 5010150, "predecessors": [{"name": "Chromatography", "id": 1065879}], "successors": []}
+{"name": "Gas_chromatography", "id": 5010150, "predecessors": [{"name": "Chromatography", "id": 1065879}, {"name": "Gas_technologies", "id": 19500591}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Nebulae", "id": 715333, "predecessors": [{"name": "Space_plasmas", "id": 1848476}, {"name": "Astronomy", "id": 692915}], "successors": [{"name": "Cosmic_dust", "id": 35091941}]}
+{"name": "Nebulae", "id": 715333, "predecessors": [{"name": "Space_plasmas", "id": 1848476}, {"name": "Astronomy", "id": 692915}], "successors": [{"name": "Cosmic_dust", "id": 35091941}, {"name": "Circumstellar_disks", "id": 35159884}]}

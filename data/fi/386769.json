@@ -1,1 +1,1 @@
-{"name": "Parkinsonin_taudin_lääkkeet", "id": 386769, "predecessors": [{"name": "Lääkkeet", "id": 29411}, {"name": "Neurologiset_sairaudet", "id": 29635}], "successors": [{"name": "Monoamiinioksidaasiestäjät", "id": 694377}]}
+{"name": "Parkinsonin_taudin_lääkkeet", "id": 386769, "predecessors": [{"name": "Lääkkeet", "id": 29411}, {"name": "Neurologiset_sairaudet", "id": 29635}], "successors": [{"name": "Monoamiinioksidaasiestäjät", "id": 694377}, {"name": "Antikolinergit", "id": 945102}]}

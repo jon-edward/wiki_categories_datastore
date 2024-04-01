@@ -1,1 +1,1 @@
-{"name": "Shipping_companies_based_in_Copenhagen", "id": 35783334, "predecessors": [{"name": "Companies_based_in_Copenhagen", "id": 15628177}, {"name": "Cities_and_towns_in_the_Capital_Region_of_Denmark", "id": 31068661}], "successors": [{"name": "DFDS", "id": 37313002}]}
+{"name": "Shipping_companies_based_in_Copenhagen", "id": 35783334, "predecessors": [{"name": "Shipping_companies_of_Denmark", "id": 9635711}, {"name": "Taxonomy", "id": 918375}, {"name": "Cities_and_towns_in_the_Capital_Region_of_Denmark", "id": 31068661}], "successors": [{"name": "DFDS", "id": 37313002}]}

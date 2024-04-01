@@ -1,1 +1,1 @@
-{"name": "Art_Deco_sculptures_and_memorials", "id": 20326721, "predecessors": [{"name": "Art_Deco", "id": 2078985}], "successors": [{"name": "Art_Deco_sculptors", "id": 20325977}]}
+{"name": "Art_Deco_sculptures_and_memorials", "id": 20326721, "predecessors": [{"name": "Art_Deco", "id": 2078985}, {"name": "Monuments_and_memorials", "id": 4869336}], "successors": [{"name": "Art_Deco_sculptors", "id": 20325977}]}

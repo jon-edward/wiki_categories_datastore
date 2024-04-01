@@ -1,1 +1,1 @@
-{"name": "Smart_speakers", "id": 52182443, "predecessors": [{"name": "Loudspeakers", "id": 24240774}, {"name": "Smart_devices", "id": 44219225}], "successors": []}
+{"name": "Smart_speakers", "id": 52182443, "predecessors": [{"name": "Smart_devices", "id": 44219225}], "successors": []}

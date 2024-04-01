@@ -1,1 +1,1 @@
-{"name": "SS_non-commissioned_officers", "id": 15458371, "predecessors": [{"name": "SS_personnel", "id": 2065320}], "successors": []}
+{"name": "SS_non-commissioned_officers", "id": 15458371, "predecessors": [{"name": "SS_personnel", "id": 2065320}, {"name": "Military_personnel", "id": 6660319}], "successors": []}

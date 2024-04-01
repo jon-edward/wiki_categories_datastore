@@ -1,1 +1,1 @@
-{"name": "Veřejná_doprava", "id": 172566, "predecessors": [{"name": "Doprava", "id": 5636}], "successors": [{"name": "Dopravní_systémy", "id": 105559}, {"name": "Taxi", "id": 110490}, {"name": "Autobusové_linky", "id": 561166}]}
+{"name": "Veřejná_doprava", "id": 172566, "predecessors": [{"name": "Doprava", "id": 5636}], "successors": [{"name": "Dopravní_systémy", "id": 105559}, {"name": "Taxi", "id": 110490}, {"name": "Autobusové_linky", "id": 561166}, {"name": "Čeští_organizátoři_veřejné_dopravy", "id": 266786}]}

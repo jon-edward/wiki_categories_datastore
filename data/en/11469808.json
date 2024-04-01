@@ -1,1 +1,1 @@
-{"name": "Nursing_homes_in_the_United_States", "id": 11469808, "predecessors": [{"name": "Housing_for_the_elderly_in_the_United_States", "id": 30986096}, {"name": "Housing_in_the_United_States", "id": 5991842}], "successors": []}
+{"name": "Nursing_homes_in_the_United_States", "id": 11469808, "predecessors": [{"name": "Housing_for_the_elderly_in_the_United_States", "id": 30986096}, {"name": "Nursing_homes", "id": 9149239}, {"name": "Housing_in_the_United_States", "id": 5991842}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Christmas_festivals", "id": 52683962, "predecessors": [{"name": "Christmas_events_and_celebrations", "id": 8151513}], "successors": [{"name": "Christmas_and_holiday_season_parades", "id": 20209713}]}
+{"name": "Christmas_festivals", "id": 52683962, "predecessors": [{"name": "Christmas_events_and_celebrations", "id": 8151513}, {"name": "Christian_events", "id": 3381186}], "successors": [{"name": "Christmas_and_holiday_season_parades", "id": 20209713}]}

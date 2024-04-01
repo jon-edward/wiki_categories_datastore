@@ -1,1 +1,1 @@
-{"name": "French_Franciscans", "id": 42582871, "predecessors": [{"name": "French_Roman_Catholics", "id": 7176706}], "successors": []}
+{"name": "French_Franciscans", "id": 42582871, "predecessors": [{"name": "French_Christian_monks", "id": 17090909}, {"name": "French_Roman_Catholics", "id": 7176706}, {"name": "Franciscans", "id": 916561}], "successors": []}

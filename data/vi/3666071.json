@@ -1,1 +1,0 @@
-{"name": "Dịch_vụ_cấp_cứu", "id": 3666071, "predecessors": [{"name": "Dịch_vụ_khẩn_cấp", "id": 2447139}, {"name": "Chuyên_ngành_y_khoa", "id": 3180293}], "successors": [{"name": "Cấp_cứu_y_khoa", "id": 13728}, {"name": "Thiết_bị_hỗ_trợ_di_chuyển", "id": 3666062}]}

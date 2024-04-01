@@ -1,0 +1,1 @@
+{"name": "Cryptanalytic_devices", "id": 1069923, "predecessors": [{"name": "Cryptographic_hardware", "id": 1069918}], "successors": [{"name": "Integer_factorization_algorithms", "id": 1299830}, {"name": "Password_cracking_software", "id": 19245882}, {"name": "DVD_rippers", "id": 34495574}]}

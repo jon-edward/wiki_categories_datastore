@@ -1,1 +1,1 @@
-{"name": "Intel_CPU_sockets", "id": 60182751, "predecessors": [{"name": "Intel_products", "id": 13752883}, {"name": "Central_processing_unit", "id": 5834555}], "successors": []}
+{"name": "Intel_CPU_sockets", "id": 60182751, "predecessors": [{"name": "Intel_products", "id": 13752883}], "successors": []}

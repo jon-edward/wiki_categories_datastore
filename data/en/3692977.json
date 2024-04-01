@@ -1,1 +1,0 @@
-{"name": "Product_certification", "id": 3692977, "predecessors": [{"name": "Product_testing", "id": 28014246}, {"name": "Standards", "id": 724561}], "successors": [{"name": "Certification_marks", "id": 1856874}, {"name": "Nondestructive_testing", "id": 7639446}, {"name": "Kashrut", "id": 18420041}]}

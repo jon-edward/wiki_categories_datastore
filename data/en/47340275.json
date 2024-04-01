@@ -1,1 +1,1 @@
-{"name": "Tide_mills", "id": 47340275, "predecessors": [{"name": "Watermills", "id": 922375}], "successors": []}
+{"name": "Tide_mills", "id": 47340275, "predecessors": [{"name": "Tidal_power", "id": 18604631}, {"name": "Watermills", "id": 922375}], "successors": []}

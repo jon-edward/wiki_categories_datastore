@@ -1,1 +1,1 @@
-{"name": "Executed_women", "id": 18589716, "predecessors": [{"name": "Women_sentenced_to_death", "id": 46934869}], "successors": []}
+{"name": "Executed_women", "id": 18589716, "predecessors": [{"name": "Women_sentenced_to_death", "id": 46934869}, {"name": "Women_and_death", "id": 18890911}], "successors": [{"name": "Executed_female_serial_killers", "id": 72553482}, {"name": "Executed_French_women", "id": 18910471}, {"name": "Executed_Russian_women", "id": 18910511}]}

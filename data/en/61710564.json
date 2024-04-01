@@ -1,1 +1,1 @@
-{"name": "Boarding_houses", "id": 61710564, "predecessors": [{"name": "Living_arrangements", "id": 1374137}], "successors": []}
+{"name": "Boarding_houses", "id": 61710564, "predecessors": [{"name": "Affordable_housing", "id": 7527573}, {"name": "House_types", "id": 803191}, {"name": "Living_arrangements", "id": 1374137}], "successors": []}

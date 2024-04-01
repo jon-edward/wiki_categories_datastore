@@ -1,1 +1,1 @@
-{"name": "Aircraft_air-cooled_inline_piston_engines", "id": 38007840, "predecessors": [{"name": "Air-cooled_aircraft_piston_engines", "id": 33983366}], "successors": []}
+{"name": "Aircraft_air-cooled_inline_piston_engines", "id": 38007840, "predecessors": [{"name": "Air-cooled_aircraft_piston_engines", "id": 33983366}, {"name": "Straight_engines", "id": 33728242}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Biological_warfare_facilities", "id": 10788718, "predecessors": [{"name": "Biological_warfare", "id": 2351476}], "successors": [{"name": "Fort_Detrick", "id": 39010699}]}
+{"name": "Biological_warfare_facilities", "id": 10788718, "predecessors": [{"name": "Biological_warfare", "id": 2351476}, {"name": "Buildings_and_structures_by_type", "id": 6884364}], "successors": [{"name": "Fort_Detrick", "id": 39010699}]}

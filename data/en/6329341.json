@@ -1,1 +1,1 @@
-{"name": "Monetary_economics", "id": 6329341, "predecessors": [{"name": "Macroeconomics", "id": 1005920}, {"name": "Money", "id": 1754852}, {"name": "Political_economy", "id": 2021121}], "successors": [{"name": "Interest_rates", "id": 2021176}]}
+{"name": "Monetary_economics", "id": 6329341, "predecessors": [{"name": "Macroeconomics", "id": 1005920}, {"name": "Money", "id": 1754852}, {"name": "Political_economy", "id": 2021121}], "successors": [{"name": "Interest_rates", "id": 2021176}, {"name": "Monetary_policy", "id": 2062676}, {"name": "Financial_crises", "id": 11354087}]}

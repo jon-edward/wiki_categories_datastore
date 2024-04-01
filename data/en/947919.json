@@ -1,1 +1,1 @@
-{"name": "University_of_Chicago", "id": 947919, "predecessors": [{"name": "NCAA_Division_I", "id": 27934135}, {"name": "NCAA_conferences", "id": 27935685}], "successors": [{"name": "Argonne_National_Laboratory", "id": 2403447}]}
+{"name": "University_of_Chicago", "id": 947919, "predecessors": [{"name": "Universities_and_colleges_in_Chicago", "id": 21825133}, {"name": "NCAA_Division_I", "id": 27934135}, {"name": "NCAA_conferences", "id": 27935685}], "successors": [{"name": "Argonne_National_Laboratory", "id": 2403447}, {"name": "Fermilab", "id": 23207441}]}

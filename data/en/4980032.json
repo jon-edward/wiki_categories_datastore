@@ -1,1 +1,1 @@
-{"name": "Antivirus_software", "id": 4980032, "predecessors": [{"name": "Computer_network_security", "id": 4651913}, {"name": "Computer_security_software", "id": 22273150}], "successors": [{"name": "Norton_(software)", "id": 72281134}]}
+{"name": "Antivirus_software", "id": 4980032, "predecessors": [{"name": "Computer_network_security", "id": 4651913}, {"name": "Computer_security_software", "id": 22273150}], "successors": [{"name": "Screenshots_of_antivirus_software", "id": 21259840}, {"name": "Norton_(software)", "id": 72281134}]}

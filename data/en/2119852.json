@@ -1,0 +1,1 @@
+{"name": "Recycling", "id": 2119852, "predecessors": [{"name": "Energy_conversion", "id": 1947340}, {"name": "Water_conservation", "id": 4496458}], "successors": [{"name": "Composting", "id": 2300055}, {"name": "Container_deposit_legislation", "id": 47475300}]}

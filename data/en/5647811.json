@@ -1,1 +1,1 @@
-{"name": "National_Basketball_Association_All-Star_Game", "id": 5647811, "predecessors": [{"name": "Basketball_all-star_games", "id": 54359830}, {"name": "National_Basketball_Association_games", "id": 30125308}], "successors": []}
+{"name": "NBA_All-Star_Game", "id": 5647811, "predecessors": [{"name": "Basketball_all-star_games", "id": 54359830}, {"name": "NBA_games", "id": 30125308}], "successors": []}

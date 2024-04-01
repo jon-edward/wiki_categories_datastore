@@ -1,1 +1,1 @@
-{"name": "Vinnere_av_Nordisk_råds_filmpris", "id": 1275422, "predecessors": [{"name": "Nordisk_råd", "id": 1097843}, {"name": "Priser", "id": 11385}, {"name": "Film", "id": 8911}], "successors": []}
+{"name": "Vinnere_av_Nordisk_råds_filmpris", "id": 1275422, "predecessors": [{"name": "Filmpriser", "id": 101344}, {"name": "Nordisk_råd", "id": 1097843}, {"name": "Priser", "id": 11385}], "successors": []}

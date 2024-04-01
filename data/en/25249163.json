@@ -1,1 +1,1 @@
-{"name": "Printing_terminology", "id": 25249163, "predecessors": [{"name": "Printing", "id": 774014}, {"name": "Publishing", "id": 1001911}], "successors": [{"name": "Book_terminology", "id": 13123242}, {"name": "Newspaper_terminology", "id": 24125759}]}
+{"name": "Printing_terminology", "id": 25249163, "predecessors": [{"name": "Printing", "id": 774014}], "successors": [{"name": "Book_terminology", "id": 13123242}, {"name": "Newspaper_terminology", "id": 24125759}]}

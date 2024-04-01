@@ -1,1 +1,1 @@
-{"name": "Proving_grounds", "id": 17279071, "predecessors": [{"name": "Tests", "id": 7058186}], "successors": [{"name": "Weapons_test_sites", "id": 7058241}]}
+{"name": "Proving_grounds", "id": 17279071, "predecessors": [{"name": "Tests", "id": 7058186}, {"name": "Buildings_and_structures_by_type", "id": 6884364}], "successors": [{"name": "Weapons_test_sites", "id": 7058241}]}

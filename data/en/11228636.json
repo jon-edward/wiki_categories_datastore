@@ -1,0 +1,1 @@
+{"name": "Transistor_types", "id": 11228636, "predecessors": [{"name": "Transistors", "id": 1240627}], "successors": [{"name": "Bipolar_transistors", "id": 48944299}, {"name": "MOSFETs", "id": 48945765}, {"name": "Field-effect_transistors", "id": 48945822}]}

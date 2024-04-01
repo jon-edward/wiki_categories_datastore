@@ -1,1 +1,1 @@
-{"name": "Falconry", "id": 2598366, "predecessors": [{"name": "Animal_training", "id": 10097726}, {"name": "Aviculture", "id": 1097161}, {"name": "Falcons", "id": 2005551}, {"name": "Birds", "id": 953524}], "successors": []}
+{"name": "Falconry", "id": 2598366, "predecessors": [{"name": "Animal_training", "id": 10097726}, {"name": "Aviculture", "id": 1097161}, {"name": "History_of_hunting", "id": 38926479}, {"name": "Hunting_methods", "id": 23855718}, {"name": "Birds", "id": 953524}], "successors": []}

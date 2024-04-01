@@ -1,1 +1,1 @@
-{"name": "Vegetarian_cookbook_writers", "id": 69707243, "predecessors": [{"name": "Vegetarian_cookbooks", "id": 32116233}], "successors": [{"name": "Vegan_cookbook_writers", "id": 69692901}]}
+{"name": "Vegetarian_cookbook_writers", "id": 69707243, "predecessors": [{"name": "Cookbook_writers", "id": 38321683}, {"name": "Vegetarian_cookbooks", "id": 32116233}], "successors": [{"name": "Vegan_cookbook_writers", "id": 69692901}]}

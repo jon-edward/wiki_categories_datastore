@@ -1,0 +1,1 @@
+{"name": "Car_ownership", "id": 42009098, "predecessors": [{"name": "Ownership", "id": 40528816}], "successors": [{"name": "Vehicle_insurance", "id": 13564827}, {"name": "Conservation_and_restoration_of_vehicles", "id": 52372953}]}

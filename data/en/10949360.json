@@ -1,1 +1,1 @@
-{"name": "Pain_scales", "id": 10949360, "predecessors": [{"name": "Medical_scales", "id": 5993801}], "successors": []}
+{"name": "Pain_scales", "id": 10949360, "predecessors": [{"name": "Medical_scales", "id": 5993801}, {"name": "Pain_management", "id": 46628123}], "successors": []}

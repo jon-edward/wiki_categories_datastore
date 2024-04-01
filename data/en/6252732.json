@@ -1,1 +1,1 @@
-{"name": "Dragomans", "id": 6252732, "predecessors": [{"name": "Interpreters", "id": 13537905}], "successors": [{"name": "Dragomans_of_the_Porte", "id": 53932006}]}
+{"name": "Dragomans", "id": 6252732, "predecessors": [{"name": "Interpreters", "id": 13537905}, {"name": "Diplomacy", "id": 911551}], "successors": [{"name": "Dragomans_of_the_Porte", "id": 53932006}]}

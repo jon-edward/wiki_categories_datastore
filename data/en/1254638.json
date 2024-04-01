@@ -1,1 +1,1 @@
-{"name": "Road_junction_types", "id": 1254638, "predecessors": [{"name": "Locale_(geographic)", "id": 53235359}], "successors": []}
+{"name": "Road_junction_types", "id": 1254638, "predecessors": [{"name": "Locale_(geographic)", "id": 53235359}, {"name": "Transport_infrastructure", "id": 2962532}, {"name": "Road_infrastructure", "id": 2963113}], "successors": [{"name": "Road_interchanges", "id": 30558601}, {"name": "Roundabouts_and_traffic_circles", "id": 38973698}]}

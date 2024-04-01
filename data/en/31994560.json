@@ -1,1 +1,1 @@
-{"name": "Motorcycle_dynamics", "id": 31994560, "predecessors": [{"name": "Motorcycle_safety", "id": 13045955}], "successors": []}
+{"name": "Motorcycle_dynamics", "id": 31994560, "predecessors": [{"name": "Motorcycle_safety", "id": 13045955}, {"name": "Motorcycle_technology", "id": 2881562}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "LGBT_theatre_directors", "id": 68829604, "predecessors": [{"name": "Arts_managers", "id": 4300880}, {"name": "Arts_occupations", "id": 5638026}, {"name": "Theatre", "id": 698600}], "successors": []}
+{"name": "LGBT_theatre_directors", "id": 68829604, "predecessors": [{"name": "Arts_managers", "id": 4300880}, {"name": "Directors", "id": 705298}, {"name": "Arts_occupations", "id": 5638026}], "successors": []}

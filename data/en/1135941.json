@@ -1,1 +1,1 @@
-{"name": "Nutritionists", "id": 1135941, "predecessors": [{"name": "Nutrition", "id": 9936002}, {"name": "Health", "id": 751381}], "successors": [{"name": "Diet_food_advocates", "id": 20415383}]}
+{"name": "Nutritionists", "id": 1135941, "predecessors": [{"name": "Nutrition", "id": 9936002}, {"name": "People_in_food_and_agriculture_occupations", "id": 1223913}, {"name": "Health", "id": 751381}], "successors": [{"name": "Diet_food_advocates", "id": 20415383}]}

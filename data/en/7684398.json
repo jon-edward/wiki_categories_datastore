@@ -1,1 +1,1 @@
-{"name": "Cellular_processes", "id": 7684398, "predecessors": [{"name": "Biological_processes", "id": 7684410}, {"name": "Cell_biology", "id": 714693}], "successors": [{"name": "Senescence", "id": 37107764}]}
+{"name": "Cellular_processes", "id": 7684398, "predecessors": [{"name": "Biological_processes", "id": 7684410}, {"name": "Cell_biology", "id": 714693}], "successors": [{"name": "Necrosis", "id": 36631009}, {"name": "Senescence", "id": 37107764}, {"name": "Cellular_senescence", "id": 37191052}]}

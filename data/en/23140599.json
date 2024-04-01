@@ -1,0 +1,1 @@
+{"name": "Hydraulic_structures", "id": 23140599, "predecessors": [{"name": "Water_supply_infrastructure", "id": 19139704}], "successors": [{"name": "Dams", "id": 800108}, {"name": "Weirs", "id": 7146956}, {"name": "Water_turbines", "id": 21378911}, {"name": "Breakwaters", "id": 23409571}, {"name": "Spillways", "id": 71538628}]}

@@ -1,1 +1,1 @@
-{"name": "Olympic_ski_jumping_venues", "id": 31072865, "predecessors": [{"name": "Ski_jumping_at_the_Winter_Olympics", "id": 33839627}, {"name": "Ski_jumping", "id": 1358850}], "successors": []}
+{"name": "Olympic_ski_jumping_venues", "id": 31072865, "predecessors": [{"name": "Ski_jumping_at_the_Winter_Olympics", "id": 33839627}, {"name": "Ski_jumping", "id": 1358850}, {"name": "Event_management", "id": 38591267}], "successors": []}

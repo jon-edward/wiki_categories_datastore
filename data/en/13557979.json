@@ -1,0 +1,1 @@
+{"name": "Pneumatics", "id": 13557979, "predecessors": [{"name": "Gas_technologies", "id": 19500591}, {"name": "Fluid_mechanics", "id": 1162560}], "successors": [{"name": "Wind_tunnels", "id": 16907601}, {"name": "Tubing_(material)", "id": 38552160}]}

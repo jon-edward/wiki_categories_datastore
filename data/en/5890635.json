@@ -1,1 +1,1 @@
-{"name": "Buffalo_jumps", "id": 5890635, "predecessors": [{"name": "Animal_cemeteries", "id": 33166077}, {"name": "Bison_hunting", "id": 25656440}, {"name": "Slope_landforms", "id": 11062700}], "successors": []}
+{"name": "Buffalo_jumps", "id": 5890635, "predecessors": [{"name": "Animal_cemeteries", "id": 33166077}, {"name": "Bison_hunting", "id": 25656440}, {"name": "Hunting_in_the_United_States", "id": 7179775}, {"name": "Slope_landforms", "id": 11062700}, {"name": "Hunting", "id": 1067592}], "successors": []}

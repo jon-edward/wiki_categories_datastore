@@ -1,1 +1,1 @@
-{"name": "Chrysler_factories", "id": 12599741, "predecessors": [{"name": "Chrysler", "id": 860407}], "successors": []}
+{"name": "Chrysler_factories", "id": 12599741, "predecessors": [{"name": "Chrysler", "id": 860407}, {"name": "Manufacturing_plants", "id": 2003393}], "successors": []}

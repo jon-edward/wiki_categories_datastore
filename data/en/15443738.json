@@ -1,1 +1,1 @@
-{"name": "Dedicated_ebook_devices", "id": 15443738, "predecessors": [{"name": "Ebooks", "id": 30859902}, {"name": "Electronic_paper_technology", "id": 6980297}, {"name": "Mobile_computers", "id": 15935563}], "successors": []}
+{"name": "Dedicated_ebook_devices", "id": 15443738, "predecessors": [{"name": "Consumer_electronics", "id": 880368}, {"name": "Ebooks", "id": 30859902}, {"name": "Electronic_paper_technology", "id": 6980297}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Magnetic_resonance_imaging", "id": 6005805, "predecessors": [{"name": "Medical_imaging", "id": 1745805}], "successors": []}
+{"name": "Magnetic_resonance_imaging", "id": 6005805, "predecessors": [{"name": "Medical_imaging", "id": 1745805}, {"name": "Nuclear_magnetic_resonance", "id": 3937372}], "successors": []}

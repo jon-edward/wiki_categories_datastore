@@ -1,1 +1,1 @@
-{"name": "Undergrunnsbane", "id": 35660, "predecessors": [{"name": "Jernbane", "id": 13449}], "successors": [{"name": "Undergrunnsbane_i_Europa", "id": 2008125}, {"name": "Undergrunnsbane_i_Asia", "id": 2008128}]}
+{"name": "Undergrunnsbane", "id": 35660, "predecessors": [{"name": "Jernbane", "id": 13449}, {"name": "Arkitektur", "id": 10949}], "successors": [{"name": "Undergrunnsbane_i_Europa", "id": 2008125}, {"name": "Undergrunnsbane_i_Asia", "id": 2008128}]}

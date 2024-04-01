@@ -1,1 +1,1 @@
-{"name": "Structural_geology", "id": 1109965, "predecessors": [{"name": "Geology", "id": 697077}], "successors": [{"name": "Structural_geologists", "id": 43265730}]}
+{"name": "Structural_geology", "id": 1109965, "predecessors": [{"name": "Geology", "id": 697077}], "successors": [{"name": "Strike-slip_faults", "id": 39289791}, {"name": "Structural_geologists", "id": 43265730}, {"name": "Thrust_faults", "id": 54354274}, {"name": "Active_faults", "id": 54354289}, {"name": "Inactive_faults", "id": 54712054}]}

@@ -1,1 +1,1 @@
-{"name": "Indian_cricket_coaches", "id": 23092976, "predecessors": [{"name": "Indian_sports_coaches", "id": 17909046}], "successors": [{"name": "Coaches_of_the_Indian_national_cricket_team", "id": 17021521}]}
+{"name": "Indian_cricket_coaches", "id": 23092976, "predecessors": [{"name": "Indian_sports_coaches", "id": 17909046}, {"name": "Cricket", "id": 692385}], "successors": [{"name": "Coaches_of_the_Indian_national_cricket_team", "id": 17021521}]}

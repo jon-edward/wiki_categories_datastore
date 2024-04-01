@@ -1,1 +1,1 @@
-{"name": "Chrysler_engines", "id": 861178, "predecessors": [{"name": "Chrysler", "id": 860407}], "successors": [{"name": "Jeep_engines", "id": 940463}]}
+{"name": "Chrysler_engines", "id": 861178, "predecessors": [{"name": "Automobile_engines", "id": 773958}, {"name": "Chrysler", "id": 860407}, {"name": "Engines", "id": 743017}], "successors": [{"name": "Jeep_engines", "id": 940463}]}

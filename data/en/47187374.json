@@ -1,1 +1,1 @@
-{"name": "Life_sciences", "id": 47187374, "predecessors": [{"name": "Inquiry", "id": 21994999}], "successors": [{"name": "Biology", "id": 692675}, {"name": "Biotechnology", "id": 888826}, {"name": "Life_sciences_industry", "id": 47317803}]}
+{"name": "Life_sciences", "id": 47187374, "predecessors": [{"name": "Science", "id": 691182}], "successors": [{"name": "Biology", "id": 692675}, {"name": "Biotechnology", "id": 888826}, {"name": "Life_sciences_industry", "id": 47317803}]}

@@ -1,1 +1,1 @@
-{"name": "Diffraction", "id": 2919864, "predecessors": [{"name": "Crystallography", "id": 701729}, {"name": "Spectroscopy", "id": 697614}, {"name": "Wave_mechanics", "id": 991325}], "successors": [{"name": "X-ray_scattering", "id": 34881201}]}
+{"name": "Diffraction", "id": 2919864, "predecessors": [{"name": "Crystallography", "id": 701729}, {"name": "Physical_optics", "id": 5228283}, {"name": "Spectroscopy", "id": 697614}, {"name": "Wave_mechanics", "id": 991325}], "successors": [{"name": "X-ray_scattering", "id": 34881201}]}

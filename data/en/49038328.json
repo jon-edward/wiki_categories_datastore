@@ -1,1 +1,1 @@
-{"name": "Unbuilt_stadiums", "id": 49038328, "predecessors": [{"name": "Unbuilt_buildings_and_structures", "id": 16587169}], "successors": []}
+{"name": "Unbuilt_stadiums", "id": 49038328, "predecessors": [{"name": "Stadiums", "id": 712393}, {"name": "Sports_venues", "id": 3826004}], "successors": []}

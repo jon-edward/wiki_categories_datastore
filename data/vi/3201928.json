@@ -1,1 +1,0 @@
-{"name": "Thử_nghiệm_sản_phẩm", "id": 3201928, "predecessors": [{"name": "Kiểm_tra_và_thử_nghiệm", "id": 3222699}, {"name": "Hàng_hóa", "id": 37646}, {"name": "Người_tiêu_dùng", "id": 3429797}], "successors": [{"name": "Trang_web_đánh_giá", "id": 2417217}, {"name": "Kiểm_thử_phần_mềm", "id": 3221574}, {"name": "Chương_trình_đánh_giá_xe_mới", "id": 14920693}]}

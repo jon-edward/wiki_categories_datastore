@@ -1,1 +1,0 @@
-{"name": "Intermodaal_goederenvervoer", "id": 5686674, "predecessors": [{"name": "Goederenvervoer", "id": 80543}, {"name": "Verkeer_en_vervoer", "id": 80542}], "successors": [{"name": "Railterminal", "id": 5839801}, {"name": "Containerschip_op_naam", "id": 1202709}]}

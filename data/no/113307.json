@@ -1,1 +1,1 @@
-{"name": "TVNorge", "id": 113307, "predecessors": [{"name": "Norske_TV-kanaler", "id": 204912}, {"name": "Fjernsynsselskaper", "id": 788365}], "successors": [{"name": "TV-produksjoner_på_TVNorge", "id": 1233541}, {"name": "Programledere_for_TVNorge", "id": 534316}]}
+{"name": "TVNorge", "id": 113307, "predecessors": [{"name": "Norske_TV-kanaler", "id": 204912}, {"name": "Warner_Bros._Discovery", "id": 2172487}], "successors": [{"name": "TV-produksjoner_på_TVNorge", "id": 1233541}, {"name": "Programledere_for_TVNorge", "id": 534316}]}

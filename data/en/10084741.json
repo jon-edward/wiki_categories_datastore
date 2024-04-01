@@ -1,1 +1,1 @@
-{"name": "Lyme_disease", "id": 10084741, "predecessors": [{"name": "Medical_controversies", "id": 10973834}], "successors": [{"name": "Lyme_disease_researchers", "id": 40789414}]}
+{"name": "Lyme_disease", "id": 10084741, "predecessors": [{"name": "Bacterium-related_cutaneous_conditions", "id": 23045970}, {"name": "Medical_controversies", "id": 10973834}, {"name": "Tick-borne_diseases", "id": 28888506}, {"name": "Vaccine-preventable_diseases", "id": 56263158}], "successors": [{"name": "Lyme_disease_researchers", "id": 40789414}]}

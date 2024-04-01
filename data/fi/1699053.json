@@ -1,1 +1,1 @@
-{"name": "Fenotiatsiinit", "id": 1699053, "predecessors": [{"name": "Aromaattiset_heterosykliset_typpiyhdisteet", "id": 1784917}, {"name": "Orgaaniset_rikkiyhdisteet", "id": 1785370}], "successors": []}
+{"name": "Fenotiatsiinit", "id": 1699053, "predecessors": [{"name": "Aromaattiset_heterosykliset_typpiyhdisteet", "id": 1784917}, {"name": "Heterosykliset_yhdisteet", "id": 262541}, {"name": "Orgaaniset_rikkiyhdisteet", "id": 1785370}], "successors": []}

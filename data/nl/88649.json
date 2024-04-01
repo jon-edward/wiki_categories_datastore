@@ -1,1 +1,0 @@
-{"name": "School", "id": 88649, "predecessors": [{"name": "Onderwijsproces", "id": 1864644}, {"name": "Instituut", "id": 97288}], "successors": [{"name": "Schoolvak", "id": 984398}, {"name": "Schooltype", "id": 1282113}, {"name": "School_in_de_Verenigde_Staten", "id": 292296}, {"name": "School_in_het_Verenigd_Koninkrijk", "id": 292301}]}

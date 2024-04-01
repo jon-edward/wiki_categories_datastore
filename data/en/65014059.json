@@ -1,1 +1,1 @@
-{"name": "Hotel_bombings", "id": 65014059, "predecessors": [{"name": "Violence", "id": 692173}, {"name": "Explosions", "id": 2650747}], "successors": [{"name": "1993_Bombay_bombings", "id": 10610564}, {"name": "2019_Sri_Lanka_Easter_bombings", "id": 60576090}]}
+{"name": "Hotel_bombings", "id": 65014059, "predecessors": [{"name": "Occupational_hazards", "id": 53924025}, {"name": "Explosive_weapons", "id": 1150760}], "successors": [{"name": "1993_Bombay_bombings", "id": 10610564}, {"name": "2019_Sri_Lanka_Easter_bombings", "id": 60576090}]}

@@ -1,1 +1,1 @@
-{"name": "Mountain_artillery", "id": 1691128, "predecessors": [{"name": "Mountain_warfare", "id": 28311648}], "successors": [{"name": "World_War_I_mountain_artillery", "id": 25219669}, {"name": "World_War_II_mountain_artillery", "id": 25219746}]}
+{"name": "Mountain_artillery", "id": 1691128, "predecessors": [{"name": "Artillery_by_type", "id": 13392456}, {"name": "Mountain_warfare", "id": 28311648}], "successors": [{"name": "World_War_I_mountain_artillery", "id": 25219669}, {"name": "World_War_II_mountain_artillery", "id": 25219746}]}

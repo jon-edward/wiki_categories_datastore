@@ -1,1 +1,1 @@
-{"name": "Model_selection", "id": 27955209, "predecessors": [{"name": "Statistical_inference", "id": 17193265}], "successors": []}
+{"name": "Model_selection", "id": 27955209, "predecessors": [{"name": "Statistical_inference", "id": 17193265}], "successors": [{"name": "Regression_variable_selection", "id": 19259559}]}

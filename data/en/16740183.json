@@ -1,1 +1,1 @@
-{"name": "Reliability_analysis", "id": 16740183, "predecessors": [{"name": "Reliability_engineering", "id": 2225244}, {"name": "Risk_analysis", "id": 5673643}], "successors": []}
+{"name": "Reliability_analysis", "id": 16740183, "predecessors": [{"name": "Reliability_engineering", "id": 2225244}, {"name": "Risk_analysis", "id": 5673643}], "successors": [{"name": "Reliability_indices", "id": 70557112}]}

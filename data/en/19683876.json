@@ -1,1 +1,1 @@
-{"name": "Energy_research_institutes", "id": 19683876, "predecessors": [{"name": "Energy_organizations", "id": 18605597}, {"name": "Energy_research", "id": 55528346}], "successors": [{"name": "United_States_Department_of_Energy_national_laboratories", "id": 42594949}]}
+{"name": "Energy_research_institutes", "id": 19683876, "predecessors": [{"name": "Energy_organizations", "id": 18605597}], "successors": [{"name": "United_States_Department_of_Energy_national_laboratories", "id": 42594949}]}

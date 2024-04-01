@@ -1,1 +1,1 @@
-{"name": "Beauty_pageant_hosts", "id": 40376494, "predecessors": [{"name": "Masters_of_ceremonies", "id": 24782320}, {"name": "Radio_and_television_announcers", "id": 1050899}], "successors": []}
+{"name": "Beauty_pageant_hosts", "id": 40376494, "predecessors": [{"name": "Radio_and_television_announcers", "id": 1050899}, {"name": "Beauty_pageants", "id": 1048752}], "successors": []}

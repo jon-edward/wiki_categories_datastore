@@ -1,1 +1,1 @@
-{"name": "Amyotrophic_lateral_sclerosis", "id": 51014639, "predecessors": [{"name": "Unsolved_problems_in_neuroscience", "id": 1955389}], "successors": [{"name": "People_with_motor_neuron_disease", "id": 30447958}]}
+{"name": "Amyotrophic_lateral_sclerosis", "id": 51014639, "predecessors": [{"name": "Motor_neuron_diseases", "id": 30447951}, {"name": "Rare_diseases", "id": 1116081}, {"name": "Unsolved_problems_in_neuroscience", "id": 1955389}], "successors": []}

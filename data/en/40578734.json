@@ -1,1 +1,1 @@
-{"name": "FK_Borec_players", "id": 40578734, "predecessors": [{"name": "Football_clubs_in_North_Macedonia", "id": 34431534}], "successors": []}
+{"name": "FK_Borec_players", "id": 40578734, "predecessors": [{"name": "Football_clubs_in_North_Macedonia", "id": 34431534}, {"name": "Athletic_sports", "id": 31210709}], "successors": []}

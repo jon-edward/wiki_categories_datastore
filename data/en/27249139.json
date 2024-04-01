@@ -1,1 +1,1 @@
-{"name": "Military_personnel_killed_by_friendly_fire", "id": 27249139, "predecessors": [{"name": "Accidental_deaths", "id": 2301018}, {"name": "Friendly_fire_incidents", "id": 9871990}, {"name": "Military_personnel_killed_in_action", "id": 14690273}], "successors": []}
+{"name": "Military_personnel_killed_by_friendly_fire", "id": 27249139, "predecessors": [{"name": "Friendly_fire_incidents", "id": 9871990}, {"name": "Military_personnel_killed_in_action", "id": 14690273}], "successors": []}

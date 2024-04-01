@@ -1,1 +1,1 @@
-{"name": "Golf_course_architects", "id": 1569177, "predecessors": [{"name": "Golf_clubs_and_courses", "id": 1632087}, {"name": "Golf_people", "id": 23977499}, {"name": "Landscape_architects", "id": 2738572}], "successors": []}
+{"name": "Golf_course_architects", "id": 1569177, "predecessors": [{"name": "Landscape_architects", "id": 2738572}, {"name": "Sports_venue_architects", "id": 57496645}], "successors": []}

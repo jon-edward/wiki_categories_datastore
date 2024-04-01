@@ -1,1 +1,1 @@
-{"name": "Space_hardware_returned_to_Earth_intact", "id": 41614559, "predecessors": [{"name": "Atmospheric_entry", "id": 46579951}], "successors": []}
+{"name": "Space_hardware_returned_to_Earth_intact", "id": 41614559, "predecessors": [{"name": "Atmospheric_entry", "id": 46579951}, {"name": "Spacecraft_components", "id": 974792}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Christian_music_festivals", "id": 4703212, "predecessors": [{"name": "Christian_music", "id": 716278}, {"name": "Arts_events", "id": 27486124}, {"name": "Religious_music", "id": 696379}], "successors": [{"name": "Camp_meeting_grounds", "id": 71952679}]}
+{"name": "Christian_music_festivals", "id": 4703212, "predecessors": [{"name": "Christian_music", "id": 716278}, {"name": "Christian_events", "id": 3381186}, {"name": "Arts_events", "id": 27486124}, {"name": "Religious_music", "id": 696379}], "successors": [{"name": "Camp_meeting_grounds", "id": 71952679}]}

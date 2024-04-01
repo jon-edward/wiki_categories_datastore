@@ -1,1 +1,1 @@
-{"name": "Seinaleen_prozesaketa", "id": 6425, "predecessors": [{"name": "Telekomunikazio_ingeniaritza", "id": 586463}, {"name": "Telekomunikazioak", "id": 6344}, {"name": "Informatika", "id": 5784}], "successors": [{"name": "Irudien_prozesatzea", "id": 985324}]}
+{"name": "Seinaleen_prozesaketa", "id": 6425, "predecessors": [{"name": "Telekomunikazio_ingeniaritza", "id": 586463}, {"name": "Telekomunikazioak", "id": 6344}, {"name": "Informatika", "id": 5784}], "successors": [{"name": "Transduktoreak", "id": 599271}, {"name": "Irudien_prozesatzea", "id": 985324}]}

@@ -1,1 +1,1 @@
-{"name": "Mechanical_vibrations", "id": 13532645, "predecessors": [{"name": "Oscillation", "id": 14056709}, {"name": "Periodic_phenomena", "id": 6993687}, {"name": "Structural_engineering", "id": 1600827}], "successors": [{"name": "Vibrators", "id": 58944934}, {"name": "Frequency", "id": 66501513}]}
+{"name": "Mechanical_vibrations", "id": 13532645, "predecessors": [{"name": "Oscillation", "id": 14056709}, {"name": "Periodic_phenomena", "id": 6993687}], "successors": [{"name": "Vibrators", "id": 58944934}, {"name": "Frequency", "id": 66501513}]}

@@ -1,1 +1,1 @@
-{"name": "Scottish_knights", "id": 6343806, "predecessors": [{"name": "Scottish_soldiers", "id": 2395658}, {"name": "Society_of_Scotland", "id": 1746518}, {"name": "Titles_in_Scotland", "id": 22127903}], "successors": [{"name": "Knights_of_the_Thistle", "id": 2345772}, {"name": "Medieval_Scottish_knights", "id": 52330681}]}
+{"name": "Scottish_knights", "id": 6343806, "predecessors": [{"name": "Society_of_Scotland", "id": 1746518}], "successors": []}

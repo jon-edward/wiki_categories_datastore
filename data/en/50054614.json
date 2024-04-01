@@ -1,1 +1,1 @@
-{"name": "IP_addresses", "id": 50054614, "predecessors": [{"name": "Network_addressing", "id": 5075431}], "successors": []}
+{"name": "IP_addresses", "id": 50054614, "predecessors": [{"name": "Internet_Protocol", "id": 10292916}, {"name": "Network_addressing", "id": 5075431}], "successors": []}

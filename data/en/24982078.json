@@ -1,0 +1,1 @@
+{"name": "Bank_failures", "id": 24982078, "predecessors": [{"name": "Banking_crises", "id": 53085548}, {"name": "Financial_crises", "id": 11354087}], "successors": [{"name": "Bank_failures_in_the_United_States", "id": 33719190}]}

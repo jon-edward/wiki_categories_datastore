@@ -1,1 +1,1 @@
-{"name": "Syndromes_with_cleft_lip_and/or_palate", "id": 53618653, "predecessors": [{"name": "Lip_disorders", "id": 32544183}, {"name": "Palate", "id": 32635424}], "successors": []}
+{"name": "Syndromes_with_cleft_lip_and/or_palate", "id": 53618653, "predecessors": [{"name": "Lip_disorders", "id": 32544183}, {"name": "Palate", "id": 32635424}, {"name": "Syndromes_with_craniofacial_abnormalities", "id": 53611926}], "successors": []}

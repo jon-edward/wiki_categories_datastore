@@ -1,1 +1,1 @@
-{"name": "H-II_Transfer_Vehicles", "id": 40251629, "predecessors": [{"name": "Cargo_spacecraft", "id": 2175736}, {"name": "Supply_vehicles_for_the_International_Space_Station", "id": 30692468}], "successors": []}
+{"name": "H-II_Transfer_Vehicles", "id": 40251629, "predecessors": [{"name": "Spacecraft_launched_by_H-II_rockets", "id": 52708755}, {"name": "Supply_vehicles_for_the_International_Space_Station", "id": 30692468}], "successors": []}

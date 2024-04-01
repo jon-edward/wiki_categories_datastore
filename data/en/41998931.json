@@ -1,1 +1,1 @@
-{"name": "Eye_hospitals", "id": 41998931, "predecessors": [{"name": "Ophthalmology", "id": 765995}, {"name": "Ophthalmology_organizations", "id": 20288809}], "successors": []}
+{"name": "Eye_hospitals", "id": 41998931, "predecessors": [{"name": "Ophthalmology", "id": 765995}, {"name": "Types_of_hospitals", "id": 71789932}], "successors": []}

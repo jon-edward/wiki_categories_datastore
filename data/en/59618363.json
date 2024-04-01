@@ -1,1 +1,1 @@
-{"name": "Barelvi_mosques", "id": 59618363, "predecessors": [{"name": "Sunni_mosques", "id": 36199605}, {"name": "Mosques", "id": 724748}], "successors": []}
+{"name": "Barelvi_mosques", "id": 59618363, "predecessors": [{"name": "Barelvi", "id": 24813304}, {"name": "Sunni_mosques", "id": 36199605}, {"name": "Islamic_branches", "id": 44442897}], "successors": []}

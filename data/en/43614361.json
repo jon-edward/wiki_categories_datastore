@@ -1,1 +1,1 @@
-{"name": "Foreign_hostages_in_Syria", "id": 43614361, "predecessors": [{"name": "Kidnapping", "id": 28987053}, {"name": "Hostage_taking", "id": 2395034}], "successors": []}
+{"name": "Foreign_hostages_in_Syria", "id": 43614361, "predecessors": [{"name": "Foreign_relations_of_Syria", "id": 2990500}, {"name": "Crimes", "id": 694944}, {"name": "Hostage_taking", "id": 2395034}, {"name": "Kidnapping", "id": 28987053}], "successors": []}

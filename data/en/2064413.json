@@ -1,1 +1,1 @@
-{"name": "Nazi_parties", "id": 2064413, "predecessors": [{"name": "Fascist_parties", "id": 4633782}, {"name": "Nazism", "id": 747763}], "successors": [{"name": "Neo-Nazi_political_parties", "id": 953337}, {"name": "Ustaše", "id": 24574531}, {"name": "Nazi_Party", "id": 35037231}]}
+{"name": "Nazi_parties", "id": 2064413, "predecessors": [{"name": "Nazism", "id": 747763}], "successors": [{"name": "Neo-Nazi_political_parties", "id": 953337}, {"name": "Ustaše", "id": 24574531}, {"name": "Nazi_Party", "id": 35037231}, {"name": "Members_of_Nasjonal_Samling", "id": 16212026}]}

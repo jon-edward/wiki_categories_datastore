@@ -1,1 +1,1 @@
-{"name": "Online_insurance_companies", "id": 29504534, "predecessors": [{"name": "E-commerce", "id": 38191116}], "successors": []}
+{"name": "Online_insurance_companies", "id": 29504534, "predecessors": [{"name": "Insurance_companies", "id": 890435}, {"name": "E-commerce", "id": 38191116}], "successors": []}

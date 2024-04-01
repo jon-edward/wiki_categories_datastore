@@ -1,1 +1,1 @@
-{"name": "Bedford_vehicles", "id": 1213492, "predecessors": [{"name": "General_Motors_vehicles", "id": 852440}, {"name": "Vauxhall_vehicles", "id": 852160}], "successors": []}
+{"name": "Bedford_vehicles", "id": 1213492, "predecessors": [{"name": "Vauxhall_vehicles", "id": 852160}], "successors": []}

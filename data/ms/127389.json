@@ -1,1 +1,1 @@
-{"name": "Gejala", "id": 127389, "predecessors": [{"name": "Penyakit_dan_gangguan", "id": 161300}], "successors": [{"name": "Gejala_dan_tanda:_Sistem_pernafasan", "id": 881973}, {"name": "Kesakitan", "id": 661785}]}
+{"name": "Gejala", "id": 127389, "predecessors": [{"name": "Penyakit_dan_gangguan", "id": 161300}], "successors": [{"name": "Gejala_dan_tanda:_Sistem_pernafasan", "id": 881973}, {"name": "Gejala_dan_tanda:_Sistem_penghadaman_dan_abdomen", "id": 881980}, {"name": "Kesakitan", "id": 661785}]}

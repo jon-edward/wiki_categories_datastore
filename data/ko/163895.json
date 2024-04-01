@@ -1,1 +1,0 @@
-{"name": "직렬_버스", "id": 163895, "predecessors": [{"name": "물리_계층_프로토콜", "id": 927484}, {"name": "컴퓨터_버스", "id": 317666}], "successors": [{"name": "USB", "id": 635668}, {"name": "MIDI", "id": 1010746}, {"name": "MIDI_표준", "id": 1768362}, {"name": "직렬_ATA", "id": 2927311}]}

@@ -1,1 +1,1 @@
-{"name": "2019_measles_outbreaks", "id": 60693561, "predecessors": [{"name": "2019_disease_outbreaks", "id": 71277464}, {"name": "Diseases_and_disorders", "id": 16705267}], "successors": []}
+{"name": "2019_measles_outbreaks", "id": 60693561, "predecessors": [{"name": "2019_disease_outbreaks", "id": 71277464}, {"name": "Measles", "id": 29261665}], "successors": []}

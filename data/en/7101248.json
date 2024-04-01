@@ -1,1 +1,1 @@
-{"name": "Hanafis", "id": 7101248, "predecessors": [{"name": "Schools_of_Sunni_jurisprudence", "id": 31965010}, {"name": "Islamic_jurisprudence", "id": 42879675}], "successors": []}
+{"name": "Hanafis", "id": 7101248, "predecessors": [{"name": "Sunni_Islam", "id": 725495}, {"name": "Sunni_Muslim_scholars_of_Islam", "id": 3297678}], "successors": [{"name": "Deobandis", "id": 7137913}, {"name": "Hanafi_fiqh_scholars", "id": 37021453}, {"name": "Maturidis", "id": 56498595}]}

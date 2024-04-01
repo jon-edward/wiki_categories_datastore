@@ -1,1 +1,1 @@
-{"name": "People_paroled_from_death_sentence", "id": 42341182, "predecessors": [{"name": "Capital_punishment", "id": 3519519}], "successors": []}
+{"name": "People_paroled_from_death_sentence", "id": 42341182, "predecessors": [{"name": "Parole", "id": 17978687}, {"name": "Capital_punishment", "id": 3519519}], "successors": []}

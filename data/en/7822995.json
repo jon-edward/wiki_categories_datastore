@@ -1,1 +1,1 @@
-{"name": "Financial_software_companies", "id": 7822995, "predecessors": [{"name": "Business_software_companies", "id": 14541812}, {"name": "Financial_software", "id": 8733307}, {"name": "Software_companies", "id": 695117}, {"name": "E-commerce", "id": 38191116}], "successors": [{"name": "Banking_software_companies", "id": 26988907}]}
+{"name": "Financial_software_companies", "id": 7822995, "predecessors": [{"name": "E-commerce", "id": 38191116}], "successors": [{"name": "Banking_software_companies", "id": 26988907}]}

@@ -1,0 +1,1 @@
+{"name": "Power_station_technology", "id": 17146317, "predecessors": [{"name": "Energy_technology", "id": 18634996}, {"name": "Power_stations", "id": 6093635}], "successors": [{"name": "Anaerobic_digestion", "id": 6141390}, {"name": "Cogeneration", "id": 28264731}, {"name": "Turbo_generators", "id": 75814881}]}

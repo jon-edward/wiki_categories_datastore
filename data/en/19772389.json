@@ -1,1 +1,1 @@
-{"name": "Siege_artillery", "id": 19772389, "predecessors": [{"name": "Warfare_by_type", "id": 4733422}], "successors": []}
+{"name": "Siege_artillery", "id": 19772389, "predecessors": [{"name": "Artillery_by_type", "id": 13392456}, {"name": "Anti-fortification_weapons", "id": 1156004}], "successors": []}

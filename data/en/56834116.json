@@ -1,1 +1,1 @@
-{"name": "Squad_automatic_weapons", "id": 56834116, "predecessors": [{"name": "Infantry", "id": 1661306}], "successors": []}
+{"name": "Squad_automatic_weapons", "id": 56834116, "predecessors": [{"name": "Light_machine_guns", "id": 1547010}, {"name": "Infantry", "id": 1661306}], "successors": []}

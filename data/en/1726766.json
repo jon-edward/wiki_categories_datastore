@@ -1,1 +1,1 @@
-{"name": "Weapon_designers", "id": 1726766, "predecessors": [{"name": "Inventors", "id": 745438}], "successors": [{"name": "Firearm_designers", "id": 1033538}, {"name": "Ammunition_designers", "id": 25652599}, {"name": "Tank_designers", "id": 67663034}]}
+{"name": "Weapon_designers", "id": 1726766, "predecessors": [{"name": "Inventors", "id": 745438}, {"name": "Weapon_development", "id": 1935335}], "successors": [{"name": "Firearm_designers", "id": 1033538}, {"name": "Ammunition_designers", "id": 25652599}, {"name": "Tank_designers", "id": 67663034}]}

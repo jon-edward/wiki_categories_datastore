@@ -1,1 +1,1 @@
-{"name": "Roman_Catholic_shrines", "id": 34141273, "predecessors": [{"name": "Christian_holy_places", "id": 47593589}], "successors": []}
+{"name": "Roman_Catholic_shrines", "id": 34141273, "predecessors": [{"name": "Catholic_Church", "id": 733334}], "successors": [{"name": "Roman_Catholic_national_shrines", "id": 15817066}, {"name": "Roman_Catholic_shrines_in_Italy", "id": 52782704}, {"name": "Roman_Catholic_shrines_in_the_United_Kingdom", "id": 52782889}]}

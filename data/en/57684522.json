@@ -1,1 +1,1 @@
-{"name": "University_president_residences", "id": 57684522, "predecessors": [{"name": "Buildings_and_structures_by_type", "id": 6884364}], "successors": []}
+{"name": "University_president_residences", "id": 57684522, "predecessors": [{"name": "Heads_of_universities_and_colleges", "id": 41592334}, {"name": "Official_residences", "id": 1220237}, {"name": "Buildings_and_structures_by_type", "id": 6884364}], "successors": []}

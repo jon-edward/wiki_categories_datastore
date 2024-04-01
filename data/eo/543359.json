@@ -1,1 +1,1 @@
-{"name": "Patologoj", "id": 543359, "predecessors": [{"name": "Patologio", "id": 319023}, {"name": "Kuracistoj", "id": 54829}], "successors": [{"name": "Hungaraj_patologoj", "id": 448006}, {"name": "Germanaj_patologoj", "id": 622693}]}
+{"name": "Patologoj", "id": 543359, "predecessors": [{"name": "Patologio", "id": 319023}, {"name": "Kuracistoj", "id": 54829}], "successors": [{"name": "Hungaraj_patologoj", "id": 448006}, {"name": "Usonaj_patologoj", "id": 551990}, {"name": "Germanaj_patologoj", "id": 622693}]}

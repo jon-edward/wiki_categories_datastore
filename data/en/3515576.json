@@ -1,1 +1,1 @@
-{"name": "Candles", "id": 3515576, "predecessors": [{"name": "Fire", "id": 3734304}], "successors": []}
+{"name": "Candles", "id": 3515576, "predecessors": [{"name": "Fire", "id": 3734304}, {"name": "Light_sources", "id": 3522320}], "successors": []}

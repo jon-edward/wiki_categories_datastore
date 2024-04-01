@@ -1,1 +1,1 @@
-{"name": "Kayaking", "id": 4619291, "predecessors": [{"name": "Athletic_sports", "id": 31210709}], "successors": [{"name": "Kayakers", "id": 11770404}]}
+{"name": "Kayaking", "id": 4619291, "predecessors": [{"name": "Athletic_sports", "id": 31210709}, {"name": "Whitewater_sports", "id": 1188137}], "successors": [{"name": "Kayakers", "id": 11770404}]}

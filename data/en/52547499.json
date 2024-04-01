@@ -1,1 +1,1 @@
-{"name": "Health_risk", "id": 52547499, "predecessors": [{"name": "Health", "id": 751381}, {"name": "Risk", "id": 1257366}], "successors": [{"name": "Carcinogens", "id": 984223}]}
+{"name": "Health_risk", "id": 52547499, "predecessors": [{"name": "Health", "id": 751381}, {"name": "Risk", "id": 1257366}], "successors": [{"name": "Carcinogens", "id": 984223}, {"name": "Risk_factors", "id": 24386975}]}

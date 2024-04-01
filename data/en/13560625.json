@@ -1,1 +1,1 @@
-{"name": "Causeways", "id": 13560625, "predecessors": [{"name": "Coastal_construction", "id": 2274672}, {"name": "Cartography", "id": 716309}, {"name": "Artificial_landforms", "id": 23430128}], "successors": [{"name": "Causeways_in_Europe", "id": 18304407}]}
+{"name": "Causeways", "id": 13560625, "predecessors": [{"name": "Bridges", "id": 706304}, {"name": "Coastal_construction", "id": 2274672}, {"name": "Buildings_and_structures_by_type", "id": 6884364}, {"name": "Cartography", "id": 716309}, {"name": "Artificial_landforms", "id": 23430128}], "successors": []}

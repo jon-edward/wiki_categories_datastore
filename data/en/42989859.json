@@ -1,1 +1,1 @@
-{"name": "Irrigation_ministries", "id": 42989859, "predecessors": [{"name": "Agriculture_ministries", "id": 9612751}, {"name": "Irrigation", "id": 2304602}, {"name": "Water_management_authorities", "id": 2623476}], "successors": [{"name": "Ministry_of_Water_Resources_(India)", "id": 50181414}]}
+{"name": "Irrigation_ministries", "id": 42989859, "predecessors": [{"name": "Agriculture_ministries", "id": 9612751}, {"name": "Irrigation", "id": 2304602}, {"name": "Water_management_authorities", "id": 2623476}, {"name": "Water_ministries", "id": 20883795}], "successors": []}

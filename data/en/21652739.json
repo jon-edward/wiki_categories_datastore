@@ -1,1 +1,1 @@
-{"name": "Taxidermists", "id": 21652739, "predecessors": [{"name": "Craft_occupations", "id": 43362047}, {"name": "Death_customs", "id": 921950}], "successors": []}
+{"name": "Taxidermists", "id": 21652739, "predecessors": [{"name": "Craft_occupations", "id": 43362047}, {"name": "Animal_death", "id": 33166047}], "successors": []}

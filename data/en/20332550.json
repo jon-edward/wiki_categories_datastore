@@ -1,1 +1,1 @@
-{"name": "Ancient_Egyptian_scribes", "id": 20332550, "predecessors": [{"name": "Scribes", "id": 20332453}], "successors": []}
+{"name": "Ancient_Egyptian_scribes", "id": 20332550, "predecessors": [{"name": "Ancient_Egyptian_writers", "id": 30267038}, {"name": "Scribes", "id": 20332453}], "successors": []}

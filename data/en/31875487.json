@@ -1,1 +1,1 @@
-{"name": "People_acquitted_of_kidnapping", "id": 31875487, "predecessors": [{"name": "Kidnapping", "id": 28987053}], "successors": []}
+{"name": "People_acquitted_of_kidnapping", "id": 31875487, "predecessors": [{"name": "People_acquitted_of_crimes", "id": 13411707}, {"name": "Kidnapping", "id": 28987053}], "successors": []}

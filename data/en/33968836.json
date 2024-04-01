@@ -1,1 +1,1 @@
-{"name": "Floating_production_storage_and_offloading_vessel_operators", "id": 33968836, "predecessors": [{"name": "Shipping_companies", "id": 881735}], "successors": []}
+{"name": "Floating_production_storage_and_offloading_vessel_operators", "id": 33968836, "predecessors": [{"name": "Floating_production_storage_and_offloading_vessels", "id": 33968822}, {"name": "Oilfield_services_companies", "id": 17465059}, {"name": "Shipping_companies", "id": 881735}], "successors": []}

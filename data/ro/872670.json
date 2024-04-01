@@ -1,1 +1,1 @@
-{"name": "Google", "id": 872670, "predecessors": [{"name": "Companii_de_IT", "id": 366817}, {"name": "Motoare_de_căutare", "id": 36167}], "successors": [{"name": "Servicii_Google", "id": 575769}, {"name": "Produse_Google", "id": 2395470}]}
+{"name": "Google", "id": 872670, "predecessors": [{"name": "Companii_de_IT", "id": 366817}, {"name": "Companii_de_software_din_Statele_Unite", "id": 911304}, {"name": "Motoare_de_căutare", "id": 36167}], "successors": [{"name": "Servicii_Google", "id": 575769}, {"name": "Produse_Google", "id": 2395470}]}

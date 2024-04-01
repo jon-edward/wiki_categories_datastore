@@ -1,1 +1,1 @@
-{"name": "Window_coverings", "id": 75198785, "predecessors": [{"name": "Windows", "id": 707885}], "successors": []}
+{"name": "Window_coverings", "id": 75198785, "predecessors": [{"name": "Architectural_elements", "id": 911763}, {"name": "Windows", "id": 707885}], "successors": []}

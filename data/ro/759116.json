@@ -1,1 +1,1 @@
-{"name": "Pigmenți", "id": 759116, "predecessors": [{"name": "Biochimie", "id": 27840}, {"name": "Compuși_chimici", "id": 749556}, {"name": "Materiale_de_artă", "id": 888163}], "successors": [{"name": "Pigmenți_fotosintetici", "id": 759117}, {"name": "Antocianidine", "id": 2935017}]}
+{"name": "Pigmenți", "id": 759116, "predecessors": [{"name": "Biochimie", "id": 27840}, {"name": "Compuși_chimici", "id": 749556}, {"name": "Arte_vizuale", "id": 36043}], "successors": [{"name": "Pigmenți_fotosintetici", "id": 759117}, {"name": "Antocianidine", "id": 2935017}]}

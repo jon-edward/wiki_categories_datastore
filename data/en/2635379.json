@@ -1,1 +1,1 @@
-{"name": "Emacs", "id": 2635379, "predecessors": [{"name": "Cross-platform_free_software", "id": 34313543}, {"name": "Free_integrated_development_environments", "id": 34474771}, {"name": "Free_text_editors", "id": 4188631}], "successors": [{"name": "Emacs_modes", "id": 44457986}]}
+{"name": "Emacs", "id": 2635379, "predecessors": [{"name": "Cross-platform_free_software", "id": 34313543}], "successors": []}

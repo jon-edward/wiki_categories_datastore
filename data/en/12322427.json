@@ -1,1 +1,1 @@
-{"name": "Government_simulation_video_games", "id": 12322427, "predecessors": [{"name": "Political_video_games", "id": 59533469}, {"name": "Strategy_video_games", "id": 10249117}], "successors": []}
+{"name": "Government_simulation_video_games", "id": 12322427, "predecessors": [{"name": "Government", "id": 697609}, {"name": "Political_video_games", "id": 59533469}, {"name": "Strategy_video_games", "id": 10249117}], "successors": []}

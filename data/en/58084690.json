@@ -1,1 +1,1 @@
-{"name": "Posture", "id": 58084690, "predecessors": [{"name": "Human_positions", "id": 34802160}, {"name": "Nonverbal_communication", "id": 5254762}, {"name": "Behavioral_neuroscience", "id": 6568309}, {"name": "Applied_sciences", "id": 697060}], "successors": []}
+{"name": "Posture", "id": 58084690, "predecessors": [{"name": "Ergonomics", "id": 1214637}, {"name": "Human_positions", "id": 34802160}, {"name": "Nonverbal_communication", "id": 5254762}, {"name": "Behavioral_neuroscience", "id": 6568309}, {"name": "Applied_sciences", "id": 697060}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "American_foreign_correspondents", "id": 60720982, "predecessors": [{"name": "American_journalists", "id": 939429}], "successors": [{"name": "American_war_correspondents", "id": 32959551}]}
+{"name": "American_foreign_correspondents", "id": 60720982, "predecessors": [{"name": "American_journalists", "id": 939429}, {"name": "Diplomacy", "id": 911551}], "successors": [{"name": "American_war_correspondents", "id": 32959551}]}

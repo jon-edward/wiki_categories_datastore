@@ -1,1 +1,1 @@
-{"name": "Chainsaws", "id": 28096210, "predecessors": [{"name": "Logging", "id": 5846471}, {"name": "Saws", "id": 1556839}, {"name": "Woodworking_hand-held_power_tools", "id": 2916727}], "successors": []}
+{"name": "Chainsaws", "id": 28096210, "predecessors": [{"name": "Logging", "id": 5846471}], "successors": []}

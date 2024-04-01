@@ -1,1 +1,1 @@
-{"name": "Norwegian_magazine_editors", "id": 20363596, "predecessors": [{"name": "Norwegian_journalists", "id": 3669216}], "successors": []}
+{"name": "Norwegian_magazine_editors", "id": 20363596, "predecessors": [{"name": "Magazine_editors", "id": 952108}, {"name": "Norwegian_journalists", "id": 3669216}], "successors": []}

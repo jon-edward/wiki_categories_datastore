@@ -1,1 +1,1 @@
-{"name": "Teargas_grenade_guns", "id": 6730158, "predecessors": [{"name": "Riot_guns", "id": 29880607}], "successors": []}
+{"name": "Teargas_grenade_guns", "id": 6730158, "predecessors": [{"name": "Riot_control_weapons", "id": 8312655}, {"name": "Riot_guns", "id": 29880607}], "successors": []}

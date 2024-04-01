@@ -1,1 +1,1 @@
-{"name": "Video_game_localization", "id": 48976485, "predecessors": [{"name": "Video_game_development", "id": 9254238}], "successors": []}
+{"name": "Video_game_localization", "id": 48976485, "predecessors": [{"name": "Internationalization_and_localization", "id": 30629118}, {"name": "Video_game_development", "id": 9254238}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Lenten_foods", "id": 65191592, "predecessors": [{"name": "Christian_cuisine", "id": 62580907}, {"name": "Religious_food_and_drink", "id": 22112597}], "successors": []}
+{"name": "Lenten_foods", "id": 65191592, "predecessors": [{"name": "Christian_cuisine", "id": 62580907}, {"name": "Lent", "id": 42984949}, {"name": "Religious_food_and_drink", "id": 22112597}], "successors": []}

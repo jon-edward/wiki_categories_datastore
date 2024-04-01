@@ -1,1 +1,0 @@
-{"name": "Bất_thường_trong_phần_mềm", "id": 3686062, "predecessors": [{"name": "Chất_lượng_phần_mềm", "id": 3686063}, {"name": "Kiểm_thử_phần_mềm", "id": 3221574}, {"name": "Lỗi_máy_tính", "id": 3167589}], "successors": [{"name": "Lỗi_phần_mềm", "id": 3686061}]}

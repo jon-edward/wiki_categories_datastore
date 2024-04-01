@@ -1,1 +1,1 @@
-{"name": "Military_magazines", "id": 1118397, "predecessors": [{"name": "Military", "id": 716572}, {"name": "Mass_media", "id": 696790}], "successors": []}
+{"name": "Military_magazines", "id": 1118397, "predecessors": [{"name": "Military", "id": 716572}, {"name": "Mass_media", "id": 696790}], "successors": [{"name": "Military_magazines_published_in_the_United_States", "id": 64581985}, {"name": "Military_magazines_published_in_the_United_Kingdom", "id": 64582652}]}

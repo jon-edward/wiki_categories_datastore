@@ -1,1 +1,1 @@
-{"name": "Free_trade", "id": 51130262, "predecessors": [{"name": "International_trade", "id": 716236}], "successors": [{"name": "Concessions_in_China", "id": 6004093}, {"name": "Unequal_treaties", "id": 27503275}]}
+{"name": "Free_trade", "id": 51130262, "predecessors": [{"name": "International_trade", "id": 716236}], "successors": [{"name": "Free_trade_agreements", "id": 10314737}, {"name": "Concessions_in_China", "id": 6004093}, {"name": "Unequal_treaties", "id": 27503275}]}

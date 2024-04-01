@@ -1,1 +1,1 @@
-{"name": "BlackBerry_software", "id": 26544131, "predecessors": [{"name": "Operating_systems", "id": 693664}, {"name": "Mobile_software", "id": 10473202}], "successors": [{"name": "BlackBerry_games", "id": 21407770}, {"name": "WhatsApp", "id": 51068136}]}
+{"name": "BlackBerry_software", "id": 26544131, "predecessors": [{"name": "Personal_digital_assistant_software", "id": 18168249}, {"name": "Operating_systems", "id": 693664}, {"name": "Mobile_software", "id": 10473202}], "successors": [{"name": "BlackBerry_games", "id": 21407770}, {"name": "WhatsApp", "id": 51068136}]}

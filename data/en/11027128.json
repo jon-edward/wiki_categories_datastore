@@ -1,1 +1,1 @@
-{"name": "Armstrong_Whitworth_aircraft", "id": 11027128, "predecessors": [{"name": "Aviation", "id": 735378}], "successors": []}
+{"name": "Armstrong_Whitworth_aircraft", "id": 11027128, "predecessors": [{"name": "Vickers", "id": 2174782}, {"name": "Aviation", "id": 735378}], "successors": []}

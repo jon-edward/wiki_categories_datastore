@@ -1,1 +1,1 @@
-{"name": "Cotton_gin", "id": 45584517, "predecessors": [{"name": "Cotton_production", "id": 29761726}], "successors": []}
+{"name": "Cotton_gin", "id": 45584517, "predecessors": [{"name": "Agricultural_machinery", "id": 1189821}], "successors": []}

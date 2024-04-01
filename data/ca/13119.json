@@ -1,1 +1,1 @@
-{"name": "Pèptids", "id": 13119, "predecessors": [{"name": "Biomolècules", "id": 284236}, {"name": "Proteòmica", "id": 542383}], "successors": [{"name": "Proteïnes", "id": 13117}, {"name": "Hormones_peptídiques", "id": 576200}]}
+{"name": "Pèptids", "id": 13119, "predecessors": [{"name": "Biomolècules", "id": 284236}, {"name": "Proteòmica", "id": 542383}, {"name": "Compostos_organonitrogenats", "id": 2080934}], "successors": [{"name": "Proteïnes", "id": 13117}, {"name": "Hormones_peptídiques", "id": 576200}]}

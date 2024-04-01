@@ -1,1 +1,1 @@
-{"name": "Volcanic_tsunamis", "id": 67252555, "predecessors": [{"name": "Natural_disasters", "id": 2643767}, {"name": "Geological_hazards", "id": 2638161}], "successors": []}
+{"name": "Volcanic_tsunamis", "id": 67252555, "predecessors": [{"name": "Tsunamis", "id": 7523341}, {"name": "Natural_disasters", "id": 2643767}, {"name": "Geological_hazards", "id": 2638161}], "successors": []}

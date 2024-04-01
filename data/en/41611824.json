@@ -1,1 +1,1 @@
-{"name": "SpaceX_Dragon", "id": 41611824, "predecessors": [{"name": "Cargo_spacecraft", "id": 2175736}, {"name": "SpaceX", "id": 6384977}], "successors": []}
+{"name": "SpaceX_Dragon", "id": 41611824, "predecessors": [{"name": "SpaceX", "id": 6384977}], "successors": []}

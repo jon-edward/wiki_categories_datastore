@@ -1,1 +1,1 @@
-{"name": "Wreck_diving_sites", "id": 33494399, "predecessors": [{"name": "Shipwrecks", "id": 739221}, {"name": "Oceanography", "id": 716910}], "successors": [{"name": "Ships_sunk_as_artificial_reefs", "id": 23705379}]}
+{"name": "Wreck_diving_sites", "id": 33494399, "predecessors": [{"name": "Oceanography", "id": 716910}], "successors": [{"name": "Wreck_diving_sites_in_the_United_Kingdom", "id": 33494627}]}

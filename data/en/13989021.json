@@ -1,1 +1,1 @@
-{"name": "Gas_sensors", "id": 13989021, "predecessors": [{"name": "Sensors", "id": 5400296}], "successors": []}
+{"name": "Gas_sensors", "id": 13989021, "predecessors": [{"name": "Gas_technologies", "id": 19500591}, {"name": "Sensors", "id": 5400296}], "successors": []}

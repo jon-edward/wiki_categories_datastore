@@ -1,1 +1,1 @@
-{"name": "Avaruuden_asuttaminen", "id": 941379, "predecessors": [{"name": "Avaruustoiminta", "id": 35794}], "successors": []}
+{"name": "Avaruuden_asuttaminen", "id": 941379, "predecessors": [{"name": "Avaruustoiminta", "id": 35794}], "successors": [{"name": "Avaruusasemat", "id": 21341}]}

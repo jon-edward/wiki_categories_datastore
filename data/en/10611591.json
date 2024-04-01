@@ -1,1 +1,1 @@
-{"name": "Streets_in_Saint_Petersburg", "id": 10611591, "predecessors": [{"name": "Roads_in_Russia", "id": 3520122}, {"name": "Economy_of_Russia", "id": 1298212}], "successors": [{"name": "Nevsky_Prospekt", "id": 20158740}, {"name": "Residents_of_the_Benois_House", "id": 72369239}]}
+{"name": "Streets_in_Saint_Petersburg", "id": 10611591, "predecessors": [{"name": "Saint_Petersburg", "id": 1347189}, {"name": "Roads_in_Russia", "id": 3520122}], "successors": [{"name": "Nevsky_Prospekt", "id": 20158740}, {"name": "Residents_of_the_Benois_House", "id": 72369239}]}

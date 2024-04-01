@@ -1,1 +1,1 @@
-{"name": "Pyrotechnic_fuels", "id": 12278596, "predecessors": [{"name": "Artificial_materials", "id": 51591971}], "successors": [{"name": "Rocket_fuels", "id": 1095732}]}
+{"name": "Pyrotechnic_fuels", "id": 12278596, "predecessors": [{"name": "Fuels", "id": 770810}, {"name": "Chemical_substances", "id": 1308633}, {"name": "Artificial_materials", "id": 51591971}], "successors": [{"name": "Rocket_fuels", "id": 1095732}]}

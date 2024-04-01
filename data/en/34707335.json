@@ -1,1 +1,1 @@
-{"name": "Ammunition_dumps", "id": 34707335, "predecessors": [{"name": "Military_logistics", "id": 2734200}], "successors": []}
+{"name": "Ammunition_dumps", "id": 34707335, "predecessors": [{"name": "Ammunition", "id": 857579}, {"name": "Buildings_and_structures_by_type", "id": 6884364}], "successors": [{"name": "Ammunition_dumps_in_England", "id": 39017865}]}

@@ -1,1 +1,1 @@
-{"name": "World_War_II_field_artillery", "id": 1940558, "predecessors": [{"name": "Warfare", "id": 49504783}], "successors": [{"name": "World_War_II_howitzers", "id": 55172118}]}
+{"name": "World_War_II_field_artillery", "id": 1940558, "predecessors": [{"name": "Field_artillery", "id": 1691149}, {"name": "Artillery", "id": 700053}], "successors": [{"name": "World_War_II_howitzers", "id": 55172118}]}

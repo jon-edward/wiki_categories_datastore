@@ -1,1 +1,1 @@
-{"name": "Dorset_Militia", "id": 73706892, "predecessors": [{"name": "Militia_of_England", "id": 64244458}], "successors": [{"name": "Dorset_Militia_officers", "id": 73706999}]}
+{"name": "Dorset_Militia", "id": 73706892, "predecessors": [{"name": "Military_units_and_formations_in_Dorset", "id": 44903659}, {"name": "Militia_of_England", "id": 64244458}, {"name": "Militia_of_the_United_Kingdom", "id": 55810908}], "successors": [{"name": "Dorset_Militia_officers", "id": 73706999}]}

@@ -1,1 +1,1 @@
-{"name": "Financial_Times_editors", "id": 68165613, "predecessors": [{"name": "Newspaper_editors", "id": 1322387}, {"name": "Journalism", "id": 698307}], "successors": []}
+{"name": "Financial_Times_editors", "id": 68165613, "predecessors": [{"name": "Financial_Times_people", "id": 32026721}, {"name": "Newspaper_editors", "id": 1322387}, {"name": "Social_sciences", "id": 695042}], "successors": []}

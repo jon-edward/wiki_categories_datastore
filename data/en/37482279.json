@@ -1,1 +1,1 @@
-{"name": "Industrial_buildings_completed_in_1929", "id": 37482279, "predecessors": [{"name": "Buildings_and_structures_completed_in_1929", "id": 29867887}], "successors": []}
+{"name": "Industrial_buildings_completed_in_1929", "id": 37482279, "predecessors": [{"name": "Buildings_and_structures_completed_in_1929", "id": 29867887}, {"name": "Buildings_and_structures_by_type", "id": 6884364}], "successors": []}

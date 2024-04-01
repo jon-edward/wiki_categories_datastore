@@ -1,1 +1,1 @@
-{"name": "Kauhavan_liikenne", "id": 1433113, "predecessors": [{"name": "Liikenne", "id": 21059}, {"name": "Pohjanmaa", "id": 842008}], "successors": []}
+{"name": "Kauhavan_liikenne", "id": 1433113, "predecessors": [{"name": "Kauhava", "id": 66292}, {"name": "Liikenne", "id": 21059}, {"name": "Pohjanmaa", "id": 842008}], "successors": []}

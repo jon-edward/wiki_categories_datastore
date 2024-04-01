@@ -1,1 +1,0 @@
-{"name": "Computer_storage_buses", "id": 28169972, "predecessors": [{"name": "Computer_buses", "id": 1124098}, {"name": "Computer_data_storage", "id": 711721}], "successors": [{"name": "SCSI", "id": 1216874}, {"name": "Fibre_Channel", "id": 3508980}, {"name": "Serial_ATA", "id": 3603138}, {"name": "AT_Attachment", "id": 34415646}]}

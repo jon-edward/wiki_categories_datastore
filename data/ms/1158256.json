@@ -1,1 +1,1 @@
-{"name": "Kimia_asid-bes", "id": 1158256, "predecessors": [{"name": "Kimia", "id": 11182}, {"name": "Kimia_keseimbangan", "id": 1158257}], "successors": [{"name": "Hidroksida", "id": 41971}, {"name": "Amina", "id": 970913}]}
+{"name": "Kimia_asid-bes", "id": 1158256, "predecessors": [{"name": "Kimia", "id": 11182}, {"name": "Kimia_keseimbangan", "id": 1158257}], "successors": [{"name": "Hidroksida", "id": 41971}, {"name": "Amina", "id": 970913}, {"name": "Guanidina", "id": 1154452}]}

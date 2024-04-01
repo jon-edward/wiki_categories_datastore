@@ -1,1 +1,1 @@
-{"name": "Aviation_taxes", "id": 55300298, "predecessors": [{"name": "Aviation_law", "id": 9266663}], "successors": []}
+{"name": "Aviation_taxes", "id": 55300298, "predecessors": [{"name": "Aviation_law", "id": 9266663}, {"name": "Vehicle_taxes", "id": 7857367}], "successors": []}

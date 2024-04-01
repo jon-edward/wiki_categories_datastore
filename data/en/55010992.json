@@ -1,1 +1,1 @@
-{"name": "U.S._Route_220", "id": 55010992, "predecessors": [{"name": "U.S._Route_20", "id": 5979312}], "successors": []}
+{"name": "U.S._Route_220", "id": 55010992, "predecessors": [{"name": "U.S._Highways_in_North_Carolina", "id": 3119507}, {"name": "U.S._Highways_in_Virginia", "id": 3119890}, {"name": "U.S._Route_20", "id": 5979312}], "successors": []}

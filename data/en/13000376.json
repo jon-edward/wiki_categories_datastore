@@ -1,1 +1,1 @@
-{"name": "Medical_books", "id": 13000376, "predecessors": [{"name": "Science_books", "id": 47064376}, {"name": "History_of_medicine", "id": 709678}], "successors": [{"name": "Books_about_diseases", "id": 25214937}, {"name": "History_books_about_medicine", "id": 31176103}]}
+{"name": "Medical_books", "id": 13000376, "predecessors": [{"name": "Science_books", "id": 47064376}, {"name": "History_of_medicine", "id": 709678}], "successors": [{"name": "History_books_about_medicine", "id": 31176103}]}

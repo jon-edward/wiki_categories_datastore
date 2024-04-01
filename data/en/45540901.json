@@ -1,1 +1,1 @@
-{"name": "FK_Gorno_Lisiče_players", "id": 45540901, "predecessors": [{"name": "Football_clubs_in_North_Macedonia", "id": 34431534}, {"name": "Football_clubs_in_Skopje", "id": 43169067}], "successors": []}
+{"name": "FK_Gorno_Lisiče_players", "id": 45540901, "predecessors": [{"name": "Athletic_sports", "id": 31210709}, {"name": "Football_clubs_in_Skopje", "id": 43169067}], "successors": []}

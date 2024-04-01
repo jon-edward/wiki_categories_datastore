@@ -1,1 +1,1 @@
-{"name": "Art_exhibitions_in_Italy", "id": 35960112, "predecessors": [{"name": "Italian_art", "id": 3774664}], "successors": [{"name": "Venice_Biennale", "id": 49662671}, {"name": "Venice_Biennale_exhibitions", "id": 60884213}]}
+{"name": "Art_exhibitions_in_Italy", "id": 35960112, "predecessors": [{"name": "Italian_art", "id": 3774664}, {"name": "Exhibitions", "id": 1473785}], "successors": [{"name": "Venice_Biennale", "id": 49662671}, {"name": "Venice_Biennale_exhibitions", "id": 60884213}]}

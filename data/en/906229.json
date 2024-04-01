@@ -1,1 +1,1 @@
-{"name": "Opera_genres", "id": 906229, "predecessors": [{"name": "Theatrical_genres", "id": 1231826}, {"name": "Drama", "id": 709071}], "successors": [{"name": "Arthurian_operas", "id": 28856362}]}
+{"name": "Opera_genres", "id": 906229, "predecessors": [{"name": "Drama", "id": 709071}], "successors": [{"name": "Arthurian_operas", "id": 28856362}, {"name": "Operettas", "id": 906372}, {"name": "Gilbert_and_Sullivan", "id": 5464998}, {"name": "Zarzuelas", "id": 5883941}, {"name": "Folk_operas", "id": 68012551}]}

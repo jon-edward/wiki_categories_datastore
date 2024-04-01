@@ -1,1 +1,1 @@
-{"name": "Coalition_governments", "id": 9087925, "predecessors": [{"name": "Elections", "id": 792537}, {"name": "Power_sharing", "id": 64301707}], "successors": []}
+{"name": "Coalition_governments", "id": 9087925, "predecessors": [{"name": "Elections", "id": 792537}, {"name": "Government", "id": 697609}, {"name": "Power_sharing", "id": 64301707}], "successors": [{"name": "Grand_coalition_governments", "id": 56396143}, {"name": "Rotation_governments", "id": 68268166}]}

@@ -1,1 +1,1 @@
-{"name": "Compostos_de_clor", "id": 560283, "predecessors": [{"name": "Compostos_químics", "id": 13735}, {"name": "Elements_químics", "id": 12416}], "successors": [{"name": "Clorurs", "id": 247526}, {"name": "Organoclorats", "id": 960235}]}
+{"name": "Compostos_de_clor", "id": 560283, "predecessors": [{"name": "Compostos_químics", "id": 13735}, {"name": "Elements_químics", "id": 12416}], "successors": [{"name": "Clorurs", "id": 247526}]}

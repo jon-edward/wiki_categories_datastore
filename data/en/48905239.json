@@ -1,1 +1,1 @@
-{"name": "Drone_strikes", "id": 48905239, "predecessors": [{"name": "Airstrikes", "id": 17910900}], "successors": [{"name": "Red_Sea_crisis", "id": 75782632}]}
+{"name": "Drone_strikes", "id": 48905239, "predecessors": [{"name": "Airstrikes", "id": 17910900}, {"name": "Drone_warfare", "id": 46512830}], "successors": [{"name": "Red_Sea_crisis", "id": 75782632}]}

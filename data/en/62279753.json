@@ -1,1 +1,1 @@
-{"name": "Music_licensing", "id": 62279753, "predecessors": [{"name": "Copyright_law", "id": 702268}, {"name": "Licensing", "id": 5949500}, {"name": "Music_industry", "id": 768384}], "successors": [{"name": "Music_licensing_organizations", "id": 62279793}]}
+{"name": "Music_licensing", "id": 62279753, "predecessors": [{"name": "Copyright_law", "id": 702268}, {"name": "Copyright_licenses", "id": 703173}, {"name": "Licensing", "id": 5949500}, {"name": "Music_industry", "id": 768384}], "successors": [{"name": "Music_licensing_organizations", "id": 62279793}]}

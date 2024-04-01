@@ -1,1 +1,1 @@
-{"name": "Woodworking_hand_tools", "id": 2743233, "predecessors": [{"name": "Hand_tools", "id": 10163190}, {"name": "Woodworking_tools", "id": 11786578}], "successors": [{"name": "Planes", "id": 1556795}, {"name": "Sharpening", "id": 18575321}, {"name": "Green_woodworking_tools", "id": 18575379}]}
+{"name": "Woodworking_hand_tools", "id": 2743233, "predecessors": [{"name": "Hand_tools", "id": 10163190}], "successors": [{"name": "Sharpening", "id": 18575321}]}

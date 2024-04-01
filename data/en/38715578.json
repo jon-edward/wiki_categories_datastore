@@ -1,1 +1,1 @@
-{"name": "Animal_breeders", "id": 38715578, "predecessors": [{"name": "Animal_breeding", "id": 36659941}], "successors": [{"name": "Dog_breeders", "id": 11606599}]}
+{"name": "Animal_breeders", "id": 38715578, "predecessors": [{"name": "Animal_breeding", "id": 36659941}], "successors": []}

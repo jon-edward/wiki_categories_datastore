@@ -1,1 +1,1 @@
-{"name": "Koltsevaya_Line", "id": 34062295, "predecessors": [{"name": "Moscow_Metro_lines", "id": 2255244}], "successors": []}
+{"name": "Koltsevaya_Line", "id": 34062295, "predecessors": [{"name": "Moscow_Metro_lines", "id": 2255244}, {"name": "Railway_loop_lines", "id": 7633698}], "successors": []}

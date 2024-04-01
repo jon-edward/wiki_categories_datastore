@@ -1,1 +1,1 @@
-{"name": "World_War_II_monitors", "id": 24059299, "predecessors": [{"name": "Warships", "id": 31486319}], "successors": []}
+{"name": "World_War_II_monitors", "id": 24059299, "predecessors": [{"name": "World_War_II_naval_ships", "id": 3248503}, {"name": "Naval_ships", "id": 733412}], "successors": []}

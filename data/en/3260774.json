@@ -1,1 +1,1 @@
-{"name": "Braille", "id": 3260774, "predecessors": [{"name": "Assistive_technology", "id": 945499}, {"name": "Character_encoding", "id": 2123467}, {"name": "Alphabets", "id": 36431011}], "successors": []}
+{"name": "Braille", "id": 3260774, "predecessors": [{"name": "Assistive_technology", "id": 945499}, {"name": "Blindness", "id": 2173860}, {"name": "Character_encoding", "id": 2123467}, {"name": "Alphabets", "id": 36431011}], "successors": []}

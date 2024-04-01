@@ -1,1 +1,1 @@
-{"name": "Fatty_acids", "id": 718234, "predecessors": [{"name": "Nutrients", "id": 718235}, {"name": "Waxes", "id": 2911137}, {"name": "Lipids", "id": 713771}], "successors": []}
+{"name": "Fatty_acids", "id": 718234, "predecessors": [{"name": "Nutrients", "id": 718235}, {"name": "Waxes", "id": 2911137}, {"name": "Lipids", "id": 713771}], "successors": [{"name": "Fatty-acid_metabolism_disorders", "id": 32605648}]}

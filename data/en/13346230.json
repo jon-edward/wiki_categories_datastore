@@ -1,1 +1,1 @@
-{"name": "Ancient_Greek_medicine", "id": 13346230, "predecessors": [{"name": "Culture_of_ancient_Greece", "id": 955204}, {"name": "History_of_ancient_medicine", "id": 709697}, {"name": "Ancient_Greece", "id": 737698}], "successors": [{"name": "Ancient_Greek_physicians", "id": 1695383}, {"name": "Asclepius", "id": 24095471}]}
+{"name": "Ancient_Greek_medicine", "id": 13346230, "predecessors": [{"name": "History_of_ancient_medicine", "id": 709697}], "successors": [{"name": "Ancient_Greek_physicians", "id": 1695383}, {"name": "Asclepius", "id": 24095471}]}

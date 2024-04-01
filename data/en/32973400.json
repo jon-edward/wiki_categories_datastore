@@ -1,1 +1,1 @@
-{"name": "Suicide_in_the_United_States", "id": 32973400, "predecessors": [{"name": "Suicide_by_country", "id": 32973350}], "successors": [{"name": "Suicides_in_the_United_States", "id": 12729384}, {"name": "Assisted_suicide_in_the_United_States", "id": 37806632}]}
+{"name": "Suicide_in_the_United_States", "id": 32973400, "predecessors": [{"name": "Suicide_by_country", "id": 32973350}, {"name": "Death", "id": 921954}], "successors": [{"name": "Suicides_in_the_United_States", "id": 12729384}, {"name": "Assisted_suicide_in_the_United_States", "id": 37806632}]}

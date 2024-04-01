@@ -1,1 +1,0 @@
-{"name": "Hạ_tầng_đi_bộ", "id": 13468145, "predecessors": [{"name": "Thiết_bị_đường_phố", "id": 13468250}, {"name": "Đi_bộ", "id": 3144844}, {"name": "Giao_thông", "id": 7509}], "successors": [{"name": "Cầu_bộ_hành", "id": 562615}, {"name": "Khu_vực_không_sử_dụng_xe_hơi", "id": 13468057}, {"name": "Sàn_nhà", "id": 19498002}]}

@@ -1,1 +1,1 @@
-{"name": "Pinball_manufacturers", "id": 6924100, "predecessors": [{"name": "Game_manufacturers", "id": 776124}, {"name": "Electronic_games", "id": 21451401}], "successors": []}
+{"name": "Pinball_manufacturers", "id": 6924100, "predecessors": [{"name": "Game_manufacturers", "id": 776124}, {"name": "Electronics_manufacturing", "id": 1274667}, {"name": "Arcade_games", "id": 67408604}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Stage_crew", "id": 10498491, "predecessors": [{"name": "Stagecraft", "id": 938285}, {"name": "Theatrical_occupations", "id": 11829358}], "successors": [{"name": "Stage_managers", "id": 46410538}]}
+{"name": "Stage_crew", "id": 10498491, "predecessors": [{"name": "Stagecraft", "id": 938285}], "successors": [{"name": "Stage_managers", "id": 46410538}]}

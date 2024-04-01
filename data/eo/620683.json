@@ -1,1 +1,1 @@
-{"name": "Porkonsumanta_elektroniko", "id": 620683, "predecessors": [{"name": "Elektroniko", "id": 198388}, {"name": "Firmaoj", "id": 53508}, {"name": "Fabrikado", "id": 91389}], "successors": []}
+{"name": "Porkonsumanta_elektroniko", "id": 620683, "predecessors": [{"name": "Elektroniko", "id": 198388}, {"name": "Firmaoj", "id": 53508}, {"name": "Fabrikado", "id": 91389}], "successors": [{"name": "Domotiko", "id": 632251}]}

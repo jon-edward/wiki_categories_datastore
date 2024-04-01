@@ -1,1 +1,1 @@
-{"name": "Ihotaudit", "id": 42373, "predecessors": [{"name": "Sairaudet", "id": 18851}, {"name": "Lääketieteen_erikoisalat", "id": 645775}], "successors": [{"name": "Ihon_oireet", "id": 1049623}]}
+{"name": "Ihotaudit", "id": 42373, "predecessors": [{"name": "Iho", "id": 233577}, {"name": "Sairaudet", "id": 18851}, {"name": "Lääketieteen_erikoisalat", "id": 645775}], "successors": [{"name": "Ihon_oireet", "id": 1049623}]}

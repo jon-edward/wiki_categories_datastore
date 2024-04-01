@@ -1,1 +1,1 @@
-{"name": "Mineral_water", "id": 34255780, "predecessors": [{"name": "Drinking_water", "id": 2026578}, {"name": "Minerals", "id": 708104}, {"name": "Water_chemistry", "id": 3187464}], "successors": []}
+{"name": "Mineral_water", "id": 34255780, "predecessors": [{"name": "Balneotherapy", "id": 28036007}, {"name": "Drinking_water", "id": 2026578}, {"name": "Minerals", "id": 708104}, {"name": "Water_chemistry", "id": 3187464}], "successors": []}
