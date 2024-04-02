@@ -1,1 +1,1 @@
-{"name": "Émission_diffusée_sur_C8", "id": 6609444, "predecessors": [{"name": "Télévision_en_France", "id": 103627}, {"name": "Groupe_Canal+", "id": 3112463}], "successors": [{"name": "Émission_diffusée_sur_Direct_8", "id": 781946}]}
+{"name": "Émission_diffusée_sur_C8", "id": 6609444, "predecessors": [{"name": "Émission_de_télévision_diffusée_en_France", "id": 3367354}, {"name": "Groupe_Canal+", "id": 3112463}], "successors": [{"name": "Émission_diffusée_sur_Direct_8", "id": 781946}]}

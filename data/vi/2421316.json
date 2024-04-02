@@ -1,0 +1,1 @@
+{"name": "Hydrolase", "id": 2421316, "predecessors": [{"name": "Enzyme", "id": 17160}], "successors": [{"name": "Chất_ức_chế_hydrolase", "id": 2421315}, {"name": "EC_3.4", "id": 3192983}, {"name": "EC_3.1.1", "id": 19844045}]}

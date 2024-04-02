@@ -1,0 +1,1 @@
+{"name": "Comboios_de_alta_velocidade", "id": 2010479, "predecessors": [{"name": "Material_rodante", "id": 4781364}, {"name": "Transporte_ferroviário", "id": 65043}], "successors": [{"name": "Shinkansen", "id": 551752}, {"name": "Comboios_pendulares", "id": 1765508}]}

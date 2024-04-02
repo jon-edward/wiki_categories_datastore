@@ -1,1 +1,1 @@
-{"name": "Navire_furtif", "id": 7478549, "predecessors": [{"name": "Type_de_bateaux", "id": 674247}, {"name": "Application_des_télécommunications", "id": 2693919}, {"name": "Secret", "id": 4654389}], "successors": []}
+{"name": "Navire_furtif", "id": 7478549, "predecessors": [{"name": "Type_de_bateaux", "id": 674247}, {"name": "Application_des_télécommunications", "id": 2693919}, {"name": "Secret", "id": 4654389}], "successors": [{"name": "Classe_Independence", "id": 9546025}]}

@@ -1,1 +1,1 @@
-{"name": "Compagnie_pétrolière_ayant_son_siège_en_Russie", "id": 2493650, "predecessors": [{"name": "Entreprise_de_l'énergie_ayant_son_siège_en_Russie", "id": 2495100}, {"name": "Entreprise_pétrolière", "id": 131675}, {"name": "Économie_en_Russie", "id": 6819401}], "successors": []}
+{"name": "Compagnie_pétrolière_ayant_son_siège_en_Russie", "id": 2493650, "predecessors": [{"name": "Entreprise_de_l'énergie_ayant_son_siège_en_Russie", "id": 2495100}, {"name": "Industrie_pétrolière_en_Russie", "id": 7519592}, {"name": "Entreprise_pétrolière", "id": 131675}], "successors": []}

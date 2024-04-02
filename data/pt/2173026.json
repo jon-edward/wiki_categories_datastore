@@ -1,0 +1,1 @@
+{"name": "X_Window_System", "id": 2173026, "predecessors": [{"name": "Ambiente_de_trabalho_remoto", "id": 793966}], "successors": [{"name": "Servidores_X", "id": 2345517}, {"name": "Qt", "id": 2797476}]}

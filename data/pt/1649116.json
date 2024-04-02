@@ -1,0 +1,1 @@
+{"name": "Veículos_da_Chrysler", "id": 1649116, "predecessors": [{"name": "Chrysler", "id": 303320}, {"name": "Marcas", "id": 1079888}], "successors": [{"name": "Veículos_da_Dodge", "id": 1650391}, {"name": "Veículos_da_Simca", "id": 1683525}, {"name": "Veículos_da_Jeep", "id": 1685173}]}

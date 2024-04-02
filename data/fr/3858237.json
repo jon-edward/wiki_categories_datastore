@@ -1,1 +1,1 @@
-{"name": "Émission_diffusée_sur_Gulli", "id": 3858237, "predecessors": [{"name": "Télévision_en_France", "id": 103627}, {"name": "Chaîne_de_télévision_du_Groupe_M6", "id": 9658892}], "successors": []}
+{"name": "Émission_diffusée_sur_Gulli", "id": 3858237, "predecessors": [{"name": "Émission_de_télévision_diffusée_en_France", "id": 3367354}, {"name": "Chaîne_de_télévision_du_Groupe_M6", "id": 9658892}], "successors": []}

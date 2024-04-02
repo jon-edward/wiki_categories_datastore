@@ -1,0 +1,1 @@
+{"name": "Chạy", "id": 3193194, "predecessors": [{"name": "Môn_thể_thao_đua", "id": 2443570}, {"name": "Thể_dục", "id": 262234}, {"name": "Điền_kinh_theo_loại", "id": 3643726}], "successors": [{"name": "Chạy_đường_dài", "id": 3643729}, {"name": "Chạy_nước_rút", "id": 3666543}]}

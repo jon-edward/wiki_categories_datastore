@@ -1,0 +1,1 @@
+{"name": "Personenvervoer", "id": 80541, "predecessors": [{"name": "Verkeer_en_vervoer", "id": 80542}], "successors": [{"name": "Openbaar_vervoer", "id": 63298}, {"name": "Passagiersschip", "id": 810647}, {"name": "Koets", "id": 2992907}, {"name": "Autodeelbedrijf", "id": 4905721}]}

@@ -1,1 +1,1 @@
-{"name": "Label_gabber", "id": 6496234, "predecessors": [{"name": "Musique_par_genre", "id": 2914843}, {"name": "Entreprise_de_l'industrie_musicale", "id": 2769295}], "successors": []}
+{"name": "Label_gabber", "id": 6496234, "predecessors": [{"name": "Entreprise_de_l'industrie_musicale", "id": 2769295}, {"name": "Genre_de_musique_électronique", "id": 542890}], "successors": []}

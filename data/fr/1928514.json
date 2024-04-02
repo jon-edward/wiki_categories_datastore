@@ -1,1 +1,1 @@
-{"name": "Pilote_automobile_russe", "id": 1928514, "predecessors": [{"name": "Pilote_automobile", "id": 220300}, {"name": "Sport_en_Russie", "id": 272421}], "successors": [{"name": "Pilote_de_rallye_russe", "id": 5793475}]}
+{"name": "Pilote_automobile_russe", "id": 1928514, "predecessors": [{"name": "Pilote_automobile", "id": 220300}, {"name": "Sport_en_Russie", "id": 272421}], "successors": [{"name": "Pilote_de_rallye_russe", "id": 5793475}, {"name": "Pilote_russe_du_Rallye_Dakar", "id": 16207915}]}

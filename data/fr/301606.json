@@ -1,1 +1,1 @@
-{"name": "Gastronomie_marocaine", "id": 301606, "predecessors": [{"name": "Cuisine_arabe", "id": 1297592}, {"name": "Culture_marocaine", "id": 419443}, {"name": "Cuisine_en_Afrique", "id": 1956448}, {"name": "Cuisine_par_pays", "id": 4755767}], "successors": [{"name": "Cuisine_marocaine", "id": 301604}]}
+{"name": "Gastronomie_marocaine", "id": 301606, "predecessors": [{"name": "Cuisine_arabe", "id": 1297592}, {"name": "Culture_marocaine", "id": 419443}, {"name": "Cuisine_par_pays", "id": 4755767}], "successors": [{"name": "Cuisine_marocaine", "id": 301604}]}

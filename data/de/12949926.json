@@ -1,1 +1,1 @@
-{"name": "Milchdrüse_als_Thema", "id": 12949926, "predecessors": [{"name": "Medizin", "id": 236137}], "successors": [{"name": "Milch", "id": 587330}, {"name": "Laktation", "id": 4632853}]}
+{"name": "Milchdrüse", "id": 12949926, "predecessors": [{"name": "Medizin", "id": 236137}], "successors": [{"name": "Milch", "id": 587330}, {"name": "Laktation", "id": 4632853}]}

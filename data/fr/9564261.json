@@ -1,1 +1,1 @@
-{"name": "Incendie_d'une_discothèque", "id": 9564261, "predecessors": [{"name": "Discothèque", "id": 680981}, {"name": "Incendie_par_type", "id": 14402135}, {"name": "Bâtiment_détruit", "id": 4910374}], "successors": []}
+{"name": "Incendie_d'une_discothèque", "id": 9564261, "predecessors": [{"name": "Bâtiment_détruit_lors_d'un_incendie", "id": 14293460}, {"name": "Discothèque", "id": 680981}, {"name": "Incendie_par_type", "id": 14402135}], "successors": []}

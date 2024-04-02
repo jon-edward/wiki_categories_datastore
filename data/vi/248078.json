@@ -1,0 +1,1 @@
+{"name": "FTP", "id": 248078, "predecessors": [{"name": "Giao_thức_tầng_ứng_dụng", "id": 2260979}, {"name": "Tập_tin", "id": 17618}], "successors": [{"name": "Trình_khách_FTP", "id": 44499}, {"name": "Lưu_trữ_dữ_liệu_phân_tán", "id": 1585084}]}

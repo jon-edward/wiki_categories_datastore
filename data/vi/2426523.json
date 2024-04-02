@@ -1,0 +1,1 @@
+{"name": "Dịch_vụ_tài_chính_bán_lẻ", "id": 2426523, "predecessors": [{"name": "Dịch_vụ_tài_chính", "id": 1335361}, {"name": "Tài_chính_cá_nhân", "id": 2426524}], "successors": [{"name": "Thẻ_ghi_nợ", "id": 2426521}, {"name": "Thẻ_tín_dụng", "id": 2443112}]}

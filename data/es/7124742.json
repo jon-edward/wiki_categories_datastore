@@ -1,1 +1,1 @@
-{"name": "Hematofagia", "id": 7124742, "predecessors": [{"name": "Sangre", "id": 427064}, {"name": "Antropología", "id": 50642}], "successors": [{"name": "Siphonaptera", "id": 768391}, {"name": "Hirudinea", "id": 2984677}, {"name": "Ixodes", "id": 7414269}, {"name": "Amblyomma", "id": 10268329}]}
+{"name": "Hematofagia", "id": 7124742, "predecessors": [{"name": "Sangre", "id": 427064}, {"name": "Antropología", "id": 50642}], "successors": [{"name": "Hirudinea", "id": 2984677}, {"name": "Ixodes", "id": 7414269}, {"name": "Amblyomma", "id": 10268329}]}

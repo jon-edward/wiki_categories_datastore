@@ -1,1 +1,1 @@
-{"name": "Commune_dans_la_province_de_Tarente", "id": 512060, "predecessors": [{"name": "Péninsule_de_la_mer_Méditerranée", "id": 6859528}, {"name": "Droit", "id": 84954}], "successors": [{"name": "Tarente", "id": 5836675}]}
+{"name": "Commune_dans_la_province_de_Tarente", "id": 512060, "predecessors": [{"name": "Droit", "id": 84954}, {"name": "Administration_territoriale", "id": 434707}], "successors": [{"name": "Tarente", "id": 5836675}]}

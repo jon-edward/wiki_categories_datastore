@@ -1,1 +1,1 @@
-{"name": "Repas", "id": 481516, "predecessors": [{"name": "Alimentation_humaine", "id": 3930512}], "successors": [{"name": "Repas_dans_la_peinture", "id": 8613049}, {"name": "Dîner", "id": 8986929}, {"name": "Céréale_(petit-déjeuner)", "id": 532681}]}
+{"name": "Repas", "id": 481516, "predecessors": [{"name": "Alimentation_humaine", "id": 3930512}], "successors": [{"name": "Cène", "id": 704895}, {"name": "Repas_dans_la_peinture", "id": 8613049}, {"name": "Dîner", "id": 8986929}, {"name": "Céréale_(petit-déjeuner)", "id": 532681}]}

@@ -1,0 +1,1 @@
+{"name": "Chức_vụ_quản_trị", "id": 406023, "predecessors": [{"name": "Lãnh_đạo", "id": 300948}, {"name": "Quản_lý", "id": 52706}, {"name": "Nghề_nghiệp", "id": 13803}], "successors": [{"name": "Lãnh_đạo_doanh_nghiệp", "id": 406019}, {"name": "Tổng_giám_đốc_điều_hành", "id": 812862}, {"name": "Nhà_quản_lý_nghệ_sĩ", "id": 3508700}]}

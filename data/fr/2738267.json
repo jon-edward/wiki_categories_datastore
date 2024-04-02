@@ -1,1 +1,1 @@
-{"name": "Projet:Essonne", "id": 2738267, "predecessors": [], "successors": [{"name": "Modèle_Essonne", "id": 2731948}, {"name": "Portail:Essonne", "id": 7794220}]}
+{"name": "Projet:Essonne", "id": 2738267, "predecessors": [{"name": "Accueil", "id": 1155637}], "successors": [{"name": "Modèle_Essonne", "id": 2731948}, {"name": "Portail:Essonne", "id": 7794220}]}

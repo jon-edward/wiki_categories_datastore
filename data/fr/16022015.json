@@ -1,1 +1,1 @@
-{"name": "Label_de_RnB_contemporain", "id": 16022015, "predecessors": [{"name": "Musique_par_genre", "id": 2914843}, {"name": "Musique_noire_américaine", "id": 2918242}, {"name": "Genre_de_hip-hop", "id": 457790}, {"name": "Musique_de_danse", "id": 1473756}], "successors": []}
+{"name": "Label_de_RnB_contemporain", "id": 16022015, "predecessors": [{"name": "RnB", "id": 3459584}, {"name": "Musique_par_genre", "id": 2914843}, {"name": "Musique_noire_américaine", "id": 2918242}, {"name": "Musique_de_danse", "id": 1473756}], "successors": []}

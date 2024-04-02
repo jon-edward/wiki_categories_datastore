@@ -1,1 +1,1 @@
-{"name": "Asteroid_vom_Typ_B", "id": 4977863, "predecessors": [{"name": "Asteroid", "id": 234239}], "successors": []}
+{"name": "Asteroid_vom_Typ_B", "id": 4977863, "predecessors": [{"name": "Asteroid", "id": 234239}], "successors": [{"name": "Asteroid_vom_Typ_B_(Tholen)", "id": 11459777}, {"name": "Asteroid_vom_Typ_B_(SMASSII)", "id": 11459830}]}

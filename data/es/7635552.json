@@ -1,1 +1,1 @@
-{"name": "Apuesta_deportiva", "id": 7635552, "predecessors": [{"name": "Apuestas", "id": 2883613}, {"name": "Cultura_deportiva", "id": 2749887}, {"name": "Deporte", "id": 50825}], "successors": []}
+{"name": "Apuesta_deportiva", "id": 7635552, "predecessors": [{"name": "Apuestas", "id": 2883613}, {"name": "Cultura_deportiva", "id": 2749887}, {"name": "Economía_sectorial", "id": 1024483}], "successors": []}

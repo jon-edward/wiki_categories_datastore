@@ -1,0 +1,1 @@
+{"name": "오염원", "id": 208574, "predecessors": [{"name": "공해", "id": 42224}], "successors": [{"name": "온실_기체", "id": 56817}, {"name": "석면", "id": 290752}]}

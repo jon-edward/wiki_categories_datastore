@@ -1,0 +1,1 @@
+{"name": "Giao_diện_lập_trình_ứng_dụng", "id": 25399, "predecessors": [{"name": "Giao_diện_máy_tính", "id": 25656}, {"name": "Lập_trình_máy_tính", "id": 25631}, {"name": "Thư_viện_máy_tính", "id": 3416808}], "successors": [{"name": "Hệ_thống_X_Window", "id": 51837}, {"name": "Freedesktop.org", "id": 1311478}, {"name": "GTK", "id": 15394732}]}

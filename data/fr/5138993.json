@@ -1,1 +1,1 @@
-{"name": "Rallye_Dakar", "id": 5138993, "predecessors": [{"name": "Épreuve_de_Rallye-raid", "id": 7583974}], "successors": [{"name": "Pilote_du_Rallye_Dakar", "id": 577887}]}
+{"name": "Rallye_Dakar", "id": 5138993, "predecessors": [{"name": "Épreuve_de_Rallye-raid", "id": 7583974}], "successors": [{"name": "Pilote_du_Rallye_Dakar", "id": 577887}, {"name": "Copilote_du_Rallye_Dakar", "id": 16206184}]}

@@ -1,0 +1,1 @@
+{"name": "網路搜尋引擎", "id": 72435, "predecessors": [{"name": "網站", "id": 52951}], "successors": [{"name": "Google", "id": 87063}, {"name": "雅虎", "id": 200893}, {"name": "搜索引擎最佳化", "id": 769861}, {"name": "百度", "id": 816077}, {"name": "Yandex", "id": 7471815}, {"name": "招聘网站", "id": 7549677}]}

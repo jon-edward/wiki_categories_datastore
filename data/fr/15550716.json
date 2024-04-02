@@ -1,1 +1,1 @@
-{"name": "Doctrine_et_enseignement_de_Jésus", "id": 15550716, "predecessors": [{"name": "Doctrine_chrétienne", "id": 354331}, {"name": "Jésus_de_Nazareth", "id": 704810}], "successors": [{"name": "Parabole_de_Jésus", "id": 15550712}]}
+{"name": "Doctrine_et_enseignement_de_Jésus", "id": 15550716, "predecessors": [{"name": "Doctrine_chrétienne", "id": 354331}, {"name": "Jésus_de_Nazareth", "id": 704810}], "successors": [{"name": "Cène", "id": 704895}, {"name": "Parabole_de_Jésus", "id": 15550712}]}

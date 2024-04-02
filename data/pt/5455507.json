@@ -1,0 +1,1 @@
+{"name": "Caminhar", "id": 5455507, "predecessors": [{"name": "Exercícios_físicos", "id": 1040835}, {"name": "Locomoção_terrestre", "id": 7206532}, {"name": "Passatempos", "id": 23932}, {"name": "Viagem", "id": 4485964}, {"name": "Transporte", "id": 604636}], "successors": [{"name": "Pedestrianismo", "id": 1684114}, {"name": "Infraestrutura_pedonal", "id": 5455506}]}

@@ -1,1 +1,1 @@
-{"name": "Conseiller_de_préfecture", "id": 12407017, "predecessors": [{"name": "Juge_français", "id": 9054663}, {"name": "Juridiction_administrative_en_France", "id": 1286255}], "successors": [{"name": "Conseiller_de_préfecture_du_Gard", "id": 12408092}]}
+{"name": "Conseiller_de_préfecture", "id": 12407017, "predecessors": [{"name": "Juge", "id": 9054668}, {"name": "Juridiction_administrative_en_France", "id": 1286255}], "successors": [{"name": "Conseiller_de_préfecture_du_Gard", "id": 12408092}]}

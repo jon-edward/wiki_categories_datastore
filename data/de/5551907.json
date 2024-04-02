@@ -1,1 +1,1 @@
-{"name": "Griechische_Sage", "id": 5551907, "predecessors": [{"name": "Sage", "id": 812095}, {"name": "Mythologie", "id": 235329}], "successors": []}
+{"name": "Griechische_Sage", "id": 5551907, "predecessors": [{"name": "Sage", "id": 812095}, {"name": "Griechische_Mythologie", "id": 244683}, {"name": "Mythologie", "id": 235329}], "successors": []}

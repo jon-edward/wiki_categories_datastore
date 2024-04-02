@@ -1,0 +1,1 @@
+{"name": "Közlekedésbiztonság", "id": 201705, "predecessors": [{"name": "Közlekedés", "id": 14862}, {"name": "Társadalom", "id": 32096}], "successors": [{"name": "Hajótörések", "id": 266627}, {"name": "Vasúti_balesetek", "id": 290930}, {"name": "Vasúti_biztosító_berendezések", "id": 322108}, {"name": "Közlekedési_azonosítók", "id": 479007}]}

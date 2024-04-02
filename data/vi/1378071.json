@@ -1,0 +1,1 @@
+{"name": "Hậu_cần", "id": 1378071, "predecessors": [{"name": "Giao_thông", "id": 7509}, {"name": "Kinh_doanh", "id": 37648}, {"name": "Quản_lý", "id": 52706}, {"name": "Vận_tải", "id": 280326}], "successors": [{"name": "Hàng_tồn_kho", "id": 385228}, {"name": "Hậu_cần_quân_sự", "id": 2889295}, {"name": "Tổ_chức_sự_kiện", "id": 3390110}, {"name": "Nhà_kho", "id": 14709080}]}

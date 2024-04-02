@@ -1,0 +1,1 @@
+{"name": "Vi_sinh_vật", "id": 66463, "predecessors": [{"name": "Sinh_vật", "id": 23540}, {"name": "Vi_sinh_vật_học", "id": 12912}], "successors": [{"name": "Vi_khuẩn", "id": 2966}, {"name": "Virus", "id": 17161}, {"name": "Sinh_vật_nguyên_sinh", "id": 54997}, {"name": "Sinh_vật_nhân_sơ", "id": 120603}, {"name": "Nấm", "id": 246730}, {"name": "Vi_khuẩn_cổ", "id": 314516}]}

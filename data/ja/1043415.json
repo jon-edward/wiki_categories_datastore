@@ -1,0 +1,1 @@
+{"name": "Javaプラットフォーム", "id": 1043415, "predecessors": [{"name": "システムソフトウェア", "id": 1000156}], "successors": [{"name": "Java開発ツール", "id": 924245}, {"name": "Javaプラットフォームソフトウェア", "id": 924253}, {"name": "Java_enterprise_platform", "id": 924319}, {"name": "Java_specification_requests", "id": 924359}, {"name": "Java", "id": 1309383}]}

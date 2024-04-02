@@ -1,1 +1,1 @@
-{"name": "Émission_diffusée_sur_TMC", "id": 4130114, "predecessors": [{"name": "Télévision_en_France", "id": 103627}, {"name": "Communication", "id": 84690}, {"name": "Groupe_TF1", "id": 1789746}], "successors": []}
+{"name": "Émission_diffusée_sur_TMC", "id": 4130114, "predecessors": [{"name": "Émission_de_télévision_diffusée_en_France", "id": 3367354}, {"name": "Communication", "id": 84690}, {"name": "Groupe_TF1", "id": 1789746}], "successors": []}

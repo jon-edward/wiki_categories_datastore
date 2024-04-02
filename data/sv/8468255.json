@@ -1,0 +1,1 @@
+{"name": "Vaccintillverkare", "id": 8468255, "predecessors": [{"name": "Läkemedelsbolag", "id": 514442}, {"name": "Vaccination", "id": 776628}], "successors": [{"name": "Pfizer", "id": 8573926}, {"name": "Glaxo_Smith_Kline", "id": 8619337}]}

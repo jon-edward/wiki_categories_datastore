@@ -1,0 +1,1 @@
+{"name": "화물기", "id": 765150, "predecessors": [{"name": "항공_교통", "id": 40994}], "successors": [{"name": "화물기_사고", "id": 2639395}]}

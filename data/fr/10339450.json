@@ -1,1 +1,1 @@
-{"name": "Palette_Pays_de_la_Loire", "id": 10339450, "predecessors": [{"name": "Palette_Région_française", "id": 4284795}], "successors": [{"name": "Palette_Loire-Atlantique", "id": 6535422}, {"name": "Palette_Vendée", "id": 9096057}]}
+{"name": "Palette_Pays_de_la_Loire", "id": 10339450, "predecessors": [{"name": "Palette_Région_française", "id": 4284795}, {"name": "Accueil", "id": 1155637}], "successors": [{"name": "Palette_Loire-Atlantique", "id": 6535422}, {"name": "Palette_Vendée", "id": 9096057}]}

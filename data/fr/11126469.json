@@ -1,1 +1,1 @@
-{"name": "Musicien_de_hardstyle", "id": 11126469, "predecessors": [{"name": "Musicien_de_techno_hardcore", "id": 9057089}, {"name": "Style_de_techno_hardcore", "id": 3105192}], "successors": []}
+{"name": "Musicien_de_hardstyle", "id": 11126469, "predecessors": [{"name": "Musicien_de_techno_hardcore", "id": 9057089}, {"name": "Genre_de_musique_électronique", "id": 542890}], "successors": []}

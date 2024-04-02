@@ -1,1 +1,1 @@
-{"name": "Postproduktion", "id": 4131282, "predecessors": [{"name": "Filmproduktion", "id": 7938035}, {"name": "Filmtechnik", "id": 243909}, {"name": "Video", "id": 1033677}], "successors": [{"name": "Fotolabortechnik", "id": 4125526}, {"name": "Bildbearbeitung", "id": 4128279}]}
+{"name": "Postproduktion", "id": 4131282, "predecessors": [{"name": "Filmproduktion", "id": 7938035}, {"name": "Filmtechnik", "id": 243909}, {"name": "Videotechnik", "id": 595417}], "successors": [{"name": "Fotolabortechnik", "id": 4125526}, {"name": "Bildbearbeitung", "id": 4128279}]}

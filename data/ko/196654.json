@@ -1,0 +1,1 @@
+{"name": "생산", "id": 196654, "predecessors": [{"name": "산업", "id": 11869}, {"name": "생산_및_제조", "id": 98522}], "successors": [{"name": "제조업", "id": 289097}]}

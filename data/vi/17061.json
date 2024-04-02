@@ -1,0 +1,1 @@
+{"name": "Thiết_bị_y_khoa", "id": 17061, "predecessors": [{"name": "Thiết_bị", "id": 62726}, {"name": "Y_học", "id": 8417}], "successors": [{"name": "Dịch_truyền", "id": 308877}, {"name": "Thiết_bị_nha_khoa", "id": 475550}]}

@@ -1,1 +1,1 @@
-{"name": "Chanteuse_de_RnB", "id": 3459744, "predecessors": [{"name": "Chanteuse_de_rhythm_and_blues", "id": 6248266}, {"name": "Genre_de_hip-hop", "id": 457790}], "successors": []}
+{"name": "Chanteuse_de_RnB", "id": 3459744, "predecessors": [{"name": "Chanteuse_de_rhythm_and_blues", "id": 6248266}, {"name": "RnB", "id": 3459584}], "successors": []}

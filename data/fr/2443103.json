@@ -1,1 +1,1 @@
-{"name": "Automobile_Toyota", "id": 2443103, "predecessors": [{"name": "Toyota", "id": 204985}, {"name": "Automobile", "id": 83581}], "successors": [{"name": "Automobile_Daihatsu", "id": 2266186}]}
+{"name": "Automobile_Toyota", "id": 2443103, "predecessors": [{"name": "Toyota", "id": 204985}, {"name": "Automobile", "id": 83581}], "successors": []}

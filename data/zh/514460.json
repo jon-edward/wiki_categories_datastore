@@ -1,0 +1,1 @@
+{"name": "檔案分享網絡", "id": 514460, "predecessors": [{"name": "檔案分享", "id": 79485}], "successors": [{"name": "BitTorrent", "id": 514459}, {"name": "分布式数据存储", "id": 5654646}]}
