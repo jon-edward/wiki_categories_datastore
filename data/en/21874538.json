@@ -1,1 +1,1 @@
-{"name": "Tasman_Sea", "id": 21874538, "predecessors": [{"name": "Marginal_seas_of_the_Pacific_Ocean", "id": 9302622}], "successors": []}
+{"name": "Tasman_Sea", "id": 21874538, "predecessors": [{"name": "Water_in_Australia", "id": 20943436}], "successors": [{"name": "Shipwrecks_in_the_Tasman_Sea", "id": 3964114}, {"name": "Islands_of_the_Tasman_Sea", "id": 64046621}, {"name": "Seamounts_of_the_Tasman_Sea", "id": 71699791}]}

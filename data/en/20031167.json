@@ -1,1 +1,1 @@
-{"name": "Spanish_dances", "id": 20031167, "predecessors": [{"name": "Spanish_art", "id": 3772679}], "successors": [{"name": "Flamenco", "id": 725297}]}
+{"name": "Spanish_dances", "id": 20031167, "predecessors": [{"name": "European_dances", "id": 1656212}, {"name": "Spanish_art", "id": 3772679}, {"name": "Culture_of_Spain", "id": 724380}], "successors": [{"name": "Flamenco", "id": 725297}]}

@@ -1,1 +1,1 @@
-{"name": "Reacții_acido-bazice", "id": 2424349, "predecessors": [{"name": "Chimie_analitică", "id": 171338}, {"name": "Reacții_chimice", "id": 759638}], "successors": [{"name": "Indicatori_pH", "id": 173638}]}
+{"name": "Reacții_acido-bazice", "id": 2424349, "predecessors": [{"name": "Chimie_analitică", "id": 171338}, {"name": "Chimie_fizică", "id": 201592}, {"name": "Reacții_chimice", "id": 759638}], "successors": [{"name": "Indicatori_pH", "id": 173638}, {"name": "Baze", "id": 217170}, {"name": "Soluții_tampon", "id": 3009763}]}

@@ -1,1 +1,1 @@
-{"name": "Computer-assisted_translation", "id": 21384136, "predecessors": [{"name": "Natural_language_and_computing", "id": 30628568}, {"name": "Translation", "id": 918052}], "successors": [{"name": "Machine_translation", "id": 1019150}]}
+{"name": "Computer-assisted_translation", "id": 21384136, "predecessors": [{"name": "Natural_language_and_computing", "id": 30628568}, {"name": "Translation", "id": 918052}], "successors": [{"name": "Machine_translation", "id": 1019150}, {"name": "Translation_databases", "id": 29437156}, {"name": "Translation_software", "id": 30630773}]}

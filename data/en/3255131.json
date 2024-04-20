@@ -1,1 +1,1 @@
-{"name": "Radiopharmaceuticals", "id": 3255131, "predecessors": [{"name": "Nuclear_medicine", "id": 3135245}], "successors": []}
+{"name": "Radiopharmaceuticals", "id": 3255131, "predecessors": [{"name": "Medicinal_radiochemistry", "id": 45116184}, {"name": "Nuclear_medicine", "id": 3135245}, {"name": "Medicinal_chemistry", "id": 2161858}, {"name": "Drugs", "id": 1325883}], "successors": [{"name": "PET_radiotracers", "id": 46712073}]}

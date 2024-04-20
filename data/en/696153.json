@@ -1,1 +1,1 @@
-{"name": "Desktop_publishing_software", "id": 696153, "predecessors": [{"name": "Graphics_software", "id": 796994}, {"name": "Digital_typography", "id": 1109533}], "successors": [{"name": "TeX", "id": 695136}, {"name": "Linux_TeX_software", "id": 13047793}]}
+{"name": "Desktop_publishing_software", "id": 696153, "predecessors": [{"name": "Graphics_software", "id": 796994}, {"name": "Digital_typography", "id": 1109533}], "successors": [{"name": "TeX", "id": 695136}]}

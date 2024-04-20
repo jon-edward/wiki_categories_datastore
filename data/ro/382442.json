@@ -1,1 +1,1 @@
-{"name": "Scriitori_tunisieni", "id": 382442, "predecessors": [{"name": "Literatură_arabă", "id": 400871}, {"name": "Oameni", "id": 24641}, {"name": "Autori", "id": 265623}], "successors": []}
+{"name": "Scriitori_tunisieni", "id": 382442, "predecessors": [{"name": "Literatură_arabă", "id": 400871}, {"name": "Tunisieni", "id": 162638}, {"name": "Scriitori", "id": 16833}], "successors": [{"name": "Poeți_tunisieni", "id": 759273}]}

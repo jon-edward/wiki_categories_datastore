@@ -1,1 +1,1 @@
-{"name": "Government-owned_airlines", "id": 17723425, "predecessors": [{"name": "Government-owned_transport_companies", "id": 31896548}], "successors": [{"name": "Aeroflot", "id": 10547741}]}
+{"name": "Government-owned_airlines", "id": 17723425, "predecessors": [{"name": "Government-owned_transport_companies", "id": 31896548}, {"name": "Aviation", "id": 735378}], "successors": [{"name": "Aeroflot", "id": 10547741}, {"name": "Alitalia", "id": 16897145}, {"name": "Aerolíneas_Argentinas", "id": 35342110}]}

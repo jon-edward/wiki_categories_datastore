@@ -1,1 +1,1 @@
-{"name": "Duke_University_Press_books", "id": 38248126, "predecessors": [{"name": "Books_published_by_university_presses", "id": 29597039}], "successors": []}
+{"name": "Duke_University_Press_books", "id": 38248126, "predecessors": [{"name": "Duke_University", "id": 989136}, {"name": "Books_published_by_university_presses", "id": 29597039}], "successors": []}

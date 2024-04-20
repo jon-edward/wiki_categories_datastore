@@ -1,1 +1,1 @@
-{"name": "Restaurants_in_Switzerland", "id": 4588696, "predecessors": [{"name": "Swiss_cuisine", "id": 875224}], "successors": [{"name": "Restaurants_in_Zürich", "id": 47981633}]}
+{"name": "Restaurants_in_Switzerland", "id": 4588696, "predecessors": [{"name": "Swiss_cuisine", "id": 875224}, {"name": "Food_and_drink_companies_of_Switzerland", "id": 10560566}], "successors": [{"name": "Restaurants_in_Zürich", "id": 47981633}]}

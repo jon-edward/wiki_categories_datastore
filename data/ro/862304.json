@@ -1,1 +1,1 @@
-{"name": "Formate_Tehnică", "id": 862304, "predecessors": [{"name": "Formate_știință", "id": 751306}, {"name": "Cunoaștere", "id": 749849}], "successors": [{"name": "Formate_construcții", "id": 751232}, {"name": "Formate_automobile", "id": 1169548}]}
+{"name": "Formate_Tehnică", "id": 862304, "predecessors": [{"name": "Formate_știință", "id": 751306}, {"name": "Cunoaștere", "id": 749849}], "successors": [{"name": "Formate_mobilier", "id": 277998}, {"name": "Formate_construcții", "id": 751232}, {"name": "Formate_automobile", "id": 1169548}]}

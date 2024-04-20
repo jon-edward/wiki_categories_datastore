@@ -1,1 +1,1 @@
-{"name": "Language_identifiers", "id": 63171514, "predecessors": [{"name": "Identifiers", "id": 2019925}], "successors": [{"name": "ISO_639", "id": 5561744}]}
+{"name": "Language_identifiers", "id": 63171514, "predecessors": [{"name": "Identifiers", "id": 2019925}, {"name": "Language", "id": 8017451}], "successors": [{"name": "ISO_639", "id": 5561744}]}

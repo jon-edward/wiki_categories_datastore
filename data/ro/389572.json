@@ -1,1 +1,1 @@
-{"name": "Scriitori_militari", "id": 389572, "predecessors": [{"name": "Armată", "id": 28755}, {"name": "Autori", "id": 265623}], "successors": [{"name": "Istorici_militari", "id": 884576}]}
+{"name": "Scriitori_militari", "id": 389572, "predecessors": [{"name": "Armată", "id": 28755}, {"name": "Scriitori", "id": 16833}], "successors": [{"name": "Istorici_militari", "id": 884576}]}

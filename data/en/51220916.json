@@ -1,1 +1,1 @@
-{"name": "German_female_long_jumpers", "id": 51220916, "predecessors": [{"name": "Female_long_jumpers", "id": 26335583}, {"name": "Events_in_track_and_field", "id": 19650184}, {"name": "Athletics_by_country", "id": 30874057}], "successors": [{"name": "East_German_female_long_jumpers", "id": 51220947}]}
+{"name": "German_female_long_jumpers", "id": 51220916, "predecessors": [{"name": "Athletics_in_Europe", "id": 31631161}], "successors": [{"name": "West_German_female_long_jumpers", "id": 51220900}, {"name": "East_German_female_long_jumpers", "id": 51220947}]}

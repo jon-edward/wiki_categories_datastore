@@ -1,1 +1,1 @@
-{"name": "Aminoacizi", "id": 78062, "predecessors": [{"name": "Acizi_carboxilici", "id": 402447}, {"name": "Amine", "id": 109623}, {"name": "Metabolism", "id": 213897}], "successors": [{"name": "Peptide", "id": 821667}]}
+{"name": "Aminoacizi", "id": 78062, "predecessors": [{"name": "Acizi_carboxilici", "id": 402447}, {"name": "Amine", "id": 109623}, {"name": "Metabolism", "id": 213897}], "successors": [{"name": "Aminoacizi_esențiali", "id": 748219}, {"name": "Aminoacizi_neesențiali", "id": 748220}, {"name": "Peptide", "id": 821667}]}

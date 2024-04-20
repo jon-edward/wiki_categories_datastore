@@ -1,1 +1,1 @@
-{"name": "Pomi_fructiferi", "id": 64654, "predecessors": [{"name": "Arbori", "id": 64651}], "successors": []}
+{"name": "Pomi_fructiferi", "id": 64654, "predecessors": [{"name": "Arbori", "id": 64651}, {"name": "Plante_comestibile", "id": 1056615}, {"name": "Plante", "id": 40802}], "successors": []}

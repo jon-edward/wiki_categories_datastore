@@ -1,1 +1,1 @@
-{"name": "Fruit_festivals", "id": 44480478, "predecessors": [{"name": "Edible_fruits", "id": 39951547}, {"name": "Food_and_drink_festivals", "id": 4835012}, {"name": "Gardening", "id": 740309}], "successors": [{"name": "Apple_festivals", "id": 44480709}, {"name": "Wine_festivals", "id": 48793789}]}
+{"name": "Fruit_festivals", "id": 44480478, "predecessors": [{"name": "Edible_fruits", "id": 39951547}, {"name": "Food_and_drink_festivals", "id": 4835012}, {"name": "Gardening", "id": 740309}], "successors": [{"name": "Wine_festivals", "id": 48793789}]}

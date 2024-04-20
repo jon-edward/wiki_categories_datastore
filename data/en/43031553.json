@@ -1,1 +1,1 @@
-{"name": "South_Carolina_Sea_Islands", "id": 43031553, "predecessors": [{"name": "Islands_of_South_Carolina", "id": 2217919}], "successors": []}
+{"name": "South_Carolina_Sea_Islands", "id": 43031553, "predecessors": [{"name": "Barrier_islands_of_South_Carolina", "id": 9684200}, {"name": "Islands_of_South_Carolina", "id": 2217919}, {"name": "Islands_by_type", "id": 65973078}], "successors": [{"name": "Hilton_Head_Island,_South_Carolina", "id": 43291123}]}

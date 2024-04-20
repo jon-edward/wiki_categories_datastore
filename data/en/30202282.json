@@ -1,1 +1,1 @@
-{"name": "Textile_design", "id": 30202282, "predecessors": [{"name": "Textile_arts", "id": 945184}], "successors": [{"name": "Textile_designers", "id": 3520973}, {"name": "Textile_patterns", "id": 11437765}]}
+{"name": "Textile_design", "id": 30202282, "predecessors": [{"name": "Design", "id": 999651}, {"name": "Textile_arts", "id": 945184}], "successors": [{"name": "Textile_designers", "id": 3520973}, {"name": "Textile_patterns", "id": 11437765}]}

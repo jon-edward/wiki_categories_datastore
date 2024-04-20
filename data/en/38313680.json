@@ -1,1 +1,1 @@
-{"name": "Hotel_buildings_completed_in_1997", "id": 38313680, "predecessors": [{"name": "Residential_buildings_completed_in_1997", "id": 33738667}, {"name": "Buildings_and_structures_completed_in_1997", "id": 29729543}, {"name": "Buildings_and_structures_by_type", "id": 6884364}], "successors": []}
+{"name": "Hotel_buildings_completed_in_1997", "id": 38313680, "predecessors": [{"name": "Buildings_and_structures_by_type", "id": 6884364}], "successors": []}

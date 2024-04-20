@@ -1,1 +1,1 @@
-{"name": "Air_defence_radar_networks", "id": 57420208, "predecessors": [{"name": "Military_air_traffic_control", "id": 74151328}, {"name": "Emergency_management", "id": 5047412}, {"name": "Military_equipment", "id": 771670}], "successors": []}
+{"name": "Air_defence_radar_networks", "id": 57420208, "predecessors": [{"name": "Military_air_traffic_control", "id": 74151328}, {"name": "Military_radar_networks", "id": 75877312}, {"name": "Emergency_management", "id": 5047412}], "successors": []}

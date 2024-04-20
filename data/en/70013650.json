@@ -1,1 +1,1 @@
-{"name": "DEC_minicomputers", "id": 70013650, "predecessors": [{"name": "DEC_computers", "id": 65992914}, {"name": "Minicomputers", "id": 802819}], "successors": []}
+{"name": "DEC_minicomputers", "id": 70013650, "predecessors": [{"name": "DEC_computers", "id": 65992914}], "successors": [{"name": "PDP-11", "id": 13675804}]}

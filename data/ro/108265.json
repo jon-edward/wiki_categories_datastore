@@ -1,1 +1,1 @@
-{"name": "Silvicultură", "id": 108265, "predecessors": [{"name": "Inginerie", "id": 21144}], "successors": [{"name": "Arbori", "id": 64651}, {"name": "Păduri", "id": 114026}, {"name": "Lemn", "id": 234953}, {"name": "Ecologie_forestieră", "id": 2319303}]}
+{"name": "Silvicultură", "id": 108265, "predecessors": [{"name": "Agricultură", "id": 28696}], "successors": [{"name": "Arbori", "id": 64651}, {"name": "Păduri", "id": 114026}, {"name": "Lemn", "id": 234953}, {"name": "Ecologie_forestieră", "id": 2319303}]}

@@ -1,1 +1,1 @@
-{"name": "Termochimie", "id": 2008860, "predecessors": [{"name": "Termodinamică", "id": 29170}], "successors": []}
+{"name": "Termochimie", "id": 2008860, "predecessors": [{"name": "Chimie_fizică", "id": 201592}, {"name": "Termodinamică", "id": 29170}], "successors": []}

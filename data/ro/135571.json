@@ -1,1 +1,1 @@
-{"name": "Astronomi_britanici", "id": 135571, "predecessors": [{"name": "Astronomi", "id": 24662}, {"name": "Oameni_de_știință", "id": 758136}], "successors": [{"name": "Astronomi_englezi", "id": 57007}]}
+{"name": "Astronomi_britanici", "id": 135571, "predecessors": [{"name": "Oameni_de_știință_britanici", "id": 998009}, {"name": "Astronomi", "id": 24662}], "successors": [{"name": "Astronomi_englezi", "id": 57007}]}

@@ -1,1 +1,1 @@
-{"name": "Cricket_managers", "id": 7925334, "predecessors": [{"name": "Sports_coaches", "id": 17908961}], "successors": [{"name": "Directors_of_Cricket", "id": 56284759}]}
+{"name": "Cricket_managers", "id": 7925334, "predecessors": [{"name": "Managers", "id": 73279601}], "successors": [{"name": "Directors_of_Cricket", "id": 56284759}]}

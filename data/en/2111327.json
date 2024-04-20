@@ -1,1 +1,1 @@
-{"name": "Internet_bots", "id": 2111327, "predecessors": [{"name": "Internet_Protocol_based_network_software", "id": 32946450}, {"name": "Online_algorithms", "id": 16661272}, {"name": "Software", "id": 691633}], "successors": [{"name": "Chatbots", "id": 8735377}]}
+{"name": "Internet_bots", "id": 2111327, "predecessors": [{"name": "Online_algorithms", "id": 16661272}, {"name": "Software_by_type", "id": 54611051}], "successors": [{"name": "Chatbots", "id": 8735377}]}

@@ -1,0 +1,1 @@
+{"name": "Berlin_S-Bahn", "id": 10519229, "predecessors": [{"name": "Rail_transport_in_Berlin", "id": 26519161}, {"name": "S-Bahn_in_Germany", "id": 1175238}], "successors": [{"name": "Berlin_S-Bahn_lines", "id": 920093}, {"name": "Berlin_S-Bahn_stations", "id": 4092745}, {"name": "Berlin_S-Bahn_route_diagrams", "id": 55763792}]}

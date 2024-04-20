@@ -1,1 +1,1 @@
-{"name": "Stereophonic_sound", "id": 9722784, "predecessors": [{"name": "Audio_engineering", "id": 936702}], "successors": [{"name": "Binaural_recordings", "id": 40442077}]}
+{"name": "Stereophonic_sound", "id": 9722784, "predecessors": [{"name": "Audio_engineering", "id": 936702}, {"name": "Film_sound_production", "id": 3012055}], "successors": [{"name": "Binaural_recordings", "id": 40442077}]}

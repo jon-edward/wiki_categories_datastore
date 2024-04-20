@@ -1,1 +1,1 @@
-{"name": "Hereditary_cancers", "id": 2633752, "predecessors": [{"name": "Types_of_cancer", "id": 2332168}, {"name": "Genetic_diseases_and_disorders", "id": 966814}], "successors": []}
+{"name": "Hereditary_cancers", "id": 2633752, "predecessors": [{"name": "Types_of_cancer", "id": 2332168}, {"name": "Genetic_diseases_and_disorders", "id": 966814}], "successors": [{"name": "Breast_cancer", "id": 17092958}]}

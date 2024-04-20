@@ -1,1 +1,1 @@
-{"name": "Fast-food_chain_founders", "id": 3679146, "predecessors": [{"name": "Restaurateurs", "id": 6023523}, {"name": "Businesspeople_in_the_food_industry", "id": 35836141}], "successors": [{"name": "Pizza_chain_founders", "id": 3658940}]}
+{"name": "Fast-food_chain_founders", "id": 3679146, "predecessors": [{"name": "Fast_food", "id": 730141}, {"name": "Restaurateurs", "id": 6023523}, {"name": "Businesspeople_in_the_food_industry", "id": 35836141}], "successors": [{"name": "Pizza_chain_founders", "id": 3658940}]}

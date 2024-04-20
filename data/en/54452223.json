@@ -1,1 +1,1 @@
-{"name": "Dance_in_art", "id": 54452223, "predecessors": [{"name": "The_arts", "id": 4892515}], "successors": [{"name": "Sculptures_of_dancers", "id": 74215573}]}
+{"name": "Dance_in_art", "id": 54452223, "predecessors": [{"name": "Dance_culture", "id": 4236708}, {"name": "The_arts", "id": 4892515}], "successors": [{"name": "Sculptures_of_dancers", "id": 74215573}]}

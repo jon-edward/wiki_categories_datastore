@@ -1,1 +1,1 @@
-{"name": "Brewery_workers", "id": 32690797, "predecessors": [{"name": "People_in_food_and_agriculture_occupations", "id": 1223913}], "successors": []}
+{"name": "Brewery_workers", "id": 32690797, "predecessors": [{"name": "Brewing", "id": 14893672}, {"name": "People_in_food_and_agriculture_occupations", "id": 1223913}], "successors": [{"name": "Businesspeople_in_brewing", "id": 37111603}]}

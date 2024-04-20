@@ -1,1 +1,1 @@
-{"name": "Avfall", "id": 140898, "predecessors": [{"name": "Materialer", "id": 85828}, {"name": "Miljø", "id": 756266}], "successors": [{"name": "Avfallshåndtering", "id": 1760002}]}
+{"name": "Avfall", "id": 140898, "predecessors": [{"name": "Materialer", "id": 85828}, {"name": "Miljø_og_samfunn", "id": 1951375}], "successors": [{"name": "Avfallshåndtering", "id": 1760002}]}

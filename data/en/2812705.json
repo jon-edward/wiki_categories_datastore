@@ -1,1 +1,1 @@
-{"name": "Sporting_goods_retailers", "id": 2812705, "predecessors": [{"name": "Retailers_by_type_of_merchandise_sold", "id": 55586528}, {"name": "Taxonomy", "id": 918375}], "successors": []}
+{"name": "Sporting_goods_retailers", "id": 2812705, "predecessors": [{"name": "Sports_companies", "id": 51702833}, {"name": "Sports_equipment", "id": 8619631}, {"name": "Entertainment_industry", "id": 40423958}, {"name": "Society", "id": 1633936}], "successors": []}

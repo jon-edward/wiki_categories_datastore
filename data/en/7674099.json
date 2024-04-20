@@ -1,1 +1,1 @@
-{"name": "Food_scientists", "id": 7674099, "predecessors": [{"name": "Food_science", "id": 974555}, {"name": "People_in_food_and_agriculture_occupations", "id": 1223913}], "successors": [{"name": "Vitamin_researchers", "id": 67587513}]}
+{"name": "Food_scientists", "id": 7674099, "predecessors": [{"name": "Food_science", "id": 974555}, {"name": "People_in_food_and_agriculture_occupations", "id": 1223913}], "successors": [{"name": "Food_chemists", "id": 55733384}]}

@@ -1,1 +1,1 @@
-{"name": "Sports_teams_in_Copenhagen", "id": 48382173, "predecessors": [{"name": "Sport_in_Copenhagen", "id": 3321625}], "successors": [{"name": "Football_clubs_in_Copenhagen", "id": 43168169}]}
+{"name": "Sports_teams_in_Copenhagen", "id": 48382173, "predecessors": [{"name": "Sport_in_Copenhagen", "id": 3321625}, {"name": "Health_in_Europe", "id": 29366955}], "successors": [{"name": "Football_clubs_in_Copenhagen", "id": 43168169}]}

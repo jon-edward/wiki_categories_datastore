@@ -1,1 +1,1 @@
-{"name": "Jocuri_de_noroc", "id": 456585, "predecessors": [{"name": "Jocuri", "id": 33027}], "successors": [{"name": "Cazinouri", "id": 456583}, {"name": "Poker", "id": 834248}, {"name": "Loterii", "id": 1377090}, {"name": "Pariuri_sportive", "id": 861759}, {"name": "Case_de_pariuri_din_România", "id": 941016}]}
+{"name": "Jocuri_de_noroc", "id": 456585, "predecessors": [{"name": "Jocuri", "id": 33027}], "successors": [{"name": "Pariuri", "id": 153628}, {"name": "Cazinouri", "id": 456583}, {"name": "Poker", "id": 834248}, {"name": "Loterii", "id": 1377090}]}

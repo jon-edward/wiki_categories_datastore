@@ -1,1 +1,0 @@
-{"name": "Embalaje", "id": 392921, "predecessors": [{"name": "Logística", "id": 334651}, {"name": "Transporte_de_mercancías", "id": 70147}], "successors": [{"name": "Materiales_para_embalajes", "id": 1188886}, {"name": "Cajas", "id": 7353295}, {"name": "Bolsas", "id": 7353319}, {"name": "Problemas_de_empaquetado", "id": 10808185}]}

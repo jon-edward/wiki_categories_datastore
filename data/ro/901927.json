@@ -1,1 +1,1 @@
-{"name": "Securitate_alimentară", "id": 901927, "predecessors": [{"name": "Securitate", "id": 36333}, {"name": "Alimentație", "id": 748204}], "successors": [{"name": "Toxiinfecții_alimentare", "id": 824888}, {"name": "Conservarea_alimentelor", "id": 953071}]}
+{"name": "Securitate_alimentară", "id": 901927, "predecessors": [{"name": "Alimentație", "id": 748204}], "successors": [{"name": "Toxiinfecții_alimentare", "id": 824888}, {"name": "Conservarea_alimentelor", "id": 953071}]}

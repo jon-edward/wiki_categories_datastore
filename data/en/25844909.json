@@ -1,1 +1,1 @@
-{"name": "Compositions_for_string_orchestra", "id": 25844909, "predecessors": [{"name": "Compositions_for_orchestra", "id": 35116959}, {"name": "String_instruments", "id": 691673}], "successors": []}
+{"name": "Compositions_for_string_orchestra", "id": 25844909, "predecessors": [{"name": "Compositions_for_orchestra", "id": 35116959}, {"name": "String_instruments", "id": 691673}, {"name": "Orchestras", "id": 857996}], "successors": [{"name": "Symphonies_for_string_orchestra", "id": 34072636}]}

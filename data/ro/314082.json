@@ -1,1 +1,1 @@
-{"name": "Autocamioane", "id": 314082, "predecessors": [{"name": "Autovehicule", "id": 888241}, {"name": "Camioane", "id": 646455}], "successors": []}
+{"name": "Autocamioane", "id": 314082, "predecessors": [{"name": "Autovehicule", "id": 888241}, {"name": "Camioane", "id": 646455}], "successors": [{"name": "Autobasculante", "id": 1168521}]}

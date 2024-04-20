@@ -1,1 +1,1 @@
-{"name": "Bengali-language_books", "id": 37501001, "predecessors": [{"name": "Books", "id": 694040}, {"name": "Mass_media", "id": 696790}], "successors": [{"name": "Bengali-language_novels", "id": 36291857}]}
+{"name": "Bengali-language_books", "id": 37501001, "predecessors": [{"name": "Books", "id": 694040}, {"name": "Indian_books", "id": 6732683}, {"name": "Bengali_language", "id": 3421058}], "successors": [{"name": "Bengali-language_novels", "id": 36291857}]}

@@ -1,1 +1,1 @@
-{"name": "Chess_websites", "id": 5062733, "predecessors": [{"name": "Mass_media", "id": 696790}, {"name": "Board_games", "id": 9205892}], "successors": [{"name": "Internet_chess_servers", "id": 10066825}, {"name": "Chess.com", "id": 75813763}]}
+{"name": "Chess_websites", "id": 5062733, "predecessors": [{"name": "Games_related_to_chaturanga", "id": 61004779}, {"name": "Human_communication", "id": 709574}], "successors": [{"name": "Internet_chess_servers", "id": 10066825}, {"name": "Chess.com", "id": 75813763}]}

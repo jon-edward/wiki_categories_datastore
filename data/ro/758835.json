@@ -1,1 +1,1 @@
-{"name": "Organizații_de_salvare", "id": 758835, "predecessors": [{"name": "Organizații", "id": 758822}, {"name": "Securitate", "id": 36333}], "successors": [{"name": "Pompieri", "id": 129262}, {"name": "Protecție_civilă", "id": 1363165}]}
+{"name": "Organizații_de_salvare", "id": 758835, "predecessors": [{"name": "Organizații", "id": 758822}, {"name": "Servicii", "id": 11022}, {"name": "Viață", "id": 760559}], "successors": [{"name": "Pompieri", "id": 129262}, {"name": "Protecție_civilă", "id": 1363165}]}

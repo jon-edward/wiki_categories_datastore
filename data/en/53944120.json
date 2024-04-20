@@ -1,1 +1,1 @@
-{"name": "News_aggregator_software", "id": 53944120, "predecessors": [{"name": "Internet_Protocol_based_network_software", "id": 32946450}, {"name": "News_aggregators", "id": 6318505}], "successors": []}
+{"name": "News_aggregator_software", "id": 53944120, "predecessors": [{"name": "News_aggregators", "id": 6318505}], "successors": []}

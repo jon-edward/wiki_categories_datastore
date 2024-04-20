@@ -1,1 +1,1 @@
-{"name": "Companii_de_retail_de_îmbrăcăminte", "id": 652293, "predecessors": [{"name": "Companii_de_retail", "id": 366832}, {"name": "Îmbrăcăminte", "id": 389147}, {"name": "Companii", "id": 32300}], "successors": []}
+{"name": "Companii_de_retail_de_îmbrăcăminte", "id": 652293, "predecessors": [{"name": "Companii_de_retail", "id": 366832}, {"name": "Îmbrăcăminte", "id": 389147}, {"name": "Companii", "id": 32300}], "successors": [{"name": "Companii_de_retail_de_îmbrăcăminte_din_România", "id": 650687}]}

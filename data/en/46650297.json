@@ -1,1 +1,1 @@
-{"name": "Featured_pictures_of_London", "id": 46650297, "predecessors": [{"name": "Featured_pictures_of_England", "id": 48558642}], "successors": [{"name": "Featured_pictures_of_artworks_in_London", "id": 46650402}]}
+{"name": "Featured_pictures_of_London", "id": 46650297, "predecessors": [{"name": "Featured_pictures_of_England", "id": 48558642}, {"name": "British_Isles", "id": 724452}], "successors": [{"name": "Featured_pictures_of_artworks_in_London", "id": 46650402}]}

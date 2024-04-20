@@ -1,1 +1,1 @@
-{"name": "Operatori_liniari", "id": 2809191, "predecessors": [{"name": "Algebră_liniară", "id": 53894}, {"name": "Analiză_funcțională", "id": 748224}, {"name": "Funcții_matematice", "id": 751629}], "successors": [{"name": "Transformări", "id": 2809157}]}
+{"name": "Operatori_liniari", "id": 2809191, "predecessors": [{"name": "Algebră_liniară", "id": 53894}, {"name": "Analiză_funcțională", "id": 748224}, {"name": "Funcții_matematice", "id": 751629}, {"name": "Teoria_operatorilor", "id": 1660126}], "successors": [{"name": "Transformări", "id": 2809157}]}

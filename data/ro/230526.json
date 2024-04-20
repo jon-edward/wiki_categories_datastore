@@ -1,1 +1,1 @@
-{"name": "Apidae", "id": 230526, "predecessors": [{"name": "Familii_de_insecte", "id": 1123134}], "successors": []}
+{"name": "Apidae", "id": 230526, "predecessors": [{"name": "Familii_de_insecte", "id": 1123134}, {"name": "Agenți_biologici_de_control", "id": 1122627}], "successors": [{"name": "Apis_mellifera", "id": 230524}]}

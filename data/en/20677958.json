@@ -1,1 +1,1 @@
-{"name": "Armoured_trains", "id": 20677958, "predecessors": [{"name": "Trains", "id": 1784707}, {"name": "Armoured_fighting_vehicles", "id": 12171698}, {"name": "Military_railways", "id": 16726899}], "successors": [{"name": "Armoured_trains_of_Poland", "id": 28615198}]}
+{"name": "Armoured_trains", "id": 20677958, "predecessors": [{"name": "Armoured_fighting_vehicles_by_type", "id": 12201237}, {"name": "Trains", "id": 1784707}, {"name": "Military_railways", "id": 16726899}], "successors": [{"name": "Armoured_trains_of_Poland", "id": 28615198}]}

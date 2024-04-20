@@ -1,1 +1,1 @@
-{"name": "Fenomene_solare", "id": 788526, "predecessors": [{"name": "Fenomene_stelare", "id": 229883}, {"name": "Soare", "id": 184224}], "successors": []}
+{"name": "Fenomene_solare", "id": 788526, "predecessors": [{"name": "Fenomene_stelare", "id": 229883}, {"name": "Soare", "id": 184224}], "successors": [{"name": "Cicluri_solare", "id": 3078133}, {"name": "Vânt_solar", "id": 3078233}]}

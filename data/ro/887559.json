@@ -1,1 +1,1 @@
-{"name": "Managementul_deșeurilor", "id": 887559, "predecessors": [{"name": "Deșeuri", "id": 750557}, {"name": "Protecția_mediului", "id": 759550}, {"name": "Mediu_înconjurător", "id": 68850}], "successors": []}
+{"name": "Managementul_deșeurilor", "id": 887559, "predecessors": [{"name": "Deșeuri", "id": 750557}, {"name": "Gospodărirea_mediului_înconjurător", "id": 1106603}, {"name": "Mediu_înconjurător", "id": 68850}], "successors": [{"name": "Reciclare_(tehnologică)", "id": 887550}]}

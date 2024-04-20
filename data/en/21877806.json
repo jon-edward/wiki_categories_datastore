@@ -1,1 +1,1 @@
-{"name": "Maars", "id": 21877806, "predecessors": [{"name": "Volcanic_craters", "id": 25567651}, {"name": "Igneous_intrusions", "id": 64787595}], "successors": [{"name": "Maars_of_Australia", "id": 22403795}, {"name": "Maars_of_New_Zealand", "id": 22403926}, {"name": "Maars_of_the_Eifel", "id": 49582845}]}
+{"name": "Maars", "id": 21877806, "predecessors": [{"name": "Volcanic_craters", "id": 25567651}], "successors": [{"name": "Maars_of_Australia", "id": 22403795}, {"name": "Maars_of_New_Zealand", "id": 22403926}, {"name": "Maars_of_the_Eifel", "id": 49582845}]}

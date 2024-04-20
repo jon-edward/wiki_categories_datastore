@@ -1,1 +1,1 @@
-{"name": "Hebrew-language_religious_books", "id": 64314549, "predecessors": [{"name": "Hebrew-language_mass_media", "id": 24160648}], "successors": [{"name": "Hasidic_literature", "id": 27161137}]}
+{"name": "Hebrew-language_religious_books", "id": 64314549, "predecessors": [{"name": "Hebrew-language_literature", "id": 31783693}, {"name": "Jewish_literature", "id": 3687043}, {"name": "Religious_books", "id": 37473931}, {"name": "Sifrei_Kodesh", "id": 67606701}], "successors": [{"name": "Hasidic_literature", "id": 27161137}]}

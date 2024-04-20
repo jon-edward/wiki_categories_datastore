@@ -1,1 +1,1 @@
-{"name": "Clergy_with_disabilities", "id": 74056062, "predecessors": [{"name": "Social_groups", "id": 1093141}], "successors": []}
+{"name": "Clergy_with_disabilities", "id": 74056062, "predecessors": [{"name": "Clergy", "id": 3209176}], "successors": [{"name": "Blind_clergy", "id": 37589477}]}

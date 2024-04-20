@@ -1,1 +1,1 @@
-{"name": "Elapidae", "id": 646731, "predecessors": [{"name": "Familii_de_reptile", "id": 1696792}], "successors": []}
+{"name": "Elapidae", "id": 646731, "predecessors": [{"name": "Familii_de_reptile", "id": 1696792}, {"name": "Șerpi", "id": 761013}], "successors": [{"name": "Micrurus", "id": 1550430}, {"name": "Naja", "id": 1550458}, {"name": "Oxyuranus", "id": 1576297}]}

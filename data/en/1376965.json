@@ -1,1 +1,1 @@
-{"name": "Snow_removal", "id": 1376965, "predecessors": [{"name": "Inclement_weather_management", "id": 26144418}], "successors": [{"name": "Snowplows", "id": 48893165}]}
+{"name": "Snow_removal", "id": 1376965, "predecessors": [{"name": "Inclement_weather_management", "id": 26144418}, {"name": "Snow", "id": 1376968}], "successors": [{"name": "Snowplows", "id": 48893165}]}

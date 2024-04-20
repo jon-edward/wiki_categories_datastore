@@ -1,1 +1,1 @@
-{"name": "Ancient_libraries", "id": 34978679, "predecessors": [{"name": "Defunct_libraries", "id": 3265648}, {"name": "Library_history", "id": 50753242}, {"name": "Architectural_history", "id": 946482}], "successors": [{"name": "Library_of_Alexandria", "id": 76161133}]}
+{"name": "Ancient_libraries", "id": 34978679, "predecessors": [{"name": "Defunct_libraries", "id": 3265648}, {"name": "Library_history", "id": 50753242}, {"name": "Ancient_history", "id": 895826}], "successors": [{"name": "Library_of_Alexandria", "id": 76161133}]}

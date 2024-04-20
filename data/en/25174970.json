@@ -1,1 +1,1 @@
-{"name": "Tourism_in_Auvergne-Rhône-Alpes", "id": 25174970, "predecessors": [{"name": "Auvergne-Rhône-Alpes", "id": 2800060}], "successors": [{"name": "Lake_Geneva", "id": 33951999}]}
+{"name": "Tourism_in_Auvergne-Rhône-Alpes", "id": 25174970, "predecessors": [{"name": "Auvergne-Rhône-Alpes", "id": 2800060}, {"name": "Tourism_in_France", "id": 2664305}], "successors": [{"name": "Lake_Geneva", "id": 33951999}]}

@@ -1,0 +1,1 @@
+{"name": "Active_galaxies", "id": 962538, "predecessors": [{"name": "Galaxies", "id": 720975}], "successors": [{"name": "Quasars", "id": 939619}, {"name": "Starburst_galaxies", "id": 956107}, {"name": "Radio_galaxies", "id": 969808}, {"name": "Seyfert_galaxies", "id": 977082}]}

@@ -1,1 +1,1 @@
-{"name": "Polyethers", "id": 5307677, "predecessors": [{"name": "Organic_polymers", "id": 987522}], "successors": [{"name": "Polyether_toxins", "id": 54232695}]}
+{"name": "Polyethers", "id": 5307677, "predecessors": [{"name": "Ethers", "id": 749636}, {"name": "Organic_polymers", "id": 987522}], "successors": [{"name": "Polyether_toxins", "id": 54232695}]}

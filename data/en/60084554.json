@@ -1,1 +1,1 @@
-{"name": "U.S._Route_160", "id": 60084554, "predecessors": [{"name": "U.S._Route_60", "id": 12134262}], "successors": []}
+{"name": "U.S._Route_160", "id": 60084554, "predecessors": [{"name": "U.S._Highways_in_Arizona", "id": 3475096}, {"name": "U.S._Highways_in_Colorado", "id": 3118278}, {"name": "U.S._Highways_in_Kansas", "id": 3119062}, {"name": "U.S._Highways_in_Missouri", "id": 3136291}, {"name": "U.S._Highways_in_New_Mexico", "id": 3454893}, {"name": "U.S._Highways_in_Utah", "id": 3119869}, {"name": "U.S._Route_60", "id": 12134262}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Anti-aircraft_warfare", "id": 20648581, "predecessors": [{"name": "Aerial_warfare", "id": 1054954}, {"name": "Emergency_management", "id": 5047412}], "successors": [{"name": "Anti-aircraft_weapons", "id": 1023632}, {"name": "Missile_defense", "id": 13373210}, {"name": "Military_radars", "id": 14915936}]}
+{"name": "Anti-aircraft_warfare", "id": 20648581, "predecessors": [{"name": "Aerial_warfare", "id": 1054954}, {"name": "Emergency_management", "id": 5047412}], "successors": [{"name": "Missile_defense", "id": 13373210}, {"name": "Military_radars", "id": 14915936}]}

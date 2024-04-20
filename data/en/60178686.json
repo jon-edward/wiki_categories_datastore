@@ -1,1 +1,1 @@
-{"name": "Genetics_studies", "id": 60178686, "predecessors": [{"name": "Genetics", "id": 696008}, {"name": "Quantitative_genetics", "id": 70306522}], "successors": [{"name": "Twin_studies", "id": 31438425}]}
+{"name": "Genetics_studies", "id": 60178686, "predecessors": [{"name": "Quantitative_genetics", "id": 70306522}], "successors": [{"name": "Twin_studies", "id": 31438425}]}

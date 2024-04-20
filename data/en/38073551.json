@@ -1,1 +1,1 @@
-{"name": "Barrages_(dam)", "id": 38073551, "predecessors": [{"name": "Dams_by_type", "id": 17500975}, {"name": "Flood_control", "id": 26376731}], "successors": [{"name": "Tidal_barrages", "id": 44947915}, {"name": "Barrages_in_India", "id": 57374962}]}
+{"name": "Barrages_(dam)", "id": 38073551, "predecessors": [{"name": "Flood_control", "id": 26376731}], "successors": [{"name": "Barrages_in_India", "id": 57374962}]}

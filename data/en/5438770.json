@@ -1,1 +1,1 @@
-{"name": "Pyrophosphates", "id": 5438770, "predecessors": [{"name": "Phosphates", "id": 1934178}], "successors": []}
+{"name": "Pyrophosphates", "id": 5438770, "predecessors": [{"name": "Functional_groups", "id": 724516}, {"name": "Phosphates", "id": 1934178}], "successors": []}

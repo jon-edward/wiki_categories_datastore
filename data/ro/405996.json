@@ -1,1 +1,1 @@
-{"name": "Formate_opere_după_compozitor", "id": 405996, "predecessors": [{"name": "Formate_compozitori", "id": 406001}, {"name": "Formate_operă", "id": 379375}], "successors": [{"name": "Jacques_Offenbach", "id": 485073}]}
+{"name": "Formate_opere_după_compozitor", "id": 405996, "predecessors": [{"name": "Formate_compozitori", "id": 406001}, {"name": "Formate_operă", "id": 379375}, {"name": "Compozitori", "id": 19481}], "successors": [{"name": "Jacques_Offenbach", "id": 485073}]}

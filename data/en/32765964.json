@@ -1,1 +1,1 @@
-{"name": "Arabic_alphabets", "id": 32765964, "predecessors": [{"name": "Alphabets", "id": 36431011}], "successors": [{"name": "Arabic_alphabets_for_South_Asian_languages", "id": 49095556}]}
+{"name": "Arabic_alphabets", "id": 32765964, "predecessors": [{"name": "Alphabets", "id": 36431011}, {"name": "Arabic_script", "id": 10559906}], "successors": [{"name": "Arabic_alphabets_for_South_Asian_languages", "id": 49095556}]}

@@ -1,1 +1,1 @@
-{"name": "Food_markets", "id": 10614502, "predecessors": [{"name": "Retail_markets", "id": 21600631}, {"name": "Food_industry", "id": 3540193}], "successors": [{"name": "Fish_markets", "id": 6229656}, {"name": "Food_halls", "id": 43557139}]}
+{"name": "Food_markets", "id": 10614502, "predecessors": [{"name": "Food_retailing", "id": 2189204}, {"name": "Retail_markets", "id": 21600631}, {"name": "Food_industry", "id": 3540193}], "successors": [{"name": "Fish_markets", "id": 6229656}, {"name": "Farmers'_markets", "id": 41766986}, {"name": "Food_halls", "id": 43557139}]}

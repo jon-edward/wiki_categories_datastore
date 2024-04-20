@@ -1,1 +1,1 @@
-{"name": "Emigrants_from_Nazi_Germany_to_France", "id": 64998331, "predecessors": [{"name": "Emigrants_from_Nazi_Germany", "id": 53506346}], "successors": [{"name": "Jewish_emigrants_from_Nazi_Germany_to_France", "id": 64948464}]}
+{"name": "Emigrants_from_Nazi_Germany_to_France", "id": 64998331, "predecessors": [{"name": "Emigrants_from_Nazi_Germany", "id": 53506346}, {"name": "German_emigrants_to_France", "id": 32207055}], "successors": [{"name": "Jewish_emigrants_from_Nazi_Germany_to_France", "id": 64948464}]}

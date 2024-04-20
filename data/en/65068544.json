@@ -1,1 +1,1 @@
-{"name": "Austin_FC_players", "id": 65068544, "predecessors": [{"name": "Major_League_Soccer_teams", "id": 4144466}], "successors": []}
+{"name": "Austin_FC_players", "id": 65068544, "predecessors": [{"name": "Major_League_Soccer_players", "id": 7161109}, {"name": "Major_League_Soccer_teams", "id": 4144466}], "successors": [{"name": "Austin_FC_II_players", "id": 73406688}]}

@@ -1,1 +1,1 @@
-{"name": "PASOK_politicians", "id": 10395249, "predecessors": [{"name": "PASOK", "id": 35025873}], "successors": [{"name": "PASOK_MEPs", "id": 28231407}]}
+{"name": "PASOK_politicians", "id": 10395249, "predecessors": [{"name": "PASOK", "id": 35025873}, {"name": "Politics_of_Europe", "id": 27067863}, {"name": "Greek_politicians", "id": 734436}], "successors": [{"name": "PASOK_MEPs", "id": 28231407}]}

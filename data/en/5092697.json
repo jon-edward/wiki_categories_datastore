@@ -1,1 +1,1 @@
-{"name": "Reconnaissance_satellites_of_Russia", "id": 5092697, "predecessors": [{"name": "Satellites_of_Russia", "id": 39469452}, {"name": "Military_satellites", "id": 9284603}, {"name": "Reconnaissance_satellites", "id": 915595}], "successors": [{"name": "Oko", "id": 34985065}]}
+{"name": "Reconnaissance_satellites_of_Russia", "id": 5092697, "predecessors": [{"name": "Military_satellites", "id": 9284603}, {"name": "Geographic_data_and_information", "id": 51208626}, {"name": "Reconnaissance_satellites", "id": 915595}], "successors": [{"name": "Oko", "id": 34985065}]}

@@ -1,1 +1,1 @@
-{"name": "Unde", "id": 39631, "predecessors": [{"name": "Fenomene_fizice", "id": 212760}], "successors": [{"name": "Sunet", "id": 39630}, {"name": "Lumină", "id": 178099}, {"name": "Radiații", "id": 759609}, {"name": "Mecanică_ondulatorie", "id": 890154}]}
+{"name": "Unde", "id": 39631, "predecessors": [{"name": "Fenomene_fizice", "id": 212760}], "successors": [{"name": "Sunet", "id": 39630}, {"name": "Lumină", "id": 178099}, {"name": "Radiații", "id": 759609}, {"name": "Mecanică_ondulatorie", "id": 890154}, {"name": "Microunde", "id": 1921307}]}

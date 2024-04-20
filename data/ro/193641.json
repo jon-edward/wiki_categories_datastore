@@ -1,1 +1,1 @@
-{"name": "Alimentări_cu_apă", "id": 193641, "predecessors": [{"name": "Hidrotehnică", "id": 370405}], "successors": [{"name": "Antarctica", "id": 41108}]}
+{"name": "Alimentări_cu_apă", "id": 193641, "predecessors": [{"name": "Hidrotehnică", "id": 370405}], "successors": [{"name": "Antarctica", "id": 41108}, {"name": "Fluvii", "id": 21342}, {"name": "Râuri", "id": 24273}, {"name": "Lacuri", "id": 24275}, {"name": "Aisberguri", "id": 40665}, {"name": "Zăpadă", "id": 44142}, {"name": "Ghețari", "id": 752567}, {"name": "Ghețari_din_Antarctica", "id": 2857843}]}

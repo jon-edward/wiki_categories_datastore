@@ -1,1 +1,1 @@
-{"name": "Software_patent_law", "id": 34310598, "predecessors": [{"name": "Patent_law", "id": 702475}, {"name": "Computer_law", "id": 1166522}], "successors": [{"name": "Software_patent_case_law", "id": 34294009}]}
+{"name": "Software_patent_law", "id": 34310598, "predecessors": [{"name": "Computer_law", "id": 1166522}], "successors": [{"name": "Software_patent_case_law", "id": 34294009}]}

@@ -1,1 +1,1 @@
-{"name": "Social_network_analysis", "id": 68542719, "predecessors": [{"name": "Mass_media_monitoring", "id": 49425779}, {"name": "Social_networks", "id": 6045536}, {"name": "Computer_science", "id": 691117}], "successors": []}
+{"name": "Social_network_analysis", "id": 68542719, "predecessors": [{"name": "Mass_media_monitoring", "id": 49425779}, {"name": "Network_science", "id": 68459817}, {"name": "Social_networks", "id": 6045536}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Oxyanions", "id": 3368648, "predecessors": [{"name": "Anions", "id": 697668}], "successors": [{"name": "Carbonates", "id": 697682}]}
+{"name": "Oxyanions", "id": 3368648, "predecessors": [{"name": "Anions", "id": 697668}, {"name": "Oxygen_compounds", "id": 1692041}], "successors": [{"name": "Carbonates", "id": 697682}]}

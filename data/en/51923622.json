@@ -1,1 +1,1 @@
-{"name": "British_women_mathematicians", "id": 51923622, "predecessors": [{"name": "British_women_scientists", "id": 35021887}], "successors": []}
+{"name": "British_women_mathematicians", "id": 51923622, "predecessors": [{"name": "British_mathematicians", "id": 1073817}, {"name": "British_women_scientists", "id": 35021887}], "successors": [{"name": "British_women_statisticians", "id": 76526481}]}

@@ -1,1 +1,1 @@
-{"name": "Western_de_groază", "id": 2828186, "predecessors": [{"name": "Groază", "id": 1238900}], "successors": [{"name": "Filme_western_de_groază", "id": 2736081}]}
+{"name": "Western_de_groază", "id": 2828186, "predecessors": [{"name": "Groază", "id": 1238900}, {"name": "Western", "id": 877661}], "successors": [{"name": "Filme_western_de_groază", "id": 2736081}]}

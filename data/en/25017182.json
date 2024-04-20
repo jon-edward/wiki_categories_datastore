@@ -1,1 +1,1 @@
-{"name": "Logical_connectives", "id": 25017182, "predecessors": [{"name": "Boolean_algebra", "id": 705249}, {"name": "Logic_symbols", "id": 34848776}], "successors": []}
+{"name": "Logical_connectives", "id": 25017182, "predecessors": [{"name": "Binary_operations", "id": 4190449}, {"name": "Boolean_algebra", "id": 705249}, {"name": "Logic_symbols", "id": 34848776}, {"name": "Propositional_calculus", "id": 27221591}], "successors": []}

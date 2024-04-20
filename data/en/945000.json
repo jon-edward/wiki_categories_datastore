@@ -1,0 +1,1 @@
+{"name": "Mid-engined_vehicles", "id": 945000, "predecessors": [{"name": "Car_layouts", "id": 944957}], "successors": [{"name": "Rear_mid-engine,_rear-wheel-drive_vehicles", "id": 33957869}, {"name": "Rear_mid-engine,_all-wheel-drive_vehicles", "id": 45538353}, {"name": "Front_mid-engine,_rear-wheel-drive_vehicles", "id": 58153087}]}

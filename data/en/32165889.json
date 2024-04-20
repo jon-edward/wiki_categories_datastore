@@ -1,1 +1,1 @@
-{"name": "People_from_Carthage", "id": 32165889, "predecessors": [{"name": "Carthage", "id": 1020211}], "successors": []}
+{"name": "People_from_Carthage", "id": 32165889, "predecessors": [{"name": "Carthage", "id": 1020211}, {"name": "People_from_Tunis_Governorate", "id": 25056171}, {"name": "Cities_by_type", "id": 34199755}], "successors": [{"name": "Carthaginians", "id": 1368144}, {"name": "Punics", "id": 62269192}]}

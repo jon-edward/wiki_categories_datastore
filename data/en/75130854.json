@@ -1,1 +1,1 @@
-{"name": "Optical_quantities", "id": 75130854, "predecessors": [{"name": "Optical_metrology", "id": 5241334}, {"name": "Optics", "id": 692743}, {"name": "Physical_quantities", "id": 18726608}], "successors": []}
+{"name": "Optical_quantities", "id": 75130854, "predecessors": [{"name": "Optics", "id": 692743}, {"name": "Physical_quantities", "id": 18726608}], "successors": [{"name": "Units_of_luminous_intensity", "id": 753477}, {"name": "Units_of_luminance", "id": 6438258}]}

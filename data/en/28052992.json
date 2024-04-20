@@ -1,1 +1,1 @@
-{"name": "MorphOS", "id": 28052992, "predecessors": [{"name": "Amiga", "id": 1863151}, {"name": "AmigaOS", "id": 4905727}, {"name": "Proprietary_operating_systems", "id": 17495060}], "successors": [{"name": "MorphOS_software", "id": 28052781}, {"name": "Amiga_APIs", "id": 28066568}]}
+{"name": "MorphOS", "id": 28052992, "predecessors": [{"name": "Amiga", "id": 1863151}, {"name": "AmigaOS", "id": 4905727}, {"name": "Proprietary_operating_systems", "id": 17495060}], "successors": [{"name": "MorphOS_software", "id": 28052781}]}

@@ -1,1 +1,1 @@
-{"name": "RMS_Titanic", "id": 940500, "predecessors": [{"name": "Epave_în_Oceanul_Atlantic", "id": 941437}, {"name": "Naufragii_în_Oceanul_Atlantic", "id": 439434}, {"name": "Nave_White_Star", "id": 931799}], "successors": []}
+{"name": "RMS_Titanic", "id": 940500, "predecessors": [{"name": "Epave_în_Oceanul_Atlantic", "id": 941437}, {"name": "Naufragii_în_Oceanul_Atlantic", "id": 439434}, {"name": "Nave_White_Star", "id": 931799}, {"name": "Nave_de_pasageri_britanice", "id": 664001}, {"name": "Pacheboturi", "id": 439436}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "CTV_Sports", "id": 17263796, "predecessors": [{"name": "Sports_divisions_of_TV_channels", "id": 1811450}], "successors": []}
+{"name": "CTV_Sports", "id": 17263796, "predecessors": [{"name": "CTV_Television_Network", "id": 23090798}, {"name": "Sports_divisions_of_TV_channels", "id": 1811450}, {"name": "Culture_of_Canada", "id": 713767}], "successors": []}

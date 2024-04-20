@@ -1,1 +1,1 @@
-{"name": "Marsupiale", "id": 78526, "predecessors": [{"name": "Mamifere", "id": 37692}], "successors": [{"name": "Diprotodontia", "id": 204554}, {"name": "Marsupiale_carnivore", "id": 827962}]}
+{"name": "Marsupiale", "id": 78526, "predecessors": [{"name": "Clasificarea_mamiferelor", "id": 1682915}], "successors": [{"name": "Dasyuromorphia", "id": 204545}, {"name": "Diprotodontia", "id": 204554}, {"name": "Marsupiale_carnivore", "id": 827962}]}

@@ -1,1 +1,1 @@
-{"name": "Union_Navy_surgeons", "id": 70122281, "predecessors": [{"name": "Union_Navy_officers", "id": 1002555}, {"name": "United_States_Navy_Medical_Corps_officers", "id": 38556968}, {"name": "American_Civil_War_medicine", "id": 16825710}], "successors": []}
+{"name": "Union_Navy_surgeons", "id": 70122281, "predecessors": [{"name": "American_Civil_War_surgeons", "id": 6360498}, {"name": "Union_Navy_officers", "id": 1002555}, {"name": "United_States_Navy_Medical_Corps_officers", "id": 38556968}], "successors": []}

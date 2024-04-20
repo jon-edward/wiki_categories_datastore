@@ -1,1 +1,1 @@
-{"name": "Scottish_masculine_given_names", "id": 16168411, "predecessors": [{"name": "Scottish_given_names", "id": 9736396}], "successors": []}
+{"name": "Scottish_masculine_given_names", "id": 16168411, "predecessors": [{"name": "Masculine_given_names", "id": 10066692}, {"name": "Scottish_given_names", "id": 9736396}], "successors": [{"name": "Scottish_Gaelic_masculine_given_names", "id": 28966001}]}

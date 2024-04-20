@@ -1,1 +1,1 @@
-{"name": "IOS_web_browsers", "id": 45296775, "predecessors": [{"name": "IOS_software", "id": 30128111}], "successors": []}
+{"name": "IOS_web_browsers", "id": 45296775, "predecessors": [{"name": "IOS_software", "id": 30128111}, {"name": "Mobile_web_browsers", "id": 34313639}], "successors": []}

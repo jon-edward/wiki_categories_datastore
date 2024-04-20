@@ -1,1 +1,1 @@
-{"name": "Canto", "id": 398854, "predecessors": [{"name": "Interpretare_muzicală", "id": 351653}, {"name": "Muzică_vocală", "id": 398859}, {"name": "Cântece", "id": 234083}], "successors": [{"name": "Profesori_de_canto_români", "id": 826602}]}
+{"name": "Canto", "id": 398854, "predecessors": [{"name": "Interpretare_muzicală", "id": 351653}, {"name": "Muzică_vocală", "id": 398859}, {"name": "Cântece", "id": 234083}], "successors": [{"name": "Tehnici_vocale", "id": 398849}, {"name": "Profesori_de_canto_români", "id": 826602}]}

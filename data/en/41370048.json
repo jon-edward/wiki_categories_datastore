@@ -1,1 +1,1 @@
-{"name": "Bunkers_in_Europe", "id": 41370048, "predecessors": [{"name": "Bunkers", "id": 14856164}], "successors": [{"name": "Bunkers_in_Germany", "id": 42001686}, {"name": "V-weapon_subterranea", "id": 29966555}, {"name": "Führer_Headquarters", "id": 37655597}]}
+{"name": "Bunkers_in_Europe", "id": 41370048, "predecessors": [{"name": "Bunkers", "id": 14856164}, {"name": "Military_history_of_Europe", "id": 13165844}, {"name": "Continents", "id": 788686}], "successors": [{"name": "Nazi_subterranea", "id": 29823169}, {"name": "Bunkers_in_Germany", "id": 42001686}]}

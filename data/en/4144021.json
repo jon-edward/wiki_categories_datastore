@@ -1,1 +1,1 @@
-{"name": "Korean_writing_system", "id": 4144021, "predecessors": [{"name": "Korean_language", "id": 919809}], "successors": [{"name": "Hangul", "id": 4144231}, {"name": "CJK_typefaces", "id": 24712841}]}
+{"name": "Korean_writing_system", "id": 4144021, "predecessors": [{"name": "Korean_language", "id": 919809}, {"name": "Writing_systems_of_Asia", "id": 34591329}], "successors": [{"name": "Hangul", "id": 4144231}, {"name": "CJK_typefaces", "id": 24712841}]}

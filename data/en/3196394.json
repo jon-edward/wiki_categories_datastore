@@ -1,1 +1,1 @@
-{"name": "Philosophy_essays", "id": 3196394, "predecessors": [{"name": "Essays", "id": 722219}], "successors": [{"name": "Essays_about_politics", "id": 42620593}, {"name": "Ethics_essays", "id": 67398656}]}
+{"name": "Philosophy_essays", "id": 3196394, "predecessors": [{"name": "Essays", "id": 722219}, {"name": "Humanities", "id": 1004110}], "successors": [{"name": "Essays_about_politics", "id": 42620593}, {"name": "Ethics_essays", "id": 67398656}]}

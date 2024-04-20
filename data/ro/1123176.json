@@ -1,1 +1,1 @@
-{"name": "Tipuri_de_planete", "id": 1123176, "predecessors": [{"name": "Planete", "id": 80358}, {"name": "Planetologie", "id": 968802}], "successors": [{"name": "Exoplanete", "id": 814304}, {"name": "Planete_terestre", "id": 1219018}]}
+{"name": "Tipuri_de_planete", "id": 1123176, "predecessors": [{"name": "Planete", "id": 80358}, {"name": "Planetologie", "id": 968802}], "successors": [{"name": "Exoplanete", "id": 814304}, {"name": "Giganți_gazoși", "id": 1123175}, {"name": "Planete_terestre", "id": 1219018}, {"name": "Jupiter_fierbinte", "id": 2528254}]}

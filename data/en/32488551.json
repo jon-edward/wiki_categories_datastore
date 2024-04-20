@@ -1,0 +1,1 @@
+{"name": "Amusement_arcades", "id": 32488551, "predecessors": [{"name": "Vending_machines", "id": 9460877}, {"name": "Culture", "id": 694861}], "successors": [{"name": "Video_arcades", "id": 2191373}, {"name": "Arcade_games", "id": 67408604}]}

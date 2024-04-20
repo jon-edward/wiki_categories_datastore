@@ -1,1 +1,1 @@
-{"name": "Firearm_safety", "id": 14341264, "predecessors": [{"name": "Firearms", "id": 739385}, {"name": "Public_health", "id": 1311467}, {"name": "Safety", "id": 902977}], "successors": []}
+{"name": "Firearm_safety", "id": 14341264, "predecessors": [{"name": "Firearms", "id": 739385}, {"name": "Military_tactics", "id": 1074382}, {"name": "Public_health", "id": 1311467}, {"name": "Safety", "id": 902977}], "successors": []}

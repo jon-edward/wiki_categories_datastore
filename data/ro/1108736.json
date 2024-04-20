@@ -1,1 +1,1 @@
-{"name": "Chimia_polimerilor", "id": 1108736, "predecessors": [{"name": "Polimeri", "id": 661461}], "successors": []}
+{"name": "Chimia_polimerilor", "id": 1108736, "predecessors": [{"name": "Polimeri", "id": 661461}], "successors": [{"name": "Monomeri", "id": 1264757}, {"name": "Oligomeri", "id": 1706666}]}

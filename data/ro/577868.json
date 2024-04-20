@@ -1,0 +1,1 @@
+{"name": "Diagnostic_medical", "id": 577868, "predecessors": [{"name": "Medicină", "id": 16098}], "successors": [{"name": "Control_medical", "id": 553360}, {"name": "Semiologie_medicală", "id": 1113260}, {"name": "Teste_medicale", "id": 1573363}, {"name": "Diagnostic_psihiatric", "id": 1834797}]}

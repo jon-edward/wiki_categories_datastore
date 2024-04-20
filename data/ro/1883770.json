@@ -1,1 +1,1 @@
-{"name": "Tir_cu_arcul_la_Jocurile_Olimpice", "id": 1883770, "predecessors": [{"name": "Sporturi_olimpice", "id": 36680}, {"name": "Sport", "id": 16061}], "successors": [{"name": "Tir_cu_arcul_la_Jocurile_Olimpice_de_vară_din_2020", "id": 2826728}]}
+{"name": "Tir_cu_arcul_la_Jocurile_Olimpice", "id": 1883770, "predecessors": [{"name": "Tir_cu_arcul", "id": 1883771}, {"name": "Sporturi_olimpice", "id": 36680}], "successors": [{"name": "Tir_cu_arcul_la_Jocurile_Olimpice_de_vară_din_2020", "id": 2826728}]}

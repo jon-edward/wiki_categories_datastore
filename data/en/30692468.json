@@ -1,1 +1,1 @@
-{"name": "Supply_vehicles_for_the_International_Space_Station", "id": 30692468, "predecessors": [{"name": "International_Space_Station", "id": 998299}], "successors": [{"name": "H-II_Transfer_Vehicles", "id": 40251629}]}
+{"name": "Supply_vehicles_for_the_International_Space_Station", "id": 30692468, "predecessors": [{"name": "Cargo_spacecraft", "id": 2175736}, {"name": "International_Space_Station", "id": 998299}], "successors": [{"name": "H-II_Transfer_Vehicles", "id": 40251629}]}

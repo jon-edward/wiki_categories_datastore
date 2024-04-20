@@ -1,1 +1,1 @@
-{"name": "Old_Norse_poetry", "id": 8604668, "predecessors": [{"name": "Old_Norse_literature", "id": 4299873}], "successors": []}
+{"name": "Old_Norse_poetry", "id": 8604668, "predecessors": [{"name": "Medieval_poetry", "id": 40952262}, {"name": "Old_Norse_literature", "id": 4299873}, {"name": "History_of_poetry", "id": 24302613}], "successors": [{"name": "Skaldic_poetry", "id": 8566127}, {"name": "Eddic_poetry", "id": 8604789}]}

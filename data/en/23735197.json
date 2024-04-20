@@ -1,1 +1,1 @@
-{"name": "Tourist_attractions_in_Kraków", "id": 23735197, "predecessors": [{"name": "Culture_in_Kraków", "id": 38021614}, {"name": "Kraków", "id": 1099335}], "successors": [{"name": "Museums_in_Kraków", "id": 12642282}]}
+{"name": "Tourist_attractions_in_Kraków", "id": 23735197, "predecessors": [{"name": "Culture_in_Kraków", "id": 38021614}, {"name": "Kraków", "id": 1099335}, {"name": "Economy_of_Poland", "id": 1241341}, {"name": "Geography_of_Poland", "id": 972022}], "successors": [{"name": "Museums_in_Kraków", "id": 12642282}]}

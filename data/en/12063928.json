@@ -1,1 +1,1 @@
-{"name": "Hawaii_art", "id": 12063928, "predecessors": [{"name": "Hawaiiana", "id": 838524}, {"name": "American_art", "id": 3773671}], "successors": [{"name": "Art_museums_and_galleries_in_Hawaii", "id": 15138119}, {"name": "Hawaii_artists", "id": 42475856}]}
+{"name": "Hawaii_art", "id": 12063928, "predecessors": [{"name": "Hawaii_culture", "id": 10718661}, {"name": "Hawaiiana", "id": 838524}], "successors": [{"name": "Art_museums_and_galleries_in_Hawaii", "id": 15138119}]}

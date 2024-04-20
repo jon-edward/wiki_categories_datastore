@@ -1,1 +1,1 @@
-{"name": "Geophysical_survey", "id": 33378019, "predecessors": [{"name": "Surveys_(human_research)", "id": 64713370}, {"name": "Economic_geology", "id": 1201927}], "successors": [{"name": "Geodetic_surveys", "id": 64713813}]}
+{"name": "Geophysical_survey", "id": 33378019, "predecessors": [{"name": "Surveys_(human_research)", "id": 64713370}, {"name": "Geotechnical_engineering", "id": 2408732}], "successors": [{"name": "Geodetic_surveys", "id": 64713813}]}

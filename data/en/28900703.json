@@ -1,1 +1,1 @@
-{"name": "Harbour_engineers", "id": 28900703, "predecessors": [{"name": "Ports_and_harbours", "id": 3047410}], "successors": []}
+{"name": "Harbour_engineers", "id": 28900703, "predecessors": [{"name": "Civil_engineers", "id": 1048814}, {"name": "Ports_and_harbours", "id": 3047410}, {"name": "Structural_engineers", "id": 4141601}, {"name": "Water_transport", "id": 907307}], "successors": []}

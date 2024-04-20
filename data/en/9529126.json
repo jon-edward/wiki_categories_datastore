@@ -1,1 +1,1 @@
-{"name": "Transport_in_Guangxi", "id": 9529126, "predecessors": [{"name": "Guangxi", "id": 1666355}], "successors": [{"name": "Rail_transport_in_Guangxi", "id": 33903972}, {"name": "Expressways_in_Guangxi", "id": 40094641}]}
+{"name": "Transport_in_Guangxi", "id": 9529126, "predecessors": [{"name": "Guangxi", "id": 1666355}, {"name": "Transport_in_China", "id": 28585356}], "successors": [{"name": "Airports_in_Guangxi", "id": 9529109}, {"name": "Rail_transport_in_Guangxi", "id": 33903972}, {"name": "Expressways_in_Guangxi", "id": 40094641}]}

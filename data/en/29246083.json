@@ -1,1 +1,1 @@
-{"name": "Japanese_romance_films", "id": 29246083, "predecessors": [{"name": "Japanese_literature", "id": 693045}], "successors": [{"name": "Japanese_romantic_comedy_films", "id": 37851983}, {"name": "Japanese_romantic_drama_films", "id": 42822901}, {"name": "Japanese_romantic_fantasy_films", "id": 64436717}]}
+{"name": "Japanese_romance_films", "id": 29246083, "predecessors": [{"name": "Arts_in_Japan", "id": 3061275}, {"name": "Japanese_literature", "id": 693045}], "successors": [{"name": "Japanese_romantic_drama_films", "id": 42822901}]}

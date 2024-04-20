@@ -1,1 +1,0 @@
-{"name": "Hélice", "id": 15603532, "predecessors": [{"name": "Dispositif_mécanique_tournant", "id": 15603495}, {"name": "Forme_hélicoïdale", "id": 13255848}, {"name": "Propulsion_des_aéronefs", "id": 321923}, {"name": "Technologie_du_transport", "id": 211210}], "successors": [{"name": "Avion_à_hélices", "id": 5111725}, {"name": "Éolienne", "id": 10214130}]}

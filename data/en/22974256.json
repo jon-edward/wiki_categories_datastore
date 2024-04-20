@@ -1,1 +1,1 @@
-{"name": "Hatmaking", "id": 22974256, "predecessors": [{"name": "Crafts", "id": 3061643}, {"name": "Hats", "id": 750958}], "successors": [{"name": "Hat_companies", "id": 22973921}, {"name": "Haberdashers", "id": 28100766}]}
+{"name": "Hatmaking", "id": 22974256, "predecessors": [{"name": "Crafts", "id": 3061643}], "successors": [{"name": "Hat_companies", "id": 22973921}, {"name": "Haberdashers", "id": 28100766}]}

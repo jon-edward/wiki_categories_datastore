@@ -1,1 +1,1 @@
-{"name": "Wheeled_amphibious_armoured_fighting_vehicles", "id": 30894574, "predecessors": [{"name": "Wheeled_armoured_fighting_vehicles", "id": 40048146}, {"name": "Amphibious_military_vehicles", "id": 30893464}], "successors": []}
+{"name": "Wheeled_amphibious_armoured_fighting_vehicles", "id": 30894574, "predecessors": [{"name": "Amphibious_armoured_fighting_vehicles", "id": 30893440}, {"name": "Wheeled_amphibious_vehicles", "id": 30681878}, {"name": "Wheeled_armoured_fighting_vehicles", "id": 40048146}], "successors": []}

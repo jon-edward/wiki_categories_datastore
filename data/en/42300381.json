@@ -1,1 +1,1 @@
-{"name": "Tang_dynasty_literature", "id": 42300381, "predecessors": [{"name": "Tang_dynasty", "id": 42299759}, {"name": "Chinese_literature", "id": 752495}], "successors": [{"name": "Tang_dynasty_poetry", "id": 42300480}, {"name": "Tang_dynasty_writers", "id": 42300556}]}
+{"name": "Tang_dynasty_literature", "id": 42300381, "predecessors": [{"name": "Chinese_culture", "id": 715451}, {"name": "Chinese_literature", "id": 752495}], "successors": [{"name": "Tang_dynasty_poetry", "id": 42300480}, {"name": "Tang_dynasty_writers", "id": 42300556}]}

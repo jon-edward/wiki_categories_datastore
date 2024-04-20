@@ -1,1 +1,1 @@
-{"name": "Botanists_active_in_Asia", "id": 22298536, "predecessors": [{"name": "Botanists", "id": 711955}], "successors": []}
+{"name": "Botanists_active_in_Asia", "id": 22298536, "predecessors": [{"name": "Botany_in_Asia", "id": 46971652}, {"name": "Asia", "id": 697006}], "successors": [{"name": "Botanists_active_in_Japan", "id": 1694983}, {"name": "Botanists_active_in_India", "id": 1695113}, {"name": "Botanists_active_in_China", "id": 1695324}, {"name": "Botanists_active_in_the_Philippines", "id": 4789606}]}

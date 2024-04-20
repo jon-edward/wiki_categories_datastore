@@ -1,1 +1,1 @@
-{"name": "Firefighter_ranks", "id": 17308035, "predecessors": [{"name": "Firefighting", "id": 854544}], "successors": [{"name": "American_fire_chiefs", "id": 45644738}]}
+{"name": "Firefighter_ranks", "id": 17308035, "predecessors": [{"name": "Firefighting", "id": 854544}, {"name": "Positions_of_authority", "id": 910633}, {"name": "Titles", "id": 727719}], "successors": [{"name": "American_fire_chiefs", "id": 45644738}]}

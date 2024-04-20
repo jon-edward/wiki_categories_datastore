@@ -1,1 +1,1 @@
-{"name": "Greeting_words_and_phrases", "id": 17289524, "predecessors": [{"name": "Greetings", "id": 1147977}], "successors": [{"name": "Parting_phrases", "id": 17057010}]}
+{"name": "Greeting_words_and_phrases", "id": 17289524, "predecessors": [{"name": "Greetings", "id": 1147977}, {"name": "Oral_communication", "id": 2955178}], "successors": [{"name": "Parting_phrases", "id": 17057010}]}

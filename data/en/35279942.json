@@ -1,1 +1,1 @@
-{"name": "Indian_broadcast_news_analysts", "id": 35279942, "predecessors": [{"name": "Indian_television_journalists", "id": 13284778}, {"name": "Broadcasting_occupations", "id": 21320237}], "successors": [{"name": "Indian_television_news_anchors", "id": 11796272}]}
+{"name": "Indian_broadcast_news_analysts", "id": 35279942, "predecessors": [{"name": "Broadcast_news_analysts", "id": 1051599}, {"name": "Indian_television_journalists", "id": 13284778}], "successors": [{"name": "Indian_television_news_anchors", "id": 11796272}]}

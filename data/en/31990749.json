@@ -1,1 +1,1 @@
-{"name": "Smoking_cessation", "id": 31990749, "predecessors": [{"name": "Drug_rehabilitation", "id": 870146}, {"name": "Health_effects_of_tobacco", "id": 56179235}], "successors": [{"name": "Electronic_cigarettes", "id": 46648979}]}
+{"name": "Smoking_cessation", "id": 31990749, "predecessors": [{"name": "Drug_rehabilitation", "id": 870146}, {"name": "Health_effects_of_tobacco", "id": 56179235}, {"name": "Smoking", "id": 12335454}], "successors": [{"name": "Electronic_cigarettes", "id": 46648979}]}

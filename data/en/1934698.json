@@ -1,1 +1,1 @@
-{"name": "Tactical_ballistic_missiles", "id": 1934698, "predecessors": [{"name": "Short-range_ballistic_missiles", "id": 2477778}, {"name": "Guided_missiles", "id": 1930532}], "successors": [{"name": "Scud_missiles", "id": 22848283}]}
+{"name": "Tactical_ballistic_missiles", "id": 1934698, "predecessors": [{"name": "Short-range_ballistic_missiles", "id": 2477778}, {"name": "Guided_missiles", "id": 1930532}], "successors": [{"name": "Scud_missiles", "id": 22848283}, {"name": "Pershing_missile", "id": 50648446}]}

@@ -1,1 +1,1 @@
-{"name": "Canadian_picture_books", "id": 66223543, "predecessors": [{"name": "Picture_books", "id": 7025604}], "successors": []}
+{"name": "Canadian_picture_books", "id": 66223543, "predecessors": [{"name": "Canadian_children's_books", "id": 5605380}, {"name": "Picture_books", "id": 7025604}], "successors": [{"name": "Franklin_the_Turtle_(books)", "id": 66223772}]}

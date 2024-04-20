@@ -1,1 +1,1 @@
-{"name": "Supernumerary_body_parts", "id": 5872296, "predecessors": [{"name": "Human_anatomy", "id": 2294735}, {"name": "Mutation", "id": 860079}, {"name": "Rare_diseases", "id": 1116081}], "successors": []}
+{"name": "Supernumerary_body_parts", "id": 5872296, "predecessors": [{"name": "Mutation", "id": 860079}, {"name": "Rare_diseases", "id": 1116081}, {"name": "Human_body", "id": 17781477}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Turkish_Gendarmerie_personnel", "id": 36384258, "predecessors": [{"name": "Gendarmerie", "id": 5183782}], "successors": [{"name": "General_Commanders_of_the_Gendarmerie_of_Turkey", "id": 32459674}]}
+{"name": "Turkish_Gendarmerie_personnel", "id": 36384258, "predecessors": [{"name": "Turkish_military_personnel", "id": 7591803}, {"name": "Gendarmerie", "id": 5183782}], "successors": [{"name": "General_Commanders_of_the_Gendarmerie_of_Turkey", "id": 32459674}]}

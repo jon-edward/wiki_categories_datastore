@@ -1,1 +1,1 @@
-{"name": "Concursuri", "id": 426855, "predecessors": [{"name": "Comportament_uman", "id": 244948}], "successors": [{"name": "Concursuri_școlare", "id": 749721}]}
+{"name": "Concursuri", "id": 426855, "predecessors": [{"name": "Competiții", "id": 749497}], "successors": [{"name": "Concursuri_muzicale", "id": 39416}, {"name": "Concursuri_de_frumusețe", "id": 749717}, {"name": "Concursuri_școlare", "id": 749721}, {"name": "Olimpiade_Internaționale_de_Matematică", "id": 1119979}]}

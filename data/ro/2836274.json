@@ -1,1 +1,1 @@
-{"name": "Gaze_cu_efect_de_seră", "id": 2836274, "predecessors": [{"name": "Gaze", "id": 23118}, {"name": "Poluarea_aerului", "id": 2339850}, {"name": "Schimbări_climatice", "id": 1183954}], "successors": []}
+{"name": "Gaze_cu_efect_de_seră", "id": 2836274, "predecessors": [{"name": "Gaze", "id": 23118}, {"name": "Poluarea_aerului", "id": 2339850}, {"name": "Schimbări_climatice", "id": 1183954}], "successors": [{"name": "Fluorocarburi", "id": 2836273}]}

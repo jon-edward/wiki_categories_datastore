@@ -1,1 +1,1 @@
-{"name": "Spanish_performance_artists", "id": 49687448, "predecessors": [{"name": "Spanish_artists", "id": 1057756}], "successors": [{"name": "Spanish_drag_queens", "id": 39102653}]}
+{"name": "Spanish_performance_artists", "id": 49687448, "predecessors": [{"name": "Spanish_artists", "id": 1057756}, {"name": "Culture_of_Spain", "id": 724380}, {"name": "Performance_art", "id": 1034281}], "successors": [{"name": "Spanish_drag_queens", "id": 39102653}]}

@@ -1,1 +1,1 @@
-{"name": "Transmitere_de_date", "id": 86159, "predecessors": [{"name": "Administrarea_datelor", "id": 822634}, {"name": "Date_de_calculatoare", "id": 86160}, {"name": "Telecomunicații", "id": 760304}], "successors": [{"name": "Rețele_de_calculatoare", "id": 572137}]}
+{"name": "Transmitere_de_date", "id": 86159, "predecessors": [{"name": "Administrarea_datelor", "id": 822634}, {"name": "Date_de_calculatoare", "id": 86160}, {"name": "Telecomunicații", "id": 760304}], "successors": [{"name": "Rețele_de_calculatoare", "id": 572137}, {"name": "Rețelistică", "id": 1481150}]}

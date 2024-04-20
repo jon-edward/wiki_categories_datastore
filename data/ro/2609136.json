@@ -1,1 +1,1 @@
-{"name": "Taxoni_de_furnici_fosile", "id": 2609136, "predecessors": [{"name": "Artropode_fosile", "id": 746029}], "successors": [{"name": "Genuri_de_furnici_fosile", "id": 2880230}]}
+{"name": "Taxoni_de_furnici_fosile", "id": 2609136, "predecessors": [{"name": "Artropode_fosile", "id": 746029}, {"name": "Furnici", "id": 270025}], "successors": [{"name": "Sphecomyrminae", "id": 2573291}, {"name": "Genuri_de_furnici_fosile", "id": 2880230}]}

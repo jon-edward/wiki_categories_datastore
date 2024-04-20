@@ -1,1 +1,1 @@
-{"name": "French_male_archers", "id": 52632248, "predecessors": [{"name": "Archery", "id": 868539}], "successors": []}
+{"name": "French_male_archers", "id": 52632248, "predecessors": [{"name": "Sport_in_France", "id": 3049496}, {"name": "Archery", "id": 868539}, {"name": "Culture_of_Europe", "id": 709679}], "successors": []}

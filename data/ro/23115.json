@@ -1,1 +1,1 @@
-{"name": "Plasmă", "id": 23115, "predecessors": [{"name": "Fizica_plasmei", "id": 201561}, {"name": "Stări_ale_materiei", "id": 201591}], "successors": []}
+{"name": "Plasmă", "id": 23115, "predecessors": [{"name": "Fizica_plasmei", "id": 201561}, {"name": "Stări_ale_materiei", "id": 201591}], "successors": [{"name": "Vânt_solar", "id": 3078233}]}

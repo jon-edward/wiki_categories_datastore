@@ -1,1 +1,1 @@
-{"name": "Dezvoltare_de_produs", "id": 822665, "predecessors": [{"name": "Managementul_produselor", "id": 857372}], "successors": [{"name": "Administrarea_proiectelor", "id": 822648}, {"name": "Tehnologii_emergente", "id": 1161778}]}
+{"name": "Dezvoltare_de_produs", "id": 822665, "predecessors": [{"name": "Managementul_produselor", "id": 857372}, {"name": "Producție_și_fabricație", "id": 822663}], "successors": [{"name": "Administrarea_proiectelor", "id": 822648}, {"name": "Tehnologii_emergente", "id": 1161778}]}

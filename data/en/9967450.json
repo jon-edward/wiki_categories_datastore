@@ -1,1 +1,1 @@
-{"name": "Sewing_equipment", "id": 9967450, "predecessors": [{"name": "Domestic_implements", "id": 30314144}, {"name": "Sewing", "id": 945132}, {"name": "Manufactured_goods", "id": 699552}], "successors": [{"name": "Sewing_machines", "id": 28300498}]}
+{"name": "Sewing_equipment", "id": 9967450, "predecessors": [{"name": "Domestic_implements", "id": 30314144}, {"name": "Equipment", "id": 3228046}, {"name": "Sewing", "id": 945132}], "successors": [{"name": "Sewing_machines", "id": 28300498}]}

@@ -1,0 +1,1 @@
+{"name": "Transductori", "id": 930070, "predecessors": [{"name": "Conversie_de_energie", "id": 127370}, {"name": "Echipament_electric", "id": 301837}], "successors": [{"name": "Baterii", "id": 241547}, {"name": "Senzori", "id": 363374}, {"name": "Generatoare_electrice", "id": 852563}, {"name": "Diode_luminoase", "id": 880979}]}

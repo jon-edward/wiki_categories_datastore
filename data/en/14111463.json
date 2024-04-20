@@ -1,1 +1,1 @@
-{"name": "Spoken_word_artists", "id": 14111463, "predecessors": [{"name": "Spoken_word", "id": 1706885}], "successors": [{"name": "Spoken_word_poets", "id": 1706874}, {"name": "Slam_poets", "id": 4204098}, {"name": "Storytellers", "id": 7375893}]}
+{"name": "Spoken_word_artists", "id": 14111463, "predecessors": [{"name": "Performance_artists", "id": 1158552}, {"name": "Spoken_word", "id": 1706885}], "successors": [{"name": "Slam_poets", "id": 4204098}, {"name": "Storytellers", "id": 7375893}]}

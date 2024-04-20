@@ -1,1 +1,1 @@
-{"name": "Tourism_company_logos", "id": 49498365, "predecessors": [{"name": "Company_logos", "id": 4267351}, {"name": "Leisure", "id": 4225851}], "successors": [{"name": "Hotel_logos", "id": 23406368}]}
+{"name": "Tourism_company_logos", "id": 49498365, "predecessors": [{"name": "Company_logos", "id": 4267351}, {"name": "Service_industries", "id": 1245670}], "successors": [{"name": "Hotel_logos", "id": 23406368}]}

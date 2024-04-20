@@ -1,1 +1,1 @@
-{"name": "Dornier_aircraft", "id": 10660608, "predecessors": [{"name": "Aviation", "id": 735378}], "successors": []}
+{"name": "Dornier_aircraft", "id": 10660608, "predecessors": [{"name": "Aviation_in_Germany", "id": 4678252}, {"name": "Transport_in_Switzerland", "id": 4732231}], "successors": []}

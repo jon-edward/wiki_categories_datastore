@@ -1,1 +1,1 @@
-{"name": "NIST_hash_function_competition", "id": 20382661, "predecessors": [{"name": "Cryptographic_hash_functions", "id": 1060140}], "successors": []}
+{"name": "NIST_hash_function_competition", "id": 20382661, "predecessors": [{"name": "Cryptographic_hash_functions", "id": 1060140}, {"name": "National_Institute_of_Standards_and_Technology", "id": 6075324}], "successors": []}

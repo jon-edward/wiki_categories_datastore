@@ -1,1 +1,1 @@
-{"name": "Brackish_water_plants", "id": 44040682, "predecessors": [{"name": "Halophytes", "id": 25439512}], "successors": [{"name": "Salt_marsh_plants", "id": 25439350}]}
+{"name": "Brackish_water_plants", "id": 44040682, "predecessors": [{"name": "Aquatic_plants", "id": 1069224}, {"name": "Brackish_water_organisms", "id": 44214201}, {"name": "Halophytes", "id": 25439512}], "successors": [{"name": "Salt_marsh_plants", "id": 25439350}]}

@@ -1,1 +1,1 @@
-{"name": "Beggars", "id": 11880692, "predecessors": [{"name": "Financial_crimes", "id": 12930030}], "successors": [{"name": "Fictional_beggars", "id": 11880742}]}
+{"name": "Beggars", "id": 11880692, "predecessors": [{"name": "Begging", "id": 50719605}], "successors": [{"name": "Fictional_beggars", "id": 11880742}]}

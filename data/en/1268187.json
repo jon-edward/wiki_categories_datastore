@@ -1,1 +1,1 @@
-{"name": "Electoral_restrictions", "id": 1268187, "predecessors": [{"name": "Election_law", "id": 18113971}], "successors": [{"name": "Voter_suppression", "id": 37244382}]}
+{"name": "Electoral_restrictions", "id": 1268187, "predecessors": [{"name": "Election_law", "id": 18113971}], "successors": [{"name": "Voter_suppression", "id": 37244382}, {"name": "Term_limits", "id": 47554867}]}

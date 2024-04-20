@@ -1,1 +1,1 @@
-{"name": "Acid–base_disturbances", "id": 43607773, "predecessors": [{"name": "Medical_emergencies", "id": 741752}], "successors": []}
+{"name": "Acid–base_disturbances", "id": 43607773, "predecessors": [{"name": "Intensive_care_medicine", "id": 714493}, {"name": "Medical_emergencies", "id": 741752}, {"name": "Metabolic_disorders", "id": 966815}], "successors": []}

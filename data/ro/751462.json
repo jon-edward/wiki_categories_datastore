@@ -1,1 +1,1 @@
-{"name": "Forță", "id": 751462, "predecessors": [{"name": "Mecanică", "id": 32174}, {"name": "Mărimi_fizice", "id": 92457}], "successors": [{"name": "Gravitație", "id": 752602}, {"name": "Mișcare", "id": 914697}, {"name": "Tribologie", "id": 885626}]}
+{"name": "Forță", "id": 751462, "predecessors": [{"name": "Mecanică", "id": 32174}, {"name": "Mărimi_fizice", "id": 92457}], "successors": [{"name": "Gravitație", "id": 752602}, {"name": "Mișcare", "id": 914697}, {"name": "Forțe_aparente", "id": 3077378}]}

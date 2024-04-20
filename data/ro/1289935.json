@@ -1,1 +1,1 @@
-{"name": "Compuși_ai_cuprului", "id": 1289935, "predecessors": [{"name": "Compuși_chimici", "id": 749556}, {"name": "Elemente_chimice", "id": 42004}], "successors": []}
+{"name": "Compuși_ai_cuprului", "id": 1289935, "predecessors": [{"name": "Cupru", "id": 1289934}, {"name": "Compuși_chimici", "id": 749556}], "successors": []}

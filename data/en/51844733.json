@@ -1,1 +1,1 @@
-{"name": "Instant_cameras", "id": 51844733, "predecessors": [{"name": "Instant_photography", "id": 25683350}], "successors": []}
+{"name": "Instant_cameras", "id": 51844733, "predecessors": [{"name": "Cameras_by_type", "id": 1120136}, {"name": "Instant_photography", "id": 25683350}], "successors": []}

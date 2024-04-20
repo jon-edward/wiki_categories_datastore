@@ -1,1 +1,1 @@
-{"name": "Yachting_associations", "id": 1650282, "predecessors": [{"name": "Boating_associations", "id": 30215300}, {"name": "High_society_(social_class)", "id": 46278726}], "successors": []}
+{"name": "Yachting_associations", "id": 1650282, "predecessors": [{"name": "Boating_associations", "id": 30215300}, {"name": "High_society_(social_class)", "id": 46278726}, {"name": "Yachting", "id": 1628369}], "successors": [{"name": "Yacht_clubs_in_Ireland", "id": 13648816}, {"name": "Yacht_clubs_in_Canada", "id": 13649733}, {"name": "Yacht_clubs_in_Germany", "id": 21047173}]}

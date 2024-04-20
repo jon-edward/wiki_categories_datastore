@@ -1,1 +1,1 @@
-{"name": "Tropical_agriculture", "id": 3414259, "predecessors": [{"name": "Tropics", "id": 11538647}, {"name": "Agriculture", "id": 694871}], "successors": [{"name": "Agriculture_in_Mesoamerica", "id": 5769597}, {"name": "Tropical_fruit", "id": 19824185}, {"name": "Agriculture_in_Cuba", "id": 7910912}]}
+{"name": "Tropical_agriculture", "id": 3414259, "predecessors": [{"name": "Tropics", "id": 11538647}, {"name": "Agriculture", "id": 694871}], "successors": [{"name": "Agriculture_in_Mesoamerica", "id": 5769597}, {"name": "Tropical_fruit", "id": 19824185}]}

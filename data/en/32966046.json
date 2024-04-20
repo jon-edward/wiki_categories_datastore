@@ -1,1 +1,1 @@
-{"name": "Transboundary_protected_areas", "id": 32966046, "predecessors": [{"name": "Protected_areas", "id": 1624994}, {"name": "Transboundary_environmental_issues", "id": 59305914}], "successors": [{"name": "Białowieża_Forest", "id": 22529241}]}
+{"name": "Transboundary_protected_areas", "id": 32966046, "predecessors": [{"name": "Protected_areas", "id": 1624994}, {"name": "Sharing", "id": 48983874}, {"name": "Transboundary_environmental_issues", "id": 59305914}], "successors": [{"name": "Białowieża_Forest", "id": 22529241}]}

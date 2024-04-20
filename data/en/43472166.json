@@ -1,1 +1,1 @@
-{"name": "Resort_towns", "id": 43472166, "predecessors": [{"name": "Human_geography", "id": 1111700}, {"name": "Buildings_and_structures_by_type", "id": 6884364}], "successors": []}
+{"name": "Resort_towns", "id": 43472166, "predecessors": [{"name": "Resorts_by_type", "id": 11396802}, {"name": "Human_geography", "id": 1111700}], "successors": [{"name": "Summer_villages_in_Alberta", "id": 11078116}, {"name": "Resort_villages_in_Saskatchewan", "id": 28781019}]}

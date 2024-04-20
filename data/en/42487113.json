@@ -1,1 +1,1 @@
-{"name": "Boeing_707", "id": 42487113, "predecessors": [{"name": "Boeing_aircraft", "id": 5608205}, {"name": "Quadjets", "id": 33234637}, {"name": "Historical_eras", "id": 925351}], "successors": []}
+{"name": "Boeing_707", "id": 42487113, "predecessors": [{"name": "Boeing_aircraft", "id": 5608205}, {"name": "20th_century", "id": 884457}], "successors": [{"name": "Accidents_and_incidents_involving_the_Boeing_707", "id": 20934278}]}

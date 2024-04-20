@@ -1,1 +1,1 @@
-{"name": "Plug-in_hybrid_vehicle_industry", "id": 17340155, "predecessors": [{"name": "Electric_vehicle_industry", "id": 42810122}], "successors": []}
+{"name": "Plug-in_hybrid_vehicle_industry", "id": 17340155, "predecessors": [{"name": "Electric_vehicle_industry", "id": 42810122}, {"name": "Plug-in_hybrid_vehicles", "id": 13325003}], "successors": []}

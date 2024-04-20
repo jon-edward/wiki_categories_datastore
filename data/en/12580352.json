@@ -1,1 +1,1 @@
-{"name": "Buda_Castle", "id": 12580352, "predecessors": [{"name": "Military", "id": 716572}], "successors": [{"name": "Burials_at_Palatinal_Crypt", "id": 33183356}]}
+{"name": "Buda_Castle", "id": 12580352, "predecessors": [{"name": "Várkerület", "id": 30210435}, {"name": "History_of_Budapest", "id": 3314251}], "successors": [{"name": "Burials_at_Palatinal_Crypt", "id": 33183356}]}

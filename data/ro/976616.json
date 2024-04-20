@@ -1,0 +1,1 @@
+{"name": "Acizi_nucleici", "id": 976616, "predecessors": [{"name": "Acizi_organici", "id": 68080}, {"name": "Biomolecule", "id": 865883}, {"name": "Nucleotide", "id": 2349437}, {"name": "Polimeri_organici", "id": 2425739}], "successors": [{"name": "ADN", "id": 978281}, {"name": "ARN", "id": 1249343}]}

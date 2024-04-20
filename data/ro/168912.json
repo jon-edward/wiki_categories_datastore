@@ -1,1 +1,1 @@
-{"name": "Medici_moldoveni", "id": 168912, "predecessors": [{"name": "Medici", "id": 41433}, {"name": "Basarabeni", "id": 939673}, {"name": "Medicină", "id": 16098}, {"name": "Moldoveni", "id": 162080}], "successors": []}
+{"name": "Medici_moldoveni", "id": 168912, "predecessors": [{"name": "Medici", "id": 41433}, {"name": "Basarabeni", "id": 939673}, {"name": "Medicină", "id": 16098}, {"name": "Moldoveni", "id": 162080}], "successors": [{"name": "Chirurgi_moldoveni", "id": 2595082}]}

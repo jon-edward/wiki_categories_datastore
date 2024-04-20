@@ -1,1 +1,1 @@
-{"name": "French_mining_engineers", "id": 38594085, "predecessors": [{"name": "Geology_of_France", "id": 20265417}], "successors": []}
+{"name": "French_mining_engineers", "id": 38594085, "predecessors": [{"name": "Mining_in_France", "id": 7639360}], "successors": [{"name": "Corps_des_mines", "id": 37261437}]}

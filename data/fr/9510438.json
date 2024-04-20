@@ -1,1 +1,0 @@
-{"name": "Procédé_industriel", "id": 9510438, "predecessors": [{"name": "Industrie", "id": 84693}, {"name": "Techniques_et_sciences_appliquées", "id": 85441}], "successors": [{"name": "Usinage", "id": 151882}, {"name": "Procédé_chimique", "id": 431578}, {"name": "Procédé_agroalimentaire", "id": 483483}, {"name": "Métallurgie_extractive", "id": 616312}]}

@@ -1,1 +1,1 @@
-{"name": "Sign-language_films", "id": 40640744, "predecessors": [{"name": "Mass_media", "id": 696790}], "successors": [{"name": "American_Sign_Language_films", "id": 12166181}]}
+{"name": "Sign-language_films", "id": 40640744, "predecessors": [{"name": "Sign_language", "id": 37280397}, {"name": "Copyright_law", "id": 702268}], "successors": [{"name": "American_Sign_Language_films", "id": 12166181}]}

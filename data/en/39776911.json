@@ -1,1 +1,1 @@
-{"name": "Clothing_in_politics", "id": 39776911, "predecessors": [{"name": "Clothing", "id": 737090}], "successors": [{"name": "Political_masks", "id": 53331644}]}
+{"name": "Clothing_in_politics", "id": 39776911, "predecessors": [{"name": "Clothing", "id": 737090}, {"name": "Political_symbols", "id": 24290274}, {"name": "Politics", "id": 695027}], "successors": [{"name": "Political_masks", "id": 53331644}]}

@@ -1,1 +1,1 @@
-{"name": "Airports_by_city", "id": 18386199, "predecessors": [{"name": "Buildings_and_structures_by_type", "id": 6884364}], "successors": []}
+{"name": "Airports_by_city", "id": 18386199, "predecessors": [{"name": "Tourism", "id": 698284}, {"name": "Aviation", "id": 735378}], "successors": [{"name": "Airports_in_the_London_region", "id": 21904713}, {"name": "Airports_in_Greater_Sydney", "id": 36460432}, {"name": "Airports_in_Tokyo", "id": 61494324}]}

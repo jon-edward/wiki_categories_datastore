@@ -1,1 +1,1 @@
-{"name": "Insider_trading", "id": 6903416, "predecessors": [{"name": "Financial_crimes", "id": 12930030}], "successors": [{"name": "People_convicted_of_insider_trading", "id": 20686294}]}
+{"name": "Insider_trading", "id": 6903416, "predecessors": [{"name": "Financial_crimes", "id": 12930030}, {"name": "Information", "id": 1009209}], "successors": [{"name": "People_convicted_of_insider_trading", "id": 20686294}]}

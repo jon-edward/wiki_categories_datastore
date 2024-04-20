@@ -1,1 +1,1 @@
-{"name": "HIV/AIDS_activism", "id": 967957, "predecessors": [{"name": "HIV/AIDS", "id": 737084}], "successors": [{"name": "HIV/AIDS_memorials", "id": 63510061}]}
+{"name": "HIV/AIDS_activism", "id": 967957, "predecessors": [{"name": "HIV/AIDS", "id": 737084}, {"name": "Health_activism", "id": 46935330}], "successors": [{"name": "HIV/AIDS_activists", "id": 39627742}, {"name": "HIV/AIDS_memorials", "id": 63510061}]}

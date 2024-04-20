@@ -1,1 +1,1 @@
-{"name": "Gaze_naturale", "id": 133479, "predecessors": [{"name": "Gaze", "id": 23118}, {"name": "Hidrocarburi", "id": 211596}, {"name": "Combustibili", "id": 211590}], "successors": [{"name": "Companii_de_gaze_naturale", "id": 454498}]}
+{"name": "Gaze_naturale", "id": 133479, "predecessors": [{"name": "Combustibili_fosili", "id": 211589}, {"name": "Gaze", "id": 23118}, {"name": "Hidrocarburi", "id": 211596}, {"name": "Combustibili", "id": 211590}], "successors": [{"name": "Companii_de_gaze_naturale", "id": 454498}]}

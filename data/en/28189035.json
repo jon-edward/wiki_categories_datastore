@@ -1,1 +1,1 @@
-{"name": "Hard_disk_computer_storage", "id": 28189035, "predecessors": [{"name": "Rotating_disc_computer_storage_media", "id": 1218078}], "successors": [{"name": "Hard_disk_drives", "id": 19313314}, {"name": "AT_Attachment", "id": 34415646}]}
+{"name": "Hard_disk_computer_storage", "id": 28189035, "predecessors": [{"name": "Computer_storage_devices", "id": 895945}, {"name": "Rotating_disc_computer_storage_media", "id": 1218078}], "successors": [{"name": "Hard_disk_drives", "id": 19313314}, {"name": "AT_Attachment", "id": 34415646}]}

@@ -1,1 +1,1 @@
-{"name": "Ships_built_in_Barrow-in-Furness", "id": 13375312, "predecessors": [{"name": "Irish_Sea", "id": 3611190}, {"name": "Vickers", "id": 2174782}], "successors": []}
+{"name": "Ships_built_in_Barrow-in-Furness", "id": 13375312, "predecessors": [{"name": "Barrow-in-Furness", "id": 17131621}, {"name": "Barrow-in-Furness_port_and_shipyard", "id": 42815731}, {"name": "Irish_Sea", "id": 3611190}, {"name": "Ships_built_in_England", "id": 18534404}, {"name": "Vickers", "id": 2174782}], "successors": []}

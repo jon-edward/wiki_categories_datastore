@@ -1,1 +1,1 @@
-{"name": "Mixed_drinks", "id": 8550346, "predecessors": [{"name": "Alcoholic_drinks", "id": 13294809}, {"name": "Bartending", "id": 9419866}, {"name": "Drinks", "id": 1000234}], "successors": [{"name": "Cocktail_garnishes", "id": 5174484}]}
+{"name": "Mixed_drinks", "id": 8550346, "predecessors": [{"name": "Alcoholic_drinks", "id": 13294809}, {"name": "Bartending", "id": 9419866}], "successors": [{"name": "Cocktails", "id": 866828}, {"name": "Cocktail_garnishes", "id": 5174484}]}

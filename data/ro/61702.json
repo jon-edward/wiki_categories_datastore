@@ -1,1 +1,1 @@
-{"name": "Vitamine", "id": 61702, "predecessors": [{"name": "Suplimente_alimentare", "id": 2416110}, {"name": "Biomolecule", "id": 865883}, {"name": "Gastroenterologie", "id": 396316}], "successors": [{"name": "Vitamina_D", "id": 2530824}]}
+{"name": "Vitamine", "id": 61702, "predecessors": [{"name": "Suplimente_alimentare", "id": 2416110}, {"name": "Biomolecule", "id": 865883}, {"name": "Gastroenterologie", "id": 396316}], "successors": [{"name": "Vitamina_D", "id": 2530824}, {"name": "Vitamina_B", "id": 2531358}]}

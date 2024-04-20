@@ -1,1 +1,0 @@
-{"name": "Broken_stream_ciphers", "id": 24095976, "predecessors": [{"name": "Broken_cryptography_algorithms", "id": 24095977}, {"name": "Stream_ciphers", "id": 1060156}], "successors": [{"name": "Classical_ciphers", "id": 1060191}]}

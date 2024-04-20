@@ -1,1 +1,1 @@
-{"name": "Digital_audio_recording", "id": 19256177, "predecessors": [{"name": "Digital_audio", "id": 880411}], "successors": [{"name": "Audio_recording_software", "id": 34222048}]}
+{"name": "Digital_audio_recording", "id": 19256177, "predecessors": [{"name": "Digital_audio", "id": 880411}, {"name": "Sound_recording_technology", "id": 2497443}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Chlorates", "id": 734515, "predecessors": [{"name": "Salts", "id": 695960}], "successors": []}
+{"name": "Chlorates", "id": 734515, "predecessors": [{"name": "Oxygen_compounds", "id": 1692041}, {"name": "Salts", "id": 695960}, {"name": "Chlorine_compounds", "id": 1921889}], "successors": []}

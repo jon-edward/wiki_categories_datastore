@@ -1,1 +1,1 @@
-{"name": "Voce_peste_IP", "id": 171595, "predecessors": [{"name": "Rețele_de_calculatoare", "id": 572137}], "successors": [{"name": "Software_VoIP", "id": 415713}]}
+{"name": "Voce_peste_IP", "id": 171595, "predecessors": [{"name": "Rețele_de_calculatoare", "id": 572137}], "successors": [{"name": "Megaco", "id": 204225}, {"name": "Software_VoIP", "id": 415713}]}

@@ -1,1 +1,1 @@
-{"name": "Phonograph_manufacturers", "id": 4182142, "predecessors": [{"name": "Audio_electronics", "id": 11387266}], "successors": []}
+{"name": "Phonograph_manufacturers", "id": 4182142, "predecessors": [{"name": "Turntables", "id": 5721596}, {"name": "Audio_electronics", "id": 11387266}], "successors": []}

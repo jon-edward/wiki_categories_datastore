@@ -1,1 +1,1 @@
-{"name": "Butter", "id": 5278799, "predecessors": [{"name": "Cooking_fats", "id": 1772241}, {"name": "Dairy_products", "id": 776875}], "successors": []}
+{"name": "Butter", "id": 5278799, "predecessors": [{"name": "Condiments", "id": 1072516}, {"name": "Cooking_fats", "id": 1772241}, {"name": "Dairy_products", "id": 776875}], "successors": []}

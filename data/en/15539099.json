@@ -1,1 +1,1 @@
-{"name": "Cell_nucleus", "id": 15539099, "predecessors": [{"name": "Cell_anatomy", "id": 8495675}, {"name": "Eukaryotic_cell_anatomy", "id": 74011094}, {"name": "Organelles", "id": 734927}], "successors": []}
+{"name": "Cell_nucleus", "id": 15539099, "predecessors": [{"name": "Cell_anatomy", "id": 8495675}, {"name": "Eukaryotic_cell_anatomy", "id": 74011094}, {"name": "Organelles", "id": 734927}], "successors": [{"name": "Spinal_muscular_atrophy", "id": 52751277}]}

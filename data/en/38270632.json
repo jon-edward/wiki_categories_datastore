@@ -1,1 +1,1 @@
-{"name": "Nigerian_Navy_officers", "id": 38270632, "predecessors": [{"name": "Nigerian_military_personnel", "id": 7954495}], "successors": [{"name": "Nigerian_Navy_admirals", "id": 38270650}]}
+{"name": "Nigerian_Navy_officers", "id": 38270632, "predecessors": [{"name": "Nigerian_military_officers", "id": 50659647}, {"name": "Nigerian_military_personnel", "id": 7954495}], "successors": [{"name": "Nigerian_Navy_admirals", "id": 38270650}]}

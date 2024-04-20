@@ -1,1 +1,1 @@
-{"name": "Hidraulică", "id": 291820, "predecessors": [{"name": "Mecanica_fluidelor", "id": 178587}], "successors": [{"name": "Recipiente_sub_presiune", "id": 1020411}, {"name": "Turbine_hidraulice", "id": 812883}]}
+{"name": "Hidraulică", "id": 291820, "predecessors": [{"name": "Mecanica_fluidelor", "id": 178587}], "successors": [{"name": "Mașini_hidraulice", "id": 753897}, {"name": "Recipiente_sub_presiune", "id": 1020411}]}

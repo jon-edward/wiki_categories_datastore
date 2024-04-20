@@ -1,1 +1,1 @@
-{"name": "Treasure_troves", "id": 7269766, "predecessors": [{"name": "Archaeological_artifacts", "id": 35516506}, {"name": "Personal_property_law", "id": 1371217}], "successors": [{"name": "Hoards_of_jewellery", "id": 57646870}]}
+{"name": "Treasure_troves", "id": 7269766, "predecessors": [{"name": "Archaeological_artifacts", "id": 35516506}, {"name": "Personal_property_law", "id": 1371217}, {"name": "Treasure", "id": 16906124}], "successors": [{"name": "Hoards_of_jewellery", "id": 57646870}]}

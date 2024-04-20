@@ -1,1 +1,1 @@
-{"name": "Alcohol_distribution_retailers_in_Australia", "id": 63306063, "predecessors": [{"name": "Alcohol_distribution_retailers", "id": 21458674}, {"name": "Alcohol_in_Australia", "id": 24324208}], "successors": []}
+{"name": "Alcohol_distribution_retailers_in_Australia", "id": 63306063, "predecessors": [{"name": "Alcohol_in_Australia", "id": 24324208}, {"name": "Retail_companies_of_Australia", "id": 1243221}], "successors": []}

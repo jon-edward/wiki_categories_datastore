@@ -1,1 +1,1 @@
-{"name": "Lighthouse_museums", "id": 23292860, "predecessors": [{"name": "Maritime_museums", "id": 707046}], "successors": []}
+{"name": "Lighthouse_museums", "id": 23292860, "predecessors": [{"name": "Maritime_museums", "id": 707046}], "successors": [{"name": "Lighthouse_museums_in_Michigan", "id": 23939685}, {"name": "Lighthouse_museums_in_England", "id": 26383888}]}

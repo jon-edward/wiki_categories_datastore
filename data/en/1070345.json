@@ -1,1 +1,1 @@
-{"name": "French_naturalists", "id": 1070345, "predecessors": [{"name": "Natural_history", "id": 2054828}], "successors": [{"name": "Jean-Baptiste_Lamarck", "id": 54146873}]}
+{"name": "French_naturalists", "id": 1070345, "predecessors": [{"name": "French_scientists", "id": 773007}, {"name": "Natural_history", "id": 2054828}, {"name": "France", "id": 706228}], "successors": [{"name": "Jean-Baptiste_Lamarck", "id": 54146873}]}

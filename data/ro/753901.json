@@ -1,1 +1,1 @@
-{"name": "Mașini_unelte", "id": 753901, "predecessors": [{"name": "Echipament_industrial", "id": 477601}, {"name": "Mașini", "id": 753896}], "successors": [{"name": "Uzinaj", "id": 1049998}]}
+{"name": "Mașini_unelte", "id": 753901, "predecessors": [{"name": "Echipament_industrial", "id": 477601}, {"name": "Mașini", "id": 753896}, {"name": "Unelte", "id": 129232}], "successors": [{"name": "Uzinaj", "id": 1049998}]}

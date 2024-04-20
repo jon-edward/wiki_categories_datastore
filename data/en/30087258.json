@@ -1,1 +1,1 @@
-{"name": "World_Cup_of_Pool", "id": 30087258, "predecessors": [{"name": "Pool_competitions", "id": 25435690}], "successors": []}
+{"name": "World_Cup_of_Pool", "id": 30087258, "predecessors": [{"name": "Pool_competitions", "id": 25435690}, {"name": "World_cups", "id": 55528374}], "successors": []}

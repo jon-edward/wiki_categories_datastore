@@ -1,1 +1,0 @@
-{"name": "Diagnosis_codes", "id": 3498451, "predecessors": [{"name": "Medical_classification", "id": 3498407}, {"name": "Medical_diagnosis", "id": 16705234}], "successors": [{"name": "International_Classification_of_Diseases", "id": 37304965}]}

@@ -1,1 +1,1 @@
-{"name": "Cetology", "id": 13256111, "predecessors": [{"name": "Marine_biology", "id": 2649980}], "successors": [{"name": "Cetaceans", "id": 691536}, {"name": "Cetacean_research_and_conservation", "id": 30877314}]}
+{"name": "Cetology", "id": 13256111, "predecessors": [{"name": "Marine_biology", "id": 2649980}], "successors": [{"name": "Cetaceans", "id": 691536}, {"name": "Cetologists", "id": 13248443}, {"name": "Cetacean_research_and_conservation", "id": 30877314}]}

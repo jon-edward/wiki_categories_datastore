@@ -1,1 +1,1 @@
-{"name": "Băuturi_fermentate", "id": 230090, "predecessors": [{"name": "Băuturi_alcoolice", "id": 12191}, {"name": "Fermentație", "id": 751043}], "successors": []}
+{"name": "Băuturi_fermentate", "id": 230090, "predecessors": [{"name": "Băuturi_alcoolice", "id": 12191}, {"name": "Fermentație", "id": 751043}], "successors": [{"name": "Vinuri", "id": 85852}, {"name": "Bere", "id": 230089}]}

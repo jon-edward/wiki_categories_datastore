@@ -1,1 +1,1 @@
-{"name": "Ergs", "id": 8988723, "predecessors": [{"name": "Deserts", "id": 705498}, {"name": "Dunes", "id": 6560770}, {"name": "Erosion_landforms", "id": 11063669}], "successors": []}
+{"name": "Ergs", "id": 8988723, "predecessors": [{"name": "Deserts", "id": 705498}, {"name": "Dunes", "id": 6560770}], "successors": [{"name": "Ergs_of_Africa", "id": 52685831}]}

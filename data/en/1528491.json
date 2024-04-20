@@ -1,1 +1,1 @@
-{"name": "Gravitational-wave_telescopes", "id": 1528491, "predecessors": [{"name": "Telescopes", "id": 1025823}, {"name": "Gravimetry", "id": 1084229}, {"name": "Astronomical_observatories", "id": 712390}], "successors": []}
+{"name": "Gravitational-wave_telescopes", "id": 1528491, "predecessors": [{"name": "Telescopes", "id": 1025823}, {"name": "Gravimetry", "id": 1084229}, {"name": "Gravitational-wave_astronomy", "id": 42774028}], "successors": []}

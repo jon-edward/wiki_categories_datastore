@@ -1,1 +1,1 @@
-{"name": "Nitrogen_oxides", "id": 69406908, "predecessors": [{"name": "Oxides", "id": 695963}], "successors": []}
+{"name": "Nitrogen_oxides", "id": 69406908, "predecessors": [{"name": "Inorganic_nitrogen_compounds", "id": 28803165}, {"name": "Oxides", "id": 695963}, {"name": "Chemical_compounds", "id": 695235}], "successors": []}

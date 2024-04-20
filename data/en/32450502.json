@@ -1,1 +1,1 @@
-{"name": "Cliffs_of_Palmer_Land", "id": 32450502, "predecessors": [{"name": "Cliffs_of_Antarctica", "id": 16686999}, {"name": "Peninsulas_of_Antarctica", "id": 16686398}], "successors": [{"name": "Cliffs_of_Alexander_Island", "id": 32450491}]}
+{"name": "Cliffs_of_Palmer_Land", "id": 32450502, "predecessors": [{"name": "Cliffs_of_Antarctica", "id": 16686999}, {"name": "Antarctic_Peninsula", "id": 32236613}], "successors": [{"name": "Cliffs_of_Alexander_Island", "id": 32450491}]}

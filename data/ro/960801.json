@@ -1,1 +1,1 @@
-{"name": "Cafea", "id": 960801, "predecessors": [{"name": "Materiale_naturale", "id": 201480}], "successors": [{"name": "Cafenele", "id": 797045}]}
+{"name": "Cafea", "id": 960801, "predecessors": [{"name": "Băuturi_nealcoolice", "id": 109486}, {"name": "Plante", "id": 40802}], "successors": [{"name": "Cafenele", "id": 797045}]}

@@ -1,1 +1,1 @@
-{"name": "Buddhist_relics", "id": 43489117, "predecessors": [{"name": "Buddhist_practices", "id": 7425316}], "successors": [{"name": "Stupas", "id": 2738263}]}
+{"name": "Buddhist_relics", "id": 43489117, "predecessors": [{"name": "Buddhist_religious_objects", "id": 62675865}, {"name": "Relics", "id": 17351279}], "successors": [{"name": "Stupas", "id": 2738263}]}

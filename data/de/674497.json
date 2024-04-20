@@ -1,1 +1,0 @@
-{"name": "Radar", "id": 674497, "predecessors": [{"name": "Funknavigation", "id": 2311488}, {"name": "Technische_Optik", "id": 471777}], "successors": [{"name": "Radargerät", "id": 2152412}, {"name": "Radarbaugruppe", "id": 2193610}, {"name": "Radarsatellit", "id": 8545610}, {"name": "Radarturm", "id": 9741272}, {"name": "Radarwarngerät", "id": 11867206}]}

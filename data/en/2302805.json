@@ -1,1 +1,1 @@
-{"name": "Environmental_suits", "id": 2302805, "predecessors": [{"name": "Protective_gear", "id": 5095752}, {"name": "Safety_clothing", "id": 1041377}], "successors": [{"name": "American_spacesuits", "id": 22004301}]}
+{"name": "Environmental_suits", "id": 2302805, "predecessors": [{"name": "Protective_gear", "id": 5095752}, {"name": "Safety_clothing", "id": 1041377}], "successors": [{"name": "Spacesuits", "id": 7559583}]}

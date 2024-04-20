@@ -1,1 +1,1 @@
-{"name": "Virologists", "id": 5894917, "predecessors": [{"name": "Microbiologists", "id": 744687}, {"name": "Branches_of_biology", "id": 37535091}], "successors": [{"name": "Phage_workers", "id": 7590531}]}
+{"name": "Virologists", "id": 5894917, "predecessors": [{"name": "Microbiologists", "id": 744687}, {"name": "Virology", "id": 715146}], "successors": []}

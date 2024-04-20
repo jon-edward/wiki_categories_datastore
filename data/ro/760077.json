@@ -1,1 +1,1 @@
-{"name": "Sisteme_de_plăți", "id": 760077, "predecessors": [{"name": "Sistemul_bancar", "id": 1115229}], "successors": [{"name": "Bani", "id": 892298}]}
+{"name": "Sisteme_de_plăți", "id": 760077, "predecessors": [{"name": "Plăți", "id": 2322771}, {"name": "Sistemul_bancar", "id": 1115229}], "successors": [{"name": "Bani", "id": 892298}]}

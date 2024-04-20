@@ -1,1 +1,1 @@
-{"name": "Coordination_polymers", "id": 57303965, "predecessors": [{"name": "Polymers", "id": 698100}], "successors": [{"name": "Metal-organic_frameworks", "id": 50081525}]}
+{"name": "Coordination_polymers", "id": 57303965, "predecessors": [{"name": "Coordination_complexes", "id": 4879828}, {"name": "Polymers", "id": 698100}], "successors": [{"name": "Metal-organic_frameworks", "id": 50081525}]}

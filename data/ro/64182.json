@@ -1,1 +1,1 @@
-{"name": "Scriitori_sârbi", "id": 64182, "predecessors": [{"name": "Literatură_sârbă", "id": 2507163}, {"name": "Sârbi", "id": 64173}, {"name": "Autori", "id": 265623}], "successors": [{"name": "Dramaturgi_sârbi", "id": 385788}, {"name": "Poeți_sârbi", "id": 759270}]}
+{"name": "Scriitori_sârbi", "id": 64182, "predecessors": [{"name": "Literatură_sârbă", "id": 2507163}, {"name": "Sârbi", "id": 64173}, {"name": "Scriitori", "id": 16833}], "successors": [{"name": "Dramaturgi_sârbi", "id": 385788}, {"name": "Poeți_sârbi", "id": 759270}]}

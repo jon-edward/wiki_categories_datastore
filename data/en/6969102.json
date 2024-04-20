@@ -1,1 +1,1 @@
-{"name": "Instant_noodle_brands", "id": 6969102, "predecessors": [{"name": "Brand_name_soups", "id": 7976490}, {"name": "Noodles", "id": 875294}, {"name": "Ramen", "id": 47885485}], "successors": []}
+{"name": "Instant_noodle_brands", "id": 6969102, "predecessors": [{"name": "Brand_name_snack_foods", "id": 5827977}, {"name": "Brand_name_soups", "id": 7976490}, {"name": "Food_product_brands", "id": 4108480}, {"name": "Noodles", "id": 875294}, {"name": "Ramen", "id": 47885485}], "successors": [{"name": "Instant_noodle_brands_of_South_Korea", "id": 76540456}]}

@@ -1,1 +1,1 @@
-{"name": "Membrane_proteins", "id": 719582, "predecessors": [{"name": "Protein_classification", "id": 26850944}, {"name": "Proteins", "id": 717889}], "successors": []}
+{"name": "Membrane_proteins", "id": 719582, "predecessors": [{"name": "Membrane_biology", "id": 1064336}, {"name": "Protein_classification", "id": 26850944}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Airline_routes", "id": 34058340, "predecessors": [{"name": "Air_navigation", "id": 42462833}, {"name": "Transport_infrastructure", "id": 2962532}, {"name": "Aviation", "id": 735378}], "successors": []}
+{"name": "Airline_routes", "id": 34058340, "predecessors": [{"name": "Air_navigation", "id": 42462833}, {"name": "International_air_transport", "id": 20511101}, {"name": "Transport_infrastructure", "id": 2962532}, {"name": "Aviation", "id": 735378}], "successors": []}

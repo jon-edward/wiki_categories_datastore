@@ -1,1 +1,1 @@
-{"name": "Aphrodisiacs", "id": 37165803, "predecessors": [{"name": "Estrogens", "id": 720371}], "successors": []}
+{"name": "Aphrodisiacs", "id": 37165803, "predecessors": [{"name": "Human_sexuality", "id": 2315922}, {"name": "Pharmacology", "id": 717788}], "successors": [{"name": "Aphrodisiac_foods", "id": 60870474}]}

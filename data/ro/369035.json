@@ -1,1 +1,1 @@
-{"name": "Companii_din_agricultură", "id": 369035, "predecessors": [{"name": "Companii", "id": 32300}], "successors": [{"name": "Companii_agricole_din_România", "id": 603977}]}
+{"name": "Companii_din_agricultură", "id": 369035, "predecessors": [{"name": "Agricultură", "id": 28696}, {"name": "Companii", "id": 32300}], "successors": [{"name": "Companii_agricole_din_România", "id": 603977}, {"name": "Companii_producătoare_de_utilaje_agricole", "id": 642423}]}

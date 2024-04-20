@@ -1,1 +1,1 @@
-{"name": "Gaming_devices", "id": 8949314, "predecessors": [{"name": "Addiction", "id": 870031}], "successors": [{"name": "Dice", "id": 1090172}, {"name": "Playing_cards", "id": 2167123}, {"name": "Slot_machines", "id": 4859831}]}
+{"name": "Gaming_devices", "id": 8949314, "predecessors": [{"name": "Gaming", "id": 11608552}, {"name": "Crimes", "id": 694944}], "successors": [{"name": "Dice", "id": 1090172}, {"name": "Playing_cards", "id": 2167123}, {"name": "Slot_machines", "id": 4859831}]}

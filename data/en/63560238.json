@@ -1,1 +1,1 @@
-{"name": "Cruise_ships_involved_in_the_COVID-19_pandemic", "id": 63560238, "predecessors": [{"name": "COVID-19_pandemic", "id": 62939916}, {"name": "Cruise_ships", "id": 756776}, {"name": "Impact_of_the_COVID-19_pandemic", "id": 63339470}], "successors": []}
+{"name": "Cruise_ships_involved_in_the_COVID-19_pandemic", "id": 63560238, "predecessors": [{"name": "Impact_of_the_COVID-19_pandemic_on_tourism", "id": 63635515}, {"name": "COVID-19_pandemic", "id": 62939916}, {"name": "Cruise_ships", "id": 756776}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "British_foreign_correspondents", "id": 71295334, "predecessors": [{"name": "British_reporters_and_correspondents", "id": 4625720}, {"name": "Diplomacy", "id": 911551}], "successors": [{"name": "British_war_correspondents", "id": 32959555}]}
+{"name": "British_foreign_correspondents", "id": 71295334, "predecessors": [{"name": "British_reporters_and_correspondents", "id": 4625720}, {"name": "Foreign_correspondents", "id": 64051362}], "successors": [{"name": "British_war_correspondents", "id": 32959555}]}

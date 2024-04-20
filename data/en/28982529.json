@@ -1,1 +1,1 @@
-{"name": "Laser_types", "id": 28982529, "predecessors": [{"name": "Lasers", "id": 692824}], "successors": [{"name": "Semiconductor_lasers", "id": 12901265}, {"name": "Solid-state_lasers", "id": 12901345}, {"name": "Free-electron_lasers", "id": 46563947}]}
+{"name": "Laser_types", "id": 28982529, "predecessors": [{"name": "Lasers", "id": 692824}], "successors": [{"name": "Semiconductor_lasers", "id": 12901265}]}

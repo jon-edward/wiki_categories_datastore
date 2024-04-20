@@ -1,1 +1,1 @@
-{"name": "Amateur_theatre", "id": 16184792, "predecessors": [{"name": "Hobbies", "id": 698271}], "successors": [{"name": "Student_theatre", "id": 6321905}]}
+{"name": "Amateur_theatre", "id": 16184792, "predecessors": [{"name": "Hobbies", "id": 698271}, {"name": "Theatre", "id": 698600}], "successors": [{"name": "Student_theatre", "id": 6321905}, {"name": "Community_theatre", "id": 8424345}]}

@@ -1,1 +1,1 @@
-{"name": "Triatlon_la_Jocurile_Olimpice", "id": 1057959, "predecessors": [{"name": "Competiții_sportive", "id": 749508}, {"name": "Sporturi_olimpice", "id": 36680}], "successors": []}
+{"name": "Triatlon_la_Jocurile_Olimpice", "id": 1057959, "predecessors": [{"name": "Triatlon", "id": 666794}, {"name": "Sporturi_olimpice", "id": 36680}], "successors": [{"name": "Triatlon_la_Jocurile_Olimpice_de_vară_din_2020", "id": 2604340}]}

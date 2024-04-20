@@ -1,1 +1,1 @@
-{"name": "Samsung_Sports", "id": 29485254, "predecessors": [{"name": "Entertainment_organizations", "id": 14080806}], "successors": [{"name": "Samsung_Securities_Cup", "id": 37329895}, {"name": "Samsung_Lions_players", "id": 8604048}, {"name": "Samsung_Lions_coaches", "id": 29154674}, {"name": "Seoul_Samsung_Thunders_players", "id": 34641922}]}
+{"name": "Samsung_Sports", "id": 29485254, "predecessors": [{"name": "Asia", "id": 697006}, {"name": "Sports_marketing", "id": 43050656}], "successors": [{"name": "Samsung_Securities_Cup", "id": 37329895}]}

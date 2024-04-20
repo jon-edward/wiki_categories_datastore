@@ -1,1 +1,1 @@
-{"name": "Barbiturates", "id": 718202, "predecessors": [{"name": "Hypnotics", "id": 2479561}], "successors": [{"name": "Barbiturates-related_deaths", "id": 55713960}]}
+{"name": "Barbiturates", "id": 718202, "predecessors": [{"name": "Chemical_classes_of_psychoactive_drugs", "id": 51490504}, {"name": "Hypnotics", "id": 2479561}, {"name": "Imides", "id": 16053705}, {"name": "Pyrimidines", "id": 747762}], "successors": [{"name": "Thiobarbiturates", "id": 13548170}]}

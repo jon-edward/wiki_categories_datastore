@@ -1,1 +1,1 @@
-{"name": "Transport_in_Asturias", "id": 6232120, "predecessors": [{"name": "Asturias", "id": 880205}], "successors": []}
+{"name": "Transport_in_Asturias", "id": 6232120, "predecessors": [{"name": "Asturias", "id": 880205}, {"name": "Transport_in_Spain", "id": 4732180}], "successors": []}

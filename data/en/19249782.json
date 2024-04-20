@@ -1,1 +1,1 @@
-{"name": "Foodservice_companies", "id": 19249782, "predecessors": [{"name": "Food_companies", "id": 3464462}], "successors": [{"name": "Recipe_Unlimited", "id": 46743516}]}
+{"name": "Foodservice_companies", "id": 19249782, "predecessors": [{"name": "Food_companies", "id": 3464462}, {"name": "Food_industry", "id": 3540193}], "successors": [{"name": "Recipe_Unlimited", "id": 46743516}]}

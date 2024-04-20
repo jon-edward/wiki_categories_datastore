@@ -1,1 +1,1 @@
-{"name": "Baseball", "id": 106446, "predecessors": [{"name": "Sporturi_de_echipă", "id": 61797}], "successors": [{"name": "Jucători_de_baseball", "id": 2502230}]}
+{"name": "Baseball", "id": 106446, "predecessors": [{"name": "Sporturi_de_echipă", "id": 61797}], "successors": [{"name": "Jucători_de_baseball", "id": 2502230}, {"name": "Echipe_Major_League_Baseball", "id": 1164865}]}

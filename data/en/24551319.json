@@ -1,1 +1,1 @@
-{"name": "Assisted_reproductive_technology", "id": 24551319, "predecessors": [{"name": "Family_planning", "id": 35733366}, {"name": "Medical_technology", "id": 18960497}], "successors": []}
+{"name": "Assisted_reproductive_technology", "id": 24551319, "predecessors": [{"name": "Family_planning", "id": 35733366}, {"name": "Fertility_medicine", "id": 1218340}, {"name": "Medical_technology", "id": 18960497}], "successors": [{"name": "In_vitro_fertilisation", "id": 7682764}]}

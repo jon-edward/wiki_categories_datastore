@@ -1,1 +1,1 @@
-{"name": "Addiction_medicine", "id": 55785984, "predecessors": [{"name": "Addiction", "id": 870031}], "successors": [{"name": "Addiction_medicine_journals", "id": 28638028}, {"name": "Addiction_psychiatry", "id": 31126821}, {"name": "Drug_testing", "id": 68775019}, {"name": "American_addiction_physicians", "id": 55772458}]}
+{"name": "Addiction_medicine", "id": 55785984, "predecessors": [{"name": "Medical_specialties", "id": 1449968}], "successors": [{"name": "Drug_testing", "id": 68775019}]}

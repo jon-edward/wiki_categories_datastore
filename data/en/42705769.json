@@ -1,1 +1,1 @@
-{"name": "Health_Service_Executive", "id": 42705769, "predecessors": [{"name": "Publicly_funded_health_care", "id": 28951425}], "successors": [{"name": "Health_Service_Executive_hospitals", "id": 42705632}]}
+{"name": "Health_Service_Executive", "id": 42705769, "predecessors": [{"name": "Medical_and_health_organisations_based_in_the_Republic_of_Ireland", "id": 45296341}, {"name": "Publicly_funded_health_care", "id": 28951425}], "successors": [{"name": "Health_Service_Executive_hospitals", "id": 42705632}]}

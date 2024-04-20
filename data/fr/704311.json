@@ -1,1 +1,0 @@
-{"name": "Composant_de_parfum", "id": 704311, "predecessors": [{"name": "Parfum", "id": 690157}, {"name": "Produit_chimique", "id": 4817319}], "successors": [{"name": "Plante_à_parfum", "id": 290272}, {"name": "Huile_essentielle", "id": 494889}, {"name": "Encens", "id": 1697788}]}

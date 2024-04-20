@@ -1,1 +1,1 @@
-{"name": "Pedestrian_malls_in_Canada", "id": 25533077, "predecessors": [{"name": "Pedestrian_malls", "id": 16509864}], "successors": []}
+{"name": "Pedestrian_malls_in_Canada", "id": 25533077, "predecessors": [{"name": "Pedestrian_malls", "id": 16509864}, {"name": "Shopping_districts_and_streets_in_Canada", "id": 21445378}, {"name": "Shopping_malls_in_Canada", "id": 2926913}, {"name": "Environment_of_Canada", "id": 5393529}], "successors": []}

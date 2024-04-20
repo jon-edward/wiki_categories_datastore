@@ -1,1 +1,1 @@
-{"name": "Sexologists", "id": 841209, "predecessors": [{"name": "Social_sciences", "id": 695042}, {"name": "Health", "id": 751381}, {"name": "Psychology", "id": 695868}], "successors": []}
+{"name": "Sexologists", "id": 841209, "predecessors": [{"name": "Sexology", "id": 691979}, {"name": "Social_sciences", "id": 695042}, {"name": "Health", "id": 751381}], "successors": [{"name": "American_sexologists", "id": 6807579}, {"name": "Canadian_sexologists", "id": 36531655}, {"name": "Women_sexologists", "id": 41979413}]}

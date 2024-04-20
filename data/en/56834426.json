@@ -1,1 +1,1 @@
-{"name": "5.56×45mm_NATO_machine_guns", "id": 56834426, "predecessors": [{"name": "Firearms", "id": 739385}, {"name": "Military_cartridges", "id": 21362466}], "successors": []}
+{"name": "5.56×45mm_NATO_machine_guns", "id": 56834426, "predecessors": [{"name": "Machine_guns", "id": 739722}, {"name": "Military_cartridges", "id": 21362466}], "successors": []}

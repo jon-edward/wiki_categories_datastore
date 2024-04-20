@@ -1,1 +1,1 @@
-{"name": "Early_steam_locomotives", "id": 7803434, "predecessors": [{"name": "Rolling_stock_innovations", "id": 41436988}], "successors": []}
+{"name": "Early_steam_locomotives", "id": 7803434, "predecessors": [{"name": "Rolling_stock_innovations", "id": 41436988}, {"name": "Steam_locomotives", "id": 1248600}], "successors": [{"name": "Liverpool_and_Manchester_Railway_locomotives", "id": 5953784}]}

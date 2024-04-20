@@ -1,1 +1,1 @@
-{"name": "World_Cup_of_Softball", "id": 28528014, "predecessors": [{"name": "Softball_organizations", "id": 42963862}, {"name": "Softball_competitions", "id": 43040527}], "successors": []}
+{"name": "World_Cup_of_Softball", "id": 28528014, "predecessors": [{"name": "World_cups", "id": 55528374}, {"name": "Softball_organizations", "id": 42963862}, {"name": "Competitions", "id": 737119}], "successors": []}

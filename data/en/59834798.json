@@ -1,1 +1,1 @@
-{"name": "New_Year_foods", "id": 59834798, "predecessors": [{"name": "New_Year_celebrations", "id": 2395378}], "successors": [{"name": "Chinese_New_Year_foods", "id": 21172341}]}
+{"name": "New_Year_foods", "id": 59834798, "predecessors": [{"name": "Holiday_foods", "id": 20477446}, {"name": "New_Year_celebrations", "id": 2395378}], "successors": [{"name": "Chinese_New_Year_foods", "id": 21172341}, {"name": "Sinhalese_New_Year_foods", "id": 56386123}, {"name": "Rosh_Hashanah_foods", "id": 62092661}]}

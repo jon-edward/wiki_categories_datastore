@@ -1,1 +1,1 @@
-{"name": "Specii_invazive", "id": 1228535, "predecessors": [{"name": "Probleme", "id": 186861}, {"name": "Organisme", "id": 185025}], "successors": [{"name": "Specii_de_animale_invazive", "id": 1169011}, {"name": "Specii_de_plante_invazive", "id": 1632653}]}
+{"name": "Specii_invazive", "id": 1228535, "predecessors": [{"name": "Organisme", "id": 185025}], "successors": [{"name": "Specii_de_animale_invazive", "id": 1169011}, {"name": "Specii_de_plante_invazive", "id": 1632653}]}

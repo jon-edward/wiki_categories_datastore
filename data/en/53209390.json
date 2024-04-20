@@ -1,1 +1,1 @@
-{"name": "Steroid_esters", "id": 53209390, "predecessors": [{"name": "Steroids", "id": 720288}], "successors": [{"name": "Androgen_esters", "id": 54551070}]}
+{"name": "Steroid_esters", "id": 53209390, "predecessors": [{"name": "Esters", "id": 695881}, {"name": "Steroids", "id": 720288}], "successors": [{"name": "Androgen_esters", "id": 54551070}, {"name": "Estrogen_esters", "id": 54551129}, {"name": "Progestogen_esters", "id": 54551206}, {"name": "Corticosteroid_esters", "id": 54551344}]}

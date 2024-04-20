@@ -1,1 +1,1 @@
-{"name": "Wheelchairs", "id": 24452664, "predecessors": [{"name": "Chairs", "id": 2181348}, {"name": "Mobility_devices", "id": 16920105}, {"name": "Wheeled_vehicles", "id": 29809416}], "successors": [{"name": "Wheelchair_sports", "id": 8625340}, {"name": "Wheelchair_users", "id": 63112448}]}
+{"name": "Wheelchairs", "id": 24452664, "predecessors": [{"name": "Chairs", "id": 2181348}, {"name": "Wheeled_vehicles", "id": 29809416}], "successors": [{"name": "Wheelchair_sports", "id": 8625340}, {"name": "Wheelchair_users", "id": 63112448}]}

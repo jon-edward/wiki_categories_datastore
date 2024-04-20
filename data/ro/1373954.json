@@ -1,1 +1,1 @@
-{"name": "Vehicule_Ferrari", "id": 1373954, "predecessors": [{"name": "Mărci_de_automobile", "id": 141455}, {"name": "Companii_multinaționale", "id": 749488}], "successors": []}
+{"name": "Vehicule_Ferrari", "id": 1373954, "predecessors": [{"name": "Ferrari", "id": 1212424}, {"name": "Mărci_de_automobile", "id": 141455}], "successors": []}

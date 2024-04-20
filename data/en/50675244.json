@@ -1,1 +1,1 @@
-{"name": "Quartz_gemstones", "id": 50675244, "predecessors": [{"name": "Gemstones", "id": 737200}, {"name": "Industrial_minerals", "id": 53386996}], "successors": []}
+{"name": "Quartz_gemstones", "id": 50675244, "predecessors": [{"name": "Gemstones", "id": 737200}, {"name": "Quartz_varieties", "id": 1129423}], "successors": [{"name": "Agates", "id": 42924369}]}

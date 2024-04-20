@@ -1,1 +1,1 @@
-{"name": "Pilgrimage_sites", "id": 1794798, "predecessors": [{"name": "Religious_places", "id": 1880789}], "successors": [{"name": "Hindu_pilgrimage_sites", "id": 2071767}, {"name": "Jain_pilgrimage_sites", "id": 42387458}]}
+{"name": "Pilgrimage_sites", "id": 1794798, "predecessors": [{"name": "Pilgrimage", "id": 725614}, {"name": "Religious_places", "id": 1880789}], "successors": [{"name": "Hindu_pilgrimage_sites", "id": 2071767}, {"name": "Jewish_pilgrimage_sites", "id": 28157042}, {"name": "Jain_pilgrimage_sites", "id": 42387458}]}

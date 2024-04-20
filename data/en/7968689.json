@@ -1,1 +1,1 @@
-{"name": "SIMD_computing", "id": 7968689, "predecessors": [{"name": "Parallel_computing", "id": 957606}], "successors": [{"name": "Cell_BE_architecture", "id": 5488801}]}
+{"name": "SIMD_computing", "id": 7968689, "predecessors": [{"name": "Parallel_computing", "id": 957606}], "successors": []}

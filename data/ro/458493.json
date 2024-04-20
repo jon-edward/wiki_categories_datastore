@@ -1,1 +1,1 @@
-{"name": "Bărbat", "id": 458493, "predecessors": [{"name": "Oameni", "id": 24641}, {"name": "Sex", "id": 207487}], "successors": [{"name": "Prenume_masculine", "id": 169084}, {"name": "Prinți", "id": 759461}, {"name": "Bărbați_uciși", "id": 2925402}]}
+{"name": "Bărbat", "id": 458493, "predecessors": [{"name": "Tipologia_sexelor", "id": 458480}, {"name": "Oameni", "id": 24641}], "successors": [{"name": "Prenume_masculine", "id": 169084}, {"name": "Prinți", "id": 759461}, {"name": "Bărbați_uciși", "id": 2925402}]}

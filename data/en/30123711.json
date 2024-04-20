@@ -1,1 +1,1 @@
-{"name": "Automatic_rifles", "id": 30123711, "predecessors": [{"name": "Rifles", "id": 739709}, {"name": "Firearms", "id": 739385}], "successors": [{"name": "Battle_rifles", "id": 5515652}]}
+{"name": "Automatic_rifles", "id": 30123711, "predecessors": [{"name": "Machine_guns", "id": 739722}, {"name": "Rifles", "id": 739709}], "successors": [{"name": "Battle_rifles", "id": 5515652}]}

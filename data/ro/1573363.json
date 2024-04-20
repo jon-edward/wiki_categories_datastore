@@ -1,1 +1,1 @@
-{"name": "Teste_medicale", "id": 1573363, "predecessors": [{"name": "Teste", "id": 855923}], "successors": [{"name": "Teste_imunologice", "id": 2589595}]}
+{"name": "Teste_medicale", "id": 1573363, "predecessors": [{"name": "Diagnostic_medical", "id": 577868}, {"name": "Teste", "id": 855923}], "successors": [{"name": "Teste_imunologice", "id": 2589595}]}

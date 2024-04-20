@@ -1,1 +1,1 @@
-{"name": "French_military_occupations", "id": 35203736, "predecessors": [{"name": "Military_occupation", "id": 15453791}], "successors": [{"name": "French_occupation_of_Malta", "id": 46178385}]}
+{"name": "French_military_occupations", "id": 35203736, "predecessors": [{"name": "Military_operations_involving_France", "id": 9905888}, {"name": "Military_occupation", "id": 15453791}], "successors": [{"name": "French_occupation_of_Malta", "id": 46178385}]}

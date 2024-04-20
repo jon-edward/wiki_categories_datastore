@@ -1,1 +1,1 @@
-{"name": "Algebraic_topology", "id": 695928, "predecessors": [{"name": "Topology", "id": 691921}, {"name": "Abstract_algebra", "id": 690672}], "successors": [{"name": "Homological_algebra", "id": 695955}, {"name": "Theorems_in_algebraic_topology", "id": 34558962}]}
+{"name": "Algebraic_topology", "id": 695928, "predecessors": [{"name": "Topology", "id": 691921}, {"name": "Abstract_algebra", "id": 690672}], "successors": [{"name": "Knot_theory", "id": 696014}, {"name": "Topological_graph_theory", "id": 1575639}]}

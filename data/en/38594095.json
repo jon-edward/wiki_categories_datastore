@@ -1,1 +1,1 @@
-{"name": "Canadian_mining_engineers", "id": 38594095, "predecessors": [{"name": "Mining_in_Canada", "id": 7639409}], "successors": []}
+{"name": "Canadian_mining_engineers", "id": 38594095, "predecessors": [{"name": "Canadian_engineers", "id": 1702600}, {"name": "Mining_in_Canada", "id": 7639409}], "successors": []}

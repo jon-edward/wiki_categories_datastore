@@ -1,1 +1,1 @@
-{"name": "Chinese_calligraphy", "id": 4267482, "predecessors": [{"name": "Chinese_painting", "id": 8599610}, {"name": "East_Asian_calligraphy", "id": 4267471}, {"name": "Chinese_language", "id": 1055259}, {"name": "Chinese_art", "id": 882753}], "successors": []}
+{"name": "Chinese_calligraphy", "id": 4267482, "predecessors": [{"name": "Chinese_orthography", "id": 36297801}, {"name": "Chinese_painting", "id": 8599610}, {"name": "East_Asian_calligraphy", "id": 4267471}, {"name": "Chinese_art", "id": 882753}], "successors": [{"name": "Chinese_calligraphers", "id": 1522694}]}

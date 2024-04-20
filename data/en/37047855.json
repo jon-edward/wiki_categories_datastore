@@ -1,1 +1,1 @@
-{"name": "Household_income", "id": 37047855, "predecessors": [{"name": "Personal_finance", "id": 1655037}, {"name": "Quality_of_life", "id": 40249123}], "successors": []}
+{"name": "Household_income", "id": 37047855, "predecessors": [{"name": "Income", "id": 2108447}, {"name": "Personal_finance", "id": 1655037}, {"name": "Standard_of_living", "id": 34539761}], "successors": []}

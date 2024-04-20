@@ -1,1 +1,1 @@
-{"name": "Formate_articole", "id": 339586, "predecessors": [{"name": "Pagina_principală", "id": 433494}, {"name": "Formate_Wikipedia", "id": 38564}], "successors": [{"name": "Formate_articole_bune", "id": 367625}, {"name": "Formate_AC", "id": 376803}]}
+{"name": "Formate_articole", "id": 339586, "predecessors": [{"name": "Pagina_principală", "id": 433494}, {"name": "Formate_Wikipedia", "id": 38564}], "successors": [{"name": "Formate_articole_bune", "id": 367625}, {"name": "Formate_AC", "id": 376803}, {"name": "Formate_de_clasificare_a_articolelor", "id": 2004481}]}

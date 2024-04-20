@@ -1,1 +1,1 @@
-{"name": "Insurance_companies_based_in_Tokyo", "id": 52441455, "predecessors": [{"name": "Insurance", "id": 873395}], "successors": [{"name": "Meiji_Yasuda_Life", "id": 52216941}]}
+{"name": "Insurance_companies_based_in_Tokyo", "id": 52441455, "predecessors": [{"name": "Companies_based_in_Tokyo", "id": 11236394}, {"name": "Financial_services_companies_of_Japan", "id": 2987830}], "successors": [{"name": "Meiji_Yasuda_Life", "id": 52216941}, {"name": "Dai-ichi_Life", "id": 52263863}]}

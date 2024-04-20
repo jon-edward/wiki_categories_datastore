@@ -1,1 +1,1 @@
-{"name": "Plagues", "id": 1039880, "predecessors": [{"name": "Agricultura", "id": 19909}, {"name": "Ecologia", "id": 12964}, {"name": "Silvicultura", "id": 745160}], "successors": [{"name": "Corcs", "id": 1251384}]}
+{"name": "Plagues", "id": 1039880, "predecessors": [{"name": "Agricultura", "id": 19909}, {"name": "Ecologia", "id": 12964}, {"name": "Fitopatologia", "id": 831390}, {"name": "Silvicultura", "id": 745160}], "successors": [{"name": "Corcs", "id": 1251384}]}

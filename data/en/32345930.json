@@ -1,1 +1,1 @@
-{"name": "German-language_plays", "id": 32345930, "predecessors": [{"name": "German_language", "id": 1405531}], "successors": [{"name": "Plays_by_Elfriede_Jelinek", "id": 28810857}]}
+{"name": "German-language_plays", "id": 32345930, "predecessors": [{"name": "German-language_literature", "id": 2995483}, {"name": "German-language_works", "id": 37110198}], "successors": [{"name": "Plays_by_Johann_Wolfgang_von_Goethe", "id": 24290398}, {"name": "Plays_by_Elfriede_Jelinek", "id": 28810857}]}

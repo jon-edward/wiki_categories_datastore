@@ -1,1 +1,1 @@
-{"name": "Anvelope", "id": 912568, "predecessors": [{"name": "Autovehicule", "id": 888241}, {"name": "Piese_auto", "id": 1026851}, {"name": "Cauciuc", "id": 892558}], "successors": [{"name": "Fabricanți_de_anvelope", "id": 750984}]}
+{"name": "Anvelope", "id": 912568, "predecessors": [{"name": "Autovehicule", "id": 888241}, {"name": "Piese_auto", "id": 1026851}, {"name": "Cauciuc", "id": 892558}], "successors": [{"name": "Fabricanți_de_anvelope", "id": 750984}, {"name": "Fabricanți_de_pneuri_în_Formula_1", "id": 750985}]}

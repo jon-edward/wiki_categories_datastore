@@ -1,1 +1,1 @@
-{"name": "Quran_reciting", "id": 33183515, "predecessors": [{"name": "Quran", "id": 33032043}, {"name": "Reading_(process)", "id": 43968732}], "successors": [{"name": "Quran_reciters", "id": 15444038}, {"name": "Quranic_readings", "id": 32741937}, {"name": "Warsh_recitation", "id": 66172603}]}
+{"name": "Quran_reciting", "id": 33183515, "predecessors": [{"name": "Quran", "id": 33032043}, {"name": "Reading_(process)", "id": 43968732}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Tomato_cultivars", "id": 34709603, "predecessors": [{"name": "Food_plant_cultivars", "id": 39613582}, {"name": "Tomatoes", "id": 4878647}], "successors": []}
+{"name": "Tomato_cultivars", "id": 34709603, "predecessors": [{"name": "Food_plant_cultivars", "id": 39613582}, {"name": "Tomatoes", "id": 4878647}], "successors": [{"name": "Heirloom_tomato_cultivars", "id": 27675097}, {"name": "Hybrid_tomato_cultivars", "id": 27675115}]}

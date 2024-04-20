@@ -1,1 +1,1 @@
-{"name": "Fizicieni_britanici", "id": 110087, "predecessors": [{"name": "Fizicieni", "id": 22048}, {"name": "Oameni_de_știință", "id": 758136}], "successors": [{"name": "Fizicieni_englezi", "id": 57006}, {"name": "Fizicieni_scoțieni", "id": 751100}]}
+{"name": "Fizicieni_britanici", "id": 110087, "predecessors": [{"name": "Oameni_de_știință_britanici", "id": 998009}, {"name": "Fizicieni", "id": 22048}], "successors": [{"name": "Fizicieni_englezi", "id": 57006}, {"name": "Fizicieni_scoțieni", "id": 751100}]}

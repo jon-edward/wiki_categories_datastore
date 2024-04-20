@@ -1,1 +1,1 @@
-{"name": "Water_castles_in_Germany", "id": 50489144, "predecessors": [{"name": "Water_castles", "id": 35024743}], "successors": []}
+{"name": "Water_castles_in_Germany", "id": 50489144, "predecessors": [{"name": "Castles_in_Germany", "id": 711050}, {"name": "Water_castles", "id": 35024743}], "successors": [{"name": "Water_castles_in_North_Rhine-Westphalia", "id": 50490441}]}

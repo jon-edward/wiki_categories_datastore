@@ -1,1 +1,1 @@
-{"name": "Glands", "id": 2487650, "predecessors": [{"name": "Animal_anatomy", "id": 3120301}, {"name": "Human_anatomy", "id": 2294735}, {"name": "Organs_(anatomy)", "id": 2487666}], "successors": [{"name": "Glands_of_mouth", "id": 32635732}, {"name": "Nipple", "id": 62925847}]}
+{"name": "Glands", "id": 2487650, "predecessors": [{"name": "Animal_anatomy", "id": 3120301}], "successors": [{"name": "Thyroid", "id": 37920871}, {"name": "Nipple", "id": 62925847}]}

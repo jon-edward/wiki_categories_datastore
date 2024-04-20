@@ -1,1 +1,1 @@
-{"name": "Coloranți_sintetici", "id": 749393, "predecessors": [{"name": "Coloranți", "id": 749390}, {"name": "Materiale_sintetice", "id": 870844}], "successors": [{"name": "Coloranți_azoici", "id": 749391}, {"name": "Coloranți_triarilmetanici", "id": 749394}]}
+{"name": "Coloranți_sintetici", "id": 749393, "predecessors": [{"name": "Coloranți", "id": 749390}, {"name": "Materiale_sintetice", "id": 870844}], "successors": [{"name": "Coloranți_azoici", "id": 749391}, {"name": "Coloranți_triarilmetanici", "id": 749394}, {"name": "Coloranți_trifenilmetanici", "id": 749395}]}

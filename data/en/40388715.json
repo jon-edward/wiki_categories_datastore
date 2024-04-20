@@ -1,1 +1,1 @@
-{"name": "Spanish_male_film_actors", "id": 40388715, "predecessors": [{"name": "Spanish_film_actors", "id": 3767083}], "successors": []}
+{"name": "Spanish_male_film_actors", "id": 40388715, "predecessors": [{"name": "Spanish_film_actors", "id": 3767083}], "successors": [{"name": "Spanish_male_silent_film_actors", "id": 41345445}, {"name": "Male_film_actors_from_Catalonia", "id": 41358706}]}

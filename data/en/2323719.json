@@ -1,0 +1,1 @@
+{"name": "SNCF_multiple_units", "id": 2323719, "predecessors": [{"name": "Rolling_stock", "id": 1103564}, {"name": "SNCF", "id": 2323663}], "successors": [{"name": "TGV_trainsets", "id": 25670136}]}

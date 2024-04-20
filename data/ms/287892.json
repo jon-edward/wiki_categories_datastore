@@ -1,1 +1,1 @@
-{"name": "Bahasa_Yunani", "id": 287892, "predecessors": [{"name": "Bahasa", "id": 7137}, {"name": "Yunani", "id": 162783}, {"name": "Keluarga_bahasa", "id": 84688}], "successors": [{"name": "Abjad_Yunani", "id": 80263}, {"name": "Kata_pinjaman_Greek", "id": 165384}]}
+{"name": "Bahasa_Yunani", "id": 287892, "predecessors": [{"name": "Bahasa_di_Yunani", "id": 287894}, {"name": "Bahasa", "id": 7137}, {"name": "Keluarga_bahasa", "id": 84688}], "successors": [{"name": "Abjad_Yunani", "id": 80263}, {"name": "Kata_pinjaman_Greek", "id": 165384}]}

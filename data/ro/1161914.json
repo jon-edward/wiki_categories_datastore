@@ -1,1 +1,1 @@
-{"name": "Guvernul_Bulgariei", "id": 1161914, "predecessors": [{"name": "Politica_Bulgariei", "id": 259704}, {"name": "Guvern", "id": 36081}], "successors": [{"name": "Prim-miniștri_ai_Bulgariei", "id": 1161928}, {"name": "Parlamentari_bulgari", "id": 1365702}]}
+{"name": "Guvernul_Bulgariei", "id": 1161914, "predecessors": [{"name": "Guverne_după_țară", "id": 752614}, {"name": "Politica_Bulgariei", "id": 259704}], "successors": [{"name": "Prim-miniștri_ai_Bulgariei", "id": 1161928}, {"name": "Parlamentari_bulgari", "id": 1365702}]}

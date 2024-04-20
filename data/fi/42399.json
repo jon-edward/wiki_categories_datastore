@@ -1,1 +1,1 @@
-{"name": "Maailmanmusiikki", "id": 42399, "predecessors": [{"name": "Kansanmusiikki", "id": 33499}, {"name": "Musiikkityylit", "id": 260703}], "successors": [{"name": "Maailmanmusiikkiyhtyeet", "id": 128923}]}
+{"name": "Maailmanmusiikki", "id": 42399, "predecessors": [{"name": "Kansanmusiikki", "id": 33499}, {"name": "Musiikkityylit", "id": 260703}], "successors": [{"name": "Maailmanmusiikkiyhtyeet", "id": 128923}, {"name": "Maailmanmusiikkitapahtumat_Suomessa", "id": 393863}]}

@@ -1,1 +1,1 @@
-{"name": "SpaceX_astronauts", "id": 64747412, "predecessors": [{"name": "SpaceX_people", "id": 39630398}, {"name": "Aeronautics", "id": 1492803}], "successors": []}
+{"name": "SpaceX_astronauts", "id": 64747412, "predecessors": [{"name": "SpaceX_people", "id": 39630398}, {"name": "Human_spaceflight_programs", "id": 43562977}], "successors": []}

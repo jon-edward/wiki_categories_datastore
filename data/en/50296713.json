@@ -1,1 +1,1 @@
-{"name": "Book_of_Genesis_chapters", "id": 50296713, "predecessors": [{"name": "Book_of_Genesis", "id": 28985697}, {"name": "Hebrew_Bible", "id": 12107744}], "successors": [{"name": "Genesis_1", "id": 50296692}]}
+{"name": "Book_of_Genesis_chapters", "id": 50296713, "predecessors": [{"name": "Book_of_Genesis", "id": 28985697}, {"name": "Bible", "id": 1114670}], "successors": [{"name": "Genesis_1", "id": 50296692}]}

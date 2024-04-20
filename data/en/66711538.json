@@ -1,1 +1,1 @@
-{"name": "Optical_microscopy", "id": 66711538, "predecessors": [{"name": "Microscopy", "id": 1894701}], "successors": []}
+{"name": "Optical_microscopy", "id": 66711538, "predecessors": [{"name": "Microscopy", "id": 1894701}], "successors": [{"name": "Optical_mineralogy", "id": 9360977}, {"name": "Optical_microscopy_techniques", "id": 70286385}]}

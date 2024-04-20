@@ -1,1 +1,1 @@
-{"name": "Baku_Metro_stations", "id": 31591323, "predecessors": [{"name": "Track_gauges", "id": 42344383}], "successors": []}
+{"name": "Baku_Metro_stations", "id": 31591323, "predecessors": [{"name": "Transport_in_Azerbaijan", "id": 4727407}, {"name": "Geography_of_Baku", "id": 64659465}], "successors": []}

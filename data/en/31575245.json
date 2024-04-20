@@ -1,1 +1,1 @@
-{"name": "Houses_in_Seattle", "id": 31575245, "predecessors": [{"name": "Houses_in_King_County,_Washington", "id": 45253682}, {"name": "Residential_buildings_in_Seattle", "id": 31575221}], "successors": []}
+{"name": "Houses_in_Seattle", "id": 31575245, "predecessors": [{"name": "Residential_buildings_in_Seattle", "id": 31575221}], "successors": []}

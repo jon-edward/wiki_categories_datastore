@@ -1,1 +1,1 @@
-{"name": "MTR_stations_in_the_New_Territories", "id": 54649472, "predecessors": [{"name": "Buildings_and_structures_in_Hong_Kong", "id": 2682345}], "successors": []}
+{"name": "MTR_stations_in_the_New_Territories", "id": 54649472, "predecessors": [{"name": "New_Territories", "id": 1914038}, {"name": "MTR", "id": 1390980}], "successors": []}

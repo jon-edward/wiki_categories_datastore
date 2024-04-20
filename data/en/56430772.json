@@ -1,1 +1,1 @@
-{"name": "Management_scientists", "id": 56430772, "predecessors": [{"name": "Business_theorists", "id": 1226607}], "successors": [{"name": "Fellows_of_the_Institute_for_Operations_Research_and_the_Management_Sciences", "id": 62301333}]}
+{"name": "Management_scientists", "id": 56430772, "predecessors": [{"name": "Business_theorists", "id": 1226607}, {"name": "Management_science", "id": 17562296}], "successors": [{"name": "Fellows_of_the_Institute_for_Operations_Research_and_the_Management_Sciences", "id": 62301333}]}

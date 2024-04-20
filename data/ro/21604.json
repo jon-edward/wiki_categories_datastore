@@ -1,1 +1,1 @@
-{"name": "Dictatori", "id": 21604, "predecessors": [{"name": "Titluri", "id": 20928}], "successors": [{"name": "Dictatori_romani", "id": 22773}, {"name": "Adolf_Hitler", "id": 32713}, {"name": "Iosif_Stalin", "id": 1129956}]}
+{"name": "Dictatori", "id": 21604, "predecessors": [{"name": "Dictaturi", "id": 339146}, {"name": "Titluri", "id": 20928}], "successors": [{"name": "Dictatori_romani", "id": 22773}, {"name": "Adolf_Hitler", "id": 32713}, {"name": "Iosif_Stalin", "id": 1129956}]}

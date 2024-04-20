@@ -1,1 +1,1 @@
-{"name": "Rothschild_family_residences", "id": 47348245, "predecessors": [{"name": "Buildings_and_structures", "id": 702393}, {"name": "Houses", "id": 803205}], "successors": [{"name": "Waddesdon_Manor", "id": 58424733}]}
+{"name": "Rothschild_family_residences", "id": 47348245, "predecessors": [{"name": "Rothschild_family", "id": 6222019}, {"name": "Buildings_and_structures", "id": 702393}, {"name": "Houses", "id": 803205}], "successors": [{"name": "Waddesdon_Manor", "id": 58424733}]}

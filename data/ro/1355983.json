@@ -1,1 +1,1 @@
-{"name": "Scriitori_peruani", "id": 1355983, "predecessors": [{"name": "Oameni", "id": 24641}, {"name": "Autori", "id": 265623}], "successors": [{"name": "Romancieri_peruani", "id": 38264}]}
+{"name": "Scriitori_peruani", "id": 1355983, "predecessors": [{"name": "Oameni", "id": 24641}, {"name": "Scriitori", "id": 16833}], "successors": [{"name": "Romancieri_peruani", "id": 38264}]}

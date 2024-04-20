@@ -1,1 +1,1 @@
-{"name": "Thanksgiving_food", "id": 48410965, "predecessors": [{"name": "American_cuisine", "id": 728911}, {"name": "Thanksgiving", "id": 5659398}], "successors": []}
+{"name": "Thanksgiving_food", "id": 48410965, "predecessors": [{"name": "American_cuisine", "id": 728911}, {"name": "Holiday_foods", "id": 20477446}, {"name": "Thanksgiving", "id": 5659398}], "successors": []}

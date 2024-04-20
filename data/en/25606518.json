@@ -1,1 +1,1 @@
-{"name": "Unix_package_management-related_software", "id": 25606518, "predecessors": [{"name": "Package_management_systems", "id": 1842209}, {"name": "Unix_software", "id": 2423579}], "successors": []}
+{"name": "Unix_package_management-related_software", "id": 25606518, "predecessors": [{"name": "Package_management_systems", "id": 1842209}, {"name": "Unix_software", "id": 2423579}], "successors": [{"name": "Linux_package_management-related_software", "id": 30221837}]}

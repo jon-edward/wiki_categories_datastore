@@ -1,1 +1,1 @@
-{"name": "Distillation", "id": 1458500, "predecessors": [{"name": "Laboratory_techniques", "id": 1305783}, {"name": "Separation_processes", "id": 12567378}], "successors": [{"name": "Distilled_drinks", "id": 1318251}, {"name": "Distilleries", "id": 28348320}, {"name": "Evaporators", "id": 32245322}, {"name": "Drink_distillers", "id": 37471967}]}
+{"name": "Distillation", "id": 1458500, "predecessors": [{"name": "Separation_processes", "id": 12567378}], "successors": [{"name": "Distilled_drinks", "id": 1318251}, {"name": "Evaporators", "id": 32245322}]}

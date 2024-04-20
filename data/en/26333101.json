@@ -1,1 +1,1 @@
-{"name": "News_editors", "id": 26333101, "predecessors": [{"name": "Editors_by_type", "id": 26128932}, {"name": "Journalism", "id": 698307}], "successors": [{"name": "Newspaper_editors", "id": 1322387}]}
+{"name": "News_editors", "id": 26333101, "predecessors": [{"name": "Editors_by_type", "id": 26128932}, {"name": "News_media", "id": 1752847}], "successors": [{"name": "Newspaper_editors", "id": 1322387}]}

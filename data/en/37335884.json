@@ -1,1 +1,1 @@
-{"name": "Electric_power_infrastructure_in_Denmark", "id": 37335884, "predecessors": [{"name": "Energy_markets", "id": 20790450}], "successors": []}
+{"name": "Electric_power_infrastructure_in_Denmark", "id": 37335884, "predecessors": [{"name": "Electric_power_in_the_European_Union", "id": 29824376}, {"name": "Economy_of_Denmark", "id": 2051357}], "successors": [{"name": "Cogeneration_power_stations_in_Denmark", "id": 37670501}, {"name": "Wind_farms_in_Denmark", "id": 9773978}]}

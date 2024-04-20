@@ -1,1 +1,1 @@
-{"name": "Shields", "id": 1243588, "predecessors": [{"name": "Body_armor", "id": 11665620}], "successors": [{"name": "Individual_shields", "id": 53353961}, {"name": "Human_shield_incidents", "id": 69477958}]}
+{"name": "Shields", "id": 1243588, "predecessors": [{"name": "Body_armor", "id": 11665620}], "successors": [{"name": "Medieval_shields", "id": 8522656}, {"name": "Individual_shields", "id": 53353961}, {"name": "Greek_shields", "id": 59982204}, {"name": "Human_shield_incidents", "id": 69477958}]}

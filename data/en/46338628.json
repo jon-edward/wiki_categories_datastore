@@ -1,1 +1,1 @@
-{"name": "Major_Arcana", "id": 46338628, "predecessors": [{"name": "Card_suits", "id": 57628737}, {"name": "Objects_used_for_divination", "id": 38050501}, {"name": "Divination", "id": 1096668}], "successors": []}
+{"name": "Major_Arcana", "id": 46338628, "predecessors": [{"name": "Tarot", "id": 1034258}, {"name": "Objects_used_for_divination", "id": 38050501}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Tributaries_of_Georgian_Bay", "id": 59475400, "predecessors": [{"name": "Georgian_Bay", "id": 59470045}, {"name": "Tributaries_of_Lake_Huron", "id": 25696534}, {"name": "Rivers", "id": 695393}], "successors": []}
+{"name": "Tributaries_of_Georgian_Bay", "id": 59475400, "predecessors": [{"name": "Georgian_Bay", "id": 59470045}, {"name": "Rivers_of_Ontario", "id": 3301950}, {"name": "Tributaries_of_Lake_Huron", "id": 25696534}], "successors": [{"name": "Magnetawan_River", "id": 71417193}]}

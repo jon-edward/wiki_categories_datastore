@@ -1,1 +1,1 @@
-{"name": "Roger_Federer", "id": 26203395, "predecessors": [{"name": "Swiss_male_tennis_players", "id": 32190243}], "successors": [{"name": "Roger_Federer_tennis_seasons", "id": 42917984}, {"name": "Roger_Federer_tennis_matches", "id": 72470648}]}
+{"name": "Roger_Federer", "id": 26203395, "predecessors": [{"name": "Swiss_male_tennis_players", "id": 32190243}, {"name": "Swiss_families", "id": 6005572}], "successors": [{"name": "Roger_Federer_tennis_seasons", "id": 42917984}, {"name": "Roger_Federer_tennis_matches", "id": 72470648}]}

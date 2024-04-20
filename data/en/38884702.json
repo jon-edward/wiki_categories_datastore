@@ -1,1 +1,1 @@
-{"name": "Professorships_in_physics", "id": 38884702, "predecessors": [{"name": "Physics_education", "id": 925607}], "successors": [{"name": "Jacksonian_Professors_of_Natural_Philosophy", "id": 70687346}]}
+{"name": "Professorships_in_physics", "id": 38884702, "predecessors": [{"name": "Physics_education", "id": 925607}, {"name": "Professorships", "id": 4865314}], "successors": [{"name": "Jacksonian_Professors_of_Natural_Philosophy", "id": 70687346}]}

@@ -1,1 +1,1 @@
-{"name": "KAI_inscriptions", "id": 62481523, "predecessors": [{"name": "Aramaic_inscriptions", "id": 23739049}, {"name": "Phoenician_inscriptions", "id": 23739731}], "successors": []}
+{"name": "KAI_inscriptions", "id": 62481523, "predecessors": [{"name": "Aramaic_inscriptions", "id": 23739049}, {"name": "Hebrew_inscriptions", "id": 23739587}, {"name": "Phoenician_inscriptions", "id": 23739731}, {"name": "Canaanite_languages", "id": 763366}], "successors": []}

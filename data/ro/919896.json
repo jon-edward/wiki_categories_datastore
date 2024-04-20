@@ -1,1 +1,1 @@
-{"name": "Nave_tehnice", "id": 919896, "predecessors": [{"name": "Obiecte", "id": 555690}], "successors": []}
+{"name": "Nave_tehnice", "id": 919896, "predecessors": [{"name": "Tehnologie", "id": 28690}], "successors": [{"name": "Spărgătoare_de_gheață", "id": 760165}]}

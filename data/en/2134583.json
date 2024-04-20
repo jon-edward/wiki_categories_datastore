@@ -1,1 +1,1 @@
-{"name": "Agrarian_parties", "id": 2134583, "predecessors": [{"name": "Agrarian_politics", "id": 6746129}, {"name": "Political_parties", "id": 694706}], "successors": []}
+{"name": "Agrarian_parties", "id": 2134583, "predecessors": [{"name": "Agrarian_politics", "id": 6746129}, {"name": "Single-issue_political_parties", "id": 43811379}, {"name": "Political_parties", "id": 694706}], "successors": [{"name": "Nordic_agrarian_parties", "id": 724706}, {"name": "Defunct_agrarian_political_parties", "id": 31630774}, {"name": "Ceylon_Workers'_Congress_politicians", "id": 29688504}]}

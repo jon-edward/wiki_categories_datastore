@@ -1,1 +1,1 @@
-{"name": "Teachers_at_Eton_College", "id": 69479130, "predecessors": [{"name": "Childhood", "id": 1517600}], "successors": [{"name": "Head_Masters_of_Eton_College", "id": 33498186}]}
+{"name": "Teachers_at_Eton_College", "id": 69479130, "predecessors": [{"name": "Eton_College", "id": 16344255}, {"name": "Schoolteachers_from_Berkshire", "id": 62931001}], "successors": [{"name": "Head_Masters_of_Eton_College", "id": 33498186}]}

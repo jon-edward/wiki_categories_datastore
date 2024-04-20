@@ -1,1 +1,1 @@
-{"name": "Acte_normative", "id": 22914, "predecessors": [{"name": "Instituții", "id": 752774}, {"name": "Documente_oficiale", "id": 22487}], "successors": [{"name": "Legea_romană", "id": 40145}, {"name": "Constituții", "id": 749747}]}
+{"name": "Acte_normative", "id": 22914, "predecessors": [{"name": "Acte_juridice", "id": 1165349}, {"name": "Puterea_legislativă", "id": 36084}], "successors": [{"name": "Legea_romană", "id": 40145}, {"name": "Constituții", "id": 749747}, {"name": "Legi_ale_Regatului_Unit", "id": 871227}]}

@@ -1,1 +1,1 @@
-{"name": "Triclinic_minerals", "id": 28212281, "predecessors": [{"name": "Crystal_systems", "id": 57932896}, {"name": "Crystals", "id": 3129600}], "successors": [{"name": "Minerals_in_space_group_2", "id": 66205227}, {"name": "Minerals_in_space_group_1", "id": 66205442}]}
+{"name": "Triclinic_minerals", "id": 28212281, "predecessors": [{"name": "Crystal_systems", "id": 57932896}], "successors": [{"name": "Minerals_in_space_group_2", "id": 66205227}, {"name": "Minerals_in_space_group_1", "id": 66205442}]}

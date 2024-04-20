@@ -1,1 +1,1 @@
-{"name": "Scriitori_togolezi", "id": 387225, "predecessors": [{"name": "Oameni", "id": 24641}, {"name": "Autori", "id": 265623}], "successors": [{"name": "Romancieri_togolezi", "id": 387226}]}
+{"name": "Scriitori_togolezi", "id": 387225, "predecessors": [{"name": "Oameni", "id": 24641}, {"name": "Scriitori", "id": 16833}], "successors": [{"name": "Romancieri_togolezi", "id": 387226}]}

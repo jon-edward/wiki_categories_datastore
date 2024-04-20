@@ -1,1 +1,1 @@
-{"name": "Thursday", "id": 31721722, "predecessors": [{"name": "Thor", "id": 29649118}], "successors": [{"name": "Thursday_observances", "id": 51849332}]}
+{"name": "Thursday", "id": 31721722, "predecessors": [{"name": "Days_of_the_week", "id": 3287927}, {"name": "Thor", "id": 29649118}], "successors": []}

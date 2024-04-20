@@ -1,1 +1,1 @@
-{"name": "World_Indoor_Bowls_Championship", "id": 38433942, "predecessors": [{"name": "Competitions", "id": 737119}, {"name": "Bowls_competitions", "id": 54148723}, {"name": "Bowls", "id": 1554399}], "successors": [{"name": "Indoor_Bowls_World_Champions", "id": 56376226}]}
+{"name": "World_Indoor_Bowls_Championship", "id": 38433942, "predecessors": [{"name": "Indoor_sports", "id": 989568}, {"name": "Bowls_competitions", "id": 54148723}, {"name": "Bowls", "id": 1554399}], "successors": [{"name": "Indoor_Bowls_World_Champions", "id": 56376226}]}

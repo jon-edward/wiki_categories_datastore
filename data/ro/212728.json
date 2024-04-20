@@ -1,1 +1,1 @@
-{"name": "Formate_Haiti", "id": 212728, "predecessors": [{"name": "Formate_după_țară", "id": 751269}, {"name": "Haiti", "id": 50032}, {"name": "America_de_Nord", "id": 16006}], "successors": []}
+{"name": "Formate_Haiti", "id": 212728, "predecessors": [{"name": "Formate_America_de_Nord", "id": 143268}, {"name": "Formate_după_țară", "id": 751269}, {"name": "Haiti", "id": 50032}], "successors": [{"name": "Formate_cioturi_Haiti", "id": 468800}]}

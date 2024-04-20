@@ -1,1 +1,1 @@
-{"name": "Production_of_specific_films", "id": 51757339, "predecessors": [{"name": "History_of_film", "id": 2260983}], "successors": []}
+{"name": "Production_of_specific_films", "id": 51757339, "predecessors": [{"name": "Film_production", "id": 1233269}, {"name": "History_of_film", "id": 2260983}, {"name": "Copyright_law", "id": 702268}], "successors": []}

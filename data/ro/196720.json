@@ -1,1 +1,1 @@
-{"name": "Transport_de_marfă", "id": 196720, "predecessors": [{"name": "Transport", "id": 17973}], "successors": [{"name": "Transportul_și_distribuția_articolelor_comerciale", "id": 760381}, {"name": "Export", "id": 3024941}]}
+{"name": "Transport_de_marfă", "id": 196720, "predecessors": [{"name": "Transport", "id": 17973}], "successors": [{"name": "Transportul_și_distribuția_articolelor_comerciale", "id": 760381}, {"name": "Contrabandă", "id": 1956001}, {"name": "Export", "id": 3024941}, {"name": "Import", "id": 3024949}]}

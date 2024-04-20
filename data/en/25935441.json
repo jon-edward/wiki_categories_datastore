@@ -1,1 +1,1 @@
-{"name": "Sun_workstations", "id": 25935441, "predecessors": [{"name": "Computer_workstations", "id": 1150689}, {"name": "Sun_Microsystems_hardware", "id": 8177558}], "successors": []}
+{"name": "Sun_workstations", "id": 25935441, "predecessors": [{"name": "Computer_workstations", "id": 1150689}], "successors": []}

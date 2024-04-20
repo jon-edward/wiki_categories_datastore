@@ -1,1 +1,1 @@
-{"name": "Alberni_Valley", "id": 24341622, "predecessors": [{"name": "Nuu-chah-nulth", "id": 7153035}], "successors": [{"name": "Port_Alberni", "id": 32253705}]}
+{"name": "Alberni_Valley", "id": 24341622, "predecessors": [{"name": "Nuu-chah-nulth", "id": 7153035}, {"name": "Valleys_of_British_Columbia", "id": 11722183}, {"name": "West_Coast_of_Vancouver_Island", "id": 16965182}], "successors": [{"name": "Port_Alberni", "id": 32253705}]}

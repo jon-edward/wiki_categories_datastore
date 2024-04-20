@@ -1,1 +1,1 @@
-{"name": "Charities_based_in_Wales", "id": 5774674, "predecessors": [{"name": "Charitable_trusts", "id": 50600095}], "successors": [{"name": "Exempt_charities", "id": 23166837}]}
+{"name": "Charities_based_in_Wales", "id": 5774674, "predecessors": [{"name": "Charities_based_in_the_United_Kingdom", "id": 5774306}], "successors": [{"name": "Exempt_charities", "id": 23166837}]}

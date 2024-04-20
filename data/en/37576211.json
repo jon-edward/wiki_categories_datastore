@@ -1,1 +1,1 @@
-{"name": "Suffrage_referendums", "id": 37576211, "predecessors": [{"name": "Electoral_reform_referendums", "id": 39265892}, {"name": "Suffrage", "id": 34990629}, {"name": "Direct_democracy", "id": 5692938}], "successors": []}
+{"name": "Suffrage_referendums", "id": 37576211, "predecessors": [{"name": "Electoral_reform_referendums", "id": 39265892}, {"name": "Suffrage", "id": 34990629}, {"name": "Referendums", "id": 9111240}], "successors": []}

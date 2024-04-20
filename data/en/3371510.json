@@ -1,1 +1,1 @@
-{"name": "Oratorians", "id": 3371510, "predecessors": [{"name": "Societies_of_apostolic_life", "id": 38214011}, {"name": "Catholic_orders_and_societies", "id": 25561369}], "successors": [{"name": "Oratorian_bishops", "id": 51285442}]}
+{"name": "Oratorians", "id": 3371510, "predecessors": [{"name": "Societies_of_apostolic_life", "id": 38214011}, {"name": "Catholic_priesthood", "id": 15248662}, {"name": "Catholic_orders_and_societies", "id": 25561369}], "successors": [{"name": "Oratorian_bishops", "id": 51285442}]}

@@ -1,1 +1,1 @@
-{"name": "Incidente_diplomatice", "id": 2000989, "predecessors": [{"name": "Diplomație", "id": 750612}, {"name": "Casus_belli", "id": 954685}], "successors": []}
+{"name": "Incidente_diplomatice", "id": 2000989, "predecessors": [{"name": "Diplomație", "id": 750612}, {"name": "Incidente_internaționale", "id": 1320921}], "successors": []}

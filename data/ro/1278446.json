@@ -1,1 +1,1 @@
-{"name": "Finanțe_publice", "id": 1278446, "predecessors": [{"name": "Economie_publică", "id": 1278450}], "successors": [{"name": "Politică_fiscală", "id": 1278453}, {"name": "Finanțe_guvernamentale", "id": 1798911}, {"name": "Austeritate", "id": 2560590}]}
+{"name": "Finanțe_publice", "id": 1278446, "predecessors": [{"name": "Economie_publică", "id": 1278450}], "successors": [{"name": "Politică_fiscală", "id": 1278453}, {"name": "Finanțe_guvernamentale", "id": 1798911}, {"name": "Demografie_economică", "id": 1798920}, {"name": "Austeritate", "id": 2560590}]}

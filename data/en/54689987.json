@@ -1,1 +1,1 @@
-{"name": "Women_sports_journalists", "id": 54689987, "predecessors": [{"name": "Sports_journalists", "id": 6023369}, {"name": "Women_non-fiction_writers", "id": 53748847}, {"name": "Mass_media", "id": 696790}], "successors": [{"name": "Women_association_football_journalists", "id": 73856706}]}
+{"name": "Women_sports_journalists", "id": 54689987, "predecessors": [{"name": "Sports_journalists", "id": 6023369}, {"name": "Women_in_sports", "id": 54686091}], "successors": [{"name": "Women_association_football_journalists", "id": 73856706}]}

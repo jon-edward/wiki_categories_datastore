@@ -1,1 +1,1 @@
-{"name": "Sídla_na_Donu", "id": 1417415, "predecessors": [{"name": "Sídla", "id": 43322}, {"name": "Povodí_Donu", "id": 194492}], "successors": [{"name": "Rostov_na_Donu", "id": 145799}]}
+{"name": "Sídla_na_Donu", "id": 1417415, "predecessors": [{"name": "Povodí_Donu", "id": 194492}, {"name": "Řeky", "id": 13126}], "successors": [{"name": "Rostov_na_Donu", "id": 145799}]}

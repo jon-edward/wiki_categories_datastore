@@ -1,1 +1,1 @@
-{"name": "Strigiforme", "id": 1041864, "predecessors": [{"name": "Păsări_răpitoare", "id": 37686}, {"name": "Animale", "id": 31429}, {"name": "Păsări", "id": 37695}], "successors": []}
+{"name": "Strigiforme", "id": 1041864, "predecessors": [{"name": "Păsări_răpitoare", "id": 37686}, {"name": "Animale", "id": 31429}, {"name": "Clasificarea_păsărilor", "id": 196629}], "successors": [{"name": "Strigidae", "id": 191261}]}

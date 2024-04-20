@@ -1,1 +1,1 @@
-{"name": "Dezvoltare_economică", "id": 1236170, "predecessors": [{"name": "Dezvoltare", "id": 458494}], "successors": [{"name": "Sărăcie", "id": 183000}, {"name": "Zone_economice_libere", "id": 1287813}, {"name": "Investiții_străine_directe", "id": 1287873}]}
+{"name": "Dezvoltare_economică", "id": 1236170, "predecessors": [{"name": "Dezvoltare", "id": 458494}], "successors": [{"name": "Sărăcie", "id": 183000}, {"name": "Creștere_economică", "id": 1236169}, {"name": "Zone_economice_libere", "id": 1287813}, {"name": "Investiții_străine_directe", "id": 1287873}]}

@@ -1,1 +1,1 @@
-{"name": "Epave", "id": 941435, "predecessors": [{"name": "Accidente", "id": 75387}, {"name": "Geografie", "id": 11350}], "successors": [{"name": "Epave_în_Marea_Neagră", "id": 907197}, {"name": "Epave_în_Oceanul_Atlantic", "id": 941437}]}
+{"name": "Epave", "id": 941435, "predecessors": [{"name": "Incidente_maritime", "id": 944311}, {"name": "Geografie", "id": 11350}], "successors": [{"name": "Epave_în_Marea_Neagră", "id": 907197}, {"name": "Epave_în_Oceanul_Atlantic", "id": 941437}]}

@@ -1,1 +1,1 @@
-{"name": "Mamifere_marine", "id": 323679, "predecessors": [{"name": "Mamifere", "id": 37692}, {"name": "Biologie_marină", "id": 1300907}], "successors": [{"name": "Sirenia", "id": 80388}]}
+{"name": "Mamifere_marine", "id": 323679, "predecessors": [{"name": "Mamifere", "id": 37692}, {"name": "Biologie_marină", "id": 1300907}], "successors": [{"name": "Pinipede", "id": 77866}, {"name": "Sirenia", "id": 80388}, {"name": "Odontoceti", "id": 1337060}, {"name": "Balaenopteridae", "id": 324016}]}

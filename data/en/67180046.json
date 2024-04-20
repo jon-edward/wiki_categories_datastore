@@ -1,1 +1,1 @@
-{"name": "Volkssturm_personnel", "id": 67180046, "predecessors": [{"name": "Civilians_in_war", "id": 5069701}, {"name": "German_military_personnel_of_World_War_II", "id": 12261693}], "successors": []}
+{"name": "Volkssturm_personnel", "id": 67180046, "predecessors": [{"name": "Civilians_in_war", "id": 5069701}, {"name": "German_military_personnel_of_World_War_II", "id": 12261693}], "successors": [{"name": "Volkssturm_personnel_killed_in_action", "id": 74028502}]}

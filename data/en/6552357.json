@@ -1,1 +1,1 @@
-{"name": "Italian_restaurants", "id": 6552357, "predecessors": [{"name": "Italian_cuisine", "id": 742859}, {"name": "Mediterranean_cuisine", "id": 1342134}, {"name": "European_cuisine", "id": 1259768}], "successors": []}
+{"name": "Italian_restaurants", "id": 6552357, "predecessors": [{"name": "Italian_cuisine", "id": 742859}, {"name": "Mediterranean_cuisine", "id": 1342134}, {"name": "European_cuisine", "id": 1259768}], "successors": [{"name": "Italian_restaurants_in_the_United_States", "id": 66664837}, {"name": "Italian_restaurants_in_the_United_Kingdom", "id": 69042292}]}

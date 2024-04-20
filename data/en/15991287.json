@@ -1,1 +1,1 @@
-{"name": "Environmental_impact_of_mining", "id": 15991287, "predecessors": [{"name": "Mining_and_the_environment", "id": 25403978}], "successors": [{"name": "Mountaintop_removal_mining", "id": 19145726}]}
+{"name": "Environmental_impact_of_mining", "id": 15991287, "predecessors": [{"name": "Environmental_impact_by_source", "id": 39352038}, {"name": "Mining_and_the_environment", "id": 25403978}], "successors": []}

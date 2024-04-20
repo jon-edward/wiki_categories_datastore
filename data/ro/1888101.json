@@ -1,1 +1,1 @@
-{"name": "Înot_sincron_la_Jocurile_Olimpice", "id": 1888101, "predecessors": [{"name": "Sporturi_olimpice", "id": 36680}, {"name": "Natație", "id": 754377}], "successors": []}
+{"name": "Înot_sincron_la_Jocurile_Olimpice", "id": 1888101, "predecessors": [{"name": "Înot_sincron", "id": 1888103}, {"name": "Sporturi_olimpice", "id": 36680}], "successors": []}

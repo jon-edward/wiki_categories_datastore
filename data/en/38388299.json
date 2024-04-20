@@ -1,1 +1,1 @@
-{"name": "U_Sports_football_trophies_and_awards", "id": 38388299, "predecessors": [{"name": "Canadian_football", "id": 719768}, {"name": "Canadian_football_leagues", "id": 3051425}], "successors": [{"name": "Vanier_Cup", "id": 28722021}]}
+{"name": "U_Sports_football_trophies_and_awards", "id": 38388299, "predecessors": [{"name": "U_Sports_trophies", "id": 1425900}, {"name": "Canadian_football", "id": 719768}, {"name": "Canadian_football_leagues", "id": 3051425}], "successors": [{"name": "Vanier_Cup", "id": 28722021}]}

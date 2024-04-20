@@ -1,1 +1,1 @@
-{"name": "Formate_cartografiere", "id": 566991, "predecessors": [{"name": "Formate_geografie", "id": 143258}, {"name": "Formate_grafice", "id": 457472}], "successors": [{"name": "Formate_hărți_de_localizare", "id": 751275}]}
+{"name": "Formate_cartografiere", "id": 566991, "predecessors": [{"name": "Formate_geografie", "id": 143258}, {"name": "Formate_grafice", "id": 457472}], "successors": [{"name": "Formate_hărți_de_localizare", "id": 751275}, {"name": "Formate_hărți_țări", "id": 751278}, {"name": "Formate_hărți_etichetate", "id": 848771}]}

@@ -1,1 +1,1 @@
-{"name": "Radiologie-imagistică_medicală", "id": 1241057, "predecessors": [{"name": "Procesarea_imaginilor", "id": 739162}, {"name": "Specialități_medicale", "id": 760126}, {"name": "Documente_de_identificare", "id": 1017002}], "successors": []}
+{"name": "Radiologie-imagistică_medicală", "id": 1241057, "predecessors": [{"name": "Biometrie", "id": 1246090}, {"name": "Procesarea_imaginilor", "id": 739162}, {"name": "Specialități_medicale", "id": 760126}], "successors": [{"name": "Radiologie", "id": 41484}]}

@@ -1,1 +1,1 @@
-{"name": "Dog_actors", "id": 56656356, "predecessors": [{"name": "Animal_actors", "id": 8739804}, {"name": "Dog_training_and_behavior", "id": 970360}, {"name": "Working_dogs", "id": 970319}], "successors": []}
+{"name": "Dog_actors", "id": 56656356, "predecessors": [{"name": "Animal_actors", "id": 8739804}, {"name": "Dog_training_and_behavior", "id": 970360}, {"name": "Working_dogs", "id": 970319}], "successors": [{"name": "Rin_Tin_Tin", "id": 62728067}]}

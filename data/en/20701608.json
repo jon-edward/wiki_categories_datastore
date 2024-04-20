@@ -1,0 +1,1 @@
+{"name": "Guangzhou_Metro", "id": 20701608, "predecessors": [{"name": "Rail_transport_in_Guangdong", "id": 21162853}, {"name": "Transport_in_Guangzhou", "id": 25583922}], "successors": [{"name": "Guangzhou_Metro_stations", "id": 32711989}, {"name": "Guangzhou_Metro_lines", "id": 66730073}]}

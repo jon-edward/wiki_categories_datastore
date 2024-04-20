@@ -1,1 +1,1 @@
-{"name": "NM_i_skyting", "id": 1520062, "predecessors": [{"name": "Norgesmesterskap", "id": 195291}, {"name": "Skytesport_i_Norge", "id": 315386}], "successors": [{"name": "NM_i_rulleskiskyting", "id": 2099301}]}
+{"name": "NM_i_skyting", "id": 1520062, "predecessors": [{"name": "Norgesmesterskap", "id": 195291}, {"name": "Skytesport_i_Norge", "id": 315386}], "successors": [{"name": "Norgesmestere_i_skytesport", "id": 2089019}, {"name": "NM_i_rulleskiskyting", "id": 2099301}]}

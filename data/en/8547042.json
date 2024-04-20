@@ -1,1 +1,1 @@
-{"name": "Model_aircraft", "id": 8547042, "predecessors": [{"name": "Aircraft_by_type", "id": 4749432}, {"name": "Scale_modeling", "id": 778538}], "successors": [{"name": "Radio-controlled_aircraft", "id": 8475152}]}
+{"name": "Model_aircraft", "id": 8547042, "predecessors": [{"name": "Aircraft_by_type", "id": 4749432}, {"name": "Scale_modeling", "id": 778538}], "successors": [{"name": "Radio-controlled_aircraft", "id": 8475152}, {"name": "Model_engines", "id": 16924060}]}

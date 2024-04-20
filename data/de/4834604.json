@@ -1,1 +1,0 @@
-{"name": "Industrieofen", "id": 4834604, "predecessors": [{"name": "Ofen", "id": 4834662}, {"name": "Verfahrenstechnische_Anlage", "id": 9379735}, {"name": "Industrie", "id": 243239}, {"name": "Fertigungstechnik", "id": 239336}], "successors": [{"name": "Metallurgischer_Ofen", "id": 4834571}, {"name": "Brennofentyp", "id": 7475815}]}

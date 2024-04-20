@@ -1,1 +1,1 @@
-{"name": "Jucători_de_tenis_cehi", "id": 245518, "predecessors": [{"name": "Jucători_de_tenis", "id": 19482}, {"name": "Cehi", "id": 33919}, {"name": "Cehia", "id": 156919}], "successors": [{"name": "Jucătoare_de_tenis_cehe", "id": 2208267}]}
+{"name": "Jucători_de_tenis_cehi", "id": 245518, "predecessors": [{"name": "Jucători_de_tenis", "id": 19482}, {"name": "Cehi", "id": 33919}, {"name": "Sport_în_Cehia", "id": 267955}], "successors": [{"name": "Jucătoare_de_tenis_cehe", "id": 2208267}]}

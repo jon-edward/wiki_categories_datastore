@@ -1,1 +1,1 @@
-{"name": "Pubs_in_New_South_Wales", "id": 55989579, "predecessors": [{"name": "Drinking_establishments_in_Australia", "id": 25913295}], "successors": []}
+{"name": "Pubs_in_New_South_Wales", "id": 55989579, "predecessors": [{"name": "Hotels_in_New_South_Wales", "id": 26632327}, {"name": "Tourist_attractions_in_New_South_Wales", "id": 6108747}, {"name": "Drinking_establishments_in_Australia", "id": 25913295}], "successors": [{"name": "Pubs_in_Sydney", "id": 24588365}]}

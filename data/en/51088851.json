@@ -1,1 +1,0 @@
-{"name": "Metaheuristics", "id": 51088851, "predecessors": [{"name": "Heuristic_algorithms", "id": 23173987}, {"name": "Optimization_algorithms_and_methods", "id": 34044100}, {"name": "Search_algorithms", "id": 1406201}], "successors": [{"name": "Evolutionary_algorithms", "id": 754055}, {"name": "Nature-inspired_metaheuristics", "id": 51088850}]}

@@ -1,1 +1,1 @@
-{"name": "Acantopterigieni", "id": 1370598, "predecessors": [{"name": "Pești", "id": 759036}], "successors": [{"name": "Perciformes", "id": 478001}, {"name": "Gobiesocidae", "id": 1805917}, {"name": "Syngnathidae", "id": 562942}, {"name": "Cottidae", "id": 1803353}]}
+{"name": "Acantopterigieni", "id": 1370598, "predecessors": [{"name": "Teleostei", "id": 1214782}], "successors": [{"name": "Perciformes", "id": 478001}, {"name": "Scorpaeniformes", "id": 1803354}, {"name": "Gobiesocidae", "id": 1805917}, {"name": "Syngnathidae", "id": 562942}]}

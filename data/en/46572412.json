@@ -1,1 +1,1 @@
-{"name": "KNVB_Cup_finals", "id": 46572412, "predecessors": [{"name": "Football_codes", "id": 27631491}, {"name": "Competitions", "id": 737119}], "successors": []}
+{"name": "KNVB_Cup_finals", "id": 46572412, "predecessors": [{"name": "KNVB_Cup", "id": 10763100}, {"name": "Culture", "id": 694861}, {"name": "Meetings", "id": 1261738}], "successors": []}

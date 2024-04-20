@@ -1,1 +1,1 @@
-{"name": "Inorganic_polymers", "id": 987555, "predecessors": [{"name": "Polymers", "id": 698100}], "successors": [{"name": "Silicones", "id": 5307563}]}
+{"name": "Inorganic_polymers", "id": 987555, "predecessors": [{"name": "Inorganic_compounds", "id": 695962}, {"name": "Polymers", "id": 698100}], "successors": [{"name": "Silicones", "id": 5307563}]}

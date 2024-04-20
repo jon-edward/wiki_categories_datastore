@@ -1,1 +1,1 @@
-{"name": "Illegal_drug_trade_in_Asia", "id": 71796086, "predecessors": [{"name": "Illegal_drug_trade", "id": 3448065}], "successors": []}
+{"name": "Illegal_drug_trade_in_Asia", "id": 71796086, "predecessors": [{"name": "Asia", "id": 697006}], "successors": [{"name": "Susurluk_scandal", "id": 33870914}, {"name": "Philippine_drug_war", "id": 53850319}]}

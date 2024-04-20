@@ -1,1 +1,1 @@
-{"name": "Evaziune_fiscală", "id": 1956000, "predecessors": [{"name": "Criminalitate_financiară", "id": 1322637}], "successors": []}
+{"name": "Evaziune_fiscală", "id": 1956000, "predecessors": [{"name": "Fraude_financiare", "id": 648051}], "successors": [{"name": "Contrabandă", "id": 1956001}]}

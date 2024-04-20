@@ -1,1 +1,1 @@
-{"name": "Istoria_Sorocii", "id": 940232, "predecessors": [{"name": "Istorie_după_țară", "id": 752994}, {"name": "Municipii_din_Republica_Moldova", "id": 967383}], "successors": [{"name": "Oameni_din_ținutul_Soroca", "id": 2576534}]}
+{"name": "Istoria_Sorocii", "id": 940232, "predecessors": [{"name": "Soroca", "id": 940230}, {"name": "Istorie_după_țară", "id": 752994}], "successors": [{"name": "Oameni_din_ținutul_Soroca", "id": 2576534}]}

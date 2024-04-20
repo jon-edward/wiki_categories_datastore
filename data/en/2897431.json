@@ -1,1 +1,1 @@
-{"name": "Spa_towns", "id": 2897431, "predecessors": [{"name": "Spas", "id": 29517111}, {"name": "Buildings_and_structures_by_type", "id": 6884364}], "successors": [{"name": "Lists_of_spa_towns", "id": 37297329}, {"name": "Spa_towns_in_Russia", "id": 10062166}]}
+{"name": "Spa_towns", "id": 2897431, "predecessors": [{"name": "Bathing", "id": 3431925}, {"name": "Resorts_by_type", "id": 11396802}, {"name": "Spas", "id": 29517111}], "successors": [{"name": "Lists_of_spa_towns", "id": 37297329}]}

@@ -1,1 +1,1 @@
-{"name": "Music_criticism", "id": 7883932, "predecessors": [{"name": "Criticism", "id": 7883896}], "successors": [{"name": "Music_critics", "id": 736693}, {"name": "Books_of_music_criticism", "id": 63010379}]}
+{"name": "Music_criticism", "id": 7883932, "predecessors": [{"name": "Musical_culture", "id": 20122265}, {"name": "Musicology", "id": 722408}, {"name": "The_arts", "id": 4892515}], "successors": [{"name": "Music_critics", "id": 736693}, {"name": "Books_of_music_criticism", "id": 63010379}]}

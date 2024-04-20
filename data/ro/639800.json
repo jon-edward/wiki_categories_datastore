@@ -1,1 +1,1 @@
-{"name": "Securitate_nucleară", "id": 639800, "predecessors": [{"name": "Securitate", "id": 36333}, {"name": "Tehnologie_nucleară", "id": 219000}], "successors": [{"name": "Accidente_nucleare", "id": 201701}, {"name": "Război_nuclear", "id": 790163}]}
+{"name": "Securitate_nucleară", "id": 639800, "predecessors": [{"name": "Tehnologie_nucleară", "id": 219000}], "successors": [{"name": "Accidente_nucleare", "id": 201701}, {"name": "Război_nuclear", "id": 790163}]}

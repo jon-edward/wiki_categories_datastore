@@ -1,1 +1,1 @@
-{"name": "French_Renaissance_humanists", "id": 11712411, "predecessors": [{"name": "French_humanists", "id": 11736812}], "successors": []}
+{"name": "French_Renaissance_humanists", "id": 11712411, "predecessors": [{"name": "French_Renaissance", "id": 14646486}, {"name": "French_humanists", "id": 11736812}, {"name": "French_philosophers", "id": 694450}, {"name": "Renaissance_humanists", "id": 9579466}, {"name": "French_writers", "id": 694317}], "successors": []}

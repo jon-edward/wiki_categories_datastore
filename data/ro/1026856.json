@@ -1,1 +1,1 @@
-{"name": "Componente_de_vehicule", "id": 1026856, "predecessors": [{"name": "Tehnologia_vehiculelor", "id": 910361}, {"name": "Utilitate", "id": 239490}], "successors": [{"name": "Piese_auto", "id": 1026851}]}
+{"name": "Componente_de_vehicule", "id": 1026856, "predecessors": [{"name": "Tehnologia_vehiculelor", "id": 910361}, {"name": "Sisteme", "id": 142776}], "successors": [{"name": "Piese_auto", "id": 1026851}]}

@@ -1,1 +1,1 @@
-{"name": "Fermentation", "id": 10446818, "predecessors": [{"name": "Anaerobic_digestion", "id": 6141390}, {"name": "Biochemistry", "id": 695996}], "successors": [{"name": "Fermentation_in_food_processing", "id": 38804084}]}
+{"name": "Fermentation", "id": 10446818, "predecessors": [{"name": "Anaerobic_digestion", "id": 6141390}, {"name": "Biochemistry", "id": 695996}, {"name": "Cellular_respiration", "id": 706827}], "successors": [{"name": "Fermentation_in_food_processing", "id": 38804084}]}

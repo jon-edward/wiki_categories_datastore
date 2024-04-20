@@ -1,1 +1,1 @@
-{"name": "Multiplayer_vehicle_operation_games", "id": 23086997, "predecessors": [{"name": "Multiplayer_online_games", "id": 696446}, {"name": "Multiplayer_video_games", "id": 13989104}], "successors": [{"name": "Battlefield_(video_game_series)", "id": 22255019}]}
+{"name": "Multiplayer_vehicle_operation_games", "id": 23086997, "predecessors": [{"name": "Multiplayer_online_games", "id": 696446}, {"name": "Vehicle_simulation_games", "id": 16059741}], "successors": [{"name": "Battlefield_(video_game_series)", "id": 22255019}]}

@@ -1,1 +1,1 @@
-{"name": "Movie_camera_manufacturers", "id": 34694214, "predecessors": [{"name": "Movie_cameras", "id": 3440962}, {"name": "Optics_manufacturing_companies", "id": 14439227}, {"name": "Film_industry", "id": 42321809}], "successors": [{"name": "Panavision", "id": 37253692}]}
+{"name": "Movie_camera_manufacturers", "id": 34694214, "predecessors": [{"name": "Movie_cameras", "id": 3440962}, {"name": "Film_industry", "id": 42321809}], "successors": [{"name": "Panavision", "id": 37253692}]}

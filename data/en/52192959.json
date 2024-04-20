@@ -1,1 +1,1 @@
-{"name": "Space_farming", "id": 52192959, "predecessors": [{"name": "Agriculture", "id": 694871}, {"name": "Outer_space", "id": 36093771}, {"name": "Space_industry", "id": 32035460}], "successors": []}
+{"name": "Space_farming", "id": 52192959, "predecessors": [{"name": "Agriculture", "id": 694871}, {"name": "Space_industry", "id": 32035460}, {"name": "Human_behavior", "id": 2524202}], "successors": []}

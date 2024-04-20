@@ -1,1 +1,1 @@
-{"name": "Internment_camps", "id": 2601750, "predecessors": [{"name": "Internments", "id": 2601537}, {"name": "Military_prisons", "id": 36573819}], "successors": []}
+{"name": "Internment_camps", "id": 2601750, "predecessors": [{"name": "Internments", "id": 2601537}], "successors": [{"name": "Films_set_in_concentration_camps", "id": 75638939}, {"name": "Francoist_concentration_camps", "id": 62784109}]}

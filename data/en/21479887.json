@@ -1,1 +1,1 @@
-{"name": "Doping_cases_in_baseball", "id": 21479887, "predecessors": [{"name": "Doping_in_baseball", "id": 49240209}, {"name": "Baseball_people", "id": 24149961}], "successors": [{"name": "Baseball_players_suspended_for_drug_offenses", "id": 2414121}]}
+{"name": "Doping_cases_in_baseball", "id": 21479887, "predecessors": [{"name": "Doping_in_baseball", "id": 49240209}, {"name": "Baseball_people", "id": 24149961}, {"name": "Banned_sportspeople", "id": 31686682}], "successors": [{"name": "Baseball_players_suspended_for_drug_offenses", "id": 2414121}]}

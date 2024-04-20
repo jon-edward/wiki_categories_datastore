@@ -1,1 +1,1 @@
-{"name": "Sieges_involving_France", "id": 8681978, "predecessors": [{"name": "Sieges", "id": 879445}], "successors": [{"name": "Sieges_of_the_Franco-Prussian_War", "id": 72801010}]}
+{"name": "Sieges_involving_France", "id": 8681978, "predecessors": [{"name": "Battles_involving_France", "id": 8685136}, {"name": "Sieges", "id": 879445}], "successors": [{"name": "Sieges_of_the_Franco-Prussian_War", "id": 72801010}]}

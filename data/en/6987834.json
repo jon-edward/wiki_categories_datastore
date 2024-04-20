@@ -1,1 +1,1 @@
-{"name": "English_buskers", "id": 6987834, "predecessors": [{"name": "British_performance_artists", "id": 22670336}], "successors": []}
+{"name": "English_buskers", "id": 6987834, "predecessors": [{"name": "British_buskers", "id": 6725098}, {"name": "English_performance_artists", "id": 37567200}, {"name": "British_musicians", "id": 699440}], "successors": []}

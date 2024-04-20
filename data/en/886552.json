@@ -1,0 +1,1 @@
+{"name": "Ferries", "id": 886552, "predecessors": [{"name": "Public_transport_by_mode", "id": 15720272}], "successors": [{"name": "Cruiseferries", "id": 3822701}, {"name": "Ferry_classes", "id": 5353519}, {"name": "Lists_of_ferries", "id": 14196328}, {"name": "Water_taxis", "id": 52220451}]}

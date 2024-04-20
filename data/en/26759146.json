@@ -1,1 +1,1 @@
-{"name": "Scottish_oceanographers", "id": 26759146, "predecessors": [{"name": "Scottish_geographers", "id": 3898766}, {"name": "Scottish_scientists", "id": 1418104}, {"name": "Environment_of_Scotland", "id": 5393760}], "successors": []}
+{"name": "Scottish_oceanographers", "id": 26759146, "predecessors": [{"name": "British_oceanographers", "id": 22285964}, {"name": "Scottish_geographers", "id": 3898766}, {"name": "Scottish_scientists", "id": 1418104}, {"name": "Environment_of_Scotland", "id": 5393760}], "successors": [{"name": "Scottish_marine_biologists", "id": 34063631}]}

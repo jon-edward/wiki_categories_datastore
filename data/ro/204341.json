@@ -1,1 +1,1 @@
-{"name": "Bovinae", "id": 204341, "predecessors": [{"name": "Bovidae", "id": 204342}, {"name": "Mamifere", "id": 37692}], "successors": [{"name": "Vaci", "id": 407086}, {"name": "Carne_de_vită", "id": 1609932}, {"name": "Rase_de_bovine", "id": 1800060}]}
+{"name": "Bovinae", "id": 204341, "predecessors": [{"name": "Bovidae", "id": 204342}, {"name": "Clasificarea_mamiferelor", "id": 1682915}], "successors": [{"name": "Vaci", "id": 407086}, {"name": "Carne_de_vită", "id": 1609932}, {"name": "Rase_de_bovine", "id": 1800060}]}

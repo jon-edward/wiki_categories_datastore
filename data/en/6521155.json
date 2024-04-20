@@ -1,1 +1,1 @@
-{"name": "Melodifestivalen_contestants", "id": 6521155, "predecessors": [{"name": "Melodifestivalen", "id": 3701010}], "successors": [{"name": "Melodifestivalen_winners", "id": 6521176}]}
+{"name": "Melodifestivalen_contestants", "id": 6521155, "predecessors": [{"name": "Melodifestivalen", "id": 3701010}, {"name": "Eurovision_Song_Contest_selection_events", "id": 4540122}], "successors": [{"name": "Melodifestivalen_winners", "id": 6521176}]}

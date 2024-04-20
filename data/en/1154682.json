@@ -1,1 +1,1 @@
-{"name": "Automotive_suspension_technologies", "id": 1154682, "predecessors": [{"name": "Automotive_technologies", "id": 859604}], "successors": [{"name": "Motorcycle_suspension_technology", "id": 34388183}]}
+{"name": "Automotive_suspension_technologies", "id": 1154682, "predecessors": [{"name": "Automotive_technologies", "id": 859604}], "successors": [{"name": "Shock_absorbers", "id": 33725067}, {"name": "Motorcycle_suspension_technology", "id": 34388183}]}

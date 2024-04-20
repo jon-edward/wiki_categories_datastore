@@ -1,1 +1,1 @@
-{"name": "Specii_de_plante", "id": 1632645, "predecessors": [{"name": "Unități_taxonomice", "id": 760465}], "successors": [{"name": "Specii_de_plante_invazive", "id": 1632653}]}
+{"name": "Specii_de_plante", "id": 1632645, "predecessors": [{"name": "Taxonomie_vegetală", "id": 108228}, {"name": "Unități_taxonomice", "id": 760465}], "successors": [{"name": "Specii_de_plante_invazive", "id": 1632653}]}

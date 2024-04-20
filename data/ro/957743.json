@@ -1,1 +1,1 @@
-{"name": "Tehnici_literare", "id": 957743, "predecessors": [{"name": "Tehnici_artistice", "id": 56250}], "successors": [{"name": "Satiră", "id": 604008}, {"name": "Tehnici_retorice", "id": 1223088}]}
+{"name": "Tehnici_literare", "id": 957743, "predecessors": [{"name": "Tehnici_artistice", "id": 56250}], "successors": [{"name": "Satiră", "id": 604008}, {"name": "Tehnici_narative", "id": 957746}, {"name": "Tehnici_retorice", "id": 1223088}]}

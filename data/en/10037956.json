@@ -1,1 +1,1 @@
-{"name": "Buddhist_holidays", "id": 10037956, "predecessors": [{"name": "Buddhist_practices", "id": 7425316}], "successors": [{"name": "Buddhist_festivals", "id": 2919080}, {"name": "Japanese_Imperial_Rituals", "id": 69564817}]}
+{"name": "Buddhist_holidays", "id": 10037956, "predecessors": [{"name": "Buddhist_practices", "id": 7425316}, {"name": "Religious_holidays", "id": 10854847}], "successors": [{"name": "Buddhist_festivals", "id": 2919080}, {"name": "Japanese_Imperial_Rituals", "id": 69564817}, {"name": "Mid-Autumn_Festival", "id": 75044182}]}

@@ -1,1 +1,1 @@
-{"name": "Environmental_television", "id": 8389037, "predecessors": [{"name": "Environmental_mass_media", "id": 22870229}], "successors": [{"name": "Gardening_television", "id": 23829216}, {"name": "Nature_educational_television_series", "id": 28793205}]}
+{"name": "Environmental_television", "id": 8389037, "predecessors": [{"name": "Environmental_mass_media", "id": 22870229}, {"name": "Television_genres", "id": 1259802}], "successors": [{"name": "Nature_educational_television_series", "id": 28793205}]}

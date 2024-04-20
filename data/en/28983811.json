@@ -1,1 +1,1 @@
-{"name": "Charities_based_in_Greater_Manchester", "id": 28983811, "predecessors": [{"name": "Charities_based_in_England", "id": 6127181}], "successors": []}
+{"name": "Charities_based_in_Greater_Manchester", "id": 28983811, "predecessors": [{"name": "Charities_based_in_England", "id": 6127181}, {"name": "Greater_Manchester", "id": 843605}], "successors": [{"name": "Charities_based_in_Manchester", "id": 28956382}]}

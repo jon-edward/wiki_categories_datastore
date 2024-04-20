@@ -1,1 +1,1 @@
-{"name": "Luettelot_lento-onnettomuuksista", "id": 1418346, "predecessors": [{"name": "Luettelot_liikenteestä", "id": 671184}, {"name": "Ilmailun_historia", "id": 215972}], "successors": [{"name": "Luettelot_lento-onnettomuuksista_konetyypeittäin", "id": 1418350}]}
+{"name": "Luettelot_lento-onnettomuuksista", "id": 1418346, "predecessors": [{"name": "Ilmailun_historia", "id": 215972}, {"name": "Ilmailu", "id": 17932}], "successors": [{"name": "Luettelot_lento-onnettomuuksista_konetyypeittäin", "id": 1418350}]}

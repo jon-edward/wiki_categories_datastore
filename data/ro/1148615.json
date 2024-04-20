@@ -1,1 +1,1 @@
-{"name": "Plante_fixatoare_de_azot", "id": 1148615, "predecessors": [{"name": "Metabolism_bazat_pe_azot", "id": 1148618}], "successors": []}
+{"name": "Plante_fixatoare_de_azot", "id": 1148615, "predecessors": [{"name": "Horticultură", "id": 69240}, {"name": "Metabolism_bazat_pe_azot", "id": 1148618}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Ingrediente_alimentare", "id": 369690, "predecessors": [{"name": "Mâncare", "id": 29290}, {"name": "Utilitate", "id": 239490}], "successors": [{"name": "Îndulcitori", "id": 791531}, {"name": "Sosuri", "id": 930018}, {"name": "Mirodenii", "id": 2528606}]}
+{"name": "Ingrediente_alimentare", "id": 369690, "predecessors": [{"name": "Mâncare", "id": 29290}, {"name": "Sisteme", "id": 142776}], "successors": [{"name": "Îndulcitori", "id": 791531}, {"name": "Sosuri", "id": 930018}, {"name": "Mirodenii", "id": 2528606}]}

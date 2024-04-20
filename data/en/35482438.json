@@ -1,1 +1,0 @@
-{"name": "Asymmetric-key_algorithms", "id": 35482438, "predecessors": [{"name": "Cryptographic_algorithms", "id": 704483}, {"name": "Public-key_cryptography", "id": 21275418}], "successors": [{"name": "Public-key_encryption_schemes", "id": 35482449}, {"name": "Digital_signature_schemes", "id": 35482453}]}

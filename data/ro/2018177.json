@@ -1,1 +1,1 @@
-{"name": "Forme_farmaceutice", "id": 2018177, "predecessors": [{"name": "Tehnologie_farmaceutică", "id": 856719}], "successors": [{"name": "Excipienți", "id": 2351672}, {"name": "Fluide_intravenoase", "id": 3021570}]}
+{"name": "Forme_farmaceutice", "id": 2018177, "predecessors": [{"name": "Tehnologie_farmaceutică", "id": 856719}], "successors": [{"name": "Excipienți", "id": 2351672}, {"name": "Injecție_(medicină)", "id": 2576665}, {"name": "Fluide_intravenoase", "id": 3021570}]}

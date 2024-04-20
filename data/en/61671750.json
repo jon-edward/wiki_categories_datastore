@@ -1,1 +1,1 @@
-{"name": "Gaelic_games_journalists", "id": 61671750, "predecessors": [{"name": "Gaelic_games_writers_and_broadcasters", "id": 61703745}, {"name": "Sports_journalists", "id": 6023369}], "successors": [{"name": "Gaelic_games_commentators", "id": 33828284}]}
+{"name": "Gaelic_games_journalists", "id": 61671750, "predecessors": [{"name": "Sports_journalists", "id": 6023369}, {"name": "Ancient_sports", "id": 5022812}], "successors": [{"name": "Gaelic_games_commentators", "id": 33828284}]}

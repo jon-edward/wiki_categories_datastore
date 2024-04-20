@@ -1,1 +1,1 @@
-{"name": "Oglinzi", "id": 235640, "predecessors": [{"name": "Instrumente_optice", "id": 155881}], "successors": []}
+{"name": "Oglinzi", "id": 235640, "predecessors": [{"name": "Componente_optice", "id": 2508563}, {"name": "Instrumente_optice", "id": 155881}], "successors": []}

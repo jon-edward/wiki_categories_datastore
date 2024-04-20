@@ -1,1 +1,1 @@
-{"name": "Wildfires_caused_by_arson", "id": 38541540, "predecessors": [{"name": "Wildfires", "id": 2637261}, {"name": "Disasters", "id": 745842}, {"name": "Crime_by_type", "id": 15090762}], "successors": [{"name": "California_wildfires_caused_by_arson", "id": 66120141}]}
+{"name": "Wildfires_caused_by_arson", "id": 38541540, "predecessors": [{"name": "Human_behavior", "id": 2524202}, {"name": "Crime_by_type", "id": 15090762}], "successors": [{"name": "California_wildfires_caused_by_arson", "id": 66120141}]}

@@ -1,1 +1,1 @@
-{"name": "Nature_conservation_organizations_based_in_Canada", "id": 11704236, "predecessors": [{"name": "Nature_conservation_in_Canada", "id": 2572842}], "successors": []}
+{"name": "Nature_conservation_organizations_based_in_Canada", "id": 11704236, "predecessors": [{"name": "Environmental_organizations_based_in_Canada", "id": 5759830}, {"name": "Nature_conservation_in_Canada", "id": 2572842}, {"name": "North_America", "id": 878995}], "successors": [{"name": "Conservation_authorities_in_Ontario", "id": 11704239}]}

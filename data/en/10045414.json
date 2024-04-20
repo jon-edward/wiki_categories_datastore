@@ -1,1 +1,1 @@
-{"name": "Legal_profession_exams", "id": 10045414, "predecessors": [{"name": "Examinations", "id": 7584012}, {"name": "Legal_professions", "id": 23242540}], "successors": []}
+{"name": "Legal_profession_exams", "id": 10045414, "predecessors": [{"name": "Examinations", "id": 7584012}, {"name": "Legal_education", "id": 1240968}, {"name": "Legal_professions", "id": 23242540}, {"name": "Professional_certification_in_law", "id": 17982529}], "successors": []}

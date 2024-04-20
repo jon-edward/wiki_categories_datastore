@@ -1,1 +1,1 @@
-{"name": "Economie_politică", "id": 234475, "predecessors": [{"name": "Științe_politice", "id": 761037}], "successors": [{"name": "Finanțe_guvernamentale", "id": 1798911}]}
+{"name": "Economie_politică", "id": 234475, "predecessors": [{"name": "Științe_politice", "id": 761037}], "successors": [{"name": "Finanțe_guvernamentale", "id": 1798911}, {"name": "Bugete_guvernamentale", "id": 1798915}, {"name": "Demografie_economică", "id": 1798920}]}

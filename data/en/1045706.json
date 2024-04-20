@@ -1,1 +1,1 @@
-{"name": "Fictional_trains", "id": 1045706, "predecessors": [{"name": "Fictional_vehicles", "id": 2011749}, {"name": "Trains", "id": 1784707}, {"name": "Trains_in_fiction", "id": 38319467}], "successors": []}
+{"name": "Fictional_trains", "id": 1045706, "predecessors": [{"name": "Fictional_vehicles", "id": 2011749}, {"name": "Trains", "id": 1784707}, {"name": "Trains_in_fiction", "id": 38319467}], "successors": [{"name": "Fictional_locomotives", "id": 1047509}]}

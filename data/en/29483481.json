@@ -1,1 +1,1 @@
-{"name": "Iron_ore_railways", "id": 29483481, "predecessors": [{"name": "Mining_railways", "id": 51763412}], "successors": []}
+{"name": "Iron_ore_railways", "id": 29483481, "predecessors": [{"name": "Iron_mining", "id": 20330479}, {"name": "Mining_railways", "id": 51763412}], "successors": []}

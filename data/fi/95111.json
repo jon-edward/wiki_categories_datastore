@@ -1,1 +1,1 @@
-{"name": "Suomen_presidentinvaalit", "id": 95111, "predecessors": [{"name": "Presidentinvaalit_maittain", "id": 1394930}, {"name": "Presidentit", "id": 69230}, {"name": "Kansanäänestykset", "id": 833802}], "successors": []}
+{"name": "Suomen_presidentinvaalit", "id": 95111, "predecessors": [{"name": "Presidentinvaalit_maittain", "id": 1394930}, {"name": "Presidentit", "id": 69230}, {"name": "Kansanäänestykset", "id": 833802}], "successors": [{"name": "Luettelot_Suomen_presidentinvaalien_valitsijamiehistä", "id": 1789414}]}

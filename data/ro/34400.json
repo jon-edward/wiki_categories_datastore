@@ -1,1 +1,1 @@
-{"name": "Oftalmologie", "id": 34400, "predecessors": [{"name": "Specialități_medicale", "id": 760126}], "successors": [{"name": "Oftalmologi", "id": 378639}, {"name": "Medicamente_oftalmologice", "id": 2972448}]}
+{"name": "Oftalmologie", "id": 34400, "predecessors": [{"name": "Specialități_medicale", "id": 760126}], "successors": [{"name": "Oftalmologi", "id": 378639}, {"name": "Ochi", "id": 952073}, {"name": "Medicamente_oftalmologice", "id": 2972448}]}

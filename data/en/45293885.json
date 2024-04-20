@@ -1,1 +1,1 @@
-{"name": "Attacks_on_supermarkets", "id": 45293885, "predecessors": [{"name": "Occupational_hazards", "id": 53924025}], "successors": []}
+{"name": "Attacks_on_supermarkets", "id": 45293885, "predecessors": [{"name": "Supermarkets", "id": 702093}, {"name": "Attacks_on_shops", "id": 61314063}], "successors": []}

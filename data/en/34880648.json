@@ -1,1 +1,1 @@
-{"name": "Hub_gears", "id": 34880648, "predecessors": [{"name": "Wheels", "id": 8982003}], "successors": []}
+{"name": "Hub_gears", "id": 34880648, "predecessors": [{"name": "Wheels", "id": 8982003}, {"name": "Bicycle_parts", "id": 1189830}], "successors": []}

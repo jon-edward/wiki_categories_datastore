@@ -1,1 +1,1 @@
-{"name": "Fenomene_optice_atmosferice", "id": 1780547, "predecessors": [{"name": "Fenomene_terestre", "id": 29189}, {"name": "Meteorologie", "id": 29191}, {"name": "Atmosfera_Pământului", "id": 299183}], "successors": []}
+{"name": "Fenomene_optice_atmosferice", "id": 1780547, "predecessors": [{"name": "Fenomene_optice", "id": 212735}, {"name": "Fenomene_terestre", "id": 29189}, {"name": "Meteorologie", "id": 29191}, {"name": "Atmosfera_Pământului", "id": 299183}], "successors": []}

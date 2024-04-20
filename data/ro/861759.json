@@ -1,1 +1,1 @@
-{"name": "Pariuri_sportive", "id": 861759, "predecessors": [{"name": "Evenimente_sportive", "id": 253024}, {"name": "Jocuri_de_noroc", "id": 456585}], "successors": [{"name": "Case_de_pariuri", "id": 1343507}]}
+{"name": "Pariuri_sportive", "id": 861759, "predecessors": [{"name": "Evenimente_sportive", "id": 253024}, {"name": "Pariuri", "id": 153628}], "successors": [{"name": "Case_de_pariuri", "id": 1343507}]}

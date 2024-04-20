@@ -1,1 +1,1 @@
-{"name": "Paladiu", "id": 2940197, "predecessors": [{"name": "Metale_de_tranziție", "id": 754078}, {"name": "Metale_prețioase", "id": 754079}], "successors": []}
+{"name": "Paladiu", "id": 2940197, "predecessors": [{"name": "Metale_de_tranziție", "id": 754078}, {"name": "Metale_prețioase", "id": 754079}], "successors": [{"name": "Compuși_ai_paladiului", "id": 861275}]}

@@ -1,1 +1,1 @@
-{"name": "Bangladeshi_film_actors", "id": 33591429, "predecessors": [{"name": "Mass_media", "id": 696790}], "successors": [{"name": "Bangladeshi_film_actresses", "id": 38456289}, {"name": "Bangladeshi_male_film_actors", "id": 40475002}]}
+{"name": "Bangladeshi_film_actors", "id": 33591429, "predecessors": [{"name": "Bangladeshi_actors", "id": 3605102}], "successors": [{"name": "Bangladeshi_film_actresses", "id": 38456289}, {"name": "Bangladeshi_male_film_actors", "id": 40475002}]}

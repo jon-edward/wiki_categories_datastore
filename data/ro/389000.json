@@ -1,1 +1,1 @@
-{"name": "Scriitori_venezueleni", "id": 389000, "predecessors": [{"name": "Oameni", "id": 24641}, {"name": "Autori", "id": 265623}], "successors": [{"name": "Romancieri_venezueleni", "id": 389001}]}
+{"name": "Scriitori_venezueleni", "id": 389000, "predecessors": [{"name": "Oameni", "id": 24641}, {"name": "Scriitori", "id": 16833}], "successors": [{"name": "Romancieri_venezueleni", "id": 389001}, {"name": "Poeți_venezueleni", "id": 759278}]}

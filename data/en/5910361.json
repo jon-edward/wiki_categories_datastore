@@ -1,1 +1,1 @@
-{"name": "Digital_geometry", "id": 5910361, "predecessors": [{"name": "Computer_graphics", "id": 735771}, {"name": "Computer_vision", "id": 797088}, {"name": "Discrete_geometry", "id": 694609}, {"name": "Geometric_algorithms", "id": 702582}], "successors": []}
+{"name": "Digital_geometry", "id": 5910361, "predecessors": [{"name": "Computer_graphics", "id": 735771}, {"name": "Computer_vision", "id": 797088}, {"name": "Discrete_geometry", "id": 694609}], "successors": []}

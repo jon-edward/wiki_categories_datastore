@@ -1,1 +1,1 @@
-{"name": "Monaco", "id": 16128, "predecessors": [{"name": "Capitale_din_Europa", "id": 29715}, {"name": "Principate", "id": 604302}], "successors": [{"name": "Oameni_din_Monte_Carlo", "id": 2421396}, {"name": "Piloți_monegasci", "id": 2421532}, {"name": "Monte-Carlo_Masters", "id": 2902387}]}
+{"name": "Monaco", "id": 16128, "predecessors": [{"name": "Capitale_din_Europa", "id": 29715}, {"name": "Principate", "id": 604302}, {"name": "Tipuri_de_state", "id": 39993}], "successors": [{"name": "Monegasci", "id": 754153}, {"name": "Monte-Carlo_Masters", "id": 2902387}]}

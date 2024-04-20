@@ -1,1 +1,1 @@
-{"name": "Manufacturing_trade_associations", "id": 50955425, "predecessors": [{"name": "Manufacturing", "id": 867519}, {"name": "Business_economics", "id": 6551784}], "successors": [{"name": "Motor_trade_associations", "id": 50970975}]}
+{"name": "Manufacturing_trade_associations", "id": 50955425, "predecessors": [{"name": "Industrial_organization", "id": 4820928}, {"name": "Manufacturing", "id": 867519}, {"name": "Lobbying", "id": 3230990}], "successors": [{"name": "Motor_trade_associations", "id": 50970975}]}

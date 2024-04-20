@@ -1,1 +1,1 @@
-{"name": "Prelucrarea_datelor", "id": 405522, "predecessors": [{"name": "Administrarea_datelor", "id": 822634}, {"name": "Date_de_calculatoare", "id": 86160}], "successors": [{"name": "Clasificări", "id": 128979}, {"name": "Compresie_de_date", "id": 1573437}]}
+{"name": "Prelucrarea_datelor", "id": 405522, "predecessors": [{"name": "Administrarea_datelor", "id": 822634}, {"name": "Date_de_calculatoare", "id": 86160}], "successors": [{"name": "Clasificări", "id": 128979}, {"name": "Algoritmi_de_sortare", "id": 377243}, {"name": "Compresie_de_date", "id": 1573437}]}

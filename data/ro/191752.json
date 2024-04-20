@@ -1,1 +1,1 @@
-{"name": "Radar", "id": 191752, "predecessors": [{"name": "Discipline_ale_ingineriei", "id": 199445}, {"name": "Frecvențe_radio", "id": 2358891}], "successors": []}
+{"name": "Radar", "id": 191752, "predecessors": [{"name": "Telecomunicații_mobile", "id": 1248535}, {"name": "Microunde", "id": 1921307}], "successors": [{"name": "Radare_de_avion", "id": 398483}]}

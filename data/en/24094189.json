@@ -1,1 +1,1 @@
-{"name": "Cretan_city-states", "id": 24094189, "predecessors": [{"name": "Dorian_Crete", "id": 23639204}], "successors": [{"name": "Knossos", "id": 69006780}]}
+{"name": "Cretan_city-states", "id": 24094189, "predecessors": [{"name": "City-states", "id": 18066512}, {"name": "Dorian_Crete", "id": 23639204}, {"name": "Greek_city-states", "id": 24094011}, {"name": "Populated_places_in_ancient_Crete", "id": 58325587}, {"name": "Cities_in_ancient_Greece", "id": 45699898}], "successors": [{"name": "Knossos", "id": 69006780}]}

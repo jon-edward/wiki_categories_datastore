@@ -1,1 +1,1 @@
-{"name": "ADD_research_and_development_projects", "id": 76319574, "predecessors": [{"name": "Military_organization", "id": 1054894}], "successors": []}
+{"name": "ADD_research_and_development_projects", "id": 76319574, "predecessors": [{"name": "Research_projects", "id": 6925360}, {"name": "Government_agencies_of_South_Korea", "id": 27610500}], "successors": []}

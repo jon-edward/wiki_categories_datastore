@@ -1,1 +1,1 @@
-{"name": "Slavic_demons", "id": 11890326, "predecessors": [{"name": "European_demons", "id": 11890613}], "successors": [{"name": "Vampires", "id": 874429}]}
+{"name": "Slavic_demons", "id": 11890326, "predecessors": [{"name": "European_demons", "id": 11890613}, {"name": "Slavic_legendary_creatures", "id": 10506262}], "successors": [{"name": "Vampires", "id": 874429}, {"name": "Baba_Yaga", "id": 56795460}]}

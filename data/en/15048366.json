@@ -1,0 +1,1 @@
+{"name": "Surgical_instruments", "id": 15048366, "predecessors": [{"name": "Medical_equipment", "id": 799934}, {"name": "Surgery", "id": 804789}, {"name": "Tools", "id": 846098}], "successors": [{"name": "Medical_clamps", "id": 12386261}, {"name": "Surgical_robots", "id": 17613025}]}

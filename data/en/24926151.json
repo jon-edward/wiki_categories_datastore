@@ -1,1 +1,1 @@
-{"name": "Arabic_clothing", "id": 24926151, "predecessors": [{"name": "Arab_culture", "id": 36513227}, {"name": "Clothing", "id": 737090}], "successors": [{"name": "Algerian_clothing", "id": 32483439}, {"name": "Hijab", "id": 51838629}, {"name": "Yemeni_clothing", "id": 55296062}]}
+{"name": "Arabic_clothing", "id": 24926151, "predecessors": [{"name": "Arab_culture", "id": 36513227}, {"name": "Clothing_by_ethnicity", "id": 62664620}], "successors": [{"name": "Algerian_clothing", "id": 32483439}, {"name": "Hijab", "id": 51838629}, {"name": "Yemeni_clothing", "id": 55296062}]}

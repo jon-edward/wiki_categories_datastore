@@ -1,1 +1,1 @@
-{"name": "World_Health_Organization_essential_medicines", "id": 17811746, "predecessors": [{"name": "World_Health_Organization", "id": 3314158}], "successors": [{"name": "World_Health_Organization_essential_medicines_(vaccines)", "id": 48825294}]}
+{"name": "World_Health_Organization_essential_medicines", "id": 17811746, "predecessors": [{"name": "Drugs", "id": 1325883}, {"name": "World_Health_Organization", "id": 3314158}], "successors": [{"name": "World_Health_Organization_essential_medicines_(vaccines)", "id": 48825294}]}

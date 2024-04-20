@@ -1,1 +1,1 @@
-{"name": "Voiceless_oral_consonants", "id": 36584506, "predecessors": [{"name": "Oral_consonants", "id": 58315625}], "successors": []}
+{"name": "Voiceless_oral_consonants", "id": 36584506, "predecessors": [{"name": "Oral_consonants", "id": 58315625}, {"name": "Manner_of_articulation", "id": 47324047}], "successors": [{"name": "Voiceless_stops", "id": 43450036}]}

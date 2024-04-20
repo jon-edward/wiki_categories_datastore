@@ -1,1 +1,1 @@
-{"name": "Noise_reduction", "id": 5401831, "predecessors": [{"name": "Noise_pollution", "id": 4281061}], "successors": [{"name": "Image_noise_reduction_techniques", "id": 39560024}]}
+{"name": "Noise_reduction", "id": 5401831, "predecessors": [{"name": "Noise_pollution", "id": 4281061}, {"name": "Sound_recording", "id": 2497458}], "successors": [{"name": "Active_noise_control_mobile_phones", "id": 39315928}, {"name": "Image_noise_reduction_techniques", "id": 39560024}, {"name": "Magnetic_tape_noise_reduction_systems", "id": 55724664}]}

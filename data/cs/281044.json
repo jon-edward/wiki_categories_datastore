@@ -1,1 +1,1 @@
-{"name": "Simulační_software", "id": 281044, "predecessors": [{"name": "Aplikační_software", "id": 5539}, {"name": "Numerická_matematika", "id": 12480}, {"name": "Teorie_systémů", "id": 6380}], "successors": []}
+{"name": "Simulační_software", "id": 281044, "predecessors": [{"name": "Aplikační_software", "id": 5539}, {"name": "Numerická_matematika", "id": 12480}, {"name": "Teorie_systémů", "id": 6380}], "successors": [{"name": "Videoherní_simulátory", "id": 48600}]}

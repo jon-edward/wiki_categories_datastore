@@ -1,1 +1,1 @@
-{"name": "Carnival_foods", "id": 9864919, "predecessors": [{"name": "Christian_cuisine", "id": 62580907}, {"name": "Lent", "id": 42984949}], "successors": []}
+{"name": "Carnival_foods", "id": 9864919, "predecessors": [{"name": "Carnival", "id": 38875460}, {"name": "Christian_cuisine", "id": 62580907}, {"name": "Holiday_foods", "id": 20477446}], "successors": []}

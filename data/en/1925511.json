@@ -1,1 +1,1 @@
-{"name": "Scottish_archaeologists", "id": 1925511, "predecessors": [{"name": "Scottish_scientists", "id": 1418104}], "successors": []}
+{"name": "Scottish_archaeologists", "id": 1925511, "predecessors": [{"name": "British_archaeologists", "id": 1095853}, {"name": "Scottish_historians", "id": 1080233}, {"name": "Scottish_scientists", "id": 1418104}], "successors": [{"name": "Scottish_antiquarians", "id": 1498925}, {"name": "Scottish_Egyptologists", "id": 3771633}]}

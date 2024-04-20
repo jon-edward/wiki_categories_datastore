@@ -1,1 +1,1 @@
-{"name": "Hemorrhagic_fevers", "id": 7295649, "predecessors": [{"name": "Arthropod-borne_viral_fevers_and_viral_haemorrhagic_fevers", "id": 27264294}, {"name": "Fever", "id": 32567243}], "successors": [{"name": "Ebola", "id": 8265047}, {"name": "Dengue_fever", "id": 39990326}]}
+{"name": "Hemorrhagic_fevers", "id": 7295649, "predecessors": [{"name": "Fever", "id": 32567243}], "successors": []}

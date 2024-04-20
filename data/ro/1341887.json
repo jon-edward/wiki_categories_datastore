@@ -1,1 +1,1 @@
-{"name": "Formate_zone_metropolitane", "id": 1341887, "predecessors": [{"name": "Demografie", "id": 96121}, {"name": "Geografie_urbană", "id": 202782}, {"name": "America_de_Nord", "id": 16006}], "successors": [{"name": "Formate_zone_metropolitane_SUA", "id": 951197}]}
+{"name": "Formate_zone_metropolitane", "id": 1341887, "predecessors": [{"name": "Metropole", "id": 184210}, {"name": "Zone_metropolitane_din_America_de_Nord", "id": 966844}, {"name": "Geografie_urbană", "id": 202782}], "successors": [{"name": "Formate_zone_metropolitane_SUA", "id": 951197}]}

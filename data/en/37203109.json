@@ -1,1 +1,1 @@
-{"name": "Bach_musicians", "id": 37203109, "predecessors": [{"name": "Baroque_music", "id": 1466222}], "successors": [{"name": "Bach_conductors", "id": 37203163}]}
+{"name": "Bach_musicians", "id": 37203109, "predecessors": [{"name": "Johann_Sebastian_Bach", "id": 30529496}, {"name": "Performers_of_early_music", "id": 14684193}], "successors": [{"name": "Bach_conductors", "id": 37203163}, {"name": "Bach_singers", "id": 37229936}, {"name": "Bach_choirs", "id": 37202725}]}

@@ -1,1 +1,1 @@
-{"name": "Fraude", "id": 648048, "predecessors": [{"name": "Infracțiuni", "id": 752756}], "successors": [{"name": "Dosare_de_corupție_din_România", "id": 804394}, {"name": "Falsificare", "id": 906165}]}
+{"name": "Fraude", "id": 648048, "predecessors": [{"name": "Infracțiuni", "id": 752756}], "successors": [{"name": "Fraude_financiare", "id": 648051}, {"name": "Dosare_de_corupție_din_România", "id": 804394}, {"name": "Falsificare", "id": 906165}]}

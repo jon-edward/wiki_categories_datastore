@@ -1,1 +1,1 @@
-{"name": "Mineral_exploration", "id": 20327831, "predecessors": [{"name": "Geological_techniques", "id": 42908641}, {"name": "Mining", "id": 843521}], "successors": []}
+{"name": "Mineral_exploration", "id": 20327831, "predecessors": [{"name": "Mining", "id": 843521}], "successors": []}

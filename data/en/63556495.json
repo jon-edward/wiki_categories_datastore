@@ -1,1 +1,1 @@
-{"name": "Child_characters_in_fairy_tales", "id": 63556495, "predecessors": [{"name": "Child_characters_in_literature", "id": 32860206}, {"name": "Characters_in_children's_literature", "id": 32865987}], "successors": []}
+{"name": "Child_characters_in_fairy_tales", "id": 63556495, "predecessors": [{"name": "Child_characters_in_literature", "id": 32860206}, {"name": "Fairy_tales", "id": 735431}], "successors": [{"name": "Works_based_on_Hansel_and_Gretel", "id": 37251645}]}

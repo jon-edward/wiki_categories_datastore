@@ -1,1 +1,1 @@
-{"name": "Universități_catolice", "id": 2594418, "predecessors": [{"name": "Biserica_Catolică", "id": 145566}], "successors": [{"name": "Universități_pontificale", "id": 1135297}]}
+{"name": "Universități_catolice", "id": 2594418, "predecessors": [{"name": "Organizații_catolice", "id": 752776}, {"name": "Universități", "id": 760473}], "successors": [{"name": "Universități_pontificale", "id": 1135297}]}

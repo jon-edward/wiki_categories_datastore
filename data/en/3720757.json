@@ -1,1 +1,1 @@
-{"name": "Inorganic_pigments", "id": 3720757, "predecessors": [{"name": "Pigments", "id": 862553}], "successors": [{"name": "Iron_oxide_pigments", "id": 3721598}]}
+{"name": "Inorganic_pigments", "id": 3720757, "predecessors": [{"name": "Inorganic_compounds", "id": 695962}, {"name": "Pigments", "id": 862553}], "successors": [{"name": "Iron_oxide_pigments", "id": 3721598}]}

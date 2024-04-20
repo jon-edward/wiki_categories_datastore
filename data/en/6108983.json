@@ -1,1 +1,1 @@
-{"name": "Nature_conservation_in_Belize", "id": 6108983, "predecessors": [{"name": "Nature_conservation", "id": 737124}], "successors": [{"name": "Protected_areas_of_Belize", "id": 11424233}]}
+{"name": "Nature_conservation_in_Belize", "id": 6108983, "predecessors": [{"name": "Nature_conservation", "id": 737124}, {"name": "Central_America", "id": 883121}], "successors": [{"name": "Protected_areas_of_Belize", "id": 11424233}]}

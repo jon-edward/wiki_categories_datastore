@@ -1,1 +1,1 @@
-{"name": "Attacks_on_bank_buildings", "id": 53515578, "predecessors": [{"name": "Buildings_and_structures_by_type", "id": 6884364}, {"name": "Occupational_hazards", "id": 53924025}, {"name": "Crimes", "id": 694944}], "successors": [{"name": "1993_Bombay_bombings", "id": 10610564}]}
+{"name": "Attacks_on_bank_buildings", "id": 53515578, "predecessors": [{"name": "Bank_buildings", "id": 18892243}, {"name": "Crimes", "id": 694944}], "successors": [{"name": "1993_Bombay_bombings", "id": 10610564}]}

@@ -1,1 +1,1 @@
-{"name": "Laboratoris", "id": 1086928, "predecessors": [{"name": "Organitzacions_científiques", "id": 1077796}, {"name": "Ciència", "id": 591034}], "successors": []}
+{"name": "Laboratoris", "id": 1086928, "predecessors": [{"name": "Organitzacions_científiques", "id": 1077796}, {"name": "Ciència", "id": 591034}], "successors": [{"name": "Laboratoris_de_física", "id": 281221}]}

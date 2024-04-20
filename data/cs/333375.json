@@ -1,1 +1,1 @@
-{"name": "Choroby_a_škůdci_hrušní", "id": 333375, "predecessors": [{"name": "Choroby_a_škůdci_rostlin", "id": 350855}, {"name": "Ovocné_stromy", "id": 362629}], "successors": []}
+{"name": "Choroby_a_škůdci_hrušní", "id": 333375, "predecessors": [{"name": "Hrušeň", "id": 1589203}, {"name": "Choroby_a_škůdci_rostlin", "id": 350855}], "successors": []}

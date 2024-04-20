@@ -1,1 +1,1 @@
-{"name": "Rules_of_inference", "id": 3326986, "predecessors": [{"name": "Logical_expressions", "id": 34489612}, {"name": "Proof_theory", "id": 693693}, {"name": "Mathematical_logic", "id": 693685}], "successors": []}
+{"name": "Rules_of_inference", "id": 3326986, "predecessors": [{"name": "Formal_systems", "id": 24403323}, {"name": "Inference", "id": 29418345}, {"name": "Logical_expressions", "id": 34489612}, {"name": "Proof_theory", "id": 693693}, {"name": "Propositional_calculus", "id": 27221591}, {"name": "Syntax_(logic)", "id": 34846657}], "successors": []}

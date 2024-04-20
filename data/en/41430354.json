@@ -1,1 +1,1 @@
-{"name": "Judiciary_of_Hong_Kong", "id": 41430354, "predecessors": [{"name": "Judiciaries", "id": 4683914}], "successors": []}
+{"name": "Judiciary_of_Hong_Kong", "id": 41430354, "predecessors": [{"name": "Government_of_Hong_Kong", "id": 3069470}, {"name": "Law_of_Hong_Kong", "id": 1001937}, {"name": "Judiciaries", "id": 4683914}, {"name": "Government_of_China", "id": 7993982}], "successors": [{"name": "Justices_of_the_Court_of_Final_Appeal_(Hong_Kong)", "id": 15320871}]}

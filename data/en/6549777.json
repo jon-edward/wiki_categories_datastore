@@ -1,0 +1,1 @@
+{"name": "Bartending_equipment", "id": 6549777, "predecessors": [{"name": "Bartending", "id": 9419866}, {"name": "Equipment", "id": 3228046}], "successors": [{"name": "Drinkware", "id": 1424894}, {"name": "Cocktail_garnishes", "id": 5174484}]}

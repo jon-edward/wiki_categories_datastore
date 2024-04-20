@@ -1,1 +1,1 @@
-{"name": "New_York_University_staff", "id": 28572306, "predecessors": [{"name": "Research_organizations", "id": 14561300}], "successors": [{"name": "NYU_Violets_football_coaches", "id": 25965485}]}
+{"name": "New_York_University_staff", "id": 28572306, "predecessors": [{"name": "New_York_University_people", "id": 28318192}, {"name": "Education", "id": 696763}], "successors": [{"name": "NYU_Violets_football_coaches", "id": 25965485}]}

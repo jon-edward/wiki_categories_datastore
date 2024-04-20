@@ -1,1 +1,1 @@
-{"name": "Tax_resistance_in_France", "id": 59110955, "predecessors": [{"name": "Tax_resistance", "id": 5009083}], "successors": []}
+{"name": "Tax_resistance_in_France", "id": 59110955, "predecessors": [{"name": "Protests_in_France", "id": 11181256}, {"name": "Tax_resistance", "id": 5009083}, {"name": "Taxation_in_France", "id": 7798358}], "successors": []}

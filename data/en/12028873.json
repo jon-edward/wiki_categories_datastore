@@ -1,1 +1,1 @@
-{"name": "Physical_torture_techniques", "id": 12028873, "predecessors": [{"name": "Torture", "id": 979826}, {"name": "Pain", "id": 1061105}], "successors": [{"name": "Starvation", "id": 72730454}]}
+{"name": "Physical_torture_techniques", "id": 12028873, "predecessors": [{"name": "Torture", "id": 979826}, {"name": "Pain", "id": 1061105}], "successors": [{"name": "Instruments_of_torture", "id": 24069090}, {"name": "Starvation", "id": 72730454}]}

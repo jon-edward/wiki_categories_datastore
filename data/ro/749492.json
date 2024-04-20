@@ -1,1 +1,1 @@
-{"name": "Companii_producătoare_de_încălțăminte", "id": 749492, "predecessors": [{"name": "Încălțăminte", "id": 950154}, {"name": "Companii", "id": 32300}], "successors": []}
+{"name": "Companii_producătoare_de_încălțăminte", "id": 749492, "predecessors": [{"name": "Încălțăminte", "id": 950154}, {"name": "Companii", "id": 32300}], "successors": [{"name": "Companii_producătoare_de_încălțăminte_din_România", "id": 803571}]}

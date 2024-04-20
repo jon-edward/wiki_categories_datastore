@@ -1,1 +1,1 @@
-{"name": "Spanish_royalty", "id": 4569399, "predecessors": [{"name": "Royalty", "id": 2023501}], "successors": []}
+{"name": "Spanish_royalty", "id": 4569399, "predecessors": [{"name": "Spanish_monarchy", "id": 18550384}, {"name": "Countries_in_Europe", "id": 37691805}, {"name": "Monarchy", "id": 1238063}, {"name": "Continents", "id": 788686}], "successors": [{"name": "Spanish_royal_consorts", "id": 9107934}, {"name": "Spanish_infantes", "id": 19735411}]}

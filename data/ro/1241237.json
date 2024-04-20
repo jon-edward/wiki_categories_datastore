@@ -1,1 +1,1 @@
-{"name": "Districte_teritoriale_din_Voievodatul_Polonia_Mică", "id": 1241237, "predecessors": [{"name": "Districtele_Poloniei", "id": 1241219}, {"name": "Diviziuni_teritoriale_ale_Poloniei", "id": 126780}], "successors": []}
+{"name": "Districte_teritoriale_din_Voievodatul_Polonia_Mică", "id": 1241237, "predecessors": [{"name": "Districtele_Poloniei", "id": 1241219}, {"name": "Voievodatele_Poloniei", "id": 41990}], "successors": [{"name": "Districtul_Bochnia", "id": 1241232}, {"name": "Districtul_Wadowice", "id": 1241303}, {"name": "Districtul_Cracovia", "id": 1241305}]}

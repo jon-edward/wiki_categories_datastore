@@ -1,1 +1,1 @@
-{"name": "Unix_archivers_and_compression-related_utilities", "id": 25608601, "predecessors": [{"name": "Data_compression_software", "id": 946143}, {"name": "Unix_software", "id": 2423579}], "successors": []}
+{"name": "Unix_archivers_and_compression-related_utilities", "id": 25608601, "predecessors": [{"name": "Data_compression_software", "id": 946143}, {"name": "File_archivers", "id": 20094145}, {"name": "Unix_software", "id": 2423579}], "successors": []}

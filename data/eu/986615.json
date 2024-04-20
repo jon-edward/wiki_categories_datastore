@@ -1,1 +1,1 @@
-{"name": "SBSko_telesailak", "id": 986615, "predecessors": [{"name": "Hego_Koreako_telesailak", "id": 870467}, {"name": "Streaming_bidezko_telebista_plataformak", "id": 946155}, {"name": "Hego_Koreako_enpresak", "id": 91057}], "successors": []}
+{"name": "SBSko_telesailak", "id": 986615, "predecessors": [{"name": "Hego_Koreako_telesailak", "id": 870467}, {"name": "Telesailak", "id": 24473}, {"name": "Hego_Koreako_enpresak", "id": 91057}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Viaducte", "id": 1055756, "predecessors": [{"name": "Poduri", "id": 53185}], "successors": [{"name": "Viaducte_din_România", "id": 1055160}]}
+{"name": "Viaducte", "id": 1055756, "predecessors": [{"name": "Poduri_după_tip", "id": 1781598}], "successors": [{"name": "Viaducte_din_România", "id": 1055160}, {"name": "Viaducte_din_Franța", "id": 2900053}]}

@@ -1,1 +1,1 @@
-{"name": "Space-flown_life", "id": 41842023, "predecessors": [{"name": "Spaceflight", "id": 1040006}, {"name": "Outer_space", "id": 36093771}], "successors": [{"name": "Animals_in_space", "id": 994619}, {"name": "Tardigrades", "id": 4453722}]}
+{"name": "Space-flown_life", "id": 41842023, "predecessors": [{"name": "Spaceflight", "id": 1040006}, {"name": "Human_behavior", "id": 2524202}], "successors": [{"name": "Animals_in_space", "id": 994619}, {"name": "Tardigrades", "id": 4453722}]}

@@ -1,1 +1,1 @@
-{"name": "Rent_regulation", "id": 41258170, "predecessors": [{"name": "Affordable_housing", "id": 7527573}, {"name": "Landlord–tenant_law", "id": 24681267}, {"name": "Price_controls", "id": 39402112}, {"name": "Regulation", "id": 35504121}, {"name": "Renting", "id": 13682390}], "successors": []}
+{"name": "Rent_regulation", "id": 41258170, "predecessors": [{"name": "Affordable_housing", "id": 7527573}, {"name": "Price_controls", "id": 39402112}, {"name": "Regulation", "id": 35504121}], "successors": []}

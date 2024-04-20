@@ -1,1 +1,1 @@
-{"name": "Women_radiologists", "id": 60749579, "predecessors": [{"name": "Women_physicians", "id": 3903758}], "successors": []}
+{"name": "Women_radiologists", "id": 60749579, "predecessors": [{"name": "Women_physicians", "id": 3903758}, {"name": "Radiology", "id": 695053}], "successors": []}

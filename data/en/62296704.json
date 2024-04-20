@@ -1,1 +1,1 @@
-{"name": "Shopping_mall_bombings", "id": 62296704, "predecessors": [{"name": "Attacks_on_shopping_malls", "id": 40597142}, {"name": "Explosive_weapons", "id": 1150760}], "successors": []}
+{"name": "Shopping_mall_bombings", "id": 62296704, "predecessors": [{"name": "Attacks_on_shops", "id": 61314063}], "successors": [{"name": "Shopping_mall_bombings_in_Asia", "id": 76527209}]}

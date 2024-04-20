@@ -1,1 +1,1 @@
-{"name": "Experimental_cancer_treatments", "id": 32587793, "predecessors": [{"name": "Cancer_research", "id": 17341662}, {"name": "Cancer_treatments", "id": 694971}, {"name": "Experimental_medical_treatments", "id": 8418552}], "successors": []}
+{"name": "Experimental_cancer_treatments", "id": 32587793, "predecessors": [{"name": "Cancer_research", "id": 17341662}, {"name": "Cancer_treatments", "id": 694971}], "successors": []}

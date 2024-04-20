@@ -1,1 +1,1 @@
-{"name": "Compozitori_suedezi", "id": 387184, "predecessors": [{"name": "Muzicieni_suedezi", "id": 208553}, {"name": "Compozitori", "id": 19481}], "successors": []}
+{"name": "Compozitori_suedezi", "id": 387184, "predecessors": [{"name": "Muzicieni_suedezi", "id": 208553}, {"name": "Compozitori", "id": 19481}], "successors": [{"name": "Compozitori_de_operă_suedezi", "id": 369358}]}

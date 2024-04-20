@@ -1,1 +1,1 @@
-{"name": "Housing_protests", "id": 58101589, "predecessors": [{"name": "Housing", "id": 4152584}], "successors": [{"name": "Rent_strikes", "id": 74442064}]}
+{"name": "Housing_protests", "id": 58101589, "predecessors": [{"name": "Housing", "id": 4152584}, {"name": "Protests", "id": 1365817}], "successors": [{"name": "Rent_strikes", "id": 74442064}]}

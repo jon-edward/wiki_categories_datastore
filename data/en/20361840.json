@@ -1,1 +1,1 @@
-{"name": "Chemistry_organizations", "id": 20361840, "predecessors": [{"name": "Chemistry", "id": 691185}], "successors": [{"name": "Chemistry_societies", "id": 3076904}]}
+{"name": "Chemistry_organizations", "id": 20361840, "predecessors": [{"name": "Society", "id": 1633936}], "successors": [{"name": "Chemistry_societies", "id": 3076904}, {"name": "Chemical_engineering_organizations", "id": 13094725}, {"name": "Chemical_research_institutes", "id": 13197480}, {"name": "Chemistry_laboratories", "id": 20361423}]}

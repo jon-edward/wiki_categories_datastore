@@ -1,1 +1,1 @@
-{"name": "Furtuni", "id": 238707, "predecessors": [{"name": "Dezastre_naturale", "id": 74910}, {"name": "Fenomene_meteorologice", "id": 261877}], "successors": [{"name": "Cicloane_tropicale", "id": 238704}, {"name": "Fulgere_și_trăsnete", "id": 2036719}]}
+{"name": "Furtuni", "id": 238707, "predecessors": [{"name": "Dezastre_naturale", "id": 74910}, {"name": "Fenomene_meteorologice", "id": 261877}, {"name": "Vânturi", "id": 296636}], "successors": [{"name": "Cicloane_tropicale", "id": 238704}, {"name": "Fulgere_și_trăsnete", "id": 2036719}]}

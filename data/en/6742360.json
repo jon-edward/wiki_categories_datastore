@@ -1,1 +1,1 @@
-{"name": "Sukkot", "id": 6742360, "predecessors": [{"name": "Harvest_festivals", "id": 21117638}], "successors": [{"name": "Hallel", "id": 29402804}]}
+{"name": "Sukkot", "id": 6742360, "predecessors": [{"name": "Harvest_festivals", "id": 21117638}, {"name": "Hebrew_names_of_Jewish_holy_days", "id": 29258904}, {"name": "Tishrei_observances", "id": 59767224}, {"name": "3_(number)", "id": 39416971}], "successors": [{"name": "Hallel", "id": 29402804}]}

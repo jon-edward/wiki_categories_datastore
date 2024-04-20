@@ -1,1 +1,1 @@
-{"name": "Arts_in_Mexico_City", "id": 51636091, "predecessors": [{"name": "Culture_in_Mexico_City", "id": 7378417}], "successors": [{"name": "Museums_in_Mexico_City", "id": 7378356}]}
+{"name": "Arts_in_Mexico_City", "id": 51636091, "predecessors": [{"name": "Arts_in_Mexico", "id": 12326217}, {"name": "Culture_in_Mexico_City", "id": 7378417}], "successors": [{"name": "Museums_in_Mexico_City", "id": 7378356}]}

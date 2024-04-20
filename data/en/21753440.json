@@ -1,1 +1,1 @@
-{"name": "Critical_thinking", "id": 21753440, "predecessors": [{"name": "Learning", "id": 1055691}], "successors": [{"name": "Critical_thinking_skills", "id": 53899290}, {"name": "Barriers_to_critical_thinking", "id": 53899392}]}
+{"name": "Critical_thinking", "id": 21753440, "predecessors": [{"name": "Learning", "id": 1055691}, {"name": "Logic", "id": 693678}], "successors": [{"name": "Barriers_to_critical_thinking", "id": 53899392}]}

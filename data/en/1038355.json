@@ -1,1 +1,1 @@
-{"name": "Firearm_laws", "id": 1038355, "predecessors": [{"name": "Gun_politics", "id": 1041457}], "successors": [{"name": "Firearms_law_by_country", "id": 69108984}]}
+{"name": "Firearm_laws", "id": 1038355, "predecessors": [{"name": "Gun_politics", "id": 1041457}, {"name": "Policy", "id": 8592882}], "successors": [{"name": "Firearms_law_by_country", "id": 69108984}]}

@@ -1,1 +1,1 @@
-{"name": "Alarme", "id": 1366594, "predecessors": [{"name": "Siguranță", "id": 871757}, {"name": "Protecție_civilă", "id": 1363165}], "successors": []}
+{"name": "Alarme", "id": 1366594, "predecessors": [{"name": "Siguranță", "id": 871757}, {"name": "Sisteme_de_alertă", "id": 2330276}], "successors": []}

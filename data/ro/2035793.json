@@ -1,1 +1,1 @@
-{"name": "Formate_metroul_din_Bruxelles", "id": 2035793, "predecessors": [{"name": "Formate_Bruxelles", "id": 67624}, {"name": "Formate_Wikipedia", "id": 38564}, {"name": "Transport_public_în_Bruxelles", "id": 1925391}], "successors": []}
+{"name": "Formate_metroul_din_Bruxelles", "id": 2035793, "predecessors": [{"name": "Formate_Bruxelles", "id": 67624}, {"name": "Formate_metrou", "id": 67580}, {"name": "Transport_public_în_Bruxelles", "id": 1925391}], "successors": []}

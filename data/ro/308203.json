@@ -1,1 +1,1 @@
-{"name": "Profesori_de_liceu", "id": 308203, "predecessors": [{"name": "Profesori", "id": 191618}], "successors": [{"name": "Profesori_de_liceu_români", "id": 1998116}]}
+{"name": "Profesori_de_liceu", "id": 308203, "predecessors": [{"name": "Profesori", "id": 191618}, {"name": "Instituții_de_învățământ", "id": 752786}], "successors": [{"name": "Profesori_de_liceu_români", "id": 1998116}]}

@@ -1,1 +1,1 @@
-{"name": "Building_and_structure_collapses_caused_by_fire", "id": 69644281, "predecessors": [{"name": "Fire", "id": 3734304}, {"name": "Accidents", "id": 4523546}], "successors": [{"name": "Oklahoma_City_bombing", "id": 3582782}]}
+{"name": "Building_and_structure_collapses_caused_by_fire", "id": 69644281, "predecessors": [{"name": "Accidents", "id": 4523546}], "successors": [{"name": "Oklahoma_City_bombing", "id": 3582782}]}

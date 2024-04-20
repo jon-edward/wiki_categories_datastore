@@ -1,1 +1,1 @@
-{"name": "DR_TV_original_programming", "id": 38971957, "predecessors": [{"name": "DR_(broadcaster)", "id": 38971984}, {"name": "Broadcasting", "id": 765733}], "successors": [{"name": "DR_television_dramas", "id": 35956181}, {"name": "X_Factor_(Danish_TV_series)", "id": 55406435}]}
+{"name": "DR_TV_original_programming", "id": 38971957, "predecessors": [{"name": "DR_(broadcaster)", "id": 38971984}, {"name": "Television_in_Denmark", "id": 20830590}], "successors": [{"name": "DR_television_dramas", "id": 35956181}, {"name": "X_Factor_(Danish_TV_series)", "id": 55406435}]}

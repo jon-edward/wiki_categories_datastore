@@ -1,1 +1,1 @@
-{"name": "Musikkfilmer_fra_USA", "id": 1398273, "predecessors": [{"name": "Musikkfilmer", "id": 1398221}, {"name": "Film", "id": 8911}], "successors": [{"name": "Musikkdokumentarer_fra_USA", "id": 2075533}]}
+{"name": "Musikkfilmer_fra_USA", "id": 1398273, "predecessors": [{"name": "Film", "id": 8911}, {"name": "Musikkfilmer", "id": 1398221}], "successors": [{"name": "Musikkdokumentarer_fra_USA", "id": 2075533}]}

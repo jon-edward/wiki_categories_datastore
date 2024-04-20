@@ -1,1 +1,1 @@
-{"name": "Alumni_associations", "id": 5882539, "predecessors": [{"name": "Social_networks", "id": 6045536}, {"name": "Student_organizations", "id": 19148468}], "successors": [{"name": "Aberystwyth_Old_Students'_Association", "id": 68421395}]}
+{"name": "Alumni_associations", "id": 5882539, "predecessors": [{"name": "Social_networks", "id": 6045536}, {"name": "Student_organizations", "id": 19148468}], "successors": [{"name": "Alumni_associations_of_academic_institutions", "id": 24613722}]}

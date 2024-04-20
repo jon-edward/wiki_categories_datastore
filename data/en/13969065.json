@@ -1,1 +1,1 @@
-{"name": "BBC_Scotland_newsreaders_and_journalists", "id": 13969065, "predecessors": [{"name": "BBC_newsreaders_and_journalists", "id": 3351058}, {"name": "Scottish_television_journalists", "id": 33970859}], "successors": []}
+{"name": "BBC_Scotland_newsreaders_and_journalists", "id": 13969065, "predecessors": [{"name": "BBC_Scotland", "id": 33080836}, {"name": "BBC_newsreaders_and_journalists", "id": 3351058}, {"name": "British_television_newsreaders_and_news_presenters", "id": 10140205}, {"name": "Scottish_television_journalists", "id": 33970859}], "successors": []}

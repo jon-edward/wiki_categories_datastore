@@ -1,1 +1,1 @@
-{"name": "Procesare_numerică_de_semnal", "id": 738515, "predecessors": [{"name": "Procesarea_semnalelor", "id": 296202}, {"name": "Sisteme_informatice", "id": 914010}], "successors": [{"name": "Procesarea_imaginilor", "id": 739162}]}
+{"name": "Procesare_numerică_de_semnal", "id": 738515, "predecessors": [{"name": "Algoritmi", "id": 185720}, {"name": "Procesarea_semnalelor", "id": 296202}, {"name": "Sisteme_informatice", "id": 914010}], "successors": [{"name": "Procesarea_imaginilor", "id": 739162}, {"name": "Recunoaștere_vocală", "id": 759645}]}

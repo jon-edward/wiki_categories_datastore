@@ -1,1 +1,1 @@
-{"name": "Planar_graphs", "id": 28029415, "predecessors": [{"name": "Graph_drawing", "id": 26354762}, {"name": "Planes_(geometry)", "id": 72749580}], "successors": [{"name": "Triangulation_(geometry)", "id": 34835372}]}
+{"name": "Planar_graphs", "id": 28029415, "predecessors": [{"name": "Geometric_graph_theory", "id": 7129004}, {"name": "Planes_(geometry)", "id": 72749580}, {"name": "Topological_graph_theory", "id": 1575639}], "successors": [{"name": "Triangulation_(geometry)", "id": 34835372}]}

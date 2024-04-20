@@ -1,1 +1,1 @@
-{"name": "Toy_recalls", "id": 54625231, "predecessors": [{"name": "Product_recalls", "id": 19671196}, {"name": "Toy_controversies", "id": 63500253}], "successors": []}
+{"name": "Toy_recalls", "id": 54625231, "predecessors": [{"name": "Product_recalls", "id": 19671196}, {"name": "Toy_controversies", "id": 63500253}, {"name": "Product_safety", "id": 19434081}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "X-ray_crystallography", "id": 33332340, "predecessors": [{"name": "Crystallography", "id": 701729}, {"name": "X-ray_instrumentation", "id": 10651864}], "successors": []}
+{"name": "X-ray_crystallography", "id": 33332340, "predecessors": [{"name": "Crystallography", "id": 701729}], "successors": []}

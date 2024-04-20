@@ -1,1 +1,1 @@
-{"name": "Transport_in_Puducherry", "id": 38327932, "predecessors": [{"name": "Puducherry", "id": 38327692}], "successors": [{"name": "Rail_transport_in_Puducherry", "id": 49197023}]}
+{"name": "Transport_in_Puducherry", "id": 38327932, "predecessors": [{"name": "Puducherry", "id": 38327692}, {"name": "Economy_of_India", "id": 2051379}, {"name": "Transport_in_India", "id": 1872217}], "successors": [{"name": "Rail_transport_in_Puducherry", "id": 49197023}, {"name": "State_highways_in_Puducherry", "id": 39910234}]}

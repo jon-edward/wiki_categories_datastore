@@ -1,1 +1,1 @@
-{"name": "Atomi", "id": 206242, "predecessors": [{"name": "Fizică_atomică", "id": 222534}, {"name": "Materie", "id": 116477}], "successors": [{"name": "Elemente_chimice", "id": 42004}, {"name": "Ioni", "id": 934790}]}
+{"name": "Atomi", "id": 206242, "predecessors": [{"name": "Chimie_fizică", "id": 201592}, {"name": "Fizică_atomică", "id": 222534}, {"name": "Materie", "id": 116477}], "successors": [{"name": "Elemente_chimice", "id": 42004}, {"name": "Ioni", "id": 934790}]}

@@ -1,1 +1,1 @@
-{"name": "Plante_ornamentale", "id": 169067, "predecessors": [{"name": "Plante_de_grădină", "id": 1938359}], "successors": [{"name": "Flori", "id": 105394}, {"name": "Plante_suculente", "id": 1051210}, {"name": "Arbori_ornamentali", "id": 1938360}]}
+{"name": "Plante_ornamentale", "id": 169067, "predecessors": [{"name": "Plante_de_grădină", "id": 1938359}, {"name": "Horticultură", "id": 69240}], "successors": [{"name": "Flori", "id": 105394}, {"name": "Plante_suculente", "id": 1051210}, {"name": "Arbori_ornamentali", "id": 1938360}]}

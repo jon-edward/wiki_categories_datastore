@@ -1,1 +1,1 @@
-{"name": "Centrifuges", "id": 1350626, "predecessors": [{"name": "Chemical_equipment", "id": 42616899}, {"name": "Laboratory_equipment", "id": 697674}, {"name": "Laboratory_techniques", "id": 1305783}], "successors": []}
+{"name": "Centrifuges", "id": 1350626, "predecessors": [{"name": "Chemical_equipment", "id": 42616899}, {"name": "Laboratory_equipment", "id": 697674}, {"name": "Rotating_machines", "id": 18789631}, {"name": "Separation_processes", "id": 12567378}], "successors": []}

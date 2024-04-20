@@ -1,1 +1,1 @@
-{"name": "Epilepsy", "id": 11554888, "predecessors": [{"name": "Disorders_causing_seizures", "id": 21292193}, {"name": "Disability", "id": 932302}], "successors": [{"name": "Works_about_epilepsy", "id": 73614305}]}
+{"name": "Epilepsy", "id": 11554888, "predecessors": [{"name": "Disability_by_type", "id": 33354457}, {"name": "Disorders_causing_seizures", "id": 21292193}], "successors": [{"name": "Works_about_epilepsy", "id": 73614305}]}

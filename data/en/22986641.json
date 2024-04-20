@@ -1,1 +1,1 @@
-{"name": "Lists_by_area", "id": 22986641, "predecessors": [{"name": "Area", "id": 1777289}, {"name": "Lists_by_size", "id": 68371149}, {"name": "Lists_of_places", "id": 694550}], "successors": [{"name": "Lists_of_islands_by_area", "id": 41524446}]}
+{"name": "Lists_by_area", "id": 22986641, "predecessors": [{"name": "Lists_by_size", "id": 68371149}, {"name": "Lists_of_places", "id": 694550}], "successors": [{"name": "Lists_of_islands_by_area", "id": 41524446}]}

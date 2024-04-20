@@ -1,1 +1,1 @@
-{"name": "Rice_diseases", "id": 9491507, "predecessors": [{"name": "Rice", "id": 4059323}], "successors": []}
+{"name": "Rice_diseases", "id": 9491507, "predecessors": [{"name": "Cereal_diseases", "id": 5601197}, {"name": "Rice", "id": 4059323}], "successors": []}

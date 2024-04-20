@@ -1,1 +1,1 @@
-{"name": "Sondaje", "id": 18008, "predecessors": [{"name": "Metode_de_evaluare", "id": 864528}], "successors": []}
+{"name": "Sondaje", "id": 18008, "predecessors": [{"name": "Metode_de_evaluare", "id": 864528}, {"name": "Statistică", "id": 61085}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Asymmetric_information", "id": 5397314, "predecessors": [{"name": "Asymmetry", "id": 60216655}, {"name": "Imperfect_competition", "id": 5917880}], "successors": [{"name": "Mechanism_design", "id": 5365700}]}
+{"name": "Asymmetric_information", "id": 5397314, "predecessors": [{"name": "Asymmetry", "id": 60216655}, {"name": "Imperfect_competition", "id": 5917880}, {"name": "Information", "id": 1009209}], "successors": [{"name": "Mechanism_design", "id": 5365700}]}

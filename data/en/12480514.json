@@ -1,1 +1,1 @@
-{"name": "Video_game_composers", "id": 12480514, "predecessors": [{"name": "Video_game_developers", "id": 9568425}, {"name": "Video_game_musicians", "id": 9569262}], "successors": []}
+{"name": "Video_game_composers", "id": 12480514, "predecessors": [{"name": "Video_game_developers", "id": 9568425}, {"name": "Video_game_musicians", "id": 9569262}], "successors": [{"name": "American_video_game_composers", "id": 76563740}, {"name": "British_video_game_composers", "id": 76563745}]}

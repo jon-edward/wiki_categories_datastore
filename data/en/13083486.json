@@ -1,1 +1,1 @@
-{"name": "Mathematics_conferences", "id": 13083486, "predecessors": [{"name": "Mathematics_and_culture", "id": 1874224}, {"name": "Science_events", "id": 13887373}], "successors": [{"name": "Logic_conferences", "id": 6544058}]}
+{"name": "Mathematics_conferences", "id": 13083486, "predecessors": [{"name": "Academic_conferences", "id": 10029324}, {"name": "Mathematics_and_culture", "id": 1874224}, {"name": "Science_events", "id": 13887373}], "successors": [{"name": "Logic_conferences", "id": 6544058}]}

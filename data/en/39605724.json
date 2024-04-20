@@ -1,1 +1,1 @@
-{"name": "Theatre_owners", "id": 39605724, "predecessors": [{"name": "Ownership", "id": 40528816}], "successors": [{"name": "Film_exhibitors", "id": 53993410}]}
+{"name": "Theatre_owners", "id": 39605724, "predecessors": [{"name": "Entertainment_industry_businesspeople", "id": 44006988}, {"name": "Theatrical_occupations", "id": 11829358}], "successors": [{"name": "Film_exhibitors", "id": 53993410}, {"name": "Australian_theatre_owners", "id": 54082401}]}

@@ -1,1 +1,1 @@
-{"name": "Medicine_in_art", "id": 59372268, "predecessors": [{"name": "Science_in_art", "id": 22462050}, {"name": "The_arts", "id": 4892515}], "successors": [{"name": "Epidemics_in_art", "id": 63509606}]}
+{"name": "Medicine_in_art", "id": 59372268, "predecessors": [{"name": "Medicine_in_society", "id": 16705284}, {"name": "Science_in_art", "id": 22462050}, {"name": "The_arts", "id": 4892515}], "successors": [{"name": "Epidemics_in_art", "id": 63509606}]}

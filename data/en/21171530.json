@@ -1,1 +1,1 @@
-{"name": "Seas_of_Greenland", "id": 21171530, "predecessors": [{"name": "Seas_of_the_Atlantic_Ocean", "id": 3583534}, {"name": "Bodies_of_water", "id": 2699217}], "successors": [{"name": "Davis_Strait", "id": 27945508}]}
+{"name": "Seas_of_Greenland", "id": 21171530, "predecessors": [{"name": "Seas_of_North_America", "id": 52741200}, {"name": "Seas_of_the_Atlantic_Ocean", "id": 3583534}, {"name": "Bodies_of_water", "id": 2699217}, {"name": "North_America", "id": 878995}], "successors": [{"name": "Davis_Strait", "id": 27945508}]}

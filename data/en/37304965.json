@@ -1,1 +1,1 @@
-{"name": "International_Classification_of_Diseases", "id": 37304965, "predecessors": [{"name": "Diagnosis_codes", "id": 3498451}, {"name": "World_Health_Organization", "id": 3314158}, {"name": "Classification_systems", "id": 3615452}], "successors": []}
+{"name": "International_Classification_of_Diseases", "id": 37304965, "predecessors": [{"name": "World_Health_Organization", "id": 3314158}], "successors": []}

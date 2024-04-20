@@ -1,1 +1,1 @@
-{"name": "Guvernare", "id": 1229235, "predecessors": [{"name": "Politică", "id": 15971}, {"name": "Corupție", "id": 749789}, {"name": "Management", "id": 33981}], "successors": [{"name": "Guvern", "id": 36081}]}
+{"name": "Guvernare", "id": 1229235, "predecessors": [{"name": "Politică", "id": 15971}, {"name": "Corupție", "id": 749789}, {"name": "Management", "id": 33981}], "successors": [{"name": "Guvern", "id": 36081}, {"name": "Guvernanță_corporativă", "id": 1573338}]}

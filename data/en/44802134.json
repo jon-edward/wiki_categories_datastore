@@ -1,1 +1,1 @@
-{"name": "Fish_and_seafood_soups", "id": 44802134, "predecessors": [{"name": "Seafood_dishes", "id": 18237842}, {"name": "Soups", "id": 1654621}], "successors": []}
+{"name": "Fish_and_seafood_soups", "id": 44802134, "predecessors": [{"name": "Fish_dishes", "id": 16096793}, {"name": "Soups", "id": 1654621}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Prize_warfare", "id": 3309428, "predecessors": [{"name": "Law_of_the_sea", "id": 763003}, {"name": "Law_of_war", "id": 780169}], "successors": [{"name": "Commerce_raiders", "id": 13284439}]}
+{"name": "Prize_warfare", "id": 3309428, "predecessors": [{"name": "Law_of_the_sea", "id": 763003}, {"name": "Law_of_war", "id": 780169}, {"name": "Naval_warfare", "id": 1054971}], "successors": [{"name": "Commerce_raiders", "id": 13284439}]}

@@ -1,1 +1,1 @@
-{"name": "Celenterate", "id": 93194, "predecessors": [{"name": "Animale_nevertebrate", "id": 51094}, {"name": "Ecologie_acvatică", "id": 185205}, {"name": "Regnul_Animalia", "id": 134519}], "successors": []}
+{"name": "Celenterate", "id": 93194, "predecessors": [{"name": "Animale_nevertebrate", "id": 51094}, {"name": "Eumetazoa", "id": 962673}, {"name": "Organisme_acvatice", "id": 185021}], "successors": [{"name": "Scyphozoa", "id": 1258045}]}

@@ -1,1 +1,1 @@
-{"name": "Tests_of_general_relativity", "id": 2316991, "predecessors": [{"name": "Physics_experiments", "id": 1126619}, {"name": "Tests", "id": 7058186}], "successors": []}
+{"name": "Tests_of_general_relativity", "id": 2316991, "predecessors": [{"name": "General_relativity", "id": 782202}, {"name": "Physics_experiments", "id": 1126619}, {"name": "Tests", "id": 7058186}], "successors": []}

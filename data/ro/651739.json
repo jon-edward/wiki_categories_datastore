@@ -1,1 +1,1 @@
-{"name": "Bănci_din_Germania", "id": 651739, "predecessors": [{"name": "Companii_din_Germania", "id": 372433}, {"name": "Bănci", "id": 23353}], "successors": []}
+{"name": "Bănci_din_Germania", "id": 651739, "predecessors": [{"name": "Economia_Germaniei", "id": 822407}, {"name": "Sistemul_bancar", "id": 1115229}, {"name": "Companii_din_Germania", "id": 372433}, {"name": "Bănci", "id": 23353}], "successors": []}

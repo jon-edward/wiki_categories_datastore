@@ -1,1 +1,1 @@
-{"name": "Anatomia_artropodelor", "id": 729629, "predecessors": [{"name": "Artropode", "id": 51221}, {"name": "Anatomie_animală", "id": 953926}], "successors": [{"name": "Anatomia_insectelor", "id": 1300917}]}
+{"name": "Anatomia_artropodelor", "id": 729629, "predecessors": [{"name": "Anatomia_nevertebratelor", "id": 1291525}, {"name": "Artropode", "id": 51221}], "successors": [{"name": "Anatomia_insectelor", "id": 1300917}]}

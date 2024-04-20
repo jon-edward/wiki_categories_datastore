@@ -1,1 +1,1 @@
-{"name": "Mountaineering_books", "id": 1241455, "predecessors": [{"name": "Travel_guide_books", "id": 9384477}, {"name": "Environmental_studies", "id": 38349629}], "successors": []}
+{"name": "Mountaineering_books", "id": 1241455, "predecessors": [{"name": "Travel_guide_books", "id": 9384477}, {"name": "Mountaineering", "id": 1072038}, {"name": "Environment_and_society", "id": 15474891}], "successors": []}

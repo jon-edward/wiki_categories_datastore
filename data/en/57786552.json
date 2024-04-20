@@ -1,1 +1,1 @@
-{"name": "Missing_person_cases_in_Germany", "id": 57786552, "predecessors": [{"name": "Law_enforcement_in_Germany", "id": 1230151}], "successors": []}
+{"name": "Missing_person_cases_in_Germany", "id": 57786552, "predecessors": [{"name": "Missing_person_cases_in_Europe", "id": 59520696}, {"name": "Law_enforcement_in_Germany", "id": 1230151}], "successors": []}

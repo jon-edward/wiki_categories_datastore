@@ -1,1 +1,1 @@
-{"name": "Japanese_male_conductors_(music)", "id": 61387696, "predecessors": [{"name": "Male_conductors_(music)", "id": 59458766}], "successors": []}
+{"name": "Japanese_male_conductors_(music)", "id": 61387696, "predecessors": [{"name": "Japanese_male_musicians", "id": 49379342}, {"name": "Male_conductors_(music)", "id": 59458766}, {"name": "Japanese_musicians", "id": 693115}], "successors": []}

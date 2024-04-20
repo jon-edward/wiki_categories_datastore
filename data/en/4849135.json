@@ -1,1 +1,1 @@
-{"name": "Economic_growth", "id": 4849135, "predecessors": [{"name": "Business_cycle", "id": 6123171}, {"name": "Economic_development", "id": 4880168}], "successors": [{"name": "Innovation_economics", "id": 37574925}]}
+{"name": "Economic_growth", "id": 4849135, "predecessors": [{"name": "Economic_development", "id": 4880168}], "successors": [{"name": "Economic_booms", "id": 7785901}, {"name": "Growth_economists", "id": 14558299}, {"name": "Innovation_economics", "id": 37574925}, {"name": "Books_about_economic_growth", "id": 45250402}]}

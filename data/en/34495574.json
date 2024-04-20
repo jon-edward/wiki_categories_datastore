@@ -1,1 +1,1 @@
-{"name": "DVD_rippers", "id": 34495574, "predecessors": [{"name": "DVD", "id": 1391301}, {"name": "Video_software", "id": 33887818}, {"name": "Cryptanalytic_devices", "id": 1069923}, {"name": "Digital_rights_management", "id": 1213614}, {"name": "Copyright_law", "id": 702268}], "successors": []}
+{"name": "DVD_rippers", "id": 34495574, "predecessors": [{"name": "DVD", "id": 1391301}, {"name": "Video_software", "id": 33887818}, {"name": "Digital_rights_management", "id": 1213614}, {"name": "Copyright_law", "id": 702268}], "successors": []}

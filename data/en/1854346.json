@@ -1,1 +1,1 @@
-{"name": "Steelmaking", "id": 1854346, "predecessors": [{"name": "Metallurgical_processes", "id": 23946134}, {"name": "Industrial_Revolution", "id": 885395}], "successors": [{"name": "Blast_furnaces", "id": 32092455}]}
+{"name": "Steelmaking", "id": 1854346, "predecessors": [{"name": "Metallurgical_processes", "id": 23946134}, {"name": "Steel", "id": 978815}, {"name": "19th-century_revolutions", "id": 21487349}], "successors": [{"name": "Blast_furnaces", "id": 32092455}, {"name": "Iron_ores", "id": 47287879}]}

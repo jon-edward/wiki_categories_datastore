@@ -1,1 +1,1 @@
-{"name": "Newspaper_covers", "id": 7565172, "predecessors": [{"name": "Newspapers", "id": 695985}], "successors": [{"name": "Non-free_newspaper_covers", "id": 1676467}]}
+{"name": "Newspaper_covers", "id": 7565172, "predecessors": [{"name": "Newspapers", "id": 695985}, {"name": "Business", "id": 771152}], "successors": [{"name": "Non-free_newspaper_covers", "id": 1676467}]}

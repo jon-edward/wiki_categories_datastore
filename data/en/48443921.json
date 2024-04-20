@@ -1,0 +1,1 @@
+{"name": "Insect_control", "id": 48443921, "predecessors": [{"name": "Pest_control", "id": 7473834}, {"name": "Pest_insects", "id": 6089380}], "successors": [{"name": "Insecticides", "id": 1099869}, {"name": "Insect_repellents", "id": 2303035}, {"name": "Biological_control_agents_of_pest_insects", "id": 43051919}]}

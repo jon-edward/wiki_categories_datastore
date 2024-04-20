@@ -1,1 +1,1 @@
-{"name": "Cercanías_Madrid_stations", "id": 48843184, "predecessors": [{"name": "Buildings_and_structures_in_the_Community_of_Madrid", "id": 6519734}], "successors": []}
+{"name": "Cercanías_Madrid_stations", "id": 48843184, "predecessors": [{"name": "Cercanías_Madrid", "id": 48843193}, {"name": "Buildings_and_structures_in_the_Community_of_Madrid", "id": 6519734}], "successors": []}

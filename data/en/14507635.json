@@ -1,1 +1,1 @@
-{"name": "Herpetology_organizations", "id": 14507635, "predecessors": [{"name": "Zoology_organizations", "id": 14507721}], "successors": [{"name": "Reptile_conservation_organizations", "id": 39597532}]}
+{"name": "Herpetology_organizations", "id": 14507635, "predecessors": [{"name": "Herpetology", "id": 3070357}, {"name": "Zoology_organizations", "id": 14507721}], "successors": [{"name": "Reptile_conservation_organizations", "id": 39597532}, {"name": "Turtle_conservation_organizations", "id": 62072014}]}

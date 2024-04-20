@@ -1,1 +1,1 @@
-{"name": "Swimming_equipment", "id": 9933267, "predecessors": [{"name": "Swimming", "id": 691570}], "successors": [{"name": "Swimsuits", "id": 1041209}, {"name": "Swimwear_manufacturers", "id": 1487517}]}
+{"name": "Swimming_equipment", "id": 9933267, "predecessors": [{"name": "Swimming", "id": 691570}, {"name": "Water_sports_equipment", "id": 23112594}], "successors": [{"name": "Swimsuits", "id": 1041209}, {"name": "Swimwear_manufacturers", "id": 1487517}]}

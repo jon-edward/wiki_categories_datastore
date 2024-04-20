@@ -1,1 +1,1 @@
-{"name": "Wärtsilä", "id": 38984532, "predecessors": [{"name": "Diesel_engine_manufacturers", "id": 28636939}, {"name": "Electronics_companies_of_Finland", "id": 8817088}, {"name": "Finnish_brands", "id": 5489312}], "successors": []}
+{"name": "Wärtsilä", "id": 38984532, "predecessors": [{"name": "Diesel_engine_manufacturers", "id": 28636939}, {"name": "Finnish_brands", "id": 5489312}, {"name": "Engines", "id": 743017}], "successors": [{"name": "Crichton-Vulcan", "id": 44261879}]}

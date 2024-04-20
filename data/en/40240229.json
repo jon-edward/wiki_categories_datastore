@@ -1,1 +1,1 @@
-{"name": "Ottoman_baths", "id": 40240229, "predecessors": [{"name": "Public_baths", "id": 25132764}], "successors": [{"name": "Ottoman_baths_in_Greece", "id": 40239567}]}
+{"name": "Ottoman_baths", "id": 40240229, "predecessors": [{"name": "Bathing", "id": 3431925}, {"name": "Buildings_and_structures_of_the_Ottoman_Empire", "id": 7201238}, {"name": "Public_baths", "id": 25132764}], "successors": [{"name": "Ottoman_baths_in_Greece", "id": 40239567}]}

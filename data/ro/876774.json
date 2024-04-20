@@ -1,1 +1,1 @@
-{"name": "Boli_psihiatrice", "id": 876774, "predecessors": [{"name": "Boli_ale_sistemului_nervos", "id": 876593}, {"name": "Psihiatrie", "id": 30278}], "successors": []}
+{"name": "Boli_psihiatrice", "id": 876774, "predecessors": [{"name": "Boli_ale_sistemului_nervos", "id": 876593}, {"name": "Psihiatrie", "id": 30278}], "successors": [{"name": "Semne_și_simptome_în_boli_psihiatrice", "id": 876741}]}

@@ -1,1 +1,0 @@
-{"name": "Detectors", "id": 2058157, "predecessors": [{"name": "Sensors", "id": 5400296}], "successors": [{"name": "Particle_detectors", "id": 1041219}, {"name": "Ionization", "id": 9656021}, {"name": "Detection_dogs", "id": 14681750}, {"name": "Photodetectors", "id": 43790526}]}

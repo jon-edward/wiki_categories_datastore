@@ -1,1 +1,1 @@
-{"name": "Projectile_points", "id": 38298896, "predecessors": [{"name": "Archaeological_artefact_types", "id": 1857908}, {"name": "Primitive_technology", "id": 2311450}], "successors": []}
+{"name": "Projectile_points", "id": 38298896, "predecessors": [{"name": "Archaeological_artefact_types", "id": 1857908}, {"name": "Lithics", "id": 1920350}, {"name": "Primitive_technology", "id": 2311450}], "successors": []}

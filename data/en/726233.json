@@ -1,1 +1,1 @@
-{"name": "Lymphatic_system", "id": 726233, "predecessors": [{"name": "Animal_anatomy", "id": 3120301}, {"name": "Circulatory_system", "id": 26723337}], "successors": []}
+{"name": "Lymphatic_system", "id": 726233, "predecessors": [{"name": "Angiology", "id": 1482803}, {"name": "Animal_anatomy", "id": 3120301}, {"name": "Circulatory_system", "id": 26723337}], "successors": [{"name": "Lymphocytes", "id": 3108858}, {"name": "Lymphatics_of_the_head_and_neck", "id": 21970986}]}

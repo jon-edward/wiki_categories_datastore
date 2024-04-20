@@ -1,1 +1,1 @@
-{"name": "Super_Bowl_of_Poker", "id": 23400394, "predecessors": [{"name": "Poker_tournaments", "id": 1784585}], "successors": [{"name": "Super_Bowl_of_Poker_event_winners", "id": 23390489}]}
+{"name": "Super_Bowl_of_Poker", "id": 23400394, "predecessors": [{"name": "Poker_in_North_America", "id": 45347000}, {"name": "Poker_tournaments", "id": 1784585}], "successors": [{"name": "Super_Bowl_of_Poker_event_winners", "id": 23390489}]}

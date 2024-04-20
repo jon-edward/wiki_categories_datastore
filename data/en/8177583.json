@@ -1,1 +1,1 @@
-{"name": "Sun_Microsystems_software", "id": 8177583, "predecessors": [{"name": "Oracle_software", "id": 7145225}, {"name": "Sun_Microsystems", "id": 699546}], "successors": [{"name": "OpenSolaris", "id": 3790428}, {"name": "OpenOffice", "id": 38052934}]}
+{"name": "Sun_Microsystems_software", "id": 8177583, "predecessors": [{"name": "Oracle_software", "id": 7145225}, {"name": "Sun_Microsystems", "id": 699546}, {"name": "Electronics_industry", "id": 35046850}], "successors": [{"name": "OpenSolaris", "id": 3790428}, {"name": "OpenOffice", "id": 38052934}]}

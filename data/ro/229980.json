@@ -1,1 +1,1 @@
-{"name": "Vehicule_ecologice", "id": 229980, "predecessors": [{"name": "Energie_regenerabilă", "id": 184232}, {"name": "Locomoție", "id": 753834}], "successors": [{"name": "Vehicule_electrice_hibride", "id": 1801718}]}
+{"name": "Vehicule_ecologice", "id": 229980, "predecessors": [{"name": "Locomoție", "id": 753834}], "successors": [{"name": "Vehicule_electrice_hibride", "id": 1801718}]}

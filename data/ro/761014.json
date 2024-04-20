@@ -1,1 +1,1 @@
-{"name": "Șerpi_veninoși", "id": 761014, "predecessors": [{"name": "Animale", "id": 31429}], "successors": [{"name": "Colubridae", "id": 420327}]}
+{"name": "Șerpi_veninoși", "id": 761014, "predecessors": [{"name": "Șerpi", "id": 761013}, {"name": "Animale", "id": 31429}], "successors": [{"name": "Colubridae", "id": 420327}]}

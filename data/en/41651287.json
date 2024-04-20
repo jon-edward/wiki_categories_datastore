@@ -1,1 +1,1 @@
-{"name": "Science_demonstrations", "id": 41651287, "predecessors": [{"name": "Experiments", "id": 9500290}, {"name": "Science_education", "id": 3598507}, {"name": "Science_experiments", "id": 1126634}], "successors": [{"name": "Chemistry_classroom_experiments", "id": 14572989}]}
+{"name": "Science_demonstrations", "id": 41651287, "predecessors": [{"name": "Science_education", "id": 3598507}, {"name": "Science_experiments", "id": 1126634}], "successors": [{"name": "Chemistry_classroom_experiments", "id": 14572989}]}

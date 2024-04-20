@@ -1,1 +1,1 @@
-{"name": "Cooking_fats", "id": 1772241, "predecessors": [{"name": "Cooking", "id": 1003845}, {"name": "Cooking_oils", "id": 774186}], "successors": [{"name": "Butter", "id": 5278799}, {"name": "Vegetable_oils", "id": 5415345}, {"name": "Animal_fats", "id": 7131721}, {"name": "Margarine", "id": 70220686}]}
+{"name": "Cooking_fats", "id": 1772241, "predecessors": [{"name": "Cooking", "id": 1003845}, {"name": "Cooking_oils", "id": 774186}], "successors": [{"name": "Butter", "id": 5278799}, {"name": "Vegetable_oils", "id": 5415345}, {"name": "Margarine", "id": 70220686}]}

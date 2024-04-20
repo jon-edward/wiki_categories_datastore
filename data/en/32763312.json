@@ -1,1 +1,1 @@
-{"name": "Latin_alphabets", "id": 32763312, "predecessors": [{"name": "Alphabets", "id": 36431011}, {"name": "Greek_alphabet", "id": 2047363}, {"name": "Latin_script", "id": 32763338}], "successors": [{"name": "International_Phonetic_Alphabet", "id": 26444094}]}
+{"name": "Latin_alphabets", "id": 32763312, "predecessors": [{"name": "Alphabets", "id": 36431011}, {"name": "Greek_alphabet", "id": 2047363}, {"name": "Latin_script", "id": 32763338}, {"name": "Origins", "id": 29739395}], "successors": [{"name": "International_Phonetic_Alphabet", "id": 26444094}]}

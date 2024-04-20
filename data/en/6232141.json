@@ -1,1 +1,1 @@
-{"name": "Transport_in_the_Canary_Islands", "id": 6232141, "predecessors": [{"name": "Canary_Islands", "id": 953790}], "successors": [{"name": "Transport_in_Tenerife", "id": 34876212}, {"name": "Transport_in_Gran_Canaria", "id": 59835837}]}
+{"name": "Transport_in_the_Canary_Islands", "id": 6232141, "predecessors": [{"name": "Transport_in_Spain", "id": 4732180}, {"name": "Canary_Islands", "id": 953790}], "successors": [{"name": "Transport_in_Tenerife", "id": 34876212}, {"name": "Transport_in_Gran_Canaria", "id": 59835837}]}

@@ -1,1 +1,1 @@
-{"name": "NSL_Cup_finals", "id": 62602974, "predecessors": [{"name": "National_association_football_cups", "id": 29030566}, {"name": "Competitions", "id": 737119}], "successors": []}
+{"name": "NSL_Cup_finals", "id": 62602974, "predecessors": [{"name": "NSL_Cup_seasons", "id": 45568645}, {"name": "National_association_football_cups", "id": 29030566}, {"name": "Meetings", "id": 1261738}], "successors": []}

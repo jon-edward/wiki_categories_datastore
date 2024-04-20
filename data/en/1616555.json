@@ -1,1 +1,1 @@
-{"name": "Leaf_vegetables", "id": 1616555, "predecessors": [{"name": "Leaves", "id": 33748456}, {"name": "Vegetables", "id": 699347}], "successors": [{"name": "Celery", "id": 71133235}]}
+{"name": "Leaf_vegetables", "id": 1616555, "predecessors": [{"name": "Vegetables", "id": 699347}], "successors": [{"name": "Celery", "id": 71133235}]}

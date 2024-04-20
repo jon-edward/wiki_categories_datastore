@@ -1,1 +1,1 @@
-{"name": "Mutineers", "id": 32917759, "predecessors": [{"name": "Mutinies", "id": 3407112}, {"name": "Crime_by_type", "id": 15090762}, {"name": "War", "id": 691877}], "successors": [{"name": "People_executed_for_mutiny", "id": 32917843}, {"name": "HMS_Bounty_mutineers", "id": 32917561}]}
+{"name": "Mutineers", "id": 32917759, "predecessors": [{"name": "Mutinies", "id": 3407112}, {"name": "Crime_by_type", "id": 15090762}, {"name": "Humans", "id": 1784082}], "successors": [{"name": "People_executed_for_mutiny", "id": 32917843}, {"name": "British_mutineers", "id": 41915590}]}

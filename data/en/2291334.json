@@ -1,1 +1,1 @@
-{"name": "Primality_tests", "id": 2291334, "predecessors": [{"name": "Cryptographic_algorithms", "id": 704483}, {"name": "Number_theoretic_algorithms", "id": 704479}, {"name": "Prime_numbers", "id": 925195}, {"name": "Tests", "id": 7058186}], "successors": [{"name": "Pseudoprimes", "id": 4225335}]}
+{"name": "Primality_tests", "id": 2291334, "predecessors": [{"name": "Cryptographic_algorithms", "id": 704483}, {"name": "Prime_numbers", "id": 925195}, {"name": "Tests", "id": 7058186}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Daewoo_vehicles", "id": 2834875, "predecessors": [{"name": "Daewoo", "id": 35527004}], "successors": []}
+{"name": "Daewoo_vehicles", "id": 2834875, "predecessors": [{"name": "Daewoo", "id": 35527004}, {"name": "General_Motors_vehicles", "id": 852440}, {"name": "Manufacturing", "id": 867519}], "successors": []}

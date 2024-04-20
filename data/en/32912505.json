@@ -1,1 +1,1 @@
-{"name": "Australian_powerlifters", "id": 32912505, "predecessors": [{"name": "Weightlifting", "id": 930333}, {"name": "Powerlifting", "id": 4919594}], "successors": [{"name": "Australian_male_bodybuilders", "id": 75310660}]}
+{"name": "Australian_powerlifters", "id": 32912505, "predecessors": [{"name": "Powerlifting", "id": 4919594}, {"name": "Sport_in_Australia", "id": 3020778}], "successors": [{"name": "Paralympic_powerlifters_for_Australia", "id": 32912496}, {"name": "Australian_male_bodybuilders", "id": 75310660}]}

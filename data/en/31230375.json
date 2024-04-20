@@ -1,1 +1,1 @@
-{"name": "Olympic_curling_venues", "id": 31230375, "predecessors": [{"name": "Curling_venues", "id": 31351298}, {"name": "Event_management", "id": 38591267}], "successors": []}
+{"name": "Olympic_curling_venues", "id": 31230375, "predecessors": [{"name": "Curling_at_the_Winter_Olympics", "id": 33839731}, {"name": "Curling_venues", "id": 31351298}], "successors": []}

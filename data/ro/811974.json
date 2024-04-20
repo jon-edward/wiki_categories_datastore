@@ -1,1 +1,1 @@
-{"name": "Motociclete", "id": 811974, "predecessors": [{"name": "Vehicule_pe_roți", "id": 910417}, {"name": "Vehicule_rutiere", "id": 225538}], "successors": [{"name": "Constructori_de_motociclete", "id": 123039}]}
+{"name": "Motociclete", "id": 811974, "predecessors": [{"name": "Vehicule_pe_roți", "id": 910417}, {"name": "Vehicule_rutiere", "id": 225538}], "successors": [{"name": "Constructori_de_motociclete", "id": 123039}, {"name": "Tehnologie_de_motocicletă", "id": 910401}]}

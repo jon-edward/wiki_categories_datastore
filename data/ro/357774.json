@@ -1,1 +1,1 @@
-{"name": "Aparate_menajere", "id": 357774, "predecessors": [{"name": "Obiecte_casnice", "id": 349578}, {"name": "Bunuri", "id": 32286}], "successors": [{"name": "Aparate_electrocasnice", "id": 989332}]}
+{"name": "Aparate_menajere", "id": 357774, "predecessors": [{"name": "Obiecte_casnice", "id": 349578}, {"name": "Bunuri", "id": 32286}, {"name": "Instrumente", "id": 129233}], "successors": [{"name": "Aparate_electrocasnice", "id": 989332}]}

@@ -1,1 +1,1 @@
-{"name": "Cars_powered_by_Wankel_engines", "id": 38952872, "predecessors": [{"name": "Automobile_engines", "id": 773958}, {"name": "Engines", "id": 743017}, {"name": "Internal_combustion_engine", "id": 15024245}], "successors": []}
+{"name": "Cars_powered_by_Wankel_engines", "id": 38952872, "predecessors": [{"name": "Automobile_engines", "id": 773958}, {"name": "Car_models", "id": 13698345}, {"name": "Internal_combustion_engine", "id": 15024245}], "successors": []}

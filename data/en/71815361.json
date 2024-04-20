@@ -1,1 +1,1 @@
-{"name": "68k-based_computers", "id": 71815361, "predecessors": [{"name": "32-bit_computers", "id": 61596791}, {"name": "Computers", "id": 4583997}], "successors": [{"name": "68k_Macintosh_computers", "id": 7356845}, {"name": "68000-based_home_computers", "id": 41188440}]}
+{"name": "68k-based_computers", "id": 71815361, "predecessors": [{"name": "68k_architecture", "id": 58074291}, {"name": "Computers", "id": 4583997}], "successors": [{"name": "68k_Macintosh_computers", "id": 7356845}, {"name": "68000-based_home_computers", "id": 41188440}]}

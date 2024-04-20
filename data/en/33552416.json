@@ -1,1 +1,1 @@
-{"name": "Zeppelins", "id": 33552416, "predecessors": [{"name": "Airships_of_Germany", "id": 3076307}], "successors": [{"name": "LZ_129_Hindenburg", "id": 26101323}]}
+{"name": "Zeppelins", "id": 33552416, "predecessors": [{"name": "Airships_of_Germany", "id": 3076307}, {"name": "Hydrogen_technologies", "id": 6850141}, {"name": "Rigid_airships", "id": 34178199}], "successors": [{"name": "LZ_129_Hindenburg", "id": 26101323}]}

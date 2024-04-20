@@ -1,1 +1,1 @@
-{"name": "Baseball_player-managers", "id": 42976828, "predecessors": [{"name": "Baseball_managers", "id": 846062}, {"name": "Player-coaches", "id": 4113954}, {"name": "Baseball_people", "id": 24149961}], "successors": [{"name": "Major_League_Baseball_player-managers", "id": 42976838}]}
+{"name": "Baseball_player-managers", "id": 42976828, "predecessors": [{"name": "Baseball_managers", "id": 846062}, {"name": "Baseball_people", "id": 24149961}], "successors": [{"name": "Major_League_Baseball_player-managers", "id": 42976838}]}

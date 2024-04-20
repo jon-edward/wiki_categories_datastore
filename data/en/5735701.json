@@ -1,1 +1,1 @@
-{"name": "Canadian_pacifists", "id": 5735701, "predecessors": [{"name": "Anti-war_activists", "id": 4694300}], "successors": [{"name": "Canadian_Christian_pacifists", "id": 17154023}, {"name": "Québec_solidaire_MNAs", "id": 29963703}]}
+{"name": "Canadian_pacifists", "id": 5735701, "predecessors": [{"name": "Canadian_anti-war_activists", "id": 5735703}, {"name": "Anti-war_activists", "id": 4694300}, {"name": "North_America", "id": 878995}], "successors": [{"name": "Canadian_Christian_pacifists", "id": 17154023}]}

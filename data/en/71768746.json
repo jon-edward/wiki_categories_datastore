@@ -1,1 +1,1 @@
-{"name": "German_test_pilots", "id": 71768746, "predecessors": [{"name": "Product_testing", "id": 28014246}], "successors": []}
+{"name": "German_test_pilots", "id": 71768746, "predecessors": [{"name": "German_aviators", "id": 4198234}, {"name": "Product_testing", "id": 28014246}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Drum_machines", "id": 757744, "predecessors": [{"name": "Drums", "id": 694088}, {"name": "Electronic_musical_instruments", "id": 32662293}, {"name": "Music_sequencers", "id": 33710294}], "successors": []}
+{"name": "Drum_machines", "id": 757744, "predecessors": [{"name": "Drums", "id": 694088}, {"name": "Electronic_musical_instruments", "id": 32662293}, {"name": "Music_sequencers", "id": 33710294}], "successors": [{"name": "Roland_drum_machines", "id": 38663880}]}

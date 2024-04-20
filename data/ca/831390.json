@@ -1,1 +1,1 @@
-{"name": "Fitopatologia", "id": 831390, "predecessors": [{"name": "Agricultura", "id": 19909}, {"name": "Botànica", "id": 13072}], "successors": [{"name": "Fitovirus", "id": 864600}, {"name": "Corcs", "id": 1251384}]}
+{"name": "Fitopatologia", "id": 831390, "predecessors": [{"name": "Agricultura", "id": 19909}, {"name": "Botànica", "id": 13072}], "successors": [{"name": "Fitovirus", "id": 864600}, {"name": "Plagues", "id": 1039880}, {"name": "Corcs", "id": 1251384}]}

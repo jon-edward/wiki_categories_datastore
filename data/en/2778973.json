@@ -1,1 +1,1 @@
-{"name": "Interstellar_media", "id": 2778973, "predecessors": [{"name": "Outer_space", "id": 36093771}, {"name": "Space_plasmas", "id": 1848476}, {"name": "Stellar_astronomy", "id": 11088504}], "successors": [{"name": "Local_Bubble", "id": 43125546}]}
+{"name": "Interstellar_media", "id": 2778973, "predecessors": [{"name": "Outer_space", "id": 36093771}], "successors": [{"name": "Local_Bubble", "id": 43125546}, {"name": "Alpha_Centauri", "id": 40087349}]}

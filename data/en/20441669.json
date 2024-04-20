@@ -1,1 +1,1 @@
-{"name": "Bionics", "id": 20441669, "predecessors": [{"name": "Branches_of_biology", "id": 37535091}, {"name": "Engineering_disciplines", "id": 9930194}], "successors": []}
+{"name": "Bionics", "id": 20441669, "predecessors": [{"name": "Engineering_disciplines", "id": 9930194}], "successors": [{"name": "Biomimetics", "id": 67371330}]}

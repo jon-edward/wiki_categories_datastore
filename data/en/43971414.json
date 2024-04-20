@@ -1,1 +1,1 @@
-{"name": "Naval_war_paintings", "id": 43971414, "predecessors": [{"name": "Maritime_paintings", "id": 18400982}, {"name": "War_paintings", "id": 43023012}, {"name": "Naval_history", "id": 1184827}], "successors": []}
+{"name": "Naval_war_paintings", "id": 43971414, "predecessors": [{"name": "Maritime_paintings", "id": 18400982}, {"name": "Naval_warfare", "id": 1054971}, {"name": "War_paintings", "id": 43023012}, {"name": "Naval_history", "id": 1184827}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Tourist_attractions_in_Dresden", "id": 5690122, "predecessors": [{"name": "Dresden", "id": 1954801}], "successors": [{"name": "Museums_in_Dresden", "id": 30654326}]}
+{"name": "Tourist_attractions_in_Dresden", "id": 5690122, "predecessors": [{"name": "Dresden", "id": 1954801}, {"name": "Tourism_in_Germany", "id": 2645584}], "successors": [{"name": "Museums_in_Dresden", "id": 30654326}]}

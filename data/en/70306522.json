@@ -1,1 +1,1 @@
-{"name": "Quantitative_genetics", "id": 70306522, "predecessors": [{"name": "Genetics", "id": 696008}, {"name": "Population_genetics", "id": 703506}, {"name": "Branches_of_biology", "id": 37535091}], "successors": [{"name": "Twin_studies", "id": 31438425}, {"name": "Genetics_studies", "id": 60178686}]}
+{"name": "Quantitative_genetics", "id": 70306522, "predecessors": [{"name": "Population_genetics", "id": 703506}, {"name": "Statistical_genetics", "id": 17320709}], "successors": [{"name": "Twin_studies", "id": 31438425}, {"name": "Genetics_studies", "id": 60178686}]}

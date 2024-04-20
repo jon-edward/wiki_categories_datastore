@@ -1,1 +1,1 @@
-{"name": "Microbiological_media", "id": 8804906, "predecessors": [{"name": "Microbiology_equipment", "id": 8804070}], "successors": []}
+{"name": "Microbiological_media", "id": 8804906, "predecessors": [{"name": "Microbial_growth_and_nutrition", "id": 8805532}, {"name": "Microbiology_equipment", "id": 8804070}], "successors": []}

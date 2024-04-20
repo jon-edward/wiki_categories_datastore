@@ -1,1 +1,1 @@
-{"name": "Transport_in_Ho_Chi_Minh_City", "id": 29894488, "predecessors": [{"name": "Ho_Chi_Minh", "id": 32836239}], "successors": [{"name": "Streets_in_Ho_Chi_Minh_City", "id": 57335391}, {"name": "Ho_Chi_Minh_City_Metro_stations", "id": 71652717}]}
+{"name": "Transport_in_Ho_Chi_Minh_City", "id": 29894488, "predecessors": [{"name": "Transport_in_Vietnam", "id": 28646201}, {"name": "Economy_of_Vietnam", "id": 2690394}], "successors": [{"name": "Ho_Chi_Minh_City_Metro_stations", "id": 71652717}]}

@@ -1,1 +1,1 @@
-{"name": "Screen_Awards", "id": 42060336, "predecessors": [{"name": "Bollywood_film_awards", "id": 38212349}], "successors": [{"name": "Screen_Awards_winners", "id": 42135821}, {"name": "Screen_Awards_navigational_boxes", "id": 65681465}]}
+{"name": "Screen_Awards", "id": 42060336, "predecessors": [{"name": "Bollywood_film_awards", "id": 38212349}, {"name": "Indian_film_awards", "id": 10012051}], "successors": [{"name": "Screen_Awards_winners", "id": 42135821}, {"name": "Screen_Awards_navigational_boxes", "id": 65681465}]}

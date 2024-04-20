@@ -1,1 +1,1 @@
-{"name": "Boxing_managers", "id": 3102854, "predecessors": [{"name": "Boxing_people", "id": 24191384}, {"name": "Sports_coaches", "id": 17908961}], "successors": [{"name": "American_boxing_managers", "id": 4129132}]}
+{"name": "Boxing_managers", "id": 3102854, "predecessors": [{"name": "Managers", "id": 73279601}], "successors": [{"name": "American_boxing_managers", "id": 4129132}]}

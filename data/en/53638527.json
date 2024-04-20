@@ -1,1 +1,1 @@
-{"name": "Dining_events", "id": 53638527, "predecessors": [{"name": "Food_and_drink", "id": 694860}, {"name": "Cuisine", "id": 713870}], "successors": [{"name": "Eating_parties", "id": 39565398}]}
+{"name": "Dining_events", "id": 53638527, "predecessors": [{"name": "Food_and_drink", "id": 694860}], "successors": [{"name": "Eating_parties", "id": 39565398}]}

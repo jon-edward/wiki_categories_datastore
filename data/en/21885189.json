@@ -1,1 +1,1 @@
-{"name": "Eggs_(food)", "id": 21885189, "predecessors": [{"name": "Animal_products", "id": 2304680}, {"name": "Poultry", "id": 757493}, {"name": "Food_and_drink", "id": 694860}], "successors": [{"name": "Egg_dishes", "id": 18292499}]}
+{"name": "Eggs_(food)", "id": 21885189, "predecessors": [{"name": "Animal_products", "id": 2304680}, {"name": "Eggs", "id": 15319466}, {"name": "Poultry", "id": 757493}], "successors": [{"name": "Egg_dishes", "id": 18292499}]}

@@ -1,1 +1,1 @@
-{"name": "Sisteme_de_navigație_prin_satelit", "id": 760074, "predecessors": [{"name": "Navigație", "id": 754416}], "successors": [{"name": "GPS", "id": 213669}]}
+{"name": "Sisteme_de_navigație_prin_satelit", "id": 760074, "predecessors": [{"name": "Navigație", "id": 754416}], "successors": [{"name": "GPS", "id": 213669}, {"name": "SBAS", "id": 1955957}]}

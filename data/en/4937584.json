@@ -1,1 +1,1 @@
-{"name": "Chinese_songs", "id": 4937584, "predecessors": [{"name": "Chinese_music", "id": 722397}], "successors": [{"name": "Chinese_folk_songs", "id": 8900342}, {"name": "Chinese_patriotic_songs", "id": 28214894}]}
+{"name": "Chinese_songs", "id": 4937584, "predecessors": [{"name": "Chinese_music", "id": 722397}, {"name": "Arts_in_China", "id": 3081438}], "successors": [{"name": "Chinese_folk_songs", "id": 8900342}, {"name": "Chinese_patriotic_songs", "id": 28214894}]}

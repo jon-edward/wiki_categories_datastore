@@ -1,1 +1,1 @@
-{"name": "Playground_equipment", "id": 38908773, "predecessors": [{"name": "Outdoor_structures", "id": 53779402}, {"name": "Manufactured_goods", "id": 699552}], "successors": []}
+{"name": "Playground_equipment", "id": 38908773, "predecessors": [{"name": "Equipment", "id": 3228046}, {"name": "Outdoor_structures", "id": 53779402}, {"name": "Playgrounds", "id": 21789104}], "successors": []}

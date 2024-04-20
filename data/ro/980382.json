@@ -1,1 +1,1 @@
-{"name": "Fracții", "id": 980382, "predecessors": [{"name": "Aritmetică", "id": 31767}], "successors": [{"name": "Rapoarte", "id": 2915742}, {"name": "Numere_întregi", "id": 450208}]}
+{"name": "Fracții", "id": 980382, "predecessors": [{"name": "Aritmetică", "id": 31767}], "successors": [{"name": "Numere_raționale", "id": 837297}, {"name": "Rapoarte", "id": 2915742}]}

@@ -1,1 +1,1 @@
-{"name": "Genome_databases", "id": 65796208, "predecessors": [{"name": "Genetics_databases", "id": 60187498}, {"name": "Genomics_organizations", "id": 62383653}], "successors": []}
+{"name": "Genome_databases", "id": 65796208, "predecessors": [{"name": "Genetics_databases", "id": 60187498}, {"name": "Genomics_organizations", "id": 62383653}], "successors": [{"name": "Model_organism_databases", "id": 18425002}]}

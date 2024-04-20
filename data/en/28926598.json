@@ -1,1 +1,1 @@
-{"name": "KBO_League_right_fielders", "id": 28926598, "predecessors": [{"name": "KBO_League_outfielders", "id": 28926627}, {"name": "Baseball_positions", "id": 705060}], "successors": []}
+{"name": "KBO_League_right_fielders", "id": 28926598, "predecessors": [{"name": "KBO_League_outfielders", "id": 28926627}, {"name": "KBO_League_players", "id": 27467097}], "successors": []}

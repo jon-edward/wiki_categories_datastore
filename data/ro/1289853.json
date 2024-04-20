@@ -1,1 +1,1 @@
-{"name": "Cercetare_medicală", "id": 1289853, "predecessors": [{"name": "Cercetare", "id": 176748}, {"name": "Medicină", "id": 16098}], "successors": []}
+{"name": "Cercetare_medicală", "id": 1289853, "predecessors": [{"name": "Cercetare", "id": 176748}, {"name": "Medicină", "id": 16098}], "successors": [{"name": "Cercetare_și_dezvoltare_de_medicamente", "id": 889477}]}

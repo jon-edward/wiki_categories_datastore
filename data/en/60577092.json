@@ -1,1 +1,1 @@
-{"name": "Yoga_merchandise", "id": 60577092, "predecessors": [{"name": "Merchandise", "id": 21020766}, {"name": "Yoga_as_exercise", "id": 61339745}], "successors": []}
+{"name": "Yoga_merchandise", "id": 60577092, "predecessors": [{"name": "Exercise_equipment", "id": 1099621}, {"name": "Merchandise", "id": 21020766}, {"name": "Yoga_as_exercise", "id": 61339745}], "successors": []}

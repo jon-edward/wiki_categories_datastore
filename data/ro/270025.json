@@ -1,1 +1,1 @@
-{"name": "Furnici", "id": 270025, "predecessors": [{"name": "Familii_de_insecte", "id": 1123134}, {"name": "Animale", "id": 31429}], "successors": []}
+{"name": "Furnici", "id": 270025, "predecessors": [{"name": "Familii_de_insecte", "id": 1123134}, {"name": "Vespoidea", "id": 857576}], "successors": [{"name": "Subfamilii_de_furnici", "id": 2568343}, {"name": "Genuri_de_furnici", "id": 2569106}, {"name": "Taxoni_de_furnici_fosile", "id": 2609136}]}

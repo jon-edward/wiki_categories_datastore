@@ -1,1 +1,1 @@
-{"name": "Sailing_magazines", "id": 10998469, "predecessors": [{"name": "Sports_magazines", "id": 1118385}], "successors": []}
+{"name": "Sailing_magazines", "id": 10998469, "predecessors": [{"name": "Boating_magazines", "id": 33968323}, {"name": "Sports_magazines", "id": 1118385}, {"name": "Sailing", "id": 894884}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Judiciary_of_Pakistan", "id": 34653366, "predecessors": [{"name": "Judiciaries", "id": 4683914}], "successors": []}
+{"name": "Judiciary_of_Pakistan", "id": 34653366, "predecessors": [{"name": "Government_of_Pakistan", "id": 994467}, {"name": "Law_of_Pakistan", "id": 3409592}, {"name": "Judiciaries", "id": 4683914}], "successors": [{"name": "Pakistani_judges", "id": 2523122}, {"name": "Court_system_of_Pakistan", "id": 4399132}, {"name": "Chief_Justices_of_Pakistan", "id": 15139240}]}

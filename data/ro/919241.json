@@ -1,1 +1,1 @@
-{"name": "Boli_vasculare", "id": 919241, "predecessors": [{"name": "Boli_ale_sistemului_cardio-vascular", "id": 876584}], "successors": [{"name": "Antihipertensive", "id": 1995170}]}
+{"name": "Boli_vasculare", "id": 919241, "predecessors": [{"name": "Boli_ale_sistemului_cardio-vascular", "id": 876584}], "successors": [{"name": "Hipertensiune", "id": 919242}, {"name": "Boli_cerebrovasculare", "id": 1243642}]}

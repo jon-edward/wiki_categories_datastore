@@ -1,1 +1,1 @@
-{"name": "Railway_lines_in_Spain", "id": 21149566, "predecessors": [{"name": "Railway_lines", "id": 1195239}], "successors": []}
+{"name": "Railway_lines_in_Spain", "id": 21149566, "predecessors": [{"name": "Railway_lines", "id": 1195239}, {"name": "Economy_of_Spain", "id": 1298602}], "successors": [{"name": "High-speed_railway_lines_in_Spain", "id": 21149587}, {"name": "Standard_gauge_railways_in_Spain", "id": 36726354}, {"name": "Railway_lines_in_Catalonia", "id": 36934765}, {"name": "Templates_for_railway_lines_in_Spain", "id": 49159651}]}

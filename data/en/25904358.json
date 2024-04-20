@@ -1,1 +1,1 @@
-{"name": "Duchesses_of_Savoy", "id": 25904358, "predecessors": [{"name": "House_of_Savoy", "id": 1065153}], "successors": []}
+{"name": "Duchesses_of_Savoy", "id": 25904358, "predecessors": [{"name": "Duchesses_in_Italy", "id": 18223694}, {"name": "House_of_Savoy", "id": 1065153}, {"name": "Duchy_of_Savoy", "id": 54164209}], "successors": [{"name": "Regents_of_Savoy", "id": 28196406}]}

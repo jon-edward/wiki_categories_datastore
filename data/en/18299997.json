@@ -1,1 +1,1 @@
-{"name": "Burials_in_Belgium", "id": 18299997, "predecessors": [{"name": "Death", "id": 921954}], "successors": []}
+{"name": "Burials_in_Belgium", "id": 18299997, "predecessors": [{"name": "Benelux", "id": 33481662}, {"name": "Health_in_Europe", "id": 29366955}], "successors": [{"name": "Burials_at_Ixelles_Cemetery", "id": 37860738}, {"name": "Burials_at_Laeken_Cemetery", "id": 37861028}, {"name": "Burials_at_Brussels_Cemetery", "id": 47763540}, {"name": "Burials_at_Lijssenthoek_Military_Cemetery", "id": 66314165}, {"name": "Cemeteries_in_Belgium", "id": 2052794}]}

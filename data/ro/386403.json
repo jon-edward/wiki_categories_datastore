@@ -1,1 +1,1 @@
-{"name": "Scriitori_muntenegreni", "id": 386403, "predecessors": [{"name": "Autori", "id": 265623}, {"name": "Muntenegreni", "id": 175015}], "successors": [{"name": "Romancieri_muntenegreni", "id": 386404}]}
+{"name": "Scriitori_muntenegreni", "id": 386403, "predecessors": [{"name": "Scriitori", "id": 16833}, {"name": "Muntenegreni", "id": 175015}], "successors": [{"name": "Romancieri_muntenegreni", "id": 386404}]}

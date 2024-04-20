@@ -1,1 +1,1 @@
-{"name": "Irish_racehorse_trainers", "id": 72042547, "predecessors": [{"name": "Animal_trainers", "id": 13948060}, {"name": "Horse_racing", "id": 866747}], "successors": []}
+{"name": "Irish_racehorse_trainers", "id": 72042547, "predecessors": [{"name": "Horse_racing_in_Ireland", "id": 17478740}, {"name": "Working_horses", "id": 16288787}, {"name": "Economy_of_Europe", "id": 12835583}], "successors": []}

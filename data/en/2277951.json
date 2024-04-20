@@ -1,1 +1,1 @@
-{"name": "Rescue_equipment", "id": 2277951, "predecessors": [{"name": "Rescue", "id": 1013590}, {"name": "Safety_equipment", "id": 1206445}], "successors": [{"name": "Lifeboats", "id": 4345333}, {"name": "Submarine_rescue_ships", "id": 42576094}]}
+{"name": "Rescue_equipment", "id": 2277951, "predecessors": [{"name": "Rescue", "id": 1013590}, {"name": "Safety_equipment", "id": 1206445}], "successors": [{"name": "Lifeboats", "id": 4345333}, {"name": "Submarine_rescue_equipment", "id": 33671252}]}

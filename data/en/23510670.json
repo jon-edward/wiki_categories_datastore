@@ -1,1 +1,1 @@
-{"name": "Newspapers_published_in_Boston", "id": 23510670, "predecessors": [{"name": "Mass_media_in_Boston", "id": 16134183}], "successors": [{"name": "The_Boston_Globe", "id": 30652337}, {"name": "Boston_Herald_people", "id": 67125410}]}
+{"name": "Newspapers_published_in_Boston", "id": 23510670, "predecessors": [{"name": "Mass_media_in_Boston", "id": 16134183}, {"name": "Newspapers_published_in_Massachusetts", "id": 6268134}], "successors": []}

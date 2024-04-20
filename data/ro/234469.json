@@ -1,1 +1,1 @@
-{"name": "Sphingidae", "id": 234469, "predecessors": [{"name": "Familii_de_insecte", "id": 1123134}], "successors": []}
+{"name": "Sphingidae", "id": 234469, "predecessors": [{"name": "Bombycoidea", "id": 1279370}, {"name": "Familii_de_insecte", "id": 1123134}], "successors": [{"name": "Acherontiini", "id": 1279655}, {"name": "Macroglossinae", "id": 1280207}, {"name": "Cautethia", "id": 1912647}]}

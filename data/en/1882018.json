@@ -1,1 +1,1 @@
-{"name": "Routing_algorithms", "id": 1882018, "predecessors": [{"name": "Algorithms", "id": 691136}, {"name": "Networking_algorithms", "id": 12026628}, {"name": "Routing", "id": 1882006}, {"name": "Search_algorithms", "id": 1406201}], "successors": []}
+{"name": "Routing_algorithms", "id": 1882018, "predecessors": [{"name": "Algorithms", "id": 691136}, {"name": "Networking_algorithms", "id": 12026628}, {"name": "Routing", "id": 1882006}], "successors": []}

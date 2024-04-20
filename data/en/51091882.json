@@ -1,1 +1,1 @@
-{"name": "Beach_sports_competitions", "id": 51091882, "predecessors": [{"name": "Competitions", "id": 737119}], "successors": [{"name": "Beach_volleyball_competitions", "id": 11325136}, {"name": "Beach_handball_competitions", "id": 51092015}]}
+{"name": "Beach_sports_competitions", "id": 51091882, "predecessors": [{"name": "Beach_sports", "id": 28483666}, {"name": "Competitions", "id": 737119}], "successors": [{"name": "Beach_volleyball_competitions", "id": 11325136}, {"name": "Beach_handball_competitions", "id": 51092015}]}

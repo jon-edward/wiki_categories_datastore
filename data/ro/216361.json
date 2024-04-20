@@ -1,1 +1,1 @@
-{"name": "Plante_textile", "id": 216361, "predecessors": [{"name": "Fibre", "id": 1161787}], "successors": []}
+{"name": "Plante_textile", "id": 216361, "predecessors": [{"name": "Fibre", "id": 1161787}, {"name": "Plante_tehnice", "id": 212312}], "successors": []}

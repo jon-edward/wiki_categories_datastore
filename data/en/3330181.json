@@ -1,1 +1,1 @@
-{"name": "TRS-80_Color_Computer", "id": 3330181, "predecessors": [{"name": "Home_computers", "id": 707669}, {"name": "TRS-80", "id": 16369241}, {"name": "Computers", "id": 4583997}], "successors": []}
+{"name": "TRS-80_Color_Computer", "id": 3330181, "predecessors": [{"name": "Home_computers", "id": 707669}, {"name": "TRS-80", "id": 16369241}, {"name": "Computers", "id": 4583997}], "successors": [{"name": "TRS-80_Color_Computer_games", "id": 2418875}]}

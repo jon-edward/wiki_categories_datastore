@@ -1,1 +1,1 @@
-{"name": "MPEG", "id": 1573444, "predecessors": [{"name": "Standarde_ISO", "id": 110180}, {"name": "Standarde_internaționale", "id": 1522443}], "successors": []}
+{"name": "MPEG", "id": 1573444, "predecessors": [{"name": "Multimedia", "id": 1558281}, {"name": "Standarde_IEC", "id": 1882792}, {"name": "Standarde_ISO", "id": 110180}], "successors": []}

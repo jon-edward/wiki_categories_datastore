@@ -1,1 +1,1 @@
-{"name": "Mașini_simple", "id": 753898, "predecessors": [{"name": "Mașini", "id": 753896}, {"name": "Mecanică_clasică", "id": 106222}], "successors": []}
+{"name": "Mașini_simple", "id": 753898, "predecessors": [{"name": "Mașini", "id": 753896}, {"name": "Mecanică_clasică", "id": 106222}, {"name": "Unelte", "id": 129232}], "successors": []}

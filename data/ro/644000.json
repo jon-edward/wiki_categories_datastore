@@ -1,1 +1,1 @@
-{"name": "Echipament_medical", "id": 644000, "predecessors": [{"name": "Echipament", "id": 175464}, {"name": "Medicină", "id": 16098}], "successors": [{"name": "Proteze", "id": 891134}]}
+{"name": "Echipament_medical", "id": 644000, "predecessors": [{"name": "Echipament", "id": 175464}, {"name": "Medicină", "id": 16098}], "successors": [{"name": "Echipament_stomatologic", "id": 119314}, {"name": "Proteze", "id": 891134}, {"name": "Dispozitive_medicale", "id": 2516957}]}

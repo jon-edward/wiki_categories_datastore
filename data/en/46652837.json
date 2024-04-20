@@ -1,1 +1,1 @@
-{"name": "British_stamp_dealers", "id": 46652837, "predecessors": [{"name": "Stamp_dealers", "id": 21820207}], "successors": []}
+{"name": "British_stamp_dealers", "id": 46652837, "predecessors": [{"name": "British_merchants", "id": 4757854}, {"name": "Stamp_dealers", "id": 21820207}], "successors": []}

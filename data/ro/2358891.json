@@ -1,1 +1,1 @@
-{"name": "Frecvențe_radio", "id": 2358891, "predecessors": [{"name": "Spectru_electromagnetic", "id": 293342}, {"name": "Radiație_electromagnetică", "id": 759608}], "successors": [{"name": "Radar", "id": 191752}]}
+{"name": "Frecvențe_radio", "id": 2358891, "predecessors": [{"name": "Propagarea_undelor_radio", "id": 1248594}, {"name": "Spectru_electromagnetic", "id": 293342}], "successors": [{"name": "Microunde", "id": 1921307}]}

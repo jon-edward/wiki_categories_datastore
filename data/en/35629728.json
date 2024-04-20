@@ -1,1 +1,1 @@
-{"name": "American_electricians", "id": 35629728, "predecessors": [{"name": "Electricians", "id": 16131765}], "successors": []}
+{"name": "American_electricians", "id": 35629728, "predecessors": [{"name": "American_builders", "id": 47283815}, {"name": "Electricians", "id": 16131765}], "successors": []}

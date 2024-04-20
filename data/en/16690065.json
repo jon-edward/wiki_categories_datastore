@@ -1,1 +1,1 @@
-{"name": "DFB-Pokal", "id": 16690065, "predecessors": [{"name": "Football_cup_competitions_in_Germany", "id": 32259931}, {"name": "National_association_football_cups", "id": 29030566}], "successors": [{"name": "DFB-Pokal_finals", "id": 35550421}]}
+{"name": "DFB-Pokal", "id": 16690065, "predecessors": [{"name": "Football_cup_competitions_in_Germany", "id": 32259931}, {"name": "National_association_football_cups", "id": 29030566}], "successors": [{"name": "DFB-Pokal_finals", "id": 35550421}, {"name": "DFB-Pokal_seasons", "id": 38639553}]}

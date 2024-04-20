@@ -1,1 +1,1 @@
-{"name": "Pisciculturists", "id": 41046050, "predecessors": [{"name": "People_in_food_and_agriculture_occupations", "id": 1223913}], "successors": []}
+{"name": "Pisciculturists", "id": 41046050, "predecessors": [{"name": "Fish_farming", "id": 70392049}, {"name": "Fisheries_scientists", "id": 69648494}, {"name": "People_in_food_and_agriculture_occupations", "id": 1223913}], "successors": []}

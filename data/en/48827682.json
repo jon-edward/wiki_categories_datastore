@@ -1,1 +1,1 @@
-{"name": "Transport_in_the_Alps", "id": 48827682, "predecessors": [{"name": "Alps", "id": 757555}], "successors": [{"name": "Tunnels_in_the_Alps", "id": 48827439}]}
+{"name": "Transport_in_the_Alps", "id": 48827682, "predecessors": [{"name": "Alps", "id": 757555}, {"name": "Transport_in_Europe", "id": 4857435}, {"name": "Transport", "id": 5523119}], "successors": [{"name": "Tunnels_in_the_Alps", "id": 48827439}]}

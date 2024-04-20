@@ -1,1 +1,0 @@
-{"name": "Hochspannungsfreileitung", "id": 5366325, "predecessors": [{"name": "Elektrische_Leitung", "id": 598735}, {"name": "Elektrische_Energieverteilung", "id": 4036611}], "successors": [{"name": "Freileitungskreuzung", "id": 4051280}, {"name": "Hochspannungsfreileitung_in_Deutschland", "id": 5365436}, {"name": "Hochspannungsfreileitung_in_der_Schweiz", "id": 5366139}]}

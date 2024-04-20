@@ -1,1 +1,1 @@
-{"name": "Magic_tricks", "id": 2952677, "predecessors": [{"name": "Circus_skills", "id": 949006}, {"name": "Magic_(illusion)", "id": 2620492}, {"name": "Skills", "id": 1079731}], "successors": [{"name": "Card_tricks", "id": 2952685}, {"name": "Escapologists", "id": 9808290}]}
+{"name": "Magic_tricks", "id": 2952677, "predecessors": [{"name": "Circus_skills", "id": 949006}, {"name": "Magic_(illusion)", "id": 2620492}], "successors": [{"name": "Card_tricks", "id": 2952685}, {"name": "Escapologists", "id": 9808290}]}

@@ -1,0 +1,1 @@
+{"name": "Linux_package_management-related_software", "id": 30221837, "predecessors": [{"name": "Unix_package_management-related_software", "id": 25606518}, {"name": "Linux_software", "id": 9519323}], "successors": [{"name": "Dpkg", "id": 3565967}]}

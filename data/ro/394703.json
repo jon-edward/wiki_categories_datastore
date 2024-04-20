@@ -1,1 +1,1 @@
-{"name": "Gări_din_Germania", "id": 394703, "predecessors": [{"name": "Transport_feroviar_după_țară", "id": 876764}], "successors": []}
+{"name": "Gări_din_Germania", "id": 394703, "predecessors": [{"name": "Transportul_feroviar_în_Germania", "id": 1184211}, {"name": "Transport_feroviar_după_țară", "id": 876764}], "successors": [{"name": "Gări_din_Berlin", "id": 592700}]}

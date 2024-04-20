@@ -1,1 +1,0 @@
-{"name": "Blutbild", "id": 3478026, "predecessors": [{"name": "Blut", "id": 12232268}, {"name": "Diagnostisches_Verfahren_in_der_Inneren_Medizin", "id": 3032321}, {"name": "Labormedizinisches_Untersuchungsverfahren", "id": 3032354}, {"name": "Tiermedizinische_Diagnostik", "id": 2680880}], "successors": [{"name": "Anämie", "id": 8781991}]}

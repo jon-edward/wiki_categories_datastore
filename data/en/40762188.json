@@ -1,1 +1,1 @@
-{"name": "Bombardier_Aerospace_aircraft", "id": 40762188, "predecessors": [{"name": "Aviation", "id": 735378}], "successors": [{"name": "Learjet_aircraft", "id": 7775664}, {"name": "De_Havilland_Canada_aircraft", "id": 17673463}, {"name": "Canadair_aircraft", "id": 21598928}]}
+{"name": "Bombardier_Aerospace_aircraft", "id": 40762188, "predecessors": [{"name": "Aviation_in_Canada", "id": 2005607}, {"name": "Countries_in_North_America", "id": 37691698}], "successors": [{"name": "Learjet_aircraft", "id": 7775664}, {"name": "De_Havilland_Canada_aircraft", "id": 17673463}]}

@@ -1,0 +1,1 @@
+{"name": "Unmanned_ground_vehicles", "id": 11052817, "predecessors": [{"name": "Uncrewed_vehicles", "id": 2386176}, {"name": "Land_transport", "id": 34296861}], "successors": [{"name": "Unmanned_ground_combat_vehicles", "id": 11053600}, {"name": "Planetary_rovers", "id": 17625851}, {"name": "Self-driving_cars", "id": 40512224}]}

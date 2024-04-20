@@ -1,0 +1,1 @@
+{"name": "Hematology", "id": 693583, "predecessors": [{"name": "Blood", "id": 968308}, {"name": "Medical_specialties", "id": 1449968}], "successors": [{"name": "Blood_disorders", "id": 2856069}, {"name": "Blood_tests", "id": 4262351}, {"name": "Blood_donation", "id": 31511076}, {"name": "Hematopoiesis", "id": 32636203}, {"name": "Hemoglobins", "id": 32636566}]}

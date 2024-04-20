@@ -1,1 +1,1 @@
-{"name": "Bat_taxonomy", "id": 49483808, "predecessors": [{"name": "Bats", "id": 922846}], "successors": []}
+{"name": "Bat_taxonomy", "id": 49483808, "predecessors": [{"name": "Bats", "id": 922846}], "successors": [{"name": "Bat_genera", "id": 13857711}, {"name": "Bat_families", "id": 49483799}]}

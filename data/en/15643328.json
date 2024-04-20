@@ -1,1 +1,1 @@
-{"name": "Fuel_cell_buses", "id": 15643328, "predecessors": [{"name": "Fuel_cell_vehicles", "id": 1252099}], "successors": []}
+{"name": "Fuel_cell_buses", "id": 15643328, "predecessors": [{"name": "Buses_by_type", "id": 17199845}, {"name": "Electric_buses", "id": 9267300}, {"name": "Fuel_cell_vehicles", "id": 1252099}], "successors": []}

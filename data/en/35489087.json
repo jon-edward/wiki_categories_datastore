@@ -1,1 +1,1 @@
-{"name": "Fictional_clergy", "id": 35489087, "predecessors": [{"name": "Social_groups", "id": 1093141}], "successors": []}
+{"name": "Fictional_clergy", "id": 35489087, "predecessors": [{"name": "Clergy", "id": 3209176}], "successors": [{"name": "Fictional_monks", "id": 3892918}, {"name": "Fictional_priests_and_priestesses", "id": 3939097}, {"name": "Fictional_cult_leaders", "id": 12651730}, {"name": "Novels_about_Christian_clergy", "id": 73873701}]}

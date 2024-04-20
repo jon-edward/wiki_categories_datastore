@@ -1,1 +1,1 @@
-{"name": "Lacuri_transfrontaliere", "id": 276407, "predecessors": [{"name": "Frontiere", "id": 276409}], "successors": [{"name": "Marea_Aral", "id": 129243}, {"name": "Marea_Caspică", "id": 352094}]}
+{"name": "Lacuri_transfrontaliere", "id": 276407, "predecessors": [{"name": "Frontiere", "id": 276409}, {"name": "Lacuri", "id": 24275}], "successors": [{"name": "Marea_Aral", "id": 129243}, {"name": "Marea_Caspică", "id": 352094}]}

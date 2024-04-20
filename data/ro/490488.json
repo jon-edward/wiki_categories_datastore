@@ -1,0 +1,1 @@
+{"name": "Accidente_rutiere", "id": 490488, "predecessors": [{"name": "Accidente", "id": 75387}, {"name": "Siguranța_autovehiculelor", "id": 910100}, {"name": "Transporturi_rutiere", "id": 935690}, {"name": "Dezastre", "id": 74911}], "successors": [{"name": "Decese_datorate_accidentelor_de_circulație", "id": 1150865}, {"name": "Accidente_rutiere_în_România", "id": 1163436}]}

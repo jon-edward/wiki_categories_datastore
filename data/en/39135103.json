@@ -1,1 +1,1 @@
-{"name": "Criminals_from_Chicago", "id": 39135103, "predecessors": [{"name": "Crime_in_Chicago", "id": 17274081}, {"name": "People_from_Chicago", "id": 17426481}], "successors": [{"name": "Gangsters_from_Chicago", "id": 50823693}]}
+{"name": "Criminals_from_Chicago", "id": 39135103, "predecessors": [{"name": "Crime_in_Chicago", "id": 17274081}, {"name": "Criminals_from_Illinois", "id": 37393845}, {"name": "People_from_Chicago", "id": 17426481}], "successors": [{"name": "Gangsters_from_Chicago", "id": 50823693}, {"name": "Serial_killers_from_Chicago", "id": 75047187}]}

@@ -1,1 +1,1 @@
-{"name": "Free_improvisation", "id": 1140195, "predecessors": [{"name": "Experimental_music_genres", "id": 24958703}, {"name": "Musical_improvisation", "id": 27074874}], "successors": []}
+{"name": "Free_improvisation", "id": 1140195, "predecessors": [{"name": "Jazz_genres", "id": 1762087}, {"name": "Musical_improvisation", "id": 27074874}], "successors": [{"name": "Free_improvisation_ensembles", "id": 12086182}, {"name": "Free_improvisation_albums", "id": 12157817}, {"name": "Free_improvising_musicians", "id": 13522248}, {"name": "Free_jazz_musicians", "id": 11940061}]}

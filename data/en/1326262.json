@@ -1,1 +1,1 @@
-{"name": "Pasta", "id": 1326262, "predecessors": [{"name": "Italian_cuisine", "id": 742859}, {"name": "Noodles", "id": 875294}], "successors": [{"name": "Pasta_dishes", "id": 21479805}, {"name": "Types_of_pasta", "id": 43762372}]}
+{"name": "Pasta", "id": 1326262, "predecessors": [{"name": "Italian_cuisine", "id": 742859}, {"name": "Noodles", "id": 875294}], "successors": [{"name": "Pasta_dishes", "id": 21479805}, {"name": "Pasta_industry", "id": 33840027}, {"name": "Types_of_pasta", "id": 43762372}]}

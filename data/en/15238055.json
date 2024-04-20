@@ -1,1 +1,1 @@
-{"name": "Voice_teachers", "id": 15238055, "predecessors": [{"name": "Vocal_music", "id": 1037152}, {"name": "Teaching", "id": 2478638}], "successors": []}
+{"name": "Voice_teachers", "id": 15238055, "predecessors": [{"name": "Vocal_music", "id": 1037152}, {"name": "Education_by_subject", "id": 2477717}], "successors": [{"name": "Italian_voice_teachers", "id": 76556187}, {"name": "German_voice_teachers", "id": 76556188}, {"name": "American_voice_teachers", "id": 76556189}, {"name": "Austrian_voice_teachers", "id": 76556219}]}

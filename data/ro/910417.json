@@ -1,1 +1,1 @@
-{"name": "Vehicule_pe_roți", "id": 910417, "predecessors": [{"name": "Rotație", "id": 764932}, {"name": "Obiecte", "id": 555690}], "successors": [{"name": "Automobile", "id": 31957}, {"name": "Locomotive", "id": 170412}, {"name": "Motociclete", "id": 811974}]}
+{"name": "Vehicule_pe_roți", "id": 910417, "predecessors": [{"name": "Rotație", "id": 764932}, {"name": "Tehnologie", "id": 28690}], "successors": [{"name": "Automobile", "id": 31957}, {"name": "Locomotive", "id": 170412}, {"name": "Motociclete", "id": 811974}]}

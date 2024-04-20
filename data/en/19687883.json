@@ -1,1 +1,1 @@
-{"name": "Speleologists", "id": 19687883, "predecessors": [{"name": "Cave_geology", "id": 1145457}, {"name": "Geologists", "id": 763224}, {"name": "Earth_sciences", "id": 716903}], "successors": []}
+{"name": "Speleologists", "id": 19687883, "predecessors": [{"name": "Cave_geology", "id": 1145457}, {"name": "Caves", "id": 824482}], "successors": []}

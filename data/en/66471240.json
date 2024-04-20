@@ -1,1 +1,1 @@
-{"name": "Land_registration", "id": 66471240, "predecessors": [{"name": "Public_records", "id": 20252940}, {"name": "Real_property_law", "id": 1371216}], "successors": [{"name": "Indigenous_land_rights", "id": 28066206}, {"name": "Land_tenure", "id": 49153374}]}
+{"name": "Land_registration", "id": 66471240, "predecessors": [{"name": "Geographic_data_and_information", "id": 51208626}, {"name": "Public_records", "id": 20252940}], "successors": [{"name": "Indigenous_land_rights", "id": 28066206}, {"name": "Land_tenure", "id": 49153374}]}

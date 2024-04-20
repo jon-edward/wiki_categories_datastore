@@ -1,1 +1,1 @@
-{"name": "Communication_journals", "id": 37069318, "predecessors": [{"name": "Psychology_journals", "id": 5760508}, {"name": "Mass_media", "id": 696790}], "successors": [{"name": "Media_studies_journals", "id": 4013965}]}
+{"name": "Communication_journals", "id": 37069318, "predecessors": [{"name": "Communication_studies", "id": 36983214}, {"name": "Academic_publishing", "id": 2239162}], "successors": [{"name": "Media_studies_journals", "id": 4013965}]}

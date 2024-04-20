@@ -1,1 +1,1 @@
-{"name": "Xanthines", "id": 2918810, "predecessors": [{"name": "Alkaloids", "id": 717944}], "successors": []}
+{"name": "Xanthines", "id": 2918810, "predecessors": [{"name": "Chemical_classes_of_psychoactive_drugs", "id": 51490504}, {"name": "Enones", "id": 54892416}, {"name": "Purines", "id": 747733}, {"name": "Alkaloids", "id": 717944}], "successors": [{"name": "Caffeine", "id": 1000272}, {"name": "Xanthine_oxidase_inhibitors", "id": 31940674}]}

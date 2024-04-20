@@ -1,1 +1,1 @@
-{"name": "Armes_de_projectil", "id": 291316, "predecessors": [{"name": "Ciència_militar", "id": 241414}, {"name": "Armes", "id": 25966}], "successors": [{"name": "Armes_de_foc", "id": 291309}, {"name": "Artilleria", "id": 291311}, {"name": "Míssils_balístics", "id": 1234601}]}
+{"name": "Armes_de_projectil", "id": 291316, "predecessors": [{"name": "Ciència_militar", "id": 241414}, {"name": "Armes", "id": 25966}], "successors": [{"name": "Armes_de_foc", "id": 291309}, {"name": "Artilleria", "id": 291311}, {"name": "Míssils", "id": 634181}]}

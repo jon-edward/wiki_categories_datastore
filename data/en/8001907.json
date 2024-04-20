@@ -1,1 +1,1 @@
-{"name": "Computer_printing", "id": 8001907, "predecessors": [{"name": "Computer_output_devices", "id": 5241342}, {"name": "Printing", "id": 774014}], "successors": [{"name": "3D_printing", "id": 33961970}]}
+{"name": "Computer_printing", "id": 8001907, "predecessors": [{"name": "Printing", "id": 774014}], "successors": [{"name": "3D_printing", "id": 33961970}]}

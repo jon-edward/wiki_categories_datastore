@@ -1,1 +1,1 @@
-{"name": "Pulsejet-powered_aircraft", "id": 26985105, "predecessors": [{"name": "Aviation", "id": 735378}], "successors": []}
+{"name": "Pulsejet-powered_aircraft", "id": 26985105, "predecessors": [{"name": "Aircraft_engines", "id": 762219}, {"name": "Aviation", "id": 735378}], "successors": []}

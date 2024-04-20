@@ -1,1 +1,1 @@
-{"name": "Terpene", "id": 856810, "predecessors": [{"name": "Biomolecule", "id": 865883}], "successors": [{"name": "Carotenoizi", "id": 856806}, {"name": "Cauciuc", "id": 892558}]}
+{"name": "Terpene", "id": 856810, "predecessors": [{"name": "Biomolecule", "id": 865883}], "successors": [{"name": "Carotenoizi", "id": 856806}, {"name": "Cauciuc", "id": 892558}, {"name": "Monoterpene", "id": 2425975}, {"name": "Diterpene", "id": 2496617}, {"name": "Triterpene", "id": 2558136}, {"name": "Sescviterpene", "id": 2895957}]}

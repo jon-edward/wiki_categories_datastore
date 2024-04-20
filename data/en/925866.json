@@ -1,1 +1,1 @@
-{"name": "Debian", "id": 925866, "predecessors": [{"name": "Free_software_projects", "id": 703116}], "successors": [{"name": "Dpkg", "id": 3565967}]}
+{"name": "Debian", "id": 925866, "predecessors": [{"name": "Free_software_projects", "id": 703116}, {"name": "Linux_distributions", "id": 700239}], "successors": [{"name": "Debian-based_distributions", "id": 2438632}, {"name": "Dpkg", "id": 3565967}]}

@@ -1,1 +1,1 @@
-{"name": "Rubber", "id": 6513357, "predecessors": [{"name": "Elastomers", "id": 5307861}, {"name": "Natural_materials", "id": 2959852}], "successors": [{"name": "Rubber_properties", "id": 4667248}, {"name": "Rubber_industry", "id": 52514818}, {"name": "Rubber_products", "id": 53408868}]}
+{"name": "Rubber", "id": 6513357, "predecessors": [{"name": "Elastomers", "id": 5307861}, {"name": "Natural_materials", "id": 2959852}], "successors": [{"name": "Rubber_properties", "id": 4667248}, {"name": "Rubber_industry", "id": 52514818}]}

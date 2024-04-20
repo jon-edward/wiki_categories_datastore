@@ -1,1 +1,1 @@
-{"name": "Urine_tests", "id": 12997081, "predecessors": [{"name": "Medical_tests", "id": 1075994}, {"name": "Urine", "id": 5122190}], "successors": [{"name": "Abnormal_clinical_and_laboratory_findings_for_urine", "id": 27259001}]}
+{"name": "Urine_tests", "id": 12997081, "predecessors": [{"name": "Urine", "id": 5122190}, {"name": "Urology", "id": 722711}], "successors": [{"name": "Abnormal_clinical_and_laboratory_findings_for_urine", "id": 27259001}]}

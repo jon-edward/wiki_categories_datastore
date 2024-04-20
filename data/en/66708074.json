@@ -1,1 +1,1 @@
-{"name": "Tensor_physical_quantities", "id": 66708074, "predecessors": [{"name": "Physical_quantities", "id": 18726608}], "successors": [{"name": "Tensors_in_general_relativity", "id": 3518917}]}
+{"name": "Tensor_physical_quantities", "id": 66708074, "predecessors": [{"name": "Physical_quantities", "id": 18726608}, {"name": "Tensors", "id": 1012758}], "successors": [{"name": "Tensors_in_general_relativity", "id": 3518917}]}

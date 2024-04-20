@@ -1,1 +1,1 @@
-{"name": "Microfossils", "id": 47364081, "predecessors": [{"name": "Microscopy", "id": 1894701}], "successors": [{"name": "Palynology", "id": 1270812}]}
+{"name": "Microfossils", "id": 47364081, "predecessors": [{"name": "Fossils", "id": 737189}, {"name": "Microscopy", "id": 1894701}], "successors": [{"name": "Palynology", "id": 1270812}, {"name": "Conodont_specialists", "id": 50763693}, {"name": "Acritarch_genera", "id": 52402927}]}

@@ -1,1 +1,1 @@
-{"name": "Automata_(computation)", "id": 38801233, "predecessors": [{"name": "Models_of_computation", "id": 31036668}], "successors": [{"name": "Cellular_automata", "id": 783483}, {"name": "Turing_machine", "id": 25362465}]}
+{"name": "Automata_(computation)", "id": 38801233, "predecessors": [{"name": "Computational_fields_of_study", "id": 52242291}, {"name": "Models_of_computation", "id": 31036668}], "successors": [{"name": "Cellular_automata", "id": 783483}, {"name": "Turing_machine", "id": 25362465}, {"name": "Finite_automata", "id": 48322243}]}

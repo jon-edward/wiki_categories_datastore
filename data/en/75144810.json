@@ -1,1 +1,1 @@
-{"name": "Children's_books_based_on_fairy_tales", "id": 75144810, "predecessors": [{"name": "Mythology_books", "id": 8942352}, {"name": "Children's_books", "id": 897359}], "successors": [{"name": "Picture_books_based_on_fairy_tales", "id": 54392419}]}
+{"name": "Children's_books_based_on_fairy_tales", "id": 75144810, "predecessors": [{"name": "Legends", "id": 1065086}, {"name": "Folklore", "id": 728925}], "successors": [{"name": "Picture_books_based_on_fairy_tales", "id": 54392419}]}

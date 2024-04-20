@@ -1,1 +1,1 @@
-{"name": "Sulfur–nitrogen_compounds", "id": 71276504, "predecessors": [{"name": "Sulfur_compounds", "id": 1869718}], "successors": []}
+{"name": "Sulfur–nitrogen_compounds", "id": 71276504, "predecessors": [{"name": "Nitrogen_compounds", "id": 903300}, {"name": "Sulfur_compounds", "id": 1869718}, {"name": "Chemical_compounds", "id": 695235}], "successors": [{"name": "Sulfamates", "id": 31953148}]}

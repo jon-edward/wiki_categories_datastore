@@ -1,0 +1,1 @@
+{"name": "Turbomachinery", "id": 31719704, "predecessors": [{"name": "Chemical_equipment", "id": 42616899}, {"name": "Gas_technologies", "id": 19500591}, {"name": "Mechanical_engineering", "id": 717561}, {"name": "Power_engineering", "id": 3924363}], "successors": [{"name": "Pumps", "id": 853902}, {"name": "Turbines", "id": 966100}, {"name": "Gas_compressors", "id": 1652038}]}

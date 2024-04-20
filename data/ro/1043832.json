@@ -1,1 +1,1 @@
-{"name": "Genul_muzical_Chanson_réaliste", "id": 1043832, "predecessors": [{"name": "Realism_artistic", "id": 276135}, {"name": "Cântece", "id": 234083}, {"name": "Cultura_Franței", "id": 749837}], "successors": [{"name": "Șansonetiști", "id": 1043836}]}
+{"name": "Genul_muzical_Chanson_réaliste", "id": 1043832, "predecessors": [{"name": "Genuri_muzicale_franceze", "id": 1045204}, {"name": "Realism_artistic", "id": 276135}, {"name": "Cântece", "id": 234083}], "successors": [{"name": "Șansonetiști", "id": 1043836}]}

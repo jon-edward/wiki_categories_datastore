@@ -1,1 +1,1 @@
-{"name": "Băuturi_distilate", "id": 35964, "predecessors": [{"name": "Băuturi_alcoolice", "id": 12191}, {"name": "Distilare", "id": 1133786}], "successors": []}
+{"name": "Băuturi_distilate", "id": 35964, "predecessors": [{"name": "Băuturi_alcoolice", "id": 12191}, {"name": "Distilare", "id": 1133786}], "successors": [{"name": "Degustători_români", "id": 35965}, {"name": "Whisky", "id": 3022499}, {"name": "Cocktailuri_cu_gin", "id": 1363438}, {"name": "Cocktailuri_cu_rom", "id": 1363430}, {"name": "Cocktailuri_cu_tequila", "id": 1363428}]}

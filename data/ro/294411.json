@@ -1,1 +1,1 @@
-{"name": "Pesticide", "id": 294411, "predecessors": [{"name": "Substanțe_toxice", "id": 760269}, {"name": "Compuși_chimici", "id": 749556}], "successors": [{"name": "Fungicide", "id": 1939021}]}
+{"name": "Pesticide", "id": 294411, "predecessors": [{"name": "Substanțe_toxice", "id": 760269}, {"name": "Compuși_chimici", "id": 749556}], "successors": [{"name": "Insecticide", "id": 387910}, {"name": "Rodenticide", "id": 787007}, {"name": "Agenți_biologici_de_control", "id": 1122627}, {"name": "Fungicide", "id": 1939021}, {"name": "Algicide", "id": 2925996}]}

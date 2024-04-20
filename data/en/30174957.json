@@ -1,1 +1,1 @@
-{"name": "Causal_inference", "id": 30174957, "predecessors": [{"name": "Causality", "id": 2028218}, {"name": "Graphical_models", "id": 22691076}], "successors": [{"name": "Causal_fallacies", "id": 5352919}]}
+{"name": "Causal_inference", "id": 30174957, "predecessors": [{"name": "Causality", "id": 2028218}, {"name": "Graphical_models", "id": 22691076}, {"name": "Decision_theory", "id": 946910}], "successors": [{"name": "Causal_fallacies", "id": 5352919}]}

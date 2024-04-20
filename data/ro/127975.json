@@ -1,1 +1,1 @@
-{"name": "Dermatologie", "id": 127975, "predecessors": [{"name": "Sistemul_tegumentar", "id": 287598}, {"name": "Specialități_medicale", "id": 760126}], "successors": []}
+{"name": "Dermatologie", "id": 127975, "predecessors": [{"name": "Sistemul_tegumentar", "id": 287598}, {"name": "Specialități_medicale", "id": 760126}], "successors": [{"name": "Medicamente_dermatologice", "id": 2567626}, {"name": "Dermatologi_români", "id": 1105514}]}

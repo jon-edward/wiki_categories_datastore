@@ -1,1 +1,1 @@
-{"name": "Rollespill", "id": 15860, "predecessors": [{"name": "Spill", "id": 12261}], "successors": [{"name": "Videorollespill", "id": 349205}]}
+{"name": "Rollespill", "id": 15860, "predecessors": [{"name": "Hobbyer", "id": 30746}, {"name": "Menneskelig_atferd", "id": 149543}], "successors": []}

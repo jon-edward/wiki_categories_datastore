@@ -1,1 +1,1 @@
-{"name": "Legenda_regelui_Arthur", "id": 2436505, "predecessors": [{"name": "Legende_medievale", "id": 914277}, {"name": "Literatură_britanică", "id": 76025}, {"name": "Literatură_medievală", "id": 32812}, {"name": "Cultura_britanică", "id": 61156}], "successors": []}
+{"name": "Legenda_regelui_Arthur", "id": 2436505, "predecessors": [{"name": "Folclor_britanic", "id": 926762}, {"name": "Legende_medievale", "id": 914277}, {"name": "Literatură_britanică", "id": 76025}, {"name": "Literatură_medievală", "id": 32812}], "successors": [{"name": "Sfântul_Graal", "id": 1131484}]}

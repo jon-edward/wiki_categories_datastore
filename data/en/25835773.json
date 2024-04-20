@@ -1,1 +1,1 @@
-{"name": "Motorcycle_transmissions", "id": 25835773, "predecessors": [{"name": "Motorcycle_technology", "id": 2881562}], "successors": []}
+{"name": "Motorcycle_transmissions", "id": 25835773, "predecessors": [{"name": "Mechanical_power_transmission", "id": 22781840}, {"name": "Motorcycle_technology", "id": 2881562}], "successors": [{"name": "Belt_drive_motorcycles", "id": 54647429}, {"name": "Shaft_drive_motorcycles", "id": 54730890}]}

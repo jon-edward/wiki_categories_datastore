@@ -1,1 +1,1 @@
-{"name": "Alge", "id": 185020, "predecessors": [{"name": "Regnul_Protista", "id": 266553}, {"name": "Ecologie_acvatică", "id": 185205}, {"name": "Microbiologie", "id": 35826}], "successors": []}
+{"name": "Alge", "id": 185020, "predecessors": [{"name": "Organisme_acvatice", "id": 185021}, {"name": "Regnul_Protista", "id": 266553}, {"name": "Microbiologie", "id": 35826}], "successors": [{"name": "Alge_verzi", "id": 2735667}, {"name": "Algicide", "id": 2925996}]}

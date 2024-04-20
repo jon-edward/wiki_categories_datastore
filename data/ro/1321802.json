@@ -1,1 +1,1 @@
-{"name": "Explorare_de_asteroizi", "id": 1321802, "predecessors": [{"name": "Asteroizi", "id": 38534}, {"name": "Explorarea_Sistemului_Solar", "id": 1162280}], "successors": [{"name": "Asteroizi_vizitați_de_nave_spațiale", "id": 1322591}]}
+{"name": "Explorare_de_asteroizi", "id": 1321802, "predecessors": [{"name": "Asteroizi", "id": 38534}, {"name": "Explorarea_Sistemului_Solar", "id": 1162280}, {"name": "Misiuni_spre_planete_minore", "id": 1321803}], "successors": [{"name": "Asteroizi_vizitați_de_nave_spațiale", "id": 1322591}]}

@@ -1,1 +1,1 @@
-{"name": "Genetic_anomalies", "id": 47741166, "predecessors": [{"name": "Genetic_diseases_and_disorders", "id": 966814}, {"name": "Genetic_syndromes", "id": 53611875}, {"name": "Genetics", "id": 696008}], "successors": [{"name": "Chimerism", "id": 63115111}]}
+{"name": "Genetic_anomalies", "id": 47741166, "predecessors": [{"name": "Genetic_diseases_and_disorders", "id": 966814}, {"name": "Genetic_syndromes", "id": 53611875}], "successors": [{"name": "Chimerism", "id": 63115111}]}

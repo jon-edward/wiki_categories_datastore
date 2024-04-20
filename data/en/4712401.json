@@ -1,1 +1,1 @@
-{"name": "Actuaries", "id": 4712401, "predecessors": [{"name": "Actuarial_science", "id": 5116610}], "successors": [{"name": "Actuarial_associations", "id": 2215110}]}
+{"name": "Actuaries", "id": 4712401, "predecessors": [{"name": "Actuarial_science", "id": 5116610}, {"name": "Finance_occupations", "id": 50682347}], "successors": [{"name": "Actuarial_associations", "id": 2215110}]}

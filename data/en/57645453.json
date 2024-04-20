@@ -1,1 +1,1 @@
-{"name": "Science_education_journals", "id": 57645453, "predecessors": [{"name": "Education_journals", "id": 6830372}, {"name": "Science_education", "id": 3598507}], "successors": [{"name": "Mathematics_education_journals", "id": 42546872}]}
+{"name": "Science_education_journals", "id": 57645453, "predecessors": [{"name": "Science_education", "id": 3598507}], "successors": [{"name": "Mathematics_education_journals", "id": 42546872}]}

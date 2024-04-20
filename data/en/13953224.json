@@ -1,1 +1,1 @@
-{"name": "MIDI", "id": 13953224, "predecessors": [{"name": "Electronic_music_software", "id": 28068854}, {"name": "Electronic_musical_instruments", "id": 32662293}, {"name": "Serial_buses", "id": 3284587}], "successors": []}
+{"name": "MIDI", "id": 13953224, "predecessors": [{"name": "Electronic_music_software", "id": 28068854}, {"name": "Electronic_musical_instruments", "id": 32662293}], "successors": [{"name": "MIDI_standards", "id": 4468030}]}

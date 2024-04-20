@@ -1,1 +1,1 @@
-{"name": "Vocal_quartets", "id": 20018641, "predecessors": [{"name": "Vocal_ensembles", "id": 20322569}], "successors": [{"name": "Barbershop_quartets", "id": 7890300}, {"name": "Gospel_quartets", "id": 20308432}]}
+{"name": "Vocal_quartets", "id": 20018641, "predecessors": [{"name": "Musical_quartets", "id": 20151398}, {"name": "Vocal_ensembles", "id": 20322569}], "successors": [{"name": "Barbershop_quartets", "id": 7890300}]}

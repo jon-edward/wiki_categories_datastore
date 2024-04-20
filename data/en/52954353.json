@@ -1,1 +1,1 @@
-{"name": "Essays_about_culture", "id": 52954353, "predecessors": [{"name": "Essays", "id": 722219}], "successors": [{"name": "Essays_about_literature", "id": 33685929}, {"name": "Essays_about_politics", "id": 42620593}, {"name": "Essays_about_film", "id": 66079107}]}
+{"name": "Essays_about_culture", "id": 52954353, "predecessors": [{"name": "Culture", "id": 694861}, {"name": "Essays", "id": 722219}], "successors": [{"name": "Essays_about_literature", "id": 33685929}, {"name": "Essays_about_politics", "id": 42620593}, {"name": "Essays_about_film", "id": 66079107}]}

@@ -1,1 +1,1 @@
-{"name": "Škoda_Auto", "id": 2142765, "predecessors": [{"name": "Volkswagen_Group", "id": 28426237}], "successors": [{"name": "Škoda_vehicles", "id": 2142770}]}
+{"name": "Škoda_Auto", "id": 2142765, "predecessors": [{"name": "Motor_vehicle_manufacturers_of_Czechoslovakia", "id": 14153916}, {"name": "Volkswagen_Group", "id": 28426237}, {"name": "Automotive_industry_by_country", "id": 8510254}, {"name": "Economy_of_the_European_Union", "id": 1901711}], "successors": [{"name": "Škoda_vehicles", "id": 2142770}]}

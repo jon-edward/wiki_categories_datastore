@@ -1,1 +1,1 @@
-{"name": "Witch_trials_in_Germany", "id": 65011805, "predecessors": [{"name": "Witch_trials_in_Europe", "id": 73150503}, {"name": "Witchcraft_in_Germany", "id": 65011826}], "successors": [{"name": "German_people_executed_for_witchcraft", "id": 75756657}]}
+{"name": "Witch_trials_in_Germany", "id": 65011805, "predecessors": [{"name": "Trials_in_Germany", "id": 32945480}, {"name": "Witch_trials_in_Europe", "id": 73150503}, {"name": "Witchcraft_in_Germany", "id": 65011826}], "successors": [{"name": "German_people_executed_for_witchcraft", "id": 75756657}]}

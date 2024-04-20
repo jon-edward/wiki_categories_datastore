@@ -1,1 +1,1 @@
-{"name": "Species_endangered_by_habitat_fragmentation", "id": 53851358, "predecessors": [{"name": "Species_endangered_by_habitat_loss", "id": 53844590}, {"name": "Infrastructure", "id": 2962329}], "successors": []}
+{"name": "Species_endangered_by_habitat_fragmentation", "id": 53851358, "predecessors": [{"name": "Species_endangered_by_habitat_loss", "id": 53844590}, {"name": "Environmental_impact_by_source", "id": 39352038}], "successors": []}

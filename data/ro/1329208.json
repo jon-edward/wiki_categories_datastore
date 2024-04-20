@@ -1,1 +1,1 @@
-{"name": "Componente_electrice_pasive", "id": 1329208, "predecessors": [{"name": "Echipament_electric", "id": 301837}], "successors": [{"name": "Condensatoare_electrice", "id": 643800}]}
+{"name": "Componente_electrice_pasive", "id": 1329208, "predecessors": [{"name": "Echipament_electric", "id": 301837}], "successors": [{"name": "Condensatoare_electrice", "id": 643800}, {"name": "Conectori_electrici", "id": 1329190}, {"name": "Cabluri_electrice", "id": 477295}, {"name": "Cabluri_de_semnal", "id": 1329214}]}

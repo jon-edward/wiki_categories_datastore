@@ -1,1 +1,1 @@
-{"name": "BDSM_people", "id": 32408615, "predecessors": [{"name": "BDSM", "id": 692161}], "successors": [{"name": "BDSM_writers", "id": 4746991}, {"name": "BDSM_activists", "id": 4759919}, {"name": "BDSM_photographers", "id": 68989368}]}
+{"name": "BDSM_people", "id": 32408615, "predecessors": [{"name": "Human_sexuality", "id": 2315922}], "successors": [{"name": "BDSM_writers", "id": 4746991}]}

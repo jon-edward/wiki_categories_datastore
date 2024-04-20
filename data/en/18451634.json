@@ -1,1 +1,1 @@
-{"name": "RMIT_University_alumni", "id": 18451634, "predecessors": [{"name": "Engineering_universities_and_colleges", "id": 9092965}], "successors": []}
+{"name": "RMIT_University_alumni", "id": 18451634, "predecessors": [{"name": "RMIT_University", "id": 43057839}, {"name": "Engineering_universities_and_colleges", "id": 9092965}], "successors": [{"name": "RMITV_alumni", "id": 41779638}]}

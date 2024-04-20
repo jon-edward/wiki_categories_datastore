@@ -1,0 +1,1 @@
+{"name": "Motor_scooters", "id": 3181261, "predecessors": [{"name": "Motorcycle_classifications", "id": 8259224}, {"name": "Land_transport", "id": 34296861}, {"name": "Transport", "id": 5523119}], "successors": [{"name": "Scooter_manufacturers", "id": 1904471}, {"name": "Electric_scooters", "id": 14241375}]}

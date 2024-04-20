@@ -1,1 +1,1 @@
-{"name": "Kryvyi_Rih_Metrotram_stations", "id": 32710523, "predecessors": [{"name": "Tram_transport_in_Ukraine", "id": 6507064}], "successors": []}
+{"name": "Kryvyi_Rih_Metrotram_stations", "id": 32710523, "predecessors": [{"name": "Transport_in_Ukraine", "id": 4732302}, {"name": "Rail_transport_in_Europe", "id": 5351311}], "successors": []}

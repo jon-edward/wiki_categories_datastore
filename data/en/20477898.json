@@ -1,1 +1,1 @@
-{"name": "Hanukkah_foods", "id": 20477898, "predecessors": [{"name": "Jewish_cuisine", "id": 3473739}, {"name": "Kosher_food", "id": 7096869}], "successors": []}
+{"name": "Hanukkah_foods", "id": 20477898, "predecessors": [{"name": "Hanukkah", "id": 6742439}, {"name": "Holiday_foods", "id": 20477446}, {"name": "Jewish_cuisine", "id": 3473739}, {"name": "Kosher_food", "id": 7096869}], "successors": []}

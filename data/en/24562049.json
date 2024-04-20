@@ -1,1 +1,1 @@
-{"name": "Majdanek_concentration_camp_survivors", "id": 24562049, "predecessors": [{"name": "Nazi_concentration_camp_survivors", "id": 1435813}, {"name": "General_Government", "id": 47192887}], "successors": []}
+{"name": "Majdanek_concentration_camp_survivors", "id": 24562049, "predecessors": [{"name": "Majdanek_concentration_camp", "id": 13107955}, {"name": "Nazi_concentration_camp_survivors", "id": 1435813}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Medii_de_stocare", "id": 770129, "predecessors": [{"name": "Stocarea_datelor", "id": 320090}], "successors": [{"name": "Discuri_optice", "id": 187270}, {"name": "Memorii", "id": 243028}]}
+{"name": "Medii_de_stocare", "id": 770129, "predecessors": [{"name": "Stocarea_datelor", "id": 320090}, {"name": "Tehnologia_informației", "id": 760299}], "successors": [{"name": "Discuri_optice", "id": 187270}, {"name": "Memorii", "id": 243028}]}

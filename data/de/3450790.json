@@ -1,1 +1,0 @@
-{"name": "Turbine", "id": 3450790, "predecessors": [{"name": "Strömungsmaschine", "id": 1403477}, {"name": "Strömungsmaschinenbau", "id": 5106611}, {"name": "Antriebstechnik", "id": 491624}], "successors": [{"name": "Wasserturbine", "id": 3450803}, {"name": "Gasturbine", "id": 3456384}, {"name": "Dampfturbine", "id": 3459345}]}

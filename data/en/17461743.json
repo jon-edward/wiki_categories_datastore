@@ -1,1 +1,1 @@
-{"name": "Youth_hostelling", "id": 17461743, "predecessors": [{"name": "Hostels", "id": 10457079}], "successors": [{"name": "Youth_hostels_in_England_and_Wales", "id": 17461856}, {"name": "Hostelling_International_member_associations", "id": 22176885}]}
+{"name": "Youth_hostelling", "id": 17461743, "predecessors": [{"name": "Hostels", "id": 10457079}, {"name": "Tourist_accommodations", "id": 11495357}], "successors": [{"name": "Youth_hostels_in_England_and_Wales", "id": 17461856}, {"name": "Hostelling_International_member_associations", "id": 22176885}]}

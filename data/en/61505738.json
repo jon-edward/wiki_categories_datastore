@@ -1,1 +1,1 @@
-{"name": "Gus_Grissom", "id": 61505738, "predecessors": [{"name": "Apollo_program_astronauts", "id": 35549524}, {"name": "Project_Gemini_astronauts", "id": 61256829}, {"name": "Aeronautics", "id": 1492803}], "successors": []}
+{"name": "Gus_Grissom", "id": 61505738, "predecessors": [{"name": "Apollo_program_astronauts", "id": 35549524}, {"name": "Project_Gemini_astronauts", "id": 61256829}, {"name": "Human_spaceflight_programs", "id": 43562977}], "successors": []}

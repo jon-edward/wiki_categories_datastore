@@ -1,1 +1,1 @@
-{"name": "Scheduled_ice_hockey_competitions", "id": 70647468, "predecessors": [{"name": "Athletic_sports", "id": 31210709}], "successors": []}
+{"name": "Scheduled_ice_hockey_competitions", "id": 70647468, "predecessors": [{"name": "Athletic_sports", "id": 31210709}, {"name": "Scheduled_sports_events", "id": 30256818}], "successors": []}

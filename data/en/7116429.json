@@ -1,1 +1,1 @@
-{"name": "Firearm_manufacturers_of_Germany", "id": 7116429, "predecessors": [{"name": "Defence_companies_of_Germany", "id": 3405943}, {"name": "Firearms", "id": 739385}], "successors": []}
+{"name": "Firearm_manufacturers_of_Germany", "id": 7116429, "predecessors": [{"name": "Defence_companies_of_Germany", "id": 3405943}, {"name": "Manufacturing_companies_of_Germany", "id": 4219678}, {"name": "Firearms", "id": 739385}], "successors": [{"name": "SIG_Sauer_semi-automatic_pistols", "id": 53190716}, {"name": "SIG_Sauer_rifles", "id": 71399226}]}

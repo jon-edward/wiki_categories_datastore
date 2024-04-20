@@ -1,1 +1,1 @@
-{"name": "Password_cracking_software", "id": 19245882, "predecessors": [{"name": "Cryptographic_attacks", "id": 724975}, {"name": "Password_authentication", "id": 19244779}, {"name": "Cryptanalytic_devices", "id": 1069923}], "successors": []}
+{"name": "Password_cracking_software", "id": 19245882, "predecessors": [{"name": "Cryptographic_attacks", "id": 724975}, {"name": "Password_authentication", "id": 19244779}], "successors": []}

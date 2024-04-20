@@ -1,1 +1,1 @@
-{"name": "Companii_metalurgice", "id": 369023, "predecessors": [{"name": "Metalurgie", "id": 353493}, {"name": "Companii", "id": 32300}], "successors": [{"name": "ArcelorMittal", "id": 591543}, {"name": "Companii_metalurgice_din_România", "id": 591587}]}
+{"name": "Companii_metalurgice", "id": 369023, "predecessors": [{"name": "Metalurgie", "id": 353493}, {"name": "Companii", "id": 32300}], "successors": [{"name": "ArcelorMittal", "id": 591543}, {"name": "Companii_metalurgice_din_România", "id": 591587}, {"name": "Tenaris", "id": 592505}]}

@@ -1,1 +1,1 @@
-{"name": "Novels_set_on_Dartmoor", "id": 76018216, "predecessors": [{"name": "Dartmoor", "id": 1286246}], "successors": [{"name": "The_Hound_of_the_Baskervilles", "id": 74045928}]}
+{"name": "Novels_set_on_Dartmoor", "id": 76018216, "predecessors": [{"name": "Novels_set_in_Devon", "id": 32127697}, {"name": "Dartmoor", "id": 1286246}], "successors": [{"name": "The_Hound_of_the_Baskervilles", "id": 74045928}]}

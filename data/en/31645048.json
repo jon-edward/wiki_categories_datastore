@@ -1,1 +1,1 @@
-{"name": "Terrorist_attacks_on_airports", "id": 31645048, "predecessors": [{"name": "Attacks_on_airports", "id": 55586768}, {"name": "Aviation_security", "id": 33529177}], "successors": []}
+{"name": "Terrorist_attacks_on_airports", "id": 31645048, "predecessors": [{"name": "Attacks_on_airports", "id": 55586768}, {"name": "Aviation_security", "id": 33529177}], "successors": [{"name": "2016_Brussels_bombings", "id": 49906345}, {"name": "Terrorist_attacks_on_airports_in_Asia", "id": 68608296}]}

@@ -1,1 +1,1 @@
-{"name": "Linear_earthworks", "id": 58782632, "predecessors": [{"name": "Fortifications_by_type", "id": 34892847}], "successors": [{"name": "Ancient_dikes", "id": 44364104}]}
+{"name": "Linear_earthworks", "id": 58782632, "predecessors": [{"name": "Archaeological_features", "id": 1878209}, {"name": "Fortifications_by_type", "id": 34892847}], "successors": [{"name": "Ancient_dikes", "id": 44364104}]}

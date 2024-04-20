@@ -1,1 +1,1 @@
-{"name": "Tribologie", "id": 885626, "predecessors": [{"name": "Inginerie_mecanică", "id": 189871}, {"name": "Știința_materialelor", "id": 761025}, {"name": "Suprafață", "id": 760276}, {"name": "Forță", "id": 751462}], "successors": []}
+{"name": "Tribologie", "id": 885626, "predecessors": [{"name": "Chimie_de_suprafață", "id": 926787}, {"name": "Inginerie_mecanică", "id": 189871}, {"name": "Știința_materialelor", "id": 761025}, {"name": "Chimie_fizică", "id": 201592}], "successors": []}

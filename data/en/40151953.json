@@ -1,1 +1,1 @@
-{"name": "Allen_&_Unwin_books", "id": 40151953, "predecessors": [{"name": "HarperCollins_books", "id": 33514993}], "successors": []}
+{"name": "Allen_&_Unwin_books", "id": 40151953, "predecessors": [{"name": "HarperCollins_books", "id": 33514993}, {"name": "Australian_books", "id": 8029836}], "successors": [{"name": "Atlantic_Books_books", "id": 70935670}]}

@@ -1,1 +1,1 @@
-{"name": "Jazz_in_New_York_City", "id": 69628020, "predecessors": [{"name": "Music_of_New_York_City", "id": 3164461}, {"name": "American_jazz", "id": 32157196}], "successors": []}
+{"name": "Jazz_in_New_York_City", "id": 69628020, "predecessors": [{"name": "Music_of_New_York_City", "id": 3164461}, {"name": "American_jazz", "id": 32157196}], "successors": [{"name": "Jazz_clubs_in_New_York_City", "id": 61199444}, {"name": "Jazz_festivals_in_New_York_City", "id": 69628277}, {"name": "Jazz_ensembles_from_New_York_City", "id": 69642392}]}

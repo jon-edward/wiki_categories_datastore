@@ -1,1 +1,1 @@
-{"name": "Theatre_architects", "id": 18387059, "predecessors": [{"name": "Architecture", "id": 708984}, {"name": "Entertainment", "id": 693016}], "successors": [{"name": "English_theatre_architects", "id": 18744118}, {"name": "American_theatre_architects", "id": 31059808}]}
+{"name": "Theatre_architects", "id": 18387059, "predecessors": [{"name": "Architecture", "id": 708984}, {"name": "Performing_arts", "id": 991222}], "successors": [{"name": "English_theatre_architects", "id": 18744118}, {"name": "American_theatre_architects", "id": 31059808}]}

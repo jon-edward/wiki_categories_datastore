@@ -1,1 +1,0 @@
-{"name": "Microprocessors", "id": 832619, "predecessors": [{"name": "Integrated_circuits", "id": 1240658}], "successors": [{"name": "Superscalar_microprocessors", "id": 38101686}, {"name": "System_on_a_chip", "id": 39378120}, {"name": "Manycore_processors", "id": 50651423}]}

@@ -1,1 +1,1 @@
-{"name": "Asigurări", "id": 200358, "predecessors": [{"name": "Contracte", "id": 307144}, {"name": "Risc", "id": 200361}, {"name": "Servicii_financiare", "id": 987779}], "successors": [{"name": "Companii_de_asigurări", "id": 366742}]}
+{"name": "Asigurări", "id": 200358, "predecessors": [{"name": "Contracte", "id": 307144}, {"name": "Risc", "id": 200361}, {"name": "Servicii_financiare", "id": 987779}], "successors": [{"name": "Companii_de_asigurări", "id": 366742}, {"name": "Asigurări_de_sănătate", "id": 1565141}]}

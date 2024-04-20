@@ -1,1 +1,1 @@
-{"name": "Anti-materiel_rifles", "id": 48471033, "predecessors": [{"name": "Rifles", "id": 739709}], "successors": [{"name": ".50_BMG_sniper_rifles", "id": 56744159}, {"name": "Anti-materiel_cartridges", "id": 72926328}]}
+{"name": "Anti-materiel_rifles", "id": 48471033, "predecessors": [{"name": "Rifles", "id": 739709}], "successors": [{"name": "Anti-tank_rifles", "id": 1936780}, {"name": ".50_BMG_sniper_rifles", "id": 56744159}, {"name": "Anti-materiel_cartridges", "id": 72926328}]}

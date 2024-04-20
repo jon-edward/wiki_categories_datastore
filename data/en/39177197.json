@@ -1,1 +1,1 @@
-{"name": "Telus", "id": 39177197, "predecessors": [{"name": "Internet_service_providers_of_Canada", "id": 4469516}], "successors": [{"name": "Telus_Cup", "id": 25615404}]}
+{"name": "Telus", "id": 39177197, "predecessors": [{"name": "Internet_service_providers_of_Canada", "id": 4469516}, {"name": "Telecommunications_companies_of_Canada", "id": 4286735}], "successors": [{"name": "Telus_Cup", "id": 25615404}]}

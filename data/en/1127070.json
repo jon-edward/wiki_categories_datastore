@@ -1,0 +1,1 @@
+{"name": "Piston_engine_configurations", "id": 1127070, "predecessors": [{"name": "Piston_engines", "id": 762229}], "successors": [{"name": "Opposed_piston_engines", "id": 22634700}, {"name": "Napier_Deltic", "id": 25536267}, {"name": "Engine_valvetrain_configurations", "id": 30429807}, {"name": "Engines_by_cylinder_layout", "id": 33728258}]}

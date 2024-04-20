@@ -1,0 +1,1 @@
+{"name": "Animal_trade", "id": 66250086, "predecessors": [{"name": "Trade_by_commodity", "id": 42281737}], "successors": [{"name": "Wildlife_smuggling", "id": 27893674}, {"name": "Animal_testing_on_non-human_primates", "id": 50629564}]}

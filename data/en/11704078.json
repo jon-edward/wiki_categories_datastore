@@ -1,1 +1,1 @@
-{"name": "Chicago_Tribune", "id": 11704078, "predecessors": [{"name": "Tribune_Publishing", "id": 49643616}], "successors": [{"name": "Chicago_Tribune_people", "id": 2648696}]}
+{"name": "Chicago_Tribune", "id": 11704078, "predecessors": [{"name": "Newspapers_published_in_Chicago", "id": 21831424}, {"name": "Tribune_Publishing", "id": 49643616}], "successors": [{"name": "Chicago_Tribune_people", "id": 2648696}]}

@@ -1,1 +1,1 @@
-{"name": "AMD_products", "id": 8712206, "predecessors": [{"name": "AMD", "id": 8712165}], "successors": [{"name": "ATI_Technologies_products", "id": 26137728}, {"name": "AMD_sockets", "id": 26212596}, {"name": "AMD_graphics_cards", "id": 43193697}, {"name": "AMD_x86_microprocessors", "id": 18040169}]}
+{"name": "AMD_products", "id": 8712206, "predecessors": [{"name": "AMD", "id": 8712165}], "successors": [{"name": "ATI_Technologies_products", "id": 26137728}, {"name": "AMD_graphics_cards", "id": 43193697}]}

@@ -1,1 +1,1 @@
-{"name": "Proxy_servers", "id": 22264719, "predecessors": [{"name": "Internet_architecture", "id": 1111447}, {"name": "Servers_(computing)", "id": 34556923}], "successors": [{"name": "Reverse_proxy", "id": 16617793}, {"name": "Free_proxy_servers", "id": 34527217}]}
+{"name": "Proxy_servers", "id": 22264719, "predecessors": [{"name": "Cache_(computing)", "id": 34604262}, {"name": "Internet_architecture", "id": 1111447}], "successors": [{"name": "Reverse_proxy", "id": 16617793}, {"name": "Free_proxy_servers", "id": 34527217}]}

@@ -1,1 +1,1 @@
-{"name": "Classical_horsemanship", "id": 29880911, "predecessors": [{"name": "Horse_training", "id": 5320627}, {"name": "Animal_trainers", "id": 13948060}], "successors": []}
+{"name": "Classical_horsemanship", "id": 29880911, "predecessors": [{"name": "Equestrianism", "id": 1354533}, {"name": "Horse_training", "id": 5320627}], "successors": []}

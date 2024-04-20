@@ -1,0 +1,1 @@
+{"name": "Aircraft_controls", "id": 810503, "predecessors": [{"name": "Aircraft_components", "id": 2435701}], "successors": [{"name": "Flight_control_systems", "id": 70545365}, {"name": "Harrier_Jump_Jet", "id": 39095147}, {"name": "V/STOL_aircraft_by_thrust_vectoring", "id": 57712623}]}

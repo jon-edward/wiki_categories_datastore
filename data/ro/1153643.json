@@ -1,1 +1,1 @@
-{"name": "Nave_cu_aburi", "id": 1153643, "predecessors": [{"name": "Obiecte", "id": 555690}], "successors": []}
+{"name": "Nave_cu_aburi", "id": 1153643, "predecessors": [{"name": "Tehnologie", "id": 28690}], "successors": [{"name": "Nave_cu_zbaturi", "id": 924555}]}

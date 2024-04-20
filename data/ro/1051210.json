@@ -1,1 +1,1 @@
-{"name": "Plante_suculente", "id": 1051210, "predecessors": [{"name": "Plante_ornamentale", "id": 169067}, {"name": "Plante_tolerante_la_secetă", "id": 1950862}], "successors": []}
+{"name": "Plante_suculente", "id": 1051210, "predecessors": [{"name": "Plante_ornamentale", "id": 169067}, {"name": "Plante_tolerante_la_secetă", "id": 1950862}], "successors": [{"name": "Agave", "id": 1051208}]}

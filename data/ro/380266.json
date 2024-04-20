@@ -1,1 +1,1 @@
-{"name": "CAD", "id": 380266, "predecessors": [{"name": "Aplicații_software", "id": 902984}, {"name": "CNC,_CAD_și_CAM", "id": 749056}, {"name": "Desen_tehnic", "id": 826293}, {"name": "Design_industrial", "id": 36125}, {"name": "Infografică", "id": 914112}], "successors": []}
+{"name": "CAD", "id": 380266, "predecessors": [{"name": "Aplicații_software", "id": 902984}, {"name": "CNC,_CAD_și_CAM", "id": 749056}, {"name": "Desen_tehnic", "id": 826293}, {"name": "Design_industrial", "id": 36125}, {"name": "Grafică_digitală", "id": 914112}], "successors": []}

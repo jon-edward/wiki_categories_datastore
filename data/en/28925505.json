@@ -1,1 +1,1 @@
-{"name": "KBO_League_catchers", "id": 28925505, "predecessors": [{"name": "Baseball_catchers", "id": 23833732}, {"name": "Baseball_positions", "id": 705060}], "successors": []}
+{"name": "KBO_League_catchers", "id": 28925505, "predecessors": [{"name": "Baseball_catchers", "id": 23833732}, {"name": "KBO_League_players", "id": 27467097}], "successors": []}

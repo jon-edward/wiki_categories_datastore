@@ -1,1 +1,1 @@
-{"name": "Periferice_de_intrare", "id": 932366, "predecessors": [{"name": "Date_de_calculatoare", "id": 86160}], "successors": [{"name": "Tastaturi", "id": 449512}, {"name": "Controlere_de_jocuri_video", "id": 932370}]}
+{"name": "Periferice_de_intrare", "id": 932366, "predecessors": [{"name": "Intrare/ieșire", "id": 2915499}], "successors": [{"name": "Tastaturi", "id": 449512}, {"name": "Controlere_de_jocuri_video", "id": 932370}]}

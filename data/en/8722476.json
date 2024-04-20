@@ -1,1 +1,1 @@
-{"name": "Quaternary_ammonium_compounds", "id": 8722476, "predecessors": [{"name": "Ammonium_compounds", "id": 903331}], "successors": []}
+{"name": "Quaternary_ammonium_compounds", "id": 8722476, "predecessors": [{"name": "Ammonium_compounds", "id": 903331}, {"name": "Nitrogen_compounds", "id": 903300}, {"name": "Chemical_compounds", "id": 695235}], "successors": [{"name": "Choline_esters", "id": 803370}, {"name": "Pyridinium_compounds", "id": 54674944}]}

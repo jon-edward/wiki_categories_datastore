@@ -1,1 +1,1 @@
-{"name": "Deposit_libraries", "id": 37021096, "predecessors": [{"name": "Copyright_law", "id": 702268}, {"name": "Library_law", "id": 15091478}, {"name": "Research_libraries", "id": 712655}], "successors": [{"name": "Federal_depository_libraries", "id": 6909794}]}
+{"name": "Deposit_libraries", "id": 37021096, "predecessors": [{"name": "Copyright_law", "id": 702268}, {"name": "Library_law", "id": 15091478}], "successors": [{"name": "Federal_depository_libraries", "id": 6909794}]}

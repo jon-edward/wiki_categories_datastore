@@ -1,1 +1,1 @@
-{"name": "Rotor_machines", "id": 1194993, "predecessors": [{"name": "Encryption_devices", "id": 1068514}, {"name": "History_of_cryptography", "id": 8793381}, {"name": "Machines", "id": 7810459}], "successors": [{"name": "Enigma_machine", "id": 45184205}]}
+{"name": "Rotor_machines", "id": 1194993, "predecessors": [{"name": "History_of_cryptography", "id": 8793381}, {"name": "Machines", "id": 7810459}], "successors": [{"name": "Enigma_machine", "id": 45184205}]}

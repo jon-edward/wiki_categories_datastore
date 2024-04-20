@@ -1,1 +1,1 @@
-{"name": "Antineoplastic_drugs", "id": 22255852, "predecessors": [{"name": "Cancer_treatments", "id": 694971}, {"name": "Chemotherapy", "id": 38697587}], "successors": [{"name": "Blister_agents", "id": 21220462}]}
+{"name": "Antineoplastic_drugs", "id": 22255852, "predecessors": [{"name": "Cancer_treatments", "id": 694971}, {"name": "Chemotherapy", "id": 38697587}], "successors": [{"name": "Blister_agents", "id": 21220462}, {"name": "Mitotic_inhibitors", "id": 32587189}, {"name": "Antibody-drug_conjugates", "id": 46471356}]}

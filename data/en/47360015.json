@@ -1,1 +1,1 @@
-{"name": "Trombones", "id": 47360015, "predecessors": [{"name": "Brass_instruments", "id": 691650}, {"name": "Jazz_instruments", "id": 17903951}], "successors": [{"name": "Compositions_for_trombone", "id": 15974689}]}
+{"name": "Trombones", "id": 47360015, "predecessors": [{"name": "Brass_instruments", "id": 691650}, {"name": "Jazz_instruments", "id": 17903951}], "successors": [{"name": "Compositions_for_trombone", "id": 15974689}, {"name": "Male_trombonists", "id": 59176035}, {"name": "Women_trombonists", "id": 67305439}]}

@@ -1,1 +1,1 @@
-{"name": "Analizator_vizual", "id": 141271, "predecessors": [{"name": "Sistemul_nervos", "id": 69372}], "successors": []}
+{"name": "Analizator_vizual", "id": 141271, "predecessors": [{"name": "Sistem_vizual", "id": 952089}, {"name": "Sistemul_nervos", "id": 69372}], "successors": [{"name": "Ochi", "id": 952073}]}

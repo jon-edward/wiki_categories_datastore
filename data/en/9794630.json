@@ -1,0 +1,1 @@
+{"name": "Light_trucks", "id": 9794630, "predecessors": [{"name": "Trucks", "id": 2803819}], "successors": [{"name": "Minivans", "id": 932406}, {"name": "Pickup_trucks", "id": 932440}, {"name": "Vans", "id": 947427}, {"name": "Kei_trucks", "id": 22525221}, {"name": "Sport_utility_vehicles", "id": 39819664}, {"name": "Panel_trucks", "id": 64520555}]}

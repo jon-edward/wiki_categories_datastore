@@ -1,1 +1,1 @@
-{"name": "Saunas", "id": 65086702, "predecessors": [{"name": "Buildings_and_structures_by_type", "id": 6884364}, {"name": "Rooms", "id": 965836}], "successors": []}
+{"name": "Saunas", "id": 65086702, "predecessors": [{"name": "Buildings_and_structures_by_type", "id": 6884364}, {"name": "Rooms", "id": 965836}, {"name": "Sauna", "id": 52304104}], "successors": []}

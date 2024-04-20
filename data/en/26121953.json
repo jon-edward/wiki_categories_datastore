@@ -1,1 +1,1 @@
-{"name": "Personal_development_television_series", "id": 26121953, "predecessors": [{"name": "Educational_television_series", "id": 5411339}, {"name": "Personal_development", "id": 2348651}, {"name": "Popular_psychology", "id": 1056200}], "successors": [{"name": "Sesame_Street", "id": 693945}]}
+{"name": "Personal_development_television_series", "id": 26121953, "predecessors": [{"name": "Personal_development", "id": 2348651}, {"name": "Educational_television", "id": 2060138}], "successors": [{"name": "Sesame_Street", "id": 693945}]}

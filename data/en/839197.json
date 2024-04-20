@@ -1,1 +1,1 @@
-{"name": "Italian_Air_Force", "id": 839197, "predecessors": [{"name": "Air_forces_by_country", "id": 14734837}], "successors": [{"name": "Italian_Air_Force_personnel", "id": 14489199}]}
+{"name": "Italian_Air_Force", "id": 839197, "predecessors": [{"name": "Air_forces_by_country", "id": 14734837}, {"name": "Military_of_Italy", "id": 839374}, {"name": "Economy_of_Italy", "id": 2637119}], "successors": [{"name": "Italian_Air_Force_personnel", "id": 14489199}]}

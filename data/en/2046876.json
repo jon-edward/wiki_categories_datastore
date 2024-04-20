@@ -1,1 +1,1 @@
-{"name": "Cell_imaging", "id": 2046876, "predecessors": [{"name": "Biological_techniques_and_tools", "id": 5881429}, {"name": "Biotechnology", "id": 888826}, {"name": "Cell_biology", "id": 714693}, {"name": "Microscopy", "id": 1894701}], "successors": [{"name": "Staining", "id": 3241277}]}
+{"name": "Cell_imaging", "id": 2046876, "predecessors": [{"name": "Biotechnology", "id": 888826}, {"name": "Microscopy", "id": 1894701}], "successors": [{"name": "Staining", "id": 3241277}]}

@@ -1,1 +1,1 @@
-{"name": "Generali_austrieci", "id": 112702, "predecessors": [{"name": "Militari_austrieci", "id": 1249363}, {"name": "Oameni_după_ocupație", "id": 758162}], "successors": [{"name": "Comandanți_austrieci_ai_războaielor_napoleoniene", "id": 749398}]}
+{"name": "Generali_austrieci", "id": 112702, "predecessors": [{"name": "Militari_austrieci", "id": 1249363}, {"name": "Generali", "id": 69789}], "successors": [{"name": "Comandanți_austrieci_ai_războaielor_napoleoniene", "id": 749398}]}

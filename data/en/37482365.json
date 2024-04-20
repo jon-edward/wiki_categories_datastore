@@ -1,1 +1,1 @@
-{"name": "Bus_garages", "id": 37482365, "predecessors": [{"name": "Motor_vehicle_maintenance", "id": 4597288}], "successors": []}
+{"name": "Bus_garages", "id": 37482365, "predecessors": [{"name": "Motor_vehicle_maintenance", "id": 4597288}, {"name": "Public_transport_by_mode", "id": 15720272}, {"name": "Parking_facilities", "id": 7203332}], "successors": []}

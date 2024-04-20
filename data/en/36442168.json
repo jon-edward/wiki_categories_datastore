@@ -1,1 +1,1 @@
-{"name": "Legal_issues_in_pregnancy", "id": 36442168, "predecessors": [{"name": "Medical_law", "id": 24684705}, {"name": "Reproductive_rights", "id": 2235897}], "successors": [{"name": "Abortion_law", "id": 1063984}]}
+{"name": "Legal_issues_in_pregnancy", "id": 36442168, "predecessors": [{"name": "Human_pregnancy", "id": 36699574}, {"name": "Medical_law", "id": 24684705}, {"name": "Reproductive_rights", "id": 2235897}], "successors": [{"name": "Abortion_law", "id": 1063984}]}

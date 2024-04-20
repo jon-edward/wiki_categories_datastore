@@ -1,1 +1,1 @@
-{"name": "ASPCA_workers", "id": 75966699, "predecessors": [{"name": "Animal_welfare_workers", "id": 54079737}], "successors": []}
+{"name": "ASPCA_workers", "id": 75966699, "predecessors": [{"name": "Animal_welfare_workers", "id": 54079737}, {"name": "Animal_charities_based_in_the_United_States", "id": 50768781}], "successors": []}

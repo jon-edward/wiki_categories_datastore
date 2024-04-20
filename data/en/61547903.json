@@ -1,1 +1,1 @@
-{"name": "Circus_equipment", "id": 61547903, "predecessors": [{"name": "Circuses", "id": 1216722}, {"name": "Manufactured_goods", "id": 699552}], "successors": []}
+{"name": "Circus_equipment", "id": 61547903, "predecessors": [{"name": "Circuses", "id": 1216722}, {"name": "Equipment", "id": 3228046}], "successors": []}

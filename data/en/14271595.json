@@ -1,1 +1,1 @@
-{"name": "EuroEyes_Cyclassics", "id": 14271595, "predecessors": [{"name": "Sports_competitions_in_Hamburg", "id": 53392316}, {"name": "UCI_ProTour_races", "id": 18675960}, {"name": "UCI_World_Tour_races", "id": 39344105}, {"name": "Vattenfall", "id": 16033688}], "successors": []}
+{"name": "EuroEyes_Cyclassics", "id": 14271595, "predecessors": [{"name": "Cycle_races_in_Germany", "id": 15831635}, {"name": "Sports_competitions_in_Hamburg", "id": 53392316}, {"name": "Vattenfall", "id": 16033688}], "successors": []}

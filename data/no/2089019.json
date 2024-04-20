@@ -1,1 +1,1 @@
-{"name": "Norgesmestere_i_skytesport", "id": 2089019, "predecessors": [{"name": "Norgesmestere", "id": 804296}, {"name": "Skytesport_i_Norge", "id": 315386}], "successors": []}
+{"name": "Norgesmestere_i_skytesport", "id": 2089019, "predecessors": [{"name": "NM_i_skyting", "id": 1520062}, {"name": "Norgesmestere", "id": 804296}, {"name": "Skytesport_i_Norge", "id": 315386}], "successors": [{"name": "Kongepokalvinnere_i_skytesport", "id": 1827000}]}

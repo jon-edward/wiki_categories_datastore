@@ -1,1 +1,1 @@
-{"name": "Stanley_Cup_champions", "id": 5647897, "predecessors": [{"name": "Athletic_sports", "id": 31210709}], "successors": []}
+{"name": "Stanley_Cup_champions", "id": 5647897, "predecessors": [{"name": "Stanley_Cup", "id": 5663251}, {"name": "Stanley_Cup_Finals", "id": 17795226}, {"name": "Athletic_sports", "id": 31210709}], "successors": []}

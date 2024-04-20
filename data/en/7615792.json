@@ -1,1 +1,1 @@
-{"name": "Cooking_appliance_brands", "id": 7615792, "predecessors": [{"name": "Cooking_appliances", "id": 2235539}], "successors": []}
+{"name": "Cooking_appliance_brands", "id": 7615792, "predecessors": [{"name": "Cooking_appliances", "id": 2235539}, {"name": "Home_appliance_brands", "id": 5286548}], "successors": []}

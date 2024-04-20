@@ -1,1 +1,1 @@
-{"name": "New_Zealand_drinks", "id": 24686879, "predecessors": [{"name": "New_Zealand_cuisine", "id": 948248}, {"name": "Polynesian_cuisine", "id": 24079840}], "successors": []}
+{"name": "New_Zealand_drinks", "id": 24686879, "predecessors": [{"name": "New_Zealand_cuisine", "id": 948248}], "successors": [{"name": "Wine_regions_of_New_Zealand", "id": 3772165}, {"name": "Wineries_of_New_Zealand", "id": 4212999}, {"name": "New_Zealand_winemakers", "id": 19301835}, {"name": "New_Zealand_brewers", "id": 55690567}, {"name": "Breweries_of_New_Zealand", "id": 57946986}]}

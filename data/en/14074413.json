@@ -1,1 +1,1 @@
-{"name": "Trucker_films", "id": 14074413, "predecessors": [{"name": "Truck_drivers", "id": 2891794}], "successors": []}
+{"name": "Trucker_films", "id": 14074413, "predecessors": [{"name": "Films_about_trucks", "id": 61654831}, {"name": "Truck_drivers", "id": 2891794}], "successors": []}

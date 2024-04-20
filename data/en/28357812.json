@@ -1,1 +1,1 @@
-{"name": "Rheology", "id": 28357812, "predecessors": [{"name": "Fluid_dynamics", "id": 758273}, {"name": "Non-Newtonian_fluids", "id": 2040920}], "successors": []}
+{"name": "Rheology", "id": 28357812, "predecessors": [{"name": "Fluid_dynamics", "id": 758273}, {"name": "Non-Newtonian_fluids", "id": 2040920}], "successors": [{"name": "Rheologists", "id": 18828022}]}

@@ -1,1 +1,1 @@
-{"name": "Balade", "id": 281735, "predecessors": [{"name": "Specii_literare", "id": 35712}, {"name": "Ficțiune_de_aventuri", "id": 2388120}], "successors": [{"name": "Miorița", "id": 754121}, {"name": "Baladiști", "id": 2387430}]}
+{"name": "Balade", "id": 281735, "predecessors": [{"name": "Genul_epic", "id": 427316}, {"name": "Specii_literare", "id": 35712}], "successors": [{"name": "Miorița", "id": 754121}, {"name": "Baladiști", "id": 2387430}]}

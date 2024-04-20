@@ -1,1 +1,1 @@
-{"name": "Tourism_in_Galicia_(Spain)", "id": 3272847, "predecessors": [{"name": "Galicia_(Spain)", "id": 881400}], "successors": [{"name": "Tourist_attractions_in_Galicia_(Spain)", "id": 35933997}]}
+{"name": "Tourism_in_Galicia_(Spain)", "id": 3272847, "predecessors": [{"name": "Galicia_(Spain)", "id": 881400}, {"name": "Tourism_in_Spain", "id": 2650139}], "successors": [{"name": "Tourist_attractions_in_Galicia_(Spain)", "id": 35933997}]}

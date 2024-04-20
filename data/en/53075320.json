@@ -1,1 +1,1 @@
-{"name": "Deposit_insurance", "id": 53075320, "predecessors": [{"name": "Types_of_insurance", "id": 8163702}], "successors": [{"name": "Federal_Deposit_Insurance_Corporation", "id": 10475875}]}
+{"name": "Deposit_insurance", "id": 53075320, "predecessors": [{"name": "Banking", "id": 1245386}, {"name": "Types_of_insurance", "id": 8163702}], "successors": []}

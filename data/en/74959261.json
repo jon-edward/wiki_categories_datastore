@@ -1,1 +1,1 @@
-{"name": "Engineering_management", "id": 74959261, "predecessors": [{"name": "Business_process_management", "id": 24925024}, {"name": "Engineering_disciplines", "id": 9930194}], "successors": [{"name": "Process_engineering", "id": 42618133}]}
+{"name": "Engineering_management", "id": 74959261, "predecessors": [{"name": "Business_process_management", "id": 24925024}, {"name": "Management_by_type", "id": 36812489}, {"name": "Engineering_disciplines", "id": 9930194}], "successors": [{"name": "Industrial_automation", "id": 30944101}]}

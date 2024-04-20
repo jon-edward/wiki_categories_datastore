@@ -1,1 +1,1 @@
-{"name": "Dispozitive_periferice", "id": 845438, "predecessors": [{"name": "Hardware", "id": 37251}], "successors": []}
+{"name": "Dispozitive_periferice", "id": 845438, "predecessors": [{"name": "Hardware", "id": 37251}], "successors": [{"name": "Intrare/ieșire", "id": 2915499}]}

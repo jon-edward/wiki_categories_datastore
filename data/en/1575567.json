@@ -1,1 +1,1 @@
-{"name": "Algebraic_graph_theory", "id": 1575567, "predecessors": [{"name": "Algebra", "id": 690637}, {"name": "Graph_theory", "id": 691898}], "successors": []}
+{"name": "Algebraic_graph_theory", "id": 1575567, "predecessors": [{"name": "Algebra", "id": 690637}, {"name": "Graph_theory", "id": 691898}], "successors": [{"name": "Regular_graphs", "id": 25730156}]}

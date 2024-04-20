@@ -1,1 +1,1 @@
-{"name": "Outdoor_sculptures_in_France", "id": 19116778, "predecessors": [{"name": "Sculptures_in_France", "id": 27718333}], "successors": [{"name": "Outdoor_sculptures_in_Paris", "id": 75795885}]}
+{"name": "Outdoor_sculptures_in_France", "id": 19116778, "predecessors": [{"name": "Sculptures_in_France", "id": 27718333}, {"name": "Tourism_in_France", "id": 2664305}, {"name": "France", "id": 706228}], "successors": [{"name": "Outdoor_sculptures_in_Paris", "id": 75795885}]}

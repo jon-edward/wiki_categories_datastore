@@ -1,1 +1,1 @@
-{"name": "Judiciary_of_Jersey", "id": 36898323, "predecessors": [{"name": "Law_of_Jersey", "id": 9266259}, {"name": "Judiciaries", "id": 4683914}], "successors": []}
+{"name": "Judiciary_of_Jersey", "id": 36898323, "predecessors": [{"name": "Law_of_Jersey", "id": 9266259}, {"name": "Judiciaries", "id": 4683914}, {"name": "Jersey", "id": 723641}], "successors": [{"name": "Bailiffs_of_Jersey", "id": 2829832}, {"name": "Jurats", "id": 62928369}]}

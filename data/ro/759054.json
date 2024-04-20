@@ -1,1 +1,1 @@
-{"name": "Pianiști_clasici", "id": 759054, "predecessors": [{"name": "Muzicieni", "id": 19900}, {"name": "Instrumentiști", "id": 752892}], "successors": [{"name": "Beethoven", "id": 122180}, {"name": "Wolfgang_Amadeus_Mozart", "id": 412326}, {"name": "George_Enescu", "id": 412637}]}
+{"name": "Pianiști_clasici", "id": 759054, "predecessors": [{"name": "Curente_muzicale", "id": 351601}, {"name": "Instrumentiști", "id": 752892}], "successors": [{"name": "Beethoven", "id": 122180}, {"name": "Wolfgang_Amadeus_Mozart", "id": 412326}, {"name": "George_Enescu", "id": 412637}]}

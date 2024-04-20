@@ -1,1 +1,1 @@
-{"name": "French_pacifists", "id": 17154171, "predecessors": [{"name": "Anti-war_activists", "id": 4694300}], "successors": [{"name": "French_Christian_pacifists", "id": 17154162}]}
+{"name": "French_pacifists", "id": 17154171, "predecessors": [{"name": "French_anti-war_activists", "id": 17157106}, {"name": "Politics_of_Europe", "id": 27067863}, {"name": "Anti-war_activists", "id": 4694300}, {"name": "Continents", "id": 788686}], "successors": [{"name": "French_Christian_pacifists", "id": 17154162}]}

@@ -1,1 +1,1 @@
-{"name": "Ancient_Egyptian_language", "id": 4485936, "predecessors": [{"name": "Ancient_Egypt", "id": 722461}], "successors": [{"name": "Egyptian_hieroglyphs", "id": 17608267}]}
+{"name": "Ancient_Egyptian_language", "id": 4485936, "predecessors": [{"name": "Afroasiatic_languages", "id": 700449}, {"name": "Ancient_Egypt", "id": 722461}, {"name": "Verb–subject–object_languages", "id": 33961754}], "successors": [{"name": "Egyptian_hieroglyphs", "id": 17608267}, {"name": "Ancient_Egyptian_texts", "id": 25926576}, {"name": "Ancient_Egyptian_fiction", "id": 72836625}]}

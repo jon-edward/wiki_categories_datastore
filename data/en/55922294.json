@@ -1,1 +1,1 @@
-{"name": "French_furniture_makers", "id": 55922294, "predecessors": [{"name": "Artisans", "id": 742819}, {"name": "Furniture", "id": 965851}], "successors": [{"name": "French_cabinetmakers", "id": 56831855}]}
+{"name": "French_furniture_makers", "id": 55922294, "predecessors": [{"name": "Furniture_makers", "id": 1588201}, {"name": "Culture_of_Europe", "id": 709679}], "successors": [{"name": "French_cabinetmakers", "id": 56831855}]}

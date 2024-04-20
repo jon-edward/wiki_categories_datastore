@@ -1,1 +1,1 @@
-{"name": "Brand_name_dairy_products", "id": 19639975, "predecessors": [{"name": "Dairy_products", "id": 776875}], "successors": [{"name": "Dairy_products_companies", "id": 3509216}, {"name": "Brand_name_yogurts", "id": 34038167}]}
+{"name": "Brand_name_dairy_products", "id": 19639975, "predecessors": [{"name": "Dairy_products", "id": 776875}, {"name": "Food_product_brands", "id": 4108480}], "successors": [{"name": "Dairy_products_companies", "id": 3509216}]}

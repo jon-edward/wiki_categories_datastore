@@ -1,1 +1,1 @@
-{"name": "Mediatori_chimici", "id": 118919, "predecessors": [{"name": "Fiziologie", "id": 33732}], "successors": []}
+{"name": "Mediatori_chimici", "id": 118919, "predecessors": [{"name": "Farmacologie", "id": 67789}, {"name": "Fiziologie", "id": 33732}], "successors": []}

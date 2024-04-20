@@ -1,1 +1,1 @@
-{"name": "Cotton_organizations", "id": 40192538, "predecessors": [{"name": "Agricultural_organizations", "id": 32366664}, {"name": "Textile_organizations", "id": 43895717}, {"name": "Agriculture_by_type", "id": 31038144}], "successors": []}
+{"name": "Cotton_organizations", "id": 40192538, "predecessors": [{"name": "Agricultural_organizations", "id": 32366664}, {"name": "Cotton_industry", "id": 23671574}, {"name": "Textile_organizations", "id": 43895717}], "successors": []}

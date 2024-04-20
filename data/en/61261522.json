@@ -1,1 +1,1 @@
-{"name": "Failed_assassination_attempts_in_Asia", "id": 61261522, "predecessors": [{"name": "Inchoate_offenses", "id": 27225288}], "successors": []}
+{"name": "Failed_assassination_attempts_in_Asia", "id": 61261522, "predecessors": [{"name": "Failed_terrorist_attempts_in_Asia", "id": 61414703}, {"name": "Asia", "id": 697006}, {"name": "Inchoate_offenses", "id": 27225288}], "successors": [{"name": "Failed_assassination_attempts_in_Sri_Lanka", "id": 64219413}, {"name": "Failed_assassination_attempts_in_Japan", "id": 73020292}]}

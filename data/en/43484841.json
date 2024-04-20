@@ -1,1 +1,1 @@
-{"name": "Acid–base_chemistry", "id": 43484841, "predecessors": [{"name": "Chemistry", "id": 691185}], "successors": [{"name": "PH_indicators", "id": 1446561}]}
+{"name": "Acid–base_chemistry", "id": 43484841, "predecessors": [{"name": "Equilibrium_chemistry", "id": 20193898}], "successors": [{"name": "Acids", "id": 696489}, {"name": "Bases_(chemistry)", "id": 697713}, {"name": "PH_indicators", "id": 1446561}]}

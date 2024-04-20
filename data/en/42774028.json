@@ -1,1 +1,1 @@
-{"name": "Gravitational-wave_astronomy", "id": 42774028, "predecessors": [{"name": "Astronomical_sub-disciplines", "id": 6251189}, {"name": "Astrophysics", "id": 698070}], "successors": [{"name": "Gravitational_waves", "id": 37749144}]}
+{"name": "Gravitational-wave_astronomy", "id": 42774028, "predecessors": [{"name": "General_relativity", "id": 782202}, {"name": "Gravity", "id": 16212316}], "successors": [{"name": "Gravitational_waves", "id": 37749144}, {"name": "Gravitational-wave_telescopes", "id": 1528491}]}

@@ -1,1 +1,1 @@
-{"name": "Florist_companies", "id": 26603946, "predecessors": [{"name": "Floral_industry", "id": 53875703}, {"name": "Florists", "id": 23911865}, {"name": "Horticultural_organizations", "id": 14028769}, {"name": "Taxonomy", "id": 918375}], "successors": []}
+{"name": "Florist_companies", "id": 26603946, "predecessors": [{"name": "Floral_industry", "id": 53875703}, {"name": "Horticultural_organizations", "id": 14028769}, {"name": "Society", "id": 1633936}], "successors": []}

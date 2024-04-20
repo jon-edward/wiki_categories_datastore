@@ -1,1 +1,1 @@
-{"name": "Lost_television_shows", "id": 24231135, "predecessors": [{"name": "History_of_television", "id": 3631217}], "successors": [{"name": "Lost_BBC_episodes", "id": 2896898}, {"name": "Lost_television_episodes", "id": 28766467}]}
+{"name": "Lost_television_shows", "id": 24231135, "predecessors": [{"name": "History_of_television", "id": 3631217}, {"name": "Broadcasting", "id": 765733}, {"name": "Copyright_law", "id": 702268}], "successors": [{"name": "Lost_BBC_episodes", "id": 2896898}, {"name": "Lost_television_episodes", "id": 28766467}]}

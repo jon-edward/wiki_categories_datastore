@@ -1,1 +1,1 @@
-{"name": "Proposed_rapid_transit", "id": 61516920, "predecessors": [{"name": "Rapid_transit", "id": 4286827}, {"name": "Rail_infrastructure", "id": 2962895}], "successors": []}
+{"name": "Proposed_rapid_transit", "id": 61516920, "predecessors": [{"name": "Rapid_transit", "id": 4286827}, {"name": "Rail_infrastructure", "id": 2962895}], "successors": [{"name": "Proposed_rapid_transit_in_India", "id": 49466531}]}

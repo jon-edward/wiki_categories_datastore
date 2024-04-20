@@ -1,1 +1,1 @@
-{"name": "Foste_monede_germane", "id": 2307125, "predecessors": [{"name": "Monede_germane", "id": 1120941}, {"name": "Economia_Germaniei", "id": 822407}], "successors": []}
+{"name": "Foste_monede_germane", "id": 2307125, "predecessors": [{"name": "Foste_unități_monetare", "id": 1026657}, {"name": "Monede_germane", "id": 1120941}, {"name": "Economia_Germaniei", "id": 822407}], "successors": []}

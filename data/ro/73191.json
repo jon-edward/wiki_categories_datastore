@@ -1,1 +1,1 @@
-{"name": "Analgezice", "id": 73191, "predecessors": [{"name": "Durere", "id": 1036592}, {"name": "Neurologie", "id": 40148}], "successors": [{"name": "Antiinflamatoare_nesteroidiene", "id": 2457156}]}
+{"name": "Analgezice", "id": 73191, "predecessors": [{"name": "Durere", "id": 1036592}, {"name": "Neurologie", "id": 40148}], "successors": [{"name": "Opioide", "id": 994473}, {"name": "Antiinflamatoare_nesteroidiene", "id": 2457156}, {"name": "Antimigrenoase", "id": 2483762}]}

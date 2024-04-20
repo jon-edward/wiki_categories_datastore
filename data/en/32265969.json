@@ -1,1 +1,1 @@
-{"name": "Chemical_engineering_academics", "id": 32265969, "predecessors": [{"name": "Engineering_academics", "id": 21122530}], "successors": []}
+{"name": "Chemical_engineering_academics", "id": 32265969, "predecessors": [{"name": "Chemical_engineers", "id": 1292321}, {"name": "Engineering_academics", "id": 21122530}], "successors": []}

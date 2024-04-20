@@ -1,1 +1,1 @@
-{"name": "Feldmareșali_prusaci", "id": 1052503, "predecessors": [{"name": "Feldmareșali_germani", "id": 751034}, {"name": "Militari_germani", "id": 1052509}, {"name": "Armată", "id": 28755}], "successors": []}
+{"name": "Feldmareșali_prusaci", "id": 1052503, "predecessors": [{"name": "Feldmareșali", "id": 751031}, {"name": "Feldmareșali_germani", "id": 751034}, {"name": "Militari_germani", "id": 1052509}], "successors": []}

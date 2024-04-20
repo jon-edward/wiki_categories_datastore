@@ -1,1 +1,1 @@
-{"name": "Telecommunication_conferences", "id": 5074412, "predecessors": [{"name": "Teleconferencing", "id": 5074815}], "successors": [{"name": "Web-related_conferences", "id": 34389954}]}
+{"name": "Telecommunication_conferences", "id": 5074412, "predecessors": [{"name": "Academic_conferences", "id": 10029324}, {"name": "International_conferences", "id": 4432654}, {"name": "Technology_conferences", "id": 13090540}, {"name": "Teleconferencing", "id": 5074815}], "successors": [{"name": "Web-related_conferences", "id": 34389954}]}
