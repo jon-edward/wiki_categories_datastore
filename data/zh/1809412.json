@@ -1,1 +1,1 @@
-{"name": "医学数据库", "id": 1809412, "predecessors": [{"name": "線上資料庫", "id": 564512}], "successors": []}
+{"name": "医学数据库", "id": 1809412, "predecessors": [{"name": "線上資料庫", "id": 564512}, {"name": "数据库", "id": 78031}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "치주_질환", "id": 1739765, "predecessors": [{"name": "치주과학", "id": 851524}], "successors": []}
+{"name": "치주_질환", "id": 1739765, "predecessors": [{"name": "구강병리학", "id": 851552}, {"name": "치주과학", "id": 851524}], "successors": []}

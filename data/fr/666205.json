@@ -1,0 +1,1 @@
+{"name": "Analyse_harmonique", "id": 666205, "predecessors": [{"name": "Analyse_fonctionnelle", "id": 192366}, {"name": "Dynamique", "id": 3053440}, {"name": "Méthode_mathématique_de_la_physique", "id": 813150}], "successors": [{"name": "Série_de_Fourier", "id": 960815}, {"name": "Théorie_de_Fourier", "id": 1186170}, {"name": "Analyse_harmonique_discrète", "id": 1936493}]}

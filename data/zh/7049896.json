@@ -1,1 +1,1 @@
-{"name": "韩国广播公司电视节目", "id": 7049896, "predecessors": [{"name": "韓國廣播公司", "id": 1781264}], "successors": [{"name": "KBS電視劇", "id": 1564632}]}
+{"name": "韩国广播公司电视节目", "id": 7049896, "predecessors": [{"name": "韓國廣播公司", "id": 1781264}, {"name": "韓國電視節目", "id": 1331230}], "successors": [{"name": "KBS電視劇", "id": 1564632}, {"name": "KBS演技大獎", "id": 5694410}, {"name": "The_Unit", "id": 6061396}]}

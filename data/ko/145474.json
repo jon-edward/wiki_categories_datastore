@@ -1,1 +1,1 @@
-{"name": "팬케이크", "id": 145474, "predecessors": [{"name": "케이크", "id": 154282}], "successors": []}
+{"name": "팬케이크", "id": 145474, "predecessors": [{"name": "부침", "id": 1961766}, {"name": "케이크", "id": 154282}], "successors": []}

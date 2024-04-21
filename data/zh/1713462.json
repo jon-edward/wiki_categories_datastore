@@ -1,1 +1,1 @@
-{"name": "电子反馈", "id": 1713462, "predecessors": [{"name": "控制理论", "id": 450814}], "successors": []}
+{"name": "电子反馈", "id": 1713462, "predecessors": [{"name": "电路", "id": 98228}, {"name": "系统分析", "id": 3019474}], "successors": [{"name": "振荡器", "id": 1713491}]}

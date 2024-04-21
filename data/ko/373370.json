@@ -1,1 +1,1 @@
-{"name": "시드니_FC", "id": 373370, "predecessors": [{"name": "시드니의_스포츠", "id": 379505}], "successors": [{"name": "시드니_FC의_축구_선수", "id": 463667}]}
+{"name": "시드니_FC", "id": 373370, "predecessors": [{"name": "A리그_멘_구단", "id": 1189989}, {"name": "시드니의_스포츠", "id": 379505}], "successors": [{"name": "시드니_FC의_축구_선수", "id": 463667}]}

@@ -1,1 +1,1 @@
-{"name": "Tyska_mördare", "id": 930711, "predecessors": [{"name": "Tyska_brottslingar", "id": 205044}, {"name": "Kriminalfall", "id": 212504}], "successors": []}
+{"name": "Tyska_mördare", "id": 930711, "predecessors": [{"name": "Tyska_brottslingar", "id": 205044}, {"name": "Kriminalfall", "id": 212504}], "successors": [{"name": "Tyska_seriemördare", "id": 1482419}]}

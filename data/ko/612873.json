@@ -1,1 +1,1 @@
-{"name": "도교_수행", "id": 612873, "predecessors": [{"name": "도교", "id": 57602}], "successors": []}
+{"name": "도교_수행", "id": 612873, "predecessors": [{"name": "도교", "id": 57602}, {"name": "종교_활동", "id": 542405}], "successors": []}

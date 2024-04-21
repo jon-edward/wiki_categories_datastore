@@ -1,1 +1,1 @@
-{"name": "병역", "id": 568805, "predecessors": [{"name": "군사_제도", "id": 33189}, {"name": "군인", "id": 39206}, {"name": "인적자원관리", "id": 556233}], "successors": [{"name": "징병제", "id": 1088874}]}
+{"name": "병역", "id": 568805, "predecessors": [{"name": "군인", "id": 39206}, {"name": "인적자원관리", "id": 556233}], "successors": [{"name": "징병제", "id": 1088874}]}

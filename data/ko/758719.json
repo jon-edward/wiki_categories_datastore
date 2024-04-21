@@ -1,1 +1,1 @@
-{"name": "드라마_텔레비전_네트워크", "id": 758719, "predecessors": [{"name": "텔레비전_네트워크", "id": 495334}], "successors": []}
+{"name": "드라마_텔레비전_네트워크", "id": 758719, "predecessors": [{"name": "텔레비전_드라마", "id": 308819}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "식물_질병", "id": 223147, "predecessors": [{"name": "감염병", "id": 34410}, {"name": "식물", "id": 9142}, {"name": "생물", "id": 9143}], "successors": []}
+{"name": "식물_질병", "id": 223147, "predecessors": [{"name": "감염병", "id": 34410}, {"name": "식물", "id": 9142}, {"name": "질병", "id": 11913}, {"name": "생물", "id": 9143}], "successors": []}

@@ -1,0 +1,1 @@
+{"name": "Alimentation_en_eau", "id": 9801626, "predecessors": [{"name": "Gestion_de_l'eau", "id": 3189774}], "successors": [{"name": "Fontaine_d'eau_potable", "id": 14265587}]}

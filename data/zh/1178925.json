@@ -1,1 +1,1 @@
-{"name": "大麻素", "id": 1178925, "predecessors": [{"name": "大麻", "id": 1415902}], "successors": [{"name": "JWH大麻素", "id": 8617184}]}
+{"name": "大麻素", "id": 1178925, "predecessors": [{"name": "作用于神经系统的药物", "id": 1556638}, {"name": "大麻", "id": 1415902}, {"name": "抗抑郁药物", "id": 791841}, {"name": "萜类化合物", "id": 698261}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "공해병", "id": 580758, "predecessors": [{"name": "공해", "id": 42224}, {"name": "보건재해", "id": 1423321}], "successors": [{"name": "미나마타병", "id": 3063761}]}
+{"name": "공해병", "id": 580758, "predecessors": [{"name": "공해", "id": 42224}, {"name": "보건재해", "id": 1423321}, {"name": "질병", "id": 11913}], "successors": [{"name": "미나마타병", "id": 3063761}]}

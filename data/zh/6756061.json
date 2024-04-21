@@ -1,1 +1,1 @@
-{"name": "衛星影像", "id": 6756061, "predecessors": [{"name": "各類型攝影", "id": 1420037}], "successors": []}
+{"name": "衛星影像", "id": 6756061, "predecessors": [{"name": "人造衛星", "id": 65918}, {"name": "各類型攝影", "id": 1420037}, {"name": "衛星廣播", "id": 6756089}, {"name": "遥感", "id": 1085411}], "successors": []}

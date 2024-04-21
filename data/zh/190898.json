@@ -1,0 +1,1 @@
+{"name": "串行总线", "id": 190898, "predecessors": [{"name": "计算机总线", "id": 190899}], "successors": [{"name": "USB", "id": 165787}, {"name": "Serial_ATA", "id": 5537884}, {"name": "CAN_bus", "id": 7035469}]}

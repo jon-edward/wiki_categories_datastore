@@ -1,1 +1,1 @@
-{"name": "영어_시험", "id": 511224, "predecessors": [{"name": "언어_시험", "id": 511220}], "successors": []}
+{"name": "영어_시험", "id": 511224, "predecessors": [{"name": "언어_시험", "id": 511220}, {"name": "영어", "id": 11683}, {"name": "영어_교육", "id": 602638}], "successors": [{"name": "청소년_영어_시험", "id": 3203202}]}

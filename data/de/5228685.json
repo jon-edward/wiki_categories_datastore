@@ -1,0 +1,1 @@
+{"name": "Heißgetränkehersteller", "id": 5228685, "predecessors": [{"name": "Getränkehersteller", "id": 328479}], "successors": [{"name": "Verarbeiter_von_Kaffee", "id": 8967430}, {"name": "Verarbeiter_von_Tee", "id": 8967437}, {"name": "Hersteller_von_Kaffeeersatz", "id": 9343269}]}

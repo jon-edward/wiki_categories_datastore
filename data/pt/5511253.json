@@ -1,1 +1,1 @@
-{"name": "Transportes_de_Goiânia", "id": 5511253, "predecessors": [{"name": "Capitais_do_Brasil", "id": 15868}, {"name": "Economia_do_Brasil", "id": 36869}], "successors": [{"name": "Ruas_e_avenidas_de_Goiânia", "id": 5511250}]}
+{"name": "Transportes_de_Goiânia", "id": 5511253, "predecessors": [{"name": "Goiânia", "id": 192545}, {"name": "Economia_do_Brasil", "id": 36869}], "successors": [{"name": "Ruas_e_avenidas_de_Goiânia", "id": 5511250}]}

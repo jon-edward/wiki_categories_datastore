@@ -1,1 +1,1 @@
-{"name": "植物繁殖", "id": 1501181, "predecessors": [{"name": "園藝技術", "id": 1501183}], "successors": []}
+{"name": "植物繁殖", "id": 1501181, "predecessors": [{"name": "植物", "id": 32858}, {"name": "植物學", "id": 69116}, {"name": "繁殖", "id": 634067}], "successors": [{"name": "植物的性", "id": 1822579}]}

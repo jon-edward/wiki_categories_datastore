@@ -1,0 +1,1 @@
+{"name": "Microprocesadores_Intel", "id": 206005, "predecessors": [{"name": "Circuitos_integrados_de_Intel", "id": 7643682}, {"name": "Intel", "id": 2118315}, {"name": "Microprocesadores", "id": 64353}], "successors": [{"name": "Microprocesadores_Intel_x86", "id": 5252258}]}

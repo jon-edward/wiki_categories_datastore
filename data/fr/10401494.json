@@ -1,0 +1,1 @@
+{"name": "Pompe_à_chaleur", "id": 10401494, "predecessors": [{"name": "Compresseur", "id": 4231352}, {"name": "Installation_de_chauffage", "id": 5789878}, {"name": "Installation_de_refroidissement", "id": 5789881}, {"name": "Transfert_thermique", "id": 2755250}], "successors": []}

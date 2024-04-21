@@ -1,1 +1,1 @@
-{"name": "공수도인", "id": 1279459, "predecessors": [{"name": "개인_스포츠", "id": 11855}, {"name": "스포츠", "id": 8865}, {"name": "무술", "id": 23457}], "successors": []}
+{"name": "공수도인", "id": 1279459, "predecessors": [{"name": "스포츠_관련_직업", "id": 274212}, {"name": "격투기", "id": 45238}, {"name": "무술", "id": 23457}], "successors": []}

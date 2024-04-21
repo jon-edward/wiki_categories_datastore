@@ -1,1 +1,1 @@
-{"name": "운동_기능", "id": 391305, "predecessors": [{"name": "신경계", "id": 478190}], "successors": []}
+{"name": "운동_기능", "id": 391305, "predecessors": [{"name": "신경계", "id": 478190}, {"name": "인간_행동", "id": 41590}], "successors": []}

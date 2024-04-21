@@ -1,1 +1,1 @@
-{"name": "체스_표기법", "id": 840179, "predecessors": [{"name": "표기", "id": 593116}], "successors": []}
+{"name": "체스_표기법", "id": 840179, "predecessors": [{"name": "체스_이론", "id": 837785}, {"name": "표기", "id": 593116}], "successors": []}

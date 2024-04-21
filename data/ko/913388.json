@@ -1,1 +1,1 @@
-{"name": "자동차_운전면허", "id": 913388, "predecessors": [{"name": "도로_교통_관련_법규", "id": 763015}, {"name": "신분증", "id": 92839}, {"name": "경영학", "id": 196822}], "successors": []}
+{"name": "자동차_운전면허", "id": 913388, "predecessors": [{"name": "신분증", "id": 92839}, {"name": "경영학", "id": 196822}], "successors": []}

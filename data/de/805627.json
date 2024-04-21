@@ -1,0 +1,1 @@
+{"name": "Segelflugzeug", "id": 805627, "predecessors": [{"name": "Ziviler_Flugzeugtyp", "id": 239346}, {"name": "Luftsport", "id": 292861}], "successors": [{"name": "Lastensegler", "id": 5000553}, {"name": "Segelflugzeug_mit_Hilfsmotor", "id": 5289323}]}

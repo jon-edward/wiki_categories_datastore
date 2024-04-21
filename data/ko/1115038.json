@@ -1,1 +1,1 @@
-{"name": "재즈_영화", "id": 1115038, "predecessors": [{"name": "음악_장르", "id": 33382}], "successors": []}
+{"name": "재즈_영화", "id": 1115038, "predecessors": [{"name": "음악을_소재로_한_작품", "id": 584592}, {"name": "음악을_소재로_한_영화", "id": 460814}], "successors": []}

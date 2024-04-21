@@ -1,1 +1,1 @@
-{"name": "배구_리그", "id": 597282, "predecessors": [{"name": "배구_대회", "id": 400315}, {"name": "단체_스포츠", "id": 2981973}], "successors": []}
+{"name": "배구_리그", "id": 597282, "predecessors": [{"name": "배구_대회", "id": 400315}, {"name": "대회", "id": 116658}], "successors": [{"name": "V-리그", "id": 597281}, {"name": "KOVO컵", "id": 3783298}, {"name": "V-리그_시즌", "id": 597283}]}

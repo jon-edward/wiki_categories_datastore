@@ -1,1 +1,1 @@
-{"name": "중성자별", "id": 227886, "predecessors": [{"name": "별난_물질", "id": 694404}], "successors": [{"name": "펄사", "id": 227885}]}
+{"name": "중성자별", "id": 227886, "predecessors": [{"name": "중성자", "id": 50709}, {"name": "별난_물질", "id": 694404}], "successors": [{"name": "펄사", "id": 227885}]}

@@ -1,1 +1,1 @@
-{"name": "아카데미상_틀", "id": 911891, "predecessors": [{"name": "영화상_틀", "id": 911892}], "successors": []}
+{"name": "아카데미상_틀", "id": 911891, "predecessors": [{"name": "아카데미상", "id": 32058}, {"name": "영화상_틀", "id": 911892}], "successors": []}

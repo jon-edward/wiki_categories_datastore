@@ -1,1 +1,1 @@
-{"name": "Assistentes_de_palco", "id": 2227615, "predecessors": [{"name": "Estética", "id": 438922}], "successors": [{"name": "Paquitas", "id": 2540745}, {"name": "Panicats", "id": 3914744}, {"name": "Angelicats", "id": 6227731}]}
+{"name": "Assistentes_de_palco", "id": 2227615, "predecessors": [{"name": "Programas_de_auditório", "id": 1646202}], "successors": [{"name": "Paquitas", "id": 2540745}, {"name": "Panicats", "id": 3914744}, {"name": "Angelicats", "id": 6227731}]}

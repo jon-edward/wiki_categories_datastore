@@ -1,0 +1,1 @@
+{"name": "核酸", "id": 80601, "predecessors": [{"name": "有机酸", "id": 80221}, {"name": "核苷酸", "id": 583895}, {"name": "生物分子", "id": 1520756}], "successors": [{"name": "DNA", "id": 3513588}, {"name": "RNA", "id": 3524720}]}

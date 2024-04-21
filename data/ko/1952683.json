@@ -1,1 +1,1 @@
-{"name": "박물관을_배경으로_한_영화", "id": 1952683, "predecessors": [{"name": "영상_기술", "id": 88032}, {"name": "박물관", "id": 13515}], "successors": []}
+{"name": "박물관을_배경으로_한_영화", "id": 1952683, "predecessors": [{"name": "영화", "id": 11875}, {"name": "박물관", "id": 13515}], "successors": []}

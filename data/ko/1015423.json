@@ -1,1 +1,1 @@
-{"name": "FC_서울_경기", "id": 1015423, "predecessors": [{"name": "FC_서울", "id": 107246}], "successors": []}
+{"name": "FC_서울_경기", "id": 1015423, "predecessors": [{"name": "FC_서울", "id": 107246}, {"name": "스포츠_경기", "id": 1074767}], "successors": []}

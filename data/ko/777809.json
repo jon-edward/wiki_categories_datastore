@@ -1,1 +1,1 @@
-{"name": "미완성_책", "id": 777809, "predecessors": [{"name": "책", "id": 12250}, {"name": "작품", "id": 168251}], "successors": [{"name": "미완성_소설", "id": 777808}]}
+{"name": "미완성_책", "id": 777809, "predecessors": [{"name": "책", "id": 12250}, {"name": "문학", "id": 4392}], "successors": [{"name": "미완성_소설", "id": 777808}]}

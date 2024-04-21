@@ -1,1 +1,1 @@
-{"name": "LAMP", "id": 910098, "predecessors": [{"name": "Apache软件基金会", "id": 3832399}, {"name": "PHP", "id": 170805}], "successors": []}
+{"name": "LAMP", "id": 910098, "predecessors": [{"name": "Apache软件基金会", "id": 3832399}, {"name": "Linux", "id": 51411}, {"name": "PHP", "id": 170805}, {"name": "开源软件", "id": 1474775}], "successors": []}

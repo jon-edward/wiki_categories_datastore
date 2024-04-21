@@ -1,0 +1,1 @@
+{"name": "Bateau_d'exploration", "id": 371300, "predecessors": [{"name": "Exploration", "id": 157841}, {"name": "Bateau", "id": 112588}], "successors": [{"name": "Bateau_océanographique", "id": 294444}, {"name": "Sous-marin_d'exploration", "id": 6518783}]}

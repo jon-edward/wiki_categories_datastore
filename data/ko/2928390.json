@@ -1,1 +1,1 @@
-{"name": "DNA_시퀀싱", "id": 2928390, "predecessors": [{"name": "분자생물학_기술", "id": 2485423}, {"name": "생명공학", "id": 289094}, {"name": "유전자_지도_제작", "id": 1700602}], "successors": []}
+{"name": "DNA_시퀀싱", "id": 2928390, "predecessors": [{"name": "DNA", "id": 37950}, {"name": "분자생물학_기술", "id": 2485423}, {"name": "생명공학", "id": 289094}], "successors": []}

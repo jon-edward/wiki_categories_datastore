@@ -1,1 +1,1 @@
-{"name": "성형외과_의사", "id": 2529057, "predecessors": [{"name": "성형외과", "id": 298062}], "successors": []}
+{"name": "성형외과_의사", "id": 2529057, "predecessors": [{"name": "성형외과", "id": 298062}, {"name": "외과_의사", "id": 752721}], "successors": []}

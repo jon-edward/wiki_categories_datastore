@@ -1,1 +1,1 @@
-{"name": "虐待动物", "id": 704133, "predecessors": [{"name": "动物权利", "id": 974601}, {"name": "動物福利", "id": 1574478}], "successors": [{"name": "虐待动物事件", "id": 1156422}]}
+{"name": "虐待动物", "id": 704133, "predecessors": [{"name": "动物权利", "id": 974601}, {"name": "動物福利", "id": 1574478}, {"name": "虐待", "id": 921518}], "successors": []}

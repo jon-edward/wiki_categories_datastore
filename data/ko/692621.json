@@ -1,1 +1,1 @@
-{"name": "열처리", "id": 692621, "predecessors": [{"name": "공작기계", "id": 463309}, {"name": "금속가공", "id": 103492}, {"name": "열", "id": 43515}, {"name": "철", "id": 92349}], "successors": []}
+{"name": "열처리", "id": 692621, "predecessors": [{"name": "공작기계", "id": 463309}, {"name": "금속가공", "id": 103492}, {"name": "철", "id": 92349}], "successors": []}

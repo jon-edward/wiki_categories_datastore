@@ -1,1 +1,1 @@
-{"name": "남자_배영_선수", "id": 2772251, "predecessors": [{"name": "남성", "id": 81898}], "successors": []}
+{"name": "남자_배영_선수", "id": 2772251, "predecessors": [{"name": "배영", "id": 1884431}, {"name": "스포츠_관련_직업", "id": 274212}], "successors": []}

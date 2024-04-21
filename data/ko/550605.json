@@ -1,1 +1,1 @@
-{"name": "요리학", "id": 550605, "predecessors": [{"name": "인문학", "id": 172058}, {"name": "취미", "id": 38639}], "successors": [{"name": "부엌", "id": 562263}]}
+{"name": "요리학", "id": 550605, "predecessors": [{"name": "영양", "id": 32180}, {"name": "인문학", "id": 172058}, {"name": "취미", "id": 38639}], "successors": [{"name": "부엌", "id": 562263}]}

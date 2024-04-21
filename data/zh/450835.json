@@ -1,0 +1,1 @@
+{"name": "KDE", "id": 450835, "predecessors": [{"name": "Qt", "id": 1055910}, {"name": "桌面环境", "id": 112835}], "successors": [{"name": "KOffice", "id": 1001953}, {"name": "KDE_Extragear", "id": 1071355}, {"name": "KDE教育計劃", "id": 1451094}, {"name": "KDE_Software_Compilation", "id": 4042742}]}

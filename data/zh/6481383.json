@@ -1,1 +1,1 @@
-{"name": "坦克博物馆", "id": 6481383, "predecessors": [{"name": "军事博物馆", "id": 1390522}], "successors": []}
+{"name": "坦克博物馆", "id": 6481383, "predecessors": [{"name": "军事博物馆", "id": 1390522}, {"name": "坦克", "id": 180225}, {"name": "基础设施", "id": 1405664}], "successors": []}

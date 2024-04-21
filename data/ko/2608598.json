@@ -1,1 +1,1 @@
-{"name": "영화_포스터", "id": 2608598, "predecessors": [{"name": "영화", "id": 11875}, {"name": "포스터", "id": 1027413}], "successors": []}
+{"name": "영화_포스터", "id": 2608598, "predecessors": [{"name": "영화", "id": 11875}, {"name": "포스터", "id": 1027413}], "successors": [{"name": "애니메이션_영화_포스터", "id": 2608595}]}

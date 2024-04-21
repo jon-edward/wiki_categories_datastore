@@ -1,0 +1,1 @@
+{"name": "Wertpapier", "id": 1460518, "predecessors": [{"name": "Urkunde", "id": 403239}, {"name": "Wertpapiere", "id": 4774925}], "successors": [{"name": "Aktie", "id": 3370995}, {"name": "Derivatives_Wertpapier", "id": 10267207}]}

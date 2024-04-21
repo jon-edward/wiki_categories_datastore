@@ -1,1 +1,1 @@
-{"name": "熱海王星", "id": 1768207, "predecessors": [{"name": "太陽系外行星", "id": 76626}], "successors": []}
+{"name": "熱海王星", "id": 1768207, "predecessors": [{"name": "太陽系外行星", "id": 76626}, {"name": "类地行星", "id": 1053566}, {"name": "类木行星", "id": 1053565}, {"name": "行星类型", "id": 1053273}], "successors": []}

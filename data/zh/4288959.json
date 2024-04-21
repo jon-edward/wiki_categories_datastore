@@ -1,1 +1,1 @@
-{"name": "牛肉飯", "id": 4288959, "predecessors": [{"name": "飯", "id": 270166}], "successors": []}
+{"name": "牛肉飯", "id": 4288959, "predecessors": [{"name": "牛肉制品与牛肉菜肴", "id": 1065869}, {"name": "飯", "id": 270166}], "successors": []}

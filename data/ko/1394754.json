@@ -1,1 +1,1 @@
-{"name": "농업_학교", "id": 1394754, "predecessors": [{"name": "농업", "id": 56133}, {"name": "유형별_학교", "id": 1100847}], "successors": []}
+{"name": "농업_학교", "id": 1394754, "predecessors": [{"name": "농업", "id": 56133}, {"name": "유형별_학교", "id": 1100847}], "successors": [{"name": "농업_고등학교", "id": 885214}]}

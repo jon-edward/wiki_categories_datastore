@@ -1,1 +1,1 @@
-{"name": "谣言", "id": 5785637, "predecessors": [{"name": "虚假传播", "id": 511066}], "successors": [{"name": "網路謠言", "id": 397924}]}
+{"name": "谣言", "id": 5785637, "predecessors": [{"name": "虚假传播", "id": 511066}, {"name": "各種主題的歷史", "id": 76902}], "successors": [{"name": "網路謠言", "id": 397924}]}

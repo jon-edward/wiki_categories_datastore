@@ -1,1 +1,1 @@
-{"name": "地图册", "id": 650665, "predecessors": [{"name": "地图", "id": 81587}], "successors": [{"name": "地名辭典", "id": 7488296}]}
+{"name": "地图册", "id": 650665, "predecessors": [{"name": "工具书", "id": 65026}, {"name": "書籍類型", "id": 650232}], "successors": [{"name": "地名辭典", "id": 7488296}]}

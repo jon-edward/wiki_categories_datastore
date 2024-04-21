@@ -1,1 +1,1 @@
-{"name": "나라별_유로_주화", "id": 2837327, "predecessors": [{"name": "유로_주화", "id": 534531}], "successors": []}
+{"name": "나라별_유로_주화", "id": 2837327, "predecessors": [{"name": "유로_주화", "id": 534531}, {"name": "통화", "id": 11839}], "successors": []}

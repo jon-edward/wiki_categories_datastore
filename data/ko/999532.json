@@ -1,1 +1,1 @@
-{"name": "모바일_결제", "id": 999532, "predecessors": [{"name": "결제_수단", "id": 215528}, {"name": "이동_통신_서비스", "id": 457683}], "successors": []}
+{"name": "모바일_결제", "id": 999532, "predecessors": [{"name": "결제_수단", "id": 215528}], "successors": []}

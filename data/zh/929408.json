@@ -1,1 +1,1 @@
-{"name": "磺酸", "id": 929408, "predecessors": [{"name": "官能团", "id": 157518}], "successors": []}
+{"name": "磺酸", "id": 929408, "predecessors": [{"name": "官能团", "id": 157518}, {"name": "有机硫化合物", "id": 698090}, {"name": "有机酸", "id": 80221}], "successors": []}

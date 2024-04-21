@@ -1,1 +1,1 @@
-{"name": "Nam_diễn_viên_truyền_hình_Vương_quốc_Liên_hiệp_Anh", "id": 3390725, "predecessors": [{"name": "Nam_diễn_viên_truyền_hình", "id": 2424805}, {"name": "Diễn_viên_châu_Âu", "id": 2420639}], "successors": [{"name": "Nam_diễn_viên_truyền_hình_Anh", "id": 3250082}]}
+{"name": "Nam_diễn_viên_truyền_hình_Vương_quốc_Liên_hiệp_Anh", "id": 3390725, "predecessors": [{"name": "Diễn_viên_châu_Âu", "id": 2420639}, {"name": "Truyền_hình", "id": 15079}], "successors": [{"name": "Nam_diễn_viên_truyền_hình_Anh", "id": 3250082}]}

@@ -1,1 +1,1 @@
-{"name": "산수", "id": 38133, "predecessors": [{"name": "산술", "id": 100978}, {"name": "초등_수학", "id": 29631}], "successors": [{"name": "평균", "id": 57585}, {"name": "홀짝성", "id": 3317787}]}
+{"name": "산수", "id": 38133, "predecessors": [{"name": "산술", "id": 100978}, {"name": "초등_수학", "id": 29631}], "successors": [{"name": "홀짝성", "id": 3317787}]}

@@ -1,1 +1,1 @@
-{"name": "도난_미술품", "id": 2676032, "predecessors": [{"name": "미술_작품", "id": 2835764}], "successors": []}
+{"name": "도난_미술품", "id": 2676032, "predecessors": [{"name": "절도_사건", "id": 567697}, {"name": "국제법", "id": 34130}], "successors": []}

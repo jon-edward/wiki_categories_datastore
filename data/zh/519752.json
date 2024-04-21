@@ -1,1 +1,1 @@
-{"name": "微軟API", "id": 519752, "predecessors": [{"name": "Microsoft_Windows", "id": 973088}], "successors": [{"name": ".NET", "id": 227331}, {"name": "Windows_API", "id": 1229736}]}
+{"name": "微軟API", "id": 519752, "predecessors": [{"name": "Microsoft_Windows", "id": 973088}, {"name": "应用程序接口", "id": 552375}], "successors": [{"name": ".NET", "id": 227331}, {"name": "Windows_API", "id": 1229736}]}

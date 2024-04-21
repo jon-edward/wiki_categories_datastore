@@ -1,1 +1,1 @@
-{"name": "월트_디즈니_레코드_음반", "id": 568009, "predecessors": [{"name": "음반", "id": 63878}], "successors": []}
+{"name": "월트_디즈니_레코드_음반", "id": 568009, "predecessors": [{"name": "월트_디즈니_컴퍼니", "id": 479184}, {"name": "음반", "id": 63878}], "successors": []}

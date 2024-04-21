@@ -1,1 +1,1 @@
-{"name": "SSC_바리의_축구_감독", "id": 399359, "predecessors": [{"name": "바리_광역시의_코무네", "id": 2047692}], "successors": []}
+{"name": "SSC_바리의_축구_감독", "id": 399359, "predecessors": [{"name": "스포츠_지도자", "id": 2453021}, {"name": "바리_광역시의_코무네", "id": 2047692}], "successors": []}

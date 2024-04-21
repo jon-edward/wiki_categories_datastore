@@ -1,1 +1,1 @@
-{"name": "전동기", "id": 111208, "predecessors": [{"name": "엔진", "id": 49858}, {"name": "전기공학", "id": 33470}], "successors": [{"name": "이온_기관", "id": 1476481}]}
+{"name": "전동기", "id": 111208, "predecessors": [{"name": "엔진", "id": 49858}, {"name": "전기공학", "id": 33470}], "successors": [{"name": "교류전동기", "id": 1323315}, {"name": "이온_기관", "id": 1476481}]}

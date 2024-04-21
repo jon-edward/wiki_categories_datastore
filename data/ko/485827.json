@@ -1,1 +1,1 @@
-{"name": "비자", "id": 485827, "predecessors": [{"name": "신분증", "id": 92839}, {"name": "여행_서류", "id": 713434}], "successors": [{"name": "나라별_비자", "id": 1123409}]}
+{"name": "비자", "id": 485827, "predecessors": [{"name": "신분증", "id": 92839}], "successors": [{"name": "나라별_비자", "id": 1123409}]}

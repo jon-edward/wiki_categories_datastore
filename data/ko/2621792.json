@@ -1,1 +1,1 @@
-{"name": "체온_조절", "id": 2621792, "predecessors": [{"name": "동물생리학", "id": 479369}, {"name": "온도", "id": 11434}, {"name": "전열", "id": 1113937}, {"name": "항상성", "id": 2621793}, {"name": "HVAC", "id": 1113936}], "successors": []}
+{"name": "체온_조절", "id": 2621792, "predecessors": [{"name": "동물생리학", "id": 479369}, {"name": "온도", "id": 11434}, {"name": "항상성", "id": 2621793}, {"name": "HVAC", "id": 1113936}], "successors": []}

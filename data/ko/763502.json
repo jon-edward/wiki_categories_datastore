@@ -1,1 +1,1 @@
-{"name": "채즙", "id": 763502, "predecessors": [{"name": "채소", "id": 33273}], "successors": []}
+{"name": "채즙", "id": 763502, "predecessors": [{"name": "주스", "id": 545724}, {"name": "채소", "id": 33273}, {"name": "요리", "id": 15592}], "successors": []}

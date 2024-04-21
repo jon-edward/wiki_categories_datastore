@@ -1,0 +1,1 @@
+{"name": "Computadoras_personales", "id": 5143892, "predecessors": [{"name": "Equipamiento_de_oficina", "id": 8875720}, {"name": "Plataformas_de_videojuegos", "id": 8604023}, {"name": "Tipos_de_computadoras", "id": 5143693}], "successors": [{"name": "Computadoras_personales_de_IBM", "id": 5143473}, {"name": "Computadoras_Apple_II", "id": 9361348}]}

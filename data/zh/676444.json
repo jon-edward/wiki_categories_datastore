@@ -1,1 +1,1 @@
-{"name": "蘇聯轟炸機", "id": 676444, "predecessors": [{"name": "蘇聯軍事", "id": 144484}], "successors": []}
+{"name": "蘇聯轟炸機", "id": 676444, "predecessors": [{"name": "轰炸机", "id": 98267}, {"name": "军用飞机", "id": 48815}], "successors": []}

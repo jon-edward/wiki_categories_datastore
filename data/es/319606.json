@@ -1,0 +1,1 @@
+{"name": "Tórax", "id": 319606, "predecessors": [{"name": "Partes_del_cuerpo", "id": 319548}], "successors": [{"name": "Huesos_del_tórax", "id": 2083818}, {"name": "Pulmón", "id": 3241387}, {"name": "Cirugía_torácica", "id": 5409510}, {"name": "Arterias_del_tórax", "id": 8469844}]}

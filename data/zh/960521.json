@@ -1,1 +1,1 @@
-{"name": "供暖設施", "id": 960521, "predecessors": [{"name": "生活用品", "id": 458965}], "successors": []}
+{"name": "供暖設施", "id": 960521, "predecessors": [{"name": "HVAC", "id": 1499040}], "successors": []}

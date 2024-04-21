@@ -1,1 +1,1 @@
-{"name": "생체_재료", "id": 2855286, "predecessors": [{"name": "의료_기술", "id": 778524}, {"name": "재료", "id": 50188}], "successors": []}
+{"name": "생체_재료", "id": 2855286, "predecessors": [{"name": "외과학", "id": 31098}, {"name": "의료_기술", "id": 778524}, {"name": "재료", "id": 50188}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "다크_판타지_소설", "id": 1765996, "predecessors": [{"name": "판타지_소설", "id": 53364}], "successors": []}
+{"name": "다크_판타지_소설", "id": 1765996, "predecessors": [{"name": "다크_판타지", "id": 1765949}, {"name": "판타지_소설", "id": 53364}], "successors": []}

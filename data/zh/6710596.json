@@ -1,1 +1,1 @@
-{"name": "圖形處理器", "id": 6710596, "predecessors": [{"name": "電腦硬體", "id": 460677}, {"name": "数字电子", "id": 6208489}], "successors": [{"name": "AMD圖形處理器", "id": 5678610}]}
+{"name": "圖形處理器", "id": 6710596, "predecessors": [{"name": "图形硬件", "id": 1714326}, {"name": "微處理器", "id": 53011}, {"name": "電腦硬體", "id": 460677}, {"name": "電腦架構", "id": 133831}, {"name": "传感器", "id": 325759}], "successors": [{"name": "AMD圖形處理器", "id": 5678610}, {"name": "GeForce系列", "id": 6788648}, {"name": "Quadro系列", "id": 6789224}]}

@@ -1,1 +1,1 @@
-{"name": "RTL_Group", "id": 3598466, "predecessors": [{"name": "Медиахолдинги", "id": 6647488}], "successors": [{"name": "Телесериалы_RTL", "id": 8907246}, {"name": "Фильмы_RTL", "id": 8907249}]}
+{"name": "RTL_Group", "id": 3598466, "predecessors": [{"name": "Медиахолдинги", "id": 6647488}], "successors": [{"name": "Фильмы_RTL", "id": 8907249}, {"name": "Телесериалы_RTL", "id": 8907246}]}

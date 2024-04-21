@@ -1,1 +1,1 @@
-{"name": "재보험사", "id": 1591667, "predecessors": [{"name": "보험", "id": 93367}, {"name": "보험의_종류", "id": 2527123}], "successors": []}
+{"name": "재보험사", "id": 1591667, "predecessors": [{"name": "보험", "id": 93367}], "successors": []}

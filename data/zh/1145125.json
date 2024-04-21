@@ -1,1 +1,1 @@
-{"name": "餐旅網路服務", "id": 1145125, "predecessors": [{"name": "社交網路服務", "id": 1132881}], "successors": []}
+{"name": "餐旅網路服務", "id": 1145125, "predecessors": [{"name": "社交網路服務", "id": 1132881}, {"name": "基础设施", "id": 1405664}], "successors": []}

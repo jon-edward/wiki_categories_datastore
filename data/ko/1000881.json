@@ -1,1 +1,1 @@
-{"name": "FC_서울의_코칭스태프", "id": 1000881, "predecessors": [{"name": "FC_서울", "id": 107246}, {"name": "대한민국의_스포츠인", "id": 34674}], "successors": [{"name": "FC_서울의_축구_감독", "id": 399273}]}
+{"name": "FC_서울의_코칭스태프", "id": 1000881, "predecessors": [{"name": "FC_서울", "id": 107246}, {"name": "축구인", "id": 458036}], "successors": [{"name": "FC_서울의_축구_감독", "id": 399273}]}

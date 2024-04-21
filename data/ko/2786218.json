@@ -1,1 +1,1 @@
-{"name": "보이스트롯_참가자", "id": 2786218, "predecessors": [{"name": "방송", "id": 15145}, {"name": "대회", "id": 116658}], "successors": []}
+{"name": "보이스트롯_참가자", "id": 2786218, "predecessors": [{"name": "음악_경연회", "id": 431798}], "successors": []}

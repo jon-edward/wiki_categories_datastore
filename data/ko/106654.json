@@ -1,1 +1,1 @@
-{"name": "가명", "id": 106654, "predecessors": [{"name": "이름", "id": 28281}], "successors": [{"name": "필명", "id": 1463389}, {"name": "가명_작품", "id": 3228646}]}
+{"name": "가명", "id": 106654, "predecessors": [{"name": "이름", "id": 28281}], "successors": [{"name": "집단_가명", "id": 106653}, {"name": "필명", "id": 1463389}, {"name": "가명_작품", "id": 3228646}]}

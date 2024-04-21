@@ -1,1 +1,1 @@
-{"name": "자기_부상", "id": 3672694, "predecessors": [{"name": "공중_부양", "id": 157418}, {"name": "자기", "id": 137452}], "successors": []}
+{"name": "자기_부상", "id": 3672694, "predecessors": [{"name": "공중_부양", "id": 157418}, {"name": "자기", "id": 137452}], "successors": [{"name": "자기부상철도", "id": 1174105}]}

@@ -1,1 +1,1 @@
-{"name": "污垢", "id": 1712840, "predecessors": [{"name": "腐蚀", "id": 1712786}], "successors": []}
+{"name": "污垢", "id": 1712840, "predecessors": [{"name": "傳輸現象", "id": 1219264}, {"name": "水处理", "id": 598695}, {"name": "流体动力学", "id": 743163}, {"name": "腐蚀", "id": 1712786}], "successors": []}

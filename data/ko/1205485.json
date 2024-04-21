@@ -1,1 +1,1 @@
-{"name": "선율", "id": 1205485, "predecessors": [{"name": "음악_이론", "id": 46118}, {"name": "음악철학", "id": 3751793}], "successors": [{"name": "음계", "id": 28248}]}
+{"name": "선율", "id": 1205485, "predecessors": [{"name": "작곡", "id": 753838}], "successors": [{"name": "음계", "id": 28248}]}

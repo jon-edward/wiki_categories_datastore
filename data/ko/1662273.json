@@ -1,1 +1,1 @@
-{"name": "AIK_포트볼의_축구_감독", "id": 1662273, "predecessors": [{"name": "AIK_포트볼", "id": 393582}], "successors": []}
+{"name": "AIK_포트볼의_축구_감독", "id": 1662273, "predecessors": [{"name": "AIK_포트볼", "id": 393582}, {"name": "스포츠_지도자", "id": 2453021}], "successors": []}

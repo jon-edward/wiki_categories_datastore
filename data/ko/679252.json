@@ -1,1 +1,1 @@
-{"name": "무기_설계자", "id": 679252, "predecessors": [{"name": "발명", "id": 103494}, {"name": "디자인", "id": 33660}], "successors": [{"name": "화기_설계자", "id": 679250}]}
+{"name": "무기_설계자", "id": 679252, "predecessors": [{"name": "산업_디자이너", "id": 708769}, {"name": "디자인", "id": 33660}], "successors": [{"name": "화기_설계자", "id": 679250}]}

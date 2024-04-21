@@ -1,1 +1,1 @@
-{"name": "골절", "id": 50285, "predecessors": [{"name": "골격계_질환", "id": 776739}], "successors": []}
+{"name": "골절", "id": 50285, "predecessors": [{"name": "골격계_질환", "id": 776739}, {"name": "외상", "id": 50283}, {"name": "정형외과", "id": 1741042}], "successors": []}

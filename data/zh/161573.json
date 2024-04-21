@@ -1,0 +1,1 @@
+{"name": "部件工具箱", "id": 161573, "predecessors": [{"name": "程序设计工具", "id": 52117}], "successors": [{"name": "Qt", "id": 1055910}, {"name": "GTK", "id": 1130245}, {"name": "JavaScript函式庫", "id": 3342138}]}

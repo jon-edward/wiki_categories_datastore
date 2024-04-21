@@ -1,1 +1,1 @@
-{"name": "電影海報", "id": 575596, "predecessors": [{"name": "電影製作", "id": 338811}], "successors": [{"name": "臺灣電影海報", "id": 7790880}]}
+{"name": "電影海報", "id": 575596, "predecessors": [{"name": "合理使用海报", "id": 135857}, {"name": "電影製作", "id": 338811}], "successors": [{"name": "臺灣電影海報", "id": 7790880}]}

@@ -1,1 +1,1 @@
-{"name": "수영복", "id": 88549, "predecessors": [{"name": "스포츠_의류", "id": 693260}], "successors": []}
+{"name": "수영복", "id": 88549, "predecessors": [{"name": "수영_장비", "id": 460083}, {"name": "스포츠_의류", "id": 693260}], "successors": [{"name": "수영복_브랜드", "id": 1926346}, {"name": "비키니", "id": 3282602}]}

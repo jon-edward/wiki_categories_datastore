@@ -1,1 +1,1 @@
-{"name": "Unix", "id": 93929, "predecessors": [{"name": "操作系统", "id": 33605}], "successors": [{"name": "类Unix系统", "id": 467370}]}
+{"name": "Unix", "id": 93929, "predecessors": [{"name": "操作系统", "id": 33605}], "successors": [{"name": "System_V", "id": 448434}, {"name": "Unix软件", "id": 451600}, {"name": "类Unix系统", "id": 467370}, {"name": "Unix信号", "id": 1168188}, {"name": "Open_Group標準", "id": 1451166}, {"name": "Unix人物", "id": 3063561}, {"name": "Unix文件系统技术", "id": 5530227}]}

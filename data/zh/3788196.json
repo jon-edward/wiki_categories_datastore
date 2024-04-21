@@ -1,1 +1,1 @@
-{"name": "燈火節", "id": 3788196, "predecessors": [{"name": "灯", "id": 435964}], "successors": [{"name": "元宵節", "id": 654577}]}
+{"name": "燈火節", "id": 3788196, "predecessors": [{"name": "灯", "id": 435964}, {"name": "文化中的火", "id": 7021355}], "successors": [{"name": "元宵節", "id": 654577}, {"name": "中秋節", "id": 654635}]}

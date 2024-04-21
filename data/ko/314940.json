@@ -1,1 +1,1 @@
-{"name": "냉각재", "id": 314940, "predecessors": [{"name": "냉각_기술", "id": 277962}, {"name": "재료", "id": 50188}], "successors": [{"name": "냉매", "id": 1673937}, {"name": "물", "id": 29686}]}
+{"name": "냉각재", "id": 314940, "predecessors": [{"name": "재료", "id": 50188}], "successors": [{"name": "냉매", "id": 1673937}, {"name": "물", "id": 29686}]}

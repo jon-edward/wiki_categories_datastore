@@ -1,1 +1,1 @@
-{"name": "가공의_농구_선수", "id": 559289, "predecessors": [{"name": "가공의_사람", "id": 40106}], "successors": []}
+{"name": "가공의_농구_선수", "id": 559289, "predecessors": [{"name": "가공의_사람", "id": 40106}, {"name": "스포츠_관련_직업", "id": 274212}], "successors": []}

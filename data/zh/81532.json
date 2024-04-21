@@ -1,1 +1,1 @@
-{"name": "和约", "id": 81532, "predecessors": [{"name": "军事条约", "id": 5308767}], "successors": [{"name": "凡尔赛条约", "id": 1662279}]}
+{"name": "和约", "id": 81532, "predecessors": [{"name": "军事条约", "id": 5308767}, {"name": "和平", "id": 58101}], "successors": [{"name": "凡尔赛条约", "id": 1662279}, {"name": "20世纪和约", "id": 5111837}]}

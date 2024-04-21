@@ -1,0 +1,1 @@
+{"name": "Información_sensible", "id": 4329344, "predecessors": [{"name": "Espionaje", "id": 118967}, {"name": "Información", "id": 1920303}, {"name": "Privacidad", "id": 2942569}, {"name": "Secretos", "id": 3172290}, {"name": "Seguridad_nacional", "id": 2942575}], "successors": [{"name": "Información_clasificada", "id": 3172282}, {"name": "WikiLeaks", "id": 4329338}]}

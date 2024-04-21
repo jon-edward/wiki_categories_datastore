@@ -1,1 +1,1 @@
-{"name": "Nintendo_Entertainment_System", "id": 2314246, "predecessors": [{"name": "Consoles_da_Nintendo", "id": 2281904}, {"name": "Consolas_de_jogos", "id": 64228}], "successors": []}
+{"name": "Nintendo_Entertainment_System", "id": 2314246, "predecessors": [{"name": "Consoles_da_Nintendo", "id": 2281904}, {"name": "Consolas_de_jogos", "id": 64228}], "successors": [{"name": "Emuladores_da_Nintendo_Entertainment_System", "id": 1536267}, {"name": "Clones_de_NES", "id": 2314239}, {"name": "Jogos_para_Nintendo_Entertainment_System", "id": 4242725}]}

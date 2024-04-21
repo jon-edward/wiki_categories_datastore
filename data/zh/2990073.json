@@ -1,1 +1,1 @@
-{"name": "河南戏曲", "id": 2990073, "predecessors": [{"name": "河南文化", "id": 929289}, {"name": "中国地域文化", "id": 1478542}], "successors": [{"name": "豫剧", "id": 440709}]}
+{"name": "河南戏曲", "id": 2990073, "predecessors": [{"name": "中国戏剧", "id": 42655}, {"name": "河南文化", "id": 929289}], "successors": [{"name": "豫剧", "id": 440709}]}

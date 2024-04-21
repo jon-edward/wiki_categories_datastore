@@ -1,1 +1,1 @@
-{"name": "BBC_라디오", "id": 848277, "predecessors": [{"name": "BBC", "id": 496090}, {"name": "방송", "id": 15145}], "successors": []}
+{"name": "BBC_라디오", "id": 848277, "predecessors": [{"name": "BBC", "id": 496090}, {"name": "영국", "id": 12096}], "successors": []}

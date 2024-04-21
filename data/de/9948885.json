@@ -1,0 +1,1 @@
+{"name": "Haustierhaltung", "id": 9948885, "predecessors": [{"name": "Tierhaltung", "id": 1134868}], "successors": [{"name": "Haustier", "id": 241921}, {"name": "Hundehaltung", "id": 10341141}, {"name": "Katzenhaltung", "id": 10341164}, {"name": "Kaninchenzucht", "id": 4431396}, {"name": "Hauskaninchen", "id": 7615346}]}

@@ -1,1 +1,1 @@
-{"name": "체스_오프닝", "id": 837795, "predecessors": [{"name": "체스_용어", "id": 837767}], "successors": []}
+{"name": "체스_오프닝", "id": 837795, "predecessors": [{"name": "체스_용어", "id": 837767}, {"name": "체스_이론", "id": 837785}], "successors": []}

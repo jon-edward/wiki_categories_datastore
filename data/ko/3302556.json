@@ -1,1 +1,1 @@
-{"name": "원시_기술", "id": 3302556, "predecessors": [{"name": "생존_능력", "id": 290268}], "successors": []}
+{"name": "원시_기술", "id": 3302556, "predecessors": [{"name": "기술사", "id": 289113}, {"name": "생존_능력", "id": 290268}, {"name": "유형별_기술", "id": 509632}], "successors": []}

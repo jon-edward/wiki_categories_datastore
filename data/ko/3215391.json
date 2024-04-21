@@ -1,1 +1,1 @@
-{"name": "독일의_S반", "id": 3215391, "predecessors": [{"name": "대중_교통", "id": 40988}, {"name": "교통_체계", "id": 3026763}], "successors": []}
+{"name": "독일의_S반", "id": 3215391, "predecessors": [{"name": "교통", "id": 11844}], "successors": [{"name": "베를린_S반", "id": 3215396}, {"name": "베를린_S반역", "id": 3215402}]}

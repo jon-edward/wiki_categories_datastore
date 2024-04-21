@@ -1,1 +1,1 @@
-{"name": "제주시의_도로", "id": 401080, "predecessors": [{"name": "제주시의_교통", "id": 663107}], "successors": []}
+{"name": "제주시의_도로", "id": 401080, "predecessors": [{"name": "제주시의_교통", "id": 663107}, {"name": "제주특별자치도의_도로", "id": 219984}], "successors": []}

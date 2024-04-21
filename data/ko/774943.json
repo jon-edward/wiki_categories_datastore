@@ -1,1 +1,1 @@
-{"name": "마주", "id": 774943, "predecessors": [{"name": "동물_육종", "id": 2009453}, {"name": "동물_관련_직업", "id": 774945}], "successors": []}
+{"name": "마주", "id": 774943, "predecessors": [{"name": "경마", "id": 190408}, {"name": "동물_육종", "id": 2009453}, {"name": "동물_관련_직업", "id": 774945}], "successors": []}

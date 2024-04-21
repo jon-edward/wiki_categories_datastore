@@ -1,1 +1,1 @@
-{"name": "마차", "id": 604302, "predecessors": [{"name": "도로_교통", "id": 40989}, {"name": "동물_견인차량", "id": 766887}], "successors": []}
+{"name": "마차", "id": 604302, "predecessors": [{"name": "동물_견인차량", "id": 766887}], "successors": [{"name": "전차_(고대_무기)", "id": 2283746}]}

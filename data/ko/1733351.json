@@ -1,1 +1,1 @@
-{"name": "후지_TV_일요일_밤_9시_드라마", "id": 1733351, "predecessors": [{"name": "후지_TV_드라마", "id": 403001}], "successors": []}
+{"name": "후지_TV_일요일_밤_9시_드라마", "id": 1733351, "predecessors": [{"name": "텔레비전_드라마_방송_시간대", "id": 1448553}, {"name": "후지_TV_드라마", "id": 403001}], "successors": []}

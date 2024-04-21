@@ -1,1 +1,1 @@
-{"name": "잠수함_함급", "id": 1492616, "predecessors": [{"name": "잠수함", "id": 42629}, {"name": "선박", "id": 1049978}], "successors": []}
+{"name": "잠수함_함급", "id": 1492616, "predecessors": [{"name": "잠수함", "id": 42629}, {"name": "분류_체계", "id": 1242089}], "successors": [{"name": "오하이오급_잠수함", "id": 2507511}]}

@@ -1,1 +1,1 @@
-{"name": "NHK週六電視劇", "id": 3769977, "predecessors": [{"name": "昭和時代戰後", "id": 3128760}], "successors": []}
+{"name": "NHK週六電視劇", "id": 3769977, "predecessors": [{"name": "NHK電視劇", "id": 1565139}, {"name": "日本電視劇播放時段", "id": 1646411}, {"name": "昭和時代戰後", "id": 3128760}], "successors": []}

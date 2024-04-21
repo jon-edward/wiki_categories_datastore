@@ -1,0 +1,1 @@
+{"name": "Procesos_electroquímicos", "id": 7661492, "predecessors": [{"name": "Electroquímica", "id": 1550059}, {"name": "Procesos_industriales", "id": 666998}, {"name": "Procesos_químicos", "id": 209960}], "successors": [{"name": "Electrólisis", "id": 1851200}, {"name": "Corrosión", "id": 3409671}]}

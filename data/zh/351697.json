@@ -1,1 +1,1 @@
-{"name": "AMD处理器", "id": 351697, "predecessors": [{"name": "AMD", "id": 457110}], "successors": [{"name": "AMD處理器列表", "id": 3454875}]}
+{"name": "AMD处理器", "id": 351697, "predecessors": [{"name": "AMD", "id": 457110}, {"name": "微處理器", "id": 53011}], "successors": [{"name": "AMD處理器列表", "id": 3454875}]}

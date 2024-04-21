@@ -1,1 +1,1 @@
-{"name": "住宅風格", "id": 5311577, "predecessors": [{"name": "建築風格", "id": 302486}], "successors": [{"name": "四合院", "id": 77169}]}
+{"name": "住宅風格", "id": 5311577, "predecessors": [{"name": "住宅", "id": 921534}, {"name": "建築風格", "id": 302486}], "successors": [{"name": "四合院", "id": 77169}, {"name": "新文藝復興建築", "id": 7803866}]}

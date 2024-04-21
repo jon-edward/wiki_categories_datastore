@@ -1,1 +1,1 @@
-{"name": "Filmvetare", "id": 414893, "predecessors": [{"name": "Film", "id": 50715}, {"name": "Kulturvetenskap", "id": 594249}, {"name": "Topp", "id": 113605}], "successors": [{"name": "Svenska_filmvetare", "id": 5069331}, {"name": "Filmhistoriker", "id": 8122830}]}
+{"name": "Filmvetare", "id": 414893, "predecessors": [{"name": "Kulturvetare", "id": 1502517}, {"name": "Film", "id": 50715}, {"name": "Topp", "id": 113605}], "successors": [{"name": "Svenska_filmvetare", "id": 5069331}, {"name": "Filmhistoriker", "id": 8122830}]}

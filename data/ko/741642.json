@@ -1,1 +1,1 @@
-{"name": "난수방송", "id": 741642, "predecessors": [{"name": "라디오_방송", "id": 2912207}, {"name": "방송", "id": 15145}], "successors": []}
+{"name": "난수방송", "id": 741642, "predecessors": [{"name": "비밀", "id": 210797}], "successors": []}

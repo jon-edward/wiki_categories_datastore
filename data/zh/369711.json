@@ -1,1 +1,1 @@
-{"name": "面部表情", "id": 369711, "predecessors": [{"name": "生物识别技术", "id": 3719186}], "successors": []}
+{"name": "面部表情", "id": 369711, "predecessors": [{"name": "臉部", "id": 1108530}, {"name": "人工智能应用", "id": 899632}], "successors": []}

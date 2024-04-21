@@ -1,1 +1,1 @@
-{"name": "Sự_kiện_pay-per-view_của_WWE", "id": 108409, "predecessors": [{"name": "Chương_trình_của_WWE", "id": 69874}], "successors": [{"name": "Royal_Rumble", "id": 3251131}]}
+{"name": "Sự_kiện_pay-per-view_của_WWE", "id": 108409, "predecessors": [{"name": "Chương_trình_của_WWE", "id": 69874}], "successors": [{"name": "Royal_Rumble", "id": 3251131}, {"name": "WWE_Money_in_the_Bank", "id": 19863639}, {"name": "WWE_Crown_Jewel", "id": 19863641}, {"name": "WWE_Backlash", "id": 19864053}, {"name": "WWE_Night_of_Champions", "id": 19864114}]}

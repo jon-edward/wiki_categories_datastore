@@ -1,0 +1,1 @@
+{"name": "Arme_et_équipement_anti-émeute", "id": 9930983, "predecessors": [{"name": "Arme_non_létale", "id": 4048975}, {"name": "Maintien_de_l'ordre", "id": 559797}, {"name": "Arme", "id": 87379}, {"name": "Catastrophe", "id": 137901}], "successors": [{"name": "Lacrymogène", "id": 4840827}]}

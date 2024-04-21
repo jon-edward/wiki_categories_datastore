@@ -1,1 +1,1 @@
-{"name": "고기국", "id": 3667419, "predecessors": [{"name": "고기_요리", "id": 545685}], "successors": []}
+{"name": "고기국", "id": 3667419, "predecessors": [{"name": "고기_요리", "id": 545685}, {"name": "국", "id": 363936}], "successors": []}

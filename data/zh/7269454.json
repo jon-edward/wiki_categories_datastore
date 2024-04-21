@@ -1,1 +1,1 @@
-{"name": "飛航情報區", "id": 7269454, "predecessors": [{"name": "联合国专门机构", "id": 537519}], "successors": []}
+{"name": "飛航情報區", "id": 7269454, "predecessors": [{"name": "航空交通管制", "id": 920755}, {"name": "民用航空", "id": 1353826}], "successors": []}

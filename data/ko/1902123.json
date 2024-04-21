@@ -1,1 +1,1 @@
-{"name": "바이킹_탐험가", "id": 1902123, "predecessors": [{"name": "바이킹", "id": 294871}, {"name": "북극_탐험가", "id": 99376}], "successors": []}
+{"name": "바이킹_탐험가", "id": 1902123, "predecessors": [{"name": "바이킹", "id": 294871}, {"name": "북극_탐험가", "id": 99376}, {"name": "노르드인", "id": 1366765}], "successors": []}

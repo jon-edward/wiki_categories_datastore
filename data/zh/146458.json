@@ -1,1 +1,1 @@
-{"name": "視窗系統", "id": 146458, "predecessors": [{"name": "操作系统", "id": 33605}, {"name": "图形用户界面", "id": 170851}], "successors": [{"name": "Microsoft_Windows", "id": 973088}]}
+{"name": "視窗系統", "id": 146458, "predecessors": [{"name": "操作系统", "id": 33605}, {"name": "图形用户界面", "id": 170851}], "successors": [{"name": "Mac_OS", "id": 467353}, {"name": "Microsoft_Windows", "id": 973088}]}

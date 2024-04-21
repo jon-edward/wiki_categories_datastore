@@ -1,0 +1,1 @@
+{"name": "Bahnanlagentyp", "id": 8494213, "predecessors": [{"name": "Landverkehr", "id": 1117161}], "successors": [{"name": "Eisenbahnsignal", "id": 1154037}, {"name": "Bahnhofstyp", "id": 9032615}, {"name": "Bahnstreckentyp", "id": 9033918}]}

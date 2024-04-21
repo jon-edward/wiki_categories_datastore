@@ -1,1 +1,1 @@
-{"name": "에탄올아민", "id": 2961307, "predecessors": [{"name": "아민", "id": 151136}, {"name": "알코올", "id": 40379}], "successors": []}
+{"name": "에탄올아민", "id": 2961307, "predecessors": [{"name": "아민", "id": 151136}, {"name": "알코올", "id": 40379}], "successors": [{"name": "페닐에탄올아민", "id": 2961306}]}

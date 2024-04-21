@@ -1,1 +1,1 @@
-{"name": "머스킷", "id": 1248046, "predecessors": [{"name": "화기_작동_방식", "id": 47824}], "successors": []}
+{"name": "머스킷", "id": 1248046, "predecessors": [{"name": "초기_화기", "id": 1098610}, {"name": "화기", "id": 43332}], "successors": []}

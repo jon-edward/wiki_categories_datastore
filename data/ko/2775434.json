@@ -1,1 +1,1 @@
-{"name": "대체_암_치료법", "id": 2775434, "predecessors": [{"name": "대체의학요법", "id": 3260953}], "successors": []}
+{"name": "대체_암_치료법", "id": 2775434, "predecessors": [{"name": "대체의학요법", "id": 3260953}, {"name": "암_치료", "id": 953599}], "successors": []}

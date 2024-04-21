@@ -1,1 +1,1 @@
-{"name": "골드_러시", "id": 863075, "predecessors": [{"name": "광업사", "id": 863077}, {"name": "금", "id": 147069}], "successors": []}
+{"name": "골드_러시", "id": 863075, "predecessors": [{"name": "광업사", "id": 863077}, {"name": "금", "id": 147069}, {"name": "근대사", "id": 118371}], "successors": [{"name": "캘리포니아_골드_러시", "id": 863074}]}

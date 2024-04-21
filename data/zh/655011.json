@@ -1,1 +1,1 @@
-{"name": "燈籠", "id": 655011, "predecessors": [{"name": "手工艺", "id": 47054}, {"name": "灯", "id": 435964}], "successors": []}
+{"name": "燈籠", "id": 655011, "predecessors": [{"name": "灯", "id": 435964}], "successors": [{"name": "台灣燈藝師", "id": 5901943}]}

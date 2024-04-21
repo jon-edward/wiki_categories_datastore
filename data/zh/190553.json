@@ -1,1 +1,1 @@
-{"name": "詩集", "id": 190553, "predecessors": [{"name": "詩歌", "id": 73861}, {"name": "文学", "id": 33586}], "successors": []}
+{"name": "詩集", "id": 190553, "predecessors": [{"name": "各类图书", "id": 7072395}, {"name": "書籍類型", "id": 650232}], "successors": [{"name": "中国诗集", "id": 3147055}, {"name": "和歌集", "id": 1798298}]}

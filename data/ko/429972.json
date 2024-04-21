@@ -1,1 +1,1 @@
-{"name": "덴마크의_철도_차량", "id": 429972, "predecessors": [{"name": "철도_차량", "id": 121040}, {"name": "덴마크", "id": 13799}, {"name": "유럽의_교통", "id": 83461}], "successors": []}
+{"name": "덴마크의_철도_차량", "id": 429972, "predecessors": [{"name": "덴마크", "id": 13799}, {"name": "경제", "id": 11654}], "successors": []}

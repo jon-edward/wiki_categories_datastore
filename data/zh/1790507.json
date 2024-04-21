@@ -1,1 +1,1 @@
-{"name": "美国监狱", "id": 1790507, "predecessors": [{"name": "監禁及拘留", "id": 1741424}], "successors": []}
+{"name": "美国监狱", "id": 1790507, "predecessors": [{"name": "美国政府", "id": 42994}, {"name": "監禁及拘留", "id": 1741424}, {"name": "各類建築物", "id": 3249538}], "successors": []}

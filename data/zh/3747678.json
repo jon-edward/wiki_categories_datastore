@@ -1,1 +1,1 @@
-{"name": "防空武器", "id": 3747678, "predecessors": [{"name": "武器", "id": 39124}, {"name": "防空", "id": 3747675}], "successors": []}
+{"name": "防空武器", "id": 3747678, "predecessors": [{"name": "武器", "id": 39124}, {"name": "防空", "id": 3747675}], "successors": [{"name": "高射炮", "id": 459339}]}

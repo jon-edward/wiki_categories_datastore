@@ -1,1 +1,1 @@
-{"name": "石器", "id": 1759626, "predecessors": [{"name": "石器时代", "id": 295085}, {"name": "考古文物类型", "id": 8228809}], "successors": []}
+{"name": "石器", "id": 1759626, "predecessors": [{"name": "工具", "id": 65701}, {"name": "石器时代", "id": 295085}], "successors": []}

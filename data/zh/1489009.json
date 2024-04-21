@@ -1,1 +1,1 @@
-{"name": "MUSIC_STATION", "id": 1489009, "predecessors": [{"name": "1986年日本", "id": 3128095}], "successors": []}
+{"name": "MUSIC_STATION", "id": 1489009, "predecessors": [{"name": "資料廣播連結節目", "id": 7623005}, {"name": "音樂節目", "id": 1043554}, {"name": "1986年日本", "id": 3128095}], "successors": []}

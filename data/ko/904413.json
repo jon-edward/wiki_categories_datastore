@@ -1,1 +1,1 @@
-{"name": "니콘_카메라", "id": 904413, "predecessors": [{"name": "니콘", "id": 194906}, {"name": "브랜드", "id": 124373}], "successors": []}
+{"name": "니콘_카메라", "id": 904413, "predecessors": [{"name": "니콘", "id": 194906}, {"name": "브랜드", "id": 124373}], "successors": [{"name": "니콘_DSLR_카메라", "id": 904412}]}

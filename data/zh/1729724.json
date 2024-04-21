@@ -1,1 +1,1 @@
-{"name": "苏联电力机车", "id": 1729724, "predecessors": [{"name": "俄羅斯鐵路", "id": 755356}], "successors": []}
+{"name": "苏联电力机车", "id": 1729724, "predecessors": [{"name": "电气化铁路", "id": 1170783}, {"name": "载具", "id": 58315}], "successors": []}

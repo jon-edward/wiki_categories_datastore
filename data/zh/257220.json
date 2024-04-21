@@ -1,1 +1,1 @@
-{"name": "电子测试设备", "id": 257220, "predecessors": [{"name": "测试", "id": 541384}], "successors": []}
+{"name": "电子测试设备", "id": 257220, "predecessors": [{"name": "度量儀器", "id": 65700}, {"name": "工具", "id": 65701}], "successors": []}

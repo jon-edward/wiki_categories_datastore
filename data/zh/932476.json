@@ -1,1 +1,1 @@
-{"name": "薩博飛機", "id": 932476, "predecessors": [{"name": "欧盟成员国", "id": 35610}], "successors": []}
+{"name": "薩博飛機", "id": 932476, "predecessors": [{"name": "民航飛機", "id": 86173}, {"name": "製造業", "id": 1159067}, {"name": "航空航太公司", "id": 4094515}, {"name": "欧洲航空", "id": 2772072}], "successors": []}

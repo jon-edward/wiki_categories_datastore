@@ -1,0 +1,1 @@
+{"name": "Pile", "id": 1078161, "predecessors": [{"name": "Alimentation_électrique", "id": 1202653}, {"name": "Composant_électrique", "id": 1068609}, {"name": "Stockage_de_l'énergie", "id": 1078284}, {"name": "Électrochimie", "id": 94545}], "successors": [{"name": "Pile_à_combustible", "id": 1049025}]}

@@ -1,1 +1,1 @@
-{"name": "세균_독소", "id": 3208005, "predecessors": [{"name": "독소", "id": 444459}, {"name": "생체분자", "id": 62805}], "successors": []}
+{"name": "세균_독소", "id": 3208005, "predecessors": [{"name": "독력인자", "id": 3208011}, {"name": "독소", "id": 444459}, {"name": "생체분자", "id": 62805}], "successors": []}

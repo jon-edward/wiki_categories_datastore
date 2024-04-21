@@ -1,1 +1,1 @@
-{"name": "英國轟炸機", "id": 579639, "predecessors": [{"name": "英國軍事", "id": 157018}], "successors": [{"name": "二战英国轰炸机", "id": 6978194}]}
+{"name": "英國轟炸機", "id": 579639, "predecessors": [{"name": "轰炸机", "id": 98267}, {"name": "军用飞机", "id": 48815}], "successors": [{"name": "二战英国轰炸机", "id": 6978194}]}

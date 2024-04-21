@@ -1,0 +1,1 @@
+{"name": "Langage_impératif", "id": 83588, "predecessors": [{"name": "Langage_de_programmation", "id": 82644}], "successors": [{"name": "Langage_C", "id": 3656130}, {"name": "Langage_Pascal", "id": 5682341}, {"name": "Langage_Fortran", "id": 5816062}, {"name": "Langage_Lisp", "id": 6531529}]}

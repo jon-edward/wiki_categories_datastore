@@ -1,1 +1,1 @@
-{"name": "Järnväg_i_fiktion", "id": 1206802, "predecessors": [{"name": "Järnväg", "id": 56116}, {"name": "Transport_i_fiktion", "id": 1206888}], "successors": [{"name": "Järnväg_i_skönlitteratur", "id": 1206801}, {"name": "Järnväg_på_film", "id": 1206803}, {"name": "Filmer_som_utspelar_sig_ombord_på_tåg", "id": 8187451}]}
+{"name": "Järnväg_i_fiktion", "id": 1206802, "predecessors": [{"name": "Järnväg", "id": 56116}, {"name": "Transport_i_fiktion", "id": 1206888}], "successors": [{"name": "Järnväg_i_skönlitteratur", "id": 1206801}, {"name": "Järnväg_på_film", "id": 1206803}]}

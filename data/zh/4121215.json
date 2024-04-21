@@ -1,1 +1,1 @@
-{"name": "口令认证", "id": 4121215, "predecessors": [{"name": "認證方法", "id": 620221}, {"name": "计算机访问控制", "id": 4115268}], "successors": []}
+{"name": "口令认证", "id": 4121215, "predecessors": [{"name": "認證方法", "id": 620221}, {"name": "计算机访问控制", "id": 4115268}, {"name": "辨识混淆", "id": 7661728}], "successors": []}

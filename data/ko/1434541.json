@@ -1,1 +1,1 @@
-{"name": "화재_방호", "id": 1434541, "predecessors": [{"name": "건축공학", "id": 84825}, {"name": "불", "id": 66302}, {"name": "소방", "id": 263421}, {"name": "안전", "id": 31670}], "successors": []}
+{"name": "화재_방호", "id": 1434541, "predecessors": [{"name": "불", "id": 66302}, {"name": "소방", "id": 263421}, {"name": "안전", "id": 31670}], "successors": []}

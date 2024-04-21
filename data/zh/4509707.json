@@ -1,1 +1,1 @@
-{"name": "任天堂64独占游戏", "id": 4509707, "predecessors": [{"name": "任天堂64遊戲", "id": 345381}], "successors": []}
+{"name": "任天堂64独占游戏", "id": 4509707, "predecessors": [{"name": "任天堂64遊戲", "id": 345381}, {"name": "操作系统", "id": 33605}], "successors": []}

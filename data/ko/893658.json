@@ -1,1 +1,1 @@
-{"name": "웹_접근성", "id": 893658, "predecessors": [{"name": "웹_개발", "id": 361127}, {"name": "웹_디자인", "id": 122139}], "successors": []}
+{"name": "웹_접근성", "id": 893658, "predecessors": [{"name": "웹_개발", "id": 361127}, {"name": "사용자_인터페이스", "id": 73187}], "successors": []}

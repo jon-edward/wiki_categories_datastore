@@ -1,0 +1,1 @@
+{"name": "Chimie_théorique", "id": 1463286, "predecessors": [{"name": "Chimie", "id": 81540}, {"name": "Science", "id": 81541}], "successors": [{"name": "Chimie_quantique", "id": 94649}, {"name": "Chimie_numérique", "id": 1463283}, {"name": "Chémoinformatique", "id": 3993344}, {"name": "Chimiste_théoricien", "id": 4878664}]}

@@ -1,1 +1,1 @@
-{"name": "蘸醬", "id": 6704993, "predecessors": [{"name": "醬", "id": 450978}], "successors": []}
+{"name": "蘸醬", "id": 6704993, "predecessors": [{"name": "調味料", "id": 58034}, {"name": "醬", "id": 450978}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "海島恢復", "id": 6695658, "predecessors": [{"name": "生态恢复", "id": 1687171}], "successors": []}
+{"name": "海島恢復", "id": 6695658, "predecessors": [{"name": "生态恢复", "id": 1687171}, {"name": "岛屿", "id": 52393}], "successors": []}

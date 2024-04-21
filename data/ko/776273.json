@@ -1,1 +1,1 @@
-{"name": "화형된_사람", "id": 776273, "predecessors": [{"name": "화재로_죽은_사람", "id": 529497}], "successors": []}
+{"name": "화형된_사람", "id": 776273, "predecessors": [{"name": "사형된_사람", "id": 95680}, {"name": "형벌", "id": 31665}], "successors": []}

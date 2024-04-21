@@ -1,1 +1,1 @@
-{"name": "사할린주의_교통", "id": 3769498, "predecessors": [{"name": "사할린주", "id": 35695}, {"name": "교통", "id": 11844}], "successors": []}
+{"name": "사할린주의_교통", "id": 3769498, "predecessors": [{"name": "사할린주", "id": 35695}], "successors": [{"name": "유즈노사할린스크의_교통", "id": 3779333}]}

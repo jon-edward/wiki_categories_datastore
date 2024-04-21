@@ -1,1 +1,1 @@
-{"name": "底片", "id": 483356, "predecessors": [{"name": "影像科技", "id": 65769}, {"name": "摄影器材", "id": 909750}], "successors": []}
+{"name": "底片", "id": 483356, "predecessors": [{"name": "光學", "id": 59777}, {"name": "影像科技", "id": 65769}, {"name": "摄影器材", "id": 909750}], "successors": []}

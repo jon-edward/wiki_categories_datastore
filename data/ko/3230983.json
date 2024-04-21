@@ -1,1 +1,1 @@
-{"name": "감각수용기", "id": 3230983, "predecessors": [{"name": "몸감각계", "id": 3230979}, {"name": "센서", "id": 96439}, {"name": "수용체", "id": 593663}], "successors": []}
+{"name": "감각수용기", "id": 3230983, "predecessors": [{"name": "센서", "id": 96439}, {"name": "수용체", "id": 593663}], "successors": []}

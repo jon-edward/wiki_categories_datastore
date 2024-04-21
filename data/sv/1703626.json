@@ -1,1 +1,1 @@
-{"name": "Målvakter_i_AIK_Ishockey", "id": 1703626, "predecessors": [{"name": "Spelare_i_AIK_Ishockey", "id": 666305}, {"name": "Sport", "id": 55124}], "successors": []}
+{"name": "Ishockeymålvakter_i_AIK", "id": 1703626, "predecessors": [{"name": "Ishockeyspelare_i_AIK", "id": 666305}, {"name": "Sport", "id": 55124}], "successors": []}

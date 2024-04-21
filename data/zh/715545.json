@@ -1,1 +1,1 @@
-{"name": "异氰酸酯", "id": 715545, "predecessors": [{"name": "官能团", "id": 157518}], "successors": []}
+{"name": "异氰酸酯", "id": 715545, "predecessors": [{"name": "官能团", "id": 157518}, {"name": "氧化合物", "id": 589990}, {"name": "碳", "id": 714255}, {"name": "化合物", "id": 41507}], "successors": []}

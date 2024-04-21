@@ -1,1 +1,1 @@
-{"name": "FK_하이두크_쿨라의_축구_선수", "id": 1957491, "predecessors": [{"name": "남성", "id": 81898}], "successors": []}
+{"name": "FK_하이두크_쿨라의_축구_선수", "id": 1957491, "predecessors": [{"name": "1925년_설립된_축구단", "id": 1723322}, {"name": "축구인", "id": 458036}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "무기_비료", "id": 2579900, "predecessors": [{"name": "비료", "id": 346592}, {"name": "집약_농업", "id": 2516119}], "successors": []}
+{"name": "무기_비료", "id": 2579900, "predecessors": [{"name": "농화학", "id": 667676}, {"name": "비료", "id": 346592}], "successors": []}

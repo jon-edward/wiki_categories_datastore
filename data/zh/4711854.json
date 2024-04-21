@@ -1,1 +1,1 @@
-{"name": "旋轉對稱", "id": 4711854, "predecessors": [{"name": "對稱", "id": 453453}, {"name": "李群", "id": 450356}], "successors": []}
+{"name": "旋轉對稱", "id": 4711854, "predecessors": [{"name": "對稱", "id": 453453}, {"name": "旋转", "id": 1608227}, {"name": "李群", "id": 450356}], "successors": []}

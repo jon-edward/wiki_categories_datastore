@@ -1,1 +1,1 @@
-{"name": "성능", "id": 303046, "predecessors": [{"name": "기술", "id": 15132}, {"name": "품질", "id": 95816}], "successors": []}
+{"name": "성능", "id": 303046, "predecessors": [{"name": "기술", "id": 15132}, {"name": "지표", "id": 303047}, {"name": "품질", "id": 95816}], "successors": []}

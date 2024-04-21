@@ -1,1 +1,1 @@
-{"name": "로메", "id": 2482552, "predecessors": [{"name": "아프리카에_위치한_수도", "id": 972907}, {"name": "토고의_도시", "id": 48116}], "successors": []}
+{"name": "로메", "id": 2482552, "predecessors": [{"name": "토고의_도시", "id": 48116}], "successors": [{"name": "로메_출신", "id": 2482551}]}

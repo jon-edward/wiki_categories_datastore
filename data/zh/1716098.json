@@ -1,1 +1,1 @@
-{"name": "手表", "id": 1716098, "predecessors": [{"name": "飾物", "id": 472885}], "successors": []}
+{"name": "手表", "id": 1716098, "predecessors": [{"name": "時鐘", "id": 69951}, {"name": "鐘表學", "id": 1083164}, {"name": "飾物", "id": 472885}], "successors": [{"name": "智能手表", "id": 3888178}, {"name": "手表品牌", "id": 4414645}]}

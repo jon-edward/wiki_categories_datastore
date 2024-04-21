@@ -1,1 +1,1 @@
-{"name": "FIFA_센추리_클럽_남자_선수", "id": 3663029, "predecessors": [{"name": "남성", "id": 81898}, {"name": "단체", "id": 40740}], "successors": []}
+{"name": "FIFA_센추리_클럽_남자_선수", "id": 3663029, "predecessors": [{"name": "국제_축구_연맹", "id": 129101}, {"name": "축구인", "id": 458036}, {"name": "직업", "id": 33338}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "加拿大電視節目", "id": 967614, "predecessors": [{"name": "加拿大文化", "id": 56970}, {"name": "艺术", "id": 41219}], "successors": [{"name": "CTV电视节目", "id": 2823001}]}
+{"name": "加拿大電視節目", "id": 967614, "predecessors": [{"name": "电视", "id": 47053}, {"name": "加拿大文化", "id": 56970}], "successors": [{"name": "加拿大電視劇", "id": 1357903}, {"name": "CTV电视节目", "id": 2823001}]}

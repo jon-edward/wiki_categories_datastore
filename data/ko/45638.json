@@ -1,1 +1,1 @@
-{"name": "함재기", "id": 45638, "predecessors": [{"name": "군사_항공", "id": 30022}, {"name": "군용_항공기", "id": 30020}], "successors": []}
+{"name": "함재기", "id": 45638, "predecessors": [{"name": "해군", "id": 41359}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "무반동총", "id": 1058501, "predecessors": [{"name": "대전차_무기", "id": 80575}], "successors": []}
+{"name": "무반동총", "id": 1058501, "predecessors": [{"name": "대전차_무기", "id": 80575}, {"name": "유형별_대포", "id": 1410798}, {"name": "화기", "id": 43332}], "successors": []}

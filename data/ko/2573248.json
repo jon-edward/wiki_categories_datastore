@@ -1,1 +1,1 @@
-{"name": "신호_추정", "id": 2573248, "predecessors": [{"name": "추정법", "id": 2573249}, {"name": "시계열_분석", "id": 80108}], "successors": []}
+{"name": "신호_추정", "id": 2573248, "predecessors": [{"name": "베이즈_추정", "id": 2573251}, {"name": "시계열_분석", "id": 80108}], "successors": []}

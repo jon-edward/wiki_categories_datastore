@@ -1,0 +1,1 @@
+{"name": "Errores_de_software", "id": 5580221, "predecessors": [{"name": "Calidad_de_software", "id": 5592736}, {"name": "Errores_informáticos", "id": 9408544}, {"name": "Programación", "id": 52400}], "successors": [{"name": "Depuradores", "id": 1830613}]}

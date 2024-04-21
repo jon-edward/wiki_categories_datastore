@@ -1,1 +1,1 @@
-{"name": "Scooter", "id": 195916, "predecessors": [{"name": "Motorfiets", "id": 68154}], "successors": []}
+{"name": "Scooter", "id": 195916, "predecessors": [{"name": "Bromfiets", "id": 721047}, {"name": "Motorfiets", "id": 68154}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "체스_전략", "id": 838290, "predecessors": [{"name": "스포츠", "id": 8865}], "successors": []}
+{"name": "체스_전략", "id": 838290, "predecessors": [{"name": "체스_이론", "id": 837785}, {"name": "스포츠", "id": 8865}], "successors": []}

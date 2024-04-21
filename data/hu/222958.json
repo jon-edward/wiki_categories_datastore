@@ -1,1 +1,1 @@
-{"name": "LMBT_zenészek", "id": 222958, "predecessors": [{"name": "LMBT_személyek", "id": 130681}, {"name": "Zenészek", "id": 33256}], "successors": [{"name": "LMBT_komolyzenészek", "id": 1637399}]}
+{"name": "LMBT_zenészek", "id": 222958, "predecessors": [{"name": "LMBT_személyek", "id": 130681}, {"name": "Zenészek", "id": 33256}], "successors": [{"name": "Magyar_LMBT_zenészek", "id": 1172278}, {"name": "LMBT_komolyzenészek", "id": 1637399}]}

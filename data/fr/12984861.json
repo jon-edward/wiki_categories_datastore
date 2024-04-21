@@ -1,0 +1,1 @@
+{"name": "Type_de_bateau_par_mode_de_conception", "id": 12984861, "predecessors": [{"name": "Type_de_bateaux", "id": 674247}], "successors": [{"name": "Multicoque", "id": 363357}, {"name": "Dériveur", "id": 371244}, {"name": "Classe_de_voilier", "id": 1352381}, {"name": "Pirogue", "id": 3478054}, {"name": "Bateau-bus", "id": 13608870}]}

@@ -1,1 +1,1 @@
-{"name": "귀_질환", "id": 677542, "predecessors": [{"name": "이과학", "id": 621717}], "successors": []}
+{"name": "귀_질환", "id": 677542, "predecessors": [{"name": "이과학", "id": 621717}, {"name": "이비인후과", "id": 11730}, {"name": "질병", "id": 11913}], "successors": []}

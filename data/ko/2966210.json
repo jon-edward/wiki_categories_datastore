@@ -1,1 +1,1 @@
-{"name": "RNA_백신", "id": 2966210, "predecessors": [{"name": "백신", "id": 138334}], "successors": []}
+{"name": "RNA_백신", "id": 2966210, "predecessors": [{"name": "RNA", "id": 48472}, {"name": "백신", "id": 138334}], "successors": []}

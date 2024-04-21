@@ -1,1 +1,1 @@
-{"name": "Quan_hệ_Pháp-Ý", "id": 13479418, "predecessors": [{"name": "Chính_trị_Pháp", "id": 49029}, {"name": "Chính_phủ_Ý", "id": 143143}], "successors": [{"name": "Người_Pháp_gốc_Ý", "id": 49018}, {"name": "Biên_giới_Pháp-Ý", "id": 13479415}]}
+{"name": "Quan_hệ_Pháp-Ý", "id": 13479418, "predecessors": [{"name": "Quan_hệ_song_phương_của_Pháp", "id": 7615285}, {"name": "Chính_phủ_Ý", "id": 143143}], "successors": [{"name": "Người_Pháp_gốc_Ý", "id": 49018}, {"name": "Biên_giới_Pháp-Ý", "id": 13479415}]}

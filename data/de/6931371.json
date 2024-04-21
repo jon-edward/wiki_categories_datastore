@@ -1,0 +1,1 @@
+{"name": "Transportbehälter", "id": 6931371, "predecessors": [{"name": "Behälter_nach_Verwendung", "id": 7829693}, {"name": "Förderhilfsmittel", "id": 7551414}, {"name": "Transport", "id": 9613581}], "successors": [{"name": "Container", "id": 4143206}, {"name": "Fördergutträger", "id": 9389064}]}

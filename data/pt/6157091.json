@@ -1,1 +1,1 @@
-{"name": "Manifestos_políticos", "id": 6157091, "predecessors": [{"name": "Política", "id": 15653}, {"name": "Documentos", "id": 42142}], "successors": [{"name": "Plataformas_partidárias", "id": 6487485}]}
+{"name": "Manifestos_políticos", "id": 6157091, "predecessors": [{"name": "Manifestos", "id": 5615674}, {"name": "Política", "id": 15653}], "successors": [{"name": "Plataformas_partidárias", "id": 6487485}]}

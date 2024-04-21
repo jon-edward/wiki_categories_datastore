@@ -1,1 +1,1 @@
-{"name": "단백질_소단위_백신", "id": 3171605, "predecessors": [{"name": "단백질_구조", "id": 899985}, {"name": "소단위_백신", "id": 3171331}], "successors": []}
+{"name": "단백질_소단위_백신", "id": 3171605, "predecessors": [{"name": "단백질_구조", "id": 899985}], "successors": []}

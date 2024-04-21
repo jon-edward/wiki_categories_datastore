@@ -1,1 +1,1 @@
-{"name": "도스_게임", "id": 127108, "predecessors": [{"name": "IBM_PC_호환기종", "id": 1798561}], "successors": [{"name": "울펜슈타인", "id": 527013}, {"name": "퀘이크_시리즈", "id": 2348255}]}
+{"name": "도스_게임", "id": 127108, "predecessors": [{"name": "IBM_PC_호환기종", "id": 1798561}, {"name": "마이크로소프트", "id": 15125}], "successors": [{"name": "울펜슈타인", "id": 527013}, {"name": "퀘이크_시리즈", "id": 2348255}]}

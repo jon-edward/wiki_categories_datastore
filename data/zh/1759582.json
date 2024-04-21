@@ -1,1 +1,1 @@
-{"name": "近代戰爭", "id": 1759582, "predecessors": [{"name": "战争", "id": 41427}], "successors": []}
+{"name": "近代戰爭", "id": 1759582, "predecessors": [{"name": "近代史", "id": 76941}, {"name": "战争", "id": 41427}], "successors": [{"name": "16世紀衝突", "id": 1759575}, {"name": "19世纪战争", "id": 5186825}]}

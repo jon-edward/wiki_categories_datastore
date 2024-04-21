@@ -1,1 +1,1 @@
-{"name": "뉴욕_마라톤_남자_우승자", "id": 2525315, "predecessors": [{"name": "남성", "id": 81898}], "successors": []}
+{"name": "뉴욕_마라톤_남자_우승자", "id": 2525315, "predecessors": [{"name": "스포츠_관련_직업", "id": 274212}, {"name": "뉴욕의_스포츠", "id": 476727}], "successors": []}

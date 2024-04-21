@@ -1,1 +1,1 @@
-{"name": "최상위_포식자", "id": 2642661, "predecessors": [{"name": "포식", "id": 901553}], "successors": []}
+{"name": "최상위_포식자", "id": 2642661, "predecessors": [{"name": "포식", "id": 901553}, {"name": "시스템_생태학", "id": 938084}], "successors": []}

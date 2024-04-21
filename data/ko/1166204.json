@@ -1,1 +1,1 @@
-{"name": "이탈리아의_텔레비전_진행자", "id": 1166204, "predecessors": [{"name": "방송", "id": 15145}, {"name": "텔레비전", "id": 21871}], "successors": []}
+{"name": "이탈리아의_텔레비전_진행자", "id": 1166204, "predecessors": [{"name": "이탈리아_사람", "id": 39086}, {"name": "여가", "id": 822208}], "successors": []}

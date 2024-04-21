@@ -1,1 +1,1 @@
-{"name": "비뇨기과의_증상", "id": 757903, "predecessors": [{"name": "생물의_기관", "id": 13233}], "successors": [{"name": "신장_비뇨기_질환으로_죽은_사람", "id": 795715}]}
+{"name": "비뇨기과의_증상", "id": 757903, "predecessors": [{"name": "비뇨기과", "id": 441091}, {"name": "질병", "id": 11913}], "successors": []}

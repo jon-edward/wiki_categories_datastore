@@ -1,1 +1,1 @@
-{"name": "가공의_책", "id": 508315, "predecessors": [{"name": "유형별_책", "id": 1100721}, {"name": "작품", "id": 168251}], "successors": [{"name": "가공의_일기", "id": 1614043}]}
+{"name": "가공의_책", "id": 508315, "predecessors": [{"name": "유형별_책", "id": 1100721}], "successors": [{"name": "가공의_일기", "id": 1614043}]}

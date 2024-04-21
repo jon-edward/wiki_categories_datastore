@@ -1,1 +1,1 @@
-{"name": "올림픽_핸드볼_경기장", "id": 1921308, "predecessors": [{"name": "올림픽_핸드볼", "id": 400274}, {"name": "경기장", "id": 337444}], "successors": []}
+{"name": "올림픽_핸드볼_경기장", "id": 1921308, "predecessors": [{"name": "올림픽_핸드볼", "id": 400274}, {"name": "대회", "id": 116658}], "successors": []}

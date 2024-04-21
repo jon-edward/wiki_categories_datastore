@@ -1,1 +1,1 @@
-{"name": "찬국수", "id": 1958812, "predecessors": [{"name": "국수_요리", "id": 114324}, {"name": "식품", "id": 507263}], "successors": [{"name": "냉면", "id": 3086385}]}
+{"name": "찬국수", "id": 1958812, "predecessors": [{"name": "국수_요리", "id": 114324}], "successors": [{"name": "냉면", "id": 3086385}]}

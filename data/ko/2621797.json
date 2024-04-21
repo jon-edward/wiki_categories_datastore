@@ -1,1 +1,1 @@
-{"name": "FK_옐가바의_축구_선수", "id": 2621797, "predecessors": [{"name": "남성", "id": 81898}], "successors": []}
+{"name": "FK_옐가바의_축구_선수", "id": 2621797, "predecessors": [{"name": "비르스리가_구단", "id": 3744808}, {"name": "축구인", "id": 458036}], "successors": []}

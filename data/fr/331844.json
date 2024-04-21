@@ -1,0 +1,1 @@
+{"name": "Substance_active_de_produit_phytosanitaire", "id": 331844, "predecessors": [{"name": "Produit_phytosanitaire", "id": 8235862}], "successors": [{"name": "Phytoprotecteur", "id": 4658183}, {"name": "Substance_active_d'herbicide", "id": 8828932}]}

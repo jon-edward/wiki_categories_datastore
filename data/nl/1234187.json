@@ -1,1 +1,1 @@
-{"name": "Deens_spoorwegmaterieel", "id": 1234187, "predecessors": [{"name": "Vervoermiddel", "id": 79534}, {"name": "Openbaar_vervoer", "id": 63298}], "successors": []}
+{"name": "Deens_spoorwegmaterieel", "id": 1234187, "predecessors": [{"name": "Spoorwegen", "id": 67745}, {"name": "Openbaar_vervoer", "id": 63298}], "successors": []}

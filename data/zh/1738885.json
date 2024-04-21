@@ -1,1 +1,1 @@
-{"name": "IPad", "id": 1738885, "predecessors": [{"name": "平板電腦系列", "id": 7437611}], "successors": []}
+{"name": "IPad", "id": 1738885, "predecessors": [{"name": "平板電腦系列", "id": 7437611}, {"name": "蘋果公司硬體", "id": 3212942}], "successors": [{"name": "IPad遊戲", "id": 3991405}]}

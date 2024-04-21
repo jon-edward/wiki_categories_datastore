@@ -1,1 +1,1 @@
-{"name": "美食評論家", "id": 259203, "predecessors": [{"name": "批評", "id": 801977}], "successors": []}
+{"name": "美食評論家", "id": 259203, "predecessors": [{"name": "烹饪", "id": 35291}, {"name": "评价", "id": 765494}, {"name": "记者", "id": 83647}], "successors": []}

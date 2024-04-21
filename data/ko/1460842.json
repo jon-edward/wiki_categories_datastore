@@ -1,1 +1,1 @@
-{"name": "학력_위조자", "id": 1460842, "predecessors": [{"name": "교육_논란", "id": 1395937}, {"name": "사기", "id": 313405}], "successors": []}
+{"name": "학력_위조자", "id": 1460842, "predecessors": [{"name": "교육_논란", "id": 1395937}, {"name": "인간_행동", "id": 41590}, {"name": "사기", "id": 313405}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "여자_개인혼영_선수", "id": 2772306, "predecessors": [{"name": "스포츠_관련_직업", "id": 274212}], "successors": []}
+{"name": "여자_개인혼영_선수", "id": 2772306, "predecessors": [{"name": "혼영", "id": 1884440}, {"name": "수영", "id": 34675}], "successors": []}

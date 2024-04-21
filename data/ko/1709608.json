@@ -1,1 +1,1 @@
-{"name": "유방_질환", "id": 1709608, "predecessors": [{"name": "여성_건강", "id": 3602103}, {"name": "유방", "id": 765166}], "successors": []}
+{"name": "유방_질환", "id": 1709608, "predecessors": [{"name": "여성_건강", "id": 3602103}, {"name": "질병", "id": 11913}], "successors": []}

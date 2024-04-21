@@ -1,0 +1,1 @@
+{"name": "Plante_sucrière", "id": 989015, "predecessors": [{"name": "Plante_alimentaire", "id": 97917}, {"name": "Plante_industrielle", "id": 101340}, {"name": "Sucre", "id": 1766747}], "successors": [{"name": "Canne_à_sucre", "id": 1767023}]}

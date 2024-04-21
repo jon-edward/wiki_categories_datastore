@@ -1,1 +1,1 @@
-{"name": "이디시어_영화_작품", "id": 916982, "predecessors": [{"name": "고지_독일어", "id": 2699223}, {"name": "영상_기술", "id": 88032}], "successors": []}
+{"name": "이디시어_영화_작품", "id": 916982, "predecessors": [{"name": "영화", "id": 11875}, {"name": "고지_독일어", "id": 2699223}], "successors": []}

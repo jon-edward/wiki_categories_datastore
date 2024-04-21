@@ -1,1 +1,1 @@
-{"name": "헬프_데스크", "id": 3748417, "predecessors": [{"name": "정보_기술_관리", "id": 736126}], "successors": []}
+{"name": "헬프_데스크", "id": 3748417, "predecessors": [{"name": "고객_서비스", "id": 3787288}, {"name": "정보_기술_관리", "id": 736126}], "successors": []}

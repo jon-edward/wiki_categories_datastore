@@ -1,1 +1,1 @@
-{"name": "Transporte_em_Fortaleza", "id": 1837148, "predecessors": [{"name": "Economia_do_Ceará", "id": 494347}, {"name": "Demografia_do_Brasil", "id": 117675}], "successors": [{"name": "Metrô_de_Fortaleza", "id": 1067161}]}
+{"name": "Transporte_em_Fortaleza", "id": 1837148, "predecessors": [{"name": "Fortaleza", "id": 104138}, {"name": "Economia_do_Ceará", "id": 494347}], "successors": [{"name": "Metrô_de_Fortaleza", "id": 1067161}]}

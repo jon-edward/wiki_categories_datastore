@@ -1,1 +1,1 @@
-{"name": "아트_팝_음악가", "id": 2844171, "predecessors": [{"name": "음악_장르", "id": 33382}, {"name": "팝_음악_장르", "id": 436214}], "successors": []}
+{"name": "아트_팝_음악가", "id": 2844171, "predecessors": [{"name": "음악_장르", "id": 33382}, {"name": "팝_아트", "id": 166037}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "紧固件", "id": 3056788, "predecessors": [{"name": "建筑材料", "id": 309164}, {"name": "服裝", "id": 69320}], "successors": []}
+{"name": "紧固件", "id": 3056788, "predecessors": [{"name": "建筑材料", "id": 309164}, {"name": "服裝", "id": 69320}, {"name": "机械零件", "id": 328299}], "successors": [{"name": "螺絲", "id": 912860}, {"name": "螺纹紧固件", "id": 7352846}]}

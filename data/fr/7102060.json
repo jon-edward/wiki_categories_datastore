@@ -1,0 +1,1 @@
+{"name": "Cause_de_handicap", "id": 7102060, "predecessors": [{"name": "Handicap", "id": 111050}], "successors": [{"name": "Maladie_neuro-musculaire_héréditaire", "id": 289565}, {"name": "Neurotraumatisme", "id": 697670}, {"name": "Poliomyélite", "id": 6212013}, {"name": "Maladie_d'Alzheimer", "id": 7852416}, {"name": "Sclérose_en_plaques", "id": 11313364}]}

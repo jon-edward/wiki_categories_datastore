@@ -1,0 +1,1 @@
+{"name": "Maladie_neurodégénérative", "id": 838993, "predecessors": [{"name": "Maladie_du_système_nerveux", "id": 1549630}], "successors": [{"name": "Syndrome_extrapyramidal_et_trouble_de_la_motricité", "id": 6019150}, {"name": "Maladie_d'Alzheimer", "id": 7852416}, {"name": "Mort_de_la_sclérose_latérale_amyotrophique", "id": 11018233}]}

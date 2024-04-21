@@ -1,1 +1,1 @@
-{"name": "철도차량공학", "id": 116773, "predecessors": [{"name": "공학", "id": 11440}, {"name": "철도", "id": 14768}], "successors": [{"name": "전동차", "id": 185892}]}
+{"name": "철도차량공학", "id": 116773, "predecessors": [{"name": "공학", "id": 11440}, {"name": "유형별_기술", "id": 509632}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "아동_실종_사건", "id": 2552741, "predecessors": [{"name": "실종된_어린이", "id": 2558558}], "successors": []}
+{"name": "아동_실종_사건", "id": 2552741, "predecessors": [{"name": "실종", "id": 1343868}], "successors": []}

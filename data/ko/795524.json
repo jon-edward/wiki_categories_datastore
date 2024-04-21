@@ -1,1 +1,1 @@
-{"name": "FIFA_월드컵_우승팀_선수", "id": 795524, "predecessors": [{"name": "스포츠", "id": 8865}], "successors": []}
+{"name": "FIFA_월드컵_우승팀_선수", "id": 795524, "predecessors": [{"name": "FIFA_월드컵", "id": 124828}, {"name": "스포츠_관련_직업", "id": 274212}], "successors": []}

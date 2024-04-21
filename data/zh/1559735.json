@@ -1,1 +1,1 @@
-{"name": "炼金术过程", "id": 1559735, "predecessors": [{"name": "炼金术", "id": 460326}], "successors": []}
+{"name": "炼金术过程", "id": 1559735, "predecessors": [{"name": "化学过程", "id": 1535018}, {"name": "炼金术", "id": 460326}], "successors": []}
