@@ -1,1 +1,1 @@
-{"name": "Oameni_din_raionul_Soroca", "id": 1161303, "predecessors": [{"name": "Basarabeni", "id": 939673}], "successors": [{"name": "Oameni_din_Soroca", "id": 2588045}]}
+{"name": "Oameni_din_raionul_Soroca", "id": 1161303, "predecessors": [{"name": "Raionul_Soroca", "id": 144474}, {"name": "Basarabeni", "id": 939673}], "successors": [{"name": "Oameni_din_Soroca", "id": 2588045}]}

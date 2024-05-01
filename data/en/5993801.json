@@ -1,0 +1,1 @@
+{"name": "Medical_scales", "id": 5993801, "predecessors": [{"name": "Medical_tests", "id": 1075994}], "successors": [{"name": "Pain_scales", "id": 10949360}, {"name": "Medical_scoring_system", "id": 11867211}, {"name": "Depression_screening_and_assessment_tools", "id": 31141751}]}

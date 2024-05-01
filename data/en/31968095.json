@@ -1,1 +1,1 @@
-{"name": "Nazi_political_ranks", "id": 31968095, "predecessors": [{"name": "Nazi_paramilitary_ranks", "id": 1827378}], "successors": []}
+{"name": "Nazi_political_ranks", "id": 31968095, "predecessors": [{"name": "Nazi_paramilitary_ranks", "id": 1827378}, {"name": "Social_class_in_Germany", "id": 57089220}], "successors": [{"name": "Gauleiters", "id": 36146973}, {"name": "Kreisleiter", "id": 49973607}, {"name": "Reichsleiters", "id": 68785017}]}

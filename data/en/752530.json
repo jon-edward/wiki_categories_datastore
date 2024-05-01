@@ -1,1 +1,1 @@
-{"name": "AWACS_aircraft", "id": 752530, "predecessors": [{"name": "Early_warning_systems", "id": 31542421}, {"name": "Surveillance", "id": 998678}, {"name": "Command_and_control", "id": 13460558}], "successors": []}
+{"name": "AWACS_aircraft", "id": 752530, "predecessors": [{"name": "Surveillance", "id": 998678}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Schlager_musicians", "id": 48035463, "predecessors": [{"name": "Music_of_Europe", "id": 1545665}], "successors": [{"name": "Dutch_levenslied_singers", "id": 39340266}, {"name": "Schlager_groups", "id": 39557547}, {"name": "German_schlager_musicians", "id": 76564042}]}
+{"name": "Schlager_musicians", "id": 48035463, "predecessors": [{"name": "European_music_genres", "id": 22479590}], "successors": [{"name": "Dutch_levenslied_singers", "id": 39340266}, {"name": "Schlager_groups", "id": 39557547}, {"name": "German_schlager_musicians", "id": 76564042}]}

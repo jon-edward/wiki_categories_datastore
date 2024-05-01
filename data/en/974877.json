@@ -1,1 +1,1 @@
-{"name": "Subcompact_cars", "id": 974877, "predecessors": [{"name": "Car_classifications", "id": 873684}], "successors": []}
+{"name": "Subcompact_cars", "id": 974877, "predecessors": [{"name": "Car_classifications", "id": 873684}], "successors": [{"name": "Mini_MPVs", "id": 5803412}, {"name": "Mini_sport_utility_vehicles", "id": 39819721}, {"name": "Subcompact_crossover_sport_utility_vehicles", "id": 74928112}]}

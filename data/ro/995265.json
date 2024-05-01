@@ -1,1 +1,1 @@
-{"name": "Sate_din_Regatul_Unit", "id": 995265, "predecessors": [{"name": "Localități_din_Regatul_Unit", "id": 839303}, {"name": "Sate", "id": 240450}], "successors": []}
+{"name": "Sate_din_Regatul_Unit", "id": 995265, "predecessors": [{"name": "Sate", "id": 240450}, {"name": "Geografia_Regatului_Unit", "id": 126785}], "successors": []}

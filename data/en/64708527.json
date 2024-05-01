@@ -1,1 +1,1 @@
-{"name": "Manufacturing_companies_based_in_Espoo", "id": 64708527, "predecessors": [{"name": "Companies_based_in_Espoo", "id": 25681381}], "successors": [{"name": "Nokia", "id": 1503940}, {"name": "Valmet", "id": 39161022}]}
+{"name": "Manufacturing_companies_based_in_Espoo", "id": 64708527, "predecessors": [{"name": "Companies_based_in_Espoo", "id": 25681381}, {"name": "Manufacturing_companies_of_Finland", "id": 5378710}], "successors": [{"name": "Nokia", "id": 1503940}, {"name": "Valmet", "id": 39161022}]}

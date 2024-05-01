@@ -1,1 +1,1 @@
-{"name": "Vaasan_rakennukset_ja_rakennelmat", "id": 477963, "predecessors": [{"name": "Vaasa", "id": 28650}, {"name": "Pohjanmaa", "id": 842008}, {"name": "Asuminen", "id": 24802}], "successors": [{"name": "Vaasan_urheilupaikat", "id": 1416935}]}
+{"name": "Vaasan_rakennukset_ja_rakennelmat", "id": 477963, "predecessors": [{"name": "Vaasa", "id": 28650}, {"name": "Pohjanmaa", "id": 842008}, {"name": "Asuminen", "id": 24802}], "successors": [{"name": "Vaasan_kirkkorakennukset", "id": 1137386}, {"name": "Vaasan_urheilupaikat", "id": 1416935}]}

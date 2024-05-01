@@ -1,1 +1,1 @@
-{"name": "Lastensuojelu", "id": 37790, "predecessors": [{"name": "Ihmisoikeudet", "id": 27678}, {"name": "Perhepolitiikka", "id": 27579}, {"name": "Kehityspsykologia", "id": 299285}], "successors": [{"name": "Lastensuojelu_Suomessa", "id": 1454255}]}
+{"name": "Lastensuojelu", "id": 37790, "predecessors": [{"name": "Ihmisoikeudet", "id": 27678}, {"name": "Perhepolitiikka", "id": 27579}, {"name": "Kehityspsykologia", "id": 299285}], "successors": [{"name": "Perheväkivalta", "id": 888871}, {"name": "Lastensuojelu_Suomessa", "id": 1454255}]}

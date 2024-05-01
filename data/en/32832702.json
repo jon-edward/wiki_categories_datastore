@@ -1,1 +1,1 @@
-{"name": "Evaporite", "id": 32832702, "predecessors": [{"name": "Sedimentary_rocks", "id": 717421}, {"name": "Cave_geology", "id": 1145457}], "successors": [{"name": "Evaporite_deposits", "id": 54255871}]}
+{"name": "Evaporite", "id": 32832702, "predecessors": [{"name": "Cave_minerals", "id": 33169323}, {"name": "Sedimentary_rocks", "id": 717421}], "successors": [{"name": "Evaporite_deposits", "id": 54255871}]}

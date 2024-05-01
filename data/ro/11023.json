@@ -1,1 +1,1 @@
-{"name": "Ajutor", "id": 11023, "predecessors": [{"name": "Etică_aplicată", "id": 1802671}], "successors": [{"name": "Ajutor_umanitar", "id": 1237836}, {"name": "Ajutor_Wikipedia", "id": 1785070}]}
+{"name": "Ajutor", "id": 11023, "predecessors": [{"name": "Comportament_uman", "id": 244948}], "successors": [{"name": "Ajutor_umanitar", "id": 1237836}, {"name": "Ajutor_Wikipedia", "id": 1785070}]}

@@ -1,1 +1,1 @@
-{"name": "Crowdfunded_albums", "id": 45441948, "predecessors": [{"name": "Albums", "id": 692312}, {"name": "Crowdfunding_projects", "id": 45441912}], "successors": [{"name": "Kickstarter-funded_albums", "id": 56142937}]}
+{"name": "Crowdfunded_albums", "id": 45441948, "predecessors": [{"name": "Albums", "id": 692312}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Parasites_of_rodents", "id": 40157376, "predecessors": [{"name": "Rodents", "id": 922975}], "successors": []}
+{"name": "Parasites_of_rodents", "id": 40157376, "predecessors": [{"name": "Parasites_of_mammals", "id": 40157358}, {"name": "Rodents", "id": 922975}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "ABS-CBN_television_specials", "id": 50837657, "predecessors": [{"name": "Philippine_television_shows", "id": 44803384}, {"name": "Entertainment", "id": 693016}], "successors": []}
+{"name": "ABS-CBN_television_specials", "id": 50837657, "predecessors": [{"name": "ABS-CBN_original_programming", "id": 35721766}, {"name": "Philippine_television_specials", "id": 29785418}], "successors": []}

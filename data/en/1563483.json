@@ -1,1 +1,1 @@
-{"name": "Canadian_Grand_Prix", "id": 1563483, "predecessors": [{"name": "Auto_races_in_Canada", "id": 22256821}, {"name": "Formula_One_Grands_Prix", "id": 967669}, {"name": "Sports_competitions_in_Montreal", "id": 53421732}], "successors": []}
+{"name": "Canadian_Grand_Prix", "id": 1563483, "predecessors": [{"name": "Auto_races_in_Canada", "id": 22256821}, {"name": "Formula_One_Grands_Prix", "id": 967669}, {"name": "National_Grands_Prix", "id": 23542372}, {"name": "Sports_competitions_in_Montreal", "id": 53421732}, {"name": "Formula_One", "id": 699395}], "successors": []}

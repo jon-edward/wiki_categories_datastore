@@ -1,1 +1,1 @@
-{"name": "Cosmetics_people", "id": 3835148, "predecessors": [{"name": "Cosmetics", "id": 1952489}, {"name": "Fashion_occupations", "id": 10777560}], "successors": [{"name": "Make-up_artists", "id": 2312327}, {"name": "Cosmetics_businesspeople", "id": 8730523}]}
+{"name": "Cosmetics_people", "id": 3835148, "predecessors": [{"name": "Cosmetics", "id": 1952489}], "successors": [{"name": "Make-up_artists", "id": 2312327}, {"name": "Cosmetics_businesspeople", "id": 8730523}, {"name": "Beauty_and_makeup_YouTubers", "id": 54532711}]}

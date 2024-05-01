@@ -1,1 +1,1 @@
-{"name": "Royal_Navy_sailors", "id": 874409, "predecessors": [{"name": "Royal_Navy_personnel", "id": 9255844}], "successors": [{"name": "Irish_sailors_in_the_Royal_Navy", "id": 35809688}]}
+{"name": "Royal_Navy_sailors", "id": 874409, "predecessors": [{"name": "Royal_Navy_personnel", "id": 9255844}, {"name": "Military_personnel", "id": 6660319}], "successors": [{"name": "Irish_sailors_in_the_Royal_Navy", "id": 35809688}, {"name": "Women's_Royal_Naval_Service_ratings", "id": 46336775}, {"name": "63rd_(Royal_Naval)_Division_soldiers", "id": 59362520}]}

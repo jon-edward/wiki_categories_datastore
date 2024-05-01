@@ -1,1 +1,1 @@
-{"name": "Extinct_rodents", "id": 38266137, "predecessors": [{"name": "Rodents", "id": 922975}], "successors": [{"name": "Prehistoric_rodents", "id": 3242211}, {"name": "Rodent_extinctions_since_1500", "id": 42023394}]}
+{"name": "Extinct_rodents", "id": 38266137, "predecessors": [{"name": "Extinct_mammals", "id": 3782789}, {"name": "Rodents", "id": 922975}], "successors": [{"name": "Prehistoric_rodents", "id": 3242211}, {"name": "Rodent_extinctions_since_1500", "id": 42023394}]}

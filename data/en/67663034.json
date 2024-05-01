@@ -1,1 +1,1 @@
-{"name": "Tank_designers", "id": 67663034, "predecessors": [{"name": "Weapon_designers", "id": 1726766}], "successors": []}
+{"name": "Tank_designers", "id": 67663034, "predecessors": [{"name": "Tanks", "id": 786411}, {"name": "Weapon_designers", "id": 1726766}], "successors": []}

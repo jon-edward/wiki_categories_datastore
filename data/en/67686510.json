@@ -1,0 +1,1 @@
+{"name": "Diagnostic_pulmonology", "id": 67686510, "predecessors": [{"name": "Medical_diagnosis", "id": 16705234}, {"name": "Medical_procedures", "id": 22735454}], "successors": [{"name": "Respiratory_system_imaging", "id": 32626321}, {"name": "Pulmonary_function_testing", "id": 33502957}]}

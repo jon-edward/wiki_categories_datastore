@@ -1,1 +1,1 @@
-{"name": "Vehicule_Dacia", "id": 1241869, "predecessors": [{"name": "Autoturisme_românești", "id": 770461}, {"name": "Dacia_(companie)", "id": 1134875}, {"name": "Mărci_de_automobile", "id": 141455}], "successors": []}
+{"name": "Vehicule_Dacia", "id": 1241869, "predecessors": [{"name": "Autoturisme_românești", "id": 770461}, {"name": "Mărci_de_automobile", "id": 141455}, {"name": "Constructori_de_automobile_din_România", "id": 650213}], "successors": []}

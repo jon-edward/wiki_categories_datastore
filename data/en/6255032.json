@@ -1,1 +1,1 @@
-{"name": "Musical_game_shows", "id": 6255032, "predecessors": [{"name": "Game_shows", "id": 862532}, {"name": "Musical_culture", "id": 20122265}], "successors": [{"name": "Masked_Singer", "id": 64275870}, {"name": "I_Can_See_Your_Voice_(South_Korean_game_show)", "id": 63623451}, {"name": "I_Can_See_Your_Voice_international_adaptations", "id": 75837859}]}
+{"name": "Musical_game_shows", "id": 6255032, "predecessors": [{"name": "Game_shows", "id": 862532}], "successors": [{"name": "Masked_Singer", "id": 64275870}]}

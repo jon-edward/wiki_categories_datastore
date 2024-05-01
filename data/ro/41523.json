@@ -1,1 +1,1 @@
-{"name": "Scriitori_suedezi", "id": 41523, "predecessors": [{"name": "Literatură_suedeză", "id": 76026}, {"name": "Scriitori", "id": 16833}, {"name": "Suedezi", "id": 37605}], "successors": [{"name": "Romancieri_suedezi", "id": 387179}, {"name": "Poeți_suedezi", "id": 759268}]}
+{"name": "Scriitori_suedezi", "id": 41523, "predecessors": [{"name": "Cultură", "id": 22567}, {"name": "Scriitori", "id": 16833}, {"name": "Suedezi", "id": 37605}], "successors": [{"name": "Romancieri_suedezi", "id": 387179}, {"name": "Poeți_suedezi", "id": 759268}]}

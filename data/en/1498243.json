@@ -1,1 +1,1 @@
-{"name": "British_furniture_designers", "id": 1498243, "predecessors": [{"name": "British_industrial_designers", "id": 18149947}, {"name": "British_design", "id": 18064688}], "successors": [{"name": "English_furniture_designers", "id": 11398664}]}
+{"name": "British_furniture_designers", "id": 1498243, "predecessors": [{"name": "British_furniture", "id": 34159252}, {"name": "British_industrial_designers", "id": 18149947}, {"name": "Furniture_designers", "id": 1043525}], "successors": [{"name": "English_furniture_designers", "id": 11398664}]}

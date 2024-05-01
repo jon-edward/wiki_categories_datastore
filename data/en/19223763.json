@@ -1,1 +1,1 @@
-{"name": "Show_jumping_events", "id": 19223763, "predecessors": [{"name": "Horse_showing_and_exhibition", "id": 50941408}, {"name": "Show_jumping", "id": 6275763}], "successors": [{"name": "CSIO_Gijón", "id": 43478948}]}
+{"name": "Show_jumping_events", "id": 19223763, "predecessors": [{"name": "FEI-recognized_competition", "id": 50941885}], "successors": [{"name": "Show_Jumping_World_Cup", "id": 19223882}, {"name": "FEI_Nations_Cup", "id": 41885703}, {"name": "CSIO_Gijón", "id": 43478948}]}

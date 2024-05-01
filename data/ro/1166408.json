@@ -1,1 +1,1 @@
-{"name": "Liste_de_artropode", "id": 1166408, "predecessors": [{"name": "Artropode", "id": 51221}, {"name": "Liste_de_nevertebrate", "id": 1166407}], "successors": [{"name": "Liste_de_insecte", "id": 1166410}]}
+{"name": "Liste_de_artropode", "id": 1166408, "predecessors": [{"name": "Artropode", "id": 51221}, {"name": "Animale_nevertebrate", "id": 51094}], "successors": [{"name": "Liste_de_insecte", "id": 1166410}]}

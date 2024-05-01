@@ -1,1 +1,1 @@
-{"name": "2D_animation_software", "id": 30878382, "predecessors": [{"name": "Multimedia_software", "id": 9734361}, {"name": "New_media", "id": 2442283}], "successors": []}
+{"name": "2D_animation_software", "id": 30878382, "predecessors": [{"name": "Animation_software", "id": 716608}, {"name": "Multimedia_software", "id": 9734361}, {"name": "New_media", "id": 2442283}], "successors": [{"name": "Free_2D_animation_software", "id": 30878378}]}

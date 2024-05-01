@@ -1,1 +1,1 @@
-{"name": "Non-profit_technology", "id": 39462999, "predecessors": [{"name": "Information_technology", "id": 700911}, {"name": "Non-profit_organizations", "id": 44988149}, {"name": "Technology_in_society", "id": 2157920}], "successors": [{"name": "Free_and_open-source_software_organizations", "id": 39462977}]}
+{"name": "Non-profit_technology", "id": 39462999, "predecessors": [{"name": "Non-profit_organizations", "id": 44988149}, {"name": "Technology_in_society", "id": 2157920}], "successors": [{"name": "Free_and_open-source_software_organizations", "id": 39462977}]}

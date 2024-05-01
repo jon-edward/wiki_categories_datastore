@@ -1,1 +1,1 @@
-{"name": "Schools_of_Sunni_jurisprudence", "id": 31965010, "predecessors": [{"name": "Islamic_jurisprudence", "id": 42879675}], "successors": []}
+{"name": "Schools_of_Sunni_jurisprudence", "id": 31965010, "predecessors": [{"name": "Madhhab", "id": 4499373}], "successors": [{"name": "Shafi'i", "id": 4588430}, {"name": "Hanbalis", "id": 7098008}, {"name": "Hanafis", "id": 7101248}, {"name": "Barelvi", "id": 24813304}, {"name": "Maturidi", "id": 60336690}, {"name": "Hanafi_literature", "id": 62585326}, {"name": "Malikis", "id": 7102101}, {"name": "Zahiris", "id": 43188017}]}

@@ -1,1 +1,1 @@
-{"name": "Postal_savings_system", "id": 66202764, "predecessors": [{"name": "Postal_systems", "id": 878463}], "successors": []}
+{"name": "Postal_savings_system", "id": 66202764, "predecessors": [{"name": "Banks", "id": 718748}, {"name": "Postal_systems", "id": 878463}], "successors": []}

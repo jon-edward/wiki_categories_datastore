@@ -1,1 +1,1 @@
-{"name": "Drug_advertising", "id": 53676392, "predecessors": [{"name": "Drug_marketing_and_sales", "id": 75520618}, {"name": "Society", "id": 1633936}], "successors": [{"name": "Tobacco_advertising", "id": 3068411}, {"name": "Beer_advertising", "id": 5271579}]}
+{"name": "Drug_advertising", "id": 53676392, "predecessors": [{"name": "Drug_marketing_and_sales", "id": 75520618}, {"name": "Advertising", "id": 884913}, {"name": "Marketing", "id": 784409}], "successors": [{"name": "Tobacco_advertising", "id": 3068411}, {"name": "Beer_advertising", "id": 5271579}]}

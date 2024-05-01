@@ -1,1 +1,1 @@
-{"name": "Apolipoproteins", "id": 4355189, "predecessors": [{"name": "Lipoproteins", "id": 1248563}], "successors": []}
+{"name": "Apolipoproteins", "id": 4355189, "predecessors": [{"name": "Blood_proteins", "id": 4354941}, {"name": "Lipoproteins", "id": 1248563}], "successors": []}

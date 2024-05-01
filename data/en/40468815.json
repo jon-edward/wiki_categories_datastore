@@ -1,1 +1,1 @@
-{"name": "Spacecraft_launched_by_Atlas_rockets", "id": 40468815, "predecessors": [{"name": "Atlas_(rocket_family)", "id": 35609848}], "successors": []}
+{"name": "Spacecraft_launched_by_Atlas_rockets", "id": 40468815, "predecessors": [{"name": "Atlas_(rocket_family)", "id": 35609848}], "successors": [{"name": "Spacecraft_launched_by_Atlas-Centaur_rockets", "id": 40468807}]}

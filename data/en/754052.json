@@ -1,1 +1,1 @@
-{"name": "Units_of_frequency", "id": 754052, "predecessors": [{"name": "Frequency", "id": 66501513}, {"name": "Units_of_measurement", "id": 37973176}], "successors": []}
+{"name": "Units_of_frequency", "id": 754052, "predecessors": [{"name": "Frequency", "id": 66501513}, {"name": "Units_of_measurement", "id": 37973176}, {"name": "Units_of_temporal_rate", "id": 47294225}], "successors": []}

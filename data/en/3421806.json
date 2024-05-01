@@ -1,1 +1,1 @@
-{"name": "Paleocene_extinctions", "id": 3421806, "predecessors": [{"name": "Extinction_events", "id": 1092075}], "successors": [{"name": "Paleocene_genus_extinctions", "id": 54302252}]}
+{"name": "Paleocene_extinctions", "id": 3421806, "predecessors": [{"name": "Paleocene_life", "id": 3353338}, {"name": "Geological_epochs", "id": 47136043}, {"name": "Extinction_events", "id": 1092075}], "successors": [{"name": "Paleocene_genus_extinctions", "id": 54302252}]}

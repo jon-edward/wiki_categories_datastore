@@ -1,1 +1,1 @@
-{"name": "Limbaje_formale_și_automate", "id": 753307, "predecessors": [{"name": "Științe_formale", "id": 761033}, {"name": "Comunicații", "id": 749615}], "successors": [{"name": "Teoreme", "id": 28953}]}
+{"name": "Limbaje_formale_și_automate", "id": 753307, "predecessors": [{"name": "Comunicații", "id": 749615}, {"name": "Abstractizare", "id": 24636}], "successors": [{"name": "Teoreme", "id": 28953}]}

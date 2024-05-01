@@ -1,1 +1,1 @@
-{"name": "Subscription_video_game_services", "id": 66826166, "predecessors": [{"name": "Subscription_services", "id": 52548614}, {"name": "Video_game_distribution", "id": 36002716}], "successors": [{"name": "Apple_Arcade_games", "id": 61793593}, {"name": "Netflix_games", "id": 74442489}]}
+{"name": "Subscription_video_game_services", "id": 66826166, "predecessors": [{"name": "Subscription_services", "id": 52548614}], "successors": [{"name": "Apple_Arcade_games", "id": 61793593}, {"name": "Netflix_games", "id": 74442489}]}

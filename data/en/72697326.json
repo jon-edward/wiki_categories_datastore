@@ -1,1 +1,1 @@
-{"name": "Formula_Regional_teams", "id": 72697326, "predecessors": [{"name": "Individual_sports", "id": 862248}], "successors": []}
+{"name": "Formula_Regional_teams", "id": 72697326, "predecessors": [{"name": "Formula_racing", "id": 3460564}, {"name": "Motorsport", "id": 13306047}], "successors": [{"name": "Formula_Regional_European_Championship_teams", "id": 72697332}]}

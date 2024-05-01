@@ -1,1 +1,1 @@
-{"name": "Cancer_immunotherapy", "id": 63089826, "predecessors": [{"name": "Cancer_treatments", "id": 694971}], "successors": []}
+{"name": "Cancer_immunotherapy", "id": 63089826, "predecessors": [{"name": "Cancer_treatments", "id": 694971}, {"name": "Immunotherapy", "id": 54579093}], "successors": []}

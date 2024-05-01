@@ -1,1 +1,1 @@
-{"name": "Biomedical_informatics_journals", "id": 37649934, "predecessors": [{"name": "Bioinformatics", "id": 726312}, {"name": "Computer_science_journals", "id": 2577785}, {"name": "Health_informatics", "id": 3031321}], "successors": []}
+{"name": "Biomedical_informatics_journals", "id": 37649934, "predecessors": [{"name": "Bioinformatics", "id": 726312}, {"name": "Biology_journals", "id": 1190560}, {"name": "Computer_science_journals", "id": 2577785}, {"name": "Health_informatics", "id": 3031321}, {"name": "Health_care", "id": 35880954}], "successors": []}

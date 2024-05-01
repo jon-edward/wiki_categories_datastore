@@ -1,1 +1,1 @@
-{"name": "Dimension_reduction", "id": 29549713, "predecessors": [{"name": "Data_mining", "id": 5206601}, {"name": "Machine_learning", "id": 706543}], "successors": [{"name": "Factor_analysis", "id": 36425555}]}
+{"name": "Dimension_reduction", "id": 29549713, "predecessors": [{"name": "Dimension", "id": 3175294}, {"name": "Machine_learning", "id": 706543}], "successors": [{"name": "Factor_analysis", "id": 36425555}]}

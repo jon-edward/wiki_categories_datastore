@@ -1,1 +1,1 @@
-{"name": "Auto_shows", "id": 1011110, "predecessors": [{"name": "Car_culture", "id": 42009149}, {"name": "Trade_fairs", "id": 35181669}], "successors": []}
+{"name": "Auto_shows", "id": 1011110, "predecessors": [{"name": "Automotive_events", "id": 5252068}, {"name": "Car_culture", "id": 42009149}, {"name": "Trade_fairs", "id": 35181669}], "successors": []}

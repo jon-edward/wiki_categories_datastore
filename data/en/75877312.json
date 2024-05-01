@@ -1,1 +1,1 @@
-{"name": "Military_radar_networks", "id": 75877312, "predecessors": [{"name": "Military_equipment", "id": 771670}], "successors": [{"name": "United_States_Space_Surveillance_Network", "id": 43050633}, {"name": "Air_defence_radar_networks", "id": 57420208}]}
+{"name": "Military_radar_networks", "id": 75877312, "predecessors": [{"name": "Surveillance", "id": 998678}], "successors": [{"name": "United_States_Space_Surveillance_Network", "id": 43050633}, {"name": "Air_defence_radar_networks", "id": 57420208}]}

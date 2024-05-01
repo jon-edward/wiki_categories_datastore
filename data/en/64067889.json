@@ -1,1 +1,1 @@
-{"name": "Scientists_from_Nuremberg", "id": 64067889, "predecessors": [{"name": "People_from_Nuremberg", "id": 5793769}, {"name": "German_scientists", "id": 784754}], "successors": [{"name": "Physicians_from_Nuremberg", "id": 64067900}]}
+{"name": "Scientists_from_Nuremberg", "id": 64067889, "predecessors": [{"name": "People_from_Nuremberg", "id": 5793769}, {"name": "Scientists_from_Bavaria", "id": 63983522}], "successors": [{"name": "Physicians_from_Nuremberg", "id": 64067900}]}

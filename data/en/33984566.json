@@ -1,1 +1,1 @@
-{"name": "Tourist_attractions_in_Fukuoka", "id": 33984566, "predecessors": [{"name": "Fukuoka", "id": 28215450}, {"name": "Economy_of_Japan", "id": 1448803}, {"name": "Tourism_in_Japan", "id": 2627304}], "successors": []}
+{"name": "Tourist_attractions_in_Fukuoka", "id": 33984566, "predecessors": [{"name": "Fukuoka", "id": 28215450}, {"name": "Tourist_attractions_in_Fukuoka_Prefecture", "id": 16067682}, {"name": "Tourism_in_Japan", "id": 2627304}], "successors": [{"name": "Sports_venues_in_Fukuoka", "id": 75285571}]}

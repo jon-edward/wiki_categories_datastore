@@ -1,1 +1,1 @@
-{"name": "Road_incident_deaths_in_Pennsylvania", "id": 17454326, "predecessors": [{"name": "Roads_in_Pennsylvania", "id": 33867532}], "successors": []}
+{"name": "Road_incident_deaths_in_Pennsylvania", "id": 17454326, "predecessors": [{"name": "Roads_in_Pennsylvania", "id": 33867532}, {"name": "Road_incident_deaths_in_the_United_States", "id": 14707666}], "successors": []}

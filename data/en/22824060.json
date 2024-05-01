@@ -1,1 +1,1 @@
-{"name": "24_Hours_of_Le_Mans_race_cars", "id": 22824060, "predecessors": [{"name": "24_Hours_of_Le_Mans", "id": 4743776}], "successors": [{"name": "Le_Mans_winning_cars", "id": 45203812}]}
+{"name": "24_Hours_of_Le_Mans_race_cars", "id": 22824060, "predecessors": [{"name": "24_Hours_of_Le_Mans", "id": 4743776}, {"name": "Sports_racing_cars", "id": 20542100}], "successors": [{"name": "Le_Mans_winning_cars", "id": 45203812}]}

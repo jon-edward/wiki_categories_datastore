@@ -1,1 +1,1 @@
-{"name": "Propaganda_posters", "id": 24428372, "predecessors": [{"name": "Posters", "id": 2191948}, {"name": "Propaganda_art", "id": 24428396}, {"name": "Propaganda", "id": 838111}], "successors": [{"name": "Affiche_Rouge", "id": 20645798}]}
+{"name": "Propaganda_posters", "id": 24428372, "predecessors": [{"name": "Propaganda_art", "id": 24428396}], "successors": [{"name": "Affiche_Rouge", "id": 20645798}]}

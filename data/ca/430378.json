@@ -1,1 +1,1 @@
-{"name": "Pianistes_espanyols", "id": 430378, "predecessors": [{"name": "Músics_espanyols", "id": 89700}, {"name": "Art", "id": 12691}], "successors": [{"name": "Pianistes_valencians", "id": 625670}, {"name": "Pianistes_bascos", "id": 1643101}]}
+{"name": "Pianistes_espanyols", "id": 430378, "predecessors": [{"name": "Pianistes_europeus", "id": 1023434}, {"name": "Músics_espanyols", "id": 89700}], "successors": [{"name": "Pianistes_valencians", "id": 625670}, {"name": "Pianistes_bascos", "id": 1643101}]}

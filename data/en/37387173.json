@@ -1,1 +1,1 @@
-{"name": "Joints_of_the_head_and_neck", "id": 37387173, "predecessors": [{"name": "Human_head_and_neck", "id": 36703875}], "successors": []}
+{"name": "Joints_of_the_head_and_neck", "id": 37387173, "predecessors": [{"name": "Human_head_and_neck", "id": 36703875}], "successors": [{"name": "Cranial_sutures", "id": 35324755}]}

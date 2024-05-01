@@ -1,1 +1,1 @@
-{"name": "Coffee_production", "id": 18093652, "predecessors": [{"name": "Coffee_industry", "id": 51291507}], "successors": [{"name": "Coffee_diseases", "id": 9504654}, {"name": "Coffee_production_by_country", "id": 27302153}]}
+{"name": "Coffee_production", "id": 18093652, "predecessors": [{"name": "Coffee_industry", "id": 51291507}], "successors": [{"name": "Coffee_diseases", "id": 9504654}, {"name": "Specialty_coffees", "id": 26760805}, {"name": "Coffee_production_by_country", "id": 27302153}]}

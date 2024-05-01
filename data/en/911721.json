@@ -1,1 +1,1 @@
-{"name": "Query_languages", "id": 911721, "predecessors": [{"name": "Data_management", "id": 762162}, {"name": "Databases", "id": 2276471}, {"name": "Domain-specific_programming_languages", "id": 910359}], "successors": [{"name": "SQL", "id": 1250646}, {"name": "RDF_data_access", "id": 6876817}]}
+{"name": "Query_languages", "id": 911721, "predecessors": [{"name": "Databases", "id": 2276471}, {"name": "Domain-specific_programming_languages", "id": 910359}], "successors": [{"name": "RDF_data_access", "id": 6876817}]}

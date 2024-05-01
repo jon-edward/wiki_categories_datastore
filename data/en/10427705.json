@@ -1,1 +1,1 @@
-{"name": "Steamship_captains", "id": 10427705, "predecessors": [{"name": "Sea_captains", "id": 10427812}], "successors": []}
+{"name": "Steamship_captains", "id": 10427705, "predecessors": [{"name": "Sea_captains", "id": 10427812}, {"name": "Steamships", "id": 756878}], "successors": []}

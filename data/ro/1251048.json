@@ -1,1 +1,1 @@
-{"name": "Teleportare", "id": 1251048, "predecessors": [{"name": "Nanotehnologie", "id": 16895}, {"name": "Tehnologii_fictive", "id": 1220420}, {"name": "Transport", "id": 17973}], "successors": []}
+{"name": "Teleportare", "id": 1251048, "predecessors": [{"name": "Nanotehnologie", "id": 16895}, {"name": "Transport", "id": 17973}, {"name": "Ficțiune", "id": 751048}], "successors": []}

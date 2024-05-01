@@ -1,1 +1,1 @@
-{"name": "Hope", "id": 67146947, "predecessors": [{"name": "Motivation", "id": 1056363}, {"name": "Positive_mental_attitude", "id": 7496144}, {"name": "Intention", "id": 7296998}], "successors": []}
+{"name": "Hope", "id": 67146947, "predecessors": [{"name": "Emotions", "id": 20860353}, {"name": "Motivation", "id": 1056363}, {"name": "Positive_mental_attitude", "id": 7496144}, {"name": "Propositional_attitudes", "id": 32396450}], "successors": []}

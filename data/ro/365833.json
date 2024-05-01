@@ -1,1 +1,1 @@
-{"name": "Critică_literară", "id": 365833, "predecessors": [{"name": "Critică", "id": 546069}], "successors": [{"name": "Critici_literari", "id": 38260}, {"name": "Teorie_literară", "id": 549699}, {"name": "Teorie_critică", "id": 967815}, {"name": "Structuralism", "id": 1255937}]}
+{"name": "Critică_literară", "id": 365833, "predecessors": [{"name": "Analiză", "id": 571496}], "successors": [{"name": "Critici_literari", "id": 38260}, {"name": "Teorie_literară", "id": 549699}, {"name": "Teorie_critică", "id": 967815}, {"name": "Structuralism", "id": 1255937}]}

@@ -1,1 +1,1 @@
-{"name": "OpenVMS", "id": 3605873, "predecessors": [{"name": "Computing_platforms", "id": 973745}, {"name": "DEC_operating_systems", "id": 42541647}, {"name": "Time-sharing_operating_systems", "id": 20309215}], "successors": [{"name": "OpenVMS_software", "id": 3605885}]}
+{"name": "OpenVMS", "id": 3605873, "predecessors": [{"name": "DEC_operating_systems", "id": 42541647}, {"name": "HP_software", "id": 54301351}], "successors": [{"name": "OpenVMS_software", "id": 3605885}]}

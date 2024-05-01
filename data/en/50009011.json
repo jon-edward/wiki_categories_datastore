@@ -1,1 +1,1 @@
-{"name": "Educators_of_the_blind", "id": 50009011, "predecessors": [{"name": "Special_educators", "id": 50009023}], "successors": []}
+{"name": "Educators_of_the_blind", "id": 50009011, "predecessors": [{"name": "Special_educators", "id": 50009023}, {"name": "Blindness", "id": 2173860}], "successors": []}

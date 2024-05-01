@@ -1,1 +1,1 @@
-{"name": "Ellagitannins", "id": 32515630, "predecessors": [{"name": "Tannins", "id": 24115711}], "successors": []}
+{"name": "Ellagitannins", "id": 32515630, "predecessors": [{"name": "Hydrolysable_tannins", "id": 31343724}], "successors": [{"name": "Pomegranate_ellagitannins", "id": 35386007}]}

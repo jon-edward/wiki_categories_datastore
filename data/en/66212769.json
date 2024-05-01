@@ -1,1 +1,1 @@
-{"name": "Riigikogu", "id": 66212769, "predecessors": [{"name": "Government_of_Estonia", "id": 2791814}, {"name": "Law_of_Estonia", "id": 3997057}], "successors": []}
+{"name": "Riigikogu", "id": 66212769, "predecessors": [{"name": "Government_of_Estonia", "id": 2791814}, {"name": "Law_of_Estonia", "id": 3997057}], "successors": [{"name": "Parliamentary_elections_in_Estonia", "id": 51136504}, {"name": "Riigikogu_electoral_districts", "id": 66212732}]}

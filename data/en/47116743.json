@@ -1,1 +1,1 @@
-{"name": "Literary_translators", "id": 47116743, "predecessors": [{"name": "Literature", "id": 692008}], "successors": []}
+{"name": "Literary_translators", "id": 47116743, "predecessors": [{"name": "Translation", "id": 918052}], "successors": [{"name": "Translators_of_Jules_Verne", "id": 63234042}]}

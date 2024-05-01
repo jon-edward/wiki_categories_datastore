@@ -1,1 +1,1 @@
-{"name": "City_plans", "id": 36446426, "predecessors": [{"name": "Documents", "id": 694072}, {"name": "Urban_planning", "id": 705232}], "successors": []}
+{"name": "City_plans", "id": 36446426, "predecessors": [{"name": "Documents", "id": 694072}, {"name": "Urban_planning", "id": 705232}], "successors": [{"name": "Metropolitan_centres_of_London", "id": 26217635}, {"name": "Major_centres_of_London", "id": 26279453}, {"name": "District_centres_of_London", "id": 72214375}]}

@@ -1,1 +1,1 @@
-{"name": "Bariere_ale_gândirii_critice", "id": 2541802, "predecessors": [{"name": "Gândire_critică", "id": 968679}], "successors": [{"name": "Teorii_conspirative", "id": 575086}, {"name": "Eroare", "id": 1651691}]}
+{"name": "Bariere_ale_gândirii_critice", "id": 2541802, "predecessors": [{"name": "Evaluare", "id": 233627}], "successors": [{"name": "Teorii_conspirative", "id": 575086}, {"name": "Erori", "id": 984977}]}

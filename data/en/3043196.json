@@ -1,1 +1,1 @@
-{"name": "Gambling_websites", "id": 3043196, "predecessors": [{"name": "Online_gambling", "id": 29549452}, {"name": "Entertainment", "id": 693016}], "successors": [{"name": "Betting_exchanges", "id": 4849644}, {"name": "Esports_websites", "id": 50761521}]}
+{"name": "Gambling_websites", "id": 3043196, "predecessors": [{"name": "Entertainment", "id": 693016}], "successors": [{"name": "Esports_websites", "id": 50761521}]}

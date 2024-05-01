@@ -1,1 +1,1 @@
-{"name": "Pescuit", "id": 442627, "predecessors": [{"name": "Exploatarea_resurselor_naturale", "id": 859465}, {"name": "Interacțiunea_om-animal", "id": 1150456}, {"name": "Sport", "id": 16061}], "successors": [{"name": "Pești", "id": 759036}, {"name": "Plase_de_pescuit", "id": 2355782}]}
+{"name": "Pescuit", "id": 442627, "predecessors": [{"name": "Interacțiunea_om-animal", "id": 1150456}, {"name": "Sport", "id": 16061}, {"name": "Management_după_tip", "id": 1106604}], "successors": [{"name": "Pești", "id": 759036}]}

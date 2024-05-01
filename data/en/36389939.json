@@ -1,1 +1,1 @@
-{"name": "Braille_technology", "id": 36389939, "predecessors": [{"name": "Braille", "id": 3260774}], "successors": []}
+{"name": "Braille_technology", "id": 36389939, "predecessors": [{"name": "Blindness_equipment", "id": 2273050}, {"name": "Braille", "id": 3260774}], "successors": []}

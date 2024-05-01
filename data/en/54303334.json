@@ -1,1 +1,1 @@
-{"name": "Demolished_prisons", "id": 54303334, "predecessors": [{"name": "Legal_entities", "id": 1125732}, {"name": "Architecture", "id": 708984}], "successors": []}
+{"name": "Demolished_prisons", "id": 54303334, "predecessors": [{"name": "Defunct_prisons", "id": 1216638}, {"name": "Architecture", "id": 708984}], "successors": [{"name": "Newgate_Prison", "id": 72815880}]}

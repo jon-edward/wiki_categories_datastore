@@ -1,1 +1,1 @@
-{"name": "Vehicle_telematics", "id": 28237732, "predecessors": [{"name": "Vehicle_technology", "id": 8345984}, {"name": "Information_technology_management", "id": 1226541}], "successors": [{"name": "Uncrewed_vehicles", "id": 2386176}]}
+{"name": "Vehicle_telematics", "id": 28237732, "predecessors": [{"name": "Vehicle_technology", "id": 8345984}], "successors": [{"name": "Uncrewed_vehicles", "id": 2386176}]}

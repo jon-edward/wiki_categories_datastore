@@ -1,1 +1,1 @@
-{"name": "Kitchen_knives", "id": 6829559, "predecessors": [{"name": "Food_preparation_utensils", "id": 24916231}], "successors": [{"name": "Japanese_kitchen_knives", "id": 6829647}, {"name": "Kitchen_knife_brands", "id": 6829811}]}
+{"name": "Kitchen_knives", "id": 6829559, "predecessors": [{"name": "Food_preparation_utensils", "id": 24916231}, {"name": "Knives", "id": 895457}], "successors": [{"name": "Japanese_kitchen_knives", "id": 6829647}, {"name": "Kitchen_knife_brands", "id": 6829811}]}

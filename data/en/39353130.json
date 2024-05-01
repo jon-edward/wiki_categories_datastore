@@ -1,1 +1,1 @@
-{"name": "Cyclic_peptides", "id": 39353130, "predecessors": [{"name": "Lactams", "id": 13555437}, {"name": "Macrocycles", "id": 9258573}, {"name": "Nitrogen_heterocycles", "id": 3197412}, {"name": "Peptides", "id": 3791010}], "successors": []}
+{"name": "Cyclic_peptides", "id": 39353130, "predecessors": [{"name": "Lactams", "id": 13555437}, {"name": "Peptides", "id": 3791010}], "successors": []}

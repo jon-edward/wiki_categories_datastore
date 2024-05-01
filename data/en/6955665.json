@@ -1,1 +1,1 @@
-{"name": "NCAA_bowl_game_venues", "id": 6955665, "predecessors": [{"name": "College_football_bowls", "id": 1217861}], "successors": [{"name": "Defunct_NCAA_bowl_game_venues", "id": 25415653}]}
+{"name": "NCAA_bowl_game_venues", "id": 6955665, "predecessors": [{"name": "College_football_bowls", "id": 1217861}, {"name": "College_football_venues", "id": 1923923}, {"name": "College_football_in_the_United_States", "id": 694856}], "successors": [{"name": "Defunct_NCAA_bowl_game_venues", "id": 25415653}]}

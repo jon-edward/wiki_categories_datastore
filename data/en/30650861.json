@@ -1,1 +1,1 @@
-{"name": "FC_Krasnodar_players", "id": 30650861, "predecessors": [{"name": "Sport_in_Krasnodar_Krai", "id": 23249009}, {"name": "Football_in_Russia", "id": 3067119}], "successors": [{"name": "FC_Krasnodar-2_players", "id": 69079820}]}
+{"name": "FC_Krasnodar_players", "id": 30650861, "predecessors": [{"name": "FC_Krasnodar", "id": 31141909}, {"name": "Football_in_Russia", "id": 3067119}], "successors": [{"name": "FC_Krasnodar-2_players", "id": 69079820}]}

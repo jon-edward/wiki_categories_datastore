@@ -1,1 +1,1 @@
-{"name": "Food_security", "id": 34796515, "predecessors": [{"name": "Food_politics", "id": 8531018}, {"name": "Prevention", "id": 4689595}, {"name": "Security", "id": 1238492}, {"name": "Social_issues", "id": 3659008}], "successors": [{"name": "Food_security_by_country", "id": 34797400}]}
+{"name": "Food_security", "id": 34796515, "predecessors": [{"name": "Food_politics", "id": 8531018}, {"name": "Global_health", "id": 21049143}, {"name": "Prevention", "id": 4689595}], "successors": []}

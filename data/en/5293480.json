@@ -1,1 +1,1 @@
-{"name": "Drugs_developed_by_Bayer", "id": 5293480, "predecessors": [{"name": "Bayer", "id": 50628889}, {"name": "Drug_brand_names", "id": 21183991}, {"name": "Health_care", "id": 35880954}], "successors": [{"name": "Aspirin", "id": 16283265}]}
+{"name": "Drugs_developed_by_Bayer", "id": 5293480, "predecessors": [{"name": "Bayer", "id": 50628889}, {"name": "Drug_brand_names", "id": 21183991}], "successors": [{"name": "Aspirin", "id": 16283265}]}

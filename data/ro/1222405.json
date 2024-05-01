@@ -1,1 +1,1 @@
-{"name": "Angiologie", "id": 1222405, "predecessors": [{"name": "Medicină_internă", "id": 947660}, {"name": "Aparatul_cardiovascular", "id": 172754}], "successors": [{"name": "Aparatul_cardiovascular", "id": 172754}]}
+{"name": "Angiologie", "id": 1222405, "predecessors": [{"name": "Specialități_medicale", "id": 760126}, {"name": "Aparatul_cardiovascular", "id": 172754}], "successors": [{"name": "Aparatul_cardiovascular", "id": 172754}]}

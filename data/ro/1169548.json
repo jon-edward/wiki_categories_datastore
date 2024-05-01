@@ -1,1 +1,1 @@
-{"name": "Formate_automobile", "id": 1169548, "predecessors": [{"name": "Automobile", "id": 31957}, {"name": "Formate_Tehnică", "id": 862304}, {"name": "Formate_transporturi", "id": 111022}], "successors": []}
+{"name": "Formate_automobile", "id": 1169548, "predecessors": [{"name": "Automobile", "id": 31957}, {"name": "Formate_Tehnică", "id": 862304}, {"name": "Formate_Wikipedia", "id": 38564}], "successors": []}

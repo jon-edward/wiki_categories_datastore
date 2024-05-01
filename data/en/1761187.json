@@ -1,1 +1,1 @@
-{"name": "Sound_chips", "id": 1761187, "predecessors": [{"name": "Application-specific_integrated_circuits", "id": 55121469}, {"name": "Digital_audio", "id": 880411}, {"name": "Integrated_circuits", "id": 1240658}], "successors": []}
+{"name": "Sound_chips", "id": 1761187, "predecessors": [{"name": "Application-specific_integrated_circuits", "id": 55121469}, {"name": "Computer_output_devices", "id": 5241342}, {"name": "Digital_audio", "id": 880411}, {"name": "Integrated_circuits", "id": 1240658}], "successors": [{"name": "Yamaha_sound_chips", "id": 41656408}]}

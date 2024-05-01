@@ -1,1 +1,1 @@
-{"name": "Borate_minerals", "id": 2184913, "predecessors": [{"name": "Minerals", "id": 708104}], "successors": [{"name": "Nesoborates", "id": 31987150}, {"name": "Borosilicates", "id": 69062635}]}
+{"name": "Borate_minerals", "id": 2184913, "predecessors": [{"name": "Borates", "id": 2277539}], "successors": [{"name": "Nesoborates", "id": 31987150}, {"name": "Borosilicates", "id": 69062635}]}

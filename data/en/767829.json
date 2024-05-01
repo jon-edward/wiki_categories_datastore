@@ -1,1 +1,1 @@
-{"name": "1957_books", "id": 767829, "predecessors": [{"name": "20th-century_literature", "id": 38322217}], "successors": []}
+{"name": "1957_books", "id": 767829, "predecessors": [{"name": "20th_century", "id": 884457}, {"name": "20th-century_literature", "id": 38322217}], "successors": [{"name": "1957_novels", "id": 4461041}, {"name": "1957_short_story_collections", "id": 31991853}, {"name": "1957_children's_books", "id": 53977042}, {"name": "1957_non-fiction_books", "id": 61253579}, {"name": "1957_poetry_books", "id": 62931532}]}

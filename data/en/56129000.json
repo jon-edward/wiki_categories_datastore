@@ -1,1 +1,1 @@
-{"name": "SpaceX_human_spaceflights", "id": 56129000, "predecessors": [{"name": "Human_spaceflights", "id": 850824}, {"name": "SpaceX", "id": 6384977}], "successors": []}
+{"name": "SpaceX_human_spaceflights", "id": 56129000, "predecessors": [{"name": "Human_spaceflights", "id": 850824}, {"name": "SpaceX", "id": 6384977}], "successors": [{"name": "Inspiration4", "id": 69016949}]}

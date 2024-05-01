@@ -1,1 +1,1 @@
-{"name": "Diode_luminoase", "id": 880979, "predecessors": [{"name": "Diode", "id": 40639}, {"name": "Optoelectronică", "id": 740921}, {"name": "Surse_de_lumină", "id": 887112}, {"name": "Transductori", "id": 930070}], "successors": []}
+{"name": "Diode_luminoase", "id": 880979, "predecessors": [{"name": "Diode", "id": 40639}, {"name": "Surse_de_lumină", "id": 887112}, {"name": "Electronică", "id": 16914}, {"name": "Conversie_de_energie", "id": 127370}], "successors": []}

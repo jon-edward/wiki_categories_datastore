@@ -1,0 +1,1 @@
+{"name": "Active_fire_protection", "id": 14090530, "predecessors": [{"name": "Building_automation", "id": 22863047}, {"name": "Fire_protection", "id": 5634220}], "successors": [{"name": "Fire_suppression", "id": 3976851}, {"name": "Fire_detection_and_alarm", "id": 5773620}]}

@@ -1,1 +1,1 @@
-{"name": "Motor_cognition", "id": 38402038, "predecessors": [{"name": "Cognitive_science", "id": 957793}], "successors": []}
+{"name": "Motor_cognition", "id": 38402038, "predecessors": [{"name": "Cognitive_science", "id": 957793}], "successors": [{"name": "Motor_control", "id": 22728692}, {"name": "Motor_system", "id": 27302671}]}

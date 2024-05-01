@@ -1,1 +1,1 @@
-{"name": "Environmental_testing", "id": 54359511, "predecessors": [{"name": "Environmental_technology", "id": 8184738}, {"name": "Reliability_engineering", "id": 2225244}, {"name": "Tests", "id": 7058186}], "successors": []}
+{"name": "Environmental_testing", "id": 54359511, "predecessors": [{"name": "Reliability_engineering", "id": 2225244}], "successors": []}

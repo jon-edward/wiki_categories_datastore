@@ -1,1 +1,0 @@
-{"name": "Moteur_à_combustion_interne", "id": 1217180, "predecessors": [{"name": "Combustion", "id": 3760932}, {"name": "Moteur", "id": 104866}, {"name": "Véhicule", "id": 84529}], "successors": [{"name": "Moteur_à_explosion", "id": 1007078}, {"name": "Moteur-fusée", "id": 3056881}, {"name": "Turbine_à_gaz", "id": 8115773}]}

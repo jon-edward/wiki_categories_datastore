@@ -1,1 +1,1 @@
-{"name": "Cancelled_ships", "id": 31093200, "predecessors": [{"name": "Cancelled_projects", "id": 25624451}, {"name": "Proposed_ships", "id": 1350657}], "successors": [{"name": "Cancelled_ships_of_the_United_States_Navy", "id": 41719618}]}
+{"name": "Cancelled_ships", "id": 31093200, "predecessors": [{"name": "Cancelled_projects", "id": 25624451}, {"name": "Proposed_ships", "id": 1350657}], "successors": [{"name": "Cancelled_aircraft_carriers", "id": 41719418}, {"name": "Cancelled_ships_of_the_United_States_Navy", "id": 41719618}]}

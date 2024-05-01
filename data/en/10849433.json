@@ -1,1 +1,1 @@
-{"name": "Government_ministries_of_Romania", "id": 10849433, "predecessors": [{"name": "Executive_branches_of_government", "id": 6040396}], "successors": [{"name": "Romanian_Ministers_of_Interior", "id": 10734633}]}
+{"name": "Government_ministries_of_Romania", "id": 10849433, "predecessors": [{"name": "Government_of_Romania", "id": 2647332}], "successors": [{"name": "Romanian_Ministers_of_Defence", "id": 9875737}, {"name": "Romanian_Ministers_of_Interior", "id": 10734633}]}

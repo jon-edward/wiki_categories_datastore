@@ -1,1 +1,1 @@
-{"name": "Executed_assassins", "id": 53629610, "predecessors": [{"name": "People_executed_for_murder", "id": 5129541}, {"name": "Crime_by_type", "id": 15090762}], "successors": [{"name": "Executed_failed_assassins", "id": 74499062}, {"name": "Executed_American_assassins", "id": 75076352}]}
+{"name": "Executed_assassins", "id": 53629610, "predecessors": [{"name": "Extrajudicial_killings_by_type", "id": 50217608}], "successors": []}

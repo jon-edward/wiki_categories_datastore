@@ -1,1 +1,1 @@
-{"name": "Live_USB", "id": 22718036, "predecessors": [{"name": "Operating_system_technology", "id": 1956884}, {"name": "USB", "id": 39858185}, {"name": "Booting", "id": 6254572}, {"name": "Linux_distributions", "id": 700239}], "successors": []}
+{"name": "Live_USB", "id": 22718036, "predecessors": [{"name": "USB", "id": 39858185}, {"name": "Linux_distributions", "id": 700239}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Transportation_in_Pasadena,_California", "id": 27125630, "predecessors": [{"name": "Pasadena,_California", "id": 2717989}, {"name": "Transportation_in_Los_Angeles_County,_California", "id": 17464795}, {"name": "Los_Angeles_County,_California", "id": 707276}], "successors": []}
+{"name": "Transportation_in_Pasadena,_California", "id": 27125630, "predecessors": [{"name": "Pasadena,_California", "id": 2717989}], "successors": [{"name": "Streets_in_Pasadena,_California", "id": 40446301}]}

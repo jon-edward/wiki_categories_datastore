@@ -1,1 +1,1 @@
-{"name": "Motoare_de_avion", "id": 214578, "predecessors": [{"name": "Componente_de_avion", "id": 214579}, {"name": "Motoare", "id": 107051}], "successors": [{"name": "Turboventilatoare", "id": 214577}, {"name": "Motoare_cu_reacție", "id": 754190}]}
+{"name": "Motoare_de_avion", "id": 214578, "predecessors": [{"name": "Componente_de_avion", "id": 214579}, {"name": "Motoare", "id": 107051}], "successors": [{"name": "Motoare_cu_reacție", "id": 754190}]}

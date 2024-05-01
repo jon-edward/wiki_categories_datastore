@@ -1,1 +1,1 @@
-{"name": "Santiago_Metro_Line_6", "id": 71633913, "predecessors": [{"name": "Transport_in_Santiago", "id": 32418448}], "successors": []}
+{"name": "Santiago_Metro_Line_6", "id": 71633913, "predecessors": [{"name": "Rapid_transit", "id": 4286827}], "successors": []}

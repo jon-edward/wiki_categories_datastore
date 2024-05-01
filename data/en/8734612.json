@@ -1,1 +1,1 @@
-{"name": "Chlorine", "id": 8734612, "predecessors": [{"name": "Hazardous_air_pollutants", "id": 8659042}], "successors": [{"name": "Chlorine_compounds", "id": 1921889}, {"name": "Isotopes_of_chlorine", "id": 23204708}]}
+{"name": "Chlorine", "id": 8734612, "predecessors": [{"name": "Diatomic_nonmetals", "id": 40320206}, {"name": "Hazardous_air_pollutants", "id": 8659042}], "successors": [{"name": "Chlorine_compounds", "id": 1921889}, {"name": "Isotopes_of_chlorine", "id": 23204708}]}

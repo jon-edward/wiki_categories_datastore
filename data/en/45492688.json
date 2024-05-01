@@ -1,1 +1,1 @@
-{"name": "Animal_rescue_groups", "id": 45492688, "predecessors": [{"name": "Abandoned_animals", "id": 34200739}, {"name": "Animal_welfare_organizations", "id": 8428235}, {"name": "Rescue_agencies", "id": 765961}], "successors": []}
+{"name": "Animal_rescue_groups", "id": 45492688, "predecessors": [{"name": "Abandoned_animals", "id": 34200739}, {"name": "Animal_welfare_organizations", "id": 8428235}], "successors": []}

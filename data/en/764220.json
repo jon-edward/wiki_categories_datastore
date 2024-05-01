@@ -1,1 +1,1 @@
-{"name": "Colliers", "id": 764220, "predecessors": [{"name": "Coal", "id": 1103533}], "successors": [{"name": "Colliers_of_the_United_States_Navy", "id": 27403843}, {"name": "Colliers_of_Australia", "id": 33879575}]}
+{"name": "Colliers", "id": 764220, "predecessors": [{"name": "Auxiliary_ships", "id": 2956333}, {"name": "Coal", "id": 1103533}], "successors": [{"name": "Colliers_of_the_United_States_Navy", "id": 27403843}, {"name": "Colliers_of_Australia", "id": 33879575}]}

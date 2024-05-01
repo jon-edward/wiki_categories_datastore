@@ -1,1 +1,1 @@
-{"name": "Swiss_bankers", "id": 20584762, "predecessors": [{"name": "Banking_in_Switzerland", "id": 39374826}, {"name": "Banking", "id": 1245386}, {"name": "Economy_of_Switzerland", "id": 2726556}], "successors": []}
+{"name": "Swiss_bankers", "id": 20584762, "predecessors": [{"name": "Banking_in_Switzerland", "id": 39374826}, {"name": "Banking_by_country", "id": 5578355}, {"name": "Economy_of_Switzerland", "id": 2726556}], "successors": []}

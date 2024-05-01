@@ -1,1 +1,1 @@
-{"name": "Milestones", "id": 67284948, "predecessors": [{"name": "Street_furniture", "id": 965867}, {"name": "Traffic_signs", "id": 1221746}, {"name": "Frames_of_reference", "id": 2433258}], "successors": [{"name": "Ichirizuka", "id": 65486702}, {"name": "Kilometre-zero_markers", "id": 67285533}]}
+{"name": "Milestones", "id": 67284948, "predecessors": [{"name": "Street_furniture", "id": 965867}, {"name": "Traffic_signs", "id": 1221746}], "successors": [{"name": "Ichirizuka", "id": 65486702}, {"name": "Kilometre-zero_markers", "id": 67285533}]}

@@ -1,1 +1,1 @@
-{"name": "Web_2.0", "id": 392331, "predecessors": [{"name": "Site-uri_web", "id": 1166146}, {"name": "Sisteme_de_calcul", "id": 392333}], "successors": [{"name": "Wikiuri", "id": 392330}]}
+{"name": "Web_2.0", "id": 392331, "predecessors": [{"name": "Site-uri_web", "id": 1166146}, {"name": "Informatică", "id": 12197}], "successors": [{"name": "Wikiuri", "id": 392330}]}

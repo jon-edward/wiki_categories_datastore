@@ -1,1 +1,1 @@
-{"name": "Fish_of_the_Mediterranean_Sea", "id": 29411832, "predecessors": [{"name": "Fauna_of_the_Mediterranean_Sea", "id": 44555763}], "successors": [{"name": "Fish_of_the_Adriatic_Sea", "id": 37016074}]}
+{"name": "Fish_of_the_Mediterranean_Sea", "id": 29411832, "predecessors": [{"name": "Fauna_of_the_Mediterranean_Sea", "id": 44555763}, {"name": "Fish_of_the_East_Atlantic", "id": 56827111}], "successors": [{"name": "Fish_of_the_Adriatic_Sea", "id": 37016074}]}

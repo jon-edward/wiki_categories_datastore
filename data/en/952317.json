@@ -1,1 +1,1 @@
-{"name": "Infiniti_vehicles", "id": 952317, "predecessors": [{"name": "Cars_of_Japan", "id": 8229688}, {"name": "Luxury_vehicles", "id": 1028860}, {"name": "Nissan_vehicles", "id": 892179}, {"name": "Nissan", "id": 892180}], "successors": []}
+{"name": "Infiniti_vehicles", "id": 952317, "predecessors": [{"name": "Cars_of_Japan", "id": 8229688}, {"name": "Luxury_vehicles", "id": 1028860}, {"name": "Nissan_vehicles", "id": 892179}, {"name": "Luxury_motor_vehicle_manufacturers", "id": 5758971}], "successors": []}

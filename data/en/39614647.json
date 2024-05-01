@@ -1,1 +1,1 @@
-{"name": "Organizations_based_in_Tel_Aviv", "id": 39614647, "predecessors": [{"name": "Cities_in_Israel", "id": 1976148}], "successors": [{"name": "Companies_based_in_Tel_Aviv", "id": 42579747}]}
+{"name": "Organizations_based_in_Tel_Aviv", "id": 39614647, "predecessors": [{"name": "Cities_in_Israel", "id": 1976148}, {"name": "Israel", "id": 698501}], "successors": [{"name": "Companies_based_in_Tel_Aviv", "id": 42579747}]}

@@ -1,1 +1,1 @@
-{"name": "Steam_road_vehicles", "id": 14707737, "predecessors": [{"name": "Land_transport", "id": 34296861}], "successors": [{"name": "Steam_cars", "id": 1458107}, {"name": "Steam_road_vehicle_manufacturers", "id": 36884312}]}
+{"name": "Steam_road_vehicles", "id": 14707737, "predecessors": [{"name": "Land_vehicles", "id": 30278361}], "successors": [{"name": "Steam_cars", "id": 1458107}, {"name": "Steam_road_vehicle_manufacturers", "id": 36884312}, {"name": "Steam_wagon_manufacturers", "id": 24636189}]}

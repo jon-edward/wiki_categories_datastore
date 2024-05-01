@@ -1,1 +1,1 @@
-{"name": "Transit_centers_in_the_United_States", "id": 28206332, "predecessors": [{"name": "Intermodal_transport", "id": 28589652}], "successors": [{"name": "TriMet_transit_centers", "id": 34112569}]}
+{"name": "Transit_centers_in_the_United_States", "id": 28206332, "predecessors": [{"name": "Public_transportation_in_the_United_States", "id": 56048403}, {"name": "Terminology", "id": 1016013}], "successors": [{"name": "TriMet_transit_centers", "id": 34112569}]}

@@ -1,1 +1,1 @@
-{"name": "Aircraft_leasing_companies", "id": 15717738, "predecessors": [{"name": "Leasing_companies", "id": 30953897}, {"name": "Aviation_companies", "id": 52817095}], "successors": []}
+{"name": "Aircraft_leasing_companies", "id": 15717738, "predecessors": [{"name": "Leasing_companies", "id": 30953897}, {"name": "Aviation_companies", "id": 52817095}], "successors": [{"name": "Aircraft_leasing_companies_of_the_Republic_of_Ireland", "id": 59071067}]}

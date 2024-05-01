@@ -1,1 +1,1 @@
-{"name": "Tourist_attractions_in_Alice_Springs", "id": 62420310, "predecessors": [{"name": "Alice_Springs", "id": 4127173}, {"name": "Northern_Territory", "id": 933575}], "successors": []}
+{"name": "Tourist_attractions_in_Alice_Springs", "id": 62420310, "predecessors": [{"name": "Alice_Springs", "id": 4127173}, {"name": "Northern_Territory", "id": 933575}], "successors": [{"name": "Museums_in_Alice_Springs", "id": 27393004}]}

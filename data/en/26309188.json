@@ -1,1 +1,1 @@
-{"name": "Diols", "id": 26309188, "predecessors": [{"name": "Polyols", "id": 4187771}], "successors": [{"name": "Alkanediols", "id": 45493032}]}
+{"name": "Diols", "id": 26309188, "predecessors": [{"name": "Polyols", "id": 4187771}], "successors": [{"name": "Alkanediols", "id": 45493032}, {"name": "Vicinal_diols", "id": 55201566}, {"name": "Geminal_diols", "id": 57524430}]}

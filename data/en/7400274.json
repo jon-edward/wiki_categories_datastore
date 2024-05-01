@@ -1,1 +1,1 @@
-{"name": "Translators_to_Greek", "id": 7400274, "predecessors": [{"name": "Greek_language", "id": 4842064}], "successors": []}
+{"name": "Translators_to_Greek", "id": 7400274, "predecessors": [{"name": "Greek_language", "id": 4842064}, {"name": "Translation", "id": 918052}], "successors": [{"name": "Latin–Greek_translators", "id": 43406525}]}

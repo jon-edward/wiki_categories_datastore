@@ -1,0 +1,1 @@
+{"name": "Ischemic_heart_diseases", "id": 12180072, "predecessors": [{"name": "Causes_of_death", "id": 5271061}, {"name": "Heart_diseases", "id": 32535910}, {"name": "Ischemia", "id": 44759742}], "successors": [{"name": "Antianginals", "id": 718641}, {"name": "Deaths_from_coronary_artery_disease", "id": 69688810}, {"name": "Deaths_from_angina_pectoris", "id": 72471611}]}

@@ -1,1 +1,1 @@
-{"name": "Lopingian_extinctions", "id": 47582852, "predecessors": [{"name": "Permian_extinctions", "id": 27638249}], "successors": [{"name": "Lopingian_genus_extinctions", "id": 54303804}, {"name": "Orthida", "id": 75782995}]}
+{"name": "Lopingian_extinctions", "id": 47582852, "predecessors": [{"name": "Lopingian_life", "id": 47582982}, {"name": "Permian_extinctions", "id": 27638249}, {"name": "Geological_epochs", "id": 47136043}], "successors": [{"name": "Lopingian_genus_extinctions", "id": 54303804}, {"name": "Orthida", "id": 75782995}]}

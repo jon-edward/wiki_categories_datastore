@@ -1,1 +1,1 @@
-{"name": "Anteaters", "id": 25303086, "predecessors": [{"name": "Predators", "id": 24520192}, {"name": "Cladotheria", "id": 66197309}], "successors": []}
+{"name": "Anteaters", "id": 25303086, "predecessors": [{"name": "Myrmecophagous_mammals", "id": 14226218}, {"name": "Predators", "id": 24520192}, {"name": "Mammal_orders", "id": 43534992}], "successors": []}

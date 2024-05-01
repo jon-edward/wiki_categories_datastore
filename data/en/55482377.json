@@ -1,1 +1,1 @@
-{"name": "Clandestine_operations", "id": 55482377, "predecessors": [{"name": "Intelligence_operations_by_type", "id": 40544856}, {"name": "Military_intelligence_collection", "id": 19139425}, {"name": "Secrecy", "id": 3114961}], "successors": [{"name": "Operation_Condor", "id": 3829563}]}
+{"name": "Clandestine_operations", "id": 55482377, "predecessors": [{"name": "Secrecy", "id": 3114961}], "successors": [{"name": "Operation_Condor", "id": 3829563}]}

@@ -1,1 +1,1 @@
-{"name": "New_York_University_research_institutes", "id": 42758089, "predecessors": [{"name": "Research_institutes_in_New_York_(state)", "id": 54233903}], "successors": [{"name": "Center_on_International_Cooperation", "id": 59347736}]}
+{"name": "New_York_University_research_institutes", "id": 42758089, "predecessors": [{"name": "New_York_University", "id": 974731}, {"name": "Research_institutes_in_New_York_(state)", "id": 54233903}], "successors": [{"name": "Center_on_International_Cooperation", "id": 59347736}]}

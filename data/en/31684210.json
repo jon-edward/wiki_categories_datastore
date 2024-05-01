@@ -1,1 +1,1 @@
-{"name": "Tourist_attractions_in_Leipzig", "id": 31684210, "predecessors": [{"name": "Tourism_in_Germany", "id": 2645584}, {"name": "Geography_of_Germany", "id": 1062681}], "successors": [{"name": "Museums_in_Leipzig", "id": 31684283}]}
+{"name": "Tourist_attractions_in_Leipzig", "id": 31684210, "predecessors": [{"name": "Tourist_attractions_in_Saxony", "id": 31676088}, {"name": "Tourism_in_Germany", "id": 2645584}, {"name": "Geography_of_Germany", "id": 1062681}], "successors": [{"name": "Museums_in_Leipzig", "id": 31684283}]}

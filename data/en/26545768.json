@@ -1,1 +1,1 @@
-{"name": "Railway_stations_in_Heilongjiang", "id": 26545768, "predecessors": [{"name": "Rail_transport_in_Heilongjiang", "id": 27547235}], "successors": [{"name": "Railway_stations_in_Harbin", "id": 35542015}]}
+{"name": "Railway_stations_in_Heilongjiang", "id": 26545768, "predecessors": [{"name": "Rail_transport_in_Heilongjiang", "id": 27547235}, {"name": "Manchuria", "id": 1274875}], "successors": [{"name": "Railway_stations_in_Harbin", "id": 35542015}]}

@@ -1,1 +1,0 @@
-{"name": "Medizinisches_Gerät", "id": 9432732, "predecessors": [{"name": "Medizinprodukt", "id": 9432764}, {"name": "Gerät", "id": 381787}], "successors": [{"name": "Chirurgisches_Instrument", "id": 2378014}, {"name": "Implantat", "id": 4165606}, {"name": "Medizinische_Pumpe", "id": 5456907}, {"name": "Diagnostikgerät", "id": 5572374}, {"name": "Katheter", "id": 5577228}]}

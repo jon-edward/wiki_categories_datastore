@@ -1,1 +1,1 @@
-{"name": "NASCAR_teams", "id": 1261858, "predecessors": [{"name": "NASCAR", "id": 696532}, {"name": "Individual_sports", "id": 862248}], "successors": [{"name": "NASCAR_team_owners", "id": 33868277}]}
+{"name": "NASCAR_teams", "id": 1261858, "predecessors": [{"name": "NASCAR", "id": 696532}, {"name": "Motorsport", "id": 13306047}], "successors": [{"name": "Defunct_NASCAR_teams", "id": 3572963}, {"name": "Team_Penske", "id": 27746997}, {"name": "NASCAR_team_owners", "id": 33868277}, {"name": "Joe_Gibbs_Racing", "id": 75950715}]}

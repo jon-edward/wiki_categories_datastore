@@ -1,1 +1,1 @@
-{"name": "Italian_alcoholic_drinks", "id": 24682529, "predecessors": [{"name": "Italian_drinks", "id": 2848403}, {"name": "Health_in_Europe", "id": 29366955}], "successors": [{"name": "Italian_wine", "id": 6042382}, {"name": "Cocktails_with_vermouth", "id": 9587742}]}
+{"name": "Italian_alcoholic_drinks", "id": 24682529, "predecessors": [{"name": "Italian_drinks", "id": 2848403}, {"name": "Alcohol_by_country", "id": 24323097}], "successors": [{"name": "Italian_wine", "id": 6042382}, {"name": "Vermouth", "id": 9587448}]}

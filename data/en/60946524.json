@@ -1,1 +1,1 @@
-{"name": "Metascience", "id": 60946524, "predecessors": [{"name": "Evidence-based_practices", "id": 26090248}, {"name": "Research", "id": 1395115}, {"name": "Science", "id": 691182}], "successors": [{"name": "Peer_review", "id": 28387285}, {"name": "Design_of_experiments", "id": 31195693}]}
+{"name": "Metascience", "id": 60946524, "predecessors": [{"name": "Evidence-based_practices", "id": 26090248}, {"name": "Research", "id": 1395115}, {"name": "Inquiry", "id": 21994999}], "successors": [{"name": "Peer_review", "id": 28387285}]}

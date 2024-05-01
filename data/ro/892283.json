@@ -1,1 +1,1 @@
-{"name": "Economie_monetară", "id": 892283, "predecessors": [{"name": "Bani", "id": 892298}], "successors": [{"name": "Crize_economice", "id": 892282}, {"name": "Politică_monetară", "id": 1116070}, {"name": "Bani", "id": 892298}, {"name": "Inflație", "id": 1106675}]}
+{"name": "Economie_monetară", "id": 892283, "predecessors": [{"name": "Bani", "id": 892298}], "successors": [{"name": "Politică_monetară", "id": 1116070}, {"name": "Bani", "id": 892298}, {"name": "Inflație", "id": 1106675}]}

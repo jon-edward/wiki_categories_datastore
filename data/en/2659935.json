@@ -1,1 +1,1 @@
-{"name": "Submarine_volcanoes", "id": 2659935, "predecessors": [{"name": "Marine_geology", "id": 4946349}, {"name": "Submarine_topography", "id": 47440442}], "successors": [{"name": "Submarine_calderas", "id": 22968338}]}
+{"name": "Submarine_volcanoes", "id": 2659935, "predecessors": [{"name": "Volcanoes", "id": 693788}], "successors": [{"name": "Submarine_calderas", "id": 22968338}, {"name": "Guyots", "id": 10268022}, {"name": "Seamount_chains", "id": 22133914}]}

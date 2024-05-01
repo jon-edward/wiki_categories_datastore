@@ -1,1 +1,1 @@
-{"name": "Moscow_Metro_stations", "id": 2486148, "predecessors": [{"name": "Railway_stations_in_Moscow", "id": 4379900}, {"name": "Moscow_Metro", "id": 18297909}], "successors": [{"name": "Moscow_Central_Circle_stations", "id": 51124617}]}
+{"name": "Moscow_Metro_stations", "id": 2486148, "predecessors": [{"name": "Railway_stations_in_Moscow", "id": 4379900}, {"name": "Moscow_Metro", "id": 18297909}, {"name": "Underground_rapid_transit_in_Russia", "id": 31164492}], "successors": [{"name": "Moscow_Central_Circle_stations", "id": 51124617}]}

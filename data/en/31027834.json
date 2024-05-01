@@ -1,1 +1,0 @@
-{"name": "Market_data", "id": 31027834, "predecessors": [{"name": "Data", "id": 16989227}], "successors": [{"name": "Security_identifier_types", "id": 1025496}, {"name": "Financial_data_vendors", "id": 27399409}]}

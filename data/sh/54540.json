@@ -1,1 +1,1 @@
-{"name": "Ulice", "id": 54540, "predecessors": [{"name": "Komunikacije", "id": 47770}, {"name": "Saobraćajna_infrastruktura", "id": 4638702}, {"name": "Urbana_geografija", "id": 186510}, {"name": "Urbanizam", "id": 72871}], "successors": []}
+{"name": "Ulice", "id": 54540, "predecessors": [{"name": "Komunikacije", "id": 47770}, {"name": "Saobraćajna_infrastruktura", "id": 4638702}, {"name": "Urbana_geografija", "id": 186510}, {"name": "Urbanizam", "id": 72871}], "successors": [{"name": "Spiskovi_ulica", "id": 29756}]}

@@ -1,1 +1,1 @@
-{"name": "Organizational_cybernetics", "id": 75030565, "predecessors": [{"name": "Control_theory", "id": 1028771}, {"name": "Cybernetics", "id": 1754736}, {"name": "Organizational_studies", "id": 34963594}], "successors": []}
+{"name": "Organizational_cybernetics", "id": 75030565, "predecessors": [{"name": "Organizational_studies", "id": 34963594}], "successors": [{"name": "Operator_theory", "id": 691908}]}

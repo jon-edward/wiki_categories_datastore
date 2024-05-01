@@ -1,1 +1,1 @@
-{"name": "COVID-19_testing", "id": 69599212, "predecessors": [{"name": "Medical_responses_to_the_COVID-19_pandemic", "id": 63754590}], "successors": []}
+{"name": "COVID-19_testing", "id": 69599212, "predecessors": [{"name": "Infectious_disease_blood_tests", "id": 32682541}, {"name": "Medical_responses_to_the_COVID-19_pandemic", "id": 63754590}], "successors": []}

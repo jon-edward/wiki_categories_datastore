@@ -1,1 +1,1 @@
-{"name": "Ethanol_fuel", "id": 3398589, "predecessors": [{"name": "Ethanol", "id": 24359183}, {"name": "Synthetic_fuels", "id": 23080525}, {"name": "Alcohols", "id": 713775}], "successors": []}
+{"name": "Ethanol_fuel", "id": 3398589, "predecessors": [{"name": "Alcohol_fuels", "id": 28294977}, {"name": "Ethanol", "id": 24359183}, {"name": "Synthetic_fuels", "id": 23080525}], "successors": []}

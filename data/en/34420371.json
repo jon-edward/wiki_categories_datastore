@@ -1,1 +1,1 @@
-{"name": "Fauna_of_the_Baltic_Sea", "id": 34420371, "predecessors": [{"name": "Baltic_Sea", "id": 733031}], "successors": [{"name": "Fish_of_the_Baltic_Sea", "id": 29698007}]}
+{"name": "Fauna_of_the_Baltic_Sea", "id": 34420371, "predecessors": [{"name": "Fauna_of_the_Atlantic_Ocean", "id": 24823130}, {"name": "Baltic_Sea", "id": 733031}], "successors": [{"name": "Fish_of_the_Baltic_Sea", "id": 29698007}]}

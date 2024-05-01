@@ -1,1 +1,1 @@
-{"name": "Dutch_art_collectors", "id": 3647285, "predecessors": [{"name": "Art_by_country", "id": 1001486}], "successors": [{"name": "Art_collectors_from_Amsterdam", "id": 67820056}, {"name": "Art_collectors_from_The_Hague", "id": 68198865}]}
+{"name": "Dutch_art_collectors", "id": 3647285, "predecessors": [{"name": "Dutch_art", "id": 3774661}], "successors": [{"name": "Art_collectors_from_Amsterdam", "id": 67820056}, {"name": "Art_collectors_from_The_Hague", "id": 68198865}]}

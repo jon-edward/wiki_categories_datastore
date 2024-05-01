@@ -1,1 +1,1 @@
-{"name": "Well_tank_locomotives", "id": 32798106, "predecessors": [{"name": "Tank_locomotives", "id": 30272352}], "successors": []}
+{"name": "Well_tank_locomotives", "id": 32798106, "predecessors": [{"name": "Tank_locomotives", "id": 30272352}], "successors": [{"name": "2-2-2WT_locomotives", "id": 62091476}]}

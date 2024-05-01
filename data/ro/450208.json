@@ -1,1 +1,1 @@
-{"name": "Numere_întregi", "id": 450208, "predecessors": [{"name": "Numere_raționale", "id": 837297}], "successors": [{"name": "Numere_naturale", "id": 837350}, {"name": "Șiruri_de_numere_întregi", "id": 986946}, {"name": "7_(număr)", "id": 3034259}, {"name": "Paritate", "id": 3079831}]}
+{"name": "Numere_întregi", "id": 450208, "predecessors": [{"name": "Fracții", "id": 980382}], "successors": [{"name": "Numere_naturale", "id": 837350}, {"name": "Șiruri_de_numere_întregi", "id": 986946}, {"name": "7_(număr)", "id": 3034259}]}

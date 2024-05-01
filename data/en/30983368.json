@@ -1,1 +1,1 @@
-{"name": "Light_tanks_of_France", "id": 30983368, "predecessors": [{"name": "Vehicles", "id": 694929}], "successors": []}
+{"name": "Light_tanks_of_France", "id": 30983368, "predecessors": [{"name": "Tanks_by_type", "id": 21549001}, {"name": "Tanks", "id": 786411}], "successors": []}

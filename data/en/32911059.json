@@ -1,1 +1,1 @@
-{"name": "Pet_stores", "id": 32911059, "predecessors": [{"name": "Pets", "id": 737815}], "successors": []}
+{"name": "Pet_stores", "id": 32911059, "predecessors": [{"name": "Pets", "id": 737815}, {"name": "Retailers_by_type_of_merchandise_sold", "id": 55586528}], "successors": []}

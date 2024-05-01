@@ -1,1 +1,1 @@
-{"name": "Celestial_navigation", "id": 17766145, "predecessors": [{"name": "Geopositioning", "id": 65171883}, {"name": "Navigation", "id": 716308}], "successors": []}
+{"name": "Celestial_navigation", "id": 17766145, "predecessors": [{"name": "Navigation", "id": 716308}], "successors": []}

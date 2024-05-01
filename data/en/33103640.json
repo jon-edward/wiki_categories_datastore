@@ -1,1 +1,1 @@
-{"name": "Quranic_exegesis", "id": 33103640, "predecessors": [{"name": "Hermeneutics", "id": 2687956}, {"name": "Islamic_studies", "id": 32527472}], "successors": [{"name": "Tafsir_works", "id": 32741488}, {"name": "Quranic_exegesis_scholars", "id": 33199133}]}
+{"name": "Quranic_exegesis", "id": 33103640, "predecessors": [{"name": "Exegesis", "id": 34488497}, {"name": "Islamic_studies", "id": 32527472}], "successors": [{"name": "Tafsir_works", "id": 32741488}, {"name": "Quranic_exegesis_scholars", "id": 33199133}]}

@@ -1,1 +1,1 @@
-{"name": "Leprosy_in_Japan", "id": 27659525, "predecessors": [{"name": "Healthcare_in_Japan", "id": 56503992}], "successors": [{"name": "Japanese_leper_hospital_administrators", "id": 39595702}, {"name": "Japanese_leprologists", "id": 55672987}]}
+{"name": "Leprosy_in_Japan", "id": 27659525, "predecessors": [{"name": "Healthcare_in_Japan", "id": 56503992}, {"name": "Leprosy", "id": 3861642}], "successors": [{"name": "Japanese_leper_hospital_administrators", "id": 39595702}, {"name": "Japanese_leprologists", "id": 55672987}]}

@@ -1,1 +1,1 @@
-{"name": "Web_directories", "id": 826434, "predecessors": [{"name": "Directories", "id": 3119166}, {"name": "Online_services", "id": 33315753}, {"name": "Web_1.0", "id": 25453684}, {"name": "World_Wide_Web", "id": 826436}], "successors": []}
+{"name": "Web_directories", "id": 826434, "predecessors": [{"name": "Directories", "id": 3119166}, {"name": "Indexes", "id": 1789509}, {"name": "Web_1.0", "id": 25453684}], "successors": []}

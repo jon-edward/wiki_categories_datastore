@@ -1,1 +1,1 @@
-{"name": "Normed_spaces", "id": 7548377, "predecessors": [{"name": "Norms_(mathematics)", "id": 7544087}, {"name": "Topological_vector_spaces", "id": 7409974}], "successors": []}
+{"name": "Normed_spaces", "id": 7548377, "predecessors": [{"name": "Topological_vector_spaces", "id": 7409974}], "successors": [{"name": "Banach_spaces", "id": 1213183}, {"name": "Lp_spaces", "id": 73231553}]}

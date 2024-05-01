@@ -1,1 +1,1 @@
-{"name": "Dentifrices", "id": 10027782, "predecessors": [{"name": "Oral_hygiene", "id": 7294075}], "successors": [{"name": "Brands_of_toothpaste", "id": 2169209}]}
+{"name": "Dentifrices", "id": 10027782, "predecessors": [{"name": "Oral_hygiene", "id": 7294075}, {"name": "Preventive_dentistry", "id": 74142343}], "successors": [{"name": "Brands_of_toothpaste", "id": 2169209}]}

@@ -1,1 +1,1 @@
-{"name": "Commodity_chemicals", "id": 43173359, "predecessors": [{"name": "Chemical_engineering", "id": 1147083}], "successors": []}
+{"name": "Commodity_chemicals", "id": 43173359, "predecessors": [{"name": "Commodities", "id": 27371902}, {"name": "Chemical_engineering", "id": 1147083}], "successors": []}

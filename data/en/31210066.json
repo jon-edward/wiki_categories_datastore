@@ -1,1 +1,1 @@
-{"name": "Radioactively_contaminated_areas", "id": 31210066, "predecessors": [{"name": "Radioactive_contamination", "id": 35589383}, {"name": "Soil_contamination", "id": 4255318}, {"name": "Cartography", "id": 716309}], "successors": [{"name": "Chernobyl_Exclusion_Zone", "id": 49042882}]}
+{"name": "Radioactively_contaminated_areas", "id": 31210066, "predecessors": [{"name": "Radioactive_contamination", "id": 35589383}, {"name": "Soil_contamination", "id": 4255318}], "successors": [{"name": "Chernobyl_Exclusion_Zone", "id": 49042882}]}

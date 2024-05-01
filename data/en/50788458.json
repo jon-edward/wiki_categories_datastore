@@ -1,1 +1,1 @@
-{"name": "Id_Tech_games", "id": 50788458, "predecessors": [{"name": "Id_Tech", "id": 42875022}, {"name": "Video_game_engines", "id": 21367565}], "successors": [{"name": "Wolfenstein_3D_engine_games", "id": 21014739}, {"name": "Doom_mods", "id": 4393217}]}
+{"name": "Id_Tech_games", "id": 50788458, "predecessors": [{"name": "Id_Tech", "id": 42875022}, {"name": "Video_game_engines", "id": 21367565}], "successors": [{"name": "Wolfenstein_3D_engine_games", "id": 21014739}, {"name": "Doom_engine_games", "id": 40439943}]}

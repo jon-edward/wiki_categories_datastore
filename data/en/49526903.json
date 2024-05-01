@@ -1,1 +1,0 @@
-{"name": "Voltage", "id": 49526903, "predecessors": [{"name": "Electromagnetism", "id": 696048}, {"name": "Physical_quantities", "id": 18726608}, {"name": "Potentials", "id": 40749735}], "successors": [{"name": "Voltage_stability", "id": 51220667}, {"name": "Voltage_regulation", "id": 51220849}]}

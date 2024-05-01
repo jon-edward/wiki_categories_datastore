@@ -1,1 +1,1 @@
-{"name": "Fishing_nets", "id": 35067027, "predecessors": [{"name": "Fishing_industry", "id": 11967701}, {"name": "Fishing_techniques_and_methods", "id": 16022993}, {"name": "Nets_(devices)", "id": 35108994}, {"name": "Fishing_equipment", "id": 1617833}], "successors": []}
+{"name": "Fishing_nets", "id": 35067027, "predecessors": [{"name": "Fishing_industry", "id": 11967701}, {"name": "Fishing_techniques_and_methods", "id": 16022993}, {"name": "Animal_trapping", "id": 38895271}], "successors": []}

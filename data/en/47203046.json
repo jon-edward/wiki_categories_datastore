@@ -1,1 +1,1 @@
-{"name": "Pop_rappers", "id": 47203046, "predecessors": [{"name": "Hip_hop_people", "id": 37330568}, {"name": "Pop_music", "id": 1092519}, {"name": "Hip_hop_genres", "id": 1752348}], "successors": []}
+{"name": "Pop_rappers", "id": 47203046, "predecessors": [{"name": "Rapping", "id": 2421888}, {"name": "Pop_music", "id": 1092519}, {"name": "Pop_music_genres", "id": 2567688}], "successors": []}

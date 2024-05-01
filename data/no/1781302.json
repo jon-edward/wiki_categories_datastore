@@ -1,1 +1,1 @@
-{"name": "Badminton_i_2006", "id": 1781302, "predecessors": [{"name": "Sport_i_2006", "id": 68378}, {"name": "Badminton", "id": 150294}], "successors": []}
+{"name": "Badminton_i_2006", "id": 1781302, "predecessors": [{"name": "Badminton", "id": 150294}, {"name": "Historie", "id": 13177}], "successors": []}

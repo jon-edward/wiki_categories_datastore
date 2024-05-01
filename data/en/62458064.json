@@ -1,1 +1,1 @@
-{"name": "Egyptian_death_gods", "id": 62458064, "predecessors": [{"name": "Death_gods", "id": 709733}, {"name": "Egyptian_gods", "id": 704399}, {"name": "Death_deities", "id": 704733}], "successors": [{"name": "Osiris", "id": 61718154}, {"name": "Anubis", "id": 62457826}]}
+{"name": "Egyptian_death_gods", "id": 62458064, "predecessors": [{"name": "Egyptian_gods", "id": 704399}, {"name": "Death_deities", "id": 704733}], "successors": [{"name": "Osiris", "id": 61718154}, {"name": "Anubis", "id": 62457826}]}

@@ -1,1 +1,1 @@
-{"name": "Fluorescent_proteins", "id": 49955114, "predecessors": [{"name": "Biochemistry_methods", "id": 11602946}, {"name": "Bioluminescence", "id": 5473222}], "successors": []}
+{"name": "Fluorescent_proteins", "id": 49955114, "predecessors": [{"name": "Biochemistry_methods", "id": 11602946}, {"name": "Bioluminescence", "id": 5473222}, {"name": "Protein_structure", "id": 740536}], "successors": []}

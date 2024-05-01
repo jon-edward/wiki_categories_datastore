@@ -1,1 +1,1 @@
-{"name": "1920_books", "id": 780887, "predecessors": [{"name": "1920s_books", "id": 1267067}, {"name": "20th-century_literature", "id": 38322217}], "successors": []}
+{"name": "1920_books", "id": 780887, "predecessors": [{"name": "1920s_books", "id": 1267067}, {"name": "1920", "id": 885583}, {"name": "20th-century_literature", "id": 38322217}], "successors": [{"name": "1920_novels", "id": 4776072}, {"name": "1920_short_story_collections", "id": 31994189}, {"name": "1920_non-fiction_books", "id": 62373855}]}

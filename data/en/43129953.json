@@ -1,1 +1,1 @@
-{"name": "Saliva", "id": 43129953, "predecessors": [{"name": "Body_fluids", "id": 4878515}, {"name": "Excretion", "id": 3342268}], "successors": []}
+{"name": "Saliva", "id": 43129953, "predecessors": [{"name": "Excretion", "id": 3342268}], "successors": []}

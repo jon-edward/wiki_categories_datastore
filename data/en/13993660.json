@@ -1,1 +1,1 @@
-{"name": "BMW_designers", "id": 13993660, "predecessors": [{"name": "BMW_people", "id": 17320375}, {"name": "Automotive_design", "id": 5635256}], "successors": []}
+{"name": "BMW_designers", "id": 13993660, "predecessors": [{"name": "Automobile_designers", "id": 1053680}, {"name": "BMW_people", "id": 17320375}], "successors": []}

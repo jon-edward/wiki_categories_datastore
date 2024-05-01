@@ -1,1 +1,1 @@
-{"name": "Jazz_clubs_in_Los_Angeles", "id": 43520823, "predecessors": [{"name": "Music_venues_in_Los_Angeles", "id": 20043750}, {"name": "Jazz_clubs_in_the_United_States", "id": 23675813}], "successors": []}
+{"name": "Jazz_clubs_in_Los_Angeles", "id": 43520823, "predecessors": [{"name": "Jazz_clubs_in_California", "id": 43520616}, {"name": "Music_venues_in_Los_Angeles", "id": 20043750}], "successors": []}

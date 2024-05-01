@@ -1,1 +1,1 @@
-{"name": "Ranging_Rook_openings", "id": 52222682, "predecessors": [{"name": "Shogi_openings", "id": 56703256}], "successors": [{"name": "Static_Rook_vs_Ranging_Rook_openings", "id": 52258559}]}
+{"name": "Ranging_Rook_openings", "id": 52222682, "predecessors": [{"name": "Shogi_openings", "id": 56703256}], "successors": [{"name": "Static_Rook_vs_Ranging_Rook_openings", "id": 52258559}, {"name": "Central_Rook_openings", "id": 52776421}]}

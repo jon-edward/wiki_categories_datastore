@@ -1,1 +1,1 @@
-{"name": "WTA_125", "id": 953519, "predecessors": [{"name": "Tenisové_turnaje", "id": 31011}, {"name": "WTA_Tour", "id": 378033}], "successors": [{"name": "Zhengzhou_Open", "id": 1494044}]}
+{"name": "WTA_125", "id": 953519, "predecessors": [{"name": "Tenisové_turnaje", "id": 31011}, {"name": "WTA_Tour", "id": 378033}], "successors": [{"name": "Zhengzhou_Open", "id": 1494044}, {"name": "Rouen_Open", "id": 1912210}]}

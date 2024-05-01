@@ -1,1 +1,1 @@
-{"name": "Home_decor_retailers", "id": 10824192, "predecessors": [{"name": "Home_economics", "id": 21116311}], "successors": [{"name": "IKEA", "id": 20077909}]}
+{"name": "Home_decor_retailers", "id": 10824192, "predecessors": [{"name": "Home_economics", "id": 21116311}, {"name": "Retailers_by_type_of_merchandise_sold", "id": 55586528}], "successors": [{"name": "IKEA", "id": 20077909}]}

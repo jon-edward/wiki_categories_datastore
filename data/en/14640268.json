@@ -1,1 +1,1 @@
-{"name": "Equine_welfare", "id": 14640268, "predecessors": [{"name": "Animal_welfare", "id": 991706}, {"name": "Animals_and_humans", "id": 52196069}], "successors": []}
+{"name": "Equine_welfare", "id": 14640268, "predecessors": [{"name": "Animal_welfare", "id": 991706}, {"name": "Horses", "id": 893812}], "successors": []}

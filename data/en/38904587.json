@@ -1,1 +1,1 @@
-{"name": "Psychiatric_false_diagnosis", "id": 38904587, "predecessors": [{"name": "Medical_error", "id": 21255822}, {"name": "Psychiatry_controversies", "id": 31130328}], "successors": [{"name": "Political_abuses_of_psychiatry", "id": 13582747}]}
+{"name": "Psychiatric_false_diagnosis", "id": 38904587, "predecessors": [{"name": "Medical_error", "id": 21255822}, {"name": "Psychiatry_controversies", "id": 31130328}, {"name": "Medical_diagnosis", "id": 16705234}], "successors": [{"name": "Political_abuses_of_psychiatry", "id": 13582747}]}

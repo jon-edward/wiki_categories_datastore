@@ -1,1 +1,1 @@
-{"name": "Gustation", "id": 1061134, "predecessors": [{"name": "Food_and_drink", "id": 694860}, {"name": "Senses", "id": 14855662}], "successors": [{"name": "Flavors", "id": 2391681}, {"name": "Wine_tasting", "id": 3828844}]}
+{"name": "Gustation", "id": 1061134, "predecessors": [{"name": "Food_and_drink", "id": 694860}, {"name": "Senses", "id": 14855662}], "successors": [{"name": "Gustatory_system", "id": 749758}, {"name": "Flavors", "id": 2391681}, {"name": "Wine_tasting", "id": 3828844}]}

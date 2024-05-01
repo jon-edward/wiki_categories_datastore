@@ -1,1 +1,1 @@
-{"name": "Lists_of_military_vehicles", "id": 40472564, "predecessors": [{"name": "Lists_of_military_equipment", "id": 36473041}, {"name": "Lists_of_vehicles", "id": 13049974}, {"name": "Military_vehicles", "id": 786368}], "successors": [{"name": "Lists_of_armoured_fighting_vehicles", "id": 62399745}]}
+{"name": "Lists_of_military_vehicles", "id": 40472564, "predecessors": [{"name": "Lists_of_vehicles", "id": 13049974}], "successors": [{"name": "Lists_of_currently_active_military_vehicles", "id": 12911195}, {"name": "Lists_of_armoured_fighting_vehicles", "id": 62399745}]}

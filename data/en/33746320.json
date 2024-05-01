@@ -1,1 +1,1 @@
-{"name": "Brussels_metro_stations", "id": 33746320, "predecessors": [{"name": "Railway_stations_in_Brussels", "id": 4131636}, {"name": "Public_transport", "id": 700497}, {"name": "Economy_of_Belgium", "id": 1704439}], "successors": []}
+{"name": "Brussels_metro_stations", "id": 33746320, "predecessors": [{"name": "Railway_stations_in_Brussels", "id": 4131636}, {"name": "Transport_in_Belgium", "id": 4727424}, {"name": "Railway_stations_by_type", "id": 72782274}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Roci_sedimentare", "id": 133353, "predecessors": [{"name": "Roci", "id": 131922}, {"name": "Sedimentologie", "id": 878314}], "successors": [{"name": "Cărbune", "id": 133460}, {"name": "Calcar", "id": 1933501}]}
+{"name": "Roci_sedimentare", "id": 133353, "predecessors": [{"name": "Roci", "id": 131922}, {"name": "Sedimentologie", "id": 878314}], "successors": [{"name": "Cărbune", "id": 133460}]}

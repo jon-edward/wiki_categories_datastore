@@ -1,1 +1,1 @@
-{"name": "Set_index_articles_on_cars", "id": 41675543, "predecessors": [{"name": "Land_transport", "id": 34296861}, {"name": "Set_index_articles", "id": 17873340}], "successors": []}
+{"name": "Set_index_articles_on_cars", "id": 41675543, "predecessors": [{"name": "Land_vehicles", "id": 30278361}, {"name": "Set_index_articles", "id": 17873340}], "successors": []}

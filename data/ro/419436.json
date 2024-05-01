@@ -1,1 +1,1 @@
-{"name": "Sistem_senzorial", "id": 419436, "predecessors": [{"name": "Neurobiologie", "id": 108210}, {"name": "Sistemul_nervos", "id": 69372}], "successors": [{"name": "Sistem_vizual", "id": 952089}, {"name": "Simțuri", "id": 976986}, {"name": "Durere", "id": 1036592}]}
+{"name": "Sistem_senzorial", "id": 419436, "predecessors": [{"name": "Sistemul_nervos", "id": 69372}, {"name": "Ramuri_ale_biologiei", "id": 458436}], "successors": [{"name": "Sistem_vizual", "id": 952089}, {"name": "Simțuri", "id": 976986}, {"name": "Durere", "id": 1036592}]}

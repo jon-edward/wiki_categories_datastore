@@ -1,1 +1,1 @@
-{"name": "Pian", "id": 321791, "predecessors": [{"name": "Instrumente_cu_claviatură", "id": 357331}, {"name": "Instrumente_cu_coarde_lovite", "id": 339139}], "successors": [{"name": "Compoziții_pentru_pian", "id": 1989357}]}
+{"name": "Pian", "id": 321791, "predecessors": [{"name": "Instrumente_cu_claviatură", "id": 357331}, {"name": "Instrumente_cu_coarde", "id": 23067}], "successors": [{"name": "Compoziții_pentru_pian", "id": 1989357}]}

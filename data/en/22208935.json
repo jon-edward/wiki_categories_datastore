@@ -1,1 +1,0 @@
-{"name": "Plant_dyes", "id": 22208935, "predecessors": [{"name": "Natural_dyes", "id": 3242266}, {"name": "Plant_products", "id": 52205448}], "successors": [{"name": "Saffron", "id": 3890502}, {"name": "Indigo_dye_production", "id": 75526479}]}

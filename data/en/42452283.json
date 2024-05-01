@@ -1,1 +1,1 @@
-{"name": "Sororities", "id": 42452283, "predecessors": [{"name": "Women's_organizations", "id": 3834073}, {"name": "Women_and_education", "id": 18891373}, {"name": "Fraternities", "id": 6369847}], "successors": [{"name": "Alpha_Kappa_Alpha_founders", "id": 20935505}, {"name": "Delta_Sigma_Theta_founders", "id": 37368465}]}
+{"name": "Sororities", "id": 42452283, "predecessors": [{"name": "Fraternities_and_sororities", "id": 11393902}, {"name": "Women_and_education", "id": 18891373}], "successors": [{"name": "College_sorority_founders", "id": 42337419}]}

@@ -1,1 +1,1 @@
-{"name": "Luas_Red_Line_stops_in_South_Dublin_(county)", "id": 46960665, "predecessors": [{"name": "Transport_in_County_Dublin", "id": 13694300}, {"name": "Railway_stations_by_type", "id": 72782274}], "successors": []}
+{"name": "Luas_Red_Line_stops_in_South_Dublin_(county)", "id": 46960665, "predecessors": [{"name": "Tram_stops", "id": 51713336}, {"name": "Transport_in_County_Dublin", "id": 13694300}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Bombardiere", "id": 173082, "predecessors": [{"name": "Avioane_de_luptă", "id": 33113}, {"name": "Avioane_după_tip", "id": 110654}, {"name": "Știință_militară", "id": 831572}], "successors": [{"name": "Bombardiere_SUA_1950_-_1959", "id": 389795}]}
+{"name": "Bombardiere", "id": 173082, "predecessors": [{"name": "Avioane_de_luptă", "id": 33113}, {"name": "Avioane", "id": 28760}, {"name": "Știință_militară", "id": 831572}], "successors": []}

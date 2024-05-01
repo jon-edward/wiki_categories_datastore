@@ -1,1 +1,1 @@
-{"name": "COVID-19_vaccination_by_country", "id": 66434134, "predecessors": [{"name": "COVID-19_pandemic_by_country", "id": 63152176}, {"name": "COVID-19_vaccines", "id": 65133612}], "successors": []}
+{"name": "COVID-19_vaccination_by_country", "id": 66434134, "predecessors": [{"name": "COVID-19_pandemic_by_country", "id": 63152176}, {"name": "Health_care_by_country", "id": 50769391}], "successors": []}

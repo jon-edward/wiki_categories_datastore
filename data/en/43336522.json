@@ -1,1 +1,1 @@
-{"name": "Poultry_products", "id": 43336522, "predecessors": [{"name": "Poultry", "id": 757493}, {"name": "Animal_products", "id": 2304680}], "successors": []}
+{"name": "Poultry_products", "id": 43336522, "predecessors": [{"name": "Animal_products", "id": 2304680}], "successors": []}

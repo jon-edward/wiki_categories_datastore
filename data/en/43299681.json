@@ -1,1 +1,1 @@
-{"name": "Spongiologists", "id": 43299681, "predecessors": [{"name": "Marine_zoologists", "id": 34224138}, {"name": "Natural_history", "id": 2054828}, {"name": "Animals_and_humans", "id": 52196069}], "successors": []}
+{"name": "Spongiologists", "id": 43299681, "predecessors": [{"name": "Marine_zoologists", "id": 34224138}, {"name": "Sponge_biology", "id": 52130145}, {"name": "Sponges", "id": 13711564}], "successors": []}

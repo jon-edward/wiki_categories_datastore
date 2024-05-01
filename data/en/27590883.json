@@ -1,1 +1,1 @@
-{"name": "Technology_assessment", "id": 27590883, "predecessors": [{"name": "Futures_techniques", "id": 69098765}, {"name": "Science_and_technology_studies", "id": 3350883}, {"name": "Systems_thinking", "id": 38748483}, {"name": "Technology", "id": 696648}], "successors": []}
+{"name": "Technology_assessment", "id": 27590883, "predecessors": [{"name": "Futures_techniques", "id": 69098765}, {"name": "Technology", "id": 696648}], "successors": [{"name": "Exploratory_engineering", "id": 3379737}, {"name": "Technology_assessment_organisations", "id": 69375659}]}

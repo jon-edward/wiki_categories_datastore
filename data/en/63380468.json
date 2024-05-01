@@ -1,1 +1,1 @@
-{"name": "City_status", "id": 63380468, "predecessors": [{"name": "City", "id": 9467493}, {"name": "Local_government", "id": 5177484}, {"name": "Types_of_administrative_division", "id": 29492692}], "successors": []}
+{"name": "City_status", "id": 63380468, "predecessors": [{"name": "Local_government", "id": 5177484}], "successors": []}

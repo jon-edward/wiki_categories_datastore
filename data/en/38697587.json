@@ -1,1 +1,1 @@
-{"name": "Chemotherapy", "id": 38697587, "predecessors": [{"name": "Cancer_treatments", "id": 694971}], "successors": [{"name": "Antineoplastic_drugs", "id": 22255852}]}
+{"name": "Chemotherapy", "id": 38697587, "predecessors": [{"name": "Cancer_treatments", "id": 694971}], "successors": [{"name": "Antineoplastic_drugs", "id": 22255852}, {"name": "Experimental_cancer_drugs", "id": 32587822}]}

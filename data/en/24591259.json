@@ -1,1 +1,1 @@
-{"name": "Bird_breeding", "id": 24591259, "predecessors": [{"name": "Reproduction_in_animals", "id": 36658670}], "successors": []}
+{"name": "Bird_breeding", "id": 24591259, "predecessors": [{"name": "Bird_behavior", "id": 42624696}], "successors": [{"name": "Seabird_colonies", "id": 6261818}, {"name": "Subterranean_nesting_birds", "id": 11456080}]}

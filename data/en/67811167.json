@@ -1,1 +1,1 @@
-{"name": "2022_meteorology", "id": 67811167, "predecessors": [{"name": "2022_in_science", "id": 21957063}, {"name": "21st_century_in_science", "id": 23559509}, {"name": "2022", "id": 15844725}], "successors": [{"name": "Tropical_cyclones_in_2022", "id": 67811158}]}
+{"name": "2022_meteorology", "id": 67811167, "predecessors": [{"name": "2022_in_science", "id": 21957063}, {"name": "2022_in_the_environment", "id": 67811169}, {"name": "21st_century", "id": 884422}], "successors": [{"name": "Tropical_cyclones_in_2022", "id": 67811158}]}

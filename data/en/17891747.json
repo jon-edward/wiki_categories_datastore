@@ -1,1 +1,1 @@
-{"name": "Greenways", "id": 17891747, "predecessors": [{"name": "Trails", "id": 11007970}, {"name": "Urban_public_parks", "id": 2423981}], "successors": [{"name": "Greenways_in_New_York_City", "id": 57213811}]}
+{"name": "Greenways", "id": 17891747, "predecessors": [{"name": "Trails", "id": 11007970}], "successors": [{"name": "Greenways_in_New_York_City", "id": 57213811}]}

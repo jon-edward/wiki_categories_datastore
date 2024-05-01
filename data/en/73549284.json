@@ -1,1 +1,1 @@
-{"name": "Healthcare_in_Alberta", "id": 73549284, "predecessors": [{"name": "Healthcare_in_Canada", "id": 56480672}, {"name": "Health_in_Canada", "id": 4723025}], "successors": [{"name": "Hospitals_in_Alberta", "id": 6989677}]}
+{"name": "Healthcare_in_Alberta", "id": 73549284, "predecessors": [{"name": "Health_in_Alberta", "id": 35370446}, {"name": "Healthcare_in_Canada", "id": 56480672}], "successors": [{"name": "Hospitals_in_Alberta", "id": 6989677}]}

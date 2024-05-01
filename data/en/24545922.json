@@ -1,1 +1,1 @@
-{"name": "Major_League_Baseball_scouts", "id": 24545922, "predecessors": [{"name": "Baseball_people", "id": 24149961}], "successors": [{"name": "Major_League_Baseball_scouting_directors", "id": 24903603}]}
+{"name": "Major_League_Baseball_scouts", "id": 24545922, "predecessors": [{"name": "Major_League_Baseball", "id": 1034943}], "successors": [{"name": "Major_League_Baseball_scouting_directors", "id": 24903603}]}

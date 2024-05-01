@@ -1,1 +1,1 @@
-{"name": "Falsificare", "id": 906165, "predecessors": [{"name": "Crime", "id": 49459}, {"name": "Farse", "id": 910333}, {"name": "Fraude", "id": 648048}], "successors": [{"name": "Comunicarea_datelor_false", "id": 1158366}]}
+{"name": "Falsificare", "id": 906165, "predecessors": [{"name": "Crime", "id": 49459}, {"name": "Farse", "id": 910333}, {"name": "Fraude", "id": 648048}], "successors": []}

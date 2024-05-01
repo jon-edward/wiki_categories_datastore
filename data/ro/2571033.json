@@ -1,1 +1,1 @@
-{"name": "Opole", "id": 2571033, "predecessors": [{"name": "Orașe_din_voievodatul_Opole", "id": 769871}], "successors": [{"name": "Oameni_din_Opole", "id": 2918418}, {"name": "Orașe_din_voievodatul_Opole", "id": 769871}]}
+{"name": "Opole", "id": 2571033, "predecessors": [{"name": "Opole", "id": 2571033}], "successors": [{"name": "Oameni_din_Opole", "id": 2918418}, {"name": "Opole", "id": 2571033}]}

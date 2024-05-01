@@ -1,1 +1,1 @@
-{"name": "Poduri_feroviare_din_Republica_Moldova", "id": 1950618, "predecessors": [{"name": "Transport_feroviar_după_țară", "id": 876764}, {"name": "Poduri_după_tip", "id": 1781598}, {"name": "Clădiri_și_structuri_din_Republica_Moldova", "id": 1055215}], "successors": []}
+{"name": "Poduri_feroviare_din_Republica_Moldova", "id": 1950618, "predecessors": [{"name": "Transport_feroviar_după_țară", "id": 876764}, {"name": "Transport", "id": 17973}, {"name": "Clădiri_și_structuri", "id": 749318}], "successors": []}

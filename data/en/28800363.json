@@ -1,1 +1,1 @@
-{"name": "Transportation_in_Cortland_County,_New_York", "id": 28800363, "predecessors": [{"name": "Central_New_York", "id": 41610784}], "successors": [{"name": "County_routes_in_Cortland_County,_New_York", "id": 35328423}]}
+{"name": "Transportation_in_Cortland_County,_New_York", "id": 28800363, "predecessors": [{"name": "Cortland_County,_New_York", "id": 946388}], "successors": [{"name": "County_routes_in_Cortland_County,_New_York", "id": 35328423}]}

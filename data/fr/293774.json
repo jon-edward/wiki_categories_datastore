@@ -1,1 +1,0 @@
-{"name": "Maladie_congénitale", "id": 293774, "predecessors": [{"name": "Forme_de_handicap", "id": 2942837}, {"name": "Maladie_en_pédiatrie", "id": 1449006}, {"name": "Maladie", "id": 87795}], "successors": [{"name": "Maladie_génétique_congénitale", "id": 264163}, {"name": "Malformation", "id": 275559}, {"name": "Cardiopathie_congénitale", "id": 883511}]}

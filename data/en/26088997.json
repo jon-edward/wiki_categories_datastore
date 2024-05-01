@@ -1,1 +1,1 @@
-{"name": "Diseases_of_the_ear_and_mastoid_process", "id": 26088997, "predecessors": [{"name": "Otorhinolaryngology", "id": 44532271}, {"name": "Human_diseases_and_disorders", "id": 48701151}], "successors": []}
+{"name": "Diseases_of_the_ear_and_mastoid_process", "id": 26088997, "predecessors": [{"name": "Otology", "id": 7822685}, {"name": "Otorhinolaryngology", "id": 44532271}, {"name": "Human_diseases_and_disorders", "id": 48701151}], "successors": [{"name": "Diseases_of_middle_ear_and_mastoid", "id": 26089028}, {"name": "Diseases_of_inner_ear", "id": 26089056}]}

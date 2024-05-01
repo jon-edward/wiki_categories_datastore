@@ -1,1 +1,1 @@
-{"name": "Medium_tanks_of_Japan", "id": 35709197, "predecessors": [{"name": "Transport_in_Japan", "id": 6394372}], "successors": []}
+{"name": "Medium_tanks_of_Japan", "id": 35709197, "predecessors": [{"name": "Tanks", "id": 786411}, {"name": "Medium_tanks", "id": 786624}], "successors": []}

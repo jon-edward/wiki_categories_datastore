@@ -1,1 +1,1 @@
-{"name": "Boilers_(cookware)", "id": 23168119, "predecessors": [{"name": "Boilers", "id": 3684059}, {"name": "Cooking_appliances", "id": 2235539}, {"name": "Teaware", "id": 3902354}], "successors": []}
+{"name": "Boilers_(cookware)", "id": 23168119, "predecessors": [{"name": "Cooking_appliances", "id": 2235539}, {"name": "Teaware", "id": 3902354}], "successors": []}

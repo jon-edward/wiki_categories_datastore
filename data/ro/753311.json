@@ -1,1 +1,1 @@
-{"name": "Lingvistică_computațională", "id": 753311, "predecessors": [{"name": "Lingvistică_aplicată", "id": 2010456}, {"name": "Informatică", "id": 12197}], "successors": [{"name": "Prelucrarea_limbajului_natural", "id": 2488323}]}
+{"name": "Lingvistică_computațională", "id": 753311, "predecessors": [{"name": "Informatică", "id": 12197}, {"name": "Academii", "id": 23167}], "successors": [{"name": "Prelucrarea_limbajului_natural", "id": 2488323}]}

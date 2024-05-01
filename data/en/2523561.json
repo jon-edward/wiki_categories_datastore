@@ -1,1 +1,1 @@
-{"name": "Scientific_observation", "id": 2523561, "predecessors": [{"name": "Epistemology_of_science", "id": 34379506}, {"name": "Observation", "id": 2523515}, {"name": "Scientific_method", "id": 700292}, {"name": "Data_collection", "id": 2523568}], "successors": [{"name": "Citizen_science", "id": 4091482}]}
+{"name": "Scientific_observation", "id": 2523561, "predecessors": [{"name": "Observation", "id": 2523515}, {"name": "Scientific_method", "id": 700292}], "successors": [{"name": "Citizen_science", "id": 4091482}]}

@@ -1,1 +1,1 @@
-{"name": "Skin_tests", "id": 31361412, "predecessors": [{"name": "Skin", "id": 19812235}], "successors": []}
+{"name": "Skin_tests", "id": 31361412, "predecessors": [{"name": "Medical_tests", "id": 1075994}, {"name": "Skin", "id": 19812235}], "successors": []}

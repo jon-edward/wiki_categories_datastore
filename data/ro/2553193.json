@@ -1,1 +1,1 @@
-{"name": "Soy_Luna", "id": 2553193, "predecessors": [{"name": "Disney_Channel", "id": 546802}, {"name": "Seriale_argentiniene", "id": 2005617}, {"name": "Telenovele_argentiniene", "id": 1929915}], "successors": [{"name": "Albume_Soy_Luna", "id": 2553192}]}
+{"name": "Soy_Luna", "id": 2553193, "predecessors": [{"name": "Disney_Channel", "id": 546802}, {"name": "Telenovele_argentiniene", "id": 1929915}, {"name": "Seriale_de_televiziune", "id": 858962}], "successors": [{"name": "Albume_Soy_Luna", "id": 2553192}]}

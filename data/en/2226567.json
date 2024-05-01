@@ -1,1 +1,1 @@
-{"name": "World_Scrabble_Championships", "id": 2226567, "predecessors": [{"name": "Culture", "id": 694861}], "successors": [{"name": "World_Scrabble_Championship_winners", "id": 6902412}]}
+{"name": "World_Scrabble_Championships", "id": 2226567, "predecessors": [{"name": "Culture", "id": 694861}, {"name": "Scrabble_competitions", "id": 33868998}], "successors": [{"name": "World_Scrabble_Championship_winners", "id": 6902412}]}

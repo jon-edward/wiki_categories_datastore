@@ -1,0 +1,1 @@
+{"name": "Traffic_enforcement_cameras", "id": 5009429, "predecessors": [{"name": "Cameras_by_type", "id": 1120136}, {"name": "Road_safety", "id": 3500284}, {"name": "Street_furniture", "id": 965867}], "successors": [{"name": "Speed_camera_types_used_in_the_United_Kingdom", "id": 4994450}]}

@@ -1,1 +1,1 @@
-{"name": "Hyraxes", "id": 1649218, "predecessors": [{"name": "Cladotheria", "id": 66197309}], "successors": [{"name": "Prehistoric_hyraxes", "id": 17569973}]}
+{"name": "Hyraxes", "id": 1649218, "predecessors": [{"name": "Mammal_orders", "id": 43534992}, {"name": "Mammal_taxonomy", "id": 39031289}], "successors": [{"name": "Prehistoric_hyraxes", "id": 17569973}]}

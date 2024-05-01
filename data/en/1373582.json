@@ -1,1 +1,1 @@
-{"name": "Cyrillization", "id": 1373582, "predecessors": [{"name": "Cyrillic_script", "id": 32759749}, {"name": "Russian_language", "id": 769595}], "successors": []}
+{"name": "Cyrillization", "id": 1373582, "predecessors": [{"name": "Cyrillic_script", "id": 32759749}, {"name": "Russian_language", "id": 769595}, {"name": "Transliteration", "id": 1373535}], "successors": []}

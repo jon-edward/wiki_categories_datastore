@@ -1,1 +1,1 @@
-{"name": "Swiss_pathologists", "id": 38497270, "predecessors": [{"name": "Swiss_medical_researchers", "id": 39571732}, {"name": "Health_in_Europe", "id": 29366955}], "successors": []}
+{"name": "Swiss_pathologists", "id": 38497270, "predecessors": [{"name": "Swiss_medical_researchers", "id": 39571732}, {"name": "Swiss_physicians", "id": 2807948}], "successors": []}

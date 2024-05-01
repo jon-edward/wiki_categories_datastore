@@ -1,1 +1,1 @@
-{"name": "Håndball_i_2002", "id": 1190082, "predecessors": [{"name": "Sport_i_2002", "id": 132517}, {"name": "Håndball", "id": 39887}], "successors": [{"name": "Spillere_i_Håndball-EM_2002_for_menn", "id": 1428171}, {"name": "Spillere_i_Håndball-EM_2002_for_kvinner", "id": 1726195}]}
+{"name": "Håndball_i_2002", "id": 1190082, "predecessors": [{"name": "Håndball", "id": 39887}, {"name": "Historie", "id": 13177}], "successors": [{"name": "Spillere_i_Håndball-EM_2002_for_menn", "id": 1428171}, {"name": "Spillere_i_Håndball-EM_2002_for_kvinner", "id": 1726195}]}

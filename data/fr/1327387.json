@@ -1,1 +1,0 @@
-{"name": "Équipement_routier", "id": 1327387, "predecessors": [{"name": "Infrastructure_routière", "id": 132248}, {"name": "Techniques_et_sciences_appliquées", "id": 85441}, {"name": "Construction", "id": 149634}], "successors": [{"name": "Signalisation_routière", "id": 1412685}, {"name": "Stationnement", "id": 1577561}, {"name": "Radar_routier", "id": 2490667}]}

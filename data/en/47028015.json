@@ -1,1 +1,1 @@
-{"name": "Vehicle_manufacturing_companies_established_in_1910", "id": 47028015, "predecessors": [{"name": "1910", "id": 885595}, {"name": "20th_century", "id": 884457}], "successors": [{"name": "Alfa_Romeo", "id": 1601436}]}
+{"name": "Vehicle_manufacturing_companies_established_in_1910", "id": 47028015, "predecessors": [{"name": "Manufacturing_companies_established_in_1910", "id": 47028009}, {"name": "1910", "id": 885595}, {"name": "20th_century", "id": 884457}], "successors": [{"name": "Alfa_Romeo", "id": 1601436}]}

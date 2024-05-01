@@ -1,1 +1,1 @@
-{"name": "Mine_safety", "id": 13127767, "predecessors": [{"name": "Mining", "id": 843521}, {"name": "Occupational_safety_and_health", "id": 1215289}], "successors": [{"name": "Mining_rescues", "id": 29401491}]}
+{"name": "Mine_safety", "id": 13127767, "predecessors": [{"name": "Occupational_safety_and_health", "id": 1215289}], "successors": []}

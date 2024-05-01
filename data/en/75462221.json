@@ -1,1 +1,1 @@
-{"name": "Small_interfering_RNA", "id": 75462221, "predecessors": [{"name": "Biopharmaceuticals", "id": 21401246}], "successors": []}
+{"name": "Small_interfering_RNA", "id": 75462221, "predecessors": [{"name": "Biopharmaceuticals", "id": 21401246}, {"name": "RNA_interference", "id": 15248195}], "successors": []}

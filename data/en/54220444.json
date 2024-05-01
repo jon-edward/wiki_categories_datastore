@@ -1,1 +1,1 @@
-{"name": "Latin-script_Unicode_blocks", "id": 54220444, "predecessors": [{"name": "Latin_script", "id": 32763338}], "successors": []}
+{"name": "Latin-script_Unicode_blocks", "id": 54220444, "predecessors": [{"name": "Latin_script", "id": 32763338}, {"name": "Unicode_blocks", "id": 27931893}], "successors": []}

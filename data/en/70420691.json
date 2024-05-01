@@ -1,1 +1,1 @@
-{"name": "Diarylketones", "id": 70420691, "predecessors": [{"name": "Aromatic_compounds", "id": 1369194}, {"name": "Ketones", "id": 695885}], "successors": [{"name": "Naphthoylindoles", "id": 26653396}, {"name": "Benzoylindoles", "id": 26713075}, {"name": "Naphthoylpyrroles", "id": 26912980}]}
+{"name": "Diarylketones", "id": 70420691, "predecessors": [{"name": "Ketones", "id": 695885}], "successors": [{"name": "Naphthoylindoles", "id": 26653396}, {"name": "Benzoylindoles", "id": 26713075}, {"name": "Naphthoylpyrroles", "id": 26912980}]}

@@ -1,1 +1,1 @@
-{"name": "Children's_books_set_in_subterranea", "id": 68609024, "predecessors": [{"name": "Subterranean_fiction", "id": 67207403}], "successors": [{"name": "Alice's_Adventures_in_Wonderland", "id": 1056611}]}
+{"name": "Children's_books_set_in_subterranea", "id": 68609024, "predecessors": [{"name": "Subterranean_fiction", "id": 67207403}, {"name": "Children's_books", "id": 897359}], "successors": [{"name": "Alice's_Adventures_in_Wonderland", "id": 1056611}]}

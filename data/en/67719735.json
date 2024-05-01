@@ -1,1 +1,1 @@
-{"name": "Ships_sunk_by_aircraft_during_the_Battle_of_Leyte_Gulf", "id": 67719735, "predecessors": [{"name": "Battle_of_Leyte_Gulf", "id": 2928882}], "successors": []}
+{"name": "Ships_sunk_by_aircraft_during_the_Battle_of_Leyte_Gulf", "id": 67719735, "predecessors": [{"name": "Battle_of_Leyte_Gulf", "id": 2928882}, {"name": "Ships_sunk_by_aircraft", "id": 32005715}], "successors": []}

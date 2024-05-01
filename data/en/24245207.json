@@ -1,0 +1,1 @@
+{"name": "Forensic_evidence", "id": 24245207, "predecessors": [{"name": "Evidence_law", "id": 23681972}, {"name": "Heuristics", "id": 742824}], "successors": [{"name": "Fingerprints", "id": 27953396}, {"name": "Audio_evidence", "id": 73708330}]}

@@ -1,1 +1,1 @@
-{"name": "Spanish_books", "id": 25379961, "predecessors": [{"name": "Spanish_literature", "id": 724379}, {"name": "Culture_of_Spain", "id": 724380}], "successors": []}
+{"name": "Spanish_books", "id": 25379961, "predecessors": [{"name": "Spanish_literature", "id": 724379}, {"name": "Culture_of_Spain", "id": 724380}], "successors": [{"name": "Spanish_autobiographers", "id": 24060602}]}

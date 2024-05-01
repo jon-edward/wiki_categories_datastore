@@ -1,1 +1,1 @@
-{"name": "Suprafețe", "id": 1528376, "predecessors": [{"name": "Figuri_geometrice", "id": 565613}, {"name": "Suprafață", "id": 760276}, {"name": "Varietăți_multidimensionale", "id": 1528379}], "successors": [{"name": "Suprafețe_Riemann", "id": 2599774}, {"name": "Cuadrice", "id": 836183}]}
+{"name": "Suprafețe", "id": 1528376, "predecessors": [{"name": "Figuri_geometrice", "id": 565613}, {"name": "Suprafață", "id": 760276}, {"name": "Geometrie_diferențială", "id": 752553}], "successors": [{"name": "Suprafețe_Riemann", "id": 2599774}, {"name": "Cuadrice", "id": 836183}]}

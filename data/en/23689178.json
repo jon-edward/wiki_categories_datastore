@@ -1,1 +1,1 @@
-{"name": "Parody_superheroes", "id": 23689178, "predecessors": [{"name": "Comedy_franchises", "id": 60705697}, {"name": "Parodies_of_comics", "id": 68266165}, {"name": "Parodies_of_films", "id": 68266136}], "successors": [{"name": "The_Boys_(comics)", "id": 68335373}]}
+{"name": "Parody_superheroes", "id": 23689178, "predecessors": [{"name": "Parodies_of_comics", "id": 68266165}], "successors": [{"name": "Marvel_Comics_parodies", "id": 52771122}, {"name": "The_Boys_(comics)", "id": 68335373}]}

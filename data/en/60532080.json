@@ -1,1 +1,1 @@
-{"name": "Sitting_asanas", "id": 60532080, "predecessors": [{"name": "Human_positions", "id": 34802160}], "successors": []}
+{"name": "Sitting_asanas", "id": 60532080, "predecessors": [{"name": "Hatha_yoga", "id": 31849924}, {"name": "Human_positions", "id": 34802160}], "successors": []}

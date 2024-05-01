@@ -1,1 +1,1 @@
-{"name": "Nursing_school_deans", "id": 41483353, "predecessors": [{"name": "Deans_(academic)", "id": 22297670}, {"name": "Nursing_educators", "id": 41484084}, {"name": "Health", "id": 751381}, {"name": "Educational_administrators", "id": 45238710}, {"name": "Health_education", "id": 6123888}], "successors": []}
+{"name": "Nursing_school_deans", "id": 41483353, "predecessors": [{"name": "Nursing_educators", "id": 41484084}, {"name": "Health", "id": 751381}, {"name": "Health_education", "id": 6123888}], "successors": []}

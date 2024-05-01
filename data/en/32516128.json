@@ -1,1 +1,1 @@
-{"name": "Substance_dependence", "id": 32516128, "predecessors": [{"name": "Social_issues", "id": 3659008}], "successors": [{"name": "Drug_rehabilitation", "id": 870146}, {"name": "Withdrawal_syndromes", "id": 31478373}]}
+{"name": "Substance_dependence", "id": 32516128, "predecessors": [{"name": "Substance-related_disorders", "id": 1391604}], "successors": [{"name": "Drug_rehabilitation", "id": 870146}, {"name": "Withdrawal_syndromes", "id": 31478373}]}

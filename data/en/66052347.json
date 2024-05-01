@@ -1,1 +1,1 @@
-{"name": "Bordeaux_tramway_stops", "id": 66052347, "predecessors": [{"name": "Buildings_and_structures_in_Bordeaux", "id": 12398682}], "successors": []}
+{"name": "Bordeaux_tramway_stops", "id": 66052347, "predecessors": [{"name": "Buildings_and_structures_in_Bordeaux", "id": 12398682}, {"name": "Tram_stops", "id": 51713336}], "successors": []}

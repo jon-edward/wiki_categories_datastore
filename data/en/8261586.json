@@ -1,1 +1,1 @@
-{"name": "Tea_companies", "id": 8261586, "predecessors": [{"name": "Tea_production", "id": 29390889}, {"name": "Food_and_drink", "id": 694860}, {"name": "Agriculture_by_type", "id": 31038144}, {"name": "Tea", "id": 1000315}], "successors": [{"name": "Tea_brands", "id": 2562741}]}
+{"name": "Tea_companies", "id": 8261586, "predecessors": [{"name": "Tea_production", "id": 29390889}, {"name": "Drinks", "id": 1000234}, {"name": "Agriculture_by_type", "id": 31038144}, {"name": "Tea", "id": 1000315}], "successors": [{"name": "Tea_brands", "id": 2562741}]}

@@ -1,1 +1,1 @@
-{"name": "Orbital_perturbations", "id": 36239942, "predecessors": [{"name": "Orbits", "id": 5505407}, {"name": "Perturbation_theory", "id": 4948907}], "successors": [{"name": "Kozai_mechanism", "id": 75855534}]}
+{"name": "Orbital_perturbations", "id": 36239942, "predecessors": [{"name": "Orbits", "id": 5505407}], "successors": [{"name": "Kozai_mechanism", "id": 75855534}]}

@@ -1,1 +1,1 @@
-{"name": "Online-only_journals", "id": 45110260, "predecessors": [{"name": "Electronic_publishing", "id": 13690850}, {"name": "Academic_publishing", "id": 2239162}], "successors": []}
+{"name": "Online-only_journals", "id": 45110260, "predecessors": [{"name": "Electronic_publishing", "id": 13690850}, {"name": "Academic_publishing", "id": 2239162}], "successors": [{"name": "Continuous_journals", "id": 45046134}]}

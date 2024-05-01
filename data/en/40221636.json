@@ -1,1 +1,1 @@
-{"name": "Roads_in_Seoul", "id": 40221636, "predecessors": [{"name": "Transport_in_Seoul", "id": 3373992}, {"name": "Transport_in_South_Korea", "id": 29894795}, {"name": "Road_transport", "id": 700964}], "successors": [{"name": "Streets_in_Seoul", "id": 10611803}]}
+{"name": "Roads_in_Seoul", "id": 40221636, "predecessors": [{"name": "Roads_in_South_Korea", "id": 2668235}, {"name": "Transport_in_Seoul", "id": 3373992}, {"name": "Road_transport", "id": 700964}], "successors": [{"name": "Streets_in_Seoul", "id": 10611803}]}

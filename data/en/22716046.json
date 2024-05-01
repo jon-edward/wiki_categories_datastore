@@ -1,1 +1,1 @@
-{"name": "Wind_farms_in_Sweden", "id": 22716046, "predecessors": [{"name": "Renewable_energy_commercialization", "id": 16165615}, {"name": "Electric_power", "id": 959286}, {"name": "Electric_power_infrastructure_in_Sweden", "id": 37335806}], "successors": []}
+{"name": "Wind_farms_in_Sweden", "id": 22716046, "predecessors": [{"name": "Wind_power", "id": 7689273}, {"name": "Electric_power_in_the_European_Union", "id": 29824376}, {"name": "Electric_power_infrastructure_in_Sweden", "id": 37335806}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "United_States_Coast_Guard_reservists", "id": 57127088, "predecessors": [{"name": "Reserve_forces", "id": 17722035}, {"name": "United_States_Coast_Guard", "id": 767677}, {"name": "Military_personnel", "id": 6660319}], "successors": []}
+{"name": "United_States_Coast_Guard_reservists", "id": 57127088, "predecessors": [{"name": "American_military_personnel", "id": 6676519}, {"name": "United_States_Coast_Guard", "id": 767677}], "successors": []}

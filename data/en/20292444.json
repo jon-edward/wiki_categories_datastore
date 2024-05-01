@@ -1,1 +1,1 @@
-{"name": "Educational_institutions_in_Prague", "id": 20292444, "predecessors": [{"name": "Educational_organizations_based_in_Europe", "id": 45539865}, {"name": "Public_services", "id": 5678592}], "successors": [{"name": "Schools_in_Prague", "id": 45185431}]}
+{"name": "Educational_institutions_in_Prague", "id": 20292444, "predecessors": [{"name": "Education_in_the_Czech_Republic", "id": 2851227}, {"name": "Educational_organizations_based_in_Europe", "id": 45539865}], "successors": [{"name": "Schools_in_Prague", "id": 45185431}]}

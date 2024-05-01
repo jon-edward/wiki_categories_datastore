@@ -1,1 +1,1 @@
-{"name": "Computer_display_standards", "id": 6608152, "predecessors": [{"name": "Computer_hardware_standards", "id": 30857280}, {"name": "Graphics_cards", "id": 4229703}], "successors": [{"name": "VESA", "id": 3502994}, {"name": "Color_depths", "id": 7347937}]}
+{"name": "Computer_display_standards", "id": 6608152, "predecessors": [{"name": "Graphics_cards", "id": 4229703}], "successors": [{"name": "VESA", "id": 3502994}]}

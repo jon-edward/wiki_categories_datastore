@@ -1,1 +1,1 @@
-{"name": "Recreational_diving", "id": 35661685, "predecessors": [{"name": "Outdoor_recreation", "id": 1451342}, {"name": "Water_sports", "id": 698279}], "successors": []}
+{"name": "Recreational_diving", "id": 35661685, "predecessors": [{"name": "Outdoor_recreation", "id": 1451342}, {"name": "Water_sports", "id": 698279}, {"name": "Underwater_diving", "id": 13972292}], "successors": [{"name": "Personal_submarines", "id": 26160296}, {"name": "Pioneering_technical_divers", "id": 35668024}]}

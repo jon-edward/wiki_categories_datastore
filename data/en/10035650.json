@@ -1,1 +1,1 @@
-{"name": "Travel_television", "id": 10035650, "predecessors": [{"name": "Television_genres", "id": 1259802}, {"name": "Travel_technology", "id": 12257775}, {"name": "Travelogues", "id": 18133759}], "successors": [{"name": "Travel_television_series", "id": 3415197}]}
+{"name": "Travel_television", "id": 10035650, "predecessors": [{"name": "Travel_technology", "id": 12257775}, {"name": "Travelogues", "id": 18133759}], "successors": [{"name": "Travel_television_series", "id": 3415197}]}

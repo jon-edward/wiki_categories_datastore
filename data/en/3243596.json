@@ -1,1 +1,0 @@
-{"name": "Optical_materials", "id": 3243596, "predecessors": [{"name": "Materials", "id": 722279}, {"name": "Optics", "id": 692743}, {"name": "Transparent_materials", "id": 15618559}], "successors": [{"name": "Glass", "id": 1253297}, {"name": "Laser_gain_media", "id": 13026222}, {"name": "Metamaterials", "id": 23838016}]}

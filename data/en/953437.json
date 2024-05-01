@@ -1,1 +1,1 @@
-{"name": "Irregular_galaxies", "id": 953437, "predecessors": [{"name": "Galaxies", "id": 720975}], "successors": []}
+{"name": "Irregular_galaxies", "id": 953437, "predecessors": [{"name": "Galaxies", "id": 720975}], "successors": [{"name": "Dwarf_irregular_galaxies", "id": 2337770}, {"name": "Barred_irregular_galaxies", "id": 4378091}]}

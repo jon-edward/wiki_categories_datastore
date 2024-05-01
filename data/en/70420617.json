@@ -1,1 +1,1 @@
-{"name": "Deaths_by_person_in_Los_Angeles", "id": 70420617, "predecessors": [{"name": "Deaths_by_person_in_California", "id": 70397333}, {"name": "Death_in_California", "id": 27575569}], "successors": [{"name": "Assassination_of_Robert_F._Kennedy", "id": 33857394}]}
+{"name": "Deaths_by_person_in_Los_Angeles", "id": 70420617, "predecessors": [{"name": "Deaths_by_person_in_California", "id": 70397333}, {"name": "Los_Angeles", "id": 1732034}], "successors": [{"name": "Assassination_of_Robert_F._Kennedy", "id": 33857394}]}

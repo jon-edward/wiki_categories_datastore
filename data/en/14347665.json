@@ -1,1 +1,1 @@
-{"name": "Microfinance_organizations", "id": 14347665, "predecessors": [{"name": "Economic_development_organizations", "id": 42591094}, {"name": "Financial_services_organizations", "id": 54304321}, {"name": "Microfinance", "id": 3467160}], "successors": []}
+{"name": "Microfinance_organizations", "id": 14347665, "predecessors": [{"name": "Financial_services_organizations", "id": 54304321}, {"name": "Microfinance", "id": 3467160}], "successors": [{"name": "Credit_unions", "id": 1020482}]}

@@ -1,1 +1,1 @@
-{"name": "SNCF_locomotives", "id": 2322665, "predecessors": [{"name": "SNCF", "id": 2323663}], "successors": []}
+{"name": "SNCF_locomotives", "id": 2322665, "predecessors": [{"name": "Rail_transport_in_France", "id": 2837463}, {"name": "SNCF", "id": 2323663}], "successors": [{"name": "Chemins_de_fer_de_l'État_locomotives", "id": 25382769}, {"name": "Chemins_de_Fer_du_Nord_locomotives", "id": 38669582}, {"name": "Compagnie_du_chemin_de_fer_de_Paris_à_Orléans_locomotives", "id": 40762381}, {"name": "Chemins_de_fer_de_l'Est_locomotives", "id": 54411803}]}

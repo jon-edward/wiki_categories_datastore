@@ -1,1 +1,1 @@
-{"name": "Cash_coins", "id": 62070951, "predecessors": [{"name": "Coins", "id": 904510}], "successors": [{"name": "Cash_coins_by_inscription", "id": 62070940}]}
+{"name": "Cash_coins", "id": 62070951, "predecessors": [{"name": "Coins", "id": 904510}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Health-related_fundraisers", "id": 32044728, "predecessors": [{"name": "Health_charities", "id": 1490887}, {"name": "Medical_and_health_organizations", "id": 14658985}], "successors": [{"name": "Cancer_fundraisers", "id": 23763927}]}
+{"name": "Health-related_fundraisers", "id": 32044728, "predecessors": [{"name": "Charity_fundraisers", "id": 5743331}, {"name": "Health_charities", "id": 1490887}, {"name": "Medical_and_health_organizations", "id": 14658985}], "successors": [{"name": "Cancer_fundraisers", "id": 23763927}]}

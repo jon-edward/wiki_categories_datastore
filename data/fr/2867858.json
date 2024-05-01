@@ -1,1 +1,0 @@
-{"name": "Équipement_policier", "id": 2867858, "predecessors": [{"name": "Police", "id": 89674}], "successors": [{"name": "Radar_routier", "id": 2490667}, {"name": "Système_informatique_destiné_aux_enquêtes", "id": 2922800}, {"name": "Arme_non_létale", "id": 4048975}]}

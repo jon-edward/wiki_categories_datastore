@@ -1,1 +1,1 @@
-{"name": "Channel_4_documentaries", "id": 41497447, "predecessors": [{"name": "Channel_4_original_programming", "id": 807199}], "successors": [{"name": "Channel_4_documentary_series", "id": 62557769}]}
+{"name": "Channel_4_documentaries", "id": 41497447, "predecessors": [{"name": "Channel_4_original_programming", "id": 807199}, {"name": "Film_genres", "id": 3008852}], "successors": [{"name": "Channel_4_documentary_series", "id": 62557769}]}

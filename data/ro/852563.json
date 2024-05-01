@@ -1,1 +1,1 @@
-{"name": "Generatoare_electrice", "id": 852563, "predecessors": [{"name": "Mașini_electrice", "id": 852518}, {"name": "Transductori", "id": 930070}], "successors": []}
+{"name": "Generatoare_electrice", "id": 852563, "predecessors": [{"name": "Mașini_electrice", "id": 852518}, {"name": "Conversie_de_energie", "id": 127370}], "successors": []}

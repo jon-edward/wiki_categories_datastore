@@ -1,1 +1,1 @@
-{"name": "Food_and_cooking_YouTubers", "id": 63546697, "predecessors": [{"name": "People_in_food_and_agriculture_occupations", "id": 1223913}, {"name": "Cooking_web_series", "id": 37658890}], "successors": []}
+{"name": "Food_and_cooking_YouTubers", "id": 63546697, "predecessors": [{"name": "Food_and_cooking_YouTube_channels", "id": 63545820}, {"name": "People_in_food_and_agriculture_occupations", "id": 1223913}], "successors": []}

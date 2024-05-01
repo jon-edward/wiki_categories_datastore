@@ -1,1 +1,1 @@
-{"name": "Laundry_equipment", "id": 57468088, "predecessors": [{"name": "Equipment", "id": 3228046}, {"name": "Laundry", "id": 4474688}], "successors": [{"name": "Laundry_washing_equipment", "id": 57468379}, {"name": "Laundry_drying_equipment", "id": 57468386}]}
+{"name": "Laundry_equipment", "id": 57468088, "predecessors": [{"name": "Laundry", "id": 4474688}], "successors": [{"name": "Laundry_washing_equipment", "id": 57468379}, {"name": "Laundry_drying_equipment", "id": 57468386}]}

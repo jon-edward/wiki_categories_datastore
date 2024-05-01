@@ -1,1 +1,1 @@
-{"name": "Paintings_in_the_Courtauld_Gallery", "id": 64861181, "predecessors": [{"name": "Art_museums_and_galleries_in_London", "id": 2742259}, {"name": "Art_collections", "id": 44686494}], "successors": []}
+{"name": "Paintings_in_the_Courtauld_Gallery", "id": 64861181, "predecessors": [{"name": "Paintings_in_London", "id": 49072908}, {"name": "Art_museum_collections", "id": 48819426}, {"name": "Art_museums_and_galleries_in_London", "id": 2742259}], "successors": []}

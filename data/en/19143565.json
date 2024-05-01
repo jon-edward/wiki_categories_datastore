@@ -1,1 +1,1 @@
-{"name": "Deaths_by_firearm_in_Michigan", "id": 19143565, "predecessors": [{"name": "Michigan_law", "id": 8927624}, {"name": "Midwestern_United_States", "id": 16915097}], "successors": [{"name": "Suicides_by_firearm_in_Michigan", "id": 22402966}]}
+{"name": "Deaths_by_firearm_in_Michigan", "id": 19143565, "predecessors": [{"name": "Michigan_law", "id": 8927624}, {"name": "Midwestern_United_States", "id": 16915097}, {"name": "Deaths_by_firearm", "id": 5202201}], "successors": [{"name": "Suicides_by_firearm_in_Michigan", "id": 22402966}]}

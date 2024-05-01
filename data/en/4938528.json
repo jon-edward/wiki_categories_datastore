@@ -1,1 +1,1 @@
-{"name": "Convertibles", "id": 4938528, "predecessors": [{"name": "Car_body_styles", "id": 750616}], "successors": [{"name": "Roadsters", "id": 5037309}]}
+{"name": "Convertibles", "id": 4938528, "predecessors": [{"name": "Car_body_styles", "id": 750616}], "successors": [{"name": "Roadsters", "id": 5037309}, {"name": "Hardtop_convertibles", "id": 11240593}]}

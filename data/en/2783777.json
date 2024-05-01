@@ -1,1 +1,1 @@
-{"name": "BDSM_equipment", "id": 2783777, "predecessors": [{"name": "Instruments_of_torture", "id": 24069090}, {"name": "Sex_toys", "id": 803992}], "successors": [{"name": "Physical_restraint", "id": 776898}, {"name": "Fetish_clothing", "id": 1068880}]}
+{"name": "BDSM_equipment", "id": 2783777, "predecessors": [{"name": "BDSM", "id": 692161}, {"name": "Instruments_of_torture", "id": 24069090}, {"name": "Sex_toys", "id": 803992}], "successors": [{"name": "Physical_restraint", "id": 776898}, {"name": "Fetish_clothing", "id": 1068880}]}

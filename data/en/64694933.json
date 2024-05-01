@@ -1,1 +1,1 @@
-{"name": "Japanese_submarine_accidents", "id": 64694933, "predecessors": [{"name": "Maritime_incidents_in_Japan", "id": 9155462}, {"name": "Accidents", "id": 4523546}, {"name": "Naval_ships_of_Japan", "id": 3088950}], "successors": []}
+{"name": "Japanese_submarine_accidents", "id": 64694933, "predecessors": [{"name": "Maritime_incidents_in_Japan", "id": 9155462}, {"name": "Submarine_accidents", "id": 1577586}, {"name": "Naval_ships_of_Japan", "id": 3088950}], "successors": []}

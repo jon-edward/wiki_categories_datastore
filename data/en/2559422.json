@@ -1,1 +1,1 @@
-{"name": "Hospitals_in_Germany", "id": 2559422, "predecessors": [{"name": "Health_in_Europe", "id": 29366955}], "successors": [{"name": "Psychiatric_hospitals_in_Germany", "id": 32037131}, {"name": "Teaching_hospitals_in_Germany", "id": 43162197}]}
+{"name": "Hospitals_in_Germany", "id": 2559422, "predecessors": [{"name": "Health_care_by_country", "id": 50769391}], "successors": [{"name": "Psychiatric_hospitals_in_Germany", "id": 32037131}, {"name": "Teaching_hospitals_in_Germany", "id": 43162197}]}

@@ -1,1 +1,1 @@
-{"name": "Computational_number_theory", "id": 1183044, "predecessors": [{"name": "Algorithms", "id": 691136}, {"name": "Computational_mathematics", "id": 43450101}, {"name": "Number_theory", "id": 693745}], "successors": [{"name": "Computer_arithmetic_algorithms", "id": 38133621}]}
+{"name": "Computational_number_theory", "id": 1183044, "predecessors": [{"name": "Algorithms", "id": 691136}], "successors": [{"name": "Computer_arithmetic_algorithms", "id": 38133621}]}

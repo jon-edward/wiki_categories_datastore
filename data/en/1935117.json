@@ -1,1 +1,1 @@
-{"name": "C_locomotives", "id": 1935117, "predecessors": [{"name": "Commonwealth_classification", "id": 54296150}, {"name": "UIC_classification", "id": 54295476}, {"name": "Locomotive_classification_systems", "id": 18967914}], "successors": []}
+{"name": "C_locomotives", "id": 1935117, "predecessors": [{"name": "Commonwealth_classification", "id": 54296150}, {"name": "UIC_classification", "id": 54295476}, {"name": "Locomotive_classification_systems", "id": 18967914}], "successors": [{"name": "C_n2_locomotives", "id": 58001565}, {"name": "C_n2t_locomotives", "id": 58004499}]}

@@ -1,1 +1,1 @@
-{"name": "Magnetism", "id": 184253, "predecessors": [{"name": "Electromagnetism", "id": 40645}], "successors": [{"name": "Materiale_feromagnetice", "id": 855073}, {"name": "Dispozitive_magnetice", "id": 937693}, {"name": "Anomalii_magnetice", "id": 956001}, {"name": "Geomagnetism", "id": 970677}, {"name": "Magnetosferă", "id": 3078503}]}
+{"name": "Magnetism", "id": 184253, "predecessors": [{"name": "Electromagnetism", "id": 40645}], "successors": [{"name": "Dispozitive_magnetice", "id": 937693}, {"name": "Geomagnetism", "id": 970677}, {"name": "Fier", "id": 854948}]}

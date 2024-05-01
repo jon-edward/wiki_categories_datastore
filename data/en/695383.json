@@ -1,1 +1,1 @@
-{"name": "Tetracycline_antibiotics", "id": 695383, "predecessors": [{"name": "Polyketide_antibiotics", "id": 1590613}, {"name": "Teratogens", "id": 733800}, {"name": "Tetracyclic_compounds", "id": 52796609}, {"name": "Aromatic_compounds", "id": 1369194}], "successors": []}
+{"name": "Tetracycline_antibiotics", "id": 695383, "predecessors": [{"name": "Acne_treatments", "id": 22247626}, {"name": "Teratogens", "id": 733800}, {"name": "Protease_inhibitors", "id": 15050276}], "successors": []}

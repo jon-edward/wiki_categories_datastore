@@ -1,1 +1,1 @@
-{"name": "Oil_palm", "id": 27750931, "predecessors": [{"name": "Edible_palms", "id": 41817383}, {"name": "Energy_crops", "id": 4090899}], "successors": [{"name": "Palm_oil", "id": 39767889}]}
+{"name": "Oil_palm", "id": 27750931, "predecessors": [{"name": "Cocoseae", "id": 61256018}, {"name": "Edible_palms", "id": 41817383}, {"name": "Energy_crops", "id": 4090899}], "successors": [{"name": "Palm_oil", "id": 39767889}, {"name": "Pests_of_oil_palm", "id": 66778960}]}

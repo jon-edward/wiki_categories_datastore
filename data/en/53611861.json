@@ -1,1 +1,1 @@
-{"name": "Syndromes_affecting_blood", "id": 53611861, "predecessors": [{"name": "Blood_disorders", "id": 2856069}, {"name": "Syndromes", "id": 4678438}], "successors": []}
+{"name": "Syndromes_affecting_blood", "id": 53611861, "predecessors": [{"name": "Blood_disorders", "id": 2856069}, {"name": "Human_diseases_and_disorders", "id": 48701151}], "successors": [{"name": "Myeloid_neoplasia", "id": 32540672}]}

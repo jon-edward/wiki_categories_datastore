@@ -1,1 +1,1 @@
-{"name": "Cosmological_simulation", "id": 44363104, "predecessors": [{"name": "Computational_physics", "id": 792595}, {"name": "Physical_cosmology", "id": 5114206}, {"name": "Simulation", "id": 7744777}], "successors": []}
+{"name": "Cosmological_simulation", "id": 44363104, "predecessors": [{"name": "Computational_physics", "id": 792595}, {"name": "Physical_cosmology", "id": 5114206}], "successors": []}

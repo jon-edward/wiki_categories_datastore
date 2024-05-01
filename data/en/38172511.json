@@ -1,1 +1,1 @@
-{"name": "Alweg_people_movers", "id": 38172511, "predecessors": [{"name": "Monorails", "id": 1699880}, {"name": "Automated_guideway_transit", "id": 28009203}, {"name": "Bombardier_Transportation_rail_vehicles", "id": 40762078}], "successors": []}
+{"name": "Alweg_people_movers", "id": 38172511, "predecessors": [{"name": "Monorails", "id": 1699880}, {"name": "People_movers", "id": 18540396}, {"name": "Bombardier_Transportation_rail_vehicles", "id": 40762078}], "successors": []}

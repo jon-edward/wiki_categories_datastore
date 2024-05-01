@@ -1,1 +1,1 @@
-{"name": "Spacecraft_using_halo_orbits", "id": 46508913, "predecessors": [{"name": "Spacecraft", "id": 723329}, {"name": "Lagrangian_mechanics", "id": 1856384}], "successors": []}
+{"name": "Spacecraft_using_halo_orbits", "id": 46508913, "predecessors": [{"name": "Spacecraft", "id": 723329}, {"name": "Orbiters_(space_probe)", "id": 54293433}], "successors": []}

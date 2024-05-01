@@ -1,1 +1,1 @@
-{"name": "USAC_Championship_Car", "id": 22669413, "predecessors": [{"name": "Auto_racing_series_in_the_United_States", "id": 22253843}, {"name": "Formula_racing_series", "id": 14690937}, {"name": "United_States_Auto_Club", "id": 68132685}], "successors": []}
+{"name": "USAC_Championship_Car", "id": 22669413, "predecessors": [{"name": "Auto_racing_series_in_the_United_States", "id": 22253843}, {"name": "Formula_racing", "id": 3460564}, {"name": "Formula_racing_series", "id": 14690937}, {"name": "United_States_Auto_Club", "id": 68132685}], "successors": []}

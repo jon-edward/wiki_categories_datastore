@@ -1,1 +1,1 @@
-{"name": "Shipbuilding_companies_of_Turkey", "id": 13430085, "predecessors": [{"name": "Companies_of_Turkey", "id": 2552327}, {"name": "West_Asia", "id": 23911979}], "successors": [{"name": "Shipyards_of_Turkey", "id": 23912583}]}
+{"name": "Shipbuilding_companies_of_Turkey", "id": 13430085, "predecessors": [{"name": "Manufacturing_companies_of_Turkey", "id": 5687332}, {"name": "Companies_of_Turkey", "id": 2552327}, {"name": "Environment_of_Turkey", "id": 6582193}], "successors": [{"name": "Shipyards_of_Turkey", "id": 23912583}]}

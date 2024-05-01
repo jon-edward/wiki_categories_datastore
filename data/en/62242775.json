@@ -1,1 +1,1 @@
-{"name": "Refugees_in_Uganda", "id": 62242775, "predecessors": [{"name": "Refugees", "id": 1205466}], "successors": [{"name": "Refugee_camps_in_Uganda", "id": 44608635}]}
+{"name": "Refugees_in_Uganda", "id": 62242775, "predecessors": [{"name": "Refugees", "id": 1205466}, {"name": "Countries_in_Africa", "id": 37690776}], "successors": [{"name": "Refugee_camps_in_Uganda", "id": 44608635}]}

@@ -1,1 +1,1 @@
-{"name": "Alternative_investment_management_companies", "id": 8101576, "predecessors": [{"name": "Investment_management_companies", "id": 4826298}], "successors": [{"name": "Private_equity_firms", "id": 1020169}]}
+{"name": "Alternative_investment_management_companies", "id": 8101576, "predecessors": [{"name": "Investment_management_companies", "id": 4826298}], "successors": [{"name": "Private_equity_firms", "id": 1020169}, {"name": "Venture_capital_firms", "id": 1667048}, {"name": "Mezzanine_capital_investment_firms", "id": 34041902}]}

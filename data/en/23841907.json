@@ -1,1 +1,1 @@
-{"name": "Brazing_and_soldering", "id": 23841907, "predecessors": [{"name": "Plumbing", "id": 765224}], "successors": [{"name": "Soldering", "id": 53931202}]}
+{"name": "Brazing_and_soldering", "id": 23841907, "predecessors": [{"name": "Joining", "id": 8737559}, {"name": "Plumbing", "id": 765224}], "successors": [{"name": "Soldering", "id": 53931202}]}

@@ -1,1 +1,1 @@
-{"name": "Spacewalkers", "id": 68334723, "predecessors": [{"name": "Extravehicular_activity", "id": 49754001}, {"name": "Vehicles", "id": 694929}], "successors": []}
+{"name": "Spacewalkers", "id": 68334723, "predecessors": [{"name": "Extravehicular_activity", "id": 49754001}, {"name": "Astronautics", "id": 28347112}], "successors": []}

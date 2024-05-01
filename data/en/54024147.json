@@ -1,1 +1,1 @@
-{"name": "Environment_of_West_Bengal", "id": 54024147, "predecessors": [{"name": "West_Bengal", "id": 1112714}, {"name": "Environment_of_India", "id": 5393623}], "successors": [{"name": "Rivers_of_West_Bengal", "id": 11526261}, {"name": "Wildlife_sanctuaries_in_West_Bengal", "id": 22233906}, {"name": "Sundarbans", "id": 45473667}]}
+{"name": "Environment_of_West_Bengal", "id": 54024147, "predecessors": [{"name": "West_Bengal", "id": 1112714}], "successors": [{"name": "Rivers_of_West_Bengal", "id": 11526261}, {"name": "Protected_areas_of_West_Bengal", "id": 13459341}]}

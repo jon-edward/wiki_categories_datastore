@@ -1,1 +1,1 @@
-{"name": "Mixed-power_aircraft", "id": 813406, "predecessors": [{"name": "Aviation", "id": 735378}], "successors": [{"name": "Aircraft_with_auxiliary_rocket_engines", "id": 33236221}]}
+{"name": "Mixed-power_aircraft", "id": 813406, "predecessors": [{"name": "Aviation", "id": 735378}], "successors": [{"name": "Aircraft_with_auxiliary_jet_engines", "id": 30749627}, {"name": "Aircraft_with_auxiliary_rocket_engines", "id": 33236221}]}

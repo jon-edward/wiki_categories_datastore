@@ -1,1 +1,1 @@
-{"name": "Yale_School_of_Medicine_faculty", "id": 11376950, "predecessors": [{"name": "Yale_University_faculty", "id": 1908109}, {"name": "Health_care_occupations", "id": 1006080}, {"name": "Ivy_League", "id": 708516}], "successors": []}
+{"name": "Yale_School_of_Medicine_faculty", "id": 11376950, "predecessors": [{"name": "Yale_School_of_Medicine", "id": 7428895}, {"name": "Yale_University_faculty", "id": 1908109}, {"name": "Health_care_occupations", "id": 1006080}], "successors": []}

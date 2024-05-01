@@ -1,1 +1,1 @@
-{"name": "Software_bugs", "id": 34247609, "predecessors": [{"name": "Software_anomalies", "id": 8586142}], "successors": [{"name": "Bug_and_issue_tracking_software", "id": 8263775}]}
+{"name": "Software_bugs", "id": 34247609, "predecessors": [{"name": "Debugging", "id": 3293605}, {"name": "Software_anomalies", "id": 8586142}], "successors": [{"name": "Bug_and_issue_tracking_software", "id": 8263775}]}

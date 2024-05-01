@@ -1,1 +1,1 @@
-{"name": "Disbarred_lawyers", "id": 21487734, "predecessors": [{"name": "Lawyers", "id": 694063}, {"name": "Legal_ethics", "id": 692704}], "successors": [{"name": "Disbarred_American_lawyers", "id": 56113238}]}
+{"name": "Disbarred_lawyers", "id": 21487734, "predecessors": [{"name": "Lawyers", "id": 694063}, {"name": "Punishments", "id": 938374}], "successors": [{"name": "Disbarred_American_lawyers", "id": 56113238}]}

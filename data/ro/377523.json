@@ -1,1 +1,1 @@
-{"name": "Scriitori_guineeni", "id": 377523, "predecessors": [{"name": "Guineeni", "id": 825699}, {"name": "Scriitori", "id": 16833}], "successors": [{"name": "Romancieri_din_Guineea", "id": 377525}]}
+{"name": "Scriitori_guineeni", "id": 377523, "predecessors": [{"name": "Scriitori", "id": 16833}, {"name": "Guineea", "id": 18085}], "successors": []}

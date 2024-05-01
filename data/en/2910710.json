@@ -1,1 +1,1 @@
-{"name": "Parts_of_a_theatre", "id": 2910710, "predecessors": [{"name": "Technology_systems", "id": 10958482}, {"name": "Performing_arts", "id": 991222}], "successors": [{"name": "Fly_system", "id": 15463219}, {"name": "Auditoriums", "id": 40104020}]}
+{"name": "Parts_of_a_theatre", "id": 2910710, "predecessors": [{"name": "Theatres", "id": 938321}], "successors": [{"name": "Fly_system", "id": 15463219}, {"name": "Auditoriums", "id": 40104020}]}

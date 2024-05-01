@@ -1,1 +1,1 @@
-{"name": "Învățare", "id": 855206, "predecessors": [{"name": "Cogniție", "id": 749373}], "successors": [{"name": "Cercetare", "id": 176748}, {"name": "Gândire_critică", "id": 968679}, {"name": "Abilități", "id": 1659306}, {"name": "Metode_de_învățare", "id": 1835182}, {"name": "Învățarea_limbilor", "id": 2506705}]}
+{"name": "Învățare", "id": 855206, "predecessors": [{"name": "Cogniție", "id": 749373}], "successors": [{"name": "Cercetare", "id": 176748}, {"name": "Abilități", "id": 1659306}, {"name": "Metode_de_învățare", "id": 1835182}]}

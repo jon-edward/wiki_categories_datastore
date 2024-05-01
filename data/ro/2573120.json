@@ -1,1 +1,1 @@
-{"name": "Poliedre_Kepler–Poinsot", "id": 2573120, "predecessors": [{"name": "Poliedre_neconvexe", "id": 2573121}, {"name": "Poliedre_regulate", "id": 1968396}, {"name": "Poliedre_stelate", "id": 2573287}], "successors": []}
+{"name": "Poliedre_Kepler–Poinsot", "id": 2573120, "predecessors": [{"name": "Poliedre_stelate", "id": 2573287}, {"name": "Duale_ale_poliedrelor_uniforme", "id": 3079404}, {"name": "Poliedre", "id": 290102}], "successors": []}

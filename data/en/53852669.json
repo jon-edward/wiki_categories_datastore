@@ -1,1 +1,1 @@
-{"name": "Species_endangered_by_deforestation", "id": 53852669, "predecessors": [{"name": "Species_endangered_by_habitat_loss", "id": 53844590}, {"name": "Species_endangered_by_logging", "id": 53844767}, {"name": "Endangered_species", "id": 759296}], "successors": [{"name": "Species_endangered_by_logging", "id": 53844767}]}
+{"name": "Species_endangered_by_deforestation", "id": 53852669, "predecessors": [{"name": "Species_endangered_by_logging", "id": 53844767}], "successors": [{"name": "Species_endangered_by_logging", "id": 53844767}]}

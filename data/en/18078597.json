@@ -1,1 +1,1 @@
-{"name": "Super-Earths", "id": 18078597, "predecessors": [{"name": "Exoplanets", "id": 41108019}, {"name": "Types_of_planet", "id": 12672143}], "successors": [{"name": "Super-Earths_in_the_habitable_zone", "id": 33965749}]}
+{"name": "Super-Earths", "id": 18078597, "predecessors": [{"name": "Exoplanets", "id": 41108019}, {"name": "Terrestrial_planets", "id": 7719287}, {"name": "Types_of_planet", "id": 12672143}], "successors": [{"name": "Super-Earths_in_the_habitable_zone", "id": 33965749}]}

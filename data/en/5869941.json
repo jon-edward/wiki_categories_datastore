@@ -1,1 +1,1 @@
-{"name": "Canon_EOS_DSLR_cameras", "id": 5869941, "predecessors": [{"name": "Canon_EOS_cameras", "id": 2933452}, {"name": "SLR_cameras", "id": 3156459}, {"name": "Cameras", "id": 1120124}], "successors": []}
+{"name": "Canon_EOS_DSLR_cameras", "id": 5869941, "predecessors": [{"name": "Canon_EOS_cameras", "id": 2933452}, {"name": "Digital_cameras", "id": 886201}, {"name": "Cameras", "id": 1120124}], "successors": []}

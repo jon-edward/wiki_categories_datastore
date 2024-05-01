@@ -1,1 +1,1 @@
-{"name": "Orthopedic_braces", "id": 27137321, "predecessors": [{"name": "Medical_equipment", "id": 799934}], "successors": []}
+{"name": "Orthopedic_braces", "id": 27137321, "predecessors": [{"name": "Medical_equipment", "id": 799934}, {"name": "Orthopedic_treatment", "id": 27137633}], "successors": []}

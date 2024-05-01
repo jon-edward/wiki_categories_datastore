@@ -1,1 +1,1 @@
-{"name": "Judicial_legal_terminology", "id": 61392925, "predecessors": [{"name": "Judiciaries", "id": 4683914}], "successors": [{"name": "Court_orders", "id": 940032}, {"name": "Pleas", "id": 1849513}, {"name": "Judgment_(law)", "id": 13275023}]}
+{"name": "Judicial_legal_terminology", "id": 61392925, "predecessors": [{"name": "Judiciaries", "id": 4683914}, {"name": "Legal_terminology", "id": 1123736}], "successors": [{"name": "Court_orders", "id": 940032}, {"name": "Pleas", "id": 1849513}, {"name": "Judgment_(law)", "id": 13275023}]}

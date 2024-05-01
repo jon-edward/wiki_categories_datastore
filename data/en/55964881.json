@@ -1,1 +1,1 @@
-{"name": "Sculptures_of_gods", "id": 55964881, "predecessors": [{"name": "Sculptures_of_men", "id": 47626733}, {"name": "Religious_sculptures", "id": 47626598}, {"name": "Deities", "id": 704743}], "successors": [{"name": "Statues_of_Jesus", "id": 13730669}, {"name": "Sculptures_of_Greek_gods", "id": 61902142}]}
+{"name": "Sculptures_of_gods", "id": 55964881, "predecessors": [{"name": "Religious_sculptures", "id": 47626598}], "successors": [{"name": "Statues_of_Jesus", "id": 13730669}, {"name": "Sculptures_of_Greek_gods", "id": 61902142}]}

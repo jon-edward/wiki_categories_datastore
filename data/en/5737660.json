@@ -1,1 +1,1 @@
-{"name": "Chalcogenides", "id": 5737660, "predecessors": [{"name": "Chemical_compounds", "id": 695235}], "successors": [{"name": "Oxides", "id": 695963}, {"name": "Sulfides", "id": 1682005}, {"name": "Selenides", "id": 2021156}, {"name": "Tellurides", "id": 3514274}, {"name": "Interchalcogens", "id": 36135088}, {"name": "Transition_metal_dichalcogenides", "id": 46630402}, {"name": "Disulfides", "id": 60637367}]}
+{"name": "Chalcogenides", "id": 5737660, "predecessors": [{"name": "Chemical_compounds", "id": 695235}], "successors": [{"name": "Oxides", "id": 695963}]}

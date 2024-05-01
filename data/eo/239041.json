@@ -1,1 +1,1 @@
-{"name": "Oradea", "id": 239041, "predecessors": [{"name": "Distrikto_Bihor", "id": 117120}, {"name": "Urboj_de_Rumanio", "id": 33417}], "successors": [{"name": "Episkopoj_de_Oradea", "id": 606311}]}
+{"name": "Oradea", "id": 239041, "predecessors": [{"name": "Distrikto_Bihor", "id": 117120}, {"name": "Urboj_de_Rumanio", "id": 33417}, {"name": "Urboj_de_distrikto_Bihor", "id": 866915}], "successors": [{"name": "Episkopoj_de_Oradea", "id": 606311}]}

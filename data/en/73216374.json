@@ -1,1 +1,1 @@
-{"name": "Financial_services_companies_based_in_Munich", "id": 73216374, "predecessors": [{"name": "Companies_based_in_Munich", "id": 20338999}, {"name": "Financial_services_companies_of_Germany", "id": 6070895}], "successors": [{"name": "Allianz", "id": 63048787}]}
+{"name": "Financial_services_companies_based_in_Munich", "id": 73216374, "predecessors": [{"name": "Companies_based_in_Munich", "id": 20338999}, {"name": "Financial_services_companies_of_Germany", "id": 6070895}, {"name": "Finance", "id": 718764}], "successors": [{"name": "Allianz", "id": 63048787}]}

@@ -1,1 +1,1 @@
-{"name": "Event_venues_established_in_1976", "id": 29151852, "predecessors": [{"name": "Event_management", "id": 38591267}], "successors": [{"name": "Theatres_completed_in_1976", "id": 43125164}]}
+{"name": "Event_venues_established_in_1976", "id": 29151852, "predecessors": [{"name": "Buildings_and_structures_completed_in_1976", "id": 29728106}, {"name": "Event_management", "id": 38591267}, {"name": "20th_century", "id": 884457}], "successors": [{"name": "Sports_venues_completed_in_1976", "id": 36545169}, {"name": "Theatres_completed_in_1976", "id": 43125164}]}

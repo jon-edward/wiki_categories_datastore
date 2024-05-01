@@ -1,1 +1,1 @@
-{"name": "Precipitații_atmosferice", "id": 759327, "predecessors": [{"name": "Atmosferă", "id": 29188}, {"name": "Fenomene_meteorologice", "id": 261877}, {"name": "Forme_de_apă", "id": 185116}], "successors": [{"name": "Zăpadă", "id": 44142}, {"name": "Ploaie", "id": 1572701}]}
+{"name": "Precipitații_atmosferice", "id": 759327, "predecessors": [{"name": "Atmosferă", "id": 29188}, {"name": "Fenomene_meteorologice", "id": 261877}, {"name": "Forme_de_apă", "id": 185116}], "successors": [{"name": "Zăpadă", "id": 44142}]}

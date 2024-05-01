@@ -1,1 +1,1 @@
-{"name": "Arabic_diacritics", "id": 19724505, "predecessors": [{"name": "Arabic_grammar", "id": 34182445}, {"name": "Arabic_script", "id": 10559906}, {"name": "Graphemes", "id": 4194372}], "successors": []}
+{"name": "Arabic_diacritics", "id": 19724505, "predecessors": [{"name": "Arabic_grammar", "id": 34182445}, {"name": "Arabic_script", "id": 10559906}, {"name": "Diacritics", "id": 903977}], "successors": []}

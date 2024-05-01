@@ -1,1 +1,1 @@
-{"name": "Doubt", "id": 41155375, "predecessors": [{"name": "Belief", "id": 956054}], "successors": [{"name": "Agnosticism", "id": 876385}, {"name": "Skepticism", "id": 5623842}]}
+{"name": "Doubt", "id": 41155375, "predecessors": [{"name": "Belief", "id": 956054}, {"name": "Emotions", "id": 20860353}, {"name": "Ignorance", "id": 41429824}], "successors": [{"name": "Agnosticism", "id": 876385}, {"name": "Skepticism", "id": 5623842}]}

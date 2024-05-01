@@ -1,1 +1,1 @@
-{"name": "FK_Iskra_Borčice_players", "id": 47766562, "predecessors": [{"name": "Football_clubs_in_Slovakia", "id": 34433143}, {"name": "Team_sports", "id": 700681}], "successors": []}
+{"name": "FK_Iskra_Borčice_players", "id": 47766562, "predecessors": [{"name": "Football_clubs_in_Slovakia", "id": 34433143}, {"name": "Sport_in_Slovakia", "id": 3056538}], "successors": []}

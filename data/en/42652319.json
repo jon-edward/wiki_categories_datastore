@@ -1,1 +1,1 @@
-{"name": "Tourist_attractions_in_Shenzhen", "id": 42652319, "predecessors": [{"name": "Shenzhen", "id": 1670340}, {"name": "Economy_of_China", "id": 17425411}], "successors": [{"name": "Parks_in_Shenzhen", "id": 49748125}]}
+{"name": "Tourist_attractions_in_Shenzhen", "id": 42652319, "predecessors": [{"name": "Shenzhen", "id": 1670340}, {"name": "Tourist_attractions_in_Guangdong", "id": 31012948}, {"name": "Economy_of_China", "id": 17425411}], "successors": [{"name": "Parks_in_Shenzhen", "id": 49748125}]}

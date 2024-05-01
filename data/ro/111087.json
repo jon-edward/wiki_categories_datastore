@@ -1,1 +1,1 @@
-{"name": "Tehnică_cinematografică", "id": 111087, "predecessors": [{"name": "Cinematografie", "id": 172790}, {"name": "Tehnici_artistice", "id": 56250}], "successors": [{"name": "Efecte_speciale", "id": 1323516}, {"name": "Editori_de_film", "id": 982187}]}
+{"name": "Tehnică_cinematografică", "id": 111087, "predecessors": [{"name": "Cinematografie", "id": 172790}, {"name": "Tehnici_artistice", "id": 56250}], "successors": [{"name": "Efecte_speciale", "id": 1323516}, {"name": "Editori_de_film_americani", "id": 1052889}, {"name": "Editori_de_film_români", "id": 1052892}]}

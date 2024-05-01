@@ -1,1 +1,1 @@
-{"name": "Buildings_and_structures_in_Bloomsbury", "id": 43215881, "predecessors": [{"name": "Bloomsbury", "id": 43215870}], "successors": [{"name": "British_Museum", "id": 5209786}]}
+{"name": "Buildings_and_structures_in_Bloomsbury", "id": 43215881, "predecessors": [{"name": "Bloomsbury", "id": 43215870}, {"name": "Buildings_and_structures_in_the_London_Borough_of_Camden", "id": 5811384}], "successors": [{"name": "British_Museum", "id": 5209786}]}

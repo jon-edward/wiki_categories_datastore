@@ -1,1 +1,1 @@
-{"name": "Military_deception", "id": 35838717, "predecessors": [{"name": "Deception", "id": 1212288}, {"name": "Diversionary_tactics", "id": 7885923}, {"name": "Military_operations_by_type", "id": 7797117}], "successors": []}
+{"name": "Military_deception", "id": 35838717, "predecessors": [{"name": "Deception", "id": 1212288}, {"name": "Diversionary_tactics", "id": 7885923}], "successors": [{"name": "Military_deception_during_World_War_II", "id": 35841401}]}

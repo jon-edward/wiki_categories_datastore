@@ -1,1 +1,1 @@
-{"name": "Flight_navigators", "id": 56866791, "predecessors": [{"name": "Air_navigation", "id": 42462833}, {"name": "Occupations_in_aviation", "id": 23099382}], "successors": []}
+{"name": "Flight_navigators", "id": 56866791, "predecessors": [{"name": "Air_navigation", "id": 42462833}, {"name": "Navigators", "id": 23729876}, {"name": "Occupations_in_aviation", "id": 23099382}], "successors": []}

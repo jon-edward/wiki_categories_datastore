@@ -1,1 +1,1 @@
-{"name": "TV_Globo_telenovelas", "id": 32890220, "predecessors": [{"name": "Brazilian_telenovelas", "id": 2448632}, {"name": "TV_Globo_original_programming", "id": 67943865}], "successors": []}
+{"name": "TV_Globo_telenovelas", "id": 32890220, "predecessors": [{"name": "Brazilian_telenovelas", "id": 2448632}, {"name": "TV_Globo_original_programming", "id": 67943865}, {"name": "Television_series_by_Estúdios_Globo", "id": 76654961}], "successors": []}

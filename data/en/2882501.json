@@ -1,1 +1,1 @@
-{"name": "Russian_cosmonauts", "id": 2882501, "predecessors": [{"name": "Space_program_of_Russia", "id": 36845342}, {"name": "Vehicles", "id": 694929}], "successors": [{"name": "Cosmonauts_from_Moscow", "id": 71675011}]}
+{"name": "Russian_cosmonauts", "id": 2882501, "predecessors": [{"name": "Astronautics", "id": 28347112}, {"name": "Space_program_of_Russia", "id": 36845342}], "successors": [{"name": "Cosmonauts_from_Moscow", "id": 71675011}]}

@@ -1,1 +1,1 @@
-{"name": "Bacterial_enzymes", "id": 6750831, "predecessors": [{"name": "Bacterial_proteins", "id": 6750737}], "successors": []}
+{"name": "Bacterial_enzymes", "id": 6750831, "predecessors": [{"name": "Bacterial_proteins", "id": 6750737}, {"name": "Enzymes", "id": 702815}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Bed_and_breakfasts_in_Florida", "id": 43481656, "predecessors": [{"name": "Hotels_in_Florida", "id": 2859847}, {"name": "Bed_and_breakfasts", "id": 15466733}, {"name": "Florida_culture", "id": 1206336}], "successors": []}
+{"name": "Bed_and_breakfasts_in_Florida", "id": 43481656, "predecessors": [{"name": "Bed_and_breakfasts_in_the_United_States", "id": 27042603}, {"name": "Hotels_in_Florida", "id": 2859847}, {"name": "Economy_of_Florida", "id": 9047342}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Formații_suedeze", "id": 751430, "predecessors": [{"name": "Cultura_suedeză", "id": 399642}, {"name": "Formații_muzicale", "id": 751366}], "successors": [{"name": "Formații_pop_suedeze", "id": 751380}, {"name": "Formații_rock_suedeze", "id": 751422}, {"name": "Meshuggah", "id": 1217338}]}
+{"name": "Formații_suedeze", "id": 751430, "predecessors": [{"name": "Formații_muzicale", "id": 751366}, {"name": "Genuri_artistice", "id": 765165}], "successors": [{"name": "Formații_pop_suedeze", "id": 751380}, {"name": "Formații_rock_suedeze", "id": 751422}]}

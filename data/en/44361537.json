@@ -1,1 +1,1 @@
-{"name": "Volkswagen_Group_platforms", "id": 44361537, "predecessors": [{"name": "Volkswagen_Group", "id": 28426237}, {"name": "Automotive_technologies", "id": 859604}], "successors": []}
+{"name": "Volkswagen_Group_platforms", "id": 44361537, "predecessors": [{"name": "Car_platforms", "id": 851896}, {"name": "Volkswagen_Group", "id": 28426237}], "successors": []}

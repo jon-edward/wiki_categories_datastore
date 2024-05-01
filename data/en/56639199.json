@@ -1,1 +1,1 @@
-{"name": "Wide-body_aircraft", "id": 56639199, "predecessors": [{"name": "Aircraft_configurations", "id": 1024208}], "successors": [{"name": "Boeing_747", "id": 36150368}]}
+{"name": "Wide-body_aircraft", "id": 56639199, "predecessors": [{"name": "Aircraft_configurations", "id": 1024208}, {"name": "Aviation", "id": 735378}], "successors": [{"name": "Boeing_747", "id": 36150368}]}

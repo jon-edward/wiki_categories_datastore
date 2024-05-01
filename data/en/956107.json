@@ -1,1 +1,1 @@
-{"name": "Starburst_galaxies", "id": 956107, "predecessors": [{"name": "Active_galaxies", "id": 962538}, {"name": "Galaxies", "id": 720975}], "successors": []}
+{"name": "Starburst_galaxies", "id": 956107, "predecessors": [{"name": "Active_galaxies", "id": 962538}, {"name": "Galaxies", "id": 720975}], "successors": [{"name": "LINER_galaxies", "id": 8721243}, {"name": "Luminous_infrared_galaxies", "id": 53457168}]}

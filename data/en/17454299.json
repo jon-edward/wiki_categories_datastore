@@ -1,1 +1,1 @@
-{"name": "Road_incident_deaths_in_Nevada", "id": 17454299, "predecessors": [{"name": "Accidental_deaths_in_Nevada", "id": 27353114}, {"name": "Contiguous_United_States", "id": 69260338}], "successors": []}
+{"name": "Road_incident_deaths_in_Nevada", "id": 17454299, "predecessors": [{"name": "Accidental_deaths_in_Nevada", "id": 27353114}, {"name": "Road_incident_deaths_in_the_United_States", "id": 14707666}, {"name": "Contiguous_United_States", "id": 69260338}], "successors": []}

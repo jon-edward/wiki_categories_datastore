@@ -1,1 +1,1 @@
-{"name": "Underwater_sports", "id": 27792419, "predecessors": [{"name": "Water_sports", "id": 698279}], "successors": [{"name": "Finswimming", "id": 22422612}]}
+{"name": "Underwater_sports", "id": 27792419, "predecessors": [{"name": "Water_sports", "id": 698279}, {"name": "Underwater_diving", "id": 13972292}], "successors": [{"name": "Finswimming", "id": 22422612}, {"name": "Underwater_rugby", "id": 39581770}, {"name": "Underwater_sports_organizations", "id": 58031172}, {"name": "Finswimming_World_Championships", "id": 57914884}]}

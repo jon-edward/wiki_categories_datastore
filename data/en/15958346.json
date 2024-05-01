@@ -1,1 +1,1 @@
-{"name": "Cat_food_brands", "id": 15958346, "predecessors": [{"name": "Animal_food_manufacturers", "id": 4210513}], "successors": []}
+{"name": "Cat_food_brands", "id": 15958346, "predecessors": [{"name": "Cats", "id": 799717}, {"name": "Animal_food_manufacturers", "id": 4210513}], "successors": []}

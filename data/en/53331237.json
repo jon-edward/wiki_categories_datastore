@@ -1,1 +1,1 @@
-{"name": "Medical_masks", "id": 53331237, "predecessors": [{"name": "Functional_masks", "id": 53328723}, {"name": "Medical_devices", "id": 41242589}, {"name": "Personal_protective_equipment", "id": 63611332}], "successors": []}
+{"name": "Medical_masks", "id": 53331237, "predecessors": [{"name": "Medical_devices", "id": 41242589}, {"name": "Personal_protective_equipment", "id": 63611332}], "successors": []}

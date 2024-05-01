@@ -1,1 +1,1 @@
-{"name": "Programming_language_standards", "id": 30856985, "predecessors": [{"name": "Computer_standards", "id": 30519278}, {"name": "Programming_languages", "id": 690571}], "successors": [{"name": "C++_Standard_Library", "id": 26924724}, {"name": "C_standard_library", "id": 35016715}]}
+{"name": "Programming_language_standards", "id": 30856985, "predecessors": [{"name": "Programming_languages", "id": 690571}], "successors": [{"name": "C_standard_library", "id": 35016715}]}

@@ -1,1 +1,1 @@
-{"name": "Cyclopentanols", "id": 60958238, "predecessors": [{"name": "Cyclopentanes", "id": 54408031}, {"name": "Chemical_compounds", "id": 695235}], "successors": []}
+{"name": "Cyclopentanols", "id": 60958238, "predecessors": [{"name": "Cyclic_compounds", "id": 49138368}], "successors": [{"name": "1-Methylcyclopentanols", "id": 60958282}]}

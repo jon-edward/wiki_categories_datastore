@@ -1,1 +1,1 @@
-{"name": "Backup_software_for_macOS", "id": 41554120, "predecessors": [{"name": "MacOS_software", "id": 39076490}, {"name": "Data_compression_software", "id": 946143}, {"name": "Macintosh_software", "id": 53245880}], "successors": [{"name": "File_hosting_for_macOS", "id": 41553918}]}
+{"name": "Backup_software_for_macOS", "id": 41554120, "predecessors": [{"name": "MacOS_software", "id": 39076490}, {"name": "File_archivers", "id": 20094145}, {"name": "Backup_software", "id": 4530441}], "successors": [{"name": "File_hosting_for_macOS", "id": 41553918}]}

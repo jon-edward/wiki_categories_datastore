@@ -1,1 +1,1 @@
-{"name": "Vehicle_industry_trade_unions", "id": 42987201, "predecessors": [{"name": "Manufacturing_trade_unions", "id": 41311401}, {"name": "Transport", "id": 5523119}], "successors": [{"name": "Canadian_Auto_Workers", "id": 4722791}]}
+{"name": "Vehicle_industry_trade_unions", "id": 42987201, "predecessors": [{"name": "Manufacturing_trade_unions", "id": 41311401}], "successors": [{"name": "Canadian_Auto_Workers", "id": 4722791}]}

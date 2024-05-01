@@ -1,1 +1,1 @@
-{"name": "Escherichia_coli_genes", "id": 40119359, "predecessors": [{"name": "Escherichia_coli", "id": 21426208}], "successors": []}
+{"name": "Escherichia_coli_genes", "id": 40119359, "predecessors": [{"name": "Escherichia_coli", "id": 21426208}, {"name": "Prokaryote_genes", "id": 40125880}], "successors": []}

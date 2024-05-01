@@ -1,1 +1,1 @@
-{"name": "Cocktails_with_vermouth", "id": 9587742, "predecessors": [{"name": "Cocktails_with_wine", "id": 28242795}, {"name": "Italian_alcoholic_drinks", "id": 24682529}], "successors": []}
+{"name": "Cocktails_with_vermouth", "id": 9587742, "predecessors": [{"name": "Cocktails_with_wine", "id": 28242795}, {"name": "Vermouth", "id": 9587448}], "successors": []}

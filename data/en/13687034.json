@@ -1,1 +1,1 @@
-{"name": "Chilean_Army", "id": 13687034, "predecessors": [{"name": "Armies_by_country", "id": 11456510}], "successors": []}
+{"name": "Chilean_Army", "id": 13687034, "predecessors": [{"name": "Armies_by_country", "id": 11456510}, {"name": "South_America", "id": 882959}], "successors": [{"name": "Chilean_Army_officers", "id": 13687991}]}

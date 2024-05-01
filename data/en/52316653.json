@@ -1,1 +1,1 @@
-{"name": "Logistic_regression", "id": 52316653, "predecessors": [{"name": "Logarithms", "id": 4001310}], "successors": []}
+{"name": "Logistic_regression", "id": 52316653, "predecessors": [{"name": "Logarithms", "id": 4001310}, {"name": "Regression_models", "id": 52317551}], "successors": []}

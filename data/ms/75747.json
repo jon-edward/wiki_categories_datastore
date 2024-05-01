@@ -1,1 +1,1 @@
-{"name": "Pemakanan", "id": 75747, "predecessors": [{"name": "Kesihatan", "id": 24183}, {"name": "Kehidupan_peribadi", "id": 76137}, {"name": "Tingkah_laku_manusia", "id": 82073}], "successors": [{"name": "Diet", "id": 167373}, {"name": "Carnivora", "id": 285604}, {"name": "Buaya", "id": 918777}]}
+{"name": "Pemakanan", "id": 75747, "predecessors": [{"name": "Kesihatan", "id": 24183}, {"name": "Kehidupan_peribadi", "id": 76137}, {"name": "Tingkah_laku_manusia", "id": 82073}], "successors": [{"name": "Diet", "id": 167373}, {"name": "Pemangsaan", "id": 661890}]}

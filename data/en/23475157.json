@@ -1,1 +1,1 @@
-{"name": "Touchscreen_portable_media_players", "id": 23475157, "predecessors": [{"name": "Portable_media_players", "id": 14940120}], "successors": [{"name": "Tablet_computers", "id": 26588084}]}
+{"name": "Touchscreen_portable_media_players", "id": 23475157, "predecessors": [{"name": "Portable_media_players", "id": 14940120}, {"name": "Touchscreens", "id": 22221220}], "successors": [{"name": "Tablet_computers", "id": 26588084}]}

@@ -1,1 +1,1 @@
-{"name": "Arms_trafficking", "id": 39546502, "predecessors": [{"name": "Smuggling", "id": 3515950}, {"name": "Weapons_trade", "id": 20928462}], "successors": [{"name": "People_convicted_of_arms_trafficking", "id": 8826656}, {"name": "Films_about_arms_trafficking", "id": 57121127}]}
+{"name": "Arms_trafficking", "id": 39546502, "predecessors": [{"name": "Weapons_trade", "id": 20928462}], "successors": [{"name": "People_convicted_of_arms_trafficking", "id": 8826656}, {"name": "Films_about_arms_trafficking", "id": 57121127}]}

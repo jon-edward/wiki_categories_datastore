@@ -1,1 +1,1 @@
-{"name": "Fowling", "id": 25017152, "predecessors": [{"name": "Birds_and_humans", "id": 48846377}, {"name": "Hunting_by_game", "id": 23855362}], "successors": [{"name": "Game_birds", "id": 4982381}]}
+{"name": "Fowling", "id": 25017152, "predecessors": [{"name": "Bird_mortality", "id": 24589495}, {"name": "Birds_and_humans", "id": 48846377}, {"name": "Hunting_by_game", "id": 23855362}], "successors": [{"name": "Game_birds", "id": 4982381}]}

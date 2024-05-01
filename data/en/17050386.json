@@ -1,1 +1,1 @@
-{"name": "Royal_Navy_chaplains", "id": 17050386, "predecessors": [{"name": "British_military_chaplains", "id": 34560432}, {"name": "Royal_Navy_officers", "id": 788299}, {"name": "Military_supporting_service_occupations", "id": 19383275}], "successors": [{"name": "Chaplains_of_the_Fleet", "id": 31735514}]}
+{"name": "Royal_Navy_chaplains", "id": 17050386, "predecessors": [{"name": "British_military_chaplains", "id": 34560432}, {"name": "Royal_Navy_officers", "id": 788299}, {"name": "Navies", "id": 839099}], "successors": [{"name": "Chaplains_of_the_Fleet", "id": 31735514}]}

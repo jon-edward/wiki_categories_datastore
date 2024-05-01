@@ -1,1 +1,1 @@
-{"name": "Police_officers_convicted_of_murder", "id": 12780038, "predecessors": [{"name": "Crime_by_type", "id": 15090762}, {"name": "Crimes_committed_by_law_enforcement", "id": 54217268}], "successors": [{"name": "Police_officers_executed_for_murder", "id": 38949284}]}
+{"name": "Police_officers_convicted_of_murder", "id": 12780038, "predecessors": [{"name": "Crimes_committed_by_law_enforcement", "id": 54217268}], "successors": []}

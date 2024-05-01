@@ -1,1 +1,1 @@
-{"name": "Seksitaudit", "id": 25984, "predecessors": [{"name": "Naaraan_sukupuolielimistön_sairaudet", "id": 1214386}, {"name": "Seksologia", "id": 25268}, {"name": "Seksuaaliterveys", "id": 279069}, {"name": "Tartuntataudit", "id": 52489}, {"name": "Uroksen_sukupuolielimistön_sairaudet", "id": 1061078}], "successors": [{"name": "AIDS", "id": 334990}]}
+{"name": "Seksitaudit", "id": 25984, "predecessors": [{"name": "Seksologia", "id": 25268}, {"name": "Seksuaaliterveys", "id": 279069}, {"name": "Tartuntataudit", "id": 52489}], "successors": [{"name": "AIDS", "id": 334990}]}

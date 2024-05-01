@@ -1,1 +1,1 @@
-{"name": "Official_state_cars", "id": 63074815, "predecessors": [{"name": "Individual_cars", "id": 50560293}, {"name": "Road_transport", "id": 700964}, {"name": "Vehicles_by_purpose", "id": 31806456}], "successors": []}
+{"name": "Official_state_cars", "id": 63074815, "predecessors": [{"name": "Individual_cars", "id": 50560293}, {"name": "Road_transport", "id": 700964}, {"name": "Heads_of_state", "id": 700236}], "successors": []}

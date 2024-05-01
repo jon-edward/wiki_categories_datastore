@@ -1,1 +1,1 @@
-{"name": "Albume_Can", "id": 527311, "predecessors": [{"name": "Albume_germane", "id": 278105}, {"name": "Albume_muzicale", "id": 50801}], "successors": []}
+{"name": "Albume_Can", "id": 527311, "predecessors": [{"name": "Albume_muzicale", "id": 50801}, {"name": "Artă", "id": 22407}], "successors": []}

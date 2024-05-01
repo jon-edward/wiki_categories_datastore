@@ -1,1 +1,1 @@
-{"name": "Edible_molluscs", "id": 4946079, "predecessors": [{"name": "Animals_and_humans", "id": 52196069}, {"name": "Animal-based_seafood", "id": 36325535}], "successors": []}
+{"name": "Edible_molluscs", "id": 4946079, "predecessors": [{"name": "Edible_shellfish", "id": 6935426}, {"name": "Animal-based_seafood", "id": 36325535}], "successors": []}

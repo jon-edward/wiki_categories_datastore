@@ -1,1 +1,1 @@
-{"name": "Stanford_University_School_of_Medicine_faculty", "id": 36539156, "predecessors": [{"name": "Scientists_from_the_San_Francisco_Bay_Area", "id": 37446453}, {"name": "Stanford_University_faculty", "id": 4221355}, {"name": "Medical_schools_in_California", "id": 24993685}], "successors": []}
+{"name": "Stanford_University_School_of_Medicine_faculty", "id": 36539156, "predecessors": [{"name": "Stanford_University_faculty", "id": 4221355}, {"name": "Stanford_University_medicine", "id": 24394812}], "successors": []}

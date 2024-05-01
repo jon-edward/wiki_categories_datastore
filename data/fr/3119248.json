@@ -1,1 +1,0 @@
-{"name": "Gare_routière", "id": 3119248, "predecessors": [{"name": "Autobus", "id": 204666}, {"name": "Autocar", "id": 6011697}, {"name": "Gare", "id": 121999}, {"name": "Infrastructure_routière", "id": 132248}], "successors": [{"name": "Gare_routière_en_France", "id": 8364441}, {"name": "Gare_routière_en_Finlande", "id": 12653440}]}

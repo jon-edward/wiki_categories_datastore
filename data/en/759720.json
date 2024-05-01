@@ -1,1 +1,1 @@
-{"name": "Stealth_aircraft", "id": 759720, "predecessors": [{"name": "Aircraft_configurations", "id": 1024208}, {"name": "Stealth_technology", "id": 28325072}], "successors": []}
+{"name": "Stealth_aircraft", "id": 759720, "predecessors": [{"name": "Aircraft_configurations", "id": 1024208}, {"name": "Stealth_technology", "id": 28325072}], "successors": [{"name": "Unmanned_stealth_aircraft", "id": 68075721}]}

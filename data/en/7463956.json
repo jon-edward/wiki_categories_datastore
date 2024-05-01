@@ -1,1 +1,1 @@
-{"name": "Helicopter_airlines", "id": 7463956, "predecessors": [{"name": "Helicopter_operators", "id": 13802620}, {"name": "Aviation", "id": 735378}], "successors": [{"name": "Defunct_helicopter_airlines", "id": 44692766}]}
+{"name": "Helicopter_airlines", "id": 7463956, "predecessors": [{"name": "Helicopter_operators", "id": 13802620}, {"name": "Aviation", "id": 735378}, {"name": "Aerospace_companies", "id": 760233}], "successors": [{"name": "Defunct_helicopter_airlines", "id": 44692766}]}

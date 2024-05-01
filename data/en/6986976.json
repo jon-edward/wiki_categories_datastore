@@ -1,1 +1,1 @@
-{"name": "Serie_A_managers", "id": 6986976, "predecessors": [{"name": "Football_leagues_in_Italy", "id": 31521885}, {"name": "Football_in_Italy", "id": 3066407}], "successors": []}
+{"name": "Serie_A_managers", "id": 6986976, "predecessors": [{"name": "Serie_A", "id": 6986993}, {"name": "Football_in_Italy", "id": 3066407}], "successors": []}

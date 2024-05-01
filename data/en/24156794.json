@@ -1,1 +1,1 @@
-{"name": "NHS_Tayside", "id": 24156794, "predecessors": [{"name": "NHS_Scotland", "id": 8725974}, {"name": "Tayside", "id": 3124187}], "successors": []}
+{"name": "NHS_Tayside", "id": 24156794, "predecessors": [{"name": "NHS_Scotland", "id": 8725974}, {"name": "Tayside", "id": 3124187}], "successors": [{"name": "Hospitals_in_Angus,_Scotland", "id": 20946235}, {"name": "Hospitals_in_Dundee", "id": 20946459}]}

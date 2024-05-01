@@ -1,1 +1,1 @@
-{"name": "Auto_racing_records", "id": 47997182, "predecessors": [{"name": "Sports_records_and_statistics", "id": 3501863}, {"name": "Individual_sports", "id": 862248}], "successors": []}
+{"name": "Auto_racing_records", "id": 47997182, "predecessors": [{"name": "Individual_sports", "id": 862248}], "successors": [{"name": "Formula_One_constructor_results", "id": 13246200}, {"name": "Career_achievements_of_racing_drivers", "id": 61280717}, {"name": "World_Rally_Championship_constructor_results", "id": 62232270}]}

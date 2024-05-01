@@ -1,1 +1,1 @@
-{"name": "Ferrous_alloys", "id": 3315793, "predecessors": [{"name": "Alloys", "id": 695965}, {"name": "Iron", "id": 3726153}], "successors": [{"name": "Steel", "id": 978815}, {"name": "Ferroalloys", "id": 3316139}, {"name": "Cast_iron", "id": 35620502}, {"name": "Steel_alloys", "id": 46704021}]}
+{"name": "Ferrous_alloys", "id": 3315793, "predecessors": [{"name": "Alloys", "id": 695965}], "successors": [{"name": "Cast_iron", "id": 35620502}]}

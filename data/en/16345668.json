@@ -1,1 +1,1 @@
-{"name": "Interventional_cardiology", "id": 16345668, "predecessors": [{"name": "Interventional_radiology", "id": 32446178}], "successors": []}
+{"name": "Interventional_cardiology", "id": 16345668, "predecessors": [{"name": "Cardiac_procedures", "id": 32553274}, {"name": "Interventional_radiology", "id": 32446178}], "successors": [{"name": "Clinical_trials_related_to_cardiology", "id": 42822209}]}

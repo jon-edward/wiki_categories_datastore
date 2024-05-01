@@ -1,1 +1,0 @@
-{"name": "Buchherstellung", "id": 1020478, "predecessors": [{"name": "Buchwesen", "id": 7713342}, {"name": "Technik", "id": 242544}], "successors": [{"name": "Buchdruck", "id": 416748}, {"name": "Kodikologie", "id": 2148213}, {"name": "Buchbestandteil", "id": 3037068}, {"name": "Buchart_nach_Herstellung", "id": 8451431}, {"name": "Buchbinden", "id": 9654272}]}

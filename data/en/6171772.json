@@ -1,1 +1,1 @@
-{"name": "CJ_Group", "id": 6171772, "predecessors": [{"name": "Companies_based_in_Seoul", "id": 17015372}, {"name": "Conglomerate_companies_of_South_Korea", "id": 38914725}, {"name": "Family-owned_companies", "id": 54452359}], "successors": []}
+{"name": "CJ_Group", "id": 6171772, "predecessors": [{"name": "Companies_based_in_Seoul", "id": 17015372}, {"name": "Conglomerate_companies_of_South_Korea", "id": 38914725}], "successors": [{"name": "CJ_Group_subsidiaries", "id": 46861491}]}

@@ -1,1 +1,1 @@
-{"name": "Financial_services_occupations", "id": 54373359, "predecessors": [{"name": "Finance_occupations", "id": 50682347}, {"name": "Financial_services", "id": 1653309}, {"name": "Employment", "id": 1798901}], "successors": []}
+{"name": "Financial_services_occupations", "id": 54373359, "predecessors": [{"name": "Finance_occupations", "id": 50682347}, {"name": "Financial_services", "id": 1653309}, {"name": "Service_occupations", "id": 20479869}], "successors": [{"name": "Banking_occupations", "id": 48773923}]}

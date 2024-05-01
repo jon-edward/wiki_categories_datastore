@@ -1,1 +1,1 @@
-{"name": "T_cells", "id": 3116292, "predecessors": [{"name": "Human_cells", "id": 729309}, {"name": "Lymphocytes", "id": 3108858}], "successors": []}
+{"name": "T_cells", "id": 3116292, "predecessors": [{"name": "Human_cells", "id": 729309}, {"name": "Lymphocytes", "id": 3108858}, {"name": "Thymus", "id": 39303538}], "successors": []}

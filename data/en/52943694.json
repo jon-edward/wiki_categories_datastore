@@ -1,1 +1,1 @@
-{"name": "Formula_E_ePrix", "id": 52943694, "predecessors": [{"name": "Formula_E", "id": 41412708}, {"name": "Individual_sports", "id": 862248}], "successors": [{"name": "Berlin_ePrix", "id": 49096599}, {"name": "Mexico_City_ePrix", "id": 49404210}]}
+{"name": "Formula_E_ePrix", "id": 52943694, "predecessors": [{"name": "Formula_E", "id": 41412708}, {"name": "Auto_races", "id": 5688763}], "successors": [{"name": "Berlin_ePrix", "id": 49096599}, {"name": "Mexico_City_ePrix", "id": 49404210}]}

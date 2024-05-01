@@ -1,1 +1,1 @@
-{"name": "African_soups", "id": 46800899, "predecessors": [{"name": "Soups", "id": 1654621}], "successors": [{"name": "Nigerian_soups", "id": 57984448}]}
+{"name": "African_soups", "id": 46800899, "predecessors": [{"name": "African_cuisine", "id": 2112756}, {"name": "Soups", "id": 1654621}], "successors": [{"name": "Nigerian_soups", "id": 57984448}]}

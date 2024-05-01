@@ -1,1 +1,1 @@
-{"name": "Zoonoze", "id": 1321645, "predecessors": [{"name": "Boli_ale_animalelor", "id": 770085}, {"name": "Boli_infecțioase", "id": 748954}, {"name": "Interacțiunea_om-animal", "id": 1150456}], "successors": [{"name": "Rickettsioze", "id": 2011618}, {"name": "Borelioze", "id": 2011669}]}
+{"name": "Zoonoze", "id": 1321645, "predecessors": [{"name": "Boli_infecțioase", "id": 748954}, {"name": "Interacțiunea_om-animal", "id": 1150456}, {"name": "Animale", "id": 31429}], "successors": []}

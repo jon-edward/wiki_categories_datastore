@@ -1,1 +1,1 @@
-{"name": "Gossip_columnists", "id": 8098899, "predecessors": [{"name": "Tabloid_journalism", "id": 40505308}, {"name": "Columns_(periodical)", "id": 1179710}, {"name": "Journalism", "id": 698307}], "successors": [{"name": "American_gossip_columnists", "id": 58887334}]}
+{"name": "Gossip_columnists", "id": 8098899, "predecessors": [{"name": "Tabloid_journalism", "id": 40505308}, {"name": "Columns_(periodical)", "id": 1179710}, {"name": "Journalism_by_field", "id": 11542225}], "successors": [{"name": "American_gossip_columnists", "id": 58887334}]}

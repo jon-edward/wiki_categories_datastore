@@ -1,1 +1,1 @@
-{"name": "Forensic_techniques", "id": 24244185, "predecessors": [{"name": "Law_enforcement_techniques", "id": 1307032}, {"name": "Scientific_techniques", "id": 15358485}, {"name": "Criminology", "id": 1020942}], "successors": []}
+{"name": "Forensic_techniques", "id": 24244185, "predecessors": [{"name": "Scientific_techniques", "id": 15358485}, {"name": "Heuristics", "id": 742824}], "successors": [{"name": "DNA_profiling_techniques", "id": 14848921}]}

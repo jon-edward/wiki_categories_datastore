@@ -1,1 +1,1 @@
-{"name": "Drept_privat", "id": 1573347, "predecessors": [{"name": "Drept_civil", "id": 101326}, {"name": "Drept", "id": 19804}], "successors": [{"name": "Contracte", "id": 307144}, {"name": "Drept_corporativ", "id": 1573340}]}
+{"name": "Drept_privat", "id": 1573347, "predecessors": [{"name": "Drept_civil", "id": 101326}, {"name": "Drept", "id": 19804}], "successors": [{"name": "Contracte", "id": 307144}]}

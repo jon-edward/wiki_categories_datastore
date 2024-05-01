@@ -1,1 +1,1 @@
-{"name": "Forensic_artists", "id": 4826710, "predecessors": [{"name": "Forensic_facial_reconstruction", "id": 44015020}], "successors": []}
+{"name": "Forensic_artists", "id": 4826710, "predecessors": [{"name": "Forensic_facial_reconstruction", "id": 44015020}, {"name": "Heuristics", "id": 742824}], "successors": []}

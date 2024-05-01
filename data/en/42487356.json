@@ -1,1 +1,1 @@
-{"name": "Airbus_A320_family", "id": 42487356, "predecessors": [{"name": "Airbus_aircraft", "id": 5613002}], "successors": [{"name": "Accidents_and_incidents_involving_the_Airbus_A320", "id": 21029863}]}
+{"name": "Airbus_A320_family", "id": 42487356, "predecessors": [{"name": "Airbus_aircraft", "id": 5613002}, {"name": "Twinjets", "id": 33234531}, {"name": "Aviation", "id": 735378}], "successors": [{"name": "Accidents_and_incidents_involving_the_Airbus_A320", "id": 21029863}]}

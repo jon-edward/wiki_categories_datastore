@@ -1,1 +1,1 @@
-{"name": "Arts_and_crafts_retailers", "id": 22899837, "predecessors": [{"name": "Handicrafts", "id": 1211280}], "successors": [{"name": "Tesco", "id": 8660062}]}
+{"name": "Arts_and_crafts_retailers", "id": 22899837, "predecessors": [{"name": "Handicrafts", "id": 1211280}, {"name": "Retailers_by_type_of_merchandise_sold", "id": 55586528}], "successors": [{"name": "Tesco", "id": 8660062}]}

@@ -1,1 +1,1 @@
-{"name": "Villages_in_Sedgemoor", "id": 31336799, "predecessors": [{"name": "Sedgemoor", "id": 5519612}], "successors": [{"name": "Cheddar,_Somerset", "id": 61794225}]}
+{"name": "Villages_in_Sedgemoor", "id": 31336799, "predecessors": [{"name": "Sedgemoor", "id": 5519612}, {"name": "Villages_in_Somerset", "id": 1107881}], "successors": [{"name": "Cheddar,_Somerset", "id": 61794225}]}

@@ -1,1 +1,1 @@
-{"name": "Illegal_drug_trade_in_North_America", "id": 71795572, "predecessors": [{"name": "Americas", "id": 1526345}], "successors": [{"name": "Illegal_drug_trade_in_the_United_States", "id": 37389172}]}
+{"name": "Illegal_drug_trade_in_North_America", "id": 71795572, "predecessors": [{"name": "Americas", "id": 1526345}, {"name": "Drugs", "id": 1325883}], "successors": [{"name": "Illegal_drug_trade_in_the_United_States", "id": 37389172}]}

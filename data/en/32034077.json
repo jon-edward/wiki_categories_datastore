@@ -1,1 +1,1 @@
-{"name": "Endorheic_lakes_of_Europe", "id": 32034077, "predecessors": [{"name": "Environment_of_Europe", "id": 29464044}, {"name": "Drainage_basins", "id": 30054622}], "successors": [{"name": "Caspian_Sea", "id": 7194420}]}
+{"name": "Endorheic_lakes_of_Europe", "id": 32034077, "predecessors": [{"name": "Drainage_basins", "id": 30054622}, {"name": "Environment_of_Europe", "id": 29464044}], "successors": [{"name": "Caspian_Sea", "id": 7194420}]}

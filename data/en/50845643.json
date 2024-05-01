@@ -1,1 +1,1 @@
-{"name": "Polyketides", "id": 50845643, "predecessors": [{"name": "Natural_products", "id": 11677996}, {"name": "Secondary_metabolites", "id": 48908360}], "successors": [{"name": "Polyketide_antibiotics", "id": 1590613}, {"name": "Macrolides", "id": 18149863}]}
+{"name": "Polyketides", "id": 50845643, "predecessors": [{"name": "Natural_products", "id": 11677996}, {"name": "Secondary_metabolites", "id": 48908360}], "successors": [{"name": "Macrolides", "id": 18149863}]}

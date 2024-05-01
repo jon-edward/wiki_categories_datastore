@@ -1,1 +1,0 @@
-{"name": "Device_file", "id": 9347186, "predecessors": [{"name": "Computer_file_systems", "id": 754856}], "successors": [{"name": "DOS_device_names", "id": 39063337}, {"name": "OS/2_device_names", "id": 43082773}, {"name": "Windows_device_names", "id": 52130520}]}

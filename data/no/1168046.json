@@ -1,1 +1,1 @@
-{"name": "Handelshøyskoler", "id": 1168046, "predecessors": [{"name": "Handel", "id": 29119}, {"name": "Skoler", "id": 11055}], "successors": []}
+{"name": "Handelshøyskoler", "id": 1168046, "predecessors": [{"name": "Handel", "id": 29119}, {"name": "Skoler", "id": 11055}], "successors": [{"name": "HEC_Paris", "id": 2135835}]}

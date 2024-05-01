@@ -1,1 +1,1 @@
-{"name": "Nose", "id": 20693944, "predecessors": [{"name": "Face", "id": 36077287}, {"name": "Facial_features", "id": 10156905}, {"name": "Human_body", "id": 17781477}], "successors": [{"name": "Nose_surgery", "id": 32626392}]}
+{"name": "Nose", "id": 20693944, "predecessors": [{"name": "Face", "id": 36077287}, {"name": "Facial_features", "id": 10156905}, {"name": "Rhinology", "id": 7837960}, {"name": "Human_body", "id": 17781477}], "successors": [{"name": "Nose_surgery", "id": 32626392}]}

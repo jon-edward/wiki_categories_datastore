@@ -1,1 +1,1 @@
-{"name": "Regional_climate_effects", "id": 65074874, "predecessors": [{"name": "Regions", "id": 1023064}], "successors": []}
+{"name": "Regional_climate_effects", "id": 65074874, "predecessors": [{"name": "Climate_patterns", "id": 33828243}, {"name": "Climatology", "id": 798288}, {"name": "Regions", "id": 1023064}], "successors": []}

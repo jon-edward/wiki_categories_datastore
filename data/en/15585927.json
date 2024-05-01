@@ -1,1 +1,1 @@
-{"name": "Choreography", "id": 15585927, "predecessors": [{"name": "Dance_technique", "id": 1041185}, {"name": "Performing_arts", "id": 991222}], "successors": [{"name": "Dance_notation", "id": 1041222}, {"name": "Costumes", "id": 48181563}]}
+{"name": "Choreography", "id": 15585927, "predecessors": [{"name": "Performing_arts", "id": 991222}], "successors": [{"name": "Dance_notation", "id": 1041222}, {"name": "Choreographed_combat", "id": 15342971}, {"name": "Costumes", "id": 48181563}]}

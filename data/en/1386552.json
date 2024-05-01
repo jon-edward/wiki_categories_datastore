@@ -1,1 +1,1 @@
-{"name": "OpenPGP", "id": 1386552, "predecessors": [{"name": "Cryptographic_software", "id": 694900}, {"name": "Email_authentication", "id": 28655364}, {"name": "Internet_Standards", "id": 40416776}, {"name": "Open_standards", "id": 5997034}, {"name": "Public-key_cryptography", "id": 21275418}], "successors": []}
+{"name": "OpenPGP", "id": 1386552, "predecessors": [{"name": "Cryptographic_software", "id": 694900}, {"name": "Email_authentication", "id": 28655364}, {"name": "Internet_Standards", "id": 40416776}, {"name": "Open_standards", "id": 5997034}], "successors": []}

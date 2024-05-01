@@ -1,1 +1,1 @@
-{"name": "Insect_pests_of_rice", "id": 76556796, "predecessors": [{"name": "Rice", "id": 4059323}], "successors": []}
+{"name": "Insect_pests_of_rice", "id": 76556796, "predecessors": [{"name": "Agricultural_pest_insects", "id": 10196515}, {"name": "Rice", "id": 4059323}], "successors": []}

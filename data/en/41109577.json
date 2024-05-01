@@ -1,1 +1,1 @@
-{"name": "Car_costs", "id": 41109577, "predecessors": [{"name": "Car_ownership", "id": 42009098}, {"name": "Transport_economics", "id": 3646902}], "successors": [{"name": "Toll_roads", "id": 1357062}]}
+{"name": "Car_costs", "id": 41109577, "predecessors": [{"name": "Car_ownership", "id": 42009098}], "successors": [{"name": "Toll_roads", "id": 1357062}]}

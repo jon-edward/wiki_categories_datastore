@@ -1,1 +1,1 @@
-{"name": "Pau_Grand_Prix", "id": 26016641, "predecessors": [{"name": "Auto_races_in_France", "id": 22255340}, {"name": "Sport_in_Pau,_Pyrénées-Atlantiques", "id": 59492150}], "successors": []}
+{"name": "Pau_Grand_Prix", "id": 26016641, "predecessors": [{"name": "Auto_races_in_France", "id": 22255340}, {"name": "Formula_One_non-championship_races", "id": 8001428}, {"name": "Formula_Three_races", "id": 25268550}, {"name": "Sport_in_Pau,_Pyrénées-Atlantiques", "id": 59492150}, {"name": "Auto_races", "id": 5688763}, {"name": "Formula_One", "id": 699395}], "successors": []}

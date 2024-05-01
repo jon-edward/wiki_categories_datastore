@@ -1,1 +1,1 @@
-{"name": "Buildings_and_structures_in_Kazan", "id": 25165295, "predecessors": [{"name": "Kazan", "id": 2192481}, {"name": "Tatarstan", "id": 981877}], "successors": [{"name": "Kazan_Metro", "id": 16863191}, {"name": "Universities_in_Kazan", "id": 40527968}]}
+{"name": "Buildings_and_structures_in_Kazan", "id": 25165295, "predecessors": [{"name": "Kazan", "id": 2192481}], "successors": [{"name": "Kazan_Metro", "id": 16863191}, {"name": "Universities_in_Kazan", "id": 40527968}, {"name": "Mosques_in_Kazan", "id": 11664158}]}

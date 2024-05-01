@@ -1,1 +1,1 @@
-{"name": "Buildings_and_structures_in_Innere_Stadt", "id": 35169868, "predecessors": [{"name": "Innere_Stadt", "id": 23966884}, {"name": "Districts_of_Vienna", "id": 1359460}], "successors": [{"name": "Hofburg", "id": 35170710}]}
+{"name": "Buildings_and_structures_in_Innere_Stadt", "id": 35169868, "predecessors": [{"name": "Innere_Stadt", "id": 23966884}, {"name": "Buildings_and_structures_in_Vienna", "id": 3248737}], "successors": [{"name": "Hofburg", "id": 35170710}]}

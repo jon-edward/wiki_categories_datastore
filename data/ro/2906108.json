@@ -1,1 +1,1 @@
-{"name": "Sculptură_monumentală", "id": 2906108, "predecessors": [{"name": "Monumente", "id": 23113}, {"name": "Sculptură_după_tip", "id": 768764}], "successors": [{"name": "Statui_monumentale", "id": 1921798}]}
+{"name": "Sculptură_monumentală", "id": 2906108, "predecessors": [{"name": "Monumente", "id": 23113}, {"name": "Sculptură", "id": 22408}], "successors": [{"name": "Statui_monumentale", "id": 1921798}]}

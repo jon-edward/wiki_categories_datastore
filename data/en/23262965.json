@@ -1,1 +1,1 @@
-{"name": "Swedish_bankers", "id": 23262965, "predecessors": [{"name": "Banking", "id": 1245386}, {"name": "Swedish_businesspeople", "id": 2780825}, {"name": "Financial_services", "id": 1653309}], "successors": []}
+{"name": "Swedish_bankers", "id": 23262965, "predecessors": [{"name": "Banking_by_country", "id": 5578355}, {"name": "Swedish_businesspeople", "id": 2780825}], "successors": []}

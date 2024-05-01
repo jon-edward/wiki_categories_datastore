@@ -1,1 +1,1 @@
-{"name": "Metropolitano", "id": 75619491, "predecessors": [{"name": "Transport_in_Lima", "id": 6049468}], "successors": []}
+{"name": "Metropolitano", "id": 75619491, "predecessors": [{"name": "Bus_rapid_transit", "id": 1866000}, {"name": "Transport_in_Lima", "id": 6049468}, {"name": "Rail_transport_in_Peru", "id": 5706076}], "successors": []}

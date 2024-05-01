@@ -1,1 +1,1 @@
-{"name": "Deaf_educators", "id": 50170437, "predecessors": [{"name": "Educators_with_disabilities", "id": 74003971}], "successors": [{"name": "Deaf_scholars_and_academics", "id": 74004045}]}
+{"name": "Deaf_educators", "id": 50170437, "predecessors": [{"name": "Educators_with_disabilities", "id": 74003971}, {"name": "Deafness", "id": 8326083}], "successors": [{"name": "Deaf_scholars_and_academics", "id": 74004045}]}

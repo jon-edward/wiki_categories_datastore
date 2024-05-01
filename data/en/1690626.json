@@ -1,1 +1,1 @@
-{"name": "Camping_equipment", "id": 1690626, "predecessors": [{"name": "Camping", "id": 1451338}, {"name": "Outdoor_education", "id": 15335027}, {"name": "Sports_equipment", "id": 8619631}], "successors": []}
+{"name": "Camping_equipment", "id": 1690626, "predecessors": [{"name": "Camping", "id": 1451338}, {"name": "Outdoor_education", "id": 15335027}, {"name": "Sports_equipment", "id": 8619631}], "successors": [{"name": "Tents", "id": 41043521}]}

@@ -1,1 +1,1 @@
-{"name": "Plant_pathogenic_nematodes", "id": 42699613, "predecessors": [{"name": "Plant_pathogens_and_diseases", "id": 11405471}], "successors": [{"name": "Agricultural_pest_nematodes", "id": 30706881}]}
+{"name": "Plant_pathogenic_nematodes", "id": 42699613, "predecessors": [{"name": "Parasites_of_plants", "id": 40223366}, {"name": "Plant_pathogens_and_diseases", "id": 11405471}], "successors": [{"name": "Agricultural_pest_nematodes", "id": 30706881}]}

@@ -1,1 +1,1 @@
-{"name": "Crize_financiare", "id": 491503, "predecessors": [{"name": "Crize_economice", "id": 892282}, {"name": "Forex", "id": 1110510}], "successors": []}
+{"name": "Crize_financiare", "id": 491503, "predecessors": [{"name": "Forex", "id": 1110510}, {"name": "Bani", "id": 892298}], "successors": []}

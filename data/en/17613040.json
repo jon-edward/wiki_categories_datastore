@@ -1,1 +1,1 @@
-{"name": "Entertainment_robots", "id": 17613040, "predecessors": [{"name": "Robots", "id": 943048}, {"name": "Entertainment", "id": 693016}], "successors": [{"name": "Toy_robots", "id": 11509443}, {"name": "Animatronic_robots", "id": 33899260}]}
+{"name": "Entertainment_robots", "id": 17613040, "predecessors": [{"name": "Electronic_toys", "id": 23718480}, {"name": "Robots", "id": 943048}, {"name": "Entertainment", "id": 693016}], "successors": [{"name": "Animatronic_robots", "id": 33899260}]}

@@ -1,1 +1,1 @@
-{"name": "Hotel_buildings_completed_in_1958", "id": 38323354, "predecessors": [{"name": "Buildings_and_structures_by_type", "id": 6884364}], "successors": []}
+{"name": "Hotel_buildings_completed_in_1958", "id": 38323354, "predecessors": [{"name": "Commercial_buildings_completed_in_1958", "id": 37912703}, {"name": "Residential_buildings_completed_in_1958", "id": 33782594}, {"name": "20th_century", "id": 884457}], "successors": []}

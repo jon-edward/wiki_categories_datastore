@@ -1,1 +1,1 @@
-{"name": "Botev_Plovdiv", "id": 25678828, "predecessors": [{"name": "Sport_in_Plovdiv", "id": 37300764}], "successors": [{"name": "Botev_Plovdiv_players", "id": 20309567}]}
+{"name": "Botev_Plovdiv", "id": 25678828, "predecessors": [{"name": "Sport_in_Plovdiv", "id": 37300764}, {"name": "Football_clubs_in_Bulgaria", "id": 34428564}], "successors": [{"name": "Botev_Plovdiv_players", "id": 20309567}, {"name": "Botev_Plovdiv_managers", "id": 26185666}, {"name": "Botev_Plovdiv_matches", "id": 58155348}]}

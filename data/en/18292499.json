@@ -1,1 +1,1 @@
-{"name": "Egg_dishes", "id": 18292499, "predecessors": [{"name": "Eggs_(food)", "id": 21885189}, {"name": "Meat_dishes", "id": 18237845}], "successors": []}
+{"name": "Egg_dishes", "id": 18292499, "predecessors": [{"name": "Eggs_(food)", "id": 21885189}], "successors": [{"name": "Custard_desserts", "id": 7172030}, {"name": "Omelettes", "id": 39043254}, {"name": "Roe_dishes", "id": 57354608}, {"name": "Egg_sandwiches", "id": 60439598}, {"name": "Cocktails_with_eggs", "id": 65298510}, {"name": "Meringue_desserts", "id": 66373064}, {"name": "Mayonnaise", "id": 1114988}]}

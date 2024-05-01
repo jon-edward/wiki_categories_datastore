@@ -1,1 +1,1 @@
-{"name": "JPMorgan_Chase", "id": 7741123, "predecessors": [{"name": "Banks_based_in_New_York_City", "id": 19865630}, {"name": "House_of_Morgan", "id": 17422197}], "successors": []}
+{"name": "JPMorgan_Chase", "id": 7741123, "predecessors": [{"name": "Banks_based_in_New_York_City", "id": 19865630}, {"name": "House_of_Morgan", "id": 17422197}], "successors": [{"name": "JPMorgan_Chase_people", "id": 16223075}, {"name": "JPMorgan_Chase_buildings", "id": 18892582}, {"name": "Bear_Stearns", "id": 27979040}]}

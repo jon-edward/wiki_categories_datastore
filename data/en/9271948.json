@@ -1,1 +1,1 @@
-{"name": "Wilderness_medicine", "id": 9271948, "predecessors": [{"name": "Emergency_medicine", "id": 846798}, {"name": "Wilderness", "id": 5763428}], "successors": [{"name": "Wilderness_medical_emergencies", "id": 32510781}]}
+{"name": "Wilderness_medicine", "id": 9271948, "predecessors": [{"name": "Emergency_medicine", "id": 846798}], "successors": [{"name": "Wilderness_medical_emergencies", "id": 32510781}]}

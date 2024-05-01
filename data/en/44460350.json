@@ -1,1 +1,1 @@
-{"name": "Combat_medics", "id": 44460350, "predecessors": [{"name": "Combat_occupations", "id": 19381455}], "successors": [{"name": "American_Field_Service_personnel_of_World_War_I", "id": 64795405}]}
+{"name": "Combat_medics", "id": 44460350, "predecessors": [{"name": "American_military_personnel", "id": 6676519}], "successors": [{"name": "Fictional_combat_medics", "id": 52231184}, {"name": "United_States_Navy_corpsmen", "id": 63618279}, {"name": "American_Field_Service_personnel_of_World_War_I", "id": 64795405}]}

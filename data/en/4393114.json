@@ -1,1 +1,1 @@
-{"name": "Doping_cases_in_cycling", "id": 4393114, "predecessors": [{"name": "Banned_sportspeople", "id": 31686682}, {"name": "Cycling", "id": 841814}], "successors": [{"name": "Doping_cases_in_Australian_cycling", "id": 38506558}]}
+{"name": "Doping_cases_in_cycling", "id": 4393114, "predecessors": [{"name": "Cycling", "id": 841814}], "successors": [{"name": "Doping_cases_in_Australian_cycling", "id": 38506558}]}

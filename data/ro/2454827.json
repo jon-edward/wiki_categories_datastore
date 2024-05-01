@@ -1,1 +1,1 @@
-{"name": "Oxazoli", "id": 2454827, "predecessors": [{"name": "Azoli", "id": 2014748}, {"name": "Compuși_heterociclici_cu_oxigen", "id": 1992616}], "successors": [{"name": "Oxadiazoli", "id": 2550611}]}
+{"name": "Oxazoli", "id": 2454827, "predecessors": [{"name": "Compuși_heterociclici_cu_oxigen", "id": 1992616}, {"name": "Compuși_heterociclici_cu_azot", "id": 1992615}], "successors": [{"name": "Oxadiazoli", "id": 2550611}]}

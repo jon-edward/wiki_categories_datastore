@@ -1,1 +1,1 @@
-{"name": "SEC_filings", "id": 25275951, "predecessors": [{"name": "U.S._Securities_and_Exchange_Commission", "id": 13126052}], "successors": []}
+{"name": "SEC_filings", "id": 25275951, "predecessors": [{"name": "Legal_documents", "id": 694070}, {"name": "U.S._Securities_and_Exchange_Commission", "id": 13126052}, {"name": "United_States_government_forms", "id": 5502621}], "successors": []}

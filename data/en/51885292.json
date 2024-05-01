@@ -1,1 +1,1 @@
-{"name": "Revenue", "id": 51885292, "predecessors": [{"name": "Production_economics", "id": 28228085}, {"name": "Income", "id": 2108447}], "successors": [{"name": "Sales", "id": 4536131}, {"name": "Revenue_models", "id": 65921779}]}
+{"name": "Revenue", "id": 51885292, "predecessors": [{"name": "Production_economics", "id": 28228085}, {"name": "Financial_statements", "id": 16616179}], "successors": [{"name": "Sales", "id": 4536131}, {"name": "Revenue_models", "id": 65921779}]}

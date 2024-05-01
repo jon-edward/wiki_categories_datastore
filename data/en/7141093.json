@@ -1,1 +1,1 @@
-{"name": "Tourist_attractions_in_Crimea", "id": 7141093, "predecessors": [{"name": "Tourism_in_Ukraine", "id": 3597836}], "successors": [{"name": "Museums_in_Crimea", "id": 36409052}]}
+{"name": "Tourist_attractions_in_Crimea", "id": 7141093, "predecessors": [{"name": "Tourism_in_Russia", "id": 2631550}, {"name": "Tourism_in_Ukraine", "id": 3597836}], "successors": [{"name": "Museums_in_Crimea", "id": 36409052}]}

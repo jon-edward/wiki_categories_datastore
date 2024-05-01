@@ -1,1 +1,1 @@
-{"name": "Transport_in_Wuhan", "id": 4872826, "predecessors": [{"name": "Transport_in_Hubei", "id": 9529367}, {"name": "Cities_in_Hubei", "id": 1763243}, {"name": "Economy_of_China", "id": 17425411}], "successors": [{"name": "Bridges_in_Wuhan", "id": 24383303}]}
+{"name": "Transport_in_Wuhan", "id": 4872826, "predecessors": [{"name": "Transport_in_Hubei", "id": 9529367}, {"name": "Wuhan", "id": 4872732}, {"name": "Economy_of_China", "id": 17425411}], "successors": [{"name": "Bridges_in_Wuhan", "id": 24383303}, {"name": "Wuhan_Metro_stations", "id": 57806780}]}

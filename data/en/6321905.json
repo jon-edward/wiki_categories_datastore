@@ -1,1 +1,1 @@
-{"name": "Student_theatre", "id": 6321905, "predecessors": [{"name": "Amateur_theatre", "id": 16184792}, {"name": "Student_organizations", "id": 19148468}, {"name": "Cultural_organizations", "id": 14659176}], "successors": [{"name": "University_performing_groups", "id": 32509252}, {"name": "Student_theatre_in_the_United_Kingdom", "id": 40599429}]}
+{"name": "Student_theatre", "id": 6321905, "predecessors": [{"name": "Amateur_theatre", "id": 16184792}], "successors": [{"name": "Student_theatre_in_the_United_Kingdom", "id": 40599429}]}

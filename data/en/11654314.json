@@ -1,1 +1,1 @@
-{"name": "Fertility_awareness", "id": 11654314, "predecessors": [{"name": "Fertility", "id": 1612019}, {"name": "Menstrual_cycle", "id": 23759202}, {"name": "Birth_control", "id": 1187059}], "successors": []}
+{"name": "Fertility_awareness", "id": 11654314, "predecessors": [{"name": "Menstrual_cycle", "id": 23759202}], "successors": []}

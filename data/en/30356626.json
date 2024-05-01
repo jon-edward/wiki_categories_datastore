@@ -1,1 +1,1 @@
-{"name": "Magic_museums", "id": 30356626, "predecessors": [{"name": "Magic_organizations", "id": 3822448}, {"name": "Performing_arts_museums", "id": 23425500}, {"name": "Amusement_parks", "id": 713049}, {"name": "Magic_(illusion)", "id": 2620492}], "successors": []}
+{"name": "Magic_museums", "id": 30356626, "predecessors": [{"name": "Amusement_museums", "id": 18496243}, {"name": "Magic_organizations", "id": 3822448}, {"name": "Performing_arts_museums", "id": 23425500}, {"name": "Magic_(illusion)", "id": 2620492}], "successors": []}

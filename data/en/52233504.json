@@ -1,1 +1,1 @@
-{"name": "Fermented_fish", "id": 52233504, "predecessors": [{"name": "Fish_products", "id": 2503527}, {"name": "Animal_products", "id": 2304680}], "successors": [{"name": "Fish_sauces", "id": 41491519}]}
+{"name": "Fermented_fish", "id": 52233504, "predecessors": [{"name": "Fish_products", "id": 2503527}, {"name": "Uncooked_fish_dishes", "id": 24079847}, {"name": "Animal_products", "id": 2304680}, {"name": "Biologically_based_therapies", "id": 5717653}], "successors": [{"name": "Fish_sauces", "id": 41491519}]}

@@ -1,1 +1,1 @@
-{"name": "Mitologia_slavă", "id": 593677, "predecessors": [{"name": "Cultură_slavă", "id": 950166}, {"name": "Mitologie_după_cultură", "id": 194635}], "successors": [{"name": "Legende_poloneze", "id": 1143255}, {"name": "Mitologie_rusă", "id": 2223579}]}
+{"name": "Mitologia_slavă", "id": 593677, "predecessors": [{"name": "Mitologie_după_cultură", "id": 194635}, {"name": "Cultură", "id": 22567}], "successors": [{"name": "Mitologie_rusă", "id": 2223579}]}

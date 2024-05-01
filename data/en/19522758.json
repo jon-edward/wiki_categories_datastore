@@ -1,1 +1,1 @@
-{"name": "Human_homeostasis", "id": 19522758, "predecessors": [{"name": "Human_physiology", "id": 2261140}, {"name": "Biomedical_engineering", "id": 3400689}], "successors": [{"name": "Stress_(biology)", "id": 69485221}]}
+{"name": "Human_homeostasis", "id": 19522758, "predecessors": [{"name": "Human_physiology", "id": 2261140}, {"name": "Biomedical_engineering", "id": 3400689}], "successors": [{"name": "Thyroid_homeostasis", "id": 59687486}, {"name": "Stress_(biology)", "id": 69485221}]}

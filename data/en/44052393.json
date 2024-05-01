@@ -1,1 +1,1 @@
-{"name": "Microsoft_Surface", "id": 44052393, "predecessors": [{"name": "Microsoft_hardware", "id": 13659567}], "successors": []}
+{"name": "Microsoft_Surface", "id": 44052393, "predecessors": [{"name": "Microsoft_hardware", "id": 13659567}], "successors": [{"name": "Surface_Laptop", "id": 69202319}]}

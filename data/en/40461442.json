@@ -1,1 +1,1 @@
-{"name": "G20_summits", "id": 40461442, "predecessors": [{"name": "Diplomatic_conferences", "id": 11648938}, {"name": "G20", "id": 14087700}, {"name": "Global_economic_conferences", "id": 36082405}], "successors": []}
+{"name": "G20_summits", "id": 40461442, "predecessors": [{"name": "G20", "id": 14087700}], "successors": []}

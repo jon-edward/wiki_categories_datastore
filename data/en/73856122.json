@@ -1,1 +1,1 @@
-{"name": "Cryptography_case_law", "id": 73856122, "predecessors": [{"name": "Cryptography_law", "id": 3331744}, {"name": "Computer_law", "id": 1166522}], "successors": [{"name": "Digital_Millennium_Copyright_Act_case_law", "id": 42154779}]}
+{"name": "Cryptography_case_law", "id": 73856122, "predecessors": [{"name": "Computer_case_law", "id": 29678217}, {"name": "Cryptography_law", "id": 3331744}], "successors": [{"name": "Digital_Millennium_Copyright_Act_case_law", "id": 42154779}]}

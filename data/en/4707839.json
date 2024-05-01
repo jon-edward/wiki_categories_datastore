@@ -1,1 +1,1 @@
-{"name": "University_and_college_bus_systems", "id": 4707839, "predecessors": [{"name": "Public_transport_by_mode", "id": 15720272}, {"name": "Higher_education", "id": 10436887}, {"name": "Campuses", "id": 8525766}], "successors": []}
+{"name": "University_and_college_bus_systems", "id": 4707839, "predecessors": [{"name": "Road_transport", "id": 700964}], "successors": []}

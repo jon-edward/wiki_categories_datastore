@@ -1,1 +1,1 @@
-{"name": "Tongue_disorders", "id": 32542150, "predecessors": [{"name": "Tongue", "id": 32542085}], "successors": [{"name": "Syndromes_affecting_the_tongue", "id": 53612019}]}
+{"name": "Tongue_disorders", "id": 32542150, "predecessors": [{"name": "Diseases_of_oral_cavity,_salivary_glands_and_jaws", "id": 27086271}, {"name": "Tongue", "id": 32542085}], "successors": [{"name": "Syndromes_affecting_the_tongue", "id": 53612019}]}

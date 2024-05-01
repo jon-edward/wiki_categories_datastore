@@ -1,1 +1,1 @@
-{"name": "Mining_in_Lancashire", "id": 33949693, "predecessors": [{"name": "Mining_in_England", "id": 16742223}], "successors": [{"name": "Coal_mines_in_Lancashire", "id": 24424365}]}
+{"name": "Mining_in_Lancashire", "id": 33949693, "predecessors": [{"name": "Mining_in_England", "id": 16742223}, {"name": "Lancashire", "id": 752584}], "successors": [{"name": "Coal_mines_in_Lancashire", "id": 24424365}]}

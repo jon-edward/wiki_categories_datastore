@@ -1,1 +1,1 @@
-{"name": "Gesture_recognition", "id": 52779579, "predecessors": [{"name": "Gestures", "id": 1363132}, {"name": "History_of_human–computer_interaction", "id": 30660311}], "successors": [{"name": "D-Beam", "id": 61426798}]}
+{"name": "Gesture_recognition", "id": 52779579, "predecessors": [{"name": "Applications_of_computer_vision", "id": 4826208}, {"name": "Gestures", "id": 1363132}, {"name": "History_of_human–computer_interaction", "id": 30660311}], "successors": [{"name": "D-Beam", "id": 61426798}]}

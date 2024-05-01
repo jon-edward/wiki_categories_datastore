@@ -1,1 +1,1 @@
-{"name": "TransMilenio", "id": 5301582, "predecessors": [{"name": "Transport_in_Bogotá", "id": 28588619}], "successors": []}
+{"name": "TransMilenio", "id": 5301582, "predecessors": [{"name": "Transport_in_Bogotá", "id": 28588619}, {"name": "Bus_rapid_transit", "id": 1866000}], "successors": []}

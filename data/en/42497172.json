@@ -1,1 +1,1 @@
-{"name": "Email_client_software_for_Linux", "id": 42497172, "predecessors": [{"name": "Email_clients", "id": 28655967}], "successors": []}
+{"name": "Email_client_software_for_Linux", "id": 42497172, "predecessors": [{"name": "Email_clients", "id": 28655967}, {"name": "Internet_software_for_Linux", "id": 42469901}], "successors": []}

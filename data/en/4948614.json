@@ -1,1 +1,1 @@
-{"name": "Hepatology", "id": 4948614, "predecessors": [{"name": "Medical_specialties", "id": 1449968}], "successors": [{"name": "Bile_acids", "id": 2984428}]}
+{"name": "Hepatology", "id": 4948614, "predecessors": [{"name": "Liver", "id": 19401443}, {"name": "Medical_specialties", "id": 1449968}], "successors": [{"name": "Bile_acids", "id": 2984428}, {"name": "Diseases_of_liver", "id": 27145197}, {"name": "Gastroenterology_and_hepatology_journals", "id": 28635714}, {"name": "Hepatotoxins", "id": 55210999}]}

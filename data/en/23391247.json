@@ -1,1 +1,1 @@
-{"name": "Sports_photographers", "id": 23391247, "predecessors": [{"name": "Sports_journalists", "id": 6023369}, {"name": "Photography", "id": 717207}, {"name": "Human_communication", "id": 709574}], "successors": [{"name": "Skateboarding_photographers", "id": 62433856}]}
+{"name": "Sports_photographers", "id": 23391247, "predecessors": [{"name": "Sports_journalists", "id": 6023369}, {"name": "Sports_occupations_and_roles", "id": 25536293}, {"name": "Photography", "id": 717207}], "successors": [{"name": "Skateboarding_photographers", "id": 62433856}]}

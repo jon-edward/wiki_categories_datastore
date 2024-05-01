@@ -1,1 +1,1 @@
-{"name": "Birds_of_North_Africa", "id": 46926283, "predecessors": [{"name": "Fauna_of_the_Sahara", "id": 5788830}], "successors": [{"name": "Birds_of_the_Canary_Islands", "id": 34907664}, {"name": "Birds_of_Madeira", "id": 35210219}]}
+{"name": "Birds_of_North_Africa", "id": 46926283, "predecessors": [{"name": "North_Africa", "id": 743186}], "successors": [{"name": "Birds_of_the_Canary_Islands", "id": 34907664}, {"name": "Birds_of_Madeira", "id": 35210219}]}

@@ -1,1 +1,1 @@
-{"name": "Servicii_secrete", "id": 36331, "predecessors": [{"name": "Agenții_guvernamentale", "id": 1138892}, {"name": "Spionaj", "id": 36332}], "successors": [{"name": "Șefi_ai_serviciilor_secrete", "id": 760998}, {"name": "Servicii_de_informații_britanice", "id": 809212}, {"name": "Oameni_din_KGB", "id": 2937530}]}
+{"name": "Servicii_secrete", "id": 36331, "predecessors": [{"name": "Agenții_guvernamentale", "id": 1138892}, {"name": "Spionaj", "id": 36332}], "successors": [{"name": "Șefi_ai_serviciilor_secrete", "id": 760998}, {"name": "Oameni_din_KGB", "id": 2937530}]}

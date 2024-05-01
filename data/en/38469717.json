@@ -1,1 +1,1 @@
-{"name": "Companies_based_in_Grand_Est", "id": 38469717, "predecessors": [{"name": "Regions_of_France", "id": 871494}], "successors": [{"name": "Champagne_producers", "id": 14732241}]}
+{"name": "Companies_based_in_Grand_Est", "id": 38469717, "predecessors": [{"name": "Organizations_based_in_Grand_Est", "id": 51037701}, {"name": "Regions_of_France", "id": 871494}], "successors": [{"name": "Champagne_producers", "id": 14732241}]}

@@ -1,1 +1,1 @@
-{"name": "Photosynthetic_pigments", "id": 3725745, "predecessors": [{"name": "Biological_pigments", "id": 36805215}, {"name": "Photosynthesis", "id": 706474}], "successors": [{"name": "Carotenoids", "id": 2983218}]}
+{"name": "Photosynthetic_pigments", "id": 3725745, "predecessors": [{"name": "Photosynthesis", "id": 706474}], "successors": [{"name": "Carotenoids", "id": 2983218}]}

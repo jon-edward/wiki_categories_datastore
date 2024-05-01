@@ -1,1 +1,1 @@
-{"name": "Motorola_microprocessors", "id": 18047594, "predecessors": [{"name": "Motorola_products", "id": 1503916}], "successors": [{"name": "68k_microprocessors", "id": 1207470}, {"name": "68xx-based_computers", "id": 71862833}]}
+{"name": "Motorola_microprocessors", "id": 18047594, "predecessors": [{"name": "Motorola_products", "id": 1503916}, {"name": "Microprocessors", "id": 832619}], "successors": [{"name": "68k_microprocessors", "id": 1207470}, {"name": "68xx-based_computers", "id": 71862833}]}

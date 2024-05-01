@@ -1,1 +1,1 @@
-{"name": "Princeton_University_publications", "id": 19652879, "predecessors": [{"name": "Academic_publishing", "id": 2239162}], "successors": [{"name": "Princeton_University_Press_books", "id": 30827375}]}
+{"name": "Princeton_University_publications", "id": 19652879, "predecessors": [{"name": "Princeton_University", "id": 741948}, {"name": "Academic_publishing", "id": 2239162}], "successors": [{"name": "Princeton_University_Press_books", "id": 30827375}]}

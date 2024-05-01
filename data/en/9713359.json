@@ -1,1 +1,1 @@
-{"name": "Beaches_of_Cornwall", "id": 9713359, "predecessors": [{"name": "Cornish_coast", "id": 67163860}], "successors": [{"name": "Beaches_of_Penwith", "id": 2642258}, {"name": "Surfing_locations_in_Cornwall", "id": 19560736}]}
+{"name": "Beaches_of_Cornwall", "id": 9713359, "predecessors": [{"name": "Cornish_coast", "id": 67163860}, {"name": "Landforms_of_Cornwall", "id": 46918548}, {"name": "Tourist_attractions_in_Cornwall", "id": 1784571}], "successors": [{"name": "Beaches_of_Penwith", "id": 2642258}, {"name": "Surfing_locations_in_Cornwall", "id": 19560736}]}

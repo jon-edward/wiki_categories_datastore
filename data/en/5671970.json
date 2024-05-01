@@ -1,1 +1,1 @@
-{"name": "Macintosh_magazines", "id": 5671970, "predecessors": [{"name": "Macintosh_platform", "id": 1105130}, {"name": "Printing", "id": 774014}], "successors": []}
+{"name": "Macintosh_magazines", "id": 5671970, "predecessors": [{"name": "Computer_magazines", "id": 703691}, {"name": "Macintosh_platform", "id": 1105130}], "successors": []}

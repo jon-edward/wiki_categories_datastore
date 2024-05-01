@@ -1,1 +1,1 @@
-{"name": "Liquefied_natural_gas_terminals", "id": 18792987, "predecessors": [{"name": "Liquefied_natural_gas", "id": 18792961}, {"name": "Natural_gas_terminals", "id": 25665032}], "successors": []}
+{"name": "Liquefied_natural_gas_terminals", "id": 18792987, "predecessors": [{"name": "Liquefied_natural_gas", "id": 18792961}, {"name": "Natural_gas_terminals", "id": 25665032}], "successors": [{"name": "Floating_liquefied_natural_gas_terminals", "id": 72494150}]}

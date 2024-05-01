@@ -1,1 +1,1 @@
-{"name": "Spanish_courtiers", "id": 46257862, "predecessors": [{"name": "Government_of_Spain", "id": 1207126}], "successors": [{"name": "Spanish_ladies-in-waiting", "id": 51550469}]}
+{"name": "Spanish_courtiers", "id": 46257862, "predecessors": [{"name": "Government_of_Spain", "id": 1207126}, {"name": "Royal_and_noble_courts", "id": 30635777}], "successors": [{"name": "Spanish_royal_favourites", "id": 58441454}]}

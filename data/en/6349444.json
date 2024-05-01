@@ -1,1 +1,1 @@
-{"name": "Game_design", "id": 6349444, "predecessors": [{"name": "Design", "id": 999651}, {"name": "Gaming", "id": 11608552}], "successors": [{"name": "Video_game_gameplay", "id": 9250932}, {"name": "Video_game_design", "id": 9568249}, {"name": "Pinball_game_designers", "id": 4767141}]}
+{"name": "Game_design", "id": 6349444, "predecessors": [{"name": "Design", "id": 999651}, {"name": "Gaming", "id": 11608552}], "successors": [{"name": "Video_game_gameplay", "id": 9250932}, {"name": "Video_game_design", "id": 9568249}]}

@@ -1,1 +1,1 @@
-{"name": "Sacramento_Regional_Transit_light_rail_stations", "id": 48270104, "predecessors": [{"name": "Passenger_rail_transportation_in_California", "id": 32915224}, {"name": "Bus_transportation_in_California", "id": 18908931}, {"name": "Buildings_and_structures_in_Sacramento_County,_California", "id": 24218669}], "successors": []}
+{"name": "Sacramento_Regional_Transit_light_rail_stations", "id": 48270104, "predecessors": [{"name": "Bus_transportation_in_California", "id": 18908931}], "successors": []}

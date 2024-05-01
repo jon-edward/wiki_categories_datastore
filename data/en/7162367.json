@@ -1,1 +1,1 @@
-{"name": "World_War_II_board_wargames", "id": 7162367, "predecessors": [{"name": "Wargames", "id": 765474}], "successors": []}
+{"name": "World_War_II_board_wargames", "id": 7162367, "predecessors": [{"name": "World_War_II_fiction", "id": 17975124}, {"name": "Board_wargames", "id": 1082193}], "successors": [{"name": "Axis_&_Allies", "id": 32319378}]}

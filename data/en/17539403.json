@@ -1,1 +1,1 @@
-{"name": "Commercial_molluscs", "id": 17539403, "predecessors": [{"name": "Fishing_industry", "id": 11967701}, {"name": "Animals_and_humans", "id": 52196069}], "successors": [{"name": "Cuttlefish", "id": 1070446}, {"name": "Oysters", "id": 38607209}]}
+{"name": "Commercial_molluscs", "id": 17539403, "predecessors": [{"name": "Fishing_industry", "id": 11967701}], "successors": [{"name": "Cuttlefish", "id": 1070446}, {"name": "Oysters", "id": 38607209}]}

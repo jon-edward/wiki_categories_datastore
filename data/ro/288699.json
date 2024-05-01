@@ -1,1 +1,1 @@
-{"name": "Indicatori", "id": 288699, "predecessors": [{"name": "Date", "id": 405579}], "successors": [{"name": "Indicatori_economici", "id": 288698}, {"name": "Indicatori_demografici", "id": 291329}, {"name": "Calitatea_vieții", "id": 1882666}]}
+{"name": "Indicatori", "id": 288699, "predecessors": [{"name": "Informație", "id": 752751}], "successors": [{"name": "Indicatori_economici", "id": 288698}, {"name": "Indicatori_demografici", "id": 291329}, {"name": "Calitatea_vieții", "id": 1882666}]}

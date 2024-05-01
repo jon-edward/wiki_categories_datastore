@@ -1,1 +1,1 @@
-{"name": "UFC-arrangementer", "id": 688095, "predecessors": [{"name": "Sportsarrangementer", "id": 42380}, {"name": "MMA", "id": 559029}], "successors": []}
+{"name": "UFC-arrangementer", "id": 688095, "predecessors": [{"name": "Sportsarrangementer", "id": 42380}, {"name": "MMA", "id": 559029}], "successors": [{"name": "UFC-arrangementer_i_USA", "id": 2188012}]}

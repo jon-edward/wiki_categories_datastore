@@ -1,1 +1,1 @@
-{"name": "Ear", "id": 6316972, "predecessors": [{"name": "Human_head_and_neck", "id": 36703875}, {"name": "Human_body", "id": 17781477}], "successors": [{"name": "Vestibular_system", "id": 749772}]}
+{"name": "Ear", "id": 6316972, "predecessors": [{"name": "Auditory_system", "id": 749765}, {"name": "Human_head_and_neck", "id": 36703875}, {"name": "Human_body", "id": 17781477}, {"name": "Medical_Subject_Headings", "id": 30236108}], "successors": [{"name": "Congenital_disorders_of_ears", "id": 51335482}]}

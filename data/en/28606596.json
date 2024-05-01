@@ -1,1 +1,0 @@
-{"name": "Electric_power_distribution", "id": 28606596, "predecessors": [{"name": "Electric_power", "id": 959286}], "successors": [{"name": "Pylons", "id": 1335386}, {"name": "Electric_power_distribution_network_operators", "id": 18626401}, {"name": "Distributed_generation", "id": 19169336}, {"name": "Over-current_protection_devices", "id": 67402848}]}

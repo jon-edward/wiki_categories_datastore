@@ -1,1 +1,1 @@
-{"name": "Fairy_chess_pieces", "id": 9641101, "predecessors": [{"name": "Fairy_chess", "id": 12575243}, {"name": "Games_related_to_chaturanga", "id": 61004779}], "successors": []}
+{"name": "Fairy_chess_pieces", "id": 9641101, "predecessors": [{"name": "Chess_pieces", "id": 1015653}, {"name": "Fairy_chess", "id": 12575243}], "successors": []}

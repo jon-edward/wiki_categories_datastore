@@ -1,1 +1,1 @@
-{"name": "Bandplans", "id": 1145790, "predecessors": [{"name": "Broadcast_law", "id": 5553237}, {"name": "Radio_spectrum", "id": 932435}], "successors": [{"name": "Amateur_radio_bands", "id": 3845422}, {"name": "Microwave_bands", "id": 5853394}, {"name": "Airbands", "id": 64776709}]}
+{"name": "Bandplans", "id": 1145790, "predecessors": [{"name": "Broadcast_law", "id": 5553237}], "successors": [{"name": "Amateur_radio_bands", "id": 3845422}, {"name": "Citizens_band_radio", "id": 57535702}, {"name": "Airbands", "id": 64776709}]}

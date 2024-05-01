@@ -1,1 +1,1 @@
-{"name": "Deaths_from_scleroderma", "id": 39833460, "predecessors": [{"name": "Rare_diseases", "id": 1116081}], "successors": []}
+{"name": "Deaths_from_scleroderma", "id": 39833460, "predecessors": [{"name": "Deaths_from_autoimmune_disease", "id": 19628835}, {"name": "Mucinoses", "id": 19989407}, {"name": "Rare_diseases", "id": 1116081}, {"name": "Systemic_connective_tissue_disorders", "id": 24983941}, {"name": "Musculoskeletal_disorders", "id": 2900721}], "successors": []}

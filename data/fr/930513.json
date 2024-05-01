@@ -1,1 +1,0 @@
-{"name": "Moteur_de_rendu_HTML", "id": 930513, "predecessors": [{"name": "HTML", "id": 622173}, {"name": "Navigateur_web", "id": 2706897}, {"name": "Technologie_web", "id": 2707103}], "successors": [{"name": "Navigateur_web_utilisant_Gecko", "id": 2706915}, {"name": "Navigateur_web_utilisant_WebKit", "id": 3182737}]}

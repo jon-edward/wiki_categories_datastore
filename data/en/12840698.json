@@ -1,1 +1,1 @@
-{"name": "ERP_software_companies", "id": 12840698, "predecessors": [{"name": "ERP_software", "id": 2504415}, {"name": "Electronics_industry", "id": 35046850}], "successors": [{"name": "Sage_Group", "id": 35111417}]}
+{"name": "ERP_software_companies", "id": 12840698, "predecessors": [{"name": "Electronics_industry", "id": 35046850}], "successors": [{"name": "Sage_Group", "id": 35111417}]}

@@ -1,1 +1,1 @@
-{"name": "South_African_music_awards", "id": 61762866, "predecessors": [{"name": "South_African_music", "id": 726892}], "successors": [{"name": "South_African_Music_Awards", "id": 59559203}]}
+{"name": "South_African_music_awards", "id": 61762866, "predecessors": [{"name": "African_music_awards", "id": 32719242}, {"name": "Music_of_South_Africa", "id": 726892}, {"name": "South_African_awards", "id": 8316711}], "successors": [{"name": "South_African_Music_Awards", "id": 59559203}]}

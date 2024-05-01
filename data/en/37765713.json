@@ -1,1 +1,1 @@
-{"name": "Hotel_buildings_completed_in_1891", "id": 37765713, "predecessors": [{"name": "Buildings_and_structures_by_type", "id": 6884364}], "successors": []}
+{"name": "Hotel_buildings_completed_in_1891", "id": 37765713, "predecessors": [{"name": "Commercial_buildings_completed_in_1891", "id": 37462833}, {"name": "Buildings_and_structures_completed_in_1891", "id": 30004375}, {"name": "Commercial_buildings_completed_in_the_19th_century", "id": 37275001}], "successors": []}

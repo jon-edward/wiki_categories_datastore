@@ -1,1 +1,1 @@
-{"name": "School_museums", "id": 22208377, "predecessors": [{"name": "Education_museums", "id": 22018939}, {"name": "Schools", "id": 736360}, {"name": "History_of_education", "id": 3248624}], "successors": []}
+{"name": "School_museums", "id": 22208377, "predecessors": [{"name": "History_of_schools", "id": 5347906}], "successors": []}

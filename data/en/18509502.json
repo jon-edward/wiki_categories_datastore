@@ -1,1 +1,0 @@
-{"name": "Fuel_containers", "id": 18509502, "predecessors": [{"name": "Energy_storage", "id": 1847555}, {"name": "Engine_fuel_system_technology", "id": 2307483}, {"name": "Fuels", "id": 770810}], "successors": [{"name": "Oil_terminals", "id": 17974661}]}

@@ -1,1 +1,1 @@
-{"name": "Dow_Jones_Industrial_Average", "id": 839988, "predecessors": [{"name": "Indici_bursieri_din_Statele_Unite_ale_Americii", "id": 839986}], "successors": [{"name": "Hewlett-Packard", "id": 2938401}]}
+{"name": "Dow_Jones_Industrial_Average", "id": 839988, "predecessors": [{"name": "Indici_bursieri", "id": 372018}], "successors": [{"name": "Hewlett-Packard", "id": 2938401}]}

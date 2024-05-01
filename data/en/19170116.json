@@ -1,1 +1,1 @@
-{"name": "Cycle_races_in_Luxembourg", "id": 19170116, "predecessors": [{"name": "Tourist_attractions_in_Luxembourg", "id": 6632166}], "successors": [{"name": "Tour_de_Luxembourg", "id": 42953613}]}
+{"name": "Cycle_races_in_Luxembourg", "id": 19170116, "predecessors": [{"name": "Road_transport", "id": 700964}, {"name": "History_of_Luxembourg", "id": 1680787}], "successors": [{"name": "Tour_de_Luxembourg", "id": 42953613}]}

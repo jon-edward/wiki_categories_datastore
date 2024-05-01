@@ -1,1 +1,1 @@
-{"name": "Frozen_yogurt_businesses", "id": 36801058, "predecessors": [{"name": "Brand_name_frozen_desserts", "id": 7661305}, {"name": "Fast-food_restaurants", "id": 730142}, {"name": "Restaurants_by_type", "id": 15748273}], "successors": []}
+{"name": "Frozen_yogurt_businesses", "id": 36801058, "predecessors": [{"name": "Brand_name_frozen_desserts", "id": 7661305}, {"name": "Brand_name_yogurts", "id": 34038167}, {"name": "Fast-food_restaurants", "id": 730142}, {"name": "Restaurants_by_type", "id": 15748273}, {"name": "Yogurt_companies", "id": 58848087}], "successors": []}

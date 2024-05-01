@@ -1,1 +1,1 @@
-{"name": "BoA_albums", "id": 2345153, "predecessors": [{"name": "J-pop_albums", "id": 8316785}, {"name": "K-pop_albums", "id": 11598337}, {"name": "SM_Entertainment_artists", "id": 33046538}], "successors": []}
+{"name": "BoA_albums", "id": 2345153, "predecessors": [{"name": "BoA", "id": 26585202}, {"name": "J-pop_albums", "id": 8316785}, {"name": "K-pop_albums", "id": 11598337}], "successors": []}

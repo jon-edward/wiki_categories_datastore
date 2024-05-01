@@ -1,1 +1,1 @@
-{"name": "Medical_scoring_system", "id": 11867211, "predecessors": [{"name": "Decision_support_systems", "id": 51600989}, {"name": "Medical_diagnosis", "id": 16705234}], "successors": []}
+{"name": "Medical_scoring_system", "id": 11867211, "predecessors": [{"name": "Decision_support_systems", "id": 51600989}, {"name": "Medical_diagnosis", "id": 16705234}, {"name": "Medical_scales", "id": 5993801}], "successors": [{"name": "Orthopedic_clinical_prediction_rules", "id": 42792538}]}

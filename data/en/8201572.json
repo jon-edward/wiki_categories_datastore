@@ -1,1 +1,1 @@
-{"name": "Fruit_sodas", "id": 8201572, "predecessors": [{"name": "Carbonated_drinks", "id": 4149713}, {"name": "Edible_fruits", "id": 39951547}], "successors": [{"name": "Citrus_sodas", "id": 5558688}]}
+{"name": "Fruit_sodas", "id": 8201572, "predecessors": [{"name": "Carbonated_drinks", "id": 4149713}, {"name": "Edible_fruits", "id": 39951547}], "successors": [{"name": "Citrus_sodas", "id": 5558688}, {"name": "Grape_sodas", "id": 18428630}]}

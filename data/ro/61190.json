@@ -1,1 +1,1 @@
-{"name": "Tipar", "id": 61190, "predecessors": [{"name": "Tipografie", "id": 83025}], "successors": [{"name": "Litografie", "id": 445539}, {"name": "Software_pentru_editare", "id": 110669}, {"name": "Edituri", "id": 113443}, {"name": "Copertă_carte", "id": 174451}, {"name": "Editare_electronică", "id": 1921866}]}
+{"name": "Tipar", "id": 61190, "predecessors": [{"name": "Tipografie", "id": 83025}], "successors": [{"name": "Software_pentru_editare", "id": 110669}, {"name": "Edituri", "id": 113443}, {"name": "Copertă_carte", "id": 174451}]}

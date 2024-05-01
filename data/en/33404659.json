@@ -1,1 +1,1 @@
-{"name": "Lifelong_learning", "id": 33404659, "predecessors": [{"name": "Adult_education", "id": 15159101}, {"name": "Education_by_method", "id": 39073760}, {"name": "Learning", "id": 1055691}, {"name": "Learning_programs", "id": 30891264}], "successors": [{"name": "Continuing_education", "id": 24877009}]}
+{"name": "Lifelong_learning", "id": 33404659, "predecessors": [{"name": "Education_by_method", "id": 39073760}, {"name": "Learning", "id": 1055691}, {"name": "Learning_programs", "id": 30891264}], "successors": [{"name": "Continuing_education", "id": 24877009}]}

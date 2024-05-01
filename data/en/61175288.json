@@ -1,1 +1,1 @@
-{"name": "Bus_manufacturers_of_France", "id": 61175288, "predecessors": [{"name": "Motor_vehicle_manufacturers_of_France", "id": 5759187}, {"name": "Road_transport", "id": 700964}], "successors": []}
+{"name": "Bus_manufacturers_of_France", "id": 61175288, "predecessors": [{"name": "Bus_transport_in_France", "id": 4532073}, {"name": "Motor_vehicle_manufacturers_of_France", "id": 5759187}, {"name": "Motor_vehicle_manufacturers", "id": 5754930}], "successors": []}

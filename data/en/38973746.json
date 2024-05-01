@@ -1,1 +1,1 @@
-{"name": "FK_Vojvodina_seasons", "id": 38973746, "predecessors": [{"name": "Football_clubs_in_Novi_Sad", "id": 43191202}, {"name": "Athletic_sports", "id": 31210709}], "successors": []}
+{"name": "FK_Vojvodina_seasons", "id": 38973746, "predecessors": [{"name": "Football_clubs_in_Novi_Sad", "id": 43191202}], "successors": []}

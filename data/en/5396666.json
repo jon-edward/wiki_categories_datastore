@@ -1,1 +1,1 @@
-{"name": "Integrated_Services_Digital_Network", "id": 5396666, "predecessors": [{"name": "Physical_layer_protocols", "id": 7920188}, {"name": "Telecommunication_protocols", "id": 70723263}, {"name": "Telecommunications_infrastructure", "id": 13040529}, {"name": "Wide_area_networks", "id": 5013842}], "successors": []}
+{"name": "Integrated_Services_Digital_Network", "id": 5396666, "predecessors": [{"name": "Physical_layer_protocols", "id": 7920188}, {"name": "Telecommunications_infrastructure", "id": 13040529}, {"name": "Wide_area_networks", "id": 5013842}], "successors": []}

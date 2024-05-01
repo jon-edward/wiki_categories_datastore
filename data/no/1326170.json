@@ -1,1 +1,1 @@
-{"name": "Friidrett_i_2003", "id": 1326170, "predecessors": [{"name": "Sport_i_2003", "id": 93094}, {"name": "Friidrett", "id": 30268}], "successors": [{"name": "VM_i_friidrett_2003", "id": 662089}]}
+{"name": "Friidrett_i_2003", "id": 1326170, "predecessors": [{"name": "Friidrett", "id": 30268}, {"name": "Historie", "id": 13177}], "successors": [{"name": "VM_i_friidrett_2003", "id": 662089}]}

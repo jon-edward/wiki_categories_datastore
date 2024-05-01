@@ -1,1 +1,1 @@
-{"name": "Crime_journalists", "id": 34946565, "predecessors": [{"name": "Journalism", "id": 698307}], "successors": [{"name": "American_crime_reporters", "id": 26637241}]}
+{"name": "Crime_journalists", "id": 34946565, "predecessors": [{"name": "Journalism_by_field", "id": 11542225}], "successors": [{"name": "American_crime_reporters", "id": 26637241}, {"name": "British_crime_journalists", "id": 34946627}]}

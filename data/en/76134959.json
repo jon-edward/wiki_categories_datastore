@@ -1,1 +1,1 @@
-{"name": "Boxing_matches_at_Mandalay_Bay_Events_Center", "id": 76134959, "predecessors": [{"name": "Boxing_matches_in_Las_Vegas", "id": 76043286}], "successors": []}
+{"name": "Boxing_matches_at_Mandalay_Bay_Events_Center", "id": 76134959, "predecessors": [{"name": "Boxing_matches_in_the_Las_Vegas_Valley", "id": 76043286}, {"name": "Mandalay_Bay", "id": 55635774}], "successors": []}

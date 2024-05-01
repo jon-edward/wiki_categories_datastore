@@ -1,1 +1,1 @@
-{"name": "Speedcar_Series", "id": 16977628, "predecessors": [{"name": "Defunct_auto_racing_series", "id": 23387999}, {"name": "Stock_car_racing_series", "id": 14691134}], "successors": []}
+{"name": "Speedcar_Series", "id": 16977628, "predecessors": [{"name": "Defunct_auto_racing_series", "id": 23387999}, {"name": "Stock_car_racing_series", "id": 14691134}], "successors": [{"name": "Speedcar_Series_drivers", "id": 25344363}]}

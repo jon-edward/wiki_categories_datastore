@@ -1,1 +1,1 @@
-{"name": "Amfibieni", "id": 937315, "predecessors": [{"name": "Clase_de_animale", "id": 1637001}, {"name": "Organisme_acvatice", "id": 185021}, {"name": "Animale_vertebrate", "id": 51096}], "successors": [{"name": "Amfibieni_din_Europa", "id": 2930302}]}
+{"name": "Amfibieni", "id": 937315, "predecessors": [{"name": "Clase_de_animale", "id": 1637001}, {"name": "Ecologie_acvatică", "id": 185205}, {"name": "Animale_vertebrate", "id": 51096}], "successors": [{"name": "Amfibieni_din_Europa", "id": 2930302}]}

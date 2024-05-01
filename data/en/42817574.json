@@ -1,1 +1,1 @@
-{"name": "Women_astronauts", "id": 42817574, "predecessors": [{"name": "Female_explorers", "id": 12257987}, {"name": "Human_spaceflight", "id": 856134}, {"name": "Vehicles", "id": 694929}], "successors": [{"name": "American_women_astronauts", "id": 76404778}]}
+{"name": "Women_astronauts", "id": 42817574, "predecessors": [{"name": "Astronautics", "id": 28347112}, {"name": "Human_spaceflight", "id": 856134}], "successors": [{"name": "American_women_astronauts", "id": 76404778}]}

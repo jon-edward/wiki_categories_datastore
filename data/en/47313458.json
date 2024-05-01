@@ -1,1 +1,1 @@
-{"name": "Der_Spiegel", "id": 47313458, "predecessors": [{"name": "Magazines_published_in_Hamburg", "id": 47086212}], "successors": [{"name": "Der_Spiegel_people", "id": 47313518}]}
+{"name": "Der_Spiegel", "id": 47313458, "predecessors": [{"name": "Magazines_established_in_1947", "id": 28853680}, {"name": "Magazines_published_in_Hamburg", "id": 47086212}], "successors": [{"name": "Der_Spiegel_people", "id": 47313518}]}

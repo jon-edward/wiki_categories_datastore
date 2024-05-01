@@ -1,1 +1,1 @@
-{"name": "Boli_renale", "id": 876630, "predecessors": [{"name": "Boli_ale_sistemului_urinar", "id": 876629}, {"name": "Rinichi", "id": 425259}], "successors": [{"name": "Decese_cauzate_de_insuficiență_renală", "id": 2971550}]}
+{"name": "Boli_renale", "id": 876630, "predecessors": [{"name": "Rinichi", "id": 425259}, {"name": "Aparatul_urogenital", "id": 204004}], "successors": [{"name": "Decese_cauzate_de_insuficiență_renală", "id": 2971550}]}

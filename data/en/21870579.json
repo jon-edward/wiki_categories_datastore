@@ -1,1 +1,1 @@
-{"name": "Free_boot_loaders", "id": 21870579, "predecessors": [{"name": "Boot_loaders", "id": 4665782}, {"name": "Free_system_software", "id": 6721544}, {"name": "Open-source_hardware", "id": 38962167}, {"name": "Free_software_operating_systems", "id": 1337950}], "successors": []}
+{"name": "Free_boot_loaders", "id": 21870579, "predecessors": [{"name": "Open-source_hardware", "id": 38962167}], "successors": []}

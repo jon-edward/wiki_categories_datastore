@@ -1,1 +1,1 @@
-{"name": "Internet_hoaxes", "id": 9716684, "predecessors": [{"name": "Hoaxes", "id": 746414}, {"name": "Internet_culture", "id": 716238}, {"name": "Internet_humor", "id": 44568745}], "successors": [{"name": "Fake_news", "id": 52331877}]}
+{"name": "Internet_hoaxes", "id": 9716684, "predecessors": [{"name": "Hoaxes", "id": 746414}, {"name": "Internet_culture", "id": 716238}, {"name": "Internet_humor", "id": 44568745}], "successors": [{"name": "Virus_hoaxes", "id": 3565902}, {"name": "Fake_news", "id": 52331877}]}

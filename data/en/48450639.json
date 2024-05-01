@@ -1,1 +1,1 @@
-{"name": "Silurian_arthropods_of_Europe", "id": 48450639, "predecessors": [{"name": "Silurian_animals_of_Europe", "id": 47564123}, {"name": "Paleozoic_animals_of_Europe", "id": 47564125}], "successors": [{"name": "Silurian_trilobites_of_Europe", "id": 47622182}]}
+{"name": "Silurian_arthropods_of_Europe", "id": 48450639, "predecessors": [{"name": "Silurian_animals_of_Europe", "id": 47564123}, {"name": "Silurian_arthropods", "id": 40879769}, {"name": "Paleozoic_invertebrates", "id": 50580224}], "successors": [{"name": "Silurian_trilobites_of_Europe", "id": 47622182}]}

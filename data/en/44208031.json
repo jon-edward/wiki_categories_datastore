@@ -1,1 +1,1 @@
-{"name": "Monotypic_lizard_genera", "id": 44208031, "predecessors": [{"name": "Monotypic_animal_genera", "id": 17768218}], "successors": []}
+{"name": "Monotypic_lizard_genera", "id": 44208031, "predecessors": [{"name": "Lizard_genera", "id": 44207848}, {"name": "Reptile_genera", "id": 42203435}], "successors": []}

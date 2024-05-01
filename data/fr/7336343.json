@@ -1,1 +1,0 @@
-{"name": "Fabricant_de_guitares", "id": 7336343, "predecessors": [{"name": "Entreprise_de_facture_instrumentale", "id": 3144478}, {"name": "Guitare", "id": 273511}], "successors": [{"name": "Guitare_Gibson", "id": 1690431}, {"name": "Fender", "id": 4806482}]}

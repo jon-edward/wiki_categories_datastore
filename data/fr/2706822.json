@@ -1,1 +1,0 @@
-{"name": "Site_web_marchand", "id": 2706822, "predecessors": [{"name": "Commerce_électronique", "id": 1595422}, {"name": "Entreprise_Internet", "id": 2447489}, {"name": "Site_web", "id": 5663028}, {"name": "Commerce", "id": 84952}], "successors": [{"name": "Site_web_de_petites_annonces", "id": 12053194}, {"name": "Site_web_de_vente_de_jeux_vidéo", "id": 12264854}]}

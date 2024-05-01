@@ -1,1 +1,1 @@
-{"name": "Biofuels_technology", "id": 46959594, "predecessors": [{"name": "Bioenergy", "id": 9484434}, {"name": "Biotechnology", "id": 888826}, {"name": "Renewable_energy_technology", "id": 18057434}], "successors": [{"name": "Hydrogen_biology", "id": 7105413}]}
+{"name": "Biofuels_technology", "id": 46959594, "predecessors": [{"name": "Biotechnology", "id": 888826}, {"name": "Renewable_energy_technology", "id": 18057434}], "successors": [{"name": "Hydrogen_biology", "id": 7105413}, {"name": "Biogas_substrates", "id": 70502969}]}

@@ -1,1 +1,1 @@
-{"name": "Antropometrie", "id": 2926030, "predecessors": [{"name": "Aspectul_uman", "id": 1706506}, {"name": "Biometrie", "id": 1246090}, {"name": "Ergonomie", "id": 1353100}, {"name": "Măsurare", "id": 187123}, {"name": "Retorică", "id": 61122}], "successors": []}
+{"name": "Antropometrie", "id": 2926030, "predecessors": [{"name": "Aspectul_uman", "id": 1706506}, {"name": "Măsurare", "id": 187123}, {"name": "Documente_de_identificare", "id": 1017002}, {"name": "Retorică", "id": 61122}, {"name": "Științe_aplicate", "id": 761030}], "successors": []}

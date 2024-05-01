@@ -1,1 +1,1 @@
-{"name": "Eastern_Pacific_tropical_storms", "id": 15017893, "predecessors": [{"name": "Tropical_cyclones", "id": 763310}], "successors": []}
+{"name": "Eastern_Pacific_tropical_storms", "id": 15017893, "predecessors": [{"name": "Pacific_hurricanes", "id": 1001047}, {"name": "Tropical_cyclones", "id": 763310}], "successors": []}

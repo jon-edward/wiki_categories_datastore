@@ -1,1 +1,1 @@
-{"name": "String_metrics", "id": 9833053, "predecessors": [{"name": "Algorithms_on_strings", "id": 704505}, {"name": "Information_theory", "id": 694025}, {"name": "String_(computer_science)", "id": 33512329}, {"name": "Distance", "id": 56650552}], "successors": []}
+{"name": "String_metrics", "id": 9833053, "predecessors": [{"name": "Algorithms_on_strings", "id": 704505}, {"name": "Information_theory", "id": 694025}, {"name": "Similarity_measures", "id": 53388271}, {"name": "String_(computer_science)", "id": 33512329}], "successors": []}

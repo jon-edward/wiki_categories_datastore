@@ -1,1 +1,1 @@
-{"name": "Compuși_ai_fosforului", "id": 1802808, "predecessors": [{"name": "Fosfor", "id": 935376}, {"name": "Compuși_chimici", "id": 749556}], "successors": [{"name": "Fosfați", "id": 1802812}, {"name": "Compuși_organofosforați", "id": 2951706}]}
+{"name": "Compuși_ai_fosforului", "id": 1802808, "predecessors": [{"name": "Compuși_chimici", "id": 749556}, {"name": "Elemente_chimice", "id": 42004}], "successors": [{"name": "Fosfați", "id": 1802812}, {"name": "Compuși_organofosforați", "id": 2951706}]}

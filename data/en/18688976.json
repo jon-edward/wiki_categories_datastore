@@ -1,0 +1,1 @@
+{"name": "Energy_in_transport", "id": 18688976, "predecessors": [{"name": "Energy", "id": 865456}, {"name": "Transport", "id": 5523119}, {"name": "Transport_and_the_environment", "id": 25405960}], "successors": [{"name": "Electric_vehicles", "id": 961956}, {"name": "Aerodynamics", "id": 1303037}]}

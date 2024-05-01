@@ -1,1 +1,1 @@
-{"name": "Language_textbooks", "id": 42617157, "predecessors": [{"name": "Language_education_materials", "id": 28083736}, {"name": "Textbooks", "id": 8123675}], "successors": []}
+{"name": "Language_textbooks", "id": 42617157, "predecessors": [{"name": "Language_education_materials", "id": 28083736}, {"name": "Textbooks", "id": 8123675}], "successors": [{"name": "Latin_textbooks", "id": 24935688}]}

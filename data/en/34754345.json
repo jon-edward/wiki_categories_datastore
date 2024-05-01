@@ -1,1 +1,1 @@
-{"name": "Gardens_in_Piedmont", "id": 34754345, "predecessors": [{"name": "Parks_in_Piedmont", "id": 34707314}, {"name": "Tourist_attractions_in_Piedmont", "id": 34700112}, {"name": "Gardens_in_Italy", "id": 2943077}], "successors": []}
+{"name": "Gardens_in_Piedmont", "id": 34754345, "predecessors": [{"name": "Parks_in_Piedmont", "id": 34707314}, {"name": "Tourist_attractions_in_Piedmont", "id": 34700112}, {"name": "Piedmont", "id": 1213186}, {"name": "Gardens_in_Italy", "id": 2943077}], "successors": []}

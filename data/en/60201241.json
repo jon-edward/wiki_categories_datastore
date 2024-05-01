@@ -1,1 +1,1 @@
-{"name": "Scientific_misconduct_incidents", "id": 60201241, "predecessors": [{"name": "Science_events", "id": 13887373}, {"name": "Scientific_misconduct", "id": 3894031}], "successors": [{"name": "Archaeological_forgeries", "id": 24454155}, {"name": "MMR_vaccine_and_autism", "id": 61409152}]}
+{"name": "Scientific_misconduct_incidents", "id": 60201241, "predecessors": [{"name": "Scientific_misconduct", "id": 3894031}], "successors": [{"name": "MMR_vaccine_and_autism", "id": 61409152}]}

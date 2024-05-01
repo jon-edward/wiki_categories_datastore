@@ -1,1 +1,1 @@
-{"name": "Sound_cards", "id": 4287554, "predecessors": [{"name": "Computer_peripherals", "id": 3547205}, {"name": "Digital_audio", "id": 880411}, {"name": "Sound_recording_technology", "id": 2497443}], "successors": []}
+{"name": "Sound_cards", "id": 4287554, "predecessors": [{"name": "Computer_output_devices", "id": 5241342}, {"name": "Digital_audio", "id": 880411}, {"name": "Sound_recording_technology", "id": 2497443}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Istoria_Levantului", "id": 2884671, "predecessors": [{"name": "Istoria_Mării_Mediterane", "id": 578416}, {"name": "Istoria_Orientului_Mijlociu", "id": 187396}, {"name": "Levant", "id": 253229}], "successors": []}
+{"name": "Istoria_Levantului", "id": 2884671, "predecessors": [{"name": "Istoria_Orientului_Mijlociu", "id": 187396}, {"name": "Levant", "id": 253229}, {"name": "Istoria_Europei", "id": 22920}], "successors": []}

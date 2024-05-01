@@ -1,1 +1,1 @@
-{"name": "Newspapers_published_in_Toronto", "id": 12553085, "predecessors": [{"name": "Communications_in_Ontario", "id": 11579445}, {"name": "Science_and_technology_in_Canada", "id": 2325678}], "successors": [{"name": "Toronto_Star", "id": 30649278}]}
+{"name": "Newspapers_published_in_Toronto", "id": 12553085, "predecessors": [{"name": "Mass_media_in_Toronto", "id": 18896544}, {"name": "Science_and_technology_in_Canada", "id": 2325678}], "successors": [{"name": "Toronto_Star", "id": 30649278}, {"name": "The_Globe_and_Mail", "id": 30649985}]}

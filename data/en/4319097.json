@@ -1,1 +1,1 @@
-{"name": "Extinct_marsupials", "id": 4319097, "predecessors": [{"name": "Marsupials", "id": 1620496}, {"name": "Cladotheria", "id": 66197309}], "successors": [{"name": "Prehistoric_marsupial_genera", "id": 49612155}, {"name": "Oligocene_marsupials", "id": 38282791}, {"name": "Pleistocene_marsupials", "id": 38310243}, {"name": "Miocene_marsupials", "id": 38282789}, {"name": "Pliocene_marsupials", "id": 38295243}]}
+{"name": "Extinct_marsupials", "id": 4319097, "predecessors": [{"name": "Marsupials", "id": 1620496}, {"name": "Extinct_mammals", "id": 3782789}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Nitrites", "id": 2277549, "predecessors": [{"name": "Chemical_compounds", "id": 695235}, {"name": "Nitrogen_compounds", "id": 903300}], "successors": [{"name": "Alkyl_nitrites", "id": 1792858}]}
+{"name": "Nitrites", "id": 2277549, "predecessors": [{"name": "Oxygen_compounds", "id": 1692041}], "successors": [{"name": "Alkyl_nitrites", "id": 1792858}]}

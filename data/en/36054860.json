@@ -1,1 +1,1 @@
-{"name": "Types_of_amputations", "id": 36054860, "predecessors": [{"name": "Amputations", "id": 36054784}], "successors": [{"name": "Congenital_amputations", "id": 36054901}]}
+{"name": "Types_of_amputations", "id": 36054860, "predecessors": [{"name": "Amputations", "id": 36054784}, {"name": "Surgical_removal_procedures", "id": 2336456}], "successors": [{"name": "Congenital_amputations", "id": 36054901}]}

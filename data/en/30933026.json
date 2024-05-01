@@ -1,1 +1,1 @@
-{"name": "Fish_of_Taiwan", "id": 30933026, "predecessors": [{"name": "Fish_of_East_Asia", "id": 5748775}, {"name": "Environment_of_Taiwan", "id": 9915153}, {"name": "Fauna_of_East_Asia", "id": 5788927}], "successors": [{"name": "Freshwater_fish_of_Taiwan", "id": 37200208}]}
+{"name": "Fish_of_Taiwan", "id": 30933026, "predecessors": [{"name": "Fish_of_East_Asia", "id": 5748775}, {"name": "Environment_of_Taiwan", "id": 9915153}, {"name": "Fauna_of_Taiwan", "id": 6194683}], "successors": [{"name": "Freshwater_fish_of_Taiwan", "id": 37200208}]}

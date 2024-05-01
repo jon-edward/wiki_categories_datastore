@@ -1,1 +1,1 @@
-{"name": "Bayonets", "id": 11652314, "predecessors": [{"name": "Firearm_components", "id": 1033336}], "successors": [{"name": "Deaths_by_bayonet", "id": 39020534}]}
+{"name": "Bayonets", "id": 11652314, "predecessors": [{"name": "Firearm_components", "id": 1033336}, {"name": "Military_knives", "id": 21248611}], "successors": []}

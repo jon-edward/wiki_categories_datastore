@@ -1,1 +1,1 @@
-{"name": "Bridges_in_Anhui", "id": 36923397, "predecessors": [{"name": "Transport_in_Anhui", "id": 19634839}, {"name": "Bridges_in_China", "id": 1667602}], "successors": []}
+{"name": "Bridges_in_Anhui", "id": 36923397, "predecessors": [{"name": "Transport_in_Anhui", "id": 19634839}, {"name": "East_China", "id": 48287726}, {"name": "Bridges_in_China", "id": 1667602}], "successors": []}

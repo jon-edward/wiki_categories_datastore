@@ -1,1 +1,1 @@
-{"name": "Solar_cells", "id": 18525623, "predecessors": [{"name": "Photovoltaics", "id": 17899952}, {"name": "Semiconductor_devices", "id": 3375921}], "successors": [{"name": "Thin-film_cells", "id": 19347765}]}
+{"name": "Solar_cells", "id": 18525623, "predecessors": [{"name": "Photovoltaics", "id": 17899952}, {"name": "Semiconductor_devices", "id": 3375921}], "successors": [{"name": "Thin-film_cells", "id": 19347765}, {"name": "Silicon_solar_cells", "id": 19801591}]}

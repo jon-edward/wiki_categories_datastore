@@ -1,1 +1,1 @@
-{"name": "Buddhism_studies_books", "id": 14767372, "predecessors": [{"name": "Books_about_Buddhism", "id": 42074513}, {"name": "Religious_studies_books", "id": 1234773}, {"name": "Cultural_studies", "id": 1826208}], "successors": [{"name": "Zen_studies_books", "id": 15351923}]}
+{"name": "Buddhism_studies_books", "id": 14767372, "predecessors": [{"name": "Books_about_Buddhism", "id": 42074513}, {"name": "Religious_studies_books", "id": 1234773}, {"name": "Religious_studies", "id": 3144983}], "successors": [{"name": "Zen_studies_books", "id": 15351923}]}

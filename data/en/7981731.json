@@ -1,1 +1,1 @@
-{"name": "Surya_temples", "id": 7981731, "predecessors": [{"name": "Sun_temples", "id": 41590949}, {"name": "Hindu_temples", "id": 724754}, {"name": "Adityas", "id": 4191888}, {"name": "Navagraha", "id": 43691457}], "successors": []}
+{"name": "Surya_temples", "id": 7981731, "predecessors": [{"name": "Sun_temples", "id": 41590949}, {"name": "Surya", "id": 64990116}, {"name": "Navagraha", "id": 43691457}], "successors": []}

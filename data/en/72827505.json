@@ -1,1 +1,1 @@
-{"name": "Refrigerators", "id": 72827505, "predecessors": [{"name": "Cooling_technology", "id": 1150943}, {"name": "Home_appliances", "id": 1392560}], "successors": [{"name": "Refrigerator_car_lines_of_the_United_States", "id": 3318067}]}
+{"name": "Refrigerators", "id": 72827505, "predecessors": [{"name": "Home_appliances", "id": 1392560}], "successors": [{"name": "Refrigerator_car_lines_of_the_United_States", "id": 3318067}]}

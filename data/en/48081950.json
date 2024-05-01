@@ -1,1 +1,1 @@
-{"name": "Oligocene_caniforms", "id": 48081950, "predecessors": [{"name": "Cladotheria", "id": 66197309}], "successors": [{"name": "Oligocene_canids", "id": 48081960}]}
+{"name": "Oligocene_caniforms", "id": 48081950, "predecessors": [{"name": "Carnivorans", "id": 24597400}, {"name": "Extinct_carnivorans", "id": 28367404}], "successors": [{"name": "Oligocene_canids", "id": 48081960}]}

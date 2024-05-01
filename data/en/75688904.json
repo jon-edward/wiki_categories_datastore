@@ -1,1 +1,1 @@
-{"name": "Thyroid_hormone_transporters", "id": 75688904, "predecessors": [{"name": "Thyroid", "id": 37920871}, {"name": "Transmembrane_transporters", "id": 12215157}], "successors": []}
+{"name": "Thyroid_hormone_transporters", "id": 75688904, "predecessors": [{"name": "Thyroid", "id": 37920871}, {"name": "Transmembrane_transporters", "id": 12215157}, {"name": "Transport_proteins", "id": 8835983}], "successors": []}

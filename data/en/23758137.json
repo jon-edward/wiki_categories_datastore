@@ -1,1 +1,1 @@
-{"name": "Pastry_chefs", "id": 23758137, "predecessors": [{"name": "Chefs", "id": 902960}, {"name": "Confectioners", "id": 24604554}], "successors": []}
+{"name": "Pastry_chefs", "id": 23758137, "predecessors": [{"name": "Chefs", "id": 902960}, {"name": "Confectioners", "id": 24604554}, {"name": "Pastries", "id": 41673232}], "successors": []}

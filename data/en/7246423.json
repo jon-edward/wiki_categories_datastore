@@ -1,1 +1,1 @@
-{"name": "Meteorology_and_climate_education", "id": 7246423, "predecessors": [{"name": "Education_by_subject", "id": 2477717}, {"name": "Oceanography", "id": 716910}], "successors": []}
+{"name": "Meteorology_and_climate_education", "id": 7246423, "predecessors": [{"name": "Climate", "id": 795061}, {"name": "Education_by_subject", "id": 2477717}, {"name": "Atmospheric_sciences", "id": 3407606}], "successors": []}

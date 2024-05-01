@@ -1,1 +1,1 @@
-{"name": "Pleistocene_Asia", "id": 47508384, "predecessors": [{"name": "Geology_of_Asia", "id": 25706151}], "successors": [{"name": "Pleistocene_mammals_of_Asia", "id": 46828271}]}
+{"name": "Pleistocene_Asia", "id": 47508384, "predecessors": [{"name": "Pleistocene", "id": 1783838}, {"name": "Geology_of_Asia", "id": 25706151}, {"name": "Quaternary", "id": 7211112}], "successors": [{"name": "Pleistocene_mammals_of_Asia", "id": 46828271}]}

@@ -1,1 +1,1 @@
-{"name": "Telefonia", "id": 6428, "predecessors": [{"name": "Telekomunikazioak", "id": 6344}], "successors": [{"name": "Telefonia_mugikorra", "id": 50520}]}
+{"name": "Telefonia", "id": 6428, "predecessors": [{"name": "Ahozko_komunikazioa", "id": 1180964}, {"name": "Telekomunikazioak", "id": 6344}], "successors": [{"name": "Telefonia_mugikorra", "id": 50520}]}

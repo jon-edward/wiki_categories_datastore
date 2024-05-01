@@ -1,1 +1,1 @@
-{"name": "Benetton_Formula", "id": 67117739, "predecessors": [{"name": "Clothing_companies_of_Italy", "id": 7294527}], "successors": []}
+{"name": "Benetton_Formula", "id": 67117739, "predecessors": [{"name": "Benetton_Group", "id": 39018339}, {"name": "Formula_One_constructors", "id": 1114331}], "successors": [{"name": "Benetton_Formula_One_cars", "id": 7684903}, {"name": "Benetton_Formula_One_drivers", "id": 32416388}]}

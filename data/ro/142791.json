@@ -1,1 +1,1 @@
-{"name": "Secte", "id": 142791, "predecessors": [{"name": "Religie_și_societate", "id": 759704}], "successors": [{"name": "MISA", "id": 108591}, {"name": "Secte_islamice", "id": 1112813}, {"name": "Secte_creștine", "id": 1164767}]}
+{"name": "Secte", "id": 142791, "predecessors": [{"name": "Societate", "id": 23611}], "successors": [{"name": "Secte_islamice", "id": 1112813}, {"name": "Secte_creștine", "id": 1164767}]}

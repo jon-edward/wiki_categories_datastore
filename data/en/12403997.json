@@ -1,1 +1,1 @@
-{"name": "Aviation_trade_unions", "id": 12403997, "predecessors": [{"name": "Transportation_trade_unions", "id": 41311451}, {"name": "Aviation_organizations", "id": 15340576}], "successors": []}
+{"name": "Aviation_trade_unions", "id": 12403997, "predecessors": [{"name": "Aviation_organizations", "id": 15340576}], "successors": [{"name": "Airline_pilots'_trade_unions", "id": 41311209}]}

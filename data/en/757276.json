@@ -1,1 +1,1 @@
-{"name": "1983_books", "id": 757276, "predecessors": [{"name": "20th-century_literature", "id": 38322217}], "successors": []}
+{"name": "1983_books", "id": 757276, "predecessors": [{"name": "20th_century", "id": 884457}, {"name": "20th-century_literature", "id": 38322217}], "successors": [{"name": "1983_novels", "id": 4615370}, {"name": "1983_short_story_collections", "id": 31992481}, {"name": "1983_children's_books", "id": 53976564}, {"name": "1983_non-fiction_books", "id": 59319478}, {"name": "1983_anthologies", "id": 70648833}]}

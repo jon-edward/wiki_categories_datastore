@@ -1,1 +1,0 @@
-{"name": "Cuisson_alimentaire", "id": 2020499, "predecessors": [{"name": "Technique_culinaire", "id": 207669}, {"name": "Transfert_thermique", "id": 2755250}], "successors": [{"name": "Appareil_de_cuisson", "id": 3256976}, {"name": "Récipient_de_cuisson", "id": 3317629}, {"name": "Technique_de_cuisson", "id": 6578530}]}

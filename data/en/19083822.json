@@ -1,1 +1,1 @@
-{"name": "Bus_transportation_in_Georgia_(U.S._state)", "id": 19083822, "predecessors": [{"name": "Transportation_in_Georgia_(U.S._state)", "id": 780769}], "successors": [{"name": "Metropolitan_Atlanta_Rapid_Transit_Authority", "id": 17697220}]}
+{"name": "Bus_transportation_in_Georgia_(U.S._state)", "id": 19083822, "predecessors": [{"name": "Transportation_in_Georgia_(U.S._state)", "id": 780769}, {"name": "Bus_transportation_in_the_United_States", "id": 4710741}], "successors": [{"name": "Metropolitan_Atlanta_Rapid_Transit_Authority", "id": 17697220}]}

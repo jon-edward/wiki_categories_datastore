@@ -1,1 +1,1 @@
-{"name": "Typhoid_fever", "id": 39288015, "predecessors": [{"name": "Foodborne_illnesses", "id": 1081967}], "successors": [{"name": "Deaths_from_typhoid_fever", "id": 18554988}]}
+{"name": "Typhoid_fever", "id": 39288015, "predecessors": [{"name": "Salmonellosis", "id": 33254566}, {"name": "Vaccine-preventable_diseases", "id": 56263158}], "successors": [{"name": "Deaths_from_typhoid_fever", "id": 18554988}]}

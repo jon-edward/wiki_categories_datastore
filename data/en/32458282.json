@@ -1,1 +1,1 @@
-{"name": "Event_venues_established_in_1925", "id": 32458282, "predecessors": [{"name": "Event_management", "id": 38591267}], "successors": [{"name": "Theatres_completed_in_1925", "id": 33927575}]}
+{"name": "Event_venues_established_in_1925", "id": 32458282, "predecessors": [{"name": "Buildings_and_structures_completed_in_1925", "id": 29943674}, {"name": "Event_management", "id": 38591267}, {"name": "20th_century", "id": 884457}], "successors": [{"name": "Theatres_completed_in_1925", "id": 33927575}, {"name": "Sports_venues_completed_in_1925", "id": 36668396}]}

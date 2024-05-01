@@ -1,1 +1,1 @@
-{"name": "Ustensile_de_curățare", "id": 960974, "predecessors": [{"name": "Curățare", "id": 960987}, {"name": "Unelte", "id": 129232}], "successors": []}
+{"name": "Ustensile_de_curățare", "id": 960974, "predecessors": [{"name": "Unelte", "id": 129232}, {"name": "Igienă", "id": 69479}], "successors": []}

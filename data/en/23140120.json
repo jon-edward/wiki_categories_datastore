@@ -1,1 +1,1 @@
-{"name": "Higher_education_in_Portugal", "id": 23140120, "predecessors": [{"name": "Higher_education_by_country", "id": 10436912}, {"name": "Education_in_Portugal", "id": 2481161}], "successors": [{"name": "Polytechnics_in_Portugal", "id": 14033033}]}
+{"name": "Higher_education_in_Portugal", "id": 23140120, "predecessors": [{"name": "Education_in_Portugal", "id": 2481161}], "successors": [{"name": "Polytechnics_in_Portugal", "id": 14033033}, {"name": "Universities_in_Portugal", "id": 14033018}]}

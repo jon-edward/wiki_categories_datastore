@@ -1,1 +1,1 @@
-{"name": "Morganatic_spouses", "id": 22589192, "predecessors": [{"name": "Marriage", "id": 744826}, {"name": "Social_classes", "id": 2984555}], "successors": [{"name": "Morganatic_spouses_of_Russian_royalty", "id": 53583859}, {"name": "Morganatic_spouses_of_German_royalty", "id": 54522975}]}
+{"name": "Morganatic_spouses", "id": 22589192, "predecessors": [{"name": "Families", "id": 787897}, {"name": "Exogamy", "id": 65084672}], "successors": [{"name": "Morganatic_spouses_of_Russian_royalty", "id": 53583859}, {"name": "Morganatic_spouses_of_German_royalty", "id": 54522975}]}

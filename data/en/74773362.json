@@ -1,1 +1,1 @@
-{"name": "19th-century_slave_traders", "id": 74773362, "predecessors": [{"name": "Slave_owners", "id": 45188171}], "successors": [{"name": "19th-century_American_slave_traders", "id": 74571942}]}
+{"name": "19th-century_slave_traders", "id": 74773362, "predecessors": [{"name": "19th-century_merchants", "id": 50392813}, {"name": "Slave_trade", "id": 1938304}], "successors": [{"name": "19th-century_American_slave_traders", "id": 74571942}]}

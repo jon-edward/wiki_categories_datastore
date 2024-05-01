@@ -1,1 +1,1 @@
-{"name": "Turbine_hidraulice", "id": 812883, "predecessors": [{"name": "Mașini_hidraulice", "id": 753897}, {"name": "Inginerie_mecanică", "id": 189871}], "successors": []}
+{"name": "Turbine_hidraulice", "id": 812883, "predecessors": [{"name": "Inginerie_mecanică", "id": 189871}, {"name": "Hidraulică", "id": 291820}], "successors": []}

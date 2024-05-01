@@ -1,1 +1,1 @@
-{"name": "Ženský_sport_v_USA", "id": 1885344, "predecessors": [{"name": "Americká_společnost", "id": 863450}, {"name": "Sport", "id": 4646}], "successors": [{"name": "Americké_sportovkyně", "id": 1126949}, {"name": "Ženské_sportovní_soutěže_v_USA", "id": 1894499}]}
+{"name": "Ženský_sport_v_USA", "id": 1885344, "predecessors": [{"name": "Sport_v_USA", "id": 104354}, {"name": "Sport", "id": 4646}, {"name": "Americká_společnost", "id": 863450}], "successors": [{"name": "Americké_sportovkyně", "id": 1126949}, {"name": "Ženské_sportovní_soutěže_v_USA", "id": 1894499}]}

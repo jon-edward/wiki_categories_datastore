@@ -1,1 +1,1 @@
-{"name": "Proposed_coal-fired_power_stations", "id": 27704772, "predecessors": [{"name": "Coal", "id": 1103533}, {"name": "Fossil_fuels", "id": 1103439}], "successors": []}
+{"name": "Proposed_coal-fired_power_stations", "id": 27704772, "predecessors": [{"name": "Coal-fired_power_stations", "id": 7518294}, {"name": "Fossil_fuels", "id": 1103439}], "successors": []}

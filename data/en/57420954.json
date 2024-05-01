@@ -1,1 +1,1 @@
-{"name": "Interquel_films", "id": 57420954, "predecessors": [{"name": "Prequel_films", "id": 15211726}, {"name": "Narrative_forms", "id": 3245270}], "successors": [{"name": "Direct-to-video_interquel_films", "id": 38491210}]}
+{"name": "Interquel_films", "id": 57420954, "predecessors": [{"name": "Prequel_films", "id": 15211726}, {"name": "Sequel_films", "id": 3171646}, {"name": "Narrative_forms", "id": 3245270}], "successors": [{"name": "Direct-to-video_interquel_films", "id": 38491210}]}

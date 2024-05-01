@@ -1,1 +1,1 @@
-{"name": "Data_unit", "id": 6156939, "predecessors": [{"name": "Computer_arithmetic", "id": 782015}, {"name": "Computer_memory", "id": 877797}, {"name": "Digital_registers", "id": 4588627}, {"name": "Units_of_information", "id": 756539}], "successors": [{"name": "IEC_prefixes", "id": 47598998}]}
+{"name": "Data_unit", "id": 6156939, "predecessors": [{"name": "Computer_memory", "id": 877797}, {"name": "Digital_registers", "id": 4588627}, {"name": "Units_of_information", "id": 756539}], "successors": [{"name": "IEC_prefixes", "id": 47598998}]}

@@ -1,1 +1,1 @@
-{"name": "Mining_in_Mexico", "id": 7640401, "predecessors": [{"name": "Geology_of_Mexico", "id": 20832464}, {"name": "Mining", "id": 843521}, {"name": "Economy_of_Mexico", "id": 1857306}], "successors": [{"name": "Mines_in_Mexico", "id": 3044747}, {"name": "Silver_mines_in_Mexico", "id": 12975602}]}
+{"name": "Mining_in_Mexico", "id": 7640401, "predecessors": [{"name": "Geology_of_Mexico", "id": 20832464}, {"name": "Economy_of_Mexico", "id": 1857306}], "successors": [{"name": "Mines_in_Mexico", "id": 3044747}, {"name": "Silver_mines_in_Mexico", "id": 12975602}]}

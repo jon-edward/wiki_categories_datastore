@@ -1,1 +1,1 @@
-{"name": "Individual_polar_bears", "id": 31823350, "predecessors": [{"name": "Apex_predators", "id": 45401087}], "successors": []}
+{"name": "Individual_polar_bears", "id": 31823350, "predecessors": [{"name": "Individual_bears", "id": 31823331}, {"name": "Polar_bears", "id": 17179466}, {"name": "Marine_mammals", "id": 3135264}], "successors": []}

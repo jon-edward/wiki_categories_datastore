@@ -1,1 +1,1 @@
-{"name": "Companies_based_in_Kanagawa_Prefecture", "id": 24919835, "predecessors": [{"name": "Companies_of_Japan", "id": 736471}, {"name": "Countries_in_Asia", "id": 37691781}, {"name": "Kantō_region", "id": 7501374}], "successors": [{"name": "Companies_based_in_Yokohama", "id": 30652131}]}
+{"name": "Companies_based_in_Kanagawa_Prefecture", "id": 24919835, "predecessors": [{"name": "Companies_of_Japan", "id": 736471}, {"name": "Japan", "id": 691585}, {"name": "Kantō_region", "id": 7501374}], "successors": [{"name": "Companies_based_in_Yokohama", "id": 30652131}]}

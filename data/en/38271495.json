@@ -1,1 +1,1 @@
-{"name": "Miocene_carnivorans", "id": 38271495, "predecessors": [{"name": "Cladotheria", "id": 66197309}], "successors": [{"name": "Miocene_pinnipeds", "id": 48066032}, {"name": "Miocene_bears", "id": 48066100}, {"name": "Miocene_feliforms", "id": 48081399}]}
+{"name": "Miocene_carnivorans", "id": 38271495, "predecessors": [{"name": "Extinct_carnivorans", "id": 28367404}, {"name": "Cenozoic", "id": 1783752}], "successors": [{"name": "Miocene_pinnipeds", "id": 48066032}, {"name": "Miocene_bears", "id": 48066100}, {"name": "Miocene_feliforms", "id": 48081399}]}

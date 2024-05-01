@@ -1,1 +1,1 @@
-{"name": "Geoglyphs", "id": 1311553, "predecessors": [{"name": "Cultural_geography", "id": 2643311}, {"name": "Land_art", "id": 1476091}, {"name": "Prehistoric_art", "id": 12413925}, {"name": "Rock_art", "id": 6372817}], "successors": [{"name": "Nazca_Lines", "id": 76317091}]}
+{"name": "Geoglyphs", "id": 1311553, "predecessors": [{"name": "Land_art", "id": 1476091}, {"name": "Rock_art", "id": 6372817}, {"name": "Navigation", "id": 716308}], "successors": [{"name": "Nazca_Lines", "id": 76317091}, {"name": "Hill_figures_in_the_United_States", "id": 33024589}]}

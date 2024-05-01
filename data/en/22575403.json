@@ -1,1 +1,1 @@
-{"name": "World_War_II_spies_for_the_Soviet_Union", "id": 22575403, "predecessors": [{"name": "Soviet_Union_intelligence_operations", "id": 25175127}], "successors": [{"name": "Red_Orchestra_(espionage)", "id": 18916854}]}
+{"name": "World_War_II_spies_for_the_Soviet_Union", "id": 22575403, "predecessors": [{"name": "World_War_II_spies", "id": 762797}, {"name": "Soviet_Union_intelligence_operations", "id": 25175127}], "successors": [{"name": "Red_Orchestra_(espionage)", "id": 18916854}]}

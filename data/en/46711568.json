@@ -1,1 +1,1 @@
-{"name": "Vehicle_dynamics", "id": 46711568, "predecessors": [{"name": "Automotive_technologies", "id": 859604}, {"name": "Dynamics_(mechanics)", "id": 44366494}], "successors": [{"name": "Tires", "id": 2341191}]}
+{"name": "Vehicle_dynamics", "id": 46711568, "predecessors": [{"name": "Automotive_technologies", "id": 859604}], "successors": [{"name": "Tires", "id": 2341191}]}

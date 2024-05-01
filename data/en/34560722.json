@@ -1,1 +1,1 @@
-{"name": "Tourist_attractions_in_Savoie", "id": 34560722, "predecessors": [{"name": "Savoie", "id": 2800192}, {"name": "Tourism_in_France", "id": 2664305}], "successors": [{"name": "Sports_venues_in_Savoie", "id": 38924680}]}
+{"name": "Tourist_attractions_in_Savoie", "id": 34560722, "predecessors": [{"name": "Savoie", "id": 2800192}, {"name": "Tourism_in_France", "id": 2664305}, {"name": "Departments_of_Auvergne-Rhône-Alpes", "id": 49031095}], "successors": [{"name": "Sports_venues_in_Savoie", "id": 38924680}]}

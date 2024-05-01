@@ -1,1 +1,1 @@
-{"name": "Bani", "id": 892298, "predecessors": [{"name": "Sisteme_de_plăți", "id": 760077}, {"name": "Economie_monetară", "id": 892283}], "successors": [{"name": "Monedă", "id": 14149}, {"name": "Crize_economice", "id": 892282}, {"name": "Economie_monetară", "id": 892283}]}
+{"name": "Bani", "id": 892298, "predecessors": [{"name": "Sisteme_de_plăți", "id": 760077}, {"name": "Economie_monetară", "id": 892283}], "successors": [{"name": "Monedă", "id": 14149}, {"name": "Economie_monetară", "id": 892283}, {"name": "Crize_financiare", "id": 491503}]}

@@ -1,0 +1,1 @@
+{"name": "MBTA_bus", "id": 67962723, "predecessors": [{"name": "Bus_companies_of_the_United_States", "id": 19083938}, {"name": "Massachusetts_Bay_Transportation_Authority", "id": 11144050}, {"name": "Bus_transportation_in_Massachusetts", "id": 18909423}], "successors": [{"name": "MBTA_bus_routes", "id": 67962836}, {"name": "Silver_Line_(MBTA)_stations", "id": 55698329}]}

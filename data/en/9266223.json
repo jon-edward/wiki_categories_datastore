@@ -1,1 +1,1 @@
-{"name": "Yawls", "id": 9266223, "predecessors": [{"name": "Tall_ships", "id": 910250}], "successors": []}
+{"name": "Yawls", "id": 9266223, "predecessors": [{"name": "Sailboat_types", "id": 1618454}, {"name": "Tall_ships", "id": 910250}], "successors": []}

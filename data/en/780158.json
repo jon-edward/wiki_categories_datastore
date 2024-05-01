@@ -1,1 +1,1 @@
-{"name": "Antidotes", "id": 780158, "predecessors": [{"name": "Drugs", "id": 1325883}, {"name": "Toxicology", "id": 1043816}], "successors": []}
+{"name": "Antidotes", "id": 780158, "predecessors": [{"name": "Drugs", "id": 1325883}, {"name": "Emergency_medical_procedures", "id": 19402490}, {"name": "Toxicology_treatments", "id": 32638019}], "successors": []}

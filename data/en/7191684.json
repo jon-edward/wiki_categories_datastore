@@ -1,1 +1,1 @@
-{"name": "Cuisine_of_Piedmont", "id": 7191684, "predecessors": [{"name": "Piedmont", "id": 1213186}, {"name": "Culture_of_Italy", "id": 715520}], "successors": [{"name": "Wines_of_Piedmont", "id": 13578331}]}
+{"name": "Cuisine_of_Piedmont", "id": 7191684, "predecessors": [{"name": "Piedmont", "id": 1213186}, {"name": "Culture_of_Italy", "id": 715520}], "successors": [{"name": "Wines_of_Piedmont", "id": 13578331}, {"name": "Piedmontese_cheeses", "id": 43326630}]}

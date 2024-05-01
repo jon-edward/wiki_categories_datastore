@@ -1,1 +1,1 @@
-{"name": "Golf_i_2005", "id": 1783126, "predecessors": [{"name": "Sport_i_2005", "id": 68306}, {"name": "Golf", "id": 29579}], "successors": []}
+{"name": "Golf_i_2005", "id": 1783126, "predecessors": [{"name": "Golf", "id": 29579}, {"name": "Historie", "id": 13177}], "successors": []}

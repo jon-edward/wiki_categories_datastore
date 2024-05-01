@@ -1,1 +1,1 @@
-{"name": "VM_(operating_system)", "id": 61667918, "predecessors": [{"name": "IBM_software", "id": 859157}, {"name": "Time-sharing_operating_systems", "id": 20309215}, {"name": "IBM_computers", "id": 18066006}], "successors": []}
+{"name": "VM_(operating_system)", "id": 61667918, "predecessors": [{"name": "IBM_software", "id": 859157}, {"name": "IBM_computers", "id": 18066006}], "successors": []}

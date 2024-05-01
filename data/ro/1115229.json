@@ -1,1 +1,1 @@
-{"name": "Sistemul_bancar", "id": 1115229, "predecessors": [{"name": "Sistemul_financiar", "id": 1115224}], "successors": [{"name": "Bănci", "id": 23353}, {"name": "Bănci_din_Germania", "id": 651739}, {"name": "Sisteme_de_plăți", "id": 760077}]}
+{"name": "Sistemul_bancar", "id": 1115229, "predecessors": [{"name": "Sisteme_economice", "id": 180354}], "successors": [{"name": "Bănci", "id": 23353}, {"name": "Bănci_din_Germania", "id": 651739}, {"name": "Sisteme_de_plăți", "id": 760077}]}

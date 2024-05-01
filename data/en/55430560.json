@@ -1,1 +1,1 @@
-{"name": "Wildfire_suppression_equipment", "id": 55430560, "predecessors": [{"name": "Wildfire_suppression", "id": 5811261}], "successors": [{"name": "Aerial_firefighting_aircraft", "id": 55432297}]}
+{"name": "Wildfire_suppression_equipment", "id": 55430560, "predecessors": [{"name": "Firefighting_equipment", "id": 2012171}, {"name": "Wildfire_suppression", "id": 5811261}], "successors": [{"name": "Aerial_firefighting_aircraft", "id": 55432297}]}

@@ -1,1 +1,1 @@
-{"name": "Firearm_designers", "id": 1033538, "predecessors": [{"name": "Weapon_designers", "id": 1726766}, {"name": "Firearms", "id": 739385}], "successors": [{"name": "Gunsmiths", "id": 2354240}, {"name": "Ammunition_designers", "id": 25652599}]}
+{"name": "Firearm_designers", "id": 1033538, "predecessors": [{"name": "People_associated_with_firearms", "id": 22402645}, {"name": "Weapon_designers", "id": 1726766}], "successors": [{"name": "Gunsmiths", "id": 2354240}, {"name": "Ammunition_designers", "id": 25652599}]}

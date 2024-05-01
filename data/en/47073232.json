@@ -1,1 +1,1 @@
-{"name": "Toll_houses", "id": 47073232, "predecessors": [{"name": "Road_infrastructure", "id": 2963113}, {"name": "Toll_(fee)", "id": 68709429}], "successors": []}
+{"name": "Toll_houses", "id": 47073232, "predecessors": [{"name": "Road_infrastructure", "id": 2963113}, {"name": "Toll_(fee)", "id": 68709429}], "successors": [{"name": "Toll_houses_on_the_National_Register_of_Historic_Places", "id": 51570614}]}

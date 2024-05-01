@@ -1,1 +1,1 @@
-{"name": "C_n2t_locomotives", "id": 58004499, "predecessors": [{"name": "Tank_locomotives", "id": 30272352}, {"name": "Steam_locomotives", "id": 1248600}], "successors": []}
+{"name": "C_n2t_locomotives", "id": 58004499, "predecessors": [{"name": "Tank_locomotives", "id": 30272352}, {"name": "Steam_locomotives", "id": 1248600}, {"name": "C_locomotives", "id": 1935117}], "successors": []}

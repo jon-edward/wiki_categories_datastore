@@ -1,1 +1,1 @@
-{"name": "Plyny", "id": 265559, "predecessors": [{"name": "Skupenské_stavy_látek", "id": 264874}], "successors": [{"name": "Vodík", "id": 282952}, {"name": "Skleníkové_plyny", "id": 366764}, {"name": "Vzácné_plyny", "id": 1127512}]}
+{"name": "Plyny", "id": 265559, "predecessors": [{"name": "Skupenské_stavy_látek", "id": 264874}], "successors": [{"name": "Vodík", "id": 282952}, {"name": "Skleníkové_plyny", "id": 366764}, {"name": "Vzácné_plyny", "id": 1127512}, {"name": "Vakuum", "id": 1927875}]}

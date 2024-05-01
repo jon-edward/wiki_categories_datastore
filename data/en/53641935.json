@@ -1,1 +1,1 @@
-{"name": "Rare_syndromes", "id": 53641935, "predecessors": [{"name": "Rare_diseases", "id": 1116081}, {"name": "Syndromes", "id": 4678438}], "successors": [{"name": "Rare_genetic_syndromes", "id": 55667503}]}
+{"name": "Rare_syndromes", "id": 53641935, "predecessors": [{"name": "Rare_diseases", "id": 1116081}], "successors": [{"name": "Rare_genetic_syndromes", "id": 55667503}]}

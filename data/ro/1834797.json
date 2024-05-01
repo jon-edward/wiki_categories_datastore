@@ -1,1 +1,1 @@
-{"name": "Diagnostic_psihiatric", "id": 1834797, "predecessors": [{"name": "Diagnostic_medical", "id": 577868}, {"name": "Psihiatrie", "id": 30278}], "successors": [{"name": "Psihopatie", "id": 1834800}]}
+{"name": "Diagnostic_psihiatric", "id": 1834797, "predecessors": [{"name": "Diagnostic_medical", "id": 577868}, {"name": "Psihiatrie", "id": 30278}], "successors": []}

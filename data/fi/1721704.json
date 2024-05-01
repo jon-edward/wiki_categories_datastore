@@ -1,1 +1,1 @@
-{"name": "Linjalaivat", "id": 1721704, "predecessors": [{"name": "Laivatyypit", "id": 70843}], "successors": [{"name": "Titanic", "id": 58757}]}
+{"name": "Linjalaivat", "id": 1721704, "predecessors": [{"name": "Laivatyypit", "id": 70843}], "successors": [{"name": "Titanic", "id": 58757}, {"name": "Espanjan_laivaston_linjalaivat", "id": 1429729}, {"name": "Ruotsin_merivoimien_linjalaivat", "id": 981470}]}

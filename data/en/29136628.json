@@ -1,0 +1,1 @@
+{"name": "Cold_drinks", "id": 29136628, "predecessors": [{"name": "Drinks", "id": 1000234}], "successors": [{"name": "Soft_drinks", "id": 803741}, {"name": "Frozen_drinks", "id": 17742480}, {"name": "Iced_tea_brands", "id": 31088372}, {"name": "Flavored_milk", "id": 35278205}]}

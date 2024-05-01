@@ -1,1 +1,1 @@
-{"name": "F3_tornadoes", "id": 13677793, "predecessors": [{"name": "Tornado_outbreaks", "id": 31894726}], "successors": []}
+{"name": "F3_tornadoes", "id": 13677793, "predecessors": [{"name": "Tornado_outbreaks", "id": 31894726}], "successors": [{"name": "F3_tornadoes_by_date", "id": 59156081}]}

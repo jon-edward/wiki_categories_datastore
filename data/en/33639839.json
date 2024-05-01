@@ -1,1 +1,1 @@
-{"name": "Agricultural_robotics", "id": 33639839, "predecessors": [{"name": "Agricultural_machinery", "id": 1189821}, {"name": "E-agriculture", "id": 55606844}, {"name": "Robotics", "id": 853492}, {"name": "Automation", "id": 885076}], "successors": []}
+{"name": "Agricultural_robotics", "id": 33639839, "predecessors": [{"name": "Agricultural_machinery", "id": 1189821}, {"name": "E-agriculture", "id": 55606844}], "successors": []}

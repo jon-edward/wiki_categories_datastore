@@ -1,1 +1,0 @@
-{"name": "Compilers", "id": 884777, "predecessors": [{"name": "Programming_language_implementation", "id": 5439296}, {"name": "Programming_tools", "id": 846161}], "successors": [{"name": "Parser_generators", "id": 12989064}, {"name": "Compiler_construction", "id": 30787370}]}

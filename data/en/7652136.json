@@ -1,1 +1,1 @@
-{"name": "Noh", "id": 7652136, "predecessors": [{"name": "Concert_dance", "id": 44179584}, {"name": "Theatre_in_Japan", "id": 7708727}], "successors": [{"name": "Noh_plays", "id": 7652128}]}
+{"name": "Noh", "id": 7652136, "predecessors": [{"name": "Concert_dance", "id": 44179584}, {"name": "Theatre_of_Japan", "id": 7708727}], "successors": [{"name": "Noh_plays", "id": 7652128}]}

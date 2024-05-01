@@ -1,1 +1,1 @@
-{"name": "ATP_Finals", "id": 55783546, "predecessors": [{"name": "ATP_Tour", "id": 12843681}, {"name": "History_of_tennis", "id": 5366374}], "successors": []}
+{"name": "ATP_Finals", "id": 55783546, "predecessors": [{"name": "ATP_Tour", "id": 12843681}], "successors": [{"name": "Grand_Prix_tennis_circuit_year-end_championships", "id": 39654954}]}

@@ -1,1 +1,1 @@
-{"name": "Danish_courtiers", "id": 45665176, "predecessors": [{"name": "Danish_monarchy", "id": 707459}], "successors": [{"name": "Danish_ladies-in-waiting", "id": 33062297}]}
+{"name": "Danish_courtiers", "id": 45665176, "predecessors": [{"name": "Government_of_Denmark", "id": 1557994}, {"name": "Royal_and_noble_courts", "id": 30635777}], "successors": [{"name": "Danish_ladies-in-waiting", "id": 33062297}, {"name": "Danish_royal_favourites", "id": 58441590}]}

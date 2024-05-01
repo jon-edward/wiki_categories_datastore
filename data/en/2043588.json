@@ -1,1 +1,1 @@
-{"name": "Microsoft_development_tools", "id": 2043588, "predecessors": [{"name": "Microsoft_software", "id": 695106}, {"name": "Programming_tools", "id": 846161}], "successors": []}
+{"name": "Microsoft_development_tools", "id": 2043588, "predecessors": [{"name": "Microsoft_software", "id": 695106}, {"name": "Programming_tools", "id": 846161}], "successors": [{"name": "Microsoft_Visual_Studio", "id": 2043626}, {"name": "Discontinued_Microsoft_development_tools", "id": 20952572}]}

@@ -1,1 +1,1 @@
-{"name": "Iodine", "id": 4496905, "predecessors": [{"name": "Antiseptics", "id": 901310}, {"name": "Staining_dyes", "id": 3241308}], "successors": [{"name": "Iodine_compounds", "id": 1949180}, {"name": "Isotopes_of_iodine", "id": 11745774}]}
+{"name": "Iodine", "id": 4496905, "predecessors": [{"name": "Antiseptics", "id": 901310}, {"name": "Diatomic_nonmetals", "id": 40320206}], "successors": []}

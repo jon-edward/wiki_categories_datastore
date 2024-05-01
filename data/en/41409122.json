@@ -1,1 +1,1 @@
-{"name": "Soviet_colonel_generals", "id": 41409122, "predecessors": [{"name": "Soviet_generals", "id": 20328403}], "successors": []}
+{"name": "Soviet_colonel_generals", "id": 41409122, "predecessors": [{"name": "Colonel_generals", "id": 51366189}, {"name": "Soviet_generals", "id": 20328403}], "successors": [{"name": "Commissars_2nd_Class_of_State_Security", "id": 53050683}]}

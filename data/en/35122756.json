@@ -1,1 +1,1 @@
-{"name": "Active_asteroids", "id": 35122756, "predecessors": [{"name": "Comets", "id": 698007}], "successors": []}
+{"name": "Active_asteroids", "id": 35122756, "predecessors": [{"name": "Asteroids", "id": 692006}, {"name": "Comets", "id": 698007}], "successors": []}

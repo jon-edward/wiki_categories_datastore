@@ -1,1 +1,1 @@
-{"name": "Railway_stations_in_Vienna", "id": 16265018, "predecessors": [{"name": "Transport_in_Vienna", "id": 3249082}], "successors": [{"name": "Vienna_U-Bahn_stations", "id": 30710309}]}
+{"name": "Railway_stations_in_Vienna", "id": 16265018, "predecessors": [{"name": "Buildings_and_structures_in_Vienna", "id": 3248737}, {"name": "Transport_in_Vienna", "id": 3249082}], "successors": [{"name": "Vienna_U-Bahn_stations", "id": 30710309}]}

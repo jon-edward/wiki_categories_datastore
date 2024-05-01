@@ -1,1 +1,1 @@
-{"name": "Syllogism", "id": 36297664, "predecessors": [{"name": "Deductive_reasoning", "id": 37832157}, {"name": "Philosophical_arguments", "id": 2656241}, {"name": "Term_logic", "id": 34989583}], "successors": [{"name": "Syllogistic_fallacies", "id": 5361425}]}
+{"name": "Syllogism", "id": 36297664, "predecessors": [{"name": "Deductive_reasoning", "id": 37832157}, {"name": "Philosophical_arguments", "id": 2656241}], "successors": [{"name": "Syllogistic_fallacies", "id": 5361425}]}

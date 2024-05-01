@@ -1,1 +1,1 @@
-{"name": "Personality_theories", "id": 16182273, "predecessors": [{"name": "Personality", "id": 1056420}, {"name": "Psychological_theories", "id": 2871214}], "successors": [{"name": "Physiognomy", "id": 19089053}]}
+{"name": "Personality_theories", "id": 16182273, "predecessors": [{"name": "Personality", "id": 1056420}, {"name": "Psychological_theories", "id": 2871214}, {"name": "Branches_of_psychology", "id": 2870944}], "successors": [{"name": "Personality_typologies", "id": 6186879}, {"name": "Personality_traits", "id": 16140400}, {"name": "Physiognomy", "id": 19089053}]}

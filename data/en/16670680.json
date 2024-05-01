@@ -1,1 +1,1 @@
-{"name": "Toll_roads_in_Japan", "id": 16670680, "predecessors": [{"name": "Toll_roads", "id": 1357062}, {"name": "Road_transport_in_Japan", "id": 2872438}], "successors": [{"name": "Expressways_in_Japan", "id": 4146242}]}
+{"name": "Toll_roads_in_Japan", "id": 16670680, "predecessors": [{"name": "Toll_roads", "id": 1357062}, {"name": "Road_transport_in_Japan", "id": 2872438}], "successors": [{"name": "Expressways_in_Japan", "id": 4146242}, {"name": "Former_toll_roads_in_Japan", "id": 63008565}]}

@@ -1,0 +1,1 @@
+{"name": "Battery_charging", "id": 34215626, "predecessors": [{"name": "Power_electronics", "id": 4532149}], "successors": [{"name": "Charging_stations", "id": 14083481}]}

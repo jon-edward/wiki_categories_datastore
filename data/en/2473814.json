@@ -1,1 +1,1 @@
-{"name": "Antiques_experts", "id": 2473814, "predecessors": [{"name": "Antiques", "id": 967321}, {"name": "History", "id": 693555}], "successors": [{"name": "American_antiques_experts", "id": 41082772}, {"name": "English_antiques_experts", "id": 76042700}]}
+{"name": "Antiques_experts", "id": 2473814, "predecessors": [{"name": "Antiques", "id": 967321}], "successors": [{"name": "American_antiques_experts", "id": 41082772}, {"name": "Chinese_antiques_experts", "id": 59772616}, {"name": "English_antiques_experts", "id": 76042700}]}

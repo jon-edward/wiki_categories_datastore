@@ -1,1 +1,1 @@
-{"name": "ATP_Tour_navigational_boxes", "id": 33935468, "predecessors": [{"name": "ATP_Tour", "id": 12843681}], "successors": []}
+{"name": "ATP_Tour_navigational_boxes", "id": 33935468, "predecessors": [{"name": "ATP_Tour", "id": 12843681}], "successors": [{"name": "ATP_Tour_tournaments_navigational_boxes", "id": 33935493}]}

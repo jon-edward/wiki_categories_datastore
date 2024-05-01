@@ -1,1 +1,1 @@
-{"name": "Student_events", "id": 50274382, "predecessors": [{"name": "Education_events", "id": 52683899}, {"name": "Student_culture", "id": 698268}, {"name": "Youth_events", "id": 42790262}], "successors": [{"name": "Student_protests", "id": 20138533}, {"name": "Student_competitions", "id": 64694215}]}
+{"name": "Student_events", "id": 50274382, "predecessors": [{"name": "Education_events", "id": 52683899}, {"name": "Student_culture", "id": 698268}], "successors": [{"name": "Student_protests", "id": 20138533}, {"name": "Student_competitions", "id": 64694215}]}

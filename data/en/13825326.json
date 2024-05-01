@@ -1,1 +1,1 @@
-{"name": "Education_awards", "id": 13825326, "predecessors": [{"name": "Education", "id": 696763}], "successors": [{"name": "Scholarships", "id": 2527803}, {"name": "Teacher_awards", "id": 3933827}, {"name": "Student_awards", "id": 13823877}, {"name": "Academic_awards", "id": 23001283}, {"name": "Literacy-related_awards", "id": 38936544}]}
+{"name": "Education_awards", "id": 13825326, "predecessors": [{"name": "Education", "id": 696763}], "successors": [{"name": "Scholarships", "id": 2527803}, {"name": "Literacy-related_awards", "id": 38936544}]}

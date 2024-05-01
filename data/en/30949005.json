@@ -1,1 +1,1 @@
-{"name": "Ship_chartering", "id": 30949005, "predecessors": [{"name": "Admiralty_law", "id": 30948590}, {"name": "Ship_management", "id": 13368946}, {"name": "Transport_economics", "id": 3646902}, {"name": "Vehicles", "id": 694929}], "successors": []}
+{"name": "Ship_chartering", "id": 30949005, "predecessors": [{"name": "Admiralty_law", "id": 30948590}, {"name": "Ship_management", "id": 13368946}, {"name": "Renting", "id": 13682390}], "successors": []}

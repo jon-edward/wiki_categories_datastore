@@ -1,1 +1,1 @@
-{"name": "Atleți_moldoveni", "id": 815391, "predecessors": [{"name": "Sportivi_moldoveni", "id": 222021}, {"name": "Atletism", "id": 113315}], "successors": [{"name": "Atleți_olimpici_moldoveni", "id": 1343842}, {"name": "Alergători_moldoveni", "id": 2583915}]}
+{"name": "Atleți_moldoveni", "id": 815391, "predecessors": [{"name": "Sportivi_moldoveni", "id": 222021}, {"name": "Sport", "id": 16061}], "successors": [{"name": "Atleți_olimpici_moldoveni", "id": 1343842}]}

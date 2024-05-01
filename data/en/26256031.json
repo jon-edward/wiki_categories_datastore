@@ -1,1 +1,1 @@
-{"name": "Italian-language_writers", "id": 26256031, "predecessors": [{"name": "Italian_language", "id": 1203381}], "successors": [{"name": "Italian-language_poets", "id": 46898539}]}
+{"name": "Italian-language_writers", "id": 26256031, "predecessors": [{"name": "Italian-language_literature", "id": 3967619}, {"name": "Italian_language", "id": 1203381}], "successors": [{"name": "Italian-language_poets", "id": 46898539}, {"name": "Italian-language_writers_from_Malta", "id": 68577632}]}

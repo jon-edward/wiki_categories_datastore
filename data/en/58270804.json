@@ -1,1 +1,1 @@
-{"name": "Serie_A_venues", "id": 58270804, "predecessors": [{"name": "Football_venues_in_Italy", "id": 3104858}, {"name": "Football_leagues_in_Italy", "id": 31521885}, {"name": "Association_football_venues", "id": 26184510}], "successors": []}
+{"name": "Serie_A_venues", "id": 58270804, "predecessors": [{"name": "Football_venues_in_Italy", "id": 3104858}, {"name": "Serie_A", "id": 6986993}], "successors": []}

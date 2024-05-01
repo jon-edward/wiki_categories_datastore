@@ -1,1 +1,1 @@
-{"name": "Tourism_magazines", "id": 1328865, "predecessors": [{"name": "Professional_and_trade_magazines", "id": 24909694}, {"name": "Tourism", "id": 698284}, {"name": "Travel_writing", "id": 15727024}, {"name": "Printing", "id": 774014}], "successors": []}
+{"name": "Tourism_magazines", "id": 1328865, "predecessors": [{"name": "Tourism", "id": 698284}, {"name": "Travel_writing", "id": 15727024}], "successors": [{"name": "City_guides", "id": 3657087}]}

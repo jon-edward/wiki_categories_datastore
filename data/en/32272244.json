@@ -1,1 +1,1 @@
-{"name": "IOP_Publishing_academic_journals", "id": 32272244, "predecessors": [{"name": "Institute_of_Physics", "id": 14111726}], "successors": []}
+{"name": "IOP_Publishing_academic_journals", "id": 32272244, "predecessors": [{"name": "Academic_journals_published_by_learned_and_professional_societies", "id": 39369193}, {"name": "Institute_of_Physics", "id": 14111726}], "successors": []}

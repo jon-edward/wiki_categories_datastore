@@ -1,1 +1,1 @@
-{"name": "Aviation_security", "id": 33529177, "predecessors": [{"name": "Aviation", "id": 735378}, {"name": "Security", "id": 1238492}], "successors": [{"name": "Explosive_detection", "id": 39679739}, {"name": "Terrorist_attacks_on_airports", "id": 31645048}, {"name": "Attacks_on_aircraft_by_Palestinian_militant_groups", "id": 66553310}]}
+{"name": "Aviation_security", "id": 33529177, "predecessors": [{"name": "Aviation", "id": 735378}], "successors": [{"name": "Explosive_detection", "id": 39679739}]}

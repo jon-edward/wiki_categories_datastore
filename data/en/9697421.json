@@ -1,1 +1,1 @@
-{"name": "Unix_text_editors", "id": 9697421, "predecessors": [{"name": "Unix_software", "id": 2423579}, {"name": "Unix_text_processing_utilities", "id": 25608187}], "successors": [{"name": "Vi", "id": 33460493}]}
+{"name": "Unix_text_editors", "id": 9697421, "predecessors": [{"name": "Text_editors", "id": 694684}, {"name": "Unix_software", "id": 2423579}, {"name": "Unix_text_processing_utilities", "id": 25608187}], "successors": [{"name": "Linux_text_editors", "id": 1366817}, {"name": "Vi", "id": 33460493}]}

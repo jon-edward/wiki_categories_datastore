@@ -1,1 +1,1 @@
-{"name": "Towers_completed_in_1933", "id": 36677309, "predecessors": [{"name": "Towers", "id": 791935}], "successors": [{"name": "Lighthouses_completed_in_1933", "id": 33960986}]}
+{"name": "Towers_completed_in_1933", "id": 36677309, "predecessors": [{"name": "Buildings_and_structures_completed_in_1933", "id": 29813727}, {"name": "Buildings_and_structures_completed_in_the_1930s", "id": 54972498}], "successors": [{"name": "Lighthouses_completed_in_1933", "id": 33960986}]}

@@ -1,1 +1,1 @@
-{"name": "Tram_transport_in_Poland", "id": 3709474, "predecessors": [{"name": "Economy_of_Poland", "id": 1241341}], "successors": [{"name": "Tram_vehicles_of_Poland", "id": 14304216}]}
+{"name": "Tram_transport_in_Poland", "id": 3709474, "predecessors": [{"name": "Rail_transport_in_Poland", "id": 3314727}, {"name": "Economy_of_Poland", "id": 1241341}], "successors": [{"name": "Tram_vehicles_of_Poland", "id": 14304216}]}

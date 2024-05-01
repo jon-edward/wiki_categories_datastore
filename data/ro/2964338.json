@@ -1,1 +1,1 @@
-{"name": "Oameni_din_Piemont", "id": 2964338, "predecessors": [{"name": "Piemont", "id": 41509}, {"name": "Italieni", "id": 35450}], "successors": [{"name": "Oameni_din_Torino", "id": 837767}]}
+{"name": "Oameni_din_Piemont", "id": 2964338, "predecessors": [{"name": "Regiunile_Italiei", "id": 28323}, {"name": "Italieni", "id": 35450}], "successors": [{"name": "Oameni_din_Torino", "id": 837767}]}
