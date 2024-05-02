@@ -1,0 +1,1 @@
+{"name": "Plancton", "id": 410609, "predecessors": [{"name": "Biologie_marine", "id": 2872474}, {"name": "Microbiologie", "id": 112511}, {"name": "Eau", "id": 189766}], "successors": [{"name": "Phytoplancton", "id": 905196}, {"name": "Zooplancton", "id": 925882}]}

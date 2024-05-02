@@ -1,1 +1,1 @@
-{"name": "워싱턴_도시권", "id": 3675786, "predecessors": [{"name": "미국의_인구", "id": 703758}], "successors": [{"name": "워싱턴_D.C.", "id": 68641}]}
+{"name": "워싱턴_도시권", "id": 3675786, "predecessors": [{"name": "메릴랜드주", "id": 33609}, {"name": "워싱턴_D.C.", "id": 68641}], "successors": [{"name": "워싱턴_D.C.", "id": 68641}]}

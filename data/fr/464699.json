@@ -1,0 +1,1 @@
+{"name": "Intoxication_alimentaire", "id": 464699, "predecessors": [{"name": "Intoxication", "id": 2231911}, {"name": "Sécurité_des_aliments", "id": 8617155}, {"name": "Trouble_nutritionnel", "id": 478100}, {"name": "Pathologie_en_maladie_infectieuse", "id": 1537375}], "successors": [{"name": "Mort_par_intoxication_alimentaire", "id": 9019975}]}

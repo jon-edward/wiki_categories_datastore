@@ -1,0 +1,1 @@
+{"name": "Avicultura", "id": 1337138, "predecessors": [{"name": "Aves_y_humanos", "id": 10032249}, {"name": "Cría_de_animales", "id": 9510671}, {"name": "Ganadería", "id": 113179}], "successors": [{"name": "Aves_de_corral", "id": 2383910}, {"name": "Palomas_domésticas", "id": 2601167}, {"name": "Aviarios", "id": 6836073}, {"name": "Huevos_(alimento)", "id": 9984572}]}

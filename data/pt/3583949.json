@@ -1,1 +1,1 @@
-{"name": "Museus_universitários", "id": 3583949, "predecessors": [{"name": "Instituições_de_ensino_superior", "id": 44079}, {"name": "Museus", "id": 37715}], "successors": [{"name": "Museus_universitários_do_Brasil", "id": 3583958}, {"name": "Museus_universitários_de_Portugal", "id": 5806758}]}
+{"name": "Museus_universitários", "id": 3583949, "predecessors": [{"name": "Museus", "id": 37715}, {"name": "Cultura_estudantil", "id": 2887051}], "successors": [{"name": "Museus_universitários_do_Brasil", "id": 3583958}, {"name": "Museus_universitários_de_Portugal", "id": 5806758}]}

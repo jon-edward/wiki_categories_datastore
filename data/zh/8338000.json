@@ -1,1 +1,1 @@
-{"name": "抽卡遊戲", "id": 8338000, "predecessors": [{"name": "娱乐", "id": 42321}], "successors": []}
+{"name": "抽卡遊戲", "id": 8338000, "predecessors": [{"name": "娱乐", "id": 42321}, {"name": "設定", "id": 1127259}], "successors": []}

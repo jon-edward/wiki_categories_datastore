@@ -1,1 +1,1 @@
-{"name": "台灣酒精飲料", "id": 3164202, "predecessors": [{"name": "台灣飲料", "id": 415634}, {"name": "台灣社會", "id": 217741}, {"name": "酒", "id": 41824}], "successors": []}
+{"name": "台灣酒精飲料", "id": 3164202, "predecessors": [{"name": "台灣飲料", "id": 415634}, {"name": "台灣藥物", "id": 3164738}, {"name": "酒", "id": 41824}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "医学のエポニム", "id": 4651059, "predecessors": [{"name": "エポニム", "id": 2296967}], "successors": []}
+{"name": "医学のエポニム", "id": 4651059, "predecessors": [{"name": "エポニム", "id": 2296967}, {"name": "医学", "id": 104171}], "successors": [{"name": "パーキンソン病の人物", "id": 2075634}]}

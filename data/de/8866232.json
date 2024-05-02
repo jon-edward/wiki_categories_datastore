@@ -1,0 +1,1 @@
+{"name": "Spanende_Werkzeugmaschine", "id": 8866232, "predecessors": [{"name": "Trennende_Werkzeugmaschine", "id": 8989581}, {"name": "Zerspanen", "id": 481585}], "successors": [{"name": "Stationäre_Säge", "id": 8993261}, {"name": "Schleifmaschine", "id": 9036404}]}

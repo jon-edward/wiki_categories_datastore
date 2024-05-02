@@ -1,0 +1,1 @@
+{"name": "Depresores", "id": 2065431, "predecessors": [{"name": "Drogas_psicoactivas", "id": 5011829}, {"name": "Psicotrópicos", "id": 211121}], "successors": [{"name": "Opioides", "id": 212214}, {"name": "Benzodiazepinas", "id": 353152}, {"name": "Alcohol", "id": 1263706}]}

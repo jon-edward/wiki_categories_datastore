@@ -1,0 +1,1 @@
+{"name": "Cría_de_animales", "id": 9510671, "predecessors": [{"name": "Crianza", "id": 9020709}, {"name": "Animales", "id": 55378}], "successors": [{"name": "Ganadería", "id": 113179}, {"name": "Acuicultura", "id": 499212}, {"name": "Avicultura", "id": 1337138}]}

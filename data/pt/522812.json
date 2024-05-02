@@ -1,1 +1,1 @@
-{"name": "Biomas_aquáticos", "id": 522812, "predecessors": [{"name": "Biomas", "id": 522787}, {"name": "Água", "id": 939521}], "successors": [{"name": "Praias", "id": 44477}, {"name": "Corpos_de_água", "id": 2313270}, {"name": "Manguezais", "id": 4316612}, {"name": "Zonas_húmidas", "id": 5231691}]}
+{"name": "Biomas_aquáticos", "id": 522812, "predecessors": [{"name": "Biomas", "id": 522787}, {"name": "Água", "id": 939521}], "successors": [{"name": "Corpos_de_água", "id": 2313270}, {"name": "Manguezais", "id": 4316612}, {"name": "Zonas_húmidas", "id": 5231691}]}

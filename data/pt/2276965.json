@@ -1,1 +1,1 @@
-{"name": "Bibliotecas_universitárias", "id": 2276965, "predecessors": [{"name": "Academia", "id": 2254989}, {"name": "Bibliotecas", "id": 111786}], "successors": [{"name": "Bibliotecas_universitárias_do_Brasil", "id": 5931873}]}
+{"name": "Bibliotecas_universitárias", "id": 2276965, "predecessors": [{"name": "Academia", "id": 2254989}, {"name": "Bibliotecas", "id": 111786}, {"name": "Cultura_estudantil", "id": 2887051}], "successors": [{"name": "Bibliotecas_universitárias_do_Brasil", "id": 5931873}]}

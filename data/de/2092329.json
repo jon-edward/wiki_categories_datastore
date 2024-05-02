@@ -1,0 +1,1 @@
+{"name": "Barer_Zahlungsverkehr", "id": 2092329, "predecessors": [{"name": "Zahlungsverkehr", "id": 408899}], "successors": [{"name": "Papiergeld", "id": 244750}, {"name": "Münze", "id": 373670}, {"name": "Geldbehälter", "id": 5907524}, {"name": "Geldfälschung", "id": 7445177}, {"name": "Münzrecht", "id": 12427872}]}

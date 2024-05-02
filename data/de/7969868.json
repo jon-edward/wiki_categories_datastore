@@ -1,0 +1,1 @@
+{"name": "Messtechnische_Kontrolle", "id": 7969868, "predecessors": [{"name": "Fehlermanagement", "id": 1886579}, {"name": "Messtechnik", "id": 239326}], "successors": [{"name": "Messabweichung", "id": 2926187}]}

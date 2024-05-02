@@ -1,1 +1,1 @@
-{"name": "테너", "id": 87655, "predecessors": [{"name": "성악가", "id": 87656}, {"name": "예술가", "id": 244558}, {"name": "성악_음역", "id": 217516}], "successors": []}
+{"name": "테너", "id": 87655, "predecessors": [{"name": "성악가", "id": 87656}, {"name": "음악가", "id": 14805}, {"name": "성악_음역", "id": 217516}], "successors": []}

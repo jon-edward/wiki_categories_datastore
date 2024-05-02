@@ -1,0 +1,1 @@
+{"name": "Carne_seca", "id": 2800531, "predecessors": [{"name": "Alimentos_secos", "id": 2038325}, {"name": "Carnes", "id": 151330}, {"name": "Técnicas_culinarias", "id": 147644}], "successors": [{"name": "Pescado_seco", "id": 2800538}, {"name": "Jamones", "id": 4216919}]}

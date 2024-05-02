@@ -1,0 +1,1 @@
+{"name": "Mikroskopisches_Verfahren", "id": 9360905, "predecessors": [{"name": "Bildgebendes_Verfahren", "id": 7655455}, {"name": "Mikroskopie", "id": 894900}, {"name": "Physikalisches_Analyseverfahren", "id": 450367}], "successors": [{"name": "Elektronenmikroskopisches_Verfahren", "id": 9363483}, {"name": "Lichtmikroskop-Art_oder_lichtmikroskopisches_Verfahren", "id": 9369321}]}

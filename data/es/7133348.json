@@ -1,0 +1,1 @@
+{"name": "Transporte_de_Lima", "id": 7133348, "predecessors": [{"name": "Lima", "id": 802883}, {"name": "Transporte_de_Perú", "id": 631015}, {"name": "Transporte", "id": 55371}], "successors": [{"name": "Metropolitano", "id": 1961767}, {"name": "Puentes_de_Lima", "id": 6642975}, {"name": "Corredores_complementarios", "id": 8645546}]}

@@ -1,1 +1,1 @@
-{"name": "Chefs_de_restaurantes_premiados_pelo_Guia_Michelin", "id": 4339399, "predecessors": [{"name": "Prêmios", "id": 48557}, {"name": "Consumo", "id": 217315}, {"name": "Chefs", "id": 349026}], "successors": []}
+{"name": "Chefs_de_restaurantes_premiados_pelo_Guia_Michelin", "id": 4339399, "predecessors": [{"name": "Prêmios", "id": 48557}, {"name": "Guias_para_consumidores", "id": 4339407}, {"name": "Chefs", "id": 349026}], "successors": []}

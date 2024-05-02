@@ -1,0 +1,1 @@
+{"name": "Limpieza", "id": 2945442, "predecessors": [{"name": "Higiene", "id": 75406}, {"name": "Hogar", "id": 106882}], "successors": [{"name": "Productos_de_limpieza", "id": 2447904}, {"name": "Utensilios_de_limpieza", "id": 2453180}, {"name": "Lavandería", "id": 6188602}]}

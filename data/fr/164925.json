@@ -1,0 +1,1 @@
+{"name": "Fertilisation", "id": 164925, "predecessors": [{"name": "Agronomie", "id": 373572}, {"name": "Technique_culturale", "id": 243210}, {"name": "Biochimie", "id": 93886}], "successors": [{"name": "Engrais_organique", "id": 1204607}, {"name": "Engrais_azoté", "id": 1204605}]}

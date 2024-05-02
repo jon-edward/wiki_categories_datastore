@@ -1,1 +1,1 @@
-{"name": "방광암으로_죽은_사람", "id": 848740, "predecessors": [{"name": "암으로_죽은_사람", "id": 250645}], "successors": []}
+{"name": "방광암으로_죽은_사람", "id": 848740, "predecessors": [{"name": "암으로_죽은_사람", "id": 250645}, {"name": "방광_질환", "id": 3802258}], "successors": []}

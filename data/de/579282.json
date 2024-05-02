@@ -1,0 +1,1 @@
+{"name": "Heißgetränk", "id": 579282, "predecessors": [{"name": "Getränk", "id": 238372}, {"name": "Alltagskultur", "id": 595902}], "successors": [{"name": "Teeähnliches_Getränk", "id": 8128358}, {"name": "Alkoholhaltiges_Heißgetränk", "id": 8794927}, {"name": "Heiße_Kaffeezubereitung", "id": 8967556}]}

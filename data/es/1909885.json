@@ -1,0 +1,1 @@
+{"name": "Tanques_de_combate_principal", "id": 1909885, "predecessors": [{"name": "Carros_de_combate", "id": 4500891}], "successors": [{"name": "Vehículos_blindados_basados_en_el_T-72", "id": 4915751}, {"name": "Vehículos_blindados_basados_en_el_T-55", "id": 5194104}, {"name": "Motores_de_tanques", "id": 6000399}]}

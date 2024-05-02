@@ -1,1 +1,1 @@
-{"name": "Linux內核", "id": 1816212, "predecessors": [{"name": "Linux", "id": 51411}], "successors": [{"name": "Linux核心駭客", "id": 2816131}, {"name": "Linux檔案系統", "id": 3011539}, {"name": "Linux内核功能", "id": 4029068}, {"name": "Linux内核接口", "id": 5569364}]}
+{"name": "Linux內核", "id": 1816212, "predecessors": [{"name": "Linux", "id": 51411}, {"name": "作業系統核心", "id": 410132}], "successors": [{"name": "Linux核心駭客", "id": 2816131}, {"name": "Linux檔案系統", "id": 3011539}, {"name": "Linux内核功能", "id": 4029068}, {"name": "Linux内核接口", "id": 5569364}]}

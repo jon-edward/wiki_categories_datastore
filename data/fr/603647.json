@@ -1,0 +1,1 @@
+{"name": "Traitement_du_bois", "id": 603647, "predecessors": [{"name": "Bois_d'œuvre", "id": 11950319}, {"name": "Construction_en_bois", "id": 5836211}, {"name": "Technique_de_transformation_du_bois", "id": 8393762}, {"name": "Ébénisterie", "id": 459048}, {"name": "Matériau", "id": 154211}], "successors": [{"name": "Carbonisation_du_bois", "id": 12186034}]}

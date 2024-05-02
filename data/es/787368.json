@@ -1,0 +1,1 @@
+{"name": "Algoritmos_de_compresión", "id": 787368, "predecessors": [{"name": "Algoritmos", "id": 54094}, {"name": "Compresión_de_datos", "id": 160300}], "successors": [{"name": "Algoritmos_de_compresión_sin_pérdida", "id": 1265203}, {"name": "Algoritmos_de_compresión_con_pérdida", "id": 4695470}]}

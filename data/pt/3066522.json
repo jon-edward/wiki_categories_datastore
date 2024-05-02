@@ -1,1 +1,1 @@
-{"name": "Xadrez_nas_artes", "id": 3066522, "predecessors": [{"name": "História_do_xadrez", "id": 1019988}], "successors": [{"name": "Xadrez_na_pintura", "id": 5602467}]}
+{"name": "Xadrez_nas_artes", "id": 3066522, "predecessors": [{"name": "Artes_por_tema", "id": 2050958}, {"name": "Xadrez", "id": 15255}], "successors": [{"name": "Xadrez_na_pintura", "id": 5602467}]}

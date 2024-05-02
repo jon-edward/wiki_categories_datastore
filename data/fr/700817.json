@@ -1,0 +1,1 @@
+{"name": "Signalisation_ferroviaire", "id": 700817, "predecessors": [{"name": "Infrastructure_ferroviaire", "id": 89481}, {"name": "Communication", "id": 84690}], "successors": [{"name": "Poste_d'aiguillage", "id": 529902}, {"name": "Signalisation_en_cabine_et_répétition_des_signaux", "id": 1888148}, {"name": "Signalisation_ferroviaire_en_France", "id": 7208572}]}
