@@ -1,1 +1,1 @@
-{"name": "Serial_ATA", "id": 3603138, "predecessors": [{"name": "AT_Attachment", "id": 34415646}, {"name": "Computer_storage_buses", "id": 28169972}, {"name": "Serial_buses", "id": 3284587}], "successors": []}
+{"name": "Serial_ATA", "id": 3603138, "predecessors": [{"name": "AT_Attachment", "id": 34415646}, {"name": "Computer_hardware_standards", "id": 30857280}, {"name": "Computer_storage_buses", "id": 28169972}, {"name": "Serial_buses", "id": 3284587}], "successors": []}

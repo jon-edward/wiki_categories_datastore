@@ -1,1 +1,1 @@
-{"name": "Sexual_arousal", "id": 1645862, "predecessors": [{"name": "Human_reproduction", "id": 10099038}, {"name": "Reproduction_in_mammals", "id": 36658666}, {"name": "Emotions", "id": 20860353}], "successors": [{"name": "Ejaculation", "id": 39408468}, {"name": "Sexual_dysfunctions", "id": 60437285}]}
+{"name": "Sexual_arousal", "id": 1645862, "predecessors": [{"name": "Animal_reproductive_system", "id": 36696229}], "successors": [{"name": "Ejaculation", "id": 39408468}, {"name": "Sexual_dysfunctions", "id": 60437285}]}

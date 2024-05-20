@@ -1,1 +1,1 @@
-{"name": "Gardens", "id": 744440, "predecessors": [{"name": "Gardening", "id": 740309}, {"name": "Parks", "id": 736623}], "successors": [{"name": "Lists_of_gardens", "id": 19652477}, {"name": "Garden_features", "id": 25138706}, {"name": "Garden_squares_in_London", "id": 58928700}]}
+{"name": "Gardens", "id": 744440, "predecessors": [{"name": "Parks", "id": 736623}], "successors": [{"name": "Lists_of_gardens", "id": 19652477}, {"name": "Garden_squares_in_London", "id": 58928700}]}

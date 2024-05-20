@@ -1,1 +1,1 @@
-{"name": "Mammal_extinctions_since_1500", "id": 31234943, "predecessors": [{"name": "Extinct_mammals", "id": 3782789}], "successors": [{"name": "Rodent_extinctions_since_1500", "id": 42023394}]}
+{"name": "Mammal_extinctions_since_1500", "id": 31234943, "predecessors": [{"name": "Extinct_mammals", "id": 3782789}, {"name": "Animal_death", "id": 33166047}], "successors": [{"name": "Rodent_extinctions_since_1500", "id": 42023394}]}

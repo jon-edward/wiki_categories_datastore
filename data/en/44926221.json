@@ -1,1 +1,1 @@
-{"name": "Austrian_foil_fencers", "id": 44926221, "predecessors": [{"name": "Austrian_sportspeople", "id": 870910}], "successors": [{"name": "Austrian_female_foil_fencers", "id": 69591943}, {"name": "Austrian_male_foil_fencers", "id": 69591976}]}
+{"name": "Austrian_foil_fencers", "id": 44926221, "predecessors": [{"name": "Austrian_sportspeople", "id": 870910}, {"name": "Fencing", "id": 1072254}], "successors": [{"name": "Austrian_female_foil_fencers", "id": 69591943}, {"name": "Austrian_male_foil_fencers", "id": 69591976}]}

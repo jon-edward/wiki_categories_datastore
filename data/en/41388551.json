@@ -1,1 +1,1 @@
-{"name": "Mpox", "id": 41388551, "predecessors": [{"name": "Animal_viral_diseases", "id": 48674710}, {"name": "Poxviruses", "id": 5541475}, {"name": "Vaccine-preventable_diseases", "id": 56263158}], "successors": [{"name": "2022–2023_mpox_outbreak", "id": 70963496}]}
+{"name": "Mpox", "id": 41388551, "predecessors": [{"name": "Animal_viral_diseases", "id": 48674710}, {"name": "Poxviruses", "id": 5541475}, {"name": "Vaccine-preventable_diseases", "id": 56263158}, {"name": "Zoonoses", "id": 2776372}], "successors": [{"name": "2022–2023_mpox_outbreak", "id": 70963496}]}

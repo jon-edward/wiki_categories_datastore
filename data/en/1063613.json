@@ -1,1 +1,1 @@
-{"name": "Checksum_algorithms", "id": 1063613, "predecessors": [{"name": "Algorithms", "id": 691136}, {"name": "Error_detection_and_correction", "id": 1061200}], "successors": []}
+{"name": "Checksum_algorithms", "id": 1063613, "predecessors": [{"name": "Error_detection_and_correction", "id": 1061200}], "successors": []}

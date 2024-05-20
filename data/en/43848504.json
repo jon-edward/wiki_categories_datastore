@@ -1,1 +1,1 @@
-{"name": "WebGL", "id": 43848504, "predecessors": [{"name": "HTML5", "id": 30919662}, {"name": "OpenGL", "id": 21014041}], "successors": []}
+{"name": "WebGL", "id": 43848504, "predecessors": [{"name": "HTML5", "id": 30919662}, {"name": "Mozilla", "id": 744772}, {"name": "OpenGL", "id": 21014041}], "successors": []}

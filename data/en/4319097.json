@@ -1,1 +1,1 @@
-{"name": "Extinct_marsupials", "id": 4319097, "predecessors": [{"name": "Marsupials", "id": 1620496}, {"name": "Extinct_mammals", "id": 3782789}], "successors": []}
+{"name": "Extinct_marsupials", "id": 4319097, "predecessors": [{"name": "Extinct_mammals", "id": 3782789}], "successors": [{"name": "Prehistoric_marsupial_genera", "id": 49612155}]}

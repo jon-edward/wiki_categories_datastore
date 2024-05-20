@@ -1,1 +1,1 @@
-{"name": "Gold_museums", "id": 57038456, "predecessors": [{"name": "Gold", "id": 1717177}, {"name": "Mining_museums", "id": 18569835}], "successors": []}
+{"name": "Gold_museums", "id": 57038456, "predecessors": [{"name": "Mineralogy_museums", "id": 41533439}, {"name": "Mining_museums", "id": 18569835}, {"name": "History_of_mining", "id": 7639825}], "successors": []}

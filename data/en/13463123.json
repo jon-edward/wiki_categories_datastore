@@ -1,1 +1,1 @@
-{"name": "Tanks_of_the_interwar_period", "id": 13463123, "predecessors": [{"name": "Tanks", "id": 786411}, {"name": "Interwar_period", "id": 26554037}], "successors": [{"name": "Light_tanks_of_the_interwar_period", "id": 30968069}]}
+{"name": "Tanks_of_the_interwar_period", "id": 13463123, "predecessors": [{"name": "Armoured_fighting_vehicles", "id": 12171698}, {"name": "Tanks", "id": 786411}], "successors": [{"name": "Light_tanks_of_the_interwar_period", "id": 30968069}]}

@@ -1,1 +1,1 @@
-{"name": "Compositors_txecs_del_Barroc", "id": 370265, "predecessors": [{"name": "Compositors_de_música_clàssica", "id": 143495}, {"name": "Compositors", "id": 12451}], "successors": []}
+{"name": "Compositors_txecs_del_Barroc", "id": 370265, "predecessors": [{"name": "Compositors_txecs", "id": 88376}, {"name": "Compositors_de_música_clàssica", "id": 143495}], "successors": []}

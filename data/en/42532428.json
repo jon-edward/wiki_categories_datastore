@@ -1,1 +1,1 @@
-{"name": "Fireworks_accidents_and_incidents", "id": 42532428, "predecessors": [{"name": "Fireworks", "id": 723321}, {"name": "Environmental_justice", "id": 24946983}], "successors": [{"name": "Nightclub_fires_started_by_pyrotechnics", "id": 47100724}]}
+{"name": "Fireworks_accidents_and_incidents", "id": 42532428, "predecessors": [{"name": "Fireworks", "id": 723321}, {"name": "Accidents", "id": 4523546}], "successors": [{"name": "Nightclub_fires_started_by_pyrotechnics", "id": 47100724}]}

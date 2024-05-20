@@ -1,1 +1,1 @@
-{"name": "Competitive_dance", "id": 1041180, "predecessors": [{"name": "Sports_by_type", "id": 23596516}], "successors": [{"name": "Dancesport", "id": 892371}, {"name": "Ballroom_dance", "id": 975718}, {"name": "Irish_stepdance", "id": 55706722}]}
+{"name": "Competitive_dance", "id": 1041180, "predecessors": [{"name": "Sports_by_type", "id": 23596516}], "successors": [{"name": "Dancesport", "id": 892371}, {"name": "Ballroom_dance", "id": 975718}, {"name": "Dance_competitions", "id": 4662905}, {"name": "Irish_stepdance", "id": 55706722}]}

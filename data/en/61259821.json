@@ -1,1 +1,1 @@
-{"name": "Soft_drinks_manufacturers", "id": 61259821, "predecessors": [{"name": "Soft_drinks", "id": 803741}, {"name": "Drinks", "id": 1000234}], "successors": [{"name": "Keurig_Dr_Pepper", "id": 25801581}]}
+{"name": "Soft_drinks_manufacturers", "id": 61259821, "predecessors": [{"name": "Soft_drinks", "id": 803741}], "successors": [{"name": "Keurig_Dr_Pepper", "id": 25801581}]}

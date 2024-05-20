@@ -1,1 +1,1 @@
-{"name": "Soviet_border_guards", "id": 50019693, "predecessors": [{"name": "Soviet_Border_Troops", "id": 50019718}, {"name": "Border_control", "id": 71490826}], "successors": []}
+{"name": "Soviet_border_guards", "id": 50019693, "predecessors": [{"name": "Soviet_Border_Troops", "id": 50019718}, {"name": "Border_guards", "id": 5130290}], "successors": []}

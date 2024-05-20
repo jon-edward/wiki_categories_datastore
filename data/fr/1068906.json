@@ -1,1 +1,0 @@
-{"name": "Connecteur", "id": 1068906, "predecessors": [{"name": "Composant_électrique", "id": 1068609}, {"name": "Composant_électronique", "id": 89359}, {"name": "Connectique", "id": 98219}], "successors": [{"name": "Connecteur_audio-vidéo", "id": 1208181}]}

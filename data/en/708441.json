@@ -1,1 +1,1 @@
-{"name": "Guessing_games", "id": 708441, "predecessors": [{"name": "Puzzles", "id": 1013641}, {"name": "Mental_processes", "id": 32197328}], "successors": []}
+{"name": "Guessing_games", "id": 708441, "predecessors": [{"name": "Party_games", "id": 776242}, {"name": "Puzzles", "id": 1013641}], "successors": [{"name": "Riddles", "id": 3884134}]}

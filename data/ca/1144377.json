@@ -1,1 +1,1 @@
-{"name": "Astronautes_russos", "id": 1144377, "predecessors": [{"name": "Astronautes", "id": 25478}, {"name": "Programa_espacial_rus", "id": 1139451}, {"name": "Biografies", "id": 16117}], "successors": []}
+{"name": "Astronautes_russos", "id": 1144377, "predecessors": [{"name": "Astronautes", "id": 25478}, {"name": "Programa_espacial_rus", "id": 1139451}, {"name": "Principal", "id": 13225}], "successors": []}

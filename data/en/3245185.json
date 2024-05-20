@@ -1,1 +1,0 @@
-{"name": "Edible_fish", "id": 3245185, "predecessors": [{"name": "Fish_as_food", "id": 70405003}, {"name": "Food_and_drink", "id": 694860}], "successors": [{"name": "Aquaculture", "id": 16837904}, {"name": "Oily_fish", "id": 23007289}, {"name": "Fish_farming", "id": 70392049}]}

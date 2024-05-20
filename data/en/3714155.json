@@ -1,1 +1,1 @@
-{"name": "Private_currencies", "id": 3714155, "predecessors": [{"name": "Alternative_currencies", "id": 14690740}], "successors": [{"name": "Bitcoin", "id": 39563179}]}
+{"name": "Private_currencies", "id": 3714155, "predecessors": [{"name": "Alternative_currencies", "id": 14690740}, {"name": "Exonumia", "id": 3373669}], "successors": [{"name": "Bitcoin", "id": 39563179}]}

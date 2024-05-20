@@ -1,1 +1,1 @@
-{"name": "Pipeline_transport", "id": 41212753, "predecessors": [{"name": "Freight_transport", "id": 710066}, {"name": "Transport", "id": 5523119}], "successors": []}
+{"name": "Pipeline_transport", "id": 41212753, "predecessors": [{"name": "Freight_transport", "id": 710066}], "successors": [{"name": "Pipeline_accidents", "id": 17485472}, {"name": "Gazprom_pipelines", "id": 24773596}, {"name": "Freshwater_pipelines", "id": 34786256}]}

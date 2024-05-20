@@ -1,1 +1,1 @@
-{"name": "SpaceX_Dragon_2", "id": 63569897, "predecessors": [{"name": "Crewed_spacecraft", "id": 786264}, {"name": "Reusable_spacecraft", "id": 64792982}, {"name": "American_spacecraft", "id": 62727113}], "successors": [{"name": "Inspiration4", "id": 69016949}]}
+{"name": "SpaceX_Dragon_2", "id": 63569897, "predecessors": [{"name": "SpaceX", "id": 6384977}], "successors": [{"name": "Inspiration4", "id": 69016949}]}

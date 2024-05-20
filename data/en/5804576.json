@@ -1,1 +1,1 @@
-{"name": "Dried_fish", "id": 5804576, "predecessors": [{"name": "Dried_foods", "id": 4354572}, {"name": "Dried_meat", "id": 3109664}, {"name": "Fish_as_food", "id": 70405003}, {"name": "Fish_processing", "id": 11967779}], "successors": []}
+{"name": "Dried_fish", "id": 5804576, "predecessors": [{"name": "Dried_meat", "id": 3109664}, {"name": "Fish_as_food", "id": 70405003}, {"name": "Fish_processing", "id": 11967779}], "successors": []}

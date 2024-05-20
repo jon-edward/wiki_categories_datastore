@@ -1,0 +1,1 @@
+{"name": "Steam_vehicles", "id": 14748802, "predecessors": [{"name": "Energy_in_transport", "id": 18688976}], "successors": [{"name": "Steamships", "id": 756878}, {"name": "Steam_locomotives", "id": 1248600}, {"name": "Steam_road_vehicles", "id": 14707737}, {"name": "Steam-powered_aircraft", "id": 27217523}, {"name": "Steamboats", "id": 29696891}]}

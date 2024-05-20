@@ -1,1 +1,1 @@
-{"name": "University_of_Colorado_Denver_faculty", "id": 36742847, "predecessors": [{"name": "University_of_Colorado_faculty", "id": 11641845}, {"name": "University_of_Colorado_Denver", "id": 36742810}], "successors": [{"name": "University_of_Colorado_Anschutz_Medical_Campus_faculty", "id": 75638369}]}
+{"name": "University_of_Colorado_Denver_faculty", "id": 36742847, "predecessors": [{"name": "University_of_Colorado_Denver", "id": 36742810}], "successors": [{"name": "University_of_Colorado_Anschutz_Medical_Campus_faculty", "id": 75638369}]}

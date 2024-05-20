@@ -1,1 +1,1 @@
-{"name": "Pyrrolidones", "id": 9250320, "predecessors": [{"name": "Gamma-lactams", "id": 68394033}], "successors": [{"name": "Racetams", "id": 9599031}]}
+{"name": "Pyrrolidones", "id": 9250320, "predecessors": [{"name": "Gamma-lactams", "id": 68394033}, {"name": "Pyrrolidines", "id": 5253178}], "successors": [{"name": "Racetams", "id": 9599031}]}

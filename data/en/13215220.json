@@ -1,1 +1,1 @@
-{"name": "Linux_kernel_features", "id": 13215220, "predecessors": [{"name": "Linux_kernel", "id": 13215678}], "successors": [{"name": "Direct_Rendering_Infrastructure", "id": 42931393}, {"name": "Linux_file_system-related_software", "id": 30221894}, {"name": "File_systems_supported_by_the_Linux_kernel", "id": 42553370}]}
+{"name": "Linux_kernel_features", "id": 13215220, "predecessors": [{"name": "Linux_kernel", "id": 13215678}, {"name": "Operating_system_technology", "id": 1956884}], "successors": [{"name": "Direct_Rendering_Infrastructure", "id": 42931393}]}

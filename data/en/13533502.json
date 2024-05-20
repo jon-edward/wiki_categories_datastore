@@ -1,1 +1,1 @@
-{"name": "Naval_aviation_technology", "id": 13533502, "predecessors": [{"name": "Naval_aviation", "id": 7491044}, {"name": "Aviation", "id": 735378}], "successors": [{"name": "Aircraft_carriers", "id": 733409}]}
+{"name": "Naval_aviation_technology", "id": 13533502, "predecessors": [{"name": "Military_technology", "id": 1073580}, {"name": "Aviation", "id": 735378}], "successors": [{"name": "Aircraft_carriers", "id": 733409}]}

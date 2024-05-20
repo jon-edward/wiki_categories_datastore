@@ -1,1 +1,1 @@
-{"name": "Canned_meat", "id": 43941145, "predecessors": [{"name": "Canned_food", "id": 1583869}, {"name": "Meat", "id": 757474}], "successors": []}
+{"name": "Canned_meat", "id": 43941145, "predecessors": [{"name": "Meat", "id": 757474}], "successors": []}

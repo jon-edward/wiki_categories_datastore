@@ -1,1 +1,1 @@
-{"name": "Parasites_of_humans", "id": 40223346, "predecessors": [{"name": "Parasites_of_primates", "id": 40223341}, {"name": "Cultural_anthropology", "id": 715355}], "successors": [{"name": "Parasitic_arthropods_of_humans", "id": 55128746}, {"name": "Parasitic_helminths_of_humans", "id": 55136340}]}
+{"name": "Parasites_of_humans", "id": 40223346, "predecessors": [{"name": "Parasites_of_primates", "id": 40223341}], "successors": [{"name": "Parasitic_arthropods_of_humans", "id": 55128746}, {"name": "Parasitic_helminths_of_humans", "id": 55136340}]}

@@ -1,1 +1,1 @@
-{"name": "Learning_to_read", "id": 24463099, "predecessors": [{"name": "Language_acquisition", "id": 2286515}, {"name": "Learning", "id": 1055691}, {"name": "Literacy", "id": 16728659}, {"name": "Reading_(process)", "id": 43968732}], "successors": [{"name": "Alphabet_books", "id": 13726390}]}
+{"name": "Learning_to_read", "id": 24463099, "predecessors": [{"name": "Language_acquisition", "id": 2286515}], "successors": [{"name": "Alphabet_books", "id": 13726390}, {"name": "Basal_readers", "id": 62646022}]}

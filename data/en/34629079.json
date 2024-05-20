@@ -1,1 +1,1 @@
-{"name": "IBM_mainframe_operating_systems", "id": 34629079, "predecessors": [{"name": "IBM_System/360_mainframe_line", "id": 7459703}, {"name": "IBM_mainframe_software", "id": 53519385}, {"name": "IBM_operating_systems", "id": 7497621}], "successors": [{"name": "Rexx", "id": 41894590}]}
+{"name": "IBM_mainframe_operating_systems", "id": 34629079, "predecessors": [{"name": "IBM_operating_systems", "id": 7497621}, {"name": "Operating_system_families", "id": 5935422}], "successors": [{"name": "Rexx", "id": 41894590}]}

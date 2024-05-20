@@ -1,1 +1,1 @@
-{"name": "Banquers", "id": 931775, "predecessors": [{"name": "Finances", "id": 159072}, {"name": "Biografies", "id": 16117}], "successors": [{"name": "Banquers_europeus", "id": 1433118}]}
+{"name": "Banquers", "id": 931775, "predecessors": [{"name": "Finances", "id": 159072}, {"name": "Principal", "id": 13225}], "successors": [{"name": "Banquers_europeus", "id": 1433118}]}

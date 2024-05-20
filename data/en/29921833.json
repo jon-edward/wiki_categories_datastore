@@ -1,1 +1,1 @@
-{"name": "Education_rights", "id": 29921833, "predecessors": [{"name": "Education", "id": 696763}], "successors": [{"name": "Student_rights", "id": 15798744}]}
+{"name": "Education_rights", "id": 29921833, "predecessors": [{"name": "Civil_rights_and_liberties", "id": 16073232}], "successors": [{"name": "Student_rights", "id": 15798744}, {"name": "Academic_freedom", "id": 41028313}]}

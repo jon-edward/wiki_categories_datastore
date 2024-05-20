@@ -1,1 +1,1 @@
-{"name": "Aorta", "id": 38949150, "predecessors": [{"name": "Arteries_of_the_abdomen", "id": 21973686}, {"name": "Arteries_of_the_thorax", "id": 21973664}], "successors": []}
+{"name": "Aorta", "id": 38949150, "predecessors": [{"name": "Arteries_of_the_abdomen", "id": 21973686}, {"name": "Arteries_of_the_thorax", "id": 21973664}], "successors": [{"name": "Diseases_of_the_aorta", "id": 30042607}]}

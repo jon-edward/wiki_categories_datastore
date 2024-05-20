@@ -1,1 +1,1 @@
-{"name": "Seal_conservation", "id": 34415771, "predecessors": [{"name": "Mammal_conservation", "id": 27193610}, {"name": "Pinnipeds", "id": 898019}, {"name": "Seal_hunting", "id": 36301540}], "successors": []}
+{"name": "Seal_conservation", "id": 34415771, "predecessors": [{"name": "Pinnipeds", "id": 898019}, {"name": "Seal_hunting", "id": 36301540}], "successors": []}

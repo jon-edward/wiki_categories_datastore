@@ -1,1 +1,0 @@
-{"name": "Défaillance_d'organe", "id": 6378767, "predecessors": [{"name": "Anesthésie-réanimation", "id": 1445865}, {"name": "Organe", "id": 4305929}], "successors": [{"name": "Mort_d'une_insuffisance_rénale", "id": 9017574}, {"name": "Mort_d'une_insuffisance_respiratoire", "id": 11198861}, {"name": "Mort_d'une_insuffisance_cardiaque", "id": 12560627}]}

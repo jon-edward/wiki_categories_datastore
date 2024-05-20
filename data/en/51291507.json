@@ -1,1 +1,1 @@
-{"name": "Coffee_industry", "id": 51291507, "predecessors": [{"name": "Coffee", "id": 838967}, {"name": "Food_industry", "id": 3540193}, {"name": "Drinks", "id": 1000234}], "successors": [{"name": "Coffee_production", "id": 18093652}, {"name": "Businesspeople_in_coffee", "id": 37317260}, {"name": "Coffee_organizations", "id": 40191773}]}
+{"name": "Coffee_industry", "id": 51291507, "predecessors": [{"name": "Coffee", "id": 838967}], "successors": [{"name": "Coffee_organizations", "id": 40191773}]}

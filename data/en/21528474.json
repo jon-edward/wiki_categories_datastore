@@ -1,1 +1,1 @@
-{"name": "Crab_dishes", "id": 21528474, "predecessors": [{"name": "Seafood_dishes", "id": 18237842}, {"name": "Animal-based_seafood", "id": 36325535}], "successors": []}
+{"name": "Crab_dishes", "id": 21528474, "predecessors": [{"name": "Seafood_dishes", "id": 18237842}, {"name": "Aquatic_organisms", "id": 1460650}, {"name": "Animal-based_seafood", "id": 36325535}], "successors": []}

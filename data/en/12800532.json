@@ -1,1 +1,1 @@
-{"name": "Northwest_Airlines", "id": 12800532, "predecessors": [{"name": "Delta_Air_Lines", "id": 6461357}, {"name": "Cities_in_Dakota_County,_Minnesota", "id": 40414722}], "successors": [{"name": "Northwest_Airlines_accidents_and_incidents", "id": 27416784}]}
+{"name": "Northwest_Airlines", "id": 12800532, "predecessors": [{"name": "Delta_Air_Lines", "id": 6461357}, {"name": "Cities_in_Dakota_County,_Minnesota", "id": 40414722}, {"name": "SkyTeam", "id": 12887777}], "successors": [{"name": "Northwest_Airlines_accidents_and_incidents", "id": 27416784}]}

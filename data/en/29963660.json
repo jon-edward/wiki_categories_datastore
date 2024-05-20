@@ -1,1 +1,1 @@
-{"name": "Airborne_tanks", "id": 29963660, "predecessors": [{"name": "Airborne_fighting_vehicles", "id": 12085339}, {"name": "Tanks_by_type", "id": 21549001}, {"name": "Experimental_vehicles", "id": 5050900}], "successors": []}
+{"name": "Airborne_tanks", "id": 29963660, "predecessors": [{"name": "Airborne_fighting_vehicles", "id": 12085339}, {"name": "Tanks_by_type", "id": 21549001}, {"name": "Aircraft", "id": 694926}], "successors": []}

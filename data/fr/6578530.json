@@ -1,1 +1,0 @@
-{"name": "Technique_de_cuisson", "id": 6578530, "predecessors": [{"name": "Cuisson_alimentaire", "id": 2020499}, {"name": "Technique_culinaire", "id": 207669}], "successors": [{"name": "Friture", "id": 2020411}, {"name": "Grillade", "id": 10706606}, {"name": "Viande_fumée", "id": 13811648}, {"name": "Spécialité_cuite_à_la_vapeur", "id": 14126870}]}

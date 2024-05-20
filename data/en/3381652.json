@@ -1,1 +1,1 @@
-{"name": "Guitar_pickups", "id": 3381652, "predecessors": [{"name": "Electric_guitars", "id": 1095252}, {"name": "Guitar_parts_and_accessories", "id": 3386643}], "successors": []}
+{"name": "Guitar_pickups", "id": 3381652, "predecessors": [{"name": "Electric_guitars", "id": 1095252}, {"name": "Guitar_parts_and_accessories", "id": 3386643}, {"name": "Audio_electronics", "id": 11387266}], "successors": [{"name": "Guitar_pickup_manufacturers", "id": 3368112}]}

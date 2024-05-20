@@ -1,1 +1,1 @@
-{"name": "Stochastic_differential_equations", "id": 7139162, "predecessors": [{"name": "Differential_equations", "id": 696330}], "successors": []}
+{"name": "Stochastic_differential_equations", "id": 7139162, "predecessors": [{"name": "Differential_equations", "id": 696330}, {"name": "Stochastic_calculus", "id": 28809488}], "successors": []}

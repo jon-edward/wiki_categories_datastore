@@ -1,1 +1,1 @@
-{"name": "Health_care_reform", "id": 20172950, "predecessors": [{"name": "Health_care", "id": 35880954}, {"name": "Health_policy", "id": 21421283}, {"name": "Reform", "id": 34582198}, {"name": "Health", "id": 751381}], "successors": [{"name": "Healthcare_reform_in_the_United_States", "id": 20568277}]}
+{"name": "Health_care_reform", "id": 20172950, "predecessors": [{"name": "Health_care", "id": 35880954}, {"name": "Health_policy", "id": 21421283}], "successors": [{"name": "Healthcare_reform_in_the_United_States", "id": 20568277}]}

@@ -1,1 +1,1 @@
-{"name": "Soy_products", "id": 900350, "predecessors": [{"name": "Edible_legumes", "id": 11531028}, {"name": "Food_ingredients", "id": 1077080}, {"name": "Intensive_farming", "id": 14593990}, {"name": "Crops_originating_from_Asia", "id": 19366891}], "successors": [{"name": "Soy-based_foods", "id": 47277160}]}
+{"name": "Soy_products", "id": 900350, "predecessors": [{"name": "Edible_legumes", "id": 11531028}, {"name": "Intensive_farming", "id": 14593990}], "successors": [{"name": "Soy-based_foods", "id": 47277160}]}

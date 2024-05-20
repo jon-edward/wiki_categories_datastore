@@ -1,1 +1,1 @@
-{"name": "Charitable_activities_related_to_the_COVID-19_pandemic", "id": 63834793, "predecessors": [{"name": "Charity", "id": 49121964}, {"name": "Responses_to_the_COVID-19_pandemic", "id": 63395415}], "successors": [{"name": "COVID-19_pandemic_benefit_concerts", "id": 63834785}]}
+{"name": "Charitable_activities_related_to_the_COVID-19_pandemic", "id": 63834793, "predecessors": [{"name": "Responses_to_the_COVID-19_pandemic", "id": 63395415}], "successors": [{"name": "COVID-19_pandemic_benefit_concerts", "id": 63834785}]}

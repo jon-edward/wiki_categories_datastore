@@ -1,1 +1,1 @@
-{"name": "Web_scraping", "id": 40177627, "predecessors": [{"name": "Data_processing", "id": 39764244}, {"name": "Spamming", "id": 889246}, {"name": "World_Wide_Web", "id": 826436}], "successors": [{"name": "Internet_search_engines", "id": 699876}]}
+{"name": "Web_scraping", "id": 40177627, "predecessors": [{"name": "Data_processing", "id": 39764244}, {"name": "Web_crawlers", "id": 15699391}, {"name": "World_Wide_Web", "id": 826436}], "successors": [{"name": "Internet_search_engines", "id": 699876}]}

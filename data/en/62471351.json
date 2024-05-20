@@ -1,1 +1,1 @@
-{"name": "British_privateers", "id": 62471351, "predecessors": [{"name": "British_pirates", "id": 1484933}, {"name": "British_sailors", "id": 1484888}, {"name": "Privateers", "id": 1469962}, {"name": "Mercenaries", "id": 1611704}], "successors": [{"name": "English_privateers", "id": 36334019}]}
+{"name": "British_privateers", "id": 62471351, "predecessors": [{"name": "British_pirates", "id": 1484933}, {"name": "Privateers", "id": 1469962}, {"name": "Mercenaries", "id": 1611704}], "successors": [{"name": "English_privateers", "id": 36334019}]}

@@ -1,1 +1,1 @@
-{"name": "Fruit_preserve_companies", "id": 57961519, "predecessors": [{"name": "Food_companies", "id": 3464462}, {"name": "Jams_and_jellies", "id": 48856340}, {"name": "Preserved_fruit", "id": 54362357}], "successors": [{"name": "Australian_jam_and_preserved_fruit_makers", "id": 44256847}]}
+{"name": "Fruit_preserve_companies", "id": 57961519, "predecessors": [{"name": "Jams_and_jellies", "id": 48856340}, {"name": "Preserved_fruit", "id": 54362357}], "successors": [{"name": "Australian_jam_and_preserved_fruit_makers", "id": 44256847}]}

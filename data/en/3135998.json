@@ -1,1 +1,1 @@
-{"name": "Insect_products", "id": 3135998, "predecessors": [{"name": "Animal_products", "id": 2304680}, {"name": "Agriculture_by_type", "id": 31038144}, {"name": "Extant_Cambrian_first_appearances", "id": 48568718}], "successors": [{"name": "Silk", "id": 1723621}, {"name": "Bee_products", "id": 3136015}]}
+{"name": "Insect_products", "id": 3135998, "predecessors": [{"name": "Animal_products", "id": 2304680}], "successors": [{"name": "Silk", "id": 1723621}, {"name": "Bee_products", "id": 3136015}]}

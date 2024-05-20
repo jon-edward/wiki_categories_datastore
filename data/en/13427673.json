@@ -1,1 +1,1 @@
-{"name": "Chronic_pain_syndromes", "id": 13427673, "predecessors": [{"name": "Pain", "id": 1061105}], "successors": [{"name": "Sickle-cell_disease", "id": 45498202}]}
+{"name": "Chronic_pain_syndromes", "id": 13427673, "predecessors": [{"name": "Pain", "id": 1061105}, {"name": "Syndromes", "id": 4678438}], "successors": [{"name": "Sickle-cell_disease", "id": 45498202}]}

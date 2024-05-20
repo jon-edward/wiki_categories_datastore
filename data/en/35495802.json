@@ -1,1 +1,1 @@
-{"name": "Health_information_technology_companies", "id": 35495802, "predecessors": [{"name": "Health_informatics_organizations", "id": 54494955}, {"name": "Biotechnology_companies", "id": 2402861}], "successors": [{"name": "Electronic_health_record_software_companies", "id": 57724536}]}
+{"name": "Health_information_technology_companies", "id": 35495802, "predecessors": [{"name": "Health_informatics_organizations", "id": 54494955}, {"name": "Medical_technology", "id": 18960497}], "successors": [{"name": "Electronic_health_record_software_companies", "id": 57724536}]}

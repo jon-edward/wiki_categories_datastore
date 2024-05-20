@@ -1,1 +1,1 @@
-{"name": "Charity_law", "id": 37646909, "predecessors": [{"name": "Charity", "id": 49121964}, {"name": "Wills_and_trusts", "id": 2288073}], "successors": [{"name": "Charitable_trusts", "id": 50600095}, {"name": "Tithes", "id": 55918673}]}
+{"name": "Charity_law", "id": 37646909, "predecessors": [{"name": "Tax_law", "id": 31426708}, {"name": "Wills_and_trusts", "id": 2288073}], "successors": [{"name": "Charitable_trusts", "id": 50600095}]}

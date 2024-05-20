@@ -1,1 +1,1 @@
-{"name": "Canadian_intelligence_agencies", "id": 935932, "predecessors": [{"name": "Federal_departments_and_agencies_of_Canada", "id": 1203800}], "successors": [{"name": "Canadian_Security_Intelligence_Service", "id": 7150781}]}
+{"name": "Canadian_intelligence_agencies", "id": 935932, "predecessors": [{"name": "Federal_departments_and_agencies_of_Canada", "id": 1203800}, {"name": "Espionage", "id": 878532}], "successors": [{"name": "Canadian_Security_Intelligence_Service", "id": 7150781}]}

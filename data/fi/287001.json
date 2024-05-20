@@ -1,1 +1,1 @@
-{"name": "Suomalaiset_sotilaslentäjät", "id": 287001, "predecessors": [{"name": "Suomalaiset_sotilaat", "id": 70119}, {"name": "Ammatit", "id": 26041}], "successors": [{"name": "Suomalaiset_hävittäjälentäjät", "id": 287000}]}
+{"name": "Suomalaiset_sotilaslentäjät", "id": 287001, "predecessors": [{"name": "Suomalaiset_lentäjät", "id": 152064}, {"name": "Suomalaiset_sotilaat", "id": 70119}], "successors": [{"name": "Suomalaiset_hävittäjälentäjät", "id": 287000}]}

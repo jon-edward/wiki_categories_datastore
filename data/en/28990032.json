@@ -1,1 +1,1 @@
-{"name": "Agricultural_health_and_safety", "id": 28990032, "predecessors": [{"name": "Agriculture", "id": 694871}, {"name": "Occupational_safety_and_health", "id": 1215289}], "successors": [{"name": "Farming_accident_deaths", "id": 43966371}]}
+{"name": "Agricultural_health_and_safety", "id": 28990032, "predecessors": [{"name": "Occupational_safety_and_health", "id": 1215289}], "successors": [{"name": "Farming_accident_deaths", "id": 43966371}]}

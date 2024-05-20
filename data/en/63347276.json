@@ -1,1 +1,1 @@
-{"name": "Italian_Army_officers", "id": 63347276, "predecessors": [{"name": "Military_leaders", "id": 1258701}, {"name": "Italian_Army", "id": 27691562}, {"name": "Italian_military_personnel", "id": 6676820}], "successors": [{"name": "Italian_Army_generals", "id": 63347269}]}
+{"name": "Italian_Army_officers", "id": 63347276, "predecessors": [{"name": "Italian_Army_personnel", "id": 53296627}, {"name": "Military_personnel", "id": 6660319}, {"name": "Italian_military_personnel", "id": 6676820}], "successors": [{"name": "Italian_Army_generals", "id": 63347269}]}

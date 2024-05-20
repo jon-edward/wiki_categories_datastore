@@ -1,1 +1,1 @@
-{"name": "Jeans", "id": 4473975, "predecessors": [{"name": "Casual_wear", "id": 61187021}, {"name": "Cotton", "id": 22598830}, {"name": "Trousers_and_shorts", "id": 9902086}], "successors": [{"name": "Jeans_by_brand", "id": 44045983}, {"name": "Jeans_by_type", "id": 52464448}]}
+{"name": "Jeans", "id": 4473975, "predecessors": [{"name": "Casual_wear", "id": 61187021}, {"name": "Cotton", "id": 22598830}, {"name": "Fashion", "id": 1000816}], "successors": [{"name": "Jeans_by_brand", "id": 44045983}, {"name": "Jeans_by_type", "id": 52464448}]}

@@ -1,1 +1,1 @@
-{"name": "Hypertext_Transfer_Protocol_clients", "id": 40512236, "predecessors": [{"name": "Hypertext_Transfer_Protocol", "id": 40512229}], "successors": [{"name": "Web_browsers", "id": 694997}]}
+{"name": "Hypertext_Transfer_Protocol_clients", "id": 40512236, "predecessors": [{"name": "Clients_(computing)", "id": 34556983}, {"name": "Hypertext_Transfer_Protocol", "id": 40512229}, {"name": "Internet_Protocol_based_network_software", "id": 32946450}], "successors": [{"name": "Web_browsers", "id": 694997}, {"name": "Web_crawlers", "id": 15699391}]}

@@ -1,1 +1,1 @@
-{"name": "Live_video_albums", "id": 26789782, "predecessors": [{"name": "Concert_films", "id": 6174329}, {"name": "Album_types", "id": 10217141}], "successors": [{"name": "Christian_live_video_albums", "id": 43014519}]}
+{"name": "Live_video_albums", "id": 26789782, "predecessors": [{"name": "Concert_films", "id": 6174329}, {"name": "Live_music", "id": 2531000}, {"name": "Home_video_releases", "id": 51270339}], "successors": [{"name": "Christian_live_video_albums", "id": 43014519}]}

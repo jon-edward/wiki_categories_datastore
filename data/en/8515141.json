@@ -1,1 +1,1 @@
-{"name": "Wine_grapes_of_Italy", "id": 8515141, "predecessors": [{"name": "Agriculture_in_Italy", "id": 8225740}, {"name": "Italian_wine", "id": 6042382}, {"name": "Agriculture_by_country", "id": 2300147}], "successors": [{"name": "Wine_grapes_of_Piedmont", "id": 13578674}]}
+{"name": "Wine_grapes_of_Italy", "id": 8515141, "predecessors": [{"name": "Italian_wine", "id": 6042382}, {"name": "Country_of_origin", "id": 10420195}], "successors": [{"name": "Wine_grapes_of_Piedmont", "id": 13578674}]}

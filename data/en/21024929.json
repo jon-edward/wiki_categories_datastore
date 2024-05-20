@@ -1,1 +1,1 @@
-{"name": "Harvesters", "id": 21024929, "predecessors": [{"name": "Agricultural_machinery", "id": 1189821}, {"name": "Harvest", "id": 21024994}], "successors": [{"name": "Combine_harvesters", "id": 21713224}]}
+{"name": "Harvesters", "id": 21024929, "predecessors": [{"name": "Agricultural_machinery", "id": 1189821}], "successors": [{"name": "Combine_harvesters", "id": 21713224}]}

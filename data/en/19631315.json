@@ -1,1 +1,1 @@
-{"name": "Fortran_libraries", "id": 19631315, "predecessors": [{"name": "Computer_libraries", "id": 7482978}, {"name": "Fortran_software", "id": 19631196}], "successors": []}
+{"name": "Fortran_libraries", "id": 19631315, "predecessors": [{"name": "Fortran_software", "id": 19631196}], "successors": []}

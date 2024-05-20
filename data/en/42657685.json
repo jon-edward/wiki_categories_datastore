@@ -1,1 +1,1 @@
-{"name": "PlayStation_4_software", "id": 42657685, "predecessors": [{"name": "PlayStation_4", "id": 38591394}, {"name": "Software", "id": 691633}], "successors": [{"name": "PlayStation_4_games", "id": 38591363}]}
+{"name": "PlayStation_4_software", "id": 42657685, "predecessors": [{"name": "PlayStation_4", "id": 38591394}, {"name": "Operating_systems", "id": 693664}], "successors": [{"name": "PlayStation_4_games", "id": 38591363}]}

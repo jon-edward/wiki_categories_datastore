@@ -1,1 +1,1 @@
-{"name": "American_prison_wardens", "id": 24655293, "predecessors": [{"name": "American_prison_officials", "id": 24536658}], "successors": [{"name": "Wardens_of_Sing_Sing", "id": 35612522}]}
+{"name": "American_prison_wardens", "id": 24655293, "predecessors": [{"name": "American_prison_officials", "id": 24536658}, {"name": "Prison_administrators", "id": 24536626}], "successors": []}

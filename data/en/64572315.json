@@ -1,1 +1,1 @@
-{"name": "Genomics_techniques", "id": 64572315, "predecessors": [{"name": "Molecular_biology_techniques", "id": 15668807}], "successors": [{"name": "Metagenomics_software", "id": 40242870}]}
+{"name": "Genomics_techniques", "id": 64572315, "predecessors": [{"name": "Genetics_techniques", "id": 68202999}, {"name": "Molecular_biology_techniques", "id": 15668807}], "successors": [{"name": "Metagenomics_software", "id": 40242870}]}

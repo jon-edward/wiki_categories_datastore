@@ -1,1 +1,1 @@
-{"name": "Pediatres", "id": 601394, "predecessors": [{"name": "Especialitats_de_la_medicina", "id": 498206}, {"name": "Biografies", "id": 16117}], "successors": [{"name": "Pediatres_catalans", "id": 1170885}]}
+{"name": "Pediatres", "id": 601394, "predecessors": [{"name": "Especialitats_de_la_medicina", "id": 498206}, {"name": "Principal", "id": 13225}], "successors": [{"name": "Pediatres_catalans", "id": 1170885}]}

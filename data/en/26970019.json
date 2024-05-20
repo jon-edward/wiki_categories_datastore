@@ -1,1 +1,1 @@
-{"name": "Joint_committees", "id": 26970019, "predecessors": [{"name": "Government_commissions", "id": 51591330}], "successors": []}
+{"name": "Joint_committees", "id": 26970019, "predecessors": [{"name": "Government_commissions", "id": 51591330}], "successors": [{"name": "Joint_meetings_of_bicameral_legislatures", "id": 31884322}, {"name": "Joint_committees_of_the_United_States_Congress", "id": 9788950}, {"name": "Joint_Committees_of_the_Parliament_of_the_United_Kingdom", "id": 61204940}]}

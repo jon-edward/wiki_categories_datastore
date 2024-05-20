@@ -1,1 +1,1 @@
-{"name": "Vegans", "id": 1958414, "predecessors": [{"name": "Vegetarians", "id": 507101}, {"name": "Biografies", "id": 16117}, {"name": "Drets_dels_animals", "id": 418625}], "successors": [{"name": "Activistes_vegans", "id": 1781428}]}
+{"name": "Vegans", "id": 1958414, "predecessors": [{"name": "Vegetarians", "id": 507101}, {"name": "Principal", "id": 13225}, {"name": "Drets_dels_animals", "id": 418625}], "successors": [{"name": "Activistes_vegans", "id": 1781428}]}

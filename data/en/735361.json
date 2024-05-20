@@ -1,1 +1,1 @@
-{"name": "Cardinal_numbers", "id": 735361, "predecessors": [{"name": "Numbers", "id": 698425}, {"name": "Ordinal_numbers", "id": 3109700}], "successors": []}
+{"name": "Cardinal_numbers", "id": 735361, "predecessors": [{"name": "Numbers", "id": 698425}, {"name": "Ordinal_numbers", "id": 3109700}], "successors": [{"name": "Large_cardinals", "id": 2754902}]}

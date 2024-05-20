@@ -1,1 +1,1 @@
-{"name": "British_male_long_jumpers", "id": 51199275, "predecessors": [{"name": "British_male_athletes", "id": 43285077}, {"name": "Athletics_in_the_United_Kingdom", "id": 3204483}], "successors": [{"name": "English_male_long_jumpers", "id": 51199317}]}
+{"name": "British_male_long_jumpers", "id": 51199275, "predecessors": [{"name": "Male_long_jumpers", "id": 26335577}, {"name": "Athletics_in_the_United_Kingdom", "id": 3204483}, {"name": "Men's_athletics", "id": 53241340}], "successors": [{"name": "English_male_long_jumpers", "id": 51199317}]}

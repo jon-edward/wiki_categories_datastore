@@ -1,1 +1,1 @@
-{"name": "Hemp", "id": 21410979, "predecessors": [{"name": "Building_materials", "id": 3962842}, {"name": "Cannabis", "id": 1512579}, {"name": "Energy_crops", "id": 4090899}, {"name": "Fiber_plants", "id": 903924}, {"name": "Fodder", "id": 10122827}], "successors": []}
+{"name": "Hemp", "id": 21410979, "predecessors": [{"name": "Building_materials", "id": 3962842}, {"name": "Cannabis", "id": 1512579}, {"name": "Fiber_plants", "id": 903924}], "successors": [{"name": "Hemp_products", "id": 53031269}]}

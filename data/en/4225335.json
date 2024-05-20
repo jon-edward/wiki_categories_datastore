@@ -1,1 +1,1 @@
-{"name": "Pseudoprimes", "id": 4225335, "predecessors": [{"name": "Integer_sequences", "id": 693721}], "successors": []}
+{"name": "Pseudoprimes", "id": 4225335, "predecessors": [{"name": "Integer_sequences", "id": 693721}, {"name": "Primality_tests", "id": 2291334}], "successors": []}

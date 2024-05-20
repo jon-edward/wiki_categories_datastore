@@ -1,1 +1,1 @@
-{"name": "Extinct_wolves", "id": 76632863, "predecessors": [{"name": "Wolves", "id": 2499005}, {"name": "Canines", "id": 914714}], "successors": []}
+{"name": "Extinct_wolves", "id": 76632863, "predecessors": [{"name": "Wolves", "id": 2499005}], "successors": [{"name": "Extinct_subspecies_of_Canis_lupus", "id": 76633278}]}

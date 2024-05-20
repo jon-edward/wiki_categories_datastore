@@ -1,1 +1,1 @@
-{"name": "Monitor_lizards", "id": 927391, "predecessors": [{"name": "Anguimorpha", "id": 56078487}, {"name": "Predators", "id": 24520192}], "successors": [{"name": "Monitor_lizards_of_Australia", "id": 57293660}, {"name": "Monitor_lizards_of_New_Guinea", "id": 69896160}, {"name": "Varanus", "id": 70635360}]}
+{"name": "Monitor_lizards", "id": 927391, "predecessors": [{"name": "Predators", "id": 24520192}], "successors": [{"name": "Monitor_lizards_of_Australia", "id": 57293660}, {"name": "Monitor_lizards_of_New_Guinea", "id": 69896160}, {"name": "Varanus", "id": 70635360}]}

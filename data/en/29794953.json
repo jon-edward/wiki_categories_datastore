@@ -1,1 +1,1 @@
-{"name": "Tracked_infantry_fighting_vehicles", "id": 29794953, "predecessors": [{"name": "Tracked_armoured_fighting_vehicles", "id": 33337062}], "successors": []}
+{"name": "Tracked_infantry_fighting_vehicles", "id": 29794953, "predecessors": [{"name": "Infantry_fighting_vehicles", "id": 786606}, {"name": "Tracked_armoured_fighting_vehicles", "id": 33337062}], "successors": []}

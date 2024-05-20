@@ -1,1 +1,1 @@
-{"name": "Home_inspection", "id": 52456100, "predecessors": [{"name": "Home", "id": 803231}, {"name": "Quality", "id": 2675045}, {"name": "Surveying", "id": 1071627}], "successors": []}
+{"name": "Home_inspection", "id": 52456100, "predecessors": [{"name": "Quality", "id": 2675045}, {"name": "Surveying", "id": 1071627}], "successors": []}

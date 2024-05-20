@@ -1,1 +1,1 @@
-{"name": "Rolling_stock_of_Brazil", "id": 41394375, "predecessors": [{"name": "Rail_transport_in_Brazil", "id": 5853141}], "successors": [{"name": "Diesel-electric_locomotives_of_Brazil", "id": 55524074}]}
+{"name": "Rolling_stock_of_Brazil", "id": 41394375, "predecessors": [{"name": "Rail_transport_in_Brazil", "id": 5853141}, {"name": "Vehicles", "id": 694929}], "successors": [{"name": "Diesel-electric_locomotives_of_Brazil", "id": 55524074}]}

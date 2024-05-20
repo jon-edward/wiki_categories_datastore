@@ -1,1 +1,1 @@
-{"name": "Coronavirus_proteins", "id": 68480912, "predecessors": [{"name": "Proteins", "id": 717889}, {"name": "Animal_virology", "id": 13582161}], "successors": []}
+{"name": "Coronavirus_proteins", "id": 68480912, "predecessors": [{"name": "Virology", "id": 715146}, {"name": "Animal_virology", "id": 13582161}], "successors": []}

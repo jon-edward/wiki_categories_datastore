@@ -1,1 +1,1 @@
-{"name": "Firefighter_training", "id": 8328046, "predecessors": [{"name": "Firefighting", "id": 854544}, {"name": "Training", "id": 4189120}], "successors": [{"name": "Firefighting_academies", "id": 48385983}]}
+{"name": "Firefighter_training", "id": 8328046, "predecessors": [{"name": "Firefighting", "id": 854544}], "successors": [{"name": "Firefighting_academies", "id": 48385983}]}

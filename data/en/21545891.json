@@ -1,1 +1,1 @@
-{"name": "Military_sports", "id": 21545891, "predecessors": [{"name": "Health", "id": 751381}, {"name": "Sports_by_type", "id": 23596516}], "successors": [{"name": "Orienteering", "id": 4065715}]}
+{"name": "Military_sports", "id": 21545891, "predecessors": [{"name": "Military", "id": 716572}, {"name": "Sports_by_type", "id": 23596516}], "successors": [{"name": "Orienteering", "id": 4065715}]}

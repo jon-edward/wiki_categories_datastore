@@ -1,1 +1,1 @@
-{"name": "Sants_governants", "id": 599560, "predecessors": [{"name": "Governants", "id": 18940}, {"name": "Biografies", "id": 16117}], "successors": [{"name": "Sants_sobirans", "id": 567073}]}
+{"name": "Sants_governants", "id": 599560, "predecessors": [{"name": "Governants", "id": 18940}, {"name": "Principal", "id": 13225}], "successors": [{"name": "Sants_sobirans", "id": 567073}]}

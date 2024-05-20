@@ -1,1 +1,1 @@
-{"name": "German_distilled_drinks", "id": 21757352, "predecessors": [{"name": "German_drinks", "id": 22093531}], "successors": [{"name": "German_liqueurs", "id": 4498225}]}
+{"name": "German_distilled_drinks", "id": 21757352, "predecessors": [{"name": "Alcohol_by_country", "id": 24323097}], "successors": [{"name": "German_liqueurs", "id": 4498225}]}

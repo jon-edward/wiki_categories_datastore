@@ -1,1 +1,0 @@
-{"name": "Interfaz_gráfica_de_usuario", "id": 66603, "predecessors": [{"name": "Computación_gráfica", "id": 2553392}, {"name": "Software_de_sistema", "id": 1661490}], "successors": [{"name": "X_Window_System", "id": 613985}, {"name": "Bibliotecas_gráficas", "id": 1803295}]}

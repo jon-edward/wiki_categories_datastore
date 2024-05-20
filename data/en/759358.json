@@ -1,1 +1,1 @@
-{"name": "Parasite_aircraft", "id": 759358, "predecessors": [{"name": "Aircraft_configurations", "id": 1024208}], "successors": []}
+{"name": "Parasite_aircraft", "id": 759358, "predecessors": [{"name": "Aircraft_by_type", "id": 4749432}], "successors": []}

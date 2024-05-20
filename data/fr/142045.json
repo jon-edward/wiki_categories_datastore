@@ -1,1 +1,0 @@
-{"name": "IRC", "id": 142045, "predecessors": [{"name": "Communauté_virtuelle", "id": 3987130}, {"name": "Protocole_réseau_sur_la_couche_application", "id": 4265377}], "successors": [{"name": "Réseau_IRC", "id": 101265}, {"name": "Client_IRC", "id": 142041}]}

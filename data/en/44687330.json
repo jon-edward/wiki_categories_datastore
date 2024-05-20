@@ -1,1 +1,1 @@
-{"name": "Umbrellas", "id": 44687330, "predecessors": [{"name": "Rain", "id": 42568993}], "successors": [{"name": "Umbrella_manufacturers", "id": 9809720}]}
+{"name": "Umbrellas", "id": 44687330, "predecessors": [{"name": "Fashion_accessories", "id": 15132951}, {"name": "Protective_gear", "id": 5095752}, {"name": "Rain", "id": 42568993}], "successors": [{"name": "Umbrella_manufacturers", "id": 9809720}]}

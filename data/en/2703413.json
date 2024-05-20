@@ -1,1 +1,1 @@
-{"name": "Submarine_commanders", "id": 2703413, "predecessors": [{"name": "Marine_occupations", "id": 7258620}], "successors": [{"name": "United_States_submarine_commanders", "id": 4042261}, {"name": "Royal_Navy_submarine_commanders", "id": 7414610}, {"name": "Soviet_submarine_commanders", "id": 25191488}]}
+{"name": "Submarine_commanders", "id": 2703413, "predecessors": [{"name": "Vehicles", "id": 694929}], "successors": [{"name": "United_States_submarine_commanders", "id": 4042261}, {"name": "Soviet_submarine_commanders", "id": 25191488}]}

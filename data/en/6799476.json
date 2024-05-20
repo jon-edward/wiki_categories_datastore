@@ -1,1 +1,1 @@
-{"name": "British_breads", "id": 6799476, "predecessors": [{"name": "British_cuisine", "id": 694858}, {"name": "British_snack_foods", "id": 6812574}, {"name": "Agriculture_in_Europe", "id": 27725706}], "successors": [{"name": "Scottish_breads", "id": 50446352}]}
+{"name": "British_breads", "id": 6799476, "predecessors": [{"name": "Agriculture_in_Europe", "id": 27725706}], "successors": [{"name": "Scottish_breads", "id": 50446352}]}

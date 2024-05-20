@@ -1,1 +1,1 @@
-{"name": "Ultralight_trikes", "id": 34449800, "predecessors": [{"name": "Tailless_delta-wing_aircraft", "id": 48615749}], "successors": [{"name": "Ultralight_trike_wings", "id": 38599838}]}
+{"name": "Ultralight_trikes", "id": 34449800, "predecessors": [{"name": "Aircraft_by_type", "id": 4749432}, {"name": "Ultralight_aircraft", "id": 4585860}], "successors": []}

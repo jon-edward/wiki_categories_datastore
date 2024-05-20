@@ -1,1 +1,1 @@
-{"name": "Flour", "id": 5886902, "predecessors": [{"name": "Food_ingredients", "id": 1077080}, {"name": "Starch", "id": 23928135}], "successors": [{"name": "Flour_mills", "id": 25898012}]}
+{"name": "Flour", "id": 5886902, "predecessors": [{"name": "Cereals", "id": 694869}, {"name": "Food_powders", "id": 68408225}, {"name": "Starch", "id": 23928135}], "successors": [{"name": "Flour_mills", "id": 25898012}]}

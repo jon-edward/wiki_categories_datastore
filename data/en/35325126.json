@@ -1,1 +1,1 @@
-{"name": "Paintings_by_Pablo_Picasso", "id": 35325126, "predecessors": [{"name": "Modern_paintings", "id": 4255300}, {"name": "Spanish_paintings", "id": 14077811}, {"name": "Pablo_Picasso", "id": 1139876}], "successors": [{"name": "Portraits_by_Pablo_Picasso", "id": 41962223}]}
+{"name": "Paintings_by_Pablo_Picasso", "id": 35325126, "predecessors": [{"name": "Modern_paintings", "id": 4255300}, {"name": "Works_by_artist", "id": 3673705}, {"name": "Pablo_Picasso", "id": 1139876}], "successors": [{"name": "Portraits_by_Pablo_Picasso", "id": 41962223}]}

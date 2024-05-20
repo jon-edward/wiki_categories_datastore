@@ -1,1 +1,1 @@
-{"name": "Linux-only_free_software", "id": 68399187, "predecessors": [{"name": "Linux_software", "id": 9519323}], "successors": []}
+{"name": "Linux-only_free_software", "id": 68399187, "predecessors": [{"name": "Linux_software", "id": 9519323}, {"name": "Free_and_open-source_software", "id": 40888749}], "successors": []}

@@ -1,1 +1,0 @@
-{"name": "Circuit_intégré", "id": 1068605, "predecessors": [{"name": "Composant_actif", "id": 164211}, {"name": "Invention_du_XXe_siècle", "id": 9577875}], "successors": [{"name": "Microprocesseur", "id": 175718}, {"name": "Microcontrôleur", "id": 468380}, {"name": "Circuit_intégré_logique", "id": 1071175}, {"name": "SoC_ARM", "id": 6440063}]}

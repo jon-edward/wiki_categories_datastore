@@ -1,1 +1,1 @@
-{"name": "OpenBSD", "id": 4693625, "predecessors": [{"name": "Berkeley_Software_Distribution", "id": 35018480}], "successors": [{"name": "OpenBSD_software_using_the_ISC_license", "id": 49974504}]}
+{"name": "OpenBSD", "id": 4693625, "predecessors": [{"name": "Berkeley_Software_Distribution", "id": 35018480}, {"name": "Free_software_operating_systems", "id": 1337950}, {"name": "Lightweight_Unix-like_systems", "id": 24290877}], "successors": [{"name": "OpenBSD_software_using_the_ISC_license", "id": 49974504}]}

@@ -1,1 +1,1 @@
-{"name": "Shipbuilding_companies_of_Japan", "id": 3283574, "predecessors": [{"name": "Manufacturing_companies_of_Japan", "id": 4688489}, {"name": "Transport_in_Japan", "id": 6394372}], "successors": [{"name": "IHI_Corporation", "id": 49949538}]}
+{"name": "Shipbuilding_companies_of_Japan", "id": 3283574, "predecessors": [{"name": "Water_transport", "id": 907307}], "successors": [{"name": "IHI_Corporation", "id": 49949538}, {"name": "Imperial_Japanese_Navy_arsenals", "id": 76894798}]}

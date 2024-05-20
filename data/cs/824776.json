@@ -1,1 +1,1 @@
-{"name": "Signalizační_systém_č._7", "id": 824776, "predecessors": [{"name": "Rodiny_síťových_protokolů", "id": 1057219}, {"name": "Telefonie", "id": 22854}], "successors": []}
+{"name": "Signalizační_systém_č._7", "id": 824776, "predecessors": [{"name": "Rodiny_síťových_protokolů", "id": 1057219}, {"name": "Signalizace_(telekomunikace)", "id": 879344}, {"name": "Telefonie", "id": 22854}], "successors": []}

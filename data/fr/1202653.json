@@ -1,1 +1,0 @@
-{"name": "Alimentation_électrique", "id": 1202653, "predecessors": [{"name": "Distribution_de_l'énergie_électrique", "id": 1174378}, {"name": "Production_de_l'énergie_électrique", "id": 1174338}], "successors": [{"name": "Accumulateur", "id": 1078157}, {"name": "Pile", "id": 1078161}]}

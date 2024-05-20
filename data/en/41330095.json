@@ -1,1 +1,1 @@
-{"name": "Age_of_Discovery_ships", "id": 41330095, "predecessors": [{"name": "Age_of_Discovery", "id": 2808505}, {"name": "Age_of_Sail_individual_ships", "id": 41330067}], "successors": []}
+{"name": "Age_of_Discovery_ships", "id": 41330095, "predecessors": [{"name": "Age_of_Discovery", "id": 2808505}, {"name": "Age_of_Sail_individual_ships", "id": 41330067}, {"name": "Exploration_ships", "id": 968408}], "successors": []}

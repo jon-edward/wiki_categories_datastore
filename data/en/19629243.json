@@ -1,1 +1,1 @@
-{"name": "Deaths_from_pulmonary_hemorrhage", "id": 19629243, "predecessors": [{"name": "Deaths_from_bleeding", "id": 19629296}, {"name": "Deaths_from_lung_disease", "id": 14244764}], "successors": []}
+{"name": "Deaths_from_pulmonary_hemorrhage", "id": 19629243, "predecessors": [{"name": "Deaths_from_bleeding", "id": 19629296}], "successors": []}

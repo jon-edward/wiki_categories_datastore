@@ -1,1 +1,1 @@
-{"name": "Cold_waves_in_Europe", "id": 50398231, "predecessors": [{"name": "Weather_events_in_Europe", "id": 29579231}, {"name": "Continents", "id": 788686}, {"name": "Natural_disasters", "id": 2643767}], "successors": [{"name": "Cold_waves_in_the_United_Kingdom", "id": 41847910}]}
+{"name": "Cold_waves_in_Europe", "id": 50398231, "predecessors": [{"name": "Weather_events_in_Europe", "id": 29579231}, {"name": "Continents", "id": 788686}, {"name": "Cold", "id": 27262150}], "successors": [{"name": "Cold_waves_in_the_United_Kingdom", "id": 41847910}]}

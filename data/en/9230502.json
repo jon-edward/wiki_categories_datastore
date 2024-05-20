@@ -1,1 +1,1 @@
-{"name": "Detroit_Diesel_engines", "id": 9230502, "predecessors": [{"name": "Automobile_engines", "id": 773958}], "successors": []}
+{"name": "Detroit_Diesel_engines", "id": 9230502, "predecessors": [{"name": "Automobile_engines", "id": 773958}, {"name": "Diesel_engines", "id": 16236256}], "successors": []}

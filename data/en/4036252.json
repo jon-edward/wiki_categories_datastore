@@ -1,1 +1,1 @@
-{"name": "Latin_squares", "id": 4036252, "predecessors": [{"name": "Recreational_mathematics", "id": 969007}], "successors": [{"name": "Magic_squares", "id": 969001}, {"name": "Sudoku", "id": 3679615}]}
+{"name": "Latin_squares", "id": 4036252, "predecessors": [{"name": "Design_of_experiments", "id": 31195693}, {"name": "Recreational_mathematics", "id": 969007}], "successors": [{"name": "Magic_squares", "id": 969001}, {"name": "Sudoku", "id": 3679615}]}

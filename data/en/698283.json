@@ -1,1 +1,1 @@
-{"name": "Tourist_activities", "id": 698283, "predecessors": [{"name": "Leisure_activities", "id": 8245547}, {"name": "Tourism", "id": 698284}], "successors": []}
+{"name": "Tourist_activities", "id": 698283, "predecessors": [{"name": "Tourism", "id": 698284}], "successors": []}

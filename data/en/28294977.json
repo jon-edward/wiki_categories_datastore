@@ -1,1 +1,1 @@
-{"name": "Alcohol_fuels", "id": 28294977, "predecessors": [{"name": "Alcohols", "id": 713775}, {"name": "Biofuels", "id": 4102968}], "successors": [{"name": "Ethanol_fuel", "id": 3398589}, {"name": "Alcohol_fuel_producers", "id": 28432226}]}
+{"name": "Alcohol_fuels", "id": 28294977, "predecessors": [{"name": "Alcohols", "id": 713775}], "successors": [{"name": "Ethanol_fuel", "id": 3398589}, {"name": "Alcohol_fuel_producers", "id": 28432226}]}

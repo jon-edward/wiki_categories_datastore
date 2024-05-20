@@ -1,1 +1,1 @@
-{"name": "Thoracic_surgery", "id": 8392983, "predecessors": [{"name": "Surgical_specialties", "id": 3622839}], "successors": [{"name": "Pulmonary_thoracic_surgery", "id": 32521141}, {"name": "Thoracic_surgical_procedures", "id": 46419467}]}
+{"name": "Thoracic_surgery", "id": 8392983, "predecessors": [{"name": "Surgical_specialties", "id": 3622839}, {"name": "Thorax_(human_anatomy)", "id": 36697099}], "successors": [{"name": "Pulmonary_thoracic_surgery", "id": 32521141}, {"name": "Thoracic_surgical_procedures", "id": 46419467}]}

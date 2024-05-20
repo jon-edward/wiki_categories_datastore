@@ -1,1 +1,0 @@
-{"name": "Schmied", "id": 6528009, "predecessors": [{"name": "Handwerker", "id": 247653}, {"name": "Schmieden", "id": 3145568}], "successors": [{"name": "Goldschmied", "id": 237470}, {"name": "Kunstschmied", "id": 6528010}, {"name": "Waffenschmied", "id": 6528012}]}

@@ -1,1 +1,1 @@
-{"name": "Hospital_bombings_in_Asia", "id": 76526831, "predecessors": [{"name": "Building_bombings_in_Asia", "id": 65034501}, {"name": "Health_disasters", "id": 22991798}, {"name": "Health_disasters_in_Asia", "id": 33120452}], "successors": [{"name": "Attacks_on_hospitals_during_the_Syrian_civil_war", "id": 75326285}]}
+{"name": "Hospital_bombings_in_Asia", "id": 76526831, "predecessors": [{"name": "Health_disasters", "id": 22991798}], "successors": [{"name": "Attacks_on_hospitals_during_the_Syrian_civil_war", "id": 75326285}]}

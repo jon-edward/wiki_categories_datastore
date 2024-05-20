@@ -1,1 +1,0 @@
-{"name": "Kartenspiel", "id": 239966, "predecessors": [{"name": "Spiel", "id": 238339}, {"name": "Spiele", "id": 2145812}], "successors": [{"name": "Kartenspiel_mit_traditionellem_Blatt", "id": 2202796}, {"name": "Kartenspiel_mit_speziellem_Blatt", "id": 2202798}, {"name": "Stichspiel", "id": 2262185}]}

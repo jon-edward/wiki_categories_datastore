@@ -1,1 +1,1 @@
-{"name": "Jute_industry_trade_unions", "id": 61922733, "predecessors": [{"name": "Textile_and_clothing_trade_unions", "id": 4055691}, {"name": "Agriculture_by_type", "id": 31038144}], "successors": []}
+{"name": "Jute_industry_trade_unions", "id": 61922733, "predecessors": [{"name": "Textile_and_clothing_trade_unions", "id": 4055691}, {"name": "Jute", "id": 28105244}], "successors": []}

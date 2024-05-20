@@ -1,1 +1,1 @@
-{"name": "Solar_observatories", "id": 28924406, "predecessors": [{"name": "Discovery_and_exploration_of_the_Solar_System", "id": 21187704}, {"name": "Sun", "id": 887873}], "successors": [{"name": "Solar_telescopes", "id": 21678256}, {"name": "Solar_space_observatories", "id": 40829720}]}
+{"name": "Solar_observatories", "id": 28924406, "predecessors": [{"name": "Discovery_and_exploration_of_the_Solar_System", "id": 21187704}], "successors": [{"name": "Solar_telescopes", "id": 21678256}, {"name": "Solar_space_observatories", "id": 40829720}]}

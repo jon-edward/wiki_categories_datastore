@@ -1,1 +1,1 @@
-{"name": "Naval_meteorology", "id": 72115297, "predecessors": [{"name": "Marine_meteorology", "id": 4165989}, {"name": "Naval_units_and_formations", "id": 42408491}, {"name": "Atmospheric_sciences", "id": 3407606}], "successors": [{"name": "Weather_ships", "id": 32535089}]}
+{"name": "Naval_meteorology", "id": 72115297, "predecessors": [{"name": "Military_science", "id": 1437392}], "successors": [{"name": "Weather_ships", "id": 32535089}]}

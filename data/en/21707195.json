@@ -1,1 +1,1 @@
-{"name": "Puzzle_competitions", "id": 21707195, "predecessors": [{"name": "Puzzles", "id": 1013641}, {"name": "Competitions", "id": 737119}], "successors": []}
+{"name": "Puzzle_competitions", "id": 21707195, "predecessors": [{"name": "Puzzles", "id": 1013641}, {"name": "Competitions", "id": 737119}], "successors": [{"name": "Puzzle_hunts", "id": 4229924}]}

@@ -1,1 +1,1 @@
-{"name": "Shopping_bags", "id": 21757955, "predecessors": [{"name": "Distribution_(marketing)", "id": 1232228}], "successors": []}
+{"name": "Shopping_bags", "id": 21757955, "predecessors": [{"name": "Bags", "id": 8109357}, {"name": "Equipment", "id": 3228046}], "successors": []}

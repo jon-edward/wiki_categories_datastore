@@ -1,1 +1,1 @@
-{"name": "Deaths_due_to_ship_fires", "id": 51901522, "predecessors": [{"name": "Deaths_from_fire", "id": 30338789}, {"name": "Ship_fires", "id": 2650827}, {"name": "Water_transport", "id": 907307}], "successors": []}
+{"name": "Deaths_due_to_ship_fires", "id": 51901522, "predecessors": [{"name": "Ship_fires", "id": 2650827}, {"name": "Water_transport", "id": 907307}], "successors": []}

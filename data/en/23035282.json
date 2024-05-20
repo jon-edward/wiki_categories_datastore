@@ -1,1 +1,1 @@
-{"name": "FK_Mogren_players", "id": 23035282, "predecessors": [{"name": "Football_clubs_in_Montenegro", "id": 34431720}], "successors": []}
+{"name": "FK_Mogren_players", "id": 23035282, "predecessors": [{"name": "Football_clubs_in_Montenegro", "id": 34431720}, {"name": "Team_sports", "id": 700681}], "successors": []}

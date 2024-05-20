@@ -1,1 +1,1 @@
-{"name": "Medical_doctors_from_County_Antrim", "id": 74047009, "predecessors": [{"name": "People_from_County_Antrim", "id": 10228425}], "successors": []}
+{"name": "Medical_doctors_from_County_Antrim", "id": 74047009, "predecessors": [{"name": "Healthcare_in_Ireland", "id": 56629520}], "successors": [{"name": "Medical_doctors_from_Belfast", "id": 57497373}]}

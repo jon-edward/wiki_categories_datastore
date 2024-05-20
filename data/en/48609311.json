@@ -1,1 +1,1 @@
-{"name": "Cabbage_soups", "id": 48609311, "predecessors": [{"name": "Vegetable_soups", "id": 44802250}], "successors": []}
+{"name": "Cabbage_soups", "id": 48609311, "predecessors": [{"name": "Cabbage_dishes", "id": 42013971}, {"name": "Vegetable_soups", "id": 44802250}], "successors": []}

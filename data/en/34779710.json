@@ -1,1 +1,1 @@
-{"name": "Cold_War_policies", "id": 34779710, "predecessors": [{"name": "Cold_War", "id": 691614}, {"name": "Policy", "id": 8592882}], "successors": [{"name": "Nuclear_strategy", "id": 705682}, {"name": "Cold_War_treaties", "id": 2537015}]}
+{"name": "Cold_War_policies", "id": 34779710, "predecessors": [{"name": "Cold_War", "id": 691614}], "successors": [{"name": "Nuclear_strategy", "id": 705682}, {"name": "Cold_War_treaties", "id": 2537015}]}

@@ -1,1 +1,1 @@
-{"name": "Music_therapists", "id": 29091926, "predecessors": [{"name": "Music_therapy", "id": 13679690}, {"name": "Health", "id": 751381}], "successors": []}
+{"name": "Music_therapists", "id": 29091926, "predecessors": [{"name": "Music_therapy", "id": 13679690}, {"name": "Health_care_occupations", "id": 1006080}], "successors": []}

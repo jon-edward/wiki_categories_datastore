@@ -1,1 +1,1 @@
-{"name": "Choir_schools", "id": 2812815, "predecessors": [{"name": "Choirs", "id": 913858}], "successors": [{"name": "Cathedral_schools", "id": 31980628}, {"name": "Choir_schools_in_England", "id": 64321601}]}
+{"name": "Choir_schools", "id": 2812815, "predecessors": [{"name": "Choirs", "id": 913858}, {"name": "Schools_of_the_performing_arts", "id": 2812086}], "successors": [{"name": "Cathedral_schools", "id": 31980628}, {"name": "Choir_schools_in_England", "id": 64321601}]}

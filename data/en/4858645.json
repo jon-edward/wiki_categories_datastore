@@ -1,1 +1,1 @@
-{"name": "Educational_abstract_machines", "id": 4858645, "predecessors": [{"name": "Educational_software", "id": 1750815}], "successors": [{"name": "Turing_machine", "id": 25362465}]}
+{"name": "Educational_abstract_machines", "id": 4858645, "predecessors": [{"name": "Educational_software", "id": 1750815}, {"name": "Implementation_of_functional_programming_languages", "id": 30678222}], "successors": [{"name": "Turing_machine", "id": 25362465}]}

@@ -1,1 +1,1 @@
-{"name": "Tramtransporto_laŭ_urboj", "id": 422740, "predecessors": [{"name": "Tramtransporto", "id": 287409}, {"name": "Transporto", "id": 51301}], "successors": []}
+{"name": "Tramtransporto_laŭ_urboj", "id": 422740, "predecessors": [{"name": "Tramtransporto", "id": 287409}, {"name": "Fervoja_transporto", "id": 588553}], "successors": []}

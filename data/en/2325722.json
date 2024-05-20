@@ -1,1 +1,1 @@
-{"name": "Transport_phenomena", "id": 2325722, "predecessors": [{"name": "Chemical_engineering", "id": 1147083}], "successors": [{"name": "Radiation", "id": 2055387}, {"name": "Diffusion", "id": 2326068}, {"name": "Convection", "id": 8113480}, {"name": "Heat_transfer", "id": 23011909}]}
+{"name": "Transport_phenomena", "id": 2325722, "predecessors": [{"name": "Chemical_engineering", "id": 1147083}, {"name": "Physical_phenomena", "id": 3450392}], "successors": []}

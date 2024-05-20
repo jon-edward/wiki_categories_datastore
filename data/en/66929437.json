@@ -1,1 +1,1 @@
-{"name": "Moravian_rabbis", "id": 66929437, "predecessors": [{"name": "Czech_rabbis", "id": 14715752}, {"name": "Moravian_Jews", "id": 66929449}], "successors": [{"name": "Rabbis_from_Nikolsburg", "id": 39943384}]}
+{"name": "Moravian_rabbis", "id": 66929437, "predecessors": [{"name": "Moravian_Jews", "id": 66929449}, {"name": "Czech_Jews", "id": 5104583}], "successors": [{"name": "Rabbis_from_Nikolsburg", "id": 39943384}]}

@@ -1,1 +1,1 @@
-{"name": "Pain_in_animals", "id": 47517991, "predecessors": [{"name": "Animal_welfare", "id": 991706}, {"name": "Nociception", "id": 1061109}, {"name": "Pain", "id": 1061105}], "successors": []}
+{"name": "Pain_in_animals", "id": 47517991, "predecessors": [{"name": "Nociception", "id": 1061109}, {"name": "Pain", "id": 1061105}], "successors": []}

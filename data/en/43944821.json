@@ -1,1 +1,1 @@
-{"name": "Intellectual_property_lawyers", "id": 43944821, "predecessors": [{"name": "Intellectual_property_law", "id": 6583610}], "successors": [{"name": "Patent_attorneys", "id": 2569075}]}
+{"name": "Intellectual_property_lawyers", "id": 43944821, "predecessors": [{"name": "Intellectual_property_law", "id": 6583610}, {"name": "Lawyers_by_type", "id": 1403787}], "successors": [{"name": "Patent_attorneys", "id": 2569075}]}

@@ -1,1 +1,1 @@
-{"name": "German_merchants", "id": 29069009, "predecessors": [{"name": "German_businesspeople", "id": 1089890}, {"name": "Commodity_markets", "id": 42311854}], "successors": [{"name": "Medieval_German_merchants", "id": 48618138}]}
+{"name": "German_merchants", "id": 29069009, "predecessors": [{"name": "Businesspeople_in_retailing", "id": 11031794}], "successors": [{"name": "Medieval_German_merchants", "id": 48618138}]}

@@ -1,1 +1,0 @@
-{"name": "Windows-Betriebssystemkomponente", "id": 4406680, "predecessors": [{"name": "Windows-Software", "id": 900673}, {"name": "Betriebssystemkomponente", "id": 2428733}], "successors": [{"name": "Windows-Systemdienst", "id": 6339793}, {"name": "Windows-Programmierschnittstelle", "id": 9832652}]}

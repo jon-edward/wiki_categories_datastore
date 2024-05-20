@@ -1,1 +1,1 @@
-{"name": "Straits_of_Greenland", "id": 21171547, "predecessors": [{"name": "Straits_of_Denmark", "id": 12230258}, {"name": "Straits_of_the_Atlantic_Ocean", "id": 22747023}, {"name": "North_America", "id": 878995}], "successors": [{"name": "Davis_Strait", "id": 27945508}, {"name": "Straits_of_the_Upernavik_Archipelago", "id": 45094729}]}
+{"name": "Straits_of_Greenland", "id": 21171547, "predecessors": [{"name": "Straits_of_Denmark", "id": 12230258}, {"name": "Environment_of_the_Arctic", "id": 18894795}], "successors": [{"name": "Davis_Strait", "id": 27945508}]}

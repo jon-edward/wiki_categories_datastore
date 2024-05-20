@@ -1,1 +1,1 @@
-{"name": "Financial_routing_standards", "id": 21376437, "predecessors": [{"name": "Payment_systems", "id": 1053701}], "successors": [{"name": "Security_identifier_types", "id": 1025496}, {"name": "Bank_codes", "id": 41636950}]}
+{"name": "Financial_routing_standards", "id": 21376437, "predecessors": [{"name": "Payment_systems", "id": 1053701}, {"name": "Standards", "id": 724561}], "successors": [{"name": "Security_identifier_types", "id": 1025496}, {"name": "Bank_codes", "id": 41636950}]}

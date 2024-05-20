@@ -1,1 +1,1 @@
-{"name": "Geology_of_Antofagasta_Region", "id": 51374969, "predecessors": [{"name": "Regions_of_Chile", "id": 899932}], "successors": [{"name": "Mines_in_Antofagasta_Region", "id": 20891791}, {"name": "Volcanoes_of_Antofagasta_Region", "id": 33636279}]}
+{"name": "Geology_of_Antofagasta_Region", "id": 51374969, "predecessors": [{"name": "Regions_of_Chile", "id": 899932}, {"name": "Geology_of_Chile", "id": 8452279}], "successors": [{"name": "Mines_in_Antofagasta_Region", "id": 20891791}, {"name": "Volcanoes_of_Antofagasta_Region", "id": 33636279}]}

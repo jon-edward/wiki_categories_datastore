@@ -1,1 +1,1 @@
-{"name": "Copyright_enforcement", "id": 2684731, "predecessors": [{"name": "Copyright_law", "id": 702268}, {"name": "Warez", "id": 1623611}], "successors": [{"name": "Digital_Millennium_Copyright_Act_takedown_incidents", "id": 14893458}]}
+{"name": "Copyright_enforcement", "id": 2684731, "predecessors": [{"name": "Copyright_law", "id": 702268}, {"name": "Law_enforcement_techniques", "id": 1307032}, {"name": "Warez", "id": 1623611}], "successors": [{"name": "Digital_Millennium_Copyright_Act_takedown_incidents", "id": 14893458}]}

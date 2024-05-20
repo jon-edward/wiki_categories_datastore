@@ -1,1 +1,0 @@
-{"name": "Défense_antiaérienne", "id": 2830049, "predecessors": [{"name": "Équipement_militaire", "id": 2841725}], "successors": [{"name": "Missile_surface-air", "id": 1599853}, {"name": "Missile_air-air", "id": 1673980}, {"name": "Canon_antiaérien", "id": 2830512}, {"name": "Véhicule_antiaérien", "id": 10455323}, {"name": "Réseau_radar_de_défense_aérienne", "id": 13489800}]}

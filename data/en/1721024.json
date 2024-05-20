@@ -1,0 +1,1 @@
+{"name": "Signal_cables", "id": 1721024, "predecessors": [{"name": "Cables", "id": 1720873}, {"name": "Electrical_components", "id": 709571}, {"name": "Telecommunications_equipment", "id": 1952309}], "successors": [{"name": "Optical_fiber", "id": 1470617}, {"name": "Submarine_communications_cables", "id": 32989140}, {"name": "Ethernet_cables", "id": 2068176}]}

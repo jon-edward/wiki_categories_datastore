@@ -1,1 +1,1 @@
-{"name": "Pheasants", "id": 2475502, "predecessors": [{"name": "Birds_by_common_name", "id": 11002423}, {"name": "Game_birds", "id": 4982381}, {"name": "Phasianidae", "id": 1387055}], "successors": [{"name": "Gallopheasants", "id": 2475463}, {"name": "Polyplectron", "id": 5325464}]}
+{"name": "Pheasants", "id": 2475502, "predecessors": [{"name": "Game_birds", "id": 4982381}], "successors": []}

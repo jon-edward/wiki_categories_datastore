@@ -1,1 +1,1 @@
-{"name": "Bus_transport_in_New_South_Wales", "id": 5665303, "predecessors": [{"name": "Economy_of_Oceania", "id": 12074081}], "successors": [{"name": "Bus_companies_of_New_South_Wales", "id": 29583687}, {"name": "Bus_transport_in_Sydney", "id": 39825932}]}
+{"name": "Bus_transport_in_New_South_Wales", "id": 5665303, "predecessors": [{"name": "Transport_in_New_South_Wales", "id": 1743772}, {"name": "Transport_in_Australia", "id": 1347303}], "successors": [{"name": "Bus_companies_of_New_South_Wales", "id": 29583687}, {"name": "Bus_transport_in_Sydney", "id": 39825932}]}

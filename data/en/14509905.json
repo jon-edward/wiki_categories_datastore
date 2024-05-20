@@ -1,1 +1,0 @@
-{"name": "Interest", "id": 14509905, "predecessors": [{"name": "Renting", "id": 13682390}], "successors": [{"name": "Interest_rates", "id": 2021176}, {"name": "Interest-bearing_instruments", "id": 41030222}]}

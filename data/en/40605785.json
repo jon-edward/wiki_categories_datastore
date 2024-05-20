@@ -1,1 +1,1 @@
-{"name": "LG_Electronics_products", "id": 40605785, "predecessors": [{"name": "LG_Electronics", "id": 36064867}, {"name": "Manufacturing", "id": 867519}], "successors": [{"name": "LG_Electronics_mobile_phones", "id": 10719122}]}
+{"name": "LG_Electronics_products", "id": 40605785, "predecessors": [{"name": "LG_Electronics", "id": 36064867}, {"name": "Economy_of_South_Korea", "id": 2791569}], "successors": [{"name": "LG_Electronics_mobile_phones", "id": 10719122}]}

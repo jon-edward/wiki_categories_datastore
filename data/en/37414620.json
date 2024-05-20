@@ -1,1 +1,1 @@
-{"name": "Sponge_diving", "id": 37414620, "predecessors": [{"name": "Underwater_work", "id": 6868360}, {"name": "Marine_occupations", "id": 7258620}, {"name": "Sponges", "id": 13711564}, {"name": "Underwater_diving", "id": 13972292}], "successors": []}
+{"name": "Sponge_diving", "id": 37414620, "predecessors": [{"name": "Underwater_work", "id": 6868360}, {"name": "Sponges", "id": 13711564}, {"name": "Underwater_diving", "id": 13972292}], "successors": []}

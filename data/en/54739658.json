@@ -1,1 +1,1 @@
-{"name": "4-Quinolones", "id": 54739658, "predecessors": [{"name": "Aromatic_ketones", "id": 23271655}], "successors": [{"name": "Quinolone_antibiotics", "id": 11137462}, {"name": "1,4-di-hydro-7-(1-piperazinyl)-4-oxo-3-quinolinecarboxylic_acids", "id": 61395379}]}
+{"name": "4-Quinolones", "id": 54739658, "predecessors": [{"name": "Aromatic_ketones", "id": 23271655}, {"name": "Quinolines", "id": 9063570}], "successors": [{"name": "Quinolone_antibiotics", "id": 11137462}, {"name": "1,4-di-hydro-7-(1-piperazinyl)-4-oxo-3-quinolinecarboxylic_acids", "id": 61395379}]}

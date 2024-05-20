@@ -1,1 +1,1 @@
-{"name": "Waste_collection", "id": 6141845, "predecessors": [{"name": "Public_services", "id": 5678592}, {"name": "Waste_management", "id": 1233052}, {"name": "Freight_transport", "id": 710066}], "successors": [{"name": "Waste_containers", "id": 6476507}, {"name": "Waste_collection_vehicles", "id": 6610366}]}
+{"name": "Waste_collection", "id": 6141845, "predecessors": [{"name": "Public_services", "id": 5678592}, {"name": "Freight_transport", "id": 710066}], "successors": [{"name": "Waste_containers", "id": 6476507}, {"name": "Waste_collection_vehicles", "id": 6610366}]}

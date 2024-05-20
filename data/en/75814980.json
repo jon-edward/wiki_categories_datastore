@@ -1,1 +1,1 @@
-{"name": "Public_health_research_institutes", "id": 75814980, "predecessors": [{"name": "Medical_research_institutes", "id": 1275525}, {"name": "Public_health_organizations", "id": 14573718}, {"name": "Public_health_research", "id": 35466885}], "successors": []}
+{"name": "Public_health_research_institutes", "id": 75814980, "predecessors": [{"name": "Public_health_organizations", "id": 14573718}], "successors": []}

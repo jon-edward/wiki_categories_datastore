@@ -1,1 +1,1 @@
-{"name": "Anti-tank_grenades", "id": 22069584, "predecessors": [{"name": "Grenades", "id": 1021085}], "successors": []}
+{"name": "Anti-tank_grenades", "id": 22069584, "predecessors": [{"name": "Anti-tank_weapons", "id": 1023638}, {"name": "Grenades", "id": 1021085}], "successors": []}

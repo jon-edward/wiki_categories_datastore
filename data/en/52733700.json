@@ -1,1 +1,1 @@
-{"name": "CYP17A1_inhibitors", "id": 52733700, "predecessors": [{"name": "Antiandrogens", "id": 732640}, {"name": "Antiglucocorticoids", "id": 732641}, {"name": "Cytochrome_P450", "id": 1024785}, {"name": "Enzyme_inhibitors", "id": 19642097}], "successors": []}
+{"name": "CYP17A1_inhibitors", "id": 52733700, "predecessors": [{"name": "Antiandrogens", "id": 732640}, {"name": "Antiglucocorticoids", "id": 732641}, {"name": "Cytochrome_P450", "id": 1024785}], "successors": []}

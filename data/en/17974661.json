@@ -1,0 +1,1 @@
+{"name": "Oil_terminals", "id": 17974661, "predecessors": [{"name": "Fuel_containers", "id": 18509502}, {"name": "Oil_storage", "id": 25667438}, {"name": "Petroleum_transport", "id": 18033511}, {"name": "Ports_and_harbours", "id": 3047410}, {"name": "Petroleum_industry", "id": 37426453}], "successors": []}

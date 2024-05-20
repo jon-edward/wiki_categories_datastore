@@ -1,1 +1,1 @@
-{"name": "Scientific_expeditions", "id": 8120296, "predecessors": [{"name": "Exploration", "id": 968416}, {"name": "Field_research", "id": 64712589}], "successors": [{"name": "Oceanographic_expeditions", "id": 27652120}, {"name": "Archaeological_expeditions", "id": 36501635}, {"name": "Botanical_expeditions", "id": 40390527}]}
+{"name": "Scientific_expeditions", "id": 8120296, "predecessors": [{"name": "History_of_science", "id": 707333}, {"name": "Exploration", "id": 968416}], "successors": []}

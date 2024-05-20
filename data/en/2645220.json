@@ -1,1 +1,1 @@
-{"name": "Optical_filters", "id": 2645220, "predecessors": [{"name": "Filters", "id": 1606595}, {"name": "Photography_equipment", "id": 8066037}], "successors": []}
+{"name": "Optical_filters", "id": 2645220, "predecessors": [{"name": "Filters", "id": 1606595}, {"name": "Optical_components", "id": 49937184}, {"name": "Photography_equipment", "id": 8066037}], "successors": []}

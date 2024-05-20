@@ -1,1 +1,1 @@
-{"name": "Bad_banks", "id": 37525125, "predecessors": [{"name": "Banks", "id": 718748}, {"name": "Financial_crises", "id": 11354087}], "successors": []}
+{"name": "Bad_banks", "id": 37525125, "predecessors": [{"name": "Financial_crises", "id": 11354087}], "successors": []}

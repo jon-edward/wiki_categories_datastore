@@ -1,1 +1,1 @@
-{"name": "Irrigation_in_China", "id": 14828878, "predecessors": [{"name": "Agriculture_in_China", "id": 9626896}, {"name": "Irrigation_by_country", "id": 12223584}, {"name": "Health_in_China", "id": 17697760}], "successors": []}
+{"name": "Irrigation_in_China", "id": 14828878, "predecessors": [{"name": "Irrigation_by_country", "id": 12223584}, {"name": "Water_supply_and_sanitation_by_country", "id": 10719057}], "successors": []}

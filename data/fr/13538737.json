@@ -1,1 +1,0 @@
-{"name": "Viande_par_animal", "id": 13538737, "predecessors": [{"name": "Viande", "id": 284316}, {"name": "Accueil", "id": 1155637}], "successors": [{"name": "Viande_bovine", "id": 4278014}, {"name": "Race_chevaline_élevée_pour_la_viande", "id": 9573698}, {"name": "Spécialité_à_base_de_viande_ovine", "id": 6413577}, {"name": "Spécialité_à_base_de_viande_porcine", "id": 5493512}]}

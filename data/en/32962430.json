@@ -1,1 +1,1 @@
-{"name": "Exhibitions_in_France", "id": 32962430, "predecessors": [{"name": "Tourism_in_France", "id": 2664305}], "successors": [{"name": "Art_exhibitions_in_France", "id": 35858183}]}
+{"name": "Exhibitions_in_France", "id": 32962430, "predecessors": [{"name": "Exhibitions", "id": 1473785}, {"name": "Tourism_in_France", "id": 2664305}], "successors": [{"name": "Art_exhibitions_in_France", "id": 35858183}]}

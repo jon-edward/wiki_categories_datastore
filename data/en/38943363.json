@@ -1,1 +1,1 @@
-{"name": "Migrant_hostels_in_Australia", "id": 38943363, "predecessors": [{"name": "Hostels", "id": 10457079}], "successors": []}
+{"name": "Migrant_hostels_in_Australia", "id": 38943363, "predecessors": [{"name": "Immigration_to_Australia", "id": 9231944}, {"name": "Government_of_Australia", "id": 1181124}, {"name": "Hostels", "id": 10457079}], "successors": []}

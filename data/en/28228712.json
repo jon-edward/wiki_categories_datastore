@@ -1,1 +1,1 @@
-{"name": "Filter_frequency_response", "id": 28228712, "predecessors": [{"name": "Frequency", "id": 66501513}], "successors": []}
+{"name": "Filter_frequency_response", "id": 28228712, "predecessors": [{"name": "Filter_theory", "id": 1866651}, {"name": "Frequency", "id": 66501513}, {"name": "Tone,_EQ_and_filter", "id": 25543679}, {"name": "Synthesizers", "id": 757735}], "successors": []}

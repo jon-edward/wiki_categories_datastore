@@ -1,1 +1,1 @@
-{"name": "Military_oaths", "id": 8768386, "predecessors": [{"name": "Oaths", "id": 1600172}, {"name": "State_ritual_and_ceremonies", "id": 15205837}], "successors": []}
+{"name": "Military_oaths", "id": 8768386, "predecessors": [{"name": "Military_law", "id": 915728}, {"name": "Military_life", "id": 1018928}, {"name": "Oaths", "id": 1600172}, {"name": "State_ritual_and_ceremonies", "id": 15205837}], "successors": []}

@@ -1,1 +1,0 @@
-{"name": "Unix", "id": 129638, "predecessors": [{"name": "Système_d'exploitation", "id": 82488}], "successors": [{"name": "Shell_Unix", "id": 129641}, {"name": "Logiciel_pour_Unix", "id": 518981}, {"name": "Commande_Unix", "id": 860269}, {"name": "Linux", "id": 104662}, {"name": "BSD", "id": 104674}, {"name": "MacOS", "id": 3167893}, {"name": "GNU", "id": 4942824}]}

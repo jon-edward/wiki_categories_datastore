@@ -1,1 +1,1 @@
-{"name": "Stasi_informants", "id": 75667837, "predecessors": [{"name": "Stasi", "id": 15840310}], "successors": []}
+{"name": "Stasi_informants", "id": 75667837, "predecessors": [{"name": "Police_informants", "id": 43389200}, {"name": "Stasi", "id": 15840310}], "successors": []}

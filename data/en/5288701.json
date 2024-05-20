@@ -1,1 +1,1 @@
-{"name": "Shoe_brands", "id": 5288701, "predecessors": [{"name": "Retailers_by_type_of_merchandise_sold", "id": 55586528}], "successors": [{"name": "Athletic_shoe_brands", "id": 23118548}, {"name": "Puma_(brand)", "id": 33846829}, {"name": "Bata_Corporation", "id": 33846836}]}
+{"name": "Shoe_brands", "id": 5288701, "predecessors": [{"name": "Clothing", "id": 737090}], "successors": [{"name": "Athletic_shoe_brands", "id": 23118548}, {"name": "Puma_(brand)", "id": 33846829}, {"name": "Bata_Corporation", "id": 33846836}]}

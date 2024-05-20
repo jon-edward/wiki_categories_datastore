@@ -1,1 +1,1 @@
-{"name": "Medical_device_manufacturers", "id": 58208770, "predecessors": [{"name": "Medical_devices", "id": 41242589}, {"name": "Biotechnology_companies", "id": 2402861}], "successors": [{"name": "X-ray_equipment_manufacturers", "id": 16268133}]}
+{"name": "Medical_device_manufacturers", "id": 58208770, "predecessors": [{"name": "Medical_devices", "id": 41242589}, {"name": "Medical_technology", "id": 18960497}], "successors": []}

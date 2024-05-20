@@ -1,1 +1,1 @@
-{"name": "Subdivisions_of_Praia", "id": 52345766, "predecessors": [{"name": "Praia", "id": 8520557}], "successors": [{"name": "Plateau_of_Praia", "id": 52236893}]}
+{"name": "Subdivisions_of_Praia", "id": 52345766, "predecessors": [{"name": "Praia", "id": 8520557}, {"name": "Cities", "id": 699805}], "successors": [{"name": "Plateau_of_Praia", "id": 52236893}]}

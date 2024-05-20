@@ -1,1 +1,1 @@
-{"name": "Hearses", "id": 57276100, "predecessors": [{"name": "Car_body_styles", "id": 750616}, {"name": "Commercial_vehicles", "id": 5689565}], "successors": []}
+{"name": "Hearses", "id": 57276100, "predecessors": [{"name": "Car_body_styles", "id": 750616}, {"name": "Commercial_vehicles", "id": 5689565}, {"name": "Funeral_transport", "id": 30135675}], "successors": []}

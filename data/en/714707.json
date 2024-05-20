@@ -1,1 +1,1 @@
-{"name": "Nucleic_acids", "id": 714707, "predecessors": [{"name": "Nucleotides", "id": 744254}, {"name": "Organic_acids", "id": 978289}], "successors": [{"name": "RNA", "id": 726353}, {"name": "DNA", "id": 745820}, {"name": "RNA_vaccines", "id": 66497165}]}
+{"name": "Nucleic_acids", "id": 714707, "predecessors": [{"name": "Nucleotides", "id": 744254}, {"name": "Organic_acids", "id": 978289}, {"name": "Organic_polymers", "id": 987522}], "successors": [{"name": "RNA", "id": 726353}, {"name": "DNA", "id": 745820}, {"name": "RNA_vaccines", "id": 66497165}]}

@@ -1,1 +1,1 @@
-{"name": "Thiazolidinediones", "id": 3358078, "predecessors": [{"name": "Anti-diabetic_drugs", "id": 722742}, {"name": "Lactams", "id": 13555437}, {"name": "PPAR_agonists", "id": 38934800}, {"name": "Carbamates", "id": 5127812}], "successors": []}
+{"name": "Thiazolidinediones", "id": 3358078, "predecessors": [{"name": "Lactams", "id": 13555437}, {"name": "Thiazolidines", "id": 25872236}, {"name": "Thiocarbonyl_compounds", "id": 50881222}], "successors": []}

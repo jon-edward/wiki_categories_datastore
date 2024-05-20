@@ -1,1 +1,1 @@
-{"name": "Banking_crises", "id": 53085548, "predecessors": [{"name": "Banking", "id": 1245386}, {"name": "Financial_crises", "id": 11354087}, {"name": "History_of_banking", "id": 5879849}], "successors": [{"name": "Bank_failures", "id": 24982078}]}
+{"name": "Banking_crises", "id": 53085548, "predecessors": [{"name": "Banking", "id": 1245386}, {"name": "Financial_crises", "id": 11354087}], "successors": [{"name": "Bank_failures", "id": 24982078}]}

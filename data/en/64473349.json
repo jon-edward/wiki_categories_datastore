@@ -1,1 +1,1 @@
-{"name": "Mexican_prosecutors", "id": 64473349, "predecessors": [{"name": "Mexican_jurists", "id": 18266568}], "successors": [{"name": "Attorneys_general_of_Mexico", "id": 2770633}]}
+{"name": "Mexican_prosecutors", "id": 64473349, "predecessors": [{"name": "Mexican_lawyers", "id": 2275580}, {"name": "Prosecutors", "id": 4146338}], "successors": [{"name": "Attorneys_general_of_Mexico", "id": 2770633}]}

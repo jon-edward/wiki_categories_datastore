@@ -1,1 +1,1 @@
-{"name": "Perimeter_security", "id": 29568962, "predecessors": [{"name": "Fences", "id": 902193}, {"name": "Security_engineering", "id": 1075065}, {"name": "Security_technology", "id": 25388151}], "successors": [{"name": "Access_control", "id": 7590810}]}
+{"name": "Perimeter_security", "id": 29568962, "predecessors": [{"name": "Fences", "id": 902193}, {"name": "Law_enforcement_equipment", "id": 1307094}, {"name": "Security_engineering", "id": 1075065}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "French_muralists", "id": 20681789, "predecessors": [{"name": "French_artists", "id": 1031199}, {"name": "Muralists", "id": 2870487}], "successors": []}
+{"name": "French_muralists", "id": 20681789, "predecessors": [{"name": "French_painters", "id": 881385}, {"name": "Muralists", "id": 2870487}], "successors": [{"name": "French_graffiti_artists", "id": 3533622}]}

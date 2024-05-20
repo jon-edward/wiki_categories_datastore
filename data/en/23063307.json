@@ -1,1 +1,1 @@
-{"name": "Viking_FK_players", "id": 23063307, "predecessors": [{"name": "Eliteserien_clubs", "id": 59041495}], "successors": []}
+{"name": "Viking_FK_players", "id": 23063307, "predecessors": [{"name": "Eliteserien_clubs", "id": 59041495}, {"name": "Team_sports", "id": 700681}], "successors": []}

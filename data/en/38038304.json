@@ -1,1 +1,1 @@
-{"name": "Columbia_University_campus", "id": 38038304, "predecessors": [{"name": "Buildings_and_structures_in_Manhattan", "id": 2943208}, {"name": "Columbia_University", "id": 741968}, {"name": "Morningside_Heights,_Manhattan", "id": 38033657}, {"name": "Education_in_New_York_(state)", "id": 1229957}], "successors": [{"name": "Columbia_University_dormitories", "id": 69319045}]}
+{"name": "Columbia_University_campus", "id": 38038304, "predecessors": [{"name": "Campuses", "id": 8525766}], "successors": [{"name": "Columbia_University_dormitories", "id": 69319045}]}

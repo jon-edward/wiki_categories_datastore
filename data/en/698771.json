@@ -1,1 +1,1 @@
-{"name": "Cyanides", "id": 698771, "predecessors": [{"name": "Hazardous_air_pollutants", "id": 8659042}, {"name": "Respiratory_toxins", "id": 54542047}], "successors": [{"name": "Cyano_complexes", "id": 55827751}, {"name": "CN_stars", "id": 65549365}, {"name": "Suicides_by_cyanide_poisoning", "id": 37527327}]}
+{"name": "Cyanides", "id": 698771, "predecessors": [{"name": "Respiratory_toxins", "id": 54542047}, {"name": "Nitrogen_compounds", "id": 903300}], "successors": []}

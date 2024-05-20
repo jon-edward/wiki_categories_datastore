@@ -1,1 +1,1 @@
-{"name": "Enteral_feeding", "id": 4690223, "predecessors": [{"name": "Digestive_system_procedures", "id": 32487457}, {"name": "Intensive_care_medicine", "id": 714493}, {"name": "Nutrition", "id": 9936002}], "successors": [{"name": "Medical_food", "id": 51397584}]}
+{"name": "Enteral_feeding", "id": 4690223, "predecessors": [{"name": "Digestive_system_procedures", "id": 32487457}, {"name": "Intensive_care_medicine", "id": 714493}], "successors": [{"name": "Medical_food", "id": 51397584}]}

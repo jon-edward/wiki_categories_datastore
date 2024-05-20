@@ -1,1 +1,1 @@
-{"name": "Police_bands", "id": 48754905, "predecessors": [{"name": "Marching_bands", "id": 1270344}, {"name": "Types_of_musical_groups", "id": 36154947}], "successors": [{"name": "Canadian_police_bands", "id": 61462682}]}
+{"name": "Police_bands", "id": 48754905, "predecessors": [{"name": "Marching_bands", "id": 1270344}, {"name": "Police_culture", "id": 61193249}, {"name": "Types_of_musical_groups", "id": 36154947}], "successors": [{"name": "Canadian_police_bands", "id": 61462682}]}

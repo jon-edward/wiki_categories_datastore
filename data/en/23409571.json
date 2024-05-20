@@ -1,1 +1,1 @@
-{"name": "Breakwaters", "id": 23409571, "predecessors": [{"name": "Coastal_construction", "id": 2274672}], "successors": []}
+{"name": "Breakwaters", "id": 23409571, "predecessors": [{"name": "Coastal_construction", "id": 2274672}, {"name": "Hydraulic_structures", "id": 23140599}], "successors": []}

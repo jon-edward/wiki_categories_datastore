@@ -1,1 +1,1 @@
-{"name": "Obscenity", "id": 40343886, "predecessors": [{"name": "Censorship", "id": 892910}], "successors": [{"name": "Profanity", "id": 885173}, {"name": "Obscenity_controversies", "id": 1859573}, {"name": "Off-color_humor", "id": 38062492}]}
+{"name": "Obscenity", "id": 40343886, "predecessors": [{"name": "Censorship", "id": 892910}], "successors": [{"name": "Profanity", "id": 885173}, {"name": "Obscenity_law", "id": 887532}, {"name": "Obscenity_controversies", "id": 1859573}, {"name": "Off-color_humor", "id": 38062492}]}

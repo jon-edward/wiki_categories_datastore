@@ -1,1 +1,1 @@
-{"name": "Belief_revision", "id": 36312376, "predecessors": [{"name": "Belief", "id": 956054}, {"name": "Knowledge_representation", "id": 796635}], "successors": [{"name": "Cognitive_inertia", "id": 41337078}]}
+{"name": "Belief_revision", "id": 36312376, "predecessors": [{"name": "Belief", "id": 956054}, {"name": "Knowledge_representation", "id": 796635}, {"name": "Logic_programming", "id": 1188828}, {"name": "Decision_theory", "id": 946910}], "successors": [{"name": "Cognitive_inertia", "id": 41337078}]}

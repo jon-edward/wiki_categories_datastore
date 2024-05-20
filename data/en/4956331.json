@@ -1,1 +1,1 @@
-{"name": "Commodities_used_as_an_investment", "id": 4956331, "predecessors": [{"name": "Commodity_markets", "id": 42311854}], "successors": [{"name": "Bullion_coins", "id": 4237401}, {"name": "Silver_coins", "id": 4716355}]}
+{"name": "Commodities_used_as_an_investment", "id": 4956331, "predecessors": [{"name": "Commodity_markets", "id": 42311854}], "successors": [{"name": "Bullion_coins", "id": 4237401}, {"name": "Silver_coins", "id": 4716355}, {"name": "Gold_investments", "id": 5173929}, {"name": "Bullion_dealers", "id": 54247262}]}

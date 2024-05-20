@@ -1,1 +1,1 @@
-{"name": "Space_policy", "id": 10575010, "predecessors": [{"name": "Science_policy", "id": 37202370}, {"name": "Space-based_economy", "id": 52176292}], "successors": [{"name": "Space_advocacy", "id": 1810638}, {"name": "Space_policy_of_the_United_States", "id": 41603155}]}
+{"name": "Space_policy", "id": 10575010, "predecessors": [{"name": "Science_policy", "id": 37202370}, {"name": "Spaceflight", "id": 1040006}], "successors": [{"name": "Space_advocacy", "id": 1810638}, {"name": "Space_policy_of_the_United_States", "id": 41603155}]}

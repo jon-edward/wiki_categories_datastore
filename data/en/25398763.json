@@ -1,1 +1,1 @@
-{"name": "Handedness", "id": 25398763, "predecessors": [{"name": "Chirality", "id": 17444136}, {"name": "Motor_control", "id": 22728692}, {"name": "Motor_skills", "id": 1490530}], "successors": []}
+{"name": "Handedness", "id": 25398763, "predecessors": [{"name": "Chirality", "id": 17444136}], "successors": [{"name": "Southpaw_boxers", "id": 5675825}, {"name": "Left-handed_golfers", "id": 55087371}, {"name": "Left-handed_water_polo_players", "id": 64337193}, {"name": "Left-handed_fencers", "id": 69980400}]}

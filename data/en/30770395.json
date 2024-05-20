@@ -1,1 +1,1 @@
-{"name": "Nitrogen_oxoacids", "id": 30770395, "predecessors": [{"name": "Oxoacids", "id": 58554128}, {"name": "Oxygen_compounds", "id": 1692041}], "successors": []}
+{"name": "Nitrogen_oxoacids", "id": 30770395, "predecessors": [{"name": "Inorganic_nitrogen_compounds", "id": 28803165}, {"name": "Oxoacids", "id": 58554128}, {"name": "Nitrogen_compounds", "id": 903300}], "successors": []}

@@ -1,1 +1,0 @@
-{"name": "Commande_informatique", "id": 1153375, "predecessors": [{"name": "Logiciel_utilitaire", "id": 3978099}], "successors": [{"name": "Commande_Unix", "id": 860269}, {"name": "Commande_MS-DOS/Windows", "id": 5327123}]}

@@ -1,1 +1,1 @@
-{"name": "Kart_racing_events", "id": 15336194, "predecessors": [{"name": "Kart_racing", "id": 36467104}, {"name": "Motorsport", "id": 13306047}], "successors": [{"name": "Desafio_Internacional_das_Estrelas", "id": 20579485}]}
+{"name": "Kart_racing_events", "id": 15336194, "predecessors": [{"name": "Kart_racing", "id": 36467104}, {"name": "Individual_sports", "id": 862248}], "successors": [{"name": "Desafio_Internacional_das_Estrelas", "id": 20579485}]}

@@ -1,1 +1,1 @@
-{"name": "University_of_Oregon_campus", "id": 48364562, "predecessors": [{"name": "Buildings_and_structures_in_Eugene,_Oregon", "id": 24315654}, {"name": "Universities_and_colleges_in_the_United_States", "id": 1620371}], "successors": [{"name": "University_of_Oregon_buildings", "id": 11124074}]}
+{"name": "University_of_Oregon_campus", "id": 48364562, "predecessors": [{"name": "Campuses", "id": 8525766}], "successors": [{"name": "University_of_Oregon_buildings", "id": 11124074}]}

@@ -1,1 +1,1 @@
-{"name": "Trainer_aircraft", "id": 27037394, "predecessors": [{"name": "Flight_training", "id": 7785420}], "successors": []}
+{"name": "Trainer_aircraft", "id": 27037394, "predecessors": [{"name": "Aircraft_by_type", "id": 4749432}], "successors": []}

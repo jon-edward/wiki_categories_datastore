@@ -1,1 +1,1 @@
-{"name": "Seni_bina_komputer", "id": 42050, "predecessors": [{"name": "Pengkomputeran", "id": 42052}, {"name": "Sains_komputer", "id": 42047}], "successors": [{"name": "Seni_bina_rangkaian", "id": 299107}, {"name": "Unit_pemprosesan_pusat", "id": 501245}]}
+{"name": "Seni_bina_komputer", "id": 42050, "predecessors": [{"name": "Pengkomputeran", "id": 42052}, {"name": "Sains_komputer", "id": 42047}], "successors": [{"name": "Seni_bina_rangkaian", "id": 299107}, {"name": "Unit_pemprosesan_pusat", "id": 501245}, {"name": "Edaran_Linux_x86-64", "id": 305289}]}

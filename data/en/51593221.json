@@ -1,1 +1,1 @@
-{"name": "LSU_Tigers_football_games", "id": 51593221, "predecessors": [{"name": "LSU_Tigers_football", "id": 3346129}, {"name": "Competitions_in_the_United_States", "id": 21763200}], "successors": [{"name": "LSU_Tigers_football_bowl_games", "id": 24631465}]}
+{"name": "LSU_Tigers_football_games", "id": 51593221, "predecessors": [{"name": "LSU_Tigers_football", "id": 3346129}, {"name": "American_football_competitions", "id": 709454}], "successors": [{"name": "LSU_Tigers_football_bowl_games", "id": 24631465}]}

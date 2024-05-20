@@ -1,1 +1,1 @@
-{"name": "Pediatric_cancers", "id": 13860226, "predecessors": [{"name": "Pediatrics", "id": 790701}, {"name": "Types_of_cancer", "id": 2332168}], "successors": [{"name": "Small-blue-round-cell_tumors", "id": 21512134}]}
+{"name": "Pediatric_cancers", "id": 13860226, "predecessors": [{"name": "Pediatrics", "id": 790701}], "successors": [{"name": "Small-blue-round-cell_tumors", "id": 21512134}]}

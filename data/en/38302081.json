@@ -1,1 +1,1 @@
-{"name": "Films_based_on_Swiss_novels", "id": 38302081, "predecessors": [{"name": "Swiss_novels", "id": 7817226}, {"name": "Culture_of_Switzerland", "id": 727018}], "successors": [{"name": "Heidi_films", "id": 37328294}]}
+{"name": "Films_based_on_Swiss_novels", "id": 38302081, "predecessors": [{"name": "Films_based_on_novels", "id": 19084923}, {"name": "Swiss_novels", "id": 7817226}, {"name": "Culture_of_Switzerland", "id": 727018}], "successors": [{"name": "Heidi_films", "id": 37328294}]}

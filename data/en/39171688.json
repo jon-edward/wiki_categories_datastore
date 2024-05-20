@@ -1,1 +1,1 @@
-{"name": "St_Helens_R.F.C._players", "id": 39171688, "predecessors": [{"name": "St_Helens_R.F.C.", "id": 39171658}], "successors": [{"name": "St_Helens_R.F.C._captains", "id": 66561850}]}
+{"name": "St_Helens_R.F.C._players", "id": 39171688, "predecessors": [{"name": "St_Helens_R.F.C.", "id": 39171658}, {"name": "Rugby_football", "id": 15878505}], "successors": [{"name": "St_Helens_R.F.C._captains", "id": 66561850}]}

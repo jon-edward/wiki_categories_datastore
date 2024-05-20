@@ -1,1 +1,1 @@
-{"name": "Drivetrain", "id": 41623477, "predecessors": [{"name": "Automotive_technologies", "id": 859604}], "successors": [{"name": "Automotive_transmission_technologies", "id": 1154958}]}
+{"name": "Drivetrain", "id": 41623477, "predecessors": [{"name": "Automotive_technologies", "id": 859604}, {"name": "Mechanical_power_transmission", "id": 22781840}], "successors": [{"name": "Automotive_transmission_technologies", "id": 1154958}]}

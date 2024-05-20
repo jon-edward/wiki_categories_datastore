@@ -1,0 +1,1 @@
+{"name": "Disk_partitions", "id": 44487896, "predecessors": [{"name": "Disk_file_systems", "id": 2014729}, {"name": "Utility_software_types", "id": 36911884}, {"name": "Computer_hardware", "id": 699548}], "successors": [{"name": "Disk_partitioning_software", "id": 18679533}]}

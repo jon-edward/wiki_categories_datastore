@@ -1,1 +1,1 @@
-{"name": "American_breakfast_foods", "id": 67631734, "predecessors": [{"name": "American_cuisine", "id": 728911}, {"name": "Breakfast_dishes", "id": 66535856}], "successors": [{"name": "Kellogg's_cereals", "id": 31166843}, {"name": "Post_cereals", "id": 69181095}]}
+{"name": "American_breakfast_foods", "id": 67631734, "predecessors": [{"name": "American_cuisine", "id": 728911}], "successors": [{"name": "Kellogg's_cereals", "id": 31166843}, {"name": "Post_cereals", "id": 69181095}]}

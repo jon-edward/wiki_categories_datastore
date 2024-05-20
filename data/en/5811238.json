@@ -1,1 +1,1 @@
-{"name": "Australian_subscription_television_services", "id": 5811238, "predecessors": [{"name": "Television_networks_in_Australia", "id": 696336}], "successors": [{"name": "Foxtel", "id": 61365502}]}
+{"name": "Australian_subscription_television_services", "id": 5811238, "predecessors": [{"name": "Pay_television", "id": 37877045}, {"name": "Television_networks_in_Australia", "id": 696336}], "successors": [{"name": "Foxtel", "id": 61365502}]}

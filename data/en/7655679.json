@@ -1,1 +1,1 @@
-{"name": "Sewing_machine_brands", "id": 7655679, "predecessors": [{"name": "Home_appliance_brands", "id": 5286548}], "successors": []}
+{"name": "Sewing_machine_brands", "id": 7655679, "predecessors": [{"name": "Home_appliance_brands", "id": 5286548}, {"name": "Sewing_machines", "id": 28300498}], "successors": []}

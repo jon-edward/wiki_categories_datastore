@@ -1,1 +1,1 @@
-{"name": "Naval_surface-to-air_missiles", "id": 3962771, "predecessors": [{"name": "Naval_weapons", "id": 1157667}, {"name": "Guided_missiles", "id": 1930532}], "successors": [{"name": "Naval_surface-to-air_missiles_of_the_United_States", "id": 3964673}]}
+{"name": "Naval_surface-to-air_missiles", "id": 3962771, "predecessors": [{"name": "Anti-aircraft_weapons", "id": 1023632}], "successors": [{"name": "Naval_surface-to-air_missiles_of_the_United_States", "id": 3964673}]}

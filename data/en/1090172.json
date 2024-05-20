@@ -1,1 +1,1 @@
-{"name": "Dice", "id": 1090172, "predecessors": [{"name": "Gambling_mathematics", "id": 17887902}, {"name": "Game_equipment", "id": 36829240}, {"name": "Gaming_devices", "id": 8949314}], "successors": []}
+{"name": "Dice", "id": 1090172, "predecessors": [{"name": "Gambling_mathematics", "id": 17887902}, {"name": "Game_equipment", "id": 36829240}, {"name": "Gaming_devices", "id": 8949314}, {"name": "Board_games", "id": 9205892}], "successors": [{"name": "Dice_games", "id": 784347}]}

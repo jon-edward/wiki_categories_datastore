@@ -1,1 +1,1 @@
-{"name": "Suicide_prevention", "id": 20089724, "predecessors": [{"name": "Health_campaigns", "id": 37710129}, {"name": "Prevention", "id": 4689595}, {"name": "Suicide", "id": 1143829}], "successors": []}
+{"name": "Suicide_prevention", "id": 20089724, "predecessors": [{"name": "Prevention", "id": 4689595}, {"name": "Suicide", "id": 1143829}], "successors": []}

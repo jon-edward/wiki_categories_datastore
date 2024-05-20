@@ -1,1 +1,1 @@
-{"name": "Dogs_in_religion", "id": 61729591, "predecessors": [{"name": "Dogs_in_human_culture", "id": 61729597}, {"name": "Mythological_dogs", "id": 2460103}, {"name": "Animals_in_religion", "id": 6961979}], "successors": [{"name": "Mythological_dogs", "id": 2460103}, {"name": "Cerberus", "id": 76572724}]}
+{"name": "Dogs_in_religion", "id": 61729591, "predecessors": [{"name": "Mythological_dogs", "id": 2460103}], "successors": [{"name": "Mythological_dogs", "id": 2460103}, {"name": "Cerberus", "id": 76572724}]}

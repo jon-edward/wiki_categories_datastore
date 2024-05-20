@@ -1,1 +1,1 @@
-{"name": "British_female_pole_vaulters", "id": 51212693, "predecessors": [{"name": "British_female_athletes", "id": 43483172}, {"name": "Athletics_in_the_United_Kingdom", "id": 3204483}], "successors": [{"name": "English_female_pole_vaulters", "id": 51230018}]}
+{"name": "British_female_pole_vaulters", "id": 51212693, "predecessors": [{"name": "Pole_vault", "id": 30851527}, {"name": "Athletics_in_the_United_Kingdom", "id": 3204483}], "successors": [{"name": "English_female_pole_vaulters", "id": 51230018}]}

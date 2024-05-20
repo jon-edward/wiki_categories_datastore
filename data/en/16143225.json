@@ -1,1 +1,1 @@
-{"name": "Memory_management_algorithms", "id": 16143225, "predecessors": [{"name": "Algorithms", "id": 691136}, {"name": "Memory_management", "id": 1957448}], "successors": []}
+{"name": "Memory_management_algorithms", "id": 16143225, "predecessors": [{"name": "Memory_management", "id": 1957448}], "successors": [{"name": "Automatic_memory_management", "id": 31257391}]}

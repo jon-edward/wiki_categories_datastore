@@ -1,1 +1,1 @@
-{"name": "Formals", "id": 61558484, "predecessors": [{"name": "Ethers", "id": 749636}], "successors": [{"name": "Acetals", "id": 3237657}]}
+{"name": "Formals", "id": 61558484, "predecessors": [{"name": "Ethers", "id": 749636}, {"name": "Functional_groups", "id": 724516}], "successors": [{"name": "Acetals", "id": 3237657}]}

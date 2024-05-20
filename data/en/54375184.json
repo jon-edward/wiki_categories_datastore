@@ -1,1 +1,1 @@
-{"name": "Thermocouples", "id": 54375184, "predecessors": [{"name": "Thermometers", "id": 3161359}], "successors": []}
+{"name": "Thermocouples", "id": 54375184, "predecessors": [{"name": "Sensors", "id": 5400296}, {"name": "Thermometers", "id": 3161359}], "successors": []}

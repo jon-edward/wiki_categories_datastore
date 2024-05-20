@@ -1,1 +1,1 @@
-{"name": "Methanol", "id": 61711628, "predecessors": [{"name": "Alkanols", "id": 46536540}], "successors": [{"name": "Methanol_poisoning_incidents", "id": 44180959}]}
+{"name": "Methanol", "id": 61711628, "predecessors": [{"name": "Alkanols", "id": 46536540}, {"name": "Organic_compounds_with_1_carbon_atom", "id": 69089015}], "successors": [{"name": "Methanol_poisoning_incidents", "id": 44180959}]}

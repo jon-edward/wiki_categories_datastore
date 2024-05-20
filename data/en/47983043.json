@@ -1,1 +1,1 @@
-{"name": "49er_FX_class_world_champions", "id": 47983043, "predecessors": [{"name": "49er_FX_class_sailors", "id": 47902546}, {"name": "49er_FX_class_sailing_competitions", "id": 56544846}, {"name": "World_championships_in_sailing", "id": 35618733}], "successors": []}
+{"name": "49er_FX_class_world_champions", "id": 47983043, "predecessors": [{"name": "49er_FX_class_sailors", "id": 47902546}, {"name": "49er_FX_class_sailing_competitions", "id": 56544846}, {"name": "World_championships", "id": 7136195}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Large_intestine", "id": 31017656, "predecessors": [{"name": "Digestive_system", "id": 703214}], "successors": [{"name": "Colitis", "id": 26721735}, {"name": "Colorectal_cancer", "id": 43871855}]}
+{"name": "Large_intestine", "id": 31017656, "predecessors": [{"name": "Abdomen", "id": 1703539}, {"name": "Digestive_system", "id": 703214}], "successors": [{"name": "Colitis", "id": 26721735}, {"name": "Colorectal_cancer", "id": 43871855}]}

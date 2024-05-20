@@ -1,0 +1,1 @@
+{"name": "Transactional_memory", "id": 34759497, "predecessors": [{"name": "Computer_memory", "id": 877797}, {"name": "Concurrency_control", "id": 1462863}, {"name": "Transaction_processing", "id": 11300280}], "successors": []}

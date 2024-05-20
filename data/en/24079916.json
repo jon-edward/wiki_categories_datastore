@@ -1,1 +1,1 @@
-{"name": "Uncooked_meat_dishes", "id": 24079916, "predecessors": [{"name": "Raw_foods", "id": 27462000}], "successors": [{"name": "Raw_beef_dishes", "id": 25202059}]}
+{"name": "Uncooked_meat_dishes", "id": 24079916, "predecessors": [{"name": "Meat_dishes", "id": 18237845}, {"name": "Raw_foods", "id": 27462000}], "successors": [{"name": "Raw_beef_dishes", "id": 25202059}]}

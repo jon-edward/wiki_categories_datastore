@@ -1,1 +1,1 @@
-{"name": "World_War_II_raids", "id": 36559511, "predecessors": [{"name": "Military_operations_of_World_War_II", "id": 7183526}], "successors": [{"name": "World_War_II_strategic_bombing", "id": 1811672}, {"name": "World_War_II_British_Commando_raids", "id": 719395}]}
+{"name": "World_War_II_raids", "id": 36559511, "predecessors": [{"name": "Military_operations_of_World_War_II", "id": 7183526}, {"name": "Military_raids", "id": 32732528}], "successors": [{"name": "World_War_II_strategic_bombing", "id": 1811672}, {"name": "World_War_II_British_Commando_raids", "id": 719395}]}

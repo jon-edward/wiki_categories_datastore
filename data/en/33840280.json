@@ -1,1 +1,1 @@
-{"name": "Judo_at_the_Summer_World_University_Games", "id": 33840280, "predecessors": [{"name": "Judo_at_multi-sport_events", "id": 42931449}], "successors": []}
+{"name": "Judo_at_the_Summer_World_University_Games", "id": 33840280, "predecessors": [{"name": "Judo_at_multi-sport_events", "id": 42931449}, {"name": "Sports_at_the_Summer_World_University_Games", "id": 43038374}], "successors": [{"name": "Summer_World_University_Games_medalists_in_judo", "id": 54620107}]}

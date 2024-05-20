@@ -1,1 +1,1 @@
-{"name": "Congee", "id": 56516912, "predecessors": [{"name": "Chinese_cuisine", "id": 698765}, {"name": "Japanese_cuisine", "id": 937592}, {"name": "Korean_cuisine", "id": 805747}, {"name": "Porridges", "id": 8610651}], "successors": [{"name": "Juk", "id": 68637355}]}
+{"name": "Congee", "id": 56516912, "predecessors": [{"name": "Chinese_cuisine", "id": 698765}, {"name": "Korean_cuisine", "id": 805747}, {"name": "Porridges", "id": 8610651}], "successors": [{"name": "Juk", "id": 68637355}]}

@@ -1,1 +1,1 @@
-{"name": "Rickettsioses", "id": 32804534, "predecessors": [{"name": "Animal_bacterial_diseases", "id": 48682499}], "successors": [{"name": "Deaths_from_typhus", "id": 18555015}, {"name": "Epidemic_typhus", "id": 43167510}]}
+{"name": "Rickettsioses", "id": 32804534, "predecessors": [{"name": "Animal_bacterial_diseases", "id": 48682499}, {"name": "Rickettsiales", "id": 1411334}], "successors": [{"name": "Deaths_from_typhus", "id": 18555015}, {"name": "Epidemic_typhus", "id": 43167510}]}

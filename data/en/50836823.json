@@ -1,1 +1,1 @@
-{"name": "Subtraction", "id": 50836823, "predecessors": [{"name": "Sign_(mathematics)", "id": 74742223}, {"name": "Decision-making", "id": 51600594}], "successors": [{"name": "Differential_calculus", "id": 2301927}, {"name": "Finite_differences", "id": 3963063}, {"name": "Distance", "id": 56650552}]}
+{"name": "Subtraction", "id": 50836823, "predecessors": [{"name": "Sign_(mathematics)", "id": 74742223}], "successors": [{"name": "Differential_calculus", "id": 2301927}, {"name": "Finite_differences", "id": 3963063}, {"name": "Distance", "id": 56650552}]}

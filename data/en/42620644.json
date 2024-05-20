@@ -1,1 +1,1 @@
-{"name": "Biochemical_engineering", "id": 42620644, "predecessors": [{"name": "Biological_engineering", "id": 37000052}, {"name": "Biotechnology", "id": 888826}, {"name": "Chemical_engineering", "id": 1147083}], "successors": [{"name": "Bioreactors", "id": 19570652}]}
+{"name": "Biochemical_engineering", "id": 42620644, "predecessors": [{"name": "Biological_engineering", "id": 37000052}, {"name": "Chemical_engineering", "id": 1147083}], "successors": [{"name": "Bioreactors", "id": 19570652}]}

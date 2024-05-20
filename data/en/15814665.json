@@ -1,1 +1,1 @@
-{"name": "Films_based_on_musicals_based_on_films", "id": 15814665, "predecessors": [{"name": "Musical_film_remakes", "id": 40343096}], "successors": []}
+{"name": "Films_based_on_musicals_based_on_films", "id": 15814665, "predecessors": [{"name": "Films_based_on_adaptations", "id": 49476623}, {"name": "Films_based_on_musicals", "id": 37892997}, {"name": "Musical_film_remakes", "id": 40343096}, {"name": "Musicals_based_on_films", "id": 5980388}], "successors": []}

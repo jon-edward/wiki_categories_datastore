@@ -1,1 +1,1 @@
-{"name": "Horse_protective_equipment", "id": 16055693, "predecessors": [{"name": "Horse_tack_and_equipment", "id": 1562922}], "successors": []}
+{"name": "Horse_protective_equipment", "id": 16055693, "predecessors": [{"name": "Animal_equipment", "id": 4699536}, {"name": "Horse_tack_and_equipment", "id": 1562922}, {"name": "Protective_gear", "id": 5095752}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Royal_Artillery_personnel", "id": 38768574, "predecessors": [{"name": "Royal_Artillery", "id": 16181299}, {"name": "British_Army_personnel", "id": 9668312}], "successors": [{"name": "Royal_Artillery_officers", "id": 13675321}, {"name": "Royal_Artillery_soldiers", "id": 17100948}]}
+{"name": "Royal_Artillery_personnel", "id": 38768574, "predecessors": [{"name": "Royal_Artillery", "id": 16181299}], "successors": [{"name": "Royal_Artillery_officers", "id": 13675321}, {"name": "Royal_Artillery_soldiers", "id": 17100948}]}

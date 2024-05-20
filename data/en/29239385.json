@@ -1,1 +1,1 @@
-{"name": "Hindu_studies", "id": 29239385, "predecessors": [{"name": "Hinduism", "id": 708424}, {"name": "Religious_studies", "id": 3144983}], "successors": [{"name": "Hinduism_studies_books", "id": 10101812}, {"name": "Scholars_of_Hinduism", "id": 12042428}, {"name": "Hindu_studies_scholars", "id": 38390184}]}
+{"name": "Hindu_studies", "id": 29239385, "predecessors": [{"name": "Hinduism", "id": 708424}], "successors": [{"name": "Hinduism_studies_books", "id": 10101812}, {"name": "Scholars_of_Hinduism", "id": 12042428}, {"name": "Hindu_studies_scholars", "id": 38390184}]}

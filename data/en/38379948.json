@@ -1,1 +1,1 @@
-{"name": "Asperger_syndrome", "id": 38379948, "predecessors": [{"name": "Autism", "id": 991686}], "successors": []}
+{"name": "Asperger_syndrome", "id": 38379948, "predecessors": [{"name": "Autism", "id": 991686}, {"name": "Syndromes", "id": 4678438}], "successors": [{"name": "People_with_Asperger_syndrome", "id": 21433133}]}

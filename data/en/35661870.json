@@ -1,1 +1,1 @@
-{"name": "Cave_diving", "id": 35661870, "predecessors": [{"name": "Caving", "id": 1062872}, {"name": "Underwater_diving_environment", "id": 35662518}, {"name": "Underwater_diving_procedures", "id": 35657647}], "successors": [{"name": "Cave_diving_explorers", "id": 35668171}]}
+{"name": "Cave_diving", "id": 35661870, "predecessors": [{"name": "Underwater_diving_environment", "id": 35662518}], "successors": [{"name": "Cave_diving_explorers", "id": 35668171}]}

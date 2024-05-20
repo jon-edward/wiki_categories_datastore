@@ -1,1 +1,1 @@
-{"name": "Singing", "id": 940526, "predecessors": [{"name": "Music_performance", "id": 1547804}, {"name": "Performing_arts", "id": 991222}, {"name": "Vocal_music", "id": 1037152}], "successors": [{"name": "Vocal_ensembles", "id": 20322569}]}
+{"name": "Singing", "id": 940526, "predecessors": [{"name": "Music_performance", "id": 1547804}, {"name": "Vocal_music", "id": 1037152}], "successors": [{"name": "Singing_competitions", "id": 2079973}, {"name": "Vocal_ensembles", "id": 20322569}, {"name": "Singing_software_synthesizers", "id": 34286784}]}

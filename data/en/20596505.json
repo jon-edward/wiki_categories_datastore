@@ -1,1 +1,1 @@
-{"name": "Arms_control_treaties", "id": 20596505, "predecessors": [{"name": "Arms_control", "id": 2001830}], "successors": [{"name": "Treaties_establishing_nuclear-weapon-free_zones", "id": 24895436}]}
+{"name": "Arms_control_treaties", "id": 20596505, "predecessors": [{"name": "Arms_control", "id": 2001830}, {"name": "Military_diplomacy", "id": 4649694}], "successors": [{"name": "Treaties_establishing_nuclear-weapon-free_zones", "id": 24895436}]}

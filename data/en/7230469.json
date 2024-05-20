@@ -1,1 +1,1 @@
-{"name": "Chocolate_desserts", "id": 7230469, "predecessors": [{"name": "Chocolate", "id": 1000317}, {"name": "Desserts", "id": 691015}], "successors": [{"name": "Chocolate_bars", "id": 58249305}, {"name": "Chocolate_cakes", "id": 68828806}]}
+{"name": "Chocolate_desserts", "id": 7230469, "predecessors": [{"name": "Chocolate", "id": 1000317}], "successors": [{"name": "Chocolate_confectionery", "id": 52777377}, {"name": "Chocolate_bars", "id": 58249305}, {"name": "Chocolate_cakes", "id": 68828806}]}

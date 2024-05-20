@@ -1,1 +1,1 @@
-{"name": "Suomen_aukiot", "id": 1076458, "predecessors": [{"name": "Aukiot", "id": 87200}, {"name": "Rakennukset_ja_rakennelmat", "id": 25177}], "successors": [{"name": "Helsingin_aukiot_ja_torit", "id": 283908}]}
+{"name": "Suomen_aukiot", "id": 1076458, "predecessors": [{"name": "Aukiot", "id": 87200}, {"name": "Suomen_maantiede", "id": 100793}, {"name": "Rakennukset_ja_rakennelmat", "id": 25177}], "successors": [{"name": "Helsingin_aukiot_ja_torit", "id": 283908}]}

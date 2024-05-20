@@ -1,1 +1,1 @@
-{"name": "Eurodisco_musicians", "id": 32867805, "predecessors": [{"name": "European_music_genres", "id": 22479590}], "successors": [{"name": "Eurodisco_groups", "id": 32523456}]}
+{"name": "Eurodisco_musicians", "id": 32867805, "predecessors": [{"name": "Disco_musicians", "id": 2270845}, {"name": "European_music_genres", "id": 22479590}], "successors": [{"name": "Eurodisco_groups", "id": 32523456}]}

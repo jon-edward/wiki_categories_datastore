@@ -1,1 +1,1 @@
-{"name": "Ethoxy_compounds", "id": 73450669, "predecessors": [{"name": "Ethers", "id": 749636}], "successors": [{"name": "Ethyl_esters", "id": 28017212}]}
+{"name": "Ethoxy_compounds", "id": 73450669, "predecessors": [{"name": "Ethers", "id": 749636}, {"name": "Functional_groups", "id": 724516}, {"name": "Organic_compounds", "id": 12962665}], "successors": [{"name": "Ethyl_esters", "id": 28017212}]}

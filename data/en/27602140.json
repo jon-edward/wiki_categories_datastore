@@ -1,1 +1,1 @@
-{"name": "Boat_shows", "id": 27602140, "predecessors": [{"name": "Boating", "id": 30214944}, {"name": "Trade_fairs", "id": 35181669}], "successors": []}
+{"name": "Boat_shows", "id": 27602140, "predecessors": [{"name": "Boating", "id": 30214944}, {"name": "Exhibitions", "id": 1473785}, {"name": "Trade_fairs", "id": 35181669}], "successors": []}

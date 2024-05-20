@@ -1,1 +1,1 @@
-{"name": "Guitar_amplification_tubes", "id": 3341952, "predecessors": [{"name": "Electric_guitars", "id": 1095252}, {"name": "Guitar_amplifier_manufacturers", "id": 1860400}], "successors": []}
+{"name": "Guitar_amplification_tubes", "id": 3341952, "predecessors": [{"name": "Electric_guitars", "id": 1095252}, {"name": "Instrument_amplifiers", "id": 11354786}, {"name": "Vacuum_tubes", "id": 1010995}], "successors": []}

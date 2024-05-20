@@ -1,1 +1,1 @@
-{"name": "Individual_pieces_of_furniture", "id": 55660233, "predecessors": [{"name": "Furniture", "id": 965851}, {"name": "Individual_wooden_objects", "id": 46883051}], "successors": [{"name": "Individual_models_of_furniture", "id": 58419534}]}
+{"name": "Individual_pieces_of_furniture", "id": 55660233, "predecessors": [{"name": "Furniture", "id": 965851}, {"name": "Individual_wooden_objects", "id": 46883051}, {"name": "1_(number)", "id": 44538185}], "successors": [{"name": "Individual_models_of_furniture", "id": 58419534}]}

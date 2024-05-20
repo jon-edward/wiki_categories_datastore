@@ -1,1 +1,1 @@
-{"name": "Contactless_smart_cards", "id": 32070775, "predecessors": [{"name": "Payment_cards", "id": 41632361}, {"name": "Smart_cards", "id": 15056030}, {"name": "Banking_technology", "id": 16809354}], "successors": [{"name": "Near-field_communication", "id": 39108751}]}
+{"name": "Contactless_smart_cards", "id": 32070775, "predecessors": [{"name": "Payment_cards", "id": 41632361}, {"name": "Smart_cards", "id": 15056030}, {"name": "Payment_systems", "id": 1053701}], "successors": [{"name": "Near-field_communication", "id": 39108751}]}

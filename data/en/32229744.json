@@ -1,1 +1,1 @@
-{"name": "CAC_Mid_60", "id": 32229744, "predecessors": [{"name": "Companies_listed_on_Euronext_Paris", "id": 61063465}, {"name": "Euronext_indices", "id": 61097758}, {"name": "European_stock_market_indices", "id": 21204124}, {"name": "Economy_of_France", "id": 1298598}], "successors": []}
+{"name": "CAC_Mid_60", "id": 32229744, "predecessors": [{"name": "Companies_listed_on_Euronext_Paris", "id": 61063465}, {"name": "Economy_of_France", "id": 1298598}], "successors": []}

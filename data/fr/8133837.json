@@ -1,1 +1,0 @@
-{"name": "Collision_ferroviaire_entre_trains", "id": 8133837, "predecessors": [{"name": "Dynamique_du_solide", "id": 3059924}, {"name": "Sécurité_civile", "id": 9479662}], "successors": [{"name": "Collision_ferroviaire_par_rattrapage", "id": 8133838}, {"name": "Collision_ferroviaire_par_nez-à-nez", "id": 8133839}]}

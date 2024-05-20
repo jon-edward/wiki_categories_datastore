@@ -1,1 +1,1 @@
-{"name": "Deaths_from_pernicious_anemia", "id": 19828280, "predecessors": [{"name": "Deaths_from_anemia", "id": 19752350}, {"name": "Deaths_from_autoimmune_disease", "id": 19628835}, {"name": "Vitamin_B12", "id": 31619779}, {"name": "Anemias", "id": 25639901}], "successors": []}
+{"name": "Deaths_from_pernicious_anemia", "id": 19828280, "predecessors": [{"name": "Deaths_from_anemia", "id": 19752350}, {"name": "Vitamin_B12", "id": 31619779}, {"name": "Anemias", "id": 25639901}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Deaths_from_multiple_sclerosis", "id": 7114422, "predecessors": [{"name": "Deaths_from_autoimmune_disease", "id": 19628835}, {"name": "Deaths_from_neurodegenerative_disease", "id": 21867167}, {"name": "People_with_multiple_sclerosis", "id": 8414034}], "successors": []}
+{"name": "Deaths_from_multiple_sclerosis", "id": 7114422, "predecessors": [{"name": "Deaths_from_neurodegenerative_disease", "id": 21867167}], "successors": []}

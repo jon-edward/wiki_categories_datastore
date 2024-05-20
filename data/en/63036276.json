@@ -1,1 +1,1 @@
-{"name": "Post_Holdings", "id": 63036276, "predecessors": [{"name": "Breakfast_cereal_companies", "id": 24245965}, {"name": "Companies_listed_on_the_New_York_Stock_Exchange", "id": 4185570}, {"name": "Companies_based_in_Missouri", "id": 1433929}], "successors": [{"name": "Post_cereals", "id": 69181095}]}
+{"name": "Post_Holdings", "id": 63036276, "predecessors": [{"name": "Breakfast_cereal_companies", "id": 24245965}], "successors": [{"name": "Post_cereals", "id": 69181095}]}

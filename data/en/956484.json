@@ -1,1 +1,1 @@
-{"name": "Astronomical_coordinate_systems", "id": 956484, "predecessors": [{"name": "Coordinate_systems", "id": 956479}, {"name": "Frames_of_reference", "id": 2433258}, {"name": "Orientation_(geometry)", "id": 44363014}, {"name": "Spherical_astronomy", "id": 2022332}], "successors": [{"name": "Time_scales", "id": 1677225}]}
+{"name": "Astronomical_coordinate_systems", "id": 956484, "predecessors": [{"name": "Frames_of_reference", "id": 2433258}, {"name": "Spherical_astronomy", "id": 2022332}], "successors": [{"name": "Time_scales", "id": 1677225}]}

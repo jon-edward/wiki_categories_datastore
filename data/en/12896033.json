@@ -1,1 +1,1 @@
-{"name": "Fission_products", "id": 12896033, "predecessors": [{"name": "Nuclear_fallout", "id": 60540039}, {"name": "Nuclear_fission", "id": 68777847}], "successors": []}
+{"name": "Fission_products", "id": 12896033, "predecessors": [{"name": "Nuclear_fallout", "id": 60540039}, {"name": "Nuclear_fission", "id": 68777847}, {"name": "Nuclear_materials", "id": 3095692}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Tukholman_maantiede", "id": 216029, "predecessors": [{"name": "Tukholma", "id": 49433}], "successors": [{"name": "Tukholman_kaupunginosa-alueet", "id": 198576}, {"name": "Tukholman_kaupunginosat", "id": 198599}, {"name": "Tukholman_saaret", "id": 207284}]}
+{"name": "Tukholman_maantiede", "id": 216029, "predecessors": [{"name": "Tukholma", "id": 49433}], "successors": [{"name": "Tukholman_kaupunginosa-alueet", "id": 198576}, {"name": "Tukholman_kaupunginosat", "id": 198599}, {"name": "Tukholman_aukiot", "id": 199983}, {"name": "Tukholman_saaret", "id": 207284}]}

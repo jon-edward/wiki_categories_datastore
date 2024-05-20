@@ -1,1 +1,1 @@
-{"name": "American_male_weightlifters", "id": 51379906, "predecessors": [{"name": "American_sportsmen", "id": 33420505}], "successors": [{"name": "Puerto_Rican_male_weightlifters", "id": 51527685}]}
+{"name": "American_male_weightlifters", "id": 51379906, "predecessors": [{"name": "American_sportsmen", "id": 33420505}, {"name": "Weightlifting", "id": 930333}, {"name": "Competitions", "id": 737119}], "successors": [{"name": "Puerto_Rican_male_weightlifters", "id": 51527685}]}

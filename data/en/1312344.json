@@ -1,1 +1,1 @@
-{"name": "Ducks", "id": 1312344, "predecessors": [{"name": "Birds_by_common_name", "id": 11002423}, {"name": "Aquatic_animals", "id": 43539222}], "successors": [{"name": "Ducks_in_popular_culture", "id": 64564404}]}
+{"name": "Ducks", "id": 1312344, "predecessors": [{"name": "Poultry", "id": 757493}, {"name": "Aquatic_animals", "id": 43539222}], "successors": [{"name": "Duck_breeds", "id": 31061766}, {"name": "Ducks_in_popular_culture", "id": 64564404}]}

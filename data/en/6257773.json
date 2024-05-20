@@ -1,1 +1,1 @@
-{"name": "Electronic_waste", "id": 6257773, "predecessors": [{"name": "Data_security", "id": 4842680}, {"name": "Pollution", "id": 871522}, {"name": "Waste", "id": 691538}], "successors": [{"name": "Electronic_waste_in_the_United_States", "id": 25711958}]}
+{"name": "Electronic_waste", "id": 6257773, "predecessors": [{"name": "Data_security", "id": 4842680}], "successors": [{"name": "Electronic_waste_in_the_United_States", "id": 25711958}]}

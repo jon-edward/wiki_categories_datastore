@@ -1,1 +1,1 @@
-{"name": "Enginyers_industrials", "id": 721100, "predecessors": [{"name": "Enginyeria_per_disciplina", "id": 1203479}, {"name": "Biografies", "id": 16117}], "successors": [{"name": "Alumnes_de_l'ETSEIB", "id": 1055115}, {"name": "Enginyers_industrials_catalans", "id": 1136867}]}
+{"name": "Enginyers_industrials", "id": 721100, "predecessors": [{"name": "Enginyeria_per_disciplina", "id": 1203479}, {"name": "Principal", "id": 13225}], "successors": [{"name": "Alumnes_de_l'ETSEIB", "id": 1055115}, {"name": "Enginyers_industrials_catalans", "id": 1136867}]}

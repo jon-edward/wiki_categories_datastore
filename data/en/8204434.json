@@ -1,1 +1,1 @@
-{"name": "Chinese_restaurants", "id": 8204434, "predecessors": [{"name": "Chinese_cuisine", "id": 698765}, {"name": "Asian_cuisine", "id": 2112752}], "successors": [{"name": "Cantonese_restaurants", "id": 71012982}]}
+{"name": "Chinese_restaurants", "id": 8204434, "predecessors": [{"name": "Chinese_cuisine", "id": 698765}], "successors": [{"name": "Cantonese_restaurants", "id": 71012982}, {"name": "Chinese_restaurants_in_the_United_States", "id": 68810837}]}

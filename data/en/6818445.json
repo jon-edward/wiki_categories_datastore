@@ -1,1 +1,1 @@
-{"name": "Earth_oven", "id": 6818445, "predecessors": [{"name": "Cooking_techniques", "id": 757512}, {"name": "Fireplaces", "id": 6554383}, {"name": "Ovens", "id": 43738405}], "successors": []}
+{"name": "Earth_oven", "id": 6818445, "predecessors": [{"name": "Fireplaces", "id": 6554383}, {"name": "Ovens", "id": 43738405}], "successors": []}

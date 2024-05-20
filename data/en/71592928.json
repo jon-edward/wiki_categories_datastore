@@ -1,1 +1,1 @@
-{"name": "Guided_artillery_shells", "id": 71592928, "predecessors": [{"name": "Artillery_shells", "id": 1100401}], "successors": []}
+{"name": "Guided_artillery_shells", "id": 71592928, "predecessors": [{"name": "Artillery_shells", "id": 1100401}, {"name": "Weapons", "id": 698507}], "successors": []}

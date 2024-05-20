@@ -1,1 +1,1 @@
-{"name": "Internet_of_things_companies", "id": 43839637, "predecessors": [{"name": "Electronics_industry", "id": 35046850}], "successors": [{"name": "Home_automation_companies", "id": 56926617}]}
+{"name": "Internet_of_things_companies", "id": 43839637, "predecessors": [{"name": "Internet_of_things", "id": 30065517}], "successors": [{"name": "Home_automation_companies", "id": 56926617}]}

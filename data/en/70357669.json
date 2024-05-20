@@ -1,1 +1,1 @@
-{"name": "Viral_hepatitis", "id": 70357669, "predecessors": [{"name": "Hepatitis", "id": 1117758}, {"name": "Viral_diseases", "id": 9219628}], "successors": [{"name": "Hepatitis_B", "id": 39676930}, {"name": "Hepatitis_C", "id": 39794898}, {"name": "Hepatitis_A", "id": 39804622}]}
+{"name": "Viral_hepatitis", "id": 70357669, "predecessors": [{"name": "Hepatitis", "id": 1117758}, {"name": "Viral_diseases", "id": 9219628}], "successors": [{"name": "Hepatitis_B", "id": 39676930}, {"name": "Hepatitis_A", "id": 39804622}]}

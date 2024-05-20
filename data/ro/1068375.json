@@ -1,1 +1,1 @@
-{"name": "Comercianți", "id": 1068375, "predecessors": [{"name": "Oameni_de_afaceri", "id": 19469}, {"name": "Ocupații", "id": 758191}], "successors": [{"name": "Comercianți_români", "id": 749409}]}
+{"name": "Comercianți", "id": 1068375, "predecessors": [{"name": "Oameni_de_afaceri", "id": 19469}, {"name": "Ocupații_în_comerț", "id": 830754}], "successors": [{"name": "Comercianți_români", "id": 749409}]}

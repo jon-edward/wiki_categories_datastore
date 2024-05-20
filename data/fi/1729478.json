@@ -1,1 +1,1 @@
-{"name": "Työaika", "id": 1729478, "predecessors": [{"name": "Työoikeus", "id": 340117}], "successors": []}
+{"name": "Työaika", "id": 1729478, "predecessors": [{"name": "Työoikeus", "id": 340117}], "successors": [{"name": "Loma", "id": 1737905}]}

@@ -1,1 +1,1 @@
-{"name": "Hospitals_in_Queens,_New_York", "id": 54654405, "predecessors": [{"name": "Buildings_and_structures_in_Queens,_New_York", "id": 39516816}, {"name": "Cities_in_New_York_(state)", "id": 707319}], "successors": [{"name": "Defunct_hospitals_in_Queens", "id": 61043764}]}
+{"name": "Hospitals_in_Queens,_New_York", "id": 54654405, "predecessors": [{"name": "Healthcare_in_New_York_City", "id": 3930994}], "successors": [{"name": "Defunct_hospitals_in_Queens", "id": 61043764}]}

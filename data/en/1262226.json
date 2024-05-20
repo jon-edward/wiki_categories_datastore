@@ -1,1 +1,1 @@
-{"name": "Trivia", "id": 1262226, "predecessors": [{"name": "Entertainment", "id": 693016}, {"name": "Knowledge", "id": 700914}], "successors": [{"name": "Trivia_books", "id": 5752924}, {"name": "Trivia_competitions", "id": 21762992}]}
+{"name": "Trivia", "id": 1262226, "predecessors": [{"name": "Entertainment", "id": 693016}], "successors": [{"name": "Trivia_books", "id": 5752924}, {"name": "Trivia_competitions", "id": 21762992}]}

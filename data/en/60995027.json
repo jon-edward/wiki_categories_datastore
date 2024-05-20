@@ -1,1 +1,1 @@
-{"name": "Electrical_interconnectors_in_the_North_Sea", "id": 60995027, "predecessors": [{"name": "North_Sea_energy", "id": 18281971}, {"name": "North_Sea", "id": 2460853}], "successors": []}
+{"name": "Electrical_interconnectors_in_the_North_Sea", "id": 60995027, "predecessors": [{"name": "North_Sea_energy", "id": 18281971}, {"name": "Submarine_power_cables", "id": 1721217}, {"name": "North_Sea", "id": 2460853}], "successors": []}

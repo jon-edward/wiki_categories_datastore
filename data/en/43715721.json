@@ -1,1 +1,1 @@
-{"name": "Transit_centers_in_Istanbul", "id": 43715721, "predecessors": [{"name": "Transport_in_Istanbul", "id": 3089857}, {"name": "Terminology", "id": 1016013}], "successors": []}
+{"name": "Transit_centers_in_Istanbul", "id": 43715721, "predecessors": [{"name": "Transport_in_Istanbul", "id": 3089857}, {"name": "Intermodal_transport", "id": 28589652}], "successors": []}

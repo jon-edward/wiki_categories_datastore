@@ -1,1 +1,1 @@
-{"name": "Marketing_software", "id": 27490351, "predecessors": [{"name": "Business_software", "id": 1744470}, {"name": "Marketing", "id": 784409}], "successors": [{"name": "Customer_relationship_management_software", "id": 15097900}]}
+{"name": "Marketing_software", "id": 27490351, "predecessors": [{"name": "Business_software", "id": 1744470}, {"name": "Marketing", "id": 784409}], "successors": [{"name": "Search_engine_software", "id": 6521632}, {"name": "Customer_relationship_management_software", "id": 15097900}, {"name": "Email_marketing_software", "id": 42554812}]}

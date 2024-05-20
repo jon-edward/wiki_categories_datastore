@@ -1,1 +1,1 @@
-{"name": "Alternative_Internet_DNS_services", "id": 35022776, "predecessors": [{"name": "Internet_privacy", "id": 1685628}], "successors": []}
+{"name": "Alternative_Internet_DNS_services", "id": 35022776, "predecessors": [{"name": "Domain_Name_System", "id": 5737409}, {"name": "Internet_privacy", "id": 1685628}], "successors": []}

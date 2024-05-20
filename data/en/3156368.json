@@ -1,1 +1,0 @@
-{"name": "Smog", "id": 3156368, "predecessors": [{"name": "Air_pollution", "id": 4565514}, {"name": "Atmospheric_optical_phenomena", "id": 8107505}, {"name": "Psychrometrics", "id": 846044}, {"name": "Visibility", "id": 7564852}], "successors": [{"name": "Particulates", "id": 3359972}, {"name": "Smog_events", "id": 40882771}]}

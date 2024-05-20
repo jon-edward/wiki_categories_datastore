@@ -1,1 +1,1 @@
-{"name": "Red_Hat_software", "id": 52212179, "predecessors": [{"name": "IBM_software", "id": 859157}, {"name": "Red_Hat", "id": 2101522}, {"name": "Electronics_industry", "id": 35046850}], "successors": []}
+{"name": "Red_Hat_software", "id": 52212179, "predecessors": [{"name": "Red_Hat", "id": 2101522}], "successors": []}

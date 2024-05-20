@@ -1,1 +1,1 @@
-{"name": "Crowdfunding", "id": 35063664, "predecessors": [{"name": "Crowdsourcing", "id": 10434149}, {"name": "Fundraising", "id": 23548469}, {"name": "Venture_capital", "id": 1666986}], "successors": [{"name": "Crowdfunding_platforms", "id": 45441669}, {"name": "Crowdfunding_projects", "id": 45441912}]}
+{"name": "Crowdfunding", "id": 35063664, "predecessors": [{"name": "Crowdsourcing", "id": 10434149}], "successors": [{"name": "Crowdfunding_platforms", "id": 45441669}, {"name": "Crowdfunding_projects", "id": 45441912}]}

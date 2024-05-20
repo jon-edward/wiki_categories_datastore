@@ -1,1 +1,1 @@
-{"name": "Surveying_instruments", "id": 22270618, "predecessors": [{"name": "Surveying", "id": 1071627}], "successors": []}
+{"name": "Surveying_instruments", "id": 22270618, "predecessors": [{"name": "Geodesy", "id": 862535}, {"name": "Optical_instruments", "id": 38244384}, {"name": "Surveying", "id": 1071627}], "successors": []}

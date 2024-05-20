@@ -1,1 +1,1 @@
-{"name": "Jakarta_Faces", "id": 19539605, "predecessors": [{"name": "Java_specification_requests", "id": 4138620}], "successors": []}
+{"name": "Jakarta_Faces", "id": 19539605, "predecessors": [{"name": "Java_enterprise_platform", "id": 3813661}, {"name": "Java_specification_requests", "id": 4138620}], "successors": []}

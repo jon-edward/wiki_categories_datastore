@@ -1,1 +1,1 @@
-{"name": "British_short_story_collections", "id": 8702433, "predecessors": [{"name": "British_books", "id": 5357199}, {"name": "British_short_stories", "id": 1377040}, {"name": "Short_stories", "id": 722305}, {"name": "British_literature", "id": 3012271}], "successors": [{"name": "Scottish_short_story_collections", "id": 12341807}]}
+{"name": "British_short_story_collections", "id": 8702433, "predecessors": [{"name": "Short_stories", "id": 722305}], "successors": [{"name": "Scottish_short_story_collections", "id": 12341807}]}

@@ -1,1 +1,1 @@
-{"name": "Arizona_Diamondbacks_managers", "id": 1082094, "predecessors": [{"name": "Arizona_Diamondbacks", "id": 1275403}, {"name": "Major_League_Baseball", "id": 1034943}], "successors": []}
+{"name": "Arizona_Diamondbacks_managers", "id": 1082094, "predecessors": [{"name": "Major_League_Baseball_teams", "id": 3788256}, {"name": "Baseball_managers", "id": 846062}], "successors": []}

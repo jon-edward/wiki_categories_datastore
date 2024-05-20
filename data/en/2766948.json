@@ -1,1 +1,1 @@
-{"name": "Flower_artists", "id": 2766948, "predecessors": [{"name": "Botanical_illustrators", "id": 22588481}, {"name": "Flowers_in_culture", "id": 71978254}], "successors": [{"name": "Georgia_O'Keeffe", "id": 52877235}, {"name": "Dutch_flower_artists", "id": 76565025}]}
+{"name": "Flower_artists", "id": 2766948, "predecessors": [{"name": "Botanical_illustrators", "id": 22588481}, {"name": "Scientific_illustrators", "id": 7706001}], "successors": [{"name": "Georgia_O'Keeffe", "id": 52877235}, {"name": "Dutch_flower_artists", "id": 76565025}]}

@@ -1,1 +1,0 @@
-{"name": "Fish_diseases", "id": 3500558, "predecessors": [{"name": "Fishkeeping", "id": 1579875}, {"name": "Animal_welfare", "id": 991706}], "successors": [{"name": "Fish_viral_diseases", "id": 48682962}, {"name": "Bacterial_diseases_of_fish", "id": 55746769}]}

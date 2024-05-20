@@ -1,0 +1,1 @@
+{"name": "Vehicle_recycling", "id": 27950130, "predecessors": [{"name": "Recycling_by_product", "id": 28854994}, {"name": "Vehicles", "id": 694929}], "successors": [{"name": "Ship_breaking", "id": 36620506}]}

@@ -1,1 +1,1 @@
-{"name": "Managed_file_transfer", "id": 32453784, "predecessors": [{"name": "Computer_files", "id": 48457305}], "successors": []}
+{"name": "Managed_file_transfer", "id": 32453784, "predecessors": [{"name": "Computer_files", "id": 48457305}, {"name": "File_Transfer_Protocol", "id": 34959018}], "successors": []}

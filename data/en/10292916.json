@@ -1,1 +1,1 @@
-{"name": "Internet_Protocol", "id": 10292916, "predecessors": [{"name": "Internet_protocols", "id": 1034331}, {"name": "Network_layer_protocols", "id": 7940366}], "successors": []}
+{"name": "Internet_Protocol", "id": 10292916, "predecessors": [{"name": "Internet_protocols", "id": 1034331}, {"name": "Network_layer_protocols", "id": 7940366}], "successors": [{"name": "IPv6", "id": 7086819}, {"name": "Internet_Protocol_based_network_software", "id": 32946450}, {"name": "Internet_layer_protocols", "id": 34958966}, {"name": "IP_addresses", "id": 50054614}]}

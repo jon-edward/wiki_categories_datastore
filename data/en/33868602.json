@@ -1,1 +1,1 @@
-{"name": "Deaths_from_lightning_strikes", "id": 33868602, "predecessors": [{"name": "Injuries", "id": 10158091}, {"name": "Natural_disasters", "id": 2643767}], "successors": []}
+{"name": "Deaths_from_lightning_strikes", "id": 33868602, "predecessors": [{"name": "Accidental_deaths_by_electrocution", "id": 17956801}, {"name": "Injuries", "id": 10158091}], "successors": []}

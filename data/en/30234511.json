@@ -1,1 +1,1 @@
-{"name": "Software_related_to_embedded_Linux", "id": 30234511, "predecessors": [{"name": "Embedded_Linux", "id": 13251743}, {"name": "Linux_software", "id": 9519323}], "successors": []}
+{"name": "Software_related_to_embedded_Linux", "id": 30234511, "predecessors": [{"name": "Embedded_Linux", "id": 13251743}, {"name": "Embedded_systems", "id": 852879}, {"name": "Linux_software", "id": 9519323}], "successors": []}

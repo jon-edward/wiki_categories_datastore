@@ -1,1 +1,1 @@
-{"name": "Science_occupations", "id": 1003632, "predecessors": [{"name": "Inquiry", "id": 21994999}, {"name": "Employment", "id": 1798901}], "successors": []}
+{"name": "Science_occupations", "id": 1003632, "predecessors": [{"name": "Science_fiction_themes", "id": 786868}, {"name": "Employment", "id": 1798901}], "successors": [{"name": "Mathematical_science_occupations", "id": 1017851}]}

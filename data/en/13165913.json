@@ -1,1 +1,1 @@
-{"name": "Container_shipping_companies", "id": 13165913, "predecessors": [{"name": "Shipping_companies", "id": 881735}], "successors": [{"name": "Container_shipping_companies_of_the_United_States", "id": 18861816}]}
+{"name": "Container_shipping_companies", "id": 13165913, "predecessors": [{"name": "Intermodal_containers", "id": 23123510}, {"name": "Shipping_companies", "id": 881735}], "successors": [{"name": "Container_shipping_companies_of_the_United_States", "id": 18861816}]}

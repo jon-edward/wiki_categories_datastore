@@ -1,1 +1,1 @@
-{"name": "Viral_nonstructural_proteins", "id": 15196770, "predecessors": [{"name": "Proteins", "id": 717889}], "successors": [{"name": "Holins", "id": 49947390}]}
+{"name": "Viral_nonstructural_proteins", "id": 15196770, "predecessors": [{"name": "Virology", "id": 715146}], "successors": [{"name": "Holins", "id": 49947390}]}

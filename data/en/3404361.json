@@ -1,1 +1,1 @@
-{"name": "Corrective_lenses", "id": 3404361, "predecessors": [{"name": "Eyewear", "id": 10155280}, {"name": "Ophthalmology", "id": 765995}, {"name": "Optometry", "id": 3474582}], "successors": [{"name": "Contact_lenses", "id": 4464420}, {"name": "Glasses", "id": 73831968}]}
+{"name": "Corrective_lenses", "id": 3404361, "predecessors": [{"name": "Eyewear", "id": 10155280}, {"name": "Lenses", "id": 1120133}, {"name": "Ophthalmology", "id": 765995}, {"name": "Optometry", "id": 3474582}], "successors": [{"name": "Glasses", "id": 73831968}]}

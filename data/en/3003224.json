@@ -1,1 +1,1 @@
-{"name": "Rule_engines", "id": 3003224, "predecessors": [{"name": "Artificial_intelligence", "id": 700355}, {"name": "Automated_reasoning", "id": 55378197}, {"name": "Data_modeling", "id": 1116481}], "successors": [{"name": "Expert_systems", "id": 5679660}]}
+{"name": "Rule_engines", "id": 3003224, "predecessors": [{"name": "Artificial_intelligence", "id": 700355}, {"name": "Automated_reasoning", "id": 55378197}, {"name": "Data_modeling", "id": 1116481}, {"name": "Application_software", "id": 708063}], "successors": [{"name": "Expert_systems", "id": 5679660}]}

@@ -1,1 +1,1 @@
-{"name": "British_pharmacologists", "id": 5644837, "predecessors": [{"name": "British_biochemists", "id": 3009590}, {"name": "British_medical_researchers", "id": 24530461}], "successors": [{"name": "Scottish_pharmacologists", "id": 5644834}, {"name": "English_pharmacologists", "id": 5644942}]}
+{"name": "British_pharmacologists", "id": 5644837, "predecessors": [{"name": "British_medical_researchers", "id": 24530461}], "successors": [{"name": "Scottish_pharmacologists", "id": 5644834}, {"name": "English_pharmacologists", "id": 5644942}]}

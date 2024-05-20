@@ -1,1 +1,1 @@
-{"name": "Temporary_employment_agencies", "id": 12325554, "predecessors": [{"name": "Employment_agencies", "id": 10905917}, {"name": "Temporary_employment", "id": 36981059}, {"name": "Employment", "id": 1798901}], "successors": [{"name": "Recruit_(company)", "id": 52040278}]}
+{"name": "Temporary_employment_agencies", "id": 12325554, "predecessors": [{"name": "Employment_agencies", "id": 10905917}, {"name": "Temporary_employment", "id": 36981059}, {"name": "Services_sector_of_the_economy", "id": 10887914}], "successors": [{"name": "Recruit_(company)", "id": 52040278}]}

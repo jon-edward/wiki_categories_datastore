@@ -1,1 +1,1 @@
-{"name": "Swiss_art_curators", "id": 67389426, "predecessors": [{"name": "Swiss_art", "id": 2389167}, {"name": "Swiss_curators", "id": 5818038}], "successors": []}
+{"name": "Swiss_art_curators", "id": 67389426, "predecessors": [{"name": "European_art_curators", "id": 39358171}, {"name": "Swiss_art", "id": 2389167}, {"name": "Swiss_curators", "id": 5818038}], "successors": []}

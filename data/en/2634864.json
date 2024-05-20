@@ -1,1 +1,1 @@
-{"name": "Protein_methods", "id": 2634864, "predecessors": [{"name": "Biochemistry_methods", "id": 11602946}, {"name": "Biochemistry", "id": 695996}], "successors": [{"name": "Protein–protein_interaction_assays", "id": 39615760}]}
+{"name": "Protein_methods", "id": 2634864, "predecessors": [{"name": "Biochemistry_methods", "id": 11602946}], "successors": [{"name": "Protein–protein_interaction_assays", "id": 39615760}]}

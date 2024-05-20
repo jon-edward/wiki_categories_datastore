@@ -1,1 +1,1 @@
-{"name": "Facial_nerve", "id": 39136573, "predecessors": [{"name": "Cranial_nerves", "id": 1198302}, {"name": "Gustatory_system", "id": 749758}, {"name": "Motor_system", "id": 27302671}, {"name": "Face", "id": 36077287}, {"name": "Tongue", "id": 32542085}], "successors": []}
+{"name": "Facial_nerve", "id": 39136573, "predecessors": [{"name": "Cranial_nerves", "id": 1198302}, {"name": "Gustatory_system", "id": 749758}, {"name": "Face", "id": 36077287}, {"name": "Tongue", "id": 32542085}], "successors": []}

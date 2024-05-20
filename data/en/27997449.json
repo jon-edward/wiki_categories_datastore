@@ -1,1 +1,1 @@
-{"name": "Brewing_ingredients", "id": 27997449, "predecessors": [{"name": "Brewing", "id": 14893672}, {"name": "Food_ingredients", "id": 1077080}], "successors": [{"name": "Hop_varieties", "id": 26429058}]}
+{"name": "Brewing_ingredients", "id": 27997449, "predecessors": [{"name": "Brewing", "id": 14893672}], "successors": [{"name": "Hop_varieties", "id": 26429058}]}

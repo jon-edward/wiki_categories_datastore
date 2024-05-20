@@ -1,1 +1,1 @@
-{"name": "Zoroastrian_priests", "id": 12298636, "predecessors": [{"name": "Zoroastrianism", "id": 715787}], "successors": [{"name": "Magi", "id": 71165519}]}
+{"name": "Zoroastrian_priests", "id": 12298636, "predecessors": [{"name": "Zoroastrianism", "id": 715787}, {"name": "Clergy", "id": 3209176}, {"name": "Men's_religious_organizations", "id": 68183498}], "successors": [{"name": "Magi", "id": 71165519}]}

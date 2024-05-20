@@ -1,1 +1,1 @@
-{"name": "Correspondence_chess", "id": 16304974, "predecessors": [{"name": "Chess", "id": 691713}], "successors": [{"name": "Correspondence_chess_grandmasters", "id": 16301832}, {"name": "World_Correspondence_Chess_Champions", "id": 26763245}]}
+{"name": "Correspondence_chess", "id": 16304974, "predecessors": [{"name": "Play-by-mail_games", "id": 55134404}, {"name": "Abstract_strategy_games", "id": 3290901}], "successors": [{"name": "Correspondence_chess_grandmasters", "id": 16301832}, {"name": "World_Correspondence_Chess_Champions", "id": 26763245}]}

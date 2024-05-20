@@ -1,1 +1,1 @@
-{"name": "Boeing_Starliner", "id": 58068144, "predecessors": [{"name": "American_spacecraft", "id": 62727113}, {"name": "Commercial_spaceflight", "id": 1025839}, {"name": "Crewed_spacecraft", "id": 786264}, {"name": "Reusable_spacecraft", "id": 64792982}, {"name": "Boeing", "id": 1044067}], "successors": []}
+{"name": "Boeing_Starliner", "id": 58068144, "predecessors": [{"name": "Commercial_spaceflight", "id": 1025839}], "successors": []}

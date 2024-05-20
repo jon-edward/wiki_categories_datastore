@@ -1,1 +1,1 @@
-{"name": "Self-defense", "id": 10477191, "predecessors": [{"name": "Conflict_(process)", "id": 4168920}, {"name": "Criminal_defenses", "id": 1576540}, {"name": "Life_skills", "id": 28085670}, {"name": "Personal_life", "id": 1017749}, {"name": "Rights", "id": 908424}], "successors": []}
+{"name": "Self-defense", "id": 10477191, "predecessors": [{"name": "Criminal_defenses", "id": 1576540}, {"name": "Rights", "id": 908424}], "successors": [{"name": "Martial_arts", "id": 729832}, {"name": "Justifiable_homicide", "id": 70509903}]}

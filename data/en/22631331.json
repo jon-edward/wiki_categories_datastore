@@ -1,1 +1,1 @@
-{"name": "Two-stroke_diesel_engines", "id": 22631331, "predecessors": [{"name": "Two-stroke_engine_technology", "id": 17969157}, {"name": "Engines", "id": 743017}], "successors": [{"name": "Napier_Deltic", "id": 25536267}]}
+{"name": "Two-stroke_diesel_engines", "id": 22631331, "predecessors": [{"name": "Diesel_engines", "id": 16236256}, {"name": "Two-stroke_engine_technology", "id": 17969157}, {"name": "Engines", "id": 743017}], "successors": [{"name": "Napier_Deltic", "id": 25536267}]}

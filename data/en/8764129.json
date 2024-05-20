@@ -1,1 +1,1 @@
-{"name": "Amusement_park_accidents", "id": 8764129, "predecessors": [{"name": "Amusement_parks", "id": 713049}, {"name": "Culture", "id": 694861}], "successors": [{"name": "Lists_of_amusement_park_incidents", "id": 50918597}]}
+{"name": "Amusement_park_accidents", "id": 8764129, "predecessors": [{"name": "Accidents", "id": 4523546}, {"name": "Amusement_parks", "id": 713049}, {"name": "Entertainment", "id": 693016}], "successors": [{"name": "Lists_of_amusement_park_incidents", "id": 50918597}]}

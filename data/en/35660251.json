@@ -1,1 +1,1 @@
-{"name": "Professional_diving", "id": 35660251, "predecessors": [{"name": "Marine_occupations", "id": 7258620}, {"name": "Underwater_diving", "id": 13972292}], "successors": [{"name": "Armed_forces_diving", "id": 15457202}, {"name": "Commercial_diving_accidents", "id": 53044642}]}
+{"name": "Professional_diving", "id": 35660251, "predecessors": [{"name": "Underwater_work", "id": 6868360}, {"name": "Underwater_diving", "id": 13972292}], "successors": [{"name": "Armed_forces_diving", "id": 15457202}, {"name": "Commercial_diving_accidents", "id": 53044642}]}

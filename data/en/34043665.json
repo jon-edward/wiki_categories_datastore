@@ -1,1 +1,1 @@
-{"name": "Airline_types", "id": 34043665, "predecessors": [{"name": "Aviation", "id": 735378}], "successors": [{"name": "Business_class_airlines", "id": 48251626}]}
+{"name": "Airline_types", "id": 34043665, "predecessors": [{"name": "Traffic_management", "id": 44938737}], "successors": [{"name": "Business_class_airlines", "id": 48251626}]}

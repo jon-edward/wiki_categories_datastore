@@ -1,1 +1,1 @@
-{"name": "Indoor_American_football_competitions", "id": 35040367, "predecessors": [{"name": "Competitions_in_the_United_States", "id": 21763200}], "successors": [{"name": "ArenaBowl", "id": 5533512}, {"name": "United_Bowl", "id": 54510094}]}
+{"name": "Indoor_American_football_competitions", "id": 35040367, "predecessors": [{"name": "American_football_competitions", "id": 709454}, {"name": "Indoor_sports", "id": 989568}], "successors": [{"name": "ArenaBowl", "id": 5533512}, {"name": "United_Bowl", "id": 54510094}]}

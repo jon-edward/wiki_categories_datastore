@@ -1,1 +1,1 @@
-{"name": "Naturalised_table_tennis_players", "id": 56381598, "predecessors": [{"name": "Naturalised_sports_competitors", "id": 55359957}], "successors": []}
+{"name": "Naturalised_table_tennis_players", "id": 56381598, "predecessors": [{"name": "Naturalised_sports_competitors", "id": 55359957}, {"name": "Competitions", "id": 737119}], "successors": []}

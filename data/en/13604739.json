@@ -1,1 +1,1 @@
-{"name": "Food_recalls", "id": 13604739, "predecessors": [{"name": "Food_industry", "id": 3540193}, {"name": "Food_safety", "id": 2257850}, {"name": "Product_recalls", "id": 19671196}], "successors": [{"name": "2008_Chinese_milk_scandal", "id": 33782746}]}
+{"name": "Food_recalls", "id": 13604739, "predecessors": [{"name": "Product_recalls", "id": 19671196}], "successors": [{"name": "2008_Chinese_milk_scandal", "id": 33782746}]}

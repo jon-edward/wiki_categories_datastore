@@ -1,1 +1,1 @@
-{"name": "Phospholipids", "id": 900348, "predecessors": [{"name": "Lipids", "id": 713771}, {"name": "Membrane_biology", "id": 1064336}, {"name": "Organophosphates", "id": 3556880}, {"name": "Signal_transduction", "id": 754106}, {"name": "Surfactants", "id": 2921093}], "successors": []}
+{"name": "Phospholipids", "id": 900348, "predecessors": [{"name": "Lipids", "id": 713771}], "successors": []}

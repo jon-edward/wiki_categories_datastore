@@ -1,1 +1,1 @@
-{"name": "NBA_games", "id": 30125308, "predecessors": [{"name": "National_Basketball_Association", "id": 917921}, {"name": "Sports_competitions_in_the_Americas", "id": 48955044}, {"name": "Americas", "id": 1526345}], "successors": [{"name": "NBA_All-Star_Game", "id": 5647811}]}
+{"name": "NBA_games", "id": 30125308, "predecessors": [{"name": "National_Basketball_Association", "id": 917921}, {"name": "Competitions_in_the_United_States", "id": 21763200}, {"name": "Entertainment_organizations", "id": 14080806}], "successors": [{"name": "NBA_All-Star_Game", "id": 5647811}]}

@@ -1,1 +1,1 @@
-{"name": "Manufacturing_trade_associations", "id": 50955425, "predecessors": [{"name": "Industrial_organization", "id": 4820928}, {"name": "Manufacturing", "id": 867519}], "successors": [{"name": "Motor_trade_associations", "id": 50970975}]}
+{"name": "Manufacturing_trade_associations", "id": 50955425, "predecessors": [{"name": "Industrial_organization", "id": 4820928}, {"name": "Trade_associations", "id": 27461932}], "successors": [{"name": "Motor_trade_associations", "id": 50970975}]}

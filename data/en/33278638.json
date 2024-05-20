@@ -1,1 +1,1 @@
-{"name": "Novell_NetWare", "id": 33278638, "predecessors": [{"name": "IBM_PC_compatibles", "id": 1094042}, {"name": "Novell_software", "id": 6363304}, {"name": "X86_operating_systems", "id": 17835061}], "successors": []}
+{"name": "Novell_NetWare", "id": 33278638, "predecessors": [{"name": "IBM_PC_compatibles", "id": 1094042}, {"name": "Internet_Protocol_based_network_software", "id": 32946450}, {"name": "Network_operating_systems", "id": 44065948}, {"name": "Proprietary_operating_systems", "id": 17495060}, {"name": "X86_operating_systems", "id": 17835061}], "successors": []}

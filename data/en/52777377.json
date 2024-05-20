@@ -1,1 +1,1 @@
-{"name": "Chocolate_confectionery", "id": 52777377, "predecessors": [{"name": "Chocolate", "id": 1000317}, {"name": "Confectionery", "id": 693491}], "successors": [{"name": "Chocolate_bars", "id": 58249305}]}
+{"name": "Chocolate_confectionery", "id": 52777377, "predecessors": [{"name": "Chocolate_desserts", "id": 7230469}], "successors": [{"name": "Chocolate_bars", "id": 58249305}]}

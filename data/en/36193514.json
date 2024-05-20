@@ -1,1 +1,1 @@
-{"name": "Expatriate_voting", "id": 36193514, "predecessors": [{"name": "Voting", "id": 15854681}], "successors": [{"name": "Diaspora_organizations_of_political_parties", "id": 26815344}, {"name": "Constituencies_for_French_residents_overseas", "id": 48667173}]}
+{"name": "Expatriate_voting", "id": 36193514, "predecessors": [{"name": "Expatriates", "id": 5019829}, {"name": "Voting", "id": 15854681}], "successors": [{"name": "Diaspora_organizations_of_political_parties", "id": 26815344}, {"name": "Constituencies_for_French_residents_overseas", "id": 48667173}]}

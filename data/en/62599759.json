@@ -1,1 +1,1 @@
-{"name": "Supersonic_aircraft", "id": 62599759, "predecessors": [{"name": "Sound", "id": 989698}, {"name": "Aviation", "id": 735378}], "successors": [{"name": "Supersonic_transports", "id": 1615933}]}
+{"name": "Supersonic_aircraft", "id": 62599759, "predecessors": [{"name": "Aircraft_by_type", "id": 4749432}, {"name": "Sound", "id": 989698}, {"name": "Aircraft", "id": 694926}, {"name": "Vehicles", "id": 694929}], "successors": []}

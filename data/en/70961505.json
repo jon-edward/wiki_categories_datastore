@@ -1,1 +1,1 @@
-{"name": "Military_leadership", "id": 70961505, "predecessors": [{"name": "Leadership", "id": 21059873}], "successors": [{"name": "Military_leaders", "id": 1258701}]}
+{"name": "Military_leadership", "id": 70961505, "predecessors": [{"name": "Leadership", "id": 21059873}, {"name": "Military_organization", "id": 1054894}], "successors": [{"name": "Military_leaders", "id": 1258701}]}

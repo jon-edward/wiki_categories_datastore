@@ -1,1 +1,0 @@
-{"name": "Storm", "id": 22856031, "predecessors": [{"name": "Meteorological_phenomena", "id": 38779805}, {"name": "Natural_disasters", "id": 2643767}, {"name": "Severe_weather_and_convection", "id": 4166227}], "successors": [{"name": "Storms", "id": 1539279}, {"name": "Tornado", "id": 5915908}, {"name": "Lightning", "id": 12425718}, {"name": "Storm_chasing", "id": 42594196}]}

@@ -1,1 +1,1 @@
-{"name": "Syndromes_with_intellectual_disability", "id": 53612389, "predecessors": [{"name": "Intellectual_disability", "id": 40599344}, {"name": "Human_diseases_and_disorders", "id": 48701151}], "successors": [{"name": "Down_syndrome", "id": 16849361}]}
+{"name": "Syndromes_with_intellectual_disability", "id": 53612389, "predecessors": [{"name": "Intellectual_disability", "id": 40599344}, {"name": "Syndromes", "id": 4678438}], "successors": [{"name": "Down_syndrome", "id": 16849361}]}

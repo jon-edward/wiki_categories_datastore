@@ -1,1 +1,0 @@
-{"name": "COVID-19", "id": 9361305, "predecessors": [{"name": "Enfermedades_virales", "id": 779141}, {"name": "Síndromes_que_afectan_el_sistema_respiratorio", "id": 9350994}, {"name": "Zoonosis", "id": 779153}], "successors": [{"name": "Pandemia_de_COVID-19", "id": 9321678}, {"name": "Vacunas_contra_la_COVID-19", "id": 9721057}]}

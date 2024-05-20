@@ -1,1 +1,1 @@
-{"name": "Tactical_nuclear_weapons", "id": 34638687, "predecessors": [{"name": "Bombs", "id": 762472}, {"name": "Nuclear_weapons", "id": 698500}], "successors": [{"name": "Nuclear_artillery", "id": 1934731}]}
+{"name": "Tactical_nuclear_weapons", "id": 34638687, "predecessors": [{"name": "Nuclear_weapons", "id": 698500}], "successors": [{"name": "Nuclear_artillery", "id": 1934731}]}

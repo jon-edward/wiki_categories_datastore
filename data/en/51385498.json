@@ -1,1 +1,1 @@
-{"name": "Non-Hodgkin_lymphoma", "id": 51385498, "predecessors": [{"name": "Lymphoma", "id": 26669375}], "successors": []}
+{"name": "Non-Hodgkin_lymphoma", "id": 51385498, "predecessors": [{"name": "Lymphoma", "id": 26669375}], "successors": [{"name": "Deaths_from_non-Hodgkin_lymphoma", "id": 72181252}]}

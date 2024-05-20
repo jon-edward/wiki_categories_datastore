@@ -1,1 +1,1 @@
-{"name": "Educational_robots", "id": 17954718, "predecessors": [{"name": "Educational_technology", "id": 3136395}, {"name": "Educational_toys", "id": 1605435}, {"name": "Robots", "id": 943048}], "successors": []}
+{"name": "Educational_robots", "id": 17954718, "predecessors": [{"name": "Educational_toys", "id": 1605435}, {"name": "Robots", "id": 943048}], "successors": [{"name": "Robot_kits", "id": 32152227}]}

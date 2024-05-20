@@ -1,1 +1,1 @@
-{"name": "American_wine_merchants", "id": 76594748, "predecessors": [{"name": "American_merchants", "id": 28440419}, {"name": "American_wine", "id": 9681581}, {"name": "Wine_merchants", "id": 42187802}, {"name": "American_businesspeople", "id": 3190200}], "successors": []}
+{"name": "American_wine_merchants", "id": 76594748, "predecessors": [{"name": "American_merchants", "id": 28440419}, {"name": "American_people_in_the_wine_industry", "id": 76899760}, {"name": "Wine_merchants", "id": 42187802}], "successors": []}

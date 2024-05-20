@@ -1,1 +1,1 @@
-{"name": "Gallbladder_disorders", "id": 32609543, "predecessors": [{"name": "Digestive_diseases", "id": 3615861}, {"name": "Digestive_system", "id": 703214}], "successors": []}
+{"name": "Gallbladder_disorders", "id": 32609543, "predecessors": [{"name": "Abdomen", "id": 1703539}], "successors": []}

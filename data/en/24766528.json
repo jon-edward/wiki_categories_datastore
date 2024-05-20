@@ -1,1 +1,1 @@
-{"name": "Health_care_companies_of_Germany", "id": 24766528, "predecessors": [{"name": "Companies_of_Germany", "id": 736096}, {"name": "Health_care_by_country", "id": 50769391}], "successors": [{"name": "Pharmaceutical_companies_of_Germany", "id": 6070978}]}
+{"name": "Health_care_companies_of_Germany", "id": 24766528, "predecessors": [{"name": "Health_care_by_country", "id": 50769391}], "successors": [{"name": "Pharmaceutical_companies_of_Germany", "id": 6070978}]}

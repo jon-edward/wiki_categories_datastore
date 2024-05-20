@@ -1,1 +1,1 @@
-{"name": "Online_analytical_processing", "id": 26538736, "predecessors": [{"name": "Database_management_systems", "id": 700602}, {"name": "Social_information_processing", "id": 21460503}], "successors": []}
+{"name": "Online_analytical_processing", "id": 26538736, "predecessors": [{"name": "Database_management_systems", "id": 700602}, {"name": "Online_services", "id": 33315753}, {"name": "Social_information_processing", "id": 21460503}], "successors": []}

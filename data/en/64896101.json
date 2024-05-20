@@ -1,1 +1,1 @@
-{"name": "Disease_transmission", "id": 64896101, "predecessors": [{"name": "Epidemiology", "id": 903647}, {"name": "Infectious_diseases", "id": 707355}], "successors": [{"name": "Sneeze", "id": 30674847}]}
+{"name": "Disease_transmission", "id": 64896101, "predecessors": [{"name": "Infectious_diseases", "id": 707355}], "successors": [{"name": "Sneeze", "id": 30674847}]}

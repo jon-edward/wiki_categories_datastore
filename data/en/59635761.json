@@ -1,1 +1,1 @@
-{"name": "Loitering_munition", "id": 59635761, "predecessors": [{"name": "Drone_warfare", "id": 46512830}, {"name": "Unmanned_military_aircraft", "id": 40647472}], "successors": []}
+{"name": "Loitering_munition", "id": 59635761, "predecessors": [{"name": "Drone_warfare", "id": 46512830}, {"name": "Military_technology", "id": 1073580}, {"name": "Unmanned_military_aircraft", "id": 40647472}, {"name": "Weapons", "id": 698507}], "successors": []}

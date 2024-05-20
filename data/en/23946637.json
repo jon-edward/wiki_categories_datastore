@@ -1,1 +1,1 @@
-{"name": "Pharmacological_classification_systems", "id": 23946637, "predecessors": [{"name": "Identifiers", "id": 2019925}, {"name": "Medical_classification", "id": 3498407}, {"name": "Pharmacology", "id": 717788}], "successors": []}
+{"name": "Pharmacological_classification_systems", "id": 23946637, "predecessors": [{"name": "Identifiers", "id": 2019925}, {"name": "Medical_classification", "id": 3498407}, {"name": "Pharmacology", "id": 717788}], "successors": [{"name": "ATC_codes", "id": 991771}]}

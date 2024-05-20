@@ -1,1 +1,1 @@
-{"name": "Automotive_chemicals", "id": 1338497, "predecessors": [{"name": "Automotive_industry", "id": 1338498}, {"name": "Chemical_compounds", "id": 695235}], "successors": [{"name": "Motor_oils", "id": 3385365}]}
+{"name": "Automotive_chemicals", "id": 1338497, "predecessors": [{"name": "Automotive_industry", "id": 1338498}], "successors": [{"name": "Motor_oils", "id": 3385365}]}

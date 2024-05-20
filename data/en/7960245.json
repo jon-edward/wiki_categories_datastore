@@ -1,1 +1,1 @@
-{"name": "Brand_name_diet_products", "id": 7960245, "predecessors": [{"name": "Diets", "id": 705430}, {"name": "Food_product_brands", "id": 4108480}], "successors": [{"name": "Diet_drinks", "id": 2310114}]}
+{"name": "Brand_name_diet_products", "id": 7960245, "predecessors": [{"name": "Diets", "id": 705430}], "successors": [{"name": "Diet_drinks", "id": 2310114}]}

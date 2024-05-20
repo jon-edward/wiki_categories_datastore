@@ -1,1 +1,1 @@
-{"name": "Notaries", "id": 26397348, "predecessors": [{"name": "Notary", "id": 33063710}, {"name": "Legal_professions", "id": 23242540}], "successors": [{"name": "Canadian_notaries", "id": 39626714}, {"name": "American_notaries", "id": 59745108}, {"name": "British_notaries", "id": 59745133}]}
+{"name": "Notaries", "id": 26397348, "predecessors": [{"name": "Notary", "id": 33063710}, {"name": "Writing_occupations", "id": 2148788}], "successors": [{"name": "Canadian_notaries", "id": 39626714}, {"name": "American_notaries", "id": 59745108}]}

@@ -1,1 +1,1 @@
-{"name": "Synthetic_aperture_radar", "id": 42348105, "predecessors": [{"name": "Remote_sensing", "id": 14659192}, {"name": "Interferometry", "id": 1614862}], "successors": []}
+{"name": "Synthetic_aperture_radar", "id": 42348105, "predecessors": [{"name": "Remote_sensing", "id": 14659192}], "successors": [{"name": "Measurement_and_signature_intelligence", "id": 45525063}]}

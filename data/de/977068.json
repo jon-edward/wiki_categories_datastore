@@ -1,1 +1,0 @@
-{"name": "Filmbewertung", "id": 977068, "predecessors": [{"name": "Film", "id": 236627}], "successors": [{"name": "Filmkritik", "id": 396606}, {"name": "Beschlagnahmter_Film", "id": 5952390}, {"name": "Filmzensur_(Deutschland)", "id": 12756759}]}

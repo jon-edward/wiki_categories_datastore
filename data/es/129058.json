@@ -1,1 +1,0 @@
-{"name": "Frutos_secos", "id": 129058, "predecessors": [{"name": "Alimentos_secos", "id": 2038325}, {"name": "Alimentos_vegetales", "id": 2180821}, {"name": "Gastronomía_vegetariana", "id": 3151274}, {"name": "Ingredientes_culinarios", "id": 3146307}], "successors": [{"name": "Castanea", "id": 1390351}, {"name": "Platos_de_almendra", "id": 2928471}]}

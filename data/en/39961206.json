@@ -1,1 +1,1 @@
-{"name": "Tests_for_pregnancy", "id": 39961206, "predecessors": [{"name": "Diagnostic_obstetrics_and_gynaecology", "id": 70739472}, {"name": "Human_pregnancy", "id": 36699574}, {"name": "Medical_tests", "id": 1075994}], "successors": []}
+{"name": "Tests_for_pregnancy", "id": 39961206, "predecessors": [{"name": "Diagnostic_obstetrics_and_gynaecology", "id": 70739472}, {"name": "Medical_tests", "id": 1075994}], "successors": []}

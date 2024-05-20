@@ -1,1 +1,1 @@
-{"name": "Cue_sports_equipment_manufacturers", "id": 13246383, "predecessors": [{"name": "Game_manufacturers", "id": 776124}, {"name": "Sporting_goods_brands", "id": 5306901}, {"name": "Cue_sports", "id": 9550418}], "successors": []}
+{"name": "Cue_sports_equipment_manufacturers", "id": 13246383, "predecessors": [{"name": "Game_manufacturers", "id": 776124}, {"name": "Sporting_goods_manufacturers", "id": 1543141}, {"name": "Cue_sports", "id": 9550418}], "successors": []}

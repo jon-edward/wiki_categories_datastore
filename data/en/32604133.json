@@ -1,1 +1,1 @@
-{"name": "Vitamin_deficiencies", "id": 32604133, "predecessors": [{"name": "Vitamins", "id": 721936}, {"name": "Nutrition", "id": 9936002}], "successors": [{"name": "Deaths_from_scurvy", "id": 19898256}]}
+{"name": "Vitamin_deficiencies", "id": 32604133, "predecessors": [{"name": "Vitamins", "id": 721936}], "successors": [{"name": "Deaths_from_scurvy", "id": 19898256}]}

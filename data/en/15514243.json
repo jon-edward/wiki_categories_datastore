@@ -1,1 +1,1 @@
-{"name": "Kernel_programmers", "id": 15514243, "predecessors": [{"name": "Computer_programmers", "id": 5693862}, {"name": "Software_industry", "id": 14444058}], "successors": [{"name": "Linux_kernel_programmers", "id": 41459197}]}
+{"name": "Kernel_programmers", "id": 15514243, "predecessors": [{"name": "Operating_systems", "id": 693664}], "successors": [{"name": "Linux_kernel_programmers", "id": 41459197}]}

@@ -1,1 +1,1 @@
-{"name": "Paralympic_sighted_guides", "id": 26852454, "predecessors": [{"name": "Blind_sports", "id": 36062520}], "successors": [{"name": "Spanish_sighted_guides", "id": 41554009}]}
+{"name": "Paralympic_sighted_guides", "id": 26852454, "predecessors": [{"name": "Blind_sports", "id": 36062520}, {"name": "Guides", "id": 43145260}, {"name": "Paralympic_Games", "id": 41885731}], "successors": [{"name": "Spanish_sighted_guides", "id": 41554009}]}

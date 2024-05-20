@@ -1,1 +1,1 @@
-{"name": "NBA_owners", "id": 24366217, "predecessors": [{"name": "American_sports_owners", "id": 53244927}, {"name": "NBA_executives", "id": 4069461}], "successors": [{"name": "Philadelphia_76ers_owners", "id": 36512805}]}
+{"name": "NBA_owners", "id": 24366217, "predecessors": [{"name": "American_sports_owners", "id": 53244927}, {"name": "NBA_executives", "id": 4069461}, {"name": "Sports_owners", "id": 24764392}], "successors": [{"name": "Boston_Celtics_owners", "id": 24382928}]}

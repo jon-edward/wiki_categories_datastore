@@ -1,1 +1,1 @@
-{"name": "FK_Zvijezda_09_players", "id": 62327659, "predecessors": [{"name": "Bijeljina", "id": 8435524}, {"name": "Football_in_Bosnia_and_Herzegovina", "id": 2067152}], "successors": []}
+{"name": "FK_Zvijezda_09_players", "id": 62327659, "predecessors": [{"name": "Football_clubs_in_Bosnia_and_Herzegovina", "id": 34428248}, {"name": "Team_sports", "id": 700681}], "successors": []}

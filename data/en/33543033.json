@@ -1,1 +1,1 @@
-{"name": "Cricket_academies", "id": 33543033, "predecessors": [{"name": "Sports_academies", "id": 24206718}], "successors": []}
+{"name": "Cricket_academies", "id": 33543033, "predecessors": [{"name": "Sports_academies", "id": 24206718}, {"name": "Cricket", "id": 692385}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Silversmithing", "id": 17531524, "predecessors": [{"name": "Metalworking", "id": 1069682}, {"name": "Silver", "id": 2026276}], "successors": [{"name": "Silversmiths", "id": 742785}, {"name": "Silver_objects", "id": 18420851}]}
+{"name": "Silversmithing", "id": 17531524, "predecessors": [{"name": "Metalworking", "id": 1069682}], "successors": [{"name": "Silversmiths", "id": 742785}, {"name": "Silver_objects", "id": 18420851}]}

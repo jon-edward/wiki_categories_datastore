@@ -1,1 +1,1 @@
-{"name": "Transport_in_Lazio", "id": 22397205, "predecessors": [{"name": "Lazio", "id": 1042253}, {"name": "Economy_of_Italy", "id": 2637119}], "successors": [{"name": "Transport_in_Rome", "id": 4722905}, {"name": "Railway_lines_in_Lazio", "id": 40399837}]}
+{"name": "Transport_in_Lazio", "id": 22397205, "predecessors": [{"name": "Lazio", "id": 1042253}], "successors": [{"name": "Transport_in_Rome", "id": 4722905}, {"name": "Railway_lines_in_Lazio", "id": 40399837}]}

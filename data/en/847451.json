@@ -1,1 +1,1 @@
-{"name": "Homebuilt_aircraft", "id": 847451, "predecessors": [{"name": "Aviation", "id": 735378}, {"name": "Do_it_yourself", "id": 28020483}], "successors": [{"name": "High-wing_homebuilt_aircraft", "id": 74994182}]}
+{"name": "Homebuilt_aircraft", "id": 847451, "predecessors": [{"name": "Aircraft", "id": 694926}, {"name": "Do_it_yourself", "id": 28020483}], "successors": [{"name": "High-wing_homebuilt_aircraft", "id": 74994182}]}

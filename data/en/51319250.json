@@ -1,1 +1,1 @@
-{"name": "Mexican_male_long_jumpers", "id": 51319250, "predecessors": [{"name": "Sport_in_Mexico", "id": 3050168}, {"name": "Americas", "id": 1526345}], "successors": []}
+{"name": "Mexican_male_long_jumpers", "id": 51319250, "predecessors": [{"name": "Male_long_jumpers", "id": 26335577}, {"name": "Long_jump", "id": 32885854}, {"name": "Sport_in_Mexico", "id": 3050168}], "successors": []}

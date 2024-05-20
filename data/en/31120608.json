@@ -1,1 +1,1 @@
-{"name": "Psychiatric_assessment", "id": 31120608, "predecessors": [{"name": "Psychological_testing", "id": 15993560}, {"name": "Medical_diagnosis", "id": 16705234}], "successors": [{"name": "Mental_disorders_screening_and_assessment_tools", "id": 15993655}]}
+{"name": "Psychiatric_assessment", "id": 31120608, "predecessors": [{"name": "Medical_diagnosis", "id": 16705234}], "successors": [{"name": "Mental_disorders_screening_and_assessment_tools", "id": 15993655}]}

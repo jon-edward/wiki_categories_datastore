@@ -1,1 +1,1 @@
-{"name": "Nippon_Professional_Baseball_catchers", "id": 32591290, "predecessors": [{"name": "Nippon_Professional_Baseball", "id": 10610299}], "successors": []}
+{"name": "Nippon_Professional_Baseball_catchers", "id": 32591290, "predecessors": [{"name": "Baseball_catchers", "id": 23833732}, {"name": "Competitions", "id": 737119}], "successors": []}
