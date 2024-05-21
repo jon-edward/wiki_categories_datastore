@@ -1,0 +1,1 @@
+{"name": "Signalisation_maritime", "id": 702425, "predecessors": [{"name": "Sécurité_maritime", "id": 300378}, {"name": "Communication", "id": 84690}], "successors": [{"name": "Phare", "id": 6194743}, {"name": "Chenal_maritime", "id": 8019564}, {"name": "Sémaphore", "id": 9686284}]}

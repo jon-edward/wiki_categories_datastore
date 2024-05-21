@@ -1,1 +1,1 @@
-{"name": "전략_게임", "id": 188373, "predecessors": [{"name": "두뇌_게임", "id": 3333211}, {"name": "게임", "id": 250682}], "successors": [{"name": "추상전략게임", "id": 243275}]}
+{"name": "전략_게임", "id": 188373, "predecessors": [{"name": "두뇌_게임", "id": 3333211}, {"name": "게임", "id": 250682}], "successors": []}

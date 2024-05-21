@@ -1,0 +1,1 @@
+{"name": "Compresores_de_archivos", "id": 4095087, "predecessors": [{"name": "Compresión_de_datos", "id": 160300}, {"name": "Software_de_sistema", "id": 1661490}], "successors": [{"name": "Compresores_de_datos_libres", "id": 467817}, {"name": "Compresores_para_Windows", "id": 9490587}]}

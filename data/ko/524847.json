@@ -1,1 +1,1 @@
-{"name": "저기압", "id": 524847, "predecessors": [{"name": "기상학", "id": 22662}, {"name": "소용돌이", "id": 180530}], "successors": []}
+{"name": "저기압", "id": 524847, "predecessors": [{"name": "기상학", "id": 22662}, {"name": "소용돌이", "id": 180530}], "successors": [{"name": "열대_저기압", "id": 601033}]}

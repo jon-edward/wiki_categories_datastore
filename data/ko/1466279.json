@@ -1,1 +1,1 @@
-{"name": "토목", "id": 1466279, "predecessors": [{"name": "건설", "id": 289085}], "successors": [{"name": "측량학", "id": 123424}, {"name": "지하공간", "id": 571991}, {"name": "토목사", "id": 1648868}]}
+{"name": "토목", "id": 1466279, "predecessors": [{"name": "건설", "id": 289085}], "successors": [{"name": "측량학", "id": 123424}, {"name": "지하공간", "id": 571991}]}

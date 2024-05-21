@@ -1,1 +1,1 @@
-{"name": "말장애인", "id": 1823537, "predecessors": [{"name": "장애인", "id": 51554}, {"name": "증상_및_징후", "id": 2618892}], "successors": [{"name": "말더듬이", "id": 1428812}]}
+{"name": "말장애인", "id": 1823537, "predecessors": [{"name": "장애인", "id": 51554}, {"name": "언어병리학", "id": 776564}], "successors": [{"name": "말더듬이", "id": 1428812}]}

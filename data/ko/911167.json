@@ -1,1 +1,1 @@
-{"name": "노르웨이의_해역", "id": 911167, "predecessors": [{"name": "수역", "id": 70167}, {"name": "대서양", "id": 29442}], "successors": [{"name": "바렌츠해", "id": 600836}, {"name": "북해", "id": 683928}]}
+{"name": "노르웨이의_해역", "id": 911167, "predecessors": [{"name": "유럽", "id": 11878}], "successors": [{"name": "바렌츠해", "id": 600836}, {"name": "북해", "id": 683928}]}

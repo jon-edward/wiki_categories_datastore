@@ -1,0 +1,1 @@
+{"name": "Componentes_activos", "id": 2580759, "predecessors": [{"name": "Componentes_electrónicos", "id": 52194}], "successors": [{"name": "Diodos", "id": 190267}, {"name": "Baterías", "id": 270629}, {"name": "Pilas_eléctricas", "id": 404117}, {"name": "Transistores", "id": 516484}, {"name": "Válvulas_termoiónicas", "id": 516510}, {"name": "Puertas_lógicas", "id": 4451972}]}

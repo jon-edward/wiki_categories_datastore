@@ -1,1 +1,1 @@
-{"name": "식당_경영자", "id": 1129238, "predecessors": [{"name": "가게", "id": 534615}, {"name": "직업", "id": 33338}], "successors": []}
+{"name": "식당_경영자", "id": 1129238, "predecessors": [{"name": "가게", "id": 534615}, {"name": "음식", "id": 10475}], "successors": []}

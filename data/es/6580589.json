@@ -1,0 +1,1 @@
+{"name": "Direccionamiento_de_red", "id": 6580589, "predecessors": [{"name": "Arquitectura_de_red", "id": 5366467}, {"name": "Identificadores", "id": 2935327}, {"name": "Protocolos_de_nivel_de_red", "id": 234429}], "successors": [{"name": "Domain_Name_System", "id": 507247}, {"name": "Direcciones_IP", "id": 8680259}]}

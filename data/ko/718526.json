@@ -1,1 +1,1 @@
-{"name": "토양개량제", "id": 718526, "predecessors": [{"name": "원예", "id": 82930}, {"name": "토양", "id": 208529}], "successors": [{"name": "비료", "id": 346592}]}
+{"name": "토양개량제", "id": 718526, "predecessors": [{"name": "원예", "id": 82930}, {"name": "토양", "id": 208529}, {"name": "방어용_건축의장", "id": 1873328}], "successors": [{"name": "비료", "id": 346592}]}

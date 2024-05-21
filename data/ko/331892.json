@@ -1,1 +1,1 @@
-{"name": "변형_체스", "id": 331892, "predecessors": [{"name": "체스", "id": 92583}, {"name": "규칙", "id": 705681}], "successors": [{"name": "변형_체스_기물", "id": 1032953}]}
+{"name": "변형_체스", "id": 331892, "predecessors": [{"name": "체스", "id": 92583}, {"name": "게이밍", "id": 1822542}], "successors": []}

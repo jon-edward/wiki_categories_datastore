@@ -1,0 +1,1 @@
+{"name": "Génétique_médicale", "id": 7042398, "predecessors": [{"name": "Génétique_humaine", "id": 1342226}, {"name": "Spécialité_médicale", "id": 293687}], "successors": [{"name": "Maladie_génétique", "id": 132107}, {"name": "Médecin_généticien", "id": 7042425}]}

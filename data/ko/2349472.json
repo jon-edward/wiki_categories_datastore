@@ -1,1 +1,1 @@
-{"name": "도박_웹사이트", "id": 2349472, "predecessors": [{"name": "도박", "id": 66506}], "successors": []}
+{"name": "도박_웹사이트", "id": 2349472, "predecessors": [{"name": "오락_웹사이트", "id": 612557}, {"name": "도박", "id": 66506}], "successors": []}

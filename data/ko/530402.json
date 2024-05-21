@@ -1,1 +1,1 @@
-{"name": "심리학_실험", "id": 530402, "predecessors": [{"name": "심리학", "id": 12210}], "successors": []}
+{"name": "심리학_실험", "id": 530402, "predecessors": [{"name": "과학_실험", "id": 127626}, {"name": "실험심리학", "id": 530388}, {"name": "심리학", "id": 12210}], "successors": []}

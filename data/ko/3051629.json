@@ -1,1 +1,1 @@
-{"name": "타이젠_장치", "id": 3051629, "predecessors": [{"name": "리눅스_장치", "id": 3051627}], "successors": []}
+{"name": "타이젠_장치", "id": 3051629, "predecessors": [{"name": "리눅스_장치", "id": 3051627}, {"name": "운영체제", "id": 42780}], "successors": []}

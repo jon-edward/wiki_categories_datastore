@@ -1,1 +1,1 @@
-{"name": "교통_안전", "id": 573047, "predecessors": [{"name": "교통", "id": 11844}, {"name": "안전", "id": 31670}], "successors": [{"name": "해상_안전", "id": 1215926}]}
+{"name": "교통_안전", "id": 573047, "predecessors": [{"name": "교통", "id": 11844}, {"name": "안전", "id": 31670}], "successors": [{"name": "교통_사고", "id": 123937}, {"name": "항공_안전", "id": 695128}]}

@@ -1,1 +1,1 @@
-{"name": "인테리어_디자이너", "id": 3769171, "predecessors": [{"name": "실내_장식", "id": 427964}], "successors": []}
+{"name": "인테리어_디자이너", "id": 3769171, "predecessors": [{"name": "실내_장식", "id": 427964}, {"name": "디자인", "id": 33660}], "successors": []}

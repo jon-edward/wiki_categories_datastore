@@ -1,0 +1,1 @@
+{"name": "Medios_de_calentamiento", "id": 2993199, "predecessors": [{"name": "Transferencia_de_calor", "id": 5166646}], "successors": [{"name": "Arco_eléctrico", "id": 1850553}, {"name": "Hornos", "id": 2993198}]}

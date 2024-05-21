@@ -1,0 +1,1 @@
+{"name": "Procesos_físicos", "id": 331067, "predecessors": [{"name": "Fenómenos_físicos", "id": 2570341}, {"name": "Ingeniería_química", "id": 319565}, {"name": "Ciencia_de_materiales", "id": 717772}], "successors": [{"name": "Procesos_termodinámicos", "id": 1074128}, {"name": "Procesos_de_separación", "id": 1826272}]}

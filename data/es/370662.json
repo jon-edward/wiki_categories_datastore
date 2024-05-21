@@ -1,0 +1,1 @@
+{"name": "Cálculo", "id": 370662, "predecessors": [{"name": "Análisis_matemático", "id": 55902}], "successors": [{"name": "Trigonometría", "id": 83660}, {"name": "Cálculo_integral", "id": 437435}, {"name": "Cálculo_multivariable", "id": 437444}, {"name": "Diferencia_finita", "id": 1814012}, {"name": "Cálculo_diferencial", "id": 3947700}]}

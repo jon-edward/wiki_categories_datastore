@@ -1,1 +1,1 @@
-{"name": "LG전자_제품", "id": 500238, "predecessors": [{"name": "LG전자", "id": 500239}, {"name": "대한민국의_경제", "id": 31016}], "successors": [{"name": "앤", "id": 532771}, {"name": "LG_휴대_전화기", "id": 588732}]}
+{"name": "LG전자_제품", "id": 500238, "predecessors": [{"name": "대한민국의_경제", "id": 31016}], "successors": [{"name": "앤", "id": 532771}, {"name": "LG_휴대_전화기", "id": 588732}, {"name": "엑스노트", "id": 599498}]}

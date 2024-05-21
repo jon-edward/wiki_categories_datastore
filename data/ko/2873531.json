@@ -1,1 +1,1 @@
-{"name": "ARM_매킨토시", "id": 2873531, "predecessors": [{"name": "매킨토시", "id": 89639}, {"name": "ARM_아키텍처", "id": 790137}], "successors": []}
+{"name": "ARM_매킨토시", "id": 2873531, "predecessors": [{"name": "매킨토시", "id": 89639}, {"name": "컴퓨터", "id": 11685}], "successors": []}

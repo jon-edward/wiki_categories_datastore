@@ -1,1 +1,1 @@
-{"name": "파일_시스템_디렉토리", "id": 3009775, "predecessors": [{"name": "데이터_관리", "id": 33944}], "successors": []}
+{"name": "파일_시스템_디렉토리", "id": 3009775, "predecessors": [{"name": "파일_시스템", "id": 122096}, {"name": "데이터_관리", "id": 33944}], "successors": []}

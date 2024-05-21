@@ -1,0 +1,1 @@
+{"name": "Entreprise_du_cinéma", "id": 2213312, "predecessors": [{"name": "Industrie_du_cinéma", "id": 83331}, {"name": "Divertissement", "id": 145624}], "successors": [{"name": "Exploitant_de_salles_de_cinéma", "id": 196522}, {"name": "Société_de_production_de_cinéma", "id": 353660}, {"name": "Studio_de_cinéma", "id": 363854}]}

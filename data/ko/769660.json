@@ -1,1 +1,1 @@
-{"name": "포탄", "id": 769660, "predecessors": [{"name": "대포_탄약", "id": 1481530}], "successors": []}
+{"name": "포탄", "id": 769660, "predecessors": [{"name": "대포_탄약", "id": 1481530}, {"name": "발사체", "id": 1592261}], "successors": []}

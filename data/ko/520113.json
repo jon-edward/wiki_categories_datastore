@@ -1,1 +1,1 @@
-{"name": "리메이크_애니메이션", "id": 520113, "predecessors": [{"name": "애니메이션_작품", "id": 523481}], "successors": []}
+{"name": "리메이크_애니메이션", "id": 520113, "predecessors": [{"name": "애니메이션_작품", "id": 523481}, {"name": "작품", "id": 168251}], "successors": []}

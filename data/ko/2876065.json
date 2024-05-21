@@ -1,1 +1,1 @@
-{"name": "대수적_조합론", "id": 2876065, "predecessors": [{"name": "조합론", "id": 14760}, {"name": "추상대수학", "id": 6570}], "successors": []}
+{"name": "대수적_조합론", "id": 2876065, "predecessors": [{"name": "조합론", "id": 14760}, {"name": "추상대수학", "id": 6570}], "successors": [{"name": "유한체", "id": 2952851}]}

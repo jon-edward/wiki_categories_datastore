@@ -1,1 +1,1 @@
-{"name": "그놈", "id": 29535, "predecessors": [{"name": "자유_데스크톱_환경", "id": 2723165}], "successors": [{"name": "GTK", "id": 1665378}]}
+{"name": "그놈", "id": 29535, "predecessors": [{"name": "GNU_프로젝트_소프트웨어", "id": 29536}, {"name": "자유_데스크톱_환경", "id": 2723165}, {"name": "자유_소프트웨어_프로젝트", "id": 974425}], "successors": [{"name": "GTK", "id": 1665378}]}

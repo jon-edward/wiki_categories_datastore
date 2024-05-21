@@ -1,1 +1,1 @@
-{"name": "體育電視台", "id": 406803, "predecessors": [{"name": "电视台", "id": 50797}, {"name": "電視節目的類型", "id": 1557779}, {"name": "娱乐", "id": 42321}], "successors": [{"name": "ESPN", "id": 920420}]}
+{"name": "體育電視台", "id": 406803, "predecessors": [{"name": "电视台", "id": 50797}, {"name": "電視節目的類型", "id": 1557779}, {"name": "體育娛樂", "id": 6282506}], "successors": [{"name": "ESPN", "id": 920420}]}

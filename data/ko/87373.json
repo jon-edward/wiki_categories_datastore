@@ -1,1 +1,1 @@
-{"name": "자물쇠", "id": 87373, "predecessors": [{"name": "도구", "id": 30522}, {"name": "보안", "id": 326595}, {"name": "생활용품", "id": 63046}], "successors": []}
+{"name": "자물쇠", "id": 87373, "predecessors": [{"name": "도구", "id": 30522}, {"name": "문", "id": 214501}, {"name": "보안", "id": 326595}, {"name": "생활용품", "id": 63046}], "successors": []}

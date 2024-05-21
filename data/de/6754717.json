@@ -1,0 +1,1 @@
+{"name": "MAN_Truck_&_Bus", "id": 6754717, "predecessors": [{"name": "MAN", "id": 2202592}, {"name": "Technik", "id": 242544}], "successors": [{"name": "Neoplan", "id": 6425722}, {"name": "MAN_Nutzfahrzeug", "id": 13100747}]}

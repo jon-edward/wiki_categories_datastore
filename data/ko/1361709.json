@@ -1,1 +1,1 @@
-{"name": "금속_중독", "id": 1361709, "predecessors": [{"name": "금속", "id": 12742}, {"name": "독물학", "id": 33722}, {"name": "약물_중독", "id": 288266}], "successors": [{"name": "미나마타병", "id": 3063761}]}
+{"name": "금속_중독", "id": 1361709, "predecessors": [{"name": "금속", "id": 12742}, {"name": "독물학", "id": 33722}], "successors": []}

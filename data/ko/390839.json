@@ -1,1 +1,1 @@
-{"name": "PC-9800_시리즈_게임", "id": 390839, "predecessors": [{"name": "NEC_개인용_컴퓨터", "id": 3782631}, {"name": "스미토모_그룹", "id": 915247}], "successors": []}
+{"name": "PC-9800_시리즈_게임", "id": 390839, "predecessors": [{"name": "NEC_개인용_컴퓨터", "id": 3782631}, {"name": "PC_게임", "id": 698618}], "successors": []}

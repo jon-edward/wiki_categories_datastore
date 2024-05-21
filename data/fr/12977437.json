@@ -1,0 +1,1 @@
+{"name": "Type_de_bateau_de_services", "id": 12977437, "predecessors": [{"name": "Bateau_de_service", "id": 294423}, {"name": "Type_de_bateaux", "id": 674247}], "successors": [{"name": "Navire_poseur_de_canalisations", "id": 13754936}]}

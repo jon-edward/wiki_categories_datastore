@@ -1,1 +1,1 @@
-{"name": "세계_양궁_선수권_대회", "id": 942782, "predecessors": [{"name": "세계_선수권_대회", "id": 360248}, {"name": "대회", "id": 116658}], "successors": []}
+{"name": "세계_양궁_선수권_대회", "id": 942782, "predecessors": [{"name": "양궁", "id": 225850}], "successors": []}

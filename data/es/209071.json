@@ -1,0 +1,1 @@
+{"name": "Gas_natural", "id": 209071, "predecessors": [{"name": "Combustibles_fósiles", "id": 54651}, {"name": "Gas_combustible", "id": 2950365}, {"name": "Hidrocarburos", "id": 99025}, {"name": "Combustibles", "id": 144034}], "successors": [{"name": "Gasoductos", "id": 2711566}]}

@@ -1,1 +1,1 @@
-{"name": "자료형_체계", "id": 3014169, "predecessors": [{"name": "유형_이론", "id": 73942}], "successors": [{"name": "자료형", "id": 89251}]}
+{"name": "자료형_체계", "id": 3014169, "predecessors": [{"name": "유형_이론", "id": 73942}, {"name": "프로그래밍_언어_개념", "id": 1749145}], "successors": [{"name": "자료형", "id": 89251}]}

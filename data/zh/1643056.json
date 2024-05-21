@@ -1,1 +1,1 @@
-{"name": "DNA复制抑制剂", "id": 1643056, "predecessors": [{"name": "抗肿瘤药", "id": 1747648}], "successors": [{"name": "氮芥类", "id": 7882502}]}
+{"name": "DNA复制抑制剂", "id": 1643056, "predecessors": [{"name": "抗肿瘤药", "id": 1747648}], "successors": [{"name": "拓扑异构酶抑制剂", "id": 1643055}, {"name": "烷基化抗肿瘤剂", "id": 1644211}, {"name": "氮芥类", "id": 7882502}]}

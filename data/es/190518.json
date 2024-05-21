@@ -1,0 +1,1 @@
+{"name": "Ruido", "id": 190518, "predecessors": [{"name": "Acústica", "id": 78852}, {"name": "Procesamiento_de_señales", "id": 2932402}, {"name": "Sonido", "id": 221010}, {"name": "Telecomunicaciones", "id": 52300}, {"name": "Teoría_de_las_telecomunicaciones", "id": 5985478}, {"name": "Cultura_musical", "id": 3145808}], "successors": [{"name": "Sonido", "id": 221010}]}

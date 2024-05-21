@@ -1,0 +1,1 @@
+{"name": "Getreideverarbeitung", "id": 9204888, "predecessors": [{"name": "Getreide", "id": 243083}, {"name": "Lebensmitteltechnologie", "id": 7470088}], "successors": [{"name": "Getreidemühlenwesen", "id": 3921355}, {"name": "Getreidespeicher", "id": 5060212}, {"name": "Teigverarbeitung", "id": 5607466}, {"name": "Mälzerei", "id": 8414300}]}

@@ -1,0 +1,1 @@
+{"name": "Derivatemarkt", "id": 2165575, "predecessors": [{"name": "Finanzmarkt", "id": 1724331}], "successors": [{"name": "Optionsgeschäft", "id": 1531119}, {"name": "Termingeschäft", "id": 1676257}, {"name": "Terminbörse", "id": 2172639}, {"name": "Derivatives_Wertpapier", "id": 10267207}]}

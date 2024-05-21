@@ -1,0 +1,1 @@
+{"name": "Infantería", "id": 1118730, "predecessors": [{"name": "Andar", "id": 6998070}, {"name": "Fuerzas_armadas", "id": 68565}], "successors": [{"name": "Vehículos_de_combate_de_infantería", "id": 1473312}, {"name": "Infantería_de_marina", "id": 6553163}, {"name": "Francotiradores", "id": 1001245}, {"name": "Guardia_de_Honor", "id": 8437051}]}

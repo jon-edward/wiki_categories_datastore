@@ -1,1 +1,1 @@
-{"name": "비누", "id": 2879498, "predecessors": [{"name": "세제", "id": 369854}], "successors": []}
+{"name": "비누", "id": 2879498, "predecessors": [{"name": "세제", "id": 369854}, {"name": "위생용품", "id": 821064}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "크기_정도_(길이)", "id": 49523, "predecessors": [{"name": "길이", "id": 23163}, {"name": "크기_정도", "id": 29306}], "successors": []}
+{"name": "크기_정도_(길이)", "id": 49523, "predecessors": [{"name": "길이", "id": 23163}, {"name": "길이에_따른_목록", "id": 3637815}, {"name": "크기_정도", "id": 29306}], "successors": []}

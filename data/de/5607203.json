@@ -1,0 +1,1 @@
+{"name": "Getreideprodukt", "id": 5607203, "predecessors": [{"name": "Getreide", "id": 243083}, {"name": "Pflanzenprodukt", "id": 831514}, {"name": "Getreidemühlenwesen", "id": 3921355}], "successors": [{"name": "Reisprodukt", "id": 5607133}, {"name": "Maisprodukt", "id": 5607218}, {"name": "Strohprodukt", "id": 9763668}]}

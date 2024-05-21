@@ -1,1 +1,1 @@
-{"name": "신체_예술", "id": 635479, "predecessors": [{"name": "예술_장르", "id": 2835674}, {"name": "인체", "id": 575815}], "successors": []}
+{"name": "신체_예술", "id": 635479, "predecessors": [{"name": "예술_장르", "id": 2835674}, {"name": "인체", "id": 575815}], "successors": [{"name": "문신_(그림)", "id": 1155401}]}

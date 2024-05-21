@@ -1,1 +1,1 @@
-{"name": "造船廠", "id": 737984, "predecessors": [{"name": "造船", "id": 3908863}, {"name": "製造業", "id": 1159067}], "successors": []}
+{"name": "造船廠", "id": 737984, "predecessors": [{"name": "造船", "id": 3908863}, {"name": "製造業", "id": 1159067}, {"name": "各類建築物", "id": 3249538}], "successors": []}

@@ -1,0 +1,1 @@
+{"name": "Werkstoffprüfung", "id": 1389344, "predecessors": [{"name": "Prüftechnik", "id": 2294562}, {"name": "Werkstoffkunde", "id": 239338}], "successors": [{"name": "Härtemesstechnik", "id": 2298257}, {"name": "Prüfung_von_Beschichtungswerkstoffen", "id": 4445863}, {"name": "Messgröße_der_Fertigungstechnik", "id": 5536521}, {"name": "Betonprüfverfahren", "id": 7733989}]}

@@ -1,1 +1,1 @@
-{"name": "전자_설계_자동화", "id": 622778, "predecessors": [{"name": "디지털_전자공학", "id": 217382}, {"name": "회로_설계", "id": 80551}], "successors": [{"name": "EDA_소프트웨어", "id": 241574}]}
+{"name": "전자_설계_자동화", "id": 622778, "predecessors": [{"name": "회로_설계", "id": 80551}], "successors": []}

@@ -1,0 +1,1 @@
+{"name": "Lenguajes_interpretados", "id": 54633, "predecessors": [{"name": "Lenguajes_de_programación", "id": 54634}], "successors": [{"name": "Compiladores_e_intérpretes_libres", "id": 467799}, {"name": "Perl", "id": 534978}, {"name": "PHP", "id": 1071676}, {"name": "JavaScript", "id": 1635924}, {"name": "Python", "id": 1642150}, {"name": "Ruby", "id": 6605004}]}

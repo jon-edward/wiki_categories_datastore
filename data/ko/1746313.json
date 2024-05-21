@@ -1,1 +1,1 @@
-{"name": "라디오를_소재로_한_노래", "id": 1746313, "predecessors": [{"name": "노래", "id": 41562}], "successors": []}
+{"name": "라디오를_소재로_한_노래", "id": 1746313, "predecessors": [{"name": "라디오를_소재로_한_작품", "id": 1417339}, {"name": "노래", "id": 41562}], "successors": []}

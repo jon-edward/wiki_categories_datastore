@@ -1,0 +1,1 @@
+{"name": "Véhicule_tout-terrain", "id": 10625467, "predecessors": [{"name": "Type_d'automobile", "id": 204977}, {"name": "Véhicule", "id": 84529}], "successors": [{"name": "Aéroglisseur", "id": 11731810}, {"name": "Pilote_de_quad", "id": 6842224}, {"name": "Jeu_vidéo_de_quad", "id": 12644172}, {"name": "Semi-chenillé", "id": 4438460}, {"name": "Autoneige", "id": 12003240}]}

@@ -1,1 +1,1 @@
-{"name": "JTBC电视节目", "id": 8437746, "predecessors": [{"name": "JTBC", "id": 5483184}, {"name": "韓國電視節目", "id": 1331230}], "successors": [{"name": "JTBC電視劇", "id": 1872833}, {"name": "PEAK_TIME", "id": 8320359}, {"name": "Super_Band_(韓國綜藝)", "id": 8415532}]}
+{"name": "JTBC电视节目", "id": 8437746, "predecessors": [{"name": "韓國電視節目", "id": 1331230}, {"name": "韓國電視台", "id": 406835}], "successors": [{"name": "JTBC電視劇", "id": 1872833}, {"name": "PEAK_TIME", "id": 8320359}, {"name": "Super_Band_(韓國綜藝)", "id": 8415532}]}

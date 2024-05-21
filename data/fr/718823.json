@@ -1,0 +1,1 @@
+{"name": "Toilettes", "id": 718823, "predecessors": [{"name": "Appareil_sanitaire", "id": 5444235}, {"name": "Excrétion", "id": 3233089}, {"name": "Hygiène", "id": 99656}, {"name": "Technologie_d'assainissement", "id": 11248558}], "successors": [{"name": "Papier_toilette", "id": 5458932}, {"name": "Toilettes_publiques", "id": 11049000}]}

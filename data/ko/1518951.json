@@ -1,1 +1,1 @@
-{"name": "실종자를_소재로_한_영화", "id": 1518951, "predecessors": [{"name": "영화", "id": 11875}], "successors": []}
+{"name": "실종자를_소재로_한_영화", "id": 1518951, "predecessors": [{"name": "실종자를_소재로_한_작품", "id": 1518979}, {"name": "작품", "id": 168251}], "successors": []}

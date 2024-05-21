@@ -1,1 +1,1 @@
-{"name": "WTA_투어", "id": 322805, "predecessors": [{"name": "테니스_대회", "id": 154290}], "successors": []}
+{"name": "WTA_투어", "id": 322805, "predecessors": [{"name": "테니스_대회", "id": 154290}, {"name": "테니스", "id": 32791}], "successors": []}

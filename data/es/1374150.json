@@ -1,0 +1,1 @@
+{"name": "Transporte_en_Rosario", "id": 1374150, "predecessors": [{"name": "Rosario", "id": 345714}, {"name": "Transporte_en_la_provincia_de_Santa_Fe", "id": 1374154}, {"name": "Transporte_de_Argentina", "id": 239795}], "successors": [{"name": "Calles_de_Rosario", "id": 1980064}, {"name": "Líneas_de_colectivo_de_Rosario", "id": 3541771}]}

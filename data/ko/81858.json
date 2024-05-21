@@ -1,1 +1,1 @@
-{"name": "NP-완전_문제", "id": 81858, "predecessors": [{"name": "계산_문제", "id": 1797658}, {"name": "계산_복잡도_이론", "id": 62442}], "successors": []}
+{"name": "NP-완전_문제", "id": 81858, "predecessors": [{"name": "계산_문제", "id": 1797658}, {"name": "계산_복잡도_이론", "id": 62442}], "successors": [{"name": "테트리스", "id": 2828742}]}

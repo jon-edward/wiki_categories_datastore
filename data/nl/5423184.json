@@ -1,1 +1,1 @@
-{"name": "Auto_van_Hyundai", "id": 5423184, "predecessors": [{"name": "Economie_in_Seoel", "id": 5464256}, {"name": "Auto", "id": 67080}], "successors": []}
+{"name": "Auto_van_Hyundai", "id": 5423184, "predecessors": [{"name": "Auto", "id": 67080}, {"name": "Seoel", "id": 673567}], "successors": []}

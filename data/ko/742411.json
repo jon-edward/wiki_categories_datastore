@@ -1,1 +1,1 @@
-{"name": "차량_번호판", "id": 742411, "predecessors": [{"name": "식별자", "id": 80543}], "successors": []}
+{"name": "차량_번호판", "id": 742411, "predecessors": [{"name": "식별자", "id": 80543}], "successors": [{"name": "나라별_차량_번호판", "id": 1404317}]}

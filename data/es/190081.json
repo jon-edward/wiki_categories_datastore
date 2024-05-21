@@ -1,0 +1,1 @@
+{"name": "Cables", "id": 190081, "predecessors": [{"name": "Componentes_pasivos", "id": 2580793}], "successors": [{"name": "Cables_Ethernet", "id": 510217}, {"name": "Cuerdas", "id": 8889084}, {"name": "Fibra_óptica", "id": 59399}]}

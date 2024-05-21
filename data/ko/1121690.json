@@ -1,1 +1,1 @@
-{"name": "사이클_영화", "id": 1121690, "predecessors": [{"name": "사이클", "id": 690052}, {"name": "스포츠_영화", "id": 54525}], "successors": []}
+{"name": "사이클_영화", "id": 1121690, "predecessors": [{"name": "사이클", "id": 690052}, {"name": "작품", "id": 168251}, {"name": "스포츠_영화", "id": 54525}], "successors": []}

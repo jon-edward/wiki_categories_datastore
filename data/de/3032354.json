@@ -1,0 +1,1 @@
+{"name": "Labormedizinisches_Untersuchungsverfahren", "id": 3032354, "predecessors": [{"name": "Diagnostisches_Verfahren", "id": 3032281}, {"name": "Labormedizin", "id": 812191}, {"name": "Labortechnik", "id": 8059531}], "successors": [{"name": "Immunchemisches_Testverfahren", "id": 2057563}, {"name": "Tumormarker", "id": 2917823}, {"name": "Blutbild", "id": 3478026}]}

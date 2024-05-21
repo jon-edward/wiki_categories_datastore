@@ -1,1 +1,1 @@
-{"name": "Afvalwater", "id": 1490734, "predecessors": [{"name": "Milieu", "id": 67603}, {"name": "Water", "id": 78752}], "successors": [{"name": "Riool", "id": 632044}]}
+{"name": "Afvalwater", "id": 1490734, "predecessors": [{"name": "Afval", "id": 104379}, {"name": "Water", "id": 78752}], "successors": [{"name": "Riool", "id": 632044}]}

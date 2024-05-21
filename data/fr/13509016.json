@@ -1,0 +1,1 @@
+{"name": "Modèle_bus", "id": 13509016, "predecessors": [{"name": "Modèle_transport", "id": 496057}], "successors": [{"name": "Modèle_autobus_d'Île-de-France", "id": 14941296}, {"name": "Modèle_autobus_de_Toulouse", "id": 15005944}, {"name": "Modèle_autobus_de_Strasbourg", "id": 15006005}]}

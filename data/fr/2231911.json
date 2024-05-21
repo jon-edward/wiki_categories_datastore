@@ -1,0 +1,1 @@
+{"name": "Intoxication", "id": 2231911, "predecessors": [{"name": "Toxicologie", "id": 99455}, {"name": "Urgence_médicale", "id": 381539}], "successors": [{"name": "Intoxication_alimentaire", "id": 464699}]}

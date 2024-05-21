@@ -1,0 +1,1 @@
+{"name": "Bridge", "id": 317169, "predecessors": [{"name": "Jeu_de_cartes_traditionnelles", "id": 539714}, {"name": "Jeu_de_levées", "id": 1136954}, {"name": "Sport_de_l'esprit", "id": 5440766}], "successors": [{"name": "Convention_de_bridge", "id": 1255406}, {"name": "Joueur_de_bridge_américain", "id": 5922198}, {"name": "Joueur_de_bridge_français", "id": 5922221}]}

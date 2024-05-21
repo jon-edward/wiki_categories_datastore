@@ -1,0 +1,1 @@
+{"name": "Véhicule_hybride", "id": 5567011, "predecessors": [{"name": "Propulsion_alternative", "id": 347622}, {"name": "Véhicule", "id": 84529}], "successors": [{"name": "Automobile_hybride", "id": 3721297}]}

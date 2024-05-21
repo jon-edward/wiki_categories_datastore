@@ -1,0 +1,1 @@
+{"name": "Alarmierung", "id": 236108, "predecessors": [{"name": "Sicherheitsmaßnahme", "id": 2773381}], "successors": [{"name": "Signalgerät", "id": 1166711}, {"name": "Warnsystem", "id": 6792161}, {"name": "Gefahrensignal", "id": 12307884}]}

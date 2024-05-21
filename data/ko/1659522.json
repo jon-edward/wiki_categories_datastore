@@ -1,1 +1,1 @@
-{"name": "FK_보이보디나의_축구_감독", "id": 1659522, "predecessors": [{"name": "보이보디나", "id": 70023}, {"name": "스포츠_지도자", "id": 2453021}], "successors": []}
+{"name": "FK_보이보디나의_축구_감독", "id": 1659522, "predecessors": [{"name": "보이보디나", "id": 70023}], "successors": []}

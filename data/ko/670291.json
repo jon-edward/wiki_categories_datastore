@@ -1,1 +1,1 @@
-{"name": "카지노", "id": 670291, "predecessors": [{"name": "도박", "id": 66506}, {"name": "유형별_건축물", "id": 1103148}], "successors": []}
+{"name": "카지노", "id": 670291, "predecessors": [{"name": "도박", "id": 66506}, {"name": "유형별_건축물", "id": 1103148}, {"name": "오락", "id": 15625}], "successors": [{"name": "카지노업자", "id": 1483323}]}

@@ -1,1 +1,1 @@
-{"name": "범죄_무혐의_석방자", "id": 1593219, "predecessors": [{"name": "범죄인", "id": 44023}, {"name": "법", "id": 130821}], "successors": []}
+{"name": "범죄_무혐의_석방자", "id": 1593219, "predecessors": [{"name": "범죄", "id": 31669}, {"name": "법", "id": 130821}], "successors": []}

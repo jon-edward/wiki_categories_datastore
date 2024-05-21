@@ -1,1 +1,1 @@
-{"name": "데이터베이스_API", "id": 1915046, "predecessors": [{"name": "데이터베이스", "id": 69609}], "successors": []}
+{"name": "데이터베이스_API", "id": 1915046, "predecessors": [{"name": "API", "id": 74093}, {"name": "데이터베이스", "id": 69609}], "successors": []}

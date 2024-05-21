@@ -1,1 +1,1 @@
-{"name": "만두", "id": 1055710, "predecessors": [{"name": "설날_음식", "id": 2568443}, {"name": "소를_넣은_피", "id": 3327973}, {"name": "한국_요리", "id": 49112}], "successors": []}
+{"name": "만두", "id": 1055710, "predecessors": [{"name": "소를_넣은_피", "id": 3327973}, {"name": "한국_요리", "id": 49112}], "successors": []}

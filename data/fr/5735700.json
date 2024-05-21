@@ -1,0 +1,1 @@
+{"name": "Attaque_de_requin", "id": 5735700, "predecessors": [{"name": "Attaque_animale", "id": 10340486}, {"name": "Gestion_de_l'environnement_marin", "id": 15032170}, {"name": "Poisson_dans_la_culture", "id": 5569227}], "successors": [{"name": "Film_de_requins", "id": 5765941}]}

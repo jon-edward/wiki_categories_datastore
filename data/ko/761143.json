@@ -1,1 +1,1 @@
-{"name": "발전기", "id": 761143, "predecessors": [{"name": "변환기", "id": 98488}, {"name": "전력장치", "id": 101989}], "successors": []}
+{"name": "발전기", "id": 761143, "predecessors": [{"name": "변환기", "id": 98488}, {"name": "전력장치", "id": 101989}], "successors": [{"name": "풍력_터빈_제조업체", "id": 2836334}]}

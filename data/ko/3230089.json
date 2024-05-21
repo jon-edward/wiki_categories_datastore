@@ -1,0 +1,1 @@
+{"name": "여객_철도", "id": 3230089, "predecessors": [{"name": "대중_교통", "id": 40988}], "successors": [{"name": "철도_패스", "id": 3774430}]}

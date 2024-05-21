@@ -1,1 +1,1 @@
-{"name": "Produtos_da_AMD", "id": 3719156, "predecessors": [{"name": "AMD", "id": 467580}, {"name": "Empresas", "id": 328001}], "successors": [{"name": "Microprocessadores_AMD", "id": 810920}]}
+{"name": "Produtos_da_AMD", "id": 3719156, "predecessors": [{"name": "AMD", "id": 467580}, {"name": "Empresas", "id": 328001}], "successors": [{"name": "Microprocessadores_AMD", "id": 810920}, {"name": "Soquetes_AMD", "id": 7354275}]}

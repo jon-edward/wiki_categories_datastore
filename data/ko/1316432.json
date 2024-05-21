@@ -1,1 +1,1 @@
-{"name": "요격기", "id": 1316432, "predecessors": [{"name": "방공_장비", "id": 43619}], "successors": []}
+{"name": "요격기", "id": 1316432, "predecessors": [{"name": "방공_장비", "id": 43619}, {"name": "군용_항공기", "id": 30020}], "successors": []}

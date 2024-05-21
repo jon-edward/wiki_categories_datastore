@@ -1,0 +1,1 @@
+{"name": "Tipos_de_servicios_ferroviarios", "id": 5268935, "predecessors": [{"name": "Ferrocarriles", "id": 326073}], "successors": [{"name": "Trenes_nocturnos", "id": 5468241}, {"name": "Trenes_turísticos", "id": 6180593}, {"name": "Tren_de_lujo", "id": 10608164}]}

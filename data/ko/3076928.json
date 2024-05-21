@@ -1,1 +1,1 @@
-{"name": "SSG_랜더스_시즌", "id": 3076928, "predecessors": [{"name": "SSG_랜더스", "id": 2943153}, {"name": "KBO_리그_시즌", "id": 659210}], "successors": [{"name": "SK_와이번스_시즌", "id": 558016}]}
+{"name": "SSG_랜더스_시즌", "id": 3076928, "predecessors": [{"name": "KBO_리그_시즌", "id": 659210}], "successors": [{"name": "SK_와이번스_시즌", "id": 558016}]}

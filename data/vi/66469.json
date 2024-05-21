@@ -1,1 +1,1 @@
-{"name": "Bộ_binh", "id": 66469, "predecessors": [{"name": "Đi_bộ", "id": 3144844}, {"name": "Kiểu_chiến_tranh", "id": 820534}], "successors": [{"name": "Chiến_thuật_bộ_binh", "id": 14842553}, {"name": "Vũ_khí_bộ_binh", "id": 19777999}]}
+{"name": "Bộ_binh", "id": 66469, "predecessors": [{"name": "Đi_bộ", "id": 3144844}, {"name": "Kiểu_chiến_tranh", "id": 820534}], "successors": [{"name": "Chiến_thuật_bộ_binh", "id": 14842553}, {"name": "Súng_carbine", "id": 792729}, {"name": "Vũ_khí_bộ_binh_thời_Thế_chiến_thứ_hai", "id": 3420716}]}

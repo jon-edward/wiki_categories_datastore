@@ -1,1 +1,1 @@
-{"name": "연도별_북인도양_사이클론", "id": 1356477, "predecessors": [{"name": "인도양", "id": 13259}], "successors": []}
+{"name": "연도별_북인도양_사이클론", "id": 1356477, "predecessors": [{"name": "사이클론", "id": 198281}, {"name": "기상학", "id": 22662}], "successors": []}

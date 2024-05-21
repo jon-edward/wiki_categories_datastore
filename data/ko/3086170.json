@@ -1,1 +1,1 @@
-{"name": "쌀밥", "id": 3086170, "predecessors": [{"name": "밥", "id": 221475}, {"name": "쌀_요리", "id": 1914488}], "successors": [{"name": "필라프", "id": 3326589}]}
+{"name": "쌀밥", "id": 3086170, "predecessors": [{"name": "밥", "id": 221475}, {"name": "쌀_요리", "id": 1914488}], "successors": [{"name": "쌀밥_요리", "id": 3086172}, {"name": "필라프", "id": 3326589}]}

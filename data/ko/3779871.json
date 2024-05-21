@@ -1,1 +1,1 @@
-{"name": "발사_실패한_인공위성", "id": 3779871, "predecessors": [{"name": "인공위성", "id": 44783}], "successors": []}
+{"name": "발사_실패한_인공위성", "id": 3779871, "predecessors": [{"name": "인공위성", "id": 44783}, {"name": "우주_개발", "id": 44715}], "successors": []}

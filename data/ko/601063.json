@@ -1,1 +1,1 @@
-{"name": "열대_저기압에_관한_틀", "id": 601063, "predecessors": [{"name": "날씨에_관한_틀", "id": 560107}], "successors": []}
+{"name": "열대_저기압에_관한_틀", "id": 601063, "predecessors": [{"name": "날씨에_관한_틀", "id": 560107}, {"name": "열대_저기압", "id": 601033}], "successors": []}

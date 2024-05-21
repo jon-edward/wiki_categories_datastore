@@ -1,1 +1,1 @@
-{"name": "HERG_차단제", "id": 3321585, "predecessors": [{"name": "칼륨_통로", "id": 2488899}, {"name": "칼륨_통로_차단제", "id": 2488897}], "successors": []}
+{"name": "HERG_차단제", "id": 3321585, "predecessors": [{"name": "칼륨_통로_차단제", "id": 2488897}], "successors": []}

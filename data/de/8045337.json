@@ -1,0 +1,1 @@
+{"name": "Ganzzahlmenge", "id": 8045337, "predecessors": [{"name": "Ganze_Zahl", "id": 688743}], "successors": [{"name": "Primzahl", "id": 688705}, {"name": "Figurierte_Zahl", "id": 3350840}, {"name": "Folge_ganzer_Zahlen", "id": 8843643}]}

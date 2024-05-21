@@ -1,1 +1,1 @@
-{"name": "ISO", "id": 577624, "predecessors": [{"name": "표준화_기구", "id": 33500}], "successors": [{"name": "ISO_표준", "id": 15003}]}
+{"name": "ISO", "id": 577624, "predecessors": [{"name": "국제_비정부_기구", "id": 667346}, {"name": "표준화_기구", "id": 33500}], "successors": [{"name": "ISO_표준", "id": 15003}]}

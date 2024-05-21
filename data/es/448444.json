@@ -1,0 +1,1 @@
+{"name": "Yogures", "id": 448444, "predecessors": [{"name": "Alimentos_fermentados", "id": 3068651}, {"name": "Lácteos", "id": 51212}, {"name": "Productos_biotecnológicos", "id": 455640}], "successors": [{"name": "Platos_con_yogur", "id": 10008185}]}

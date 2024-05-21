@@ -1,0 +1,1 @@
+{"name": "ERP", "id": 4574689, "predecessors": [{"name": "Administración_de_la_cadena_de_suministro", "id": 4574694}, {"name": "Herramientas_de_gestión", "id": 324641}, {"name": "Producción", "id": 3405119}, {"name": "Sistemas_de_gestión_empresarial", "id": 2897005}], "successors": [{"name": "SAP", "id": 4378288}]}

@@ -1,1 +1,1 @@
-{"name": "말_질병", "id": 2669562, "predecessors": [{"name": "동물_질병", "id": 595667}], "successors": []}
+{"name": "말_질병", "id": 2669562, "predecessors": [{"name": "말", "id": 190409}, {"name": "동물_질병", "id": 595667}], "successors": []}

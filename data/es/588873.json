@@ -1,0 +1,1 @@
+{"name": "Arquitectura_x86", "id": 588873, "predecessors": [{"name": "Arquitectura_de_computadoras", "id": 2494449}], "successors": [{"name": "Emuladores_x86", "id": 591265}, {"name": "Microprocesadores_Intel_x86", "id": 5252258}, {"name": "Microprocesadores_AMD_x86", "id": 5252494}, {"name": "Chipsets_x86", "id": 5252538}, {"name": "Sistemas_operativos_x86", "id": 6365518}]}

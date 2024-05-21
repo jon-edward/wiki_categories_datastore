@@ -1,1 +1,1 @@
-{"name": "필수_아미노산", "id": 1363116, "predecessors": [{"name": "단백질성_아미노산", "id": 2468103}, {"name": "필수_영양소", "id": 28239}], "successors": []}
+{"name": "필수_아미노산", "id": 1363116, "predecessors": [{"name": "필수_영양소", "id": 28239}], "successors": []}

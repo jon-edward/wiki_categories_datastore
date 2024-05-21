@@ -1,1 +1,1 @@
-{"name": "일본의_수산_가공품", "id": 769652, "predecessors": [{"name": "일본_요리", "id": 48742}], "successors": [{"name": "연육", "id": 1027563}]}
+{"name": "일본의_수산_가공품", "id": 769652, "predecessors": [{"name": "수산물", "id": 769651}, {"name": "일본_요리", "id": 48742}], "successors": [{"name": "연육", "id": 1027563}]}

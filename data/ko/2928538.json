@@ -1,1 +1,1 @@
-{"name": "컴퓨터_설계자", "id": 2928538, "predecessors": [{"name": "IT_종사자", "id": 808171}, {"name": "전자공학", "id": 22538}], "successors": []}
+{"name": "컴퓨터_설계자", "id": 2928538, "predecessors": [{"name": "직업별_사람", "id": 37930}, {"name": "전자공학", "id": 22538}], "successors": []}

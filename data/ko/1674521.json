@@ -1,1 +1,1 @@
-{"name": "기후_변화_되먹임", "id": 1674521, "predecessors": [{"name": "기후_변화", "id": 137277}], "successors": []}
+{"name": "기후_변화_되먹임", "id": 1674521, "predecessors": [{"name": "기후_변화", "id": 137277}, {"name": "시스템_분석", "id": 1704153}], "successors": []}

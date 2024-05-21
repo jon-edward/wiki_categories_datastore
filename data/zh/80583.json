@@ -1,1 +1,1 @@
-{"name": "兴奋剂", "id": 80583, "predecessors": [{"name": "精神药物", "id": 3885321}], "successors": [{"name": "拟交感胺类", "id": 1556643}, {"name": "茶", "id": 46065}, {"name": "煙草", "id": 1825373}]}
+{"name": "兴奋剂", "id": 80583, "predecessors": [{"name": "精神药物", "id": 3885321}], "successors": [{"name": "拟交感胺类", "id": 1556643}, {"name": "茶", "id": 46065}]}

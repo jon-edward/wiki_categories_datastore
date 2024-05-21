@@ -1,1 +1,1 @@
-{"name": "무선_센서_네트워크", "id": 2489283, "predecessors": [{"name": "사물인터넷", "id": 1452056}], "successors": []}
+{"name": "무선_센서_네트워크", "id": 2489283, "predecessors": [{"name": "무선_네트워크", "id": 28118}, {"name": "사물인터넷", "id": 1452056}], "successors": []}

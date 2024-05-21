@@ -1,1 +1,1 @@
-{"name": "殡仪业", "id": 1659875, "predecessors": [{"name": "喪葬", "id": 187380}], "successors": [{"name": "墓地", "id": 140864}, {"name": "解剖保藏", "id": 1659874}, {"name": "棺材", "id": 7014309}]}
+{"name": "殡仪业", "id": 1659875, "predecessors": [{"name": "喪葬", "id": 187380}], "successors": [{"name": "墓地", "id": 140864}, {"name": "解剖保藏", "id": 1659874}]}

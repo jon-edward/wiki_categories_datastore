@@ -1,1 +1,1 @@
-{"name": "아일랜드해의_항구_도시", "id": 1488525, "predecessors": [{"name": "아일랜드해", "id": 659743}], "successors": []}
+{"name": "아일랜드해의_항구_도시", "id": 1488525, "predecessors": [{"name": "아일랜드해", "id": 659743}, {"name": "도시", "id": 11363}, {"name": "항구", "id": 41504}], "successors": []}
