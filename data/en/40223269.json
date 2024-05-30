@@ -1,1 +1,1 @@
-{"name": "Parasites_of_fish", "id": 40223269, "predecessors": [{"name": "Veterinary_medicine", "id": 977183}], "successors": [{"name": "Animal_parasites_of_fish", "id": 55638068}]}
+{"name": "Parasites_of_fish", "id": 40223269, "predecessors": [{"name": "Animal_welfare", "id": 991706}], "successors": [{"name": "Animal_parasites_of_fish", "id": 55638068}]}

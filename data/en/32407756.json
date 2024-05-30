@@ -1,1 +1,1 @@
-{"name": "Bus_rapid_transit_in_China", "id": 32407756, "predecessors": [{"name": "Rapid_transit_in_China", "id": 5085323}, {"name": "Road_transport_in_China", "id": 18887880}, {"name": "Bus_rapid_transit", "id": 1866000}], "successors": []}
+{"name": "Bus_rapid_transit_in_China", "id": 32407756, "predecessors": [{"name": "Rapid_transit_in_China", "id": 5085323}, {"name": "Bus_rapid_transit", "id": 1866000}, {"name": "Government_of_China", "id": 7993982}], "successors": []}

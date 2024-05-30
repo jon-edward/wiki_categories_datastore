@@ -1,0 +1,1 @@
+{"name": "Wind", "id": 22843034, "predecessors": [{"name": "Atmospheric_dynamics", "id": 5138253}, {"name": "Meteorological_phenomena", "id": 38779805}], "successors": [{"name": "Sailing", "id": 894884}, {"name": "Winds", "id": 1223154}, {"name": "Tornado", "id": 5915908}, {"name": "Wind_power", "id": 7689273}]}

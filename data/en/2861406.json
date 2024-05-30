@@ -1,1 +1,1 @@
-{"name": "Web_syndication_formats", "id": 2861406, "predecessors": [{"name": "Markup_languages", "id": 892293}, {"name": "Web_2.0", "id": 3872776}], "successors": [{"name": "RSS", "id": 1001395}, {"name": "Atom_(Web_standard)", "id": 33773994}]}
+{"name": "Web_syndication_formats", "id": 2861406, "predecessors": [{"name": "Markup_languages", "id": 892293}, {"name": "Web_2.0", "id": 3872776}, {"name": "Web_syndication", "id": 3471180}], "successors": [{"name": "RSS", "id": 1001395}, {"name": "Atom_(Web_standard)", "id": 33773994}]}

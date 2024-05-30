@@ -1,1 +1,1 @@
-{"name": "American_civil_engineers", "id": 2579234, "predecessors": [{"name": "American_engineers", "id": 1196880}], "successors": [{"name": "American_railway_civil_engineers", "id": 63366352}]}
+{"name": "American_civil_engineers", "id": 2579234, "predecessors": [{"name": "American_engineers", "id": 1196880}], "successors": [{"name": "American_bridge_engineers", "id": 49072137}, {"name": "American_canal_engineers", "id": 63365530}, {"name": "American_railway_civil_engineers", "id": 63366352}]}

@@ -1,1 +1,1 @@
-{"name": "Music_festivals_in_Sweden", "id": 13712078, "predecessors": [{"name": "Festivals_in_Sweden", "id": 11708989}], "successors": [{"name": "Melodifestivalen", "id": 3701010}, {"name": "Rock_festivals_in_Sweden", "id": 23750941}]}
+{"name": "Music_festivals_in_Sweden", "id": 13712078, "predecessors": [{"name": "Festivals_in_Sweden", "id": 11708989}, {"name": "Music_of_Sweden", "id": 724479}], "successors": [{"name": "Melodifestivalen", "id": 3701010}, {"name": "Rock_festivals_in_Sweden", "id": 23750941}]}

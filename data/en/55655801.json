@@ -1,1 +1,1 @@
-{"name": "Cable_ferries_in_Germany", "id": 55655801, "predecessors": [{"name": "Cable_ferries", "id": 55654033}, {"name": "Water_transport_in_Germany", "id": 5405961}], "successors": []}
+{"name": "Cable_ferries_in_Germany", "id": 55655801, "predecessors": [{"name": "Cable_ferries", "id": 55654033}, {"name": "Public_transport_in_Germany", "id": 12431587}], "successors": []}

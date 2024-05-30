@@ -1,1 +1,1 @@
-{"name": "Superintendents_of_Public_Instruction_of_Wisconsin", "id": 31655191, "predecessors": [{"name": "Government_of_Wisconsin", "id": 1009177}], "successors": []}
+{"name": "Superintendents_of_Public_Instruction_of_Wisconsin", "id": 31655191, "predecessors": [{"name": "School_superintendents_in_Wisconsin", "id": 70447732}, {"name": "State_superintendents_of_public_instruction_of_the_United_States", "id": 38970483}, {"name": "Government_of_Wisconsin", "id": 1009177}, {"name": "Education_in_Wisconsin", "id": 1470384}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Software_that_uses_Tk_(software)", "id": 42359623, "predecessors": [{"name": "Linux_software", "id": 9519323}, {"name": "Software", "id": 691633}, {"name": "Widget_toolkits", "id": 2015768}], "successors": []}
+{"name": "Software_that_uses_Tk_(software)", "id": 42359623, "predecessors": [{"name": "Linux_software", "id": 9519323}, {"name": "Computer_libraries", "id": 7482978}], "successors": []}

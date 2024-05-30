@@ -1,1 +1,1 @@
-{"name": "Free_terminal_emulators", "id": 21870350, "predecessors": [{"name": "Free_communication_software", "id": 21140817}, {"name": "Free_emulation_software", "id": 6642283}, {"name": "Free_system_software", "id": 6721544}, {"name": "Terminal_emulators", "id": 3156816}], "successors": []}
+{"name": "Free_terminal_emulators", "id": 21870350, "predecessors": [{"name": "Free_communication_software", "id": 21140817}, {"name": "Terminal_emulators", "id": 3156816}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "고양이속_잡종", "id": 2009458, "predecessors": [{"name": "고양이", "id": 90462}, {"name": "고양이과", "id": 69884}], "successors": []}
+{"name": "고양이속_잡종", "id": 2009458, "predecessors": [{"name": "잡종_포유류", "id": 1795442}, {"name": "육종", "id": 2009454}], "successors": []}

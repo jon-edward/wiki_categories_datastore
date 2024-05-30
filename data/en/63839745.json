@@ -1,1 +1,1 @@
-{"name": "Islands_of_South_Andaman_district", "id": 63839745, "predecessors": [{"name": "Islands_of_the_Andaman_and_Nicobar_Islands", "id": 14469477}], "successors": [{"name": "Port_Blair", "id": 27075954}]}
+{"name": "Islands_of_South_Andaman_district", "id": 63839745, "predecessors": [{"name": "Islands_of_the_Andaman_and_Nicobar_Islands", "id": 14469477}, {"name": "South_Andaman_district", "id": 27032751}], "successors": [{"name": "Port_Blair", "id": 27075954}]}

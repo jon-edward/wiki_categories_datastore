@@ -1,1 +1,1 @@
-{"name": "Maritime_safety_organizations", "id": 29612211, "predecessors": [{"name": "Maritime_organizations", "id": 13919467}], "successors": [{"name": "Coast_guards", "id": 765959}]}
+{"name": "Maritime_safety_organizations", "id": 29612211, "predecessors": [{"name": "Maritime_organizations", "id": 13919467}, {"name": "Maritime_safety", "id": 17988800}], "successors": [{"name": "Coast_guards", "id": 765959}]}

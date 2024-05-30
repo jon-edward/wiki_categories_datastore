@@ -1,0 +1,1 @@
+{"name": "Protein_kinase_inhibitors", "id": 31818473, "predecessors": [{"name": "Kinase_inhibitors", "id": 56019641}, {"name": "Enzyme_inhibitors", "id": 19642097}], "successors": [{"name": "Tyrosine_kinase_inhibitors", "id": 1678515}, {"name": "CDK_inhibitors", "id": 75225883}]}

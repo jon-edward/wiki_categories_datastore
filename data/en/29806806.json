@@ -1,1 +1,1 @@
-{"name": "Tracked_self-propelled_artillery", "id": 29806806, "predecessors": [{"name": "Tracked_armoured_fighting_vehicles", "id": 33337062}], "successors": [{"name": "Tracked_self-propelled_howitzers", "id": 29806808}]}
+{"name": "Tracked_self-propelled_artillery", "id": 29806806, "predecessors": [{"name": "Tracked_armoured_fighting_vehicles", "id": 33337062}, {"name": "Artillery_by_type", "id": 13392456}], "successors": [{"name": "Tracked_self-propelled_howitzers", "id": 29806808}]}

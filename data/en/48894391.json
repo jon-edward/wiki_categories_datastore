@@ -1,1 +1,1 @@
-{"name": "University_of_Washington_campus", "id": 48894391, "predecessors": [{"name": "Campuses", "id": 8525766}], "successors": [{"name": "University_of_Washington_buildings", "id": 75215646}]}
+{"name": "University_of_Washington_campus", "id": 48894391, "predecessors": [{"name": "University_of_Washington", "id": 1860861}, {"name": "Universities_and_colleges_in_the_United_States", "id": 1620371}], "successors": [{"name": "University_of_Washington_buildings", "id": 75215646}]}

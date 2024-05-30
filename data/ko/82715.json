@@ -1,1 +1,1 @@
-{"name": "질산염", "id": 82715, "predecessors": [{"name": "염", "id": 32336}], "successors": [{"name": "질산_에스터", "id": 2490081}]}
+{"name": "질산염", "id": 82715, "predecessors": [{"name": "염", "id": 32336}, {"name": "질소_화합물", "id": 51510}], "successors": [{"name": "질산_에스터", "id": 2490081}]}

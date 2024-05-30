@@ -1,1 +1,1 @@
-{"name": "올림픽_육상_경기장", "id": 1921284, "predecessors": [{"name": "올림픽_육상", "id": 399605}, {"name": "경기장", "id": 337444}], "successors": []}
+{"name": "올림픽_육상_경기장", "id": 1921284, "predecessors": [{"name": "올림픽_육상", "id": 399605}, {"name": "대회", "id": 116658}], "successors": []}

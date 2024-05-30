@@ -1,1 +1,1 @@
-{"name": "Maritime_signalling", "id": 62987685, "predecessors": [{"name": "Maritime_culture", "id": 18335592}, {"name": "Signage", "id": 4130053}], "successors": [{"name": "Lighthouses", "id": 702409}, {"name": "Daymarks", "id": 50566048}]}
+{"name": "Maritime_signalling", "id": 62987685, "predecessors": [{"name": "Maritime_culture", "id": 18335592}, {"name": "Maritime_safety", "id": 17988800}, {"name": "Signage", "id": 4130053}], "successors": [{"name": "Lighthouses", "id": 702409}, {"name": "Daymarks", "id": 50566048}]}

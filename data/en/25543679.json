@@ -1,1 +1,0 @@
-{"name": "Tone,_EQ_and_filter", "id": 25543679, "predecessors": [{"name": "Audio_electronics", "id": 11387266}, {"name": "Signal_processing_filter", "id": 28226272}], "successors": [{"name": "Filter_frequency_response", "id": 28228712}]}

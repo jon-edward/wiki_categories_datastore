@@ -1,1 +1,1 @@
-{"name": "Tanks_with_autoloaders", "id": 30898301, "predecessors": [{"name": "Tanks_by_type", "id": 21549001}], "successors": [{"name": "T-72", "id": 69716717}]}
+{"name": "Tanks_with_autoloaders", "id": 30898301, "predecessors": [{"name": "Tanks_by_type", "id": 21549001}, {"name": "Artillery_components", "id": 19853082}], "successors": [{"name": "T-72", "id": 69716717}]}

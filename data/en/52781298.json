@@ -1,1 +1,1 @@
-{"name": "Monotypic_decapod_genera", "id": 52781298, "predecessors": [{"name": "Monotypic_crustacean_genera", "id": 44144441}], "successors": []}
+{"name": "Monotypic_decapod_genera", "id": 52781298, "predecessors": [{"name": "Decapod_genera", "id": 52781331}, {"name": "Monotypic_crustacean_genera", "id": 44144441}], "successors": []}

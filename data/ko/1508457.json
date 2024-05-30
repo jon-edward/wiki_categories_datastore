@@ -1,1 +1,1 @@
-{"name": "불가리아의_도로", "id": 1508457, "predecessors": [{"name": "도로_시설", "id": 674315}, {"name": "기반_시설", "id": 570828}], "successors": []}
+{"name": "불가리아의_도로", "id": 1508457, "predecessors": [{"name": "교통_시설", "id": 80120}, {"name": "건축", "id": 240606}], "successors": []}

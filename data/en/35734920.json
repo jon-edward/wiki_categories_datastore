@@ -1,1 +1,1 @@
-{"name": "Watch_models", "id": 35734920, "predecessors": [{"name": "Watches", "id": 4047634}], "successors": [{"name": "Casio_watches", "id": 12525517}, {"name": "Rolex_watches", "id": 22903011}, {"name": "Omega_watches", "id": 34985007}]}
+{"name": "Watch_models", "id": 35734920, "predecessors": [{"name": "Clock_designs", "id": 45608981}, {"name": "Watches", "id": 4047634}], "successors": [{"name": "Casio_watches", "id": 12525517}, {"name": "Rolex_watches", "id": 22903011}, {"name": "Omega_watches", "id": 34985007}, {"name": "Timex_Datalink", "id": 52191340}]}

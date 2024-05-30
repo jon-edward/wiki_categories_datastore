@@ -1,1 +1,1 @@
-{"name": "Consumer_guides", "id": 1641185, "predecessors": [{"name": "Reference_works", "id": 699920}], "successors": [{"name": "Travel_guide_books", "id": 9384477}, {"name": "Restaurant_guides", "id": 12183161}, {"name": "Labels", "id": 54320014}]}
+{"name": "Consumer_guides", "id": 1641185, "predecessors": [{"name": "Reference_works", "id": 699920}, {"name": "Works_about_consumer_protection", "id": 39082672}], "successors": [{"name": "Travel_guide_books", "id": 9384477}, {"name": "Restaurant_guides", "id": 12183161}, {"name": "Labels", "id": 54320014}]}

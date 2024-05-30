@@ -1,1 +1,1 @@
-{"name": "Pennsylvanian_first_appearances", "id": 46744269, "predecessors": [{"name": "Carboniferous_first_appearances", "id": 46562891}], "successors": [{"name": "Extant_Pennsylvanian_first_appearances", "id": 48569031}]}
+{"name": "Pennsylvanian_first_appearances", "id": 46744269, "predecessors": [{"name": "Carboniferous_first_appearances", "id": 46562891}, {"name": "Carboniferous_life", "id": 3916056}], "successors": [{"name": "Extant_Pennsylvanian_first_appearances", "id": 48569031}]}

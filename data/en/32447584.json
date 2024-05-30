@@ -1,1 +1,1 @@
-{"name": "Rodent-carried_diseases", "id": 32447584, "predecessors": [{"name": "Zoonoses", "id": 2776372}], "successors": [{"name": "Plague_(disease)", "id": 36064382}, {"name": "Epidemic_typhus", "id": 43167510}, {"name": "Deaths_from_endocarditis", "id": 52315760}]}
+{"name": "Rodent-carried_diseases", "id": 32447584, "predecessors": [{"name": "Rodents", "id": 922975}], "successors": [{"name": "Plague_(disease)", "id": 36064382}, {"name": "Epidemic_typhus", "id": 43167510}, {"name": "Deaths_from_endocarditis", "id": 52315760}]}

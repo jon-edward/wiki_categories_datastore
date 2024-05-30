@@ -1,1 +1,1 @@
-{"name": "Remote_control", "id": 15998203, "predecessors": [{"name": "Assistive_technology", "id": 945499}, {"name": "Telecommunications_techniques", "id": 36423619}, {"name": "Information_technology_management", "id": 1226541}], "successors": [{"name": "Remote_weapon_stations", "id": 32088358}, {"name": "Telepresence_robots", "id": 32194932}]}
+{"name": "Remote_control", "id": 15998203, "predecessors": [{"name": "Assistive_technology", "id": 945499}], "successors": [{"name": "Remote_weapon_stations", "id": 32088358}, {"name": "Telepresence_robots", "id": 32194932}]}

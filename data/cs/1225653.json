@@ -1,1 +1,1 @@
-{"name": "Pouťové_atrakce", "id": 1225653, "predecessors": [{"name": "Stroje", "id": 6519}, {"name": "Zábavní_parky", "id": 111432}], "successors": [{"name": "Horské_dráhy", "id": 131039}, {"name": "Obří_kola", "id": 1225656}]}
+{"name": "Pouťové_atrakce", "id": 1225653, "predecessors": [{"name": "Stroje", "id": 6519}, {"name": "Dětské_hry", "id": 18005}], "successors": [{"name": "Horské_dráhy", "id": 131039}, {"name": "Obří_kola", "id": 1225656}]}

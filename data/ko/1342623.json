@@ -1,1 +1,1 @@
-{"name": "프레젠테이션_소프트웨어", "id": 1342623, "predecessors": [{"name": "사무용_소프트웨어", "id": 15129}], "successors": []}
+{"name": "프레젠테이션_소프트웨어", "id": 1342623, "predecessors": [{"name": "사무용_소프트웨어", "id": 15129}, {"name": "연설", "id": 77673}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Shoe_business", "id": 21585447, "predecessors": [{"name": "Clothing_industry", "id": 49731938}, {"name": "Shoes", "id": 2835113}], "successors": [{"name": "Shoemaking", "id": 10928540}]}
+{"name": "Shoe_business", "id": 21585447, "predecessors": [{"name": "Shoes", "id": 2835113}], "successors": [{"name": "Shoemaking", "id": 10928540}]}

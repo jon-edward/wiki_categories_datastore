@@ -1,1 +1,1 @@
-{"name": "진균성_질병", "id": 582009, "predecessors": [{"name": "균학", "id": 48499}], "successors": [{"name": "진균성_피부_질환", "id": 3222114}]}
+{"name": "진균성_질병", "id": 582009, "predecessors": [{"name": "균학", "id": 48499}, {"name": "감염병", "id": 34410}], "successors": [{"name": "진균성_피부_질환", "id": 3222114}]}

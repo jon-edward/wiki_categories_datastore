@@ -1,1 +1,1 @@
-{"name": "도핑_위반_육상_선수", "id": 901090, "predecessors": [{"name": "육상_경기", "id": 11854}, {"name": "도핑", "id": 847902}], "successors": []}
+{"name": "도핑_위반_육상_선수", "id": 901090, "predecessors": [{"name": "도핑", "id": 847902}, {"name": "스포츠_관련_직업", "id": 274212}], "successors": []}

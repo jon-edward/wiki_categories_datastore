@@ -1,1 +1,1 @@
-{"name": "Bank_buildings_in_Queensland", "id": 43518438, "predecessors": [{"name": "Commercial_buildings_in_Queensland", "id": 43517659}, {"name": "Banking_in_Australia", "id": 22763143}], "successors": [{"name": "Former_bank_buildings_in_Queensland", "id": 58959374}]}
+{"name": "Bank_buildings_in_Queensland", "id": 43518438, "predecessors": [{"name": "Bank_buildings", "id": 18892243}], "successors": [{"name": "Former_bank_buildings_in_Queensland", "id": 58959374}]}

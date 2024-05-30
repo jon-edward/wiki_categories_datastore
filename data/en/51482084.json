@@ -1,1 +1,1 @@
-{"name": "Xbox_One_software", "id": 51482084, "predecessors": [{"name": "Xbox_One", "id": 39471845}, {"name": "Operating_systems", "id": 693664}], "successors": [{"name": "Xbox_One_games", "id": 39448592}]}
+{"name": "Xbox_One_software", "id": 51482084, "predecessors": [{"name": "Xbox_One", "id": 39471845}, {"name": "Software", "id": 691633}, {"name": "Xbox", "id": 2477065}], "successors": [{"name": "Xbox_One_games", "id": 39448592}]}

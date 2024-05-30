@@ -1,1 +1,1 @@
-{"name": "Japanese_political_candidates", "id": 29450037, "predecessors": [{"name": "Elections", "id": 792537}], "successors": [{"name": "Tokyo_gubernatorial_candidates", "id": 29450075}]}
+{"name": "Japanese_political_candidates", "id": 29450037, "predecessors": [{"name": "Japanese_politicians", "id": 693116}, {"name": "Elections", "id": 792537}], "successors": [{"name": "Tokyo_gubernatorial_candidates", "id": 29450075}]}

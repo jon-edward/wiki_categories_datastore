@@ -1,1 +1,1 @@
-{"name": "Rock_à_Memphis", "id": 15590485, "predecessors": [{"name": "Rock_par_ville", "id": 725870}, {"name": "Culture_aux_États-Unis", "id": 6748938}, {"name": "Musique_américaine", "id": 243650}], "successors": [{"name": "Elvis_Presley", "id": 5222886}]}
+{"name": "Rock_à_Memphis", "id": 15590485, "predecessors": [{"name": "Rock_par_ville", "id": 725870}, {"name": "Culture_aux_États-Unis", "id": 6748938}, {"name": "Rock_par_pays", "id": 384558}], "successors": [{"name": "Elvis_Presley", "id": 5222886}]}

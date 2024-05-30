@@ -1,1 +1,1 @@
-{"name": "Brand_name_frozen_desserts", "id": 7661305, "predecessors": [{"name": "Frozen_desserts", "id": 6441285}, {"name": "Frozen_food_brands", "id": 10042612}], "successors": [{"name": "Frozen_yogurt_businesses", "id": 36801058}]}
+{"name": "Brand_name_frozen_desserts", "id": 7661305, "predecessors": [{"name": "Brand_name_confectionery", "id": 7701549}, {"name": "Brand_name_desserts", "id": 18083148}, {"name": "Frozen_desserts", "id": 6441285}, {"name": "Frozen_food_brands", "id": 10042612}], "successors": [{"name": "Frozen_yogurt_businesses", "id": 36801058}]}

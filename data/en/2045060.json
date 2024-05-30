@@ -1,1 +1,1 @@
-{"name": "OS/2_software", "id": 2045060, "predecessors": [{"name": "Microcomputer_software", "id": 1756674}, {"name": "OS/2", "id": 2774667}, {"name": "Operating_systems", "id": 693664}], "successors": [{"name": "OS/2_games", "id": 2270367}, {"name": "OS/2_web_browsers", "id": 8407359}]}
+{"name": "OS/2_software", "id": 2045060, "predecessors": [{"name": "Microcomputer_software", "id": 1756674}, {"name": "OS/2", "id": 2774667}, {"name": "Software", "id": 691633}], "successors": [{"name": "OS/2_games", "id": 2270367}, {"name": "OS/2_web_browsers", "id": 8407359}]}

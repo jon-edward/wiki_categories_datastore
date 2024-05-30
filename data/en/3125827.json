@@ -1,1 +1,1 @@
-{"name": "Epithelial_cells", "id": 3125827, "predecessors": [{"name": "Animal_cells", "id": 3108645}, {"name": "Human_cells", "id": 729309}], "successors": []}
+{"name": "Epithelial_cells", "id": 3125827, "predecessors": [{"name": "Human_cells", "id": 729309}], "successors": []}

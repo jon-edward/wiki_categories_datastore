@@ -1,1 +1,1 @@
-{"name": "Crafts_educators", "id": 18156117, "predecessors": [{"name": "Craft_occupations", "id": 43362047}, {"name": "Crafts_organizations", "id": 48776875}], "successors": []}
+{"name": "Crafts_educators", "id": 18156117, "predecessors": [{"name": "Craft_occupations", "id": 43362047}, {"name": "Crafts_organizations", "id": 48776875}, {"name": "Education_by_subject", "id": 2477717}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Initial_points", "id": 57638062, "predecessors": [{"name": "Geodetic_datums", "id": 20045523}, {"name": "Surveying", "id": 1071627}, {"name": "Geodesy", "id": 862535}], "successors": [{"name": "Kilometre-zero_markers", "id": 67285533}]}
+{"name": "Initial_points", "id": 57638062, "predecessors": [{"name": "Geodetic_datums", "id": 20045523}, {"name": "Surveying", "id": 1071627}], "successors": [{"name": "Kilometre-zero_markers", "id": 67285533}]}

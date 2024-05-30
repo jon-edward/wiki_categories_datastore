@@ -1,1 +1,1 @@
-{"name": "Apple_Watch", "id": 67333630, "predecessors": [{"name": "Smartwatches", "id": 35755882}, {"name": "ARM_architecture", "id": 3291475}], "successors": [{"name": "WatchOS_software", "id": 47757201}]}
+{"name": "Apple_Watch", "id": 67333630, "predecessors": [{"name": "Apple_Inc._hardware", "id": 9301031}, {"name": "Smartwatches", "id": 35755882}, {"name": "ARM_architecture", "id": 3291475}], "successors": [{"name": "WatchOS_software", "id": 47757201}]}

@@ -1,1 +1,1 @@
-{"name": "Compiler_optimizations", "id": 1771298, "predecessors": [{"name": "Compiler_construction", "id": 30787370}, {"name": "Program_analysis", "id": 30677141}, {"name": "Program_transformation", "id": 30677368}], "successors": []}
+{"name": "Compiler_optimizations", "id": 1771298, "predecessors": [{"name": "Program_analysis", "id": 30677141}, {"name": "Software_optimization", "id": 24280247}], "successors": []}

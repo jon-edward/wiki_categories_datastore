@@ -1,1 +1,1 @@
-{"name": "River_surfing", "id": 23735675, "predecessors": [{"name": "Rivers", "id": 695393}, {"name": "Surfing", "id": 774169}], "successors": [{"name": "Tidal_bores", "id": 23973609}]}
+{"name": "River_surfing", "id": 23735675, "predecessors": [{"name": "Rivers", "id": 695393}], "successors": [{"name": "Tidal_bores", "id": 23973609}]}

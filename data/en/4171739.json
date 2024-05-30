@@ -1,1 +1,1 @@
-{"name": "Ceremonial_weapons", "id": 4171739, "predecessors": [{"name": "Weapons", "id": 698507}, {"name": "Ceremonies", "id": 1118985}], "successors": [{"name": "Ritual_weapons", "id": 13580843}, {"name": "Ceremonial_maces", "id": 62702246}, {"name": "Wands", "id": 68958819}]}
+{"name": "Ceremonial_weapons", "id": 4171739, "predecessors": [{"name": "Formal_insignia", "id": 2333885}, {"name": "Ceremonies", "id": 1118985}], "successors": [{"name": "Ritual_weapons", "id": 13580843}, {"name": "Ceremonial_maces", "id": 62702246}, {"name": "Wands", "id": 68958819}]}

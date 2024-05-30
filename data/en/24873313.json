@@ -1,1 +1,1 @@
-{"name": "Smart_grid", "id": 24873313, "predecessors": [{"name": "Electrical_grid", "id": 25278606}, {"name": "Internet_of_things", "id": 30065517}, {"name": "Smart_devices", "id": 44219225}], "successors": []}
+{"name": "Smart_grid", "id": 24873313, "predecessors": [{"name": "Electrical_grid", "id": 25278606}, {"name": "Renewable_energy_technology", "id": 18057434}], "successors": []}

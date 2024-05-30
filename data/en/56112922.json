@@ -1,1 +1,1 @@
-{"name": "Actors_with_Down_syndrome", "id": 56112922, "predecessors": [{"name": "People_with_Down_syndrome", "id": 19188049}], "successors": []}
+{"name": "Actors_with_Down_syndrome", "id": 56112922, "predecessors": [{"name": "Actors_with_disabilities", "id": 49631170}, {"name": "People_with_Down_syndrome", "id": 19188049}], "successors": []}

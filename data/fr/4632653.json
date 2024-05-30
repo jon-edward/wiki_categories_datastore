@@ -1,1 +1,1 @@
-{"name": "Site_historique_converti_en_lieu_de_culte", "id": 4632653, "predecessors": [{"name": "Lieu_sacré", "id": 3418664}], "successors": [{"name": "Site_religieux_devenu_lieu_de_culte_d'une_autre_religion", "id": 4632646}]}
+{"name": "Site_historique_converti_en_lieu_de_culte", "id": 4632653, "predecessors": [{"name": "Édifice_religieux", "id": 106605}], "successors": [{"name": "Site_religieux_devenu_lieu_de_culte_d'une_autre_religion", "id": 4632646}]}

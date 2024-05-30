@@ -1,1 +1,1 @@
-{"name": "Structural_bioinformatics_software", "id": 61122155, "predecessors": [{"name": "Bioinformatics_software", "id": 10354259}], "successors": [{"name": "Molecular_modelling_software", "id": 10121602}]}
+{"name": "Structural_bioinformatics_software", "id": 61122155, "predecessors": [{"name": "Bioinformatics_software", "id": 10354259}, {"name": "Bioinformatics", "id": 726312}], "successors": [{"name": "Molecular_modelling_software", "id": 10121602}]}

@@ -1,1 +1,1 @@
-{"name": "Lịch_phụng_vụ", "id": 1643769, "predecessors": [{"name": "Văn_hóa_phương_Tây", "id": 27888}, {"name": "Thời_gian", "id": 8613}, {"name": "Trải_nghiệm_và_hành_vi_Kitô_giáo", "id": 11236362}], "successors": [{"name": "Lễ_Kitô_giáo", "id": 44278}, {"name": "Mùa_Chay_Kitô_giáo", "id": 1036065}]}
+{"name": "Lịch_phụng_vụ", "id": 1643769, "predecessors": [{"name": "Văn_hóa_phương_Tây", "id": 27888}, {"name": "Thời_gian", "id": 8613}, {"name": "Kitô_giáo", "id": 3478}], "successors": [{"name": "Lễ_Kitô_giáo", "id": 44278}, {"name": "Mùa_Chay_Kitô_giáo", "id": 1036065}]}

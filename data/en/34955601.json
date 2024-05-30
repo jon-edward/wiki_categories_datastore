@@ -1,1 +1,1 @@
-{"name": "Culinary_arts", "id": 34955601, "predecessors": [{"name": "Food_services_occupations", "id": 3062329}], "successors": [{"name": "Culinary_terminology", "id": 45143182}]}
+{"name": "Culinary_arts", "id": 34955601, "predecessors": [{"name": "Cooking", "id": 1003845}, {"name": "Food_services_occupations", "id": 3062329}, {"name": "Food_and_drink", "id": 694860}], "successors": [{"name": "Culinary_professional_associations", "id": 31842074}, {"name": "Culinary_terminology", "id": 45143182}]}

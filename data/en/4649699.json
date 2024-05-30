@@ -1,1 +1,1 @@
-{"name": "RC_Celta_de_Vigo_players", "id": 4649699, "predecessors": [{"name": "RC_Celta_de_Vigo", "id": 4649709}, {"name": "Team_sports", "id": 700681}], "successors": [{"name": "RC_Celta_Fortuna_players", "id": 46308141}]}
+{"name": "RC_Celta_de_Vigo_players", "id": 4649699, "predecessors": [{"name": "RC_Celta_de_Vigo", "id": 4649709}, {"name": "Sport_in_Spain", "id": 3058492}], "successors": [{"name": "RC_Celta_Fortuna_players", "id": 46308141}]}

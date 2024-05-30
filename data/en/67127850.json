@@ -1,1 +1,1 @@
-{"name": "Student_sports_governing_bodies", "id": 67127850, "predecessors": [{"name": "Governance", "id": 38301528}, {"name": "College_sports", "id": 1453059}], "successors": []}
+{"name": "Student_sports_governing_bodies", "id": 67127850, "predecessors": [{"name": "Governance", "id": 38301528}, {"name": "College_sports", "id": 1453059}], "successors": [{"name": "College_sports_governing_bodies_in_the_United_States", "id": 48006060}]}

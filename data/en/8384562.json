@@ -1,1 +1,1 @@
-{"name": "Computer_storage_technologies", "id": 8384562, "predecessors": [{"name": "Computer_data_storage", "id": 711721}], "successors": [{"name": "RAID", "id": 8687141}]}
+{"name": "Computer_storage_technologies", "id": 8384562, "predecessors": [{"name": "Computer_data_storage", "id": 711721}, {"name": "Technology_by_type", "id": 17200193}], "successors": [{"name": "RAID", "id": 8687141}]}

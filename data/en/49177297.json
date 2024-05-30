@@ -1,1 +1,1 @@
-{"name": "Deaths_by_suicide_bomber", "id": 49177297, "predecessors": [{"name": "Deaths_by_improvised_explosive_device", "id": 17009832}, {"name": "Suicide_bombing", "id": 971187}, {"name": "Terrorism_victims", "id": 2437171}], "successors": [{"name": "Suicide_bombers", "id": 10291914}]}
+{"name": "Deaths_by_suicide_bomber", "id": 49177297, "predecessors": [{"name": "Deaths_by_improvised_explosive_device", "id": 17009832}, {"name": "Suicide_bombing", "id": 971187}, {"name": "Human_behavior", "id": 2524202}], "successors": [{"name": "Suicide_bombers", "id": 10291914}]}

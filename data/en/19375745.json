@@ -1,1 +1,1 @@
-{"name": "Minnesingers", "id": 19375745, "predecessors": [{"name": "Minnesang", "id": 33364570}, {"name": "German_poets", "id": 806942}, {"name": "Medieval_performers", "id": 36798235}], "successors": []}
+{"name": "Minnesingers", "id": 19375745, "predecessors": [{"name": "German_composers", "id": 1137451}, {"name": "Minnesang", "id": 33364570}, {"name": "German_poets", "id": 806942}, {"name": "Medieval_performers", "id": 36798235}, {"name": "Medieval_singers", "id": 24397575}], "successors": [{"name": "Henry_VI,_Holy_Roman_Emperor", "id": 72427396}]}

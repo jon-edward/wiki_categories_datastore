@@ -1,1 +1,1 @@
-{"name": "컴퓨터_프로그래밍_책", "id": 3251186, "predecessors": [{"name": "컴퓨터_프로그래밍", "id": 61960}], "successors": []}
+{"name": "컴퓨터_프로그래밍_책", "id": 3251186, "predecessors": [{"name": "소프트웨어_개발", "id": 127951}, {"name": "소프트웨어_공학", "id": 22430}], "successors": []}

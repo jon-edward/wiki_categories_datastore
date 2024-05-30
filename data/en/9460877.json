@@ -1,1 +1,1 @@
-{"name": "Vending_machines", "id": 9460877, "predecessors": [{"name": "Vending", "id": 2578666}], "successors": [{"name": "Amusement_arcades", "id": 32488551}]}
+{"name": "Vending_machines", "id": 9460877, "predecessors": [{"name": "Vending", "id": 2578666}], "successors": [{"name": "Vending_machine_manufacturers", "id": 6773009}, {"name": "Amusement_arcades", "id": 32488551}]}

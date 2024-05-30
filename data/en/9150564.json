@@ -1,1 +1,1 @@
-{"name": "Adult_magazine_publishing_companies", "id": 9150564, "predecessors": [{"name": "Magazine_publishing_companies", "id": 3934972}], "successors": [{"name": "Larry_Flynt_Publications", "id": 14612106}]}
+{"name": "Adult_magazine_publishing_companies", "id": 9150564, "predecessors": [{"name": "Adult_entertainment_companies", "id": 10837350}, {"name": "Magazine_publishing_companies", "id": 3934972}], "successors": [{"name": "Larry_Flynt_Publications", "id": 14612106}]}

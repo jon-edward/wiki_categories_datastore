@@ -1,1 +1,1 @@
-{"name": "Miocene_bears", "id": 48066100, "predecessors": [{"name": "Bears", "id": 915444}], "successors": []}
+{"name": "Miocene_bears", "id": 48066100, "predecessors": [{"name": "Miocene_carnivorans", "id": 38271495}, {"name": "Bears", "id": 915444}], "successors": []}

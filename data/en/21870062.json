@@ -1,1 +1,1 @@
-{"name": "Deaths_from_anaphylaxis", "id": 21870062, "predecessors": [{"name": "Allergology", "id": 1589955}, {"name": "Respiratory_diseases", "id": 19827264}], "successors": []}
+{"name": "Deaths_from_anaphylaxis", "id": 21870062, "predecessors": [{"name": "Allergology", "id": 1589955}, {"name": "Deaths_from_autoimmune_disease", "id": 19628835}, {"name": "Respiratory_diseases", "id": 19827264}], "successors": []}

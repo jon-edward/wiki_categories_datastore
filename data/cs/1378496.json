@@ -1,1 +1,1 @@
-{"name": "Doprava_v_Hostivaři", "id": 1378496, "predecessors": [{"name": "Hostivař", "id": 148704}, {"name": "Doprava_v_Praze", "id": 124674}], "successors": []}
+{"name": "Doprava_v_Hostivaři", "id": 1378496, "predecessors": [{"name": "Katastrální_území_v_Praze", "id": 1161380}, {"name": "Doprava_v_Praze", "id": 124674}], "successors": []}

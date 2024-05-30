@@ -1,1 +1,1 @@
-{"name": "Archive_formats", "id": 737011, "predecessors": [{"name": "Computer_archives", "id": 24981816}, {"name": "Computer_file_formats", "id": 737013}, {"name": "Computer_file_systems", "id": 754856}, {"name": "Data_compression", "id": 973795}], "successors": [{"name": "Disk_images", "id": 4549466}]}
+{"name": "Archive_formats", "id": 737011, "predecessors": [{"name": "Computer_archives", "id": 24981816}, {"name": "Computer_file_formats", "id": 737013}, {"name": "Data_compression", "id": 973795}], "successors": [{"name": "Disk_images", "id": 4549466}]}

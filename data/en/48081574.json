@@ -1,1 +1,1 @@
-{"name": "Pleistocene_bears", "id": 48081574, "predecessors": [{"name": "Bears", "id": 915444}], "successors": [{"name": "Polar_bears", "id": 17179466}, {"name": "Cave_bear", "id": 73703460}]}
+{"name": "Pleistocene_bears", "id": 48081574, "predecessors": [{"name": "Pleistocene_carnivorans", "id": 38280276}, {"name": "Bears", "id": 915444}], "successors": [{"name": "Polar_bears", "id": 17179466}, {"name": "Cave_bear", "id": 73703460}]}

@@ -1,1 +1,1 @@
-{"name": "Respiratory_system_imaging", "id": 32626321, "predecessors": [{"name": "Diagnostic_pulmonology", "id": 67686510}], "successors": []}
+{"name": "Respiratory_system_imaging", "id": 32626321, "predecessors": [{"name": "Diagnostic_pulmonology", "id": 67686510}, {"name": "Diagnostic_medical_imaging", "id": 74641432}], "successors": []}

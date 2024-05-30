@@ -1,1 +1,1 @@
-{"name": "Scottish_apothecaries", "id": 44635788, "predecessors": [{"name": "Scottish_pharmacists", "id": 50756323}, {"name": "Health_care_occupations", "id": 1006080}, {"name": "British_pharmacists", "id": 24342223}], "successors": []}
+{"name": "Scottish_apothecaries", "id": 44635788, "predecessors": [{"name": "Scottish_pharmacists", "id": 50756323}, {"name": "Health", "id": 751381}, {"name": "British_pharmacists", "id": 24342223}], "successors": []}

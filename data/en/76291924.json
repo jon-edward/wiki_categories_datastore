@@ -1,1 +1,1 @@
-{"name": "Looting_in_Italy", "id": 76291924, "predecessors": [{"name": "Looting_in_Europe", "id": 66270159}, {"name": "Law_enforcement_in_Italy", "id": 1235106}], "successors": [{"name": "Sacks_of_Rome", "id": 74470587}]}
+{"name": "Looting_in_Italy", "id": 76291924, "predecessors": [{"name": "Looting_in_Europe", "id": 66270159}, {"name": "Law_enforcement_in_Italy", "id": 1235106}, {"name": "Looting", "id": 33788975}], "successors": [{"name": "Sacks_of_Rome", "id": 74470587}]}

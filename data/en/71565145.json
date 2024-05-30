@@ -1,1 +1,1 @@
-{"name": "Cooling_ponds", "id": 71565145, "predecessors": [{"name": "Cooling_technology", "id": 1150943}, {"name": "Ponds", "id": 33521030}, {"name": "Water_pollution", "id": 4565449}], "successors": []}
+{"name": "Cooling_ponds", "id": 71565145, "predecessors": [{"name": "Ponds", "id": 33521030}, {"name": "Water_pollution", "id": 4565449}], "successors": []}

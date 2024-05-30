@@ -1,1 +1,1 @@
-{"name": "Crustáceos_comestibles", "id": 10031998, "predecessors": [{"name": "Invertebrados_comestibles", "id": 54625}, {"name": "Crustacea", "id": 870000}], "successors": [{"name": "Marisco", "id": 2045033}, {"name": "Caridea", "id": 3085782}]}
+{"name": "Crustáceos_comestibles", "id": 10031998, "predecessors": [{"name": "Invertebrados_comestibles", "id": 54625}, {"name": "Animales", "id": 55378}], "successors": [{"name": "Marisco", "id": 2045033}, {"name": "Caridea", "id": 3085782}]}

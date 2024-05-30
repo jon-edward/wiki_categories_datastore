@@ -1,1 +1,1 @@
-{"name": "Fc_receptors", "id": 42205306, "predecessors": [{"name": "Immune_system", "id": 729294}], "successors": []}
+{"name": "Fc_receptors", "id": 42205306, "predecessors": [{"name": "Transmembrane_receptors", "id": 719556}, {"name": "Immune_system", "id": 729294}], "successors": []}

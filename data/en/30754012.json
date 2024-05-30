@@ -1,1 +1,1 @@
-{"name": "Ship_collisions_with_icebergs", "id": 30754012, "predecessors": [{"name": "Icebergs", "id": 1652213}], "successors": [{"name": "Ships_sunk_by_icebergs", "id": 62675443}]}
+{"name": "Ship_collisions_with_icebergs", "id": 30754012, "predecessors": [{"name": "Icebergs", "id": 1652213}, {"name": "Maritime_history", "id": 3120048}], "successors": [{"name": "Ships_sunk_by_icebergs", "id": 62675443}]}

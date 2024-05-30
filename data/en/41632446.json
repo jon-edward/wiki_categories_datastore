@@ -1,1 +1,1 @@
-{"name": "Automated_teller_machines", "id": 41632446, "predecessors": [{"name": "Dispensers", "id": 66332634}, {"name": "Payment_systems", "id": 1053701}, {"name": "Equipment", "id": 3228046}], "successors": [{"name": "Interbank_networks", "id": 2072931}]}
+{"name": "Automated_teller_machines", "id": 41632446, "predecessors": [{"name": "Payment_systems", "id": 1053701}, {"name": "Banking_technology", "id": 16809354}], "successors": [{"name": "Interbank_networks", "id": 2072931}]}

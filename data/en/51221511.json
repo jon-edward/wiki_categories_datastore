@@ -1,1 +1,1 @@
-{"name": "French_male_sprinters", "id": 51221511, "predecessors": [{"name": "Running", "id": 847059}, {"name": "Athletics_by_country", "id": 30874057}, {"name": "Men's_athletics", "id": 53241340}], "successors": [{"name": "Guadeloupean_male_sprinters", "id": 51357907}]}
+{"name": "French_male_sprinters", "id": 51221511, "predecessors": [{"name": "Athletics_in_Europe", "id": 31631161}], "successors": [{"name": "Guadeloupean_male_sprinters", "id": 51357907}]}

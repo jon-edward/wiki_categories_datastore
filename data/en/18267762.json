@@ -1,1 +1,1 @@
-{"name": "Healthcare_in_San_Francisco", "id": 18267762, "predecessors": [{"name": "Healthcare_in_the_United_States", "id": 37436126}], "successors": []}
+{"name": "Healthcare_in_San_Francisco", "id": 18267762, "predecessors": [{"name": "San_Francisco", "id": 1732002}, {"name": "Healthcare_in_the_United_States", "id": 37436126}], "successors": [{"name": "Hospitals_in_San_Francisco", "id": 40050106}]}

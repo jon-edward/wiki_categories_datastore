@@ -1,1 +1,1 @@
-{"name": "폭약", "id": 112030, "predecessors": [{"name": "폭발물", "id": 112031}, {"name": "화학_물질", "id": 31628}], "successors": []}
+{"name": "폭약", "id": 112030, "predecessors": [{"name": "화학_물질", "id": 31628}], "successors": []}

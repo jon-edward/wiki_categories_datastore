@@ -1,1 +1,1 @@
-{"name": "Fibre_Channel", "id": 3508980, "predecessors": [{"name": "Computer_buses", "id": 1124098}, {"name": "Computer_hardware_standards", "id": 30857280}, {"name": "Computer_storage_buses", "id": 28169972}, {"name": "Serial_buses", "id": 3284587}], "successors": []}
+{"name": "Fibre_Channel", "id": 3508980, "predecessors": [{"name": "Computer_storage_buses", "id": 28169972}, {"name": "Serial_buses", "id": 3284587}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Geoparques", "id": 6462904, "predecessors": [{"name": "Geología", "id": 50639}, {"name": "Unesco", "id": 3023495}, {"name": "Conservacionismo", "id": 1128689}, {"name": "Parques", "id": 374993}], "successors": [{"name": "Geoparque_Comarca_Minera", "id": 9265062}]}
+{"name": "Geoparques", "id": 6462904, "predecessors": [{"name": "Geología", "id": 50639}, {"name": "Unesco", "id": 3023495}, {"name": "Áreas_protegidas", "id": 2957517}, {"name": "Parques", "id": 374993}], "successors": [{"name": "Geoparque_Comarca_Minera", "id": 9265062}]}

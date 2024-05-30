@@ -1,1 +1,1 @@
-{"name": "무기_용매", "id": 933445, "predecessors": [{"name": "무기_화합물", "id": 40382}], "successors": []}
+{"name": "무기_용매", "id": 933445, "predecessors": [{"name": "무기_화합물", "id": 40382}, {"name": "용매", "id": 57221}], "successors": []}

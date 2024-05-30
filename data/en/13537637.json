@@ -1,0 +1,1 @@
+{"name": "Windows_NT_architecture", "id": 13537637, "predecessors": [{"name": "Windows_NT", "id": 1505407}, {"name": "Windows_architecture", "id": 43128218}], "successors": [{"name": "Windows_NT_kernel", "id": 12320810}]}

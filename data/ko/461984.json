@@ -1,1 +1,1 @@
-{"name": "적외선_영상", "id": 461984, "predecessors": [{"name": "군용_전자장비", "id": 43618}, {"name": "영상", "id": 500973}, {"name": "적외선", "id": 984845}], "successors": []}
+{"name": "적외선_영상", "id": 461984, "predecessors": [{"name": "영상", "id": 500973}, {"name": "적외선", "id": 984845}], "successors": []}

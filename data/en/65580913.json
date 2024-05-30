@@ -1,1 +1,1 @@
-{"name": "Pakistani_military_attachés", "id": 65580913, "predecessors": [{"name": "Military_attachés", "id": 51086509}, {"name": "Pakistani_diplomats", "id": 2039807}, {"name": "Pakistani_diaspora", "id": 16030339}], "successors": [{"name": "Pakistani_naval_attachés", "id": 65581683}]}
+{"name": "Pakistani_military_attachés", "id": 65580913, "predecessors": [{"name": "Military_attachés", "id": 51086509}, {"name": "Pakistani_diaspora", "id": 16030339}, {"name": "Asia", "id": 697006}], "successors": [{"name": "Pakistani_naval_attachés", "id": 65581683}]}

@@ -1,1 +1,1 @@
-{"name": "Laxatives", "id": 1458302, "predecessors": [{"name": "Constipation", "id": 54525756}, {"name": "Drugs_acting_on_the_gastrointestinal_system_and_metabolism", "id": 22260378}], "successors": []}
+{"name": "Laxatives", "id": 1458302, "predecessors": [{"name": "Drugs_acting_on_the_gastrointestinal_system_and_metabolism", "id": 22260378}, {"name": "Defecation", "id": 55720380}], "successors": []}

@@ -1,0 +1,1 @@
+{"name": "IBM_hardware", "id": 802852, "predecessors": [{"name": "IBM", "id": 768637}], "successors": [{"name": "IBM_unit_record_equipment", "id": 16147250}, {"name": "IBM_computer_hardware", "id": 60039423}, {"name": "IBM_keypunches", "id": 16146503}]}

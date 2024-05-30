@@ -1,1 +1,1 @@
-{"name": "Jove_Books_books", "id": 70833050, "predecessors": [{"name": "Penguin_Books_books", "id": 30861543}], "successors": [{"name": "Pyramid_Books_books", "id": 70833134}]}
+{"name": "Jove_Books_books", "id": 70833050, "predecessors": [{"name": "Harcourt_(publisher)_books", "id": 40618618}, {"name": "Penguin_Books_books", "id": 30861543}, {"name": "American_books", "id": 7961959}], "successors": [{"name": "Pyramid_Books_books", "id": 70833134}]}

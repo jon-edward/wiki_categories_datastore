@@ -1,1 +1,1 @@
-{"name": "Statistical_data_types", "id": 17193061, "predecessors": [{"name": "Data_types", "id": 2148233}], "successors": [{"name": "Categorical_data", "id": 17179027}, {"name": "Spatial_analysis", "id": 17228412}, {"name": "Statistical_classification", "id": 17306305}, {"name": "Extreme_value_data", "id": 17402463}, {"name": "Statistical_outliers", "id": 24960643}, {"name": "Rankings", "id": 42760129}]}
+{"name": "Statistical_data_types", "id": 17193061, "predecessors": [{"name": "Data_types", "id": 2148233}], "successors": []}

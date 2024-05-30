@@ -1,1 +1,1 @@
-{"name": "Public_transport_fare_collection", "id": 15709311, "predecessors": [{"name": "Passenger_rail_transport", "id": 5356605}, {"name": "Public_transport", "id": 700497}], "successors": [{"name": "Fare_collection_systems", "id": 2315292}]}
+{"name": "Public_transport_fare_collection", "id": 15709311, "predecessors": [{"name": "Passenger_rail_transport", "id": 5356605}], "successors": [{"name": "Fare_collection_systems", "id": 2315292}]}

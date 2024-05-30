@@ -1,1 +1,1 @@
-{"name": "KTM_ETS_railway_stations", "id": 22649393, "predecessors": [{"name": "Transport_in_Malaysia", "id": 4733828}, {"name": "Keretapi_Tanah_Melayu", "id": 11583065}], "successors": []}
+{"name": "KTM_ETS_railway_stations", "id": 22649393, "predecessors": [{"name": "Keretapi_Tanah_Melayu", "id": 11583065}, {"name": "Rail_transport_in_Asia", "id": 10303473}], "successors": []}

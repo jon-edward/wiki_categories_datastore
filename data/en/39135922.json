@@ -1,1 +1,0 @@
-{"name": "Adrenal_gland", "id": 39135922, "predecessors": [{"name": "Abdomen", "id": 1703539}, {"name": "Endocrine_system", "id": 692422}, {"name": "Glands", "id": 2487650}], "successors": [{"name": "Adrenal_gland_disorders", "id": 27122488}, {"name": "Glucocorticoids", "id": 720313}, {"name": "Mineralocorticoids", "id": 720315}]}

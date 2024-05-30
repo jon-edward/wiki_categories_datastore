@@ -1,1 +1,1 @@
-{"name": "IBM_minicomputers", "id": 18065831, "predecessors": [{"name": "Minicomputers", "id": 802819}], "successors": []}
+{"name": "IBM_minicomputers", "id": 18065831, "predecessors": [{"name": "IBM_computers", "id": 18066006}], "successors": [{"name": "AS/400", "id": 1305061}]}

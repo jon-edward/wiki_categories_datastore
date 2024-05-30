@@ -1,1 +1,1 @@
-{"name": "Bleeding", "id": 47067939, "predecessors": [{"name": "Blood", "id": 968308}, {"name": "Medical_emergencies", "id": 741752}], "successors": [{"name": "Antihemorrhagics", "id": 17799603}, {"name": "Deaths_from_bleeding", "id": 19629296}]}
+{"name": "Bleeding", "id": 47067939, "predecessors": [{"name": "Medical_emergencies", "id": 741752}], "successors": [{"name": "Antihemorrhagics", "id": 17799603}, {"name": "Deaths_from_bleeding", "id": 19629296}]}

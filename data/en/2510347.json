@@ -1,1 +1,1 @@
-{"name": "Google_employees", "id": 2510347, "predecessors": [{"name": "Google_people", "id": 36291708}, {"name": "Employment", "id": 1798901}], "successors": [{"name": "Google_Fellows", "id": 65075626}]}
+{"name": "Google_employees", "id": 2510347, "predecessors": [{"name": "Google_people", "id": 36291708}, {"name": "Alphabet_Inc._people", "id": 47578198}, {"name": "Employment", "id": 1798901}], "successors": [{"name": "Google_Fellows", "id": 65075626}]}

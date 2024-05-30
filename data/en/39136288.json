@@ -1,1 +1,1 @@
-{"name": "Maxillary_nerve", "id": 39136288, "predecessors": [{"name": "Face", "id": 36077287}], "successors": []}
+{"name": "Maxillary_nerve", "id": 39136288, "predecessors": [{"name": "Trigeminal_nerve", "id": 39136228}, {"name": "Face", "id": 36077287}], "successors": []}

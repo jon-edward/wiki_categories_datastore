@@ -1,1 +1,1 @@
-{"name": "Writers_from_Dallas", "id": 45641780, "predecessors": [{"name": "People_from_Dallas", "id": 16727442}], "successors": [{"name": "Journalists_from_Dallas", "id": 64379376}]}
+{"name": "Writers_from_Dallas", "id": 45641780, "predecessors": [{"name": "Writers_from_Texas", "id": 21338717}, {"name": "People_from_Dallas", "id": 16727442}], "successors": [{"name": "Journalists_from_Dallas", "id": 64379376}]}

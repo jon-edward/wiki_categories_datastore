@@ -1,1 +1,1 @@
-{"name": "벨리댄서", "id": 2843099, "predecessors": [{"name": "무용가", "id": 43254}], "successors": []}
+{"name": "벨리댄서", "id": 2843099, "predecessors": [{"name": "무용가", "id": 43254}, {"name": "벨리댄스", "id": 2843100}], "successors": []}

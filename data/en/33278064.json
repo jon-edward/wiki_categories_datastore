@@ -1,1 +1,1 @@
-{"name": "Modern_history_timelines", "id": 33278064, "predecessors": [{"name": "Historical_timelines", "id": 27839296}], "successors": [{"name": "Contemporary_history_timelines", "id": 40973262}, {"name": "Spaceflight_timelines", "id": 41793537}]}
+{"name": "Modern_history_timelines", "id": 33278064, "predecessors": [{"name": "Historical_timelines", "id": 27839296}, {"name": "Modern_history", "id": 4412714}], "successors": [{"name": "Contemporary_history_timelines", "id": 40973262}, {"name": "Spaceflight_timelines", "id": 41793537}]}

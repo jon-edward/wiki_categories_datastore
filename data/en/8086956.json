@@ -1,1 +1,1 @@
-{"name": "Christian_television_networks", "id": 8086956, "predecessors": [{"name": "Christian_television", "id": 7433268}, {"name": "Mass_media", "id": 696790}], "successors": [{"name": "Catholic_television_networks", "id": 35765693}, {"name": "Evangelical_television_networks", "id": 52014841}]}
+{"name": "Christian_television_networks", "id": 8086956, "predecessors": [{"name": "Christian_television", "id": 7433268}], "successors": [{"name": "Catholic_television_networks", "id": 35765693}, {"name": "Evangelical_television_networks", "id": 52014841}]}

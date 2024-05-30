@@ -1,1 +1,1 @@
-{"name": "Male_beauty", "id": 53989826, "predecessors": [{"name": "Beauty", "id": 10318286}, {"name": "Body_image_in_popular_culture", "id": 36658114}], "successors": [{"name": "Male_beauty_pageants", "id": 5941834}, {"name": "Beard", "id": 62044945}, {"name": "Moustache", "id": 62045008}]}
+{"name": "Male_beauty", "id": 53989826, "predecessors": [{"name": "Body_image_in_popular_culture", "id": 36658114}, {"name": "Masculinity", "id": 37679984}, {"name": "Men", "id": 1585667}], "successors": [{"name": "Beard", "id": 62044945}, {"name": "Moustache", "id": 62045008}]}

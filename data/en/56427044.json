@@ -1,1 +1,1 @@
-{"name": "Pecan", "id": 56427044, "predecessors": [{"name": "Edible_nuts_and_seeds", "id": 6769223}], "successors": [{"name": "Pecan_dishes", "id": 75643735}, {"name": "Pecan_tree_diseases", "id": 75645725}]}
+{"name": "Pecan", "id": 56427044, "predecessors": [{"name": "Edible_nuts_and_seeds", "id": 6769223}], "successors": [{"name": "Pecan_tree_diseases", "id": 75645725}]}

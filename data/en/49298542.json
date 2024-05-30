@@ -1,1 +1,1 @@
-{"name": "BPER_Banca", "id": 49298542, "predecessors": [{"name": "Former_cooperative_banks_of_Italy", "id": 50187742}, {"name": "Companies_based_in_the_Province_of_Modena", "id": 54317970}], "successors": []}
+{"name": "BPER_Banca", "id": 49298542, "predecessors": [{"name": "Banks_of_Italy", "id": 2304593}, {"name": "Former_cooperative_banks_of_Italy", "id": 50187742}, {"name": "Companies_based_in_the_Province_of_Modena", "id": 54317970}], "successors": []}

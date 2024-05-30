@@ -1,1 +1,1 @@
-{"name": "ThinkPad", "id": 63956985, "predecessors": [{"name": "Consumer_electronics_brands", "id": 5294617}], "successors": []}
+{"name": "ThinkPad", "id": 63956985, "predecessors": [{"name": "Consumer_electronics_brands", "id": 5294617}, {"name": "Laptops", "id": 705508}], "successors": []}

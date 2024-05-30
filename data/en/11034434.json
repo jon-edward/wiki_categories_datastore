@@ -1,1 +1,1 @@
-{"name": "Energy_sources", "id": 11034434, "predecessors": [{"name": "Energy", "id": 865456}, {"name": "Natural_resources", "id": 1103405}], "successors": [{"name": "Solar_energy", "id": 6021846}, {"name": "Water_power", "id": 28318994}]}
+{"name": "Energy_sources", "id": 11034434, "predecessors": [{"name": "Energy", "id": 865456}], "successors": [{"name": "Fossil_fuels", "id": 1103439}, {"name": "Solar_energy", "id": 6021846}, {"name": "Wind_power", "id": 7689273}, {"name": "Water_power", "id": 28318994}]}

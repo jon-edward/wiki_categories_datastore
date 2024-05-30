@@ -1,1 +1,1 @@
-{"name": "식용_증점제", "id": 2052517, "predecessors": [{"name": "식자재", "id": 695629}, {"name": "부형제", "id": 528867}], "successors": []}
+{"name": "식용_증점제", "id": 2052517, "predecessors": [{"name": "식자재", "id": 695629}, {"name": "식품_첨가물", "id": 40398}, {"name": "부형제", "id": 528867}], "successors": [{"name": "녹말", "id": 465987}]}

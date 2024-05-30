@@ -1,0 +1,1 @@
+{"name": "Animal_trainers", "id": 13948060, "predecessors": [{"name": "Animal_training", "id": 10097726}], "successors": [{"name": "Horse_trainers", "id": 1210878}, {"name": "Dog_trainers", "id": 11606621}, {"name": "Elephant_trainers", "id": 53088344}, {"name": "Lion_tamers", "id": 63916100}]}

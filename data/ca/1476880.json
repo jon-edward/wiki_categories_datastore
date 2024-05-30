@@ -1,1 +1,1 @@
-{"name": "Grups_de_sants", "id": 1476880, "predecessors": [{"name": "Grups_de_religiosos", "id": 1669249}, {"name": "Principal", "id": 13225}], "successors": [{"name": "Duos_de_sants", "id": 1636220}, {"name": "Grups_de_sants_màrtirs", "id": 1669250}]}
+{"name": "Grups_de_sants", "id": 1476880, "predecessors": [{"name": "Grups_de_religiosos", "id": 1669249}, {"name": "Biografies", "id": 16117}], "successors": [{"name": "Duos_de_sants", "id": 1636220}, {"name": "Grups_de_sants_màrtirs", "id": 1669250}]}

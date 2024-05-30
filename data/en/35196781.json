@@ -1,1 +1,1 @@
-{"name": "Natural_gums", "id": 35196781, "predecessors": [{"name": "Organic_polymers", "id": 987522}, {"name": "Resins", "id": 2942241}], "successors": [{"name": "Myrrh", "id": 72262195}]}
+{"name": "Natural_gums", "id": 35196781, "predecessors": [{"name": "Resins", "id": 2942241}], "successors": [{"name": "Myrrh", "id": 72262195}]}

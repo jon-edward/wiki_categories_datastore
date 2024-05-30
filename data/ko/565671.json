@@ -1,1 +1,1 @@
-{"name": "중국의_왕자", "id": 565671, "predecessors": [{"name": "귀족_작위", "id": 229489}], "successors": [{"name": "중국의_황자", "id": 1457562}]}
+{"name": "중국의_왕자", "id": 565671, "predecessors": [{"name": "귀족_작위", "id": 229489}, {"name": "귀족", "id": 98747}], "successors": [{"name": "중국의_황자", "id": 1457562}]}

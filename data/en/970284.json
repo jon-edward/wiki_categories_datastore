@@ -1,1 +1,1 @@
-{"name": "Dog_shows_and_showing", "id": 970284, "predecessors": [{"name": "Animal_shows", "id": 48893269}, {"name": "Competitions", "id": 737119}], "successors": [{"name": "Individual_dogs", "id": 31823444}]}
+{"name": "Dog_shows_and_showing", "id": 970284, "predecessors": [{"name": "Competitions", "id": 737119}, {"name": "Dogs_in_human_culture", "id": 61729597}], "successors": [{"name": "Individual_dogs", "id": 31823444}]}

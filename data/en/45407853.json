@@ -1,1 +1,1 @@
-{"name": "Maritime_vessels_related_to_spaceflight", "id": 45407853, "predecessors": [{"name": "Ships", "id": 711332}, {"name": "Equipment", "id": 3228046}], "successors": [{"name": "Space_capsule_recovery_ships", "id": 62148030}]}
+{"name": "Maritime_vessels_related_to_spaceflight", "id": 45407853, "predecessors": [{"name": "Ships", "id": 711332}, {"name": "Spaceflight", "id": 1040006}], "successors": [{"name": "Space_capsule_recovery_ships", "id": 62148030}]}

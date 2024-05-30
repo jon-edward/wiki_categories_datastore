@@ -1,1 +1,1 @@
-{"name": "Hachiman_shrines", "id": 61419894, "predecessors": [{"name": "Hachiman_faith", "id": 61419601}], "successors": [{"name": "Shrines_dedicated_to_empress_Jingū", "id": 73700893}]}
+{"name": "Hachiman_shrines", "id": 61419894, "predecessors": [{"name": "Hachiman_faith", "id": 61419601}, {"name": "Shinto_shrines", "id": 1503654}], "successors": [{"name": "Shrines_dedicated_to_empress_Jingū", "id": 73700893}]}

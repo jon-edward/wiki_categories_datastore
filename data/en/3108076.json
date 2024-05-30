@@ -1,1 +1,1 @@
-{"name": "Sulfuryl_compounds", "id": 3108076, "predecessors": [{"name": "Functional_groups", "id": 724516}], "successors": [{"name": "Sulfamates", "id": 31953148}, {"name": "Sulfamides", "id": 54466987}, {"name": "Triflates", "id": 19476515}]}
+{"name": "Sulfuryl_compounds", "id": 3108076, "predecessors": [{"name": "Oxygen_compounds", "id": 1692041}], "successors": [{"name": "Sulfates", "id": 698800}, {"name": "Sulfamates", "id": 31953148}, {"name": "Sulfamides", "id": 54466987}, {"name": "Triflates", "id": 19476515}]}

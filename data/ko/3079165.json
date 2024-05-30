@@ -1,1 +1,1 @@
-{"name": "상무_야구단_시즌", "id": 3079165, "predecessors": [{"name": "경기도의_스포츠", "id": 104438}, {"name": "스포츠", "id": 8865}], "successors": []}
+{"name": "상무_야구단_시즌", "id": 3079165, "predecessors": [{"name": "경기도의_스포츠", "id": 104438}, {"name": "야구_대회", "id": 111712}], "successors": []}

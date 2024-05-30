@@ -1,1 +1,1 @@
-{"name": "IBM_unit_record_equipment", "id": 16147250, "predecessors": [{"name": "Data_processing", "id": 39764244}], "successors": [{"name": "IBM_keypunches", "id": 16146503}, {"name": "Punched_card", "id": 30823961}]}
+{"name": "IBM_unit_record_equipment", "id": 16147250, "predecessors": [{"name": "IBM_hardware", "id": 802852}, {"name": "Data_processing", "id": 39764244}], "successors": [{"name": "IBM_keypunches", "id": 16146503}, {"name": "Punched_card", "id": 30823961}]}

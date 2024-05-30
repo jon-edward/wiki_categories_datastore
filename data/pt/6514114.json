@@ -1,1 +1,1 @@
-{"name": "Estações_servidas_pela_ferrovia_de_alta_velocidade_de_Taiwan", "id": 6514114, "predecessors": [{"name": "Economia_de_Taiwan", "id": 486952}, {"name": "Infraestrutura", "id": 2658298}], "successors": []}
+{"name": "Estações_servidas_pela_ferrovia_de_alta_velocidade_de_Taiwan", "id": 6514114, "predecessors": [{"name": "Estações_ferroviárias", "id": 111438}, {"name": "Economia_de_Taiwan", "id": 486952}], "successors": []}

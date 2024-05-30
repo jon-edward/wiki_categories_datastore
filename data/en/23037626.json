@@ -1,1 +1,1 @@
-{"name": "Life_insurance", "id": 23037626, "predecessors": [{"name": "Personal_finance", "id": 1655037}], "successors": [{"name": "Life_insurance_companies", "id": 23038235}, {"name": "Life_insurance_companies_of_India", "id": 30267784}]}
+{"name": "Life_insurance", "id": 23037626, "predecessors": [{"name": "Personal_finance", "id": 1655037}, {"name": "Types_of_insurance", "id": 8163702}], "successors": [{"name": "Life_insurance_companies", "id": 23038235}]}

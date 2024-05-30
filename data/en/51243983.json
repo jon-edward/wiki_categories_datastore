@@ -1,1 +1,1 @@
-{"name": "Modesty", "id": 51243983, "predecessors": [{"name": "Clothing", "id": 737090}, {"name": "Sexual_ethics", "id": 51244017}], "successors": [{"name": "Veils", "id": 751134}, {"name": "Modesty_in_Islam", "id": 51244080}]}
+{"name": "Modesty", "id": 51243983, "predecessors": [{"name": "Clothing", "id": 737090}, {"name": "Sexual_ethics", "id": 51244017}, {"name": "Tradition", "id": 31859274}, {"name": "Applied_ethics", "id": 6284547}], "successors": [{"name": "Veils", "id": 751134}]}

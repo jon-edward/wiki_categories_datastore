@@ -1,1 +1,1 @@
-{"name": "煙草控制", "id": 1141002, "predecessors": [{"name": "吸烟", "id": 1415890}, {"name": "预防", "id": 1716012}], "successors": [{"name": "禁煙", "id": 4967457}]}
+{"name": "煙草控制", "id": 1141002, "predecessors": [{"name": "吸烟", "id": 1415890}, {"name": "煙草", "id": 1825373}, {"name": "预防", "id": 1716012}], "successors": [{"name": "禁煙", "id": 4967457}]}

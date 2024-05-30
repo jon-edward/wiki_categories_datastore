@@ -1,1 +1,1 @@
-{"name": "과학_판타지_영화", "id": 783760, "predecessors": [{"name": "판타지_장르", "id": 782780}, {"name": "영화", "id": 11875}], "successors": []}
+{"name": "과학_판타지_영화", "id": 783760, "predecessors": [{"name": "과학_판타지", "id": 782770}, {"name": "판타지_영화", "id": 133084}, {"name": "SF_영화", "id": 54519}], "successors": []}

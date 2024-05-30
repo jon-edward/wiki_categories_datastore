@@ -1,1 +1,1 @@
-{"name": "South_Volcanic_Zone", "id": 20151038, "predecessors": [{"name": "Andean_Volcanic_Belt", "id": 49922836}, {"name": "Volcanism_of_Chile", "id": 24421178}, {"name": "Volcanoes_of_Argentina", "id": 989500}], "successors": []}
+{"name": "South_Volcanic_Zone", "id": 20151038, "predecessors": [{"name": "Andean_Volcanic_Belt", "id": 49922836}, {"name": "Volcanic_arcs", "id": 10627560}, {"name": "Volcanism_of_Chile", "id": 24421178}, {"name": "Volcanoes_of_Argentina", "id": 989500}, {"name": "Subduction", "id": 51310167}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "지피식물", "id": 1670150, "predecessors": [{"name": "식물생태학", "id": 1670149}, {"name": "원예_식물", "id": 607934}], "successors": []}
+{"name": "지피식물", "id": 1670150, "predecessors": [{"name": "원예_식물", "id": 607934}, {"name": "식물학", "id": 12237}], "successors": []}

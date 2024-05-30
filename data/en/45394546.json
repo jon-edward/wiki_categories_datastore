@@ -1,1 +1,1 @@
-{"name": "Transport_in_Ulm", "id": 45394546, "predecessors": [{"name": "Ulm", "id": 11186099}], "successors": []}
+{"name": "Transport_in_Ulm", "id": 45394546, "predecessors": [{"name": "Transport_in_Baden-Württemberg", "id": 6112821}, {"name": "Ulm", "id": 11186099}, {"name": "Economy_of_Germany", "id": 1304219}], "successors": []}

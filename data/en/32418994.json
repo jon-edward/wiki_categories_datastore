@@ -1,1 +1,1 @@
-{"name": "Colleges_affiliated_to_Bangalore_University", "id": 32418994, "predecessors": [{"name": "Universities_in_Bangalore", "id": 53508487}], "successors": [{"name": "University_Visvesvaraya_College_of_Engineering_alumni", "id": 57522967}]}
+{"name": "Colleges_affiliated_to_Bangalore_University", "id": 32418994, "predecessors": [{"name": "Universities_in_Bangalore", "id": 53508487}, {"name": "Colleges_in_India", "id": 45555996}], "successors": [{"name": "University_Visvesvaraya_College_of_Engineering_alumni", "id": 57522967}]}

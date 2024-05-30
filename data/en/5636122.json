@@ -1,1 +1,1 @@
-{"name": "Offshore_law_firms", "id": 5636122, "predecessors": [{"name": "Offshore_finance", "id": 5100781}], "successors": [{"name": "Offshore_magic_circle", "id": 28764153}]}
+{"name": "Offshore_law_firms", "id": 5636122, "predecessors": [{"name": "Law_firms", "id": 752245}, {"name": "Offshore_finance", "id": 5100781}], "successors": []}

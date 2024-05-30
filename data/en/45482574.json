@@ -1,1 +1,1 @@
-{"name": "Theology_books", "id": 45482574, "predecessors": [{"name": "Religious_philosophical_literature", "id": 38597233}], "successors": [{"name": "Christian_theology_books", "id": 22335127}, {"name": "Islamic_theology_books", "id": 45482571}]}
+{"name": "Theology_books", "id": 45482574, "predecessors": [{"name": "Religious_philosophical_literature", "id": 38597233}, {"name": "Religious_studies", "id": 3144983}], "successors": [{"name": "Christian_theology_books", "id": 22335127}, {"name": "Islamic_theology_books", "id": 45482571}]}

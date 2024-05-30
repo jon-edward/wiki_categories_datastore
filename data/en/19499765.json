@@ -1,1 +1,1 @@
-{"name": "ISSF_World_Cup", "id": 19499765, "predecessors": [{"name": "ISSF_shooting_competitions", "id": 2864326}, {"name": "World_cups", "id": 55528374}], "successors": []}
+{"name": "ISSF_World_Cup", "id": 19499765, "predecessors": [{"name": "World_cups", "id": 55528374}], "successors": []}

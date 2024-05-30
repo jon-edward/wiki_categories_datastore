@@ -1,1 +1,1 @@
-{"name": "러시아의_온천_마을", "id": 3202948, "predecessors": [{"name": "관광", "id": 55754}, {"name": "유럽", "id": 11878}], "successors": []}
+{"name": "러시아의_온천_마을", "id": 3202948, "predecessors": [{"name": "온천_마을", "id": 3201237}, {"name": "관광", "id": 55754}, {"name": "러시아의_지형", "id": 533685}], "successors": []}

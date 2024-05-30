@@ -1,1 +1,1 @@
-{"name": "Petri_nets", "id": 16396096, "predecessors": [{"name": "Concurrency_(computer_science)", "id": 35016674}, {"name": "Diagrams", "id": 3319970}, {"name": "Formal_specification_languages", "id": 8232469}, {"name": "Models_of_computation", "id": 31036668}], "successors": []}
+{"name": "Petri_nets", "id": 16396096, "predecessors": [{"name": "Diagrams", "id": 3319970}, {"name": "Formal_specification_languages", "id": 8232469}, {"name": "Modeling_languages", "id": 58648871}, {"name": "Models_of_computation", "id": 31036668}], "successors": []}

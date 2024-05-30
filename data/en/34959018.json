@@ -1,1 +1,0 @@
-{"name": "File_Transfer_Protocol", "id": 34959018, "predecessors": [{"name": "File_transfer_protocols", "id": 1680190}, {"name": "Network_file_transfer_protocols", "id": 7117903}], "successors": [{"name": "FTP_clients", "id": 1379526}, {"name": "FTP_server_software", "id": 1628327}, {"name": "Managed_file_transfer", "id": 32453784}]}

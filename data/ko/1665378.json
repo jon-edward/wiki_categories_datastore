@@ -1,1 +1,1 @@
-{"name": "GTK", "id": 1665378, "predecessors": [{"name": "API", "id": 74093}, {"name": "C_라이브러리", "id": 651389}, {"name": "그놈", "id": 29535}, {"name": "위젯_툴킷", "id": 77079}, {"name": "자유_라이브러리", "id": 2525566}], "successors": []}
+{"name": "GTK", "id": 1665378, "predecessors": [{"name": "C_라이브러리", "id": 651389}, {"name": "그놈", "id": 29535}], "successors": [{"name": "GTK를_사용하는_소프트웨어", "id": 3133412}]}

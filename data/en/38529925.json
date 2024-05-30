@@ -1,1 +1,1 @@
-{"name": "Spanish_medical_researchers", "id": 38529925, "predecessors": [{"name": "Health_care_by_country", "id": 50769391}], "successors": [{"name": "Spanish_neuroscientists", "id": 38507367}]}
+{"name": "Spanish_medical_researchers", "id": 38529925, "predecessors": [{"name": "Spanish_biologists", "id": 3332785}, {"name": "Health_care_by_country", "id": 50769391}], "successors": [{"name": "Spanish_neuroscientists", "id": 38507367}]}

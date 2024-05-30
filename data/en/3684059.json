@@ -1,1 +1,0 @@
-{"name": "Boilers", "id": 3684059, "predecessors": [{"name": "Liquid_containers", "id": 38522306}, {"name": "Plumbing", "id": 765224}, {"name": "Pressure_vessels", "id": 3872805}], "successors": [{"name": "Boilers_(cookware)", "id": 23168119}, {"name": "Boilermakers", "id": 27478554}]}

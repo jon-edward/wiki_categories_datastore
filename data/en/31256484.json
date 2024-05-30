@@ -1,1 +1,1 @@
-{"name": "Exchange_algorithms", "id": 31256484, "predecessors": [{"name": "Combinatorial_optimization", "id": 3867956}, {"name": "Matroid_theory", "id": 2485940}], "successors": []}
+{"name": "Exchange_algorithms", "id": 31256484, "predecessors": [{"name": "Combinatorial_algorithms", "id": 2634128}, {"name": "Combinatorial_optimization", "id": 3867956}, {"name": "Matroid_theory", "id": 2485940}, {"name": "Optimization_algorithms_and_methods", "id": 34044100}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "PRODUCE_101_참가자", "id": 1419501, "predecessors": [{"name": "PRODUCE_101", "id": 1449052}, {"name": "대회", "id": 116658}], "successors": [{"name": "PRODUCE_48_참가자", "id": 1963924}, {"name": "PRODUCE_X_101_참가자", "id": 2491415}]}
+{"name": "PRODUCE_101_참가자", "id": 1419501, "predecessors": [{"name": "PRODUCE_101", "id": 1449052}, {"name": "음악_경연회", "id": 431798}], "successors": [{"name": "PRODUCE_48_참가자", "id": 1963924}, {"name": "PRODUCE_X_101_참가자", "id": 2491415}]}

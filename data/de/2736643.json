@@ -1,1 +1,1 @@
-{"name": "Sprachsoftware", "id": 2736643, "predecessors": [{"name": "Sprach-Interaktion", "id": 804187}, {"name": "Anwendungssoftware", "id": 5234444}], "successors": []}
+{"name": "Sprachsoftware", "id": 2736643, "predecessors": [{"name": "Kommunikationssoftware", "id": 5634615}, {"name": "Sprach-Interaktion", "id": 804187}], "successors": []}

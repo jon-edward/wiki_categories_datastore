@@ -1,1 +1,1 @@
-{"name": "Fast_food_advertising_characters", "id": 4553939, "predecessors": [{"name": "Food_advertising_characters", "id": 4554479}], "successors": []}
+{"name": "Fast_food_advertising_characters", "id": 4553939, "predecessors": [{"name": "Fast_food", "id": 730141}, {"name": "Food_advertising_characters", "id": 4554479}], "successors": []}

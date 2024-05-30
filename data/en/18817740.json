@@ -1,1 +1,1 @@
-{"name": "Toronto_Raptors_draft_picks", "id": 18817740, "predecessors": [{"name": "Toronto_Raptors", "id": 3225329}, {"name": "Competitions", "id": 737119}], "successors": [{"name": "Toronto_Raptors_expansion_draft_picks", "id": 18899317}]}
+{"name": "Toronto_Raptors_draft_picks", "id": 18817740, "predecessors": [{"name": "Toronto_Raptors", "id": 3225329}, {"name": "NBA_draft", "id": 44015774}], "successors": [{"name": "Toronto_Raptors_expansion_draft_picks", "id": 18899317}]}

@@ -1,1 +1,1 @@
-{"name": "Photometry", "id": 3135540, "predecessors": [{"name": "Lighting", "id": 927824}], "successors": [{"name": "Color_space", "id": 916744}, {"name": "Color", "id": 979606}]}
+{"name": "Photometry", "id": 3135540, "predecessors": [{"name": "Lighting", "id": 927824}, {"name": "Psychophysics", "id": 16888641}], "successors": [{"name": "Units_of_luminous_intensity", "id": 753477}, {"name": "Color_space", "id": 916744}, {"name": "Color", "id": 979606}, {"name": "Units_of_luminance", "id": 6438258}]}

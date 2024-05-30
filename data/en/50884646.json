@@ -1,1 +1,1 @@
-{"name": "Milk-based_drinks", "id": 50884646, "predecessors": [{"name": "Milk", "id": 1000294}], "successors": [{"name": "Flavored_milk", "id": 35278205}, {"name": "Yogurt-based_drinks", "id": 44522921}, {"name": "Milk_tea", "id": 63806908}]}
+{"name": "Milk-based_drinks", "id": 50884646, "predecessors": [{"name": "Milk", "id": 1000294}, {"name": "Non-alcoholic_drinks", "id": 4197151}], "successors": [{"name": "Flavored_milk", "id": 35278205}, {"name": "Yogurt-based_drinks", "id": 44522921}, {"name": "Milk_tea", "id": 63806908}]}

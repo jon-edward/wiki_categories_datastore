@@ -1,1 +1,1 @@
-{"name": "Airports_in_Hainan", "id": 8106132, "predecessors": [{"name": "Buildings_and_structures_in_Hainan", "id": 6583305}, {"name": "Transport_in_Hainan", "id": 8106148}], "successors": []}
+{"name": "Airports_in_Hainan", "id": 8106132, "predecessors": [{"name": "Buildings_and_structures_in_Hainan", "id": 6583305}, {"name": "Transport_in_Hainan", "id": 8106148}, {"name": "Aviation_in_China", "id": 4678240}], "successors": []}

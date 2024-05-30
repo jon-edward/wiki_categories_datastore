@@ -1,1 +1,1 @@
-{"name": "해석기하학", "id": 529981, "predecessors": [{"name": "기하학", "id": 13309}], "successors": [{"name": "곡선", "id": 20678}, {"name": "좌표계", "id": 37660}, {"name": "원뿔_곡선", "id": 45471}]}
+{"name": "해석기하학", "id": 529981, "predecessors": [{"name": "기하학", "id": 13309}], "successors": [{"name": "곡선", "id": 20678}, {"name": "좌표계", "id": 37660}]}

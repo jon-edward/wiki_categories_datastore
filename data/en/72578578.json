@@ -1,1 +1,1 @@
-{"name": "Tank_truck_explosions", "id": 72578578, "predecessors": [{"name": "Fuel_containers", "id": 18509502}, {"name": "Energy", "id": 865456}], "successors": []}
+{"name": "Tank_truck_explosions", "id": 72578578, "predecessors": [{"name": "Energy", "id": 865456}, {"name": "Trucks", "id": 2803819}], "successors": []}

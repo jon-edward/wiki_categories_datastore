@@ -1,1 +1,1 @@
-{"name": "Antibody-drug_conjugates", "id": 46471356, "predecessors": [{"name": "Antineoplastic_drugs", "id": 22255852}, {"name": "Chemotherapeutic_adjuvants", "id": 995860}, {"name": "Therapeutic_antibodies", "id": 21135963}], "successors": []}
+{"name": "Antibody-drug_conjugates", "id": 46471356, "predecessors": [{"name": "Antineoplastic_drugs", "id": 22255852}, {"name": "Biotechnology", "id": 888826}, {"name": "Chemotherapeutic_adjuvants", "id": 995860}, {"name": "Monoclonal_antibodies", "id": 2004683}, {"name": "Therapeutic_antibodies", "id": 21135963}], "successors": []}

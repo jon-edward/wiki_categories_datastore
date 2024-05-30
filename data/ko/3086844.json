@@ -1,1 +1,1 @@
-{"name": "유기_이황화물", "id": 3086844, "predecessors": [{"name": "유기_황_화합물", "id": 774541}], "successors": []}
+{"name": "유기_이황화물", "id": 3086844, "predecessors": [{"name": "유기_황_화합물", "id": 774541}, {"name": "황화물", "id": 310909}], "successors": []}

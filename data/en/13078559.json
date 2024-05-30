@@ -1,1 +1,1 @@
-{"name": "State_highways_in_Kansas", "id": 13078559, "predecessors": [{"name": "Highways_in_the_United_States", "id": 48966979}], "successors": [{"name": "Former_state_highways_in_Kansas", "id": 16164950}]}
+{"name": "State_highways_in_Kansas", "id": 13078559, "predecessors": [{"name": "Highways_in_the_United_States", "id": 48966979}, {"name": "Contiguous_United_States", "id": 69260338}], "successors": [{"name": "Former_state_highways_in_Kansas", "id": 16164950}]}

@@ -1,1 +1,1 @@
-{"name": "School_districts_in_Michigan", "id": 1964948, "predecessors": [{"name": "Local_government_in_Michigan", "id": 23006382}], "successors": [{"name": "Intermediate_school_districts_in_Michigan", "id": 22680920}]}
+{"name": "School_districts_in_Michigan", "id": 1964948, "predecessors": [{"name": "Local_government_in_Michigan", "id": 23006382}, {"name": "Education_in_Michigan", "id": 1338902}], "successors": [{"name": "Intermediate_school_districts_in_Michigan", "id": 22680920}, {"name": "Detroit_Public_Schools_Community_District", "id": 68370341}]}

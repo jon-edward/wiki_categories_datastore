@@ -1,1 +1,0 @@
-{"name": "Relational_database_management_systems", "id": 27838959, "predecessors": [{"name": "Database_management_systems", "id": 700602}, {"name": "Table-oriented_programming", "id": 76881778}], "successors": [{"name": "Relational_model", "id": 6868511}, {"name": "PostgreSQL", "id": 15462823}, {"name": "MySQL", "id": 21558508}, {"name": "MariaDB", "id": 44588429}]}

@@ -1,1 +1,1 @@
-{"name": "Restaurant_chains_in_the_Philippines", "id": 28910732, "predecessors": [{"name": "Philippine_brands", "id": 39025464}], "successors": [{"name": "Fast-food_chains_of_the_Philippines", "id": 10585316}]}
+{"name": "Restaurant_chains_in_the_Philippines", "id": 28910732, "predecessors": [{"name": "Philippine_brands", "id": 39025464}, {"name": "Filipino_cuisine", "id": 26037279}], "successors": [{"name": "Fast-food_chains_of_the_Philippines", "id": 10585316}]}

@@ -1,1 +1,1 @@
-{"name": "수론적_함수", "id": 51194, "predecessors": [{"name": "수론", "id": 13334}], "successors": [{"name": "정수열", "id": 14758}]}
+{"name": "수론적_함수", "id": 51194, "predecessors": [{"name": "수론", "id": 13334}, {"name": "함수의_종류", "id": 1439913}], "successors": [{"name": "정수열", "id": 14758}]}

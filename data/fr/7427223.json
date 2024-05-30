@@ -1,1 +1,1 @@
-{"name": "Ambassadeur_en_Suède", "id": 7427223, "predecessors": [{"name": "Politique_en_Suède", "id": 6801705}, {"name": "Ambassadeur", "id": 406675}], "successors": [{"name": "Ambassadeur_de_France_en_Suède", "id": 9118080}, {"name": "Ambassadeur_du_Royaume-Uni_en_Suède", "id": 9118160}]}
+{"name": "Ambassadeur_en_Suède", "id": 7427223, "predecessors": [{"name": "Politique_en_Suède", "id": 6801705}, {"name": "Diplomatie", "id": 101396}], "successors": [{"name": "Ambassadeur_de_France_en_Suède", "id": 9118080}, {"name": "Ambassadeur_du_Royaume-Uni_en_Suède", "id": 9118160}]}

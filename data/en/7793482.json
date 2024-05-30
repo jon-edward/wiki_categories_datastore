@@ -1,1 +1,1 @@
-{"name": "CSX_Transportation_lines", "id": 7793482, "predecessors": [{"name": "CSX_Transportation", "id": 2667271}, {"name": "Railway_lines_in_the_United_States", "id": 33710404}], "successors": []}
+{"name": "CSX_Transportation_lines", "id": 7793482, "predecessors": [{"name": "CSX_Transportation", "id": 2667271}, {"name": "Railway_lines_in_the_United_States", "id": 33710404}], "successors": [{"name": "Former_CSX_Transportation_lines", "id": 8006093}, {"name": "CSX_templates", "id": 35025850}]}

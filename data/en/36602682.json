@@ -1,1 +1,1 @@
-{"name": "Geisel_School_of_Medicine_faculty", "id": 36602682, "predecessors": [{"name": "Health_care_occupations", "id": 1006080}], "successors": []}
+{"name": "Geisel_School_of_Medicine_faculty", "id": 36602682, "predecessors": [{"name": "Dartmouth_College_faculty", "id": 4018665}, {"name": "Dartmouth_College", "id": 741981}, {"name": "Health_care_occupations", "id": 1006080}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Cigar_brands", "id": 7657102, "predecessors": [{"name": "Cigars", "id": 2204236}, {"name": "IARC_Group_1_carcinogens", "id": 2555034}, {"name": "Tobacco_brands", "id": 7656684}], "successors": [{"name": "Habanos_S.A._brands", "id": 21448165}]}
+{"name": "Cigar_brands", "id": 7657102, "predecessors": [{"name": "Cigars", "id": 2204236}, {"name": "Tobacco_brands", "id": 7656684}], "successors": [{"name": "Habanos_S.A._brands", "id": 21448165}]}

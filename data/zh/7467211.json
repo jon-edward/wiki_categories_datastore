@@ -1,1 +1,1 @@
-{"name": "长沙地铁换乘车站", "id": 7467211, "predecessors": [{"name": "长沙交通", "id": 208139}, {"name": "中國鐵路隧道", "id": 773920}], "successors": []}
+{"name": "长沙地铁换乘车站", "id": 7467211, "predecessors": [{"name": "长沙交通", "id": 208139}, {"name": "城市轨道交通", "id": 281040}], "successors": []}

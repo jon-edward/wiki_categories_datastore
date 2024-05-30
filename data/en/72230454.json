@@ -1,1 +1,1 @@
-{"name": "Cryptocurrency_companies", "id": 72230454, "predecessors": [{"name": "Blockchain_entities", "id": 62555874}, {"name": "Cryptocurrencies", "id": 41684201}], "successors": [{"name": "Bitcoin_companies", "id": 52349413}]}
+{"name": "Cryptocurrency_companies", "id": 72230454, "predecessors": [{"name": "Cryptocurrencies", "id": 41684201}, {"name": "Financial_technology_companies", "id": 44787200}], "successors": [{"name": "Bitcoin_companies", "id": 52349413}]}

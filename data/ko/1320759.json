@@ -1,1 +1,1 @@
-{"name": "자유형", "id": 1320759, "predecessors": [{"name": "금고_및_구류", "id": 1320761}, {"name": "형벌", "id": 31665}, {"name": "형벌학", "id": 31666}], "successors": []}
+{"name": "자유형", "id": 1320759, "predecessors": [{"name": "금고_및_구류", "id": 1320761}, {"name": "형벌", "id": 31665}], "successors": [{"name": "탈옥", "id": 1320756}]}

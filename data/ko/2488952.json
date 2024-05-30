@@ -1,1 +1,1 @@
-{"name": "알코올_용매", "id": 2488952, "predecessors": [{"name": "알코올", "id": 40379}], "successors": []}
+{"name": "알코올_용매", "id": 2488952, "predecessors": [{"name": "알코올", "id": 40379}, {"name": "용매", "id": 57221}], "successors": []}

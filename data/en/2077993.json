@@ -1,1 +1,1 @@
-{"name": "Gas_turbines", "id": 2077993, "predecessors": [{"name": "Engines", "id": 743017}, {"name": "Gas_technologies", "id": 19500591}, {"name": "Turbines", "id": 966100}], "successors": [{"name": "Jet_engines", "id": 723337}, {"name": "Gas_turbine_manufacturers", "id": 34015388}, {"name": "Cars_powered_by_gas_turbines", "id": 38953379}]}
+{"name": "Gas_turbines", "id": 2077993, "predecessors": [{"name": "Engines", "id": 743017}, {"name": "Gas_technologies", "id": 19500591}, {"name": "Turbines", "id": 966100}], "successors": [{"name": "Jet_engines", "id": 723337}]}

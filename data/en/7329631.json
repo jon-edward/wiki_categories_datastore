@@ -1,1 +1,1 @@
-{"name": "Uric_acid", "id": 7329631, "predecessors": [{"name": "Excretion", "id": 3342268}, {"name": "Nitrogen_cycle", "id": 1313381}, {"name": "Purines", "id": 747733}], "successors": []}
+{"name": "Uric_acid", "id": 7329631, "predecessors": [{"name": "Excretion", "id": 3342268}, {"name": "Nitrogen_cycle", "id": 1313381}], "successors": []}

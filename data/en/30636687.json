@@ -1,1 +1,1 @@
-{"name": "Network_analysis", "id": 30636687, "predecessors": [{"name": "Network_theory", "id": 18839833}], "successors": [{"name": "Social_network_analysis", "id": 68542719}]}
+{"name": "Network_analysis", "id": 30636687, "predecessors": [{"name": "Network_theory", "id": 18839833}], "successors": [{"name": "Graph_connectivity", "id": 25113396}, {"name": "Social_network_analysis", "id": 68542719}]}

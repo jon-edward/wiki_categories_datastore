@@ -1,1 +1,1 @@
-{"name": "Ingénieur_nucléaire", "id": 8618374, "predecessors": [{"name": "Technologie_nucléaire", "id": 1618867}, {"name": "Accueil", "id": 1155637}, {"name": "Personnalité_liée_à_l'énergie", "id": 10240478}], "successors": []}
+{"name": "Ingénieur_nucléaire", "id": 8618374, "predecessors": [{"name": "Technologie_nucléaire", "id": 1618867}, {"name": "Ingénieur", "id": 157944}, {"name": "Personnalité_liée_à_l'énergie", "id": 10240478}], "successors": []}

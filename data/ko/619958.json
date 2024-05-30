@@ -1,1 +1,1 @@
-{"name": "어로_장비", "id": 619958, "predecessors": [{"name": "어로", "id": 1428501}, {"name": "도구", "id": 30522}], "successors": []}
+{"name": "어로_장비", "id": 619958, "predecessors": [{"name": "어로", "id": 1428501}, {"name": "도구", "id": 30522}], "successors": [{"name": "어망", "id": 1452864}]}

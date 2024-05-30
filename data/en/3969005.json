@@ -1,1 +1,1 @@
-{"name": "Neon_lighting", "id": 3969005, "predecessors": [{"name": "Gas_discharge_lamps", "id": 15802367}, {"name": "Lighting", "id": 927824}, {"name": "Neon", "id": 4563626}, {"name": "Vacuum_tubes", "id": 1010995}], "successors": []}
+{"name": "Neon_lighting", "id": 3969005, "predecessors": [{"name": "Lighting", "id": 927824}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Thermoregulation", "id": 39305624, "predecessors": [{"name": "Temperature", "id": 1214620}, {"name": "Temperature_control", "id": 16089642}], "successors": [{"name": "Deaths_from_hypothermia", "id": 18672968}]}
+{"name": "Thermoregulation", "id": 39305624, "predecessors": [{"name": "Heat_transfer", "id": 23011909}, {"name": "Temperature", "id": 1214620}], "successors": []}

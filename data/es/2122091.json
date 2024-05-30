@@ -1,1 +1,1 @@
-{"name": "Religiosos_ortodoxos", "id": 2122091, "predecessors": [{"name": "Iglesia_ortodoxa", "id": 78634}, {"name": "Religiosos_cristianos", "id": 552478}], "successors": [{"name": "Monacato_ortodoxo", "id": 1579978}, {"name": "Sacerdotes_ortodoxos", "id": 5357124}]}
+{"name": "Religiosos_ortodoxos", "id": 2122091, "predecessors": [{"name": "Iglesia_ortodoxa", "id": 78634}, {"name": "Religiosos_cristianos", "id": 552478}, {"name": "Grupos_sociales", "id": 329683}], "successors": [{"name": "Monacato_ortodoxo", "id": 1579978}, {"name": "Sacerdotes_ortodoxos", "id": 5357124}]}

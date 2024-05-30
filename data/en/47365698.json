@@ -1,1 +1,1 @@
-{"name": "Cambrian_chordates", "id": 47365698, "predecessors": [{"name": "Animal_death", "id": 33166047}], "successors": []}
+{"name": "Cambrian_chordates", "id": 47365698, "predecessors": [{"name": "Cambrian_animals", "id": 7862410}], "successors": [{"name": "Vetulicolia", "id": 31776047}, {"name": "Cambrian_conodonts", "id": 50856877}]}

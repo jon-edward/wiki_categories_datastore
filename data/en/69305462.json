@@ -1,1 +1,1 @@
-{"name": "Seal_Press_books", "id": 69305462, "predecessors": [{"name": "Basic_Books_books", "id": 40152365}], "successors": []}
+{"name": "Seal_Press_books", "id": 69305462, "predecessors": [{"name": "Basic_Books_books", "id": 40152365}, {"name": "American_books", "id": 7961959}], "successors": []}

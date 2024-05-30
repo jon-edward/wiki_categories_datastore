@@ -1,1 +1,1 @@
-{"name": "Entrenadors_de_futbol_navarresos", "id": 953358, "predecessors": [{"name": "Entrenadors_de_futbol_espanyols", "id": 207191}, {"name": "Cultura_de_Navarra", "id": 1196360}, {"name": "Principal", "id": 13225}, {"name": "Entrenadors", "id": 112026}], "successors": []}
+{"name": "Entrenadors_de_futbol_navarresos", "id": 953358, "predecessors": [{"name": "Entrenadors_de_futbol_espanyols", "id": 207191}, {"name": "Futbol", "id": 12681}, {"name": "Cultura_de_Navarra", "id": 1196360}, {"name": "Biografies", "id": 16117}], "successors": []}

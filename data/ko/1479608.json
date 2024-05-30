@@ -1,1 +1,1 @@
-{"name": "음식_작가", "id": 1479608, "predecessors": [{"name": "작가", "id": 11824}, {"name": "음식", "id": 10475}], "successors": []}
+{"name": "음식_작가", "id": 1479608, "predecessors": [{"name": "작가", "id": 11824}, {"name": "직업", "id": 33338}], "successors": []}

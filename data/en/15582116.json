@@ -1,1 +1,1 @@
-{"name": "Newspaper_associations", "id": 15582116, "predecessors": [{"name": "Journalism_organizations", "id": 1008044}, {"name": "Newspapers", "id": 695985}, {"name": "Trade_associations", "id": 27461932}], "successors": [{"name": "Canadian_University_Press", "id": 6938729}]}
+{"name": "Newspaper_associations", "id": 15582116, "predecessors": [{"name": "Journalism_organizations", "id": 1008044}, {"name": "Newspapers", "id": 695985}, {"name": "Publishing_organizations", "id": 29576489}], "successors": [{"name": "Canadian_University_Press", "id": 6938729}]}

@@ -1,1 +1,1 @@
-{"name": "Student_rights", "id": 15798744, "predecessors": [{"name": "Education_rights", "id": 29921833}, {"name": "Youth_rights", "id": 12041019}], "successors": []}
+{"name": "Student_rights", "id": 15798744, "predecessors": [{"name": "Education_rights", "id": 29921833}, {"name": "Students", "id": 4174841}, {"name": "Youth_rights", "id": 12041019}], "successors": [{"name": "Student_rights_case_law_in_the_United_States", "id": 48690795}]}

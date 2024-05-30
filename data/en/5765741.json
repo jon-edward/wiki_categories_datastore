@@ -1,1 +1,1 @@
-{"name": "Japanese_swordsmanship", "id": 5765741, "predecessors": [{"name": "Japanese_martial_arts", "id": 3180588}, {"name": "Japanese_swords", "id": 2569057}, {"name": "Swordsmanship", "id": 5765691}], "successors": [{"name": "Kendo", "id": 9262820}]}
+{"name": "Japanese_swordsmanship", "id": 5765741, "predecessors": [{"name": "Japanese_martial_arts", "id": 3180588}, {"name": "Japanese_swords", "id": 2569057}, {"name": "Culture_of_Asia", "id": 1438369}], "successors": [{"name": "Kendo", "id": 9262820}]}

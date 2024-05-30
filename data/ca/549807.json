@@ -1,1 +1,1 @@
-{"name": "Atletes_hongaresos", "id": 549807, "predecessors": [{"name": "Cultura", "id": 12968}, {"name": "Principal", "id": 13225}], "successors": [{"name": "Atletes_de_Budapest", "id": 1753925}]}
+{"name": "Atletes_hongaresos", "id": 549807, "predecessors": [{"name": "Cultura", "id": 12968}, {"name": "Biografies", "id": 16117}], "successors": [{"name": "Atletes_de_Budapest", "id": 1753925}]}

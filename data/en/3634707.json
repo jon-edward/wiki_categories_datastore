@@ -1,1 +1,1 @@
-{"name": "Three-wheeled_motor_vehicles", "id": 3634707, "predecessors": [{"name": "Car_models", "id": 13698345}, {"name": "Land_vehicles", "id": 30278361}], "successors": [{"name": "Tricycle_motorcycles", "id": 31081527}, {"name": "Electric_three-wheel_vehicles", "id": 48792442}]}
+{"name": "Three-wheeled_motor_vehicles", "id": 3634707, "predecessors": [{"name": "Car_models", "id": 13698345}, {"name": "Land_vehicles", "id": 30278361}], "successors": [{"name": "Tricycle_motorcycles", "id": 31081527}]}

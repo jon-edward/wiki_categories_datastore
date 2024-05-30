@@ -1,1 +1,1 @@
-{"name": "Pneumatic_tools", "id": 8475151, "predecessors": [{"name": "Gas_technologies", "id": 19500591}, {"name": "Pneumatics", "id": 13557979}, {"name": "Power_tools", "id": 8475107}, {"name": "Tools", "id": 846098}], "successors": []}
+{"name": "Pneumatic_tools", "id": 8475151, "predecessors": [{"name": "Gas_technologies", "id": 19500591}, {"name": "Pneumatics", "id": 13557979}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "German_apothecaries", "id": 76627872, "predecessors": [{"name": "Health_care_occupations", "id": 1006080}], "successors": []}
+{"name": "German_apothecaries", "id": 76627872, "predecessors": [{"name": "German_pharmacists", "id": 15775828}, {"name": "Health", "id": 751381}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "X_window_managers", "id": 872248, "predecessors": [{"name": "Window_managers", "id": 10947625}, {"name": "X_Window_System", "id": 766932}], "successors": [{"name": "Free_X_window_managers", "id": 14871282}]}
+{"name": "X_window_managers", "id": 872248, "predecessors": [{"name": "X_Window_System", "id": 766932}], "successors": [{"name": "Free_X_window_managers", "id": 14871282}]}

@@ -1,1 +1,1 @@
-{"name": "Bullion_coins", "id": 4237401, "predecessors": [{"name": "Coins", "id": 904510}, {"name": "Precious_metals", "id": 3715204}, {"name": "Commodities_used_as_an_investment", "id": 4956331}], "successors": [{"name": "Bullion_dealers", "id": 54247262}]}
+{"name": "Bullion_coins", "id": 4237401, "predecessors": [{"name": "Coins", "id": 904510}, {"name": "Numismatics", "id": 692363}, {"name": "Precious_metals", "id": 3715204}, {"name": "Commodities_used_as_an_investment", "id": 4956331}], "successors": []}

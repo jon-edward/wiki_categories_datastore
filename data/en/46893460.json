@@ -1,1 +1,1 @@
-{"name": "Ribosome-inactivating_proteins", "id": 46893460, "predecessors": [{"name": "Protein_synthesis_inhibitors", "id": 56350200}, {"name": "Protein_biosynthesis", "id": 6808876}], "successors": []}
+{"name": "Ribosome-inactivating_proteins", "id": 46893460, "predecessors": [{"name": "Protein_synthesis_inhibitors", "id": 56350200}, {"name": "Protein_toxins", "id": 31885880}, {"name": "Proteins_by_function", "id": 51665272}, {"name": "Protein_biosynthesis", "id": 6808876}], "successors": []}

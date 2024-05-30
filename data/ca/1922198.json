@@ -1,1 +1,1 @@
-{"name": "Científics_austrohongaresos", "id": 1922198, "predecessors": [{"name": "Austrohongaresos", "id": 558922}, {"name": "Principal", "id": 13225}], "successors": [{"name": "Biòlegs_austrohongaresos", "id": 1924538}, {"name": "Matemàtics_austrohongaresos", "id": 1930432}]}
+{"name": "Científics_austrohongaresos", "id": 1922198, "predecessors": [{"name": "Austrohongaresos", "id": 558922}, {"name": "Biografies", "id": 16117}], "successors": [{"name": "Biòlegs_austrohongaresos", "id": 1924538}, {"name": "Matemàtics_austrohongaresos", "id": 1930432}]}

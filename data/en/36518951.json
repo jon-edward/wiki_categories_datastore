@@ -1,1 +1,1 @@
-{"name": "Intelsat_satellites", "id": 36518951, "predecessors": [{"name": "Intelsat", "id": 25560038}, {"name": "Communications_satellite_operators", "id": 22178661}], "successors": []}
+{"name": "Intelsat_satellites", "id": 36518951, "predecessors": [{"name": "Intelsat", "id": 25560038}, {"name": "Satellite_television", "id": 1378610}, {"name": "Communications_satellite_operators", "id": 22178661}], "successors": []}

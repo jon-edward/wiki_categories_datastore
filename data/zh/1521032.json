@@ -1,1 +1,1 @@
-{"name": "DNA结合物质", "id": 1521032, "predecessors": [{"name": "DNA", "id": 3513588}, {"name": "化合物", "id": 41507}, {"name": "药品", "id": 8736207}, {"name": "生物技术与工具", "id": 1559887}], "successors": [{"name": "转录因子", "id": 1521012}]}
+{"name": "DNA结合物质", "id": 1521032, "predecessors": [{"name": "DNA", "id": 3513588}, {"name": "化合物", "id": 41507}, {"name": "药物", "id": 50014}, {"name": "生物技术与工具", "id": 1559887}], "successors": [{"name": "转录因子", "id": 1521012}]}

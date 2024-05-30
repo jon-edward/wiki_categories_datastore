@@ -1,1 +1,1 @@
-{"name": "미국_경찰", "id": 648041, "predecessors": [{"name": "법집행", "id": 1344266}], "successors": [{"name": "미국의_경찰관", "id": 805681}]}
+{"name": "미국_경찰", "id": 648041, "predecessors": [{"name": "경찰", "id": 173142}, {"name": "법집행", "id": 1344266}], "successors": [{"name": "미국의_경찰관", "id": 805681}]}

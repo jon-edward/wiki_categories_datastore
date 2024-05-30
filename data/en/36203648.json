@@ -1,1 +1,1 @@
-{"name": "Invasive_mammal_species", "id": 36203648, "predecessors": [{"name": "Invasive_species", "id": 1224829}], "successors": [{"name": "Feral_cats", "id": 72725784}]}
+{"name": "Invasive_mammal_species", "id": 36203648, "predecessors": [{"name": "Invasive_species", "id": 1224829}, {"name": "Mammaliaformes", "id": 14656170}], "successors": [{"name": "Feral_cats", "id": 72725784}]}

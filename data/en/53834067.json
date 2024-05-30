@@ -1,1 +1,1 @@
-{"name": "Manufacturing_companies_based_in_Gothenburg", "id": 53834067, "predecessors": [{"name": "Companies_based_in_Gothenburg", "id": 34635598}], "successors": [{"name": "Volvo", "id": 737085}]}
+{"name": "Manufacturing_companies_based_in_Gothenburg", "id": 53834067, "predecessors": [{"name": "Companies_based_in_Gothenburg", "id": 34635598}, {"name": "Manufacturing_companies_of_Sweden", "id": 7134054}], "successors": [{"name": "Volvo", "id": 737085}]}

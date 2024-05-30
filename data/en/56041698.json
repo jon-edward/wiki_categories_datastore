@@ -1,1 +1,1 @@
-{"name": "Oligocene_genus_first_appearances", "id": 56041698, "predecessors": [{"name": "Oligocene_first_appearances", "id": 46668618}, {"name": "1_(number)", "id": 44538185}], "successors": []}
+{"name": "Oligocene_genus_first_appearances", "id": 56041698, "predecessors": [{"name": "Oligocene_first_appearances", "id": 46668618}, {"name": "Oligocene_life", "id": 3352882}, {"name": "Cenozoic", "id": 1783752}], "successors": [{"name": "Rupelian_genus_first_appearances", "id": 56041687}, {"name": "Chattian_genus_first_appearances", "id": 56041832}]}

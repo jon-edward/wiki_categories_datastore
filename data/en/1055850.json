@@ -1,1 +1,1 @@
-{"name": "Detectives", "id": 1055850, "predecessors": [{"name": "Criminal_investigation", "id": 5937680}, {"name": "Civil_servants", "id": 4156326}], "successors": [{"name": "Detective_fiction", "id": 954811}, {"name": "Private_investigators", "id": 68513186}, {"name": "Police_detectives", "id": 73222713}]}
+{"name": "Detectives", "id": 1055850, "predecessors": [{"name": "Criminal_investigation", "id": 5937680}], "successors": [{"name": "Detective_fiction", "id": 954811}, {"name": "Private_investigators", "id": 68513186}, {"name": "Police_detectives", "id": 73222713}]}

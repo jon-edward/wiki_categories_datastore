@@ -1,1 +1,1 @@
-{"name": "Deaths_from_congestive_heart_failure", "id": 70257313, "predecessors": [{"name": "Deaths_from_heart_disease", "id": 67653370}, {"name": "Deaths_from_organ_failure", "id": 19627124}], "successors": []}
+{"name": "Deaths_from_congestive_heart_failure", "id": 70257313, "predecessors": [{"name": "Deaths_from_heart_disease", "id": 67653370}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Physical_theatre", "id": 17131997, "predecessors": [{"name": "Mime", "id": 13048409}, {"name": "Theatrical_genres", "id": 1231826}], "successors": []}
+{"name": "Physical_theatre", "id": 17131997, "predecessors": [{"name": "Mime", "id": 13048409}, {"name": "Performing_arts", "id": 991222}, {"name": "Theatrical_genres", "id": 1231826}], "successors": []}

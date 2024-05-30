@@ -1,1 +1,1 @@
-{"name": "Book_swapping", "id": 16131920, "predecessors": [{"name": "Books", "id": 694040}, {"name": "Sharing_economy", "id": 47930021}, {"name": "Recycling", "id": 2119852}], "successors": []}
+{"name": "Book_swapping", "id": 16131920, "predecessors": [{"name": "Book_collecting", "id": 9203521}, {"name": "Books", "id": 694040}, {"name": "Sharing_economy", "id": 47930021}, {"name": "Recycling", "id": 2119852}], "successors": []}

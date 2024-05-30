@@ -1,1 +1,1 @@
-{"name": "Prehistoric_lagomorphs", "id": 17573152, "predecessors": [{"name": "Mammal_orders", "id": 43534992}, {"name": "Prehistoric_eutherians", "id": 38265941}], "successors": []}
+{"name": "Prehistoric_lagomorphs", "id": 17573152, "predecessors": [{"name": "Euarchontoglires", "id": 66195368}, {"name": "Mammal_taxonomy", "id": 39031289}], "successors": []}

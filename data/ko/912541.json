@@ -1,1 +1,1 @@
-{"name": "신칸센의_열차", "id": 912541, "predecessors": [{"name": "JR", "id": 121388}], "successors": []}
+{"name": "신칸센의_열차", "id": 912541, "predecessors": [{"name": "일본의_특급_열차", "id": 689517}, {"name": "JR", "id": 121388}], "successors": []}

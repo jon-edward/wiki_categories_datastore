@@ -1,1 +1,1 @@
-{"name": "원인_불명의_항공_사고", "id": 696608, "predecessors": [{"name": "미해결_문제", "id": 15615}, {"name": "항공_사고", "id": 29500}], "successors": []}
+{"name": "원인_불명의_항공_사고", "id": 696608, "predecessors": [{"name": "미해결_문제", "id": 15615}], "successors": []}

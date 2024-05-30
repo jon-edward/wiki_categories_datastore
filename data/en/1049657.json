@@ -1,1 +1,1 @@
-{"name": "Kia_vehicles", "id": 1049657, "predecessors": [{"name": "Kia_Motors", "id": 1049661}, {"name": "Economy_of_South_Korea", "id": 2791569}], "successors": [{"name": "Kia_concept_vehicles", "id": 29990914}]}
+{"name": "Kia_vehicles", "id": 1049657, "predecessors": [{"name": "Kia_Motors", "id": 1049661}, {"name": "Manufacturing", "id": 867519}], "successors": [{"name": "Kia_concept_vehicles", "id": 29990914}]}

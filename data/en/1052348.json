@@ -1,1 +1,1 @@
-{"name": "Marine_parks", "id": 1052348, "predecessors": [{"name": "Oceanographic_organizations", "id": 935794}, {"name": "Parks", "id": 736623}], "successors": [{"name": "Marine_reserves", "id": 15692464}]}
+{"name": "Marine_parks", "id": 1052348, "predecessors": [{"name": "Oceanographic_organizations", "id": 935794}, {"name": "Protected_areas", "id": 1624994}, {"name": "Parks", "id": 736623}], "successors": [{"name": "Marine_reserves", "id": 15692464}]}

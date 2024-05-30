@@ -1,1 +1,1 @@
-{"name": "Containerhantering", "id": 8425258, "predecessors": [{"name": "Godstransport", "id": 65988}], "successors": [{"name": "Containerterminaler", "id": 8424281}, {"name": "Containerfartyg", "id": 8545613}]}
+{"name": "Containerhantering", "id": 8425258, "predecessors": [{"name": "Godstransport", "id": 65988}], "successors": [{"name": "Containerterminaler", "id": 8424281}]}

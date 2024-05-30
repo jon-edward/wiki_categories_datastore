@@ -1,1 +1,1 @@
-{"name": "LPGA_of_Korea_Tour", "id": 44175698, "predecessors": [{"name": "Professional_golf_tours", "id": 1324713}, {"name": "Women's_golf", "id": 4343092}, {"name": "Culture_of_Korea", "id": 726322}], "successors": [{"name": "LPGA_of_Korea_Tour_golfers", "id": 43175481}, {"name": "LPGA_of_Korea_Tour_events", "id": 44175749}]}
+{"name": "LPGA_of_Korea_Tour", "id": 44175698, "predecessors": [{"name": "Culture_of_Korea", "id": 726322}], "successors": [{"name": "LPGA_of_Korea_Tour_golfers", "id": 43175481}, {"name": "LPGA_of_Korea_Tour_events", "id": 44175749}]}

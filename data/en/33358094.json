@@ -1,1 +1,1 @@
-{"name": "Military_education_and_training_in_Germany", "id": 33358094, "predecessors": [{"name": "Government_of_Germany", "id": 2253591}], "successors": []}
+{"name": "Military_education_and_training_in_Germany", "id": 33358094, "predecessors": [{"name": "Government_of_Germany", "id": 2253591}, {"name": "Education_in_Germany", "id": 1404670}], "successors": [{"name": "Military_academies_of_Germany", "id": 33574237}, {"name": "Helmut_Schmidt_University_alumni", "id": 62215326}]}

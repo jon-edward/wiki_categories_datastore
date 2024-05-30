@@ -1,1 +1,1 @@
-{"name": "Cognitive_inertia", "id": 41337078, "predecessors": [{"name": "Belief", "id": 956054}, {"name": "Belief_revision", "id": 36312376}, {"name": "Cognitive_biases", "id": 893782}, {"name": "Conformity", "id": 36459841}], "successors": []}
+{"name": "Cognitive_inertia", "id": 41337078, "predecessors": [{"name": "Attitude_change", "id": 1118215}, {"name": "Belief", "id": 956054}, {"name": "Belief_revision", "id": 36312376}, {"name": "Cognitive_biases", "id": 893782}, {"name": "Conformity", "id": 36459841}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "BLS_철도_노선", "id": 3203039, "predecessors": [{"name": "스위스의_철도_기업", "id": 1404789}], "successors": []}
+{"name": "BLS_철도_노선", "id": 3203039, "predecessors": [{"name": "스위스의_철도_기업", "id": 1404789}, {"name": "스위스의_철도_노선", "id": 3153024}], "successors": []}

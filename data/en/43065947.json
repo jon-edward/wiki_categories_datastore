@@ -1,1 +1,1 @@
-{"name": "Monotypic_Hymenoptera_genera", "id": 43065947, "predecessors": [{"name": "Monotypic_insect_genera", "id": 42171802}], "successors": [{"name": "Monotypic_ant_genera", "id": 40783830}, {"name": "Monotypic_bee_genera", "id": 53847502}]}
+{"name": "Monotypic_Hymenoptera_genera", "id": 43065947, "predecessors": [{"name": "Hymenoptera_genera", "id": 44243046}, {"name": "Monotypic_insect_genera", "id": 42171802}], "successors": [{"name": "Monotypic_ant_genera", "id": 40783830}, {"name": "Monotypic_bee_genera", "id": 53847502}]}

@@ -1,1 +1,1 @@
-{"name": "Catalysis", "id": 19328571, "predecessors": [{"name": "Chemical_processes", "id": 698322}, {"name": "Chemical_reactions", "id": 995738}], "successors": [{"name": "Ribozymes", "id": 11155122}]}
+{"name": "Catalysis", "id": 19328571, "predecessors": [{"name": "Chemical_kinetics", "id": 1922903}, {"name": "Chemical_processes", "id": 698322}, {"name": "Chemical_reactions", "id": 995738}], "successors": [{"name": "Catalysts", "id": 717908}, {"name": "Homogeneous_catalysis", "id": 1886232}, {"name": "Ribozymes", "id": 11155122}]}

@@ -1,1 +1,1 @@
-{"name": "FK_Čukarički_players", "id": 40761784, "predecessors": [{"name": "Team_sports", "id": 700681}], "successors": []}
+{"name": "FK_Čukarički_players", "id": 40761784, "predecessors": [{"name": "Football_clubs_in_Belgrade", "id": 39408858}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Psychiatric_geneticists", "id": 58230039, "predecessors": [{"name": "Psychiatry_academics", "id": 39000870}], "successors": []}
+{"name": "Psychiatric_geneticists", "id": 58230039, "predecessors": [{"name": "Behavior_geneticists", "id": 6191878}, {"name": "Psychiatry_academics", "id": 39000870}], "successors": []}

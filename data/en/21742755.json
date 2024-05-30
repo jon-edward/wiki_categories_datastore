@@ -1,1 +1,0 @@
-{"name": "Heating", "id": 21742755, "predecessors": [{"name": "Energy_conversion", "id": 1947340}, {"name": "Heating,_ventilation,_and_air_conditioning", "id": 18540201}], "successors": [{"name": "Heat_pumps", "id": 1693944}]}

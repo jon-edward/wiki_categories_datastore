@@ -1,1 +1,1 @@
-{"name": "抗喘药", "id": 1778898, "predecessors": [{"name": "药品", "id": 8736207}, {"name": "遗传病", "id": 115888}], "successors": [{"name": "支气管扩张药", "id": 1555781}]}
+{"name": "抗喘药", "id": 1778898, "predecessors": [{"name": "药物", "id": 50014}], "successors": []}

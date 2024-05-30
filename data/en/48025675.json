@@ -1,1 +1,1 @@
-{"name": "Paintings_in_Tuscany", "id": 48025675, "predecessors": [{"name": "Culture_of_Tuscany", "id": 36471496}, {"name": "Italian_paintings", "id": 11613507}], "successors": [{"name": "Paintings_in_Florence", "id": 48025324}, {"name": "Fresco_paintings_in_Florence", "id": 70647060}]}
+{"name": "Paintings_in_Tuscany", "id": 48025675, "predecessors": [{"name": "Culture_of_Tuscany", "id": 36471496}, {"name": "Italian_paintings", "id": 11613507}, {"name": "Culture_of_Italy", "id": 715520}], "successors": [{"name": "Paintings_in_Florence", "id": 48025324}]}

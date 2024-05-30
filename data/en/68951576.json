@@ -1,1 +1,1 @@
-{"name": "Manufacturing_companies_based_in_Quebec", "id": 68951576, "predecessors": [{"name": "Companies_based_in_Quebec", "id": 6037454}, {"name": "Manufacturing_companies_of_Canada", "id": 1759667}], "successors": []}
+{"name": "Manufacturing_companies_based_in_Quebec", "id": 68951576, "predecessors": [{"name": "Companies_based_in_Quebec", "id": 6037454}, {"name": "Manufacturing_companies_of_Canada", "id": 1759667}], "successors": [{"name": "Manufacturing_companies_based_in_Montreal", "id": 50494523}]}

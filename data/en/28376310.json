@@ -1,1 +1,1 @@
-{"name": "TSV_1860_Munich_players", "id": 28376310, "predecessors": [{"name": "TSV_1860_Munich", "id": 14314160}, {"name": "Team_sports", "id": 700681}], "successors": [{"name": "TSV_1860_Munich_II_players", "id": 30081026}]}
+{"name": "TSV_1860_Munich_players", "id": 28376310, "predecessors": [{"name": "TSV_1860_Munich", "id": 14314160}, {"name": "Football_in_Germany", "id": 3065875}], "successors": [{"name": "TSV_1860_Munich_II_players", "id": 30081026}]}

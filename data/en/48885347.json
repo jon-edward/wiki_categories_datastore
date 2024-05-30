@@ -1,1 +1,1 @@
-{"name": "Prehistoric_arthropod_orders", "id": 48885347, "predecessors": [{"name": "Prehistoric_animal_orders", "id": 50180860}, {"name": "Animal_death", "id": 33166047}], "successors": []}
+{"name": "Prehistoric_arthropod_orders", "id": 48885347, "predecessors": [{"name": "Arthropod_orders", "id": 48216311}, {"name": "Extant_Cambrian_first_appearances", "id": 48568718}], "successors": [{"name": "Trilobite_orders", "id": 48890504}]}

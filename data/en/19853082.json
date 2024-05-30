@@ -1,1 +1,1 @@
-{"name": "Artillery_components", "id": 19853082, "predecessors": [{"name": "Artillery", "id": 700053}], "successors": []}
+{"name": "Artillery_components", "id": 19853082, "predecessors": [{"name": "Artillery", "id": 700053}], "successors": [{"name": "Carriages_and_mountings", "id": 18108298}, {"name": "Tanks_with_autoloaders", "id": 30898301}]}

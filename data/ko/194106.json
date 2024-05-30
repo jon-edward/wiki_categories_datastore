@@ -1,1 +1,1 @@
-{"name": "화장실", "id": 194106, "predecessors": [{"name": "배관", "id": 194107}, {"name": "위생_시설", "id": 2669442}, {"name": "폐기물_관리", "id": 757595}], "successors": []}
+{"name": "화장실", "id": 194106, "predecessors": [{"name": "위생_시설", "id": 2669442}, {"name": "폐기물_관리", "id": 757595}], "successors": []}

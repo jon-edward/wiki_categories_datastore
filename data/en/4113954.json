@@ -1,1 +1,1 @@
-{"name": "Player-coaches", "id": 4113954, "predecessors": [{"name": "Sports_coaches", "id": 17908961}, {"name": "Competitions", "id": 737119}], "successors": [{"name": "Baseball_player-managers", "id": 42976828}, {"name": "Ice_hockey_player-coaches", "id": 59212386}, {"name": "Gaelic_football_player-managers", "id": 63812469}, {"name": "Basketball_player-coaches", "id": 76535456}]}
+{"name": "Player-coaches", "id": 4113954, "predecessors": [{"name": "Sports_coaches", "id": 17908961}], "successors": [{"name": "Gaelic_football_player-managers", "id": 63812469}]}

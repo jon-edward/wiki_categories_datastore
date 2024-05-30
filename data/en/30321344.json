@@ -1,1 +1,1 @@
-{"name": "Motorsport_logos", "id": 30321344, "predecessors": [{"name": "Sports_logos", "id": 3652616}, {"name": "Individual_sports", "id": 862248}], "successors": [{"name": "Formula_One_logos", "id": 5042336}, {"name": "Speedway_logos", "id": 12310527}]}
+{"name": "Motorsport_logos", "id": 30321344, "predecessors": [{"name": "Motorsport", "id": 13306047}], "successors": [{"name": "Formula_One_logos", "id": 5042336}, {"name": "Speedway_logos", "id": 12310527}]}

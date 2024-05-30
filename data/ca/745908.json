@@ -1,1 +1,1 @@
-{"name": "Entrenadors_d'escacs", "id": 745908, "predecessors": [{"name": "Entrenadors", "id": 112026}, {"name": "Principal", "id": 13225}], "successors": [{"name": "Entrenadors_d'escacs_russos", "id": 1930026}]}
+{"name": "Entrenadors_d'escacs", "id": 745908, "predecessors": [{"name": "Entrenadors", "id": 112026}, {"name": "Biografies", "id": 16117}], "successors": [{"name": "Entrenadors_d'escacs_russos", "id": 1930026}]}

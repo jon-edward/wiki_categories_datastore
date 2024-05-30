@@ -1,1 +1,1 @@
-{"name": "Horror_writers", "id": 694250, "predecessors": [{"name": "Horror_artists", "id": 6838421}, {"name": "Speculative_fiction", "id": 1072285}, {"name": "Fiction", "id": 692981}], "successors": []}
+{"name": "Horror_writers", "id": 694250, "predecessors": [{"name": "Horror_artists", "id": 6838421}, {"name": "Speculative_fiction", "id": 1072285}, {"name": "Fiction", "id": 692981}], "successors": [{"name": "Cthulhu_Mythos_writers", "id": 6109885}]}

@@ -1,1 +1,1 @@
-{"name": "조리기구", "id": 279888, "predecessors": [{"name": "가전제품", "id": 49842}], "successors": []}
+{"name": "조리기구", "id": 279888, "predecessors": [{"name": "가전제품", "id": 49842}, {"name": "조리용구", "id": 1871508}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "DOS_device_names", "id": 39063337, "predecessors": [{"name": "DOS_drivers", "id": 39103968}, {"name": "DOS_technology", "id": 33094660}, {"name": "Device_file", "id": 9347186}], "successors": []}
+{"name": "DOS_device_names", "id": 39063337, "predecessors": [{"name": "DOS_drivers", "id": 39103968}, {"name": "DOS_technology", "id": 33094660}], "successors": []}

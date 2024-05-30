@@ -1,1 +1,1 @@
-{"name": "Tor_Books_books", "id": 37077048, "predecessors": [{"name": "Macmillan_Publishers_books", "id": 31482064}, {"name": "St._Martin's_Press_books", "id": 31117438}], "successors": [{"name": "Forge_Books_books", "id": 40890268}]}
+{"name": "Tor_Books_books", "id": 37077048, "predecessors": [{"name": "Macmillan_Publishers_books", "id": 31482064}, {"name": "St._Martin's_Press_books", "id": 31117438}, {"name": "American_books", "id": 7961959}], "successors": [{"name": "Forge_Books_books", "id": 40890268}]}

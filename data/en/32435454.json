@@ -1,1 +1,1 @@
-{"name": "IIT_Kanpur", "id": 32435454, "predecessors": [{"name": "Universities_and_colleges_in_Kanpur", "id": 30933875}], "successors": [{"name": "IIT_Kanpur_alumni", "id": 19849650}, {"name": "Academic_staff_of_IIT_Kanpur", "id": 24649907}]}
+{"name": "IIT_Kanpur", "id": 32435454, "predecessors": [{"name": "Engineering_colleges_in_Uttar_Pradesh", "id": 6927211}, {"name": "Indian_Institutes_of_Technology", "id": 5950704}], "successors": [{"name": "IIT_Kanpur_alumni", "id": 19849650}, {"name": "Academic_staff_of_IIT_Kanpur", "id": 24649907}]}

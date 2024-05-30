@@ -1,1 +1,1 @@
-{"name": "다크_판타지_영화", "id": 1765948, "predecessors": [{"name": "판타지_장르", "id": 782780}], "successors": []}
+{"name": "다크_판타지_영화", "id": 1765948, "predecessors": [{"name": "다크_판타지", "id": 1765949}, {"name": "판타지_영화", "id": 133084}], "successors": []}

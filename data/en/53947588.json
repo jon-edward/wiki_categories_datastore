@@ -1,1 +1,1 @@
-{"name": "Ethanolamines", "id": 53947588, "predecessors": [{"name": "Alcohols", "id": 713775}, {"name": "Amines", "id": 725878}], "successors": [{"name": "Phenylethanolamines", "id": 60947277}, {"name": "Phenoxypropanolamines", "id": 61341450}, {"name": "2-Phenoxyethanamines", "id": 61380726}]}
+{"name": "Ethanolamines", "id": 53947588, "predecessors": [{"name": "Alcohols", "id": 713775}], "successors": [{"name": "Phenylethanolamines", "id": 60947277}, {"name": "Phenoxypropanolamines", "id": 61341450}, {"name": "2-Phenoxyethanamines", "id": 61380726}]}

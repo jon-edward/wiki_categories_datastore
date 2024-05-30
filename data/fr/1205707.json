@@ -1,1 +1,1 @@
-{"name": "Ambassadeur_espagnol", "id": 1205707, "predecessors": [{"name": "Diplomate_espagnol", "id": 888837}, {"name": "Ambassadeur", "id": 406675}], "successors": [{"name": "Ambassadeur_d'Espagne_en_France", "id": 10351319}]}
+{"name": "Ambassadeur_espagnol", "id": 1205707, "predecessors": [{"name": "Diplomate_espagnol", "id": 888837}, {"name": "Diplomatie", "id": 101396}], "successors": [{"name": "Ambassadeur_d'Espagne_en_France", "id": 10351319}]}

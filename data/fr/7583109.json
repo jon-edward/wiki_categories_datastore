@@ -1,1 +1,1 @@
-{"name": "Classe_de_dragueur_de_mines", "id": 7583109, "predecessors": [{"name": "Dragueur_de_mines", "id": 291088}], "successors": []}
+{"name": "Classe_de_dragueur_de_mines", "id": 7583109, "predecessors": [{"name": "Classe_de_bateau", "id": 6023245}, {"name": "Dragueur_de_mines", "id": 291088}], "successors": []}

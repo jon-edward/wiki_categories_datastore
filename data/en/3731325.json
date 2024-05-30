@@ -1,1 +1,1 @@
-{"name": "Wagering", "id": 3731325, "predecessors": [{"name": "Addiction", "id": 870031}], "successors": [{"name": "Sports_betting", "id": 3781778}, {"name": "Betting_exchanges", "id": 4849644}, {"name": "Numbers_game", "id": 7706237}]}
+{"name": "Wagering", "id": 3731325, "predecessors": [{"name": "Addiction", "id": 870031}], "successors": [{"name": "Sports_betting", "id": 3781778}]}

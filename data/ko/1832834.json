@@ -1,1 +1,1 @@
-{"name": "스마트_스피커", "id": 1832834, "predecessors": [{"name": "스마트_장치", "id": 1452053}], "successors": []}
+{"name": "스마트_스피커", "id": 1832834, "predecessors": [{"name": "스마트_장치", "id": 1452053}, {"name": "무선", "id": 104327}], "successors": []}

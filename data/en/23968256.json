@@ -1,1 +1,1 @@
-{"name": "Suicides_by_starvation", "id": 23968256, "predecessors": [{"name": "Deaths_by_starvation", "id": 11556489}, {"name": "Deaths_by_dehydration", "id": 50692911}], "successors": [{"name": "People_who_died_on_hunger_strike", "id": 6896028}]}
+{"name": "Suicides_by_starvation", "id": 23968256, "predecessors": [{"name": "Deaths_by_dehydration", "id": 50692911}], "successors": [{"name": "People_who_died_on_hunger_strike", "id": 6896028}]}

@@ -1,1 +1,1 @@
-{"name": "Insurgency_weapons", "id": 25650670, "predecessors": [{"name": "Improvised_weapons", "id": 53219019}, {"name": "Weapons", "id": 698507}, {"name": "Firearms", "id": 739385}], "successors": []}
+{"name": "Insurgency_weapons", "id": 25650670, "predecessors": [{"name": "Firearms", "id": 739385}, {"name": "Guerrilla_warfare", "id": 4929217}], "successors": []}

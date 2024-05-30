@@ -1,1 +1,1 @@
-{"name": "Protocole_de_communication_chiffrée", "id": 207938, "predecessors": [{"name": "Communication_sécurisée", "id": 15983952}, {"name": "Protocole_cryptographique", "id": 1335991}, {"name": "Protocole_réseau", "id": 314354}], "successors": [{"name": "Réseaux_privés_virtuels", "id": 12251243}]}
+{"name": "Protocole_de_communication_chiffrée", "id": 207938, "predecessors": [{"name": "Protocole_cryptographique", "id": 1335991}, {"name": "Protocole_réseau", "id": 314354}], "successors": [{"name": "Réseaux_privés_virtuels", "id": 12251243}]}

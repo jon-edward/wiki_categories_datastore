@@ -1,1 +1,1 @@
-{"name": "파워PC_리눅스_배포판", "id": 3051612, "predecessors": [{"name": "파워PC_운영_체제", "id": 2292088}, {"name": "운영체제", "id": 42780}], "successors": []}
+{"name": "파워PC_리눅스_배포판", "id": 3051612, "predecessors": [{"name": "파워PC_운영_체제", "id": 2292088}, {"name": "리눅스_배포판", "id": 43281}], "successors": []}

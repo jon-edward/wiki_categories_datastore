@@ -1,1 +1,1 @@
-{"name": "Tourist_attractions_in_Varanasi", "id": 21404913, "predecessors": [{"name": "Varanasi", "id": 8118825}], "successors": [{"name": "Hindu_temples_in_Varanasi", "id": 30134766}, {"name": "Ghats_in_Varanasi", "id": 30137819}]}
+{"name": "Tourist_attractions_in_Varanasi", "id": 21404913, "predecessors": [{"name": "Varanasi", "id": 8118825}, {"name": "Uttar_Pradesh", "id": 977240}, {"name": "Districts_of_Uttar_Pradesh", "id": 2074102}], "successors": [{"name": "Hindu_temples_in_Varanasi", "id": 30134766}, {"name": "Ghats_in_Varanasi", "id": 30137819}]}

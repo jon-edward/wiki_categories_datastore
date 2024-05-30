@@ -1,1 +1,1 @@
-{"name": "조개", "id": 3310612, "predecessors": [{"name": "식용_패류", "id": 2993529}], "successors": []}
+{"name": "조개", "id": 3310612, "predecessors": [{"name": "식용_패류", "id": 2993529}, {"name": "이매패류", "id": 85707}], "successors": [{"name": "조개_요리", "id": 3310638}]}

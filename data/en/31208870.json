@@ -1,1 +1,1 @@
-{"name": "Pennsylvania_sheriffs", "id": 31208870, "predecessors": [{"name": "County_sheriffs_in_the_United_States", "id": 39156540}], "successors": [{"name": "Sheriffs_of_Philadelphia", "id": 62789559}]}
+{"name": "Pennsylvania_sheriffs", "id": 31208870, "predecessors": [{"name": "County_officials_in_Pennsylvania", "id": 39165104}, {"name": "County_sheriffs_in_the_United_States", "id": 39156540}], "successors": [{"name": "Sheriffs_of_Philadelphia", "id": 62789559}]}

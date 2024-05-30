@@ -1,1 +1,1 @@
-{"name": "GNOME_libraries", "id": 42297674, "predecessors": [{"name": "GNOME", "id": 693311}], "successors": []}
+{"name": "GNOME_libraries", "id": 42297674, "predecessors": [{"name": "Computer_libraries", "id": 7482978}, {"name": "GNOME", "id": 693311}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Education_in_Vancouver", "id": 7931686, "predecessors": [{"name": "Lower_Mainland", "id": 10789978}, {"name": "Education_in_Canada", "id": 1013475}], "successors": [{"name": "Universities_and_colleges_in_Vancouver", "id": 12321703}]}
+{"name": "Education_in_Vancouver", "id": 7931686, "predecessors": [{"name": "Education_in_British_Columbia", "id": 2005431}, {"name": "Cities_in_British_Columbia", "id": 1081664}, {"name": "Education_in_Canada", "id": 1013475}], "successors": [{"name": "Universities_and_colleges_in_Vancouver", "id": 12321703}]}

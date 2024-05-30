@@ -1,1 +1,1 @@
-{"name": "Familias_de_artrópodos", "id": 8442968, "predecessors": [{"name": "Arthropoda", "id": 601168}], "successors": [{"name": "Familias_de_arácnidos", "id": 8442961}, {"name": "Familias_de_crustáceos", "id": 8596459}, {"name": "Familias_de_colémbolos", "id": 9315590}]}
+{"name": "Familias_de_artrópodos", "id": 8442968, "predecessors": [{"name": "Animales", "id": 55378}, {"name": "Arthropoda", "id": 601168}], "successors": [{"name": "Familias_de_colémbolos", "id": 9315590}]}

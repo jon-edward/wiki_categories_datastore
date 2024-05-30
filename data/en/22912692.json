@@ -1,1 +1,1 @@
-{"name": "XMPP_clients", "id": 22912692, "predecessors": [{"name": "Instant_messaging_clients", "id": 6256509}, {"name": "Instant_messaging", "id": 755046}], "successors": [{"name": "Free_XMPP_clients", "id": 25573409}]}
+{"name": "XMPP_clients", "id": 22912692, "predecessors": [{"name": "Instant_messaging_clients", "id": 6256509}], "successors": [{"name": "Free_XMPP_clients", "id": 25573409}]}

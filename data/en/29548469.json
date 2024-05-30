@@ -1,1 +1,1 @@
-{"name": "Transport_in_Patna", "id": 29548469, "predecessors": [{"name": "Patna", "id": 17637010}], "successors": [{"name": "Railway_stations_in_Patna", "id": 40971498}]}
+{"name": "Transport_in_Patna", "id": 29548469, "predecessors": [{"name": "Patna", "id": 17637010}, {"name": "Economy_of_Bihar", "id": 9318925}, {"name": "Transport_in_Bihar", "id": 19618187}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "양초", "id": 980154, "predecessors": [{"name": "조명기구", "id": 1909619}], "successors": []}
+{"name": "양초", "id": 980154, "predecessors": [{"name": "광원", "id": 137786}, {"name": "조명기구", "id": 1909619}], "successors": []}

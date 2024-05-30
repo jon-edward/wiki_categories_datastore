@@ -1,1 +1,1 @@
-{"name": "Manganverbindung", "id": 1964132, "predecessors": [{"name": "Chemie", "id": 235238}, {"name": "Technik", "id": 242544}], "successors": [{"name": "Manganmineral", "id": 2014288}]}
+{"name": "Manganverbindung", "id": 1964132, "predecessors": [{"name": "Mangan", "id": 9903990}, {"name": "Chemie", "id": 235238}], "successors": [{"name": "Manganmineral", "id": 2014288}]}

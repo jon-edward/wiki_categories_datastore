@@ -1,1 +1,1 @@
-{"name": "Bacterial_proteins", "id": 6750737, "predecessors": [{"name": "Bacteriology", "id": 1095014}, {"name": "Biomolecules", "id": 11662086}], "successors": []}
+{"name": "Bacterial_proteins", "id": 6750737, "predecessors": [{"name": "Bacteriology", "id": 1095014}, {"name": "Biomolecules", "id": 11662086}, {"name": "Proteins", "id": 717889}], "successors": [{"name": "Bacterial_enzymes", "id": 6750831}]}

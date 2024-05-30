@@ -1,1 +1,1 @@
-{"name": "Film_avec_un_Oscar_de_la_meilleure_réalisation", "id": 4478643, "predecessors": [{"name": "Oscar_du_meilleur_réalisateur", "id": 411742}, {"name": "Film_nommé_aux_Oscars", "id": 3406226}, {"name": "Récompense_de_cinéma_pour_le_meilleur_film", "id": 8831618}], "successors": []}
+{"name": "Film_avec_un_Oscar_de_la_meilleure_réalisation", "id": 4478643, "predecessors": [{"name": "Oscar_de_la_meilleure_réalisation", "id": 411742}, {"name": "Film_nommé_aux_Oscars", "id": 3406226}, {"name": "Récompense_de_cinéma_pour_le_meilleur_film", "id": 8831618}], "successors": []}

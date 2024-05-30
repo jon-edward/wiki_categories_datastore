@@ -1,1 +1,1 @@
-{"name": "Material-handling_equipment", "id": 27004019, "predecessors": [{"name": "Equipment", "id": 3228046}], "successors": [{"name": "Forklift_truck_manufacturers", "id": 3995466}, {"name": "Bulk_material_handling", "id": 9946109}]}
+{"name": "Material-handling_equipment", "id": 27004019, "predecessors": [{"name": "Material_handling", "id": 50955857}], "successors": [{"name": "Forklift_truck_manufacturers", "id": 3995466}, {"name": "Bulk_material_handling", "id": 9946109}]}

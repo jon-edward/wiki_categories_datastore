@@ -1,1 +1,1 @@
-{"name": "Taxidermy", "id": 11244007, "predecessors": [{"name": "Animal_death", "id": 33166047}, {"name": "Death_customs", "id": 921950}, {"name": "Handicrafts", "id": 1211280}], "successors": [{"name": "Taxidermists", "id": 21652739}, {"name": "Individual_taxidermy_exhibits", "id": 68052699}]}
+{"name": "Taxidermy", "id": 11244007, "predecessors": [{"name": "Animal_death", "id": 33166047}, {"name": "Death_customs", "id": 921950}, {"name": "Handicrafts", "id": 1211280}], "successors": [{"name": "Taxidermists", "id": 21652739}]}

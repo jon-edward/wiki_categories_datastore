@@ -1,1 +1,1 @@
-{"name": "Cleaning_tools", "id": 1556847, "predecessors": [{"name": "Cleaning", "id": 1820394}, {"name": "Domestic_implements", "id": 30314144}, {"name": "Tools", "id": 846098}], "successors": [{"name": "Vacuum_cleaners", "id": 4988891}, {"name": "Brooms", "id": 76215271}]}
+{"name": "Cleaning_tools", "id": 1556847, "predecessors": [{"name": "Cleaning", "id": 1820394}, {"name": "Domestic_implements", "id": 30314144}], "successors": [{"name": "Vacuum_cleaners", "id": 4988891}, {"name": "Brooms", "id": 76215271}]}

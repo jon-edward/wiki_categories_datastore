@@ -1,1 +1,0 @@
-{"name": "Avionics", "id": 1013341, "predecessors": [{"name": "Embedded_systems", "id": 852879}, {"name": "Spacecraft_components", "id": 974792}], "successors": [{"name": "Avionics_computers", "id": 1044742}, {"name": "Aeronautical_navigation_systems", "id": 33968104}]}

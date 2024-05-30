@@ -1,1 +1,1 @@
-{"name": "Uranium_mining", "id": 9220462, "predecessors": [{"name": "Uranium", "id": 4133461}], "successors": [{"name": "Uranium_mines", "id": 3044145}, {"name": "Uranium_minerals", "id": 3886867}, {"name": "Uranium_mining_in_the_United_States", "id": 12987261}, {"name": "Uranium_mining_in_Australia", "id": 23625376}, {"name": "Uranium_mines_in_South_Africa", "id": 28011888}]}
+{"name": "Uranium_mining", "id": 9220462, "predecessors": [{"name": "Fuel_production", "id": 12894669}], "successors": []}

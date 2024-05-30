@@ -1,1 +1,1 @@
-{"name": "WebOS", "id": 34313905, "predecessors": [{"name": "Mobile_operating_systems", "id": 22280474}, {"name": "Palm,_Inc.", "id": 21111928}, {"name": "Smartphone_operating_systems", "id": 73079478}, {"name": "Operating_systems", "id": 693664}], "successors": [{"name": "WebOS_games", "id": 42853839}]}
+{"name": "WebOS", "id": 34313905, "predecessors": [{"name": "HP_software", "id": 54301351}, {"name": "Palm,_Inc.", "id": 21111928}], "successors": [{"name": "WebOS_games", "id": 42853839}]}

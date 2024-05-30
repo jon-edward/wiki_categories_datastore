@@ -1,1 +1,1 @@
-{"name": "Geometry_processing", "id": 52841636, "predecessors": [{"name": "Computer_vision", "id": 797088}, {"name": "Digital_signal_processing", "id": 707453}, {"name": "Multidimensional_signal_processing", "id": 44235526}], "successors": []}
+{"name": "Geometry_processing", "id": 52841636, "predecessors": [{"name": "Computer_vision", "id": 797088}, {"name": "Digital_signal_processing", "id": 707453}, {"name": "Multidimensional_signal_processing", "id": 44235526}, {"name": "Signal_processing", "id": 763505}], "successors": []}

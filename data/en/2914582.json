@@ -1,1 +1,1 @@
-{"name": "Agricultural_supply_cooperatives", "id": 2914582, "predecessors": [{"name": "Agricultural_cooperatives", "id": 11406067}, {"name": "Purchasing_consortia", "id": 32242859}], "successors": []}
+{"name": "Agricultural_supply_cooperatives", "id": 2914582, "predecessors": [{"name": "Agricultural_cooperatives", "id": 11406067}, {"name": "Purchasing_consortia", "id": 32242859}, {"name": "Retailers_by_type_of_merchandise_sold", "id": 55586528}], "successors": []}

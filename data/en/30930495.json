@@ -1,1 +1,1 @@
-{"name": "Elche_CF_managers", "id": 30930495, "predecessors": [{"name": "Elche_CF", "id": 8399991}], "successors": [{"name": "Elche_CF_Ilicitano_managers", "id": 36187552}]}
+{"name": "Elche_CF_managers", "id": 30930495, "predecessors": [{"name": "Elche_CF", "id": 8399991}, {"name": "Sport_in_Spain", "id": 3058492}], "successors": [{"name": "Elche_CF_Ilicitano_managers", "id": 36187552}]}

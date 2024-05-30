@@ -1,1 +1,1 @@
-{"name": "Ceasuri", "id": 459890, "predecessors": [{"name": "Mașini", "id": 753896}, {"name": "Măsurarea_timpului", "id": 198855}, {"name": "Instrumente", "id": 129233}, {"name": "Măsurare", "id": 187123}], "successors": [{"name": "Ceasornicari", "id": 986573}, {"name": "Smartwatch", "id": 2322957}]}
+{"name": "Ceasuri", "id": 459890, "predecessors": [{"name": "Mașini", "id": 753896}, {"name": "Măsurarea_timpului", "id": 198855}, {"name": "Instrumente", "id": 129233}, {"name": "Măsurare", "id": 187123}], "successors": [{"name": "Ceasornicari", "id": 986573}]}

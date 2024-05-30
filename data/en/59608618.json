@@ -1,1 +1,1 @@
-{"name": "Auction_Whist_group", "id": 59608618, "predecessors": [{"name": "Board_games", "id": 9205892}], "successors": [{"name": "Contract_bridge", "id": 16193797}]}
+{"name": "Auction_Whist_group", "id": 59608618, "predecessors": [{"name": "Games_of_mental_skill", "id": 8429389}], "successors": [{"name": "Contract_bridge", "id": 16193797}]}

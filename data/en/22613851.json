@@ -1,1 +1,1 @@
-{"name": "Fish_common_names", "id": 22613851, "predecessors": [{"name": "Aquatic_animals", "id": 43539222}], "successors": []}
+{"name": "Fish_common_names", "id": 22613851, "predecessors": [{"name": "Common_names_of_organisms", "id": 40081950}, {"name": "Aquatic_animals", "id": 43539222}], "successors": [{"name": "Chubs_(fish)", "id": 44806582}]}

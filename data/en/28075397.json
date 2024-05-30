@@ -1,1 +1,1 @@
-{"name": "Spaced_repetition_software", "id": 28075397, "predecessors": [{"name": "Educational_software", "id": 1750815}, {"name": "Language_learning_software", "id": 23998358}, {"name": "Psychology_of_learning", "id": 21770027}], "successors": []}
+{"name": "Spaced_repetition_software", "id": 28075397, "predecessors": [{"name": "Educational_software", "id": 1750815}, {"name": "Language_learning_software", "id": 23998358}, {"name": "Learning_methods", "id": 10246702}, {"name": "Psychology_of_learning", "id": 21770027}, {"name": "Learning", "id": 1055691}], "successors": []}

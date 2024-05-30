@@ -1,1 +1,1 @@
-{"name": "Hệ_đếm", "id": 44607, "predecessors": [{"name": "Mã_hóa", "id": 12018}, {"name": "Từ_vựng_học", "id": 103469}], "successors": [{"name": "Số", "id": 44526}, {"name": "Chữ_số", "id": 70146}, {"name": "Thiết_bị_đếm", "id": 467321}]}
+{"name": "Hệ_đếm", "id": 44607, "predecessors": [{"name": "Mã_hóa", "id": 12018}, {"name": "Ngôn_ngữ_học", "id": 4054}], "successors": [{"name": "Số", "id": 44526}, {"name": "Chữ_số", "id": 70146}, {"name": "Thiết_bị_đếm", "id": 467321}]}

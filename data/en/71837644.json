@@ -1,1 +1,1 @@
-{"name": "Picnic", "id": 71837644, "predecessors": [{"name": "Eating_parties", "id": 39565398}], "successors": [{"name": "Works_about_picnics", "id": 71837782}]}
+{"name": "Picnic", "id": 71837644, "predecessors": [{"name": "Camping", "id": 1451338}, {"name": "Eating_parties", "id": 39565398}, {"name": "Leisure", "id": 4225851}], "successors": [{"name": "Picnic_shelters", "id": 71837330}, {"name": "Works_about_picnics", "id": 71837782}]}

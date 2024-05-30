@@ -1,1 +1,1 @@
-{"name": "IPad", "id": 30107877, "predecessors": [{"name": "Tablet_computers", "id": 26588084}, {"name": "ARM_architecture", "id": 3291475}], "successors": [{"name": "IPadOS_software", "id": 62039587}]}
+{"name": "IPad", "id": 30107877, "predecessors": [{"name": "Apple_Inc._hardware", "id": 9301031}, {"name": "Tablet_computers", "id": 26588084}, {"name": "ARM_architecture", "id": 3291475}], "successors": [{"name": "IPadOS_software", "id": 62039587}]}

@@ -1,1 +1,1 @@
-{"name": "Index_cases", "id": 52800402, "predecessors": [{"name": "Famous_patients", "id": 74357920}, {"name": "Medical_literature", "id": 6125549}, {"name": "Patient", "id": 49859754}], "successors": []}
+{"name": "Index_cases", "id": 52800402, "predecessors": [{"name": "Biological_hazards", "id": 2638111}, {"name": "Famous_patients", "id": 74357920}, {"name": "Medical_literature", "id": 6125549}, {"name": "Patient", "id": 49859754}], "successors": []}

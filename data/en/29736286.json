@@ -1,1 +1,1 @@
-{"name": "Landscape_ecology", "id": 29736286, "predecessors": [{"name": "Ecological_restoration", "id": 24997051}, {"name": "Landscape_architecture", "id": 2927773}], "successors": [{"name": "Ecological_connectivity", "id": 36092614}]}
+{"name": "Landscape_ecology", "id": 29736286, "predecessors": [{"name": "Ecological_restoration", "id": 24997051}, {"name": "Landscape_architecture", "id": 2927773}, {"name": "Sustainable_design", "id": 29029113}], "successors": [{"name": "Ecological_connectivity", "id": 36092614}]}

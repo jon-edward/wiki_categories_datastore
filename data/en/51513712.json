@@ -1,1 +1,1 @@
-{"name": "Subtitlers", "id": 51513712, "predecessors": [{"name": "Subtitling", "id": 12990709}, {"name": "Translation", "id": 918052}], "successors": []}
+{"name": "Subtitlers", "id": 51513712, "predecessors": [{"name": "Subtitling", "id": 12990709}, {"name": "Translation", "id": 918052}], "successors": [{"name": "American_subtitlers", "id": 51513795}]}

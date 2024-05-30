@@ -1,1 +1,1 @@
-{"name": "Mandibular_nerve", "id": 39136297, "predecessors": [{"name": "Face", "id": 36077287}], "successors": []}
+{"name": "Mandibular_nerve", "id": 39136297, "predecessors": [{"name": "Motor_system", "id": 27302671}, {"name": "Trigeminal_nerve", "id": 39136228}, {"name": "Face", "id": 36077287}], "successors": []}

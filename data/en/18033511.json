@@ -1,1 +1,1 @@
-{"name": "Petroleum_transport", "id": 18033511, "predecessors": [{"name": "Freight_transport", "id": 710066}, {"name": "Petroleum_industry", "id": 37426453}], "successors": [{"name": "Gas_shipping_companies", "id": 13153241}, {"name": "Oil_terminals", "id": 17974661}, {"name": "Oil_tankers", "id": 24247030}]}
+{"name": "Petroleum_transport", "id": 18033511, "predecessors": [{"name": "Freight_transport", "id": 710066}, {"name": "Petroleum_industry", "id": 37426453}], "successors": [{"name": "Gas_shipping_companies", "id": 13153241}]}

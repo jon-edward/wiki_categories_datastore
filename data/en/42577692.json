@@ -1,1 +1,1 @@
-{"name": "Brewery_buildings", "id": 42577692, "predecessors": [{"name": "Brewing", "id": 14893672}], "successors": []}
+{"name": "Brewery_buildings", "id": 42577692, "predecessors": [{"name": "Brewing", "id": 14893672}, {"name": "Manufacturing_plants", "id": 2003393}], "successors": []}

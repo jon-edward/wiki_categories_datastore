@@ -1,1 +1,1 @@
-{"name": "Músics_bagencs", "id": 1227036, "predecessors": [{"name": "Principal", "id": 13225}], "successors": [{"name": "Músics_manresans", "id": 246374}, {"name": "Compositors_bagencs", "id": 1927197}]}
+{"name": "Músics_bagencs", "id": 1227036, "predecessors": [{"name": "Biografies", "id": 16117}], "successors": [{"name": "Músics_manresans", "id": 246374}, {"name": "Compositors_bagencs", "id": 1927197}]}

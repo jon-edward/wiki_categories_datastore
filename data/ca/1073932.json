@@ -1,1 +1,1 @@
-{"name": "Llevadores", "id": 1073932, "predecessors": [{"name": "Infermeria", "id": 46034}, {"name": "Especialitats_de_la_medicina", "id": 498206}, {"name": "Principal", "id": 13225}], "successors": [{"name": "Llevadores_catalanes", "id": 1974007}]}
+{"name": "Llevadores", "id": 1073932, "predecessors": [{"name": "Infermeria", "id": 46034}, {"name": "Especialitats_de_la_medicina", "id": 498206}, {"name": "Biografies", "id": 16117}], "successors": [{"name": "Llevadores_catalanes", "id": 1974007}]}

@@ -1,1 +1,1 @@
-{"name": "Fire_suppression", "id": 3976851, "predecessors": [{"name": "Active_fire_protection", "id": 14090530}, {"name": "Firefighting", "id": 854544}], "successors": [{"name": "Fire_suppression_agents", "id": 3146753}, {"name": "Wildfire_suppression", "id": 5811261}]}
+{"name": "Fire_suppression", "id": 3976851, "predecessors": [{"name": "Active_fire_protection", "id": 14090530}, {"name": "Firefighting", "id": 854544}], "successors": [{"name": "Wildfire_suppression", "id": 5811261}]}

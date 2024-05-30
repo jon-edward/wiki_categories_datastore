@@ -1,1 +1,1 @@
-{"name": "Surrenders", "id": 4649624, "predecessors": [{"name": "Military_diplomacy", "id": 4649694}], "successors": [{"name": "Surrender_of_Japan", "id": 50015848}]}
+{"name": "Surrenders", "id": 4649624, "predecessors": [{"name": "War", "id": 691877}], "successors": [{"name": "Surrender_of_Japan", "id": 50015848}]}

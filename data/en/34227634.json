@@ -1,1 +1,1 @@
-{"name": "Genealogy_databases", "id": 34227634, "predecessors": [{"name": "Person_databases", "id": 34229007}], "successors": []}
+{"name": "Genealogy_databases", "id": 34227634, "predecessors": [{"name": "Person_databases", "id": 34229007}, {"name": "Genealogy", "id": 724361}], "successors": []}

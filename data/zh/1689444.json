@@ -1,1 +1,1 @@
-{"name": "自殺作家", "id": 1689444, "predecessors": [{"name": "作家", "id": 34499}, {"name": "自杀艺术家", "id": 5655230}], "successors": [{"name": "自杀诗人", "id": 5641088}]}
+{"name": "自殺作家", "id": 1689444, "predecessors": [{"name": "作家", "id": 34499}, {"name": "死因", "id": 741462}], "successors": [{"name": "自杀诗人", "id": 5641088}]}

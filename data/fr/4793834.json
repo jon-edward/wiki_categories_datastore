@@ -1,1 +1,1 @@
-{"name": "Classe_de_corvette", "id": 4793834, "predecessors": [{"name": "Corvette", "id": 1235470}], "successors": []}
+{"name": "Classe_de_corvette", "id": 4793834, "predecessors": [{"name": "Classe_de_bateau", "id": 6023245}, {"name": "Corvette", "id": 1235470}], "successors": []}

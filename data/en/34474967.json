@@ -1,1 +1,1 @@
-{"name": "Free_database_management_systems", "id": 34474967, "predecessors": [{"name": "Free_application_software", "id": 6702554}, {"name": "Database_management_systems", "id": 700602}], "successors": [{"name": "PostgreSQL", "id": 15462823}, {"name": "MySQL", "id": 21558508}, {"name": "MariaDB", "id": 44588429}]}
+{"name": "Free_database_management_systems", "id": 34474967, "predecessors": [{"name": "Database_management_systems", "id": 700602}], "successors": []}

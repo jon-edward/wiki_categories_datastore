@@ -1,1 +1,1 @@
-{"name": "Property_insurance", "id": 51782206, "predecessors": [{"name": "Property", "id": 1141987}], "successors": [{"name": "Vehicle_insurance", "id": 13564827}, {"name": "Marine_insurance", "id": 51074612}]}
+{"name": "Property_insurance", "id": 51782206, "predecessors": [{"name": "Property", "id": 1141987}, {"name": "Types_of_insurance", "id": 8163702}], "successors": [{"name": "Vehicle_insurance", "id": 13564827}, {"name": "Marine_insurance", "id": 51074612}]}

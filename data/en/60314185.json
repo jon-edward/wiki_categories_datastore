@@ -1,1 +1,1 @@
-{"name": "Saline_lakes_of_Europe", "id": 60314185, "predecessors": [{"name": "Lakes_by_type", "id": 15927420}, {"name": "Environment_of_Europe", "id": 29464044}], "successors": [{"name": "Caspian_Sea", "id": 7194420}, {"name": "Tuzly_Lagoons", "id": 38873883}]}
+{"name": "Saline_lakes_of_Europe", "id": 60314185, "predecessors": [{"name": "Environment_of_Europe", "id": 29464044}, {"name": "Salts", "id": 695960}], "successors": [{"name": "Caspian_Sea", "id": 7194420}, {"name": "Tuzly_Lagoons", "id": 38873883}]}

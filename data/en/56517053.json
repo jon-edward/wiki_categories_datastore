@@ -1,1 +1,1 @@
-{"name": "Milk_dishes", "id": 56517053, "predecessors": [{"name": "Milk", "id": 1000294}], "successors": [{"name": "Rice_pudding", "id": 6416792}, {"name": "Cheese_dishes", "id": 10072994}, {"name": "Yogurt-based_dishes", "id": 44522727}]}
+{"name": "Milk_dishes", "id": 56517053, "predecessors": [{"name": "Milk", "id": 1000294}, {"name": "Food_and_drink", "id": 694860}], "successors": [{"name": "Rice_pudding", "id": 6416792}, {"name": "Cheese_dishes", "id": 10072994}, {"name": "Yogurt-based_dishes", "id": 44522727}]}

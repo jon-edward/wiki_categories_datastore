@@ -1,1 +1,1 @@
-{"name": "FK_Zemun_players", "id": 20480143, "predecessors": [{"name": "Sport_in_Zemun", "id": 70151592}, {"name": "Team_sports", "id": 700681}], "successors": []}
+{"name": "FK_Zemun_players", "id": 20480143, "predecessors": [{"name": "Football_clubs_in_Belgrade", "id": 39408858}], "successors": []}

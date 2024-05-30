@@ -1,1 +1,1 @@
-{"name": "Welsh_male_stage_actors", "id": 40387844, "predecessors": [{"name": "British_actors", "id": 718753}], "successors": [{"name": "Welsh_male_musical_theatre_actors", "id": 40418034}, {"name": "Welsh_male_Shakespearean_actors", "id": 53372133}]}
+{"name": "Welsh_male_stage_actors", "id": 40387844, "predecessors": [{"name": "British_male_stage_actors", "id": 40387488}, {"name": "British_actors", "id": 718753}], "successors": [{"name": "Welsh_male_musical_theatre_actors", "id": 40418034}, {"name": "Welsh_male_Shakespearean_actors", "id": 53372133}]}

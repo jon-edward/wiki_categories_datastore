@@ -1,1 +1,1 @@
-{"name": "German_male_violinists", "id": 59135363, "predecessors": [{"name": "Male_violinists", "id": 51038950}], "successors": [{"name": "German_male_classical_violinists", "id": 76519343}]}
+{"name": "German_male_violinists", "id": 59135363, "predecessors": [{"name": "German_male_musicians", "id": 44858718}, {"name": "Male_violinists", "id": 51038950}], "successors": [{"name": "German_male_classical_violinists", "id": 76519343}]}

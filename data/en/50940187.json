@@ -1,1 +1,1 @@
-{"name": "Manufacturing_companies_based_in_Houston", "id": 50940187, "predecessors": [{"name": "Companies_based_in_Houston", "id": 17424180}], "successors": []}
+{"name": "Manufacturing_companies_based_in_Houston", "id": 50940187, "predecessors": [{"name": "Companies_based_in_Houston", "id": 17424180}, {"name": "Manufacturing_companies_based_in_Texas", "id": 28989058}], "successors": []}

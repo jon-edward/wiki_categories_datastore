@@ -1,1 +1,1 @@
-{"name": "Álbumes_de_Argentina", "id": 1396007, "predecessors": [{"name": "Música_de_Argentina", "id": 126335}], "successors": [{"name": "Álbumes_de_rock_de_Argentina", "id": 651606}, {"name": "Álbumes_de_trap_latino_de_Argentina", "id": 10161924}]}
+{"name": "Álbumes_de_Argentina", "id": 1396007, "predecessors": [{"name": "Música_de_Argentina", "id": 126335}, {"name": "Arte", "id": 51311}], "successors": [{"name": "Álbumes_de_rock_de_Argentina", "id": 651606}, {"name": "Álbumes_de_trap_latino_de_Argentina", "id": 10161924}]}

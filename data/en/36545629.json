@@ -1,1 +1,1 @@
-{"name": "Football_clubs_in_Munich", "id": 36545629, "predecessors": [{"name": "Football_in_Upper_Bavaria", "id": 23558837}], "successors": [{"name": "FC_Bayern_Munich", "id": 6814618}, {"name": "TSV_1860_Munich", "id": 14314160}]}
+{"name": "Football_clubs_in_Munich", "id": 36545629, "predecessors": [{"name": "Football_clubs_in_Bavaria", "id": 34521648}, {"name": "Football_in_Upper_Bavaria", "id": 23558837}], "successors": [{"name": "FC_Bayern_Munich", "id": 6814618}, {"name": "TSV_1860_Munich", "id": 14314160}]}

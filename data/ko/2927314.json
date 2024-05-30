@@ -1,1 +1,1 @@
-{"name": "라이브_USB", "id": 2927314, "predecessors": [{"name": "USB", "id": 635668}, {"name": "부팅", "id": 860208}, {"name": "운영체제_기술", "id": 48491}], "successors": []}
+{"name": "라이브_USB", "id": 2927314, "predecessors": [{"name": "USB", "id": 635668}], "successors": []}

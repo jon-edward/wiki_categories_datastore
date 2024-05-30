@@ -1,1 +1,1 @@
-{"name": "Viral_enzymes", "id": 1507046, "predecessors": [{"name": "Virology", "id": 715146}], "successors": []}
+{"name": "Viral_enzymes", "id": 1507046, "predecessors": [{"name": "Enzymes", "id": 702815}, {"name": "Proteins", "id": 717889}], "successors": []}

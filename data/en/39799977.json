@@ -1,1 +1,1 @@
-{"name": "Methylation", "id": 39799977, "predecessors": [{"name": "Chemical_reactions", "id": 995738}], "successors": []}
+{"name": "Methylation", "id": 39799977, "predecessors": [{"name": "Chemical_reactions", "id": 995738}], "successors": [{"name": "Methylating_agents", "id": 2566706}, {"name": "O-methylated_phenols", "id": 43256117}]}

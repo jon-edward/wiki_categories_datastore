@@ -1,1 +1,1 @@
-{"name": "Músics_osonencs", "id": 1099052, "predecessors": [{"name": "Artistes_osonencs", "id": 1099051}, {"name": "Principal", "id": 13225}], "successors": [{"name": "Músics_vigatans", "id": 488986}, {"name": "Compositors_osonencs", "id": 1927266}]}
+{"name": "Músics_osonencs", "id": 1099052, "predecessors": [{"name": "Artistes_osonencs", "id": 1099051}, {"name": "Biografies", "id": 16117}], "successors": [{"name": "Músics_vigatans", "id": 488986}, {"name": "Compositors_osonencs", "id": 1927266}]}

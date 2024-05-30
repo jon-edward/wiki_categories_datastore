@@ -1,1 +1,1 @@
-{"name": "런던의_가게", "id": 2488296, "predecessors": [{"name": "런던의_건축물", "id": 129538}, {"name": "상업_시설", "id": 536406}, {"name": "가게", "id": 534615}], "successors": []}
+{"name": "런던의_가게", "id": 2488296, "predecessors": [{"name": "가게", "id": 534615}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Research_stations", "id": 23854292, "predecessors": [{"name": "Buildings_and_structures_by_type", "id": 6884364}], "successors": [{"name": "Outposts_of_Antarctica", "id": 901228}]}
+{"name": "Research_stations", "id": 23854292, "predecessors": [{"name": "Research", "id": 1395115}, {"name": "Buildings_and_structures_by_type", "id": 6884364}], "successors": [{"name": "Outposts_of_Antarctica", "id": 901228}, {"name": "Agricultural_research_stations", "id": 69083752}]}

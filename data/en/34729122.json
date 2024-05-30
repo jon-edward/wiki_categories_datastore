@@ -1,1 +1,1 @@
-{"name": "Cosmic_background_radiation", "id": 34729122, "predecessors": [{"name": "Physical_cosmology", "id": 5114206}], "successors": [{"name": "Cosmic_microwave_background_experiments", "id": 26375132}]}
+{"name": "Cosmic_background_radiation", "id": 34729122, "predecessors": [{"name": "Electromagnetic_radiation", "id": 697318}, {"name": "Physical_cosmology", "id": 5114206}], "successors": [{"name": "Cosmic_microwave_background_experiments", "id": 26375132}]}

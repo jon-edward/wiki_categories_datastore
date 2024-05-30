@@ -1,1 +1,1 @@
-{"name": "Geese", "id": 1311902, "predecessors": [{"name": "Poultry", "id": 757493}, {"name": "Aquatic_animals", "id": 43539222}], "successors": [{"name": "Fictional_geese", "id": 12789051}, {"name": "Goose_breeds", "id": 21283621}]}
+{"name": "Geese", "id": 1311902, "predecessors": [{"name": "Birds_by_common_name", "id": 11002423}, {"name": "Aquatic_animals", "id": 43539222}], "successors": [{"name": "Fictional_geese", "id": 12789051}]}

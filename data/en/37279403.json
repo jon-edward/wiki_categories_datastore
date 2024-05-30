@@ -1,1 +1,1 @@
-{"name": "Bridges_in_Guangdong", "id": 37279403, "predecessors": [{"name": "Buildings_and_structures_in_Guangdong", "id": 6582265}, {"name": "Transport_in_Guangdong", "id": 1670330}], "successors": [{"name": "Bridges_in_Guangzhou", "id": 28557554}]}
+{"name": "Bridges_in_Guangdong", "id": 37279403, "predecessors": [{"name": "Buildings_and_structures_in_Guangdong", "id": 6582265}, {"name": "Transport_in_Guangdong", "id": 1670330}, {"name": "Bridges_in_China", "id": 1667602}], "successors": [{"name": "Bridges_in_Guangzhou", "id": 28557554}]}

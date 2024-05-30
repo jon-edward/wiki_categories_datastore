@@ -1,1 +1,1 @@
-{"name": "PDF_software", "id": 13391267, "predecessors": [{"name": "Multimedia_software", "id": 9734361}, {"name": "Page_description_languages", "id": 722455}, {"name": "Digital_typography", "id": 1109533}], "successors": [{"name": "PDF_readers", "id": 3875598}, {"name": "Free_PDF_software", "id": 4221318}]}
+{"name": "PDF_software", "id": 13391267, "predecessors": [{"name": "Multimedia_software", "id": 9734361}, {"name": "Page_description_languages", "id": 722455}, {"name": "Digital_typography", "id": 1109533}], "successors": [{"name": "PDF_readers", "id": 3875598}]}

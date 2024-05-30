@@ -1,1 +1,1 @@
-{"name": "BuzzFeed_people", "id": 55046329, "predecessors": [{"name": "News_YouTubers", "id": 63546425}, {"name": "21st_century", "id": 884422}], "successors": []}
+{"name": "BuzzFeed_people", "id": 55046329, "predecessors": [{"name": "BuzzFeed", "id": 55031338}, {"name": "News_YouTubers", "id": 63546425}], "successors": []}

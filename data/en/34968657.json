@@ -1,1 +1,1 @@
-{"name": "Squid_dishes", "id": 34968657, "predecessors": [{"name": "Seafood_dishes", "id": 18237842}], "successors": []}
+{"name": "Squid_dishes", "id": 34968657, "predecessors": [{"name": "Seafood_dishes", "id": 18237842}, {"name": "Animal-based_seafood", "id": 36325535}], "successors": []}

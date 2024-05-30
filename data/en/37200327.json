@@ -1,1 +1,1 @@
-{"name": "Health_education_organizations", "id": 37200327, "predecessors": [{"name": "Health_advocacy_groups", "id": 24223246}, {"name": "Medical_and_health_organizations", "id": 14658985}], "successors": []}
+{"name": "Health_education_organizations", "id": 37200327, "predecessors": [{"name": "Health_advocacy_groups", "id": 24223246}, {"name": "Health_education", "id": 6123888}, {"name": "Medical_and_health_organizations", "id": 14658985}], "successors": []}

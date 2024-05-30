@@ -1,1 +1,1 @@
-{"name": "Superannuation_in_Australia", "id": 30986537, "predecessors": [{"name": "Taxation_in_Australia", "id": 1557310}, {"name": "Old_age_in_Australia", "id": 36650213}, {"name": "Finance_in_Australia", "id": 24073151}, {"name": "Employment_compensation", "id": 4595606}], "successors": [{"name": "Superannuation_funds_in_Australia", "id": 62801244}]}
+{"name": "Superannuation_in_Australia", "id": 30986537, "predecessors": [{"name": "Pensions_by_country", "id": 33326017}], "successors": [{"name": "Superannuation_funds_in_Australia", "id": 62801244}]}

@@ -1,1 +1,1 @@
-{"name": "Canciones_de_Uruguay", "id": 3259166, "predecessors": [{"name": "Música_de_Uruguay", "id": 116722}], "successors": [{"name": "Canciones_de_No_te_va_gustar", "id": 7699155}, {"name": "Canciones_de_El_Cuarteto_de_Nos", "id": 10235902}]}
+{"name": "Canciones_de_Uruguay", "id": 3259166, "predecessors": [{"name": "Música_de_Uruguay", "id": 116722}, {"name": "Canciones", "id": 80948}], "successors": [{"name": "Canciones_de_No_te_va_gustar", "id": 7699155}, {"name": "Canciones_de_El_Cuarteto_de_Nos", "id": 10235902}]}

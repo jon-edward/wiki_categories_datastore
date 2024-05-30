@@ -1,1 +1,1 @@
-{"name": "CERN_accelerators", "id": 45688237, "predecessors": [{"name": "CERN", "id": 10130606}, {"name": "Particle_accelerators", "id": 2041668}], "successors": [{"name": "Large_Hadron_Collider", "id": 10130592}]}
+{"name": "CERN_accelerators", "id": 45688237, "predecessors": [{"name": "CERN", "id": 10130606}], "successors": [{"name": "Large_Hadron_Collider", "id": 10130592}]}

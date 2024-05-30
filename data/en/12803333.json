@@ -1,1 +1,1 @@
-{"name": "Business_qualifications", "id": 12803333, "predecessors": [{"name": "Academic_degrees", "id": 1890924}, {"name": "Business_education", "id": 12806577}, {"name": "Qualifications", "id": 907401}], "successors": [{"name": "Professional_certification_in_finance", "id": 4218826}]}
+{"name": "Business_qualifications", "id": 12803333, "predecessors": [{"name": "Academic_degrees", "id": 1890924}, {"name": "Business_education", "id": 12806577}], "successors": [{"name": "Professional_certification_in_finance", "id": 4218826}]}

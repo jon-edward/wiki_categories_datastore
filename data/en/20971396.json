@@ -1,1 +1,1 @@
-{"name": "Bus_transport_in_Canberra", "id": 20971396, "predecessors": [{"name": "Transport_in_Canberra", "id": 54235107}, {"name": "Transport_in_Australia", "id": 1347303}], "successors": []}
+{"name": "Bus_transport_in_Canberra", "id": 20971396, "predecessors": [{"name": "Transport_in_Canberra", "id": 54235107}, {"name": "Economy_of_Oceania", "id": 12074081}], "successors": []}

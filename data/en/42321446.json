@@ -1,1 +1,1 @@
-{"name": "Airliner_accidents_and_incidents_involving_fog", "id": 42321446, "predecessors": [{"name": "Aviation_accidents_and_incidents_involving_fog", "id": 42321440}], "successors": []}
+{"name": "Airliner_accidents_and_incidents_involving_fog", "id": 42321446, "predecessors": [{"name": "Airliner_accidents_and_incidents_caused_by_weather", "id": 33849073}, {"name": "Weather_hazards", "id": 2638252}], "successors": []}

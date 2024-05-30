@@ -1,1 +1,1 @@
-{"name": "Carboniferous_arachnids", "id": 47959226, "predecessors": [{"name": "Paleozoic_arachnids", "id": 47959171}], "successors": []}
+{"name": "Carboniferous_arachnids", "id": 47959226, "predecessors": [{"name": "Carboniferous_arthropods", "id": 41486078}, {"name": "Paleozoic_arachnids", "id": 47959171}], "successors": [{"name": "Trigonotarbids", "id": 23872727}]}

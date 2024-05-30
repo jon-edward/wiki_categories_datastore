@@ -1,1 +1,1 @@
-{"name": "Amusement_rides_manufactured_by_Zamperla", "id": 34601780, "predecessors": [{"name": "Amusement_ride_manufacturers", "id": 33489240}], "successors": [{"name": "Roller_coasters_manufactured_by_Zamperla", "id": 34601640}]}
+{"name": "Amusement_rides_manufactured_by_Zamperla", "id": 34601780, "predecessors": [{"name": "Manufacturing_companies_of_Italy", "id": 4869629}], "successors": [{"name": "Roller_coasters_manufactured_by_Zamperla", "id": 34601640}]}

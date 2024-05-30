@@ -1,1 +1,1 @@
-{"name": "Excipients", "id": 12250356, "predecessors": [{"name": "Dosage_forms", "id": 16073324}], "successors": [{"name": "Food_acidity_regulators", "id": 9904252}, {"name": "Edible_thickening_agents", "id": 865180}]}
+{"name": "Excipients", "id": 12250356, "predecessors": [{"name": "Dosage_forms", "id": 16073324}, {"name": "Drug_manufacturing", "id": 75520453}, {"name": "Food_additives", "id": 717916}], "successors": [{"name": "Food_acidity_regulators", "id": 9904252}]}

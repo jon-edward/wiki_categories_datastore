@@ -1,1 +1,1 @@
-{"name": "무기질", "id": 400874, "predecessors": [{"name": "영양소", "id": 28243}, {"name": "필수_영양소", "id": 28239}], "successors": [{"name": "무기질_결핍", "id": 3823799}]}
+{"name": "무기질", "id": 400874, "predecessors": [{"name": "영양소", "id": 28243}, {"name": "필수_영양소", "id": 28239}], "successors": []}

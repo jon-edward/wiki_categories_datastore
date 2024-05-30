@@ -1,1 +1,1 @@
-{"name": "Processats_per_la_Inquisició", "id": 1067322, "predecessors": [{"name": "Inquisició", "id": 360872}, {"name": "Administració_de_justícia", "id": 1590374}, {"name": "Principal", "id": 13225}], "successors": [{"name": "Executats_per_condemnes_inquisitorials", "id": 1067380}]}
+{"name": "Processats_per_la_Inquisició", "id": 1067322, "predecessors": [{"name": "Inquisició", "id": 360872}, {"name": "Biografies", "id": 16117}, {"name": "Administració_de_justícia", "id": 1590374}], "successors": [{"name": "Executats_per_condemnes_inquisitorials", "id": 1067380}]}

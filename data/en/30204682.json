@@ -1,1 +1,1 @@
-{"name": "Japanese_physiologists", "id": 30204682, "predecessors": [{"name": "Japanese_medical_researchers", "id": 38529919}], "successors": []}
+{"name": "Japanese_physiologists", "id": 30204682, "predecessors": [{"name": "Japanese_biologists", "id": 4249949}, {"name": "Japanese_medical_researchers", "id": 38529919}, {"name": "Physiologists", "id": 905822}], "successors": []}

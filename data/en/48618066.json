@@ -1,1 +1,1 @@
-{"name": "Portland_State_University_campus", "id": 48618066, "predecessors": [{"name": "Campuses", "id": 8525766}], "successors": [{"name": "Portland_State_University_buildings", "id": 55732771}]}
+{"name": "Portland_State_University_campus", "id": 48618066, "predecessors": [{"name": "Portland_State_University", "id": 11104244}, {"name": "Universities_and_colleges_in_the_United_States", "id": 1620371}], "successors": [{"name": "Portland_State_University_buildings", "id": 55732771}]}

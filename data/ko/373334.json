@@ -1,1 +1,1 @@
-{"name": "RCD_에스파뇰의_축구_선수", "id": 373334, "predecessors": [{"name": "RCD_에스파뇰", "id": 373332}], "successors": [{"name": "RCD_에스파뇰_B의_축구_선수", "id": 3096470}]}
+{"name": "RCD_에스파뇰의_축구_선수", "id": 373334, "predecessors": [{"name": "RCD_에스파뇰", "id": 373332}, {"name": "축구인", "id": 458036}], "successors": [{"name": "RCD_에스파뇰_B의_축구_선수", "id": 3096470}]}

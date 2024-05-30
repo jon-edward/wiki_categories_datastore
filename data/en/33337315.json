@@ -1,1 +1,1 @@
-{"name": "Extraterrestrial_aircraft", "id": 33337315, "predecessors": [{"name": "Aircraft_by_type", "id": 4749432}, {"name": "Extraterrestrial_atmosphere_entry", "id": 52783955}], "successors": []}
+{"name": "Extraterrestrial_aircraft", "id": 33337315, "predecessors": [{"name": "Aircraft_related_to_spaceflight", "id": 64347334}, {"name": "Extraterrestrial_atmosphere_entry", "id": 52783955}, {"name": "Space_probes", "id": 23636920}], "successors": []}

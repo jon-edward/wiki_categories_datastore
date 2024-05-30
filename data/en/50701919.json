@@ -1,1 +1,1 @@
-{"name": "Wholesaling", "id": 50701919, "predecessors": [{"name": "Distribution_(marketing)", "id": 1232228}, {"name": "Trade", "id": 18526113}], "successors": []}
+{"name": "Wholesaling", "id": 50701919, "predecessors": [{"name": "Distribution_(marketing)", "id": 1232228}, {"name": "Trade", "id": 18526113}], "successors": [{"name": "Wholesale_markets", "id": 21600704}]}

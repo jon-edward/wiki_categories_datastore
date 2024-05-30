@@ -1,1 +1,1 @@
-{"name": "DNA-binding_substances", "id": 22278864, "predecessors": [{"name": "DNA", "id": 745820}, {"name": "Drugs_by_mechanism_of_action", "id": 22001991}, {"name": "Genetics_techniques", "id": 68202999}], "successors": []}
+{"name": "DNA-binding_substances", "id": 22278864, "predecessors": [{"name": "Chemical_compounds", "id": 695235}, {"name": "DNA", "id": 745820}, {"name": "Drugs_by_mechanism_of_action", "id": 22001991}], "successors": [{"name": "DNA-binding_proteins", "id": 6751653}, {"name": "DNA_intercalaters", "id": 54629572}]}

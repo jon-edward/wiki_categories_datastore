@@ -1,0 +1,1 @@
+{"name": "Dinner", "id": 49788090, "predecessors": [{"name": "Evening", "id": 51046174}, {"name": "Meals", "id": 782512}], "successors": [{"name": "Dinner_theatre", "id": 28747933}, {"name": "Courses_(food)", "id": 54158696}, {"name": "Dining_etiquette", "id": 61114240}]}

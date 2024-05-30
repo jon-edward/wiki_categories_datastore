@@ -1,1 +1,1 @@
-{"name": "Fibonacci_numbers", "id": 4161653, "predecessors": [{"name": "Golden_ratio", "id": 4175676}, {"name": "Integer_sequences", "id": 693721}, {"name": "Recurrence_relations", "id": 1590272}], "successors": []}
+{"name": "Fibonacci_numbers", "id": 4161653, "predecessors": [{"name": "Integer_sequences", "id": 693721}, {"name": "Recurrence_relations", "id": 1590272}], "successors": []}

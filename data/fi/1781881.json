@@ -1,1 +1,1 @@
-{"name": "Norjan_tieliikennesillat", "id": 1781881, "predecessors": [{"name": "Tieliikennesillat", "id": 1476678}, {"name": "Sillat", "id": 25189}, {"name": "Tieliikenne", "id": 53115}], "successors": []}
+{"name": "Norjan_tieliikennesillat", "id": 1781881, "predecessors": [{"name": "Tieliikennesillat", "id": 1476678}, {"name": "Norjan_rakennukset_ja_rakennelmat", "id": 240640}, {"name": "Tieliikenne", "id": 53115}], "successors": []}

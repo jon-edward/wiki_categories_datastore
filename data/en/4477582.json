@@ -1,1 +1,1 @@
-{"name": "Caves_of_Italy", "id": 4477582, "predecessors": [{"name": "Tourism_in_Italy", "id": 2637056}], "successors": [{"name": "Show_caves_in_Italy", "id": 34715819}, {"name": "Caves_of_Campania", "id": 56289484}]}
+{"name": "Caves_of_Italy", "id": 4477582, "predecessors": [{"name": "Tourism_in_Italy", "id": 2637056}, {"name": "Geography_of_Italy", "id": 1048779}], "successors": [{"name": "Show_caves_in_Italy", "id": 34715819}, {"name": "Caves_of_Campania", "id": 56289484}]}

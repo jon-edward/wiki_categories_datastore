@@ -1,0 +1,1 @@
+{"name": "Tuna", "id": 39651019, "predecessors": [{"name": "Commercial_fish", "id": 17539360}, {"name": "Game_fish", "id": 17553254}, {"name": "Oily_fish", "id": 23007289}], "successors": [{"name": "Thunnus", "id": 28275351}, {"name": "Tuna_dishes", "id": 36008145}]}

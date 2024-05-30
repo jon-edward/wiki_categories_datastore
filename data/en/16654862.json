@@ -1,1 +1,1 @@
-{"name": "Database_algorithms", "id": 16654862, "predecessors": [{"name": "Database_theory", "id": 10221974}, {"name": "Databases", "id": 2276471}], "successors": []}
+{"name": "Database_algorithms", "id": 16654862, "predecessors": [{"name": "Algorithms", "id": 691136}, {"name": "Database_theory", "id": 10221974}, {"name": "Databases", "id": 2276471}], "successors": []}

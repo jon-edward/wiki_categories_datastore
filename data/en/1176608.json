@@ -1,1 +1,1 @@
-{"name": "Railway_weapons", "id": 1176608, "predecessors": [{"name": "Military_railway_equipment", "id": 16727528}, {"name": "Weapons", "id": 698507}], "successors": [{"name": "Railway_guns", "id": 1093435}, {"name": "Great_Locomotive_Chase", "id": 63880765}]}
+{"name": "Railway_weapons", "id": 1176608, "predecessors": [{"name": "Military_railway_equipment", "id": 16727528}], "successors": [{"name": "Railway_guns", "id": 1093435}, {"name": "Great_Locomotive_Chase", "id": 63880765}]}

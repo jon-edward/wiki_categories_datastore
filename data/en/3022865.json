@@ -1,1 +1,1 @@
-{"name": "Gas_laws", "id": 3022865, "predecessors": [{"name": "Empirical_laws", "id": 2269809}, {"name": "Gas_technologies", "id": 19500591}, {"name": "Gases", "id": 1645013}], "successors": []}
+{"name": "Gas_laws", "id": 3022865, "predecessors": [{"name": "Gas_technologies", "id": 19500591}, {"name": "Gases", "id": 1645013}], "successors": []}

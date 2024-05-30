@@ -1,1 +1,1 @@
-{"name": "Government_of_Allegheny_County,_Pennsylvania", "id": 30320746, "predecessors": [{"name": "Government_of_Pennsylvania", "id": 1077849}], "successors": [{"name": "Government_of_Pittsburgh", "id": 24710176}]}
+{"name": "Government_of_Allegheny_County,_Pennsylvania", "id": 30320746, "predecessors": [{"name": "Allegheny_County,_Pennsylvania", "id": 900272}, {"name": "Government_of_Pennsylvania", "id": 1077849}], "successors": [{"name": "Government_of_Pittsburgh", "id": 24710176}, {"name": "District_attorneys_in_Allegheny_County,_Pennsylvania", "id": 75996926}]}

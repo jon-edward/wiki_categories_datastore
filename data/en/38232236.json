@@ -1,1 +1,1 @@
-{"name": "Muni_Metro_line_templates", "id": 38232236, "predecessors": [{"name": "Muni_Metro", "id": 18456187}], "successors": []}
+{"name": "Muni_Metro_line_templates", "id": 38232236, "predecessors": [{"name": "Muni_Metro", "id": 18456187}, {"name": "United_States_light_rail_templates", "id": 54121112}], "successors": []}

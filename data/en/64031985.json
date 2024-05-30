@@ -1,1 +1,1 @@
-{"name": "Chinese_anthologies", "id": 64031985, "predecessors": [{"name": "Chinese_books", "id": 44243133}], "successors": [{"name": "Chinese_poetry_anthologies", "id": 64031967}]}
+{"name": "Chinese_anthologies", "id": 64031985, "predecessors": [{"name": "Chinese_books", "id": 44243133}, {"name": "Anthologies", "id": 1507248}], "successors": [{"name": "Chinese_poetry_anthologies", "id": 64031967}]}

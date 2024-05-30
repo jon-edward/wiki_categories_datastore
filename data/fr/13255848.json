@@ -1,1 +1,1 @@
-{"name": "Forme_hélicoïdale", "id": 13255848, "predecessors": [{"name": "Forme_géométrique", "id": 3290261}, {"name": "Mécanique_classique", "id": 177239}], "successors": [{"name": "Helicidae", "id": 5104868}, {"name": "Hélice_(biochimie)", "id": 15603563}]}
+{"name": "Forme_hélicoïdale", "id": 13255848, "predecessors": [{"name": "Forme_géométrique", "id": 3290261}, {"name": "Mécanique_classique", "id": 177239}], "successors": [{"name": "Helicidae", "id": 5104868}, {"name": "Hélice", "id": 15603532}, {"name": "Hélice_(biochimie)", "id": 15603563}]}

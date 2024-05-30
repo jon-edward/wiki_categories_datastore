@@ -1,1 +1,1 @@
-{"name": "MIPS_운영_체제", "id": 2292086, "predecessors": [{"name": "운영체제", "id": 42780}], "successors": [{"name": "안드로이드_(운영체제)", "id": 428698}]}
+{"name": "MIPS_운영_체제", "id": 2292086, "predecessors": [{"name": "명령어_집합_구조", "id": 2302239}, {"name": "컴퓨터_구조", "id": 52513}], "successors": [{"name": "안드로이드_(운영체제)", "id": 428698}]}

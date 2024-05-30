@@ -1,1 +1,0 @@
-{"name": "Animal_hair_products", "id": 3135689, "predecessors": [{"name": "Animal_hair", "id": 10156141}, {"name": "Animal_products", "id": 2304680}, {"name": "Fibers", "id": 1436866}], "successors": [{"name": "Fur", "id": 2220717}, {"name": "Cashmere_wool", "id": 55648946}]}

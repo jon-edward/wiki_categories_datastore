@@ -1,1 +1,1 @@
-{"name": "Bacon", "id": 22719439, "predecessors": [{"name": "Charcuterie", "id": 19146404}, {"name": "Pork", "id": 2258593}], "successors": [{"name": "Bacon_dishes", "id": 21853919}]}
+{"name": "Bacon", "id": 22719439, "predecessors": [{"name": "Charcuterie", "id": 19146404}, {"name": "Pork", "id": 2258593}], "successors": [{"name": "Bacon_dishes", "id": 21853919}, {"name": "Books_about_bacon", "id": 25412843}]}

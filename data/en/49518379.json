@@ -1,1 +1,1 @@
-{"name": "Paleogene_fish_of_Europe", "id": 49518379, "predecessors": [{"name": "Paleogene_animals_of_Europe", "id": 47564105}, {"name": "Animal_death", "id": 33166047}], "successors": []}
+{"name": "Paleogene_fish_of_Europe", "id": 49518379, "predecessors": [{"name": "Paleogene_animals_of_Europe", "id": 47564105}, {"name": "Cenozoic", "id": 1783752}], "successors": [{"name": "Eocene_fish_of_Europe", "id": 49518372}]}

@@ -1,1 +1,1 @@
-{"name": "Thatched_buildings_in_England", "id": 55695189, "predecessors": [{"name": "Buildings_and_structures_in_England", "id": 3291545}], "successors": [{"name": "Thatched_buildings_in_Somerset", "id": 55703851}]}
+{"name": "Thatched_buildings_in_England", "id": 55695189, "predecessors": [{"name": "Buildings_and_structures_in_England", "id": 3291545}, {"name": "Thatched_buildings", "id": 34277853}], "successors": [{"name": "Thatched_buildings_in_Somerset", "id": 55703851}]}

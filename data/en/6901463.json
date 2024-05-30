@@ -1,1 +1,1 @@
-{"name": "Cereal_bars", "id": 6901463, "predecessors": [{"name": "Breakfast_cereals", "id": 1069646}], "successors": []}
+{"name": "Cereal_bars", "id": 6901463, "predecessors": [{"name": "Breakfast_cereals", "id": 1069646}, {"name": "Snack_foods", "id": 732123}], "successors": []}

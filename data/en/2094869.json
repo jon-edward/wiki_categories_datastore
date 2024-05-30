@@ -1,1 +1,1 @@
-{"name": "Information_technology_audit", "id": 2094869, "predecessors": [{"name": "IT_risk_management", "id": 42938083}], "successors": []}
+{"name": "Information_technology_audit", "id": 2094869, "predecessors": [{"name": "IT_risk_management", "id": 42938083}, {"name": "Types_of_auditing", "id": 52676894}], "successors": []}

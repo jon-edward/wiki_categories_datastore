@@ -1,1 +1,1 @@
-{"name": "Ajax", "id": 1592011, "predecessors": [{"name": "XML", "id": 29844}, {"name": "웹_2.0", "id": 72342}, {"name": "웹_개발", "id": 361127}, {"name": "자바스크립트", "id": 146237}], "successors": [{"name": "JSON", "id": 1592012}]}
+{"name": "Ajax", "id": 1592011, "predecessors": [{"name": "XML", "id": 29844}, {"name": "웹_개발", "id": 361127}, {"name": "자바스크립트", "id": 146237}], "successors": [{"name": "JSON", "id": 1592012}]}

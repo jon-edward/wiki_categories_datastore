@@ -1,1 +1,1 @@
-{"name": "Korean_seafood_dishes", "id": 56516977, "predecessors": [{"name": "Korean_seafood", "id": 54332590}], "successors": []}
+{"name": "Korean_seafood_dishes", "id": 56516977, "predecessors": [{"name": "Korean_cuisine", "id": 805747}, {"name": "Korean_seafood", "id": 54332590}], "successors": []}

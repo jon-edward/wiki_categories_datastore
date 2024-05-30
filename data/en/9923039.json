@@ -1,1 +1,1 @@
-{"name": "Granada_CF_managers", "id": 9923039, "predecessors": [{"name": "Granada_CF", "id": 9350156}], "successors": [{"name": "Club_Recreativo_Granada_managers", "id": 72858207}]}
+{"name": "Granada_CF_managers", "id": 9923039, "predecessors": [{"name": "Granada_CF", "id": 9350156}, {"name": "Sport_in_Spain", "id": 3058492}], "successors": [{"name": "Club_Recreativo_Granada_managers", "id": 72858207}]}

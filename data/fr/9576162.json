@@ -1,1 +1,1 @@
-{"name": "Étudiant_de_l'université_pontificale_de_Salamanque", "id": 9576162, "predecessors": [{"name": "Salamanque", "id": 4923405}, {"name": "Enseignement_en_Espagne", "id": 589069}], "successors": []}
+{"name": "Étudiant_de_l'université_pontificale_de_Salamanque", "id": 9576162, "predecessors": [{"name": "Université_en_Espagne", "id": 486333}, {"name": "Salamanque", "id": 4923405}], "successors": []}

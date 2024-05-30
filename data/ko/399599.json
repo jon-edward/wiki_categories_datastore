@@ -1,1 +1,1 @@
-{"name": "UC_삼프도리아의_축구_감독", "id": 399599, "predecessors": [{"name": "UC_삼프도리아", "id": 346458}], "successors": []}
+{"name": "UC_삼프도리아의_축구_감독", "id": 399599, "predecessors": [{"name": "UC_삼프도리아", "id": 346458}, {"name": "스포츠_지도자", "id": 2453021}], "successors": []}

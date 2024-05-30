@@ -1,1 +1,1 @@
-{"name": "Majority", "id": 40606672, "predecessors": [{"name": "Elections", "id": 792537}, {"name": "Voting_theory", "id": 1182175}], "successors": [{"name": "Filibuster", "id": 40606646}, {"name": "Consensus", "id": 41564709}]}
+{"name": "Majority", "id": 40606672, "predecessors": [{"name": "Elections", "id": 792537}, {"name": "Majority–minority_relations", "id": 35065156}, {"name": "Voting_theory", "id": 1182175}], "successors": [{"name": "Filibuster", "id": 40606646}, {"name": "Consensus", "id": 41564709}]}

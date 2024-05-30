@@ -1,1 +1,1 @@
-{"name": "사형된_간첩", "id": 1305334, "predecessors": [{"name": "간첩_행위", "id": 765201}, {"name": "직업별_사람", "id": 37930}], "successors": []}
+{"name": "사형된_간첩", "id": 1305334, "predecessors": [{"name": "사형된_사람", "id": 95680}, {"name": "범죄인", "id": 44023}], "successors": []}

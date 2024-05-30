@@ -1,1 +1,1 @@
-{"name": "Working_horses", "id": 16288787, "predecessors": [{"name": "Working_animals", "id": 17697068}], "successors": [{"name": "Warhorses", "id": 3516031}, {"name": "Draft_horses", "id": 49802350}, {"name": "Horse_actors", "id": 60095102}]}
+{"name": "Working_horses", "id": 16288787, "predecessors": [{"name": "Working_animals", "id": 17697068}, {"name": "Horses", "id": 893812}], "successors": [{"name": "Draft_horses", "id": 49802350}, {"name": "Horse_actors", "id": 60095102}]}

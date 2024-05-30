@@ -1,1 +1,1 @@
-{"name": "Web_server_software", "id": 969304, "predecessors": [{"name": "Hypertext_Transfer_Protocol", "id": 40512229}, {"name": "Servers_(computing)", "id": 34556923}], "successors": [{"name": "Free_web_server_software", "id": 6961328}, {"name": "Web_server_management_software", "id": 10121916}, {"name": "Web_server_software_for_Linux", "id": 42469939}]}
+{"name": "Web_server_software", "id": 969304, "predecessors": [{"name": "Hypertext_Transfer_Protocol", "id": 40512229}], "successors": [{"name": "Web_server_software_for_Linux", "id": 42469939}]}

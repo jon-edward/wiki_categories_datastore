@@ -1,1 +1,1 @@
-{"name": "Drug-related_suicides_in_Switzerland", "id": 24187489, "predecessors": [{"name": "Suicides_in_Switzerland", "id": 18084342}, {"name": "Health_in_Europe", "id": 29366955}], "successors": []}
+{"name": "Drug-related_suicides_in_Switzerland", "id": 24187489, "predecessors": [{"name": "Drug-related_suicides", "id": 4577095}, {"name": "Suicides_in_Switzerland", "id": 18084342}, {"name": "Health_in_Europe", "id": 29366955}], "successors": []}

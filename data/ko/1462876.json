@@ -1,1 +1,1 @@
-{"name": "공항_테러", "id": 1462876, "predecessors": [{"name": "건축물_테러", "id": 1513555}, {"name": "공항", "id": 29754}, {"name": "보안", "id": 326595}], "successors": []}
+{"name": "공항_테러", "id": 1462876, "predecessors": [{"name": "건축물_테러", "id": 1513555}, {"name": "사건", "id": 254852}], "successors": []}

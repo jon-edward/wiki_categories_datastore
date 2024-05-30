@@ -1,1 +1,1 @@
-{"name": "재난_등급", "id": 1478168, "predecessors": [{"name": "위험관리", "id": 699060}, {"name": "응용통계학", "id": 846809}], "successors": [{"name": "지진_등급", "id": 1478166}]}
+{"name": "재난_등급", "id": 1478168, "predecessors": [{"name": "위험관리", "id": 699060}], "successors": [{"name": "지진_등급", "id": 1478166}]}

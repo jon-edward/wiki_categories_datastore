@@ -1,1 +1,1 @@
-{"name": "Fictional_spacecraft", "id": 785781, "predecessors": [{"name": "Fictional_vehicles", "id": 2011749}], "successors": [{"name": "Star_Wars_spacecraft", "id": 913959}, {"name": "Fictional_spacecraft_by_type", "id": 47758349}]}
+{"name": "Fictional_spacecraft", "id": 785781, "predecessors": [{"name": "Fiction_about_spaceflight", "id": 51585279}, {"name": "Fictional_vehicles", "id": 2011749}, {"name": "Spacecraft", "id": 723329}], "successors": [{"name": "Star_Wars_spacecraft", "id": 913959}]}

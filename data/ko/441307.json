@@ -1,1 +1,1 @@
-{"name": "서울_SK_나이츠", "id": 441307, "predecessors": [{"name": "SK스포츠", "id": 749613}, {"name": "SK텔레콤", "id": 230390}, {"name": "한국농구연맹_팀", "id": 108834}], "successors": []}
+{"name": "서울_SK_나이츠", "id": 441307, "predecessors": [{"name": "SK스포츠", "id": 749613}, {"name": "SK텔레콤", "id": 230390}, {"name": "서울특별시의_스포츠", "id": 83522}, {"name": "한국농구연맹_팀", "id": 108834}], "successors": [{"name": "서울_SK_나이츠_선수", "id": 106937}]}

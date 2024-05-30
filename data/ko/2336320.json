@@ -1,1 +1,1 @@
-{"name": "밀국수", "id": 2336320, "predecessors": [{"name": "국수", "id": 1881888}, {"name": "밀_요리", "id": 2011757}], "successors": [{"name": "우동", "id": 558415}]}
+{"name": "밀국수", "id": 2336320, "predecessors": [{"name": "밀_요리", "id": 2011757}], "successors": [{"name": "우동", "id": 558415}]}

@@ -1,1 +1,1 @@
-{"name": "Swedish_jazz_composers", "id": 12095098, "predecessors": [{"name": "Swedish_jazz_musicians", "id": 2057658}], "successors": [{"name": "Swedish_male_jazz_composers", "id": 76584730}]}
+{"name": "Swedish_jazz_composers", "id": 12095098, "predecessors": [{"name": "Swedish_composers", "id": 922517}, {"name": "Swedish_jazz_musicians", "id": 2057658}], "successors": [{"name": "Swedish_male_jazz_composers", "id": 76584730}]}

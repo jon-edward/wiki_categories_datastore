@@ -1,1 +1,1 @@
-{"name": "Semiconductor_growth", "id": 14118502, "predecessors": [{"name": "Semiconductor_device_fabrication", "id": 1274670}], "successors": []}
+{"name": "Semiconductor_growth", "id": 14118502, "predecessors": [{"name": "Semiconductor_device_fabrication", "id": 1274670}, {"name": "Semiconductors", "id": 692856}], "successors": []}

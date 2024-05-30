@@ -1,1 +1,1 @@
-{"name": "Fires_in_Hong_Kong", "id": 8679164, "predecessors": [{"name": "Events_in_Hong_Kong", "id": 25224915}, {"name": "Chinese_culture", "id": 715451}], "successors": []}
+{"name": "Fires_in_Hong_Kong", "id": 8679164, "predecessors": [{"name": "Fires_in_China", "id": 19491465}, {"name": "Urban_fires_in_Asia", "id": 60061529}, {"name": "Events_in_Hong_Kong", "id": 25224915}], "successors": []}

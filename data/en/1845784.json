@@ -1,1 +1,1 @@
-{"name": "Edible_seaweeds", "id": 1845784, "predecessors": [{"name": "Seafood", "id": 1770408}, {"name": "Seaweeds", "id": 18487922}, {"name": "Vegetables", "id": 699347}], "successors": []}
+{"name": "Edible_seaweeds", "id": 1845784, "predecessors": [{"name": "Edible_algae", "id": 22713041}, {"name": "Seafood", "id": 1770408}, {"name": "Seaweeds", "id": 18487922}, {"name": "Vegetables", "id": 699347}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Fumaroles", "id": 55683616, "predecessors": [{"name": "Volcanic_degassing", "id": 64791286}], "successors": []}
+{"name": "Fumaroles", "id": 55683616, "predecessors": [{"name": "Geothermal_areas", "id": 64791407}, {"name": "Volcanic_degassing", "id": 64791286}, {"name": "Volcanism", "id": 22850864}], "successors": []}

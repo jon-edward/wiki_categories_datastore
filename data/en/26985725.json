@@ -1,1 +1,1 @@
-{"name": "Energy-saving_lighting", "id": 26985725, "predecessors": [{"name": "Lighting", "id": 927824}, {"name": "Low-energy_building", "id": 5224936}, {"name": "Sustainable_building", "id": 13411511}], "successors": [{"name": "Light-emitting_diodes", "id": 21606199}]}
+{"name": "Energy-saving_lighting", "id": 26985725, "predecessors": [{"name": "Lighting", "id": 927824}, {"name": "Low-energy_building", "id": 5224936}, {"name": "Sustainable_building", "id": 13411511}], "successors": []}

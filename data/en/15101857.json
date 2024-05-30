@@ -1,1 +1,1 @@
-{"name": "Medical_models", "id": 15101857, "predecessors": [{"name": "Conceptual_models", "id": 1162192}, {"name": "Scientific_theories", "id": 21991760}], "successors": []}
+{"name": "Medical_models", "id": 15101857, "predecessors": [{"name": "Scientific_theories", "id": 21991760}], "successors": [{"name": "Personalized_medicine", "id": 69613798}]}

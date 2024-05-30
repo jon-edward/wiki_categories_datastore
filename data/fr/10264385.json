@@ -1,1 +1,1 @@
-{"name": "Film_de_Netflix", "id": 10264385, "predecessors": [{"name": "Film_sorti_directement_en_vidéo", "id": 1085756}, {"name": "Économie", "id": 81630}, {"name": "Société_de_production_de_cinéma", "id": 353660}], "successors": [{"name": "Film_de_Netflix_Animation", "id": 15613582}]}
+{"name": "Film_de_Netflix", "id": 10264385, "predecessors": [{"name": "Film_sorti_directement_en_vidéo", "id": 1085756}, {"name": "Économie", "id": 81630}, {"name": "Entreprise_du_cinéma", "id": 2213312}], "successors": [{"name": "Film_de_Netflix_Animation", "id": 15613582}]}

@@ -1,1 +1,1 @@
-{"name": "선거구_획정", "id": 2657249, "predecessors": [{"name": "정치지리학", "id": 23349}], "successors": []}
+{"name": "선거구_획정", "id": 2657249, "predecessors": [{"name": "선거구", "id": 721940}, {"name": "정치지리학", "id": 23349}], "successors": [{"name": "대한민국의_선거구_획정", "id": 2657139}]}

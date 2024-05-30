@@ -1,1 +1,1 @@
-{"name": "Islands_of_the_Nile", "id": 25712100, "predecessors": [{"name": "Nile", "id": 1020181}], "successors": [{"name": "Gezira_Island", "id": 30764935}]}
+{"name": "Islands_of_the_Nile", "id": 25712100, "predecessors": [{"name": "Islands_of_Africa", "id": 948309}, {"name": "Nile", "id": 1020181}], "successors": [{"name": "Gezira_Island", "id": 30764935}]}

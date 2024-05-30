@@ -1,1 +1,1 @@
-{"name": "Extinct_insect_orders", "id": 42217262, "predecessors": [{"name": "Animal_death", "id": 33166047}], "successors": []}
+{"name": "Extinct_insect_orders", "id": 42217262, "predecessors": [{"name": "Insect_orders", "id": 42217242}, {"name": "Arthropod_taxonomy", "id": 44143365}], "successors": []}

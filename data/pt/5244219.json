@@ -1,1 +1,1 @@
-{"name": "Bacharéis_em_direito_do_Paraná", "id": 5244219, "predecessors": [{"name": "Naturais_do_Paraná", "id": 2828386}, {"name": "Bacharéis_em_direito_do_Brasil", "id": 5240948}], "successors": [{"name": "Advogados_do_Paraná", "id": 2553351}, {"name": "Juristas_do_Paraná", "id": 4895386}]}
+{"name": "Bacharéis_em_direito_do_Paraná", "id": 5244219, "predecessors": [{"name": "Naturais_do_Paraná", "id": 2828386}, {"name": "Direito_do_Brasil", "id": 127438}], "successors": [{"name": "Advogados_do_Paraná", "id": 2553351}, {"name": "Juristas_do_Paraná", "id": 4895386}]}

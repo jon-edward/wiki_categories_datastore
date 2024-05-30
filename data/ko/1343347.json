@@ -1,1 +1,1 @@
-{"name": "탄도탄_요격_미사일", "id": 1343347, "predecessors": [{"name": "미사일_방어", "id": 1330736}], "successors": []}
+{"name": "탄도탄_요격_미사일", "id": 1343347, "predecessors": [{"name": "미사일_방어", "id": 1330736}, {"name": "미사일", "id": 1330728}], "successors": []}

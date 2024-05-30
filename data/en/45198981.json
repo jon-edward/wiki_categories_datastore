@@ -1,1 +1,1 @@
-{"name": "Types_of_lamp", "id": 45198981, "predecessors": [{"name": "Electrical_components", "id": 709571}, {"name": "Glass_applications", "id": 15377712}, {"name": "Lighting", "id": 927824}], "successors": [{"name": "Gas_discharge_lamps", "id": 15802367}, {"name": "Incandescent_light_bulbs", "id": 15802893}, {"name": "Automotive_lamps", "id": 44012950}]}
+{"name": "Types_of_lamp", "id": 45198981, "predecessors": [{"name": "Lighting", "id": 927824}], "successors": [{"name": "Automotive_lamps", "id": 44012950}]}

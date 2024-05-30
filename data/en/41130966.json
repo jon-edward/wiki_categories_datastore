@@ -1,1 +1,1 @@
-{"name": "Free_DICOM_software", "id": 41130966, "predecessors": [{"name": "Free_bioinformatics_software", "id": 34311333}, {"name": "Free_health_care_software", "id": 34594700}, {"name": "Free_image_viewers", "id": 6988385}, {"name": "Bioinformatics_software", "id": 10354259}], "successors": []}
+{"name": "Free_DICOM_software", "id": 41130966, "predecessors": [{"name": "Bioinformatics_software", "id": 10354259}], "successors": []}

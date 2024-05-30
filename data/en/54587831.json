@@ -1,1 +1,1 @@
-{"name": "Late_Jurassic_genus_first_appearances", "id": 54587831, "predecessors": [{"name": "Late_Jurassic_first_appearances", "id": 46668920}, {"name": "Jurassic_first_appearances", "id": 46563010}], "successors": []}
+{"name": "Late_Jurassic_genus_first_appearances", "id": 54587831, "predecessors": [{"name": "Late_Jurassic_first_appearances", "id": 46668920}, {"name": "Jurassic_first_appearances", "id": 46563010}, {"name": "Earth", "id": 754965}], "successors": [{"name": "Kimmeridgian_genus_first_appearances", "id": 67624643}]}

@@ -1,0 +1,1 @@
+{"name": "Flight_phases", "id": 24048238, "predecessors": [{"name": "Aircraft_operations", "id": 34026537}, {"name": "Aerodynamics", "id": 1303037}], "successors": [{"name": "Atmospheric_entry", "id": 46579951}]}

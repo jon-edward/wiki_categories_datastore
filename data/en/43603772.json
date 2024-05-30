@@ -1,1 +1,1 @@
-{"name": "Oyster_bars", "id": 43603772, "predecessors": [{"name": "Seafood_restaurants", "id": 2359360}], "successors": [{"name": "Oyster_bars_in_the_United_States", "id": 72441484}]}
+{"name": "Oyster_bars", "id": 43603772, "predecessors": [{"name": "Oysters", "id": 38607209}, {"name": "Seafood_restaurants", "id": 2359360}], "successors": [{"name": "Oyster_bars_in_the_United_States", "id": 72441484}]}

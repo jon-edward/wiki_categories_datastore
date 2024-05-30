@@ -1,1 +1,1 @@
-{"name": "Ingeniería_naval", "id": 5188436, "predecessors": [{"name": "Náutica", "id": 66045}, {"name": "Barcos", "id": 66044}], "successors": [{"name": "Ingenieros_navales", "id": 5986277}]}
+{"name": "Ingeniería_naval", "id": 5188436, "predecessors": [{"name": "Ingeniería_por_tipo", "id": 5188449}, {"name": "Náutica", "id": 66045}, {"name": "Barcos", "id": 66044}], "successors": [{"name": "Ingenieros_navales", "id": 5986277}]}

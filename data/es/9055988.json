@@ -1,1 +1,1 @@
-{"name": "Pastores_protestantes", "id": 9055988, "predecessors": [{"name": "Protestantes", "id": 1702679}, {"name": "Religiosos_cristianos", "id": 552478}, {"name": "Ocupaciones_religiosas", "id": 2296619}], "successors": [{"name": "Ministros_religiosos_protestantes", "id": 1389441}]}
+{"name": "Pastores_protestantes", "id": 9055988, "predecessors": [{"name": "Protestantes", "id": 1702679}, {"name": "Grupos_sociales", "id": 329683}], "successors": [{"name": "Ministros_religiosos_protestantes", "id": 1389441}]}

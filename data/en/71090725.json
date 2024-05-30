@@ -1,1 +1,1 @@
-{"name": "Chicago_\"L\"_lines", "id": 71090725, "predecessors": [{"name": "Electric_railways_in_Illinois", "id": 30662609}, {"name": "Underground_rapid_transit_in_the_United_States", "id": 12280170}], "successors": []}
+{"name": "Chicago_\"L\"_lines", "id": 71090725, "predecessors": [{"name": "Chicago_Transit_Authority", "id": 2841503}, {"name": "Underground_rapid_transit_in_the_United_States", "id": 12280170}], "successors": []}

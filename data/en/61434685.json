@@ -1,1 +1,1 @@
-{"name": "Lactols", "id": 61434685, "predecessors": [{"name": "Functional_groups", "id": 724516}, {"name": "Acetals", "id": 3237657}, {"name": "Ketals", "id": 4833120}], "successors": [{"name": "Pyranoses", "id": 60957955}, {"name": "Furanoses", "id": 75149401}]}
+{"name": "Lactols", "id": 61434685, "predecessors": [{"name": "Cyclic_ethers", "id": 61324828}, {"name": "Acetals", "id": 3237657}, {"name": "Ketals", "id": 4833120}], "successors": [{"name": "Pyranoses", "id": 60957955}, {"name": "Furanoses", "id": 75149401}]}

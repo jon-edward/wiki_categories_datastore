@@ -1,1 +1,1 @@
-{"name": "Jewellery_components", "id": 27466142, "predecessors": [{"name": "Jewellery", "id": 805647}], "successors": [{"name": "Gemstones", "id": 737200}]}
+{"name": "Jewellery_components", "id": 27466142, "predecessors": [{"name": "Jewellery", "id": 805647}, {"name": "Visual_arts_materials", "id": 1115350}], "successors": [{"name": "Gemstones", "id": 737200}]}

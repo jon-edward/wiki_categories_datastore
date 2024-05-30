@@ -1,1 +1,1 @@
-{"name": "ARM-based_home_computers", "id": 41273145, "predecessors": [{"name": "ARM_architecture", "id": 3291475}], "successors": []}
+{"name": "ARM-based_home_computers", "id": 41273145, "predecessors": [{"name": "ARM_architecture", "id": 3291475}, {"name": "Home_computers", "id": 707669}], "successors": []}

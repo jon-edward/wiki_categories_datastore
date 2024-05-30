@@ -1,1 +1,1 @@
-{"name": "Companies_based_in_Kyoto", "id": 42146106, "predecessors": [{"name": "Kyoto", "id": 1543284}], "successors": [{"name": "Manufacturing_companies_based_in_Kyoto", "id": 52542902}]}
+{"name": "Companies_based_in_Kyoto", "id": 42146106, "predecessors": [{"name": "Companies_of_Japan", "id": 736471}, {"name": "Kyoto", "id": 1543284}], "successors": [{"name": "Manufacturing_companies_based_in_Kyoto", "id": 52542902}]}

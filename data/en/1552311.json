@@ -1,1 +1,1 @@
-{"name": "Adhesives", "id": 1552311, "predecessors": [{"name": "Joining", "id": 8737559}], "successors": [{"name": "Adhesive_tape", "id": 1174752}]}
+{"name": "Adhesives", "id": 1552311, "predecessors": [{"name": "Artificial_materials", "id": 51591971}, {"name": "Conservation_and_restoration_materials", "id": 35248193}, {"name": "Joining", "id": 8737559}, {"name": "Visual_arts_materials", "id": 1115350}], "successors": [{"name": "Adhesive_tape", "id": 1174752}]}

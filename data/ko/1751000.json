@@ -1,1 +1,1 @@
-{"name": "생물정보학자", "id": 1751000, "predecessors": [{"name": "생물정보학", "id": 63374}, {"name": "컴퓨터_과학", "id": 352272}], "successors": []}
+{"name": "생물정보학자", "id": 1751000, "predecessors": [{"name": "생물정보학", "id": 63374}, {"name": "학문_분야", "id": 275046}], "successors": []}

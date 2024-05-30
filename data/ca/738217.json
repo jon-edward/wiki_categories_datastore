@@ -1,1 +1,1 @@
-{"name": "Impressors", "id": 738217, "predecessors": [{"name": "Impremta", "id": 738218}, {"name": "Principal", "id": 13225}, {"name": "Literatura", "id": 12396}], "successors": [{"name": "Impressors_catalans", "id": 995038}, {"name": "Impressors_francesos", "id": 1885078}]}
+{"name": "Impressors", "id": 738217, "predecessors": [{"name": "Impremta", "id": 738218}, {"name": "Biografies", "id": 16117}, {"name": "Literatura", "id": 12396}], "successors": [{"name": "Impressors_catalans", "id": 995038}, {"name": "Impressors_francesos", "id": 1885078}]}

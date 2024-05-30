@@ -1,1 +1,1 @@
-{"name": "Mid-engined_aircraft", "id": 27139604, "predecessors": [{"name": "Aircraft_configurations", "id": 1024208}, {"name": "Aircraft", "id": 694926}], "successors": []}
+{"name": "Mid-engined_aircraft", "id": 27139604, "predecessors": [{"name": "Aircraft_configurations", "id": 1024208}, {"name": "Aviation", "id": 735378}], "successors": [{"name": "Twin-engined_single-prop_pusher_aircraft", "id": 38977820}, {"name": "Single-engined_twin-prop_tractor_aircraft", "id": 38979531}, {"name": "Single-engined_twin-prop_pusher_aircraft", "id": 39018526}]}

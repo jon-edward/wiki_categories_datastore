@@ -1,1 +1,1 @@
-{"name": "Trump_group", "id": 59608745, "predecessors": [{"name": "Board_games", "id": 9205892}], "successors": [{"name": "Rams_group", "id": 59608465}, {"name": "Karnöffel_group", "id": 59608545}, {"name": "Euchre_group", "id": 59608701}]}
+{"name": "Trump_group", "id": 59608745, "predecessors": [{"name": "Games_of_mental_skill", "id": 8429389}], "successors": [{"name": "Rams_group", "id": 59608465}, {"name": "Karnöffel_group", "id": 59608545}, {"name": "Euchre_group", "id": 59608701}]}

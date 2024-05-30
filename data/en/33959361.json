@@ -1,1 +1,1 @@
-{"name": "Problems_on_strings", "id": 33959361, "predecessors": [{"name": "Algorithms_on_strings", "id": 704505}, {"name": "Formal_languages", "id": 699134}], "successors": []}
+{"name": "Problems_on_strings", "id": 33959361, "predecessors": [{"name": "Algorithms_on_strings", "id": 704505}, {"name": "Combinatorics_on_words", "id": 20913495}, {"name": "Formal_languages", "id": 699134}], "successors": []}

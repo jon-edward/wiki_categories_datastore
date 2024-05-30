@@ -1,1 +1,1 @@
-{"name": "Glass_trade_unions", "id": 41172134, "predecessors": [{"name": "Manufacturing_trade_unions", "id": 41311401}], "successors": []}
+{"name": "Glass_trade_unions", "id": 41172134, "predecessors": [{"name": "Glass_industry", "id": 52527274}, {"name": "Manufacturing_trade_unions", "id": 41311401}], "successors": []}

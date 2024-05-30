@@ -1,1 +1,1 @@
-{"name": "Information_architecture", "id": 52912241, "predecessors": [{"name": "Information_governance", "id": 50290347}, {"name": "Records_management", "id": 50290348}], "successors": [{"name": "Information_architects", "id": 1040205}]}
+{"name": "Information_architecture", "id": 52912241, "predecessors": [{"name": "Information_governance", "id": 50290347}, {"name": "Information_science", "id": 1009204}, {"name": "Technical_communication", "id": 1222842}], "successors": [{"name": "Information_architects", "id": 1040205}]}

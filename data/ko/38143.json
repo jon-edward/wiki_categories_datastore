@@ -1,1 +1,1 @@
-{"name": "선형동물", "id": 38143, "predecessors": [{"name": "동물분류학", "id": 1228868}], "successors": [{"name": "쌍선충강", "id": 457339}]}
+{"name": "선형동물", "id": 38143, "predecessors": [{"name": "동물분류학", "id": 1228868}, {"name": "탈피동물", "id": 1760824}], "successors": [{"name": "쌍선충강", "id": 457339}]}

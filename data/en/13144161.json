@@ -1,1 +1,1 @@
-{"name": "Hospitality_management", "id": 13144161, "predecessors": [{"name": "Hospitality_industry", "id": 13824113}, {"name": "Management_by_type", "id": 36812489}], "successors": []}
+{"name": "Hospitality_management", "id": 13144161, "predecessors": [{"name": "Hospitality_industry", "id": 13824113}, {"name": "Management_by_type", "id": 36812489}], "successors": [{"name": "Hospitality_schools", "id": 7580515}]}

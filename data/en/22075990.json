@@ -1,1 +1,1 @@
-{"name": "Agriculture_in_Nepal", "id": 22075990, "predecessors": [{"name": "Economy_of_Nepal", "id": 2724788}], "successors": [{"name": "Forestry_in_Nepal", "id": 40954124}, {"name": "Irrigation_in_Nepal", "id": 64450574}]}
+{"name": "Agriculture_in_Nepal", "id": 22075990, "predecessors": [{"name": "Agriculture_by_country", "id": 2300147}], "successors": [{"name": "Forestry_in_Nepal", "id": 40954124}, {"name": "Irrigation_in_Nepal", "id": 64450574}]}

@@ -1,1 +1,1 @@
-{"name": "Noc", "id": 1455896, "predecessors": [{"name": "Čas", "id": 4754}, {"name": "Části_dne", "id": 323408}], "successors": [{"name": "Spánek", "id": 371731}, {"name": "Noční_doprava", "id": 1455899}, {"name": "Noc_v_kultuře", "id": 1455903}]}
+{"name": "Noc", "id": 1455896, "predecessors": [{"name": "Čas", "id": 4754}, {"name": "Části_dne", "id": 323408}], "successors": [{"name": "Spánek", "id": 371731}, {"name": "Noční_kluby", "id": 509098}, {"name": "Noční_doprava", "id": 1455899}, {"name": "Noc_v_kultuře", "id": 1455903}]}

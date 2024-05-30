@@ -1,1 +1,1 @@
-{"name": "Biological_anti-agriculture_weapons", "id": 69473090, "predecessors": [{"name": "Biological_weapons", "id": 704835}, {"name": "Weapons", "id": 698507}], "successors": []}
+{"name": "Biological_anti-agriculture_weapons", "id": 69473090, "predecessors": [{"name": "Biological_weapons", "id": 704835}, {"name": "Agriculture", "id": 694871}], "successors": []}

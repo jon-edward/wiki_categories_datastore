@@ -1,1 +1,1 @@
-{"name": "Mining_equipment_companies", "id": 10926994, "predecessors": [{"name": "Mining_equipment", "id": 6796350}], "successors": [{"name": "Bucyrus-Erie", "id": 71249260}]}
+{"name": "Mining_equipment_companies", "id": 10926994, "predecessors": [{"name": "Mining_equipment", "id": 6796350}, {"name": "Subterranean_excavating_equipment_companies", "id": 59464798}], "successors": [{"name": "Bucyrus-Erie", "id": 71249260}]}

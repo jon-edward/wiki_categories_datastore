@@ -1,1 +1,1 @@
-{"name": "거리계_연동_카메라", "id": 3783988, "predecessors": [{"name": "유형별_카메라", "id": 1103274}], "successors": []}
+{"name": "거리계_카메라", "id": 3783988, "predecessors": [{"name": "유형별_카메라", "id": 1103274}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Hybrid_powertrain", "id": 3829147, "predecessors": [{"name": "Hybrid_vehicles", "id": 934650}, {"name": "Propulsion", "id": 881055}], "successors": []}
+{"name": "Hybrid_powertrain", "id": 3829147, "predecessors": [{"name": "Hybrid_vehicles", "id": 934650}], "successors": []}

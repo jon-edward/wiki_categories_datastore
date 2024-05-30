@@ -1,1 +1,1 @@
-{"name": "Mushroom_dishes", "id": 53396449, "predecessors": [{"name": "Vegetable_dishes", "id": 41995703}], "successors": []}
+{"name": "Mushroom_dishes", "id": 53396449, "predecessors": [{"name": "Edible_fungi", "id": 22255031}, {"name": "Vegetable_dishes", "id": 41995703}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Health_in_Nepal", "id": 9566298, "predecessors": [{"name": "Federal_republics", "id": 23861309}], "successors": [{"name": "Alcohol_in_Nepal", "id": 35596997}, {"name": "Health_ministers_of_Nepal", "id": 69628562}, {"name": "Hindu_rituals_related_to_death", "id": 33820102}, {"name": "Deaths_from_cancer_in_Nepal", "id": 55770895}]}
+{"name": "Health_in_Nepal", "id": 9566298, "predecessors": [{"name": "Health_by_country", "id": 2693630}, {"name": "Countries_in_Asia", "id": 37691781}], "successors": [{"name": "Alcohol_in_Nepal", "id": 35596997}]}

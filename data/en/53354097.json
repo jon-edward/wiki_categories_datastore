@@ -1,1 +1,1 @@
-{"name": "Maritime_history_organizations", "id": 53354097, "predecessors": [{"name": "Maritime_organizations", "id": 13919467}], "successors": [{"name": "Maritime_museums", "id": 707046}]}
+{"name": "Maritime_history_organizations", "id": 53354097, "predecessors": [{"name": "Maritime_history", "id": 3120048}, {"name": "Maritime_organizations", "id": 13919467}], "successors": [{"name": "Maritime_museums", "id": 707046}]}

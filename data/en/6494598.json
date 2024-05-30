@@ -1,1 +1,1 @@
-{"name": "Wineries_in_Western_Australia", "id": 6494598, "predecessors": [{"name": "Companies_based_in_Western_Australia", "id": 36619602}, {"name": "Tourist_attractions_in_Western_Australia", "id": 6048950}, {"name": "Wine_regions_of_Western_Australia", "id": 3761305}, {"name": "Agriculture_in_Australia", "id": 3718337}], "successors": []}
+{"name": "Wineries_in_Western_Australia", "id": 6494598, "predecessors": [{"name": "Wine_regions_of_Western_Australia", "id": 3761305}, {"name": "Agriculture_in_Australia", "id": 3718337}], "successors": []}

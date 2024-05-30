@@ -1,1 +1,1 @@
-{"name": "Microfinance_banks", "id": 57326517, "predecessors": [{"name": "Microfinance", "id": 3467160}], "successors": []}
+{"name": "Microfinance_banks", "id": 57326517, "predecessors": [{"name": "Banks", "id": 718748}, {"name": "Microfinance", "id": 3467160}], "successors": []}

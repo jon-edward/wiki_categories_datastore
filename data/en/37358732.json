@@ -1,1 +1,1 @@
-{"name": "Ammonia_fungi", "id": 37358732, "predecessors": [{"name": "Ammonia", "id": 60159369}, {"name": "Ammonium_compounds", "id": 903331}, {"name": "Metabolism", "id": 1135134}], "successors": []}
+{"name": "Ammonia_fungi", "id": 37358732, "predecessors": [{"name": "Metabolism", "id": 1135134}], "successors": []}

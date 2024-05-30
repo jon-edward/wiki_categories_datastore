@@ -1,1 +1,1 @@
-{"name": "Machine_tool_builders", "id": 19762290, "predecessors": [{"name": "Machine_tools", "id": 8475272}, {"name": "Machining", "id": 2687049}, {"name": "Tools", "id": 846098}], "successors": []}
+{"name": "Machine_tool_builders", "id": 19762290, "predecessors": [{"name": "Machine_tools", "id": 8475272}, {"name": "Machining", "id": 2687049}], "successors": []}

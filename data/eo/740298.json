@@ -1,1 +1,1 @@
-{"name": "Stacioj_de_la_metroo_de_Montrealo", "id": 740298, "predecessors": [{"name": "Metroo_de_Montrealo", "id": 740293}, {"name": "Fervoja_transporto", "id": 588553}], "successors": []}
+{"name": "Stacioj_de_la_metroo_de_Montrealo", "id": 740298, "predecessors": [{"name": "Metroo_de_Montrealo", "id": 740293}, {"name": "Fervojaj_stacioj", "id": 89971}], "successors": []}

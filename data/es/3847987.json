@@ -1,1 +1,1 @@
-{"name": "Químicos_explosivos", "id": 3847987, "predecessors": [{"name": "Explosivos", "id": 99103}, {"name": "Compuestos_químicos", "id": 112512}], "successors": [{"name": "Piridinas", "id": 3020019}]}
+{"name": "Químicos_explosivos", "id": 3847987, "predecessors": [{"name": "Explosivos", "id": 99103}, {"name": "Materiales", "id": 74562}], "successors": [{"name": "Piridinas", "id": 3020019}]}

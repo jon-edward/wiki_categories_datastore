@@ -1,1 +1,1 @@
-{"name": "스카이라이프", "id": 130984, "predecessors": [{"name": "KT", "id": 157706}], "successors": [{"name": "HCN", "id": 2891161}, {"name": "SkyTV의_텔레비전_네트워크", "id": 3323318}]}
+{"name": "스카이라이프", "id": 130984, "predecessors": [{"name": "KT", "id": 157706}, {"name": "대한민국의_방송국", "id": 204519}], "successors": [{"name": "HCN", "id": 2891161}, {"name": "SkyTV의_텔레비전_네트워크", "id": 3323318}, {"name": "ENA의_텔레비전_프로그램", "id": 3334161}, {"name": "ENA_플레이의_텔레비전_프로그램", "id": 3334163}]}

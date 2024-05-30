@@ -1,1 +1,1 @@
-{"name": "Motor_vehicles_manufactured_in_Canada", "id": 76194013, "predecessors": [{"name": "Automotive_industry_in_Canada", "id": 32152838}, {"name": "Economy_of_Canada", "id": 1611466}, {"name": "Transport_in_Canada", "id": 31046597}], "successors": []}
+{"name": "Motor_vehicles_manufactured_in_Canada", "id": 76194013, "predecessors": [{"name": "Automotive_industry_in_Canada", "id": 32152838}, {"name": "Manufacturing", "id": 867519}, {"name": "Transport_in_Canada", "id": 31046597}], "successors": []}

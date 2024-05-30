@@ -1,1 +1,1 @@
-{"name": "Géneros_de_peces", "id": 6046377, "predecessors": [{"name": "Peces", "id": 64483}], "successors": [{"name": "Géneros_monotípicos_de_peces", "id": 6350962}]}
+{"name": "Géneros_de_peces", "id": 6046377, "predecessors": [{"name": "Peces", "id": 64483}, {"name": "Animales", "id": 55378}], "successors": [{"name": "Géneros_monotípicos_de_peces", "id": 6350962}]}

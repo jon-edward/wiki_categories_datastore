@@ -1,1 +1,1 @@
-{"name": "Mental_disorders_diagnosed_in_childhood", "id": 1650557, "predecessors": [{"name": "Child_and_adolescent_psychiatry", "id": 9996409}], "successors": [{"name": "Neurodevelopmental_disorders", "id": 43769827}]}
+{"name": "Mental_disorders_diagnosed_in_childhood", "id": 1650557, "predecessors": [{"name": "Child_and_adolescent_psychiatry", "id": 9996409}, {"name": "Children's_health", "id": 39577117}, {"name": "Types_of_mental_disorders", "id": 69140566}], "successors": [{"name": "Neurodevelopmental_disorders", "id": 43769827}]}

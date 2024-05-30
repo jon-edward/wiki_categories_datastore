@@ -1,1 +1,1 @@
-{"name": "Political_Internet_forums", "id": 23974777, "predecessors": [{"name": "Political_websites", "id": 1544070}], "successors": [{"name": "Alt-right_Internet_forums", "id": 66099323}]}
+{"name": "Political_Internet_forums", "id": 23974777, "predecessors": [{"name": "Internet_forums", "id": 1059772}, {"name": "Political_websites", "id": 1544070}], "successors": [{"name": "Alt-right_Internet_forums", "id": 66099323}]}

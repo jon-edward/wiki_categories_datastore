@@ -1,1 +1,1 @@
-{"name": "Hospitality_exchange_services", "id": 62845310, "predecessors": [{"name": "Hospitality_services", "id": 8098620}, {"name": "Social_networking_services", "id": 31267698}, {"name": "Futures_studies", "id": 1094121}], "successors": []}
+{"name": "Hospitality_exchange_services", "id": 62845310, "predecessors": [{"name": "Cultural_exchange", "id": 23508439}, {"name": "Hospitality_services", "id": 8098620}, {"name": "Social_networking_services", "id": 31267698}, {"name": "Futures_studies", "id": 1094121}], "successors": []}

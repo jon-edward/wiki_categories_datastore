@@ -1,1 +1,1 @@
-{"name": "Spherical_geometry", "id": 33755906, "predecessors": [{"name": "Non-Euclidean_geometry", "id": 3638518}, {"name": "Spheres", "id": 31459341}, {"name": "Classical_antiquity", "id": 5294499}], "successors": [{"name": "Spherical_trigonometry", "id": 1636191}]}
+{"name": "Spherical_geometry", "id": 33755906, "predecessors": [{"name": "Non-Euclidean_geometry", "id": 3638518}, {"name": "Spheres", "id": 31459341}, {"name": "Classical_antiquity", "id": 5294499}], "successors": [{"name": "Spherical_trigonometry", "id": 1636191}, {"name": "Spherical_curves", "id": 66723886}]}

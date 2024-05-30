@@ -1,1 +1,1 @@
-{"name": "Software_metrics", "id": 698860, "predecessors": [{"name": "Measures_of_complexity", "id": 36630937}, {"name": "Metrics", "id": 15090520}, {"name": "Program_analysis", "id": 30677141}], "successors": []}
+{"name": "Software_metrics", "id": 698860, "predecessors": [{"name": "Measures_of_complexity", "id": 36630937}, {"name": "Program_analysis", "id": 30677141}], "successors": []}

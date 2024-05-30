@@ -1,1 +1,1 @@
-{"name": "Ambassadeur_polonais", "id": 8641341, "predecessors": [{"name": "Diplomate_polonais", "id": 2756233}, {"name": "Ambassadeur", "id": 406675}], "successors": [{"name": "Ambassadeur_de_Pologne_en_France", "id": 7434880}]}
+{"name": "Ambassadeur_polonais", "id": 8641341, "predecessors": [{"name": "Diplomate_polonais", "id": 2756233}, {"name": "Diplomatie", "id": 101396}], "successors": [{"name": "Ambassadeur_de_Pologne_en_France", "id": 7434880}]}

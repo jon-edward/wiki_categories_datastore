@@ -1,1 +1,1 @@
-{"name": "French_bankers", "id": 1695357, "predecessors": [{"name": "Banking", "id": 1245386}, {"name": "Economy_of_France", "id": 1298598}, {"name": "Financial_services", "id": 1653309}], "successors": [{"name": "Governors_of_the_Banque_de_France", "id": 12944500}]}
+{"name": "French_bankers", "id": 1695357, "predecessors": [{"name": "Banking_by_country", "id": 5578355}, {"name": "Economy_of_France", "id": 1298598}], "successors": [{"name": "Governors_of_the_Banque_de_France", "id": 12944500}]}

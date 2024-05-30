@@ -1,1 +1,1 @@
-{"name": "Weight_training", "id": 1217905, "predecessors": [{"name": "Physical_exercise", "id": 34955640}, {"name": "Strength_training", "id": 38090868}], "successors": [{"name": "Bodybuilding", "id": 773557}, {"name": "Weightlifting", "id": 930333}, {"name": "Weight_training_exercises", "id": 4501512}, {"name": "Weight_training_equipment", "id": 4503668}]}
+{"name": "Weight_training", "id": 1217905, "predecessors": [{"name": "Physical_exercise", "id": 34955640}, {"name": "Strength_training", "id": 38090868}], "successors": [{"name": "Bodybuilding", "id": 773557}]}

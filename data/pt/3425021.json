@@ -1,1 +1,1 @@
-{"name": "Termas_romanas", "id": 3425021, "predecessors": [{"name": "Estâncias_termais", "id": 119263}, {"name": "Hidroterapia", "id": 3020776}, {"name": "Monumentos_da_Roma_Antiga", "id": 342290}], "successors": [{"name": "Termas_de_Roma", "id": 341679}]}
+{"name": "Termas_romanas", "id": 3425021, "predecessors": [{"name": "Hidroterapia", "id": 3020776}, {"name": "Monumentos_da_Roma_Antiga", "id": 342290}, {"name": "Centros_de_férias", "id": 2473473}], "successors": [{"name": "Termas_de_Roma", "id": 341679}]}

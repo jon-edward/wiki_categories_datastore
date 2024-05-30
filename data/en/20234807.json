@@ -1,1 +1,1 @@
-{"name": "Film_serial_characters", "id": 20234807, "predecessors": [{"name": "Film_characters", "id": 1891545}, {"name": "Film_serials", "id": 2140753}], "successors": [{"name": "Tarzan", "id": 11908903}, {"name": "Fu_Manchu", "id": 65759282}]}
+{"name": "Film_serial_characters", "id": 20234807, "predecessors": [{"name": "Film_characters", "id": 1891545}], "successors": [{"name": "Tarzan", "id": 11908903}, {"name": "Fu_Manchu", "id": 65759282}]}

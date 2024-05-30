@@ -1,1 +1,1 @@
-{"name": "식품_보존료", "id": 1151809, "predecessors": [{"name": "방부제", "id": 667671}, {"name": "식품_보존", "id": 66507}], "successors": []}
+{"name": "식품_보존료", "id": 1151809, "predecessors": [{"name": "방부제", "id": 667671}, {"name": "식품_보존", "id": 66507}, {"name": "식품_첨가물", "id": 40398}], "successors": []}

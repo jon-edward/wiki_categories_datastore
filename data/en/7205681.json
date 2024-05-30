@@ -1,1 +1,1 @@
-{"name": "SAP_NetWeaver", "id": 7205681, "predecessors": [{"name": "Enterprise_application_integration", "id": 3502238}], "successors": []}
+{"name": "SAP_NetWeaver", "id": 7205681, "predecessors": [{"name": "Enterprise_application_integration", "id": 3502238}, {"name": "SAP_SE", "id": 35033459}], "successors": []}

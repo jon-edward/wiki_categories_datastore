@@ -1,1 +1,1 @@
-{"name": "유기산_나트륨염", "id": 3748023, "predecessors": [{"name": "염", "id": 32336}, {"name": "유기산", "id": 369984}], "successors": []}
+{"name": "유기산_나트륨염", "id": 3748023, "predecessors": [{"name": "나트륨_화합물", "id": 46954}, {"name": "염", "id": 32336}, {"name": "유기산", "id": 369984}], "successors": []}

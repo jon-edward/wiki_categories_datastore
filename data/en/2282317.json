@@ -1,1 +1,1 @@
-{"name": "Elder_law", "id": 2282317, "predecessors": [{"name": "Medical_law", "id": 24684705}], "successors": [{"name": "United_States_elder_law", "id": 30985202}]}
+{"name": "Elder_law", "id": 2282317, "predecessors": [{"name": "Medical_law", "id": 24684705}, {"name": "Old_age", "id": 2491885}], "successors": [{"name": "United_States_elder_law", "id": 30985202}]}

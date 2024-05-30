@@ -1,1 +1,1 @@
-{"name": "American_sculpture", "id": 15644106, "predecessors": [{"name": "American_art", "id": 3773671}], "successors": [{"name": "Sculptors_Guild_members", "id": 51516350}, {"name": "Sculptures_by_American_artists", "id": 55130452}]}
+{"name": "American_sculpture", "id": 15644106, "predecessors": [{"name": "American_art", "id": 3773671}, {"name": "Americas", "id": 1526345}], "successors": [{"name": "American_sculptors", "id": 2357092}, {"name": "Sculptors_Guild_members", "id": 51516350}, {"name": "Sculptures_by_American_artists", "id": 55130452}]}

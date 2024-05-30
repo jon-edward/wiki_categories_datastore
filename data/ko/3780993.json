@@ -1,1 +1,1 @@
-{"name": "세포골격_단백질", "id": 3780993, "predecessors": [{"name": "세포골격", "id": 2499545}], "successors": []}
+{"name": "세포골격_단백질", "id": 3780993, "predecessors": [{"name": "구조_단백질", "id": 2499547}, {"name": "세포골격", "id": 2499545}], "successors": []}

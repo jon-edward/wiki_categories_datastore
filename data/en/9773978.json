@@ -1,1 +1,1 @@
-{"name": "Wind_farms_in_Denmark", "id": 9773978, "predecessors": [{"name": "Electric_power_in_the_European_Union", "id": 29824376}, {"name": "Electric_power_infrastructure_in_Denmark", "id": 37335884}], "successors": []}
+{"name": "Wind_farms_in_Denmark", "id": 9773978, "predecessors": [{"name": "Wind_power", "id": 7689273}, {"name": "Electric_power_in_the_European_Union", "id": 29824376}, {"name": "Electric_power_infrastructure_in_Denmark", "id": 37335884}], "successors": []}

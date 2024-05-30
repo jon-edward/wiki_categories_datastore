@@ -1,1 +1,1 @@
-{"name": "Músics_reusencs", "id": 246368, "predecessors": [{"name": "Artistes_reusencs", "id": 716432}, {"name": "Principal", "id": 13225}], "successors": [{"name": "Compositors_reusencs", "id": 1927203}]}
+{"name": "Músics_reusencs", "id": 246368, "predecessors": [{"name": "Artistes_reusencs", "id": 716432}, {"name": "Biografies", "id": 16117}], "successors": [{"name": "Compositors_reusencs", "id": 1927203}]}

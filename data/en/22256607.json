@@ -1,1 +1,1 @@
-{"name": "Criminal_homicide", "id": 22256607, "predecessors": [{"name": "Homicide", "id": 11692544}, {"name": "Killings_by_type", "id": 50222534}, {"name": "Violent_crime", "id": 36072028}], "successors": [{"name": "Murder", "id": 1167833}, {"name": "Manslaughter", "id": 20173115}, {"name": "Infanticide", "id": 1737329}, {"name": "People_convicted_of_culpable_homicide", "id": 43823802}]}
+{"name": "Criminal_homicide", "id": 22256607, "predecessors": [{"name": "Violent_crime", "id": 36072028}], "successors": []}

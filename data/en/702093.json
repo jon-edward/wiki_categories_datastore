@@ -1,0 +1,1 @@
+{"name": "Supermarkets", "id": 702093, "predecessors": [{"name": "Food_retailers", "id": 21550842}, {"name": "Retail_markets", "id": 21600631}], "successors": [{"name": "Supermarket_tabloids", "id": 2435097}, {"name": "Hypermarkets", "id": 5713520}]}

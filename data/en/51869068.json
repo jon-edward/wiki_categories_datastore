@@ -1,1 +1,1 @@
-{"name": "Workforce", "id": 51869068, "predecessors": [{"name": "Factors_of_production", "id": 34941408}], "successors": [{"name": "Global_workforce", "id": 35936948}]}
+{"name": "Workforce", "id": 51869068, "predecessors": [{"name": "Factors_of_production", "id": 34941408}, {"name": "Labor", "id": 755020}], "successors": [{"name": "Global_workforce", "id": 35936948}]}

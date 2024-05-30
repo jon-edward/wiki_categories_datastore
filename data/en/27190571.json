@@ -1,1 +1,1 @@
-{"name": "Small_Business_Administration_personnel", "id": 27190571, "predecessors": [{"name": "United_States_government_officials", "id": 8568084}], "successors": []}
+{"name": "Small_Business_Administration_personnel", "id": 27190571, "predecessors": [{"name": "Small_Business_Administration", "id": 4978041}, {"name": "United_States_government_officials", "id": 8568084}], "successors": [{"name": "Administrators_of_the_Small_Business_Administration", "id": 17003652}]}

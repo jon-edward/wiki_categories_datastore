@@ -1,1 +1,1 @@
-{"name": "Jugadors_de_bàsquet", "id": 53000, "predecessors": [{"name": "Esports_d'equip", "id": 53116}, {"name": "Principal", "id": 13225}], "successors": [{"name": "MVPs_de_la_Lliga_ACB", "id": 709551}, {"name": "MVPs_de_la_Copa_del_Rei_de_bàsquet", "id": 828568}]}
+{"name": "Jugadors_de_bàsquet", "id": 53000, "predecessors": [{"name": "Esports_d'equip", "id": 53116}, {"name": "Biografies", "id": 16117}], "successors": [{"name": "MVPs_de_la_Lliga_ACB", "id": 709551}, {"name": "MVPs_de_la_Copa_del_Rei_de_bàsquet", "id": 828568}]}

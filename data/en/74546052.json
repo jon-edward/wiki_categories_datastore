@@ -1,1 +1,1 @@
-{"name": "Actors_from_Colombo", "id": 74546052, "predecessors": [{"name": "People_from_Colombo", "id": 25753460}], "successors": [{"name": "Actresses_from_Colombo", "id": 76444351}]}
+{"name": "Actors_from_Colombo", "id": 74546052, "predecessors": [{"name": "People_from_Colombo", "id": 25753460}, {"name": "Culture_of_Asia", "id": 1438369}], "successors": [{"name": "Actresses_from_Colombo", "id": 76444351}]}

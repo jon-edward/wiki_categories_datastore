@@ -1,1 +1,1 @@
-{"name": "South_African_Army_officers", "id": 16131951, "predecessors": [{"name": "Military_personnel", "id": 6660319}], "successors": [{"name": "South_African_Army_generals", "id": 16548869}]}
+{"name": "South_African_Army_officers", "id": 16131951, "predecessors": [{"name": "South_African_Army_personnel", "id": 16131973}, {"name": "South_African_military_officers", "id": 44013519}, {"name": "Military_leaders", "id": 1258701}], "successors": [{"name": "South_African_Army_generals", "id": 16548869}]}

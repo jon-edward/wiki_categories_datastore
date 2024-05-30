@@ -1,1 +1,1 @@
-{"name": "Weapons_manufacturing_companies", "id": 4694385, "predecessors": [{"name": "Weapon_development", "id": 1935335}, {"name": "Weapons_trade", "id": 20928462}], "successors": [{"name": "Guided_missile_manufacturers", "id": 3954619}, {"name": "Tampella", "id": 53593092}]}
+{"name": "Weapons_manufacturing_companies", "id": 4694385, "predecessors": [{"name": "Weapons_trade", "id": 20928462}], "successors": [{"name": "Guided_missile_manufacturers", "id": 3954619}, {"name": "Tampella", "id": 53593092}]}

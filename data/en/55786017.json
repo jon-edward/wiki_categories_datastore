@@ -1,1 +1,1 @@
-{"name": "Experimental_and_prototype_tanks", "id": 55786017, "predecessors": [{"name": "Tanks", "id": 786411}, {"name": "Experimental_vehicles", "id": 5050900}], "successors": [{"name": "Trial_and_research_tanks", "id": 25649469}]}
+{"name": "Experimental_and_prototype_tanks", "id": 55786017, "predecessors": [{"name": "Tanks", "id": 786411}], "successors": [{"name": "Trial_and_research_tanks", "id": 25649469}]}

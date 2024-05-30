@@ -1,1 +1,1 @@
-{"name": "퇴직", "id": 1743199, "predecessors": [{"name": "노사관계", "id": 1743200}, {"name": "실업", "id": 935901}], "successors": []}
+{"name": "퇴직", "id": 1743199, "predecessors": [{"name": "실업", "id": 935901}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Classe_de_porte-hélicoptères", "id": 5981122, "predecessors": [{"name": "Porte-hélicoptères", "id": 324799}], "successors": []}
+{"name": "Classe_de_porte-hélicoptères", "id": 5981122, "predecessors": [{"name": "Porte-hélicoptères", "id": 324799}, {"name": "Classe_de_bateau", "id": 6023245}], "successors": []}

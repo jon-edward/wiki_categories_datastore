@@ -1,1 +1,1 @@
-{"name": "Woodworking_materials", "id": 18574561, "predecessors": [{"name": "Woodworking", "id": 999563}], "successors": [{"name": "Engineered_wood", "id": 3880728}, {"name": "Wood_finishing_materials", "id": 18574663}]}
+{"name": "Woodworking_materials", "id": 18574561, "predecessors": [{"name": "Artificial_materials", "id": 51591971}, {"name": "Visual_arts_materials", "id": 1115350}, {"name": "Woodworking", "id": 999563}], "successors": [{"name": "Engineered_wood", "id": 3880728}, {"name": "Wood_finishing_materials", "id": 18574663}]}

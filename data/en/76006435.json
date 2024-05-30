@@ -1,1 +1,1 @@
-{"name": "International_long-distance_trails", "id": 76006435, "predecessors": [{"name": "Hiking_trails", "id": 1031791}], "successors": [{"name": "European_long-distance_paths", "id": 28023848}, {"name": "EuroVelo", "id": 41322487}]}
+{"name": "International_long-distance_trails", "id": 76006435, "predecessors": [{"name": "International_trade", "id": 716236}, {"name": "Hiking_trails", "id": 1031791}], "successors": [{"name": "European_long-distance_paths", "id": 28023848}, {"name": "EuroVelo", "id": 41322487}]}

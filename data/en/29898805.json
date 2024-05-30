@@ -1,1 +1,1 @@
-{"name": "Glucosides", "id": 29898805, "predecessors": [{"name": "Glucose", "id": 30006702}, {"name": "Glycosides", "id": 933036}], "successors": [{"name": "Glucosinolates", "id": 26515770}, {"name": "Phenol_glucosides", "id": 35320520}]}
+{"name": "Glucosides", "id": 29898805, "predecessors": [{"name": "Glucose", "id": 30006702}], "successors": [{"name": "Glucosinolates", "id": 26515770}, {"name": "Phenol_glucosides", "id": 35320520}]}

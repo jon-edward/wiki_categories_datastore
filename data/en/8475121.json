@@ -1,1 +1,1 @@
-{"name": "Hand-held_power_tools", "id": 8475121, "predecessors": [{"name": "Hand_tools", "id": 10163190}, {"name": "Power_tools", "id": 8475107}], "successors": [{"name": "Woodworking_hand-held_power_tools", "id": 2916727}]}
+{"name": "Hand-held_power_tools", "id": 8475121, "predecessors": [{"name": "Hand_tools", "id": 10163190}], "successors": [{"name": "Woodworking_hand-held_power_tools", "id": 2916727}]}

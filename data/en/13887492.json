@@ -1,1 +1,1 @@
-{"name": "Business_documents", "id": 13887492, "predecessors": [{"name": "Business", "id": 771152}, {"name": "Documents", "id": 694072}], "successors": [{"name": "International_trade_documents", "id": 58075176}]}
+{"name": "Business_documents", "id": 13887492, "predecessors": [{"name": "Business", "id": 771152}, {"name": "Documents", "id": 694072}], "successors": [{"name": "Accounting_source_documents", "id": 6573107}, {"name": "International_trade_documents", "id": 58075176}]}

@@ -1,1 +1,1 @@
-{"name": "Nanticoke_River", "id": 65584890, "predecessors": [{"name": "Tributaries_of_the_Chesapeake_Bay", "id": 43277270}], "successors": [{"name": "Tributaries_of_the_Nanticoke_River", "id": 65584966}]}
+{"name": "Nanticoke_River", "id": 65584890, "predecessors": [{"name": "Rivers_of_Delaware", "id": 3329149}, {"name": "Rivers_of_Maryland", "id": 3331043}, {"name": "Tributaries_of_the_Chesapeake_Bay", "id": 43277270}], "successors": [{"name": "Tributaries_of_the_Nanticoke_River", "id": 65584966}]}

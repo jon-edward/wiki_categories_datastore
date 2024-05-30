@@ -1,1 +1,1 @@
-{"name": "SIGLEC", "id": 22204211, "predecessors": [{"name": "Immunoglobulin_superfamily", "id": 42211766}], "successors": []}
+{"name": "SIGLEC", "id": 22204211, "predecessors": [{"name": "Immunoglobulin_superfamily", "id": 42211766}, {"name": "Lectins", "id": 22203916}], "successors": []}

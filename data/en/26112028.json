@@ -1,1 +1,1 @@
-{"name": "Anilides", "id": 26112028, "predecessors": [{"name": "Anilines", "id": 30527747}], "successors": [{"name": "Acetanilides", "id": 872459}, {"name": "Benzanilides", "id": 26062463}, {"name": "2-Quinolones", "id": 54739654}]}
+{"name": "Anilides", "id": 26112028, "predecessors": [{"name": "Carboxamides", "id": 853558}], "successors": [{"name": "Acetanilides", "id": 872459}, {"name": "Benzanilides", "id": 26062463}, {"name": "2-Quinolones", "id": 54739654}]}

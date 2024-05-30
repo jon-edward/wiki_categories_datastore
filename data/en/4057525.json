@@ -1,1 +1,1 @@
-{"name": "Neutron_instrumentation", "id": 4057525, "predecessors": [{"name": "Measuring_instruments", "id": 889248}, {"name": "Neutron", "id": 3416338}, {"name": "Neutron-related_techniques", "id": 40641269}], "successors": []}
+{"name": "Neutron_instrumentation", "id": 4057525, "predecessors": [{"name": "Neutron", "id": 3416338}, {"name": "Neutron-related_techniques", "id": 40641269}], "successors": []}

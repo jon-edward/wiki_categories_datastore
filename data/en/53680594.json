@@ -1,1 +1,1 @@
-{"name": "Olfactory_art", "id": 53680594, "predecessors": [{"name": "Perfumery", "id": 1194342}, {"name": "Visual_arts_genres", "id": 1209735}], "successors": []}
+{"name": "Olfactory_art", "id": 53680594, "predecessors": [{"name": "Olfaction", "id": 1061081}, {"name": "Perfumery", "id": 1194342}, {"name": "Visual_arts_genres", "id": 1209735}], "successors": []}

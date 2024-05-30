@@ -1,1 +1,1 @@
-{"name": "Male_actors_from_Lazio", "id": 76751195, "predecessors": [{"name": "Lazio", "id": 1042253}], "successors": [{"name": "Male_actors_from_Rome", "id": 40791253}]}
+{"name": "Male_actors_from_Lazio", "id": 76751195, "predecessors": [{"name": "Lazio", "id": 1042253}, {"name": "Italian_male_actors", "id": 38596903}], "successors": [{"name": "Male_actors_from_Rome", "id": 40791253}]}

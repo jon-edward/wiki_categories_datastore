@@ -1,1 +1,1 @@
-{"name": "Logical_calculi", "id": 4127376, "predecessors": [{"name": "Formal_methods", "id": 2574961}], "successors": [{"name": "Lambda_calculus", "id": 693892}, {"name": "Process_calculi", "id": 3434402}, {"name": "Combinatory_logic", "id": 11504496}]}
+{"name": "Logical_calculi", "id": 4127376, "predecessors": [{"name": "Formal_methods", "id": 2574961}], "successors": [{"name": "Process_calculi", "id": 3434402}]}

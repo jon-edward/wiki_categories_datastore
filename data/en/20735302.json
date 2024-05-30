@@ -1,1 +1,1 @@
-{"name": "Stuffed_vegetable_dishes", "id": 20735302, "predecessors": [{"name": "Vegetable_dishes", "id": 41995703}], "successors": [{"name": "Turkish_dolmas_and_sarmas", "id": 29023791}]}
+{"name": "Stuffed_vegetable_dishes", "id": 20735302, "predecessors": [{"name": "Stuffed_dishes", "id": 53377063}, {"name": "Vegetable_dishes", "id": 41995703}], "successors": [{"name": "Turkish_cuisine_dolmas_and_sarmas", "id": 29023791}]}

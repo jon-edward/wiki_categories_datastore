@@ -1,1 +1,1 @@
-{"name": "Tea_production", "id": 29390889, "predecessors": [{"name": "Tea", "id": 1000315}], "successors": [{"name": "Tea_companies", "id": 8261586}, {"name": "Tea_diseases", "id": 42700294}]}
+{"name": "Tea_production", "id": 29390889, "predecessors": [{"name": "Agriculture_by_type", "id": 31038144}], "successors": [{"name": "Tea_companies", "id": 8261586}, {"name": "Tea_diseases", "id": 42700294}]}

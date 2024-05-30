@@ -1,1 +1,1 @@
-{"name": "Ships_built_by_New_York_Shipbuilding_Corporation", "id": 70834008, "predecessors": [{"name": "New_York_Shipbuilding_Corporation", "id": 70833047}], "successors": []}
+{"name": "Ships_built_by_New_York_Shipbuilding_Corporation", "id": 70834008, "predecessors": [{"name": "New_York_Shipbuilding_Corporation", "id": 70833047}, {"name": "Ships_built_in_Camden,_New_Jersey", "id": 49275606}], "successors": []}

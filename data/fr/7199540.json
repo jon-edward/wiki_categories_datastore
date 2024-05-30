@@ -1,1 +1,1 @@
-{"name": "Classe_de_cuirassé_de_la_Kaiserliche_Marine", "id": 7199540, "predecessors": [{"name": "Cuirassé", "id": 290526}, {"name": "Kaiserliche_Marine", "id": 2998608}], "successors": []}
+{"name": "Classe_de_cuirassé_de_la_Kaiserliche_Marine", "id": 7199540, "predecessors": [{"name": "Kaiserliche_Marine", "id": 2998608}, {"name": "Classe_de_bateau", "id": 6023245}], "successors": []}

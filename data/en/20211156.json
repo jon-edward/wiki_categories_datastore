@@ -1,1 +1,1 @@
-{"name": "Histamine_agonists", "id": 20211156, "predecessors": [{"name": "Imidazoles", "id": 4488532}], "successors": []}
+{"name": "Histamine_agonists", "id": 20211156, "predecessors": [{"name": "Receptor_agonists", "id": 22002801}, {"name": "Neurotransmitters", "id": 717823}], "successors": []}

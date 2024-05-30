@@ -1,1 +1,1 @@
-{"name": "Chess_tournament_systems", "id": 13665812, "predecessors": [{"name": "Tournament_systems", "id": 1799766}, {"name": "Board_games", "id": 9205892}], "successors": []}
+{"name": "Chess_tournament_systems", "id": 13665812, "predecessors": [{"name": "Chess_competitions", "id": 913045}, {"name": "Tournament_systems", "id": 1799766}], "successors": []}

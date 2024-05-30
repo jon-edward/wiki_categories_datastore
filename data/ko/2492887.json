@@ -1,1 +1,1 @@
-{"name": "할로젠화_용매", "id": 2492887, "predecessors": [{"name": "유기_화합물", "id": 40380}], "successors": []}
+{"name": "할로젠화_용매", "id": 2492887, "predecessors": [{"name": "용매", "id": 57221}, {"name": "유기_화합물", "id": 40380}], "successors": []}

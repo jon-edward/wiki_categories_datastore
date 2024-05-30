@@ -1,1 +1,1 @@
-{"name": "Scottish_drinks", "id": 34533200, "predecessors": [{"name": "Scottish_cuisine", "id": 776111}, {"name": "Manufacturing_in_the_United_Kingdom", "id": 26113664}, {"name": "Scottish_design", "id": 24318369}, {"name": "Culture_of_Scotland", "id": 724317}], "successors": []}
+{"name": "Scottish_drinks", "id": 34533200, "predecessors": [{"name": "Scottish_cuisine", "id": 776111}, {"name": "British_cuisine", "id": 694858}, {"name": "Scottish_design", "id": 24318369}, {"name": "Culture_of_Scotland", "id": 724317}], "successors": []}

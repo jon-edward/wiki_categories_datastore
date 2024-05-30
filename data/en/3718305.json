@@ -1,1 +1,1 @@
-{"name": "Building_biology", "id": 3718305, "predecessors": [{"name": "Building_engineering", "id": 3642629}], "successors": [{"name": "Indoor_air_pollution", "id": 74011366}]}
+{"name": "Building_biology", "id": 3718305, "predecessors": [{"name": "Building_engineering", "id": 3642629}, {"name": "Environmental_health", "id": 17265684}], "successors": [{"name": "Indoor_air_pollution", "id": 74011366}]}

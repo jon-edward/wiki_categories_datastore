@@ -1,1 +1,1 @@
-{"name": "Mental_states", "id": 37547997, "predecessors": [{"name": "Brain", "id": 5239453}], "successors": [{"name": "Propositional_attitudes", "id": 32396450}]}
+{"name": "Mental_states", "id": 37547997, "predecessors": [{"name": "Brain", "id": 5239453}], "successors": [{"name": "Emotion", "id": 691820}, {"name": "Sleep", "id": 910767}, {"name": "Hypnosis", "id": 1101243}, {"name": "Intention", "id": 7296998}, {"name": "Propositional_attitudes", "id": 32396450}]}

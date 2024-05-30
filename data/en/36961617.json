@@ -1,1 +1,1 @@
-{"name": "Bridges_in_Hubei", "id": 36961617, "predecessors": [{"name": "Buildings_and_structures_in_Hubei", "id": 6582374}, {"name": "Transport_in_Hubei", "id": 9529367}], "successors": [{"name": "Bridges_in_Wuhan", "id": 24383303}]}
+{"name": "Bridges_in_Hubei", "id": 36961617, "predecessors": [{"name": "Buildings_and_structures_in_Hubei", "id": 6582374}, {"name": "Transport_in_Hubei", "id": 9529367}, {"name": "Bridges_in_China", "id": 1667602}], "successors": [{"name": "Bridges_in_Wuhan", "id": 24383303}]}

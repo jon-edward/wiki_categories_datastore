@@ -1,1 +1,1 @@
-{"name": "Scout_campsites", "id": 5981079, "predecessors": [{"name": "Scouting", "id": 748558}], "successors": [{"name": "Local_council_camps_of_the_Girls_Scouts_of_the_USA", "id": 13362616}, {"name": "Local_council_camps_of_the_Boy_Scouts_of_America", "id": 13385834}]}
+{"name": "Scout_campsites", "id": 5981079, "predecessors": [{"name": "Camping", "id": 1451338}], "successors": [{"name": "Local_council_camps_of_the_Girls_Scouts_of_the_USA", "id": 13362616}, {"name": "Local_council_camps_of_the_Boy_Scouts_of_America", "id": 13385834}]}

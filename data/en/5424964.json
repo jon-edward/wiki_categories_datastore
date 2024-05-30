@@ -1,1 +1,1 @@
-{"name": "HP_LaserJet_printers", "id": 5424964, "predecessors": [{"name": "Laser_printers", "id": 52098140}, {"name": "Computer_printer_companies", "id": 7653958}], "successors": []}
+{"name": "HP_LaserJet_printers", "id": 5424964, "predecessors": [{"name": "Laser_printers", "id": 52098140}, {"name": "Hewlett-Packard_products", "id": 1503822}], "successors": []}

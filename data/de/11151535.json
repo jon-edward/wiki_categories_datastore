@@ -1,1 +1,1 @@
-{"name": "Missionsstation", "id": 11151535, "predecessors": [{"name": "Christliche_Mission", "id": 670567}, {"name": "Stätte", "id": 8355466}], "successors": [{"name": "Aborigines-Missionsstation", "id": 4580355}, {"name": "Katholische_Missionsstation", "id": 11153842}]}
+{"name": "Missionsstation", "id": 11151535, "predecessors": [{"name": "Christliche_Mission", "id": 670567}, {"name": "Humangeographisches_Objekt", "id": 6755754}], "successors": [{"name": "Aborigines-Missionsstation", "id": 4580355}, {"name": "Katholische_Missionsstation", "id": 11153842}]}

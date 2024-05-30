@@ -1,0 +1,1 @@
+{"name": "Soil_contamination", "id": 4255318, "predecessors": [{"name": "Environmental_chemistry", "id": 795223}, {"name": "Pollution", "id": 871522}, {"name": "Soil", "id": 14507875}], "successors": [{"name": "Radioactively_contaminated_areas", "id": 31210066}]}

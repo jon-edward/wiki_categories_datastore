@@ -1,1 +1,1 @@
-{"name": "Election_people", "id": 10543946, "predecessors": [{"name": "Elections", "id": 792537}], "successors": [{"name": "Election_technology_people", "id": 25396677}]}
+{"name": "Election_people", "id": 10543946, "predecessors": [{"name": "Elections", "id": 792537}, {"name": "Political_occupations", "id": 1755568}], "successors": [{"name": "Election_technology_people", "id": 25396677}]}

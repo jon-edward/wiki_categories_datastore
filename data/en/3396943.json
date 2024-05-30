@@ -1,1 +1,1 @@
-{"name": "Online_support_groups", "id": 3396943, "predecessors": [{"name": "Online_services", "id": 33315753}, {"name": "Support_groups", "id": 870150}, {"name": "Virtual_communities", "id": 1168796}], "successors": []}
+{"name": "Online_support_groups", "id": 3396943, "predecessors": [{"name": "Support_groups", "id": 870150}, {"name": "Virtual_communities", "id": 1168796}], "successors": []}

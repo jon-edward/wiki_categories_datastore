@@ -1,1 +1,1 @@
-{"name": "Pakistan_Air_Force_officers", "id": 14630550, "predecessors": [{"name": "Military_personnel", "id": 6660319}], "successors": [{"name": "Pakistan_Air_Force_air_marshals", "id": 8077097}]}
+{"name": "Pakistan_Air_Force_officers", "id": 14630550, "predecessors": [{"name": "Pakistan_Air_Force_personnel", "id": 9490252}, {"name": "Military_leaders", "id": 1258701}, {"name": "Asia", "id": 697006}], "successors": [{"name": "Pakistan_Air_Force_air_marshals", "id": 8077097}]}

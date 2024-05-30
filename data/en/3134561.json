@@ -1,1 +1,1 @@
-{"name": "Canadian_shipbuilders", "id": 3134561, "predecessors": [{"name": "Water_transport_in_Canada", "id": 5405945}], "successors": [{"name": "Canadian_boat_builders", "id": 5624939}]}
+{"name": "Canadian_shipbuilders", "id": 3134561, "predecessors": [{"name": "Water_transport_in_Canada", "id": 5405945}, {"name": "Shipping", "id": 13467425}, {"name": "Shipbuilding", "id": 38000490}], "successors": [{"name": "Canadian_boat_builders", "id": 5624939}]}

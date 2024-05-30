@@ -1,1 +1,1 @@
-{"name": "Art_martial_birman", "id": 864904, "predecessors": [{"name": "Culture_birmane", "id": 1408225}, {"name": "Asie_du_Sud-Est", "id": 861976}, {"name": "Art_martial", "id": 93402}], "successors": [{"name": "Bandoiste", "id": 1797225}]}
+{"name": "Art_martial_birman", "id": 864904, "predecessors": [{"name": "Art_martial_d'Asie_du_Sud-Est", "id": 1152678}, {"name": "Culture_birmane", "id": 1408225}, {"name": "Art_martial", "id": 93402}, {"name": "Asie_du_Sud-Est", "id": 861976}], "successors": [{"name": "Bandoiste", "id": 1797225}]}

@@ -1,1 +1,1 @@
-{"name": "Paramilitary_vehicles", "id": 67232313, "predecessors": [{"name": "Military_vehicles", "id": 786368}, {"name": "Military_equipment", "id": 771670}], "successors": []}
+{"name": "Paramilitary_vehicles", "id": 67232313, "predecessors": [{"name": "Irregular_military", "id": 1769907}], "successors": []}

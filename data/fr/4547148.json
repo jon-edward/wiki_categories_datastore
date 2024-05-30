@@ -1,1 +1,1 @@
-{"name": "Mort_d'une_personnalité", "id": 4547148, "predecessors": [{"name": "Mort", "id": 383150}], "successors": [{"name": "Assassinat_d'une_personnalité", "id": 4113682}]}
+{"name": "Mort_d'une_personnalité", "id": 4547148, "predecessors": [{"name": "Mort", "id": 383150}, {"name": "Accueil", "id": 1155637}], "successors": [{"name": "Assassinat_d'une_personnalité", "id": 4113682}]}

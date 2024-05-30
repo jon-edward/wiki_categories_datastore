@@ -1,1 +1,1 @@
-{"name": "BioArt", "id": 17447088, "predecessors": [{"name": "Visual_arts_genres", "id": 1209735}, {"name": "Mass_media", "id": 696790}], "successors": [{"name": "BioArtists", "id": 17412649}]}
+{"name": "BioArt", "id": 17447088, "predecessors": [{"name": "Visual_arts_genres", "id": 1209735}], "successors": [{"name": "BioArtists", "id": 17412649}]}

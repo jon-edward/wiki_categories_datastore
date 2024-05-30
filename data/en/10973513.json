@@ -1,1 +1,1 @@
-{"name": "Spacetime", "id": 10973513, "predecessors": [{"name": "Science_fiction_themes", "id": 786868}], "successors": [{"name": "Space", "id": 744586}, {"name": "Time", "id": 744728}]}
+{"name": "Spacetime", "id": 10973513, "predecessors": [{"name": "4-manifolds", "id": 3052275}, {"name": "Dimension", "id": 3175294}, {"name": "Space_(mathematics)", "id": 73209975}, {"name": "Vector_spaces", "id": 30994663}, {"name": "Science_fiction_themes", "id": 786868}], "successors": [{"name": "Space", "id": 744586}, {"name": "Time", "id": 744728}]}

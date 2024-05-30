@@ -1,1 +1,1 @@
-{"name": "Deaths_from_multiple_myeloma", "id": 18669564, "predecessors": [{"name": "Deaths_from_blood_cancer", "id": 66410699}], "successors": []}
+{"name": "Deaths_from_multiple_myeloma", "id": 18669564, "predecessors": [{"name": "Deaths_from_blood_cancer", "id": 66410699}, {"name": "Deaths_from_bone_cancer", "id": 18669423}, {"name": "People_with_multiple_myeloma", "id": 3404664}], "successors": [{"name": "Deaths_from_multiple_myeloma_in_the_United_Kingdom", "id": 76548036}]}

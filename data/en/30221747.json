@@ -1,1 +1,1 @@
-{"name": "Linux_network-related_software", "id": 30221747, "predecessors": [{"name": "Internet_Protocol_based_network_software", "id": 32946450}, {"name": "Linux_software", "id": 9519323}, {"name": "Unix_network-related_software", "id": 25605944}], "successors": []}
+{"name": "Linux_network-related_software", "id": 30221747, "predecessors": [{"name": "Linux_software", "id": 9519323}, {"name": "Unix_network-related_software", "id": 25605944}], "successors": []}

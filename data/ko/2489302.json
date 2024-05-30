@@ -1,1 +1,1 @@
-{"name": "문자열", "id": 2489302, "predecessors": [{"name": "수열", "id": 14759}, {"name": "자료형", "id": 89251}], "successors": [{"name": "패턴_매칭", "id": 2489301}, {"name": "파싱_알고리즘", "id": 432487}]}
+{"name": "문자열", "id": 2489302, "predecessors": [{"name": "수열", "id": 14759}, {"name": "자료형", "id": 89251}], "successors": [{"name": "패턴_매칭", "id": 2489301}]}

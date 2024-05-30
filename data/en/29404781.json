@@ -1,1 +1,1 @@
-{"name": "Biscuit_brands", "id": 29404781, "predecessors": [{"name": "Brand_name_cookies", "id": 5833105}], "successors": [{"name": "United_Biscuits_brands", "id": 5267258}]}
+{"name": "Biscuit_brands", "id": 29404781, "predecessors": [{"name": "Biscuits", "id": 38327736}, {"name": "Brand_name_confectionery", "id": 7701549}, {"name": "Brand_name_cookies", "id": 5833105}, {"name": "Brand_name_desserts", "id": 18083148}, {"name": "Brand_name_snack_foods", "id": 5827977}, {"name": "Baked_goods", "id": 23822920}], "successors": [{"name": "United_Biscuits_brands", "id": 5267258}]}

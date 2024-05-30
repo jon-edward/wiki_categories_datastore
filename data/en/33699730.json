@@ -1,1 +1,1 @@
-{"name": "C_POSIX_library", "id": 33699730, "predecessors": [{"name": "POSIX", "id": 30963783}], "successors": [{"name": "C_standard_library", "id": 35016715}]}
+{"name": "C_POSIX_library", "id": 33699730, "predecessors": [{"name": "C_(programming_language)_libraries", "id": 885113}, {"name": "POSIX", "id": 30963783}], "successors": [{"name": "C_standard_library", "id": 35016715}]}

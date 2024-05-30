@@ -1,1 +1,1 @@
-{"name": "Bob_Marley", "id": 6996637, "predecessors": [{"name": "Amérique", "id": 82194}], "successors": [{"name": "Album_de_Bob_Marley_and_the_Wailers", "id": 7601035}, {"name": "Chanson_interprétée_par_Bob_Marley_and_the_Wailers", "id": 7634160}]}
+{"name": "Bob_Marley", "id": 6996637, "predecessors": [{"name": "Amérique", "id": 82194}, {"name": "Accueil", "id": 1155637}], "successors": [{"name": "Album_de_Bob_Marley_and_the_Wailers", "id": 7601035}, {"name": "Chanson_interprétée_par_Bob_Marley_and_the_Wailers", "id": 7634160}]}

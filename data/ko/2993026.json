@@ -1,1 +1,1 @@
-{"name": "통합효소_억제제", "id": 2993026, "predecessors": [{"name": "항레트로바이러스제", "id": 2979532}], "successors": []}
+{"name": "통합효소_억제제", "id": 2993026, "predecessors": [{"name": "항레트로바이러스제", "id": 2979532}, {"name": "효소_억제제", "id": 1327786}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Científics_txecs", "id": 901227, "predecessors": [{"name": "Principal", "id": 13225}], "successors": [{"name": "Matemàtics_txecs", "id": 1613871}, {"name": "Científics_de_Praga", "id": 1870739}, {"name": "Biòlegs_txecs", "id": 1926145}]}
+{"name": "Científics_txecs", "id": 901227, "predecessors": [{"name": "Biografies", "id": 16117}], "successors": [{"name": "Matemàtics_txecs", "id": 1613871}, {"name": "Científics_de_Praga", "id": 1870739}, {"name": "Biòlegs_txecs", "id": 1926145}]}

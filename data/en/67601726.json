@@ -1,1 +1,1 @@
-{"name": "Population_dynamics", "id": 67601726, "predecessors": [{"name": "Population_ecology", "id": 11128507}, {"name": "Population_models", "id": 25209907}], "successors": [{"name": "Human_overpopulation", "id": 43220696}]}
+{"name": "Population_dynamics", "id": 67601726, "predecessors": [{"name": "Demographics", "id": 1012175}, {"name": "Population_ecology", "id": 11128507}, {"name": "Population_genetics", "id": 703506}, {"name": "Social_dynamics", "id": 34666432}], "successors": [{"name": "Human_overpopulation", "id": 43220696}]}

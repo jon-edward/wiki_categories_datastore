@@ -1,1 +1,1 @@
-{"name": "랜섬웨어", "id": 1452558, "predecessors": [{"name": "악성_소프트웨어", "id": 899165}, {"name": "암호_공격", "id": 927618}], "successors": []}
+{"name": "랜섬웨어", "id": 1452558, "predecessors": [{"name": "사회공학_(보안)", "id": 2571191}, {"name": "암호_공격", "id": 927618}], "successors": []}

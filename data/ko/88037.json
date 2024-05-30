@@ -1,1 +1,1 @@
-{"name": "러시아_발레", "id": 88037, "predecessors": [{"name": "발레", "id": 21770}, {"name": "공연_예술", "id": 12137}], "successors": []}
+{"name": "러시아_발레", "id": 88037, "predecessors": [{"name": "발레", "id": 21770}, {"name": "공연_예술", "id": 12137}], "successors": [{"name": "발레_루스_작품목록", "id": 88167}]}

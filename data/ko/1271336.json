@@ -1,1 +1,1 @@
-{"name": "스쿼시_대회", "id": 1271336, "predecessors": [{"name": "개인_스포츠", "id": 11855}, {"name": "스포츠", "id": 8865}], "successors": []}
+{"name": "스쿼시_대회", "id": 1271336, "predecessors": [{"name": "대회", "id": 116658}], "successors": [{"name": "아시안_게임_스쿼시", "id": 561986}]}

@@ -1,1 +1,1 @@
-{"name": "Healthcare_in_Colorado", "id": 26200891, "predecessors": [{"name": "Colorado", "id": 706115}, {"name": "Health_care", "id": 35880954}], "successors": []}
+{"name": "Healthcare_in_Colorado", "id": 26200891, "predecessors": [{"name": "Colorado", "id": 706115}, {"name": "Health_care", "id": 35880954}], "successors": [{"name": "Intermountain_Health", "id": 28401958}, {"name": "Medical_and_health_organizations_based_in_Colorado", "id": 54391562}, {"name": "Physicians_from_Colorado", "id": 35310480}]}

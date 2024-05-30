@@ -1,1 +1,1 @@
-{"name": "가공의_쥐", "id": 312239, "predecessors": [{"name": "쥐", "id": 312240}], "successors": [{"name": "미키_마우스_영화", "id": 1882773}]}
+{"name": "가공의_쥐", "id": 312239, "predecessors": [{"name": "쥐", "id": 312240}, {"name": "가공의_포유류", "id": 312234}], "successors": [{"name": "미키_마우스_영화", "id": 1882773}]}

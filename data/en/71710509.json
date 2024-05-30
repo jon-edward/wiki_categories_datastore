@@ -1,1 +1,1 @@
-{"name": "Text-to-image_generation", "id": 71710509, "predecessors": [{"name": "Artificial_intelligence_art", "id": 69858760}, {"name": "Deep_learning", "id": 49119651}, {"name": "Language_modeling", "id": 42452485}, {"name": "Machine_learning_task", "id": 47991509}], "successors": []}
+{"name": "Text-to-image_generation", "id": 71710509, "predecessors": [{"name": "Artificial_intelligence_art", "id": 69858760}, {"name": "Language_modeling", "id": 42452485}, {"name": "Machine_learning_task", "id": 47991509}], "successors": []}

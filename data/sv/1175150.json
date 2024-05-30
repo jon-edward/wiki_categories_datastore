@@ -1,1 +1,1 @@
-{"name": "Spanska_fordonstillverkare", "id": 1175150, "predecessors": [{"name": "Fordon", "id": 76896}, {"name": "Spanska_företag", "id": 102541}], "successors": [{"name": "Spanska_biltillverkare", "id": 1146306}, {"name": "Spanska_motorcykeltillverkare", "id": 7190465}]}
+{"name": "Spanska_fordonstillverkare", "id": 1175150, "predecessors": [{"name": "Fordon", "id": 76896}, {"name": "Spanska_företag", "id": 102541}], "successors": [{"name": "Spanska_motorcykeltillverkare", "id": 7190465}]}

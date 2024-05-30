@@ -1,1 +1,1 @@
-{"name": "Rogue_planets", "id": 41108647, "predecessors": [{"name": "Exoplanets", "id": 41108019}], "successors": [{"name": "Fiction_about_rogue_planets", "id": 51532064}]}
+{"name": "Rogue_planets", "id": 41108647, "predecessors": [{"name": "Exoplanets", "id": 41108019}, {"name": "Space_hazards", "id": 2638239}, {"name": "Types_of_planet", "id": 12672143}, {"name": "Outer_space", "id": 36093771}], "successors": [{"name": "Fiction_about_rogue_planets", "id": 51532064}]}

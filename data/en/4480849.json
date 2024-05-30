@@ -1,1 +1,1 @@
-{"name": "Therizinosaurs", "id": 4480849, "predecessors": [{"name": "Coelurosaurs", "id": 4487843}], "successors": []}
+{"name": "Therizinosaurs", "id": 4480849, "predecessors": [{"name": "Clawed_herbivores", "id": 43703916}, {"name": "Coelurosaurs", "id": 4487843}, {"name": "Animals_by_eating_behaviors", "id": 47600935}], "successors": []}

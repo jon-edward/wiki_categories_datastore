@@ -1,1 +1,1 @@
-{"name": "Hungarian_psychologists", "id": 5410185, "predecessors": [{"name": "Health_care_by_country", "id": 50769391}], "successors": [{"name": "Hungarian_psychoanalysts", "id": 28799307}, {"name": "Hungarian_women_psychologists", "id": 66509198}]}
+{"name": "Hungarian_psychologists", "id": 5410185, "predecessors": [{"name": "Hungarian_academics", "id": 10541976}, {"name": "Health_care_by_country", "id": 50769391}], "successors": [{"name": "Hungarian_psychoanalysts", "id": 28799307}, {"name": "Hungarian_women_psychologists", "id": 66509198}]}

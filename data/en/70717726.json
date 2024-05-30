@@ -1,1 +1,1 @@
-{"name": "Deaths_from_urinary_tract_infection", "id": 70717726, "predecessors": [{"name": "Infectious_diseases", "id": 707355}], "successors": []}
+{"name": "Deaths_from_urinary_tract_infection", "id": 70717726, "predecessors": [{"name": "Urological_conditions", "id": 25408617}, {"name": "Infectious_diseases", "id": 707355}], "successors": []}

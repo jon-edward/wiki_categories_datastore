@@ -1,1 +1,1 @@
-{"name": "Anti-spam", "id": 7540197, "predecessors": [{"name": "Email_authentication", "id": 28655364}, {"name": "Spamming", "id": 889246}], "successors": []}
+{"name": "Anti-spam", "id": 7540197, "predecessors": [{"name": "Email_authentication", "id": 28655364}, {"name": "Spamming", "id": 889246}], "successors": [{"name": "Spam_filtering", "id": 916810}]}

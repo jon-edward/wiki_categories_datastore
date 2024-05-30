@@ -1,1 +1,1 @@
-{"name": "인텔_그래픽스", "id": 3335468, "predecessors": [{"name": "인텔_제품", "id": 1063324}, {"name": "컴퓨터_그래픽스", "id": 66192}], "successors": []}
+{"name": "인텔_그래픽스", "id": 3335468, "predecessors": [{"name": "컴퓨터_그래픽스", "id": 66192}], "successors": []}

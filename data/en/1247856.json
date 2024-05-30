@@ -1,1 +1,1 @@
-{"name": "Serology", "id": 1247856, "predecessors": [{"name": "Blood", "id": 968308}, {"name": "Immunology", "id": 804899}, {"name": "Infectious_diseases", "id": 707355}], "successors": [{"name": "Transfusion_medicine", "id": 1270223}, {"name": "Serologists", "id": 9520533}]}
+{"name": "Serology", "id": 1247856, "predecessors": [{"name": "Immunology", "id": 804899}, {"name": "Infectious_diseases", "id": 707355}], "successors": [{"name": "Transfusion_medicine", "id": 1270223}, {"name": "Serologists", "id": 9520533}]}

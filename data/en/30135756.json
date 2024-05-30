@@ -1,1 +1,0 @@
-{"name": "Military_transport", "id": 30135756, "predecessors": [{"name": "Military_logistics", "id": 2734200}], "successors": [{"name": "Military_vehicles", "id": 786368}, {"name": "Military_railways", "id": 16726899}, {"name": "Burma_Railway", "id": 61320790}, {"name": "Naval_ships", "id": 733412}, {"name": "Coast_guards", "id": 765959}]}

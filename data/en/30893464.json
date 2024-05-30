@@ -1,1 +1,1 @@
-{"name": "Amphibious_military_vehicles", "id": 30893464, "predecessors": [{"name": "Amphibious_vehicles", "id": 901669}, {"name": "Military_vehicles", "id": 786368}], "successors": [{"name": "Amphibious_armoured_fighting_vehicles", "id": 30893440}]}
+{"name": "Amphibious_military_vehicles", "id": 30893464, "predecessors": [{"name": "Amphibious_vehicles", "id": 901669}], "successors": [{"name": "Amphibious_armoured_fighting_vehicles", "id": 30893440}]}

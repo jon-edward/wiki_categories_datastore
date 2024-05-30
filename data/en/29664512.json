@@ -1,1 +1,1 @@
-{"name": "Sex_shops", "id": 29664512, "predecessors": [{"name": "Erotica", "id": 2157573}], "successors": []}
+{"name": "Sex_shops", "id": 29664512, "predecessors": [{"name": "Erotica", "id": 2157573}, {"name": "Retailers_by_type_of_merchandise_sold", "id": 55586528}, {"name": "Sex_businesses", "id": 1210959}], "successors": []}

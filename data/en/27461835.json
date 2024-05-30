@@ -1,1 +1,1 @@
-{"name": "Raw_foodism", "id": 27461835, "predecessors": [{"name": "Fad_diets", "id": 52676688}, {"name": "Biologically_based_therapies", "id": 5717653}], "successors": [{"name": "Raw_foods", "id": 27462000}, {"name": "Raw_foodists", "id": 27462055}]}
+{"name": "Raw_foodism", "id": 27461835, "predecessors": [{"name": "Cooking", "id": 1003845}, {"name": "Fad_diets", "id": 52676688}, {"name": "Biologically_based_therapies", "id": 5717653}], "successors": [{"name": "Raw_foods", "id": 27462000}, {"name": "Raw_foodists", "id": 27462055}]}

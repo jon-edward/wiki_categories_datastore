@@ -1,1 +1,1 @@
-{"name": "Perubatan_alternatif", "id": 163537, "predecessors": [{"name": "Perubatan", "id": 8047}, {"name": "Pseudosains", "id": 84577}, {"name": "Kesihatan", "id": 24183}], "successors": [{"name": "Yoga", "id": 163535}, {"name": "Ayurveda", "id": 103037}, {"name": "Perubatan_tradisional", "id": 230474}]}
+{"name": "Perubatan_alternatif", "id": 163537, "predecessors": [{"name": "Perubatan", "id": 8047}, {"name": "Pseudosains", "id": 84577}, {"name": "Kesihatan", "id": 24183}], "successors": [{"name": "Yoga", "id": 163535}, {"name": "Perubatan_tradisional", "id": 230474}]}

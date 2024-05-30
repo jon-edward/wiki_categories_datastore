@@ -1,1 +1,1 @@
-{"name": "Japanese_brand_foods", "id": 3204786, "predecessors": [{"name": "Japanese_brands", "id": 8712051}, {"name": "Brands", "id": 887230}], "successors": [{"name": "Japanese_drink_brands", "id": 76409354}]}
+{"name": "Japanese_brand_foods", "id": 3204786, "predecessors": [{"name": "Japanese_brands", "id": 8712051}, {"name": "Japanese_cuisine", "id": 937592}, {"name": "Food_product_brands", "id": 4108480}], "successors": [{"name": "Tea_brands_in_Japan", "id": 44178383}]}

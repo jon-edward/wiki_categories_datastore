@@ -1,1 +1,1 @@
-{"name": "식인자", "id": 3139285, "predecessors": [{"name": "식인", "id": 834658}, {"name": "인간_행동", "id": 41590}], "successors": []}
+{"name": "식인자", "id": 3139285, "predecessors": [{"name": "인간_행동", "id": 41590}], "successors": []}

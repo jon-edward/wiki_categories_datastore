@@ -1,1 +1,1 @@
-{"name": "Hotels_in_Germany", "id": 3635842, "predecessors": [{"name": "Tourism_in_Germany", "id": 2645584}], "successors": []}
+{"name": "Hotels_in_Germany", "id": 3635842, "predecessors": [{"name": "Tourism_in_Germany", "id": 2645584}], "successors": [{"name": "Defunct_hotels_in_Germany", "id": 33010802}, {"name": "Skyscraper_hotels_in_Germany", "id": 53310792}]}

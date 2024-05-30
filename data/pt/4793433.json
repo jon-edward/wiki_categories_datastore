@@ -1,1 +1,1 @@
-{"name": "Estações_ferroviárias_desativadas_de_Portugal", "id": 4793433, "predecessors": [{"name": "Construções_por_tipo", "id": 4053555}, {"name": "Infraestrutura", "id": 2658298}], "successors": []}
+{"name": "Estações_ferroviárias_desativadas_de_Portugal", "id": 4793433, "predecessors": [{"name": "Estações_ferroviárias", "id": 111438}, {"name": "Construções_por_tipo", "id": 4053555}], "successors": []}

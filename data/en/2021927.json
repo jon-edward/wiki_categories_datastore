@@ -1,1 +1,1 @@
-{"name": "Extinct_dog_breeds", "id": 2021927, "predecessors": [{"name": "Extinct_mammals", "id": 3782789}], "successors": []}
+{"name": "Extinct_dog_breeds", "id": 2021927, "predecessors": [{"name": "Dog_breeding", "id": 1765233}, {"name": "Canines", "id": 914714}, {"name": "Extinct_mammals", "id": 3782789}], "successors": []}

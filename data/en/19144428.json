@@ -1,1 +1,1 @@
-{"name": "Deaths_by_firearm_in_North_Carolina", "id": 19144428, "predecessors": [{"name": "North_Carolina_law", "id": 1077082}], "successors": [{"name": "Suicides_by_firearm_in_North_Carolina", "id": 22380470}]}
+{"name": "Deaths_by_firearm_in_North_Carolina", "id": 19144428, "predecessors": [{"name": "North_Carolina_law", "id": 1077082}, {"name": "Deaths_by_firearm", "id": 5202201}], "successors": [{"name": "Suicides_by_firearm_in_North_Carolina", "id": 22380470}]}

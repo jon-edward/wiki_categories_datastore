@@ -1,1 +1,1 @@
-{"name": "IBM_operating_systems", "id": 7497621, "predecessors": [{"name": "Proprietary_operating_systems", "id": 17495060}], "successors": [{"name": "OS/2", "id": 2774667}, {"name": "IBM_mainframe_operating_systems", "id": 34629079}, {"name": "AIX", "id": 76169007}]}
+{"name": "IBM_operating_systems", "id": 7497621, "predecessors": [{"name": "IBM_software", "id": 859157}], "successors": [{"name": "OS/2", "id": 2774667}, {"name": "IBM_mainframe_operating_systems", "id": 34629079}, {"name": "AIX", "id": 76169007}]}

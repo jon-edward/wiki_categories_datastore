@@ -1,1 +1,1 @@
-{"name": "혀", "id": 770041, "predecessors": [{"name": "입", "id": 28903}, {"name": "인체", "id": 575815}], "successors": []}
+{"name": "혀", "id": 770041, "predecessors": [{"name": "입", "id": 28903}, {"name": "인체", "id": 575815}], "successors": [{"name": "경구개음", "id": 1688993}, {"name": "구개수음", "id": 1689007}, {"name": "연구개음", "id": 1689008}]}

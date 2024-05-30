@@ -1,1 +1,1 @@
-{"name": "Santé_au_Japon", "id": 3311829, "predecessors": [{"name": "Santé", "id": 84921}], "successors": [{"name": "Station_thermale_au_Japon", "id": 3777397}]}
+{"name": "Santé_au_Japon", "id": 3311829, "predecessors": [{"name": "Organisation_mondiale_du_commerce", "id": 659319}, {"name": "Santé", "id": 84921}], "successors": [{"name": "Station_thermale_au_Japon", "id": 3777397}]}

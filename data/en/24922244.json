@@ -1,1 +1,1 @@
-{"name": "Housewives", "id": 24922244, "predecessors": [{"name": "Gendered_occupations", "id": 47230144}, {"name": "Personal_care_and_service_occupations", "id": 787629}], "successors": []}
+{"name": "Housewives", "id": 24922244, "predecessors": [{"name": "Domestic_workers", "id": 4684029}, {"name": "Gendered_occupations", "id": 47230144}], "successors": [{"name": "Fictional_housewives", "id": 24922230}]}

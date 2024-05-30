@@ -1,1 +1,1 @@
-{"name": "USA:s_postministrar", "id": 6015615, "predecessors": [{"name": "USA:s_ministrar", "id": 537873}, {"name": "Ministrar_efter_post", "id": 1100239}], "successors": []}
+{"name": "USA:s_postministrar", "id": 6015615, "predecessors": [{"name": "Postväsen", "id": 342133}, {"name": "USA:s_ministrar", "id": 537873}, {"name": "Ministrar_efter_post", "id": 1100239}], "successors": []}

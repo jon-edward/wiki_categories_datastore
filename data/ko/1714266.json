@@ -1,1 +1,1 @@
-{"name": "메서슈미트_항공기", "id": 1714266, "predecessors": [{"name": "유럽의_항공_교통", "id": 191410}, {"name": "항공기", "id": 30021}], "successors": []}
+{"name": "메서슈미트_항공기", "id": 1714266, "predecessors": [{"name": "교통", "id": 11844}, {"name": "항공_단체", "id": 1704433}], "successors": []}

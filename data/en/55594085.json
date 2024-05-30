@@ -1,1 +1,1 @@
-{"name": "Footwear_retailers", "id": 55594085, "predecessors": [{"name": "Footwear", "id": 711905}, {"name": "Clothing", "id": 737090}], "successors": [{"name": "Footwear_retailers_of_the_United_States", "id": 60616279}]}
+{"name": "Footwear_retailers", "id": 55594085, "predecessors": [{"name": "Footwear", "id": 711905}, {"name": "Retailers_by_type_of_merchandise_sold", "id": 55586528}], "successors": [{"name": "Footwear_retailers_of_the_United_States", "id": 60616279}]}

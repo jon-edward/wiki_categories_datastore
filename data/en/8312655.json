@@ -1,1 +1,1 @@
-{"name": "Riot_control_weapons", "id": 8312655, "predecessors": [{"name": "Riot_control_equipment", "id": 43568284}, {"name": "Weapons", "id": 698507}], "successors": [{"name": "Teargas_grenade_guns", "id": 6730158}, {"name": "Riot_guns", "id": 29880607}]}
+{"name": "Riot_control_weapons", "id": 8312655, "predecessors": [{"name": "Riot_control_equipment", "id": 43568284}, {"name": "Irregular_military", "id": 1769907}], "successors": [{"name": "Teargas_grenade_guns", "id": 6730158}, {"name": "Riot_guns", "id": 29880607}]}

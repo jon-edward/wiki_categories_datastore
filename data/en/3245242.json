@@ -1,1 +1,1 @@
-{"name": "Book_publishers_(people)", "id": 3245242, "predecessors": [{"name": "Publishers_(people)", "id": 3837682}, {"name": "Business", "id": 771152}], "successors": [{"name": "Women_book_publishers_(people)", "id": 51304526}, {"name": "Book_publishing_company_founders", "id": 62666387}]}
+{"name": "Book_publishers_(people)", "id": 3245242, "predecessors": [{"name": "Publishers_(people)", "id": 3837682}, {"name": "Book_publishing", "id": 5666524}, {"name": "Business", "id": 771152}], "successors": [{"name": "Book_publishing_company_founders", "id": 62666387}]}

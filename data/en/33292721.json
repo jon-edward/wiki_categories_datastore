@@ -1,1 +1,1 @@
-{"name": "Broadway_theatre_people", "id": 33292721, "predecessors": [{"name": "Broadway_theatre", "id": 32997888}, {"name": "Theatre", "id": 698600}], "successors": []}
+{"name": "Broadway_theatre_people", "id": 33292721, "predecessors": [{"name": "Broadway_theatre", "id": 32997888}, {"name": "Theatre", "id": 698600}], "successors": [{"name": "Tony_Award_winners", "id": 6619894}]}

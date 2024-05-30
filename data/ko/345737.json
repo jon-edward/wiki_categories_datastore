@@ -1,1 +1,1 @@
-{"name": "할인점", "id": 345737, "predecessors": [{"name": "상업_시설", "id": 536406}, {"name": "유통", "id": 69553}], "successors": [{"name": "미국의_할인점", "id": 2023742}]}
+{"name": "할인점", "id": 345737, "predecessors": [{"name": "유통", "id": 69553}], "successors": [{"name": "미국의_할인점", "id": 2023742}]}

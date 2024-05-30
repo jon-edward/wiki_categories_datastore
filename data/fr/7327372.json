@@ -1,1 +1,1 @@
-{"name": "Classe_de_cuirassé_de_la_Marine_austro-hongroise", "id": 7327372, "predecessors": [{"name": "Cuirassé", "id": 290526}, {"name": "Marine_par_pays", "id": 5264515}], "successors": []}
+{"name": "Classe_de_cuirassé_de_la_Marine_austro-hongroise", "id": 7327372, "predecessors": [{"name": "Marine_par_pays", "id": 5264515}, {"name": "Classe_de_bateau", "id": 6023245}], "successors": []}

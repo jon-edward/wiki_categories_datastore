@@ -1,1 +1,1 @@
-{"name": "Safety_switches", "id": 8293577, "predecessors": [{"name": "Electrical_safety", "id": 2506285}, {"name": "Electrical_wiring", "id": 8386771}, {"name": "Safety_equipment", "id": 1206445}, {"name": "Switches", "id": 1240701}], "successors": [{"name": "Over-current_protection_devices", "id": 67402848}]}
+{"name": "Safety_switches", "id": 8293577, "predecessors": [{"name": "Electrical_safety", "id": 2506285}, {"name": "Electrical_wiring", "id": 8386771}, {"name": "Switches", "id": 1240701}], "successors": []}

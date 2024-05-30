@@ -1,1 +1,1 @@
-{"name": "Electrical_generators", "id": 1859846, "predecessors": [{"name": "Electric_power_systems_components", "id": 25426203}, {"name": "Transducers", "id": 969840}], "successors": [{"name": "Wind_turbines", "id": 10927054}, {"name": "Electrostatic_generators", "id": 46515752}, {"name": "Turbo_generators", "id": 75814881}]}
+{"name": "Electrical_generators", "id": 1859846, "predecessors": [{"name": "Electric_power_generation", "id": 28605732}], "successors": [{"name": "Wind_turbines", "id": 10927054}, {"name": "Turbo_generators", "id": 75814881}]}

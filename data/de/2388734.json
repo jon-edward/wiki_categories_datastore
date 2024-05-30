@@ -1,1 +1,1 @@
-{"name": "Streaming", "id": 2388734, "predecessors": [{"name": "Internet", "id": 240464}], "successors": [{"name": "Internetradio", "id": 1079405}, {"name": "Internetfernsehen", "id": 1571446}, {"name": "Streamer", "id": 11378299}]}
+{"name": "Streaming", "id": 2388734, "predecessors": [{"name": "Internet", "id": 240464}], "successors": [{"name": "Internetradio", "id": 1079405}, {"name": "Internetfernsehen", "id": 1571446}]}

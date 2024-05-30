@@ -1,1 +1,1 @@
-{"name": "School-administration_software", "id": 22516736, "predecessors": [{"name": "Administrative_software", "id": 20727104}, {"name": "Educational_administration", "id": 5947851}, {"name": "Educational_software", "id": 1750815}], "successors": []}
+{"name": "School-administration_software", "id": 22516736, "predecessors": [{"name": "Educational_administration", "id": 5947851}, {"name": "Educational_software", "id": 1750815}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "이탈리아의_팝_가수", "id": 770413, "predecessors": [{"name": "음악_장르", "id": 33382}], "successors": []}
+{"name": "이탈리아의_팝_가수", "id": 770413, "predecessors": [{"name": "이탈리아의_가수", "id": 111638}, {"name": "음악_장르", "id": 33382}], "successors": []}

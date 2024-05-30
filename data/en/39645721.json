@@ -1,1 +1,1 @@
-{"name": "Taxanes", "id": 39645721, "predecessors": [{"name": "Diterpenes", "id": 25825339}, {"name": "Oxetanes", "id": 25897191}, {"name": "Secondary_alcohols", "id": 38716838}, {"name": "Tertiary_alcohols", "id": 38716229}], "successors": []}
+{"name": "Taxanes", "id": 39645721, "predecessors": [{"name": "Oxetanes", "id": 25897191}, {"name": "Secondary_alcohols", "id": 38716838}, {"name": "Tertiary_alcohols", "id": 38716229}], "successors": []}

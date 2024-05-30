@@ -1,1 +1,1 @@
-{"name": "Wisconsin_state_court_judges", "id": 7929589, "predecessors": [{"name": "Government_of_Wisconsin", "id": 1009177}], "successors": []}
+{"name": "Wisconsin_state_court_judges", "id": 7929589, "predecessors": [{"name": "Government_of_Wisconsin", "id": 1009177}], "successors": [{"name": "Justices_of_the_Wisconsin_Supreme_Court", "id": 3830702}, {"name": "Wisconsin_Court_of_Appeals_judges", "id": 3925844}, {"name": "Wisconsin_Supreme_Court_elections", "id": 69723693}]}

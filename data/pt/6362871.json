@@ -1,1 +1,1 @@
-{"name": "Mulher_trans", "id": 6362871, "predecessors": [{"name": "Identidades_transgénero", "id": 6122919}, {"name": "Mulher", "id": 1434825}, {"name": "Gênero", "id": 184148}], "successors": [{"name": "Filmes_sobre_mulheres_trans", "id": 6378102}, {"name": "Mulheres_transgênero", "id": 6789881}]}
+{"name": "Mulher_trans", "id": 6362871, "predecessors": [{"name": "Mulher", "id": 1434825}, {"name": "Gênero", "id": 184148}], "successors": [{"name": "Filmes_sobre_mulheres_trans", "id": 6378102}, {"name": "Mulheres_transgênero", "id": 6789881}]}

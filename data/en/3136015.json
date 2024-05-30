@@ -1,1 +1,1 @@
-{"name": "Bee_products", "id": 3136015, "predecessors": [{"name": "Beekeeping", "id": 1399146}, {"name": "Insect_products", "id": 3135998}], "successors": []}
+{"name": "Bee_products", "id": 3136015, "predecessors": [{"name": "Beekeeping", "id": 1399146}, {"name": "Insect_products", "id": 3135998}], "successors": [{"name": "Honey", "id": 2838531}]}

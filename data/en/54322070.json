@@ -1,1 +1,1 @@
-{"name": "Asbestos_disasters", "id": 54322070, "predecessors": [{"name": "Asbestos", "id": 1627326}, {"name": "Health_disasters", "id": 22991798}, {"name": "Accidents", "id": 4523546}], "successors": []}
+{"name": "Asbestos_disasters", "id": 54322070, "predecessors": [{"name": "Health_disasters", "id": 22991798}, {"name": "Environmental_justice", "id": 24946983}], "successors": []}

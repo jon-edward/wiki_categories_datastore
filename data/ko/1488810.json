@@ -1,1 +1,1 @@
-{"name": "DNS_소프트웨어", "id": 1488810, "predecessors": [{"name": "도메인_네임_시스템", "id": 766834}], "successors": []}
+{"name": "DNS_소프트웨어", "id": 1488810, "predecessors": [{"name": "도메인_네임_시스템", "id": 766834}, {"name": "인터넷_프로토콜_기반_네트워크_소프트웨어", "id": 2525578}], "successors": []}

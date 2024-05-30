@@ -1,1 +1,1 @@
-{"name": "Zábavní_centra", "id": 279478, "predecessors": [{"name": "Rekreační_zařízení", "id": 117098}], "successors": [{"name": "Zábavní_parky", "id": 111432}, {"name": "Kina", "id": 196618}, {"name": "Noční_kluby", "id": 509098}]}
+{"name": "Zábavní_centra", "id": 279478, "predecessors": [{"name": "Rekreační_zařízení", "id": 117098}], "successors": [{"name": "Kina", "id": 196618}, {"name": "Noční_kluby", "id": 509098}]}

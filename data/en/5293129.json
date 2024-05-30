@@ -1,1 +1,1 @@
-{"name": "Roads_in_Bavaria", "id": 5293129, "predecessors": [{"name": "Roads_in_Germany", "id": 2118091}], "successors": [{"name": "Streets_in_Munich", "id": 31558526}]}
+{"name": "Roads_in_Bavaria", "id": 5293129, "predecessors": [{"name": "Transport_in_Bavaria", "id": 6112932}, {"name": "Roads_in_Germany", "id": 2118091}], "successors": [{"name": "Streets_in_Munich", "id": 31558526}]}

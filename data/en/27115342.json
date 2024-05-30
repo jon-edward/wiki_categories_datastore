@@ -1,1 +1,1 @@
-{"name": "Rummy", "id": 27115342, "predecessors": [{"name": "Gambling_games", "id": 8949287}, {"name": "Board_games", "id": 9205892}], "successors": [{"name": "Mahjong", "id": 1669458}]}
+{"name": "Rummy", "id": 27115342, "predecessors": [{"name": "Gambling_games", "id": 8949287}, {"name": "Games_of_mental_skill", "id": 8429389}], "successors": [{"name": "Mahjong", "id": 1669458}]}

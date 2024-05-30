@@ -1,1 +1,1 @@
-{"name": "Wineries_of_Italy", "id": 3725419, "predecessors": [{"name": "Italian_wine", "id": 6042382}, {"name": "Italian_drinks", "id": 2848403}], "successors": []}
+{"name": "Wineries_of_Italy", "id": 3725419, "predecessors": [{"name": "Agriculture_in_Italy", "id": 8225740}, {"name": "Italian_wine", "id": 6042382}, {"name": "Companies_of_Italy", "id": 864346}, {"name": "Food_and_drink_companies_of_Italy", "id": 7735678}], "successors": []}

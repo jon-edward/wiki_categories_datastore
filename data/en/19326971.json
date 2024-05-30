@@ -1,1 +1,1 @@
-{"name": "Wind-powered_vehicles", "id": 19326971, "predecessors": [{"name": "Emissions_reduction", "id": 2644560}], "successors": []}
+{"name": "Wind-powered_vehicles", "id": 19326971, "predecessors": [{"name": "Wind_power", "id": 7689273}, {"name": "Emissions_reduction", "id": 2644560}], "successors": []}

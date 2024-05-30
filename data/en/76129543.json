@@ -1,1 +1,1 @@
-{"name": "Victorian_Turkish_baths", "id": 76129543, "predecessors": [{"name": "Hammams", "id": 76834353}, {"name": "Public_baths", "id": 25132764}, {"name": "Victorian_architecture", "id": 12297383}], "successors": []}
+{"name": "Victorian_Turkish_baths", "id": 76129543, "predecessors": [{"name": "Bathing", "id": 3431925}, {"name": "Public_baths", "id": 25132764}], "successors": []}

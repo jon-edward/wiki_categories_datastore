@@ -1,1 +1,1 @@
-{"name": "Film_de_concert_britannique", "id": 16235241, "predecessors": [{"name": "Film_documentaire_britannique", "id": 2557459}, {"name": "Fiction", "id": 340157}, {"name": "Film_documentaire", "id": 157786}], "successors": []}
+{"name": "Film_de_concert_britannique", "id": 16235241, "predecessors": [{"name": "Film_documentaire_britannique", "id": 2557459}, {"name": "Fiction", "id": 340157}, {"name": "Genre_cinématographique", "id": 83752}], "successors": []}

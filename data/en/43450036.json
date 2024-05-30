@@ -1,1 +1,1 @@
-{"name": "Voiceless_stops", "id": 43450036, "predecessors": [{"name": "Voiceless_oral_consonants", "id": 36584506}], "successors": []}
+{"name": "Voiceless_stops", "id": 43450036, "predecessors": [{"name": "Plosives", "id": 31833179}, {"name": "Voiceless_oral_consonants", "id": 36584506}], "successors": []}

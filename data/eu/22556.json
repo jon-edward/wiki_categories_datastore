@@ -1,1 +1,1 @@
-{"name": "Oinetakoak", "id": 22556, "predecessors": [{"name": "Oina", "id": 1019311}, {"name": "Diseinu_industriala", "id": 229743}], "successors": [{"name": "Kirol-oinetakoak", "id": 748274}, {"name": "Kirol_oinetako_enpresak", "id": 973272}]}
+{"name": "Oinetakoak", "id": 22556, "predecessors": [{"name": "Oina", "id": 1019311}, {"name": "Diseinu_industriala", "id": 229743}, {"name": "Jantziak", "id": 22555}], "successors": [{"name": "Kirol-oinetakoak", "id": 748274}, {"name": "Kirol_oinetako_enpresak", "id": 973272}]}

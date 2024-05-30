@@ -1,1 +1,1 @@
-{"name": "Deaths_from_lymphoma", "id": 18669542, "predecessors": [{"name": "Deaths_from_blood_cancer", "id": 66410699}, {"name": "Lymphoma", "id": 26669375}], "successors": [{"name": "Deaths_from_non-Hodgkin_lymphoma", "id": 72181252}, {"name": "Deaths_from_Hodgkin_lymphoma", "id": 72181293}]}
+{"name": "Deaths_from_lymphoma", "id": 18669542, "predecessors": [{"name": "Deaths_from_blood_cancer", "id": 66410699}, {"name": "Lymphoma", "id": 26669375}], "successors": [{"name": "Deaths_from_Hodgkin_lymphoma", "id": 72181293}]}

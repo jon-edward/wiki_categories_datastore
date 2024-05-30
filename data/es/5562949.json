@@ -1,1 +1,1 @@
-{"name": "Teorías_físicas", "id": 5562949, "predecessors": [{"name": "Física", "id": 50638}, {"name": "Física_teórica", "id": 87304}, {"name": "Teorías_científicas", "id": 1376500}], "successors": [{"name": "Teorías_cosmológicas", "id": 5562957}, {"name": "Teorías_de_gravitación", "id": 5664808}]}
+{"name": "Teorías_físicas", "id": 5562949, "predecessors": [{"name": "Física_teórica", "id": 87304}, {"name": "Teorías_científicas", "id": 1376500}], "successors": [{"name": "Teorías_cosmológicas", "id": 5562957}, {"name": "Teorías_de_gravitación", "id": 5664808}]}

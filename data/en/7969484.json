@@ -1,1 +1,1 @@
-{"name": "Horse_racing_meetings", "id": 7969484, "predecessors": [{"name": "Equestrian_sports_competitions", "id": 22257223}, {"name": "Horse_racing", "id": 866747}], "successors": [{"name": "Breeders'_Cup", "id": 3491732}, {"name": "Breeders_Crown", "id": 52229968}]}
+{"name": "Horse_racing_meetings", "id": 7969484, "predecessors": [{"name": "Horse_racing", "id": 866747}], "successors": [{"name": "Breeders'_Cup", "id": 3491732}, {"name": "Breeders_Crown", "id": 52229968}]}

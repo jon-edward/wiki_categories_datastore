@@ -1,1 +1,1 @@
-{"name": "Human_pupil", "id": 62045297, "predecessors": [{"name": "Human_eye_anatomy", "id": 36703893}], "successors": []}
+{"name": "Human_pupil", "id": 62045297, "predecessors": [{"name": "Human_eye_anatomy", "id": 36703893}, {"name": "Vision", "id": 1060974}], "successors": []}

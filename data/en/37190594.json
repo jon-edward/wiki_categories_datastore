@@ -1,1 +1,1 @@
-{"name": "Aging-related_enzymes", "id": 37190594, "predecessors": [{"name": "Senescence", "id": 37107764}], "successors": []}
+{"name": "Aging-related_enzymes", "id": 37190594, "predecessors": [{"name": "Enzymes", "id": 702815}, {"name": "Senescence", "id": 37107764}], "successors": []}

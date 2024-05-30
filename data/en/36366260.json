@@ -1,1 +1,1 @@
-{"name": "Events_in_Beijing", "id": 36366260, "predecessors": [{"name": "Culture_in_Beijing", "id": 37614165}], "successors": [{"name": "Annual_events_in_Beijing", "id": 46185355}, {"name": "Sports_competitions_in_Beijing", "id": 53422418}]}
+{"name": "Events_in_Beijing", "id": 36366260, "predecessors": [{"name": "Culture_in_Beijing", "id": 37614165}, {"name": "Tourist_attractions_in_Beijing", "id": 3390697}], "successors": [{"name": "Annual_events_in_Beijing", "id": 46185355}, {"name": "Sports_competitions_in_Beijing", "id": 53422418}]}

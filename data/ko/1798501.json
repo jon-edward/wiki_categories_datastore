@@ -1,1 +1,1 @@
-{"name": "유토피아_영화", "id": 1798501, "predecessors": [{"name": "사회_SF_영화", "id": 1671608}, {"name": "영화", "id": 11875}, {"name": "사회_SF", "id": 1671601}], "successors": []}
+{"name": "유토피아_영화", "id": 1798501, "predecessors": [{"name": "사회_SF_영화", "id": 1671608}, {"name": "SF_영화", "id": 54519}, {"name": "사회_SF", "id": 1671601}], "successors": []}

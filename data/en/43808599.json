@@ -1,1 +1,1 @@
-{"name": "Bird_orders", "id": 43808599, "predecessors": [{"name": "4_(number)", "id": 39416964}], "successors": []}
+{"name": "Bird_orders", "id": 43808599, "predecessors": [{"name": "Birds_by_classification", "id": 2413662}, {"name": "Stegocephalians", "id": 47579243}], "successors": []}

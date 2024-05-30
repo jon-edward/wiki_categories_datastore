@@ -1,1 +1,1 @@
-{"name": "Spielepreis", "id": 396264, "predecessors": [{"name": "Gesellschaft", "id": 691624}], "successors": [{"name": "Computerspielauszeichnung", "id": 5648205}]}
+{"name": "Spielepreis", "id": 396264, "predecessors": [{"name": "Spiele", "id": 2145812}, {"name": "Gesellschaft", "id": 691624}], "successors": [{"name": "Computerspielauszeichnung", "id": 5648205}]}

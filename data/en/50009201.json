@@ -1,1 +1,1 @@
-{"name": "English_governesses", "id": 50009201, "predecessors": [{"name": "English_women_educators", "id": 56844789}], "successors": [{"name": "Governesses_to_the_English_Royal_Household", "id": 57069787}]}
+{"name": "English_governesses", "id": 50009201, "predecessors": [{"name": "English_domestic_workers", "id": 50009214}, {"name": "Domestic_workers", "id": 4684029}], "successors": [{"name": "Governesses_to_the_English_Royal_Household", "id": 57069787}]}

@@ -1,1 +1,1 @@
-{"name": "Primate_sanctuaries", "id": 31368809, "predecessors": [{"name": "Animal_sanctuaries", "id": 14490888}, {"name": "Primate_conservation", "id": 34415905}], "successors": []}
+{"name": "Primate_sanctuaries", "id": 31368809, "predecessors": [{"name": "Animal_sanctuaries", "id": 14490888}, {"name": "Primate_conservation", "id": 34415905}, {"name": "Primatology", "id": 3076626}], "successors": []}

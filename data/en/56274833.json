@@ -1,1 +1,1 @@
-{"name": "Cancelled_space_probes", "id": 56274833, "predecessors": [{"name": "Cancelled_spacecraft", "id": 13567699}], "successors": [{"name": "Mars_One", "id": 37691727}]}
+{"name": "Cancelled_space_probes", "id": 56274833, "predecessors": [{"name": "Cancelled_spacecraft", "id": 13567699}, {"name": "Space_probes", "id": 23636920}], "successors": [{"name": "Mars_One", "id": 37691727}]}

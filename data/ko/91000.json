@@ -1,1 +1,1 @@
-{"name": "미해독_문서", "id": 91000, "predecessors": [{"name": "미해결_문제", "id": 15615}], "successors": [{"name": "미해독_문자", "id": 295014}]}
+{"name": "미해독_문서", "id": 91000, "predecessors": [{"name": "미해결_문제", "id": 15615}, {"name": "암호학사", "id": 91001}], "successors": [{"name": "미해독_문자", "id": 295014}]}

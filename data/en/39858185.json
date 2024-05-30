@@ -1,1 +1,1 @@
-{"name": "USB", "id": 39858185, "predecessors": [{"name": "Computer_hardware_standards", "id": 30857280}, {"name": "Physical_layer_protocols", "id": 7920188}, {"name": "Serial_buses", "id": 3284587}], "successors": [{"name": "Live_USB", "id": 22718036}]}
+{"name": "USB", "id": 39858185, "predecessors": [{"name": "Personal_area_networks", "id": 5026224}, {"name": "Physical_layer_protocols", "id": 7920188}, {"name": "Serial_buses", "id": 3284587}], "successors": [{"name": "Live_USB", "id": 22718036}]}

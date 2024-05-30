@@ -1,1 +1,1 @@
-{"name": "English_language_tests", "id": 7835906, "predecessors": [{"name": "English_language", "id": 706725}, {"name": "Language_tests", "id": 2276411}], "successors": []}
+{"name": "English_language_tests", "id": 7835906, "predecessors": [{"name": "English_language", "id": 706725}], "successors": [{"name": "Standardized_tests_for_English_language", "id": 56795177}]}

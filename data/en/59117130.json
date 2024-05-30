@@ -1,1 +1,1 @@
-{"name": "SNK_franchises", "id": 59117130, "predecessors": [{"name": "SNK", "id": 51960731}], "successors": [{"name": "Metal_Slug", "id": 3994776}, {"name": "The_King_of_Fighters", "id": 9892056}, {"name": "Fatal_Fury", "id": 32167501}]}
+{"name": "SNK_franchises", "id": 59117130, "predecessors": [{"name": "SNK", "id": 51960731}], "successors": [{"name": "Metal_Slug", "id": 3994776}, {"name": "Fatal_Fury", "id": 32167501}, {"name": "The_King_of_Fighters_characters", "id": 9891951}, {"name": "The_King_of_Fighters_games", "id": 9892036}]}

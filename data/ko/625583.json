@@ -1,1 +1,1 @@
-{"name": "플루오린화물", "id": 625583, "predecessors": [{"name": "염", "id": 32336}], "successors": []}
+{"name": "플루오린화물", "id": 625583, "predecessors": [{"name": "염", "id": 32336}, {"name": "플루오린_화합물", "id": 101976}, {"name": "할로젠", "id": 48380}], "successors": []}

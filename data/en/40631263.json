@@ -1,1 +1,1 @@
-{"name": "Numerical_libraries", "id": 40631263, "predecessors": [{"name": "Numerical_software", "id": 1908765}, {"name": "Mathematical_software", "id": 4390019}], "successors": [{"name": "GPGPU_libraries", "id": 40616036}, {"name": "C++_numerical_libraries", "id": 49243027}]}
+{"name": "Numerical_libraries", "id": 40631263, "predecessors": [{"name": "Computer_libraries", "id": 7482978}], "successors": [{"name": "GPGPU_libraries", "id": 40616036}]}

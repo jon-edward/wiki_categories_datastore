@@ -1,1 +1,1 @@
-{"name": "Insects_as_food", "id": 4675392, "predecessors": [{"name": "Meat_by_animal", "id": 51423933}, {"name": "Livestock", "id": 917009}], "successors": [{"name": "Insects_as_feed", "id": 63692655}, {"name": "Edible_insects", "id": 66586024}]}
+{"name": "Insects_as_food", "id": 4675392, "predecessors": [{"name": "Meat_by_animal", "id": 51423933}, {"name": "Extant_Cambrian_first_appearances", "id": 48568718}], "successors": [{"name": "Insects_as_feed", "id": 63692655}, {"name": "Edible_insects", "id": 66586024}]}

@@ -1,0 +1,1 @@
+{"name": "Earth_observation", "id": 64987492, "predecessors": [{"name": "Observation", "id": 2523515}], "successors": [{"name": "Meteorological_data_and_networks", "id": 4979130}, {"name": "Environmental_data", "id": 32872957}, {"name": "Atmospheric_sounding", "id": 58940819}]}

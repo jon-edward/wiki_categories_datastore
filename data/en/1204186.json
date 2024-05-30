@@ -1,1 +1,1 @@
-{"name": "Chicken_breeds", "id": 1204186, "predecessors": [{"name": "Chickens", "id": 5741258}, {"name": "Poultry", "id": 757493}], "successors": []}
+{"name": "Chicken_breeds", "id": 1204186, "predecessors": [{"name": "Chickens", "id": 5741258}, {"name": "Phasianidae", "id": 1387055}], "successors": [{"name": "Bantam_chicken_breeds", "id": 7150789}, {"name": "Chicken_crossbreeds", "id": 22072082}]}

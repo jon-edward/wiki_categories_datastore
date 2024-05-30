@@ -1,1 +1,1 @@
-{"name": "Opernensemble", "id": 5229404, "predecessors": [{"name": "Musiktheaterensemble", "id": 13097910}, {"name": "Theaterbetrieb", "id": 5435650}, {"name": "Oper", "id": 241419}], "successors": []}
+{"name": "Opernensemble", "id": 5229404, "predecessors": [{"name": "Ensemble", "id": 939079}, {"name": "Theaterbetrieb", "id": 5435650}, {"name": "Theaterensemble", "id": 796568}, {"name": "Oper", "id": 241419}], "successors": []}

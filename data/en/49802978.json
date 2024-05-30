@@ -1,1 +1,1 @@
-{"name": "Orange_County_Transportation_Authority", "id": 49802978, "predecessors": [{"name": "Transit_authorities_with_natural_gas_buses", "id": 18121748}], "successors": []}
+{"name": "Orange_County_Transportation_Authority", "id": 49802978, "predecessors": [{"name": "Bus_transportation_in_California", "id": 18908931}, {"name": "Intermodal_transportation_authorities_in_California", "id": 30597253}, {"name": "Transit_authorities_with_natural_gas_buses", "id": 18121748}], "successors": []}

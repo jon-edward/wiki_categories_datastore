@@ -1,1 +1,1 @@
-{"name": "History_of_furniture", "id": 11737735, "predecessors": [{"name": "Furniture", "id": 965851}], "successors": [{"name": "Furniture_museums", "id": 61487818}]}
+{"name": "History_of_furniture", "id": 11737735, "predecessors": [{"name": "Design_history", "id": 29392995}, {"name": "Furniture", "id": 965851}, {"name": "History_of_technology", "id": 707335}], "successors": [{"name": "Furniture_museums", "id": 61487818}, {"name": "Australian_furniture_designers", "id": 73447060}]}

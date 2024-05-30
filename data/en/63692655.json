@@ -1,1 +1,1 @@
-{"name": "Insects_as_feed", "id": 63692655, "predecessors": [{"name": "Insects_as_food", "id": 4675392}], "successors": []}
+{"name": "Insects_as_feed", "id": 63692655, "predecessors": [{"name": "Animal_feed", "id": 41332839}, {"name": "Insects_as_food", "id": 4675392}], "successors": []}

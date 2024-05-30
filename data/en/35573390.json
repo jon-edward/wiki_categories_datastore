@@ -1,1 +1,1 @@
-{"name": "Mobile_security", "id": 35573390, "predecessors": [{"name": "Computer_security", "id": 765969}], "successors": [{"name": "IOS_malware", "id": 48480102}, {"name": "Android_(operating_system)_malware", "id": 48480108}]}
+{"name": "Mobile_security", "id": 35573390, "predecessors": [{"name": "Computer_security", "id": 765969}, {"name": "Mobile_technology", "id": 15878432}], "successors": [{"name": "IOS_malware", "id": 48480102}, {"name": "Android_(operating_system)_malware", "id": 48480108}]}

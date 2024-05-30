@@ -1,1 +1,1 @@
-{"name": "Prehistoric_mammal_families", "id": 49588788, "predecessors": [{"name": "Mammal_families", "id": 24013048}, {"name": "Prehistoric_mammals", "id": 862781}], "successors": [{"name": "Prehistoric_rodent_families", "id": 49588526}]}
+{"name": "Prehistoric_mammal_families", "id": 49588788, "predecessors": [{"name": "Mammal_families", "id": 24013048}, {"name": "Prehistoric_mammals", "id": 862781}, {"name": "Prehistoric_therapsid_families", "id": 55667517}], "successors": [{"name": "Prehistoric_rodent_families", "id": 49588526}]}

@@ -1,1 +1,1 @@
-{"name": "일본의_테마파크", "id": 556426, "predecessors": [{"name": "테마파크", "id": 475143}], "successors": [{"name": "일본의_놀이공원", "id": 550467}]}
+{"name": "일본의_테마파크", "id": 556426, "predecessors": [{"name": "테마파크", "id": 475143}, {"name": "관광", "id": 55754}], "successors": [{"name": "일본의_놀이공원", "id": 550467}]}

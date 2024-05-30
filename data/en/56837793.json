@@ -1,1 +1,1 @@
-{"name": "Women_art_collectors", "id": 56837793, "predecessors": [{"name": "Art_collections", "id": 44686494}, {"name": "Women_and_the_arts", "id": 18891503}], "successors": [{"name": "American_women_art_collectors", "id": 76529312}]}
+{"name": "Women_art_collectors", "id": 56837793, "predecessors": [{"name": "Women_collectors", "id": 39252355}, {"name": "Art_collections", "id": 44686494}], "successors": [{"name": "American_women_art_collectors", "id": 76529312}]}

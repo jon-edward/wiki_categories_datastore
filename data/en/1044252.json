@@ -1,1 +1,1 @@
-{"name": "Disney_books", "id": 1044252, "predecessors": [{"name": "Disney_merchandise", "id": 1351192}], "successors": [{"name": "Disney_Comics_titles", "id": 5222468}, {"name": "Hyperion_Books_books", "id": 40590073}]}
+{"name": "Disney_books", "id": 1044252, "predecessors": [{"name": "Disney_merchandise", "id": 1351192}, {"name": "American_books", "id": 7961959}], "successors": [{"name": "Disney_Comics_titles", "id": 5222468}, {"name": "Hyperion_Books_books", "id": 40590073}]}

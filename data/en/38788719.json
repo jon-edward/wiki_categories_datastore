@@ -1,1 +1,1 @@
-{"name": "Tide-class_replenishment_oilers", "id": 38788719, "predecessors": [{"name": "Auxiliary_replenishment_ship_classes", "id": 50722458}], "successors": []}
+{"name": "Tide-class_replenishment_oilers", "id": 38788719, "predecessors": [{"name": "Auxiliary_replenishment_ship_classes", "id": 50722458}, {"name": "Tankers_of_the_Royal_Fleet_Auxiliary", "id": 33742468}], "successors": []}

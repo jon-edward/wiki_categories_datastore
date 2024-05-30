@@ -1,1 +1,1 @@
-{"name": "Apple_silicon", "id": 65818198, "predecessors": [{"name": "ARM-based_systems_on_chips", "id": 72563895}], "successors": []}
+{"name": "Apple_silicon", "id": 65818198, "predecessors": [{"name": "ARM-based_systems_on_chips", "id": 72563895}, {"name": "Apple_Inc._hardware", "id": 9301031}], "successors": []}

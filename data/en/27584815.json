@@ -1,1 +1,1 @@
-{"name": "Human_analog_missions", "id": 27584815, "predecessors": [{"name": "Human_spaceflight_programs", "id": 43562977}, {"name": "Space_colonization", "id": 1346470}], "successors": []}
+{"name": "Human_analog_missions", "id": 27584815, "predecessors": [{"name": "Human_spaceflight_programs", "id": 43562977}, {"name": "Space_colonization", "id": 1346470}, {"name": "Spaceflight_technology", "id": 39285984}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Animal_parasites_of_fish", "id": 55638068, "predecessors": [{"name": "Animal_parasites_of_vertebrates", "id": 55809907}, {"name": "Parasites_of_fish", "id": 40223269}], "successors": [{"name": "Parasitic_helminths_of_fish", "id": 55638083}, {"name": "Ancyrocephalidae", "id": 58133070}]}
+{"name": "Animal_parasites_of_fish", "id": 55638068, "predecessors": [{"name": "Parasites_of_fish", "id": 40223269}], "successors": [{"name": "Parasitic_helminths_of_fish", "id": 55638083}, {"name": "Ancyrocephalidae", "id": 58133070}]}

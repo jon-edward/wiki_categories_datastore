@@ -1,1 +1,1 @@
-{"name": "뇌성마비_환자", "id": 2019729, "predecessors": [{"name": "장애인", "id": 51554}], "successors": []}
+{"name": "뇌성마비_환자", "id": 2019729, "predecessors": [{"name": "뇌성마비_및_기타_마비성_증후군", "id": 708689}, {"name": "장애인", "id": 51554}], "successors": []}

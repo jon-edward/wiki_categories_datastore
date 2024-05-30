@@ -1,1 +1,1 @@
-{"name": "Filmes_ambientados_na_Austrália", "id": 3873529, "predecessors": [{"name": "Cinema", "id": 15210}], "successors": [{"name": "Filmes_ambientados_em_Sydney", "id": 3922557}, {"name": "Filmes_ambientados_na_Nova_Gales_do_Sul", "id": 5710393}]}
+{"name": "Filmes_ambientados_na_Austrália", "id": 3873529, "predecessors": [{"name": "Austrália", "id": 19983}, {"name": "Cinema", "id": 15210}], "successors": [{"name": "Filmes_ambientados_em_Sydney", "id": 3922557}, {"name": "Filmes_ambientados_na_Nova_Gales_do_Sul", "id": 5710393}]}

@@ -1,1 +1,1 @@
-{"name": "Usenet", "id": 704541, "predecessors": [{"name": "Cyberspace", "id": 7885327}], "successors": [{"name": "Usenet_clients", "id": 704535}, {"name": "Usenet_people", "id": 1297352}]}
+{"name": "Usenet", "id": 704541, "predecessors": [{"name": "Cyberspace", "id": 7885327}, {"name": "Internet_forums", "id": 1059772}, {"name": "Wide_area_networks", "id": 5013842}], "successors": [{"name": "Usenet_clients", "id": 704535}, {"name": "Usenet_people", "id": 1297352}]}

@@ -1,1 +1,1 @@
-{"name": "Field-effect_transistors", "id": 48945822, "predecessors": [{"name": "Transistor_types", "id": 11228636}, {"name": "Transistors", "id": 1240627}], "successors": [{"name": "MOSFETs", "id": 48945765}]}
+{"name": "Field-effect_transistors", "id": 48945822, "predecessors": [{"name": "Electronics_industry", "id": 35046850}, {"name": "Transistor_types", "id": 11228636}, {"name": "Transistors", "id": 1240627}], "successors": [{"name": "MOSFETs", "id": 48945765}]}

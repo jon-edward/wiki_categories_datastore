@@ -1,1 +1,1 @@
-{"name": "Indiana_University_Bloomington_faculty", "id": 53073032, "predecessors": [{"name": "Indiana_University_Bloomington", "id": 31844298}], "successors": [{"name": "Jacobs_School_of_Music_faculty", "id": 34214930}]}
+{"name": "Indiana_University_Bloomington_faculty", "id": 53073032, "predecessors": [{"name": "Indiana_University_Bloomington", "id": 31844298}, {"name": "Indiana_University_faculty", "id": 5436506}], "successors": [{"name": "Jacobs_School_of_Music_faculty", "id": 34214930}]}

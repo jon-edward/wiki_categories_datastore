@@ -1,1 +1,1 @@
-{"name": "J_Line_(Los_Angeles_Metro)", "id": 44045468, "predecessors": [{"name": "Bus_routes_in_the_United_States", "id": 21684194}, {"name": "Bus_rapid_transit_in_California", "id": 30624588}], "successors": []}
+{"name": "J_Line_(Los_Angeles_Metro)", "id": 44045468, "predecessors": [{"name": "Bus_routes_in_the_United_States", "id": 21684194}, {"name": "Public_transportation_in_Los_Angeles", "id": 28606895}, {"name": "Bus_rapid_transit_in_California", "id": 30624588}, {"name": "San_Gabriel_Valley", "id": 28109796}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Postal_infrastructure", "id": 45681091, "predecessors": [{"name": "Infrastructure", "id": 2962329}, {"name": "Postal_systems", "id": 878463}], "successors": []}
+{"name": "Postal_infrastructure", "id": 45681091, "predecessors": [{"name": "Infrastructure", "id": 2962329}, {"name": "Postal_systems", "id": 878463}], "successors": [{"name": "Post_office_buildings_in_the_United_Kingdom", "id": 42240093}]}

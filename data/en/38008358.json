@@ -1,1 +1,1 @@
-{"name": "Funeral-related_industry", "id": 38008358, "predecessors": [{"name": "Death_customs", "id": 921950}, {"name": "Service_industries", "id": 1245670}], "successors": [{"name": "Coffins", "id": 8291017}, {"name": "Funeral_directors", "id": 11691191}, {"name": "Funeral_transport", "id": 30135675}]}
+{"name": "Funeral-related_industry", "id": 38008358, "predecessors": [{"name": "Death_customs", "id": 921950}], "successors": [{"name": "Coffins", "id": 8291017}]}

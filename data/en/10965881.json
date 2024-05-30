@@ -1,1 +1,1 @@
-{"name": "Network_booting", "id": 10965881, "predecessors": [{"name": "Booting", "id": 6254572}, {"name": "Computer_networking", "id": 4677693}, {"name": "Cloud_computing", "id": 18667762}], "successors": []}
+{"name": "Network_booting", "id": 10965881, "predecessors": [{"name": "Computer_networking", "id": 4677693}, {"name": "Cloud_computing", "id": 18667762}], "successors": []}

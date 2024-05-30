@@ -1,1 +1,1 @@
-{"name": "Químics_asiàtics", "id": 1506213, "predecessors": [{"name": "Científics_asiàtics", "id": 866774}, {"name": "Principal", "id": 13225}], "successors": [{"name": "Químics_russos", "id": 624323}, {"name": "Bioquímics_asiàtics", "id": 1506399}]}
+{"name": "Químics_asiàtics", "id": 1506213, "predecessors": [{"name": "Científics_asiàtics", "id": 866774}, {"name": "Biografies", "id": 16117}], "successors": [{"name": "Químics_russos", "id": 624323}, {"name": "Bioquímics_asiàtics", "id": 1506399}]}

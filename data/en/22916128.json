@@ -1,1 +1,1 @@
-{"name": "Suicides_by_explosive_device", "id": 22916128, "predecessors": [{"name": "Deaths_by_explosive_device", "id": 18766550}], "successors": [{"name": "Suicide_bombers", "id": 10291914}]}
+{"name": "Suicides_by_explosive_device", "id": 22916128, "predecessors": [{"name": "Deaths_by_explosive_device", "id": 18766550}, {"name": "Suicide", "id": 1143829}], "successors": [{"name": "Suicide_bombers", "id": 10291914}]}

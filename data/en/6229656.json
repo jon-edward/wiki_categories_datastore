@@ -1,1 +1,1 @@
-{"name": "Fish_markets", "id": 6229656, "predecessors": [{"name": "Fish_products_sales", "id": 11968377}, {"name": "Food_markets", "id": 10614502}], "successors": []}
+{"name": "Fish_markets", "id": 6229656, "predecessors": [{"name": "Fish_products_sales", "id": 11968377}, {"name": "Food_markets", "id": 10614502}, {"name": "Wholesale_markets", "id": 21600704}], "successors": []}

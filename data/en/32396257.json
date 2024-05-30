@@ -1,1 +1,1 @@
-{"name": "Mental_content", "id": 32396257, "predecessors": [{"name": "Brain", "id": 5239453}], "successors": [{"name": "Subjective_experience", "id": 35791326}]}
+{"name": "Mental_content", "id": 32396257, "predecessors": [{"name": "Cognition", "id": 1055995}, {"name": "Brain", "id": 5239453}], "successors": [{"name": "Knowledge", "id": 700914}, {"name": "Memory", "id": 974363}, {"name": "Psychological_attitude", "id": 4419621}, {"name": "Subjective_experience", "id": 35791326}, {"name": "Dream", "id": 38277172}, {"name": "Psychodynamic_psychotherapy", "id": 16359560}]}

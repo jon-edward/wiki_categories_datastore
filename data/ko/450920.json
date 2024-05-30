@@ -1,1 +1,1 @@
-{"name": "수영_기록", "id": 450920, "predecessors": [{"name": "수영", "id": 34675}, {"name": "스포츠_기록과_통계", "id": 54267}], "successors": []}
+{"name": "수영_기록", "id": 450920, "predecessors": [{"name": "수영", "id": 34675}], "successors": [{"name": "수영_세계_기록_수립자", "id": 3033751}]}

@@ -1,1 +1,1 @@
-{"name": "Singers_from_Ontario", "id": 69907120, "predecessors": [{"name": "Musicians_from_Ontario", "id": 22420567}], "successors": [{"name": "Singers_from_Toronto", "id": 74202796}]}
+{"name": "Singers_from_Ontario", "id": 69907120, "predecessors": [{"name": "Musicians_from_Ontario", "id": 22420567}, {"name": "Americas", "id": 1526345}], "successors": [{"name": "Singers_from_Toronto", "id": 74202796}]}

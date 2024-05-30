@@ -1,1 +1,1 @@
-{"name": "FK_보이보디나의_축구_선수", "id": 385350, "predecessors": [{"name": "보이보디나", "id": 70023}], "successors": []}
+{"name": "FK_보이보디나의_축구_선수", "id": 385350, "predecessors": [{"name": "보이보디나", "id": 70023}, {"name": "축구인", "id": 458036}], "successors": []}

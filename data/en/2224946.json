@@ -1,1 +1,1 @@
-{"name": "Synchronous_programming_languages", "id": 2224946, "predecessors": [{"name": "Embedded_systems", "id": 852879}, {"name": "Formal_specification_languages", "id": 8232469}, {"name": "Real-time_computing", "id": 2440348}], "successors": []}
+{"name": "Synchronous_programming_languages", "id": 2224946, "predecessors": [{"name": "Formal_specification_languages", "id": 8232469}, {"name": "Programming_languages", "id": 690571}], "successors": []}

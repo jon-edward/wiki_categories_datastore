@@ -1,1 +1,1 @@
-{"name": "Buildings_and_structures_in_Shiraz", "id": 24100082, "predecessors": [{"name": "Shiraz", "id": 13780405}], "successors": [{"name": "Shiraz_Metro_stations", "id": 44254999}]}
+{"name": "Buildings_and_structures_in_Shiraz", "id": 24100082, "predecessors": [{"name": "Buildings_and_structures_in_Fars_Province", "id": 47346941}, {"name": "Shiraz", "id": 13780405}], "successors": [{"name": "Shiraz_Metro_stations", "id": 44254999}]}

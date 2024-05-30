@@ -1,1 +1,1 @@
-{"name": "Analytics", "id": 19940347, "predecessors": [{"name": "Business_intelligence", "id": 1228459}], "successors": [{"name": "Types_of_analytics", "id": 48573948}, {"name": "Analytics_companies", "id": 48573953}]}
+{"name": "Analytics", "id": 19940347, "predecessors": [{"name": "Business_intelligence", "id": 1228459}, {"name": "Financial_data_analysis", "id": 27494493}], "successors": [{"name": "Types_of_analytics", "id": 48573948}, {"name": "Analytics_companies", "id": 48573953}]}

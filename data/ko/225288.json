@@ -1,1 +1,1 @@
-{"name": "이란의_미사일", "id": 225288, "predecessors": [{"name": "무기", "id": 13705}], "successors": [{"name": "이란의_탄도_미사일", "id": 535365}]}
+{"name": "이란의_미사일", "id": 225288, "predecessors": [{"name": "이란", "id": 19947}], "successors": [{"name": "이란의_탄도_미사일", "id": 535365}]}

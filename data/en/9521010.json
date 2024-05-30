@@ -1,1 +1,1 @@
-{"name": "Data_modeling_languages", "id": 9521010, "predecessors": [{"name": "Data_modeling", "id": 1116481}], "successors": [{"name": "XML", "id": 1035551}, {"name": "Unified_Modeling_Language", "id": 3277173}]}
+{"name": "Data_modeling_languages", "id": 9521010, "predecessors": [{"name": "Computer_languages", "id": 935897}, {"name": "Data_modeling", "id": 1116481}, {"name": "Modeling_languages", "id": 58648871}, {"name": "Specification_languages", "id": 945925}], "successors": [{"name": "XML", "id": 1035551}, {"name": "Unified_Modeling_Language", "id": 3277173}]}

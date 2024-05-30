@@ -1,1 +1,1 @@
-{"name": "Suicides_by_gas", "id": 6233643, "predecessors": [{"name": "Deaths_by_poisoning", "id": 9689872}], "successors": [{"name": "Suicides_by_carbon_monoxide_poisoning", "id": 18688002}]}
+{"name": "Suicides_by_gas", "id": 6233643, "predecessors": [{"name": "Suicides_by_poison", "id": 6249132}, {"name": "Gases", "id": 1645013}], "successors": [{"name": "Suicides_by_carbon_monoxide_poisoning", "id": 18688002}]}

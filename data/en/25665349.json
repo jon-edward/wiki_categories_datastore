@@ -1,1 +1,1 @@
-{"name": "Underwater_ruins", "id": 25665349, "predecessors": [{"name": "Submerged_places", "id": 65519017}, {"name": "Underwater_archaeological_sites", "id": 25556366}], "successors": [{"name": "Tartessos", "id": 33996226}]}
+{"name": "Underwater_ruins", "id": 25665349, "predecessors": [{"name": "Submerged_places", "id": 65519017}, {"name": "Underwater_archaeological_sites", "id": 25556366}, {"name": "Archaeological_sites", "id": 1062022}], "successors": [{"name": "Tartessos", "id": 33996226}]}

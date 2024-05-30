@@ -1,1 +1,1 @@
-{"name": "천연_가스관", "id": 687439, "predecessors": [{"name": "천연_가스", "id": 559048}, {"name": "교통_시설", "id": 80120}], "successors": [{"name": "천연_가스관_회사", "id": 2834247}]}
+{"name": "천연_가스관", "id": 687439, "predecessors": [{"name": "천연_가스", "id": 559048}], "successors": []}

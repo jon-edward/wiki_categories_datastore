@@ -1,1 +1,1 @@
-{"name": "Sabbath", "id": 32800044, "predecessors": [{"name": "Friday", "id": 31721492}, {"name": "Sunday", "id": 31714397}, {"name": "Working_time", "id": 4595730}, {"name": "Days_of_the_week", "id": 3287927}], "successors": [{"name": "Shabbat", "id": 4091614}]}
+{"name": "Sabbath", "id": 32800044, "predecessors": [{"name": "Friday", "id": 31721492}, {"name": "Sunday", "id": 31714397}, {"name": "Time_in_religion", "id": 34001355}, {"name": "Working_time", "id": 4595730}, {"name": "Days_of_the_week", "id": 3287927}], "successors": [{"name": "Shabbat", "id": 4091614}]}

@@ -1,1 +1,1 @@
-{"name": "XM_Satellite_Radio_channels", "id": 3258153, "predecessors": [{"name": "Digital-only_radio_stations", "id": 40366699}, {"name": "XM_Satellite_Radio", "id": 2958717}], "successors": []}
+{"name": "XM_Satellite_Radio_channels", "id": 3258153, "predecessors": [{"name": "Digital-only_radio_stations", "id": 40366699}, {"name": "XM_Satellite_Radio", "id": 2958717}, {"name": "Satellite_radio", "id": 1549684}], "successors": []}
