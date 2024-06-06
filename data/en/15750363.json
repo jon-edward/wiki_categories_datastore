@@ -1,1 +1,1 @@
-{"name": "Flower_markets", "id": 15750363, "predecessors": [{"name": "Floral_industry", "id": 53875703}, {"name": "Floristry", "id": 19147677}, {"name": "Flowers_in_culture", "id": 71978254}, {"name": "Retail_markets", "id": 21600631}, {"name": "Wholesale_markets", "id": 21600704}], "successors": []}
+{"name": "Flower_markets", "id": 15750363, "predecessors": [{"name": "Floral_industry", "id": 53875703}, {"name": "Floristry", "id": 19147677}, {"name": "Retail_markets", "id": 21600631}, {"name": "Wholesale_markets", "id": 21600704}], "successors": []}

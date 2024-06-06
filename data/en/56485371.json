@@ -1,1 +1,1 @@
-{"name": "FK_Panevėžys_players", "id": 56485371, "predecessors": [{"name": "Capitals_of_Lithuanian_counties", "id": 8691297}], "successors": []}
+{"name": "FK_Panevėžys_players", "id": 56485371, "predecessors": [{"name": "Capitals_of_Lithuanian_counties", "id": 8691297}, {"name": "Culture_of_Lithuania", "id": 698351}], "successors": []}

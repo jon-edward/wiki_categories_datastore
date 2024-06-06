@@ -1,1 +1,1 @@
-{"name": "已停用北海道旅客鐵道RDT", "id": 7100118, "predecessors": [{"name": "北海道旅客鐵道RDT", "id": 6023353}, {"name": "北海道旅客鐵道路線模板", "id": 646277}], "successors": []}
+{"name": "已停用北海道旅客鐵道RDT", "id": 7100118, "predecessors": [{"name": "北海道旅客鐵道RDT", "id": 6023353}, {"name": "北海道旅客鐵道路線模板", "id": 646277}, {"name": "日本已停用鐵路RDT", "id": 6269696}], "successors": []}

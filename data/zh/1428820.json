@@ -1,1 +1,1 @@
-{"name": "航空学校", "id": 1428820, "predecessors": [{"name": "航空", "id": 81361}], "successors": [{"name": "航空院校", "id": 5469556}]}
+{"name": "航空学校", "id": 1428820, "predecessors": [{"name": "学校类型", "id": 3881995}, {"name": "航空", "id": 81361}], "successors": []}

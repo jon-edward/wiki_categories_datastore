@@ -1,1 +1,1 @@
-{"name": "Levaduras", "id": 767156, "predecessors": [{"name": "Fungi", "id": 930482}, {"name": "Aditivos_alimentarios", "id": 329965}], "successors": [{"name": "Saccharomycetes", "id": 9519317}]}
+{"name": "Levaduras", "id": 767156, "predecessors": [{"name": "Fungi", "id": 930482}, {"name": "Aditivos_alimentarios", "id": 329965}], "successors": [{"name": "Géneros_de_Saccharomycetales", "id": 10879181}, {"name": "Especies_de_Saccharomycetales", "id": 10879222}, {"name": "Saccharomycetaceae", "id": 767216}]}

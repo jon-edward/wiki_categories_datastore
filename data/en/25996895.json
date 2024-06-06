@@ -1,1 +1,1 @@
-{"name": "Arms_fairs", "id": 25996895, "predecessors": [{"name": "Trade_fairs", "id": 35181669}, {"name": "Weapons_trade", "id": 20928462}], "successors": []}
+{"name": "Arms_fairs", "id": 25996895, "predecessors": [{"name": "Military_industry", "id": 1686951}, {"name": "Trade_fairs", "id": 35181669}, {"name": "Weapons_trade", "id": 20928462}], "successors": []}

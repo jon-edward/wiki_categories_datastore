@@ -1,1 +1,1 @@
-{"name": "Leather_goods", "id": 40018387, "predecessors": [{"name": "Consumer_goods", "id": 916951}, {"name": "Leather", "id": 2441300}], "successors": [{"name": "Leather_manufacturers", "id": 16697066}, {"name": "Leather_clothing", "id": 21192784}]}
+{"name": "Leather_goods", "id": 40018387, "predecessors": [{"name": "Leather", "id": 2441300}], "successors": [{"name": "Leather_manufacturers", "id": 16697066}, {"name": "Leather_clothing", "id": 21192784}]}

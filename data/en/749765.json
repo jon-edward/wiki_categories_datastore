@@ -1,1 +1,1 @@
-{"name": "Auditory_system", "id": 749765, "predecessors": [{"name": "Hearing", "id": 1060985}], "successors": [{"name": "Ear", "id": 6316972}, {"name": "Otology", "id": 7822685}]}
+{"name": "Auditory_system", "id": 749765, "predecessors": [{"name": "Hearing", "id": 1060985}], "successors": [{"name": "Otology", "id": 7822685}]}

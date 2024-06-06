@@ -1,1 +1,1 @@
-{"name": "엔비디아_IP_코어", "id": 2640535, "predecessors": [{"name": "시스템_온_칩", "id": 1798564}], "successors": []}
+{"name": "엔비디아_IP_코어", "id": 2640535, "predecessors": [{"name": "엔비디아_제품", "id": 2640494}, {"name": "시스템_온_칩", "id": 1798564}], "successors": []}

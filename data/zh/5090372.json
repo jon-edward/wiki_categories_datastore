@@ -1,1 +1,1 @@
-{"name": "英語報紙", "id": 5090372, "predecessors": [{"name": "报纸", "id": 52396}], "successors": []}
+{"name": "英語報紙", "id": 5090372, "predecessors": [{"name": "英語媒體", "id": 4055114}, {"name": "报纸", "id": 52396}], "successors": [{"name": "中國英語報紙", "id": 1478610}, {"name": "印度英语报纸", "id": 7655871}]}

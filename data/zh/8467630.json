@@ -1,1 +1,1 @@
-{"name": "格但斯克建造的船舶", "id": 8467630, "predecessors": [{"name": "载具", "id": 58315}], "successors": [{"name": "但泽建造的船舶", "id": 6003915}]}
+{"name": "格但斯克建造的船舶", "id": 8467630, "predecessors": [{"name": "格但斯克", "id": 1133352}], "successors": [{"name": "但泽建造的船舶", "id": 6003915}]}

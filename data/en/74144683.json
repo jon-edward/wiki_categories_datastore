@@ -1,1 +1,1 @@
-{"name": "Submarines_lost_with_all_hands", "id": 74144683, "predecessors": [{"name": "Ships_lost_with_all_hands", "id": 39684651}, {"name": "Submarines", "id": 764126}], "successors": [{"name": "Kursk_submarine_disaster", "id": 43967946}, {"name": "U-boats_sunk_by_unknown_causes", "id": 44543810}]}
+{"name": "Submarines_lost_with_all_hands", "id": 74144683, "predecessors": [{"name": "Ships_lost_with_all_hands", "id": 39684651}], "successors": [{"name": "Kursk_submarine_disaster", "id": 43967946}, {"name": "U-boats_sunk_by_unknown_causes", "id": 44543810}]}

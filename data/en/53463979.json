@@ -1,1 +1,1 @@
-{"name": "Swiss_ice_hockey_goaltenders", "id": 53463979, "predecessors": [{"name": "Swiss_ice_hockey_players", "id": 749025}], "successors": [{"name": "Swiss_women's_ice_hockey_goaltenders", "id": 62140538}]}
+{"name": "Swiss_ice_hockey_goaltenders", "id": 53463979, "predecessors": [{"name": "Goalkeeping", "id": 71293887}, {"name": "Sports_occupations_and_roles", "id": 25536293}], "successors": [{"name": "Swiss_women's_ice_hockey_goaltenders", "id": 62140538}]}

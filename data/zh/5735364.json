@@ -1,1 +1,1 @@
-{"name": "西雅圖交通", "id": 5735364, "predecessors": [{"name": "西雅圖", "id": 124571}, {"name": "美國交通", "id": 59746}, {"name": "华盛顿州", "id": 198554}], "successors": [{"name": "西雅图桥梁", "id": 6236239}]}
+{"name": "西雅圖交通", "id": 5735364, "predecessors": [{"name": "交通", "id": 44301}], "successors": [{"name": "西雅图桥梁", "id": 6236239}]}

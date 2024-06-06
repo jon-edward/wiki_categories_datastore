@@ -1,1 +1,1 @@
-{"name": "Schifffahrtsbehörde", "id": 8287748, "predecessors": [{"name": "Organisation_(Schifffahrt)", "id": 4373930}, {"name": "Verkehrsbehörde", "id": 612499}], "successors": [{"name": "Schifffahrtsbehörde_(Deutschland)", "id": 4373646}]}
+{"name": "Schifffahrtsbehörde", "id": 8287748, "predecessors": [{"name": "Organisation_(Schifffahrt)", "id": 4373930}, {"name": "Verkehrsbehörde", "id": 612499}], "successors": [{"name": "Schifffahrtsbehörde_(Deutschland)", "id": 4373646}, {"name": "Hafenbehörde", "id": 13103126}]}

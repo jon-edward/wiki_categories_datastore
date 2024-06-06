@@ -1,1 +1,1 @@
-{"name": "Nacidos_en_Venado_Tuerto", "id": 10850238, "predecessors": [{"name": "Nacidos_en_la_provincia_de_Santa_Fe", "id": 9995635}, {"name": "Departamento_General_López", "id": 4564695}, {"name": "Argentinos", "id": 185654}], "successors": []}
+{"name": "Nacidos_en_Venado_Tuerto", "id": 10850238, "predecessors": [{"name": "Provincia_de_Santa_Fe", "id": 293823}, {"name": "Nacidos_en_la_provincia_de_Santa_Fe", "id": 9995635}], "successors": []}

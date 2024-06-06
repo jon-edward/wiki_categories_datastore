@@ -1,1 +1,1 @@
-{"name": "有机磷杀虫剂", "id": 1127381, "predecessors": [{"name": "抗胆碱酯酶药", "id": 1172944}, {"name": "有机磷化合物", "id": 698102}, {"name": "杀虫剂", "id": 492011}], "successors": []}
+{"name": "有机磷杀虫剂", "id": 1127381, "predecessors": [{"name": "杀虫剂", "id": 492011}], "successors": []}

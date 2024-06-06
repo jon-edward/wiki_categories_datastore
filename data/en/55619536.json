@@ -1,1 +1,1 @@
-{"name": "Adelaide_tram_vehicles", "id": 55619536, "predecessors": [{"name": "Tram_vehicles_of_Australia", "id": 14304272}, {"name": "Transport_in_Adelaide", "id": 1625189}], "successors": []}
+{"name": "Adelaide_tram_vehicles", "id": 55619536, "predecessors": [{"name": "Transport_in_Adelaide", "id": 1625189}, {"name": "Tram_transport_in_Australia", "id": 3709529}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "구름", "id": 182584, "predecessors": [{"name": "강수", "id": 29685}, {"name": "기상학", "id": 22662}, {"name": "날씨", "id": 27943}, {"name": "물", "id": 29686}], "successors": []}
+{"name": "구름", "id": 182584, "predecessors": [{"name": "기상_현상", "id": 3832683}, {"name": "물", "id": 29686}], "successors": []}

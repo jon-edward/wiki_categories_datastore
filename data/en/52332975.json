@@ -1,1 +1,1 @@
-{"name": "Foreign_intervention", "id": 52332975, "predecessors": [{"name": "International_reactions_to_armed_conflicts", "id": 62526906}, {"name": "Power_(international_relations)", "id": 65726593}], "successors": [{"name": "Military_intervention", "id": 55626210}]}
+{"name": "Foreign_intervention", "id": 52332975, "predecessors": [{"name": "International_reactions_to_armed_conflicts", "id": 62526906}, {"name": "Power_(international_relations)", "id": 65726593}, {"name": "Diplomacy", "id": 911551}], "successors": [{"name": "Military_intervention", "id": 55626210}]}

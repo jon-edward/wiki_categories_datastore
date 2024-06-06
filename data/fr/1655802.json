@@ -1,1 +1,1 @@
-{"name": "Musée_ou_galerie_photographique", "id": 1655802, "predecessors": [{"name": "Galerie_d'art", "id": 992082}, {"name": "Association_ou_organisme_lié_à_l'art", "id": 556617}, {"name": "Astronomie", "id": 80753}], "successors": []}
+{"name": "Musée_ou_galerie_photographique", "id": 1655802, "predecessors": [{"name": "Galerie_d'art", "id": 992082}, {"name": "Musée_d'art", "id": 524240}, {"name": "Astronomie", "id": 80753}], "successors": []}

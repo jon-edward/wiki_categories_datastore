@@ -1,1 +1,1 @@
-{"name": "Military_transport_helicopters", "id": 70489847, "predecessors": [{"name": "Military_helicopters", "id": 7773118}], "successors": []}
+{"name": "Military_transport_helicopters", "id": 70489847, "predecessors": [{"name": "Military_helicopters", "id": 7773118}, {"name": "Cargo_aircraft", "id": 751764}], "successors": []}

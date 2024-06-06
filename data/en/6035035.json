@@ -1,0 +1,1 @@
+{"name": "Lattice_models", "id": 6035035, "predecessors": [{"name": "Computational_physics", "id": 792595}, {"name": "Condensed_matter_physics", "id": 692176}, {"name": "Statistical_mechanics", "id": 958609}], "successors": [{"name": "Quantum_lattice_models", "id": 22045003}, {"name": "Percolation_theory", "id": 54267082}, {"name": "Lattice_field_theory", "id": 70667541}]}

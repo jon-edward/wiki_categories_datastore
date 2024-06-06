@@ -1,1 +1,1 @@
-{"name": "Squaring_the_circle", "id": 52151033, "predecessors": [{"name": "Compass_and_straightedge_constructions", "id": 34470642}, {"name": "Euclidean_plane_geometry", "id": 3189382}, {"name": "Pi", "id": 977009}], "successors": []}
+{"name": "Squaring_the_circle", "id": 52151033, "predecessors": [{"name": "Area", "id": 1777289}, {"name": "Compass_and_straightedge_constructions", "id": 34470642}, {"name": "Euclidean_plane_geometry", "id": 3189382}, {"name": "Pi", "id": 977009}], "successors": []}

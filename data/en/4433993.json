@@ -1,1 +1,1 @@
-{"name": "Fjords_of_Svalbard", "id": 4433993, "predecessors": [{"name": "Arctic_Ocean", "id": 9224465}, {"name": "Coasts_of_the_Atlantic_Ocean", "id": 41350914}, {"name": "Geography_of_Svalbard", "id": 17547983}], "successors": []}
+{"name": "Fjords_of_Svalbard", "id": 4433993, "predecessors": [{"name": "Bodies_of_water", "id": 2699217}], "successors": [{"name": "Fjords_of_Spitsbergen", "id": 63158290}]}

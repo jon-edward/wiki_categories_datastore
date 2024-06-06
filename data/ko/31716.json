@@ -1,1 +1,1 @@
-{"name": "체코의_강", "id": 31716, "predecessors": [{"name": "유럽의_강", "id": 11572}, {"name": "강", "id": 11349}, {"name": "지형", "id": 22389}], "successors": []}
+{"name": "체코의_강", "id": 31716, "predecessors": [{"name": "체코의_지리", "id": 31183}, {"name": "유럽", "id": 11878}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Oxazoles", "id": 5512899, "predecessors": [{"name": "Oxygen_heterocycles", "id": 3217714}], "successors": [{"name": "Benzoxazoles", "id": 25859764}]}
+{"name": "Oxazoles", "id": 5512899, "predecessors": [{"name": "Oxygen_heterocycles", "id": 3217714}, {"name": "Aromatic_compounds", "id": 1369194}], "successors": [{"name": "Benzoxazoles", "id": 25859764}]}

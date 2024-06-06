@@ -1,1 +1,1 @@
-{"name": "Chimiste_hongrois_du_XXe_siècle", "id": 15443809, "predecessors": [{"name": "Chimiste", "id": 82103}, {"name": "Accueil", "id": 1155637}, {"name": "Histoire_de_la_Hongrie", "id": 353152}], "successors": []}
+{"name": "Chimiste_hongrois_du_XXe_siècle", "id": 15443809, "predecessors": [{"name": "Chimiste_du_XXe_siècle", "id": 15420298}, {"name": "Chimie", "id": 81540}, {"name": "Histoire_de_la_Hongrie", "id": 353152}], "successors": []}

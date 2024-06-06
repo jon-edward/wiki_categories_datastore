@@ -1,1 +1,1 @@
-{"name": "Romanian_hospital_administrators", "id": 55558181, "predecessors": [{"name": "Hospital_administrators", "id": 11014157}, {"name": "Health_care_by_country", "id": 50769391}], "successors": []}
+{"name": "Romanian_hospital_administrators", "id": 55558181, "predecessors": [{"name": "Hospital_administrators", "id": 11014157}, {"name": "Health_care_management", "id": 24320730}, {"name": "Health_care_by_country", "id": 50769391}], "successors": []}

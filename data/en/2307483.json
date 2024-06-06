@@ -1,0 +1,1 @@
+{"name": "Engine_fuel_system_technology", "id": 2307483, "predecessors": [{"name": "Engine_technology", "id": 1124196}], "successors": [{"name": "Fuel_containers", "id": 18509502}, {"name": "Aircraft_fuel_system_components", "id": 32737378}, {"name": "Carburettors", "id": 34516771}]}

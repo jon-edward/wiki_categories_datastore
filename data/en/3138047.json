@@ -1,1 +1,1 @@
-{"name": "Telemundo_telenovelas", "id": 3138047, "predecessors": [{"name": "Telemundo_original_programming", "id": 2842214}, {"name": "Television_networks_in_the_United_States", "id": 3756680}, {"name": "American_telenovelas", "id": 8777737}], "successors": [{"name": "El_Señor_de_los_Cielos", "id": 44202206}]}
+{"name": "Telemundo_telenovelas", "id": 3138047, "predecessors": [{"name": "Telemundo_original_programming", "id": 2842214}], "successors": [{"name": "El_Señor_de_los_Cielos", "id": 44202206}]}

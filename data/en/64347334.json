@@ -1,1 +1,1 @@
-{"name": "Aircraft_related_to_spaceflight", "id": 64347334, "predecessors": [{"name": "Spaceflight", "id": 1040006}, {"name": "Aviation", "id": 735378}], "successors": [{"name": "Extraterrestrial_aircraft", "id": 33337315}]}
+{"name": "Aircraft_related_to_spaceflight", "id": 64347334, "predecessors": [{"name": "Aircraft", "id": 694926}, {"name": "Spaceflight", "id": 1040006}], "successors": [{"name": "Extraterrestrial_aircraft", "id": 33337315}]}

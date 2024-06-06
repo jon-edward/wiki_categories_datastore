@@ -1,1 +1,1 @@
-{"name": "語言中樞", "id": 780004, "predecessors": [{"name": "解剖学", "id": 50120}], "successors": []}
+{"name": "語言中樞", "id": 780004, "predecessors": [{"name": "解剖学", "id": 50120}, {"name": "语言", "id": 44066}], "successors": []}

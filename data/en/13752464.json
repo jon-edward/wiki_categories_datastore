@@ -1,1 +1,1 @@
-{"name": "Basket_weaving", "id": 13752464, "predecessors": [{"name": "Crafts", "id": 3061643}, {"name": "Fibers", "id": 1436866}, {"name": "Visual_arts_media", "id": 2118729}], "successors": [{"name": "Basket_weavers", "id": 27334471}]}
+{"name": "Basket_weaving", "id": 13752464, "predecessors": [{"name": "Crafts", "id": 3061643}, {"name": "Weaving", "id": 945071}], "successors": [{"name": "Basket_weavers", "id": 27334471}]}

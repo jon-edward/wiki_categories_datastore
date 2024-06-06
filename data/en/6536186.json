@@ -1,1 +1,1 @@
-{"name": "Statistical_distance", "id": 6536186, "predecessors": [{"name": "Distance", "id": 56650552}, {"name": "Information_theory", "id": 694025}], "successors": [{"name": "Clustering_criteria", "id": 30033882}]}
+{"name": "Statistical_distance", "id": 6536186, "predecessors": [{"name": "Distance", "id": 56650552}, {"name": "Differential_geometry", "id": 693878}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "HIV/AIDS_in_China", "id": 37580405, "predecessors": [{"name": "Health_in_China", "id": 17697760}, {"name": "Sexuality_in_China", "id": 37166978}, {"name": "Health_in_Asia", "id": 29518570}], "successors": []}
+{"name": "HIV/AIDS_in_China", "id": 37580405, "predecessors": [{"name": "Health_in_China", "id": 17697760}, {"name": "Diseases_and_disorders", "id": 16705267}], "successors": [{"name": "Chinese_HIV/AIDS_activists", "id": 76930461}]}

@@ -1,1 +1,1 @@
-{"name": "免費電視頻道", "id": 6725240, "predecessors": [{"name": "電視頻道", "id": 448421}], "successors": [{"name": "香港開電視", "id": 6825622}]}
+{"name": "免費電視頻道", "id": 6725240, "predecessors": [{"name": "電視頻道", "id": 448421}, {"name": "付款", "id": 7828563}], "successors": [{"name": "香港開電視", "id": 6825622}]}

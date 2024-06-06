@@ -1,1 +1,1 @@
-{"name": "우주여행자", "id": 194103, "predecessors": [{"name": "여행가", "id": 274639}, {"name": "우주", "id": 11858}], "successors": []}
+{"name": "우주여행자", "id": 194103, "predecessors": [{"name": "여행가", "id": 274639}, {"name": "우주_여행", "id": 194104}, {"name": "우주", "id": 11858}], "successors": []}

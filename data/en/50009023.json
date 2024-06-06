@@ -1,1 +1,1 @@
-{"name": "Special_educators", "id": 50009023, "predecessors": [{"name": "Special_education", "id": 917872}, {"name": "Education", "id": 696763}, {"name": "Disability", "id": 932302}], "successors": [{"name": "Educators_of_the_deaf", "id": 31318783}, {"name": "Educators_of_the_blind", "id": 50009011}]}
+{"name": "Special_educators", "id": 50009023, "predecessors": [{"name": "Special_education", "id": 917872}, {"name": "Disability", "id": 932302}], "successors": [{"name": "Educators_of_the_deaf", "id": 31318783}, {"name": "Educators_of_the_blind", "id": 50009011}]}

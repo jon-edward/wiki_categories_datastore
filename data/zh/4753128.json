@@ -1,1 +1,1 @@
-{"name": "邊界河流", "id": 4753128, "predecessors": [{"name": "地形", "id": 45942}], "successors": [{"name": "湄公河水系", "id": 4804550}]}
+{"name": "邊界河流", "id": 4753128, "predecessors": [{"name": "水體", "id": 77215}, {"name": "地形", "id": 45942}], "successors": [{"name": "湄公河水系", "id": 4804550}]}

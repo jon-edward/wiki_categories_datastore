@@ -1,1 +1,1 @@
-{"name": "Classe_Balao", "id": 8611464, "predecessors": [{"name": "Sous-marin_d'attaque_conventionnel", "id": 1055891}, {"name": "Sous-marin_de_l'US_Navy", "id": 2933488}, {"name": "Classe_de_bateau", "id": 6023245}], "successors": []}
+{"name": "Classe_Balao", "id": 8611464, "predecessors": [{"name": "Sous-marin_d'attaque_conventionnel", "id": 1055891}, {"name": "Sous-marin_de_l'US_Navy", "id": 2933488}, {"name": "Classe_de_sous-marin", "id": 451510}], "successors": []}

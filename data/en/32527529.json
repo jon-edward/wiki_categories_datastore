@@ -1,1 +1,1 @@
-{"name": "Asteroid_mining", "id": 32527529, "predecessors": [{"name": "Asteroids", "id": 692006}, {"name": "Space_colonization", "id": 1346470}], "successors": [{"name": "Fiction_about_asteroid_mining", "id": 46790888}]}
+{"name": "Asteroid_mining", "id": 32527529, "predecessors": [{"name": "Space_colonization", "id": 1346470}], "successors": [{"name": "Fiction_about_asteroid_mining", "id": 46790888}]}

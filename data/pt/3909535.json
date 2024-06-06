@@ -1,1 +1,1 @@
-{"name": "Competições_amadoras_de_futebol", "id": 3909535, "predecessors": [{"name": "Amadorismo", "id": 4324411}, {"name": "Competições_desportivas", "id": 1562368}], "successors": []}
+{"name": "Competições_amadoras_de_futebol", "id": 3909535, "predecessors": [{"name": "Amadorismo_no_futebol", "id": 7351204}, {"name": "Competições_desportivas", "id": 1562368}], "successors": [{"name": "Competições_de_futebol_não_FIFA", "id": 5604666}]}

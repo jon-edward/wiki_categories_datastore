@@ -1,1 +1,1 @@
-{"name": "Interactive_fiction", "id": 3432674, "predecessors": [{"name": "Гипертекст", "id": 60521}, {"name": "Квесты", "id": 956842}], "successors": [{"name": "Книги-игры", "id": 1981708}, {"name": "Infocom", "id": 9925906}]}
+{"name": "Interactive_fiction", "id": 3432674, "predecessors": [{"name": "Гипертекст", "id": 60521}, {"name": "Приключенческие_игры", "id": 956842}], "successors": [{"name": "Книги-игры", "id": 1981708}, {"name": "Infocom", "id": 9925906}]}

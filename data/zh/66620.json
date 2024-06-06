@@ -1,1 +1,1 @@
-{"name": "有形數", "id": 66620, "predecessors": [{"name": "整数数列", "id": 65361}], "successors": []}
+{"name": "有形數", "id": 66620, "predecessors": [{"name": "几何形状", "id": 705292}, {"name": "整数数列", "id": 65361}], "successors": []}

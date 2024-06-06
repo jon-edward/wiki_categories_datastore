@@ -1,1 +1,1 @@
-{"name": "Chemistry_books", "id": 4999830, "predecessors": [{"name": "Science_fiction", "id": 692725}], "successors": [{"name": "Books_about_petroleum", "id": 7960635}]}
+{"name": "Chemistry_books", "id": 4999830, "predecessors": [{"name": "Science_books", "id": 47064376}], "successors": [{"name": "Books_about_petroleum", "id": 7960635}]}

@@ -1,1 +1,1 @@
-{"name": "食品储藏室", "id": 8095990, "predecessors": [{"name": "餐館", "id": 1591655}, {"name": "温度", "id": 78153}], "successors": []}
+{"name": "食品储藏室", "id": 8095990, "predecessors": [{"name": "温度", "id": 78153}, {"name": "嗜好", "id": 66054}], "successors": []}

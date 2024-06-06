@@ -1,1 +1,1 @@
-{"name": "Xe_phần_cứng_mở", "id": 13817194, "predecessors": [{"name": "Phương_tiện_giao_thông", "id": 29193}, {"name": "Phần_cứng", "id": 17721}], "successors": []}
+{"name": "Xe_phần_cứng_mở", "id": 13817194, "predecessors": [{"name": "Phương_tiện_giao_thông", "id": 29193}, {"name": "Phần_cứng_nguồn_mở", "id": 13744184}], "successors": []}

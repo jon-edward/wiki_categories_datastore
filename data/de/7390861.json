@@ -1,1 +1,1 @@
-{"name": "Laboratorium", "id": 7390861, "predecessors": [{"name": "Labortechnik", "id": 8059531}, {"name": "Naturwissenschaft", "id": 274295}, {"name": "Forschungsinfrastruktur", "id": 5386820}], "successors": []}
+{"name": "Laboratorium", "id": 7390861, "predecessors": [{"name": "Forschungseinrichtung", "id": 5777901}, {"name": "Labortechnik", "id": 8059531}, {"name": "Naturwissenschaft", "id": 274295}], "successors": []}

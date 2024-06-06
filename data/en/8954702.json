@@ -1,1 +1,1 @@
-{"name": "Free_educational_software", "id": 8954702, "predecessors": [{"name": "Educational_software", "id": 1750815}], "successors": [{"name": "Free_learning_support_software", "id": 4193853}]}
+{"name": "Free_educational_software", "id": 8954702, "predecessors": [{"name": "Educational_software", "id": 1750815}, {"name": "Free_application_software", "id": 6702554}], "successors": [{"name": "Free_learning_support_software", "id": 4193853}, {"name": "Free_learning_management_systems", "id": 8954851}]}

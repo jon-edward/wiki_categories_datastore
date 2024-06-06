@@ -1,1 +1,1 @@
-{"name": "Classe_de_bateau_de_la_Marine_indienne", "id": 12736575, "predecessors": [{"name": "Marine_indienne", "id": 12736216}, {"name": "Classe_de_bateau", "id": 6023245}], "successors": []}
+{"name": "Classe_de_bateau_de_la_Marine_indienne", "id": 12736575, "predecessors": [{"name": "Marine_indienne", "id": 12736216}, {"name": "Force_navale", "id": 491220}], "successors": []}

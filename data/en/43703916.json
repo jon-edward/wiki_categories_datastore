@@ -1,1 +1,1 @@
-{"name": "Clawed_herbivores", "id": 43703916, "predecessors": [{"name": "Animals_by_eating_behaviors", "id": 47600935}], "successors": [{"name": "Chalicotheres", "id": 3675913}, {"name": "Therizinosaurs", "id": 4480849}, {"name": "Prehistoric_sloths", "id": 22782571}]}
+{"name": "Clawed_herbivores", "id": 43703916, "predecessors": [{"name": "Herbivory", "id": 10928120}], "successors": [{"name": "Chalicotheres", "id": 3675913}, {"name": "Therizinosaurs", "id": 4480849}, {"name": "Prehistoric_sloths", "id": 22782571}]}

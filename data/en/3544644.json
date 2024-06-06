@@ -1,1 +1,1 @@
-{"name": "Intelligence_websites", "id": 3544644, "predecessors": [{"name": "News_websites", "id": 983609}], "successors": [{"name": "Janes_Information_Services", "id": 75739077}]}
+{"name": "Intelligence_websites", "id": 3544644, "predecessors": [{"name": "Military-themed_websites", "id": 3256536}, {"name": "News_websites", "id": 983609}], "successors": [{"name": "Janes_Information_Services", "id": 75739077}]}

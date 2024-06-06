@@ -1,1 +1,1 @@
-{"name": "지속적_통합", "id": 2623200, "predecessors": [{"name": "애자일_소프트웨어_개발", "id": 2032381}], "successors": []}
+{"name": "지속적_통합", "id": 2623200, "predecessors": [{"name": "빌드_자동화", "id": 468503}, {"name": "애자일_소프트웨어_개발", "id": 2032381}], "successors": []}

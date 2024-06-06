@@ -1,1 +1,1 @@
-{"name": "Pemain_Liga_J.", "id": 882120, "predecessors": [{"name": "Pertubuhan_sukan", "id": 77314}, {"name": "Bola_sepak", "id": 17232}], "successors": [{"name": "Pemain_J1_League", "id": 882113}]}
+{"name": "Pemain_Liga_J.", "id": 882120, "predecessors": [{"name": "Pertubuhan_sukan", "id": 77314}, {"name": "Bola_sepak", "id": 17232}], "successors": [{"name": "Pemain_Liga_J2", "id": 882110}, {"name": "Pemain_Liga_J1", "id": 882113}]}

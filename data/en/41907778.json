@@ -1,1 +1,1 @@
-{"name": "Minamata_disease", "id": 41907778, "predecessors": [{"name": "Health_disasters_in_Japan", "id": 27626010}, {"name": "Kumamoto_Prefecture", "id": 1309671}, {"name": "Mercury_poisoning", "id": 32207626}, {"name": "Environment_of_Japan", "id": 5393651}], "successors": []}
+{"name": "Minamata_disease", "id": 41907778, "predecessors": [{"name": "Health_disasters_in_Japan", "id": 27626010}, {"name": "Mercury_poisoning", "id": 32207626}, {"name": "Health_in_Japan", "id": 2695938}], "successors": []}

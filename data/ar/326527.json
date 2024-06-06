@@ -1,1 +1,1 @@
-{"name": "وحدات_ضغط", "id": 326527, "predecessors": [{"name": "ضغط", "id": 1290146}], "successors": []}
+{"name": "وحدات_ضغط", "id": 326527, "predecessors": [{"name": "ضغط", "id": 1290146}, {"name": "وحدات_قياس", "id": 9715}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "OCN電視劇", "id": 1872543, "predecessors": [{"name": "韓國電視劇", "id": 69990}], "successors": [{"name": "OCN_Original_Series", "id": 6246194}]}
+{"name": "OCN電視劇", "id": 1872543, "predecessors": [{"name": "韓國電視劇", "id": 69990}, {"name": "韓國電視節目", "id": 1331230}], "successors": [{"name": "OCN_Original_Series", "id": 6246194}]}

@@ -1,1 +1,1 @@
-{"name": "Musée_d'art_sacré", "id": 8707358, "predecessors": [{"name": "Art_chrétien", "id": 360924}, {"name": "Art_religieux", "id": 789224}, {"name": "Association_ou_organisme_lié_à_l'art", "id": 556617}, {"name": "Histoire_du_christianisme", "id": 360926}], "successors": []}
+{"name": "Musée_d'art_sacré", "id": 8707358, "predecessors": [{"name": "Art_chrétien", "id": 360924}, {"name": "Art_religieux", "id": 789224}, {"name": "Musée_d'art", "id": 524240}, {"name": "Histoire_du_christianisme", "id": 360926}], "successors": []}

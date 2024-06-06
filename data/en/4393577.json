@@ -1,0 +1,1 @@
+{"name": "Electrical_signal_connectors", "id": 4393577, "predecessors": [{"name": "Physical_layer_protocols", "id": 7920188}], "successors": [{"name": "Computer_buses", "id": 1124098}, {"name": "RF_connectors", "id": 2522107}, {"name": "Audiovisual_connectors", "id": 2942607}]}

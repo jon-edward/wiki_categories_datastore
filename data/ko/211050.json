@@ -1,1 +1,1 @@
-{"name": "연소", "id": 211050, "predecessors": [{"name": "산소", "id": 102264}, {"name": "화학_반응", "id": 65216}], "successors": [{"name": "불", "id": 66302}]}
+{"name": "연소", "id": 211050, "predecessors": [{"name": "화학_반응", "id": 65216}], "successors": [{"name": "불", "id": 66302}]}

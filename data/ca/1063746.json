@@ -1,1 +1,1 @@
-{"name": "Compositors_flamencs_del_Renaixement", "id": 1063746, "predecessors": [{"name": "Compositors_flamencs", "id": 1111777}, {"name": "Compositors_de_música_clàssica", "id": 143495}], "successors": [{"name": "Compositors_francoflamencs_del_Renaixement", "id": 1878660}]}
+{"name": "Compositors_flamencs_del_Renaixement", "id": 1063746, "predecessors": [{"name": "Compositors_del_Renaixement", "id": 348787}, {"name": "Compositors_flamencs", "id": 1111777}], "successors": [{"name": "Compositors_francoflamencs_del_Renaixement", "id": 1878660}]}

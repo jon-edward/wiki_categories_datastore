@@ -1,1 +1,1 @@
-{"name": "반사_작용", "id": 157425, "predecessors": [{"name": "동물생리학", "id": 479369}, {"name": "동물행동학", "id": 106537}], "successors": []}
+{"name": "반사_작용", "id": 157425, "predecessors": [{"name": "동물생리학", "id": 479369}, {"name": "동물행동학", "id": 106537}], "successors": [{"name": "웃음", "id": 575811}, {"name": "울음", "id": 3833520}]}

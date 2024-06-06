@@ -1,1 +1,1 @@
-{"name": "Chinese_character_lists", "id": 75071285, "predecessors": [{"name": "Chinese_characters", "id": 6524051}], "successors": [{"name": "Chinese_dictionaries", "id": 2322692}, {"name": "Chinese_character_encodings", "id": 76210964}]}
+{"name": "Chinese_character_lists", "id": 75071285, "predecessors": [{"name": "Chinese_characters", "id": 6524051}], "successors": [{"name": "Chinese_dictionaries", "id": 2322692}, {"name": "Chinese_character_collation", "id": 75072014}, {"name": "Chinese_character_encodings", "id": 76210964}]}

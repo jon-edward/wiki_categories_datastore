@@ -1,1 +1,1 @@
-{"name": "Fault_tolerance", "id": 6032662, "predecessors": [{"name": "Data_security", "id": 4842680}, {"name": "Reliability_engineering", "id": 2225244}, {"name": "Statistical_process_control", "id": 52321563}], "successors": [{"name": "Fault-tolerant_computer_systems", "id": 30302080}]}
+{"name": "Fault_tolerance", "id": 6032662, "predecessors": [{"name": "Business_continuity", "id": 3585888}, {"name": "Data_security", "id": 4842680}, {"name": "Reliability_engineering", "id": 2225244}], "successors": [{"name": "Fault-tolerant_computer_systems", "id": 30302080}]}

@@ -1,1 +1,1 @@
-{"name": "용수철", "id": 419135, "predecessors": [{"name": "기계_부속품", "id": 605414}, {"name": "탄성", "id": 824909}], "successors": []}
+{"name": "용수철", "id": 419135, "predecessors": [{"name": "기계_부속품", "id": 605414}, {"name": "에너지_저장", "id": 925086}, {"name": "탄성", "id": 824909}], "successors": []}

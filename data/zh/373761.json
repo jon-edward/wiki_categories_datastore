@@ -1,1 +1,1 @@
-{"name": "Wi-Fi", "id": 373761, "predecessors": [{"name": "IEEE_802.11", "id": 3218619}, {"name": "互聯網存取", "id": 521186}, {"name": "无线网络", "id": 159011}, {"name": "链路协议", "id": 515258}], "successors": []}
+{"name": "Wi-Fi", "id": 373761, "predecessors": [{"name": "IEEE_802.11", "id": 3218619}, {"name": "互聯網存取", "id": 521186}, {"name": "无线网络", "id": 159011}], "successors": []}

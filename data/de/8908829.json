@@ -1,1 +1,1 @@
-{"name": "Operettenforscher", "id": 8908829, "predecessors": [{"name": "Operette", "id": 256055}, {"name": "Theaterwissenschaftler", "id": 828962}], "successors": []}
+{"name": "Operettenforscher", "id": 8908829, "predecessors": [{"name": "Theaterwissenschaftler", "id": 828962}, {"name": "Operette", "id": 256055}], "successors": []}

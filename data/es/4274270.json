@@ -1,1 +1,1 @@
-{"name": "Moluscos_bivalvos_medianamente_amenazados", "id": 4274270, "predecessors": [{"name": "Animales_medianamente_amenazados", "id": 4252064}], "successors": []}
+{"name": "Moluscos_bivalvos_medianamente_amenazados", "id": 4274270, "predecessors": [{"name": "Animales_medianamente_amenazados", "id": 4252064}, {"name": "Bivalvia", "id": 1203443}], "successors": []}

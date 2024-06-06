@@ -1,1 +1,1 @@
-{"name": "Lotte_Giants_players", "id": 10431625, "predecessors": [{"name": "KBO_League_players", "id": 27467097}, {"name": "Lotte_Giants", "id": 10431656}], "successors": []}
+{"name": "Lotte_Giants_players", "id": 10431625, "predecessors": [{"name": "Lotte_Giants", "id": 10431656}, {"name": "Competitions", "id": 737119}], "successors": []}

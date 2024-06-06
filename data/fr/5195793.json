@@ -1,1 +1,1 @@
-{"name": "Centre_commercial_dans_les_Hauts-de-France", "id": 5195793, "predecessors": [{"name": "Hauts-de-France", "id": 9205649}, {"name": "Entreprise_de_la_distribution_ayant_son_siège_en_France", "id": 916413}], "successors": []}
+{"name": "Centre_commercial_dans_les_Hauts-de-France", "id": 5195793, "predecessors": [{"name": "Entreprise_de_la_distribution_ayant_son_siège_en_France", "id": 916413}, {"name": "Région_en_France", "id": 83575}], "successors": []}

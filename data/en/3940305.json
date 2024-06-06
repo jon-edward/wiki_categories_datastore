@@ -1,1 +1,1 @@
-{"name": "HP_calculators", "id": 3940305, "predecessors": [{"name": "Hewlett-Packard_products", "id": 1503822}], "successors": [{"name": "HP_programmable_calculators", "id": 54623366}, {"name": "HP_Pioneer_series_calculators", "id": 69177249}]}
+{"name": "HP_calculators", "id": 3940305, "predecessors": [{"name": "History_of_computing_hardware", "id": 5834819}], "successors": [{"name": "HP_programmable_calculators", "id": 54623366}, {"name": "HP_Pioneer_series_calculators", "id": 69177249}]}

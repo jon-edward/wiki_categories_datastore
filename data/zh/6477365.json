@@ -1,1 +1,1 @@
-{"name": "國賓館", "id": 6477365, "predecessors": [{"name": "旅馆类型", "id": 539420}], "successors": [{"name": "中华人民共和国国宾馆", "id": 4569374}]}
+{"name": "國賓館", "id": 6477365, "predecessors": [{"name": "外交", "id": 66264}, {"name": "住宅", "id": 921534}], "successors": [{"name": "中华人民共和国国宾馆", "id": 4569374}]}

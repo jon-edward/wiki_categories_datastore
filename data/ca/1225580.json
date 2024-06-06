@@ -1,1 +1,1 @@
-{"name": "Campionats_estatals_femenins", "id": 1225580, "predecessors": [{"name": "Competicions_esportives_femenines", "id": 281920}, {"name": "Competicions_esportives", "id": 53516}], "successors": [{"name": "Campionats_estatals_d'escacs_femenins", "id": 1225549}]}
+{"name": "Campionats_estatals_femenins", "id": 1225580, "predecessors": [{"name": "Competicions_esportives", "id": 53516}], "successors": [{"name": "Campionats_estatals_d'escacs_femenins", "id": 1225549}]}

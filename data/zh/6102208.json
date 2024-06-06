@@ -1,1 +1,1 @@
-{"name": "航空配餐", "id": 6102208, "predecessors": [{"name": "民用航空", "id": 1353826}, {"name": "宴會", "id": 3693479}], "successors": []}
+{"name": "航空配餐", "id": 6102208, "predecessors": [{"name": "民用航空", "id": 1353826}, {"name": "餐飲服務", "id": 1156943}], "successors": []}

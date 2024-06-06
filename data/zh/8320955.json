@@ -1,1 +1,1 @@
-{"name": "電阻與電導", "id": 8320955, "predecessors": [{"name": "電學", "id": 69107}], "successors": [{"name": "超导", "id": 1430701}]}
+{"name": "電阻與電導", "id": 8320955, "predecessors": [{"name": "物理量", "id": 35874}, {"name": "電學", "id": 69107}], "successors": [{"name": "超导", "id": 1430701}]}

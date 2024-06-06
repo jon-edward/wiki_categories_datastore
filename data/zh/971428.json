@@ -1,1 +1,1 @@
-{"name": "拍賣行", "id": 971428, "predecessors": [{"name": "拍賣", "id": 3384379}], "successors": []}
+{"name": "拍賣行", "id": 971428, "predecessors": [{"name": "商务服务公司", "id": 1175450}, {"name": "拍賣", "id": 3384379}, {"name": "产业", "id": 58086}, {"name": "銷售", "id": 3500917}], "successors": []}

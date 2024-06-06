@@ -1,1 +1,1 @@
-{"name": "Classe_de_paquebot", "id": 4873706, "predecessors": [{"name": "Classe_de_bateau", "id": 6023245}, {"name": "Paquebot", "id": 4840574}, {"name": "Paquebot_de_croisière", "id": 4840582}], "successors": [{"name": "Titanic", "id": 1545173}]}
+{"name": "Classe_de_paquebot", "id": 4873706, "predecessors": [{"name": "Paquebot", "id": 4840574}, {"name": "Paquebot_de_croisière", "id": 4840582}], "successors": [{"name": "Titanic", "id": 1545173}]}

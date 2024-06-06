@@ -1,1 +1,1 @@
-{"name": "Protocoale_Internet", "id": 1581726, "predecessors": [{"name": "Arhitectura_Internetului", "id": 356502}, {"name": "Protocoale_de_rețea", "id": 1331746}, {"name": "Standarde_Internet", "id": 1581679}], "successors": []}
+{"name": "Protocoale_Internet", "id": 1581726, "predecessors": [{"name": "Arhitectura_Internetului", "id": 356502}, {"name": "Protocoale_de_rețea", "id": 1331746}, {"name": "Standarde_Internet", "id": 1581679}, {"name": "Protocoale", "id": 68686}], "successors": []}

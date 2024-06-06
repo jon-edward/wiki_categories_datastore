@@ -1,1 +1,1 @@
-{"name": "IBM_WebSphere", "id": 7076984, "predecessors": [{"name": "Enterprise_application_integration", "id": 3502238}, {"name": "IBM_software", "id": 859157}], "successors": []}
+{"name": "IBM_WebSphere", "id": 7076984, "predecessors": [{"name": "Enterprise_application_integration", "id": 3502238}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Jagdbomber", "id": 8586236, "predecessors": [{"name": "Bomber", "id": 8558897}, {"name": "Jagdflugzeug", "id": 8586229}], "successors": []}
+{"name": "Jagdbomber", "id": 8586236, "predecessors": [{"name": "Bomber", "id": 8558897}, {"name": "Kampfflugzeug", "id": 8586230}], "successors": []}

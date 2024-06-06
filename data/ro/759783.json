@@ -1,1 +1,1 @@
-{"name": "Rețele_de_socializare", "id": 759783, "predecessors": [{"name": "Grupuri_sociale", "id": 20844}], "successors": [{"name": "Servicii_sociale_online", "id": 203843}]}
+{"name": "Rețele_de_socializare", "id": 759783, "predecessors": [{"name": "Grupuri_sociale", "id": 20844}, {"name": "Colaborare", "id": 392343}], "successors": [{"name": "Servicii_sociale_online", "id": 203843}]}

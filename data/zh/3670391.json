@@ -1,1 +1,1 @@
-{"name": "飛行中機艙失壓", "id": 3670391, "predecessors": [{"name": "各类航空事故", "id": 806576}], "successors": []}
+{"name": "飛行中機艙失壓", "id": 3670391, "predecessors": [{"name": "压力", "id": 1440519}, {"name": "各类航空事故", "id": 806576}], "successors": []}

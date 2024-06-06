@@ -1,1 +1,1 @@
-{"name": "Tephra", "id": 28729574, "predecessors": [{"name": "Volcanism", "id": 22850864}, {"name": "Rocks", "id": 2629756}], "successors": [{"name": "Tuff_formations", "id": 58278999}]}
+{"name": "Tephra", "id": 28729574, "predecessors": [{"name": "Geological_hazards", "id": 2638161}], "successors": []}

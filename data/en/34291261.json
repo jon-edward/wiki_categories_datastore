@@ -1,1 +1,1 @@
-{"name": "Mobile_software_distribution_platforms", "id": 34291261, "predecessors": [{"name": "Online-only_retailers_of_video_games", "id": 34291394}, {"name": "Software_distribution_platforms", "id": 34291241}], "successors": []}
+{"name": "Mobile_software_distribution_platforms", "id": 34291261, "predecessors": [{"name": "Mobile_software", "id": 10473202}, {"name": "Online-only_retailers_of_video_games", "id": 34291394}, {"name": "Software_distribution_platforms", "id": 34291241}], "successors": []}

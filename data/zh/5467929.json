@@ -1,1 +1,1 @@
-{"name": "银行博物馆", "id": 5467929, "predecessors": [{"name": "经济博物馆", "id": 5467897}], "successors": []}
+{"name": "银行博物馆", "id": 5467929, "predecessors": [{"name": "经济博物馆", "id": 5467897}, {"name": "銀行", "id": 44740}, {"name": "商業教育", "id": 8703114}], "successors": []}

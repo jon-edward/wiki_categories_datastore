@@ -1,1 +1,1 @@
-{"name": "利润", "id": 8149592, "predecessors": [{"name": "动机", "id": 1228451}, {"name": "资本", "id": 496736}], "successors": []}
+{"name": "利润", "id": 8149592, "predecessors": [{"name": "动机", "id": 1228451}, {"name": "资本", "id": 496736}, {"name": "收入分配", "id": 1760182}], "successors": [{"name": "非营利组织", "id": 337670}]}

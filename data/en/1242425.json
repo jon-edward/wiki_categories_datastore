@@ -1,1 +1,1 @@
-{"name": "Mathematics_competitions", "id": 1242425, "predecessors": [{"name": "Cognitive_training", "id": 36938410}], "successors": []}
+{"name": "Mathematics_competitions", "id": 1242425, "predecessors": [{"name": "Cognitive_training", "id": 36938410}], "successors": [{"name": "Putnam_Fellows", "id": 1787010}, {"name": "Cryptography_contests", "id": 5447862}, {"name": "International_Mathematical_Olympiad", "id": 16791133}]}

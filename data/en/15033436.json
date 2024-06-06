@@ -1,1 +1,1 @@
-{"name": "Fuel_cell_manufacturers", "id": 15033436, "predecessors": [{"name": "Fuel_cells", "id": 1475382}, {"name": "Energy_economics", "id": 3646879}], "successors": []}
+{"name": "Fuel_cell_manufacturers", "id": 15033436, "predecessors": [{"name": "Energy_economics", "id": 3646879}], "successors": []}

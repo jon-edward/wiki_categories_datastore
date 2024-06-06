@@ -1,1 +1,1 @@
-{"name": "Split_EPs", "id": 26646435, "predecessors": [{"name": "Album_types", "id": 10217141}], "successors": []}
+{"name": "Split_EPs", "id": 26646435, "predecessors": [{"name": "Split_albums", "id": 4981161}, {"name": "Album_types", "id": 10217141}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Audiovisual_connectors", "id": 2942607, "predecessors": [{"name": "Video_hardware", "id": 10194180}], "successors": [{"name": "Digital_display_connectors", "id": 4392505}]}
+{"name": "Audiovisual_connectors", "id": 2942607, "predecessors": [{"name": "Electrical_signal_connectors", "id": 4393577}, {"name": "Video_hardware", "id": 10194180}], "successors": [{"name": "Digital_display_connectors", "id": 4392505}]}

@@ -1,1 +1,1 @@
-{"name": "Automatic_number_plate_recognition", "id": 33796078, "predecessors": [{"name": "Optical_character_recognition", "id": 3345092}, {"name": "Surveillance", "id": 998678}, {"name": "Vehicle_registration_plates", "id": 16398902}], "successors": []}
+{"name": "Automatic_number_plate_recognition", "id": 33796078, "predecessors": [{"name": "Surveillance", "id": 998678}, {"name": "Vehicle_registration_plates", "id": 16398902}], "successors": []}

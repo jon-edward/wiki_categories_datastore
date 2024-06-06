@@ -1,1 +1,1 @@
-{"name": "Maître_de_chapelle_de_la_cathédrale_Notre-Dame_de_Paris", "id": 12508323, "predecessors": [{"name": "Maître_de_chapelle", "id": 5574058}, {"name": "Cathédrale_Notre-Dame_de_Paris", "id": 5305887}], "successors": []}
+{"name": "Maître_de_chapelle_de_la_cathédrale_Notre-Dame_de_Paris", "id": 12508323, "predecessors": [{"name": "Cathédrale_Notre-Dame_de_Paris", "id": 5305887}, {"name": "Maître_de_chapelle", "id": 5574058}], "successors": []}

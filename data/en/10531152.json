@@ -1,1 +1,1 @@
-{"name": "Tennis_awards", "id": 10531152, "predecessors": [{"name": "Athletic_sports", "id": 31210709}], "successors": []}
+{"name": "Tennis_awards", "id": 10531152, "predecessors": [{"name": "Athletic_sports", "id": 31210709}], "successors": [{"name": "WTA_Awards", "id": 47388273}, {"name": "ITF_World_Champions", "id": 70558212}]}

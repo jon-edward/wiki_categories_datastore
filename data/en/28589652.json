@@ -1,1 +1,0 @@
-{"name": "Intermodal_transport", "id": 28589652, "predecessors": [{"name": "Freight_transport", "id": 710066}, {"name": "Transport", "id": 5523119}], "successors": [{"name": "River_ports", "id": 15763792}, {"name": "Dry_ports", "id": 25392223}, {"name": "Motorail", "id": 61362904}]}

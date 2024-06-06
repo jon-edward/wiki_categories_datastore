@@ -1,1 +1,1 @@
-{"name": "電動機", "id": 638573, "predecessors": [{"name": "发动机", "id": 68737}], "successors": [{"name": "揚聲器", "id": 512827}]}
+{"name": "電動機", "id": 638573, "predecessors": [{"name": "发动机", "id": 68737}, {"name": "電機工程", "id": 348102}], "successors": [{"name": "揚聲器", "id": 512827}]}

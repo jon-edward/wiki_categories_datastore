@@ -1,1 +1,1 @@
-{"name": "City_gates_in_Gibraltar", "id": 37443366, "predecessors": [{"name": "Fortifications_in_Gibraltar", "id": 42634075}], "successors": []}
+{"name": "City_gates_in_Gibraltar", "id": 37443366, "predecessors": [{"name": "City_gates", "id": 46420851}, {"name": "Fortifications_in_Gibraltar", "id": 42634075}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "苏州餐厅", "id": 8637842, "predecessors": [{"name": "中国食品公司", "id": 510819}, {"name": "苏州公司", "id": 3000948}], "successors": []}
+{"name": "苏州餐厅", "id": 8637842, "predecessors": [{"name": "苏州公司", "id": 3000948}, {"name": "中国建筑", "id": 48304}, {"name": "食品公司", "id": 78288}], "successors": []}

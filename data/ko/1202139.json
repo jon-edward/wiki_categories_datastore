@@ -1,1 +1,1 @@
-{"name": "로켓_발사장", "id": 1202139, "predecessors": [{"name": "장소", "id": 289046}], "successors": [{"name": "우주기지", "id": 1202135}]}
+{"name": "로켓_발사장", "id": 1202139, "predecessors": [{"name": "로켓공학", "id": 1776157}, {"name": "장소", "id": 289046}], "successors": [{"name": "우주기지", "id": 1202135}]}

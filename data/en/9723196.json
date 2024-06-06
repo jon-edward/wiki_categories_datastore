@@ -1,1 +1,1 @@
-{"name": "Radio-controlled_helicopters", "id": 9723196, "predecessors": [{"name": "Helicopters", "id": 751767}], "successors": [{"name": "Quadcopters", "id": 52997912}]}
+{"name": "Radio-controlled_helicopters", "id": 9723196, "predecessors": [{"name": "Helicopters", "id": 751767}, {"name": "Radio-controlled_aircraft", "id": 8475152}], "successors": [{"name": "Quadcopters", "id": 52997912}]}

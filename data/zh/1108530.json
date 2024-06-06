@@ -1,1 +1,1 @@
-{"name": "臉部", "id": 1108530, "predecessors": [{"name": "解剖学", "id": 50120}], "successors": [{"name": "面部表情", "id": 369711}]}
+{"name": "臉部", "id": 1108530, "predecessors": [{"name": "解剖学", "id": 50120}, {"name": "頭頸", "id": 726386}], "successors": [{"name": "眼睛", "id": 255201}, {"name": "面部表情", "id": 369711}, {"name": "嘴", "id": 1630204}, {"name": "鼻", "id": 1774053}]}

@@ -1,1 +1,0 @@
-{"name": "Animal_sounds", "id": 6792625, "predecessors": [{"name": "Animal_communication", "id": 945435}, {"name": "Ethology", "id": 2650082}, {"name": "Sound_production", "id": 2028869}, {"name": "Sounds_by_type", "id": 28526647}], "successors": [{"name": "Bird_sounds", "id": 34617893}, {"name": "Whale_sounds", "id": 37132109}, {"name": "Animal_impersonators", "id": 43412983}]}

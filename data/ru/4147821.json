@@ -1,1 +1,1 @@
-{"name": "Облачные_платформы", "id": 4147821, "predecessors": [{"name": "Облачные_вычисления", "id": 1769768}], "successors": [{"name": "Amazon_Web_Services", "id": 8842849}]}
+{"name": "Облачные_платформы", "id": 4147821, "predecessors": [{"name": "Облачные_вычисления", "id": 1769768}], "successors": [{"name": "Amazon_Web_Services", "id": 8842849}, {"name": "Облачные_СУБД", "id": 9436699}]}

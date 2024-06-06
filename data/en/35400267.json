@@ -1,1 +1,1 @@
-{"name": "Harpsichord_makers", "id": 35400267, "predecessors": [{"name": "Artisans", "id": 742819}, {"name": "String_instruments", "id": 691673}], "successors": []}
+{"name": "Harpsichord_makers", "id": 35400267, "predecessors": [{"name": "Harpsichord", "id": 7434371}, {"name": "Artisans", "id": 742819}, {"name": "String_instruments", "id": 691673}], "successors": []}

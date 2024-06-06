@@ -1,1 +1,1 @@
-{"name": "欧洲之星", "id": 7931814, "predecessors": [{"name": "欧洲国家", "id": 35611}], "successors": [{"name": "欧洲之星车站", "id": 3211936}]}
+{"name": "欧洲之星", "id": 7931814, "predecessors": [{"name": "交通", "id": 44301}, {"name": "公共交通", "id": 80881}], "successors": [{"name": "欧洲之星车站", "id": 3211936}]}

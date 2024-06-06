@@ -1,1 +1,1 @@
-{"name": "应急医学用化学物质", "id": 8236803, "predecessors": [{"name": "医学", "id": 42370}], "successors": [{"name": "儿茶酚胺", "id": 1122160}]}
+{"name": "应急医学用化学物质", "id": 8236803, "predecessors": [{"name": "紧急医疗步骤", "id": 1745627}, {"name": "医学", "id": 42370}], "successors": []}

@@ -1,0 +1,1 @@
+{"name": "Electric_heating", "id": 46772463, "predecessors": [{"name": "Electric_power", "id": 959286}, {"name": "Heating", "id": 21742755}], "successors": [{"name": "Welding", "id": 799421}]}

@@ -1,1 +1,1 @@
-{"name": "西日本旅客鐵道RDT", "id": 6023358, "predecessors": [{"name": "西日本旅客鐵道路線模板", "id": 628509}], "successors": []}
+{"name": "西日本旅客鐵道RDT", "id": 6023358, "predecessors": [{"name": "日本鐵路RDT", "id": 6023349}, {"name": "西日本旅客鐵道路線模板", "id": 628509}], "successors": []}

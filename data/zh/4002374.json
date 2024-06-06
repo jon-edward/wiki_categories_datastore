@@ -1,1 +1,1 @@
-{"name": "命令壳层", "id": 4002374, "predecessors": [{"name": "操作系统技术", "id": 502816}], "successors": [{"name": "Unix_shells", "id": 1901138}]}
+{"name": "命令壳层", "id": 4002374, "predecessors": [{"name": "操作系统技术", "id": 502816}, {"name": "控制台应用程序", "id": 5370228}], "successors": [{"name": "Unix_shells", "id": 1901138}]}

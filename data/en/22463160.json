@@ -1,1 +1,1 @@
-{"name": "Storage_tanks", "id": 22463160, "predecessors": [{"name": "Chemical_equipment", "id": 42616899}, {"name": "Industrial_equipment", "id": 13616594}], "successors": []}
+{"name": "Storage_tanks", "id": 22463160, "predecessors": [{"name": "Industrial_equipment", "id": 13616594}, {"name": "Liquid_containers", "id": 38522306}], "successors": []}

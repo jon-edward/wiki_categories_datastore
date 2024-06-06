@@ -1,1 +1,1 @@
-{"name": "Pecios", "id": 715287, "predecessors": [{"name": "Barcos", "id": 66044}], "successors": []}
+{"name": "Pecios", "id": 715287, "predecessors": [{"name": "Arqueología_subacuática", "id": 1371082}, {"name": "Barcos", "id": 66044}, {"name": "Naufragios", "id": 495138}], "successors": []}

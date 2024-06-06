@@ -1,1 +1,1 @@
-{"name": "Metal_heat_treatments", "id": 24665747, "predecessors": [{"name": "Metallurgical_processes", "id": 23946134}, {"name": "Metalworking", "id": 1069682}], "successors": []}
+{"name": "Metal_heat_treatments", "id": 24665747, "predecessors": [{"name": "Metalworking", "id": 1069682}], "successors": []}

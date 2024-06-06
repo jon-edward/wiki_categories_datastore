@@ -1,1 +1,1 @@
-{"name": "ABS-CBN_News_and_Current_Affairs_shows", "id": 50886822, "predecessors": [{"name": "Philippine_television_news_shows", "id": 8495036}, {"name": "ABS-CBN_Corporation", "id": 35721796}], "successors": [{"name": "ABS-CBN_News_Channel_original_programming", "id": 41154959}]}
+{"name": "ABS-CBN_News_and_Current_Affairs_shows", "id": 50886822, "predecessors": [{"name": "ABS-CBN", "id": 32710470}], "successors": [{"name": "ABS-CBN_News_Channel_original_programming", "id": 41154959}]}

@@ -1,1 +1,1 @@
-{"name": "Arson_attacks_on_vehicles", "id": 38541273, "predecessors": [{"name": "Fire", "id": 3734304}], "successors": []}
+{"name": "Arson_attacks_on_vehicles", "id": 38541273, "predecessors": [{"name": "Crime_by_type", "id": 15090762}, {"name": "Accidents", "id": 4523546}], "successors": []}

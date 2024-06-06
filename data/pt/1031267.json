@@ -1,1 +1,1 @@
-{"name": "Filmes_da_Turquia", "id": 1031267, "predecessors": [{"name": "Cinema", "id": 15210}], "successors": [{"name": "Cartazes_de_filmes_da_Turquia", "id": 5650263}, {"name": "Filmes_de_drama_da_Turquia", "id": 4476162}]}
+{"name": "Filmes_da_Turquia", "id": 1031267, "predecessors": [{"name": "Filmes", "id": 14992}, {"name": "Cinema", "id": 15210}], "successors": [{"name": "Cartazes_de_filmes_da_Turquia", "id": 5650263}, {"name": "Filmes_de_drama_da_Turquia", "id": 4476162}]}

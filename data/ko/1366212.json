@@ -1,1 +1,1 @@
-{"name": "FC_바르셀로나_경기", "id": 1366212, "predecessors": [{"name": "FC_바르셀로나", "id": 131664}, {"name": "스포츠_경기", "id": 1074767}], "successors": [{"name": "엘_클라시코_경기", "id": 3051664}]}
+{"name": "FC_바르셀로나_경기", "id": 1366212, "predecessors": [{"name": "FC_바르셀로나", "id": 131664}], "successors": [{"name": "엘_클라시코_경기", "id": 3051664}]}

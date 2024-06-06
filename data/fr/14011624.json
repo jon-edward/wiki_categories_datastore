@@ -1,1 +1,1 @@
-{"name": "Film_documentaire_ukrainien", "id": 14011624, "predecessors": [{"name": "Genre_cinématographique", "id": 83752}, {"name": "Cinéma_ukrainien", "id": 348194}], "successors": []}
+{"name": "Film_documentaire_ukrainien", "id": 14011624, "predecessors": [{"name": "Film_documentaire", "id": 157786}, {"name": "Cinéma_ukrainien", "id": 348194}], "successors": []}

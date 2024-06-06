@@ -1,1 +1,1 @@
-{"name": "Influenza_A_virus", "id": 39656605, "predecessors": [{"name": "Influenza", "id": 2932559}, {"name": "Orthomyxoviridae", "id": 13816537}], "successors": [{"name": "Subtypes_of_Influenza_A_virus", "id": 13816662}]}
+{"name": "Influenza_A_virus", "id": 39656605, "predecessors": [{"name": "Influenza", "id": 2932559}], "successors": [{"name": "Subtypes_of_Influenza_A_virus", "id": 13816662}]}

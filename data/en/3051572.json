@@ -1,1 +1,1 @@
-{"name": "American_desserts", "id": 3051572, "predecessors": [{"name": "American_cuisine", "id": 728911}], "successors": [{"name": "American_pies", "id": 6353287}, {"name": "American_confectionery", "id": 23823990}, {"name": "American_cakes", "id": 65166157}, {"name": "American_doughnuts", "id": 66548347}, {"name": "Hawaiian_desserts", "id": 68857116}]}
+{"name": "American_desserts", "id": 3051572, "predecessors": [{"name": "American_cuisine", "id": 728911}], "successors": [{"name": "American_confectionery", "id": 23823990}]}

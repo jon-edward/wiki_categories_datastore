@@ -1,1 +1,1 @@
-{"name": "Serotonin_receptor_agonists", "id": 10339200, "predecessors": [{"name": "Receptor_agonists", "id": 22002801}], "successors": [{"name": "Triptans", "id": 843366}]}
+{"name": "Serotonin_receptor_agonists", "id": 10339200, "predecessors": [{"name": "Receptor_agonists", "id": 22002801}, {"name": "Serotonin_receptors", "id": 53679227}], "successors": [{"name": "Triptans", "id": 843366}]}

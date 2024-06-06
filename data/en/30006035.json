@@ -1,1 +1,1 @@
-{"name": "Windows_Phone_devices", "id": 30006035, "predecessors": [{"name": "Windows_Phone", "id": 35024388}], "successors": [{"name": "Microsoft_Lumia", "id": 54255901}]}
+{"name": "Windows_Phone_devices", "id": 30006035, "predecessors": [{"name": "Windows_Phone", "id": 35024388}, {"name": "Smartphones", "id": 953043}], "successors": [{"name": "Microsoft_Lumia", "id": 54255901}]}

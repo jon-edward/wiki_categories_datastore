@@ -1,1 +1,1 @@
-{"name": "Lymphatic_organ_diseases", "id": 32502988, "predecessors": [{"name": "Lymphatic_system", "id": 726233}], "successors": []}
+{"name": "Lymphatic_organ_diseases", "id": 32502988, "predecessors": [{"name": "Lymphatic_system", "id": 726233}], "successors": [{"name": "Diseases_of_veins,_lymphatic_vessels_and_lymph_nodes", "id": 26091181}]}

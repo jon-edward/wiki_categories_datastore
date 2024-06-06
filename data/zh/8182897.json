@@ -1,1 +1,1 @@
-{"name": "产品到期", "id": 8182897, "predecessors": [{"name": "时间", "id": 322516}], "successors": [{"name": "撤回药物", "id": 1753726}]}
+{"name": "产品到期", "id": 8182897, "predecessors": [{"name": "產品生命周期管理", "id": 2818208}, {"name": "本体论", "id": 594818}], "successors": [{"name": "撤回药物", "id": 1753726}]}

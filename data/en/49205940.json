@@ -1,1 +1,1 @@
-{"name": "Jewish_rock", "id": 49205940, "predecessors": [{"name": "Jewish_music", "id": 724766}, {"name": "Rock_music", "id": 692809}], "successors": []}
+{"name": "Jewish_rock", "id": 49205940, "predecessors": [{"name": "Jewish_music", "id": 724766}, {"name": "Rock_music", "id": 692809}], "successors": [{"name": "Jewish_rock_groups", "id": 48926764}, {"name": "Jewish_rock_musicians", "id": 49348373}]}

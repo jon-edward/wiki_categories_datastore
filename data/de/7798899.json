@@ -1,1 +1,1 @@
-{"name": "Milchfetterzeugnis", "id": 7798899, "predecessors": [{"name": "Milchprodukt", "id": 240151}, {"name": "Ware_aus_tierischen_Produkten", "id": 11485880}, {"name": "Pflanzen_in_der_Kultur", "id": 9067106}], "successors": []}
+{"name": "Milchfetterzeugnis", "id": 7798899, "predecessors": [{"name": "Genießbare_tierische_und_pflanzliche_Fette_und_Öle", "id": 10854135}, {"name": "Milchprodukt", "id": 240151}, {"name": "Ware_aus_tierischen_Produkten", "id": 11485880}], "successors": []}

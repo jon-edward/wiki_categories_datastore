@@ -1,1 +1,1 @@
-{"name": "农业机械", "id": 921528, "predecessors": [{"name": "机械", "id": 321815}, {"name": "農具", "id": 518307}, {"name": "集約農業", "id": 7730132}], "successors": [{"name": "拖拉機", "id": 3844198}]}
+{"name": "农业机械", "id": 921528, "predecessors": [{"name": "机械", "id": 321815}, {"name": "农业", "id": 56002}], "successors": []}

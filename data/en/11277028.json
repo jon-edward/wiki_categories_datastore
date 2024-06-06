@@ -1,1 +1,1 @@
-{"name": "Transit-oriented_developments", "id": 11277028, "predecessors": [{"name": "Housing", "id": 4152584}, {"name": "Transport", "id": 5523119}], "successors": [{"name": "Streetcar_suburbs", "id": 5485172}]}
+{"name": "Transit-oriented_developments", "id": 11277028, "predecessors": [{"name": "Housing", "id": 4152584}, {"name": "Public_transport", "id": 700497}, {"name": "Neighbourhoods", "id": 1059078}], "successors": [{"name": "Streetcar_suburbs", "id": 5485172}]}

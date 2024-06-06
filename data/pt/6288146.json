@@ -1,1 +1,1 @@
-{"name": "Santos_populares", "id": 6288146, "predecessors": [{"name": "Piedade_popular", "id": 2179762}, {"name": "Santos", "id": 20506}, {"name": "Beatos", "id": 41232}, {"name": "Religião", "id": 14276}], "successors": []}
+{"name": "Santos_populares", "id": 6288146, "predecessors": [{"name": "Piedade_popular", "id": 2179762}, {"name": "Santos", "id": 20506}, {"name": "Santos_por_tipo", "id": 3681562}, {"name": "Religião", "id": 14276}], "successors": []}

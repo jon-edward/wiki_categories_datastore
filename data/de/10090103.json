@@ -1,1 +1,1 @@
-{"name": "Umgenutztes_Bauwerk_in_Coburg", "id": 10090103, "predecessors": [{"name": "Bauwerk_in_Coburg", "id": 4021610}, {"name": "Umgenutztes_Bauwerk_in_Bayern", "id": 7160671}, {"name": "Umgenutztes_Bauwerk", "id": 6614327}], "successors": []}
+{"name": "Umgenutztes_Bauwerk_in_Coburg", "id": 10090103, "predecessors": [{"name": "Bauwerk_in_Coburg", "id": 4021610}, {"name": "Umgenutztes_Bauwerk", "id": 6614327}, {"name": "Architektur", "id": 1884679}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Agricultors", "id": 1327057, "predecessors": [{"name": "Agricultura", "id": 19909}, {"name": "Biografies", "id": 16117}], "successors": [{"name": "Agricultors_catalans", "id": 1327059}, {"name": "Pagesos_mallorquins", "id": 1585260}]}
+{"name": "Agricultors", "id": 1327057, "predecessors": [{"name": "Agricultura", "id": 19909}, {"name": "Principal", "id": 13225}], "successors": [{"name": "Agricultors_catalans", "id": 1327059}, {"name": "Pagesos_mallorquins", "id": 1585260}]}

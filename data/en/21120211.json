@@ -1,1 +1,1 @@
-{"name": "Types_of_bus_service", "id": 21120211, "predecessors": [{"name": "Road_transport", "id": 700964}], "successors": [{"name": "Bus_rapid_transit", "id": 1866000}, {"name": "Share_taxis", "id": 15711296}, {"name": "Night_bus_service", "id": 40287821}]}
+{"name": "Types_of_bus_service", "id": 21120211, "predecessors": [{"name": "Public_transport_by_mode", "id": 15720272}], "successors": [{"name": "Bus_rapid_transit", "id": 1866000}, {"name": "Share_taxis", "id": 15711296}, {"name": "Night_bus_service", "id": 40287821}]}

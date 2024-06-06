@@ -1,1 +1,1 @@
-{"name": "Nuclear_liability", "id": 15669424, "predecessors": [{"name": "Energy_policy", "id": 6078900}, {"name": "Public_liability", "id": 39480123}], "successors": []}
+{"name": "Nuclear_liability", "id": 15669424, "predecessors": [{"name": "Energy_law", "id": 19941699}, {"name": "Energy_policy", "id": 6078900}, {"name": "Public_liability", "id": 39480123}], "successors": []}

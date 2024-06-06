@@ -1,1 +1,1 @@
-{"name": "Approved_gene_therapies", "id": 75487846, "predecessors": [{"name": "Biopharmaceuticals", "id": 21401246}, {"name": "Drugs_by_mechanism_of_action", "id": 22001991}, {"name": "Gene_therapy", "id": 48316232}], "successors": []}
+{"name": "Approved_gene_therapies", "id": 75487846, "predecessors": [{"name": "Biopharmaceuticals", "id": 21401246}, {"name": "Gene_therapy", "id": 48316232}], "successors": []}

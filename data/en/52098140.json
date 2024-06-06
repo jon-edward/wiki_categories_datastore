@@ -1,1 +1,1 @@
-{"name": "Laser_printers", "id": 52098140, "predecessors": [{"name": "Non-impact_printing", "id": 25246426}], "successors": [{"name": "HP_LaserJet_printers", "id": 5424964}]}
+{"name": "Laser_printers", "id": 52098140, "predecessors": [{"name": "Computer_printers", "id": 726997}], "successors": [{"name": "HP_LaserJet_printers", "id": 5424964}]}

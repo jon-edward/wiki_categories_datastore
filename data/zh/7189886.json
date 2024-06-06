@@ -1,1 +1,1 @@
-{"name": "钢桥", "id": 7189886, "predecessors": [{"name": "鋼", "id": 458975}, {"name": "各類建築物", "id": 3249538}], "successors": [{"name": "美國鋼橋", "id": 7586468}]}
+{"name": "钢桥", "id": 7189886, "predecessors": [{"name": "鋼", "id": 458975}, {"name": "金屬加工", "id": 78002}], "successors": [{"name": "美國鋼橋", "id": 7586468}]}

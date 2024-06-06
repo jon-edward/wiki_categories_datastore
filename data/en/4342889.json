@@ -1,1 +1,1 @@
-{"name": "Sunshine_Tour", "id": 4342889, "predecessors": [{"name": "Sport_in_South_Africa", "id": 3058452}, {"name": "Sport_in_Africa", "id": 7236448}], "successors": [{"name": "Sunshine_Tour_events", "id": 2195072}, {"name": "Sunshine_Tour_golfers", "id": 4231983}]}
+{"name": "Sunshine_Tour", "id": 4342889, "predecessors": [{"name": "Professional_golf_tours", "id": 1324713}], "successors": [{"name": "Sunshine_Tour_events", "id": 2195072}, {"name": "Sunshine_Tour_golfers", "id": 4231983}]}

@@ -1,1 +1,1 @@
-{"name": "日本飛機公司", "id": 3810887, "predecessors": [{"name": "日本航空", "id": 982763}, {"name": "日本製造公司", "id": 489732}, {"name": "航空航太公司", "id": 4094515}], "successors": []}
+{"name": "日本飛機公司", "id": 3810887, "predecessors": [{"name": "航空", "id": 81361}], "successors": []}

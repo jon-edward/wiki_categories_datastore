@@ -1,0 +1,1 @@
+{"name": "血压", "id": 1703683, "predecessors": [{"name": "压力", "id": 1440519}, {"name": "血液", "id": 77201}], "successors": [{"name": "高血压", "id": 1703669}]}

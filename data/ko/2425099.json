@@ -1,1 +1,1 @@
-{"name": "풍력_발전", "id": 2425099, "predecessors": [{"name": "풍력", "id": 88459}, {"name": "전력", "id": 156103}], "successors": []}
+{"name": "풍력_발전", "id": 2425099, "predecessors": [{"name": "풍력", "id": 88459}, {"name": "생산_및_제조", "id": 98522}], "successors": []}

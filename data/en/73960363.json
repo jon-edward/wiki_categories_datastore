@@ -1,1 +1,1 @@
-{"name": "People_sentenced_to_death_in_absentia_by_France", "id": 73960363, "predecessors": [{"name": "Prisoners_sentenced_to_death_by_France", "id": 18012330}], "successors": [{"name": "Nazis_sentenced_to_death_in_absentia_by_France", "id": 75092094}]}
+{"name": "People_sentenced_to_death_in_absentia_by_France", "id": 73960363, "predecessors": [{"name": "People_sentenced_to_death_in_absentia", "id": 13570777}, {"name": "Prisoners_sentenced_to_death_by_France", "id": 18012330}], "successors": [{"name": "Nazis_sentenced_to_death_in_absentia_by_France", "id": 75092094}]}

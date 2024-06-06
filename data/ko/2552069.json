@@ -1,1 +1,1 @@
-{"name": "전자제품_소매업체", "id": 2552069, "predecessors": [{"name": "소매업체", "id": 215476}], "successors": []}
+{"name": "전자제품_소매업체", "id": 2552069, "predecessors": [{"name": "전자제품", "id": 839156}, {"name": "소매업체", "id": 215476}], "successors": []}

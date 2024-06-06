@@ -1,1 +1,1 @@
-{"name": "Soviet_journalists", "id": 23615931, "predecessors": [{"name": "Soviet_non-fiction_writers", "id": 23615978}, {"name": "Development_in_Asia", "id": 49141906}], "successors": [{"name": "Soviet_newspaper_editors", "id": 25527613}, {"name": "Soviet_sports_journalists", "id": 54021339}]}
+{"name": "Soviet_journalists", "id": 23615931, "predecessors": [{"name": "Soviet_writers", "id": 1671682}], "successors": [{"name": "Soviet_newspaper_editors", "id": 25527613}, {"name": "Soviet_sports_journalists", "id": 54021339}, {"name": "Soviet_magazine_editors", "id": 69868480}]}

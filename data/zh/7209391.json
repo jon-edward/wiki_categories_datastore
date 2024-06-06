@@ -1,1 +1,1 @@
-{"name": "栽培植物", "id": 7209391, "predecessors": [{"name": "农业史", "id": 76527}, {"name": "后殖民主义", "id": 6208374}], "successors": []}
+{"name": "栽培植物", "id": 7209391, "predecessors": [{"name": "农业史", "id": 76527}, {"name": "園藝", "id": 593468}, {"name": "农业", "id": 56002}], "successors": [{"name": "可食用植物", "id": 71457}, {"name": "粮食", "id": 75943}]}

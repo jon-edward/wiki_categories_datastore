@@ -1,1 +1,1 @@
-{"name": "Maestros_de_capilla_de_la_Catedral_de_Orense", "id": 10008162, "predecessors": [{"name": "Orense", "id": 763790}, {"name": "Ocupaciones_de_la_educación", "id": 5070899}, {"name": "Compositores_de_Galicia", "id": 3203651}], "successors": []}
+{"name": "Maestros_de_capilla_de_la_Catedral_de_Orense", "id": 10008162, "predecessors": [{"name": "Catedral_de_Orense", "id": 10879813}, {"name": "Orense", "id": 763790}, {"name": "Ocupaciones_de_la_educación", "id": 5070899}, {"name": "Compositores_de_Galicia", "id": 3203651}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "語言障礙疾病", "id": 1463418, "predecessors": [{"name": "精神障碍", "id": 260303}], "successors": []}
+{"name": "語言障礙疾病", "id": 1463418, "predecessors": [{"name": "人聲", "id": 726389}, {"name": "病理学", "id": 284321}, {"name": "说话", "id": 8194384}, {"name": "人類溝通", "id": 1588463}], "successors": [{"name": "溝通障礙", "id": 5679771}]}

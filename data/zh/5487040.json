@@ -1,1 +1,1 @@
-{"name": "富山市鐵路車站", "id": 5487040, "predecessors": [{"name": "富山市交通", "id": 8037210}], "successors": []}
+{"name": "富山市鐵路車站", "id": 5487040, "predecessors": [{"name": "富山市交通", "id": 8037210}, {"name": "富山縣鐵路車站", "id": 686486}], "successors": [{"name": "富山市廢站", "id": 7871429}]}

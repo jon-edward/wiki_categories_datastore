@@ -1,1 +1,1 @@
-{"name": "Medical_and_health_regulators", "id": 35503879, "predecessors": [{"name": "Medical_and_health_organizations", "id": 14658985}, {"name": "Medical_regulation", "id": 1389033}, {"name": "Administrative_law", "id": 1585095}], "successors": [{"name": "Regulators_of_biotechnology_products", "id": 10627309}]}
+{"name": "Medical_and_health_regulators", "id": 35503879, "predecessors": [{"name": "Medical_and_health_organizations", "id": 14658985}, {"name": "Medical_regulation", "id": 1389033}], "successors": [{"name": "Regulators_of_biotechnology_products", "id": 10627309}]}

@@ -1,1 +1,1 @@
-{"name": "Lkw-Modell_(Iveco)", "id": 11054978, "predecessors": [{"name": "Iveco", "id": 1835248}, {"name": "Lkw-Modell", "id": 2060377}, {"name": "Nutzfahrzeuge", "id": 235419}], "successors": []}
+{"name": "Iveco-Nutzfahrzeug", "id": 11054978, "predecessors": [{"name": "Iveco", "id": 1835248}, {"name": "Lkw-Modell", "id": 2060377}, {"name": "Nutzfahrzeuge", "id": 235419}], "successors": []}

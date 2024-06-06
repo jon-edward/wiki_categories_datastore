@@ -1,1 +1,1 @@
-{"name": "Filmes_sem_diálogos", "id": 6059489, "predecessors": [{"name": "Diálogos", "id": 2041841}, {"name": "Línguas", "id": 15234}, {"name": "Cinema", "id": 15210}], "successors": []}
+{"name": "Filmes_sem_diálogos", "id": 6059489, "predecessors": [{"name": "Diálogos", "id": 2041841}, {"name": "Filmes", "id": 14992}], "successors": []}

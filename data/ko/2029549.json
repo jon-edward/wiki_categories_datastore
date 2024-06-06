@@ -1,1 +1,1 @@
-{"name": "멜로디페스티발렌_참가자", "id": 2029549, "predecessors": [{"name": "음악_경연회", "id": 431798}], "successors": []}
+{"name": "멜로디페스티발렌_참가자", "id": 2029549, "predecessors": [{"name": "음악_텔레비전_프로그램", "id": 490542}, {"name": "대회", "id": 116658}], "successors": []}

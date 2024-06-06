@@ -1,1 +1,1 @@
-{"name": "皮革", "id": 3504324, "predecessors": [{"name": "动物产物", "id": 1600528}, {"name": "材料", "id": 58876}, {"name": "织物", "id": 1643209}], "successors": []}
+{"name": "皮革", "id": 3504324, "predecessors": [{"name": "动物产物", "id": 1600528}, {"name": "皮膚", "id": 1178797}, {"name": "织物", "id": 1643209}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Olympic_speed_skating_venues", "id": 31306354, "predecessors": [{"name": "Speed_skating_venues", "id": 24401437}], "successors": []}
+{"name": "Olympic_speed_skating_venues", "id": 31306354, "predecessors": [{"name": "Speed_skating_at_the_Winter_Olympics", "id": 33839606}, {"name": "Speed_skating_venues", "id": 24401437}, {"name": "Entertainment", "id": 693016}], "successors": []}

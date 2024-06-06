@@ -1,1 +1,1 @@
-{"name": "의공학", "id": 1665372, "predecessors": [{"name": "생물공학", "id": 1465441}, {"name": "의학", "id": 11731}], "successors": []}
+{"name": "의공학", "id": 1665372, "predecessors": [{"name": "생물공학", "id": 1465441}, {"name": "의학", "id": 11731}], "successors": [{"name": "신경공학", "id": 2992193}]}

@@ -1,1 +1,1 @@
-{"name": "Palette_Camion", "id": 4234313, "predecessors": [{"name": "Palette_Transports", "id": 2690238}, {"name": "Modèle_transport", "id": 496057}], "successors": []}
+{"name": "Palette_Camion", "id": 4234313, "predecessors": [{"name": "Palette_Transports", "id": 2690238}, {"name": "Modèle_transport", "id": 496057}], "successors": [{"name": "Palette_Frise_chronologique_poids_lourd", "id": 16276324}]}

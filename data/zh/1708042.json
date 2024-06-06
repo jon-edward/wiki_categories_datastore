@@ -1,1 +1,1 @@
-{"name": "冷饮", "id": 1708042, "predecessors": [{"name": "温度", "id": 78153}], "successors": [{"name": "鸡尾酒", "id": 46818}, {"name": "冰飲料", "id": 3693412}]}
+{"name": "冷饮", "id": 1708042, "predecessors": [{"name": "饮料", "id": 40831}, {"name": "食品", "id": 40514}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Fictional_bards", "id": 60728762, "predecessors": [{"name": "Bards", "id": 73748140}], "successors": []}
+{"name": "Fictional_bards", "id": 60728762, "predecessors": [{"name": "Bards", "id": 73748140}, {"name": "Fictional_historians", "id": 5435194}, {"name": "Fictional_musicians", "id": 915968}, {"name": "Fictional_poets", "id": 6931328}], "successors": []}

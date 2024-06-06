@@ -1,1 +1,1 @@
-{"name": "유로콥터_항공기", "id": 672874, "predecessors": [{"name": "항공_단체", "id": 1704433}], "successors": []}
+{"name": "유로콥터_항공기", "id": 672874, "predecessors": [{"name": "항공기", "id": 30021}], "successors": []}

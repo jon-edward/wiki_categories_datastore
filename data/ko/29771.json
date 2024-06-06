@@ -1,1 +1,1 @@
-{"name": "HTML", "id": 29771, "predecessors": [{"name": "마크업_언어", "id": 15120}, {"name": "월드_와이드_웹", "id": 15133}], "successors": [{"name": "HTML_편집기", "id": 396168}, {"name": "HTML5", "id": 2701887}, {"name": "HTML_태그", "id": 3765402}]}
+{"name": "HTML", "id": 29771, "predecessors": [{"name": "마크업_언어", "id": 15120}, {"name": "월드_와이드_웹", "id": 15133}], "successors": [{"name": "HTML_편집기", "id": 396168}, {"name": "HTML5", "id": 2701887}]}

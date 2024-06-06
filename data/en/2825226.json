@@ -1,1 +1,1 @@
-{"name": "Middle_schools_in_Ontario", "id": 2825226, "predecessors": [{"name": "Eastern_Canada", "id": 31584904}, {"name": "Education_in_Canada", "id": 1013475}], "successors": [{"name": "Middle_schools_in_Ottawa", "id": 5163214}, {"name": "Middle_schools_in_Toronto", "id": 6129039}]}
+{"name": "Middle_schools_in_Ontario", "id": 2825226, "predecessors": [{"name": "Middle_schools", "id": 1400941}, {"name": "Eastern_Canada", "id": 31584904}], "successors": [{"name": "Middle_schools_in_Ottawa", "id": 5163214}, {"name": "Middle_schools_in_Toronto", "id": 6129039}]}

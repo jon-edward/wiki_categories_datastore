@@ -1,1 +1,1 @@
-{"name": "Polio_survivors", "id": 74424454, "predecessors": [{"name": "Polio", "id": 10761217}], "successors": []}
+{"name": "Polio_survivors", "id": 74424454, "predecessors": [{"name": "Polio", "id": 10761217}, {"name": "Diseases_and_disorders", "id": 16705267}], "successors": []}

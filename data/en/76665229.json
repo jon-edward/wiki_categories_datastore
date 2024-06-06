@@ -1,1 +1,1 @@
-{"name": "First_contact_science_fiction", "id": 76665229, "predecessors": [{"name": "Science_fiction_themes", "id": 786868}], "successors": [{"name": "Alien_invasions_in_fiction", "id": 30945579}]}
+{"name": "Science_fiction_about_first_contact", "id": 76665229, "predecessors": [{"name": "Science_fiction_themes", "id": 786868}], "successors": [{"name": "Star_Trek", "id": 690990}, {"name": "Fiction_about_alien_invasions", "id": 30945579}, {"name": "Fiction_about_alien_visitations", "id": 36628776}]}

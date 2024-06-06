@@ -1,1 +1,1 @@
-{"name": "Rice_production", "id": 22075030, "predecessors": [{"name": "Rice", "id": 4059323}], "successors": [{"name": "Rice_production_by_country", "id": 35287130}]}
+{"name": "Rice_production", "id": 22075030, "predecessors": [{"name": "Grain_production", "id": 42262311}, {"name": "Rice", "id": 4059323}], "successors": [{"name": "Rice_production_by_country", "id": 35287130}]}

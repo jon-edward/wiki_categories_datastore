@@ -1,1 +1,1 @@
-{"name": "Directors_de_cinema_navarresos", "id": 1809341, "predecessors": [{"name": "Directors_de_cinema_espanyols", "id": 69985}, {"name": "Artistes_espanyols", "id": 181616}, {"name": "Art", "id": 12691}], "successors": []}
+{"name": "Directors_de_cinema_navarresos", "id": 1809341, "predecessors": [{"name": "Artistes_navarresos", "id": 272159}, {"name": "Directors_de_cinema_espanyols", "id": 69985}, {"name": "Art", "id": 12691}], "successors": []}

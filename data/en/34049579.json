@@ -1,1 +1,1 @@
-{"name": "Shunning", "id": 34049579, "predecessors": [{"name": "Social_rejection", "id": 40461384}], "successors": [{"name": "Remittance_men", "id": 34516997}, {"name": "Blacklisting", "id": 53030435}]}
+{"name": "Shunning", "id": 34049579, "predecessors": [{"name": "Segregation", "id": 40945094}, {"name": "Social_rejection", "id": 40461384}], "successors": [{"name": "Blacklisting", "id": 53030435}]}

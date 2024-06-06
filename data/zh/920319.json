@@ -1,1 +1,1 @@
-{"name": "量子力学模型", "id": 920319, "predecessors": [{"name": "量子力学", "id": 123370}], "successors": []}
+{"name": "量子力学模型", "id": 920319, "predecessors": [{"name": "物理学系统", "id": 914149}, {"name": "量子力学", "id": 123370}], "successors": []}

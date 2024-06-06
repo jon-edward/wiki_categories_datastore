@@ -1,1 +1,1 @@
-{"name": "Hostels", "id": 10457079, "predecessors": [{"name": "Tourist_accommodations", "id": 11495357}], "successors": [{"name": "Youth_hostelling", "id": 17461743}, {"name": "Migrant_hostels_in_Australia", "id": 38943363}]}
+{"name": "Hostels", "id": 10457079, "predecessors": [{"name": "Tourist_accommodations", "id": 11495357}, {"name": "Youth_culture", "id": 3336767}], "successors": [{"name": "Youth_hostelling", "id": 17461743}, {"name": "Migrant_hostels_in_Australia", "id": 38943363}]}

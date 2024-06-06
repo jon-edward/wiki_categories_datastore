@@ -1,1 +1,1 @@
-{"name": "Ebola_outbreaks", "id": 65882309, "predecessors": [{"name": "Ebola", "id": 8265047}], "successors": []}
+{"name": "Ebola_outbreaks", "id": 65882309, "predecessors": [{"name": "Ebola", "id": 8265047}, {"name": "Disease_outbreaks", "id": 33346982}], "successors": []}

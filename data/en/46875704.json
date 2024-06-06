@@ -1,1 +1,1 @@
-{"name": "Greek_alchemists", "id": 46875704, "predecessors": [{"name": "Balkan_countries", "id": 51872943}, {"name": "Ancient_Greece", "id": 737698}, {"name": "Alchemy", "id": 793378}], "successors": []}
+{"name": "Greek_alchemists", "id": 46875704, "predecessors": [{"name": "Greek_chemists", "id": 45218846}, {"name": "Ancient_Greece", "id": 737698}, {"name": "Hellenistic_civilization", "id": 5167452}, {"name": "Balkan_countries", "id": 51872943}], "successors": [{"name": "Hermes_Trismegistus", "id": 77039570}]}

@@ -1,1 +1,1 @@
-{"name": "River_dolphins", "id": 12682217, "predecessors": [{"name": "Dolphins", "id": 18194228}, {"name": "Toothed_whales", "id": 3648531}, {"name": "Aquatic_animals", "id": 43539222}], "successors": []}
+{"name": "River_dolphins", "id": 12682217, "predecessors": [{"name": "Aquatic_animals", "id": 43539222}], "successors": []}

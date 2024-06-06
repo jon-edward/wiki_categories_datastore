@@ -1,1 +1,1 @@
-{"name": "Counterterrorism_intelligence", "id": 51497132, "predecessors": [{"name": "Counterterrorism", "id": 3223549}], "successors": [{"name": "Terrorism_databases", "id": 28954756}]}
+{"name": "Counterterrorism_intelligence", "id": 51497132, "predecessors": [{"name": "Counterterrorism", "id": 3223549}, {"name": "Intelligence_assessment", "id": 14470219}], "successors": [{"name": "Terrorism_databases", "id": 28954756}]}

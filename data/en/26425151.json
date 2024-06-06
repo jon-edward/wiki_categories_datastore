@@ -1,1 +1,1 @@
-{"name": "Sorghum", "id": 26425151, "predecessors": [{"name": "Forages", "id": 8084654}], "successors": [{"name": "Baijiu", "id": 39106186}]}
+{"name": "Sorghum", "id": 26425151, "predecessors": [{"name": "Cereals", "id": 694869}, {"name": "Forages", "id": 8084654}], "successors": [{"name": "Sorghum_diseases", "id": 9491494}, {"name": "Baijiu", "id": 39106186}]}

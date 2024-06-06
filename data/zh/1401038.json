@@ -1,1 +1,1 @@
-{"name": "放射性药物", "id": 1401038, "predecessors": [{"name": "核医学", "id": 960089}, {"name": "药物", "id": 50014}, {"name": "医学", "id": 42370}], "successors": []}
+{"name": "放射性药物", "id": 1401038, "predecessors": [{"name": "核医学", "id": 960089}, {"name": "医学", "id": 42370}], "successors": []}

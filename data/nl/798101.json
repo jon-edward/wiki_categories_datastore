@@ -1,1 +1,1 @@
-{"name": "Straat_in_Eindhoven", "id": 798101, "predecessors": [{"name": "Geografie_van_Eindhoven", "id": 798040}, {"name": "Verkeer_en_vervoer_in_Eindhoven", "id": 4014045}, {"name": "Verkeersinfrastructuur", "id": 2965906}], "successors": []}
+{"name": "Straat_in_Eindhoven", "id": 798101, "predecessors": [{"name": "Geografie_van_Eindhoven", "id": 798040}, {"name": "Land_naar_type", "id": 190509}, {"name": "Verkeersinfrastructuur", "id": 2965906}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Закрытые_сервисы_Google", "id": 8445188, "predecessors": [{"name": "Закрытые_сайты", "id": 4378492}, {"name": "Сервисы_Google", "id": 1042696}], "successors": []}
+{"name": "Закрытые_сервисы_Google", "id": 8445188, "predecessors": [{"name": "Закрытые_интернет-сервисы", "id": 7246008}, {"name": "Сервисы_Google", "id": 1042696}], "successors": []}

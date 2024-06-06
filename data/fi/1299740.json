@@ -1,1 +1,1 @@
-{"name": "Suomalaiset_rahastot", "id": 1299740, "predecessors": [{"name": "Suomalaiset_järjestöt", "id": 350244}, {"name": "Suomen_talous", "id": 169605}, {"name": "Apurahat", "id": 419911}], "successors": [{"name": "Kansaneläkelaitos", "id": 289252}]}
+{"name": "Suomalaiset_rahastot", "id": 1299740, "predecessors": [{"name": "Rahastot", "id": 1147427}, {"name": "Suomalaiset_järjestöt", "id": 350244}, {"name": "Suomen_talous", "id": 169605}], "successors": [{"name": "Kansaneläkelaitos", "id": 289252}]}

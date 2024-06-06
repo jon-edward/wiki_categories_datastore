@@ -1,1 +1,1 @@
-{"name": "Interior_Plateau", "id": 42463680, "predecessors": [{"name": "Interior_of_British_Columbia", "id": 10529899}, {"name": "Plateaus_of_British_Columbia", "id": 18135842}], "successors": [{"name": "Cariboo", "id": 35137230}, {"name": "Mountain_ranges_of_the_Interior_Plateau", "id": 44804153}]}
+{"name": "Interior_Plateau", "id": 42463680, "predecessors": [{"name": "Plateaus_of_British_Columbia", "id": 18135842}], "successors": [{"name": "Cariboo", "id": 35137230}, {"name": "Mountain_ranges_of_the_Interior_Plateau", "id": 44804153}]}

@@ -1,1 +1,1 @@
-{"name": "Bibliografias", "id": 2696922, "predecessors": [{"name": "Bibliografia", "id": 637722}, {"name": "Listas_de_livros", "id": 37027}], "successors": []}
+{"name": "Bibliografias", "id": 2696922, "predecessors": [{"name": "Bibliografia", "id": 637722}, {"name": "Listas_de_livros", "id": 37027}], "successors": [{"name": "Bibliografias_por_autor", "id": 2367874}]}

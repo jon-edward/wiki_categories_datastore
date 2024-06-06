@@ -1,1 +1,1 @@
-{"name": "Neural_engineering", "id": 4288214, "predecessors": [{"name": "Biomedical_engineering", "id": 3400689}], "successors": [{"name": "Neuroprosthetics", "id": 4288055}, {"name": "Brain–computer_interface", "id": 35896842}]}
+{"name": "Neural_engineering", "id": 4288214, "predecessors": [{"name": "Biomedical_engineering", "id": 3400689}], "successors": [{"name": "Neurotechnology", "id": 4222755}, {"name": "Neuroprosthetics", "id": 4288055}, {"name": "Brain–computer_interface", "id": 35896842}]}

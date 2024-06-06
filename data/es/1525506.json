@@ -1,1 +1,1 @@
-{"name": "Casinos", "id": 1525506, "predecessors": [{"name": "Juegos_de_azar", "id": 94255}, {"name": "Entretenimiento", "id": 296195}], "successors": [{"name": "Casinos_cerrados", "id": 1538723}, {"name": "Casinos_de_Chile", "id": 1701561}]}
+{"name": "Casinos", "id": 1525506, "predecessors": [{"name": "Industria_del_entretenimiento", "id": 789328}, {"name": "Juegos_de_azar", "id": 94255}, {"name": "Entretenimiento", "id": 296195}], "successors": [{"name": "Casinos_cerrados", "id": 1538723}, {"name": "Casinos_de_Chile", "id": 1701561}]}

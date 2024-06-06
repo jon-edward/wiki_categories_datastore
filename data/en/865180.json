@@ -1,1 +1,1 @@
-{"name": "Edible_thickening_agents", "id": 865180, "predecessors": [{"name": "Food_additives", "id": 717916}, {"name": "Food_ingredients", "id": 1077080}], "successors": [{"name": "Gelatin", "id": 48001435}]}
+{"name": "Edible_thickening_agents", "id": 865180, "predecessors": [{"name": "Food_additives", "id": 717916}, {"name": "Food_ingredients", "id": 1077080}, {"name": "Excipients", "id": 12250356}], "successors": []}

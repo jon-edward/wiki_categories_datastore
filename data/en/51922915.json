@@ -1,1 +1,1 @@
-{"name": "Liability_(financial_accounting)", "id": 51922915, "predecessors": [{"name": "Business_economics", "id": 6551784}, {"name": "Money", "id": 1754852}, {"name": "Financial_statements", "id": 16616179}], "successors": [{"name": "Debt", "id": 4117011}]}
+{"name": "Liability_(financial_accounting)", "id": 51922915, "predecessors": [{"name": "Business_economics", "id": 6551784}, {"name": "Financial_accounting", "id": 11742163}], "successors": [{"name": "Debt", "id": 4117011}]}

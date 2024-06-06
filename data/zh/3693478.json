@@ -1,1 +1,1 @@
-{"name": "聚餐", "id": 3693478, "predecessors": [{"name": "社交活動", "id": 3693477}], "successors": [{"name": "燒烤", "id": 271104}, {"name": "宴會", "id": 3693479}]}
+{"name": "聚餐", "id": 3693478, "predecessors": [{"name": "餐", "id": 66263}, {"name": "饮食文化", "id": 2762316}, {"name": "社交活動", "id": 3693477}], "successors": [{"name": "宴會", "id": 3693479}]}

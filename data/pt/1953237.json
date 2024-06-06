@@ -1,1 +1,1 @@
-{"name": "Filmes_de_estrada", "id": 1953237, "predecessors": [{"name": "Construções", "id": 41684}, {"name": "Géneros_de_cinema", "id": 115526}], "successors": [{"name": "Carros_(franquia)", "id": 1919684}, {"name": "Mad_Max", "id": 3062182}]}
+{"name": "Filmes_de_estrada", "id": 1953237, "predecessors": [{"name": "Construções", "id": 41684}, {"name": "Filmes", "id": 14992}], "successors": [{"name": "Carros_(franquia)", "id": 1919684}, {"name": "Mad_Max", "id": 3062182}]}

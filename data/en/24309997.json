@@ -1,1 +1,1 @@
-{"name": "Limestone_statues", "id": 24309997, "predecessors": [{"name": "Limestone_sculptures", "id": 38946581}], "successors": [{"name": "Great_Sphinx_of_Giza", "id": 72473103}]}
+{"name": "Limestone_statues", "id": 24309997, "predecessors": [{"name": "Limestone_sculptures", "id": 38946581}, {"name": "Sculptures_by_medium", "id": 28165228}], "successors": [{"name": "Great_Sphinx_of_Giza", "id": 72473103}]}

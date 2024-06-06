@@ -1,1 +1,1 @@
-{"name": "马尔可夫模型", "id": 4656170, "predecessors": [{"name": "机器学习", "id": 225886}], "successors": []}
+{"name": "马尔可夫模型", "id": 4656170, "predecessors": [{"name": "圖模式", "id": 5356926}, {"name": "机器学习", "id": 225886}, {"name": "概念模型", "id": 3951936}], "successors": []}

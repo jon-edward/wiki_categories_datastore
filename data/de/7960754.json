@@ -1,1 +1,1 @@
-{"name": "Kletterwettbewerb", "id": 7960754, "predecessors": [{"name": "Sportwettbewerb", "id": 7893960}, {"name": "Klettern", "id": 263506}], "successors": []}
+{"name": "Kletterwettbewerb", "id": 7960754, "predecessors": [{"name": "Sportklettern", "id": 10849563}, {"name": "Sportwettbewerb", "id": 7893960}], "successors": []}

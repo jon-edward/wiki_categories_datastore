@@ -1,1 +1,1 @@
-{"name": "Phim_dựa_theo_truyện_cổ_tích", "id": 3120348, "predecessors": [{"name": "Phim_dựa_theo_văn_hóa_dân_gian", "id": 19470632}], "successors": [{"name": "Phim_dựa_theo_truyện_cổ_Grimm", "id": 585483}, {"name": "Những_nàng_công_chúa_Disney", "id": 2409990}]}
+{"name": "Phim_dựa_theo_truyện_cổ_tích", "id": 3120348, "predecessors": [{"name": "Văn_hóa_dân_gian", "id": 321336}], "successors": [{"name": "Phim_dựa_theo_truyện_cổ_Grimm", "id": 585483}, {"name": "Những_nàng_công_chúa_Disney", "id": 2409990}]}

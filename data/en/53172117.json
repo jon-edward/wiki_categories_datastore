@@ -1,1 +1,1 @@
-{"name": "CAN_bus", "id": 53172117, "predecessors": [{"name": "Computer_networks", "id": 737003}, {"name": "Industrial_automation", "id": 30944101}, {"name": "Industrial_computing", "id": 14236835}, {"name": "Serial_buses", "id": 3284587}, {"name": "Vehicle_technology", "id": 8345984}], "successors": []}
+{"name": "CAN_bus", "id": 53172117, "predecessors": [{"name": "Computer_networks", "id": 737003}, {"name": "Industrial_automation", "id": 30944101}, {"name": "Serial_buses", "id": 3284587}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Explorers_Program", "id": 44014604, "predecessors": [{"name": "Goddard_Space_Flight_Center", "id": 26256439}, {"name": "NASA_programs", "id": 1201326}, {"name": "NASA_space_probes", "id": 36702674}], "successors": []}
+{"name": "Explorers_Program", "id": 44014604, "predecessors": [{"name": "NASA_space_probes", "id": 36702674}], "successors": []}

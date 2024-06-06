@@ -1,1 +1,1 @@
-{"name": "Mexican_exiles", "id": 38669800, "predecessors": [{"name": "Blacklisting", "id": 53030435}, {"name": "North_America", "id": 878995}], "successors": [{"name": "Exiled_Mexican_politicians", "id": 53525461}]}
+{"name": "Mexican_exiles", "id": 38669800, "predecessors": [{"name": "Exile", "id": 3526084}, {"name": "Emigration", "id": 14031257}], "successors": [{"name": "Exiled_Mexican_politicians", "id": 53525461}]}

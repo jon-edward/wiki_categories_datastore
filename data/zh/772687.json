@@ -1,1 +1,1 @@
-{"name": "正交多项式", "id": 772687, "predecessors": [{"name": "特殊函数", "id": 317340}], "successors": [{"name": "Q超几何多项式", "id": 4724461}]}
+{"name": "正交多项式", "id": 772687, "predecessors": [{"name": "多項式", "id": 56228}, {"name": "特殊函数", "id": 317340}], "successors": [{"name": "Q超几何多项式", "id": 4724461}]}

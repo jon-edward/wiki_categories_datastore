@@ -1,1 +1,1 @@
-{"name": "Offences_against_the_person", "id": 24629375, "predecessors": [{"name": "Violence", "id": 692173}, {"name": "Violent_crime", "id": 36072028}], "successors": [{"name": "Torture", "id": 979826}]}
+{"name": "Offences_against_the_person", "id": 24629375, "predecessors": [{"name": "Crime_by_type", "id": 15090762}, {"name": "Violence", "id": 692173}, {"name": "Violent_crime", "id": 36072028}], "successors": [{"name": "Torture", "id": 979826}]}

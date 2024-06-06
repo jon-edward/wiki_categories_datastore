@@ -1,1 +1,1 @@
-{"name": "Piano_makers", "id": 9122787, "predecessors": [{"name": "Artisans", "id": 742819}, {"name": "String_instruments", "id": 691673}], "successors": [{"name": "Piano_manufacturing_companies", "id": 9356974}]}
+{"name": "Piano_makers", "id": 9122787, "predecessors": [{"name": "Piano", "id": 1812082}, {"name": "Artisans", "id": 742819}, {"name": "String_instruments", "id": 691673}], "successors": [{"name": "Piano_manufacturing_companies", "id": 9356974}]}

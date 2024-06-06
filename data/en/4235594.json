@@ -1,1 +1,1 @@
-{"name": "Trading_cards", "id": 4235594, "predecessors": [{"name": "Collecting", "id": 1053587}, {"name": "Ephemera", "id": 1273608}, {"name": "Memorabilia", "id": 6980551}], "successors": [{"name": "Collectible_card_games", "id": 712404}]}
+{"name": "Trading_cards", "id": 4235594, "predecessors": [{"name": "Collecting", "id": 1053587}, {"name": "Ephemera", "id": 1273608}, {"name": "Memorabilia", "id": 6980551}], "successors": [{"name": "Collectible_card_games", "id": 712404}, {"name": "Baseball_cards", "id": 7072772}]}

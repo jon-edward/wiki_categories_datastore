@@ -1,1 +1,1 @@
-{"name": "Aluminiumverbindung", "id": 1958215, "predecessors": [{"name": "Aluminium", "id": 7065358}, {"name": "Chemie", "id": 235238}], "successors": [{"name": "Aluminiummineral", "id": 2011526}]}
+{"name": "Aluminiumverbindung", "id": 1958215, "predecessors": [{"name": "Aluminium", "id": 7065358}, {"name": "Chemie", "id": 235238}], "successors": [{"name": "Aluminiummineral", "id": 2011526}, {"name": "Aluminiumorganische_Verbindung", "id": 11136077}]}

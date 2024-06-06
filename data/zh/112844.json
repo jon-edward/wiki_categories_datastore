@@ -1,1 +1,1 @@
-{"name": "藏書家", "id": 112844, "predecessors": [{"name": "藏書", "id": 1165644}, {"name": "書籍", "id": 59760}], "successors": [{"name": "中國藏書家", "id": 536601}]}
+{"name": "藏書家", "id": 112844, "predecessors": [{"name": "書籍", "id": 59760}, {"name": "嗜好", "id": 66054}], "successors": [{"name": "中國藏書家", "id": 536601}]}

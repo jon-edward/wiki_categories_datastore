@@ -1,1 +1,1 @@
-{"name": "Shenzhou-ohjelma", "id": 21337, "predecessors": [{"name": "Kiinan_avaruustoiminta", "id": 440585}, {"name": "Avaruustoiminta", "id": 35794}], "successors": []}
+{"name": "Shenzhou-ohjelma", "id": 21337, "predecessors": [{"name": "Kiinan_avaruustoiminta", "id": 440585}, {"name": "Miehitetyt_avaruuslennot", "id": 19730}, {"name": "Avaruustoiminta", "id": 35794}], "successors": []}

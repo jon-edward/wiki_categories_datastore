@@ -1,1 +1,1 @@
-{"name": "贝叶斯统计学家", "id": 5657036, "predecessors": [{"name": "数学家", "id": 33884}], "successors": []}
+{"name": "贝叶斯统计学家", "id": 5657036, "predecessors": [{"name": "贝叶斯统计", "id": 1504220}, {"name": "数学家", "id": 33884}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Fracture_mechanics", "id": 16353331, "predecessors": [{"name": "Materials_degradation", "id": 24482499}, {"name": "Materials_science", "id": 709184}], "successors": [{"name": "Breccias", "id": 22535027}]}
+{"name": "Fracture_mechanics", "id": 16353331, "predecessors": [{"name": "Materials_degradation", "id": 24482499}, {"name": "Materials_science", "id": 709184}, {"name": "Structural_engineering", "id": 1600827}], "successors": []}

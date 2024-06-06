@@ -1,1 +1,1 @@
-{"name": "Torneios_de_pôquer", "id": 2442311, "predecessors": [{"name": "Desportos_individuais", "id": 406230}, {"name": "Jogos_de_cartas", "id": 58935}], "successors": [{"name": "Latin_American_Poker_Tour", "id": 2442310}, {"name": "World_Poker_Tour", "id": 2451713}]}
+{"name": "Torneios_de_pôquer", "id": 2442311, "predecessors": [{"name": "Pôquer", "id": 233525}, {"name": "Jogos_de_cartas", "id": 58935}], "successors": [{"name": "Latin_American_Poker_Tour", "id": 2442310}, {"name": "World_Poker_Tour", "id": 2451713}]}

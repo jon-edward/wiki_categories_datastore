@@ -1,1 +1,1 @@
-{"name": "Toxic_effect_of_noxious_substances_eaten_as_food", "id": 32675952, "predecessors": [{"name": "Toxic_effects_of_substances_chiefly_nonmedicinal_as_to_source", "id": 26434208}], "successors": []}
+{"name": "Toxic_effect_of_noxious_substances_eaten_as_food", "id": 32675952, "predecessors": [{"name": "Foodborne_illnesses", "id": 1081967}, {"name": "Toxic_effects_of_substances_chiefly_nonmedicinal_as_to_source", "id": 26434208}], "successors": []}

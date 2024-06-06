@@ -1,1 +1,1 @@
-{"name": "Knights_of_the_Order_of_the_Polar_Star", "id": 28703958, "predecessors": [{"name": "Order_of_the_Polar_Star", "id": 19871600}, {"name": "Orders_of_chivalry", "id": 14510938}], "successors": [{"name": "Knights_First_Class_of_the_Order_of_the_Polar_Star", "id": 38473233}]}
+{"name": "Knights_of_the_Order_of_the_Polar_Star", "id": 28703958, "predecessors": [{"name": "Order_of_the_Polar_Star", "id": 19871600}, {"name": "Knights", "id": 1260724}], "successors": [{"name": "Knights_First_Class_of_the_Order_of_the_Polar_Star", "id": 38473233}]}

@@ -1,1 +1,1 @@
-{"name": "Stadia_games", "id": 60281809, "predecessors": [{"name": "Inactive_online_games", "id": 37993056}, {"name": "Google", "id": 853521}], "successors": [{"name": "Cancelled_Stadia_games", "id": 71959909}]}
+{"name": "Stadia_games", "id": 60281809, "predecessors": [{"name": "Cloud_gaming", "id": 32468227}, {"name": "Delisted_digital-only_games", "id": 69504951}, {"name": "Inactive_online_games", "id": 37993056}, {"name": "Products_and_services_discontinued_in_2023", "id": 71807256}], "successors": [{"name": "Cancelled_Stadia_games", "id": 71959909}]}

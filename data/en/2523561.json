@@ -1,1 +1,1 @@
-{"name": "Scientific_observation", "id": 2523561, "predecessors": [{"name": "Observation", "id": 2523515}, {"name": "Scientific_method", "id": 700292}], "successors": [{"name": "Citizen_science", "id": 4091482}]}
+{"name": "Scientific_observation", "id": 2523561, "predecessors": [{"name": "Scientific_method", "id": 700292}], "successors": [{"name": "Citizen_science", "id": 4091482}, {"name": "Observatories", "id": 23086787}]}

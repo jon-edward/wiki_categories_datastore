@@ -1,1 +1,1 @@
-{"name": "Viziers", "id": 36688013, "predecessors": [{"name": "Court_titles", "id": 3749482}], "successors": [{"name": "Viziers_of_the_Sasanian_Empire", "id": 41651137}]}
+{"name": "Viziers", "id": 36688013, "predecessors": [{"name": "Court_titles", "id": 3749482}, {"name": "Government_officials", "id": 8567895}], "successors": [{"name": "Viziers_of_the_Sasanian_Empire", "id": 41651137}, {"name": "Assassinated_viziers", "id": 75009818}]}

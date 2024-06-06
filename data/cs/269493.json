@@ -1,1 +1,1 @@
-{"name": "Fosforečnany", "id": 269493, "predecessors": [{"name": "Fosforečné_sloučeniny", "id": 261447}, {"name": "Sloučeniny_kyslíku", "id": 37585}], "successors": [{"name": "Hexafluorofosforečnany", "id": 1622401}, {"name": "ATP", "id": 505198}]}
+{"name": "Fosforečnany", "id": 269493, "predecessors": [{"name": "Fosforečné_sloučeniny", "id": 261447}, {"name": "Sloučeniny_kyslíku", "id": 37585}], "successors": [{"name": "Organothiofosfáty", "id": 1609255}, {"name": "Hexafluorofosforečnany", "id": 1622401}, {"name": "ATP", "id": 505198}]}

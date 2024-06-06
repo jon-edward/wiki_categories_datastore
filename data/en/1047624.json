@@ -1,1 +1,1 @@
-{"name": "Science_fiction_editors", "id": 1047624, "predecessors": [{"name": "Technology", "id": 696648}, {"name": "Print_editors", "id": 717632}], "successors": []}
+{"name": "Science_fiction_editors", "id": 1047624, "predecessors": [{"name": "Speculative_fiction_editors", "id": 51705181}, {"name": "Science_fiction", "id": 692725}], "successors": [{"name": "Hugo_Awards", "id": 17336941}, {"name": "Magazines_published_by_Hugo_Gernsback", "id": 75377643}]}

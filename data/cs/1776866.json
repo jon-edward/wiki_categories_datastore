@@ -1,1 +1,1 @@
-{"name": "Tenis_v_USA_v_roce_2018", "id": 1776866, "predecessors": [{"name": "Historie_tenisu", "id": 445771}, {"name": "Tenis_v_roce_2018", "id": 1351215}, {"name": "2018", "id": 108677}], "successors": [{"name": "US_Open_2018", "id": 1412272}]}
+{"name": "Tenis_v_USA_v_roce_2018", "id": 1776866, "predecessors": [{"name": "Sport_v_USA_v_roce_2018", "id": 1776019}, {"name": "Historie_tenisu", "id": 445771}, {"name": "Tenis_v_roce_2018", "id": 1351215}], "successors": [{"name": "US_Open_2018", "id": 1412272}]}

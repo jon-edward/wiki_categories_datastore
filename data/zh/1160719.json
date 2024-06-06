@@ -1,1 +1,1 @@
-{"name": "NBA季后赛", "id": 1160719, "predecessors": [{"name": "NBA赛季", "id": 1160722}, {"name": "競賽", "id": 66082}], "successors": [{"name": "NBA季后赛模板", "id": 7934190}, {"name": "NBA总决赛", "id": 582965}]}
+{"name": "NBA季后赛", "id": 1160719, "predecessors": [{"name": "NBA赛季", "id": 1160722}], "successors": [{"name": "NBA季后赛模板", "id": 7934190}, {"name": "NBA总决赛", "id": 582965}]}

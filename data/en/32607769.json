@@ -1,1 +1,1 @@
-{"name": "Pituitary_disorders", "id": 32607769, "predecessors": [{"name": "Brain_disorders", "id": 32592519}, {"name": "Endocrine_diseases", "id": 19895778}, {"name": "Hypothalamus", "id": 32607659}], "successors": []}
+{"name": "Pituitary_disorders", "id": 32607769, "predecessors": [{"name": "Endocrine_diseases", "id": 19895778}, {"name": "Endocrine_system", "id": 692422}], "successors": []}

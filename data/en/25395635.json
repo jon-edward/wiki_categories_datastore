@@ -1,1 +1,1 @@
-{"name": "Salt_production", "id": 25395635, "predecessors": [{"name": "Edible_salt", "id": 2021072}, {"name": "Salts", "id": 695960}], "successors": [{"name": "Salt_industry", "id": 54637747}]}
+{"name": "Salt_production", "id": 25395635, "predecessors": [{"name": "Edible_salt", "id": 2021072}], "successors": [{"name": "Saltworks", "id": 33161972}, {"name": "Salt_industry", "id": 54637747}]}

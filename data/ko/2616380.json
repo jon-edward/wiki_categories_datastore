@@ -1,1 +1,1 @@
-{"name": "여자_축구_감독", "id": 2616380, "predecessors": [{"name": "축구_감독", "id": 34338}], "successors": []}
+{"name": "여자_축구_감독", "id": 2616380, "predecessors": [{"name": "여자_축구", "id": 226946}, {"name": "축구_감독", "id": 34338}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Hệ_thống_đánh_giá_nội_dung_truyền_thông", "id": 3639472, "predecessors": [{"name": "Kiểm_duyệt", "id": 341906}, {"name": "Xếp_hạng", "id": 3260676}], "successors": []}
+{"name": "Hệ_thống_đánh_giá_nội_dung_truyền_thông", "id": 3639472, "predecessors": [{"name": "Kiểm_duyệt_truyền_thông", "id": 3185370}, {"name": "Xếp_hạng", "id": 3260676}], "successors": []}

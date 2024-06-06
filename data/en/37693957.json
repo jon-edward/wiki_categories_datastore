@@ -1,1 +1,1 @@
-{"name": "Oort_cloud", "id": 37693957, "predecessors": [{"name": "Astronomical_hypotheses", "id": 39526415}, {"name": "Comets", "id": 698007}, {"name": "Solar_System", "id": 7473633}], "successors": [{"name": "Inner_Oort_cloud", "id": 49292160}]}
+{"name": "Oort_cloud", "id": 37693957, "predecessors": [{"name": "Astronomical_hypotheses", "id": 39526415}], "successors": [{"name": "Inner_Oort_cloud", "id": 49292160}]}

@@ -1,1 +1,1 @@
-{"name": "Married_couples", "id": 3650190, "predecessors": [{"name": "Families", "id": 787897}, {"name": "Marriage", "id": 744826}], "successors": [{"name": "Adam_and_Eve", "id": 12066481}]}
+{"name": "Married_couples", "id": 3650190, "predecessors": [{"name": "Couples", "id": 54796256}, {"name": "Families", "id": 787897}, {"name": "Marriage", "id": 744826}], "successors": [{"name": "Adam_and_Eve", "id": 12066481}, {"name": "Fictional_married_couples", "id": 54796201}, {"name": "Ed_and_Lorraine_Warren", "id": 77088411}]}

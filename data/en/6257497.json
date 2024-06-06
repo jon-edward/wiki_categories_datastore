@@ -1,1 +1,1 @@
-{"name": "Hydrogen_cars", "id": 6257497, "predecessors": [{"name": "Sustainable_transport", "id": 14664782}], "successors": []}
+{"name": "Hydrogen_cars", "id": 6257497, "predecessors": [{"name": "Sustainable_transport", "id": 14664782}, {"name": "Hydrogen_technologies", "id": 6850141}], "successors": []}

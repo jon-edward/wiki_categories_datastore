@@ -1,1 +1,1 @@
-{"name": "Öl_und_Fett", "id": 10854122, "predecessors": [{"name": "Technik", "id": 242544}], "successors": [{"name": "Erdöl", "id": 635493}, {"name": "Pflanzenöl", "id": 1060653}]}
+{"name": "Öl_und_Fett", "id": 10854122, "predecessors": [{"name": "Öle_und_Fette", "id": 13103957}, {"name": "Technik", "id": 242544}], "successors": [{"name": "Erdöl", "id": 635493}, {"name": "Pflanzenöl", "id": 1060653}]}

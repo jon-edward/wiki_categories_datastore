@@ -1,1 +1,1 @@
-{"name": "Meromorphic_functions", "id": 34610185, "predecessors": [{"name": "Riemann_surfaces", "id": 1031092}], "successors": [{"name": "Elliptic_functions", "id": 1120101}]}
+{"name": "Meromorphic_functions", "id": 34610185, "predecessors": [{"name": "Complex_analysis", "id": 691914}, {"name": "Riemann_surfaces", "id": 1031092}], "successors": [{"name": "Elliptic_functions", "id": 1120101}]}

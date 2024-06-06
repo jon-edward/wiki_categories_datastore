@@ -1,1 +1,1 @@
-{"name": "Supply_chain_software_companies", "id": 12840821, "predecessors": [{"name": "Supply_chain_management", "id": 1229089}, {"name": "Electronics_industry", "id": 35046850}], "successors": []}
+{"name": "Supply_chain_software_companies", "id": 12840821, "predecessors": [{"name": "ERP_software", "id": 2504415}, {"name": "Supply_chain_management", "id": 1229089}], "successors": []}

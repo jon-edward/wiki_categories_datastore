@@ -1,1 +1,1 @@
-{"name": "Disposable_products", "id": 50445294, "predecessors": [{"name": "Consumerism", "id": 35528308}, {"name": "Home", "id": 803231}, {"name": "Waste_management", "id": 1233052}], "successors": [{"name": "Disposable_batteries", "id": 5415803}]}
+{"name": "Disposable_products", "id": 50445294, "predecessors": [{"name": "Home", "id": 803231}, {"name": "Waste_management", "id": 1233052}], "successors": [{"name": "Disposable_batteries", "id": 5415803}]}

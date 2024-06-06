@@ -1,1 +1,1 @@
-{"name": "Hydrogen-powered_aircraft", "id": 26984970, "predecessors": [{"name": "Aviation", "id": 735378}], "successors": []}
+{"name": "Hydrogen-powered_aircraft", "id": 26984970, "predecessors": [{"name": "Hydrogen_technologies", "id": 6850141}, {"name": "Aircraft", "id": 694926}], "successors": []}

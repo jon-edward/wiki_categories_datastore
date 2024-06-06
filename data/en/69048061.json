@@ -1,1 +1,1 @@
-{"name": "Mexican_monster_movies", "id": 69048061, "predecessors": [{"name": "Mexican_horror_films", "id": 26710348}, {"name": "Mexican_literature", "id": 724524}], "successors": []}
+{"name": "Mexican_monster_movies", "id": 69048061, "predecessors": [{"name": "Mexican_horror_films", "id": 26710348}, {"name": "Mexican_literature", "id": 724524}, {"name": "Monster_movies", "id": 7133153}], "successors": [{"name": "Mexican_vampire_films", "id": 69047428}]}

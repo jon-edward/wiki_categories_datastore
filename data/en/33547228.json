@@ -1,1 +1,1 @@
-{"name": "Machine_learning_algorithms", "id": 33547228, "predecessors": [{"name": "Algorithms", "id": 691136}, {"name": "Machine_learning", "id": 706543}], "successors": [{"name": "Genetic_algorithms", "id": 868737}]}
+{"name": "Machine_learning_algorithms", "id": 33547228, "predecessors": [{"name": "Algorithms", "id": 691136}], "successors": [{"name": "Genetic_algorithms", "id": 868737}]}

@@ -1,1 +1,1 @@
-{"name": "泵", "id": 1045919, "predecessors": [{"name": "机械", "id": 321815}, {"name": "水力学", "id": 1295309}, {"name": "流体力学", "id": 120447}], "successors": [{"name": "医疗泵", "id": 6586673}]}
+{"name": "泵", "id": 1045919, "predecessors": [{"name": "机械", "id": 321815}, {"name": "水力学", "id": 1295309}, {"name": "流体力学", "id": 120447}], "successors": []}

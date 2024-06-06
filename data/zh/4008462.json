@@ -1,1 +1,1 @@
-{"name": "HTML编辑器", "id": 4008462, "predecessors": [{"name": "文本编辑器", "id": 84709}], "successors": []}
+{"name": "HTML编辑器", "id": 4008462, "predecessors": [{"name": "HTML", "id": 515209}, {"name": "文本编辑器", "id": 84709}], "successors": []}

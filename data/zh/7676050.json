@@ -1,1 +1,1 @@
-{"name": "氨基甲酸芳香酯", "id": 7676050, "predecessors": [{"name": "氨基甲酸酯", "id": 742669}, {"name": "芳香化合物", "id": 698083}], "successors": []}
+{"name": "氨基甲酸芳香酯", "id": 7676050, "predecessors": [{"name": "氨基甲酸酯", "id": 742669}, {"name": "酯", "id": 80597}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "비디오_가속", "id": 2640531, "predecessors": [{"name": "영상_압축", "id": 909920}], "successors": []}
+{"name": "비디오_가속", "id": 2640531, "predecessors": [{"name": "영상_압축", "id": 909920}, {"name": "컴퓨터_성능", "id": 860242}], "successors": []}

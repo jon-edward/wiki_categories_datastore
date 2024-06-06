@@ -1,1 +1,1 @@
-{"name": "房地产估值", "id": 8160396, "predecessors": [{"name": "估值", "id": 8151547}], "successors": []}
+{"name": "房地产估值", "id": 8160396, "predecessors": [{"name": "估值", "id": 8151547}, {"name": "房地产", "id": 78281}], "successors": []}

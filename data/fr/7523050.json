@@ -1,1 +1,1 @@
-{"name": "Accident_ou_incident_aérien_impliquant_un_Boeing_737", "id": 7523050, "predecessors": [{"name": "Boeing_737", "id": 5387028}, {"name": "Aéronef_Boeing", "id": 2707531}], "successors": []}
+{"name": "Accident_ou_incident_aérien_impliquant_un_Boeing_737", "id": 7523050, "predecessors": [{"name": "Accident_ou_incident_aérien_impliquant_un_Boeing", "id": 7331008}, {"name": "Boeing_737", "id": 5387028}], "successors": []}

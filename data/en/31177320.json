@@ -1,1 +1,1 @@
-{"name": "Sporting_goods_company_logos", "id": 31177320, "predecessors": [{"name": "Manufacturing_company_logos", "id": 41288311}, {"name": "Sporting_goods_brands", "id": 5306901}], "successors": []}
+{"name": "Sporting_goods_company_logos", "id": 31177320, "predecessors": [{"name": "Manufacturing_company_logos", "id": 41288311}, {"name": "Sporting_goods_manufacturers", "id": 1543141}, {"name": "Sports_logos", "id": 3652616}], "successors": []}

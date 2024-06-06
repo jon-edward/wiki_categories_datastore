@@ -1,1 +1,1 @@
-{"name": "Fictional_priests_and_priestesses", "id": 3939097, "predecessors": [{"name": "Priestesses", "id": 23771898}], "successors": [{"name": "Fictional_Christian_priests", "id": 74355705}]}
+{"name": "Fictional_priests_and_priestesses", "id": 3939097, "predecessors": [{"name": "Fictional_clergy", "id": 35489087}, {"name": "Priestesses", "id": 23771898}, {"name": "Gendered_occupations", "id": 47230144}], "successors": [{"name": "Fictional_Christian_priests", "id": 74355705}]}

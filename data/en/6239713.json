@@ -1,1 +1,1 @@
-{"name": "Impact_assessment", "id": 6239713, "predecessors": [{"name": "Evaluation", "id": 4002768}, {"name": "Policy", "id": 8592882}, {"name": "Prediction", "id": 1436435}], "successors": [{"name": "Environmental_impact_assessment", "id": 39352564}]}
+{"name": "Impact_assessment", "id": 6239713, "predecessors": [{"name": "Evaluation", "id": 4002768}, {"name": "Policy", "id": 8592882}, {"name": "Prediction", "id": 1436435}], "successors": [{"name": "Risk_analysis_methodologies", "id": 15764218}, {"name": "Environmental_impact_assessment", "id": 39352564}]}

@@ -1,1 +1,1 @@
-{"name": "Events_in_Auckland", "id": 53421557, "predecessors": [{"name": "Culture_in_Auckland", "id": 37981343}], "successors": [{"name": "Festivals_in_Auckland", "id": 25417300}, {"name": "Sports_competitions_in_Auckland", "id": 53421552}]}
+{"name": "Events_in_Auckland", "id": 53421557, "predecessors": [{"name": "Culture_in_Auckland", "id": 37981343}, {"name": "Culture_of_New_Zealand", "id": 715387}], "successors": [{"name": "Festivals_in_Auckland", "id": 25417300}, {"name": "Sports_competitions_in_Auckland", "id": 53421552}]}

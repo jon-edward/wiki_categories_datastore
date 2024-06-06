@@ -1,1 +1,1 @@
-{"name": "Bayesian_networks", "id": 1718975, "predecessors": [{"name": "Graphical_models", "id": 22691076}, {"name": "Machine_learning", "id": 706543}], "successors": []}
+{"name": "Bayesian_networks", "id": 1718975, "predecessors": [{"name": "Bayesian_statistics", "id": 6533911}, {"name": "Graphical_models", "id": 22691076}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Lean_manufacturing", "id": 42433975, "predecessors": [{"name": "Inventory", "id": 9119470}, {"name": "Inventory_optimization", "id": 56516484}, {"name": "Production_planning", "id": 56599119}, {"name": "Industry_in_Japan", "id": 33133726}], "successors": []}
+{"name": "Lean_manufacturing", "id": 42433975, "predecessors": [{"name": "Inventory", "id": 9119470}, {"name": "Inventory_optimization", "id": 56516484}, {"name": "Production_planning", "id": 56599119}], "successors": []}

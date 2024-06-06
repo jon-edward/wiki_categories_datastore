@@ -1,1 +1,1 @@
-{"name": "PlayStation_Move-compatible_games", "id": 26554426, "predecessors": [{"name": "PlayStation_3_games", "id": 1916039}, {"name": "PlayStation_3_accessories", "id": 36003305}], "successors": [{"name": "PlayStation_Move-only_games", "id": 26513048}]}
+{"name": "PlayStation_Move-compatible_games", "id": 26554426, "predecessors": [{"name": "PlayStation_3_games", "id": 1916039}, {"name": "Game_controllers", "id": 36003040}], "successors": [{"name": "PlayStation_Move-only_games", "id": 26513048}]}

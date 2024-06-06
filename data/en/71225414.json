@@ -1,1 +1,1 @@
-{"name": "Attacks_on_parades", "id": 71225414, "predecessors": [{"name": "Parades", "id": 1203075}], "successors": []}
+{"name": "Attacks_on_parades", "id": 71225414, "predecessors": [{"name": "Parades", "id": 1203075}], "successors": [{"name": "Attacks_on_parades_in_the_United_States", "id": 76833447}]}

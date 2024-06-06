@@ -1,1 +1,1 @@
-{"name": "Livros_didáticos_do_Brasil", "id": 4271359, "predecessors": [{"name": "Livros_do_Brasil", "id": 265429}, {"name": "Ensino", "id": 168812}], "successors": [{"name": "Autores_de_livros_didáticos_do_Brasil", "id": 1625333}]}
+{"name": "Livros_didáticos_do_Brasil", "id": 4271359, "predecessors": [{"name": "Livros_didáticos", "id": 2501718}, {"name": "Livros_do_Brasil", "id": 265429}], "successors": [{"name": "Autores_de_livros_didáticos_do_Brasil", "id": 1625333}]}

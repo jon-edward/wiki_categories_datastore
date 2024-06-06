@@ -1,1 +1,1 @@
-{"name": "Arson_in_New_York_City", "id": 71458084, "predecessors": [{"name": "Arson_in_New_York_(state)", "id": 44712208}, {"name": "Crimes_in_New_York_City", "id": 44623163}, {"name": "Fires_in_New_York_City", "id": 11404249}], "successors": []}
+{"name": "Arson_in_New_York_City", "id": 71458084, "predecessors": [{"name": "Fires_in_New_York_City", "id": 11404249}], "successors": []}

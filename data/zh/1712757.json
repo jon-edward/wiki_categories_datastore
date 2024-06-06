@@ -1,1 +1,1 @@
-{"name": "执行器", "id": 1712757, "predecessors": [{"name": "電子元件", "id": 73185}], "successors": []}
+{"name": "执行器", "id": 1712757, "predecessors": [{"name": "信号处理", "id": 72436}], "successors": []}

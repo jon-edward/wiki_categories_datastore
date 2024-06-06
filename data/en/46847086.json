@@ -1,1 +1,1 @@
-{"name": "Infrastructure_ministries", "id": 46847086, "predecessors": [{"name": "Infrastructure", "id": 2962329}], "successors": [{"name": "Public_works_ministries", "id": 15366989}]}
+{"name": "Infrastructure_ministries", "id": 46847086, "predecessors": [{"name": "Infrastructure", "id": 2962329}], "successors": [{"name": "Transport_ministries", "id": 9262229}, {"name": "Communications_ministries", "id": 15366872}, {"name": "Public_works_ministries", "id": 15366989}, {"name": "Construction_ministries", "id": 42886030}]}

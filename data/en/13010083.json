@@ -1,1 +1,1 @@
-{"name": "FA_Cup_seasons", "id": 13010083, "predecessors": [{"name": "FA_Cup", "id": 2497155}, {"name": "Seasons_in_English_football", "id": 1296041}], "successors": [{"name": "FA_Cup_finals", "id": 5177339}, {"name": "FA_Cup_qualifying_rounds", "id": 46216814}]}
+{"name": "FA_Cup_seasons", "id": 13010083, "predecessors": [{"name": "FA_Cup", "id": 2497155}], "successors": [{"name": "FA_Cup_finals", "id": 5177339}, {"name": "FA_Cup_qualifying_rounds", "id": 46216814}]}

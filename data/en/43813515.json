@@ -1,1 +1,1 @@
-{"name": "Cotton_mills", "id": 43813515, "predecessors": [{"name": "Cotton_industry", "id": 23671574}, {"name": "Textile_mills", "id": 23379106}], "successors": [{"name": "Textile_mills_owned_by_the_Lancashire_Cotton_Corporation", "id": 25998809}, {"name": "Cotton_mills_in_the_United_States", "id": 43813580}]}
+{"name": "Cotton_mills", "id": 43813515, "predecessors": [{"name": "Cotton_industry", "id": 23671574}], "successors": [{"name": "Textile_mills_owned_by_the_Lancashire_Cotton_Corporation", "id": 25998809}, {"name": "Cotton_mills_in_the_United_States", "id": 43813580}]}

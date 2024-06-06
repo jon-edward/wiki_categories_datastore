@@ -1,1 +1,1 @@
-{"name": "Post-translational_modification", "id": 4648624, "predecessors": [{"name": "Gene_expression", "id": 746340}, {"name": "Protein_biosynthesis", "id": 6808876}, {"name": "Protein_structure", "id": 740536}, {"name": "Biochemistry", "id": 695996}], "successors": []}
+{"name": "Post-translational_modification", "id": 4648624, "predecessors": [{"name": "Gene_expression", "id": 746340}, {"name": "Protein_biosynthesis", "id": 6808876}, {"name": "Protein_structure", "id": 740536}, {"name": "Biochemistry", "id": 695996}], "successors": [{"name": "Proteases", "id": 27078709}]}

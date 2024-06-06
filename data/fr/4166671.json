@@ -1,1 +1,1 @@
-{"name": "Papyrologue", "id": 4166671, "predecessors": [{"name": "Philologue", "id": 445013}, {"name": "Orientalisme", "id": 781029}, {"name": "Accueil", "id": 1155637}, {"name": "Chercheur", "id": 4664123}], "successors": [{"name": "Papyrologue_français", "id": 9755280}]}
+{"name": "Papyrologue", "id": 4166671, "predecessors": [{"name": "Paléographe", "id": 2912032}, {"name": "Philologue", "id": 445013}, {"name": "Orientalisme", "id": 781029}, {"name": "Accueil", "id": 1155637}], "successors": [{"name": "Papyrologue_français", "id": 9755280}]}

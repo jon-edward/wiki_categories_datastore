@@ -1,1 +1,1 @@
-{"name": "Film_production_software", "id": 7299962, "predecessors": [{"name": "Film_production", "id": 1233269}, {"name": "Industrial_software", "id": 34219415}], "successors": [{"name": "Screenwriting_software", "id": 10124207}]}
+{"name": "Film_production_software", "id": 7299962, "predecessors": [{"name": "Film_production", "id": 1233269}], "successors": [{"name": "Screenwriting_software", "id": 10124207}]}

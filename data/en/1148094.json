@@ -1,1 +1,1 @@
-{"name": "Debit_cards", "id": 1148094, "predecessors": [{"name": "Payment_cards", "id": 41632361}, {"name": "Retail_financial_services", "id": 1653479}], "successors": [{"name": "Debit_card_issuer_associations", "id": 40122575}]}
+{"name": "Debit_cards", "id": 1148094, "predecessors": [{"name": "Exonumia", "id": 3373669}, {"name": "Payment_cards", "id": 41632361}, {"name": "Retail_financial_services", "id": 1653479}], "successors": [{"name": "Debit_card_issuer_associations", "id": 40122575}]}

@@ -1,1 +1,1 @@
-{"name": "항공사_취항지", "id": 318767, "predecessors": [{"name": "항공사", "id": 29416}], "successors": []}
+{"name": "항공사_취항지", "id": 318767, "predecessors": [{"name": "항공사", "id": 29416}, {"name": "항공", "id": 40994}], "successors": []}

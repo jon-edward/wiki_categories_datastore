@@ -1,1 +1,1 @@
-{"name": "Scheme直譯器", "id": 5265128, "predecessors": [{"name": "Scheme实现", "id": 7019017}, {"name": "程序设计工具", "id": 52117}], "successors": []}
+{"name": "Scheme直譯器", "id": 5265128, "predecessors": [{"name": "程序设计工具", "id": 52117}], "successors": []}

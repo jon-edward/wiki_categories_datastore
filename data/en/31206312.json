@@ -1,1 +1,1 @@
-{"name": "Data_quality", "id": 31206312, "predecessors": [{"name": "Quality", "id": 2675045}], "successors": [{"name": "Data_synchronization", "id": 7645825}, {"name": "Digital_preservation", "id": 47335836}]}
+{"name": "Data_quality", "id": 31206312, "predecessors": [{"name": "Data_management", "id": 762162}, {"name": "Quality", "id": 2675045}], "successors": [{"name": "Data_synchronization", "id": 7645825}, {"name": "Digital_preservation", "id": 47335836}]}

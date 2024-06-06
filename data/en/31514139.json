@@ -1,1 +1,1 @@
-{"name": "Camels", "id": 31514139, "predecessors": [{"name": "Camelids", "id": 922697}, {"name": "Domesticated_animals", "id": 706779}, {"name": "Livestock", "id": 917009}], "successors": [{"name": "Camel_cavalry", "id": 31514243}, {"name": "Camels_in_art", "id": 47364993}]}
+{"name": "Camels", "id": 31514139, "predecessors": [{"name": "Domesticated_animals", "id": 706779}, {"name": "Livestock", "id": 917009}], "successors": [{"name": "Camel_cavalry", "id": 31514243}, {"name": "Camels_in_art", "id": 47364993}]}

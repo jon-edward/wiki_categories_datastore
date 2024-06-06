@@ -1,1 +1,1 @@
-{"name": "Biochemie-Onlinedatenbank", "id": 5660342, "predecessors": [{"name": "Biochemie", "id": 281260}, {"name": "Forschungsdateninfrastruktur", "id": 8278327}, {"name": "Online-Datenbank", "id": 1855480}], "successors": []}
+{"name": "Biochemie-Onlinedatenbank", "id": 5660342, "predecessors": [{"name": "Biochemie", "id": 281260}, {"name": "Biologie-Onlinedatenbank", "id": 11567700}, {"name": "Forschungsdateninfrastruktur", "id": 8278327}], "successors": []}

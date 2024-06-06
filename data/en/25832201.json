@@ -1,1 +1,1 @@
-{"name": "Kia_Tigers_players", "id": 25832201, "predecessors": [{"name": "KBO_League_players", "id": 27467097}, {"name": "Kia_Tigers", "id": 25832224}], "successors": [{"name": "Haitai_Tigers_players", "id": 27401361}]}
+{"name": "Kia_Tigers_players", "id": 25832201, "predecessors": [{"name": "Kia_Tigers", "id": 25832224}, {"name": "Competitions", "id": 737119}], "successors": []}

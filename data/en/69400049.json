@@ -1,1 +1,1 @@
-{"name": "United_States_Navy_chiefs", "id": 69400049, "predecessors": [{"name": "United_States_Navy_non-commissioned_officers", "id": 67875242}], "successors": [{"name": "Master_Chief_Petty_Officers_of_the_United_States_Navy", "id": 15286497}]}
+{"name": "United_States_Navy_chiefs", "id": 69400049, "predecessors": [{"name": "United_States_Navy_non-commissioned_officers", "id": 67875242}, {"name": "Military_personnel", "id": 6660319}], "successors": [{"name": "Master_Chief_Petty_Officers_of_the_United_States_Navy", "id": 15286497}]}

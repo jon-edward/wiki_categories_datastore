@@ -1,1 +1,1 @@
-{"name": "RISC_OS_software", "id": 4214580, "predecessors": [{"name": "RISC_OS", "id": 72070139}, {"name": "Software", "id": 691633}, {"name": "Home_computers", "id": 707669}], "successors": [{"name": "Acorn_Archimedes_games", "id": 839822}]}
+{"name": "RISC_OS_software", "id": 4214580, "predecessors": [{"name": "RISC_OS", "id": 72070139}, {"name": "Operating_systems", "id": 693664}, {"name": "Home_computers", "id": 707669}], "successors": [{"name": "Acorn_Archimedes_games", "id": 839822}]}

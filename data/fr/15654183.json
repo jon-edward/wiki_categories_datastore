@@ -1,1 +1,1 @@
-{"name": "Plante_médicinale_d'Asie", "id": 15654183, "predecessors": [{"name": "Flore_en_Asie", "id": 1859523}, {"name": "Plante_médicinale", "id": 100328}], "successors": [{"name": "Plante_médicinale_chinoise", "id": 4333117}, {"name": "Plante_utilisée_en_Ayurveda", "id": 10838343}]}
+{"name": "Plante_médicinale_d'Asie", "id": 15654183, "predecessors": [{"name": "Plante_médicinale", "id": 100328}, {"name": "Flore_en_Asie", "id": 1859523}], "successors": [{"name": "Plante_médicinale_chinoise", "id": 4333117}, {"name": "Plante_utilisée_en_Ayurveda", "id": 10838343}]}

@@ -1,1 +1,1 @@
-{"name": "集体游戏", "id": 142748, "predecessors": [{"name": "社交活動", "id": 3693477}], "successors": [{"name": "聚会游戏", "id": 4471418}]}
+{"name": "集体游戏", "id": 142748, "predecessors": [{"name": "社交活動", "id": 3693477}, {"name": "游戏", "id": 40007}], "successors": [{"name": "聚会游戏", "id": 4471418}]}

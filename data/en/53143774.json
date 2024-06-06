@@ -1,1 +1,1 @@
-{"name": "Vulnerable_adults", "id": 53143774, "predecessors": [{"name": "Abuse", "id": 691808}, {"name": "Ageing", "id": 39157130}], "successors": []}
+{"name": "Vulnerable_adults", "id": 53143774, "predecessors": [{"name": "Abuse", "id": 691808}, {"name": "Ageing", "id": 39157130}, {"name": "Vulnerability", "id": 44507852}], "successors": []}

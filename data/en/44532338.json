@@ -1,1 +1,1 @@
-{"name": "Hair_removal", "id": 44532338, "predecessors": [{"name": "Cosmetic_surgery", "id": 10980039}, {"name": "Human_hair", "id": 36697594}], "successors": [{"name": "Shaving", "id": 13945753}]}
+{"name": "Hair_removal", "id": 44532338, "predecessors": [{"name": "Cosmetic_surgery", "id": 10980039}], "successors": [{"name": "Shaving", "id": 13945753}, {"name": "Razor_brands", "id": 65221032}]}

@@ -1,1 +1,1 @@
-{"name": "Genre_paintings", "id": 58013192, "predecessors": [{"name": "Visual_arts_genres", "id": 1209735}], "successors": [{"name": "Genre_paintings_by_Johannes_Vermeer", "id": 70710989}]}
+{"name": "Genre_paintings", "id": 58013192, "predecessors": [{"name": "Visual_arts_genres", "id": 1209735}, {"name": "1_(number)", "id": 44538185}], "successors": [{"name": "Genre_paintings_by_Johannes_Vermeer", "id": 70710989}]}

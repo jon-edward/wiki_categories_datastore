@@ -1,1 +1,1 @@
-{"name": "Mobile_device_management_software", "id": 34417148, "predecessors": [{"name": "Communication_software", "id": 1744540}], "successors": []}
+{"name": "Mobile_device_management_software", "id": 34417148, "predecessors": [{"name": "Mobile_device_management", "id": 34292271}, {"name": "Mobile_software", "id": 10473202}], "successors": []}

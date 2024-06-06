@@ -1,1 +1,1 @@
-{"name": "Traducere_automată", "id": 344074, "predecessors": [{"name": "Prelucrarea_limbajului_natural", "id": 2488323}], "successors": []}
+{"name": "Traducere_automată", "id": 344074, "predecessors": [{"name": "Automatizare", "id": 288346}, {"name": "Prelucrarea_limbajului_natural", "id": 2488323}], "successors": []}

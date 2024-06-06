@@ -1,1 +1,1 @@
-{"name": "Snooker_variants", "id": 25476205, "predecessors": [{"name": "Ball_games", "id": 996038}], "successors": [{"name": "Snooker_Shoot_Out", "id": 30678313}]}
+{"name": "Snooker_variants", "id": 25476205, "predecessors": [{"name": "Ball_games", "id": 996038}, {"name": "Sports_by_type", "id": 23596516}], "successors": [{"name": "Snooker_Shoot_Out", "id": 30678313}, {"name": "Six-red_World_Championships", "id": 25483286}]}

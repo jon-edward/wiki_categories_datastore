@@ -1,1 +1,1 @@
-{"name": "Entrenadors_de_futbol_serbis", "id": 667043, "predecessors": [{"name": "Futbol", "id": 12681}, {"name": "Serbis", "id": 97748}, {"name": "Balcans", "id": 34422}], "successors": []}
+{"name": "Entrenadors_de_futbol_serbis", "id": 667043, "predecessors": [{"name": "Entrenadors", "id": 112026}, {"name": "Serbis", "id": 97748}, {"name": "Balcans", "id": 34422}], "successors": []}

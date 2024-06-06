@@ -1,1 +1,1 @@
-{"name": "Teststrecke", "id": 6047344, "predecessors": [{"name": "Verkehrsbauwerk", "id": 315890}, {"name": "Forschungsinfrastruktur", "id": 5386820}], "successors": [{"name": "Eisenbahn-Versuchsstrecke", "id": 9484199}]}
+{"name": "Teststrecke", "id": 6047344, "predecessors": [{"name": "Verkehrsbauwerk", "id": 315890}, {"name": "Forschungseinrichtung", "id": 5777901}], "successors": [{"name": "Eisenbahn-Versuchsstrecke", "id": 9484199}]}

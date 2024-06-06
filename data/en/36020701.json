@@ -1,1 +1,1 @@
-{"name": "FK_Metta_players", "id": 36020701, "predecessors": [{"name": "Football_clubs_in_Riga", "id": 28787423}], "successors": []}
+{"name": "FK_Metta_players", "id": 36020701, "predecessors": [{"name": "Football_clubs_in_Riga", "id": 28787423}, {"name": "Culture_of_Latvia", "id": 698354}], "successors": []}

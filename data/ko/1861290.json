@@ -1,1 +1,1 @@
-{"name": "조현병_환자", "id": 1861290, "predecessors": [{"name": "장애인", "id": 51554}], "successors": []}
+{"name": "조현병_환자", "id": 1861290, "predecessors": [{"name": "장애인", "id": 51554}, {"name": "조현병", "id": 1048520}], "successors": []}

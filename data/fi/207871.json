@@ -1,1 +1,1 @@
-{"name": "Itä-Virumaa", "id": 207871, "predecessors": [{"name": "Viron_maantiede", "id": 99576}], "successors": [{"name": "Narva", "id": 357632}, {"name": "Itä-Virumaan_järvet", "id": 1377528}, {"name": "Alutaguse", "id": 1462573}]}
+{"name": "Itä-Virumaa", "id": 207871, "predecessors": [{"name": "Viron_maantiede", "id": 99576}], "successors": [{"name": "Narva", "id": 357632}, {"name": "Itä-Virumaan_järvet", "id": 1377528}, {"name": "Narva-Jõesuu", "id": 1462570}, {"name": "Alutaguse", "id": 1462573}]}

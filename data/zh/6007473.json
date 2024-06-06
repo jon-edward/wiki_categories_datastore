@@ -1,1 +1,1 @@
-{"name": "硫酚", "id": 6007473, "predecessors": [{"name": "有机硫化合物", "id": 698090}, {"name": "硫醇", "id": 698484}, {"name": "酚", "id": 81920}, {"name": "氢化合物", "id": 697158}], "successors": []}
+{"name": "硫酚", "id": 6007473, "predecessors": [{"name": "硫醇", "id": 698484}, {"name": "酚", "id": 81920}], "successors": []}

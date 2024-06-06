@@ -1,1 +1,1 @@
-{"name": "和牛", "id": 5463416, "predecessors": [{"name": "牛肉", "id": 270400}], "successors": []}
+{"name": "和牛", "id": 5463416, "predecessors": [{"name": "牛肉", "id": 270400}, {"name": "日本動物", "id": 407642}], "successors": []}

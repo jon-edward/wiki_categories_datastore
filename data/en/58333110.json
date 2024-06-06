@@ -1,1 +1,1 @@
-{"name": "Cultural_diplomacy", "id": 58333110, "predecessors": [{"name": "Cultural_exchange", "id": 23508439}], "successors": [{"name": "Cultural_attachés", "id": 51801706}]}
+{"name": "Cultural_diplomacy", "id": 58333110, "predecessors": [{"name": "Types_of_diplomacy", "id": 21212983}], "successors": [{"name": "International_cultural_organizations", "id": 9217566}, {"name": "Cultural_attachés", "id": 51801706}]}

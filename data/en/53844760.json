@@ -1,1 +1,1 @@
-{"name": "Species_endangered_by_logging_for_timber", "id": 53844760, "predecessors": [{"name": "Species_endangered_by_logging", "id": 53844767}], "successors": []}
+{"name": "Species_endangered_by_logging_for_timber", "id": 53844760, "predecessors": [{"name": "Species_endangered_by_logging", "id": 53844767}, {"name": "Endangered_species", "id": 759296}], "successors": []}

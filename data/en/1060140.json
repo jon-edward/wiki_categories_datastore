@@ -1,1 +1,1 @@
-{"name": "Cryptographic_hash_functions", "id": 1060140, "predecessors": [{"name": "Cryptographic_algorithms", "id": 704483}, {"name": "Hash_functions", "id": 9365958}], "successors": [{"name": "NIST_hash_function_competition", "id": 20382661}, {"name": "Key_derivation_functions", "id": 37920127}]}
+{"name": "Cryptographic_hash_functions", "id": 1060140, "predecessors": [{"name": "Cryptographic_algorithms", "id": 704483}, {"name": "Hash_functions", "id": 9365958}], "successors": [{"name": "Key_derivation_functions", "id": 37920127}]}

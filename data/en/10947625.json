@@ -1,0 +1,1 @@
+{"name": "Window_managers", "id": 10947625, "predecessors": [{"name": "Graphical_user_interfaces", "id": 30872503}, {"name": "System_software", "id": 708061}], "successors": [{"name": "X_window_managers", "id": 872248}]}

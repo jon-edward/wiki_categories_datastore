@@ -1,1 +1,1 @@
-{"name": "Luftwaffe_pilots", "id": 890475, "predecessors": [{"name": "German_aviators", "id": 4198234}, {"name": "Continents", "id": 788686}], "successors": [{"name": "German_World_War_II_pilots", "id": 8605650}]}
+{"name": "Luftwaffe_pilots", "id": 890475, "predecessors": [{"name": "German_aviators", "id": 4198234}, {"name": "Luftwaffe", "id": 839079}], "successors": [{"name": "German_World_War_II_pilots", "id": 8605650}]}

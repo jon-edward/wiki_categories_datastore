@@ -1,1 +1,1 @@
-{"name": "생일_음식", "id": 3620362, "predecessors": [{"name": "의례_음식", "id": 3462426}], "successors": []}
+{"name": "생일_음식", "id": 3620362, "predecessors": [{"name": "생일", "id": 454760}, {"name": "의례_음식", "id": 3462426}], "successors": []}

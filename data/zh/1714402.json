@@ -1,1 +1,1 @@
-{"name": "变压器", "id": 1714402, "predecessors": [{"name": "电力系统组件", "id": 1666806}, {"name": "电磁元件", "id": 1714393}], "successors": [{"name": "電源", "id": 1227908}]}
+{"name": "变压器", "id": 1714402, "predecessors": [{"name": "电力系统组件", "id": 1666806}, {"name": "电磁元件", "id": 1714393}], "successors": []}

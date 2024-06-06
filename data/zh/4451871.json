@@ -1,1 +1,1 @@
-{"name": "棉", "id": 4451871, "predecessors": [{"name": "植物", "id": 32858}], "successors": [{"name": "棉花生产", "id": 7427072}]}
+{"name": "棉", "id": 4451871, "predecessors": [{"name": "纤维", "id": 763591}], "successors": [{"name": "棉花生产", "id": 7427072}]}

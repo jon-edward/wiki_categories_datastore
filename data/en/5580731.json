@@ -1,1 +1,1 @@
-{"name": "Drifting_drivers", "id": 5580731, "predecessors": [{"name": "Motorsport", "id": 13306047}], "successors": [{"name": "D1_Grand_Prix_drivers", "id": 6392301}, {"name": "Formula_D_drivers", "id": 13407616}]}
+{"name": "Drifting_drivers", "id": 5580731, "predecessors": [{"name": "Motorsport_by_type", "id": 23977798}], "successors": [{"name": "D1_Grand_Prix_drivers", "id": 6392301}, {"name": "Formula_D_drivers", "id": 13407616}]}

@@ -1,1 +1,1 @@
-{"name": "泰拳", "id": 1630163, "predecessors": [{"name": "搏擊運動", "id": 72591}], "successors": []}
+{"name": "泰拳", "id": 1630163, "predecessors": [{"name": "搏擊運動", "id": 72591}, {"name": "泰國文化", "id": 56601}, {"name": "社會系統", "id": 1602049}], "successors": [{"name": "泰拳運動員", "id": 7967242}]}

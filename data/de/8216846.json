@@ -1,1 +1,1 @@
-{"name": "Rinderzucht", "id": 8216846, "predecessors": [{"name": "Tierzucht", "id": 1062321}, {"name": "Technik", "id": 242544}], "successors": [{"name": "Rinderzüchter", "id": 12822752}]}
+{"name": "Rinderzucht", "id": 8216846, "predecessors": [{"name": "Tierzucht", "id": 1062321}, {"name": "Technik", "id": 242544}], "successors": [{"name": "Rinderzüchter", "id": 12822752}, {"name": "Buiatrik", "id": 13101701}]}

@@ -1,1 +1,1 @@
-{"name": "Classe_de_navire_de_ligne_de_la_Royal_Navy", "id": 6956528, "predecessors": [{"name": "Classe_de_bateau_de_la_Royal_Navy", "id": 6031472}, {"name": "Classe_de_bateau", "id": 6023245}], "successors": []}
+{"name": "Classe_de_navire_de_ligne_de_la_Royal_Navy", "id": 6956528, "predecessors": [{"name": "Classe_de_bateau_de_la_Royal_Navy", "id": 6031472}, {"name": "Bateau_de_guerre_par_type", "id": 290509}], "successors": []}

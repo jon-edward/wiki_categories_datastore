@@ -1,1 +1,1 @@
-{"name": "摄影测量学", "id": 5763317, "predecessors": [{"name": "计算机视觉", "id": 290823}], "successors": []}
+{"name": "摄影测量学", "id": 5763317, "predecessors": [{"name": "测绘学", "id": 80127}, {"name": "计算机视觉", "id": 290823}], "successors": []}

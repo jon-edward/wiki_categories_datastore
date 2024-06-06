@@ -1,1 +1,1 @@
-{"name": "路由器", "id": 514448, "predecessors": [{"name": "網路硬體", "id": 350180}, {"name": "路由", "id": 479990}], "successors": []}
+{"name": "路由器", "id": 514448, "predecessors": [{"name": "網路硬體", "id": 350180}], "successors": [{"name": "自由路由軟體", "id": 1187914}]}

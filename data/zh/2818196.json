@@ -1,1 +1,1 @@
-{"name": "工業計算", "id": 2818196, "predecessors": [{"name": "自動化", "id": 2818199}], "successors": [{"name": "工業自動化", "id": 5352870}, {"name": "CAN_bus", "id": 7035469}]}
+{"name": "工業計算", "id": 2818196, "predecessors": [{"name": "工業工程", "id": 2818202}, {"name": "自動化", "id": 2818199}], "successors": [{"name": "工業自動化", "id": 5352870}, {"name": "CAN_bus", "id": 7035469}]}

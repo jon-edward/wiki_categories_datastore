@@ -1,1 +1,1 @@
-{"name": "数字运算", "id": 8318274, "predecessors": [{"name": "二元運算", "id": 404458}], "successors": []}
+{"name": "数字运算", "id": 8318274, "predecessors": [{"name": "二元運算", "id": 404458}, {"name": "算术", "id": 52409}], "successors": []}

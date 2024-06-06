@@ -1,1 +1,1 @@
-{"name": "행렬론", "id": 44944, "predecessors": [{"name": "선형대수학", "id": 10773}], "successors": [{"name": "행렬", "id": 44943}, {"name": "행렬식", "id": 1466016}]}
+{"name": "행렬론", "id": 44944, "predecessors": [{"name": "선형대수학", "id": 10773}], "successors": [{"name": "행렬", "id": 44943}, {"name": "행렬_분해", "id": 385810}, {"name": "행렬식", "id": 1466016}]}

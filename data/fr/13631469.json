@@ -1,1 +1,1 @@
-{"name": "Film_d'Apple_TV+", "id": 13631469, "predecessors": [{"name": "Film_sorti_directement_en_vidéo", "id": 1085756}, {"name": "Apple", "id": 1267233}, {"name": "Entreprise_du_cinéma", "id": 2213312}], "successors": []}
+{"name": "Film_d'Apple_TV+", "id": 13631469, "predecessors": [{"name": "Film_sorti_directement_en_vidéo", "id": 1085756}, {"name": "Apple", "id": 1267233}, {"name": "Société_de_production_de_cinéma", "id": 353660}], "successors": []}

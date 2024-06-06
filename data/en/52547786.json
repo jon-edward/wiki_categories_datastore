@@ -1,1 +1,1 @@
-{"name": "Food_plant_hybrids", "id": 52547786, "predecessors": [{"name": "Edible_plants", "id": 1318013}], "successors": [{"name": "Hybrid_fruit", "id": 2520602}, {"name": "Hybrid_tomato_cultivars", "id": 27675115}]}
+{"name": "Food_plant_hybrids", "id": 52547786, "predecessors": [{"name": "Edible_plants", "id": 1318013}, {"name": "Hybrid_plants", "id": 18930823}], "successors": [{"name": "Hybrid_fruit", "id": 2520602}, {"name": "Hybrid_tomato_cultivars", "id": 27675115}]}

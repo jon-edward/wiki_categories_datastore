@@ -1,1 +1,1 @@
-{"name": "Oral_historians", "id": 14247027, "predecessors": [{"name": "Oral_history", "id": 10531351}], "successors": [{"name": "Bards", "id": 73748140}]}
+{"name": "Oral_historians", "id": 14247027, "predecessors": [{"name": "Historians", "id": 702708}, {"name": "Oral_history", "id": 10531351}], "successors": [{"name": "Bards", "id": 73748140}]}

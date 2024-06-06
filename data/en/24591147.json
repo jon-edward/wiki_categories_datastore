@@ -1,1 +1,1 @@
-{"name": "Bird_flight", "id": 24591147, "predecessors": [{"name": "Animal_flight", "id": 32433151}, {"name": "Bird_behavior", "id": 42624696}], "successors": []}
+{"name": "Bird_flight", "id": 24591147, "predecessors": [{"name": "Animal_flight", "id": 32433151}], "successors": []}

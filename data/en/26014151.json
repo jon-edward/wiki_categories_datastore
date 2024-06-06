@@ -1,1 +1,1 @@
-{"name": "Government_procurement", "id": 26014151, "predecessors": [{"name": "Procurement", "id": 7540641}, {"name": "Protectionism", "id": 34608569}, {"name": "Public_law", "id": 1574080}], "successors": []}
+{"name": "Government_procurement", "id": 26014151, "predecessors": [{"name": "Procurement", "id": 7540641}, {"name": "Protectionism", "id": 34608569}, {"name": "Public_law", "id": 1574080}], "successors": [{"name": "Military_acquisition", "id": 24367045}]}

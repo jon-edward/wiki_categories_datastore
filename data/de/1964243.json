@@ -1,1 +1,1 @@
-{"name": "Iodverbindung", "id": 1964243, "predecessors": [{"name": "Halogenverbindung", "id": 2767903}, {"name": "Iod", "id": 12176483}, {"name": "Chemie", "id": 235238}], "successors": [{"name": "Iodid", "id": 1964285}, {"name": "Iodalkan", "id": 4255846}, {"name": "Iodbenzol", "id": 12088032}]}
+{"name": "Iodverbindung", "id": 1964243, "predecessors": [{"name": "Halogenverbindung", "id": 2767903}, {"name": "Iod", "id": 12176483}, {"name": "Chemie", "id": 235238}], "successors": [{"name": "Iodid", "id": 1964285}, {"name": "Organoiodverbindung", "id": 1965475}]}

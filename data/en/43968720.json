@@ -1,1 +1,1 @@
-{"name": "Note-taking_software", "id": 43968720, "predecessors": [{"name": "Educational_software", "id": 1750815}, {"name": "Note-taking", "id": 43968716}], "successors": [{"name": "Outliners", "id": 12793231}]}
+{"name": "Note-taking_software", "id": 43968720, "predecessors": [{"name": "Educational_software", "id": 1750815}, {"name": "Note-taking", "id": 43968716}], "successors": [{"name": "Mind-mapping_software", "id": 1520031}, {"name": "Outliners", "id": 12793231}, {"name": "Free_note-taking_software", "id": 43968726}]}

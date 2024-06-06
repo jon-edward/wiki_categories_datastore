@@ -1,1 +1,1 @@
-{"name": "وحدات_كتلة", "id": 36299, "predecessors": [{"name": "كتلة", "id": 33455}], "successors": []}
+{"name": "وحدات_كتلة", "id": 36299, "predecessors": [{"name": "كتلة", "id": 33455}, {"name": "وحدات_قياس", "id": 9715}], "successors": [{"name": "موازين_شرعية", "id": 517352}]}

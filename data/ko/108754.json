@@ -1,1 +1,1 @@
-{"name": "확률", "id": 108754, "predecessors": [{"name": "구조", "id": 216458}], "successors": [{"name": "위험", "id": 693259}]}
+{"name": "확률", "id": 108754, "predecessors": [{"name": "구조", "id": 216458}], "successors": [{"name": "확률론", "id": 49023}, {"name": "위험", "id": 693259}]}

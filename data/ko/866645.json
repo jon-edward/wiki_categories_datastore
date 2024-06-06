@@ -1,1 +1,1 @@
-{"name": "동전기학", "id": 866645, "predecessors": [{"name": "동역학계", "id": 116447}, {"name": "전자기학", "id": 22651}], "successors": []}
+{"name": "동전기학", "id": 866645, "predecessors": [{"name": "동역학계", "id": 116447}, {"name": "전자기학", "id": 22651}], "successors": [{"name": "전자기_구성요소", "id": 1674175}]}

@@ -1,1 +1,1 @@
-{"name": "Construction_equipment", "id": 24719865, "predecessors": [{"name": "Construction", "id": 755979}, {"name": "Industrial_machinery", "id": 13860418}], "successors": [{"name": "Engineering_vehicles", "id": 727285}, {"name": "Construction_equipment_rental_companies", "id": 13532080}, {"name": "Heavy_equipment", "id": 13860424}]}
+{"name": "Construction_equipment", "id": 24719865, "predecessors": [{"name": "Construction", "id": 755979}], "successors": [{"name": "Construction_equipment_rental_companies", "id": 13532080}]}

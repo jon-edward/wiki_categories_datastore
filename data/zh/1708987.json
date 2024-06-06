@@ -1,1 +1,1 @@
-{"name": "肌肉萎缩症", "id": 1708987, "predecessors": [{"name": "遗传病", "id": 115888}], "successors": [{"name": "肌肉萎縮症患者", "id": 5635605}]}
+{"name": "肌肉萎缩症", "id": 1708987, "predecessors": [{"name": "遗传病", "id": 115888}, {"name": "神經系統疾病", "id": 425754}], "successors": [{"name": "肌肉萎縮症患者", "id": 5635605}]}

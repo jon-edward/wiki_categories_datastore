@@ -1,1 +1,1 @@
-{"name": "Postmästare", "id": 8497383, "predecessors": [{"name": "Yrken", "id": 55583}], "successors": []}
+{"name": "Postmästare", "id": 8497383, "predecessors": [{"name": "Posttjänstemän", "id": 4954688}, {"name": "Yrken", "id": 55583}], "successors": [{"name": "Svenska_postmästare", "id": 8845091}]}

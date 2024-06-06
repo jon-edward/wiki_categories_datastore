@@ -1,1 +1,1 @@
-{"name": "美國通信公司", "id": 1050401, "predecessors": [{"name": "美国公司", "id": 53970}, {"name": "美國經濟", "id": 69985}], "successors": [{"name": "AT&T", "id": 1839753}]}
+{"name": "美國通信公司", "id": 1050401, "predecessors": [{"name": "各國電信公司", "id": 3769912}, {"name": "大洲", "id": 41476}], "successors": [{"name": "AT&T", "id": 1839753}]}

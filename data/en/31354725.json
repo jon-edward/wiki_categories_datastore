@@ -1,1 +1,1 @@
-{"name": "PATH_stations_in_Manhattan", "id": 31354725, "predecessors": [{"name": "Railway_stations_in_Manhattan", "id": 42090597}, {"name": "PATH_(rail_system)", "id": 3633406}, {"name": "Passenger_rail_transportation_in_New_York_(state)", "id": 32916045}], "successors": []}
+{"name": "PATH_stations_in_Manhattan", "id": 31354725, "predecessors": [{"name": "Railway_stations_in_Manhattan", "id": 42090597}, {"name": "PATH_(rail_system)", "id": 3633406}], "successors": []}

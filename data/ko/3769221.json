@@ -1,1 +1,1 @@
-{"name": "U-18_스포츠_대회", "id": 3769221, "predecessors": [{"name": "스포츠", "id": 8865}], "successors": []}
+{"name": "U-18_스포츠_대회", "id": 3769221, "predecessors": [{"name": "유형별_스포츠", "id": 534595}, {"name": "스포츠", "id": 8865}], "successors": []}

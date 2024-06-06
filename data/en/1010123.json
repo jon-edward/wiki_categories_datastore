@@ -1,1 +1,1 @@
-{"name": "2000_meteorology", "id": 1010123, "predecessors": [{"name": "2000_in_science", "id": 7581033}, {"name": "2000_in_the_environment", "id": 32664276}, {"name": "2000s_in_science", "id": 3047532}], "successors": [{"name": "Tropical_cyclones_in_2000", "id": 64279223}]}
+{"name": "2000_meteorology", "id": 1010123, "predecessors": [{"name": "2000s_in_science", "id": 3047532}], "successors": [{"name": "Tropical_cyclones_in_2000", "id": 64279223}]}

@@ -1,1 +1,1 @@
-{"name": "Grabadores_de_Japón", "id": 5259987, "predecessors": [{"name": "Arte_de_Japón", "id": 1516874}, {"name": "Artistas_gráficos", "id": 5307264}], "successors": [{"name": "Artistas_de_ukiyo-e", "id": 4048792}]}
+{"name": "Grabadores_de_Japón", "id": 5259987, "predecessors": [{"name": "Artistas_gráficos", "id": 5307264}, {"name": "Artistas_de_Japón", "id": 540167}], "successors": [{"name": "Artistas_de_ukiyo-e", "id": 4048792}]}

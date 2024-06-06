@@ -1,1 +1,1 @@
-{"name": "雷射醫學", "id": 7846077, "predecessors": [{"name": "雷射應用", "id": 3951063}], "successors": []}
+{"name": "雷射醫學", "id": 7846077, "predecessors": [{"name": "医学物理", "id": 1401023}, {"name": "雷射應用", "id": 3951063}], "successors": []}

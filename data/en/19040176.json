@@ -1,0 +1,1 @@
+{"name": "Gasoline_engines", "id": 19040176, "predecessors": [{"name": "Internal_combustion_piston_engines", "id": 18429197}, {"name": "Combustion", "id": 3022121}], "successors": [{"name": "Two-stroke_gasoline_engines", "id": 35488862}, {"name": "Petrol_railcars", "id": 44426464}]}

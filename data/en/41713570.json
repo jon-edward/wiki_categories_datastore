@@ -1,1 +1,1 @@
-{"name": "Homelessness_and_law", "id": 41713570, "predecessors": [{"name": "Homelessness", "id": 1073565}], "successors": [{"name": "Vagrancy_laws", "id": 47360083}]}
+{"name": "Homelessness_and_law", "id": 41713570, "predecessors": [{"name": "Homelessness", "id": 1073565}, {"name": "Social_law", "id": 31613158}], "successors": [{"name": "Vagrancy_laws", "id": 47360083}]}

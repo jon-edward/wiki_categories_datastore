@@ -1,1 +1,1 @@
-{"name": "Actors_colombians", "id": 1403991, "predecessors": [{"name": "Artistes_colombians", "id": 1024786}, {"name": "Biografies", "id": 16117}], "successors": [{"name": "Actors_de_sèries_de_televisió_colombians", "id": 1873271}, {"name": "Actors_de_cinema_colombians", "id": 1873272}]}
+{"name": "Actors_colombians", "id": 1403991, "predecessors": [{"name": "Artistes_colombians", "id": 1024786}, {"name": "Principal", "id": 13225}], "successors": [{"name": "Actors_de_sèries_de_televisió_colombians", "id": 1873271}, {"name": "Actors_de_cinema_colombians", "id": 1873272}]}

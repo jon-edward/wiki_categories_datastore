@@ -1,1 +1,1 @@
-{"name": "新湊港線車站", "id": 7654010, "predecessors": [{"name": "日本已停用的鐵路線", "id": 1073392}], "successors": []}
+{"name": "新湊港線車站", "id": 7654010, "predecessors": [{"name": "射水線車站", "id": 6477989}, {"name": "日本鐵路", "id": 219206}, {"name": "日本巴士公司", "id": 699048}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "풀빵", "id": 1104163, "predecessors": [{"name": "길거리_음식", "id": 607674}, {"name": "밀_요리", "id": 2011757}], "successors": []}
+{"name": "풀빵", "id": 1104163, "predecessors": [{"name": "길거리_음식", "id": 607674}, {"name": "밀_요리", "id": 2011757}, {"name": "소를_넣은_음식", "id": 3323980}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Type_C2-S-AJ1_ships", "id": 23386480, "predecessors": [{"name": "Type_C2_ships", "id": 23386036}], "successors": []}
+{"name": "Type_C2-S-AJ1_ships", "id": 23386480, "predecessors": [{"name": "Type_C2_ships", "id": 23386036}], "successors": [{"name": "Mount_McKinley-class_command_ships", "id": 38717510}, {"name": "Mount_Hood-class_ammunition_ships", "id": 38761410}]}

@@ -1,1 +1,1 @@
-{"name": "泌尿系統", "id": 186245, "predecessors": [{"name": "解剖学", "id": 50120}], "successors": []}
+{"name": "泌尿系統", "id": 186245, "predecessors": [{"name": "解剖学", "id": 50120}, {"name": "器官系统", "id": 282865}], "successors": [{"name": "尿", "id": 1241260}]}

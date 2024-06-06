@@ -1,1 +1,1 @@
-{"name": "已测序的基因组", "id": 1544272, "predecessors": [{"name": "DNA测序", "id": 1538935}], "successors": [{"name": "已测序基因组细菌", "id": 4728519}]}
+{"name": "已测序的基因组", "id": 1544272, "predecessors": [{"name": "基因组计划", "id": 1544273}], "successors": [{"name": "已测序基因组细菌", "id": 4728519}]}

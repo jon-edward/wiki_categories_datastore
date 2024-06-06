@@ -1,1 +1,1 @@
-{"name": "Tornado_outbreaks", "id": 31894726, "predecessors": [{"name": "Natural_disasters", "id": 2643767}, {"name": "Storms", "id": 1539279}], "successors": [{"name": "F0_and_F1_tornadoes", "id": 13677765}, {"name": "F2_tornadoes", "id": 13677772}, {"name": "F3_tornadoes", "id": 13677793}, {"name": "F4_tornadoes", "id": 13677814}, {"name": "F5_tornadoes", "id": 13677831}]}
+{"name": "Tornado_outbreaks", "id": 31894726, "predecessors": [{"name": "Natural_disasters", "id": 2643767}, {"name": "Storms", "id": 1539279}], "successors": []}

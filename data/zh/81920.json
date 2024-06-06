@@ -1,1 +1,1 @@
-{"name": "酚", "id": 81920, "predecessors": [{"name": "芳香化合物", "id": 698083}, {"name": "有机化合物", "id": 43569}], "successors": [{"name": "天然酚", "id": 1546757}, {"name": "硫酚", "id": 6007473}, {"name": "苯酚", "id": 7788626}]}
+{"name": "酚", "id": 81920, "predecessors": [{"name": "醇", "id": 43570}], "successors": [{"name": "硫酚", "id": 6007473}]}

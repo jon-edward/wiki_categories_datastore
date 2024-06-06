@@ -1,1 +1,1 @@
-{"name": "IA-32_리눅스_배포판", "id": 3051611, "predecessors": [{"name": "IA-32_운영_체제", "id": 2511182}, {"name": "리눅스_배포판", "id": 43281}], "successors": []}
+{"name": "IA-32_리눅스_배포판", "id": 3051611, "predecessors": [{"name": "IA-32_운영_체제", "id": 2511182}, {"name": "운영체제", "id": 42780}], "successors": []}

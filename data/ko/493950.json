@@ -1,1 +1,1 @@
-{"name": "한국어_가수", "id": 493950, "predecessors": [{"name": "한국어", "id": 11677}, {"name": "음악가", "id": 14805}], "successors": []}
+{"name": "한국어_가수", "id": 493950, "predecessors": [{"name": "한국어", "id": 11677}, {"name": "음악가", "id": 14805}], "successors": [{"name": "한국어_음악_그룹", "id": 493951}]}

@@ -1,1 +1,1 @@
-{"name": "E-Mail-Programm", "id": 698201, "predecessors": [{"name": "E-Mail", "id": 254903}, {"name": "Kommunikationssoftware", "id": 5634615}], "successors": [{"name": "Freie_E-Mail-Software", "id": 4970105}]}
+{"name": "E-Mail-Programm", "id": 698201, "predecessors": [{"name": "E-Mail", "id": 254903}, {"name": "Anwendungssoftware", "id": 5234444}], "successors": [{"name": "Freie_E-Mail-Software", "id": 4970105}]}

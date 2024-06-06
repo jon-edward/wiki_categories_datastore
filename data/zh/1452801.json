@@ -1,1 +1,1 @@
-{"name": "邮政模板", "id": 1452801, "predecessors": [{"name": "邮政", "id": 77825}], "successors": []}
+{"name": "邮政模板", "id": 1452801, "predecessors": [{"name": "交通模板", "id": 247148}, {"name": "通信模板", "id": 1452811}, {"name": "邮政", "id": 77825}], "successors": []}

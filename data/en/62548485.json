@@ -1,1 +1,1 @@
-{"name": "German_monster_movies", "id": 62548485, "predecessors": [{"name": "German_horror_films", "id": 25503112}, {"name": "German_science_fiction_films", "id": 27409381}], "successors": [{"name": "German_vampire_films", "id": 69047392}]}
+{"name": "German_monster_movies", "id": 62548485, "predecessors": [{"name": "German_horror_films", "id": 25503112}, {"name": "German_science_fiction_films", "id": 27409381}, {"name": "Monster_movies", "id": 7133153}], "successors": [{"name": "German_vampire_films", "id": 69047392}]}

@@ -1,1 +1,1 @@
-{"name": "黏土矿物", "id": 8101889, "predecessors": [{"name": "土壤學", "id": 3417461}], "successors": []}
+{"name": "黏土矿物", "id": 8101889, "predecessors": [{"name": "矿物", "id": 58939}, {"name": "土壤學", "id": 3417461}], "successors": []}

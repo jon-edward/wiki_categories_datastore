@@ -1,1 +1,1 @@
-{"name": "Platformers", "id": 723642, "predecessors": [{"name": "Action_games", "id": 13929565}], "successors": [{"name": "Parkour_video_games", "id": 40606408}, {"name": "Climbing_video_games", "id": 75088323}]}
+{"name": "Platformers", "id": 723642, "predecessors": [{"name": "Action_games", "id": 13929565}], "successors": [{"name": "Parkour_video_games", "id": 40606408}, {"name": "Side-scrolling_platformers", "id": 41882931}, {"name": "Puzzle-platformers", "id": 54547652}, {"name": "Climbing_video_games", "id": 75088323}]}

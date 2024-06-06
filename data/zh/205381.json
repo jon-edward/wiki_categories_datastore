@@ -1,1 +1,1 @@
-{"name": "記憶卡", "id": 205381, "predecessors": [{"name": "固態電腦儲存媒體", "id": 497483}, {"name": "摄影", "id": 47073}], "successors": []}
+{"name": "記憶卡", "id": 205381, "predecessors": [{"name": "固態電腦儲存媒體", "id": 497483}, {"name": "存储媒体", "id": 142380}, {"name": "摄影", "id": 47073}], "successors": []}

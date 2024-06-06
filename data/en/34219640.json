@@ -1,1 +1,1 @@
-{"name": "Aviation_mass_media", "id": 34219640, "predecessors": [{"name": "Aviation", "id": 735378}, {"name": "Transport_culture", "id": 18623462}], "successors": [{"name": "Aviation_magazines", "id": 8702849}, {"name": "Aviation_websites", "id": 15353331}]}
+{"name": "Aviation_mass_media", "id": 34219640, "predecessors": [{"name": "Aviation", "id": 735378}, {"name": "Mass_media", "id": 696790}], "successors": [{"name": "Aviation_magazines", "id": 8702849}, {"name": "Aviation_websites", "id": 15353331}]}

@@ -1,1 +1,1 @@
-{"name": "樂器製作", "id": 2895314, "predecessors": [{"name": "工藝", "id": 261575}, {"name": "製造業", "id": 1159067}], "successors": [{"name": "吉他制造公司", "id": 1152860}, {"name": "鋼琴製造公司", "id": 1204036}, {"name": "VOCALOID", "id": 698183}]}
+{"name": "樂器製作", "id": 2895314, "predecessors": [{"name": "乐器", "id": 41480}, {"name": "工藝", "id": 261575}], "successors": [{"name": "吉他制造公司", "id": 1152860}, {"name": "鋼琴製造公司", "id": 1204036}, {"name": "VOCALOID", "id": 698183}]}

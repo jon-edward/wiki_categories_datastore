@@ -1,1 +1,1 @@
-{"name": "Covers_EPs", "id": 27957126, "predecessors": [{"name": "Album_types", "id": 10217141}], "successors": []}
+{"name": "Covers_EPs", "id": 27957126, "predecessors": [{"name": "Covers_albums", "id": 1829464}, {"name": "Album_types", "id": 10217141}], "successors": []}

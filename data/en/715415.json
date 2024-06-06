@@ -1,1 +1,1 @@
-{"name": "Peace_treaties", "id": 715415, "predecessors": [{"name": "Aftermath_of_war", "id": 3542763}, {"name": "War", "id": 691877}], "successors": [{"name": "Treaty_of_Versailles", "id": 17993006}]}
+{"name": "Peace_treaties", "id": 715415, "predecessors": [{"name": "Aftermath_of_war", "id": 3542763}, {"name": "Peacebuilding", "id": 64781155}, {"name": "War", "id": 691877}], "successors": [{"name": "Treaty_of_Versailles", "id": 17993006}, {"name": "Non-aggression_pacts", "id": 39469335}]}

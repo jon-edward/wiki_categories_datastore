@@ -1,1 +1,1 @@
-{"name": "Video_game_gameplay", "id": 9250932, "predecessors": [{"name": "Game_design", "id": 6349444}, {"name": "Video_game_design", "id": 9568249}], "successors": [{"name": "Cheating_in_video_games", "id": 9250849}, {"name": "Video_game_terminology", "id": 24212208}, {"name": "Video_games_with_user-generated_gameplay_content", "id": 32019630}]}
+{"name": "Video_game_gameplay", "id": 9250932, "predecessors": [{"name": "Video_game_design", "id": 9568249}], "successors": [{"name": "Cheating_in_video_games", "id": 9250849}, {"name": "Esports_techniques", "id": 9567161}]}

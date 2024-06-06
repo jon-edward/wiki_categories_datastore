@@ -1,1 +1,1 @@
-{"name": "Matskribenter", "id": 145661, "predecessors": [{"name": "Mat_og_drikke", "id": 30729}, {"name": "Litteratur", "id": 9031}], "successors": [{"name": "Norske_matskribenter", "id": 459102}]}
+{"name": "Matskribenter", "id": 145661, "predecessors": [{"name": "Forfattere", "id": 8980}, {"name": "Mat_og_drikke", "id": 30729}], "successors": [{"name": "Norske_matskribenter", "id": 459102}]}

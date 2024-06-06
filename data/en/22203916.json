@@ -1,1 +1,1 @@
-{"name": "Lectins", "id": 22203916, "predecessors": [{"name": "Proteins_by_function", "id": 51665272}], "successors": [{"name": "SIGLEC", "id": 22204211}, {"name": "C-type_lectins", "id": 33915367}]}
+{"name": "Lectins", "id": 22203916, "predecessors": [{"name": "Proteins_by_function", "id": 51665272}, {"name": "Cell_adhesion_proteins", "id": 3090766}], "successors": []}

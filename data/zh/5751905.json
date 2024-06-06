@@ -1,1 +1,1 @@
-{"name": "地磁", "id": 5751905, "predecessors": [{"name": "地球", "id": 33918}, {"name": "地球科学", "id": 42997}], "successors": []}
+{"name": "地磁", "id": 5751905, "predecessors": [{"name": "地球科学", "id": 42997}], "successors": [{"name": "磁暴", "id": 6438250}, {"name": "磁性矿物", "id": 7957513}]}

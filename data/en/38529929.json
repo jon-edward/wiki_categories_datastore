@@ -1,1 +1,1 @@
-{"name": "Chinese_medical_researchers", "id": 38529929, "predecessors": [{"name": "Chinese_academics", "id": 6043411}], "successors": [{"name": "Chinese_neuroscientists", "id": 21109592}, {"name": "Chinese_epidemiologists", "id": 62180757}]}
+{"name": "Chinese_medical_researchers", "id": 38529929, "predecessors": [{"name": "Health_care_occupations", "id": 1006080}], "successors": [{"name": "Chinese_neuroscientists", "id": 21109592}, {"name": "Chinese_epidemiologists", "id": 62180757}]}

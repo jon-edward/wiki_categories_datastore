@@ -1,1 +1,1 @@
-{"name": "学前教育", "id": 209350, "predecessors": [{"name": "兒童", "id": 147010}], "successors": [{"name": "香港幼稚園", "id": 697830}]}
+{"name": "学前教育", "id": 209350, "predecessors": [{"name": "兒童", "id": 147010}, {"name": "教育階段", "id": 6319302}], "successors": [{"name": "香港幼稚園", "id": 697830}]}

@@ -1,1 +1,1 @@
-{"name": "化學肥料", "id": 5108712, "predecessors": [{"name": "肥料", "id": 927100}], "successors": []}
+{"name": "化學肥料", "id": 5108712, "predecessors": [{"name": "化学工业", "id": 78032}, {"name": "肥料", "id": 927100}], "successors": []}

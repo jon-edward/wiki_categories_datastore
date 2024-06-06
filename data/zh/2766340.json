@@ -1,1 +1,1 @@
-{"name": "惠普產品", "id": 2766340, "predecessors": [{"name": "惠普", "id": 1103195}], "successors": [{"name": "惠普计算器", "id": 6117821}]}
+{"name": "惠普產品", "id": 2766340, "predecessors": [{"name": "惠普", "id": 1103195}, {"name": "公司", "id": 51786}], "successors": [{"name": "惠普计算器", "id": 6117821}]}

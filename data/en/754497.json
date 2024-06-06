@@ -1,1 +1,1 @@
-{"name": "Fictional_spies", "id": 754497, "predecessors": [{"name": "Fiction_by_genre", "id": 5740366}], "successors": []}
+{"name": "Fictional_spies", "id": 754497, "predecessors": [{"name": "Espionage", "id": 878532}, {"name": "Fiction_about_government", "id": 25552444}, {"name": "Fiction_by_genre", "id": 5740366}], "successors": [{"name": "Fictional_female_spies", "id": 59283439}]}

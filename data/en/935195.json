@@ -1,1 +1,1 @@
-{"name": "Comets_visited_by_spacecraft", "id": 935195, "predecessors": [{"name": "Comets", "id": 698007}, {"name": "Missions_to_comets", "id": 34160255}, {"name": "Spacecraft", "id": 723329}], "successors": []}
+{"name": "Comets_visited_by_spacecraft", "id": 935195, "predecessors": [{"name": "Missions_to_comets", "id": 34160255}, {"name": "Spacecraft", "id": 723329}], "successors": []}

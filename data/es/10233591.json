@@ -1,1 +1,1 @@
-{"name": "Duat", "id": 10233591, "predecessors": [{"name": "Inframundo", "id": 10233573}, {"name": "Mitología_egipcia", "id": 49205}], "successors": [{"name": "Osiris", "id": 7348135}]}
+{"name": "Duat", "id": 10233591, "predecessors": [{"name": "Mitología_egipcia", "id": 49205}, {"name": "Cosmología_religiosa", "id": 5254259}], "successors": [{"name": "Osiris", "id": 7348135}]}

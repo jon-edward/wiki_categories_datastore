@@ -1,1 +1,1 @@
-{"name": "군용_리볼버", "id": 3000479, "predecessors": [{"name": "리볼버", "id": 668917}], "successors": []}
+{"name": "군용_리볼버", "id": 3000479, "predecessors": [{"name": "리볼버", "id": 668917}, {"name": "무기", "id": 13705}], "successors": []}

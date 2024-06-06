@@ -1,0 +1,1 @@
+{"name": "Data_management_software", "id": 32164666, "predecessors": [{"name": "Application_software", "id": 708063}, {"name": "Data_management", "id": 762162}], "successors": [{"name": "Content_management_systems", "id": 691651}, {"name": "Database_management_systems", "id": 700602}, {"name": "File_archivers", "id": 20094145}, {"name": "Data_erasure_software", "id": 52734755}]}

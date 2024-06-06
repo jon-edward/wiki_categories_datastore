@@ -1,1 +1,1 @@
-{"name": "道路交通標誌", "id": 1600487, "predecessors": [{"name": "街道設施", "id": 846890}], "successors": []}
+{"name": "道路交通標誌", "id": 1600487, "predecessors": [{"name": "標示", "id": 5348299}, {"name": "街道設施", "id": 846890}, {"name": "道路交通安全", "id": 1600482}], "successors": []}

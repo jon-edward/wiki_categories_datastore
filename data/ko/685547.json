@@ -1,1 +1,1 @@
-{"name": "IATA_공항_코드_목록", "id": 685547, "predecessors": [{"name": "국제_항공_운송_협회", "id": 263821}, {"name": "약자", "id": 82081}], "successors": []}
+{"name": "IATA_공항_코드_목록", "id": 685547, "predecessors": [{"name": "공항_목록", "id": 203803}, {"name": "국제_항공_운송_협회", "id": 263821}, {"name": "약자", "id": 82081}], "successors": []}

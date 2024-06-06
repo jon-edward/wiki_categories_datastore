@@ -1,1 +1,1 @@
-{"name": "银币", "id": 2800634, "predecessors": [{"name": "银", "id": 1021410}, {"name": "硬币", "id": 469213}], "successors": [{"name": "美国银币", "id": 4707672}, {"name": "中国银币", "id": 5992743}]}
+{"name": "银币", "id": 2800634, "predecessors": [{"name": "硬币", "id": 469213}], "successors": [{"name": "中国银币", "id": 5992743}]}

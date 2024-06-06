@@ -1,1 +1,1 @@
-{"name": "非线性偏微分方程", "id": 3744522, "predecessors": [{"name": "动力系统", "id": 5571774}], "successors": []}
+{"name": "非线性偏微分方程", "id": 3744522, "predecessors": [{"name": "偏微分方程", "id": 184694}, {"name": "动力系统", "id": 5571774}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "MSX", "id": 110441, "predecessors": [{"name": "개인용_컴퓨터", "id": 74766}], "successors": [{"name": "MSX_게임", "id": 120327}, {"name": "MSX2_게임", "id": 1970973}]}
+{"name": "MSX", "id": 110441, "predecessors": [{"name": "Z80_기반_가정용_컴퓨터", "id": 2623120}, {"name": "개인용_컴퓨터", "id": 74766}, {"name": "컴퓨터", "id": 11685}], "successors": [{"name": "MSX_게임", "id": 120327}, {"name": "MSX2_게임", "id": 1970973}]}

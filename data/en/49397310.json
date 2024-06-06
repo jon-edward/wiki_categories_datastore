@@ -1,1 +1,1 @@
-{"name": "Extracellular_matrix_remodeling_enzymes", "id": 49397310, "predecessors": [{"name": "Extracellular_matrix_proteins", "id": 28261116}], "successors": [{"name": "Matrix_metalloproteinases", "id": 49397321}, {"name": "ADAMTS", "id": 49399177}]}
+{"name": "Extracellular_matrix_remodeling_enzymes", "id": 49397310, "predecessors": [{"name": "Extracellular_matrix_proteins", "id": 28261116}], "successors": []}

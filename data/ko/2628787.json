@@ -1,1 +1,1 @@
-{"name": "사암", "id": 2628787, "predecessors": [{"name": "돌", "id": 307557}, {"name": "모래", "id": 638134}, {"name": "퇴적암", "id": 199750}], "successors": []}
+{"name": "사암", "id": 2628787, "predecessors": [{"name": "돌", "id": 307557}, {"name": "모래", "id": 638134}, {"name": "퇴적암", "id": 199750}], "successors": [{"name": "사암_지층", "id": 3678652}]}

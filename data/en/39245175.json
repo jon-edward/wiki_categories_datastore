@@ -1,1 +1,1 @@
-{"name": "Lists_of_coins", "id": 39245175, "predecessors": [{"name": "Coins", "id": 904510}, {"name": "Currency_lists", "id": 53219443}, {"name": "Numismatics", "id": 692363}], "successors": []}
+{"name": "Lists_of_coins", "id": 39245175, "predecessors": [{"name": "Coins", "id": 904510}, {"name": "Currency_lists", "id": 53219443}, {"name": "Numismatics", "id": 692363}], "successors": [{"name": "Lists_of_commemorative_coins", "id": 39245392}]}

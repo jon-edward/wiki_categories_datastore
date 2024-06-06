@@ -1,1 +1,1 @@
-{"name": "公務員考試", "id": 8101574, "predecessors": [{"name": "招聘", "id": 769751}, {"name": "考试", "id": 180278}], "successors": [{"name": "科举", "id": 238864}]}
+{"name": "公務員考試", "id": 8101574, "predecessors": [{"name": "招聘", "id": 769751}, {"name": "考试", "id": 180278}, {"name": "專業職稱與認證", "id": 2877587}], "successors": [{"name": "科举", "id": 238864}]}

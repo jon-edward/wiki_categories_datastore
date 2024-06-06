@@ -1,1 +1,1 @@
-{"name": "Entwicklungsplattform", "id": 6248353, "predecessors": [{"name": "Kommunikationssoftware", "id": 5634615}, {"name": "Webanwendung", "id": 1106597}], "successors": []}
+{"name": "Entwicklungsplattform", "id": 6248353, "predecessors": [{"name": "Webanwendung", "id": 1106597}, {"name": "Anwendungssoftware", "id": 5234444}], "successors": []}

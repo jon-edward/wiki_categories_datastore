@@ -1,1 +1,1 @@
-{"name": "닭고기_요리", "id": 542224, "predecessors": [{"name": "닭고기", "id": 2542335}, {"name": "가금", "id": 232107}], "successors": [{"name": "닭튀김", "id": 1319152}]}
+{"name": "닭고기_요리", "id": 542224, "predecessors": [{"name": "닭고기", "id": 2542335}, {"name": "새고기_요리", "id": 893226}], "successors": [{"name": "닭튀김", "id": 1319152}]}

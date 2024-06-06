@@ -1,1 +1,1 @@
-{"name": "石灰石", "id": 1695431, "predecessors": [{"name": "石头", "id": 1617817}], "successors": [{"name": "钟乳洞", "id": 2994624}]}
+{"name": "石灰石", "id": 1695431, "predecessors": [{"name": "工业矿物", "id": 8240017}, {"name": "石头", "id": 1617817}], "successors": [{"name": "钟乳洞", "id": 2994624}]}

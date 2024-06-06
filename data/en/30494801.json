@@ -1,1 +1,1 @@
-{"name": "Karst", "id": 30494801, "predecessors": [{"name": "Cave_geology", "id": 1145457}, {"name": "Limestone_formations", "id": 47450615}], "successors": [{"name": "Karst_formations", "id": 54195364}]}
+{"name": "Karst", "id": 30494801, "predecessors": [{"name": "Cave_geology", "id": 1145457}], "successors": [{"name": "Karst_formations", "id": 54195364}]}

@@ -1,1 +1,1 @@
-{"name": "免费软件", "id": 1400983, "predecessors": [{"name": "专有软件", "id": 599681}], "successors": [{"name": "廣告軟件", "id": 226307}, {"name": "免費遊戲", "id": 369996}, {"name": "LINE", "id": 4985406}]}
+{"name": "免费软件", "id": 1400983, "predecessors": [{"name": "付款", "id": 7828563}], "successors": [{"name": "廣告軟件", "id": 226307}, {"name": "免費遊戲", "id": 369996}, {"name": "LINE", "id": 4985406}]}

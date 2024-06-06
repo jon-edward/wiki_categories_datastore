@@ -1,1 +1,1 @@
-{"name": "Cancelled_Atari_5200_games", "id": 13374397, "predecessors": [{"name": "Cancelled_video_games", "id": 9566834}], "successors": []}
+{"name": "Cancelled_Atari_5200_games", "id": 13374397, "predecessors": [{"name": "Atari_5200_games", "id": 2473871}, {"name": "Cancelled_video_games", "id": 9566834}], "successors": []}

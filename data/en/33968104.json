@@ -1,1 +1,1 @@
-{"name": "Aeronautical_navigation_systems", "id": 33968104, "predecessors": [{"name": "Aeronautics", "id": 1492803}, {"name": "Air_navigation", "id": 42462833}, {"name": "Navigational_aids", "id": 67284098}, {"name": "Radio_navigation", "id": 3587753}], "successors": []}
+{"name": "Aeronautical_navigation_systems", "id": 33968104, "predecessors": [{"name": "Aeronautics", "id": 1492803}, {"name": "Air_navigation", "id": 42462833}, {"name": "Avionics", "id": 1013341}, {"name": "Navigational_aids", "id": 67284098}, {"name": "Radio_navigation", "id": 3587753}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "审计", "id": 269677, "predecessors": [{"name": "風險管理學", "id": 70752}], "successors": [{"name": "会计师事务所", "id": 253666}, {"name": "財務比率", "id": 1570494}]}
+{"name": "审计", "id": 269677, "predecessors": [{"name": "业务流程管理", "id": 8151594}], "successors": [{"name": "会计师事务所", "id": 253666}, {"name": "財務比率", "id": 1570494}]}

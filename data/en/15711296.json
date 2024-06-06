@@ -1,1 +1,1 @@
-{"name": "Share_taxis", "id": 15711296, "predecessors": [{"name": "Taxis", "id": 1018520}, {"name": "Types_of_bus_service", "id": 21120211}, {"name": "Road_transport", "id": 700964}, {"name": "Sharing_economy", "id": 47930021}], "successors": []}
+{"name": "Share_taxis", "id": 15711296, "predecessors": [{"name": "Public_transport_by_mode", "id": 15720272}, {"name": "Taxis", "id": 1018520}, {"name": "Types_of_bus_service", "id": 21120211}, {"name": "Sharing_economy", "id": 47930021}], "successors": []}

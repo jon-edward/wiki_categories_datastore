@@ -1,1 +1,1 @@
-{"name": "时代杂志人物", "id": 5766429, "predecessors": [{"name": "杂志", "id": 41463}], "successors": []}
+{"name": "时代杂志人物", "id": 5766429, "predecessors": [{"name": "出版業", "id": 59761}, {"name": "杂志", "id": 41463}, {"name": "出版品", "id": 59763}], "successors": []}

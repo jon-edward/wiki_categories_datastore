@@ -1,1 +1,1 @@
-{"name": "Manufacturing_companies_based_in_Northampton", "id": 68107981, "predecessors": [{"name": "Companies_based_in_Northampton", "id": 27634070}], "successors": [{"name": "Cosworth", "id": 65808243}]}
+{"name": "Manufacturing_companies_based_in_Northampton", "id": 68107981, "predecessors": [{"name": "Companies_based_in_Northampton", "id": 27634070}, {"name": "Manufacturing_companies_of_England", "id": 32600233}], "successors": [{"name": "Cosworth", "id": 65808243}]}

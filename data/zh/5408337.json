@@ -1,1 +1,1 @@
-{"name": "剪刀", "id": 5408337, "predecessors": [{"name": "刀具", "id": 588107}, {"name": "工具", "id": 65701}], "successors": [{"name": "剪紙", "id": 3795271}]}
+{"name": "剪刀", "id": 5408337, "predecessors": [{"name": "刀具", "id": 588107}, {"name": "刃物", "id": 1420893}], "successors": [{"name": "剪紙", "id": 3795271}]}

@@ -1,1 +1,1 @@
-{"name": "Classe_de_bateau_de_la_Marine_grecque", "id": 12441847, "predecessors": [{"name": "Marine_grecque", "id": 9065729}, {"name": "Classe_de_bateau", "id": 6023245}], "successors": []}
+{"name": "Classe_de_bateau_de_la_Marine_grecque", "id": 12441847, "predecessors": [{"name": "Marine_grecque", "id": 9065729}, {"name": "Force_navale", "id": 491220}], "successors": []}

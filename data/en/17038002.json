@@ -1,1 +1,1 @@
-{"name": "Technology_development", "id": 17038002, "predecessors": [{"name": "Research_and_development", "id": 3594251}, {"name": "Technology", "id": 696648}], "successors": [{"name": "Software_development", "id": 1470317}]}
+{"name": "Technology_development", "id": 17038002, "predecessors": [{"name": "Research_and_development", "id": 3594251}], "successors": [{"name": "Software_development", "id": 1470317}]}

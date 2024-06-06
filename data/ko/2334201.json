@@ -1,1 +1,1 @@
-{"name": "식품_보관_용기", "id": 2334201, "predecessors": [{"name": "그릇", "id": 67474}, {"name": "식품_보존", "id": 66507}], "successors": []}
+{"name": "식품_보관_용기", "id": 2334201, "predecessors": [{"name": "그릇", "id": 67474}, {"name": "식품_보존", "id": 66507}], "successors": [{"name": "포도주_포장_및_보관", "id": 3736023}]}

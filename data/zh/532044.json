@@ -1,1 +1,1 @@
-{"name": "氣象衛星", "id": 532044, "predecessors": [{"name": "地球觀測衛星", "id": 386308}], "successors": []}
+{"name": "氣象衛星", "id": 532044, "predecessors": [{"name": "地球觀測衛星", "id": 386308}, {"name": "天气预报", "id": 7087867}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "조합_퍼즐", "id": 2624256, "predecessors": [{"name": "퍼즐", "id": 29914}], "successors": []}
+{"name": "조합_퍼즐", "id": 2624256, "predecessors": [{"name": "퍼즐", "id": 29914}], "successors": [{"name": "큐브_퍼즐", "id": 2021968}]}

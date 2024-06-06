@@ -1,1 +1,1 @@
-{"name": "Forklift_truck_manufacturers", "id": 3995466, "predecessors": [{"name": "Material-handling_equipment", "id": 27004019}, {"name": "Motor_vehicle_manufacturers", "id": 5754930}], "successors": [{"name": "JCB_(company)", "id": 30781725}, {"name": "Komatsu_Limited", "id": 49949475}]}
+{"name": "Forklift_truck_manufacturers", "id": 3995466, "predecessors": [{"name": "Motor_vehicle_manufacturers", "id": 5754930}], "successors": [{"name": "JCB_(company)", "id": 30781725}, {"name": "Komatsu_Limited", "id": 49949475}]}

@@ -1,1 +1,1 @@
-{"name": "Foraging", "id": 47290621, "predecessors": [{"name": "Eating_behaviors_of_humans", "id": 44166419}], "successors": [{"name": "Bushfood", "id": 5435299}]}
+{"name": "Foraging", "id": 47290621, "predecessors": [{"name": "Eating_behaviors_of_humans", "id": 44166419}], "successors": [{"name": "Bushfood", "id": 5435299}, {"name": "Hunter-gatherers", "id": 15753204}]}

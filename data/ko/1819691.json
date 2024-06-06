@@ -1,1 +1,1 @@
-{"name": "고추", "id": 1819691, "predecessors": [{"name": "고추속", "id": 55780}, {"name": "열매채소", "id": 31923}, {"name": "향신채", "id": 2010608}], "successors": [{"name": "고추_요리", "id": 2271694}]}
+{"name": "고추", "id": 1819691, "predecessors": [{"name": "열매채소", "id": 31923}], "successors": [{"name": "고추_요리", "id": 2271694}]}

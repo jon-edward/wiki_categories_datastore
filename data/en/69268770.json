@@ -1,1 +1,1 @@
-{"name": "Hazards_of_outdoor_recreation", "id": 69268770, "predecessors": [{"name": "Outdoor_recreation", "id": 1451342}], "successors": [{"name": "Landslides", "id": 2638030}, {"name": "Wilderness_medical_emergencies", "id": 32510781}]}
+{"name": "Hazards_of_outdoor_recreation", "id": 69268770, "predecessors": [{"name": "Outdoor_recreation", "id": 1451342}, {"name": "Emergency_management", "id": 5047412}], "successors": [{"name": "Landslides", "id": 2638030}, {"name": "Wilderness_medical_emergencies", "id": 32510781}]}

@@ -1,1 +1,1 @@
-{"name": "Nortel_products", "id": 11940518, "predecessors": [{"name": "Nortel", "id": 3594502}, {"name": "Electronics_industry", "id": 35046850}], "successors": []}
+{"name": "Nortel_products", "id": 11940518, "predecessors": [{"name": "Networking_hardware", "id": 1899604}, {"name": "Nortel", "id": 3594502}], "successors": []}

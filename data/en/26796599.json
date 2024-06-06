@@ -1,1 +1,1 @@
-{"name": "Rack_railways_in_Germany", "id": 26796599, "predecessors": [{"name": "Passenger_rail_transport_in_Germany", "id": 15878601}, {"name": "Rail_transport_in_Germany", "id": 2000349}, {"name": "Railways_by_type", "id": 40335488}], "successors": []}
+{"name": "Rack_railways_in_Germany", "id": 26796599, "predecessors": [{"name": "Passenger_rail_transport_in_Germany", "id": 15878601}, {"name": "Rail_infrastructure_in_Germany", "id": 15900220}, {"name": "Railways_by_type", "id": 40335488}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Neuroimaging_software", "id": 7443141, "predecessors": [{"name": "Bioinformatics_software", "id": 10354259}, {"name": "Computing_in_medical_imaging", "id": 72312882}, {"name": "Image_processing_software", "id": 39546072}, {"name": "Neuroimaging", "id": 3748377}], "successors": []}
+{"name": "Neuroimaging_software", "id": 7443141, "predecessors": [{"name": "Bioinformatics_software", "id": 10354259}, {"name": "Computing_in_medical_imaging", "id": 72312882}, {"name": "Neuroimaging", "id": 3748377}], "successors": []}

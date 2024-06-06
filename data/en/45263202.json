@@ -1,1 +1,1 @@
-{"name": "Fruits_originating_in_Africa", "id": 45263202, "predecessors": [{"name": "Crops_originating_from_Africa", "id": 20152358}, {"name": "Edible_fruits", "id": 39951547}, {"name": "Agriculture_in_Africa", "id": 18385602}], "successors": [{"name": "Watermelons", "id": 47777098}]}
+{"name": "Fruits_originating_in_Africa", "id": 45263202, "predecessors": [{"name": "Edible_fruits", "id": 39951547}], "successors": [{"name": "Watermelons", "id": 47777098}]}

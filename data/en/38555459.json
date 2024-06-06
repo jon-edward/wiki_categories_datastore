@@ -1,1 +1,1 @@
-{"name": "World_War_II_tank_destroyers", "id": 38555459, "predecessors": [{"name": "World_War_II_military_vehicles", "id": 3289735}], "successors": [{"name": "World_War_II_tank_destroyers_of_Germany", "id": 13457047}]}
+{"name": "World_War_II_tank_destroyers", "id": 38555459, "predecessors": [{"name": "World_War_II_military_vehicles", "id": 3289735}, {"name": "Tank_destroyers", "id": 786583}], "successors": [{"name": "World_War_II_tank_destroyers_of_Germany", "id": 13457047}]}

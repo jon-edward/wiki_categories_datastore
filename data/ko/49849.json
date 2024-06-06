@@ -1,1 +1,1 @@
-{"name": "점자", "id": 49849, "predecessors": [{"name": "문자", "id": 12235}, {"name": "시각_장애", "id": 51562}, {"name": "접근성", "id": 451984}], "successors": [{"name": "언어별_점자", "id": 2977587}]}
+{"name": "점자", "id": 49849, "predecessors": [{"name": "문자", "id": 12235}, {"name": "접근성", "id": 451984}], "successors": [{"name": "언어별_점자", "id": 2977587}]}

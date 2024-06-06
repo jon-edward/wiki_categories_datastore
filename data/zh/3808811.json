@@ -1,1 +1,1 @@
-{"name": "露宿者", "id": 3808811, "predecessors": [{"name": "街頭文化", "id": 3155568}, {"name": "贫困", "id": 1535067}], "successors": []}
+{"name": "露宿者", "id": 3808811, "predecessors": [{"name": "居住", "id": 7024779}, {"name": "街頭文化", "id": 3155568}, {"name": "贫困", "id": 1535067}], "successors": [{"name": "流浪漢題材作品", "id": 4784718}]}

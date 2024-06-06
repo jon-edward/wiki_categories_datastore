@@ -1,1 +1,1 @@
-{"name": "Dancesport_competitions", "id": 40598525, "predecessors": [{"name": "Dancesport", "id": 892371}], "successors": [{"name": "Dancesport_at_the_2010_Asian_Games", "id": 39178751}]}
+{"name": "Dancesport_competitions", "id": 40598525, "predecessors": [{"name": "Dance_competitions", "id": 4662905}, {"name": "Dancesport", "id": 892371}, {"name": "Indoor_sports", "id": 989568}], "successors": [{"name": "Dancesport_at_the_2010_Asian_Games", "id": 39178751}]}

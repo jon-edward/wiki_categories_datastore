@@ -1,1 +1,1 @@
-{"name": "Musika_Eskolak", "id": 735512, "predecessors": [{"name": "Ikastetxeak", "id": 147081}, {"name": "Musika", "id": 5804}], "successors": [{"name": "Euskal_Herriko_kontserbatorioak", "id": 574170}]}
+{"name": "Musika_Eskolak", "id": 735512, "predecessors": [{"name": "Hezkuntza_erakundeak", "id": 127996}, {"name": "Musika", "id": 5804}], "successors": [{"name": "Euskal_Herriko_kontserbatorioak", "id": 574170}]}

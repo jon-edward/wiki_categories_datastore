@@ -1,1 +1,1 @@
-{"name": "物理光學", "id": 740278, "predecessors": [{"name": "光學", "id": 59777}], "successors": [{"name": "繞射", "id": 740282}, {"name": "偏振", "id": 1609799}]}
+{"name": "物理光學", "id": 740278, "predecessors": [{"name": "光學", "id": 59777}], "successors": [{"name": "偏振", "id": 1609799}]}

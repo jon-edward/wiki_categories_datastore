@@ -1,1 +1,1 @@
-{"name": "Kodierungstheorie", "id": 1352764, "predecessors": [{"name": "Diskrete_Mathematik", "id": 271747}, {"name": "Informationstheorie", "id": 1073917}, {"name": "Übertragungstechnik", "id": 1615652}], "successors": [{"name": "Binärcode", "id": 2110892}, {"name": "Datenkompression", "id": 2402297}]}
+{"name": "Kodierungstheorie", "id": 1352764, "predecessors": [{"name": "Diskrete_Mathematik", "id": 271747}, {"name": "Informationstheorie", "id": 1073917}, {"name": "Übertragungstechnik", "id": 1615652}], "successors": [{"name": "Binärcode", "id": 2110892}]}

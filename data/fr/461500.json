@@ -1,1 +1,1 @@
-{"name": "Entraîneur_tchèque_de_football", "id": 461500, "predecessors": [{"name": "Métier", "id": 87726}, {"name": "Nomenclature_d'unités_territoriales_statistiques_1", "id": 1078172}], "successors": []}
+{"name": "Entraîneur_tchèque_de_football", "id": 461500, "predecessors": [{"name": "Entraînement_sportif", "id": 895269}, {"name": "Nomenclature_d'unités_territoriales_statistiques_1", "id": 1078172}], "successors": []}

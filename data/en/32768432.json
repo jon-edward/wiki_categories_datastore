@@ -1,1 +1,1 @@
-{"name": "Aircraft_undercarriage", "id": 32768432, "predecessors": [{"name": "Aircraft_components", "id": 2435701}, {"name": "Wheels", "id": 8982003}], "successors": [{"name": "Aircraft_undercarriage_manufacturers", "id": 37990793}]}
+{"name": "Aircraft_undercarriage", "id": 32768432, "predecessors": [{"name": "Aircraft_components", "id": 2435701}], "successors": [{"name": "Aircraft_undercarriage_manufacturers", "id": 37990793}, {"name": "Conventional_landing_gear", "id": 57659597}]}

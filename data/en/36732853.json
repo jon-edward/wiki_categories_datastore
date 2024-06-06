@@ -1,1 +1,1 @@
-{"name": "Extinct_birds_of_North_America", "id": 36732853, "predecessors": [{"name": "Bird_conservation", "id": 23127016}], "successors": [{"name": "Prehistoric_birds_of_North_America", "id": 20027253}, {"name": "Extinct_birds_of_the_Caribbean", "id": 36725487}]}
+{"name": "Extinct_birds_of_North_America", "id": 36732853, "predecessors": [{"name": "Extinct_animals_of_North_America", "id": 14155545}, {"name": "Bird_conservation", "id": 23127016}], "successors": [{"name": "Extinct_birds_of_the_Caribbean", "id": 36725487}]}

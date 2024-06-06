@@ -1,1 +1,1 @@
-{"name": "Stradivari_violins", "id": 17340372, "predecessors": [{"name": "Violins", "id": 1649250}], "successors": []}
+{"name": "Stradivari_violins", "id": 17340372, "predecessors": [{"name": "Stradivari_instruments", "id": 24693863}, {"name": "String_instruments", "id": 691673}], "successors": []}

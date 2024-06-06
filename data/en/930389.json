@@ -1,1 +1,1 @@
-{"name": "Salamanders", "id": 930389, "predecessors": [{"name": "Amphibians", "id": 913144}], "successors": [{"name": "Cave_salamanders", "id": 17273574}, {"name": "Salamandroidea", "id": 23230113}, {"name": "Cryptobranchoidea", "id": 32064591}, {"name": "Sirenoidea", "id": 32064638}, {"name": "Prehistoric_salamanders", "id": 50003380}]}
+{"name": "Salamanders", "id": 930389, "predecessors": [{"name": "Amphibians", "id": 913144}], "successors": [{"name": "Cave_salamanders", "id": 17273574}]}

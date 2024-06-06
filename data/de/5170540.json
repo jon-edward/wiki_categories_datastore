@@ -1,1 +1,1 @@
-{"name": "Freies_Webframework", "id": 5170540, "predecessors": [{"name": "Freies_Programmierwerkzeug", "id": 3396557}, {"name": "Programmbibliothek", "id": 596097}], "successors": [{"name": "Freies_PHP-Webframework", "id": 5172812}]}
+{"name": "Freies_Webframework", "id": 5170540, "predecessors": [{"name": "Freies_Programmierwerkzeug", "id": 3396557}, {"name": "Webframework", "id": 2421826}], "successors": [{"name": "Freies_PHP-Webframework", "id": 5172812}]}

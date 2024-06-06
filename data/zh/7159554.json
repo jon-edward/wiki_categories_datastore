@@ -1,1 +1,1 @@
-{"name": "福岡市地下鐵轉乘車站", "id": 7159554, "predecessors": [{"name": "福岡市交通局", "id": 314564}, {"name": "城市轨道交通", "id": 281040}], "successors": []}
+{"name": "福岡市地下鐵轉乘車站", "id": 7159554, "predecessors": [{"name": "日本鐵路", "id": 219206}, {"name": "鐵路車站", "id": 81216}], "successors": []}

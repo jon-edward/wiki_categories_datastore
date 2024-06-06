@@ -1,1 +1,1 @@
-{"name": "Spacecraft_design", "id": 32722765, "predecessors": [{"name": "Aerospace_engineering", "id": 717565}, {"name": "Design", "id": 999651}, {"name": "Spacecraft", "id": 723329}], "successors": [{"name": "Spacecraft_life_support_systems", "id": 34157451}]}
+{"name": "Spacecraft_design", "id": 32722765, "predecessors": [{"name": "Aerospace_engineering", "id": 717565}, {"name": "Spacecraft", "id": 723329}], "successors": [{"name": "Spacecraft_life_support_systems", "id": 34157451}]}

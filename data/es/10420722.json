@@ -1,1 +1,1 @@
-{"name": "Nacidos_en_Monterrey", "id": 10420722, "predecessors": [{"name": "Monterrey", "id": 198438}, {"name": "Mexicanos", "id": 168599}, {"name": "México", "id": 51473}], "successors": []}
+{"name": "Nacidos_en_Monterrey", "id": 10420722, "predecessors": [{"name": "Monterrey", "id": 198438}, {"name": "Nacidos_en_México", "id": 9140750}], "successors": []}

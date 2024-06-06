@@ -1,1 +1,1 @@
-{"name": "字典", "id": 80786, "predecessors": [{"name": "工具书", "id": 65026}], "successors": [{"name": "字词典编纂者", "id": 599829}, {"name": "汉语字典", "id": 1648430}]}
+{"name": "字典", "id": 80786, "predecessors": [{"name": "语言学", "id": 42488}, {"name": "工具书", "id": 65026}], "successors": [{"name": "字词典编纂者", "id": 599829}, {"name": "汉语字典", "id": 1648430}]}

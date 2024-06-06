@@ -1,1 +1,1 @@
-{"name": "Anti-tank_rounds", "id": 4873722, "predecessors": [{"name": "Projectiles", "id": 1100365}], "successors": []}
+{"name": "Anti-tank_rounds", "id": 4873722, "predecessors": [{"name": "Anti-tank_weapons", "id": 1023638}, {"name": "Projectiles", "id": 1100365}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "설탕", "id": 1193689, "predecessors": [{"name": "감미료", "id": 40397}, {"name": "탄수화물", "id": 40388}], "successors": [{"name": "사탕", "id": 546853}, {"name": "당절이", "id": 3640157}]}
+{"name": "설탕", "id": 1193689, "predecessors": [{"name": "탄수화물", "id": 40388}], "successors": [{"name": "사탕", "id": 546853}, {"name": "당절이", "id": 3640157}]}

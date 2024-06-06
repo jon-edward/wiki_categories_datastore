@@ -1,1 +1,1 @@
-{"name": "검극_영화", "id": 874126, "predecessors": [{"name": "액션_영화", "id": 54507}], "successors": [{"name": "사무라이_영화", "id": 874123}, {"name": "조로_영화", "id": 1884457}]}
+{"name": "검극_영화", "id": 874126, "predecessors": [{"name": "도검", "id": 1314478}, {"name": "영화", "id": 11875}], "successors": []}

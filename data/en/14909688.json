@@ -1,1 +1,1 @@
-{"name": "Earthquake_and_seismic_risk_mitigation", "id": 14909688, "predecessors": [{"name": "Earthquake_engineering", "id": 20416809}], "successors": []}
+{"name": "Earthquake_and_seismic_risk_mitigation", "id": 14909688, "predecessors": [{"name": "Disaster_preparedness", "id": 5047341}, {"name": "Earthquake_engineering", "id": 20416809}, {"name": "Structural_engineering", "id": 1600827}], "successors": []}

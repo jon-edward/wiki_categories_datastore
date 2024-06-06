@@ -1,1 +1,1 @@
-{"name": "한국의_술", "id": 218778, "predecessors": [{"name": "한국의_음료", "id": 218763}, {"name": "음료", "id": 33272}], "successors": []}
+{"name": "한국의_술", "id": 218778, "predecessors": [{"name": "한국의_음료", "id": 218763}, {"name": "음료", "id": 33272}], "successors": [{"name": "한국의_증류주", "id": 555852}, {"name": "전통주", "id": 635219}]}

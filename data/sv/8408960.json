@@ -1,1 +1,1 @@
-{"name": "Fornnordiska_dikter", "id": 8408960, "predecessors": [{"name": "Dikter", "id": 76205}, {"name": "Nordiska_språk", "id": 53519}], "successors": [{"name": "Poetiska_Eddan", "id": 1381407}, {"name": "Rimor", "id": 3893827}, {"name": "Drapor", "id": 4920046}]}
+{"name": "Fornnordiska_dikter", "id": 8408960, "predecessors": [{"name": "Dikter", "id": 76205}, {"name": "Fornnordiska", "id": 4002973}], "successors": [{"name": "Poetiska_Eddan", "id": 1381407}, {"name": "Rimor", "id": 3893827}, {"name": "Drapor", "id": 4920046}]}

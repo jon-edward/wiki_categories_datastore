@@ -1,1 +1,1 @@
-{"name": "Filmes_das_Filipinas", "id": 2819781, "predecessors": [{"name": "Cinema", "id": 15210}], "successors": [{"name": "Filmes_da_Star_Cinema", "id": 4887450}, {"name": "Filmes_de_drama_das_Filipinas", "id": 5605892}]}
+{"name": "Filmes_das_Filipinas", "id": 2819781, "predecessors": [{"name": "Filmes", "id": 14992}, {"name": "Cinema", "id": 15210}], "successors": [{"name": "Filmes_da_Star_Cinema", "id": 4887450}, {"name": "Filmes_de_drama_das_Filipinas", "id": 5605892}]}

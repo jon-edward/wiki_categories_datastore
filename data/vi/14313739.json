@@ -1,1 +1,1 @@
-{"name": "Chương_trình_truyền_hình_hài_kịch_Việt_Nam", "id": 14313739, "predecessors": [{"name": "Chương_trình_truyền_hình_Việt_Nam", "id": 32985}, {"name": "Văn_hóa_Đông_Nam_Á", "id": 65112}], "successors": [{"name": "Phim_truyền_hình_hài_kịch_tình_huống_Việt_Nam", "id": 593088}]}
+{"name": "Chương_trình_truyền_hình_hài_kịch_Việt_Nam", "id": 14313739, "predecessors": [{"name": "Hài_kịch_Việt_Nam", "id": 39971}, {"name": "Chương_trình_truyền_hình_Việt_Nam", "id": 32985}], "successors": [{"name": "Phim_truyền_hình_hài_kịch_tình_huống_Việt_Nam", "id": 593088}]}

@@ -1,1 +1,1 @@
-{"name": "软件开发哲学", "id": 1704287, "predecessors": [{"name": "软件开发", "id": 174360}], "successors": [{"name": "编程原则", "id": 1704286}]}
+{"name": "软件开发哲学", "id": 1704287, "predecessors": [{"name": "技术哲学", "id": 1677246}, {"name": "软件开发", "id": 174360}], "successors": [{"name": "编程原则", "id": 1704286}]}

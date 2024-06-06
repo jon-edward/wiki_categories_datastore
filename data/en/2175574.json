@@ -1,1 +1,1 @@
-{"name": "Procter_&_Gamble_brands", "id": 2175574, "predecessors": [{"name": "Personal_care_brands", "id": 2876174}, {"name": "Procter_&_Gamble", "id": 2872366}], "successors": []}
+{"name": "Procter_&_Gamble_brands", "id": 2175574, "predecessors": [{"name": "Personal_care_brands", "id": 2876174}, {"name": "Procter_&_Gamble", "id": 2872366}, {"name": "Health_care", "id": 35880954}], "successors": [{"name": "Former_Procter_&_Gamble_brands", "id": 5383738}]}

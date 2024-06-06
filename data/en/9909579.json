@@ -1,1 +1,1 @@
-{"name": "Finite_element_method", "id": 9909579, "predecessors": [{"name": "Numerical_differential_equations", "id": 7468858}, {"name": "Structural_analysis", "id": 11036106}], "successors": [{"name": "Domain_decomposition_methods", "id": 16230266}, {"name": "Finite_element_software", "id": 22650817}, {"name": "Mesh_generation", "id": 33784846}]}
+{"name": "Finite_element_method", "id": 9909579, "predecessors": [{"name": "Structural_analysis", "id": 11036106}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "목골조", "id": 1987939, "predecessors": [{"name": "건설", "id": 289085}, {"name": "중세_건축", "id": 693197}], "successors": []}
+{"name": "목골조", "id": 1987939, "predecessors": [{"name": "건설", "id": 289085}, {"name": "목공", "id": 162040}, {"name": "중세_건축", "id": 693197}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Entraîneur_suisse_de_hockey_sur_glace", "id": 2293364, "predecessors": [{"name": "Hockey_sur_glace_en_Suisse", "id": 3659516}, {"name": "Loisir", "id": 977513}, {"name": "Métier", "id": 87726}], "successors": []}
+{"name": "Entraîneur_suisse_de_hockey_sur_glace", "id": 2293364, "predecessors": [{"name": "Hockey_sur_glace_en_Suisse", "id": 3659516}, {"name": "Loisir", "id": 977513}, {"name": "Entraînement_sportif", "id": 895269}], "successors": []}

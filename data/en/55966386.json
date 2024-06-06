@@ -1,1 +1,1 @@
-{"name": "Hybrid_electric_aircraft", "id": 55966386, "predecessors": [{"name": "Electric_aircraft", "id": 16672105}, {"name": "Hybrid_electric_vehicles", "id": 9483010}, {"name": "Aviation", "id": 735378}], "successors": []}
+{"name": "Hybrid_electric_aircraft", "id": 55966386, "predecessors": [{"name": "Electric_aircraft", "id": 16672105}, {"name": "Hybrid_electric_vehicles", "id": 9483010}, {"name": "Aircraft", "id": 694926}], "successors": []}

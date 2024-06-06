@@ -1,1 +1,1 @@
-{"name": "Personer_fra_Aarhus_kommune", "id": 986269, "predecessors": [{"name": "Personer_fra_Jylland", "id": 1781121}, {"name": "Region_Midtjylland", "id": 325359}], "successors": [{"name": "Personer_fra_Aarhus", "id": 1429862}]}
+{"name": "Personer_fra_Aarhus_kommune", "id": 986269, "predecessors": [{"name": "Region_Midtjylland", "id": 325359}, {"name": "Jylland", "id": 1781119}], "successors": [{"name": "Personer_fra_Aarhus", "id": 1429862}]}

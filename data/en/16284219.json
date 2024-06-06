@@ -1,1 +1,1 @@
-{"name": "University_choirs", "id": 16284219, "predecessors": [{"name": "Types_of_musical_groups", "id": 36154947}, {"name": "University_musical_groups", "id": 32509267}], "successors": [{"name": "Collegiate_a_cappella_groups", "id": 2536627}]}
+{"name": "University_choirs", "id": 16284219, "predecessors": [{"name": "Types_of_musical_groups", "id": 36154947}, {"name": "University_musical_groups", "id": 32509267}, {"name": "Student_organizations", "id": 19148468}], "successors": [{"name": "Collegiate_a_cappella_groups", "id": 2536627}]}

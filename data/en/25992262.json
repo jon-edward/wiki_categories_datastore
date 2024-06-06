@@ -1,1 +1,0 @@
-{"name": "NASA_vehicles", "id": 25992262, "predecessors": [{"name": "NASA", "id": 906198}, {"name": "Vehicles", "id": 694929}], "successors": [{"name": "NASA_aircraft", "id": 26346596}, {"name": "NASA_space_launch_vehicles", "id": 36761595}, {"name": "NASA_spacecraft", "id": 50863369}]}

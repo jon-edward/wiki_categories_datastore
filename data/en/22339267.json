@@ -1,1 +1,1 @@
-{"name": "Chordophones", "id": 22339267, "predecessors": [{"name": "Musical_instruments", "id": 691595}, {"name": "Entertainment", "id": 693016}], "successors": [{"name": "String_instruments", "id": 691673}]}
+{"name": "Chordophones", "id": 22339267, "predecessors": [{"name": "Musical_instruments", "id": 691595}, {"name": "Entertainment", "id": 693016}], "successors": [{"name": "String_instruments", "id": 691673}, {"name": "Composite_chordophones", "id": 1341946}, {"name": "Zithers", "id": 1342833}]}

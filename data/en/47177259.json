@@ -1,1 +1,1 @@
-{"name": "Antigens", "id": 47177259, "predecessors": [{"name": "Biomolecules", "id": 11662086}, {"name": "Immunology", "id": 804899}], "successors": [{"name": "Autoantigens", "id": 12521390}, {"name": "Macrophages", "id": 3116099}]}
+{"name": "Antigens", "id": 47177259, "predecessors": [{"name": "Biomolecules", "id": 11662086}, {"name": "Immunology", "id": 804899}], "successors": [{"name": "Autoantigens", "id": 12521390}]}

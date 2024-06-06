@@ -1,1 +1,1 @@
-{"name": "여자_축구_심판", "id": 2526017, "predecessors": [{"name": "스포츠_관련_직업", "id": 274212}], "successors": []}
+{"name": "여자_축구_심판", "id": 2526017, "predecessors": [{"name": "여자_축구", "id": 226946}], "successors": []}

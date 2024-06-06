@@ -1,1 +1,1 @@
-{"name": "Deaths_from_asthma", "id": 3970415, "predecessors": [{"name": "Asthma", "id": 1406904}, {"name": "Deaths_from_asphyxiation", "id": 19630507}, {"name": "Respiratory_diseases", "id": 19827264}], "successors": []}
+{"name": "Deaths_from_asthma", "id": 3970415, "predecessors": [{"name": "Asthma", "id": 1406904}, {"name": "Respiratory_diseases", "id": 19827264}], "successors": []}

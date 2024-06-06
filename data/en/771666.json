@@ -1,1 +1,1 @@
-{"name": "Carrier-based_aircraft", "id": 771666, "predecessors": [{"name": "Naval_aviation", "id": 7491044}], "successors": []}
+{"name": "Carrier-based_aircraft", "id": 771666, "predecessors": [{"name": "Naval_aviation", "id": 7491044}, {"name": "Aircraft_by_type", "id": 4749432}], "successors": []}

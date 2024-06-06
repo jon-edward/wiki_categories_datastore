@@ -1,1 +1,1 @@
-{"name": "有机氯杀虫剂", "id": 1644152, "predecessors": [{"name": "持久性有機污染物", "id": 1077739}, {"name": "有机氯化合物", "id": 789283}, {"name": "杀虫剂", "id": 492011}], "successors": []}
+{"name": "有机氯杀虫剂", "id": 1644152, "predecessors": [{"name": "杀虫剂", "id": 492011}], "successors": []}

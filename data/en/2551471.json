@@ -1,1 +1,1 @@
-{"name": "Stadium_disasters", "id": 2551471, "predecessors": [{"name": "Stadiums", "id": 712393}, {"name": "Human_behavior", "id": 2524202}, {"name": "Culture", "id": 694861}], "successors": [{"name": "Hillsborough_disaster", "id": 37008856}]}
+{"name": "Stadium_disasters", "id": 2551471, "predecessors": [{"name": "Stadiums", "id": 712393}, {"name": "Disasters", "id": 745842}, {"name": "Sports_venues", "id": 3826004}], "successors": [{"name": "Hillsborough_disaster", "id": 37008856}]}

@@ -1,1 +1,1 @@
-{"name": "Weather_radars", "id": 5359815, "predecessors": [{"name": "Meteorological_instrumentation_and_equipment", "id": 4014775}, {"name": "Radar_meteorology", "id": 16691192}], "successors": [{"name": "National_Weather_Service_weather_radars", "id": 64282474}]}
+{"name": "Weather_radars", "id": 5359815, "predecessors": [{"name": "Radar_meteorology", "id": 16691192}], "successors": []}

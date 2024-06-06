@@ -1,1 +1,1 @@
-{"name": "羟基醛", "id": 6507938, "predecessors": [{"name": "醇", "id": 43570}, {"name": "醛", "id": 43694}], "successors": []}
+{"name": "羟基醛", "id": 6507938, "predecessors": [{"name": "醇", "id": 43570}, {"name": "官能团", "id": 157518}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Business_process_modelling", "id": 46182886, "predecessors": [{"name": "Business_process_management", "id": 24925024}, {"name": "Management_cybernetics", "id": 72773584}], "successors": []}
+{"name": "Business_process_modelling", "id": 46182886, "predecessors": [{"name": "Business_process_management", "id": 24925024}, {"name": "Enterprise_modelling", "id": 12121314}, {"name": "Management_cybernetics", "id": 72773584}], "successors": []}

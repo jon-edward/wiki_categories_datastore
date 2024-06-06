@@ -1,1 +1,1 @@
-{"name": "Stock_and_commodity_market_managers", "id": 3127282, "predecessors": [{"name": "Commodity_markets", "id": 42311854}, {"name": "Money_managers", "id": 1139714}, {"name": "Stock_market", "id": 988245}], "successors": []}
+{"name": "Stock_and_commodity_market_managers", "id": 3127282, "predecessors": [{"name": "Money_managers", "id": 1139714}], "successors": []}

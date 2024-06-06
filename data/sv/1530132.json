@@ -1,1 +1,1 @@
-{"name": "Tyska_konsthantverkare", "id": 1530132, "predecessors": [{"name": "Jorden", "id": 227559}, {"name": "Konsthantverk", "id": 705195}], "successors": [{"name": "Tyska_guldsmeder", "id": 1143608}, {"name": "Tyska_keramiker", "id": 3890189}]}
+{"name": "Tyska_konsthantverkare", "id": 1530132, "predecessors": [{"name": "Tyska_konstnärer", "id": 58505}, {"name": "Konsthantverk", "id": 705195}], "successors": [{"name": "Tyska_guldsmeder", "id": 1143608}, {"name": "Tyska_keramiker", "id": 3890189}]}

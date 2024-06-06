@@ -1,1 +1,1 @@
-{"name": "Bandy", "id": 6372530, "predecessors": [{"name": "Deportes_de_invierno", "id": 186701}, {"name": "Deportes_de_pelota", "id": 187024}], "successors": []}
+{"name": "Bandy", "id": 6372530, "predecessors": [{"name": "Deportes_de_equipo", "id": 101766}, {"name": "Deportes_de_invierno", "id": 186701}, {"name": "Deportes_de_pelota", "id": 187024}], "successors": []}

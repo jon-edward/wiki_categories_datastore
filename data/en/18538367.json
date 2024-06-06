@@ -1,1 +1,1 @@
-{"name": "Automotive_software", "id": 18538367, "predecessors": [{"name": "Automotive_technologies", "id": 859604}], "successors": [{"name": "Driving_simulators", "id": 28092428}, {"name": "Android_Auto_software", "id": 55189631}]}
+{"name": "Automotive_software", "id": 18538367, "predecessors": [{"name": "Automotive_technologies", "id": 859604}, {"name": "Embedded_systems", "id": 852879}, {"name": "Firmware", "id": 3232463}], "successors": [{"name": "Driving_simulators", "id": 28092428}, {"name": "Android_Auto_software", "id": 55189631}]}

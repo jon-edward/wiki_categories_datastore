@@ -1,1 +1,1 @@
-{"name": "圣经解经", "id": 6981789, "predecessors": [{"name": "圣经", "id": 59738}], "successors": [{"name": "圣经评论家", "id": 6981787}]}
+{"name": "圣经解经", "id": 6981789, "predecessors": [{"name": "圣经", "id": 59738}, {"name": "解釋學", "id": 3053505}], "successors": [{"name": "圣经评论家", "id": 6981787}]}

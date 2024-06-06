@@ -1,1 +1,1 @@
-{"name": "防火墙软件", "id": 519735, "predecessors": [{"name": "安全软件", "id": 871803}, {"name": "网络软件", "id": 181101}], "successors": []}
+{"name": "防火墙软件", "id": 519735, "predecessors": [{"name": "安全软件", "id": 871803}], "successors": []}

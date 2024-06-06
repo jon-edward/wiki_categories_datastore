@@ -1,1 +1,1 @@
-{"name": "Profit", "id": 1754839, "predecessors": [{"name": "Capital_management", "id": 74274616}, {"name": "Financial_statements", "id": 16616179}], "successors": [{"name": "Non-profit_organizations", "id": 44988149}]}
+{"name": "Profit", "id": 1754839, "predecessors": [{"name": "Capital_management", "id": 74274616}, {"name": "Factor_income_distribution", "id": 7514254}], "successors": [{"name": "Non-profit_organizations", "id": 44988149}]}

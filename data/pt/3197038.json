@@ -1,1 +1,1 @@
-{"name": "Filmes_da_Venezuela", "id": 3197038, "predecessors": [{"name": "Cinema", "id": 15210}, {"name": "Cinema_da_América_Latina", "id": 2415943}], "successors": [{"name": "Filmes_de_drama_da_Venezuela", "id": 4994549}]}
+{"name": "Filmes_da_Venezuela", "id": 3197038, "predecessors": [{"name": "Filmes", "id": 14992}, {"name": "Cinema_da_América_Latina", "id": 2415943}], "successors": [{"name": "Filmes_de_drama_da_Venezuela", "id": 4994549}]}

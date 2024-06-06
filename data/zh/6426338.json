@@ -1,1 +1,1 @@
-{"name": "锰-氧化合物", "id": 6426338, "predecessors": [{"name": "氧化合物", "id": 589990}, {"name": "锰化合物", "id": 702778}, {"name": "化合物", "id": 41507}], "successors": [{"name": "高锰酸盐", "id": 697128}]}
+{"name": "锰-氧化合物", "id": 6426338, "predecessors": [{"name": "氧化合物", "id": 589990}], "successors": [{"name": "高锰酸盐", "id": 697128}]}

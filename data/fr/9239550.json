@@ -1,1 +1,1 @@
-{"name": "Étudiant_de_l'université_polytechnique_de_Madrid", "id": 9239550, "predecessors": [{"name": "Université_en_Espagne", "id": 486333}, {"name": "Enseignement_supérieur_à_Madrid", "id": 7366899}], "successors": []}
+{"name": "Étudiant_de_l'université_polytechnique_de_Madrid", "id": 9239550, "predecessors": [{"name": "Enseignement_supérieur_à_Madrid", "id": 7366899}, {"name": "Enseignement_en_Espagne", "id": 589069}], "successors": []}

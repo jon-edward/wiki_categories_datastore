@@ -1,1 +1,1 @@
-{"name": "Jeep", "id": 896963, "predecessors": [{"name": "Stellantis", "id": 66410550}, {"name": "Vehicle_manufacturing_companies_established_in_1945", "id": 48987640}], "successors": [{"name": "Jeep_vehicles", "id": 895105}, {"name": "Jeep_engines", "id": 940463}]}
+{"name": "Jeep", "id": 896963, "predecessors": [{"name": "Stellantis", "id": 66410550}, {"name": "Vehicle_manufacturing_companies_established_in_1945", "id": 48987640}], "successors": [{"name": "Jeep_vehicles", "id": 895105}, {"name": "Jeep_engines", "id": 940463}, {"name": "Jeep_platforms", "id": 1162883}]}

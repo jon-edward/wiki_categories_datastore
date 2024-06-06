@@ -1,1 +1,1 @@
-{"name": "Food_labelling", "id": 67098623, "predecessors": [{"name": "Consumer_protection", "id": 14338109}, {"name": "Food_law", "id": 3672100}, {"name": "Food_packaging", "id": 42442453}, {"name": "Labels", "id": 54320014}], "successors": []}
+{"name": "Food_labelling", "id": 67098623, "predecessors": [{"name": "Consumer_protection", "id": 14338109}, {"name": "Food_law", "id": 3672100}, {"name": "Food_packaging", "id": 42442453}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Maustekasvit", "id": 909264, "predecessors": [{"name": "Ihmisravinnoksi_käytetyt_kasvit", "id": 921443}, {"name": "Mausteet", "id": 24970}, {"name": "Viljelyskasvit", "id": 18789}], "successors": [{"name": "Yrtit", "id": 47708}, {"name": "Paprikat", "id": 56232}]}
+{"name": "Maustekasvit", "id": 909264, "predecessors": [{"name": "Ihmisravinnoksi_käytetyt_kasvit", "id": 921443}, {"name": "Mausteet", "id": 24970}, {"name": "Viljelyskasvit", "id": 18789}], "successors": [{"name": "Yrtit", "id": 47708}]}

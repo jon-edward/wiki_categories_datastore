@@ -1,1 +1,1 @@
-{"name": "교통법", "id": 659059, "predecessors": [{"name": "교통", "id": 11844}], "successors": [{"name": "해양법", "id": 541905}]}
+{"name": "교통법", "id": 659059, "predecessors": [{"name": "교통", "id": 11844}, {"name": "행정법", "id": 247238}], "successors": [{"name": "항공법", "id": 939275}]}

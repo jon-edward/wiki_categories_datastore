@@ -1,1 +1,1 @@
-{"name": "双线性算子", "id": 1129684, "predecessors": [{"name": "二元運算", "id": 404458}], "successors": []}
+{"name": "双线性算子", "id": 1129684, "predecessors": [{"name": "二元運算", "id": 404458}, {"name": "多重线性代数", "id": 920505}, {"name": "线性算子", "id": 1129683}], "successors": [{"name": "双线性形式", "id": 923492}]}

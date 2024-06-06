@@ -1,1 +1,1 @@
-{"name": "電子音樂軟體", "id": 3887918, "predecessors": [{"name": "電子音樂", "id": 55512}, {"name": "音樂軟件", "id": 628580}], "successors": [{"name": "音樂遊戲", "id": 573269}]}
+{"name": "電子音樂軟體", "id": 3887918, "predecessors": [{"name": "電子音樂", "id": 55512}, {"name": "音樂軟件", "id": 628580}], "successors": [{"name": "音樂遊戲", "id": 573269}, {"name": "MIDI", "id": 836904}]}

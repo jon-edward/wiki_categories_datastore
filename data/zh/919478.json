@@ -1,1 +1,1 @@
-{"name": "数值微分方程", "id": 919478, "predecessors": [{"name": "数值分析", "id": 98294}], "successors": []}
+{"name": "数值微分方程", "id": 919478, "predecessors": [{"name": "微分方程", "id": 83457}, {"name": "数值分析", "id": 98294}], "successors": []}

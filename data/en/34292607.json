@@ -1,1 +1,1 @@
-{"name": "Mobile_software_development", "id": 34292607, "predecessors": [{"name": "Software_development", "id": 1470317}], "successors": [{"name": "Mobile_software_programming_tools", "id": 34292339}]}
+{"name": "Mobile_software_development", "id": 34292607, "predecessors": [{"name": "Mobile_software", "id": 10473202}, {"name": "Software_development", "id": 1470317}], "successors": [{"name": "Mobile_software_programming_tools", "id": 34292339}]}

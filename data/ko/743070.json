@@ -1,1 +1,1 @@
-{"name": "풍자가", "id": 743070, "predecessors": [{"name": "풍자", "id": 430439}, {"name": "연예인", "id": 272426}, {"name": "해학", "id": 80882}], "successors": [{"name": "풍자_만화가", "id": 743039}]}
+{"name": "풍자가", "id": 743070, "predecessors": [{"name": "연예인", "id": 272426}, {"name": "해학", "id": 80882}], "successors": [{"name": "풍자_만화가", "id": 743039}]}

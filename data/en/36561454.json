@@ -1,1 +1,1 @@
-{"name": "FK_TSC_players", "id": 36561454, "predecessors": [{"name": "Football_clubs_in_Serbia", "id": 34432988}], "successors": []}
+{"name": "FK_TSC_players", "id": 36561454, "predecessors": [{"name": "Football_clubs_in_Serbia", "id": 34432988}, {"name": "Team_sports", "id": 700681}], "successors": []}

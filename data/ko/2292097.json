@@ -1,0 +1,1 @@
+{"name": "운영_체제_API", "id": 2292097, "predecessors": [{"name": "API", "id": 74093}, {"name": "운영체제_기술", "id": 48491}], "successors": [{"name": "마이크로소프트_API", "id": 89065}, {"name": "MacOS_API", "id": 953839}, {"name": "POSIX", "id": 1096702}, {"name": "자바_API", "id": 1743566}, {"name": "윈도우_API", "id": 2623634}, {"name": "리눅스_API", "id": 3051617}]}

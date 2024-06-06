@@ -1,1 +1,1 @@
-{"name": "Saksalaiset_elinkautisvangit", "id": 405790, "predecessors": [{"name": "Saksalaiset_henkilöt", "id": 124523}, {"name": "Elinkautisvangit", "id": 197531}], "successors": []}
+{"name": "Saksalaiset_elinkautisvangit", "id": 405790, "predecessors": [{"name": "Elinkautisvangit", "id": 197531}, {"name": "Saksalaiset_henkilöt", "id": 124523}], "successors": []}

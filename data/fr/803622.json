@@ -1,1 +1,1 @@
-{"name": "Film_de_Miramax", "id": 803622, "predecessors": [{"name": "Entreprise_du_cinéma", "id": 2213312}], "successors": [{"name": "Film_de_Dimension_Films", "id": 803620}, {"name": "Film_distribué_par_Miramax", "id": 12946669}]}
+{"name": "Film_de_Miramax", "id": 803622, "predecessors": [{"name": "Société_de_production_de_cinéma", "id": 353660}], "successors": [{"name": "Film_de_Dimension_Films", "id": 803620}, {"name": "Film_distribué_par_Miramax", "id": 12946669}]}

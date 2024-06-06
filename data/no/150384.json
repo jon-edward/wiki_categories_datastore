@@ -1,1 +1,1 @@
-{"name": "Gitarprodusenter", "id": 150384, "predecessors": [{"name": "Gitarer", "id": 150385}, {"name": "Industriselskaper", "id": 72278}], "successors": [{"name": "Gibson", "id": 231020}, {"name": "ESP_Guitars", "id": 293584}, {"name": "Fender", "id": 955472}]}
+{"name": "Gitarprodusenter", "id": 150384, "predecessors": [{"name": "Gitarer", "id": 150385}, {"name": "Industriselskaper", "id": 72278}], "successors": [{"name": "Gibson", "id": 231020}, {"name": "ESP_Guitars", "id": 293584}]}

@@ -1,1 +1,1 @@
-{"name": "Chess_in_Switzerland", "id": 11333163, "predecessors": [{"name": "Chess", "id": 691713}, {"name": "Sport_in_Switzerland", "id": 3058759}], "successors": [{"name": "Swiss_chess_players", "id": 2086335}]}
+{"name": "Chess_in_Switzerland", "id": 11333163, "predecessors": [{"name": "Sport_in_Switzerland", "id": 3058759}, {"name": "Board_games", "id": 9205892}], "successors": [{"name": "Swiss_chess_players", "id": 2086335}]}

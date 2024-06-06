@@ -1,1 +1,1 @@
-{"name": "Plant_sexuality", "id": 11612303, "predecessors": [{"name": "Sexuality", "id": 805431}], "successors": [{"name": "Flowers", "id": 713989}, {"name": "Pollination", "id": 3356737}, {"name": "Dioecious_plants", "id": 29617620}]}
+{"name": "Plant_sexuality", "id": 11612303, "predecessors": [{"name": "Plant_reproduction", "id": 4282373}], "successors": [{"name": "Flowers", "id": 713989}, {"name": "Pollination", "id": 3356737}]}

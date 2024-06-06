@@ -1,1 +1,1 @@
-{"name": "Food_processing_disasters", "id": 70716853, "predecessors": [{"name": "Food_processing", "id": 39100244}, {"name": "Human_behavior", "id": 2524202}, {"name": "Environmental_justice", "id": 24946983}], "successors": []}
+{"name": "Food_processing_disasters", "id": 70716853, "predecessors": [{"name": "Food_processing", "id": 39100244}, {"name": "Disasters", "id": 745842}, {"name": "Accidents", "id": 4523546}], "successors": []}

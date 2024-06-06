@@ -1,1 +1,1 @@
-{"name": "Bicycle_wheels", "id": 41623127, "predecessors": [{"name": "Bicycle_parts", "id": 1189830}, {"name": "Wheels", "id": 8982003}], "successors": []}
+{"name": "Bicycle_wheels", "id": 41623127, "predecessors": [{"name": "Bicycle_parts", "id": 1189830}], "successors": []}

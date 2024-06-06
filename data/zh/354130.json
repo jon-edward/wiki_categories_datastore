@@ -1,1 +1,1 @@
-{"name": "微粒", "id": 354130, "predecessors": [{"name": "微粒", "id": 354130}, {"name": "大气光学现象", "id": 508097}], "successors": [{"name": "烟", "id": 1774030}, {"name": "微粒", "id": 354130}]}
+{"name": "微粒", "id": 354130, "predecessors": [{"name": "化学工程", "id": 58059}, {"name": "大气光学现象", "id": 508097}], "successors": []}

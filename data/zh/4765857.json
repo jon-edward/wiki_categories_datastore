@@ -1,1 +1,1 @@
-{"name": "台灣飛行員", "id": 4765857, "predecessors": [{"name": "航空職業", "id": 760930}, {"name": "初等几何", "id": 705306}, {"name": "航空", "id": 81361}], "successors": []}
+{"name": "台灣飛行員", "id": 4765857, "predecessors": [{"name": "航空", "id": 81361}, {"name": "大洲", "id": 41476}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Mono_(software)", "id": 34958999, "predecessors": [{"name": ".NET", "id": 44540431}], "successors": [{"name": "Software_that_uses_Mono_(software)", "id": 42427038}]}
+{"name": "Mono_(software)", "id": 34958999, "predecessors": [{"name": "Common_Language_Infrastructure", "id": 42453136}], "successors": [{"name": "Software_that_uses_Mono_(software)", "id": 42427038}]}

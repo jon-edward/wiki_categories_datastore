@@ -1,1 +1,1 @@
-{"name": "Pollination", "id": 3356737, "predecessors": [{"name": "Flowers", "id": 713989}, {"name": "Horticulture", "id": 2213176}, {"name": "Plant_sexuality", "id": 11612303}], "successors": [{"name": "Pollination_management", "id": 3551880}]}
+{"name": "Pollination", "id": 3356737, "predecessors": [{"name": "Flowers", "id": 713989}, {"name": "Horticulture", "id": 2213176}, {"name": "Plant_reproduction", "id": 4282373}, {"name": "Plant_sexuality", "id": 11612303}], "successors": [{"name": "Pollination_management", "id": 3551880}]}

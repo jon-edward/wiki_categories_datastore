@@ -1,1 +1,1 @@
-{"name": "Plants_used_in_bonsai", "id": 18377694, "predecessors": [{"name": "Bonsai", "id": 12683961}], "successors": [{"name": "Cherry_blossom", "id": 31228420}]}
+{"name": "Plants_used_in_bonsai", "id": 18377694, "predecessors": [{"name": "Bonsai", "id": 12683961}, {"name": "Ornamental_trees", "id": 15528654}], "successors": [{"name": "Cherry_blossom", "id": 31228420}]}

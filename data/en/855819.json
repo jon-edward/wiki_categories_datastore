@@ -1,1 +1,1 @@
-{"name": "Beta-adrenergic_agonists", "id": 855819, "predecessors": [{"name": "Bronchodilators", "id": 1062825}, {"name": "Catecholamines", "id": 717834}, {"name": "Receptor_agonists", "id": 22002801}], "successors": [{"name": "Beta2-adrenergic_agonists", "id": 39068534}]}
+{"name": "Beta-adrenergic_agonists", "id": 855819, "predecessors": [{"name": "Catecholamines", "id": 717834}, {"name": "Sympathomimetics", "id": 2974680}, {"name": "Adrenergic_receptors", "id": 14327629}], "successors": [{"name": "Beta2-adrenergic_agonists", "id": 39068534}]}

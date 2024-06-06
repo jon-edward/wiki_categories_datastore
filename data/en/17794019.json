@@ -1,1 +1,1 @@
-{"name": "Windsurfing_equipment", "id": 17794019, "predecessors": [{"name": "Sailing_equipment", "id": 17793973}], "successors": []}
+{"name": "Windsurfing_equipment", "id": 17794019, "predecessors": [{"name": "Sailing_equipment", "id": 17793973}, {"name": "Surfing_equipment", "id": 27835695}, {"name": "Windsurfing", "id": 2078868}], "successors": [{"name": "Sailors_at_the_1988_Summer_Olympics_–_Division_II", "id": 41891621}]}

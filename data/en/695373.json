@@ -1,1 +1,1 @@
-{"name": "Macrolide_antibiotics", "id": 695373, "predecessors": [{"name": "Macrolides", "id": 18149863}], "successors": []}
+{"name": "Macrolide_antibiotics", "id": 695373, "predecessors": [{"name": "Macrolides", "id": 18149863}, {"name": "Polyketide_antibiotics", "id": 1590613}], "successors": []}

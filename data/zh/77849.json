@@ -1,1 +1,1 @@
-{"name": "钓鱼", "id": 77849, "predecessors": [{"name": "生存技巧", "id": 1609808}], "successors": []}
+{"name": "钓鱼", "id": 77849, "predecessors": [{"name": "捕鱼", "id": 6069173}, {"name": "生存技巧", "id": 1609808}], "successors": []}

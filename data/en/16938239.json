@@ -1,1 +1,1 @@
-{"name": "Yorkshire_cuisine", "id": 16938239, "predecessors": [{"name": "English_cuisine", "id": 3342417}], "successors": [{"name": "Restaurants_in_Yorkshire", "id": 38455274}, {"name": "Breweries_in_Yorkshire", "id": 39850984}]}
+{"name": "Yorkshire_cuisine", "id": 16938239, "predecessors": [{"name": "English_cuisine", "id": 3342417}, {"name": "Yorkshire_culture", "id": 32775648}], "successors": [{"name": "Restaurants_in_Yorkshire", "id": 38455274}, {"name": "Breweries_in_Yorkshire", "id": 39850984}]}

@@ -1,1 +1,1 @@
-{"name": "تمهن", "id": 2791145, "predecessors": [{"name": "تعليم_بديل", "id": 344703}], "successors": []}
+{"name": "تمهن", "id": 2791145, "predecessors": [{"name": "تعليم_بديل", "id": 344703}, {"name": "تعليم_مهني", "id": 2506553}], "successors": []}

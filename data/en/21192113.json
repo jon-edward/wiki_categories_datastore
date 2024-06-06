@@ -1,1 +1,1 @@
-{"name": "Clothing_by_material", "id": 21192113, "predecessors": [{"name": "Clothing", "id": 737090}, {"name": "Textiles", "id": 918950}], "successors": [{"name": "Leather_clothing", "id": 21192784}]}
+{"name": "Clothing_by_material", "id": 21192113, "predecessors": [{"name": "Materials", "id": 722279}], "successors": [{"name": "Knitted_garments", "id": 11698470}, {"name": "Leather_clothing", "id": 21192784}, {"name": "Woolen_clothing", "id": 31401295}]}

@@ -1,1 +1,1 @@
-{"name": "이중성", "id": 82324, "predecessors": [{"name": "다중성", "id": 191521}], "successors": [{"name": "쌍성", "id": 82323}]}
+{"name": "이중성", "id": 82324, "predecessors": [{"name": "2", "id": 1426155}, {"name": "다중성", "id": 191521}], "successors": [{"name": "쌍성", "id": 82323}]}

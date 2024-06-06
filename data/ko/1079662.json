@@ -1,1 +1,1 @@
-{"name": "가장_많이_팔린_음반_목록", "id": 1079662, "predecessors": [{"name": "베스트셀러", "id": 877951}, {"name": "음반_목록", "id": 104170}], "successors": []}
+{"name": "가장_많이_팔린_음반_목록", "id": 1079662, "predecessors": [{"name": "음반_목록", "id": 104170}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "通信衛星營運商", "id": 7791716, "predecessors": [{"name": "人造衛星", "id": 65918}], "successors": []}
+{"name": "通信衛星營運商", "id": 7791716, "predecessors": [{"name": "通信公司", "id": 107437}, {"name": "国际电信", "id": 8193139}], "successors": [{"name": "完美天空JSAT集团", "id": 7120058}]}

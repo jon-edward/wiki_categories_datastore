@@ -1,1 +1,1 @@
-{"name": "자외선_차단제", "id": 3673410, "predecessors": [{"name": "일광욕", "id": 775817}, {"name": "화학_물질", "id": 31628}], "successors": []}
+{"name": "자외선_차단제", "id": 3673410, "predecessors": [{"name": "일광욕", "id": 775817}, {"name": "화장품_화학물질", "id": 3197446}, {"name": "화학_물질", "id": 31628}], "successors": []}

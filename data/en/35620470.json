@@ -1,1 +1,1 @@
-{"name": "Public_consultations", "id": 35620470, "predecessors": [{"name": "Polling", "id": 1821086}, {"name": "Public_policy", "id": 19025271}, {"name": "Employment", "id": 1798901}], "successors": [{"name": "Citizens'_assemblies", "id": 51180653}]}
+{"name": "Public_consultations", "id": 35620470, "predecessors": [{"name": "Polling", "id": 1821086}, {"name": "Public_policy", "id": 19025271}], "successors": [{"name": "Citizens'_assemblies", "id": 51180653}]}

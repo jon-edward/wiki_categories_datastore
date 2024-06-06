@@ -1,1 +1,1 @@
-{"name": "Bridge_disasters_caused_by_warfare", "id": 32213989, "predecessors": [{"name": "Attacks_on_bridges", "id": 63634162}], "successors": []}
+{"name": "Bridge_disasters_caused_by_warfare", "id": 32213989, "predecessors": [{"name": "Attacks_on_bridges", "id": 63634162}, {"name": "Disasters", "id": 745842}], "successors": []}

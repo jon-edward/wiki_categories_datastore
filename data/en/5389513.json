@@ -1,1 +1,1 @@
-{"name": "Social_choice_theory", "id": 5389513, "predecessors": [{"name": "Group_decision-making", "id": 51605359}, {"name": "Analysis", "id": 25448614}], "successors": [{"name": "Voting_theory", "id": 1182175}]}
+{"name": "Social_choice_theory", "id": 5389513, "predecessors": [{"name": "Group_decision-making", "id": 51605359}, {"name": "Public_economics", "id": 4826313}, {"name": "Analysis", "id": 25448614}], "successors": [{"name": "Voting_theory", "id": 1182175}]}

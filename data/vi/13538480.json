@@ -1,1 +1,1 @@
-{"name": "Thiết_bị_điện_tử_phần_cứng_mở", "id": 13538480, "predecessors": [{"name": "Điện_tử_học", "id": 4950}, {"name": "Phần_cứng", "id": 17721}], "successors": []}
+{"name": "Thiết_bị_điện_tử_phần_cứng_mở", "id": 13538480, "predecessors": [{"name": "Phần_cứng_nguồn_mở", "id": 13744184}, {"name": "Điện_tử_học", "id": 4950}], "successors": []}

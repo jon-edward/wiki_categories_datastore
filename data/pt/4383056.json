@@ -1,1 +1,1 @@
-{"name": "Filmes_baseados_em_artigos_de_jornais_e_revistas", "id": 4383056, "predecessors": [{"name": "Jornais", "id": 40103}, {"name": "Revistas", "id": 40104}, {"name": "Cinema", "id": 15210}], "successors": []}
+{"name": "Filmes_baseados_em_artigos_de_jornais_e_revistas", "id": 4383056, "predecessors": [{"name": "Jornais", "id": 40103}, {"name": "Revistas", "id": 40104}, {"name": "Filmes", "id": 14992}], "successors": []}

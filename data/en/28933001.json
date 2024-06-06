@@ -1,1 +1,1 @@
-{"name": "Recycling_by_material", "id": 28933001, "predecessors": [{"name": "Artificial_materials", "id": 51591971}, {"name": "Recycling", "id": 2119852}], "successors": [{"name": "Recycled_building_materials", "id": 28102199}, {"name": "Recycling_by_product", "id": 28854994}]}
+{"name": "Recycling_by_material", "id": 28933001, "predecessors": [{"name": "Recycling", "id": 2119852}, {"name": "Materials", "id": 722279}], "successors": [{"name": "Recycled_building_materials", "id": 28102199}, {"name": "Recycling_by_product", "id": 28854994}]}

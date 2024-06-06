@@ -1,1 +1,1 @@
-{"name": "Salmonellosis", "id": 33254566, "predecessors": [{"name": "Animal_bacterial_diseases", "id": 48682499}, {"name": "Intestinal_infectious_diseases", "id": 27036920}], "successors": [{"name": "Typhoid_fever", "id": 39288015}]}
+{"name": "Salmonellosis", "id": 33254566, "predecessors": [{"name": "Animal_bacterial_diseases", "id": 48682499}, {"name": "Foodborne_illnesses", "id": 1081967}, {"name": "Intestinal_infectious_diseases", "id": 27036920}], "successors": [{"name": "Typhoid_fever", "id": 39288015}]}

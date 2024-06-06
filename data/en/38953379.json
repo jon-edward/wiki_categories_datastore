@@ -1,1 +1,1 @@
-{"name": "Cars_powered_by_gas_turbines", "id": 38953379, "predecessors": [{"name": "Car_models", "id": 13698345}], "successors": []}
+{"name": "Cars_powered_by_gas_turbines", "id": 38953379, "predecessors": [{"name": "Gas_turbines", "id": 2077993}, {"name": "Car_models", "id": 13698345}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "MSX_games", "id": 729526, "predecessors": [{"name": "MSX", "id": 3412596}, {"name": "Microsoft", "id": 695113}], "successors": [{"name": "MSX_game_covers", "id": 5581066}, {"name": "Screenshots_of_MSX_games", "id": 27336146}]}
+{"name": "MSX_games", "id": 729526, "predecessors": [{"name": "MSX", "id": 3412596}], "successors": [{"name": "MSX_game_covers", "id": 5581066}, {"name": "Screenshots_of_MSX_games", "id": 27336146}]}

@@ -1,1 +1,1 @@
-{"name": "驾驶执照", "id": 5247594, "predecessors": [{"name": "汽車安全", "id": 1600449}, {"name": "安全", "id": 256369}], "successors": []}
+{"name": "驾驶执照", "id": 5247594, "predecessors": [{"name": "汽車安全", "id": 1600449}, {"name": "证件", "id": 78290}, {"name": "安全", "id": 256369}], "successors": []}

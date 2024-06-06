@@ -1,1 +1,1 @@
-{"name": "2-in-1_PCs", "id": 43857192, "predecessors": [{"name": "Laptops", "id": 705508}, {"name": "Tablet_computers", "id": 26588084}], "successors": []}
+{"name": "2-in-1_PCs", "id": 43857192, "predecessors": [{"name": "Laptops", "id": 705508}, {"name": "Tablet_computers", "id": 26588084}, {"name": "Classes_of_computers", "id": 2071681}], "successors": []}

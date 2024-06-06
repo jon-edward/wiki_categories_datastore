@@ -1,1 +1,1 @@
-{"name": "郵局", "id": 7524989, "predecessors": [{"name": "各類建築物", "id": 3249538}, {"name": "邮政", "id": 77825}], "successors": [{"name": "臺灣郵局", "id": 7524997}]}
+{"name": "郵局", "id": 7524989, "predecessors": [{"name": "邮政", "id": 77825}], "successors": [{"name": "臺灣郵局", "id": 7524997}]}

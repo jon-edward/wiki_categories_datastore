@@ -1,1 +1,1 @@
-{"name": "Serotonin_receptor_antagonists", "id": 18566606, "predecessors": [{"name": "Receptor_antagonists", "id": 11603042}], "successors": []}
+{"name": "Serotonin_receptor_antagonists", "id": 18566606, "predecessors": [{"name": "Receptor_antagonists", "id": 11603042}, {"name": "Serotonin_receptors", "id": 53679227}], "successors": [{"name": "5-HT3_antagonists", "id": 1167363}]}

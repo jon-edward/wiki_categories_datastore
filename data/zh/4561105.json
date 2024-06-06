@@ -1,1 +1,1 @@
-{"name": "IR石川鐵道車站", "id": 4561105, "predecessors": [{"name": "北陸本線車站", "id": 5648691}], "successors": []}
+{"name": "IR石川鐵道車站", "id": 4561105, "predecessors": [{"name": "北陸本線車站", "id": 5648691}, {"name": "日本鐵路公司", "id": 489668}, {"name": "日本鐵路", "id": 219206}, {"name": "鐵路車站", "id": 81216}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Dormant_volcanoes", "id": 12007234, "predecessors": [{"name": "Holocene_volcanoes", "id": 22586066}, {"name": "Inactive_volcanoes", "id": 22967972}, {"name": "Volcanoes", "id": 693788}], "successors": [{"name": "Milos", "id": 30083208}]}
+{"name": "Dormant_volcanoes", "id": 12007234, "predecessors": [{"name": "Holocene_volcanoes", "id": 22586066}, {"name": "Volcanoes", "id": 693788}], "successors": [{"name": "Milos", "id": 30083208}]}

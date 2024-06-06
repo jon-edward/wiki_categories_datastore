@@ -1,1 +1,1 @@
-{"name": "Forensic_equipment", "id": 24245278, "predecessors": [{"name": "Heuristics", "id": 742824}], "successors": [{"name": "Forensic_software", "id": 24245099}, {"name": "Biosensors", "id": 52083933}]}
+{"name": "Forensic_equipment", "id": 24245278, "predecessors": [{"name": "Law_enforcement_equipment", "id": 1307094}, {"name": "Applied_sciences", "id": 697060}], "successors": [{"name": "Forensic_software", "id": 24245099}, {"name": "Biosensors", "id": 52083933}]}

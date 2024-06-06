@@ -1,1 +1,1 @@
-{"name": "Nvidia_products", "id": 51180513, "predecessors": [{"name": "Nvidia", "id": 15764301}], "successors": [{"name": "Nvidia_microarchitectures", "id": 42100626}, {"name": "Nvidia_software", "id": 43349959}, {"name": "Nvidia_chipsets", "id": 51214811}, {"name": "Nvidia_graphics_processors", "id": 51220215}]}
+{"name": "Nvidia_products", "id": 51180513, "predecessors": [{"name": "Nvidia", "id": 15764301}], "successors": [{"name": "Nvidia_microarchitectures", "id": 42100626}]}

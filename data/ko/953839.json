@@ -1,1 +1,1 @@
-{"name": "MacOS_API", "id": 953839, "predecessors": [{"name": "MacOS", "id": 884110}], "successors": []}
+{"name": "MacOS_API", "id": 953839, "predecessors": [{"name": "API", "id": 74093}, {"name": "MacOS", "id": 884110}, {"name": "운영_체제_API", "id": 2292097}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Virotherapy", "id": 39028227, "predecessors": [{"name": "Biopharmaceuticals", "id": 21401246}, {"name": "Experimental_medical_treatments", "id": 8418552}, {"name": "Virology", "id": 715146}], "successors": []}
+{"name": "Virotherapy", "id": 39028227, "predecessors": [{"name": "Biopharmaceuticals", "id": 21401246}, {"name": "Experimental_medical_treatments", "id": 8418552}, {"name": "Virology", "id": 715146}], "successors": [{"name": "Viral_vector_vaccines", "id": 67567710}]}

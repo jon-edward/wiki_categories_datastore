@@ -1,1 +1,1 @@
-{"name": "Décès_en_Estrie", "id": 6777915, "predecessors": [{"name": "Estrie", "id": 1315765}, {"name": "Décès_au_Canada", "id": 6647329}], "successors": [{"name": "Décès_à_Sherbrooke", "id": 6777908}, {"name": "Décès_à_Cowansville", "id": 16108123}]}
+{"name": "Décès_en_Estrie", "id": 6777915, "predecessors": [{"name": "Estrie", "id": 1315765}, {"name": "Décès_au_Québec", "id": 6777917}], "successors": [{"name": "Décès_à_Sherbrooke", "id": 6777908}, {"name": "Décès_à_Cowansville", "id": 16108123}]}

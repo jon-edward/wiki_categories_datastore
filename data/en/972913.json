@@ -1,1 +1,1 @@
-{"name": "Dog_health", "id": 972913, "predecessors": [{"name": "Mammaliaformes", "id": 14656170}], "successors": [{"name": "Dog_anatomy", "id": 1765280}, {"name": "Dog_diseases", "id": 13053131}, {"name": "Dog_medications", "id": 40042778}, {"name": "Parasites_of_dogs", "id": 40223309}]}
+{"name": "Dog_health", "id": 972913, "predecessors": [{"name": "Health", "id": 751381}], "successors": [{"name": "Dog_anatomy", "id": 1765280}, {"name": "Dog_diseases", "id": 13053131}, {"name": "Dog_medications", "id": 40042778}, {"name": "Parasites_of_dogs", "id": 40223309}]}

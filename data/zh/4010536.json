@@ -1,1 +1,0 @@
-{"name": "JavaScript", "id": 4010536, "predecessors": [{"name": "基于原型的编程语言", "id": 5670574}, {"name": "基于对象的编程语言", "id": 4695492}, {"name": "脚本语言", "id": 59429}], "successors": [{"name": "AJAX", "id": 770719}, {"name": "JavaScript函式庫", "id": 3342138}, {"name": "JavaScript引擎", "id": 4317275}, {"name": "JSON", "id": 5235461}, {"name": "用JavaScript編程的自由軟體", "id": 6326076}]}

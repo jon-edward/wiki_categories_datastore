@@ -1,1 +1,1 @@
-{"name": "Copy_protection", "id": 34290457, "predecessors": [{"name": "Copyright_law", "id": 702268}, {"name": "Digital_rights_management", "id": 1213614}], "successors": [{"name": "Compact_Disc_and_DVD_copy_protection", "id": 40376826}]}
+{"name": "Copy_protection", "id": 34290457, "predecessors": [{"name": "Copying", "id": 69219904}, {"name": "Copyright_law", "id": 702268}, {"name": "Digital_rights_management", "id": 1213614}], "successors": [{"name": "Compact_Disc_and_DVD_copy_protection", "id": 40376826}]}

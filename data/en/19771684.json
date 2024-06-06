@@ -1,1 +1,1 @@
-{"name": "Artillery_operation", "id": 19771684, "predecessors": [{"name": "Artillery", "id": 700053}], "successors": [{"name": "Gun_laying_radars", "id": 3978714}]}
+{"name": "Artillery_operation", "id": 19771684, "predecessors": [{"name": "Artillery", "id": 700053}, {"name": "Weapon_operation", "id": 1911900}], "successors": [{"name": "Gun_laying_radars", "id": 3978714}]}

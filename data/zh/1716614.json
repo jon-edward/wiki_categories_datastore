@@ -1,1 +1,1 @@
-{"name": "爐", "id": 1716614, "predecessors": [{"name": "火", "id": 405987}], "successors": [{"name": "煮食爐", "id": 7444881}]}
+{"name": "爐", "id": 1716614, "predecessors": [{"name": "火", "id": 405987}, {"name": "產業製程", "id": 1405704}, {"name": "工程學科", "id": 1181822}], "successors": [{"name": "惜字塔", "id": 5603025}, {"name": "煮食爐", "id": 7444881}]}

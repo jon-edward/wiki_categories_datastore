@@ -1,1 +1,1 @@
-{"name": "Liver_(food)", "id": 39276039, "predecessors": [{"name": "Liver", "id": 19401443}, {"name": "Meat", "id": 757474}, {"name": "Offal_dishes", "id": 66488703}], "successors": []}
+{"name": "Liver_(food)", "id": 39276039, "predecessors": [{"name": "Liver", "id": 19401443}, {"name": "Meat", "id": 757474}, {"name": "Meat_dishes", "id": 18237845}, {"name": "Offal_dishes", "id": 66488703}], "successors": []}

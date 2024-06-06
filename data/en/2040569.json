@@ -1,1 +1,1 @@
-{"name": "Chromates", "id": 2040569, "predecessors": [{"name": "Oxidizing_agents", "id": 13304159}, {"name": "Salts", "id": 695960}, {"name": "Transition_metal_oxyanions", "id": 58864464}], "successors": [{"name": "Chromate_minerals", "id": 22137708}]}
+{"name": "Chromates", "id": 2040569, "predecessors": [{"name": "Transition_metal_oxyanions", "id": 58864464}], "successors": [{"name": "Chromate_minerals", "id": 22137708}]}

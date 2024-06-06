@@ -1,1 +1,1 @@
-{"name": "Prison_chaplains", "id": 42707078, "predecessors": [{"name": "Prison_religion", "id": 62505883}], "successors": [{"name": "Chaplains-General_of_Prisons", "id": 42208277}]}
+{"name": "Prison_chaplains", "id": 42707078, "predecessors": [{"name": "Penology", "id": 2199000}], "successors": [{"name": "Chaplains-General_of_Prisons", "id": 42208277}]}

@@ -1,1 +1,1 @@
-{"name": "Basketball_i_Mexico", "id": 1779536, "predecessors": [{"name": "Basketball", "id": 41374}, {"name": "Sport_i_Nord-Amerika", "id": 1273818}], "successors": [{"name": "Meksikanske_basketballspillere", "id": 574738}]}
+{"name": "Basketball_i_Mexico", "id": 1779536, "predecessors": [{"name": "Basketball", "id": 41374}, {"name": "Mexico", "id": 11387}], "successors": [{"name": "Meksikanske_basketballspillere", "id": 574738}]}

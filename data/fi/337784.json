@@ -1,1 +1,1 @@
-{"name": "Geneve", "id": 337784, "predecessors": [{"name": "Geneven_kantonin_kunnat", "id": 1375128}, {"name": "Sveitsin_kaupungit", "id": 34986}, {"name": "Paikallishallinto", "id": 102778}], "successors": [{"name": "Geneven_historia", "id": 1669813}]}
+{"name": "Geneve", "id": 337784, "predecessors": [{"name": "Geneven_kantonin_kunnat", "id": 1375128}, {"name": "Sveitsin_kaupungit", "id": 34986}, {"name": "Paikallishallinto", "id": 102778}], "successors": [{"name": "Geneven_historia", "id": 1669813}, {"name": "Geneven_rakennukset_ja_rakennelmat", "id": 1805214}]}

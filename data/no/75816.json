@@ -1,1 +1,1 @@
-{"name": "Cocktailer", "id": 75816, "predecessors": [{"name": "Alkoholholdige_drikker", "id": 172148}], "successors": []}
+{"name": "Cocktailer", "id": 75816, "predecessors": [{"name": "Alkoholholdige_drikker", "id": 172148}], "successors": [{"name": "Cocktailer_med_vodka", "id": 1162323}, {"name": "Cocktailer_med_gin", "id": 2195947}]}

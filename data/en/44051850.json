@@ -1,1 +1,1 @@
-{"name": "Motion_sickness", "id": 44051850, "predecessors": [{"name": "Vomiting", "id": 4574651}], "successors": [{"name": "Antiemetics", "id": 838250}]}
+{"name": "Motion_sickness", "id": 44051850, "predecessors": [{"name": "Effects_of_external_causes", "id": 26432810}, {"name": "Vomiting", "id": 4574651}], "successors": [{"name": "Antiemetics", "id": 838250}]}

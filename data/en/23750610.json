@@ -1,1 +1,1 @@
-{"name": "Crisis_hotlines", "id": 23750610, "predecessors": [{"name": "Advice_organizations", "id": 48501198}, {"name": "Information_by_telephone", "id": 30634709}], "successors": []}
+{"name": "Crisis_hotlines", "id": 23750610, "predecessors": [{"name": "Advice_organizations", "id": 48501198}, {"name": "Emergency_telephone_numbers", "id": 15443685}, {"name": "Information_by_telephone", "id": 30634709}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Compresie_de_date", "id": 1573437, "predecessors": [{"name": "Prelucrarea_datelor", "id": 405522}], "successors": [{"name": "Codecuri", "id": 320085}]}
+{"name": "Compresie_de_date", "id": 1573437, "predecessors": [{"name": "Administrarea_datelor", "id": 822634}], "successors": [{"name": "Codecuri", "id": 320085}, {"name": "Arhivatoare", "id": 1319920}]}

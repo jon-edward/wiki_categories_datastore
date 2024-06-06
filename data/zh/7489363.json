@@ -1,1 +1,1 @@
-{"name": "公共廁所", "id": 7489363, "predecessors": [{"name": "廁所", "id": 72609}, {"name": "浴室", "id": 493412}], "successors": []}
+{"name": "公共廁所", "id": 7489363, "predecessors": [{"name": "公共服務", "id": 4195940}, {"name": "廁所", "id": 72609}, {"name": "浴室", "id": 493412}], "successors": []}

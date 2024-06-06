@@ -1,1 +1,0 @@
-{"name": "Coprocessors", "id": 54179695, "predecessors": [{"name": "Microprocessors", "id": 832619}], "successors": [{"name": "Digital_signal_processors", "id": 841546}, {"name": "Graphics_processing_units", "id": 34587258}, {"name": "AI_accelerators", "id": 50593271}, {"name": "Hardware_acceleration", "id": 58659343}]}

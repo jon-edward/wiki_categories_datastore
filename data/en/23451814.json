@@ -1,1 +1,1 @@
-{"name": "Deaths_from_thrombosis", "id": 23451814, "predecessors": [{"name": "Deaths_from_blood_disease", "id": 19627946}, {"name": "Deaths_from_cardiovascular_disease", "id": 68937676}], "successors": [{"name": "Deaths_from_coronary_thrombosis", "id": 57344730}, {"name": "Deaths_from_cerebral_thrombosis", "id": 68384090}]}
+{"name": "Deaths_from_thrombosis", "id": 23451814, "predecessors": [{"name": "Deaths_from_blood_disease", "id": 19627946}, {"name": "Deaths_from_cardiovascular_disease", "id": 68937676}], "successors": []}

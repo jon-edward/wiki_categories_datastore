@@ -1,1 +1,1 @@
-{"name": "Nhạc_thiếu_nhi", "id": 3429608, "predecessors": [{"name": "Thể_loại_nhạc", "id": 38080}, {"name": "Thể_loại_nhạc_thế_kỷ_20", "id": 1757205}, {"name": "Thể_loại_nhạc_thế_kỷ_21", "id": 1757206}], "successors": []}
+{"name": "Nhạc_thiếu_nhi", "id": 3429608, "predecessors": [{"name": "Thể_loại_nhạc", "id": 38080}, {"name": "Thể_loại_nhạc_thế_kỷ_20", "id": 1757205}, {"name": "Thể_loại_nhạc_thế_kỷ_21", "id": 1757206}], "successors": [{"name": "Bài_hát_thiếu_nhi", "id": 46984}]}

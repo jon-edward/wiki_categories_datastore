@@ -1,1 +1,1 @@
-{"name": "Microscopes", "id": 889213, "predecessors": [{"name": "Dutch_inventions", "id": 27809036}, {"name": "Microscopy", "id": 1894701}], "successors": [{"name": "Microscope_components", "id": 15838033}]}
+{"name": "Microscopes", "id": 889213, "predecessors": [{"name": "Dutch_inventions", "id": 27809036}, {"name": "Measuring_instruments", "id": 889248}, {"name": "Microscopy", "id": 1894701}], "successors": [{"name": "Microscope_components", "id": 15838033}]}

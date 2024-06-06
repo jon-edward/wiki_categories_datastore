@@ -1,1 +1,1 @@
-{"name": "Patent_search_services", "id": 6368850, "predecessors": [{"name": "Patent_law", "id": 702475}], "successors": []}
+{"name": "Patent_search_services", "id": 6368850, "predecessors": [{"name": "Domain-specific_search_engines", "id": 29759054}, {"name": "Online_law_databases", "id": 14089264}, {"name": "Patent_law", "id": 702475}], "successors": []}

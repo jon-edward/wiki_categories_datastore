@@ -1,1 +1,1 @@
-{"name": "肼", "id": 698082, "predecessors": [{"name": "官能团", "id": 157518}, {"name": "氮氢化物", "id": 1518325}, {"name": "化合物", "id": 41507}], "successors": [{"name": "吲唑", "id": 1644173}, {"name": "酰肼", "id": 1687616}, {"name": "肼盐", "id": 5455487}]}
+{"name": "肼", "id": 698082, "predecessors": [{"name": "官能团", "id": 157518}], "successors": [{"name": "酰肼", "id": 1687616}]}

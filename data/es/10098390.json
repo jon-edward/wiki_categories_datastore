@@ -1,1 +1,1 @@
-{"name": "Líneas_de_ómnibus_suburbanas_de_Montevideo", "id": 10098390, "predecessors": [{"name": "Líneas_de_ómnibus_de_Canelones", "id": 7190209}, {"name": "Zona_metropolitana_de_Montevideo", "id": 534494}, {"name": "Geografía_política", "id": 1708360}], "successors": []}
+{"name": "Líneas_suburbanas_de_Montevideo", "id": 10098390, "predecessors": [{"name": "Zona_metropolitana_de_Montevideo", "id": 534494}, {"name": "Geografía_política", "id": 1708360}, {"name": "Transporte_de_Uruguay", "id": 239777}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Chinese_investment_abroad", "id": 64262532, "predecessors": [{"name": "Chinese_economic_policy", "id": 38841070}, {"name": "Foreign_trade_of_China", "id": 37879642}], "successors": [{"name": "Belt_and_Road_Initiative", "id": 46663266}]}
+{"name": "Chinese_investment_abroad", "id": 64262532, "predecessors": [{"name": "Chinese_economic_policy", "id": 38841070}, {"name": "Foreign_direct_investment", "id": 27786656}], "successors": [{"name": "Belt_and_Road_Initiative", "id": 46663266}]}

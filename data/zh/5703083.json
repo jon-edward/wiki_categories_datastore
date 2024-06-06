@@ -1,1 +1,1 @@
-{"name": "贩毒机构", "id": 5703083, "predecessors": [{"name": "毒品販子", "id": 6803325}], "successors": []}
+{"name": "贩毒机构", "id": 5703083, "predecessors": [{"name": "公司", "id": 51786}, {"name": "毒品販子", "id": 6803325}], "successors": []}

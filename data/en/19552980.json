@@ -1,1 +1,1 @@
-{"name": "Sea_ice", "id": 19552980, "predecessors": [{"name": "Bodies_of_ice", "id": 3179955}, {"name": "Earth_phenomena", "id": 2049668}, {"name": "Oceanography", "id": 716910}, {"name": "Snow_or_ice_weather_phenomena", "id": 11606551}], "successors": [{"name": "Icebergs", "id": 1652213}]}
+{"name": "Sea_ice", "id": 19552980, "predecessors": [{"name": "Bodies_of_ice", "id": 3179955}, {"name": "Snow_or_ice_weather_phenomena", "id": 11606551}], "successors": [{"name": "Icebergs", "id": 1652213}]}

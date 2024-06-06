@@ -1,1 +1,1 @@
-{"name": "Entraîneur_chypriote_de_football", "id": 9712043, "predecessors": [{"name": "Métier", "id": 87726}, {"name": "Île_contestée_ou_occupée", "id": 4654016}, {"name": "Branche_de_la_géographie", "id": 7690187}], "successors": []}
+{"name": "Entraîneur_chypriote_de_football", "id": 9712043, "predecessors": [{"name": "Entraînement_sportif", "id": 895269}, {"name": "Île_contestée_ou_occupée", "id": 4654016}, {"name": "Branche_de_la_géographie", "id": 7690187}], "successors": []}

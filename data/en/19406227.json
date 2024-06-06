@@ -1,1 +1,1 @@
-{"name": "Historical_preservationists", "id": 19406227, "predecessors": [{"name": "Historic_preservation", "id": 3891586}], "successors": [{"name": "Preservationist_architects", "id": 39914302}]}
+{"name": "Historical_preservationists", "id": 19406227, "predecessors": [{"name": "Historians", "id": 702708}, {"name": "Historic_preservation", "id": 3891586}], "successors": [{"name": "Preservationist_architects", "id": 39914302}]}

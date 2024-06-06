@@ -1,1 +1,1 @@
-{"name": "일본의_인터넷_기업", "id": 738864, "predecessors": [{"name": "일본의_인터넷", "id": 368224}, {"name": "일본의_기업", "id": 11936}], "successors": [{"name": "UUUM", "id": 3040841}]}
+{"name": "일본의_인터넷_기업", "id": 738864, "predecessors": [{"name": "일본의_인터넷", "id": 368224}, {"name": "일본의_기업", "id": 11936}, {"name": "IT_인프라스트럭처", "id": 2912135}], "successors": [{"name": "UUUM", "id": 3040841}]}

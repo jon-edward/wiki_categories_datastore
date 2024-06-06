@@ -1,1 +1,1 @@
-{"name": "Sports_software", "id": 12688523, "predecessors": [{"name": "Sports_technology", "id": 1357047}, {"name": "Application_software", "id": 708063}], "successors": []}
+{"name": "Sports_software", "id": 12688523, "predecessors": [{"name": "Sports_technology", "id": 1357047}, {"name": "Application_software", "id": 708063}], "successors": [{"name": "Sports_video_games", "id": 9716925}]}

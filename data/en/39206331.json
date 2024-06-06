@@ -1,1 +1,1 @@
-{"name": "Inheritance_tax", "id": 39206331, "predecessors": [{"name": "Inheritance", "id": 5660296}, {"name": "Taxation_and_redistribution", "id": 7597065}, {"name": "Transfer_tax", "id": 51044196}], "successors": []}
+{"name": "Inheritance_tax", "id": 39206331, "predecessors": [{"name": "Inheritance", "id": 5660296}, {"name": "Taxation_and_redistribution", "id": 7597065}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Christlicher_Chor", "id": 8035716, "predecessors": [{"name": "Christliche_Musikgruppe", "id": 8986263}, {"name": "Chorwesen", "id": 1737094}], "successors": [{"name": "Kirchenchor", "id": 1457701}, {"name": "Gospelchor", "id": 2066300}]}
+{"name": "Christlicher_Chor", "id": 8035716, "predecessors": [{"name": "Chorwesen_(Christentum)", "id": 13118548}, {"name": "Christliche_Musikgruppe", "id": 8986263}, {"name": "Chorwesen", "id": 1737094}], "successors": [{"name": "Kirchenchor", "id": 1457701}, {"name": "Gospelchor", "id": 2066300}]}

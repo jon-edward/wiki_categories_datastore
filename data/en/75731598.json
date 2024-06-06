@@ -1,1 +1,1 @@
-{"name": "Gestapo_informants", "id": 75731598, "predecessors": [{"name": "Gestapo_agents", "id": 70097761}], "successors": [{"name": "Executed_Gestapo_informants", "id": 76129328}]}
+{"name": "Gestapo_informants", "id": 75731598, "predecessors": [{"name": "Gestapo_agents", "id": 70097761}, {"name": "Police_informants", "id": 43389200}], "successors": [{"name": "Executed_Gestapo_informants", "id": 76129328}]}

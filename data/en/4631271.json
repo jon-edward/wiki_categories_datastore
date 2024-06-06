@@ -1,1 +1,1 @@
-{"name": "Streets_in_San_Francisco", "id": 4631271, "predecessors": [{"name": "Transportation_in_San_Francisco", "id": 17858842}, {"name": "Roads_in_the_United_States", "id": 1298425}], "successors": [{"name": "Market_Street_(San_Francisco)", "id": 48697938}]}
+{"name": "Streets_in_San_Francisco", "id": 4631271, "predecessors": [{"name": "Roads_in_the_United_States", "id": 1298425}], "successors": [{"name": "Market_Street_(San_Francisco)", "id": 48697938}]}

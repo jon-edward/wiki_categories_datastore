@@ -1,1 +1,1 @@
-{"name": "Wisconsin_State_Legislature_elections", "id": 32449897, "predecessors": [{"name": "Government_of_Wisconsin", "id": 1009177}, {"name": "Elections_in_the_United_States", "id": 789876}], "successors": [{"name": "Wisconsin_State_Assembly_elections", "id": 59236862}, {"name": "Wisconsin_Senate_elections", "id": 59236944}]}
+{"name": "Wisconsin_State_Legislature_elections", "id": 32449897, "predecessors": [{"name": "Elections_in_the_United_States", "id": 789876}, {"name": "Legislatures_of_country_subdivisions", "id": 11314158}], "successors": []}

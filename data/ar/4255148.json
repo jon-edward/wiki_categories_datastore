@@ -1,1 +1,1 @@
-{"name": "طقس_شاذ", "id": 4255148, "predecessors": [{"name": "طقس", "id": 423406}], "successors": []}
+{"name": "طقس_شاذ", "id": 4255148, "predecessors": [{"name": "ألغاز_الأرض", "id": 960871}, {"name": "طقس", "id": 423406}, {"name": "فورتيانية", "id": 1756426}], "successors": []}

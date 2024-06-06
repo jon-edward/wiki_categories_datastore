@@ -1,1 +1,1 @@
-{"name": "義大利電視", "id": 4217589, "predecessors": [{"name": "电视", "id": 47053}], "successors": [{"name": "意大利電視劇", "id": 3233926}]}
+{"name": "義大利電視", "id": 4217589, "predecessors": [{"name": "电视", "id": 47053}, {"name": "歐洲文化", "id": 559864}, {"name": "通信", "id": 467595}], "successors": [{"name": "意大利電視劇", "id": 3233926}]}

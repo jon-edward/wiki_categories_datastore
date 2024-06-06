@@ -1,1 +1,1 @@
-{"name": "Sukan_berpasukan", "id": 62942, "predecessors": [{"name": "Sukan", "id": 7428}], "successors": [{"name": "Bola_sepak", "id": 17232}, {"name": "Besbol", "id": 93726}]}
+{"name": "Sukan_berpasukan", "id": 62942, "predecessors": [{"name": "Sukan", "id": 7428}], "successors": [{"name": "Bola_sepak", "id": 17232}, {"name": "Bola_keranjang", "id": 57888}, {"name": "Besbol", "id": 93726}]}

@@ -1,1 +1,1 @@
-{"name": "卤代羧酸", "id": 8041854, "predecessors": [{"name": "羧酸", "id": 80594}, {"name": "卤素", "id": 714236}], "successors": [{"name": "全氟羧酸", "id": 7189500}, {"name": "卤代乙酸", "id": 7359315}]}
+{"name": "卤代羧酸", "id": 8041854, "predecessors": [{"name": "羧酸", "id": 80594}, {"name": "官能团", "id": 157518}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Breathalyzer", "id": 41534311, "predecessors": [{"name": "Alcohol_law", "id": 2387325}, {"name": "Breath_tests", "id": 31361270}, {"name": "Driving_under_the_influence", "id": 39039304}], "successors": []}
+{"name": "Breathalyzer", "id": 41534311, "predecessors": [{"name": "Alcohol_law", "id": 2387325}, {"name": "Breath_tests", "id": 31361270}, {"name": "Driving_under_the_influence", "id": 39039304}, {"name": "Law_enforcement_equipment", "id": 1307094}], "successors": []}

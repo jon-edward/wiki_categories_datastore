@@ -1,1 +1,1 @@
-{"name": "Pétrologue", "id": 12344169, "predecessors": [{"name": "Géologue", "id": 144872}, {"name": "Pétrologie", "id": 84826}, {"name": "Métier", "id": 87726}, {"name": "Recherche_scientifique", "id": 345033}], "successors": []}
+{"name": "Pétrologue", "id": 12344169, "predecessors": [{"name": "Pétrologie", "id": 84826}, {"name": "Géologie", "id": 125805}, {"name": "Métier", "id": 87726}, {"name": "Recherche_scientifique", "id": 345033}], "successors": []}

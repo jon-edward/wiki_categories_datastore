@@ -1,1 +1,1 @@
-{"name": "Australian_art_patrons", "id": 7976840, "predecessors": [{"name": "Australian_art_collectors", "id": 11048913}], "successors": [{"name": "Australian_art_collectors", "id": 11048913}]}
+{"name": "Australian_art_patrons", "id": 7976840, "predecessors": [{"name": "Australian_art_collectors", "id": 11048913}, {"name": "Patrons_of_the_visual_arts", "id": 63695109}], "successors": [{"name": "Australian_art_collectors", "id": 11048913}]}

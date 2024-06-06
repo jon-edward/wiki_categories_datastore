@@ -1,1 +1,1 @@
-{"name": "Classe_de_navire_de_la_Marine_royale_canadienne", "id": 5891283, "predecessors": [{"name": "Marine_royale_canadienne", "id": 5891380}, {"name": "Classe_de_bateau", "id": 6023245}], "successors": []}
+{"name": "Classe_de_navire_de_la_Marine_royale_canadienne", "id": 5891283, "predecessors": [{"name": "Marine_royale_canadienne", "id": 5891380}, {"name": "Force_navale", "id": 491220}], "successors": []}

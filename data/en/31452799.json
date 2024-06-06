@@ -1,1 +1,1 @@
-{"name": "Mountaineering_equipment", "id": 31452799, "predecessors": [{"name": "Climbing_equipment", "id": 1262864}, {"name": "Mountaineering", "id": 1072038}], "successors": [{"name": "Climbing_and_mountaineering_equipment_companies", "id": 69081182}]}
+{"name": "Mountaineering_equipment", "id": 31452799, "predecessors": [{"name": "Climbing_equipment", "id": 1262864}, {"name": "Mountaineering", "id": 1072038}, {"name": "Sports_equipment", "id": 8619631}], "successors": [{"name": "Climbing_and_mountaineering_equipment_companies", "id": 69081182}]}

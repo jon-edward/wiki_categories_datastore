@@ -1,1 +1,1 @@
-{"name": "Paleografia", "id": 999402, "predecessors": [{"name": "Escriptura", "id": 20829}, {"name": "Història", "id": 13625}], "successors": [{"name": "Manuscrits", "id": 300144}]}
+{"name": "Paleografia", "id": 999402, "predecessors": [{"name": "Escriptura", "id": 20829}, {"name": "Història", "id": 13625}], "successors": [{"name": "Manuscrits", "id": 300144}, {"name": "Epigrafia", "id": 999401}]}

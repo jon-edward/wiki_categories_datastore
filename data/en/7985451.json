@@ -1,1 +1,1 @@
-{"name": "Ion_channel_toxins", "id": 7985451, "predecessors": [{"name": "Ion_channels", "id": 3238733}], "successors": []}
+{"name": "Ion_channel_toxins", "id": 7985451, "predecessors": [{"name": "Ion_channels", "id": 3238733}, {"name": "Toxins", "id": 9383331}], "successors": []}

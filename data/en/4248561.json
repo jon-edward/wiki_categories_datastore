@@ -1,1 +1,1 @@
-{"name": "Mammal_hybrids", "id": 4248561, "predecessors": [{"name": "Reproduction_in_mammals", "id": 36658666}], "successors": [{"name": "Canid_hybrids", "id": 21325630}]}
+{"name": "Mammal_hybrids", "id": 4248561, "predecessors": [{"name": "Hybrid_animals", "id": 26680741}], "successors": [{"name": "Canid_hybrids", "id": 21325630}, {"name": "Fictional_human_hybrids", "id": 34029917}, {"name": "Mythological_human_hybrids", "id": 34029965}]}

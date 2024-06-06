@@ -1,1 +1,1 @@
-{"name": "유한_상태_기계", "id": 2911478, "predecessors": [{"name": "디지털_전자공학", "id": 217382}, {"name": "자연어_처리", "id": 1017874}], "successors": []}
+{"name": "유한_상태_기계", "id": 2911478, "predecessors": [{"name": "오토마타_이론", "id": 879716}], "successors": []}

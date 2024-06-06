@@ -1,1 +1,1 @@
-{"name": "Swiss_beauty_pageant_winners", "id": 25577713, "predecessors": [{"name": "Tourist_attractions_in_Switzerland", "id": 5125963}], "successors": [{"name": "Miss_Switzerland_winners", "id": 9346605}]}
+{"name": "Swiss_beauty_pageant_winners", "id": 25577713, "predecessors": [{"name": "Tourist_attractions_in_Switzerland", "id": 5125963}, {"name": "Beauty_pageant_contestants", "id": 1041018}], "successors": [{"name": "Miss_Switzerland_winners", "id": 9346605}]}

@@ -1,1 +1,1 @@
-{"name": "Silver_coins", "id": 4716355, "predecessors": [{"name": "Silver_objects", "id": 18420851}, {"name": "Commodities_used_as_an_investment", "id": 4956331}, {"name": "Coins", "id": 904510}], "successors": [{"name": "United_States_silver_coins", "id": 15805703}]}
+{"name": "Silver_coins", "id": 4716355, "predecessors": [{"name": "Silver_objects", "id": 18420851}, {"name": "Coins", "id": 904510}], "successors": [{"name": "United_States_silver_coins", "id": 15805703}, {"name": "Silver_bullion_coins", "id": 69799915}]}

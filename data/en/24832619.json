@@ -1,1 +1,1 @@
-{"name": "Arizona_Diamondbacks_postseason", "id": 24832619, "predecessors": [{"name": "Arizona_Diamondbacks", "id": 1275403}, {"name": "Major_League_Baseball_postseason", "id": 24812363}], "successors": []}
+{"name": "Arizona_Diamondbacks_postseason", "id": 24832619, "predecessors": [{"name": "Major_League_Baseball_teams", "id": 3788256}, {"name": "Tournament_systems", "id": 1799766}], "successors": []}

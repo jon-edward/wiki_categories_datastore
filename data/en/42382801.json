@@ -1,1 +1,1 @@
-{"name": "Computer-aided_design_software_for_Linux", "id": 42382801, "predecessors": [{"name": "Computer-aided_design_software", "id": 2383151}, {"name": "Linux_software", "id": 9519323}, {"name": "Engineering", "id": 692903}], "successors": []}
+{"name": "Computer-aided_design_software_for_Linux", "id": 42382801, "predecessors": [{"name": "Linux_software", "id": 9519323}, {"name": "Unix_software", "id": 2423579}, {"name": "Software_by_type", "id": 54611051}], "successors": []}

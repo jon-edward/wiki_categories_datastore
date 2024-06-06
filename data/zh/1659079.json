@@ -1,1 +1,1 @@
-{"name": "潮汐", "id": 1659079, "predecessors": [{"name": "月球", "id": 363689}, {"name": "航海", "id": 197280}], "successors": [{"name": "離岸流", "id": 8053346}]}
+{"name": "潮汐", "id": 1659079, "predecessors": [{"name": "地球物理学", "id": 175109}, {"name": "月球", "id": 363689}], "successors": []}

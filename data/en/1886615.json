@@ -1,1 +1,1 @@
-{"name": "Cisco_products", "id": 1886615, "predecessors": [{"name": "Cisco_Systems", "id": 1007357}], "successors": [{"name": "Cisco_software", "id": 54428487}]}
+{"name": "Cisco_products", "id": 1886615, "predecessors": [{"name": "Cisco_Systems", "id": 1007357}, {"name": "Networking_hardware", "id": 1899604}], "successors": [{"name": "Cisco_software", "id": 54428487}]}

@@ -1,1 +1,1 @@
-{"name": "Spielwarenhändler", "id": 7584951, "predecessors": [{"name": "Einzelhandelsunternehmen", "id": 465097}, {"name": "Handel", "id": 419440}, {"name": "Industrie", "id": 243239}], "successors": []}
+{"name": "Spielwarenhändler", "id": 7584951, "predecessors": [{"name": "Einzelhandelsunternehmen", "id": 465097}, {"name": "Spielzeug", "id": 384328}, {"name": "Handel", "id": 419440}, {"name": "Industrie", "id": 243239}], "successors": []}

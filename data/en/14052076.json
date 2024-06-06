@@ -1,1 +1,1 @@
-{"name": "Bryne_FK_players", "id": 14052076, "predecessors": [{"name": "Eliteserien_clubs", "id": 59041495}], "successors": []}
+{"name": "Bryne_FK_players", "id": 14052076, "predecessors": [{"name": "Eliteserien_clubs", "id": 59041495}, {"name": "Team_sports", "id": 700681}], "successors": []}

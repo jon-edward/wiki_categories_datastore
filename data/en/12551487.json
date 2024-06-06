@@ -1,1 +1,1 @@
-{"name": "German_radio_networks", "id": 12551487, "predecessors": [{"name": "Radio_in_Germany", "id": 1549669}], "successors": [{"name": "Deutsche_Welle", "id": 70473672}]}
+{"name": "German_radio_networks", "id": 12551487, "predecessors": [{"name": "Radio_in_Germany", "id": 1549669}, {"name": "Radio_networks", "id": 1225912}], "successors": [{"name": "Deutsche_Welle", "id": 70473672}]}

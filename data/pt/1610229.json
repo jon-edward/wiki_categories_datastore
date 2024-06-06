@@ -1,1 +1,1 @@
-{"name": "Filmes_épicos", "id": 1610229, "predecessors": [{"name": "Géneros_de_cinema", "id": 115526}], "successors": [{"name": "Filmes_peplum", "id": 5846890}]}
+{"name": "Filmes_épicos", "id": 1610229, "predecessors": [{"name": "Filmes", "id": 14992}], "successors": [{"name": "Filmes_peplum", "id": 5846890}]}

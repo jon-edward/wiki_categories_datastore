@@ -1,1 +1,1 @@
-{"name": "Metro_de_Ciudad_de_México", "id": 312210, "predecessors": [{"name": "Transporte_de_Ciudad_de_México", "id": 2168762}, {"name": "Ferrocarril_en_México", "id": 980812}], "successors": []}
+{"name": "Metro_de_Ciudad_de_México", "id": 312210, "predecessors": [{"name": "Ferrocarriles_metropolitanos_de_México", "id": 312272}, {"name": "Transporte_de_Ciudad_de_México", "id": 2168762}], "successors": []}

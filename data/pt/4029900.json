@@ -1,1 +1,1 @@
-{"name": "!Predefinições_sobre_hardware", "id": 4029900, "predecessors": [{"name": "!Predefinições_sobre_informática", "id": 196649}], "successors": [{"name": "!Infocaixas_sobre_hardware", "id": 4030972}, {"name": "!Navecaixas_sobre_hardware", "id": 4529229}]}
+{"name": "!Predefinições_sobre_hardware", "id": 4029900, "predecessors": [{"name": "!Predefinições_sobre_informática", "id": 196649}, {"name": "!Predefinições_sobre_objetos", "id": 1838330}], "successors": [{"name": "!Infocaixas_sobre_hardware", "id": 4030972}, {"name": "!Navecaixas_sobre_hardware", "id": 4529229}]}

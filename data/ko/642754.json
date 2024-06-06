@@ -1,1 +1,1 @@
-{"name": "자선_행사", "id": 642754, "predecessors": [{"name": "행사", "id": 254851}], "successors": [{"name": "자선_음악회", "id": 782744}]}
+{"name": "자선_행사", "id": 642754, "predecessors": [{"name": "행사", "id": 254851}, {"name": "자선", "id": 2836222}], "successors": [{"name": "자선_음악회", "id": 782744}]}

@@ -1,1 +1,1 @@
-{"name": "Turbo_generators", "id": 75814881, "predecessors": [{"name": "Electrical_generators", "id": 1859846}, {"name": "Turbines", "id": 966100}, {"name": "Fluid_mechanics", "id": 1162560}], "successors": [{"name": "Turbo-electric_steamships", "id": 39287470}]}
+{"name": "Turbo_generators", "id": 75814881, "predecessors": [{"name": "Turbines", "id": 966100}, {"name": "Fluid_mechanics", "id": 1162560}], "successors": [{"name": "Turbo-electric_steamships", "id": 39287470}]}

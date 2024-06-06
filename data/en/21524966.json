@@ -1,1 +1,1 @@
-{"name": "Austrian_civil_servants", "id": 21524966, "predecessors": [{"name": "Government_of_Austria", "id": 2935618}], "successors": []}
+{"name": "Austrian_civil_servants", "id": 21524966, "predecessors": [{"name": "Government_of_Austria", "id": 2935618}, {"name": "Civil_servants", "id": 4156326}], "successors": [{"name": "Austrian_diplomats", "id": 1435253}, {"name": "Diplomats_from_Austria-Hungary", "id": 26789875}]}

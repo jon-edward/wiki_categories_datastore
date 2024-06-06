@@ -1,1 +1,1 @@
-{"name": "Pokervariante", "id": 2079833, "predecessors": [{"name": "Kartenspiel_mit_traditionellem_Blatt", "id": 2202796}, {"name": "Poker", "id": 1224809}, {"name": "Spiel_mit_Strategie_und_Zufall", "id": 1385517}], "successors": []}
+{"name": "Pokervariante", "id": 2079833, "predecessors": [{"name": "Poker", "id": 1224809}, {"name": "Spiel_mit_Strategie_und_Zufall", "id": 1385517}], "successors": []}

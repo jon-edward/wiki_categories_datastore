@@ -1,0 +1,1 @@
+{"name": "Electronic_structure_methods", "id": 26776867, "predecessors": [{"name": "Computational_physics", "id": 792595}, {"name": "Quantum_lattice_models", "id": 22045003}], "successors": [{"name": "Density_functional_theory", "id": 2865531}, {"name": "Semiempirical_quantum_chemistry_methods", "id": 11220529}, {"name": "Quantum_Monte_Carlo", "id": 21491721}]}

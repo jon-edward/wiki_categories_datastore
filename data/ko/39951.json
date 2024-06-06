@@ -1,1 +1,1 @@
-{"name": "러시아의_은행", "id": 39951, "predecessors": [{"name": "금융_기업", "id": 125563}, {"name": "서비스_기업", "id": 457705}], "successors": []}
+{"name": "러시아의_은행", "id": 39951, "predecessors": [{"name": "금융_기업", "id": 125563}, {"name": "기업", "id": 11886}], "successors": []}

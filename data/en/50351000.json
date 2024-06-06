@@ -1,1 +1,1 @@
-{"name": "Wireless_Application_Protocol", "id": 50351000, "predecessors": [{"name": "Communications_protocols", "id": 40642016}, {"name": "Mobile_web", "id": 28046583}], "successors": []}
+{"name": "Wireless_Application_Protocol", "id": 50351000, "predecessors": [{"name": "Communications_protocols", "id": 40642016}, {"name": "Mobile_web", "id": 28046583}, {"name": "Wireless_networking", "id": 979699}], "successors": []}

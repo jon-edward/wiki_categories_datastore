@@ -1,1 +1,1 @@
-{"name": "語言創造者", "id": 1231314, "predecessors": [{"name": "發明家", "id": 54748}], "successors": []}
+{"name": "語言創造者", "id": 1231314, "predecessors": [{"name": "人工語言", "id": 72619}, {"name": "發明家", "id": 54748}, {"name": "语言", "id": 44066}, {"name": "语言学", "id": 42488}], "successors": []}

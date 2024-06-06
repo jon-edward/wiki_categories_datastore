@@ -1,1 +1,1 @@
-{"name": "土壤化学", "id": 1518320, "predecessors": [{"name": "土壤科學", "id": 736999}], "successors": [{"name": "肥料", "id": 927100}]}
+{"name": "土壤化学", "id": 1518320, "predecessors": [{"name": "土壤科學", "id": 736999}, {"name": "地球化學", "id": 483585}], "successors": [{"name": "肥料", "id": 927100}]}

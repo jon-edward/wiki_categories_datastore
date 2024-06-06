@@ -1,1 +1,1 @@
-{"name": "Tata_Sons_subsidiaries", "id": 53539565, "predecessors": [{"name": "Tata_Group", "id": 2931425}], "successors": [{"name": "Taj_Hotels_Resorts_and_Palaces", "id": 14727334}, {"name": "Tata_Motors", "id": 24724384}]}
+{"name": "Tata_Sons_subsidiaries", "id": 53539565, "predecessors": [{"name": "Tata_Group_subsidiaries", "id": 53539494}], "successors": [{"name": "Taj_Hotels_Resorts_and_Palaces", "id": 14727334}, {"name": "Tata_Motors", "id": 24724384}]}

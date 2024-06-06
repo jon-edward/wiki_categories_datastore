@@ -1,1 +1,1 @@
-{"name": "Tetras", "id": 1291070, "predecessors": [{"name": "Characidae", "id": 5892487}, {"name": "Fishkeeping", "id": 1579875}, {"name": "Tropical_fish", "id": 11538745}], "successors": []}
+{"name": "Tetras", "id": 1291070, "predecessors": [{"name": "Characidae", "id": 5892487}, {"name": "Fishkeeping", "id": 1579875}], "successors": [{"name": "Hyphessobrycon", "id": 73566037}, {"name": "Tetras_of_Brazil", "id": 76599239}]}

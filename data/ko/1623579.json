@@ -1,1 +1,1 @@
-{"name": "일본_정원", "id": 1623579, "predecessors": [{"name": "건축", "id": 240606}], "successors": [{"name": "오가와_지헤", "id": 1623575}]}
+{"name": "일본_정원", "id": 1623579, "predecessors": [{"name": "정원_종류", "id": 1648026}, {"name": "건축", "id": 240606}], "successors": [{"name": "오가와_지헤", "id": 1623575}]}

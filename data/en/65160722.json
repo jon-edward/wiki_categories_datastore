@@ -1,1 +1,1 @@
-{"name": "Family_disruption", "id": 65160722, "predecessors": [{"name": "Family", "id": 706788}], "successors": [{"name": "Incest", "id": 1462604}, {"name": "Domestic_violence", "id": 1920115}, {"name": "Disrupted_marriage", "id": 65160669}]}
+{"name": "Family_disruption", "id": 65160722, "predecessors": [{"name": "Family", "id": 706788}], "successors": [{"name": "Incest", "id": 1462604}, {"name": "Domestic_violence", "id": 1920115}, {"name": "Family_murders", "id": 55787870}, {"name": "Disrupted_marriage", "id": 65160669}]}

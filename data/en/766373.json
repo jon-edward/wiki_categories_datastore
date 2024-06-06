@@ -1,1 +1,1 @@
-{"name": "Drinking_games", "id": 766373, "predecessors": [{"name": "Drinking_culture", "id": 1241315}], "successors": [{"name": "Drinking_card_games", "id": 10549838}]}
+{"name": "Drinking_games", "id": 766373, "predecessors": [{"name": "Drinking_culture", "id": 1241315}, {"name": "Party_games", "id": 776242}, {"name": "Tabletop_games", "id": 967265}], "successors": [{"name": "Drinking_card_games", "id": 10549838}]}

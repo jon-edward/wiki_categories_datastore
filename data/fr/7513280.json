@@ -1,1 +1,1 @@
-{"name": "Parc_ou_jardin_public_dans_la_Somme", "id": 7513280, "predecessors": [{"name": "Urbanisme_en_France", "id": 2803400}, {"name": "Hauts-de-France", "id": 9205649}, {"name": "Somme", "id": 153730}], "successors": [{"name": "Parc_ou_jardin_public_à_Amiens", "id": 9925401}]}
+{"name": "Parc_ou_jardin_public_dans_la_Somme", "id": 7513280, "predecessors": [{"name": "Urbanisme_en_France", "id": 2803400}, {"name": "Région_en_France", "id": 83575}, {"name": "Somme", "id": 153730}], "successors": [{"name": "Parc_ou_jardin_public_à_Amiens", "id": 9925401}]}

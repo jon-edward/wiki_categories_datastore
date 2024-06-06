@@ -1,1 +1,1 @@
-{"name": "莫斯科地铁模板", "id": 1582649, "predecessors": [{"name": "莫斯科地铁", "id": 568754}, {"name": "首都", "id": 41471}], "successors": [{"name": "莫斯科地铁RDT", "id": 1582648}]}
+{"name": "莫斯科地铁模板", "id": 1582649, "predecessors": [{"name": "莫斯科地铁", "id": 568754}, {"name": "首都", "id": 41471}, {"name": "城市", "id": 42675}], "successors": [{"name": "莫斯科地铁RDT", "id": 1582648}]}

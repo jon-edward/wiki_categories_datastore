@@ -1,1 +1,1 @@
-{"name": "软件复刻", "id": 5564843, "predecessors": [{"name": "自由软件", "id": 64525}, {"name": "软件开发", "id": 174360}], "successors": [{"name": "基于Debian的发行版", "id": 5585910}]}
+{"name": "软件复刻", "id": 5564843, "predecessors": [{"name": "软件开发", "id": 174360}], "successors": [{"name": "基于Debian的发行版", "id": 5585910}]}

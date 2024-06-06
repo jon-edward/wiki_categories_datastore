@@ -1,1 +1,1 @@
-{"name": "Spanish_slave_traders", "id": 61447653, "predecessors": [{"name": "Spanish_merchants", "id": 40468040}, {"name": "Spanish_slave_owners", "id": 58417989}, {"name": "African_slave_trade", "id": 12733027}, {"name": "Slave_trade", "id": 1938304}], "successors": []}
+{"name": "Spanish_slave_traders", "id": 61447653, "predecessors": [{"name": "Spanish_slave_owners", "id": 58417989}, {"name": "African_slave_trade", "id": 12733027}, {"name": "Kidnappers", "id": 13987659}], "successors": []}

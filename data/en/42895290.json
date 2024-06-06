@@ -1,0 +1,1 @@
+{"name": "Heterogeneous_computing", "id": 42895290, "predecessors": [{"name": "Computer_architecture", "id": 869984}], "successors": [{"name": "Cell_BE_architecture", "id": 5488801}, {"name": "GPGPU", "id": 21014416}, {"name": "Graphics_processing_units", "id": 34587258}]}

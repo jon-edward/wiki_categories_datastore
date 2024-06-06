@@ -1,1 +1,1 @@
-{"name": "Tourist_attractions_in_Beirut", "id": 36670711, "predecessors": [{"name": "Beirut", "id": 5637333}, {"name": "Tourist_attractions_in_Lebanon", "id": 4959011}], "successors": [{"name": "Museums_in_Beirut", "id": 36670698}, {"name": "Squares_in_Beirut", "id": 65570975}]}
+{"name": "Tourist_attractions_in_Beirut", "id": 36670711, "predecessors": [{"name": "Tourist_attractions_in_Lebanon", "id": 4959011}, {"name": "Beirut", "id": 5637333}], "successors": [{"name": "Museums_in_Beirut", "id": 36670698}, {"name": "Squares_in_Beirut", "id": 65570975}]}

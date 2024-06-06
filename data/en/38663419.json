@@ -1,1 +1,1 @@
-{"name": "Fashion_events_in_the_United_States", "id": 38663419, "predecessors": [{"name": "Entertainment_events_in_the_United_States", "id": 38617808}, {"name": "Fashion_in_the_United_States", "id": 10153563}], "successors": [{"name": "Fashion_weeks_in_the_United_States", "id": 76580879}]}
+{"name": "Fashion_events_in_the_United_States", "id": 38663419, "predecessors": [{"name": "American_fashion", "id": 10153563}, {"name": "Entertainment_events_in_the_United_States", "id": 38617808}], "successors": []}

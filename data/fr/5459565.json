@@ -1,1 +1,1 @@
-{"name": "Édifice_religieux_à_Liège", "id": 5459565, "predecessors": [{"name": "Bâtiment_à_Liège", "id": 5079757}, {"name": "Bâtiment_dans_la_province_de_Liège", "id": 6216889}, {"name": "Religion", "id": 84974}], "successors": [{"name": "Église_à_Liège", "id": 258052}]}
+{"name": "Édifice_religieux_à_Liège", "id": 5459565, "predecessors": [{"name": "Bâtiment_à_Liège", "id": 5079757}, {"name": "Bâtiment_dans_la_province_de_Liège", "id": 6216889}, {"name": "Religion", "id": 84974}, {"name": "Liège", "id": 211529}], "successors": [{"name": "Église_à_Liège", "id": 258052}]}

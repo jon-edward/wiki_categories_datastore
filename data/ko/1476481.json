@@ -1,1 +1,1 @@
-{"name": "이온_기관", "id": 1476481, "predecessors": [{"name": "이온", "id": 40392}, {"name": "전동기", "id": 111208}], "successors": []}
+{"name": "이온_기관", "id": 1476481, "predecessors": [{"name": "우주_비행", "id": 660763}, {"name": "이온", "id": 40392}, {"name": "전동기", "id": 111208}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Proteomics", "id": 7614096, "predecessors": [{"name": "Proteins", "id": 717889}], "successors": [{"name": "Protein_classification", "id": 26850944}, {"name": "Proteomics_organizations", "id": 62786883}]}
+{"name": "Proteomics", "id": 7614096, "predecessors": [{"name": "Omics", "id": 13693058}, {"name": "Proteins", "id": 717889}], "successors": [{"name": "Protein_classification", "id": 26850944}, {"name": "Proteomics_organizations", "id": 62786883}]}

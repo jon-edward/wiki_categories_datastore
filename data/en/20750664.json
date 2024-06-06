@@ -1,1 +1,1 @@
-{"name": "Knowledge_bases", "id": 20750664, "predecessors": [{"name": "Knowledge_management", "id": 9252903}, {"name": "Online_databases", "id": 1056403}, {"name": "Semantic_Web", "id": 18014783}, {"name": "Types_of_databases", "id": 24209501}], "successors": []}
+{"name": "Knowledge_bases", "id": 20750664, "predecessors": [{"name": "Knowledge_management", "id": 9252903}, {"name": "Online_databases", "id": 1056403}, {"name": "Semantic_Web", "id": 18014783}], "successors": []}

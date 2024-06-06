@@ -1,1 +1,1 @@
-{"name": "Vehicle_security_systems", "id": 36802410, "predecessors": [{"name": "Motor_vehicle_theft", "id": 735357}, {"name": "Security_technology", "id": 25388151}, {"name": "Vehicle_technology", "id": 8345984}], "successors": []}
+{"name": "Vehicle_security_systems", "id": 36802410, "predecessors": [{"name": "Motor_vehicle_theft", "id": 735357}], "successors": []}

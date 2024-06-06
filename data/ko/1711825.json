@@ -1,1 +1,1 @@
-{"name": "소방관_순직_사건", "id": 1711825, "predecessors": [{"name": "사고", "id": 296426}], "successors": []}
+{"name": "소방관_순직_사건", "id": 1711825, "predecessors": [{"name": "사고", "id": 296426}, {"name": "소방관", "id": 670492}], "successors": []}

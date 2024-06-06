@@ -1,1 +1,1 @@
-{"name": "尺子", "id": 3425636, "predecessors": [{"name": "度量儀器", "id": 65700}, {"name": "數學工具", "id": 52243}, {"name": "文具", "id": 69059}, {"name": "长度", "id": 741744}], "successors": []}
+{"name": "尺子", "id": 3425636, "predecessors": [{"name": "數學工具", "id": 52243}, {"name": "文具", "id": 69059}, {"name": "长度", "id": 741744}], "successors": []}

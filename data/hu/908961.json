@@ -1,1 +1,1 @@
-{"name": "Közlekedési_múzeumok", "id": 908961, "predecessors": [{"name": "Közlekedés", "id": 14862}, {"name": "Múzeumok", "id": 18352}], "successors": [{"name": "Vasúti_múzeumok", "id": 1095033}, {"name": "Hajómúzeumok", "id": 1570282}]}
+{"name": "Közlekedési_múzeumok", "id": 908961, "predecessors": [{"name": "Közlekedés", "id": 14862}, {"name": "Múzeumok", "id": 18352}], "successors": [{"name": "Vasúti_múzeumok", "id": 1095033}, {"name": "Repülési_múzeumok", "id": 1511795}, {"name": "Hajómúzeumok", "id": 1570282}]}

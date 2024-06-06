@@ -1,1 +1,1 @@
-{"name": "Rodenticides", "id": 3211468, "predecessors": [{"name": "Pesticides", "id": 1891566}, {"name": "Rodents", "id": 922975}], "successors": [{"name": "Anticoagulant_rodenticides", "id": 55045368}]}
+{"name": "Rodenticides", "id": 3211468, "predecessors": [{"name": "Biocides", "id": 38440289}, {"name": "Pesticides", "id": 1891566}], "successors": [{"name": "Anticoagulant_rodenticides", "id": 55045368}]}

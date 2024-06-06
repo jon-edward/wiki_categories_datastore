@@ -1,1 +1,1 @@
-{"name": "Weather_hazards_to_aircraft", "id": 32967331, "predecessors": [{"name": "Weather_hazards", "id": 2638252}], "successors": []}
+{"name": "Weather_hazards_to_aircraft", "id": 32967331, "predecessors": [{"name": "Aviation_risks", "id": 2487694}, {"name": "Weather_hazards", "id": 2638252}], "successors": []}

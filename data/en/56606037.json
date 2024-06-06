@@ -1,1 +1,1 @@
-{"name": "Musical_comedy_television_shows", "id": 56606037, "predecessors": [{"name": "Comedy_genres", "id": 14988940}], "successors": [{"name": "LazyTown", "id": 6839980}]}
+{"name": "Musical_comedy_television_shows", "id": 56606037, "predecessors": [{"name": "Musicals", "id": 1028878}, {"name": "Comedy_genres", "id": 14988940}], "successors": [{"name": "LazyTown", "id": 6839980}]}

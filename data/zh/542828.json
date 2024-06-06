@@ -1,1 +1,1 @@
-{"name": "寬頻", "id": 542828, "predecessors": [{"name": "互聯網存取", "id": 521186}], "successors": [{"name": "光纤通信", "id": 65032}]}
+{"name": "寬頻", "id": 542828, "predecessors": [{"name": "互聯網存取", "id": 521186}, {"name": "电信", "id": 214517}], "successors": [{"name": "光纤通信", "id": 65032}, {"name": "數字用戶線路", "id": 542826}]}

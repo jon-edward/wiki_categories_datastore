@@ -1,1 +1,1 @@
-{"name": "Time_zones", "id": 969694, "predecessors": [{"name": "Geography", "id": 693800}, {"name": "Time_scales", "id": 1677225}], "successors": [{"name": "Time_zones_in_the_United_States", "id": 38150761}]}
+{"name": "Time_zones", "id": 969694, "predecessors": [{"name": "Geography", "id": 693800}, {"name": "Time_scales", "id": 1677225}], "successors": [{"name": "UTC_offsets", "id": 28074484}, {"name": "Time_zones_in_the_United_States", "id": 38150761}]}

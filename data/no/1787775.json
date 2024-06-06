@@ -1,1 +1,1 @@
-{"name": "Tennis_i_Mexico", "id": 1787775, "predecessors": [{"name": "Sport_i_Nord-Amerika", "id": 1273818}, {"name": "Tennis", "id": 29620}], "successors": [{"name": "Mexican_Open", "id": 1642391}, {"name": "Los_Cabos_Open", "id": 1642580}, {"name": "Monterrey_Open", "id": 1642655}]}
+{"name": "Tennis_i_Mexico", "id": 1787775, "predecessors": [{"name": "Mexico", "id": 11387}, {"name": "Tennis", "id": 29620}], "successors": [{"name": "Mexican_Open", "id": 1642391}, {"name": "Los_Cabos_Open", "id": 1642580}, {"name": "Monterrey_Open", "id": 1642655}]}

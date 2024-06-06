@@ -1,1 +1,1 @@
-{"name": "Software_that_was_ported_from_GTK_to_Qt", "id": 42278781, "predecessors": [{"name": "GTK", "id": 26540470}, {"name": "Software_that_uses_GTK", "id": 40563904}, {"name": "Software_that_uses_Qt", "id": 24951081}], "successors": []}
+{"name": "Software_that_was_ported_from_GTK_to_Qt", "id": 42278781, "predecessors": [{"name": "GTK", "id": 26540470}, {"name": "Software_that_uses_GTK", "id": 40563904}, {"name": "Software_that_uses_Qt", "id": 24951081}, {"name": "Software_that_was_rewritten_in_C++", "id": 52593513}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Knee_injuries_and_disorders", "id": 53903966, "predecessors": [{"name": "Musculoskeletal_disorders", "id": 2900721}], "successors": [{"name": "Knee_injuries", "id": 54277386}]}
+{"name": "Knee_injuries_and_disorders", "id": 53903966, "predecessors": [{"name": "Musculoskeletal_disorders", "id": 2900721}, {"name": "Injuries", "id": 10158091}], "successors": [{"name": "Knee_injuries", "id": 54277386}]}

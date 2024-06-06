@@ -1,1 +1,1 @@
-{"name": "Film_documentaire_belge", "id": 2835789, "predecessors": [{"name": "Genre_cinématographique", "id": 83752}], "successors": []}
+{"name": "Film_documentaire_belge", "id": 2835789, "predecessors": [{"name": "Film_documentaire", "id": 157786}, {"name": "Genre_cinématographique", "id": 83752}], "successors": []}

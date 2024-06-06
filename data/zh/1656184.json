@@ -1,1 +1,1 @@
-{"name": "疾病調節抗風濕藥物", "id": 1656184, "predecessors": [{"name": "药物", "id": 50014}], "successors": []}
+{"name": "疾病調節抗風濕藥物", "id": 1656184, "predecessors": [{"name": "自體免疫性疾病", "id": 1069305}, {"name": "風濕病學", "id": 2974890}, {"name": "肌骨系统", "id": 1583325}], "successors": []}

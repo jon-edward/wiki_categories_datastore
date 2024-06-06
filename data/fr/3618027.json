@@ -1,1 +1,1 @@
-{"name": "Ingénieur_agronome", "id": 3618027, "predecessors": [{"name": "Agronome", "id": 141488}, {"name": "Ingénieur", "id": 157944}], "successors": [{"name": "Élève_de_l'Institut_national_agronomique", "id": 12012208}]}
+{"name": "Ingénieur_agronome", "id": 3618027, "predecessors": [{"name": "Agronome", "id": 141488}, {"name": "Accueil", "id": 1155637}], "successors": [{"name": "Élève_de_l'Institut_national_agronomique", "id": 12012208}]}

@@ -1,1 +1,1 @@
-{"name": "日本航空工程師", "id": 3424072, "predecessors": [{"name": "日本工程師", "id": 3424075}, {"name": "日本航空", "id": 982763}, {"name": "工程师", "id": 54272}], "successors": []}
+{"name": "日本航空工程師", "id": 3424072, "predecessors": [{"name": "航空", "id": 81361}, {"name": "工程师", "id": 54272}], "successors": []}

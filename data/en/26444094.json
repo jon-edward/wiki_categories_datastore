@@ -1,1 +1,1 @@
-{"name": "International_Phonetic_Alphabet", "id": 26444094, "predecessors": [{"name": "International_standards", "id": 1461698}, {"name": "Latin_alphabets", "id": 32763312}], "successors": [{"name": "IPA_typefaces", "id": 24715366}]}
+{"name": "International_Phonetic_Alphabet", "id": 26444094, "predecessors": [{"name": "International_standards", "id": 1461698}, {"name": "Latin_alphabets", "id": 32763312}, {"name": "Phonetic_alphabets", "id": 1565896}], "successors": [{"name": "IPA_typefaces", "id": 24715366}]}

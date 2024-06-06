@@ -1,1 +1,1 @@
-{"name": "三菱重工業製造的飛機", "id": 4541952, "predecessors": [{"name": "製造業", "id": 1159067}], "successors": []}
+{"name": "三菱重工業製造的飛機", "id": 4541952, "predecessors": [{"name": "三菱重工業", "id": 3929263}, {"name": "航空器", "id": 460050}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Military_aviation_exercises", "id": 25537207, "predecessors": [{"name": "Military_exercises_and_wargames", "id": 4779046}], "successors": [{"name": "United_States_Air_Force_exercises", "id": 30739861}]}
+{"name": "Military_aviation_exercises", "id": 25537207, "predecessors": [{"name": "Aerial_operations_and_battles", "id": 17829042}, {"name": "Military_aviation", "id": 924143}, {"name": "Military_exercises_and_wargames", "id": 4779046}], "successors": [{"name": "United_States_Air_Force_exercises", "id": 30739861}]}

@@ -1,1 +1,1 @@
-{"name": "Protein_heteropolymers", "id": 53437003, "predecessors": [{"name": "Protein_structure", "id": 740536}], "successors": []}
+{"name": "Protein_heteropolymers", "id": 53437003, "predecessors": [{"name": "Copolymers", "id": 5307991}, {"name": "Protein_structure", "id": 740536}], "successors": []}

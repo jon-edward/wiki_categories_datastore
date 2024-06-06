@@ -1,1 +1,1 @@
-{"name": "Woodworking_hand-held_power_tools", "id": 2916727, "predecessors": [{"name": "Hand-held_power_tools", "id": 8475121}, {"name": "Woodworking_tools", "id": 11786578}], "successors": [{"name": "Chainsaws", "id": 28096210}]}
+{"name": "Woodworking_hand-held_power_tools", "id": 2916727, "predecessors": [{"name": "Woodworking_tools", "id": 11786578}], "successors": [{"name": "Chainsaws", "id": 28096210}]}

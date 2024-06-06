@@ -1,1 +1,1 @@
-{"name": "ITV_game_shows", "id": 38295444, "predecessors": [{"name": "Culture_of_the_United_Kingdom", "id": 31257136}], "successors": [{"name": "University_Challenge", "id": 21708428}, {"name": "ITV_panel_games", "id": 45447148}]}
+{"name": "ITV_game_shows", "id": 38295444, "predecessors": [{"name": "Gaming", "id": 11608552}], "successors": [{"name": "University_Challenge", "id": 21708428}]}

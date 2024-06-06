@@ -1,1 +1,1 @@
-{"name": "성소수자_군인", "id": 1194351, "predecessors": [{"name": "군인", "id": 39206}], "successors": [{"name": "트랜스젠더_군인", "id": 2668435}]}
+{"name": "성소수자_군인", "id": 1194351, "predecessors": [{"name": "군인", "id": 39206}, {"name": "성소수자", "id": 1010228}], "successors": [{"name": "트랜스젠더_군인", "id": 2668435}]}

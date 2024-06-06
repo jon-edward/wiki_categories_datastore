@@ -1,1 +1,1 @@
-{"name": "VoIP-Software", "id": 2171484, "predecessors": [{"name": "Kommunikationssoftware", "id": 5634615}, {"name": "VoIP", "id": 615582}], "successors": [{"name": "Freie_VoIP-Software", "id": 1778676}, {"name": "Videokonferenz-Software", "id": 8559062}]}
+{"name": "VoIP-Software", "id": 2171484, "predecessors": [{"name": "VoIP", "id": 615582}, {"name": "Anwendungssoftware", "id": 5234444}], "successors": [{"name": "Freie_VoIP-Software", "id": 1778676}, {"name": "Videokonferenz-Software", "id": 8559062}]}

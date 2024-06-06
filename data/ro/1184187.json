@@ -1,1 +1,1 @@
-{"name": "Transportul_feroviar_în_Franța", "id": 1184187, "predecessors": [{"name": "Transport_feroviar_după_țară", "id": 876764}, {"name": "Transport_în_Franța", "id": 760380}], "successors": [{"name": "TGV", "id": 3034438}]}
+{"name": "Transportul_feroviar_în_Franța", "id": 1184187, "predecessors": [{"name": "Transport_feroviar_după_țară", "id": 876764}, {"name": "Transport_în_Franța", "id": 760380}], "successors": [{"name": "Gări_din_Franța", "id": 752628}, {"name": "TGV", "id": 3034438}]}

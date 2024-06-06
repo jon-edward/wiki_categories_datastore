@@ -1,1 +1,1 @@
-{"name": "Circos", "id": 3118123, "predecessors": [{"name": "Espectáculos", "id": 50824}, {"name": "Entretenimiento", "id": 296195}], "successors": [{"name": "Cirque_du_Soleil", "id": 385515}]}
+{"name": "Circos", "id": 3118123, "predecessors": [{"name": "Espectáculos", "id": 50824}, {"name": "Industria_del_entretenimiento", "id": 789328}], "successors": [{"name": "Cirque_du_Soleil", "id": 385515}]}

@@ -1,1 +1,0 @@
-{"name": "LISP程式語言家族", "id": 1263220, "predecessors": [{"name": "函数式编程语言", "id": 973145}, {"name": "同像性编程语言", "id": 7390583}], "successors": [{"name": "LISP程式語言", "id": 1263212}, {"name": "Common_Lisp", "id": 7710485}, {"name": "Scheme实现", "id": 7019017}]}

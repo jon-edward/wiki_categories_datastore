@@ -1,1 +1,1 @@
-{"name": "Bahnübergangsunfall", "id": 9866219, "predecessors": [{"name": "Straßenverkehrsunfall", "id": 1848825}, {"name": "Absperrung", "id": 905855}, {"name": "!Hauptkategorie", "id": 235489}, {"name": "Sicherheit_im_Bahnbetrieb", "id": 11894297}], "successors": []}
+{"name": "Bahnübergangsunfall", "id": 9866219, "predecessors": [{"name": "Bahnübergang", "id": 4374652}, {"name": "Straßenverkehrsunfall", "id": 1848825}, {"name": "!Hauptkategorie", "id": 235489}, {"name": "Sicherheit_im_Bahnbetrieb", "id": 11894297}], "successors": []}

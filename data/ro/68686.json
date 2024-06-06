@@ -1,1 +1,1 @@
-{"name": "Protocoale", "id": 68686, "predecessors": [{"name": "Internet", "id": 12210}, {"name": "Protocoale_de_rețea", "id": 1331746}, {"name": "Rețele_de_calculatoare", "id": 572137}], "successors": []}
+{"name": "Protocoale", "id": 68686, "predecessors": [{"name": "Internet", "id": 12210}, {"name": "Rețele_de_calculatoare", "id": 572137}], "successors": [{"name": "Protocoale_de_rețea", "id": 1331746}, {"name": "Protocoale_Internet", "id": 1581726}, {"name": "Magistrale_de_date", "id": 2380695}]}

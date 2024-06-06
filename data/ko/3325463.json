@@ -1,1 +1,1 @@
-{"name": "소를_넣은_채소", "id": 3325463, "predecessors": [{"name": "채소_요리", "id": 1828663}], "successors": []}
+{"name": "소를_넣은_채소", "id": 3325463, "predecessors": [{"name": "소를_넣은_음식", "id": 3323980}, {"name": "채소_요리", "id": 1828663}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Robo-advisors", "id": 59906959, "predecessors": [{"name": "Brokerage_firms", "id": 18042130}, {"name": "Electronic_trading_platforms", "id": 40837812}, {"name": "Capital_management", "id": 74274616}], "successors": []}
+{"name": "Robo-advisors", "id": 59906959, "predecessors": [{"name": "Electronic_trading_platforms", "id": 40837812}, {"name": "Capital_management", "id": 74274616}], "successors": []}

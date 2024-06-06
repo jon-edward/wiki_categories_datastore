@@ -1,1 +1,1 @@
-{"name": "Music_criticism", "id": 7883932, "predecessors": [{"name": "Musical_culture", "id": 20122265}], "successors": [{"name": "Music_critics", "id": 736693}]}
+{"name": "Music_criticism", "id": 7883932, "predecessors": [{"name": "Musical_culture", "id": 20122265}, {"name": "Critical_thinking_skills", "id": 53899290}], "successors": [{"name": "Music_critics", "id": 736693}, {"name": "Books_of_music_criticism", "id": 63010379}]}

@@ -1,1 +1,1 @@
-{"name": "Migration-related_organizations_based_in_Canada", "id": 68382453, "predecessors": [{"name": "Immigration_to_Canada", "id": 4942549}], "successors": [{"name": "Refugee_aid_organizations_in_Canada", "id": 69643065}]}
+{"name": "Migration-related_organizations_based_in_Canada", "id": 68382453, "predecessors": [{"name": "Immigration_to_Canada", "id": 4942549}, {"name": "Migration-related_organizations", "id": 14677341}], "successors": [{"name": "Refugee_aid_organizations_in_Canada", "id": 69643065}]}

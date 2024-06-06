@@ -1,1 +1,1 @@
-{"name": "검색_알고리즘", "id": 75326, "predecessors": [{"name": "알고리즘", "id": 38334}], "successors": [{"name": "조합_최적화", "id": 117076}]}
+{"name": "검색_알고리즘", "id": 75326, "predecessors": [{"name": "알고리즘", "id": 38334}, {"name": "정보_검색_기술", "id": 3127864}], "successors": [{"name": "조합_최적화", "id": 117076}]}

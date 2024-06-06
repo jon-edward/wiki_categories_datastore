@@ -1,1 +1,1 @@
-{"name": "Palette_Sport_au_Maroc", "id": 12294012, "predecessors": [{"name": "Palette_Maroc", "id": 3406651}, {"name": "Modèle_Maroc", "id": 1690167}, {"name": "Palette_Afrique", "id": 3644739}], "successors": [{"name": "Palette_Football_au_Maroc", "id": 9133934}]}
+{"name": "Palette_Sport_au_Maroc", "id": 12294012, "predecessors": [{"name": "Palette_Maroc", "id": 3406651}, {"name": "Modèle_Maroc", "id": 1690167}, {"name": "Palette_Sport_en_Afrique", "id": 9120002}], "successors": [{"name": "Palette_Football_au_Maroc", "id": 9133934}]}

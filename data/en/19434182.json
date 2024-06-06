@@ -1,1 +1,1 @@
-{"name": "Product_safety_scandals", "id": 19434182, "predecessors": [{"name": "Corporate_scandals", "id": 5334613}, {"name": "Product_safety", "id": 19434081}], "successors": [{"name": "Food_safety_scandals", "id": 19434228}]}
+{"name": "Product_safety_scandals", "id": 19434182, "predecessors": [{"name": "Corporate_scandals", "id": 5334613}], "successors": [{"name": "Food_safety_scandals", "id": 19434228}]}

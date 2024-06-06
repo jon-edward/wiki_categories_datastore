@@ -1,1 +1,1 @@
-{"name": "Recurrence_relations", "id": 1590272, "predecessors": [{"name": "Integer_sequences", "id": 693721}, {"name": "Recursion", "id": 22601667}], "successors": [{"name": "Fibonacci_numbers", "id": 4161653}]}
+{"name": "Recurrence_relations", "id": 1590272, "predecessors": [{"name": "Integer_sequences", "id": 693721}, {"name": "Mathematical_relations", "id": 7437997}, {"name": "Recursion", "id": 22601667}], "successors": [{"name": "Fibonacci_numbers", "id": 4161653}]}

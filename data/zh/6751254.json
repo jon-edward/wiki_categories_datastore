@@ -1,1 +1,1 @@
-{"name": "蛋类食品", "id": 6751254, "predecessors": [{"name": "动物产物", "id": 1600528}], "successors": [{"name": "蛋制品与蛋类菜肴", "id": 3413009}]}
+{"name": "蛋类食品", "id": 6751254, "predecessors": [{"name": "动物产物", "id": 1600528}, {"name": "食品", "id": 40514}], "successors": [{"name": "蛋制品与蛋类菜肴", "id": 3413009}]}

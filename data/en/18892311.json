@@ -1,1 +1,1 @@
-{"name": "Wells_Fargo_buildings", "id": 18892311, "predecessors": [{"name": "Wells_Fargo", "id": 10712854}, {"name": "Bank_buildings", "id": 18892243}], "successors": []}
+{"name": "Wells_Fargo_buildings", "id": 18892311, "predecessors": [{"name": "Bank_buildings", "id": 18892243}], "successors": []}

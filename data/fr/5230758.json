@@ -1,1 +1,1 @@
-{"name": "Sélectionneur_de_l'équipe_de_Maurice_de_football", "id": 5230758, "predecessors": [{"name": "Métier", "id": 87726}, {"name": "Association_ou_organisme_lié_au_sport", "id": 556600}], "successors": []}
+{"name": "Sélectionneur_de_l'équipe_de_Maurice_de_football", "id": 5230758, "predecessors": [{"name": "Entraînement_sportif", "id": 895269}, {"name": "Association_ou_organisme_lié_au_sport", "id": 556600}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "测绘学家", "id": 6483772, "predecessors": [{"name": "可视化", "id": 981392}], "successors": [{"name": "大地測量學家", "id": 2761307}]}
+{"name": "测绘学家", "id": 6483772, "predecessors": [{"name": "测绘学", "id": 80127}, {"name": "科学建模", "id": 770208}], "successors": [{"name": "大地測量學家", "id": 2761307}]}

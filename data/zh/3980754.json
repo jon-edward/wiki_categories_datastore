@@ -1,1 +1,1 @@
-{"name": "詞曲作家", "id": 3980754, "predecessors": [{"name": "作家", "id": 34499}], "successors": [{"name": "作詞家", "id": 141010}, {"name": "創作歌曲列表", "id": 4954339}, {"name": "LGBT詞曲作家", "id": 7742629}]}
+{"name": "詞曲作家", "id": 3980754, "predecessors": [{"name": "作曲家", "id": 36085}, {"name": "作家", "id": 34499}], "successors": [{"name": "作詞家", "id": 141010}, {"name": "創作歌曲列表", "id": 4954339}, {"name": "LGBT詞曲作家", "id": 7742629}]}

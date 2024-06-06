@@ -1,1 +1,1 @@
-{"name": "Cache_coherency", "id": 18542215, "predecessors": [{"name": "Cache_(computing)", "id": 34604262}, {"name": "Parallel_computing", "id": 957606}], "successors": []}
+{"name": "Cache_coherency", "id": 18542215, "predecessors": [{"name": "Cache_(computing)", "id": 34604262}, {"name": "Central_processing_unit", "id": 5834555}, {"name": "Parallel_computing", "id": 957606}], "successors": []}

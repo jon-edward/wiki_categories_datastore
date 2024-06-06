@@ -1,1 +1,1 @@
-{"name": "TCP/IP", "id": 520387, "predecessors": [{"name": "互联网标准", "id": 408507}, {"name": "传输层协议", "id": 4010671}, {"name": "网际协议", "id": 513850}], "successors": []}
+{"name": "TCP/IP", "id": 520387, "predecessors": [{"name": "互联网标准", "id": 408507}, {"name": "网际协议", "id": 513850}], "successors": []}

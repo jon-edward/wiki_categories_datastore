@@ -1,1 +1,1 @@
-{"name": "Organisations_based_in_Karachi", "id": 17263617, "predecessors": [{"name": "Karachi", "id": 30449243}, {"name": "Sindh", "id": 1025914}], "successors": [{"name": "Schools_in_Karachi", "id": 2824158}, {"name": "Companies_based_in_Karachi", "id": 31057175}]}
+{"name": "Organisations_based_in_Karachi", "id": 17263617, "predecessors": [{"name": "Karachi", "id": 30449243}], "successors": [{"name": "Schools_in_Karachi", "id": 2824158}, {"name": "Companies_based_in_Karachi", "id": 31057175}]}

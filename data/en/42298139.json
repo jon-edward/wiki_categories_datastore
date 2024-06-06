@@ -1,1 +1,1 @@
-{"name": "Prostitution_law", "id": 42298139, "predecessors": [{"name": "Prostitution", "id": 768946}], "successors": [{"name": "Prostitution_law_in_the_United_States", "id": 59782323}, {"name": "Prostitution_law_in_the_United_Kingdom", "id": 59835758}]}
+{"name": "Prostitution_law", "id": 42298139, "predecessors": [{"name": "Prostitution", "id": 768946}, {"name": "Sex_laws", "id": 5162316}, {"name": "Policy", "id": 8592882}], "successors": [{"name": "Prostitution_law_in_the_United_States", "id": 59782323}, {"name": "Prostitution_law_in_the_United_Kingdom", "id": 59835758}]}

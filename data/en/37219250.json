@@ -1,1 +1,1 @@
-{"name": "Tourist_attractions_in_Dhaka", "id": 37219250, "predecessors": [{"name": "Economy_of_Dhaka", "id": 46379965}], "successors": [{"name": "Museums_in_Dhaka", "id": 37219175}, {"name": "Old_Dhaka", "id": 69743354}]}
+{"name": "Tourist_attractions_in_Dhaka", "id": 37219250, "predecessors": [{"name": "Tourism", "id": 698284}], "successors": [{"name": "Museums_in_Dhaka", "id": 37219175}, {"name": "Old_Dhaka", "id": 69743354}, {"name": "Mosques_in_Dhaka", "id": 26152988}]}

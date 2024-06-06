@@ -1,1 +1,1 @@
-{"name": "Aviation_standards", "id": 16737539, "predecessors": [{"name": "Aviation", "id": 735378}], "successors": [{"name": "RTCA_standards", "id": 3335517}, {"name": "Aviation_communications", "id": 33870766}]}
+{"name": "Aviation_standards", "id": 16737539, "predecessors": [{"name": "Aviation", "id": 735378}], "successors": [{"name": "RTCA_standards", "id": 3335517}, {"name": "Aviation_communications", "id": 33870766}, {"name": "ARINC_standards", "id": 60153110}]}

@@ -1,1 +1,1 @@
-{"name": "Phim_dựa_theo_thần_thoại_cổ_điển", "id": 588598, "predecessors": [{"name": "Phim_dựa_theo_văn_hóa_dân_gian", "id": 19470632}, {"name": "Thần_thoại_trong_văn_hóa_đại_chúng", "id": 3367836}], "successors": []}
+{"name": "Phim_dựa_theo_thần_thoại_cổ_điển", "id": 588598, "predecessors": [{"name": "Thần_thoại_trong_văn_hóa_đại_chúng", "id": 3367836}, {"name": "Văn_hóa_dân_gian", "id": 321336}, {"name": "Truyền_thuyết", "id": 138407}], "successors": []}

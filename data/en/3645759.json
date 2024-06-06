@@ -1,1 +1,1 @@
-{"name": "Wi-Fi_providers", "id": 3645759, "predecessors": [{"name": "Wi-Fi", "id": 2162549}], "successors": [{"name": "T-Mobile_US", "id": 64616574}]}
+{"name": "Wi-Fi_providers", "id": 3645759, "predecessors": [{"name": "Wi-Fi", "id": 2162549}, {"name": "Wireless_Internet_service_providers", "id": 13884590}], "successors": [{"name": "T-Mobile_US", "id": 64616574}]}

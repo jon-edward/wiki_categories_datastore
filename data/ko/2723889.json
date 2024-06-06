@@ -1,1 +1,1 @@
-{"name": "우주선_제조사", "id": 2723889, "predecessors": [{"name": "항공우주_기업", "id": 465517}], "successors": [{"name": "스페이스X", "id": 2723887}]}
+{"name": "우주선_제조사", "id": 2723889, "predecessors": [{"name": "우주선", "id": 37687}, {"name": "항공우주_기업", "id": 465517}], "successors": [{"name": "스페이스X", "id": 2723887}]}

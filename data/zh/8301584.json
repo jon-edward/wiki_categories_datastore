@@ -1,1 +1,1 @@
-{"name": "潛艦艦長", "id": 8301584, "predecessors": [{"name": "潛艇", "id": 281388}], "successors": [{"name": "美国潜艇指挥官", "id": 8532565}]}
+{"name": "潛艦艦長", "id": 8301584, "predecessors": [{"name": "军事", "id": 450358}, {"name": "潛艇", "id": 281388}], "successors": [{"name": "美国潜艇指挥官", "id": 8532565}]}

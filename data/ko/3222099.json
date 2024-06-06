@@ -1,1 +1,1 @@
-{"name": "수두", "id": 3222099, "predecessors": [{"name": "바이러스성_피부_질환", "id": 3222107}, {"name": "백신으로_예방_가능한_질병", "id": 2522286}, {"name": "DNA", "id": 37950}], "successors": []}
+{"name": "수두", "id": 3222099, "predecessors": [{"name": "바이러스성_피부_질환", "id": 3222107}, {"name": "DNA", "id": 37950}], "successors": []}

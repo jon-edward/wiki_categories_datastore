@@ -1,1 +1,1 @@
-{"name": "Armed_Forces_days", "id": 49445931, "predecessors": [{"name": "Types_of_national_holidays", "id": 47021460}], "successors": [{"name": "Victory_days", "id": 11142797}]}
+{"name": "Armed_Forces_days", "id": 49445931, "predecessors": [{"name": "Types_of_national_holidays", "id": 47021460}, {"name": "Military", "id": 716572}], "successors": [{"name": "Victory_days", "id": 11142797}]}

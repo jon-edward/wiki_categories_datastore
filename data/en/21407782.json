@@ -1,1 +1,1 @@
-{"name": "Markov_chain_Monte_Carlo", "id": 21407782, "predecessors": [{"name": "Bayesian_estimation", "id": 52314788}, {"name": "Computational_statistics", "id": 9272793}], "successors": []}
+{"name": "Markov_chain_Monte_Carlo", "id": 21407782, "predecessors": [{"name": "Bayesian_estimation", "id": 52314788}, {"name": "Computational_statistics", "id": 9272793}, {"name": "Monte_Carlo_methods", "id": 5200150}], "successors": []}

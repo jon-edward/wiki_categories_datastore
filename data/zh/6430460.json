@@ -1,1 +1,1 @@
-{"name": "渥美線車站", "id": 6430460, "predecessors": [{"name": "名古屋鐵道廢站", "id": 5217348}], "successors": []}
+{"name": "渥美線車站", "id": 6430460, "predecessors": [{"name": "名古屋鐵道廢站", "id": 5217348}, {"name": "日本鐵路", "id": 219206}, {"name": "鐵路車站", "id": 81216}], "successors": []}

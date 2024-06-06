@@ -1,1 +1,1 @@
-{"name": "생물정보학_소프트웨어", "id": 2597007, "predecessors": [{"name": "생물정보학", "id": 63374}], "successors": []}
+{"name": "생물정보학_소프트웨어", "id": 2597007, "predecessors": [{"name": "생물정보학", "id": 63374}], "successors": [{"name": "분자_모델링_소프트웨어", "id": 2597002}]}

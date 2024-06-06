@@ -1,1 +1,1 @@
-{"name": "Ehemalige_Forschungseinrichtung", "id": 7917759, "predecessors": [{"name": "Wissenschaftsgeschichte", "id": 441843}, {"name": "Forschungsinfrastruktur", "id": 5386820}], "successors": [{"name": "Institut_der_Akademie_der_Wissenschaften_der_DDR", "id": 3407203}]}
+{"name": "Ehemalige_Forschungseinrichtung", "id": 7917759, "predecessors": [{"name": "Forschungseinrichtung", "id": 5777901}, {"name": "Wissenschaftsgeschichte", "id": 441843}], "successors": [{"name": "Institut_der_Akademie_der_Wissenschaften_der_DDR", "id": 3407203}]}

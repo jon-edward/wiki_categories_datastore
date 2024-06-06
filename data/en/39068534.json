@@ -1,1 +1,1 @@
-{"name": "Beta2-adrenergic_agonists", "id": 39068534, "predecessors": [{"name": "Beta-adrenergic_agonists", "id": 855819}, {"name": "Inotropic_agents", "id": 5205459}], "successors": [{"name": "Long-acting_beta2-adrenergic_agonists", "id": 50102251}]}
+{"name": "Beta2-adrenergic_agonists", "id": 39068534, "predecessors": [{"name": "Beta-adrenergic_agonists", "id": 855819}, {"name": "Inotropic_agents", "id": 5205459}, {"name": "World_Anti-Doping_Agency_prohibited_substances", "id": 51355853}], "successors": [{"name": "Long-acting_beta2-adrenergic_agonists", "id": 50102251}]}

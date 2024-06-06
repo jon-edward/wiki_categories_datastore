@@ -1,1 +1,1 @@
-{"name": "Hubble_Space_Telescope_instruments", "id": 41031895, "predecessors": [{"name": "Hubble_Space_Telescope", "id": 902347}, {"name": "Image_sensors", "id": 3789130}], "successors": []}
+{"name": "Hubble_Space_Telescope_instruments", "id": 41031895, "predecessors": [{"name": "Hubble_Space_Telescope", "id": 902347}, {"name": "Astronomical_instruments", "id": 11929564}], "successors": []}

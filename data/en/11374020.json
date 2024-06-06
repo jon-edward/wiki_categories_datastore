@@ -1,1 +1,1 @@
-{"name": "Residency", "id": 11374020, "predecessors": [{"name": "Home", "id": 803231}], "successors": [{"name": "Residence_permit", "id": 64735230}]}
+{"name": "Residency", "id": 11374020, "predecessors": [{"name": "Conflict_of_laws", "id": 5555353}, {"name": "Home", "id": 803231}], "successors": [{"name": "Residence_permit", "id": 64735230}]}

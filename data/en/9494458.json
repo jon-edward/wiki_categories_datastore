@@ -1,1 +1,1 @@
-{"name": "American_abortion_providers", "id": 9494458, "predecessors": [{"name": "Abortion_in_the_United_States", "id": 7167629}], "successors": [{"name": "Victims_of_anti-abortion_violence_in_the_United_States", "id": 42714290}]}
+{"name": "American_abortion_providers", "id": 9494458, "predecessors": [{"name": "Abortion_in_the_United_States", "id": 7167629}, {"name": "Abortion_providers", "id": 5512049}], "successors": [{"name": "Victims_of_anti-abortion_violence_in_the_United_States", "id": 42714290}]}

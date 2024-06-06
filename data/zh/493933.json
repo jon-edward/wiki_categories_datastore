@@ -1,1 +1,1 @@
-{"name": "天然气管道", "id": 493933, "predecessors": [{"name": "基础设施", "id": 1405664}, {"name": "天然气", "id": 493934}], "successors": []}
+{"name": "天然气管道", "id": 493933, "predecessors": [{"name": "基础设施", "id": 1405664}, {"name": "天然气", "id": 493934}], "successors": [{"name": "天然气管道运输公司", "id": 8736262}]}

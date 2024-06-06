@@ -1,1 +1,1 @@
-{"name": "免費報紙", "id": 426375, "predecessors": [{"name": "报纸", "id": 52396}], "successors": [{"name": "香港免費報紙", "id": 1628998}]}
+{"name": "免費報紙", "id": 426375, "predecessors": [{"name": "付款", "id": 7828563}, {"name": "报纸", "id": 52396}], "successors": [{"name": "香港免費報紙", "id": 1628998}]}

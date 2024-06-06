@@ -1,1 +1,1 @@
-{"name": "Videojuegos_de_béisbol", "id": 1781303, "predecessors": [{"name": "Videojuegos_de_deportes", "id": 229586}, {"name": "Deporte_en_Estados_Unidos", "id": 4168512}], "successors": []}
+{"name": "Videojuegos_de_béisbol", "id": 1781303, "predecessors": [{"name": "Béisbol", "id": 56745}, {"name": "Videojuegos_de_deportes", "id": 229586}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Militære_beskjeftigelser", "id": 53453, "predecessors": [{"name": "Beskjeftigelser", "id": 46352}, {"name": "Militærvesen", "id": 25048}], "successors": [{"name": "Generalkrigskommissær", "id": 1236799}, {"name": "Militært_sjelesorgspersonell", "id": 1558361}]}
+{"name": "Militære_beskjeftigelser", "id": 53453, "predecessors": [{"name": "Militærtjeneste", "id": 2190826}, {"name": "Yrkesbeskrivelser", "id": 605510}], "successors": [{"name": "Generalkrigskommissær", "id": 1236799}, {"name": "Militært_sjelesorgspersonell", "id": 1558361}]}

@@ -1,1 +1,1 @@
-{"name": "大津市鐵路車站", "id": 7002968, "predecessors": [{"name": "大津市建筑物", "id": 7736037}], "successors": []}
+{"name": "大津市鐵路車站", "id": 7002968, "predecessors": [{"name": "大津市建筑物", "id": 7736037}, {"name": "滋賀縣鐵路車站", "id": 632593}], "successors": [{"name": "大津市廢站", "id": 8677494}]}
