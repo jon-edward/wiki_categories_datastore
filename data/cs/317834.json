@@ -1,1 +1,0 @@
-{"name": "Testování_softwaru", "id": 317834, "predecessors": [{"name": "Kvalita", "id": 248192}, {"name": "Softwarové_inženýrství", "id": 273005}, {"name": "Testování", "id": 1531466}], "successors": [{"name": "Bug_tracking_systémy", "id": 271833}, {"name": "Softwarové_anomálie", "id": 283470}, {"name": "Testovací_příklady", "id": 1568070}]}

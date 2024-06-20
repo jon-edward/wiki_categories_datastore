@@ -1,1 +1,0 @@
-{"name": "Architektura_procesoru", "id": 733577, "predecessors": [{"name": "Architektura_počítače", "id": 373148}, {"name": "Procesory", "id": 4831}], "successors": [{"name": "Architektura_x86", "id": 126444}, {"name": "Architektura_ARM", "id": 829479}, {"name": "Mikroarchitektury", "id": 976962}, {"name": "Instrukční_sady", "id": 976964}]}

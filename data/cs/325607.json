@@ -1,1 +1,0 @@
-{"name": "Vítr", "id": 325607, "predecessors": [{"name": "Meteorologické_jevy", "id": 40058}, {"name": "Počasí", "id": 5605}], "successors": [{"name": "Větry", "id": 13226}, {"name": "Větrná_energie", "id": 219473}, {"name": "Rychlost_větru", "id": 325606}, {"name": "Bouře", "id": 917392}]}

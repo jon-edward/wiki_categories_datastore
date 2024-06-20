@@ -1,1 +1,0 @@
-{"name": "X_Window_System", "id": 271632, "predecessors": [{"name": "Linux", "id": 5278}, {"name": "Svobodný_software", "id": 4438}, {"name": "Unix", "id": 6415}], "successors": [{"name": "KDE", "id": 17188}, {"name": "GNOME", "id": 32667}, {"name": "Knihovny_na_bázi_X11", "id": 271847}, {"name": "Správci_oken", "id": 460272}]}

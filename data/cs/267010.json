@@ -1,1 +1,0 @@
-{"name": "Spalovací_zařízení", "id": 267010, "predecessors": [{"name": "Energetika", "id": 6546}, {"name": "Oheň", "id": 79565}, {"name": "Hmota", "id": 4630}], "successors": [{"name": "Spalovací_motory", "id": 7866}, {"name": "Parní_kotel", "id": 82512}, {"name": "Uhelné_elektrárny", "id": 257236}]}

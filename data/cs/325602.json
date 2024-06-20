@@ -1,1 +1,0 @@
-{"name": "Rychlost", "id": 325602, "predecessors": [{"name": "Fyzikální_veličiny", "id": 4619}, {"name": "Kinematika", "id": 5491}, {"name": "Pohyb", "id": 718112}], "successors": [{"name": "Jednotky_rychlosti", "id": 210807}, {"name": "Rychlost_větru", "id": 325606}, {"name": "Zrychlení", "id": 325618}]}

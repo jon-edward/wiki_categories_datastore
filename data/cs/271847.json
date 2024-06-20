@@ -1,1 +1,0 @@
-{"name": "Knihovny_na_bázi_X11", "id": 271847, "predecessors": [{"name": "Programové_knihovny", "id": 122218}, {"name": "X_Window_System", "id": 271632}], "successors": [{"name": "Software_používající_wxWidgets", "id": 1541919}]}

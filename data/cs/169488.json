@@ -1,1 +1,0 @@
-{"name": "Jednotky_času", "id": 169488, "predecessors": [{"name": "Jednotky", "id": 5184}, {"name": "Čas", "id": 4754}], "successors": [{"name": "Rok", "id": 1527733}, {"name": "Dny_v_týdnu", "id": 88312}, {"name": "Týdeníky", "id": 1524592}, {"name": "Týdenní_akce", "id": 1524605}]}

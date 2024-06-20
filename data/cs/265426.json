@@ -1,1 +1,0 @@
-{"name": "Přípojná_vozidla", "id": 265426, "predecessors": [{"name": "Kolejová_vozidla", "id": 96149}, {"name": "Nekolejová_vozidla", "id": 47247}], "successors": [{"name": "Železniční_vozy", "id": 86699}, {"name": "Vlečné_tramvajové_vozy", "id": 265432}, {"name": "Vozatajství", "id": 1066406}, {"name": "Potahová_vozidla", "id": 1186181}]}

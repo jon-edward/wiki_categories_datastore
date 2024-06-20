@@ -1,1 +1,0 @@
-{"name": "Unix", "id": 6415, "predecessors": [{"name": "Operační_systémy", "id": 4429}], "successors": [{"name": "GNU", "id": 4893}, {"name": "Standardní_unixové_příkazy", "id": 218291}, {"name": "X_Window_System", "id": 271632}, {"name": "Software_pro_Unix", "id": 271800}, {"name": "Varianty_Unixu", "id": 275070}, {"name": "POSIX", "id": 697747}]}

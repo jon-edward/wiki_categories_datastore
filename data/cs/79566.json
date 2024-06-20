@@ -1,1 +1,0 @@
-{"name": "Vytápění", "id": 79566, "predecessors": [{"name": "Bydlení", "id": 6109}, {"name": "Energetika", "id": 6546}, {"name": "Ochrana_před_vlivy_počasí", "id": 359551}, {"name": "Ohřev", "id": 1562544}, {"name": "Stavby", "id": 44128}], "successors": [{"name": "Oheň", "id": 79565}, {"name": "Paliva", "id": 82353}, {"name": "Chladiva", "id": 387206}]}

@@ -1,1 +1,0 @@
-{"name": "Řízení_železniční_dopravy", "id": 116483, "predecessors": [{"name": "Železniční_doprava", "id": 116517}, {"name": "Bezpečnost_dopravy", "id": 196160}], "successors": [{"name": "Vlaky", "id": 96194}, {"name": "Železniční_návěsti", "id": 96196}, {"name": "Železniční_zabezpečovací_zařízení", "id": 116457}, {"name": "Železniční_dopravny_a_zastávky", "id": 116484}]}

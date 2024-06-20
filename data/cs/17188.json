@@ -1,1 +1,0 @@
-{"name": "KDE", "id": 17188, "predecessors": [{"name": "Desktopová_prostředí", "id": 275731}, {"name": "Software_pro_Unix", "id": 271800}, {"name": "Svobodný_software", "id": 4438}, {"name": "X_Window_System", "id": 271632}], "successors": [{"name": "KDE_Extragear", "id": 149088}, {"name": "KOffice", "id": 159576}]}

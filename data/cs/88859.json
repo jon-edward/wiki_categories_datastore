@@ -1,1 +1,0 @@
-{"name": "Zranění", "id": 88859, "predecessors": [{"name": "Chirurgie", "id": 101544}, {"name": "Nemoci", "id": 9572}, {"name": "Ortopedie", "id": 130697}, {"name": "Soudní_lékařství", "id": 380360}, {"name": "Urgentní_stavy", "id": 406306}], "successors": [{"name": "Otravy", "id": 197395}, {"name": "Neurotraumata", "id": 479269}]}
