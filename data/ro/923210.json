@@ -1,1 +1,1 @@
-{"name": "Securitate_informatică", "id": 923210, "predecessors": [{"name": "Informatică", "id": 12197}], "successors": [{"name": "Securitatea_calculatoarelor", "id": 193155}, {"name": "Criminalistică_digitală", "id": 2406094}]}
+{"name": "Securitate_informatică", "id": 923210, "predecessors": [{"name": "Informatică", "id": 12197}, {"name": "Securitate", "id": 36333}], "successors": [{"name": "Securitatea_calculatoarelor", "id": 193155}, {"name": "Criminalistică_digitală", "id": 2406094}]}

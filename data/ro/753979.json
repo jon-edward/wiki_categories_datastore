@@ -1,1 +1,1 @@
-{"name": "Medicină_de_urgență", "id": 753979, "predecessors": [{"name": "Specialități_medicale", "id": 760126}], "successors": [{"name": "Servicii_medicale_de_urgență", "id": 760035}]}
+{"name": "Medicină_de_urgență", "id": 753979, "predecessors": [{"name": "Specialități_medicale", "id": 760126}], "successors": [{"name": "Servicii_medicale_de_urgență", "id": 760035}, {"name": "Urgențe_medicale", "id": 760516}]}

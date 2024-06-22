@@ -1,1 +1,1 @@
-{"name": "Escuela_sienesa", "id": 4140964, "predecessors": [{"name": "Siena", "id": 1641854}, {"name": "Arte_de_Italia", "id": 248432}], "successors": []}
+{"name": "Escuela_sienesa", "id": 4140964, "predecessors": [{"name": "Escuelas_pictóricas_de_Italia", "id": 10919007}, {"name": "Pintura_de_Italia_del_siglo_XIV", "id": 5081287}, {"name": "Pintura_de_Italia_del_siglo_XV", "id": 5081281}, {"name": "Pintura_del_Renacimiento", "id": 777101}, {"name": "Pintura_gótica", "id": 517658}, {"name": "Siena", "id": 1641854}], "successors": []}

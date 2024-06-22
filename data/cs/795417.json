@@ -1,0 +1,1 @@
+{"name": "Přenos_dat", "id": 795417, "predecessors": [{"name": "Telekomunikace", "id": 5434}, {"name": "Zpracování_dat", "id": 980613}], "successors": [{"name": "Sdílení_souborů", "id": 265980}, {"name": "Detekce_a_oprava_chyb", "id": 957106}, {"name": "Referenční_model_ISO/OSI", "id": 980608}, {"name": "Komunikační_protokoly_počítačových_sítí", "id": 1091691}]}

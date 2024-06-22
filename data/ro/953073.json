@@ -1,1 +1,1 @@
-{"name": "Tehnici_culinare", "id": 953073, "predecessors": [{"name": "Bucătărie", "id": 29289}, {"name": "Abilități", "id": 1659306}], "successors": [{"name": "Conservarea_alimentelor", "id": 953071}]}
+{"name": "Tehnici_culinare", "id": 953073, "predecessors": [{"name": "Bucătărie", "id": 29289}], "successors": [{"name": "Conservarea_alimentelor", "id": 953071}]}

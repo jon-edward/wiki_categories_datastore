@@ -1,1 +1,1 @@
-{"name": "Patologie", "id": 41485, "predecessors": [{"name": "Specialități_medicale", "id": 760126}], "successors": [{"name": "Patologi", "id": 371593}, {"name": "Psihopatologie", "id": 862528}]}
+{"name": "Patologie", "id": 41485, "predecessors": [{"name": "Specialități_medicale", "id": 760126}], "successors": [{"name": "Patologi", "id": 371593}, {"name": "Psihopatologie", "id": 862528}, {"name": "Anatomie_patologică", "id": 876800}, {"name": "Boli_ale_plantelor", "id": 803947}, {"name": "Fitopatologi", "id": 2446822}]}

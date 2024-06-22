@@ -1,1 +1,1 @@
-{"name": "음절_문자", "id": 38653, "predecessors": [{"name": "문자", "id": 12235}], "successors": [{"name": "가나_(문자)", "id": 74789}]}
+{"name": "음절_문자", "id": 38653, "predecessors": [{"name": "문자", "id": 12235}], "successors": [{"name": "가나_(문자)", "id": 74789}, {"name": "쐐기_문자", "id": 2715183}]}

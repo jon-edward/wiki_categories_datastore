@@ -1,1 +1,1 @@
-{"name": "NBA_players_with_retired_numbers", "id": 20957482, "predecessors": [{"name": "Basketball_players_with_retired_numbers", "id": 39382258}, {"name": "Men's_basketball_players", "id": 41825121}, {"name": "NBA_awards", "id": 3529869}], "successors": []}
+{"name": "NBA_players_with_retired_numbers", "id": 20957482, "predecessors": [{"name": "Basketball_players_with_retired_numbers", "id": 39382258}, {"name": "NBA_awards", "id": 3529869}, {"name": "Competitions", "id": 737119}], "successors": []}

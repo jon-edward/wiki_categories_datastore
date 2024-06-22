@@ -1,1 +1,1 @@
-{"name": "Film_tourné_en_Corrèze", "id": 8118965, "predecessors": [{"name": "Film_tourné_en_Nouvelle-Aquitaine", "id": 2395587}, {"name": "Communication", "id": 84690}, {"name": "Film_tourné_en_France", "id": 1100396}], "successors": []}
+{"name": "Film_tourné_en_Corrèze", "id": 8118965, "predecessors": [{"name": "Film_tourné_en_Nouvelle-Aquitaine", "id": 2395587}, {"name": "Cinéma_en_France", "id": 5838510}, {"name": "Film_tourné_en_France", "id": 1100396}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "IOS_소프트웨어", "id": 636070, "predecessors": [{"name": "IOS", "id": 540237}, {"name": "소프트웨어", "id": 13915}, {"name": "모바일_소프트웨어", "id": 556443}], "successors": [{"name": "IOS_게임", "id": 698591}, {"name": "아이폰_소프트웨어", "id": 701271}, {"name": "IOS_웹_브라우저", "id": 2302215}]}
+{"name": "IOS_소프트웨어", "id": 636070, "predecessors": [{"name": "IOS", "id": 540237}, {"name": "소프트웨어", "id": 13915}, {"name": "모바일_소프트웨어", "id": 556443}], "successors": [{"name": "IOS_게임", "id": 698591}, {"name": "IOS_웹_브라우저", "id": 2302215}]}

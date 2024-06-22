@@ -1,1 +1,1 @@
-{"name": "Cauciuc", "id": 892558, "predecessors": [{"name": "Elastomeri", "id": 1489864}, {"name": "Materiale_electroizolante", "id": 305151}, {"name": "Polimeri", "id": 661461}, {"name": "Terpene", "id": 856810}, {"name": "Materiale", "id": 36042}], "successors": [{"name": "Anvelope", "id": 912568}]}
+{"name": "Cauciuc", "id": 892558, "predecessors": [{"name": "Elastomeri", "id": 1489864}, {"name": "Materiale_electroizolante", "id": 305151}, {"name": "Polimeri", "id": 661461}, {"name": "Terpene", "id": 856810}], "successors": [{"name": "Anvelope", "id": 912568}]}

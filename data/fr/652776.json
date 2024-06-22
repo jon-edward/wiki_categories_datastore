@@ -1,1 +1,1 @@
-{"name": "Éducation_alternative", "id": 652776, "predecessors": [{"name": "Culture_alternative", "id": 176708}, {"name": "Méthode_d'éducation", "id": 3048525}], "successors": [{"name": "Compagnonnage", "id": 790772}, {"name": "École_alternative", "id": 3851750}]}
+{"name": "Éducation_alternative", "id": 652776, "predecessors": [{"name": "Culture_alternative", "id": 176708}, {"name": "Méthode_d'éducation", "id": 3048525}], "successors": [{"name": "Compagnonnage", "id": 790772}, {"name": "Enseignement_mutuel", "id": 1661686}, {"name": "École_alternative", "id": 3851750}]}

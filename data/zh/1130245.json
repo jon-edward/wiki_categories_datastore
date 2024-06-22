@@ -1,1 +1,0 @@
-{"name": "GTK", "id": 1130245, "predecessors": [{"name": "GNU计划软件", "id": 540844}, {"name": "X_Window系统", "id": 1156320}, {"name": "部件工具箱", "id": 161573}], "successors": [{"name": "GNOME", "id": 112834}, {"name": "使用GTK+的软件", "id": 4010441}]}

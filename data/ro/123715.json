@@ -1,1 +1,1 @@
-{"name": "Plante_acvatice", "id": 123715, "predecessors": [{"name": "Plante", "id": 40802}, {"name": "Ecologie_acvatică", "id": 185205}], "successors": []}
+{"name": "Plante_acvatice", "id": 123715, "predecessors": [{"name": "Plante", "id": 40802}, {"name": "Organisme", "id": 185025}], "successors": []}

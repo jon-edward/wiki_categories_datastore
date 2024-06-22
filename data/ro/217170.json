@@ -1,1 +1,1 @@
-{"name": "Baze", "id": 217170, "predecessors": [{"name": "Alcali", "id": 217068}, {"name": "Reacții_acido-bazice", "id": 2424349}], "successors": [{"name": "Amine", "id": 109623}, {"name": "Hidroxizi", "id": 217169}, {"name": "Amidine", "id": 2414887}, {"name": "Alcoxizi", "id": 2926042}]}
+{"name": "Baze", "id": 217170, "predecessors": [{"name": "Reacții_acido-bazice", "id": 2424349}], "successors": [{"name": "Amine", "id": 109623}, {"name": "Hidroxizi", "id": 217169}, {"name": "Amidine", "id": 2414887}, {"name": "Alcoxizi", "id": 2926042}]}

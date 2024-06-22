@@ -1,1 +1,1 @@
-{"name": "Film_se_déroulant_en_Gironde", "id": 10402277, "predecessors": [{"name": "Film_se_déroulant_en_France", "id": 5944379}, {"name": "Culture_en_France", "id": 5468658}, {"name": "Communication", "id": 84690}, {"name": "Fiction", "id": 340157}], "successors": []}
+{"name": "Film_se_déroulant_en_Gironde", "id": 10402277, "predecessors": [{"name": "Film_se_déroulant_en_France", "id": 5944379}, {"name": "Culture_en_France", "id": 5468658}, {"name": "Cinéma_en_France", "id": 5838510}, {"name": "Fiction", "id": 340157}], "successors": []}

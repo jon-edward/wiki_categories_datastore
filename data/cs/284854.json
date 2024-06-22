@@ -1,0 +1,1 @@
+{"name": "Hry_v_Javě", "id": 284854, "predecessors": [{"name": "Hry_pro_Linux", "id": 284839}, {"name": "Hry_pro_Windows", "id": 283542}, {"name": "Hry_pro_macOS", "id": 283575}, {"name": "Mobilní_hry", "id": 283646}, {"name": "Software_v_Javě", "id": 280107}, {"name": "Počítačové_platformy", "id": 280355}], "successors": [{"name": "Hry_pro_J2ME", "id": 1762277}]}

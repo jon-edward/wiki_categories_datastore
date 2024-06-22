@@ -1,1 +1,1 @@
-{"name": "Cooperatives_in_Italy", "id": 18177521, "predecessors": [{"name": "Companies_of_Italy", "id": 864346}, {"name": "Cooperatives", "id": 857881}, {"name": "Business_organizations_based_in_Europe", "id": 29188561}], "successors": [{"name": "Cooperative_banks_of_Italy", "id": 49679801}]}
+{"name": "Cooperatives_in_Italy", "id": 18177521, "predecessors": [{"name": "Companies_of_Italy", "id": 864346}, {"name": "Cooperatives_in_Europe", "id": 49130605}, {"name": "Cooperatives", "id": 857881}], "successors": [{"name": "Cooperative_banks_of_Italy", "id": 49679801}]}

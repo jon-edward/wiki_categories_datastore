@@ -1,1 +1,1 @@
-{"name": "Autoajuda", "id": 2219075, "predecessors": [{"name": "Psicologia", "id": 22480}], "successors": [{"name": "Livros_de_autoajuda", "id": 2219071}, {"name": "Escritores_de_autoajuda", "id": 2219080}]}
+{"name": "Autoajuda", "id": 2219075, "predecessors": [{"name": "Desenvolvimento_pessoal", "id": 469928}], "successors": [{"name": "Livros_de_autoajuda", "id": 2219071}, {"name": "Escritores_de_autoajuda", "id": 2219080}]}

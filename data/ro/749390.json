@@ -1,1 +1,1 @@
-{"name": "Coloranți", "id": 749390, "predecessors": [{"name": "Compuși_chimici", "id": 749556}, {"name": "Culoare", "id": 178098}], "successors": [{"name": "Coloranți_naturali", "id": 749392}, {"name": "Coloranți_sintetici", "id": 749393}, {"name": "Coloranți_alimentari", "id": 2554367}]}
+{"name": "Coloranți", "id": 749390, "predecessors": [{"name": "Culoare", "id": 178098}], "successors": [{"name": "Coloranți_naturali", "id": 749392}, {"name": "Coloranți_sintetici", "id": 749393}, {"name": "Coloranți_alimentari", "id": 2554367}]}

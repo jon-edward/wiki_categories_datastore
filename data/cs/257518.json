@@ -1,0 +1,1 @@
+{"name": "Internetová_telefonie", "id": 257518, "predecessors": [{"name": "Internet", "id": 4436}, {"name": "Telefonie", "id": 22854}], "successors": [{"name": "VoIP_software", "id": 280780}, {"name": "VoIP_protokoly", "id": 280922}, {"name": "Hlasové_kodeky", "id": 280925}]}

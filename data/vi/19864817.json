@@ -1,1 +1,1 @@
-{"name": "IPadOS", "id": 19864817, "predecessors": [{"name": "Hệ_điều_hành_của_Apple_Inc.", "id": 19865011}], "successors": []}
+{"name": "IPadOS", "id": 19864817, "predecessors": [{"name": "Hệ_điều_hành_ARM", "id": 19873304}, {"name": "Hệ_điều_hành_của_Apple_Inc.", "id": 19865011}], "successors": []}

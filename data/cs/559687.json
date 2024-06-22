@@ -1,0 +1,1 @@
+{"name": "Platby", "id": 559687, "predecessors": [{"name": "Ekonomika", "id": 191031}, {"name": "Peníze", "id": 67194}], "successors": [{"name": "Peníze", "id": 67194}, {"name": "Bankovnictví", "id": 190337}, {"name": "Odbavovací_zařízení", "id": 361548}, {"name": "Platební_systémy", "id": 558678}, {"name": "Ceny", "id": 559686}]}

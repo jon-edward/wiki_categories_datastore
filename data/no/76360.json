@@ -1,1 +1,1 @@
-{"name": "Norske_seilere", "id": 76360, "predecessors": [{"name": "Norske_sjøfolk", "id": 76361}, {"name": "Norske_sportsutøvere", "id": 12224}, {"name": "Seilere", "id": 76359}, {"name": "Seiling", "id": 76356}], "successors": []}
+{"name": "Norske_seilere", "id": 76360, "predecessors": [{"name": "Norske_sjøfolk", "id": 76361}, {"name": "Norske_sportsutøvere", "id": 12224}, {"name": "Seilere", "id": 76359}, {"name": "Seiling", "id": 76356}], "successors": [{"name": "Norske_brettseilere", "id": 564754}]}

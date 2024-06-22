@@ -1,1 +1,1 @@
-{"name": "Aplicații_ale_sticlei", "id": 887115, "predecessors": [{"name": "Sticlă", "id": 437831}], "successors": [{"name": "Instrumente_optice", "id": 155881}, {"name": "Tehnologia_afișoarelor", "id": 760298}, {"name": "Tipuri_de_lămpi", "id": 1921313}]}
+{"name": "Aplicații_ale_sticlei", "id": 887115, "predecessors": [{"name": "Sticlă", "id": 437831}, {"name": "Cunoaștere", "id": 749849}], "successors": [{"name": "Instrumente_optice", "id": 155881}, {"name": "Tehnologia_afișoarelor", "id": 760298}, {"name": "Tipuri_de_lămpi", "id": 1921313}]}

@@ -1,1 +1,1 @@
-{"name": "Medicamentos_antituberculosos", "id": 10303676, "predecessors": [{"name": "Antibióticos", "id": 55379}], "successors": []}
+{"name": "Medicamentos_antituberculosos", "id": 10303676, "predecessors": [{"name": "Antibióticos", "id": 55379}, {"name": "Tuberculosis", "id": 591117}], "successors": []}

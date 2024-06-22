@@ -1,1 +1,1 @@
-{"name": "Muzicieni_ucraineni", "id": 831079, "predecessors": [{"name": "Muzicieni", "id": 19900}, {"name": "Ucraineni", "id": 560045}], "successors": [{"name": "Cântăreți_ucraineni", "id": 750059}, {"name": "Compozitori_ucraineni", "id": 842085}]}
+{"name": "Muzicieni_ucraineni", "id": 831079, "predecessors": [{"name": "Genuri_artistice", "id": 765165}, {"name": "Ucraineni", "id": 560045}], "successors": [{"name": "Cântăreți_ucraineni", "id": 750059}, {"name": "Compozitori_ucraineni", "id": 842085}]}

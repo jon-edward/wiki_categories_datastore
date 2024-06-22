@@ -1,1 +1,1 @@
-{"name": "Procurori_moldoveni", "id": 1127426, "predecessors": [{"name": "Justiție", "id": 753164}], "successors": [{"name": "Procurori_generali_ai_Republicii_Moldova", "id": 1338385}]}
+{"name": "Procurori_moldoveni", "id": 1127426, "predecessors": [{"name": "Procurori", "id": 1165358}, {"name": "Justiție", "id": 753164}], "successors": [{"name": "Procurori_generali_ai_Republicii_Moldova", "id": 1338385}]}

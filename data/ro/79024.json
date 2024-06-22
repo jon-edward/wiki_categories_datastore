@@ -1,1 +1,1 @@
-{"name": "Hormoni", "id": 79024, "predecessors": [{"name": "Biomolecule", "id": 865883}, {"name": "Sistemul_endocrin", "id": 134813}], "successors": [{"name": "Steroizi", "id": 67914}, {"name": "Hormon_sexual", "id": 2552188}, {"name": "Hormoni_vegetali", "id": 2895954}, {"name": "Prostaglandine", "id": 1781136}]}
+{"name": "Hormoni", "id": 79024, "predecessors": [{"name": "Biomolecule", "id": 865883}, {"name": "Sistemul_endocrin", "id": 134813}], "successors": [{"name": "Steroizi", "id": 67914}, {"name": "Prostaglandine", "id": 1781136}]}

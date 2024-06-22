@@ -1,1 +1,1 @@
-{"name": "Arme_chimice", "id": 211576, "predecessors": [{"name": "Arme_de_distrugere_în_masă", "id": 28747}, {"name": "Substanțe_chimice", "id": 760265}, {"name": "Război_după_tip", "id": 166949}], "successors": [{"name": "Gaze_toxice", "id": 211575}]}
+{"name": "Arme_chimice", "id": 211576, "predecessors": [{"name": "Arme_de_distrugere_în_masă", "id": 28747}, {"name": "Război_după_tip", "id": 166949}], "successors": [{"name": "Gaze_toxice", "id": 211575}]}

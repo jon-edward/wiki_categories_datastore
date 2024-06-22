@@ -1,1 +1,1 @@
-{"name": "ARN", "id": 1249343, "predecessors": [{"name": "Acizi_organici", "id": 68080}], "successors": [{"name": "Virusuri_ARN", "id": 1331086}]}
+{"name": "ARN", "id": 1249343, "predecessors": [{"name": "Biomolecule", "id": 865883}], "successors": [{"name": "Virusuri_ARN", "id": 1331086}]}

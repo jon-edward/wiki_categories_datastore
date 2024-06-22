@@ -1,1 +1,1 @@
-{"name": "Condenados_por_tentativa_de_homicídio", "id": 7304812, "predecessors": [{"name": "Criminosos", "id": 120303}], "successors": []}
+{"name": "Condenados_por_tentativa_de_homicídio", "id": 7304812, "predecessors": [{"name": "Acusados_de_homicídio", "id": 7304815}, {"name": "Criminosos", "id": 120303}], "successors": []}

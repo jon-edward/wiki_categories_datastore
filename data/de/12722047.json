@@ -1,1 +1,1 @@
-{"name": "Schwefelsäureamid", "id": 12722047, "predecessors": [{"name": "Sauerstoffverbindung", "id": 1958642}, {"name": "Schwefelverbindung", "id": 1777391}, {"name": "Säureamid", "id": 8493818}], "successors": []}
+{"name": "Schwefelsäureamid", "id": 12722047, "predecessors": [{"name": "Schwefelsäureverbindung", "id": 13132080}, {"name": "Säureamid", "id": 8493818}], "successors": []}

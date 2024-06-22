@@ -1,1 +1,1 @@
-{"name": "Järnvägsstationer_invigda_1903", "id": 1419644, "predecessors": [{"name": "Arkitekturåret_1903", "id": 1250437}, {"name": "Järnvägsstationer", "id": 51564}, {"name": "Järnväg", "id": 56116}, {"name": "Historia", "id": 51162}], "successors": []}
+{"name": "Järnvägsstationer_invigda_1903", "id": 1419644, "predecessors": [{"name": "Järnväg", "id": 56116}, {"name": "Historia", "id": 51162}, {"name": "Arkitektur", "id": 51576}, {"name": "Arkitekturåret_1903", "id": 1250437}], "successors": []}

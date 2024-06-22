@@ -1,0 +1,1 @@
+{"name": "Sistem_poștal", "id": 816009, "predecessors": [{"name": "Servicii_publice", "id": 230334}], "successors": [{"name": "Companii_de_curierat", "id": 106451}, {"name": "Filatelie", "id": 267195}, {"name": "Istorie_poștală", "id": 752997}, {"name": "Mărci_poștale", "id": 754363}, {"name": "Poștă", "id": 759323}, {"name": "Scrisori", "id": 1215149}]}

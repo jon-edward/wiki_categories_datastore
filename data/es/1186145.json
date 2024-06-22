@@ -1,1 +1,1 @@
-{"name": "Enfermedades_transmitidas_por_artrópodos", "id": 1186145, "predecessors": [{"name": "Enfermedades_veterinarias", "id": 5433544}], "successors": [{"name": "Problemática_de_Chagas", "id": 10857972}]}
+{"name": "Enfermedades_transmitidas_por_artrópodos", "id": 1186145, "predecessors": [{"name": "Enfermedades_veterinarias", "id": 5433544}, {"name": "Enfermedades_infecciosas", "id": 64496}], "successors": [{"name": "Problemática_de_Chagas", "id": 10857972}]}

@@ -1,1 +1,1 @@
-{"name": "Media_Pro", "id": 582794, "predecessors": [{"name": "Companii_de_televiziune", "id": 195198}], "successors": [{"name": "Publimedia", "id": 788523}, {"name": "Pro_TV", "id": 1942821}]}
+{"name": "Media_Pro", "id": 582794, "predecessors": [{"name": "Companii_media_din_România", "id": 582786}], "successors": [{"name": "Publimedia", "id": 788523}, {"name": "Pro_TV", "id": 1942821}]}

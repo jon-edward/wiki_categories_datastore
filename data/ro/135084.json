@@ -1,1 +1,1 @@
-{"name": "Sporturi_cu_motor", "id": 135084, "predecessors": [{"name": "Autovehicule", "id": 888241}, {"name": "Sport", "id": 16061}], "successors": [{"name": "Automobilism", "id": 220090}, {"name": "Motociclism", "id": 569860}, {"name": "Circuite_de_Formula_1", "id": 118784}]}
+{"name": "Sporturi_cu_motor", "id": 135084, "predecessors": [{"name": "Sport", "id": 16061}], "successors": [{"name": "Automobilism", "id": 220090}, {"name": "Motociclism", "id": 569860}, {"name": "Circuite_de_Formula_1", "id": 118784}]}

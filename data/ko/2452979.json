@@ -1,1 +1,1 @@
-{"name": "밀리터리_SF_영화", "id": 2452979, "predecessors": [{"name": "밀리터리_SF", "id": 1486659}, {"name": "영화", "id": 11875}], "successors": [{"name": "터미네이터_영화", "id": 1936607}]}
+{"name": "밀리터리_SF_영화", "id": 2452979, "predecessors": [{"name": "밀리터리_SF", "id": 1486659}, {"name": "비디오", "id": 98469}], "successors": [{"name": "터미네이터_영화", "id": 1936607}]}

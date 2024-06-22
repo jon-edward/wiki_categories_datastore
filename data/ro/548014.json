@@ -1,1 +1,1 @@
-{"name": "Iluminat", "id": 548014, "predecessors": [{"name": "Elemente_arhitecturale", "id": 76512}, {"name": "Fotometrie", "id": 215038}, {"name": "Lumină", "id": 178099}], "successors": [{"name": "Tipuri_de_lămpi", "id": 1921313}]}
+{"name": "Iluminat", "id": 548014, "predecessors": [{"name": "Design_interior", "id": 950148}, {"name": "Elemente_arhitecturale", "id": 76512}, {"name": "Fotometrie", "id": 215038}, {"name": "Lumină", "id": 178099}], "successors": [{"name": "Tipuri_de_lămpi", "id": 1921313}]}

@@ -1,1 +1,1 @@
-{"name": "Sommet_des_Carpates", "id": 5656054, "predecessors": [{"name": "Montagne", "id": 100323}, {"name": "Sciences_de_la_Terre", "id": 82094}], "successors": [{"name": "Sommet_des_Hautes_Tatras", "id": 5169909}]}
+{"name": "Sommet_des_Carpates", "id": 5656054, "predecessors": [{"name": "Carpates", "id": 4627506}, {"name": "Montagne", "id": 100323}], "successors": [{"name": "Sommet_des_Hautes_Tatras", "id": 5169909}]}

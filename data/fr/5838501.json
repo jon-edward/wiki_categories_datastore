@@ -1,1 +1,1 @@
-{"name": "École_de_cinéma_en_France", "id": 5838501, "predecessors": [{"name": "École_d'art_en_France", "id": 237723}, {"name": "École_de_cinéma", "id": 86870}, {"name": "Communication", "id": 84690}], "successors": []}
+{"name": "École_de_cinéma_en_France", "id": 5838501, "predecessors": [{"name": "Cinéma_en_France", "id": 5838510}, {"name": "École_d'art_en_France", "id": 237723}, {"name": "École_de_cinéma", "id": 86870}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Desportos_em_cadeira_de_rodas", "id": 5164044, "predecessors": [{"name": "Esporte_para_pessoas_com_deficiênica", "id": 2383526}], "successors": [{"name": "Basquetebol_em_cadeira_de_rodas", "id": 3840498}]}
+{"name": "Desportos_em_cadeira_de_rodas", "id": 5164044, "predecessors": [{"name": "Esporte_para_pessoas_com_deficiênica", "id": 2383526}], "successors": [{"name": "Basquetebol_em_cadeira_de_rodas", "id": 3840498}, {"name": "Tenistas_em_cadeira_de_rodas", "id": 6436301}]}

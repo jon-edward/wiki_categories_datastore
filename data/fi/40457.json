@@ -1,1 +1,1 @@
-{"name": "Slovakialaiset_poliitikot", "id": 40457, "predecessors": [{"name": "Ammatit", "id": 26041}, {"name": "Euroopan_neuvosto", "id": 382420}, {"name": "Aluemaantiede", "id": 423146}], "successors": [{"name": "Slovakian_pääministerit", "id": 720472}]}
+{"name": "Slovakialaiset_poliitikot", "id": 40457, "predecessors": [{"name": "Ammatit", "id": 26041}, {"name": "Euroopan_neuvosto", "id": 382420}, {"name": "Aluemaantiede", "id": 423146}], "successors": [{"name": "Slovakialaiset_europarlamentaarikot", "id": 430646}, {"name": "Slovakian_pääministerit", "id": 720472}]}

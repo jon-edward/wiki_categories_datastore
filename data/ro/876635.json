@@ -1,1 +1,1 @@
-{"name": "Pneumologie", "id": 876635, "predecessors": [{"name": "Specialități_medicale", "id": 760126}], "successors": [{"name": "Boli_ale_sistemului_respirator", "id": 876560}]}
+{"name": "Pneumologie", "id": 876635, "predecessors": [{"name": "Specialități_medicale", "id": 760126}], "successors": [{"name": "Boli_ale_sistemului_respirator", "id": 876560}, {"name": "Antitusive", "id": 2294484}, {"name": "Antiastmatice", "id": 2836511}]}

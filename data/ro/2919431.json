@@ -1,1 +1,1 @@
-{"name": "Acizi_biliari", "id": 2919431, "predecessors": [{"name": "Acizi_organici", "id": 68080}, {"name": "Hepatologie", "id": 2492799}, {"name": "Steroizi", "id": 67914}], "successors": []}
+{"name": "Acizi_biliari", "id": 2919431, "predecessors": [{"name": "Hepatologie", "id": 2492799}, {"name": "Steroizi", "id": 67914}], "successors": []}

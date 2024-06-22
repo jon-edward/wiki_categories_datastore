@@ -1,1 +1,1 @@
-{"name": "Componente_ale_armelor_de_foc", "id": 33566, "predecessors": [{"name": "Arme_de_foc", "id": 40141}, {"name": "Tehnica_armelor", "id": 2356409}, {"name": "Tehnologie", "id": 28690}], "successors": []}
+{"name": "Componente_ale_armelor_de_foc", "id": 33566, "predecessors": [{"name": "Arme_de_foc", "id": 40141}, {"name": "Tehnica_armelor", "id": 2356409}, {"name": "Utilitate", "id": 239490}], "successors": []}

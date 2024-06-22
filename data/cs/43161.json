@@ -1,0 +1,1 @@
+{"name": "Java", "id": 43161, "predecessors": [{"name": "Objektově_orientované_programovací_jazyky", "id": 1384973}, {"name": "Počítačové_platformy", "id": 280355}, {"name": "Programovací_jazyky", "id": 4430}], "successors": [{"name": "Software_v_Javě", "id": 280107}, {"name": "JVM_programovací_jazyky", "id": 932815}]}

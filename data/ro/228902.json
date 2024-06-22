@@ -1,1 +1,1 @@
-{"name": "Sudare", "id": 228902, "predecessors": [{"name": "Construcții", "id": 749751}, {"name": "Mecanică", "id": 32174}, {"name": "Oțel", "id": 855090}, {"name": "Prelucrarea_metalelor", "id": 353485}], "successors": []}
+{"name": "Sudare", "id": 228902, "predecessors": [{"name": "Mecanică", "id": 32174}, {"name": "Oțel", "id": 855090}, {"name": "Prelucrarea_metalelor", "id": 353485}], "successors": []}

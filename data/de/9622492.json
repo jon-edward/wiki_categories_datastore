@@ -1,1 +1,1 @@
-{"name": "Schule_im_Film", "id": 9622492, "predecessors": [{"name": "Film", "id": 236627}, {"name": "Schulwesen", "id": 305947}], "successors": [{"name": "Lehrer-Schüler-Beziehung_im_Film", "id": 8088166}]}
+{"name": "Schule_im_Film", "id": 9622492, "predecessors": [{"name": "Schulwesen", "id": 305947}, {"name": "Bildung", "id": 274435}], "successors": [{"name": "Lehrer-Schüler-Beziehung_im_Film", "id": 8088166}]}

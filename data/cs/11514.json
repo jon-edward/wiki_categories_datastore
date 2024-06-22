@@ -1,0 +1,1 @@
+{"name": "Rostlinná_výroba", "id": 11514, "predecessors": [{"name": "Rostliny", "id": 13812}, {"name": "Zemědělství", "id": 4730}], "successors": [{"name": "Mechanizace_rostlinné_výroby", "id": 73503}, {"name": "Pícniny", "id": 88001}, {"name": "Agrochemie", "id": 277859}, {"name": "Ochrana_rostlin", "id": 288759}, {"name": "Rostlinné_stimulátory", "id": 795689}]}

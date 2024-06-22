@@ -1,1 +1,1 @@
-{"name": "Endocrinologie", "id": 185564, "predecessors": [{"name": "Specialități_medicale", "id": 760126}], "successors": [{"name": "Teratologie", "id": 79170}, {"name": "Sistemul_endocrin", "id": 134813}]}
+{"name": "Endocrinologie", "id": 185564, "predecessors": [{"name": "Specialități_medicale", "id": 760126}], "successors": [{"name": "Teratologie", "id": 79170}, {"name": "Sistemul_endocrin", "id": 134813}, {"name": "Boli_ale_sistemului_endocrin", "id": 876592}, {"name": "Endocrinologi_români", "id": 571345}]}

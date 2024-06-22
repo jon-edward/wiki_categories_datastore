@@ -1,1 +1,1 @@
-{"name": "Oceanul_Arctic", "id": 143783, "predecessors": [{"name": "Geografia_Arcticii", "id": 767195}], "successors": [{"name": "Insule_arctice", "id": 101862}, {"name": "Mări_din_Oceanul_Arctic", "id": 143782}, {"name": "Golfuri_din_Oceanul_Arctic", "id": 1523206}]}
+{"name": "Oceanul_Arctic", "id": 143783, "predecessors": [{"name": "Geografia_Arcticii", "id": 767195}, {"name": "Oceane", "id": 294599}], "successors": [{"name": "Insule_arctice", "id": 101862}, {"name": "Mări_din_Oceanul_Arctic", "id": 143782}, {"name": "Golfuri_din_Oceanul_Arctic", "id": 1523206}]}

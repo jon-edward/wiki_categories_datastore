@@ -1,1 +1,1 @@
-{"name": "Autobuze", "id": 646456, "predecessors": [{"name": "Transport_public", "id": 230300}, {"name": "Vehicule_rutiere", "id": 225538}], "successors": [{"name": "Autobuzele_din_România", "id": 2031641}]}
+{"name": "Autobuze", "id": 646456, "predecessors": [{"name": "Transport_public", "id": 230300}], "successors": [{"name": "Autobuzele_din_România", "id": 2031641}]}

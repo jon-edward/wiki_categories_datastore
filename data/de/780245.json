@@ -1,1 +1,1 @@
-{"name": "Durchmusterung", "id": 780245, "predecessors": [{"name": "Aktion_oder_Projekt_der_Astronomie", "id": 5749343}, {"name": "Astronomische_Datensammlung", "id": 234786}], "successors": [{"name": "Astronomisches_Objekt_(entdeckt_im_Rahmen_des_Mount_Lemmon_Survey)", "id": 11452327}]}
+{"name": "Durchmusterung", "id": 780245, "predecessors": [{"name": "Aktion_oder_Projekt_der_Astronomie", "id": 5749343}, {"name": "Astronomische_Datensammlung", "id": 234786}, {"name": "Beobachtende_Astronomie", "id": 233615}], "successors": []}

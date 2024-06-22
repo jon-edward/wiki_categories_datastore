@@ -1,1 +1,1 @@
-{"name": "Tšekkiläiset_poliitikot", "id": 131242, "predecessors": [{"name": "Tšekkiläiset_henkilöt", "id": 131135}, {"name": "Politiikka", "id": 19990}, {"name": "Ammatit", "id": 26041}], "successors": [{"name": "Tšekin_pääministerit", "id": 719755}]}
+{"name": "Tšekkiläiset_poliitikot", "id": 131242, "predecessors": [{"name": "Tšekkiläiset_henkilöt", "id": 131135}, {"name": "Politiikka", "id": 19990}, {"name": "Ammatit", "id": 26041}], "successors": [{"name": "Tšekkiläiset_europarlamentaarikot", "id": 430773}, {"name": "Tšekin_pääministerit", "id": 719755}]}

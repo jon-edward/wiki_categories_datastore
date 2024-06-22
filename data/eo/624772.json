@@ -1,1 +1,1 @@
-{"name": "Riveroj_en_Prago", "id": 624772, "predecessors": [{"name": "Riveroj", "id": 32730}, {"name": "Geografio_de_Ĉeĥio", "id": 179366}], "successors": [{"name": "Vultavo", "id": 361856}, {"name": "Setlejoj_sur_Berounka", "id": 746555}]}
+{"name": "Riveroj_en_Prago", "id": 624772, "predecessors": [{"name": "Geografio_de_Prago", "id": 408099}, {"name": "Riveroj", "id": 32730}, {"name": "Geografio_de_Ĉeĥio", "id": 179366}], "successors": [{"name": "Vultavo", "id": 361856}, {"name": "Setlejoj_sur_Berounka", "id": 746555}]}

@@ -1,1 +1,1 @@
-{"name": "Sulfonamid", "id": 3389149, "predecessors": [{"name": "Organoschwefelverbindung", "id": 2078047}, {"name": "Säureamid", "id": 8493818}], "successors": [{"name": "Benzolsulfonamid", "id": 4471286}, {"name": "Sultam", "id": 5316199}, {"name": "Methansulfonamid", "id": 12761563}]}
+{"name": "Sulfonamid", "id": 3389149, "predecessors": [{"name": "Säureamid", "id": 8493818}, {"name": "Organoschwefelverbindung", "id": 2078047}], "successors": [{"name": "Benzolsulfonamid", "id": 4471286}, {"name": "Sultam", "id": 5316199}, {"name": "Methansulfonamid", "id": 12761563}]}

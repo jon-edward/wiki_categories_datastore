@@ -1,1 +1,1 @@
-{"name": "Torneos_de_tenis_de_Australia", "id": 2952793, "predecessors": [{"name": "Tenis", "id": 91401}, {"name": "Cultura_de_Australia", "id": 134473}, {"name": "Deporte", "id": 50825}], "successors": [{"name": "Copa_Hopman", "id": 1381088}]}
+{"name": "Torneos_de_tenis_de_Australia", "id": 2952793, "predecessors": [{"name": "Competiciones_de_tenis", "id": 255838}, {"name": "Cultura_de_Australia", "id": 134473}, {"name": "Deporte", "id": 50825}], "successors": [{"name": "Copa_Hopman", "id": 1381088}]}

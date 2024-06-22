@@ -1,1 +1,1 @@
-{"name": "Andrologie", "id": 477274, "predecessors": [{"name": "Sănătate_sexuală", "id": 947927}, {"name": "Urologie", "id": 41489}], "successors": [{"name": "Aparatul_genital_masculin", "id": 2490189}, {"name": "Diuretice", "id": 2029308}]}
+{"name": "Andrologie", "id": 477274, "predecessors": [{"name": "Sănătate_sexuală", "id": 947927}, {"name": "Urologie", "id": 41489}], "successors": [{"name": "Medicamente_pentru_disfuncție_erectilă", "id": 1370309}, {"name": "Aparatul_genital_masculin", "id": 2490189}, {"name": "Diuretice", "id": 2029308}]}

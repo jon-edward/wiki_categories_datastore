@@ -1,1 +1,1 @@
-{"name": "Șiruri_și_serii", "id": 761019, "predecessors": [{"name": "Analiză_matematică", "id": 18330}, {"name": "Structuri_matematice", "id": 3025458}], "successors": [{"name": "Șiruri_de_numere_întregi", "id": 986946}]}
+{"name": "Șiruri_și_serii", "id": 761019, "predecessors": [{"name": "Analiză_matematică", "id": 18330}, {"name": "Structuri_matematice", "id": 3025458}], "successors": [{"name": "Serii_matematice", "id": 127332}, {"name": "Șiruri_de_numere_întregi", "id": 986946}]}

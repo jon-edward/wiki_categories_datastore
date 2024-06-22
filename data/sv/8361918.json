@@ -1,1 +1,1 @@
-{"name": "Järnvägsstationer_invigda_2019", "id": 8361918, "predecessors": [{"name": "Arkitekturåret_2019", "id": 8284352}, {"name": "Bildanden_2019", "id": 8148275}, {"name": "Järnvägsstationer", "id": 51564}, {"name": "Järnväg", "id": 56116}], "successors": []}
+{"name": "Järnvägsstationer_invigda_2019", "id": 8361918, "predecessors": [{"name": "Bildanden_2019", "id": 8148275}, {"name": "Järnväg", "id": 56116}, {"name": "Arkitektur", "id": 51576}, {"name": "Arkitekturåret_2019", "id": 8284352}], "successors": []}

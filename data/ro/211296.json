@@ -1,1 +1,1 @@
-{"name": "Teorii_economice", "id": 211296, "predecessors": [{"name": "Teorii_sociale", "id": 1106582}, {"name": "Teorii_științifice", "id": 760334}], "successors": [{"name": "Capitalism", "id": 178309}, {"name": "Bunuri", "id": 32286}, {"name": "Utilitate", "id": 239490}, {"name": "Comportamentul_consumatorului", "id": 607075}]}
+{"name": "Teorii_economice", "id": 211296, "predecessors": [{"name": "Ideologii_economice", "id": 180355}, {"name": "Teorii_sociale", "id": 1106582}, {"name": "Teorii_științifice", "id": 760334}], "successors": [{"name": "Capitalism", "id": 178309}]}

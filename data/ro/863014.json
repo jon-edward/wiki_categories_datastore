@@ -1,1 +1,1 @@
-{"name": "Seriale_britanice", "id": 863014, "predecessors": [{"name": "Seriale_de_televiziune", "id": 858962}], "successors": [{"name": "Seriale_britanice_de_televiziune", "id": 925981}, {"name": "Downton_Abbey", "id": 2035896}]}
+{"name": "Seriale_britanice", "id": 863014, "predecessors": [{"name": "Televiziune", "id": 39944}], "successors": [{"name": "Seriale_britanice_de_televiziune", "id": 925981}, {"name": "Downton_Abbey", "id": 2035896}]}

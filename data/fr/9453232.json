@@ -1,1 +1,1 @@
-{"name": "Film_se_déroulant_dans_le_Calvados", "id": 9453232, "predecessors": [{"name": "Film_se_déroulant_en_Normandie", "id": 5944561}, {"name": "Film_se_déroulant_en_France", "id": 5944379}, {"name": "Communication", "id": 84690}], "successors": []}
+{"name": "Film_se_déroulant_dans_le_Calvados", "id": 9453232, "predecessors": [{"name": "Film_se_déroulant_en_Normandie", "id": 5944561}, {"name": "Film_se_déroulant_en_France", "id": 5944379}, {"name": "Cinéma_en_France", "id": 5838510}], "successors": []}

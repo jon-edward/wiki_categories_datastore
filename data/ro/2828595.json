@@ -1,1 +1,1 @@
-{"name": "Proteine_membranare", "id": 2828595, "predecessors": [{"name": "Biologia_membranelor", "id": 3021594}, {"name": "Proteine", "id": 111454}], "successors": []}
+{"name": "Proteine_membranare", "id": 2828595, "predecessors": [{"name": "Biologia_membranelor", "id": 3021594}, {"name": "Proteine", "id": 111454}], "successors": [{"name": "Canale_ionice", "id": 2910861}]}

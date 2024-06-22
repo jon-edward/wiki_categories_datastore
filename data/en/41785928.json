@@ -1,1 +1,1 @@
-{"name": "FINA_Diving_World_Cup", "id": 41785928, "predecessors": [{"name": "World_cups", "id": 55528374}, {"name": "Competitions", "id": 737119}], "successors": [{"name": "2010_FINA_Diving_World_Cup", "id": 41786881}]}
+{"name": "FINA_Diving_World_Cup", "id": 41785928, "predecessors": [{"name": "World_cups", "id": 55528374}, {"name": "International_competitions", "id": 54288402}], "successors": [{"name": "2010_FINA_Diving_World_Cup", "id": 41786881}]}

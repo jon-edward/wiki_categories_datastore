@@ -1,1 +1,1 @@
-{"name": "Sähköiset_soittimet", "id": 43456, "predecessors": [{"name": "Elektroninen_musiikki", "id": 21592}, {"name": "Soittimet", "id": 20654}], "successors": [{"name": "Syntetisaattorit", "id": 98232}]}
+{"name": "Sähköiset_soittimet", "id": 43456, "predecessors": [{"name": "Soittimet", "id": 20654}, {"name": "Musiikkityylit", "id": 260703}], "successors": []}

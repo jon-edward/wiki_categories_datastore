@@ -1,1 +1,1 @@
-{"name": "自衛隊の警務隊", "id": 3628688, "predecessors": [{"name": "日本の憲兵", "id": 2587659}, {"name": "自衛隊", "id": 231161}], "successors": []}
+{"name": "自衛隊の警務隊", "id": 3628688, "predecessors": [{"name": "自衛隊", "id": 231161}, {"name": "日本の公安", "id": 251117}], "successors": []}

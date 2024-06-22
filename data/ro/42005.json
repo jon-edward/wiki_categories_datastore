@@ -1,1 +1,1 @@
-{"name": "Descoperitori_de_elemente_chimice", "id": 42005, "predecessors": [{"name": "Descoperitori", "id": 167949}, {"name": "Elemente_chimice", "id": 42004}, {"name": "Istoria_fizicii", "id": 83568}, {"name": "Oameni_de_știință", "id": 758136}], "successors": []}
+{"name": "Descoperitori_de_elemente_chimice", "id": 42005, "predecessors": [{"name": "Descoperitori", "id": 167949}, {"name": "Elemente_chimice", "id": 42004}, {"name": "Istoria_chimiei", "id": 296904}, {"name": "Istoria_fizicii", "id": 83568}, {"name": "Oameni_de_știință", "id": 758136}], "successors": []}

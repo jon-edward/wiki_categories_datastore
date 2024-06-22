@@ -1,1 +1,1 @@
-{"name": "Transport_în_Regatul_Unit", "id": 259767, "predecessors": [{"name": "Regatul_Unit", "id": 22894}, {"name": "Transport", "id": 17973}], "successors": [{"name": "Metroul_din_Londra", "id": 147721}, {"name": "Gări_din_Anglia", "id": 394580}]}
+{"name": "Transport_în_Regatul_Unit", "id": 259767, "predecessors": [{"name": "Regatul_Unit", "id": 22894}, {"name": "Economie_după_țară", "id": 750748}], "successors": [{"name": "Metroul_din_Londra", "id": 147721}, {"name": "Gări_din_Anglia", "id": 394580}]}

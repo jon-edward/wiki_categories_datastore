@@ -1,1 +1,1 @@
-{"name": "Roman_fortifications", "id": 7941806, "predecessors": [{"name": "Ancient_Roman_technology", "id": 31820381}], "successors": [{"name": "Saxon_Shore_forts", "id": 33031804}]}
+{"name": "Roman_fortifications", "id": 7941806, "predecessors": [{"name": "Ancient_Roman_technology", "id": 31820381}, {"name": "Buildings_and_structures", "id": 702393}], "successors": [{"name": "Saxon_Shore_forts", "id": 33031804}]}

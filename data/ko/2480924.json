@@ -1,1 +1,1 @@
-{"name": "가정폭력_피해자", "id": 2480924, "predecessors": [{"name": "가정폭력", "id": 1082200}, {"name": "폭력", "id": 32979}], "successors": []}
+{"name": "가정폭력_피해자", "id": 2480924, "predecessors": [{"name": "가정폭력", "id": 1082200}, {"name": "공격성", "id": 571552}], "successors": []}

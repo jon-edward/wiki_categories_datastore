@@ -1,1 +1,1 @@
-{"name": "Boletaceae", "id": 570938, "predecessors": [{"name": "Boletales", "id": 570940}, {"name": "Micoriză", "id": 2281221}, {"name": "Micologie", "id": 90034}], "successors": [{"name": "Boletus", "id": 1921420}, {"name": "Leccinum", "id": 1921432}, {"name": "Rubroboletus", "id": 2542055}]}
+{"name": "Boletaceae", "id": 570938, "predecessors": [{"name": "Micoriză", "id": 2281221}], "successors": [{"name": "Boletus", "id": 1921420}, {"name": "Leccinum", "id": 1921432}, {"name": "Rubroboletus", "id": 2542055}]}

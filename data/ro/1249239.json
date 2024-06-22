@@ -1,1 +1,1 @@
-{"name": "Prim-miniștri_ai_Suediei", "id": 1249239, "predecessors": [{"name": "Politicieni_suedezi", "id": 77118}, {"name": "Miniștri", "id": 754102}], "successors": []}
+{"name": "Prim-miniștri_ai_Suediei", "id": 1249239, "predecessors": [{"name": "Politicieni_suedezi", "id": 77118}, {"name": "Politica_Europei", "id": 1010137}, {"name": "Miniștri", "id": 754102}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Resurse_naturale", "id": 127698, "predecessors": [{"name": "Geopolitică", "id": 32534}, {"name": "Natură", "id": 24640}, {"name": "Energie", "id": 24626}], "successors": [{"name": "Apă", "id": 23347}, {"name": "Păduri", "id": 114026}, {"name": "Vânt", "id": 117694}, {"name": "Materiale_naturale", "id": 201480}]}
+{"name": "Resurse_naturale", "id": 127698, "predecessors": [{"name": "Geopolitică", "id": 32534}, {"name": "Natură", "id": 24640}, {"name": "Energie", "id": 24626}], "successors": [{"name": "Păduri", "id": 114026}, {"name": "Vânt", "id": 117694}]}

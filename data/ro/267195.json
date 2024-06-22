@@ -1,1 +1,1 @@
-{"name": "Filatelie", "id": 267195, "predecessors": [{"name": "Colecționare", "id": 749381}], "successors": [{"name": "Timbre", "id": 248387}, {"name": "Mărci_poștale", "id": 754363}]}
+{"name": "Filatelie", "id": 267195, "predecessors": [{"name": "Colecționare", "id": 749381}, {"name": "Sistem_poștal", "id": 816009}], "successors": [{"name": "Timbre", "id": 248387}, {"name": "Mărci_poștale", "id": 754363}]}

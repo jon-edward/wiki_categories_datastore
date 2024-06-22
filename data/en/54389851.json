@@ -1,1 +1,1 @@
-{"name": "LGBT_Protestant_clergy", "id": 54389851, "predecessors": [{"name": "LGBT_Christian_clergy", "id": 37332746}, {"name": "LGBT_Protestants", "id": 54397011}, {"name": "Protestant_religious_leaders", "id": 43963669}], "successors": [{"name": "LGBT_Anglican_clergy", "id": 50402912}]}
+{"name": "LGBT_Protestant_clergy", "id": 54389851, "predecessors": [{"name": "LGBT_Christian_clergy", "id": 37332746}, {"name": "LGBT_Protestants", "id": 54397011}, {"name": "Protestantism", "id": 744844}], "successors": [{"name": "LGBT_Anglican_clergy", "id": 50402912}]}

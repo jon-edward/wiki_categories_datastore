@@ -1,0 +1,1 @@
+{"name": "Počítačové_útoky", "id": 626088, "predecessors": [{"name": "Počítačová_bezpečnost", "id": 236981}, {"name": "Zneužívání", "id": 559133}, {"name": "Inženýrství", "id": 6381}], "successors": [{"name": "Malware", "id": 225288}, {"name": "Útoky_typu_DoS", "id": 283471}]}

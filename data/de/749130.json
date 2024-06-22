@@ -1,1 +1,1 @@
-{"name": "Meteoriten", "id": 749130, "predecessors": [{"name": "Astronomie", "id": 235241}], "successors": [{"name": "Einschlagkrater", "id": 904050}, {"name": "Meteoritengestein", "id": 4025185}]}
+{"name": "Meteoriten", "id": 749130, "predecessors": [{"name": "Sonnensystem", "id": 233554}, {"name": "Astronomie", "id": 235241}], "successors": [{"name": "Einschlagkrater", "id": 904050}, {"name": "Meteoritengestein", "id": 4025185}]}

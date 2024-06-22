@@ -1,1 +1,1 @@
-{"name": "Ruins_in_Malta", "id": 42348428, "predecessors": [{"name": "Tourist_attractions_in_Malta", "id": 4950411}, {"name": "History_of_Malta", "id": 2323445}, {"name": "Architecture_in_Malta", "id": 8026272}], "successors": [{"name": "Megalithic_Temples_of_Malta", "id": 19384315}]}
+{"name": "Ruins_in_Malta", "id": 42348428, "predecessors": [{"name": "Tourist_attractions_in_Malta", "id": 4950411}, {"name": "Architecture_in_Malta", "id": 8026272}, {"name": "Geography_of_Malta", "id": 1645242}], "successors": [{"name": "Megalithic_Temples_of_Malta", "id": 19384315}]}

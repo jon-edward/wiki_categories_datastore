@@ -1,1 +1,1 @@
-{"name": "Potențial", "id": 824708, "predecessors": [{"name": "Dinamică", "id": 935394}, {"name": "Electromagnetism", "id": 40645}], "successors": [{"name": "Descărcări_electrice", "id": 2036725}]}
+{"name": "Potențial", "id": 824708, "predecessors": [{"name": "Calcul_diferențial_și_integral_cu_variabile_multiple", "id": 1660127}, {"name": "Dinamică", "id": 935394}, {"name": "Electromagnetism", "id": 40645}], "successors": [{"name": "Descărcări_electrice", "id": 2036725}]}

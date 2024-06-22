@@ -1,1 +1,1 @@
-{"name": "Italian_airbases", "id": 1865370, "predecessors": [{"name": "Airports_in_Italy", "id": 2842763}, {"name": "Military_airbases", "id": 812587}, {"name": "Military_of_Italy", "id": 839374}, {"name": "Economy_of_Italy", "id": 2637119}], "successors": []}
+{"name": "Italian_airbases", "id": 1865370, "predecessors": [{"name": "Airports_in_Italy", "id": 2842763}, {"name": "Italian_Air_Force", "id": 839197}, {"name": "Military_airbases", "id": 812587}, {"name": "Military_of_Italy", "id": 839374}], "successors": []}

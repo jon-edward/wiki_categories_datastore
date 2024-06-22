@@ -1,1 +1,1 @@
-{"name": "일본어_가수", "id": 507240, "predecessors": [{"name": "일본어", "id": 11522}, {"name": "음악가", "id": 14805}], "successors": [{"name": "일본어_음악_그룹", "id": 522375}]}
+{"name": "일본어_가수", "id": 507240, "predecessors": [{"name": "일본어", "id": 11522}, {"name": "예술", "id": 4393}], "successors": [{"name": "일본어_음악_그룹", "id": 522375}]}

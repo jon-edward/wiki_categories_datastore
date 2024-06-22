@@ -1,1 +1,1 @@
-{"name": "Produse_Google", "id": 2395470, "predecessors": [{"name": "Google", "id": 872670}], "successors": [{"name": "Android", "id": 1248641}]}
+{"name": "Produse_Google", "id": 2395470, "predecessors": [{"name": "Google", "id": 872670}, {"name": "Bunuri", "id": 32286}], "successors": [{"name": "Android", "id": 1248641}]}

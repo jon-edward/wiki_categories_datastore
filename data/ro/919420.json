@@ -1,1 +1,1 @@
-{"name": "Chimicale_cosmetice", "id": 919420, "predecessors": [{"name": "Chimicale_de_uz_casnic", "id": 919445}, {"name": "Compuși_chimici", "id": 749556}, {"name": "Cosmetică", "id": 159060}], "successors": [{"name": "Ingrediente_de_parfum", "id": 919210}]}
+{"name": "Chimicale_cosmetice", "id": 919420, "predecessors": [{"name": "Chimicale_de_uz_casnic", "id": 919445}, {"name": "Cosmetică", "id": 159060}], "successors": [{"name": "Ingrediente_de_parfum", "id": 919210}]}

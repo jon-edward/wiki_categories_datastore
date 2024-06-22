@@ -1,1 +1,1 @@
-{"name": "Emisiuni_de_televiziune_din_SUA", "id": 830606, "predecessors": [{"name": "Emisiuni_de_televiziune", "id": 111267}], "successors": [{"name": "MythBusters", "id": 455131}, {"name": "Boomerang", "id": 1057232}]}
+{"name": "Emisiuni_de_televiziune_din_SUA", "id": 830606, "predecessors": [{"name": "Televiziune", "id": 39944}], "successors": [{"name": "MythBusters", "id": 455131}, {"name": "Boomerang", "id": 1057232}]}

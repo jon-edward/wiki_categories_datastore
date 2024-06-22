@@ -1,1 +1,1 @@
-{"name": "Clientes_FTP", "id": 851631, "predecessors": [{"name": "Clientes_(computação)", "id": 3197133}, {"name": "Programas_de_computador_por_finalidade", "id": 430478}], "successors": []}
+{"name": "Clientes_FTP", "id": 851631, "predecessors": [{"name": "Programas_de_computador_por_finalidade", "id": 430478}, {"name": "Arquitetura_de_computação_distribuída", "id": 5565239}], "successors": []}

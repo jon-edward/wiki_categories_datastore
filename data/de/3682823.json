@@ -1,1 +1,1 @@
-{"name": "Sulfonat", "id": 3682823, "predecessors": [{"name": "Organoschwefelverbindung", "id": 2078047}, {"name": "Salz", "id": 521520}], "successors": [{"name": "Benzolsulfonat", "id": 4656877}, {"name": "Naphthalinsulfonat", "id": 6752995}]}
+{"name": "Sulfonat", "id": 3682823, "predecessors": [{"name": "Salz", "id": 521520}, {"name": "Organoschwefelverbindung", "id": 2078047}], "successors": [{"name": "Benzolsulfonat", "id": 4656877}, {"name": "Naphthalinsulfonat", "id": 6752995}]}

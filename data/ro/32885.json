@@ -1,1 +1,1 @@
-{"name": "Restaurante_fast_food", "id": 32885, "predecessors": [{"name": "Fast_food", "id": 2463094}, {"name": "Restaurante", "id": 228419}], "successors": [{"name": "McDonald's", "id": 2922526}]}
+{"name": "Restaurante_fast_food", "id": 32885, "predecessors": [{"name": "Restaurante", "id": 228419}], "successors": [{"name": "McDonald's", "id": 2922526}]}

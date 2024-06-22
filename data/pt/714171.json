@@ -1,1 +1,1 @@
-{"name": "Táxi", "id": 714171, "predecessors": [{"name": "Transporte_público", "id": 192790}, {"name": "Transporte_rodoviário", "id": 107511}, {"name": "Distribuição_de_renda", "id": 2661861}, {"name": "Individualismo", "id": 2619508}], "successors": []}
+{"name": "Táxi", "id": 714171, "predecessors": [{"name": "Aluguel", "id": 4703048}, {"name": "Transporte_público", "id": 192790}, {"name": "Transporte_rodoviário", "id": 107511}, {"name": "Individualismo", "id": 2619508}], "successors": []}

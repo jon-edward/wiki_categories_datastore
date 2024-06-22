@@ -1,1 +1,1 @@
-{"name": "Stomatologie", "id": 182330, "predecessors": [{"name": "Specialități_medicale", "id": 760126}], "successors": [{"name": "Tulburări_stomatologice", "id": 418596}, {"name": "Tehnică_dentară", "id": 643998}, {"name": "Preparate_stomatologice", "id": 1953154}]}
+{"name": "Stomatologie", "id": 182330, "predecessors": [{"name": "Specialități_medicale", "id": 760126}], "successors": [{"name": "Igienă_orală", "id": 78652}, {"name": "Tulburări_stomatologice", "id": 418596}, {"name": "Tehnică_dentară", "id": 643998}, {"name": "Preparate_stomatologice", "id": 1953154}]}

@@ -1,1 +1,1 @@
-{"name": "Studenta_kulturo", "id": 616723, "predecessors": [{"name": "Junulara_kulturo", "id": 595131}, {"name": "Kulturo", "id": 26391}, {"name": "Studentoj", "id": 447432}, {"name": "Universitato", "id": 29141}], "successors": []}
+{"name": "Studenta_kulturo", "id": 616723, "predecessors": [{"name": "Junulara_kulturo", "id": 595131}, {"name": "Kulturo", "id": 26391}, {"name": "Studentoj", "id": 447432}, {"name": "Universitato", "id": 29141}], "successors": [{"name": "Studentaj_eventoj", "id": 616721}]}

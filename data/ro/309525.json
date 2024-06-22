@@ -1,1 +1,1 @@
-{"name": "Seriale_canadiene", "id": 309525, "predecessors": [{"name": "Seriale_de_televiziune", "id": 858962}], "successors": [{"name": "Seriale_de_televiziune_canadiene_științifico-fantastice", "id": 1151251}]}
+{"name": "Seriale_canadiene", "id": 309525, "predecessors": [{"name": "Televiziune", "id": 39944}], "successors": [{"name": "Seriale_de_televiziune_canadiene_științifico-fantastice", "id": 1151251}]}

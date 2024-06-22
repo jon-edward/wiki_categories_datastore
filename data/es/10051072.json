@@ -1,1 +1,1 @@
-{"name": "Enfermedades_prevenibles_por_vacunación", "id": 10051072, "predecessors": [{"name": "Vacunación", "id": 9459647}], "successors": [{"name": "Tifus", "id": 10752645}]}
+{"name": "Enfermedades_prevenibles_por_vacunación", "id": 10051072, "predecessors": [{"name": "Enfermedades_infecciosas", "id": 64496}, {"name": "Vacunación", "id": 9459647}], "successors": [{"name": "Tifus", "id": 10752645}]}

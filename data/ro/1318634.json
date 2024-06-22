@@ -1,1 +1,1 @@
-{"name": "Ziare_în_limba_română", "id": 1318634, "predecessors": [{"name": "Ziare", "id": 21435}, {"name": "Limba_română", "id": 22422}], "successors": [{"name": "Ziare_românești_din_străinătate", "id": 790294}]}
+{"name": "Ziare_în_limba_română", "id": 1318634, "predecessors": [{"name": "Presă", "id": 104373}, {"name": "Limba_română", "id": 22422}], "successors": [{"name": "Ziare_românești_din_străinătate", "id": 790294}]}

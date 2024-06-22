@@ -1,1 +1,1 @@
-{"name": "Caraibe", "id": 87979, "predecessors": [{"name": "Antilele_Mari", "id": 2888450}], "successors": [{"name": "Insule_caraibiene", "id": 21388}, {"name": "Țări_caraibiene", "id": 761069}, {"name": "Pirații_din_Caraibe", "id": 866473}]}
+{"name": "Caraibe", "id": 87979, "predecessors": [{"name": "Antilele_Mari", "id": 2888450}, {"name": "Regiuni", "id": 40920}], "successors": [{"name": "Insule_caraibiene", "id": 21388}, {"name": "Țări_caraibiene", "id": 761069}, {"name": "Pirații_din_Caraibe", "id": 866473}]}

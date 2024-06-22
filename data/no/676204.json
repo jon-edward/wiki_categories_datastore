@@ -1,1 +1,1 @@
-{"name": "Hoteller_i_Oslo", "id": 676204, "predecessors": [{"name": "Byggverk_i_Oslo", "id": 1114862}, {"name": "Næringsliv_i_Oslo", "id": 86172}, {"name": "Hoteller", "id": 43542}], "successors": []}
+{"name": "Hoteller_i_Oslo", "id": 676204, "predecessors": [{"name": "Byggverk_i_Oslo", "id": 1114862}, {"name": "Næringsliv_i_Oslo", "id": 86172}, {"name": "Gjestehus", "id": 835040}], "successors": []}

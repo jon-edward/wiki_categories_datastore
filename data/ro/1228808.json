@@ -1,1 +1,1 @@
-{"name": "Cazuri_judiciare_în_România", "id": 1228808, "predecessors": [{"name": "Evenimente_în_România", "id": 658970}, {"name": "Justiția_în_România", "id": 753162}], "successors": [{"name": "Dosare_de_corupție_din_România", "id": 804394}]}
+{"name": "Cazuri_judiciare_în_România", "id": 1228808, "predecessors": [{"name": "Evenimente_în_România", "id": 658970}, {"name": "Justiția_în_România", "id": 753162}, {"name": "Drept_procesual", "id": 220707}], "successors": [{"name": "Dosare_de_corupție_din_România", "id": 804394}]}

@@ -1,1 +1,1 @@
-{"name": "4DX_영화", "id": 3339344, "predecessors": [{"name": "4D_영화", "id": 3339346}, {"name": "CJ_CGV", "id": 2948692}, {"name": "영화_규격", "id": 775090}, {"name": "영화", "id": 11875}], "successors": []}
+{"name": "4DX_영화", "id": 3339344, "predecessors": [{"name": "4D_영화", "id": 3339346}, {"name": "CJ_CGV", "id": 2948692}, {"name": "영화_규격", "id": 775090}, {"name": "비디오", "id": 98469}], "successors": []}

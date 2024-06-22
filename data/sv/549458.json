@@ -1,1 +1,1 @@
-{"name": "Specialfartyg", "id": 549458, "predecessors": [{"name": "Arbetsfartyg", "id": 8465935}, {"name": "Fartyg", "id": 53917}], "successors": [{"name": "Svenska_militära_specialfartyg", "id": 767399}, {"name": "Offshorefartyg", "id": 8118027}]}
+{"name": "Specialfartyg", "id": 549458, "predecessors": [{"name": "Arbetsfartyg", "id": 8465935}, {"name": "Fartyg", "id": 53917}], "successors": [{"name": "Svenska_militära_specialfartyg", "id": 767399}, {"name": "Offshorefartyg", "id": 8118027}, {"name": "Kabelläggningsfartyg", "id": 8674727}]}

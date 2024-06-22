@@ -1,1 +1,1 @@
-{"name": "Hotellkjeder", "id": 270078, "predecessors": [{"name": "Hoteller", "id": 43542}, {"name": "Reiseliv", "id": 472720}], "successors": [{"name": "Hotellkjeder_i_Norge", "id": 806985}]}
+{"name": "Hotellkjeder", "id": 270078, "predecessors": [{"name": "Gjestehus", "id": 835040}, {"name": "Reiseliv", "id": 472720}], "successors": [{"name": "Hotellkjeder_i_Norge", "id": 806985}]}

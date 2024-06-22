@@ -1,1 +1,1 @@
-{"name": "Wind_power_companies", "id": 18598330, "predecessors": [{"name": "Electric_power", "id": 959286}, {"name": "Energy_economics", "id": 3646879}, {"name": "Wind_power", "id": 7689273}], "successors": []}
+{"name": "Wind_power_companies", "id": 18598330, "predecessors": [{"name": "Wind_energy_organizations", "id": 31279768}, {"name": "Electric_power", "id": 959286}, {"name": "Energy_economics", "id": 3646879}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Arbitri", "id": 655424, "predecessors": [{"name": "Oameni_după_ocupație", "id": 758162}, {"name": "Comportament_uman", "id": 244948}], "successors": [{"name": "Arbitri_de_fotbal", "id": 655420}, {"name": "Arbitri_români", "id": 655445}]}
+{"name": "Arbitri", "id": 655424, "predecessors": [{"name": "Oameni_după_ocupație", "id": 758162}, {"name": "Ocupații", "id": 758191}], "successors": [{"name": "Arbitri_de_fotbal", "id": 655420}, {"name": "Arbitri_români", "id": 655445}]}

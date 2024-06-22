@@ -1,1 +1,1 @@
-{"name": "Chimicale_de_uz_casnic", "id": 919445, "predecessors": [{"name": "Obiecte_casnice", "id": 349578}, {"name": "Compuși_chimici", "id": 749556}, {"name": "Substanțe_chimice", "id": 760265}], "successors": [{"name": "Chimicale_cosmetice", "id": 919420}]}
+{"name": "Chimicale_de_uz_casnic", "id": 919445, "predecessors": [{"name": "Obiecte_casnice", "id": 349578}, {"name": "Industria_chimică", "id": 765570}, {"name": "Utilitate", "id": 239490}], "successors": [{"name": "Chimicale_cosmetice", "id": 919420}]}

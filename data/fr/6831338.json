@@ -1,1 +1,1 @@
-{"name": "Musée_au_Maroc", "id": 6831338, "predecessors": [{"name": "Culture_au_Maroc", "id": 3601152}, {"name": "Tourisme_au_Maroc", "id": 773791}, {"name": "Bâtiment", "id": 270001}], "successors": [{"name": "Musée_à_Marrakech", "id": 8960938}]}
+{"name": "Musée_au_Maroc", "id": 6831338, "predecessors": [{"name": "Tourisme_au_Maroc", "id": 773791}, {"name": "Bâtiment", "id": 270001}, {"name": "Culture_en_Afrique", "id": 312309}], "successors": [{"name": "Musée_à_Marrakech", "id": 8960938}]}

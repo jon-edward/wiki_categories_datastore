@@ -1,1 +1,1 @@
-{"name": "Primul_ajutor", "id": 353294, "predecessors": [{"name": "Ajutor_umanitar", "id": 1237836}, {"name": "Servicii_medicale_de_urgență", "id": 760035}, {"name": "Tratamente_medicale", "id": 888297}, {"name": "Viață", "id": 760559}], "successors": []}
+{"name": "Primul_ajutor", "id": 353294, "predecessors": [{"name": "Ajutor_umanitar", "id": 1237836}, {"name": "Servicii_medicale_de_urgență", "id": 760035}, {"name": "Tratamente_medicale", "id": 888297}, {"name": "Securitate", "id": 36333}], "successors": []}

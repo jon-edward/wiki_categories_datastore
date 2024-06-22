@@ -1,1 +1,1 @@
-{"name": "바리톤", "id": 87684, "predecessors": [{"name": "성악가", "id": 87656}, {"name": "음악가", "id": 14805}, {"name": "성악_음역", "id": 217516}], "successors": []}
+{"name": "바리톤", "id": 87684, "predecessors": [{"name": "성악가", "id": 87656}, {"name": "예술", "id": 4393}, {"name": "성악_음역", "id": 217516}], "successors": []}

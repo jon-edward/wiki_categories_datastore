@@ -1,1 +1,1 @@
-{"name": "Brettseilere", "id": 564751, "predecessors": [{"name": "Seilere", "id": 76359}, {"name": "Seiling", "id": 76356}], "successors": []}
+{"name": "Brettseilere", "id": 564751, "predecessors": [{"name": "Seilere", "id": 76359}, {"name": "Seiling", "id": 76356}], "successors": [{"name": "Norske_brettseilere", "id": 564754}]}

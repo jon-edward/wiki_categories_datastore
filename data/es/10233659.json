@@ -1,1 +1,1 @@
-{"name": "WTA_Finals", "id": 10233659, "predecessors": [{"name": "Tenis_femenino", "id": 2924884}], "successors": [{"name": "WTA_Tour_Championships", "id": 624898}]}
+{"name": "WTA_Finals", "id": 10233659, "predecessors": [{"name": "Competiciones_de_tenis", "id": 255838}], "successors": [{"name": "WTA_Tour_Championships", "id": 624898}]}

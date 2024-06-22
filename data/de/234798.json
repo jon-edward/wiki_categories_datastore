@@ -1,1 +1,1 @@
-{"name": "Asterismus", "id": 234798, "predecessors": [{"name": "Astronomisches_Objekt", "id": 2383569}], "successors": [{"name": "Anerkanntes_Sternbild", "id": 234803}, {"name": "Historisches_Sternbild", "id": 5416911}]}
+{"name": "Asterismus", "id": 234798, "predecessors": [{"name": "Astronomisches_Objekt", "id": 2383569}, {"name": "Beobachtende_Astronomie", "id": 233615}], "successors": [{"name": "Historisches_Sternbild", "id": 5416911}]}

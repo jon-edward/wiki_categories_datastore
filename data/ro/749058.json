@@ -1,1 +1,1 @@
-{"name": "Calcul_diferențial_și_integral", "id": 749058, "predecessors": [{"name": "Analiză_matematică", "id": 18330}], "successors": [{"name": "Ecuații_diferențiale", "id": 750778}]}
+{"name": "Calcul_diferențial_și_integral", "id": 749058, "predecessors": [{"name": "Analiză_matematică", "id": 18330}], "successors": [{"name": "Integrale", "id": 88273}, {"name": "Calcul_integral", "id": 127334}, {"name": "Ecuații_diferențiale", "id": 750778}, {"name": "Calcul_diferențial", "id": 837282}, {"name": "Calcul_diferențial_și_integral_cu_variabile_multiple", "id": 1660127}]}

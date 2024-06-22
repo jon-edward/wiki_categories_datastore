@@ -1,1 +1,1 @@
-{"name": "Winter_solstice", "id": 74091737, "predecessors": [{"name": "Winter_festivals", "id": 4245970}], "successors": [{"name": "Hogmanay", "id": 37710801}]}
+{"name": "Winter_solstice", "id": 74091737, "predecessors": [{"name": "International_observances", "id": 11334648}, {"name": "Winter_festivals", "id": 4245970}], "successors": [{"name": "Hogmanay", "id": 37710801}]}

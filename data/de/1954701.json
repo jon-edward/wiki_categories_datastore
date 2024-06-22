@@ -1,1 +1,1 @@
-{"name": "Sulfat", "id": 1954701, "predecessors": [{"name": "Salz", "id": 521520}, {"name": "Sauerstoffverbindung", "id": 1958642}, {"name": "Schwefelverbindung", "id": 1777391}], "successors": []}
+{"name": "Sulfat", "id": 1954701, "predecessors": [{"name": "Salz", "id": 521520}, {"name": "Schwefelsäureverbindung", "id": 13132080}], "successors": []}

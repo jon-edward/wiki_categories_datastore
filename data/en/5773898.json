@@ -1,1 +1,1 @@
-{"name": "Balls", "id": 5773898, "predecessors": [{"name": "Sports_equipment", "id": 8619631}, {"name": "Gaming", "id": 11608552}, {"name": "Spheres", "id": 31459341}], "successors": [{"name": "Ball_games", "id": 996038}, {"name": "Fictional_balls", "id": 3378523}]}
+{"name": "Balls", "id": 5773898, "predecessors": [{"name": "Sports_equipment", "id": 8619631}, {"name": "Spheres", "id": 31459341}], "successors": [{"name": "Ball_games", "id": 996038}, {"name": "Fictional_balls", "id": 3378523}]}

@@ -1,1 +1,1 @@
-{"name": "첩보_코미디_영화", "id": 789563, "predecessors": [{"name": "영화", "id": 11875}, {"name": "첩보_영화", "id": 434538}], "successors": []}
+{"name": "첩보_코미디_영화", "id": 789563, "predecessors": [{"name": "비디오", "id": 98469}, {"name": "첩보_영화", "id": 434538}], "successors": []}

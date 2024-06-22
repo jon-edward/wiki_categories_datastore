@@ -1,1 +1,1 @@
-{"name": "Servicii_financiare", "id": 987779, "predecessors": [{"name": "Servicii", "id": 11022}, {"name": "Sisteme_economice", "id": 180354}], "successors": [{"name": "Asigurări", "id": 200358}, {"name": "Companii_de_servicii_financiare", "id": 449417}]}
+{"name": "Servicii_financiare", "id": 987779, "predecessors": [{"name": "Servicii", "id": 11022}], "successors": [{"name": "Asigurări", "id": 200358}, {"name": "Companii_de_servicii_financiare", "id": 449417}]}

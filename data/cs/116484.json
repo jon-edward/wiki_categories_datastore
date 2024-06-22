@@ -1,0 +1,1 @@
+{"name": "Železniční_dopravny_a_zastávky", "id": 116484, "predecessors": [{"name": "Řízení_železniční_dopravy", "id": 116483}, {"name": "Železnice", "id": 6502}], "successors": [{"name": "Železniční_stanice", "id": 41479}, {"name": "Výhybny", "id": 1700891}, {"name": "Železniční_odbočky", "id": 1707001}]}

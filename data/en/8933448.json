@@ -1,1 +1,1 @@
-{"name": "Foreign_policy_and_strategy_think_tanks", "id": 8933448, "predecessors": [{"name": "Peace_and_conflict_studies", "id": 21610733}], "successors": [{"name": "War_colleges", "id": 68352646}]}
+{"name": "Foreign_policy_and_strategy_think_tanks", "id": 8933448, "predecessors": [{"name": "Foreign_policy", "id": 19025423}, {"name": "Research_institutes_of_international_relations", "id": 13638257}, {"name": "Peace_and_conflict_studies", "id": 21610733}], "successors": [{"name": "War_colleges", "id": 68352646}]}

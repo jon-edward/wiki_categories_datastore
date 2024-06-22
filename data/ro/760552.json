@@ -1,1 +1,1 @@
-{"name": "Vehicule_cu_tracțiune_animală", "id": 760552, "predecessors": [{"name": "Echipament_animal", "id": 229873}, {"name": "Vehicule_rutiere", "id": 225538}], "successors": [{"name": "Trăsuri", "id": 229871}]}
+{"name": "Vehicule_cu_tracțiune_animală", "id": 760552, "predecessors": [{"name": "Echipament_animal", "id": 229873}], "successors": [{"name": "Trăsuri", "id": 229871}]}

@@ -1,1 +1,1 @@
-{"name": "Auteur_de_comic_strip", "id": 8368684, "predecessors": [{"name": "Comic_strip", "id": 456484}, {"name": "Métier", "id": 87726}], "successors": [{"name": "Auteur_américain_de_comic_strip", "id": 8368680}]}
+{"name": "Auteur_de_comic_strip", "id": 8368684, "predecessors": [{"name": "Comic_strip", "id": 456484}, {"name": "Auteur_de_bande_dessinée", "id": 195476}], "successors": [{"name": "Auteur_américain_de_comic_strip", "id": 8368680}]}

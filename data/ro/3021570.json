@@ -1,1 +1,1 @@
-{"name": "Fluide_intravenoase", "id": 3021570, "predecessors": [{"name": "Dispozitive_medicale", "id": 2516957}, {"name": "Forme_farmaceutice", "id": 2018177}, {"name": "Soluții", "id": 2007707}, {"name": "Tratamente_medicale", "id": 888297}], "successors": []}
+{"name": "Fluide_intravenoase", "id": 3021570, "predecessors": [{"name": "Dispozitive_medicale", "id": 2516957}, {"name": "Forme_farmaceutice", "id": 2018177}, {"name": "Tratamente_medicale", "id": 888297}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Market_halls", "id": 47477585, "predecessors": [{"name": "Retail_markets", "id": 21600631}, {"name": "Distribution_(marketing)", "id": 1232228}, {"name": "Retail_formats", "id": 60643813}], "successors": []}
+{"name": "Market_halls", "id": 47477585, "predecessors": [{"name": "Retail_markets", "id": 21600631}, {"name": "Distribution_(marketing)", "id": 1232228}, {"name": "Retail_formats", "id": 60643813}], "successors": [{"name": "Market_halls_in_the_United_States", "id": 77112274}]}

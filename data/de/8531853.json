@@ -1,1 +1,1 @@
-{"name": "Alkylsubstituierter_Heteroaromat", "id": 8531853, "predecessors": [{"name": "Heteroaromat", "id": 1317712}, {"name": "Alkylverbindung", "id": 12999976}], "successors": []}
+{"name": "Alkylsubstituierter_Heteroaromat", "id": 8531853, "predecessors": [{"name": "Alkylsubstituierter_Aromat", "id": 8520040}, {"name": "Heteroaromat", "id": 1317712}], "successors": []}

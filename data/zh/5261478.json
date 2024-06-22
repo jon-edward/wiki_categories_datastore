@@ -1,1 +1,0 @@
-{"name": "邏輯鏈路控制", "id": 5261478, "predecessors": [{"name": "IEEE_802", "id": 490848}, {"name": "OSI协议", "id": 513860}, {"name": "网际协议", "id": 513850}], "successors": [{"name": "错误检测与校正", "id": 346235}]}

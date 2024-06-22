@@ -1,1 +1,1 @@
-{"name": "Produse_Sony", "id": 1131065, "predecessors": [{"name": "Sony", "id": 449331}], "successors": [{"name": "Console_de_jocuri_Sony", "id": 2509406}]}
+{"name": "Produse_Sony", "id": 1131065, "predecessors": [{"name": "Sony", "id": 449331}, {"name": "Bunuri", "id": 32286}], "successors": [{"name": "Console_de_jocuri_Sony", "id": 2509406}]}

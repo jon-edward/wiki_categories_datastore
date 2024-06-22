@@ -1,1 +1,1 @@
-{"name": "Transport_in_Seoul", "id": 3373992, "predecessors": [{"name": "Capital_districts_and_territories", "id": 10141160}], "successors": [{"name": "Bridges_in_Seoul", "id": 17047723}, {"name": "Roads_in_Seoul", "id": 40221636}, {"name": "Seoul_Metropolitan_Subway", "id": 43338748}]}
+{"name": "Transport_in_Seoul", "id": 3373992, "predecessors": [{"name": "Planned_capitals", "id": 30247114}], "successors": [{"name": "Bridges_in_Seoul", "id": 17047723}, {"name": "Roads_in_Seoul", "id": 40221636}, {"name": "Seoul_Metropolitan_Subway", "id": 43338748}]}

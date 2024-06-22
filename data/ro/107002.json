@@ -1,1 +1,1 @@
-{"name": "Tehnici_medicale", "id": 107002, "predecessors": [{"name": "Medicină", "id": 16098}, {"name": "Abilități", "id": 1659306}], "successors": [{"name": "Tehnică_dentară", "id": 643998}, {"name": "Manevre_medicale", "id": 2414764}]}
+{"name": "Tehnici_medicale", "id": 107002, "predecessors": [{"name": "Medicină", "id": 16098}], "successors": [{"name": "Tehnică_dentară", "id": 643998}, {"name": "Manevre_medicale", "id": 2414764}]}

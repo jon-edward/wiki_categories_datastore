@@ -1,1 +1,1 @@
-{"name": "Companii_hoteliere", "id": 372823, "predecessors": [{"name": "Hoteluri", "id": 168768}, {"name": "Companii", "id": 32300}], "successors": [{"name": "Companii_hoteliere_din_România", "id": 609250}, {"name": "Lanțuri_hoteliere", "id": 802513}]}
+{"name": "Companii_hoteliere", "id": 372823, "predecessors": [{"name": "Hoteluri", "id": 168768}, {"name": "Turism", "id": 38617}], "successors": [{"name": "Companii_hoteliere_din_România", "id": 609250}, {"name": "Lanțuri_hoteliere", "id": 802513}]}

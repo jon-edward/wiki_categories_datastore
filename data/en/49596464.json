@@ -1,1 +1,1 @@
-{"name": "Banned_sports_tactics", "id": 49596464, "predecessors": [{"name": "Strategy", "id": 4685400}], "successors": [{"name": "Gridiron_football_penalties", "id": 30236016}]}
+{"name": "Banned_sports_tactics", "id": 49596464, "predecessors": [{"name": "Sports_rules_and_regulations", "id": 14543951}, {"name": "Strategy", "id": 4685400}], "successors": [{"name": "Gridiron_football_penalties", "id": 30236016}]}

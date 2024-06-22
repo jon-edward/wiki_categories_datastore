@@ -1,1 +1,0 @@
-{"name": "Vehicule_electrice", "id": 812717, "predecessors": [{"name": "Locomoție", "id": 753834}], "successors": [{"name": "Automobile_electrice", "id": 491543}, {"name": "Troleibuze", "id": 907223}, {"name": "Tramvaie", "id": 1240500}, {"name": "Locomotive_electrice", "id": 1350062}, {"name": "Vehicule_electrice_hibride", "id": 1801718}]}

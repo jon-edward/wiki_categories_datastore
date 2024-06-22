@@ -1,1 +1,1 @@
-{"name": "Schwefelsäureester", "id": 3733584, "predecessors": [{"name": "Sauerstoffverbindung", "id": 1958642}, {"name": "Schwefelverbindung", "id": 1777391}, {"name": "Chemie", "id": 235238}], "successors": []}
+{"name": "Schwefelsäureester", "id": 3733584, "predecessors": [{"name": "Schwefelsäureverbindung", "id": 13132080}, {"name": "Chemie", "id": 235238}], "successors": []}

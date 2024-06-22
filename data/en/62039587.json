@@ -1,1 +1,1 @@
-{"name": "IPadOS_software", "id": 62039587, "predecessors": [{"name": "IPad", "id": 30107877}, {"name": "Operating_systems", "id": 693664}, {"name": "Mobile_software", "id": 10473202}, {"name": "ARM_operating_systems", "id": 39774425}], "successors": []}
+{"name": "IPadOS_software", "id": 62039587, "predecessors": [{"name": "IPad", "id": 30107877}, {"name": "IPadOS", "id": 62039593}, {"name": "Operating_systems", "id": 693664}, {"name": "Mobile_software", "id": 10473202}], "successors": []}

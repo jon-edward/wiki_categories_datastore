@@ -1,1 +1,1 @@
-{"name": "Saksan_tiet", "id": 567825, "predecessors": [{"name": "Euroopan_neuvosto", "id": 382420}, {"name": "Tieliikenne", "id": 53115}], "successors": [{"name": "Saksan_moottoritiet", "id": 722824}, {"name": "Berliinin_kadut", "id": 220052}]}
+{"name": "Saksan_tiet", "id": 567825, "predecessors": [{"name": "Tieliikenne", "id": 53115}, {"name": "Euroopan_neuvosto", "id": 382420}], "successors": [{"name": "Saksan_moottoritiet", "id": 722824}, {"name": "Berliinin_kadut", "id": 220052}]}

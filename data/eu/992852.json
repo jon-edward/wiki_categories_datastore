@@ -1,1 +1,1 @@
-{"name": "Egoera_kalteberan_dauden_animaliak", "id": 992852, "predecessors": [{"name": "Animaliak", "id": 6556}, {"name": "Biota_iraute_egoeraren_arabera", "id": 992851}], "successors": []}
+{"name": "Egoera_kalteberan_dauden_animaliak", "id": 992852, "predecessors": [{"name": "Egoera_kalteberan_dauden_taxonak", "id": 992853}, {"name": "Animaliak", "id": 6556}], "successors": []}

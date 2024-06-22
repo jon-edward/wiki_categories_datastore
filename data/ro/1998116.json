@@ -1,1 +1,1 @@
-{"name": "Profesori_de_liceu_români", "id": 1998116, "predecessors": [{"name": "Licee_din_România", "id": 61519}, {"name": "Profesori_de_liceu", "id": 308203}], "successors": [{"name": "Profesori_la_Colegiul_Național_Sfântul_Sava", "id": 1998113}]}
+{"name": "Profesori_de_liceu_români", "id": 1998116, "predecessors": [{"name": "Licee_din_România", "id": 61519}, {"name": "Profesori_de_liceu", "id": 308203}, {"name": "Profesori_români", "id": 199668}], "successors": [{"name": "Profesori_la_Colegiul_Național_Sfântul_Sava", "id": 1998113}]}

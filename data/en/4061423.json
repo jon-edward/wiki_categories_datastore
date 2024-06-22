@@ -1,0 +1,1 @@
+{"name": "NBA_Finals", "id": 4061423, "predecessors": [{"name": "NBA_games", "id": 30125308}, {"name": "Athletic_sports", "id": 31210709}], "successors": [{"name": "NBA_championship_seasons", "id": 13598268}, {"name": "Western_Conference_(NBA)_championship_seasons", "id": 19560709}, {"name": "Eastern_Conference_(NBA)_championship_seasons", "id": 19560727}]}

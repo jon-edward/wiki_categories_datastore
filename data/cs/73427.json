@@ -1,0 +1,1 @@
+{"name": "Kuchyně", "id": 73427, "predecessors": [{"name": "Gastronomie", "id": 4685}, {"name": "Prostory_v_domě", "id": 123723}, {"name": "Restaurace", "id": 106431}], "successors": [{"name": "Kuchyňské_nástroje", "id": 81460}, {"name": "Nádobí", "id": 304443}, {"name": "Kuchyňská_zařízení", "id": 586089}]}

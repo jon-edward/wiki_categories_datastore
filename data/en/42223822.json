@@ -1,1 +1,1 @@
-{"name": "The_Headies_winners", "id": 42223822, "predecessors": [{"name": "Music_award_winners", "id": 7599624}, {"name": "The_Headies", "id": 42208872}], "successors": []}
+{"name": "The_Headies_winners", "id": 42223822, "predecessors": [{"name": "The_Headies", "id": 42208872}, {"name": "Music_awards", "id": 940448}], "successors": []}

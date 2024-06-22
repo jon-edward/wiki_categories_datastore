@@ -1,1 +1,1 @@
-{"name": "Ohjelmakirjastot", "id": 725175, "predecessors": [{"name": "Ohjelmistot", "id": 20754}, {"name": "Ohjelmointirajapinnat", "id": 558388}], "successors": [{"name": "Käyttöliittymäkirjastot", "id": 218645}]}
+{"name": "Ohjelmakirjastot", "id": 725175, "predecessors": [{"name": "Ohjelmistot", "id": 20754}, {"name": "Ohjelmointirajapinnat", "id": 558388}], "successors": [{"name": "Käyttöliittymäkirjastot", "id": 218645}, {"name": "Ohjelmakehykset", "id": 1540202}]}

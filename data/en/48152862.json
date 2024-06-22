@@ -1,1 +1,1 @@
-{"name": "Diplomatic_training", "id": 48152862, "predecessors": [{"name": "Civil_servant_training_institutions", "id": 73948131}, {"name": "Diplomacy", "id": 911551}], "successors": []}
+{"name": "Diplomatic_training", "id": 48152862, "predecessors": [{"name": "Civil_servant_training_institutions", "id": 73948131}, {"name": "Diplomacy", "id": 911551}, {"name": "International_relations_education", "id": 13637930}], "successors": []}

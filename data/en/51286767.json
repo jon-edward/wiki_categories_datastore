@@ -1,1 +1,1 @@
-{"name": "Finnish_male_high_jumpers", "id": 51286767, "predecessors": [{"name": "Male_high_jumpers", "id": 26335446}, {"name": "Competitions", "id": 737119}, {"name": "Athletics_by_country", "id": 30874057}], "successors": []}
+{"name": "Finnish_male_high_jumpers", "id": 51286767, "predecessors": [{"name": "Male_high_jumpers", "id": 26335446}, {"name": "High_jump", "id": 22621045}, {"name": "Athletics_by_country", "id": 30874057}], "successors": []}

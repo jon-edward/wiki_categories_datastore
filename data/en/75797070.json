@@ -1,1 +1,1 @@
-{"name": "Roman_Republican_soldiers", "id": 75797070, "predecessors": [{"name": "Ancient_Roman_military_personnel", "id": 22735084}], "successors": []}
+{"name": "Roman_Republican_soldiers", "id": 75797070, "predecessors": [{"name": "Ancient_Roman_soldiers", "id": 3227377}, {"name": "Ancient_Roman_military_personnel", "id": 22735084}], "successors": []}

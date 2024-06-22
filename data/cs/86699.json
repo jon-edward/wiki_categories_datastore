@@ -1,0 +1,1 @@
+{"name": "Železniční_vozy", "id": 86699, "predecessors": [{"name": "Přípojná_vozidla", "id": 265426}, {"name": "Železniční_vozidla", "id": 116506}], "successors": [{"name": "Motorové_vozy", "id": 35229}, {"name": "Osobní_vozy", "id": 86788}, {"name": "Nákladní_vozy", "id": 86789}]}

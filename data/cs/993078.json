@@ -1,0 +1,1 @@
+{"name": "Imunitní_léčba", "id": 993078, "predecessors": [{"name": "Imunologie", "id": 12064}, {"name": "Léčba", "id": 383014}, {"name": "Nemoci_imunitního_systému", "id": 377112}], "successors": [{"name": "Monoklonální_protilátky", "id": 462496}, {"name": "Imunosupresiva", "id": 462906}, {"name": "Antihistaminika", "id": 545313}, {"name": "Očkování", "id": 773330}]}

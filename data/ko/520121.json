@@ -1,1 +1,1 @@
-{"name": "영화_파생작", "id": 520121, "predecessors": [{"name": "유형별_영화", "id": 1102160}, {"name": "파생작", "id": 488138}, {"name": "영화", "id": 11875}], "successors": []}
+{"name": "영화_파생작", "id": 520121, "predecessors": [{"name": "유형별_영화", "id": 1102160}, {"name": "파생작", "id": 488138}, {"name": "비디오", "id": 98469}], "successors": []}

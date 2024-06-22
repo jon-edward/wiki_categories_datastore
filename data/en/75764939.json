@@ -1,1 +1,1 @@
-{"name": "Nintendo_fan_games", "id": 75764939, "predecessors": [{"name": "Fan_games", "id": 27861532}, {"name": "Nintendo", "id": 754996}], "successors": [{"name": "Mario_fan_games", "id": 74205709}]}
+{"name": "Nintendo_fan_games", "id": 75764939, "predecessors": [{"name": "Fan_games", "id": 27861532}, {"name": "Nintendo_fandom", "id": 77126825}, {"name": "Nintendo", "id": 754996}], "successors": []}

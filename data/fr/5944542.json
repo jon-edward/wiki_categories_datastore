@@ -1,1 +1,1 @@
-{"name": "Film_se_déroulant_en_Corse", "id": 5944542, "predecessors": [{"name": "Film_se_déroulant_sur_une_île", "id": 8015311}, {"name": "Film_se_déroulant_en_France", "id": 5944379}, {"name": "Communication", "id": 84690}, {"name": "Corse", "id": 123879}], "successors": []}
+{"name": "Film_se_déroulant_en_Corse", "id": 5944542, "predecessors": [{"name": "Film_se_déroulant_sur_une_île", "id": 8015311}, {"name": "Film_se_déroulant_en_France", "id": 5944379}, {"name": "Cinéma_en_France", "id": 5838510}, {"name": "Corse", "id": 123879}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Companii_petroliere", "id": 283873, "predecessors": [{"name": "Companii_energetice", "id": 366863}, {"name": "Companii", "id": 32300}, {"name": "Discipline_ale_ingineriei", "id": 199445}], "successors": [{"name": "Companii_petroliere_din_România", "id": 366811}]}
+{"name": "Companii_petroliere", "id": 283873, "predecessors": [{"name": "Companii_energetice", "id": 366863}, {"name": "Discipline_ale_ingineriei", "id": 199445}], "successors": [{"name": "Companii_petroliere_din_România", "id": 366811}]}

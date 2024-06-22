@@ -1,0 +1,1 @@
+{"name": "Úprava_vody", "id": 719601, "predecessors": [{"name": "Veřejné_zdraví", "id": 396388}, {"name": "Vodárenství", "id": 157084}, {"name": "Znečištění", "id": 504351}, {"name": "Čištění", "id": 359719}], "successors": [{"name": "Čištění_odpadních_vod", "id": 141839}]}

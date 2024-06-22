@@ -1,1 +1,1 @@
-{"name": "Forex", "id": 1110510, "predecessors": [{"name": "Monedă", "id": 14149}], "successors": [{"name": "Valută", "id": 53070}, {"name": "Crize_financiare", "id": 491503}]}
+{"name": "Forex", "id": 1110510, "predecessors": [{"name": "Monedă", "id": 14149}, {"name": "Terminologie_financiară", "id": 398344}], "successors": [{"name": "Valută", "id": 53070}, {"name": "Crize_financiare", "id": 491503}]}

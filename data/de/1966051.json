@@ -1,1 +1,1 @@
-{"name": "Azoverbindung", "id": 1966051, "predecessors": [{"name": "Diazen", "id": 13093951}], "successors": [{"name": "Azobenzol", "id": 4470800}, {"name": "Azonaphthalin", "id": 10868591}]}
+{"name": "Azoverbindung", "id": 1966051, "predecessors": [{"name": "Stickstoffverbindung", "id": 1782799}], "successors": [{"name": "Azobenzol", "id": 4470800}, {"name": "Azonaphthalin", "id": 10868591}]}

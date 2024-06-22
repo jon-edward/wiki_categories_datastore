@@ -1,1 +1,1 @@
-{"name": "Austin_Spurs_players", "id": 44152557, "predecessors": [{"name": "Competitions", "id": 737119}, {"name": "San_Antonio_Spurs", "id": 3957260}], "successors": [{"name": "Austin_Toros_players", "id": 54955662}]}
+{"name": "Austin_Spurs_players", "id": 44152557, "predecessors": [{"name": "San_Antonio_Spurs", "id": 3957260}, {"name": "Competitions", "id": 737119}], "successors": [{"name": "Austin_Toros_players", "id": 54955662}]}

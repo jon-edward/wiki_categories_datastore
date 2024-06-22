@@ -1,1 +1,1 @@
-{"name": "Tehnologii_energetice", "id": 1332273, "predecessors": [{"name": "Energetică", "id": 112636}, {"name": "Tehnologie", "id": 28690}], "successors": [{"name": "Conversie_de_energie", "id": 127370}, {"name": "Tehnologii_ale_hidrogenului", "id": 915580}, {"name": "Rafinării_de_petrol_din_România", "id": 610124}]}
+{"name": "Tehnologii_energetice", "id": 1332273, "predecessors": [{"name": "Energetică", "id": 112636}, {"name": "Tehnologie", "id": 28690}], "successors": [{"name": "Tehnologii_ale_hidrogenului", "id": 915580}]}

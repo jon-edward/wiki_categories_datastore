@@ -1,1 +1,1 @@
-{"name": "Antineoplazice", "id": 2375383, "predecessors": [{"name": "Tratarea_cancerului", "id": 1299505}, {"name": "Medicamente", "id": 23496}], "successors": [{"name": "Agenți_alchilanți", "id": 2495552}, {"name": "Antimetaboliți", "id": 2495901}, {"name": "Antracicline", "id": 2497062}]}
+{"name": "Antineoplazice", "id": 2375383, "predecessors": [{"name": "Tratarea_cancerului", "id": 1299505}], "successors": [{"name": "Agenți_alchilanți", "id": 2495552}, {"name": "Antimetaboliți", "id": 2495901}, {"name": "Antracicline", "id": 2497062}]}

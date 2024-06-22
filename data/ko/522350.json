@@ -1,1 +1,1 @@
-{"name": "로맨틱_뮤지컬_영화", "id": 522350, "predecessors": [{"name": "로맨스_영화", "id": 298257}, {"name": "영화", "id": 11875}], "successors": []}
+{"name": "로맨틱_뮤지컬_영화", "id": 522350, "predecessors": [{"name": "로맨스_영화", "id": 298257}, {"name": "비디오", "id": 98469}], "successors": []}

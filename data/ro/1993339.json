@@ -1,1 +1,1 @@
-{"name": "Beta-blocante", "id": 1993339, "predecessors": [{"name": "Antihipertensive", "id": 1995170}], "successors": []}
+{"name": "Beta-blocante", "id": 1993339, "predecessors": [{"name": "Antiaritmice", "id": 2375353}, {"name": "Antihipertensive", "id": 1995170}, {"name": "Cardiologie", "id": 41480}, {"name": "Biochimie", "id": 27840}], "successors": []}

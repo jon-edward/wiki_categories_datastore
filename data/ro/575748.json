@@ -1,1 +1,1 @@
-{"name": "Istoria_Romei", "id": 575748, "predecessors": [{"name": "Istoria_Italiei", "id": 28569}, {"name": "Roma", "id": 94760}, {"name": "Istorie", "id": 20699}], "successors": [{"name": "Roma_antică", "id": 22772}, {"name": "Istoria_Romei_antice", "id": 910018}]}
+{"name": "Istoria_Romei", "id": 575748, "predecessors": [{"name": "Istoria_Italiei", "id": 28569}, {"name": "Roma", "id": 94760}, {"name": "Geografie_politică", "id": 197297}], "successors": [{"name": "Roma_antică", "id": 22772}, {"name": "Istoria_Romei_antice", "id": 910018}]}

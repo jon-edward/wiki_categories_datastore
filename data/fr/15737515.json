@@ -1,1 +1,1 @@
-{"name": "Femme_scénariste_de_bande_dessinée", "id": 15737515, "predecessors": [{"name": "Métier", "id": 87726}], "successors": []}
+{"name": "Femme_scénariste_de_bande_dessinée", "id": 15737515, "predecessors": [{"name": "Auteur_de_bande_dessinée", "id": 195476}, {"name": "Métier", "id": 87726}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Sulfonsäureester", "id": 3682874, "predecessors": [{"name": "Organoschwefelverbindung", "id": 2078047}, {"name": "Sauerstoffverbindung", "id": 1958642}, {"name": "Chemie", "id": 235238}], "successors": []}
+{"name": "Sulfonsäureester", "id": 3682874, "predecessors": [{"name": "Chemie", "id": 235238}, {"name": "Organoschwefelverbindung", "id": 2078047}], "successors": []}

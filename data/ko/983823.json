@@ -1,1 +1,1 @@
-{"name": "뮤지컬_판타지_영화", "id": 983823, "predecessors": [{"name": "영화", "id": 11875}, {"name": "판타지_장르", "id": 782780}], "successors": []}
+{"name": "뮤지컬_판타지_영화", "id": 983823, "predecessors": [{"name": "비디오", "id": 98469}, {"name": "판타지_장르", "id": 782780}], "successors": []}

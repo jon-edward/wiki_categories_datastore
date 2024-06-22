@@ -1,1 +1,1 @@
-{"name": "Stade_portant_le_nom_d'une_personnalité_politique", "id": 6755169, "predecessors": [{"name": "Stade_portant_le_nom_d'une_personnalité", "id": 6755164}, {"name": "Accueil", "id": 1155637}], "successors": []}
+{"name": "Stade_portant_le_nom_d'une_personnalité_politique", "id": 6755169, "predecessors": [{"name": "Personnalité_politique", "id": 232259}, {"name": "Stade_portant_le_nom_d'une_personnalité", "id": 6755164}], "successors": []}

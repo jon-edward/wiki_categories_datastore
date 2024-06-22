@@ -1,1 +1,1 @@
-{"name": "Fabricantes_de_componentes_automotivos_da_Alemanha", "id": 4125511, "predecessors": [{"name": "Empresas_automotivas_da_Alemanha", "id": 2539560}, {"name": "Fabricantes_de_componentes_automotivos", "id": 3668968}], "successors": []}
+{"name": "Fabricantes_de_componentes_automotivos_da_Alemanha", "id": 4125511, "predecessors": [{"name": "Fabricantes_de_componentes_automotivos", "id": 3668968}, {"name": "Empresas", "id": 328001}], "successors": []}

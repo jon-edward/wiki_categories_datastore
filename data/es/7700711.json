@@ -1,1 +1,1 @@
-{"name": "Sanatorios_antituberculosos", "id": 7700711, "predecessors": [{"name": "Asistencia_sanitaria", "id": 5537485}], "successors": []}
+{"name": "Sanatorios_antituberculosos", "id": 7700711, "predecessors": [{"name": "Tuberculosis", "id": 591117}, {"name": "Asistencia_sanitaria", "id": 5537485}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Phiêu_sinh_vật_học", "id": 1764635, "predecessors": [{"name": "Phân_hệ_động_vật_học", "id": 1406591}, {"name": "Sinh_học_biển", "id": 1764636}, {"name": "Sinh_vật_thủy_sinh", "id": 586034}, {"name": "Thực_vật_học", "id": 1560}], "successors": []}
+{"name": "Phiêu_sinh_vật_học", "id": 1764635, "predecessors": [{"name": "Phân_hệ_động_vật_học", "id": 1406591}, {"name": "Sinh_học_biển", "id": 1764636}, {"name": "Sinh_vật_thủy_sinh", "id": 586034}, {"name": "Thực_vật_học", "id": 1560}], "successors": [{"name": "Tảo_silic", "id": 19873055}]}

@@ -1,1 +1,1 @@
-{"name": "Ethiopian_government_officials", "id": 59766272, "predecessors": [{"name": "Government_of_Ethiopia", "id": 2698827}, {"name": "Government_officials", "id": 8567895}, {"name": "Horn_of_Africa", "id": 20603308}], "successors": [{"name": "Ethiopian_diplomats", "id": 5172316}]}
+{"name": "Ethiopian_government_officials", "id": 59766272, "predecessors": [{"name": "Government_of_Ethiopia", "id": 2698827}, {"name": "Ethiopia", "id": 713013}, {"name": "Government_officials", "id": 8567895}], "successors": [{"name": "Ethiopian_diplomats", "id": 5172316}]}

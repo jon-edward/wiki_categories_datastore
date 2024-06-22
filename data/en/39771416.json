@@ -1,1 +1,1 @@
-{"name": "Mercedes-Benz_trucks", "id": 39771416, "predecessors": [{"name": "Mercedes-Benz_vehicles", "id": 918548}], "successors": []}
+{"name": "Mercedes-Benz_trucks", "id": 39771416, "predecessors": [{"name": "Daimler_Truck", "id": 69616812}, {"name": "Mercedes-Benz_vehicles", "id": 918548}], "successors": []}
