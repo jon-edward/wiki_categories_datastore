@@ -1,1 +1,1 @@
-{"name": "Peanuts_television_specials", "id": 2743076, "predecessors": [{"name": "Animated_television_specials", "id": 1515973}, {"name": "Works_based_on_Peanuts_(comic_strip)", "id": 5254382}], "successors": [{"name": "Peanuts_television_documentaries", "id": 35884123}]}
+{"name": "Peanuts_television_specials", "id": 2743076, "predecessors": [{"name": "Works_based_on_Peanuts_(comic_strip)", "id": 5254382}, {"name": "Entertainment", "id": 693016}], "successors": [{"name": "Peanuts_television_documentaries", "id": 35884123}]}

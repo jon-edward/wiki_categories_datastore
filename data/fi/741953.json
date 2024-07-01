@@ -1,1 +1,1 @@
-{"name": "Konservaattorit", "id": 741953, "predecessors": [{"name": "Ammatit", "id": 26041}], "successors": []}
+{"name": "Konservaattorit", "id": 741953, "predecessors": [{"name": "Ammattikorkeakoulututkinnot", "id": 86410}, {"name": "Kulttuurialan_tutkinnot", "id": 242364}, {"name": "Käsityöammatit", "id": 275126}, {"name": "Ammatit", "id": 26041}], "successors": []}

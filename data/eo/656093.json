@@ -1,1 +1,1 @@
-{"name": "Inundo", "id": 656093, "predecessors": [{"name": "Akvaĵoj", "id": 408096}, {"name": "Hidrologio", "id": 124805}, {"name": "Naturaj_katastrofoj", "id": 515750}, {"name": "Historio_de_terscienco", "id": 602052}], "successors": []}
+{"name": "Inundo", "id": 656093, "predecessors": [{"name": "Akvaĵoj", "id": 408096}, {"name": "Hidrologio", "id": 124805}, {"name": "Naturaj_katastrofoj", "id": 515750}, {"name": "Terscienco", "id": 26387}], "successors": []}

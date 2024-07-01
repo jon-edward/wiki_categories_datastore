@@ -1,1 +1,0 @@
-{"name": "Halbleiterbauelement", "id": 1387125, "predecessors": [{"name": "Elektrisches_Bauelement", "id": 1695030}, {"name": "Halbleiterelektronik", "id": 5198549}], "successors": [{"name": "Transistor", "id": 2908815}, {"name": "Diode", "id": 4219477}, {"name": "Integrierter_Schaltkreis", "id": 4223913}, {"name": "Solarzellentyp", "id": 10213286}]}

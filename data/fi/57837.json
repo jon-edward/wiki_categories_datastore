@@ -1,1 +1,1 @@
-{"name": "Portugalilaiset_jalkapalloilijat", "id": 57837, "predecessors": [{"name": "Jalkapallo", "id": 19734}, {"name": "Portugalilaiset_henkilöt", "id": 130888}, {"name": "Urheilulajit", "id": 965253}], "successors": [{"name": "Portugalilaiset_jalkapallomaalivahdit", "id": 309759}]}
+{"name": "Portugalilaiset_jalkapalloilijat", "id": 57837, "predecessors": [{"name": "Portugalilaiset_henkilöt", "id": 130888}, {"name": "Urheilulajit", "id": 965253}, {"name": "Joukkuepelit", "id": 27879}], "successors": [{"name": "Portugalilaiset_jalkapallomaalivahdit", "id": 309759}]}

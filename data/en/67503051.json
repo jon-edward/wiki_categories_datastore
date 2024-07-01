@@ -1,1 +1,1 @@
-{"name": "Sunshine_Ladies_Tour", "id": 67503051, "predecessors": [{"name": "Professional_golf_tours", "id": 1324713}], "successors": [{"name": "Sunshine_Ladies_Tour_events", "id": 65873191}]}
+{"name": "Sunshine_Ladies_Tour", "id": 67503051, "predecessors": [{"name": "Professional_golf_tours", "id": 1324713}, {"name": "Women_in_South_Africa", "id": 35076942}], "successors": [{"name": "Sunshine_Ladies_Tour_events", "id": 65873191}]}

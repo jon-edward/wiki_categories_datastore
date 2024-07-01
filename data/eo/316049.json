@@ -1,1 +1,1 @@
-{"name": "Germanaj_ministroj_pri_sano", "id": 316049, "predecessors": [{"name": "Germanaj_ministroj", "id": 304560}, {"name": "Sanservo_en_Germanio", "id": 477184}, {"name": "Ministroj_laŭ_fako", "id": 477852}], "successors": []}
+{"name": "Germanaj_ministroj_pri_sano", "id": 316049, "predecessors": [{"name": "Germanaj_ministroj", "id": 304560}, {"name": "Germanio", "id": 28623}, {"name": "Ministroj", "id": 226553}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Martestudoj", "id": 234517, "predecessors": [{"name": "Maraj_reptilioj", "id": 553577}, {"name": "Testuduloj", "id": 226274}], "successors": []}
+{"name": "Martestudoj", "id": 234517, "predecessors": [{"name": "Testuduloj", "id": 226274}, {"name": "Reptilioj", "id": 106172}], "successors": []}

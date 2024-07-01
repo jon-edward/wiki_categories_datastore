@@ -1,1 +1,1 @@
-{"name": "Hypnotics", "id": 2479561, "predecessors": [{"name": "Sleep", "id": 910767}, {"name": "Treatment_of_sleep_disorders", "id": 47392526}], "successors": [{"name": "Barbiturates", "id": 718202}]}
+{"name": "Hypnotics", "id": 2479561, "predecessors": [{"name": "Sleep", "id": 910767}, {"name": "Treatment_of_sleep_disorders", "id": 47392526}], "successors": [{"name": "Barbiturates", "id": 718202}, {"name": "Melatonin_receptor_agonists", "id": 44775516}]}

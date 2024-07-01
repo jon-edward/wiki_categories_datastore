@@ -1,1 +1,1 @@
-{"name": "Elektraj_veturiloj", "id": 205594, "predecessors": [{"name": "Elektro", "id": 45191}, {"name": "Veturiloj", "id": 113627}], "successors": [{"name": "Hibridaj_elektraj_veturiloj", "id": 294583}, {"name": "Elektraj_aŭtomobiloj", "id": 307841}, {"name": "Unurelaj_fervojoj", "id": 612672}, {"name": "Tesla,_Inc.", "id": 695003}]}
+{"name": "Elektraj_veturiloj", "id": 205594, "predecessors": [{"name": "Elektro", "id": 45191}, {"name": "Veturiloj", "id": 113627}], "successors": [{"name": "Elektraj_aŭtomobiloj", "id": 307841}, {"name": "Tesla,_Inc.", "id": 695003}]}

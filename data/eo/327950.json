@@ -1,1 +1,1 @@
-{"name": "Francaj_krimuloj", "id": 327950, "predecessors": [{"name": "Francoj", "id": 52251}, {"name": "Politika_geografio", "id": 108524}], "successors": [{"name": "Francaj_piratoj", "id": 302686}, {"name": "Francaj_murdistoj", "id": 327948}, {"name": "Francoj_kondamnitaj_al_mortpuno", "id": 277499}]}
+{"name": "Francaj_krimuloj", "id": 327950, "predecessors": [{"name": "Francoj", "id": 52251}, {"name": "Kriminaleco", "id": 293965}], "successors": [{"name": "Francaj_murdistoj", "id": 327948}, {"name": "Francoj_kondamnitaj_al_mortpuno", "id": 277499}]}

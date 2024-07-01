@@ -1,1 +1,1 @@
-{"name": "Municipoj_de_la_provinco_Lugo", "id": 866821, "predecessors": [{"name": "Municipoj_de_Galegio", "id": 314511}, {"name": "Provincoj_de_Hispanio", "id": 264168}], "successors": [{"name": "Lugo", "id": 309443}, {"name": "Sober", "id": 874584}, {"name": "Pantón", "id": 874593}]}
+{"name": "Municipoj_de_la_provinco_Lugo", "id": 866821, "predecessors": [{"name": "Galegio", "id": 237242}, {"name": "Provincoj_de_Hispanio", "id": 264168}], "successors": [{"name": "Lugo", "id": 309443}]}

@@ -1,1 +1,1 @@
-{"name": "Kultura_diplomatio", "id": 623970, "predecessors": [{"name": "Kultura_politiko", "id": 439676}, {"name": "Diplomatio", "id": 247716}, {"name": "Kulturo", "id": 26391}], "successors": [{"name": "Internaciaj_kulturaj_organizaĵoj", "id": 623969}]}
+{"name": "Kultura_diplomatio", "id": 623970, "predecessors": [{"name": "Kultursciencoj", "id": 262618}, {"name": "Diplomatio", "id": 247716}, {"name": "Kulturo", "id": 26391}], "successors": [{"name": "Internaciaj_kulturaj_organizaĵoj", "id": 623969}]}

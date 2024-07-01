@@ -1,1 +1,1 @@
-{"name": "Tanskalaiset_jalkapalloilijat", "id": 58578, "predecessors": [{"name": "Tanskan_jalkapallo", "id": 146849}, {"name": "Jalkapallo", "id": 19734}, {"name": "Tanskalaiset_henkilöt", "id": 130880}], "successors": [{"name": "Tanskalaiset_jalkapallomaalivahdit", "id": 310094}]}
+{"name": "Tanskalaiset_jalkapalloilijat", "id": 58578, "predecessors": [{"name": "Tanskan_jalkapallo", "id": 146849}, {"name": "Tanskalaiset_henkilöt", "id": 130880}, {"name": "Joukkuepelit", "id": 27879}], "successors": [{"name": "Tanskalaiset_jalkapallomaalivahdit", "id": 310094}]}

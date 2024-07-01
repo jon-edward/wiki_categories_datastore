@@ -1,1 +1,1 @@
-{"name": "Growth_hormone_secretagogues", "id": 20121058, "predecessors": [{"name": "Growth_hormones", "id": 4034344}, {"name": "Hormones", "id": 717945}, {"name": "Endocrine_procedures", "id": 32497982}], "successors": [{"name": "Ghrelin_receptor_agonists", "id": 46948107}]}
+{"name": "Growth_hormone_secretagogues", "id": 20121058, "predecessors": [{"name": "Growth_hormones", "id": 4034344}, {"name": "Systemic_hormonal_preparations", "id": 22002422}, {"name": "Hormones", "id": 717945}], "successors": [{"name": "Ghrelin_receptor_agonists", "id": 46948107}]}

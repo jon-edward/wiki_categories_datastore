@@ -1,1 +1,1 @@
-{"name": "Karbondioksido", "id": 389989, "predecessors": [{"name": "Forcejaj_efikaj_gasoj", "id": 294609}, {"name": "Industriaj_gasoj", "id": 625266}, {"name": "Neorganikaj_kombinaĵoj", "id": 292848}, {"name": "Neorganikaj_karbonaj_kombinaĵoj", "id": 439086}], "successors": []}
+{"name": "Karbondioksido", "id": 389989, "predecessors": [{"name": "Forcejaj_efikaj_gasoj", "id": 294609}, {"name": "Industriaj_gasoj", "id": 625266}, {"name": "Kemiaj_kombinaĵoj", "id": 49212}, {"name": "Neorganikaj_karbonaj_kombinaĵoj", "id": 439086}], "successors": []}

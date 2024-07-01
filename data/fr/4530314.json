@@ -1,1 +1,0 @@
-{"name": "Plante_tolérant_la_sécheresse", "id": 4530314, "predecessors": [{"name": "Sécheresse", "id": 5528843}, {"name": "Botanique", "id": 81547}], "successors": [{"name": "Plante_succulente", "id": 463157}, {"name": "Arbre_tolérant_la_sécheresse", "id": 4530341}, {"name": "Xérophyte", "id": 12492289}, {"name": "Fruit_du_désert", "id": 3515471}]}

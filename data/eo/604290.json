@@ -1,1 +1,1 @@
-{"name": "Komunikadaj_studoj", "id": 604290, "predecessors": [{"name": "Komunikado", "id": 52357}, {"name": "Universitataj_studfakoj", "id": 438865}], "successors": [{"name": "Amaskomunikila_scienco", "id": 604288}, {"name": "Komunika_dezajno", "id": 630148}, {"name": "Politika_komunikado", "id": 650126}, {"name": "Komunikadoteoriistoj", "id": 657800}]}
+{"name": "Komunikadaj_studoj", "id": 604290, "predecessors": [{"name": "Komunikado", "id": 52357}, {"name": "Universitataj_studfakoj", "id": 438865}], "successors": [{"name": "Amaskomunikila_scienco", "id": 604288}]}

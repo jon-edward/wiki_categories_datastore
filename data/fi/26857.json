@@ -1,1 +1,1 @@
-{"name": "Tupakointi", "id": 26857, "predecessors": [{"name": "Riippuvuudet", "id": 433979}, {"name": "Tupakka", "id": 281447}, {"name": "Päihteet", "id": 24630}], "successors": [{"name": "Nuuskamerkit", "id": 1025784}]}
+{"name": "Tupakointi", "id": 26857, "predecessors": [{"name": "Riippuvuudet", "id": 433979}, {"name": "Tupakka", "id": 281447}, {"name": "Päihteiden_käyttö", "id": 1808788}], "successors": [{"name": "Nuuskamerkit", "id": 1025784}]}

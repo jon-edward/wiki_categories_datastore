@@ -1,1 +1,1 @@
-{"name": "Ekonomia_politiko", "id": 439138, "predecessors": [{"name": "Politiko", "id": 36390}], "successors": [{"name": "Publika_trezoro", "id": 439137}, {"name": "Fiska_politiko", "id": 516196}]}
+{"name": "Ekonomia_politiko", "id": 439138, "predecessors": [{"name": "Politiko", "id": 36390}], "successors": [{"name": "Publika_trezoro", "id": 439137}, {"name": "Sociala_bonfarto", "id": 516195}]}

@@ -1,1 +1,1 @@
-{"name": "Urboj_en_distrikto_Litoměřice", "id": 683383, "predecessors": [{"name": "Geografio_de_Regiono_Ústí_nad_Labem", "id": 672313}, {"name": "Urboj_de_Ĉeĥio", "id": 32764}], "successors": [{"name": "Litoměřice", "id": 622181}, {"name": "Hoštka", "id": 674547}, {"name": "Úštěk", "id": 684784}]}
+{"name": "Urboj_en_distrikto_Litoměřice", "id": 683383, "predecessors": [{"name": "Geografio_de_distrikto_Litoměřice", "id": 678614}, {"name": "Urboj_de_Ĉeĥio", "id": 32764}], "successors": [{"name": "Hoštka", "id": 674547}, {"name": "Úštěk", "id": 684784}]}

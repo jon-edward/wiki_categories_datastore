@@ -1,1 +1,1 @@
-{"name": "Histoj", "id": 420696, "predecessors": [{"name": "Histologio", "id": 194035}], "successors": [{"name": "Planthistoj", "id": 432209}, {"name": "Konektiva_histo", "id": 628389}]}
+{"name": "Histoj", "id": 420696, "predecessors": [{"name": "Histologio", "id": 194035}], "successors": [{"name": "Planthistoj", "id": 432209}]}

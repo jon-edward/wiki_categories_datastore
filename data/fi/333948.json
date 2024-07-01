@@ -1,1 +1,1 @@
-{"name": "Perintätoimi", "id": 333948, "predecessors": [{"name": "Maksukyvyttömyys", "id": 1468900}, {"name": "Velvoiteoikeus", "id": 723781}, {"name": "Talous", "id": 27543}], "successors": [{"name": "Maksukyvyttömyys", "id": 1468900}]}
+{"name": "Perintätoimi", "id": 333948, "predecessors": [{"name": "Maksukyvyttömyys", "id": 1468900}, {"name": "Velvoiteoikeus", "id": 723781}, {"name": "Standardit", "id": 20074}], "successors": [{"name": "Maksukyvyttömyys", "id": 1468900}]}

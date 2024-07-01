@@ -1,1 +1,0 @@
-{"name": "Bâtiment_détruit_lors_d'un_incendie", "id": 14293460, "predecessors": [{"name": "Bâtiment_détruit", "id": 4910374}, {"name": "Catastrophe", "id": 137901}], "successors": [{"name": "Incendie_d'une_discothèque", "id": 9564261}, {"name": "Bâtiment_détruit_lors_d'un_incendie_au_Canada", "id": 14909168}]}

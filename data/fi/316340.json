@@ -1,1 +1,1 @@
-{"name": "Rakennusalan_ammatit", "id": 316340, "predecessors": [{"name": "Rakennustuotanto", "id": 326037}, {"name": "Teknisen_alan_ammatit", "id": 335474}], "successors": []}
+{"name": "Rakennusalan_ammatit", "id": 316340, "predecessors": [{"name": "Rakennustuotanto", "id": 326037}, {"name": "Teknisen_alan_ammatit", "id": 335474}], "successors": [{"name": "Arkkitehdit", "id": 18145}, {"name": "Maisema-arkkitehdit", "id": 602289}]}

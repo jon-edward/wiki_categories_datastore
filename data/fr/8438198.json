@@ -1,1 +1,0 @@
-{"name": "Traitement_des_eaux_usées", "id": 8438198, "predecessors": [{"name": "Eau_usée", "id": 8438165}, {"name": "Technologie_d'assainissement", "id": 11248558}, {"name": "Traitement_de_l'eau", "id": 829388}], "successors": [{"name": "Station_d'épuration", "id": 7657868}]}

@@ -1,1 +1,1 @@
-{"name": "Virusaj_malsanoj", "id": 492212, "predecessors": [{"name": "Infektologio", "id": 546506}], "successors": [{"name": "Virusaj_malsanoj_de_homoj", "id": 581600}, {"name": "Virusaj_malsanoj_de_bestoj", "id": 582142}, {"name": "Gripo", "id": 638703}]}
+{"name": "Virusaj_malsanoj", "id": 492212, "predecessors": [{"name": "Infektologio", "id": 546506}], "successors": [{"name": "Virusaj_malsanoj_de_homoj", "id": 581600}, {"name": "Virusaj_malsanoj_de_bestoj", "id": 582142}]}

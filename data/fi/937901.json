@@ -1,1 +1,1 @@
-{"name": "Teatterialan_ammatit", "id": 937901, "predecessors": [{"name": "Taidealan_ammatit", "id": 334589}, {"name": "Esittävät_taiteet", "id": 700898}], "successors": []}
+{"name": "Teatterialan_ammatit", "id": 937901, "predecessors": [{"name": "Taidealan_ammatit", "id": 334589}, {"name": "Esittävät_taiteet", "id": 700898}], "successors": [{"name": "Dramaturgit", "id": 596017}]}

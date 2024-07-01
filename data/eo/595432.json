@@ -1,1 +1,1 @@
-{"name": "Metrostacioj_en_la_1-a_arondismento_de_Parizo", "id": 595432, "predecessors": [{"name": "1-a_arondismento_de_Parizo", "id": 468204}, {"name": "Stacioj_de_la_metroo_de_Parizo", "id": 447394}], "successors": []}
+{"name": "Metrostacioj_en_la_1-a_arondismento_de_Parizo", "id": 595432, "predecessors": [{"name": "Arondismentoj_de_Parizo", "id": 136891}, {"name": "Stacioj_de_la_metroo_de_Parizo", "id": 447394}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Lake_Balaton", "id": 38742083, "predecessors": [{"name": "Lakes_of_Hungary", "id": 1288276}, {"name": "Somogy_County", "id": 23039492}, {"name": "Counties_of_Hungary", "id": 1989652}], "successors": []}
+{"name": "Lake_Balaton", "id": 38742083, "predecessors": [{"name": "Lakes_of_Hungary", "id": 1288276}, {"name": "Lakes_by_type", "id": 15927420}, {"name": "Somogy_County", "id": 23039492}, {"name": "Counties_of_Hungary", "id": 1989652}], "successors": []}

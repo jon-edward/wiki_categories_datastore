@@ -1,1 +1,0 @@
-{"name": "Drainage", "id": 5009919, "predecessors": [{"name": "Gestion_de_l'eau", "id": 3189774}, {"name": "Hydraulique", "id": 268349}, {"name": "Technique_culturale", "id": 243210}], "successors": [{"name": "Draineur", "id": 12109664}]}

@@ -1,1 +1,1 @@
-{"name": "Germanaj_krimuloj", "id": 610661, "predecessors": [{"name": "Politika_geografio", "id": 108524}, {"name": "Germanoj", "id": 52254}], "successors": [{"name": "Germanaj_militkrimuloj", "id": 307097}, {"name": "Germanaj_teroristoj", "id": 378771}]}
+{"name": "Germanaj_krimuloj", "id": 610661, "predecessors": [{"name": "Kriminaleco", "id": 293965}, {"name": "Germanoj", "id": 52254}], "successors": [{"name": "Germanaj_militkrimuloj", "id": 307097}]}

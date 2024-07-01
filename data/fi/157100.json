@@ -1,1 +1,1 @@
-{"name": "Meksikolaiset_olympiamitalistit", "id": 157100, "predecessors": [{"name": "Olympiaurheilu", "id": 19742}, {"name": "Meksikolaiset_henkilöt", "id": 130929}, {"name": "Tyynimeri", "id": 125464}], "successors": [{"name": "Meksikolaiset_olympiavoittajat", "id": 157099}]}
+{"name": "Meksikolaiset_olympiamitalistit", "id": 157100, "predecessors": [{"name": "Meksikolaiset_henkilöt", "id": 130929}, {"name": "Urheilu", "id": 18692}, {"name": "Tyynimeri", "id": 125464}], "successors": [{"name": "Meksikolaiset_olympiavoittajat", "id": 157099}]}

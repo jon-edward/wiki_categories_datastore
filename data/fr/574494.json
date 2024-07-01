@@ -1,1 +1,0 @@
-{"name": "Ciment", "id": 574494, "predecessors": [{"name": "Matériau_de_construction", "id": 149632}, {"name": "Décomposition_chimique", "id": 8449775}, {"name": "Béton", "id": 3934023}], "successors": [{"name": "Béton_de_ciment", "id": 8486869}, {"name": "Producteur_de_ciment", "id": 9733274}]}

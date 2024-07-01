@@ -1,1 +1,1 @@
-{"name": "Jalkapallon_Suomen_mestarit", "id": 250900, "predecessors": [{"name": "Jalkapallo", "id": 19734}, {"name": "Suomen_jalkapallosarjat", "id": 71326}], "successors": []}
+{"name": "Jalkapallon_Suomen_mestarit", "id": 250900, "predecessors": [{"name": "Suomen_jalkapallosarjat", "id": 71326}, {"name": "Joukkuepelit", "id": 27879}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Norjalaiset_jalkapalloilijat", "id": 97871, "predecessors": [{"name": "Jalkapallo", "id": 19734}, {"name": "Norjalaiset_henkilöt", "id": 115911}, {"name": "Kansainväliset_järjestöt", "id": 18091}], "successors": [{"name": "Norjalaiset_jalkapallomaalivahdit", "id": 1109388}]}
+{"name": "Norjalaiset_jalkapalloilijat", "id": 97871, "predecessors": [{"name": "Norjalaiset_henkilöt", "id": 115911}, {"name": "Kansainväliset_järjestöt", "id": 18091}, {"name": "Joukkuepelit", "id": 27879}], "successors": [{"name": "Norjalaiset_jalkapallomaalivahdit", "id": 1109388}]}

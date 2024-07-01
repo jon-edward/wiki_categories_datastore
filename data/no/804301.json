@@ -1,1 +1,1 @@
-{"name": "Deltagere_i_Tour_de_France", "id": 804301, "predecessors": [{"name": "Syklister", "id": 30775}, {"name": "Tour_de_France", "id": 61844}], "successors": [{"name": "Tour_de_France-vinnere", "id": 65622}, {"name": "Etappevinnere_i_Tour_de_France", "id": 799332}]}
+{"name": "Deltagere_i_Tour_de_France", "id": 804301, "predecessors": [{"name": "Tour_de_France", "id": 61844}, {"name": "Sykling", "id": 29143}], "successors": [{"name": "Tour_de_France-vinnere", "id": 65622}, {"name": "Etappevinnere_i_Tour_de_France", "id": 799332}]}

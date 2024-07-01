@@ -1,1 +1,1 @@
-{"name": "Suklaa", "id": 1025096, "predecessors": [{"name": "Makeiset", "id": 29790}], "successors": [{"name": "Suklaapatukat", "id": 530417}]}
+{"name": "Suklaa", "id": 1025096, "predecessors": [{"name": "Ruoka-ainekset", "id": 414023}, {"name": "Ihmisen_toiminta", "id": 826193}], "successors": [{"name": "Suklaamakeiset", "id": 1808978}]}

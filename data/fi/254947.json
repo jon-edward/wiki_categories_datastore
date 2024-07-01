@@ -1,1 +1,1 @@
-{"name": "Elintarviketeknologia", "id": 254947, "predecessors": [{"name": "Elintarviketiede", "id": 122938}], "successors": [{"name": "Elintarvikelisäaineet", "id": 254955}, {"name": "Säilöntä", "id": 1019084}]}
+{"name": "Elintarviketeknologia", "id": 254947, "predecessors": [{"name": "Elintarviketeollisuus", "id": 25994}, {"name": "Elintarviketiede", "id": 122938}], "successors": [{"name": "Elintarvikelisäaineet", "id": 254955}, {"name": "Säilöntä", "id": 1019084}]}

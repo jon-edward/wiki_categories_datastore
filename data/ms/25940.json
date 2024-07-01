@@ -1,1 +1,1 @@
-{"name": "Ikan", "id": 25940, "predecessors": [{"name": "Makanan_laut", "id": 98733}], "successors": [{"name": "Actinopterygii", "id": 114335}, {"name": "Iktiologi", "id": 167361}, {"name": "Hidangan_ikan", "id": 882496}, {"name": "Acanthemblemaria", "id": 1059536}]}
+{"name": "Ikan", "id": 25940, "predecessors": [{"name": "Makanan_laut", "id": 98733}], "successors": [{"name": "Iktiologi", "id": 167361}, {"name": "Hidangan_ikan", "id": 882496}, {"name": "Acanthemblemaria", "id": 1059536}, {"name": "Pangasiidae", "id": 1169353}]}

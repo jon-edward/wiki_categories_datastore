@@ -1,1 +1,1 @@
-{"name": "Ĉeĥaj_biologoj", "id": 322811, "predecessors": [{"name": "Ĉeĥaj_sciencistoj", "id": 279226}, {"name": "Biologoj", "id": 42628}], "successors": [{"name": "Ĉeĥaj_paleontologoj", "id": 322810}, {"name": "Ĉeĥaj_botanikistoj", "id": 584084}, {"name": "Ĉeĥaj_zoologoj", "id": 609453}]}
+{"name": "Ĉeĥaj_biologoj", "id": 322811, "predecessors": [{"name": "Ĉeĥaj_sciencistoj", "id": 279226}, {"name": "Politika_geografio", "id": 108524}], "successors": [{"name": "Ĉeĥaj_botanikistoj", "id": 584084}]}

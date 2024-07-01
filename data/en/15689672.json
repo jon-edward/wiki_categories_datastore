@@ -1,1 +1,1 @@
-{"name": "Mathematical_chemistry", "id": 15689672, "predecessors": [{"name": "Drug_discovery", "id": 10435830}], "successors": []}
+{"name": "Mathematical_chemistry", "id": 15689672, "predecessors": [{"name": "Drug_discovery", "id": 10435830}, {"name": "Molecular_modelling", "id": 2016486}], "successors": []}

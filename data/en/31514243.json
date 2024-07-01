@@ -1,1 +1,1 @@
-{"name": "Camel_cavalry", "id": 31514243, "predecessors": [{"name": "Camels", "id": 31514139}, {"name": "Cavalry", "id": 1044375}, {"name": "Military_animals", "id": 2220759}, {"name": "Deserts", "id": 705498}], "successors": []}
+{"name": "Camel_cavalry", "id": 31514243, "predecessors": [{"name": "Camels", "id": 31514139}, {"name": "Cavalry", "id": 1044375}, {"name": "Desert_warfare", "id": 67943751}, {"name": "Military_animals", "id": 2220759}], "successors": []}

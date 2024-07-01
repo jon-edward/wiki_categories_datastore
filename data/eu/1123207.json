@@ -1,1 +1,1 @@
-{"name": "Erresuma_Batuko_Estatu_Idazkariak", "id": 1123207, "predecessors": [{"name": "Gobernua", "id": 100118}], "successors": [{"name": "Erresuma_Batuko_Kanpo_Aferen_Estatu_Idazkariak", "id": 1123200}, {"name": "Erresuma_Batuko_Barne_Saileko_Estatu_Idazkariak", "id": 1123208}]}
+{"name": "Erresuma_Batuko_Estatu_Idazkariak", "id": 1123207, "predecessors": [{"name": "Erresuma_Batuko_Gobernua", "id": 145924}], "successors": [{"name": "Erresuma_Batuko_Kanpo_Aferen_Estatu_Idazkariak", "id": 1123200}, {"name": "Erresuma_Batuko_Barne_Saileko_Estatu_Idazkariak", "id": 1123208}]}

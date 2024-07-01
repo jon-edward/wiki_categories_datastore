@@ -1,1 +1,1 @@
-{"name": "Piristeet", "id": 673196, "predecessors": [{"name": "Päihteet", "id": 24630}], "successors": [{"name": "Amfetamiinit", "id": 66825}, {"name": "Tee", "id": 215621}, {"name": "Tupakka", "id": 281447}]}
+{"name": "Piristeet", "id": 673196, "predecessors": [{"name": "Kemialliset_aineet", "id": 32368}], "successors": [{"name": "Amfetamiinit", "id": 66825}, {"name": "Tee", "id": 215621}, {"name": "Tupakka", "id": 281447}]}

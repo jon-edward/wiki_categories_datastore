@@ -1,1 +1,1 @@
-{"name": "OS/2_web_browsers", "id": 8407359, "predecessors": [{"name": "OS/2_software", "id": 2045060}], "successors": []}
+{"name": "OS/2_web_browsers", "id": 8407359, "predecessors": [{"name": "OS/2_software", "id": 2045060}, {"name": "Web_browsers", "id": 694997}], "successors": []}

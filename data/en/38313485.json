@@ -1,1 +1,1 @@
-{"name": "Hotel_buildings_completed_in_1924", "id": 38313485, "predecessors": [{"name": "Commercial_buildings_completed_in_1924", "id": 37826296}, {"name": "Residential_buildings_completed_in_1924", "id": 33748678}, {"name": "20th-century_establishments", "id": 21417814}], "successors": []}
+{"name": "Hotel_buildings_completed_in_1924", "id": 38313485, "predecessors": [{"name": "Commercial_buildings_completed_in_1924", "id": 37826296}, {"name": "Residential_buildings_completed_in_1924", "id": 33748678}, {"name": "20th_century", "id": 884457}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Tourist_attractions_in_Haifa", "id": 36736658, "predecessors": [{"name": "Cities_in_Haifa_District", "id": 40136158}, {"name": "Haifa_District", "id": 8089718}, {"name": "Tourism_in_Israel", "id": 2863724}], "successors": [{"name": "Museums_in_Haifa", "id": 22636308}]}
+{"name": "Tourist_attractions_in_Haifa", "id": 36736658, "predecessors": [{"name": "Cities_in_Haifa_District", "id": 40136158}, {"name": "Haifa_District", "id": 8089718}], "successors": [{"name": "Museums_in_Haifa", "id": 22636308}]}

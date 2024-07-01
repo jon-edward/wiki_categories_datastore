@@ -1,1 +1,1 @@
-{"name": "Baby_food_manufacturers", "id": 31524679, "predecessors": [{"name": "Food_companies", "id": 3464462}, {"name": "Baby_products", "id": 21527449}], "successors": []}
+{"name": "Baby_food_manufacturers", "id": 31524679, "predecessors": [{"name": "Food_processing", "id": 39100244}, {"name": "Baby_products", "id": 21527449}], "successors": []}

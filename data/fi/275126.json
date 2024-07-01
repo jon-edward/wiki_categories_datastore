@@ -1,1 +1,1 @@
-{"name": "Käsityöammatit", "id": 275126, "predecessors": [{"name": "Ammatit", "id": 26041}, {"name": "Käsityöt", "id": 304806}], "successors": []}
+{"name": "Käsityöammatit", "id": 275126, "predecessors": [{"name": "Ammatit", "id": 26041}, {"name": "Käsityöt", "id": 304806}], "successors": [{"name": "Vaatturit", "id": 666868}, {"name": "Konservaattorit", "id": 741953}]}

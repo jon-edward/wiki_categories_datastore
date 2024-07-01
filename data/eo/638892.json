@@ -1,1 +1,1 @@
-{"name": "Usonaj_verkistoj_pri_manĝaĵoj", "id": 638892, "predecessors": [{"name": "Usonaj_malfikciaj_verkistoj", "id": 607488}, {"name": "Manĝaĵoj_kaj_trinkaĵoj", "id": 554242}], "successors": [{"name": "Usonaj_kuirlibraj_verkistoj", "id": 638928}]}
+{"name": "Usonaj_verkistoj_pri_manĝaĵoj", "id": 638892, "predecessors": [{"name": "Usonaj_malfikciaj_verkistoj", "id": 607488}, {"name": "Kulturo", "id": 26391}], "successors": [{"name": "Usonaj_kuirlibraj_verkistoj", "id": 638928}]}

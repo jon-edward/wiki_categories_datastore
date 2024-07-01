@@ -1,1 +1,1 @@
-{"name": "Kiinalaiset_olympiamitalistit", "id": 110339, "predecessors": [{"name": "Olympiaurheilu", "id": 19742}, {"name": "Kiinalaiset_henkilöt", "id": 125332}, {"name": "Aasian_maantiede", "id": 101314}], "successors": [{"name": "Kiinalaiset_olympiavoittajat", "id": 110338}]}
+{"name": "Kiinalaiset_olympiamitalistit", "id": 110339, "predecessors": [{"name": "Kiinalaiset_henkilöt", "id": 125332}, {"name": "Aasian_maantiede", "id": 101314}, {"name": "Urheilu", "id": 18692}], "successors": [{"name": "Kiinalaiset_olympiavoittajat", "id": 110338}]}

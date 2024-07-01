@@ -1,1 +1,1 @@
-{"name": "Natural_language_processing_toolkits", "id": 20891879, "predecessors": [{"name": "Computer_libraries", "id": 7482978}, {"name": "Corpus_linguistics", "id": 3679023}], "successors": []}
+{"name": "Natural_language_processing_toolkits", "id": 20891879, "predecessors": [{"name": "Computer_libraries", "id": 7482978}, {"name": "Corpus_linguistics", "id": 3679023}, {"name": "Natural_language_processing_software", "id": 27538192}], "successors": []}

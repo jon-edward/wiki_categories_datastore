@@ -1,1 +1,1 @@
-{"name": "Hungariako_futbol_entrenatzaileak", "id": 1012763, "predecessors": [{"name": "Hungariako_kirolariak", "id": 108313}, {"name": "Futbol_entrenatzaileak", "id": 10042}], "successors": []}
+{"name": "Hungariako_futbol_entrenatzaileak", "id": 1012763, "predecessors": [{"name": "Futbol_entrenatzaileak", "id": 10042}, {"name": "Kirola", "id": 294193}], "successors": []}

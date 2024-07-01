@@ -1,1 +1,1 @@
-{"name": "Densitate", "id": 1338414, "predecessors": [{"name": "Masă", "id": 927481}, {"name": "Mărimi_fizice", "id": 92457}, {"name": "Volum", "id": 1056021}], "successors": []}
+{"name": "Densitate", "id": 1338414, "predecessors": [{"name": "Masă", "id": 927481}, {"name": "Mărimi_fizice", "id": 92457}, {"name": "Proprietăți_termodinamice", "id": 824711}, {"name": "Volum", "id": 1056021}], "successors": []}

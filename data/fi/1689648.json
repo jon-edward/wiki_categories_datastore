@@ -1,1 +1,1 @@
-{"name": "Teollisuusautomaatio", "id": 1689648, "predecessors": [{"name": "Automaatio", "id": 29695}, {"name": "Teollisuus", "id": 24384}], "successors": []}
+{"name": "Teollisuusautomaatio", "id": 1689648, "predecessors": [{"name": "Automaatio", "id": 29695}, {"name": "Teollisuus", "id": 24384}], "successors": [{"name": "Teollisuusautomaation_valmistajat", "id": 1808414}]}

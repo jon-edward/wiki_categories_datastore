@@ -1,1 +1,1 @@
-{"name": "Sensoj", "id": 525279, "predecessors": [{"name": "Percepto", "id": 244405}, {"name": "Sensa_sistemo", "id": 439041}], "successors": [{"name": "Aŭdo", "id": 612513}, {"name": "Odoroj", "id": 719610}]}
+{"name": "Sensoj", "id": 525279, "predecessors": [{"name": "Percepto", "id": 244405}, {"name": "Sensa_sistemo", "id": 439041}], "successors": [{"name": "Odoroj", "id": 719610}]}

@@ -1,1 +1,1 @@
-{"name": "Turkish_novels", "id": 6140517, "predecessors": [{"name": "Turkish_books", "id": 18668992}, {"name": "Literature_by_language", "id": 2995394}, {"name": "Turkish_literature", "id": 2699803}], "successors": [{"name": "Films_based_on_Turkish_novels", "id": 47539354}]}
+{"name": "Turkish_novels", "id": 6140517, "predecessors": [{"name": "Turkish_books", "id": 18668992}, {"name": "Turkish_literature", "id": 2699803}, {"name": "Culture_of_Turkey", "id": 708510}], "successors": [{"name": "Films_based_on_Turkish_novels", "id": 47539354}]}

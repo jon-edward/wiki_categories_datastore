@@ -1,1 +1,1 @@
-{"name": "Velŝipoj", "id": 618349, "predecessors": [{"name": "Velado", "id": 259288}, {"name": "Ŝipoj_laŭ_tipoj", "id": 328988}], "successors": [{"name": "Skunoj", "id": 708754}]}
+{"name": "Velŝipoj", "id": 618349, "predecessors": [{"name": "Velado", "id": 259288}, {"name": "Ŝipoj", "id": 57163}], "successors": [{"name": "Skunoj", "id": 708754}]}

@@ -1,1 +1,1 @@
-{"name": "Makeutusaineet", "id": 42155, "predecessors": [{"name": "Elintarvikkeet", "id": 116374}], "successors": [{"name": "Sokeri", "id": 1146134}]}
+{"name": "Makeutusaineet", "id": 42155, "predecessors": [{"name": "Elintarvikkeet", "id": 116374}, {"name": "Ruoka-ainekset", "id": 414023}], "successors": [{"name": "Sokeri", "id": 1146134}]}

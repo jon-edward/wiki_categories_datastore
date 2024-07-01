@@ -1,1 +1,1 @@
-{"name": "Svisaj_biologoj", "id": 355612, "predecessors": [{"name": "Svisaj_sciencistoj", "id": 217351}, {"name": "Biologoj", "id": 42628}], "successors": [{"name": "Svisaj_fungosciencistoj", "id": 355505}, {"name": "Svisaj_zoologoj", "id": 611464}]}
+{"name": "Svisaj_biologoj", "id": 355612, "predecessors": [{"name": "Svisaj_sciencistoj", "id": 217351}, {"name": "Politika_geografio", "id": 108524}], "successors": [{"name": "Svisaj_fungosciencistoj", "id": 355505}]}

@@ -1,1 +1,1 @@
-{"name": "Venäläiset_jalkapalloilijat", "id": 85726, "predecessors": [{"name": "Jalkapallo", "id": 19734}, {"name": "Urheilu", "id": 18692}, {"name": "Urheilulajit", "id": 965253}], "successors": [{"name": "Venäläiset_jalkapallomaalivahdit", "id": 310117}]}
+{"name": "Venäläiset_jalkapalloilijat", "id": 85726, "predecessors": [{"name": "Urheilu", "id": 18692}, {"name": "Urheilulajit", "id": 965253}, {"name": "Joukkuepelit", "id": 27879}], "successors": [{"name": "Venäläiset_jalkapallomaalivahdit", "id": 310117}]}

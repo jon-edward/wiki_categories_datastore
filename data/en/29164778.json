@@ -1,1 +1,1 @@
-{"name": "Rehabilitation_medicine_journals", "id": 29164778, "predecessors": [{"name": "Rehabilitation_medicine", "id": 1035494}, {"name": "Health_care", "id": 35880954}], "successors": [{"name": "Physical_therapy_journals", "id": 50643726}]}
+{"name": "Rehabilitation_medicine_journals", "id": 29164778, "predecessors": [{"name": "Rehabilitation_medicine", "id": 1035494}, {"name": "Medicine", "id": 692348}], "successors": [{"name": "Physical_therapy_journals", "id": 50643726}]}

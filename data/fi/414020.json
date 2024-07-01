@@ -1,1 +1,1 @@
-{"name": "Jälkiruoat", "id": 414020, "predecessors": [{"name": "Ruokalajit", "id": 37404}], "successors": [{"name": "Makeiset", "id": 29790}, {"name": "Leivonnaiset", "id": 40925}, {"name": "Jäätelöt", "id": 121910}]}
+{"name": "Jälkiruoat", "id": 414020, "predecessors": [{"name": "Ateriat", "id": 303918}, {"name": "Ruokalajit", "id": 37404}], "successors": [{"name": "Makeiset", "id": 29790}, {"name": "Leivonnaiset", "id": 40925}, {"name": "Jäätelöt", "id": 121910}]}

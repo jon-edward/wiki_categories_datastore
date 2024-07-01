@@ -1,1 +1,1 @@
-{"name": "Free_web_browsers", "id": 4207833, "predecessors": [{"name": "Free_web_software", "id": 28212038}], "successors": [{"name": "Firefox", "id": 31874463}]}
+{"name": "Free_web_browsers", "id": 4207833, "predecessors": [{"name": "Free_web_software", "id": 28212038}, {"name": "Web_browsers", "id": 694997}], "successors": [{"name": "Firefox", "id": 31874463}]}

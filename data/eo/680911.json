@@ -1,1 +1,1 @@
-{"name": "Filmaj_profesioj", "id": 680911, "predecessors": [{"name": "Filmo", "id": 32991}, {"name": "Kino", "id": 43019}, {"name": "Profesioj", "id": 46210}], "successors": [{"name": "Filmomuntistoj", "id": 774699}]}
+{"name": "Filmaj_profesioj", "id": 680911, "predecessors": [{"name": "Filmo", "id": 32991}, {"name": "Kino", "id": 43019}, {"name": "Profesioj", "id": 46210}], "successors": [{"name": "Hungaraj_filmomuntistoj", "id": 596479}]}

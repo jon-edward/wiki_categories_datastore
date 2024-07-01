@@ -1,1 +1,1 @@
-{"name": "Hibridaj_plantoj", "id": 523284, "predecessors": [{"name": "Hibridaj_vivaĵoj", "id": 469683}, {"name": "Plantoj", "id": 23532}, {"name": "Utilplantoj", "id": 513234}], "successors": []}
+{"name": "Hibridaj_plantoj", "id": 523284, "predecessors": [{"name": "Plantoj", "id": 23532}, {"name": "Utilplantoj", "id": 513234}, {"name": "Vivaĵoj", "id": 23339}], "successors": []}

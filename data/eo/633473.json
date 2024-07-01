@@ -1,1 +1,1 @@
-{"name": "Romantikaj_komediaj_filmoj", "id": 633473, "predecessors": [{"name": "Komediaj_filmoj", "id": 72318}, {"name": "Komediaj_ĝenroj", "id": 633475}, {"name": "Amaferaj_filmoj", "id": 72250}], "successors": [{"name": "Usonaj_romantikaj_komediaj_filmoj", "id": 633472}]}
+{"name": "Romantikaj_komediaj_filmoj", "id": 633473, "predecessors": [{"name": "Komediaj_filmoj", "id": 72318}, {"name": "Komedio", "id": 116107}, {"name": "Amaferaj_filmoj", "id": 72250}], "successors": [{"name": "Usonaj_romantikaj_komediaj_filmoj", "id": 633472}]}

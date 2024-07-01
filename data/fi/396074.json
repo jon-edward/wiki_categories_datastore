@@ -1,1 +1,1 @@
-{"name": "Eläinsuojelu", "id": 396074, "predecessors": [{"name": "Eläimet", "id": 21217}, {"name": "Biotekniikka", "id": 29194}], "successors": [{"name": "Eläinten_oikeudet", "id": 232480}]}
+{"name": "Eläinsuojelu", "id": 396074, "predecessors": [{"name": "Eläimet", "id": 21217}, {"name": "Luonnonsuojelu", "id": 29327}, {"name": "Biotekniikka", "id": 29194}], "successors": [{"name": "Eläinten_oikeudet", "id": 232480}, {"name": "Eläinsuojelu_Suomessa", "id": 1808317}]}

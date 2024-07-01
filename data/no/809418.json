@@ -1,1 +1,1 @@
-{"name": "Banesyklister", "id": 809418, "predecessors": [{"name": "Banesykling", "id": 845291}, {"name": "Syklister", "id": 30775}], "successors": [{"name": "Verdensmestere_i_banesykling", "id": 943138}]}
+{"name": "Banesyklister", "id": 809418, "predecessors": [{"name": "Banesykling", "id": 845291}, {"name": "Sykling", "id": 29143}], "successors": [{"name": "Verdensmestere_i_banesykling", "id": 943138}]}

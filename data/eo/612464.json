@@ -1,1 +1,1 @@
-{"name": "Luno_en_fikcio", "id": 612464, "predecessors": [{"name": "Luno", "id": 83100}, {"name": "Planedoj_en_fikcio", "id": 601875}, {"name": "Astronomiaj_objektoj", "id": 171234}], "successors": [{"name": "Lunaj_dioj", "id": 418615}]}
+{"name": "Luno_en_fikcio", "id": 612464, "predecessors": [{"name": "Luno", "id": 83100}, {"name": "Astronomiaj_objektoj", "id": 171234}, {"name": "Planedoj", "id": 130571}], "successors": [{"name": "Lunaj_dioj", "id": 418615}]}

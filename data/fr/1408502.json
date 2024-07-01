@@ -1,1 +1,0 @@
-{"name": "Instrument_de_calcul", "id": 1408502, "predecessors": [{"name": "Technique_de_calcul", "id": 5403386}, {"name": "Instrument_scientifique", "id": 342193}], "successors": [{"name": "Diagramme", "id": 866141}, {"name": "Calculatrice_mécanique", "id": 1445148}, {"name": "Calculateur_analogique", "id": 4476562}, {"name": "Calculateur_humain", "id": 12540243}]}

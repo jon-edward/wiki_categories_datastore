@@ -1,1 +1,1 @@
-{"name": "Kriminologio", "id": 293966, "predecessors": [{"name": "Puna_juro", "id": 293968}, {"name": "Perforto", "id": 92928}], "successors": [{"name": "Korporacia_krimo", "id": 608798}]}
+{"name": "Kriminologio", "id": 293966, "predecessors": [{"name": "Kriminaleco", "id": 293965}, {"name": "Puna_juro", "id": 293968}], "successors": [{"name": "Korporacia_krimo", "id": 608798}]}

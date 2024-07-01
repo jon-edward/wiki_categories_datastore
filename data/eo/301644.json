@@ -1,1 +1,1 @@
-{"name": "Stratoj_en_Madrido", "id": 301644, "predecessors": [{"name": "Geografio_de_Madrido", "id": 330409}, {"name": "Stratoj_en_Hispanio", "id": 301645}, {"name": "Transporto_en_Madrido", "id": 303832}], "successors": []}
+{"name": "Stratoj_en_Madrido", "id": 301644, "predecessors": [{"name": "Geografio_de_Madrido", "id": 330409}, {"name": "Transporto_en_Madrido", "id": 303832}, {"name": "Hispanio", "id": 26440}], "successors": []}

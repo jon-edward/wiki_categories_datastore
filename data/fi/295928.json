@@ -1,1 +1,1 @@
-{"name": "Kuvitteelliset_kuninkaalliset", "id": 295928, "predecessors": [{"name": "Kuvitteelliset_henkilöt", "id": 296499}, {"name": "Monarkia", "id": 82211}], "successors": [{"name": "Kuvitteelliset_prinsessat", "id": 295926}]}
+{"name": "Kuvitteelliset_kuninkaalliset", "id": 295928, "predecessors": [{"name": "Kuninkaalliset", "id": 32078}, {"name": "Kuvitteelliset_henkilöt", "id": 296499}], "successors": [{"name": "Kuvitteelliset_prinsessat", "id": 295926}]}

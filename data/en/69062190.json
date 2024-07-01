@@ -1,1 +1,1 @@
-{"name": "Medical_volunteerism", "id": 69062190, "predecessors": [{"name": "Volunteering", "id": 18479404}, {"name": "Health_care", "id": 35880954}], "successors": [{"name": "Voluntary_hospitals", "id": 54228318}]}
+{"name": "Medical_volunteerism", "id": 69062190, "predecessors": [{"name": "Medicine", "id": 692348}, {"name": "Volunteering", "id": 18479404}], "successors": [{"name": "Voluntary_hospitals", "id": 54228318}]}

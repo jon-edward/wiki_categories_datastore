@@ -1,1 +1,1 @@
-{"name": "Food_packaging", "id": 42442453, "predecessors": [{"name": "Food_storage_containers", "id": 24926754}, {"name": "Packaging", "id": 1948437}], "successors": [{"name": "Food_labelling", "id": 67098623}]}
+{"name": "Food_packaging", "id": 42442453, "predecessors": [{"name": "Food_storage_containers", "id": 24926754}, {"name": "Packaging", "id": 1948437}], "successors": [{"name": "Food_labelling", "id": 67098623}, {"name": "Baskets", "id": 77194017}]}

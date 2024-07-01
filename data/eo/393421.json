@@ -1,1 +1,1 @@
-{"name": "Slavaj_personaj_nomoj", "id": 393421, "predecessors": [{"name": "Personaj_nomoj_laŭ_kulturo", "id": 443729}, {"name": "Slavistiko", "id": 132744}], "successors": [{"name": "Polaj_personaj_nomoj", "id": 574870}]}
+{"name": "Slavaj_personaj_nomoj", "id": 393421, "predecessors": [{"name": "Slavistiko", "id": 132744}, {"name": "Personaj_nomoj", "id": 219252}], "successors": [{"name": "Polaj_personaj_nomoj", "id": 574870}]}

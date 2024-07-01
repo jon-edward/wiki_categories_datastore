@@ -1,1 +1,1 @@
-{"name": "Entiset_ruotsalaiset_lentoyhtiöt", "id": 1363960, "predecessors": [{"name": "Ruotsalaiset_lentoyhtiöt", "id": 132139}, {"name": "Entiset_lentoyhtiöt", "id": 118813}, {"name": "Liiketalous", "id": 27542}], "successors": []}
+{"name": "Entiset_ruotsalaiset_lentoyhtiöt", "id": 1363960, "predecessors": [{"name": "Entiset_ruotsalaiset_yritykset", "id": 1551407}, {"name": "Ruotsalaiset_lentoyhtiöt", "id": 132139}, {"name": "Entiset_lentoyhtiöt", "id": 118813}], "successors": []}

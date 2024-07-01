@@ -1,1 +1,1 @@
-{"name": "Saksalaiset_jalkapalloilijat", "id": 57844, "predecessors": [{"name": "Saksan_jalkapallo", "id": 84841}, {"name": "Jalkapallo", "id": 19734}, {"name": "Saksalaiset_henkilöt", "id": 124523}], "successors": [{"name": "Saksalaiset_jalkapallomaalivahdit", "id": 309992}]}
+{"name": "Saksalaiset_jalkapalloilijat", "id": 57844, "predecessors": [{"name": "Saksan_jalkapallo", "id": 84841}, {"name": "Saksalaiset_henkilöt", "id": 124523}, {"name": "Joukkuepelit", "id": 27879}], "successors": [{"name": "Saksalaiset_jalkapallomaalivahdit", "id": 309992}]}

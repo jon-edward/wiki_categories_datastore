@@ -1,1 +1,1 @@
-{"name": "Breakfast_dishes", "id": 66535856, "predecessors": [{"name": "Breakfast", "id": 705429}], "successors": [{"name": "Waffles", "id": 8116091}, {"name": "American_breakfast_foods", "id": 67631734}]}
+{"name": "Breakfast_dishes", "id": 66535856, "predecessors": [{"name": "Breakfast", "id": 705429}, {"name": "Cuisine", "id": 713870}], "successors": [{"name": "Waffles", "id": 8116091}, {"name": "American_breakfast_foods", "id": 67631734}]}

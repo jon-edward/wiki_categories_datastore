@@ -1,1 +1,1 @@
-{"name": "Yliopistotutkinnot", "id": 86411, "predecessors": [{"name": "Tutkinnot", "id": 34353}, {"name": "Yliopisto", "id": 40236}], "successors": []}
+{"name": "Yliopistotutkinnot", "id": 86411, "predecessors": [{"name": "Tutkinnot", "id": 34353}, {"name": "Yliopisto", "id": 40236}], "successors": [{"name": "Arkkitehdit", "id": 18145}, {"name": "Psykologit", "id": 32038}, {"name": "Maisema-arkkitehdit", "id": 602289}]}

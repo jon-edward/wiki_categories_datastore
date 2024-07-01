@@ -1,1 +1,1 @@
-{"name": "Terveydenhuollon_ammatit", "id": 223292, "predecessors": [{"name": "Sosiaali-_ja_terveysalan_ammatit", "id": 957509}, {"name": "Terveydenhoito", "id": 25163}], "successors": [{"name": "Eläinlääkärit", "id": 366166}]}
+{"name": "Terveydenhuollon_ammatit", "id": 223292, "predecessors": [{"name": "Sosiaali-_ja_terveysalan_ammatit", "id": 957509}, {"name": "Terveydenhoito", "id": 25163}], "successors": [{"name": "Psykologit", "id": 32038}, {"name": "Eläinlääkärit", "id": 366166}]}

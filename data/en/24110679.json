@@ -1,1 +1,1 @@
-{"name": "Video_signal", "id": 24110679, "predecessors": [{"name": "Display_technology", "id": 787720}, {"name": "Film_and_video_technology", "id": 5552682}], "successors": [{"name": "Video", "id": 7513737}]}
+{"name": "Video_signal", "id": 24110679, "predecessors": [{"name": "Display_technology", "id": 787720}, {"name": "Film_and_video_technology", "id": 5552682}, {"name": "Video", "id": 7513737}], "successors": []}

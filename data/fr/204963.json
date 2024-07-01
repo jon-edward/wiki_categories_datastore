@@ -1,1 +1,0 @@
-{"name": "Conduite_automobile", "id": 204963, "predecessors": [{"name": "Automobile", "id": 83581}], "successors": [{"name": "Véhicule_à_conduite_automatique", "id": 6290759}, {"name": "Covoiturage", "id": 8232187}]}

@@ -1,1 +1,1 @@
-{"name": "Sport_i_Texas", "id": 152165, "predecessors": [{"name": "Texas", "id": 58502}, {"name": "USA", "id": 37486}], "successors": []}
+{"name": "Sport_i_Texas", "id": 152165, "predecessors": [{"name": "Texas", "id": 58502}, {"name": "USA", "id": 37486}], "successors": [{"name": "Sport_i_Dallas", "id": 2200335}, {"name": "Sport_i_Houston", "id": 2200337}]}

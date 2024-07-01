@@ -1,1 +1,1 @@
-{"name": "Hungaraj_kardiologoj", "id": 455966, "predecessors": [{"name": "Hungaraj_kuracistoj", "id": 52267}], "successors": []}
+{"name": "Hungaraj_kardiologoj", "id": 455966, "predecessors": [{"name": "Hungaraj_internistoj", "id": 875236}, {"name": "Hungaraj_kuracistoj", "id": 52267}, {"name": "Internistoj", "id": 875188}], "successors": []}

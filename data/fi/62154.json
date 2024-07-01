@@ -1,1 +1,1 @@
-{"name": "Ruotsalaiset_jalkapalloilijat", "id": 62154, "predecessors": [{"name": "Ruotsin_jalkapallo", "id": 107372}, {"name": "Jalkapallo", "id": 19734}, {"name": "Ruotsalaiset_henkilöt", "id": 115383}], "successors": [{"name": "Ruotsalaiset_jalkapallomaalivahdit", "id": 310091}]}
+{"name": "Ruotsalaiset_jalkapalloilijat", "id": 62154, "predecessors": [{"name": "Ruotsin_jalkapallo", "id": 107372}, {"name": "Ruotsalaiset_henkilöt", "id": 115383}, {"name": "Joukkuepelit", "id": 27879}], "successors": [{"name": "Ruotsalaiset_jalkapallomaalivahdit", "id": 310091}]}

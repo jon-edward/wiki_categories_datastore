@@ -1,1 +1,1 @@
-{"name": "MUD_games", "id": 21063689, "predecessors": [{"name": "Interactive_fiction", "id": 696436}, {"name": "Massively_multiplayer_online_role-playing_games", "id": 723463}, {"name": "Multi-user_dungeon", "id": 26962291}], "successors": [{"name": "MU*_games", "id": 853896}, {"name": "Graphical_MUDs", "id": 27105474}]}
+{"name": "MUD_games", "id": 21063689, "predecessors": [{"name": "Massively_multiplayer_online_role-playing_games", "id": 723463}, {"name": "Multi-user_dungeon", "id": 26962291}, {"name": "Interactive_fiction", "id": 696436}], "successors": []}

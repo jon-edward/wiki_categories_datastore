@@ -1,1 +1,1 @@
-{"name": "Eduka_psikologio", "id": 82711, "predecessors": [{"name": "Homa_scienco", "id": 30586}, {"name": "Pedagogio", "id": 128581}], "successors": [{"name": "Intelekto", "id": 436681}]}
+{"name": "Eduka_psikologio", "id": 82711, "predecessors": [{"name": "Homa_scienco", "id": 30586}, {"name": "Pedagogio", "id": 128581}], "successors": [{"name": "Intelekto", "id": 436681}, {"name": "Speciala_pedagogio", "id": 608997}]}

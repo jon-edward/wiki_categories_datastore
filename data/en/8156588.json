@@ -1,1 +1,1 @@
-{"name": "Individual_sapphires", "id": 8156588, "predecessors": [{"name": "Gemstones", "id": 737200}], "successors": []}
+{"name": "Individual_sapphires", "id": 8156588, "predecessors": [{"name": "Individual_gemstones", "id": 7586323}, {"name": "Gemstones", "id": 737200}], "successors": []}

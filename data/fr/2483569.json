@@ -1,1 +1,0 @@
-{"name": "Processeur", "id": 2483569, "predecessors": [{"name": "Architecture_informatique", "id": 216174}, {"name": "Carte_mère", "id": 615252}, {"name": "Matériel_informatique", "id": 126616}], "successors": [{"name": "Microprocesseur", "id": 175718}, {"name": "Socket_(processeur)", "id": 2483556}, {"name": "Registre_de_processeur", "id": 9294800}]}

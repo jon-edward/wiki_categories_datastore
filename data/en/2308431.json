@@ -1,1 +1,1 @@
-{"name": "German_librarians", "id": 2308431, "predecessors": [{"name": "German_curators", "id": 5818087}, {"name": "Libraries_in_Germany", "id": 5160790}], "successors": [{"name": "German_women_librarians", "id": 70933314}]}
+{"name": "German_librarians", "id": 2308431, "predecessors": [{"name": "German_curators", "id": 5818087}, {"name": "German_scholars", "id": 2151426}, {"name": "Libraries_in_Germany", "id": 5160790}], "successors": [{"name": "German_women_librarians", "id": 70933314}]}

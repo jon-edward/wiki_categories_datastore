@@ -1,1 +1,1 @@
-{"name": "Fikciaj_hoteloj", "id": 809323, "predecessors": [{"name": "Fikciaj_konstruaĵoj", "id": 434398}, {"name": "Hoteloj", "id": 122226}], "successors": []}
+{"name": "Fikciaj_hoteloj", "id": 809323, "predecessors": [{"name": "Hoteloj", "id": 122226}, {"name": "Fikciaj_lokoj", "id": 227139}], "successors": []}

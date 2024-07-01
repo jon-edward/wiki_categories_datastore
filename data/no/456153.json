@@ -1,1 +1,1 @@
-{"name": "Programledere_for_NRK", "id": 456153, "predecessors": [{"name": "Ansatte_i_NRK", "id": 528253}, {"name": "Norske_programledere", "id": 13183}], "successors": [{"name": "Programledere_for_NRK_Radio", "id": 2198443}]}
+{"name": "Programledere_for_NRK", "id": 456153, "predecessors": [{"name": "Ansatte_i_NRK", "id": 528253}, {"name": "Norske_programledere", "id": 13183}], "successors": [{"name": "Programledere_for_NRK_TV", "id": 2198441}, {"name": "Programledere_for_NRK_Radio", "id": 2198443}]}

@@ -1,1 +1,0 @@
-{"name": "Solarthermie", "id": 3485803, "predecessors": [{"name": "Solarenergie", "id": 256264}, {"name": "Wärmetechnik", "id": 1642003}], "successors": [{"name": "Solarthermiehersteller", "id": 3485622}, {"name": "Thermische_Solaranlage", "id": 8003894}]}

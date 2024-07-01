@@ -1,1 +1,1 @@
-{"name": "Vakcinologoj", "id": 734508, "predecessors": [{"name": "Imunologoj", "id": 312618}, {"name": "Vakcinado", "id": 548366}], "successors": [{"name": "Louis_Pasteur", "id": 754029}]}
+{"name": "Vakcinologoj", "id": 734508, "predecessors": [{"name": "Imunologoj", "id": 312618}, {"name": "Imunologio", "id": 312619}], "successors": [{"name": "Louis_Pasteur", "id": 754029}]}

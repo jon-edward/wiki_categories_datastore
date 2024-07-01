@@ -1,1 +1,1 @@
-{"name": "Semi-automatic_pistols_of_Germany", "id": 38640150, "predecessors": [{"name": "Firearms_of_Germany", "id": 76879600}, {"name": "Pistols", "id": 2652569}], "successors": [{"name": "Heckler_&_Koch_pistols", "id": 21540595}, {"name": "Walther_semi-automatic_pistols", "id": 21541289}]}
+{"name": "Semi-automatic_pistols_of_Germany", "id": 38640150, "predecessors": [{"name": "Pistols", "id": 2652569}, {"name": "Firearms", "id": 739385}], "successors": [{"name": "Heckler_&_Koch_pistols", "id": 21540595}, {"name": "Walther_semi-automatic_pistols", "id": 21541289}]}

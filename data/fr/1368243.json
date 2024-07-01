@@ -1,1 +1,0 @@
-{"name": "Matériau_optique", "id": 1368243, "predecessors": [{"name": "Matériau", "id": 154211}, {"name": "Optique", "id": 87130}], "successors": [{"name": "Matériau_optique_non_linéaire", "id": 5663475}, {"name": "Matériau_transparent", "id": 6320301}, {"name": "Milieu_amplificateur_pour_laser", "id": 6320327}]}

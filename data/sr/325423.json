@@ -1,1 +1,0 @@
-{"name": "Мина", "id": 325423, "predecessors": [{"name": "Експлозиви", "id": 306011}, {"name": "Наоружање", "id": 40820}], "successors": [{"name": "Protivpešadijska_mina", "id": 4135542}, {"name": "Nagazna_mina", "id": 4135545}, {"name": "Minoistraživač", "id": 4135556}, {"name": "Разминирање", "id": 4135577}, {"name": "Противтенковска_мина", "id": 4135607}]}

@@ -1,1 +1,1 @@
-{"name": "Miracles", "id": 10831053, "predecessors": [{"name": "Religious_belief_and_doctrine", "id": 20813658}, {"name": "Supernatural", "id": 8605556}], "successors": [{"name": "Christian_miracles", "id": 2683637}, {"name": "Miracle_workers", "id": 27931887}]}
+{"name": "Miracles", "id": 10831053, "predecessors": [{"name": "Religious_belief_and_doctrine", "id": 20813658}, {"name": "Supernatural", "id": 8605556}], "successors": [{"name": "Spirits", "id": 1860500}, {"name": "Christian_miracles", "id": 2683637}, {"name": "Miracle_workers", "id": 27931887}]}

@@ -1,1 +1,1 @@
-{"name": "Katalizilo", "id": 569334, "predecessors": [{"name": "Kemia_kinetiko", "id": 355529}, {"name": "Kemia_reakcio", "id": 300219}, {"name": "Kemiaj_procezoj", "id": 439502}], "successors": []}
+{"name": "Katalizilo", "id": 569334, "predecessors": [{"name": "Kemia_reakcio", "id": 300219}, {"name": "Kemiaj_procezoj", "id": 439502}, {"name": "Fizika_kemio", "id": 83370}], "successors": []}

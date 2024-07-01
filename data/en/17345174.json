@@ -1,1 +1,1 @@
-{"name": "IAI_aircraft", "id": 17345174, "predecessors": [{"name": "Defense_companies_of_Israel", "id": 1158105}, {"name": "Economy_of_Israel", "id": 1158460}], "successors": [{"name": "IAI_unmanned_aerial_vehicles", "id": 38333151}]}
+{"name": "IAI_aircraft", "id": 17345174, "predecessors": [{"name": "Government-owned_companies_of_Israel", "id": 34208098}, {"name": "Aircraft", "id": 694926}], "successors": [{"name": "IAI_unmanned_aerial_vehicles", "id": 38333151}]}

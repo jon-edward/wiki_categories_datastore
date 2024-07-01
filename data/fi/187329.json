@@ -1,1 +1,1 @@
-{"name": "Marokkolaiset_jalkapalloilijat", "id": 187329, "predecessors": [{"name": "Jalkapallo", "id": 19734}, {"name": "Marokkolaiset_henkilöt", "id": 131124}, {"name": "Urheilulajit", "id": 965253}], "successors": [{"name": "Marokkolaiset_jalkapallomaalivahdit", "id": 532171}]}
+{"name": "Marokkolaiset_jalkapalloilijat", "id": 187329, "predecessors": [{"name": "Marokkolaiset_henkilöt", "id": 131124}, {"name": "Urheilulajit", "id": 965253}, {"name": "Joukkuepelit", "id": 27879}], "successors": [{"name": "Marokkolaiset_jalkapallomaalivahdit", "id": 532171}]}

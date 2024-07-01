@@ -1,1 +1,1 @@
-{"name": "Senperfortaj_rezistaj_movadoj", "id": 609652, "predecessors": [{"name": "Aktivismo_laŭ_tipoj", "id": 528798}, {"name": "Senperforto", "id": 128234}], "successors": [{"name": "Afrikusona_Civilrajta_Movado", "id": 609649}]}
+{"name": "Senperfortaj_rezistaj_movadoj", "id": 609652, "predecessors": [{"name": "Senperforto", "id": 128234}, {"name": "Aktivismo", "id": 295740}], "successors": [{"name": "Afrikusona_Civilrajta_Movado", "id": 609649}]}

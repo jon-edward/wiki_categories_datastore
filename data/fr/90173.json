@@ -1,1 +1,0 @@
-{"name": "Jeu_de_stratégie", "id": 90173, "predecessors": [{"name": "Jeu", "id": 82568}], "successors": [{"name": "Jeu_de_stratégie_combinatoire_abstrait", "id": 577499}, {"name": "Jeu_vidéo_de_stratégie", "id": 1505046}]}

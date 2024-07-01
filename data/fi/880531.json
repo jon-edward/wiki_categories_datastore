@@ -1,1 +1,1 @@
-{"name": "Psykoterapeutit", "id": 880531, "predecessors": [{"name": "Psykoterapia", "id": 100501}, {"name": "Ammatit", "id": 26041}], "successors": [{"name": "Psykoanalyytikot", "id": 248771}, {"name": "Suomalaiset_psykoterapeutit", "id": 1480757}]}
+{"name": "Psykoterapeutit", "id": 880531, "predecessors": [{"name": "Psykoterapia", "id": 100501}, {"name": "Mielenterveys", "id": 272685}, {"name": "Ammatit", "id": 26041}], "successors": [{"name": "Psykoanalyytikot", "id": 248771}, {"name": "Suomalaiset_psykoterapeutit", "id": 1480757}]}

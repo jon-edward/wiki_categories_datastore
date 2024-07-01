@@ -1,1 +1,1 @@
-{"name": "Puolalaiset_olympiamitalistit", "id": 92457, "predecessors": [{"name": "Olympiaurheilu", "id": 19742}, {"name": "Puolan_urheilu", "id": 92460}, {"name": "Puolalaiset_henkilöt", "id": 130902}], "successors": [{"name": "Puolalaiset_olympiavoittajat", "id": 108007}]}
+{"name": "Puolalaiset_olympiamitalistit", "id": 92457, "predecessors": [{"name": "Puolan_urheilu", "id": 92460}, {"name": "Urheilu", "id": 18692}, {"name": "Puolalaiset_henkilöt", "id": 130902}], "successors": [{"name": "Puolalaiset_olympiavoittajat", "id": 108007}]}

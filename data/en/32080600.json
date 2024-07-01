@@ -1,1 +1,1 @@
-{"name": "Individual_warmbloods", "id": 32080600, "predecessors": [{"name": "Individual_horses", "id": 31823612}], "successors": [{"name": "Individual_Selle_Français_horses", "id": 63859311}]}
+{"name": "Individual_warmbloods", "id": 32080600, "predecessors": [{"name": "Individual_horses", "id": 31823612}], "successors": [{"name": "Hanoverian_horses", "id": 50504504}, {"name": "Individual_Selle_Français_horses", "id": 63859311}]}

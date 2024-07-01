@@ -1,1 +1,1 @@
-{"name": "Novelaroj", "id": 283018, "predecessors": [{"name": "Literaturo_laŭ_formoj", "id": 282722}, {"name": "Rakontoj", "id": 211749}], "successors": [{"name": "Mil_kaj_unu_noktoj", "id": 442280}]}
+{"name": "Novelaroj", "id": 283018, "predecessors": [{"name": "Rakontoj", "id": 211749}, {"name": "Literaturo", "id": 26444}], "successors": [{"name": "Mil_kaj_unu_noktoj", "id": 442280}]}

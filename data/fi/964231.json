@@ -1,1 +1,1 @@
-{"name": "Painonhallinta", "id": 964231, "predecessors": [{"name": "Ravinto-oppi", "id": 25308}, {"name": "Terveys", "id": 209689}], "successors": [{"name": "Ylipaino", "id": 902081}]}
+{"name": "Painonhallinta", "id": 964231, "predecessors": [{"name": "Ihmisen_toiminta", "id": 826193}, {"name": "Liikunta", "id": 25173}, {"name": "Ravinto-oppi", "id": 25308}, {"name": "Uni", "id": 26864}], "successors": [{"name": "Ylipaino", "id": 902081}]}

@@ -1,1 +1,1 @@
-{"name": "Malilaiset_jalkapalloilijat", "id": 144965, "predecessors": [{"name": "Jalkapallo", "id": 19734}, {"name": "Malilaiset_henkilöt", "id": 144968}], "successors": []}
+{"name": "Malilaiset_jalkapalloilijat", "id": 144965, "predecessors": [{"name": "Malilaiset_henkilöt", "id": 144968}, {"name": "Urheilulajit", "id": 965253}, {"name": "Joukkuepelit", "id": 27879}], "successors": []}
