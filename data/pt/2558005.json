@@ -1,1 +1,1 @@
-{"name": "Enciclopédias_livres", "id": 2558005, "predecessors": [{"name": "Conteúdo_aberto", "id": 2936549}, {"name": "Conteúdo_livre", "id": 2557986}, {"name": "Enciclopédias", "id": 38587}], "successors": [{"name": "Wikipédia", "id": 24524}]}
+{"name": "Enciclopédias_livres", "id": 2558005, "predecessors": [{"name": "Conteúdo_aberto", "id": 2936549}, {"name": "Conteúdo_livre", "id": 2557986}, {"name": "Livros_por_tipo", "id": 865293}], "successors": [{"name": "Wikipédia", "id": 24524}]}

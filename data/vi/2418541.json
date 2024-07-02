@@ -1,1 +1,1 @@
-{"name": "Thịt_bò", "id": 2418541, "predecessors": [{"name": "Thịt_theo_loài", "id": 2462275}], "successors": [{"name": "Món_bò", "id": 3658106}]}
+{"name": "Thịt_bò", "id": 2418541, "predecessors": [{"name": "Thịt_theo_loài", "id": 2462275}], "successors": [{"name": "Món_bò", "id": 3658106}, {"name": "Giống_bò_thịt", "id": 19875636}]}

@@ -1,0 +1,1 @@
+{"name": "Rohstoff", "id": 682442, "predecessors": [{"name": "Wirtschaftliche_Güter", "id": 12543180}, {"name": "Technik", "id": 242544}], "successors": [{"name": "Sekundärrohstoff", "id": 615839}, {"name": "Fossiler_Brennstoff", "id": 3461447}, {"name": "Nachwachsender_Rohstoff", "id": 3611481}, {"name": "Erz", "id": 5708990}, {"name": "Faserrohstoff", "id": 7582803}]}

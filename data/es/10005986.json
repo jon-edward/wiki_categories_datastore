@@ -1,0 +1,1 @@
+{"name": "Carnes_por_animal", "id": 10005986, "predecessors": [{"name": "Carnes", "id": 151330}, {"name": "Animales", "id": 55378}], "successors": [{"name": "Invertebrados_comestibles", "id": 54625}, {"name": "Pescado", "id": 206321}, {"name": "Carne_de_cerdo", "id": 3166047}, {"name": "Carne_de_vacuno", "id": 6558870}]}

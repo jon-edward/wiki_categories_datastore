@@ -1,0 +1,1 @@
+{"name": "Salud_mental", "id": 6526293, "predecessors": [{"name": "Salud", "id": 75409}, {"name": "Cerebro", "id": 1780107}], "successors": [{"name": "Psicología", "id": 50651}, {"name": "Psiquiatría", "id": 51743}, {"name": "Suicidio", "id": 436849}, {"name": "Trastornos_mentales", "id": 5123228}, {"name": "Activistas_por_la_salud_mental", "id": 7757505}]}

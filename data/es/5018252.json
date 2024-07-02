@@ -1,0 +1,1 @@
+{"name": "Atención_Primaria", "id": 5018252, "predecessors": [{"name": "Asistencia_sanitaria", "id": 5537485}, {"name": "Seguridad_social", "id": 71310}], "successors": [{"name": "Atención_farmacéutica", "id": 5063410}, {"name": "Médicos_de_Atención_Primaria_de_España", "id": 6846062}]}

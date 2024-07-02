@@ -1,1 +1,1 @@
-{"name": "핵분열_생성물", "id": 618718, "predecessors": [{"name": "핵물질", "id": 489193}, {"name": "핵화학", "id": 32924}], "successors": []}
+{"name": "핵분열_생성물", "id": 618718, "predecessors": [{"name": "핵물질", "id": 489193}, {"name": "핵분열", "id": 3843035}, {"name": "핵화학", "id": 32924}], "successors": []}

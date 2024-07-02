@@ -1,0 +1,1 @@
+{"name": "Máquinas_virtuales", "id": 917941, "predecessors": [{"name": "Lenguajes_de_programación", "id": 54634}, {"name": "Sistemas_operativos", "id": 54097}, {"name": "Virtualización", "id": 746202}], "successors": [{"name": "Máquinas_virtuales_para_Java", "id": 2212278}]}

@@ -1,1 +1,1 @@
-{"name": "DirecTV", "id": 4377753, "predecessors": [{"name": "Satélites", "id": 78305}, {"name": "Empresas", "id": 328001}], "successors": []}
+{"name": "DirecTV", "id": 4377753, "predecessors": [{"name": "Empresas", "id": 328001}, {"name": "Satélites", "id": 78305}], "successors": []}

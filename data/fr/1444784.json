@@ -1,0 +1,1 @@
+{"name": "Maladie_infectieuse_en_pneumologie", "id": 1444784, "predecessors": [{"name": "Maladie_infectieuse", "id": 99359}, {"name": "Maladie_en_pneumologie", "id": 1444779}], "successors": [{"name": "Tuberculose", "id": 409453}, {"name": "Grippe", "id": 647799}, {"name": "Maladie_à_coronavirus_2019", "id": 13125148}]}

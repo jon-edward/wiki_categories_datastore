@@ -1,1 +1,1 @@
-{"name": "Veículos_com_motor_central", "id": 3483873, "predecessors": [{"name": "Tecnologia_por_tipo", "id": 2632234}], "successors": [{"name": "Veículos_com_motor_central_e_tração_traseira", "id": 1680869}, {"name": "Veículos_com_motor_traseiro_e_tração_integral", "id": 7128970}]}
+{"name": "Veículos_com_motor_central", "id": 3483873, "predecessors": [{"name": "Veículos", "id": 77151}], "successors": [{"name": "Veículos_com_motor_central_e_tração_traseira", "id": 1680869}, {"name": "Veículos_com_motor_traseiro_e_tração_integral", "id": 7128970}]}

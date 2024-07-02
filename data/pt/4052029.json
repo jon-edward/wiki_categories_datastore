@@ -1,1 +1,1 @@
-{"name": "Tecnologia_web", "id": 4052029, "predecessors": [{"name": "Tecnologia_por_tipo", "id": 2632234}, {"name": "Web", "id": 3169825}], "successors": [{"name": "Análise_da_web", "id": 6576152}]}
+{"name": "Tecnologia_web", "id": 4052029, "predecessors": [{"name": "Web", "id": 3169825}], "successors": [{"name": "Análise_da_web", "id": 6576152}]}

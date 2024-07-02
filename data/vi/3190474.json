@@ -1,1 +1,1 @@
-{"name": "Giống_bò", "id": 3190474, "predecessors": [{"name": "Gia_súc", "id": 149319}, {"name": "Giống_vật_nuôi", "id": 543113}], "successors": []}
+{"name": "Giống_bò", "id": 3190474, "predecessors": [{"name": "Gia_súc", "id": 149319}, {"name": "Giống_vật_nuôi", "id": 543113}], "successors": [{"name": "Giống_bò_thịt", "id": 19875636}]}

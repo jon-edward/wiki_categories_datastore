@@ -1,0 +1,1 @@
+{"name": "Produit_de_la_mer", "id": 6481888, "predecessors": [{"name": "Pêche", "id": 157415}, {"name": "Alimentation_humaine", "id": 3930512}, {"name": "Vivant", "id": 4649497}], "successors": [{"name": "Fruit_de_mer", "id": 424847}, {"name": "Spécialité_de_la_mer", "id": 483411}, {"name": "Poisson_(aliment)", "id": 5670635}]}

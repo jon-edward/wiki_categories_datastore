@@ -1,0 +1,1 @@
+{"name": "JavaScript", "id": 1635924, "predecessors": [{"name": "Desarrollo_web", "id": 2177569}, {"name": "Lenguajes_interpretados", "id": 54633}], "successors": [{"name": "Intérpretes_de_JavaScript", "id": 646693}, {"name": "AJAX", "id": 2198844}, {"name": "Bibliotecas_de_JavaScript", "id": 2218119}, {"name": "JSON", "id": 5078037}]}

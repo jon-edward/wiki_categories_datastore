@@ -1,0 +1,1 @@
+{"name": "Fermentation", "id": 9868030, "predecessors": [{"name": "Biotechnologie", "id": 478210}, {"name": "Verfahrenstechnik", "id": 240977}], "successors": [{"name": "Bioreaktor", "id": 4848794}, {"name": "Gärungsart", "id": 9870275}]}

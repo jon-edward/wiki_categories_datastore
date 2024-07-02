@@ -1,0 +1,1 @@
+{"name": "Locomotion", "id": 1527198, "predecessors": [{"name": "Transport", "id": 82492}], "successors": [{"name": "Roller", "id": 114031}, {"name": "Piéton", "id": 1169525}, {"name": "Taxi", "id": 3012052}, {"name": "Ascenseur", "id": 5834405}, {"name": "Marche_athlétique", "id": 6083101}]}

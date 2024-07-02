@@ -1,0 +1,1 @@
+{"name": "X_Window_System", "id": 1064679, "predecessors": [{"name": "UNIX", "id": 143877}, {"name": "ウィンドウシステム", "id": 3502459}, {"name": "リモートデスクトップ", "id": 2532822}, {"name": "コンピュータの文化", "id": 1053661}], "successors": [{"name": "GNOME", "id": 158828}, {"name": "Xウィンドウマネージャ", "id": 3502503}]}

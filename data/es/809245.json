@@ -1,0 +1,1 @@
+{"name": "BIOS", "id": 809245, "predecessors": [{"name": "Arranque_del_computador", "id": 495687}, {"name": "Software_de_sistema", "id": 1661490}, {"name": "Tarjeta_madre", "id": 502389}, {"name": "Sistemas_embebidos", "id": 3582917}], "successors": []}

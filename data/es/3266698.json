@@ -1,0 +1,1 @@
+{"name": "Aceites", "id": 3266698, "predecessors": [{"name": "Aceites_y_grasas", "id": 54473}, {"name": "Combustibles", "id": 144034}], "successors": [{"name": "Petróleo", "id": 87435}, {"name": "Aceites_vegetales", "id": 422758}, {"name": "Aceite_esencial", "id": 899794}, {"name": "Aceites_de_cocina", "id": 1965012}, {"name": "Aceites_animales", "id": 4925784}]}

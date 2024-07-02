@@ -1,0 +1,1 @@
+{"name": "Fügendes_Fertigungsverfahren", "id": 9191165, "predecessors": [{"name": "Fertigungsverfahren", "id": 1459446}, {"name": "Fertigungstechnik", "id": 239336}], "successors": [{"name": "Schweißverfahren", "id": 9233218}, {"name": "Lötverfahren", "id": 9233308}, {"name": "Fügendes_Fertigungsverfahren_durch_Umformen", "id": 9563118}]}

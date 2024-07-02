@@ -1,0 +1,1 @@
+{"name": "Boulangerie", "id": 1729713, "predecessors": [{"name": "Entreprise_agroalimentaire", "id": 106198}, {"name": "Pain", "id": 105788}], "successors": [{"name": "Boulanger", "id": 3398360}, {"name": "Boulangerie_en_France", "id": 14114322}]}

@@ -1,1 +1,1 @@
-{"name": "보병", "id": 687332, "predecessors": [{"name": "걷기", "id": 583697}], "successors": []}
+{"name": "보병", "id": 687332, "predecessors": [{"name": "걷기", "id": 583697}], "successors": [{"name": "낙하산병", "id": 2232007}]}

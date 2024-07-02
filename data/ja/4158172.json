@@ -1,0 +1,1 @@
+{"name": "Doctor取得者", "id": 4158172, "predecessors": [{"name": "博士", "id": 2345449}, {"name": "学位", "id": 338895}], "successors": [{"name": "Doctor_of_Philosophy取得者", "id": 4165057}]}

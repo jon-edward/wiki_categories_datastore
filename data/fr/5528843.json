@@ -1,0 +1,1 @@
+{"name": "Sécheresse", "id": 5528843, "predecessors": [{"name": "Climat", "id": 331977}, {"name": "Eau", "id": 189766}, {"name": "Phénomène_météorologique", "id": 2738172}, {"name": "Aménagement_du_territoire", "id": 367727}], "successors": [{"name": "Plante_tolérant_la_sécheresse", "id": 4530314}, {"name": "Sécheresse_en_Afrique", "id": 15878092}]}

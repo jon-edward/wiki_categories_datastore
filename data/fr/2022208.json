@@ -1,0 +1,1 @@
+{"name": "Irrigation", "id": 2022208, "predecessors": [{"name": "Hydraulique", "id": 268349}, {"name": "Technique_culturale", "id": 243210}], "successors": [{"name": "Barrage_d'irrigation", "id": 559266}, {"name": "Canal_d'irrigation", "id": 3837606}]}

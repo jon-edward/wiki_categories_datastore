@@ -1,1 +1,1 @@
-{"name": "Framtida_spel", "id": 787791, "predecessors": [{"name": "Datasystem", "id": 62559}, {"name": "Framtida_händelser", "id": 499408}], "successors": []}
+{"name": "Framtida_spel", "id": 787791, "predecessors": [{"name": "Framtida_produkter", "id": 339287}, {"name": "Datasystem", "id": 62559}], "successors": []}

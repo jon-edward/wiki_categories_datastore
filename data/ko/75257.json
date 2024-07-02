@@ -1,1 +1,1 @@
-{"name": "핵추진_잠수함", "id": 75257, "predecessors": [{"name": "원자력", "id": 35623}], "successors": []}
+{"name": "핵추진_잠수함", "id": 75257, "predecessors": [{"name": "원자력_추진", "id": 1384848}], "successors": [{"name": "오하이오급_잠수함", "id": 2507511}]}

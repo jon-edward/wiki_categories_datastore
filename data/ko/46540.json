@@ -1,1 +1,1 @@
-{"name": "핵합성", "id": 46540, "predecessors": [{"name": "천체물리학", "id": 13877}, {"name": "핵물리학", "id": 32923}], "successors": []}
+{"name": "핵합성", "id": 46540, "predecessors": [{"name": "천체물리학", "id": 13877}, {"name": "핵물리학", "id": 32923}, {"name": "핵분열", "id": 3843035}, {"name": "핵융합", "id": 46704}], "successors": []}

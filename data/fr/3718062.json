@@ -1,0 +1,1 @@
+{"name": "Fusée", "id": 3718062, "predecessors": [{"name": "Technologie_spatiale", "id": 3842912}, {"name": "Véhicule_spatial", "id": 1055405}, {"name": "Véhicule", "id": 84529}], "successors": [{"name": "Lanceur_spatial", "id": 231731}, {"name": "Missile_balistique", "id": 858176}, {"name": "Fusée-sonde", "id": 3717942}, {"name": "Fusée_expérimentale", "id": 5272688}]}

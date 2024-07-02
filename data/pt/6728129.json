@@ -1,1 +1,1 @@
-{"name": "Processos_judiciais_recentes_ou_em_curso", "id": 6728129, "predecessors": [{"name": "Eventos_atuais", "id": 2220743}], "successors": []}
+{"name": "Processos_judiciais_recentes_ou_em_curso", "id": 6728129, "predecessors": [{"name": "Eventos_atuais", "id": 2220743}, {"name": "Processos_judiciais", "id": 3669608}], "successors": []}

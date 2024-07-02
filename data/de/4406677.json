@@ -1,0 +1,1 @@
+{"name": "Unix-Betriebssystemkomponente", "id": 4406677, "predecessors": [{"name": "Unix", "id": 585233}, {"name": "Betriebssystemkomponente", "id": 2428733}], "successors": [{"name": "Daemon", "id": 2434928}]}

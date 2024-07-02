@@ -1,1 +1,1 @@
-{"name": "Biólogos_marinhos", "id": 4902081, "predecessors": [{"name": "Biologia_marinha", "id": 54943}, {"name": "Biólogos", "id": 14436}], "successors": [{"name": "Cetologistas", "id": 4902073}, {"name": "Zoólogos_marinhos", "id": 4902086}]}
+{"name": "Biólogos_marinhos", "id": 4902081, "predecessors": [{"name": "Biologia_marinha", "id": 54943}, {"name": "Biologia", "id": 15059}], "successors": [{"name": "Cetologistas", "id": 4902073}, {"name": "Zoólogos_marinhos", "id": 4902086}]}

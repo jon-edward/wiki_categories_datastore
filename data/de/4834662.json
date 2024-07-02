@@ -1,0 +1,1 @@
+{"name": "Ofen", "id": 4834662, "predecessors": [{"name": "Ofenbau", "id": 5056815}, {"name": "Wärmeerzeuger", "id": 884190}, {"name": "Wärmeübertrager", "id": 1615195}], "successors": [{"name": "Industrieofen", "id": 4834604}, {"name": "Heizofen", "id": 4834686}, {"name": "Pechofen", "id": 12656579}]}

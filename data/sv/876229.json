@@ -1,1 +1,1 @@
-{"name": "Svenska_metallurger", "id": 876229, "predecessors": [{"name": "Svenska_ingenjörer", "id": 172189}, {"name": "Metallurgi", "id": 92069}, {"name": "Topp", "id": 113605}], "successors": [{"name": "Svenska_professorer_i_metallurgi", "id": 1020510}]}
+{"name": "Svenska_metallurger", "id": 876229, "predecessors": [{"name": "Svenska_forskare", "id": 128819}, {"name": "Svenska_ingenjörer", "id": 172189}, {"name": "Metallurgi", "id": 92069}], "successors": [{"name": "Svenska_professorer_i_metallurgi", "id": 1020510}]}

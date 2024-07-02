@@ -1,1 +1,1 @@
-{"name": "Zweeds_warenhuis", "id": 5731067, "predecessors": [{"name": "Zweeds_bedrijf", "id": 128014}, {"name": "Bedrijf", "id": 67321}, {"name": "Economie", "id": 63600}], "successors": []}
+{"name": "Zweeds_warenhuis", "id": 5731067, "predecessors": [{"name": "Warenhuis", "id": 78179}, {"name": "Zweeds_bedrijf", "id": 128014}, {"name": "Economie", "id": 63600}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Vampirismo", "id": 1647016, "predecessors": [{"name": "Canibalismo", "id": 1347952}, {"name": "Folclore", "id": 20008}, {"name": "Horror", "id": 1428765}, {"name": "Sangue", "id": 367543}], "successors": [{"name": "Vampiros", "id": 1428700}]}
+{"name": "Vampirismo", "id": 1647016, "predecessors": [{"name": "Canibalismo", "id": 1347952}, {"name": "Folclore", "id": 20008}, {"name": "Sangue", "id": 367543}, {"name": "Terror", "id": 1428765}], "successors": [{"name": "Vampiros", "id": 1428700}]}

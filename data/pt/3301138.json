@@ -1,1 +1,1 @@
-{"name": "Filmes_de_vampiros", "id": 3301138, "predecessors": [{"name": "Filmes_baseados_em_lendas", "id": 2332267}, {"name": "Filmes_de_monstros", "id": 3923253}, {"name": "Vampiros", "id": 1428700}], "successors": [{"name": "Filmes_de_Drácula", "id": 5813775}]}
+{"name": "Filmes_de_vampiros", "id": 3301138, "predecessors": [{"name": "Filmes_baseados_em_lendas", "id": 2332267}, {"name": "Filmes_de_monstros", "id": 3923253}, {"name": "Vampiros", "id": 1428700}, {"name": "Filmes_de_horror", "id": 445701}], "successors": [{"name": "Filmes_de_Drácula", "id": 5813775}]}
