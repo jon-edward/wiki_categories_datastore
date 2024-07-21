@@ -1,1 +1,1 @@
-{"name": "Spektrum_radio", "id": 182456, "predecessors": [{"name": "Telekomunikasi", "id": 16590}], "successors": []}
+{"name": "Spektrum_radio", "id": 182456, "predecessors": [{"name": "Telekomunikasi", "id": 16590}], "successors": [{"name": "Radar", "id": 271473}]}

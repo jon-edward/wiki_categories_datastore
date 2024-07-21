@@ -1,1 +1,1 @@
-{"name": "Clock_signal", "id": 6018532, "predecessors": [{"name": "Computer_hardware", "id": 699548}, {"name": "Digital_electronics", "id": 969487}], "successors": []}
+{"name": "Clock_signal", "id": 6018532, "predecessors": [{"name": "Computer_hardware", "id": 699548}, {"name": "Digital_electronics", "id": 969487}, {"name": "Synchronization", "id": 923143}], "successors": []}

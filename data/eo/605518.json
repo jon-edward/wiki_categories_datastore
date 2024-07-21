@@ -1,1 +1,1 @@
-{"name": "Firmaoj_en_Moskvo", "id": 605518, "predecessors": [{"name": "Ekonomio_de_Rusio", "id": 312916}, {"name": "Organizaĵoj_en_Rusio", "id": 462681}, {"name": "Moskvo", "id": 39790}], "successors": [{"name": "Filmoj_de_Mosfilm", "id": 605556}]}
+{"name": "Firmaoj_en_Moskvo", "id": 605518, "predecessors": [{"name": "Ekonomio_de_Rusio", "id": 312916}, {"name": "Organizaĵoj_en_Rusio", "id": 462681}, {"name": "Moskvo", "id": 39790}], "successors": [{"name": "Filmoj_de_la_Gorkij_filmstudio", "id": 605515}, {"name": "Filmoj_de_Mosfilm", "id": 605556}]}

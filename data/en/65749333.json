@@ -1,1 +1,1 @@
-{"name": "Types_of_polygons", "id": 65749333, "predecessors": [{"name": "Polygons", "id": 731055}], "successors": [{"name": "Polyforms", "id": 1260666}, {"name": "Constructible_polygons", "id": 52151072}]}
+{"name": "Types_of_polygons", "id": 65749333, "predecessors": [{"name": "Polygons", "id": 731055}], "successors": [{"name": "Polyforms", "id": 1260666}, {"name": "Constructible_polygons", "id": 52151072}, {"name": "Star_polygons", "id": 63699675}]}

@@ -1,1 +1,1 @@
-{"name": "반도체_재료", "id": 50187, "predecessors": [{"name": "반도체", "id": 50189}, {"name": "재료", "id": 50188}], "successors": []}
+{"name": "반도체_재료", "id": 50187, "predecessors": [{"name": "반도체", "id": 50189}, {"name": "재료", "id": 50188}], "successors": [{"name": "유기_반도체", "id": 2739135}, {"name": "III-V_반도체", "id": 3073615}, {"name": "II-VI_반도체", "id": 3073621}]}

@@ -1,1 +1,1 @@
-{"name": "Mine_action", "id": 15839651, "predecessors": [{"name": "Aftermath_of_war", "id": 3542763}, {"name": "Bomb_disposal", "id": 17022598}, {"name": "Mine_warfare", "id": 13395540}], "successors": [{"name": "Mine_action_organizations", "id": 28562489}]}
+{"name": "Mine_action", "id": 15839651, "predecessors": [{"name": "Aftermath_of_war", "id": 3542763}, {"name": "Bomb_disposal", "id": 17022598}, {"name": "Mine_warfare", "id": 13395540}], "successors": [{"name": "Minefields", "id": 24540683}, {"name": "Mine_action_organizations", "id": 28562489}]}

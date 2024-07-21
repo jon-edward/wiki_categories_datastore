@@ -1,1 +1,1 @@
-{"name": "Student_satellites", "id": 17445606, "predecessors": [{"name": "Amateur_radio_satellites", "id": 5449649}, {"name": "Satellites_by_type", "id": 39469685}], "successors": []}
+{"name": "Student_satellites", "id": 17445606, "predecessors": [{"name": "Amateur_radio_satellites", "id": 5449649}, {"name": "Engineering_education", "id": 6643701}, {"name": "Satellites_by_type", "id": 39469685}], "successors": []}

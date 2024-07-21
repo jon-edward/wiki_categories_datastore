@@ -1,1 +1,1 @@
-{"name": "Aŭtosportistoj", "id": 218699, "predecessors": [{"name": "Aŭtosporto", "id": 80880}, {"name": "Sporto", "id": 26443}], "successors": [{"name": "Pilotoj_de_F1", "id": 80876}]}
+{"name": "Aŭtosportistoj", "id": 218699, "predecessors": [{"name": "Aŭtosporto", "id": 80880}, {"name": "Profesioj_rilataj_al_sporto", "id": 458306}], "successors": [{"name": "Pilotoj_de_F1", "id": 80876}, {"name": "Britaj_aŭtosportistoj", "id": 320256}, {"name": "Germanaj_aŭtosportistoj", "id": 363237}, {"name": "Usonaj_aŭtosportistoj", "id": 552568}]}

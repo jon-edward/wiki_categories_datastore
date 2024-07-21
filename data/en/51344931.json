@@ -1,1 +1,1 @@
-{"name": "Business_analytics", "id": 51344931, "predecessors": [{"name": "Business_analysis", "id": 24016426}], "successors": []}
+{"name": "Business_analytics", "id": 51344931, "predecessors": [{"name": "Business_analysis", "id": 24016426}, {"name": "Types_of_analytics", "id": 48573948}], "successors": []}

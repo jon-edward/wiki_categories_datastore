@@ -1,1 +1,1 @@
-{"name": "Salto_con_pértiga", "id": 8357854, "predecessors": [{"name": "Pruebas_atléticas", "id": 505890}], "successors": [{"name": "Saltadores_de_pértiga", "id": 4140670}]}
+{"name": "Salto_con_pértiga", "id": 8357854, "predecessors": [{"name": "Deportes_de_saltos", "id": 8357866}], "successors": [{"name": "Saltadores_de_pértiga", "id": 4140670}]}

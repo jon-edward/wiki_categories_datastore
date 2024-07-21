@@ -1,1 +1,1 @@
-{"name": "Marcas_de_muñecas", "id": 9651063, "predecessors": [{"name": "Muñecas", "id": 455593}, {"name": "Juguetes", "id": 106054}], "successors": [{"name": "Barbie", "id": 1337212}, {"name": "My_Little_Pony", "id": 5411176}]}
+{"name": "Marcas_de_muñecas", "id": 9651063, "predecessors": [{"name": "Marcas_de_juguetes", "id": 7293230}], "successors": [{"name": "Barbie", "id": 1337212}, {"name": "My_Little_Pony", "id": 5411176}]}

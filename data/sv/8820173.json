@@ -1,1 +1,1 @@
-{"name": "Europavägar_i_Slovenien", "id": 8820173, "predecessors": [{"name": "Transport_i_Europa", "id": 445120}, {"name": "Europavägar", "id": 61486}], "successors": []}
+{"name": "Europavägar_i_Slovenien", "id": 8820173, "predecessors": [{"name": "Transport_i_Europa", "id": 445120}, {"name": "Europavägar", "id": 61486}], "successors": [{"name": "E70", "id": 8863201}, {"name": "E59", "id": 8863275}, {"name": "E61", "id": 8863424}]}

@@ -1,1 +1,1 @@
-{"name": "Algoritmos_de_búsqueda", "id": 182286, "predecessors": [{"name": "Algoritmos", "id": 54094}, {"name": "Inteligencia_artificial", "id": 88769}, {"name": "Optimización", "id": 459870}], "successors": [{"name": "Optimización_combinatoria", "id": 10333846}]}
+{"name": "Algoritmos_de_búsqueda", "id": 182286, "predecessors": [{"name": "Inteligencia_artificial", "id": 88769}, {"name": "Optimización", "id": 459870}], "successors": [{"name": "Optimización_combinatoria", "id": 10333846}]}

@@ -1,1 +1,1 @@
-{"name": "Volcano_monitoring", "id": 65170940, "predecessors": [{"name": "Civil_defense", "id": 6089070}, {"name": "Disaster_preparedness", "id": 5047341}], "successors": [{"name": "Volcanic_earthquakes", "id": 65171518}]}
+{"name": "Volcano_monitoring", "id": 65170940, "predecessors": [{"name": "Civil_defense", "id": 6089070}, {"name": "Disaster_preparedness", "id": 5047341}], "successors": []}

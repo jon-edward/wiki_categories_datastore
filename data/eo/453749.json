@@ -1,1 +1,1 @@
-{"name": "Planta_fiziologio", "id": 453749, "predecessors": [{"name": "Botaniko", "id": 29422}, {"name": "Fiziologio", "id": 211745}], "successors": [{"name": "Fotosintezo", "id": 257713}, {"name": "Plantnutrado", "id": 626284}]}
+{"name": "Planta_fiziologio", "id": 453749, "predecessors": [{"name": "Botaniko", "id": 29422}, {"name": "Fiziologio", "id": 211745}], "successors": [{"name": "Fotosintezo", "id": 257713}, {"name": "Plantnutrado", "id": 626284}, {"name": "Planta_komunikado", "id": 838385}]}

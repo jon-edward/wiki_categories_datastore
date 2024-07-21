@@ -1,1 +1,1 @@
-{"name": "통합된_철도_노선", "id": 1785885, "predecessors": [{"name": "철도_노선", "id": 14769}], "successors": []}
+{"name": "통합된_철도_노선", "id": 1785885, "predecessors": [{"name": "철도_교통사", "id": 657761}, {"name": "철도_노선", "id": 14769}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Urologio", "id": 291665, "predecessors": [{"name": "Medicinaj_fakoj", "id": 293155}], "successors": [{"name": "Urina_sistemo", "id": 291664}, {"name": "Andrologio", "id": 546579}, {"name": "Sindromoj_en_urologio", "id": 549900}, {"name": "Testiko", "id": 579593}]}
+{"name": "Urologio", "id": 291665, "predecessors": [{"name": "Medicinaj_fakoj", "id": 293155}], "successors": [{"name": "Urina_sistemo", "id": 291664}, {"name": "Andrologio", "id": 546579}, {"name": "Sindromoj_en_urologio", "id": 549900}, {"name": "Reno", "id": 551691}, {"name": "Testiko", "id": 579593}]}

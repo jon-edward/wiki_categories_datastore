@@ -1,1 +1,1 @@
-{"name": "Oracular_animals", "id": 59819342, "predecessors": [{"name": "Divination", "id": 1096668}], "successors": [{"name": "Groundhog_Day", "id": 69794084}]}
+{"name": "Oracular_animals", "id": 59819342, "predecessors": [{"name": "Divination", "id": 1096668}, {"name": "Working_animals", "id": 17697068}], "successors": [{"name": "Groundhog_Day", "id": 69794084}]}

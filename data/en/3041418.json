@@ -1,1 +1,1 @@
-{"name": "Nature_writers", "id": 3041418, "predecessors": [{"name": "Science_writers", "id": 706179}], "successors": [{"name": "Environmental_writers", "id": 12429520}, {"name": "New_Naturalist_writers", "id": 45499570}]}
+{"name": "Nature_writers", "id": 3041418, "predecessors": [{"name": "Science_communicators", "id": 47125022}], "successors": [{"name": "Environmental_writers", "id": 12429520}, {"name": "New_Naturalist_writers", "id": 45499570}, {"name": "Ornithological_writers", "id": 3119105}, {"name": "Entomological_writers", "id": 11745157}]}

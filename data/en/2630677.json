@@ -1,1 +1,1 @@
-{"name": "Timbre", "id": 2630677, "predecessors": [{"name": "Musical_analysis", "id": 1203410}], "successors": [{"name": "Audio_effects", "id": 1120316}, {"name": "Spectral_music", "id": 10604547}]}
+{"name": "Timbre", "id": 2630677, "predecessors": [{"name": "Technology_systems", "id": 10958482}], "successors": [{"name": "Audio_effects", "id": 1120316}, {"name": "Spectral_music", "id": 10604547}]}

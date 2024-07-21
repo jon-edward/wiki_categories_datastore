@@ -1,1 +1,1 @@
-{"name": "Polish_Army_personnel", "id": 13620048, "predecessors": [{"name": "Polish_Land_Forces", "id": 1415399}, {"name": "Polish_military_personnel", "id": 6676843}, {"name": "Polish_soldiers", "id": 7672771}, {"name": "Military", "id": 716572}], "successors": [{"name": "Polish_Army_officers", "id": 1120413}]}
+{"name": "Polish_Army_personnel", "id": 13620048, "predecessors": [{"name": "Polish_military_personnel", "id": 6676843}, {"name": "Polish_soldiers", "id": 7672771}], "successors": [{"name": "Polish_Army_officers", "id": 1120413}]}

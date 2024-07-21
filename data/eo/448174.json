@@ -1,1 +1,1 @@
-{"name": "Sciencfikciaj_romanoj", "id": 448174, "predecessors": [{"name": "Sciencfikcia_literaturo", "id": 85356}, {"name": "Romanoj", "id": 57719}], "successors": [{"name": "Malutopiaj_romanoj", "id": 606478}]}
+{"name": "Sciencfikciaj_romanoj", "id": 448174, "predecessors": [{"name": "Romanoj_laŭ_ĝenroj", "id": 446456}, {"name": "Sciencfikcia_literaturo", "id": 85356}], "successors": [{"name": "Malutopiaj_romanoj", "id": 606478}]}

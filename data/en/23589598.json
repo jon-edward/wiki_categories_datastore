@@ -1,1 +1,1 @@
-{"name": "Regenerative_biomedicine", "id": 23589598, "predecessors": [{"name": "Biomedicine", "id": 23589701}], "successors": [{"name": "Stem_cell_research", "id": 37059272}, {"name": "Induced_stem_cells", "id": 42191558}]}
+{"name": "Regenerative_biomedicine", "id": 23589598, "predecessors": [{"name": "Developmental_biology", "id": 714674}], "successors": [{"name": "Stem_cell_research", "id": 37059272}, {"name": "Induced_stem_cells", "id": 42191558}]}

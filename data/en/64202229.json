@@ -1,1 +1,1 @@
-{"name": "Isoquinoline_alkaloids", "id": 64202229, "predecessors": [{"name": "Isoquinolines", "id": 25821520}], "successors": [{"name": "Aporphine_alkaloids", "id": 66095886}, {"name": "Benzylisoquinoline_alkaloids", "id": 67202830}]}
+{"name": "Isoquinoline_alkaloids", "id": 64202229, "predecessors": [{"name": "Alkaloids", "id": 717944}], "successors": [{"name": "Aporphine_alkaloids", "id": 66095886}, {"name": "Benzylisoquinoline_alkaloids", "id": 67202830}]}

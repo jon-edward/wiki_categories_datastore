@@ -1,0 +1,1 @@
+{"name": "Object_request_broker", "id": 39576606, "predecessors": [{"name": "Middleware", "id": 6197993}], "successors": [{"name": "Common_Object_Request_Broker_Architecture", "id": 35055572}]}

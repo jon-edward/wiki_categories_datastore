@@ -1,1 +1,1 @@
-{"name": "Deformación_(mecánica)", "id": 10898362, "predecessors": [{"name": "Ciencia_de_materiales", "id": 717772}], "successors": [{"name": "Elasticidad_(física)", "id": 10898358}, {"name": "Plasticidad_(física)", "id": 10898857}]}
+{"name": "Deformación_(mecánica)", "id": 10898362, "predecessors": [{"name": "Ciencia_de_materiales", "id": 717772}, {"name": "Mecánica", "id": 292958}], "successors": [{"name": "Elasticidad_(física)", "id": 10898358}, {"name": "Plasticidad_(física)", "id": 10898857}]}

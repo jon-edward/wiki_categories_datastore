@@ -1,1 +1,1 @@
-{"name": "Theatre_festivals", "id": 1351283, "predecessors": [{"name": "Theatre", "id": 698600}, {"name": "Entertainment", "id": 693016}], "successors": [{"name": "Shakespeare_festivals", "id": 5359967}, {"name": "Puppet_festivals", "id": 15460135}]}
+{"name": "Theatre_festivals", "id": 1351283, "predecessors": [{"name": "Theatre", "id": 698600}, {"name": "Arts_events", "id": 27486124}], "successors": [{"name": "Shakespeare_festivals", "id": 5359967}, {"name": "Puppet_festivals", "id": 15460135}]}

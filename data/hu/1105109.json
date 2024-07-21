@@ -1,1 +1,1 @@
-{"name": "ADS_Service-filmek", "id": 1105109, "predecessors": [{"name": "Média", "id": 31049}], "successors": []}
+{"name": "ADS_Service-filmek", "id": 1105109, "predecessors": [{"name": "Film", "id": 195249}], "successors": []}

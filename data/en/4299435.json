@@ -1,1 +1,1 @@
-{"name": "Coppersmiths", "id": 4299435, "predecessors": [{"name": "Artisans", "id": 742819}], "successors": [{"name": "American_coppersmiths", "id": 32899585}]}
+{"name": "Coppersmiths", "id": 4299435, "predecessors": [{"name": "Artisans", "id": 742819}, {"name": "Metal_industry", "id": 54607115}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Satakunnan_lakkautetut_rautatieliikennepaikat", "id": 1002948, "predecessors": [{"name": "Satakunnan_rautatieliikennepaikat", "id": 633449}, {"name": "Entiset_rakennukset_ja_rakennelmat", "id": 494125}], "successors": []}
+{"name": "Satakunnan_lakkautetut_rautatieliikennepaikat", "id": 1002948, "predecessors": [{"name": "Entiset_rakennukset_ja_rakennelmat", "id": 494125}, {"name": "Satakunta", "id": 173840}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Soldadura", "id": 125522, "predecessors": [{"name": "Metalurgia", "id": 66619}, {"name": "Procesos_industriales", "id": 666998}, {"name": "Seguridad_y_salud_en_el_trabajo", "id": 6608668}], "successors": [{"name": "Arco_eléctrico", "id": 1850553}]}
+{"name": "Soldadura", "id": 125522, "predecessors": [{"name": "Metalurgia", "id": 66619}, {"name": "Procesos_industriales", "id": 666998}], "successors": [{"name": "Arco_eléctrico", "id": 1850553}]}

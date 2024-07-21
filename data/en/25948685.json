@@ -1,1 +1,1 @@
-{"name": "Automotive_tool_manufacturers", "id": 25948685, "predecessors": [{"name": "Automotive_technologies", "id": 859604}], "successors": []}
+{"name": "Automotive_tool_manufacturers", "id": 25948685, "predecessors": [{"name": "Tools", "id": 846098}, {"name": "Automotive_technologies", "id": 859604}], "successors": []}

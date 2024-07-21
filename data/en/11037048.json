@@ -1,1 +1,1 @@
-{"name": "Bovine_health", "id": 11037048, "predecessors": [{"name": "Cattle", "id": 972888}, {"name": "Health", "id": 751381}], "successors": [{"name": "Bovine_diseases", "id": 7407111}]}
+{"name": "Bovine_health", "id": 11037048, "predecessors": [{"name": "Bovines", "id": 922758}, {"name": "Cattle", "id": 972888}, {"name": "Tree_of_life_(biology)", "id": 44386495}], "successors": [{"name": "Bovine_diseases", "id": 7407111}]}

@@ -1,1 +1,1 @@
-{"name": "Binnenschiffstyp", "id": 7272658, "predecessors": [{"name": "Schiffstyp", "id": 238131}], "successors": []}
+{"name": "Binnenschiffstyp", "id": 7272658, "predecessors": [{"name": "Binnenschiff", "id": 7272615}, {"name": "Schiffstyp", "id": 238131}], "successors": []}

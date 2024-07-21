@@ -1,1 +1,1 @@
-{"name": "Public_administration_journals", "id": 58992822, "predecessors": [{"name": "Business_and_management_journals", "id": 4057360}, {"name": "Public_administration", "id": 4108738}], "successors": []}
+{"name": "Public_administration_journals", "id": 58992822, "predecessors": [{"name": "Business_and_management_journals", "id": 4057360}, {"name": "Policy_analysis_journals", "id": 52021195}, {"name": "Political_science_journals", "id": 8336160}, {"name": "Public_administration", "id": 4108738}], "successors": [{"name": "Policy_analysis_journals", "id": 52021195}]}

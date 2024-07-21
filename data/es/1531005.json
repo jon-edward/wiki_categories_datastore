@@ -1,1 +1,1 @@
-{"name": "Metáforas", "id": 1531005, "predecessors": [{"name": "Conceptos", "id": 4539564}, {"name": "Figuras_retóricas", "id": 55667}, {"name": "Semántica", "id": 51153}], "successors": []}
+{"name": "Metáforas", "id": 1531005, "predecessors": [{"name": "Conceptos", "id": 4539564}, {"name": "Semántica", "id": 51153}], "successors": [{"name": "Metáforas_referentes_a_partes_del_cuerpo", "id": 9019630}, {"name": "Metáforas_referentes_a_animales", "id": 9924433}]}

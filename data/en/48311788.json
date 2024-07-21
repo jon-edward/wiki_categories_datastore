@@ -1,1 +1,1 @@
-{"name": "Finn_class_sailing_competitions", "id": 48311788, "predecessors": [{"name": "Dinghies", "id": 765933}, {"name": "Sailing_competitions", "id": 42956893}], "successors": []}
+{"name": "Finn_class_sailing_competitions", "id": 48311788, "predecessors": [{"name": "Sailing_competitions", "id": 42956893}], "successors": [{"name": "Finn_class_world_champions", "id": 51357523}]}

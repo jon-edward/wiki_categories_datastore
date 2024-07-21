@@ -1,1 +1,1 @@
-{"name": "Chemical_industry_trade_unions", "id": 33100079, "predecessors": [{"name": "Manufacturing_trade_unions", "id": 41311401}], "successors": []}
+{"name": "Chemical_industry_trade_unions", "id": 33100079, "predecessors": [{"name": "Chemical_industry", "id": 15176982}, {"name": "Manufacturing_trade_unions", "id": 41311401}], "successors": []}

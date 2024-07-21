@@ -1,1 +1,1 @@
-{"name": "Sport_in_Rijeka", "id": 25980204, "predecessors": [{"name": "Cities_and_towns_in_Croatia", "id": 18343346}, {"name": "Counties_of_Croatia", "id": 899950}], "successors": [{"name": "HNK_Rijeka", "id": 29186711}, {"name": "Rijeka_Open", "id": 36265229}, {"name": "Sportspeople_from_Rijeka", "id": 37533430}]}
+{"name": "Sport_in_Rijeka", "id": 25980204, "predecessors": [{"name": "Sport_in_Croatia", "id": 3048493}], "successors": [{"name": "HNK_Rijeka", "id": 29186711}, {"name": "Rijeka_Open", "id": 36265229}, {"name": "Sportspeople_from_Rijeka", "id": 37533430}]}

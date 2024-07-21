@@ -1,1 +1,1 @@
-{"name": "Monumentos_de_Caracas", "id": 1134074, "predecessors": [{"name": "Edificios_y_estructuras_de_Caracas", "id": 5885163}, {"name": "Cartografía", "id": 51115}, {"name": "Caracas", "id": 122945}], "successors": [{"name": "Plaza_Bolívar_de_Caracas", "id": 5925025}]}
+{"name": "Monumentos_de_Caracas", "id": 1134074, "predecessors": [{"name": "Cultura_de_Caracas", "id": 5888757}, {"name": "Edificios_y_estructuras_de_Caracas", "id": 5885163}, {"name": "Monumentos", "id": 54497}], "successors": [{"name": "Plaza_Bolívar_de_Caracas", "id": 5925025}]}

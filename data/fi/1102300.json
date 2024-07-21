@@ -1,1 +1,1 @@
-{"name": "Kevyen_liikenteen_sillat", "id": 1102300, "predecessors": [{"name": "Sillat", "id": 25189}, {"name": "Liikenne", "id": 21059}], "successors": []}
+{"name": "Kevyen_liikenteen_sillat", "id": 1102300, "predecessors": [{"name": "Sillat", "id": 25189}, {"name": "Liikenne", "id": 21059}], "successors": [{"name": "Helsingin_kevyen_liikenteen_sillat", "id": 1811608}]}

@@ -1,1 +1,1 @@
-{"name": "NASCAR_tracks", "id": 1261857, "predecessors": [{"name": "NASCAR", "id": 696532}, {"name": "Sports_venues", "id": 3826004}, {"name": "Outdoor_recreation", "id": 1451342}], "successors": [{"name": "ARCA_Menards_Series_tracks", "id": 33868517}, {"name": "Circuit_of_the_Americas", "id": 59920885}]}
+{"name": "NASCAR_tracks", "id": 1261857, "predecessors": [{"name": "Sports_venues", "id": 3826004}, {"name": "Outdoor_recreation", "id": 1451342}], "successors": [{"name": "ARCA_Menards_Series_tracks", "id": 33868517}, {"name": "Circuit_of_the_Americas", "id": 59920885}]}

@@ -1,1 +1,1 @@
-{"name": "Nuclear_fuel_companies", "id": 19326115, "predecessors": [{"name": "Nuclear_fuels", "id": 12895339}, {"name": "Nuclear_reprocessing", "id": 3099184}, {"name": "Energy_economics", "id": 3646879}], "successors": []}
+{"name": "Nuclear_fuel_companies", "id": 19326115, "predecessors": [{"name": "Nuclear_fuels", "id": 12895339}, {"name": "Nuclear_reprocessing", "id": 3099184}, {"name": "Nuclear_industry_organizations", "id": 13634390}], "successors": []}

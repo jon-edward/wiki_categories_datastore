@@ -1,1 +1,1 @@
-{"name": "Solid-fuel_rockets", "id": 10125533, "predecessors": [{"name": "Rocket_propellants", "id": 7325793}], "successors": []}
+{"name": "Solid-fuel_rockets", "id": 10125533, "predecessors": [{"name": "Rocket_propellants", "id": 7325793}], "successors": [{"name": "Spacecraft_launched_by_Vega_rockets", "id": 52750652}]}

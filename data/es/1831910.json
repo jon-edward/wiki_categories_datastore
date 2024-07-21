@@ -1,1 +1,1 @@
-{"name": "Sistemas_expertos", "id": 1831910, "predecessors": [{"name": "Inteligencia_artificial", "id": 88769}, {"name": "Solución_de_problemas", "id": 1831890}, {"name": "Ciencias_de_la_información", "id": 55404}], "successors": []}
+{"name": "Sistemas_expertos", "id": 1831910, "predecessors": [{"name": "Inteligencia_artificial", "id": 88769}, {"name": "Sistemas_de_información", "id": 6823396}, {"name": "Solución_de_problemas", "id": 1831890}], "successors": []}

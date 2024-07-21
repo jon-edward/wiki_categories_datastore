@@ -1,1 +1,1 @@
-{"name": "UCI_WorldTour_2024", "id": 2168249, "predecessors": [{"name": "Sportsserier", "id": 345198}, {"name": "Sykling", "id": 29143}], "successors": [{"name": "Giro_d'Italia_2024", "id": 2195395}]}
+{"name": "UCI_WorldTour_2024", "id": 2168249, "predecessors": [{"name": "Sportsserier", "id": 345198}, {"name": "Sykling", "id": 29143}], "successors": [{"name": "Tour_de_France_2024", "id": 2169030}, {"name": "Giro_d'Italia_2024", "id": 2195395}]}

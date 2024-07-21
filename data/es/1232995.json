@@ -1,1 +1,1 @@
-{"name": "Sales_condimento", "id": 1232995, "predecessors": [{"name": "Condimentos", "id": 1909115}, {"name": "Sales", "id": 209662}], "successors": []}
+{"name": "Sales_condimento", "id": 1232995, "predecessors": [{"name": "Condimentos", "id": 1909115}, {"name": "Sales", "id": 209662}], "successors": [{"name": "Sal", "id": 2821492}]}

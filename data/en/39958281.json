@@ -1,1 +1,1 @@
-{"name": "World_War_II_self-propelled_artillery_of_Germany", "id": 39958281, "predecessors": [{"name": "World_War_II_armoured_fighting_vehicles_of_Germany", "id": 13457037}, {"name": "World_War_II_self-propelled_artillery", "id": 38529458}, {"name": "Armoured_fighting_vehicles_of_Germany", "id": 13457010}], "successors": []}
+{"name": "World_War_II_self-propelled_artillery_of_Germany", "id": 39958281, "predecessors": [{"name": "World_War_II_self-propelled_artillery", "id": 38529458}, {"name": "Artillery", "id": 700053}], "successors": []}

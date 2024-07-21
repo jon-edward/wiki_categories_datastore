@@ -1,1 +1,1 @@
-{"name": "Travel_classes", "id": 56705860, "predecessors": [{"name": "Types_of_travel", "id": 23210501}], "successors": []}
+{"name": "Travel_classes", "id": 56705860, "predecessors": [{"name": "Classification_systems_by_subject", "id": 50661878}, {"name": "Types_of_travel", "id": 23210501}, {"name": "Wealth", "id": 2104914}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Indian_newspaper_editors", "id": 3105745, "predecessors": [{"name": "Asian_newspaper_editors", "id": 26296861}, {"name": "Indian_editors", "id": 11278535}, {"name": "Mass_media_in_India", "id": 1158179}], "successors": [{"name": "Indian_women_newspaper_editors", "id": 40149579}]}
+{"name": "Indian_newspaper_editors", "id": 3105745, "predecessors": [{"name": "Asian_newspaper_editors", "id": 26296861}, {"name": "Newspaper_publishing", "id": 24204175}], "successors": [{"name": "Indian_women_newspaper_editors", "id": 40149579}]}

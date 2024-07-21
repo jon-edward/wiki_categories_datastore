@@ -1,1 +1,1 @@
-{"name": "Theatre_in_Melbourne", "id": 54245170, "predecessors": [{"name": "Performing_arts_in_Melbourne", "id": 53730090}, {"name": "Theatre_of_Australia", "id": 2754175}, {"name": "Theatre", "id": 698600}], "successors": [{"name": "Theatres_in_Melbourne", "id": 36136692}]}
+{"name": "Theatre_in_Melbourne", "id": 54245170, "predecessors": [{"name": "Theatre", "id": 698600}], "successors": [{"name": "Theatres_in_Melbourne", "id": 36136692}]}

@@ -1,1 +1,1 @@
-{"name": "Literature_about_cancer", "id": 39522932, "predecessors": [{"name": "Works_about_cancer", "id": 32957600}, {"name": "Medical_literature", "id": 6125549}], "successors": [{"name": "Books_about_cancer", "id": 33877397}]}
+{"name": "Literature_about_cancer", "id": 39522932, "predecessors": [{"name": "Works_about_cancer", "id": 32957600}, {"name": "Literature_by_topic", "id": 39341259}], "successors": [{"name": "Books_about_cancer", "id": 33877397}]}

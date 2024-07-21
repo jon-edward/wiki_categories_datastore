@@ -1,1 +1,1 @@
-{"name": "정규_분포", "id": 3045382, "predecessors": [{"name": "가우스_함수", "id": 3045385}, {"name": "연속분포", "id": 286286}], "successors": []}
+{"name": "정규_분포", "id": 3045382, "predecessors": [{"name": "연속분포", "id": 286286}], "successors": []}

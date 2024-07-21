@@ -1,1 +1,1 @@
-{"name": "Semiaquatic_mammals", "id": 63209068, "predecessors": [{"name": "Aquatic_mammals", "id": 43530427}, {"name": "Semiaquatic_animals", "id": 63209320}], "successors": [{"name": "Pinnipeds", "id": 898019}, {"name": "Beavers", "id": 4063876}, {"name": "Otters", "id": 13476868}]}
+{"name": "Semiaquatic_mammals", "id": 63209068, "predecessors": [{"name": "Aquatic_mammals", "id": 43530427}], "successors": [{"name": "Pinnipeds", "id": 898019}, {"name": "Beavers", "id": 4063876}, {"name": "Otters", "id": 13476868}]}

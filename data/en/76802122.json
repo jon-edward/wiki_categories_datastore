@@ -1,1 +1,1 @@
-{"name": "Arab_breads", "id": 76802122, "predecessors": [{"name": "Arab_cuisine", "id": 3494288}, {"name": "Breads", "id": 839059}], "successors": []}
+{"name": "Arab_breads", "id": 76802122, "predecessors": [{"name": "Arab_cuisine", "id": 3494288}, {"name": "Breads", "id": 839059}], "successors": [{"name": "Yemeni_breads", "id": 77294078}]}

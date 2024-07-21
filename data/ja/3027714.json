@@ -1,1 +1,1 @@
-{"name": "事業用車", "id": 3027714, "predecessors": [{"name": "車両", "id": 3623029}], "successors": [{"name": "日本の事業用車", "id": 3647020}]}
+{"name": "事業用車", "id": 3027714, "predecessors": [{"name": "鉄道車両", "id": 103606}], "successors": [{"name": "日本の事業用車", "id": 3647020}]}

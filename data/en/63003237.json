@@ -1,1 +1,1 @@
-{"name": "Near-Earth_comets", "id": 63003237, "predecessors": [{"name": "Planetary_defense", "id": 10112120}], "successors": []}
+{"name": "Near-Earth_comets", "id": 63003237, "predecessors": [{"name": "Comets", "id": 698007}], "successors": []}

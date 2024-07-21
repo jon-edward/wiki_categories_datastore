@@ -1,1 +1,1 @@
-{"name": "Canal_inclined_planes", "id": 11530832, "predecessors": [{"name": "Water_transport_infrastructure", "id": 3037022}], "successors": []}
+{"name": "Canal_inclined_planes", "id": 11530832, "predecessors": [{"name": "Vertical_transport_devices", "id": 30136127}, {"name": "Water_transport_infrastructure", "id": 3037022}], "successors": []}

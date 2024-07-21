@@ -1,1 +1,1 @@
-{"name": "Epilepsia", "id": 4094807, "predecessors": [{"name": "Enfermedades_del_cerebro", "id": 5149647}], "successors": [{"name": "Antiepilépticos", "id": 1558442}, {"name": "Personas_con_epilepsia", "id": 4094818}]}
+{"name": "Epilepsia", "id": 4094807, "predecessors": [{"name": "Enfermedades_del_cerebro", "id": 5149647}, {"name": "Enfermedades_neurológicas", "id": 352250}], "successors": [{"name": "Antiepilépticos", "id": 1558442}, {"name": "Personas_con_epilepsia", "id": 4094818}]}

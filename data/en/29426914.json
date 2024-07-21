@@ -1,1 +1,1 @@
-{"name": "Household_pest_insects", "id": 29426914, "predecessors": [{"name": "Home", "id": 803231}], "successors": [{"name": "Bed_bug", "id": 53777077}]}
+{"name": "Household_pest_insects", "id": 29426914, "predecessors": [{"name": "Home", "id": 803231}, {"name": "Pest_insects", "id": 6089380}], "successors": [{"name": "Bed_bug", "id": 53777077}]}

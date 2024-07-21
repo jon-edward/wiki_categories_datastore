@@ -1,1 +1,1 @@
-{"name": "German_rocket_scientists", "id": 38468693, "predecessors": [{"name": "German_aerospace_engineers", "id": 4199054}, {"name": "Rocket_scientists", "id": 16979367}], "successors": [{"name": "Wernher_von_Braun", "id": 47369813}]}
+{"name": "German_rocket_scientists", "id": 38468693, "predecessors": [{"name": "Rocket_scientists", "id": 16979367}], "successors": [{"name": "Wernher_von_Braun", "id": 47369813}]}

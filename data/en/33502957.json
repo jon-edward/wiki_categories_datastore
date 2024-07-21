@@ -1,1 +1,1 @@
-{"name": "Pulmonary_function_testing", "id": 33502957, "predecessors": [{"name": "Diagnostic_pulmonology", "id": 67686510}, {"name": "Medical_tests", "id": 1075994}, {"name": "Respiratory_therapy", "id": 14298866}], "successors": []}
+{"name": "Pulmonary_function_testing", "id": 33502957, "predecessors": [{"name": "Medical_tests", "id": 1075994}, {"name": "Respiratory_therapy", "id": 14298866}], "successors": []}

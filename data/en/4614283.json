@@ -1,1 +1,1 @@
-{"name": "Office_administration", "id": 4614283, "predecessors": [{"name": "Office_work", "id": 1388304}], "successors": [{"name": "Administrative_software", "id": 20727104}]}
+{"name": "Office_administration", "id": 4614283, "predecessors": [{"name": "Management", "id": 787284}, {"name": "Office_work", "id": 1388304}], "successors": [{"name": "Administrative_software", "id": 20727104}]}

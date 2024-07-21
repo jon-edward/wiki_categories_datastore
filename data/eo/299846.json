@@ -1,1 +1,1 @@
-{"name": "Polaj_biologoj", "id": 299846, "predecessors": [{"name": "Polaj_sciencistoj", "id": 300557}, {"name": "Politika_geografio", "id": 108524}], "successors": [{"name": "Polaj_biokemiistoj", "id": 315289}, {"name": "Polaj_zoologoj", "id": 342361}]}
+{"name": "Polaj_biologoj", "id": 299846, "predecessors": [{"name": "Polaj_sciencistoj", "id": 300557}, {"name": "Biologoj", "id": 42628}], "successors": [{"name": "Polaj_biokemiistoj", "id": 315289}, {"name": "Polaj_zoologoj", "id": 342361}]}

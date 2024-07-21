@@ -1,1 +1,1 @@
-{"name": "Timmerman", "id": 3947616, "predecessors": [{"name": "Arbeider", "id": 3953353}, {"name": "Houtbewerking", "id": 417608}, {"name": "Beroep", "id": 63395}], "successors": []}
+{"name": "Timmerman", "id": 3947616, "predecessors": [{"name": "Houtbewerking", "id": 417608}, {"name": "Beroep", "id": 63395}, {"name": "Arbeid", "id": 68528}], "successors": []}

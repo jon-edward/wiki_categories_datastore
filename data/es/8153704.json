@@ -1,1 +1,1 @@
-{"name": "Actores_infantiles_de_Japón", "id": 8153704, "predecessors": [{"name": "Artistas", "id": 459774}, {"name": "Juventud", "id": 3264486}], "successors": [{"name": "Actrices_infantiles_de_Japón", "id": 8154446}]}
+{"name": "Actores_infantiles_de_Japón", "id": 8153704, "predecessors": [{"name": "Artistas", "id": 459774}, {"name": "Actores_infantiles", "id": 839459}], "successors": [{"name": "Actrices_infantiles_de_Japón", "id": 8154446}]}

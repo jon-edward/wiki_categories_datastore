@@ -1,1 +1,1 @@
-{"name": "Endemischer_Vogel_Brasiliens", "id": 12483588, "predecessors": [{"name": "Endemisches_Tier_Brasiliens", "id": 12483020}, {"name": "Ornithologie", "id": 476431}], "successors": []}
+{"name": "Endemischer_Vogel_Brasiliens", "id": 12483588, "predecessors": [{"name": "Ornithologie", "id": 476431}, {"name": "Endemisches_Tier", "id": 10199291}], "successors": []}

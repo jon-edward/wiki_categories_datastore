@@ -1,1 +1,1 @@
-{"name": "그림자", "id": 2297759, "predecessors": [{"name": "광학_현상", "id": 225357}], "successors": []}
+{"name": "그림자", "id": 2297759, "predecessors": [{"name": "광학_현상", "id": 225357}], "successors": [{"name": "실루엣", "id": 3857208}]}

@@ -1,1 +1,1 @@
-{"name": "예술_회관", "id": 568644, "predecessors": [{"name": "문화_센터", "id": 708701}], "successors": []}
+{"name": "예술_회관", "id": 568644, "predecessors": [{"name": "관광지", "id": 62436}], "successors": [{"name": "대한민국의_예술_회관", "id": 568645}]}

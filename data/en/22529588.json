@@ -1,1 +1,1 @@
-{"name": "Excavators", "id": 22529588, "predecessors": [{"name": "Tracked_vehicles", "id": 7672012}], "successors": []}
+{"name": "Excavators", "id": 22529588, "predecessors": [{"name": "Heavy_equipment", "id": 13860424}, {"name": "Tracked_vehicles", "id": 7672012}], "successors": []}

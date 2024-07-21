@@ -1,1 +1,1 @@
-{"name": "Zamiaceae", "id": 340696, "predecessors": [{"name": "Familias_de_plantas", "id": 103411}], "successors": []}
+{"name": "Zamiaceae", "id": 340696, "predecessors": [{"name": "Familias_de_plantas", "id": 103411}, {"name": "Botánica_sistemática", "id": 339557}], "successors": [{"name": "Macrozamia", "id": 2713158}, {"name": "Encephalartos", "id": 2806704}, {"name": "Ceratozamia", "id": 4980147}, {"name": "Zamia", "id": 5627195}]}

@@ -1,1 +1,1 @@
-{"name": "Manufacture_textile", "id": 5913911, "predecessors": [{"name": "Manufacture", "id": 8007308}, {"name": "Industrie_textile", "id": 7834490}], "successors": []}
+{"name": "Manufacture_textile", "id": 5913911, "predecessors": [{"name": "Entreprise_du_secteur_du_textile", "id": 2701675}, {"name": "Manufacture", "id": 8007308}], "successors": []}

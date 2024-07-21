@@ -1,1 +1,1 @@
-{"name": "Almidón", "id": 4216010, "predecessors": [{"name": "Impresión", "id": 50634}, {"name": "Ingredientes_culinarios", "id": 3146307}, {"name": "Polisacáridos", "id": 77330}], "successors": [{"name": "Harinas", "id": 1741816}]}
+{"name": "Almidón", "id": 4216010, "predecessors": [{"name": "Impresión", "id": 50634}, {"name": "Ingredientes_culinarios", "id": 3146307}, {"name": "Polisacáridos", "id": 77330}, {"name": "Términos_botánicos", "id": 1805835}], "successors": [{"name": "Harinas", "id": 1741816}]}

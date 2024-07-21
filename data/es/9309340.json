@@ -1,1 +1,1 @@
-{"name": "Bibliotecas_universitarias_de_México", "id": 9309340, "predecessors": [{"name": "Bibliotecas_de_México", "id": 641352}, {"name": "Bibliotecas_universitarias", "id": 2576476}], "successors": [{"name": "Bibliotecas_de_la_Universidad_Nacional_Autónoma_de_México", "id": 9309339}]}
+{"name": "Bibliotecas_universitarias_de_México", "id": 9309340, "predecessors": [{"name": "Bibliotecas_de_México", "id": 641352}], "successors": [{"name": "Bibliotecas_de_la_Universidad_Nacional_Autónoma_de_México", "id": 9309339}]}

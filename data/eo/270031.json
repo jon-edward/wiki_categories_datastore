@@ -1,1 +1,1 @@
-{"name": "Plantoj_de_Aŭstralio", "id": 270031, "predecessors": [{"name": "Plantoj_el_la_Aŭstralazia_ekozono", "id": 312581}, {"name": "Politika_geografio", "id": 108524}, {"name": "Kontinentoj", "id": 32441}], "successors": [{"name": "Arboj_de_Aŭstralio", "id": 270029}]}
+{"name": "Plantoj_de_Aŭstralio", "id": 270031, "predecessors": [{"name": "Plantoj_de_Oceanio", "id": 269805}, {"name": "Plantoj_el_la_Aŭstralazia_ekozono", "id": 312581}, {"name": "Politika_geografio", "id": 108524}], "successors": [{"name": "Arboj_de_Aŭstralio", "id": 270029}]}

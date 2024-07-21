@@ -1,1 +1,1 @@
-{"name": "File_sharing_software_for_Linux", "id": 42505985, "predecessors": [{"name": "File_sharing_software", "id": 1964787}, {"name": "Internet_software_for_Linux", "id": 42469901}], "successors": [{"name": "BitTorrent_clients_for_Linux", "id": 42506009}]}
+{"name": "File_sharing_software_for_Linux", "id": 42505985, "predecessors": [{"name": "File_sharing_software", "id": 1964787}], "successors": []}

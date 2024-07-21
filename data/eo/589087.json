@@ -1,1 +1,1 @@
-{"name": "Sporta_terminologio", "id": 589087, "predecessors": [{"name": "Sporto", "id": 26443}, {"name": "Terminologio", "id": 35533}], "successors": [{"name": "Futbala_terminologio", "id": 684245}]}
+{"name": "Sporta_terminologio", "id": 589087, "predecessors": [{"name": "Sporto", "id": 26443}, {"name": "Terminologio", "id": 35533}], "successors": [{"name": "Futbala_terminologio", "id": 684245}, {"name": "Futbalaj_pozicioj", "id": 684244}]}

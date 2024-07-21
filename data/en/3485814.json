@@ -1,1 +1,1 @@
-{"name": "Packet_radio", "id": 3485814, "predecessors": [{"name": "Data_transmission", "id": 2459124}, {"name": "Digital_amateur_radio", "id": 74581764}, {"name": "Wireless_networking", "id": 979699}], "successors": []}
+{"name": "Packet_radio", "id": 3485814, "predecessors": [{"name": "Data_transmission", "id": 2459124}, {"name": "Digital_amateur_radio", "id": 74581764}, {"name": "Packets_(information_technology)", "id": 25481207}, {"name": "Wireless_networking", "id": 979699}], "successors": []}

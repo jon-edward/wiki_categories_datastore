@@ -1,1 +1,1 @@
-{"name": "Marionetas_ficticias", "id": 8265499, "predecessors": [{"name": "Títeres_y_marionetas", "id": 6122582}], "successors": [{"name": "31_minutos", "id": 1645909}, {"name": "Programas_de_televisión_con_títeres", "id": 10694687}]}
+{"name": "Marionetas_ficticias", "id": 8265499, "predecessors": [{"name": "Títeres_y_marionetas", "id": 6122582}, {"name": "Personajes_ficticios", "id": 1870159}], "successors": [{"name": "31_minutos", "id": 1645909}, {"name": "Pinocho", "id": 1809864}, {"name": "Programas_de_televisión_con_títeres", "id": 10694687}]}

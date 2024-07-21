@@ -1,1 +1,1 @@
-{"name": "Rumanujaj_hungaraj_pastroj", "id": 320849, "predecessors": [{"name": "Hungaraj_pastroj", "id": 305108}, {"name": "Rumanujaj_hungaroj", "id": 255298}, {"name": "Pastroj", "id": 162806}], "successors": []}
+{"name": "Rumanujaj_hungaraj_pastroj", "id": 320849, "predecessors": [{"name": "Hungaraj_pastroj", "id": 305108}, {"name": "Rumanaj_pastroj", "id": 320850}, {"name": "Rumanujaj_hungaroj", "id": 255298}], "successors": []}

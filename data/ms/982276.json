@@ -1,1 +1,1 @@
-{"name": "Sejarah_Xinjiang", "id": 982276, "predecessors": [{"name": "Xinjiang", "id": 982277}, {"name": "Sejarah_Asia", "id": 66747}], "successors": [{"name": "Konflik_Xinjiang", "id": 982274}]}
+{"name": "Sejarah_Xinjiang", "id": 982276, "predecessors": [{"name": "Sejarah_Asia_Tengah", "id": 235657}, {"name": "Xinjiang", "id": 982277}], "successors": [{"name": "Konflik_Xinjiang", "id": 982274}]}

@@ -1,1 +1,1 @@
-{"name": "Windows_Phone", "id": 35024388, "predecessors": [{"name": "ARM_operating_systems", "id": 39774425}, {"name": "Microsoft_Windows", "id": 1930130}, {"name": "Mobile_operating_systems", "id": 22280474}, {"name": "Windows_CE", "id": 6100535}], "successors": [{"name": "Windows_Phone_devices", "id": 30006035}, {"name": "Windows_Phone_software", "id": 35024502}]}
+{"name": "Windows_Phone", "id": 35024388, "predecessors": [{"name": "Microsoft_Windows", "id": 1930130}, {"name": "Windows_CE", "id": 6100535}], "successors": []}

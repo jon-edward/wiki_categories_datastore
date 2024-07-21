@@ -1,1 +1,1 @@
-{"name": "HTML_editors", "id": 1775831, "predecessors": [{"name": "Text_editors", "id": 694684}, {"name": "Web_development_software", "id": 716595}], "successors": [{"name": "Free_HTML_editors", "id": 4189404}]}
+{"name": "HTML_editors", "id": 1775831, "predecessors": [{"name": "HTML", "id": 815171}, {"name": "Text_editors", "id": 694684}, {"name": "Web_development_software", "id": 716595}], "successors": [{"name": "Free_HTML_editors", "id": 4189404}, {"name": "JavaScript-based_HTML_editors", "id": 7780396}]}

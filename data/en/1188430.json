@@ -1,1 +1,1 @@
-{"name": "Ferrari_engines", "id": 1188430, "predecessors": [{"name": "Automobile_engines", "id": 773958}, {"name": "Ferrari", "id": 894239}, {"name": "Fiat_engines", "id": 1640812}], "successors": []}
+{"name": "Ferrari_engines", "id": 1188430, "predecessors": [{"name": "Ferrari", "id": 894239}, {"name": "Fiat_engines", "id": 1640812}], "successors": []}

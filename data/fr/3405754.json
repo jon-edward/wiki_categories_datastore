@@ -1,1 +1,1 @@
-{"name": "Jeu_vidéo_de_western", "id": 3405754, "predecessors": [{"name": "Jeu_vidéo", "id": 85212}, {"name": "Western", "id": 99539}], "successors": []}
+{"name": "Jeu_vidéo_de_western", "id": 3405754, "predecessors": [{"name": "Jeu_vidéo", "id": 85212}, {"name": "Western", "id": 99539}], "successors": [{"name": "Jeu_vidéo_Lucky_Luke", "id": 10761504}]}

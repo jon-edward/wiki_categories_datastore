@@ -1,1 +1,1 @@
-{"name": "Hidróxidos", "id": 209666, "predecessors": [{"name": "Bases", "id": 1825552}, {"name": "Compuestos_de_oxígeno", "id": 2656962}], "successors": [{"name": "Minerales_hidróxidos", "id": 7958407}]}
+{"name": "Hidróxidos", "id": 209666, "predecessors": [{"name": "Bases", "id": 1825552}, {"name": "Compuestos_de_hidrógeno", "id": 2461440}, {"name": "Compuestos_de_oxígeno", "id": 2656962}, {"name": "Compuestos_inorgánicos", "id": 209023}], "successors": [{"name": "Minerales_hidróxidos", "id": 7958407}]}

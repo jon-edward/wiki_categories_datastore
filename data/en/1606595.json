@@ -1,0 +1,1 @@
+{"name": "Filters", "id": 1606595, "predecessors": [{"name": "Chemical_equipment", "id": 42616899}, {"name": "Filtration", "id": 20598563}, {"name": "Tools", "id": 846098}], "successors": [{"name": "Optical_filters", "id": 2645220}, {"name": "Water_filters", "id": 12433052}, {"name": "Signal_processing_filter", "id": 28226272}, {"name": "Air_filters", "id": 61514503}]}

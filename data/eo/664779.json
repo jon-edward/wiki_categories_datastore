@@ -1,1 +1,1 @@
-{"name": "Liftoj", "id": 664779, "predecessors": [{"name": "Konstruaĵa_inĝenierado", "id": 82555}, {"name": "Transportaj_rimedoj", "id": 55365}, {"name": "Infrastrukturo", "id": 482043}], "successors": []}
+{"name": "Liftoj", "id": 664779, "predecessors": [{"name": "Konstruaĵa_inĝenierado", "id": 82555}, {"name": "Transportaj_infrastrukturoj", "id": 505829}, {"name": "Transportaj_rimedoj", "id": 55365}], "successors": []}

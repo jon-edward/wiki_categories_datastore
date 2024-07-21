@@ -1,1 +1,1 @@
-{"name": "Hounds", "id": 2464727, "predecessors": [{"name": "Hunting_dogs", "id": 22102387}], "successors": [{"name": "Scent_hounds", "id": 2464798}, {"name": "Sighthounds", "id": 19463144}, {"name": "Hunting_with_hounds", "id": 38895277}]}
+{"name": "Hounds", "id": 2464727, "predecessors": [{"name": "Hunting_dogs", "id": 22102387}], "successors": [{"name": "Scent_hounds", "id": 2464798}, {"name": "Sighthounds", "id": 19463144}]}

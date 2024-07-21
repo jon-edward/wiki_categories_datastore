@@ -1,1 +1,1 @@
-{"name": "행동_요법", "id": 636530, "predecessors": [{"name": "심리요법", "id": 540318}], "successors": []}
+{"name": "행동_요법", "id": 636530, "predecessors": [{"name": "심리요법", "id": 540318}], "successors": [{"name": "인지_행동_치료", "id": 2528535}]}

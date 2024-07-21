@@ -1,1 +1,1 @@
-{"name": "Radiology_organizations", "id": 32448229, "predecessors": [{"name": "Medical_imaging_organizations", "id": 71314910}, {"name": "Nuclear_medicine_organizations", "id": 55800529}, {"name": "Radiology", "id": 695053}], "successors": []}
+{"name": "Radiology_organizations", "id": 32448229, "predecessors": [{"name": "Nuclear_medicine_organizations", "id": 55800529}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "World_War_II_submachine_guns", "id": 740946, "predecessors": [{"name": "Submachine_guns", "id": 740991}, {"name": "World_War_II_infantry_weapons", "id": 699856}], "successors": []}
+{"name": "World_War_II_submachine_guns", "id": 740946, "predecessors": [{"name": "World_War_II_infantry_weapons", "id": 699856}, {"name": "Firearm_actions", "id": 1033181}], "successors": []}

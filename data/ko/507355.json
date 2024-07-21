@@ -1,1 +1,1 @@
-{"name": "MP3", "id": 507355, "predecessors": [{"name": "MPEG", "id": 60258}, {"name": "오디오_코덱", "id": 60259}], "successors": [{"name": "디지털_오디오_플레이어", "id": 100928}]}
+{"name": "MP3", "id": 507355, "predecessors": [{"name": "MPEG", "id": 60258}, {"name": "디지털_오디오", "id": 507356}, {"name": "오디오_코덱", "id": 60259}], "successors": [{"name": "디지털_오디오_플레이어", "id": 100928}]}

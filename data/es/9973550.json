@@ -1,1 +1,1 @@
-{"name": "Energía_eólica_por_país", "id": 9973550, "predecessors": [{"name": "Energía_eólica", "id": 602579}, {"name": "Energías_renovables", "id": 54647}], "successors": [{"name": "Energía_eólica_en_Estados_Unidos", "id": 9973552}, {"name": "Parques_eólicos_de_Chile", "id": 4040973}]}
+{"name": "Energía_eólica_por_país", "id": 9973550, "predecessors": [{"name": "Energía_eólica", "id": 602579}], "successors": [{"name": "Energía_eólica_en_Estados_Unidos", "id": 9973552}, {"name": "Parques_eólicos_de_Chile", "id": 4040973}]}

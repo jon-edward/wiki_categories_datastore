@@ -1,1 +1,1 @@
-{"name": "Goggles", "id": 48644696, "predecessors": [{"name": "Eyewear", "id": 10155280}, {"name": "Personal_protective_equipment", "id": 63611332}, {"name": "Health_care", "id": 35880954}], "successors": []}
+{"name": "Goggles", "id": 48644696, "predecessors": [{"name": "Eyewear", "id": 10155280}, {"name": "Personal_protective_equipment", "id": 63611332}, {"name": "Eye", "id": 1060937}], "successors": []}

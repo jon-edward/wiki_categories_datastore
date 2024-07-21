@@ -1,1 +1,1 @@
-{"name": "Fallecidos_por_bombardeo", "id": 5032764, "predecessors": [{"name": "Fallecidos_por_heridas_de_combate", "id": 5032868}], "successors": []}
+{"name": "Fallecidos_por_bombardeo", "id": 5032764, "predecessors": [{"name": "Bombas", "id": 1853420}, {"name": "Fallecidos_por_heridas_de_combate", "id": 5032868}], "successors": []}

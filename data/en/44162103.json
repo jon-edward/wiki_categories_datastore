@@ -1,1 +1,1 @@
-{"name": "Apricots", "id": 44162103, "predecessors": [{"name": "Edible_fruits", "id": 39951547}, {"name": "Prunus", "id": 8613001}], "successors": []}
+{"name": "Apricots", "id": 44162103, "predecessors": [{"name": "Drupes", "id": 58129020}, {"name": "Edible_fruits", "id": 39951547}, {"name": "Prunus", "id": 8613001}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Detransition", "id": 73899387, "predecessors": [{"name": "Gender_transitioning", "id": 2908347}], "successors": []}
+{"name": "Detransition", "id": 73899387, "predecessors": [{"name": "Gender_transitioning", "id": 2908347}], "successors": [{"name": "People_who_detransitioned", "id": 60252043}]}

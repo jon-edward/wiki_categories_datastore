@@ -1,1 +1,1 @@
-{"name": "Fish_and_humans", "id": 48544133, "predecessors": [{"name": "Aquatic_animals", "id": 43539222}], "successors": [{"name": "Fishing", "id": 989949}, {"name": "Fishkeeping", "id": 1579875}, {"name": "Fish_as_food", "id": 70405003}]}
+{"name": "Fish_and_humans", "id": 48544133, "predecessors": [{"name": "Animals_and_humans", "id": 52196069}, {"name": "Aquatic_animals", "id": 43539222}], "successors": [{"name": "Fishing", "id": 989949}, {"name": "Fishkeeping", "id": 1579875}, {"name": "Fish_as_food", "id": 70405003}]}

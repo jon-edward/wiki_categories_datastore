@@ -1,1 +1,1 @@
-{"name": "Veterinary_scientists", "id": 20588747, "predecessors": [{"name": "Medical_researchers", "id": 2986153}, {"name": "Veterinary_professions", "id": 2740790}], "successors": [{"name": "Women_veterinary_scientists", "id": 52639227}]}
+{"name": "Veterinary_scientists", "id": 20588747, "predecessors": [{"name": "Medical_researchers", "id": 2986153}, {"name": "Veterinary_professions", "id": 2740790}, {"name": "Animals_and_humans", "id": 52196069}], "successors": [{"name": "Women_veterinary_scientists", "id": 52639227}]}

@@ -1,1 +1,1 @@
-{"name": "Organismos_de_estadísticas_nacionales", "id": 1081635, "predecessors": [{"name": "Asociaciones_de_matemática", "id": 1544821}, {"name": "Gobierno", "id": 234634}], "successors": []}
+{"name": "Organismos_de_estadísticas_nacionales", "id": 1081635, "predecessors": [{"name": "Estadística", "id": 53465}, {"name": "Gobierno", "id": 234634}], "successors": [{"name": "Instituto_Nacional_de_Estadística_y_Censos_(Argentina)", "id": 10922905}]}

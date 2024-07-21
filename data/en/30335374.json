@@ -1,1 +1,1 @@
-{"name": "Academic_journals_edited_by_students", "id": 30335374, "predecessors": [{"name": "Publications_by_format", "id": 11278400}], "successors": [{"name": "Law_journals_edited_by_students", "id": 45094041}]}
+{"name": "Academic_journals_edited_by_students", "id": 30335374, "predecessors": [{"name": "Academic_publishing", "id": 2239162}], "successors": [{"name": "Law_journals_edited_by_students", "id": 45094041}]}

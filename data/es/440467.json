@@ -1,1 +1,1 @@
-{"name": "Ballet", "id": 440467, "predecessors": [{"name": "Danza", "id": 50605}, {"name": "Géneros_de_danza", "id": 8746373}], "successors": [{"name": "Compañías_de_ballet", "id": 440483}, {"name": "Libros_adaptados_al_ballet", "id": 7751838}, {"name": "Bailarines_de_ballet", "id": 9828007}, {"name": "Mitología_griega_en_el_ballet", "id": 9296477}]}
+{"name": "Ballet", "id": 440467, "predecessors": [{"name": "Danza", "id": 50605}, {"name": "Géneros_de_danza", "id": 8746373}], "successors": [{"name": "Libros_adaptados_al_ballet", "id": 7751838}]}

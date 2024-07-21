@@ -1,1 +1,1 @@
-{"name": "조종사_실수로_인한_항공_사고", "id": 598737, "predecessors": [{"name": "비행사", "id": 51854}, {"name": "항공_사고", "id": 29500}], "successors": [{"name": "CFIT_사고", "id": 1993768}]}
+{"name": "조종사_실수로_인한_항공_사고", "id": 598737, "predecessors": [{"name": "비행사", "id": 51854}], "successors": [{"name": "CFIT_사고", "id": 1993768}]}

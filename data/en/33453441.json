@@ -1,1 +1,1 @@
-{"name": "NHL_suspensions_and_fines", "id": 33453441, "predecessors": [{"name": "Ice_hockey_statistics", "id": 1274194}, {"name": "National_Hockey_League", "id": 4070275}, {"name": "Punishments", "id": 938374}], "successors": []}
+{"name": "NHL_suspensions_and_fines", "id": 33453441, "predecessors": [{"name": "Ice_hockey_statistics", "id": 1274194}, {"name": "National_Hockey_League", "id": 4070275}, {"name": "Payments", "id": 35838996}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Aeronaves_de_Fokker", "id": 3719558, "predecessors": [{"name": "Aeronaves", "id": 281669}, {"name": "Aviación", "id": 282606}], "successors": [{"name": "Aeronaves_de_Atlantic_Aircraft", "id": 8134589}]}
+{"name": "Aeronaves_de_Fokker", "id": 3719558, "predecessors": [{"name": "Transporte_de_Europa", "id": 207253}, {"name": "Aviación", "id": 282606}, {"name": "Marcas_comerciales", "id": 1188838}], "successors": [{"name": "Aeronaves_de_Atlantic_Aircraft", "id": 8134589}]}

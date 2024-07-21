@@ -1,1 +1,1 @@
-{"name": "Hearsay", "id": 3288890, "predecessors": [{"name": "Civil_procedure", "id": 1574807}, {"name": "Criminal_procedure", "id": 1583742}, {"name": "Evidence_law", "id": 23681972}, {"name": "Testimony", "id": 41430674}], "successors": []}
+{"name": "Hearsay", "id": 3288890, "predecessors": [{"name": "Criminal_procedure", "id": 1583742}, {"name": "Evidence_law", "id": 23681972}, {"name": "Testimony", "id": 41430674}], "successors": []}

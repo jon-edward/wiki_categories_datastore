@@ -1,1 +1,1 @@
-{"name": "4chan_phenomena", "id": 52446935, "predecessors": [{"name": "4chan", "id": 52446386}, {"name": "Internet_humor", "id": 44568745}], "successors": [{"name": "/pol/_phenomena", "id": 64578598}]}
+{"name": "4chan_phenomena", "id": 52446935, "predecessors": [{"name": "4chan", "id": 52446386}, {"name": "Internet_humor", "id": 44568745}, {"name": "Social_phenomena", "id": 10838466}], "successors": [{"name": "/pol/_phenomena", "id": 64578598}]}

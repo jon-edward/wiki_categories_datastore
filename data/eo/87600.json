@@ -1,1 +1,1 @@
-{"name": "Veneto", "id": 87600, "predecessors": [{"name": "Geografio_de_Eŭropo", "id": 187203}], "successors": [{"name": "Komunumoj_de_Veneto", "id": 87599}, {"name": "Komunumoj_de_Provinco_Padovo", "id": 261536}]}
+{"name": "Veneto", "id": 87600, "predecessors": [{"name": "Regionoj_de_Italio", "id": 236579}], "successors": [{"name": "Metropola_urbo_Venecio", "id": 78363}, {"name": "Provinco_Verona", "id": 78371}, {"name": "Komunumoj_de_Veneto", "id": 87599}, {"name": "Komunumoj_de_Provinco_Padovo", "id": 261536}]}

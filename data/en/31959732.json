@@ -1,1 +1,1 @@
-{"name": "Marine_steam_propulsion", "id": 31959732, "predecessors": [{"name": "Marine_propulsion", "id": 1111743}], "successors": [{"name": "Marine_boilers", "id": 40621258}, {"name": "Ships_with_Belleville_boilers", "id": 34417949}]}
+{"name": "Marine_steam_propulsion", "id": 31959732, "predecessors": [{"name": "Marine_propulsion", "id": 1111743}], "successors": []}

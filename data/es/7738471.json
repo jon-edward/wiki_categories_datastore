@@ -1,1 +1,1 @@
-{"name": "Aviones_propulsores_bimotores", "id": 7738471, "predecessors": [{"name": "Configuraciones_de_aeronaves", "id": 4400043}], "successors": []}
+{"name": "Aviones_propulsores_bimotores", "id": 7738471, "predecessors": [{"name": "Configuraciones_de_aeronaves", "id": 4400043}, {"name": "Aviación", "id": 282606}], "successors": []}

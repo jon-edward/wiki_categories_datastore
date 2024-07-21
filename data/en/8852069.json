@@ -1,1 +1,1 @@
-{"name": "Microphone_manufacturers", "id": 8852069, "predecessors": [{"name": "Music_industry", "id": 768384}], "successors": []}
+{"name": "Microphone_manufacturers", "id": 8852069, "predecessors": [{"name": "Microphones", "id": 3737136}, {"name": "Audio_electronics", "id": 11387266}], "successors": []}

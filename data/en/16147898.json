@@ -1,1 +1,1 @@
-{"name": "UNIVAC_unit_record_equipment", "id": 16147898, "predecessors": [{"name": "History_of_computing", "id": 1506937}, {"name": "Computer-related_introductions_in_1951", "id": 51893123}], "successors": [{"name": "Punched_card", "id": 30823961}]}
+{"name": "UNIVAC_unit_record_equipment", "id": 16147898, "predecessors": [{"name": "Data_processing", "id": 39764244}], "successors": [{"name": "Punched_card", "id": 30823961}]}

@@ -1,1 +1,1 @@
-{"name": "Proposed_space_stations", "id": 41022276, "predecessors": [{"name": "Proposed_spacecraft", "id": 2424350}, {"name": "Space_stations", "id": 693396}, {"name": "Planning", "id": 7297152}], "successors": [{"name": "Lunar_Gateway", "id": 59417178}, {"name": "Space_habitats", "id": 65146376}]}
+{"name": "Proposed_space_stations", "id": 41022276, "predecessors": [{"name": "Space_stations", "id": 693396}, {"name": "Planning", "id": 7297152}], "successors": [{"name": "Lunar_Gateway", "id": 59417178}, {"name": "Space_habitats", "id": 65146376}]}

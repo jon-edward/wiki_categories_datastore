@@ -1,1 +1,0 @@
-{"name": "Urologic_procedures", "id": 32486705, "predecessors": [{"name": "Medical_procedures", "id": 22735454}, {"name": "Urology", "id": 722711}], "successors": [{"name": "Male_genital_procedures", "id": 32518030}, {"name": "Urologic_surgery", "id": 32524781}, {"name": "Urologic_imaging", "id": 32625851}, {"name": "Prostatic_procedures", "id": 39471765}]}

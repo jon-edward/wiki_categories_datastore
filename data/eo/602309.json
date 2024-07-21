@@ -1,1 +1,1 @@
-{"name": "Transportaj_kompanioj", "id": 602309, "predecessors": [{"name": "Transporto", "id": 51301}, {"name": "Firmaoj", "id": 53508}, {"name": "Infrastrukturo", "id": 482043}], "successors": [{"name": "Aerospacaj_kompanioj_de_Usono", "id": 698574}]}
+{"name": "Transportaj_kompanioj", "id": 602309, "predecessors": [{"name": "Transporto", "id": 51301}, {"name": "Firmaoj", "id": 53508}, {"name": "Infrastrukturo", "id": 482043}], "successors": [{"name": "Privataj_kosmoflugaj_kompanioj", "id": 698577}, {"name": "Aerospacaj_kompanioj_de_Usono", "id": 698574}]}

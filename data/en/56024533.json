@@ -1,1 +1,1 @@
-{"name": "Attacks_on_bus_stations", "id": 56024533, "predecessors": [{"name": "Roads", "id": 780674}, {"name": "Road_infrastructure", "id": 2963113}, {"name": "Attacks_on_transport", "id": 55720981}], "successors": []}
+{"name": "Attacks_on_bus_stations", "id": 56024533, "predecessors": [{"name": "Intermodal_transport", "id": 28589652}, {"name": "Roads", "id": 780674}, {"name": "Attacks_on_transport", "id": 55720981}], "successors": []}

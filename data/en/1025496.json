@@ -1,1 +1,1 @@
-{"name": "Security_identifier_types", "id": 1025496, "predecessors": [{"name": "Financial_routing_standards", "id": 21376437}, {"name": "Unique_identifiers", "id": 15459257}], "successors": []}
+{"name": "Security_identifier_types", "id": 1025496, "predecessors": [{"name": "Market_data", "id": 31027834}, {"name": "Securities_(finance)", "id": 41030240}, {"name": "Unique_identifiers", "id": 15459257}], "successors": []}

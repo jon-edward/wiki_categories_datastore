@@ -1,1 +1,1 @@
-{"name": "Profesores_de_Turquía", "id": 6005394, "predecessors": [{"name": "Turcos", "id": 210319}, {"name": "Científicos_sociales", "id": 636571}], "successors": [{"name": "Profesores_de_la_Universidad_de_Estambul", "id": 6893627}]}
+{"name": "Profesores_de_Turquía", "id": 6005394, "predecessors": [{"name": "Científicos_sociales", "id": 636571}, {"name": "Ocupaciones", "id": 77994}], "successors": [{"name": "Profesores_de_la_Universidad_de_Estambul", "id": 6893627}]}

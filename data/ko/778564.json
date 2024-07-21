@@ -1,1 +1,1 @@
-{"name": "SF_전쟁_영화", "id": 778564, "predecessors": [{"name": "비디오", "id": 98469}, {"name": "전쟁_영화", "id": 54449}], "successors": []}
+{"name": "SF_전쟁_영화", "id": 778564, "predecessors": [{"name": "SF_영화", "id": 54519}, {"name": "전쟁_영화", "id": 54449}], "successors": []}

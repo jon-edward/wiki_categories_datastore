@@ -1,1 +1,1 @@
-{"name": "Torpedo_boat_classes", "id": 38714337, "predecessors": [{"name": "Military_boats", "id": 39219424}, {"name": "Ship_classes", "id": 730439}], "successors": [{"name": "Spica-class_torpedo_boats", "id": 38647673}]}
+{"name": "Torpedo_boat_classes", "id": 38714337, "predecessors": [{"name": "Patrol_vessels", "id": 3287460}], "successors": []}

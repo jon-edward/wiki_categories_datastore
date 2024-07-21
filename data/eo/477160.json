@@ -1,1 +1,1 @@
-{"name": "Francaj_prezidentaj_balotoj", "id": 477160, "predecessors": [{"name": "Balotoj_en_Francio", "id": 305840}, {"name": "Prezidantoj", "id": 248910}, {"name": "Institucioj_de_Francio", "id": 211099}], "successors": [{"name": "Kandidatoj_de_franca_prezidenta_baloto", "id": 477155}]}
+{"name": "Francaj_prezidentaj_balotoj", "id": 477160, "predecessors": [{"name": "Balotoj_en_Francio", "id": 305840}, {"name": "Prezidantoj", "id": 248910}, {"name": "Franca_socio", "id": 304671}], "successors": [{"name": "Kandidatoj_de_franca_prezidenta_baloto", "id": 477155}]}

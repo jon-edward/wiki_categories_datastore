@@ -1,1 +1,1 @@
-{"name": "Ear_piercing", "id": 24201260, "predecessors": [{"name": "Body_piercing", "id": 881552}], "successors": []}
+{"name": "Ear_piercing", "id": 24201260, "predecessors": [{"name": "Body_piercing", "id": 881552}, {"name": "Ear_procedures", "id": 32497208}], "successors": []}

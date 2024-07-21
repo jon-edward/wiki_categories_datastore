@@ -1,1 +1,1 @@
-{"name": "Teoria_kemio", "id": 83551, "predecessors": [{"name": "Fizika_kemio", "id": 83370}, {"name": "Kemio", "id": 21203}, {"name": "Inĝenierarto", "id": 209361}, {"name": "Filozofio_de_scienco", "id": 83368}], "successors": [{"name": "Kvantuma_kemio", "id": 83423}]}
+{"name": "Teoria_kemio", "id": 83551, "predecessors": [{"name": "Fizika_kemio", "id": 83370}, {"name": "Kemio", "id": 21203}, {"name": "Inĝenierarto", "id": 209361}, {"name": "Sciencaj_teorioj", "id": 437198}], "successors": [{"name": "Kvantuma_kemio", "id": 83423}]}

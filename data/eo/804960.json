@@ -1,1 +1,1 @@
-{"name": "Transporto_en_Saint-Étienne", "id": 804960, "predecessors": [{"name": "Transporto", "id": 51301}, {"name": "Transporto_en_Francio", "id": 211587}, {"name": "Etapaj_urboj_de_Tour_de_France", "id": 731338}], "successors": []}
+{"name": "Transporto_en_Saint-Étienne", "id": 804960, "predecessors": [{"name": "Saint-Étienne", "id": 505942}, {"name": "Transporto", "id": 51301}, {"name": "Transporto_en_Francio", "id": 211587}], "successors": []}

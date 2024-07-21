@@ -1,1 +1,1 @@
-{"name": "Mid-size_cars", "id": 3644516, "predecessors": [{"name": "Car_classifications", "id": 873684}], "successors": [{"name": "Grand_tourers", "id": 3169887}, {"name": "Compact_executive_cars", "id": 15082481}, {"name": "Mid-size_sport_utility_vehicles", "id": 39819747}]}
+{"name": "Mid-size_cars", "id": 3644516, "predecessors": [{"name": "Car_classifications", "id": 873684}], "successors": [{"name": "Grand_tourers", "id": 3169887}, {"name": "Mid-size_sport_utility_vehicles", "id": 39819747}]}

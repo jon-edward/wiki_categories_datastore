@@ -1,1 +1,1 @@
-{"name": "Kemiaj_firmaoj", "id": 303037, "predecessors": [{"name": "Kemia_industrio", "id": 625267}, {"name": "Industrio", "id": 108587}], "successors": [{"name": "Farmaciaj_firmaoj", "id": 303036}]}
+{"name": "Kemiaj_firmaoj", "id": 303037, "predecessors": [{"name": "Kemia_industrio", "id": 625267}, {"name": "Produktantaj_firmaoj", "id": 620675}], "successors": [{"name": "Farmaciaj_firmaoj", "id": 303036}]}

@@ -1,1 +1,1 @@
-{"name": "PDF_소프트웨어", "id": 2665571, "predecessors": [{"name": "페이지_기술_언어", "id": 47976}], "successors": []}
+{"name": "PDF_소프트웨어", "id": 2665571, "predecessors": [{"name": "멀티미디어_소프트웨어", "id": 500652}, {"name": "페이지_기술_언어", "id": 47976}], "successors": [{"name": "PDF_리더", "id": 104297}]}

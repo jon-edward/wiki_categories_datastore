@@ -1,1 +1,0 @@
-{"name": "Cytochrome_P450", "id": 1024785, "predecessors": [{"name": "EC_1.14", "id": 732756}, {"name": "Pharmacokinetics", "id": 726044}, {"name": "Hemoproteins", "id": 2038641}], "successors": [{"name": "Aromatase_inhibitors", "id": 11120591}, {"name": "CYP17A1_inhibitors", "id": 52733700}, {"name": "Lanosterol_14α-demethylase_inhibitors", "id": 54253931}]}

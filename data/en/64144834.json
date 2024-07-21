@@ -1,1 +1,1 @@
-{"name": "Zhengzhou_Metro_lines", "id": 64144834, "predecessors": [{"name": "Buildings_and_structures_in_Zhengzhou", "id": 38840388}, {"name": "Railway_lines_in_China", "id": 37504891}, {"name": "Rail_transport_in_Henan", "id": 21163033}], "successors": []}
+{"name": "Zhengzhou_Metro_lines", "id": 64144834, "predecessors": [{"name": "Railway_lines_in_China", "id": 37504891}, {"name": "Underground_rapid_transit_in_China", "id": 32579763}], "successors": []}

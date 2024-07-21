@@ -1,1 +1,1 @@
-{"name": "Sovetiaj_operkantistoj", "id": 605437, "predecessors": [{"name": "Sovetiaj_kantistoj", "id": 448894}, {"name": "Operkantistoj", "id": 93555}, {"name": "Muzikistoj", "id": 31762}], "successors": []}
+{"name": "Sovetiaj_operkantistoj", "id": 605437, "predecessors": [{"name": "Sovetiaj_kantistoj", "id": 448894}, {"name": "Operkantistoj", "id": 93555}, {"name": "Sovetiaj_muzikistoj", "id": 448889}], "successors": []}

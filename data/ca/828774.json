@@ -1,1 +1,1 @@
-{"name": "Èters", "id": 828774, "predecessors": [{"name": "Compostos_orgànics", "id": 27486}, {"name": "Drogues", "id": 152849}], "successors": [{"name": "Èsters_metílics", "id": 2100010}]}
+{"name": "Èters", "id": 828774, "predecessors": [{"name": "Compostos_orgànics", "id": 27486}, {"name": "Grups_funcionals", "id": 40622}, {"name": "Oxigen", "id": 816925}], "successors": []}

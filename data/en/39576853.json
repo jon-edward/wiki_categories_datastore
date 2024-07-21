@@ -1,1 +1,1 @@
-{"name": "Primate_diseases", "id": 39576853, "predecessors": [{"name": "Mammal_diseases", "id": 48666507}, {"name": "Primatology", "id": 3076626}], "successors": [{"name": "Human_diseases_and_disorders", "id": 48701151}]}
+{"name": "Primate_diseases", "id": 39576853, "predecessors": [{"name": "Mammal_diseases", "id": 48666507}, {"name": "Mammal_orders", "id": 43534992}], "successors": [{"name": "Human_diseases_and_disorders", "id": 48701151}]}

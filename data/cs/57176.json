@@ -1,1 +1,1 @@
-{"name": "Sovětské_filmy", "id": 57176, "predecessors": [{"name": "Film", "id": 4620}, {"name": "Sovětská_kultura", "id": 351033}], "successors": [{"name": "Sovětské_dramatické_filmy", "id": 917738}, {"name": "Sovětské_válečné_filmy", "id": 918350}]}
+{"name": "Sovětské_filmy", "id": 57176, "predecessors": [{"name": "Film", "id": 4620}, {"name": "Sovětská_kultura", "id": 351033}], "successors": [{"name": "Sovětské_dramatické_filmy", "id": 917738}, {"name": "Sovětské_válečné_filmy", "id": 918350}, {"name": "Sovětské_černobílé_filmy", "id": 1174791}]}

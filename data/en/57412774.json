@@ -1,1 +1,1 @@
-{"name": "Classification_of_obesity", "id": 57412774, "predecessors": [{"name": "Medical_classification", "id": 3498407}, {"name": "Obesity", "id": 2919604}], "successors": [{"name": "Medical_conditions_related_to_obesity", "id": 2919929}]}
+{"name": "Classification_of_obesity", "id": 57412774, "predecessors": [{"name": "Obesity", "id": 2919604}], "successors": [{"name": "Medical_conditions_related_to_obesity", "id": 2919929}]}

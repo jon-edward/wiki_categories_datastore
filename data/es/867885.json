@@ -1,1 +1,1 @@
-{"name": "Estática", "id": 867885, "predecessors": [{"name": "Dinámica", "id": 211351}], "successors": []}
+{"name": "Estática", "id": 867885, "predecessors": [{"name": "Dinámica", "id": 211351}, {"name": "Mecánica_clásica", "id": 639829}], "successors": []}

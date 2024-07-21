@@ -1,1 +1,1 @@
-{"name": "Chemical_properties", "id": 743292, "predecessors": [{"name": "Inquiry", "id": 21994999}], "successors": []}
+{"name": "Chemical_properties", "id": 743292, "predecessors": [{"name": "Phenomena", "id": 17321675}], "successors": [{"name": "Units_of_chemical_measurement", "id": 35409591}]}

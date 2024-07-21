@@ -1,1 +1,1 @@
-{"name": "Deaths_from_aneurysm", "id": 25159790, "predecessors": [{"name": "Deaths_from_bleeding", "id": 19629296}, {"name": "Deaths_from_cardiovascular_disease", "id": 68937676}], "successors": []}
+{"name": "Deaths_from_aneurysm", "id": 25159790, "predecessors": [{"name": "Deaths_from_bleeding", "id": 19629296}, {"name": "Deaths_from_cardiovascular_disease", "id": 68937676}], "successors": [{"name": "Deaths_from_aortic_aneurysm", "id": 22304462}, {"name": "Deaths_from_intracranial_aneurysm", "id": 48306795}]}

@@ -1,1 +1,1 @@
-{"name": "Pliocene_carnivorans", "id": 38280274, "predecessors": [{"name": "Extinct_carnivorans", "id": 28367404}], "successors": [{"name": "American_black_bears", "id": 62401522}]}
+{"name": "Pliocene_carnivorans", "id": 38280274, "predecessors": [{"name": "Prehistoric_mammals", "id": 862781}, {"name": "Extinct_carnivorans", "id": 28367404}], "successors": [{"name": "Pliocene_pinnipeds", "id": 48081694}, {"name": "American_black_bears", "id": 62401522}]}

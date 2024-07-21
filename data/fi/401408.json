@@ -1,1 +1,1 @@
-{"name": "Blogipalvelut", "id": 401408, "predecessors": [{"name": "Blogit", "id": 628860}, {"name": "World_Wide_Web", "id": 21526}], "successors": []}
+{"name": "Blogipalvelut", "id": 401408, "predecessors": [{"name": "Blogit", "id": 628860}, {"name": "World_Wide_Web", "id": 21526}], "successors": [{"name": "Twitter", "id": 1578265}]}

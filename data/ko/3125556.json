@@ -1,1 +1,1 @@
-{"name": "CAD_파일_포맷", "id": 3125556, "predecessors": [{"name": "컴퓨터_지원_설계", "id": 99530}, {"name": "파일_포맷", "id": 38407}, {"name": "그래픽_파일_포맷", "id": 38406}], "successors": []}
+{"name": "CAD_파일_포맷", "id": 3125556, "predecessors": [{"name": "컴퓨터_지원_설계", "id": 99530}, {"name": "그래픽_파일_포맷", "id": 38406}], "successors": []}

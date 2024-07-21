@@ -1,1 +1,1 @@
-{"name": "Fictional_programmers", "id": 33352549, "predecessors": [{"name": "Computer_programmers", "id": 5693862}], "successors": [{"name": "Fictional_hackers", "id": 3847038}]}
+{"name": "Fictional_programmers", "id": 33352549, "predecessors": [{"name": "Computer_programmers", "id": 5693862}, {"name": "People_in_information_technology", "id": 13714234}], "successors": [{"name": "Fictional_hackers", "id": 3847038}, {"name": "Fictional_software_engineers", "id": 49345765}]}

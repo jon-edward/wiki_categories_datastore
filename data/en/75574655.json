@@ -1,1 +1,1 @@
-{"name": "Paramilitary_police", "id": 75574655, "predecessors": [{"name": "Government_paramilitary_forces", "id": 26357291}, {"name": "Military_police", "id": 2268418}, {"name": "Law_enforcement", "id": 718211}], "successors": [{"name": "Gendarmerie", "id": 5183782}, {"name": "Police_tactical_units", "id": 71194535}]}
+{"name": "Paramilitary_police", "id": 75574655, "predecessors": [{"name": "Government_paramilitary_forces", "id": 26357291}, {"name": "Law_enforcement", "id": 718211}], "successors": [{"name": "Central_Armed_Police_Forces_of_India", "id": 37749554}]}

@@ -1,1 +1,1 @@
-{"name": "Appellate_review", "id": 3028732, "predecessors": [{"name": "Legal_procedure", "id": 11344816}], "successors": [{"name": "Appellate_courts", "id": 13209428}]}
+{"name": "Appellate_review", "id": 3028732, "predecessors": [{"name": "Legal_procedure", "id": 11344816}, {"name": "Justice", "id": 2388327}], "successors": [{"name": "Appellate_courts", "id": 13209428}, {"name": "United_States_appellate_procedure", "id": 36816449}]}

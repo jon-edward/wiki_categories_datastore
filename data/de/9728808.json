@@ -1,1 +1,1 @@
-{"name": "Pizza", "id": 9728808, "predecessors": [{"name": "Fast_Food", "id": 325778}, {"name": "Pizza_als_Thema", "id": 9728828}, {"name": "Speise_aus_Getreideprodukten", "id": 8523663}], "successors": []}
+{"name": "Pizza", "id": 9728808, "predecessors": [{"name": "Fast_Food", "id": 325778}, {"name": "Fladenbrot", "id": 6781883}, {"name": "Pizza_als_Thema", "id": 9728828}, {"name": "Speise_aus_Getreideprodukten", "id": 8523663}], "successors": []}

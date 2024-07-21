@@ -1,1 +1,1 @@
-{"name": "Raso_kaj_socio", "id": 434533, "predecessors": [{"name": "Demografio", "id": 201106}], "successors": [{"name": "Politiko_kaj_raso", "id": 571794}, {"name": "Etnoreligiaj_grupoj", "id": 447250}]}
+{"name": "Raso_kaj_socio", "id": 434533, "predecessors": [{"name": "Raso", "id": 434537}], "successors": [{"name": "Politiko_kaj_raso", "id": 571794}, {"name": "Etnoreligiaj_grupoj", "id": 447250}]}

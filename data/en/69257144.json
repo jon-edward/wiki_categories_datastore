@@ -1,1 +1,1 @@
-{"name": "Alpacas", "id": 69257144, "predecessors": [{"name": "Domesticated_animals", "id": 706779}, {"name": "Livestock", "id": 917009}], "successors": []}
+{"name": "Alpacas", "id": 69257144, "predecessors": [{"name": "Domesticated_animals", "id": 706779}, {"name": "Livestock", "id": 917009}, {"name": "Animals_and_humans", "id": 52196069}], "successors": []}

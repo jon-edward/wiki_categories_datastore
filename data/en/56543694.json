@@ -1,1 +1,1 @@
-{"name": "British_female_cross_country_runners", "id": 56543694, "predecessors": [{"name": "Athletic_sports", "id": 31210709}], "successors": []}
+{"name": "British_female_cross_country_runners", "id": 56543694, "predecessors": [{"name": "Running", "id": 847059}, {"name": "Long-distance_running", "id": 32886224}, {"name": "Athletics_in_the_United_Kingdom", "id": 3204483}], "successors": [{"name": "English_female_cross_country_runners", "id": 56543697}]}

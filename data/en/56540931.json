@@ -1,1 +1,1 @@
-{"name": "Mathematical_optimization_in_business", "id": 56540931, "predecessors": [{"name": "Mathematical_optimization", "id": 18956829}, {"name": "Operations_research", "id": 1008581}], "successors": [{"name": "Inventory_optimization", "id": 56516484}]}
+{"name": "Mathematical_optimization_in_business", "id": 56540931, "predecessors": [{"name": "Mathematical_optimization", "id": 18956829}, {"name": "Operations_research", "id": 1008581}], "successors": [{"name": "Travelling_salesman_problem", "id": 31111956}, {"name": "Inventory_optimization", "id": 56516484}]}

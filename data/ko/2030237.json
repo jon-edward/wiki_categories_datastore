@@ -1,1 +1,1 @@
-{"name": "영어_시인", "id": 2030237, "predecessors": [{"name": "영어", "id": 11683}, {"name": "시인", "id": 10460}], "successors": []}
+{"name": "영어_시인", "id": 2030237, "predecessors": [{"name": "문학_장르", "id": 141656}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Sulfate_esters", "id": 63043929, "predecessors": [{"name": "Esters", "id": 695881}, {"name": "Sulfates", "id": 698800}], "successors": [{"name": "Heparins", "id": 25898696}, {"name": "Glucosinolates", "id": 26515770}]}
+{"name": "Sulfate_esters", "id": 63043929, "predecessors": [{"name": "Sulfates", "id": 698800}, {"name": "Organosulfur_compounds", "id": 4497738}], "successors": [{"name": "Heparins", "id": 25898696}, {"name": "Glucosinolates", "id": 26515770}]}

@@ -1,1 +1,1 @@
-{"name": "Zakat", "id": 86273, "predecessors": [{"name": "Ekonomi_Islam", "id": 132742}, {"name": "Ibadah", "id": 134320}, {"name": "Rukun_Islam", "id": 132753}, {"name": "Etika", "id": 76153}], "successors": [{"name": "Penerima_Zakat", "id": 541847}]}
+{"name": "Zakat", "id": 86273, "predecessors": [{"name": "Cukai", "id": 27716}, {"name": "Ekonomi_Islam", "id": 132742}, {"name": "Ibadah", "id": 134320}, {"name": "Rukun_Islam", "id": 132753}, {"name": "Etika", "id": 76153}, {"name": "Fiqah", "id": 134385}], "successors": [{"name": "Penerima_Zakat", "id": 541847}]}

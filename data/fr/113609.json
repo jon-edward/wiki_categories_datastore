@@ -1,1 +1,1 @@
-{"name": "Bagne", "id": 113609, "predecessors": [{"name": "Camp_de_travail", "id": 2960286}, {"name": "Prison", "id": 86281}], "successors": [{"name": "Bagne_en_Guyane_française", "id": 2990791}, {"name": "Bagnard_en_Guyane_française", "id": 7621856}]}
+{"name": "Bagne", "id": 113609, "predecessors": [{"name": "Camp_de_travail", "id": 2960286}, {"name": "Histoire_thématique", "id": 127861}], "successors": [{"name": "Bagne_en_Guyane_française", "id": 2990791}, {"name": "Bagnard_en_Guyane_française", "id": 7621856}]}

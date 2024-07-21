@@ -1,1 +1,1 @@
-{"name": "HIV/AIDS_연구자", "id": 3069880, "predecessors": [{"name": "바이러스학자", "id": 472093}, {"name": "의학자", "id": 81318}, {"name": "HIV/AIDS", "id": 1309349}, {"name": "성병", "id": 50147}], "successors": []}
+{"name": "HIV/AIDS_연구자", "id": 3069880, "predecessors": [{"name": "바이러스학자", "id": 472093}, {"name": "의학자", "id": 81318}, {"name": "HIV/AIDS", "id": 1309349}, {"name": "감염병", "id": 34410}], "successors": []}

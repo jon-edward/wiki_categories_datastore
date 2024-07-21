@@ -1,1 +1,1 @@
-{"name": "자동차_수집가", "id": 1413729, "predecessors": [{"name": "수집", "id": 54768}], "successors": []}
+{"name": "자동차_수집가", "id": 1413729, "predecessors": [{"name": "자동차_관련_인물", "id": 1217453}, {"name": "자동차_문화", "id": 1488597}, {"name": "수집", "id": 54768}], "successors": []}

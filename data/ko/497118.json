@@ -1,1 +1,1 @@
-{"name": "쇼핑_텔레비전_네트워크", "id": 497118, "predecessors": [{"name": "유통", "id": 69553}], "successors": [{"name": "CJ오쇼핑", "id": 1802986}]}
+{"name": "쇼핑_텔레비전_네트워크", "id": 497118, "predecessors": [{"name": "유통", "id": 69553}, {"name": "텔레비전_네트워크", "id": 495334}], "successors": [{"name": "CJ오쇼핑", "id": 1802986}]}

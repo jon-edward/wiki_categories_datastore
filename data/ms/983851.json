@@ -1,1 +1,1 @@
-{"name": "Anatomi_tumbuhan", "id": 983851, "predecessors": [{"name": "Anatomi", "id": 48731}, {"name": "Morfologi_tumbuhan", "id": 662005}, {"name": "Botani", "id": 20176}], "successors": [{"name": "Bunga", "id": 35748}, {"name": "Sel_tumbuhan", "id": 969831}, {"name": "Kayu", "id": 985808}]}
+{"name": "Anatomi_tumbuhan", "id": 983851, "predecessors": [{"name": "Anatomi", "id": 48731}, {"name": "Morfologi_tumbuhan", "id": 662005}], "successors": [{"name": "Bunga", "id": 35748}, {"name": "Sel_tumbuhan", "id": 969831}, {"name": "Kayu", "id": 985808}]}

@@ -1,1 +1,1 @@
-{"name": "EPUB_readers", "id": 21787400, "predecessors": [{"name": "Ebooks", "id": 30859902}, {"name": "Electronic_paper_technology", "id": 6980297}], "successors": []}
+{"name": "EPUB_readers", "id": 21787400, "predecessors": [{"name": "Ebooks", "id": 30859902}, {"name": "Typesetting_software", "id": 696150}, {"name": "Electronic_paper_technology", "id": 6980297}], "successors": []}

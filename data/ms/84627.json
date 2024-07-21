@@ -1,1 +1,1 @@
-{"name": "Mineral", "id": 84627, "predecessors": [{"name": "Mineralogi", "id": 84628}, {"name": "Alam_semula_jadi", "id": 349461}, {"name": "Bahan", "id": 58300}, {"name": "Jirim", "id": 84644}], "successors": []}
+{"name": "Mineral", "id": 84627, "predecessors": [{"name": "Alam_semula_jadi", "id": 349461}, {"name": "Bahan", "id": 58300}, {"name": "Jirim", "id": 84644}], "successors": [{"name": "Permata", "id": 220180}, {"name": "Emas", "id": 84612}]}

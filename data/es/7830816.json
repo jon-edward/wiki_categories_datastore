@@ -1,1 +1,1 @@
-{"name": "Artistas_zoólogos", "id": 7830816, "predecessors": [{"name": "Dibujantes", "id": 135754}, {"name": "Ilustradores", "id": 106347}, {"name": "Zoología", "id": 55377}, {"name": "Artistas", "id": 459774}], "successors": [{"name": "Pintores_de_animales", "id": 10833783}]}
+{"name": "Artistas_zoólogos", "id": 7830816, "predecessors": [{"name": "Dibujantes", "id": 135754}, {"name": "Ilustradores", "id": 106347}, {"name": "Zoólogos", "id": 149253}, {"name": "Artistas", "id": 459774}], "successors": [{"name": "Pintores_de_animales", "id": 10833783}]}

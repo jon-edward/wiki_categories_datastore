@@ -1,1 +1,1 @@
-{"name": "Lion_tamers", "id": 63916100, "predecessors": [{"name": "Circuses", "id": 1216722}], "successors": []}
+{"name": "Lion_tamers", "id": 63916100, "predecessors": [{"name": "Animal_trainers", "id": 13948060}, {"name": "Circuses", "id": 1216722}], "successors": []}

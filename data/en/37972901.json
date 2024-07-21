@@ -1,1 +1,1 @@
-{"name": "Virgin_Books_books", "id": 37972901, "predecessors": [{"name": "Virgin_Group", "id": 1021911}], "successors": [{"name": "Virgin_New_Adventures", "id": 4208928}, {"name": "Virgin_Missing_Adventures", "id": 4210414}]}
+{"name": "Virgin_Books_books", "id": 37972901, "predecessors": [{"name": "Virgin_Group", "id": 1021911}, {"name": "Book_publishing_companies_of_the_United_Kingdom", "id": 3934574}], "successors": [{"name": "Virgin_New_Adventures", "id": 4208928}, {"name": "Virgin_Missing_Adventures", "id": 4210414}]}

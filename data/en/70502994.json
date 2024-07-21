@@ -1,1 +1,1 @@
-{"name": "Chemical_industry_in_France", "id": 70502994, "predecessors": [{"name": "Economy_of_France", "id": 1298598}], "successors": [{"name": "Chemical_companies_of_France", "id": 5776746}, {"name": "French_chemical_engineers", "id": 7599318}]}
+{"name": "Chemical_industry_in_France", "id": 70502994, "predecessors": [{"name": "Economy_of_France", "id": 1298598}, {"name": "Chemical_industry", "id": 15176982}], "successors": [{"name": "Chemical_companies_of_France", "id": 5776746}, {"name": "French_chemical_engineers", "id": 7599318}]}

@@ -1,1 +1,1 @@
-{"name": "Listoj_pri_Parizo", "id": 499399, "predecessors": [{"name": "Parizo", "id": 39076}, {"name": "Listoj_pri_Francio", "id": 466886}, {"name": "Francilio", "id": 268114}], "successors": []}
+{"name": "Listoj_pri_Parizo", "id": 499399, "predecessors": [{"name": "Listoj_pri_Francilio", "id": 497834}, {"name": "Parizo", "id": 39076}, {"name": "Listoj_pri_Francio", "id": 466886}], "successors": []}

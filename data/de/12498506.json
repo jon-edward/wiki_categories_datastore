@@ -1,1 +1,1 @@
-{"name": "Basketballspieler_(Rouen_Métropole_Basket)", "id": 12498506, "predecessors": [{"name": "Person_(Rouen)", "id": 9017543}, {"name": "Basketballspieler_(Frankreich)", "id": 1336860}], "successors": []}
+{"name": "Basketballspieler_(Rouen_Métropole_Basket)", "id": 12498506, "predecessors": [{"name": "Sport", "id": 235635}, {"name": "Basketballspieler_(Frankreich)", "id": 1336860}, {"name": "Person_(Frankreich)", "id": 6212798}], "successors": []}

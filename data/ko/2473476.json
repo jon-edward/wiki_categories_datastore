@@ -1,1 +1,1 @@
-{"name": "삼성_갤럭시_웨어러블", "id": 2473476, "predecessors": [{"name": "스마트워치", "id": 983251}], "successors": []}
+{"name": "삼성_갤럭시_웨어러블", "id": 2473476, "predecessors": [{"name": "삼성전자_제품", "id": 499528}, {"name": "스마트워치", "id": 983251}], "successors": []}

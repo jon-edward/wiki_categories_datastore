@@ -1,1 +1,1 @@
-{"name": "Engineering_professors_at_the_University_of_Cambridge", "id": 70707082, "predecessors": [{"name": "Professors_of_the_University_of_Cambridge", "id": 70687116}], "successors": [{"name": "Professors_of_engineering_(Cambridge)", "id": 70705041}]}
+{"name": "Engineering_professors_at_the_University_of_Cambridge", "id": 70707082, "predecessors": [{"name": "Engineering_academics", "id": 21122530}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Tourist_attractions_in_Tartu", "id": 48736910, "predecessors": [{"name": "Tartu", "id": 6588362}, {"name": "Tourist_attractions_in_Tartu_County", "id": 48737029}, {"name": "Tourism_in_Europe_by_country", "id": 59786114}], "successors": [{"name": "Museums_in_Tartu", "id": 41828041}]}
+{"name": "Tourist_attractions_in_Tartu", "id": 48736910, "predecessors": [{"name": "Tourism_in_Europe_by_country", "id": 59786114}], "successors": [{"name": "Museums_in_Tartu", "id": 41828041}]}

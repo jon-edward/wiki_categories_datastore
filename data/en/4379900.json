@@ -1,1 +1,1 @@
-{"name": "Railway_stations_in_Moscow", "id": 4379900, "predecessors": [{"name": "Buildings_and_structures_in_Moscow", "id": 3051357}, {"name": "Rail_transport_in_Moscow", "id": 68959136}], "successors": [{"name": "Moscow_Metro_stations", "id": 2486148}]}
+{"name": "Railway_stations_in_Moscow", "id": 4379900, "predecessors": [{"name": "Rail_transport_in_Moscow", "id": 68959136}], "successors": [{"name": "Moscow_Metro_stations", "id": 2486148}]}

@@ -1,1 +1,1 @@
-{"name": "Positivists", "id": 47240679, "predecessors": [{"name": "Analytic_philosophers", "id": 695750}], "successors": [{"name": "Vienna_Circle", "id": 699500}]}
+{"name": "Positivists", "id": 47240679, "predecessors": [{"name": "Analytic_philosophers", "id": 695750}, {"name": "Epistemologists", "id": 2033383}, {"name": "Positivism", "id": 17296074}], "successors": [{"name": "Vienna_Circle", "id": 699500}]}

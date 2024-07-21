@@ -1,1 +1,1 @@
-{"name": "Science_software_for_Windows", "id": 41510187, "predecessors": [{"name": "Educational_software_for_Windows", "id": 41511516}, {"name": "Science_software", "id": 4076421}, {"name": "Windows_software", "id": 978482}], "successors": []}
+{"name": "Science_software_for_Windows", "id": 41510187, "predecessors": [{"name": "Educational_software_for_Windows", "id": 41511516}, {"name": "Science_software", "id": 4076421}], "successors": [{"name": "Computer_algebra_system_software_for_Windows", "id": 41518478}]}

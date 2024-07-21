@@ -1,1 +1,1 @@
-{"name": "Resignations", "id": 74760634, "predecessors": [{"name": "Abdication", "id": 33900850}, {"name": "Changes_in_political_power", "id": 25812478}, {"name": "Termination_of_employment", "id": 16552514}], "successors": [{"name": "Abdication", "id": 33900850}]}
+{"name": "Resignations", "id": 74760634, "predecessors": [{"name": "Abdication", "id": 33900850}, {"name": "Changes_in_political_power", "id": 25812478}, {"name": "Political_science", "id": 693803}, {"name": "Termination_of_employment", "id": 16552514}], "successors": [{"name": "Abdication", "id": 33900850}]}

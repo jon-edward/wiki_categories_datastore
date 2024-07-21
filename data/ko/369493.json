@@ -1,1 +1,1 @@
-{"name": "난방", "id": 369493, "predecessors": [{"name": "HVAC", "id": 1113936}], "successors": []}
+{"name": "난방", "id": 369493, "predecessors": [{"name": "HVAC", "id": 1113936}, {"name": "가열", "id": 1853878}, {"name": "에너지_전환", "id": 687461}], "successors": []}

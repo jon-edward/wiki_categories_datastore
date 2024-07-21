@@ -1,1 +1,1 @@
-{"name": "Korean-language_education", "id": 18498297, "predecessors": [{"name": "Korean_language", "id": 919809}], "successors": []}
+{"name": "Korean-language_education", "id": 18498297, "predecessors": [{"name": "Korean_language", "id": 919809}, {"name": "Education", "id": 696763}], "successors": [{"name": "Korean_international_schools_in_China", "id": 46997853}]}

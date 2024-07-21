@@ -1,1 +1,1 @@
-{"name": "Hongos_venenosos", "id": 3768089, "predecessors": [{"name": "Fungi", "id": 930482}, {"name": "Toxicología", "id": 129853}, {"name": "Venenos", "id": 837255}], "successors": [{"name": "Micotoxinas", "id": 1035226}]}
+{"name": "Hongos_venenosos", "id": 3768089, "predecessors": [{"name": "Fungi", "id": 930482}, {"name": "Hongos_incomestibles", "id": 6497092}, {"name": "Micología", "id": 548170}, {"name": "Venenos", "id": 837255}], "successors": [{"name": "Micotoxinas", "id": 1035226}]}

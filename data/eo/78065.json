@@ -1,1 +1,1 @@
-{"name": "Komunumoj_de_Provinco_Agriĝento", "id": 78065, "predecessors": [{"name": "Komunumoj_de_Italio", "id": 67972}, {"name": "Geografio_de_Eŭropo", "id": 187203}], "successors": []}
+{"name": "Komunumoj_de_Provinco_Agriĝento", "id": 78065, "predecessors": [{"name": "Provinco_Agriĝento", "id": 78064}, {"name": "Komunumoj_de_Italio", "id": 67972}], "successors": [{"name": "Agriĝento", "id": 636203}]}

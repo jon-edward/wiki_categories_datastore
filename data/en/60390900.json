@@ -1,1 +1,1 @@
-{"name": "Fictional_murdered_people", "id": 60390900, "predecessors": [{"name": "Fiction_about_murder", "id": 41646915}, {"name": "Murder", "id": 1167833}], "successors": [{"name": "Fictional_murdered_children", "id": 74352599}]}
+{"name": "Fictional_murdered_people", "id": 60390900, "predecessors": [{"name": "Fiction_about_murder", "id": 41646915}, {"name": "Fictional_crime_victims", "id": 60871901}, {"name": "Murder_victims", "id": 1058968}], "successors": [{"name": "Fictional_murdered_children", "id": 74352599}]}

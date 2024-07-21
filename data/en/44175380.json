@@ -1,1 +1,1 @@
-{"name": "Mollusc_shells", "id": 44175380, "predecessors": [{"name": "Mollusc_anatomy", "id": 19921254}, {"name": "Animal_anatomy", "id": 3120301}], "successors": [{"name": "Seashells_in_art", "id": 29585664}, {"name": "Conchologists", "id": 1702947}]}
+{"name": "Mollusc_shells", "id": 44175380, "predecessors": [{"name": "Animal_anatomy", "id": 3120301}], "successors": [{"name": "Seashells_in_art", "id": 29585664}]}

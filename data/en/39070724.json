@@ -1,1 +1,1 @@
-{"name": "Philosophy_of_medicine", "id": 39070724, "predecessors": [{"name": "Medicine", "id": 692348}, {"name": "Inquiry", "id": 21994999}], "successors": [{"name": "Medical_ethics", "id": 692697}, {"name": "Evidence-based_medicine", "id": 6539046}]}
+{"name": "Philosophy_of_medicine", "id": 39070724, "predecessors": [{"name": "Medicine", "id": 692348}, {"name": "Philosophy_of_science", "id": 772270}], "successors": [{"name": "Medical_ethics", "id": 692697}, {"name": "Evidence-based_medicine", "id": 6539046}]}

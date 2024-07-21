@@ -1,1 +1,1 @@
-{"name": "Lost_sculptures", "id": 24231336, "predecessors": [{"name": "Lost_works_of_art", "id": 24231178}, {"name": "1_(number)", "id": 44538185}], "successors": [{"name": "Destroyed_sculptures", "id": 34538705}, {"name": "Colossus_of_Rhodes", "id": 72833236}]}
+{"name": "Lost_sculptures", "id": 24231336, "predecessors": [{"name": "Lost_works_of_art", "id": 24231178}, {"name": "Culture", "id": 694861}], "successors": [{"name": "Destroyed_sculptures", "id": 34538705}, {"name": "Colossus_of_Rhodes", "id": 72833236}]}

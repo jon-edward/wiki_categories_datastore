@@ -1,1 +1,1 @@
-{"name": "Subcontratación", "id": 2869345, "predecessors": [{"name": "Herramientas_de_gestión", "id": 324641}, {"name": "Recursos_humanos", "id": 439062}, {"name": "Trabajo", "id": 306157}], "successors": [{"name": "Teletrabajo", "id": 2804436}, {"name": "Crowdsourcing", "id": 7017699}]}
+{"name": "Subcontratación", "id": 2869345, "predecessors": [{"name": "Herramientas_de_gestión", "id": 324641}], "successors": [{"name": "Teletrabajo", "id": 2804436}, {"name": "Crowdsourcing", "id": 7017699}]}

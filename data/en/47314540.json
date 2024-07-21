@@ -1,1 +1,1 @@
-{"name": "Political_activists", "id": 47314540, "predecessors": [{"name": "Political_activism", "id": 6232412}, {"name": "Apes_in_popular_culture", "id": 12296576}], "successors": [{"name": "Civil_rights_activists", "id": 1184532}, {"name": "Alt-right_activists", "id": 66110034}]}
+{"name": "Political_activists", "id": 47314540, "predecessors": [{"name": "Political_activism", "id": 6232412}, {"name": "Politics", "id": 695027}, {"name": "Humans", "id": 1784082}], "successors": [{"name": "Civil_rights_activists", "id": 1184532}, {"name": "Alt-right_activists", "id": 66110034}]}

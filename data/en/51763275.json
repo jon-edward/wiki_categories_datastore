@@ -1,1 +1,1 @@
-{"name": "Mining_railways_in_Australia", "id": 51763275, "predecessors": [{"name": "Mining_railways", "id": 51763412}, {"name": "Industry_in_Australia", "id": 35018114}, {"name": "Industrial_railways", "id": 7662027}], "successors": []}
+{"name": "Mining_railways_in_Australia", "id": 51763275, "predecessors": [{"name": "Mining_railways", "id": 51763412}, {"name": "Rail_transport_in_Australia", "id": 1332705}, {"name": "Industrial_railways", "id": 7662027}], "successors": []}

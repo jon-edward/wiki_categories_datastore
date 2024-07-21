@@ -1,1 +1,1 @@
-{"name": "Medical_jurisprudence", "id": 24660679, "predecessors": [{"name": "Medicine_in_society", "id": 16705284}, {"name": "Science_and_law", "id": 3463166}], "successors": [{"name": "Health_law", "id": 1585045}]}
+{"name": "Medical_jurisprudence", "id": 24660679, "predecessors": [{"name": "Jurisprudence", "id": 7092216}, {"name": "Medicine_in_society", "id": 16705284}, {"name": "Science_and_law", "id": 3463166}], "successors": [{"name": "Forensic_science", "id": 1306118}, {"name": "Health_law", "id": 1585045}]}

@@ -1,1 +1,1 @@
-{"name": "Interior_designers", "id": 1000714, "predecessors": [{"name": "Interior_design", "id": 1000495}], "successors": [{"name": "Lighting_engineers", "id": 33130102}]}
+{"name": "Interior_designers", "id": 1000714, "predecessors": [{"name": "Interior_design", "id": 1000495}], "successors": [{"name": "Interior_design_firms", "id": 5574141}, {"name": "Lighting_engineers", "id": 33130102}]}

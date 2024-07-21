@@ -1,1 +1,1 @@
-{"name": "Seigneurie_bretonne", "id": 4161982, "predecessors": [{"name": "Histoire_de_Bretagne", "id": 103847}, {"name": "Histoire_du_Moyen_Âge", "id": 3552736}], "successors": [{"name": "Seigneurie_de_Machecoul", "id": 4888460}]}
+{"name": "Seigneurie_bretonne", "id": 4161982, "predecessors": [{"name": "Histoire_de_Bretagne", "id": 103847}, {"name": "Monarchie", "id": 87365}], "successors": [{"name": "Seigneurie_de_Machecoul", "id": 4888460}]}

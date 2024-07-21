@@ -1,1 +1,1 @@
-{"name": "Crossover_boxing_matches", "id": 71619096, "predecessors": [{"name": "Boxing_matches", "id": 870645}, {"name": "Sports_entertainment", "id": 4942315}], "successors": [{"name": "Crossover_YouTube_boxing_matches", "id": 75814853}]}
+{"name": "Crossover_boxing_matches", "id": 71619096, "predecessors": [{"name": "Sports_entertainment", "id": 4942315}], "successors": [{"name": "Crossover_YouTube_boxing_matches", "id": 75814853}]}

@@ -1,1 +1,1 @@
-{"name": "Dispensers", "id": 66332634, "predecessors": [{"name": "Containers", "id": 1047091}], "successors": [{"name": "Automated_teller_machines", "id": 41632446}]}
+{"name": "Dispensers", "id": 66332634, "predecessors": [{"name": "Containers", "id": 1047091}, {"name": "Equipment", "id": 3228046}], "successors": [{"name": "Automated_teller_machines", "id": 41632446}]}

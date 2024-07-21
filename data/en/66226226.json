@@ -1,1 +1,1 @@
-{"name": "2021_deaths", "id": 66226226, "predecessors": [{"name": "2020s_deaths", "id": 62686175}], "successors": [{"name": "Lists_of_deaths_in_2021", "id": 66226231}, {"name": "Victims_of_aviation_accidents_or_incidents_in_2021", "id": 66336377}, {"name": "2021_suicides", "id": 66519441}]}
+{"name": "2021_deaths", "id": 66226226, "predecessors": [{"name": "2020s_deaths", "id": 62686175}, {"name": "2021", "id": 23416494}], "successors": [{"name": "Lists_of_deaths_in_2021", "id": 66226231}, {"name": "Victims_of_aviation_accidents_or_incidents_in_2021", "id": 66336377}]}

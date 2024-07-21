@@ -1,1 +1,1 @@
-{"name": "이란의_항구_도시", "id": 774342, "predecessors": [{"name": "도시", "id": 11363}, {"name": "이란의_지리", "id": 31189}], "successors": []}
+{"name": "이란의_항구_도시", "id": 774342, "predecessors": [{"name": "이란의_도시", "id": 22368}, {"name": "도시", "id": 11363}, {"name": "이란의_지리", "id": 31189}, {"name": "지리", "id": 8922}], "successors": []}

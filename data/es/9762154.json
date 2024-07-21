@@ -1,1 +1,1 @@
-{"name": "Bases_de_datos_médicas", "id": 9762154, "predecessors": [{"name": "Informática_en_salud", "id": 5536760}], "successors": []}
+{"name": "Bases_de_datos_médicas", "id": 9762154, "predecessors": [{"name": "Bases_de_datos_biológicas", "id": 6409026}, {"name": "Informática_en_salud", "id": 5536760}], "successors": []}

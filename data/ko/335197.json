@@ -1,1 +1,1 @@
-{"name": "암스트래드_CPC_게임", "id": 335197, "predecessors": [{"name": "Z80_기반_가정용_컴퓨터", "id": 2623120}, {"name": "PC_게임", "id": 698618}], "successors": []}
+{"name": "암스트래드_CPC_게임", "id": 335197, "predecessors": [{"name": "Z80_기반_가정용_컴퓨터", "id": 2623120}, {"name": "가정용_컴퓨터", "id": 860257}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Drug_delivery_devices", "id": 5313659, "predecessors": [{"name": "Medical_devices", "id": 41242589}, {"name": "Pharmacology", "id": 717788}], "successors": [{"name": "Transdermal_patches", "id": 9473419}, {"name": "Insulin_delivery", "id": 75453978}]}
+{"name": "Drug_delivery_devices", "id": 5313659, "predecessors": [{"name": "Medical_devices", "id": 41242589}, {"name": "Pharmacology", "id": 717788}], "successors": [{"name": "Insulin_delivery", "id": 75453978}]}

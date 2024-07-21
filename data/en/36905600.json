@@ -1,1 +1,1 @@
-{"name": "Toei_tokusatsu_films", "id": 36905600, "predecessors": [{"name": "Toei_Company_films", "id": 32701568}, {"name": "Tokusatsu_films", "id": 2579930}], "successors": [{"name": "Kamen_Rider_films", "id": 19079634}]}
+{"name": "Toei_tokusatsu_films", "id": 36905600, "predecessors": [{"name": "Toei_Company_films", "id": 32701568}, {"name": "Toei_tokusatsu", "id": 36905657}, {"name": "Tokusatsu_films", "id": 2579930}], "successors": [{"name": "Kamen_Rider_films", "id": 19079634}]}

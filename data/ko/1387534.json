@@ -1,1 +1,1 @@
-{"name": "FC_샬케_04_경기", "id": 1387534, "predecessors": [{"name": "FC_샬케_04", "id": 384880}], "successors": []}
+{"name": "FC_샬케_04_경기", "id": 1387534, "predecessors": [{"name": "FC_샬케_04", "id": 384880}, {"name": "스포츠_경기", "id": 1074767}], "successors": []}

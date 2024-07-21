@@ -1,1 +1,1 @@
-{"name": "Lacertuloj", "id": 161590, "predecessors": [{"name": "Reptilioj", "id": 106172}], "successors": [{"name": "Varanedoj", "id": 201081}, {"name": "Gekedoj", "id": 201706}, {"name": "Agamedoj", "id": 259392}]}
+{"name": "Lacertuloj", "id": 161590, "predecessors": [{"name": "Reptilioj", "id": 106172}], "successors": [{"name": "Kordiledoj", "id": 201075}, {"name": "Lacertedoj", "id": 201080}, {"name": "Varanedoj", "id": 201081}, {"name": "Gekedoj", "id": 201706}]}

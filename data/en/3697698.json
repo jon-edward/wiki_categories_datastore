@@ -1,0 +1,1 @@
+{"name": "Statistical_tests", "id": 3697698, "predecessors": [{"name": "Statistical_hypothesis_testing", "id": 4861714}, {"name": "Tests", "id": 7058186}], "successors": [{"name": "Normality_tests", "id": 21393762}, {"name": "Statistical_tests_for_contingency_tables", "id": 52461421}, {"name": "Time_series_statistical_tests", "id": 52461775}]}

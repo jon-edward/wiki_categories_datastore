@@ -1,1 +1,1 @@
-{"name": "Indian_alcoholic_drinks", "id": 24686071, "predecessors": [{"name": "Alcohol_in_India", "id": 24591471}, {"name": "Indian_drink_brands", "id": 11273487}, {"name": "Indian_drinks", "id": 9723262}], "successors": [{"name": "Indian_distilled_drinks", "id": 24685914}, {"name": "United_Spirits_brands", "id": 47716426}]}
+{"name": "Indian_alcoholic_drinks", "id": 24686071, "predecessors": [{"name": "Alcohol_in_India", "id": 24591471}], "successors": [{"name": "Indian_distilled_drinks", "id": 24685914}, {"name": "United_Spirits_brands", "id": 47716426}]}

@@ -1,1 +1,1 @@
-{"name": "Food_historians", "id": 36341817, "predecessors": [{"name": "Food_writers", "id": 1500018}], "successors": []}
+{"name": "Food_historians", "id": 36341817, "predecessors": [{"name": "Cultural_historians", "id": 7434407}, {"name": "Food_writers", "id": 1500018}], "successors": []}

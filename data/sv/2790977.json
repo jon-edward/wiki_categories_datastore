@@ -1,1 +1,1 @@
-{"name": "Transport_i_Boston", "id": 2790977, "predecessors": [{"name": "Boston", "id": 322337}, {"name": "Massachusetts", "id": 97467}, {"name": "Politisk_geografi", "id": 339140}], "successors": []}
+{"name": "Transport_i_Boston", "id": 2790977, "predecessors": [{"name": "Boston", "id": 322337}, {"name": "Transport_i_Massachusetts", "id": 1271732}, {"name": "Politisk_geografi", "id": 339140}], "successors": []}

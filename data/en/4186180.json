@@ -1,1 +1,1 @@
-{"name": "Economic_simulation_board_games", "id": 4186180, "predecessors": [{"name": "Board_games", "id": 9205892}], "successors": [{"name": "Monopoly_(game)", "id": 6054499}]}
+{"name": "Economic_simulation_board_games", "id": 4186180, "predecessors": [{"name": "Economics_education", "id": 7339262}, {"name": "Board_games", "id": 9205892}], "successors": [{"name": "Monopoly_(game)", "id": 6054499}]}

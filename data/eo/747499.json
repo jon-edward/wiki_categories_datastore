@@ -1,1 +1,1 @@
-{"name": "Setlejoj_en_PPR_Slavkova_arbaro", "id": 747499, "predecessors": [{"name": "Protektitaj_areoj_en_Ĉeĥio", "id": 623616}, {"name": "Geomorfologiaj_tutaĵoj_en_Ĉeĥio", "id": 671673}], "successors": []}
+{"name": "Setlejoj_en_PPR_Slavkova_arbaro", "id": 747499, "predecessors": [{"name": "PPR_Slavkova_arbaro", "id": 726984}, {"name": "Protektitaj_areoj_en_Ĉeĥio", "id": 623616}], "successors": [{"name": "Pereintaj_setlejoj_en_PPR_Slavkova_arbaro", "id": 754881}]}

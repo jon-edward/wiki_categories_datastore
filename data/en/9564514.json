@@ -1,1 +1,1 @@
-{"name": "Technology_trade_associations", "id": 9564514, "predecessors": [{"name": "Trade_associations", "id": 27461932}], "successors": [{"name": "Technology_consortia", "id": 42689181}]}
+{"name": "Technology_trade_associations", "id": 9564514, "predecessors": [{"name": "Technology_organizations", "id": 42476503}, {"name": "Trade_associations", "id": 27461932}], "successors": [{"name": "Technology_consortia", "id": 42689181}]}

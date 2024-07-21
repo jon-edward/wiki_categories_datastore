@@ -1,1 +1,1 @@
-{"name": "Trials_in_France", "id": 32945543, "predecessors": [{"name": "Law_of_France", "id": 805562}, {"name": "Continents", "id": 788686}, {"name": "History_of_Europe", "id": 1673222}], "successors": [{"name": "Affair_of_the_Poisons", "id": 66539395}, {"name": "Witch_trials_in_France", "id": 67309979}]}
+{"name": "Trials_in_France", "id": 32945543, "predecessors": [{"name": "Law_of_France", "id": 805562}, {"name": "France", "id": 706228}], "successors": [{"name": "Affair_of_the_Poisons", "id": 66539395}, {"name": "Witch_trials_in_France", "id": 67309979}]}

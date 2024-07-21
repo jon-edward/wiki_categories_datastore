@@ -1,1 +1,1 @@
-{"name": "IBM_display_devices", "id": 18066181, "predecessors": [{"name": "Electronic_display_devices", "id": 76543159}], "successors": []}
+{"name": "IBM_display_devices", "id": 18066181, "predecessors": [{"name": "Electronic_display_devices", "id": 76543159}], "successors": [{"name": "IBM_computer_terminals", "id": 20631431}]}

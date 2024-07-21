@@ -1,1 +1,1 @@
-{"name": ".NET_terminology", "id": 67097188, "predecessors": [{"name": "Software_engineering_terminology", "id": 14527676}], "successors": [{"name": "Common_Language_Infrastructure", "id": 42453136}, {"name": ".NET_Framework_terminology", "id": 50642029}]}
+{"name": ".NET_terminology", "id": 67097188, "predecessors": [{"name": ".NET", "id": 44540431}, {"name": "Software_engineering_terminology", "id": 14527676}], "successors": [{"name": "Common_Language_Infrastructure", "id": 42453136}, {"name": ".NET_Framework_terminology", "id": 50642029}]}

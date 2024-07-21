@@ -1,1 +1,1 @@
-{"name": "Heads_of_local_government", "id": 28101362, "predecessors": [{"name": "Heads_of_government_of_non-sovereign_entities", "id": 14888225}, {"name": "Local_government", "id": 5177484}], "successors": [{"name": "Sheriffs", "id": 7823400}]}
+{"name": "Heads_of_local_government", "id": 28101362, "predecessors": [{"name": "Heads_of_government_of_non-sovereign_entities", "id": 14888225}, {"name": "Local_government", "id": 5177484}, {"name": "Political_occupations", "id": 1755568}, {"name": "Politics", "id": 695027}], "successors": [{"name": "Sheriffs", "id": 7823400}]}

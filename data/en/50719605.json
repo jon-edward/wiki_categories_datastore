@@ -1,1 +1,1 @@
-{"name": "Begging", "id": 50719605, "predecessors": [{"name": "Financial_crimes", "id": 12930030}, {"name": "Homelessness", "id": 1073565}, {"name": "Informal_occupations", "id": 15047225}, {"name": "Poverty", "id": 5577702}], "successors": [{"name": "Beggars", "id": 11880692}]}
+{"name": "Begging", "id": 50719605, "predecessors": [{"name": "Homelessness", "id": 1073565}, {"name": "Informal_occupations", "id": 15047225}, {"name": "Poverty", "id": 5577702}], "successors": [{"name": "Beggars", "id": 11880692}]}

@@ -1,1 +1,1 @@
-{"name": "Meksikaj_kantistoj", "id": 166522, "predecessors": [{"name": "Meksikaj_muzikaj_grupoj", "id": 278055}, {"name": "Kantistoj", "id": 52849}, {"name": "Meksikanoj", "id": 138660}], "successors": [{"name": "Kantoj_de_Selena", "id": 363187}]}
+{"name": "Meksikaj_kantistoj", "id": 166522, "predecessors": [{"name": "Meksikaj_muzikaj_grupoj", "id": 278055}, {"name": "Meksikaj_muzikistoj", "id": 166524}, {"name": "Kantistoj", "id": 52849}], "successors": [{"name": "Selena", "id": 356297}]}

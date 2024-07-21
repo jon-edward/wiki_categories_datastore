@@ -1,1 +1,1 @@
-{"name": "Mechanical_ventilation", "id": 33209770, "predecessors": [{"name": "Emergency_medical_procedures", "id": 19402490}, {"name": "Medical_treatments", "id": 694975}, {"name": "Respiratory_therapy", "id": 14298866}, {"name": "Medical_procedures", "id": 22735454}, {"name": "Medical_specialties", "id": 1449968}], "successors": []}
+{"name": "Mechanical_ventilation", "id": 33209770, "predecessors": [{"name": "Emergency_medical_procedures", "id": 19402490}, {"name": "Medical_treatments", "id": 694975}, {"name": "Respiratory_therapy", "id": 14298866}], "successors": []}

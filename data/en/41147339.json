@@ -1,1 +1,1 @@
-{"name": "Insurance_in_Canada", "id": 41147339, "predecessors": [{"name": "Insurance", "id": 873395}, {"name": "Economy_of_Canada", "id": 1611466}], "successors": [{"name": "Insurance_companies_of_Canada", "id": 2211194}, {"name": "Auto_insurance_in_Canada", "id": 73593338}]}
+{"name": "Insurance_in_Canada", "id": 41147339, "predecessors": [{"name": "Economy_of_Canada", "id": 1611466}], "successors": [{"name": "Insurance_companies_of_Canada", "id": 2211194}, {"name": "Auto_insurance_in_Canada", "id": 73593338}]}

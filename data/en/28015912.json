@@ -1,1 +1,1 @@
-{"name": "Yeasts_used_in_brewing", "id": 28015912, "predecessors": [{"name": "Brewing", "id": 14893672}], "successors": []}
+{"name": "Yeasts_used_in_brewing", "id": 28015912, "predecessors": [{"name": "Brewing", "id": 14893672}, {"name": "Yeasts", "id": 8541407}], "successors": []}

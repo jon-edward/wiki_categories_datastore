@@ -1,1 +1,1 @@
-{"name": "Rapid_transit_bridges", "id": 47422771, "predecessors": [{"name": "Rapid_transit", "id": 4286827}, {"name": "Railway_buildings_and_structures", "id": 41204871}], "successors": []}
+{"name": "Rapid_transit_bridges", "id": 47422771, "predecessors": [{"name": "Rapid_transit", "id": 4286827}, {"name": "Bridges", "id": 706304}], "successors": []}

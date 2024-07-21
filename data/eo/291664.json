@@ -1,1 +1,1 @@
-{"name": "Urina_sistemo", "id": 291664, "predecessors": [{"name": "Homa_anatomio", "id": 51457}, {"name": "Urologio", "id": 291665}], "successors": []}
+{"name": "Urina_sistemo", "id": 291664, "predecessors": [{"name": "Homa_anatomio", "id": 51457}, {"name": "Urologio", "id": 291665}], "successors": [{"name": "Urino", "id": 551695}]}

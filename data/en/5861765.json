@@ -1,1 +1,1 @@
-{"name": "Jewellery_designers", "id": 5861765, "predecessors": [{"name": "Jewellers", "id": 751370}], "successors": []}
+{"name": "Jewellery_designers", "id": 5861765, "predecessors": [{"name": "Jewellers", "id": 751370}, {"name": "Jewellery", "id": 805647}], "successors": []}

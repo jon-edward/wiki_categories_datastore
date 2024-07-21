@@ -1,1 +1,1 @@
-{"name": "Kasteloj_en_Hungario", "id": 525063, "predecessors": [{"name": "Kasteloj", "id": 39184}, {"name": "Hungario", "id": 30647}, {"name": "Konstruaĵoj_laŭ_tipoj", "id": 303445}], "successors": [{"name": "Kasteloj_en_Budapeŝto", "id": 525525}]}
+{"name": "Kasteloj_en_Hungario", "id": 525063, "predecessors": [{"name": "Kasteloj_en_Eŭropo", "id": 614339}, {"name": "Kasteloj", "id": 39184}, {"name": "Hungario", "id": 30647}], "successors": [{"name": "Kasteloj_en_Budapeŝto", "id": 525525}]}

@@ -1,1 +1,1 @@
-{"name": "광_디스크_저작_소프트웨어", "id": 1602781, "predecessors": [{"name": "CD", "id": 124432}, {"name": "DVD", "id": 120708}], "successors": []}
+{"name": "광_디스크_저작_소프트웨어", "id": 1602781, "predecessors": [{"name": "CD", "id": 124432}, {"name": "DVD", "id": 120708}, {"name": "멀티미디어_소프트웨어", "id": 500652}], "successors": []}

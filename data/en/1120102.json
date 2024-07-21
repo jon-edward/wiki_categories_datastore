@@ -1,1 +1,0 @@
-{"name": "Elliptic_curves", "id": 1120102, "predecessors": [{"name": "Algebraic_curves", "id": 1114053}, {"name": "Elliptic_functions", "id": 1120101}], "successors": [{"name": "Elliptic_curve_cryptography", "id": 26325963}]}

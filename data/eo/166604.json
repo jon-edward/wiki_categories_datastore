@@ -1,1 +1,1 @@
-{"name": "Batalveturiloj", "id": 166604, "predecessors": [{"name": "Motoraj_veturiloj", "id": 282140}, {"name": "Vetureblaj_maŝinoj", "id": 278815}, {"name": "Armiloj", "id": 40678}], "successors": [{"name": "Tankoj", "id": 140562}]}
+{"name": "Batalveturiloj", "id": 166604, "predecessors": [{"name": "Motoraj_veturiloj", "id": 282140}, {"name": "Vetureblaj_maŝinoj", "id": 278815}, {"name": "Armiloj", "id": 40678}], "successors": [{"name": "Tankoj", "id": 140562}, {"name": "Kirasitaj_transportiloj", "id": 282154}]}

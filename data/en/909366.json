@@ -1,1 +1,1 @@
-{"name": "Aviation_authorities", "id": 909366, "predecessors": [{"name": "Aviation_safety_organizations", "id": 75000001}, {"name": "Licensing_organizations", "id": 7721287}], "successors": [{"name": "International_Civil_Aviation_Organization", "id": 8583135}, {"name": "Civil_aviation_authorities", "id": 15381456}]}
+{"name": "Aviation_authorities", "id": 909366, "predecessors": [{"name": "Aviation_safety_organizations", "id": 75000001}, {"name": "Licensing_organizations", "id": 7721287}], "successors": [{"name": "International_Civil_Aviation_Organization", "id": 8583135}]}

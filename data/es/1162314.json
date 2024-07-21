@@ -1,1 +1,1 @@
-{"name": "Compuestos_de_potasio", "id": 1162314, "predecessors": [{"name": "Potasio", "id": 4280340}, {"name": "Elementos_químicos", "id": 74308}, {"name": "Sales", "id": 209662}], "successors": []}
+{"name": "Compuestos_de_potasio", "id": 1162314, "predecessors": [{"name": "Potasio", "id": 4280340}, {"name": "Compuestos_químicos", "id": 112512}, {"name": "Sales", "id": 209662}], "successors": []}

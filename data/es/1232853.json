@@ -1,1 +1,1 @@
-{"name": "Entornos_de_desarrollo_integrados_para_Linux", "id": 1232853, "predecessors": [{"name": "Entornos_de_desarrollo_integrados", "id": 210890}, {"name": "Software_para_Linux", "id": 1115149}], "successors": [{"name": "Eclipse", "id": 1082518}]}
+{"name": "Entornos_de_desarrollo_integrados_para_Linux", "id": 1232853, "predecessors": [{"name": "Software_para_Linux", "id": 1115149}], "successors": [{"name": "Eclipse", "id": 1082518}]}

@@ -1,1 +1,1 @@
-{"name": "Mu-opioid_receptor_agonists", "id": 719173, "predecessors": [{"name": "Euphoriants", "id": 25578646}, {"name": "Opioids", "id": 719361}], "successors": [{"name": "Morphine", "id": 35026059}]}
+{"name": "Mu-opioid_receptor_agonists", "id": 719173, "predecessors": [{"name": "Euphoriants", "id": 25578646}, {"name": "G_protein-coupled_receptors", "id": 719555}], "successors": [{"name": "Morphine", "id": 35026059}]}

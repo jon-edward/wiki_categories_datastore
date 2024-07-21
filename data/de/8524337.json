@@ -1,1 +1,1 @@
-{"name": "Huf", "id": 8524337, "predecessors": [{"name": "Medizin", "id": 236137}], "successors": [{"name": "Huferkrankung", "id": 8524406}]}
+{"name": "Huf", "id": 8524337, "predecessors": [{"name": "Medizin", "id": 236137}], "successors": [{"name": "Hufbeschlag", "id": 8524344}, {"name": "Huferkrankung", "id": 8524406}]}

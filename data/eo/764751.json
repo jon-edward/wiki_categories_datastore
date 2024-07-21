@@ -1,1 +1,1 @@
-{"name": "Fervojaj_stacioj_en_Luganska_provinco", "id": 764751, "predecessors": [{"name": "Luganska_provinco", "id": 531599}, {"name": "Provincoj_de_Ukrainio", "id": 260928}], "successors": [{"name": "Fervojaj_stacioj_en_Lisiĉansko", "id": 772917}]}
+{"name": "Fervojaj_stacioj_en_Luganska_provinco", "id": 764751, "predecessors": [{"name": "Transporto_en_Luganska_provinco", "id": 764725}, {"name": "Luganska_provinco", "id": 531599}, {"name": "Provincoj_de_Ukrainio", "id": 260928}], "successors": [{"name": "Fervojaj_stacioj_en_Lisiĉansko", "id": 772917}]}

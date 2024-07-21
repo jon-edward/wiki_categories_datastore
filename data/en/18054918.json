@@ -1,1 +1,1 @@
-{"name": "Solar_architecture", "id": 18054918, "predecessors": [{"name": "Sustainable_building", "id": 13411511}], "successors": []}
+{"name": "Solar_architecture", "id": 18054918, "predecessors": [{"name": "Solar_energy", "id": 6021846}, {"name": "Sustainable_building", "id": 13411511}], "successors": [{"name": "Solar_design", "id": 4058466}]}

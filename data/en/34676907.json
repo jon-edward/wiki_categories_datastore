@@ -1,1 +1,1 @@
-{"name": "Military_maintenance", "id": 34676907, "predecessors": [{"name": "Maintenance", "id": 6173101}, {"name": "Military_logistics", "id": 2734200}], "successors": [{"name": "Royal_Electrical_and_Mechanical_Engineers", "id": 34258093}]}
+{"name": "Military_maintenance", "id": 34676907, "predecessors": [{"name": "Maintenance", "id": 6173101}], "successors": [{"name": "Royal_Electrical_and_Mechanical_Engineers", "id": 34258093}]}

@@ -1,1 +1,1 @@
-{"name": "Penyakit_kulat", "id": 1006622, "predecessors": [{"name": "Kulat", "id": 96423}, {"name": "Mikologi", "id": 1006623}, {"name": "Penyakit_berjangkit", "id": 46517}], "successors": [{"name": "Antikulat", "id": 1156098}]}
+{"name": "Penyakit_kulat", "id": 1006622, "predecessors": [{"name": "Kulat", "id": 96423}, {"name": "Penyakit_berjangkit", "id": 46517}], "successors": [{"name": "Antikulat", "id": 1156098}]}

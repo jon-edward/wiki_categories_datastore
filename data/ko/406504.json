@@ -1,1 +1,1 @@
-{"name": "네이버_웹툰", "id": 406504, "predecessors": [{"name": "네이버", "id": 82449}], "successors": [{"name": "완결된_네이버_웹툰", "id": 2549081}]}
+{"name": "네이버_웹툰", "id": 406504, "predecessors": [{"name": "웹_만화_연재처", "id": 1364049}, {"name": "웹툰", "id": 146214}], "successors": []}

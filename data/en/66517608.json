@@ -1,1 +1,0 @@
-{"name": "Aircraft_systems", "id": 66517608, "predecessors": [{"name": "Aircraft", "id": 694926}], "successors": [{"name": "Avionics", "id": 1013341}, {"name": "Aircraft_emergency_systems", "id": 32845345}, {"name": "Flight_control_systems", "id": 70545365}]}

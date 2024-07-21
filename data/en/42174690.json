@@ -1,1 +1,1 @@
-{"name": "Individual_crowns", "id": 42174690, "predecessors": [{"name": "Individual_items_of_jewellery", "id": 42174779}, {"name": "1_(number)", "id": 44538185}], "successors": [{"name": "Medieval_crowns", "id": 45408468}, {"name": "Crown_of_thorns", "id": 74042680}]}
+{"name": "Individual_crowns", "id": 42174690, "predecessors": [{"name": "Crowns_(headgear)", "id": 43148348}, {"name": "Individual_items_of_jewellery", "id": 42174779}, {"name": "Hats", "id": 750958}], "successors": [{"name": "Medieval_crowns", "id": 45408468}, {"name": "Crown_of_thorns", "id": 74042680}]}

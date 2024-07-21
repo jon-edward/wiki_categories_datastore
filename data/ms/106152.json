@@ -1,1 +1,1 @@
-{"name": "Kelab_bola_sepak_Jerman", "id": 106152, "predecessors": [{"name": "Kelab_bola_sepak", "id": 104620}, {"name": "Bola_sepak", "id": 17232}], "successors": []}
+{"name": "Kelab_bola_sepak_Jerman", "id": 106152, "predecessors": [{"name": "Kelab_bola_sepak", "id": 104620}, {"name": "Bola_sepak", "id": 17232}], "successors": [{"name": "Pengurus_FC_Bayern_Munich", "id": 1163799}]}

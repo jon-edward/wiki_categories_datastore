@@ -1,1 +1,1 @@
-{"name": "Chiptune_musicians", "id": 10705223, "predecessors": [{"name": "Demoscene", "id": 896561}], "successors": [{"name": "Tracker_musicians", "id": 5638663}, {"name": "Chiptune_musical_groups", "id": 45718077}]}
+{"name": "Chiptune_and_tracker_musicians", "id": 10705223, "predecessors": [{"name": "Video_game_musicians", "id": 9569262}, {"name": "Demoscene", "id": 896561}], "successors": [{"name": "Chiptune_musical_groups", "id": 45718077}]}

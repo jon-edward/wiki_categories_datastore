@@ -1,1 +1,1 @@
-{"name": "Bâtiment_à_Lisbonne", "id": 4850879, "predecessors": [{"name": "Architecture", "id": 81442}, {"name": "Architecture_au_Portugal", "id": 5119865}], "successors": [{"name": "Musée_à_Lisbonne", "id": 4850911}, {"name": "Église_à_Lisbonne", "id": 5984451}]}
+{"name": "Bâtiment_à_Lisbonne", "id": 4850879, "predecessors": [{"name": "Architecture", "id": 81442}, {"name": "Bâtiment", "id": 270001}], "successors": [{"name": "Musée_à_Lisbonne", "id": 4850911}, {"name": "Église_à_Lisbonne", "id": 5984451}]}

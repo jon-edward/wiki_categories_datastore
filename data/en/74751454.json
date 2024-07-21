@@ -1,1 +1,1 @@
-{"name": "Infomercial_pitchmen", "id": 74751454, "predecessors": [{"name": "Infomercials", "id": 27871955}, {"name": "Salespeople", "id": 742620}, {"name": "Broadcasting_occupations", "id": 21320237}], "successors": []}
+{"name": "Infomercial_pitchmen", "id": 74751454, "predecessors": [{"name": "Salespeople", "id": 742620}, {"name": "Human_communication", "id": 709574}], "successors": []}

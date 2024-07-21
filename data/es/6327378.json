@@ -1,1 +1,1 @@
-{"name": "Personajes_de_Toy_Story", "id": 6327378, "predecessors": [{"name": "Toy_Story", "id": 3386450}, {"name": "Personajes_de_dibujos_animados", "id": 69230}], "successors": []}
+{"name": "Personajes_de_Toy_Story", "id": 6327378, "predecessors": [{"name": "Personajes_de_cine", "id": 396864}, {"name": "Toy_Story", "id": 3386450}, {"name": "Personajes_animados_de_Disney", "id": 10577707}], "successors": []}

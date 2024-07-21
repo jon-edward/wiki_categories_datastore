@@ -1,1 +1,1 @@
-{"name": "Osako", "id": 517704, "predecessors": [{"name": "Gubernio_Osaka", "id": 341968}, {"name": "Urboj_de_Gubernio_Osaka", "id": 440778}, {"name": "Honŝuo", "id": 207009}], "successors": [{"name": "Kvartaloj_de_Osako", "id": 430565}]}
+{"name": "Osako", "id": 517704, "predecessors": [{"name": "Gubernio_Osaka", "id": 341968}, {"name": "Kansajo", "id": 318308}, {"name": "Urboj_de_Gubernio_Osaka", "id": 440778}], "successors": [{"name": "Kvartaloj_de_Osako", "id": 430565}]}

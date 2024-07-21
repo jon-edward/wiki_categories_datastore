@@ -1,1 +1,1 @@
-{"name": "Insect_products", "id": 3135998, "predecessors": [{"name": "Animal_products", "id": 2304680}, {"name": "Agriculture_by_type", "id": 31038144}], "successors": [{"name": "Silk", "id": 1723621}, {"name": "Bee_products", "id": 3136015}]}
+{"name": "Insect_products", "id": 3135998, "predecessors": [{"name": "Animal_products", "id": 2304680}, {"name": "Animals_and_humans", "id": 52196069}], "successors": [{"name": "Silk", "id": 1723621}, {"name": "Bee_products", "id": 3136015}]}

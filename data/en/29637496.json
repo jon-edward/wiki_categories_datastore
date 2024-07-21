@@ -1,1 +1,1 @@
-{"name": "Aerospace_materials", "id": 29637496, "predecessors": [{"name": "Aerospace_engineering", "id": 717565}], "successors": []}
+{"name": "Aerospace_materials", "id": 29637496, "predecessors": [{"name": "Aerospace_engineering", "id": 717565}, {"name": "Artificial_materials", "id": 51591971}], "successors": []}

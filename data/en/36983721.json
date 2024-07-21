@@ -1,1 +1,1 @@
-{"name": "Cycle_retailers", "id": 36983721, "predecessors": [{"name": "Bicycles", "id": 23352208}, {"name": "Retailers_by_type_of_merchandise_sold", "id": 55586528}, {"name": "Automotive_businesspeople", "id": 65826195}], "successors": []}
+{"name": "Cycle_retailers", "id": 36983721, "predecessors": [{"name": "Bicycles", "id": 23352208}, {"name": "Automotive_businesspeople", "id": 65826195}], "successors": []}

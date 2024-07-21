@@ -1,1 +1,1 @@
-{"name": "Soil_erosion", "id": 52011193, "predecessors": [{"name": "Agronomy", "id": 2298488}, {"name": "Environmental_issues_with_soil", "id": 52208825}, {"name": "Intensive_farming", "id": 14593990}, {"name": "Scoutcraft", "id": 7069257}, {"name": "Soil_science", "id": 989190}], "successors": []}
+{"name": "Soil_erosion", "id": 52011193, "predecessors": [{"name": "Environmental_issues_with_soil", "id": 52208825}, {"name": "Intensive_farming", "id": 14593990}, {"name": "Scoutcraft", "id": 7069257}], "successors": []}

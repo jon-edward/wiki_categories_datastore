@@ -1,1 +1,1 @@
-{"name": "Rural_electrification", "id": 11274951, "predecessors": [{"name": "Electrification", "id": 31355186}, {"name": "Rural_community_development", "id": 7042395}, {"name": "Rural_geography", "id": 4325785}], "successors": []}
+{"name": "Rural_electrification", "id": 11274951, "predecessors": [{"name": "Electrification", "id": 31355186}, {"name": "Rural_community_development", "id": 7042395}, {"name": "Rural_economics", "id": 20570566}, {"name": "Rural_geography", "id": 4325785}], "successors": []}

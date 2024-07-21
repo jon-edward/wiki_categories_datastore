@@ -1,1 +1,1 @@
-{"name": "Anti-Czech_sentiment", "id": 58857691, "predecessors": [{"name": "Anti-European_sentiment", "id": 53766387}, {"name": "Anti-Slavic_sentiment", "id": 45680207}, {"name": "Anti-national_sentiment", "id": 3856641}, {"name": "Countries_in_Europe", "id": 37691805}], "successors": []}
+{"name": "Anti-Czech_sentiment", "id": 58857691, "predecessors": [{"name": "Anti-European_sentiment", "id": 53766387}, {"name": "Anti-Slavic_sentiment", "id": 45680207}, {"name": "Anti-national_sentiment", "id": 3856641}], "successors": []}

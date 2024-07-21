@@ -1,1 +1,1 @@
-{"name": "Comida_callejera", "id": 5358867, "predecessors": [{"name": "Calles", "id": 155790}, {"name": "Gastronomía", "id": 51198}, {"name": "Platos_preparados", "id": 8535889}], "successors": [{"name": "Sándwiches", "id": 168066}, {"name": "Tacos", "id": 4382281}, {"name": "Arepa", "id": 7414773}]}
+{"name": "Comida_callejera", "id": 5358867, "predecessors": [{"name": "Gastronomía", "id": 51198}, {"name": "Platos_preparados", "id": 8535889}], "successors": [{"name": "Sándwiches", "id": 168066}, {"name": "Tacos", "id": 4382281}, {"name": "Arepa", "id": 7414773}]}

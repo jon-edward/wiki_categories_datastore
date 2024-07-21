@@ -1,1 +1,1 @@
-{"name": "Skiistoj", "id": 179696, "predecessors": [{"name": "Skiado", "id": 413955}, {"name": "Sporto", "id": 26443}], "successors": [{"name": "Skisaltistoj", "id": 675994}]}
+{"name": "Skiistoj", "id": 179696, "predecessors": [{"name": "Skiado", "id": 413955}, {"name": "Profesioj_rilataj_al_sporto", "id": 458306}], "successors": [{"name": "Skisaltistoj", "id": 675994}, {"name": "Ĉeĥaj_skikuradistoj", "id": 411610}]}

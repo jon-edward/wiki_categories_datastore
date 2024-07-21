@@ -1,1 +1,1 @@
-{"name": "Cervantiste", "id": 16231271, "predecessors": [{"name": "Critique_littéraire", "id": 530417}, {"name": "Spécialiste_du_Siècle_d'or_espagnol", "id": 5118463}, {"name": "Genre_et_forme_littéraire", "id": 160278}], "successors": []}
+{"name": "Cervantiste", "id": 16231271, "predecessors": [{"name": "Critique_littéraire", "id": 530417}, {"name": "Miguel_de_Cervantes", "id": 5234179}, {"name": "Spécialiste_du_Siècle_d'or_espagnol", "id": 5118463}], "successors": []}

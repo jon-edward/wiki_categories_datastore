@@ -1,1 +1,1 @@
-{"name": "Italian-language_literature", "id": 3967619, "predecessors": [{"name": "Italian_language", "id": 1203381}], "successors": [{"name": "Italian-language_writers", "id": 26256031}, {"name": "Italian-language_plays", "id": 75864140}]}
+{"name": "Italian-language_literature", "id": 3967619, "predecessors": [{"name": "Italian_language", "id": 1203381}, {"name": "Literature_by_language", "id": 2995394}], "successors": [{"name": "Italian-language_writers", "id": 26256031}, {"name": "Italian-language_plays", "id": 75864140}]}

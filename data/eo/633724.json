@@ -1,1 +1,1 @@
-{"name": "Usonaj_televidaj_verkistoj", "id": 633724, "predecessors": [{"name": "Usonaj_scenaristoj", "id": 538529}, {"name": "Usonaj_televidistoj", "id": 584387}, {"name": "Kino", "id": 43019}], "successors": []}
+{"name": "Usonaj_televidaj_verkistoj", "id": 633724, "predecessors": [{"name": "Usonaj_scenaristoj", "id": 538529}, {"name": "Usonaj_televidistoj", "id": 584387}, {"name": "Scenaristoj", "id": 253488}], "successors": []}

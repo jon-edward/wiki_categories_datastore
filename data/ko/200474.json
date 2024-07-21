@@ -1,1 +1,1 @@
-{"name": "설정_파일", "id": 200474, "predecessors": [{"name": "데이터_직렬화_포맷", "id": 93100}], "successors": []}
+{"name": "설정_파일", "id": 200474, "predecessors": [{"name": "데이터_직렬화_포맷", "id": 93100}, {"name": "시스템_관리", "id": 790140}], "successors": []}

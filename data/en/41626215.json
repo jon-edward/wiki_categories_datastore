@@ -1,1 +1,1 @@
-{"name": "Monotypic_algae_genera", "id": 41626215, "predecessors": [{"name": "Monotypic_genera", "id": 17768223}], "successors": [{"name": "Monotypic_brown_algae_genera", "id": 47993951}]}
+{"name": "Monotypic_algae_genera", "id": 41626215, "predecessors": [{"name": "Algae", "id": 1460643}], "successors": [{"name": "Monotypic_brown_algae_genera", "id": 47993951}]}

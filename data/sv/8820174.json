@@ -1,1 +1,1 @@
-{"name": "Europavägar_i_Rumänien", "id": 8820174, "predecessors": [{"name": "Vägar", "id": 73795}, {"name": "Europavägar", "id": 61486}], "successors": []}
+{"name": "Europavägar_i_Rumänien", "id": 8820174, "predecessors": [{"name": "Vägar", "id": 73795}, {"name": "Europavägar", "id": 61486}], "successors": [{"name": "E60", "id": 8863196}, {"name": "E70", "id": 8863201}, {"name": "E79", "id": 8863449}]}

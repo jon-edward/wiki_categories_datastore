@@ -1,1 +1,1 @@
-{"name": "Wii_U", "id": 5399053, "predecessors": [{"name": "Videoconsolas_de_Nintendo", "id": 1663107}, {"name": "Videoconsolas_de_octava_generación", "id": 4828157}], "successors": [{"name": "Videojuegos_para_Wii_U", "id": 4850213}, {"name": "Videojuegos_para_Wii_Wheel", "id": 9439745}]}
+{"name": "Wii_U", "id": 5399053, "predecessors": [{"name": "Videoconsolas_de_Nintendo", "id": 1663107}], "successors": [{"name": "Videojuegos_para_Wii_U", "id": 4850213}, {"name": "Videojuegos_para_Wii_Wheel", "id": 9439745}]}

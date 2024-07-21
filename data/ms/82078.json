@@ -1,1 +1,1 @@
-{"name": "Sibernetik", "id": 82078, "predecessors": [{"name": "Matematik_gunaan", "id": 76484}, {"name": "Bahan", "id": 58300}, {"name": "Disiplin_akademik", "id": 75960}, {"name": "Sains", "id": 8013}], "successors": [{"name": "Semiotik", "id": 82077}]}
+{"name": "Sibernetik", "id": 82078, "predecessors": [{"name": "Bahan", "id": 58300}, {"name": "Disiplin_akademik", "id": 75960}, {"name": "Sains", "id": 8013}], "successors": [{"name": "Semiotik", "id": 82077}, {"name": "Automasi", "id": 662647}]}

@@ -1,1 +1,1 @@
-{"name": "Human_sex_ratio", "id": 69892122, "predecessors": [{"name": "Demographics", "id": 1012175}, {"name": "Ratios", "id": 4773318}], "successors": []}
+{"name": "Human_sex_ratio", "id": 69892122, "predecessors": [{"name": "Anthropology", "id": 694863}, {"name": "Demographics", "id": 1012175}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "OSI_model", "id": 55360985, "predecessors": [{"name": "ISO_standards", "id": 711826}, {"name": "ITU-T_X_Series_Recommendations", "id": 61043087}, {"name": "Network_architecture", "id": 5065063}, {"name": "Reference_models", "id": 10642820}], "successors": [{"name": "OSI_protocols", "id": 1117741}]}
+{"name": "OSI_model", "id": 55360985, "predecessors": [{"name": "ISO_standards", "id": 711826}, {"name": "ITU-T_X_Series_Recommendations", "id": 61043087}, {"name": "Reference_models", "id": 10642820}], "successors": [{"name": "OSI_protocols", "id": 1117741}]}

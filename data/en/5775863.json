@@ -1,1 +1,1 @@
-{"name": "Roads_in_Morocco", "id": 5775863, "predecessors": [{"name": "Roads", "id": 780674}, {"name": "Road_transport", "id": 700964}], "successors": [{"name": "Autoroutes_in_Morocco", "id": 24624454}]}
+{"name": "Roads_in_Morocco", "id": 5775863, "predecessors": [{"name": "Roads", "id": 780674}, {"name": "Economy_of_Morocco", "id": 2772745}], "successors": [{"name": "Autoroutes_in_Morocco", "id": 24624454}]}

@@ -1,1 +1,1 @@
-{"name": "Liceoj_de_Parizo", "id": 486661, "predecessors": [{"name": "Instruado_en_Parizo", "id": 477221}, {"name": "Edukado_en_Francio", "id": 407195}, {"name": "Francio", "id": 28601}, {"name": "Arkitekturo", "id": 39182}], "successors": []}
+{"name": "Liceoj_de_Parizo", "id": 486661, "predecessors": [{"name": "Instruado_en_Parizo", "id": 477221}, {"name": "Liceoj_de_Francilio", "id": 486663}, {"name": "Liceoj_en_Francio", "id": 484853}, {"name": "Arkitekturo", "id": 39182}], "successors": []}

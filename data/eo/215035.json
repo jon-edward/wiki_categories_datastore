@@ -1,1 +1,1 @@
-{"name": "Azova_maro", "id": 215035, "predecessors": [{"name": "Mediteraneaj_maroj", "id": 478183}, {"name": "Akvo", "id": 55095}], "successors": []}
+{"name": "Azova_maro", "id": 215035, "predecessors": [{"name": "Maroj_en_Rusio", "id": 532815}, {"name": "Mediteraneaj_maroj", "id": 478183}, {"name": "Akvo", "id": 55095}], "successors": [{"name": "Akvokolekta_areo_de_la_Azova_maro", "id": 594364}, {"name": "Bospora_Imperio", "id": 608497}]}

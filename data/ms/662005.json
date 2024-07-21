@@ -1,1 +1,1 @@
-{"name": "Morfologi_tumbuhan", "id": 662005, "predecessors": [{"name": "Tumbuhan", "id": 27952}, {"name": "Biologi", "id": 11181}, {"name": "Botani", "id": 20176}], "successors": [{"name": "Anatomi_tumbuhan", "id": 983851}]}
+{"name": "Morfologi_tumbuhan", "id": 662005, "predecessors": [{"name": "Tumbuhan", "id": 27952}, {"name": "Biologi", "id": 11181}], "successors": [{"name": "Anatomi_tumbuhan", "id": 983851}]}

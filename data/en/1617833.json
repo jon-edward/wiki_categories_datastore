@@ -1,1 +1,1 @@
-{"name": "Fishing_equipment", "id": 1617833, "predecessors": [{"name": "Fishing_techniques_and_methods", "id": 16022993}], "successors": [{"name": "Artificial_flies", "id": 15987811}, {"name": "Fishing_equipment_manufacturers", "id": 17299110}]}
+{"name": "Fishing_equipment", "id": 1617833, "predecessors": [{"name": "Equipment", "id": 3228046}], "successors": [{"name": "Artificial_flies", "id": 15987811}, {"name": "Fishing_equipment_manufacturers", "id": 17299110}, {"name": "Fishing_nets", "id": 35067027}]}

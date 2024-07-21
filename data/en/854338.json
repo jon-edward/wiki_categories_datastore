@@ -1,1 +1,1 @@
-{"name": "Estuaries", "id": 854338, "predecessors": [{"name": "Bodies_of_water", "id": 2699217}], "successors": [{"name": "Río_de_la_Plata", "id": 40212777}]}
+{"name": "Estuaries", "id": 854338, "predecessors": [{"name": "Bodies_of_water", "id": 2699217}, {"name": "Coastal_and_oceanic_landforms", "id": 11062641}], "successors": [{"name": "Río_de_la_Plata", "id": 40212777}]}

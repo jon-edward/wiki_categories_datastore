@@ -1,1 +1,1 @@
-{"name": "텔레비전_프로그램화된_소설", "id": 2532761, "predecessors": [{"name": "소설", "id": 12040}, {"name": "책", "id": 12250}], "successors": []}
+{"name": "텔레비전_프로그램화된_소설", "id": 2532761, "predecessors": [{"name": "문학_장르", "id": 141656}, {"name": "책", "id": 12250}], "successors": []}

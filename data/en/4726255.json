@@ -1,1 +1,0 @@
-{"name": "Virtual_machines", "id": 4726255, "predecessors": [{"name": "Virtualization_software", "id": 1135181}], "successors": [{"name": "Java_virtual_machine", "id": 2078345}, {"name": "Register-based_virtual_machines", "id": 21118976}, {"name": "Stack-based_virtual_machines", "id": 25688872}]}

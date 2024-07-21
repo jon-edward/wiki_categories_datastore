@@ -1,1 +1,1 @@
-{"name": "Packaging_machinery", "id": 26263822, "predecessors": [{"name": "Industrial_equipment", "id": 13616594}, {"name": "Packaging", "id": 1948437}], "successors": [{"name": "Computer_vision", "id": 797088}]}
+{"name": "Packaging_machinery", "id": 26263822, "predecessors": [{"name": "Industrial_equipment", "id": 13616594}, {"name": "Industrial_machinery", "id": 13860418}, {"name": "Machinery", "id": 7810523}, {"name": "Packaging", "id": 1948437}], "successors": [{"name": "Computer_vision", "id": 797088}]}

@@ -1,1 +1,1 @@
-{"name": "French_newspaper_editors", "id": 9967103, "predecessors": [{"name": "French_editors", "id": 11520915}, {"name": "Newspapers_published_in_France", "id": 6460603}, {"name": "French_journalists", "id": 1433945}], "successors": [{"name": "Newspaper_editors_of_the_French_Revolution", "id": 5366281}]}
+{"name": "French_newspaper_editors", "id": 9967103, "predecessors": [{"name": "Newspapers_published_in_France", "id": 6460603}, {"name": "French_journalists", "id": 1433945}], "successors": [{"name": "Newspaper_editors_of_the_French_Revolution", "id": 5366281}]}

@@ -1,1 +1,1 @@
-{"name": "Emas", "id": 84612, "predecessors": [{"name": "Logam_berharga", "id": 84616}, {"name": "Logam_peralihan", "id": 84613}, {"name": "Metalurgi", "id": 84618}, {"name": "Unsur_kimia", "id": 30090}], "successors": []}
+{"name": "Emas", "id": 84612, "predecessors": [{"name": "Logam_berharga", "id": 84616}, {"name": "Logam_peralihan", "id": 84613}, {"name": "Metalurgi", "id": 84618}, {"name": "Unsur_kimia", "id": 30090}, {"name": "Mineral", "id": 84627}], "successors": []}

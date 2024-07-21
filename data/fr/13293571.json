@@ -1,1 +1,1 @@
-{"name": "Dessinatrice_de_comic_book", "id": 13293571, "predecessors": [{"name": "Dessinatrice_de_bande_dessinée", "id": 13260912}, {"name": "Auteur_de_bande_dessinée", "id": 195476}], "successors": []}
+{"name": "Dessinatrice_de_comic_book", "id": 13293571, "predecessors": [{"name": "Dessinatrice_de_bande_dessinée", "id": 13260912}, {"name": "Métier", "id": 87726}], "successors": []}

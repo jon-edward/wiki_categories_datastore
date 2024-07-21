@@ -1,1 +1,1 @@
-{"name": "SSH_File_Transfer_Protocol_clients", "id": 3671800, "predecessors": [{"name": "Clients_(computing)", "id": 34556983}, {"name": "Secure_Shell", "id": 31893479}], "successors": []}
+{"name": "SSH_File_Transfer_Protocol_clients", "id": 3671800, "predecessors": [{"name": "Clients_(computing)", "id": 34556983}, {"name": "Cryptographic_software", "id": 694900}, {"name": "Secure_Shell", "id": 31893479}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Bacteriófagos", "id": 2236736, "predecessors": [{"name": "Virus", "id": 59817}], "successors": [{"name": "Caudoviricetes", "id": 2483226}, {"name": "Leviviricetes", "id": 9957197}]}
+{"name": "Bacteriófagos", "id": 2236736, "predecessors": [{"name": "Microbiología", "id": 68208}, {"name": "Virus", "id": 59817}], "successors": [{"name": "Caudoviricetes", "id": 2483226}, {"name": "Leviviricetes", "id": 9957197}]}

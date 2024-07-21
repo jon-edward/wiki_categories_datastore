@@ -1,1 +1,1 @@
-{"name": "Saint_Petersburg_Metro_stations", "id": 7266454, "predecessors": [{"name": "Railway_stations_in_Saint_Petersburg", "id": 4380139}, {"name": "Buildings_and_structures_in_Saint_Petersburg", "id": 3380457}, {"name": "Underground_rapid_transit_in_Russia", "id": 31164492}], "successors": []}
+{"name": "Saint_Petersburg_Metro_stations", "id": 7266454, "predecessors": [{"name": "Railway_stations_in_Saint_Petersburg", "id": 4380139}, {"name": "Rail_transport_in_Russia", "id": 2729327}, {"name": "Underground_rapid_transit_in_Russia", "id": 31164492}], "successors": []}

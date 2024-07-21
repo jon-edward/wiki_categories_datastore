@@ -1,1 +1,1 @@
-{"name": "전기기계공학", "id": 3295315, "predecessors": [{"name": "전기공학", "id": 33470}], "successors": [{"name": "로봇공학", "id": 151613}, {"name": "HVAC", "id": 1113936}]}
+{"name": "전기기계공학", "id": 3295315, "predecessors": [{"name": "기계공학", "id": 78459}, {"name": "전기공학", "id": 33470}], "successors": [{"name": "로봇공학", "id": 151613}, {"name": "HVAC", "id": 1113936}]}

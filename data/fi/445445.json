@@ -1,1 +1,1 @@
-{"name": "Suomalaiset_vaatetusalan_yritykset", "id": 445445, "predecessors": [{"name": "Suomalaiset_yritykset", "id": 466188}, {"name": "Tekstiilivalmistajat", "id": 42010}], "successors": [{"name": "Suomalaiset_vaateliikkeet", "id": 1741173}]}
+{"name": "Suomalaiset_vaatetusalan_yritykset", "id": 445445, "predecessors": [{"name": "Suomalaiset_vähittäiskaupan_yritykset", "id": 1741170}, {"name": "Tekstiilivalmistajat", "id": 42010}], "successors": [{"name": "Finlayson", "id": 594960}, {"name": "Suomalaiset_vaateliikkeet", "id": 1741173}]}

@@ -1,1 +1,1 @@
-{"name": "Citoesqueleto", "id": 859232, "predecessors": [{"name": "Anatomía_celular", "id": 1129397}, {"name": "Célula_eucariota", "id": 9296073}, {"name": "Proteínas", "id": 208870}], "successors": []}
+{"name": "Citoesqueleto", "id": 859232, "predecessors": [{"name": "Anatomía_celular", "id": 1129397}, {"name": "Biología_celular", "id": 75820}, {"name": "Célula_eucariota", "id": 9296073}, {"name": "Proteínas", "id": 208870}], "successors": []}

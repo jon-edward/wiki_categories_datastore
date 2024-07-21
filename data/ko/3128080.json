@@ -1,1 +1,1 @@
-{"name": "열전도", "id": 3128080, "predecessors": [{"name": "열역학", "id": 13876}], "successors": [{"name": "고온_초전도체", "id": 3672024}]}
+{"name": "열전도", "id": 3128080, "predecessors": [{"name": "열역학", "id": 13876}, {"name": "전열", "id": 1113937}], "successors": [{"name": "고온_초전도체", "id": 3672024}]}

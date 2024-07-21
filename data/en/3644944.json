@@ -1,1 +1,1 @@
-{"name": "Nightwear", "id": 3644944, "predecessors": [{"name": "Sleep", "id": 910767}], "successors": []}
+{"name": "Nightwear", "id": 3644944, "predecessors": [{"name": "Clothing_by_function", "id": 9964970}, {"name": "Night", "id": 11691737}, {"name": "Sleep", "id": 910767}], "successors": []}

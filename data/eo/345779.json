@@ -1,1 +1,1 @@
-{"name": "Fenoloj", "id": 345779, "predecessors": [{"name": "Alkoholoj", "id": 301993}], "successors": [{"name": "Naturaj_fenoloj", "id": 630762}, {"name": "Salikatoj", "id": 634649}, {"name": "Katekoloj", "id": 676703}]}
+{"name": "Fenoloj", "id": 345779, "predecessors": [{"name": "Alkoholoj", "id": 301993}], "successors": [{"name": "Naturaj_fenoloj", "id": 630762}, {"name": "Salikatoj", "id": 634649}, {"name": "Polifenoloj", "id": 638114}, {"name": "Katekoloj", "id": 676703}, {"name": "Fenolaj_antioksidantoj", "id": 678161}, {"name": "Fenolaj_acidoj", "id": 678181}]}

@@ -1,1 +1,1 @@
-{"name": "German_fashion_designers", "id": 2403320, "predecessors": [{"name": "German_designers", "id": 2308527}, {"name": "German_fashion", "id": 13496346}], "successors": [{"name": "German_costume_designers", "id": 34497023}, {"name": "German_women_fashion_designers", "id": 72301089}]}
+{"name": "German_fashion_designers", "id": 2403320, "predecessors": [{"name": "German_fashion", "id": 13496346}], "successors": [{"name": "German_costume_designers", "id": 34497023}, {"name": "German_women_fashion_designers", "id": 72301089}]}

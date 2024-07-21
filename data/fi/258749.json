@@ -1,1 +1,1 @@
-{"name": "Tampereen_liikenne", "id": 258749, "predecessors": [{"name": "Tampere", "id": 19449}, {"name": "Liikenne", "id": 21059}], "successors": [{"name": "Tampereen_kadut", "id": 666434}, {"name": "Tampereen_sillat", "id": 752900}, {"name": "Tampereen_rautatieliikennepaikat", "id": 997624}]}
+{"name": "Tampereen_liikenne", "id": 258749, "predecessors": [{"name": "Tampere", "id": 19449}, {"name": "Liikenne", "id": 21059}], "successors": [{"name": "Tampereen_kadut", "id": 666434}, {"name": "Tampereen_rautatieliikennepaikat", "id": 997624}]}

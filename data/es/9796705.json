@@ -1,1 +1,1 @@
-{"name": "Nacidos_en_el_cantón_de_Lucerna", "id": 9796705, "predecessors": [{"name": "Nacidos_en_Suiza", "id": 7050600}, {"name": "Entidades_subnacionales", "id": 365760}], "successors": [{"name": "Nacidos_en_Lucerna", "id": 9362433}, {"name": "Nacidos_en_Sursee", "id": 9796782}]}
+{"name": "Nacidos_en_el_cantón_de_Lucerna", "id": 9796705, "predecessors": [{"name": "Nacidos_en_Suiza", "id": 7050600}, {"name": "Cantón_de_Lucerna", "id": 191643}], "successors": [{"name": "Nacidos_en_Lucerna", "id": 9362433}, {"name": "Nacidos_en_Sursee", "id": 9796782}]}

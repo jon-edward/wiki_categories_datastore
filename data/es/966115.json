@@ -1,1 +1,1 @@
-{"name": "Químicos_de_Australia", "id": 966115, "predecessors": [{"name": "Científicos_de_Australia", "id": 410080}], "successors": []}
+{"name": "Químicos_de_Australia", "id": 966115, "predecessors": [{"name": "Científicos_de_Australia", "id": 410080}, {"name": "Química", "id": 50641}], "successors": [{"name": "Bioquímicos_de_Australia", "id": 3301427}]}

@@ -1,1 +1,1 @@
-{"name": "Helsingin_satama", "id": 1058102, "predecessors": [{"name": "Helsingin_liikenne", "id": 222227}, {"name": "Suomen_Itämeren_satamat", "id": 1057818}], "successors": [{"name": "Vuosaaren_satama", "id": 115839}]}
+{"name": "Helsingin_satama", "id": 1058102, "predecessors": [{"name": "Helsingin_liikenne", "id": 222227}, {"name": "Helsingin_rakennukset_ja_rakennelmat", "id": 198666}, {"name": "Suomen_Itämeren_satamat", "id": 1057818}], "successors": [{"name": "Vuosaaren_satama", "id": 115839}]}

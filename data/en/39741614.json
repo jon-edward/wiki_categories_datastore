@@ -1,1 +1,1 @@
-{"name": "Fictional_medical_students", "id": 39741614, "predecessors": [{"name": "Fictional_college_students", "id": 52673091}, {"name": "Medical_students", "id": 39741532}], "successors": []}
+{"name": "Fictional_medical_students", "id": 39741614, "predecessors": [{"name": "Fictional_college_students", "id": 52673091}, {"name": "Fictional_health_professionals", "id": 1060850}, {"name": "Medical_students", "id": 39741532}], "successors": []}

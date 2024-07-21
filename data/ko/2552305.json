@@ -1,1 +1,1 @@
-{"name": "제동기", "id": 2552305, "predecessors": [{"name": "기구학", "id": 771927}], "successors": []}
+{"name": "제동기", "id": 2552305, "predecessors": [{"name": "기구학", "id": 771927}, {"name": "탈것_부품", "id": 813704}], "successors": []}

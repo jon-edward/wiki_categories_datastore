@@ -1,1 +1,1 @@
-{"name": "Estaciones_de_ferrocarril_del_departamento_de_Ródano", "id": 8094066, "predecessors": [{"name": "Ródano", "id": 338765}, {"name": "Transporte_de_Francia", "id": 710366}, {"name": "Edificios_y_estructuras_de_la_región_de_Auvernia-Ródano-Alpes", "id": 7890025}], "successors": []}
+{"name": "Estaciones_de_ferrocarril_del_departamento_de_Ródano", "id": 8094066, "predecessors": [{"name": "Estaciones_de_ferrocarril_de_la_región_de_Auvernia-Ródano-Alpes", "id": 8087848}, {"name": "Ródano", "id": 338765}, {"name": "Transporte_de_Francia", "id": 710366}], "successors": []}

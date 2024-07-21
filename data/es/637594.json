@@ -1,1 +1,1 @@
-{"name": "Wii", "id": 637594, "predecessors": [{"name": "Videoconsolas_de_Nintendo", "id": 1663107}, {"name": "Videoconsolas_de_séptima_generación", "id": 2759688}], "successors": [{"name": "Videojuegos_para_Wii", "id": 3612545}, {"name": "Videojuegos_para_Wii_Wheel", "id": 9439745}]}
+{"name": "Wii", "id": 637594, "predecessors": [{"name": "Videoconsolas_de_Nintendo", "id": 1663107}], "successors": [{"name": "Videojuegos_para_Wii", "id": 3612545}, {"name": "Videojuegos_para_Wii_Wheel", "id": 9439745}]}

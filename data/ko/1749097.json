@@ -1,1 +1,1 @@
-{"name": "자동차_대여", "id": 1749097, "predecessors": [{"name": "임대차", "id": 1609837}, {"name": "자동차_산업", "id": 585195}], "successors": []}
+{"name": "자동차_대여", "id": 1749097, "predecessors": [{"name": "자동차_산업", "id": 585195}], "successors": []}

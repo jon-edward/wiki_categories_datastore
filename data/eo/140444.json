@@ -1,1 +1,1 @@
-{"name": "Italaj_fizikistoj", "id": 140444, "predecessors": [{"name": "Italaj_sciencistoj", "id": 270714}, {"name": "Politika_geografio", "id": 108524}], "successors": [{"name": "Galileo_Galilei", "id": 692136}]}
+{"name": "Italaj_fizikistoj", "id": 140444, "predecessors": [{"name": "Italaj_sciencistoj", "id": 270714}, {"name": "Fizikistoj", "id": 33094}], "successors": [{"name": "Galileo_Galilei", "id": 692136}]}

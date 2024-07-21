@@ -1,1 +1,1 @@
-{"name": "Asid_nukleik", "id": 1156715, "predecessors": [{"name": "Nukleotida", "id": 1036408}, {"name": "Kimia", "id": 11182}], "successors": [{"name": "DNA", "id": 417513}, {"name": "RNA", "id": 1156714}]}
+{"name": "Asid_nukleik", "id": 1156715, "predecessors": [{"name": "Asid_organik", "id": 969359}, {"name": "Nukleotida", "id": 1036408}, {"name": "Polimer_organik", "id": 997486}, {"name": "Kimia", "id": 11182}], "successors": [{"name": "DNA", "id": 417513}, {"name": "RNA", "id": 1156714}]}

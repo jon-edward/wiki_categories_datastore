@@ -1,1 +1,1 @@
-{"name": "Researchers_in_distributed_computing", "id": 23434140, "predecessors": [{"name": "Concurrent_computing", "id": 2581694}, {"name": "Distributed_computing", "id": 957605}, {"name": "Parallel_computing", "id": 957606}], "successors": []}
+{"name": "Researchers_in_distributed_computing", "id": 23434140, "predecessors": [{"name": "Concurrent_computing", "id": 2581694}, {"name": "Distributed_computing", "id": 957605}, {"name": "Computer_scientists", "id": 694790}], "successors": [{"name": "Edsger_W._Dijkstra", "id": 50203414}]}

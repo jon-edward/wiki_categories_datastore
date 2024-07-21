@@ -1,1 +1,1 @@
-{"name": "Financa_merkato", "id": 465604, "predecessors": [{"name": "Financa_sistemo", "id": 465613}, {"name": "Financoj", "id": 307875}], "successors": [{"name": "Valorpaperoj", "id": 592925}]}
+{"name": "Financa_merkato", "id": 465604, "predecessors": [{"name": "Financa_sistemo", "id": 465613}, {"name": "Financoj", "id": 307875}], "successors": [{"name": "Investado", "id": 465618}, {"name": "Valorpaperoj", "id": 592925}, {"name": "Monopolo", "id": 465595}]}

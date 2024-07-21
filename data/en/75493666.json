@@ -1,1 +1,1 @@
-{"name": "Syndromes_with_autism", "id": 75493666, "predecessors": [{"name": "Syndromes_affecting_the_nervous_system", "id": 53611887}, {"name": "Communication_disorders", "id": 2687547}], "successors": []}
+{"name": "Syndromic_autism", "id": 75493666, "predecessors": [{"name": "Syndromes_affecting_the_nervous_system", "id": 53611887}, {"name": "Communication_disorders", "id": 2687547}], "successors": []}

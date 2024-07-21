@@ -1,1 +1,1 @@
-{"name": "Pediatrio", "id": 264933, "predecessors": [{"name": "Infanaĝo", "id": 266406}, {"name": "Medicinaj_fakoj", "id": 293155}], "successors": [{"name": "Pediatroj", "id": 544804}]}
+{"name": "Pediatrio", "id": 264933, "predecessors": [{"name": "Infanaĝo", "id": 266406}, {"name": "Medicinaj_fakoj", "id": 293155}], "successors": [{"name": "Hungaraj_pediatroj", "id": 875073}, {"name": "Germanaj_pediatroj", "id": 876657}, {"name": "Aŭstraj_pediatroj", "id": 876658}, {"name": "Esperantistaj_pediatroj", "id": 876662}]}

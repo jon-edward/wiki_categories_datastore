@@ -1,1 +1,1 @@
-{"name": "Distance_education_institutions", "id": 11711012, "predecessors": [{"name": "Public_services", "id": 5678592}], "successors": [{"name": "Open_universities", "id": 51926683}]}
+{"name": "Distance_education_institutions", "id": 11711012, "predecessors": [{"name": "Distance_education", "id": 4118941}, {"name": "Public_services", "id": 5678592}], "successors": [{"name": "Open_universities", "id": 51926683}, {"name": "Online_colleges", "id": 2677455}]}

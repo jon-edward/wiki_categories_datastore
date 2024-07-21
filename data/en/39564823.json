@@ -1,1 +1,1 @@
-{"name": "Sepsis", "id": 39564823, "predecessors": [{"name": "Infectious_diseases", "id": 707355}, {"name": "Intensive_care_medicine", "id": 714493}, {"name": "Medical_emergencies", "id": 741752}], "successors": [{"name": "Deaths_from_sepsis", "id": 18553993}]}
+{"name": "Sepsis", "id": 39564823, "predecessors": [{"name": "Infectious_diseases", "id": 707355}, {"name": "Medical_emergencies", "id": 741752}], "successors": [{"name": "Deaths_from_sepsis", "id": 18553993}]}

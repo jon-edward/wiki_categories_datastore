@@ -1,1 +1,1 @@
-{"name": "Space_law", "id": 4295981, "predecessors": [{"name": "Policy", "id": 8592882}, {"name": "Space-based_economy", "id": 52176292}], "successors": []}
+{"name": "Space_law", "id": 4295981, "predecessors": [{"name": "Policy", "id": 8592882}, {"name": "Space-based_economy", "id": 52176292}], "successors": [{"name": "Space_law_in_the_United_States", "id": 38775236}, {"name": "Space_treaties", "id": 39406486}]}

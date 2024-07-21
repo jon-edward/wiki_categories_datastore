@@ -1,1 +1,1 @@
-{"name": "Navigation_system_companies", "id": 5649440, "predecessors": [{"name": "Satellite_navigation", "id": 62424638}], "successors": [{"name": "Garmin", "id": 21126819}]}
+{"name": "Navigation_system_companies", "id": 5649440, "predecessors": [{"name": "Geographic_data_and_information_companies", "id": 51214773}, {"name": "Satellite_navigation", "id": 62424638}, {"name": "Electronics_industry", "id": 35046850}], "successors": [{"name": "Garmin", "id": 21126819}]}

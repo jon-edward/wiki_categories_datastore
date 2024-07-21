@@ -1,1 +1,1 @@
-{"name": "Compositores_de_Argelia", "id": 1378849, "predecessors": [{"name": "Músicos_de_Argelia", "id": 275665}], "successors": [{"name": "Cantautores_de_Argelia", "id": 746864}]}
+{"name": "Compositores_de_Argelia", "id": 1378849, "predecessors": [{"name": "Músicos_de_Argelia", "id": 275665}, {"name": "Compositores", "id": 103684}], "successors": [{"name": "Cantautores_de_Argelia", "id": 746864}]}

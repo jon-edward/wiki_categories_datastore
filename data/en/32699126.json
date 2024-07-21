@@ -1,1 +1,1 @@
-{"name": "Armoured_vehicles", "id": 32699126, "predecessors": [{"name": "Vehicle_armour", "id": 12934688}], "successors": [{"name": "Armoured_fighting_vehicles", "id": 12171698}]}
+{"name": "Armoured_vehicles", "id": 32699126, "predecessors": [{"name": "Vehicle_armour", "id": 12934688}, {"name": "Vehicles_by_type", "id": 25508719}], "successors": [{"name": "Armoured_fighting_vehicles", "id": 12171698}]}

@@ -1,1 +1,1 @@
-{"name": "Britaj_pilotoj", "id": 608829, "predecessors": [{"name": "Britoj", "id": 80886}, {"name": "Pilotoj", "id": 95175}, {"name": "Aviado", "id": 35824}], "successors": []}
+{"name": "Britaj_pilotoj", "id": 608829, "predecessors": [{"name": "Aviado_en_Britio", "id": 332705}, {"name": "Britoj", "id": 80886}, {"name": "Pilotoj", "id": 95175}], "successors": []}

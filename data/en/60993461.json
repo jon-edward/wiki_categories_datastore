@@ -1,1 +1,1 @@
-{"name": "FK_Csíkszereda_Miercurea_Ciuc_players", "id": 60993461, "predecessors": [{"name": "Team_sports", "id": 700681}], "successors": []}
+{"name": "FK_Csíkszereda_Miercurea_Ciuc_players", "id": 60993461, "predecessors": [{"name": "Football_clubs_in_Romania", "id": 34432454}], "successors": []}

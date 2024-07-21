@@ -1,1 +1,1 @@
-{"name": "LG_트윈스_연도별_선수_명단", "id": 1302855, "predecessors": [{"name": "LG_트윈스_선수", "id": 101788}], "successors": []}
+{"name": "LG_트윈스의_선수_목록", "id": 1302855, "predecessors": [{"name": "KBO_리그의_선수_목록", "id": 3855383}, {"name": "LG_트윈스_선수", "id": 101788}], "successors": []}

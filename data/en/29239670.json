@@ -1,1 +1,1 @@
-{"name": "Convex_hulls", "id": 29239670, "predecessors": [{"name": "Closure_operators", "id": 3211569}, {"name": "Functional_analysis", "id": 691866}], "successors": [{"name": "Convex_hull_algorithms", "id": 29444938}]}
+{"name": "Convex_hulls", "id": 29239670, "predecessors": [{"name": "Closure_operators", "id": 3211569}, {"name": "Convex_geometry", "id": 1708097}], "successors": [{"name": "Convex_hull_algorithms", "id": 29444938}]}

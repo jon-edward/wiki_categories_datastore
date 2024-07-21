@@ -1,1 +1,1 @@
-{"name": "벽화", "id": 389531, "predecessors": [{"name": "공공예술", "id": 578736}], "successors": [{"name": "낙서", "id": 206402}]}
+{"name": "벽화", "id": 389531, "predecessors": [{"name": "공공예술", "id": 578736}, {"name": "미술_작품", "id": 2835764}], "successors": [{"name": "낙서", "id": 206402}]}

@@ -1,1 +1,1 @@
-{"name": "In-car_entertainment", "id": 23962508, "predecessors": [{"name": "Automotive_accessories", "id": 770480}, {"name": "Automotive_electronics", "id": 22207541}, {"name": "Travel_technology", "id": 12257775}], "successors": []}
+{"name": "In-car_entertainment", "id": 23962508, "predecessors": [{"name": "Automotive_electronics", "id": 22207541}, {"name": "Consumer_electronics", "id": 880368}, {"name": "Travel_technology", "id": 12257775}], "successors": []}

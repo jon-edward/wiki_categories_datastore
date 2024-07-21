@@ -1,1 +1,1 @@
-{"name": "인후부", "id": 2657258, "predecessors": [{"name": "두경부", "id": 509770}, {"name": "호흡계", "id": 478383}], "successors": []}
+{"name": "인후부", "id": 2657258, "predecessors": [{"name": "두경부", "id": 509770}, {"name": "소화계", "id": 478218}, {"name": "호흡계", "id": 478383}], "successors": []}

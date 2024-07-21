@@ -1,1 +1,1 @@
-{"name": "SK의_자회사", "id": 552381, "predecessors": [{"name": "SK그룹", "id": 46116}], "successors": [{"name": "SK텔레콤", "id": 230390}]}
+{"name": "SK의_자회사", "id": 552381, "predecessors": [{"name": "SK그룹", "id": 46116}, {"name": "기업", "id": 11886}], "successors": [{"name": "SK텔레콤", "id": 230390}]}

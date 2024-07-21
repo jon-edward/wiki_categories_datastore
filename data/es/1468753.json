@@ -1,1 +1,1 @@
-{"name": "Libros_de_física", "id": 1468753, "predecessors": [{"name": "Libros_de_ciencia", "id": 1188415}], "successors": []}
+{"name": "Libros_de_física", "id": 1468753, "predecessors": [{"name": "Física", "id": 50638}, {"name": "Libros_de_ciencia", "id": 1188415}], "successors": []}

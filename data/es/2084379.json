@@ -1,1 +1,1 @@
-{"name": "Relajantes_musculares", "id": 2084379, "predecessors": [{"name": "Farmacología", "id": 55416}, {"name": "Fármacos_del_sistema_nervioso", "id": 2081543}], "successors": [{"name": "Benzodiazepinas", "id": 353152}, {"name": "Bloqueadores_neuromusculares", "id": 8347381}]}
+{"name": "Relajantes_musculares", "id": 2084379, "predecessors": [{"name": "Fármacos_del_sistema_nervioso", "id": 2081543}, {"name": "Fármacos", "id": 54550}], "successors": [{"name": "Benzodiazepinas", "id": 353152}, {"name": "Bloqueadores_neuromusculares", "id": 8347381}]}

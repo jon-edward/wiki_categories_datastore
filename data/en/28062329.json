@@ -1,1 +1,1 @@
-{"name": "FK_Radnik_Bijeljina_players", "id": 28062329, "predecessors": [{"name": "Football_clubs_in_Bosnia_and_Herzegovina", "id": 34428248}, {"name": "Team_sports", "id": 700681}], "successors": []}
+{"name": "FK_Radnik_Bijeljina_players", "id": 28062329, "predecessors": [{"name": "Football_clubs_in_Bosnia_and_Herzegovina", "id": 34428248}], "successors": []}

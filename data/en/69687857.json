@@ -1,1 +1,1 @@
-{"name": "Road–rail_vehicles", "id": 69687857, "predecessors": [{"name": "Rail_technologies", "id": 1239654}, {"name": "Passenger_rail_rolling_stock", "id": 40390806}, {"name": "Land_vehicles", "id": 30278361}], "successors": []}
+{"name": "Road–rail_vehicles", "id": 69687857, "predecessors": [{"name": "Rail_technologies", "id": 1239654}, {"name": "Vehicles_by_type", "id": 25508719}, {"name": "Passenger_rail_rolling_stock", "id": 40390806}], "successors": []}

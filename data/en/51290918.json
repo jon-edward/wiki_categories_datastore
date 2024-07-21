@@ -1,1 +1,1 @@
-{"name": "Chinese_male_long-distance_runners", "id": 51290918, "predecessors": [{"name": "Running", "id": 847059}, {"name": "Men's_athletics", "id": 53241340}, {"name": "Chinese_culture", "id": 715451}], "successors": [{"name": "Chinese_male_marathon_runners", "id": 51290988}]}
+{"name": "Chinese_male_long-distance_runners", "id": 51290918, "predecessors": [{"name": "Running", "id": 847059}, {"name": "Chinese_culture", "id": 715451}, {"name": "Culture_of_Asia", "id": 1438369}], "successors": [{"name": "Chinese_male_marathon_runners", "id": 51290988}]}

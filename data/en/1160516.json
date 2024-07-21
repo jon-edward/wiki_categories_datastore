@@ -1,1 +1,1 @@
-{"name": "Pyrotechnic_compositions", "id": 1160516, "predecessors": [{"name": "Pyrotechnics", "id": 1041841}, {"name": "Energy", "id": 865456}], "successors": []}
+{"name": "Pyrotechnic_compositions", "id": 1160516, "predecessors": [{"name": "Explosives", "id": 726215}, {"name": "Pyrotechnics", "id": 1041841}, {"name": "Artificial_materials", "id": 51591971}], "successors": []}

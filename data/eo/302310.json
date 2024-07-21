@@ -1,1 +1,1 @@
-{"name": "Ĉinaj_artistoj", "id": 302310, "predecessors": [{"name": "Ĉinaj_artoj", "id": 289474}, {"name": "Artoj", "id": 108577}, {"name": "Ĉinoj", "id": 114495}], "successors": [{"name": "Ĉinaj_reĝisoroj", "id": 101080}, {"name": "Ĉinaj_pentristoj", "id": 302309}]}
+{"name": "Ĉinaj_artistoj", "id": 302310, "predecessors": [{"name": "Ĉinaj_artoj", "id": 289474}, {"name": "Artoj", "id": 108577}, {"name": "Ĉinoj", "id": 114495}], "successors": [{"name": "Ĉinaj_reĝisoroj", "id": 101080}, {"name": "Ĉinaj_pentristoj", "id": 302309}, {"name": "Ĉinaj_kaligrafiistoj", "id": 597522}]}

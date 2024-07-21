@@ -1,1 +1,1 @@
-{"name": "Deporte_en_Argentina_en_1990", "id": 8409777, "predecessors": [{"name": "Argentina_en_1990", "id": 2912847}, {"name": "Cultura_de_Argentina", "id": 80658}], "successors": [{"name": "Fútbol_en_Argentina_en_1990", "id": 7903578}]}
+{"name": "Deporte_en_Argentina_en_1990", "id": 8409777, "predecessors": [{"name": "Argentina_en_1990", "id": 2912847}, {"name": "Deporte_en_Argentina", "id": 4168642}, {"name": "Deporte_en_1990", "id": 1607192}], "successors": [{"name": "Fútbol_en_Argentina_en_1990", "id": 7903578}]}

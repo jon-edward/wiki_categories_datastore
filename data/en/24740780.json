@@ -1,1 +1,1 @@
-{"name": "British_instructional_writers", "id": 24740780, "predecessors": [{"name": "Education_and_training_occupations", "id": 18730907}], "successors": [{"name": "British_textbook_writers", "id": 24740735}]}
+{"name": "British_instructional_writers", "id": 24740780, "predecessors": [{"name": "Education_and_training_occupations", "id": 18730907}, {"name": "Education_writers", "id": 9490262}], "successors": [{"name": "British_textbook_writers", "id": 24740735}]}

@@ -1,1 +1,1 @@
-{"name": "Danaj_lingvistoj", "id": 344983, "predecessors": [{"name": "Danaj_sciencistoj", "id": 321979}, {"name": "Lingvistoj", "id": 36978}], "successors": [{"name": "Danaj_filologoj", "id": 344984}]}
+{"name": "Danaj_lingvistoj", "id": 344983, "predecessors": [{"name": "Danaj_sciencistoj", "id": 321979}, {"name": "Lingvistoj_laŭ_landoj", "id": 122962}], "successors": [{"name": "Danaj_filologoj", "id": 344984}]}

@@ -1,1 +1,1 @@
-{"name": "Thai_romance_films", "id": 40763658, "predecessors": [{"name": "Culture_of_Thailand", "id": 726943}, {"name": "Thai_literature", "id": 5343334}], "successors": [{"name": "Thai_romantic_comedy_films", "id": 62766268}, {"name": "Thai_romantic_drama_films", "id": 64612458}]}
+{"name": "Thai_romance_films", "id": 40763658, "predecessors": [{"name": "Thai_literature", "id": 5343334}, {"name": "Culture_of_Asia", "id": 1438369}], "successors": [{"name": "Thai_romantic_comedy_films", "id": 62766268}, {"name": "Thai_romantic_drama_films", "id": 64612458}]}

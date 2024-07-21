@@ -1,1 +1,1 @@
-{"name": "출산_중_사망자", "id": 1522571, "predecessors": [{"name": "출산", "id": 278598}, {"name": "사인별_죽음", "id": 119637}, {"name": "어머니", "id": 2243053}], "successors": []}
+{"name": "출산_중_사망자", "id": 1522571, "predecessors": [{"name": "출산", "id": 278598}, {"name": "사인별_죽음", "id": 119637}], "successors": []}

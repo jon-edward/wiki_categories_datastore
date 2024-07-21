@@ -1,1 +1,1 @@
-{"name": "맥주_기반_칵테일", "id": 1842213, "predecessors": [{"name": "맥주", "id": 84091}], "successors": []}
+{"name": "맥주_기반_칵테일", "id": 1842213, "predecessors": [{"name": "맥주", "id": 84091}, {"name": "칵테일", "id": 48495}], "successors": []}

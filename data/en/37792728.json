@@ -1,1 +1,1 @@
-{"name": "Threshold_temperatures", "id": 37792728, "predecessors": [{"name": "Phase_transitions", "id": 30291970}, {"name": "Temperature", "id": 1214620}], "successors": []}
+{"name": "Threshold_temperatures", "id": 37792728, "predecessors": [{"name": "Temperature", "id": 1214620}], "successors": []}

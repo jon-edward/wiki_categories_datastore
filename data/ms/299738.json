@@ -1,1 +1,1 @@
-{"name": "Mekanik_klasik", "id": 299738, "predecessors": [{"name": "Fizik", "id": 11126}, {"name": "Mekanik", "id": 29117}, {"name": "Sejarah_fizik", "id": 32431}], "successors": [{"name": "Mekanik_keselanjaran", "id": 299736}, {"name": "Mekanik_samawi", "id": 331425}, {"name": "Akustik", "id": 1080852}]}
+{"name": "Mekanik_klasik", "id": 299738, "predecessors": [{"name": "Fizik", "id": 11126}, {"name": "Mekanik", "id": 29117}, {"name": "Sejarah_fizik", "id": 32431}], "successors": []}

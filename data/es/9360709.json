@@ -1,1 +1,1 @@
-{"name": "Jugadores_de_Los_Angeles_Chargers", "id": 9360709, "predecessors": [{"name": "Deporte_en_Estados_Unidos", "id": 4168512}, {"name": "Deporte_en_California", "id": 4161966}], "successors": [{"name": "Jugadores_de_San_Diego_Chargers", "id": 4252630}]}
+{"name": "Jugadores_de_Los_Angeles_Chargers", "id": 9360709, "predecessors": [{"name": "Cultura", "id": 51310}, {"name": "Deporte_en_California", "id": 4161966}], "successors": [{"name": "Jugadores_de_San_Diego_Chargers", "id": 4252630}]}

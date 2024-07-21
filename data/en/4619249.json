@@ -1,1 +1,1 @@
-{"name": "Kayaks", "id": 4619249, "predecessors": [{"name": "Boat_types", "id": 886322}, {"name": "Human-powered_vehicles", "id": 13520103}, {"name": "Inuit_tools", "id": 2302824}, {"name": "Kayaking", "id": 4619291}], "successors": []}
+{"name": "Kayaks", "id": 4619249, "predecessors": [{"name": "Human-powered_vehicles", "id": 13520103}, {"name": "Inuit_tools", "id": 2302824}, {"name": "Kayaking", "id": 4619291}], "successors": []}

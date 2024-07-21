@@ -1,1 +1,1 @@
-{"name": "Drinking_water_regulation", "id": 28847802, "predecessors": [{"name": "Drinking_water", "id": 2026578}, {"name": "Water_law", "id": 12072633}], "successors": []}
+{"name": "Drinking_water_regulation", "id": 28847802, "predecessors": [{"name": "Drinking_water", "id": 2026578}, {"name": "Regulation", "id": 35504121}, {"name": "Water_law", "id": 12072633}], "successors": []}

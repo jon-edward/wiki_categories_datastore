@@ -1,1 +1,1 @@
-{"name": "Barcos_de_Costa_Cruceros", "id": 5098013, "predecessors": [{"name": "Buques_de_pasajeros", "id": 2215371}, {"name": "Empresas_navieras", "id": 4503302}, {"name": "Barcos", "id": 66044}], "successors": []}
+{"name": "Barcos_de_Costa_Cruceros", "id": 5098013, "predecessors": [{"name": "Buques_de_pasajeros", "id": 2215371}, {"name": "Carnival_Corporation_&_plc", "id": 8543278}, {"name": "Barcos", "id": 66044}], "successors": []}

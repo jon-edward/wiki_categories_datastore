@@ -1,1 +1,1 @@
-{"name": "Bandar_di_Perancis", "id": 828719, "predecessors": [{"name": "Geografi_Perancis", "id": 153823}], "successors": [{"name": "Toulouse", "id": 906401}]}
+{"name": "Bandar_di_Perancis", "id": 828719, "predecessors": [{"name": "Bandar", "id": 94523}, {"name": "Geografi_Perancis", "id": 153823}], "successors": [{"name": "Toulouse", "id": 906401}]}

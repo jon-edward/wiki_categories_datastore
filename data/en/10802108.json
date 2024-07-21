@@ -1,1 +1,1 @@
-{"name": "Coenzymes", "id": 10802108, "predecessors": [{"name": "Enzymes", "id": 702815}, {"name": "Organic_compounds", "id": 12962665}], "successors": [{"name": "Thioesters_of_coenzyme_A", "id": 40302600}]}
+{"name": "Coenzymes", "id": 10802108, "predecessors": [{"name": "Enzymes", "id": 702815}], "successors": [{"name": "Thioesters_of_coenzyme_A", "id": 40302600}]}

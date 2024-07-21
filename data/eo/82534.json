@@ -1,1 +1,1 @@
-{"name": "Aŭtomacio", "id": 82534, "predecessors": [{"name": "Teknologio", "id": 32430}], "successors": [{"name": "Aŭtomata_regado", "id": 45284}]}
+{"name": "Aŭtomacio", "id": 82534, "predecessors": [{"name": "Teknologio", "id": 32430}], "successors": [{"name": "Aŭtomata_regado", "id": 45284}, {"name": "Domotiko", "id": 632251}]}

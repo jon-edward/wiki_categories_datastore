@@ -1,1 +1,1 @@
-{"name": "Agricultura_urbana", "id": 1820492, "predecessors": [{"name": "Agricultura_por_tipo", "id": 6513547}, {"name": "Agroecología", "id": 5054610}, {"name": "Arquitectura_del_paisaje", "id": 4857617}], "successors": []}
+{"name": "Agricultura_urbana", "id": 1820492, "predecessors": [{"name": "Agroecología", "id": 5054610}, {"name": "Arquitectura_del_paisaje", "id": 4857617}, {"name": "Jardines_por_tipo", "id": 6837822}], "successors": []}

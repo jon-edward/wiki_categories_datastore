@@ -1,1 +1,1 @@
-{"name": "Salon_rautatieliikennepaikat", "id": 1055817, "predecessors": [{"name": "Salon_liikenne", "id": 763346}, {"name": "Salon_rakennukset_ja_rakennelmat", "id": 636827}, {"name": "Varsinais-Suomen_rakennukset_ja_rakennelmat", "id": 767623}], "successors": []}
+{"name": "Salon_rautatieliikennepaikat", "id": 1055817, "predecessors": [{"name": "Salon_liikenne", "id": 763346}, {"name": "Salon_rakennukset_ja_rakennelmat", "id": 636827}, {"name": "Hallinto", "id": 26870}], "successors": []}

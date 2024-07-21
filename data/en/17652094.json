@@ -1,1 +1,1 @@
-{"name": "English_dictionaries", "id": 17652094, "predecessors": [{"name": "Language_education_materials", "id": 28083736}, {"name": "English_language", "id": 706725}], "successors": [{"name": "English_bilingual_dictionaries", "id": 17651359}, {"name": "Online_English_dictionaries", "id": 62004890}]}
+{"name": "English_dictionaries", "id": 17652094, "predecessors": [{"name": "Dictionaries_by_language", "id": 15435568}, {"name": "English_language", "id": 706725}], "successors": [{"name": "Online_English_dictionaries", "id": 62004890}]}

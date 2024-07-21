@@ -1,1 +1,1 @@
-{"name": "장갑", "id": 137588, "predecessors": [{"name": "장신구", "id": 40766}], "successors": []}
+{"name": "장갑", "id": 137588, "predecessors": [{"name": "손", "id": 617839}, {"name": "장신구", "id": 40766}], "successors": []}

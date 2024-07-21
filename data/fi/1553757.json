@@ -1,1 +1,1 @@
-{"name": "Digitaalinen_ääni", "id": 1553757, "predecessors": [{"name": "Digitaalinen_media", "id": 1548911}, {"name": "Äänentoistotekniikka", "id": 45302}], "successors": [{"name": "Äänitiedostomuodot", "id": 736214}, {"name": "Ääniohjelmistot", "id": 1557799}]}
+{"name": "Digitaalinen_ääni", "id": 1553757, "predecessors": [{"name": "Digitaalinen_media", "id": 1548911}, {"name": "Äänentoistotekniikka", "id": 45302}], "successors": [{"name": "Äänitiedostomuodot", "id": 736214}, {"name": "Musiikkiohjelmistot", "id": 232459}]}

@@ -1,1 +1,0 @@
-{"name": "Mars_Exploration_Program", "id": 64760778, "predecessors": [{"name": "Exploration_of_Mars", "id": 36679739}], "successors": [{"name": "Mars_Reconnaissance_Orbiter", "id": 31541403}, {"name": "Mars_Science_Laboratory", "id": 35539943}, {"name": "Mars_Exploration_Rover_mission", "id": 39028939}, {"name": "Mars_2020", "id": 43448042}]}

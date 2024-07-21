@@ -1,1 +1,1 @@
-{"name": "Beveiligingssoftware", "id": 1759109, "predecessors": [{"name": "Software", "id": 65258}, {"name": "Computercriminaliteit", "id": 2722821}], "successors": [{"name": "Antivirussoftware", "id": 1769141}]}
+{"name": "Beveiligingssoftware", "id": 1759109, "predecessors": [{"name": "Computerbeveiliging", "id": 5579922}, {"name": "Software", "id": 65258}], "successors": [{"name": "Antivirussoftware", "id": 1769141}]}

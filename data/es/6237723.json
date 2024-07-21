@@ -1,1 +1,1 @@
-{"name": "Marcas_de_automóviles", "id": 6237723, "predecessors": [{"name": "Industria_automotriz", "id": 6424489}, {"name": "Marcas_comerciales", "id": 1188838}, {"name": "Vehículos", "id": 66642}], "successors": [{"name": "Peugeot", "id": 420638}]}
+{"name": "Marcas_de_automóviles", "id": 6237723, "predecessors": [{"name": "Marcas_comerciales", "id": 1188838}], "successors": [{"name": "Peugeot", "id": 420638}]}

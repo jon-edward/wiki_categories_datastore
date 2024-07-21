@@ -1,1 +1,1 @@
-{"name": "Help_desk_software", "id": 52407277, "predecessors": [{"name": "Bug_and_issue_tracking_software", "id": 8263775}, {"name": "Customer_relationship_management_software", "id": 15097900}, {"name": "Help_desk", "id": 5897118}], "successors": []}
+{"name": "Help_desk_software", "id": 52407277, "predecessors": [{"name": "Bug_and_issue_tracking_software", "id": 8263775}, {"name": "Customer_relationship_management_software", "id": 15097900}], "successors": []}

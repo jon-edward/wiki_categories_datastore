@@ -1,1 +1,0 @@
-{"name": "Contract_bridge_card_play", "id": 31374005, "predecessors": [{"name": "Contract_bridge", "id": 16193797}], "successors": [{"name": "Contract_bridge_squeezes", "id": 3395011}, {"name": "Contract_bridge_coups", "id": 31377336}]}

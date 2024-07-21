@@ -1,1 +1,1 @@
-{"name": "Pliers", "id": 12543223, "predecessors": [{"name": "Metalworking_hand_tools", "id": 2647718}], "successors": []}
+{"name": "Pliers", "id": 12543223, "predecessors": [{"name": "Mechanical_hand_tools", "id": 846118}, {"name": "Metalworking_hand_tools", "id": 2647718}], "successors": []}

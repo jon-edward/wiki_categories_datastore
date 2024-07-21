@@ -1,1 +1,1 @@
-{"name": "Musiikkiohjelmistot", "id": 232459, "predecessors": [{"name": "Ääniohjelmistot", "id": 1557799}, {"name": "Musiikkityylit", "id": 260703}], "successors": [{"name": "Musiikkipelit", "id": 296032}, {"name": "Tracker-ohjelmistot", "id": 1557800}]}
+{"name": "Musiikkiohjelmistot", "id": 232459, "predecessors": [{"name": "Digitaalinen_ääni", "id": 1553757}, {"name": "Musiikkityylit", "id": 260703}], "successors": [{"name": "Musiikkipelit", "id": 296032}, {"name": "Tracker-ohjelmistot", "id": 1557800}]}

@@ -1,1 +1,1 @@
-{"name": "트랙터", "id": 695151, "predecessors": [{"name": "농기계", "id": 531431}], "successors": []}
+{"name": "트랙터", "id": 695151, "predecessors": [{"name": "건설기계", "id": 634217}, {"name": "농기계", "id": 531431}], "successors": []}

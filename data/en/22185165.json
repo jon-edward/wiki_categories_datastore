@@ -1,1 +1,1 @@
-{"name": "Hematopathology", "id": 22185165, "predecessors": [{"name": "Blood", "id": 968308}, {"name": "Clinical_pathology", "id": 10809366}], "successors": [{"name": "Sickle-cell_disease", "id": 45498202}]}
+{"name": "Hematopathology", "id": 22185165, "predecessors": [{"name": "Blood", "id": 968308}], "successors": [{"name": "Sickle-cell_disease", "id": 45498202}]}

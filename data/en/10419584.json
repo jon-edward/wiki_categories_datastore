@@ -1,1 +1,1 @@
-{"name": "Public_phones", "id": 10419584, "predecessors": [{"name": "Street_furniture", "id": 965867}, {"name": "Telecommunications_infrastructure", "id": 13040529}], "successors": [{"name": "Verizon", "id": 24686760}]}
+{"name": "Public_phones", "id": 10419584, "predecessors": [{"name": "Commercial_machines", "id": 18608853}, {"name": "Public_sphere", "id": 46279088}, {"name": "Street_furniture", "id": 965867}, {"name": "Telecommunications_infrastructure", "id": 13040529}, {"name": "Telephony_equipment", "id": 3987780}], "successors": []}

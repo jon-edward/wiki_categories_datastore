@@ -1,1 +1,1 @@
-{"name": "Turun_rautatieliikennepaikat", "id": 998555, "predecessors": [{"name": "Turun_liikenne", "id": 277708}, {"name": "Turun_rakennukset_ja_rakennelmat", "id": 279776}, {"name": "Varsinais-Suomen_rakennukset_ja_rakennelmat", "id": 767623}], "successors": []}
+{"name": "Turun_rautatieliikennepaikat", "id": 998555, "predecessors": [{"name": "Turun_liikenne", "id": 277708}, {"name": "Turun_rakennukset_ja_rakennelmat", "id": 279776}, {"name": "Hallinto", "id": 26870}], "successors": []}

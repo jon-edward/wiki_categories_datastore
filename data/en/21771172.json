@@ -1,1 +1,1 @@
-{"name": "Memory_researchers", "id": 21771172, "predecessors": [{"name": "Cognitive_neuroscientists", "id": 20786183}], "successors": []}
+{"name": "Memory_researchers", "id": 21771172, "predecessors": [{"name": "Cognitive_neuroscientists", "id": 20786183}, {"name": "Cognitive_psychologists", "id": 27368490}, {"name": "Cognitive_scientists", "id": 1844342}, {"name": "Memory", "id": 974363}], "successors": []}

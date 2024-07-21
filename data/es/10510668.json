@@ -1,1 +1,1 @@
-{"name": "Candidatos_presidenciales_de_Venezuela", "id": 10510668, "predecessors": [{"name": "Candidatos_presidenciales", "id": 5603508}, {"name": "Elecciones_presidenciales_de_Venezuela", "id": 1453686}, {"name": "Políticos_de_Venezuela", "id": 75997}], "successors": []}
+{"name": "Candidatos_presidenciales_de_Venezuela", "id": 10510668, "predecessors": [{"name": "Elecciones_presidenciales_de_Venezuela", "id": 1453686}, {"name": "Políticos_de_Venezuela", "id": 75997}], "successors": [{"name": "Henrique_Capriles", "id": 6287004}, {"name": "Santiago_Mariño", "id": 6983153}]}

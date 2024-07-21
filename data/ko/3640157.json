@@ -1,1 +1,1 @@
-{"name": "당절이", "id": 3640157, "predecessors": [{"name": "설탕", "id": 1193689}, {"name": "식품_보존", "id": 66507}], "successors": [{"name": "잼", "id": 3152291}]}
+{"name": "당절이", "id": 3640157, "predecessors": [{"name": "설탕", "id": 1193689}], "successors": [{"name": "잼", "id": 3152291}]}

@@ -1,1 +1,1 @@
-{"name": "Enfermedades_parasitarias", "id": 75068, "predecessors": [{"name": "Parasitología", "id": 1046810}], "successors": [{"name": "Parásitos", "id": 229534}, {"name": "Protozoosis", "id": 1209708}, {"name": "Micosis", "id": 2973863}, {"name": "Nematodiasis", "id": 2340088}]}
+{"name": "Enfermedades_parasitarias", "id": 75068, "predecessors": [{"name": "Parasitología", "id": 1046810}], "successors": [{"name": "Parásitos", "id": 229534}, {"name": "Protozoosis", "id": 1209708}, {"name": "Micosis", "id": 2973863}]}

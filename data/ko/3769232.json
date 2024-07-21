@@ -1,1 +1,1 @@
-{"name": "U-12_스포츠_대회", "id": 3769232, "predecessors": [{"name": "스포츠", "id": 8865}, {"name": "유형별_스포츠", "id": 534595}], "successors": []}
+{"name": "U-12_스포츠_대회", "id": 3769232, "predecessors": [{"name": "유형별_스포츠", "id": 534595}, {"name": "나이와_사회", "id": 3319375}], "successors": []}

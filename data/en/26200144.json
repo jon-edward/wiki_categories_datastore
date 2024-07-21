@@ -1,1 +1,1 @@
-{"name": "Healthcare_in_California", "id": 26200144, "predecessors": [{"name": "1850_establishments_in_the_United_States", "id": 28903931}, {"name": "Health_care", "id": 35880954}], "successors": [{"name": "Dignity_Health", "id": 35238327}, {"name": "Health_departments_in_California", "id": 63792119}]}
+{"name": "Healthcare_in_California", "id": 26200144, "predecessors": [{"name": "Contiguous_United_States", "id": 69260338}, {"name": "Health_care", "id": 35880954}], "successors": [{"name": "Health_departments_in_California", "id": 63792119}]}

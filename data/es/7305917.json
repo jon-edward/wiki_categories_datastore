@@ -1,1 +1,1 @@
-{"name": "Colon", "id": 7305917, "predecessors": [{"name": "Abdomen", "id": 319546}, {"name": "Aparato_digestivo", "id": 51109}, {"name": "Intestino_grueso", "id": 1779822}], "successors": [{"name": "Fallecidos_por_cáncer_colorrectal", "id": 4764706}]}
+{"name": "Colon", "id": 7305917, "predecessors": [{"name": "Abdomen", "id": 319546}, {"name": "Intestino_grueso", "id": 1779822}], "successors": [{"name": "Ano_humano", "id": 5330634}, {"name": "Fallecidos_por_cáncer_colorrectal", "id": 4764706}]}

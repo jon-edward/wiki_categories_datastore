@@ -1,1 +1,1 @@
-{"name": "Computer_graphic_artifacts", "id": 7475196, "predecessors": [{"name": "Image_processing", "id": 962413}, {"name": "Error", "id": 1195726}, {"name": "Science_of_photography", "id": 9851382}], "successors": []}
+{"name": "Computer_graphic_artifacts", "id": 7475196, "predecessors": [{"name": "Computer_graphics", "id": 735771}, {"name": "Image_processing", "id": 962413}, {"name": "Error", "id": 1195726}, {"name": "Science_of_photography", "id": 9851382}], "successors": []}

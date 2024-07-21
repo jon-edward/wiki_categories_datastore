@@ -1,1 +1,1 @@
-{"name": "Scénariste_de_comic_book", "id": 13293415, "predecessors": [{"name": "Comics", "id": 83311}, {"name": "Scénariste_de_bande_dessinée", "id": 1320480}, {"name": "Auteur_de_bande_dessinée", "id": 195476}], "successors": [{"name": "Scénariste_britannique_de_comic_book", "id": 13296009}]}
+{"name": "Scénariste_de_comic_book", "id": 13293415, "predecessors": [{"name": "Comics", "id": 83311}, {"name": "Scénariste_de_bande_dessinée", "id": 1320480}, {"name": "Métier", "id": 87726}], "successors": [{"name": "Scénariste_britannique_de_comic_book", "id": 13296009}]}

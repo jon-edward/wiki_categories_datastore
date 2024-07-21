@@ -1,1 +1,1 @@
-{"name": "Némafilmek", "id": 182275, "predecessors": [{"name": "Média", "id": 31049}], "successors": [{"name": "Magyar_némafilmek", "id": 1939321}, {"name": "Amerikai_némafilmek", "id": 1939329}]}
+{"name": "Némafilmek", "id": 182275, "predecessors": [{"name": "Film", "id": 195249}], "successors": [{"name": "Magyar_némafilmek", "id": 1939321}, {"name": "Amerikai_némafilmek", "id": 1939329}]}

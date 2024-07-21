@@ -1,1 +1,1 @@
-{"name": "Wii_controllers", "id": 36003605, "predecessors": [{"name": "Wii", "id": 5037862}], "successors": []}
+{"name": "Wii_controllers", "id": 36003605, "predecessors": [{"name": "Nintendo_controllers", "id": 36003624}, {"name": "Nintendo_hardware", "id": 1020908}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Sindromoj", "id": 258732, "predecessors": [{"name": "Malsanoj", "id": 32900}, {"name": "Nozologio", "id": 545761}, {"name": "Patologio", "id": 319023}], "successors": []}
+{"name": "Sindromoj", "id": 258732, "predecessors": [{"name": "Malsanoj", "id": 32900}, {"name": "Nozologio", "id": 545761}, {"name": "Patologio", "id": 319023}], "successors": [{"name": "Konduta_dependeco", "id": 625354}]}

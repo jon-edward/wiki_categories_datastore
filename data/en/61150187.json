@@ -1,1 +1,1 @@
-{"name": "FK_Vidar_players", "id": 61150187, "predecessors": [{"name": "Sport_in_Stavanger", "id": 9994333}, {"name": "Team_sports", "id": 700681}], "successors": []}
+{"name": "FK_Vidar_players", "id": 61150187, "predecessors": [{"name": "Football_clubs_in_Norway", "id": 34431974}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Vägar_i_Danmark", "id": 337203, "predecessors": [{"name": "Transport_i_Europa", "id": 445120}, {"name": "Vägar", "id": 73795}, {"name": "Transport_i_Danmark", "id": 426143}], "successors": [{"name": "Motorvägar_i_Danmark", "id": 145190}]}
+{"name": "Vägar_i_Danmark", "id": 337203, "predecessors": [{"name": "Transport_i_Europa", "id": 445120}, {"name": "Vägar", "id": 73795}, {"name": "Transport_i_Danmark", "id": 426143}], "successors": [{"name": "Motorvägar_i_Danmark", "id": 145190}, {"name": "Europavägar_i_Danmark", "id": 8820143}]}

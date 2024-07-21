@@ -1,1 +1,1 @@
-{"name": "Aeropuertos_de_Colombia", "id": 207244, "predecessors": [{"name": "Aeropuertos", "id": 74698}, {"name": "Infraestructuras_de_transporte", "id": 318244}, {"name": "Aviación", "id": 282606}, {"name": "Geografía_física", "id": 741956}], "successors": []}
+{"name": "Aeropuertos_de_Colombia", "id": 207244, "predecessors": [{"name": "Transporte_de_Colombia", "id": 239838}, {"name": "Aviación", "id": 282606}, {"name": "Geografía_física", "id": 741956}], "successors": []}

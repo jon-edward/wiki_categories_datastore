@@ -1,1 +1,1 @@
-{"name": "Procurement", "id": 7540641, "predecessors": [{"name": "Management", "id": 787284}, {"name": "Supply_chain_management", "id": 1229089}], "successors": [{"name": "Government_procurement", "id": 26014151}, {"name": "Royal_Warrant_holders", "id": 30188812}, {"name": "Purchasing_consortia", "id": 32242859}]}
+{"name": "Procurement", "id": 7540641, "predecessors": [{"name": "Management", "id": 787284}], "successors": [{"name": "Government_procurement", "id": 26014151}, {"name": "Royal_Warrant_holders", "id": 30188812}, {"name": "Purchasing_consortia", "id": 32242859}]}

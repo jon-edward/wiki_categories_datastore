@@ -1,1 +1,1 @@
-{"name": "Estudio_de_la_historieta", "id": 3768588, "predecessors": [{"name": "Historieta", "id": 50608}], "successors": [{"name": "Críticos_de_historieta_de_España", "id": 5288119}, {"name": "Colaboradores_de_Tebeosfera", "id": 9046065}]}
+{"name": "Estudio_de_la_historieta", "id": 3768588, "predecessors": [{"name": "Crítica", "id": 4332135}, {"name": "Historieta", "id": 50608}], "successors": [{"name": "Revistas_sobre_historieta", "id": 4214646}, {"name": "Críticos_de_historieta_de_España", "id": 5288119}, {"name": "Colaboradores_de_Tebeosfera", "id": 9046065}]}

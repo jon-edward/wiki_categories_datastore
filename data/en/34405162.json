@@ -1,1 +1,1 @@
-{"name": "Biosecurity", "id": 34405162, "predecessors": [{"name": "Toxicology", "id": 1043816}], "successors": []}
+{"name": "Biosecurity", "id": 34405162, "predecessors": [{"name": "Bioethics", "id": 1374248}, {"name": "Environmental_issues", "id": 15877642}, {"name": "Security", "id": 1238492}, {"name": "Toxicology", "id": 1043816}], "successors": []}

@@ -1,1 +1,0 @@
-{"name": "Kimia_polimer", "id": 321702, "predecessors": [{"name": "Kimia_fizik", "id": 84642}, {"name": "Sains_bahan", "id": 58301}], "successors": [{"name": "Polimer", "id": 321701}, {"name": "Monomer", "id": 973742}]}

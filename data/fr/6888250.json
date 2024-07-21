@@ -1,1 +1,1 @@
-{"name": "Palette_Nord", "id": 6888250, "predecessors": [{"name": "Modèle_Nord_(département_français)", "id": 12977664}, {"name": "Palette_Département_français", "id": 4284679}, {"name": "Palette_Hauts-de-France", "id": 9328700}], "successors": []}
+{"name": "Palette_Nord", "id": 6888250, "predecessors": [{"name": "Palette_Département_français", "id": 4284679}, {"name": "Palette_Hauts-de-France", "id": 9328700}, {"name": "Accueil", "id": 1155637}], "successors": []}

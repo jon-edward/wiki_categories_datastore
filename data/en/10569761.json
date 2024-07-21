@@ -1,1 +1,1 @@
-{"name": "Educational_projects", "id": 10569761, "predecessors": [{"name": "Collaborative_projects", "id": 11830035}], "successors": [{"name": "Digital_history_projects", "id": 24889625}]}
+{"name": "Educational_projects", "id": 10569761, "predecessors": [{"name": "Collaborative_projects", "id": 11830035}, {"name": "Education", "id": 696763}], "successors": [{"name": "Digital_library_projects", "id": 22785953}, {"name": "Digital_history_projects", "id": 24889625}]}

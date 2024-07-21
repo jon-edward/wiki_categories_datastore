@@ -1,1 +1,1 @@
-{"name": "Breathing_abnormalities", "id": 2481000, "predecessors": [{"name": "Symptoms_and_signs:_Respiratory_system", "id": 32552512}], "successors": []}
+{"name": "Breathing_abnormalities", "id": 2481000, "predecessors": [{"name": "Respiration", "id": 1320459}, {"name": "Symptoms_and_signs:_Respiratory_system", "id": 32552512}], "successors": []}

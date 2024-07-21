@@ -1,1 +1,1 @@
-{"name": "Tren_de_lujo", "id": 10608164, "predecessors": [{"name": "Tipos_de_servicios_ferroviarios", "id": 5268935}, {"name": "Riqueza", "id": 3055529}], "successors": []}
+{"name": "Tren_de_lujo", "id": 10608164, "predecessors": [{"name": "Riqueza", "id": 3055529}], "successors": []}

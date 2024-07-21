@@ -1,1 +1,1 @@
-{"name": "Nonparametric_regression", "id": 34760967, "predecessors": [{"name": "Regression_analysis", "id": 6534587}], "successors": []}
+{"name": "Nonparametric_regression", "id": 34760967, "predecessors": [{"name": "Nonparametric_statistics", "id": 9387252}, {"name": "Regression_analysis", "id": 6534587}], "successors": []}

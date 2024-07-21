@@ -1,1 +1,1 @@
-{"name": "Paleoecology", "id": 68666059, "predecessors": [{"name": "Evolution_of_the_biosphere", "id": 69245562}], "successors": [{"name": "Palynology", "id": 1270812}]}
+{"name": "Paleoecology", "id": 68666059, "predecessors": [{"name": "Evolution_of_the_biosphere", "id": 69245562}, {"name": "Paleobiology", "id": 27481266}, {"name": "Subfields_of_paleontology", "id": 14828241}], "successors": [{"name": "Palynology", "id": 1270812}]}

@@ -1,1 +1,1 @@
-{"name": "Hanoi_Metro_stations", "id": 60339745, "predecessors": [{"name": "Railway_stations_in_Hanoi", "id": 41838835}, {"name": "Rapid_transit_in_Vietnam", "id": 18500582}, {"name": "Railway_stations_in_Vietnam", "id": 19671258}], "successors": []}
+{"name": "Hanoi_Metro_stations", "id": 60339745, "predecessors": [{"name": "Rapid_transit_in_Vietnam", "id": 18500582}], "successors": []}

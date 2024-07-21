@@ -1,1 +1,1 @@
-{"name": "펌프", "id": 771926, "predecessors": [{"name": "기구학", "id": 771927}], "successors": [{"name": "열펌프", "id": 3748380}]}
+{"name": "펌프", "id": 771926, "predecessors": [{"name": "기구학", "id": 771927}, {"name": "수리학", "id": 129754}, {"name": "유체동역학", "id": 766024}], "successors": [{"name": "열펌프", "id": 3748380}]}

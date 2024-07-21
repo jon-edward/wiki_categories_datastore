@@ -1,1 +1,1 @@
-{"name": "Diplomáticos_de_Portugal", "id": 1086506, "predecessors": [{"name": "Funcionarios_de_gobierno", "id": 2493572}], "successors": []}
+{"name": "Diplomáticos_de_Portugal", "id": 1086506, "predecessors": [{"name": "Diplomáticos", "id": 69233}, {"name": "Política_de_Portugal", "id": 220104}, {"name": "Ocupaciones", "id": 77994}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Hombres_ficticios", "id": 8265540, "predecessors": [{"name": "Hombres", "id": 7698981}, {"name": "Humanos_de_ficción", "id": 8010973}], "successors": [{"name": "Príncipes_ficticios", "id": 3002620}, {"name": "Dioses_en_la_ficción", "id": 9478959}]}
+{"name": "Hombres_ficticios", "id": 8265540, "predecessors": [{"name": "Hombres", "id": 7698981}, {"name": "Humanos_de_ficción", "id": 8010973}, {"name": "Género", "id": 2253349}], "successors": [{"name": "Príncipes_ficticios", "id": 3002620}]}

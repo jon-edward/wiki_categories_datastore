@@ -1,1 +1,1 @@
-{"name": "Perancangan", "id": 82178, "predecessors": [{"name": "Masa_depan", "id": 76472}, {"name": "Pemikiran", "id": 81769}, {"name": "Tingkah_laku_manusia", "id": 82073}], "successors": [{"name": "Kajian_dan_perancangan_bandar", "id": 162133}]}
+{"name": "Perancangan", "id": 82178, "predecessors": [{"name": "Masa_depan", "id": 76472}, {"name": "Tingkah_laku_manusia", "id": 82073}, {"name": "Sejarah", "id": 8026}], "successors": [{"name": "Kajian_dan_perancangan_bandar", "id": 162133}]}

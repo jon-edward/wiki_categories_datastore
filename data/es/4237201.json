@@ -1,1 +1,1 @@
-{"name": "Química_del_vidrio", "id": 4237201, "predecessors": [{"name": "Vidrios", "id": 1189755}], "successors": []}
+{"name": "Química_del_vidrio", "id": 4237201, "predecessors": [{"name": "Química_inorgánica", "id": 51540}, {"name": "Vidrios", "id": 1189755}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "아동병원", "id": 1356711, "predecessors": [{"name": "병원", "id": 45187}, {"name": "소아청소년과", "id": 507748}, {"name": "아동_복지", "id": 618790}, {"name": "어린이", "id": 75338}], "successors": []}
+{"name": "아동병원", "id": 1356711, "predecessors": [{"name": "소아청소년과", "id": 507748}, {"name": "아동_복지", "id": 618790}], "successors": []}

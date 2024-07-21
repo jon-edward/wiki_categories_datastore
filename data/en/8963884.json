@@ -1,0 +1,1 @@
+{"name": "Cluster_computing", "id": 8963884, "predecessors": [{"name": "Distributed_computing_architecture", "id": 23786379}], "successors": [{"name": "High-availability_cluster_computing", "id": 9990867}, {"name": "Hadoop", "id": 33026086}]}

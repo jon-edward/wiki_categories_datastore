@@ -1,1 +1,1 @@
-{"name": "Propraj_nomoj", "id": 553908, "predecessors": [{"name": "Familia_juro", "id": 299926}, {"name": "Genealogio", "id": 166537}, {"name": "Personaj_nomoj", "id": 219252}], "successors": [{"name": "Epitetoj_de_la_grekaj_dioj", "id": 413442}]}
+{"name": "Propraj_nomoj", "id": 553908, "predecessors": [{"name": "Familia_juro", "id": 299926}, {"name": "Genealogio", "id": 166537}, {"name": "Personaj_nomoj", "id": 219252}], "successors": [{"name": "Epitetoj", "id": 553907}]}

@@ -1,1 +1,1 @@
-{"name": "Bacillota", "id": 954864, "predecessors": [{"name": "Gram-positive_bacteria", "id": 26746362}, {"name": "Bacteria", "id": 948811}], "successors": []}
+{"name": "Bacillota", "id": 954864, "predecessors": [{"name": "Gram-positive_bacteria", "id": 26746362}, {"name": "Bacteria", "id": 948811}], "successors": [{"name": "Clostridia", "id": 3668759}, {"name": "Negativicutes", "id": 44599769}, {"name": "Bacillales", "id": 3638796}, {"name": "Lactobacillales", "id": 7233143}, {"name": "Erysipelotrichia", "id": 44598361}]}

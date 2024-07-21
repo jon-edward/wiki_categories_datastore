@@ -1,1 +1,1 @@
-{"name": "Autobuses_eléctricos", "id": 3734917, "predecessors": [{"name": "Tipos_de_autobús", "id": 5162943}, {"name": "Vehículos_eléctricos", "id": 796404}], "successors": [{"name": "Fabricantes_de_autobuses_eléctricos", "id": 6220068}]}
+{"name": "Autobuses_eléctricos", "id": 3734917, "predecessors": [{"name": "Tipos_de_autobús", "id": 5162943}], "successors": [{"name": "Fabricantes_de_autobuses_eléctricos", "id": 6220068}]}

@@ -1,1 +1,1 @@
-{"name": "Round-the-world_sailing_competitions", "id": 46524632, "predecessors": [{"name": "Offshore_sailing_competitions", "id": 73814301}], "successors": [{"name": "Vendée_Globe", "id": 66390948}, {"name": "The_Ocean_Race", "id": 71491302}]}
+{"name": "Round-the-world_sailing_competitions", "id": 46524632, "predecessors": [{"name": "Offshore_sailing_competitions", "id": 73814301}, {"name": "Navigation", "id": 716308}], "successors": [{"name": "Vendée_Globe", "id": 66390948}, {"name": "The_Ocean_Race", "id": 71491302}]}

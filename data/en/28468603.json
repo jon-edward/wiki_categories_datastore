@@ -1,1 +1,1 @@
-{"name": "Digital_forensics", "id": 28468603, "predecessors": [{"name": "Computer_law", "id": 1166522}, {"name": "Cybercrime", "id": 9880899}, {"name": "Forensic_disciplines", "id": 24241646}], "successors": [{"name": "Computer_forensics", "id": 12944421}, {"name": "Digital_forensics_software", "id": 29934595}]}
+{"name": "Digital_forensics", "id": 28468603, "predecessors": [{"name": "Computer_law", "id": 1166522}, {"name": "Cybercrime", "id": 9880899}], "successors": [{"name": "Computer_forensics", "id": 12944421}, {"name": "Digital_forensics_software", "id": 29934595}]}

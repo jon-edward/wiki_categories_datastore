@@ -1,1 +1,1 @@
-{"name": "Geografiaj_objektoj", "id": 41269, "predecessors": [{"name": "Geografio", "id": 30375}], "successors": [{"name": "Ŝtato", "id": 173365}, {"name": "Administraj_unuoj", "id": 527448}]}
+{"name": "Geografiaj_objektoj", "id": 41269, "predecessors": [{"name": "Geografio", "id": 30375}], "successors": [{"name": "Fizikaj_geografiaj_objektoj", "id": 407981}, {"name": "Ŝtato", "id": 173365}, {"name": "Administraj_unuoj", "id": 527448}]}

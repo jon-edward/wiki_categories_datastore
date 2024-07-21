@@ -1,1 +1,1 @@
-{"name": "Pengurusan_mutu", "id": 283296, "predecessors": [{"name": "Kaedah_penilaian", "id": 82523}, {"name": "Pengeluaran_dan_perkilangan", "id": 78663}, {"name": "Futurologi", "id": 76471}, {"name": "Pengurusan", "id": 61116}], "successors": [{"name": "Kawalan_mutu", "id": 283298}]}
+{"name": "Pengurusan_mutu", "id": 283296, "predecessors": [{"name": "Kaedah_penilaian", "id": 82523}, {"name": "Pengeluaran_dan_perkilangan", "id": 78663}, {"name": "Futurologi", "id": 76471}, {"name": "Pengurusan", "id": 61116}], "successors": []}

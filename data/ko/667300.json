@@ -1,1 +1,1 @@
-{"name": "휠체어", "id": 667300, "predecessors": [{"name": "의자", "id": 86671}, {"name": "장애", "id": 51556}], "successors": []}
+{"name": "휠체어", "id": 667300, "predecessors": [{"name": "장애", "id": 51556}, {"name": "탈것", "id": 41512}], "successors": []}

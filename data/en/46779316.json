@@ -1,1 +1,1 @@
-{"name": "Dust_storms", "id": 46779316, "predecessors": [{"name": "Dust", "id": 53617935}, {"name": "Storms", "id": 1539279}, {"name": "Weather_hazards", "id": 2638252}], "successors": [{"name": "Dust_Bowl", "id": 29176549}]}
+{"name": "Dust_storms", "id": 46779316, "predecessors": [{"name": "Dust", "id": 53617935}], "successors": [{"name": "Dust_Bowl", "id": 29176549}]}

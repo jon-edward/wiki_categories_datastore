@@ -1,1 +1,1 @@
-{"name": "Skotaj_biologoj", "id": 331100, "predecessors": [{"name": "Britaj_biologoj", "id": 194439}, {"name": "Skotaj_sciencistoj", "id": 331102}], "successors": []}
+{"name": "Skotaj_biologoj", "id": 331100, "predecessors": [{"name": "Britaj_biologoj", "id": 194439}, {"name": "Skotaj_sciencistoj", "id": 331102}], "successors": [{"name": "Skotaj_zoologoj", "id": 331098}, {"name": "Skotaj_botanikistoj", "id": 623998}]}

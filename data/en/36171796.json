@@ -1,1 +1,1 @@
-{"name": "Jewellery_museums", "id": 36171796, "predecessors": [{"name": "Decorative_arts_museums", "id": 3018567}, {"name": "Fashion_museums", "id": 19013081}], "successors": [{"name": "Jewelry_in_the_Metropolitan_Museum_of_Art", "id": 53356129}]}
+{"name": "Jewellery_museums", "id": 36171796, "predecessors": [{"name": "Decorative_arts_museums", "id": 3018567}, {"name": "Fashion_museums", "id": 19013081}, {"name": "Jewellery", "id": 805647}, {"name": "Taxonomy", "id": 918375}], "successors": [{"name": "Jewelry_in_the_Metropolitan_Museum_of_Art", "id": 53356129}]}

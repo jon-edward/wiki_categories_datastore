@@ -1,1 +1,1 @@
-{"name": "Vitaminoj", "id": 136851, "predecessors": [{"name": "Dietaj_suplementoj", "id": 548999}, {"name": "Nutraĵo", "id": 60609}], "successors": []}
+{"name": "Vitaminoj", "id": 136851, "predecessors": [{"name": "Dietaj_suplementoj", "id": 548999}, {"name": "Nutraĵo", "id": 60609}], "successors": [{"name": "Tiaminoj", "id": 825196}]}

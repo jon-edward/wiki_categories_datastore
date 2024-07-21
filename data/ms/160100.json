@@ -1,1 +1,1 @@
-{"name": "Perubahan_iklim", "id": 160100, "predecessors": [{"name": "Klimatologi", "id": 160103}, {"name": "Sejarah_iklim", "id": 160105}], "successors": [{"name": "Aktivis_iklim", "id": 1122497}, {"name": "Gas_rumah_hijau", "id": 969080}]}
+{"name": "Perubahan_iklim", "id": 160100, "predecessors": [{"name": "Klimatologi", "id": 160103}, {"name": "Sejarah_iklim", "id": 160105}, {"name": "Kognisi", "id": 81768}], "successors": [{"name": "Aktivis_iklim", "id": 1122497}]}

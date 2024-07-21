@@ -1,1 +1,1 @@
-{"name": "Review_journals", "id": 39027285, "predecessors": [{"name": "Publications_by_format", "id": 11278400}], "successors": [{"name": "Physics_review_journals", "id": 21346311}, {"name": "Annual_Reviews_(publisher)_academic_journals", "id": 30527936}, {"name": "Expert_Review_journals", "id": 41921824}]}
+{"name": "Review_journals", "id": 39027285, "predecessors": [{"name": "Academic_publishing", "id": 2239162}], "successors": [{"name": "Annual_Reviews_(publisher)_academic_journals", "id": 30527936}]}

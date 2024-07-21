@@ -1,1 +1,1 @@
-{"name": "Free_TeX_software", "id": 4209207, "predecessors": [{"name": "Free_science_software", "id": 4188714}, {"name": "Free_typesetting_software", "id": 6702807}], "successors": [{"name": "Free_BibTeX_software", "id": 6607595}, {"name": "TeX_SourceForge_projects", "id": 6851183}, {"name": "Free_TeX_editors", "id": 7123614}]}
+{"name": "Free_TeX_software", "id": 4209207, "predecessors": [{"name": "Free_typesetting_software", "id": 6702807}, {"name": "TeX", "id": 695136}], "successors": [{"name": "Free_TeX_editors", "id": 7123614}]}

@@ -1,1 +1,1 @@
-{"name": "Suda_Poluso", "id": 581840, "predecessors": [{"name": "Ekstremaj_lokoj_sur_Tero", "id": 355875}, {"name": "Geografio_de_Antarkto", "id": 246790}, {"name": "Polusoj", "id": 571657}, {"name": "Ekozonoj", "id": 273559}], "successors": []}
+{"name": "Suda_Poluso", "id": 581840, "predecessors": [{"name": "Ekstremaj_lokoj_sur_Tero", "id": 355875}, {"name": "Geografio_de_Antarkto", "id": 246790}, {"name": "Orienta_Antarkto", "id": 813472}, {"name": "Polusoj", "id": 571657}], "successors": [{"name": "Ekspedicio_Terra_Nova", "id": 821155}]}

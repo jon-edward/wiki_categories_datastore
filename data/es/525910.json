@@ -1,1 +1,1 @@
-{"name": "Biología_matemática", "id": 525910, "predecessors": [{"name": "Matemáticas_aplicadas", "id": 4511937}], "successors": [{"name": "Matemática_médica", "id": 1582379}, {"name": "Bioestadística", "id": 3022824}, {"name": "Biología_computacional", "id": 10248545}]}
+{"name": "Biología_matemática", "id": 525910, "predecessors": [{"name": "Biología_teórica", "id": 437730}, {"name": "Matemáticas_aplicadas", "id": 4511937}], "successors": [{"name": "Bioestadística", "id": 3022824}, {"name": "Biología_computacional", "id": 10248545}]}

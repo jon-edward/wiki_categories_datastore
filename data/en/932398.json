@@ -1,1 +1,1 @@
-{"name": "Compact_cars", "id": 932398, "predecessors": [{"name": "Car_classifications", "id": 873684}], "successors": [{"name": "Compact_MPVs", "id": 5802790}, {"name": "Sport_compact_cars", "id": 5940542}, {"name": "Compact_sport_utility_vehicles", "id": 39819966}]}
+{"name": "Compact_cars", "id": 932398, "predecessors": [{"name": "Car_classifications", "id": 873684}], "successors": [{"name": "Compact_sport_utility_vehicles", "id": 39819966}]}

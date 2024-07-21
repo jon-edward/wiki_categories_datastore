@@ -1,1 +1,1 @@
-{"name": "Automasi", "id": 662647, "predecessors": [{"name": "Teknologi", "id": 8027}, {"name": "Kejuruteraan_elektrik", "id": 132087}], "successors": [{"name": "Robotik", "id": 662643}, {"name": "Pemanasan,_pengalihan_dan_penyamanan_udara", "id": 1030466}, {"name": "Mesin", "id": 83915}]}
+{"name": "Automasi", "id": 662647, "predecessors": [{"name": "Teknologi", "id": 8027}, {"name": "Sibernetik", "id": 82078}], "successors": [{"name": "Robotik", "id": 662643}, {"name": "Pemanasan,_pengalihan_dan_penyamanan_udara", "id": 1030466}]}

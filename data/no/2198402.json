@@ -1,1 +1,1 @@
-{"name": "Norske_radioprogramledere", "id": 2198402, "predecessors": [{"name": "Norske_programledere", "id": 13183}, {"name": "Radioprogramledere", "id": 2198395}], "successors": [{"name": "Programledere_for_NRK_Radio", "id": 2198443}]}
+{"name": "Norske_radioprogramledere", "id": 2198402, "predecessors": [{"name": "Radioprogramledere", "id": 2198395}, {"name": "Norske_TV-personligheter", "id": 84846}], "successors": [{"name": "Programledere_for_NRK_Radio", "id": 2198443}]}

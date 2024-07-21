@@ -1,1 +1,1 @@
-{"name": "Malalties_i_trastorns_metabòlics", "id": 868982, "predecessors": [{"name": "Metabolisme", "id": 52973}, {"name": "Malalties_i_trastorns", "id": 868952}], "successors": [{"name": "Diabetis_mellitus", "id": 630063}, {"name": "Obesitat", "id": 982174}]}
+{"name": "Malalties_i_trastorns_metabòlics", "id": 868982, "predecessors": [{"name": "Metabolisme", "id": 52973}, {"name": "Malalties_i_trastorns", "id": 868952}], "successors": [{"name": "Morts_de_diabetis_mellitus", "id": 1887901}]}

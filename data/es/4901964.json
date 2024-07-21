@@ -1,1 +1,1 @@
-{"name": "Películas_de_piratas", "id": 4901964, "predecessors": [{"name": "Películas_de_aventuras", "id": 171601}, {"name": "Piratería_en_la_ficción", "id": 6191663}, {"name": "Ficción", "id": 65453}], "successors": [{"name": "Películas_sobre_Peter_Pan", "id": 3058249}]}
+{"name": "Películas_de_piratas", "id": 4901964, "predecessors": [{"name": "Piratería_en_la_ficción", "id": 6191663}, {"name": "Ficción", "id": 65453}], "successors": [{"name": "Piratas_del_Caribe", "id": 994132}, {"name": "Películas_sobre_Peter_Pan", "id": 3058249}]}

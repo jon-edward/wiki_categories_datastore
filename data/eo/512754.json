@@ -1,1 +1,1 @@
-{"name": "Fikciaj_ŝtelistoj", "id": 512754, "predecessors": [{"name": "Fikciaj_krimuloj", "id": 470060}, {"name": "Krimoj_kontraŭ_proprieto", "id": 299942}], "successors": [{"name": "Arsène_Lupin", "id": 738807}, {"name": "Robin_Hood", "id": 872773}]}
+{"name": "Fikciaj_ŝtelistoj", "id": 512754, "predecessors": [{"name": "Fikciaj_krimuloj", "id": 470060}, {"name": "Ŝtelo", "id": 512755}], "successors": [{"name": "Ŝtelistoj_en_la_helena_mitologio", "id": 512753}, {"name": "Arsène_Lupin", "id": 738807}, {"name": "Robin_Hood", "id": 872773}]}

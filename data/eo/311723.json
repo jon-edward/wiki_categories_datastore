@@ -1,1 +1,1 @@
-{"name": "Operaj_reĝisoroj", "id": 311723, "predecessors": [{"name": "Opero", "id": 32193}, {"name": "Kino", "id": 43019}, {"name": "Teatro", "id": 46194}], "successors": [{"name": "Germanaj_operaj_reĝisoroj", "id": 629896}]}
+{"name": "Operaj_reĝisoroj", "id": 311723, "predecessors": [{"name": "Opero", "id": 32193}, {"name": "Teatraj_profesioj", "id": 608366}, {"name": "Kino", "id": 43019}], "successors": [{"name": "Germanaj_operaj_reĝisoroj", "id": 629896}]}

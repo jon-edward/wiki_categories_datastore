@@ -1,1 +1,1 @@
-{"name": "Food_grinding_tools", "id": 24663309, "predecessors": [{"name": "Food_preparation_utensils", "id": 24916231}, {"name": "Grinding_and_lapping", "id": 2682911}, {"name": "Grinding_mills", "id": 11277094}], "successors": [{"name": "Flour_mills", "id": 25898012}]}
+{"name": "Food_grinding_tools", "id": 24663309, "predecessors": [{"name": "Food_preparation_utensils", "id": 24916231}, {"name": "Grinding_mills", "id": 11277094}], "successors": [{"name": "Flour_mills", "id": 25898012}]}

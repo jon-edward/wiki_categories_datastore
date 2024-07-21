@@ -1,1 +1,1 @@
-{"name": "Compuestos_de_zinc", "id": 5286359, "predecessors": [{"name": "Zinc", "id": 5286357}, {"name": "Elementos_químicos", "id": 74308}], "successors": [{"name": "Proteínas_con_zinc", "id": 6114785}]}
+{"name": "Compuestos_de_zinc", "id": 5286359, "predecessors": [{"name": "Zinc", "id": 5286357}, {"name": "Compuestos_químicos", "id": 112512}], "successors": [{"name": "Proteínas_con_zinc", "id": 6114785}]}

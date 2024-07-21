@@ -1,1 +1,1 @@
-{"name": "Antarctic_agencies", "id": 28055131, "predecessors": [{"name": "Research_organizations", "id": 14561300}, {"name": "Continents", "id": 788686}], "successors": []}
+{"name": "Antarctic_agencies", "id": 28055131, "predecessors": [{"name": "Research_organizations", "id": 14561300}, {"name": "Environment_of_Antarctica", "id": 16904323}], "successors": [{"name": "Antarctica_research_agencies", "id": 70148375}]}

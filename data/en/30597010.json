@@ -1,1 +1,1 @@
-{"name": "Light_rail_in_Germany", "id": 30597010, "predecessors": [{"name": "Passenger_rail_transport_in_Germany", "id": 15878601}, {"name": "Rail_transport_in_Europe", "id": 5351311}], "successors": [{"name": "Cologne-Bonn_Stadtbahn_stations", "id": 40947423}, {"name": "Karlsruhe_Stadtbahn", "id": 55842118}, {"name": "Düsseldorf_VRR_stations", "id": 30760431}, {"name": "Dortmund_VRR_stations", "id": 30830452}]}
+{"name": "Light_rail_in_Germany", "id": 30597010, "predecessors": [{"name": "Passenger_rail_transport_in_Germany", "id": 15878601}], "successors": []}

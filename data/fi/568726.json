@@ -1,1 +1,1 @@
-{"name": "Saksan_taidemuseot", "id": 568726, "predecessors": [{"name": "Taidemuseot", "id": 305187}, {"name": "Saksalainen_kulttuuri", "id": 252361}], "successors": []}
+{"name": "Saksan_taidemuseot", "id": 568726, "predecessors": [{"name": "Saksan_taide", "id": 252005}, {"name": "Taidemuseot", "id": 305187}, {"name": "Saksalainen_kulttuuri", "id": 252361}], "successors": []}

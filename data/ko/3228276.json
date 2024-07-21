@@ -1,1 +1,1 @@
-{"name": "서양화가", "id": 3228276, "predecessors": [{"name": "서양_미술", "id": 539057}, {"name": "미술", "id": 13227}], "successors": []}
+{"name": "서양화가", "id": 3228276, "predecessors": [{"name": "서양_미술", "id": 539057}, {"name": "회화", "id": 198393}, {"name": "미술", "id": 13227}], "successors": []}

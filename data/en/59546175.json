@@ -1,1 +1,1 @@
-{"name": "Combinatorial_chemistry", "id": 59546175, "predecessors": [{"name": "Materials_science", "id": 709184}], "successors": []}
+{"name": "Combinatorial_chemistry", "id": 59546175, "predecessors": [{"name": "Cheminformatics", "id": 5438220}, {"name": "Combinatorics", "id": 691896}, {"name": "Materials_science", "id": 709184}], "successors": []}

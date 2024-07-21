@@ -1,1 +1,1 @@
-{"name": "Filmes_com_répteis", "id": 5847233, "predecessors": [{"name": "Filmes_com_animais", "id": 2215043}, {"name": "Répteis", "id": 50572}], "successors": [{"name": "Filmes_com_cobras", "id": 4304980}, {"name": "Filmes_sobre_crocodilos", "id": 4512170}]}
+{"name": "Filmes_com_répteis", "id": 5847233, "predecessors": [{"name": "Filmes_com_animais", "id": 2215043}, {"name": "Répteis", "id": 50572}], "successors": [{"name": "Filmes_com_cobras", "id": 4304980}, {"name": "Filmes_sobre_crocodilos", "id": 4512170}, {"name": "Filmes_sobre_dinossauros", "id": 5847227}]}

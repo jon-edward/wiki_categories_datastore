@@ -1,1 +1,1 @@
-{"name": "Enfermedad_de_Parkinson", "id": 4926826, "predecessors": [{"name": "Trastornos_extrapiramidales_y_del_movimiento", "id": 5124178}], "successors": [{"name": "Fallecidos_por_párkinson", "id": 5054979}, {"name": "Enfermos_por_párkinson", "id": 6402746}]}
+{"name": "Enfermedad_de_Parkinson", "id": 4926826, "predecessors": [{"name": "Enfermedades_epónimas", "id": 803498}, {"name": "Trastornos_extrapiramidales_y_del_movimiento", "id": 5124178}], "successors": []}

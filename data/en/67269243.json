@@ -1,1 +1,1 @@
-{"name": "Point_(geometry)", "id": 67269243, "predecessors": [{"name": "Elementary_geometry", "id": 1677614}], "successors": [{"name": "Point_processes", "id": 17193158}, {"name": "Geometric_centers", "id": 33432516}, {"name": "Triangle_centers", "id": 33432527}]}
+{"name": "Point_(geometry)", "id": 67269243, "predecessors": [{"name": "Elementary_geometry", "id": 1677614}, {"name": "Formal_sciences", "id": 17503782}], "successors": [{"name": "Point_processes", "id": 17193158}, {"name": "Geometric_centers", "id": 33432516}, {"name": "Triangle_centers", "id": 33432527}]}

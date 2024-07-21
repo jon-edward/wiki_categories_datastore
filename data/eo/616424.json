@@ -1,1 +1,1 @@
-{"name": "Movado_kontraŭ_nuklea_armilo", "id": 616424, "predecessors": [{"name": "Nuklea_armilo", "id": 285804}, {"name": "Ekologiismaj_movadoj", "id": 476907}, {"name": "Pacmovado", "id": 233015}], "successors": []}
+{"name": "Movado_kontraŭ_nuklea_armilo", "id": 616424, "predecessors": [{"name": "Kontraŭnukleaj_movadoj", "id": 476905}, {"name": "Nuklea_armilo", "id": 285804}, {"name": "Pacaj_movadoj", "id": 616425}], "successors": []}

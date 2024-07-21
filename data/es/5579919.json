@@ -1,1 +1,1 @@
-{"name": "Materiales_ferromagnéticos", "id": 5579919, "predecessors": [{"name": "Materiales_en_ingeniería", "id": 319318}, {"name": "Materiales", "id": 74562}], "successors": [{"name": "Níquel", "id": 3655117}]}
+{"name": "Materiales_ferromagnéticos", "id": 5579919, "predecessors": [{"name": "Magnetismo", "id": 175557}, {"name": "Materiales_en_ingeniería", "id": 319318}], "successors": [{"name": "Imanes", "id": 438028}, {"name": "Níquel", "id": 3655117}]}

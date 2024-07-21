@@ -1,1 +1,1 @@
-{"name": "Pont_sur_la_Vienne", "id": 6891135, "predecessors": [{"name": "Pont_franchissant_un_cours_d'eau_en_France", "id": 6920995}, {"name": "Monument_en_Indre-et-Loire", "id": 1683855}, {"name": "Poitou", "id": 603734}, {"name": "Architecture_en_France", "id": 4907456}], "successors": []}
+{"name": "Pont_sur_la_Vienne", "id": 6891135, "predecessors": [{"name": "Pont_en_Indre-et-Loire", "id": 2105948}, {"name": "Pont_franchissant_un_cours_d'eau_en_France", "id": 6920995}, {"name": "Poitou", "id": 603734}, {"name": "Architecture_en_France", "id": 4907456}], "successors": []}

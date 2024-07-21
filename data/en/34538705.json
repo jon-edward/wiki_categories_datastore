@@ -1,1 +1,1 @@
-{"name": "Destroyed_sculptures", "id": 34538705, "predecessors": [{"name": "Iconoclasm", "id": 54918859}, {"name": "Lost_sculptures", "id": 24231336}, {"name": "Architecture", "id": 708984}], "successors": [{"name": "Statue_of_Zeus_at_Olympia", "id": 73051058}]}
+{"name": "Destroyed_sculptures", "id": 34538705, "predecessors": [{"name": "Iconoclasm", "id": 54918859}, {"name": "Lost_sculptures", "id": 24231336}, {"name": "Destruction_of_buildings", "id": 36482766}], "successors": [{"name": "Statue_of_Zeus_at_Olympia", "id": 73051058}]}

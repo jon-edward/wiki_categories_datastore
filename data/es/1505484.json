@@ -1,1 +1,1 @@
-{"name": "Profesores_ficticios", "id": 1505484, "predecessors": [{"name": "Profesores", "id": 113460}], "successors": []}
+{"name": "Profesores_ficticios", "id": 1505484, "predecessors": [{"name": "Profesores", "id": 113460}, {"name": "Ocupaciones", "id": 77994}], "successors": []}

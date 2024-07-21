@@ -1,1 +1,1 @@
-{"name": "South_African_bankers", "id": 37080834, "predecessors": [{"name": "Banking_by_country", "id": 5578355}], "successors": [{"name": "Governors_of_the_South_African_Reserve_Bank", "id": 62629945}]}
+{"name": "South_African_bankers", "id": 37080834, "predecessors": [{"name": "Bankers", "id": 855391}, {"name": "Finance_in_South_Africa", "id": 52845297}], "successors": [{"name": "Governors_of_the_South_African_Reserve_Bank", "id": 62629945}]}

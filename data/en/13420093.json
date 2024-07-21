@@ -1,1 +1,1 @@
-{"name": "Tailless_aircraft", "id": 13420093, "predecessors": [{"name": "Aircraft_configurations", "id": 1024208}], "successors": [{"name": "Flying_wings", "id": 34463328}, {"name": "Tailless_delta-wing_aircraft", "id": 48615749}]}
+{"name": "Tailless_aircraft", "id": 13420093, "predecessors": [{"name": "Aircraft_configurations", "id": 1024208}], "successors": [{"name": "Flying_wings", "id": 34463328}]}

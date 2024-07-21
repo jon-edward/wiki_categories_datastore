@@ -1,1 +1,1 @@
-{"name": "Precursors_of_film", "id": 42175158, "predecessors": [{"name": "History_of_film", "id": 2260983}], "successors": [{"name": "Shadow_play", "id": 67275463}]}
+{"name": "Precursors_of_film", "id": 42175158, "predecessors": [{"name": "History_of_film", "id": 2260983}, {"name": "Optical_devices", "id": 1835556}], "successors": [{"name": "Shadow_play", "id": 67275463}, {"name": "Magic_lanterns", "id": 77271664}]}

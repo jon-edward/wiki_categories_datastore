@@ -1,1 +1,1 @@
-{"name": "Geografio_de_Bulgario", "id": 205265, "predecessors": [{"name": "Bulgario", "id": 28608}, {"name": "Geografio", "id": 30375}], "successors": [{"name": "Montaroj_en_Bulgario", "id": 332348}, {"name": "Danubo", "id": 226317}]}
+{"name": "Geografio_de_Bulgario", "id": 205265, "predecessors": [{"name": "Bulgario", "id": 28608}, {"name": "Geografio", "id": 30375}], "successors": [{"name": "Riveroj_en_Bulgario", "id": 226316}, {"name": "Vilaĝoj_de_Bulgario", "id": 303472}, {"name": "Montaroj_en_Bulgario", "id": 332348}]}

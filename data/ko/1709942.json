@@ -1,1 +1,1 @@
-{"name": "성소수자_왕족", "id": 1709942, "predecessors": [{"name": "왕족", "id": 243677}, {"name": "성소수자", "id": 1010228}], "successors": []}
+{"name": "성소수자_왕족", "id": 1709942, "predecessors": [{"name": "왕족", "id": 243677}, {"name": "직업별_사람", "id": 37930}], "successors": [{"name": "양성애자_왕족", "id": 1709940}]}

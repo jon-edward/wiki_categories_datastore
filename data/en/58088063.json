@@ -1,1 +1,1 @@
-{"name": "Community_development_financial_institutions", "id": 58088063, "predecessors": [{"name": "Community_development_organizations", "id": 58076881}], "successors": [{"name": "Credit_unions", "id": 1020482}]}
+{"name": "Community_development_financial_institutions", "id": 58088063, "predecessors": [{"name": "Community_development_organizations", "id": 58076881}, {"name": "Banking", "id": 1245386}], "successors": [{"name": "Credit_unions", "id": 1020482}]}

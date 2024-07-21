@@ -1,1 +1,1 @@
-{"name": "Cantantes_de_Armenia", "id": 393922, "predecessors": [{"name": "Músicos_de_Armenia", "id": 700811}, {"name": "Artistas", "id": 459774}, {"name": "Música", "id": 50615}], "successors": []}
+{"name": "Cantantes_de_Armenia", "id": 393922, "predecessors": [{"name": "Músicos_de_Armenia", "id": 700811}, {"name": "Cantantes", "id": 54148}], "successors": [{"name": "Cantantes_femeninas_de_Armenia", "id": 8653156}]}

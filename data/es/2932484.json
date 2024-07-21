@@ -1,1 +1,1 @@
-{"name": "Editores_de_gráficos_rasterizados", "id": 2932484, "predecessors": [{"name": "Software_de_gráficos", "id": 2932498}, {"name": "Aplicaciones_informáticas", "id": 54102}], "successors": [{"name": "Editores_de_gráficos_rasterizados_libres", "id": 4400794}]}
+{"name": "Editores_de_gráficos_rasterizados", "id": 2932484, "predecessors": [{"name": "Software_de_gráficos", "id": 2932498}, {"name": "Edición", "id": 4388048}], "successors": [{"name": "Editores_de_gráficos_rasterizados_libres", "id": 4400794}]}

@@ -1,1 +1,1 @@
-{"name": "이과학", "id": 621717, "predecessors": [{"name": "이비인후과", "id": 11730}], "successors": [{"name": "귀_질환", "id": 677542}, {"name": "청각학", "id": 896067}]}
+{"name": "이과학", "id": 621717, "predecessors": [{"name": "이비인후과", "id": 11730}, {"name": "청각계", "id": 28901}], "successors": [{"name": "귀_질환", "id": 677542}, {"name": "청각학", "id": 896067}]}

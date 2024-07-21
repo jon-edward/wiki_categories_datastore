@@ -1,1 +1,1 @@
-{"name": "Groupe_de_rock_industriel", "id": 4000829, "predecessors": [{"name": "Groupe_de_musique_industrielle", "id": 2915480}, {"name": "Groupe_de_rock_électronique", "id": 11333204}, {"name": "Groupe_de_rock", "id": 255583}, {"name": "Genre_de_rock", "id": 384523}], "successors": []}
+{"name": "Groupe_de_rock_industriel", "id": 4000829, "predecessors": [{"name": "Groupe_de_musique_industrielle", "id": 2915480}, {"name": "Groupe_de_rock_électronique", "id": 11333204}, {"name": "Musique_par_genre", "id": 2914843}, {"name": "Genre_de_rock", "id": 384523}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Anime_filmy", "id": 146593, "predecessors": [{"name": "Animované_filmy", "id": 42553}, {"name": "Animace", "id": 476451}, {"name": "Film", "id": 4620}], "successors": [{"name": "Death_Note", "id": 880420}]}
+{"name": "Anime_filmy", "id": 146593, "predecessors": [{"name": "Animace", "id": 476451}, {"name": "Film", "id": 4620}], "successors": [{"name": "Death_Note", "id": 880420}]}

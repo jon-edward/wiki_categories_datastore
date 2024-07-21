@@ -1,1 +1,1 @@
-{"name": "Urboj_de_Lublina_provinco", "id": 196412, "predecessors": [{"name": "Provincoj_de_Pollando", "id": 341944}], "successors": [{"name": "Lublino", "id": 607109}]}
+{"name": "Urboj_de_Lublina_provinco", "id": 196412, "predecessors": [{"name": "Lublina_provinco", "id": 196444}, {"name": "Provincoj_de_Pollando", "id": 341944}], "successors": [{"name": "Lublino", "id": 607109}]}

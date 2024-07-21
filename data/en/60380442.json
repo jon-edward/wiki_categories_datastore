@@ -1,1 +1,1 @@
-{"name": "African_Wrestling_Championships", "id": 60380442, "predecessors": [{"name": "African_championships", "id": 30164177}, {"name": "Wrestling_competitions", "id": 34372583}], "successors": []}
+{"name": "African_Wrestling_Championships", "id": 60380442, "predecessors": [{"name": "African_championships", "id": 30164177}, {"name": "Wrestling", "id": 933213}, {"name": "Athletic_sports", "id": 31210709}], "successors": [{"name": "African_Wrestling_Championships_medalists", "id": 67497756}]}

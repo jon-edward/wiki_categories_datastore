@@ -1,1 +1,1 @@
-{"name": "Antiemetics", "id": 838250, "predecessors": [{"name": "Drugs_acting_on_the_gastrointestinal_system_and_metabolism", "id": 22260378}, {"name": "Motion_sickness", "id": 44051850}, {"name": "Vomiting", "id": 4574651}], "successors": [{"name": "5-HT3_antagonists", "id": 1167363}]}
+{"name": "Antiemetics", "id": 838250, "predecessors": [{"name": "Motion_sickness", "id": 44051850}, {"name": "Vomiting", "id": 4574651}], "successors": [{"name": "5-HT3_antagonists", "id": 1167363}]}

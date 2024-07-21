@@ -1,1 +1,1 @@
-{"name": "Templat_Jepun", "id": 966110, "predecessors": [{"name": "Jepun", "id": 8521}], "successors": [{"name": "Templat_syarikat_Jepun", "id": 966108}]}
+{"name": "Templat_Jepun", "id": 966110, "predecessors": [{"name": "Jepun", "id": 8521}, {"name": "Templat_Asia", "id": 164083}], "successors": [{"name": "Templat_syarikat_Jepun", "id": 966108}]}

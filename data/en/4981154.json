@@ -1,1 +1,1 @@
-{"name": "Demo_effects", "id": 4981154, "predecessors": [{"name": "Demoscene", "id": 896561}], "successors": [{"name": "Scrolling", "id": 77146646}]}
+{"name": "Demo_effects", "id": 4981154, "predecessors": [{"name": "Computer_graphics", "id": 735771}, {"name": "Demoscene", "id": 896561}], "successors": [{"name": "Scrolling", "id": 77146646}]}

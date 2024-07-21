@@ -1,1 +1,1 @@
-{"name": "Patinaje_en_Francia", "id": 9214657, "predecessors": [{"name": "Cultura_de_Francia", "id": 74876}], "successors": [{"name": "Trofeo_Éric_Bompard", "id": 6069196}, {"name": "Clubes_de_hockey_sobre_patines_de_Francia", "id": 8844567}]}
+{"name": "Patinaje_en_Francia", "id": 9214657, "predecessors": [{"name": "Cultura_de_Francia", "id": 74876}, {"name": "Cartografía", "id": 51115}], "successors": [{"name": "Hockey_sobre_patines_en_Francia", "id": 6037433}, {"name": "Trofeo_Éric_Bompard", "id": 6069196}, {"name": "Patinadores_de_Francia", "id": 7383903}]}

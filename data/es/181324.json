@@ -1,1 +1,1 @@
-{"name": "Señales_de_tráfico", "id": 181324, "predecessors": [{"name": "Calles_y_carreteras", "id": 288740}, {"name": "Derecho_del_transporte_por_carretera", "id": 1574679}, {"name": "Mobiliario_urbano", "id": 2547739}, {"name": "Seguridad_vial", "id": 8653257}], "successors": []}
+{"name": "Señales_de_tráfico", "id": 181324, "predecessors": [{"name": "Derecho_del_transporte_por_carretera", "id": 1574679}, {"name": "Mobiliario_urbano", "id": 2547739}, {"name": "Seguridad_vial", "id": 8653257}], "successors": [{"name": "Señales_de_tráfico_por_país", "id": 8285502}]}

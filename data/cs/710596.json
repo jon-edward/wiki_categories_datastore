@@ -1,1 +1,1 @@
-{"name": "Dokumentární_filmy_o_přírodě", "id": 710596, "predecessors": [{"name": "Příroda", "id": 4408}, {"name": "Dokumentaristika", "id": 476465}], "successors": [{"name": "Dokumentární_filmy_o_dinosaurech", "id": 603048}]}
+{"name": "Dokumentární_filmy_o_přírodě", "id": 710596, "predecessors": [{"name": "Dokumentární_filmy", "id": 90287}, {"name": "Příroda", "id": 4408}], "successors": [{"name": "Dokumentární_filmy_o_dinosaurech", "id": 603048}]}

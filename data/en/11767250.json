@@ -1,1 +1,1 @@
-{"name": "American_Ballet_Theatre_dancers", "id": 11767250, "predecessors": [{"name": "Ballet_companies", "id": 1519523}], "successors": []}
+{"name": "American_Ballet_Theatre_dancers", "id": 11767250, "predecessors": [{"name": "American_Ballet_Theatre", "id": 14938605}, {"name": "Ballet_companies", "id": 1519523}], "successors": [{"name": "American_Ballet_Theatre_principal_dancers", "id": 19952645}, {"name": "American_Ballet_Theatre_soloists", "id": 19952751}]}

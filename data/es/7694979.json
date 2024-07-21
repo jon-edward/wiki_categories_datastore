@@ -1,1 +1,1 @@
-{"name": "Médicos_de_Rosario", "id": 7694979, "predecessors": [{"name": "Departamento_Rosario", "id": 6089332}, {"name": "Gentilicios", "id": 70166}], "successors": []}
+{"name": "Médicos_de_Rosario", "id": 7694979, "predecessors": [{"name": "Médicos_de_la_provincia_de_Santa_Fe", "id": 6304283}, {"name": "Departamento_Rosario", "id": 6089332}], "successors": []}

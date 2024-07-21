@@ -1,1 +1,1 @@
-{"name": "프리미어리그_심판", "id": 1986428, "predecessors": [{"name": "프리미어리그", "id": 195760}], "successors": []}
+{"name": "프리미어리그_심판", "id": 1986428, "predecessors": [{"name": "프리미어리그", "id": 195760}, {"name": "스포츠_관련_직업", "id": 274212}], "successors": []}

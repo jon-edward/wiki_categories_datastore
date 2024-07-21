@@ -1,1 +1,1 @@
-{"name": "Desequilibrios_electrolíticos", "id": 4092343, "predecessors": [{"name": "Enfermedades_metabólicas", "id": 62025}], "successors": []}
+{"name": "Desequilibrios_electrolíticos", "id": 4092343, "predecessors": [{"name": "Enfermedades_metabólicas", "id": 62025}, {"name": "Fisiología", "id": 51229}], "successors": []}

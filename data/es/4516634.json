@@ -1,1 +1,1 @@
-{"name": "Pilotos_de_aviación", "id": 4516634, "predecessors": [{"name": "Ocupaciones_aeronáuticas", "id": 5070937}], "successors": [{"name": "Aviadores_de_Argentina", "id": 628771}, {"name": "Pilotos_de_aviación_de_Venezuela", "id": 8313512}]}
+{"name": "Pilotos_de_aviación", "id": 4516634, "predecessors": [{"name": "Ocupaciones", "id": 77994}], "successors": [{"name": "Aviadores_de_Argentina", "id": 628771}, {"name": "Pilotos_de_aviación_de_Venezuela", "id": 8313512}]}

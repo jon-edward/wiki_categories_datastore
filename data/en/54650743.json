@@ -1,1 +1,1 @@
-{"name": "Autonomous_ships", "id": 54650743, "predecessors": [{"name": "Unmanned_surface_vehicles", "id": 32360938}], "successors": []}
+{"name": "Autonomous_ships", "id": 54650743, "predecessors": [{"name": "Robots", "id": 943048}, {"name": "Unmanned_surface_vehicles", "id": 32360938}, {"name": "Automation", "id": 885076}], "successors": []}

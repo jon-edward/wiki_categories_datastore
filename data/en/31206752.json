@@ -1,1 +1,1 @@
-{"name": "Ventilation_fans", "id": 31206752, "predecessors": [{"name": "Ventilation", "id": 31206635}], "successors": []}
+{"name": "Ventilation_fans", "id": 31206752, "predecessors": [{"name": "Equipment", "id": 3228046}, {"name": "Ventilation", "id": 31206635}], "successors": []}

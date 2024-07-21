@@ -1,1 +1,1 @@
-{"name": "Modelos_de_camiones", "id": 5523937, "predecessors": [{"name": "Camiones", "id": 181049}, {"name": "Vehículos_comerciales", "id": 6863931}, {"name": "Vehículos", "id": 66642}], "successors": [{"name": "Modelos_de_Iveco", "id": 3365168}]}
+{"name": "Modelos_de_camiones", "id": 5523937, "predecessors": [{"name": "Marcas_comerciales", "id": 1188838}], "successors": [{"name": "Modelos_de_Iveco", "id": 3365168}, {"name": "Camiones_de_Pegaso", "id": 8861124}]}

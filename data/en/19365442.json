@@ -1,1 +1,1 @@
-{"name": "Toho_monsters", "id": 19365442, "predecessors": [{"name": "Kaiju", "id": 789609}, {"name": "Toho_tokusatsu_films", "id": 36804862}, {"name": "Film_characters", "id": 1891545}], "successors": [{"name": "Godzilla_characters", "id": 9144528}]}
+{"name": "Toho_monsters", "id": 19365442, "predecessors": [{"name": "Godzilla_characters", "id": 9144528}, {"name": "Kaiju", "id": 789609}, {"name": "Toho_tokusatsu_films", "id": 36804862}], "successors": [{"name": "Godzilla_characters", "id": 9144528}]}

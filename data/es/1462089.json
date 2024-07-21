@@ -1,0 +1,1 @@
+{"name": "Control_de_plagas", "id": 1462089, "predecessors": [{"name": "Plagas", "id": 237169}], "successors": [{"name": "Pesticidas", "id": 264739}, {"name": "Control_biológico", "id": 1469356}]}

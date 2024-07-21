@@ -1,1 +1,1 @@
-{"name": "Judaj_socialistoj", "id": 682213, "predecessors": [{"name": "Judoj", "id": 289674}, {"name": "Socialismo", "id": 41192}, {"name": "Politikaj_movadoj", "id": 91346}], "successors": []}
+{"name": "Judaj_socialistoj", "id": 682213, "predecessors": [{"name": "Juda_socialismo", "id": 647218}, {"name": "Judoj", "id": 289674}, {"name": "Socialismo", "id": 41192}], "successors": [{"name": "Bundistoj", "id": 682211}]}

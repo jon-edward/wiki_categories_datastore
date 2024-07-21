@@ -1,1 +1,1 @@
-{"name": "TV-serier_från_CBS_Television_Studios", "id": 3899233, "predecessors": [{"name": "Företag", "id": 53776}, {"name": "CBS", "id": 3934471}], "successors": [{"name": "TV-serier_baserade_på_Star_Trek", "id": 3899232}]}
+{"name": "TV-serier_från_CBS_Television_Studios", "id": 3899233, "predecessors": [{"name": "TV-serier_från_Paramount_Television", "id": 8865179}, {"name": "CBS", "id": 3934471}], "successors": [{"name": "TV-serier_baserade_på_Star_Trek", "id": 3899232}]}

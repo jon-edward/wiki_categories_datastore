@@ -1,1 +1,1 @@
-{"name": "Virtual_keyboards", "id": 54684242, "predecessors": [{"name": "Assistive_technology", "id": 945499}, {"name": "Computer_keyboards", "id": 31037339}], "successors": []}
+{"name": "Virtual_keyboards", "id": 54684242, "predecessors": [{"name": "Assistive_technology", "id": 945499}, {"name": "Computer_keyboards", "id": 31037339}, {"name": "Pointing-device_text_input", "id": 8525467}, {"name": "Touch_user_interfaces", "id": 30843873}], "successors": []}

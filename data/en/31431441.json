@@ -1,1 +1,1 @@
-{"name": "Hunting_in_Australia", "id": 31431441, "predecessors": [{"name": "Fauna_of_Australia", "id": 6158266}, {"name": "Hunting", "id": 1067592}, {"name": "Sport_in_Australia", "id": 3020778}, {"name": "Tourism_in_Australia", "id": 2753262}], "successors": [{"name": "Whaling_in_Australia", "id": 27740992}, {"name": "Game_reserves_of_South_Australia", "id": 46602625}]}
+{"name": "Hunting_in_Australia", "id": 31431441, "predecessors": [{"name": "Sport_in_Australia", "id": 3020778}], "successors": [{"name": "Whaling_in_Australia", "id": 27740992}]}

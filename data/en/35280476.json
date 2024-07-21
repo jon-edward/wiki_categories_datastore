@@ -1,1 +1,1 @@
-{"name": "Telegraphists", "id": 35280476, "predecessors": [{"name": "Telegraphy", "id": 31130985}], "successors": [{"name": "Hello_Girls", "id": 63426359}]}
+{"name": "Telegraphists", "id": 35280476, "predecessors": [{"name": "Telegraphy", "id": 31130985}, {"name": "Human_communication", "id": 709574}], "successors": [{"name": "Hello_Girls", "id": 63426359}]}

@@ -1,1 +1,1 @@
-{"name": "Gender_in_language", "id": 10947954, "predecessors": [{"name": "Gender_and_society", "id": 57884326}], "successors": [{"name": "Grammatical_gender", "id": 10948051}, {"name": "Gender-neutral_language", "id": 27229160}]}
+{"name": "Gender_in_language", "id": 10947954, "predecessors": [{"name": "Gender_and_society", "id": 57884326}, {"name": "Language", "id": 8017451}], "successors": [{"name": "Grammatical_gender", "id": 10948051}, {"name": "Gender-neutral_language", "id": 27229160}]}

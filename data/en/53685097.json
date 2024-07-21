@@ -1,1 +1,1 @@
-{"name": "Political_plays", "id": 53685097, "predecessors": [{"name": "Theatrical_genres", "id": 1231826}, {"name": "Modernist_theatre", "id": 37525253}], "successors": [{"name": "Political_satire_plays", "id": 60543506}]}
+{"name": "Political_plays", "id": 53685097, "predecessors": [{"name": "Political_theatre", "id": 25252176}, {"name": "Theatrical_genres", "id": 1231826}], "successors": [{"name": "Political_satire_plays", "id": 60543506}]}

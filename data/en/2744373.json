@@ -1,1 +1,1 @@
-{"name": "Hotels_in_Vienna", "id": 2744373, "predecessors": [{"name": "Buildings_and_structures_in_Vienna", "id": 3248737}, {"name": "Companies_based_in_Vienna", "id": 27585846}, {"name": "Hotels_in_Austria", "id": 3248714}, {"name": "Countries_in_Europe", "id": 37691805}], "successors": []}
+{"name": "Hotels_in_Vienna", "id": 2744373, "predecessors": [{"name": "Hotels_in_Austria", "id": 3248714}, {"name": "Tourism_in_Europe_by_country", "id": 59786114}], "successors": []}

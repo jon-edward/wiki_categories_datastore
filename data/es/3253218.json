@@ -1,1 +1,1 @@
-{"name": "Minerales_de_tungsteno", "id": 3253218, "predecessors": [{"name": "Minerales", "id": 1132313}, {"name": "Aleaciones", "id": 66709}], "successors": []}
+{"name": "Minerales_de_tungsteno", "id": 3253218, "predecessors": [{"name": "Compuestos_de_wolframio", "id": 4604043}, {"name": "Tungsteno", "id": 4280336}, {"name": "Minerales", "id": 1132313}], "successors": []}

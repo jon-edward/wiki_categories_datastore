@@ -1,1 +1,1 @@
-{"name": "McGill_University_Faculty_of_Engineering_alumni", "id": 65914823, "predecessors": [{"name": "McGill_University_alumni", "id": 2448006}], "successors": [{"name": "McGill_School_of_Architecture_alumni", "id": 65913875}]}
+{"name": "McGill_University_Faculty_of_Engineering_alumni", "id": 65914823, "predecessors": [{"name": "McGill_University_alumni", "id": 2448006}, {"name": "Engineering_universities_and_colleges", "id": 9092965}], "successors": [{"name": "McGill_School_of_Architecture_alumni", "id": 65913875}]}

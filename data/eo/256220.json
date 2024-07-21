@@ -1,1 +1,1 @@
-{"name": "Polaj_kuracistoj", "id": 256220, "predecessors": [{"name": "Kuracistoj", "id": 54829}, {"name": "Poloj", "id": 52252}, {"name": "Pollando", "id": 28613}], "successors": []}
+{"name": "Polaj_kuracistoj", "id": 256220, "predecessors": [{"name": "Kuracistoj", "id": 54829}, {"name": "Poloj", "id": 52252}, {"name": "Pollando", "id": 28613}], "successors": [{"name": "Polaj_psikiatroj", "id": 555456}]}

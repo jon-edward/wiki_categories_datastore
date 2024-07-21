@@ -1,1 +1,1 @@
-{"name": "Presiden", "id": 884597, "predecessors": [{"name": "Jawatan_berkuasa", "id": 161881}, {"name": "Ahli_politik", "id": 20906}], "successors": [{"name": "Senarai_presiden", "id": 883768}, {"name": "Presiden_mengikut_negara", "id": 884594}]}
+{"name": "Presiden", "id": 884597, "predecessors": [{"name": "Jawatan_berkuasa", "id": 161881}, {"name": "Ahli_politik", "id": 20906}, {"name": "Pemerintahan", "id": 160073}], "successors": [{"name": "Senarai_presiden", "id": 883768}, {"name": "Presiden_mengikut_negara", "id": 884594}]}

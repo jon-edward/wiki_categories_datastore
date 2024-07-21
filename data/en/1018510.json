@@ -1,1 +1,1 @@
-{"name": "Root_beer", "id": 1018510, "predecessors": [{"name": "Carbonated_drinks", "id": 4149713}, {"name": "Soft_beers_and_malt_drinks", "id": 8514598}, {"name": "Soft_drinks", "id": 803741}, {"name": "Types_of_beer", "id": 821963}], "successors": [{"name": "Root_beer_stands", "id": 18297947}]}
+{"name": "Root_beer", "id": 1018510, "predecessors": [{"name": "Carbonated_drinks", "id": 4149713}, {"name": "Soft_beers_and_malt_drinks", "id": 8514598}, {"name": "Soft_drinks", "id": 803741}], "successors": [{"name": "Root_beer_stands", "id": 18297947}]}

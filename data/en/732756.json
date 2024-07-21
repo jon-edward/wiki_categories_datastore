@@ -1,1 +1,1 @@
-{"name": "EC_1.14", "id": 732756, "predecessors": [{"name": "Oxidoreductases", "id": 719732}], "successors": [{"name": "Cytochrome_P450", "id": 1024785}, {"name": "EC_1.14.13", "id": 1036236}, {"name": "EC_1.14.14", "id": 1350727}, {"name": "EC_1.14.99", "id": 1652983}, {"name": "EC_1.14.11", "id": 14318987}, {"name": "EC_1.14.12", "id": 14319018}, {"name": "EC_1.14.15", "id": 14319119}, {"name": "EC_1.14.19", "id": 14319279}]}
+{"name": "EC_1.14", "id": 732756, "predecessors": [{"name": "Oxidoreductases", "id": 719732}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Sovetiaj_klasikaj_pianistoj", "id": 617418, "predecessors": [{"name": "Pianistoj", "id": 234306}, {"name": "Muzikistoj", "id": 31762}, {"name": "Klasika_muziko", "id": 31996}], "successors": []}
+{"name": "Sovetiaj_klasikaj_pianistoj", "id": 617418, "predecessors": [{"name": "Sovetiaj_pianistoj", "id": 448895}, {"name": "Sovetiaj_muzikistoj", "id": 448889}, {"name": "Klasika_muziko", "id": 31996}], "successors": []}

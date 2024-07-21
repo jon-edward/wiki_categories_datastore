@@ -1,1 +1,1 @@
-{"name": "Vehicles_of_Denmark", "id": 56659261, "predecessors": [{"name": "Economy_of_Denmark", "id": 2051357}], "successors": [{"name": "Ships_of_Denmark", "id": 2980401}]}
+{"name": "Vehicles_of_Denmark", "id": 56659261, "predecessors": [{"name": "Vehicles", "id": 694929}, {"name": "Economy_of_Denmark", "id": 2051357}], "successors": [{"name": "Ships_of_Denmark", "id": 2980401}, {"name": "DSB_(railway_company)_locomotives", "id": 25325737}, {"name": "Standard_gauge_locomotives_of_Denmark", "id": 51100054}]}

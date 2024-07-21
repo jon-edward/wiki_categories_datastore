@@ -1,1 +1,1 @@
-{"name": "Rafting", "id": 27794037, "predecessors": [{"name": "Boating", "id": 30214944}, {"name": "Outdoor_recreation", "id": 1451342}, {"name": "Whitewater_sports", "id": 1188137}], "successors": [{"name": "Rafts", "id": 27072483}, {"name": "Timber_rafting", "id": 37670387}]}
+{"name": "Rafting", "id": 27794037, "predecessors": [{"name": "Boating", "id": 30214944}, {"name": "Outdoor_recreation", "id": 1451342}], "successors": [{"name": "Rafts", "id": 27072483}, {"name": "Timber_rafting", "id": 37670387}]}

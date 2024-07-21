@@ -1,1 +1,1 @@
-{"name": "Injection_(medicine)", "id": 51463964, "predecessors": [{"name": "Dosage_forms", "id": 16073324}, {"name": "Pharmacokinetics", "id": 726044}, {"name": "Routes_of_administration", "id": 24329814}], "successors": [{"name": "Combined_injectable_contraceptives", "id": 58504950}]}
+{"name": "Injection_(medicine)", "id": 51463964, "predecessors": [{"name": "Pharmacokinetics", "id": 726044}, {"name": "Routes_of_administration", "id": 24329814}], "successors": [{"name": "Combined_injectable_contraceptives", "id": 58504950}]}

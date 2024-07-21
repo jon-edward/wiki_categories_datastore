@@ -1,1 +1,1 @@
-{"name": "Termites", "id": 1831640, "predecessors": [{"name": "Recycling", "id": 2119852}, {"name": "Herbivory", "id": 10928120}], "successors": [{"name": "Termite_genera", "id": 48284567}]}
+{"name": "Termites", "id": 1831640, "predecessors": [{"name": "Blattodea", "id": 48247160}, {"name": "Recycling", "id": 2119852}, {"name": "Animals_by_eating_behaviors", "id": 47600935}], "successors": [{"name": "Termite_genera", "id": 48284567}]}

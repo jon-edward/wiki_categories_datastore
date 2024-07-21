@@ -1,1 +1,1 @@
-{"name": "Polaj_klasikaj_komponistoj", "id": 617389, "predecessors": [{"name": "Polaj_komponistoj", "id": 173641}, {"name": "Klasikaj_komponistoj", "id": 31332}, {"name": "Polaj_muzikistoj", "id": 32382}], "successors": []}
+{"name": "Polaj_klasikaj_komponistoj", "id": 617389, "predecessors": [{"name": "Polaj_komponistoj", "id": 173641}, {"name": "Klasikaj_komponistoj", "id": 31332}, {"name": "Polaj_muzikistoj", "id": 32382}], "successors": [{"name": "Polaj_romantikaj_komponistoj", "id": 637892}]}

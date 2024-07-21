@@ -1,1 +1,1 @@
-{"name": "Museum_companies", "id": 2977928, "predecessors": [{"name": "Museum_organizations", "id": 2953337}, {"name": "Entertainment_industry", "id": 40423958}, {"name": "Leisure", "id": 4225851}], "successors": []}
+{"name": "Museum_companies", "id": 2977928, "predecessors": [{"name": "Museum_organizations", "id": 2953337}, {"name": "Services_sector_of_the_economy", "id": 10887914}, {"name": "Leisure", "id": 4225851}, {"name": "Service_industries", "id": 1245670}], "successors": []}

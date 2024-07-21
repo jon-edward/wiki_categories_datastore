@@ -1,1 +1,1 @@
-{"name": "British_structural_engineers", "id": 49090709, "predecessors": [{"name": "British_engineers", "id": 1376347}], "successors": [{"name": "British_bridge_engineers", "id": 49072072}]}
+{"name": "British_structural_engineers", "id": 49090709, "predecessors": [{"name": "British_engineers", "id": 1376347}, {"name": "Structural_engineers", "id": 4141601}], "successors": [{"name": "British_bridge_engineers", "id": 49072072}]}

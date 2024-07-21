@@ -1,1 +1,1 @@
-{"name": "Amitié", "id": 13652688, "predecessors": [{"name": "Relation_humaine", "id": 87113}], "successors": [{"name": "Chanson_sur_l'amitié", "id": 12191542}, {"name": "Film_sur_l'amitié", "id": 15128347}, {"name": "Roman_sur_l'amitié", "id": 15667562}]}
+{"name": "Amitié", "id": 13652688, "predecessors": [{"name": "Relation_humaine", "id": 87113}], "successors": [{"name": "Chanson_sur_l'amitié", "id": 12191542}, {"name": "Roman_sur_l'amitié", "id": 15667562}, {"name": "Film_sur_l'amitié", "id": 15128347}]}

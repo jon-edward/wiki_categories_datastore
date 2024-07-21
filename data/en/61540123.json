@@ -1,1 +1,1 @@
-{"name": "Emus", "id": 61540123, "predecessors": [{"name": "Poultry", "id": 757493}], "successors": []}
+{"name": "Emus", "id": 61540123, "predecessors": [{"name": "Birds_by_common_name", "id": 11002423}, {"name": "Birds_by_classification", "id": 2413662}], "successors": []}

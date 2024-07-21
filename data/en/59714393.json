@@ -1,1 +1,1 @@
-{"name": "Anaerobes", "id": 59714393, "predecessors": [{"name": "Bacteria", "id": 948811}, {"name": "Extremophiles", "id": 1067115}], "successors": []}
+{"name": "Anaerobes", "id": 59714393, "predecessors": [{"name": "Bacteria", "id": 948811}, {"name": "Extremophiles", "id": 1067115}], "successors": [{"name": "Clostridium", "id": 55860950}]}

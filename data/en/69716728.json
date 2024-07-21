@@ -1,1 +1,1 @@
-{"name": "Health_professionals_from_Bergen", "id": 69716728, "predecessors": [{"name": "People_from_Bergen", "id": 12786403}, {"name": "Health", "id": 751381}], "successors": [{"name": "Physicians_from_Bergen", "id": 69708733}]}
+{"name": "Health_professionals_from_Bergen", "id": 69716728, "predecessors": [{"name": "Health", "id": 751381}], "successors": [{"name": "Physicians_from_Bergen", "id": 69708733}]}

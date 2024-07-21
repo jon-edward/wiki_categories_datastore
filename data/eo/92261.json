@@ -1,1 +1,1 @@
-{"name": "Atletoj", "id": 92261, "predecessors": [{"name": "Sporto", "id": 26443}], "successors": [{"name": "Olimpikaj_atletoj", "id": 94214}, {"name": "Finnaj_lancoĵetistoj", "id": 733762}]}
+{"name": "Atletoj", "id": 92261, "predecessors": [{"name": "Profesioj_rilataj_al_sporto", "id": 458306}], "successors": [{"name": "Olimpikaj_atletoj", "id": 94214}, {"name": "Finnaj_lancoĵetistoj", "id": 733762}]}

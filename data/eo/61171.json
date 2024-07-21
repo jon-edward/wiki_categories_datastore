@@ -1,1 +1,1 @@
-{"name": "Frapinstrumentoj", "id": 61171, "predecessors": [{"name": "Muzikaj_instrumentoj", "id": 31818}], "successors": [{"name": "Tamburoj", "id": 368322}, {"name": "Frapinstrumentistoj", "id": 369334}, {"name": "Frapinstrumentaro", "id": 388635}]}
+{"name": "Frapinstrumentoj", "id": 61171, "predecessors": [{"name": "Muzikaj_instrumentoj", "id": 31818}], "successors": [{"name": "Baston-muzikiloj", "id": 368318}, {"name": "Tamburoj", "id": 368322}, {"name": "Frapinstrumentistoj", "id": 369334}, {"name": "Frapinstrumentaro", "id": 388635}]}

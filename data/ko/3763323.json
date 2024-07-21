@@ -1,1 +1,1 @@
-{"name": "장애인_예술가", "id": 3763323, "predecessors": [{"name": "예술", "id": 4393}], "successors": [{"name": "구족화가", "id": 3763322}]}
+{"name": "장애인_예술가", "id": 3763323, "predecessors": [{"name": "예술", "id": 4393}], "successors": [{"name": "장애인_음악가", "id": 1415044}, {"name": "구족화가", "id": 3763322}]}

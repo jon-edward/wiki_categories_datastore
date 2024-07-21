@@ -1,1 +1,1 @@
-{"name": "Makkah", "id": 74011, "predecessors": [{"name": "Bandar_di_Arab_Saudi", "id": 1039067}, {"name": "Islam", "id": 5444}, {"name": "Islam_di_Arab_Saudi", "id": 855070}], "successors": [{"name": "Masjid_al-Haram", "id": 1044424}]}
+{"name": "Makkah", "id": 74011, "predecessors": [{"name": "Bandar_di_Arab_Saudi", "id": 1039067}, {"name": "Bandar_raya_suci", "id": 883534}, {"name": "Islam_di_Arab_Saudi", "id": 855070}, {"name": "Tempat_suci_Islam", "id": 198925}], "successors": [{"name": "Masjid_al-Haram", "id": 1044424}]}

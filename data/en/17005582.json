@@ -1,1 +1,1 @@
-{"name": "1000_km_Buenos_Aires", "id": 17005582, "predecessors": [{"name": "Sports_car_races", "id": 21763842}, {"name": "Sports_competitions_in_Buenos_Aires", "id": 53424961}, {"name": "World_Sportscar_Championship_races", "id": 18960157}, {"name": "Auto_races", "id": 5688763}], "successors": []}
+{"name": "1000_km_Buenos_Aires", "id": 17005582, "predecessors": [{"name": "Sports_competitions_in_Buenos_Aires", "id": 53424961}, {"name": "World_Sportscar_Championship_races", "id": 18960157}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Elektrik", "id": 95223, "predecessors": [{"name": "Fizik", "id": 11126}], "successors": [{"name": "Penyambung_bekalan_kuasa_elektrik", "id": 128565}, {"name": "Kejuruteraan_elektrik", "id": 132087}, {"name": "Kuasa_elektrik", "id": 161846}]}
+{"name": "Elektrik", "id": 95223, "predecessors": [{"name": "Fizik", "id": 11126}], "successors": [{"name": "Kuasa_elektrik", "id": 161846}]}

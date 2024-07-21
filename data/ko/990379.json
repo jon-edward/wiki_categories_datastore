@@ -1,1 +1,1 @@
-{"name": "그리스의_팝_가수", "id": 990379, "predecessors": [{"name": "음악_장르", "id": 33382}], "successors": []}
+{"name": "그리스의_팝_가수", "id": 990379, "predecessors": [{"name": "음악_장르", "id": 33382}, {"name": "그리스", "id": 12133}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Científicas_de_Uruguay", "id": 7519077, "predecessors": [{"name": "Científicos_de_Uruguay", "id": 482673}, {"name": "Gentilicios", "id": 70166}], "successors": [{"name": "Médicas_de_Uruguay", "id": 7845416}, {"name": "Biólogas_de_Uruguay", "id": 9313294}]}
+{"name": "Científicas_de_Uruguay", "id": 7519077, "predecessors": [{"name": "Científicos_de_Uruguay", "id": 482673}, {"name": "Científicas", "id": 5142698}, {"name": "Nacionalidad", "id": 1699794}], "successors": [{"name": "Médicas_de_Uruguay", "id": 7845416}, {"name": "Biólogas_de_Uruguay", "id": 9313294}]}

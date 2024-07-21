@@ -1,1 +1,1 @@
-{"name": "Fenomena_optik", "id": 302010, "predecessors": [{"name": "Optik", "id": 7443}, {"name": "Fizik", "id": 11126}], "successors": [{"name": "Ilusi_optik", "id": 301853}, {"name": "Fenomena_optik_atmosfera", "id": 1083269}]}
+{"name": "Fenomena_optik", "id": 302010, "predecessors": [{"name": "Fizik", "id": 11126}], "successors": [{"name": "Ilusi_optik", "id": 301853}, {"name": "Fenomena_optik_atmosfera", "id": 1083269}]}

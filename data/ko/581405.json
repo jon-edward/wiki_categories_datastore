@@ -1,1 +1,1 @@
-{"name": "방송_예정인_방송_프로그램", "id": 581405, "predecessors": [{"name": "미래", "id": 384303}], "successors": []}
+{"name": "방송_예정인_방송_프로그램", "id": 581405, "predecessors": [{"name": "방송_프로그램", "id": 436098}, {"name": "미래", "id": 384303}], "successors": []}

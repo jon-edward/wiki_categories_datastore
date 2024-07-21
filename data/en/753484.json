@@ -1,1 +1,1 @@
-{"name": "Units_of_amount_of_substance", "id": 753484, "predecessors": [{"name": "Amount_of_substance", "id": 19500713}, {"name": "Units_of_amount", "id": 4425625}, {"name": "Units_of_measurement", "id": 37973176}], "successors": []}
+{"name": "Units_of_amount_of_substance", "id": 753484, "predecessors": [{"name": "Units_of_amount", "id": 4425625}, {"name": "Units_of_measurement", "id": 37973176}], "successors": []}

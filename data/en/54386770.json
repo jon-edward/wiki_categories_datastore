@@ -1,1 +1,1 @@
-{"name": "Pashtun_nationalists", "id": 54386770, "predecessors": [{"name": "Pashtun_politicians", "id": 74870382}], "successors": [{"name": "Taliban_members", "id": 14929252}]}
+{"name": "Pashtun_nationalists", "id": 54386770, "predecessors": [{"name": "Pashtun_nationalism", "id": 54386778}, {"name": "Pashtun_politicians", "id": 74870382}, {"name": "Nationalism", "id": 846456}, {"name": "Nationalisms", "id": 48918384}], "successors": [{"name": "Taliban_members", "id": 14929252}]}

@@ -1,1 +1,1 @@
-{"name": "인터넷_포럼_소프트웨어", "id": 48449, "predecessors": [{"name": "전자_게시판", "id": 132110}], "successors": []}
+{"name": "인터넷_포럼_소프트웨어", "id": 48449, "predecessors": [{"name": "전자_게시판", "id": 132110}, {"name": "소셜_미디어", "id": 1589840}], "successors": []}

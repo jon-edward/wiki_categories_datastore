@@ -1,1 +1,1 @@
-{"name": "Sovetiaj_dancistoj", "id": 569980, "predecessors": [{"name": "Kulturo_de_Sovetunio", "id": 292049}, {"name": "Dancistoj", "id": 43319}], "successors": []}
+{"name": "Sovetiaj_dancistoj", "id": 569980, "predecessors": [{"name": "Sovetiaj_artistoj", "id": 449150}, {"name": "Kulturo_de_Sovetunio", "id": 292049}, {"name": "Dancistoj", "id": 43319}], "successors": [{"name": "Sovetiaj_baletistoj", "id": 578306}]}

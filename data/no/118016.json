@@ -1,1 +1,1 @@
-{"name": "Kunnskapsspill", "id": 118016, "predecessors": [{"name": "Kunnskap", "id": 38892}, {"name": "Spill", "id": 12261}], "successors": []}
+{"name": "Kunnskapsspill", "id": 118016, "predecessors": [{"name": "Kunnskap", "id": 38892}], "successors": [{"name": "Quizere", "id": 389452}]}

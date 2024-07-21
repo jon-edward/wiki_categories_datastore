@@ -1,1 +1,1 @@
-{"name": "Pencemaran_udara", "id": 969715, "predecessors": [{"name": "Pencemaran", "id": 119745}], "successors": []}
+{"name": "Pencemaran_udara", "id": 969715, "predecessors": [{"name": "Pencemaran", "id": 119745}], "successors": [{"name": "Pencemar_udara_berbahaya", "id": 1171538}, {"name": "Jerebu_Asia_Tenggara", "id": 832520}]}

@@ -1,1 +1,1 @@
-{"name": "Model_villages", "id": 3673927, "predecessors": [{"name": "Company_housing", "id": 55654496}, {"name": "Planned_municipal_developments", "id": 18777421}, {"name": "Types_of_village", "id": 51504420}, {"name": "Geography_of_the_United_Kingdom", "id": 1061572}], "successors": []}
+{"name": "Model_villages", "id": 3673927, "predecessors": [{"name": "Company_housing", "id": 55654496}, {"name": "Planned_municipal_developments", "id": 18777421}, {"name": "Types_of_village", "id": 51504420}, {"name": "Types_of_communities", "id": 5933524}], "successors": []}

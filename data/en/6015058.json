@@ -1,1 +1,1 @@
-{"name": "Prix_Femina_winners", "id": 6015058, "predecessors": [{"name": "Countries_in_Europe", "id": 37691805}], "successors": [{"name": "Prix_Femina_Étranger_winners", "id": 28877141}, {"name": "Prix_Femina_essai_winners", "id": 52273940}]}
+{"name": "Prix_Femina_winners", "id": 6015058, "predecessors": [{"name": "France", "id": 706228}], "successors": [{"name": "Prix_Femina_Étranger_winners", "id": 28877141}, {"name": "Prix_Femina_essai_winners", "id": 52273940}]}

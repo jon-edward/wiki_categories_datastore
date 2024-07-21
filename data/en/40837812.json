@@ -1,1 +1,1 @@
-{"name": "Electronic_trading_platforms", "id": 40837812, "predecessors": [{"name": "Custom_software_projects", "id": 40816013}, {"name": "Electronic_trading_systems", "id": 21772079}], "successors": [{"name": "Former_electronic_trading_platforms", "id": 40837894}, {"name": "Robo-advisors", "id": 59906959}]}
+{"name": "Electronic_trading_platforms", "id": 40837812, "predecessors": [{"name": "Electronic_trading_systems", "id": 21772079}, {"name": "Financial_markets", "id": 1654788}], "successors": []}

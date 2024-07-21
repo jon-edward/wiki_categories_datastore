@@ -1,1 +1,1 @@
-{"name": "G20", "id": 14087700, "predecessors": [{"name": "Intergovernmental_organizations", "id": 20047203}], "successors": [{"name": "G20_members", "id": 22242627}, {"name": "G20_summits", "id": 40461442}]}
+{"name": "G20", "id": 14087700, "predecessors": [{"name": "Economic_country_classifications", "id": 45421229}, {"name": "Intergovernmental_organizations", "id": 20047203}, {"name": "International_economic_organizations", "id": 8103981}], "successors": [{"name": "G20_summits", "id": 40461442}]}

@@ -1,1 +1,1 @@
-{"name": "Ancient_ships", "id": 8017840, "predecessors": [{"name": "Individual_wooden_objects", "id": 46883051}, {"name": "History_of_transport", "id": 28607082}], "successors": [{"name": "Ancient_shipwrecks", "id": 8017777}, {"name": "Ancient_Roman_ships", "id": 14701810}]}
+{"name": "Ancient_ships", "id": 8017840, "predecessors": [{"name": "Individual_wooden_objects", "id": 46883051}, {"name": "Ancient_history", "id": 895826}], "successors": [{"name": "Ancient_shipwrecks", "id": 8017777}, {"name": "Ancient_Roman_ships", "id": 14701810}]}

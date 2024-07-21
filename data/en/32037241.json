@@ -1,1 +1,1 @@
-{"name": "Child_models", "id": 32037241, "predecessors": [{"name": "Fashion_occupations", "id": 10777560}], "successors": [{"name": "American_child_models", "id": 29718844}, {"name": "Peruvian_child_models", "id": 57664646}]}
+{"name": "Child_models", "id": 32037241, "predecessors": [{"name": "Humans", "id": 1784082}], "successors": [{"name": "American_child_models", "id": 29718844}, {"name": "Peruvian_child_models", "id": 57664646}]}

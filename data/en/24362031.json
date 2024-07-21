@@ -1,1 +1,1 @@
-{"name": "Missing_submarines_of_World_War_II", "id": 24362031, "predecessors": [{"name": "Warships_lost_with_all_hands", "id": 70545451}, {"name": "Weapons", "id": 698507}, {"name": "Missing_ships", "id": 28292259}], "successors": []}
+{"name": "Missing_submarines_of_World_War_II", "id": 24362031, "predecessors": [{"name": "Warships_lost_with_all_hands", "id": 70545451}, {"name": "Naval_ships", "id": 733412}, {"name": "Missing_ships", "id": 28292259}], "successors": [{"name": "Missing_U-boats_of_World_War_II", "id": 60154643}]}

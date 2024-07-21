@@ -1,1 +1,1 @@
-{"name": "Matrices", "id": 239950, "predecessors": [{"name": "Álgebra_lineal", "id": 137371}], "successors": [{"name": "Determinantes", "id": 1832590}, {"name": "Factorizaciones_de_matrices", "id": 3205557}, {"name": "Triángulos_de_números", "id": 10336012}]}
+{"name": "Matrices", "id": 239950, "predecessors": [{"name": "Álgebra_lineal", "id": 137371}], "successors": [{"name": "Determinantes", "id": 1832590}, {"name": "Factorizaciones_de_matrices", "id": 3205557}, {"name": "Teoría_de_matrices", "id": 9601942}]}

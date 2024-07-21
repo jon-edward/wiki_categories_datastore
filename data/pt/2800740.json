@@ -1,1 +1,1 @@
-{"name": "Atenção", "id": 2800740, "predecessors": [{"name": "Aprendizagem", "id": 2240872}, {"name": "Solução_de_problemas", "id": 2254976}], "successors": []}
+{"name": "Atenção", "id": 2800740, "predecessors": [{"name": "Aprendizagem", "id": 2240872}, {"name": "Cognição", "id": 291130}, {"name": "Solução_de_problemas", "id": 2254976}], "successors": []}

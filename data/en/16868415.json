@@ -1,1 +1,1 @@
-{"name": "Sales_taxes", "id": 16868415, "predecessors": [{"name": "Sales", "id": 4536131}], "successors": [{"name": "Value_added_taxes", "id": 16871644}, {"name": "Revenue_stamps", "id": 23801622}, {"name": "Excises", "id": 25684677}]}
+{"name": "Sales_taxes", "id": 16868415, "predecessors": [{"name": "Sales", "id": 4536131}, {"name": "Transfer_tax", "id": 51044196}], "successors": []}

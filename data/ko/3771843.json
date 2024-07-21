@@ -1,1 +1,1 @@
-{"name": "백일해", "id": 3771843, "predecessors": [{"name": "동물_질병", "id": 595667}], "successors": []}
+{"name": "백일해", "id": 3771843, "predecessors": [{"name": "백신으로_예방_가능한_질병", "id": 2522286}, {"name": "동물_질병", "id": 595667}], "successors": []}

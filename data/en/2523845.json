@@ -1,1 +1,1 @@
-{"name": "SEPTA_Regional_Rail_stations", "id": 2523845, "predecessors": [{"name": "SEPTA_Regional_Rail", "id": 2337924}, {"name": "SEPTA_stations_and_terminals", "id": 2338004}], "successors": [{"name": "Former_SEPTA_Regional_Rail_stations", "id": 51212740}]}
+{"name": "SEPTA_Regional_Rail_stations", "id": 2523845, "predecessors": [{"name": "SEPTA_Regional_Rail", "id": 2337924}, {"name": "SEPTA_stations_and_terminals", "id": 2338004}], "successors": []}

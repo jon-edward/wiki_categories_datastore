@@ -1,1 +1,1 @@
-{"name": "Language_education_journals", "id": 42546843, "predecessors": [{"name": "Language_acquisition", "id": 2286515}], "successors": []}
+{"name": "Language_education_journals", "id": 42546843, "predecessors": [{"name": "Education_journals", "id": 6830372}, {"name": "Language_acquisition", "id": 2286515}, {"name": "Linguistics_journals", "id": 4043166}], "successors": []}

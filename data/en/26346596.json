@@ -1,1 +1,1 @@
-{"name": "NASA_aircraft", "id": 26346596, "predecessors": [{"name": "United_States_special-purpose_aircraft", "id": 13515463}], "successors": []}
+{"name": "NASA_aircraft", "id": 26346596, "predecessors": [{"name": "NASA_vehicles", "id": 25992262}], "successors": []}

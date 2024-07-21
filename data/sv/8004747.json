@@ -1,1 +1,1 @@
-{"name": "Paulus_i_konsten", "id": 8004747, "predecessors": [{"name": "Kristen_konst", "id": 176953}, {"name": "Bibeln_i_fiktion", "id": 1110226}], "successors": []}
+{"name": "Paulus_i_konsten", "id": 8004747, "predecessors": [{"name": "Apostlarna_i_konsten", "id": 8861607}, {"name": "Kristen_konst", "id": 176953}, {"name": "Bibeln_i_fiktion", "id": 1110226}], "successors": [{"name": "Apostlarna_i_konsten", "id": 8861607}]}

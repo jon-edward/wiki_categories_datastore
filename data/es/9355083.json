@@ -1,1 +1,1 @@
-{"name": "Hidruros_metálicos", "id": 9355083, "predecessors": [{"name": "Hidruros", "id": 209657}], "successors": []}
+{"name": "Hidruros_metálicos", "id": 9355083, "predecessors": [{"name": "Compuestos_inorgánicos", "id": 209023}, {"name": "Hidruros", "id": 209657}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "가전제품_제조업체", "id": 1328130, "predecessors": [{"name": "가전제품", "id": 49842}], "successors": []}
+{"name": "가전제품_제조업체", "id": 1328130, "predecessors": [{"name": "가전제품", "id": 49842}, {"name": "기계", "id": 98519}], "successors": []}

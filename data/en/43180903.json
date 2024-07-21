@@ -1,1 +1,1 @@
-{"name": "Tourist_attractions_in_Colombo", "id": 43180903, "predecessors": [{"name": "Tourism_in_Sri_Lanka", "id": 2797867}, {"name": "Colombo_District", "id": 23588181}, {"name": "Economy_of_Colombo", "id": 46603068}], "successors": [{"name": "Museums_in_Colombo", "id": 43181458}]}
+{"name": "Tourist_attractions_in_Colombo", "id": 43180903, "predecessors": [{"name": "Tourism_in_Sri_Lanka", "id": 2797867}, {"name": "Economy_of_Sri_Lanka", "id": 2779629}, {"name": "Economy_of_Colombo", "id": 46603068}], "successors": []}

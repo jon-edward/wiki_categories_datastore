@@ -1,1 +1,1 @@
-{"name": "Compositores_de_madrigales", "id": 9510125, "predecessors": [{"name": "Música_clásica", "id": 73163}], "successors": [{"name": "Madrigalistas_ingleses", "id": 9508634}, {"name": "Madrigalistas_italianos", "id": 9511064}]}
+{"name": "Compositores_de_madrigales", "id": 9510125, "predecessors": [{"name": "Compositores_de_música_clásica", "id": 305359}, {"name": "Canciones_en_música_clásica", "id": 9929529}], "successors": [{"name": "Madrigalistas_ingleses", "id": 9508634}, {"name": "Madrigalistas_italianos", "id": 9511064}]}

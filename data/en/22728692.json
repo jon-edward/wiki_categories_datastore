@@ -1,0 +1,1 @@
+{"name": "Motor_control", "id": 22728692, "predecessors": [{"name": "Behavior", "id": 737037}, {"name": "Motor_cognition", "id": 38402038}], "successors": [{"name": "Motor_skills", "id": 1490530}, {"name": "Handedness", "id": 25398763}, {"name": "Anatomical_terms_of_motion", "id": 29509326}, {"name": "Object_manipulation", "id": 40410448}]}

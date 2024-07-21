@@ -1,0 +1,1 @@
+{"name": "Uncrewed_vehicles", "id": 2386176, "predecessors": [{"name": "Robots", "id": 943048}, {"name": "Vehicle_telematics", "id": 28237732}, {"name": "Vehicles_by_type", "id": 25508719}], "successors": [{"name": "Missile_guidance", "id": 1095963}, {"name": "Radio_control", "id": 3774900}, {"name": "Unmanned_aerial_vehicles", "id": 29967526}]}

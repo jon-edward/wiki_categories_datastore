@@ -1,1 +1,1 @@
-{"name": "Public_orators", "id": 36687505, "predecessors": [{"name": "English_academics", "id": 1095830}, {"name": "Irish_scholars_and_academics", "id": 14786106}, {"name": "Lecturers", "id": 10979142}], "successors": [{"name": "Cambridge_University_Orators", "id": 17844440}]}
+{"name": "Public_orators", "id": 36687505, "predecessors": [{"name": "Irish_scholars_and_academics", "id": 14786106}, {"name": "Lecturers", "id": 10979142}, {"name": "Public_speaking", "id": 2810397}], "successors": [{"name": "Cambridge_University_Orators", "id": 17844440}]}

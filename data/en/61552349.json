@@ -1,1 +1,1 @@
-{"name": "Failed_terrorist_attempts_in_France", "id": 61552349, "predecessors": [{"name": "Failed_terrorist_attempts_in_Europe", "id": 54962603}, {"name": "Terrorist_incidents_in_France", "id": 44291660}, {"name": "Crimes", "id": 694944}], "successors": []}
+{"name": "Failed_terrorist_attempts_in_France", "id": 61552349, "predecessors": [{"name": "Terrorist_incidents_in_France", "id": 44291660}, {"name": "Inchoate_offenses", "id": 27225288}], "successors": []}

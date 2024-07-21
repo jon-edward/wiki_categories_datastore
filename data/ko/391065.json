@@ -1,1 +1,1 @@
-{"name": "FC_드니프로의_축구_선수", "id": 391065, "predecessors": [{"name": "FC_드니프로", "id": 391063}], "successors": []}
+{"name": "FC_드니프로의_축구_선수", "id": 391065, "predecessors": [{"name": "FC_드니프로", "id": 391063}, {"name": "스포츠_관련_직업", "id": 274212}], "successors": []}

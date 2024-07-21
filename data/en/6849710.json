@@ -1,1 +1,1 @@
-{"name": "Hydrogen_economy", "id": 6849710, "predecessors": [{"name": "Hydrogen", "id": 3459391}, {"name": "Economics_of_sustainability", "id": 6020013}], "successors": [{"name": "Hydrogen_production", "id": 6849324}]}
+{"name": "Hydrogen_economy", "id": 6849710, "predecessors": [{"name": "Economics_of_sustainability", "id": 6020013}], "successors": [{"name": "Hydrogen_production", "id": 6849324}]}

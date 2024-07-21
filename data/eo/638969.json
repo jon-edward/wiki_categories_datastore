@@ -1,1 +1,1 @@
-{"name": "Transporto_en_Frankfurto_ĉe_Majno", "id": 638969, "predecessors": [{"name": "Frankfurto_ĉe_Majno", "id": 188746}, {"name": "Transporto_en_Hesio", "id": 558142}, {"name": "Transporto_en_Germanio", "id": 245174}], "successors": []}
+{"name": "Transporto_en_Frankfurto_ĉe_Majno", "id": 638969, "predecessors": [{"name": "Frankfurto_ĉe_Majno", "id": 188746}, {"name": "Transporto_en_Hesio", "id": 558142}, {"name": "Transporto_en_Germanio", "id": 245174}], "successors": [{"name": "Flughaveno_Frankfurto", "id": 638968}]}

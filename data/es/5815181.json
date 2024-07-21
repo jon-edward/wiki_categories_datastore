@@ -1,1 +1,1 @@
-{"name": "Participantes_en_movimientos_estudiantiles", "id": 5815181, "predecessors": [{"name": "Estudiantes", "id": 4541632}, {"name": "Activistas", "id": 174489}], "successors": [{"name": "Dirigentes_estudiantiles", "id": 7326199}, {"name": "Activistas_estudiantiles_de_Argentina", "id": 8615472}]}
+{"name": "Participantes_en_movimientos_estudiantiles", "id": 5815181, "predecessors": [{"name": "Movimiento_estudiantil", "id": 1730897}], "successors": [{"name": "Dirigentes_estudiantiles", "id": 7326199}, {"name": "Activistas_estudiantiles_de_Argentina", "id": 8615472}]}

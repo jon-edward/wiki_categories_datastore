@@ -1,1 +1,1 @@
-{"name": "Karbon_dioksida", "id": 160125, "predecessors": [{"name": "Gas_rumah_hijau", "id": 969080}, {"name": "Oksida", "id": 160131}, {"name": "Karbon", "id": 160123}], "successors": []}
+{"name": "Karbon_dioksida", "id": 160125, "predecessors": [{"name": "Oksida", "id": 160131}, {"name": "Sebatian_kimia", "id": 30367}], "successors": []}

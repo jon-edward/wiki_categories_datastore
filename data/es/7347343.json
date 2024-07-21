@@ -1,1 +1,1 @@
-{"name": "Avispas_parasitoides", "id": 7347343, "predecessors": [{"name": "Control_biológico", "id": 1469356}, {"name": "Parasitismo", "id": 5900413}], "successors": []}
+{"name": "Avispas_parasitoides", "id": 7347343, "predecessors": [{"name": "Apocrita", "id": 1736881}, {"name": "Control_biológico", "id": 1469356}, {"name": "Parasitismo", "id": 5900413}], "successors": [{"name": "Chalcidoidea", "id": 7279721}]}

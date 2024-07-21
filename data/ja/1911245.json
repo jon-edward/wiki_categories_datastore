@@ -1,1 +1,1 @@
-{"name": "ヒドロキシ酸", "id": 1911245, "predecessors": [{"name": "アルコール", "id": 606609}], "successors": []}
+{"name": "ヒドロキシ酸", "id": 1911245, "predecessors": [{"name": "アルコール", "id": 606609}, {"name": "カルボン酸", "id": 606114}], "successors": []}

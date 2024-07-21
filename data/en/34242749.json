@@ -1,1 +1,1 @@
-{"name": "Spell_checkers", "id": 34242749, "predecessors": [{"name": "Spelling", "id": 4893632}, {"name": "Application_software", "id": 708063}], "successors": [{"name": "Free_spelling_checking_programs", "id": 6615907}, {"name": "Grammar_checkers", "id": 38015304}]}
+{"name": "Spell_checkers", "id": 34242749, "predecessors": [{"name": "Spelling", "id": 4893632}, {"name": "Editing", "id": 5666647}, {"name": "Language", "id": 8017451}], "successors": [{"name": "Free_spelling_checking_programs", "id": 6615907}, {"name": "Grammar_checkers", "id": 38015304}]}

@@ -1,1 +1,1 @@
-{"name": "Museos_industriales_de_España", "id": 6487024, "predecessors": [{"name": "Industria_de_España", "id": 2793255}, {"name": "Museos_industriales", "id": 3611293}, {"name": "Museos", "id": 574808}], "successors": [{"name": "Museos_de_la_minería_de_España", "id": 6485994}]}
+{"name": "Museos_industriales_de_España", "id": 6487024, "predecessors": [{"name": "Atracciones_turísticas", "id": 1688782}], "successors": [{"name": "Museos_de_la_minería_de_España", "id": 6485994}]}

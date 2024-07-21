@@ -1,1 +1,1 @@
-{"name": "Treasurers-depute", "id": 37464583, "predecessors": [{"name": "Exchequer_offices", "id": 17275071}, {"name": "Government_of_Scotland", "id": 1743608}, {"name": "Members_of_the_Privy_Council_of_Scotland", "id": 3440377}, {"name": "Treasurers_of_Scotland", "id": 37447577}], "successors": []}
+{"name": "Treasurers-depute", "id": 37464583, "predecessors": [{"name": "Members_of_the_Privy_Council_of_Scotland", "id": 3440377}, {"name": "Treasurers_of_Scotland", "id": 37447577}], "successors": []}

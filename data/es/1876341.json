@@ -1,1 +1,1 @@
-{"name": "Cicadellidae", "id": 1876341, "predecessors": [{"name": "Familias_de_artrópodos", "id": 8442968}], "successors": [{"name": "Deltocephalinae", "id": 10279491}]}
+{"name": "Cicadellidae", "id": 1876341, "predecessors": [{"name": "Familias_de_Auchenorrhyncha", "id": 10842218}, {"name": "Auchenorrhyncha", "id": 4379612}], "successors": [{"name": "Deltocephalinae", "id": 10279491}]}

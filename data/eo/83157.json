@@ -1,1 +1,1 @@
-{"name": "Cifereca_analitiko", "id": 83157, "predecessors": [{"name": "Analitiko", "id": 82502}, {"name": "Aplika_matematiko", "id": 82511}], "successors": [{"name": "Cifereca_lineara_algebro", "id": 83159}, {"name": "Optimumigo", "id": 83183}]}
+{"name": "Cifereca_analitiko", "id": 83157, "predecessors": [{"name": "Analitiko", "id": 82502}, {"name": "Aplika_matematiko", "id": 82511}], "successors": [{"name": "Interpolo", "id": 82886}, {"name": "Cifereca_lineara_algebro", "id": 83159}, {"name": "Optimumigo", "id": 83183}]}

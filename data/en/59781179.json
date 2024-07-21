@@ -1,1 +1,1 @@
-{"name": "Medieval_cities_of_Egypt", "id": 59781179, "predecessors": [{"name": "Cities_in_Egypt", "id": 932280}, {"name": "Medieval_Egypt", "id": 24312125}, {"name": "Medieval_cities", "id": 41386810}], "successors": [{"name": "Aswan", "id": 22440582}, {"name": "Medieval_Cairo", "id": 24278325}]}
+{"name": "Medieval_cities_of_Egypt", "id": 59781179, "predecessors": [{"name": "Medieval_cities", "id": 41386810}, {"name": "Medieval_history_of_Egypt", "id": 24312125}], "successors": [{"name": "Aswan", "id": 22440582}, {"name": "Medieval_Cairo", "id": 24278325}]}

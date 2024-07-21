@@ -1,1 +1,1 @@
-{"name": "Opportunism", "id": 39329289, "predecessors": [{"name": "Psychological_attitude", "id": 4419621}], "successors": [{"name": "Shakespearean_histories", "id": 736938}]}
+{"name": "Opportunism", "id": 39329289, "predecessors": [{"name": "Human_behavior", "id": 2524202}, {"name": "Psychological_attitude", "id": 4419621}], "successors": [{"name": "Shakespearean_histories", "id": 736938}]}

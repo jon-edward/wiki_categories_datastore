@@ -1,1 +1,1 @@
-{"name": "Chess_Olympiads", "id": 6633094, "predecessors": [{"name": "FIDE_competitions", "id": 73509269}, {"name": "Team_chess_competitions", "id": 76785735}], "successors": [{"name": "Chess_Olympiad_competitors", "id": 26709128}]}
+{"name": "Chess_Olympiads", "id": 6633094, "predecessors": [{"name": "Team_chess_competitions", "id": 76785735}], "successors": [{"name": "Chess_Olympiad_competitors", "id": 26709128}]}

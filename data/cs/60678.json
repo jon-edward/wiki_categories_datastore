@@ -1,1 +1,1 @@
-{"name": "Houby_stopkovýtrusné", "id": 60678, "predecessors": [{"name": "Houby", "id": 10134}], "successors": [{"name": "Holubinkotvaré", "id": 50461}, {"name": "Lupenotvaré", "id": 50960}, {"name": "Hřibovité", "id": 50456}, {"name": "Klouzkovité", "id": 1871809}, {"name": "Liškovité", "id": 65019}, {"name": "Troudnatcovité", "id": 71568}, {"name": "Chorošovité", "id": 72069}, {"name": "Hadovkovité", "id": 113529}]}
+{"name": "Houby_stopkovýtrusné", "id": 60678, "predecessors": [{"name": "Houby", "id": 10134}], "successors": [{"name": "Stopkovýtrusé", "id": 26999}]}

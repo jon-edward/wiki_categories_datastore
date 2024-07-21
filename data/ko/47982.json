@@ -1,1 +1,1 @@
-{"name": "고대_어류", "id": 47982, "predecessors": [{"name": "물고기", "id": 29738}, {"name": "분류학", "id": 19939}], "successors": [{"name": "고대_상어", "id": 550694}]}
+{"name": "고대_어류", "id": 47982, "predecessors": [{"name": "고생물학", "id": 30394}, {"name": "물고기", "id": 29738}], "successors": [{"name": "고대_상어", "id": 550694}]}

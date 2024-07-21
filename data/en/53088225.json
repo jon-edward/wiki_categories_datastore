@@ -1,1 +1,1 @@
-{"name": "Zoo_owners", "id": 53088225, "predecessors": [{"name": "Ownership", "id": 40528816}], "successors": []}
+{"name": "Zoo_owners", "id": 53088225, "predecessors": [{"name": "Ownership", "id": 40528816}, {"name": "Animals_and_humans", "id": 52196069}], "successors": []}

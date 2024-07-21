@@ -1,1 +1,1 @@
-{"name": "Juegos_de_Japón", "id": 1806799, "predecessors": [{"name": "Juegos", "id": 55872}, {"name": "Cultura_de_Japón", "id": 150609}], "successors": [{"name": "Go", "id": 128918}]}
+{"name": "Juegos_de_Japón", "id": 1806799, "predecessors": [{"name": "Cultura_de_Japón", "id": 150609}, {"name": "Cartografía", "id": 51115}], "successors": [{"name": "Go", "id": 128918}]}

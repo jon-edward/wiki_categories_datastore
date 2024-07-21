@@ -1,1 +1,1 @@
-{"name": "Extinct_gastropods", "id": 19512622, "predecessors": [{"name": "Animal_death", "id": 33166047}], "successors": [{"name": "Prehistoric_gastropods", "id": 22346415}]}
+{"name": "Extinct_gastropods", "id": 19512622, "predecessors": [{"name": "Animal_death", "id": 33166047}, {"name": "Biological_classification", "id": 41221871}], "successors": [{"name": "Prehistoric_gastropods", "id": 22346415}]}

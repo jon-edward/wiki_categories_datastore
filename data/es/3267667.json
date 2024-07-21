@@ -1,1 +1,1 @@
-{"name": "Diagnosticados_con_VIH_positivo", "id": 3267667, "predecessors": [{"name": "Sida", "id": 4082483}, {"name": "Personalidad", "id": 4496858}], "successors": [{"name": "Fallecidos_por_sida", "id": 4591286}]}
+{"name": "Diagnosticados_con_VIH_positivo", "id": 3267667, "predecessors": [{"name": "Sida", "id": 4082483}, {"name": "Enfermedades", "id": 50842}], "successors": [{"name": "Fallecidos_por_sida", "id": 4591286}]}

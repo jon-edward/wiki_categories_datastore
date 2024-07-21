@@ -1,1 +1,1 @@
-{"name": "골반뼈", "id": 3174096, "predecessors": [{"name": "뼈대계", "id": 593618}], "successors": []}
+{"name": "골반뼈", "id": 3174096, "predecessors": [{"name": "골반", "id": 1339606}, {"name": "뼈대계", "id": 593618}], "successors": []}

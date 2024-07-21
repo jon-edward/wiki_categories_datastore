@@ -1,1 +1,1 @@
-{"name": "Fictional_donkeys", "id": 3404269, "predecessors": [{"name": "Donkeys", "id": 5893599}, {"name": "Fictional_mammals", "id": 7539141}], "successors": [{"name": "Children's_books_about_donkeys", "id": 73858715}]}
+{"name": "Fictional_donkeys", "id": 3404269, "predecessors": [{"name": "Donkeys", "id": 5893599}, {"name": "Mammal_taxonomy", "id": 39031289}], "successors": [{"name": "Children's_books_about_donkeys", "id": 73858715}]}

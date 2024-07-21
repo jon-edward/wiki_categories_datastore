@@ -1,1 +1,1 @@
-{"name": "Bird_mortality", "id": 24589495, "predecessors": [{"name": "Animal_death", "id": 33166047}], "successors": [{"name": "Bird_diseases", "id": 1223536}, {"name": "Fowling", "id": 25017152}]}
+{"name": "Bird_mortality", "id": 24589495, "predecessors": [{"name": "Animal_death", "id": 33166047}, {"name": "Birds", "id": 953524}], "successors": [{"name": "Bird_diseases", "id": 1223536}, {"name": "Fowling", "id": 25017152}]}

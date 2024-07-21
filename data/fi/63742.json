@@ -1,1 +1,1 @@
-{"name": "Tallennusvälineet", "id": 63742, "predecessors": [{"name": "Viestintätekniikka", "id": 29694}, {"name": "Välineet", "id": 87843}, {"name": "Tietokonetekniikka", "id": 28904}], "successors": [{"name": "Mikrofonit", "id": 1038823}]}
+{"name": "Tallennusvälineet", "id": 63742, "predecessors": [{"name": "Viestintätekniikka", "id": 29694}, {"name": "Välineet", "id": 87843}, {"name": "Tietokonetekniikka", "id": 28904}], "successors": [{"name": "Mikrofonit", "id": 1038823}, {"name": "Digitaaliset_tallennusmediat", "id": 1548914}]}

@@ -1,1 +1,1 @@
-{"name": "Ekologia_agrikulturo", "id": 241636, "predecessors": [{"name": "Agrikulturo", "id": 39049}, {"name": "Ekologio", "id": 26389}], "successors": []}
+{"name": "Ekologia_agrikulturo", "id": 241636, "predecessors": [{"name": "Agrikulturo", "id": 39049}, {"name": "Ekologio", "id": 26389}], "successors": [{"name": "Permakulturo", "id": 515899}]}

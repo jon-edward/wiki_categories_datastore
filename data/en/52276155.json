@@ -1,1 +1,1 @@
-{"name": "Virtual_reality_companies", "id": 52276155, "predecessors": [{"name": "Virtual_reality_organizations", "id": 52276512}, {"name": "Entertainment_industry", "id": 40423958}], "successors": [{"name": "HTC_Corporation", "id": 22660274}, {"name": "Oculus_VR", "id": 61489646}]}
+{"name": "Virtual_reality_companies", "id": 52276155, "predecessors": [{"name": "Technology_companies", "id": 3608033}, {"name": "Virtual_reality_organizations", "id": 52276512}], "successors": [{"name": "HTC_Corporation", "id": 22660274}]}

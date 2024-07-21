@@ -1,1 +1,1 @@
-{"name": "Boat_building", "id": 38040713, "predecessors": [{"name": "Boats", "id": 765931}, {"name": "Shipbuilding", "id": 38000490}], "successors": [{"name": "Boat_builders", "id": 2853090}, {"name": "Boatyards", "id": 38040682}]}
+{"name": "Boat_building", "id": 38040713, "predecessors": [{"name": "Shipbuilding", "id": 38000490}], "successors": [{"name": "Boat_builders", "id": 2853090}]}

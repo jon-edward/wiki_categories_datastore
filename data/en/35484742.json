@@ -1,1 +1,1 @@
-{"name": "Authentication_protocols", "id": 35484742, "predecessors": [{"name": "Authentication_methods", "id": 1212312}, {"name": "Cryptographic_protocols", "id": 769027}], "successors": [{"name": "Computer_access_control_protocols", "id": 30936421}]}
+{"name": "Authentication_protocols", "id": 35484742, "predecessors": [{"name": "Authentication_methods", "id": 1212312}], "successors": [{"name": "Computer_access_control_protocols", "id": 30936421}]}

@@ -1,1 +1,1 @@
-{"name": "테트리스", "id": 2828742, "predecessors": [{"name": "NP-완전_문제", "id": 81858}], "successors": []}
+{"name": "테트리스", "id": 2828742, "predecessors": [{"name": "NP-완전_문제", "id": 81858}, {"name": "타일매칭_비디오_게임", "id": 2828734}], "successors": []}

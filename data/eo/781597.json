@@ -1,1 +1,1 @@
-{"name": "Pastroj_de_la_Rusa_Ortodoksa_Eklezio", "id": 781597, "predecessors": [{"name": "Rusa_Ortodoksa_Eklezio", "id": 303935}, {"name": "Kristana_klerikaro", "id": 571932}, {"name": "Pastroj", "id": 162806}], "successors": []}
+{"name": "Pastroj_de_la_Rusa_Ortodoksa_Eklezio", "id": 781597, "predecessors": [{"name": "Ortodoksa_klerikaro_de_Rusio", "id": 571927}, {"name": "Rusa_Ortodoksa_Eklezio", "id": 303935}, {"name": "Pastroj", "id": 162806}], "successors": []}

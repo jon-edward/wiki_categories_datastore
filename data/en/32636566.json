@@ -1,1 +1,1 @@
-{"name": "Hemoglobins", "id": 32636566, "predecessors": [{"name": "Blood_proteins", "id": 4354941}, {"name": "Hematology", "id": 693583}, {"name": "Hemoproteins", "id": 2038641}], "successors": []}
+{"name": "Hemoglobins", "id": 32636566, "predecessors": [{"name": "Blood_proteins", "id": 4354941}, {"name": "Hematology", "id": 693583}, {"name": "Hemoproteins", "id": 2038641}, {"name": "Biological_pigments", "id": 36805215}], "successors": []}

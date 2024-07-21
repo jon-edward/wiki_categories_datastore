@@ -1,1 +1,1 @@
-{"name": "Medieval_Jerusalem", "id": 53357057, "predecessors": [{"name": "Medieval_Palestine", "id": 49783862}, {"name": "Medieval_cities", "id": 41386810}, {"name": "History_of_Jerusalem", "id": 3420173}], "successors": [{"name": "Kingdom_of_Jerusalem", "id": 7980192}]}
+{"name": "Medieval_Jerusalem", "id": 53357057, "predecessors": [{"name": "Medieval_cities", "id": 41386810}, {"name": "Medieval_history_of_Palestine", "id": 49783862}, {"name": "History_of_Jerusalem", "id": 3420173}], "successors": [{"name": "Kingdom_of_Jerusalem", "id": 7980192}]}

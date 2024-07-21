@@ -1,1 +1,1 @@
-{"name": "Poultry_restaurants", "id": 43478456, "predecessors": [{"name": "Poultry_companies", "id": 43335624}, {"name": "Restaurants_by_type", "id": 15748273}], "successors": [{"name": "Fast-food_poultry_restaurants", "id": 2352424}]}
+{"name": "Poultry_restaurants", "id": 43478456, "predecessors": [{"name": "Poultry_companies", "id": 43335624}, {"name": "Restaurants_by_type", "id": 15748273}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Cruisers_of_Canada", "id": 4809257, "predecessors": [{"name": "Naval_ships_of_Canada", "id": 3023332}], "successors": [{"name": "Cruisers_of_the_Royal_Canadian_Navy", "id": 24577424}]}
+{"name": "Cruisers_of_Canada", "id": 4809257, "predecessors": [{"name": "Naval_ships_of_Canada", "id": 3023332}, {"name": "Cruisers", "id": 978966}], "successors": [{"name": "Cruisers_of_the_Royal_Canadian_Navy", "id": 24577424}]}

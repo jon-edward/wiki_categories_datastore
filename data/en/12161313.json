@@ -1,1 +1,1 @@
-{"name": "Lists_of_fishes", "id": 12161313, "predecessors": [{"name": "Aquatic_animals", "id": 43539222}], "successors": [{"name": "Lists_of_fishes_of_Europe", "id": 43352263}]}
+{"name": "Lists_of_fishes", "id": 12161313, "predecessors": [{"name": "Lists_of_animals", "id": 730865}, {"name": "Aquatic_animals", "id": 43539222}], "successors": [{"name": "Lists_of_fishes_of_Europe", "id": 43352263}, {"name": "Lists_of_fishes_by_country", "id": 70770491}]}

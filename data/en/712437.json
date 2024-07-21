@@ -1,1 +1,1 @@
-{"name": "Tarot_card_games", "id": 712437, "predecessors": [{"name": "Point-trick_games", "id": 27092907}, {"name": "Tarot", "id": 1034258}], "successors": [{"name": "Tarock_card_games", "id": 57659449}, {"name": "Tarot_playing_card_decks", "id": 57749536}]}
+{"name": "Tarot_card_games", "id": 712437, "predecessors": [{"name": "Point-trick_games", "id": 27092907}], "successors": [{"name": "Tarock_card_games", "id": 57659449}, {"name": "Tarot_playing_card_decks", "id": 57749536}]}

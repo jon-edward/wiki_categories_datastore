@@ -1,1 +1,1 @@
-{"name": "한자_신문", "id": 3705614, "predecessors": [{"name": "한국어_신문", "id": 573373}], "successors": []}
+{"name": "한자_신문", "id": 3705614, "predecessors": [{"name": "한국어_신문", "id": 573373}, {"name": "신문", "id": 11865}], "successors": []}

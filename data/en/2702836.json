@@ -1,1 +1,1 @@
-{"name": "Relational_algebra", "id": 2702836, "predecessors": [{"name": "Data_modeling", "id": 1116481}, {"name": "Mathematical_relations", "id": 7437997}, {"name": "Relational_model", "id": 6868511}], "successors": []}
+{"name": "Relational_algebra", "id": 2702836, "predecessors": [{"name": "Mathematical_relations", "id": 7437997}, {"name": "Relational_model", "id": 6868511}, {"name": "Abstract_algebra", "id": 690672}], "successors": []}

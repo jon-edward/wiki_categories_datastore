@@ -1,1 +1,1 @@
-{"name": "Parolo", "id": 597510, "predecessors": [{"name": "Fonetiko", "id": 29253}, {"name": "Homa_komunikado", "id": 317664}, {"name": "Lingvoscienco", "id": 407872}], "successors": [{"name": "Parolrekonado", "id": 671834}]}
+{"name": "Parolo", "id": 597510, "predecessors": [{"name": "Fonetiko", "id": 29253}, {"name": "Homa_komunikado", "id": 317664}, {"name": "Lingvoscienco", "id": 407872}], "successors": [{"name": "Logopedio", "id": 597509}, {"name": "Parolorganoj", "id": 605354}, {"name": "Parolrekonado", "id": 671834}]}

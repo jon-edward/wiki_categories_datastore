@@ -1,1 +1,1 @@
-{"name": "Angolaj_politikistoj", "id": 262744, "predecessors": [{"name": "Politikistoj", "id": 40732}, {"name": "Angolo", "id": 29000}, {"name": "Politiko_de_Afriko", "id": 302687}], "successors": []}
+{"name": "Angolaj_politikistoj", "id": 262744, "predecessors": [{"name": "Politiko_de_Angolo", "id": 262747}, {"name": "Politikistoj", "id": 40732}, {"name": "Angolo", "id": 29000}, {"name": "Politiko_de_Afriko", "id": 302687}], "successors": [{"name": "Prezidantoj_de_Angolo", "id": 262746}, {"name": "Ĉefministroj_de_Angolo", "id": 803387}]}

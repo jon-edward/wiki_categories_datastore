@@ -1,1 +1,1 @@
-{"name": "Polyynes", "id": 54863039, "predecessors": [{"name": "Alkynes", "id": 695819}, {"name": "Secondary_metabolites", "id": 48908360}, {"name": "Hydrocarbons", "id": 695870}], "successors": [{"name": "Conjugated_diynes", "id": 61352896}]}
+{"name": "Polyynes", "id": 54863039, "predecessors": [{"name": "Secondary_metabolites", "id": 48908360}], "successors": [{"name": "Conjugated_diynes", "id": 61352896}]}

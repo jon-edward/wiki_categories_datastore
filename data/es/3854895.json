@@ -1,1 +1,1 @@
-{"name": "Fabricación_de_circuitos_electrónicos", "id": 3854895, "predecessors": [{"name": "Circuitos_electrónicos", "id": 190502}, {"name": "Fabricación_de_productos_electrónicos", "id": 6033728}], "successors": []}
+{"name": "Fabricación_de_circuitos_electrónicos", "id": 3854895, "predecessors": [{"name": "Circuitos_electrónicos", "id": 190502}, {"name": "Fabricación_de_productos_electrónicos", "id": 6033728}], "successors": [{"name": "Técnica_de_circuitos_impresos", "id": 6573322}]}

@@ -1,1 +1,1 @@
-{"name": "Franquicias_de_comida_rápida", "id": 2522119, "predecessors": [{"name": "Cadenas_de_restaurantes", "id": 851420}, {"name": "Comida_rápida", "id": 266796}, {"name": "Franquicias", "id": 2459054}], "successors": [{"name": "McDonald's", "id": 1452783}, {"name": "Franquicias_de_pizzerías", "id": 9651779}]}
+{"name": "Franquicias_de_comida_rápida", "id": 2522119, "predecessors": [{"name": "Comida_rápida", "id": 266796}, {"name": "Franquicias", "id": 2459054}], "successors": [{"name": "McDonald's", "id": 1452783}, {"name": "Franquicias_de_pizzerías", "id": 9651779}]}

@@ -1,1 +1,1 @@
-{"name": "Automotive_part_retailers", "id": 2872716, "predecessors": [{"name": "Auto_parts_suppliers", "id": 2060917}, {"name": "Motor_vehicle_maintenance", "id": 4597288}, {"name": "Retailers_by_type_of_merchandise_sold", "id": 55586528}], "successors": [{"name": "Automotive_part_retailers_of_the_United_States", "id": 3983851}]}
+{"name": "Automotive_part_retailers", "id": 2872716, "predecessors": [{"name": "Motor_vehicle_maintenance", "id": 4597288}], "successors": [{"name": "Automotive_part_retailers_of_the_United_States", "id": 3983851}]}

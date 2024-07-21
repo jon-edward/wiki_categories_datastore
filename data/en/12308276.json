@@ -1,1 +1,1 @@
-{"name": "Morpholines", "id": 12308276, "predecessors": [{"name": "Amines", "id": 725878}, {"name": "Cyclic_ethers", "id": 61324828}, {"name": "Nitrogen_heterocycles", "id": 3197412}], "successors": [{"name": "Phenylmorpholines", "id": 69445697}, {"name": "4-Morpholinyl_compounds", "id": 72592593}]}
+{"name": "Morpholines", "id": 12308276, "predecessors": [{"name": "Amines", "id": 725878}], "successors": [{"name": "Phenylmorpholines", "id": 69445697}, {"name": "4-Morpholinyl_compounds", "id": 72592593}]}

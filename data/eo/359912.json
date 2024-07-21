@@ -1,1 +1,1 @@
-{"name": "Furiera_analitiko", "id": 359912, "predecessors": [{"name": "Analitiko", "id": 82502}], "successors": [{"name": "Topologiaj_grupoj", "id": 83569}]}
+{"name": "Furiera_analitiko", "id": 359912, "predecessors": [{"name": "Analitiko", "id": 82502}], "successors": [{"name": "Prezenta_teorio_de_grupoj", "id": 83442}, {"name": "Topologiaj_grupoj", "id": 83569}]}

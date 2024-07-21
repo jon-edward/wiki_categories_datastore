@@ -1,1 +1,1 @@
-{"name": "Metallurgy", "id": 977017, "predecessors": [{"name": "Materials_science", "id": 709184}, {"name": "Metals", "id": 744693}], "successors": [{"name": "Corrosion", "id": 3051619}, {"name": "History_of_metallurgy", "id": 12576137}]}
+{"name": "Metallurgy", "id": 977017, "predecessors": [{"name": "Materials_science", "id": 709184}, {"name": "Metals", "id": 744693}, {"name": "Mining", "id": 843521}], "successors": [{"name": "Metallurgical_processes", "id": 23946134}, {"name": "Archaeometallurgy", "id": 41091574}, {"name": "Metallurgical_organizations", "id": 53840312}]}

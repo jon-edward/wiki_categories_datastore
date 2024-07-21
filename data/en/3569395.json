@@ -1,1 +1,1 @@
-{"name": "PSA_engines", "id": 3569395, "predecessors": [{"name": "Automobile_engines", "id": 773958}, {"name": "Car_manufacturers_of_France", "id": 22285741}], "successors": [{"name": "Peugeot_engines", "id": 931594}, {"name": "Opel_engines", "id": 33803539}]}
+{"name": "PSA_engines", "id": 3569395, "predecessors": [{"name": "Car_manufacturers_of_France", "id": 22285741}], "successors": [{"name": "Peugeot_engines", "id": 931594}, {"name": "Opel_engines", "id": 33803539}]}

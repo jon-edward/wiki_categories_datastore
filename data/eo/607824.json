@@ -1,1 +1,1 @@
-{"name": "Estonaj_lingvistoj", "id": 607824, "predecessors": [{"name": "Lingvistoj", "id": 36978}, {"name": "Estonoj", "id": 52261}], "successors": []}
+{"name": "Estonaj_lingvistoj", "id": 607824, "predecessors": [{"name": "Lingvistoj_laŭ_landoj", "id": 122962}, {"name": "Estonoj", "id": 52261}], "successors": [{"name": "Estonaj_filologoj", "id": 608465}, {"name": "Estonaj_tradukistoj", "id": 616320}]}

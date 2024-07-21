@@ -1,1 +1,1 @@
-{"name": "Sains_perpustakaan_dan_maklumat", "id": 153927, "predecessors": [{"name": "Perpustakaan", "id": 102053}, {"name": "Disiplin_akademik", "id": 75960}], "successors": [{"name": "Sistem_pengelasan", "id": 153895}, {"name": "Arkib", "id": 153925}]}
+{"name": "Sains_perpustakaan_dan_maklumat", "id": 153927, "predecessors": [{"name": "Disiplin_akademik", "id": 75960}], "successors": [{"name": "Sistem_pengelasan", "id": 153895}, {"name": "Arkib", "id": 153925}]}

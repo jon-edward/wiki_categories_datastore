@@ -1,1 +1,1 @@
-{"name": "Benzimidazoles", "id": 5235092, "predecessors": [{"name": "Heterocyclic_compounds_with_2_rings", "id": 4488801}, {"name": "Imidazoles", "id": 4488532}], "successors": [{"name": "Benzimidazole_opioids", "id": 73220687}]}
+{"name": "Benzimidazoles", "id": 5235092, "predecessors": [{"name": "Imidazoles", "id": 4488532}], "successors": [{"name": "Benzimidazole_opioids", "id": 73220687}]}

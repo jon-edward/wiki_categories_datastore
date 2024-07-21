@@ -1,1 +1,1 @@
-{"name": "Cycle_manufacturers_of_Italy", "id": 31998324, "predecessors": [{"name": "Manufacturing_companies_of_Italy", "id": 4869629}, {"name": "Cycle_manufacturers", "id": 911582}, {"name": "Tourism_in_Italy", "id": 2637056}], "successors": [{"name": "Italian_cycle_designers", "id": 65597402}, {"name": "Bianchi_(company)", "id": 65597533}]}
+{"name": "Cycle_manufacturers_of_Italy", "id": 31998324, "predecessors": [{"name": "Tourism_in_Italy", "id": 2637056}], "successors": [{"name": "Italian_cycle_designers", "id": 65597402}, {"name": "Bianchi_(company)", "id": 65597533}]}

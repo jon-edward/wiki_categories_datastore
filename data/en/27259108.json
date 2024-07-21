@@ -1,1 +1,1 @@
-{"name": "Abnormal_clinical_and_laboratory_findings_for_blood", "id": 27259108, "predecessors": [{"name": "Blood_tests", "id": 4262351}, {"name": "Medical_tests", "id": 1075994}], "successors": [{"name": "Abnormal_clinical_and_laboratory_findings_for_RBCs", "id": 32824611}]}
+{"name": "Abnormal_clinical_and_laboratory_findings_for_blood", "id": 27259108, "predecessors": [{"name": "Blood_tests", "id": 4262351}], "successors": [{"name": "Abnormal_clinical_and_laboratory_findings_for_RBCs", "id": 32824611}]}

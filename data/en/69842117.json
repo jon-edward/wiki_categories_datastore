@@ -1,1 +1,1 @@
-{"name": "Scientific_models", "id": 69842117, "predecessors": [{"name": "Knowledge_representation", "id": 796635}, {"name": "Scientific_modelling", "id": 3224825}], "successors": [{"name": "Physical_models", "id": 26793944}]}
+{"name": "Scientific_models", "id": 69842117, "predecessors": [{"name": "Knowledge_representation", "id": 796635}, {"name": "Scientific_modelling", "id": 3224825}], "successors": [{"name": "Database_models", "id": 34222569}]}

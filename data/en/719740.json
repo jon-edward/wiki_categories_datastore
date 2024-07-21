@@ -1,0 +1,1 @@
+{"name": "Transferases", "id": 719740, "predecessors": [{"name": "Enzymes", "id": 702815}], "successors": [{"name": "Protein_kinases", "id": 719683}, {"name": "EC_2.7.7", "id": 757665}]}

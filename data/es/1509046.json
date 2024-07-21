@@ -1,1 +1,1 @@
-{"name": "Teratógenos", "id": 1509046, "predecessors": [{"name": "Embriología", "id": 99001}, {"name": "Toxicología", "id": 129853}, {"name": "Mutaciones", "id": 6204498}], "successors": [{"name": "Cocaína", "id": 4162081}]}
+{"name": "Teratógenos", "id": 1509046, "predecessors": [{"name": "Embriología", "id": 99001}, {"name": "Genética", "id": 49504}, {"name": "Mutaciones", "id": 6204498}], "successors": [{"name": "Cocaína", "id": 4162081}]}

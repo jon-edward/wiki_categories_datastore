@@ -1,1 +1,1 @@
-{"name": "잡종_식물", "id": 1795445, "predecessors": [{"name": "식물", "id": 9142}, {"name": "고전유전학", "id": 738681}], "successors": []}
+{"name": "잡종_식물", "id": 1795445, "predecessors": [{"name": "식물", "id": 9142}, {"name": "고전유전학", "id": 738681}], "successors": [{"name": "귤속_잡종_식물", "id": 2538739}]}

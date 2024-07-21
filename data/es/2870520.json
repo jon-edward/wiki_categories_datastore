@@ -1,1 +1,1 @@
-{"name": "Videojuegos_freeware", "id": 2870520, "predecessors": [{"name": "Freeware", "id": 1370824}, {"name": "Videojuegos", "id": 61224}], "successors": [{"name": "Videojuegos_gratuitos", "id": 6242148}]}
+{"name": "Videojuegos_freeware", "id": 2870520, "predecessors": [{"name": "Videojuegos", "id": 61224}], "successors": [{"name": "Videojuegos_gratuitos", "id": 6242148}]}

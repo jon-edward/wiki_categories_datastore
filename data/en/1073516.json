@@ -1,1 +1,1 @@
-{"name": "Food_colorings", "id": 1073516, "predecessors": [{"name": "Food_additives", "id": 717916}], "successors": []}
+{"name": "Food_colorings", "id": 1073516, "predecessors": [{"name": "Dyes", "id": 859422}, {"name": "Food_additives", "id": 717916}], "successors": []}

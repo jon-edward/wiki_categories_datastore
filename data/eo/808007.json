@@ -1,1 +1,1 @@
-{"name": "Metalaj_halogenidoj", "id": 808007, "predecessors": [{"name": "Halogenidoj", "id": 531622}, {"name": "Saloj", "id": 50712}, {"name": "Kemiaj_kombinaĵoj", "id": 49212}], "successors": []}
+{"name": "Metalaj_halogenidoj", "id": 808007, "predecessors": [{"name": "Halogenidoj", "id": 531622}, {"name": "Neorganikaj_kombinaĵoj", "id": 292848}, {"name": "Saloj", "id": 50712}], "successors": []}

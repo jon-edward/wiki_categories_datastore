@@ -1,1 +1,1 @@
-{"name": "1인조_음악_그룹", "id": 2714463, "predecessors": [{"name": "명수_1", "id": 1028407}, {"name": "음악_그룹", "id": 107193}], "successors": []}
+{"name": "1인조_음악_그룹", "id": 2714463, "predecessors": [{"name": "음악_그룹", "id": 107193}, {"name": "사람", "id": 37928}], "successors": []}

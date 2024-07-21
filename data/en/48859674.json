@@ -1,1 +1,1 @@
-{"name": "Extinct_beetles", "id": 48859674, "predecessors": [{"name": "Animal_death", "id": 33166047}], "successors": [{"name": "Prehistoric_beetles", "id": 43219684}]}
+{"name": "Extinct_beetles", "id": 48859674, "predecessors": [{"name": "Insects", "id": 858692}, {"name": "Nature_conservation", "id": 737124}], "successors": [{"name": "Prehistoric_beetles", "id": 43219684}]}

@@ -1,1 +1,0 @@
-{"name": "National_Security_Agency_cryptography", "id": 42838280, "predecessors": [{"name": "Cryptography", "id": 692160}, {"name": "National_Security_Agency", "id": 3338427}], "successors": [{"name": "National_Security_Agency_encryption_devices", "id": 17365283}, {"name": "Data_Encryption_Standard", "id": 17778616}]}

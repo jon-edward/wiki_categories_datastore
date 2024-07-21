@@ -1,1 +1,1 @@
-{"name": "Agave", "id": 1386713, "predecessors": [{"name": "Cactus_y_suculentas", "id": 97276}, {"name": "Taxones_con_nombres_de_la_mitología_clásica", "id": 9145100}], "successors": [{"name": "Maguey", "id": 560401}]}
+{"name": "Agave", "id": 1386713, "predecessors": [{"name": "Agavoideae", "id": 5140515}, {"name": "Cactus_y_suculentas", "id": 97276}, {"name": "Taxones_con_nombres_de_la_mitología_clásica", "id": 9145100}], "successors": [{"name": "Maguey", "id": 560401}]}

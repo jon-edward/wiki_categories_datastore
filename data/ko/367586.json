@@ -1,1 +1,1 @@
-{"name": "비치사커", "id": 367586, "predecessors": [{"name": "축구_종류", "id": 714256}, {"name": "해변_스포츠", "id": 714257}], "successors": []}
+{"name": "비치사커", "id": 367586, "predecessors": [{"name": "축구_종류", "id": 714256}, {"name": "해변_스포츠", "id": 714257}], "successors": [{"name": "FIFA_비치사커_월드컵", "id": 368483}]}

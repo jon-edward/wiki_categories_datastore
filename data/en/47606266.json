@@ -1,1 +1,1 @@
-{"name": "American_prison_television_series", "id": 47606266, "predecessors": [{"name": "Crime_fiction", "id": 5740559}], "successors": [{"name": "Prison_Break", "id": 4455362}, {"name": "Orange_Is_the_New_Black", "id": 49932279}]}
+{"name": "American_prison_television_series", "id": 47606266, "predecessors": [{"name": "Prison_television_series", "id": 33492893}], "successors": [{"name": "Prison_Break", "id": 4455362}, {"name": "Orange_Is_the_New_Black", "id": 49932279}]}

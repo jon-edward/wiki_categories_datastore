@@ -1,1 +1,1 @@
-{"name": "Educational_software_for_Linux", "id": 41512826, "predecessors": [{"name": "Educational_software", "id": 1750815}, {"name": "Linux_software", "id": 9519323}], "successors": [{"name": "Science_software_for_Linux", "id": 42382380}, {"name": "Planetarium_software_for_Linux", "id": 42391304}]}
+{"name": "Educational_software_for_Linux", "id": 41512826, "predecessors": [{"name": "Educational_software", "id": 1750815}], "successors": [{"name": "Science_software_for_Linux", "id": 42382380}, {"name": "Planetarium_software_for_Linux", "id": 42391304}]}

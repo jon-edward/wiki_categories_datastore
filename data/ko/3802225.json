@@ -1,1 +1,1 @@
-{"name": "내분비_신생물", "id": 3802225, "predecessors": [{"name": "내분비_질환", "id": 832131}], "successors": []}
+{"name": "내분비_신생물", "id": 3802225, "predecessors": [{"name": "내분비_질환", "id": 832131}, {"name": "신생물", "id": 2628131}], "successors": []}

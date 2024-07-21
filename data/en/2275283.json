@@ -1,1 +1,1 @@
-{"name": "Sulfonamides", "id": 2275283, "predecessors": [{"name": "Amides", "id": 695831}, {"name": "Organosulfur_compounds", "id": 4497738}], "successors": [{"name": "Sulfonamide_antibiotics", "id": 695384}, {"name": "Sultams", "id": 68374396}]}
+{"name": "Sulfonamides", "id": 2275283, "predecessors": [{"name": "Organosulfur_compounds", "id": 4497738}, {"name": "Sulfur–nitrogen_compounds", "id": 71276504}], "successors": [{"name": "Sulfonamide_antibiotics", "id": 695384}, {"name": "Sultams", "id": 68374396}]}

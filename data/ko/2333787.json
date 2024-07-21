@@ -1,1 +1,1 @@
-{"name": "세네갈의_축구_감독", "id": 2333787, "predecessors": [{"name": "교육자", "id": 274455}], "successors": []}
+{"name": "세네갈의_축구_감독", "id": 2333787, "predecessors": [{"name": "세네갈의_축구", "id": 105517}, {"name": "교육자", "id": 274455}, {"name": "직업별_사람", "id": 37930}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Microsoft-szoftverek", "id": 3977, "predecessors": [{"name": "Microsoft", "id": 459009}, {"name": "Operációs_rendszerek", "id": 4735}], "successors": [{"name": "Microsoft_Windows", "id": 3978}, {"name": "Microsoft-játékok", "id": 961146}]}
+{"name": "Microsoft-szoftverek", "id": 3977, "predecessors": [{"name": "Microsoft", "id": 459009}], "successors": [{"name": "Microsoft_Windows", "id": 3978}, {"name": "Microsoft-játékok", "id": 961146}, {"name": "Microsoft_Office", "id": 1989681}]}

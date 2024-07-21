@@ -1,1 +1,1 @@
-{"name": "Computadoras_Commodore", "id": 9245905, "predecessors": [{"name": "Computadoras_domésticas", "id": 5143610}, {"name": "Empresas_de_informática_de_Estados_Unidos", "id": 4160700}], "successors": [{"name": "Commodore_Amiga", "id": 328861}, {"name": "Commodore_64", "id": 3012336}]}
+{"name": "Computadoras_Commodore", "id": 9245905, "predecessors": [{"name": "Empresas_de_informática_de_Estados_Unidos", "id": 4160700}], "successors": [{"name": "Commodore_Amiga", "id": 328861}, {"name": "Commodore_64", "id": 3012336}]}

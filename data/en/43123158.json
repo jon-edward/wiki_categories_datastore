@@ -1,1 +1,1 @@
-{"name": "Unified_Extensible_Firmware_Interface", "id": 43123158, "predecessors": [{"name": "Boot_loaders", "id": 4665782}, {"name": "Computer_hardware_standards", "id": 30857280}, {"name": "Firmware", "id": 3232463}, {"name": "IBM_PC_compatibles", "id": 1094042}], "successors": []}
+{"name": "Unified_Extensible_Firmware_Interface", "id": 43123158, "predecessors": [{"name": "Boot_loaders", "id": 4665782}, {"name": "Booting", "id": 6254572}, {"name": "Computer_hardware_standards", "id": 30857280}, {"name": "IBM_PC_compatibles", "id": 1094042}], "successors": []}

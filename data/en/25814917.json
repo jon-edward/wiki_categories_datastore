@@ -1,1 +1,1 @@
-{"name": "Translation_companies", "id": 25814917, "predecessors": [{"name": "Translation_organizations", "id": 37246888}], "successors": [{"name": "Keywords_Studios", "id": 68673366}]}
+{"name": "Translation_companies", "id": 25814917, "predecessors": [{"name": "Translation_organizations", "id": 37246888}, {"name": "Services_sector_of_the_economy", "id": 10887914}], "successors": [{"name": "Keywords_Studios", "id": 68673366}]}

@@ -1,1 +1,1 @@
-{"name": "Bacteroidota", "id": 14584542, "predecessors": [{"name": "Bacteria", "id": 948811}], "successors": []}
+{"name": "Bacteroidota", "id": 14584542, "predecessors": [{"name": "Bacteria", "id": 948811}], "successors": [{"name": "Flavobacteria", "id": 44555765}, {"name": "Sphingobacteriia", "id": 62437100}, {"name": "Chitinophagia", "id": 70608579}, {"name": "Cytophagia", "id": 70620639}, {"name": "Bacteroidia", "id": 70680597}]}

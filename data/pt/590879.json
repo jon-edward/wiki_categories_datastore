@@ -1,1 +1,1 @@
-{"name": "Procedimentos_cirúrgicos", "id": 590879, "predecessors": [{"name": "Cirurgia", "id": 16021}], "successors": [{"name": "Procedimentos_de_remoção_cirúrgica", "id": 590878}, {"name": "Procedimentos_neurocirúrgicos", "id": 6582258}]}
+{"name": "Procedimentos_cirúrgicos", "id": 590879, "predecessors": [{"name": "Cirurgia", "id": 16021}], "successors": [{"name": "Procedimentos_de_remoção_cirúrgica", "id": 590878}, {"name": "Medicina_de_transplantes", "id": 1689254}, {"name": "Procedimentos_neurocirúrgicos", "id": 6582258}]}

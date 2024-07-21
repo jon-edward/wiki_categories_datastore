@@ -1,1 +1,1 @@
-{"name": "X86_IBM_personal_computers", "id": 69233948, "predecessors": [{"name": "IBM_personal_computers", "id": 18019210}], "successors": [{"name": "IBM_PS/2", "id": 70583325}]}
+{"name": "X86_IBM_personal_computers", "id": 69233948, "predecessors": [{"name": "IBM_PC_compatibles", "id": 1094042}, {"name": "IBM_personal_computers", "id": 18019210}, {"name": "X86-based_computers", "id": 67732610}], "successors": [{"name": "IBM_PS/2", "id": 70583325}]}

@@ -1,1 +1,1 @@
-{"name": "Psiquiatras_del_Reino_Unido", "id": 1380323, "predecessors": [{"name": "Médicos_del_Reino_Unido", "id": 170614}, {"name": "Especialidades_médicas", "id": 52892}], "successors": []}
+{"name": "Psiquiatras_del_Reino_Unido", "id": 1380323, "predecessors": [{"name": "Psiquiatras", "id": 69194}, {"name": "Médicos_del_Reino_Unido", "id": 170614}], "successors": []}

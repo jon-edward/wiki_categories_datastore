@@ -1,1 +1,1 @@
-{"name": "Bandar_raya_terancang", "id": 882873, "predecessors": [{"name": "Kajian_dan_perancangan_bandar", "id": 162133}], "successors": [{"name": "Ibu_negara_terancang", "id": 883531}, {"name": "Bandar_terancang_di_Malaysia", "id": 1053107}]}
+{"name": "Bandar_raya_terancang", "id": 882873, "predecessors": [{"name": "Bandar", "id": 94523}, {"name": "Kajian_dan_perancangan_bandar", "id": 162133}], "successors": [{"name": "Ibu_negara_terancang", "id": 883531}, {"name": "Bandar_terancang_di_Malaysia", "id": 1053107}]}

@@ -1,1 +1,1 @@
-{"name": "Sheep_and_goat_diseases", "id": 29807203, "predecessors": [{"name": "Ruminant_diseases", "id": 18637516}, {"name": "Sheep", "id": 917008}], "successors": []}
+{"name": "Sheep_and_goat_diseases", "id": 29807203, "predecessors": [{"name": "Caprids", "id": 922740}, {"name": "Ruminant_diseases", "id": 18637516}, {"name": "Sheep", "id": 917008}], "successors": []}

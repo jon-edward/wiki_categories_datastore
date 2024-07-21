@@ -1,1 +1,1 @@
-{"name": "Estaciones_de_ferrocarril_del_departamento_Paraná", "id": 5451208, "predecessors": [{"name": "Departamento_Paraná", "id": 3140327}, {"name": "Ferrocarriles_por_país", "id": 1008930}], "successors": []}
+{"name": "Estaciones_de_ferrocarril_del_departamento_Paraná", "id": 5451208, "predecessors": [{"name": "Departamento_Paraná", "id": 3140327}, {"name": "Ferrocarril_en_Argentina", "id": 254168}], "successors": []}

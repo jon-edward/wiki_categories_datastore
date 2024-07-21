@@ -1,1 +1,1 @@
-{"name": "Fizik_molekul", "id": 84673, "predecessors": [{"name": "Kimia", "id": 11182}, {"name": "Fizik", "id": 11126}, {"name": "Fizik_gunaan_dan_antara_disiplin", "id": 84643}], "successors": [{"name": "Spektroskopi", "id": 302424}]}
+{"name": "Fizik_molekul", "id": 84673, "predecessors": [{"name": "Kimia", "id": 11182}, {"name": "Fizik", "id": 11126}], "successors": [{"name": "Spektroskopi", "id": 302424}]}

@@ -1,0 +1,1 @@
+{"name": "Watches", "id": 4047634, "predecessors": [{"name": "Clocks", "id": 1095785}, {"name": "Fashion_accessories", "id": 15132951}, {"name": "Types_of_jewellery", "id": 20089431}, {"name": "Tools", "id": 846098}], "successors": [{"name": "Watch_brands", "id": 18799891}, {"name": "Watch_models", "id": 35734920}, {"name": "Smartwatches", "id": 35755882}]}

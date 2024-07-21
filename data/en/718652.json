@@ -1,1 +1,0 @@
-{"name": "Antihypertensive_agents", "id": 718652, "predecessors": [{"name": "Cardiac_procedures", "id": 32553274}, {"name": "Drugs_acting_on_the_cardiovascular_system", "id": 22002088}, {"name": "Hypertension", "id": 21852438}], "successors": [{"name": "Calcium_channel_blockers", "id": 703183}, {"name": "Beta_blockers", "id": 703196}, {"name": "Alpha_blockers", "id": 3358905}]}

@@ -1,1 +1,1 @@
-{"name": "Roads_in_County_Cork", "id": 13643848, "predecessors": [{"name": "Transport_in_County_Cork", "id": 13694268}, {"name": "Road_transport_in_Europe", "id": 26694003}], "successors": [{"name": "Streets_in_Cork_(city)", "id": 36722585}]}
+{"name": "Roads_in_County_Cork", "id": 13643848, "predecessors": [{"name": "Roads", "id": 780674}], "successors": [{"name": "Streets_in_Cork_(city)", "id": 36722585}]}

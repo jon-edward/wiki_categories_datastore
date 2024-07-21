@@ -1,1 +1,1 @@
-{"name": "Motilidad_celular", "id": 1132184, "predecessors": [{"name": "Fisiología_celular", "id": 1130071}, {"name": "Locomoción", "id": 942004}], "successors": []}
+{"name": "Motilidad_celular", "id": 1132184, "predecessors": [{"name": "Biología_celular", "id": 75820}, {"name": "Fisiología_celular", "id": 1130071}, {"name": "Locomoción", "id": 942004}], "successors": []}

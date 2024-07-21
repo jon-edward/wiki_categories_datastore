@@ -1,1 +1,1 @@
-{"name": "Navigilo:Administra_divido", "id": 841926, "predecessors": [{"name": "Navigilo:Geografio", "id": 321729}, {"name": "Navigilo:Politiko", "id": 321665}], "successors": [{"name": "Navigilo:Historia_administra_divido", "id": 841930}]}
+{"name": "Navigilo:Administra_divido", "id": 841926, "predecessors": [{"name": "Navigilo:Geografio", "id": 321729}, {"name": "Navigilo:Politiko", "id": 321665}, {"name": "Administraj_unuoj", "id": 527448}], "successors": [{"name": "Navigilo:Historia_administra_divido", "id": 841930}]}

@@ -1,1 +1,1 @@
-{"name": "Sherlock_Holmes", "id": 368943, "predecessors": [{"name": "Fikciaj_detektivoj", "id": 354093}, {"name": "Literaturaj_roluloj", "id": 349382}, {"name": "Britaj_verkistoj", "id": 92948}], "successors": [{"name": "Filmoj_pri_Sherlock_Holmes", "id": 365293}]}
+{"name": "Sherlock_Holmes", "id": 368943, "predecessors": [{"name": "Arthur_Conan_Doyle", "id": 368945}, {"name": "Fikciaj_detektivoj", "id": 354093}, {"name": "Literaturaj_roluloj", "id": 349382}], "successors": [{"name": "Filmoj_pri_Sherlock_Holmes", "id": 365293}]}

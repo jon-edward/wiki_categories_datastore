@@ -1,1 +1,1 @@
-{"name": "Suerte", "id": 2883670, "predecessors": [{"name": "Supersticiones", "id": 425463}], "successors": [{"name": "Amuletos", "id": 4353256}, {"name": "Juegos_de_azar", "id": 94255}, {"name": "Dioses_de_la_fortuna", "id": 816325}, {"name": "Diosas_de_la_fortuna", "id": 10231303}]}
+{"name": "Suerte", "id": 2883670, "predecessors": [{"name": "Supersticiones", "id": 425463}], "successors": [{"name": "Amuletos", "id": 4353256}, {"name": "Juegos_de_azar", "id": 94255}]}

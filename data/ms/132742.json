@@ -1,1 +1,1 @@
-{"name": "Ekonomi_Islam", "id": 132742, "predecessors": [{"name": "Ekonomi", "id": 26641}, {"name": "Islam", "id": 5444}], "successors": [{"name": "Zakat", "id": 86273}, {"name": "Perbankan_Islam", "id": 120843}]}
+{"name": "Ekonomi_Islam", "id": 132742, "predecessors": [{"name": "Fiqah", "id": 134385}, {"name": "Ideologi_ekonomi", "id": 127160}, {"name": "Ekonomi", "id": 26641}], "successors": [{"name": "Zakat", "id": 86273}, {"name": "Perbankan_Islam", "id": 120843}]}

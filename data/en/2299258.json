@@ -1,1 +1,0 @@
-{"name": "X86_architecture", "id": 2299258, "predecessors": [{"name": "Instruction_set_architectures", "id": 23410612}], "successors": [{"name": "X86_memory_management", "id": 4012312}, {"name": "X86_emulators", "id": 5058188}, {"name": "X86_operating_systems", "id": 17835061}, {"name": "X86_microarchitectures", "id": 68763194}]}

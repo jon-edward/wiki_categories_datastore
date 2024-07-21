@@ -1,1 +1,1 @@
-{"name": "Restaurant_guides", "id": 12183161, "predecessors": [{"name": "Books_about_food_and_drink", "id": 34453719}, {"name": "Works_about_food_and_drink", "id": 42212562}, {"name": "Buildings_and_structures_by_type", "id": 6884364}], "successors": []}
+{"name": "Restaurant_guides", "id": 12183161, "predecessors": [{"name": "Books_about_food_and_drink", "id": 34453719}, {"name": "Consumer_guides", "id": 1641185}, {"name": "Works_about_food_and_drink", "id": 42212562}, {"name": "Buildings_and_structures_by_type", "id": 6884364}], "successors": []}

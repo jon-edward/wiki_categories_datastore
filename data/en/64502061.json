@@ -1,1 +1,1 @@
-{"name": "Traitors_in_history", "id": 64502061, "predecessors": [{"name": "Defectors", "id": 850452}], "successors": [{"name": "People_convicted_of_treason", "id": 16509969}, {"name": "Belgian_collaborators_with_Imperial_Germany", "id": 75911204}]}
+{"name": "Traitors_in_history", "id": 64502061, "predecessors": [{"name": "Defectors", "id": 850452}, {"name": "Treason", "id": 3105931}], "successors": [{"name": "People_convicted_of_treason", "id": 16509969}, {"name": "Belgian_collaborators_with_Imperial_Germany", "id": 75911204}]}

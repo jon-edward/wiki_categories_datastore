@@ -1,1 +1,1 @@
-{"name": "Geauga_Lake", "id": 55387125, "predecessors": [{"name": "Cedar_Fair_amusement_parks", "id": 36987558}, {"name": "Amusement_parks", "id": 713049}], "successors": []}
+{"name": "Geauga_Lake", "id": 55387125, "predecessors": [{"name": "Amusement_parks", "id": 713049}, {"name": "Cedar_Fair", "id": 36987549}], "successors": []}

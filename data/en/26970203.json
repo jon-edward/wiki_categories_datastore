@@ -1,1 +1,1 @@
-{"name": "Task_forces", "id": 26970203, "predecessors": [{"name": "Law_enforcement_units", "id": 8208463}], "successors": [{"name": "Anti-money_laundering_organizations", "id": 65645304}]}
+{"name": "Task_forces", "id": 26970203, "predecessors": [{"name": "Committees", "id": 26910012}], "successors": [{"name": "Military_task_forces", "id": 39688201}, {"name": "United_States_Presidential_Task_Forces", "id": 47256783}, {"name": "Anti-money_laundering_organizations", "id": 65645304}]}

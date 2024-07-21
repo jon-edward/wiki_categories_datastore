@@ -1,1 +1,1 @@
-{"name": "Hydrotherapeut", "id": 721177, "predecessors": [{"name": "Alternativmediziner", "id": 1412211}, {"name": "Hydrotherapie", "id": 721172}], "successors": []}
+{"name": "Hydrotherapeut", "id": 721177, "predecessors": [{"name": "Alternativmediziner", "id": 1412211}, {"name": "Hydrotherapie", "id": 721172}, {"name": "Wasser", "id": 430065}], "successors": []}

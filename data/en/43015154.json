@@ -1,1 +1,1 @@
-{"name": "Money_containers", "id": 43015154, "predecessors": [{"name": "Containers", "id": 1047091}], "successors": []}
+{"name": "Money_containers", "id": 43015154, "predecessors": [{"name": "Containers", "id": 1047091}, {"name": "Money", "id": 1754852}], "successors": []}

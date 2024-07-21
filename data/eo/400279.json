@@ -1,1 +1,1 @@
-{"name": "Vitralistoj", "id": 400279, "predecessors": [{"name": "Firmaoj", "id": 53508}, {"name": "Fabrikado", "id": 91389}, {"name": "Fasonado", "id": 310204}, {"name": "Arto", "id": 30172}], "successors": [{"name": "Hungaraj_vitralistoj", "id": 610387}]}
+{"name": "Vitralistoj", "id": 400279, "predecessors": [{"name": "Vitrofabrikoj", "id": 327951}, {"name": "Fabrikado", "id": 91389}, {"name": "Fasonado", "id": 310204}, {"name": "Arto", "id": 30172}], "successors": [{"name": "Hungaraj_vitralistoj", "id": 610387}]}

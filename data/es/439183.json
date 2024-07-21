@@ -1,1 +1,1 @@
-{"name": "Fisiopatología", "id": 439183, "predecessors": [{"name": "Fisiología_animal", "id": 318885}, {"name": "Patología", "id": 379789}], "successors": [{"name": "Ruido_cardíaco", "id": 6271072}]}
+{"name": "Fisiopatología", "id": 439183, "predecessors": [{"name": "Disciplinas_de_la_biología", "id": 8994238}, {"name": "Fisiología_animal", "id": 318885}, {"name": "Patología", "id": 379789}], "successors": [{"name": "Ruido_cardíaco", "id": 6271072}]}

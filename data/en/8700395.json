@@ -1,1 +1,1 @@
-{"name": "Bus_stations_in_Japan", "id": 8700395, "predecessors": [{"name": "Road_transport_in_Japan", "id": 2872438}], "successors": []}
+{"name": "Bus_stations_in_Japan", "id": 8700395, "predecessors": [{"name": "Transport_in_Japan", "id": 6394372}, {"name": "Economy_of_Japan", "id": 1448803}], "successors": []}

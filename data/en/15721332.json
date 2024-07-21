@@ -1,1 +1,1 @@
-{"name": "Personal_rapid_transit", "id": 15721332, "predecessors": [{"name": "Automated_guideway_transit", "id": 28009203}], "successors": []}
+{"name": "Personal_rapid_transit", "id": 15721332, "predecessors": [{"name": "Automated_guideway_transit", "id": 28009203}, {"name": "Private_transport", "id": 19456352}], "successors": []}

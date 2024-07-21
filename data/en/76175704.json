@@ -1,1 +1,1 @@
-{"name": "American_dance_teachers", "id": 76175704, "predecessors": [{"name": "American_dancers", "id": 1055670}, {"name": "American_educators", "id": 1159829}], "successors": [{"name": "American_ballet_teachers", "id": 76594200}]}
+{"name": "American_dance_teachers", "id": 76175704, "predecessors": [{"name": "American_dancers", "id": 1055670}, {"name": "American_educators", "id": 1159829}, {"name": "Dance_teachers", "id": 3847622}], "successors": [{"name": "American_ballet_teachers", "id": 76594200}]}

@@ -1,1 +1,1 @@
-{"name": "Academic_transfer", "id": 2478811, "predecessors": [{"name": "Student_culture", "id": 698268}], "successors": []}
+{"name": "Academic_transfer", "id": 2478811, "predecessors": [{"name": "Academia", "id": 853425}, {"name": "Student_culture", "id": 698268}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Fromage_de_l'Ain", "id": 5400383, "predecessors": [{"name": "Cuisine_française", "id": 207659}, {"name": "Culture_dans_l'Ain", "id": 1328854}, {"name": "Gastronomie_en_Auvergne-Rhône-Alpes", "id": 302352}], "successors": []}
+{"name": "Fromage_de_l'Ain", "id": 5400383, "predecessors": [{"name": "Fromage_français", "id": 83630}, {"name": "Culture_dans_l'Ain", "id": 1328854}, {"name": "Gastronomie_en_Auvergne-Rhône-Alpes", "id": 302352}], "successors": []}

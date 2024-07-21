@@ -1,1 +1,1 @@
-{"name": "Fitness_magazines", "id": 6523424, "predecessors": [{"name": "Health_magazines", "id": 8885377}, {"name": "Physical_exercise", "id": 34955640}, {"name": "Publications_by_format", "id": 11278400}], "successors": [{"name": "Bodybuilding_magazines", "id": 7422323}]}
+{"name": "Fitness_magazines", "id": 6523424, "predecessors": [{"name": "Physical_exercise", "id": 34955640}, {"name": "Publications", "id": 706830}], "successors": [{"name": "Bodybuilding_magazines", "id": 7422323}]}

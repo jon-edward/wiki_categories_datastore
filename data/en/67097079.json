@@ -1,1 +1,1 @@
-{"name": ".NET_software", "id": 67097079, "predecessors": [{"name": "Programming_languages", "id": 690571}], "successors": [{"name": "C_Sharp_software", "id": 23025756}, {"name": "Software_that_uses_Mono_(software)", "id": 42427038}]}
+{"name": ".NET_software", "id": 67097079, "predecessors": [{"name": ".NET", "id": 44540431}, {"name": "Programming_languages", "id": 690571}], "successors": [{"name": "C_Sharp_software", "id": 23025756}, {"name": "Software_that_uses_Mono_(software)", "id": 42427038}]}

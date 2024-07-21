@@ -1,1 +1,1 @@
-{"name": "Reacciones_inorgánicas", "id": 8464841, "predecessors": [{"name": "Química_orgánica", "id": 54863}, {"name": "Reacciones_químicas", "id": 209002}], "successors": []}
+{"name": "Reacciones_inorgánicas", "id": 8464841, "predecessors": [{"name": "Química_inorgánica", "id": 51540}, {"name": "Química_orgánica", "id": 54863}, {"name": "Reacciones_químicas", "id": 209002}], "successors": []}

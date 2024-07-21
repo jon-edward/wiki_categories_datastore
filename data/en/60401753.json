@@ -1,1 +1,1 @@
-{"name": "TotalEnergies_people", "id": 60401753, "predecessors": [{"name": "People_in_the_petroleum_industry", "id": 10924018}, {"name": "TotalEnergies", "id": 28070224}, {"name": "Countries_in_Europe", "id": 37691805}], "successors": []}
+{"name": "TotalEnergies_people", "id": 60401753, "predecessors": [{"name": "TotalEnergies", "id": 28070224}, {"name": "France", "id": 706228}], "successors": []}

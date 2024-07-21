@@ -1,1 +1,1 @@
-{"name": "Race_de_poule_originaire_d'Allemagne", "id": 4881751, "predecessors": [{"name": "Race_de_poule", "id": 1595597}, {"name": "Agriculture_en_Allemagne", "id": 2923967}], "successors": []}
+{"name": "Race_de_poule_originaire_d'Allemagne", "id": 4881751, "predecessors": [{"name": "Race_de_poule", "id": 1595597}, {"name": "Race_de_poule_originaire_d'Europe", "id": 16372796}, {"name": "Agriculture_en_Allemagne", "id": 2923967}], "successors": []}

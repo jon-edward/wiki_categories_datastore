@@ -1,1 +1,1 @@
-{"name": "Intermodal_transport_authorities_in_Australia", "id": 29911201, "predecessors": [{"name": "Public_transport_by_mode", "id": 15720272}, {"name": "Transport_in_Australia", "id": 1347303}], "successors": []}
+{"name": "Intermodal_transport_authorities_in_Australia", "id": 29911201, "predecessors": [{"name": "Intermodal_transport", "id": 28589652}, {"name": "Taxonomy", "id": 918375}], "successors": []}

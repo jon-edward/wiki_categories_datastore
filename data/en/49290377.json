@@ -1,1 +1,1 @@
-{"name": "Anti-Vietnamese_sentiment", "id": 49290377, "predecessors": [{"name": "Anti-national_sentiment", "id": 3856641}, {"name": "Foreign_relations_of_Vietnam", "id": 2828089}], "successors": [{"name": "Khmer_Rouge", "id": 3931332}]}
+{"name": "Anti-Vietnamese_sentiment", "id": 49290377, "predecessors": [{"name": "Anti-national_sentiment", "id": 3856641}, {"name": "Foreign_relations_of_Vietnam", "id": 2828089}, {"name": "Anti-Asian_sentiment", "id": 16147431}], "successors": [{"name": "Khmer_Rouge", "id": 3931332}]}

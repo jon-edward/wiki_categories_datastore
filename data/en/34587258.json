@@ -1,1 +1,1 @@
-{"name": "Graphics_processing_units", "id": 34587258, "predecessors": [{"name": "Graphics_hardware", "id": 1931221}, {"name": "MOSFETs", "id": 48945765}, {"name": "Heterogeneous_computing", "id": 42895290}], "successors": [{"name": "Graphics_chips", "id": 3282805}, {"name": "Nvidia_graphics_processors", "id": 51220215}]}
+{"name": "Graphics_processing_units", "id": 34587258, "predecessors": [{"name": "Graphics_hardware", "id": 1931221}], "successors": [{"name": "Graphics_chips", "id": 3282805}, {"name": "Nvidia_graphics_processors", "id": 51220215}]}

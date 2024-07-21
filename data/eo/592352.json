@@ -1,1 +1,1 @@
-{"name": "Proponitaj_landoj", "id": 592352, "predecessors": [{"name": "Landoj", "id": 33635}, {"name": "Administraj_unuoj", "id": 527448}], "successors": [{"name": "Neaperintaj_ŝtatoj", "id": 621387}]}
+{"name": "Proponitaj_landoj", "id": 592352, "predecessors": [{"name": "Landoj", "id": 33635}, {"name": "Administraj_unuoj", "id": 527448}], "successors": [{"name": "Neaperintaj_ŝtatoj", "id": 621387}, {"name": "Eksaj_neagnoskitaj_landoj", "id": 628047}]}

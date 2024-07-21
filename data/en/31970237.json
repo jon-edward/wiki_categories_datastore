@@ -1,1 +1,1 @@
-{"name": "Hotels_in_Bangkok", "id": 31970237, "predecessors": [{"name": "Buildings_and_structures_in_Bangkok", "id": 4695656}, {"name": "Hotels_in_Thailand", "id": 2949031}, {"name": "Tourism_in_Thailand", "id": 4714943}, {"name": "Companies_based_in_Bangkok", "id": 21402933}], "successors": []}
+{"name": "Hotels_in_Bangkok", "id": 31970237, "predecessors": [{"name": "Hotels_in_Thailand", "id": 2949031}, {"name": "Tourism", "id": 698284}, {"name": "Hospitality_companies_of_Thailand", "id": 26601298}], "successors": []}

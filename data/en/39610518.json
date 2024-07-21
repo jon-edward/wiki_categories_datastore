@@ -1,1 +1,1 @@
-{"name": "Potato_production", "id": 39610518, "predecessors": [{"name": "Potatoes", "id": 1900059}, {"name": "Agronomy", "id": 2298488}], "successors": []}
+{"name": "Potato_production", "id": 39610518, "predecessors": [{"name": "Potatoes", "id": 1900059}], "successors": []}

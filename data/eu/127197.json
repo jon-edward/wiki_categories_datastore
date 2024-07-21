@@ -1,0 +1,1 @@
+{"name": "Energia_elektrikoa", "id": 127197, "predecessors": [{"name": "Elektrizitatea", "id": 7823}, {"name": "Energia_motak", "id": 724260}, {"name": "Ingeniaritza_elektrikoa", "id": 18819}], "successors": [{"name": "Motor_elektrikoak", "id": 298164}, {"name": "Energia_elektrikoaren_banaketa", "id": 541679}, {"name": "Energia_elektrikoaren_sorkuntza", "id": 541680}]}

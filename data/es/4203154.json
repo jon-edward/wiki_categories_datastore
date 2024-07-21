@@ -1,1 +1,1 @@
-{"name": "Migas", "id": 4203154, "predecessors": [{"name": "Alimentos_de_desayuno", "id": 581526}, {"name": "Platos_con_pan", "id": 10023958}, {"name": "Platos_con_pan_de_España", "id": 10064177}, {"name": "Tapas_en_España", "id": 1284599}], "successors": []}
+{"name": "Migas", "id": 4203154, "predecessors": [{"name": "Platos_con_pan", "id": 10023958}, {"name": "Platos_con_pan_de_España", "id": 10064177}, {"name": "Tapas_en_España", "id": 1284599}], "successors": []}

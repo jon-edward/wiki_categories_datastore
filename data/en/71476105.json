@@ -1,1 +1,0 @@
-{"name": "Diagnostic_cardiology", "id": 71476105, "predecessors": [{"name": "Cardiac_procedures", "id": 32553274}, {"name": "Medical_diagnosis", "id": 16705234}], "successors": [{"name": "Symptoms_and_signs:_Cardiac", "id": 32566616}, {"name": "Cardiac_imaging", "id": 32626267}]}

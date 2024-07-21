@@ -1,1 +1,1 @@
-{"name": "Indian_tea", "id": 9946071, "predecessors": [{"name": "Agricultural_production_in_India_by_commodity", "id": 37413273}, {"name": "Indian_drinks", "id": 9723262}, {"name": "Tea", "id": 1000315}, {"name": "Asian_cuisine", "id": 2112752}, {"name": "Agriculture_by_type", "id": 31038144}], "successors": []}
+{"name": "Indian_tea", "id": 9946071, "predecessors": [{"name": "Tea", "id": 1000315}, {"name": "Asian_cuisine", "id": 2112752}, {"name": "Agriculture_by_type", "id": 31038144}], "successors": []}

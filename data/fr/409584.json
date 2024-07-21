@@ -1,1 +1,1 @@
-{"name": "Conteur", "id": 409584, "predecessors": [{"name": "Conte", "id": 100307}, {"name": "Littérature_orale", "id": 4118241}], "successors": [{"name": "Conteur_français", "id": 409585}, {"name": "Conteur_québécois", "id": 1225414}]}
+{"name": "Conteur", "id": 409584, "predecessors": [{"name": "Conte", "id": 100307}, {"name": "Littérature_orale", "id": 4118241}], "successors": [{"name": "Conteur_français", "id": 409585}, {"name": "Conteur_belge", "id": 4998082}, {"name": "Conteur_québécois", "id": 1225414}]}

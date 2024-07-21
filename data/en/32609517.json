@@ -1,1 +1,1 @@
-{"name": "Pancreas_disorders", "id": 32609517, "predecessors": [{"name": "Pancreas", "id": 19401187}, {"name": "Digestive_diseases", "id": 3615861}], "successors": [{"name": "Cystic_fibrosis", "id": 38048145}, {"name": "Pancreatic_cancer", "id": 43871760}]}
+{"name": "Pancreas_disorders", "id": 32609517, "predecessors": [{"name": "Digestive_diseases", "id": 3615861}], "successors": [{"name": "Cystic_fibrosis", "id": 38048145}, {"name": "Pancreatic_cancer", "id": 43871760}]}

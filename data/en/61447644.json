@@ -1,1 +1,1 @@
-{"name": "Arab_slave_owners", "id": 61447644, "predecessors": [{"name": "Slave_owners", "id": 45188171}], "successors": [{"name": "Arab_slave_traders", "id": 61447631}, {"name": "Egyptian_slave_owners", "id": 72718669}]}
+{"name": "Arab_slave_owners", "id": 61447644, "predecessors": [{"name": "Slave_owners", "id": 45188171}, {"name": "Arab_people", "id": 1089992}], "successors": [{"name": "Arab_slave_traders", "id": 61447631}, {"name": "Egyptian_slave_owners", "id": 72718669}]}

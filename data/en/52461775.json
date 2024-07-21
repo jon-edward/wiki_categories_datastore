@@ -1,1 +1,1 @@
-{"name": "Time_series_statistical_tests", "id": 52461775, "predecessors": [{"name": "Time_series", "id": 3751711}], "successors": []}
+{"name": "Time_series_statistical_tests", "id": 52461775, "predecessors": [{"name": "Statistical_tests", "id": 3697698}, {"name": "Time_series", "id": 3751711}], "successors": []}

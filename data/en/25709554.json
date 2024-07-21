@@ -1,1 +1,1 @@
-{"name": "Environmental_impact_of_paint", "id": 25709554, "predecessors": [{"name": "Paints", "id": 10781538}], "successors": []}
+{"name": "Environmental_impact_of_paint", "id": 25709554, "predecessors": [{"name": "Environmental_impact_by_source", "id": 39352038}, {"name": "Paints", "id": 10781538}], "successors": []}

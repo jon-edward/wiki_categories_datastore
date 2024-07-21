@@ -1,1 +1,1 @@
-{"name": "Yacht_design_firms", "id": 47991984, "predecessors": [{"name": "Yacht_building_companies", "id": 26177398}, {"name": "Construction", "id": 755979}], "successors": []}
+{"name": "Yacht_design_firms", "id": 47991984, "predecessors": [{"name": "Design_companies", "id": 7968526}, {"name": "Yacht_building_companies", "id": 26177398}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Topologiaj_grupoj", "id": 83569, "predecessors": [{"name": "Furiera_analitiko", "id": 359912}, {"name": "Topologio", "id": 83572}], "successors": [{"name": "Turna_simetrio", "id": 83455}, {"name": "Specialaj_funkcioj", "id": 83506}]}
+{"name": "Topologiaj_grupoj", "id": 83569, "predecessors": [{"name": "Furiera_analitiko", "id": 359912}, {"name": "Topologio", "id": 83572}], "successors": [{"name": "Prezenta_teorio_de_grupoj", "id": 83442}, {"name": "Turna_simetrio", "id": 83455}, {"name": "Specialaj_funkcioj", "id": 83506}]}

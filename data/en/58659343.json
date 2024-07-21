@@ -1,1 +1,1 @@
-{"name": "Hardware_acceleration", "id": 58659343, "predecessors": [{"name": "Computer_hardware", "id": 699548}, {"name": "Computer_systems", "id": 1940227}], "successors": [{"name": "AI_accelerators", "id": 50593271}]}
+{"name": "Hardware_acceleration", "id": 58659343, "predecessors": [{"name": "Application-specific_integrated_circuits", "id": 55121469}, {"name": "Computer_hardware", "id": 699548}, {"name": "Computer_systems", "id": 1940227}, {"name": "Computer_performance", "id": 8802994}], "successors": [{"name": "AI_accelerators", "id": 50593271}]}

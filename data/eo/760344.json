@@ -1,1 +1,1 @@
-{"name": "Urboj_en_Transkarpata_provinco", "id": 760344, "predecessors": [{"name": "Geografio_de_Transkarpata_provinco", "id": 765103}, {"name": "Administraj_unuoj_de_Ukrainio", "id": 541455}], "successors": []}
+{"name": "Urboj_en_Transkarpata_provinco", "id": 760344, "predecessors": [{"name": "Geografio_de_Transkarpata_provinco", "id": 765103}, {"name": "Urboj_de_Ukrainio", "id": 33416}], "successors": [{"name": "Uĵhorodo", "id": 762906}, {"name": "Solotvino", "id": 764279}, {"name": "Berehove", "id": 771398}, {"name": "Vinohradiv", "id": 771401}]}

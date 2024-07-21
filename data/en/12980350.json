@@ -1,1 +1,1 @@
-{"name": "Deduction_board_games", "id": 12980350, "predecessors": [{"name": "Board_games", "id": 9205892}], "successors": []}
+{"name": "Deduction_board_games", "id": 12980350, "predecessors": [{"name": "Deductive_reasoning", "id": 37832157}, {"name": "Board_games", "id": 9205892}], "successors": []}

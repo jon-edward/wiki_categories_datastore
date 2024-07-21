@@ -1,1 +1,1 @@
-{"name": "Transporto_en_Bavario", "id": 347036, "predecessors": [{"name": "Bavario", "id": 162606}, {"name": "Transporto_en_Germanio", "id": 245174}], "successors": []}
+{"name": "Transporto_en_Bavario", "id": 347036, "predecessors": [{"name": "Bavario", "id": 162606}, {"name": "Transporto_en_Germanio", "id": 245174}], "successors": [{"name": "Fervojaj_linioj_en_Bavario", "id": 366764}]}

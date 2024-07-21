@@ -1,1 +1,1 @@
-{"name": "Francaj_maristoj", "id": 768862, "predecessors": [{"name": "Maristoj", "id": 140933}], "successors": [{"name": "Francaj_admiraloj", "id": 321096}]}
+{"name": "Francaj_maristoj", "id": 768862, "predecessors": [{"name": "Maristoj", "id": 140933}], "successors": [{"name": "Francaj_piratoj", "id": 302686}, {"name": "Francaj_admiraloj", "id": 321096}]}

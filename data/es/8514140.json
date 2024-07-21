@@ -1,1 +1,1 @@
-{"name": "Líneas_de_crucero", "id": 8514140, "predecessors": [{"name": "Empresas_navieras", "id": 4503302}, {"name": "Transporte_marítimo", "id": 73768}], "successors": [{"name": "Barcos_de_MSC_Cruceros", "id": 10450677}]}
+{"name": "Líneas_de_crucero", "id": 8514140, "predecessors": [{"name": "Empresas_navieras", "id": 4503302}, {"name": "Transporte_marítimo", "id": 73768}], "successors": [{"name": "Carnival_Corporation_&_plc", "id": 8543278}, {"name": "Barcos_de_MSC_Cruceros", "id": 10450677}]}

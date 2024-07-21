@@ -1,1 +1,1 @@
-{"name": "Geomicrobiología", "id": 9527115, "predecessors": [{"name": "Disciplinas_de_la_geología", "id": 8918313}], "successors": [{"name": "Extremófilos", "id": 1976421}]}
+{"name": "Geomicrobiología", "id": 9527115, "predecessors": [{"name": "Disciplinas_de_la_geología", "id": 8918313}, {"name": "Microbiología", "id": 68208}], "successors": [{"name": "Extremófilos", "id": 1976421}]}

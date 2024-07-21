@@ -1,1 +1,1 @@
-{"name": "Futures_exchanges", "id": 4707028, "predecessors": [{"name": "Currency", "id": 1626296}], "successors": []}
+{"name": "Futures_exchanges", "id": 4707028, "predecessors": [{"name": "Derivatives_(finance)", "id": 29667152}, {"name": "Futures_markets", "id": 15536089}], "successors": []}

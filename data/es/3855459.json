@@ -1,1 +1,1 @@
-{"name": "Catedráticos_de_la_Universidad_de_Salamanca", "id": 3855459, "predecessors": [{"name": "Profesores_de_la_Universidad_de_Salamanca", "id": 3678620}, {"name": "Catedráticos_de_España", "id": 627777}], "successors": []}
+{"name": "Catedráticos_de_la_Universidad_de_Salamanca", "id": 3855459, "predecessors": [{"name": "Catedráticos_de_universidades_de_España", "id": 4174486}, {"name": "Profesores_de_la_Universidad_de_Salamanca", "id": 3678620}], "successors": [{"name": "Catedráticos_de_música_de_la_Universidad_de_Salamanca", "id": 10516468}]}

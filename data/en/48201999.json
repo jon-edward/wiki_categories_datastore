@@ -1,1 +1,1 @@
-{"name": "Lists_of_countries_by_production", "id": 48201999, "predecessors": [{"name": "Lists_of_countries_by_economic_indicator", "id": 48260777}], "successors": [{"name": "Lists_of_countries_by_mineral_production", "id": 48201708}]}
+{"name": "Lists_of_countries_by_production", "id": 48201999, "predecessors": [{"name": "Lists_of_countries_by_economic_indicator", "id": 48260777}, {"name": "Production_and_manufacturing", "id": 1226515}], "successors": [{"name": "Lists_of_countries_by_mineral_production", "id": 48201708}]}

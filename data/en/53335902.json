@@ -1,1 +1,1 @@
-{"name": "Payroll", "id": 53335902, "predecessors": [{"name": "Employment_compensation", "id": 4595606}], "successors": []}
+{"name": "Payroll", "id": 53335902, "predecessors": [{"name": "Employment_compensation", "id": 4595606}, {"name": "Expense", "id": 17941115}], "successors": []}

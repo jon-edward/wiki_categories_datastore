@@ -1,1 +1,1 @@
-{"name": "Seismiles_andinos_de_Chile", "id": 9050013, "predecessors": [{"name": "Chile", "id": 51676}, {"name": "Montañas", "id": 113188}], "successors": [{"name": "Seismiles_de_la_divisoria_Argentina-Chile", "id": 9050011}]}
+{"name": "Seismiles_andinos_de_Chile", "id": 9050013, "predecessors": [{"name": "Montañas_de_Chile", "id": 218544}, {"name": "Montañas_de_los_Andes", "id": 9050009}, {"name": "Montañas", "id": 113188}], "successors": [{"name": "Seismiles_de_la_divisoria_Argentina-Chile", "id": 9050011}]}

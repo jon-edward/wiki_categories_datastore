@@ -1,1 +1,1 @@
-{"name": "NPR_programs", "id": 34440410, "predecessors": [{"name": "American_public_radio_programs", "id": 15112664}, {"name": "NPR", "id": 34440343}, {"name": "American_radio_networks", "id": 3773375}, {"name": "Radio_networks", "id": 1225912}], "successors": [{"name": "Wait_Wait..._Don't_Tell_Me!", "id": 24908568}]}
+{"name": "NPR_programs", "id": 34440410, "predecessors": [{"name": "American_public_radio_programs", "id": 15112664}, {"name": "Sound_recording", "id": 2497458}], "successors": [{"name": "Wait_Wait..._Don't_Tell_Me!", "id": 24908568}]}

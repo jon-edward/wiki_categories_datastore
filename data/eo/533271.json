@@ -1,1 +1,1 @@
-{"name": "Naftogasa_geologio", "id": 533271, "predecessors": [{"name": "Nafto", "id": 231757}, {"name": "Geologio", "id": 26382}], "successors": [{"name": "Hidrokarbonaj_minejoj", "id": 562995}]}
+{"name": "Naftogasa_geologio", "id": 533271, "predecessors": [{"name": "Nafto_kaj_gaso", "id": 533272}, {"name": "Geologio", "id": 26382}], "successors": [{"name": "Hidrokarbonaj_minejoj", "id": 562995}]}

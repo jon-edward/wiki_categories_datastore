@@ -1,1 +1,1 @@
-{"name": "Bridges_in_North_Yorkshire", "id": 2059371, "predecessors": [{"name": "Buildings_and_structures_in_North_Yorkshire", "id": 2681180}, {"name": "Transport_in_North_Yorkshire", "id": 2059377}, {"name": "Transport_in_England", "id": 5155486}], "successors": [{"name": "Crossings_of_the_River_Tees", "id": 20272479}, {"name": "Railway_viaducts_in_North_Yorkshire", "id": 64514159}]}
+{"name": "Bridges_in_North_Yorkshire", "id": 2059371, "predecessors": [{"name": "Transport_in_England", "id": 5155486}], "successors": [{"name": "Crossings_of_the_River_Tees", "id": 20272479}]}

@@ -1,1 +1,1 @@
-{"name": "Art_curators", "id": 6775268, "predecessors": [{"name": "Art_museum_people", "id": 47161633}], "successors": [{"name": "European_art_curators", "id": 39358171}, {"name": "Venice_Biennale_artistic_directors", "id": 62807113}]}
+{"name": "Art_curators", "id": 6775268, "predecessors": [{"name": "Art_museum_people", "id": 47161633}, {"name": "Curators", "id": 2780054}], "successors": [{"name": "European_art_curators", "id": 39358171}, {"name": "Venice_Biennale_artistic_directors", "id": 62807113}]}

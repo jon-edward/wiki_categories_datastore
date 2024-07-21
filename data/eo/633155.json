@@ -1,1 +1,1 @@
-{"name": "Filmoj_pri_mensa_handikapo", "id": 633155, "predecessors": [{"name": "Filmoj_pri_handikapo", "id": 633157}, {"name": "Homa_disvolvo", "id": 436699}], "successors": [{"name": "Filmoj_pri_amnezio", "id": 633478}]}
+{"name": "Filmoj_pri_mensa_handikapo", "id": 633155, "predecessors": [{"name": "Filmoj_pri_handikapo", "id": 633157}, {"name": "Mensaj_malsanoj_en_fikcio", "id": 633145}], "successors": [{"name": "Filmoj_pri_psikiatrio", "id": 633142}, {"name": "Filmoj_pri_amnezio", "id": 633478}]}

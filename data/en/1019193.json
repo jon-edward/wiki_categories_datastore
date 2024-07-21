@@ -1,1 +1,1 @@
-{"name": "Punctuation", "id": 1019193, "predecessors": [{"name": "Grammar", "id": 733122}, {"name": "Orthography", "id": 5278974}, {"name": "Typographical_symbols", "id": 6511255}, {"name": "Proofreading", "id": 26146894}], "successors": [{"name": "Whitespace", "id": 7055667}]}
+{"name": "Punctuation", "id": 1019193, "predecessors": [{"name": "Grammar", "id": 733122}, {"name": "Orthography", "id": 5278974}, {"name": "Typographical_symbols", "id": 6511255}, {"name": "Language", "id": 8017451}], "successors": [{"name": "Whitespace", "id": 7055667}]}

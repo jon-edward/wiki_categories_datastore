@@ -1,1 +1,1 @@
-{"name": "Florists", "id": 23911865, "predecessors": [{"name": "Floristry", "id": 19147677}, {"name": "Retailers_by_type_of_merchandise_sold", "id": 55586528}, {"name": "Artisans", "id": 742819}], "successors": [{"name": "Florist_companies", "id": 26603946}]}
+{"name": "Florists", "id": 23911865, "predecessors": [{"name": "Floristry", "id": 19147677}, {"name": "Artisans", "id": 742819}], "successors": [{"name": "Florist_companies", "id": 26603946}]}

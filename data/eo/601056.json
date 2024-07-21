@@ -1,1 +1,1 @@
-{"name": "Hejmo-maŝinoj", "id": 601056, "predecessors": [{"name": "Hejmo", "id": 277766}, {"name": "Aparatoj", "id": 188798}], "successors": []}
+{"name": "Hejmo-maŝinoj", "id": 601056, "predecessors": [{"name": "Hejmo", "id": 277766}, {"name": "Aparatoj", "id": 188798}], "successors": [{"name": "Hejmaj_robotoj", "id": 124719}, {"name": "Domotiko", "id": 632251}]}

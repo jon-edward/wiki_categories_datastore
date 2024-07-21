@@ -1,1 +1,1 @@
-{"name": "Algorithmic_trading", "id": 50947841, "predecessors": [{"name": "Algorithms", "id": 691136}, {"name": "Electronic_trading_systems", "id": 21772079}], "successors": []}
+{"name": "Algorithmic_trading", "id": 50947841, "predecessors": [{"name": "Algorithms", "id": 691136}, {"name": "Electronic_trading_systems", "id": 21772079}, {"name": "Financial_markets", "id": 1654788}, {"name": "Mathematical_finance", "id": 3203933}], "successors": []}

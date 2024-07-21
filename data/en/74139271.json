@@ -1,1 +1,1 @@
-{"name": "Anti-Thai_sentiment", "id": 74139271, "predecessors": [{"name": "Anti-national_sentiment", "id": 3856641}, {"name": "Foreign_relations_of_Thailand", "id": 2704192}], "successors": []}
+{"name": "Anti-Thai_sentiment", "id": 74139271, "predecessors": [{"name": "Anti-national_sentiment", "id": 3856641}, {"name": "Foreign_relations_of_Thailand", "id": 2704192}, {"name": "Anti-Asian_sentiment", "id": 16147431}], "successors": []}

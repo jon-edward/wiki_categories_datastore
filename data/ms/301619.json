@@ -1,1 +1,1 @@
-{"name": "Audio_digital", "id": 301619, "predecessors": [{"name": "Media_digital", "id": 93468}, {"name": "Elektronik", "id": 30627}], "successors": [{"name": "IPhone", "id": 301607}]}
+{"name": "Audio_digital", "id": 301619, "predecessors": [{"name": "Media_digital", "id": 93468}, {"name": "Teknologi", "id": 8027}, {"name": "Pemprosesan_isyarat", "id": 95779}], "successors": [{"name": "IPhone", "id": 301607}]}

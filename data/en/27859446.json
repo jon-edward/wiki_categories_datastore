@@ -1,1 +1,1 @@
-{"name": "Electric_vehicle_infrastructure_developers", "id": 27859446, "predecessors": [{"name": "Electric_vehicle_industry", "id": 42810122}], "successors": []}
+{"name": "Electric_vehicle_infrastructure_developers", "id": 27859446, "predecessors": [{"name": "Electric_power_infrastructure", "id": 19126571}, {"name": "Electric_vehicle_industry", "id": 42810122}, {"name": "Technology_companies", "id": 3608033}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Helsingin_sillat", "id": 752898, "predecessors": [{"name": "Helsingin_liikenne", "id": 222227}, {"name": "Helsingin_rakennukset_ja_rakennelmat", "id": 198666}, {"name": "Sillat", "id": 25189}], "successors": []}
+{"name": "Helsingin_sillat", "id": 752898, "predecessors": [{"name": "Helsingin_liikenne", "id": 222227}, {"name": "Helsingin_rakennukset_ja_rakennelmat", "id": 198666}, {"name": "Sillat", "id": 25189}], "successors": [{"name": "Helsingin_kevyen_liikenteen_sillat", "id": 1811608}]}

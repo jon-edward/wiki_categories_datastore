@@ -1,1 +1,1 @@
-{"name": "Pathogenic_microbes", "id": 16842708, "predecessors": [{"name": "Clinical_pathology", "id": 10809366}, {"name": "Infectious_diseases", "id": 707355}], "successors": [{"name": "Plant_pathogens_and_diseases", "id": 11405471}, {"name": "Pathogenic_bacteria", "id": 16842072}]}
+{"name": "Pathogenic_microbes", "id": 16842708, "predecessors": [{"name": "Infectious_diseases", "id": 707355}], "successors": [{"name": "Plant_pathogens_and_diseases", "id": 11405471}, {"name": "Pathogenic_bacteria", "id": 16842072}]}

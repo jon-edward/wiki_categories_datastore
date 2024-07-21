@@ -1,1 +1,1 @@
-{"name": "49er_FX_class_sailing_competitions", "id": 56544846, "predecessors": [{"name": "Dinghies", "id": 765933}, {"name": "Sailing_competitions", "id": 42956893}], "successors": []}
+{"name": "49er_FX_class_sailing_competitions", "id": 56544846, "predecessors": [{"name": "Sailing_competitions", "id": 42956893}], "successors": [{"name": "49er_class_world_champions", "id": 47912433}, {"name": "49er_FX_class_world_champions", "id": 47983043}]}

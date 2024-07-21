@@ -1,1 +1,1 @@
-{"name": "Sporto_en_Ostrava", "id": 288204, "predecessors": [{"name": "Distriktaj_urboj_en_Ĉeĥio", "id": 622589}, {"name": "Sporto", "id": 26443}, {"name": "Distriktoj_en_Moraviasilezia_regiono", "id": 675239}], "successors": []}
+{"name": "Sporto_en_Ostrava", "id": 288204, "predecessors": [{"name": "Ostrava", "id": 287023}, {"name": "Sporto_en_Ĉeĥio", "id": 244576}, {"name": "Distriktoj_en_Moraviasilezia_regiono", "id": 675239}], "successors": [{"name": "Stadionoj_en_Ostrava", "id": 624331}]}

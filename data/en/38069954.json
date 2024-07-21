@@ -1,1 +1,1 @@
-{"name": "History_books_about_the_occult", "id": 38069954, "predecessors": [{"name": "Occult_books", "id": 1241458}], "successors": [{"name": "History_books_about_witchcraft", "id": 31086698}]}
+{"name": "History_books_about_the_occult", "id": 38069954, "predecessors": [{"name": "History_books_about_religion", "id": 31034995}, {"name": "Occult_books", "id": 1241458}], "successors": [{"name": "History_books_about_witchcraft", "id": 31086698}]}

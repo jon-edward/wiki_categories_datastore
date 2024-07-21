@@ -1,1 +1,1 @@
-{"name": "Consumer_theory", "id": 5043695, "predecessors": [{"name": "Consumer_behaviour", "id": 1232620}], "successors": [{"name": "Demand", "id": 1754810}, {"name": "Utility", "id": 2022258}]}
+{"name": "Consumer_theory", "id": 5043695, "predecessors": [{"name": "Consumer_behaviour", "id": 1232620}, {"name": "Microeconomic_theories", "id": 54085744}], "successors": [{"name": "Demand", "id": 1754810}, {"name": "Utility", "id": 2022258}]}

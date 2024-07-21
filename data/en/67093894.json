@@ -1,1 +1,1 @@
-{"name": "German_male_jazz_musicians", "id": 67093894, "predecessors": [{"name": "German_jazz_musicians", "id": 2057420}, {"name": "German_male_musicians", "id": 44858718}], "successors": [{"name": "German_male_jazz_composers", "id": 76506025}, {"name": "German_male_jazz_pianists", "id": 76584659}]}
+{"name": "German_male_jazz_musicians", "id": 67093894, "predecessors": [{"name": "German_jazz_musicians", "id": 2057420}], "successors": [{"name": "German_male_jazz_composers", "id": 76506025}, {"name": "German_male_jazz_pianists", "id": 76584659}]}

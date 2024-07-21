@@ -1,1 +1,1 @@
-{"name": "Fervojaj_stacioj_en_Mariupolo", "id": 768193, "predecessors": [{"name": "Fervojaj_stacioj_en_Donecka_provinco", "id": 764747}, {"name": "Fervojo_en_Ukrainio", "id": 414083}, {"name": "Konstruaĵoj", "id": 63960}, {"name": "Transporto", "id": 51301}], "successors": []}
+{"name": "Fervojaj_stacioj_en_Mariupolo", "id": 768193, "predecessors": [{"name": "Fervojaj_stacioj_en_Donecka_provinco", "id": 764747}, {"name": "Transporto_en_Mariupolo", "id": 768192}, {"name": "Fervojo_en_Ukrainio", "id": 414083}, {"name": "Mariupolo", "id": 762036}], "successors": []}

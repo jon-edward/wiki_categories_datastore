@@ -1,1 +1,1 @@
-{"name": "Eye_hospitals", "id": 41998931, "predecessors": [{"name": "Ophthalmology", "id": 765995}, {"name": "Ophthalmology_organizations", "id": 20288809}], "successors": [{"name": "Eye_hospitals_in_India", "id": 69778395}, {"name": "Eye_hospitals_in_the_United_States", "id": 69778413}]}
+{"name": "Eye_hospitals", "id": 41998931, "predecessors": [{"name": "Ophthalmology", "id": 765995}, {"name": "Ophthalmology_organizations", "id": 20288809}], "successors": [{"name": "Eye_hospitals_in_the_United_States", "id": 69778413}]}

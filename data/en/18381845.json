@@ -1,1 +1,1 @@
-{"name": "Real_estate_bubbles", "id": 18381845, "predecessors": [{"name": "Real_estate", "id": 984323}], "successors": [{"name": "Real_estate_bubbles_of_the_2000s", "id": 36003451}]}
+{"name": "Real_estate_bubbles", "id": 18381845, "predecessors": [{"name": "Economic_bubbles", "id": 1365925}, {"name": "Economic_history", "id": 1048882}], "successors": [{"name": "Real_estate_bubbles_of_the_2000s", "id": 36003451}]}

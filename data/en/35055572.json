@@ -1,1 +1,1 @@
-{"name": "Common_Object_Request_Broker_Architecture", "id": 35055572, "predecessors": [{"name": "Application_layer_protocols", "id": 7941457}, {"name": "Object-oriented_programming", "id": 763530}], "successors": []}
+{"name": "Common_Object_Request_Broker_Architecture", "id": 35055572, "predecessors": [{"name": "Object_request_broker", "id": 39576606}], "successors": []}

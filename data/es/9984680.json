@@ -1,1 +1,1 @@
-{"name": "Lluvia_en_la_cultura", "id": 9984680, "predecessors": [{"name": "Agua_en_la_cultura", "id": 9139020}, {"name": "Lluvia", "id": 7518579}, {"name": "Cultura", "id": 51310}], "successors": [{"name": "Diluvio_universal", "id": 9515197}]}
+{"name": "Lluvia_en_la_cultura", "id": 9984680, "predecessors": [{"name": "Agua_en_la_cultura", "id": 9139020}, {"name": "Cielo_en_la_cultura", "id": 9984688}], "successors": [{"name": "Diluvio_universal", "id": 9515197}]}

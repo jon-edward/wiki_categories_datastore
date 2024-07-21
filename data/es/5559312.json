@@ -1,1 +1,1 @@
-{"name": "Análisis_de_software", "id": 5559312, "predecessors": [{"name": "Compiladores", "id": 98574}, {"name": "Métodos_formales", "id": 5559355}, {"name": "Informática_teórica", "id": 375078}], "successors": [{"name": "Optimizaciones_del_compilador", "id": 5585560}]}
+{"name": "Análisis_de_software", "id": 5559312, "predecessors": [{"name": "Análisis", "id": 3088716}, {"name": "Teoría_de_lenguajes_de_programación", "id": 4286113}], "successors": [{"name": "Optimizaciones_del_compilador", "id": 5585560}]}

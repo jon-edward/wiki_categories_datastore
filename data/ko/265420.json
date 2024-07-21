@@ -1,1 +1,1 @@
-{"name": "현울림악기", "id": 265420, "predecessors": [{"name": "악기", "id": 12128}], "successors": [{"name": "현악기", "id": 12127}]}
+{"name": "현울림악기", "id": 265420, "predecessors": [{"name": "악기", "id": 12128}, {"name": "음악_이론", "id": 46118}], "successors": [{"name": "현악기", "id": 12127}]}

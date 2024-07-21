@@ -1,1 +1,1 @@
-{"name": "Marcas_de_electrodomésticos", "id": 6081804, "predecessors": [{"name": "Electrodomésticos", "id": 69448}, {"name": "Empresas_de_electrodomésticos", "id": 3531205}, {"name": "Marcas_comerciales", "id": 1188838}], "successors": []}
+{"name": "Marcas_de_electrodomésticos", "id": 6081804, "predecessors": [{"name": "Empresas_de_electrodomésticos", "id": 3531205}, {"name": "Marcas_comerciales", "id": 1188838}], "successors": []}

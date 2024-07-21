@@ -1,1 +1,1 @@
-{"name": "Transporto_en_Lisbono", "id": 311937, "predecessors": [{"name": "Lisbono", "id": 256909}, {"name": "Transporto", "id": 51301}, {"name": "Ekonomio_de_Portugalio", "id": 217078}], "successors": []}
+{"name": "Transporto_en_Lisbono", "id": 311937, "predecessors": [{"name": "Lisbono", "id": 256909}, {"name": "Transporto_en_Portugalio", "id": 311936}, {"name": "Transporto", "id": 51301}], "successors": []}

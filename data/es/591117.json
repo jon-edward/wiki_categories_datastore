@@ -1,1 +1,1 @@
-{"name": "Tuberculosis", "id": 591117, "predecessors": [{"name": "Enfermedades_infecciosas", "id": 64496}], "successors": [{"name": "Fallecidos_por_tuberculosis", "id": 5032954}, {"name": "Tisiólogos", "id": 7141607}, {"name": "Sanatorios_antituberculosos", "id": 7700711}, {"name": "Medicamentos_antituberculosos", "id": 10303676}]}
+{"name": "Tuberculosis", "id": 591117, "predecessors": [{"name": "Enfermedades_infecciosas", "id": 64496}], "successors": [{"name": "Medicamentos_antituberculosos", "id": 10303676}]}

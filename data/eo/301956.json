@@ -1,1 +1,1 @@
-{"name": "Ĉinaj_firmaoj", "id": 301956, "predecessors": [{"name": "Ekonomio_de_Ĉinio", "id": 332920}, {"name": "Firmaoj", "id": 53508}], "successors": [{"name": "Ĉinaj_flugkompanioj", "id": 332754}, {"name": "Ĉinaj_aŭtomobilfabrikoj", "id": 427511}]}
+{"name": "Ĉinaj_firmaoj", "id": 301956, "predecessors": [{"name": "Ekonomio_de_Ĉinio", "id": 332920}, {"name": "Firmaoj", "id": 53508}, {"name": "Ekonomio_de_Azio", "id": 312901}], "successors": [{"name": "Ĉinaj_flugkompanioj", "id": 332754}, {"name": "Ĉinaj_aŭtomobilfabrikoj", "id": 427511}]}

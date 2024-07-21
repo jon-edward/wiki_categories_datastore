@@ -1,1 +1,1 @@
-{"name": "Compositores_de_Sevilla", "id": 2522061, "predecessors": [{"name": "Músicos_de_Sevilla", "id": 2522112}, {"name": "Compositores_de_Andalucía", "id": 256816}], "successors": [{"name": "Maestros_de_capilla_de_la_Catedral_de_Sevilla", "id": 9971879}]}
+{"name": "Compositores_de_Sevilla", "id": 2522061, "predecessors": [{"name": "Compositores_de_la_provincia_de_Sevilla", "id": 5963924}, {"name": "Músicos_de_Sevilla", "id": 2522112}], "successors": [{"name": "Maestros_de_capilla_de_la_Catedral_de_Sevilla", "id": 9971879}]}

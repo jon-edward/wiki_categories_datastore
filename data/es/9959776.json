@@ -1,1 +1,1 @@
-{"name": "Platos_con_col", "id": 9959776, "predecessors": [{"name": "Platos_de_verdura", "id": 5770466}], "successors": []}
+{"name": "Platos_con_col", "id": 9959776, "predecessors": [{"name": "Brassica", "id": 1383500}, {"name": "Platos_de_verdura", "id": 5770466}], "successors": []}

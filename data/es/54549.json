@@ -1,1 +1,1 @@
-{"name": "Fármacos_hipolipemiantes", "id": 54549, "predecessors": [{"name": "Fármacos_del_sistema_cardiovascular", "id": 2076783}], "successors": [{"name": "Estatinas", "id": 1905055}]}
+{"name": "Fármacos_hipolipemiantes", "id": 54549, "predecessors": [{"name": "Fármacos_del_sistema_cardiovascular", "id": 2076783}], "successors": [{"name": "Estatinas", "id": 1905055}, {"name": "Inhibidores_de_la_HMG-CoA_reductasa", "id": 3199141}]}

@@ -1,1 +1,1 @@
-{"name": "Pesticidoj", "id": 315200, "predecessors": [{"name": "Agrikulturo", "id": 39049}, {"name": "Toksologio", "id": 188543}], "successors": [{"name": "Herbicidoj", "id": 315609}, {"name": "Insekticidoj", "id": 346772}]}
+{"name": "Pesticidoj", "id": 315200, "predecessors": [{"name": "Agrikultura_lukto_kontraŭ_plagoj", "id": 555410}, {"name": "Agrikulturo", "id": 39049}, {"name": "Toksologio", "id": 188543}], "successors": [{"name": "Herbicidoj", "id": 315609}, {"name": "Insekticidoj", "id": 346772}, {"name": "Fungicidoj", "id": 825302}]}

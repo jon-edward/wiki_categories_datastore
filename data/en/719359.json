@@ -1,1 +1,1 @@
-{"name": "Antitussives", "id": 719359, "predecessors": [{"name": "Drugs_acting_on_the_respiratory_system", "id": 22002198}, {"name": "Reflexes", "id": 1001548}], "successors": []}
+{"name": "Antitussives", "id": 719359, "predecessors": [{"name": "Drugs_acting_on_the_respiratory_system", "id": 22002198}, {"name": "Symptoms_and_signs:_Respiratory_system", "id": 32552512}], "successors": []}

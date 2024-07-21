@@ -1,1 +1,1 @@
-{"name": "Función_Judicial", "id": 9922531, "predecessors": [{"name": "Derecho_de_Ecuador", "id": 340518}, {"name": "Poder_judicial", "id": 576615}, {"name": "Estado_de_Ecuador", "id": 603896}], "successors": [{"name": "Presidentes_de_la_Corte_Suprema_de_Justicia_de_Ecuador", "id": 8370039}]}
+{"name": "Función_Judicial", "id": 9922531, "predecessors": [{"name": "Derecho_de_Ecuador", "id": 340518}, {"name": "Gobierno_de_Ecuador", "id": 4867522}, {"name": "Poder_judicial", "id": 576615}, {"name": "Estado_de_Ecuador", "id": 603896}], "successors": []}

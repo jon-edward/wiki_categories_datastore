@@ -1,1 +1,1 @@
-{"name": "Autumn_festivals", "id": 6846159, "predecessors": [{"name": "Entertainment", "id": 693016}], "successors": [{"name": "Halloween", "id": 1822813}, {"name": "Thanksgiving", "id": 5659398}, {"name": "Diwali", "id": 21957532}]}
+{"name": "Autumn_festivals", "id": 6846159, "predecessors": [{"name": "Folk_festivals", "id": 2843356}, {"name": "Autumn", "id": 6826833}], "successors": [{"name": "Halloween", "id": 1822813}, {"name": "Thanksgiving", "id": 5659398}, {"name": "Diwali", "id": 21957532}]}

@@ -1,1 +1,1 @@
-{"name": "Alternative_detoxification", "id": 20074731, "predecessors": [{"name": "Alternative_medical_treatments", "id": 20085242}, {"name": "Fad_diets", "id": 52676688}, {"name": "Pseudoscience", "id": 828361}, {"name": "Toxicology_treatments", "id": 32638019}], "successors": [{"name": "Alternative_detoxification_promoters", "id": 51336433}]}
+{"name": "Alternative_detoxification", "id": 20074731, "predecessors": [{"name": "Fad_diets", "id": 52676688}, {"name": "Pseudoscience", "id": 828361}], "successors": []}

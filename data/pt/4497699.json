@@ -1,1 +1,1 @@
-{"name": "Músicos_cegos", "id": 4497699, "predecessors": [{"name": "Músicos", "id": 14423}, {"name": "Pessoas_cegas", "id": 1674646}], "successors": []}
+{"name": "Músicos_cegos", "id": 4497699, "predecessors": [{"name": "Pessoas_cegas", "id": 1674646}, {"name": "Artistas", "id": 52615}], "successors": []}

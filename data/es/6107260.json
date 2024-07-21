@@ -1,1 +1,1 @@
-{"name": "Software_multimedia", "id": 6107260, "predecessors": [{"name": "Aplicaciones_informáticas", "id": 54102}, {"name": "Multimedia", "id": 212391}], "successors": [{"name": "Software_multimedia_libre", "id": 5681080}, {"name": "Software_de_streaming", "id": 9381238}]}
+{"name": "Software_multimedia", "id": 6107260, "predecessors": [{"name": "Multimedia", "id": 212391}], "successors": [{"name": "Software_multimedia_libre", "id": 5681080}, {"name": "Software_de_streaming", "id": 9381238}]}

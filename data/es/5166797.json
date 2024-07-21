@@ -1,1 +1,1 @@
-{"name": "Recipientes_de_plástico", "id": 5166797, "predecessors": [{"name": "Plásticos", "id": 443899}], "successors": [{"name": "Botellas", "id": 597840}, {"name": "Cuencos", "id": 7345194}, {"name": "Jarras", "id": 7345235}, {"name": "Botes", "id": 7351465}]}
+{"name": "Recipientes_de_plástico", "id": 5166797, "predecessors": [{"name": "Aplicaciones_del_plástico", "id": 5166802}, {"name": "Recipientes", "id": 545874}], "successors": [{"name": "Botellas", "id": 597840}, {"name": "Cuencos", "id": 7345194}, {"name": "Jarras", "id": 7345235}, {"name": "Botes", "id": 7351465}]}

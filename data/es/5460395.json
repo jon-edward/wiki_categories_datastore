@@ -1,1 +1,1 @@
-{"name": "Globos_aerostáticos", "id": 5460395, "predecessors": [{"name": "Aeronaves_por_tipo", "id": 1878571}, {"name": "Dinámica_de_fluidos", "id": 1267410}], "successors": []}
+{"name": "Globos_aerostáticos", "id": 5460395, "predecessors": [{"name": "Dinámica_de_fluidos", "id": 1267410}], "successors": []}

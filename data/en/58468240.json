@@ -1,1 +1,1 @@
-{"name": "Films_set_on_boats", "id": 58468240, "predecessors": [{"name": "Films_set_on_ships", "id": 42044360}, {"name": "Boats", "id": 765931}], "successors": [{"name": "Submarine_films", "id": 16625099}, {"name": "Sailing_films", "id": 18856613}, {"name": "Boat_racing_films", "id": 18868758}]}
+{"name": "Films_set_on_boats", "id": 58468240, "predecessors": [{"name": "Films_set_on_ships", "id": 42044360}], "successors": [{"name": "Submarine_films", "id": 16625099}, {"name": "Sailing_films", "id": 18856613}, {"name": "Boat_racing_films", "id": 18868758}]}

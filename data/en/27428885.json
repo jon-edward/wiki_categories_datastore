@@ -1,1 +1,1 @@
-{"name": "Diesel_engine_components", "id": 27428885, "predecessors": [{"name": "Diesel_engine_technology", "id": 27428665}, {"name": "Diesel_engines", "id": 16236256}, {"name": "Combustion", "id": 3022121}], "successors": []}
+{"name": "Diesel_engine_components", "id": 27428885, "predecessors": [{"name": "Diesel_engine_technology", "id": 27428665}], "successors": []}

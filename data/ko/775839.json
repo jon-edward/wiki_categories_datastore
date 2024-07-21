@@ -1,1 +1,1 @@
-{"name": "비타민_결핍", "id": 775839, "predecessors": [{"name": "비타민", "id": 173563}], "successors": []}
+{"name": "비타민_결핍", "id": 775839, "predecessors": [{"name": "비타민", "id": 173563}, {"name": "영양", "id": 32180}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Boot_loaders", "id": 4665782, "predecessors": [{"name": "System_software", "id": 708061}], "successors": [{"name": "Free_boot_loaders", "id": 21870579}, {"name": "Unified_Extensible_Firmware_Interface", "id": 43123158}]}
+{"name": "Boot_loaders", "id": 4665782, "predecessors": [{"name": "Booting", "id": 6254572}], "successors": [{"name": "Free_boot_loaders", "id": 21870579}, {"name": "Unified_Extensible_Firmware_Interface", "id": 43123158}]}

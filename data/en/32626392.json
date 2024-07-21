@@ -1,1 +1,1 @@
-{"name": "Nose_surgery", "id": 32626392, "predecessors": [{"name": "Oral_and_maxillofacial_surgery", "id": 9324347}, {"name": "Otorhinolaryngology", "id": 44532271}, {"name": "Respiratory_system_procedures", "id": 32521263}], "successors": []}
+{"name": "Nose_surgery", "id": 32626392, "predecessors": [{"name": "Nose", "id": 20693944}, {"name": "Oral_and_maxillofacial_surgery", "id": 9324347}, {"name": "Otorhinolaryngology", "id": 44532271}], "successors": []}

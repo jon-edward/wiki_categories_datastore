@@ -1,1 +1,1 @@
-{"name": "Bird_extinctions_since_1500", "id": 31146818, "predecessors": [{"name": "Bird_conservation", "id": 23127016}, {"name": "Animal_death", "id": 33166047}], "successors": [{"name": "Dodo", "id": 70784988}]}
+{"name": "Bird_extinctions_since_1500", "id": 31146818, "predecessors": [{"name": "Bird_conservation", "id": 23127016}], "successors": [{"name": "Dodo", "id": 70784988}]}

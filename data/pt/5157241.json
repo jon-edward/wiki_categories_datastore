@@ -1,1 +1,1 @@
-{"name": "Jogos_eletrônicos_da_SNK", "id": 5157241, "predecessors": [{"name": "Jogos_eletrônicos", "id": 157414}, {"name": "Empresas_de_jogos_eletrônicos_do_Japão", "id": 1848533}], "successors": [{"name": "Jogos_para_Neo-Geo_CD", "id": 1974310}, {"name": "Jogos_da_série_Super_Sidekicks", "id": 5592319}]}
+{"name": "Jogos_eletrônicos_da_SNK", "id": 5157241, "predecessors": [{"name": "SNK", "id": 5156801}, {"name": "Jogos_eletrônicos", "id": 157414}], "successors": [{"name": "Jogos_para_Neo-Geo_CD", "id": 1974310}, {"name": "Jogos_da_série_Super_Sidekicks", "id": 5592319}]}

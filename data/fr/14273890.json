@@ -1,1 +1,1 @@
-{"name": "Cuisine_médiévale", "id": 14273890, "predecessors": [{"name": "Culture_du_Moyen_Âge", "id": 801556}, {"name": "Moyen_Âge", "id": 82658}, {"name": "Histoire_de_la_cuisine", "id": 208048}], "successors": [{"name": "Livre_de_cuisine_médiéval", "id": 14273917}]}
+{"name": "Cuisine_médiévale", "id": 14273890, "predecessors": [{"name": "Culture_du_Moyen_Âge", "id": 801556}, {"name": "Vie_quotidienne_au_Moyen_Âge", "id": 4177030}, {"name": "Histoire_de_la_cuisine", "id": 208048}], "successors": [{"name": "Livre_de_cuisine_médiéval", "id": 14273917}]}

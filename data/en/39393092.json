@@ -1,1 +1,1 @@
-{"name": "Ebook_suppliers", "id": 39393092, "predecessors": [{"name": "Bookstores", "id": 857915}, {"name": "Ebooks", "id": 30859902}], "successors": [{"name": "Kobo_Inc.", "id": 33616402}]}
+{"name": "Ebook_suppliers", "id": 39393092, "predecessors": [{"name": "Ebooks", "id": 30859902}], "successors": [{"name": "Kobo_Inc.", "id": 33616402}]}

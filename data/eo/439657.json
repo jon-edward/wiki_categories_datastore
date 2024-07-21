@@ -1,1 +1,1 @@
-{"name": "Psikopatologio", "id": 439657, "predecessors": [{"name": "Psikiatrio", "id": 169111}], "successors": [{"name": "Ekspluato", "id": 439656}, {"name": "Aŭtismo", "id": 586278}, {"name": "Anksieco", "id": 589725}]}
+{"name": "Psikopatologio", "id": 439657, "predecessors": [{"name": "Psikiatrio", "id": 169111}], "successors": [{"name": "Ekspluato", "id": 439656}, {"name": "Psikopatologiaj_simptomoj", "id": 547954}, {"name": "Aŭtismo", "id": 586278}, {"name": "Anksieco", "id": 589725}, {"name": "Psikozo", "id": 636184}]}

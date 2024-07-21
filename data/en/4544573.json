@@ -1,1 +1,1 @@
-{"name": "Sail_training_associations", "id": 4544573, "predecessors": [{"name": "Sail_training", "id": 30323178}, {"name": "Sailing_associations", "id": 30320556}, {"name": "Sports_academies", "id": 24206718}], "successors": []}
+{"name": "Sail_training_associations", "id": 4544573, "predecessors": [{"name": "Sailing_associations", "id": 30320556}, {"name": "Sports_academies", "id": 24206718}], "successors": []}

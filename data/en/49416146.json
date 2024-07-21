@@ -1,1 +1,1 @@
-{"name": "Compaq", "id": 49416146, "predecessors": [{"name": "Companies_based_in_Houston", "id": 17424180}, {"name": "Defunct_computer_hardware_companies", "id": 3453196}, {"name": "Defunct_computer_systems_companies", "id": 75272735}], "successors": []}
+{"name": "Compaq", "id": 49416146, "predecessors": [{"name": "Companies_based_in_Houston", "id": 17424180}], "successors": [{"name": "X86_Compaq_computers", "id": 69236241}]}

@@ -1,1 +1,1 @@
-{"name": "Auteur_de_comics", "id": 839200, "predecessors": [{"name": "Comics", "id": 83311}, {"name": "Auteur_de_bande_dessinée", "id": 195476}], "successors": [{"name": "Auteur_des_comics_Serenity", "id": 8071558}, {"name": "Auteur_américain_de_comic_strip", "id": 8368680}]}
+{"name": "Auteur_de_comics", "id": 839200, "predecessors": [{"name": "Comics", "id": 83311}, {"name": "Métier", "id": 87726}], "successors": [{"name": "Auteur_des_comics_Serenity", "id": 8071558}, {"name": "Auteur_américain_de_comic_strip", "id": 8368680}]}

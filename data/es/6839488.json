@@ -1,1 +1,1 @@
-{"name": "Estaciones_de_la_línea_Central_Link", "id": 6839488, "predecessors": [{"name": "Tren_Ligero_en_Estados_Unidos", "id": 6867224}, {"name": "Ferrocarriles", "id": 326073}], "successors": []}
+{"name": "Estaciones_de_la_línea_Central_Link", "id": 6839488, "predecessors": [{"name": "Ferrocarril_en_Estados_Unidos", "id": 1540557}, {"name": "Transporte_de_Seattle", "id": 6832658}], "successors": []}

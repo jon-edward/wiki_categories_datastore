@@ -1,1 +1,1 @@
-{"name": "Petrolo", "id": 522679, "predecessors": [{"name": "Fosiliaj_brulaĵoj", "id": 294595}, {"name": "Hidrokarbonidoj", "id": 435486}, {"name": "Sedimentaj_rokoj", "id": 440020}, {"name": "Ekonomika_evoluo", "id": 94533}], "successors": [{"name": "Nafto", "id": 231757}]}
+{"name": "Petrolo", "id": 522679, "predecessors": [{"name": "Ekspluatado_de_krudmaterialoj", "id": 439464}, {"name": "Fosiliaj_brulaĵoj", "id": 294595}, {"name": "Hidrokarbonidoj", "id": 435486}, {"name": "Sedimentaj_rokoj", "id": 440020}], "successors": [{"name": "Nafto", "id": 231757}]}

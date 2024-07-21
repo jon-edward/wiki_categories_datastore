@@ -1,1 +1,1 @@
-{"name": "UCI_America_Tour", "id": 1638349, "predecessors": [{"name": "UCI", "id": 799664}, {"name": "Wielerklassement", "id": 188466}, {"name": "Cultuur", "id": 66068}], "successors": [{"name": "Ronde_van_Californië", "id": 1638391}]}
+{"name": "UCI_America_Tour", "id": 1638349, "predecessors": [{"name": "UCI", "id": 799664}, {"name": "Wielerklassement", "id": 188466}, {"name": "Sport", "id": 63604}], "successors": [{"name": "Ronde_van_Californië", "id": 1638391}]}

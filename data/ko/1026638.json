@@ -1,1 +1,1 @@
-{"name": "소니_카메라", "id": 1026638, "predecessors": [{"name": "브랜드", "id": 124373}, {"name": "소니_제품", "id": 557864}], "successors": []}
+{"name": "소니_카메라", "id": 1026638, "predecessors": [{"name": "사진기", "id": 43449}, {"name": "소니_제품", "id": 557864}], "successors": [{"name": "소니_DSLR_카메라", "id": 1026637}]}

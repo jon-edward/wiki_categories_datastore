@@ -1,1 +1,1 @@
-{"name": "온라인_은행", "id": 2349182, "predecessors": [{"name": "은행", "id": 20027}, {"name": "은행업", "id": 733231}], "successors": []}
+{"name": "온라인_은행", "id": 2349182, "predecessors": [{"name": "온라인_기업", "id": 1621479}, {"name": "은행", "id": 20027}, {"name": "은행업", "id": 733231}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Jenis_pertubuhan", "id": 153935, "predecessors": [{"name": "Pertubuhan", "id": 26892}], "successors": [{"name": "Jenis_syarikat", "id": 162827}]}
+{"name": "Jenis_pertubuhan", "id": 153935, "predecessors": [{"name": "Pertubuhan", "id": 26892}], "successors": [{"name": "Jenis_syarikat", "id": 162827}, {"name": "Bandar", "id": 94523}]}

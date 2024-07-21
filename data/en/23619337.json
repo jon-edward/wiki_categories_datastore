@@ -1,1 +1,1 @@
-{"name": "Sydney_Roosters_players", "id": 23619337, "predecessors": [{"name": "Sydney_Roosters", "id": 5477990}, {"name": "Rugby_league_in_Sydney", "id": 26753584}, {"name": "National_Rugby_League", "id": 1021792}], "successors": [{"name": "Sydney_Roosters_captains", "id": 69650165}]}
+{"name": "Sydney_Roosters_players", "id": 23619337, "predecessors": [{"name": "National_Rugby_League", "id": 1021792}], "successors": [{"name": "Sydney_Roosters_captains", "id": 69650165}]}

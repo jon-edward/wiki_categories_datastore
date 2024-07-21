@@ -1,1 +1,1 @@
-{"name": "Massage", "id": 1079229, "predecessors": [{"name": "Entspannungstechnik", "id": 2774739}, {"name": "Physikalische_und_Rehabilitative_Medizin", "id": 518128}, {"name": "Therapeutisches_Verfahren_in_Orthopädie_und_Unfallchirurgie", "id": 5113137}], "successors": []}
+{"name": "Massage", "id": 1079229, "predecessors": [{"name": "Entspannungstechnik", "id": 2774739}, {"name": "Physiotherapie", "id": 13153422}, {"name": "Therapeutisches_Verfahren_in_Orthopädie_und_Unfallchirurgie", "id": 5113137}], "successors": []}

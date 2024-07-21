@@ -1,1 +1,1 @@
-{"name": "Guide_dogs", "id": 72053162, "predecessors": [{"name": "Blindness", "id": 2173860}], "successors": [{"name": "Guide_dogs_organizations", "id": 74560596}]}
+{"name": "Guide_dogs", "id": 72053162, "predecessors": [{"name": "Assistance_dogs", "id": 1021367}, {"name": "Blindness", "id": 2173860}], "successors": [{"name": "Guide_dogs_organizations", "id": 74560596}]}

@@ -1,1 +1,1 @@
-{"name": "Material_rodante_de_Stadler_Rail", "id": 10134571, "predecessors": [{"name": "Material_rodante", "id": 326068}, {"name": "Fabricantes_de_locomotoras", "id": 3321921}], "successors": []}
+{"name": "Material_rodante_de_Stadler_Rail", "id": 10134571, "predecessors": [{"name": "Empresas", "id": 62409}, {"name": "Ciencia_y_tecnología_de_Suiza", "id": 1369489}], "successors": []}

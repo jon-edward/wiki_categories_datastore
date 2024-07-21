@@ -1,1 +1,1 @@
-{"name": "항공기_지상_충돌_사고", "id": 1993750, "predecessors": [{"name": "항공_사고", "id": 29500}], "successors": []}
+{"name": "항공기_지상_충돌_사고", "id": 1993750, "predecessors": [{"name": "역학", "id": 12399}], "successors": []}

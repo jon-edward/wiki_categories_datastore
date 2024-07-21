@@ -1,1 +1,1 @@
-{"name": "Europavägar_i_Portugal", "id": 8820153, "predecessors": [{"name": "Transport_i_Europa", "id": 445120}, {"name": "Europavägar", "id": 61486}], "successors": []}
+{"name": "Europavägar_i_Portugal", "id": 8820153, "predecessors": [{"name": "Transport_i_Europa", "id": 445120}, {"name": "Europavägar", "id": 61486}], "successors": [{"name": "E1", "id": 8863136}, {"name": "E80", "id": 8863403}, {"name": "E90", "id": 8864011}]}

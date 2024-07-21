@@ -1,1 +1,1 @@
-{"name": "Jugadores_de_Europa_de_la_Ryder_Cup", "id": 542610, "predecessors": [{"name": "Golf", "id": 118930}, {"name": "Torneos_de_golf", "id": 548195}], "successors": []}
+{"name": "Jugadores_de_Europa_de_la_Ryder_Cup", "id": 542610, "predecessors": [{"name": "Ryder_Cup", "id": 539559}, {"name": "Golf", "id": 118930}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Zvětrávání", "id": 252524, "predecessors": [{"name": "Geochemie", "id": 176983}, {"name": "Geofyzika", "id": 9655}, {"name": "Horniny", "id": 13289}], "successors": []}
+{"name": "Zvětrávání", "id": 252524, "predecessors": [{"name": "Geochemie", "id": 176983}, {"name": "Geofyzika", "id": 9655}, {"name": "Horniny", "id": 13289}], "successors": [{"name": "Eroze", "id": 1439802}]}

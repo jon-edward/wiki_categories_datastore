@@ -1,1 +1,1 @@
-{"name": "Puentes_de_Venecia", "id": 868174, "predecessors": [{"name": "Edificios_y_estructuras_de_Venecia", "id": 6832121}, {"name": "Urbanismo_de_Venecia", "id": 5823854}, {"name": "Monumentos_de_Italia", "id": 246512}, {"name": "Infraestructuras_de_transporte", "id": 318244}], "successors": []}
+{"name": "Puentes_de_Venecia", "id": 868174, "predecessors": [{"name": "Edificios_y_estructuras_de_Venecia", "id": 6832121}, {"name": "Urbanismo_de_Venecia", "id": 5823854}, {"name": "Monumentos_de_Italia", "id": 246512}, {"name": "Puentes", "id": 162530}], "successors": []}

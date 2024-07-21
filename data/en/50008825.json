@@ -1,1 +1,1 @@
-{"name": "Deafblindness", "id": 50008825, "predecessors": [{"name": "Blindness", "id": 2173860}, {"name": "Deafness", "id": 8326083}], "successors": []}
+{"name": "Deafblindness", "id": 50008825, "predecessors": [{"name": "Blindness", "id": 2173860}, {"name": "Deafness", "id": 8326083}], "successors": [{"name": "Deafblind_people", "id": 3643544}]}

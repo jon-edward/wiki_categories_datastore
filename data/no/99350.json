@@ -1,1 +1,1 @@
-{"name": "Kokebøker", "id": 99350, "predecessors": [{"name": "Matlaging", "id": 92072}, {"name": "Bøker", "id": 15249}], "successors": []}
+{"name": "Kokebøker", "id": 99350, "predecessors": [{"name": "Matlaging", "id": 92072}, {"name": "Bøker", "id": 15249}], "successors": [{"name": "Kokebokforfattere_fra_USA", "id": 2201793}, {"name": "Britiske_kokebokforfattere", "id": 2201795}, {"name": "Norske_kokebokforfattere", "id": 2201815}, {"name": "Svenske_kokebokforfattere", "id": 2201816}, {"name": "Danske_kokebokforfattere", "id": 2201978}]}

@@ -1,1 +1,1 @@
-{"name": "Software_Googlu", "id": 1554510, "predecessors": [{"name": "Google", "id": 35468}, {"name": "Software", "id": 4486}], "successors": []}
+{"name": "Software_Googlu", "id": 1554510, "predecessors": [{"name": "Google", "id": 35468}, {"name": "Software", "id": 4486}], "successors": [{"name": "Google_Chrome", "id": 1554508}]}

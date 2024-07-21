@@ -1,1 +1,1 @@
-{"name": "Monastero", "id": 521640, "predecessors": [{"name": "Eksterdistriktaj_urboj_de_Nordrejn-Vestfalio", "id": 194405}, {"name": "Monastera_Lando", "id": 244333}, {"name": "Vestfalio", "id": 244338}], "successors": []}
+{"name": "Monastero", "id": 521640, "predecessors": [{"name": "Eksterdistriktaj_urboj_de_Nordrejn-Vestfalio", "id": 194405}, {"name": "Monastera_Lando", "id": 244333}, {"name": "Vestfalio", "id": 244338}], "successors": [{"name": "Episkopoj_de_Monastero", "id": 569221}, {"name": "Princepiskoplando_Monastero", "id": 570143}]}

@@ -1,1 +1,1 @@
-{"name": "Cerebellum", "id": 749785, "predecessors": [{"name": "Animal_anatomy", "id": 3120301}], "successors": [{"name": "Syndromes_affecting_the_cerebellum", "id": 53619105}]}
+{"name": "Cerebellum", "id": 749785, "predecessors": [{"name": "Brain", "id": 5239453}], "successors": [{"name": "Syndromes_affecting_the_cerebellum", "id": 53619105}, {"name": "Cerebellar_connections", "id": 53691953}]}

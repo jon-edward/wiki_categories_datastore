@@ -1,1 +1,1 @@
-{"name": "Photometry", "id": 3135540, "predecessors": [{"name": "Lighting", "id": 927824}], "successors": [{"name": "Color", "id": 979606}]}
+{"name": "Photometry", "id": 3135540, "predecessors": [{"name": "Lighting", "id": 927824}, {"name": "Psychophysics", "id": 16888641}], "successors": [{"name": "Color", "id": 979606}]}

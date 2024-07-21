@@ -1,1 +1,1 @@
-{"name": "Kart_circuits", "id": 33890095, "predecessors": [{"name": "Kart_racing", "id": 36467104}, {"name": "Racing", "id": 43030261}], "successors": []}
+{"name": "Kart_circuits", "id": 33890095, "predecessors": [{"name": "Racing", "id": 43030261}], "successors": []}

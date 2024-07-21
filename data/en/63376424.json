@@ -1,1 +1,1 @@
-{"name": "British_steam_engine_engineers", "id": 63376424, "predecessors": [{"name": "British_mechanical_engineers", "id": 26482694}], "successors": [{"name": "James_Watt", "id": 46876930}, {"name": "George_Stephenson", "id": 47414200}]}
+{"name": "British_steam_engine_engineers", "id": 63376424, "predecessors": [{"name": "British_mechanical_engineers", "id": 26482694}, {"name": "Mechanical_engineers", "id": 1048835}], "successors": [{"name": "James_Watt", "id": 46876930}, {"name": "George_Stephenson", "id": 47414200}]}

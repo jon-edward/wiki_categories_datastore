@@ -1,1 +1,1 @@
-{"name": "Tévéfilmek", "id": 873759, "predecessors": [{"name": "Média", "id": 31049}, {"name": "Televízióműsorok", "id": 205029}], "successors": [{"name": "Magyar_televíziós_filmek", "id": 883519}, {"name": "Amerikai_televíziós_filmek", "id": 1459410}]}
+{"name": "Tévéfilmek", "id": 873759, "predecessors": [{"name": "Film", "id": 195249}, {"name": "Televízióműsorok", "id": 205029}], "successors": [{"name": "Magyar_televíziós_filmek", "id": 883519}, {"name": "Amerikai_televíziós_filmek", "id": 1459410}]}

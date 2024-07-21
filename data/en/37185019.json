@@ -1,1 +1,1 @@
-{"name": "Disability_studies", "id": 37185019, "predecessors": [{"name": "Disability", "id": 932302}], "successors": [{"name": "Disability_studies_academics", "id": 37185053}, {"name": "Special_education_journals", "id": 45505920}]}
+{"name": "Disability_studies", "id": 37185019, "predecessors": [{"name": "Cultural_studies", "id": 1826208}, {"name": "Disability", "id": 932302}, {"name": "Humanities", "id": 1004110}], "successors": [{"name": "Disability_studies_academics", "id": 37185053}, {"name": "Special_education_journals", "id": 45505920}]}

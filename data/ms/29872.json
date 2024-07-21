@@ -1,1 +1,1 @@
-{"name": "Solat", "id": 29872, "predecessors": [{"name": "Ibadah", "id": 134320}, {"name": "Rukun_Islam", "id": 132753}, {"name": "Komunikasi_manusia", "id": 82087}], "successors": [{"name": "Solat_sunat", "id": 29873}, {"name": "Solat_fardu", "id": 29874}]}
+{"name": "Solat", "id": 29872, "predecessors": [{"name": "Ibadah", "id": 134320}, {"name": "Rukun_Islam", "id": 132753}, {"name": "Komunikasi_manusia", "id": 82087}, {"name": "Fiqah", "id": 134385}], "successors": [{"name": "Solat_sunat", "id": 29873}, {"name": "Solat_fardu", "id": 29874}]}

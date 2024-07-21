@@ -1,1 +1,1 @@
-{"name": "Hospital", "id": 32060, "predecessors": [{"name": "Bangunan_dan_struktur", "id": 23818}, {"name": "Perubatan", "id": 8047}], "successors": [{"name": "Hospital_di_Brunei", "id": 907358}]}
+{"name": "Hospital", "id": 32060, "predecessors": [{"name": "Bangunan_dan_struktur", "id": 23818}, {"name": "Penjagaan_kesihatan", "id": 81759}], "successors": [{"name": "Hospital_di_Brunei", "id": 907358}]}

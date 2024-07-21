@@ -1,1 +1,1 @@
-{"name": "Curve_fitting", "id": 70545313, "predecessors": [{"name": "Geodesy", "id": 862535}, {"name": "Regression_analysis", "id": 6534587}], "successors": [{"name": "Regression_analysis", "id": 6534587}]}
+{"name": "Curve_fitting", "id": 70545313, "predecessors": [{"name": "Geodesy", "id": 862535}, {"name": "Geometric_algorithms", "id": 702582}, {"name": "Regression_analysis", "id": 6534587}], "successors": [{"name": "Regression_analysis", "id": 6534587}]}

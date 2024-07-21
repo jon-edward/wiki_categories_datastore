@@ -1,1 +1,1 @@
-{"name": "Sailboats", "id": 905963, "predecessors": [{"name": "Sailing", "id": 894884}, {"name": "Watercraft", "id": 21055199}], "successors": [{"name": "Sailboat_types", "id": 1618454}, {"name": "Individual_sailing_vessels", "id": 26618903}, {"name": "Sailboat_components", "id": 33980221}]}
+{"name": "Sailboats", "id": 905963, "predecessors": [{"name": "Propulsion", "id": 881055}], "successors": [{"name": "Individual_sailing_vessels", "id": 26618903}]}

@@ -1,1 +1,1 @@
-{"name": "Animal_disease_control", "id": 37649022, "predecessors": [{"name": "Animal_diseases", "id": 2992388}, {"name": "Infectious_diseases", "id": 707355}], "successors": []}
+{"name": "Animal_disease_control", "id": 37649022, "predecessors": [{"name": "Animal_diseases", "id": 2992388}, {"name": "Animals_and_humans", "id": 52196069}, {"name": "Infectious_diseases", "id": 707355}], "successors": []}

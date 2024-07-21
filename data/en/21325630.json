@@ -1,1 +1,1 @@
-{"name": "Canid_hybrids", "id": 21325630, "predecessors": [{"name": "Mammal_hybrids", "id": 4248561}, {"name": "Carnivorans", "id": 24597400}], "successors": []}
+{"name": "Canid_hybrids", "id": 21325630, "predecessors": [{"name": "Dog_breeding", "id": 1765233}, {"name": "Mammal_hybrids", "id": 4248561}, {"name": "Carnivorans", "id": 24597400}], "successors": []}

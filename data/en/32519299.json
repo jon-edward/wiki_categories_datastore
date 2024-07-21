@@ -1,1 +1,1 @@
-{"name": "Obstetric_drugs", "id": 32519299, "predecessors": [{"name": "Obstetrics", "id": 751173}], "successors": []}
+{"name": "Obstetric_drugs", "id": 32519299, "predecessors": [{"name": "Obstetrics", "id": 751173}], "successors": [{"name": "Tocolytics", "id": 1307570}, {"name": "Uterotonics", "id": 74504680}]}

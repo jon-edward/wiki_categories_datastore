@@ -1,1 +1,1 @@
-{"name": "Asian_history_journals", "id": 20512770, "predecessors": [{"name": "Asian_studies_journals", "id": 41875957}], "successors": [{"name": "Ancient_Near_East_journals", "id": 17597843}]}
+{"name": "Asian_history_journals", "id": 20512770, "predecessors": [{"name": "Asian_studies_journals", "id": 41875957}, {"name": "History_journals", "id": 3055139}, {"name": "Historiography", "id": 895940}], "successors": [{"name": "Ancient_Near_East_journals", "id": 17597843}]}

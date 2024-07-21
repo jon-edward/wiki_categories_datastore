@@ -1,1 +1,1 @@
-{"name": "Microblogging_services", "id": 66330514, "predecessors": [{"name": "Microblogging", "id": 31910236}, {"name": "Social_networking_services", "id": 31267698}], "successors": [{"name": "Twitter", "id": 13467477}, {"name": "Tumblr", "id": 55206677}, {"name": "Defunct_microblogging_services", "id": 66330582}]}
+{"name": "Microblogging_services", "id": 66330514, "predecessors": [{"name": "Microblogging", "id": 31910236}, {"name": "Social_networking_services", "id": 31267698}], "successors": [{"name": "Twitter", "id": 13467477}, {"name": "Tumblr", "id": 55206677}]}

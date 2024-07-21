@@ -1,1 +1,1 @@
-{"name": "Salto_de_altura", "id": 8357856, "predecessors": [{"name": "Pruebas_atléticas", "id": 505890}], "successors": [{"name": "Saltadores_de_altura", "id": 1726080}]}
+{"name": "Salto_de_altura", "id": 8357856, "predecessors": [{"name": "Deportes_de_saltos", "id": 8357866}], "successors": [{"name": "Saltadores_de_altura", "id": 1726080}]}

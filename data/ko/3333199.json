@@ -1,1 +1,1 @@
-{"name": "광고_차단_소프트웨어", "id": 3333199, "predecessors": [{"name": "광고", "id": 147711}], "successors": []}
+{"name": "광고_차단_소프트웨어", "id": 3333199, "predecessors": [{"name": "광고", "id": 147711}, {"name": "유형별_소프트웨어", "id": 2836502}], "successors": []}

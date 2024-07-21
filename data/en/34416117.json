@@ -1,1 +1,1 @@
-{"name": "Plant_conservation", "id": 34416117, "predecessors": [{"name": "Nature_conservation", "id": 737124}], "successors": []}
+{"name": "Plant_conservation", "id": 34416117, "predecessors": [{"name": "Nature_conservation", "id": 737124}, {"name": "Plant_ecology", "id": 48515191}], "successors": []}

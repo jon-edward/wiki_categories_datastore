@@ -1,1 +1,1 @@
-{"name": "Endemische_Amphibie_Brasiliens", "id": 12483585, "predecessors": [{"name": "Endemisches_Tier_Brasiliens", "id": 12483020}, {"name": "Herpetologie", "id": 1061479}], "successors": []}
+{"name": "Endemische_Amphibie_Brasiliens", "id": 12483585, "predecessors": [{"name": "Herpetologie", "id": 1061479}, {"name": "Endemisches_Tier", "id": 10199291}], "successors": []}

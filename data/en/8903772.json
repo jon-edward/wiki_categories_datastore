@@ -1,1 +1,1 @@
-{"name": "Bird_health", "id": 8903772, "predecessors": [{"name": "Health", "id": 751381}], "successors": [{"name": "Bird_diseases", "id": 1223536}, {"name": "Bird_anatomy", "id": 7998057}]}
+{"name": "Bird_health", "id": 8903772, "predecessors": [{"name": "Aviculture", "id": 1097161}, {"name": "Animal_welfare", "id": 991706}], "successors": [{"name": "Bird_diseases", "id": 1223536}, {"name": "Bird_anatomy", "id": 7998057}]}

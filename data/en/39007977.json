@@ -1,1 +1,1 @@
-{"name": "Aviatik_aircraft", "id": 39007977, "predecessors": [{"name": "Science_and_technology_in_Austria", "id": 2935641}, {"name": "Aviation_in_Germany", "id": 4678252}], "successors": []}
+{"name": "Aviatik_aircraft", "id": 39007977, "predecessors": [{"name": "Aircraft", "id": 694926}, {"name": "Vehicles", "id": 694929}], "successors": []}

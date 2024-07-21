@@ -1,1 +1,1 @@
-{"name": "ARM_기반_시스템_온_칩", "id": 3781845, "predecessors": [{"name": "시스템_온_칩", "id": 1798564}], "successors": [{"name": "애플_실리콘", "id": 2873286}]}
+{"name": "ARM_기반_시스템_온_칩", "id": 3781845, "predecessors": [{"name": "ARM_아키텍처", "id": 790137}, {"name": "시스템_온_칩", "id": 1798564}], "successors": []}

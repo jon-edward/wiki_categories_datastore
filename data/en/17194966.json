@@ -1,1 +1,1 @@
-{"name": "Interurban_railways", "id": 17194966, "predecessors": [{"name": "Passenger_rail_transport", "id": 5356605}], "successors": [{"name": "Interurban_railways_in_Ontario", "id": 30705090}]}
+{"name": "Interurban_railways", "id": 17194966, "predecessors": [{"name": "Passenger_rail_transport", "id": 5356605}, {"name": "Transport", "id": 5523119}], "successors": [{"name": "United_States_interurban_templates", "id": 77122298}, {"name": "Interurban_railways_in_Ontario", "id": 30705090}]}

@@ -1,0 +1,1 @@
+{"name": "Test_equipment", "id": 33549894, "predecessors": [{"name": "Equipment", "id": 3228046}, {"name": "Tests", "id": 7058186}, {"name": "Tools", "id": 846098}], "successors": [{"name": "Electronic_test_equipment", "id": 1543435}, {"name": "Wind_tunnels", "id": 16907601}, {"name": "Electrical_test_equipment", "id": 33549896}]}

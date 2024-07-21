@@ -1,1 +1,1 @@
-{"name": "Propiedades_mecánicas_de_los_materiales", "id": 4132872, "predecessors": [{"name": "Propiedades_de_los_materiales", "id": 1205209}, {"name": "Resistencia_de_materiales", "id": 715637}], "successors": [{"name": "Elasticidad_(mecánica_de_sólidos)", "id": 5699656}]}
+{"name": "Propiedades_mecánicas_de_los_materiales", "id": 4132872, "predecessors": [{"name": "Resistencia_de_materiales", "id": 715637}], "successors": [{"name": "Plasticidad_(mecánica_de_sólidos)", "id": 5699643}, {"name": "Elasticidad_(mecánica_de_sólidos)", "id": 5699656}]}

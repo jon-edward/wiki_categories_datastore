@@ -1,1 +1,1 @@
-{"name": "Standard_Unix_programs", "id": 6896031, "predecessors": [{"name": "Unix_software", "id": 2423579}], "successors": [{"name": "Unix_SUS2008_utilities", "id": 25605058}]}
+{"name": "Standard_Unix_programs", "id": 6896031, "predecessors": [{"name": "Unix_software", "id": 2423579}, {"name": "Technology", "id": 696648}], "successors": [{"name": "Unix_SUS2008_utilities", "id": 25605058}]}

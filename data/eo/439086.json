@@ -1,1 +1,1 @@
-{"name": "Neorganikaj_karbonaj_kombinaĵoj", "id": 439086, "predecessors": [{"name": "Kemiaj_kombinaĵoj", "id": 49212}, {"name": "Karbono", "id": 368334}], "successors": [{"name": "Cianidoj", "id": 363886}, {"name": "Karbondioksido", "id": 389989}]}
+{"name": "Neorganikaj_karbonaj_kombinaĵoj", "id": 439086, "predecessors": [{"name": "Neorganikaj_kombinaĵoj", "id": 292848}, {"name": "Karbono", "id": 368334}], "successors": [{"name": "Cianidoj", "id": 363886}, {"name": "Karbondioksido", "id": 389989}]}

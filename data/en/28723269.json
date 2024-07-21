@@ -1,1 +1,1 @@
-{"name": "Renewable_energy_certification", "id": 28723269, "predecessors": [{"name": "Ecolabelling", "id": 19868877}, {"name": "Product_certification", "id": 3692977}], "successors": []}
+{"name": "Renewable_energy_certification", "id": 28723269, "predecessors": [{"name": "Ecolabelling", "id": 19868877}, {"name": "Product_certification", "id": 3692977}, {"name": "Renewable_energy", "id": 906645}], "successors": []}

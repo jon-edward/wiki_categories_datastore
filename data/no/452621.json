@@ -1,1 +1,1 @@
-{"name": "Snutebiller", "id": 452621, "predecessors": [{"name": "Biller", "id": 85908}], "successors": [{"name": "Barkbiller", "id": 2060120}]}
+{"name": "Snutebiller", "id": 452621, "predecessors": [{"name": "Biller", "id": 85908}], "successors": [{"name": "Barkbiller", "id": 2060120}, {"name": "Soppsnutebiller", "id": 2203105}, {"name": "Bladrullere", "id": 2203141}, {"name": "Sylinderborere", "id": 2203146}]}

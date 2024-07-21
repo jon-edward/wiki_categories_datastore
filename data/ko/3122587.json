@@ -1,1 +1,1 @@
-{"name": "뉴욕_지하철의_철도_차량", "id": 3122587, "predecessors": [{"name": "미국의_교통", "id": 74622}], "successors": []}
+{"name": "뉴욕_지하철의_철도_차량", "id": 3122587, "predecessors": [{"name": "뉴욕의_철도", "id": 818500}, {"name": "미국의_교통", "id": 74622}], "successors": []}

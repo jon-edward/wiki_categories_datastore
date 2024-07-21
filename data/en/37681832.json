@@ -1,1 +1,1 @@
-{"name": "Lingerie_retailers", "id": 37681832, "predecessors": [{"name": "Lingerie", "id": 10450826}, {"name": "Retailers_by_type_of_merchandise_sold", "id": 55586528}], "successors": [{"name": "Victoria's_Secret", "id": 21865090}]}
+{"name": "Lingerie_retailers", "id": 37681832, "predecessors": [{"name": "Lingerie", "id": 10450826}, {"name": "Taxonomy", "id": 918375}], "successors": [{"name": "Victoria's_Secret", "id": 21865090}]}

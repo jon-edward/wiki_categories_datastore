@@ -1,1 +1,1 @@
-{"name": "Empirical_laws", "id": 2269809, "predecessors": [{"name": "Empiricism", "id": 3142995}], "successors": [{"name": "Gas_laws", "id": 3022865}, {"name": "Physical_constants", "id": 3233578}]}
+{"name": "Empirical_laws", "id": 2269809, "predecessors": [{"name": "Empiricism", "id": 3142995}, {"name": "Metaphysics_of_science", "id": 34379731}, {"name": "Scientific_laws", "id": 37547424}], "successors": [{"name": "Laws_of_thermodynamics", "id": 3022427}, {"name": "Gas_laws", "id": 3022865}, {"name": "Physical_constants", "id": 3233578}]}

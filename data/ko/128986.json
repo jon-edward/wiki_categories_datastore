@@ -1,1 +1,1 @@
-{"name": "자동차_전시회", "id": 128986, "predecessors": [{"name": "전시회", "id": 382979}], "successors": []}
+{"name": "자동차_전시회", "id": 128986, "predecessors": [{"name": "전시회", "id": 382979}, {"name": "도로_교통", "id": 40989}], "successors": []}

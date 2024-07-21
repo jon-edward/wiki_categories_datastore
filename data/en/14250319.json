@@ -1,1 +1,1 @@
-{"name": "Human_mitochondrial_genes", "id": 14250319, "predecessors": [{"name": "Human_genetics", "id": 14002166}], "successors": []}
+{"name": "Human_mitochondrial_genes", "id": 14250319, "predecessors": [{"name": "Human_genes", "id": 40119492}, {"name": "Human_genetics", "id": 14002166}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Dog_actors", "id": 56656356, "predecessors": [{"name": "Animal_actors", "id": 8739804}, {"name": "Dogs_in_popular_culture", "id": 2460099}, {"name": "Individual_dogs", "id": 31823444}], "successors": [{"name": "Rin_Tin_Tin", "id": 62728067}]}
+{"name": "Dog_actors", "id": 56656356, "predecessors": [{"name": "Animal_actors", "id": 8739804}, {"name": "Dog_training_and_behavior", "id": 970360}, {"name": "Dogs_in_popular_culture", "id": 2460099}, {"name": "Working_dogs", "id": 970319}], "successors": [{"name": "Rin_Tin_Tin", "id": 62728067}]}

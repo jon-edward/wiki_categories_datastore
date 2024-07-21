@@ -1,1 +1,1 @@
-{"name": "Wapenfabrikant", "id": 82394, "predecessors": [{"name": "Bedrijf", "id": 67321}, {"name": "Industrieel_proces", "id": 2132598}, {"name": "Industrie", "id": 103115}], "successors": []}
+{"name": "Wapenfabrikant", "id": 82394, "predecessors": [{"name": "Bedrijf", "id": 67321}, {"name": "Industrieel_proces", "id": 2132598}, {"name": "Industrie", "id": 103115}], "successors": [{"name": "Daewoo", "id": 2202976}]}

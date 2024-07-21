@@ -1,1 +1,1 @@
-{"name": "Milita_juro", "id": 594666, "predecessors": [{"name": "Milito", "id": 132739}, {"name": "Paco", "id": 315913}, {"name": "Juro", "id": 37824}], "successors": [{"name": "Leĝoj_de_milito", "id": 634221}, {"name": "Ĝendarmoj", "id": 637532}]}
+{"name": "Milita_juro", "id": 594666, "predecessors": [{"name": "Milito", "id": 132739}, {"name": "Paco", "id": 315913}, {"name": "Juro", "id": 37824}], "successors": [{"name": "Ĝihado", "id": 594664}, {"name": "Leĝoj_de_milito", "id": 634221}, {"name": "Ĝendarmoj", "id": 637532}]}

@@ -1,1 +1,1 @@
-{"name": "Mars_2020", "id": 43448042, "predecessors": [{"name": "Astrobiology_space_missions", "id": 56274774}, {"name": "Mars_Exploration_Program", "id": 64760778}, {"name": "Missions_to_Mars", "id": 34160413}, {"name": "NASA_space_probes", "id": 36702674}], "successors": []}
+{"name": "Mars_2020", "id": 43448042, "predecessors": [{"name": "NASA_space_probes", "id": 36702674}, {"name": "2021", "id": 23416494}], "successors": []}

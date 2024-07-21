@@ -1,1 +1,1 @@
-{"name": "Business_chat_software", "id": 45341893, "predecessors": [{"name": "Business_software", "id": 1744470}, {"name": "Instant_messaging", "id": 755046}, {"name": "Online_chat", "id": 34419890}, {"name": "Social_software", "id": 30242083}], "successors": []}
+{"name": "Business_chat_software", "id": 45341893, "predecessors": [{"name": "Business_software", "id": 1744470}, {"name": "Instant_messaging", "id": 755046}, {"name": "Social_software", "id": 30242083}], "successors": []}

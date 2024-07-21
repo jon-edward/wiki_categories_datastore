@@ -1,1 +1,1 @@
-{"name": "Isopropylamino_compounds", "id": 73200621, "predecessors": [{"name": "Amines", "id": 725878}, {"name": "Isopropyl_compounds", "id": 56312076}], "successors": [{"name": "N-isopropyl-phenoxypropanolamines", "id": 60947525}, {"name": "Diisopropylamino_compounds", "id": 61400169}]}
+{"name": "Isopropylamino_compounds", "id": 73200621, "predecessors": [{"name": "Amines", "id": 725878}], "successors": [{"name": "N-isopropyl-phenoxypropanolamines", "id": 60947525}, {"name": "Diisopropylamino_compounds", "id": 61400169}]}

@@ -1,1 +1,1 @@
-{"name": "Bill_Gates", "id": 2584238, "predecessors": [{"name": "Microsoft", "id": 174100}, {"name": "Empresarios", "id": 68254}, {"name": "Estadounidenses", "id": 173348}], "successors": [{"name": "Microsoft", "id": 174100}]}
+{"name": "Bill_Gates", "id": 2584238, "predecessors": [{"name": "Microsoft", "id": 174100}, {"name": "Empresarios", "id": 68254}, {"name": "Nacionalidad", "id": 1699794}], "successors": [{"name": "Microsoft", "id": 174100}]}

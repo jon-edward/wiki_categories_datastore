@@ -1,1 +1,1 @@
-{"name": "환경_기술", "id": 704383, "predecessors": [{"name": "유형별_기술", "id": 509632}, {"name": "환경", "id": 12071}], "successors": [{"name": "지속_가능한_기술", "id": 704382}]}
+{"name": "환경_기술", "id": 704383, "predecessors": [{"name": "유형별_기술", "id": 509632}], "successors": [{"name": "지속_가능한_기술", "id": 704382}]}

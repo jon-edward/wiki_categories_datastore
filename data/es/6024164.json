@@ -1,1 +1,1 @@
-{"name": "Software_del_Proyecto_GNU", "id": 6024164, "predecessors": [{"name": "Proyecto_GNU", "id": 6024188}, {"name": "Software_para_Unix", "id": 1115786}], "successors": [{"name": "GNOME", "id": 59780}]}
+{"name": "Software_del_Proyecto_GNU", "id": 6024164, "predecessors": [{"name": "Proyecto_GNU", "id": 6024188}], "successors": [{"name": "GNOME", "id": 59780}]}

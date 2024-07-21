@@ -1,1 +1,1 @@
-{"name": "Anglican_priest_converts_to_Roman_Catholicism", "id": 47471003, "predecessors": [{"name": "Converts_to_Roman_Catholicism_from_Anglicanism", "id": 25798841}, {"name": "Protestantism", "id": 744844}], "successors": [{"name": "Anglican_bishop_converts_to_Roman_Catholicism", "id": 30276714}]}
+{"name": "Anglican_priest_converts_to_Roman_Catholicism", "id": 47471003, "predecessors": [{"name": "Clergy", "id": 3209176}], "successors": [{"name": "Anglican_bishop_converts_to_Roman_Catholicism", "id": 30276714}]}

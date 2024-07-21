@@ -1,1 +1,1 @@
-{"name": "C_(programming_language)_libraries", "id": 885113, "predecessors": [{"name": "Computer_libraries", "id": 7482978}], "successors": [{"name": "GTK", "id": 26540470}, {"name": "C_POSIX_library", "id": 33699730}, {"name": "C_standard_library", "id": 35016715}]}
+{"name": "C_(programming_language)_libraries", "id": 885113, "predecessors": [{"name": "C_(programming_language)", "id": 44667776}, {"name": "Computer_libraries", "id": 7482978}], "successors": [{"name": "C_POSIX_library", "id": 33699730}, {"name": "C_standard_library", "id": 35016715}]}

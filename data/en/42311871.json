@@ -1,1 +1,1 @@
-{"name": "Natural_gas_storage", "id": 42311871, "predecessors": [{"name": "Energy_storage", "id": 1847555}, {"name": "Natural_gas_technology", "id": 20598699}, {"name": "Natural_gas", "id": 930957}], "successors": []}
+{"name": "Natural_gas_storage", "id": 42311871, "predecessors": [{"name": "Energy_storage", "id": 1847555}, {"name": "Natural_gas_technology", "id": 20598699}], "successors": []}

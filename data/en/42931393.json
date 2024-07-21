@@ -1,1 +1,1 @@
-{"name": "Direct_Rendering_Infrastructure", "id": 42931393, "predecessors": [{"name": "Free_graphics_software", "id": 4345597}, {"name": "Graphics_libraries", "id": 7439909}, {"name": "Interfaces_of_the_Linux_kernel", "id": 42505248}, {"name": "Linux_kernel_features", "id": 13215220}], "successors": []}
+{"name": "Direct_Rendering_Infrastructure", "id": 42931393, "predecessors": [{"name": "Free_graphics_software", "id": 4345597}, {"name": "Interfaces_of_the_Linux_kernel", "id": 42505248}, {"name": "Linux_kernel_features", "id": 13215220}], "successors": []}

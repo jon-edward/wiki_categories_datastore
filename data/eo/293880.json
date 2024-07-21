@@ -1,1 +1,1 @@
-{"name": "Juĝaj_proceduroj", "id": 293880, "predecessors": [{"name": "Juro", "id": 37824}], "successors": [{"name": "Juĝaj_kazoj", "id": 293877}, {"name": "Jurmedicino", "id": 545405}]}
+{"name": "Juĝaj_proceduroj", "id": 293880, "predecessors": [{"name": "Juro", "id": 37824}], "successors": [{"name": "Juĝaj_kazoj", "id": 293877}, {"name": "Jurmedicino", "id": 545405}, {"name": "Diplomata_imuneco", "id": 624907}]}

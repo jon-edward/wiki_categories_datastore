@@ -1,1 +1,1 @@
-{"name": "Austrian_Federal_Railways", "id": 40762829, "predecessors": [{"name": "Transport_in_Austria", "id": 4727390}, {"name": "Rail_transport", "id": 700920}], "successors": [{"name": "Austrian_Federal_Railways_steam_locomotives", "id": 40762238}, {"name": "Austrian_Federal_Railways_electric_locomotives", "id": 40762248}]}
+{"name": "Austrian_Federal_Railways", "id": 40762829, "predecessors": [{"name": "Rail_transport", "id": 700920}], "successors": [{"name": "Austrian_Federal_Railways_steam_locomotives", "id": 40762238}]}

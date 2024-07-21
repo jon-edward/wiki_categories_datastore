@@ -1,1 +1,1 @@
-{"name": "Razas_de_conejo", "id": 10555005, "predecessors": [{"name": "Animales_de_compañía", "id": 609922}, {"name": "Crianza", "id": 9020709}], "successors": []}
+{"name": "Razas_de_conejo", "id": 10555005, "predecessors": [{"name": "Ganado", "id": 8515899}, {"name": "Crianza", "id": 9020709}], "successors": []}

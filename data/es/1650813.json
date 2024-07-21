@@ -1,1 +1,1 @@
-{"name": "Empresas_de_juegos_de_azar", "id": 1650813, "predecessors": [{"name": "Juegos_de_azar", "id": 94255}, {"name": "Industria_del_entretenimiento", "id": 789328}], "successors": [{"name": "Empresas_de_juegos_de_azar_de_Estados_Unidos", "id": 1624971}]}
+{"name": "Empresas_de_juegos_de_azar", "id": 1650813, "predecessors": [{"name": "Empresas_de_entretenimiento", "id": 3118050}, {"name": "Juegos_de_azar", "id": 94255}], "successors": [{"name": "Empresas_de_juegos_de_azar_de_Estados_Unidos", "id": 1624971}]}

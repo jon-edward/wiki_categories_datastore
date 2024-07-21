@@ -1,1 +1,1 @@
-{"name": "Toyota_engines", "id": 1057212, "predecessors": [{"name": "Automobile_engines", "id": 773958}, {"name": "Toyota", "id": 904150}], "successors": [{"name": "Daihatsu_engines", "id": 32320890}]}
+{"name": "Toyota_engines", "id": 1057212, "predecessors": [{"name": "Toyota", "id": 904150}], "successors": [{"name": "Daihatsu_engines", "id": 32320890}]}

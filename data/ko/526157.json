@@ -1,1 +1,1 @@
-{"name": "바다_장치", "id": 526157, "predecessors": [{"name": "운영체제", "id": 42780}], "successors": []}
+{"name": "바다_장치", "id": 526157, "predecessors": [{"name": "모바일_운영체제", "id": 696186}, {"name": "운영체제", "id": 42780}], "successors": []}

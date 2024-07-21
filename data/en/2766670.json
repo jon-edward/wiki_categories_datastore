@@ -1,1 +1,1 @@
-{"name": "Windows_code_pages", "id": 2766670, "predecessors": [{"name": "Character_sets", "id": 727087}], "successors": []}
+{"name": "Windows_code_pages", "id": 2766670, "predecessors": [{"name": "Character_sets", "id": 727087}, {"name": "Windows_technology", "id": 43126260}], "successors": []}

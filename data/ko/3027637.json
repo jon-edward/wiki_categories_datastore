@@ -1,1 +1,1 @@
-{"name": "폭동진압_전술", "id": 3027637, "predecessors": [{"name": "군중", "id": 2912154}, {"name": "법집행_기법", "id": 1619216}], "successors": []}
+{"name": "폭동진압_전술", "id": 3027637, "predecessors": [{"name": "군중", "id": 2912154}, {"name": "법집행_기법", "id": 1619216}, {"name": "전술", "id": 551097}], "successors": []}

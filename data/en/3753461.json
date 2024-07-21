@@ -1,1 +1,1 @@
-{"name": "Japanese_judges", "id": 3753461, "predecessors": [{"name": "Judiciaries", "id": 4683914}], "successors": []}
+{"name": "Japanese_judges", "id": 3753461, "predecessors": [{"name": "Japanese_jurists", "id": 36646637}, {"name": "Law_of_Japan", "id": 716556}], "successors": [{"name": "Supreme_Court_of_Japan_justices", "id": 38472228}]}

@@ -1,1 +1,1 @@
-{"name": "Commodity_price_indices", "id": 26731655, "predecessors": [{"name": "Price_indices", "id": 18385089}], "successors": []}
+{"name": "Commodity_price_indices", "id": 26731655, "predecessors": [{"name": "Commodity_markets", "id": 42311854}, {"name": "Price_indices", "id": 18385089}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Bahan_lutsinar", "id": 321716, "predecessors": [{"name": "Bahan", "id": 58300}], "successors": []}
+{"name": "Bahan_lutsinar", "id": 321716, "predecessors": [{"name": "Bahan", "id": 58300}], "successors": [{"name": "Polimer", "id": 321701}, {"name": "Plastik", "id": 323752}]}

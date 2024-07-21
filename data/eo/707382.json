@@ -1,1 +1,1 @@
-{"name": "Fervojaj_stacioj_en_Ille-et-Vilaine", "id": 707382, "predecessors": [{"name": "Bretonio", "id": 139842}, {"name": "Departementoj_de_Francio", "id": 211094}], "successors": []}
+{"name": "Fervojaj_stacioj_en_Ille-et-Vilaine", "id": 707382, "predecessors": [{"name": "Fervojaj_stacioj_en_Bretonio", "id": 707391}, {"name": "Bretonio", "id": 139842}, {"name": "Departementoj_de_Francio", "id": 211094}], "successors": []}

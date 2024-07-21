@@ -1,1 +1,1 @@
-{"name": "Oksida", "id": 160131, "predecessors": [{"name": "Garam", "id": 160132}, {"name": "Kalkogen", "id": 160136}, {"name": "Oksigen", "id": 160135}], "successors": [{"name": "Karbon_dioksida", "id": 160125}, {"name": "Seskuioksida", "id": 970951}, {"name": "Oksokarbon", "id": 972107}]}
+{"name": "Oksida", "id": 160131, "predecessors": [{"name": "Garam", "id": 160132}, {"name": "Kalkogen", "id": 160136}, {"name": "Sebatian_kimia", "id": 30367}], "successors": [{"name": "Karbon_dioksida", "id": 160125}, {"name": "Oksokarbon", "id": 972107}]}

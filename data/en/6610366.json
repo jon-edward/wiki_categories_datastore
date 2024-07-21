@@ -1,1 +1,1 @@
-{"name": "Waste_collection_vehicles", "id": 6610366, "predecessors": [{"name": "Trucks", "id": 2803819}, {"name": "Waste_collection", "id": 6141845}], "successors": []}
+{"name": "Waste_collection_vehicles", "id": 6610366, "predecessors": [{"name": "Trucks", "id": 2803819}, {"name": "Vehicles_by_purpose", "id": 31806456}, {"name": "Waste_collection", "id": 6141845}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Amusement_parks_in_Italy", "id": 9872530, "predecessors": [{"name": "Tourism_in_Europe", "id": 16597140}, {"name": "History_of_Europe", "id": 1673222}], "successors": [{"name": "Roller_coasters_in_Italy", "id": 13100568}]}
+{"name": "Amusement_parks_in_Italy", "id": 9872530, "predecessors": [{"name": "Tourism_in_Italy", "id": 2637056}, {"name": "Tourism_in_Europe_by_country", "id": 59786114}], "successors": [{"name": "Roller_coasters_in_Italy", "id": 13100568}]}

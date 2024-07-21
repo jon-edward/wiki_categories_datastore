@@ -1,1 +1,1 @@
-{"name": "Concursos_de_belleza_de_Bolivia", "id": 7158893, "predecessors": [{"name": "Concursos_de_belleza", "id": 474563}, {"name": "Cultura_de_Bolivia", "id": 152197}, {"name": "Fiestas_de_Bolivia", "id": 2235561}], "successors": [{"name": "Miss_Bolivia", "id": 700460}]}
+{"name": "Concursos_de_belleza_de_Bolivia", "id": 7158893, "predecessors": [{"name": "Cultura_de_Bolivia", "id": 152197}, {"name": "Fiestas_de_Bolivia", "id": 2235561}, {"name": "Eventos", "id": 967311}], "successors": [{"name": "Miss_Bolivia", "id": 700460}]}

@@ -1,1 +1,1 @@
-{"name": "Cuentos_de_1941", "id": 5399870, "predecessors": [{"name": "Cuentos", "id": 115146}, {"name": "Libros_de_1941", "id": 541700}, {"name": "Cuentos_del_siglo_XX", "id": 5197426}], "successors": []}
+{"name": "Cuentos_de_1941", "id": 5399870, "predecessors": [{"name": "Cuentos", "id": 115146}, {"name": "Cuentos_del_siglo_XX", "id": 5197426}, {"name": "Arte", "id": 51311}], "successors": []}

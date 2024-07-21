@@ -1,1 +1,1 @@
-{"name": "Sains_planet", "id": 297657, "predecessors": [{"name": "Astronomi", "id": 9733}], "successors": [{"name": "Planet", "id": 39430}, {"name": "Bulan", "id": 166487}, {"name": "Jenis_planet", "id": 297656}, {"name": "Sistem_planet", "id": 298464}, {"name": "Eksoplanetologi", "id": 298477}]}
+{"name": "Sains_planet", "id": 297657, "predecessors": [{"name": "Astronomi", "id": 9733}], "successors": [{"name": "Planet", "id": 39430}, {"name": "Jenis_planet", "id": 297656}, {"name": "Eksoplanetologi", "id": 298477}]}

@@ -1,1 +1,1 @@
-{"name": "Filmgyártás", "id": 1153169, "predecessors": [{"name": "Média", "id": 31049}], "successors": [{"name": "Filmtechnika", "id": 719140}]}
+{"name": "Filmgyártás", "id": 1153169, "predecessors": [{"name": "Film", "id": 195249}], "successors": [{"name": "Filmtechnika", "id": 719140}]}

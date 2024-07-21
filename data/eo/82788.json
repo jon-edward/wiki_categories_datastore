@@ -1,1 +1,1 @@
-{"name": "Fraktaloj", "id": 82788, "predecessors": [{"name": "Analitiko", "id": 82502}, {"name": "Geometriaj_formoj", "id": 82815}, {"name": "Kaosa_teorio", "id": 82571}, {"name": "Fundamentaj_fizikaj_konceptoj", "id": 82799}], "successors": []}
+{"name": "Fraktaloj", "id": 82788, "predecessors": [{"name": "Analitiko", "id": 82502}, {"name": "Dimensio", "id": 82685}, {"name": "Geometriaj_formoj", "id": 82815}, {"name": "Kaosa_teorio", "id": 82571}], "successors": []}

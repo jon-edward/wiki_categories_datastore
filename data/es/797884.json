@@ -1,1 +1,1 @@
-{"name": "Bajistas_de_heavy_metal", "id": 797884, "predecessors": [{"name": "Músicos_de_heavy_metal", "id": 276905}], "successors": [{"name": "Bajistas_de_nu_metal", "id": 980434}]}
+{"name": "Bajistas_de_heavy_metal", "id": 797884, "predecessors": [{"name": "Bajistas", "id": 283681}, {"name": "Músicos_de_heavy_metal", "id": 276905}], "successors": [{"name": "Bajistas_de_nu_metal", "id": 980434}]}

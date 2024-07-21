@@ -1,1 +1,1 @@
-{"name": "People_convicted_of_culpable_homicide", "id": 43823802, "predecessors": [{"name": "Criminal_homicide", "id": 22256607}], "successors": [{"name": "People_convicted_of_manslaughter", "id": 20173108}]}
+{"name": "People_convicted_of_culpable_homicide", "id": 43823802, "predecessors": [{"name": "Crime_by_type", "id": 15090762}, {"name": "Criminal_homicide", "id": 22256607}], "successors": [{"name": "People_convicted_of_manslaughter", "id": 20173108}]}

@@ -1,1 +1,1 @@
-{"name": "Paradoksoj", "id": 83208, "predecessors": [{"name": "Logiko", "id": 38095}, {"name": "Problemoj", "id": 83405}], "successors": []}
+{"name": "Paradoksoj", "id": 83208, "predecessors": [{"name": "Logiko", "id": 38095}, {"name": "Problemoj", "id": 83405}], "successors": [{"name": "Fizikaj_paradoksoj", "id": 345801}]}

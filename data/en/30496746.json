@@ -1,1 +1,1 @@
-{"name": "Shrimp_dishes", "id": 30496746, "predecessors": [{"name": "Seafood_dishes", "id": 18237842}, {"name": "Animal-based_seafood", "id": 36325535}], "successors": []}
+{"name": "Shrimp_dishes", "id": 30496746, "predecessors": [{"name": "Meat_by_animal", "id": 51423933}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Hadis", "id": 134231, "predecessors": [{"name": "Islam", "id": 5444}, {"name": "Kitab", "id": 95189}, {"name": "Muhammad", "id": 825091}, {"name": "Sumber_pensyariatan_Islam", "id": 1057172}], "successors": [{"name": "Perawi_hadis", "id": 877653}]}
+{"name": "Hadis", "id": 134231, "predecessors": [{"name": "Kitab", "id": 95189}, {"name": "Muhammad", "id": 825091}, {"name": "Sumber_pensyariatan_Islam", "id": 1057172}, {"name": "Tradisi", "id": 84574}], "successors": [{"name": "Perawi_hadis", "id": 877653}]}

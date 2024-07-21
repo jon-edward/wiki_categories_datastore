@@ -1,1 +1,1 @@
-{"name": "Kejuruteraan_telekomunikasi", "id": 301625, "predecessors": [{"name": "Disiplin_kejuruteraan", "id": 58302}, {"name": "Telekomunikasi", "id": 16590}], "successors": [{"name": "Pemprosesan_isyarat", "id": 95779}, {"name": "Penghantaran_data", "id": 305399}]}
+{"name": "Kejuruteraan_telekomunikasi", "id": 301625, "predecessors": [{"name": "Telekomunikasi", "id": 16590}], "successors": [{"name": "Pemprosesan_isyarat", "id": 95779}, {"name": "Penghantaran_data", "id": 305399}]}

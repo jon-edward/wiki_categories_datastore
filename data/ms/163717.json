@@ -1,1 +1,1 @@
-{"name": "Seni_hias", "id": 163717, "predecessors": [{"name": "Estetik", "id": 82344}], "successors": [{"name": "Perhiasan", "id": 336613}, {"name": "Perabot", "id": 1040287}]}
+{"name": "Seni_hias", "id": 163717, "predecessors": [{"name": "Estetik", "id": 82344}], "successors": [{"name": "Perhiasan", "id": 336613}, {"name": "Seni_tekstil", "id": 916661}, {"name": "Perabot", "id": 1040287}]}

@@ -1,1 +1,1 @@
-{"name": "Children's_books_about_frogs", "id": 73822735, "predecessors": [{"name": "Children's_books_about_animals", "id": 73822669}], "successors": [{"name": "Animals_of_Farthing_Wood_books", "id": 11205721}]}
+{"name": "Children's_books_about_frogs", "id": 73822735, "predecessors": [{"name": "Books_about_frogs", "id": 66389030}, {"name": "Children's_books_about_animals", "id": 73822669}], "successors": [{"name": "Animals_of_Farthing_Wood_books", "id": 11205721}]}

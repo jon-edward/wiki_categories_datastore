@@ -1,1 +1,1 @@
-{"name": "Himnos_religiosos", "id": 3271594, "predecessors": [{"name": "Himnos", "id": 172216}, {"name": "Liturgia", "id": 312105}, {"name": "Arte", "id": 51311}], "successors": [{"name": "Himnos_cristianos", "id": 4954485}]}
+{"name": "Himnos_religiosos", "id": 3271594, "predecessors": [{"name": "Himnos", "id": 172216}, {"name": "Cantos", "id": 4575519}, {"name": "Música_y_religión", "id": 1108028}], "successors": [{"name": "Himnos_cristianos", "id": 4954485}]}

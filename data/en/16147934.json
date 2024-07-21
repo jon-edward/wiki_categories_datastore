@@ -1,1 +1,1 @@
-{"name": "Photogrammetry", "id": 16147934, "predecessors": [{"name": "Computer_vision", "id": 797088}, {"name": "Measurement", "id": 734262}], "successors": [{"name": "Aerial_photography", "id": 22127014}, {"name": "Photogrammetry_software", "id": 53985679}]}
+{"name": "Photogrammetry", "id": 16147934, "predecessors": [{"name": "Computer_vision", "id": 797088}, {"name": "Measurement", "id": 734262}, {"name": "Geographic_data_and_information", "id": 51208626}], "successors": [{"name": "Aerial_photography", "id": 22127014}, {"name": "Photogrammetry_software", "id": 53985679}]}

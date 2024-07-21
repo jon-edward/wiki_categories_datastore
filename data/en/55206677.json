@@ -1,1 +1,1 @@
-{"name": "Tumblr", "id": 55206677, "predecessors": [{"name": "American_social_networking_websites", "id": 62052427}, {"name": "Blog_hosting_services", "id": 3821219}, {"name": "Microblogging_services", "id": 66330514}, {"name": "Real-time_web", "id": 23686083}], "successors": []}
+{"name": "Tumblr", "id": 55206677, "predecessors": [{"name": "Automattic", "id": 50720538}, {"name": "Blog_hosting_services", "id": 3821219}, {"name": "Microblogging_services", "id": 66330514}, {"name": "Real-time_web", "id": 23686083}], "successors": []}

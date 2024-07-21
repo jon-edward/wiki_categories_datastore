@@ -1,1 +1,1 @@
-{"name": "Biosíntesis_de_proteínas", "id": 5136208, "predecessors": [{"name": "Biosíntesis", "id": 5136205}, {"name": "Metabolismo", "id": 214309}], "successors": [{"name": "Modificaciones_postraduccionales", "id": 7248236}]}
+{"name": "Biosíntesis_de_proteínas", "id": 5136208, "predecessors": [{"name": "Biología_molecular", "id": 567192}, {"name": "Biosíntesis", "id": 5136205}, {"name": "Expresión_génica", "id": 801670}, {"name": "Metabolismo", "id": 214309}], "successors": [{"name": "Modificaciones_postraduccionales", "id": 7248236}]}

@@ -1,1 +1,1 @@
-{"name": "Palaces_in_Bavaria", "id": 20428507, "predecessors": [{"name": "Tourist_attractions_in_Bavaria", "id": 31673891}, {"name": "Houses_in_Germany", "id": 6001304}], "successors": []}
+{"name": "Palaces_in_Bavaria", "id": 20428507, "predecessors": [{"name": "Tourist_attractions_in_Bavaria", "id": 31673891}, {"name": "Tourism_in_Germany", "id": 2645584}], "successors": [{"name": "Munich_Residenz", "id": 45409479}]}

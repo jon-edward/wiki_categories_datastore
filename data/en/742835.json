@@ -1,1 +1,1 @@
-{"name": "Hymns", "id": 742835, "predecessors": [{"name": "Religious_music", "id": 696379}], "successors": [{"name": "Christian_hymns", "id": 696372}, {"name": "Hymn_tunes", "id": 14607410}]}
+{"name": "Hymns", "id": 742835, "predecessors": [{"name": "Religious_music", "id": 696379}, {"name": "Literature_about_spirituality", "id": 34113438}], "successors": [{"name": "Hymn_tunes", "id": 14607410}]}

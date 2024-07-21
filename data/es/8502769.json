@@ -1,1 +1,1 @@
-{"name": "Productores_de_champán", "id": 8502769, "predecessors": [{"name": "Bodegas_de_Francia", "id": 2477415}, {"name": "Empresas_de_bebidas", "id": 4981831}, {"name": "Gastronomía_de_Francia", "id": 152196}], "successors": []}
+{"name": "Productores_de_champán", "id": 8502769, "predecessors": [{"name": "Bodegas_de_Francia", "id": 2477415}, {"name": "Empresas_vinícolas", "id": 3508226}, {"name": "Gastronomía_de_Francia", "id": 152196}], "successors": []}

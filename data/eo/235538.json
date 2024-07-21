@@ -1,1 +1,1 @@
-{"name": "Tektoniko", "id": 235538, "predecessors": [{"name": "Geofiziko", "id": 82819}, {"name": "Struktura_geologio", "id": 439870}], "successors": [{"name": "Tertremoj", "id": 82704}, {"name": "Platotektoniko", "id": 235537}, {"name": "Orogenezo", "id": 300303}]}
+{"name": "Tektoniko", "id": 235538, "predecessors": [{"name": "Geofiziko", "id": 82819}, {"name": "Struktura_geologio", "id": 439870}], "successors": [{"name": "Tertremoj", "id": 82704}, {"name": "Platotektoniko", "id": 235537}, {"name": "Orogenezo", "id": 300303}, {"name": "Tektonikistoj", "id": 610927}]}

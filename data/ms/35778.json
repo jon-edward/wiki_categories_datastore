@@ -1,1 +1,1 @@
-{"name": "Pemain_La_Liga", "id": 35778, "predecessors": [{"name": "Bola_sepak", "id": 17232}], "successors": [{"name": "Pemain_Valencia_CF", "id": 766338}, {"name": "Pemain_Sevilla_FC", "id": 766372}]}
+{"name": "Pemain_La_Liga", "id": 35778, "predecessors": [{"name": "Bola_sepak_di_England", "id": 103840}, {"name": "Bola_sepak", "id": 17232}], "successors": [{"name": "Pemain_Valencia_CF", "id": 766338}, {"name": "Pemain_Sevilla_FC", "id": 766372}]}

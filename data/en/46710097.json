@@ -1,1 +1,1 @@
-{"name": "Sericulture", "id": 46710097, "predecessors": [{"name": "Domesticated_animals", "id": 706779}, {"name": "Insect_rearing", "id": 48443202}, {"name": "Silk_production", "id": 35302982}], "successors": []}
+{"name": "Sericulture", "id": 46710097, "predecessors": [{"name": "Domesticated_animals", "id": 706779}, {"name": "Insect_rearing", "id": 48443202}, {"name": "Insects_in_culture", "id": 48443537}, {"name": "Silk_production", "id": 35302982}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Serverless_computing", "id": 51039379, "predecessors": [{"name": "Cloud_computing", "id": 18667762}, {"name": "Web_software", "id": 8660251}], "successors": []}
+{"name": "Serverless_computing", "id": 51039379, "predecessors": [{"name": "Cloud_computing", "id": 18667762}, {"name": "Computing_platforms", "id": 973745}, {"name": "Web_software", "id": 8660251}], "successors": []}

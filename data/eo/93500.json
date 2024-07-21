@@ -1,1 +1,1 @@
-{"name": "Urugvajaj_verkistoj", "id": 93500, "predecessors": [{"name": "Artoj", "id": 108577}, {"name": "Politika_geografio", "id": 108524}, {"name": "Verkistoj", "id": 29751}], "successors": []}
+{"name": "Urugvajaj_verkistoj", "id": 93500, "predecessors": [{"name": "Urugvajanoj", "id": 224173}, {"name": "Artoj", "id": 108577}, {"name": "Politika_geografio", "id": 108524}, {"name": "Verkistoj", "id": 29751}], "successors": [{"name": "Urugvajaj_ĵurnalistoj", "id": 126192}, {"name": "Urugvajaj_tradukistoj", "id": 728557}, {"name": "Urugvajaj_poetoj", "id": 728558}]}

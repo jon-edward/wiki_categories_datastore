@@ -1,1 +1,1 @@
-{"name": "Saab_engines", "id": 1429230, "predecessors": [{"name": "Automobile_engines", "id": 773958}, {"name": "General_Motors_engines", "id": 39314719}, {"name": "Saab", "id": 917710}], "successors": []}
+{"name": "Saab_engines", "id": 1429230, "predecessors": [{"name": "General_Motors_engines", "id": 39314719}, {"name": "Saab", "id": 917710}], "successors": []}

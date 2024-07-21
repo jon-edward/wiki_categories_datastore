@@ -1,1 +1,1 @@
-{"name": "Lexical_databases", "id": 31484297, "predecessors": [{"name": "Knowledge_representation", "id": 796635}, {"name": "Translation_databases", "id": 29437156}], "successors": []}
+{"name": "Lexical_databases", "id": 31484297, "predecessors": [{"name": "Computational_linguistics", "id": 787876}, {"name": "Knowledge_representation", "id": 796635}, {"name": "Linguistics_databases", "id": 62978089}, {"name": "Translation_databases", "id": 29437156}], "successors": []}

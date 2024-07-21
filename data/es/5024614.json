@@ -1,1 +1,1 @@
-{"name": "Personajes_animales_de_ficción", "id": 5024614, "predecessors": [{"name": "Animales_de_ficción", "id": 340643}], "successors": [{"name": "Personajes_animales_de_videojuegos", "id": 5494806}]}
+{"name": "Personajes_animales_de_ficción", "id": 5024614, "predecessors": [{"name": "Animales_de_ficción", "id": 340643}, {"name": "Personajes_ficticios", "id": 1870159}], "successors": [{"name": "Personajes_animales_de_videojuegos", "id": 5494806}]}

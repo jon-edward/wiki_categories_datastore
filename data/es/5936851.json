@@ -1,1 +1,1 @@
-{"name": "Biología_experimental", "id": 5936851, "predecessors": [{"name": "Experimentos_científicos", "id": 9377020}], "successors": [{"name": "Biofísica", "id": 992256}]}
+{"name": "Biología_experimental", "id": 5936851, "predecessors": [{"name": "Disciplinas_de_la_biología", "id": 8994238}, {"name": "Experimentos_científicos", "id": 9377020}], "successors": [{"name": "Biofísica", "id": 992256}]}

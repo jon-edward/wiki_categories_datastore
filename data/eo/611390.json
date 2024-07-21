@@ -1,1 +1,1 @@
-{"name": "Mezepokaj_sciencistoj", "id": 611390, "predecessors": [{"name": "Historio_laŭ_periodoj", "id": 219829}, {"name": "Sciencistoj", "id": 29921}, {"name": "Historio_de_scienco", "id": 82841}], "successors": []}
+{"name": "Mezepokaj_sciencistoj", "id": 611390, "predecessors": [{"name": "Historio_laŭ_periodoj", "id": 219829}, {"name": "Sciencistoj", "id": 29921}, {"name": "Historio_de_scienco", "id": 82841}], "successors": [{"name": "Mezepokaj_astronomoj", "id": 699231}]}

@@ -1,1 +1,1 @@
-{"name": "Squares_in_France", "id": 34063186, "predecessors": [{"name": "Geography_of_France", "id": 1397470}, {"name": "Tourism_in_France", "id": 2664305}], "successors": [{"name": "Squares_in_Paris", "id": 10610408}, {"name": "Squares_in_Lyon", "id": 22919214}]}
+{"name": "Squares_in_France", "id": 34063186, "predecessors": [{"name": "Geography_of_France", "id": 1397470}, {"name": "Tourism_in_France", "id": 2664305}, {"name": "France", "id": 706228}], "successors": [{"name": "Squares_in_Paris", "id": 10610408}, {"name": "Squares_in_Lyon", "id": 22919214}]}

@@ -1,1 +1,1 @@
-{"name": "Bayesian_inference", "id": 32549775, "predecessors": [{"name": "Bayesian_statistics", "id": 6533911}, {"name": "Probabilistic_arguments", "id": 29002236}], "successors": [{"name": "Bayesian_estimation", "id": 52314788}]}
+{"name": "Bayesian_inference", "id": 32549775, "predecessors": [{"name": "Bayesian_statistics", "id": 6533911}, {"name": "Probabilistic_arguments", "id": 29002236}, {"name": "Statistical_inference", "id": 17193265}], "successors": [{"name": "Bayesian_estimation", "id": 52314788}]}

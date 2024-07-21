@@ -1,1 +1,1 @@
-{"name": "Familias_de_Brachycera", "id": 10842140, "predecessors": [{"name": "Familias_de_artrópodos", "id": 8442968}], "successors": [{"name": "Asilidae", "id": 9879683}]}
+{"name": "Familias_de_Brachycera", "id": 10842140, "predecessors": [{"name": "Pterygota", "id": 1651946}], "successors": [{"name": "Calliphoridae", "id": 1941428}, {"name": "Asilidae", "id": 9879683}]}

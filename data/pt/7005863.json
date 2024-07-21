@@ -1,1 +1,1 @@
-{"name": "Mortes_por_acidente_ferroviário", "id": 7005863, "predecessors": [{"name": "Mortes_acidentais", "id": 5210010}, {"name": "Transporte_ferroviário", "id": 65043}], "successors": []}
+{"name": "Mortes_por_acidente_ferroviário", "id": 7005863, "predecessors": [{"name": "Transporte_ferroviário", "id": 65043}, {"name": "Acidentes", "id": 1046712}], "successors": []}

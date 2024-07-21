@@ -1,1 +1,1 @@
-{"name": "Ĉevaloj_en_arto", "id": 573631, "predecessors": [{"name": "Ĉevaloj", "id": 223316}, {"name": "Bestoj", "id": 273973}, {"name": "Bestoj_en_arto", "id": 609026}], "successors": [{"name": "Surĉevalaj_statuoj", "id": 647646}]}
+{"name": "Ĉevaloj_en_arto", "id": 573631, "predecessors": [{"name": "Mamuloj_en_arto", "id": 609024}, {"name": "Ĉevaloj", "id": 223316}, {"name": "Bestoj", "id": 273973}], "successors": [{"name": "Surĉevalaj_statuoj", "id": 647646}]}

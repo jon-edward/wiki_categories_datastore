@@ -1,1 +1,1 @@
-{"name": "Hepatitis_A", "id": 39804622, "predecessors": [{"name": "Foodborne_illnesses", "id": 1081967}, {"name": "Vaccine-preventable_diseases", "id": 56263158}, {"name": "Viral_hepatitis", "id": 70357669}], "successors": []}
+{"name": "Hepatitis_A", "id": 39804622, "predecessors": [{"name": "Foodborne_illnesses", "id": 1081967}, {"name": "Picornaviridae", "id": 39555607}, {"name": "Vaccine-preventable_diseases", "id": 56263158}, {"name": "Viral_hepatitis", "id": 70357669}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Collaborative_autobiographies", "id": 67185747, "predecessors": [{"name": "Autobiographies", "id": 1088199}], "successors": [{"name": "Collaborative_memoirs", "id": 67185758}]}
+{"name": "Collaborative_autobiographies", "id": 67185747, "predecessors": [{"name": "Autobiographies", "id": 1088199}, {"name": "Collaborative_non-fiction_books", "id": 67166466}], "successors": [{"name": "Collaborative_memoirs", "id": 67185758}]}

@@ -1,1 +1,1 @@
-{"name": "3D_publishing", "id": 52118982, "predecessors": [{"name": "3D_printing", "id": 33961970}, {"name": "Online_publishing", "id": 43584799}], "successors": [{"name": "3D_printing_websites", "id": 52048717}]}
+{"name": "3D_publishing", "id": 52118982, "predecessors": [{"name": "3D_printing", "id": 33961970}], "successors": [{"name": "3D_printing_websites", "id": 52048717}]}

@@ -1,1 +1,1 @@
-{"name": "Ciganaj_muzikistoj", "id": 266145, "predecessors": [{"name": "Cigana_muziko", "id": 266144}, {"name": "Muzikistoj", "id": 31762}], "successors": []}
+{"name": "Ciganaj_muzikistoj", "id": 266145, "predecessors": [{"name": "Cigana_muziko", "id": 266144}, {"name": "Muzikistoj", "id": 31762}], "successors": [{"name": "Ciganaj_kantistoj", "id": 266148}]}

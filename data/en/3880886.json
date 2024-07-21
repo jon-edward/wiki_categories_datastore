@@ -1,1 +1,1 @@
-{"name": "Military_robots", "id": 3880886, "predecessors": [{"name": "Military_science", "id": 1437392}], "successors": [{"name": "Unmanned_ground_combat_vehicles", "id": 11053600}, {"name": "Airborne_military_robots", "id": 26348922}]}
+{"name": "Military_robots", "id": 3880886, "predecessors": [{"name": "Robots", "id": 943048}], "successors": [{"name": "Unmanned_ground_combat_vehicles", "id": 11053600}, {"name": "IRobot", "id": 21310342}, {"name": "Airborne_military_robots", "id": 26348922}]}

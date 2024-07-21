@@ -1,1 +1,1 @@
-{"name": "Materials_testing", "id": 11017337, "predecessors": [{"name": "Materials_science", "id": 709184}], "successors": [{"name": "Nondestructive_testing", "id": 7639446}]}
+{"name": "Materials_testing", "id": 11017337, "predecessors": [{"name": "Materials_science", "id": 709184}, {"name": "Product_testing", "id": 28014246}], "successors": [{"name": "Synchrotron_radiation_facilities", "id": 4331146}, {"name": "Nondestructive_testing", "id": 7639446}, {"name": "Hardness_tests", "id": 9853411}]}

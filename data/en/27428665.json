@@ -1,1 +1,1 @@
-{"name": "Diesel_engine_technology", "id": 27428665, "predecessors": [{"name": "Diesel_engines", "id": 16236256}, {"name": "Engine_technology", "id": 1124196}, {"name": "Internal_combustion_piston_engines", "id": 18429197}], "successors": [{"name": "Diesel_engine_components", "id": 27428885}]}
+{"name": "Diesel_engine_technology", "id": 27428665, "predecessors": [{"name": "Engine_technology", "id": 1124196}], "successors": [{"name": "Diesel_engine_components", "id": 27428885}]}

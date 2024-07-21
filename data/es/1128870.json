@@ -1,1 +1,1 @@
-{"name": "Histología_animal", "id": 1128870, "predecessors": [{"name": "Zoología", "id": 55377}], "successors": [{"name": "Sangre", "id": 427064}]}
+{"name": "Histología_animal", "id": 1128870, "predecessors": [{"name": "Disciplinas_de_la_zoología", "id": 10380711}, {"name": "Histología", "id": 75570}], "successors": [{"name": "Sangre", "id": 427064}]}

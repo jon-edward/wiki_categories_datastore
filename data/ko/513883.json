@@ -1,1 +1,1 @@
-{"name": "FC_서울_틀", "id": 513883, "predecessors": [{"name": "FC_서울", "id": 107246}, {"name": "K리그_축구단_틀", "id": 612902}], "successors": [{"name": "FC_서울_선수_명단_틀", "id": 1720800}]}
+{"name": "FC_서울_틀", "id": 513883, "predecessors": [{"name": "FC_서울", "id": 107246}, {"name": "K리그_축구단_틀", "id": 612902}], "successors": []}

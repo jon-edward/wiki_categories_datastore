@@ -1,1 +1,1 @@
-{"name": "소금절이", "id": 3640156, "predecessors": [{"name": "소금", "id": 466104}, {"name": "식품_보존", "id": 66507}], "successors": [{"name": "젓갈", "id": 146088}, {"name": "김치", "id": 147438}]}
+{"name": "소금절이", "id": 3640156, "predecessors": [{"name": "소금", "id": 466104}], "successors": [{"name": "젓갈", "id": 146088}, {"name": "김치", "id": 147438}]}

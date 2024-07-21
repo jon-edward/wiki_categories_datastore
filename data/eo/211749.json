@@ -1,1 +1,1 @@
-{"name": "Rakontoj", "id": 211749, "predecessors": [{"name": "Fikcio", "id": 63977}, {"name": "Literaturo", "id": 26444}], "successors": [{"name": "Novelaroj", "id": 283018}, {"name": "Rakontoj_de_Jorge_Luis_Borges", "id": 599861}]}
+{"name": "Rakontoj", "id": 211749, "predecessors": [{"name": "Fikcio", "id": 63977}, {"name": "Literaturo_laŭ_formoj", "id": 282722}], "successors": [{"name": "Novelaroj", "id": 283018}, {"name": "Rakontaj_poemoj", "id": 620851}, {"name": "Rakontoj_de_Jorge_Luis_Borges", "id": 599861}]}

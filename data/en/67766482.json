@@ -1,1 +1,1 @@
-{"name": "Films_set_on_spacecraft", "id": 67766482, "predecessors": [{"name": "Films_set_in_outer_space", "id": 54000545}, {"name": "Spacecraft", "id": 723329}, {"name": "Area_studies", "id": 11134875}], "successors": [{"name": "Star_Trek_(film_franchise)", "id": 38800084}]}
+{"name": "Films_set_on_spacecraft", "id": 67766482, "predecessors": [{"name": "Spaceflight", "id": 1040006}], "successors": [{"name": "Star_Trek_(film_franchise)", "id": 38800084}]}

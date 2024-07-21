@@ -1,1 +1,1 @@
-{"name": "문화방송_일일연속극", "id": 605008, "predecessors": [{"name": "시간의_단위", "id": 14893}], "successors": []}
+{"name": "문화방송_일일연속극", "id": 605008, "predecessors": [{"name": "문화방송의_텔레비전_드라마", "id": 57036}, {"name": "방송_프로그램", "id": 436098}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Medical_conferences", "id": 13090467, "predecessors": [{"name": "Medical_and_health_organizations", "id": 14658985}], "successors": [{"name": "International_AIDS_Conferences", "id": 24465739}]}
+{"name": "Medical_conferences", "id": 13090467, "predecessors": [{"name": "Academic_conferences", "id": 10029324}, {"name": "Conferences", "id": 3267377}, {"name": "Medical_and_health_organizations", "id": 14658985}, {"name": "Science_conferences", "id": 28876907}], "successors": [{"name": "International_AIDS_Conferences", "id": 24465739}]}

@@ -1,1 +1,1 @@
-{"name": "Stacioj_de_la_metroo_de_Granado", "id": 831090, "predecessors": [{"name": "Granado", "id": 309714}, {"name": "Fervoja_transporto", "id": 588553}], "successors": []}
+{"name": "Stacioj_de_la_metroo_de_Granado", "id": 831090, "predecessors": [{"name": "Metroo_de_Granado", "id": 831075}, {"name": "Fervoja_transporto", "id": 588553}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Information_by_telephone", "id": 30634709, "predecessors": [{"name": "Entertainment", "id": 693016}], "successors": [{"name": "Crisis_hotlines", "id": 23750610}, {"name": "Telephone_newspapers", "id": 25171098}]}
+{"name": "Information_by_telephone", "id": 30634709, "predecessors": [{"name": "Entertainment", "id": 693016}, {"name": "Information", "id": 1009209}, {"name": "Telephone_services", "id": 21027223}, {"name": "Telephony", "id": 1048611}], "successors": [{"name": "Crisis_hotlines", "id": 23750610}, {"name": "Telephone_newspapers", "id": 25171098}]}

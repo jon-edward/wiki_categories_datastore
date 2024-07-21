@@ -1,1 +1,1 @@
-{"name": "Barokaj_preĝejoj", "id": 693296, "predecessors": [{"name": "Barokaj_konstruaĵoj", "id": 319456}, {"name": "Kristanaj_preĝejoj", "id": 468171}], "successors": [{"name": "Barokaj_preĝejoj_en_Ĉeĥio", "id": 693293}]}
+{"name": "Barokaj_preĝejoj", "id": 693296, "predecessors": [{"name": "Barokaj_konstruaĵoj", "id": 319456}, {"name": "Kristanaj_preĝejoj", "id": 468171}], "successors": [{"name": "Barokaj_katedraloj", "id": 693290}, {"name": "Barokaj_preĝejoj_en_Ĉeĥio", "id": 693293}]}

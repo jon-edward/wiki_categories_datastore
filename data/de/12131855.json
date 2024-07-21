@@ -1,1 +1,1 @@
-{"name": "Medien_(Sprachenlernen)", "id": 12131855, "predecessors": [{"name": "Medien", "id": 280667}, {"name": "Sprachenlernen", "id": 1661280}], "successors": [{"name": "Sprachmagazin", "id": 2138025}, {"name": "Sprachkurs_(Fernsehen)", "id": 9455261}]}
+{"name": "Medien_(Sprachenlernen)", "id": 12131855, "predecessors": [{"name": "Sprachenlernen", "id": 1661280}, {"name": "Medien", "id": 280667}], "successors": [{"name": "Sprachmagazin", "id": 2138025}, {"name": "Sprachkurs_(Fernsehen)", "id": 9455261}]}

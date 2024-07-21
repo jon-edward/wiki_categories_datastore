@@ -1,1 +1,1 @@
-{"name": "Amsterdam_Metro_stations", "id": 27226118, "predecessors": [{"name": "Amsterdam_Metro", "id": 27226094}, {"name": "Railway_stations_in_Amsterdam", "id": 15275013}, {"name": "Rapid_transit", "id": 4286827}], "successors": [{"name": "Disused_Amsterdam_Metro_stations", "id": 71847241}]}
+{"name": "Amsterdam_Metro_stations", "id": 27226118, "predecessors": [{"name": "Amsterdam_Metro", "id": 27226094}, {"name": "Rapid_transit", "id": 4286827}], "successors": [{"name": "Disused_Amsterdam_Metro_stations", "id": 71847241}]}

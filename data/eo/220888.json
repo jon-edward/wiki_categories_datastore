@@ -1,1 +1,1 @@
-{"name": "Lipidoj", "id": 220888, "predecessors": [{"name": "Biomolekuloj", "id": 290579}], "successors": [{"name": "Steroidoj", "id": 290556}, {"name": "Karotenoidoj", "id": 435090}, {"name": "Grasacidoj", "id": 435072}]}
+{"name": "Lipidoj", "id": 220888, "predecessors": [{"name": "Biomolekuloj", "id": 290579}], "successors": [{"name": "Steroidoj", "id": 290556}, {"name": "Karotenoidoj", "id": 435090}, {"name": "Trigliceridoj", "id": 811528}, {"name": "Grasacidoj", "id": 435072}]}

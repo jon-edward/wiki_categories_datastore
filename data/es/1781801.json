@@ -1,1 +1,1 @@
-{"name": "Granadas", "id": 1781801, "predecessors": [{"name": "Milenios", "id": 1699746}, {"name": "Armas", "id": 650148}], "successors": [{"name": "Granadas_de_fusil", "id": 6526964}, {"name": "Granadas_antitanque", "id": 9202709}]}
+{"name": "Granadas", "id": 1781801, "predecessors": [{"name": "Armas_explosivas", "id": 1853524}, {"name": "Eventos", "id": 967311}, {"name": "Armas", "id": 650148}], "successors": [{"name": "Granadas_de_fusil", "id": 6526964}, {"name": "Escudos_con_granadas", "id": 9048406}, {"name": "Granadas_antitanque", "id": 9202709}]}

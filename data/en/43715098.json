@@ -1,1 +1,1 @@
-{"name": "Russian_mercenaries", "id": 43715098, "predecessors": [{"name": "Russian_military_personnel", "id": 6676907}, {"name": "Mercenaries", "id": 1611704}], "successors": [{"name": "People_of_the_Wagner_Group", "id": 72521282}]}
+{"name": "Russian_mercenaries", "id": 43715098, "predecessors": [{"name": "Mercenaries", "id": 1611704}], "successors": [{"name": "People_of_the_Wagner_Group", "id": 72521282}]}

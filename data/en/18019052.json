@@ -1,1 +1,1 @@
-{"name": "Dell_laptops", "id": 18019052, "predecessors": [{"name": "Laptops", "id": 705508}, {"name": "Computers", "id": 4583997}], "successors": []}
+{"name": "Dell_laptops", "id": 18019052, "predecessors": [{"name": "Laptops", "id": 705508}, {"name": "X86-based_computers", "id": 67732610}], "successors": []}

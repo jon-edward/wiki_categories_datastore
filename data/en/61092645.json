@@ -1,1 +1,1 @@
-{"name": "Religious_Confucianism", "id": 61092645, "predecessors": [{"name": "Confucianism", "id": 708398}], "successors": [{"name": "Confucian_rites", "id": 67857266}]}
+{"name": "Religious_Confucianism", "id": 61092645, "predecessors": [{"name": "Confucianism", "id": 708398}, {"name": "East_Asian_traditions", "id": 61085463}], "successors": [{"name": "Confucian_rites", "id": 67857266}]}

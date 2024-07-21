@@ -1,1 +1,1 @@
-{"name": "Policía_de_Investigaciones_de_Chile", "id": 862358, "predecessors": [{"name": "Servicios_públicos_de_Chile", "id": 309926}], "successors": [{"name": "Directores_Generales_de_la_Policía_de_Investigaciones_de_Chile", "id": 4486115}]}
+{"name": "Policía_de_Investigaciones_de_Chile", "id": 862358, "predecessors": [{"name": "Servicios_públicos_de_Chile", "id": 309926}], "successors": [{"name": "Unidades_de_la_PDI", "id": 2538612}, {"name": "Directores_Generales_de_la_Policía_de_Investigaciones_de_Chile", "id": 4486115}]}

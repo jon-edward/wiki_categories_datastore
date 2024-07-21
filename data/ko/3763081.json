@@ -1,1 +1,1 @@
-{"name": "대형_언어_모델", "id": 3763081, "predecessors": [{"name": "비지도_학습", "id": 2580956}], "successors": []}
+{"name": "대형_언어_모델", "id": 3763081, "predecessors": [{"name": "비지도_학습", "id": 2580956}, {"name": "인공지능의_응용", "id": 3635846}], "successors": []}

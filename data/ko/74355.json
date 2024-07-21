@@ -1,1 +1,1 @@
-{"name": "정찰위성", "id": 74355, "predecessors": [{"name": "수색정찰", "id": 1890336}, {"name": "첩보_기술", "id": 709223}], "successors": []}
+{"name": "정찰위성", "id": 74355, "predecessors": [{"name": "수색정찰", "id": 1890336}, {"name": "첩보_기술", "id": 709223}, {"name": "군사_기술", "id": 49576}], "successors": []}

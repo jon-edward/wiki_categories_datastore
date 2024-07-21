@@ -1,1 +1,1 @@
-{"name": "Eter", "id": 968398, "predecessors": [{"name": "Kumpulan_berfungsi", "id": 85647}, {"name": "Sebatian_organik", "id": 24295}, {"name": "Oksigen", "id": 160135}], "successors": [{"name": "Eter_fenol", "id": 1156095}]}
+{"name": "Eter", "id": 968398, "predecessors": [{"name": "Sebatian_organik", "id": 24295}, {"name": "Sebatian_kimia", "id": 30367}], "successors": [{"name": "Eter_fenol", "id": 1156095}]}

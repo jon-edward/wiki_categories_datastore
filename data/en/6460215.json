@@ -1,1 +1,1 @@
-{"name": "Education_in_Bangkok", "id": 6460215, "predecessors": [{"name": "Bangkok", "id": 2009006}, {"name": "Education_in_Thailand", "id": 2149242}], "successors": [{"name": "Museums_in_Bangkok", "id": 15188780}, {"name": "Schools_in_Bangkok", "id": 36993842}, {"name": "Universities_and_colleges_in_Bangkok", "id": 43213778}]}
+{"name": "Education_in_Bangkok", "id": 6460215, "predecessors": [{"name": "Education_in_Thailand", "id": 2149242}], "successors": [{"name": "Museums_in_Bangkok", "id": 15188780}]}

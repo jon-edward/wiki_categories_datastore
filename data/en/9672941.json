@@ -1,1 +1,1 @@
-{"name": "Natural_gas_pipelines_in_Canada", "id": 9672941, "predecessors": [{"name": "Transport_in_Canada", "id": 31046597}, {"name": "Natural_gas", "id": 930957}], "successors": []}
+{"name": "Natural_gas_pipelines_in_Canada", "id": 9672941, "predecessors": [{"name": "Pipeline_transport", "id": 41212753}, {"name": "Energy_in_Canada", "id": 7286742}, {"name": "Transport_in_Canada", "id": 31046597}], "successors": []}

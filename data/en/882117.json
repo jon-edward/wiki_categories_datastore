@@ -1,1 +1,1 @@
-{"name": "BMW_engines", "id": 882117, "predecessors": [{"name": "Automobile_engines", "id": 773958}, {"name": "BMW", "id": 882125}], "successors": [{"name": "BMW_aircraft_engines", "id": 33796695}]}
+{"name": "BMW_engines", "id": 882117, "predecessors": [{"name": "BMW", "id": 882125}], "successors": [{"name": "BMW_aircraft_engines", "id": 33796695}]}

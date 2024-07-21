@@ -1,1 +1,1 @@
-{"name": "CA_보카_주니어스_경기", "id": 1452832, "predecessors": [{"name": "CA_보카_주니어스", "id": 373358}], "successors": []}
+{"name": "CA_보카_주니어스_경기", "id": 1452832, "predecessors": [{"name": "CA_보카_주니어스", "id": 373358}, {"name": "스포츠_경기", "id": 1074767}], "successors": []}

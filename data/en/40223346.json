@@ -1,1 +1,1 @@
-{"name": "Parasites_of_humans", "id": 40223346, "predecessors": [{"name": "Parasites_of_primates", "id": 40223341}], "successors": []}
+{"name": "Parasites_of_humans", "id": 40223346, "predecessors": [{"name": "Human_biology", "id": 34235418}, {"name": "Parasites_of_primates", "id": 40223341}, {"name": "Cultural_anthropology", "id": 715355}], "successors": []}

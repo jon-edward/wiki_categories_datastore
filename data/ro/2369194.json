@@ -1,1 +1,1 @@
-{"name": "Filme_DEFA", "id": 2369194, "predecessors": [{"name": "Studiouri_de_film", "id": 372444}], "successors": []}
+{"name": "Filme_DEFA", "id": 2369194, "predecessors": [{"name": "Studiouri_de_film", "id": 372444}], "successors": [{"name": "Filme_DEFA_de_basme", "id": 2982375}]}

@@ -1,1 +1,1 @@
-{"name": "인용", "id": 601826, "predecessors": [{"name": "구두_의사소통", "id": 601828}, {"name": "어구", "id": 519239}], "successors": []}
+{"name": "인용", "id": 601826, "predecessors": [{"name": "구두_의사소통", "id": 601828}, {"name": "어구", "id": 519239}], "successors": [{"name": "예수의_말", "id": 1319851}]}

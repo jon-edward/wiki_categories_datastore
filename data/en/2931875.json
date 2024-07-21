@@ -1,1 +1,0 @@
-{"name": "Transport_layer_protocols", "id": 2931875, "predecessors": [{"name": "Internet_protocols", "id": 1034331}], "successors": [{"name": "Error_detection_and_correction", "id": 1061200}, {"name": "Network_socket", "id": 34247529}, {"name": "Transmission_Control_Protocol", "id": 36881295}, {"name": "Flow_control_(data)", "id": 40416830}]}

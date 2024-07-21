@@ -1,1 +1,1 @@
-{"name": "Fútbol_en_1907", "id": 2416002, "predecessors": [{"name": "Fútbol", "id": 49834}], "successors": [{"name": "Equipos_de_fútbol_fundados_en_1907", "id": 3175105}, {"name": "Fútbol_en_Argentina_en_1907", "id": 8978354}]}
+{"name": "Fútbol_en_1907", "id": 2416002, "predecessors": [{"name": "Deporte_en_1907", "id": 3040432}, {"name": "Fútbol", "id": 49834}, {"name": "Sociedad", "id": 61818}], "successors": [{"name": "Equipos_de_fútbol_fundados_en_1907", "id": 3175105}, {"name": "Fútbol_en_Argentina_en_1907", "id": 8978354}]}

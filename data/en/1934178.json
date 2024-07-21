@@ -1,1 +1,1 @@
-{"name": "Phosphates", "id": 1934178, "predecessors": [{"name": "Oxyanions", "id": 3368648}], "successors": [{"name": "Phosphate_minerals", "id": 1091200}, {"name": "Organophosphates", "id": 3556880}]}
+{"name": "Phosphates", "id": 1934178, "predecessors": [{"name": "Industrial_minerals", "id": 53386996}], "successors": [{"name": "Phosphate_minerals", "id": 1091200}, {"name": "Organophosphates", "id": 3556880}, {"name": "Hexafluorophosphates", "id": 18699614}]}

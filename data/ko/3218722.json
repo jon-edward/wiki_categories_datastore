@@ -1,1 +1,1 @@
-{"name": "고양이학", "id": 3218722, "predecessors": [{"name": "고양이", "id": 90462}], "successors": [{"name": "고양이_위생학", "id": 3225186}, {"name": "고양이_행동학", "id": 3225201}]}
+{"name": "고양이학", "id": 3218722, "predecessors": [{"name": "고양이", "id": 90462}], "successors": [{"name": "고양이_행동학", "id": 3225201}]}

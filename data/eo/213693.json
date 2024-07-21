@@ -1,1 +1,1 @@
-{"name": "Ŝipspecoj", "id": 213693, "predecessors": [{"name": "Ŝipoj", "id": 57163}], "successors": [{"name": "Batalŝipoj", "id": 221756}, {"name": "Skunoj", "id": 708754}]}
+{"name": "Ŝipspecoj", "id": 213693, "predecessors": [{"name": "Ŝipoj", "id": 57163}], "successors": [{"name": "Batalŝipoj", "id": 221756}, {"name": "Tipoj_de_boatoj", "id": 620533}, {"name": "Skunoj", "id": 708754}]}

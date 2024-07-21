@@ -1,1 +1,1 @@
-{"name": "Museos_de_automóviles", "id": 5564197, "predecessors": [{"name": "Museos_de_transporte", "id": 2368066}, {"name": "Automoción", "id": 73875}], "successors": []}
+{"name": "Museos_de_automóviles", "id": 5564197, "predecessors": [{"name": "Museos_de_transporte", "id": 2368066}, {"name": "Historia_de_la_tecnología", "id": 204842}], "successors": [{"name": "Museos_de_automóviles_de_Alemania", "id": 8717535}]}

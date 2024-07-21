@@ -1,1 +1,1 @@
-{"name": "Kloridoj", "id": 619333, "predecessors": [{"name": "Halogenidoj", "id": 531622}, {"name": "Saloj", "id": 50712}], "successors": [{"name": "Organikaj_kloridoj", "id": 623476}, {"name": "Kloroformiatoj", "id": 646932}]}
+{"name": "Kloridoj", "id": 619333, "predecessors": [{"name": "Halogenidoj", "id": 531622}, {"name": "Saloj", "id": 50712}], "successors": [{"name": "Kloro-platenatoj", "id": 619332}, {"name": "Organikaj_kloridoj", "id": 623476}, {"name": "Kloroformiatoj", "id": 646932}]}

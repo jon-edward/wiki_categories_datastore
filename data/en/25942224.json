@@ -1,1 +1,1 @@
-{"name": "Prussian_Ministers_of_War", "id": 25942224, "predecessors": [{"name": "Defence_ministers_of_Germany", "id": 23643521}, {"name": "Government_ministers_of_Prussia", "id": 48621049}, {"name": "Military_of_Prussia", "id": 12325630}, {"name": "Defence_ministers", "id": 2968327}], "successors": []}
+{"name": "Prussian_Ministers_of_War", "id": 25942224, "predecessors": [{"name": "Defence_ministers_of_Germany", "id": 23643521}, {"name": "Military_of_Prussia", "id": 12325630}, {"name": "War", "id": 691877}], "successors": []}

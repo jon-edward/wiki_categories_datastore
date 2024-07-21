@@ -1,1 +1,1 @@
-{"name": "Prehistoric_gastropods", "id": 22346415, "predecessors": [{"name": "Extinct_gastropods", "id": 19512622}, {"name": "Extinction", "id": 1297233}], "successors": []}
+{"name": "Prehistoric_gastropods", "id": 22346415, "predecessors": [{"name": "Extinct_gastropods", "id": 19512622}, {"name": "Biological_classification", "id": 41221871}], "successors": [{"name": "Prehistoric_gastropod_genera", "id": 52677746}, {"name": "Prehistoric_Acteon_species", "id": 76908531}, {"name": "Cretaceous_gastropods", "id": 47780655}]}

@@ -1,1 +1,1 @@
-{"name": "Unmanned_ground_combat_vehicles", "id": 11053600, "predecessors": [{"name": "Military_robots", "id": 3880886}, {"name": "Unmanned_ground_vehicles", "id": 11052817}, {"name": "Combat", "id": 16795907}], "successors": []}
+{"name": "Unmanned_ground_combat_vehicles", "id": 11053600, "predecessors": [{"name": "Military_robots", "id": 3880886}, {"name": "Combat", "id": 16795907}], "successors": []}

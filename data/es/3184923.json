@@ -1,1 +1,1 @@
-{"name": "Regiones_de_Hungría", "id": 3184923, "predecessors": [{"name": "NUTS", "id": 337393}, {"name": "Regiones_de_Europa", "id": 206562}, {"name": "Geografía_de_Europa", "id": 50947}], "successors": [{"name": "Regiones_históricas_de_Hungría", "id": 5674008}]}
+{"name": "Regiones_de_Hungría", "id": 3184923, "predecessors": [{"name": "NUTS", "id": 337393}, {"name": "Geografía_de_Europa", "id": 50947}, {"name": "Regiones", "id": 365765}], "successors": [{"name": "Regiones_históricas_de_Hungría", "id": 5674008}]}

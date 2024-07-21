@@ -1,1 +1,1 @@
-{"name": "Canciones_de_jazz", "id": 989375, "predecessors": [{"name": "Jazz", "id": 179237}], "successors": [{"name": "Estándares_de_jazz", "id": 2498736}]}
+{"name": "Canciones_de_jazz", "id": 989375, "predecessors": [{"name": "Jazz", "id": 179237}, {"name": "Canciones", "id": 80948}], "successors": [{"name": "Estándares_de_jazz", "id": 2498736}]}

@@ -1,1 +1,1 @@
-{"name": "Transporte_en_Alicante", "id": 2878606, "predecessors": [{"name": "Alicante", "id": 187194}, {"name": "Transporte_en_la_provincia_de_Alicante", "id": 2878581}, {"name": "Economía_por_país", "id": 3081309}], "successors": []}
+{"name": "Transporte_en_Alicante", "id": 2878606, "predecessors": [{"name": "Alicante", "id": 187194}, {"name": "Transporte_en_la_provincia_de_Alicante", "id": 2878581}, {"name": "Transporte_urbano_de_España", "id": 710387}], "successors": [{"name": "Estaciones_ferroviarias_de_Alicante", "id": 6020573}]}

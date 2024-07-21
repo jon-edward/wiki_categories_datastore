@@ -1,1 +1,1 @@
-{"name": "World_War_II_British_bombers", "id": 27312363, "predecessors": [{"name": "British_military_aircraft", "id": 4723491}], "successors": [{"name": "De_Havilland_Mosquito", "id": 39038871}, {"name": "Avro_Lancaster", "id": 48458691}]}
+{"name": "World_War_II_British_bombers", "id": 27312363, "predecessors": [{"name": "Bomber_aircraft", "id": 751858}, {"name": "British_military_aircraft", "id": 4723491}], "successors": [{"name": "De_Havilland_Mosquito", "id": 39038871}, {"name": "Avro_Lancaster", "id": 48458691}]}

@@ -1,1 +1,1 @@
-{"name": "Video_acceleration", "id": 26271826, "predecessors": [{"name": "Video_compression", "id": 11204075}, {"name": "Video_processing", "id": 15951944}], "successors": [{"name": "Video_compression_and_decompression_ASIC", "id": 54554254}]}
+{"name": "Video_acceleration", "id": 26271826, "predecessors": [{"name": "Video_compression", "id": 11204075}, {"name": "Video_processing", "id": 15951944}, {"name": "Computer_performance", "id": 8802994}], "successors": [{"name": "Video_compression_and_decompression_ASIC", "id": 54554254}]}

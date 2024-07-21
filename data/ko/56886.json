@@ -1,1 +1,1 @@
-{"name": "조판_소프트웨어", "id": 56886, "predecessors": [{"name": "조판", "id": 1413395}], "successors": [{"name": "TeX", "id": 49677}]}
+{"name": "조판_소프트웨어", "id": 56886, "predecessors": [{"name": "응용_소프트웨어", "id": 14903}, {"name": "조판", "id": 1413395}], "successors": [{"name": "TeX", "id": 49677}]}

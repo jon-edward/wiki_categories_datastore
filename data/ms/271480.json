@@ -1,1 +1,1 @@
-{"name": "Perambatan_frekuensi_radio", "id": 271480, "predecessors": [{"name": "Radio_amatur", "id": 176025}, {"name": "Sinaran_elektromagnet", "id": 137572}, {"name": "Sistem_terbenam", "id": 301676}, {"name": "Kejuruteraan_penyiaran", "id": 110889}], "successors": []}
+{"name": "Perambatan_frekuensi_radio", "id": 271480, "predecessors": [{"name": "Radio_amatur", "id": 176025}, {"name": "Sistem_terbenam", "id": 301676}, {"name": "Kejuruteraan_penyiaran", "id": 110889}], "successors": []}

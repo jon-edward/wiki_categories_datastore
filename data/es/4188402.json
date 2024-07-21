@@ -1,1 +1,1 @@
-{"name": "Empresas_papeleras", "id": 4188402, "predecessors": [{"name": "Papel", "id": 3221545}, {"name": "Empresas", "id": 62409}, {"name": "Industria", "id": 70145}], "successors": [{"name": "Procter_&_Gamble", "id": 323730}, {"name": "Mitsubishi", "id": 3298805}]}
+{"name": "Empresas_papeleras", "id": 4188402, "predecessors": [{"name": "Papel", "id": 3221545}, {"name": "Empresas", "id": 62409}], "successors": [{"name": "Procter_&_Gamble", "id": 323730}, {"name": "Mitsubishi", "id": 3298805}]}

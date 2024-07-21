@@ -1,1 +1,1 @@
-{"name": "PDF_readers", "id": 3875598, "predecessors": [{"name": "Electronic_paper_technology", "id": 6980297}], "successors": [{"name": "Free_PDF_readers", "id": 13371121}]}
+{"name": "PDF_readers", "id": 3875598, "predecessors": [{"name": "PDF_software", "id": 13391267}, {"name": "Electronic_paper_technology", "id": 6980297}], "successors": []}

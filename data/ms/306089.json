@@ -1,1 +1,1 @@
-{"name": "Jenis_data", "id": 306089, "predecessors": [{"name": "Bahasa_pengaturcaraan", "id": 24045}, {"name": "Data_komputer", "id": 75954}, {"name": "Pengaturcaraan_komputer", "id": 153946}, {"name": "Sains_komputer", "id": 42047}], "successors": [{"name": "Jenis_primitif", "id": 306093}]}
+{"name": "Jenis_data", "id": 306089, "predecessors": [{"name": "Bahasa_pengaturcaraan", "id": 24045}, {"name": "Data_komputer", "id": 75954}, {"name": "Sains_komputer", "id": 42047}], "successors": [{"name": "Jenis_primitif", "id": 306093}]}

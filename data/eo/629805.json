@@ -1,1 +1,1 @@
-{"name": "Organikaj_jodidoj", "id": 629805, "predecessors": [{"name": "Jodidoj", "id": 534510}, {"name": "Funkciaj_grupoj", "id": 434914}], "successors": [{"name": "Jodoacetatoj", "id": 684660}]}
+{"name": "Organikaj_jodidoj", "id": 629805, "predecessors": [{"name": "Jodidoj", "id": 534510}, {"name": "Organikaj_halogenidoj", "id": 623471}], "successors": [{"name": "Jodoacetatoj", "id": 684660}]}

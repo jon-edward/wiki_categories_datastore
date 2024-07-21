@@ -1,1 +1,1 @@
-{"name": "Indian_spices", "id": 44992786, "predecessors": [{"name": "Indian_cuisine", "id": 851793}], "successors": [{"name": "Poppy_seeds", "id": 25227732}]}
+{"name": "Indian_spices", "id": 44992786, "predecessors": [{"name": "Indian_cuisine", "id": 851793}, {"name": "Spices", "id": 700797}], "successors": [{"name": "Poppy_seeds", "id": 25227732}]}

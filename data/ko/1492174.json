@@ -1,1 +1,1 @@
-{"name": "영어_출발어_번역가", "id": 1492174, "predecessors": [{"name": "영어", "id": 11683}, {"name": "번역가", "id": 50778}], "successors": []}
+{"name": "영어_출발어_번역가", "id": 1492174, "predecessors": [{"name": "번역가", "id": 50778}], "successors": [{"name": "영어-한국어_번역가", "id": 1492173}]}

@@ -1,1 +1,1 @@
-{"name": "Data_centers", "id": 24125707, "predecessors": [{"name": "Computers", "id": 4583997}, {"name": "Data_management", "id": 762162}, {"name": "Servers_(computing)", "id": 34556923}], "successors": [{"name": "Computer_security_organizations", "id": 4800492}]}
+{"name": "Data_centers", "id": 24125707, "predecessors": [{"name": "Computers", "id": 4583997}, {"name": "Data_management", "id": 762162}, {"name": "Servers_(computing)", "id": 34556923}], "successors": []}

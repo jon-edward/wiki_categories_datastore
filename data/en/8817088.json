@@ -1,1 +1,1 @@
-{"name": "Electronics_companies_of_Finland", "id": 8817088, "predecessors": [{"name": "Manufacturing_companies_of_Finland", "id": 5378710}, {"name": "Technology_companies_of_Finland", "id": 48506692}], "successors": [{"name": "Nokia", "id": 1503940}, {"name": "Wärtsilä", "id": 38984532}]}
+{"name": "Electronics_companies_of_Finland", "id": 8817088, "predecessors": [{"name": "Electronics_industry", "id": 35046850}], "successors": [{"name": "Nokia", "id": 1503940}]}

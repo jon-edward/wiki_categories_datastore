@@ -1,0 +1,1 @@
+{"name": "Commercial_machines", "id": 18608853, "predecessors": [{"name": "Machines", "id": 7810459}], "successors": [{"name": "Slot_machines", "id": 4859831}, {"name": "Vending_machines", "id": 9460877}, {"name": "Public_phones", "id": 10419584}, {"name": "Arcade_games", "id": 67408604}]}

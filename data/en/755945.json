@@ -1,1 +1,1 @@
-{"name": "Impact_printers", "id": 755945, "predecessors": [{"name": "Computer_printers", "id": 726997}], "successors": [{"name": "Impact_matrix_printers", "id": 52097829}, {"name": "Line_printers", "id": 52097837}, {"name": "Daisy_wheel_printers", "id": 52097845}]}
+{"name": "Impact_printers", "id": 755945, "predecessors": [{"name": "Computer_printers", "id": 726997}], "successors": []}

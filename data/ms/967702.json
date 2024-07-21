@@ -1,1 +1,1 @@
-{"name": "Logam_alkali", "id": 967702, "predecessors": [{"name": "Kumpulan_unsur_kimia", "id": 84614}], "successors": [{"name": "Sebatian_sesium", "id": 949351}, {"name": "Sebatian_natrium", "id": 435157}, {"name": "Sebatian_kalium", "id": 968269}]}
+{"name": "Logam_alkali", "id": 967702, "predecessors": [{"name": "Bahan_bangunan", "id": 84631}], "successors": [{"name": "Sebatian_sesium", "id": 949351}, {"name": "Sebatian_natrium", "id": 435157}, {"name": "Sebatian_kalium", "id": 968269}]}

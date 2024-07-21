@@ -1,1 +1,1 @@
-{"name": "Parejas_casadas", "id": 7512167, "predecessors": [{"name": "Matrimonio", "id": 226899}, {"name": "Apellidos", "id": 183219}], "successors": [{"name": "Adán_y_Eva", "id": 7512139}]}
+{"name": "Parejas_casadas", "id": 7512167, "predecessors": [{"name": "Familias", "id": 2942491}, {"name": "Matrimonio", "id": 226899}], "successors": [{"name": "Adán_y_Eva", "id": 7512139}]}

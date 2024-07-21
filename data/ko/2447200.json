@@ -1,1 +1,1 @@
-{"name": "수단의_주도", "id": 2447200, "predecessors": [{"name": "수단의_도시", "id": 46368}], "successors": []}
+{"name": "수단의_주도", "id": 2447200, "predecessors": [{"name": "수단의_도시", "id": 46368}, {"name": "도시", "id": 11363}, {"name": "수단의_주", "id": 639105}], "successors": []}

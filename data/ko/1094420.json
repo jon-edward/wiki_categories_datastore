@@ -1,1 +1,1 @@
-{"name": "카누", "id": 1094420, "predecessors": [{"name": "개인_스포츠", "id": 11855}], "successors": []}
+{"name": "카누", "id": 1094420, "predecessors": [{"name": "개인_스포츠", "id": 11855}, {"name": "선박의_종류", "id": 1049984}], "successors": []}

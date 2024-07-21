@@ -1,1 +1,1 @@
-{"name": "Indoor_arenas_under_construction", "id": 35573553, "predecessors": [{"name": "Sports_venues_by_type", "id": 47719489}, {"name": "Buildings_and_structures_under_construction", "id": 28713017}], "successors": []}
+{"name": "Indoor_arenas_under_construction", "id": 35573553, "predecessors": [{"name": "Sports_venues_by_type", "id": 47719489}, {"name": "Sports_venues", "id": 3826004}], "successors": []}

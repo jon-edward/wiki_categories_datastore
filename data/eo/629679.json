@@ -1,1 +1,1 @@
-{"name": "Sekvoj_de_milito", "id": 629679, "predecessors": [{"name": "Paco", "id": 315913}, {"name": "Konfliktoj", "id": 410344}, {"name": "Kronologio", "id": 301409}, {"name": "Milito", "id": 132739}], "successors": [{"name": "Kemiaj_armiloj", "id": 306899}]}
+{"name": "Sekvoj_de_milito", "id": 629679, "predecessors": [{"name": "Paco", "id": 315913}, {"name": "Konfliktoj", "id": 410344}, {"name": "Kronologio", "id": 301409}, {"name": "Milito", "id": 132739}], "successors": [{"name": "Kemiaj_armiloj", "id": 306899}, {"name": "Militaj_monumentoj", "id": 632033}]}

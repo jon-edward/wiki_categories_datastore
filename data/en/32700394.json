@@ -1,1 +1,1 @@
-{"name": "Prague_Metro_stations", "id": 32700394, "predecessors": [{"name": "Railway_stations_in_Prague", "id": 32700427}, {"name": "Public_transport", "id": 700497}, {"name": "Economy_of_the_Czech_Republic", "id": 1818373}, {"name": "Railway_stations_by_type", "id": 72782274}], "successors": []}
+{"name": "Prague_Metro_stations", "id": 32700394, "predecessors": [{"name": "Railway_stations_in_Prague", "id": 32700427}, {"name": "Bohemia", "id": 10603371}, {"name": "Railway_stations_by_type", "id": 72782274}], "successors": []}

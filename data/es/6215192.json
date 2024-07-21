@@ -1,1 +1,1 @@
-{"name": "Sencillos_de_reguetón", "id": 6215192, "predecessors": [{"name": "Canciones_de_reguetón", "id": 6215182}, {"name": "Almacenamiento_de_audio", "id": 8786094}], "successors": [{"name": "Sencillos_de_Ozuna", "id": 7858600}, {"name": "Sencillos_de_Arcángel", "id": 8360894}]}
+{"name": "Sencillos_de_reguetón", "id": 6215192, "predecessors": [{"name": "Canciones_de_reguetón", "id": 6215182}, {"name": "Canciones", "id": 80948}], "successors": [{"name": "Sencillos_de_Ozuna", "id": 7858600}, {"name": "Sencillos_de_Arcángel", "id": 8360894}]}

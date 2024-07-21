@@ -1,1 +1,1 @@
-{"name": "Hazard_scales", "id": 25492319, "predecessors": [{"name": "Risk_management", "id": 25379032}, {"name": "Scales", "id": 731882}], "successors": [{"name": "Seismic_intensity_scales", "id": 55906969}, {"name": "Seismic_magnitude_scales", "id": 55906987}]}
+{"name": "Hazard_scales", "id": 25492319, "predecessors": [{"name": "Environmental_statistics", "id": 25345834}, {"name": "Risk_management", "id": 25379032}, {"name": "Scales", "id": 731882}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Tank_brigades", "id": 75551885, "predecessors": [{"name": "Tanks", "id": 786411}], "successors": [{"name": "Tank_brigades_of_the_Soviet_Union", "id": 49432952}]}
+{"name": "Tank_brigades", "id": 75551885, "predecessors": [{"name": "Tanks", "id": 786411}, {"name": "Armoured_warfare", "id": 4929197}], "successors": []}

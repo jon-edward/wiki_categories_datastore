@@ -1,1 +1,1 @@
-{"name": "Miel", "id": 2232224, "predecessors": [{"name": "Alimentos_de_desayuno", "id": 581526}, {"name": "Apicultura", "id": 74792}, {"name": "Dulces", "id": 51277}, {"name": "Edulcorantes", "id": 252048}, {"name": "Ingredientes_culinarios", "id": 3146307}], "successors": [{"name": "Bebidas_con_miel", "id": 9360874}]}
+{"name": "Miel", "id": 2232224, "predecessors": [{"name": "Apicultura", "id": 74792}, {"name": "Dulces", "id": 51277}, {"name": "Edulcorantes", "id": 252048}, {"name": "Ingredientes_culinarios", "id": 3146307}], "successors": []}

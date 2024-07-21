@@ -1,1 +1,1 @@
-{"name": "Kerajaan_Jepun", "id": 1043036, "predecessors": [{"name": "Jepun", "id": 8521}], "successors": [{"name": "Perdana_Menteri_Jepun", "id": 8642}, {"name": "Tentera_Jepun", "id": 162390}, {"name": "Hubungan_luar_negeri_Jepun", "id": 886448}]}
+{"name": "Kerajaan_Jepun", "id": 1043036, "predecessors": [{"name": "Jepun", "id": 8521}, {"name": "Pemerintahan", "id": 160073}], "successors": [{"name": "Perdana_Menteri_Jepun", "id": 8642}, {"name": "Tentera_Jepun", "id": 162390}, {"name": "Hubungan_luar_negeri_Jepun", "id": 886448}]}

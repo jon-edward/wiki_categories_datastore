@@ -1,1 +1,1 @@
-{"name": "Aplikasi_web", "id": 1158294, "predecessors": [{"name": "Antara_muka_grafik_pengguna", "id": 120975}, {"name": "Web_2.0", "id": 166220}, {"name": "Perisian", "id": 33604}], "successors": [{"name": "Mata_wang_kripto", "id": 1158289}]}
+{"name": "Aplikasi_web", "id": 1158294, "predecessors": [{"name": "Antara_muka_grafik_pengguna", "id": 120975}, {"name": "Web_2.0", "id": 166220}, {"name": "Sains_komputer", "id": 42047}, {"name": "Perisian", "id": 33604}], "successors": [{"name": "Mata_wang_kripto", "id": 1158289}]}

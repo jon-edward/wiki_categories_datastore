@@ -1,1 +1,1 @@
-{"name": "Paperfabrikado", "id": 574469, "predecessors": [{"name": "Libroj", "id": 52362}, {"name": "Manaj_profesioj", "id": 388284}, {"name": "Paperoj", "id": 210969}, {"name": "Fabrikado", "id": 91389}], "successors": []}
+{"name": "Paperfabrikado", "id": 574469, "predecessors": [{"name": "Industriaj_procezoj", "id": 439503}, {"name": "Libroj", "id": 52362}, {"name": "Manaj_profesioj", "id": 388284}, {"name": "Paperoj", "id": 210969}], "successors": []}

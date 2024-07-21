@@ -1,1 +1,1 @@
-{"name": "Política_y_raza", "id": 8754068, "predecessors": [{"name": "Política_por_tipo", "id": 5065903}, {"name": "Raza_y_sociedad", "id": 5868276}], "successors": [{"name": "Política_identitaria", "id": 8754063}]}
+{"name": "Política_y_raza", "id": 8754068, "predecessors": [{"name": "Raza_y_sociedad", "id": 5868276}], "successors": [{"name": "Política_identitaria", "id": 8754063}]}

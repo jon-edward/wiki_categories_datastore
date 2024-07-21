@@ -1,1 +1,1 @@
-{"name": "Debit_card_issuer_associations", "id": 40122575, "predecessors": [{"name": "Debit_cards", "id": 1148094}, {"name": "Payment_cards", "id": 41632361}], "successors": []}
+{"name": "Debit_card_issuer_associations", "id": 40122575, "predecessors": [{"name": "Debit_cards", "id": 1148094}], "successors": []}

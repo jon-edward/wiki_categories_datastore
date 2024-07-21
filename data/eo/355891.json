@@ -1,1 +1,1 @@
-{"name": "Observatorioj_en_Usono", "id": 355891, "predecessors": [{"name": "Konstruaĵoj_en_Usono", "id": 258472}, {"name": "Astronomio", "id": 29778}, {"name": "Nordameriko", "id": 32445}], "successors": [{"name": "Observatorioj_en_Arizono", "id": 809238}]}
+{"name": "Observatorioj_en_Usono", "id": 355891, "predecessors": [{"name": "Astronomio_en_Usono", "id": 572675}, {"name": "Konstruaĵoj_en_Usono", "id": 258472}, {"name": "Astronomio", "id": 29778}], "successors": [{"name": "Observatorioj_en_Arizono", "id": 809238}]}

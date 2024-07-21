@@ -1,1 +1,1 @@
-{"name": "Kinaj_movadoj", "id": 641546, "predecessors": [{"name": "Artaj_movadoj", "id": 52868}, {"name": "Historio_de_kino", "id": 447280}, {"name": "Estetiko", "id": 82488}], "successors": [{"name": "Nova_Ondo_en_kino", "id": 641545}]}
+{"name": "Kinaj_movadoj", "id": 641546, "predecessors": [{"name": "Artaj_movadoj", "id": 52868}, {"name": "Historio_de_kino", "id": 447280}, {"name": "Kina_teorio", "id": 439142}], "successors": [{"name": "Nova_Ondo_en_kino", "id": 641545}]}

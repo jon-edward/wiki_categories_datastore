@@ -1,1 +1,1 @@
-{"name": "Proprietary_software_for_macOS", "id": 74766492, "predecessors": [{"name": "MacOS_software", "id": 39076490}, {"name": "Proprietary_software", "id": 8401067}], "successors": [{"name": "Adobe_Creative_Suite", "id": 4459570}, {"name": "MacOS-only_proprietary_software", "id": 74767877}]}
+{"name": "Proprietary_software_for_macOS", "id": 74766492, "predecessors": [{"name": "MacOS_software", "id": 39076490}], "successors": [{"name": "Adobe_Creative_Suite", "id": 4459570}, {"name": "MacOS-only_proprietary_software", "id": 74767877}]}

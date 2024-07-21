@@ -1,1 +1,1 @@
-{"name": "MTR_Light_Rail_stops", "id": 41749238, "predecessors": [{"name": "New_Territories", "id": 1914038}, {"name": "MTR", "id": 1390980}, {"name": "Passenger_rail_transport_in_China", "id": 37504720}], "successors": [{"name": "MTR_Light_Rail_stops_named_from_housing_estates", "id": 51279360}]}
+{"name": "MTR_Light_Rail_stops", "id": 41749238, "predecessors": [{"name": "MTR", "id": 1390980}], "successors": [{"name": "MTR_Light_Rail_stops_named_from_housing_estates", "id": 51279360}]}

@@ -1,1 +1,1 @@
-{"name": "Proteínas_con_hierro", "id": 6114261, "predecessors": [{"name": "Compuestos_organometálicos", "id": 553198}], "successors": [{"name": "Proteínas_con_hierro_y_azufre", "id": 6114260}]}
+{"name": "Proteínas_con_hierro", "id": 6114261, "predecessors": [{"name": "Compuestos_de_hierro", "id": 2754374}, {"name": "Compuestos_organometálicos", "id": 553198}], "successors": [{"name": "Proteínas_con_hierro_y_azufre", "id": 6114260}]}

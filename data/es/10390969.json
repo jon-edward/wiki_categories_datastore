@@ -1,1 +1,1 @@
-{"name": "Videojuegos_publicitarios", "id": 10390969, "predecessors": [{"name": "Publicidad", "id": 85058}, {"name": "Videojuegos", "id": 61224}, {"name": "Cultura", "id": 51310}], "successors": [{"name": "Videojuegos_de_fabricantes_de_vehículos", "id": 9877346}]}
+{"name": "Videojuegos_publicitarios", "id": 10390969, "predecessors": [{"name": "Publicidad", "id": 85058}, {"name": "Tipos_de_videojuegos", "id": 5167894}, {"name": "Cultura", "id": 51310}], "successors": [{"name": "Videojuegos_de_fabricantes_de_vehículos", "id": 9877346}]}

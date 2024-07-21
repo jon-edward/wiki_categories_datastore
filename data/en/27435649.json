@@ -1,1 +1,1 @@
-{"name": "Japanese_bankers", "id": 27435649, "predecessors": [{"name": "Banking_by_country", "id": 5578355}, {"name": "Japanese_businesspeople", "id": 1672255}], "successors": [{"name": "Governors_of_the_Bank_of_Japan", "id": 32873676}]}
+{"name": "Japanese_bankers", "id": 27435649, "predecessors": [{"name": "Bankers", "id": 855391}, {"name": "Industry_in_Japan", "id": 33133726}, {"name": "Banking_by_country", "id": 5578355}], "successors": [{"name": "Governors_of_the_Bank_of_Japan", "id": 32873676}]}

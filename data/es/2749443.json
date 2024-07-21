@@ -1,1 +1,1 @@
-{"name": "Ciclismo_en_1995", "id": 2749443, "predecessors": [{"name": "Ciclismo", "id": 52744}], "successors": [{"name": "Copa_del_Mundo_de_Ciclismo_de_1995", "id": 3639879}]}
+{"name": "Ciclismo_en_1995", "id": 2749443, "predecessors": [{"name": "Deporte_en_1995", "id": 1421986}, {"name": "Sociedad", "id": 61818}], "successors": [{"name": "Copa_del_Mundo_de_Ciclismo_de_1995", "id": 3639879}]}

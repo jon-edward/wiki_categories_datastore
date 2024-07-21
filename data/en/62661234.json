@@ -1,1 +1,1 @@
-{"name": "Television_episodes_about_weapons", "id": 62661234, "predecessors": [{"name": "Topics_in_popular_culture", "id": 26789827}], "successors": [{"name": "Television_episodes_about_nuclear_war_and_weapons", "id": 62660999}]}
+{"name": "Television_episodes_about_weapons", "id": 62661234, "predecessors": [{"name": "Television_shows_about_weaponry", "id": 47419785}, {"name": "Social_commentary", "id": 39015576}, {"name": "Science_fiction", "id": 692725}], "successors": [{"name": "Television_episodes_about_nuclear_war_and_weapons", "id": 62660999}]}

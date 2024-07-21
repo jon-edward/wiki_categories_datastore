@@ -1,1 +1,1 @@
-{"name": "A-League", "id": 4382900, "predecessors": [{"name": "Ligas_de_fútbol_de_Primera_División_de_Asia", "id": 5402869}, {"name": "Fútbol", "id": 49834}, {"name": "Deporte", "id": 50825}], "successors": [{"name": "Equipos_de_la_A-League", "id": 4131118}]}
+{"name": "A-League", "id": 4382900, "predecessors": [{"name": "Ligas_de_fútbol_de_Primera_División_de_Asia", "id": 5402869}, {"name": "Cultura", "id": 51310}, {"name": "Deporte_en_Australia", "id": 4168620}], "successors": [{"name": "Equipos_de_la_A-League", "id": 4131118}]}

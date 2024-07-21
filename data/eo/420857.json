@@ -1,1 +1,1 @@
-{"name": "Dioj_pri_vetero", "id": 420857, "predecessors": [{"name": "Dioj", "id": 257996}], "successors": [{"name": "Fulmodioj", "id": 420937}, {"name": "Odino", "id": 588372}]}
+{"name": "Dioj_pri_vetero", "id": 420857, "predecessors": [{"name": "Dioj", "id": 257996}], "successors": [{"name": "Fulmodioj", "id": 420937}, {"name": "Dioj_pri_vento", "id": 508329}, {"name": "Odino", "id": 588372}]}

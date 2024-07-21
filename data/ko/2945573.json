@@ -1,1 +1,1 @@
-{"name": "우산과_양산", "id": 2945573, "predecessors": [{"name": "보호_장비", "id": 2685588}, {"name": "장신구", "id": 40766}], "successors": []}
+{"name": "우산과_양산", "id": 2945573, "predecessors": [{"name": "보호_장비", "id": 2685588}, {"name": "비_(날씨)", "id": 659622}, {"name": "장신구", "id": 40766}], "successors": []}

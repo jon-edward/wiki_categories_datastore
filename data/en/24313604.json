@@ -1,1 +1,1 @@
-{"name": "Civil_servants_in_HM_Treasury", "id": 24313604, "predecessors": [{"name": "Government_officials", "id": 8567895}], "successors": []}
+{"name": "Civil_servants_in_HM_Treasury", "id": 24313604, "predecessors": [{"name": "HM_Treasury", "id": 17478999}], "successors": [{"name": "Permanent_Secretaries_of_HM_Treasury", "id": 24313574}, {"name": "Second_Permanent_Secretaries_of_HM_Treasury", "id": 24340590}]}

@@ -1,1 +1,1 @@
-{"name": "Siuntion_järvet", "id": 1561250, "predecessors": [{"name": "Siuntion_luonto", "id": 1788560}, {"name": "Euroopan_maantiede", "id": 99569}, {"name": "Hallinto", "id": 26870}], "successors": []}
+{"name": "Siuntion_järvet", "id": 1561250, "predecessors": [{"name": "Euroopan_maantiede", "id": 99569}, {"name": "Hallinto", "id": 26870}, {"name": "Siuntio", "id": 94928}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Nature_reserves_in_Spain", "id": 70156084, "predecessors": [{"name": "Environment_of_the_Mediterranean", "id": 14986916}, {"name": "Geography_of_Spain", "id": 848216}], "successors": [{"name": "Natural_parks_of_Spain", "id": 8641917}]}
+{"name": "Nature_reserves_in_Spain", "id": 70156084, "predecessors": [{"name": "Nature_conservation", "id": 737124}], "successors": [{"name": "Natural_parks_of_Spain", "id": 8641917}]}

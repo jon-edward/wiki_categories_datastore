@@ -1,1 +1,1 @@
-{"name": "Performances", "id": 7357900, "predecessors": [{"name": "Performance_art", "id": 1034281}, {"name": "Copyright_law", "id": 702268}], "successors": [{"name": "Endurance_art_performances", "id": 74907247}]}
+{"name": "Performances", "id": 7357900, "predecessors": [{"name": "Arts_events", "id": 27486124}, {"name": "Performance_art", "id": 1034281}, {"name": "Performing_arts", "id": 991222}], "successors": [{"name": "Endurance_art_performances", "id": 74907247}]}

@@ -1,1 +1,1 @@
-{"name": "Kohlensäureester", "id": 3492703, "predecessors": [{"name": "Kohlenstoffverbindung", "id": 1958520}, {"name": "Sauerstoffverbindung", "id": 1958642}, {"name": "Chemie", "id": 235238}], "successors": [{"name": "Chlorameisensäureester", "id": 12905518}]}
+{"name": "Kohlensäureester", "id": 3492703, "predecessors": [{"name": "Kohlensäureverbindung", "id": 13153846}, {"name": "Chemie", "id": 235238}], "successors": [{"name": "Chlorameisensäureester", "id": 12905518}]}

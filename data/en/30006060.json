@@ -1,1 +1,1 @@
-{"name": "Tankettes", "id": 30006060, "predecessors": [{"name": "Armoured_fighting_vehicles_by_type", "id": 12201237}, {"name": "Tracked_armoured_fighting_vehicles", "id": 33337062}], "successors": [{"name": "World_War_II_tankettes", "id": 38555450}, {"name": "Tankettes_of_the_interwar_period", "id": 41582014}]}
+{"name": "Tankettes", "id": 30006060, "predecessors": [{"name": "Tracked_armoured_fighting_vehicles", "id": 33337062}], "successors": [{"name": "World_War_II_tankettes", "id": 38555450}, {"name": "Tankettes_of_the_interwar_period", "id": 41582014}]}

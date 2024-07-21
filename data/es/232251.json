@@ -1,1 +1,1 @@
-{"name": "Hostelería", "id": 232251, "predecessors": [{"name": "Turismo", "id": 55707}], "successors": [{"name": "Hoteles", "id": 232252}, {"name": "Ocupaciones_de_la_hostelería", "id": 5070906}]}
+{"name": "Hostelería", "id": 232251, "predecessors": [{"name": "Turismo", "id": 55707}], "successors": [{"name": "Hoteles", "id": 232252}, {"name": "Ocupaciones_de_la_hostelería", "id": 5070906}, {"name": "Restauración", "id": 6512508}, {"name": "Escuelas_de_cocina", "id": 7281100}]}

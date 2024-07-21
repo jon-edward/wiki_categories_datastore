@@ -1,1 +1,1 @@
-{"name": "Proses_sel", "id": 306049, "predecessors": [{"name": "Biologi_sel", "id": 84878}, {"name": "Biologi", "id": 11181}], "successors": [{"name": "Metabolisme", "id": 306048}, {"name": "Ekspresi_gen", "id": 1156713}]}
+{"name": "Proses_sel", "id": 306049, "predecessors": [{"name": "Biologi", "id": 11181}], "successors": [{"name": "Metabolisme", "id": 306048}, {"name": "Ekspresi_gen", "id": 1156713}, {"name": "Pengisyaratan_sel", "id": 1134309}]}
