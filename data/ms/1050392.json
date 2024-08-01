@@ -1,1 +1,1 @@
-{"name": "Ulama_tafsir", "id": 1050392, "predecessors": [{"name": "Ulama", "id": 878296}, {"name": "Pembacaan_Quran", "id": 1142626}], "successors": []}
+{"name": "Ulama_tafsir", "id": 1050392, "predecessors": [{"name": "Ulama", "id": 878296}, {"name": "Quran", "id": 95107}], "successors": []}

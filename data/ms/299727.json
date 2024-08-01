@@ -1,1 +1,1 @@
-{"name": "Siklon_tropika", "id": 299727, "predecessors": [{"name": "Meteorologi", "id": 71588}, {"name": "Tropika", "id": 82106}, {"name": "Ribut", "id": 61675}, {"name": "Cuaca", "id": 39507}], "successors": [{"name": "Taufan", "id": 73262}]}
+{"name": "Siklon_tropika", "id": 299727, "predecessors": [{"name": "Meteorologi", "id": 71588}, {"name": "Tropika", "id": 82106}, {"name": "Ribut", "id": 61675}, {"name": "Cuaca", "id": 39507}, {"name": "Dinamik_bendalir", "id": 299731}], "successors": [{"name": "Taufan", "id": 73262}]}

@@ -1,1 +1,1 @@
-{"name": "Echipament_de_telecomunicații", "id": 750726, "predecessors": [{"name": "Echipament_electric", "id": 301837}, {"name": "Telecomunicații", "id": 760304}], "successors": [{"name": "Echipament_de_rețelizare", "id": 1045733}, {"name": "Rutere", "id": 2361869}]}
+{"name": "Echipament_de_telecomunicații", "id": 750726, "predecessors": [{"name": "Telecomunicații", "id": 760304}], "successors": [{"name": "Echipament_de_rețelizare", "id": 1045733}, {"name": "Rutere", "id": 2361869}, {"name": "Telefoane_mobile", "id": 449517}]}

@@ -1,1 +1,1 @@
-{"name": "Amiga_APIs", "id": 28066568, "predecessors": [{"name": "AmigaOS", "id": 4905727}, {"name": "MorphOS", "id": 28052992}], "successors": []}
+{"name": "Amiga_APIs", "id": 28066568, "predecessors": [{"name": "AmigaOS", "id": 4905727}, {"name": "MorphOS", "id": 28052992}, {"name": "Operating_system_APIs", "id": 17494760}], "successors": []}

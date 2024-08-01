@@ -1,1 +1,0 @@
-{"name": "Transportaj_infrastrukturoj", "id": 505829, "predecessors": [{"name": "Infrastrukturo", "id": 482043}, {"name": "Transporto", "id": 51301}], "successors": [{"name": "Bicikla_infrastrukturo", "id": 609818}, {"name": "Ŝosea_infrastrukturo", "id": 609819}, {"name": "Dokoj", "id": 611314}, {"name": "Liftoj", "id": 664779}]}

@@ -1,1 +1,1 @@
-{"name": "Campanian_species_extinctions", "id": 54302048, "predecessors": [{"name": "Campanian_extinctions", "id": 47578563}, {"name": "Cretaceous_extinctions", "id": 3452000}, {"name": "Campanian_life", "id": 51855637}], "successors": []}
+{"name": "Campanian_species_extinctions", "id": 54302048, "predecessors": [{"name": "Campanian_life", "id": 51855637}, {"name": "Cretaceous_extinctions", "id": 3452000}], "successors": []}

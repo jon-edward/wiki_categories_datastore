@@ -1,1 +1,1 @@
-{"name": "HuffPost_bloggers", "id": 65340520, "predecessors": [{"name": "Blogging", "id": 10339499}], "successors": []}
+{"name": "HuffPost_bloggers", "id": 65340520, "predecessors": [{"name": "HuffPost_writers_and_columnists", "id": 36197198}, {"name": "Blogging", "id": 10339499}], "successors": []}

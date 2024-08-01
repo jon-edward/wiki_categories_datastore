@@ -1,1 +1,0 @@
-{"name": "Penyiaran", "id": 112042, "predecessors": [{"name": "Media_massa", "id": 30125}, {"name": "Telekomunikasi", "id": 16590}], "successors": [{"name": "Radio", "id": 57651}, {"name": "Senarai_penyiaran", "id": 90118}, {"name": "Kejuruteraan_penyiaran", "id": 110889}, {"name": "Penyiar_biayaan_awam", "id": 176216}]}

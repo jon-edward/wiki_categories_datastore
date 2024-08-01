@@ -1,1 +1,0 @@
-{"name": "Technologie_médicale", "id": 4013345, "predecessors": [{"name": "Ressource_en_médecine", "id": 1444476}, {"name": "Outil", "id": 104861}, {"name": "Technologie", "id": 84695}], "successors": [{"name": "Équipement_médical", "id": 322205}, {"name": "Imagerie_médicale", "id": 322267}, {"name": "Informatique_médicale", "id": 843798}, {"name": "Prothèse", "id": 2681548}]}

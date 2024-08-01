@@ -1,1 +1,1 @@
-{"name": "Scrolling_shooters", "id": 722665, "predecessors": [{"name": "Scrolling", "id": 77146646}], "successors": [{"name": "Horizontally_scrolling_shooters", "id": 46882973}, {"name": "Vertically_scrolling_shooters", "id": 46890464}]}
+{"name": "Scrolling_shooters", "id": 722665, "predecessors": [{"name": "Demo_effects", "id": 4981154}], "successors": [{"name": "Horizontally_scrolling_shooters", "id": 46882973}, {"name": "Vertically_scrolling_shooters", "id": 46890464}]}

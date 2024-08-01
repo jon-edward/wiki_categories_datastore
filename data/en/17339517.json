@@ -1,1 +1,0 @@
-{"name": "Hybrid_electric_buses", "id": 17339517, "predecessors": [{"name": "Buses_by_type", "id": 17199845}, {"name": "Electric_buses", "id": 9267300}, {"name": "Hybrid_electric_vehicles", "id": 9483010}], "successors": [{"name": "Hybrid_electric_bus_manufacturers", "id": 17967585}]}

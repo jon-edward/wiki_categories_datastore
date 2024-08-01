@@ -1,1 +1,1 @@
-{"name": "Alat_tulis", "id": 82242, "predecessors": [{"name": "Bahan_seni", "id": 82245}, {"name": "Teknologi_media", "id": 163789}, {"name": "Penulisan", "id": 82243}], "successors": []}
+{"name": "Alat_tulis", "id": 82242, "predecessors": [{"name": "Bahan_seni", "id": 82245}, {"name": "Kemahiran", "id": 82071}, {"name": "Penulisan", "id": 82243}], "successors": []}

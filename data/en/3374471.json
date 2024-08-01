@@ -1,1 +1,1 @@
-{"name": "Oil_fields_of_Russia", "id": 3374471, "predecessors": [{"name": "Economy_of_Russia", "id": 1298212}], "successors": [{"name": "Gazprom_oil_and_gas_fields", "id": 24773662}]}
+{"name": "Oil_fields_of_Russia", "id": 3374471, "predecessors": [{"name": "Geology_of_Russia", "id": 18838350}, {"name": "Petroleum_by_country", "id": 23733743}], "successors": [{"name": "Gazprom_oil_and_gas_fields", "id": 24773662}]}

@@ -1,1 +1,1 @@
-{"name": "Public_transportation_in_San_Diego_County,_California", "id": 18926454, "predecessors": [{"name": "Transportation_in_San_Diego_County,_California", "id": 17464847}], "successors": [{"name": "North_County_Transit_District_stations", "id": 19004247}]}
+{"name": "Public_transportation_in_San_Diego_County,_California", "id": 18926454, "predecessors": [{"name": "Public_transportation_in_Southern_California", "id": 28455948}, {"name": "Transportation_in_San_Diego_County,_California", "id": 17464847}, {"name": "Government_of_California", "id": 1380069}], "successors": []}

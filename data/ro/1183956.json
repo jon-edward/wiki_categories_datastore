@@ -1,1 +1,1 @@
-{"name": "Aer", "id": 1183956, "predecessors": [{"name": "Elemente_clasice", "id": 110766}, {"name": "Gaze", "id": 23118}, {"name": "Respirație", "id": 759720}], "successors": [{"name": "Azot", "id": 739062}, {"name": "Oxigen", "id": 886870}]}
+{"name": "Aer", "id": 1183956, "predecessors": [{"name": "Elemente_clasice", "id": 110766}, {"name": "Gaze", "id": 23118}, {"name": "Respirație", "id": 759720}], "successors": []}

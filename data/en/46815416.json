@@ -1,1 +1,1 @@
-{"name": "City_name_changes", "id": 46815416, "predecessors": [{"name": "Geographical_renaming", "id": 46815444}, {"name": "Cities", "id": 699805}], "successors": [{"name": "Lists_of_renamed_cities", "id": 77002317}]}
+{"name": "City_name_changes", "id": 46815416, "predecessors": [{"name": "Geographical_renaming", "id": 46815444}, {"name": "City", "id": 9467493}], "successors": [{"name": "Lists_of_renamed_cities", "id": 77002317}]}

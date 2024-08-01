@@ -1,1 +1,1 @@
-{"name": "Science_blogs", "id": 6825375, "predecessors": [{"name": "Science_writing", "id": 8995099}, {"name": "Science_fiction", "id": 692725}], "successors": [{"name": "Science_bloggers", "id": 6825379}]}
+{"name": "Science_blogs", "id": 6825375, "predecessors": [{"name": "Journalism", "id": 698307}, {"name": "Science_fiction", "id": 692725}], "successors": [{"name": "Science_bloggers", "id": 6825379}]}

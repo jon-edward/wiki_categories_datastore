@@ -1,1 +1,1 @@
-{"name": "Ansari_X_Prize", "id": 37984133, "predecessors": [{"name": "Challenge_awards", "id": 13822436}, {"name": "Private_spaceflight", "id": 1040005}, {"name": "X_Prizes", "id": 28837543}], "successors": []}
+{"name": "Ansari_X_Prize", "id": 37984133, "predecessors": [{"name": "Challenge_awards", "id": 13822436}, {"name": "Private_spaceflight", "id": 1040005}, {"name": "Space-related_awards", "id": 13822362}, {"name": "American_science_and_technology_awards", "id": 28821749}], "successors": [{"name": "Scaled_Composites_Tier_One_program", "id": 35265961}]}

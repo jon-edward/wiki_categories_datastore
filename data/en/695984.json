@@ -1,1 +1,1 @@
-{"name": "Perchlorates", "id": 695984, "predecessors": [{"name": "Chlorine_compounds", "id": 1921889}], "successors": []}
+{"name": "Perchlorates", "id": 695984, "predecessors": [{"name": "Oxygen_compounds", "id": 1692041}, {"name": "Salts", "id": 695960}, {"name": "Oxidizing_agents", "id": 13304159}, {"name": "Hypervalent_molecules", "id": 48667775}], "successors": []}

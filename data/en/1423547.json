@@ -1,1 +1,1 @@
-{"name": "Incense", "id": 1423547, "predecessors": [{"name": "Magic_substances", "id": 35999096}, {"name": "Perfumery", "id": 1194342}], "successors": [{"name": "Incense_material", "id": 38488422}, {"name": "Incense_equipment", "id": 38498130}]}
+{"name": "Incense", "id": 1423547, "predecessors": [{"name": "Perfumery", "id": 1194342}, {"name": "Fiction_about_magic", "id": 8012477}], "successors": [{"name": "Incense_material", "id": 38488422}]}

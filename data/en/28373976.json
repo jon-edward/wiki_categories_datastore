@@ -1,1 +1,1 @@
-{"name": "Restaurant_franchises", "id": 28373976, "predecessors": [{"name": "Franchises", "id": 2609054}], "successors": [{"name": "Hard_Rock_Cafe", "id": 27161222}]}
+{"name": "Restaurant_franchises", "id": 28373976, "predecessors": [{"name": "Franchises", "id": 2609054}, {"name": "Restaurant_chains", "id": 6105715}], "successors": [{"name": "Fast-food_franchises", "id": 3679571}, {"name": "Hard_Rock_Cafe", "id": 27161222}]}

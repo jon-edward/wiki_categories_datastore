@@ -1,1 +1,0 @@
-{"name": "File_archivers", "id": 20094145, "predecessors": [{"name": "Computer_archives", "id": 24981816}, {"name": "Computer_file_systems", "id": 754856}], "successors": [{"name": "Unix_archivers_and_compression-related_utilities", "id": 25608601}, {"name": "Backup_software_for_macOS", "id": 41554120}, {"name": "Windows_compression_software", "id": 1323582}]}

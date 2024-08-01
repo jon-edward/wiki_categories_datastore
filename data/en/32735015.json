@@ -1,1 +1,1 @@
-{"name": "Arduino", "id": 32735015, "predecessors": [{"name": "Open_hardware_electronic_devices", "id": 33505774}], "successors": []}
+{"name": "Arduino", "id": 32735015, "predecessors": [{"name": "Microcontrollers", "id": 841124}, {"name": "Open_hardware_electronic_devices", "id": 33505774}], "successors": []}

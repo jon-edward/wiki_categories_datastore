@@ -1,1 +1,1 @@
-{"name": "Liste_de_băuturi", "id": 790248, "predecessors": [{"name": "Liste_de_produse", "id": 2994165}, {"name": "Liste_legate_de_alimentație", "id": 790195}], "successors": []}
+{"name": "Liste_de_băuturi", "id": 790248, "predecessors": [{"name": "Băuturi", "id": 12190}, {"name": "Liste_de_produse", "id": 2994165}, {"name": "Liste_legate_de_alimentație", "id": 790195}], "successors": []}

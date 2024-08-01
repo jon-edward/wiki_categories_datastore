@@ -1,1 +1,1 @@
-{"name": "DECT", "id": 76453646, "predecessors": [{"name": "Mobile_telecommunications", "id": 21149106}, {"name": "Wireless_networking_standards", "id": 30937032}], "successors": []}
+{"name": "DECT", "id": 76453646, "predecessors": [{"name": "Mobile_telecommunications", "id": 21149106}, {"name": "Telecommunications_standards", "id": 30809617}], "successors": []}

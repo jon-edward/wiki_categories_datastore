@@ -1,1 +1,1 @@
-{"name": "Marvel_Comics_cyborgs", "id": 70580459, "predecessors": [{"name": "Marvel_Comics_robots", "id": 1931761}, {"name": "Marvel_Comics_species", "id": 707701}], "successors": [{"name": "Iron_Man", "id": 4420473}, {"name": "Rom_the_Space_Knight", "id": 52333915}]}
+{"name": "Marvel_Comics_cyborgs", "id": 70580459, "predecessors": [{"name": "Marvel_Comics_robots", "id": 1931761}, {"name": "Marvel_Comics_species", "id": 707701}, {"name": "Cyborg_comics", "id": 47581652}], "successors": [{"name": "Iron_Man", "id": 4420473}, {"name": "Rom_the_Space_Knight", "id": 52333915}]}

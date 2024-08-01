@@ -1,1 +1,1 @@
-{"name": "Kertas", "id": 162400, "predecessors": [{"name": "Penerbitan", "id": 83796}, {"name": "Bahan", "id": 58300}], "successors": []}
+{"name": "Kertas", "id": 162400, "predecessors": [{"name": "Reka_bentuk_grafik", "id": 82079}, {"name": "Bahan", "id": 58300}], "successors": []}

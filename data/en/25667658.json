@@ -1,1 +1,1 @@
-{"name": "Vacuum_cleaner_manufacturers", "id": 25667658, "predecessors": [{"name": "Home_appliance_manufacturers", "id": 2235622}, {"name": "Vacuum_cleaners", "id": 4988891}], "successors": [{"name": "Samsung_Electronics", "id": 8819811}, {"name": "LG_Electronics", "id": 36064867}]}
+{"name": "Vacuum_cleaner_manufacturers", "id": 25667658, "predecessors": [{"name": "Vacuum_cleaners", "id": 4988891}], "successors": [{"name": "Samsung_Electronics", "id": 8819811}, {"name": "LG_Electronics", "id": 36064867}]}

@@ -1,1 +1,1 @@
-{"name": "Păr_uman", "id": 1706500, "predecessors": [{"name": "Anatomia_capului_și_gâtului", "id": 1242356}, {"name": "Aspectul_uman", "id": 1706506}, {"name": "Sistemul_tegumentar", "id": 287598}, {"name": "Anatomie_animală", "id": 953926}], "successors": []}
+{"name": "Păr_uman", "id": 1706500, "predecessors": [{"name": "Anatomia_capului_și_gâtului", "id": 1242356}, {"name": "Aspectul_uman", "id": 1706506}, {"name": "Anatomie_animală", "id": 953926}], "successors": [{"name": "Păr_facial", "id": 2253597}]}

@@ -1,1 +1,1 @@
-{"name": "Wearable_art", "id": 23880525, "predecessors": [{"name": "Textile_arts", "id": 945184}, {"name": "Visual_arts_genres", "id": 1209735}], "successors": [{"name": "Types_of_jewellery", "id": 20089431}]}
+{"name": "Wearable_art", "id": 23880525, "predecessors": [{"name": "Fashion_accessories", "id": 15132951}, {"name": "Textile_arts", "id": 945184}, {"name": "Visual_arts_genres", "id": 1209735}, {"name": "Clothing_by_material", "id": 21192113}], "successors": [{"name": "Types_of_jewellery", "id": 20089431}]}

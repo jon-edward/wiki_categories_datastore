@@ -1,1 +1,1 @@
-{"name": "Alabaster", "id": 43814059, "predecessors": [{"name": "Sculpture_materials", "id": 10308784}, {"name": "Stone_(material)", "id": 3975504}, {"name": "Sulfate_minerals", "id": 1090973}], "successors": []}
+{"name": "Alabaster", "id": 43814059, "predecessors": [{"name": "Calcium_minerals", "id": 3899163}, {"name": "Minerals", "id": 708104}, {"name": "Sculpture_materials", "id": 10308784}, {"name": "Stone_(material)", "id": 3975504}, {"name": "Sulfate_minerals", "id": 1090973}], "successors": []}

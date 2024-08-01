@@ -1,1 +1,1 @@
-{"name": "Real-time_operating_systems", "id": 2148723, "predecessors": [{"name": "Real-time_computing", "id": 2440348}], "successors": [{"name": "Windows_CE", "id": 6100535}, {"name": "Inferno_(operating_system)", "id": 34446733}, {"name": "TRON_project", "id": 52701937}]}
+{"name": "Real-time_operating_systems", "id": 2148723, "predecessors": [{"name": "Operating_systems", "id": 693664}, {"name": "Real-time_computing", "id": 2440348}], "successors": [{"name": "Windows_CE", "id": 6100535}, {"name": "Inferno_(operating_system)", "id": 34446733}]}

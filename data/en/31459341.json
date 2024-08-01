@@ -1,1 +1,1 @@
-{"name": "Spheres", "id": 31459341, "predecessors": [{"name": "Elementary_shapes", "id": 33759104}, {"name": "Euclidean_solid_geometry", "id": 3196008}], "successors": [{"name": "Spherical_trigonometry", "id": 1636191}, {"name": "Spherical_geometry", "id": 33755906}, {"name": "Balls", "id": 5773898}]}
+{"name": "Spheres", "id": 31459341, "predecessors": [{"name": "Elementary_shapes", "id": 33759104}, {"name": "Euclidean_solid_geometry", "id": 3196008}], "successors": [{"name": "Spherical_trigonometry", "id": 1636191}, {"name": "Spherical_geometry", "id": 33755906}]}

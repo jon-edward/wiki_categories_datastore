@@ -1,1 +1,1 @@
-{"name": "Reference_models", "id": 10642820, "predecessors": [{"name": "Enterprise_architecture", "id": 12120882}], "successors": [{"name": "Enterprise_architecture_frameworks", "id": 34167108}, {"name": "OSI_model", "id": 55360985}]}
+{"name": "Reference_models", "id": 10642820, "predecessors": [{"name": "Conceptual_models", "id": 1162192}, {"name": "Enterprise_architecture", "id": 12120882}], "successors": [{"name": "Enterprise_architecture_frameworks", "id": 34167108}, {"name": "OSI_model", "id": 55360985}]}

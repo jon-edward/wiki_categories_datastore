@@ -1,1 +1,1 @@
-{"name": "Infrastrukturo", "id": 482043, "predecessors": [{"name": "Konstruaĵoj", "id": 63960}, {"name": "Konstruado", "id": 298889}], "successors": [{"name": "Transportaj_infrastrukturoj", "id": 505829}, {"name": "Publika_spaco", "id": 718069}, {"name": "Transportaj_kompanioj", "id": 602309}]}
+{"name": "Infrastrukturo", "id": 482043, "predecessors": [{"name": "Konstruaĵoj", "id": 63960}, {"name": "Konstruado", "id": 298889}], "successors": [{"name": "Publika_spaco", "id": 718069}, {"name": "Liftoj", "id": 664779}, {"name": "Transportaj_kompanioj", "id": 602309}]}

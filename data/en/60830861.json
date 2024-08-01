@@ -1,1 +1,1 @@
-{"name": "Decompression_researchers", "id": 60830861, "predecessors": [{"name": "Medical_researchers", "id": 2986153}], "successors": []}
+{"name": "Decompression_researchers", "id": 60830861, "predecessors": [{"name": "Decompression_theory", "id": 60830909}, {"name": "Medical_researchers", "id": 2986153}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Vuelta_Asturias", "id": 67552577, "predecessors": [{"name": "Sport_in_Asturias", "id": 6090695}, {"name": "UCI_Europe_Tour_races", "id": 42981987}], "successors": []}
+{"name": "Vuelta_Asturias", "id": 67552577, "predecessors": [{"name": "Cycle_races_in_Spain", "id": 15922371}], "successors": [{"name": "Vuelta_a_Asturias_winners", "id": 74554646}]}

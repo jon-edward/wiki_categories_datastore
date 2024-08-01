@@ -1,1 +1,1 @@
-{"name": "Nuclear_reactor_coolants", "id": 24376718, "predecessors": [{"name": "Nuclear_materials", "id": 3095692}], "successors": []}
+{"name": "Nuclear_reactor_coolants", "id": 24376718, "predecessors": [{"name": "Coolants", "id": 3670551}, {"name": "Nuclear_materials", "id": 3095692}, {"name": "Nuclear_reactors", "id": 2471531}], "successors": []}

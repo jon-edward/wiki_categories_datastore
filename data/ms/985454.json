@@ -1,1 +1,1 @@
-{"name": "Anatomi_sel", "id": 985454, "predecessors": [{"name": "Anatomi", "id": 48731}, {"name": "Histologi", "id": 985455}], "successors": [{"name": "Organel", "id": 996790}, {"name": "Kromosom", "id": 711209}]}
+{"name": "Anatomi_sel", "id": 985454, "predecessors": [{"name": "Anatomi", "id": 48731}, {"name": "Biologi_sel", "id": 84878}, {"name": "Histologi", "id": 985455}], "successors": [{"name": "Organel", "id": 996790}, {"name": "Kromosom", "id": 711209}]}

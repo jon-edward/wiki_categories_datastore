@@ -1,1 +1,1 @@
-{"name": "Kereta", "id": 23403, "predecessors": [{"name": "Kenderaan", "id": 23565}, {"name": "Pengangkutan_darat", "id": 41797}], "successors": [{"name": "Pengeluar_kereta", "id": 67048}, {"name": "Klasifikasi_kereta", "id": 146810}, {"name": "Pemandu_NASCAR", "id": 1040332}]}
+{"name": "Kereta", "id": 23403, "predecessors": [{"name": "Kenderaan", "id": 23565}, {"name": "Pengangkutan_darat", "id": 41797}], "successors": [{"name": "Pengeluar_kereta", "id": 67048}, {"name": "Klasifikasi_kereta", "id": 146810}]}

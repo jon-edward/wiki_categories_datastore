@@ -1,1 +1,1 @@
-{"name": "Computer_storage_companies", "id": 7582549, "predecessors": [{"name": "Computer_data_storage", "id": 711721}, {"name": "Computer_hardware_companies", "id": 699547}, {"name": "Storage_companies", "id": 11332768}], "successors": [{"name": "Netgear", "id": 61969220}, {"name": "Western_Digital", "id": 62563830}]}
+{"name": "Computer_storage_companies", "id": 7582549, "predecessors": [{"name": "Computer_data_storage", "id": 711721}, {"name": "Storage_companies", "id": 11332768}], "successors": [{"name": "Netgear", "id": 61969220}]}

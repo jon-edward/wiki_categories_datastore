@@ -1,1 +1,1 @@
-{"name": "Game_show_title_cards", "id": 77215928, "predecessors": [{"name": "Game_show_images", "id": 77216003}], "successors": [{"name": "Philippine_game_show_title_cards", "id": 77220386}, {"name": "American_game_show_title_cards", "id": 77220484}]}
+{"name": "Game_show_title_cards", "id": 77215928, "predecessors": [{"name": "Game_show_images", "id": 77216003}, {"name": "Title_card_screenshots", "id": 31583833}], "successors": [{"name": "Philippine_game_show_title_cards", "id": 77220386}, {"name": "American_game_show_title_cards", "id": 77220484}]}

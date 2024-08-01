@@ -1,1 +1,1 @@
-{"name": "Produk_haiwan", "id": 907682, "predecessors": [{"name": "Bahan", "id": 58300}], "successors": [{"name": "Daging", "id": 91508}]}
+{"name": "Produk_haiwan", "id": 907682, "predecessors": [{"name": "Haiwan", "id": 21020}, {"name": "Bahan", "id": 58300}], "successors": [{"name": "Daging", "id": 91508}]}

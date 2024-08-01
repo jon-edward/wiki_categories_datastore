@@ -1,1 +1,1 @@
-{"name": "Country_music_awards", "id": 42860495, "predecessors": [{"name": "Country_music", "id": 715854}], "successors": []}
+{"name": "Country_music_awards", "id": 42860495, "predecessors": [{"name": "Country_music", "id": 715854}], "successors": [{"name": "Grammy_Awards_for_country_music", "id": 916873}, {"name": "Country_Music_Association_Awards", "id": 62968524}, {"name": "Academy_of_Country_Music_Awards", "id": 64109831}, {"name": "CMT_Music_Awards", "id": 69226125}]}

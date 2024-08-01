@@ -1,1 +1,0 @@
-{"name": "Keselamatan_komputer", "id": 42303, "predecessors": [{"name": "Pengkomputeran", "id": 42052}], "successors": [{"name": "Kriptografi", "id": 42302}, {"name": "Kaedah_pengesahan", "id": 161308}, {"name": "Keselamatan_data", "id": 305484}, {"name": "Keselamatan_rangkaian_komputer", "id": 352163}, {"name": "Teknologi_keselamatan_Microsoft_Windows", "id": 92982}]}

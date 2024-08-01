@@ -1,1 +1,1 @@
-{"name": "Elicoptere_militare", "id": 443805, "predecessors": [{"name": "Aviație_militară", "id": 748758}, {"name": "Elicoptere", "id": 107117}, {"name": "Vehicule_militare", "id": 387260}], "successors": [{"name": "Elicoptere_de_atac", "id": 458349}]}
+{"name": "Elicoptere_militare", "id": 443805, "predecessors": [{"name": "Aviație_militară", "id": 748758}, {"name": "Elicoptere", "id": 107117}], "successors": [{"name": "Elicoptere_de_atac", "id": 458349}]}

@@ -1,1 +1,1 @@
-{"name": "Hidrogen", "id": 218205, "predecessors": [{"name": "Combustibili", "id": 211590}, {"name": "Elemente_chimice", "id": 42004}, {"name": "Gaze", "id": 23118}, {"name": "Grupe_de_elemente_chimice", "id": 234669}], "successors": [{"name": "Tehnologii_ale_hidrogenului", "id": 915580}, {"name": "Compuși_ai_hidrogenului", "id": 1153489}]}
+{"name": "Hidrogen", "id": 218205, "predecessors": [{"name": "Elemente_chimice", "id": 42004}, {"name": "Gaze", "id": 23118}], "successors": []}

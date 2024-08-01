@@ -1,1 +1,1 @@
-{"name": "GABA", "id": 53668945, "predecessors": [{"name": "Neurotransmitters", "id": 717823}], "successors": [{"name": "GABAA_receptor_agonists", "id": 44366255}, {"name": "GABAB_receptor_agonists", "id": 44802736}, {"name": "GABAA-rho_receptor_agonists", "id": 44802742}, {"name": "GABAA_receptor_positive_allosteric_modulators", "id": 44366341}, {"name": "GABAA_receptor_negative_allosteric_modulators", "id": 44368145}]}
+{"name": "GABA", "id": 53668945, "predecessors": [{"name": "Neurotransmitters", "id": 717823}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Book_publishing_company_founders", "id": 62666387, "predecessors": [{"name": "Book_publishers_(people)", "id": 3245242}, {"name": "Company_founders", "id": 33803726}], "successors": []}
+{"name": "Book_publishing_company_founders", "id": 62666387, "predecessors": [{"name": "Book_publishing", "id": 5666524}, {"name": "Company_founders", "id": 33803726}], "successors": [{"name": "American_book_publishing_company_founders", "id": 62666367}]}

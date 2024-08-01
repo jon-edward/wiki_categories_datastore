@@ -1,1 +1,1 @@
-{"name": "Optical_instruments", "id": 38244384, "predecessors": [{"name": "Optical_devices", "id": 1835556}, {"name": "Scientific_instruments", "id": 19571326}], "successors": [{"name": "Surveying_instruments", "id": 22270618}]}
+{"name": "Optical_instruments", "id": 38244384, "predecessors": [{"name": "Optical_devices", "id": 1835556}, {"name": "Scientific_instruments", "id": 19571326}], "successors": [{"name": "Spectrometers", "id": 3730420}, {"name": "Surveying_instruments", "id": 22270618}]}

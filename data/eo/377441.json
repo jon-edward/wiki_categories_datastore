@@ -1,1 +1,1 @@
-{"name": "Radioaktiveco", "id": 377441, "predecessors": [{"name": "Nuklea_fiziko", "id": 350752}, {"name": "Nuklea_kemio", "id": 605983}, {"name": "Radiado", "id": 377442}], "successors": [{"name": "Radiobiologio", "id": 377440}]}
+{"name": "Radioaktiveco", "id": 377441, "predecessors": [{"name": "Nuklea_fiziko", "id": 350752}, {"name": "Nuklea_kemio", "id": 605983}, {"name": "Ondoj", "id": 234847}], "successors": [{"name": "Radiobiologio", "id": 377440}]}

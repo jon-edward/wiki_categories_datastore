@@ -1,1 +1,1 @@
-{"name": "Polyphenols", "id": 24201958, "predecessors": [{"name": "Secondary_metabolites", "id": 48908360}, {"name": "Phytochemicals", "id": 2983462}], "successors": [{"name": "Flavonoids", "id": 2983457}, {"name": "Tannins", "id": 24115711}, {"name": "Quercetin_glycosides", "id": 33943104}]}
+{"name": "Polyphenols", "id": 24201958, "predecessors": [{"name": "Secondary_metabolites", "id": 48908360}, {"name": "Molecules", "id": 3129318}], "successors": [{"name": "Flavonoids", "id": 2983457}, {"name": "Tannins", "id": 24115711}]}

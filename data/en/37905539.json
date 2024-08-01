@@ -1,1 +1,1 @@
-{"name": "Upcoming_car_models", "id": 37905539, "predecessors": [{"name": "Car_models", "id": 13698345}, {"name": "Planning", "id": 7297152}, {"name": "Prediction", "id": 1436435}], "successors": []}
+{"name": "Upcoming_car_models", "id": 37905539, "predecessors": [{"name": "Car_models", "id": 13698345}, {"name": "Planning", "id": 7297152}], "successors": []}

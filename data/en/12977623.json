@@ -1,1 +1,1 @@
-{"name": "Ore_deposits", "id": 12977623, "predecessors": [{"name": "Mining", "id": 843521}], "successors": [{"name": "Iron_ore_deposits", "id": 55710990}]}
+{"name": "Ore_deposits", "id": 12977623, "predecessors": [{"name": "Mining", "id": 843521}], "successors": [{"name": "Iron_ore_deposits", "id": 55710990}, {"name": "Copper_ores", "id": 55718370}]}

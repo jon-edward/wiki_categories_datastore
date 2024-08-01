@@ -1,1 +1,1 @@
-{"name": "Swiss_newspaper_editors", "id": 27490192, "predecessors": [{"name": "Swiss_journalists", "id": 1096876}, {"name": "Newspaper_publishing", "id": 24204175}], "successors": []}
+{"name": "Swiss_newspaper_editors", "id": 27490192, "predecessors": [{"name": "Mass_media", "id": 696790}], "successors": []}

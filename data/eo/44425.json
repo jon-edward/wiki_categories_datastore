@@ -1,1 +1,1 @@
-{"name": "Vino", "id": 44425, "predecessors": [{"name": "Agrikulturo", "id": 39049}, {"name": "Alkoholaĵoj", "id": 44423}], "successors": [{"name": "Vinkultivado", "id": 233112}, {"name": "Historio_de_vino", "id": 554230}, {"name": "Francaj_vinoj", "id": 211145}, {"name": "Hispanaj_vinoj", "id": 211157}]}
+{"name": "Vino", "id": 44425, "predecessors": [{"name": "Agrikulturo", "id": 39049}, {"name": "Alkoholaĵoj", "id": 44423}], "successors": [{"name": "Vinkultivado", "id": 233112}, {"name": "Francaj_vinoj", "id": 211145}]}

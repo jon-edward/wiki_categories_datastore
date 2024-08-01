@@ -1,1 +1,1 @@
-{"name": "Child_labour_treaties", "id": 26184053, "predecessors": [{"name": "Child_abuse_legislation", "id": 39587790}, {"name": "Child_labour_law", "id": 42216326}, {"name": "Children's_rights", "id": 3862359}, {"name": "History_of_international_trade", "id": 36506712}], "successors": []}
+{"name": "Child_labour_treaties", "id": 26184053, "predecessors": [{"name": "Child_labour_law", "id": 42216326}, {"name": "Child_abuse", "id": 1418224}, {"name": "History_of_international_trade", "id": 36506712}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Ambulances", "id": 30881023, "predecessors": [{"name": "Emergency_vehicles", "id": 1298014}, {"name": "Emergency_medical_services", "id": 16842991}], "successors": [{"name": "Military_ambulances", "id": 40063901}]}
+{"name": "Ambulances", "id": 30881023, "predecessors": [{"name": "Emergency_vehicles", "id": 1298014}, {"name": "Emergency_medical_services", "id": 16842991}], "successors": []}

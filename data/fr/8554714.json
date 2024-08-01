@@ -1,1 +1,0 @@
-{"name": "Réaction_biochimique", "id": 8554714, "predecessors": [{"name": "Biochimie", "id": 93886}, {"name": "Réaction_chimique", "id": 430330}], "successors": [{"name": "Métabolisme", "id": 341790}]}

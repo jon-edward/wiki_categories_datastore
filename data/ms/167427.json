@@ -1,1 +1,1 @@
-{"name": "Reka_bentuk_elektronik", "id": 167427, "predecessors": [{"name": "Reka_bentuk", "id": 78668}], "successors": [{"name": "Elektronik_digital", "id": 167426}]}
+{"name": "Reka_bentuk_elektronik", "id": 167427, "predecessors": [{"name": "Reka_bentuk", "id": 78668}, {"name": "Disiplin_kejuruteraan", "id": 58302}], "successors": [{"name": "Elektronik_digital", "id": 167426}]}

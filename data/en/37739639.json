@@ -1,1 +1,0 @@
-{"name": "Watercraft_components", "id": 37739639, "predecessors": [{"name": "Vehicle_parts", "id": 23450032}, {"name": "Watercraft", "id": 21055199}], "successors": [{"name": "Marine_propulsion", "id": 1111743}, {"name": "Marine_engines", "id": 12745473}, {"name": "Submarine_components", "id": 41903543}]}

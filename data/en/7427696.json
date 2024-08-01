@@ -1,1 +1,1 @@
-{"name": "Sets_of_real_numbers", "id": 7427696, "predecessors": [{"name": "Real_numbers", "id": 736442}], "successors": [{"name": "Irrational_numbers", "id": 736444}, {"name": "Integers", "id": 736448}, {"name": "Rational_numbers", "id": 1921992}]}
+{"name": "Sets_of_real_numbers", "id": 7427696, "predecessors": [{"name": "Descriptive_set_theory", "id": 2194865}, {"name": "Real_numbers", "id": 736442}], "successors": [{"name": "Irrational_numbers", "id": 736444}, {"name": "Integers", "id": 736448}, {"name": "Rational_numbers", "id": 1921992}]}

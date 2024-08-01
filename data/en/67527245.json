@@ -1,1 +1,1 @@
-{"name": "Reusable_spaceflight_technology", "id": 67527245, "predecessors": [{"name": "Reuse", "id": 33445743}, {"name": "Spaceflight_technology", "id": 39285984}], "successors": [{"name": "Reusable_launch_systems", "id": 33617567}, {"name": "Reusable_spacecraft", "id": 64792982}]}
+{"name": "Reusable_spaceflight_technology", "id": 67527245, "predecessors": [{"name": "Reuse", "id": 33445743}], "successors": [{"name": "Reusable_launch_systems", "id": 33617567}, {"name": "Reusable_spacecraft", "id": 64792982}]}

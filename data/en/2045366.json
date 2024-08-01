@@ -1,1 +1,1 @@
-{"name": "Naval_mines", "id": 2045366, "predecessors": [{"name": "Anti-submarine_weapons", "id": 1026766}, {"name": "Explosive_weapons", "id": 1150760}, {"name": "Mine_warfare", "id": 13395540}, {"name": "Naval_weapons", "id": 1157667}], "successors": [{"name": "Ships_sunk_by_mines", "id": 22704491}]}
+{"name": "Naval_mines", "id": 2045366, "predecessors": [{"name": "Anti-submarine_weapons", "id": 1026766}, {"name": "Explosive_weapons", "id": 1150760}, {"name": "Mine_warfare", "id": 13395540}, {"name": "Naval_weapons", "id": 1157667}], "successors": []}

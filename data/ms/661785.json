@@ -1,1 +1,1 @@
-{"name": "Kesakitan", "id": 661785, "predecessors": [{"name": "Persepsi", "id": 82345}, {"name": "Sistem_deria", "id": 167002}, {"name": "Gejala", "id": 127389}, {"name": "Emosi", "id": 124832}], "successors": [{"name": "Kesakitan_akut", "id": 1055978}]}
+{"name": "Kesakitan", "id": 661785, "predecessors": [{"name": "Persepsi", "id": 82345}, {"name": "Sistem_deria", "id": 167002}, {"name": "Gejala", "id": 127389}, {"name": "Kesedaran", "id": 652948}], "successors": [{"name": "Kesakitan_akut", "id": 1055978}, {"name": "Kekejaman_terhadap_haiwan", "id": 661772}]}

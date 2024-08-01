@@ -1,1 +1,1 @@
-{"name": "Geotehnică", "id": 605253, "predecessors": [{"name": "Discipline_ale_ingineriei", "id": 199445}, {"name": "Mecanica_solidului", "id": 451408}, {"name": "Geologie", "id": 23100}], "successors": [{"name": "Seismologie", "id": 110114}, {"name": "Companii_de_foraje_din_România", "id": 601106}]}
+{"name": "Geotehnică", "id": 605253, "predecessors": [{"name": "Discipline_ale_ingineriei", "id": 199445}, {"name": "Geologie", "id": 23100}], "successors": [{"name": "Seismologie", "id": 110114}]}

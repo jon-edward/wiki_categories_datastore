@@ -1,1 +1,1 @@
-{"name": "Desktop_publishing_software_for_Windows", "id": 41511335, "predecessors": [{"name": "Typesetting_software", "id": 696150}, {"name": "Windows_text-related_software", "id": 41456443}, {"name": "Desktop_publishing_software", "id": 696153}], "successors": []}
+{"name": "Desktop_publishing_software_for_Windows", "id": 41511335, "predecessors": [{"name": "Windows_graphics-related_software", "id": 41456455}, {"name": "Windows_software", "id": 978482}, {"name": "Windows_text-related_software", "id": 41456443}], "successors": []}

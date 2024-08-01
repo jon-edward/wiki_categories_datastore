@@ -1,1 +1,1 @@
-{"name": "Teksto", "id": 121349, "predecessors": [{"name": "Komputiko", "id": 29749}, {"name": "Prezento_de_scio", "id": 94539}, {"name": "Skribo", "id": 21501}], "successors": [{"name": "Lingvoj_de_priskribo_de_paĝoj", "id": 94546}, {"name": "Tekstredaktiloj", "id": 299742}, {"name": "Tekstoj", "id": 679741}]}
+{"name": "Teksto", "id": 121349, "predecessors": [{"name": "Komputiko", "id": 29749}, {"name": "Skribo", "id": 21501}, {"name": "Artefarita_intelekto", "id": 439530}], "successors": [{"name": "Tekstredaktiloj", "id": 299742}]}

@@ -1,1 +1,1 @@
-{"name": "Netflix_games", "id": 74442489, "predecessors": [{"name": "Android_(operating_system)_games", "id": 24902833}, {"name": "IOS_games", "id": 30128320}, {"name": "Netflix", "id": 47667317}, {"name": "Subscription_video_game_services", "id": 66826166}], "successors": []}
+{"name": "Netflix_games", "id": 74442489, "predecessors": [{"name": "Netflix", "id": 47667317}, {"name": "Subscription_video_game_services", "id": 66826166}], "successors": []}

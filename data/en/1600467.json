@@ -1,1 +1,1 @@
-{"name": "Rags", "id": 1600467, "predecessors": [{"name": "Musical_compositions", "id": 940477}], "successors": []}
+{"name": "Rags", "id": 1600467, "predecessors": [{"name": "Ragtime", "id": 726386}, {"name": "Musical_compositions", "id": 940477}], "successors": [{"name": "Rags_by_Scott_Joplin", "id": 69481112}]}

@@ -1,1 +1,1 @@
-{"name": "Medicated_feed", "id": 61151568, "predecessors": [{"name": "Food_law", "id": 3672100}, {"name": "Veterinary_drugs", "id": 16901953}], "successors": []}
+{"name": "Medicated_feed", "id": 61151568, "predecessors": [{"name": "Food_law", "id": 3672100}, {"name": "Veterinary_drugs", "id": 16901953}, {"name": "Veterinary_medicine_in_the_United_States", "id": 55866302}], "successors": []}

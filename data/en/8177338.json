@@ -1,1 +1,1 @@
-{"name": "Pharmacy_education", "id": 8177338, "predecessors": [{"name": "Pharmacy", "id": 1004425}, {"name": "Health_care", "id": 35880954}], "successors": [{"name": "Pharmacy_schools", "id": 14846257}, {"name": "Pharmacy_education_in_India", "id": 48395469}]}
+{"name": "Pharmacy_education", "id": 8177338, "predecessors": [{"name": "Pharmacy", "id": 1004425}, {"name": "Health_care", "id": 35880954}], "successors": [{"name": "Pharmacy_schools", "id": 14846257}]}

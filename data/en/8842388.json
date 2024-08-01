@@ -1,1 +1,1 @@
-{"name": "Snowdonia", "id": 8842388, "predecessors": [{"name": "North_Wales", "id": 41160137}, {"name": "Government_of_Wales", "id": 2875755}, {"name": "Geological_periods", "id": 47135399}], "successors": [{"name": "Tourism_in_Snowdonia", "id": 38932267}, {"name": "Roads_in_Snowdonia", "id": 38925615}]}
+{"name": "Snowdonia", "id": 8842388, "predecessors": [{"name": "North_Wales", "id": 41160137}, {"name": "Tourist_attractions_in_Wales", "id": 1722164}, {"name": "Geological_periods", "id": 47135399}], "successors": [{"name": "Tourism_in_Snowdonia", "id": 38932267}]}

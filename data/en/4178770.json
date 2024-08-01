@@ -1,1 +1,0 @@
-{"name": "Pneumonia", "id": 4178770, "predecessors": [{"name": "Lung_disorders", "id": 32619429}], "successors": [{"name": "Deaths_from_pneumonia", "id": 14112751}, {"name": "Atypical_pneumonias", "id": 62902866}]}

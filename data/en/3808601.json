@@ -1,1 +1,1 @@
-{"name": "Facial_hair", "id": 3808601, "predecessors": [{"name": "Facial_features", "id": 10156905}, {"name": "Human_hair", "id": 36697594}], "successors": [{"name": "Shaving", "id": 13945753}, {"name": "Beard", "id": 62044945}, {"name": "Moustache", "id": 62045008}, {"name": "Eyebrow", "id": 62045147}]}
+{"name": "Facial_hair", "id": 3808601, "predecessors": [{"name": "Facial_features", "id": 10156905}, {"name": "Human_hair", "id": 36697594}], "successors": [{"name": "Shaving", "id": 13945753}]}

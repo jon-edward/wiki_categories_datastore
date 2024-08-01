@@ -1,1 +1,1 @@
-{"name": "Search_engine_optimization", "id": 1789615, "predecessors": [{"name": "Internet_search_engines", "id": 699876}], "successors": [{"name": "Black_hat_search_engine_optimization", "id": 21019515}]}
+{"name": "Search_engine_optimization", "id": 1789615, "predecessors": [{"name": "Digital_marketing", "id": 11637786}, {"name": "Internet_search_engines", "id": 699876}], "successors": [{"name": "Black_hat_search_engine_optimization", "id": 21019515}]}

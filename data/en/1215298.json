@@ -1,1 +1,1 @@
-{"name": "Radiometry", "id": 1215298, "predecessors": [{"name": "Measurement", "id": 734262}, {"name": "Telecommunications_engineering", "id": 31195638}], "successors": []}
+{"name": "Radiometry", "id": 1215298, "predecessors": [{"name": "Electromagnetic_radiation", "id": 697318}, {"name": "Measurement", "id": 734262}, {"name": "Observational_astronomy", "id": 2776354}, {"name": "Optical_metrology", "id": 5241334}, {"name": "Telecommunications_engineering", "id": 31195638}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Battery_electric_vehicles", "id": 13507925, "predecessors": [{"name": "Electric_vehicles", "id": 961956}, {"name": "Emissions_reduction", "id": 2644560}], "successors": [{"name": "Battery_electric_vehicle_manufacturers", "id": 15593322}, {"name": "Battery_electric_buses", "id": 57226221}, {"name": "Battery_electric_multiple_units", "id": 61658250}]}
+{"name": "Battery_electric_vehicles", "id": 13507925, "predecessors": [{"name": "Electric_vehicles", "id": 961956}], "successors": [{"name": "Battery_electric_multiple_units", "id": 61658250}]}

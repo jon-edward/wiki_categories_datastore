@@ -1,1 +1,1 @@
-{"name": "Aluminiu", "id": 958971, "predecessors": [{"name": "Alte_metale", "id": 577410}, {"name": "Combustibili", "id": 211590}], "successors": [{"name": "Compuși_ai_aluminiului", "id": 958972}]}
+{"name": "Aluminiu", "id": 958971, "predecessors": [{"name": "Materiale", "id": 36042}, {"name": "Pirotehnie", "id": 2018544}], "successors": [{"name": "Compuși_ai_aluminiului", "id": 958972}]}

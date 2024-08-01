@@ -1,1 +1,1 @@
-{"name": "Tunnel_disasters", "id": 27361109, "predecessors": [{"name": "Tunnels", "id": 780791}, {"name": "Accidents", "id": 4523546}], "successors": [{"name": "Tunnel_fires", "id": 72612637}, {"name": "Railway_tunnel_disasters", "id": 73966532}]}
+{"name": "Tunnel_disasters", "id": 27361109, "predecessors": [{"name": "Tunnels", "id": 780791}, {"name": "Accidents", "id": 4523546}], "successors": []}

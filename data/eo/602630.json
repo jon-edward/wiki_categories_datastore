@@ -1,1 +1,1 @@
-{"name": "Parkoj_en_Bogoto", "id": 602630, "predecessors": [{"name": "Geografio_de_Bogoto", "id": 602631}, {"name": "Geografio_de_Kolombio", "id": 305652}, {"name": "Bogoto", "id": 602580}], "successors": [{"name": "Bogota_Savano", "id": 602801}]}
+{"name": "Parkoj_en_Bogoto", "id": 602630, "predecessors": [{"name": "Bogoto", "id": 602580}, {"name": "Geografio_de_Kolombio", "id": 305652}], "successors": [{"name": "Bogota_Savano", "id": 602801}]}

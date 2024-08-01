@@ -1,1 +1,1 @@
-{"name": "AMD_graphics_cards", "id": 43193697, "predecessors": [{"name": "Graphics_cards", "id": 4229703}], "successors": []}
+{"name": "AMD_graphics_cards", "id": 43193697, "predecessors": [{"name": "AMD_products", "id": 8712206}, {"name": "Graphics_cards", "id": 4229703}], "successors": []}

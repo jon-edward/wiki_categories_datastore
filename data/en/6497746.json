@@ -1,1 +1,1 @@
-{"name": "Hypercomplex_numbers", "id": 6497746, "predecessors": [{"name": "Complex_numbers", "id": 736455}, {"name": "Numbers", "id": 698425}], "successors": [{"name": "Quaternions", "id": 2797309}]}
+{"name": "Hypercomplex_numbers", "id": 6497746, "predecessors": [{"name": "Algebraic_structures", "id": 20103544}, {"name": "Complex_numbers", "id": 736455}, {"name": "Numbers", "id": 698425}], "successors": [{"name": "Quaternions", "id": 2797309}]}

@@ -1,1 +1,1 @@
-{"name": "Zoroastrian_festivals", "id": 24857279, "predecessors": [{"name": "Religious_holidays", "id": 10854847}, {"name": "Culture", "id": 694861}], "successors": [{"name": "Nowruz", "id": 30754646}]}
+{"name": "Zoroastrian_festivals", "id": 24857279, "predecessors": [{"name": "Religious_holidays", "id": 10854847}, {"name": "Religious_festivals", "id": 696393}, {"name": "Culture", "id": 694861}], "successors": [{"name": "Nowruz", "id": 30754646}]}

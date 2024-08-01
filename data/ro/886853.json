@@ -1,1 +1,1 @@
-{"name": "Combustie", "id": 886853, "predecessors": [{"name": "Oxigen", "id": 886870}, {"name": "Reacții_chimice", "id": 759638}], "successors": [{"name": "Foc", "id": 429256}]}
+{"name": "Combustie", "id": 886853, "predecessors": [{"name": "Reacții_chimice", "id": 759638}], "successors": [{"name": "Foc", "id": 429256}]}

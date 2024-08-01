@@ -1,1 +1,1 @@
-{"name": "SEPTA_stations_and_terminals", "id": 2338004, "predecessors": [{"name": "Rail_transportation_in_the_United_States", "id": 32914386}], "successors": [{"name": "SEPTA_Regional_Rail_stations", "id": 2523845}]}
+{"name": "SEPTA_stations_and_terminals", "id": 2338004, "predecessors": [{"name": "Railway_stations_in_Pennsylvania", "id": 10042100}, {"name": "SEPTA", "id": 1410115}, {"name": "Rail_transportation_in_the_United_States", "id": 32914386}], "successors": []}

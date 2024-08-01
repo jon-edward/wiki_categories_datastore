@@ -1,1 +1,1 @@
-{"name": "Penyiar_biayaan_awam", "id": 176216, "predecessors": [{"name": "Penyiaran", "id": 112042}, {"name": "Lingkungan_awam", "id": 876054}], "successors": [{"name": "BBC", "id": 60985}, {"name": "Radio_Televisyen_Malaysia", "id": 112043}, {"name": "Saluran_CCTV", "id": 176224}]}
+{"name": "Penyiar_biayaan_awam", "id": 176216, "predecessors": [{"name": "Lingkungan_awam", "id": 876054}], "successors": [{"name": "Radio_Televisyen_Malaysia", "id": 112043}]}

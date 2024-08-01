@@ -1,1 +1,1 @@
-{"name": "Landskap", "id": 271691, "predecessors": [{"name": "Geografi", "id": 8046}, {"name": "Pengurusan_tanah", "id": 164620}], "successors": [{"name": "Hortikultur_dan_perkebunan", "id": 271689}, {"name": "Seni_bina_landskap", "id": 271693}]}
+{"name": "Landskap", "id": 271691, "predecessors": [{"name": "Geografi", "id": 8046}, {"name": "Pengurusan_tanah", "id": 164620}], "successors": [{"name": "Geomorfologi", "id": 82067}, {"name": "Bentuk_muka_bumi", "id": 140249}, {"name": "Hortikultur_dan_perkebunan", "id": 271689}, {"name": "Seni_bina_landskap", "id": 271693}]}

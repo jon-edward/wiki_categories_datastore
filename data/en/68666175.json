@@ -1,1 +1,1 @@
-{"name": "Health_psychology", "id": 68666175, "predecessors": [{"name": "Determinants_of_health", "id": 35612550}], "successors": [{"name": "Occupational_health_psychology", "id": 62686343}]}
+{"name": "Health_psychology", "id": 68666175, "predecessors": [{"name": "Applied_psychology", "id": 1061365}, {"name": "Determinants_of_health", "id": 35612550}], "successors": [{"name": "Occupational_health_psychology", "id": 62686343}]}

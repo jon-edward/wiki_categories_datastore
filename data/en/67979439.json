@@ -1,1 +1,1 @@
-{"name": "Taco", "id": 67979439, "predecessors": [{"name": "Mexican_cuisine", "id": 759947}, {"name": "Street_food", "id": 24757085}, {"name": "Tex-Mex_cuisine", "id": 1903338}], "successors": []}
+{"name": "Taco", "id": 67979439, "predecessors": [{"name": "Mexican_cuisine", "id": 759947}, {"name": "Street_food", "id": 24757085}, {"name": "Tex-Mex_cuisine", "id": 1903338}], "successors": [{"name": "Taco_stands", "id": 77446401}]}

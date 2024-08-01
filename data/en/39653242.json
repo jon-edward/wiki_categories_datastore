@@ -1,1 +1,1 @@
-{"name": "University_programs", "id": 39653242, "predecessors": [{"name": "Educational_programs", "id": 4179396}, {"name": "Higher_education", "id": 10436887}], "successors": []}
+{"name": "University_programs", "id": 39653242, "predecessors": [{"name": "Educational_programs", "id": 4179396}, {"name": "Higher_education", "id": 10436887}], "successors": [{"name": "Public_honors_colleges", "id": 48057409}]}

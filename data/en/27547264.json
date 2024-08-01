@@ -1,1 +1,1 @@
-{"name": "Rail_transport_in_Inner_Mongolia", "id": 27547264, "predecessors": [{"name": "Transport_in_Inner_Mongolia", "id": 9529762}], "successors": [{"name": "Railway_stations_in_Inner_Mongolia", "id": 26292742}]}
+{"name": "Rail_transport_in_Inner_Mongolia", "id": 27547264, "predecessors": [{"name": "Transport_in_Inner_Mongolia", "id": 9529762}], "successors": [{"name": "Railway_stations_in_Inner_Mongolia", "id": 26292742}, {"name": "Hohhot_Metro_stations", "id": 63842102}]}

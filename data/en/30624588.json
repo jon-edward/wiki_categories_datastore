@@ -1,1 +1,1 @@
-{"name": "Bus_rapid_transit_in_California", "id": 30624588, "predecessors": [{"name": "Bus_rapid_transit", "id": 1866000}], "successors": []}
+{"name": "Bus_rapid_transit_in_California", "id": 30624588, "predecessors": [{"name": "Bus_transportation_in_California", "id": 18908931}, {"name": "Bus_rapid_transit", "id": 1866000}], "successors": []}

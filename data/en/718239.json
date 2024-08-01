@@ -1,1 +1,1 @@
-{"name": "Anesthesia", "id": 718239, "predecessors": [{"name": "Pain", "id": 1061105}], "successors": [{"name": "Regional_anesthesia", "id": 718248}, {"name": "Airway_management", "id": 50013617}]}
+{"name": "Anesthesia", "id": 718239, "predecessors": [{"name": "Pain", "id": 1061105}, {"name": "Surgery", "id": 804789}, {"name": "Medical_specialties", "id": 1449968}], "successors": [{"name": "Anesthetic_equipment", "id": 799930}, {"name": "Airway_management", "id": 50013617}, {"name": "History_of_anesthesia", "id": 54634807}]}

@@ -1,1 +1,1 @@
-{"name": "Seville_Metro_stations", "id": 32862047, "predecessors": [{"name": "Railway_stations_in_Andalusia", "id": 30437284}, {"name": "Transport_in_Andalusia", "id": 6232104}, {"name": "Underground_rapid_transit_in_Spain", "id": 31163962}], "successors": []}
+{"name": "Seville_Metro_stations", "id": 32862047, "predecessors": [{"name": "Railway_stations_in_Andalusia", "id": 30437284}, {"name": "Transport_in_Andalusia", "id": 6232104}, {"name": "Transport_in_Spain", "id": 4732180}], "successors": []}

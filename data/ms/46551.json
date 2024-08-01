@@ -1,1 +1,1 @@
-{"name": "Kereta_api", "id": 46551, "predecessors": [{"name": "Pengangkutan", "id": 11130}], "successors": [{"name": "Kereta_api_kelajuan-tinggi", "id": 46548}, {"name": "Tunas_kereta_api", "id": 1065044}]}
+{"name": "Kereta_api", "id": 46551, "predecessors": [{"name": "Pengangkutan", "id": 11130}], "successors": [{"name": "Tunas_kereta_api", "id": 1065044}]}

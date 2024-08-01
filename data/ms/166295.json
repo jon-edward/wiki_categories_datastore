@@ -1,1 +1,1 @@
-{"name": "Geografi_Arab_Saudi", "id": 166295, "predecessors": [{"name": "Arab_Saudi", "id": 15421}], "successors": [{"name": "Laut_Merah", "id": 166259}, {"name": "Bandar_di_Arab_Saudi", "id": 1039067}, {"name": "Wilayah_di_Arab_Saudi", "id": 194107}]}
+{"name": "Geografi_Arab_Saudi", "id": 166295, "predecessors": [{"name": "Arab_Saudi", "id": 15421}, {"name": "Negara", "id": 28733}], "successors": [{"name": "Bandar_di_Arab_Saudi", "id": 1039067}, {"name": "Wilayah_di_Arab_Saudi", "id": 194107}]}

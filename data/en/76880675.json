@@ -1,1 +1,1 @@
-{"name": "Series_40_devices", "id": 76880675, "predecessors": [{"name": "Java_device_platform", "id": 3823043}], "successors": []}
+{"name": "Series_40_devices", "id": 76880675, "predecessors": [{"name": "Operating_systems", "id": 693664}, {"name": "Java_device_platform", "id": 3823043}, {"name": "Embedded_operating_systems", "id": 2150815}], "successors": []}

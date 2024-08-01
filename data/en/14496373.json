@@ -1,1 +1,1 @@
-{"name": "Rabies", "id": 14496373, "predecessors": [{"name": "Vaccine-preventable_diseases", "id": 56263158}, {"name": "Viral_infections_of_the_central_nervous_system", "id": 27117089}, {"name": "Zoonoses", "id": 2776372}], "successors": [{"name": "Deaths_from_rabies", "id": 14054536}, {"name": "Films_about_rabies", "id": 77343431}]}
+{"name": "Rabies", "id": 14496373, "predecessors": [{"name": "Vaccine-preventable_diseases", "id": 56263158}, {"name": "Zoonoses", "id": 2776372}, {"name": "Animal_viral_diseases", "id": 48674710}], "successors": []}

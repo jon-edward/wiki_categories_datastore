@@ -1,1 +1,1 @@
-{"name": "Roads_in_Tokyo", "id": 61805896, "predecessors": [{"name": "Roads", "id": 780674}, {"name": "Road_transport_in_Japan", "id": 2872438}], "successors": [{"name": "Shuto_Expressway", "id": 5545250}]}
+{"name": "Roads_in_Tokyo", "id": 61805896, "predecessors": [{"name": "Road_transport", "id": 700964}], "successors": [{"name": "Shuto_Expressway", "id": 5545250}]}

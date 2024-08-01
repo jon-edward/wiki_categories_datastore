@@ -1,1 +1,1 @@
-{"name": "Linens", "id": 2053448, "predecessors": [{"name": "Domestic_implements", "id": 30314144}, {"name": "Linen_industry", "id": 54362731}], "successors": [{"name": "Blankets", "id": 24707929}, {"name": "Shroud_of_Turin", "id": 29220066}]}
+{"name": "Linens", "id": 2053448, "predecessors": [{"name": "Domestic_implements", "id": 30314144}, {"name": "Linen_industry", "id": 54362731}, {"name": "Woven_fabrics", "id": 11696961}], "successors": [{"name": "Blankets", "id": 24707929}, {"name": "Shroud_of_Turin", "id": 29220066}]}

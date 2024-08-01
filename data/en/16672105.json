@@ -1,1 +1,1 @@
-{"name": "Electric_aircraft", "id": 16672105, "predecessors": [{"name": "Electric_vehicles", "id": 961956}, {"name": "Aircraft", "id": 694926}], "successors": [{"name": "Solar-powered_aircraft", "id": 15395616}, {"name": "Electric_helicopters", "id": 39796269}, {"name": "Hybrid_electric_aircraft", "id": 55966386}]}
+{"name": "Electric_aircraft", "id": 16672105, "predecessors": [{"name": "Electric_vehicles", "id": 961956}, {"name": "Aviation", "id": 735378}], "successors": [{"name": "Electric_helicopters", "id": 39796269}, {"name": "Hybrid_electric_aircraft", "id": 55966386}]}

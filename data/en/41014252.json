@@ -1,1 +1,1 @@
-{"name": "Czech_male_stage_actors", "id": 41014252, "predecessors": [{"name": "Czech_male_actors", "id": 40388619}], "successors": []}
+{"name": "Czech_male_stage_actors", "id": 41014252, "predecessors": [{"name": "Czech_male_actors", "id": 40388619}, {"name": "Theatre", "id": 698600}], "successors": []}

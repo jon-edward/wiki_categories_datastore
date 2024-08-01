@@ -1,1 +1,1 @@
-{"name": "Kit_car_manufacturers", "id": 4330370, "predecessors": [{"name": "Car_manufacturers", "id": 5944213}, {"name": "Kit_cars", "id": 17952312}], "successors": []}
+{"name": "Kit_car_manufacturers", "id": 4330370, "predecessors": [{"name": "Car_manufacturers", "id": 5944213}, {"name": "Kit_cars", "id": 17952312}], "successors": [{"name": "Ginetta_vehicles", "id": 39631055}]}

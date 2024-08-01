@@ -1,1 +1,1 @@
-{"name": "Pyrotechnic_oxidizers", "id": 12279370, "predecessors": [{"name": "Pyrotechnics", "id": 1041841}], "successors": [{"name": "Rocket_oxidizers", "id": 10853822}]}
+{"name": "Pyrotechnic_oxidizers", "id": 12279370, "predecessors": [{"name": "Chemical_substances", "id": 1308633}], "successors": [{"name": "Rocket_oxidizers", "id": 10853822}]}

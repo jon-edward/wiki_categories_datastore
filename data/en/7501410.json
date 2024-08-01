@@ -1,1 +1,1 @@
-{"name": "Lattice_points", "id": 7501410, "predecessors": [{"name": "Discrete_geometry", "id": 694609}, {"name": "Euclidean_geometry", "id": 694421}, {"name": "Number_theory", "id": 693745}], "successors": [{"name": "Geometry_of_numbers", "id": 696388}]}
+{"name": "Lattice_points", "id": 7501410, "predecessors": [{"name": "Abelian_group_theory", "id": 1076620}, {"name": "Euclidean_geometry", "id": 694421}, {"name": "Number_theory", "id": 693745}], "successors": [{"name": "Geometry_of_numbers", "id": 696388}]}

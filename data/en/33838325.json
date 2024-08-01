@@ -1,1 +1,1 @@
-{"name": "Aircraft_wing_design", "id": 33838325, "predecessors": [{"name": "Aircraft_components", "id": 2435701}, {"name": "Vehicle_design", "id": 3979833}], "successors": [{"name": "Wing_configurations", "id": 24282437}, {"name": "Aircraft_wing_components", "id": 32856449}]}
+{"name": "Aircraft_wing_design", "id": 33838325, "predecessors": [{"name": "Vehicle_design", "id": 3979833}], "successors": [{"name": "Wing_configurations", "id": 24282437}, {"name": "Aircraft_wing_components", "id": 32856449}]}

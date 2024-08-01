@@ -1,1 +1,1 @@
-{"name": "Earth_orbits", "id": 960464, "predecessors": [{"name": "Orbits", "id": 5505407}, {"name": "Space-based_economy", "id": 52176292}], "successors": []}
+{"name": "Earth_orbits", "id": 960464, "predecessors": [{"name": "Orbits", "id": 5505407}, {"name": "Traffic_management", "id": 44938737}], "successors": [{"name": "Satellites_orbiting_Earth", "id": 22104819}]}

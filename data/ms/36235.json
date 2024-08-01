@@ -1,1 +1,1 @@
-{"name": "Elektromagnetisme", "id": 36235, "predecessors": [{"name": "Fizik", "id": 11126}, {"name": "Kerelatifan_khas", "id": 29113}], "successors": []}
+{"name": "Elektromagnetisme", "id": 36235, "predecessors": [{"name": "Fizik", "id": 11126}, {"name": "Kerelatifan_khas", "id": 29113}], "successors": [{"name": "Kesuperkonduksian", "id": 36234}, {"name": "Elektrodinamik", "id": 428286}]}

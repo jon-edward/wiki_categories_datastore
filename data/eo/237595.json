@@ -1,1 +1,1 @@
-{"name": "Flutistoj", "id": 237595, "predecessors": [{"name": "Muzikistoj", "id": 31762}], "successors": [{"name": "Ĵazflutistoj", "id": 363610}, {"name": "Usonaj_flutistoj", "id": 363609}, {"name": "Hungaraj_flutistoj", "id": 409975}]}
+{"name": "Flutistoj", "id": 237595, "predecessors": [{"name": "Muzikistoj", "id": 31762}], "successors": [{"name": "Ĵazflutistoj", "id": 363610}, {"name": "Hungaraj_flutistoj", "id": 409975}, {"name": "Usonaj_ĵazflutistoj", "id": 363608}]}

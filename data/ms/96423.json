@@ -1,1 +1,1 @@
-{"name": "Kulat", "id": 96423, "predecessors": [{"name": "Biologi", "id": 11181}], "successors": [{"name": "Penyakit_kulat", "id": 1006622}]}
+{"name": "Kulat", "id": 96423, "predecessors": [{"name": "Mikologi", "id": 1006623}, {"name": "Biologi", "id": 11181}, {"name": "Taksonomi", "id": 389840}], "successors": [{"name": "Kulat_boleh_dimakan", "id": 96422}, {"name": "Penyakit_kulat", "id": 1006622}, {"name": "Mikologi", "id": 1006623}, {"name": "Antikulat", "id": 1156098}]}

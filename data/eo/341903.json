@@ -1,1 +1,1 @@
-{"name": "Kioto", "id": 341903, "predecessors": [{"name": "Gubernio_Kioto", "id": 341906}, {"name": "Kansajo", "id": 318308}, {"name": "Urboj_de_Gubernio_Kioto", "id": 440831}, {"name": "Urboj_de_Japanio", "id": 33540}], "successors": [{"name": "Kvartaloj_de_Kioto", "id": 504944}]}
+{"name": "Kioto", "id": 341903, "predecessors": [{"name": "Urboj_de_Gubernio_Kioto", "id": 440831}, {"name": "Urboj_de_Japanio", "id": 33540}, {"name": "Honŝuo", "id": 207009}, {"name": "Gubernioj_de_Japanio", "id": 341718}], "successors": [{"name": "Kvartaloj_de_Kioto", "id": 504944}]}

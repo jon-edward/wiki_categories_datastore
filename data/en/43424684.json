@@ -1,1 +1,1 @@
-{"name": "Jurassic_Norway", "id": 43424684, "predecessors": [{"name": "Geological_eras", "id": 47135538}, {"name": "Geological_periods", "id": 47135399}], "successors": [{"name": "Agardhfjellet_Formation", "id": 65323360}]}
+{"name": "Jurassic_Norway", "id": 43424684, "predecessors": [{"name": "Geologic_formations_of_Norway", "id": 47483595}, {"name": "Geological_periods", "id": 47135399}], "successors": [{"name": "Agardhfjellet_Formation", "id": 65323360}]}

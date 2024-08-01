@@ -1,1 +1,1 @@
-{"name": "Terrorist_incidents_in_Jammu_and_Kashmir", "id": 69425266, "predecessors": [{"name": "Crime_in_India", "id": 3541387}, {"name": "Terrorism_in_India", "id": 2373241}, {"name": "Military_operations_of_the_Kashmir_conflict", "id": 77209159}], "successors": [{"name": "Lashkar-e-Taiba_attacks", "id": 49985997}]}
+{"name": "Terrorist_incidents_in_Jammu_and_Kashmir", "id": 69425266, "predecessors": [{"name": "Jammu_and_Kashmir", "id": 1180955}, {"name": "Crime_in_India", "id": 3541387}], "successors": [{"name": "Lashkar-e-Taiba_attacks", "id": 49985997}]}

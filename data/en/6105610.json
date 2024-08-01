@@ -1,1 +1,1 @@
-{"name": "Fictional_anthropologists", "id": 6105610, "predecessors": [{"name": "Anthropology", "id": 694863}], "successors": [{"name": "Fictional_archaeologists", "id": 1310060}]}
+{"name": "Fictional_anthropologists", "id": 6105610, "predecessors": [{"name": "Anthropology", "id": 694863}, {"name": "Social_sciences", "id": 695042}], "successors": [{"name": "Fictional_archaeologists", "id": 1310060}]}

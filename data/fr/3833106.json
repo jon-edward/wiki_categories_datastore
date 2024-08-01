@@ -1,1 +1,0 @@
-{"name": "Jeu_d'action-aventure", "id": 3833106, "predecessors": [{"name": "Jeu_d'action", "id": 198636}, {"name": "Jeu_d'aventure", "id": 175280}], "successors": [{"name": "Jeu_d'infiltration", "id": 198601}, {"name": "Survival_horror", "id": 198844}, {"name": "GTA-like", "id": 1049120}, {"name": "Jeu_de_survie", "id": 9918804}, {"name": "Metroidvania", "id": 13210494}]}

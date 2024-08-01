@@ -1,1 +1,1 @@
-{"name": "Action_film_remakes", "id": 66339383, "predecessors": [{"name": "Action_films", "id": 692855}, {"name": "Film_remakes", "id": 1439706}], "successors": []}
+{"name": "Action_film_remakes", "id": 66339383, "predecessors": [{"name": "Film_remakes", "id": 1439706}, {"name": "Entertainment", "id": 693016}], "successors": []}

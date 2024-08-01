@@ -1,1 +1,1 @@
-{"name": "Statică", "id": 1329885, "predecessors": [{"name": "Concepte_fizice_fundamentale", "id": 86225}, {"name": "Mecanică_clasică", "id": 106222}, {"name": "Concepte", "id": 200389}], "successors": [{"name": "Solid_rigid", "id": 3000256}]}
+{"name": "Statică", "id": 1329885, "predecessors": [{"name": "Concepte_fizice_fundamentale", "id": 86225}, {"name": "Concepte", "id": 200389}], "successors": [{"name": "Solid_rigid", "id": 3000256}]}

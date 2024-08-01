@@ -1,1 +1,1 @@
-{"name": "Free_TeX_software", "id": 4209207, "predecessors": [{"name": "Free_typesetting_software", "id": 6702807}, {"name": "TeX", "id": 695136}], "successors": [{"name": "Free_TeX_editors", "id": 7123614}]}
+{"name": "Free_TeX_software", "id": 4209207, "predecessors": [{"name": "TeX", "id": 695136}], "successors": [{"name": "Free_TeX_editors", "id": 7123614}]}

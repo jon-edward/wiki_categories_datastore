@@ -1,1 +1,1 @@
-{"name": "Seating", "id": 61574540, "predecessors": [{"name": "Architectural_elements", "id": 911763}, {"name": "Seats", "id": 7992917}], "successors": [{"name": "Airliner_seating", "id": 34038929}]}
+{"name": "Seating", "id": 61574540, "predecessors": [{"name": "Architectural_elements", "id": 911763}], "successors": [{"name": "Airliner_seating", "id": 34038929}]}

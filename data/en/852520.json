@@ -1,1 +1,1 @@
-{"name": "Lamborghini_vehicles", "id": 852520, "predecessors": [{"name": "Cars_of_Italy", "id": 4336638}, {"name": "Lamborghini", "id": 852536}, {"name": "Luxury_vehicles", "id": 1028860}], "successors": [{"name": "Lamborghini_custom_and_concept_cars", "id": 19668084}]}
+{"name": "Lamborghini_vehicles", "id": 852520, "predecessors": [{"name": "Lamborghini", "id": 852536}, {"name": "Luxury_vehicles", "id": 1028860}], "successors": [{"name": "Lamborghini_custom_and_concept_cars", "id": 19668084}]}

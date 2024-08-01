@@ -1,1 +1,1 @@
-{"name": "Apis_mellifera", "id": 230524, "predecessors": [{"name": "Apicultură", "id": 105658}, {"name": "Apidae", "id": 230526}], "successors": [{"name": "Plante_melifere", "id": 108179}]}
+{"name": "Apis_mellifera", "id": 230524, "predecessors": [{"name": "Apidae", "id": 230526}, {"name": "Polenizare", "id": 234461}], "successors": [{"name": "Plante_melifere", "id": 108179}]}

@@ -1,1 +1,1 @@
-{"name": "University_of_Oregon_campus", "id": 48364562, "predecessors": [{"name": "Campuses", "id": 8525766}], "successors": []}
+{"name": "University_of_Oregon_campus", "id": 48364562, "predecessors": [{"name": "Buildings_and_structures_in_Eugene,_Oregon", "id": 24315654}, {"name": "University_of_Oregon", "id": 3407674}, {"name": "Neighborhoods_in_Oregon", "id": 8268767}], "successors": [{"name": "University_of_Oregon_buildings", "id": 11124074}]}

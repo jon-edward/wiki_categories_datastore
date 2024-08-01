@@ -1,1 +1,1 @@
-{"name": "Stacioj_de_la_metroo_de_Bilbao", "id": 829267, "predecessors": [{"name": "Metroo_de_Bilbao", "id": 829262}, {"name": "Fervoja_transporto", "id": 588553}], "successors": []}
+{"name": "Stacioj_de_la_metroo_de_Bilbao", "id": 829267, "predecessors": [{"name": "Bilbao", "id": 309722}, {"name": "Fervoja_transporto", "id": 588553}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Saksalaiset_rumpalit", "id": 131667, "predecessors": [{"name": "Saksalaiset_muusikot", "id": 74163}, {"name": "Muusikot", "id": 25103}], "successors": []}
+{"name": "Saksalaiset_rumpalit", "id": 131667, "predecessors": [{"name": "Muusikot", "id": 25103}, {"name": "Lyömäsoittajat", "id": 361447}], "successors": []}

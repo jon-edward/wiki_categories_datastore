@@ -1,1 +1,1 @@
-{"name": "Military_expeditions", "id": 36565431, "predecessors": [{"name": "Military_operations", "id": 4759839}, {"name": "Exploration", "id": 968416}], "successors": [{"name": "Military_expeditions_of_the_United_States", "id": 8074454}, {"name": "Punitive_expeditions", "id": 36578867}]}
+{"name": "Military_expeditions", "id": 36565431, "predecessors": [{"name": "Military_operations", "id": 4759839}, {"name": "Exploration", "id": 968416}], "successors": [{"name": "Military_expeditions_of_the_United_States", "id": 8074454}]}

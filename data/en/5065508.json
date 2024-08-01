@@ -1,1 +1,1 @@
-{"name": "Peacekeeping", "id": 5065508, "predecessors": [{"name": "Military_operations_other_than_war", "id": 24514838}, {"name": "Peace", "id": 1243099}], "successors": [{"name": "Indian_Peace_Keeping_Force", "id": 9021443}, {"name": "Peacekeeping_operations", "id": 9747006}, {"name": "United_Nations_peacekeeping", "id": 24170484}]}
+{"name": "Peacekeeping", "id": 5065508, "predecessors": [{"name": "Peace", "id": 1243099}], "successors": [{"name": "Indian_Peace_Keeping_Force", "id": 9021443}]}

@@ -1,1 +1,1 @@
-{"name": "Analize_sanguine", "id": 2602019, "predecessors": [{"name": "Hematologie", "id": 185584}, {"name": "Specialități_medicale", "id": 760126}], "successors": []}
+{"name": "Analize_sanguine", "id": 2602019, "predecessors": [{"name": "Hematologie", "id": 185584}, {"name": "Laboratoare", "id": 886930}], "successors": []}

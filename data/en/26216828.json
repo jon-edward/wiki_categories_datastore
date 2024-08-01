@@ -1,1 +1,1 @@
-{"name": "Island_restoration", "id": 26216828, "predecessors": [{"name": "Ecological_restoration", "id": 24997051}], "successors": []}
+{"name": "Island_restoration", "id": 26216828, "predecessors": [{"name": "Ecological_restoration", "id": 24997051}, {"name": "Insular_ecology", "id": 43658684}, {"name": "Islands", "id": 698414}], "successors": []}

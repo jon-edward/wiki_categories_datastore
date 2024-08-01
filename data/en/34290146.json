@@ -1,1 +1,1 @@
-{"name": "Criminal_duos", "id": 34290146, "predecessors": [{"name": "Justice", "id": 2388327}], "successors": [{"name": "Criminal_couples", "id": 75594587}, {"name": "Criminal_sibling_duos", "id": 75594680}]}
+{"name": "Criminal_duos", "id": 34290146, "predecessors": [{"name": "Duos", "id": 3815961}, {"name": "Justice", "id": 2388327}], "successors": [{"name": "Criminal_couples", "id": 75594587}, {"name": "Criminal_sibling_duos", "id": 75594680}, {"name": "Murderer_duos", "id": 75713761}, {"name": "Female_criminal_duos", "id": 77406580}]}

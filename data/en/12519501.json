@@ -1,1 +1,1 @@
-{"name": "PGA_Championship", "id": 12519501, "predecessors": [{"name": "Men's_culture", "id": 38602430}], "successors": []}
+{"name": "PGA_Championship", "id": 12519501, "predecessors": [{"name": "PGA_Tour_events", "id": 5037861}, {"name": "Competitions", "id": 737119}], "successors": []}

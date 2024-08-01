@@ -1,1 +1,1 @@
-{"name": "Nemoci_včel", "id": 1306807, "predecessors": [{"name": "Nemoci_zvířat", "id": 256154}, {"name": "Včelařství", "id": 37636}, {"name": "Včely", "id": 1291220}], "successors": []}
+{"name": "Nemoci_a_škůdci_včel", "id": 1306807, "predecessors": [{"name": "Nemoci_zvířat", "id": 256154}, {"name": "Včelařství", "id": 37636}, {"name": "Škůdci", "id": 287405}, {"name": "Škůdci_v_zemědělství", "id": 13922}], "successors": []}

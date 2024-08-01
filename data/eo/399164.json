@@ -1,1 +1,1 @@
-{"name": "Muzikscienco", "id": 399164, "predecessors": [{"name": "Muzika_edukado", "id": 271899}, {"name": "Muzika_teorio", "id": 83112}, {"name": "Universitataj_studfakoj", "id": 438865}], "successors": [{"name": "Muzikhistorio", "id": 31825}, {"name": "Balenaj_sonoj", "id": 623040}]}
+{"name": "Muzikscienco", "id": 399164, "predecessors": [{"name": "Muzika_edukado", "id": 271899}, {"name": "Muzika_teorio", "id": 83112}, {"name": "Universitataj_studfakoj", "id": 438865}], "successors": [{"name": "Muzikhistorio", "id": 31825}]}

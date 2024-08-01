@@ -1,1 +1,1 @@
-{"name": "Petrol", "id": 158997, "predecessors": [{"name": "Geologie", "id": 23100}], "successors": [{"name": "Produse_petroliere", "id": 158998}]}
+{"name": "Petrol", "id": 158997, "predecessors": [{"name": "Geologie", "id": 23100}, {"name": "Materiale", "id": 36042}, {"name": "Resurse_naturale", "id": 127698}], "successors": [{"name": "Produse_petroliere", "id": 158998}]}

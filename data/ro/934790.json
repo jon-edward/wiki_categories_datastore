@@ -1,1 +1,1 @@
-{"name": "Ioni", "id": 934790, "predecessors": [{"name": "Atomi", "id": 206242}, {"name": "Electrochimie", "id": 234673}, {"name": "Legături_chimice", "id": 891509}], "successors": [{"name": "Anioni", "id": 1500615}, {"name": "Cationi", "id": 1994973}]}
+{"name": "Ioni", "id": 934790, "predecessors": [{"name": "Atomi", "id": 206242}, {"name": "Electrochimie", "id": 234673}, {"name": "Legături_chimice", "id": 891509}, {"name": "Substanțe_chimice", "id": 760265}], "successors": [{"name": "Anioni", "id": 1500615}, {"name": "Cationi", "id": 1994973}]}

@@ -1,1 +1,1 @@
-{"name": "Watak_cerita_rakyat", "id": 1081486, "predecessors": [{"name": "Cerita_rakyat", "id": 361066}, {"name": "Budaya", "id": 8025}], "successors": [{"name": "Watak_cerita_rakyat_Melayu", "id": 361065}]}
+{"name": "Watak_cerita_rakyat", "id": 1081486, "predecessors": [{"name": "Cerita_rakyat", "id": 361066}, {"name": "Watak_cereka", "id": 85531}], "successors": [{"name": "Watak_cerita_rakyat_Melayu", "id": 361065}]}

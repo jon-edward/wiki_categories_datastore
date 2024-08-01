@@ -1,1 +1,1 @@
-{"name": "Ebola", "id": 1001338, "predecessors": [{"name": "Penyakit_tropika", "id": 1001337}, {"name": "Zoonosis", "id": 983011}, {"name": "Virologi_haiwan", "id": 982278}], "successors": []}
+{"name": "Ebola", "id": 1001338, "predecessors": [{"name": "Penyakit_tropika", "id": 1001337}, {"name": "Zoonosis", "id": 983011}, {"name": "Penyakit_virus", "id": 982364}], "successors": []}

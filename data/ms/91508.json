@@ -1,1 +1,1 @@
-{"name": "Daging", "id": 91508, "predecessors": [{"name": "Makanan", "id": 28867}, {"name": "Produk_haiwan", "id": 907682}, {"name": "Kematian", "id": 84557}], "successors": [{"name": "Hidangan_daging", "id": 882418}, {"name": "Potongan_daging_lembu", "id": 1045774}]}
+{"name": "Daging", "id": 91508, "predecessors": [{"name": "Makanan", "id": 28867}, {"name": "Produk_haiwan", "id": 907682}, {"name": "Haiwan", "id": 21020}], "successors": [{"name": "Hidangan_daging", "id": 882418}, {"name": "Potongan_daging_lembu", "id": 1045774}]}

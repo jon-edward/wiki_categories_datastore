@@ -1,1 +1,1 @@
-{"name": "Povestiri_ecranizate", "id": 2208208, "predecessors": [{"name": "Povestiri", "id": 606561}], "successors": []}
+{"name": "Povestiri_ecranizate", "id": 2208208, "predecessors": [{"name": "Ecranizări", "id": 2208209}, {"name": "Povestiri", "id": 606561}], "successors": []}

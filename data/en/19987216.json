@@ -1,1 +1,1 @@
-{"name": "Non-passenger_multiple_units", "id": 19987216, "predecessors": [{"name": "Multiple_units", "id": 1770730}], "successors": []}
+{"name": "Non-passenger_multiple_units", "id": 19987216, "predecessors": [{"name": "Rolling_stock", "id": 1103564}], "successors": []}

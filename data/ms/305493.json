@@ -1,1 +1,1 @@
-{"name": "Taman", "id": 305493, "predecessors": [{"name": "Rekreasi", "id": 82291}, {"name": "Geografi_manusia", "id": 76451}], "successors": [{"name": "Taman_botani", "id": 1039899}, {"name": "Zoo_di_Malaysia", "id": 222162}, {"name": "Zoo_di_China", "id": 1115518}]}
+{"name": "Taman", "id": 305493, "predecessors": [{"name": "Geografi_manusia", "id": 76451}], "successors": [{"name": "Taman_botani", "id": 1039899}, {"name": "Zoo_di_Malaysia", "id": 222162}, {"name": "Zoo_di_China", "id": 1115518}]}

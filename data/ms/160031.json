@@ -1,1 +1,1 @@
-{"name": "Pencernaan_anaerob", "id": 160031, "predecessors": [{"name": "Pengurusan_sisa", "id": 160033}, {"name": "Teknologi", "id": 8027}], "successors": []}
+{"name": "Pencernaan_anaerob", "id": 160031, "predecessors": [{"name": "Pengurusan_sisa", "id": 160033}, {"name": "Alam_sekitar", "id": 133164}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Telephone_services", "id": 21027223, "predecessors": [{"name": "Telephony", "id": 1048611}], "successors": [{"name": "Telephone_service_enhanced_features", "id": 4664623}, {"name": "Information_by_telephone", "id": 30634709}]}
+{"name": "Telephone_services", "id": 21027223, "predecessors": [{"name": "Telecommunication_services", "id": 5074850}, {"name": "Telephony", "id": 1048611}], "successors": [{"name": "Telephone_service_enhanced_features", "id": 4664623}, {"name": "Information_by_telephone", "id": 30634709}]}

@@ -1,1 +1,1 @@
-{"name": "Textile", "id": 36045, "predecessors": [{"name": "Industria_textilă", "id": 183162}, {"name": "Materiale", "id": 36042}, {"name": "Modă", "id": 36044}], "successors": [{"name": "Îmbrăcăminte", "id": 389147}, {"name": "Artă_textilă", "id": 922684}, {"name": "Fibre", "id": 1161787}]}
+{"name": "Textile", "id": 36045, "predecessors": [{"name": "Materiale", "id": 36042}, {"name": "Modă", "id": 36044}], "successors": [{"name": "Artă_textilă", "id": 922684}]}

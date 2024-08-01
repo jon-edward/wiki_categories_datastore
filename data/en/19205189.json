@@ -1,1 +1,1 @@
-{"name": "Rail_lines_receiving_land_grants", "id": 19205189, "predecessors": [{"name": "Land_grants", "id": 48325951}, {"name": "Railway_lines", "id": 1195239}], "successors": [{"name": "First_transcontinental_railroad", "id": 42254377}]}
+{"name": "Rail_lines_receiving_land_grants", "id": 19205189, "predecessors": [{"name": "Railway_lines", "id": 1195239}], "successors": [{"name": "First_transcontinental_railroad", "id": 42254377}]}

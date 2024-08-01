@@ -1,1 +1,1 @@
-{"name": "Cytokines", "id": 1272317, "predecessors": [{"name": "Immune_system", "id": 729294}, {"name": "Proteins_by_function", "id": 51665272}, {"name": "Signal_transduction", "id": 754106}], "successors": [{"name": "Interleukins", "id": 50879480}]}
+{"name": "Cytokines", "id": 1272317, "predecessors": [{"name": "Immune_system", "id": 729294}, {"name": "Signal_transduction", "id": 754106}, {"name": "Proteins", "id": 717889}], "successors": [{"name": "Interleukins", "id": 50879480}, {"name": "Chemokine_receptors", "id": 14187047}]}

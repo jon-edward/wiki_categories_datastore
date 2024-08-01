@@ -1,1 +1,1 @@
-{"name": "Penerbitan_akademik", "id": 165362, "predecessors": [{"name": "Akademia", "id": 82520}, {"name": "Penerbitan", "id": 83796}], "successors": [{"name": "Buku_sains", "id": 165360}, {"name": "Jurnal_berbahasa_Inggeris", "id": 966656}]}
+{"name": "Penerbitan_akademik", "id": 165362, "predecessors": [{"name": "Akademia", "id": 82520}], "successors": [{"name": "Buku_sains", "id": 165360}, {"name": "Jurnal_berbahasa_Inggeris", "id": 966656}]}

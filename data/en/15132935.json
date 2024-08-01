@@ -1,1 +1,1 @@
-{"name": "Infants'_clothing", "id": 15132935, "predecessors": [{"name": "Infancy", "id": 1737226}], "successors": [{"name": "Diapers", "id": 19331980}]}
+{"name": "Infants'_clothing", "id": 15132935, "predecessors": [{"name": "Children's_clothing", "id": 5114113}, {"name": "Infancy", "id": 1737226}], "successors": [{"name": "Diapers", "id": 19331980}]}

@@ -1,1 +1,1 @@
-{"name": "Energy_business_associations", "id": 50956398, "predecessors": [{"name": "Trade_associations", "id": 27461932}, {"name": "Energy_organizations", "id": 18605597}, {"name": "Taxonomy", "id": 918375}], "successors": []}
+{"name": "Energy_business_associations", "id": 50956398, "predecessors": [{"name": "Energy_organizations", "id": 18605597}, {"name": "Standards", "id": 724561}, {"name": "Organizational_theory", "id": 1030978}], "successors": []}

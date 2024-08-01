@@ -1,1 +1,1 @@
-{"name": "Nas", "id": 2577598, "predecessors": [{"name": "Aparatul_respirator", "id": 135535}, {"name": "Anatomie_umană", "id": 608683}], "successors": []}
+{"name": "Nas", "id": 2577598, "predecessors": [{"name": "Aparatul_respirator", "id": 135535}, {"name": "Sistemul_nervos", "id": 69372}, {"name": "Anatomie_umană", "id": 608683}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Barataj_tradukistoj", "id": 676429, "predecessors": [{"name": "Barataj_lingvistoj", "id": 615071}, {"name": "Barataj_verkistoj", "id": 125904}, {"name": "Tradukistoj", "id": 101056}], "successors": []}
+{"name": "Barataj_tradukistoj", "id": 676429, "predecessors": [{"name": "Barataj_verkistoj", "id": 125904}, {"name": "Tradukistoj", "id": 101056}, {"name": "Barataj_sciencistoj", "id": 371379}], "successors": []}

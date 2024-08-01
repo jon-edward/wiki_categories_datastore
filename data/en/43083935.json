@@ -1,1 +1,1 @@
-{"name": "Caffeinated_alcoholic_drinks", "id": 43083935, "predecessors": [{"name": "Alcoholic_drinks", "id": 13294809}, {"name": "Caffeine", "id": 1000272}], "successors": [{"name": "Chocolate_liqueurs", "id": 23205565}, {"name": "Alcoholic_coffee_drinks", "id": 29261923}]}
+{"name": "Caffeinated_alcoholic_drinks", "id": 43083935, "predecessors": [{"name": "Alcoholic_drinks", "id": 13294809}, {"name": "Caffeine", "id": 1000272}], "successors": [{"name": "Alcoholic_coffee_drinks", "id": 29261923}]}

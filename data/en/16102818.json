@@ -1,1 +1,1 @@
-{"name": "Electronics_standards", "id": 16102818, "predecessors": [{"name": "Electronics", "id": 707661}], "successors": [{"name": "IEC_standards", "id": 865344}, {"name": "JEDEC_standards", "id": 10039031}, {"name": "Computer_hardware_standards", "id": 30857280}]}
+{"name": "Electronics_standards", "id": 16102818, "predecessors": [{"name": "Electronics", "id": 707661}, {"name": "Standards", "id": 724561}], "successors": [{"name": "IEC_standards", "id": 865344}]}

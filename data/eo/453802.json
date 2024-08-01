@@ -1,1 +1,1 @@
-{"name": "Politiko_pri_sano", "id": 453802, "predecessors": [{"name": "Politika_ekonomiko", "id": 439130}, {"name": "Sanservo", "id": 477174}, {"name": "Politiko", "id": 36390}], "successors": []}
+{"name": "Politiko_pri_sano", "id": 453802, "predecessors": [{"name": "Sanservo", "id": 477174}, {"name": "Politiko", "id": 36390}, {"name": "Alternativa_ekonomio", "id": 393357}], "successors": []}

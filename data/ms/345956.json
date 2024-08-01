@@ -1,1 +1,1 @@
-{"name": "Hidrogen", "id": 345956, "predecessors": [{"name": "Unsur_kimia", "id": 30090}, {"name": "Bahan_api", "id": 302380}], "successors": [{"name": "Sebatian_hidrogen", "id": 968952}, {"name": "Isotop_hidrogen", "id": 1006036}]}
+{"name": "Hidrogen", "id": 345956, "predecessors": [{"name": "Bahan_api", "id": 302380}], "successors": [{"name": "Sebatian_hidrogen", "id": 968952}, {"name": "Isotop_hidrogen", "id": 1006036}]}

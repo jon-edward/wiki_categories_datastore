@@ -1,1 +1,1 @@
-{"name": "Valută", "id": 53070, "predecessors": [{"name": "Forex", "id": 1110510}, {"name": "Monedă", "id": 14149}], "successors": []}
+{"name": "Valută", "id": 53070, "predecessors": [{"name": "Comerț_internațional", "id": 749412}, {"name": "Forex", "id": 1110510}, {"name": "Monedă", "id": 14149}], "successors": []}

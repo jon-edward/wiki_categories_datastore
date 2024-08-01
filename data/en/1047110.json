@@ -1,1 +1,1 @@
-{"name": "Lancia_vehicles", "id": 1047110, "predecessors": [{"name": "Cars_of_Italy", "id": 4336638}, {"name": "Lancia", "id": 1596385}, {"name": "Luxury_vehicles", "id": 1028860}], "successors": [{"name": "Lancia_trucks", "id": 40224619}, {"name": "Lancia_concept_vehicles", "id": 45138216}]}
+{"name": "Lancia_vehicles", "id": 1047110, "predecessors": [{"name": "Lancia", "id": 1596385}, {"name": "Luxury_vehicles", "id": 1028860}], "successors": [{"name": "Lancia_trucks", "id": 40224619}, {"name": "Lancia_concept_vehicles", "id": 45138216}]}

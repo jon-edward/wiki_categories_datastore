@@ -1,1 +1,1 @@
-{"name": "Chicago_\"L\"_rolling_stock", "id": 27169244, "predecessors": [{"name": "600_V_DC_multiple_units", "id": 59333177}, {"name": "Rapid_transit", "id": 4286827}, {"name": "Electric_railways_in_Illinois", "id": 30662609}], "successors": []}
+{"name": "Chicago_\"L\"_rolling_stock", "id": 27169244, "predecessors": [{"name": "600_V_DC_multiple_units", "id": 59333177}, {"name": "Rapid_transit", "id": 4286827}, {"name": "Chicago_Transit_Authority", "id": 2841503}], "successors": []}

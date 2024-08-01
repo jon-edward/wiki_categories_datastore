@@ -1,1 +1,1 @@
-{"name": "Holy_Week_processions", "id": 42989284, "predecessors": [{"name": "Catholic_holy_days", "id": 5562539}, {"name": "Easter_traditions", "id": 1658172}, {"name": "Holy_Week", "id": 17345709}], "successors": [{"name": "Holy_Week_in_Spain", "id": 38835457}]}
+{"name": "Holy_Week_processions", "id": 42989284, "predecessors": [{"name": "Catholic_holy_days", "id": 5562539}, {"name": "Christian_processions", "id": 61335899}, {"name": "Holy_Week", "id": 17345709}], "successors": [{"name": "Holy_Week_in_Spain", "id": 38835457}]}

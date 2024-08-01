@@ -1,1 +1,1 @@
-{"name": "Pendidik", "id": 83861, "predecessors": [{"name": "Pendidikan", "id": 8048}, {"name": "Pendidik", "id": 83861}, {"name": "Pekerjaan", "id": 29250}], "successors": [{"name": "Pendidik", "id": 83861}, {"name": "Pendidik_Malaysia", "id": 1048943}]}
+{"name": "Pendidik", "id": 83861, "predecessors": [{"name": "Pendidikan", "id": 8048}, {"name": "Akademia", "id": 82520}, {"name": "Pekerjaan", "id": 29250}], "successors": [{"name": "Pendidik_Malaysia", "id": 1048943}]}

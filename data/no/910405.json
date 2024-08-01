@@ -1,1 +1,1 @@
-{"name": "Videospillmesser", "id": 910405, "predecessors": [{"name": "Billedkunst", "id": 129011}, {"name": "Spill", "id": 12261}], "successors": [{"name": "Electronic_Entertainment_Expo", "id": 2062808}]}
+{"name": "Videospillmesser", "id": 910405, "predecessors": [{"name": "Videospill", "id": 349196}, {"name": "Spill", "id": 12261}], "successors": [{"name": "Electronic_Entertainment_Expo", "id": 2062808}]}

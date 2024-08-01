@@ -1,1 +1,1 @@
-{"name": "Televiziuni_adresate_copiilor_și_adolescenților", "id": 760306, "predecessors": [{"name": "Copii", "id": 209085}], "successors": [{"name": "Cartoon_Network", "id": 351369}, {"name": "Minimax", "id": 386720}, {"name": "Nickelodeon", "id": 2448847}]}
+{"name": "Televiziuni_adresate_copiilor_și_adolescenților", "id": 760306, "predecessors": [{"name": "Copii", "id": 209085}, {"name": "Televiziuni", "id": 111265}], "successors": [{"name": "Cartoon_Network", "id": 351369}, {"name": "Minimax", "id": 386720}, {"name": "Nickelodeon", "id": 2448847}]}

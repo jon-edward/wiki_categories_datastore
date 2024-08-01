@@ -1,1 +1,0 @@
-{"name": "WLAN", "id": 288767, "predecessors": [{"name": "Funkkommunikationsstandard", "id": 6748282}, {"name": "Funknetz", "id": 2312940}, {"name": "Internetzugang", "id": 2388945}, {"name": "Netzwerkarchitektur", "id": 586969}], "successors": [{"name": "Freifunk", "id": 1611720}]}

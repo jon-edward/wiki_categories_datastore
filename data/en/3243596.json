@@ -1,0 +1,1 @@
+{"name": "Optical_materials", "id": 3243596, "predecessors": [{"name": "Materials", "id": 722279}, {"name": "Optics", "id": 692743}, {"name": "Transparent_materials", "id": 15618559}], "successors": [{"name": "Nonlinear_optical_materials", "id": 3407485}, {"name": "Phosphors_and_scintillators", "id": 4602888}, {"name": "Laser_gain_media", "id": 13026222}]}

@@ -1,1 +1,1 @@
-{"name": "Zakat", "id": 40512300, "predecessors": [{"name": "Islamic_worship", "id": 49486523}, {"name": "Islamic_economic_jurisprudence", "id": 7756650}, {"name": "Islamic_ethics", "id": 20589394}], "successors": []}
+{"name": "Zakat", "id": 40512300, "predecessors": [{"name": "Sharia", "id": 6478588}, {"name": "Islamic_economic_jurisprudence", "id": 7756650}], "successors": []}

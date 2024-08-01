@@ -1,1 +1,0 @@
-{"name": "Brits_producent", "id": 3885885, "predecessors": [{"name": "Brits_persoon", "id": 67868}, {"name": "Media", "id": 63968}], "successors": [{"name": "Brits_filmproducent", "id": 1450807}, {"name": "Brits_muziekproducent", "id": 1785189}, {"name": "Brits_televisieproducent", "id": 1906210}]}

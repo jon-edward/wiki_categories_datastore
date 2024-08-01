@@ -1,1 +1,1 @@
-{"name": "Microkernel-based_operating_systems", "id": 20290726, "predecessors": [{"name": "Microkernels", "id": 10730980}], "successors": [{"name": "MINIX", "id": 55753565}]}
+{"name": "Microkernel-based_operating_systems", "id": 20290726, "predecessors": [{"name": "Microkernels", "id": 10730980}, {"name": "Operating_systems", "id": 693664}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Ralat_komputer", "id": 283299, "predecessors": [{"name": "Pengkomputeran", "id": 42052}, {"name": "Ralat", "id": 283300}], "successors": []}
+{"name": "Ralat_komputer", "id": 283299, "predecessors": [{"name": "Pengkomputeran", "id": 42052}, {"name": "Ralat", "id": 283300}], "successors": [{"name": "Anomali_perisian", "id": 283293}]}

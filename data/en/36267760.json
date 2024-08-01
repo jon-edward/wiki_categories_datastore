@@ -1,1 +1,1 @@
-{"name": "Television_advertising", "id": 36267760, "predecessors": [{"name": "Advertising_by_medium", "id": 11597314}, {"name": "Entertainment", "id": 693016}, {"name": "Entertainment_industry", "id": 40423958}], "successors": []}
+{"name": "Television_advertising", "id": 36267760, "predecessors": [{"name": "Advertising_by_medium", "id": 11597314}, {"name": "Broadcasting", "id": 765733}, {"name": "Entertainment_industry", "id": 40423958}], "successors": [{"name": "Infomercials", "id": 27871955}]}

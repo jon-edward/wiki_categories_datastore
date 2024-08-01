@@ -1,1 +1,1 @@
-{"name": "Museum_administrators", "id": 67261389, "predecessors": [{"name": "Administrators", "id": 3389419}], "successors": []}
+{"name": "Museum_administrators", "id": 67261389, "predecessors": [{"name": "Administrators", "id": 3389419}, {"name": "Museum_occupations", "id": 7773230}], "successors": [{"name": "Museum_directors", "id": 9955400}]}

@@ -1,1 +1,1 @@
-{"name": "Swiss_hoteliers", "id": 37681934, "predecessors": [{"name": "Swiss_businesspeople", "id": 2073096}], "successors": []}
+{"name": "Swiss_hoteliers", "id": 37681934, "predecessors": [{"name": "Hoteliers", "id": 7961319}, {"name": "Swiss_businesspeople", "id": 2073096}], "successors": []}

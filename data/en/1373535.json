@@ -1,1 +1,1 @@
-{"name": "Transliteration", "id": 1373535, "predecessors": [{"name": "Text", "id": 40613717}, {"name": "Writing_systems", "id": 694776}], "successors": [{"name": "Cyrillization", "id": 1373582}, {"name": "Romanization", "id": 1373587}, {"name": "Sanskrit_transliteration", "id": 66239693}]}
+{"name": "Transliteration", "id": 1373535, "predecessors": [{"name": "Text", "id": 40613717}, {"name": "Writing_systems", "id": 694776}], "successors": [{"name": "Cyrillization", "id": 1373582}]}

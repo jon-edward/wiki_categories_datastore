@@ -1,1 +1,1 @@
-{"name": "Logic_literature", "id": 22410600, "predecessors": [{"name": "Logic", "id": 693678}, {"name": "Mathematics_literature", "id": 10420868}, {"name": "Humanities", "id": 1004110}], "successors": [{"name": "Logic_books", "id": 8974527}, {"name": "Logic_journals", "id": 22910690}]}
+{"name": "Logic_literature", "id": 22410600, "predecessors": [{"name": "Logic", "id": 693678}, {"name": "Humanities", "id": 1004110}], "successors": [{"name": "Logic_books", "id": 8974527}, {"name": "Logic_journals", "id": 22910690}]}

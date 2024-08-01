@@ -1,1 +1,1 @@
-{"name": "Hestesport_i_USA", "id": 1782589, "predecessors": [{"name": "Kultur_i_USA", "id": 469220}, {"name": "Hestesport", "id": 60262}], "successors": [{"name": "Ryttere_fra_USA", "id": 555476}, {"name": "Polospillere_fra_USA", "id": 665963}]}
+{"name": "Hestesport_i_USA", "id": 1782589, "predecessors": [{"name": "Sport_i_USA", "id": 469505}, {"name": "Hestesport", "id": 60262}], "successors": [{"name": "Ryttere_fra_USA", "id": 555476}, {"name": "Polospillere_fra_USA", "id": 665963}]}

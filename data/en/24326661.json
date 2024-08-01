@@ -1,1 +1,1 @@
-{"name": "Museums_in_Cardiff", "id": 24326661, "predecessors": [{"name": "Buildings_and_structures_in_Cardiff", "id": 2817080}, {"name": "Culture_in_Cardiff", "id": 3563084}, {"name": "Tourist_attractions_in_Cardiff", "id": 22974103}, {"name": "Tourist_attractions_in_Wales", "id": 1722164}], "successors": [{"name": "St_Fagans_National_Museum_of_History", "id": 40645055}]}
+{"name": "Museums_in_Cardiff", "id": 24326661, "predecessors": [{"name": "Tourist_attractions_in_Wales", "id": 1722164}], "successors": [{"name": "St_Fagans_National_Museum_of_History", "id": 40645055}]}

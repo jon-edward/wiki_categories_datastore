@@ -1,1 +1,1 @@
-{"name": "Kesusasteraan_Melayu", "id": 59739, "predecessors": [{"name": "Bahasa", "id": 7137}, {"name": "Bahasa_Melayu", "id": 6882}], "successors": [{"name": "Manuskrip_Melayu", "id": 117304}]}
+{"name": "Kesusasteraan_Melayu", "id": 59739, "predecessors": [{"name": "Kesusasteraan", "id": 25085}, {"name": "Bahasa_Melayu", "id": 6882}], "successors": [{"name": "Manuskrip_Melayu", "id": 117304}]}

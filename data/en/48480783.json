@@ -1,1 +1,1 @@
-{"name": "Molds_used_in_food_production", "id": 48480783, "predecessors": [{"name": "Edible_fungi", "id": 22255031}], "successors": []}
+{"name": "Molds_used_in_food_production", "id": 48480783, "predecessors": [{"name": "Edible_fungi", "id": 22255031}, {"name": "Food_microbiology", "id": 71193966}], "successors": []}

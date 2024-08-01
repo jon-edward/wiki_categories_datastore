@@ -1,1 +1,1 @@
-{"name": "Kumpulan_muzik_metalcore", "id": 866359, "predecessors": [{"name": "Kumpulan_muzik", "id": 23633}, {"name": "Genre_muzik", "id": 41476}], "successors": [{"name": "Kumpulan_muzik_deathcore", "id": 1177900}]}
+{"name": "Kumpulan_muzik_metalcore", "id": 866359, "predecessors": [{"name": "Genre_muzik", "id": 41476}], "successors": [{"name": "Kumpulan_muzik_deathcore", "id": 1177900}]}

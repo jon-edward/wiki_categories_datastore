@@ -1,1 +1,1 @@
-{"name": "Integrated_hydrologic_modelling", "id": 17687814, "predecessors": [{"name": "Hydrology_models", "id": 11284086}], "successors": []}
+{"name": "Integrated_hydrologic_modelling", "id": 17687814, "predecessors": [{"name": "Hydrology_models", "id": 11284086}, {"name": "Geographic_data_and_information", "id": 51208626}], "successors": []}

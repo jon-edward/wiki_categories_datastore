@@ -1,1 +1,1 @@
-{"name": "Weight_training_equipment", "id": 4503668, "predecessors": [{"name": "Exercise_equipment", "id": 1099621}, {"name": "Weight_training", "id": 1217905}], "successors": []}
+{"name": "Weight_training_equipment", "id": 4503668, "predecessors": [{"name": "Exercise_equipment", "id": 1099621}, {"name": "Weight_training", "id": 1217905}, {"name": "Weights", "id": 72973447}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Intoxication", "id": 10216189, "predecessors": [{"name": "Alcohol_abuse", "id": 2387019}, {"name": "Poisoning_by_drugs,_medicaments_and_biological_substances", "id": 27158536}], "successors": [{"name": "Substance_intoxication", "id": 32516250}]}
+{"name": "Intoxication", "id": 10216189, "predecessors": [{"name": "Alcohol_abuse", "id": 2387019}, {"name": "Poisoning_by_drugs,_medicaments_and_biological_substances", "id": 27158536}], "successors": []}

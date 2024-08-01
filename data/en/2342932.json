@@ -1,1 +1,1 @@
-{"name": "Star_Wars_games", "id": 2342932, "predecessors": [{"name": "Works_based_on_Star_Wars", "id": 38804641}, {"name": "Space_opera", "id": 23159563}], "successors": [{"name": "Star_Wars_video_games", "id": 9572147}]}
+{"name": "Star_Wars_games", "id": 2342932, "predecessors": [{"name": "Space_opera", "id": 23159563}, {"name": "Star_Wars", "id": 691675}], "successors": [{"name": "Star_Wars_video_games", "id": 9572147}]}

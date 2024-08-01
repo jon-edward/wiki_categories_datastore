@@ -1,1 +1,1 @@
-{"name": "Geografi_ekonomi", "id": 154000, "predecessors": [{"name": "Geografi_manusia", "id": 76451}, {"name": "Ekonomi", "id": 26641}, {"name": "Disiplin_akademik", "id": 75960}], "successors": [{"name": "Pengglobalan", "id": 663035}]}
+{"name": "Geografi_ekonomi", "id": 154000, "predecessors": [{"name": "Geografi_manusia", "id": 76451}, {"name": "Geografi", "id": 8046}, {"name": "Ekonomi", "id": 26641}, {"name": "Disiplin_akademik", "id": 75960}], "successors": [{"name": "Pengglobalan", "id": 663035}]}

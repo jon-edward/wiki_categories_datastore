@@ -1,1 +1,1 @@
-{"name": "Rail_lines_in_California", "id": 23865256, "predecessors": [{"name": "Railway_lines_in_the_United_States", "id": 33710404}], "successors": [{"name": "Pacific_Electric_routes", "id": 64332621}]}
+{"name": "Rail_lines_in_California", "id": 23865256, "predecessors": [{"name": "Railway_lines_in_the_United_States", "id": 33710404}, {"name": "Rail_transportation_in_California", "id": 32914555}], "successors": []}

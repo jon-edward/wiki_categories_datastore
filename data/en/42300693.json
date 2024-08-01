@@ -1,1 +1,1 @@
-{"name": "Han_dynasty_empresses", "id": 42300693, "predecessors": [{"name": "Chinese_empresses", "id": 2539520}, {"name": "Women_in_China", "id": 37580110}], "successors": [{"name": "Han_dynasty_imperial_consorts", "id": 42300738}]}
+{"name": "Han_dynasty_empresses", "id": 42300693, "predecessors": [{"name": "Chinese_empresses", "id": 2539520}, {"name": "Han_dynasty", "id": 42300580}, {"name": "Women_in_China", "id": 37580110}], "successors": [{"name": "Han_dynasty_imperial_consorts", "id": 42300738}, {"name": "Han_dynasty_empresses_dowager", "id": 43166254}]}

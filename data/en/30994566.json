@@ -1,1 +1,1 @@
-{"name": "Metric_spaces", "id": 30994566, "predecessors": [{"name": "Space_(mathematics)", "id": 73209975}], "successors": []}
+{"name": "Metric_spaces", "id": 30994566, "predecessors": [{"name": "Mathematical_structures", "id": 20083363}], "successors": [{"name": "Color_space", "id": 916744}, {"name": "Riemannian_manifolds", "id": 34574335}]}

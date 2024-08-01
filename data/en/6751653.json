@@ -1,1 +1,1 @@
-{"name": "DNA-binding_proteins", "id": 6751653, "predecessors": [{"name": "DNA-binding_substances", "id": 22278864}, {"name": "Proteins_by_function", "id": 51665272}], "successors": [{"name": "Transcription_factors", "id": 3380638}, {"name": "Telomere-binding_proteins", "id": 62046191}]}
+{"name": "DNA-binding_proteins", "id": 6751653, "predecessors": [{"name": "DNA-binding_substances", "id": 22278864}, {"name": "Proteins", "id": 717889}], "successors": [{"name": "Transcription_factors", "id": 3380638}, {"name": "Telomere-binding_proteins", "id": 62046191}]}

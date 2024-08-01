@@ -1,1 +1,1 @@
-{"name": "Makhluk_legenda", "id": 62974, "predecessors": [{"name": "Tradisi", "id": 84574}], "successors": [{"name": "Mamalia_legenda", "id": 163185}, {"name": "Naga", "id": 315603}, {"name": "Makhluk_legenda_Cina", "id": 180578}]}
+{"name": "Makhluk_legenda", "id": 62974, "predecessors": [{"name": "Haiwan", "id": 21020}, {"name": "Tradisi", "id": 84574}], "successors": [{"name": "Mamalia_legenda", "id": 163185}, {"name": "Naga", "id": 315603}]}

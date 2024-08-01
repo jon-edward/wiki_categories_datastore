@@ -1,1 +1,1 @@
-{"name": "Military_snipers", "id": 11058354, "predecessors": [{"name": "Military_personnel", "id": 6660319}, {"name": "Snipers", "id": 1683032}], "successors": [{"name": "Soviet_military_snipers", "id": 53157721}]}
+{"name": "Military_snipers", "id": 11058354, "predecessors": [{"name": "Military_personnel", "id": 6660319}, {"name": "Snipers", "id": 1683032}], "successors": [{"name": "American_military_snipers", "id": 47832172}, {"name": "Soviet_military_snipers", "id": 53157721}]}

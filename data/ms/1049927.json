@@ -1,1 +1,1 @@
-{"name": "Genetik_molekul", "id": 1049927, "predecessors": [{"name": "Biologi_molekul", "id": 84879}, {"name": "Bioteknologi", "id": 76470}, {"name": "Genetik", "id": 57509}], "successors": [{"name": "Ekspresi_gen", "id": 1156713}]}
+{"name": "Genetik_molekul", "id": 1049927, "predecessors": [{"name": "Biologi_molekul", "id": 84879}, {"name": "Bioteknologi", "id": 76470}], "successors": [{"name": "Ekspresi_gen", "id": 1156713}]}

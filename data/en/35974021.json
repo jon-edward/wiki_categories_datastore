@@ -1,1 +1,1 @@
-{"name": "Tourist_attractions_in_Quintana_Roo", "id": 35974021, "predecessors": [{"name": "Quintana_Roo", "id": 2843469}, {"name": "Tourist_attractions_in_Mexico", "id": 4756716}], "successors": [{"name": "Protected_areas_of_Quintana_Roo", "id": 36017143}, {"name": "Cancún", "id": 38858877}]}
+{"name": "Tourist_attractions_in_Quintana_Roo", "id": 35974021, "predecessors": [{"name": "Quintana_Roo", "id": 2843469}], "successors": [{"name": "Cancún", "id": 38858877}]}

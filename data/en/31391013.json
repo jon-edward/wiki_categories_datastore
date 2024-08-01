@@ -1,1 +1,1 @@
-{"name": "Birds_of_Patagonia", "id": 31391013, "predecessors": [{"name": "Birds_of_Chile", "id": 7858976}], "successors": [{"name": "Birds_of_Tierra_del_Fuego", "id": 7863554}]}
+{"name": "Birds_of_Patagonia", "id": 31391013, "predecessors": [{"name": "Birds_of_Chile", "id": 7858976}, {"name": "Ecology_of_Patagonia", "id": 54503489}], "successors": [{"name": "Birds_of_Tierra_del_Fuego", "id": 7863554}]}

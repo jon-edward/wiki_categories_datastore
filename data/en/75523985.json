@@ -1,1 +1,1 @@
-{"name": "Monorail_lines", "id": 75523985, "predecessors": [{"name": "Monorails", "id": 1699880}, {"name": "Railway_lines", "id": 1195239}], "successors": [{"name": "Monorail_lines_in_Japan", "id": 75524082}]}
+{"name": "Monorail_lines", "id": 75523985, "predecessors": [{"name": "Monorails", "id": 1699880}, {"name": "Railway_lines", "id": 1195239}], "successors": []}

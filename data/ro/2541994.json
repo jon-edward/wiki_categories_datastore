@@ -1,1 +1,1 @@
-{"name": "Stații_de_metrou_din_Praga", "id": 2541994, "predecessors": [{"name": "Metroul_din_Praga", "id": 109819}], "successors": []}
+{"name": "Stații_de_metrou_din_Praga", "id": 2541994, "predecessors": [{"name": "Metroul_din_Praga", "id": 109819}, {"name": "Sisteme_de_metrou", "id": 20947}], "successors": []}

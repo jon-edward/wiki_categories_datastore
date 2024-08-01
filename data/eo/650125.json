@@ -1,1 +1,1 @@
-{"name": "Publikaj_rilatoj", "id": 650125, "predecessors": [{"name": "Amaskomunikila_manipulado", "id": 639971}, {"name": "Publika_opinio", "id": 637742}, {"name": "Komunikado", "id": 52357}], "successors": [{"name": "Politika_ĝusteco", "id": 650124}]}
+{"name": "Publikaj_rilatoj", "id": 650125, "predecessors": [{"name": "Komunikado", "id": 52357}, {"name": "Kredo", "id": 436593}, {"name": "Amaskomunikila_scienco", "id": 604288}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Fikciaj_arboj", "id": 540657, "predecessors": [{"name": "Fikciaj_plantoj", "id": 540651}, {"name": "Arboj", "id": 115556}], "successors": [{"name": "Arboj_en_mitologio", "id": 540647}]}
+{"name": "Fikciaj_arboj", "id": 540657, "predecessors": [{"name": "Plantoj", "id": 23532}, {"name": "Arboj", "id": 115556}], "successors": [{"name": "Arboj_en_mitologio", "id": 540647}]}

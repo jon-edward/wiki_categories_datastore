@@ -1,1 +1,1 @@
-{"name": "Prison_healthcare", "id": 55667778, "predecessors": [{"name": "Medical_specialties", "id": 1449968}, {"name": "Prisons", "id": 698491}], "successors": [{"name": "Prison_hospitals", "id": 64526223}]}
+{"name": "Prison_healthcare", "id": 55667778, "predecessors": [{"name": "Medical_specialties", "id": 1449968}, {"name": "Prisons", "id": 698491}], "successors": []}

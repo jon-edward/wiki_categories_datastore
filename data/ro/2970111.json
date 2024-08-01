@@ -1,1 +1,1 @@
-{"name": "Seriale_de_televiziune_BBC", "id": 2970111, "predecessors": [{"name": "BBC", "id": 639701}, {"name": "Rețele_de_televiziune", "id": 886069}], "successors": [{"name": "Top_Gear", "id": 639695}, {"name": "Doctor_Who", "id": 894876}]}
+{"name": "Seriale_de_televiziune_BBC", "id": 2970111, "predecessors": [{"name": "BBC", "id": 639701}], "successors": [{"name": "Top_Gear", "id": 639695}, {"name": "Doctor_Who", "id": 894876}]}

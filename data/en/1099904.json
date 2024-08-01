@@ -1,1 +1,1 @@
-{"name": "Fungicides", "id": 1099904, "predecessors": [{"name": "Fungi_and_humans", "id": 52177501}, {"name": "Pesticides", "id": 1891566}], "successors": [{"name": "Antifungals", "id": 879106}]}
+{"name": "Fungicides", "id": 1099904, "predecessors": [{"name": "Biocides", "id": 38440289}, {"name": "Fungi_and_humans", "id": 52177501}, {"name": "Pesticides", "id": 1891566}], "successors": [{"name": "Antifungals", "id": 879106}]}

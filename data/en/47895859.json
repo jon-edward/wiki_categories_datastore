@@ -1,1 +1,1 @@
-{"name": "Novels_about_nobility", "id": 47895859, "predecessors": [{"name": "Prose", "id": 9408616}, {"name": "Books_about_social_history", "id": 62924985}], "successors": []}
+{"name": "Novels_about_nobility", "id": 47895859, "predecessors": [{"name": "Literary_genres", "id": 1286193}, {"name": "Books_about_social_history", "id": 62924985}], "successors": [{"name": "Novels_about_royalty", "id": 34876137}]}

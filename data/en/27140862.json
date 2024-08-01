@@ -1,1 +1,1 @@
-{"name": "Walker_Cup", "id": 27140862, "predecessors": [{"name": "Amateur_golf_tournaments", "id": 1507234}, {"name": "R&A_championships", "id": 5279631}, {"name": "Team_golf_tournaments", "id": 1458728}], "successors": [{"name": "Walker_Cup_venues", "id": 28164909}]}
+{"name": "Walker_Cup", "id": 27140862, "predecessors": [{"name": "Amateur_golf_tournaments", "id": 1507234}, {"name": "Team_golf_tournaments", "id": 1458728}, {"name": "United_States_Golf_Association_championships", "id": 4802579}], "successors": [{"name": "Walker_Cup_venues", "id": 28164909}]}

@@ -1,1 +1,1 @@
-{"name": "Zoos_in_Italy", "id": 6859719, "predecessors": [{"name": "Gardens_in_Italy", "id": 2943077}, {"name": "Nature_conservation", "id": 737124}, {"name": "Tourism_in_Italy", "id": 2637056}], "successors": []}
+{"name": "Zoos_in_Italy", "id": 6859719, "predecessors": [{"name": "Gardens_in_Italy", "id": 2943077}, {"name": "Tourism_in_Italy", "id": 2637056}, {"name": "Geography_of_Italy", "id": 1048779}, {"name": "Zoos", "id": 700581}, {"name": "Agriculture_in_Italy", "id": 8225740}], "successors": []}

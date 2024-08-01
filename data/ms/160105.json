@@ -1,1 +1,1 @@
-{"name": "Sejarah_iklim", "id": 160105, "predecessors": [{"name": "Geologi_sejarah", "id": 160106}, {"name": "Sejarah", "id": 8026}, {"name": "Sains_bumi", "id": 30334}], "successors": [{"name": "Perubahan_iklim", "id": 160100}]}
+{"name": "Sejarah_iklim", "id": 160105, "predecessors": [{"name": "Geologi_sejarah", "id": 160106}, {"name": "Iklim", "id": 27729}, {"name": "Sejarah", "id": 8026}, {"name": "Sains_bumi", "id": 30334}], "successors": [{"name": "Perubahan_iklim", "id": 160100}]}

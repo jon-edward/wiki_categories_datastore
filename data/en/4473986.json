@@ -1,1 +1,1 @@
-{"name": "Bangladeshi_clothing", "id": 4473986, "predecessors": [{"name": "Clothing", "id": 737090}], "successors": [{"name": "Saris", "id": 25876160}]}
+{"name": "Bangladeshi_clothing", "id": 4473986, "predecessors": [{"name": "Culture_of_Bangladesh", "id": 729487}, {"name": "Clothing", "id": 737090}], "successors": [{"name": "Saris", "id": 25876160}]}

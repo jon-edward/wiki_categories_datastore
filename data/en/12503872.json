@@ -1,1 +1,1 @@
-{"name": "Mathematical_logicians", "id": 12503872, "predecessors": [{"name": "Logicians", "id": 1038470}, {"name": "Mathematical_logic", "id": 693685}], "successors": []}
+{"name": "Mathematical_logicians", "id": 12503872, "predecessors": [{"name": "Logicians", "id": 1038470}, {"name": "Mathematical_logic", "id": 693685}], "successors": [{"name": "Set_theorists", "id": 5328239}, {"name": "Model_theorists", "id": 22499361}, {"name": "Proof_theorists", "id": 35016979}, {"name": "Computability_theorists", "id": 40973787}]}

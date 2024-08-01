@@ -1,1 +1,1 @@
-{"name": "Crime_in_Delhi", "id": 24032872, "predecessors": [{"name": "Delhi", "id": 725624}, {"name": "Crime_in_India", "id": 3541387}], "successors": [{"name": "Assassination_of_Indira_Gandhi", "id": 39464870}]}
+{"name": "Crime_in_Delhi", "id": 24032872, "predecessors": [{"name": "Delhi", "id": 725624}, {"name": "Crime_in_India", "id": 3541387}, {"name": "Government_of_Delhi", "id": 3822931}], "successors": [{"name": "Assassination_of_Indira_Gandhi", "id": 39464870}, {"name": "Murder_in_Delhi", "id": 63177252}]}

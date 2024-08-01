@@ -1,1 +1,1 @@
-{"name": "Renaissance_sculptors", "id": 2359004, "predecessors": [{"name": "Renaissance_artists", "id": 2345191}], "successors": [{"name": "Italian_Renaissance_sculptors", "id": 51514612}, {"name": "French_Renaissance_sculptors", "id": 63699174}]}
+{"name": "Renaissance_sculptors", "id": 2359004, "predecessors": [{"name": "Renaissance_artists", "id": 2345191}, {"name": "Sculpture", "id": 728026}], "successors": [{"name": "Italian_Renaissance_sculptors", "id": 51514612}, {"name": "French_Renaissance_sculptors", "id": 63699174}]}

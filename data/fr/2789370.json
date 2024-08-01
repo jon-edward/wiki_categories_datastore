@@ -1,1 +1,0 @@
-{"name": "Filtrage_anti-spam", "id": 2789370, "predecessors": [{"name": "Filtrage_numérique", "id": 1115199}, {"name": "Spam", "id": 874460}, {"name": "Sécurité_sur_Internet", "id": 2756412}], "successors": [{"name": "Logiciel_anti-spam", "id": 1118454}]}

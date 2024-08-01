@@ -1,1 +1,1 @@
-{"name": "Alpine_vehicles", "id": 44546125, "predecessors": [{"name": "Cars_of_France", "id": 14761671}, {"name": "Sports_cars", "id": 695196}, {"name": "Car_manufacturers_of_France", "id": 22285741}], "successors": []}
+{"name": "Alpine_vehicles", "id": 44546125, "predecessors": [{"name": "Renault", "id": 774634}], "successors": []}

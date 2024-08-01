@@ -1,1 +1,1 @@
-{"name": "2023_disease_outbreaks", "id": 72646254, "predecessors": [{"name": "2023", "id": 23416495}, {"name": "Disease_outbreaks", "id": 33346982}], "successors": [{"name": "2022–2023_mpox_outbreak", "id": 70963496}]}
+{"name": "2023_disease_outbreaks", "id": 72646254, "predecessors": [{"name": "Health", "id": 751381}, {"name": "Disease_outbreaks", "id": 33346982}], "successors": [{"name": "2022–2023_mpox_outbreak", "id": 70963496}]}

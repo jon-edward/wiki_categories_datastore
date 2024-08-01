@@ -1,1 +1,1 @@
-{"name": "Basketball_venues_in_Canada", "id": 3529771, "predecessors": [{"name": "Athletic_sports", "id": 31210709}, {"name": "Culture_of_Canada", "id": 713767}], "successors": [{"name": "NBA_venues", "id": 5867107}, {"name": "Basketball_venues_in_Ontario", "id": 55695515}]}
+{"name": "Basketball_venues_in_Canada", "id": 3529771, "predecessors": [{"name": "North_America", "id": 878995}], "successors": [{"name": "NBA_venues", "id": 5867107}]}

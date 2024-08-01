@@ -1,1 +1,1 @@
-{"name": "Banking_in_Germany", "id": 20153931, "predecessors": [{"name": "Banking_by_country", "id": 5578355}], "successors": []}
+{"name": "Banking_in_Germany", "id": 20153931, "predecessors": [{"name": "Financial_services", "id": 1653309}], "successors": [{"name": "Banks_of_Germany", "id": 734606}, {"name": "German_bankers", "id": 3349157}]}

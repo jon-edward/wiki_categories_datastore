@@ -1,1 +1,1 @@
-{"name": "Automated_planning_and_scheduling", "id": 14627235, "predecessors": [{"name": "Applications_of_artificial_intelligence", "id": 1532663}, {"name": "Planning", "id": 7297152}], "successors": [{"name": "Scheduling_(computing)", "id": 1512965}]}
+{"name": "Automated_planning_and_scheduling", "id": 14627235, "predecessors": [{"name": "Applications_of_artificial_intelligence", "id": 1532663}, {"name": "Planning", "id": 7297152}, {"name": "Robot_control", "id": 33610958}], "successors": [{"name": "Scheduling_(computing)", "id": 1512965}]}

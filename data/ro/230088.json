@@ -1,1 +1,1 @@
-{"name": "Fabricarea_berii", "id": 230088, "predecessors": [{"name": "Bere", "id": 230089}, {"name": "Fabricație", "id": 750990}], "successors": [{"name": "Companii_producătoare_de_bere", "id": 457810}]}
+{"name": "Fabricarea_berii", "id": 230088, "predecessors": [{"name": "Bere", "id": 230089}], "successors": [{"name": "Companii_producătoare_de_bere", "id": 457810}]}

@@ -1,1 +1,1 @@
-{"name": "Sisa", "id": 160034, "predecessors": [{"name": "Isu_persekitaran", "id": 160035}, {"name": "Pencemaran", "id": 119745}, {"name": "Konsep_falsafah", "id": 82074}], "successors": [{"name": "Pengurusan_sisa", "id": 160033}]}
+{"name": "Sisa", "id": 160034, "predecessors": [{"name": "Pencemaran", "id": 119745}], "successors": [{"name": "Pengurusan_sisa", "id": 160033}]}

@@ -1,1 +1,1 @@
-{"name": "Terapie", "id": 888571, "predecessors": [{"name": "Tratamente_medicale", "id": 888297}, {"name": "Specialități_medicale", "id": 760126}], "successors": [{"name": "Terapii_alternative", "id": 87234}]}
+{"name": "Terapie", "id": 888571, "predecessors": [{"name": "Specialități_medicale", "id": 760126}], "successors": [{"name": "Terapii_alternative", "id": 87234}]}

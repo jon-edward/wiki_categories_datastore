@@ -1,1 +1,1 @@
-{"name": "Eastern_Christian_liturgy", "id": 22004932, "predecessors": [{"name": "Catholic_liturgy", "id": 1983958}, {"name": "Eastern_Christianity", "id": 14484154}], "successors": [{"name": "Eastern_Christian_liturgical_objects", "id": 37871580}, {"name": "Anaphoras_(liturgy)", "id": 38214003}, {"name": "Byzantine_Rite", "id": 52800419}]}
+{"name": "Eastern_Christian_liturgy", "id": 22004932, "predecessors": [{"name": "Eastern_Christianity", "id": 14484154}], "successors": [{"name": "Eastern_Christian_liturgies", "id": 43441174}, {"name": "Byzantine_Rite", "id": 52800419}]}

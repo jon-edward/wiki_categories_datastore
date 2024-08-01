@@ -1,1 +1,1 @@
-{"name": "Usonaj_luktosportistoj", "id": 398100, "predecessors": [{"name": "Usonaj_sportistoj", "id": 127877}, {"name": "Luktosportistoj", "id": 301333}], "successors": [{"name": "Usonaj_boksistoj", "id": 229988}, {"name": "Usonaj_vrestlingistoj", "id": 333423}]}
+{"name": "Usonaj_luktosportistoj", "id": 398100, "predecessors": [{"name": "Usonaj_sportistoj", "id": 127877}, {"name": "Luktosporto", "id": 23460}], "successors": [{"name": "Usonaj_boksistoj", "id": 229988}, {"name": "Usonaj_vrestlingistoj", "id": 333423}]}

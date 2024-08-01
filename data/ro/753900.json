@@ -1,1 +1,1 @@
-{"name": "Mașini_termice", "id": 753900, "predecessors": [{"name": "Mașini", "id": 753896}, {"name": "Termotehnică", "id": 290642}], "successors": [{"name": "Turbine_cu_gaze", "id": 142554}, {"name": "Motoare_cu_ardere_internă", "id": 370837}, {"name": "Compresoare", "id": 655407}, {"name": "Turbine_cu_abur", "id": 812877}]}
+{"name": "Mașini_termice", "id": 753900, "predecessors": [{"name": "Mașini", "id": 753896}, {"name": "Termotehnică", "id": 290642}], "successors": [{"name": "Turbine_cu_gaze", "id": 142554}]}

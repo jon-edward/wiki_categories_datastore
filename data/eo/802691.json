@@ -1,1 +1,1 @@
-{"name": "Virinaj_futbalaj_konkursoj", "id": 802691, "predecessors": [{"name": "Futbalaj_konkursoj", "id": 377119}, {"name": "Virinaj_sportaj_konkursoj", "id": 637975}, {"name": "Futbalo", "id": 49058}], "successors": [{"name": "Virina_Futbala_Mondpokalo", "id": 365405}]}
+{"name": "Virinaj_futbalaj_konkursoj", "id": 802691, "predecessors": [{"name": "Futbalaj_konkursoj", "id": 377119}, {"name": "Futbalo", "id": 49058}, {"name": "Sportaj_konkursoj", "id": 288211}], "successors": [{"name": "Virina_Futbala_Mondpokalo", "id": 365405}]}

@@ -1,1 +1,1 @@
-{"name": "Clasificarea_automobilelor", "id": 771588, "predecessors": [{"name": "Automobile", "id": 31957}, {"name": "Sisteme_de_clasificare", "id": 412548}], "successors": [{"name": "Mașini_concept", "id": 2939293}]}
+{"name": "Clasificarea_automobilelor", "id": 771588, "predecessors": [{"name": "Automobile", "id": 31957}, {"name": "Sisteme_de_clasificare", "id": 412548}], "successors": [{"name": "Mașini_concept", "id": 2939293}, {"name": "Automobile_din_clasa_mică", "id": 241266}, {"name": "Automobile_electrice", "id": 491543}, {"name": "Mașini_sport", "id": 991788}]}

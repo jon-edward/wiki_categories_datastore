@@ -1,1 +1,1 @@
-{"name": "Thermal_protection", "id": 4123308, "predecessors": [{"name": "Heat_transfer", "id": 23011909}, {"name": "Temperature", "id": 1214620}], "successors": [{"name": "Building_insulation_materials", "id": 20551465}]}
+{"name": "Thermal_protection", "id": 4123308, "predecessors": [{"name": "Heat_transfer", "id": 23011909}, {"name": "Temperature", "id": 1214620}], "successors": [{"name": "Sweaters", "id": 9925160}, {"name": "Building_insulation_materials", "id": 20551465}]}

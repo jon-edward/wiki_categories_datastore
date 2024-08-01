@@ -1,1 +1,1 @@
-{"name": "Progestogen_esters", "id": 54551206, "predecessors": [{"name": "Progestogens", "id": 35678557}, {"name": "Sex_hormone_esters_and_conjugates", "id": 75474559}, {"name": "Steroid_esters", "id": 53209390}], "successors": [{"name": "Nandrolone_esters", "id": 52353231}]}
+{"name": "Progestogen_esters", "id": 54551206, "predecessors": [{"name": "Steroid_esters", "id": 53209390}], "successors": [{"name": "Nandrolone_esters", "id": 52353231}]}

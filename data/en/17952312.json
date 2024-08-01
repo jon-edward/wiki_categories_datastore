@@ -1,1 +1,1 @@
-{"name": "Kit_cars", "id": 17952312, "predecessors": [{"name": "Car_models", "id": 13698345}, {"name": "DIY_culture", "id": 12319523}, {"name": "Do_it_yourself", "id": 28020483}], "successors": [{"name": "Kit_car_manufacturers", "id": 4330370}]}
+{"name": "Kit_cars", "id": 17952312, "predecessors": [{"name": "Car_models", "id": 13698345}, {"name": "DIY_culture", "id": 12319523}, {"name": "Do_it_yourself", "id": 28020483}], "successors": [{"name": "Kit_car_manufacturers", "id": 4330370}, {"name": "Lotus_Seven_replicas", "id": 8723911}]}

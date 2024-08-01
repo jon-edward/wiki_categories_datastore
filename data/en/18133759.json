@@ -1,1 +1,1 @@
-{"name": "Travelogues", "id": 18133759, "predecessors": [{"name": "Travel", "id": 698290}], "successors": [{"name": "Travel_television", "id": 10035650}, {"name": "Travel_writing", "id": 15727024}]}
+{"name": "Travelogues", "id": 18133759, "predecessors": [{"name": "Travel", "id": 698290}, {"name": "Tourism", "id": 698284}], "successors": [{"name": "Travel_television", "id": 10035650}, {"name": "Travel_writing", "id": 15727024}]}

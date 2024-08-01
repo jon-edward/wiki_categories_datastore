@@ -1,1 +1,1 @@
-{"name": "Betoni", "id": 455978, "predecessors": [{"name": "Raaka-aineet", "id": 74563}, {"name": "Rakennuksen_runko", "id": 455951}, {"name": "Rakennusmateriaalit", "id": 334226}, {"name": "Taidetarvikkeet", "id": 707831}], "successors": [{"name": "Betoniarkkitehtuuri", "id": 700161}]}
+{"name": "Betoni", "id": 455978, "predecessors": [{"name": "Raaka-aineet", "id": 74563}, {"name": "Rakennuksen_runko", "id": 455951}, {"name": "Rakennusmateriaalit", "id": 334226}], "successors": [{"name": "Betoniarkkitehtuuri", "id": 700161}]}

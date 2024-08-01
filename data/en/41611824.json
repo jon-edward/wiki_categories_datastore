@@ -1,1 +1,1 @@
-{"name": "SpaceX_Dragon", "id": 41611824, "predecessors": [{"name": "Cargo_spacecraft", "id": 2175736}, {"name": "Commercial_spaceflight", "id": 1025839}, {"name": "Reusable_spacecraft", "id": 64792982}, {"name": "SpaceX", "id": 6384977}], "successors": []}
+{"name": "SpaceX_Dragon", "id": 41611824, "predecessors": [{"name": "Reusable_spacecraft", "id": 64792982}, {"name": "American_spacecraft", "id": 62727113}], "successors": []}

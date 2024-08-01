@@ -1,1 +1,1 @@
-{"name": "Airway_management", "id": 50013617, "predecessors": [{"name": "Anesthesia", "id": 718239}, {"name": "Emergency_medicine", "id": 846798}, {"name": "First_aid", "id": 761888}, {"name": "Causes_of_death", "id": 5271061}], "successors": []}
+{"name": "Airway_management", "id": 50013617, "predecessors": [{"name": "Anesthesia", "id": 718239}, {"name": "Emergency_medicine", "id": 846798}, {"name": "First_aid", "id": 761888}, {"name": "Intensive_care_medicine", "id": 714493}, {"name": "Causes_of_death", "id": 5271061}], "successors": []}

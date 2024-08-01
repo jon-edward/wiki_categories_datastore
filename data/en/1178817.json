@@ -1,1 +1,1 @@
-{"name": "Origami", "id": 1178817, "predecessors": [{"name": "Japanese_inventions", "id": 22509971}, {"name": "Paper_art", "id": 2328835}, {"name": "Paper_folding", "id": 1848899}], "successors": []}
+{"name": "Origami", "id": 1178817, "predecessors": [{"name": "Paper_art", "id": 2328835}, {"name": "Paper_folding", "id": 1848899}], "successors": [{"name": "Origami_artists", "id": 11941947}, {"name": "Fiction_about_origami", "id": 59585524}]}

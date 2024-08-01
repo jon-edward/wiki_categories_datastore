@@ -1,0 +1,1 @@
+{"name": "GTK", "id": 26540470, "predecessors": [{"name": "C_(programming_language)_libraries", "id": 885113}, {"name": "GNOME", "id": 693311}, {"name": "Computer_libraries", "id": 7482978}], "successors": [{"name": "Software_that_was_ported_from_GTK_to_Qt", "id": 42278781}]}

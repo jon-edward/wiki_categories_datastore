@@ -1,1 +1,1 @@
-{"name": "Sains_aktuari", "id": 285330, "predecessors": [{"name": "Insurans", "id": 285332}, {"name": "Ekonomi", "id": 26641}, {"name": "Disiplin_akademik", "id": 75960}], "successors": []}
+{"name": "Sains_aktuari", "id": 285330, "predecessors": [{"name": "Insurans", "id": 285332}, {"name": "Matematik_gunaan", "id": 76484}, {"name": "Ekonomi", "id": 26641}, {"name": "Statistik", "id": 62381}], "successors": []}

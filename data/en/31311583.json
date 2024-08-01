@@ -1,1 +1,1 @@
-{"name": "Turkish_television_journalists", "id": 31311583, "predecessors": [{"name": "Turkish_journalists", "id": 3058247}], "successors": [{"name": "Turkish_television_news_anchors", "id": 51086494}]}
+{"name": "Turkish_television_journalists", "id": 31311583, "predecessors": [{"name": "Turkish_journalists", "id": 3058247}, {"name": "Mass_media_in_Turkey", "id": 2699763}], "successors": [{"name": "Turkish_television_news_anchors", "id": 51086494}]}

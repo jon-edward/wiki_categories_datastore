@@ -1,1 +1,1 @@
-{"name": "Seni_bina_rangkaian", "id": 299107, "predecessors": [{"name": "Rangkaian_komputer", "id": 82613}, {"name": "Seni_bina_komputer", "id": 42050}], "successors": [{"name": "Seni_bina_Internet", "id": 329004}, {"name": "Protokol_lapisan_penggunaan", "id": 258730}]}
+{"name": "Seni_bina_rangkaian", "id": 299107, "predecessors": [{"name": "Seni_bina_komputer", "id": 42050}], "successors": [{"name": "Seni_bina_Internet", "id": 329004}, {"name": "Protokol_lapisan_penggunaan", "id": 258730}]}

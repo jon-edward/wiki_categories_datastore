@@ -1,1 +1,1 @@
-{"name": "Ranskan_moottoriradat", "id": 92120, "predecessors": [{"name": "Ranskan_moottoriurheilu", "id": 82253}, {"name": "Ranskan_urheilupaikat", "id": 1429914}, {"name": "Urheilu", "id": 18692}], "successors": []}
+{"name": "Ranskan_moottoriradat", "id": 92120, "predecessors": [{"name": "Ranskan_urheilupaikat", "id": 1429914}, {"name": "Urheilulajit", "id": 965253}, {"name": "Urheilu", "id": 18692}], "successors": []}

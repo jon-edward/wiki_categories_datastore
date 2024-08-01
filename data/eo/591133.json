@@ -1,1 +1,1 @@
-{"name": "Arboj_de_Azio", "id": 591133, "predecessors": [{"name": "Plantoj_de_Azio", "id": 180486}, {"name": "Arboj", "id": 115556}], "successors": [{"name": "Arboj_de_Ĉinio", "id": 346204}, {"name": "Arboj_de_Japanio", "id": 346344}, {"name": "Arboj_de_Hindoĉinio", "id": 619588}]}
+{"name": "Arboj_de_Azio", "id": 591133, "predecessors": [{"name": "Plantoj_de_Azio", "id": 180486}, {"name": "Arboj", "id": 115556}], "successors": [{"name": "Arboj_de_Ĉinio", "id": 346204}]}

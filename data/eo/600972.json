@@ -1,1 +1,1 @@
-{"name": "Ŝtonoj", "id": 600972, "predecessors": [{"name": "Naturaj_materialoj", "id": 440023}, {"name": "Rokoj", "id": 269601}, {"name": "Konceptoj_de_metafiziko", "id": 437209}], "successors": [{"name": "Monolitoj", "id": 600971}, {"name": "Ŝtonaj_objektoj", "id": 668482}, {"name": "Ŝtonaj_maroj", "id": 798940}]}
+{"name": "Ŝtonoj", "id": 600972, "predecessors": [{"name": "Rokoj", "id": 269601}, {"name": "Konceptoj_de_metafiziko", "id": 437209}, {"name": "Materialoj", "id": 82979}], "successors": [{"name": "Ŝtonaj_objektoj", "id": 668482}]}

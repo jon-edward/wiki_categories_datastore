@@ -1,1 +1,1 @@
-{"name": "Airports_in_Inner_Mongolia", "id": 9529757, "predecessors": [{"name": "Buildings_and_structures_in_Inner_Mongolia", "id": 6579544}, {"name": "Transport_in_Inner_Mongolia", "id": 9529762}], "successors": []}
+{"name": "Airports_in_Inner_Mongolia", "id": 9529757, "predecessors": [{"name": "Transport_in_Inner_Mongolia", "id": 9529762}, {"name": "Aviation_in_China", "id": 4678240}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Chess_composers", "id": 33869030, "predecessors": [{"name": "Chess_problems", "id": 704290}, {"name": "Chess", "id": 691713}, {"name": "Academia", "id": 853425}], "successors": []}
+{"name": "Chess_composers", "id": 33869030, "predecessors": [{"name": "Chess_problems", "id": 704290}, {"name": "Abstract_strategy_games", "id": 3290901}, {"name": "Strategy", "id": 4685400}], "successors": [{"name": "Grandmasters_for_chess_composition", "id": 18418418}, {"name": "International_solving_grandmasters", "id": 18428357}]}

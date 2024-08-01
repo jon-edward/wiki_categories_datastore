@@ -1,1 +1,1 @@
-{"name": "Sisteme_stelare", "id": 52484, "predecessors": [{"name": "Sisteme_dinamice", "id": 433095}], "successors": [{"name": "Sisteme_planetare", "id": 454194}, {"name": "Stele_multiple", "id": 1530666}]}
+{"name": "Sisteme_stelare", "id": 52484, "predecessors": [{"name": "Astronomie_stelară", "id": 229884}, {"name": "Sisteme_dinamice", "id": 433095}], "successors": [{"name": "Sisteme_planetare", "id": 454194}, {"name": "Stele_multiple", "id": 1530666}]}

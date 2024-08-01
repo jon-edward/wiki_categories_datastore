@@ -1,1 +1,1 @@
-{"name": "Figuroj", "id": 82671, "predecessors": [{"name": "Prezento_de_scio", "id": 94539}, {"name": "Scienca_modelado", "id": 83478}, {"name": "Senparola_komunikado", "id": 439542}, {"name": "Filozofio_de_lingvo", "id": 83365}], "successors": [{"name": "Grafeteorio", "id": 82822}]}
+{"name": "Figuroj", "id": 82671, "predecessors": [{"name": "Scienca_modelado", "id": 83478}, {"name": "Senparola_komunikado", "id": 439542}, {"name": "Artefarita_intelekto", "id": 439530}, {"name": "Filozofio_de_lingvo", "id": 83365}], "successors": [{"name": "Grafeteorio", "id": 82822}]}

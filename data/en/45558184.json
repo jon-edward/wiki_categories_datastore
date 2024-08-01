@@ -1,1 +1,1 @@
-{"name": "Animal_testing_techniques", "id": 45558184, "predecessors": [{"name": "Animal_testing", "id": 12895827}, {"name": "Scientific_techniques", "id": 15358485}], "successors": [{"name": "Animal_testing_mazes", "id": 53766093}, {"name": "Anti-vivisection_movement", "id": 36747457}]}
+{"name": "Animal_testing_techniques", "id": 45558184, "predecessors": [{"name": "Animal_testing", "id": 12895827}], "successors": [{"name": "Anti-vivisection_movement", "id": 36747457}, {"name": "Vivisection_activists", "id": 66025254}]}

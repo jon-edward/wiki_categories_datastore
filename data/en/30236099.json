@@ -1,1 +1,1 @@
-{"name": "Basketball_penalties", "id": 30236099, "predecessors": [{"name": "Basketball_terminology", "id": 2333403}, {"name": "Rules_of_basketball", "id": 2333482}], "successors": []}
+{"name": "Basketball_penalties", "id": 30236099, "predecessors": [{"name": "Basketball_terminology", "id": 2333403}, {"name": "Rules_of_basketball", "id": 2333482}, {"name": "Sports_penalties", "id": 30236040}], "successors": []}

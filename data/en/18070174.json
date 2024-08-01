@@ -1,1 +1,1 @@
-{"name": "Engineering_statistics", "id": 18070174, "predecessors": [{"name": "Applied_statistics", "id": 17668473}, {"name": "Engineering_disciplines", "id": 9930194}, {"name": "Operations_research", "id": 1008581}], "successors": [{"name": "Statistical_signal_processing", "id": 52461707}]}
+{"name": "Engineering_statistics", "id": 18070174, "predecessors": [{"name": "Operations_research", "id": 1008581}], "successors": [{"name": "Statistical_process_control", "id": 52321563}, {"name": "Statistical_signal_processing", "id": 52461707}]}

@@ -1,1 +1,1 @@
-{"name": "Propaganda_newspapers_and_magazines", "id": 24428003, "predecessors": [{"name": "Propaganda", "id": 838111}, {"name": "Publications", "id": 706830}], "successors": []}
+{"name": "Propaganda_newspapers_and_magazines", "id": 24428003, "predecessors": [{"name": "Publications_by_format", "id": 11278400}, {"name": "Propaganda", "id": 838111}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Partner_dance", "id": 975720, "predecessors": [{"name": "Romance", "id": 709046}, {"name": "Social_dance", "id": 792098}], "successors": [{"name": "Ballroom_dance", "id": 975718}, {"name": "Salsa", "id": 17159261}]}
+{"name": "Partner_dance", "id": 975720, "predecessors": [{"name": "Couples", "id": 54796256}, {"name": "Romance", "id": 709046}, {"name": "Social_dance", "id": 792098}], "successors": [{"name": "Ballroom_dance", "id": 975718}, {"name": "Partner_dance_technique", "id": 1305384}, {"name": "Salsa", "id": 17159261}]}

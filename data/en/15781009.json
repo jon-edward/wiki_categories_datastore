@@ -1,1 +1,1 @@
-{"name": "MTR_rolling_stock", "id": 15781009, "predecessors": [{"name": "MTR", "id": 1390980}, {"name": "Rapid_transit", "id": 4286827}], "successors": []}
+{"name": "MTR_rolling_stock", "id": 15781009, "predecessors": [{"name": "MTR", "id": 1390980}, {"name": "Transport_in_Hong_Kong", "id": 1627873}, {"name": "Rapid_transit", "id": 4286827}], "successors": []}

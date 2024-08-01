@@ -1,1 +1,1 @@
-{"name": "Tornado", "id": 5915908, "predecessors": [{"name": "Types_of_cyclone", "id": 7381509}, {"name": "Vortices", "id": 8113844}], "successors": []}
+{"name": "Tornado", "id": 5915908, "predecessors": [{"name": "Storm", "id": 22856031}, {"name": "Types_of_cyclone", "id": 7381509}, {"name": "Vortices", "id": 8113844}, {"name": "Weather_hazards", "id": 2638252}], "successors": []}

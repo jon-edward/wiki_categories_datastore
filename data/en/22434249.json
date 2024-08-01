@@ -1,1 +1,1 @@
-{"name": "Suburbs_of_Christchurch", "id": 22434249, "predecessors": [{"name": "Suburbs", "id": 22756931}], "successors": []}
+{"name": "Suburbs_of_Christchurch", "id": 22434249, "predecessors": [{"name": "City", "id": 9467493}], "successors": [{"name": "Christchurch_Central_City", "id": 31370763}]}

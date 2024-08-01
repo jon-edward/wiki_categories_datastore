@@ -1,1 +1,1 @@
-{"name": "Fictional_schoolteachers", "id": 5625407, "predecessors": [{"name": "Education", "id": 696763}], "successors": [{"name": "Superhero_schoolteachers", "id": 65488853}]}
+{"name": "Fictional_schoolteachers", "id": 5625407, "predecessors": [{"name": "Schoolteachers", "id": 5625933}, {"name": "Education", "id": 696763}], "successors": [{"name": "Superhero_schoolteachers", "id": 65488853}]}

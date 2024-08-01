@@ -1,1 +1,1 @@
-{"name": "Multiple-barrel_firearms", "id": 28883147, "predecessors": [{"name": "Firearms", "id": 739385}], "successors": [{"name": "Multi-barrel_machine_guns", "id": 1150434}, {"name": "Double-barreled_shotguns", "id": 26079529}, {"name": "Combination_guns", "id": 43204108}, {"name": "Derringers", "id": 56398615}]}
+{"name": "Multiple-barrel_firearms", "id": 28883147, "predecessors": [{"name": "Firearms", "id": 739385}], "successors": [{"name": "Derringers", "id": 56398615}]}

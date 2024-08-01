@@ -1,1 +1,1 @@
-{"name": "Cartofi", "id": 914742, "predecessors": [{"name": "Legume", "id": 105391}, {"name": "Plante_originare_din_America", "id": 306015}, {"name": "Plante_toxice", "id": 169051}, {"name": "Solanaceae", "id": 123226}], "successors": [{"name": "Istoria_cartofului", "id": 914740}]}
+{"name": "Cartofi", "id": 914742, "predecessors": [{"name": "Legume", "id": 105391}, {"name": "Plante_toxice", "id": 169051}, {"name": "Solanaceae", "id": 123226}], "successors": [{"name": "Istoria_cartofului", "id": 914740}]}

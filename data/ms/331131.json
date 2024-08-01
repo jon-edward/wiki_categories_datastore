@@ -1,1 +1,1 @@
-{"name": "Sistem_koordinat_cakerawala", "id": 331131, "predecessors": [{"name": "Kartografi", "id": 82069}, {"name": "Komunikasi", "id": 30126}], "successors": []}
+{"name": "Sistem_koordinat_cakerawala", "id": 331131, "predecessors": [{"name": "Astronomi_sfera", "id": 331375}, {"name": "Kartografi", "id": 82069}, {"name": "Geometri", "id": 76244}], "successors": []}

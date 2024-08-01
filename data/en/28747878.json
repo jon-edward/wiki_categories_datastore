@@ -1,1 +1,1 @@
-{"name": "Raptor_migration_sites", "id": 28747878, "predecessors": [{"name": "Birds_of_prey", "id": 1173183}], "successors": []}
+{"name": "Raptor_migration_sites", "id": 28747878, "predecessors": [{"name": "Bird_migration", "id": 24600721}, {"name": "Birds_of_prey", "id": 1173183}], "successors": []}

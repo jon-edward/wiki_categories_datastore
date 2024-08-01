@@ -1,1 +1,1 @@
-{"name": "Opel_engines", "id": 33803539, "predecessors": [{"name": "General_Motors_engines", "id": 39314719}, {"name": "Opel", "id": 1039670}, {"name": "PSA_engines", "id": 3569395}], "successors": []}
+{"name": "Opel_engines", "id": 33803539, "predecessors": [{"name": "Opel", "id": 1039670}, {"name": "PSA_engines", "id": 3569395}], "successors": []}

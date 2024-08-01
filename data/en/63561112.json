@@ -1,1 +1,1 @@
-{"name": "Online_literary_magazines", "id": 63561112, "predecessors": [{"name": "Literary_magazines", "id": 815989}], "successors": [{"name": "Online_literary_magazines_published_in_the_United_States", "id": 64734664}]}
+{"name": "Online_literary_magazines", "id": 63561112, "predecessors": [{"name": "Literary_magazines", "id": 815989}, {"name": "Online_magazines", "id": 17566825}], "successors": [{"name": "Online_literary_magazines_published_in_the_United_States", "id": 64734664}]}

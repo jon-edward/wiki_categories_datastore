@@ -1,1 +1,1 @@
-{"name": "Haiwan_pupus", "id": 659653, "predecessors": [{"name": "Pemuliharaan", "id": 164607}, {"name": "Kepupusan", "id": 659656}, {"name": "Kematian", "id": 84557}], "successors": [{"name": "Dinosaur", "id": 23907}]}
+{"name": "Haiwan_pupus", "id": 659653, "predecessors": [{"name": "Haiwan", "id": 21020}, {"name": "Kepupusan", "id": 659656}], "successors": [{"name": "Dinosaur", "id": 23907}]}

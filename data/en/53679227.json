@@ -1,1 +1,1 @@
-{"name": "Serotonin_receptors", "id": 53679227, "predecessors": [{"name": "G_protein-coupled_receptors", "id": 719555}, {"name": "Serotonin", "id": 24632319}, {"name": "Signal_transduction", "id": 754106}], "successors": []}
+{"name": "Serotonin_receptors", "id": 53679227, "predecessors": [{"name": "G_protein-coupled_receptors", "id": 719555}, {"name": "Serotonin", "id": 24632319}, {"name": "Signal_transduction", "id": 754106}], "successors": [{"name": "Serotonin_receptor_agonists", "id": 10339200}, {"name": "Serotonin_receptor_antagonists", "id": 18566606}]}

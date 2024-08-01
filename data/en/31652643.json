@@ -1,1 +1,1 @@
-{"name": "UMass_Minutemen_football_seasons", "id": 31652643, "predecessors": [{"name": "UMass_Minutemen_football", "id": 3763901}, {"name": "Sports_clubs_and_teams", "id": 748879}], "successors": []}
+{"name": "UMass_Minutemen_football_seasons", "id": 31652643, "predecessors": [{"name": "NCAA_Division_I", "id": 27934135}, {"name": "Sports_clubs_and_teams", "id": 748879}, {"name": "American_football_teams_in_Massachusetts", "id": 24993769}], "successors": []}

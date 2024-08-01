@@ -1,1 +1,1 @@
-{"name": "Sport_i_USA_i_2000", "id": 1267300, "predecessors": [{"name": "2000_i_USA", "id": 919058}, {"name": "Historiske_hendelser_etter_år", "id": 760431}, {"name": "Historie", "id": 13177}], "successors": [{"name": "Deltakere_for_USA_under_Sommer-OL_2000", "id": 918367}]}
+{"name": "Sport_i_USA_i_2000", "id": 1267300, "predecessors": [{"name": "2000_i_USA", "id": 919058}, {"name": "Sport_i_USA", "id": 469505}, {"name": "Historie", "id": 13177}], "successors": [{"name": "Deltakere_for_USA_under_Sommer-OL_2000", "id": 918367}]}

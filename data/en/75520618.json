@@ -1,1 +1,1 @@
-{"name": "Drug_marketing_and_sales", "id": 75520618, "predecessors": [{"name": "Pharmaceutical_industry", "id": 2161287}, {"name": "Sales", "id": 4536131}, {"name": "Taxonomy", "id": 918375}], "successors": []}
+{"name": "Drug_marketing_and_sales", "id": 75520618, "predecessors": [{"name": "Pharmaceutical_industry", "id": 2161287}, {"name": "Sales", "id": 4536131}, {"name": "Standards", "id": 724561}], "successors": [{"name": "Drug_pricing", "id": 51220535}, {"name": "Drug_advertising", "id": 53676392}]}

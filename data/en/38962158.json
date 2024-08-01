@@ -1,1 +1,1 @@
-{"name": "Open-source_robots", "id": 38962158, "predecessors": [{"name": "Robots", "id": 943048}, {"name": "Software_by_type", "id": 54611051}], "successors": [{"name": "Lego_Mindstorms", "id": 10393491}]}
+{"name": "Open-source_robots", "id": 38962158, "predecessors": [{"name": "Open-source_hardware", "id": 38962167}, {"name": "Robots", "id": 943048}], "successors": [{"name": "Lego_Mindstorms", "id": 10393491}]}

@@ -1,1 +1,1 @@
-{"name": "Tram_transport_in_Switzerland", "id": 9246472, "predecessors": [{"name": "Passenger_rail_transport_in_Switzerland", "id": 15897747}, {"name": "Public_transport_in_Switzerland", "id": 6495572}], "successors": []}
+{"name": "Tram_transport_in_Switzerland", "id": 9246472, "predecessors": [{"name": "Public_transport_in_Switzerland", "id": 6495572}], "successors": []}

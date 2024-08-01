@@ -1,1 +1,1 @@
-{"name": "Tourist_attractions_in_the_London_Borough_of_Islington", "id": 27540961, "predecessors": [{"name": "Tourist_attractions_in_London", "id": 2803038}], "successors": []}
+{"name": "Tourist_attractions_in_the_London_Borough_of_Islington", "id": 27540961, "predecessors": [{"name": "London_boroughs", "id": 9973549}, {"name": "Tourist_attractions_in_London", "id": 2803038}], "successors": [{"name": "Theatres_in_the_London_Borough_of_Islington", "id": 11732392}, {"name": "Parks_and_open_spaces_in_the_London_Borough_of_Islington", "id": 11798370}]}

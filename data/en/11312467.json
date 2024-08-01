@@ -1,1 +1,1 @@
-{"name": "Cocktails_with_fruit_liqueur", "id": 11312467, "predecessors": [{"name": "Fruit_liqueurs", "id": 23206960}], "successors": [{"name": "Cocktails_with_triple_sec_or_curaçao", "id": 28153072}]}
+{"name": "Cocktails_with_fruit_liqueur", "id": 11312467, "predecessors": [{"name": "Cocktails_with_liqueur", "id": 28362074}, {"name": "Fruit_liqueurs", "id": 23206960}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Skiing_films", "id": 18856657, "predecessors": [{"name": "Skiing_mass_media", "id": 38165095}, {"name": "Films_about_games", "id": 47564898}, {"name": "Winter_sports", "id": 700686}], "successors": [{"name": "American_skiing_films", "id": 69320614}]}
+{"name": "Skiing_films", "id": 18856657, "predecessors": [{"name": "Films_about_games", "id": 47564898}, {"name": "Skiing", "id": 700733}, {"name": "Winter_sports", "id": 700686}], "successors": [{"name": "American_skiing_films", "id": 69320614}]}

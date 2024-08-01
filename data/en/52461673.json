@@ -1,1 +1,1 @@
-{"name": "Autocorrelation", "id": 52461673, "predecessors": [{"name": "Time_series", "id": 3751711}], "successors": []}
+{"name": "Autocorrelation", "id": 52461673, "predecessors": [{"name": "Covariance_and_correlation", "id": 6535800}, {"name": "Time_series", "id": 3751711}], "successors": []}

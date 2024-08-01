@@ -1,1 +1,1 @@
-{"name": "Jewish_bankers", "id": 64765616, "predecessors": [{"name": "Bankers", "id": 855391}], "successors": [{"name": "Court_Jews", "id": 1038277}]}
+{"name": "Jewish_bankers", "id": 64765616, "predecessors": [{"name": "Jewish_businesspeople", "id": 75705048}], "successors": [{"name": "Court_Jews", "id": 1038277}, {"name": "Jewish_American_bankers", "id": 49510735}]}

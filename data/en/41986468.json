@@ -1,1 +1,1 @@
-{"name": "Fiat_Ferroviaria", "id": 41986468, "predecessors": [{"name": "Alstom", "id": 30587109}, {"name": "Electric_vehicle_manufacturers_of_Italy", "id": 61228683}, {"name": "Fiat", "id": 922242}], "successors": [{"name": "Pendolino", "id": 25670645}]}
+{"name": "Fiat_Ferroviaria", "id": 41986468, "predecessors": [{"name": "Alstom", "id": 30587109}, {"name": "Fiat", "id": 922242}], "successors": [{"name": "Pendolino", "id": 25670645}]}

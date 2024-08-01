@@ -1,1 +1,1 @@
-{"name": "Canals_in_Amsterdam", "id": 44726519, "predecessors": [{"name": "Transport_in_Amsterdam", "id": 3311971}], "successors": []}
+{"name": "Canals_in_Amsterdam", "id": 44726519, "predecessors": [{"name": "Transport_in_Amsterdam", "id": 3311971}, {"name": "Transport_in_the_Netherlands", "id": 4731856}], "successors": [{"name": "Former_canals_in_Amsterdam", "id": 61383857}]}

@@ -1,1 +1,1 @@
-{"name": "Sungai_di_Rusia", "id": 166771, "predecessors": [{"name": "Sungai", "id": 23496}, {"name": "Pengangkutan_air", "id": 127946}, {"name": "Rusia", "id": 76286}, {"name": "Asia", "id": 7467}], "successors": []}
+{"name": "Sungai_di_Rusia", "id": 166771, "predecessors": [{"name": "Sungai", "id": 23496}, {"name": "Pengangkutan_air", "id": 127946}, {"name": "Asia", "id": 7467}, {"name": "Negara", "id": 28733}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Știri", "id": 761044, "predecessors": [{"name": "Evenimente", "id": 173365}, {"name": "Jurnalism", "id": 49331}], "successors": [{"name": "Agenții_de_presă", "id": 748175}, {"name": "Site-uri_web_de_știri", "id": 760089}]}
+{"name": "Știri", "id": 761044, "predecessors": [{"name": "Evenimente", "id": 173365}, {"name": "Jurnalism", "id": 49331}], "successors": [{"name": "Agenții_de_presă", "id": 748175}, {"name": "Site-uri_web_de_știri", "id": 760089}, {"name": "Wikipedia:Arhive_Știri", "id": 760610}]}

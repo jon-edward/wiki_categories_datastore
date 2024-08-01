@@ -1,1 +1,1 @@
-{"name": "Estratègia_militar", "id": 800627, "predecessors": [{"name": "Ciència_militar", "id": 241414}, {"name": "Guerra", "id": 33211}], "successors": [{"name": "Guerrillers", "id": 790850}, {"name": "Guerrillers_maquis", "id": 790849}]}
+{"name": "Estratègia_militar", "id": 800627, "predecessors": [{"name": "Ciència_militar", "id": 241414}, {"name": "Guerra", "id": 33211}], "successors": [{"name": "Guerrillers", "id": 790850}, {"name": "Grups_guerrillers", "id": 790852}, {"name": "Guerrillers_maquis", "id": 790849}]}

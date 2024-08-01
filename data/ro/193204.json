@@ -1,1 +1,1 @@
-{"name": "Produse_Apple", "id": 193204, "predecessors": [{"name": "Apple_Inc", "id": 193203}, {"name": "Hardware", "id": 37251}, {"name": "Produse_software", "id": 254165}, {"name": "Bunuri", "id": 32286}], "successors": [{"name": "Macintosh", "id": 533594}, {"name": "IPhone", "id": 788024}]}
+{"name": "Produse_Apple", "id": 193204, "predecessors": [{"name": "Apple_Inc", "id": 193203}, {"name": "Hardware", "id": 37251}], "successors": [{"name": "Macintosh", "id": 533594}, {"name": "IPhone", "id": 788024}]}

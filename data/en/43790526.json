@@ -1,1 +1,1 @@
-{"name": "Photodetectors", "id": 43790526, "predecessors": [{"name": "Electrical_components", "id": 709571}, {"name": "Optoelectronics", "id": 4304170}], "successors": []}
+{"name": "Photodetectors", "id": 43790526, "predecessors": [{"name": "Detectors", "id": 2058157}, {"name": "Electrical_components", "id": 709571}, {"name": "Optoelectronics", "id": 4304170}, {"name": "Sensors", "id": 5400296}], "successors": []}

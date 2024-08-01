@@ -1,0 +1,1 @@
+{"name": "Routing", "id": 1882006, "predecessors": [{"name": "Network_layer_protocols", "id": 7940366}, {"name": "Network_management", "id": 1644925}], "successors": [{"name": "Routing_algorithms", "id": 1882018}, {"name": "Load_balancing_(computing)", "id": 49480911}, {"name": "Key-based_routing", "id": 66731367}]}

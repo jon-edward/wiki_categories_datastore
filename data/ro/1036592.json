@@ -1,1 +1,1 @@
-{"name": "Durere", "id": 1036592, "predecessors": [{"name": "Percepție", "id": 758999}, {"name": "Sentimente", "id": 1329772}, {"name": "Simptome", "id": 417250}, {"name": "Sistem_senzorial", "id": 419436}], "successors": [{"name": "Analgezice", "id": 73191}, {"name": "Pedepse_corporale", "id": 1225547}]}
+{"name": "Durere", "id": 1036592, "predecessors": [{"name": "Percepție", "id": 758999}, {"name": "Sentimente", "id": 1329772}, {"name": "Sistem_senzorial", "id": 419436}], "successors": [{"name": "Analgezice", "id": 73191}, {"name": "Pedepse_corporale", "id": 1225547}]}

@@ -1,1 +1,1 @@
-{"name": "Vaccination_in_the_United_States", "id": 62778008, "predecessors": [{"name": "Healthcare_in_the_United_States", "id": 37436126}, {"name": "Health_care_by_country", "id": 50769391}], "successors": [{"name": "Anti-vaccination_in_the_United_States", "id": 62778460}]}
+{"name": "Vaccination_in_the_United_States", "id": 62778008, "predecessors": [{"name": "Healthcare_in_the_United_States", "id": 37436126}, {"name": "Vaccination", "id": 3898959}], "successors": [{"name": "Anti-vaccination_in_the_United_States", "id": 62778460}]}

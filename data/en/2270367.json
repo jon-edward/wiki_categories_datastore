@@ -1,1 +1,1 @@
-{"name": "OS/2_games", "id": 2270367, "predecessors": [{"name": "OS/2_software", "id": 2045060}], "successors": [{"name": "ScummVM-supported_games", "id": 3823195}]}
+{"name": "OS/2_games", "id": 2270367, "predecessors": [{"name": "OS/2_software", "id": 2045060}, {"name": "Microsoft", "id": 695113}], "successors": [{"name": "ScummVM-supported_games", "id": 3823195}]}

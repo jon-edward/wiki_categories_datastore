@@ -1,1 +1,1 @@
-{"name": "Free_text_editors", "id": 4188631, "predecessors": [{"name": "Text_editors", "id": 694684}, {"name": "Editing", "id": 5666647}], "successors": [{"name": "Free_HTML_editors", "id": 4189404}, {"name": "Vi", "id": 33460493}]}
+{"name": "Free_text_editors", "id": 4188631, "predecessors": [{"name": "Text_editors", "id": 694684}], "successors": [{"name": "Emacs", "id": 2635379}, {"name": "Free_HTML_editors", "id": 4189404}, {"name": "Vi", "id": 33460493}]}

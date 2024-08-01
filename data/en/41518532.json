@@ -1,1 +1,1 @@
-{"name": "Numerical_analysis_software_for_macOS", "id": 41518532, "predecessors": [{"name": "Science_software_for_macOS", "id": 42382540}], "successors": [{"name": "R_(programming_language)", "id": 8523545}]}
+{"name": "Numerical_analysis_software_for_macOS", "id": 41518532, "predecessors": [{"name": "Numerical_software", "id": 1908765}], "successors": [{"name": "R_(programming_language)", "id": 8523545}]}

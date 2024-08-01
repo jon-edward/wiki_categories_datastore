@@ -1,1 +1,1 @@
-{"name": "Pembiakan_pada_mamalia", "id": 665551, "predecessors": [{"name": "Pembiakan_pada_haiwan", "id": 665552}, {"name": "Pembiakan", "id": 25954}], "successors": [{"name": "Pembiakbakaan_anjing", "id": 447085}]}
+{"name": "Pembiakan_pada_mamalia", "id": 665551, "predecessors": [{"name": "Mamalia", "id": 21021}, {"name": "Pembiakan_pada_haiwan", "id": 665552}, {"name": "Pembiakan", "id": 25954}], "successors": [{"name": "Pembiakbakaan_anjing", "id": 447085}]}

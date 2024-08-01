@@ -1,1 +1,1 @@
-{"name": "Gopher_(protocol)", "id": 34959011, "predecessors": [{"name": "Hypertext", "id": 2678130}], "successors": [{"name": "Gopher_clients", "id": 27122502}]}
+{"name": "Gopher_(protocol)", "id": 34959011, "predecessors": [{"name": "Application_layer_protocols", "id": 7941457}, {"name": "Hypertext", "id": 2678130}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Carotenoids", "id": 2983218, "predecessors": [{"name": "Biomarkers", "id": 34431537}, {"name": "Photosynthetic_pigments", "id": 3725745}, {"name": "Tetraterpenes", "id": 26936843}, {"name": "Phytochemicals", "id": 2983462}], "successors": [{"name": "Apocarotenoids", "id": 20029087}]}
+{"name": "Carotenoids", "id": 2983218, "predecessors": [{"name": "Biomarkers", "id": 34431537}, {"name": "Photosynthetic_pigments", "id": 3725745}], "successors": []}

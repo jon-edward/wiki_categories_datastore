@@ -1,1 +1,1 @@
-{"name": "Dessert_wine", "id": 26266008, "predecessors": [{"name": "Wine_styles", "id": 3783480}], "successors": [{"name": "Sherry", "id": 9906562}, {"name": "Madeira_wine", "id": 9907650}, {"name": "Port_wine", "id": 54525965}]}
+{"name": "Dessert_wine", "id": 26266008, "predecessors": [{"name": "Wine_styles", "id": 3783480}], "successors": [{"name": "Sherry", "id": 9906562}, {"name": "Port_wine", "id": 54525965}]}

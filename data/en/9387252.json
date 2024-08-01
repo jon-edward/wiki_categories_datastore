@@ -1,1 +1,1 @@
-{"name": "Nonparametric_statistics", "id": 9387252, "predecessors": [{"name": "Statistical_hypothesis_testing", "id": 4861714}], "successors": [{"name": "Nonparametric_Bayesian_statistics", "id": 21936671}, {"name": "Nonparametric_regression", "id": 34760967}, {"name": "Rankings", "id": 42760129}]}
+{"name": "Nonparametric_statistics", "id": 9387252, "predecessors": [{"name": "Statistical_hypothesis_testing", "id": 4861714}], "successors": [{"name": "Rankings", "id": 42760129}]}

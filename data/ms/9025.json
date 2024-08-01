@@ -1,1 +1,1 @@
-{"name": "Atmosfera", "id": 9025, "predecessors": [{"name": "Cuaca", "id": 39507}, {"name": "Ekologi", "id": 82101}], "successors": []}
+{"name": "Atmosfera", "id": 9025, "predecessors": [{"name": "Cuaca", "id": 39507}, {"name": "Ekologi", "id": 82101}], "successors": [{"name": "Iklim", "id": 27729}]}

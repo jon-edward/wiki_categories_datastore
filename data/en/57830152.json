@@ -1,1 +1,1 @@
-{"name": "Deserters", "id": 57830152, "predecessors": [{"name": "Military_personnel", "id": 6660319}, {"name": "Crime_by_type", "id": 15090762}, {"name": "Humans", "id": 1784082}], "successors": [{"name": "People_convicted_of_desertion", "id": 75169404}]}
+{"name": "Deserters", "id": 57830152, "predecessors": [{"name": "Military_personnel", "id": 6660319}, {"name": "Crime_by_type", "id": 15090762}, {"name": "Humans", "id": 1784082}, {"name": "Military_law", "id": 915728}], "successors": [{"name": "People_convicted_of_desertion", "id": 75169404}]}

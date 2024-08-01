@@ -1,1 +1,1 @@
-{"name": "False_advertising", "id": 24765276, "predecessors": [{"name": "Advertising", "id": 884913}, {"name": "Commercial_crimes", "id": 1418756}, {"name": "Consumer_fraud", "id": 7428216}, {"name": "Deception", "id": 1212288}], "successors": [{"name": "False_advertising_law", "id": 42325519}]}
+{"name": "False_advertising", "id": 24765276, "predecessors": [{"name": "Advertising", "id": 884913}, {"name": "Commercial_crimes", "id": 1418756}, {"name": "Deception", "id": 1212288}], "successors": [{"name": "False_advertising_law", "id": 42325519}]}

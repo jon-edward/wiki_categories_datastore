@@ -1,1 +1,1 @@
-{"name": "Chess_World_Cup", "id": 39250103, "predecessors": [{"name": "World_Chess_Championships", "id": 41249427}, {"name": "World_cups", "id": 55528374}], "successors": []}
+{"name": "Chess_World_Cup", "id": 39250103, "predecessors": [{"name": "FIDE_competitions", "id": 73509269}, {"name": "World_Chess_Championships", "id": 41249427}, {"name": "World_cups", "id": 55528374}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "BAW_vehicles", "id": 52032490, "predecessors": [{"name": "Cars_of_China", "id": 4415809}], "successors": []}
+{"name": "BAW_vehicles", "id": 52032490, "predecessors": [{"name": "BAIC_Group_vehicles", "id": 52032383}, {"name": "Cars_of_China", "id": 4415809}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Germanic_gods", "id": 33188283, "predecessors": [{"name": "European_gods", "id": 1852331}, {"name": "Germanic_deities", "id": 3852191}], "successors": [{"name": "Thor", "id": 29649118}, {"name": "Odin", "id": 43691485}, {"name": "Baldr", "id": 56902262}, {"name": "Norse_gods", "id": 704409}]}
+{"name": "Germanic_gods", "id": 33188283, "predecessors": [{"name": "Germanic_deities", "id": 3852191}, {"name": "European_mythology", "id": 1847595}], "successors": [{"name": "Thor", "id": 29649118}, {"name": "Odin", "id": 43691485}, {"name": "Baldr", "id": 56902262}]}

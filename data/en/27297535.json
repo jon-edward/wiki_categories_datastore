@@ -1,1 +1,1 @@
-{"name": "Molecular_machines", "id": 27297535, "predecessors": [{"name": "Machines", "id": 7810459}, {"name": "Nanotechnology", "id": 888769}], "successors": [{"name": "Motor_proteins", "id": 2621039}]}
+{"name": "Molecular_machines", "id": 27297535, "predecessors": [{"name": "Machines", "id": 7810459}, {"name": "Nanotechnology", "id": 888769}, {"name": "Supramolecular_chemistry", "id": 1698002}], "successors": [{"name": "Motor_proteins", "id": 2621039}]}

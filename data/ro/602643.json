@@ -1,1 +1,1 @@
-{"name": "Încălzire", "id": 602643, "predecessors": [{"name": "Termotehnică", "id": 290642}, {"name": "Automatizare", "id": 288346}], "successors": []}
+{"name": "Încălzire", "id": 602643, "predecessors": [{"name": "Termotehnică", "id": 290642}, {"name": "Automatizare", "id": 288346}], "successors": [{"name": "Schimbătoare_de_căldură", "id": 649876}]}

@@ -1,1 +1,0 @@
-{"name": "Médecine_d'urgence", "id": 347403, "predecessors": [{"name": "Service_de_secours", "id": 129487}, {"name": "Spécialité_médicale", "id": 293687}, {"name": "Urgence_médicale", "id": 381539}], "successors": [{"name": "Traumatisme", "id": 286336}, {"name": "Ventilation_mécanique", "id": 546690}, {"name": "Neurotraumatisme", "id": 697670}]}

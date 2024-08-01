@@ -1,1 +1,1 @@
-{"name": "Mathematical_chemistry", "id": 15689672, "predecessors": [{"name": "Applied_mathematics", "id": 966983}, {"name": "Drug_discovery", "id": 10435830}, {"name": "Molecular_modelling", "id": 2016486}], "successors": []}
+{"name": "Mathematical_chemistry", "id": 15689672, "predecessors": [{"name": "Applied_mathematics", "id": 966983}, {"name": "Drug_discovery", "id": 10435830}, {"name": "Molecular_modelling", "id": 2016486}, {"name": "Theoretical_chemistry", "id": 2646540}], "successors": []}

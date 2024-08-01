@@ -1,1 +1,1 @@
-{"name": "Stochastic_optimization", "id": 27126463, "predecessors": [{"name": "Mathematical_optimization", "id": 18956829}], "successors": []}
+{"name": "Stochastic_optimization", "id": 27126463, "predecessors": [{"name": "Mathematical_optimization", "id": 18956829}, {"name": "Randomized_algorithms", "id": 31548188}], "successors": [{"name": "Stochastic_control", "id": 26028180}]}

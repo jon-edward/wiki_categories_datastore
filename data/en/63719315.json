@@ -1,1 +1,1 @@
-{"name": "Military_nursing", "id": 63719315, "predecessors": [{"name": "Nursing", "id": 744245}], "successors": [{"name": "Military_nurses", "id": 41494121}]}
+{"name": "Military_nursing", "id": 63719315, "predecessors": [{"name": "Military_medicine", "id": 1046649}, {"name": "Nursing", "id": 744245}], "successors": [{"name": "Military_nurses", "id": 41494121}]}

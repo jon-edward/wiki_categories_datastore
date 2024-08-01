@@ -1,1 +1,1 @@
-{"name": "Food_carts_in_Portland,_Oregon", "id": 70319732, "predecessors": [{"name": "Street_food_in_the_United_States", "id": 67631979}, {"name": "Restaurants_in_Portland,_Oregon", "id": 28146553}], "successors": []}
+{"name": "Food_carts_in_Portland,_Oregon", "id": 70319732, "predecessors": [{"name": "American_cuisine", "id": 728911}], "successors": [{"name": "Food_cart_pods_in_Portland,_Oregon", "id": 76986082}]}

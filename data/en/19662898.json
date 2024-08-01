@@ -1,1 +1,1 @@
-{"name": "Transport_in_Hobart", "id": 19662898, "predecessors": [{"name": "Hobart", "id": 699868}], "successors": [{"name": "Streets_in_Hobart", "id": 9902691}, {"name": "Highways_in_Hobart", "id": 33471579}]}
+{"name": "Transport_in_Hobart", "id": 19662898, "predecessors": [{"name": "Hobart", "id": 699868}, {"name": "Transport_in_Tasmania", "id": 1877205}, {"name": "Economy_of_Australia", "id": 1298305}], "successors": [{"name": "Streets_in_Hobart", "id": 9902691}, {"name": "Highways_in_Hobart", "id": 33471579}]}

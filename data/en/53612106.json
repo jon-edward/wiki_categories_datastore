@@ -1,1 +1,1 @@
-{"name": "Syndromes_affecting_stature", "id": 53612106, "predecessors": [{"name": "Growth_disorders", "id": 945370}, {"name": "Human_diseases_and_disorders", "id": 48701151}], "successors": [{"name": "Syndromes_with_short_stature", "id": 53807320}]}
+{"name": "Syndromes_affecting_stature", "id": 53612106, "predecessors": [{"name": "Growth_disorders", "id": 945370}, {"name": "Syndromes", "id": 4678438}], "successors": [{"name": "Syndromes_with_short_stature", "id": 53807320}]}

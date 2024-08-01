@@ -1,1 +1,1 @@
-{"name": "Stampă", "id": 937098, "predecessors": [{"name": "Design_grafic", "id": 91035}, {"name": "Tehnici_artistice", "id": 56250}, {"name": "Comunicații", "id": 749615}, {"name": "Arte_vizuale", "id": 36043}], "successors": [{"name": "Tipar_înalt", "id": 879552}]}
+{"name": "Stampă", "id": 937098, "predecessors": [{"name": "Tehnici_artistice", "id": 56250}, {"name": "Comunicații", "id": 749615}], "successors": [{"name": "Tipar_înalt", "id": 879552}]}

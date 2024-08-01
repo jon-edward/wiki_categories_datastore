@@ -1,1 +1,1 @@
-{"name": "Insektaj_feromonoj", "id": 678013, "predecessors": [{"name": "Feromonoj", "id": 630476}, {"name": "Insektoj", "id": 23342}, {"name": "Ekologio", "id": 26389}], "successors": []}
+{"name": "Insektaj_feromonoj", "id": 678013, "predecessors": [{"name": "Biomolekuloj", "id": 290579}, {"name": "Insektoj", "id": 23342}, {"name": "Ekologio", "id": 26389}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Buah", "id": 7435, "predecessors": [{"name": "Makanan", "id": 28867}, {"name": "Tanaman", "id": 74938}], "successors": [{"name": "Pisang", "id": 60812}]}
+{"name": "Buah", "id": 7435, "predecessors": [{"name": "Makanan", "id": 28867}, {"name": "Tanaman", "id": 74938}], "successors": []}

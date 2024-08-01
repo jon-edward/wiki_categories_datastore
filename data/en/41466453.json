@@ -1,1 +1,1 @@
-{"name": "Dinosaur_museums", "id": 41466453, "predecessors": [{"name": "Fossil_museums", "id": 27417789}, {"name": "Geology_museums", "id": 4858779}, {"name": "Dinosaurs", "id": 912963}], "successors": [{"name": "Dinosaur_museums_in_the_United_States", "id": 23261905}]}
+{"name": "Dinosaur_museums", "id": 41466453, "predecessors": [{"name": "Fossil_museums", "id": 27417789}, {"name": "Dinosaurs", "id": 912963}], "successors": [{"name": "Dinosaur_museums_in_the_United_States", "id": 23261905}]}

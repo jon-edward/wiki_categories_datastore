@@ -1,1 +1,1 @@
-{"name": "Fukuoka_City_Subway", "id": 8049065, "predecessors": [{"name": "Rail_transport_in_Fukuoka_Prefecture", "id": 11099893}, {"name": "Fukuoka", "id": 28215450}, {"name": "Rapid_transit", "id": 4286827}], "successors": []}
+{"name": "Fukuoka_City_Subway", "id": 8049065, "predecessors": [{"name": "Rapid_transit", "id": 4286827}], "successors": []}

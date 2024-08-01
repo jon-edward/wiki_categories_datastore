@@ -1,1 +1,1 @@
-{"name": "Snipers", "id": 1683032, "predecessors": [{"name": "Combat_occupations", "id": 19381455}, {"name": "Rifles", "id": 739709}, {"name": "Sharpshooters", "id": 72993862}, {"name": "Sniper_warfare", "id": 1583761}], "successors": [{"name": "Military_snipers", "id": 11058354}]}
+{"name": "Snipers", "id": 1683032, "predecessors": [{"name": "Combat_occupations", "id": 19381455}, {"name": "Rifles", "id": 739709}, {"name": "Sharpshooters", "id": 72993862}], "successors": [{"name": "Military_snipers", "id": 11058354}]}

@@ -1,1 +1,1 @@
-{"name": "Fluorone_dyes", "id": 3233573, "predecessors": [{"name": "Fluorescent_dyes", "id": 3242840}, {"name": "Triarylmethane_dyes", "id": 3233577}], "successors": []}
+{"name": "Fluorone_dyes", "id": 3233573, "predecessors": [{"name": "Fluorescent_dyes", "id": 3242840}, {"name": "Triarylmethane_dyes", "id": 3233577}, {"name": "Aromatic_ketones", "id": 23271655}], "successors": []}

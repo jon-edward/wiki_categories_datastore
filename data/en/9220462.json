@@ -1,1 +1,1 @@
-{"name": "Uranium_mining", "id": 9220462, "predecessors": [{"name": "Uranium", "id": 4133461}], "successors": []}
+{"name": "Uranium_mining", "id": 9220462, "predecessors": [{"name": "Fuel_production", "id": 12894669}, {"name": "Uranium", "id": 4133461}], "successors": [{"name": "Uranium_mines", "id": 3044145}, {"name": "Uranium_minerals", "id": 3886867}]}

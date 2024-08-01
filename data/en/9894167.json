@@ -1,1 +1,1 @@
-{"name": "Psalters", "id": 9894167, "predecessors": [{"name": "Psalms", "id": 2206336}], "successors": [{"name": "Illuminated_psalters", "id": 9879456}]}
+{"name": "Psalters", "id": 9894167, "predecessors": [{"name": "Hymnals", "id": 3888780}, {"name": "Psalms", "id": 2206336}], "successors": [{"name": "Illuminated_psalters", "id": 9879456}]}

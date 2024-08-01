@@ -1,1 +1,0 @@
-{"name": "Space_imagers", "id": 57816958, "predecessors": [{"name": "Image_sensors", "id": 3789130}, {"name": "Spacecraft_instruments", "id": 3879259}], "successors": [{"name": "Mars_imagers", "id": 36764261}, {"name": "Satellite_imaging_sensors", "id": 65087081}]}

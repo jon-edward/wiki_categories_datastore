@@ -1,1 +1,1 @@
-{"name": "B_physics", "id": 53905770, "predecessors": [{"name": "Standard_Model", "id": 1932658}], "successors": []}
+{"name": "B_physics", "id": 53905770, "predecessors": [{"name": "Hadrons", "id": 3558666}, {"name": "Standard_Model", "id": 1932658}], "successors": []}

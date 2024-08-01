@@ -1,1 +1,1 @@
-{"name": "Nippon_Professional_Baseball_venues", "id": 72835896, "predecessors": [{"name": "Baseball_venues_in_Japan", "id": 2837401}], "successors": []}
+{"name": "Nippon_Professional_Baseball_venues", "id": 72835896, "predecessors": [{"name": "Baseball_venues_in_Japan", "id": 2837401}, {"name": "Nippon_Professional_Baseball", "id": 10610299}], "successors": [{"name": "Albums_recorded_at_the_Tokyo_Dome", "id": 32609786}, {"name": "Events_at_Tokyo_Dome", "id": 77422491}]}

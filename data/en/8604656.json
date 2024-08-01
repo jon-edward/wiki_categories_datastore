@@ -1,1 +1,1 @@
-{"name": "Old_Norse_prose", "id": 8604656, "predecessors": [{"name": "Old_Norse_literature", "id": 4299873}, {"name": "Prose", "id": 9408616}], "successors": [{"name": "Sagas", "id": 8604654}, {"name": "Þættir", "id": 8604691}]}
+{"name": "Old_Norse_prose", "id": 8604656, "predecessors": [{"name": "Old_Norse_literature", "id": 4299873}, {"name": "Literary_genres", "id": 1286193}], "successors": [{"name": "Sagas", "id": 8604654}, {"name": "Þættir", "id": 8604691}]}

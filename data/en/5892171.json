@@ -1,1 +1,1 @@
-{"name": "Drink_companies_of_Israel", "id": 5892171, "predecessors": [{"name": "Food_and_drink_companies_of_Israel", "id": 5424903}], "successors": [{"name": "Wineries_of_Israel", "id": 19398148}]}
+{"name": "Drink_companies_of_Israel", "id": 5892171, "predecessors": [{"name": "Food_and_drink_companies_of_Israel", "id": 5424903}, {"name": "Manufacturing_companies_of_Israel", "id": 6995694}, {"name": "Culture_of_Israel", "id": 728143}], "successors": [{"name": "Wineries_of_Israel", "id": 19398148}]}

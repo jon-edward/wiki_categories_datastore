@@ -1,1 +1,1 @@
-{"name": "Lymphocytes", "id": 3108858, "predecessors": [{"name": "Leukocytes", "id": 3108846}, {"name": "Lymphatic_system", "id": 726233}], "successors": [{"name": "T_cells", "id": 3116292}, {"name": "B_cells", "id": 63310211}]}
+{"name": "Lymphocytes", "id": 3108858, "predecessors": [{"name": "Lymphatic_system", "id": 726233}], "successors": []}

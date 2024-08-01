@@ -1,1 +1,1 @@
-{"name": "BBC_television_news_shows", "id": 6163457, "predecessors": [{"name": "British_television_news_shows", "id": 6163505}, {"name": "BBC_News", "id": 32960840}], "successors": [{"name": "BBC_Regional_News_shows", "id": 3266197}, {"name": "Panorama_(British_TV_programme)", "id": 52462333}]}
+{"name": "BBC_television_news_shows", "id": 6163457, "predecessors": [{"name": "British_television_news_shows", "id": 6163505}], "successors": [{"name": "BBC_Regional_News_shows", "id": 3266197}, {"name": "Panorama_(British_TV_programme)", "id": 52462333}]}

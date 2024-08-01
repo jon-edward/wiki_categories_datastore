@@ -1,1 +1,1 @@
-{"name": "Fervojaj_stacioj_en_Gubernio_Kagaŭa", "id": 524315, "predecessors": [{"name": "Fervojaj_stacioj_en_Japanio", "id": 90881}, {"name": "Gubernio_Kagaŭa", "id": 341895}], "successors": [{"name": "Stacioj_de_JR_en_Gubernio_Kagaŭa", "id": 524314}]}
+{"name": "Fervojaj_stacioj_en_Gubernio_Kagaŭa", "id": 524315, "predecessors": [{"name": "Fervojaj_stacioj_en_Japanio", "id": 90881}, {"name": "Gubernioj_de_Japanio", "id": 341718}], "successors": [{"name": "Stacioj_de_JR_en_Gubernio_Kagaŭa", "id": 524314}]}

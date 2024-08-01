@@ -1,1 +1,1 @@
-{"name": "Metra_ŝpuro", "id": 482164, "predecessors": [{"name": "Konstruoj_de_fervojlinioj", "id": 291750}, {"name": "Fervojo", "id": 46010}], "successors": [{"name": "Flava_trajno", "id": 686916}]}
+{"name": "Metra_ŝpuro", "id": 482164, "predecessors": [{"name": "Fervojo", "id": 46010}], "successors": [{"name": "Flava_trajno", "id": 686916}]}

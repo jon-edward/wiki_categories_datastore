@@ -1,1 +1,1 @@
-{"name": "Brain_training_programs", "id": 43686667, "predecessors": [{"name": "Fraud", "id": 737192}, {"name": "Neuropsychology", "id": 1063303}], "successors": [{"name": "Brain_training_video_games", "id": 28066823}]}
+{"name": "Brain_training_programs", "id": 43686667, "predecessors": [{"name": "Cognitive_training", "id": 36938410}, {"name": "Fraud", "id": 737192}, {"name": "Neuropsychology", "id": 1063303}], "successors": [{"name": "Brain_training_video_games", "id": 28066823}]}

@@ -1,1 +1,1 @@
-{"name": "Kyiv_Metro_stations", "id": 4888467, "predecessors": [{"name": "Railway_stations_in_Kyiv", "id": 40132175}, {"name": "Transport_in_Ukraine", "id": 4732302}, {"name": "Railway_buildings_and_structures", "id": 41204871}], "successors": []}
+{"name": "Kyiv_Metro_stations", "id": 4888467, "predecessors": [{"name": "Railway_stations_in_Kyiv", "id": 40132175}, {"name": "Rapid_transit", "id": 4286827}, {"name": "Railway_buildings_and_structures", "id": 41204871}], "successors": []}

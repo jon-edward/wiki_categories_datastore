@@ -1,1 +1,1 @@
-{"name": "Muzicieni_danezi", "id": 113109, "predecessors": [{"name": "Genuri_artistice", "id": 765165}, {"name": "Grupuri_etnice_din_Europa", "id": 38372}], "successors": [{"name": "Compozitori_danezi", "id": 77119}, {"name": "Cântăreți_danezi", "id": 749940}]}
+{"name": "Muzicieni_danezi", "id": 113109, "predecessors": [{"name": "Muzicieni", "id": 19900}, {"name": "Grupuri_etnice_din_Europa", "id": 38372}], "successors": [{"name": "Compozitori_danezi", "id": 77119}, {"name": "Cântăreți_danezi", "id": 749940}]}

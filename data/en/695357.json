@@ -1,1 +1,1 @@
-{"name": "Aminoglycoside_antibiotics", "id": 695357, "predecessors": [{"name": "Amino_sugars", "id": 10160100}, {"name": "Glycosides", "id": 933036}, {"name": "Antibiotics", "id": 695084}], "successors": []}
+{"name": "Aminoglycoside_antibiotics", "id": 695357, "predecessors": [{"name": "Amino_sugars", "id": 10160100}, {"name": "Glycosides", "id": 933036}], "successors": []}

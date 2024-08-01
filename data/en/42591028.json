@@ -1,1 +1,1 @@
-{"name": "Glass_production", "id": 42591028, "predecessors": [{"name": "Glass_art", "id": 1984298}, {"name": "Glass_engineering_and_science", "id": 15358462}, {"name": "Glass_industry", "id": 52527274}], "successors": [{"name": "Warm_glass", "id": 29664099}]}
+{"name": "Glass_production", "id": 42591028, "predecessors": [{"name": "Glass_art", "id": 1984298}, {"name": "Glass_engineering_and_science", "id": 15358462}, {"name": "Glass_industry", "id": 52527274}, {"name": "Production_and_manufacturing", "id": 1226515}], "successors": []}

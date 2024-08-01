@@ -1,1 +1,1 @@
-{"name": "Oscillation", "id": 14056709, "predecessors": [{"name": "Mechanics", "id": 1028577}, {"name": "Periodic_phenomena", "id": 6993687}], "successors": [{"name": "Mechanical_vibrations", "id": 13532645}]}
+{"name": "Oscillation", "id": 14056709, "predecessors": [{"name": "Periodic_phenomena", "id": 6993687}], "successors": [{"name": "Waves", "id": 758467}, {"name": "Mechanical_vibrations", "id": 13532645}, {"name": "Hidden_oscillation", "id": 62918518}]}

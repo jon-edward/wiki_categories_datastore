@@ -1,1 +1,1 @@
-{"name": "Studentaj_eventoj", "id": 616721, "predecessors": [{"name": "Organizataj_eventoj", "id": 528800}, {"name": "Studenta_kulturo", "id": 616723}], "successors": []}
+{"name": "Studentaj_eventoj", "id": 616721, "predecessors": [{"name": "Studenta_kulturo", "id": 616723}, {"name": "Historio", "id": 29769}], "successors": []}

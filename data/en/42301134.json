@@ -1,1 +1,1 @@
-{"name": "Ming_dynasty_painters", "id": 42301134, "predecessors": [{"name": "Ming_dynasty_art", "id": 42301126}], "successors": [{"name": "Ming_dynasty_landscape_painters", "id": 42301150}]}
+{"name": "Ming_dynasty_painters", "id": 42301134, "predecessors": [{"name": "Chinese_painters", "id": 832534}, {"name": "Chinese_painting", "id": 8599610}, {"name": "Chinese_artists", "id": 1057718}], "successors": [{"name": "Ming_dynasty_landscape_painters", "id": 42301150}]}

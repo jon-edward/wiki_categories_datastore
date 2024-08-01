@@ -1,1 +1,0 @@
-{"name": "Infection-control_measures", "id": 66565755, "predecessors": [{"name": "Health_promotion", "id": 4344045}, {"name": "Infectious_diseases", "id": 707355}, {"name": "Medical_treatments", "id": 694975}, {"name": "Public_health", "id": 1311467}], "successors": [{"name": "Medical_hygiene", "id": 3807053}, {"name": "COVID-19_contact_tracing_apps", "id": 64468643}]}

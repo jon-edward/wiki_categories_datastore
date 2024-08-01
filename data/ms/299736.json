@@ -1,0 +1,1 @@
+{"name": "Mekanik_keselanjaran", "id": 299736, "predecessors": [{"name": "Mekanik", "id": 29117}, {"name": "Mekanik_klasik", "id": 299738}, {"name": "Sains_bahan", "id": 58301}], "successors": [{"name": "Mekanik_bendalir", "id": 299732}, {"name": "Mekanik_pepejal", "id": 321705}]}

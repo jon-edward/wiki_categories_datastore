@@ -1,1 +1,0 @@
-{"name": "Anti-infective_agents", "id": 22002563, "predecessors": [{"name": "Drugs", "id": 1325883}, {"name": "Infectious_diseases", "id": 707355}, {"name": "Medicinal_chemistry", "id": 2161858}], "successors": [{"name": "Antibiotics", "id": 695084}, {"name": "Antiparasitic_agents", "id": 803588}, {"name": "Antifungals", "id": 879106}]}

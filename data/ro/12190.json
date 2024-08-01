@@ -1,0 +1,1 @@
+{"name": "Băuturi", "id": 12190, "predecessors": [{"name": "Produse_alimentare", "id": 41669}], "successors": [{"name": "Băuturi_alcoolice", "id": 12191}, {"name": "Băuturi_nealcoolice", "id": 109486}, {"name": "Liste_de_băuturi", "id": 790248}]}

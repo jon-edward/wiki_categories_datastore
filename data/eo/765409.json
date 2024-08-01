@@ -1,1 +1,1 @@
-{"name": "Transporto_en_Ĥarkivo", "id": 765409, "predecessors": [{"name": "Ĥarkivo", "id": 366702}, {"name": "Transporto", "id": 51301}, {"name": "Provincoj_de_Ukrainio", "id": 260928}], "successors": [{"name": "Fervojaj_stacioj_en_Ĥarkivo", "id": 765410}]}
+{"name": "Transporto_en_Ĥarkivo", "id": 765409, "predecessors": [{"name": "Transporto", "id": 51301}, {"name": "Urboj_en_Ĥarkiva_provinco", "id": 760337}, {"name": "Provincoj_de_Ukrainio", "id": 260928}], "successors": [{"name": "Fervojaj_stacioj_en_Ĥarkivo", "id": 765410}]}

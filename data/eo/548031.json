@@ -1,1 +1,1 @@
-{"name": "Trolebusa_transporto_en_Francio", "id": 548031, "predecessors": [{"name": "Transporto_en_Francio", "id": 211587}, {"name": "Trolebusa_transporto", "id": 306427}], "successors": []}
+{"name": "Trolebusa_transporto_en_Francio", "id": 548031, "predecessors": [{"name": "Transporto_en_Francio", "id": 211587}, {"name": "Elektra_trakcio", "id": 291749}], "successors": []}

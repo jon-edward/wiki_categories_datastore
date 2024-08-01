@@ -1,1 +1,1 @@
-{"name": "Psychics", "id": 11050876, "predecessors": [{"name": "Psychic_powers", "id": 6393429}, {"name": "Esotericists", "id": 1825191}], "successors": [{"name": "Spiritual_mediums", "id": 10943578}]}
+{"name": "Psychics", "id": 11050876, "predecessors": [{"name": "Psychic_powers", "id": 6393429}, {"name": "Esotericism", "id": 2255400}], "successors": [{"name": "Spiritual_mediums", "id": 10943578}, {"name": "Fictional_psychics", "id": 37567582}]}

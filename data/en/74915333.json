@@ -1,1 +1,1 @@
-{"name": "Military_catering", "id": 74915333, "predecessors": [{"name": "Catering", "id": 14424897}, {"name": "Food_and_drink", "id": 694860}], "successors": [{"name": "Military_food", "id": 3755529}]}
+{"name": "Military_catering", "id": 74915333, "predecessors": [{"name": "Catering", "id": 14424897}, {"name": "Food_and_drink", "id": 694860}, {"name": "Military_logistics", "id": 2734200}], "successors": []}

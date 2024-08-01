@@ -1,1 +1,1 @@
-{"name": "Law-related_professional_associations", "id": 27073919, "predecessors": [{"name": "Legal_organizations", "id": 6583801}], "successors": [{"name": "Bar_associations", "id": 2965336}, {"name": "Law_societies", "id": 20442433}]}
+{"name": "Law-related_professional_associations", "id": 27073919, "predecessors": [{"name": "Legal_organizations", "id": 6583801}, {"name": "Professional_associations", "id": 915759}], "successors": [{"name": "Bar_associations", "id": 2965336}, {"name": "Law_societies", "id": 20442433}]}

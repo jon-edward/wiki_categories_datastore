@@ -1,1 +1,1 @@
-{"name": "Vertically_scrolling_video_games", "id": 77163993, "predecessors": [{"name": "Scrolling", "id": 77146646}, {"name": "Computer_graphics", "id": 735771}], "successors": [{"name": "Vertically_scrolling_shooters", "id": 46890464}]}
+{"name": "Vertically_scrolling_video_games", "id": 77163993, "predecessors": [{"name": "Computer_graphics", "id": 735771}, {"name": "Demo_effects", "id": 4981154}], "successors": [{"name": "Vertically_scrolling_shooters", "id": 46890464}]}

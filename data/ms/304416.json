@@ -1,1 +1,1 @@
-{"name": "Analisis_data", "id": 304416, "predecessors": [{"name": "Pengurusan_data", "id": 82336}, {"name": "Kognisi", "id": 81768}], "successors": []}
+{"name": "Analisis_data", "id": 304416, "predecessors": [{"name": "Pengurusan_data", "id": 82336}, {"name": "Statistik", "id": 62381}, {"name": "Kognisi", "id": 81768}], "successors": []}

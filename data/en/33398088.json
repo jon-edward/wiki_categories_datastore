@@ -1,1 +1,1 @@
-{"name": "Theorems_in_analysis", "id": 33398088, "predecessors": [{"name": "Mathematical_analysis", "id": 691875}, {"name": "Mathematical_theorems", "id": 3091438}], "successors": []}
+{"name": "Theorems_in_analysis", "id": 33398088, "predecessors": [{"name": "Mathematical_analysis", "id": 691875}, {"name": "Mathematical_theorems", "id": 3091438}], "successors": [{"name": "Theorems_in_approximation_theory", "id": 33509846}, {"name": "Theorems_in_analytic_number_theory", "id": 34583024}, {"name": "Lemmas_in_analysis", "id": 65738088}]}

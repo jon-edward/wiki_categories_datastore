@@ -1,1 +1,1 @@
-{"name": "Aparate_electrocasnice", "id": 989332, "predecessors": [{"name": "Aparate_electrice", "id": 1236832}, {"name": "Aparate_menajere", "id": 357774}, {"name": "Obiecte_casnice", "id": 349578}], "successors": [{"name": "Producători_de_electrocasnice", "id": 457561}, {"name": "Smart_TV", "id": 1834273}]}
+{"name": "Aparate_electrocasnice", "id": 989332, "predecessors": [{"name": "Aparate_menajere", "id": 357774}, {"name": "Obiecte_casnice", "id": 349578}], "successors": [{"name": "Producători_de_electrocasnice", "id": 457561}, {"name": "Smart_TV", "id": 1834273}]}

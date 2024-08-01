@@ -1,1 +1,1 @@
-{"name": "Restaurants_in_Stockholm", "id": 33758964, "predecessors": [{"name": "Restaurants_in_Sweden", "id": 5403640}, {"name": "Tourist_attractions_in_Stockholm", "id": 9690550}, {"name": "Tourism_in_Sweden", "id": 980469}, {"name": "Food_and_drink_companies_of_Sweden", "id": 11012561}], "successors": []}
+{"name": "Restaurants_in_Stockholm", "id": 33758964, "predecessors": [{"name": "Tourist_attractions_in_Stockholm", "id": 9690550}, {"name": "Food_and_drink_companies_of_Sweden", "id": 11012561}, {"name": "Tourism_in_Sweden", "id": 980469}], "successors": []}

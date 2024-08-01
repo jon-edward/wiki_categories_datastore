@@ -1,1 +1,1 @@
-{"name": "Muzicieni_surzi", "id": 1660184, "predecessors": [{"name": "Persoane_cu_dizabilități", "id": 759008}], "successors": [{"name": "Beethoven", "id": 122180}]}
+{"name": "Muzicieni_surzi", "id": 1660184, "predecessors": [{"name": "Muzicieni", "id": 19900}, {"name": "Persoane_surde", "id": 1243619}], "successors": [{"name": "Beethoven", "id": 122180}]}

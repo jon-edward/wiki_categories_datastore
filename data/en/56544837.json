@@ -1,1 +1,1 @@
-{"name": "49er_class_sailing_competitions", "id": 56544837, "predecessors": [{"name": "Sailing_competitions", "id": 42956893}], "successors": []}
+{"name": "49er_class_sailing_competitions", "id": 56544837, "predecessors": [{"name": "Sailing_competitions", "id": 42956893}, {"name": "Australian_designers", "id": 5847281}], "successors": [{"name": "49er_class_world_champions", "id": 47912433}, {"name": "49er_FX_class_world_champions", "id": 47983043}]}

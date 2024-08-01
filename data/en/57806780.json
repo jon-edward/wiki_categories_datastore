@@ -1,1 +1,1 @@
-{"name": "Wuhan_Metro_stations", "id": 57806780, "predecessors": [{"name": "Underground_rapid_transit_in_China", "id": 32579763}], "successors": []}
+{"name": "Wuhan_Metro_stations", "id": 57806780, "predecessors": [{"name": "Transport_in_Wuhan", "id": 4872826}, {"name": "Passenger_rail_transport_in_China", "id": 37504720}, {"name": "Buildings_and_structures_in_Wuhan", "id": 4872760}], "successors": []}

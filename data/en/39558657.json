@@ -1,1 +1,1 @@
-{"name": "Reoviruses", "id": 39558657, "predecessors": [{"name": "Riboviria", "id": 60178825}, {"name": "RNA_viruses", "id": 32647214}], "successors": [{"name": "Rotaviruses", "id": 15157314}, {"name": "Orbiviruses", "id": 39558701}, {"name": "Spinareovirinae", "id": 47085027}]}
+{"name": "Reoviruses", "id": 39558657, "predecessors": [{"name": "RNA_viruses", "id": 32647214}], "successors": [{"name": "Rotaviruses", "id": 15157314}, {"name": "Orbiviruses", "id": 39558701}, {"name": "Spinareovirinae", "id": 47085027}]}

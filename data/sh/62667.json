@@ -1,1 +1,0 @@
-{"name": "Simptomi", "id": 62667, "predecessors": [{"name": "Medicinska_dijagnostika", "id": 62666}, {"name": "Bolesti", "id": 10845}], "successors": [{"name": "Neurološki_simptomi", "id": 3558616}, {"name": "Bol", "id": 274163}]}

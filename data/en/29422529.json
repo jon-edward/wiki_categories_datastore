@@ -1,1 +1,1 @@
-{"name": "Hunting_rifles", "id": 29422529, "predecessors": [{"name": "Rifles", "id": 739709}], "successors": [{"name": "Falling-block_rifles", "id": 50957930}]}
+{"name": "Hunting_rifles", "id": 29422529, "predecessors": [{"name": "Hunting_equipment", "id": 31754753}, {"name": "Rifles", "id": 739709}], "successors": [{"name": "Falling-block_rifles", "id": 50957930}]}

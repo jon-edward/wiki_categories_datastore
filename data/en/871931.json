@@ -1,1 +1,1 @@
-{"name": "Suspension_bridges", "id": 871931, "predecessors": [{"name": "Bridges_by_structural_type", "id": 15569865}, {"name": "Suspended_structures", "id": 69788243}, {"name": "Towers", "id": 791935}], "successors": []}
+{"name": "Suspension_bridges", "id": 871931, "predecessors": [{"name": "Bridges_by_structural_type", "id": 15569865}, {"name": "Suspended_structures", "id": 69788243}, {"name": "Towers", "id": 791935}], "successors": [{"name": "Chain_bridges", "id": 61401849}]}

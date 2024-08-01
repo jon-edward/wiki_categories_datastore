@@ -1,1 +1,1 @@
-{"name": "Sentimente", "id": 1329772, "predecessors": [{"name": "Emoție", "id": 750891}, {"name": "Concepte_metafizice", "id": 1056027}, {"name": "Metafizica_minții", "id": 1776956}], "successors": [{"name": "Durere", "id": 1036592}]}
+{"name": "Sentimente", "id": 1329772, "predecessors": [{"name": "Emoție", "id": 750891}, {"name": "Concepte_metafizice", "id": 1056027}, {"name": "Conștiință", "id": 1163304}], "successors": [{"name": "Durere", "id": 1036592}, {"name": "Fericire", "id": 1326019}]}

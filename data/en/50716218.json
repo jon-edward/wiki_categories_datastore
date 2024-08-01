@@ -1,1 +1,1 @@
-{"name": "Coffee_in_Italy", "id": 50716218, "predecessors": [{"name": "Coffee_in_Europe", "id": 50716174}, {"name": "Italian_drinks", "id": 2848403}, {"name": "Coffee", "id": 838967}], "successors": [{"name": "Coffeehouses_and_cafés_in_Italy", "id": 25071697}, {"name": "Espresso", "id": 26732404}]}
+{"name": "Coffee_in_Italy", "id": 50716218, "predecessors": [{"name": "Italian_drinks", "id": 2848403}, {"name": "European_cuisine", "id": 1259768}], "successors": []}

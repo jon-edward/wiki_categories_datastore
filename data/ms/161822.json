@@ -1,1 +1,1 @@
-{"name": "Teknologi_nuklear", "id": 161822, "predecessors": [{"name": "Kuasa_nuklear", "id": 161825}, {"name": "Tenaga", "id": 76551}], "successors": [{"name": "Kuasa_nuklear", "id": 161825}, {"name": "Bahan_api_nuklear", "id": 979809}]}
+{"name": "Teknologi_nuklear", "id": 161822, "predecessors": [{"name": "Kuasa_nuklear", "id": 161825}, {"name": "Mekanik_kuantum", "id": 125575}, {"name": "Tenaga", "id": 76551}], "successors": [{"name": "Kuasa_nuklear", "id": 161825}, {"name": "Bahan_api_nuklear", "id": 979809}]}

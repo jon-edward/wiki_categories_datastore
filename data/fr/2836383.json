@@ -1,1 +1,0 @@
-{"name": "USB", "id": 2836383, "predecessors": [{"name": "Carte_mère", "id": 615252}, {"name": "Connectique", "id": 98219}, {"name": "Norme_électrique", "id": 1174608}, {"name": "Protocole_de_communication", "id": 1800434}, {"name": "Protocole_réseau_sur_la_couche_physique", "id": 4266817}], "successors": [{"name": "LiveUSB", "id": 3831973}]}

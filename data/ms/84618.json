@@ -1,1 +1,1 @@
-{"name": "Metalurgi", "id": 84618, "predecessors": [{"name": "Kimia", "id": 11182}, {"name": "Sains_bahan", "id": 58301}], "successors": [{"name": "Emas", "id": 84612}, {"name": "Kerja_logam", "id": 163721}]}
+{"name": "Metalurgi", "id": 84618, "predecessors": [{"name": "Kimia", "id": 11182}, {"name": "Perlombongan", "id": 986216}, {"name": "Sains_bahan", "id": 58301}], "successors": [{"name": "Emas", "id": 84612}, {"name": "Kerja_logam", "id": 163721}]}

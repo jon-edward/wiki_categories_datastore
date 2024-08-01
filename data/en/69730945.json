@@ -1,0 +1,1 @@
+{"name": "Biochemical_reactions", "id": 69730945, "predecessors": [{"name": "Biochemistry", "id": 695996}, {"name": "Chemical_reactions", "id": 995738}], "successors": [{"name": "Light_reactions", "id": 1747555}, {"name": "Post-translational_modification", "id": 4648624}, {"name": "Biochemistry_detection_reactions", "id": 68203011}]}

@@ -1,1 +1,1 @@
-{"name": "Coduri_ATC", "id": 98710, "predecessors": [{"name": "Coduri", "id": 126863}, {"name": "Farmacologie", "id": 67789}], "successors": [{"name": "Formate_coduri_ATC", "id": 463864}, {"name": "Preparate_stomatologice", "id": 1953154}]}
+{"name": "Coduri_ATC", "id": 98710, "predecessors": [{"name": "Coduri", "id": 126863}, {"name": "Farmacologie", "id": 67789}], "successors": [{"name": "Formate_coduri_ATC", "id": 463864}]}

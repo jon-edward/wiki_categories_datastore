@@ -1,1 +1,1 @@
-{"name": "Aditivi_alimentari", "id": 424680, "predecessors": [{"name": "Alimentație", "id": 748204}, {"name": "Utilitate", "id": 239490}], "successors": [{"name": "Excipienți", "id": 2351672}, {"name": "Coloranți_alimentari", "id": 2554367}]}
+{"name": "Aditivi_alimentari", "id": 424680, "predecessors": [{"name": "Alimentație", "id": 748204}], "successors": [{"name": "Conservanți", "id": 749735}, {"name": "Arome", "id": 1250729}, {"name": "Excipienți", "id": 2351672}, {"name": "Coloranți_alimentari", "id": 2554367}]}

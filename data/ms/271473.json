@@ -1,1 +1,1 @@
-{"name": "Radar", "id": 271473, "predecessors": [{"name": "Sistem_terbenam", "id": 301676}, {"name": "Spektrum_radio", "id": 182456}], "successors": [{"name": "Kapal_halimunan", "id": 881761}]}
+{"name": "Radar", "id": 271473, "predecessors": [{"name": "Sistem_terbenam", "id": 301676}, {"name": "Elektronik", "id": 30627}], "successors": [{"name": "Kapal_halimunan", "id": 881761}]}

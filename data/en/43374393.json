@@ -1,1 +1,1 @@
-{"name": "Credit_scoring", "id": 43374393, "predecessors": [{"name": "Rating_systems", "id": 935594}], "successors": []}
+{"name": "Credit_scoring", "id": 43374393, "predecessors": [{"name": "Credit_risk", "id": 52546814}, {"name": "Rating_systems", "id": 935594}], "successors": []}

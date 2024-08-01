@@ -1,1 +1,1 @@
-{"name": "Fermented_soy-based_foods", "id": 52233348, "predecessors": [{"name": "Fermented_foods", "id": 1585537}, {"name": "Plant-based_fermented_foods", "id": 52240097}, {"name": "Soy-based_foods", "id": 47277160}, {"name": "Probiotics", "id": 12122644}], "successors": []}
+{"name": "Fermented_soy-based_foods", "id": 52233348, "predecessors": [{"name": "Fermented_foods", "id": 1585537}, {"name": "Plant-based_fermented_foods", "id": 52240097}, {"name": "Soy-based_foods", "id": 47277160}, {"name": "Biologically_based_therapies", "id": 5717653}], "successors": []}

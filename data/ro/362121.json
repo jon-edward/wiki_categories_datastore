@@ -1,1 +1,1 @@
-{"name": "Desenatori_francezi", "id": 362121, "predecessors": [{"name": "Artiști_francezi", "id": 748584}], "successors": [{"name": "Ilustratori_francezi", "id": 362122}, {"name": "Caricaturiști_francezi", "id": 749089}]}
+{"name": "Desenatori_francezi", "id": 362121, "predecessors": [{"name": "Artiști_francezi", "id": 748584}, {"name": "Desenatori", "id": 309095}], "successors": [{"name": "Ilustratori_francezi", "id": 362122}, {"name": "Caricaturiști_francezi", "id": 749089}]}

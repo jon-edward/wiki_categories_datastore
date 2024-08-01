@@ -1,1 +1,1 @@
-{"name": "Lipid_disorders", "id": 5254087, "predecessors": [{"name": "Lipids", "id": 713771}, {"name": "Metabolic_disorders", "id": 966815}], "successors": [{"name": "Lipid_storage_disorders", "id": 19382293}, {"name": "Lipid_metabolism_disorders", "id": 32605593}]}
+{"name": "Lipid_disorders", "id": 5254087, "predecessors": [{"name": "Lipids", "id": 713771}, {"name": "Metabolic_disorders", "id": 966815}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Urboj_en_Odesa_provinco", "id": 760264, "predecessors": [{"name": "Urboj_de_Ukrainio", "id": 33416}, {"name": "Provincoj_de_Ukrainio", "id": 260928}], "successors": [{"name": "Odeso", "id": 255463}, {"name": "Podilsk", "id": 765250}, {"name": "Reni", "id": 765562}]}
+{"name": "Urboj_en_Odesa_provinco", "id": 760264, "predecessors": [{"name": "Administraj_unuoj_de_Ukrainio", "id": 541455}, {"name": "Provincoj_de_Ukrainio", "id": 260928}], "successors": [{"name": "Odeso", "id": 255463}, {"name": "Reni", "id": 765562}]}

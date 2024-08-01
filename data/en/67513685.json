@@ -1,1 +1,1 @@
-{"name": "Image_Comics_female_characters", "id": 67513685, "predecessors": [{"name": "Female_characters_in_comics", "id": 48529021}], "successors": [{"name": "Image_Comics_female_superheroes", "id": 67513678}]}
+{"name": "Image_Comics_female_characters", "id": 67513685, "predecessors": [{"name": "Female_characters_in_comics", "id": 48529021}, {"name": "Image_Comics_characters", "id": 711029}, {"name": "Cultural_depictions_of_women", "id": 36597074}], "successors": [{"name": "Image_Comics_female_superheroes", "id": 67513678}]}

@@ -1,1 +1,1 @@
-{"name": "Stații_de_premetrou_din_Antwerpen", "id": 1849096, "predecessors": [{"name": "Companii_de_transport", "id": 369033}], "successors": [{"name": "Stații_fantomă_ale_premetroului_din_Antwerpen", "id": 1894205}]}
+{"name": "Stații_de_premetrou_din_Antwerpen", "id": 1849096, "predecessors": [{"name": "Sisteme_de_metrou", "id": 20947}], "successors": [{"name": "Stații_fantomă_ale_premetroului_din_Antwerpen", "id": 1894205}]}

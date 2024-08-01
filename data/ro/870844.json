@@ -1,1 +1,1 @@
-{"name": "Materiale_sintetice", "id": 870844, "predecessors": [{"name": "Materiale", "id": 36042}, {"name": "Sinteză_chimică", "id": 2338118}, {"name": "Materie", "id": 116477}], "successors": [{"name": "Coloranți_sintetici", "id": 749393}, {"name": "Nanomateriale", "id": 1161788}]}
+{"name": "Materiale_sintetice", "id": 870844, "predecessors": [{"name": "Materiale", "id": 36042}, {"name": "Sinteză_chimică", "id": 2338118}, {"name": "Materie", "id": 116477}], "successors": [{"name": "Coloranți_sintetici", "id": 749393}]}

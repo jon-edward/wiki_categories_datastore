@@ -1,1 +1,1 @@
-{"name": "Curling_venues", "id": 31351298, "predecessors": [{"name": "Ice_rinks", "id": 49658627}, {"name": "Ice_sports", "id": 49658646}, {"name": "Tourist_attractions", "id": 17199034}], "successors": [{"name": "Olympic_curling_venues", "id": 31230375}]}
+{"name": "Curling_venues", "id": 31351298, "predecessors": [{"name": "Ice_rinks", "id": 49658627}, {"name": "Ice_sports", "id": 49658646}], "successors": [{"name": "Olympic_curling_venues", "id": 31230375}]}

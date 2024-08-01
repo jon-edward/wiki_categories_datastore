@@ -1,1 +1,1 @@
-{"name": "Organofosfat", "id": 1136342, "predecessors": [{"name": "Fosfat", "id": 977334}, {"name": "Sebatian_organik", "id": 24295}], "successors": [{"name": "Nukleotida", "id": 1036408}, {"name": "Fosfolipid", "id": 1172798}]}
+{"name": "Organofosfat", "id": 1136342, "predecessors": [{"name": "Fosfat", "id": 977334}, {"name": "Sebatian_organik", "id": 24295}, {"name": "Farmakologi", "id": 58312}], "successors": [{"name": "Nukleotida", "id": 1036408}, {"name": "Fosfolipid", "id": 1172798}]}

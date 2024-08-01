@@ -1,1 +1,1 @@
-{"name": "Criminals_from_Los_Angeles", "id": 39134937, "predecessors": [{"name": "Crime_in_Los_Angeles", "id": 14533625}, {"name": "Justice", "id": 2388327}], "successors": []}
+{"name": "Criminals_from_Los_Angeles", "id": 39134937, "predecessors": [{"name": "Crime_in_Los_Angeles", "id": 14533625}, {"name": "Criminals_from_California", "id": 36467084}, {"name": "People_from_Los_Angeles", "id": 16457796}, {"name": "Justice", "id": 2388327}], "successors": [{"name": "Gangsters_from_Los_Angeles", "id": 65330389}]}

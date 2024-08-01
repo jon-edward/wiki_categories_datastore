@@ -1,1 +1,1 @@
-{"name": "Genuri_muzicale_culte", "id": 430559, "predecessors": [{"name": "Muzică_cultă", "id": 351615}], "successors": [{"name": "Operă", "id": 35916}, {"name": "Balet", "id": 276436}, {"name": "Operetă", "id": 430803}]}
+{"name": "Genuri_muzicale_culte", "id": 430559, "predecessors": [{"name": "Muzică_cultă", "id": 351615}, {"name": "Lucrări_după_creator", "id": 963030}], "successors": [{"name": "Operă", "id": 35916}, {"name": "Balet", "id": 276436}, {"name": "Operetă", "id": 430803}]}

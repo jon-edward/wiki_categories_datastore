@@ -1,1 +1,1 @@
-{"name": "Concurrency_control_algorithms", "id": 24182146, "predecessors": [{"name": "Concurrency_control", "id": 1462863}], "successors": []}
+{"name": "Concurrency_control_algorithms", "id": 24182146, "predecessors": [{"name": "Concurrency_control", "id": 1462863}, {"name": "Distributed_algorithms", "id": 15970362}, {"name": "Algorithms", "id": 691136}], "successors": []}

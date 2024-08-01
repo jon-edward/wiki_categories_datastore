@@ -1,1 +1,1 @@
-{"name": "Pembiakan_pada_haiwan", "id": 665552, "predecessors": [{"name": "Pembiakan", "id": 25954}, {"name": "Komunikasi_haiwan", "id": 663228}], "successors": [{"name": "Telur", "id": 58124}, {"name": "Pembiakan_pada_mamalia", "id": 665551}]}
+{"name": "Pembiakan_pada_haiwan", "id": 665552, "predecessors": [{"name": "Pembiakan", "id": 25954}, {"name": "Haiwan", "id": 21020}], "successors": [{"name": "Telur", "id": 58124}, {"name": "Pembiakan_pada_mamalia", "id": 665551}]}

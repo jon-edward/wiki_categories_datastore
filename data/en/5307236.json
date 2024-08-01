@@ -1,1 +1,1 @@
-{"name": "Biodegradable_plastics", "id": 5307236, "predecessors": [{"name": "Biodegradable_materials", "id": 2426366}, {"name": "Plastics", "id": 2206328}, {"name": "Plastics_and_the_environment", "id": 29048319}], "successors": []}
+{"name": "Biodegradable_plastics", "id": 5307236, "predecessors": [{"name": "Biodegradable_materials", "id": 2426366}, {"name": "Plastics_and_the_environment", "id": 29048319}], "successors": []}

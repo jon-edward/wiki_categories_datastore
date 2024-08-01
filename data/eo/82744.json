@@ -1,1 +1,1 @@
-{"name": "Ekvacioj", "id": 82744, "predecessors": [{"name": "Analitiko", "id": 82502}], "successors": [{"name": "Diferencialaj_ekvacioj", "id": 82675}, {"name": "Diofantaj_ekvacioj", "id": 82689}]}
+{"name": "Ekvacioj", "id": 82744, "predecessors": [{"name": "Analitiko", "id": 82502}], "successors": [{"name": "Diferencialaj_ekvacioj", "id": 82675}]}

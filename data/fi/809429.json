@@ -1,1 +1,1 @@
-{"name": "Sveitsin_rautatietunnelit", "id": 809429, "predecessors": [{"name": "Rautatietunnelit", "id": 92686}, {"name": "Euroopan_neuvosto", "id": 382420}], "successors": []}
+{"name": "Sveitsin_rautatietunnelit", "id": 809429, "predecessors": [{"name": "Rautatietunnelit", "id": 92686}, {"name": "Sveitsin_rautatieliikenne", "id": 680090}, {"name": "Euroopan_neuvosto", "id": 382420}], "successors": []}

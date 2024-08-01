@@ -1,1 +1,1 @@
-{"name": "Armoured_trains", "id": 20677958, "predecessors": [{"name": "Military_railway_equipment", "id": 16727528}, {"name": "Trains", "id": 1784707}], "successors": [{"name": "Armoured_trains_of_Poland", "id": 28615198}]}
+{"name": "Armoured_trains", "id": 20677958, "predecessors": [{"name": "Trains", "id": 1784707}, {"name": "Military_railways", "id": 16726899}], "successors": [{"name": "Armoured_trains_of_Poland", "id": 28615198}]}

@@ -1,1 +1,1 @@
-{"name": "Biomass", "id": 17824428, "predecessors": [{"name": "Biofuels", "id": 4102968}], "successors": [{"name": "Wood_fuel", "id": 38597381}]}
+{"name": "Biomass", "id": 17824428, "predecessors": [{"name": "Biofuels", "id": 4102968}], "successors": [{"name": "Energy_crops", "id": 4090899}, {"name": "Wood_fuel", "id": 38597381}]}

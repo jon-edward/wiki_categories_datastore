@@ -1,1 +1,1 @@
-{"name": "Kriptografi", "id": 42302, "predecessors": [{"name": "Keselamatan_komputer", "id": 42303}], "successors": [{"name": "Mata_wang_kripto", "id": 1158289}, {"name": "Kaedah_pengesahan", "id": 161308}, {"name": "Kad_pintar", "id": 352158}]}
+{"name": "Kriptografi", "id": 42302, "predecessors": [{"name": "Matematik_gunaan", "id": 76484}], "successors": [{"name": "Mata_wang_kripto", "id": 1158289}, {"name": "Kaedah_pengesahan", "id": 161308}, {"name": "Kad_pintar", "id": 352158}]}

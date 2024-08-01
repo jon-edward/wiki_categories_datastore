@@ -1,1 +1,1 @@
-{"name": "United_Nations_military_personnel", "id": 39067013, "predecessors": [{"name": "United_Nations_peacekeeping", "id": 24170484}], "successors": []}
+{"name": "United_Nations_military_personnel", "id": 39067013, "predecessors": [{"name": "United_Nations_officials", "id": 5863899}, {"name": "Military_organization", "id": 1054894}], "successors": [{"name": "United_Nations_Protection_Force_soldiers", "id": 39087276}]}

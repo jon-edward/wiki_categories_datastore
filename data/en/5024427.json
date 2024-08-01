@@ -1,1 +1,1 @@
-{"name": "Sony_cameras", "id": 5024427, "predecessors": [{"name": "Cameras_by_brand", "id": 1975579}, {"name": "Sony_hardware", "id": 8278826}], "successors": [{"name": "Sony_camcorders", "id": 51907417}]}
+{"name": "Sony_cameras", "id": 5024427, "predecessors": [{"name": "Cameras_by_brand", "id": 1975579}], "successors": [{"name": "Sony_E-mount_cameras", "id": 40487661}, {"name": "Sony_camcorders", "id": 51907417}]}

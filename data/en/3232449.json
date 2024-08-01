@@ -1,0 +1,1 @@
+{"name": "Custom_firmware", "id": 3232449, "predecessors": [{"name": "Firmware", "id": 3232463}], "successors": [{"name": "Free_boot_loaders", "id": 21870579}, {"name": "Custom_Android_firmware", "id": 47653499}]}

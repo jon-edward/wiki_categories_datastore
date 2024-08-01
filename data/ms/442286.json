@@ -1,1 +1,1 @@
-{"name": "Sukan_anjing", "id": 442286, "predecessors": [{"name": "Anjing", "id": 355756}, {"name": "Interaksi_manusia–haiwan", "id": 659624}], "successors": [{"name": "Penarikan_kereta_luncur_salji_anjing", "id": 663023}]}
+{"name": "Sukan_anjing", "id": 442286, "predecessors": [{"name": "Anjing", "id": 355756}, {"name": "Sukan", "id": 7428}], "successors": [{"name": "Penarikan_kereta_luncur_salji_anjing", "id": 663023}]}

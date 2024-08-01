@@ -1,1 +1,1 @@
-{"name": "Transport_in_Rouen", "id": 29578200, "predecessors": [{"name": "Rouen", "id": 2744222}, {"name": "Transport_in_Normandy", "id": 9168195}, {"name": "Economy_of_France", "id": 1298598}], "successors": []}
+{"name": "Transport_in_Rouen", "id": 29578200, "predecessors": [{"name": "Transport_in_Normandy", "id": 9168195}], "successors": []}

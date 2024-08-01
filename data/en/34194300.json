@@ -1,1 +1,1 @@
-{"name": "Fruit_morphology", "id": 34194300, "predecessors": [{"name": "Plant_morphology", "id": 2774262}, {"name": "Plant_reproduction", "id": 4282373}], "successors": [{"name": "Berries", "id": 17115366}, {"name": "Drupes", "id": 58129020}]}
+{"name": "Fruit_morphology", "id": 34194300, "predecessors": [{"name": "Plant_morphology", "id": 2774262}, {"name": "Plant_reproduction", "id": 4282373}], "successors": [{"name": "Berries", "id": 17115366}]}

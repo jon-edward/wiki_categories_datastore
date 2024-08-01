@@ -1,0 +1,1 @@
+{"name": "Instruction_set_architectures", "id": 23410612, "predecessors": [{"name": "Computer_architecture", "id": 869984}], "successors": [{"name": "X86_architecture", "id": 2299258}, {"name": "ARM_architecture", "id": 3291475}, {"name": "MIPS_architecture", "id": 53966677}, {"name": "68k_architecture", "id": 58074291}, {"name": "68k_microprocessors", "id": 1207470}]}

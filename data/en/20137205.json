@@ -1,1 +1,1 @@
-{"name": "Google_Maps", "id": 20137205, "predecessors": [{"name": "Google_services", "id": 6090339}, {"name": "Route_planning_software", "id": 14357372}, {"name": "Web_Map_Services", "id": 9168072}, {"name": "Web_mapping", "id": 18382324}], "successors": []}
+{"name": "Google_Maps", "id": 20137205, "predecessors": [{"name": "Route_planning_software", "id": 14357372}, {"name": "Web_Map_Services", "id": 9168072}, {"name": "Web_mapping", "id": 18382324}], "successors": [{"name": "Google_Street_View", "id": 31061406}]}

@@ -1,1 +1,1 @@
-{"name": "Manufacturing_companies_based_in_Cincinnati", "id": 51890967, "predecessors": [{"name": "Companies_based_in_Cincinnati", "id": 17424736}], "successors": [{"name": "Procter_&_Gamble", "id": 2872366}, {"name": "Wurlitzer", "id": 31323352}]}
+{"name": "Manufacturing_companies_based_in_Cincinnati", "id": 51890967, "predecessors": [{"name": "Manufacturing_companies_based_in_Ohio", "id": 25996379}], "successors": [{"name": "Procter_&_Gamble", "id": 2872366}, {"name": "Wurlitzer", "id": 31323352}]}

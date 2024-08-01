@@ -1,1 +1,1 @@
-{"name": "Sveitsin_rautatieliikennepaikat", "id": 857633, "predecessors": [{"name": "Rautatieasemat", "id": 40526}, {"name": "Euroopan_neuvosto", "id": 382420}], "successors": []}
+{"name": "Sveitsin_rautatieliikennepaikat", "id": 857633, "predecessors": [{"name": "Sveitsin_rautatieliikenne", "id": 680090}, {"name": "Rautatieasemat", "id": 40526}], "successors": []}

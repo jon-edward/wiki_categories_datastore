@@ -1,1 +1,1 @@
-{"name": "Films_set_in_a_movie_theatre", "id": 41324709, "predecessors": [{"name": "Films_set_in_a_theatre", "id": 38928174}], "successors": []}
+{"name": "Films_set_in_a_movie_theatre", "id": 41324709, "predecessors": [{"name": "Films_set_in_a_theatre", "id": 38928174}, {"name": "Cinemas_and_movie_theaters", "id": 2377203}], "successors": []}

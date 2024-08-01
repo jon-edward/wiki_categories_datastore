@@ -1,1 +1,1 @@
-{"name": "Biosynthesis", "id": 23192469, "predecessors": [{"name": "Metabolism", "id": 1135134}], "successors": [{"name": "Protein_biosynthesis", "id": 6808876}, {"name": "Steroid_hormone_biosynthesis", "id": 72952525}]}
+{"name": "Biosynthesis", "id": 23192469, "predecessors": [{"name": "Chemical_synthesis", "id": 3204295}, {"name": "Metabolism", "id": 1135134}], "successors": [{"name": "Protein_biosynthesis", "id": 6808876}, {"name": "Steroid_hormone_biosynthesis", "id": 72952525}]}

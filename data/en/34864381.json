@@ -1,1 +1,1 @@
-{"name": "FAW_Group_vehicles", "id": 34864381, "predecessors": [{"name": "Cars_of_China", "id": 4415809}, {"name": "Electric_vehicle_manufacturers_of_China", "id": 59633805}], "successors": [{"name": "Hongqi_vehicles", "id": 52159578}, {"name": "Bestune_vehicles", "id": 57232911}]}
+{"name": "FAW_Group_vehicles", "id": 34864381, "predecessors": [{"name": "Cars_of_China", "id": 4415809}, {"name": "Car_manufacturers_of_China", "id": 29485204}], "successors": [{"name": "Hongqi_vehicles", "id": 52159578}, {"name": "Bestune_vehicles", "id": 57232911}]}

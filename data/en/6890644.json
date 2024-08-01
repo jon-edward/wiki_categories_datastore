@@ -1,1 +1,1 @@
-{"name": "Singular_value_decomposition", "id": 6890644, "predecessors": [{"name": "Linear_algebra", "id": 690777}, {"name": "Operator_theory", "id": 691908}], "successors": []}
+{"name": "Singular_value_decomposition", "id": 6890644, "predecessors": [{"name": "Matrix_decompositions", "id": 22476294}, {"name": "Operator_theory", "id": 691908}], "successors": []}

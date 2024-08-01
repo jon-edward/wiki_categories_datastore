@@ -1,1 +1,1 @@
-{"name": "Coal_industry", "id": 52565651, "predecessors": [{"name": "Coal", "id": 1103533}, {"name": "Energy", "id": 865456}, {"name": "Industries_(economics)", "id": 694873}], "successors": [{"name": "Environmental_impact_of_the_coal_industry", "id": 24857881}]}
+{"name": "Coal_industry", "id": 52565651, "predecessors": [{"name": "Coal", "id": 1103533}, {"name": "Industries_(economics)", "id": 694873}], "successors": [{"name": "Coal_mining", "id": 3045355}, {"name": "Environmental_impact_of_the_coal_industry", "id": 24857881}]}

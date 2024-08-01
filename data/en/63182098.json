@@ -1,1 +1,1 @@
-{"name": "Artificial_leather", "id": 63182098, "predecessors": [{"name": "Leather", "id": 2441300}, {"name": "Animal_products", "id": 2304680}], "successors": []}
+{"name": "Artificial_leather", "id": 63182098, "predecessors": [{"name": "Leather", "id": 2441300}, {"name": "Synthetic_materials", "id": 2018552}, {"name": "Animal_products", "id": 2304680}], "successors": []}

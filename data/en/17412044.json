@@ -1,1 +1,1 @@
-{"name": "Burmese_civil_servants", "id": 17412044, "predecessors": [{"name": "Government_of_Myanmar", "id": 14737655}, {"name": "Civil_servants", "id": 4156326}], "successors": []}
+{"name": "Burmese_civil_servants", "id": 17412044, "predecessors": [{"name": "Civil_servants", "id": 4156326}], "successors": [{"name": "Burmese_diplomats", "id": 17415580}]}

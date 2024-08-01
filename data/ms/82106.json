@@ -1,1 +1,1 @@
-{"name": "Tropika", "id": 82106, "predecessors": [{"name": "Kawasan", "id": 81856}], "successors": [{"name": "Siklon_tropika", "id": 299727}]}
+{"name": "Tropika", "id": 82106, "predecessors": [{"name": "Iklim", "id": 27729}, {"name": "Kawasan", "id": 81856}], "successors": [{"name": "Siklon_tropika", "id": 299727}]}

@@ -1,1 +1,1 @@
-{"name": "Japanese_pop_artists", "id": 68288734, "predecessors": [{"name": "Pop_artists", "id": 12954883}], "successors": []}
+{"name": "Japanese_pop_artists", "id": 68288734, "predecessors": [{"name": "Japanese_artists", "id": 693107}, {"name": "Pop_artists", "id": 12954883}], "successors": []}

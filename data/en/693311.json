@@ -1,0 +1,1 @@
+{"name": "GNOME", "id": 693311, "predecessors": [{"name": "GNU_Project", "id": 26369727}], "successors": [{"name": "GNOME_developers", "id": 9577342}, {"name": "GTK", "id": 26540470}, {"name": "GNOME_Applications", "id": 42296367}, {"name": "GNOME_libraries", "id": 42297674}]}

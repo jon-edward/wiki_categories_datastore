@@ -1,1 +1,1 @@
-{"name": "Motorboats", "id": 14474263, "predecessors": [{"name": "Land_vehicles", "id": 30278361}, {"name": "Propulsion", "id": 881055}], "successors": [{"name": "Motorboat_racing", "id": 1420669}]}
+{"name": "Motorboats", "id": 14474263, "predecessors": [{"name": "Land_transport", "id": 34296861}, {"name": "Propulsion", "id": 881055}], "successors": [{"name": "Motorboat_racing", "id": 1420669}, {"name": "Motor_yachts", "id": 24401684}, {"name": "Motorsailers", "id": 63970799}]}

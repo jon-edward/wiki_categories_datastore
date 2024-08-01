@@ -1,1 +1,1 @@
-{"name": "Aŭtovojoj_en_Rusio", "id": 547884, "predecessors": [{"name": "Aŭtovojoj", "id": 221592}, {"name": "Transporto_en_Rusio", "id": 245200}], "successors": [{"name": "Vojoj_en_Siberio", "id": 798020}, {"name": "Stratoj_de_Moskvo", "id": 455956}, {"name": "Stratoj_en_Tjumeno", "id": 634514}]}
+{"name": "Aŭtovojoj_en_Rusio", "id": 547884, "predecessors": [{"name": "Aŭtovojoj", "id": 221592}, {"name": "Ekonomio_de_Rusio", "id": 312916}], "successors": [{"name": "Stratoj_de_Moskvo", "id": 455956}, {"name": "Stratoj_en_Tjumeno", "id": 634514}]}

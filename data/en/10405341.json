@@ -1,1 +1,1 @@
-{"name": "Sports_venues_in_Karachi", "id": 10405341, "predecessors": [{"name": "Buildings_and_structures_in_Karachi", "id": 7717168}, {"name": "Sport_in_Karachi", "id": 36042807}, {"name": "Sports_venues_in_Pakistan", "id": 2305279}], "successors": [{"name": "Stadiums_in_Karachi", "id": 26190513}]}
+{"name": "Sports_venues_in_Karachi", "id": 10405341, "predecessors": [{"name": "Sport_in_Karachi", "id": 36042807}, {"name": "Sports_venues_in_Pakistan", "id": 2305279}], "successors": [{"name": "Stadiums_in_Karachi", "id": 26190513}]}

@@ -1,1 +1,1 @@
-{"name": "Transporto_en_Bastia", "id": 805900, "predecessors": [{"name": "Transporto_en_Korsiko", "id": 800025}, {"name": "Transporto", "id": 51301}, {"name": "Transporto_en_Francio", "id": 211587}, {"name": "Komunumoj_de_Haute-Corse", "id": 132267}], "successors": []}
+{"name": "Transporto_en_Bastia", "id": 805900, "predecessors": [{"name": "Transporto", "id": 51301}, {"name": "Transporto_en_Francio", "id": 211587}, {"name": "Komunumoj_de_Haute-Corse", "id": 132267}, {"name": "Korsiko", "id": 341388}], "successors": []}

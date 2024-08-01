@@ -1,1 +1,1 @@
-{"name": "Units_of_amount", "id": 4425625, "predecessors": [{"name": "Numerals", "id": 13565331}, {"name": "Units_of_measurement", "id": 37973176}, {"name": "Dimensionless_quantities", "id": 74373052}], "successors": [{"name": "Units_of_amount_of_substance", "id": 753484}]}
+{"name": "Units_of_amount", "id": 4425625, "predecessors": [{"name": "Numerals", "id": 13565331}, {"name": "Units_of_measurement", "id": 37973176}, {"name": "Dimensionless_numbers", "id": 1179887}], "successors": [{"name": "Units_of_amount_of_substance", "id": 753484}]}

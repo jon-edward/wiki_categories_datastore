@@ -1,1 +1,1 @@
-{"name": "Morfologio", "id": 242720, "predecessors": [{"name": "Gramatiko", "id": 24671}], "successors": [{"name": "Vortoj", "id": 292111}, {"name": "Tipoj_de_vortoj", "id": 440033}, {"name": "Morfologoj", "id": 608214}, {"name": "Vortospecoj", "id": 675917}, {"name": "Pronomoj", "id": 675913}]}
+{"name": "Morfologio", "id": 242720, "predecessors": [{"name": "Gramatiko", "id": 24671}], "successors": [{"name": "Vortoj", "id": 292111}, {"name": "Tipoj_de_vortoj", "id": 440033}, {"name": "Vortospecoj", "id": 675917}, {"name": "Pronomoj", "id": 675913}]}

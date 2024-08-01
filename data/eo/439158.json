@@ -1,1 +1,1 @@
-{"name": "Paperaj_produktoj", "id": 439158, "predecessors": [{"name": "Paperoj", "id": 210969}, {"name": "Firmaoj", "id": 53508}], "successors": [{"name": "Libroj", "id": 52362}, {"name": "Ludkartoj", "id": 528553}, {"name": "Poŝtkartoj", "id": 631242}, {"name": "Leteroj", "id": 660006}]}
+{"name": "Paperaj_produktoj", "id": 439158, "predecessors": [{"name": "Paperoj", "id": 210969}, {"name": "Firmaoj", "id": 53508}], "successors": [{"name": "Libroj", "id": 52362}, {"name": "Ludkartoj", "id": 528553}, {"name": "Leteroj", "id": 660006}]}

@@ -1,1 +1,1 @@
-{"name": "Collections_of_the_Russian_Museum", "id": 8959674, "predecessors": [{"name": "Art_museum_collections", "id": 48819426}, {"name": "Russian_Museum", "id": 41054910}, {"name": "Art_collections", "id": 44686494}], "successors": []}
+{"name": "Collections_of_the_Russian_Museum", "id": 8959674, "predecessors": [{"name": "Art_collections", "id": 44686494}, {"name": "Art_by_country", "id": 1001486}], "successors": []}

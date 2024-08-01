@@ -1,1 +1,1 @@
-{"name": "Product_expiration", "id": 54004990, "predecessors": [{"name": "Product_lifecycle_management", "id": 13712117}], "successors": [{"name": "Product_recalls", "id": 19671196}]}
+{"name": "Product_expiration", "id": 54004990, "predecessors": [{"name": "Endings", "id": 52707259}, {"name": "Product_lifecycle_management", "id": 13712117}], "successors": [{"name": "Product_recalls", "id": 19671196}]}

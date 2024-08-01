@@ -1,1 +1,1 @@
-{"name": "Quantum_Monte_Carlo", "id": 21491721, "predecessors": [{"name": "Monte_Carlo_methods", "id": 5200150}], "successors": []}
+{"name": "Quantum_Monte_Carlo", "id": 21491721, "predecessors": [{"name": "Electronic_structure_methods", "id": 26776867}, {"name": "Monte_Carlo_methods", "id": 5200150}, {"name": "Quantum_chemistry", "id": 1913786}], "successors": []}

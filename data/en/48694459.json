@@ -1,1 +1,1 @@
-{"name": "Trigonometric_functions", "id": 48694459, "predecessors": [{"name": "Trigonometry", "id": 732710}], "successors": []}
+{"name": "Trigonometric_functions", "id": 48694459, "predecessors": [{"name": "Elementary_special_functions", "id": 4064652}, {"name": "Trigonometry", "id": 732710}, {"name": "Unary_operations", "id": 56624752}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Pemindahan_haba", "id": 1030467, "predecessors": [{"name": "Termodinamik", "id": 137568}, {"name": "Fizik", "id": 11126}], "successors": [{"name": "Pemanasan,_pengalihan_dan_penyamanan_udara", "id": 1030466}]}
+{"name": "Pemindahan_haba", "id": 1030467, "predecessors": [{"name": "Termodinamik", "id": 137568}, {"name": "Dinamik_bendalir", "id": 299731}], "successors": [{"name": "Pemanasan,_pengalihan_dan_penyamanan_udara", "id": 1030466}]}

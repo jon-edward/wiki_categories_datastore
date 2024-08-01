@@ -1,1 +1,1 @@
-{"name": "Qt_(software)", "id": 34958986, "predecessors": [{"name": "C++_libraries", "id": 3623575}, {"name": "Cross-platform_software", "id": 19363820}, {"name": "KDE", "id": 693309}, {"name": "Widget_toolkits", "id": 2015768}], "successors": []}
+{"name": "Qt_(software)", "id": 34958986, "predecessors": [{"name": "C++_libraries", "id": 3623575}, {"name": "Cross-platform_software", "id": 19363820}, {"name": "KDE", "id": 693309}], "successors": [{"name": "Software_that_uses_Qt", "id": 24951081}]}

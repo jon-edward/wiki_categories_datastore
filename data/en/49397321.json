@@ -1,1 +1,1 @@
-{"name": "Matrix_metalloproteinases", "id": 49397321, "predecessors": [{"name": "Extracellular_matrix_remodeling_enzymes", "id": 49397310}, {"name": "Metalloproteins", "id": 2039530}, {"name": "Zinc_enzymes", "id": 13901700}], "successors": []}
+{"name": "Matrix_metalloproteinases", "id": 49397321, "predecessors": [{"name": "Metalloproteins", "id": 2039530}], "successors": []}

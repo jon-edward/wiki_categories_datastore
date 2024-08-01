@@ -1,1 +1,1 @@
-{"name": "Indian_jewellers", "id": 26281776, "predecessors": [{"name": "Jewellery_industry_in_India", "id": 49501365}], "successors": [{"name": "Indian_jewellery_designers", "id": 30170120}]}
+{"name": "Indian_jewellers", "id": 26281776, "predecessors": [{"name": "Indian_artisans", "id": 13607072}, {"name": "Jewellery_industry_in_India", "id": 49501365}], "successors": [{"name": "Indian_jewellery_designers", "id": 30170120}]}

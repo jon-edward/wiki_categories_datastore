@@ -1,1 +1,1 @@
-{"name": "Gangs_in_Mexico", "id": 22106016, "predecessors": [{"name": "Latin_America", "id": 1327770}], "successors": [{"name": "Drug_cartels_in_Mexico", "id": 11349391}]}
+{"name": "Gangs_in_Mexico", "id": 22106016, "predecessors": [{"name": "Gangs", "id": 713684}, {"name": "Latin_America", "id": 1327770}], "successors": [{"name": "Drug_cartels_in_Mexico", "id": 11349391}]}

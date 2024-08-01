@@ -1,1 +1,1 @@
-{"name": "Closure_operators", "id": 3211569, "predecessors": [{"name": "Duality_theories", "id": 3177170}, {"name": "Order_theory", "id": 721806}], "successors": [{"name": "Matroid_theory", "id": 2485940}, {"name": "Convex_hulls", "id": 29239670}]}
+{"name": "Closure_operators", "id": 3211569, "predecessors": [{"name": "Duality_theories", "id": 3177170}, {"name": "General_topology", "id": 696311}, {"name": "Order_theory", "id": 721806}], "successors": [{"name": "Matroid_theory", "id": 2485940}, {"name": "Convex_hulls", "id": 29239670}]}

@@ -1,1 +1,1 @@
-{"name": "Geophysical_imaging", "id": 9548700, "predecessors": [{"name": "In_situ_geotechnical_investigations", "id": 62422898}, {"name": "Economic_geology", "id": 1201927}], "successors": []}
+{"name": "Geophysical_imaging", "id": 9548700, "predecessors": [{"name": "Imaging", "id": 2102726}, {"name": "Economic_geology", "id": 1201927}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Sistemul_endocrin", "id": 134813, "predecessors": [{"name": "Endocrinologie", "id": 185564}, {"name": "Biologie", "id": 16151}], "successors": [{"name": "Hormoni", "id": 79024}, {"name": "Glande_endocrine", "id": 317161}]}
+{"name": "Sistemul_endocrin", "id": 134813, "predecessors": [{"name": "Endocrinologie", "id": 185564}], "successors": [{"name": "Hormoni", "id": 79024}, {"name": "Glande_endocrine", "id": 317161}]}

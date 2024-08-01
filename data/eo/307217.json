@@ -1,1 +1,1 @@
-{"name": "Kuristoj", "id": 307217, "predecessors": [{"name": "Kurado", "id": 307219}, {"name": "Profesioj_rilataj_al_sporto", "id": 458306}], "successors": [{"name": "Maratonistoj", "id": 655066}, {"name": "Etiopiaj_longdistancaj_kuristoj", "id": 655043}]}
+{"name": "Kuristoj", "id": 307217, "predecessors": [{"name": "Kurado", "id": 307219}, {"name": "Sporto", "id": 26443}], "successors": [{"name": "Mallongdistancaj_kuristoj", "id": 878445}, {"name": "Maratonistoj", "id": 655066}, {"name": "Etiopiaj_longdistancaj_kuristoj", "id": 655043}]}

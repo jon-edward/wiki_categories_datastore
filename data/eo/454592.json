@@ -1,1 +1,1 @@
-{"name": "Ŝipliftoj", "id": 454592, "predecessors": [{"name": "Enlanda_ŝiptrafiko", "id": 452260}, {"name": "Akva_inĝenierarto", "id": 439846}], "successors": []}
+{"name": "Ŝipliftoj", "id": 454592, "predecessors": [{"name": "Trafiko", "id": 230824}, {"name": "Akva_inĝenierarto", "id": 439846}], "successors": []}

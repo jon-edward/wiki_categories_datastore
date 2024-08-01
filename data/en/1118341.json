@@ -1,1 +1,1 @@
-{"name": "Hamiltonian_mechanics", "id": 1118341, "predecessors": [{"name": "Classical_mechanics", "id": 735875}, {"name": "Dynamical_systems", "id": 877149}, {"name": "William_Rowan_Hamilton", "id": 52749085}], "successors": []}
+{"name": "Hamiltonian_mechanics", "id": 1118341, "predecessors": [{"name": "Dynamical_systems", "id": 877149}, {"name": "Symplectic_geometry", "id": 12046014}, {"name": "Theoretical_physics", "id": 691938}, {"name": "William_Rowan_Hamilton", "id": 52749085}], "successors": []}

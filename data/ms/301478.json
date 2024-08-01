@@ -1,1 +1,1 @@
-{"name": "Pengimejan_3D", "id": 301478, "predecessors": [{"name": "Optik", "id": 7443}], "successors": [{"name": "Grafik_komputer_3D", "id": 301477}]}
+{"name": "Pengimejan_3D", "id": 301478, "predecessors": [{"name": "Penglihatan", "id": 82362}], "successors": [{"name": "Grafik_komputer_3D", "id": 301477}]}

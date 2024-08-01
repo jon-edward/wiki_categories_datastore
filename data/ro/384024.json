@@ -1,1 +1,1 @@
-{"name": "Instrumente_matematice", "id": 384024, "predecessors": [{"name": "Instrumente", "id": 129233}, {"name": "Matematică", "id": 12194}], "successors": [{"name": "Calculatoare", "id": 564184}, {"name": "Blockchain", "id": 2530226}]}
+{"name": "Instrumente_matematice", "id": 384024, "predecessors": [{"name": "Matematică", "id": 12194}], "successors": [{"name": "Calculatoare", "id": 564184}, {"name": "Blockchain", "id": 2530226}]}

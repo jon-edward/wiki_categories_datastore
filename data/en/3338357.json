@@ -1,1 +1,1 @@
-{"name": "Neighbourhoods_of_Barcelona", "id": 3338357, "predecessors": [{"name": "Districts_of_Barcelona", "id": 5947728}, {"name": "Barcelona", "id": 719201}], "successors": [{"name": "El_Raval", "id": 28140616}]}
+{"name": "Neighbourhoods_of_Barcelona", "id": 3338357, "predecessors": [{"name": "Districts_of_Barcelona", "id": 5947728}, {"name": "Local_government", "id": 5177484}], "successors": [{"name": "El_Raval", "id": 28140616}, {"name": "El_Poblenou", "id": 34457201}]}

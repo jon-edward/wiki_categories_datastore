@@ -1,1 +1,1 @@
-{"name": "Individual_diamonds", "id": 7586397, "predecessors": [{"name": "Diamond", "id": 1801034}, {"name": "Individual_gemstones", "id": 7586323}], "successors": [{"name": "Diamonds_originating_in_Brazil", "id": 39517755}, {"name": "Diamonds_originating_in_India", "id": 39517760}, {"name": "Diamonds_originating_in_South_Africa", "id": 39517766}]}
+{"name": "Individual_diamonds", "id": 7586397, "predecessors": [{"name": "Diamond", "id": 1801034}, {"name": "Gemstones", "id": 737200}], "successors": []}

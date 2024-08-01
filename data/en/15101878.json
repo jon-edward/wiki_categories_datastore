@@ -1,1 +1,1 @@
-{"name": "Political_research_institutes", "id": 15101878, "predecessors": [{"name": "Political_science_organizations", "id": 6501288}], "successors": [{"name": "Antisemitism_research_institutes", "id": 32077225}]}
+{"name": "Political_research_institutes", "id": 15101878, "predecessors": [{"name": "Political_science_organizations", "id": 6501288}, {"name": "Social_research", "id": 36873698}], "successors": [{"name": "Antisemitism_research_institutes", "id": 32077225}]}

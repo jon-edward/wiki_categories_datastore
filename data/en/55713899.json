@@ -1,1 +1,1 @@
-{"name": "Cocaine-related_deaths", "id": 55713899, "predecessors": [{"name": "Cocaine", "id": 7443321}, {"name": "Drug-related_deaths", "id": 1302615}], "successors": []}
+{"name": "Cocaine-related_deaths", "id": 55713899, "predecessors": [{"name": "Cocaine", "id": 7443321}, {"name": "Drug-related_deaths", "id": 1302615}], "successors": [{"name": "Cocaine-related_deaths_in_California", "id": 23263876}, {"name": "Cocaine-related_deaths_in_New_York_(state)", "id": 23322548}]}

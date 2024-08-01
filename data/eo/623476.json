@@ -1,1 +1,1 @@
-{"name": "Organikaj_kloridoj", "id": 623476, "predecessors": [{"name": "Kloridoj", "id": 619333}, {"name": "Organikaj_halogenidoj", "id": 623471}], "successors": [{"name": "Kloralkanoj", "id": 623475}]}
+{"name": "Organikaj_kloridoj", "id": 623476, "predecessors": [{"name": "Kloridoj", "id": 619333}, {"name": "Funkciaj_grupoj", "id": 434914}], "successors": [{"name": "Kloralkanoj", "id": 623475}]}

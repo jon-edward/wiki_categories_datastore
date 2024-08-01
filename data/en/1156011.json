@@ -1,1 +1,1 @@
-{"name": "Anti-personnel_weapons", "id": 1156011, "predecessors": [{"name": "Infantry", "id": 1661306}, {"name": "Weapons", "id": 698507}], "successors": []}
+{"name": "Anti-personnel_weapons", "id": 1156011, "predecessors": [{"name": "Infantry", "id": 1661306}, {"name": "Weapons", "id": 698507}], "successors": [{"name": "Anti-personnel_mines", "id": 15248893}]}

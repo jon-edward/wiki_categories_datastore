@@ -1,1 +1,1 @@
-{"name": "Formate_medicamente", "id": 2388441, "predecessors": [{"name": "Formate_Medicină", "id": 218661}, {"name": "Medicamente", "id": 23496}], "successors": [{"name": "Formate_medicamente_după_codul_ATC", "id": 2388440}]}
+{"name": "Formate_medicamente", "id": 2388441, "predecessors": [{"name": "Formate_Medicină", "id": 218661}], "successors": [{"name": "Formate_medicamente_după_codul_ATC", "id": 2388440}]}

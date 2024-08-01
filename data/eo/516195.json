@@ -1,1 +1,1 @@
-{"name": "Sociala_bonfarto", "id": 516195, "predecessors": [{"name": "Fiska_politiko", "id": 516196}, {"name": "Demografio", "id": 201106}, {"name": "Registaroj", "id": 285486}], "successors": [{"name": "Sociala_sekureco", "id": 516191}]}
+{"name": "Sociala_bonfarto", "id": 516195, "predecessors": [{"name": "Demografio", "id": 201106}, {"name": "Registaroj", "id": 285486}, {"name": "Ekonomia_politiko", "id": 439138}], "successors": [{"name": "Sociala_sekureco", "id": 516191}]}

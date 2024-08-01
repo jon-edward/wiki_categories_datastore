@@ -1,0 +1,1 @@
+{"name": "Temporal_rates", "id": 47294180, "predecessors": [{"name": "Rates", "id": 47294138}, {"name": "Time", "id": 744728}], "successors": [{"name": "Force", "id": 1770374}, {"name": "Velocity", "id": 22663785}, {"name": "Units_of_temporal_rate", "id": 47294225}, {"name": "Frequency", "id": 66501513}]}

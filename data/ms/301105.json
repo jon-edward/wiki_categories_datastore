@@ -1,1 +1,1 @@
-{"name": "Astronomi_radio", "id": 301105, "predecessors": [{"name": "Radio", "id": 57651}, {"name": "Astronomi", "id": 9733}], "successors": [{"name": "SETI", "id": 298478}]}
+{"name": "Astronomi_radio", "id": 301105, "predecessors": [{"name": "Astronomi", "id": 9733}], "successors": [{"name": "SETI", "id": 298478}]}

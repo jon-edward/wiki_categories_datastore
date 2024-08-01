@@ -1,1 +1,1 @@
-{"name": "Deaths_by_beating", "id": 21834406, "predecessors": [{"name": "Killings_by_type", "id": 50222534}], "successors": [{"name": "Deaths_by_beating_in_the_United_States", "id": 38061663}, {"name": "Deaths_by_beating_in_Europe", "id": 59653287}, {"name": "Deaths_by_beating_in_Singapore", "id": 76519599}]}
+{"name": "Deaths_by_beating", "id": 21834406, "predecessors": [{"name": "Killings_by_type", "id": 50222534}, {"name": "Strikes_(martial_arts)", "id": 20700158}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Teenage_characters_in_film", "id": 45274557, "predecessors": [{"name": "Child_characters_in_film", "id": 17564415}, {"name": "Film_characters", "id": 1891545}, {"name": "Human_development", "id": 981229}], "successors": [{"name": "Bratz", "id": 5855559}, {"name": "Teenage_characters_in_animated_films", "id": 67891887}]}
+{"name": "Teenage_characters_in_film", "id": 45274557, "predecessors": [{"name": "Human_development", "id": 981229}], "successors": [{"name": "Bratz", "id": 5855559}]}

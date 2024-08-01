@@ -1,1 +1,1 @@
-{"name": "Color_vision", "id": 55373443, "predecessors": [{"name": "Color", "id": 979606}, {"name": "Vision", "id": 1060974}, {"name": "Visual_perception", "id": 18328389}], "successors": [{"name": "Color_appearance_phenomena", "id": 15704415}]}
+{"name": "Color_vision", "id": 55373443, "predecessors": [{"name": "Color", "id": 979606}, {"name": "Vision", "id": 1060974}, {"name": "Visual_perception", "id": 18328389}, {"name": "Visual_system", "id": 749769}], "successors": [{"name": "Color_appearance_phenomena", "id": 15704415}]}

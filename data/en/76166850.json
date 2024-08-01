@@ -1,1 +1,1 @@
-{"name": "Private_space_missions", "id": 76166850, "predecessors": [{"name": "Private_spaceflight", "id": 1040005}], "successors": [{"name": "Inspiration4", "id": 69016949}]}
+{"name": "Private_space_missions", "id": 76166850, "predecessors": [{"name": "Private_spaceflight", "id": 1040005}, {"name": "Space_exploration", "id": 40138768}], "successors": [{"name": "Inspiration4", "id": 69016949}]}

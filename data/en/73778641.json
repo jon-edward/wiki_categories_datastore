@@ -1,1 +1,1 @@
-{"name": "Celebrity_animals", "id": 73778641, "predecessors": [{"name": "Animals_and_humans", "id": 52196069}, {"name": "Animals_by_adaptation", "id": 50053927}], "successors": [{"name": "Animal_actors", "id": 8739804}]}
+{"name": "Celebrity_animals", "id": 73778641, "predecessors": [{"name": "Animals_and_humans", "id": 52196069}, {"name": "Animals_by_adaptation", "id": 50053927}, {"name": "Celebrities_in_popular_culture", "id": 65772047}], "successors": [{"name": "Animal_actors", "id": 8739804}]}

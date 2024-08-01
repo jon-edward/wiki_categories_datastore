@@ -1,1 +1,1 @@
-{"name": "Motocross", "id": 159731, "predecessors": [{"name": "Extremeurheilu", "id": 258307}, {"name": "Moottoripyöräurheilu", "id": 152256}, {"name": "Moottoriurheilu", "id": 19758}], "successors": [{"name": "Suomalaiset_motocrosskuljettajat", "id": 860555}]}
+{"name": "Motocross", "id": 159731, "predecessors": [{"name": "Extremeurheilu", "id": 258307}, {"name": "Autourheilu_lajeittain", "id": 628328}], "successors": [{"name": "Suomalaiset_motocrosskuljettajat", "id": 860555}]}

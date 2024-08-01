@@ -1,1 +1,1 @@
-{"name": "Stock_trading_films", "id": 73874046, "predecessors": [{"name": "Fiction_about_economics", "id": 10525264}, {"name": "Stock_market", "id": 988245}], "successors": []}
+{"name": "Stock_trading_films", "id": 73874046, "predecessors": [{"name": "Business", "id": 771152}, {"name": "Finance", "id": 718764}, {"name": "Stock_market", "id": 988245}], "successors": [{"name": "Wall_Street_films", "id": 34252845}]}

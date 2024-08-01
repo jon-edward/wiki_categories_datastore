@@ -1,1 +1,1 @@
-{"name": "Pemisahan_kuasa", "id": 1053732, "predecessors": [{"name": "Bentuk_pemerintahan", "id": 161960}, {"name": "Politik", "id": 8647}], "successors": [{"name": "Badan_perundangan", "id": 82430}]}
+{"name": "Pemisahan_kuasa", "id": 1053732, "predecessors": [{"name": "Bentuk_pemerintahan", "id": 161960}, {"name": "Undang-undang_perlembagaan", "id": 161327}, {"name": "Politik", "id": 8647}], "successors": [{"name": "Badan_perundangan", "id": 82430}]}

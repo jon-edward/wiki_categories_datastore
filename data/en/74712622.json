@@ -1,1 +1,1 @@
-{"name": "Assassinated_ambassadors", "id": 74712622, "predecessors": [{"name": "Assassinated_diplomats", "id": 5931442}], "successors": []}
+{"name": "Assassinated_ambassadors", "id": 74712622, "predecessors": [{"name": "Assassinated_diplomats", "id": 5931442}, {"name": "Diplomats_by_role", "id": 12013764}], "successors": []}

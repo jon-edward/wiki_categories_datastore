@@ -1,1 +1,1 @@
-{"name": "Bamboo", "id": 23491727, "predecessors": [{"name": "Bambusoideae", "id": 59015232}, {"name": "Natural_materials", "id": 2959852}, {"name": "Forestry", "id": 996757}], "successors": [{"name": "Bambusoideae", "id": 59015232}, {"name": "Bamboo_musical_instruments", "id": 29298009}, {"name": "Japanese_bamboowork", "id": 51796611}]}
+{"name": "Bamboo", "id": 23491727, "predecessors": [{"name": "Natural_materials", "id": 2959852}, {"name": "Forestry", "id": 996757}], "successors": [{"name": "Bamboo_musical_instruments", "id": 29298009}]}

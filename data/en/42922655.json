@@ -1,1 +1,1 @@
-{"name": "Archery_at_the_SEA_Games", "id": 42922655, "predecessors": [{"name": "Archery_at_multi-sport_events", "id": 42922602}, {"name": "Culture_of_Asia", "id": 1438369}, {"name": "Sports_at_multi-sport_events_by_competition", "id": 42925074}], "successors": []}
+{"name": "Archery_at_the_SEA_Games", "id": 42922655, "predecessors": [{"name": "Culture_of_Asia", "id": 1438369}, {"name": "Culture", "id": 694861}], "successors": [{"name": "SEA_Games_medalists_in_archery", "id": 57328647}]}

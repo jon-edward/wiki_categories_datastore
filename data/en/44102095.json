@@ -1,1 +1,1 @@
-{"name": "Defunct_nuclear_reactors", "id": 44102095, "predecessors": [{"name": "Buildings_and_structures", "id": 702393}], "successors": []}
+{"name": "Defunct_nuclear_reactors", "id": 44102095, "predecessors": [{"name": "Nuclear_reactors", "id": 2471531}, {"name": "Buildings_and_structures", "id": 702393}], "successors": [{"name": "Former_nuclear_power_stations_in_the_United_States", "id": 19271643}, {"name": "Former_nuclear_power_stations_in_Germany", "id": 33183508}, {"name": "Former_nuclear_power_stations_in_England", "id": 37338688}]}

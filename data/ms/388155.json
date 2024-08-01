@@ -1,1 +1,1 @@
-{"name": "Sistem_rangka", "id": 388155, "predecessors": [{"name": "Jirim", "id": 84644}, {"name": "Anatomi", "id": 48731}, {"name": "Antropologi", "id": 24223}], "successors": [{"name": "Sendi", "id": 972100}]}
+{"name": "Sistem_rangka", "id": 388155, "predecessors": [{"name": "Anatomi", "id": 48731}, {"name": "Geometri", "id": 76244}, {"name": "Antropologi", "id": 24223}], "successors": [{"name": "Sendi", "id": 972100}]}

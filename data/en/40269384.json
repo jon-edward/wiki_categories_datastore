@@ -1,1 +1,1 @@
-{"name": "Coma", "id": 40269384, "predecessors": [{"name": "Consciousness", "id": 28059872}, {"name": "Medical_emergencies", "id": 741752}, {"name": "Symptoms_and_signs_of_mental_disorders", "id": 26445082}], "successors": []}
+{"name": "Coma", "id": 40269384, "predecessors": [{"name": "Consciousness", "id": 28059872}, {"name": "Intensive_care_medicine", "id": 714493}, {"name": "Medical_emergencies", "id": 741752}, {"name": "Symptoms_and_signs_of_mental_disorders", "id": 26445082}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Physics_competitions", "id": 42703540, "predecessors": [{"name": "Science_competitions", "id": 3357142}], "successors": []}
+{"name": "Physics_competitions", "id": 42703540, "predecessors": [{"name": "Physics_education", "id": 925607}, {"name": "Science_competitions", "id": 3357142}], "successors": []}

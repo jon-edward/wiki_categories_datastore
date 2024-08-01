@@ -1,1 +1,1 @@
-{"name": "Masakan_Asia_Tengah", "id": 827933, "predecessors": [{"name": "Kebudayaan_Asia", "id": 83812}], "successors": [{"name": "Masakan_Afghan", "id": 882415}, {"name": "Masakan_Pashtun", "id": 882423}]}
+{"name": "Masakan_Asia_Tengah", "id": 827933, "predecessors": [{"name": "Kebudayaan_Asia", "id": 83812}, {"name": "Asia_Tengah", "id": 154230}], "successors": [{"name": "Masakan_Afghan", "id": 882415}, {"name": "Masakan_Pashtun", "id": 882423}]}

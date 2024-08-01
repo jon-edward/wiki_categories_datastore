@@ -1,1 +1,1 @@
-{"name": "Hexapod_robots", "id": 32194102, "predecessors": [{"name": "Land_vehicles", "id": 30278361}], "successors": []}
+{"name": "Hexapod_robots", "id": 32194102, "predecessors": [{"name": "Land_transport", "id": 34296861}], "successors": []}

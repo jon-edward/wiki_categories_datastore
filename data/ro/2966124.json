@@ -1,1 +1,1 @@
-{"name": "Chatboturi", "id": 2966124, "predecessors": [{"name": "Prelucrarea_limbajului_natural", "id": 2488323}, {"name": "Site-uri_web", "id": 1166146}], "successors": []}
+{"name": "Chatboturi", "id": 2966124, "predecessors": [{"name": "Mesagerie_instant", "id": 1141298}, {"name": "Prelucrarea_limbajului_natural", "id": 2488323}, {"name": "Site-uri_web", "id": 1166146}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Chess_automatons", "id": 3078092, "predecessors": [{"name": "Automata_(mechanical)", "id": 38801237}, {"name": "Chess", "id": 691713}, {"name": "Robots", "id": 943048}], "successors": []}
+{"name": "Chess_automatons", "id": 3078092, "predecessors": [{"name": "Automata_(mechanical)", "id": 38801237}, {"name": "Abstract_strategy_games", "id": 3290901}, {"name": "Robots", "id": 943048}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Laboratory_glassware", "id": 4173908, "predecessors": [{"name": "Glass_applications", "id": 15377712}, {"name": "Laboratory_equipment", "id": 697674}, {"name": "Containers", "id": 1047091}], "successors": []}
+{"name": "Laboratory_glassware", "id": 4173908, "predecessors": [{"name": "Laboratory_equipment", "id": 697674}, {"name": "Containers", "id": 1047091}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Cetus", "id": 35200313, "predecessors": [{"name": "Constellations_listed_by_Ptolemy", "id": 1464070}], "successors": [{"name": "Tau_Ceti", "id": 41313511}]}
+{"name": "Cetus", "id": 35200313, "predecessors": [{"name": "Constellations", "id": 706614}, {"name": "Constellations_listed_by_Ptolemy", "id": 1464070}, {"name": "Equatorial_constellations", "id": 35445834}], "successors": [{"name": "Tau_Ceti", "id": 41313511}]}

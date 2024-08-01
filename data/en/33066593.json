@@ -1,1 +1,1 @@
-{"name": "Mini_(marque)", "id": 33066593, "predecessors": [{"name": "BMW", "id": 882125}, {"name": "British_Leyland", "id": 9582427}], "successors": [{"name": "Mini_vehicles", "id": 33066650}, {"name": "Mini_(BMW)_vehicles", "id": 34205168}]}
+{"name": "Mini_(marque)", "id": 33066593, "predecessors": [{"name": "BMW", "id": 882125}], "successors": [{"name": "Mini_vehicles", "id": 33066650}, {"name": "Mini_(BMW)_vehicles", "id": 34205168}]}

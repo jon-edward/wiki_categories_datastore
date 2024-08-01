@@ -1,1 +1,1 @@
-{"name": "Consumer_magazines", "id": 1118453, "predecessors": [{"name": "Consumer", "id": 50445159}, {"name": "Publications", "id": 706830}], "successors": []}
+{"name": "Consumer_magazines", "id": 1118453, "predecessors": [{"name": "Consumer", "id": 50445159}, {"name": "Mass_media", "id": 696790}], "successors": []}

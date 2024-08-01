@@ -1,1 +1,1 @@
-{"name": "Provinco_Sassari", "id": 78315, "predecessors": [{"name": "Provincoj_de_Sardio", "id": 639911}, {"name": "Geografio_de_Eŭropo", "id": 187203}], "successors": [{"name": "Komunumoj_de_Provinco_Sassari", "id": 78316}]}
+{"name": "Provinco_Sassari", "id": 78315, "predecessors": [{"name": "Geografio_de_Eŭropo", "id": 187203}, {"name": "Sardio", "id": 80291}], "successors": [{"name": "Komunumoj_de_Provinco_Sassari", "id": 78316}]}

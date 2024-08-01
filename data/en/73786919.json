@@ -1,1 +1,1 @@
-{"name": "Children's_books_set_in_Sweden", "id": 73786919, "predecessors": [{"name": "Scandinavian_culture", "id": 21486920}], "successors": [{"name": "Bert_books", "id": 44438873}]}
+{"name": "Children's_books_set_in_Sweden", "id": 73786919, "predecessors": [{"name": "Children's_books_set_in_Europe", "id": 73880119}, {"name": "Scandinavian_culture", "id": 21486920}], "successors": [{"name": "Bert_books", "id": 44438873}]}

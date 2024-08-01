@@ -1,1 +1,1 @@
-{"name": "Silent_film_studios", "id": 45025710, "predecessors": [{"name": "Film_studios", "id": 4759202}, {"name": "Silent_film", "id": 3840881}, {"name": "History_of_film", "id": 2260983}], "successors": [{"name": "Universal_Pictures", "id": 4213479}, {"name": "Thanhouser_Company", "id": 36733005}]}
+{"name": "Silent_film_studios", "id": 45025710, "predecessors": [{"name": "Film_studios", "id": 4759202}, {"name": "Silent_film", "id": 3840881}, {"name": "Mass_media", "id": 696790}], "successors": [{"name": "Universal_Pictures", "id": 4213479}]}

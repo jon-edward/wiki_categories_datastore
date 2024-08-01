@@ -1,1 +1,1 @@
-{"name": "Image_Comics_covers", "id": 24169974, "predecessors": [{"name": "Comic_book_covers", "id": 1816052}, {"name": "Image_Comics_images", "id": 12475472}], "successors": []}
+{"name": "Image_Comics_covers", "id": 24169974, "predecessors": [{"name": "Comic_book_covers", "id": 1816052}, {"name": "Image_Comics_images", "id": 12475472}], "successors": [{"name": "Wildstorm_imprint_covers", "id": 21984688}, {"name": "Top_Cow_imprint_covers", "id": 32395009}]}

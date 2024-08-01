@@ -1,1 +1,1 @@
-{"name": "Cricket_equipment_manufacturers", "id": 12577440, "predecessors": [{"name": "Cricket_equipment", "id": 1325875}, {"name": "Sporting_goods_manufacturers", "id": 1543141}], "successors": []}
+{"name": "Cricket_equipment_manufacturers", "id": 12577440, "predecessors": [{"name": "Cricket_equipment", "id": 1325875}, {"name": "Sporting_goods_brands", "id": 5306901}], "successors": []}

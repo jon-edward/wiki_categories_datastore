@@ -1,1 +1,1 @@
-{"name": "Police_academies", "id": 22637216, "predecessors": [{"name": "Civil_servant_training_institutions", "id": 73948131}, {"name": "Law_enforcement", "id": 718211}], "successors": [{"name": "Central_Police_University_alumni", "id": 47707151}]}
+{"name": "Police_academies", "id": 22637216, "predecessors": [{"name": "Law_enforcement", "id": 718211}, {"name": "Civil_servants", "id": 4156326}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Women_hip_hop_singers", "id": 63464314, "predecessors": [{"name": "Women_hip_hop_musicians", "id": 4705777}], "successors": []}
+{"name": "Women_hip_hop_singers", "id": 63464314, "predecessors": [{"name": "Hip_hop_singers", "id": 4284983}, {"name": "Women_hip_hop_musicians", "id": 4705777}], "successors": [{"name": "American_women_hip_hop_singers", "id": 63464813}]}

@@ -1,1 +1,1 @@
-{"name": "Boxing_on_ABC", "id": 77365922, "predecessors": [{"name": "ABC_Sports", "id": 1823849}, {"name": "Boxing", "id": 738624}], "successors": []}
+{"name": "Boxing_on_ABC", "id": 77365922, "predecessors": [{"name": "ABC_Sports", "id": 1823849}, {"name": "Boxing_mass_media", "id": 3652849}], "successors": []}

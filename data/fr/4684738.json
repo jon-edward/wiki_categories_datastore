@@ -1,1 +1,0 @@
-{"name": "Cas_de_psychiatrie", "id": 4684738, "predecessors": [{"name": "Cas_médical", "id": 4684737}, {"name": "Handicap", "id": 111050}], "successors": [{"name": "Cas_de_maladie_d'Alzheimer", "id": 6995787}, {"name": "Personnalité_hospitalisée_en_psychiatrie", "id": 9441176}]}

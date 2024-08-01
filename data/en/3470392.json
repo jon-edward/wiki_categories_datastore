@@ -1,1 +1,1 @@
-{"name": "BIOS", "id": 3470392, "predecessors": [{"name": "Booting", "id": 6254572}, {"name": "IBM_PC_compatibles", "id": 1094042}], "successors": []}
+{"name": "BIOS", "id": 3470392, "predecessors": [{"name": "Firmware", "id": 3232463}, {"name": "IBM_PC_compatibles", "id": 1094042}], "successors": []}

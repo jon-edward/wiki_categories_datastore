@@ -1,1 +1,1 @@
-{"name": "Missionary_educators", "id": 12933018, "predecessors": [{"name": "Education_by_subject", "id": 2477717}], "successors": []}
+{"name": "Missionary_educators", "id": 12933018, "predecessors": [{"name": "Education_by_subject", "id": 2477717}], "successors": [{"name": "American_missionary_educators", "id": 77427442}, {"name": "British_missionary_educators", "id": 77427443}]}

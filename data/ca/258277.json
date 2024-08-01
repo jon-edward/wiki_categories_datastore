@@ -1,1 +1,1 @@
-{"name": "Billar", "id": 258277, "predecessors": [{"name": "Esports_individuals", "id": 53940}, {"name": "Esports", "id": 865214}], "successors": [{"name": "Jugadors_de_billar", "id": 1324067}, {"name": "Competicions_de_billar", "id": 1844357}]}
+{"name": "Billar", "id": 258277, "predecessors": [{"name": "Esports_individuals", "id": 53940}, {"name": "Esport", "id": 815150}], "successors": [{"name": "Jugadors_de_billar", "id": 1324067}, {"name": "Competicions_de_billar", "id": 1844357}]}

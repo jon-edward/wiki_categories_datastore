@@ -1,1 +1,1 @@
-{"name": "Archaeology_books", "id": 1235184, "predecessors": [{"name": "Social_sciences_books", "id": 13704950}, {"name": "Archaeology", "id": 696279}], "successors": [{"name": "Egyptology_books", "id": 3430281}, {"name": "Books_about_Atlantis", "id": 12204798}, {"name": "Mesoamerican_studies_books", "id": 19881768}]}
+{"name": "Archaeology_books", "id": 1235184, "predecessors": [{"name": "Archaeology", "id": 696279}], "successors": [{"name": "Egyptology_books", "id": 3430281}, {"name": "Books_about_Atlantis", "id": 12204798}]}

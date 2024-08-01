@@ -1,1 +1,1 @@
-{"name": "Gratitude", "id": 47929297, "predecessors": [{"name": "Positive_mental_attitude", "id": 7496144}, {"name": "Positive_psychology", "id": 7497106}], "successors": [{"name": "Thanksgiving", "id": 5659398}]}
+{"name": "Gratitude", "id": 47929297, "predecessors": [{"name": "Emotions", "id": 20860353}, {"name": "Positive_mental_attitude", "id": 7496144}, {"name": "Positive_psychology", "id": 7497106}], "successors": [{"name": "Thanksgiving", "id": 5659398}]}

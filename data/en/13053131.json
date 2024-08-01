@@ -1,1 +1,1 @@
-{"name": "Dog_diseases", "id": 13053131, "predecessors": [{"name": "Dog_health", "id": 972913}, {"name": "Carnivorans", "id": 24597400}], "successors": [{"name": "Cancer_in_dogs", "id": 36658137}, {"name": "Syndromes_in_dogs", "id": 53642492}, {"name": "Dog_musculoskeletal_disorders", "id": 57718426}]}
+{"name": "Dog_diseases", "id": 13053131, "predecessors": [{"name": "Dog_health", "id": 972913}, {"name": "Carnivorans", "id": 24597400}], "successors": [{"name": "Cancer_in_dogs", "id": 36658137}]}

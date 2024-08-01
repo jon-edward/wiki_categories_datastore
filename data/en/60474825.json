@@ -1,1 +1,1 @@
-{"name": "ABC_News_people", "id": 60474825, "predecessors": [{"name": "ABC_News", "id": 4135254}, {"name": "Innovation", "id": 1150753}, {"name": "American_Broadcasting_Company", "id": 32932026}], "successors": [{"name": "ABC_News_personalities", "id": 24590544}, {"name": "Presidents_of_ABC_News", "id": 36242593}]}
+{"name": "ABC_News_people", "id": 60474825, "predecessors": [{"name": "ABC_News", "id": 4135254}, {"name": "American_Broadcasting_Company", "id": 32932026}], "successors": [{"name": "ABC_News_personalities", "id": 24590544}]}

@@ -1,1 +1,1 @@
-{"name": "Airport_people_mover_system_templates", "id": 58681057, "predecessors": [{"name": "Airport_people_mover_systems", "id": 11718007}, {"name": "People_movers", "id": 18540396}], "successors": [{"name": "United_States_airport_people_mover_system_templates", "id": 58681292}]}
+{"name": "Airport_people_mover_system_templates", "id": 58681057, "predecessors": [{"name": "Airport_people_mover_systems", "id": 11718007}, {"name": "Automated_guideway_transit", "id": 28009203}], "successors": [{"name": "United_States_airport_people_mover_system_templates", "id": 58681292}]}

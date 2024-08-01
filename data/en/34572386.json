@@ -1,1 +1,1 @@
-{"name": "Châteaux_in_Eure", "id": 34572386, "predecessors": [{"name": "Buildings_and_structures_in_Eure", "id": 24163673}, {"name": "Tourist_attractions_in_Normandy", "id": 34347175}, {"name": "Châteaux_in_France", "id": 938984}], "successors": [{"name": "Castles_in_Eure", "id": 49176297}]}
+{"name": "Châteaux_in_Eure", "id": 34572386, "predecessors": [{"name": "Normandy", "id": 864800}, {"name": "Châteaux_in_France", "id": 938984}, {"name": "NUTS_3_statistical_regions_of_the_European_Union", "id": 10955900}], "successors": [{"name": "Castles_in_Eure", "id": 49176297}]}

@@ -1,1 +1,1 @@
-{"name": "Distilleries", "id": 28348320, "predecessors": [{"name": "Distillation", "id": 1458500}], "successors": [{"name": "Lists_of_distilleries", "id": 51620299}, {"name": "Microdistilleries", "id": 65334238}]}
+{"name": "Distilleries", "id": 28348320, "predecessors": [{"name": "Manufacturing_plants", "id": 2003393}, {"name": "Spirit_drinks_manufacturers", "id": 74406351}], "successors": [{"name": "Lists_of_distilleries", "id": 51620299}]}

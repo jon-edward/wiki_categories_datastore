@@ -1,1 +1,1 @@
-{"name": "Bookstores_of_the_United_States", "id": 15124495, "predecessors": [{"name": "American_literature", "id": 715327}], "successors": []}
+{"name": "Bookstores_of_the_United_States", "id": 15124495, "predecessors": [{"name": "American_literature", "id": 715327}, {"name": "Shops_in_the_United_States", "id": 51491166}], "successors": [{"name": "Bookstores_in_California", "id": 15125022}, {"name": "Independent_bookstores_of_the_United_States", "id": 25099664}, {"name": "Bookstores_in_Boston", "id": 28774035}]}

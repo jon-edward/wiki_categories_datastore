@@ -1,1 +1,1 @@
-{"name": "Streets_in_Tel_Aviv", "id": 10621052, "predecessors": [{"name": "Roads_in_Israel", "id": 3771839}], "successors": []}
+{"name": "Streets_in_Tel_Aviv", "id": 10621052, "predecessors": [{"name": "Transport_in_Tel_Aviv", "id": 9406058}, {"name": "Roads_in_Israel", "id": 3771839}, {"name": "Words_and_phrases_in_Modern_Hebrew", "id": 77213847}], "successors": []}

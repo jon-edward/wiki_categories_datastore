@@ -1,1 +1,1 @@
-{"name": "Residential_buildings_in_Manchester", "id": 54273420, "predecessors": [{"name": "Housing_in_England", "id": 34523050}], "successors": [{"name": "Houses_in_Manchester", "id": 11977079}]}
+{"name": "Residential_buildings_in_Manchester", "id": 54273420, "predecessors": [{"name": "Buildings_and_structures_in_Manchester", "id": 5033316}, {"name": "Housing_in_England", "id": 34523050}], "successors": [{"name": "Houses_in_Manchester", "id": 11977079}]}

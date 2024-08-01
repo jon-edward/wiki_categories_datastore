@@ -1,1 +1,1 @@
-{"name": "Clockmakers", "id": 1095781, "predecessors": [{"name": "Artisans", "id": 742819}, {"name": "Clocks", "id": 1095785}, {"name": "Tools", "id": 846098}], "successors": []}
+{"name": "Clockmakers", "id": 1095781, "predecessors": [{"name": "Artisans", "id": 742819}, {"name": "Clocks", "id": 1095785}, {"name": "Horology", "id": 3492206}], "successors": []}

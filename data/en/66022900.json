@@ -1,1 +1,1 @@
-{"name": "Used_bookstores", "id": 66022900, "predecessors": [{"name": "Bookselling", "id": 13123053}, {"name": "Reuse", "id": 33445743}], "successors": []}
+{"name": "Used_bookstores", "id": 66022900, "predecessors": [{"name": "Bookselling", "id": 13123053}, {"name": "Bookstores", "id": 857915}, {"name": "Reuse", "id": 33445743}], "successors": []}

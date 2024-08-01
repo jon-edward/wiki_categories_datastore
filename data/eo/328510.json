@@ -1,1 +1,1 @@
-{"name": "Basbalistoj", "id": 328510, "predecessors": [{"name": "Basbalo", "id": 37789}, {"name": "Profesioj_rilataj_al_sporto", "id": 458306}], "successors": [{"name": "Usonaj_basbalistoj", "id": 328508}, {"name": "Japanaj_basbalistoj", "id": 580342}]}
+{"name": "Basbalistoj", "id": 328510, "predecessors": [{"name": "Basbalo", "id": 37789}, {"name": "Sporto", "id": 26443}], "successors": [{"name": "Usonaj_basbalistoj", "id": 328508}, {"name": "Japanaj_basbalistoj", "id": 580342}]}

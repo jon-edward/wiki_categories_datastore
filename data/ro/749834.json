@@ -1,1 +1,1 @@
-{"name": "Crucea_Roșie", "id": 749834, "predecessors": [{"name": "Ajutor_umanitar", "id": 1237836}], "successors": []}
+{"name": "Crucea_Roșie", "id": 749834, "predecessors": [{"name": "Ajutor_umanitar", "id": 1237836}, {"name": "Organizații_caritabile", "id": 1924358}, {"name": "Organizații_internaționale", "id": 758856}], "successors": []}

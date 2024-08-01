@@ -1,1 +1,1 @@
-{"name": "Pile_de_combustie", "id": 843793, "predecessors": [{"name": "Durabilitate", "id": 887576}, {"name": "Electrochimie", "id": 234673}, {"name": "Tehnologii_ale_hidrogenului", "id": 915580}, {"name": "Energie", "id": 24626}, {"name": "Inginerie_chimică", "id": 649880}], "successors": []}
+{"name": "Pile_de_combustie", "id": 843793, "predecessors": [{"name": "Durabilitate", "id": 887576}, {"name": "Electrochimie", "id": 234673}], "successors": []}

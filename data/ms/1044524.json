@@ -1,1 +1,1 @@
-{"name": "Penerbit_permainan_video", "id": 1044524, "predecessors": [{"name": "Syarikat_permainan_video", "id": 1044112}, {"name": "Penerbitan", "id": 83796}], "successors": [{"name": "Permainan_Activision", "id": 1132004}]}
+{"name": "Penerbit_permainan_video", "id": 1044524, "predecessors": [{"name": "Elektronik", "id": 30627}], "successors": [{"name": "Permainan_Activision", "id": 1132004}]}

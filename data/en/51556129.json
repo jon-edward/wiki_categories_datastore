@@ -1,1 +1,1 @@
-{"name": "Radar_manufacturers", "id": 51556129, "predecessors": [{"name": "Avionics_companies", "id": 32888711}, {"name": "Navigational_equipment_manufacturers", "id": 37890802}], "successors": [{"name": "Plessey", "id": 67336247}]}
+{"name": "Radar_manufacturers", "id": 51556129, "predecessors": [{"name": "Avionics_companies", "id": 32888711}, {"name": "Radar", "id": 939701}], "successors": [{"name": "Plessey", "id": 67336247}]}

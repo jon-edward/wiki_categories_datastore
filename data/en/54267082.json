@@ -1,1 +1,1 @@
-{"name": "Percolation_theory", "id": 54267082, "predecessors": [{"name": "Combinatorics", "id": 691896}], "successors": []}
+{"name": "Percolation_theory", "id": 54267082, "predecessors": [{"name": "Combinatorics", "id": 691896}, {"name": "Lattice_models", "id": 6035035}, {"name": "Phase_transitions", "id": 30291970}, {"name": "Statistical_mechanics", "id": 958609}], "successors": []}

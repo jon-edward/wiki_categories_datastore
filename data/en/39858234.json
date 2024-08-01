@@ -1,1 +1,1 @@
-{"name": "Pilgrimage_churches", "id": 39858234, "predecessors": [{"name": "Christian_pilgrimage_sites", "id": 51325757}], "successors": [{"name": "Pilgrimage_churches_in_Germany", "id": 39859186}]}
+{"name": "Pilgrimage_churches", "id": 39858234, "predecessors": [{"name": "Christian_pilgrimage_sites", "id": 51325757}, {"name": "Christian_architecture", "id": 18985026}], "successors": [{"name": "Pilgrimage_churches_in_Germany", "id": 39859186}]}

@@ -1,1 +1,1 @@
-{"name": "Comedy_theatre", "id": 9861567, "predecessors": [{"name": "Theatrical_genres", "id": 1231826}], "successors": [{"name": "Stand-up_comedy", "id": 10052791}, {"name": "Comedy_theatre_characters", "id": 67411950}]}
+{"name": "Comedy_theatre", "id": 9861567, "predecessors": [{"name": "Theatrical_genres", "id": 1231826}], "successors": [{"name": "Improvisational_theatre", "id": 10028493}, {"name": "Stand-up_comedy", "id": 10052791}, {"name": "Comedy_plays", "id": 14640707}, {"name": "Comedy_theatre_characters", "id": 67411950}]}

@@ -1,1 +1,1 @@
-{"name": "Emergency_medicine_organisations", "id": 45462310, "predecessors": [{"name": "Emergency_medicine", "id": 846798}, {"name": "Emergency_organizations", "id": 12928129}, {"name": "Types_of_health_care_facilities", "id": 14967315}], "successors": []}
+{"name": "Emergency_medicine_organisations", "id": 45462310, "predecessors": [{"name": "Emergency_medicine", "id": 846798}, {"name": "Emergency_organizations", "id": 12928129}, {"name": "Types_of_health_care_facilities", "id": 14967315}], "successors": [{"name": "Trauma_centers", "id": 56329567}]}

@@ -1,1 +1,1 @@
-{"name": "Perisian_bimbit", "id": 301651, "predecessors": [{"name": "Perisian", "id": 33604}, {"name": "Sistem_terbenam", "id": 301676}], "successors": [{"name": "IOS", "id": 301647}, {"name": "Perisian_iOS", "id": 301606}]}
+{"name": "Perisian_bimbit", "id": 301651, "predecessors": [{"name": "Sistem_terbenam", "id": 301676}], "successors": [{"name": "IOS", "id": 301647}, {"name": "Perisian_iOS", "id": 301606}]}

@@ -1,1 +1,1 @@
-{"name": "Postcard_publishers", "id": 12275982, "predecessors": [{"name": "Postcards", "id": 8174346}], "successors": []}
+{"name": "Postcard_publishers", "id": 12275982, "predecessors": [{"name": "Postcards", "id": 8174346}, {"name": "Publishing", "id": 1001911}], "successors": []}

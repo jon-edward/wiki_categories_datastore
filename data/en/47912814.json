@@ -1,1 +1,1 @@
-{"name": "Military_sensor_technology", "id": 47912814, "predecessors": [{"name": "Military_technology", "id": 1073580}], "successors": []}
+{"name": "Military_sensor_technology", "id": 47912814, "predecessors": [{"name": "Military_technology", "id": 1073580}, {"name": "Sensors", "id": 5400296}], "successors": []}

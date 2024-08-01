@@ -1,1 +1,1 @@
-{"name": "Sinucideri_prin_auto-incendiere", "id": 849659, "predecessors": [{"name": "Sinucideri", "id": 34687}], "successors": []}
+{"name": "Sinucideri_prin_auto-incendiere", "id": 849659, "predecessors": [{"name": "Incendii", "id": 569686}, {"name": "Metode_de_execuție", "id": 754082}], "successors": []}

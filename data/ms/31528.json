@@ -1,1 +1,1 @@
-{"name": "Taksonomi_tumbuhan", "id": 31528, "predecessors": [{"name": "Taksonomi", "id": 389840}], "successors": [{"name": "Tatanama_botani", "id": 31792}]}
+{"name": "Taksonomi_tumbuhan", "id": 31528, "predecessors": [{"name": "Taksonomi", "id": 389840}, {"name": "Biologi", "id": 11181}], "successors": [{"name": "Tatanama_botani", "id": 31792}]}

@@ -1,1 +1,1 @@
-{"name": "Hodge_theory", "id": 27137766, "predecessors": [{"name": "Differential_forms", "id": 4158976}], "successors": []}
+{"name": "Hodge_theory", "id": 27137766, "predecessors": [{"name": "Complex_manifolds", "id": 763402}, {"name": "Differential_forms", "id": 4158976}, {"name": "Elliptic_partial_differential_equations", "id": 7487171}, {"name": "Riemannian_geometry", "id": 694453}], "successors": []}

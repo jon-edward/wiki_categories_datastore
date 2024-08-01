@@ -1,1 +1,1 @@
-{"name": "Percetakan", "id": 163787, "predecessors": [{"name": "Penerbitan", "id": 83796}, {"name": "Reka_bentuk_grafik", "id": 82079}, {"name": "Teknologi_media", "id": 163789}], "successors": [{"name": "Tipografi", "id": 163785}, {"name": "Percetakan_di_Malaysia", "id": 192367}]}
+{"name": "Percetakan", "id": 163787, "predecessors": [{"name": "Reka_bentuk_grafik", "id": 82079}], "successors": [{"name": "Tipografi", "id": 163785}, {"name": "Percetakan_di_Malaysia", "id": 192367}]}

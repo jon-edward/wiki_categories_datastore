@@ -1,1 +1,1 @@
-{"name": "Belgaj_aktoroj", "id": 95864, "predecessors": [{"name": "Kulturo_de_Belgio", "id": 264452}, {"name": "Aktoroj", "id": 30515}, {"name": "Eŭropa_kino", "id": 311515}, {"name": "Belgoj", "id": 95405}], "successors": [{"name": "Flandraj_aktoroj", "id": 100843}]}
+{"name": "Belgaj_aktoroj", "id": 95864, "predecessors": [{"name": "Kulturo_de_Belgio", "id": 264452}, {"name": "Aktoroj", "id": 30515}, {"name": "Kino", "id": 43019}, {"name": "Belgoj", "id": 95405}], "successors": [{"name": "Flandraj_aktoroj", "id": 100843}]}

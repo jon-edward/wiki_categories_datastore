@@ -1,1 +1,1 @@
-{"name": "Madrid_Metro", "id": 10121832, "predecessors": [{"name": "Underground_rapid_transit_in_Spain", "id": 31163962}, {"name": "Rail_transport", "id": 700920}], "successors": [{"name": "Madrid_Metro_templates", "id": 41194752}, {"name": "Madrid_Metro_lines", "id": 57704761}]}
+{"name": "Madrid_Metro", "id": 10121832, "predecessors": [{"name": "Rail_infrastructure_in_the_Community_of_Madrid", "id": 73352221}, {"name": "Transport_in_Spain", "id": 4732180}, {"name": "Transport_in_Madrid", "id": 3310431}, {"name": "Rapid_transit", "id": 4286827}], "successors": []}

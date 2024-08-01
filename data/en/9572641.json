@@ -1,1 +1,1 @@
-{"name": "Tennis_video_games", "id": 9572641, "predecessors": [{"name": "Sports_video_games", "id": 9716925}, {"name": "Tennis_culture", "id": 42799445}, {"name": "Tennis_mass_media", "id": 4337627}], "successors": [{"name": "Virtua_Tennis", "id": 39027092}]}
+{"name": "Tennis_video_games", "id": 9572641, "predecessors": [{"name": "Sports_video_games", "id": 9716925}], "successors": [{"name": "Virtua_Tennis", "id": 39027092}]}

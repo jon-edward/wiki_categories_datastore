@@ -1,1 +1,1 @@
-{"name": "Gaze_naturale", "id": 133479, "predecessors": [{"name": "Gaze", "id": 23118}], "successors": [{"name": "Companii_de_gaze_naturale", "id": 454498}]}
+{"name": "Gaze_naturale", "id": 133479, "predecessors": [{"name": "Gaze", "id": 23118}, {"name": "Resurse_naturale", "id": 127698}], "successors": []}

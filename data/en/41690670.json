@@ -1,1 +1,1 @@
-{"name": "Fish_ponds", "id": 41690670, "predecessors": [{"name": "Fish_farming", "id": 70392049}, {"name": "Fishing_areas", "id": 17444805}, {"name": "Ponds", "id": 33521030}], "successors": [{"name": "Fishponds_of_Hawaii", "id": 71245847}]}
+{"name": "Fish_ponds", "id": 41690670, "predecessors": [{"name": "Fish_farming", "id": 70392049}, {"name": "Fishing_areas", "id": 17444805}, {"name": "Ponds", "id": 33521030}], "successors": []}

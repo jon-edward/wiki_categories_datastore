@@ -1,1 +1,1 @@
-{"name": "French_medical_researchers", "id": 38529923, "predecessors": [{"name": "French_biologists", "id": 1070359}, {"name": "Health_care_by_country", "id": 50769391}], "successors": [{"name": "French_neuroscientists", "id": 3748907}, {"name": "French_pathologists", "id": 14937289}]}
+{"name": "French_medical_researchers", "id": 38529923, "predecessors": [{"name": "Health_care", "id": 35880954}], "successors": [{"name": "French_neuroscientists", "id": 3748907}, {"name": "French_pathologists", "id": 14937289}]}

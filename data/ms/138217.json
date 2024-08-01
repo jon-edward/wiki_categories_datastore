@@ -1,1 +1,1 @@
-{"name": "Istilah_penerbangan", "id": 138217, "predecessors": [{"name": "Penerbangan", "id": 127791}, {"name": "Istilah", "id": 41470}], "successors": [{"name": "Komponen_pesawat", "id": 128946}, {"name": "Konfigurasi_pesawat", "id": 129070}]}
+{"name": "Istilah_penerbangan", "id": 138217, "predecessors": [{"name": "Istilah", "id": 41470}], "successors": [{"name": "Komponen_pesawat", "id": 128946}, {"name": "Konfigurasi_pesawat", "id": 129070}]}

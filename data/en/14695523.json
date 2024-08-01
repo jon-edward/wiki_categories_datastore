@@ -1,1 +1,1 @@
-{"name": "Cash_flow", "id": 14695523, "predecessors": [{"name": "Management_accounting", "id": 1228633}], "successors": []}
+{"name": "Cash_flow", "id": 14695523, "predecessors": [{"name": "Cash", "id": 53376078}, {"name": "Management_accounting", "id": 1228633}], "successors": []}

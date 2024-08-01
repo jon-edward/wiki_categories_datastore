@@ -1,1 +1,1 @@
-{"name": "Tributaries_of_Lake_Maggiore", "id": 33954894, "predecessors": [{"name": "Lakes_of_Lombardy", "id": 11484952}, {"name": "Adriatic_Italian_coast_basins", "id": 4662264}], "successors": []}
+{"name": "Tributaries_of_Lake_Maggiore", "id": 33954894, "predecessors": [{"name": "Lakes_of_Lombardy", "id": 11484952}, {"name": "Tributaries_of_Lake_Maggiore", "id": 33954894}], "successors": [{"name": "Populated_places_on_the_Ticino_(river)", "id": 34267821}, {"name": "Tributaries_of_Lake_Maggiore", "id": 33954894}]}

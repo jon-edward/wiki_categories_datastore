@@ -1,1 +1,1 @@
-{"name": "Polish_civil_servants", "id": 51515996, "predecessors": [{"name": "Lechites", "id": 22939716}, {"name": "Civil_servants", "id": 4156326}], "successors": [{"name": "Polish_diplomats", "id": 802127}]}
+{"name": "Polish_civil_servants", "id": 51515996, "predecessors": [{"name": "Government_of_Poland", "id": 2805377}, {"name": "Civil_servants", "id": 4156326}], "successors": [{"name": "Polish_diplomats", "id": 802127}]}

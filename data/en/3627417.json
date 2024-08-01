@@ -1,0 +1,1 @@
+{"name": "Parking", "id": 3627417, "predecessors": [{"name": "Road_transport", "id": 700964}, {"name": "Public_toilets", "id": 33980203}], "successors": [{"name": "Parking_facilities", "id": 7203332}, {"name": "Charging_stations", "id": 14083481}, {"name": "Parking_companies", "id": 24280978}, {"name": "Bicycle_parking", "id": 25381857}, {"name": "Parking_law", "id": 26154634}]}

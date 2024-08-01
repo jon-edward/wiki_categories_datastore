@@ -1,1 +1,1 @@
-{"name": "Attacks_on_buildings_and_structures_in_California", "id": 70861459, "predecessors": [{"name": "Attacks_on_buildings_and_structures_in_the_United_States", "id": 55337164}], "successors": []}
+{"name": "Attacks_on_buildings_and_structures_in_California", "id": 70861459, "predecessors": [{"name": "Buildings_and_structures_in_California", "id": 2053468}, {"name": "Crime_in_California", "id": 14533463}, {"name": "Attacks_on_buildings_and_structures_in_the_United_States", "id": 55337164}], "successors": [{"name": "School_shootings_in_California", "id": 60631816}]}

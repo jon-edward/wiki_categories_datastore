@@ -1,1 +1,1 @@
-{"name": "Meteorological_companies", "id": 24430677, "predecessors": [{"name": "Meteorological_organizations", "id": 50792226}, {"name": "Services_sector_of_the_economy", "id": 10887914}], "successors": [{"name": "Weather_television_networks", "id": 48338658}]}
+{"name": "Meteorological_companies", "id": 24430677, "predecessors": [{"name": "Services_sector_of_the_economy", "id": 10887914}], "successors": [{"name": "Weather_television_networks", "id": 48338658}]}

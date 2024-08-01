@@ -1,1 +1,1 @@
-{"name": "Kinematic_properties", "id": 68772167, "predecessors": [{"name": "Kinematics", "id": 1074082}, {"name": "Mechanical_quantities", "id": 75164219}, {"name": "Physical_quantities", "id": 18726608}], "successors": []}
+{"name": "Kinematic_properties", "id": 68772167, "predecessors": [{"name": "Kinematics", "id": 1074082}], "successors": []}

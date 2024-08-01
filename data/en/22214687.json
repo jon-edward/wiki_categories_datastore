@@ -1,1 +1,1 @@
-{"name": "Motor_vehicle_registration_agencies", "id": 22214687, "predecessors": [{"name": "Licensing_organizations", "id": 7721287}, {"name": "Vehicle_law", "id": 7902308}], "successors": []}
+{"name": "Motor_vehicle_registration_agencies", "id": 22214687, "predecessors": [{"name": "Vehicle_law", "id": 7902308}, {"name": "Licensing", "id": 5949500}, {"name": "Traffic_management", "id": 44938737}], "successors": []}

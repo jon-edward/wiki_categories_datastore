@@ -1,1 +1,1 @@
-{"name": "Transport_in_Castile_and_León", "id": 9466292, "predecessors": [{"name": "Castile_and_León", "id": 9464707}], "successors": [{"name": "Railway_stations_in_Castile_and_León", "id": 63831789}]}
+{"name": "Transport_in_Castile_and_León", "id": 9466292, "predecessors": [{"name": "Castile_and_León", "id": 9464707}, {"name": "Transport_in_Spain", "id": 4732180}], "successors": [{"name": "Railway_stations_in_Castile_and_León", "id": 63831789}]}

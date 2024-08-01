@@ -1,1 +1,1 @@
-{"name": "Software_anomalies", "id": 8586142, "predecessors": [{"name": "Computer_errors", "id": 3466562}, {"name": "Software_quality", "id": 15445741}, {"name": "Software_testing", "id": 1752293}, {"name": "Technological_failures", "id": 20806807}], "successors": []}
+{"name": "Software_anomalies", "id": 8586142, "predecessors": [{"name": "Computer_errors", "id": 3466562}, {"name": "Software_quality", "id": 15445741}, {"name": "Software_testing", "id": 1752293}, {"name": "Technological_failures", "id": 20806807}], "successors": [{"name": "Software_bugs", "id": 34247609}]}

@@ -1,1 +1,0 @@
-{"name": "Invasives_Therapieverfahren", "id": 3032146, "predecessors": [{"name": "Therapeutisches_Verfahren", "id": 3032086}], "successors": [{"name": "Operatives_Therapieverfahren", "id": 3032270}, {"name": "Chirurgische_Naht", "id": 3265524}, {"name": "Regionalanästhesieverfahren", "id": 4078964}]}

@@ -1,1 +1,1 @@
-{"name": "Persian_given_names", "id": 8003538, "predecessors": [{"name": "Asian_given_names", "id": 16334489}], "successors": [{"name": "Persian_feminine_given_names", "id": 31958987}, {"name": "Persian_masculine_given_names", "id": 31958992}]}
+{"name": "Persian_given_names", "id": 8003538, "predecessors": [{"name": "Asian_given_names", "id": 16334489}, {"name": "Persian_language", "id": 2491913}], "successors": [{"name": "Persian_feminine_given_names", "id": 31958987}, {"name": "Persian_masculine_given_names", "id": 31958992}]}

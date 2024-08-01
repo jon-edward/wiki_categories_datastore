@@ -1,1 +1,0 @@
-{"name": "Nut_tree_diseases", "id": 42714995, "predecessors": [{"name": "Edible_nuts_and_seeds", "id": 6769223}, {"name": "Fruit_tree_diseases", "id": 9500255}], "successors": [{"name": "Hazelnut_tree_diseases", "id": 42780696}, {"name": "Pecan_tree_diseases", "id": 75645725}, {"name": "Walnut_tree_diseases", "id": 75649686}]}

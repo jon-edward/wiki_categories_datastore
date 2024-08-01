@@ -1,1 +1,1 @@
-{"name": "Restaurant_chains_in_Australia", "id": 37494355, "predecessors": [{"name": "Australian_cuisine", "id": 854385}], "successors": [{"name": "Fast-food_chains_of_Australia", "id": 5855878}]}
+{"name": "Restaurant_chains_in_Australia", "id": 37494355, "predecessors": [{"name": "Australian_brands", "id": 8712148}, {"name": "Australian_cuisine", "id": 854385}], "successors": [{"name": "Fast-food_chains_of_Australia", "id": 5855878}]}

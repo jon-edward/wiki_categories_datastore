@@ -1,1 +1,1 @@
-{"name": "Inactive_online_games", "id": 37993056, "predecessors": [{"name": "Obsolete_technologies", "id": 33209447}, {"name": "Copyright_law", "id": 702268}], "successors": [{"name": "Stadia_games", "id": 60281809}]}
+{"name": "Inactive_online_games", "id": 37993056, "predecessors": [{"name": "Online_games", "id": 2087401}, {"name": "Obsolete_technologies", "id": 33209447}, {"name": "Entertainment", "id": 693016}], "successors": [{"name": "Inactive_multiplayer_online_games", "id": 37994088}]}

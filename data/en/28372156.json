@@ -1,1 +1,1 @@
-{"name": "Medieval_European_swords", "id": 28372156, "predecessors": [{"name": "European_swords", "id": 739367}, {"name": "Medieval_blade_weapons", "id": 32367369}, {"name": "Swords", "id": 739338}], "successors": [{"name": "Viking_swords", "id": 28371165}]}
+{"name": "Medieval_European_swords", "id": 28372156, "predecessors": [{"name": "European_swords", "id": 739367}, {"name": "Weapons", "id": 698507}], "successors": [{"name": "Viking_swords", "id": 28371165}]}

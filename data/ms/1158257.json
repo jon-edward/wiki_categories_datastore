@@ -1,1 +1,1 @@
-{"name": "Kimia_keseimbangan", "id": 1158257, "predecessors": [{"name": "Kimia_analisis", "id": 302427}, {"name": "Kimia_fizik", "id": 84642}, {"name": "Termodinamik", "id": 137568}], "successors": [{"name": "Kimia_asid-bes", "id": 1158256}]}
+{"name": "Kimia_keseimbangan", "id": 1158257, "predecessors": [{"name": "Kimia_fizik", "id": 84642}, {"name": "Termodinamik", "id": 137568}], "successors": [{"name": "Kimia_asid-bes", "id": 1158256}]}

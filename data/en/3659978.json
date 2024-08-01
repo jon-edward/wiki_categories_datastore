@@ -1,1 +1,1 @@
-{"name": "Shrunken_lakes", "id": 3659978, "predecessors": [{"name": "Lakes_by_type", "id": 15927420}], "successors": [{"name": "Aral_Sea", "id": 1327951}, {"name": "Lake_Chad", "id": 20938273}, {"name": "Hula_Valley", "id": 62129313}, {"name": "Sea_of_Galilee", "id": 68739979}]}
+{"name": "Shrunken_lakes", "id": 3659978, "predecessors": [{"name": "Area", "id": 1777289}], "successors": [{"name": "Aral_Sea", "id": 1327951}, {"name": "Lake_Chad", "id": 20938273}, {"name": "Hula_Valley", "id": 62129313}, {"name": "Sea_of_Galilee", "id": 68739979}]}

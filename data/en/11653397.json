@@ -1,1 +1,1 @@
-{"name": "Jōetsu_Shinkansen", "id": 11653397, "predecessors": [{"name": "Rail_transport_in_Gunma_Prefecture", "id": 10084866}, {"name": "Rail_transport_in_Niigata_Prefecture", "id": 7755307}, {"name": "Rail_transport_in_Saitama_Prefecture", "id": 7517775}, {"name": "Rail_transport_in_Tokyo", "id": 7672115}, {"name": "Shinkansen", "id": 693827}], "successors": []}
+{"name": "Jōetsu_Shinkansen", "id": 11653397, "predecessors": [{"name": "Shinkansen", "id": 693827}], "successors": []}

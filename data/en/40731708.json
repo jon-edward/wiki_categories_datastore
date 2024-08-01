@@ -1,1 +1,1 @@
-{"name": "Epson_Tour", "id": 40731708, "predecessors": [{"name": "Professional_golf_tours", "id": 1324713}, {"name": "Golf_in_the_United_States", "id": 2330674}], "successors": []}
+{"name": "Epson_Tour", "id": 40731708, "predecessors": [{"name": "Professional_golf_tours", "id": 1324713}, {"name": "Golf_in_the_United_States", "id": 2330674}], "successors": [{"name": "Epson_Tour_events", "id": 40731723}]}

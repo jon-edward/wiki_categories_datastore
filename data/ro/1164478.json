@@ -1,1 +1,1 @@
-{"name": "Misiuni_spre_Lună", "id": 1164478, "predecessors": [{"name": "Luna", "id": 178053}], "successors": [{"name": "Oameni_care_au_pășit_pe_Lună", "id": 1319859}]}
+{"name": "Misiuni_spre_Lună", "id": 1164478, "predecessors": [{"name": "Luna", "id": 178053}, {"name": "Explorarea_Sistemului_Solar", "id": 1162280}], "successors": [{"name": "Oameni_care_au_pășit_pe_Lună", "id": 1319859}]}

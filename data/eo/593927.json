@@ -1,1 +1,1 @@
-{"name": "Akvokolekta_areo_de_Volgo", "id": 593927, "predecessors": [{"name": "Terformoj", "id": 407980}, {"name": "Akvaĵoj", "id": 408096}, {"name": "Fizikaj_geografiaj_objektoj", "id": 407981}], "successors": [{"name": "Volgo", "id": 440924}, {"name": "Alfluantoj_de_Kamo", "id": 593922}]}
+{"name": "Akvokolekta_areo_de_Volgo", "id": 593927, "predecessors": [{"name": "Terformoj", "id": 407980}, {"name": "Akvaĵoj", "id": 408096}, {"name": "Hidrologio", "id": 124805}], "successors": [{"name": "Volgo", "id": 440924}]}

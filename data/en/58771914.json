@@ -1,1 +1,1 @@
-{"name": "FCI_breeds", "id": 58771914, "predecessors": [{"name": "Dog_breeds", "id": 691500}], "successors": [{"name": "Labrador_Retriever", "id": 76142866}]}
+{"name": "FCI_breeds", "id": 58771914, "predecessors": [{"name": "Dog_breeding", "id": 1765233}], "successors": [{"name": "Labrador_Retriever", "id": 76142866}]}

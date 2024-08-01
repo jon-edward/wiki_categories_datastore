@@ -1,1 +1,1 @@
-{"name": "Swiss_male_cyclists", "id": 41448934, "predecessors": [{"name": "Transport_in_Switzerland", "id": 4732231}, {"name": "Culture_of_Europe", "id": 709679}], "successors": [{"name": "Swiss_Tour_de_France_stage_winners", "id": 6205738}, {"name": "Swiss_Giro_d'Italia_stage_winners", "id": 33242892}]}
+{"name": "Swiss_male_cyclists", "id": 41448934, "predecessors": [{"name": "Road_transport", "id": 700964}], "successors": [{"name": "Swiss_Tour_de_France_stage_winners", "id": 6205738}, {"name": "Swiss_Giro_d'Italia_stage_winners", "id": 33242892}]}

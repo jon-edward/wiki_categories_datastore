@@ -1,1 +1,1 @@
-{"name": "2030_in_rail_transport", "id": 65284270, "predecessors": [{"name": "2030", "id": 28713624}, {"name": "Rail_transport", "id": 700920}], "successors": [{"name": "Railway_stations_scheduled_to_open_in_2030", "id": 65284346}]}
+{"name": "2030_in_rail_transport", "id": 65284270, "predecessors": [{"name": "Rail_transport", "id": 700920}], "successors": [{"name": "Railway_stations_scheduled_to_open_in_2030", "id": 65284346}]}

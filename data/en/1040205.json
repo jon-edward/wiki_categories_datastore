@@ -1,1 +1,1 @@
-{"name": "Information_architects", "id": 1040205, "predecessors": [{"name": "Information_architecture", "id": 52912241}, {"name": "Systems_architecture", "id": 30357815}], "successors": []}
+{"name": "Information_architects", "id": 1040205, "predecessors": [{"name": "Information_architecture", "id": 52912241}, {"name": "Design", "id": 999651}], "successors": []}

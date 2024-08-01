@@ -1,1 +1,1 @@
-{"name": "Audio_codecs", "id": 734245, "predecessors": [{"name": "Audio_file_formats", "id": 1912465}], "successors": [{"name": "Speech_codecs", "id": 1079586}, {"name": "Audio_format_converters", "id": 28068886}, {"name": "Free_audio_codecs", "id": 41906329}]}
+{"name": "Audio_codecs", "id": 734245, "predecessors": [{"name": "Lossy_compression_algorithms", "id": 1063519}], "successors": [{"name": "Speech_codecs", "id": 1079586}, {"name": "MP3", "id": 6392474}, {"name": "Lossless_audio_codecs", "id": 19410942}, {"name": "Free_audio_codecs", "id": 41906329}]}

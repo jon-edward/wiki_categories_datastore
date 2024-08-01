@@ -1,1 +1,1 @@
-{"name": "Foreclosure", "id": 68849833, "predecessors": [{"name": "Financial_problems", "id": 50740575}, {"name": "Governmental_auctions", "id": 63209207}, {"name": "Mortgage", "id": 4370788}, {"name": "Real_property_law", "id": 1371216}], "successors": []}
+{"name": "Foreclosure", "id": 68849833, "predecessors": [{"name": "Governmental_auctions", "id": 63209207}, {"name": "Mortgage", "id": 4370788}, {"name": "Real_property_law", "id": 1371216}, {"name": "Economic_problems", "id": 10320597}], "successors": []}

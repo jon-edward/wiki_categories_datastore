@@ -1,1 +1,1 @@
-{"name": "Open_hardware_electronic_devices", "id": 33505774, "predecessors": [{"name": "Electronics", "id": 707661}], "successors": [{"name": "Arduino", "id": 32735015}, {"name": "RepRap_project", "id": 51206385}]}
+{"name": "Open_hardware_electronic_devices", "id": 33505774, "predecessors": [{"name": "Electronics", "id": 707661}, {"name": "Open-source_hardware", "id": 38962167}], "successors": [{"name": "Arduino", "id": 32735015}]}

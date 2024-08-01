@@ -1,1 +1,1 @@
-{"name": "Dance_animation", "id": 17276511, "predecessors": [{"name": "Animation", "id": 691460}, {"name": "Dance_culture", "id": 4236708}], "successors": [{"name": "Visual_music", "id": 8028818}, {"name": "Dance_in_anime_and_manga", "id": 53185511}]}
+{"name": "Dance_animation", "id": 17276511, "predecessors": [{"name": "Animation", "id": 691460}], "successors": [{"name": "Visual_music", "id": 8028818}, {"name": "Dance_in_anime_and_manga", "id": 53185511}]}

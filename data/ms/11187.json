@@ -1,1 +1,1 @@
-{"name": "Aeroangkasa", "id": 11187, "predecessors": [{"name": "Kejuruteraan", "id": 11217}, {"name": "Teknologi", "id": 8027}], "successors": [{"name": "NASA", "id": 306706}, {"name": "Penerbangan", "id": 127791}]}
+{"name": "Aeroangkasa", "id": 11187, "predecessors": [{"name": "Kejuruteraan", "id": 11217}, {"name": "Teknologi", "id": 8027}], "successors": [{"name": "Kejuruteraan_aeroangkasa", "id": 299739}, {"name": "NASA", "id": 306706}]}

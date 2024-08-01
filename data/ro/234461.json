@@ -1,1 +1,1 @@
-{"name": "Polenizare", "id": 234461, "predecessors": [{"name": "Flori", "id": 105394}], "successors": []}
+{"name": "Polenizare", "id": 234461, "predecessors": [{"name": "Flori", "id": 105394}], "successors": [{"name": "Apis_mellifera", "id": 230524}, {"name": "Fluturi", "id": 234458}, {"name": "Calliphoridae", "id": 246354}]}

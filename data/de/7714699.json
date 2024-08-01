@@ -1,1 +1,0 @@
-{"name": "Heizungsart", "id": 7714699, "predecessors": [{"name": "Heiztechnik", "id": 581212}], "successors": [{"name": "Gebäudeheizungsart", "id": 8029476}, {"name": "Heizungsart_nach_Primärenergie", "id": 8029515}]}

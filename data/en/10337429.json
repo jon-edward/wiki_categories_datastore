@@ -1,1 +1,1 @@
-{"name": "Triglycerides", "id": 10337429, "predecessors": [{"name": "Lipids", "id": 713771}], "successors": []}
+{"name": "Triglycerides", "id": 10337429, "predecessors": [{"name": "Fatty_acid_esters", "id": 39530439}, {"name": "Glycerol_esters", "id": 59469385}, {"name": "Lipids", "id": 713771}], "successors": []}

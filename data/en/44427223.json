@@ -1,1 +1,1 @@
-{"name": "Head-mounted_displays", "id": 44427223, "predecessors": [{"name": "Display_technology", "id": 787720}, {"name": "Electronic_display_devices", "id": 76543159}, {"name": "Eyewear", "id": 10155280}], "successors": []}
+{"name": "Head-mounted_displays", "id": 44427223, "predecessors": [{"name": "Display_technology", "id": 787720}, {"name": "Electronic_display_devices", "id": 76543159}], "successors": [{"name": "Virtual_reality_headsets", "id": 52277384}, {"name": "Virtual_Boy_games", "id": 1318832}]}

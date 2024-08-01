@@ -1,1 +1,1 @@
-{"name": "Linguistics_databases", "id": 62978089, "predecessors": [{"name": "Linguistics", "id": 693798}, {"name": "Scientific_databases", "id": 34218225}], "successors": [{"name": "Lexical_databases", "id": 31484297}, {"name": "Cross-Linguistic_Linked_Data", "id": 63191315}]}
+{"name": "Linguistics_databases", "id": 62978089, "predecessors": [{"name": "Linguistics", "id": 693798}], "successors": [{"name": "Lexical_databases", "id": 31484297}, {"name": "Cross-Linguistic_Linked_Data", "id": 63191315}]}

@@ -1,1 +1,1 @@
-{"name": "Kromosom", "id": 711209, "predecessors": [{"name": "Genetik", "id": 57509}, {"name": "Anatomi_sel", "id": 985454}], "successors": [{"name": "Kromosom_manusia", "id": 1155807}]}
+{"name": "Kromosom", "id": 711209, "predecessors": [{"name": "Anatomi_sel", "id": 985454}], "successors": [{"name": "Kromosom_manusia", "id": 1155807}]}

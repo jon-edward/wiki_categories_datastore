@@ -1,1 +1,1 @@
-{"name": "Red_algae", "id": 1865560, "predecessors": [{"name": "Algae", "id": 1460643}, {"name": "Biological_classification", "id": 41221871}], "successors": [{"name": "Bangiophyceae", "id": 48011664}, {"name": "Florideophyceae", "id": 48012029}, {"name": "Compsopogonophyceae", "id": 48013200}]}
+{"name": "Red_algae", "id": 1865560, "predecessors": [{"name": "Algae", "id": 1460643}], "successors": [{"name": "Bangiophyceae", "id": 48011664}, {"name": "Florideophyceae", "id": 48012029}, {"name": "Compsopogonophyceae", "id": 48013200}]}

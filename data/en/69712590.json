@@ -1,1 +1,1 @@
-{"name": "Pathogen_genomics", "id": 69712590, "predecessors": [{"name": "DNA_sequencing", "id": 16791603}, {"name": "Genomics", "id": 1398893}, {"name": "Infectious_diseases", "id": 707355}, {"name": "Molecular_genetics", "id": 987161}], "successors": []}
+{"name": "Pathogen_genomics", "id": 69712590, "predecessors": [{"name": "DNA_sequencing", "id": 16791603}, {"name": "Infectious_diseases", "id": 707355}, {"name": "Medical_genetics", "id": 6095701}, {"name": "Molecular_genetics", "id": 987161}], "successors": []}

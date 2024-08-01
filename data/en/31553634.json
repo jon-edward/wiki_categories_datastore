@@ -1,1 +1,1 @@
-{"name": "Beauticians", "id": 31553634, "predecessors": [{"name": "Beauty", "id": 10318286}], "successors": [{"name": "Fictional_beauticians", "id": 6275940}]}
+{"name": "Beauticians", "id": 31553634, "predecessors": [{"name": "Beauty", "id": 10318286}, {"name": "Personal_care_and_service_occupations", "id": 787629}, {"name": "Fashion_occupations", "id": 10777560}], "successors": [{"name": "Fictional_beauticians", "id": 6275940}]}

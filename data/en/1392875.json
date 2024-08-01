@@ -1,1 +1,1 @@
-{"name": "Palm_OS_software", "id": 1392875, "predecessors": [{"name": "Palm_OS", "id": 6315973}, {"name": "Personal_digital_assistant_software", "id": 18168249}, {"name": "Software", "id": 691633}], "successors": [{"name": "Palm_OS_games", "id": 44963213}]}
+{"name": "Palm_OS_software", "id": 1392875, "predecessors": [{"name": "Palm_OS", "id": 6315973}, {"name": "Personal_digital_assistant_software", "id": 18168249}, {"name": "Operating_systems", "id": 693664}, {"name": "Mobile_software", "id": 10473202}], "successors": [{"name": "Palm_OS_games", "id": 44963213}]}

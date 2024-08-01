@@ -1,1 +1,1 @@
-{"name": "Deaths_from_pernicious_anemia", "id": 19828280, "predecessors": [{"name": "Deaths_from_anemia", "id": 19752350}, {"name": "Anemias", "id": 25639901}], "successors": []}
+{"name": "Deaths_from_pernicious_anemia", "id": 19828280, "predecessors": [{"name": "Nutrition", "id": 9936002}, {"name": "B_vitamins", "id": 2668785}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "DS_vehicles", "id": 54177877, "predecessors": [{"name": "Cars_of_France", "id": 14761671}, {"name": "Citroën_vehicles", "id": 1026506}, {"name": "Luxury_vehicles", "id": 1028860}], "successors": []}
+{"name": "DS_vehicles", "id": 54177877, "predecessors": [{"name": "Citroën_vehicles", "id": 1026506}, {"name": "Luxury_vehicles", "id": 1028860}], "successors": []}

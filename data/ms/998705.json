@@ -1,1 +1,1 @@
-{"name": "Termokimia", "id": 998705, "predecessors": [{"name": "Kimia_fizik", "id": 84642}, {"name": "Tindak_balas_kimia", "id": 969599}, {"name": "Termodinamik", "id": 137568}], "successors": []}
+{"name": "Termokimia", "id": 998705, "predecessors": [{"name": "Kimia_fizik", "id": 84642}, {"name": "Termodinamik", "id": 137568}], "successors": []}

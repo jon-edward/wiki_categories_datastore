@@ -1,1 +1,1 @@
-{"name": "Time_series_models", "id": 21671816, "predecessors": [{"name": "Econometric_models", "id": 4861147}, {"name": "Regression_models", "id": 52317551}, {"name": "Regression_with_time_series_structure", "id": 29849858}], "successors": []}
+{"name": "Time_series_models", "id": 21671816, "predecessors": [{"name": "Econometric_models", "id": 4861147}, {"name": "Regression_models", "id": 52317551}], "successors": []}

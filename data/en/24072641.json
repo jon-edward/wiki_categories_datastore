@@ -1,1 +1,1 @@
-{"name": "Poisson_point_processes", "id": 24072641, "predecessors": [{"name": "Point_processes", "id": 17193158}, {"name": "Queueing_theory", "id": 6176305}], "successors": []}
+{"name": "Poisson_point_processes", "id": 24072641, "predecessors": [{"name": "Poisson_distribution", "id": 52532030}, {"name": "Queueing_theory", "id": 6176305}], "successors": []}

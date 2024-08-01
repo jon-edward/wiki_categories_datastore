@@ -1,1 +1,1 @@
-{"name": "Ordered_groups", "id": 7515153, "predecessors": [{"name": "Group_theory", "id": 23087655}, {"name": "Order_theory", "id": 721806}], "successors": []}
+{"name": "Ordered_groups", "id": 7515153, "predecessors": [{"name": "Order_theory", "id": 721806}, {"name": "Algebraic_structures", "id": 20103544}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Venomous_snakes", "id": 31066373, "predecessors": [{"name": "Herpetology", "id": 3070357}], "successors": [{"name": "Elapidae", "id": 12594129}]}
+{"name": "Venomous_snakes", "id": 31066373, "predecessors": [{"name": "Snakes", "id": 928488}, {"name": "Herpetology", "id": 3070357}], "successors": [{"name": "Elapidae", "id": 12594129}, {"name": "Crotalinae", "id": 12608854}, {"name": "Viperinae", "id": 12608859}]}

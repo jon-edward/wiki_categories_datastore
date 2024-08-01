@@ -1,1 +1,1 @@
-{"name": "Bateries_anglesos", "id": 195305, "predecessors": [{"name": "Percussionistes_anglesos", "id": 1861933}, {"name": "Percussionistes_europeus", "id": 1861931}], "successors": [{"name": "Bateries_londinencs", "id": 1861350}]}
+{"name": "Bateries_anglesos", "id": 195305, "predecessors": [{"name": "Percussionistes_anglesos", "id": 1861933}, {"name": "Bateries_europeus", "id": 1861925}], "successors": [{"name": "Bateries_londinencs", "id": 1861350}]}

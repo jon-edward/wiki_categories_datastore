@@ -1,0 +1,1 @@
+{"name": "Fuel_technology", "id": 70739330, "predecessors": [{"name": "Energy_technology", "id": 18634996}], "successors": [{"name": "Engine_fuel_system_technology", "id": 2307483}, {"name": "Petroleum_technology", "id": 14311725}, {"name": "Natural_gas_technology", "id": 20598699}, {"name": "Coal_technology", "id": 33524115}, {"name": "Biofuels_technology", "id": 46959594}]}

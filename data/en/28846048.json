@@ -1,1 +1,1 @@
-{"name": "Security_compliance", "id": 28846048, "predecessors": [{"name": "Regulatory_compliance", "id": 14825160}], "successors": []}
+{"name": "Security_compliance", "id": 28846048, "predecessors": [{"name": "IT_risk_management", "id": 42938083}, {"name": "Regulatory_compliance", "id": 14825160}], "successors": []}

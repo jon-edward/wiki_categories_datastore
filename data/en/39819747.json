@@ -1,1 +1,1 @@
-{"name": "Mid-size_sport_utility_vehicles", "id": 39819747, "predecessors": [{"name": "Mid-size_cars", "id": 3644516}, {"name": "Sport_utility_vehicles", "id": 39819664}], "successors": [{"name": "Mid-size_crossover_sport_utility_vehicles", "id": 75023885}]}
+{"name": "Mid-size_sport_utility_vehicles", "id": 39819747, "predecessors": [{"name": "Sport_utility_vehicles", "id": 39819664}], "successors": [{"name": "Mid-size_crossover_sport_utility_vehicles", "id": 75023885}]}

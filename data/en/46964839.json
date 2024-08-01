@@ -1,1 +1,1 @@
-{"name": "Information_retrieval_systems", "id": 46964839, "predecessors": [{"name": "Information_retrieval", "id": 7279789}], "successors": [{"name": "Databases", "id": 2276471}, {"name": "Search_engine_software", "id": 6521632}, {"name": "Music_search_engines", "id": 28073505}]}
+{"name": "Information_retrieval_systems", "id": 46964839, "predecessors": [{"name": "Information_science", "id": 1009204}], "successors": [{"name": "Databases", "id": 2276471}, {"name": "Search_engine_software", "id": 6521632}, {"name": "Music_search_engines", "id": 28073505}]}

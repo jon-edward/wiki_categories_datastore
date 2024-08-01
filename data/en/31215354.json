@@ -1,1 +1,1 @@
-{"name": "Meitetsu_Group", "id": 31215354, "predecessors": [{"name": "Bus_companies_of_Japan", "id": 7668980}, {"name": "Keiretsu", "id": 2857153}, {"name": "Tram_transport_in_Japan", "id": 3709436}], "successors": [{"name": "Nagoya_Railroad", "id": 15361936}]}
+{"name": "Meitetsu_Group", "id": 31215354, "predecessors": [{"name": "Tram_transport_in_Japan", "id": 3709436}], "successors": [{"name": "Nagoya_Railroad", "id": 15361936}]}

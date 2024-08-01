@@ -1,1 +1,1 @@
-{"name": "Perang_melibatkan_Sepanyol", "id": 704941, "predecessors": [{"name": "Sejarah_Sepanyol", "id": 82025}, {"name": "Tentera_Sepanyol", "id": 887217}, {"name": "Sejarah_tentera", "id": 84587}], "successors": [{"name": "Reconquista", "id": 995251}]}
+{"name": "Perang_melibatkan_Sepanyol", "id": 704941, "predecessors": [{"name": "Sejarah_Sepanyol", "id": 82025}, {"name": "Tentera_Sepanyol", "id": 887217}, {"name": "Negara", "id": 28733}], "successors": [{"name": "Reconquista", "id": 995251}]}

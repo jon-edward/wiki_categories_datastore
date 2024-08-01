@@ -1,1 +1,1 @@
-{"name": "Buick_vehicles", "id": 852025, "predecessors": [{"name": "Buick", "id": 1003171}, {"name": "Cars_of_the_United_States", "id": 14781156}, {"name": "General_Motors_vehicles", "id": 852440}, {"name": "Luxury_vehicles", "id": 1028860}], "successors": [{"name": "Buick_concept_vehicles", "id": 43589382}]}
+{"name": "Buick_vehicles", "id": 852025, "predecessors": [{"name": "Cars_of_the_United_States", "id": 14781156}, {"name": "Luxury_vehicles", "id": 1028860}], "successors": []}

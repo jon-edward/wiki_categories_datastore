@@ -1,1 +1,1 @@
-{"name": "Genetik_populasi", "id": 982445, "predecessors": [{"name": "Biologi_evolusi", "id": 160111}, {"name": "Genetik", "id": 57509}, {"name": "Penduduk", "id": 76450}], "successors": []}
+{"name": "Genetik_populasi", "id": 982445, "predecessors": [{"name": "Biologi_evolusi", "id": 160111}, {"name": "Penduduk", "id": 76450}, {"name": "Statistik", "id": 62381}], "successors": [{"name": "Varian_SARS-CoV-2", "id": 1053369}]}

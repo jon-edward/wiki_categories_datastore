@@ -1,1 +1,1 @@
-{"name": "Flightless_birds", "id": 3604894, "predecessors": [{"name": "Birds", "id": 953524}], "successors": [{"name": "Penguins", "id": 812474}, {"name": "Ratites", "id": 1076727}, {"name": "Extinct_flightless_birds", "id": 3604907}, {"name": "Apteryx", "id": 5975744}, {"name": "Fictional_flightless_birds", "id": 8891798}]}
+{"name": "Flightless_birds", "id": 3604894, "predecessors": [{"name": "Birds", "id": 953524}], "successors": [{"name": "Ratites", "id": 1076727}]}

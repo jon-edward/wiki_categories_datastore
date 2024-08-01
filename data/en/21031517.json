@@ -1,1 +1,1 @@
-{"name": "Discontinued_BASICs", "id": 21031517, "predecessors": [{"name": "BASIC_programming_language", "id": 3418154}, {"name": "Discontinued_software", "id": 18143245}], "successors": [{"name": "Discontinued_Microsoft_BASICs", "id": 20952569}]}
+{"name": "Discontinued_BASICs", "id": 21031517, "predecessors": [{"name": "BASIC_programming_language", "id": 3418154}, {"name": "Programming_languages", "id": 690571}], "successors": [{"name": "Discontinued_Microsoft_BASICs", "id": 20952569}]}

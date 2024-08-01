@@ -1,1 +1,1 @@
-{"name": "Quadcopters", "id": 52997912, "predecessors": [{"name": "Radio-controlled_helicopters", "id": 9723196}, {"name": "Unmanned_aerial_vehicles", "id": 29967526}, {"name": "Unmanned_helicopters", "id": 33426932}], "successors": []}
+{"name": "Quadcopters", "id": 52997912, "predecessors": [{"name": "Quadrotors", "id": 29294011}, {"name": "Unmanned_aerial_vehicles", "id": 29967526}, {"name": "Unmanned_helicopters", "id": 33426932}, {"name": "Radio-controlled_aircraft", "id": 8475152}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Metabolic_pathways", "id": 7602496, "predecessors": [{"name": "Metabolism", "id": 1135134}], "successors": [{"name": "Glycolysis", "id": 7602523}, {"name": "Citric_acid_cycle", "id": 9400894}, {"name": "Urea_cycle", "id": 31070575}]}
+{"name": "Metabolic_pathways", "id": 7602496, "predecessors": [{"name": "Metabolism", "id": 1135134}], "successors": [{"name": "Glycolysis", "id": 7602523}, {"name": "Urea_cycle", "id": 31070575}]}

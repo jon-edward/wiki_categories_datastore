@@ -1,1 +1,1 @@
-{"name": "Muzicieni_sârbi", "id": 204667, "predecessors": [{"name": "Sârbi", "id": 64173}, {"name": "Genuri_artistice", "id": 765165}], "successors": [{"name": "Cântăreți_sârbi", "id": 1959893}, {"name": "Compozitori_sârbi", "id": 2091721}]}
+{"name": "Muzicieni_sârbi", "id": 204667, "predecessors": [{"name": "Muzicieni", "id": 19900}, {"name": "Sârbi", "id": 64173}], "successors": [{"name": "Cântăreți_sârbi", "id": 1959893}, {"name": "Compozitori_sârbi", "id": 2091721}]}

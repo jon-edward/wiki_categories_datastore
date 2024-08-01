@@ -1,1 +1,1 @@
-{"name": "Paintings_in_the_Frick_Collection", "id": 32997839, "predecessors": [{"name": "Art_museum_collections", "id": 48819426}], "successors": [{"name": "Portrait_paintings_in_the_Frick_Collection", "id": 66364447}]}
+{"name": "Paintings_in_the_Frick_Collection", "id": 32997839, "predecessors": [{"name": "Art_collections", "id": 44686494}, {"name": "Art_in_New_York_City", "id": 54652980}], "successors": []}

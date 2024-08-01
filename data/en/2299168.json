@@ -1,1 +1,1 @@
-{"name": "Fortified_wine", "id": 2299168, "predecessors": [{"name": "Distilled_drinks", "id": 1318251}, {"name": "Wine_styles", "id": 3783480}], "successors": [{"name": "Sherry", "id": 9906562}, {"name": "Madeira_wine", "id": 9907650}, {"name": "Port_wine", "id": 54525965}, {"name": "Vermouth", "id": 9587448}]}
+{"name": "Fortified_wine", "id": 2299168, "predecessors": [{"name": "Distilled_drinks", "id": 1318251}, {"name": "Wine_styles", "id": 3783480}], "successors": [{"name": "Sherry", "id": 9906562}, {"name": "Port_wine", "id": 54525965}]}

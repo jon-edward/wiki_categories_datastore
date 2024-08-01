@@ -1,1 +1,1 @@
-{"name": "Redox_indicators", "id": 2860920, "predecessors": [{"name": "Analytical_chemistry", "id": 695001}], "successors": []}
+{"name": "Redox_indicators", "id": 2860920, "predecessors": [{"name": "Analytical_chemistry", "id": 695001}, {"name": "Electrochemistry", "id": 698311}], "successors": []}

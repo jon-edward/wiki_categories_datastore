@@ -1,1 +1,1 @@
-{"name": "Verb_types", "id": 1928869, "predecessors": [{"name": "Verbs", "id": 14408669}, {"name": "Parts_of_speech", "id": 869421}], "successors": [{"name": "Transitivity_and_valency", "id": 42267632}]}
+{"name": "Verb_types", "id": 1928869, "predecessors": [{"name": "Verbs", "id": 14408669}, {"name": "Parts_of_speech", "id": 869421}, {"name": "Linguistic_morphology", "id": 897586}], "successors": [{"name": "Transitivity_and_valency", "id": 42267632}]}

@@ -1,1 +1,1 @@
-{"name": "BASIC_compilers", "id": 3317241, "predecessors": [{"name": "BASIC_programming_language", "id": 3418154}, {"name": "Programming_languages", "id": 690571}], "successors": []}
+{"name": "BASIC_compilers", "id": 3317241, "predecessors": [{"name": "BASIC_programming_language", "id": 3418154}, {"name": "Compilers", "id": 884777}], "successors": []}

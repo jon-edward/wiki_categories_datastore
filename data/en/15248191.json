@@ -1,1 +1,1 @@
-{"name": "RNA-binding_proteins", "id": 15248191, "predecessors": [{"name": "Proteins_by_function", "id": 51665272}, {"name": "RNA", "id": 726353}], "successors": []}
+{"name": "RNA-binding_proteins", "id": 15248191, "predecessors": [{"name": "RNA", "id": 726353}, {"name": "Proteins", "id": 717889}], "successors": []}

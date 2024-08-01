@@ -1,1 +1,1 @@
-{"name": "Banking_in_Australia", "id": 22763143, "predecessors": [{"name": "Banking_by_country", "id": 5578355}], "successors": []}
+{"name": "Banking_in_Australia", "id": 22763143, "predecessors": [{"name": "Finance_in_Australia", "id": 24073151}], "successors": [{"name": "Banks_of_Australia", "id": 734591}, {"name": "Credit_unions_of_Australia", "id": 1273143}, {"name": "Australian_bankers", "id": 5861169}]}

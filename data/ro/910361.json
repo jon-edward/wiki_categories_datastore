@@ -1,1 +1,1 @@
-{"name": "Tehnologia_vehiculelor", "id": 910361, "predecessors": [{"name": "Inginerie_mecanică", "id": 189871}, {"name": "Tehnologie", "id": 28690}], "successors": [{"name": "Motoare_cu_ardere_internă", "id": 370837}, {"name": "Tehnologii_de_autovehicule", "id": 910350}, {"name": "Componente_de_vehicule", "id": 1026856}]}
+{"name": "Tehnologia_vehiculelor", "id": 910361, "predecessors": [{"name": "Tehnologie", "id": 28690}], "successors": [{"name": "Componente_de_vehicule", "id": 1026856}]}

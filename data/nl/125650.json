@@ -1,1 +1,0 @@
-{"name": "Chat", "id": 125650, "predecessors": [{"name": "Internetdienst", "id": 115521}, {"name": "Internetsoftware", "id": 1757903}], "successors": [{"name": "Emoji", "id": 5078566}, {"name": "Internet_Relay_Chat", "id": 1680270}, {"name": "Instant_messenger", "id": 2109962}]}

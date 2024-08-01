@@ -1,1 +1,1 @@
-{"name": "Polycyclic_aromatic_hydrocarbons", "id": 1372720, "predecessors": [{"name": "Hazardous_air_pollutants", "id": 8659042}], "successors": []}
+{"name": "Polycyclic_aromatic_hydrocarbons", "id": 1372720, "predecessors": [{"name": "Aromatic_hydrocarbons", "id": 696032}, {"name": "Hazardous_air_pollutants", "id": 8659042}], "successors": []}

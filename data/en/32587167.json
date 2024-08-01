@@ -1,1 +1,1 @@
-{"name": "DNA_replication_inhibitors", "id": 32587167, "predecessors": [{"name": "Antineoplastic_drugs", "id": 22255852}], "successors": [{"name": "Nitrogen_mustards", "id": 28792532}, {"name": "Alkylating_antineoplastic_agents", "id": 32587532}, {"name": "Topoisomerase_inhibitors", "id": 32587620}]}
+{"name": "DNA_replication_inhibitors", "id": 32587167, "predecessors": [{"name": "Antineoplastic_drugs", "id": 22255852}], "successors": [{"name": "Nitrogen_mustards", "id": 28792532}, {"name": "Topoisomerase_inhibitors", "id": 32587620}]}

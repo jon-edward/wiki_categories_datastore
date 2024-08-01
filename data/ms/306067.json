@@ -1,1 +1,1 @@
-{"name": "Format_fail_grafik", "id": 306067, "predecessors": [{"name": "Format_fail_komputer", "id": 28805}, {"name": "Pemprosesan_imej", "id": 153941}, {"name": "Grafik_komputer", "id": 153943}], "successors": []}
+{"name": "Format_fail_grafik", "id": 306067, "predecessors": [{"name": "Pemprosesan_imej", "id": 153941}, {"name": "Grafik_komputer", "id": 153943}], "successors": []}

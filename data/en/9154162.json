@@ -1,1 +1,1 @@
-{"name": "Railway_lines_in_Berlin", "id": 9154162, "predecessors": [{"name": "Rail_transport_in_Berlin", "id": 26519161}, {"name": "Rail_infrastructure_in_Germany", "id": 15900220}], "successors": [{"name": "Berlin_U-Bahn_lines", "id": 920091}]}
+{"name": "Railway_lines_in_Berlin", "id": 9154162, "predecessors": [{"name": "Rail_transport_in_Germany", "id": 2000349}], "successors": []}

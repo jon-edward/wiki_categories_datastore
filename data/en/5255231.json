@@ -1,1 +1,1 @@
-{"name": "Numerical_climate_and_weather_models", "id": 5255231, "predecessors": [{"name": "Computational_science", "id": 1903566}], "successors": []}
+{"name": "Numerical_climate_and_weather_models", "id": 5255231, "predecessors": [{"name": "Climate_modeling", "id": 42606793}, {"name": "Computational_science", "id": 1903566}, {"name": "Conceptual_models", "id": 1162192}, {"name": "Weather_prediction", "id": 4165214}, {"name": "Geographic_data_and_information", "id": 51208626}], "successors": [{"name": "National_Weather_Service_numerical_models", "id": 63808309}]}

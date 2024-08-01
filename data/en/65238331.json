@@ -1,1 +1,1 @@
-{"name": "Polygamy_law", "id": 65238331, "predecessors": [{"name": "Marriage_law", "id": 40081137}, {"name": "Polygamy", "id": 6835422}], "successors": [{"name": "Bigamists", "id": 60677341}]}
+{"name": "Polygamy_law", "id": 65238331, "predecessors": [{"name": "Marriage_law", "id": 40081137}, {"name": "Mating_systems", "id": 14567652}], "successors": [{"name": "Bigamists", "id": 60677341}]}

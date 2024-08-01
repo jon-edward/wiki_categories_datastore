@@ -1,1 +1,1 @@
-{"name": "Israeli_social_workers", "id": 30952490, "predecessors": [{"name": "Society_of_Israel", "id": 3293806}, {"name": "Social_workers", "id": 905874}, {"name": "Health_care_by_country", "id": 50769391}], "successors": []}
+{"name": "Israeli_social_workers", "id": 30952490, "predecessors": [{"name": "Social_workers", "id": 905874}, {"name": "Health_by_country", "id": 2693630}], "successors": []}

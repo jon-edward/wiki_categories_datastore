@@ -1,1 +1,1 @@
-{"name": "Aircraft_hangars", "id": 15248743, "predecessors": [{"name": "Airport_infrastructure", "id": 8942753}], "successors": []}
+{"name": "Aircraft_hangars", "id": 15248743, "predecessors": [{"name": "Airport_infrastructure", "id": 8942753}, {"name": "Parking_facilities", "id": 7203332}, {"name": "Aviation", "id": 735378}], "successors": [{"name": "Aircraft_hangars_in_the_United_States", "id": 51384624}, {"name": "Airship_hangars", "id": 76553085}]}

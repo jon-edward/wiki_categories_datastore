@@ -1,1 +1,1 @@
-{"name": "Alzheimer's_disease_research", "id": 40086340, "predecessors": [{"name": "Alzheimer's_disease", "id": 4682667}, {"name": "Medical_research", "id": 1169815}], "successors": []}
+{"name": "Alzheimer's_disease_research", "id": 40086340, "predecessors": [{"name": "Alzheimer's_disease", "id": 4682667}, {"name": "Medical_research", "id": 1169815}], "successors": [{"name": "Alzheimer's_disease_researchers", "id": 12422396}]}

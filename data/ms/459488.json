@@ -1,1 +1,1 @@
-{"name": "Kejuruteraan_audio", "id": 459488, "predecessors": [{"name": "Perpustakaan_digital", "id": 56594}, {"name": "Pengurusan_data", "id": 82336}], "successors": []}
+{"name": "Kejuruteraan_audio", "id": 459488, "predecessors": [{"name": "Disiplin_kejuruteraan", "id": 58302}, {"name": "Kejuruteraan_elektrik", "id": 132087}, {"name": "Perpustakaan_digital", "id": 56594}, {"name": "Pengurusan_data", "id": 82336}], "successors": []}

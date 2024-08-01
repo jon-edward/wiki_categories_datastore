@@ -1,1 +1,1 @@
-{"name": "Supernatural_books", "id": 1229831, "predecessors": [{"name": "Supernatural", "id": 8605556}], "successors": [{"name": "Religious_texts", "id": 694048}, {"name": "Occult_books", "id": 1241458}]}
+{"name": "Supernatural_books", "id": 1229831, "predecessors": [{"name": "Books_about_the_paranormal", "id": 34404039}, {"name": "Supernatural", "id": 8605556}], "successors": [{"name": "Religious_texts", "id": 694048}, {"name": "Occult_books", "id": 1241458}]}

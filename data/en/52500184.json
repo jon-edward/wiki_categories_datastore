@@ -1,1 +1,1 @@
-{"name": "Television_shows_based_on_Japanese_novels", "id": 52500184, "predecessors": [{"name": "Japanese_novels", "id": 1587441}], "successors": [{"name": "Television_shows_based_on_light_novels", "id": 29097599}]}
+{"name": "Television_shows_based_on_Japanese_novels", "id": 52500184, "predecessors": [{"name": "Japanese_novels", "id": 1587441}, {"name": "Television_shows_based_on_novels", "id": 1275241}], "successors": [{"name": "Television_shows_based_on_light_novels", "id": 29097599}]}

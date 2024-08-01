@@ -1,1 +1,1 @@
-{"name": "Salts_als_Jocs_Olímpics", "id": 339933, "predecessors": [{"name": "Esports_aquàtics", "id": 32876}, {"name": "Competicions_esportives", "id": 53516}], "successors": []}
+{"name": "Salts_als_Jocs_Olímpics", "id": 339933, "predecessors": [{"name": "Competicions_esportives_als_Jocs_Olímpics", "id": 338381}, {"name": "Esports_aquàtics", "id": 32876}], "successors": [{"name": "Medallistes_olímpics_de_salts", "id": 2106477}]}

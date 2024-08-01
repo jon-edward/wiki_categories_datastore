@@ -1,1 +1,1 @@
-{"name": "Painters_from_Venice", "id": 1038585, "predecessors": [{"name": "Artists_from_Venice", "id": 48571078}, {"name": "Culture_in_Venice", "id": 10323481}], "successors": []}
+{"name": "Painters_from_Venice", "id": 1038585, "predecessors": [{"name": "Artists_from_Venice", "id": 48571078}, {"name": "Painting", "id": 707606}, {"name": "Culture_in_Venice", "id": 10323481}], "successors": []}

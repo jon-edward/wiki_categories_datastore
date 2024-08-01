@@ -1,1 +1,1 @@
-{"name": "Camera_features", "id": 55580371, "predecessors": [{"name": "Cameras", "id": 1120124}], "successors": [{"name": "Lens_mounts", "id": 3152085}, {"name": "Flash_mounts", "id": 47094393}]}
+{"name": "Camera_features", "id": 55580371, "predecessors": [{"name": "Cameras", "id": 1120124}], "successors": [{"name": "Lens_mounts", "id": 3152085}]}

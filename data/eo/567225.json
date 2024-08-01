@@ -1,1 +1,1 @@
-{"name": "Sovetiaj_gitaristoj", "id": 567225, "predecessors": [{"name": "Sovetiaj_muzikistoj", "id": 448889}, {"name": "Gitaristoj", "id": 115598}], "successors": []}
+{"name": "Sovetiaj_gitaristoj", "id": 567225, "predecessors": [{"name": "Gitaristoj", "id": 115598}, {"name": "Muzikistoj", "id": 31762}], "successors": []}

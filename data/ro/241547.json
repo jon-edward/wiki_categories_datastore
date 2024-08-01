@@ -1,1 +1,1 @@
-{"name": "Baterii", "id": 241547, "predecessors": [{"name": "Electrochimie", "id": 234673}, {"name": "Stocarea_energiei", "id": 206354}, {"name": "Echipament_electric", "id": 301837}], "successors": []}
+{"name": "Baterii", "id": 241547, "predecessors": [{"name": "Electrochimie", "id": 234673}, {"name": "Stocarea_energiei", "id": 206354}], "successors": [{"name": "Baterii_reîncărcabile_(electricitate)", "id": 923416}]}

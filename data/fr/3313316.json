@@ -1,1 +1,0 @@
-{"name": "Orpaillage", "id": 3313316, "predecessors": [{"name": "Industrie_minière", "id": 3313212}, {"name": "Métallurgie_extractive", "id": 616312}, {"name": "Or", "id": 3313309}, {"name": "Pollution", "id": 99469}, {"name": "Métier_du_métal", "id": 3218519}], "successors": [{"name": "Rivière_aurifère", "id": 8448900}]}

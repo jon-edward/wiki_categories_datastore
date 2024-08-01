@@ -1,1 +1,1 @@
-{"name": "Artillery_of_Sweden", "id": 19772930, "predecessors": [{"name": "Artillery", "id": 700053}], "successors": [{"name": "Naval_guns_of_Sweden", "id": 51467551}]}
+{"name": "Artillery_of_Sweden", "id": 19772930, "predecessors": [{"name": "Weapons_of_Sweden", "id": 1601226}, {"name": "Artillery", "id": 700053}], "successors": [{"name": "Naval_guns_of_Sweden", "id": 51467551}]}

@@ -1,0 +1,1 @@
+{"name": "Shogi_openings", "id": 56703256, "predecessors": [{"name": "Game_theory", "id": 774008}], "successors": [{"name": "Ranging_Rook_openings", "id": 52222682}, {"name": "Static_Rook_openings", "id": 52258496}, {"name": "Shogi_surprise_openings", "id": 56703453}]}

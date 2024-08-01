@@ -1,1 +1,0 @@
-{"name": "Carburant", "id": 210709, "predecessors": [{"name": "Combustion", "id": 3760932}, {"name": "Produit_chimique", "id": 4817319}], "successors": [{"name": "Biocarburant", "id": 914582}, {"name": "Revue_d'énergie_et_carburants", "id": 4831336}, {"name": "Réservoir_de_carburant", "id": 4961660}, {"name": "Additif_pour_carburant", "id": 6659968}]}

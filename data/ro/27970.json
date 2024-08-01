@@ -1,1 +1,1 @@
-{"name": "Centrale_nuclearo-electrice", "id": 27970, "predecessors": [{"name": "Energie_electrică", "id": 27971}, {"name": "Energie_nucleară", "id": 399914}, {"name": "Energetică", "id": 112636}], "successors": [{"name": "Reactoare_nucleare", "id": 27973}]}
+{"name": "Centrale_nuclearo-electrice", "id": 27970, "predecessors": [{"name": "Energie_electrică", "id": 27971}, {"name": "Energie_nucleară", "id": 399914}], "successors": [{"name": "Reactoare_nucleare", "id": 27973}]}

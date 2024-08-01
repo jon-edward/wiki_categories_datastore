@@ -1,1 +1,1 @@
-{"name": "Astronomi_najam", "id": 111838, "predecessors": [{"name": "Bintang", "id": 39431}, {"name": "Astronomi", "id": 9733}], "successors": [{"name": "Eksoplanetologi", "id": 298477}, {"name": "Evolusi_bintang", "id": 1156960}]}
+{"name": "Astronomi_najam", "id": 111838, "predecessors": [{"name": "Astronomi", "id": 9733}], "successors": [{"name": "Jenis_bintang", "id": 111837}, {"name": "Eksoplanetologi", "id": 298477}, {"name": "Evolusi_bintang", "id": 1156960}, {"name": "Lohong_hitam", "id": 1036445}]}

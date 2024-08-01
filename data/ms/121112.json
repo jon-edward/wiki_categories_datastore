@@ -1,1 +1,1 @@
-{"name": "Sistem_pengendalian_terbenam", "id": 121112, "predecessors": [{"name": "Sistem_pengendalian", "id": 30536}, {"name": "Sistem_terbenam", "id": 301676}], "successors": [{"name": "IOS", "id": 301647}]}
+{"name": "Sistem_pengendalian_terbenam", "id": 121112, "predecessors": [{"name": "Sistem_terbenam", "id": 301676}], "successors": [{"name": "IOS", "id": 301647}]}

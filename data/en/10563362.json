@@ -1,1 +1,1 @@
-{"name": "Streets_in_Edinburgh", "id": 10563362, "predecessors": [{"name": "Transport_in_Edinburgh", "id": 1755002}, {"name": "Roads_in_Scotland", "id": 4204335}, {"name": "Edinburgh", "id": 719020}], "successors": [{"name": "Royal_Mile", "id": 10909302}]}
+{"name": "Streets_in_Edinburgh", "id": 10563362, "predecessors": [{"name": "Transport_in_Edinburgh", "id": 1755002}], "successors": [{"name": "Royal_Mile", "id": 10909302}]}

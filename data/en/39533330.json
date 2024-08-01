@@ -1,1 +1,1 @@
-{"name": "Residential_heating_appliances", "id": 39533330, "predecessors": [{"name": "Home_appliances", "id": 1392560}, {"name": "Residential_heating", "id": 11090990}, {"name": "Temperature_control", "id": 16089642}], "successors": []}
+{"name": "Residential_heating_appliances", "id": 39533330, "predecessors": [{"name": "Heaters", "id": 11090874}, {"name": "Home_appliances", "id": 1392560}, {"name": "Residential_heating", "id": 11090990}, {"name": "Temperature_control", "id": 16089642}], "successors": []}

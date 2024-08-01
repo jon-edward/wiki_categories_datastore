@@ -1,1 +1,1 @@
-{"name": "Rubber_industry", "id": 52514818, "predecessors": [{"name": "Manufacturing", "id": 867519}], "successors": [{"name": "Tire_industry_people", "id": 37915865}]}
+{"name": "Rubber_industry", "id": 52514818, "predecessors": [{"name": "Manufacturing", "id": 867519}], "successors": [{"name": "U.S._Synthetic_Rubber_Program", "id": 41425552}, {"name": "Rubber_companies", "id": 76460877}, {"name": "Tire_industry_people", "id": 37915865}]}

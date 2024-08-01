@@ -1,1 +1,1 @@
-{"name": "Virulence_factors", "id": 10054412, "predecessors": [{"name": "Proteins", "id": 717889}], "successors": []}
+{"name": "Virulence_factors", "id": 10054412, "predecessors": [{"name": "Pathology", "id": 1311481}, {"name": "Proteins", "id": 717889}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "NHL_outdoor_games", "id": 41371122, "predecessors": [{"name": "National_Hockey_League", "id": 4070275}, {"name": "Outdoor_ice_hockey_games", "id": 31761638}], "successors": [{"name": "NHL_Winter_Classic", "id": 20947560}, {"name": "NHL_Heritage_Classic", "id": 39829994}, {"name": "NHL_Stadium_Series", "id": 44903606}]}
+{"name": "NHL_outdoor_games", "id": 41371122, "predecessors": [{"name": "National_Hockey_League", "id": 4070275}, {"name": "Outdoor_ice_hockey_games", "id": 31761638}], "successors": []}

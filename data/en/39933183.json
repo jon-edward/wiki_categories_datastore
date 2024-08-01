@@ -1,1 +1,1 @@
-{"name": "College_track_and_field_venues_in_the_United_States", "id": 39933183, "predecessors": [{"name": "Stadiums", "id": 712393}], "successors": [{"name": "College_indoor_track_and_field_venues_in_the_United_States", "id": 44921581}]}
+{"name": "College_track_and_field_venues_in_the_United_States", "id": 39933183, "predecessors": [{"name": "College_sports_in_the_United_States", "id": 28272168}, {"name": "Stadiums", "id": 712393}], "successors": [{"name": "College_indoor_track_and_field_venues_in_the_United_States", "id": 44921581}]}

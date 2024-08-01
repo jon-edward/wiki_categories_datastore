@@ -1,1 +1,1 @@
-{"name": "Anti-influenza_agents", "id": 13818091, "predecessors": [{"name": "Influenza", "id": 2932559}], "successors": [{"name": "Neuraminidase_inhibitors", "id": 957077}]}
+{"name": "Anti-influenza_agents", "id": 13818091, "predecessors": [{"name": "Anti–RNA_virus_drugs", "id": 39757742}, {"name": "Influenza", "id": 2932559}], "successors": []}

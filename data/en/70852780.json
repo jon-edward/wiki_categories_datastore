@@ -1,1 +1,1 @@
-{"name": "Carbon_dioxide_removal", "id": 70852780, "predecessors": [{"name": "Climate_change_mitigation", "id": 34332942}, {"name": "Emissions_reduction", "id": 2644560}], "successors": [{"name": "Reforestation", "id": 22846571}, {"name": "Blue_carbon", "id": 65965959}]}
+{"name": "Carbon_dioxide_removal", "id": 70852780, "predecessors": [{"name": "Climate_change_mitigation", "id": 34332942}, {"name": "Emissions_reduction", "id": 2644560}], "successors": [{"name": "Reforestation", "id": 22846571}]}

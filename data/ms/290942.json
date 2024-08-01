@@ -1,1 +1,1 @@
-{"name": "Motor_elektrik", "id": 290942, "predecessors": [{"name": "Enjin", "id": 88722}], "successors": []}
+{"name": "Motor_elektrik", "id": 290942, "predecessors": [{"name": "Enjin", "id": 88722}, {"name": "Kejuruteraan_elektrik", "id": 132087}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Filme_sportive", "id": 965904, "predecessors": [{"name": "Filme_după_genuri", "id": 109937}], "successors": [{"name": "Filme_despre_fotbal", "id": 1218270}, {"name": "Filme_despre_box", "id": 2974501}]}
+{"name": "Filme_sportive", "id": 965904, "predecessors": [{"name": "Filme_după_genuri", "id": 109937}, {"name": "Media", "id": 39942}], "successors": [{"name": "Filme_despre_fotbal", "id": 1218270}, {"name": "Filme_despre_box", "id": 2974501}]}

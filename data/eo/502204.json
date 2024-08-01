@@ -1,1 +1,1 @@
-{"name": "Interpretistoj", "id": 502204, "predecessors": [{"name": "Lingvistoj", "id": 36978}, {"name": "Traduko", "id": 79185}], "successors": [{"name": "Tradukistaj_organizaĵoj", "id": 625172}, {"name": "Hungaraj_interpretistoj", "id": 712483}]}
+{"name": "Interpretistoj", "id": 502204, "predecessors": [{"name": "Lingvistoj", "id": 36978}, {"name": "Traduko", "id": 79185}], "successors": [{"name": "Hungaraj_interpretistoj", "id": 712483}, {"name": "Tradukistaj_asocioj", "id": 630244}]}

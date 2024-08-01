@@ -1,1 +1,1 @@
-{"name": "Metropolitano", "id": 75619491, "predecessors": [{"name": "Bus_rapid_transit", "id": 1866000}, {"name": "Transport_in_Lima", "id": 6049468}, {"name": "Rail_transport_in_Peru", "id": 5706076}, {"name": "Economy_of_Peru", "id": 2675610}], "successors": []}
+{"name": "Metropolitano", "id": 75619491, "predecessors": [{"name": "Bus_rapid_transit", "id": 1866000}, {"name": "Transport_in_Lima", "id": 6049468}, {"name": "Economy_of_Peru", "id": 2675610}], "successors": []}

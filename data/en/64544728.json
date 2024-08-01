@@ -1,1 +1,1 @@
-{"name": "Festivals_in_Munich", "id": 64544728, "predecessors": [{"name": "Tourist_attractions_in_Munich", "id": 3247427}, {"name": "Festivals_in_Germany", "id": 6192332}], "successors": [{"name": "Oktoberfest", "id": 34999628}]}
+{"name": "Festivals_in_Munich", "id": 64544728, "predecessors": [{"name": "Tourist_attractions_in_Munich", "id": 3247427}, {"name": "Festivals_in_Germany", "id": 6192332}, {"name": "History_of_Munich", "id": 3247323}], "successors": [{"name": "Oktoberfest", "id": 34999628}]}

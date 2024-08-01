@@ -1,1 +1,1 @@
-{"name": "Geologi_petroleum", "id": 302377, "predecessors": [{"name": "Petroleum", "id": 73913}], "successors": []}
+{"name": "Geologi_petroleum", "id": 302377, "predecessors": [{"name": "Petroleum", "id": 73913}, {"name": "Geologi", "id": 30333}], "successors": []}

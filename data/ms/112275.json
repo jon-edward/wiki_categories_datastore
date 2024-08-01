@@ -1,1 +1,1 @@
-{"name": "Penjagaan_kulit", "id": 112275, "predecessors": [{"name": "Dermatologi", "id": 940867}, {"name": "Kebersihan", "id": 145931}, {"name": "Kosmetik", "id": 162855}, {"name": "Kulit", "id": 987428}, {"name": "Kehidupan_peribadi", "id": 76137}, {"name": "Manusia", "id": 23561}], "successors": []}
+{"name": "Penjagaan_kulit", "id": 112275, "predecessors": [{"name": "Dermatologi", "id": 940867}, {"name": "Kosmetik", "id": 162855}, {"name": "Kulit", "id": 987428}, {"name": "Kehidupan_peribadi", "id": 76137}, {"name": "Manusia", "id": 23561}], "successors": []}

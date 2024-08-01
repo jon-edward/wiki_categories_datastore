@@ -1,1 +1,1 @@
-{"name": "Fluoroquinolone_antibiotics", "id": 695380, "predecessors": [{"name": "Topoisomerase_inhibitors", "id": 32587620}], "successors": []}
+{"name": "Fluoroquinolone_antibiotics", "id": 695380, "predecessors": [{"name": "Fluoroarenes", "id": 46615367}, {"name": "Quinolone_antibiotics", "id": 11137462}, {"name": "Topoisomerase_inhibitors", "id": 32587620}], "successors": []}

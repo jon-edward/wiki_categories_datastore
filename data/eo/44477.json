@@ -1,1 +1,1 @@
-{"name": "Kemia_analizo", "id": 44477, "predecessors": [{"name": "Kogno", "id": 372480}, {"name": "Kemio", "id": 21203}], "successors": [{"name": "Kristalografio", "id": 82647}, {"name": "Termoanalizo", "id": 570828}, {"name": "Masspektrogramistoj", "id": 624016}]}
+{"name": "Kemia_analizo", "id": 44477, "predecessors": [{"name": "Kogno", "id": 372480}, {"name": "Kemio", "id": 21203}], "successors": [{"name": "Kristalografio", "id": 82647}, {"name": "Termoanalizo", "id": 570828}]}

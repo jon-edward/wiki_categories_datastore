@@ -1,1 +1,1 @@
-{"name": "Aging-related_proteins", "id": 37190491, "predecessors": [{"name": "Proteins_by_function", "id": 51665272}, {"name": "Senescence", "id": 37107764}], "successors": [{"name": "Telomere-related_proteins", "id": 37190756}]}
+{"name": "Aging-related_proteins", "id": 37190491, "predecessors": [{"name": "Senescence", "id": 37107764}, {"name": "Proteins", "id": 717889}], "successors": [{"name": "Telomere-related_proteins", "id": 37190756}]}

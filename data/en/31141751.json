@@ -1,1 +1,1 @@
-{"name": "Depression_screening_and_assessment_tools", "id": 31141751, "predecessors": [{"name": "Depression_(mood)", "id": 34952884}, {"name": "Mental_disorders_screening_and_assessment_tools", "id": 15993655}], "successors": []}
+{"name": "Depression_screening_and_assessment_tools", "id": 31141751, "predecessors": [{"name": "Depression_(mood)", "id": 34952884}, {"name": "Medical_scales", "id": 5993801}, {"name": "Mental_disorders_screening_and_assessment_tools", "id": 15993655}, {"name": "Mood_disorders", "id": 837363}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Boli_ale_sistemului_reproducător", "id": 876821, "predecessors": [{"name": "Aparatul_reproducător", "id": 141463}, {"name": "Biologie", "id": 16151}], "successors": [{"name": "Boli_ale_penisului", "id": 2485715}, {"name": "Bolile_testiculelor", "id": 2987715}]}
+{"name": "Boli_ale_sistemului_reproducător", "id": 876821, "predecessors": [{"name": "Aparatul_reproducător", "id": 141463}, {"name": "Boli_umane", "id": 876535}], "successors": [{"name": "Boli_ale_penisului", "id": 2485715}, {"name": "Bolile_testiculelor", "id": 2987715}]}

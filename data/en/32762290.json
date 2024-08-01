@@ -1,1 +1,1 @@
-{"name": "Medical_and_health_organisations_based_in_Norway", "id": 32762290, "predecessors": [{"name": "Health_care_by_country", "id": 50769391}], "successors": []}
+{"name": "Medical_and_health_organisations_based_in_Norway", "id": 32762290, "predecessors": [{"name": "Health_by_country", "id": 2693630}], "successors": [{"name": "Hospitals_in_Norway", "id": 1361154}, {"name": "Health_trusts_of_Norway", "id": 12975029}]}

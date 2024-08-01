@@ -1,1 +1,1 @@
-{"name": "Epidemiologi", "id": 302895, "predecessors": [{"name": "Kesihatan_awam", "id": 86423}, {"name": "Sains_kesihatan", "id": 76463}, {"name": "Disiplin_akademik", "id": 75960}, {"name": "Pengetahuan", "id": 76146}], "successors": [{"name": "Wabak", "id": 302887}]}
+{"name": "Epidemiologi", "id": 302895, "predecessors": [{"name": "Kesihatan_awam", "id": 86423}, {"name": "Sains_kesihatan", "id": 76463}, {"name": "Biologi", "id": 11181}, {"name": "Statistik", "id": 62381}, {"name": "Pengetahuan", "id": 76146}], "successors": [{"name": "Wabak", "id": 302887}]}

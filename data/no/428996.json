@@ -1,1 +1,1 @@
-{"name": "NRK-korrespondenter", "id": 428996, "predecessors": [{"name": "Korrespondenter", "id": 1904645}, {"name": "NRK-journalister", "id": 383654}], "successors": []}
+{"name": "NRK-korrespondenter", "id": 428996, "predecessors": [{"name": "NRK-journalister", "id": 383654}, {"name": "Korrespondenter", "id": 1904645}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Leeds_Blue_Plaques", "id": 62028327, "predecessors": [{"name": "Blue_plaques", "id": 6027856}], "successors": [{"name": "Golden_Jubilee_of_Queen_Victoria", "id": 73511521}]}
+{"name": "Leeds_Blue_Plaques", "id": 62028327, "predecessors": [{"name": "Blue_plaques", "id": 6027856}, {"name": "History_of_Leeds", "id": 13201552}, {"name": "Leeds", "id": 990627}, {"name": "Yorkshire_culture", "id": 32775648}], "successors": [{"name": "Golden_Jubilee_of_Queen_Victoria", "id": 73511521}]}

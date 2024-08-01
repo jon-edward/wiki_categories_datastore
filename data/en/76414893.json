@@ -1,1 +1,1 @@
-{"name": "Crohn's_disease", "id": 76414893, "predecessors": [{"name": "Membrane_transport_protein_disorders", "id": 29893918}, {"name": "Noninfective_enteritis_and_colitis", "id": 26694150}, {"name": "Abdominal_pain", "id": 9774234}], "successors": [{"name": "People_with_Crohn's_disease", "id": 58948550}]}
+{"name": "Crohn's_disease", "id": 76414893, "predecessors": [{"name": "Membrane_transport_protein_disorders", "id": 29893918}, {"name": "Gastrointestinal_tract_disorders", "id": 32609584}, {"name": "Abdominal_pain", "id": 9774234}], "successors": []}

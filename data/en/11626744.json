@@ -1,1 +1,1 @@
-{"name": "Dinosaur_anatomy", "id": 11626744, "predecessors": [{"name": "Dinosaur_paleobiology", "id": 45115497}, {"name": "Reptile_anatomy", "id": 30195735}], "successors": [{"name": "Feathers", "id": 1851687}, {"name": "Bird_anatomy", "id": 7998057}]}
+{"name": "Dinosaur_anatomy", "id": 11626744, "predecessors": [{"name": "Reptile_anatomy", "id": 30195735}, {"name": "Dinosaurs", "id": 912963}], "successors": [{"name": "Feathers", "id": 1851687}, {"name": "Bird_anatomy", "id": 7998057}]}

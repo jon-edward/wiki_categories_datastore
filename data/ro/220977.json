@@ -1,1 +1,1 @@
-{"name": "Tractoare", "id": 220977, "predecessors": [{"name": "Utilaje_agricole", "id": 220978}], "successors": [{"name": "Tractoare_de_artilerie", "id": 904533}]}
+{"name": "Tractoare", "id": 220977, "predecessors": [{"name": "Vehicule_rutiere", "id": 225538}], "successors": [{"name": "Tractoare_de_artilerie", "id": 904533}]}

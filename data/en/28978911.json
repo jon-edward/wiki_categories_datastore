@@ -1,1 +1,1 @@
-{"name": "Conjugate_prior_distributions", "id": 28978911, "predecessors": [{"name": "Bayesian_statistics", "id": 6533911}], "successors": []}
+{"name": "Conjugate_prior_distributions", "id": 28978911, "predecessors": [{"name": "Bayesian_statistics", "id": 6533911}, {"name": "Probability_distributions", "id": 772545}], "successors": []}

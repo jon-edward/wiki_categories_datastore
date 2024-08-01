@@ -1,1 +1,1 @@
-{"name": "NATO_standardisation", "id": 45403734, "predecessors": [{"name": "NATO", "id": 1473450}], "successors": [{"name": "NATO_Standardization_Agreements", "id": 39683425}]}
+{"name": "NATO_standardisation", "id": 45403734, "predecessors": [{"name": "NATO", "id": 1473450}, {"name": "Standards", "id": 724561}], "successors": [{"name": "NATO_Standardization_Agreements", "id": 39683425}]}

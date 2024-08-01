@@ -1,1 +1,1 @@
-{"name": "Swing_musicians", "id": 11890469, "predecessors": [{"name": "Swing_music", "id": 25649680}], "successors": [{"name": "Swing_bandleaders", "id": 12018720}]}
+{"name": "Swing_musicians", "id": 11890469, "predecessors": [{"name": "Swing_music", "id": 25649680}], "successors": [{"name": "Swing_bandleaders", "id": 12018720}, {"name": "Swing_composers", "id": 12023382}, {"name": "Swing_revival_musicians", "id": 36651180}]}

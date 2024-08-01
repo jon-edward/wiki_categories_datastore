@@ -1,1 +1,1 @@
-{"name": "American_aerospace_engineers", "id": 12470352, "predecessors": [{"name": "American_engineers", "id": 1196880}], "successors": [{"name": "Wright_brothers", "id": 7423773}]}
+{"name": "American_aerospace_engineers", "id": 12470352, "predecessors": [{"name": "American_engineers", "id": 1196880}, {"name": "Aviation_in_the_United_States", "id": 2162318}], "successors": [{"name": "Wright_brothers", "id": 7423773}, {"name": "American_aerospace_designers", "id": 25742337}]}

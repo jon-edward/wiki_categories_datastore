@@ -1,1 +1,1 @@
-{"name": "Vector_spaces", "id": 30994663, "predecessors": [{"name": "Linear_algebra", "id": 690777}, {"name": "Space_(mathematics)", "id": 73209975}], "successors": [{"name": "Spacetime", "id": 10973513}]}
+{"name": "Vector_spaces", "id": 30994663, "predecessors": [{"name": "Mathematical_structures", "id": 20083363}], "successors": [{"name": "Topological_vector_spaces", "id": 7409974}, {"name": "Spacetime", "id": 10973513}, {"name": "Function_spaces", "id": 30994686}]}

@@ -1,1 +1,1 @@
-{"name": "Salumi", "id": 12380464, "predecessors": [{"name": "Charcuterie", "id": 19146404}, {"name": "Dried_meat", "id": 3109664}, {"name": "Italian_cuisine", "id": 742859}], "successors": [{"name": "Italian_sausages", "id": 7859401}]}
+{"name": "Salumi", "id": 12380464, "predecessors": [{"name": "Charcuterie", "id": 19146404}, {"name": "Dried_meat", "id": 3109664}, {"name": "Italian_cuisine", "id": 742859}], "successors": []}
