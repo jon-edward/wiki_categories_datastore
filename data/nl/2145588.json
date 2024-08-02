@@ -1,0 +1,1 @@
+{"name": "Effectenhandel", "id": 2145588, "predecessors": [{"name": "Bankwezen", "id": 805173}, {"name": "Beurshandel", "id": 805144}], "successors": [{"name": "Effectenorder", "id": 171617}, {"name": "Beursindex", "id": 394928}, {"name": "Effectenbeurs", "id": 805136}]}

@@ -1,0 +1,1 @@
+{"name": "Zugsicherung", "id": 785664, "predecessors": [{"name": "Bahnanlagentechnik", "id": 5247814}, {"name": "Sicherheit_im_Bahnbetrieb", "id": 11894297}], "successors": [{"name": "Eisenbahnsignal", "id": 1154037}, {"name": "Stellwerk", "id": 10219279}]}

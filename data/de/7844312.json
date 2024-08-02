@@ -1,0 +1,1 @@
+{"name": "Holzbearbeitungswerkzeug", "id": 7844312, "predecessors": [{"name": "Holzbearbeitung", "id": 9890612}, {"name": "Werkzeug", "id": 242680}], "successors": [{"name": "Hobel", "id": 1604674}, {"name": "Axt", "id": 1994300}]}

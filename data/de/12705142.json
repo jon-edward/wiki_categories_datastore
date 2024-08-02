@@ -1,0 +1,1 @@
+{"name": "Propellerbetriebenes_Fahrzeug", "id": 12705142, "predecessors": [{"name": "Antrieb_nach_Energiequelle", "id": 9393332}], "successors": [{"name": "Luftschiff", "id": 243395}, {"name": "U-Boot", "id": 495707}, {"name": "Torpedo", "id": 1517214}, {"name": "Motorschiff", "id": 2082625}, {"name": "Flugauto", "id": 8577528}]}

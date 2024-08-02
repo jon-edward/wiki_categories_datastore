@@ -1,0 +1,1 @@
+{"name": "Agricultura_industrial", "id": 2660352, "predecessors": [{"name": "Agricultura", "id": 24009}, {"name": "Indústrias", "id": 656123}], "successors": [{"name": "Fertilizantes_inorgânicos", "id": 5559946}, {"name": "Organismos_geneticamente_modificados_na_agricultura", "id": 2660345}, {"name": "Enxofre", "id": 4777913}]}

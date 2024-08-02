@@ -1,0 +1,1 @@
+{"name": "Diabetes", "id": 1510407, "predecessors": [{"name": "Enfermedades_del_páncreas", "id": 10371220}, {"name": "Enfermedades_endocrinas", "id": 509905}, {"name": "Enfermedades_metabólicas", "id": 62025}], "successors": [{"name": "Fármacos_antidiabéticos", "id": 1772939}, {"name": "Personas_diabéticas", "id": 3072423}]}

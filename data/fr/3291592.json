@@ -1,0 +1,1 @@
+{"name": "Pompe", "id": 3291592, "predecessors": [{"name": "Dispositif_mécanique", "id": 129078}, {"name": "Dynamique_des_fluides", "id": 6068152}, {"name": "Hydraulique", "id": 268349}, {"name": "Énergie_pneumatique", "id": 1609324}], "successors": [{"name": "Compresseur", "id": 4231352}, {"name": "Pompe_à_vide", "id": 10891723}]}

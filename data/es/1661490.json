@@ -1,0 +1,1 @@
+{"name": "Software_de_sistema", "id": 1661490, "predecessors": [{"name": "Sistemas", "id": 4539548}], "successors": [{"name": "Interfaz_gráfica_de_usuario", "id": 66603}, {"name": "BIOS", "id": 809245}, {"name": "Controladores_de_hardware", "id": 1348506}, {"name": "Software_de_redes", "id": 2293344}, {"name": "Software_de_sistema_libres", "id": 6522012}]}

@@ -1,0 +1,1 @@
+{"name": "Remote_Access", "id": 2427737, "predecessors": [{"name": "Datenübertragung", "id": 2356722}, {"name": "Internet", "id": 240464}], "successors": [{"name": "Fernwartungssoftware", "id": 5553756}]}

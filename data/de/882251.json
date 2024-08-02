@@ -1,0 +1,1 @@
+{"name": "Fahrzeugbeleuchtung", "id": 882251, "predecessors": [{"name": "Beleuchtung", "id": 387649}, {"name": "Fahrzeugelektrik", "id": 1220832}, {"name": "Fahrzeugsicherheit", "id": 882474}], "successors": [{"name": "Fahrradbeleuchtung", "id": 1410471}, {"name": "Fahrzeugleuchte", "id": 7629632}]}

@@ -1,0 +1,1 @@
+{"name": "Vitamini", "id": 13031, "predecessors": [{"name": "Dodaci_prehrani", "id": 97768}, {"name": "Esencijalne_hranljive_materije", "id": 407964}], "successors": [{"name": "Provitamini", "id": 240623}, {"name": "B_vitamini", "id": 1192373}, {"name": "Vitamin_C", "id": 1227913}, {"name": "Vitamin_D", "id": 1228124}]}

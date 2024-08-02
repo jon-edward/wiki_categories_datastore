@@ -1,0 +1,1 @@
+{"name": "Internetdienstanbieter", "id": 2198160, "predecessors": [{"name": "IT-Dienstleister", "id": 2145458}, {"name": "Internetunternehmen", "id": 465037}, {"name": "Internetzugang", "id": 2388945}, {"name": "Telekommunikationsanbieter", "id": 473254}], "successors": [{"name": "Webmail-Anbieter", "id": 1106740}, {"name": "VoIP-Provider", "id": 2171501}]}

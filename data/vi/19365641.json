@@ -1,1 +1,1 @@
-{"name": "Trò_chơi_âm_nhạc", "id": 19365641, "predecessors": [{"name": "Trò_chơi_truyền_hình", "id": 51628}, {"name": "Thể_loại_truyền_hình", "id": 403306}], "successors": []}
+{"name": "Trò_chơi_âm_nhạc", "id": 19365641, "predecessors": [{"name": "Chương_trình_truyền_hình_âm_nhạc", "id": 19364008}, {"name": "Trò_chơi_truyền_hình", "id": 51628}], "successors": []}

@@ -1,0 +1,1 @@
+{"name": "Eksplozivi", "id": 153848, "predecessors": [{"name": "Opasne_materije", "id": 160252}, {"name": "Oružje", "id": 13025}], "successors": [{"name": "Eksplozivne_hemikalije", "id": 1227002}, {"name": "Pirotehnički_oksidansi", "id": 240611}, {"name": "Pirotehničke_boje", "id": 1228490}, {"name": "Raketna_goriva", "id": 1227713}]}

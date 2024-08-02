@@ -1,0 +1,1 @@
+{"name": "Pneumatik", "id": 1607384, "predecessors": [{"name": "Gastechnik", "id": 930194}], "successors": [{"name": "Ventil", "id": 1609082}, {"name": "Druckbehälter", "id": 3878308}, {"name": "Druckluftwerkzeug", "id": 1602308}, {"name": "Luftgewehr", "id": 1991052}]}

@@ -1,0 +1,1 @@
+{"name": "Gestores_de_paquetes", "id": 900661, "predecessors": [{"name": "Herramientas_de_gestión", "id": 324641}], "successors": [{"name": "Gestores_de_paquetes_Linux", "id": 1077881}, {"name": "Gestores_de_paquetes_libres", "id": 1479762}]}

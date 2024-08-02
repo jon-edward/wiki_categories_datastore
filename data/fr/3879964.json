@@ -1,0 +1,1 @@
+{"name": "Test_chimique", "id": 3879964, "predecessors": [{"name": "Chimie_analytique", "id": 132288}, {"name": "Réaction_chimique", "id": 430330}], "successors": [{"name": "Indicateur_de_pH", "id": 729470}]}

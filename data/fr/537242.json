@@ -1,0 +1,1 @@
+{"name": "Chômage", "id": 537242, "predecessors": [{"name": "Aide_sociale", "id": 134180}, {"name": "Précarité", "id": 615868}, {"name": "Rien", "id": 11464651}, {"name": "Économie_du_travail", "id": 685405}], "successors": [{"name": "Recherche_d'emploi", "id": 332173}, {"name": "Service_public_de_l'emploi", "id": 2172195}]}

@@ -1,0 +1,1 @@
+{"name": "Pintores_abstractos", "id": 707010, "predecessors": [{"name": "Artistas_abstractos", "id": 2507857}, {"name": "Pintores_contemporáneos", "id": 1308997}, {"name": "Pintura_abstracta", "id": 5256914}, {"name": "Artistas_gráficos", "id": 5307264}], "successors": [{"name": "Pintores_del_Expresionismo_abstracto", "id": 1372847}]}

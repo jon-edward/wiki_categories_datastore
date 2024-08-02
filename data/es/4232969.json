@@ -1,0 +1,1 @@
+{"name": "Presión", "id": 4232969, "predecessors": [{"name": "Magnitudes_físicas", "id": 79584}, {"name": "Mecánica_de_fluidos", "id": 74186}], "successors": [{"name": "Unidades_de_presión", "id": 153745}, {"name": "Máquinas_hidráulicas", "id": 323272}, {"name": "Neumática", "id": 916956}, {"name": "Vacío", "id": 4232933}]}

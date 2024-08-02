@@ -1,0 +1,1 @@
+{"name": "Élevage_bovin", "id": 2283989, "predecessors": [{"name": "Élevage_spécialisé", "id": 2682861}, {"name": "Zoologie", "id": 81546}], "successors": [{"name": "Race_bovine", "id": 113799}, {"name": "Santé_des_bovins", "id": 3698924}, {"name": "Élevage_bovin_par_pays", "id": 6131322}]}

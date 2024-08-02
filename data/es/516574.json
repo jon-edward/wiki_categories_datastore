@@ -1,0 +1,1 @@
+{"name": "USB", "id": 516574, "predecessors": [{"name": "Buses_seriales", "id": 9742818}, {"name": "Estándares_de_hardware", "id": 9742798}, {"name": "Puertos_de_Entrada/Salida", "id": 1311726}, {"name": "Tecnologías_y_protocolos_de_nivel_físico", "id": 235044}], "successors": [{"name": "Live_USB", "id": 6469969}]}

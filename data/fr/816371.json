@@ -1,0 +1,1 @@
+{"name": "Synthétiseur", "id": 816371, "predecessors": [{"name": "Instrument_de_musique_électronique", "id": 144867}, {"name": "Instrument_de_musique", "id": 84286}], "successors": [{"name": "Synthétiseur_analogique", "id": 12195143}, {"name": "Synthétiseur_Korg", "id": 5241257}, {"name": "Synthétiseur_Roland", "id": 5241271}, {"name": "Synthétiseur_Yamaha", "id": 5241291}]}

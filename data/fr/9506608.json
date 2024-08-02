@@ -1,0 +1,1 @@
+{"name": "Accident_de_car_ou_de_bus", "id": 9506608, "predecessors": [{"name": "Accident_de_la_route", "id": 1372890}, {"name": "Autobus", "id": 204666}, {"name": "Autocar", "id": 6011697}], "successors": []}

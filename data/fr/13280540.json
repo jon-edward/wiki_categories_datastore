@@ -1,0 +1,1 @@
+{"name": "Caméra_argentique", "id": 13280540, "predecessors": [{"name": "Matériel_de_cinéma", "id": 1277452}, {"name": "Capteur", "id": 116410}], "successors": [{"name": "Caméra_16_mm", "id": 2190565}, {"name": "Caméra_35_mm", "id": 2190969}]}

@@ -1,0 +1,1 @@
+{"name": "DVD_musical", "id": 740937, "predecessors": [{"name": "Film_sorti_directement_en_vidéo", "id": 1085756}, {"name": "Vidéo_de_musique", "id": 4934836}, {"name": "Enregistrement_sonore", "id": 157704}], "successors": [{"name": "DVD_de_Morning_Musume", "id": 5619856}, {"name": "DVD_du_Hello!_Project", "id": 5654144}, {"name": "DVD_de_Nana_Mizuki", "id": 5706061}]}

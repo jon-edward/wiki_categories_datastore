@@ -1,0 +1,1 @@
+{"name": "Cheval_de_saut_d'obstacles", "id": 1040549, "predecessors": [{"name": "Saut_d'obstacles", "id": 1013671}, {"name": "Cheval_connu", "id": 5022396}, {"name": "Cheval_de_sport", "id": 9377312}], "successors": [{"name": "Jument_de_saut_d'obstacles", "id": 16298546}]}

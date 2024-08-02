@@ -1,0 +1,1 @@
+{"name": "Editores_de_audio", "id": 2931843, "predecessors": [{"name": "Procesamiento_digital_de_señales", "id": 2932295}, {"name": "Software_de_audio", "id": 2932231}, {"name": "Edición", "id": 4388048}], "successors": [{"name": "Editores_de_audio_libres", "id": 4653653}, {"name": "Software_de_estación_de_trabajo_de_audio_digital", "id": 10517615}]}

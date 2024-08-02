@@ -1,0 +1,1 @@
+{"name": "Temperaturmessung", "id": 447592, "predecessors": [{"name": "Messtechnik", "id": 239326}, {"name": "Wärmetechnik", "id": 1642003}], "successors": [{"name": "Schwellenwert_(Temperatur)", "id": 393588}, {"name": "Thermometer", "id": 2294393}, {"name": "Temperatureinheit", "id": 3577327}]}

@@ -1,0 +1,1 @@
+{"name": "Banda_ancha", "id": 83424, "predecessors": [{"name": "Acceso_a_Internet", "id": 707952}, {"name": "Redes", "id": 227126}, {"name": "Tecnología_digital", "id": 3217267}], "successors": [{"name": "Línea_de_abonado_digital", "id": 5965652}, {"name": "Redes_ópticas_pasivas", "id": 6579250}]}

@@ -1,0 +1,1 @@
+{"name": "Red_de_Transporte_de_Pasajeros", "id": 6277500, "predecessors": [{"name": "Transporte_de_Ciudad_de_México", "id": 2168762}, {"name": "Transporte_de_México", "id": 1623953}], "successors": [{"name": "Líneas_de_RTP", "id": 10401847}]}

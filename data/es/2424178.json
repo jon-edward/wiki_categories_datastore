@@ -1,0 +1,1 @@
+{"name": "Servicio_de_mesa", "id": 2424178, "predecessors": [{"name": "Hogar", "id": 106882}, {"name": "Restauración", "id": 6512508}, {"name": "Servicio_y_comedor", "id": 6873786}], "successors": [{"name": "Cucharas", "id": 851645}, {"name": "Vajilla", "id": 2424177}, {"name": "Jarras", "id": 7345235}]}

@@ -1,0 +1,1 @@
+{"name": "Ausleihe", "id": 6921144, "predecessors": [{"name": "Dienstleistung", "id": 4164665}, {"name": "Sachenrecht", "id": 235897}], "successors": [{"name": "Bibliothekswesen", "id": 274424}, {"name": "Mietwagenunternehmen", "id": 1065814}, {"name": "Fahrradverleihsystem", "id": 7658125}, {"name": "Carsharingunternehmen", "id": 10285207}]}

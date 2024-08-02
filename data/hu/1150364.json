@@ -1,0 +1,1 @@
+{"name": "Vasúti_technika", "id": 1150364, "predecessors": [{"name": "Vasúti_közlekedés", "id": 231316}], "successors": [{"name": "Vasúti_járművek", "id": 51955}, {"name": "Vasútszimulátorok", "id": 294845}, {"name": "Vasúti_biztosító_berendezések", "id": 322108}, {"name": "Vasútmodellezés", "id": 644099}, {"name": "Vasúti_pálya", "id": 1150376}]}

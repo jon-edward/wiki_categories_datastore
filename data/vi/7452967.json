@@ -1,1 +1,1 @@
-{"name": "Hệ_thống_kế_thừa", "id": 7452967, "predecessors": [{"name": "Lịch_sử_tin_học", "id": 66966}, {"name": "Thay_đổi_công_nghệ", "id": 3208113}, {"name": "Hệ_thống_công_nghệ", "id": 1678743}], "successors": [{"name": "Phần_mềm_cho_Unix", "id": 150977}]}
+{"name": "Hệ_thống_kế_thừa", "id": 7452967, "predecessors": [{"name": "Lịch_sử_tin_học", "id": 66966}, {"name": "Thay_đổi_công_nghệ", "id": 3208113}, {"name": "Hệ_thống_công_nghệ", "id": 1678743}], "successors": [{"name": "Bảo_trì_phần_mềm", "id": 19686567}, {"name": "Phần_mềm_cho_Unix", "id": 150977}]}

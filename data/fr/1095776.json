@@ -1,0 +1,1 @@
+{"name": "Composant_Windows", "id": 1095776, "predecessors": [{"name": "Microsoft_Windows", "id": 393046}, {"name": "Composant_logiciel", "id": 4442179}], "successors": [{"name": "Commande_MS-DOS/Windows", "id": 5327123}]}

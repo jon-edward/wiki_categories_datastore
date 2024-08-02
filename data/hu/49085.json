@@ -1,0 +1,1 @@
+{"name": "Kereskedelem", "id": 49085, "predecessors": [{"name": "Gazdaság", "id": 21030}], "successors": [{"name": "Reklámok", "id": 33252}, {"name": "Dohánytermékek", "id": 48729}, {"name": "Nemzetközi_kereskedelem", "id": 332706}, {"name": "Kereskedelmi_cégek", "id": 391755}, {"name": "Diszkont_légitársaságok", "id": 1419098}, {"name": "Bevásárlóközpontok", "id": 211733}]}

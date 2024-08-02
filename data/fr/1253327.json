@@ -1,0 +1,1 @@
+{"name": "Concours_scientifique", "id": 1253327, "predecessors": [{"name": "Concours", "id": 818223}, {"name": "Enseignement_des_sciences", "id": 652794}], "successors": [{"name": "Compétition_de_robotique", "id": 4141651}, {"name": "Concours_informatique", "id": 10194272}, {"name": "Olympiades_internationales_de_mathématiques", "id": 12761813}]}

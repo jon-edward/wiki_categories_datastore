@@ -1,0 +1,1 @@
+{"name": "E-Banking", "id": 1954893, "predecessors": [{"name": "E-Business", "id": 1677341}, {"name": "Unbarer_Zahlungsverkehr", "id": 2092318}], "successors": [{"name": "E-Geld-Institut", "id": 3375193}, {"name": "Netzwerkprotokoll_(E-Banking)", "id": 5401115}, {"name": "Online-Bezahlsystem", "id": 8931701}, {"name": "Mobile-Payment", "id": 10085845}]}

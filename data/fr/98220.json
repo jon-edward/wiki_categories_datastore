@@ -1,0 +1,1 @@
+{"name": "Mémoire_informatique", "id": 98220, "predecessors": [{"name": "Matériel_informatique", "id": 126616}, {"name": "Stockage_informatique", "id": 96996}], "successors": [{"name": "SDRAM", "id": 15901802}, {"name": "Carte_mémoire", "id": 15935124}]}

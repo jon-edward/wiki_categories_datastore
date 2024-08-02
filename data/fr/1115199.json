@@ -1,0 +1,1 @@
+{"name": "Filtrage_numérique", "id": 1115199, "predecessors": [{"name": "Sécurité_informatique", "id": 84618}], "successors": [{"name": "Filtrage_d'Internet", "id": 1289369}, {"name": "Filtrage_anti-spam", "id": 2789370}, {"name": "Éditeur_de_pare-feu", "id": 1024498}, {"name": "Pare-feu_logiciel", "id": 1024507}]}

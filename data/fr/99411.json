@@ -1,0 +1,1 @@
+{"name": "Radiologie", "id": 99411, "predecessors": [{"name": "Imagerie_médicale", "id": 322267}, {"name": "Rayons_X", "id": 791556}, {"name": "Spécialité_médicale", "id": 293687}], "successors": [{"name": "Produit_de_contraste", "id": 4817296}, {"name": "Radiologue_français", "id": 9031400}]}

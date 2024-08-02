@@ -1,0 +1,1 @@
+{"name": "Acidentes_rodoviários", "id": 6426802, "predecessors": [{"name": "Acidentes", "id": 1046712}], "successors": [{"name": "Mortes_por_atropelamento", "id": 4000574}, {"name": "Atropelamentos_em_massa", "id": 5497237}, {"name": "Atropelamentos_de_ciclistas", "id": 7033190}]}

@@ -1,0 +1,1 @@
+{"name": "Domain_Name_System", "id": 3918233, "predecessors": [{"name": "アプリケーション層プロトコル", "id": 2214898}, {"name": "インターネット技術", "id": 274152}, {"name": "インターネット標準", "id": 3705179}], "successors": [{"name": "ドメイン名", "id": 271760}]}

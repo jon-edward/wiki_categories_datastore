@@ -1,0 +1,1 @@
+{"name": "Palette_Énergie", "id": 6560113, "predecessors": [{"name": "Palette_Physique", "id": 3404213}, {"name": "Palette_Économie", "id": 3028633}, {"name": "Accueil", "id": 1155637}], "successors": [{"name": "Palette_Industrie_nucléaire", "id": 7451468}, {"name": "Palette_Barrages", "id": 10044704}]}
