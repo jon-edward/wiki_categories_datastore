@@ -1,1 +1,1 @@
-{"name": "World_championships_in_chess", "id": 59646664, "predecessors": [{"name": "Board_games", "id": 9205892}, {"name": "Competition", "id": 2020818}], "successors": [{"name": "Women's_World_Chess_Championships", "id": 33868698}, {"name": "World_Chess_Championships", "id": 41249427}]}
+{"name": "World_championships_in_chess", "id": 59646664, "predecessors": [{"name": "Abstract_strategy_games", "id": 3290901}], "successors": [{"name": "Women's_World_Chess_Championships", "id": 33868698}, {"name": "World_Chess_Championships", "id": 41249427}]}

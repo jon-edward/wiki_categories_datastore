@@ -1,1 +1,1 @@
-{"name": "Oil_megaprojects", "id": 25935744, "predecessors": [{"name": "Megaprojects", "id": 56698463}, {"name": "Proposed_energy_projects", "id": 27784853}], "successors": []}
+{"name": "Oil_megaprojects", "id": 25935744, "predecessors": [{"name": "Megaprojects", "id": 56698463}, {"name": "Petroleum_production", "id": 1243675}, {"name": "Proposed_energy_projects", "id": 27784853}], "successors": []}

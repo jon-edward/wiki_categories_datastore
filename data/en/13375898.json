@@ -1,1 +1,1 @@
-{"name": "Topographers", "id": 13375898, "predecessors": [{"name": "Surveyors", "id": 1827680}, {"name": "Topography", "id": 6517504}, {"name": "Cartography", "id": 716309}, {"name": "Geographic_data_and_information", "id": 51208626}], "successors": [{"name": "Selenographers", "id": 8906350}]}
+{"name": "Topographers", "id": 13375898, "predecessors": [{"name": "Surveyors", "id": 1827680}, {"name": "Topography", "id": 6517504}, {"name": "Geographers", "id": 996465}], "successors": [{"name": "Selenographers", "id": 8906350}]}

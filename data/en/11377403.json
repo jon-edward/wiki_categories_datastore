@@ -1,1 +1,1 @@
-{"name": "Ozone", "id": 11377403, "predecessors": [{"name": "Oxidizing_agents", "id": 13304159}, {"name": "Molecules", "id": 3129318}], "successors": [{"name": "Ozone_depletion", "id": 2566888}]}
+{"name": "Ozone", "id": 11377403, "predecessors": [{"name": "Oxidizing_agents", "id": 13304159}, {"name": "Molecules", "id": 3129318}, {"name": "Allotropes", "id": 23551411}], "successors": [{"name": "Ozone_depletion", "id": 2566888}]}

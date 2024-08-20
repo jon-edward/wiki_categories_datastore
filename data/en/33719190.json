@@ -1,1 +1,1 @@
-{"name": "Bank_failures_in_the_United_States", "id": 33719190, "predecessors": [{"name": "Defunct_banks_of_the_United_States", "id": 3660727}, {"name": "Banking_in_the_United_States", "id": 4680944}], "successors": [{"name": "Savings_and_loan_crisis", "id": 33870899}]}
+{"name": "Bank_failures_in_the_United_States", "id": 33719190, "predecessors": [{"name": "Bank_failures", "id": 24982078}], "successors": [{"name": "Savings_and_loan_crisis", "id": 33870899}]}

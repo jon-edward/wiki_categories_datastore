@@ -1,1 +1,1 @@
-{"name": "Artillery_of_Japan", "id": 19828667, "predecessors": [{"name": "Artillery", "id": 700053}], "successors": [{"name": "Naval_guns_of_Japan", "id": 23508341}]}
+{"name": "Artillery_of_Japan", "id": 19828667, "predecessors": [{"name": "Weapons_of_Japan", "id": 1601160}, {"name": "Artillery", "id": 700053}], "successors": [{"name": "Naval_guns_of_Japan", "id": 23508341}]}

@@ -1,1 +1,1 @@
-{"name": "Complex_numbers", "id": 736455, "predecessors": [{"name": "Numbers", "id": 698425}], "successors": [{"name": "Real_numbers", "id": 736442}, {"name": "Transcendental_numbers", "id": 746047}, {"name": "Algebraic_numbers", "id": 747570}, {"name": "Hypercomplex_numbers", "id": 6497746}]}
+{"name": "Complex_numbers", "id": 736455, "predecessors": [{"name": "Numbers", "id": 698425}], "successors": [{"name": "Real_numbers", "id": 736442}, {"name": "Algebraic_numbers", "id": 747570}, {"name": "Hypercomplex_numbers", "id": 6497746}]}

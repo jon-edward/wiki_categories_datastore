@@ -1,1 +1,1 @@
-{"name": "Birnaviridae", "id": 39703048, "predecessors": [{"name": "RNA_viruses", "id": 32647214}], "successors": []}
+{"name": "Birnaviridae", "id": 39703048, "predecessors": [{"name": "Riboviria", "id": 60178825}, {"name": "RNA_viruses", "id": 32647214}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Demographics_indicators", "id": 66348877, "predecessors": [{"name": "Demographics", "id": 1012175}, {"name": "Population_geography", "id": 67794624}, {"name": "Index_numbers", "id": 5150530}], "successors": [{"name": "International_quality_of_life_rankings", "id": 51428127}]}
+{"name": "Demographics_indicators", "id": 66348877, "predecessors": [{"name": "Indicators", "id": 68060457}, {"name": "Index_numbers", "id": 5150530}], "successors": [{"name": "International_quality_of_life_rankings", "id": 51428127}]}

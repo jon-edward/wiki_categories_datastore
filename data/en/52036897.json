@@ -1,1 +1,1 @@
-{"name": "Animal_painters", "id": 52036897, "predecessors": [{"name": "Animal_artists", "id": 2401574}, {"name": "Painting", "id": 707606}], "successors": [{"name": "Italian_painters_of_animals", "id": 35111279}, {"name": "German_painters_of_animals", "id": 70385175}]}
+{"name": "Animal_painters", "id": 52036897, "predecessors": [{"name": "Animal_artists", "id": 2401574}], "successors": []}

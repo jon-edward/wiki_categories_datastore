@@ -1,1 +1,1 @@
-{"name": "Rationing", "id": 6549001, "predecessors": [{"name": "Economic_planning", "id": 6541719}, {"name": "Market_structure", "id": 5038095}, {"name": "Regulation", "id": 35504121}, {"name": "Scarcity", "id": 2108640}, {"name": "Disasters", "id": 745842}], "successors": [{"name": "Rationing_by_country", "id": 48010081}]}
+{"name": "Rationing", "id": 6549001, "predecessors": [{"name": "Economic_planning", "id": 6541719}], "successors": [{"name": "Rationing_by_country", "id": 48010081}]}

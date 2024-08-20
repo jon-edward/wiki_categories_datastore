@@ -1,1 +1,1 @@
-{"name": "Boston_City_Council", "id": 73944849, "predecessors": [{"name": "City_councils_in_the_United_States", "id": 42367940}, {"name": "Government_of_Boston", "id": 16136919}], "successors": [{"name": "Boston_City_Council_elections", "id": 68911427}]}
+{"name": "Boston_City_Council", "id": 73944849, "predecessors": [{"name": "City_councils_in_the_United_States", "id": 42367940}], "successors": [{"name": "Boston_City_Council_members", "id": 32253290}, {"name": "Boston_City_Council_elections", "id": 68911427}]}

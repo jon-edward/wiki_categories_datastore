@@ -1,1 +1,1 @@
-{"name": "Microsoft_Windows", "id": 3292956, "predecessors": [{"name": "Оперативни_системи_Microsoft-а", "id": 697431}, {"name": "Дигитална_технологија", "id": 609830}], "successors": []}
+{"name": "Microsoft_Windows", "id": 3292956, "predecessors": [{"name": "Оперативни_системи", "id": 25932}, {"name": "Дигитална_технологија", "id": 609830}], "successors": [{"name": "Microsoft_Windows_компоненте", "id": 4011068}]}

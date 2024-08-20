@@ -1,1 +1,1 @@
-{"name": "Marshals", "id": 1354763, "predecessors": [{"name": "Military_leadership", "id": 70961505}, {"name": "Military_personnel", "id": 6660319}], "successors": []}
+{"name": "Marshals", "id": 1354763, "predecessors": [{"name": "Military_personnel", "id": 6660319}], "successors": [{"name": "Marshals_of_the_air_force", "id": 9215215}, {"name": "Field_marshals", "id": 42678544}]}

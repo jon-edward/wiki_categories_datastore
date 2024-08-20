@@ -1,1 +1,1 @@
-{"name": "Venäjän_poliisitoimi", "id": 810445, "predecessors": [{"name": "Venäjän_laki", "id": 540184}, {"name": "Poliisitoimi", "id": 26869}], "successors": [{"name": "Venäläiset_rikolliset", "id": 330988}]}
+{"name": "Venäjän_poliisitoimi", "id": 810445, "predecessors": [{"name": "Venäjän_laki", "id": 540184}, {"name": "Poliisitoimi", "id": 26869}], "successors": [{"name": "Venäläiset_rikolliset", "id": 330988}, {"name": "Venäjän_vankilat", "id": 1090719}]}

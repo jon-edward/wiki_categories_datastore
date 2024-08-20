@@ -1,1 +1,1 @@
-{"name": "Ecological_succession", "id": 10293001, "predecessors": [{"name": "Community_ecology", "id": 11111681}, {"name": "Habitats", "id": 12244798}], "successors": [{"name": "Wildfire_ecology", "id": 29045671}]}
+{"name": "Ecological_succession", "id": 10293001, "predecessors": [{"name": "Community_ecology", "id": 11111681}, {"name": "Habitats", "id": 12244798}], "successors": [{"name": "Ruderal_species", "id": 22143940}, {"name": "Wildfire_ecology", "id": 29045671}]}

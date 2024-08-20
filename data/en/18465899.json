@@ -1,1 +1,1 @@
-{"name": "Shipping_Forecast_areas", "id": 18465899, "predecessors": [{"name": "Weather_forecasting", "id": 31654924}, {"name": "Cartography", "id": 716309}], "successors": [{"name": "Irish_Sea", "id": 3611190}]}
+{"name": "Shipping_Forecast_areas", "id": 18465899, "predecessors": [{"name": "Geographic_position", "id": 65166917}], "successors": [{"name": "Irish_Sea", "id": 3611190}]}

@@ -1,1 +1,1 @@
-{"name": "Dagbladet", "id": 180662, "predecessors": [{"name": "Aller_Media", "id": 1091524}, {"name": "Aviser_i_Oslo", "id": 47383}, {"name": "Norske_riksdekkende_aviser", "id": 63595}], "successors": [{"name": "Redaktører_for_Dagbladet", "id": 331729}, {"name": "Journalister_i_Dagbladet", "id": 534216}]}
+{"name": "Dagbladet", "id": 180662, "predecessors": [{"name": "Aller_Media", "id": 1091524}, {"name": "Aviser_i_Oslo", "id": 47383}, {"name": "Norske_riksdekkende_aviser", "id": 63595}], "successors": [{"name": "Personer_tilknyttet_Dagbladet", "id": 2048989}]}

@@ -1,1 +1,0 @@
-{"name": "Settlement_geography", "id": 44706236, "predecessors": [{"name": "Human_geography", "id": 1111700}, {"name": "Population_geography", "id": 67794624}], "successors": [{"name": "Urban_geography", "id": 2643247}, {"name": "Rural_geography", "id": 4325785}, {"name": "City", "id": 9467493}, {"name": "Internal_migration", "id": 39358485}]}

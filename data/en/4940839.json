@@ -1,1 +1,1 @@
-{"name": "Gold_mining_companies", "id": 4940839, "predecessors": [{"name": "Gold_mining", "id": 3046004}], "successors": []}
+{"name": "Gold_mining_companies", "id": 4940839, "predecessors": [{"name": "Mining_companies", "id": 1327917}], "successors": []}

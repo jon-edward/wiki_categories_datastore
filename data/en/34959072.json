@@ -1,1 +1,1 @@
-{"name": "Media_access_control", "id": 34959072, "predecessors": [{"name": "Access_control", "id": 7590810}, {"name": "IEEE_802", "id": 2067440}, {"name": "Internet_protocols", "id": 1034331}, {"name": "Link_protocols", "id": 2186313}], "successors": []}
+{"name": "Media_access_control", "id": 34959072, "predecessors": [{"name": "IEEE_802", "id": 2067440}, {"name": "Internet_protocols", "id": 1034331}, {"name": "Link_protocols", "id": 2186313}], "successors": [{"name": "Channel_access_methods", "id": 1059519}]}

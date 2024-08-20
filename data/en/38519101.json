@@ -1,1 +1,1 @@
-{"name": "Tram_stops_in_Manchester", "id": 38519101, "predecessors": [{"name": "Railway_stations_in_Manchester", "id": 8582885}], "successors": []}
+{"name": "Tram_stops_in_Manchester", "id": 38519101, "predecessors": [{"name": "Railway_stations_in_Manchester", "id": 8582885}, {"name": "Rail_transport_in_Greater_Manchester", "id": 13820783}], "successors": []}

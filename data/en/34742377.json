@@ -1,1 +1,1 @@
-{"name": "Legal_professional_privilege", "id": 34742377, "predecessors": [{"name": "Legal_ethics", "id": 692704}, {"name": "Legal_professions", "id": 23242540}, {"name": "Privileged_communication", "id": 27224862}], "successors": []}
+{"name": "Legal_professional_privilege", "id": 34742377, "predecessors": [{"name": "Privileged_communication", "id": 27224862}], "successors": []}

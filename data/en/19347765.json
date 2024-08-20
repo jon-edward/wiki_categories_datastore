@@ -1,1 +1,1 @@
-{"name": "Thin-film_cells", "id": 19347765, "predecessors": [{"name": "Thin_films", "id": 3189331}], "successors": [{"name": "Thin-film_cell_manufacturers", "id": 19552511}]}
+{"name": "Thin-film_cells", "id": 19347765, "predecessors": [{"name": "Solar_cells", "id": 18525623}, {"name": "Thin_films", "id": 3189331}], "successors": [{"name": "Thin-film_cell_manufacturers", "id": 19552511}]}

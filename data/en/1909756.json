@@ -1,1 +1,1 @@
-{"name": "Public_universities", "id": 1909756, "predecessors": [{"name": "Government_research", "id": 34575403}, {"name": "Education", "id": 696763}], "successors": [{"name": "Public_medical_universities", "id": 68352267}]}
+{"name": "Public_universities", "id": 1909756, "predecessors": [{"name": "Public_sphere", "id": 46279088}], "successors": [{"name": "Public_medical_universities", "id": 68352267}]}

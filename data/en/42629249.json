@@ -1,1 +1,1 @@
-{"name": "Textbook_publishing_companies", "id": 42629249, "predecessors": [{"name": "Educational_book_publishing_companies", "id": 8079671}, {"name": "Textbook_business", "id": 42629516}], "successors": [{"name": "Cengage", "id": 18488930}]}
+{"name": "Textbook_publishing_companies", "id": 42629249, "predecessors": [{"name": "Textbook_business", "id": 42629516}], "successors": [{"name": "Cengage", "id": 18488930}]}

@@ -1,1 +1,1 @@
-{"name": "Methods_of_proof", "id": 34927528, "predecessors": [{"name": "Philosophical_methodology", "id": 22393833}, {"name": "Proof_theory", "id": 693693}], "successors": []}
+{"name": "Methods_of_proof", "id": 34927528, "predecessors": [{"name": "Proof_theory", "id": 693693}], "successors": [{"name": "Wellfoundedness", "id": 7438165}]}

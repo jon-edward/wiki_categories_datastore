@@ -1,1 +1,1 @@
-{"name": "French_horse_trainers", "id": 3031109, "predecessors": [{"name": "Horse_trainers", "id": 1210878}], "successors": []}
+{"name": "French_horse_trainers", "id": 3031109, "predecessors": [{"name": "Horse_trainers", "id": 1210878}, {"name": "Sport_in_France", "id": 3049496}], "successors": []}

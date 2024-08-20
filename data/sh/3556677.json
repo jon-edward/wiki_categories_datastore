@@ -1,1 +1,1 @@
-{"name": "Osvajači_olimpijskih_medalja_u_tenisu", "id": 3556677, "predecessors": [{"name": "Tenis", "id": 10892}, {"name": "Olimpijske_igre", "id": 7192}], "successors": [{"name": "Olimpijski_pobjednici_u_tenisu", "id": 73555}]}
+{"name": "Osvajači_olimpijskih_medalja_u_tenisu", "id": 3556677, "predecessors": [{"name": "Tenis", "id": 10892}, {"name": "Olimpijske_igre", "id": 7192}, {"name": "Sportovi_na_Ljetnim_olimpijskim_igrama", "id": 3556655}], "successors": [{"name": "Olimpijski_pobjednici_u_tenisu", "id": 73555}]}

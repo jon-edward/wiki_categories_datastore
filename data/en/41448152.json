@@ -1,1 +1,0 @@
-{"name": "25_kV_AC_railway_electrification", "id": 41448152, "predecessors": [{"name": "Electric_rail_transport", "id": 7031362}], "successors": [{"name": "25_kV_AC_locomotives", "id": 12716908}, {"name": "25_kV_AC_multiple_units", "id": 58264822}]}

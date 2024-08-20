@@ -1,1 +1,1 @@
-{"name": "Lentil_dishes", "id": 24399924, "predecessors": [{"name": "Edible_legumes", "id": 11531028}], "successors": []}
+{"name": "Lentil_dishes", "id": 24399924, "predecessors": [{"name": "Legume_dishes", "id": 11367803}, {"name": "Edible_legumes", "id": 11531028}], "successors": []}

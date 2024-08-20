@@ -1,1 +1,1 @@
-{"name": "Books_about_artists", "id": 42503035, "predecessors": [{"name": "Arts_occupations", "id": 5638026}, {"name": "Books_about_creativity", "id": 35854878}], "successors": [{"name": "Novels_about_artists", "id": 32501386}, {"name": "Biographies_about_artists", "id": 38249018}]}
+{"name": "Books_about_artists", "id": 42503035, "predecessors": [{"name": "Biography_(genre)", "id": 6277368}], "successors": [{"name": "Novels_about_artists", "id": 32501386}, {"name": "Biographies_about_artists", "id": 38249018}]}

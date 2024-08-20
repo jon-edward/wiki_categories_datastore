@@ -1,1 +1,1 @@
-{"name": "Films_postponed_due_to_the_COVID-19_pandemic", "id": 63348271, "predecessors": [{"name": "Films_impacted_by_the_COVID-19_pandemic", "id": 65048816}], "successors": []}
+{"name": "Films_postponed_due_to_the_COVID-19_pandemic", "id": 63348271, "predecessors": [{"name": "Films_impacted_by_the_COVID-19_pandemic", "id": 65048816}, {"name": "Events_affected_by_the_COVID-19_pandemic", "id": 64946210}], "successors": []}

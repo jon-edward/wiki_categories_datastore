@@ -1,0 +1,1 @@
+{"name": "Cotton_production", "id": 29761726, "predecessors": [{"name": "Cotton", "id": 22598830}], "successors": [{"name": "Cotton_diseases", "id": 9598331}, {"name": "Cotton_gin", "id": 45584517}]}

@@ -1,1 +1,1 @@
-{"name": "Agronomists", "id": 2299072, "predecessors": [{"name": "Agronomy", "id": 2298488}, {"name": "Agriculture", "id": 694871}], "successors": []}
+{"name": "Agronomists", "id": 2299072, "predecessors": [{"name": "Agronomy", "id": 2298488}], "successors": [{"name": "Textile_scientists", "id": 13499915}]}

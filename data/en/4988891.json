@@ -1,1 +1,1 @@
-{"name": "Vacuum_cleaners", "id": 4988891, "predecessors": [{"name": "Cleaning_tools", "id": 1556847}, {"name": "Home_appliances", "id": 1392560}], "successors": [{"name": "Vacuum_cleaner_manufacturers", "id": 25667658}, {"name": "Robotic_vacuum_cleaners", "id": 32329355}]}
+{"name": "Vacuum_cleaners", "id": 4988891, "predecessors": [{"name": "Cleaning_tools", "id": 1556847}, {"name": "Home_appliances", "id": 1392560}], "successors": [{"name": "Robotic_vacuum_cleaners", "id": 32329355}]}

@@ -1,1 +1,1 @@
-{"name": "Curtis_Cup", "id": 7857383, "predecessors": [{"name": "Amateur_golf_tournaments", "id": 1507234}, {"name": "Team_golf_tournaments", "id": 1458728}, {"name": "United_States_Golf_Association_championships", "id": 4802579}, {"name": "Women's_golf", "id": 4343092}], "successors": [{"name": "Curtis_Cup_venues", "id": 8048959}]}
+{"name": "Curtis_Cup", "id": 7857383, "predecessors": [{"name": "Amateur_golf_tournaments", "id": 1507234}, {"name": "United_States_Golf_Association_championships", "id": 4802579}], "successors": [{"name": "Curtis_Cup_venues", "id": 8048959}]}

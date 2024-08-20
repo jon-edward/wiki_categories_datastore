@@ -1,1 +1,1 @@
-{"name": "Nagoya_Municipal_Subway", "id": 8048687, "predecessors": [{"name": "Rapid_transit", "id": 4286827}], "successors": [{"name": "Stations_of_Nagoya_Municipal_Subway", "id": 18789328}]}
+{"name": "Nagoya_Municipal_Subway", "id": 8048687, "predecessors": [{"name": "Companies_based_in_Nagoya", "id": 31214558}, {"name": "Transport_in_Nagoya", "id": 31215206}, {"name": "Rapid_transit", "id": 4286827}], "successors": [{"name": "Stations_of_Nagoya_Municipal_Subway", "id": 18789328}]}

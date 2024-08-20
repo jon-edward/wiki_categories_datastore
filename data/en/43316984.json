@@ -1,1 +1,1 @@
-{"name": "Cretaceous_Alberta", "id": 43316984, "predecessors": [{"name": "Cretaceous_Canada", "id": 47197380}], "successors": [{"name": "Milk_River_Formation", "id": 54206848}]}
+{"name": "Cretaceous_Alberta", "id": 43316984, "predecessors": [{"name": "Cretaceous_Canada", "id": 47197380}, {"name": "Geology_of_Alberta", "id": 20468981}], "successors": [{"name": "Oldman_fauna", "id": 51025161}, {"name": "Dinosaur_Park_fauna", "id": 51079211}, {"name": "Milk_River_Formation", "id": 54206848}]}

@@ -1,1 +1,1 @@
-{"name": "Russian_military_radars", "id": 74901604, "predecessors": [{"name": "Military_electronics_of_Russia", "id": 57632958}, {"name": "Military_equipment_of_Russia", "id": 2993331}, {"name": "Military_installations_of_Russia", "id": 30274614}, {"name": "Military_radars", "id": 14915936}, {"name": "Radar_stations", "id": 39983116}], "successors": []}
+{"name": "Russian_military_radars", "id": 74901604, "predecessors": [{"name": "Military_radars", "id": 14915936}, {"name": "Radar_stations", "id": 39983116}], "successors": []}

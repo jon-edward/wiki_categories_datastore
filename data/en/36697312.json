@@ -1,1 +1,1 @@
-{"name": "Swiss_women_academics", "id": 36697312, "predecessors": [{"name": "Women_educators", "id": 39252119}], "successors": [{"name": "Swiss_women_economists", "id": 58507418}, {"name": "Swiss_women_historians", "id": 65139018}]}
+{"name": "Swiss_women_academics", "id": 36697312, "predecessors": [{"name": "Swiss_academics", "id": 4725670}, {"name": "Education_in_Switzerland", "id": 2319762}], "successors": [{"name": "Swiss_women_economists", "id": 58507418}, {"name": "Swiss_women_historians", "id": 65139018}]}

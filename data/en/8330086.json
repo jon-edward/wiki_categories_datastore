@@ -1,1 +1,1 @@
-{"name": "Yamaha_synthesizers", "id": 8330086, "predecessors": [{"name": "Yamaha_music_products", "id": 2590736}, {"name": "Musical_instruments", "id": 691595}], "successors": [{"name": "Vocaloid", "id": 30236083}]}
+{"name": "Yamaha_synthesizers", "id": 8330086, "predecessors": [{"name": "Yamaha_music_products", "id": 2590736}, {"name": "Music_software", "id": 4391730}], "successors": [{"name": "Vocaloid", "id": 30236083}]}

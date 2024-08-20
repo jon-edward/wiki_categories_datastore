@@ -1,1 +1,1 @@
-{"name": "Romantic_fantasy_novels", "id": 35000768, "predecessors": [{"name": "Romance_genres", "id": 35003032}, {"name": "Fantasy_genres", "id": 1949693}], "successors": []}
+{"name": "Romantic_fantasy_novels", "id": 35000768, "predecessors": [{"name": "Fantasy_novels", "id": 1595179}, {"name": "Romance_genres", "id": 35003032}, {"name": "Fantasy_genres", "id": 1949693}], "successors": []}

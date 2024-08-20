@@ -1,1 +1,1 @@
-{"name": "Drugs_developed_by_Sun_Pharma", "id": 63132481, "predecessors": [{"name": "Drug_brand_names", "id": 21183991}, {"name": "Health_care", "id": 35880954}, {"name": "Indian_brands", "id": 8973236}], "successors": []}
+{"name": "Drugs_developed_by_Sun_Pharma", "id": 63132481, "predecessors": [{"name": "Drug_brand_names", "id": 21183991}, {"name": "Vaccine_producers", "id": 25149024}], "successors": []}

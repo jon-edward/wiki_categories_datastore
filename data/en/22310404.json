@@ -1,1 +1,1 @@
-{"name": "Quantum_magnetism", "id": 22310404, "predecessors": [{"name": "Magnetism", "id": 982364}, {"name": "Quantum_mechanics", "id": 697231}], "successors": []}
+{"name": "Quantum_magnetism", "id": 22310404, "predecessors": [{"name": "Condensed_matter_physics", "id": 692176}, {"name": "Magnetism", "id": 982364}, {"name": "Quantum_mechanics", "id": 697231}], "successors": []}

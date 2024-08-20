@@ -1,1 +1,1 @@
-{"name": "Manslaughter", "id": 20173115, "predecessors": [{"name": "Crimes", "id": 694944}, {"name": "Criminal_law", "id": 692799}, {"name": "Killings_by_type", "id": 50222534}, {"name": "Homicide", "id": 11692544}], "successors": [{"name": "Manslaughter_victims", "id": 13047306}]}
+{"name": "Manslaughter", "id": 20173115, "predecessors": [{"name": "Criminal_law", "id": 692799}, {"name": "Killings_by_type", "id": 50222534}, {"name": "Homicide", "id": 11692544}], "successors": []}

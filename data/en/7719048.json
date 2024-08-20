@@ -1,1 +1,1 @@
-{"name": "Brick_manufacturers", "id": 7719048, "predecessors": [{"name": "Building_materials_companies", "id": 39054637}], "successors": [{"name": "Brickworks_in_Australia", "id": 54990600}, {"name": "Brickworks_in_the_United_Kingdom", "id": 54990665}]}
+{"name": "Brick_manufacturers", "id": 7719048, "predecessors": [{"name": "Building_materials_companies", "id": 39054637}, {"name": "Bricks", "id": 3975737}], "successors": [{"name": "Brickworks_in_Australia", "id": 54990600}, {"name": "Brickworks_in_the_United_Kingdom", "id": 54990665}]}

@@ -1,1 +1,1 @@
-{"name": "Water_and_society", "id": 25505074, "predecessors": [{"name": "Society", "id": 1633936}, {"name": "Water", "id": 977553}], "successors": [{"name": "Landlocked_countries", "id": 3046541}]}
+{"name": "Water_and_society", "id": 25505074, "predecessors": [{"name": "Water", "id": 977553}], "successors": [{"name": "Water_supply", "id": 4076306}, {"name": "Water_and_politics", "id": 4476466}, {"name": "Water_conservation", "id": 4496458}, {"name": "Water_management", "id": 24699861}, {"name": "Water_power", "id": 28318994}, {"name": "Water_conflicts", "id": 36888228}]}

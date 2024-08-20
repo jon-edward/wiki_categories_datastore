@@ -1,1 +1,1 @@
-{"name": "Collaborative_mapping", "id": 3658941, "predecessors": [{"name": "Cartography", "id": 716309}, {"name": "Collaboration", "id": 2934593}, {"name": "Collaborative_projects", "id": 11830035}], "successors": [{"name": "Geosocial_networking", "id": 26593966}]}
+{"name": "Collaborative_mapping", "id": 3658941, "predecessors": [{"name": "Collaborative_projects", "id": 11830035}], "successors": [{"name": "Geosocial_networking", "id": 26593966}]}

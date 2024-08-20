@@ -1,1 +1,1 @@
-{"name": "Danian_Stage", "id": 52170687, "predecessors": [{"name": "Geological_ages", "id": 47135419}, {"name": "Geological_epochs", "id": 47136043}], "successors": [{"name": "Ojo_Alamo_Formation", "id": 54206704}, {"name": "Tremp_Formation", "id": 57536185}]}
+{"name": "Danian_Stage", "id": 52170687, "predecessors": [{"name": "Geological_ages", "id": 47135419}], "successors": [{"name": "Tremp_Formation", "id": 57536185}]}

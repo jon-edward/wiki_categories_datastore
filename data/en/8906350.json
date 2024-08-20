@@ -1,1 +1,1 @@
-{"name": "Selenographers", "id": 8906350, "predecessors": [{"name": "Topographers", "id": 13375898}, {"name": "Cartography", "id": 716309}], "successors": []}
+{"name": "Selenographers", "id": 8906350, "predecessors": [{"name": "Topographers", "id": 13375898}, {"name": "Geographers", "id": 996465}], "successors": [{"name": "Giovanni_Domenico_Cassini", "id": 43359075}]}

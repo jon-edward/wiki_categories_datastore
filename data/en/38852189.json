@@ -1,1 +1,1 @@
-{"name": "Novels_about_music", "id": 38852189, "predecessors": [{"name": "Fiction_about_music", "id": 41117387}, {"name": "Music_books", "id": 1241451}, {"name": "Literary_genres", "id": 1286193}], "successors": [{"name": "Novels_about_composers", "id": 32635372}]}
+{"name": "Novels_about_music", "id": 38852189, "predecessors": [{"name": "Music_books", "id": 1241451}], "successors": [{"name": "Novels_about_composers", "id": 32635372}]}

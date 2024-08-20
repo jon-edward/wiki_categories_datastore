@@ -1,1 +1,1 @@
-{"name": "Cognitive_modeling", "id": 38495027, "predecessors": [{"name": "Cognitive_science", "id": 957793}, {"name": "Scientific_modelling", "id": 3224825}], "successors": [{"name": "Cognitive_architecture", "id": 1848480}, {"name": "Management_cybernetics", "id": 72773584}]}
+{"name": "Cognitive_modeling", "id": 38495027, "predecessors": [{"name": "Scientific_modelling", "id": 3224825}], "successors": [{"name": "Cognitive_architecture", "id": 1848480}, {"name": "Management_cybernetics", "id": 72773584}]}

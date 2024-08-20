@@ -1,1 +1,1 @@
-{"name": "Czech_Republic–Poland_border", "id": 33683979, "predecessors": [{"name": "European_Union_internal_borders", "id": 71957063}, {"name": "International_borders", "id": 29695579}], "successors": []}
+{"name": "Czech_Republic–Poland_border", "id": 33683979, "predecessors": [{"name": "International_borders", "id": 29695579}], "successors": [{"name": "Czech_Republic–Poland_border_crossings", "id": 33684531}]}

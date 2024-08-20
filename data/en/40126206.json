@@ -1,1 +1,1 @@
-{"name": "Mouse_genetics", "id": 40126206, "predecessors": [{"name": "Laboratory_mice", "id": 46858499}, {"name": "Tree_of_life_(biology)", "id": 44386495}], "successors": [{"name": "Genes_mutated_in_mice", "id": 34087453}]}
+{"name": "Mouse_genetics", "id": 40126206, "predecessors": [{"name": "Laboratory_mice", "id": 46858499}, {"name": "Animal_genetics", "id": 43526743}], "successors": []}

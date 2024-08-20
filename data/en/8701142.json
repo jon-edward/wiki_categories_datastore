@@ -1,1 +1,1 @@
-{"name": "Biogeographers", "id": 8701142, "predecessors": [{"name": "Biogeography", "id": 1902120}], "successors": [{"name": "Phytogeographers", "id": 8728315}, {"name": "Biogeochemists", "id": 52066227}]}
+{"name": "Biogeographers", "id": 8701142, "predecessors": [{"name": "Biogeography", "id": 1902120}, {"name": "Geographers", "id": 996465}], "successors": [{"name": "Phytogeographers", "id": 8728315}, {"name": "Biogeochemists", "id": 52066227}]}

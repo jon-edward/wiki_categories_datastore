@@ -1,1 +1,1 @@
-{"name": "Wind_deities", "id": 42568973, "predecessors": [{"name": "Sky_and_weather_deities", "id": 707221}, {"name": "Topics_in_culture", "id": 55426707}, {"name": "Classical_elements", "id": 6596457}], "successors": [{"name": "Wind_gods", "id": 63495350}, {"name": "Wind_goddesses", "id": 69478758}]}
+{"name": "Wind_deities", "id": 42568973, "predecessors": [{"name": "Sky_and_weather_deities", "id": 707221}, {"name": "Wind", "id": 22843034}, {"name": "Classical_elements", "id": 6596457}], "successors": []}

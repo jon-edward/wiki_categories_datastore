@@ -1,1 +1,1 @@
-{"name": "Epiphytes", "id": 6116087, "predecessors": [{"name": "Plant_morphology", "id": 2774262}], "successors": []}
+{"name": "Epiphytes", "id": 6116087, "predecessors": [{"name": "Plant_morphology", "id": 2774262}, {"name": "Plants_by_habit", "id": 22492321}], "successors": [{"name": "Epiphytic_orchids", "id": 41510091}]}

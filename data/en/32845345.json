@@ -1,1 +1,1 @@
-{"name": "Aircraft_emergency_systems", "id": 32845345, "predecessors": [{"name": "Aviation_safety", "id": 38196030}, {"name": "Safety_equipment", "id": 1206445}], "successors": [{"name": "Ejection_seats", "id": 32441832}]}
+{"name": "Aircraft_emergency_systems", "id": 32845345, "predecessors": [{"name": "Aircraft_components", "id": 2435701}, {"name": "Aircraft_systems", "id": 66517608}, {"name": "Aviation_safety", "id": 38196030}, {"name": "Safety_equipment", "id": 1206445}], "successors": [{"name": "Ejection_seats", "id": 32441832}]}

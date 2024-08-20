@@ -1,1 +1,1 @@
-{"name": "Ammonium_compounds", "id": 903331, "predecessors": [{"name": "Ammonia", "id": 60159369}, {"name": "Salts", "id": 695960}, {"name": "Nitrogen_compounds", "id": 903300}], "successors": [{"name": "Quaternary_ammonium_compounds", "id": 8722476}]}
+{"name": "Ammonium_compounds", "id": 903331, "predecessors": [{"name": "Salts", "id": 695960}], "successors": [{"name": "Ammonium_minerals", "id": 3938146}, {"name": "Quaternary_ammonium_compounds", "id": 8722476}]}

@@ -1,1 +1,0 @@
-{"name": "Doughs", "id": 23464533, "predecessors": [{"name": "Baking", "id": 1495742}, {"name": "Food_ingredients", "id": 1077080}], "successors": [{"name": "Dumplings", "id": 875244}, {"name": "Puff_pastry", "id": 47047782}, {"name": "Choux_pastry", "id": 65067218}, {"name": "Fried_dough", "id": 66551933}]}

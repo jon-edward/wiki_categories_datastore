@@ -1,1 +1,1 @@
-{"name": "Legal_disputes", "id": 7605468, "predecessors": [{"name": "Justice", "id": 2388327}, {"name": "Conflict_(process)", "id": 4168920}], "successors": [{"name": "Lawsuits", "id": 4984484}, {"name": "Digital_Millennium_Copyright_Act_takedown_incidents", "id": 14893458}, {"name": "Legal_issues_related_to_the_September_11_attacks", "id": 27253795}]}
+{"name": "Legal_disputes", "id": 7605468, "predecessors": [{"name": "Conflict_(process)", "id": 4168920}], "successors": [{"name": "Legal_issues_related_to_the_September_11_attacks", "id": 27253795}]}

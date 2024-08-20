@@ -1,1 +1,1 @@
-{"name": "National_Monuments_of_Mexico", "id": 48343503, "predecessors": [{"name": "Cultural_heritage_of_Mexico", "id": 42759621}, {"name": "Monuments_and_memorials_in_Mexico", "id": 18864277}], "successors": [{"name": "Chichen_Itza", "id": 12602678}, {"name": "Pueblos_Mágicos", "id": 44339384}]}
+{"name": "National_Monuments_of_Mexico", "id": 48343503, "predecessors": [{"name": "Cultural_heritage", "id": 3218670}], "successors": [{"name": "Chichen_Itza", "id": 12602678}, {"name": "Pueblos_Mágicos", "id": 44339384}]}

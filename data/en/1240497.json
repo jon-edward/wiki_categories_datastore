@@ -1,1 +1,1 @@
-{"name": "UGC_objects", "id": 1240497, "predecessors": [{"name": "Astronomical_catalogues", "id": 992705}, {"name": "Astronomical_catalogues_of_galaxies", "id": 4973454}], "successors": [{"name": "UGCA_objects", "id": 57758794}]}
+{"name": "UGC_objects", "id": 1240497, "predecessors": [{"name": "Astronomical_catalogues_of_galaxies", "id": 4973454}], "successors": [{"name": "UGCA_objects", "id": 57758794}]}

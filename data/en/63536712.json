@@ -1,1 +1,1 @@
-{"name": "Coronavirus_researchers", "id": 63536712, "predecessors": [{"name": "Medical_researchers", "id": 2986153}, {"name": "Infectious_diseases", "id": 707355}, {"name": "Animal_virology", "id": 13582161}], "successors": []}
+{"name": "Coronavirus_researchers", "id": 63536712, "predecessors": [{"name": "Infectious_diseases", "id": 707355}, {"name": "Coronaviridae", "id": 39557453}], "successors": [{"name": "COVID-19_researchers", "id": 69753693}]}

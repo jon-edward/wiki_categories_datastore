@@ -1,1 +1,1 @@
-{"name": "Quebec_government_departments_and_agencies", "id": 7264993, "predecessors": [{"name": "Organizations_based_in_Quebec", "id": 7813072}, {"name": "North_America", "id": 878995}], "successors": []}
+{"name": "Quebec_government_departments_and_agencies", "id": 7264993, "predecessors": [{"name": "Organizations_based_in_Quebec", "id": 7813072}, {"name": "Government_of_Quebec", "id": 8026744}, {"name": "Government_of_Canada", "id": 1611706}], "successors": [{"name": "Crown_corporations_of_Quebec", "id": 14463220}]}

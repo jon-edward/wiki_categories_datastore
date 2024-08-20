@@ -1,1 +1,1 @@
-{"name": "Los_Angeles_Clippers_draft_picks", "id": 18436097, "predecessors": [{"name": "Los_Angeles_Clippers", "id": 3957212}, {"name": "Competitions", "id": 737119}], "successors": []}
+{"name": "Los_Angeles_Clippers_draft_picks", "id": 18436097, "predecessors": [{"name": "Los_Angeles_Clippers", "id": 3957212}, {"name": "NBA_draft", "id": 44015774}], "successors": [{"name": "San_Diego_Clippers_draft_picks", "id": 18440409}, {"name": "Buffalo_Braves_draft_picks", "id": 18440722}]}

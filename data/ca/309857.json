@@ -1,1 +1,1 @@
-{"name": "Compostos_de_sodi", "id": 309857, "predecessors": [{"name": "Compostos_químics", "id": 13735}, {"name": "Elements_químics", "id": 12416}], "successors": [{"name": "Sals_de_sodi", "id": 1115548}]}
+{"name": "Compostos_de_sodi", "id": 309857, "predecessors": [{"name": "Compostos_químics", "id": 13735}, {"name": "Nutrició", "id": 27485}], "successors": [{"name": "Sals_de_sodi", "id": 1115548}]}

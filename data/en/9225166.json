@@ -1,1 +1,1 @@
-{"name": "Interoperability", "id": 9225166, "predecessors": [{"name": "Computer_architecture", "id": 869984}, {"name": "Software_architecture", "id": 1805593}, {"name": "Telecommunications_engineering", "id": 31195638}], "successors": [{"name": "Cross-platform_software", "id": 19363820}]}
+{"name": "Interoperability", "id": 9225166, "predecessors": [{"name": "Computer_architecture", "id": 869984}, {"name": "Software_architecture", "id": 1805593}], "successors": [{"name": "Backward_compatibility", "id": 4463429}, {"name": "Cross-platform_software", "id": 19363820}]}

@@ -1,1 +1,1 @@
-{"name": "Lunch_counters", "id": 22574977, "predecessors": [{"name": "Fast-food_restaurants", "id": 730142}, {"name": "Lunch", "id": 49788006}, {"name": "Restaurants_by_type", "id": 15748273}], "successors": []}
+{"name": "Lunch_counters", "id": 22574977, "predecessors": [{"name": "Fast-food_restaurants", "id": 730142}, {"name": "Restaurants_by_type", "id": 15748273}], "successors": []}

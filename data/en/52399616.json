@@ -1,1 +1,1 @@
-{"name": "Canadian_musicals", "id": 52399616, "predecessors": [{"name": "Canadian_plays", "id": 1419199}], "successors": []}
+{"name": "Canadian_musicals", "id": 52399616, "predecessors": [{"name": "Canadian_plays", "id": 1419199}, {"name": "Culture_of_Canada", "id": 713767}], "successors": [{"name": "Musicals_set_in_Canada", "id": 73713014}]}

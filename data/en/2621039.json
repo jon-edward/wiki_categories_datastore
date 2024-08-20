@@ -1,1 +1,1 @@
-{"name": "Motor_proteins", "id": 2621039, "predecessors": [{"name": "Molecular_machines", "id": 27297535}, {"name": "Proteins", "id": 717889}], "successors": []}
+{"name": "Motor_proteins", "id": 2621039, "predecessors": [{"name": "Cell_movement", "id": 8507946}, {"name": "Cytoskeleton", "id": 2614289}, {"name": "Molecular_machines", "id": 27297535}, {"name": "Proteins", "id": 717889}], "successors": []}

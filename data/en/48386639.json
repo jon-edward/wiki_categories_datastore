@@ -1,1 +1,1 @@
-{"name": "Plant_models", "id": 48386639, "predecessors": [{"name": "Model_organisms", "id": 714770}, {"name": "Cultural_anthropology", "id": 715355}], "successors": [{"name": "Arabidopsis_thaliana", "id": 40121936}]}
+{"name": "Plant_models", "id": 48386639, "predecessors": [{"name": "Model_organisms", "id": 714770}, {"name": "Plants", "id": 867260}], "successors": [{"name": "Arabidopsis_thaliana", "id": 40121936}]}

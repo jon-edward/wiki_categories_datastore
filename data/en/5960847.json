@@ -1,1 +1,1 @@
-{"name": "Cargo_airlines", "id": 5960847, "predecessors": [{"name": "Air_freight", "id": 48853765}, {"name": "Freight_transport", "id": 710066}, {"name": "Aviation", "id": 735378}], "successors": [{"name": "Defunct_cargo_airlines", "id": 49945398}]}
+{"name": "Cargo_airlines", "id": 5960847, "predecessors": [{"name": "Aviation", "id": 735378}], "successors": []}

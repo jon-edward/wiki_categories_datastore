@@ -1,1 +1,1 @@
-{"name": "Slow_movement", "id": 5360355, "predecessors": [{"name": "Simple_living", "id": 4718697}, {"name": "Social_movements", "id": 937849}], "successors": [{"name": "Cittaslow", "id": 1451546}, {"name": "Slow_Food", "id": 48643865}]}
+{"name": "Slow_movement", "id": 5360355, "predecessors": [{"name": "Simple_living", "id": 4718697}], "successors": [{"name": "Cittaslow", "id": 1451546}, {"name": "Slow_Food", "id": 48643865}]}

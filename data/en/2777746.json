@@ -1,1 +1,1 @@
-{"name": "Cosmic_rays", "id": 2777746, "predecessors": [{"name": "Astroparticle_physics", "id": 4330696}, {"name": "Radiation", "id": 2055387}], "successors": [{"name": "Cosmic-ray_telescopes", "id": 17268039}, {"name": "Cosmic-ray_experiments", "id": 23757375}, {"name": "Cosmic_ray_physicists", "id": 54294184}]}
+{"name": "Cosmic_rays", "id": 2777746, "predecessors": [{"name": "Radiation", "id": 2055387}], "successors": [{"name": "Cosmic-ray_telescopes", "id": 17268039}, {"name": "Cosmic-ray_experiments", "id": 23757375}, {"name": "Cosmic_ray_physicists", "id": 54294184}]}

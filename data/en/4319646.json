@@ -1,1 +1,1 @@
-{"name": "Organisms_living_on_hydrothermal_vents", "id": 4319646, "predecessors": [{"name": "Aquatic_organisms", "id": 1460650}, {"name": "Evolutionary_biology", "id": 714501}], "successors": []}
+{"name": "Organisms_living_on_hydrothermal_vents", "id": 4319646, "predecessors": [{"name": "Aquatic_organisms", "id": 1460650}, {"name": "Hydrothermal_vents", "id": 1095284}, {"name": "Evolutionary_biology", "id": 714501}], "successors": [{"name": "Animals_living_on_hydrothermal_vents", "id": 53554409}]}

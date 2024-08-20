@@ -1,1 +1,1 @@
-{"name": "Copper_minerals", "id": 3872520, "predecessors": [{"name": "Copper_compounds", "id": 1879505}], "successors": [{"name": "Copper_ores", "id": 55718370}, {"name": "Copper(I)_minerals", "id": 60809570}, {"name": "Copper(II)_minerals", "id": 60809571}]}
+{"name": "Copper_minerals", "id": 3872520, "predecessors": [{"name": "Copper_compounds", "id": 1879505}], "successors": [{"name": "Copper_ores", "id": 55718370}]}

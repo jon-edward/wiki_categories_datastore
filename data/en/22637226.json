@@ -1,1 +1,1 @@
-{"name": "Influenza_pandemics", "id": 22637226, "predecessors": [{"name": "Pandemics", "id": 1566802}, {"name": "Disease_outbreaks", "id": 33346982}], "successors": [{"name": "Spanish_flu", "id": 23184834}, {"name": "2009_swine_flu_pandemic", "id": 23423106}]}
+{"name": "Influenza_pandemics", "id": 22637226, "predecessors": [{"name": "Pandemics", "id": 1566802}, {"name": "Disease_outbreaks", "id": 33346982}], "successors": [{"name": "2009_swine_flu_pandemic", "id": 23423106}]}

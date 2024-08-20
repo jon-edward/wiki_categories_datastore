@@ -1,1 +1,1 @@
-{"name": "Library_history", "id": 50753242, "predecessors": [{"name": "Cultural_history", "id": 1645950}, {"name": "Library_science", "id": 30813411}], "successors": [{"name": "Ancient_libraries", "id": 34978679}]}
+{"name": "Library_history", "id": 50753242, "predecessors": [{"name": "Library_science", "id": 30813411}], "successors": [{"name": "Ancient_libraries", "id": 34978679}, {"name": "Historians_of_libraries", "id": 63109064}]}

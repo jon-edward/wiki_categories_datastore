@@ -1,1 +1,1 @@
-{"name": "Deaths_by_suicide_bomber", "id": 49177297, "predecessors": [{"name": "Deaths_by_improvised_explosive_device", "id": 17009832}, {"name": "Explosive_weapons", "id": 1150760}, {"name": "Disasters", "id": 745842}], "successors": [{"name": "Suicide_bombers", "id": 10291914}]}
+{"name": "Deaths_by_suicide_bomber", "id": 49177297, "predecessors": [{"name": "Guerrilla_warfare_tactics", "id": 11679285}], "successors": [{"name": "Suicide_bombers", "id": 10291914}]}

@@ -1,1 +1,1 @@
-{"name": "End-to-end_encryption", "id": 77048518, "predecessors": [{"name": "Cryptography", "id": 692160}, {"name": "Internet_privacy", "id": 1685628}, {"name": "Secure_communication", "id": 3826203}, {"name": "Telecommunications", "id": 700813}], "successors": []}
+{"name": "End-to-end_encryption", "id": 77048518, "predecessors": [{"name": "Computer_networks", "id": 737003}, {"name": "Cryptography", "id": 692160}, {"name": "Internet_privacy", "id": 1685628}, {"name": "Privacy_of_telecommunications", "id": 5163661}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Geometric_intersection", "id": 65402913, "predecessors": [{"name": "Computational_geometry", "id": 25230402}, {"name": "Euclidean_geometry", "id": 694421}, {"name": "Geometric_algorithms", "id": 702582}, {"name": "Operations_on_sets", "id": 66133912}], "successors": [{"name": "Intersection_theory", "id": 2783650}]}
+{"name": "Geometric_intersection", "id": 65402913, "predecessors": [{"name": "Computational_geometry", "id": 25230402}, {"name": "Euclidean_geometry", "id": 694421}], "successors": [{"name": "Intersection_theory", "id": 2783650}]}

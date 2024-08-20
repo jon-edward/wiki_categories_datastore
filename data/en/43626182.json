@@ -1,1 +1,1 @@
-{"name": "Algaculture", "id": 43626182, "predecessors": [{"name": "Algae", "id": 1460643}, {"name": "Aquaculture", "id": 16837904}, {"name": "Renewable_energy", "id": 906645}, {"name": "Sustainable_energy", "id": 14290410}], "successors": [{"name": "High_lipid_content_microalgae", "id": 4883785}, {"name": "Algal_fuel_producers", "id": 17919880}]}
+{"name": "Algaculture", "id": 43626182, "predecessors": [{"name": "Algae", "id": 1460643}, {"name": "Renewable_energy", "id": 906645}, {"name": "Sustainable_energy", "id": 14290410}], "successors": []}

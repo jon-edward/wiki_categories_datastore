@@ -1,1 +1,1 @@
-{"name": "Environmental_songs", "id": 4519006, "predecessors": [{"name": "Environmental_mass_media", "id": 22870229}, {"name": "Political_songs", "id": 14645161}, {"name": "Protest_songs", "id": 2270473}, {"name": "Culture", "id": 694861}, {"name": "Topics_in_culture", "id": 55426707}], "successors": [{"name": "Songs_about_climate_change", "id": 67418351}]}
+{"name": "Environmental_songs", "id": 4519006, "predecessors": [{"name": "Political_songs", "id": 14645161}, {"name": "Earth", "id": 754965}], "successors": [{"name": "Songs_about_climate_change", "id": 67418351}]}

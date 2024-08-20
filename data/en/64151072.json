@@ -1,1 +1,1 @@
-{"name": "Ramen_shops", "id": 64151072, "predecessors": [{"name": "Japanese_restaurants", "id": 8204456}, {"name": "Noodle_restaurants", "id": 50361694}, {"name": "Ramen", "id": 47885485}], "successors": []}
+{"name": "Ramen_shops", "id": 64151072, "predecessors": [{"name": "Noodle_restaurants", "id": 50361694}], "successors": []}

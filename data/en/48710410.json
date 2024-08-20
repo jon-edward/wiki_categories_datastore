@@ -1,1 +1,1 @@
-{"name": "Citrus_pests", "id": 48710410, "predecessors": [{"name": "Agricultural_pests", "id": 9502151}], "successors": []}
+{"name": "Citrus_pests", "id": 48710410, "predecessors": [{"name": "Agricultural_pests", "id": 9502151}, {"name": "Citrus", "id": 1505085}], "successors": []}

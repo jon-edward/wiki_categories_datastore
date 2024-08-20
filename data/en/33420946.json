@@ -1,1 +1,1 @@
-{"name": "Royal_vehicles", "id": 33420946, "predecessors": [{"name": "Vehicles", "id": 694929}, {"name": "Monarchy", "id": 1238063}], "successors": [{"name": "Royal_carriages", "id": 34138935}]}
+{"name": "Royal_vehicles", "id": 33420946, "predecessors": [{"name": "Vehicles", "id": 694929}, {"name": "Monarchy", "id": 1238063}], "successors": [{"name": "Royal_and_presidential_yachts", "id": 27952789}, {"name": "Royal_carriages", "id": 34138935}]}

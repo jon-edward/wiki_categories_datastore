@@ -1,1 +1,1 @@
-{"name": "Avian_influenza", "id": 13826620, "predecessors": [{"name": "Animal_viral_diseases", "id": 48674710}, {"name": "Bird_diseases", "id": 1223536}, {"name": "Influenza", "id": 2932559}], "successors": []}
+{"name": "Avian_influenza", "id": 13826620, "predecessors": [{"name": "Bird_diseases", "id": 1223536}, {"name": "Influenza", "id": 2932559}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Myco-heterotrophic_orchids", "id": 41549188, "predecessors": [{"name": "Parasitic_plants", "id": 7198230}], "successors": []}
+{"name": "Myco-heterotrophic_orchids", "id": 41549188, "predecessors": [{"name": "Parasites_of_fungi", "id": 55547157}, {"name": "Parasitic_plants", "id": 7198230}, {"name": "Plant_ecology", "id": 48515191}], "successors": []}

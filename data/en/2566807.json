@@ -1,1 +1,1 @@
-{"name": "Refrigerants", "id": 2566807, "predecessors": [{"name": "Chemical_compounds", "id": 695235}, {"name": "Coolants", "id": 3670551}, {"name": "Industrial_gases", "id": 27086455}], "successors": [{"name": "Water", "id": 977553}, {"name": "Halomethanes", "id": 11289761}]}
+{"name": "Refrigerants", "id": 2566807, "predecessors": [{"name": "Chemical_compounds", "id": 695235}, {"name": "Coolants", "id": 3670551}], "successors": [{"name": "Water", "id": 977553}, {"name": "Halomethanes", "id": 11289761}]}

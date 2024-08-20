@@ -1,1 +1,1 @@
-{"name": "Biochemistry_detection_reactions", "id": 68203011, "predecessors": [{"name": "Biochemical_reactions", "id": 69730945}, {"name": "Biochemistry_detection_methods", "id": 65795945}], "successors": []}
+{"name": "Biochemistry_detection_reactions", "id": 68203011, "predecessors": [{"name": "Biochemistry_detection_methods", "id": 65795945}, {"name": "Microbiology_techniques", "id": 8805195}], "successors": []}

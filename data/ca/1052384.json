@@ -1,1 +1,1 @@
-{"name": "Malalties_i_trastorns_congènits", "id": 1052384, "predecessors": [{"name": "Genètica", "id": 15507}, {"name": "Malalties_i_trastorns", "id": 868952}], "successors": [{"name": "Malalties_i_trastorns_congènits_de_l'aparell_locomotor", "id": 1098738}]}
+{"name": "Malalties_i_trastorns_congènits", "id": 1052384, "predecessors": [{"name": "Genètica", "id": 15507}, {"name": "Malalties_i_trastorns", "id": 868952}], "successors": [{"name": "Malalties_metabòliques_congènites", "id": 1046765}, {"name": "Malalties_i_trastorns_congènits_de_l'aparell_locomotor", "id": 1098738}]}

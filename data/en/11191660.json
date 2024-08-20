@@ -1,1 +1,0 @@
-{"name": "Light_water_reactors", "id": 11191660, "predecessors": [{"name": "Nuclear_power_reactor_types", "id": 4036713}], "successors": [{"name": "Pressurized_water_reactors", "id": 11191600}, {"name": "Nuclear_power_stations_using_boiling_water_reactors", "id": 31904790}]}

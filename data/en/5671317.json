@@ -1,1 +1,1 @@
-{"name": "Canadian_soldiers", "id": 5671317, "predecessors": [{"name": "Canadian_military_personnel", "id": 6676672}], "successors": [{"name": "Canadian_Army_personnel", "id": 20929498}]}
+{"name": "Canadian_soldiers", "id": 5671317, "predecessors": [{"name": "Canadian_military_personnel", "id": 6676672}], "successors": [{"name": "Canadian_Army_personnel", "id": 20929498}, {"name": "Canadian_Expeditionary_Force_soldiers", "id": 34988588}]}

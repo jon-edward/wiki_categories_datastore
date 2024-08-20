@@ -1,1 +1,1 @@
-{"name": "Peer-to-peer_file_sharing", "id": 23544932, "predecessors": [{"name": "File_sharing", "id": 802056}, {"name": "Peer-to-peer_computing", "id": 23545030}], "successors": [{"name": "BitTorrent", "id": 1844556}]}
+{"name": "Peer-to-peer_file_sharing", "id": 23544932, "predecessors": [{"name": "File_sharing", "id": 802056}, {"name": "Peer-to-peer_computing", "id": 23545030}], "successors": []}

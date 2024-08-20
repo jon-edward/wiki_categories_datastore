@@ -1,1 +1,1 @@
-{"name": "Benzodioxans", "id": 58598556, "predecessors": [{"name": "Aromatic_compounds", "id": 1369194}, {"name": "Catechol_ethers", "id": 61339146}, {"name": "Dioxanes", "id": 25897111}], "successors": []}
+{"name": "Benzodioxans", "id": 58598556, "predecessors": [{"name": "Aromatic_compounds", "id": 1369194}, {"name": "Dioxanes", "id": 25897111}, {"name": "Heterocyclic_compounds_with_2_rings", "id": 4488801}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Action-eventyrspill", "id": 1242752, "predecessors": [{"name": "Actionspill", "id": 96158}, {"name": "Eventyrspill", "id": 96163}, {"name": "Videospill", "id": 349196}], "successors": [{"name": "Metroid", "id": 383074}, {"name": "Tomb_Raider", "id": 1426255}]}
+{"name": "Action-eventyrspill", "id": 1242752, "predecessors": [{"name": "Actionspill", "id": 96158}, {"name": "Eventyrspill", "id": 96163}, {"name": "Billedkunst", "id": 129011}], "successors": [{"name": "Metroid", "id": 383074}, {"name": "Tomb_Raider", "id": 1426255}]}

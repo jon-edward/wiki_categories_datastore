@@ -1,1 +1,1 @@
-{"name": "Central_business_districts", "id": 1873084, "predecessors": [{"name": "Business", "id": 771152}], "successors": [{"name": "Financial_districts", "id": 1294788}, {"name": "Istanbul_Central_Business_District", "id": 69883660}]}
+{"name": "Central_business_districts", "id": 1873084, "predecessors": [{"name": "Neighbourhoods", "id": 1059078}], "successors": [{"name": "Financial_districts", "id": 1294788}, {"name": "Istanbul_Central_Business_District", "id": 69883660}]}

@@ -1,1 +1,1 @@
-{"name": "Paracelsus", "id": 34275060, "predecessors": [{"name": "Alchemy", "id": 793378}, {"name": "Hermeticism", "id": 3917680}, {"name": "Rosicrucianism", "id": 4531619}], "successors": [{"name": "Classical_elements", "id": 6596457}, {"name": "Paracelsians", "id": 29085366}, {"name": "Elementals", "id": 64640250}]}
+{"name": "Paracelsus", "id": 34275060, "predecessors": [{"name": "Alchemy", "id": 793378}], "successors": [{"name": "Classical_elements", "id": 6596457}, {"name": "Paracelsians", "id": 29085366}, {"name": "Elementals", "id": 64640250}]}

@@ -1,1 +1,1 @@
-{"name": "Deaths_due_to_bear_attacks", "id": 22806863, "predecessors": [{"name": "Animal_attacks", "id": 11998598}, {"name": "Bears", "id": 915444}], "successors": []}
+{"name": "Deaths_due_to_bear_attacks", "id": 22806863, "predecessors": [{"name": "Deaths_due_to_animal_attacks", "id": 6837104}, {"name": "Bears", "id": 915444}], "successors": []}

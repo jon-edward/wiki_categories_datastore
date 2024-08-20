@@ -1,1 +1,1 @@
-{"name": "Set-top_box", "id": 58156547, "predecessors": [{"name": "Consumer_electronics", "id": 880368}, {"name": "Information_appliances", "id": 3461633}, {"name": "Television_technology", "id": 1257870}], "successors": []}
+{"name": "Set-top_box", "id": 58156547, "predecessors": [{"name": "Information_appliances", "id": 3461633}, {"name": "Television_technology", "id": 1257870}], "successors": []}

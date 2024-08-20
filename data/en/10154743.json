@@ -1,1 +1,1 @@
-{"name": "Optics_journals", "id": 10154743, "predecessors": [{"name": "Optics", "id": 692743}], "successors": [{"name": "Remote_sensing_journals", "id": 64414583}]}
+{"name": "Optics_journals", "id": 10154743, "predecessors": [{"name": "Engineering_journals", "id": 6715198}, {"name": "Optics", "id": 692743}], "successors": [{"name": "Remote_sensing_journals", "id": 64414583}]}

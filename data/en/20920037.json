@@ -1,1 +1,1 @@
-{"name": "Ammunition_manufacturers", "id": 20920037, "predecessors": [{"name": "Ammunition", "id": 857579}, {"name": "Firearms", "id": 739385}], "successors": []}
+{"name": "Ammunition_manufacturers", "id": 20920037, "predecessors": [{"name": "Ammunition", "id": 857579}, {"name": "Explosives_manufacturers", "id": 30111761}, {"name": "Firearms", "id": 739385}], "successors": []}

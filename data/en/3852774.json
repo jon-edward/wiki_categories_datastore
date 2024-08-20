@@ -1,1 +1,1 @@
-{"name": "Freudians", "id": 3852774, "predecessors": [{"name": "Psychoanalysts", "id": 3607327}, {"name": "Psychological_schools", "id": 2863840}], "successors": [{"name": "Jacques_Lacan", "id": 8464415}]}
+{"name": "Freudians", "id": 3852774, "predecessors": [{"name": "Freudian_psychology", "id": 1053764}, {"name": "Psychoanalysts", "id": 3607327}, {"name": "Psychological_schools", "id": 2863840}], "successors": [{"name": "Jacques_Lacan", "id": 8464415}]}

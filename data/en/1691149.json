@@ -1,1 +1,1 @@
-{"name": "Field_artillery", "id": 1691149, "predecessors": [{"name": "Artillery_by_type", "id": 13392456}, {"name": "Weapons", "id": 698507}], "successors": []}
+{"name": "Field_artillery", "id": 1691149, "predecessors": [{"name": "Artillery_by_type", "id": 13392456}, {"name": "Weapons", "id": 698507}], "successors": [{"name": "Field_artillery_of_the_Cold_War", "id": 38820317}]}

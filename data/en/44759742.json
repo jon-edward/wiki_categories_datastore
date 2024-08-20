@@ -1,1 +1,1 @@
-{"name": "Ischemia", "id": 44759742, "predecessors": [{"name": "Angiology", "id": 1482803}, {"name": "Vascular_diseases", "id": 32535848}], "successors": [{"name": "Ischemic_heart_diseases", "id": 12180072}]}
+{"name": "Ischemia", "id": 44759742, "predecessors": [{"name": "Angiology", "id": 1482803}, {"name": "Cardiovascular_physiology", "id": 32563315}, {"name": "Vascular_diseases", "id": 32535848}], "successors": [{"name": "Ischemic_heart_diseases", "id": 12180072}]}

@@ -1,1 +1,1 @@
-{"name": "Causes_of_amputation", "id": 77358090, "predecessors": [{"name": "Amputations", "id": 36054784}, {"name": "Injuries", "id": 10158091}], "successors": []}
+{"name": "Causes_of_amputation", "id": 77358090, "predecessors": [{"name": "Causes_of_events", "id": 25448853}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Strawberries", "id": 47932853, "predecessors": [{"name": "Berries", "id": 17115366}, {"name": "Edible_fruits", "id": 39951547}, {"name": "Fragaria", "id": 8366706}], "successors": []}
+{"name": "Strawberries", "id": 47932853, "predecessors": [{"name": "Berries", "id": 17115366}, {"name": "Edible_fruits", "id": 39951547}, {"name": "Fragaria", "id": 8366706}], "successors": [{"name": "Strawberry_dishes", "id": 47792925}, {"name": "Strawberry_Shortcake_films", "id": 24091009}]}

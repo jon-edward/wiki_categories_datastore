@@ -1,1 +1,1 @@
-{"name": "68k_microprocessors", "id": 1207470, "predecessors": [{"name": "68k_architecture", "id": 58074291}, {"name": "NXP_Semiconductors", "id": 14794973}, {"name": "Instruction_set_architectures", "id": 23410612}], "successors": []}
+{"name": "68k_microprocessors", "id": 1207470, "predecessors": [{"name": "68k_architecture", "id": 58074291}, {"name": "Motorola_microprocessors", "id": 18047594}, {"name": "Instruction_set_architectures", "id": 23410612}], "successors": []}

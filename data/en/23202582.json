@@ -1,1 +1,1 @@
-{"name": "Kolkata_Metro", "id": 23202582, "predecessors": [{"name": "Transport_in_Kolkata", "id": 3836853}, {"name": "Zones_of_Indian_Railways", "id": 2136847}, {"name": "Tourism_in_India", "id": 1092951}, {"name": "Rapid_transit", "id": 4286827}], "successors": [{"name": "Kolkata_Metro_stations", "id": 31783097}]}
+{"name": "Kolkata_Metro", "id": 23202582, "predecessors": [{"name": "Zones_of_Indian_Railways", "id": 2136847}, {"name": "Rapid_transit", "id": 4286827}], "successors": [{"name": "Kolkata_Metro_stations", "id": 31783097}]}

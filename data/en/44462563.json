@@ -1,1 +1,1 @@
-{"name": "Locks_(security_device)", "id": 44462563, "predecessors": [{"name": "Doors", "id": 2867563}, {"name": "Locksmithing", "id": 1437472}, {"name": "Mechanisms_(engineering)", "id": 44366434}, {"name": "Security_technology", "id": 25388151}], "successors": []}
+{"name": "Locks_(security_device)", "id": 44462563, "predecessors": [{"name": "Doors", "id": 2867563}, {"name": "Mechanisms_(engineering)", "id": 44366434}], "successors": []}

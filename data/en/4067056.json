@@ -1,1 +1,1 @@
-{"name": "French_jazz_pianists", "id": 4067056, "predecessors": [{"name": "French_jazz_musicians", "id": 2059728}], "successors": [{"name": "French_male_jazz_pianists", "id": 76511271}]}
+{"name": "French_jazz_pianists", "id": 4067056, "predecessors": [{"name": "French_pianists", "id": 1623532}, {"name": "French_jazz_musicians", "id": 2059728}], "successors": [{"name": "French_male_jazz_pianists", "id": 76511271}]}

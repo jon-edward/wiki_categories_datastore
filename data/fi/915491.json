@@ -1,1 +1,1 @@
-{"name": "Kiovan_rakennukset_ja_rakennelmat", "id": 915491, "predecessors": [{"name": "Kaupungit", "id": 20192}, {"name": "Rakennukset_ja_rakennelmat", "id": 25177}], "successors": [{"name": "Kiovan_metro", "id": 1685665}]}
+{"name": "Kiovan_rakennukset_ja_rakennelmat", "id": 915491, "predecessors": [{"name": "Kiova", "id": 119579}, {"name": "Rakennukset_ja_rakennelmat", "id": 25177}], "successors": [{"name": "Kiovan_metro", "id": 1685665}]}

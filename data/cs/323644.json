@@ -1,1 +1,1 @@
-{"name": "Vaření", "id": 323644, "predecessors": [{"name": "Domov", "id": 391820}, {"name": "Gastronomie", "id": 4685}, {"name": "Příprava_jídla", "id": 270974}, {"name": "Záliby", "id": 4751}], "successors": []}
+{"name": "Vaření", "id": 323644, "predecessors": [{"name": "Domov", "id": 391820}, {"name": "Gastronomie", "id": 4685}, {"name": "Příprava_jídla", "id": 270974}, {"name": "Záliby", "id": 4751}], "successors": [{"name": "Fritované_pokrmy", "id": 1942885}, {"name": "Smažené_pokrmy", "id": 1942890}]}

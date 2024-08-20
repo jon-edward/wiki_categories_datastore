@@ -1,1 +1,1 @@
-{"name": "Tourist_attractions_in_Lausanne", "id": 36280259, "predecessors": [{"name": "Tourism_in_Switzerland", "id": 2727835}], "successors": [{"name": "Museums_in_Lausanne", "id": 32278100}]}
+{"name": "Tourist_attractions_in_Lausanne", "id": 36280259, "predecessors": [{"name": "Lausanne", "id": 8554456}, {"name": "Tourist_attractions_in_the_canton_of_Vaud", "id": 36263340}, {"name": "Tourism_in_Switzerland", "id": 2727835}], "successors": [{"name": "Museums_in_Lausanne", "id": 32278100}]}

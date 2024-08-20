@@ -1,0 +1,1 @@
+{"name": "Cryptographic_primitives", "id": 4266201, "predecessors": [{"name": "Cryptography", "id": 692160}], "successors": [{"name": "Random_number_generation", "id": 38066142}]}

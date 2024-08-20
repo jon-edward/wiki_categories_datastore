@@ -1,1 +1,1 @@
-{"name": "Mountain_passes_of_Switzerland", "id": 2860301, "predecessors": [{"name": "Road_transport", "id": 700964}, {"name": "Mountains", "id": 700252}], "successors": [{"name": "Rail_mountain_passes_of_Switzerland", "id": 38583774}]}
+{"name": "Mountain_passes_of_Switzerland", "id": 2860301, "predecessors": [{"name": "Road_transport", "id": 700964}, {"name": "Mountains", "id": 700252}, {"name": "Alps", "id": 757555}], "successors": [{"name": "Rail_mountain_passes_of_Switzerland", "id": 38583774}]}

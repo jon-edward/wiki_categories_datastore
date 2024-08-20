@@ -1,1 +1,1 @@
-{"name": "Lincoln_vehicles", "id": 852010, "predecessors": [{"name": "Cars_of_the_United_States", "id": 14781156}, {"name": "Ford_vehicles", "id": 704106}, {"name": "Luxury_vehicles", "id": 1028860}, {"name": "Ford_Motor_Company", "id": 24744557}], "successors": []}
+{"name": "Lincoln_vehicles", "id": 852010, "predecessors": [{"name": "Cars_of_the_United_States", "id": 14781156}, {"name": "Ford_vehicles", "id": 704106}, {"name": "Luxury_vehicles", "id": 1028860}, {"name": "Ford_Motor_Company", "id": 24744557}], "successors": [{"name": "Lincoln_Mark_series", "id": 32427062}]}

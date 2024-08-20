@@ -1,1 +1,1 @@
-{"name": "Natural_gas_vehicles", "id": 7763676, "predecessors": [{"name": "Natural_gas", "id": 930957}, {"name": "Vehicles", "id": 694929}], "successors": []}
+{"name": "Natural_gas_vehicles", "id": 7763676, "predecessors": [{"name": "Natural_gas", "id": 930957}, {"name": "Fuels", "id": 770810}], "successors": []}

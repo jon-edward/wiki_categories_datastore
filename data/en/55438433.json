@@ -1,1 +1,1 @@
-{"name": "Serving_vessels", "id": 55438433, "predecessors": [{"name": "Pottery_shapes", "id": 60573792}, {"name": "Serving_and_dining", "id": 24696567}, {"name": "Tableware", "id": 39329170}], "successors": []}
+{"name": "Serving_vessels", "id": 55438433, "predecessors": [{"name": "Pottery_shapes", "id": 60573792}, {"name": "Serving_and_dining", "id": 24696567}, {"name": "Tableware", "id": 39329170}, {"name": "Liquid_containers", "id": 38522306}], "successors": []}

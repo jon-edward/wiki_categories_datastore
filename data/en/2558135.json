@@ -1,1 +1,1 @@
-{"name": "Circles_of_latitude", "id": 2558135, "predecessors": [{"name": "Cartography", "id": 716309}, {"name": "Circles", "id": 1967267}, {"name": "Spherical_curves", "id": 66723886}], "successors": []}
+{"name": "Circles_of_latitude", "id": 2558135, "predecessors": [{"name": "Spherical_curves", "id": 66723886}], "successors": []}

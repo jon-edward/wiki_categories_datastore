@@ -1,1 +1,1 @@
-{"name": "Level_crossings", "id": 1678276, "predecessors": [{"name": "Rail_infrastructure", "id": 2962895}, {"name": "Road_infrastructure", "id": 2963113}, {"name": "Transport_infrastructure", "id": 2962532}], "successors": [{"name": "Railroad_crossing_accidents_in_the_United_States", "id": 45579544}]}
+{"name": "Level_crossings", "id": 1678276, "predecessors": [{"name": "Rail_infrastructure", "id": 2962895}, {"name": "Road_infrastructure", "id": 2963113}, {"name": "Transport_infrastructure", "id": 2962532}], "successors": []}

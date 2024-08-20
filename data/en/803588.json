@@ -1,1 +1,1 @@
-{"name": "Antiparasitic_agents", "id": 803588, "predecessors": [{"name": "Biocides", "id": 38440289}, {"name": "Parasitic_diseases", "id": 2840369}, {"name": "Medicinal_chemistry", "id": 2161858}], "successors": []}
+{"name": "Antiparasitic_agents", "id": 803588, "predecessors": [{"name": "Biocides", "id": 38440289}, {"name": "Parasitic_diseases", "id": 2840369}, {"name": "Drugs", "id": 1325883}], "successors": [{"name": "Antiprotozoal_agents", "id": 3328221}]}

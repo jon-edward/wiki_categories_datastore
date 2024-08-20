@@ -1,1 +1,1 @@
-{"name": "COVID-19_vaccine_misinformation_and_hesitancy", "id": 69791705, "predecessors": [{"name": "COVID-19_misinformation", "id": 67553427}, {"name": "Vaccine_hesitancy", "id": 61399353}], "successors": []}
+{"name": "COVID-19_vaccine_misinformation_and_hesitancy", "id": 69791705, "predecessors": [{"name": "COVID-19_misinformation", "id": 67553427}, {"name": "COVID-19_vaccines", "id": 65133612}, {"name": "Vaccine_hesitancy", "id": 61399353}], "successors": []}

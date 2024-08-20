@@ -1,1 +1,1 @@
-{"name": "Sediments", "id": 1796872, "predecessors": [{"name": "Soil", "id": 14507875}], "successors": [{"name": "Mud_volcanoes", "id": 10999284}, {"name": "Sand", "id": 25876885}, {"name": "Clay", "id": 44460418}]}
+{"name": "Sediments", "id": 1796872, "predecessors": [{"name": "Regolith", "id": 48273791}, {"name": "Soil", "id": 14507875}], "successors": [{"name": "Mud_volcanoes", "id": 10999284}, {"name": "Sand", "id": 25876885}, {"name": "Clay", "id": 44460418}]}

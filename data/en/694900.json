@@ -1,0 +1,1 @@
+{"name": "Cryptographic_software", "id": 694900, "predecessors": [{"name": "Computer_security_software", "id": 22273150}, {"name": "Cryptography", "id": 692160}, {"name": "Mathematical_software", "id": 4390019}], "successors": [{"name": "OpenPGP", "id": 1386552}, {"name": "Secure_Shell", "id": 31893479}, {"name": "Tor_(anonymity_network)", "id": 41032966}]}

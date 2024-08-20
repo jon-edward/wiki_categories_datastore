@@ -1,1 +1,1 @@
-{"name": "Galley_slaves", "id": 64821230, "predecessors": [{"name": "Justice", "id": 2388327}, {"name": "Imprisonment_and_detention", "id": 2395825}], "successors": []}
+{"name": "Galley_slaves", "id": 64821230, "predecessors": [{"name": "Penal_labour", "id": 18160710}], "successors": []}

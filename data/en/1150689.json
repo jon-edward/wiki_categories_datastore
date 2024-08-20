@@ -1,1 +1,1 @@
-{"name": "Computer_workstations", "id": 1150689, "predecessors": [{"name": "Business", "id": 771152}], "successors": [{"name": "Advanced_RISC_Computing", "id": 15326653}]}
+{"name": "Computer_workstations", "id": 1150689, "predecessors": [{"name": "Computing_and_society", "id": 1899139}], "successors": [{"name": "Unix_software", "id": 2423579}, {"name": "Advanced_RISC_Computing", "id": 15326653}, {"name": "Digital_audio_workstation_software", "id": 23143070}, {"name": "ICL_workstations", "id": 23493271}]}

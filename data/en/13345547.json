@@ -1,1 +1,1 @@
-{"name": "Mining_engineering", "id": 13345547, "predecessors": [{"name": "Mining", "id": 843521}], "successors": [{"name": "Mining_engineering_companies", "id": 20375996}]}
+{"name": "Mining_engineering", "id": 13345547, "predecessors": [{"name": "Mining", "id": 843521}], "successors": [{"name": "Mining_engineers", "id": 1702352}, {"name": "Mining_engineering_companies", "id": 20375996}, {"name": "Tailings_dams", "id": 32689391}]}

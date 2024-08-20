@@ -1,1 +1,1 @@
-{"name": "Endocrine_neoplasia", "id": 32581998, "predecessors": [{"name": "Endocrine_diseases", "id": 19895778}, {"name": "Endocrine_system", "id": 692422}, {"name": "Types_of_neoplasia", "id": 32581830}], "successors": [{"name": "Deaths_from_adrenocortical_cancer", "id": 18669398}]}
+{"name": "Endocrine_neoplasia", "id": 32581998, "predecessors": [{"name": "Endocrine_system", "id": 692422}, {"name": "Types_of_neoplasia", "id": 32581830}], "successors": [{"name": "Deaths_from_adrenocortical_cancer", "id": 18669398}]}

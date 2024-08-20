@@ -1,1 +1,1 @@
-{"name": "Video_game_marketing", "id": 9569093, "predecessors": [{"name": "Video_game_industry", "id": 9568797}, {"name": "Standards", "id": 724561}], "successors": [{"name": "Budget_ranges", "id": 28063718}]}
+{"name": "Video_game_marketing", "id": 9569093, "predecessors": [{"name": "Marketing", "id": 784409}], "successors": [{"name": "Budget_ranges", "id": 28063718}]}

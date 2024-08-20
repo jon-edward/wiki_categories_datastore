@@ -1,1 +1,1 @@
-{"name": "British_comedy_radio_programmes", "id": 36198516, "predecessors": [{"name": "British_radio_comedy", "id": 751774}], "successors": [{"name": "BBC_Radio_comedy_programmes", "id": 37981086}]}
+{"name": "British_comedy_radio_programmes", "id": 36198516, "predecessors": [{"name": "British_radio_comedy", "id": 751774}, {"name": "Radio_formats", "id": 1160577}], "successors": [{"name": "BBC_Radio_comedy_programmes", "id": 37981086}]}

@@ -1,1 +1,1 @@
-{"name": "Arabidopsis_thaliana_genes", "id": 40121935, "predecessors": [{"name": "Arabidopsis_thaliana", "id": 40121936}], "successors": []}
+{"name": "Arabidopsis_thaliana_genes", "id": 40121935, "predecessors": [{"name": "Arabidopsis_thaliana", "id": 40121936}, {"name": "Plant_genes", "id": 40122292}], "successors": []}

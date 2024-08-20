@@ -1,1 +1,1 @@
-{"name": "South_Korean_comedy-drama_films", "id": 42797302, "predecessors": [{"name": "South_Korean_comedy_films", "id": 29632738}, {"name": "South_Korean_drama_films", "id": 29632661}, {"name": "Comedy_genres", "id": 14988940}], "successors": [{"name": "South_Korean_black_comedy_films", "id": 42820351}]}
+{"name": "South_Korean_comedy-drama_films", "id": 42797302, "predecessors": [{"name": "Drama_genres", "id": 25775707}], "successors": [{"name": "South_Korean_black_comedy_films", "id": 42820351}]}

@@ -1,1 +1,1 @@
-{"name": "Motor_neuron_diseases", "id": 30447951, "predecessors": [{"name": "Rare_diseases", "id": 1116081}], "successors": [{"name": "Amyotrophic_lateral_sclerosis", "id": 51014639}, {"name": "Spinal_muscular_atrophy", "id": 52751277}]}
+{"name": "Motor_neuron_diseases", "id": 30447951, "predecessors": [{"name": "Rare_diseases", "id": 1116081}], "successors": [{"name": "Amyotrophic_lateral_sclerosis", "id": 51014639}]}

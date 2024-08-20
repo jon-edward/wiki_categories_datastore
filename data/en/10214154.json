@@ -1,1 +1,1 @@
-{"name": "Dutch_fashion", "id": 10214154, "predecessors": [{"name": "Fashion", "id": 1000816}], "successors": [{"name": "Dutch_fashion_designers", "id": 5846890}, {"name": "Clothing_brands_of_the_Netherlands", "id": 14510266}, {"name": "Holland's_Next_Top_Model", "id": 37569864}]}
+{"name": "Dutch_fashion", "id": 10214154, "predecessors": [{"name": "Culture_of_the_Netherlands", "id": 715465}], "successors": [{"name": "Dutch_fashion_designers", "id": 5846890}, {"name": "Holland's_Next_Top_Model", "id": 37569864}]}

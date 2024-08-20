@@ -1,1 +1,1 @@
-{"name": "Books_about_sportspeople", "id": 42481110, "predecessors": [{"name": "Books_about_sports", "id": 14032556}, {"name": "Occupations", "id": 787658}, {"name": "Biographical_books", "id": 9550264}], "successors": [{"name": "Sports_autobiographies", "id": 17155343}]}
+{"name": "Books_about_sportspeople", "id": 42481110, "predecessors": [{"name": "Books_about_sports", "id": 14032556}, {"name": "Entertainment", "id": 693016}], "successors": [{"name": "Sports_autobiographies", "id": 17155343}]}

@@ -1,1 +1,1 @@
-{"name": "Experimental_gene_therapies", "id": 75487851, "predecessors": [{"name": "Experimental_drugs", "id": 52517705}, {"name": "Gene_therapy", "id": 48316232}], "successors": []}
+{"name": "Experimental_gene_therapies", "id": 75487851, "predecessors": [{"name": "Gene_therapy", "id": 48316232}], "successors": []}

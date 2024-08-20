@@ -1,1 +1,1 @@
-{"name": "Racing_cars", "id": 1047165, "predecessors": [{"name": "Car_models", "id": 13698345}, {"name": "Racing_vehicles", "id": 14323308}, {"name": "Individual_sports", "id": 862248}], "successors": [{"name": "Fictional_racing_cars", "id": 14857494}]}
+{"name": "Racing_cars", "id": 1047165, "predecessors": [{"name": "Racing_vehicles", "id": 14323308}], "successors": [{"name": "Fictional_racing_cars", "id": 14857494}, {"name": "Sports_racing_cars", "id": 20542100}]}

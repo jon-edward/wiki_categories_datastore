@@ -1,1 +1,1 @@
-{"name": "Hero_shooters", "id": 50813996, "predecessors": [{"name": "Multiplayer_online_games", "id": 696446}], "successors": [{"name": "Overwatch", "id": 71939501}]}
+{"name": "Hero_shooters", "id": 50813996, "predecessors": [{"name": "Multiplayer_online_games", "id": 696446}, {"name": "Shooter_games", "id": 10984183}], "successors": [{"name": "Overwatch", "id": 71939501}]}

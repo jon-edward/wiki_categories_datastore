@@ -1,1 +1,0 @@
-{"name": "Public_key_infrastructure", "id": 46271337, "predecessors": [{"name": "Key_management", "id": 3331067}, {"name": "Transport_Layer_Security", "id": 46271292}, {"name": "Accountability", "id": 25283376}], "successors": [{"name": "Certificate_authorities", "id": 1839392}]}

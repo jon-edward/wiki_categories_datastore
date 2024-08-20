@@ -1,1 +1,1 @@
-{"name": "Firing_techniques", "id": 61424993, "predecessors": [{"name": "Artistic_techniques", "id": 891248}, {"name": "Industrial_processes", "id": 1186213}], "successors": [{"name": "Kilns", "id": 11554713}]}
+{"name": "Firing_techniques", "id": 61424993, "predecessors": [{"name": "Ceramics", "id": 2014113}, {"name": "Industrial_processes", "id": 1186213}], "successors": [{"name": "Kilns", "id": 11554713}]}

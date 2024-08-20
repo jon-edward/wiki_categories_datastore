@@ -1,1 +1,1 @@
-{"name": "AI_accelerators", "id": 50593271, "predecessors": [{"name": "Artificial_intelligence", "id": 700355}, {"name": "Hardware_acceleration", "id": 58659343}], "successors": []}
+{"name": "AI_accelerators", "id": 50593271, "predecessors": [{"name": "Artificial_intelligence", "id": 700355}, {"name": "Coprocessors", "id": 54179695}, {"name": "Hardware_acceleration", "id": 58659343}, {"name": "Computer_performance", "id": 8802994}], "successors": []}

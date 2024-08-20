@@ -1,1 +1,1 @@
-{"name": "Cleaning_product_components", "id": 2920933, "predecessors": [{"name": "Cleaning_products", "id": 1332524}, {"name": "Household_chemicals", "id": 1015680}, {"name": "Technology_systems", "id": 10958482}], "successors": [{"name": "Surfactants", "id": 2921093}, {"name": "Carbon_nanotubes", "id": 19887642}]}
+{"name": "Cleaning_product_components", "id": 2920933, "predecessors": [{"name": "Cleaning_products", "id": 1332524}, {"name": "Household_chemicals", "id": 1015680}], "successors": [{"name": "Surfactants", "id": 2921093}]}

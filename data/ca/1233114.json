@@ -1,1 +1,1 @@
-{"name": "Minerals_de_molibdè", "id": 1233114, "predecessors": [{"name": "Materials", "id": 14056}, {"name": "Elements_natius", "id": 1175371}], "successors": [{"name": "Minerals_molibdats", "id": 1417763}]}
+{"name": "Minerals_de_molibdè", "id": 1233114, "predecessors": [{"name": "Materials", "id": 14056}, {"name": "Nutrició", "id": 27485}], "successors": [{"name": "Minerals_molibdats", "id": 1417763}]}

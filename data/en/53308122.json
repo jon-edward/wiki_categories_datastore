@@ -1,1 +1,1 @@
-{"name": "Thanksgiving_in_films", "id": 53308122, "predecessors": [{"name": "Thanksgiving", "id": 5659398}, {"name": "Holidays", "id": 696391}], "successors": []}
+{"name": "Thanksgiving_in_films", "id": 53308122, "predecessors": [{"name": "Thanksgiving", "id": 5659398}, {"name": "Calendars", "id": 698466}], "successors": [{"name": "Thanksgiving_horror_films", "id": 70953098}, {"name": "Thanksgiving_comedy_films", "id": 77105137}]}

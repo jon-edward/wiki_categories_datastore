@@ -1,1 +1,1 @@
-{"name": "Art_gallery_owners", "id": 68902436, "predecessors": [{"name": "Art_museum_people", "id": 47161633}, {"name": "Art_and_design_organizations", "id": 44298014}, {"name": "Arts_occupations", "id": 5638026}, {"name": "Business", "id": 771152}], "successors": []}
+{"name": "Art_gallery_owners", "id": 68902436, "predecessors": [{"name": "Art_museum_people", "id": 47161633}], "successors": []}

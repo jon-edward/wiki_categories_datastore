@@ -1,1 +1,1 @@
-{"name": "Italian_male_jazz_musicians", "id": 76519405, "predecessors": [{"name": "Italian_jazz_musicians", "id": 2062717}], "successors": [{"name": "Italian_male_jazz_pianists", "id": 76511265}]}
+{"name": "Italian_male_jazz_musicians", "id": 76519405, "predecessors": [{"name": "Male_jazz_musicians", "id": 44810711}], "successors": [{"name": "Italian_male_jazz_pianists", "id": 76511265}]}

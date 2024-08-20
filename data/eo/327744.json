@@ -1,1 +1,1 @@
-{"name": "Kopta_Eklezio", "id": 327744, "predecessors": [{"name": "Eklezio", "id": 34773}], "successors": [{"name": "Kopta_ortodoksa_eklezio", "id": 304165}]}
+{"name": "Kopta_Eklezio", "id": 327744, "predecessors": [{"name": "Eklezio", "id": 34773}, {"name": "Koptoj", "id": 554097}], "successors": [{"name": "Kopta_ortodoksa_eklezio", "id": 304165}]}

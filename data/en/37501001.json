@@ -1,1 +1,1 @@
-{"name": "Bengali-language_books", "id": 37501001, "predecessors": [{"name": "Books", "id": 694040}, {"name": "Indian_books", "id": 6732683}, {"name": "Culture_of_Bengal", "id": 2057681}, {"name": "Bangladeshi_books", "id": 37202350}], "successors": [{"name": "Bengali-language_novels", "id": 36291857}]}
+{"name": "Bengali-language_books", "id": 37501001, "predecessors": [{"name": "Books", "id": 694040}], "successors": [{"name": "Bengali-language_novels", "id": 36291857}]}

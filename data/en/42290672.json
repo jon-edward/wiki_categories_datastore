@@ -1,1 +1,1 @@
-{"name": "British_science_journalists", "id": 42290672, "predecessors": [{"name": "British_journalists", "id": 849784}], "successors": [{"name": "British_technology_journalists", "id": 61605494}]}
+{"name": "British_science_journalists", "id": 42290672, "predecessors": [{"name": "Science_journalists", "id": 14519514}, {"name": "Journalism", "id": 698307}], "successors": [{"name": "British_technology_journalists", "id": 61605494}]}

@@ -1,1 +1,1 @@
-{"name": "Bowling", "id": 908292, "predecessors": [{"name": "Ball_games", "id": 996038}, {"name": "Individual_sports", "id": 862248}, {"name": "Indoor_sports", "id": 989568}, {"name": "Precision_sports", "id": 700726}, {"name": "Team_sports", "id": 700681}, {"name": "Throwing_games", "id": 36685406}], "successors": [{"name": "Boules", "id": 35021768}]}
+{"name": "Bowling", "id": 908292, "predecessors": [{"name": "Ball_games", "id": 996038}], "successors": [{"name": "Boules", "id": 35021768}]}

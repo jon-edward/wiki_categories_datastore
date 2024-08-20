@@ -1,1 +1,1 @@
-{"name": "Regular_3-honeycombs", "id": 59337509, "predecessors": [{"name": "Tessellation", "id": 34761102}], "successors": []}
+{"name": "Regular_3-honeycombs", "id": 59337509, "predecessors": [{"name": "3-honeycombs", "id": 77421016}, {"name": "Regular_tessellations", "id": 56630647}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Videospilltyper", "id": 2057820, "predecessors": [{"name": "Videospill", "id": 349196}], "successors": [{"name": "Nettspill", "id": 466370}, {"name": "Indiespill", "id": 1212651}, {"name": "Kunstspill", "id": 1435392}, {"name": "Gratis_videospill", "id": 2061693}]}
+{"name": "Videospilltyper", "id": 2057820, "predecessors": [{"name": "Billedkunst", "id": 129011}], "successors": [{"name": "Nettspill", "id": 466370}, {"name": "Indiespill", "id": 1212651}, {"name": "Kunstspill", "id": 1435392}, {"name": "Gratis_videospill", "id": 2061693}]}

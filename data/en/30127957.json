@@ -1,1 +1,1 @@
-{"name": "Transport_in_Nice", "id": 30127957, "predecessors": [{"name": "Nice", "id": 2875638}], "successors": []}
+{"name": "Transport_in_Nice", "id": 30127957, "predecessors": [{"name": "Nice", "id": 2875638}, {"name": "Transport_in_Provence-Alpes-Côte_d'Azur", "id": 34534391}, {"name": "Economy_of_France", "id": 1298598}], "successors": []}

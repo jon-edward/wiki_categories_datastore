@@ -1,1 +1,1 @@
-{"name": "Library_publishing", "id": 45039781, "predecessors": [{"name": "Academic_publishing", "id": 2239162}, {"name": "Electronic_publishing", "id": 13690850}, {"name": "Libraries", "id": 698261}, {"name": "Scholarly_communication", "id": 38923911}], "successors": []}
+{"name": "Library_publishing", "id": 45039781, "predecessors": [{"name": "Libraries", "id": 698261}], "successors": []}

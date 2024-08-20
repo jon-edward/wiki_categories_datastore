@@ -1,1 +1,1 @@
-{"name": "Business_failures", "id": 31774489, "predecessors": [{"name": "Failure", "id": 1353600}, {"name": "Business_economics", "id": 6551784}], "successors": [{"name": "Insolvent_companies", "id": 33637550}, {"name": "Dot-com_bubble", "id": 38601023}]}
+{"name": "Business_failures", "id": 31774489, "predecessors": [{"name": "Failure", "id": 1353600}], "successors": [{"name": "Insolvent_companies", "id": 33637550}, {"name": "Dot-com_bubble", "id": 38601023}]}

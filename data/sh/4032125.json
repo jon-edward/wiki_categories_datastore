@@ -1,1 +1,1 @@
-{"name": "Liste_kompozitora", "id": 4032125, "predecessors": [{"name": "Muzičke_liste", "id": 4032124}, {"name": "Popisi_osoba", "id": 73913}, {"name": "Klasična_muzika", "id": 72865}], "successors": []}
+{"name": "Liste_kompozitora", "id": 4032125, "predecessors": [{"name": "Liste_osoba", "id": 73913}, {"name": "Muzičke_liste", "id": 4032124}, {"name": "Klasična_muzika", "id": 72865}], "successors": []}

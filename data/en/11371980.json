@@ -1,1 +1,1 @@
-{"name": "Cancer_researchers", "id": 11371980, "predecessors": [{"name": "Cancer_research", "id": 17341662}, {"name": "Medical_researchers", "id": 2986153}, {"name": "Oncology", "id": 695159}], "successors": [{"name": "American_cancer_researchers", "id": 76550690}]}
+{"name": "Cancer_researchers", "id": 11371980, "predecessors": [{"name": "Cancer_research", "id": 17341662}, {"name": "Oncology", "id": 695159}], "successors": [{"name": "Canadian_cancer_researchers", "id": 76550696}]}

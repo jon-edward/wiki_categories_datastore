@@ -1,1 +1,1 @@
-{"name": "Ottoman_Epirus", "id": 27888599, "predecessors": [{"name": "Ottoman_Greece", "id": 10332372}], "successors": [{"name": "Ottoman_Ioannina", "id": 54968494}]}
+{"name": "Ottoman_Epirus", "id": 27888599, "predecessors": [{"name": "Ottoman_Greece", "id": 10332372}, {"name": "Epirus", "id": 4982635}], "successors": [{"name": "Janina_vilayet", "id": 42464640}, {"name": "Ottoman_Ioannina", "id": 54968494}]}

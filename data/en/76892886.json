@@ -1,1 +1,1 @@
-{"name": "Attacks_on_nightclubs_in_the_United_States", "id": 76892886, "predecessors": [{"name": "Attacks_on_buildings_and_structures_in_the_United_States", "id": 55337164}, {"name": "Nightclubs_in_the_United_States", "id": 3132049}], "successors": [{"name": "Orlando_nightclub_shooting", "id": 50821899}]}
+{"name": "Attacks_on_nightclubs_in_the_United_States", "id": 76892886, "predecessors": [{"name": "Attacks_on_nightclubs", "id": 46451974}, {"name": "Nightclubs_in_the_United_States", "id": 3132049}], "successors": [{"name": "Orlando_nightclub_shooting", "id": 50821899}]}

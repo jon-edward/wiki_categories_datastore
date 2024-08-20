@@ -1,1 +1,1 @@
-{"name": "Norwegian_state_secretaries", "id": 14883801, "predecessors": [{"name": "Norwegian_civil_servants", "id": 14466186}], "successors": []}
+{"name": "Norwegian_state_secretaries", "id": 14883801, "predecessors": [{"name": "Norwegian_civil_servants", "id": 14466186}, {"name": "Government_of_Norway", "id": 2705860}], "successors": [{"name": "Norwegian_women_state_secretaries", "id": 56208992}]}

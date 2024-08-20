@@ -1,1 +1,1 @@
-{"name": "Bioenergy_organizations", "id": 67686364, "predecessors": [{"name": "Renewable_energy_organizations", "id": 15124010}], "successors": [{"name": "Biofuel_producers", "id": 14640808}]}
+{"name": "Bioenergy_organizations", "id": 67686364, "predecessors": [{"name": "Bioenergy", "id": 9484434}, {"name": "Renewable_energy_organizations", "id": 15124010}], "successors": []}

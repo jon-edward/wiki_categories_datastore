@@ -1,1 +1,1 @@
-{"name": "Steam_boiler_types", "id": 27417567, "predecessors": [{"name": "Boilers", "id": 3684059}, {"name": "Steam_boilers", "id": 26060050}], "successors": [{"name": "Water-tube_boilers", "id": 19717391}, {"name": "Locomotive_boilers", "id": 30721427}, {"name": "Marine_boilers", "id": 40621258}]}
+{"name": "Steam_boiler_types", "id": 27417567, "predecessors": [{"name": "Boilers", "id": 3684059}, {"name": "Steam_boilers", "id": 26060050}], "successors": [{"name": "Marine_boilers", "id": 40621258}]}

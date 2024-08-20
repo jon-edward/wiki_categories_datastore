@@ -1,1 +1,1 @@
-{"name": "Insects_as_food", "id": 4675392, "predecessors": [{"name": "Meat_by_animal", "id": 51423933}, {"name": "Animals_and_humans", "id": 52196069}], "successors": [{"name": "Insects_as_feed", "id": 63692655}, {"name": "Edible_insects", "id": 66586024}]}
+{"name": "Insects_as_food", "id": 4675392, "predecessors": [{"name": "Animals_and_humans", "id": 52196069}], "successors": [{"name": "Insects_as_feed", "id": 63692655}, {"name": "Edible_insects", "id": 66586024}]}

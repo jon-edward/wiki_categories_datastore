@@ -1,1 +1,1 @@
-{"name": "DC_Comics_populated_places", "id": 27755405, "predecessors": [{"name": "DC_Comics_locations", "id": 1691540}], "successors": [{"name": "Gotham_City", "id": 12063781}]}
+{"name": "DC_Comics_populated_places", "id": 27755405, "predecessors": [{"name": "DC_Comics_locations", "id": 1691540}, {"name": "Fictional_populated_places", "id": 27686390}], "successors": [{"name": "Gotham_City", "id": 12063781}]}

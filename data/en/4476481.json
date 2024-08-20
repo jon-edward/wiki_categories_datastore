@@ -1,1 +1,1 @@
-{"name": "Hydroxy_acids", "id": 4476481, "predecessors": [{"name": "Carboxylic_acids", "id": 695889}], "successors": [{"name": "Hydroxycinnamic_acids", "id": 29800264}, {"name": "Alpha_hydroxy_acids", "id": 49958891}, {"name": "Beta_hydroxy_acids", "id": 54480401}]}
+{"name": "Hydroxy_acids", "id": 4476481, "predecessors": [{"name": "Alcohols", "id": 713775}, {"name": "Carboxylic_acids", "id": 695889}], "successors": [{"name": "Hydroxycinnamic_acids", "id": 29800264}, {"name": "Alpha_hydroxy_acids", "id": 49958891}, {"name": "Beta_hydroxy_acids", "id": 54480401}]}

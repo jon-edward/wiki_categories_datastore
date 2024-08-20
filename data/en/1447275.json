@@ -1,1 +1,1 @@
-{"name": "Music_journals", "id": 1447275, "predecessors": [{"name": "Arts_journals", "id": 30060948}, {"name": "Music_publications", "id": 1480264}, {"name": "Musicology", "id": 722408}], "successors": [{"name": "Music_theory_journals", "id": 23608229}, {"name": "Contemporary_classical_music_journals", "id": 25220003}]}
+{"name": "Music_journals", "id": 1447275, "predecessors": [{"name": "Music_publications", "id": 1480264}], "successors": [{"name": "Music_theory_journals", "id": 23608229}, {"name": "Contemporary_classical_music_journals", "id": 25220003}]}

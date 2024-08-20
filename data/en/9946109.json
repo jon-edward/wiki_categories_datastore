@@ -1,1 +1,1 @@
-{"name": "Bulk_material_handling", "id": 9946109, "predecessors": [{"name": "Freight_transport", "id": 710066}], "successors": []}
+{"name": "Bulk_material_handling", "id": 9946109, "predecessors": [{"name": "Material-handling_equipment", "id": 27004019}], "successors": []}

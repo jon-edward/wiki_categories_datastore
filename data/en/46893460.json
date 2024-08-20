@@ -1,1 +1,1 @@
-{"name": "Ribosome-inactivating_proteins", "id": 46893460, "predecessors": [{"name": "Protein_toxins", "id": 31885880}, {"name": "Proteins", "id": 717889}, {"name": "Protein_biosynthesis", "id": 6808876}], "successors": []}
+{"name": "Ribosome-inactivating_proteins", "id": 46893460, "predecessors": [{"name": "Protein_toxins", "id": 31885880}, {"name": "Proteins", "id": 717889}, {"name": "Toxins", "id": 9383331}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Medieval_Kent", "id": 40406531, "predecessors": [{"name": "History_of_Kent", "id": 1748963}], "successors": [{"name": "Kentish_saints", "id": 24774317}, {"name": "House_of_Kent", "id": 46569408}]}
+{"name": "Medieval_Kent", "id": 40406531, "predecessors": [{"name": "History_of_Kent", "id": 1748963}, {"name": "Medieval_history_of_England", "id": 43777610}], "successors": [{"name": "Kentish_saints", "id": 24774317}, {"name": "House_of_Kent", "id": 46569408}, {"name": "Kentish_monarchs", "id": 964330}]}

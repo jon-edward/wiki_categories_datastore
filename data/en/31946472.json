@@ -1,1 +1,1 @@
-{"name": "Bridge_companies", "id": 31946472, "predecessors": [{"name": "Bridge_design", "id": 35869173}, {"name": "Construction_and_civil_engineering_companies", "id": 1344089}], "successors": []}
+{"name": "Bridge_companies", "id": 31946472, "predecessors": [{"name": "Bridge_design", "id": 35869173}, {"name": "Construction_and_civil_engineering_companies", "id": 1344089}], "successors": [{"name": "King_Bridge_Company", "id": 30240722}]}

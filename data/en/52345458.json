@@ -1,1 +1,1 @@
-{"name": "Tourist_attractions_in_Geneva", "id": 52345458, "predecessors": [{"name": "Tourism_in_Switzerland", "id": 2727835}, {"name": "Economy_of_Switzerland", "id": 2726556}], "successors": [{"name": "Museums_in_Geneva", "id": 28598396}]}
+{"name": "Tourist_attractions_in_Geneva", "id": 52345458, "predecessors": [{"name": "Cantons_of_Switzerland", "id": 755371}, {"name": "Tourism_in_Switzerland", "id": 2727835}, {"name": "Cantonal_capitals_of_Switzerland", "id": 1843275}], "successors": [{"name": "Museums_in_Geneva", "id": 28598396}]}

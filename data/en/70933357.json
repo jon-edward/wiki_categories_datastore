@@ -1,1 +1,1 @@
-{"name": "Soviet_Navy_officers", "id": 70933357, "predecessors": [{"name": "Soviet_Navy_personnel", "id": 12725496}, {"name": "Soviet_military_personnel", "id": 6676972}], "successors": [{"name": "Soviet_admirals", "id": 915434}]}
+{"name": "Soviet_Navy_officers", "id": 70933357, "predecessors": [{"name": "Soviet_Navy_personnel", "id": 12725496}, {"name": "Soviet_military_officers", "id": 53948174}], "successors": [{"name": "Soviet_admirals", "id": 915434}]}

@@ -1,1 +1,1 @@
-{"name": "Endorheic_lakes_of_California", "id": 32031210, "predecessors": [{"name": "Lakes_of_California", "id": 1339256}, {"name": "Endorheic_basins_of_the_United_States", "id": 30218268}], "successors": [{"name": "Salton_Sea", "id": 35295548}]}
+{"name": "Endorheic_lakes_of_California", "id": 32031210, "predecessors": [{"name": "Lakes_of_California", "id": 1339256}, {"name": "Drainage_basins", "id": 30054622}], "successors": [{"name": "Salton_Sea", "id": 35295548}]}

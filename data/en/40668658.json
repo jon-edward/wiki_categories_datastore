@@ -1,1 +1,1 @@
-{"name": "German_male_musical_theatre_actors", "id": 40668658, "predecessors": [{"name": "German_male_singers", "id": 7981640}, {"name": "German_male_stage_actors", "id": 40387630}], "successors": []}
+{"name": "German_male_musical_theatre_actors", "id": 40668658, "predecessors": [{"name": "German_male_stage_actors", "id": 40387630}, {"name": "Theatre", "id": 698600}], "successors": []}

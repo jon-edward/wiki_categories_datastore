@@ -1,1 +1,1 @@
-{"name": "Streets_in_Budapest", "id": 10548361, "predecessors": [{"name": "Transport_in_Budapest", "id": 3313897}, {"name": "Roads_in_Hungary", "id": 3520463}], "successors": []}
+{"name": "Streets_in_Budapest", "id": 10548361, "predecessors": [{"name": "Transport_in_Budapest", "id": 3313897}, {"name": "Urban_planning", "id": 705232}], "successors": []}

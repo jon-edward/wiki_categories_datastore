@@ -1,1 +1,1 @@
-{"name": "Machine_vision", "id": 42516667, "predecessors": [{"name": "Computer_vision", "id": 797088}, {"name": "Robotics", "id": 853492}], "successors": []}
+{"name": "Machine_vision", "id": 42516667, "predecessors": [{"name": "Applications_of_computer_vision", "id": 4826208}, {"name": "Computer_vision", "id": 797088}], "successors": []}

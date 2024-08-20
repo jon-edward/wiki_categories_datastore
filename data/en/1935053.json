@@ -1,1 +1,1 @@
-{"name": "Anti-tank_rockets", "id": 1935053, "predecessors": [{"name": "Anti-tank_weapons", "id": 1023638}, {"name": "Rocket_weapons", "id": 1930654}, {"name": "Infantry", "id": 1661306}], "successors": []}
+{"name": "Anti-tank_rockets", "id": 1935053, "predecessors": [{"name": "Anti-tank_weapons", "id": 1023638}, {"name": "Rocket_weapons", "id": 1930654}, {"name": "Personal_weapons", "id": 1150767}], "successors": []}

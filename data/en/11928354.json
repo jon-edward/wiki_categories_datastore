@@ -1,1 +1,1 @@
-{"name": "Spy_rings", "id": 11928354, "predecessors": [{"name": "Clandestine_groups", "id": 4387296}, {"name": "Intelligence_operations_by_type", "id": 40544856}, {"name": "Crime_by_type", "id": 15090762}], "successors": [{"name": "Venona_project", "id": 15826956}, {"name": "Red_Orchestra_(espionage)", "id": 18916854}]}
+{"name": "Spy_rings", "id": 11928354, "predecessors": [{"name": "Clandestine_groups", "id": 4387296}, {"name": "Espionage", "id": 878532}], "successors": [{"name": "Venona_project", "id": 15826956}, {"name": "Red_Orchestra_(espionage)", "id": 18916854}]}

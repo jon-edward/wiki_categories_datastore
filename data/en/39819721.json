@@ -1,1 +1,1 @@
-{"name": "Mini_sport_utility_vehicles", "id": 39819721, "predecessors": [{"name": "Sport_utility_vehicles", "id": 39819664}], "successors": [{"name": "Subcompact_crossover_sport_utility_vehicles", "id": 74928112}]}
+{"name": "Mini_sport_utility_vehicles", "id": 39819721, "predecessors": [{"name": "Sport_utility_vehicles", "id": 39819664}, {"name": "Subcompact_cars", "id": 974877}], "successors": [{"name": "Subcompact_crossover_sport_utility_vehicles", "id": 74928112}]}

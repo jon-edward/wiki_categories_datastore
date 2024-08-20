@@ -1,1 +1,1 @@
-{"name": "Melons", "id": 992124, "predecessors": [{"name": "Edible_fruits", "id": 39951547}], "successors": [{"name": "Watermelons", "id": 47777098}]}
+{"name": "Melons", "id": 992124, "predecessors": [{"name": "Cucurbitaceae", "id": 1140444}, {"name": "Edible_fruits", "id": 39951547}], "successors": [{"name": "Watermelons", "id": 47777098}]}

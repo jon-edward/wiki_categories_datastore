@@ -1,1 +1,1 @@
-{"name": "Video_formats", "id": 3441466, "predecessors": [{"name": "Film_and_video_technology", "id": 5552682}, {"name": "Media_formats", "id": 14272021}, {"name": "Video", "id": 7513737}], "successors": []}
+{"name": "Video_formats", "id": 3441466, "predecessors": [{"name": "Film_and_video_technology", "id": 5552682}, {"name": "Media_formats", "id": 14272021}, {"name": "Video", "id": 7513737}], "successors": [{"name": "Composite_video_formats", "id": 6390628}, {"name": "Videocassette_formats", "id": 74405931}]}

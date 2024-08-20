@@ -1,1 +1,1 @@
-{"name": "Strategivideospill", "id": 1381100, "predecessors": [{"name": "Strategi", "id": 817819}, {"name": "Videospill", "id": 349196}], "successors": [{"name": "Storstrategispill", "id": 232204}, {"name": "Sanntidsstrategispill", "id": 541783}]}
+{"name": "Strategivideospill", "id": 1381100, "predecessors": [{"name": "Strategi", "id": 817819}, {"name": "Billedkunst", "id": 129011}], "successors": [{"name": "Storstrategispill", "id": 232204}, {"name": "Sanntidsstrategispill", "id": 541783}]}

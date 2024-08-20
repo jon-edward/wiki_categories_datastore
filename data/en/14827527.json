@@ -1,1 +1,1 @@
-{"name": "Fiction_about_God", "id": 14827527, "predecessors": [{"name": "Fiction_about_deities", "id": 63618182}, {"name": "Society", "id": 1633936}, {"name": "Deities", "id": 704743}], "successors": [{"name": "Divine_Comedy", "id": 34918659}]}
+{"name": "Fiction_about_God", "id": 14827527, "predecessors": [{"name": "Fiction_about_deities", "id": 63618182}, {"name": "Fiction_by_genre", "id": 5740366}], "successors": [{"name": "Divine_Comedy", "id": 34918659}, {"name": "Films_about_God", "id": 63618233}]}

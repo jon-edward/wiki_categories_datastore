@@ -1,1 +1,1 @@
-{"name": "Greek_exiles", "id": 18012206, "predecessors": [{"name": "Blacklisting", "id": 53030435}], "successors": [{"name": "Ancient_Greek_political_refugees", "id": 24250573}]}
+{"name": "Greek_exiles", "id": 18012206, "predecessors": [{"name": "Greek_diaspora", "id": 6026627}, {"name": "Exile", "id": 3526084}], "successors": [{"name": "Ancient_Greek_political_refugees", "id": 24250573}]}

@@ -1,1 +1,1 @@
-{"name": "Radio_resource_management", "id": 8107601, "predecessors": [{"name": "Network_management", "id": 1644925}, {"name": "Physical_layer_protocols", "id": 7920188}, {"name": "Radio_technology", "id": 2959298}], "successors": [{"name": "Software-defined_radio", "id": 31564898}]}
+{"name": "Radio_resource_management", "id": 8107601, "predecessors": [{"name": "Network_management", "id": 1644925}, {"name": "Physical_layer_protocols", "id": 7920188}], "successors": [{"name": "Code_division_multiple_access", "id": 16071180}, {"name": "Software-defined_radio", "id": 31564898}]}

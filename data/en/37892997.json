@@ -1,1 +1,1 @@
-{"name": "Films_based_on_musicals", "id": 37892997, "predecessors": [{"name": "Literature", "id": 692008}, {"name": "Fiction_about_music", "id": 41117387}], "successors": [{"name": "Films_based_on_musicals_based_on_films", "id": 15814665}, {"name": "Films_based_on_works_by_Stephen_Sondheim", "id": 69570501}]}
+{"name": "Films_based_on_musicals", "id": 37892997, "predecessors": [{"name": "Musicals", "id": 1028878}], "successors": [{"name": "Films_based_on_musicals_based_on_films", "id": 15814665}, {"name": "Films_based_on_works_by_Stephen_Sondheim", "id": 69570501}]}

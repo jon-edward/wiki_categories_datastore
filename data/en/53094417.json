@@ -1,1 +1,1 @@
-{"name": "Capital_budgeting", "id": 53094417, "predecessors": [{"name": "Business_planning", "id": 21041682}, {"name": "Capital_management", "id": 74274616}, {"name": "Corporate_development", "id": 71889336}], "successors": [{"name": "Capital_gains_taxes", "id": 33413386}]}
+{"name": "Capital_budgeting", "id": 53094417, "predecessors": [{"name": "Business_planning", "id": 21041682}, {"name": "Corporate_development", "id": 71889336}], "successors": [{"name": "Capital_gains_taxes", "id": 33413386}, {"name": "Fixed_asset", "id": 53226442}]}

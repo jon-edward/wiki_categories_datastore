@@ -1,1 +1,1 @@
-{"name": "Yacht_building_companies", "id": 26177398, "predecessors": [{"name": "Boat_builders", "id": 2853090}, {"name": "Sports_companies", "id": 51702833}, {"name": "Water_sports_equipment_manufacturers", "id": 23112298}], "successors": []}
+{"name": "Yacht_building_companies", "id": 26177398, "predecessors": [{"name": "Boat_builders", "id": 2853090}, {"name": "Water_sports_equipment_manufacturers", "id": 23112298}], "successors": [{"name": "Sailboat_types_built_by_Nautor_Swan", "id": 50865105}]}

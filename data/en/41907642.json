@@ -1,1 +1,1 @@
-{"name": "Smallpox_eradication", "id": 41907642, "predecessors": [{"name": "Health_campaigns", "id": 37710129}, {"name": "Smallpox", "id": 9859533}, {"name": "World_Health_Organization", "id": 3314158}], "successors": []}
+{"name": "Smallpox_eradication", "id": 41907642, "predecessors": [{"name": "Smallpox", "id": 9859533}, {"name": "World_Health_Organization", "id": 3314158}], "successors": [{"name": "Smallpox_vaccines", "id": 41388656}]}

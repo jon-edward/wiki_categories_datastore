@@ -1,1 +1,1 @@
-{"name": "Romantic_horror_films", "id": 35029219, "predecessors": [{"name": "Horror_films_by_genre", "id": 10180630}], "successors": [{"name": "Indian_romantic_horror_films", "id": 59505028}, {"name": "American_romantic_horror_films", "id": 72393509}]}
+{"name": "Romantic_horror_films", "id": 35029219, "predecessors": [{"name": "Horror_films_by_genre", "id": 10180630}, {"name": "Romantic_fiction", "id": 25138643}], "successors": [{"name": "Indian_romantic_horror_films", "id": 59505028}, {"name": "American_romantic_horror_films", "id": 72393509}]}

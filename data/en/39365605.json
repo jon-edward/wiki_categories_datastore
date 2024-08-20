@@ -1,1 +1,1 @@
-{"name": "Telemedicine", "id": 39365605, "predecessors": [{"name": "Health_informatics", "id": 3031321}, {"name": "Technology_in_society", "id": 2157920}, {"name": "Telecommunication_services", "id": 5074850}, {"name": "Videotelephony", "id": 25866614}], "successors": [{"name": "Telehealth", "id": 25737110}]}
+{"name": "Telemedicine", "id": 39365605, "predecessors": [{"name": "Health_informatics", "id": 3031321}, {"name": "Technology_in_society", "id": 2157920}, {"name": "Videotelephony", "id": 25866614}], "successors": [{"name": "Telehealth", "id": 25737110}]}

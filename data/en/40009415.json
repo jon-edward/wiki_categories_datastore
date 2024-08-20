@@ -1,1 +1,1 @@
-{"name": "SPIE_academic_journals", "id": 40009415, "predecessors": [{"name": "Academic_journals_published_by_learned_and_professional_societies", "id": 39369193}, {"name": "SPIE", "id": 62948399}], "successors": []}
+{"name": "SPIE_academic_journals", "id": 40009415, "predecessors": [{"name": "Academic_journals_published_by_learned_and_professional_societies", "id": 39369193}, {"name": "Engineering_journals", "id": 6715198}, {"name": "SPIE", "id": 62948399}], "successors": []}

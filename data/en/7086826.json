@@ -1,1 +1,1 @@
-{"name": "Laicized_Roman_Catholic_priests", "id": 7086826, "predecessors": [{"name": "Catholic_penal_canon_law", "id": 47512939}, {"name": "Clergy_removed_from_office", "id": 46316650}, {"name": "Social_groups", "id": 1093141}], "successors": [{"name": "Laicized_Roman_Catholic_bishops", "id": 8952233}]}
+{"name": "Laicized_Roman_Catholic_priests", "id": 7086826, "predecessors": [{"name": "Clergy_removed_from_office", "id": 46316650}, {"name": "Catholic_priesthood", "id": 15248662}], "successors": [{"name": "Laicized_Roman_Catholic_bishops", "id": 8952233}]}

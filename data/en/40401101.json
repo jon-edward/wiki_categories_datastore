@@ -1,1 +1,1 @@
-{"name": "Dutch_male_stage_actors", "id": 40401101, "predecessors": [{"name": "Dutch_male_actors", "id": 40388732}, {"name": "Culture_of_Europe", "id": 709679}], "successors": [{"name": "Dutch_male_musical_theatre_actors", "id": 40401030}]}
+{"name": "Dutch_male_stage_actors", "id": 40401101, "predecessors": [{"name": "Theatre", "id": 698600}], "successors": [{"name": "Dutch_male_musical_theatre_actors", "id": 40401030}]}

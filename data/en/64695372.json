@@ -1,1 +1,1 @@
-{"name": "Sirius_XM_Radio_channels", "id": 64695372, "predecessors": [{"name": "Sirius_XM", "id": 31968377}], "successors": []}
+{"name": "Sirius_XM_Radio_channels", "id": 64695372, "predecessors": [{"name": "Sirius_XM", "id": 31968377}, {"name": "Satellite_radio", "id": 1549684}], "successors": []}

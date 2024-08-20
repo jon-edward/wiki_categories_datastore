@@ -1,1 +1,1 @@
-{"name": "People_extradited_from_Canada", "id": 38360211, "predecessors": [{"name": "Prisoners_and_detainees_of_Canada", "id": 17786876}, {"name": "Foreign_relations_of_Canada", "id": 1136250}], "successors": []}
+{"name": "People_extradited_from_Canada", "id": 38360211, "predecessors": [{"name": "Prisoners_and_detainees_of_Canada", "id": 17786876}, {"name": "Imprisonment_and_detention", "id": 2395825}, {"name": "Foreign_relations_of_Canada", "id": 1136250}], "successors": [{"name": "People_extradited_from_Canada_to_the_United_States", "id": 38360208}]}

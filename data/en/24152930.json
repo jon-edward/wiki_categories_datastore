@@ -1,1 +1,1 @@
-{"name": "Coin_flipping", "id": 24152930, "predecessors": [{"name": "Gambling_mathematics", "id": 17887902}, {"name": "Games_of_chance", "id": 29492459}], "successors": []}
+{"name": "Coin_flipping", "id": 24152930, "predecessors": [{"name": "Coin_games", "id": 3911329}], "successors": []}

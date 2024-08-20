@@ -1,1 +1,1 @@
-{"name": "Arthurian_theatre", "id": 10483194, "predecessors": [{"name": "Works_based_on_European_myths_and_legends", "id": 32109285}, {"name": "Theatrical_genres", "id": 1231826}, {"name": "Arthurian_legend", "id": 922468}], "successors": [{"name": "Arthurian_operas", "id": 28856362}]}
+{"name": "Arthurian_theatre", "id": 10483194, "predecessors": [{"name": "Theatrical_genres", "id": 1231826}, {"name": "Arthurian_legend", "id": 922468}, {"name": "Legends", "id": 1065086}], "successors": [{"name": "Arthurian_operas", "id": 28856362}]}

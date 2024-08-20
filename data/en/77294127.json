@@ -1,1 +1,1 @@
-{"name": "Milk_desserts", "id": 77294127, "predecessors": [{"name": "Milk_dishes", "id": 56517053}, {"name": "Desserts", "id": 691015}], "successors": [{"name": "Rice_pudding", "id": 6416792}, {"name": "Cheese_desserts", "id": 65235983}]}
+{"name": "Milk_desserts", "id": 77294127, "predecessors": [{"name": "Milk_dishes", "id": 56517053}], "successors": [{"name": "Rice_pudding", "id": 6416792}]}

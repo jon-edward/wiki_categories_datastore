@@ -1,1 +1,1 @@
-{"name": "Children's_hospitals", "id": 2141270, "predecessors": [{"name": "Child_welfare", "id": 16798447}, {"name": "Children's_health-related_organizations", "id": 39577090}, {"name": "Organizations_for_children_with_health_issues", "id": 39577199}, {"name": "Pediatrics", "id": 790701}, {"name": "Types_of_hospitals", "id": 71789932}], "successors": []}
+{"name": "Children's_hospitals", "id": 2141270, "predecessors": [{"name": "Types_of_hospitals", "id": 71789932}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Camino_de_Santiago", "id": 43675108, "predecessors": [{"name": "Christian_pilgrimages", "id": 30966505}, {"name": "Cultural_tourism_in_Spain", "id": 55743668}, {"name": "Hiking_trails_in_Spain", "id": 22864991}], "successors": [{"name": "Camino_de_Santiago_routes", "id": 61571891}]}
+{"name": "Camino_de_Santiago", "id": 43675108, "predecessors": [{"name": "Christian_pilgrimages", "id": 30966505}], "successors": [{"name": "Camino_de_Santiago_routes", "id": 61571891}]}

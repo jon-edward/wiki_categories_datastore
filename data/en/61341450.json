@@ -1,1 +1,1 @@
-{"name": "Phenoxypropanolamines", "id": 61341450, "predecessors": [{"name": "Ethanolamines", "id": 53947588}, {"name": "Phenol_ethers", "id": 749631}], "successors": [{"name": "N-isopropyl-phenoxypropanolamines", "id": 60947525}, {"name": "N-tert-butyl-phenoxypropanolamines", "id": 61341468}]}
+{"name": "Phenoxypropanolamines", "id": 61341450, "predecessors": [{"name": "Ethanolamines", "id": 53947588}, {"name": "Phenol_ethers", "id": 749631}, {"name": "Secondary_alcohols", "id": 38716838}], "successors": [{"name": "N-isopropyl-phenoxypropanolamines", "id": 60947525}]}

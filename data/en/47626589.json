@@ -1,1 +1,1 @@
-{"name": "Christian_sculptures", "id": 47626589, "predecessors": [{"name": "Religious_sculptures", "id": 47626598}], "successors": [{"name": "Catholic_sculpture", "id": 22491082}, {"name": "Sculptures_of_saints", "id": 41411947}]}
+{"name": "Christian_sculptures", "id": 47626589, "predecessors": [{"name": "Religious_sculptures", "id": 47626598}, {"name": "Christian_art", "id": 1189213}], "successors": [{"name": "Sculptures_of_saints", "id": 41411947}]}

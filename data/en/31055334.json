@@ -1,1 +1,1 @@
-{"name": "Pig_farming", "id": 31055334, "predecessors": [{"name": "Agriculture_by_type", "id": 31038144}, {"name": "Pigs", "id": 922680}], "successors": []}
+{"name": "Pig_farming", "id": 31055334, "predecessors": [{"name": "Pigs", "id": 922680}], "successors": []}

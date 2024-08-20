@@ -1,1 +1,1 @@
-{"name": "III-V_semiconductors", "id": 49305500, "predecessors": [{"name": "III-V_compounds", "id": 5012035}], "successors": []}
+{"name": "III-V_semiconductors", "id": 49305500, "predecessors": [{"name": "III-V_compounds", "id": 5012035}, {"name": "Semiconductor_materials", "id": 3088470}], "successors": []}

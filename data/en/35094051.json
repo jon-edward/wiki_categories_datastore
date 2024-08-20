@@ -1,1 +1,1 @@
-{"name": "Residential_buildings_in_London", "id": 35094051, "predecessors": [{"name": "Housing_in_London", "id": 6194784}, {"name": "Housing_in_England", "id": 34523050}, {"name": "Architecture_of_London", "id": 735987}], "successors": []}
+{"name": "Residential_buildings_in_London", "id": 35094051, "predecessors": [{"name": "Housing_in_London", "id": 6194784}, {"name": "Housing_in_England", "id": 34523050}, {"name": "Architecture_of_London", "id": 735987}], "successors": [{"name": "Apartment_buildings_in_London", "id": 35203362}]}

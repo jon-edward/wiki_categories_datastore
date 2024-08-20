@@ -1,1 +1,1 @@
-{"name": "SeaWorld_Orlando", "id": 29456835, "predecessors": [{"name": "Animal_theme_parks", "id": 60286619}, {"name": "United_Parks_&_Resorts", "id": 29456750}, {"name": "Amusement_parks", "id": 713049}, {"name": "Entertainment_in_the_United_States", "id": 3421262}], "successors": []}
+{"name": "SeaWorld_Orlando", "id": 29456835, "predecessors": [{"name": "United_Parks_&_Resorts", "id": 29456750}, {"name": "Amusement_parks", "id": 713049}], "successors": []}

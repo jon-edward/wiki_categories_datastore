@@ -1,1 +1,1 @@
-{"name": "Jewish_breads", "id": 6811335, "predecessors": [{"name": "Breads", "id": 839059}, {"name": "Jewish_baked_goods", "id": 61949675}], "successors": [{"name": "Bagels", "id": 38495239}, {"name": "Matzo", "id": 44719557}]}
+{"name": "Jewish_breads", "id": 6811335, "predecessors": [{"name": "Jewish_baked_goods", "id": 61949675}], "successors": [{"name": "Bagels", "id": 38495239}, {"name": "Kosher_bakeries", "id": 41324671}, {"name": "Matzo", "id": 44719557}]}

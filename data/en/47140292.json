@@ -1,1 +1,1 @@
-{"name": "Educational_hardware", "id": 47140292, "predecessors": [{"name": "Educational_materials", "id": 2488034}, {"name": "Educational_technology", "id": 3136395}, {"name": "Equipment", "id": 3228046}], "successors": [{"name": "One_Laptop_per_Child", "id": 16384477}, {"name": "Raspberry_Pi", "id": 62701867}]}
+{"name": "Educational_hardware", "id": 47140292, "predecessors": [{"name": "Equipment", "id": 3228046}], "successors": [{"name": "One_Laptop_per_Child", "id": 16384477}, {"name": "Raspberry_Pi", "id": 62701867}]}

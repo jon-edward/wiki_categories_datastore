@@ -1,1 +1,1 @@
-{"name": "Youth_chess_competitions", "id": 73535716, "predecessors": [{"name": "Board_games", "id": 9205892}, {"name": "Youth_events", "id": 42790262}], "successors": []}
+{"name": "Youth_chess_competitions", "id": 73535716, "predecessors": [{"name": "Abstract_strategy_games", "id": 3290901}, {"name": "Youth_events", "id": 42790262}], "successors": []}

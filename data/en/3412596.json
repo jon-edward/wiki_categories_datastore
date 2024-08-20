@@ -1,1 +1,1 @@
-{"name": "MSX", "id": 3412596, "predecessors": [{"name": "Computer_architecture", "id": 869984}, {"name": "Home_computers", "id": 707669}], "successors": [{"name": "MSX_games", "id": 729526}, {"name": "MSX2_games", "id": 49208708}]}
+{"name": "MSX", "id": 3412596, "predecessors": [{"name": "Computer_architecture", "id": 869984}, {"name": "Computers", "id": 4583997}], "successors": [{"name": "MSX_games", "id": 729526}, {"name": "MSX2_games", "id": 49208708}]}

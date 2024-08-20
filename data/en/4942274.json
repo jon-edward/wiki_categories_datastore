@@ -1,1 +1,1 @@
-{"name": "Ombudsmen", "id": 4942274, "predecessors": [{"name": "Anti-corruption_measures", "id": 36936317}, {"name": "Complaints_organizations", "id": 44187425}, {"name": "Public_inquiries", "id": 4160062}, {"name": "Government_occupations", "id": 1006059}], "successors": []}
+{"name": "Ombudsmen", "id": 4942274, "predecessors": [{"name": "Anti-corruption_measures", "id": 36936317}, {"name": "Complaints_organizations", "id": 44187425}], "successors": [{"name": "Ombudsman_posts", "id": 3895850}, {"name": "Children's_Ombudsmen", "id": 39828401}]}

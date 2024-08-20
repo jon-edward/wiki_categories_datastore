@@ -1,1 +1,1 @@
-{"name": "Chūō_Main_Line", "id": 11653374, "predecessors": [{"name": "Lines_of_Central_Japan_Railway_Company", "id": 8067879}], "successors": []}
+{"name": "Chūō_Main_Line", "id": 11653374, "predecessors": [{"name": "Lines_of_Central_Japan_Railway_Company", "id": 8067879}, {"name": "Lines_of_East_Japan_Railway_Company", "id": 8067772}], "successors": [{"name": "Chūō-Sōbu_Line", "id": 11682511}]}

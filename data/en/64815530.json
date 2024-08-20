@@ -1,1 +1,1 @@
-{"name": "Biochemistry_databases", "id": 64815530, "predecessors": [{"name": "Biochemistry", "id": 695996}], "successors": []}
+{"name": "Biochemistry_databases", "id": 64815530, "predecessors": [{"name": "Biological_databases", "id": 28176068}], "successors": [{"name": "Enzyme_databases", "id": 70503016}]}

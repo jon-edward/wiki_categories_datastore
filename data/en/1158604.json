@@ -1,1 +1,1 @@
-{"name": "State_fairs", "id": 1158604, "predecessors": [{"name": "Agricultural_shows_in_the_United_States", "id": 9649301}, {"name": "Annual_fairs", "id": 1110714}, {"name": "Fairs_in_the_United_States", "id": 29205703}], "successors": [{"name": "Wisconsin_State_Fair", "id": 58609174}, {"name": "Kentucky_Kingdom", "id": 36242125}]}
+{"name": "State_fairs", "id": 1158604, "predecessors": [{"name": "Annual_fairs", "id": 1110714}], "successors": [{"name": "Wisconsin_State_Fair", "id": 58609174}, {"name": "Kentucky_Kingdom", "id": 36242125}]}

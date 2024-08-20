@@ -1,1 +1,1 @@
-{"name": "Lighting_brands", "id": 7902654, "predecessors": [{"name": "Electrical_equipment_manufacturers", "id": 13690913}, {"name": "Lighting", "id": 927824}, {"name": "Industries_(economics)", "id": 694873}], "successors": []}
+{"name": "Lighting_brands", "id": 7902654, "predecessors": [{"name": "Electrical_equipment_manufacturers", "id": 13690913}, {"name": "Lighting", "id": 927824}], "successors": [{"name": "Light-emitting_diode_manufacturers", "id": 21271721}]}

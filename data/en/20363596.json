@@ -1,1 +1,1 @@
-{"name": "Norwegian_magazine_editors", "id": 20363596, "predecessors": [{"name": "Science_and_technology_in_Norway", "id": 2706399}], "successors": []}
+{"name": "Norwegian_magazine_editors", "id": 20363596, "predecessors": [{"name": "Norwegian_journalists", "id": 3669216}, {"name": "Science_and_technology_in_Norway", "id": 2706399}, {"name": "Magazine_editors", "id": 952108}], "successors": []}

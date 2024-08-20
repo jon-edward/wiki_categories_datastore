@@ -1,1 +1,1 @@
-{"name": "Smart_vehicles", "id": 4467459, "predecessors": [{"name": "Mercedes-Benz_Group", "id": 13587826}], "successors": []}
+{"name": "Smart_vehicles", "id": 4467459, "predecessors": [{"name": "City_cars", "id": 4602358}, {"name": "Mercedes-Benz_Group", "id": 13587826}], "successors": []}

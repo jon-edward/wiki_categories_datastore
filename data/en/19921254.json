@@ -1,1 +1,1 @@
-{"name": "Mollusc_anatomy", "id": 19921254, "predecessors": [{"name": "Animal_anatomy", "id": 3120301}], "successors": [{"name": "Mollusc_products", "id": 3135871}, {"name": "Mollusc_shells", "id": 44175380}]}
+{"name": "Mollusc_anatomy", "id": 19921254, "predecessors": [{"name": "Animal_anatomy", "id": 3120301}], "successors": [{"name": "Cephalopod_zootomy", "id": 1678417}, {"name": "Mollusc_products", "id": 3135871}, {"name": "Gastropod_anatomy", "id": 48497091}, {"name": "Bivalve_anatomy", "id": 48497264}]}

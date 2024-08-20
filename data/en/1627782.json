@@ -1,1 +1,1 @@
-{"name": "Airline_alliances", "id": 1627782, "predecessors": [{"name": "International_aviation_organizations", "id": 65639731}, {"name": "Aviation", "id": 735378}], "successors": []}
+{"name": "Airline_alliances", "id": 1627782, "predecessors": [{"name": "Aviation", "id": 735378}], "successors": [{"name": "Star_Alliance", "id": 1677721}, {"name": "SkyTeam", "id": 12887777}, {"name": "Qantas", "id": 3905951}, {"name": "Alaska_Air_Group", "id": 33763827}, {"name": "Alitalia", "id": 16897145}]}

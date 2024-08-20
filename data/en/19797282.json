@@ -1,1 +1,1 @@
-{"name": "Lists_of_banks_by_country", "id": 19797282, "predecessors": [{"name": "Lists_of_companies_by_country", "id": 734669}], "successors": [{"name": "Lists_of_banks_by_dependent_territory", "id": 72648161}]}
+{"name": "Lists_of_banks_by_country", "id": 19797282, "predecessors": [{"name": "Lists_of_banks", "id": 1576517}, {"name": "Lists_of_companies_by_country", "id": 734669}], "successors": [{"name": "Lists_of_banks_by_dependent_territory", "id": 72648161}]}

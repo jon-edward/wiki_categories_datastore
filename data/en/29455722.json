@@ -1,1 +1,1 @@
-{"name": "Silicon_dioxide", "id": 29455722, "predecessors": [{"name": "Inorganic_silicon_compounds", "id": 29454354}, {"name": "Oxides", "id": 695963}], "successors": []}
+{"name": "Silicon_dioxide", "id": 29455722, "predecessors": [{"name": "Inorganic_silicon_compounds", "id": 29454354}, {"name": "Oxides", "id": 695963}], "successors": [{"name": "Silica_polymorphs", "id": 54908758}]}

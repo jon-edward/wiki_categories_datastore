@@ -1,1 +1,1 @@
-{"name": "Fervoja_transporto_en_Sudmoravia_regiono", "id": 731407, "predecessors": [{"name": "Sudmoravia_regiono", "id": 85397}, {"name": "Fervoja_transporto", "id": 588553}], "successors": []}
+{"name": "Fervoja_transporto_en_Sudmoravia_regiono", "id": 731407, "predecessors": [{"name": "Sudmoravia_regiono", "id": 85397}, {"name": "Fervoja_transporto", "id": 588553}], "successors": [{"name": "Fervoja_transporto_en_Brno", "id": 869488}]}

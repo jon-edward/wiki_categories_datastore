@@ -1,1 +1,1 @@
-{"name": "Phylogenetics_software", "id": 71011257, "predecessors": [{"name": "Computational_phylogenetics", "id": 4066377}], "successors": []}
+{"name": "Phylogenetics_software", "id": 71011257, "predecessors": [{"name": "Bioinformatics_software", "id": 10354259}, {"name": "Computational_phylogenetics", "id": 4066377}], "successors": []}

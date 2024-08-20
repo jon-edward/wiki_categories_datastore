@@ -1,1 +1,1 @@
-{"name": "Disulfides", "id": 60637367, "predecessors": [{"name": "Sulfur_compounds", "id": 1869718}, {"name": "Chalcogenides", "id": 5737660}], "successors": [{"name": "Organic_disulfides", "id": 10122225}]}
+{"name": "Disulfides", "id": 60637367, "predecessors": [{"name": "Sulfur_compounds", "id": 1869718}, {"name": "Chalcogenides", "id": 5737660}, {"name": "Sulfides", "id": 1682005}], "successors": [{"name": "Organic_disulfides", "id": 10122225}]}

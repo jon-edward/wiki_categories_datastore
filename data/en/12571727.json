@@ -1,1 +1,1 @@
-{"name": "Cancer_staging", "id": 12571727, "predecessors": [{"name": "Cancer", "id": 999635}, {"name": "Medical_diagnosis", "id": 16705234}], "successors": []}
+{"name": "Cancer_staging", "id": 12571727, "predecessors": [{"name": "Cancer", "id": 999635}], "successors": []}

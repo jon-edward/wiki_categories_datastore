@@ -1,1 +1,1 @@
-{"name": "Mollusc_products", "id": 3135871, "predecessors": [{"name": "Animal_products", "id": 2304680}, {"name": "Mollusc_anatomy", "id": 19921254}], "successors": [{"name": "Pearls", "id": 3088358}, {"name": "Seashells_in_art", "id": 29585664}]}
+{"name": "Mollusc_products", "id": 3135871, "predecessors": [{"name": "Animal_products", "id": 2304680}, {"name": "Mollusc_anatomy", "id": 19921254}], "successors": [{"name": "Pearls", "id": 3088358}, {"name": "Seashells_in_art", "id": 29585664}, {"name": "Shell_middens", "id": 29677539}]}

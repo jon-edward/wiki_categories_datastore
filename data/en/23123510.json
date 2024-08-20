@@ -1,1 +1,1 @@
-{"name": "Intermodal_containers", "id": 23123510, "predecessors": [{"name": "Intermodal_transport", "id": 28589652}, {"name": "Modularity", "id": 51259459}, {"name": "Shipping_containers", "id": 22998441}], "successors": [{"name": "Container_shipping_companies", "id": 13165913}]}
+{"name": "Intermodal_containers", "id": 23123510, "predecessors": [{"name": "Modularity", "id": 51259459}, {"name": "Shipping_containers", "id": 22998441}], "successors": [{"name": "Container_shipping_companies", "id": 13165913}]}

@@ -1,1 +1,1 @@
-{"name": "Etching_(microfabrication)", "id": 14641299, "predecessors": [{"name": "Microtechnology", "id": 14631447}, {"name": "Semiconductor_device_fabrication", "id": 1274670}], "successors": []}
+{"name": "Etching_(microfabrication)", "id": 14641299, "predecessors": [{"name": "Etching", "id": 4303395}, {"name": "Microtechnology", "id": 14631447}, {"name": "Semiconductor_device_fabrication", "id": 1274670}], "successors": []}

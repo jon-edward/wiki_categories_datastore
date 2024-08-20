@@ -1,1 +1,1 @@
-{"name": "Pistol_and_rifle_cartridges", "id": 1042134, "predecessors": [{"name": "Ammunition", "id": 857579}, {"name": "Firearms", "id": 739385}], "successors": [{"name": "Rebated_rim_cartridges", "id": 75558018}]}
+{"name": "Pistol_and_rifle_cartridges", "id": 1042134, "predecessors": [{"name": "Ammunition", "id": 857579}, {"name": "Firearms", "id": 739385}], "successors": [{"name": "Paramilitary_cartridges", "id": 66986612}, {"name": "Rebated_rim_cartridges", "id": 75558018}]}

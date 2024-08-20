@@ -1,1 +1,1 @@
-{"name": "Sports_competitions_in_Sapporo", "id": 53466375, "predecessors": [{"name": "Sport_in_Sapporo", "id": 31669931}], "successors": [{"name": "FIS_Nordic_World_Ski_Championships_2007", "id": 39355813}]}
+{"name": "Sports_competitions_in_Sapporo", "id": 53466375, "predecessors": [{"name": "Sport_in_Sapporo", "id": 31669931}, {"name": "Sports_competitions_in_Hokkaido", "id": 70249413}], "successors": [{"name": "FIS_Nordic_World_Ski_Championships_2007", "id": 39355813}]}

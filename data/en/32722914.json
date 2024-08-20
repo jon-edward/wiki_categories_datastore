@@ -1,1 +1,1 @@
-{"name": "Celebrity_competitions", "id": 32722914, "predecessors": [{"name": "Celebrity", "id": 28251652}, {"name": "Competitions", "id": 737119}], "successors": [{"name": "Celebrity_Big_Brother", "id": 32811972}, {"name": "YouTube_boxing_matches", "id": 75813940}]}
+{"name": "Celebrity_competitions", "id": 32722914, "predecessors": [{"name": "Celebrity", "id": 28251652}], "successors": [{"name": "Celebrity_Big_Brother", "id": 32811972}, {"name": "YouTube_boxing_matches", "id": 75813940}]}

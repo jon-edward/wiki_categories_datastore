@@ -1,1 +1,1 @@
-{"name": "Amtrak_Thruway_Motorcoach_stations_in_California", "id": 18966266, "predecessors": [{"name": "Bus_transportation_in_California", "id": 18908931}, {"name": "Amtrak", "id": 1323761}], "successors": []}
+{"name": "Amtrak_Thruway_Motorcoach_stations_in_California", "id": 18966266, "predecessors": [{"name": "Amtrak_stations_in_California", "id": 10022994}, {"name": "Bus_transportation_in_California", "id": 18908931}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Time_in_China", "id": 30443808, "predecessors": [{"name": "Time_by_country", "id": 4215248}], "successors": []}
+{"name": "Time_in_China", "id": 30443808, "predecessors": [{"name": "Geography_of_China", "id": 963710}, {"name": "Time_by_country", "id": 4215248}, {"name": "Geography_of_Asia", "id": 1638542}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Chinese_traditional_clothing", "id": 68481209, "predecessors": [{"name": "Chinese_clothing", "id": 5454857}, {"name": "Chinese_traditions", "id": 61099230}], "successors": [{"name": "Hanfu", "id": 68481207}, {"name": "Qing_clothing", "id": 70867480}]}
+{"name": "Chinese_traditional_clothing", "id": 68481209, "predecessors": [{"name": "Chinese_clothing", "id": 5454857}], "successors": [{"name": "Hanfu", "id": 68481207}, {"name": "Qing_clothing", "id": 70867480}]}

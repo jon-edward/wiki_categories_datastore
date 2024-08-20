@@ -1,1 +1,1 @@
-{"name": "Intel_products", "id": 13752883, "predecessors": [{"name": "Intel", "id": 31209156}], "successors": [{"name": "X86_architecture", "id": 2299258}, {"name": "Intel_microarchitectures", "id": 47189385}]}
+{"name": "Intel_products", "id": 13752883, "predecessors": [{"name": "Intel", "id": 31209156}], "successors": [{"name": "Intel_microprocessors", "id": 18041298}, {"name": "Intel_chipsets", "id": 22616106}]}

@@ -1,1 +1,1 @@
-{"name": "Travelling_salesman_problem", "id": 31111956, "predecessors": [{"name": "Combinatorial_optimization", "id": 3867956}, {"name": "Mathematical_optimization_in_business", "id": 56540931}], "successors": []}
+{"name": "Travelling_salesman_problem", "id": 31111956, "predecessors": [{"name": "Mathematical_optimization_in_business", "id": 56540931}, {"name": "Spatial_analysis", "id": 17228412}], "successors": []}

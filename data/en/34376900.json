@@ -1,1 +1,1 @@
-{"name": "Computer_connectors", "id": 34376900, "predecessors": [{"name": "Computer_peripherals", "id": 3547205}, {"name": "Electrical_signal_connectors", "id": 4393577}], "successors": [{"name": "Ethernet_cables", "id": 2068176}, {"name": "Digital_display_connectors", "id": 4392505}, {"name": "Analog_video_connectors", "id": 4394064}]}
+{"name": "Computer_connectors", "id": 34376900, "predecessors": [{"name": "Electrical_signal_connectors", "id": 4393577}], "successors": [{"name": "Ethernet_cables", "id": 2068176}, {"name": "Digital_display_connectors", "id": 4392505}]}

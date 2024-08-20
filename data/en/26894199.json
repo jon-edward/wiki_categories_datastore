@@ -1,1 +1,1 @@
-{"name": "General_Dynamics_aircraft", "id": 26894199, "predecessors": [{"name": "Aircraft_manufactured_in_the_United_States", "id": 38961037}, {"name": "General_Dynamics", "id": 4303796}, {"name": "Lockheed_aircraft", "id": 12556750}], "successors": [{"name": "General_Dynamics_F-16_Fighting_Falcon", "id": 40735629}]}
+{"name": "General_Dynamics_aircraft", "id": 26894199, "predecessors": [{"name": "Aircraft_manufactured_in_the_United_States", "id": 38961037}, {"name": "Lockheed_aircraft", "id": 12556750}], "successors": []}

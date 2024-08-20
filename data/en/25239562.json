@@ -1,1 +1,1 @@
-{"name": "Japanese_film_critics", "id": 25239562, "predecessors": [{"name": "Japanese_critics", "id": 24373214}, {"name": "Japanese_journalists", "id": 8788572}], "successors": []}
+{"name": "Japanese_film_critics", "id": 25239562, "predecessors": [{"name": "Film_criticism", "id": 1026493}, {"name": "Japanese_popular_culture", "id": 35371982}], "successors": []}

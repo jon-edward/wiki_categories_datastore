@@ -1,1 +1,1 @@
-{"name": "Animated_films_based_on_manga", "id": 48732485, "predecessors": [{"name": "Animated_films_based_on_comics", "id": 46928623}, {"name": "Manga", "id": 697997}, {"name": "Literature", "id": 692008}], "successors": [{"name": "Anime_films_based_on_manga", "id": 63084984}]}
+{"name": "Animated_films_based_on_manga", "id": 48732485, "predecessors": [{"name": "Films_based_on_works_by_Japanese_writers", "id": 40810063}, {"name": "Manga", "id": 697997}], "successors": [{"name": "Anime_films_based_on_manga", "id": 63084984}]}

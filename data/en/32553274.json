@@ -1,1 +1,1 @@
-{"name": "Cardiac_procedures", "id": 32553274, "predecessors": [{"name": "Cardiology", "id": 692364}, {"name": "Cardiovascular_system", "id": 715237}], "successors": [{"name": "Diagnostic_cardiology", "id": 71476105}]}
+{"name": "Cardiac_procedures", "id": 32553274, "predecessors": [{"name": "Cardiology", "id": 692364}, {"name": "Cardiovascular_system", "id": 715237}], "successors": [{"name": "Interventional_cardiology", "id": 16345668}]}

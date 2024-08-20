@@ -1,1 +1,1 @@
-{"name": "Chinese_crime_thriller_films", "id": 42617669, "predecessors": [{"name": "Chinese_crime_films", "id": 41279078}, {"name": "Chinese_thriller_films", "id": 35240021}], "successors": [{"name": "Hong_Kong_crime_thriller_films", "id": 42617678}]}
+{"name": "Chinese_crime_thriller_films", "id": 42617669, "predecessors": [{"name": "Chinese_crime_films", "id": 41279078}, {"name": "Chinese_thriller_films", "id": 35240021}, {"name": "Crime_fiction", "id": 5740559}], "successors": [{"name": "Hong_Kong_crime_thriller_films", "id": 42617678}]}

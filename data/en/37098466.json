@@ -1,1 +1,1 @@
-{"name": "IMAX", "id": 37098466, "predecessors": [{"name": "70_mm_film", "id": 37253718}, {"name": "Canadian_inventions", "id": 4949871}, {"name": "Motion_picture_film_formats", "id": 953089}], "successors": [{"name": "IMAX_venues", "id": 3114479}]}
+{"name": "IMAX", "id": 37098466, "predecessors": [{"name": "70_mm_film", "id": 37253718}, {"name": "Canadian_inventions", "id": 4949871}, {"name": "Motion_picture_film_formats", "id": 953089}], "successors": [{"name": "IMAX_venues", "id": 3114479}, {"name": "IMAX_films", "id": 6150728}]}

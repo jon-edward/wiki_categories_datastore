@@ -1,1 +1,1 @@
-{"name": "Winter_clothes", "id": 45124292, "predecessors": [{"name": "Clothing_by_function", "id": 9964970}, {"name": "Protective_gear", "id": 5095752}, {"name": "Winter_in_culture", "id": 47213819}], "successors": []}
+{"name": "Winter_clothes", "id": 45124292, "predecessors": [{"name": "Protective_gear", "id": 5095752}, {"name": "Winter", "id": 2656251}, {"name": "Winter_in_culture", "id": 47213819}], "successors": []}

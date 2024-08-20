@@ -1,1 +1,1 @@
-{"name": "Peralatan_telekomunikasi", "id": 104368, "predecessors": [{"name": "Telekomunikasi", "id": 16590}, {"name": "Kemahiran", "id": 82071}], "successors": [{"name": "Perkakasan_rangkaian", "id": 304273}]}
+{"name": "Peralatan_telekomunikasi", "id": 104368, "predecessors": [{"name": "Telekomunikasi", "id": 16590}, {"name": "Kemahiran", "id": 82071}], "successors": [{"name": "Satelit_komunikasi", "id": 104367}, {"name": "Perkakasan_rangkaian", "id": 304273}]}

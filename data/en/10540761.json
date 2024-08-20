@@ -1,1 +1,1 @@
-{"name": "Railway_stations_in_Salford", "id": 10540761, "predecessors": [{"name": "Buildings_and_structures_in_Salford", "id": 7746320}, {"name": "Rail_transport_in_Greater_Manchester", "id": 13820783}], "successors": []}
+{"name": "Railway_stations_in_Salford", "id": 10540761, "predecessors": [{"name": "Buildings_and_structures_in_Salford", "id": 7746320}, {"name": "Rail_transport_in_Greater_Manchester", "id": 13820783}], "successors": [{"name": "Disused_railway_stations_in_Salford", "id": 30236145}, {"name": "Tram_stops_in_Salford", "id": 38556703}]}

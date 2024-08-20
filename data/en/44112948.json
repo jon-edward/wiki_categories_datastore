@@ -1,1 +1,1 @@
-{"name": "Plumbing_materials_companies", "id": 44112948, "predecessors": [{"name": "Building_materials_companies", "id": 39054637}], "successors": [{"name": "Bathroom_fixture_companies", "id": 39054622}]}
+{"name": "Plumbing_materials_companies", "id": 44112948, "predecessors": [{"name": "Building_materials_companies", "id": 39054637}, {"name": "Plumbing", "id": 765224}], "successors": [{"name": "Bathroom_fixture_companies", "id": 39054622}]}

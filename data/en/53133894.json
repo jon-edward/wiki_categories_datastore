@@ -1,1 +1,1 @@
-{"name": "Ochrophyta", "id": 53133894, "predecessors": [{"name": "Algae", "id": 1460643}], "successors": [{"name": "Brown_algae", "id": 2097574}, {"name": "Diatoms", "id": 8334495}]}
+{"name": "Ochrophyta", "id": 53133894, "predecessors": [{"name": "Algae", "id": 1460643}], "successors": [{"name": "Brown_algae", "id": 2097574}, {"name": "Diatoms", "id": 8334495}, {"name": "Chrysophyceae", "id": 29240765}, {"name": "Dictyochophyceae", "id": 53133943}, {"name": "Xanthophyceae", "id": 62439170}]}

@@ -1,1 +1,1 @@
-{"name": "Drought-tolerant_trees", "id": 23704920, "predecessors": [{"name": "Drought-tolerant_plants", "id": 23704954}, {"name": "Garden_plants", "id": 1331915}], "successors": []}
+{"name": "Drought-tolerant_trees", "id": 23704920, "predecessors": [{"name": "Drought-tolerant_plants", "id": 23704954}, {"name": "Garden_plants", "id": 1331915}, {"name": "Plants_by_habitat", "id": 25439386}], "successors": [{"name": "Trees_of_Mediterranean_climate", "id": 15435632}]}

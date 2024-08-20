@@ -1,1 +1,1 @@
-{"name": "Transport_in_Milan", "id": 3863447, "predecessors": [{"name": "Tourism_in_Italy", "id": 2637056}], "successors": [{"name": "Railway_stations_in_Milan", "id": 20974758}, {"name": "Milan_S_Lines", "id": 36489531}]}
+{"name": "Transport_in_Milan", "id": 3863447, "predecessors": [{"name": "Tourism", "id": 698284}], "successors": [{"name": "Railway_stations_in_Milan", "id": 20974758}, {"name": "Milan_S_Lines", "id": 36489531}]}

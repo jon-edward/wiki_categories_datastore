@@ -1,1 +1,1 @@
-{"name": "Emigrants_from_Austria-Hungary_to_France", "id": 53160087, "predecessors": [{"name": "Immigrants_to_France", "id": 15647079}], "successors": []}
+{"name": "Emigrants_from_Austria-Hungary_to_France", "id": 53160087, "predecessors": [{"name": "Emigrants_from_Austria-Hungary", "id": 9478705}, {"name": "Immigrants_to_France", "id": 15647079}], "successors": []}

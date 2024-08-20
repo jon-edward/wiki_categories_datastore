@@ -1,1 +1,1 @@
-{"name": "Prisoner_exchanges", "id": 33551553, "predecessors": [{"name": "Imprisonment_and_detention", "id": 2395825}, {"name": "Military_diplomacy", "id": 4649694}, {"name": "Prisoners_of_war", "id": 1182569}], "successors": []}
+{"name": "Prisoner_exchanges", "id": 33551553, "predecessors": [{"name": "Imprisonment_and_detention", "id": 2395825}, {"name": "Prisoners_of_war", "id": 1182569}], "successors": [{"name": "Israeli_prisoner_exchanges", "id": 33550783}]}

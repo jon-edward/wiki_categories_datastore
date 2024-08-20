@@ -1,1 +1,1 @@
-{"name": "Transport_in_Tel_Aviv", "id": 9406058, "predecessors": [{"name": "Words_and_phrases_in_Modern_Hebrew", "id": 77213847}, {"name": "Economy_of_Israel", "id": 1158460}, {"name": "Tourism_in_Israel", "id": 2863724}], "successors": [{"name": "Streets_in_Tel_Aviv", "id": 10621052}]}
+{"name": "Transport_in_Tel_Aviv", "id": 9406058, "predecessors": [{"name": "Urban_planning", "id": 705232}], "successors": [{"name": "Streets_in_Tel_Aviv", "id": 10621052}]}

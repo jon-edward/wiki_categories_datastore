@@ -1,1 +1,1 @@
-{"name": "Mazda_racing_cars", "id": 47288147, "predecessors": [{"name": "Mazda_vehicles", "id": 852090}, {"name": "Mazda", "id": 833640}], "successors": []}
+{"name": "Mazda_racing_cars", "id": 47288147, "predecessors": [{"name": "Japanese_racecar_constructors", "id": 13061585}, {"name": "Mazda_vehicles", "id": 852090}, {"name": "Mazda", "id": 833640}], "successors": []}

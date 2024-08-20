@@ -1,1 +1,1 @@
-{"name": "Fountains_in_France", "id": 25818189, "predecessors": [{"name": "Tourism_in_France", "id": 2664305}], "successors": [{"name": "Fountains_in_Paris", "id": 24003631}]}
+{"name": "Fountains_in_France", "id": 25818189, "predecessors": [{"name": "Tourism_in_France", "id": 2664305}, {"name": "Geography_of_France", "id": 1397470}], "successors": [{"name": "Fountains_in_Paris", "id": 24003631}]}

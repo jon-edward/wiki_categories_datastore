@@ -1,1 +1,1 @@
-{"name": "Halide_minerals", "id": 1091674, "predecessors": [{"name": "Chemical_compounds", "id": 695235}], "successors": [{"name": "Fluorine_minerals", "id": 52048995}, {"name": "Chloride_minerals", "id": 75515252}]}
+{"name": "Halide_minerals", "id": 1091674, "predecessors": [{"name": "Chemical_compounds", "id": 695235}, {"name": "Minerals", "id": 708104}], "successors": [{"name": "Fluorine_minerals", "id": 52048995}, {"name": "Chloride_minerals", "id": 75515252}]}

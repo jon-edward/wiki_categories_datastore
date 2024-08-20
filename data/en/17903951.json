@@ -1,1 +1,1 @@
-{"name": "Jazz_instruments", "id": 17903951, "predecessors": [{"name": "Jazz", "id": 696783}, {"name": "Musical_instruments", "id": 691595}], "successors": [{"name": "Rhythm_section", "id": 26855002}, {"name": "Trumpets", "id": 47359997}, {"name": "Trombones", "id": 47360015}]}
+{"name": "Jazz_instruments", "id": 17903951, "predecessors": [{"name": "Jazz", "id": 696783}], "successors": [{"name": "Rhythm_section", "id": 26855002}, {"name": "Trumpets", "id": 47359997}, {"name": "Trombones", "id": 47360015}]}

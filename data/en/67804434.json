@@ -1,1 +1,1 @@
-{"name": "Portable_furniture", "id": 67804434, "predecessors": [{"name": "Furniture", "id": 965851}, {"name": "Logistics", "id": 1865158}], "successors": [{"name": "Inflatable_manufactured_goods", "id": 22730571}, {"name": "Chests_(furniture)", "id": 45423861}]}
+{"name": "Portable_furniture", "id": 67804434, "predecessors": [{"name": "Furniture", "id": 965851}, {"name": "Logistics", "id": 1865158}], "successors": [{"name": "Chests_(furniture)", "id": 45423861}]}

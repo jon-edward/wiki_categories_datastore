@@ -1,1 +1,0 @@
-{"name": "Pies", "id": 810522, "predecessors": [{"name": "Baked_goods", "id": 23822920}, {"name": "European_cuisine", "id": 1259768}, {"name": "North_American_cuisine", "id": 3687345}, {"name": "Pastries", "id": 41673232}], "successors": [{"name": "Savoury_pies", "id": 6353047}, {"name": "Sweet_pies", "id": 6353112}, {"name": "Kue", "id": 46949870}]}

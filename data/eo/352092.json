@@ -1,1 +1,1 @@
-{"name": "Skermistoj", "id": 352092, "predecessors": [{"name": "Sporto", "id": 26443}, {"name": "Glavoj", "id": 224783}], "successors": [{"name": "Hungaraj_skermistoj", "id": 352091}, {"name": "Germanaj_skermistoj", "id": 411777}, {"name": "Italaj_skermistoj", "id": 637699}]}
+{"name": "Skermistoj", "id": 352092, "predecessors": [{"name": "Sportistoj", "id": 78760}, {"name": "Glavoj", "id": 224783}], "successors": [{"name": "Hungaraj_skermistoj", "id": 352091}, {"name": "Germanaj_skermistoj", "id": 411777}, {"name": "Italaj_skermistoj", "id": 637699}]}

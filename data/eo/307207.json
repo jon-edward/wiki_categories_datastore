@@ -1,1 +1,1 @@
-{"name": "Trejnistoj", "id": 307207, "predecessors": [{"name": "Sporto", "id": 26443}], "successors": [{"name": "Trejnistoj_de_futbalo", "id": 124608}, {"name": "Usonaj_trejnistoj", "id": 307206}, {"name": "Hungaraj_trejnistoj", "id": 307211}]}
+{"name": "Trejnistoj", "id": 307207, "predecessors": [{"name": "Sportistoj", "id": 78760}], "successors": [{"name": "Trejnistoj_de_futbalo", "id": 124608}, {"name": "Usonaj_trejnistoj", "id": 307206}, {"name": "Hungaraj_trejnistoj", "id": 307211}]}

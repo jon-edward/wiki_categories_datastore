@@ -1,1 +1,1 @@
-{"name": "Brittiläiset_lentäjät", "id": 287049, "predecessors": [{"name": "Brittiläiset_henkilöt", "id": 142907}, {"name": "Ilmailu", "id": 17932}, {"name": "Ammatit", "id": 26041}], "successors": []}
+{"name": "Brittiläiset_lentäjät", "id": 287049, "predecessors": [{"name": "Lentäjät", "id": 18350}, {"name": "Brittiläiset_henkilöt", "id": 142907}, {"name": "Ilmailu", "id": 17932}], "successors": []}

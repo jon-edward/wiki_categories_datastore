@@ -1,1 +1,1 @@
-{"name": "Match_fixing", "id": 39335857, "predecessors": [{"name": "Cheating_in_sports", "id": 61434881}, {"name": "Sports_betting_scandals", "id": 5816388}, {"name": "Meetings", "id": 1261738}], "successors": []}
+{"name": "Match_fixing", "id": 39335857, "predecessors": [{"name": "Cheating_in_sports", "id": 61434881}], "successors": [{"name": "Match_fixers", "id": 43968182}, {"name": "Match_fixing_in_tennis", "id": 65991014}, {"name": "Match_fixing_in_association_football", "id": 73770957}]}

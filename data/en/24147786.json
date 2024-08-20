@@ -1,1 +1,1 @@
-{"name": "Sports_world_rankings", "id": 24147786, "predecessors": [{"name": "Top_lists", "id": 6638668}, {"name": "Rankings", "id": 42760129}, {"name": "Sports_by_type", "id": 23596516}], "successors": [{"name": "Snooker_world_rankings", "id": 10947679}, {"name": "ISU_World_Standings_and_Season's_World_Ranking", "id": 57582192}]}
+{"name": "Sports_world_rankings", "id": 24147786, "predecessors": [{"name": "Top_lists", "id": 6638668}, {"name": "World", "id": 3260154}], "successors": [{"name": "Snooker_world_rankings", "id": 10947679}]}

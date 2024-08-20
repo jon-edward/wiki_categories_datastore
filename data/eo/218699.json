@@ -1,1 +1,1 @@
-{"name": "Aŭtosportistoj", "id": 218699, "predecessors": [{"name": "Aŭtosporto", "id": 80880}, {"name": "Sporto", "id": 26443}], "successors": [{"name": "Pilotoj_de_F1", "id": 80876}]}
+{"name": "Aŭtosportistoj", "id": 218699, "predecessors": [{"name": "Aŭtosporto", "id": 80880}, {"name": "Sportistoj", "id": 78760}], "successors": [{"name": "Pilotoj_de_F1", "id": 80876}]}

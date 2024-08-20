@@ -1,1 +1,1 @@
-{"name": "Cancelled_energy_infrastructure", "id": 37243439, "predecessors": [{"name": "Unbuilt_buildings_and_structures", "id": 16587169}, {"name": "Infrastructure", "id": 2962329}], "successors": [{"name": "Cancelled_nuclear_power_stations", "id": 28046596}, {"name": "Cancelled_hydroelectric_power_stations", "id": 44511445}]}
+{"name": "Cancelled_energy_infrastructure", "id": 37243439, "predecessors": [{"name": "Unbuilt_buildings_and_structures", "id": 16587169}, {"name": "Energy", "id": 865456}], "successors": []}

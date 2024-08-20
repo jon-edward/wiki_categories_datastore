@@ -1,1 +1,1 @@
-{"name": "Hazelnuts", "id": 61262290, "predecessors": [{"name": "Edible_nuts_and_seeds", "id": 6769223}], "successors": []}
+{"name": "Hazelnuts", "id": 61262290, "predecessors": [{"name": "Crops_originating_from_Europe", "id": 45188747}, {"name": "Edible_nuts_and_seeds", "id": 6769223}], "successors": [{"name": "Hazelnut_dishes", "id": 75659352}]}

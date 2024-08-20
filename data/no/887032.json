@@ -1,1 +1,1 @@
-{"name": "Mobil-spill", "id": 887032, "predecessors": [{"name": "Mobilapplikasjoner", "id": 1784441}, {"name": "Videospill", "id": 349196}], "successors": [{"name": "IOS-spill", "id": 1378898}, {"name": "Android-spill", "id": 1378899}]}
+{"name": "Mobil-spill", "id": 887032, "predecessors": [{"name": "Mobilapplikasjoner", "id": 1784441}, {"name": "Billedkunst", "id": 129011}], "successors": [{"name": "IOS-spill", "id": 1378898}, {"name": "Android-spill", "id": 1378899}]}

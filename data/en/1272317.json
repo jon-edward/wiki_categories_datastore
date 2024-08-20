@@ -1,1 +1,1 @@
-{"name": "Cytokines", "id": 1272317, "predecessors": [{"name": "Immune_system", "id": 729294}, {"name": "Signal_transduction", "id": 754106}, {"name": "Proteins", "id": 717889}], "successors": [{"name": "Interleukins", "id": 50879480}, {"name": "Chemokine_receptors", "id": 14187047}]}
+{"name": "Cytokines", "id": 1272317, "predecessors": [{"name": "Proteins", "id": 717889}], "successors": []}

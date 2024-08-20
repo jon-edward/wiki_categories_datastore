@@ -1,1 +1,1 @@
-{"name": "Geodetic_satellites", "id": 61900142, "predecessors": [{"name": "Earth_observation_satellites", "id": 1831416}, {"name": "Geodesy", "id": 862535}], "successors": [{"name": "GPS_satellites", "id": 36382541}, {"name": "IRNSS_satellites", "id": 50390929}]}
+{"name": "Geodetic_satellites", "id": 61900142, "predecessors": [{"name": "Earth_observation_satellites", "id": 1831416}, {"name": "Geodesy", "id": 862535}], "successors": [{"name": "GPS_satellites", "id": 36382541}, {"name": "IRNSS_satellites", "id": 50390929}, {"name": "GLONASS_satellites", "id": 56785660}]}

@@ -1,1 +1,1 @@
-{"name": "Eventyrspill", "id": 96163, "predecessors": [{"name": "Videospill", "id": 349196}], "successors": [{"name": "The_Legend_of_Zelda", "id": 106114}, {"name": "Monkey_Island", "id": 356297}, {"name": "Action-eventyrspill", "id": 1242752}]}
+{"name": "Eventyrspill", "id": 96163, "predecessors": [{"name": "Billedkunst", "id": 129011}], "successors": [{"name": "The_Legend_of_Zelda", "id": 106114}, {"name": "Monkey_Island", "id": 356297}, {"name": "Action-eventyrspill", "id": 1242752}]}

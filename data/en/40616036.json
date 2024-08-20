@@ -1,1 +1,1 @@
-{"name": "GPGPU_libraries", "id": 40616036, "predecessors": [{"name": "GPGPU", "id": 21014416}, {"name": "Numerical_libraries", "id": 40631263}], "successors": []}
+{"name": "GPGPU_libraries", "id": 40616036, "predecessors": [{"name": "GPGPU", "id": 21014416}, {"name": "Numerical_libraries", "id": 40631263}, {"name": "Computer_libraries", "id": 7482978}], "successors": []}

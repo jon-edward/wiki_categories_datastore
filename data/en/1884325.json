@@ -1,1 +1,1 @@
-{"name": "Merchant_navy", "id": 1884325, "predecessors": [{"name": "Freight_transport", "id": 710066}, {"name": "Maritime_transport", "id": 56494593}], "successors": [{"name": "Maritime_colleges", "id": 8229826}]}
+{"name": "Merchant_navy", "id": 1884325, "predecessors": [{"name": "Maritime_transport", "id": 56494593}], "successors": [{"name": "Shipping_companies", "id": 881735}]}

@@ -1,1 +1,1 @@
-{"name": "Transport_in_Stuttgart", "id": 5859128, "predecessors": [{"name": "Transport_in_Baden-Württemberg", "id": 6112821}, {"name": "Economy_of_Germany", "id": 1304219}], "successors": []}
+{"name": "Transport_in_Stuttgart", "id": 5859128, "predecessors": [{"name": "Stuttgart", "id": 1714303}], "successors": [{"name": "Railway_stations_in_Stuttgart", "id": 45390127}, {"name": "Stuttgart_S-Bahn", "id": 45394674}]}

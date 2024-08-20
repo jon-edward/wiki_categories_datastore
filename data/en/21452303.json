@@ -1,1 +1,1 @@
-{"name": "Shopping_districts_and_streets_in_China", "id": 21452303, "predecessors": [{"name": "Roads_in_China", "id": 37030213}, {"name": "Industry_in_China", "id": 32584267}, {"name": "Shopping_districts_and_streets", "id": 6126785}], "successors": []}
+{"name": "Shopping_districts_and_streets_in_China", "id": 21452303, "predecessors": [{"name": "Urban_planning", "id": 705232}, {"name": "Shopping_districts_and_streets", "id": 6126785}], "successors": []}

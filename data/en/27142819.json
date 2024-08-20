@@ -1,1 +1,1 @@
-{"name": "Ice", "id": 27142819, "predecessors": [{"name": "Cold", "id": 27262150}, {"name": "Water", "id": 977553}], "successors": [{"name": "Water_ice", "id": 3184757}, {"name": "Clathrate_hydrates", "id": 3185511}, {"name": "Ice_in_transportation", "id": 23032929}, {"name": "Ice_skating", "id": 36868216}, {"name": "Ice_sports", "id": 49658646}]}
+{"name": "Ice", "id": 27142819, "predecessors": [{"name": "Cold", "id": 27262150}, {"name": "Crystals", "id": 3129600}], "successors": [{"name": "Water_ice", "id": 3184757}, {"name": "Clathrate_hydrates", "id": 3185511}]}

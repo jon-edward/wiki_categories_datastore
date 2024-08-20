@@ -1,1 +1,1 @@
-{"name": "Language_games", "id": 1289327, "predecessors": [{"name": "Constructed_languages", "id": 694759}, {"name": "Language", "id": 8017451}, {"name": "Linguistics", "id": 693798}, {"name": "Obfuscation", "id": 1924365}], "successors": [{"name": "Word_games", "id": 699816}, {"name": "Word_play", "id": 1210549}]}
+{"name": "Language_games", "id": 1289327, "predecessors": [{"name": "Obfuscation", "id": 1924365}], "successors": [{"name": "Word_games", "id": 699816}, {"name": "Word_play", "id": 1210549}]}

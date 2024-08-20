@@ -1,1 +1,1 @@
-{"name": "Crankshafts", "id": 39138156, "predecessors": [{"name": "Chinese_inventions", "id": 16210607}, {"name": "Engine_components", "id": 21627526}, {"name": "Engine_technology", "id": 1124196}, {"name": "Piston_engines", "id": 762229}], "successors": []}
+{"name": "Crankshafts", "id": 39138156, "predecessors": [{"name": "Engine_components", "id": 21627526}, {"name": "Engine_technology", "id": 1124196}, {"name": "Linkages_(mechanical)", "id": 44366476}, {"name": "Piston_engines", "id": 762229}], "successors": []}

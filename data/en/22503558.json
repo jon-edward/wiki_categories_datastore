@@ -1,1 +1,1 @@
-{"name": "Suicides_by_firearm_in_Ontario", "id": 22503558, "predecessors": [{"name": "Deaths_by_firearm_in_Ontario", "id": 19354175}, {"name": "Suicides_by_firearm", "id": 5202424}], "successors": []}
+{"name": "Suicides_by_firearm_in_Ontario", "id": 22503558, "predecessors": [{"name": "Deaths_by_firearm_in_Ontario", "id": 19354175}, {"name": "Suicides_in_Ontario", "id": 19353999}, {"name": "Suicides_by_firearm", "id": 5202424}], "successors": []}

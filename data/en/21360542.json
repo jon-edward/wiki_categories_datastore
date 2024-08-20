@@ -1,1 +1,1 @@
-{"name": "Christmas_decorations", "id": 21360542, "predecessors": [{"name": "Decorative_arts", "id": 15917611}], "successors": [{"name": "Christmas_plants", "id": 8151254}]}
+{"name": "Christmas_decorations", "id": 21360542, "predecessors": [{"name": "Christmas_traditions", "id": 696375}, {"name": "Decorative_arts", "id": 15917611}], "successors": [{"name": "Christmas_plants", "id": 8151254}]}

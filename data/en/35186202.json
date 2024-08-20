@@ -1,1 +1,0 @@
-{"name": "Smoked_food", "id": 35186202, "predecessors": [{"name": "Cooking_techniques", "id": 757512}], "successors": [{"name": "Smoked_meat", "id": 35186203}, {"name": "Smoked_cheeses", "id": 35186205}, {"name": "Smoked_fish", "id": 35186207}]}

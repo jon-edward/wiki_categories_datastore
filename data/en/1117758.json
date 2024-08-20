@@ -1,1 +1,1 @@
-{"name": "Hepatitis", "id": 1117758, "predecessors": [{"name": "Diseases_of_liver", "id": 27145197}, {"name": "Inflammations", "id": 2308187}], "successors": [{"name": "Deaths_from_hepatitis", "id": 8217524}, {"name": "Viral_hepatitis", "id": 70357669}]}
+{"name": "Hepatitis", "id": 1117758, "predecessors": [{"name": "Inflammations", "id": 2308187}], "successors": [{"name": "Deaths_from_hepatitis", "id": 8217524}, {"name": "Viral_hepatitis", "id": 70357669}]}

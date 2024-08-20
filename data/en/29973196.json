@@ -1,1 +1,1 @@
-{"name": "Propionic_acids", "id": 29973196, "predecessors": [{"name": "Carboxylic_acids", "id": 695889}], "successors": []}
+{"name": "Propionic_acids", "id": 29973196, "predecessors": [{"name": "Alkanoic_acids", "id": 46802424}, {"name": "Propane", "id": 58471835}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Theatre_acting_awards", "id": 14211676, "predecessors": [{"name": "Acting_awards", "id": 14211261}, {"name": "Performing_arts_awards", "id": 7027468}], "successors": []}
+{"name": "Theatre_acting_awards", "id": 14211676, "predecessors": [{"name": "Acting_awards", "id": 14211261}, {"name": "Theatre", "id": 698600}], "successors": [{"name": "Iffland-Ring", "id": 21472550}]}

@@ -1,1 +1,1 @@
-{"name": "X-ray_binaries", "id": 5107154, "predecessors": [{"name": "Binary_stars", "id": 948379}], "successors": []}
+{"name": "X-ray_binaries", "id": 5107154, "predecessors": [{"name": "Exotic_matter", "id": 11641308}], "successors": [{"name": "Microquasars", "id": 5214008}]}

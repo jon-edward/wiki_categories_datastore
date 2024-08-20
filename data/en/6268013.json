@@ -1,1 +1,1 @@
-{"name": "Hot_dogs", "id": 6268013, "predecessors": [{"name": "Fast_food", "id": 730141}, {"name": "Hot_sandwiches", "id": 66164792}, {"name": "Sausage_dishes", "id": 42327851}], "successors": [{"name": "Brand_name_hot_dogs", "id": 9809025}]}
+{"name": "Hot_dogs", "id": 6268013, "predecessors": [{"name": "Fast_food", "id": 730141}, {"name": "Hot_sandwiches", "id": 66164792}], "successors": []}

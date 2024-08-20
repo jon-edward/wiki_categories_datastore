@@ -1,1 +1,1 @@
-{"name": "Norwegian_Protestant_missionaries", "id": 52439285, "predecessors": [{"name": "Norwegian_Christian_religious_leaders", "id": 39041303}, {"name": "Humans", "id": 1784082}, {"name": "Culture_of_Europe", "id": 709679}], "successors": [{"name": "Norwegian_Lutheran_missionaries", "id": 52430667}]}
+{"name": "Norwegian_Protestant_missionaries", "id": 52439285, "predecessors": [{"name": "Norwegian_Christians", "id": 9132601}, {"name": "Norwegian_Christian_religious_leaders", "id": 39041303}], "successors": [{"name": "Norwegian_Lutheran_missionaries", "id": 52430667}]}

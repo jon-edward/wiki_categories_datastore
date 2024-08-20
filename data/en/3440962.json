@@ -1,1 +1,1 @@
-{"name": "Movie_cameras", "id": 3440962, "predecessors": [{"name": "Cameras_by_type", "id": 1120136}, {"name": "Film_and_video_technology", "id": 5552682}], "successors": [{"name": "Movie_camera_manufacturers", "id": 34694214}]}
+{"name": "Movie_cameras", "id": 3440962, "predecessors": [{"name": "Film_and_video_technology", "id": 5552682}], "successors": [{"name": "Digital_movie_cameras", "id": 5385933}, {"name": "Movie_camera_manufacturers", "id": 34694214}]}

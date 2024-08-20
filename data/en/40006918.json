@@ -1,1 +1,1 @@
-{"name": "NASA_visitor_centers", "id": 40006918, "predecessors": [{"name": "NASA_facilities", "id": 906035}, {"name": "Visitor_centers_in_the_United_States", "id": 11194448}, {"name": "Aerospace_museums", "id": 803979}], "successors": [{"name": "U.S._Space_&_Rocket_Center", "id": 33028467}]}
+{"name": "NASA_visitor_centers", "id": 40006918, "predecessors": [{"name": "Visitor_centers_in_the_United_States", "id": 11194448}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Scottish_stage_actresses", "id": 38412011, "predecessors": [{"name": "Scottish_actresses", "id": 38190832}, {"name": "British_actors", "id": 718753}], "successors": [{"name": "Scottish_musical_theatre_actresses", "id": 38418929}]}
+{"name": "Scottish_stage_actresses", "id": 38412011, "predecessors": [{"name": "British_stage_actresses", "id": 38377026}, {"name": "Theatre", "id": 698600}], "successors": [{"name": "Scottish_musical_theatre_actresses", "id": 38418929}]}

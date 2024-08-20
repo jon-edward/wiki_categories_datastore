@@ -1,1 +1,1 @@
-{"name": "Circle_packing", "id": 19332761, "predecessors": [{"name": "Circles", "id": 1967267}, {"name": "Packing_problems", "id": 44363102}, {"name": "Geometry", "id": 691466}], "successors": []}
+{"name": "Circle_packing", "id": 19332761, "predecessors": [{"name": "Packing_problems", "id": 44363102}], "successors": []}

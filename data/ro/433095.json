@@ -1,1 +1,1 @@
-{"name": "Sisteme_dinamice", "id": 433095, "predecessors": [{"name": "Dinamică", "id": 935394}, {"name": "Teoria_sistemelor", "id": 142192}, {"name": "Materie", "id": 116477}], "successors": [{"name": "Termodinamică", "id": 29170}, {"name": "Sisteme_stelare", "id": 52484}]}
+{"name": "Sisteme_dinamice", "id": 433095, "predecessors": [{"name": "Dinamică", "id": 935394}, {"name": "Sisteme_fizice", "id": 886064}, {"name": "Teoria_sistemelor", "id": 142192}], "successors": [{"name": "Termodinamică", "id": 29170}, {"name": "Sisteme_stelare", "id": 52484}]}

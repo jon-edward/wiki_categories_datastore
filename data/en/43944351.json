@@ -1,1 +1,1 @@
-{"name": "Christian_hymns_in_Latin", "id": 43944351, "predecessors": [{"name": "Christian_hymns", "id": 696372}, {"name": "Texts_in_Latin", "id": 4057697}, {"name": "Hymns", "id": 742835}], "successors": [{"name": "Piae_Cantiones", "id": 29738904}]}
+{"name": "Christian_hymns_in_Latin", "id": 43944351, "predecessors": [{"name": "Catholic_music", "id": 4045202}, {"name": "Christian_hymns", "id": 696372}, {"name": "Texts_in_Latin", "id": 4057697}], "successors": [{"name": "Piae_Cantiones", "id": 29738904}]}

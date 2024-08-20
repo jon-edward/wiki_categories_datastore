@@ -1,1 +1,1 @@
-{"name": "Tailings_dam_failures", "id": 42440968, "predecessors": [{"name": "Environmental_disasters", "id": 2651116}, {"name": "History_of_mining", "id": 7639825}, {"name": "Dams", "id": 800108}], "successors": []}
+{"name": "Tailings_dam_failures", "id": 42440968, "predecessors": [{"name": "Environmental_disasters", "id": 2651116}, {"name": "Tailings_dams", "id": 32689391}, {"name": "History_of_mining", "id": 7639825}, {"name": "Dams", "id": 800108}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Helicopter_operators", "id": 13802620, "predecessors": [{"name": "Traffic_management", "id": 44938737}, {"name": "Aviation_organizations", "id": 15340576}], "successors": [{"name": "Helicopter_airlines", "id": 7463956}]}
+{"name": "Helicopter_operators", "id": 13802620, "predecessors": [{"name": "Traffic_management", "id": 44938737}], "successors": [{"name": "Helicopter_airlines", "id": 7463956}]}

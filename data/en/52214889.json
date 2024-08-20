@@ -1,1 +1,1 @@
-{"name": "Male_opera_composers", "id": 52214889, "predecessors": [{"name": "Male_classical_composers", "id": 44858645}, {"name": "Opera", "id": 694830}], "successors": []}
+{"name": "Male_opera_composers", "id": 52214889, "predecessors": [{"name": "Opera", "id": 694830}], "successors": [{"name": "Male_operetta_composers", "id": 69413709}]}

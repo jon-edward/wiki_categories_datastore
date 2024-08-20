@@ -1,1 +1,1 @@
-{"name": "ZiL_vehicles", "id": 53848178, "predecessors": [{"name": "Cars_of_Russia", "id": 18528352}, {"name": "Luxury_vehicles", "id": 1028860}, {"name": "Defence_companies_of_Russia", "id": 11553202}], "successors": []}
+{"name": "ZiL_vehicles", "id": 53848178, "predecessors": [{"name": "Cars_of_Russia", "id": 18528352}, {"name": "Luxury_vehicles", "id": 1028860}, {"name": "Defence_companies_of_the_Soviet_Union", "id": 16326829}], "successors": []}

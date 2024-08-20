@@ -1,1 +1,1 @@
-{"name": "Diplomatic_districts", "id": 3763145, "predecessors": [{"name": "Neighbourhoods", "id": 1059078}], "successors": [{"name": "Embassy_Row", "id": 13103811}, {"name": "Itaewon", "id": 72148083}]}
+{"name": "Diplomatic_districts", "id": 3763145, "predecessors": [{"name": "Neighbourhoods", "id": 1059078}, {"name": "Diplomacy", "id": 911551}], "successors": [{"name": "Embassy_Row", "id": 13103811}, {"name": "Itaewon", "id": 72148083}]}

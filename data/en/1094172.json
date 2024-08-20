@@ -1,1 +1,0 @@
-{"name": "DOS_on_IBM_PC_compatibles", "id": 1094172, "predecessors": [{"name": "Disk_operating_systems", "id": 3933410}, {"name": "IBM_PC_compatibles", "id": 1094042}], "successors": [{"name": "DOS_files", "id": 33093813}, {"name": "Internal_DOS_commands", "id": 39104035}, {"name": "External_DOS_commands", "id": 39104046}, {"name": "CONFIG.SYS_directives", "id": 39767493}]}

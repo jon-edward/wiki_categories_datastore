@@ -1,1 +1,1 @@
-{"name": "Satellite_collisions", "id": 39175236, "predecessors": [{"name": "Satellites", "id": 787571}, {"name": "Space_debris", "id": 39301343}], "successors": []}
+{"name": "Satellite_collisions", "id": 39175236, "predecessors": [{"name": "Satellites", "id": 787571}, {"name": "Space_debris", "id": 39301343}, {"name": "Engineering_failures", "id": 941939}], "successors": []}

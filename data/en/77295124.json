@@ -1,1 +1,1 @@
-{"name": "Artillery_battery_fortifications", "id": 77295124, "predecessors": [{"name": "Artillery", "id": 700053}, {"name": "Fortifications_by_type", "id": 34892847}], "successors": [{"name": "Batteries_in_Malta", "id": 44821742}]}
+{"name": "Artillery_battery_fortifications", "id": 77295124, "predecessors": [{"name": "Artillery", "id": 700053}, {"name": "Fortifications_by_type", "id": 34892847}], "successors": [{"name": "Batteries_in_Gibraltar", "id": 37444168}, {"name": "Batteries_in_Malta", "id": 44821742}]}

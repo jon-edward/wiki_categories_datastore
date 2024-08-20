@@ -1,1 +1,1 @@
-{"name": "VEI-8_volcanoes", "id": 4567180, "predecessors": [{"name": "Pre-Holocene_volcanoes", "id": 22578763}, {"name": "Supervolcanoes", "id": 986590}], "successors": [{"name": "Taupō_Volcanic_Zone", "id": 990432}]}
+{"name": "VEI-8_volcanoes", "id": 4567180, "predecessors": [{"name": "Pre-Holocene_volcanoes", "id": 22578763}, {"name": "Supervolcanoes", "id": 986590}, {"name": "Volcanoes", "id": 693788}], "successors": [{"name": "Taupō_Volcanic_Zone", "id": 990432}]}

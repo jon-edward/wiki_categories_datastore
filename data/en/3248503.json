@@ -1,1 +1,1 @@
-{"name": "World_War_II_naval_ships", "id": 3248503, "predecessors": [{"name": "Weapons", "id": 698507}], "successors": [{"name": "World_War_II_commerce_raiders", "id": 23841837}, {"name": "Naval_ships_of_Operation_Neptune", "id": 65709735}]}
+{"name": "World_War_II_naval_ships", "id": 3248503, "predecessors": [{"name": "Military_equipment_of_World_War_II", "id": 30132042}, {"name": "Naval_ships", "id": 733412}, {"name": "Military_equipment", "id": 771670}], "successors": [{"name": "World_War_II_commerce_raiders", "id": 23841837}]}

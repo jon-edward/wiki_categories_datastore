@@ -1,1 +1,1 @@
-{"name": "Hot_sandwiches", "id": 66164792, "predecessors": [{"name": "Sandwiches", "id": 757471}, {"name": "Temperature", "id": 1214620}], "successors": [{"name": "Hamburgers_(food)", "id": 6044907}, {"name": "Hot_dogs", "id": 6268013}]}
+{"name": "Hot_sandwiches", "id": 66164792, "predecessors": [{"name": "Temperature", "id": 1214620}], "successors": [{"name": "Hamburgers_(food)", "id": 6044907}, {"name": "Hot_dogs", "id": 6268013}]}

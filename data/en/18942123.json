@@ -1,1 +1,1 @@
-{"name": "Roads_in_Alameda_County,_California", "id": 18942123, "predecessors": [{"name": "Transportation_in_Alameda_County,_California", "id": 15991910}], "successors": []}
+{"name": "Roads_in_Alameda_County,_California", "id": 18942123, "predecessors": [{"name": "Transportation_in_Alameda_County,_California", "id": 15991910}, {"name": "Road_transportation_in_California", "id": 55051913}], "successors": [{"name": "Streets_in_Berkeley,_California", "id": 36756866}]}

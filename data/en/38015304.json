@@ -1,1 +1,1 @@
-{"name": "Grammar_checkers", "id": 38015304, "predecessors": [{"name": "Spell_checkers", "id": 34242749}, {"name": "Editing", "id": 5666647}, {"name": "Language", "id": 8017451}], "successors": []}
+{"name": "Grammar_checkers", "id": 38015304, "predecessors": [{"name": "Spell_checkers", "id": 34242749}, {"name": "Editing", "id": 5666647}, {"name": "Natural_language_and_computing", "id": 30628568}], "successors": []}

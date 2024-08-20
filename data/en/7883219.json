@@ -1,1 +1,1 @@
-{"name": "DirectX", "id": 7883219, "predecessors": [{"name": "3D_computer_graphics", "id": 2138831}, {"name": "Microsoft_application_programming_interfaces", "id": 14892859}, {"name": "Windows_components", "id": 6100661}], "successors": []}
+{"name": "DirectX", "id": 7883219, "predecessors": [{"name": "3D_computer_graphics", "id": 2138831}, {"name": "Microsoft_application_programming_interfaces", "id": 14892859}], "successors": []}

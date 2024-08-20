@@ -1,1 +1,1 @@
-{"name": "Education_in_San_Bernardino,_California", "id": 17750334, "predecessors": [{"name": "San_Bernardino,_California", "id": 12075455}], "successors": [{"name": "California_State_University,_San_Bernardino", "id": 14616596}]}
+{"name": "Education_in_San_Bernardino,_California", "id": 17750334, "predecessors": [{"name": "San_Bernardino,_California", "id": 12075455}, {"name": "San_Bernardino_County,_California", "id": 1142447}], "successors": [{"name": "California_State_University,_San_Bernardino", "id": 14616596}]}

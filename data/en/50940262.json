@@ -1,1 +1,0 @@
-{"name": "3000_V_DC_railway_electrification", "id": 50940262, "predecessors": [{"name": "Electric_rail_transport", "id": 7031362}], "successors": [{"name": "3000_V_DC_locomotives", "id": 12716896}, {"name": "3000_V_DC_multiple_units", "id": 57008913}]}

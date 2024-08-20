@@ -1,1 +1,1 @@
-{"name": "Transport_in_Lausanne", "id": 25885160, "predecessors": [{"name": "Economy_of_Switzerland", "id": 2726556}], "successors": []}
+{"name": "Transport_in_Lausanne", "id": 25885160, "predecessors": [{"name": "Lausanne", "id": 8554456}, {"name": "Transport_in_the_canton_of_Vaud", "id": 36273549}, {"name": "Cities_in_Switzerland", "id": 958529}], "successors": [{"name": "Lausanne_Metro_stations", "id": 65061873}]}

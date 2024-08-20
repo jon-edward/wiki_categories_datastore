@@ -1,1 +1,1 @@
-{"name": "Postal_vehicles", "id": 47260916, "predecessors": [{"name": "Postal_systems", "id": 878463}, {"name": "Vehicles_by_purpose", "id": 31806456}], "successors": []}
+{"name": "Postal_vehicles", "id": 47260916, "predecessors": [{"name": "Vehicles_by_purpose", "id": 31806456}], "successors": []}

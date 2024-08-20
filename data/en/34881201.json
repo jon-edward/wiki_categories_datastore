@@ -1,1 +1,1 @@
-{"name": "X-ray_scattering", "id": 34881201, "predecessors": [{"name": "Diffraction", "id": 2919864}, {"name": "Scattering", "id": 1020950}], "successors": []}
+{"name": "X-ray_scattering", "id": 34881201, "predecessors": [{"name": "Diffraction", "id": 2919864}, {"name": "Scattering", "id": 1020950}, {"name": "X-rays", "id": 1297860}], "successors": []}

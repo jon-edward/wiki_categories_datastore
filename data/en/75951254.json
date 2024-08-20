@@ -1,1 +1,1 @@
-{"name": "Looting_in_Asia", "id": 75951254, "predecessors": [{"name": "Looting", "id": 33788975}], "successors": [{"name": "Looting_in_Iraq", "id": 76285589}, {"name": "Looting_in_India", "id": 76291122}]}
+{"name": "Looting_in_Asia", "id": 75951254, "predecessors": [{"name": "Asia", "id": 697006}, {"name": "Looting", "id": 33788975}], "successors": [{"name": "Looting_in_Iraq", "id": 76285589}, {"name": "Looting_in_India", "id": 76291122}]}

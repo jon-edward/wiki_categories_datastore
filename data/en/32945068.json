@@ -1,1 +1,1 @@
-{"name": "People_in_bus_transport", "id": 32945068, "predecessors": [{"name": "Public_transport_by_mode", "id": 15720272}, {"name": "Road_transport", "id": 700964}], "successors": [{"name": "British_public_transport_executives", "id": 34941461}, {"name": "Bus_drivers", "id": 48592247}]}
+{"name": "People_in_bus_transport", "id": 32945068, "predecessors": [{"name": "Road_transport", "id": 700964}], "successors": [{"name": "Bus_drivers", "id": 48592247}]}

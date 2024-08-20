@@ -1,1 +1,1 @@
-{"name": "Vehicle_braking_technologies", "id": 8511632, "predecessors": [{"name": "Vehicle_technology", "id": 8345984}], "successors": []}
+{"name": "Vehicle_braking_technologies", "id": 8511632, "predecessors": [{"name": "Brakes", "id": 10966205}, {"name": "Vehicle_technology", "id": 8345984}], "successors": []}

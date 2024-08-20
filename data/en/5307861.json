@@ -1,1 +1,1 @@
-{"name": "Elastomers", "id": 5307861, "predecessors": [{"name": "Synthetic_materials", "id": 2018552}], "successors": []}
+{"name": "Elastomers", "id": 5307861, "predecessors": [{"name": "Plastics", "id": 2206328}, {"name": "Synthetic_materials", "id": 2018552}], "successors": [{"name": "Rubber_properties", "id": 4667248}, {"name": "Rubber", "id": 6513357}]}

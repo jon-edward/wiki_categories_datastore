@@ -1,1 +1,1 @@
-{"name": "Aquatic_therapy", "id": 42262211, "predecessors": [{"name": "Physical_therapy", "id": 7973397}, {"name": "Rehabilitation_medicine", "id": 1035494}, {"name": "Therapy", "id": 870156}, {"name": "Water", "id": 977553}], "successors": []}
+{"name": "Aquatic_therapy", "id": 42262211, "predecessors": [{"name": "Therapy", "id": 870156}, {"name": "Water", "id": 977553}], "successors": []}

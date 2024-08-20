@@ -1,1 +1,1 @@
-{"name": "Thanksgiving_food", "id": 48410965, "predecessors": [{"name": "American_cuisine", "id": 728911}, {"name": "Holiday_foods", "id": 20477446}, {"name": "Thanksgiving", "id": 5659398}], "successors": [{"name": "Squashes_and_pumpkins", "id": 2802959}, {"name": "Maize", "id": 10482026}]}
+{"name": "Thanksgiving_food", "id": 48410965, "predecessors": [{"name": "Holiday_foods", "id": 20477446}, {"name": "Thanksgiving", "id": 5659398}], "successors": [{"name": "Squashes_and_pumpkins", "id": 2802959}, {"name": "Maize", "id": 10482026}]}

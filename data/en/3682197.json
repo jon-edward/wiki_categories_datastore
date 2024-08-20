@@ -1,1 +1,1 @@
-{"name": "Turing_tests", "id": 3682197, "predecessors": [{"name": "Artificial_intelligence", "id": 700355}, {"name": "Authentication_methods", "id": 1212312}, {"name": "Computer_access_control", "id": 30841684}, {"name": "Tests", "id": 7058186}], "successors": [{"name": "Chatbots", "id": 8735377}]}
+{"name": "Turing_tests", "id": 3682197, "predecessors": [{"name": "Artificial_intelligence", "id": 700355}, {"name": "Computer_access_control", "id": 30841684}], "successors": [{"name": "Chatbots", "id": 8735377}]}

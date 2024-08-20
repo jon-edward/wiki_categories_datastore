@@ -1,1 +1,1 @@
-{"name": "Shipbuilding_companies", "id": 1091242, "predecessors": [{"name": "Shipbuilding", "id": 38000490}, {"name": "Technology_companies", "id": 3608033}, {"name": "Standards", "id": 724561}], "successors": [{"name": "Boat_builders", "id": 2853090}]}
+{"name": "Shipbuilding_companies", "id": 1091242, "predecessors": [{"name": "Shipbuilding", "id": 38000490}, {"name": "Infrastructure", "id": 2962329}, {"name": "Maritime_transport", "id": 56494593}], "successors": [{"name": "Boat_builders", "id": 2853090}, {"name": "Submarine_builders", "id": 71903344}]}

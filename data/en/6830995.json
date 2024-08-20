@@ -1,1 +1,1 @@
-{"name": "Byzantine_poets", "id": 6830995, "predecessors": [{"name": "Byzantine_writers", "id": 1729108}, {"name": "Medieval_poetry", "id": 40952262}, {"name": "Poetry_by_language", "id": 71605657}], "successors": [{"name": "Byzantine_hymnographers", "id": 28881158}]}
+{"name": "Byzantine_poets", "id": 6830995, "predecessors": [{"name": "Byzantine_writers", "id": 1729108}, {"name": "Greek_language", "id": 4842064}], "successors": [{"name": "Byzantine_hymnographers", "id": 28881158}]}

@@ -1,1 +1,1 @@
-{"name": "Philosophy_textbooks", "id": 70597686, "predecessors": [{"name": "Philosophy_books", "id": 775417}, {"name": "Philosophy_education", "id": 6286237}, {"name": "Textbooks", "id": 8123675}, {"name": "Humanities", "id": 1004110}], "successors": []}
+{"name": "Philosophy_textbooks", "id": 70597686, "predecessors": [{"name": "Textbooks", "id": 8123675}], "successors": []}

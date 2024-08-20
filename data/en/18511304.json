@@ -1,1 +1,1 @@
-{"name": "Sports_venues_in_Tokyo", "id": 18511304, "predecessors": [{"name": "Sport_in_Tokyo", "id": 3302834}], "successors": [{"name": "Venues_of_the_1964_Summer_Olympics", "id": 26029451}]}
+{"name": "Sports_venues_in_Tokyo", "id": 18511304, "predecessors": [{"name": "Buildings_and_structures_in_Tokyo", "id": 3302811}, {"name": "Sport_in_Tokyo", "id": 3302834}, {"name": "Tourist_attractions_in_Tokyo", "id": 7787547}, {"name": "Japanese_popular_culture", "id": 35371982}], "successors": [{"name": "Venues_of_the_1964_Summer_Olympics", "id": 26029451}]}

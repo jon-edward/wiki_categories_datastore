@@ -1,1 +1,1 @@
-{"name": "Domestic_work", "id": 4974555, "predecessors": [{"name": "Personal_care_and_service_occupations", "id": 787629}, {"name": "Social_issues", "id": 3659008}, {"name": "Home", "id": 803231}], "successors": [{"name": "Domestic_workers", "id": 4684029}]}
+{"name": "Domestic_work", "id": 4974555, "predecessors": [{"name": "Home", "id": 803231}], "successors": []}

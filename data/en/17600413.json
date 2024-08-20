@@ -1,1 +1,1 @@
-{"name": "Bus_companies_of_India", "id": 17600413, "predecessors": [{"name": "Transport_organisations_based_in_India", "id": 52938578}], "successors": [{"name": "State_road_transport_corporations_of_India", "id": 27161898}, {"name": "Metropolitan_transport_agencies_of_India", "id": 42298789}]}
+{"name": "Bus_companies_of_India", "id": 17600413, "predecessors": [{"name": "Bus_operating_companies", "id": 12185357}], "successors": [{"name": "State_road_transport_corporations_of_India", "id": 27161898}, {"name": "Metropolitan_transport_agencies_of_India", "id": 42298789}]}

@@ -1,1 +1,1 @@
-{"name": "Temporary_employment", "id": 36981059, "predecessors": [{"name": "Working_time", "id": 4595730}, {"name": "Employment", "id": 1798901}], "successors": [{"name": "Temporary_employment_agencies", "id": 12325554}, {"name": "American_freelance_journalists", "id": 26637306}]}
+{"name": "Temporary_employment", "id": 36981059, "predecessors": [{"name": "Working_time", "id": 4595730}], "successors": []}

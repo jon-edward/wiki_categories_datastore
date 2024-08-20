@@ -1,1 +1,1 @@
-{"name": "Helium", "id": 6424982, "predecessors": [{"name": "Chemical_elements", "id": 691255}, {"name": "Helios", "id": 23790330}, {"name": "Noble_gases", "id": 1573989}], "successors": [{"name": "Isotopes_of_helium", "id": 11745916}]}
+{"name": "Helium", "id": 6424982, "predecessors": [{"name": "Helios", "id": 23790330}, {"name": "Noble_gases", "id": 1573989}], "successors": [{"name": "Isotopes_of_helium", "id": 11745916}, {"name": "Superfluidity", "id": 67929969}]}

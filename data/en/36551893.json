@@ -1,1 +1,1 @@
-{"name": "Newspaper_content", "id": 36551893, "predecessors": [{"name": "Newspaper_publishing", "id": 24204175}], "successors": []}
+{"name": "Newspaper_content", "id": 36551893, "predecessors": [{"name": "Newspaper_publishing", "id": 24204175}], "successors": [{"name": "Print_syndication", "id": 22175761}]}

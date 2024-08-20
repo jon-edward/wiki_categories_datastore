@@ -1,1 +1,1 @@
-{"name": "Ship_design", "id": 37871811, "predecessors": [{"name": "Naval_architecture", "id": 6283855}, {"name": "Vehicle_design", "id": 3979833}], "successors": [{"name": "Boat_and_ship_designers", "id": 11859426}]}
+{"name": "Ship_design", "id": 37871811, "predecessors": [{"name": "Naval_architecture", "id": 6283855}, {"name": "Ships", "id": 711332}, {"name": "Vehicle_design", "id": 3979833}], "successors": [{"name": "Boat_and_ship_designers", "id": 11859426}]}

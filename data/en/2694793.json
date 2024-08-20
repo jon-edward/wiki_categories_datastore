@@ -1,1 +1,1 @@
-{"name": "Acoustic_guitars", "id": 2694793, "predecessors": [{"name": "Guitars", "id": 1018151}], "successors": [{"name": "Classical_guitar", "id": 3853384}]}
+{"name": "Acoustic_guitars", "id": 2694793, "predecessors": [{"name": "Guitars", "id": 1018151}], "successors": [{"name": "Classical_guitar", "id": 3853384}, {"name": "Acoustic_guitarists", "id": 32821944}, {"name": "Gibson_acoustic_guitars", "id": 34383292}]}

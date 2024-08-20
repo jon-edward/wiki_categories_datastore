@@ -1,1 +1,1 @@
-{"name": "Animal_ethics_books", "id": 68957012, "predecessors": [{"name": "Animal_ethics", "id": 64476713}, {"name": "Ethics_books", "id": 6271862}, {"name": "Animals_in_culture", "id": 52196120}], "successors": [{"name": "Books_about_vegetarianism", "id": 62134960}]}
+{"name": "Animal_ethics_books", "id": 68957012, "predecessors": [{"name": "Animal_ethics", "id": 64476713}, {"name": "Animals_in_culture", "id": 52196120}], "successors": [{"name": "Books_about_animal_rights", "id": 3281221}, {"name": "Books_about_vegetarianism", "id": 62134960}]}

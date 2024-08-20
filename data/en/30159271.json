@@ -1,1 +1,1 @@
-{"name": "Torah_reading", "id": 30159271, "predecessors": [{"name": "Hebrew_words_and_phrases_in_the_Hebrew_Bible", "id": 24463703}, {"name": "Religious_texts", "id": 694048}], "successors": [{"name": "Cantillation_marks", "id": 23218840}]}
+{"name": "Torah_reading", "id": 30159271, "predecessors": [{"name": "Hebrew_words_and_phrases_in_the_Hebrew_Bible", "id": 24463703}, {"name": "Shacharit", "id": 28421444}, {"name": "Torah", "id": 766410}, {"name": "Jewish_services", "id": 12112908}], "successors": [{"name": "Cantillation_marks", "id": 23218840}]}

@@ -1,1 +1,1 @@
-{"name": "Transport_in_Ottawa", "id": 36311364, "predecessors": [{"name": "Census_divisions_of_Canada", "id": 1956814}, {"name": "Transport_in_Ontario", "id": 36311682}], "successors": []}
+{"name": "Transport_in_Ottawa", "id": 36311364, "predecessors": [{"name": "Census_divisions_of_Canada", "id": 1956814}, {"name": "Transport_in_Ontario", "id": 36311682}], "successors": [{"name": "Rideau_Canal", "id": 4499962}, {"name": "Roads_in_Ottawa", "id": 21010217}, {"name": "Rail_transport_in_Ottawa", "id": 66472924}]}

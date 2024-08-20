@@ -1,1 +1,1 @@
-{"name": "OpenVMS_software", "id": 3605885, "predecessors": [{"name": "OpenVMS", "id": 3605873}, {"name": "Operating_systems", "id": 693664}], "successors": [{"name": "OpenVMS_text_editors", "id": 2294560}]}
+{"name": "OpenVMS_software", "id": 3605885, "predecessors": [{"name": "OpenVMS", "id": 3605873}], "successors": [{"name": "OpenVMS_text_editors", "id": 2294560}]}

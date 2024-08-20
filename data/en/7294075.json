@@ -1,1 +1,1 @@
-{"name": "Oral_hygiene", "id": 7294075, "predecessors": [{"name": "Hygiene", "id": 1056532}, {"name": "Mouth", "id": 1404138}], "successors": []}
+{"name": "Oral_hygiene", "id": 7294075, "predecessors": [{"name": "Hygiene", "id": 1056532}, {"name": "Mouth", "id": 1404138}], "successors": [{"name": "Dentifrices", "id": 10027782}]}

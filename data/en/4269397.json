@@ -1,1 +1,1 @@
-{"name": "Trappist_Order", "id": 4269397, "predecessors": [{"name": "Catholic_orders_and_societies", "id": 25561369}], "successors": [{"name": "Trappist_monasteries", "id": 3842490}]}
+{"name": "Trappist_Order", "id": 4269397, "predecessors": [{"name": "Catholic_monastic_orders", "id": 19451339}, {"name": "Catholic_orders_and_societies", "id": 25561369}], "successors": [{"name": "Trappist_monasteries", "id": 3842490}]}

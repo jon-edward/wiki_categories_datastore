@@ -1,1 +1,1 @@
-{"name": "Proofreading", "id": 26146894, "predecessors": [{"name": "Copy_editing", "id": 1018750}, {"name": "Publishing", "id": 1001911}, {"name": "Writing_occupations", "id": 2148788}], "successors": []}
+{"name": "Proofreading", "id": 26146894, "predecessors": [{"name": "Copy_editing", "id": 1018750}], "successors": [{"name": "Grammar", "id": 733122}, {"name": "Punctuation", "id": 1019193}, {"name": "Spelling", "id": 4893632}]}

@@ -1,1 +1,1 @@
-{"name": "Anti-ship_missiles", "id": 764521, "predecessors": [{"name": "Naval_weapons", "id": 1157667}], "successors": [{"name": "Anti-ship_cruise_missiles", "id": 1935716}, {"name": "Cold_War_anti-ship_missiles_of_the_Soviet_Union", "id": 1936522}]}
+{"name": "Anti-ship_missiles", "id": 764521, "predecessors": [{"name": "Cruise_missiles", "id": 752369}, {"name": "Naval_weapons", "id": 1157667}], "successors": [{"name": "Anti-ship_cruise_missiles", "id": 1935716}, {"name": "Cold_War_anti-ship_missiles_of_the_Soviet_Union", "id": 1936522}]}

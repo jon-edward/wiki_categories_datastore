@@ -1,1 +1,1 @@
-{"name": "Motor_skills", "id": 1490530, "predecessors": [{"name": "Motor_control", "id": 22728692}, {"name": "Skills", "id": 1079731}], "successors": [{"name": "Sleight_of_hand", "id": 2952834}, {"name": "Handedness", "id": 25398763}]}
+{"name": "Motor_skills", "id": 1490530, "predecessors": [{"name": "Motor_control", "id": 22728692}], "successors": [{"name": "Sleight_of_hand", "id": 2952834}, {"name": "Handedness", "id": 25398763}]}

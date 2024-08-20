@@ -1,1 +1,1 @@
-{"name": "GERB_politicians", "id": 43012341, "predecessors": [{"name": "Political_parties", "id": 694706}, {"name": "International_Democracy_Union_member_parties", "id": 30759657}], "successors": [{"name": "GERB_MEPs", "id": 43012347}]}
+{"name": "GERB_politicians", "id": 43012341, "predecessors": [{"name": "Bulgarian_politicians", "id": 878499}, {"name": "Conservative_parties_in_Bulgaria", "id": 26135843}], "successors": [{"name": "GERB_MEPs", "id": 43012347}]}

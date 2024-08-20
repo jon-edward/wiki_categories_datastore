@@ -1,1 +1,1 @@
-{"name": "Gunpowder_mills", "id": 61883110, "predecessors": [{"name": "Grinding_mills", "id": 11277094}, {"name": "Gunpowder", "id": 38520532}], "successors": []}
+{"name": "Gunpowder_mills", "id": 61883110, "predecessors": [{"name": "Explosives_manufacturers", "id": 30111761}, {"name": "Grinding_mills", "id": 11277094}, {"name": "Gunpowder", "id": 38520532}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Portable_media_players", "id": 14940120, "predecessors": [{"name": "Digital_audio_players", "id": 2637572}, {"name": "MPEG", "id": 3943280}, {"name": "Media_players", "id": 924860}], "successors": []}
+{"name": "Portable_media_players", "id": 14940120, "predecessors": [{"name": "Digital_audio_players", "id": 2637572}, {"name": "MPEG", "id": 3943280}, {"name": "Media_players", "id": 924860}, {"name": "Portable_electronics", "id": 27739343}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Solar_thermal_energy", "id": 28116966, "predecessors": [{"name": "Residential_heating", "id": 11090990}], "successors": []}
+{"name": "Solar_thermal_energy", "id": 28116966, "predecessors": [{"name": "Residential_heating", "id": 11090990}, {"name": "Solar_energy", "id": 6021846}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Coma_Cluster", "id": 1558479, "predecessors": [{"name": "Coma_Berenices", "id": 35200348}, {"name": "Coma_Supercluster", "id": 7902344}, {"name": "Galaxy_clusters", "id": 953703}], "successors": []}
+{"name": "Coma_Cluster", "id": 1558479, "predecessors": [{"name": "Coma_Supercluster", "id": 7902344}, {"name": "Galaxy_clusters", "id": 953703}], "successors": []}

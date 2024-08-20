@@ -1,1 +1,0 @@
-{"name": "Số_nguyên_tố", "id": 48403, "predecessors": [{"name": "Chuỗi_số_nguyên", "id": 3272431}, {"name": "Số", "id": 44526}], "successors": [{"name": "Kiểm_tra_tính_nguyên_tố", "id": 57174}, {"name": "Số_giả_nguyên_tố", "id": 263029}, {"name": "Phỏng_đoán_về_số_nguyên_tố", "id": 1761497}, {"name": "Định_lý_về_số_nguyên_tố", "id": 19742020}]}

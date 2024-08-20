@@ -1,1 +1,1 @@
-{"name": "Olympic_medals", "id": 956227, "predecessors": [{"name": "Medals", "id": 48808668}, {"name": "Olympic_Games", "id": 41751258}, {"name": "Sports_trophies_and_awards", "id": 708305}], "successors": [{"name": "Olympic_Games_medal_tables", "id": 29759788}]}
+{"name": "Olympic_medals", "id": 956227, "predecessors": [{"name": "International_awards", "id": 23641271}, {"name": "Medals", "id": 48808668}], "successors": [{"name": "Olympic_Games_medal_tables", "id": 29759788}]}

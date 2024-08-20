@@ -1,1 +1,1 @@
-{"name": "Mir", "id": 2194354, "predecessors": [{"name": "Crewed_space_program_of_the_Soviet_Union", "id": 36845180}, {"name": "Crewed_spacecraft", "id": 786264}, {"name": "Space_stations", "id": 693396}], "successors": [{"name": "Mir_crew_members", "id": 68337530}]}
+{"name": "Mir", "id": 2194354, "predecessors": [{"name": "Crewed_space_program_of_the_Soviet_Union", "id": 36845180}, {"name": "Space_stations", "id": 693396}, {"name": "Space_program_of_Russia", "id": 36845342}], "successors": [{"name": "Mir_crew_members", "id": 68337530}]}

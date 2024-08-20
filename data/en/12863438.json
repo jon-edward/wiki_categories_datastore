@@ -1,1 +1,1 @@
-{"name": "Canadian_potters", "id": 12863438, "predecessors": [{"name": "Canadian_art", "id": 1467701}, {"name": "Art_by_country", "id": 1001486}], "successors": [{"name": "Canadian_women_potters", "id": 76125852}]}
+{"name": "Canadian_potters", "id": 12863438, "predecessors": [{"name": "Canadian_ceramists", "id": 22121889}, {"name": "Canadian_art", "id": 1467701}], "successors": [{"name": "Canadian_women_potters", "id": 76125852}]}

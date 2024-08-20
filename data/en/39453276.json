@@ -1,1 +1,1 @@
-{"name": "Music_managers", "id": 39453276, "predecessors": [{"name": "Arts_managers", "id": 4300880}, {"name": "Music_industry", "id": 768384}, {"name": "Talent_managers", "id": 8086898}], "successors": []}
+{"name": "Music_managers", "id": 39453276, "predecessors": [{"name": "Talent_managers", "id": 8086898}], "successors": []}

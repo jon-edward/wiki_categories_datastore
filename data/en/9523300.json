@@ -1,1 +1,1 @@
-{"name": "White_House_Executive_Residence_Operations", "id": 9523300, "predecessors": [{"name": "White_House", "id": 2796994}], "successors": []}
+{"name": "White_House_Executive_Residence_Operations", "id": 9523300, "predecessors": [{"name": "White_House", "id": 2796994}], "successors": [{"name": "White_House_staff", "id": 24006063}]}

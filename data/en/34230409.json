@@ -1,1 +1,1 @@
-{"name": "Database_companies", "id": 34230409, "predecessors": [{"name": "Data_companies", "id": 52293991}, {"name": "Databases", "id": 2276471}, {"name": "Information_technology", "id": 700911}], "successors": []}
+{"name": "Database_companies", "id": 34230409, "predecessors": [{"name": "Databases", "id": 2276471}], "successors": [{"name": "Big_data_companies", "id": 48573656}, {"name": "Government_databases", "id": 1566657}, {"name": "Bibliographic_database_providers", "id": 24539027}]}

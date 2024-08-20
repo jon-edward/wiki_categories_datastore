@@ -1,1 +1,1 @@
-{"name": "Canadian_newspaper_editors", "id": 3105716, "predecessors": [{"name": "Science_and_technology_in_Canada", "id": 2325678}, {"name": "North_American_literature", "id": 37199477}], "successors": [{"name": "Canadian_women_newspaper_editors", "id": 76519361}]}
+{"name": "Canadian_newspaper_editors", "id": 3105716, "predecessors": [{"name": "Canadian_newspaper_journalists", "id": 12318872}, {"name": "Science_and_technology_in_Canada", "id": 2325678}], "successors": [{"name": "Canadian_women_newspaper_editors", "id": 76519361}]}

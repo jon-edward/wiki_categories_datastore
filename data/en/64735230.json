@@ -1,1 +1,1 @@
-{"name": "Residence_permit", "id": 64735230, "predecessors": [{"name": "Human_migration", "id": 1206703}, {"name": "Identity_documents", "id": 45377533}, {"name": "Residency", "id": 11374020}], "successors": []}
+{"name": "Residence_permit", "id": 64735230, "predecessors": [{"name": "Human_migration", "id": 1206703}, {"name": "Residency", "id": 11374020}, {"name": "Immigration", "id": 8704137}], "successors": []}

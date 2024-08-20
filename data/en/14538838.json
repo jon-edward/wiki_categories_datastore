@@ -1,1 +1,1 @@
-{"name": "Engineering_consulting_firms", "id": 14538838, "predecessors": [{"name": "Engineering_organizations", "id": 14661580}, {"name": "Construction_and_civil_engineering_companies", "id": 1344089}, {"name": "Services_sector_of_the_economy", "id": 10887914}], "successors": []}
+{"name": "Engineering_consulting_firms", "id": 14538838, "predecessors": [{"name": "Construction_and_civil_engineering_companies", "id": 1344089}], "successors": [{"name": "International_engineering_consulting_firms", "id": 73056401}]}

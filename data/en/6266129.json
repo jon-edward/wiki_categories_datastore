@@ -1,1 +1,1 @@
-{"name": "Finnish_noble_families", "id": 6266129, "predecessors": [{"name": "Finnish_families", "id": 1692354}, {"name": "Finnish_nobility", "id": 3023924}, {"name": "Family", "id": 706788}], "successors": []}
+{"name": "Finnish_noble_families", "id": 6266129, "predecessors": [{"name": "Nobility", "id": 1068479}], "successors": [{"name": "Carl_Gustaf_Emil_Mannerheim", "id": 51668128}]}

@@ -1,1 +1,1 @@
-{"name": "Zinc", "id": 966377, "predecessors": [{"name": "Elements_natius", "id": 1175371}, {"name": "Grups_d'elements_químics", "id": 14399}], "successors": [{"name": "Minerals_de_zinc", "id": 990420}]}
+{"name": "Zinc", "id": 966377, "predecessors": [{"name": "Grups_d'elements_químics", "id": 14399}, {"name": "Materials", "id": 14056}, {"name": "Nutrició", "id": 27485}], "successors": [{"name": "Minerals_de_zinc", "id": 990420}]}

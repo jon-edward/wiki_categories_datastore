@@ -1,1 +1,1 @@
-{"name": "Round_churches", "id": 47957798, "predecessors": [{"name": "Round_buildings", "id": 43175614}], "successors": [{"name": "Church_of_the_Holy_Sepulchre", "id": 70877052}, {"name": "Pantheon,_Rome", "id": 77089022}]}
+{"name": "Round_churches", "id": 47957798, "predecessors": [{"name": "Church_architecture", "id": 1737609}, {"name": "Round_buildings", "id": 43175614}], "successors": [{"name": "Church_of_the_Holy_Sepulchre", "id": 70877052}, {"name": "Round-tower_churches", "id": 75551588}, {"name": "Pantheon,_Rome", "id": 77089022}]}

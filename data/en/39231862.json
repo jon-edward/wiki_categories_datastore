@@ -1,1 +1,1 @@
-{"name": "Embezzlement", "id": 39231862, "predecessors": [{"name": "Commercial_crimes", "id": 1418756}, {"name": "Corruption", "id": 990882}, {"name": "Crimes", "id": 694944}, {"name": "Fraud", "id": 737192}, {"name": "Property_crimes", "id": 35897821}, {"name": "Theft", "id": 1515403}], "successors": []}
+{"name": "Embezzlement", "id": 39231862, "predecessors": [{"name": "Corruption", "id": 990882}, {"name": "Fraud", "id": 737192}], "successors": [{"name": "People_convicted_of_embezzlement", "id": 30996816}]}

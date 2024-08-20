@@ -1,1 +1,1 @@
-{"name": "Mountains_under_1000_metres", "id": 26164897, "predecessors": [{"name": "Summits", "id": 41347199}], "successors": [{"name": "Mountains_of_Switzerland_under_1000_metres", "id": 49208699}, {"name": "Mountains_of_Canada_under_1000_metres", "id": 67866065}, {"name": "Mountains_of_Italy_under_1000_metres", "id": 71391338}]}
+{"name": "Mountains_under_1000_metres", "id": 26164897, "predecessors": [{"name": "Summits", "id": 41347199}, {"name": "Mountains", "id": 700252}], "successors": []}

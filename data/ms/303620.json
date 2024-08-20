@@ -1,1 +1,1 @@
-{"name": "Avionik", "id": 303620, "predecessors": [{"name": "Elektronik", "id": 30627}, {"name": "Komponen_pesawat", "id": 128946}, {"name": "Sistem_terbenam", "id": 301676}, {"name": "Alat_pengukur", "id": 165434}], "successors": []}
+{"name": "Avionik", "id": 303620, "predecessors": [{"name": "Elektronik", "id": 30627}, {"name": "Komponen_pesawat", "id": 128946}, {"name": "Sistem_terbenam", "id": 301676}], "successors": []}

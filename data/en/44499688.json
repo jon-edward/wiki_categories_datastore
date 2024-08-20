@@ -1,1 +1,1 @@
-{"name": "Psychological_thriller_novels", "id": 44499688, "predecessors": [{"name": "Thriller_genres", "id": 43043399}], "successors": []}
+{"name": "Psychological_thriller_novels", "id": 44499688, "predecessors": [{"name": "Psychological_novels", "id": 5861764}, {"name": "Thriller_novels", "id": 3760981}, {"name": "Thriller_genres", "id": 43043399}], "successors": []}

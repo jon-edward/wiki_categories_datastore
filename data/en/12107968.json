@@ -1,1 +1,1 @@
-{"name": "Hebrew_Bible_valleys", "id": 12107968, "predecessors": [{"name": "Biblical_geography", "id": 41394870}], "successors": [{"name": "Gehenna", "id": 62531161}, {"name": "Valley_of_Elah", "id": 66628248}, {"name": "Jezreel_Valley", "id": 76165760}]}
+{"name": "Hebrew_Bible_valleys", "id": 12107968, "predecessors": [{"name": "Valleys", "id": 752128}, {"name": "Hebrew_Bible", "id": 12107744}], "successors": [{"name": "Gehenna", "id": 62531161}, {"name": "Valley_of_Elah", "id": 66628248}, {"name": "Jezreel_Valley", "id": 76165760}]}

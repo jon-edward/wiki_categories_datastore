@@ -1,1 +1,1 @@
-{"name": "Acts_of_sabotage", "id": 29180648, "predecessors": [{"name": "Property_crimes", "id": 35897821}, {"name": "Sabotage", "id": 12947635}], "successors": [{"name": "Sherman's_March_to_the_Sea", "id": 35700563}, {"name": "Train_wrecks_caused_by_sabotage", "id": 58456443}, {"name": "Great_Locomotive_Chase", "id": 63880765}]}
+{"name": "Acts_of_sabotage", "id": 29180648, "predecessors": [{"name": "Sabotage", "id": 12947635}], "successors": [{"name": "Sherman's_March_to_the_Sea", "id": 35700563}, {"name": "Great_Locomotive_Chase", "id": 63880765}]}

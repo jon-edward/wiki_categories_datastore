@@ -1,1 +1,1 @@
-{"name": "Glass_physics", "id": 22334253, "predecessors": [{"name": "Glass_engineering_and_science", "id": 15358462}], "successors": []}
+{"name": "Glass_physics", "id": 22334253, "predecessors": [{"name": "Condensed_matter_physics", "id": 692176}, {"name": "Glass_engineering_and_science", "id": 15358462}], "successors": []}

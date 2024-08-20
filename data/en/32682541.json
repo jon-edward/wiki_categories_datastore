@@ -1,1 +1,1 @@
-{"name": "Infectious_disease_blood_tests", "id": 32682541, "predecessors": [{"name": "Blood_tests", "id": 4262351}, {"name": "Infectious_diseases", "id": 707355}], "successors": [{"name": "COVID-19_testing", "id": 69599212}]}
+{"name": "Infectious_disease_blood_tests", "id": 32682541, "predecessors": [{"name": "Infectious_diseases", "id": 707355}], "successors": [{"name": "COVID-19_testing", "id": 69599212}]}

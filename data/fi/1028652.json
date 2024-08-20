@@ -1,1 +1,1 @@
-{"name": "Yle_Radio_1:n_ohjelmat", "id": 1028652, "predecessors": [{"name": "Suomalaiset_radio-ohjelmat", "id": 758073}, {"name": "Ylen_radiokanavat", "id": 1009782}], "successors": []}
+{"name": "Yle_Radio_1:n_ohjelmat", "id": 1028652, "predecessors": [{"name": "Ylen_radiokanavat", "id": 1009782}, {"name": "Suomalaiset_radio-ohjelmat", "id": 758073}], "successors": []}

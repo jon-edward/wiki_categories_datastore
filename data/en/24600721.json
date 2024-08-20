@@ -1,1 +1,1 @@
-{"name": "Bird_migration", "id": 24600721, "predecessors": [{"name": "Animal_migration", "id": 34918108}, {"name": "Bird_behavior", "id": 42624696}], "successors": [{"name": "Raptor_migration_sites", "id": 28747878}]}
+{"name": "Bird_migration", "id": 24600721, "predecessors": [{"name": "Animal_migration", "id": 34918108}, {"name": "Bird_behavior", "id": 42624696}], "successors": [{"name": "Raptor_migration_sites", "id": 28747878}, {"name": "Migratory_Bird_Sanctuaries_of_Canada", "id": 46769731}]}

@@ -1,1 +1,1 @@
-{"name": "Health_deities", "id": 707163, "predecessors": [{"name": "Religion_and_health", "id": 56046751}, {"name": "Traditional_medicine", "id": 2957649}], "successors": [{"name": "Death_deities", "id": 704733}]}
+{"name": "Health_deities", "id": 707163, "predecessors": [{"name": "Religion_and_health", "id": 56046751}, {"name": "Traditional_medicine", "id": 2957649}], "successors": [{"name": "Death_deities", "id": 704733}, {"name": "Health_gods", "id": 709851}, {"name": "Health_goddesses", "id": 709854}]}

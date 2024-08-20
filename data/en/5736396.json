@@ -1,1 +1,1 @@
-{"name": "EMI_Latin_albums", "id": 5736396, "predecessors": [{"name": "Capitol_Latin_albums", "id": 43640855}], "successors": [{"name": "EMI_Latin_compilation_albums", "id": 30179059}]}
+{"name": "EMI_Latin_albums", "id": 5736396, "predecessors": [{"name": "Capitol_Latin_albums", "id": 43640855}, {"name": "EMI", "id": 4410431}], "successors": [{"name": "EMI_Latin_compilation_albums", "id": 30179059}]}

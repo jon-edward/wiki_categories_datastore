@@ -1,1 +1,1 @@
-{"name": "Cengage", "id": 18488930, "predecessors": [{"name": "Apax_Partners_companies", "id": 24626900}, {"name": "OMERS_companies", "id": 66850439}, {"name": "Textbook_publishing_companies", "id": 42629249}], "successors": [{"name": "Cengage_books", "id": 18489215}]}
+{"name": "Cengage", "id": 18488930, "predecessors": [{"name": "OMERS_companies", "id": 66850439}, {"name": "Textbook_publishing_companies", "id": 42629249}], "successors": [{"name": "Cengage_books", "id": 18489215}]}

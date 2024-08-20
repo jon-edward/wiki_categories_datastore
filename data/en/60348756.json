@@ -1,1 +1,1 @@
-{"name": "French_marine_artists", "id": 60348756, "predecessors": [{"name": "Marine_artists", "id": 14272519}], "successors": [{"name": "Peintres_de_la_Marine", "id": 23799810}]}
+{"name": "French_marine_artists", "id": 60348756, "predecessors": [{"name": "French_painters", "id": 881385}, {"name": "Marine_artists", "id": 14272519}], "successors": [{"name": "Peintres_de_la_Marine", "id": 23799810}]}

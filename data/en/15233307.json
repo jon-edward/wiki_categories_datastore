@@ -1,1 +1,1 @@
-{"name": "Talmud_places", "id": 15233307, "predecessors": [{"name": "Religious_places", "id": 1880789}], "successors": [{"name": "Lod", "id": 22034551}, {"name": "Tiberias", "id": 23486468}]}
+{"name": "Talmud_places", "id": 15233307, "predecessors": [{"name": "Religious_places", "id": 1880789}, {"name": "Talmud", "id": 799587}], "successors": [{"name": "Lod", "id": 22034551}, {"name": "Tiberias", "id": 23486468}]}

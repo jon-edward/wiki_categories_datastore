@@ -1,1 +1,1 @@
-{"name": "Mining_journals", "id": 38251364, "predecessors": [{"name": "Mining", "id": 843521}], "successors": []}
+{"name": "Mining_journals", "id": 38251364, "predecessors": [{"name": "Engineering_journals", "id": 6715198}, {"name": "Mining", "id": 843521}], "successors": []}

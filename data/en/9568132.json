@@ -1,1 +1,1 @@
-{"name": "Video_game_critics", "id": 9568132, "predecessors": [{"name": "People_in_the_video_game_industry", "id": 22391820}, {"name": "Video_game_journalism", "id": 9568836}, {"name": "Journalism", "id": 698307}, {"name": "The_arts", "id": 4892515}], "successors": [{"name": "Women_video_game_critics", "id": 45210548}]}
+{"name": "Video_game_critics", "id": 9568132, "predecessors": [{"name": "Video_game_journalism", "id": 9568836}, {"name": "Journalism", "id": 698307}], "successors": [{"name": "Women_video_game_critics", "id": 45210548}]}

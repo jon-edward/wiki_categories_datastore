@@ -1,1 +1,1 @@
-{"name": "French_art_collectors", "id": 1944282, "predecessors": [{"name": "French_art_patrons", "id": 55361462}], "successors": []}
+{"name": "French_art_collectors", "id": 1944282, "predecessors": [{"name": "French_art", "id": 3773507}, {"name": "French_art_patrons", "id": 55361462}], "successors": [{"name": "Art_collectors_from_Paris", "id": 68665535}]}

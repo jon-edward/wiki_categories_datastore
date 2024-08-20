@@ -1,1 +1,1 @@
-{"name": "Collage_filmmakers", "id": 37374685, "predecessors": [{"name": "Collage_artists", "id": 35819846}, {"name": "Collage_film", "id": 34885060}], "successors": [{"name": "Video_essayists", "id": 51151397}]}
+{"name": "Collage_filmmakers", "id": 37374685, "predecessors": [{"name": "Collage_film", "id": 34885060}, {"name": "Experimental_film", "id": 6915699}, {"name": "French_inventions", "id": 9316081}], "successors": [{"name": "Video_essayists", "id": 51151397}]}

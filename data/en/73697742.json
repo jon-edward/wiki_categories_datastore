@@ -1,1 +1,1 @@
-{"name": "FIBA_3x3_U23_World_Cup", "id": 73697742, "predecessors": [{"name": "World_youth_sports_competitions", "id": 55172740}, {"name": "Youth_sport", "id": 14950852}, {"name": "Athletic_sports", "id": 31210709}], "successors": []}
+{"name": "FIBA_3x3_U23_World_Cup", "id": 73697742, "predecessors": [{"name": "World_youth_sports_competitions", "id": 55172740}, {"name": "Youth_sport", "id": 14950852}, {"name": "Youth_events", "id": 42790262}], "successors": []}

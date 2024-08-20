@@ -1,1 +1,1 @@
-{"name": "Electric_buses", "id": 9267300, "predecessors": [{"name": "Buses_by_type", "id": 17199845}, {"name": "Electric_vehicles", "id": 961956}], "successors": []}
+{"name": "Electric_buses", "id": 9267300, "predecessors": [{"name": "Buses_by_type", "id": 17199845}, {"name": "Electric_vehicles", "id": 961956}], "successors": [{"name": "Trolleybuses", "id": 10038340}, {"name": "Fuel_cell_buses", "id": 15643328}, {"name": "Hybrid_electric_buses", "id": 17339517}, {"name": "Battery_electric_buses", "id": 57226221}]}

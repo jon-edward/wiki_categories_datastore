@@ -1,1 +1,1 @@
-{"name": "German_newspaper_journalists", "id": 53302045, "predecessors": [{"name": "German_journalists", "id": 1076730}, {"name": "German_mass_media_people", "id": 38512493}], "successors": [{"name": "German_photojournalists", "id": 24857209}, {"name": "German_columnists", "id": 31473552}]}
+{"name": "German_newspaper_journalists", "id": 53302045, "predecessors": [{"name": "German_journalists", "id": 1076730}, {"name": "Newspaper_publishing", "id": 24204175}], "successors": [{"name": "German_photojournalists", "id": 24857209}, {"name": "German_columnists", "id": 31473552}]}

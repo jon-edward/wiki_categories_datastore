@@ -1,1 +1,1 @@
-{"name": "Polling_companies", "id": 25397440, "predecessors": [{"name": "Polling", "id": 1821086}, {"name": "Services_sector_of_the_economy", "id": 10887914}], "successors": [{"name": "Public_opinion_research_companies", "id": 1821083}]}
+{"name": "Polling_companies", "id": 25397440, "predecessors": [{"name": "Polling", "id": 1821086}], "successors": [{"name": "Public_opinion_research_companies", "id": 1821083}]}

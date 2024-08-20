@@ -1,1 +1,1 @@
-{"name": "Medical_textbook_writers", "id": 38276837, "predecessors": [{"name": "Medical_educators", "id": 11304253}, {"name": "Medical_textbooks", "id": 70653631}, {"name": "Medical_writers", "id": 10910270}, {"name": "Textbook_writers", "id": 5384215}], "successors": []}
+{"name": "Medical_textbook_writers", "id": 38276837, "predecessors": [{"name": "Textbook_writers", "id": 5384215}], "successors": []}

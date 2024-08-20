@@ -1,1 +1,1 @@
-{"name": "Waste_disposal_incidents", "id": 6310712, "predecessors": [{"name": "Environmental_disasters", "id": 2651116}, {"name": "Waste_management", "id": 1233052}, {"name": "Accidents", "id": 4523546}], "successors": [{"name": "Waste_disposal_incidents_in_the_United_States", "id": 55262414}]}
+{"name": "Waste_disposal_incidents", "id": 6310712, "predecessors": [{"name": "Environmental_disasters", "id": 2651116}, {"name": "Waste_management", "id": 1233052}, {"name": "Accidents", "id": 4523546}], "successors": []}

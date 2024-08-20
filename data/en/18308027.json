@@ -1,1 +1,1 @@
-{"name": "Chicago_Bulls_draft_picks", "id": 18308027, "predecessors": [{"name": "Chicago_Bulls", "id": 3957241}, {"name": "Competitions", "id": 737119}], "successors": []}
+{"name": "Chicago_Bulls_draft_picks", "id": 18308027, "predecessors": [{"name": "Chicago_Bulls", "id": 3957241}, {"name": "NBA_draft", "id": 44015774}], "successors": [{"name": "Chicago_Bulls_expansion_draft_picks", "id": 18869970}]}

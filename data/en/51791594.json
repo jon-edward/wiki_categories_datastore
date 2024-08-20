@@ -1,1 +1,1 @@
-{"name": "Japanese_woodwork", "id": 51791594, "predecessors": [{"name": "Japanese_crafts", "id": 3207482}, {"name": "Woodworking", "id": 999563}], "successors": [{"name": "Byōbu", "id": 27845811}, {"name": "Samurai_weapons_and_equipment", "id": 31364662}]}
+{"name": "Japanese_woodwork", "id": 51791594, "predecessors": [{"name": "Woodworking", "id": 999563}], "successors": [{"name": "Byōbu", "id": 27845811}, {"name": "Samurai_weapons_and_equipment", "id": 31364662}]}

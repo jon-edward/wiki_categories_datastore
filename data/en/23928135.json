@@ -1,1 +1,1 @@
-{"name": "Starch", "id": 23928135, "predecessors": [{"name": "Food_ingredients", "id": 1077080}, {"name": "Polysaccharides", "id": 721869}], "successors": [{"name": "Flour", "id": 5886902}, {"name": "Starch_companies", "id": 23652092}]}
+{"name": "Starch", "id": 23928135, "predecessors": [{"name": "Food_ingredients", "id": 1077080}, {"name": "Polysaccharides", "id": 721869}], "successors": [{"name": "Flour", "id": 5886902}]}

@@ -1,1 +1,1 @@
-{"name": "Waxes", "id": 2911137, "predecessors": [{"name": "Esters", "id": 695881}, {"name": "Lipids", "id": 713771}, {"name": "Materials", "id": 722279}], "successors": [{"name": "Fatty_acids", "id": 718234}]}
+{"name": "Waxes", "id": 2911137, "predecessors": [{"name": "Esters", "id": 695881}, {"name": "Lipids", "id": 713771}, {"name": "Materials", "id": 722279}, {"name": "Soft_matter", "id": 3588680}], "successors": [{"name": "Fatty_acids", "id": 718234}]}

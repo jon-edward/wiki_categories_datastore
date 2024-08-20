@@ -1,1 +1,1 @@
-{"name": "Cellulose", "id": 5047804, "predecessors": [{"name": "Organic_polymers", "id": 987522}, {"name": "Polysaccharides", "id": 721869}, {"name": "Aldohexoses", "id": 7085518}], "successors": [{"name": "Cotton", "id": 22598830}, {"name": "Cellulose_ethers", "id": 47376196}]}
+{"name": "Cellulose", "id": 5047804, "predecessors": [{"name": "Organic_polymers", "id": 987522}, {"name": "Polysaccharides", "id": 721869}], "successors": [{"name": "Cotton", "id": 22598830}]}

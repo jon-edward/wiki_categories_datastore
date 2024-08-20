@@ -1,1 +1,1 @@
-{"name": "Light_reactions", "id": 1747555, "predecessors": [{"name": "Biochemical_reactions", "id": 69730945}, {"name": "Chemical_reactions", "id": 995738}, {"name": "Photosynthesis", "id": 706474}], "successors": [{"name": "Light-sensitive_chemicals", "id": 11294796}]}
+{"name": "Light_reactions", "id": 1747555, "predecessors": [{"name": "Chemical_reactions", "id": 995738}, {"name": "Photosynthesis", "id": 706474}], "successors": [{"name": "Light-sensitive_chemicals", "id": 11294796}]}

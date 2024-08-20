@@ -1,1 +1,1 @@
-{"name": "U.S._Route_250", "id": 43074136, "predecessors": [{"name": "U.S._Highways_in_Ohio", "id": 3119575}, {"name": "U.S._Highways_in_Virginia", "id": 3119890}, {"name": "U.S._Highways_in_West_Virginia", "id": 3119958}, {"name": "U.S._Route_50", "id": 5853110}, {"name": "United_States_Numbered_Highway_System", "id": 3510575}], "successors": []}
+{"name": "U.S._Route_250", "id": 43074136, "predecessors": [{"name": "U.S._Highways_in_Ohio", "id": 3119575}, {"name": "U.S._Route_50", "id": 5853110}], "successors": []}

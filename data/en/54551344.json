@@ -1,1 +1,1 @@
-{"name": "Corticosteroid_esters", "id": 54551344, "predecessors": [{"name": "Corticosteroids", "id": 720354}, {"name": "Glucocorticoids", "id": 720313}, {"name": "Mineralocorticoids", "id": 720315}, {"name": "Steroid_esters", "id": 53209390}], "successors": []}
+{"name": "Corticosteroid_esters", "id": 54551344, "predecessors": [{"name": "Steroid_esters", "id": 53209390}], "successors": []}

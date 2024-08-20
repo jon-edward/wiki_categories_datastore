@@ -1,1 +1,1 @@
-{"name": "Wine_tasting", "id": 3828844, "predecessors": [{"name": "Gustation", "id": 1061134}, {"name": "Oenology", "id": 859497}, {"name": "Wine-related_events", "id": 25072655}, {"name": "Drinking_culture", "id": 1241315}], "successors": [{"name": "Wine_museums", "id": 30092374}, {"name": "Cup-bearers", "id": 69213257}]}
+{"name": "Wine_tasting", "id": 3828844, "predecessors": [{"name": "Gustation", "id": 1061134}, {"name": "Oenology", "id": 859497}], "successors": [{"name": "Cup-bearers", "id": 69213257}]}

@@ -1,1 +1,1 @@
-{"name": "Medical_transport_devices", "id": 16920101, "predecessors": [{"name": "Emergency_medical_services", "id": 16842991}, {"name": "Medical_devices", "id": 41242589}, {"name": "Freight_transport", "id": 710066}], "successors": [{"name": "Mobility_devices", "id": 16920105}]}
+{"name": "Medical_transport_devices", "id": 16920101, "predecessors": [{"name": "Medical_devices", "id": 41242589}], "successors": [{"name": "Mobility_devices", "id": 16920105}]}

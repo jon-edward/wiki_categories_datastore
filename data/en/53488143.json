@@ -1,1 +1,1 @@
-{"name": "Male_songwriters", "id": 53488143, "predecessors": [{"name": "Male_composers", "id": 44858637}, {"name": "Mass_media", "id": 696790}, {"name": "Vocal_music", "id": 1037152}], "successors": [{"name": "Gay_songwriters", "id": 72665489}]}
+{"name": "Male_songwriters", "id": 53488143, "predecessors": [{"name": "Books", "id": 694040}, {"name": "Oral_literature", "id": 27812268}], "successors": [{"name": "Male_singer-songwriters", "id": 44858771}, {"name": "Gay_songwriters", "id": 72665489}]}

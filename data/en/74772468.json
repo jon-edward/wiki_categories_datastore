@@ -1,1 +1,1 @@
-{"name": "Given_names_derived_from_animals", "id": 74772468, "predecessors": [{"name": "Animals_in_culture", "id": 52196120}, {"name": "Given_names", "id": 911440}], "successors": [{"name": "Given_names_derived_from_birds", "id": 73217395}]}
+{"name": "Given_names_derived_from_animals", "id": 74772468, "predecessors": [{"name": "Animals_in_culture", "id": 52196120}], "successors": [{"name": "Given_names_derived_from_birds", "id": 73217395}]}

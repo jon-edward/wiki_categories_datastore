@@ -1,1 +1,1 @@
-{"name": "French_comedy_road_movies", "id": 63782201, "predecessors": [{"name": "French_comedy_films", "id": 9799359}, {"name": "Comedy", "id": 696823}], "successors": []}
+{"name": "French_comedy_road_movies", "id": 63782201, "predecessors": [{"name": "French_comedy_films", "id": 9799359}, {"name": "French_road_movies", "id": 61637413}, {"name": "Science_fiction_themes", "id": 786868}], "successors": [{"name": "French_road_comedy-drama_films", "id": 64472946}]}

@@ -1,1 +1,1 @@
-{"name": "Atmospheric_sounding_satellite_sensors", "id": 66558374, "predecessors": [{"name": "Atmospheric_sounding", "id": 58940819}], "successors": []}
+{"name": "Atmospheric_sounding_satellite_sensors", "id": 66558374, "predecessors": [{"name": "Earth_observation_satellite_sensors", "id": 65083673}, {"name": "Atmospheric_sounding", "id": 58940819}], "successors": []}

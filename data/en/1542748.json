@@ -1,1 +1,1 @@
-{"name": "Bariatrics", "id": 1542748, "predecessors": [{"name": "Obesity", "id": 2919604}, {"name": "Surgical_specialties", "id": 3622839}], "successors": [{"name": "Medical_conditions_related_to_obesity", "id": 2919929}, {"name": "Management_of_obesity", "id": 38316947}, {"name": "Obesity_researchers", "id": 46609861}]}
+{"name": "Bariatrics", "id": 1542748, "predecessors": [{"name": "Obesity", "id": 2919604}], "successors": [{"name": "Medical_conditions_related_to_obesity", "id": 2919929}]}

@@ -1,1 +1,1 @@
-{"name": "Cycle_designers", "id": 3508664, "predecessors": [{"name": "Industrial_designers", "id": 999931}, {"name": "Artisans", "id": 742819}], "successors": [{"name": "British_cycle_designers", "id": 36642642}, {"name": "Italian_cycle_designers", "id": 65597402}]}
+{"name": "Cycle_designers", "id": 3508664, "predecessors": [{"name": "Artisans", "id": 742819}], "successors": []}

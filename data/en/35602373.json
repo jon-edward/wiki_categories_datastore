@@ -1,1 +1,1 @@
-{"name": "Space_medicine", "id": 35602373, "predecessors": [{"name": "Human_spaceflight", "id": 856134}, {"name": "Medical_specialties", "id": 1449968}, {"name": "Occupational_safety_and_health", "id": 1215289}], "successors": []}
+{"name": "Space_medicine", "id": 35602373, "predecessors": [{"name": "Occupational_safety_and_health", "id": 1215289}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Gimnastoj", "id": 303205, "predecessors": [{"name": "Gimnastiko", "id": 286880}, {"name": "Sporto", "id": 26443}], "successors": [{"name": "Germanaj_gimnastoj", "id": 318126}]}
+{"name": "Gimnastoj", "id": 303205, "predecessors": [{"name": "Gimnastiko", "id": 286880}, {"name": "Sportistoj", "id": 78760}], "successors": [{"name": "Germanaj_gimnastoj", "id": 318126}]}

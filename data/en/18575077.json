@@ -1,1 +1,1 @@
-{"name": "Timber_preparation", "id": 18575077, "predecessors": [{"name": "Timber_industry", "id": 6371473}, {"name": "Woodworking", "id": 999563}], "successors": []}
+{"name": "Timber_preparation", "id": 18575077, "predecessors": [{"name": "Timber_industry", "id": 6371473}, {"name": "Wood_products", "id": 40719418}, {"name": "Woodworking", "id": 999563}], "successors": []}

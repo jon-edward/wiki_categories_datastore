@@ -1,1 +1,1 @@
-{"name": "Image_scanners", "id": 38652498, "predecessors": [{"name": "Computing_input_devices", "id": 5241333}, {"name": "Image_scanning", "id": 51923895}, {"name": "Office_equipment", "id": 1111733}, {"name": "Records_management_technology", "id": 50364550}], "successors": []}
+{"name": "Image_scanners", "id": 38652498, "predecessors": [{"name": "Computing_input_devices", "id": 5241333}, {"name": "Image_scanning", "id": 51923895}, {"name": "Office_equipment", "id": 1111733}], "successors": []}

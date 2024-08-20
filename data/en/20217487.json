@@ -1,1 +1,1 @@
-{"name": "Stanford_Law_School_faculty", "id": 20217487, "predecessors": [{"name": "Law_in_the_San_Francisco_Bay_Area", "id": 37519991}, {"name": "Legal_education", "id": 1240968}], "successors": [{"name": "Deans_of_Stanford_Law_School", "id": 70065577}]}
+{"name": "Stanford_Law_School_faculty", "id": 20217487, "predecessors": [{"name": "Stanford_University_faculty", "id": 4221355}, {"name": "Law_in_the_San_Francisco_Bay_Area", "id": 37519991}], "successors": [{"name": "Deans_of_Stanford_Law_School", "id": 70065577}]}

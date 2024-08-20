@@ -1,1 +1,1 @@
-{"name": "Aviation_ground_support_equipment", "id": 30311154, "predecessors": [{"name": "Equipment", "id": 3228046}, {"name": "Aviation", "id": 735378}], "successors": []}
+{"name": "Aviation_ground_support_equipment", "id": 30311154, "predecessors": [{"name": "Aircraft_ground_handling", "id": 18801679}, {"name": "Equipment", "id": 3228046}, {"name": "Aviation", "id": 735378}], "successors": []}

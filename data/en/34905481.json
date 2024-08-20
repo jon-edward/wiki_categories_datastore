@@ -1,1 +1,1 @@
-{"name": "Destroyed_mosques", "id": 34905481, "predecessors": [{"name": "Former_mosques", "id": 20498227}], "successors": [{"name": "Mosques_destroyed_by_communists", "id": 49290071}]}
+{"name": "Destroyed_mosques", "id": 34905481, "predecessors": [{"name": "Former_mosques", "id": 20498227}, {"name": "Destruction_of_religious_buildings_and_structures", "id": 52045523}], "successors": [{"name": "Mosques_destroyed_by_communists", "id": 49290071}]}

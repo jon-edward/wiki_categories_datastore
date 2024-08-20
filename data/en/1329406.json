@@ -1,1 +1,1 @@
-{"name": "LaserDisc_video_games", "id": 1329406, "predecessors": [{"name": "LaserDisc", "id": 3911050}], "successors": []}
+{"name": "LaserDisc_video_games", "id": 1329406, "predecessors": [{"name": "Arcade_video_games", "id": 696445}, {"name": "LaserDisc", "id": 3911050}], "successors": []}

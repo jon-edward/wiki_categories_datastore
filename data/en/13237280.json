@@ -1,1 +1,1 @@
-{"name": "Swiss_art_dealers", "id": 13237280, "predecessors": [{"name": "Art_dealers", "id": 2845772}, {"name": "Swiss_businesspeople", "id": 2073096}], "successors": []}
+{"name": "Swiss_art_dealers", "id": 13237280, "predecessors": [{"name": "Art_dealers", "id": 2845772}, {"name": "Swiss_art", "id": 2389167}, {"name": "Swiss_businesspeople", "id": 2073096}], "successors": []}

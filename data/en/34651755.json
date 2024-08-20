@@ -1,1 +1,1 @@
-{"name": "Moveable_bridges", "id": 34651755, "predecessors": [{"name": "Bridges_by_structural_type", "id": 15569865}], "successors": [{"name": "Vertical_lift_bridges", "id": 1214015}]}
+{"name": "Moveable_bridges", "id": 34651755, "predecessors": [{"name": "Bridges_by_structural_type", "id": 15569865}], "successors": [{"name": "Bascule_bridges", "id": 1096149}, {"name": "Vertical_lift_bridges", "id": 1214015}, {"name": "Transporter_bridges", "id": 1299970}, {"name": "Swing_bridges", "id": 2562100}, {"name": "Vertical_lift_bridges_in_the_United_States", "id": 54055895}]}

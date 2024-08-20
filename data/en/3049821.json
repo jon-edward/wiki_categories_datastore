@@ -1,1 +1,1 @@
-{"name": "Physical_examination", "id": 3049821, "predecessors": [{"name": "Medical_diagnosis", "id": 16705234}, {"name": "Medical_tests", "id": 1075994}, {"name": "Observation", "id": 2523515}, {"name": "Preventive_medicine", "id": 30133979}], "successors": [{"name": "Musculoskeletal_examination", "id": 42693940}]}
+{"name": "Physical_examination", "id": 3049821, "predecessors": [{"name": "Preventive_medicine", "id": 30133979}], "successors": [{"name": "Musculoskeletal_examination", "id": 42693940}]}

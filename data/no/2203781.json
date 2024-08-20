@@ -1,1 +1,1 @@
-{"name": "Selskapsvideospill", "id": 2203781, "predecessors": [{"name": "Videospill", "id": 349196}, {"name": "Leker", "id": 14134}], "successors": []}
+{"name": "Selskapsvideospill", "id": 2203781, "predecessors": [{"name": "Leker", "id": 14134}, {"name": "Billedkunst", "id": 129011}], "successors": []}

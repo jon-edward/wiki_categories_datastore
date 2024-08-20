@@ -1,1 +1,1 @@
-{"name": "Cheating_in_baseball", "id": 67963303, "predecessors": [{"name": "Baseball_rules", "id": 954502}, {"name": "Cheating_in_sports", "id": 61434881}], "successors": []}
+{"name": "Cheating_in_baseball", "id": 67963303, "predecessors": [{"name": "Cheating_in_sports", "id": 61434881}], "successors": [{"name": "Doping_in_baseball", "id": 49240209}]}

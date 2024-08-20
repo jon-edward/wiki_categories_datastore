@@ -1,1 +1,0 @@
-{"name": "Shipping", "id": 13467425, "predecessors": [{"name": "Freight_transport", "id": 710066}, {"name": "Water_transport", "id": 907307}], "successors": [{"name": "Shipping_containers", "id": 22998441}, {"name": "Shipping_and_the_environment", "id": 25405944}, {"name": "Maritime_transport", "id": 56494593}, {"name": "Ministry_of_Maritime_Affairs_(Pakistan)", "id": 67308395}]}

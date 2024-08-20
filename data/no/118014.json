@@ -1,1 +1,1 @@
-{"name": "Musikkspill", "id": 118014, "predecessors": [{"name": "Musikk", "id": 9028}, {"name": "Videospill", "id": 349196}], "successors": [{"name": "SingStar", "id": 96171}, {"name": "Guitar_Hero", "id": 600126}]}
+{"name": "Musikkspill", "id": 118014, "predecessors": [{"name": "Musikk", "id": 9028}, {"name": "Billedkunst", "id": 129011}], "successors": [{"name": "SingStar", "id": 96171}, {"name": "Guitar_Hero", "id": 600126}]}

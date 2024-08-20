@@ -1,1 +1,1 @@
-{"name": "Walking_in_London", "id": 2651704, "predecessors": [{"name": "Walking_in_the_United_Kingdom", "id": 16910856}, {"name": "Transport", "id": 5523119}], "successors": [{"name": "Footpaths_in_London", "id": 28065138}]}
+{"name": "Walking_in_London", "id": 2651704, "predecessors": [{"name": "Transport_in_London", "id": 1337527}], "successors": [{"name": "Footpaths_in_London", "id": 28065138}]}

@@ -1,1 +1,1 @@
-{"name": "Swiss_male_jazz_musicians", "id": 76584107, "predecessors": [{"name": "Swiss_jazz_musicians", "id": 5683243}], "successors": []}
+{"name": "Swiss_male_jazz_musicians", "id": 76584107, "predecessors": [{"name": "Male_jazz_musicians", "id": 44810711}, {"name": "Swiss_jazz_musicians", "id": 5683243}, {"name": "Swiss_male_musicians", "id": 59157597}], "successors": []}

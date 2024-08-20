@@ -1,1 +1,0 @@
-{"name": "Fish_processing", "id": 11967779, "predecessors": [{"name": "Fishing_industry", "id": 11967701}, {"name": "Food_processing", "id": 39100244}], "successors": [{"name": "Fish_products", "id": 2503527}, {"name": "Dried_fish", "id": 5804576}, {"name": "Smoked_fish", "id": 35186207}, {"name": "Fish_processing_companies", "id": 70348901}]}

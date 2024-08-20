@@ -1,1 +1,1 @@
-{"name": "Geothermal_energy", "id": 9385999, "predecessors": [{"name": "Economic_geology", "id": 1201927}, {"name": "Renewable_energy", "id": 906645}, {"name": "Temperature", "id": 1214620}], "successors": []}
+{"name": "Geothermal_energy", "id": 9385999, "predecessors": [{"name": "Earth", "id": 754965}, {"name": "Renewable_energy", "id": 906645}, {"name": "Temperature", "id": 1214620}], "successors": []}

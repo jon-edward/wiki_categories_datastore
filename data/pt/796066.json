@@ -1,1 +1,0 @@
-{"name": "Saneamento", "id": 796066, "predecessors": [{"name": "Engenharia_do_ambiente", "id": 3887402}, {"name": "Saúde", "id": 43114}, {"name": "Urbanismo", "id": 54320}, {"name": "Água", "id": 939521}], "successors": [{"name": "Tratamento_de_águas", "id": 2125831}, {"name": "Tratamento_de_esgoto", "id": 5915480}, {"name": "Saneamento_no_Brasil", "id": 4711909}]}

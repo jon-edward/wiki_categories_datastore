@@ -1,1 +1,1 @@
-{"name": "Dubain_rakennukset_ja_rakennelmat", "id": 386334, "predecessors": [{"name": "Paikallishallinto", "id": 102778}, {"name": "Kaupungit", "id": 20192}], "successors": [{"name": "Dubain_pilvenpiirtäjät", "id": 386326}]}
+{"name": "Dubain_rakennukset_ja_rakennelmat", "id": 386334, "predecessors": [{"name": "Paikallishallinto", "id": 102778}, {"name": "Kaupungit", "id": 20192}], "successors": [{"name": "Dubain_pilvenpiirtäjät", "id": 386326}, {"name": "Dubain_asuinrakennukset", "id": 1814448}]}

@@ -1,1 +1,1 @@
-{"name": "Electronics_districts", "id": 25377080, "predecessors": [{"name": "Electronics_industry", "id": 35046850}], "successors": [{"name": "Sham_Shui_Po", "id": 2050267}, {"name": "Akihabara", "id": 31515375}]}
+{"name": "Electronics_districts", "id": 25377080, "predecessors": [{"name": "Shopping_districts_and_streets", "id": 6126785}], "successors": [{"name": "Sham_Shui_Po", "id": 2050267}, {"name": "Akihabara", "id": 31515375}]}

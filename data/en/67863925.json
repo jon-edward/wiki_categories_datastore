@@ -1,1 +1,1 @@
-{"name": "Radiation_protection_organizations", "id": 67863925, "predecessors": [{"name": "Nuclear_organizations", "id": 3099410}], "successors": []}
+{"name": "Radiation_protection_organizations", "id": 67863925, "predecessors": [{"name": "Nuclear_organizations", "id": 3099410}, {"name": "Radiation_protection", "id": 43132476}], "successors": [{"name": "Jülich_Research_Centre", "id": 77567381}]}

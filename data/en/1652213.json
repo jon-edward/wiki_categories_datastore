@@ -1,1 +1,1 @@
-{"name": "Icebergs", "id": 1652213, "predecessors": [{"name": "Sea_ice", "id": 19552980}], "successors": [{"name": "Ship_collisions_with_icebergs", "id": 30754012}]}
+{"name": "Icebergs", "id": 1652213, "predecessors": [{"name": "Sea_ice", "id": 19552980}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Investment_companies_of_Canada", "id": 17661863, "predecessors": [{"name": "Investment_in_Canada", "id": 52899915}], "successors": [{"name": "OMERS", "id": 18473155}]}
+{"name": "Investment_companies_of_Canada", "id": 17661863, "predecessors": [{"name": "Financial_services_companies_of_Canada", "id": 1796331}, {"name": "Investment_in_Canada", "id": 52899915}], "successors": [{"name": "Power_Corporation_of_Canada", "id": 2789523}, {"name": "OMERS", "id": 18473155}, {"name": "Investment_management_companies_of_Canada", "id": 24833911}]}

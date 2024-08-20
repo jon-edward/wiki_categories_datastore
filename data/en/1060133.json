@@ -1,1 +1,0 @@
-{"name": "Block_ciphers", "id": 1060133, "predecessors": [{"name": "Cryptographic_algorithms", "id": 704483}], "successors": [{"name": "Advanced_Encryption_Standard", "id": 17813725}, {"name": "Broken_block_ciphers", "id": 24096072}]}

@@ -1,1 +1,1 @@
-{"name": "Stanford_University_fellows", "id": 22312556, "predecessors": [{"name": "Stanford_University_people", "id": 4832525}, {"name": "Fellowships", "id": 14215680}], "successors": [{"name": "Stanford_University_Knight_Fellows", "id": 34194307}]}
+{"name": "Stanford_University_fellows", "id": 22312556, "predecessors": [{"name": "Stanford_University_people", "id": 4832525}], "successors": [{"name": "Stanford_University_postdoctoral_scholars", "id": 34191586}, {"name": "Stanford_University_Knight_Fellows", "id": 34194307}]}

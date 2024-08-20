@@ -1,1 +1,1 @@
-{"name": "1905_books", "id": 770115, "predecessors": [{"name": "20th-century_literature", "id": 38322217}], "successors": []}
+{"name": "1905_books", "id": 770115, "predecessors": [{"name": "1905", "id": 885600}, {"name": "20th_century", "id": 884457}], "successors": [{"name": "1905_children's_books", "id": 53995580}, {"name": "1905_non-fiction_books", "id": 62374105}, {"name": "1905_American_novels", "id": 51383603}, {"name": "1905_British_novels", "id": 51386956}]}

@@ -1,1 +1,1 @@
-{"name": "Vauxhall_Motors", "id": 28020418, "predecessors": [{"name": "Cars_of_England", "id": 8357578}, {"name": "Stellantis", "id": 66410550}], "successors": []}
+{"name": "Vauxhall_Motors", "id": 28020418, "predecessors": [{"name": "Cars_of_England", "id": 8357578}, {"name": "Stellantis", "id": 66410550}], "successors": [{"name": "Vauxhall_vehicles", "id": 852160}]}

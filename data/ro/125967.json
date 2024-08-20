@@ -1,1 +1,1 @@
-{"name": "Boli_alergice", "id": 125967, "predecessors": [{"name": "Boli_umane", "id": 876535}, {"name": "Specialități_medicale", "id": 760126}], "successors": []}
+{"name": "Boli_alergice", "id": 125967, "predecessors": [{"name": "Alergologie", "id": 967979}, {"name": "Boli_umane", "id": 876535}], "successors": []}

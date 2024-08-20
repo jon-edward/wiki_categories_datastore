@@ -1,1 +1,1 @@
-{"name": "Book_websites", "id": 5105885, "predecessors": [{"name": "Books", "id": 694040}, {"name": "Literature", "id": 692008}], "successors": [{"name": "Book_selling_websites", "id": 23777681}, {"name": "Book_review_websites", "id": 52665609}, {"name": "American_book_websites", "id": 62105405}]}
+{"name": "Book_websites", "id": 5105885, "predecessors": [{"name": "Books", "id": 694040}], "successors": [{"name": "Book_selling_websites", "id": 23777681}, {"name": "Book_review_websites", "id": 52665609}, {"name": "American_book_websites", "id": 62105405}]}

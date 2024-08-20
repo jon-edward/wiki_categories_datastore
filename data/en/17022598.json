@@ -1,1 +1,0 @@
-{"name": "Bomb_disposal", "id": 17022598, "predecessors": [{"name": "Combat_occupations", "id": 19381455}, {"name": "Emergency_services", "id": 1318794}, {"name": "Explosion_protection", "id": 35826099}], "successors": [{"name": "Mine_action", "id": 15839651}, {"name": "Bomb_disposal_personnel", "id": 34606077}, {"name": "Explosive_detection", "id": 39679739}]}

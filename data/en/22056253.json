@@ -1,1 +1,1 @@
-{"name": "Integrable_systems", "id": 22056253, "predecessors": [{"name": "Partial_differential_equations", "id": 696333}, {"name": "Theoretical_physics", "id": 691938}], "successors": [{"name": "Quantum_models", "id": 1880678}, {"name": "Exactly_solvable_models", "id": 2621841}]}
+{"name": "Integrable_systems", "id": 22056253, "predecessors": [{"name": "Theoretical_physics", "id": 691938}], "successors": [{"name": "Quantum_models", "id": 1880678}, {"name": "Exactly_solvable_models", "id": 2621841}]}

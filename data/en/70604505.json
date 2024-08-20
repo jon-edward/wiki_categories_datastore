@@ -1,1 +1,1 @@
-{"name": "Outdoor_retailers", "id": 70604505, "predecessors": [{"name": "Outdoor_recreation", "id": 1451342}, {"name": "Retailers_by_type_of_merchandise_sold", "id": 55586528}, {"name": "Entertainment_industry", "id": 40423958}], "successors": []}
+{"name": "Outdoor_retailers", "id": 70604505, "predecessors": [{"name": "Outdoor_recreation", "id": 1451342}, {"name": "Clothing_industry", "id": 49731938}, {"name": "Sports_equipment", "id": 8619631}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Musicals_based_on_books", "id": 52319858, "predecessors": [{"name": "Literature", "id": 692008}], "successors": [{"name": "Musicals_based_on_novels", "id": 15408028}]}
+{"name": "Musicals_based_on_books", "id": 52319858, "predecessors": [{"name": "Books", "id": 694040}], "successors": [{"name": "Musicals_based_on_novels", "id": 15408028}]}

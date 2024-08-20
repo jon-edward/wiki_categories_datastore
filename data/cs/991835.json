@@ -1,1 +1,1 @@
-{"name": "Veřejnoprávní_vysílací_společnosti", "id": 991835, "predecessors": [{"name": "Televizní_stanice", "id": 5432}, {"name": "Masmédia", "id": 1290689}], "successors": []}
+{"name": "Veřejnoprávní_vysílací_společnosti", "id": 991835, "predecessors": [{"name": "Televizní_stanice", "id": 5432}, {"name": "Veřejnoprávní_média", "id": 669669}], "successors": []}

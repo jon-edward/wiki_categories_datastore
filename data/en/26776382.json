@@ -1,1 +1,1 @@
-{"name": "Quasiparticles", "id": 26776382, "predecessors": [{"name": "Quantum_phases", "id": 22056659}, {"name": "Subatomic_particles", "id": 700598}], "successors": [{"name": "Magnetic_monopoles", "id": 22280791}]}
+{"name": "Quasiparticles", "id": 26776382, "predecessors": [{"name": "Condensed_matter_physics", "id": 692176}, {"name": "Quantum_phases", "id": 22056659}, {"name": "Subatomic_particles", "id": 700598}], "successors": [{"name": "Magnetic_monopoles", "id": 22280791}]}

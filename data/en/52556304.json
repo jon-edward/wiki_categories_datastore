@@ -1,1 +1,1 @@
-{"name": "Beetles_and_humans", "id": 52556304, "predecessors": [{"name": "Animals_and_humans", "id": 52196069}], "successors": [{"name": "Fictional_beetles", "id": 7461632}, {"name": "Biological_pest_control_beetles", "id": 43052846}]}
+{"name": "Beetles_and_humans", "id": 52556304, "predecessors": [{"name": "Insects", "id": 858692}, {"name": "Animals_and_humans", "id": 52196069}], "successors": [{"name": "Fictional_beetles", "id": 7461632}, {"name": "Biological_pest_control_beetles", "id": 43052846}]}

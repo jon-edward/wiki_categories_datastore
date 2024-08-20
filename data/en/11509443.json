@@ -1,1 +1,1 @@
-{"name": "Toy_robots", "id": 11509443, "predecessors": [{"name": "Entertainment_robots", "id": 17613040}, {"name": "Mechanical_toys", "id": 23718543}], "successors": [{"name": "Transforming_toy_robots", "id": 8416626}, {"name": "Toy_mecha", "id": 55151417}]}
+{"name": "Toy_robots", "id": 11509443, "predecessors": [{"name": "Electronic_toys", "id": 23718480}, {"name": "Entertainment_robots", "id": 17613040}, {"name": "Mechanical_toys", "id": 23718543}], "successors": [{"name": "Transforming_toy_robots", "id": 8416626}, {"name": "Toy_mecha", "id": 55151417}]}

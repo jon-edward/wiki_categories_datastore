@@ -1,1 +1,1 @@
-{"name": "Transport_in_Brittany", "id": 9170369, "predecessors": [{"name": "Brittany", "id": 924795}], "successors": [{"name": "Airports_in_Brittany", "id": 43627118}, {"name": "TER_Bretagne", "id": 38185906}]}
+{"name": "Transport_in_Brittany", "id": 9170369, "predecessors": [{"name": "Brittany", "id": 924795}], "successors": [{"name": "Airports_in_Brittany", "id": 43627118}, {"name": "TER_Bretagne", "id": 38185906}, {"name": "Railway_stations_in_Morbihan", "id": 54975745}]}

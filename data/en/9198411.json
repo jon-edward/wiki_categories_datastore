@@ -1,1 +1,1 @@
-{"name": "Midrashim", "id": 9198411, "predecessors": [{"name": "Biblical_exegesis", "id": 12073259}, {"name": "Rabbinic_literature", "id": 11334178}, {"name": "Sifrei_Kodesh", "id": 67606701}], "successors": [{"name": "Aggadic_Midrashim", "id": 9604134}]}
+{"name": "Midrashim", "id": 9198411, "predecessors": [{"name": "Biblical_exegesis", "id": 12073259}, {"name": "Rabbinic_literature", "id": 11334178}], "successors": [{"name": "Aggadic_Midrashim", "id": 9604134}]}

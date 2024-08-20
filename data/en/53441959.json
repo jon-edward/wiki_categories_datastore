@@ -1,1 +1,1 @@
-{"name": "Events_in_Yokohama", "id": 53441959, "predecessors": [{"name": "City", "id": 9467493}], "successors": [{"name": "Yokohama_Film_Festival", "id": 43101985}, {"name": "Sports_competitions_in_Yokohama", "id": 53441955}]}
+{"name": "Events_in_Yokohama", "id": 53441959, "predecessors": [{"name": "Yokohama", "id": 1543214}], "successors": [{"name": "Yokohama_Film_Festival", "id": 43101985}, {"name": "Sports_competitions_in_Yokohama", "id": 53441955}]}
