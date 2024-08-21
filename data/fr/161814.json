@@ -1,1 +1,1 @@
-{"name": "Position_sexuelle", "id": 161814, "predecessors": [{"name": "Pratique_sexuelle", "id": 161815}, {"name": "Comportement_humain", "id": 15296093}], "successors": []}
+{"name": "Position_sexuelle", "id": 161814, "predecessors": [{"name": "Posture_humaine", "id": 7013999}, {"name": "Pratique_sexuelle", "id": 161815}], "successors": []}

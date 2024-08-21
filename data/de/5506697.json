@@ -1,1 +1,1 @@
-{"name": "Torturm_in_Bayern", "id": 5506697, "predecessors": [{"name": "Stadttor_in_Bayern", "id": 4533492}, {"name": "Wehrturm_in_Bayern", "id": 4535457}, {"name": "Turm", "id": 239452}], "successors": [{"name": "Torturm_in_München", "id": 5149781}]}
+{"name": "Torturm_in_Bayern", "id": 5506697, "predecessors": [{"name": "Stadttor_in_Bayern", "id": 4533492}, {"name": "Wehrturm_in_Bayern", "id": 4535457}, {"name": "Torturm", "id": 4535022}], "successors": [{"name": "Torturm_in_München", "id": 5149781}]}

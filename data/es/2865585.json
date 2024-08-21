@@ -1,0 +1,1 @@
+{"name": "Servicios_web", "id": 2865585, "predecessors": [{"name": "Arquitectura_orientada_a_servicios", "id": 3518985}, {"name": "Desarrollo_web", "id": 2177569}, {"name": "Protocolos_de_Internet", "id": 183735}], "successors": [{"name": "Microblogging", "id": 4581749}]}

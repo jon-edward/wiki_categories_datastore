@@ -1,1 +1,1 @@
-{"name": "Camion_au_cinéma", "id": 4440314, "predecessors": [{"name": "Camion", "id": 204958}, {"name": "Fiction", "id": 340157}], "successors": [{"name": "Film_de_course-poursuite", "id": 5451067}]}
+{"name": "Camion_au_cinéma", "id": 4440314, "predecessors": [{"name": "Camion", "id": 204958}, {"name": "Transport_routier", "id": 89425}], "successors": [{"name": "Film_de_course-poursuite", "id": 5451067}]}

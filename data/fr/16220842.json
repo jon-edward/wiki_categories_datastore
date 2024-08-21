@@ -1,1 +1,1 @@
-{"name": "Panique_morale", "id": 16220842, "predecessors": [{"name": "Hystérie_collective", "id": 7043761}, {"name": "Sociologie_de_la_déviance", "id": 1398760}, {"name": "Théorie_sociologique", "id": 6307947}], "successors": [{"name": "Maccarthysme", "id": 5245297}]}
+{"name": "Panique_morale", "id": 16220842, "predecessors": [{"name": "Concept_sociologique", "id": 1015218}, {"name": "Hystérie_collective", "id": 7043761}], "successors": [{"name": "Maccarthysme", "id": 5245297}]}

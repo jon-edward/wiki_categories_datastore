@@ -1,1 +1,1 @@
-{"name": "Liste_(Bildungseinrichtungen)", "id": 6780155, "predecessors": [{"name": "Bildungseinrichtung", "id": 1724231}, {"name": "Liste_(Bildung)", "id": 508357}], "successors": [{"name": "Liste_(Schulen)", "id": 6393065}, {"name": "Liste_(Hochschulen)", "id": 11656858}]}
+{"name": "Liste_(Bildungseinrichtungen)", "id": 6780155, "predecessors": [{"name": "Liste_(Bildung)", "id": 508357}, {"name": "Organisation_(Bildung)", "id": 1441712}], "successors": [{"name": "Liste_(Schulen)", "id": 6393065}, {"name": "Liste_(Hochschulen)", "id": 11656858}]}

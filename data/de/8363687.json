@@ -1,1 +1,1 @@
-{"name": "Fußballspieler_(RCD_Mallorca)", "id": 8363687, "predecessors": [{"name": "Person_(Palma)", "id": 7995129}, {"name": "Sport", "id": 235635}], "successors": [{"name": "Fußballtorhüter_(RCD_Mallorca)", "id": 8515983}]}
+{"name": "Fußballspieler_(RCD_Mallorca)", "id": 8363687, "predecessors": [{"name": "Fußballspieler", "id": 236065}, {"name": "Person_(Palma)", "id": 7995129}], "successors": [{"name": "Fußballtorhüter_(RCD_Mallorca)", "id": 8515983}]}

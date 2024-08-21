@@ -1,1 +1,1 @@
-{"name": "Säurefluorid", "id": 13135293, "predecessors": [{"name": "Fluorverbindung", "id": 1812384}, {"name": "Halogenverbindung", "id": 2767903}], "successors": []}
+{"name": "Säurefluorid", "id": 13135293, "predecessors": [{"name": "Fluorverbindung", "id": 1812384}, {"name": "Halogenverbindung", "id": 2767903}], "successors": [{"name": "Schwefelsäurefluorid", "id": 13184757}]}

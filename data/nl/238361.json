@@ -1,0 +1,1 @@
+{"name": "Glas", "id": 238361, "predecessors": [{"name": "Materiaal", "id": 80367}, {"name": "Verbinding_van_silicium", "id": 68718}], "successors": [{"name": "Glaskunst", "id": 1127152}, {"name": "Drinkglas", "id": 1705216}, {"name": "Glasfabriek", "id": 1705271}]}

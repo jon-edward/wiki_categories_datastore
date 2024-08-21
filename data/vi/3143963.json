@@ -1,0 +1,1 @@
+{"name": "Thiết_bị_tua-bin", "id": 3143963, "predecessors": [{"name": "Công_nghệ_khí", "id": 3143524}, {"name": "Kỹ_thuật_tạo_lực", "id": 3143983}, {"name": "Tuốc_bin", "id": 395856}, {"name": "Công_nghiệp_nặng", "id": 809306}], "successors": [{"name": "Máy_bơm", "id": 71962}, {"name": "Tuốc_bin", "id": 395856}, {"name": "Máy_nén", "id": 524162}]}

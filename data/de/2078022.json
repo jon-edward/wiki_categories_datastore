@@ -1,1 +1,1 @@
-{"name": "Carbonsäurechlorid", "id": 2078022, "predecessors": [{"name": "Carbonsäurehalogenid", "id": 12905442}, {"name": "Organochlorverbindung", "id": 1961270}, {"name": "Säurechlorid", "id": 2437005}], "successors": []}
+{"name": "Carbonsäurechlorid", "id": 2078022, "predecessors": [{"name": "Carbonsäurehalogenid", "id": 12905442}, {"name": "Säurechlorid", "id": 2437005}, {"name": "Chlorverbindung", "id": 1662308}], "successors": []}

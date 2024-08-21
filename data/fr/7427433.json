@@ -1,1 +1,1 @@
-{"name": "Santé-environnement", "id": 7427433, "predecessors": [{"name": "Santé_publique", "id": 99549}, {"name": "Sciences_de_la_Terre", "id": 82094}], "successors": [{"name": "Pollution", "id": 99469}]}
+{"name": "Santé-environnement", "id": 7427433, "predecessors": [{"name": "Santé_publique", "id": 99549}, {"name": "Science_de_l'environnement", "id": 5537928}], "successors": [{"name": "Pollution", "id": 99469}]}

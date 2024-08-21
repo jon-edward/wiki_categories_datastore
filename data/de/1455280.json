@@ -1,1 +1,1 @@
-{"name": "AEG_(Flugzeug)", "id": 1455280, "predecessors": [{"name": "AEG", "id": 971543}, {"name": "Luftfahrzeug", "id": 1054297}], "successors": []}
+{"name": "AEG-Luftfahrzeug", "id": 1455280, "predecessors": [{"name": "AEG", "id": 971543}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}

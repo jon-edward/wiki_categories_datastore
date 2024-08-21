@@ -1,1 +1,1 @@
-{"name": "Étudiant_de_l'université_de_St._Lawrence", "id": 10129746, "predecessors": [{"name": "Personnalité_liée_à_l'État_de_New_York", "id": 5136415}], "successors": [{"name": "Joueur_de_hockey_sur_glace_des_Saints_de_St._Lawrence", "id": 6954635}]}
+{"name": "Étudiant_de_l'université_de_St._Lawrence", "id": 10129746, "predecessors": [{"name": "Personnalité_liée_à_l'État_de_New_York", "id": 5136415}, {"name": "Comté_de_Saint_Lawrence", "id": 3547076}], "successors": [{"name": "Joueur_de_hockey_sur_glace_des_Saints_de_St._Lawrence", "id": 6954635}]}

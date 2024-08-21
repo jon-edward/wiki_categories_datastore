@@ -1,1 +1,1 @@
-{"name": "Musicien_normand", "id": 447470, "predecessors": [{"name": "Artiste_normand", "id": 517001}, {"name": "Musicien_français", "id": 200275}], "successors": []}
+{"name": "Musicien_normand", "id": 447470, "predecessors": [{"name": "Artiste_normand", "id": 517001}, {"name": "Art_en_France", "id": 3087093}], "successors": []}

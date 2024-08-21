@@ -1,0 +1,1 @@
+{"name": "Motor", "id": 2290910, "predecessors": [{"name": "Machine", "id": 2290895}, {"name": "Motortechniek", "id": 69427}], "successors": [{"name": "Motorfiets", "id": 68154}, {"name": "Elektromotor", "id": 114532}, {"name": "Motorbrandstof", "id": 1488755}, {"name": "Motorfabrikant", "id": 2197993}, {"name": "Vliegtuigmotor", "id": 2290980}]}

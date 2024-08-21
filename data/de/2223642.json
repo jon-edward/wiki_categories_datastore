@@ -1,1 +1,1 @@
-{"name": "General_Electric", "id": 2223642, "predecessors": [{"name": "Unternehmenswesen", "id": 8993194}], "successors": [{"name": "Triebwerk_(General_Electric)", "id": 4497097}, {"name": "Schienenfahrzeug_(GE)", "id": 6051400}]}
+{"name": "General_Electric", "id": 2223642, "predecessors": [{"name": "Unternehmenswesen", "id": 8993194}], "successors": [{"name": "General-Electric-Triebwerk", "id": 4497097}, {"name": "Schienenfahrzeug_(GE)", "id": 6051400}]}

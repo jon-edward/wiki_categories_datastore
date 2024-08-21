@@ -1,1 +1,1 @@
-{"name": "Fahrschule", "id": 12623642, "predecessors": [{"name": "Fahrzeugführung", "id": 3971443}, {"name": "Technische_Bildungseinrichtung", "id": 2921077}, {"name": "Bildungseinrichtung", "id": 1724231}], "successors": []}
+{"name": "Fahrschule", "id": 12623642, "predecessors": [{"name": "Fahrzeugführung", "id": 3971443}, {"name": "Technische_Bildungseinrichtung", "id": 2921077}, {"name": "Organisation_(Bildung)", "id": 1441712}], "successors": []}

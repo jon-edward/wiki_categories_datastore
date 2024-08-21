@@ -1,1 +1,1 @@
-{"name": "Postunternehmen", "id": 1780028, "predecessors": [{"name": "Logistikunternehmen", "id": 1780014}, {"name": "Organisation_(Postwesen)", "id": 11223287}], "successors": []}
+{"name": "Postunternehmen", "id": 1780028, "predecessors": [{"name": "Distributionslogistik", "id": 1282321}, {"name": "Logistikunternehmen", "id": 1780014}, {"name": "Organisation_(Postwesen)", "id": 11223287}], "successors": []}

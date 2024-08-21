@@ -1,1 +1,1 @@
-{"name": "Astronomisches_Koordinatensystem", "id": 234499, "predecessors": [{"name": "Astronomie", "id": 235241}], "successors": [{"name": "Ort_auf_dem_Nullmeridian", "id": 10429405}]}
+{"name": "Astronomisches_Koordinatensystem", "id": 234499, "predecessors": [{"name": "Astronomie", "id": 235241}, {"name": "Koordinatensystem", "id": 13047022}], "successors": [{"name": "Ort_auf_dem_Nullmeridian", "id": 10429405}]}

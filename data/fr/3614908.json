@@ -1,1 +1,1 @@
-{"name": "Race_de_chien_bassetoïde", "id": 3614908, "predecessors": [{"name": "Race_de_chien", "id": 197417}, {"name": "Zoologie", "id": 81546}], "successors": []}
+{"name": "Race_de_chien_bassetoïde", "id": 3614908, "predecessors": [{"name": "Chien", "id": 109029}, {"name": "Zoologie", "id": 81546}], "successors": []}

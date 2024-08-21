@@ -1,1 +1,1 @@
-{"name": "US_Airways", "id": 9769142, "predecessors": [{"name": "Luftverkehr", "id": 242461}], "successors": []}
+{"name": "US_Airways", "id": 9769142, "predecessors": [{"name": "American_Airlines", "id": 5630920}, {"name": "Luftverkehr", "id": 242461}], "successors": []}

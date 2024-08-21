@@ -1,1 +1,1 @@
-{"name": "Festkörperchemiker", "id": 7476207, "predecessors": [{"name": "Chemiker", "id": 238034}, {"name": "Festkörperchemie", "id": 5507803}], "successors": []}
+{"name": "Festkörperchemiker", "id": 7476207, "predecessors": [{"name": "Festkörperchemie", "id": 5507803}, {"name": "Chemie", "id": 235238}], "successors": []}

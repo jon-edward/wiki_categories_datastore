@@ -1,1 +1,1 @@
-{"name": "Fußballspieler_(UD_Levante)", "id": 8364134, "predecessors": [{"name": "Person_(Valencia)", "id": 4716409}, {"name": "Sport", "id": 235635}, {"name": "Provinz_Valencia", "id": 7831122}], "successors": [{"name": "Fußballtorhüter_(UD_Levante)", "id": 8364123}]}
+{"name": "Fußballspieler_(UD_Levante)", "id": 8364134, "predecessors": [{"name": "Person_(Valencia)", "id": 4716409}, {"name": "Fußballspieler", "id": 236065}, {"name": "Provinz_Valencia", "id": 7831122}], "successors": [{"name": "Fußballtorhüter_(UD_Levante)", "id": 8364123}]}

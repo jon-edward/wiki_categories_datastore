@@ -1,1 +1,1 @@
-{"name": "Reiseportal", "id": 7772819, "predecessors": [{"name": "Internetunternehmen", "id": 465037}, {"name": "Touristikunternehmen", "id": 465279}, {"name": "Website", "id": 240465}, {"name": "Medien", "id": 280667}], "successors": []}
+{"name": "Reiseportal", "id": 7772819, "predecessors": [{"name": "Internetunternehmen", "id": 465037}, {"name": "Touristikunternehmen", "id": 465279}, {"name": "Website", "id": 240465}, {"name": "Tourismus", "id": 241521}], "successors": []}

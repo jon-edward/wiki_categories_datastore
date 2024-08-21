@@ -1,1 +1,1 @@
-{"name": "Wolverine", "id": 962575, "predecessors": [{"name": "Divertissement", "id": 145624}, {"name": "Personnage_de_fiction", "id": 85533}], "successors": [{"name": "Ennemi_de_Wolverine", "id": 962566}]}
+{"name": "Wolverine", "id": 962575, "predecessors": [{"name": "Divertissement", "id": 145624}, {"name": "Fiction", "id": 340157}], "successors": [{"name": "Ennemi_de_Wolverine", "id": 962566}]}

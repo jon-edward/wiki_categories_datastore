@@ -1,1 +1,1 @@
-{"name": "Politische_Bildungseinrichtung", "id": 5061525, "predecessors": [{"name": "Bildungseinrichtung", "id": 1724231}, {"name": "Politische_Bildung", "id": 3314192}], "successors": [{"name": "Landeszentrale_für_politische_Bildung", "id": 6332922}]}
+{"name": "Politische_Bildungseinrichtung", "id": 5061525, "predecessors": [{"name": "Politische_Bildung", "id": 3314192}, {"name": "Organisation_(Bildung)", "id": 1441712}], "successors": [{"name": "Landeszentrale_für_politische_Bildung", "id": 6332922}]}

@@ -1,1 +1,1 @@
-{"name": "Race_de_chien_disparue", "id": 3593050, "predecessors": [{"name": "Carnivore_disparu", "id": 4992291}, {"name": "Race_de_chien", "id": 197417}], "successors": []}
+{"name": "Race_de_chien_disparue", "id": 3593050, "predecessors": [{"name": "Carnivore_disparu", "id": 4992291}, {"name": "Chien", "id": 109029}], "successors": []}

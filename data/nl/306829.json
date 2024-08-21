@@ -1,0 +1,1 @@
+{"name": "Keuken", "id": 306829, "predecessors": [{"name": "Huishouden", "id": 80556}, {"name": "Ruimte", "id": 310886}, {"name": "Wonen", "id": 80091}], "successors": [{"name": "Kooktechniek", "id": 116261}, {"name": "Keukengerei", "id": 177492}, {"name": "Keukenapparatuur", "id": 306844}, {"name": "Keukenterminologie", "id": 2020182}]}

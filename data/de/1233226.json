@@ -1,1 +1,1 @@
-{"name": "Modellflugzeug", "id": 1233226, "predecessors": [{"name": "Flugmodellbau", "id": 1282123}, {"name": "Modellfahrzeug", "id": 8542949}, {"name": "Luftfahrzeug", "id": 1054297}], "successors": []}
+{"name": "Modellflugzeug", "id": 1233226, "predecessors": [{"name": "Flugmodellbau", "id": 1282123}, {"name": "Modellfahrzeug", "id": 8542949}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}

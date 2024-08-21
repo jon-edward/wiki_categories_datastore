@@ -1,1 +1,1 @@
-{"name": "Cyclopropan", "id": 4178603, "predecessors": [{"name": "Chemie", "id": 235238}], "successors": [{"name": "Cyclopropancarbonsäureester", "id": 11603343}]}
+{"name": "Cyclopropan", "id": 4178603, "predecessors": [{"name": "Cycloaliphat", "id": 13179975}], "successors": [{"name": "Cyclopropancarbonsäureester", "id": 11603343}, {"name": "Alkylcyclopropan", "id": 13182777}]}

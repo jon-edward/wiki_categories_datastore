@@ -1,1 +1,1 @@
-{"name": "Costume_médiéval", "id": 14273630, "predecessors": [{"name": "Culture_du_Moyen_Âge", "id": 801556}, {"name": "Histoire_du_costume", "id": 529425}], "successors": [{"name": "Armure", "id": 587744}, {"name": "Casque_médiéval", "id": 6876353}]}
+{"name": "Costume_médiéval", "id": 14273630, "predecessors": [{"name": "Histoire_du_costume", "id": 529425}, {"name": "Accueil", "id": 1155637}], "successors": [{"name": "Armure", "id": 587744}, {"name": "Casque_médiéval", "id": 6876353}]}

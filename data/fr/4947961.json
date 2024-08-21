@@ -1,1 +1,1 @@
-{"name": "Pomme_de_terre_sauvage", "id": 4947961, "predecessors": [{"name": "Plante_sauvage", "id": 15640520}, {"name": "Pomme_de_terre", "id": 359572}], "successors": []}
+{"name": "Pomme_de_terre_sauvage", "id": 4947961, "predecessors": [{"name": "Pomme_de_terre", "id": 359572}, {"name": "Botanique", "id": 81547}], "successors": []}

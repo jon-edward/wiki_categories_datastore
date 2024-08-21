@@ -1,1 +1,1 @@
-{"name": "Zeppelin", "id": 1176013, "predecessors": [{"name": "Luftschifffahrt", "id": 2752260}, {"name": "Technik", "id": 242544}], "successors": [{"name": "LZ_129", "id": 10733910}]}
+{"name": "Zeppelin", "id": 1176013, "predecessors": [{"name": "Luftschifffahrt", "id": 2752260}, {"name": "Technik", "id": 242544}], "successors": [{"name": "LZ_129", "id": 10733910}, {"name": "Zeppelin-Luftfahrzeug", "id": 13184312}, {"name": "Zeppelin_Typ_M", "id": 13187732}, {"name": "Zeppelin_Typ_P", "id": 13187733}]}

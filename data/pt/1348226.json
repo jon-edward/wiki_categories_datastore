@@ -1,0 +1,1 @@
+{"name": "Sorvetes", "id": 1348226, "predecessors": [{"name": "Doces", "id": 46222}, {"name": "Sobremesas", "id": 636268}, {"name": "Alimentos", "id": 38005}], "successors": [{"name": "Fabricantes_de_sorvete", "id": 2540467}, {"name": "Marcas_de_sorvete", "id": 4486577}, {"name": "Sorveterias_dos_Estados_Unidos", "id": 7403960}]}

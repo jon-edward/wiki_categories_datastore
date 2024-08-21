@@ -1,1 +1,1 @@
-{"name": "Motoriste_automobile", "id": 6509572, "predecessors": [{"name": "Motoriste", "id": 1891918}, {"name": "Automobile", "id": 83581}], "successors": []}
+{"name": "Motoriste_automobile", "id": 6509572, "predecessors": [{"name": "Motoriste", "id": 1891918}, {"name": "Automobile", "id": 83581}], "successors": [{"name": "Motoriste_de_Formule_1", "id": 16432140}]}

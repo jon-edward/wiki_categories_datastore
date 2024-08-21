@@ -1,0 +1,1 @@
+{"name": "Máy_bơm", "id": 71962, "predecessors": [{"name": "Cơ_chế_(kỹ_thuật)", "id": 3143973}, {"name": "Kỹ_thuật_thủy_lợi", "id": 2458904}, {"name": "Máy_móc", "id": 491738}, {"name": "Thiết_bị_tua-bin", "id": 3143963}, {"name": "Thủy_lực", "id": 68446}, {"name": "Động_lực_học_chất_lưu", "id": 78993}], "successors": [{"name": "Máy_nén", "id": 524162}]}

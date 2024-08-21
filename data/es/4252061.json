@@ -1,0 +1,1 @@
+{"name": "Mamíferos_en_estado_vulnerable", "id": 4252061, "predecessors": [{"name": "Animales_en_estado_vulnerable", "id": 4251986}, {"name": "Animales", "id": 55378}], "successors": [{"name": "Roedores_en_estado_vulnerable", "id": 4265275}, {"name": "Primates_en_estado_vulnerable", "id": 4265276}, {"name": "Murciélagos_(Chiroptera)_en_estado_vulnerable", "id": 4265566}]}

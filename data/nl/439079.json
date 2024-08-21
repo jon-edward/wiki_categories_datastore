@@ -1,0 +1,1 @@
+{"name": "Boekhandel", "id": 439079, "predecessors": [{"name": "Boek", "id": 63398}, {"name": "Winkeltype", "id": 337921}], "successors": [{"name": "Boekhandelaar", "id": 5224614}, {"name": "Boekhandel_in_Nederland", "id": 5460605}]}

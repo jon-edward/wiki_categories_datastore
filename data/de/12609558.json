@@ -1,1 +1,1 @@
-{"name": "Handbetriebenes_Gerät", "id": 12609558, "predecessors": [{"name": "Antrieb_nach_Energiequelle", "id": 9393332}], "successors": [{"name": "Handwerkzeug", "id": 569742}]}
+{"name": "Handbetriebenes_Gerät", "id": 12609558, "predecessors": [{"name": "Muskelkraftbetriebenes_Gerät", "id": 12607397}], "successors": [{"name": "Handwerkzeug", "id": 569742}]}

@@ -1,1 +1,1 @@
-{"name": "Seimas-Beamter", "id": 11545841, "predecessors": [{"name": "Seimas", "id": 7185988}, {"name": "Beamter", "id": 378632}], "successors": []}
+{"name": "Seimas-Beamter", "id": 11545841, "predecessors": [{"name": "Beamter", "id": 378632}, {"name": "Parlamentswesen", "id": 5091706}], "successors": []}

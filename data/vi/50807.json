@@ -1,0 +1,1 @@
+{"name": "Thuốc_trừ_dịch_hại", "id": 50807, "predecessors": [{"name": "Chất_độc", "id": 50815}, {"name": "Sinh_vật_gây_hại", "id": 1706917}, {"name": "Độc_chất_học", "id": 123461}], "successors": [{"name": "Thuốc_diệt_nấm", "id": 198147}, {"name": "Thuốc_diệt_cỏ", "id": 3656345}]}

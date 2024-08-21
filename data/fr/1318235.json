@@ -1,1 +1,1 @@
-{"name": "Famille_de_fiction", "id": 1318235, "predecessors": [{"name": "Personnage_de_fiction", "id": 85533}, {"name": "Relation_humaine", "id": 87113}], "successors": [{"name": "Jumeau_de_fiction", "id": 3114958}]}
+{"name": "Famille_de_fiction", "id": 1318235, "predecessors": [{"name": "Fiction", "id": 340157}, {"name": "Relation_humaine", "id": 87113}], "successors": [{"name": "Jumeau_de_fiction", "id": 3114958}]}

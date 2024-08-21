@@ -1,1 +1,1 @@
-{"name": "Chien_d'attelage", "id": 2803584, "predecessors": [{"name": "Course_de_chiens_de_traineaux", "id": 4271584}, {"name": "Race_de_chien", "id": 197417}], "successors": []}
+{"name": "Chien_d'attelage", "id": 2803584, "predecessors": [{"name": "Course_de_chiens_de_traineaux", "id": 4271584}, {"name": "Chien", "id": 109029}], "successors": []}

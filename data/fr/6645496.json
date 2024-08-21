@@ -1,1 +1,1 @@
-{"name": "Acteur_ayant_incarné_le_professeur_Moriarty", "id": 6645496, "predecessors": [{"name": "Sherlock_Holmes", "id": 2980366}, {"name": "Personnage_de_fiction", "id": 85533}, {"name": "Méchant_de_fiction", "id": 1191815}], "successors": []}
+{"name": "Acteur_ayant_incarné_le_professeur_Moriarty", "id": 6645496, "predecessors": [{"name": "Sherlock_Holmes", "id": 2980366}, {"name": "Fiction", "id": 340157}, {"name": "Méchant_de_fiction", "id": 1191815}], "successors": []}

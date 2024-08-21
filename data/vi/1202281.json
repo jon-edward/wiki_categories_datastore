@@ -1,0 +1,1 @@
+{"name": "Tắm", "id": 1202281, "predecessors": [{"name": "Vệ_sinh", "id": 34041}], "successors": [{"name": "Phòng_tắm", "id": 1201558}, {"name": "Nhà_tắm_công_cộng", "id": 1202574}, {"name": "Bơi_lội", "id": 1202868}, {"name": "Thị_trấn_spa", "id": 14518082}, {"name": "Tắm_trị_liệu", "id": 14518125}, {"name": "Thủy_liệu_pháp", "id": 19616241}]}

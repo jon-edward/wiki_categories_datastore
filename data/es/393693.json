@@ -1,0 +1,1 @@
+{"name": "Voz_sobre_IP", "id": 393693, "predecessors": [{"name": "Audio_digital", "id": 221028}, {"name": "Comunicación_por_medio_de_computadoras", "id": 9439625}, {"name": "Protocolos_de_nivel_de_aplicación", "id": 234518}, {"name": "Telefonía", "id": 65563}], "successors": [{"name": "Software_VoIP", "id": 283954}, {"name": "Servicios_VoIP", "id": 9438768}]}

@@ -1,1 +1,1 @@
-{"name": "Avocat_de_fiction", "id": 1160415, "predecessors": [{"name": "Avocat", "id": 107341}, {"name": "Personnage_de_fiction", "id": 85533}, {"name": "Droit", "id": 84954}], "successors": []}
+{"name": "Avocat_de_fiction", "id": 1160415, "predecessors": [{"name": "Avocat", "id": 107341}, {"name": "Fiction", "id": 340157}, {"name": "Droit", "id": 84954}], "successors": []}

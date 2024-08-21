@@ -1,1 +1,1 @@
-{"name": "Muscle_de_la_face", "id": 3766652, "predecessors": [{"name": "Muscle_de_la_tête_et_du_cou", "id": 9300789}], "successors": []}
+{"name": "Muscle_facial", "id": 3766652, "predecessors": [{"name": "Muscle_crânien", "id": 16419180}], "successors": []}

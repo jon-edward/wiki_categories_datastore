@@ -1,1 +1,1 @@
-{"name": "Beschlagnahmter_Film", "id": 5952390, "predecessors": [{"name": "Indizierter_Film", "id": 5935277}, {"name": "Filmbewertung", "id": 977068}, {"name": "Jugendschutz", "id": 1605589}], "successors": []}
+{"name": "Beschlagnahmter_Film", "id": 5952390, "predecessors": [{"name": "Indizierter_Film", "id": 5935277}, {"name": "Filmbewertung", "id": 977068}, {"name": "Jugendschutz", "id": 1605589}], "successors": [{"name": "Ehemals_beschlagnahmter_Film", "id": 13174534}]}

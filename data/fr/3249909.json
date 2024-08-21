@@ -1,1 +1,1 @@
-{"name": "Chasseur_de_primes_de_fiction", "id": 3249909, "predecessors": [{"name": "Personnage_de_fiction", "id": 85533}, {"name": "Chasse_à_l'homme", "id": 7837311}], "successors": []}
+{"name": "Chasseur_de_primes_de_fiction", "id": 3249909, "predecessors": [{"name": "Fiction", "id": 340157}, {"name": "Chasse_à_l'homme", "id": 7837311}], "successors": []}

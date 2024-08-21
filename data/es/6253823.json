@@ -1,0 +1,1 @@
+{"name": "Hoteles_por_tipo", "id": 6253823, "predecessors": [{"name": "Edificios_y_estructuras_por_tipo", "id": 3260541}, {"name": "Tipos_de_hotel", "id": 10060713}], "successors": [{"name": "Condo-hoteles", "id": 1685795}, {"name": "Hospederías", "id": 8151336}]}

@@ -1,1 +1,1 @@
-{"name": "Lebensmittelchemiker", "id": 5879341, "predecessors": [{"name": "Chemiker", "id": 238034}, {"name": "Lebensmittelchemie", "id": 314897}], "successors": []}
+{"name": "Lebensmittelchemiker", "id": 5879341, "predecessors": [{"name": "Lebensmittelchemie", "id": 314897}, {"name": "Chemie", "id": 235238}], "successors": []}

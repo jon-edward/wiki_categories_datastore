@@ -1,1 +1,1 @@
-{"name": "Groupe_de_techno", "id": 11235399, "predecessors": [{"name": "Groupe_de_musique_électronique", "id": 1264239}, {"name": "Genre_de_musique_électronique", "id": 542890}], "successors": [{"name": "Groupe_de_techno_hardcore", "id": 11109666}]}
+{"name": "Groupe_de_techno", "id": 11235399, "predecessors": [{"name": "Genre_de_musique_électronique", "id": 542890}, {"name": "Groupe_de_musique_électronique", "id": 1264239}], "successors": [{"name": "Groupe_de_techno_hardcore", "id": 11109666}, {"name": "Groupe_d'aggrotech", "id": 16415819}]}

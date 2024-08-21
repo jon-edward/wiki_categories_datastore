@@ -1,1 +1,1 @@
-{"name": "Fußballspieler_(FC_Valencia)", "id": 8321730, "predecessors": [{"name": "Person_(Valencia)", "id": 4716409}, {"name": "Fußball_(Spanien)", "id": 2532629}, {"name": "Sport", "id": 235635}], "successors": [{"name": "Fußballtorhüter_(FC_Valencia)", "id": 8321729}]}
+{"name": "Fußballspieler_(FC_Valencia)", "id": 8321730, "predecessors": [{"name": "Person_(Valencia)", "id": 4716409}, {"name": "Fußballspieler", "id": 236065}, {"name": "Fußball_(Spanien)", "id": 2532629}], "successors": [{"name": "Fußballtorhüter_(FC_Valencia)", "id": 8321729}]}

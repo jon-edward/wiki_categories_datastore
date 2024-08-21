@@ -1,1 +1,1 @@
-{"name": "Personnage_de_fiction_possédant_des_personnalités_multiples", "id": 1735785, "predecessors": [{"name": "Personnage_de_fiction", "id": 85533}, {"name": "Cas_médical", "id": 4684737}], "successors": []}
+{"name": "Personnage_de_fiction_possédant_des_personnalités_multiples", "id": 1735785, "predecessors": [{"name": "Fiction", "id": 340157}, {"name": "Cas_médical", "id": 4684737}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Sélectionneur_vainqueur_de_la_Coupe_d'Afrique_des_nations_de_football", "id": 7829777, "predecessors": [{"name": "Compétition_internationale_de_football", "id": 581212}, {"name": "Entraînement_sportif", "id": 895269}], "successors": []}
+{"name": "Sélectionneur_vainqueur_de_la_Coupe_d'Afrique_des_nations_de_football", "id": 7829777, "predecessors": [{"name": "Coupe_d'Afrique_des_nations_de_football", "id": 489768}, {"name": "Entraînement_sportif", "id": 895269}], "successors": []}

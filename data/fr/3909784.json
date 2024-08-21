@@ -1,1 +1,1 @@
-{"name": "Astronaute_de_fiction", "id": 3909784, "predecessors": [{"name": "Personnage_de_fiction", "id": 85533}, {"name": "Vol_spatial_habité", "id": 3877155}, {"name": "Fiction", "id": 340157}, {"name": "Astronomie", "id": 80753}], "successors": []}
+{"name": "Astronaute_de_fiction", "id": 3909784, "predecessors": [{"name": "Fiction", "id": 340157}, {"name": "Vol_spatial_habité", "id": 3877155}, {"name": "Astronomie", "id": 80753}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Soap_opera", "id": 84486, "predecessors": [{"name": "Feuilleton_télévisé", "id": 83665}, {"name": "Série_télévisée_sentimentale", "id": 1571863}], "successors": []}
+{"name": "Soap_opera", "id": 84486, "predecessors": [{"name": "Feuilleton_télévisé", "id": 83665}, {"name": "Série_télévisée_sentimentale", "id": 1571863}], "successors": [{"name": "Personnage_des_Feux_de_l'amour", "id": 3199837}, {"name": "Personnage_de_Melrose_Place", "id": 4745120}]}

@@ -1,1 +1,1 @@
-{"name": "Flusssystem_Mattig", "id": 8424122, "predecessors": [{"name": "Flusssystem_Donau", "id": 1948785}, {"name": "Flusssystem_Inn", "id": 4322247}, {"name": "Inn", "id": 5777071}], "successors": []}
+{"name": "Flusssystem_Mattig", "id": 8424122, "predecessors": [{"name": "Flusssystem_Donau", "id": 1948785}, {"name": "Flusssystem_Inn", "id": 4322247}, {"name": "Inn", "id": 5777071}], "successors": [{"name": "Flusssystem_Schwemmbach", "id": 13189278}]}

@@ -1,1 +1,1 @@
-{"name": "Batterie_d'artillerie_côtière_du_mur_de_l'Atlantique", "id": 9582145, "predecessors": [{"name": "Artillerie", "id": 292854}, {"name": "Mur_de_l'Atlantique", "id": 2534714}], "successors": []}
+{"name": "Batterie_d'artillerie_côtière_du_mur_de_l'Atlantique", "id": 9582145, "predecessors": [{"name": "Artillerie", "id": 292854}, {"name": "Bunker", "id": 2969887}], "successors": []}

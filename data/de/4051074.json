@@ -1,1 +1,1 @@
-{"name": "Oxazolidin", "id": 4051074, "predecessors": [{"name": "Ether", "id": 846363}, {"name": "Sauerstoffhaltiger_gesättigter_Heterocyclus", "id": 3191830}, {"name": "Stickstoffhaltiger_gesättigter_Heterocyclus", "id": 3191860}], "successors": []}
+{"name": "Oxazolidin", "id": 4051074, "predecessors": [{"name": "Sauerstoffhaltiger_gesättigter_Heterocyclus", "id": 3191830}, {"name": "Stickstoffhaltiger_gesättigter_Heterocyclus", "id": 3191860}], "successors": [{"name": "Oxazolidinon", "id": 9797640}]}

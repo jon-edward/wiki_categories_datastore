@@ -1,1 +1,1 @@
-{"name": "Lycoming", "id": 4501641, "predecessors": [{"name": "Wirtschaftliche_Güter", "id": 12543180}], "successors": []}
+{"name": "Lycoming-Triebwerk", "id": 4501641, "predecessors": [{"name": "Wirtschaftliche_Güter", "id": 12543180}, {"name": "Unternehmenswesen", "id": 8993194}], "successors": []}

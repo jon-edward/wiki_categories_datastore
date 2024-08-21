@@ -1,1 +1,1 @@
-{"name": "Format_de_fonte", "id": 1646589, "predecessors": [{"name": "Format_de_données_numériques", "id": 142603}, {"name": "Police_d'écriture", "id": 16405826}, {"name": "Publication_assistée_par_ordinateur", "id": 246115}], "successors": [{"name": "Fonte_numérique", "id": 3510006}]}
+{"name": "Format_de_fonte", "id": 1646589, "predecessors": [{"name": "Format_de_données_numériques", "id": 142603}, {"name": "Police_de_caractères", "id": 16405826}, {"name": "Publication_assistée_par_ordinateur", "id": 246115}], "successors": [{"name": "Fonte_numérique", "id": 3510006}]}

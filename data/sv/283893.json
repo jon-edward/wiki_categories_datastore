@@ -1,0 +1,1 @@
+{"name": "Logikspel", "id": 283893, "predecessors": [{"name": "Logik", "id": 51523}, {"name": "Spel", "id": 52267}, {"name": "Problemlösning", "id": 745694}], "successors": [{"name": "Pusselproblem", "id": 341542}, {"name": "Korsord", "id": 525121}]}

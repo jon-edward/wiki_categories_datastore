@@ -1,0 +1,1 @@
+{"name": "Lavagem_de_roupa", "id": 7064926, "predecessors": [{"name": "Vestuário", "id": 37227}, {"name": "Higiene", "id": 150940}], "successors": [{"name": "Amaciantes", "id": 7064920}, {"name": "Sabão_para_lavar_roupa", "id": 7064923}]}

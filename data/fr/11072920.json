@@ -1,1 +1,1 @@
-{"name": "Groupe_d'electro", "id": 11072920, "predecessors": [{"name": "Groupe_de_musique_électronique", "id": 1264239}, {"name": "Genre_de_hip-hop", "id": 457790}], "successors": []}
+{"name": "Groupe_d'electro", "id": 11072920, "predecessors": [{"name": "Genre_de_hip-hop", "id": 457790}, {"name": "Groupe_de_musique_électronique", "id": 1264239}], "successors": [{"name": "Groupe_d'aggrotech", "id": 16415819}]}

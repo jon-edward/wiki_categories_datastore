@@ -1,0 +1,1 @@
+{"name": "Bus_máy_tính", "id": 184684, "predecessors": [{"name": "Giao_thức_tầng_vật_lý", "id": 14669827}, {"name": "Phần_cứng", "id": 17721}], "successors": [{"name": "Bus_nối_tiếp", "id": 574955}, {"name": "USB", "id": 8098043}]}

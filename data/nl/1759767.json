@@ -1,0 +1,1 @@
+{"name": "Malware", "id": 1759767, "predecessors": [{"name": "Computercriminaliteit", "id": 2722821}, {"name": "Informatiebeveiliging", "id": 273803}, {"name": "Software", "id": 65258}], "successors": [{"name": "Computervirus", "id": 79703}, {"name": "Computerworm", "id": 4033321}]}

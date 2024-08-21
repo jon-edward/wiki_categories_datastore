@@ -1,1 +1,1 @@
-{"name": "Koordinatensystem", "id": 13047022, "predecessors": [{"name": "Raum", "id": 6547855}, {"name": "Vektorraum", "id": 7853253}], "successors": [{"name": "Geodätisches_Datum", "id": 5131475}]}
+{"name": "Koordinatensystem", "id": 13047022, "predecessors": [{"name": "Raum", "id": 6547855}, {"name": "Vektorraum", "id": 7853253}], "successors": [{"name": "Astronomisches_Koordinatensystem", "id": 234499}, {"name": "Geodätisches_Datum", "id": 5131475}]}

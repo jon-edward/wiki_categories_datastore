@@ -1,0 +1,1 @@
+{"name": "열차_충돌_사고", "id": 2334051, "predecessors": [{"name": "교통_사고", "id": 123937}, {"name": "역학", "id": 12399}], "successors": []}

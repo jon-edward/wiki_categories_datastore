@@ -1,0 +1,1 @@
+{"name": "Frans_acteur", "id": 122645, "predecessors": [{"name": "Frans_kunstenaar", "id": 130915}, {"name": "Kunst", "id": 63472}], "successors": [{"name": "Frans_filmacteur", "id": 1799711}, {"name": "Frans_televisieacteur", "id": 1807902}, {"name": "Frans_toneelacteur", "id": 1810940}]}

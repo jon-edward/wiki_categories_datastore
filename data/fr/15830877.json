@@ -1,1 +1,1 @@
-{"name": "Brassiceae", "id": 15830877, "predecessors": [{"name": "Brassicoideae", "id": 15640048}], "successors": [{"name": "Brassica", "id": 15664147}, {"name": "Diplotaxis", "id": 15830875}, {"name": "Raphanus", "id": 15832923}]}
+{"name": "Brassiceae", "id": 15830877, "predecessors": [{"name": "Brassicoideae", "id": 15640048}], "successors": [{"name": "Diplotaxis", "id": 15830875}, {"name": "Raphanus", "id": 15832923}, {"name": "Chou", "id": 3128533}, {"name": "Brassica_oleracea", "id": 15746615}, {"name": "Brassica_rapa", "id": 15829535}]}

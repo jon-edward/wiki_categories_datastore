@@ -1,1 +1,1 @@
-{"name": "Bauwerk_in_Gardelegen", "id": 6348024, "predecessors": [{"name": "Gardelegen", "id": 2996291}, {"name": "Bildende_Kunst_(Sachsen-Anhalt)", "id": 11269074}, {"name": "Architektur", "id": 1884679}], "successors": [{"name": "Kirchengebäude_in_Gardelegen", "id": 8345992}]}
+{"name": "Bauwerk_in_Gardelegen", "id": 6348024, "predecessors": [{"name": "Bildende_Kunst_(Sachsen-Anhalt)", "id": 11269074}, {"name": "Architektur", "id": 1884679}, {"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Kirchengebäude_in_Gardelegen", "id": 8345992}]}

@@ -1,1 +1,1 @@
-{"name": "Jungenschule", "id": 6699398, "predecessors": [{"name": "Bildungseinrichtung", "id": 1724231}], "successors": [{"name": "Knabenseminar", "id": 1141553}, {"name": "Ehemalige_Jungenschule", "id": 8559338}]}
+{"name": "Jungenschule", "id": 6699398, "predecessors": [{"name": "Organisation_(Bildung)", "id": 1441712}, {"name": "Organisation_(Männer)", "id": 8556234}], "successors": [{"name": "Knabenseminar", "id": 1141553}, {"name": "Ehemalige_Jungenschule", "id": 8559338}]}

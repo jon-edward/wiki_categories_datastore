@@ -1,1 +1,1 @@
-{"name": "Botaniste_suisse", "id": 603151, "predecessors": [{"name": "Scientifique_suisse", "id": 234306}, {"name": "Botanique", "id": 81547}], "successors": [{"name": "Botaniste_suisse_du_XXe_siècle", "id": 15431627}]}
+{"name": "Botaniste_suisse", "id": 603151, "predecessors": [{"name": "Scientifique_suisse", "id": 234306}, {"name": "Botanique", "id": 81547}], "successors": [{"name": "Botaniste_suisse_du_XXe_siècle", "id": 15431627}, {"name": "Botaniste_suisse_du_XVIIIe_siècle", "id": 16410607}, {"name": "Botaniste_suisse_du_XIXe_siècle", "id": 16410612}]}

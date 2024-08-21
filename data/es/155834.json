@@ -1,0 +1,1 @@
+{"name": "Prisiones", "id": 155834, "predecessors": [{"name": "Criminalidad", "id": 3190227}, {"name": "Edificios_y_estructuras_por_tipo", "id": 3260541}, {"name": "Penas", "id": 194313}], "successors": [{"name": "Campos_de_concentración", "id": 246164}, {"name": "Motines_carcelarios", "id": 8032374}, {"name": "Cultura_carcelaria", "id": 10498434}]}

@@ -1,0 +1,1 @@
+{"name": "Listor_över_vägar", "id": 672705, "predecessors": [{"name": "Listor_med_anknytning_till_geografi", "id": 567290}, {"name": "Listor_med_anknytning_till_kommunikation", "id": 672693}, {"name": "Vägar", "id": 73795}], "successors": [{"name": "Listor_över_avfartsnummer", "id": 1021855}, {"name": "Listor_över_vägar_i_Sverige", "id": 8498157}]}

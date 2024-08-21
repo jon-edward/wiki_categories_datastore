@@ -1,1 +1,1 @@
-{"name": "Fahrradkomponentenhersteller", "id": 1394823, "predecessors": [{"name": "Sportartikelhersteller", "id": 465059}, {"name": "Organisation_(Straßenverkehr)", "id": 7803061}], "successors": [{"name": "Fahrradnabenhersteller", "id": 8360341}, {"name": "Shimano", "id": 8858040}]}
+{"name": "Fahrradkomponentenhersteller", "id": 1394823, "predecessors": [{"name": "Sportartikelhersteller", "id": 465059}, {"name": "Radverkehr", "id": 4648782}], "successors": [{"name": "Fahrradnabenhersteller", "id": 8360341}, {"name": "Shimano", "id": 8858040}]}
