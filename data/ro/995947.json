@@ -1,1 +1,1 @@
-{"name": "Tehnologii_de_gaze", "id": 995947, "predecessors": [{"name": "Gaze", "id": 23118}, {"name": "Tehnologie", "id": 28690}], "successors": [{"name": "Turbine_cu_gaze", "id": 142554}, {"name": "Recipiente_sub_presiune", "id": 1020411}, {"name": "Legile_gazelor", "id": 2016992}]}
+{"name": "Tehnologii_de_gaze", "id": 995947, "predecessors": [{"name": "Gaze", "id": 23118}, {"name": "Tehnologie", "id": 28690}], "successors": [{"name": "Mașini_termice", "id": 753900}, {"name": "Recipiente_sub_presiune", "id": 1020411}, {"name": "Legile_gazelor", "id": 2016992}]}

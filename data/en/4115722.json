@@ -1,1 +1,1 @@
-{"name": "Drink_brands", "id": 4115722, "predecessors": [{"name": "Drinks", "id": 1000234}, {"name": "Food_product_brands", "id": 4108480}], "successors": [{"name": "Bottled_water_brands", "id": 4581550}, {"name": "Coffee_brands", "id": 5833650}]}
+{"name": "Drink_brands", "id": 4115722, "predecessors": [{"name": "Drinks", "id": 1000234}, {"name": "Food_product_brands", "id": 4108480}], "successors": [{"name": "Bottled_water_brands", "id": 4581550}, {"name": "Alcoholic_drink_brands", "id": 5109188}, {"name": "Coffee_brands", "id": 5833650}]}

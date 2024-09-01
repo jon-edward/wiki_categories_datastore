@@ -1,1 +1,1 @@
-{"name": "Yogurt-based_drinks", "id": 44522921, "predecessors": [{"name": "Milk-based_drinks", "id": 50884646}, {"name": "Non-alcoholic_drinks", "id": 4197151}, {"name": "Yogurts", "id": 19979677}], "successors": []}
+{"name": "Yogurt-based_drinks", "id": 44522921, "predecessors": [{"name": "Fermented_drinks", "id": 4193389}, {"name": "Milk-based_drinks", "id": 50884646}, {"name": "Non-alcoholic_drinks", "id": 4197151}, {"name": "Yogurts", "id": 19979677}], "successors": []}

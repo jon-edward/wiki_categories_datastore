@@ -1,1 +1,1 @@
-{"name": "Roboți", "id": 759785, "predecessors": [{"name": "Mașini", "id": 753896}, {"name": "Robotică", "id": 199438}], "successors": [{"name": "Filme_cu_roboți", "id": 897500}]}
+{"name": "Roboți", "id": 759785, "predecessors": [{"name": "Robotică", "id": 199438}, {"name": "Materie", "id": 116477}], "successors": [{"name": "Filme_cu_roboți", "id": 897500}]}

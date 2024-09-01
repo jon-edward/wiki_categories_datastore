@@ -1,1 +1,1 @@
-{"name": "Deaths_by_strangulation", "id": 25541564, "predecessors": [{"name": "Killings_by_type", "id": 50222534}, {"name": "Abuse", "id": 691808}], "successors": []}
+{"name": "Deaths_by_strangulation", "id": 25541564, "predecessors": [{"name": "Deaths_from_asphyxiation", "id": 19630507}, {"name": "Killings_by_type", "id": 50222534}, {"name": "Abuse", "id": 691808}], "successors": []}

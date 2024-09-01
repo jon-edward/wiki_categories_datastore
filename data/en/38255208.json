@@ -1,1 +1,1 @@
-{"name": "Moro_conflict", "id": 38255208, "predecessors": [{"name": "Ethnic_conflict", "id": 7993662}, {"name": "Moro_history", "id": 77183096}], "successors": []}
+{"name": "Moro_conflict", "id": 38255208, "predecessors": [{"name": "Moro_history", "id": 77183096}, {"name": "Violence_against_indigenous_peoples", "id": 44862955}], "successors": [{"name": "Bangsamoro_peace_process", "id": 51841377}]}

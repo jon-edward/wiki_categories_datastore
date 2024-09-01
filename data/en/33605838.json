@@ -1,1 +1,1 @@
-{"name": "Nuclear-powered_robots", "id": 33605838, "predecessors": [{"name": "Nuclear_propulsion", "id": 3099673}, {"name": "Robots", "id": 943048}], "successors": []}
+{"name": "Nuclear-powered_robots", "id": 33605838, "predecessors": [{"name": "Nuclear_technology", "id": 888845}, {"name": "Robots", "id": 943048}], "successors": []}

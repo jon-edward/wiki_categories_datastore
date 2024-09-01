@@ -1,1 +1,0 @@
-{"name": "Température", "id": 3420232, "predecessors": [{"name": "Grandeur_physique", "id": 1129304}, {"name": "Grandeur_thermodynamique", "id": 5426861}], "successors": [{"name": "Température_seuil", "id": 11747427}]}

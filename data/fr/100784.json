@@ -1,1 +1,0 @@
-{"name": "Plante_oléagineuse", "id": 100784, "predecessors": [{"name": "Huile_végétale", "id": 3988205}, {"name": "Plante_alimentaire", "id": 97917}, {"name": "Plante_industrielle", "id": 101340}], "successors": [{"name": "Soja", "id": 1757689}, {"name": "Noix_et_graine_oléagineuse", "id": 3162521}, {"name": "Châtaigne", "id": 5125668}]}

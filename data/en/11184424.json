@@ -1,1 +1,1 @@
-{"name": "Ionophores", "id": 11184424, "predecessors": [{"name": "Molecules", "id": 3129318}, {"name": "Chemical_compounds", "id": 695235}], "successors": [{"name": "Uncouplers", "id": 54673298}]}
+{"name": "Ionophores", "id": 11184424, "predecessors": [{"name": "Membrane_biology", "id": 1064336}, {"name": "Chemical_compounds", "id": 695235}], "successors": [{"name": "Uncouplers", "id": 54673298}]}

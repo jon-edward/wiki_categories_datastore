@@ -1,1 +1,1 @@
-{"name": "World_University_Championships", "id": 13344552, "predecessors": [{"name": "Student_sports_competitions", "id": 61778136}], "successors": [{"name": "World_University_Cycling_Championships", "id": 36978874}]}
+{"name": "World_University_Championships", "id": 13344552, "predecessors": [{"name": "Student_sports_competitions", "id": 61778136}, {"name": "World_championships", "id": 7136195}], "successors": [{"name": "World_University_Cycling_Championships", "id": 36978874}]}

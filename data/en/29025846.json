@@ -1,1 +1,1 @@
-{"name": "Janissaries", "id": 29025846, "predecessors": [{"name": "Devshirme", "id": 30578887}, {"name": "Warriors", "id": 1336879}], "successors": []}
+{"name": "Janissaries", "id": 29025846, "predecessors": [{"name": "Combat_occupations", "id": 19381455}, {"name": "Devshirme", "id": 30578887}, {"name": "Slaves_from_the_Ottoman_Empire", "id": 29699535}, {"name": "Warriors", "id": 1336879}, {"name": "Slavery_in_the_Ottoman_Empire", "id": 55334829}], "successors": []}

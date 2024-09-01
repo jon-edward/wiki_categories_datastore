@@ -1,1 +1,1 @@
-{"name": "Chinese_ghosts", "id": 37536956, "predecessors": [{"name": "Chinese_legendary_creatures", "id": 9799934}, {"name": "Ghosts", "id": 737224}], "successors": [{"name": "Yaoguai", "id": 61130351}]}
+{"name": "Chinese_ghosts", "id": 37536956, "predecessors": [{"name": "Asian_ghosts", "id": 58197799}, {"name": "Chinese_legendary_creatures", "id": 9799934}, {"name": "Ghosts", "id": 737224}], "successors": [{"name": "Yaoguai", "id": 61130351}]}

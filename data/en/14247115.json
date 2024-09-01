@@ -1,1 +1,1 @@
-{"name": "Mechanical_failure_modes", "id": 14247115, "predecessors": [{"name": "Mechanical_failure", "id": 30241222}, {"name": "Solid_mechanics", "id": 7077725}, {"name": "Technological_failures", "id": 20806807}], "successors": [{"name": "Corrosion", "id": 3051619}]}
+{"name": "Mechanical_failure_modes", "id": 14247115, "predecessors": [{"name": "Mechanical_failure", "id": 30241222}, {"name": "Solid_mechanics", "id": 7077725}], "successors": [{"name": "Corrosion", "id": 3051619}]}

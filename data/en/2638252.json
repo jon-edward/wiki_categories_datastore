@@ -1,1 +1,1 @@
-{"name": "Weather_hazards", "id": 2638252, "predecessors": [{"name": "Meteorological_phenomena", "id": 38779805}, {"name": "Earth_phenomena", "id": 2049668}], "successors": [{"name": "Flood", "id": 2649506}, {"name": "Tornado", "id": 5915908}, {"name": "Lightning", "id": 12425718}]}
+{"name": "Weather_hazards", "id": 2638252, "predecessors": [{"name": "Observational_astronomy", "id": 2776354}], "successors": [{"name": "Flood", "id": 2649506}, {"name": "Tornado", "id": 5915908}, {"name": "Lightning", "id": 12425718}]}

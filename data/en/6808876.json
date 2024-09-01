@@ -1,0 +1,1 @@
+{"name": "Protein_biosynthesis", "id": 6808876, "predecessors": [{"name": "Biosynthesis", "id": 23192469}, {"name": "Gene_expression", "id": 746340}, {"name": "Metabolism", "id": 1135134}], "successors": [{"name": "Post-translational_modification", "id": 4648624}]}

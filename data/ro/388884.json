@@ -1,1 +1,1 @@
-{"name": "Automobile_americane", "id": 388884, "predecessors": [{"name": "Automobile", "id": 31957}], "successors": [{"name": "Constructori_de_automobile_din_Statele_Unite_ale_Americii", "id": 819145}]}
+{"name": "Automobile_americane", "id": 388884, "predecessors": [{"name": "Mărci_americane", "id": 3142899}, {"name": "Automobile", "id": 31957}], "successors": [{"name": "Constructori_de_automobile_din_Statele_Unite_ale_Americii", "id": 819145}]}

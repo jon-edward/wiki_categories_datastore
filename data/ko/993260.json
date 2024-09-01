@@ -1,1 +1,0 @@
-{"name": "X_라이브러리", "id": 993260, "predecessors": [{"name": "X_윈도_시스템", "id": 213700}, {"name": "라이브러리", "id": 115982}], "successors": [{"name": "KDE_플랫폼", "id": 2525631}, {"name": "Qt", "id": 2943215}]}

@@ -1,1 +1,1 @@
-{"name": "Drug_overdose", "id": 21077627, "predecessors": [{"name": "Causes_of_death", "id": 5271061}, {"name": "Poisoning_by_drugs,_medicaments_and_biological_substances", "id": 27158536}], "successors": [{"name": "Drug-related_deaths", "id": 1302615}]}
+{"name": "Drug_overdose", "id": 21077627, "predecessors": [{"name": "Causes_of_death", "id": 5271061}], "successors": [{"name": "Drug-related_deaths", "id": 1302615}]}

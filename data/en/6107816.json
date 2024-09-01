@@ -1,1 +1,1 @@
-{"name": "Poker_strategy", "id": 6107816, "predecessors": [{"name": "Poker_gameplay_and_terminology", "id": 5502981}, {"name": "Game_theory", "id": 774008}], "successors": []}
+{"name": "Poker_strategy", "id": 6107816, "predecessors": [{"name": "Poker_terminology", "id": 5502981}, {"name": "Game_theory", "id": 774008}], "successors": []}

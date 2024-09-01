@@ -1,1 +1,1 @@
-{"name": "Utah_Transit_Authority", "id": 17373160, "predecessors": [{"name": "Government_of_Utah", "id": 1238591}, {"name": "Wasatch_Front", "id": 1059263}], "successors": [{"name": "TRAX_(light_rail)_stations", "id": 18440430}, {"name": "UTA_FrontRunner_stations", "id": 18440560}]}
+{"name": "Utah_Transit_Authority", "id": 17373160, "predecessors": [{"name": "Wasatch_Front", "id": 1059263}], "successors": [{"name": "TRAX_(light_rail)_stations", "id": 18440430}, {"name": "UTA_FrontRunner_stations", "id": 18440560}]}

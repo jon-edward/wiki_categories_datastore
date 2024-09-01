@@ -1,1 +1,1 @@
-{"name": "Compositors_prussians", "id": 1930019, "predecessors": [{"name": "Compositors_alemanys", "id": 76073}, {"name": "Alemanys", "id": 14748}], "successors": [{"name": "Compositors_de_Königsberg", "id": 1930018}]}
+{"name": "Compositors_prussians", "id": 1930019, "predecessors": [{"name": "Compositors_alemanys", "id": 76073}, {"name": "Prussians", "id": 472033}], "successors": [{"name": "Compositors_de_Königsberg", "id": 1930018}]}

@@ -1,1 +1,1 @@
-{"name": "Espoon_urheilutapahtumat", "id": 1399989, "predecessors": [{"name": "Suomen_urheilu", "id": 75926}, {"name": "Suomen_urheilutapahtumat", "id": 1073838}, {"name": "Uusimaa", "id": 168780}], "successors": []}
+{"name": "Espoon_urheilutapahtumat", "id": 1399989, "predecessors": [{"name": "Espoon_tapahtumat", "id": 691736}, {"name": "Suomen_urheilu", "id": 75926}, {"name": "Suomen_urheilutapahtumat", "id": 1073838}], "successors": []}

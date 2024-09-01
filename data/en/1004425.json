@@ -1,1 +1,1 @@
-{"name": "Pharmacy", "id": 1004425, "predecessors": [{"name": "Health_care", "id": 35880954}, {"name": "Health_sciences", "id": 964864}], "successors": [{"name": "Routes_of_administration", "id": 24329814}, {"name": "History_of_pharmacy", "id": 54626312}]}
+{"name": "Pharmacy", "id": 1004425, "predecessors": [{"name": "Health_care", "id": 35880954}, {"name": "Health_sciences", "id": 964864}, {"name": "Pharmacology", "id": 717788}], "successors": [{"name": "Routes_of_administration", "id": 24329814}, {"name": "History_of_pharmacy", "id": 54626312}]}

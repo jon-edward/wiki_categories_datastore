@@ -1,1 +1,1 @@
-{"name": "Archaeological_theft", "id": 11236667, "predecessors": [{"name": "Archaeological_artifacts", "id": 35516506}, {"name": "Art_and_cultural_repatriation", "id": 4348181}, {"name": "Art_crime", "id": 3633546}, {"name": "Looting", "id": 33788975}], "successors": []}
+{"name": "Archaeological_theft", "id": 11236667, "predecessors": [{"name": "Archaeological_artifacts", "id": 35516506}, {"name": "Art_and_cultural_repatriation", "id": 4348181}, {"name": "Art_crime", "id": 3633546}], "successors": []}

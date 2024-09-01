@@ -1,1 +1,1 @@
-{"name": "Glycopeptide_antibiotics", "id": 695372, "predecessors": [{"name": "Chemical_compounds", "id": 695235}], "successors": []}
+{"name": "Glycopeptide_antibiotics", "id": 695372, "predecessors": [{"name": "Antibiotics", "id": 695084}, {"name": "Chemical_compounds", "id": 695235}, {"name": "Carbohydrate_chemistry", "id": 22441793}], "successors": []}

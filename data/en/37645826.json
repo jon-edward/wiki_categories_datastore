@@ -1,1 +1,1 @@
-{"name": "Relationship_education", "id": 37645826, "predecessors": [{"name": "Counseling", "id": 13139517}, {"name": "Family_therapy", "id": 16077462}, {"name": "Interpersonal_relationships", "id": 1055603}], "successors": []}
+{"name": "Relationship_education", "id": 37645826, "predecessors": [{"name": "Family_therapy", "id": 16077462}, {"name": "Interpersonal_relationships", "id": 1055603}], "successors": []}

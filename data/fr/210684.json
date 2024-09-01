@@ -1,1 +1,0 @@
-{"name": "Exploitation_ferroviaire", "id": 210684, "predecessors": [{"name": "Chemin_de_fer", "id": 84762}, {"name": "Transport", "id": 82492}], "successors": [{"name": "Gare", "id": 121999}, {"name": "Sécurité_ferroviaire", "id": 1141772}, {"name": "Train_de_nuit", "id": 3997726}]}

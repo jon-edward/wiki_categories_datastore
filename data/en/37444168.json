@@ -1,1 +1,1 @@
-{"name": "Batteries_in_Gibraltar", "id": 37444168, "predecessors": [{"name": "Artillery_battery_fortifications", "id": 77295124}, {"name": "Coastal_fortifications", "id": 28963750}], "successors": []}
+{"name": "Artillery_battery_fortifications_in_Gibraltar", "id": 37444168, "predecessors": [{"name": "Artillery_battery_fortifications", "id": 77295124}, {"name": "Coastal_fortifications", "id": 28963750}], "successors": []}

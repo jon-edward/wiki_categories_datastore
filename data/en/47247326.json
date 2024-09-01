@@ -1,1 +1,1 @@
-{"name": "Plant_milk", "id": 47247326, "predecessors": [{"name": "Milk_substitutes", "id": 1000292}, {"name": "Animal_products", "id": 2304680}], "successors": []}
+{"name": "Plant_milk", "id": 47247326, "predecessors": [{"name": "Milk_substitutes", "id": 1000292}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Agriculture_ministries", "id": 9612751, "predecessors": [{"name": "Agrarian_politics", "id": 6746129}], "successors": [{"name": "Agriculture_and_Agri-Food_Canada", "id": 37422487}, {"name": "Irrigation_ministries", "id": 42989859}]}
+{"name": "Ministries_of_agriculture", "id": 9612751, "predecessors": [{"name": "Agrarian_politics", "id": 6746129}], "successors": [{"name": "Agriculture_and_Agri-Food_Canada", "id": 37422487}, {"name": "Irrigation_ministries", "id": 42989859}]}

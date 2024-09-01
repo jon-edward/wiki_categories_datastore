@@ -1,1 +1,1 @@
-{"name": "Landscape_and_garden_designers", "id": 27137084, "predecessors": [{"name": "Artisans", "id": 742819}, {"name": "Garden_design", "id": 70003355}], "successors": [{"name": "Landscape_architects", "id": 2738572}]}
+{"name": "Landscape_and_garden_designers", "id": 27137084, "predecessors": [{"name": "Garden_design", "id": 70003355}, {"name": "Artisans", "id": 742819}], "successors": [{"name": "Landscape_architects", "id": 2738572}]}

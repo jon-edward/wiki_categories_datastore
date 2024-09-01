@@ -1,1 +1,1 @@
-{"name": "Nuclear_spacecraft_propulsion", "id": 1353261, "predecessors": [{"name": "Nuclear_power_in_space", "id": 20392841}, {"name": "Nuclear_propulsion", "id": 3099673}, {"name": "Spacecraft_propulsion", "id": 691707}], "successors": []}
+{"name": "Nuclear_spacecraft_propulsion", "id": 1353261, "predecessors": [{"name": "Nuclear_power_in_space", "id": 20392841}, {"name": "Spacecraft_propulsion", "id": 691707}, {"name": "Nuclear_technology", "id": 888845}], "successors": []}

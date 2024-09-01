@@ -1,1 +1,1 @@
-{"name": "Rice_drinks", "id": 1497995, "predecessors": [{"name": "Rice_dishes", "id": 873106}, {"name": "Rice_products", "id": 69026932}], "successors": []}
+{"name": "Rice_drinks", "id": 1497995, "predecessors": [{"name": "Rice_dishes", "id": 873106}, {"name": "Rice_products", "id": 69026932}], "successors": [{"name": "Rice_wine", "id": 9397128}]}

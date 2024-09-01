@@ -1,1 +1,1 @@
-{"name": "Gustatory_system", "id": 749758, "predecessors": [{"name": "Gustation", "id": 1061134}, {"name": "Mouth", "id": 1404138}], "successors": []}
+{"name": "Gustatory_system", "id": 749758, "predecessors": [{"name": "Gustation", "id": 1061134}, {"name": "Mouth", "id": 1404138}], "successors": [{"name": "Human_taste_receptors", "id": 63899227}]}

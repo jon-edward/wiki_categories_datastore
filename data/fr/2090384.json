@@ -1,1 +1,0 @@
-{"name": "Traducteur_vers_le_russe", "id": 2090384, "predecessors": [{"name": "Langue_russe", "id": 129703}, {"name": "Langue", "id": 96495}], "successors": [{"name": "Traducteur_depuis_le_français_vers_le_russe", "id": 6157498}, {"name": "Traducteur_depuis_l'anglais_vers_le_russe", "id": 9716656}, {"name": "Traducteur_depuis_l'allemand_vers_le_russe", "id": 9888311}]}

@@ -1,1 +1,1 @@
-{"name": "Noise_rock_musicians", "id": 50186965, "predecessors": [{"name": "Noise_musicians", "id": 4499303}, {"name": "Experimental_music_genres", "id": 24958703}], "successors": []}
+{"name": "Noise_rock_musicians", "id": 50186965, "predecessors": [{"name": "Noise_musicians", "id": 4499303}, {"name": "Rock_music_genres", "id": 1752280}], "successors": [{"name": "Noise_rock_groups", "id": 8094184}]}

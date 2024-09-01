@@ -1,1 +1,1 @@
-{"name": "Pikaruoka", "id": 218204, "predecessors": [{"name": "Ruokalajit", "id": 37404}], "successors": [{"name": "Pikaruokalat", "id": 23299}]}
+{"name": "Pikaruoka", "id": 218204, "predecessors": [{"name": "Ruokalajit", "id": 37404}, {"name": "Ihmisen_toiminta", "id": 826193}], "successors": [{"name": "Pikaruokalat", "id": 23299}]}

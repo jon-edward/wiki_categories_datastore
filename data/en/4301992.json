@@ -1,1 +1,1 @@
-{"name": "Anomalous_weather", "id": 4301992, "predecessors": [{"name": "Unexplained_phenomena", "id": 62821730}, {"name": "Meteorological_phenomena", "id": 38779805}], "successors": []}
+{"name": "Anomalous_weather", "id": 4301992, "predecessors": [{"name": "Unexplained_phenomena", "id": 62821730}, {"name": "Observational_astronomy", "id": 2776354}], "successors": []}

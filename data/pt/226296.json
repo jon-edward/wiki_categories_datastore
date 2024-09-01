@@ -1,1 +1,0 @@
-{"name": "Hidráulica", "id": 226296, "predecessors": [{"name": "Hidrologia", "id": 64661}, {"name": "Mecânica_de_fluidos", "id": 115004}], "successors": [{"name": "Engenharia_hidráulica", "id": 795945}, {"name": "Vasos_de_pressão", "id": 1967458}, {"name": "Turbinas_hidráulicas", "id": 2064689}, {"name": "Válvulas", "id": 2433268}, {"name": "Vasos_sanitários", "id": 7064508}]}

@@ -1,1 +1,1 @@
-{"name": "Zoos_in_Japan", "id": 6096674, "predecessors": [{"name": "Gardens_in_Japan", "id": 1173292}, {"name": "Japanese_popular_culture", "id": 35371982}], "successors": [{"name": "Aquaria_in_Japan", "id": 4787115}]}
+{"name": "Zoos_in_Japan", "id": 6096674, "predecessors": [{"name": "Gardens_in_Japan", "id": 1173292}, {"name": "Zoos", "id": 700581}, {"name": "Japanese_popular_culture", "id": 35371982}], "successors": [{"name": "Aquaria_in_Japan", "id": 4787115}]}

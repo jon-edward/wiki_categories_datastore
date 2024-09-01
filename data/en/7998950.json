@@ -1,1 +1,1 @@
-{"name": "Hazzans", "id": 7998950, "predecessors": [{"name": "Jewish_services", "id": 12112908}, {"name": "Religious_music", "id": 696379}, {"name": "Jewish_religious_occupations", "id": 8267476}], "successors": [{"name": "Women_hazzans", "id": 39179903}]}
+{"name": "Hazzans", "id": 7998950, "predecessors": [{"name": "Cantors", "id": 60251744}, {"name": "Jewish_services", "id": 12112908}, {"name": "Religious_music", "id": 696379}, {"name": "Jewish_religious_occupations", "id": 8267476}], "successors": [{"name": "Women_hazzans", "id": 39179903}]}

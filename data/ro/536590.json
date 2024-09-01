@@ -1,1 +1,1 @@
-{"name": "Sănătate_publică", "id": 536590, "predecessors": [{"name": "Specialități_medicale", "id": 760126}, {"name": "Sănătate", "id": 40157}], "successors": [{"name": "Asigurări_de_sănătate", "id": 1565141}]}
+{"name": "Sănătate_publică", "id": 536590, "predecessors": [{"name": "Servicii_publice", "id": 230334}, {"name": "Specialități_medicale", "id": 760126}, {"name": "Sănătate", "id": 40157}], "successors": [{"name": "Asigurări_de_sănătate", "id": 1565141}]}

@@ -1,1 +1,1 @@
-{"name": "Sisteme_fizice", "id": 886064, "predecessors": [{"name": "Natură", "id": 24640}, {"name": "Materie", "id": 116477}], "successors": [{"name": "Infrastructură", "id": 110168}, {"name": "Sisteme_dinamice", "id": 433095}, {"name": "Mașini", "id": 753896}]}
+{"name": "Sisteme_fizice", "id": 886064, "predecessors": [{"name": "Natură", "id": 24640}, {"name": "Materie", "id": 116477}], "successors": [{"name": "Infrastructură", "id": 110168}, {"name": "Sisteme_dinamice", "id": 433095}]}

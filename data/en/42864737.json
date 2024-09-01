@@ -1,1 +1,1 @@
-{"name": "Legendary_ghost_ships", "id": 42864737, "predecessors": [{"name": "Vehicles_by_type", "id": 25508719}], "successors": [{"name": "Flying_Dutchman", "id": 68864592}]}
+{"name": "Legendary_ghost_ships", "id": 42864737, "predecessors": [{"name": "Ghost_ships", "id": 10722280}, {"name": "Vehicles_by_type", "id": 25508719}], "successors": [{"name": "Flying_Dutchman", "id": 68864592}]}

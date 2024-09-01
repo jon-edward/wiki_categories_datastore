@@ -1,1 +1,0 @@
-{"name": "IP-Adressierung", "id": 6743711, "predecessors": [{"name": "Internet_Protocol", "id": 6743802}, {"name": "Netzwerkarchitektur", "id": 586969}], "successors": [{"name": "IPv6-Übergangsmechanismus", "id": 7215581}, {"name": "Netzwerkadressübersetzung", "id": 12695509}, {"name": "Dynamic_Host_Configuration_Protocol", "id": 12750536}]}

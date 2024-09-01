@@ -1,1 +1,1 @@
-{"name": "Discrimination_based_on_skin_tone", "id": 53660103, "predecessors": [{"name": "Human_skin_color", "id": 31048557}], "successors": []}
+{"name": "Discrimination_based_on_skin_tone", "id": 53660103, "predecessors": [{"name": "Discrimination_by_type", "id": 67644433}, {"name": "Human_skin_color", "id": 31048557}, {"name": "Racism", "id": 1289704}], "successors": []}

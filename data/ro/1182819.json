@@ -1,1 +1,1 @@
-{"name": "Futsal", "id": 1182819, "predecessors": [{"name": "Fotbal", "id": 19808}, {"name": "Sporturi_de_echipă", "id": 61797}], "successors": []}
+{"name": "Futsal", "id": 1182819, "predecessors": [{"name": "Fotbal", "id": 19808}, {"name": "Sport", "id": 16061}], "successors": []}

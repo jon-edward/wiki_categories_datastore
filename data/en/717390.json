@@ -1,1 +1,1 @@
-{"name": "Igneous_rocks", "id": 717390, "predecessors": [{"name": "Rocks", "id": 2629756}, {"name": "Volcanism", "id": 22850864}], "successors": [{"name": "Ophiolites", "id": 54305679}, {"name": "Igneous_intrusions", "id": 64787595}]}
+{"name": "Igneous_rocks", "id": 717390, "predecessors": [{"name": "Rocks", "id": 2629756}], "successors": []}

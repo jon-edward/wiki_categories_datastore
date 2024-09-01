@@ -1,1 +1,1 @@
-{"name": "Teen_musical_films", "id": 39222389, "predecessors": [{"name": "Musicals", "id": 1028878}], "successors": [{"name": "American_teen_musical_films", "id": 39222386}]}
+{"name": "Teen_musical_films", "id": 39222389, "predecessors": [{"name": "Musicals", "id": 1028878}, {"name": "Teen_fiction", "id": 29665443}], "successors": [{"name": "American_teen_musical_films", "id": 39222386}]}

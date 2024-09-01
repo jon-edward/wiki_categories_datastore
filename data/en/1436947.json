@@ -1,1 +1,1 @@
-{"name": "Military_doctrines", "id": 1436947, "predecessors": [{"name": "Warfare", "id": 49504783}], "successors": []}
+{"name": "Military_doctrines", "id": 1436947, "predecessors": [{"name": "Military_science", "id": 1437392}, {"name": "Warfare", "id": 49504783}], "successors": [{"name": "Military_theory", "id": 14872290}]}

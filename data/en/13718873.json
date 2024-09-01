@@ -1,1 +1,1 @@
-{"name": "Fitness_games", "id": 13718873, "predecessors": [{"name": "Physical_exercise", "id": 34955640}, {"name": "Sports_video_games", "id": 9716925}], "successors": [{"name": "Just_Dance_(video_game_series)", "id": 43327159}]}
+{"name": "Fitness_games", "id": 13718873, "predecessors": [{"name": "Fitness_apps", "id": 62074787}, {"name": "Physical_exercise", "id": 34955640}, {"name": "Sports_video_games", "id": 9716925}, {"name": "Health_software", "id": 3964070}], "successors": [{"name": "Just_Dance_(video_game_series)", "id": 43327159}]}

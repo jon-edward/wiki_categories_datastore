@@ -1,1 +1,1 @@
-{"name": "Polisakaridoak", "id": 35701, "predecessors": [{"name": "Biokimika", "id": 9744}, {"name": "Erregaiak", "id": 14614}], "successors": [{"name": "Zelulosa", "id": 104825}]}
+{"name": "Polisakaridoak", "id": 35701, "predecessors": [{"name": "Karbono_hidratoak", "id": 55317}, {"name": "Erregaiak", "id": 14614}], "successors": [{"name": "Zelulosa", "id": 104825}]}

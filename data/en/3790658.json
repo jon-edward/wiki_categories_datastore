@@ -1,1 +1,1 @@
-{"name": "Fruit_wines", "id": 3790658, "predecessors": [{"name": "Fruit_drinks", "id": 51230032}], "successors": []}
+{"name": "Fruit_wines", "id": 3790658, "predecessors": [{"name": "Fruit_drinks", "id": 51230032}, {"name": "Wine_styles", "id": 3783480}], "successors": []}

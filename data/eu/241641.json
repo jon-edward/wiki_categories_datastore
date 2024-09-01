@@ -1,1 +1,1 @@
-{"name": "Alemaniako_automobil_enpresak", "id": 241641, "predecessors": [{"name": "Alemaniako_enpresak", "id": 41704}, {"name": "Ibilgailuak", "id": 89568}], "successors": [{"name": "Volkswagen", "id": 118075}, {"name": "BMWren_modeloak", "id": 300624}]}
+{"name": "Alemaniako_automobil_enpresak", "id": 241641, "predecessors": [{"name": "Alemaniako_enpresak", "id": 41704}, {"name": "Ibilgailuak", "id": 89568}], "successors": [{"name": "Volkswagen", "id": 118075}, {"name": "BMWren_modeloak", "id": 300624}, {"name": "Mercedes-Benzen_modeloak", "id": 143000}]}

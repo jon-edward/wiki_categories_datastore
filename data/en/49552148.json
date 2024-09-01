@@ -1,1 +1,1 @@
-{"name": "Diplomatic_gifts", "id": 49552148, "predecessors": [{"name": "Giving", "id": 3345816}], "successors": [{"name": "Apollo_program_lunar_sample_displays", "id": 41030398}, {"name": "Animals_as_diplomatic_gifts", "id": 49552107}]}
+{"name": "Diplomatic_gifts", "id": 49552148, "predecessors": [{"name": "Giving", "id": 3345816}, {"name": "Types_of_diplomacy", "id": 21212983}], "successors": [{"name": "Apollo_program_lunar_sample_displays", "id": 41030398}, {"name": "Animals_as_diplomatic_gifts", "id": 49552107}]}

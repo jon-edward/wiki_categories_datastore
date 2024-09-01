@@ -1,1 +1,0 @@
-{"name": "Fahrerloser_Transport", "id": 1106620, "predecessors": [{"name": "Güterverkehr", "id": 347950}, {"name": "Kraftfahrzeugtechnik", "id": 437134}, {"name": "Transport", "id": 9613581}, {"name": "Verkehrstechnik", "id": 369790}], "successors": [{"name": "Fahrerloses_Transportfahrzeug", "id": 12955707}]}

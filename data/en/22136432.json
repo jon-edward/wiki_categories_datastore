@@ -1,1 +1,1 @@
-{"name": "Communications_satellites_in_geosynchronous_orbit", "id": 22136432, "predecessors": [{"name": "Communications_satellites", "id": 885916}, {"name": "Satellites_in_geosynchronous_orbit", "id": 22208643}], "successors": [{"name": "Communications_satellites_in_geostationary_orbit", "id": 22127851}]}
+{"name": "Communications_satellites_in_geosynchronous_orbit", "id": 22136432, "predecessors": [{"name": "Communications_satellites", "id": 885916}], "successors": []}

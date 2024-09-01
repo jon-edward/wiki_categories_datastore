@@ -1,1 +1,1 @@
-{"name": "Nunavutin_saaret", "id": 695324, "predecessors": [{"name": "Nunavutin_maantiede", "id": 865139}, {"name": "Maantiede", "id": 20136}], "successors": [{"name": "Baffininsaari", "id": 1476498}]}
+{"name": "Nunavutin_saaret", "id": 695324, "predecessors": [{"name": "Nunavutin_maantiede", "id": 865139}, {"name": "Kanadan_maantiede", "id": 109743}], "successors": [{"name": "Baffininsaari", "id": 1476498}]}

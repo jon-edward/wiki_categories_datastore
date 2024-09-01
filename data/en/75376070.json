@@ -1,1 +1,1 @@
-{"name": "Metabolic_intermediates", "id": 75376070, "predecessors": [{"name": "Biomolecules", "id": 11662086}], "successors": []}
+{"name": "Metabolic_intermediates", "id": 75376070, "predecessors": [{"name": "Biomolecules", "id": 11662086}, {"name": "Metabolism", "id": 1135134}], "successors": []}

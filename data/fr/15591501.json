@@ -1,1 +1,0 @@
-{"name": "Explosion_de_gaz", "id": 15591501, "predecessors": [{"name": "Gaz_combustible", "id": 5708456}, {"name": "Gaz_naturel", "id": 4224171}, {"name": "Incendie_et_explosion_d'origine_industrielle", "id": 14526632}, {"name": "Pompier", "id": 236064}, {"name": "Sécurité_civile", "id": 9479662}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Growth_factors", "id": 1245061, "predecessors": [{"name": "World_Anti-Doping_Agency_prohibited_substances", "id": 51355853}, {"name": "Proteins", "id": 717889}], "successors": []}
+{"name": "Growth_factors", "id": 1245061, "predecessors": [{"name": "Signal_transduction", "id": 754106}, {"name": "World_Anti-Doping_Agency_prohibited_substances", "id": 51355853}, {"name": "Proteins", "id": 717889}], "successors": [{"name": "Neurotrophic_factors", "id": 4225270}, {"name": "Bone_morphogenetic_protein", "id": 5663383}]}

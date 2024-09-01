@@ -1,1 +1,0 @@
-{"name": "Holzverarbeitung", "id": 1473346, "predecessors": [{"name": "Handwerk", "id": 279599}, {"name": "Holz", "id": 491587}], "successors": [{"name": "Holzbau", "id": 1112694}, {"name": "Tischler", "id": 8053661}, {"name": "Möbelbau", "id": 8880267}, {"name": "Holzverbindungstechnik", "id": 9890648}]}

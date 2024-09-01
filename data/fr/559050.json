@@ -1,1 +1,0 @@
-{"name": "Barrage_en_remblai", "id": 559050, "predecessors": [{"name": "Application_géotechnique", "id": 3932543}, {"name": "Barrage", "id": 117455}], "successors": [{"name": "Barrage_en_enrochement", "id": 559118}, {"name": "Rupture_de_retenue_de_résidus_miniers", "id": 15566789}]}

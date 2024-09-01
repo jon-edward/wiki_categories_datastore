@@ -1,1 +1,1 @@
-{"name": "Days_of_the_year", "id": 20537176, "predecessors": [{"name": "Calendars", "id": 698466}], "successors": []}
+{"name": "Days_of_the_year", "id": 20537176, "predecessors": [{"name": "Calendars", "id": 698466}], "successors": [{"name": "Days_of_March", "id": 77728752}, {"name": "Days_of_February", "id": 77728892}]}

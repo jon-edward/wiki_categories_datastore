@@ -1,1 +1,1 @@
-{"name": "Wine_packaging_and_storage", "id": 3782338, "predecessors": [{"name": "Food_storage_containers", "id": 24926754}, {"name": "Packaging", "id": 1948437}], "successors": [{"name": "Amphorae", "id": 56078682}]}
+{"name": "Wine_packaging_and_storage", "id": 3782338, "predecessors": [{"name": "Food_storage_containers", "id": 24926754}, {"name": "Packaging", "id": 1948437}, {"name": "Wine", "id": 1635343}], "successors": [{"name": "Amphorae", "id": 56078682}]}

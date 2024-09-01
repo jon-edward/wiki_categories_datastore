@@ -1,1 +1,1 @@
-{"name": "Organe_de_mașini", "id": 758819, "predecessors": [{"name": "Mașini", "id": 753896}, {"name": "Mecanică", "id": 32174}, {"name": "Tehnologie", "id": 28690}], "successors": []}
+{"name": "Organe_de_mașini", "id": 758819, "predecessors": [{"name": "Mecanică", "id": 32174}, {"name": "Tehnologie", "id": 28690}, {"name": "Materie", "id": 116477}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Lipoproteins", "id": 1248563, "predecessors": [{"name": "Lipid_metabolism", "id": 77632001}, {"name": "Protein_structure", "id": 740536}, {"name": "Lipids", "id": 713771}], "successors": []}
+{"name": "Lipoproteins", "id": 1248563, "predecessors": [{"name": "Lipid_metabolism", "id": 77632001}, {"name": "Protein_structure", "id": 740536}, {"name": "Biochemistry", "id": 695996}], "successors": []}

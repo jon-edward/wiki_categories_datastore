@@ -1,1 +1,0 @@
-{"name": "Virtualisierung", "id": 707463, "predecessors": [{"name": "Parallelverarbeitung", "id": 551236}], "successors": [{"name": "Emulator", "id": 268049}, {"name": "Laufzeitumgebung", "id": 2754051}, {"name": "Freie_Virtualisierungssoftware", "id": 4969914}, {"name": "Virtuelle_Maschine", "id": 8171114}]}

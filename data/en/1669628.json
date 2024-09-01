@@ -1,1 +1,1 @@
-{"name": "Viticulture", "id": 1669628, "predecessors": [{"name": "Fruit_production", "id": 44480820}, {"name": "Grape", "id": 40895655}], "successors": [{"name": "Grape_varieties", "id": 877524}, {"name": "Vineyards", "id": 54766314}]}
+{"name": "Viticulture", "id": 1669628, "predecessors": [{"name": "Fruit_production", "id": 44480820}, {"name": "Grape", "id": 40895655}, {"name": "Wine", "id": 1635343}], "successors": [{"name": "Grape_varieties", "id": 877524}, {"name": "Vineyards", "id": 54766314}]}

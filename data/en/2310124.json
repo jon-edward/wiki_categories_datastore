@@ -1,1 +1,1 @@
-{"name": "Rowing_venues", "id": 2310124, "predecessors": [{"name": "Rowing", "id": 698278}], "successors": []}
+{"name": "Rowing_venues", "id": 2310124, "predecessors": [{"name": "Rowing", "id": 698278}], "successors": [{"name": "Olympic_rowing_venues", "id": 31142683}]}

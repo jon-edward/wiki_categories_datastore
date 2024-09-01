@@ -1,1 +1,1 @@
-{"name": "Explosive_chemicals", "id": 874702, "predecessors": [{"name": "Chemical_safety", "id": 4062420}, {"name": "Chemical_substances", "id": 1308633}, {"name": "Explosives", "id": 726215}], "successors": []}
+{"name": "Explosive_chemicals", "id": 874702, "predecessors": [{"name": "Chemical_safety", "id": 4062420}, {"name": "Chemical_substances", "id": 1308633}, {"name": "Explosives", "id": 726215}], "successors": [{"name": "Azides", "id": 2011129}, {"name": "Trinitrotoluene", "id": 76161601}]}

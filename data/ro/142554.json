@@ -1,1 +1,1 @@
-{"name": "Turbine_cu_gaze", "id": 142554, "predecessors": [{"name": "Mașini_termice", "id": 753900}, {"name": "Motoare_cu_reacție", "id": 754190}, {"name": "Tehnologii_de_gaze", "id": 995947}], "successors": []}
+{"name": "Turbine_cu_gaze", "id": 142554, "predecessors": [{"name": "Mașini_termice", "id": 753900}, {"name": "Motoare_cu_reacție", "id": 754190}], "successors": []}

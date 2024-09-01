@@ -1,1 +1,1 @@
-{"name": "Negara_pulau", "id": 161566, "predecessors": [{"name": "Negara", "id": 28733}, {"name": "Pulau", "id": 24220}], "successors": [{"name": "Jepun", "id": 8521}, {"name": "Singapura", "id": 8576}, {"name": "Brunei", "id": 24964}, {"name": "Filipina", "id": 34464}]}
+{"name": "Negara_pulau", "id": 161566, "predecessors": [{"name": "Negara", "id": 28733}, {"name": "Pulau", "id": 24220}], "successors": [{"name": "Jepun", "id": 8521}, {"name": "Singapura", "id": 8576}, {"name": "Brunei", "id": 24964}, {"name": "Filipina", "id": 34464}, {"name": "Iceland", "id": 76569}]}

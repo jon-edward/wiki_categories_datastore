@@ -1,1 +1,1 @@
-{"name": "Military_medicine", "id": 1046649, "predecessors": [{"name": "Health", "id": 751381}], "successors": [{"name": "Triage", "id": 16822652}, {"name": "Psychoactive_drugs_and_the_military", "id": 53780771}]}
+{"name": "Military_medicine", "id": 1046649, "predecessors": [{"name": "Military_science", "id": 1437392}, {"name": "Health", "id": 751381}], "successors": [{"name": "Military_medical_organizations", "id": 9433959}, {"name": "Triage", "id": 16822652}, {"name": "Psychoactive_drugs_and_the_military", "id": 53780771}]}

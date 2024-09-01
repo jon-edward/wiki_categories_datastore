@@ -1,1 +1,1 @@
-{"name": "Leukemia", "id": 20566458, "predecessors": [{"name": "Cancer", "id": 999635}], "successors": [{"name": "Deaths_from_leukemia", "id": 18669509}, {"name": "Lymphocytic_leukemia", "id": 32530915}, {"name": "Acute_myeloid_leukemia", "id": 43837243}, {"name": "Deaths_from_acute_leukemia", "id": 72244262}, {"name": "Chronic_myeloid_leukemia", "id": 43837518}]}
+{"name": "Leukemia", "id": 20566458, "predecessors": [{"name": "Types_of_cancer", "id": 2332168}], "successors": [{"name": "Deaths_from_leukemia", "id": 18669509}, {"name": "Lymphocytic_leukemia", "id": 32530915}]}

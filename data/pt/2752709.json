@@ -1,1 +1,0 @@
-{"name": "Linguagens_de_script", "id": 2752709, "predecessors": [{"name": "Linguagens_de_domínio_específico", "id": 3769767}, {"name": "Linguagens_interpretadas", "id": 955256}, {"name": "Tópicos_em_linguagens_de_programação", "id": 3063150}], "successors": [{"name": "JavaScript", "id": 440931}, {"name": "PHP", "id": 1647816}, {"name": "Mecanismos_de_template", "id": 4100849}]}

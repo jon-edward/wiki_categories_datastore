@@ -1,1 +1,1 @@
-{"name": "Lightning", "id": 12425718, "predecessors": [{"name": "Atmospheric_electricity", "id": 4176104}, {"name": "Electrical_phenomena", "id": 2007926}, {"name": "Storm", "id": 22856031}, {"name": "Weather_hazards", "id": 2638252}], "successors": []}
+{"name": "Lightning", "id": 12425718, "predecessors": [{"name": "Electrical_phenomena", "id": 2007926}, {"name": "Storm", "id": 22856031}, {"name": "Weather_hazards", "id": 2638252}], "successors": []}

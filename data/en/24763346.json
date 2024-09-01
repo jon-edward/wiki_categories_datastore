@@ -1,1 +1,1 @@
-{"name": "School_dances", "id": 24763346, "predecessors": [{"name": "Dance_culture", "id": 4236708}, {"name": "Dance_events", "id": 42532987}, {"name": "Student_culture", "id": 698268}, {"name": "Youth_events", "id": 42790262}], "successors": [{"name": "Prom", "id": 51247865}]}
+{"name": "School_dances", "id": 24763346, "predecessors": [{"name": "Dance_culture", "id": 4236708}, {"name": "Dance_events", "id": 42532987}], "successors": [{"name": "Prom", "id": 51247865}]}

@@ -1,1 +1,1 @@
-{"name": "Health_websites", "id": 3263991, "predecessors": [{"name": "Health_informatics", "id": 3031321}], "successors": []}
+{"name": "Health_websites", "id": 3263991, "predecessors": [{"name": "Health_informatics", "id": 3031321}], "successors": [{"name": "Medical_websites", "id": 8048889}, {"name": "American_health_websites", "id": 62114940}]}

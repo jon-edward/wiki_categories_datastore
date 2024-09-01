@@ -1,1 +1,0 @@
-{"name": "Aqueduc", "id": 1207268, "predecessors": [{"name": "Canalisation", "id": 8093020}, {"name": "Ouvrage_lié_à_l'eau", "id": 2782652}], "successors": [{"name": "Aqueduc_souterrain", "id": 1669967}, {"name": "Aqueduc_romain", "id": 3186925}, {"name": "Canal_d'irrigation", "id": 3837606}, {"name": "Pont-aqueduc", "id": 3880180}]}

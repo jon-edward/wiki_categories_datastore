@@ -1,1 +1,0 @@
-{"name": "Thermochimie", "id": 177138, "predecessors": [{"name": "Chimie_physique", "id": 501275}, {"name": "Thermodynamique", "id": 95525}], "successors": [{"name": "Grandeur_en_thermochimie", "id": 5426897}, {"name": "Thermodynamique_chimique", "id": 5701188}, {"name": "Chimie_des_équilibres", "id": 8149065}]}

@@ -1,1 +1,1 @@
-{"name": "Deaths_by_dehydration", "id": 50692911, "predecessors": [{"name": "Body_water", "id": 33981033}], "successors": []}
+{"name": "Deaths_by_dehydration", "id": 50692911, "predecessors": [{"name": "Body_water", "id": 33981033}], "successors": [{"name": "Suicides_by_starvation", "id": 23968256}]}

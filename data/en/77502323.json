@@ -1,1 +1,1 @@
-{"name": "Human_viruses", "id": 77502323, "predecessors": [{"name": "Animal_viruses", "id": 77502375}, {"name": "Human_diseases_and_disorders", "id": 48701151}], "successors": [{"name": "SARS-CoV-2", "id": 66148304}]}
+{"name": "Human_viruses", "id": 77502323, "predecessors": [{"name": "Animal_viruses", "id": 77502375}], "successors": [{"name": "SARS-CoV-2", "id": 66148304}]}

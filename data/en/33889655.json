@@ -1,1 +1,1 @@
-{"name": "Foreign_Military_Sales", "id": 33889655, "predecessors": [{"name": "Weapons_trade", "id": 20928462}], "successors": [{"name": "United_States_Coast_Guard_ships_transferred_to_the_Republic_of_Vietnam_Navy", "id": 28671806}]}
+{"name": "Foreign_Military_Sales", "id": 33889655, "predecessors": [{"name": "Military_diplomacy", "id": 4649694}, {"name": "Weapons_trade", "id": 20928462}], "successors": []}

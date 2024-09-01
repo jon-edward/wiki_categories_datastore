@@ -1,1 +1,0 @@
-{"name": "Gestionnaire_de_mots_de_passe", "id": 7910228, "predecessors": [{"name": "Authentification", "id": 1190503}, {"name": "Cryptologie", "id": 83972}, {"name": "Gestionnaire_d'informations_personnelles", "id": 373596}, {"name": "Logiciel_de_sécurité_informatique", "id": 176986}, {"name": "Logiciel_utilitaire", "id": 3978099}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Government_paramilitary_forces", "id": 26357291, "predecessors": [{"name": "Paramilitary_organizations", "id": 1920085}], "successors": [{"name": "Non-military_counterinsurgency_organizations", "id": 57496716}]}
+{"name": "Government_paramilitary_forces", "id": 26357291, "predecessors": [{"name": "National_security", "id": 1962476}, {"name": "Paramilitary_organizations", "id": 1920085}], "successors": [{"name": "Non-military_counterinsurgency_organizations", "id": 57496716}]}

@@ -1,1 +1,1 @@
-{"name": "Serotonin", "id": 24632319, "predecessors": [{"name": "Biogenic_amines", "id": 4488332}, {"name": "Neurotransmitters", "id": 717823}], "successors": []}
+{"name": "Serotonin", "id": 24632319, "predecessors": [{"name": "Biogenic_amines", "id": 4488332}, {"name": "Neurotransmitters", "id": 717823}], "successors": [{"name": "Serotonin_receptors", "id": 53679227}]}

@@ -1,1 +1,0 @@
-{"name": "Anesthesia", "id": 718239, "predecessors": [{"name": "Pain", "id": 1061105}], "successors": [{"name": "Anesthetic_equipment", "id": 799930}, {"name": "Airway_management", "id": 50013617}]}

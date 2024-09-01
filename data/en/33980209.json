@@ -1,1 +1,1 @@
-{"name": "Sailing_ship_components", "id": 33980209, "predecessors": [{"name": "Sailing_ships", "id": 920129}, {"name": "Sailing_equipment", "id": 17793973}], "successors": []}
+{"name": "Sailing_ship_components", "id": 33980209, "predecessors": [{"name": "Sailing_ships", "id": 920129}, {"name": "Watercraft_components", "id": 37739639}], "successors": []}

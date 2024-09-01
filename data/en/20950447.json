@@ -1,1 +1,1 @@
-{"name": "World_War_I_prisoners_of_war_held_by_Germany", "id": 20950447, "predecessors": [{"name": "German_Empire_in_World_War_I", "id": 30501454}], "successors": [{"name": "World_War_I_civilian_detainees_held_by_Germany", "id": 37863717}]}
+{"name": "World_War_I_prisoners_of_war_held_by_Germany", "id": 20950447, "predecessors": [{"name": "German_Empire_in_World_War_I", "id": 30501454}, {"name": "World_War_I", "id": 693697}], "successors": [{"name": "World_War_I_civilian_detainees_held_by_Germany", "id": 37863717}]}

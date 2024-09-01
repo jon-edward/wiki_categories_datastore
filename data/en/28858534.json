@@ -1,1 +1,1 @@
-{"name": "Racial_hoaxes", "id": 28858534, "predecessors": [{"name": "Hoaxes", "id": 746414}], "successors": [{"name": "Racial_impostors", "id": 76888569}]}
+{"name": "Racial_hoaxes", "id": 28858534, "predecessors": [{"name": "Hoaxes", "id": 746414}, {"name": "Racism", "id": 1289704}], "successors": [{"name": "Racial_impostors", "id": 76888569}]}

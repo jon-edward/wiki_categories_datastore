@@ -1,1 +1,1 @@
-{"name": "Operations_of_central_banks", "id": 53619810, "predecessors": [{"name": "Banking", "id": 1245386}, {"name": "Central_banks", "id": 706213}], "successors": [{"name": "Monetary_policy", "id": 2062676}, {"name": "Foreign_exchange_reserves", "id": 53154669}]}
+{"name": "Operations_of_central_banks", "id": 53619810, "predecessors": [{"name": "Central_banks", "id": 706213}], "successors": [{"name": "Monetary_policy", "id": 2062676}, {"name": "Foreign_exchange_reserves", "id": 53154669}]}

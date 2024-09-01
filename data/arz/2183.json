@@ -1,1 +1,1 @@
-{"name": "مواد", "id": 2183, "predecessors": [{"name": "تكنولوجيا", "id": 258}], "successors": [{"name": "مواد_فنى", "id": 181016}]}
+{"name": "مواد", "id": 2183, "predecessors": [{"name": "تكنولوجيا", "id": 258}], "successors": [{"name": "علم_مواد", "id": 178303}, {"name": "مواد_فنى", "id": 181016}]}

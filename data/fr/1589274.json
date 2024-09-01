@@ -1,1 +1,0 @@
-{"name": "Logiciel_de_création_de_document", "id": 1589274, "predecessors": [{"name": "Document", "id": 547027}, {"name": "Logiciel_de_bureautique", "id": 1317619}, {"name": "Typographie", "id": 128541}], "successors": [{"name": "Traitement_de_texte", "id": 82553}, {"name": "TeX", "id": 248420}]}

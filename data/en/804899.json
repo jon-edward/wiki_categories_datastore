@@ -1,0 +1,1 @@
+{"name": "Immunology", "id": 804899, "predecessors": [{"name": "Blood_tests", "id": 4262351}], "successors": [{"name": "Inflammations", "id": 2308187}, {"name": "Vaccination", "id": 3898959}, {"name": "Breast_milk", "id": 21381989}, {"name": "Immunologic_tests", "id": 32615646}, {"name": "Insect_immunity", "id": 41090839}, {"name": "Antigens", "id": 47177259}]}

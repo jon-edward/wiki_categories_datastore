@@ -1,1 +1,1 @@
-{"name": "Fog", "id": 6583487, "predecessors": [{"name": "Atmospheric_optical_phenomena", "id": 8107505}, {"name": "Visibility", "id": 7564852}, {"name": "Meteorological_phenomena", "id": 38779805}], "successors": [{"name": "Fictional_characters_with_fog_or_smoke_abilities", "id": 75174991}]}
+{"name": "Fog", "id": 6583487, "predecessors": [{"name": "Atmospheric_optical_phenomena", "id": 8107505}, {"name": "Observational_astronomy", "id": 2776354}], "successors": [{"name": "Fictional_characters_with_fog_or_smoke_abilities", "id": 75174991}]}

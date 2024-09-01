@@ -1,1 +1,0 @@
-{"name": "Billet_de_banque", "id": 964236, "predecessors": [{"name": "Monnaie", "id": 85361}], "successors": [{"name": "Billet_de_banque_en_euros", "id": 5195176}, {"name": "Billet_de_banque_français", "id": 5225242}, {"name": "Billet_de_banque_canadien", "id": 6326563}, {"name": "Billet_de_banque_américain", "id": 6326576}]}

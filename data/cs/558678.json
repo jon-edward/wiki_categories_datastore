@@ -1,1 +1,1 @@
-{"name": "Platební_systémy", "id": 558678, "predecessors": [{"name": "Bankovnictví", "id": 190337}, {"name": "Platby", "id": 559687}, {"name": "Technologie", "id": 6382}], "successors": [{"name": "Mobilní_platební_systémy", "id": 919248}, {"name": "Platební_karty", "id": 1394824}]}
+{"name": "Platební_systémy", "id": 558678, "predecessors": [{"name": "Bankovnictví", "id": 190337}, {"name": "Platby", "id": 559687}, {"name": "Finanční_služby", "id": 1635308}], "successors": [{"name": "Mobilní_platební_systémy", "id": 919248}, {"name": "Platební_karty", "id": 1394824}]}

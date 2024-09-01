@@ -1,1 +1,1 @@
-{"name": "Deaths_by_firearm_in_Ontario", "id": 19354175, "predecessors": [{"name": "Health_in_Ontario", "id": 35370537}, {"name": "Deaths_by_firearm", "id": 5202201}], "successors": [{"name": "Suicides_by_firearm_in_Ontario", "id": 22503558}]}
+{"name": "Deaths_by_firearm_in_Ontario", "id": 19354175, "predecessors": [{"name": "Health_in_Ontario", "id": 35370537}, {"name": "Law_enforcement_in_Canada", "id": 946869}], "successors": [{"name": "Suicides_by_firearm_in_Ontario", "id": 22503558}]}

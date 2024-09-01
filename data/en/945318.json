@@ -1,1 +1,1 @@
-{"name": "Ice_hockey_venues", "id": 945318, "predecessors": [{"name": "Ice_rinks", "id": 49658627}, {"name": "Event_management", "id": 38591267}], "successors": []}
+{"name": "Ice_hockey_venues", "id": 945318, "predecessors": [{"name": "Ice_rinks", "id": 49658627}, {"name": "Event_management", "id": 38591267}], "successors": [{"name": "Olympic_ice_hockey_venues", "id": 22541291}]}

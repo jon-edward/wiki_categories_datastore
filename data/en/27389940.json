@@ -1,1 +1,1 @@
-{"name": "American_nomads", "id": 27389940, "predecessors": [{"name": "Itinerant_living", "id": 10716204}, {"name": "Nomads", "id": 2175991}], "successors": [{"name": "Hoboes", "id": 25764841}]}
+{"name": "American_nomads", "id": 27389940, "predecessors": [{"name": "American_homeless_people", "id": 76922381}, {"name": "Itinerant_living", "id": 10716204}, {"name": "Nomads", "id": 2175991}], "successors": [{"name": "Hoboes", "id": 25764841}]}

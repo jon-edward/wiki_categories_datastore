@@ -1,1 +1,1 @@
-{"name": "NASA_satellites_orbiting_Earth", "id": 50854362, "predecessors": [{"name": "NASA_satellites", "id": 50854353}, {"name": "Satellites_orbiting_Earth", "id": 22104819}], "successors": [{"name": "Hubble_Space_Telescope", "id": 902347}, {"name": "Television_Infrared_Observation_Satellites", "id": 68388385}]}
+{"name": "NASA_satellites_orbiting_Earth", "id": 50854362, "predecessors": [{"name": "NASA_satellites", "id": 50854353}], "successors": [{"name": "Hubble_Space_Telescope", "id": 902347}, {"name": "Television_Infrared_Observation_Satellites", "id": 68388385}]}

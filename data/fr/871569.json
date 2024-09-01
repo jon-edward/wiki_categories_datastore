@@ -1,1 +1,0 @@
-{"name": "Manutention", "id": 871569, "predecessors": [{"name": "Logistique", "id": 441337}, {"name": "Technologie", "id": 84695}], "successors": [{"name": "Matériel_de_manutention", "id": 610752}, {"name": "Manutention_du_vrac", "id": 2769249}]}

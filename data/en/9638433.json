@@ -1,1 +1,1 @@
-{"name": "Electoral_geography", "id": 9638433, "predecessors": [{"name": "Elections", "id": 792537}], "successors": [{"name": "Constituencies", "id": 1982244}, {"name": "Boundary_commissions", "id": 40105068}]}
+{"name": "Electoral_geography", "id": 9638433, "predecessors": [{"name": "Elections", "id": 792537}, {"name": "Political_geography", "id": 1898464}], "successors": [{"name": "Constituencies", "id": 1982244}, {"name": "Boundary_commissions", "id": 40105068}]}

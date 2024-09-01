@@ -1,1 +1,0 @@
-{"name": "Gevechtsvliegtuig", "id": 69776, "predecessors": [{"name": "Militair_luchtvaartuig", "id": 592986}, {"name": "Vliegtuig", "id": 65847}, {"name": "Wapen", "id": 64696}], "successors": [{"name": "Bommenwerper", "id": 179298}, {"name": "Jachtvliegtuig", "id": 482365}, {"name": "Gevechtshelikopter", "id": 633875}, {"name": "Verkenningsvliegtuig", "id": 1492639}]}

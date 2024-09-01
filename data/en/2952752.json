@@ -1,1 +1,1 @@
-{"name": "Laundry_detergents", "id": 2952752, "predecessors": [{"name": "Powders", "id": 67391562}], "successors": []}
+{"name": "Laundry_detergents", "id": 2952752, "predecessors": [{"name": "Detergents", "id": 53514838}, {"name": "Powders", "id": 67391562}], "successors": []}

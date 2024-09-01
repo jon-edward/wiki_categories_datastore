@@ -1,1 +1,1 @@
-{"name": "Cirkoj", "id": 339305, "predecessors": [{"name": "Artoj", "id": 108577}, {"name": "Distrado", "id": 108583}, {"name": "Arto", "id": 30172}], "successors": [{"name": "Ĵonglado", "id": 265370}, {"name": "Filmoj_pri_klaŭnoj", "id": 673365}]}
+{"name": "Cirkoj", "id": 339305, "predecessors": [{"name": "Artoj", "id": 108577}, {"name": "Distrado", "id": 108583}, {"name": "Arto", "id": 30172}], "successors": [{"name": "Ĵonglado", "id": 265370}, {"name": "Filmoj_pri_cirko", "id": 586268}, {"name": "Filmoj_pri_klaŭnoj", "id": 673365}]}

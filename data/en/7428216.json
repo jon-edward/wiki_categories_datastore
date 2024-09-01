@@ -1,0 +1,1 @@
+{"name": "Consumer_fraud", "id": 7428216, "predecessors": [{"name": "Fraud", "id": 737192}], "successors": [{"name": "False_advertising", "id": 24765276}, {"name": "Counterfeit_consumer_goods", "id": 29899349}, {"name": "Genealogical_fraud", "id": 34468773}, {"name": "Fake_news", "id": 52331877}]}

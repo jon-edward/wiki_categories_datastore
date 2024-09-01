@@ -1,1 +1,1 @@
-{"name": "Inositol", "id": 24484783, "predecessors": [{"name": "Cyclitols", "id": 24722705}, {"name": "Preventive_medicine", "id": 30133979}], "successors": []}
+{"name": "Inositol", "id": 24484783, "predecessors": [{"name": "Cyclitols", "id": 24722705}, {"name": "Signal_transduction", "id": 754106}, {"name": "Pharmacology", "id": 717788}], "successors": []}

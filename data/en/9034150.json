@@ -1,1 +1,1 @@
-{"name": "Chinese_alchemists", "id": 9034150, "predecessors": [{"name": "Alchemy", "id": 793378}], "successors": []}
+{"name": "Chinese_alchemists", "id": 9034150, "predecessors": [{"name": "Chinese_chemists", "id": 11493391}, {"name": "Alchemy", "id": 793378}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Hessenin_kunnat", "id": 307012, "predecessors": [{"name": "Hessen", "id": 879910}, {"name": "Saksan_maantiede", "id": 105621}], "successors": [{"name": "Frankfurt_am_Main", "id": 186047}]}
+{"name": "Hessenin_kunnat", "id": 307012, "predecessors": [{"name": "Saksan_maantiede", "id": 105621}, {"name": "Paikallishallinto", "id": 102778}], "successors": [{"name": "Frankfurt_am_Main", "id": 186047}]}

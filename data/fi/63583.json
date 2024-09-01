@@ -1,1 +1,1 @@
-{"name": "Trooppiset_hirmumyrskyt", "id": 63583, "predecessors": [{"name": "Myrskyt", "id": 865394}, {"name": "Maantiede", "id": 20136}], "successors": [{"name": "Atlantin_hurrikaanikaudet", "id": 914787}, {"name": "Taifuunit_Filippiineillä", "id": 1473352}]}
+{"name": "Trooppiset_hirmumyrskyt", "id": 63583, "predecessors": [{"name": "Myrskyt", "id": 865394}, {"name": "Maantiede", "id": 20136}, {"name": "Ilmasto", "id": 27191}], "successors": [{"name": "Atlantin_hurrikaanikaudet", "id": 914787}, {"name": "Taifuunit_Filippiineillä", "id": 1473352}]}

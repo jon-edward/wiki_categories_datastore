@@ -1,1 +1,1 @@
-{"name": "Future_soldier_programs", "id": 17704759, "predecessors": [{"name": "Military_planning", "id": 28196208}], "successors": [{"name": "Future_Soldier", "id": 68678955}]}
+{"name": "Future_soldier_programs", "id": 17704759, "predecessors": [{"name": "Military_planning", "id": 28196208}, {"name": "Military_technology", "id": 1073580}], "successors": [{"name": "Future_Soldier", "id": 68678955}]}

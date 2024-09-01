@@ -1,1 +1,1 @@
-{"name": "Secretaries", "id": 4557550, "predecessors": [{"name": "Clerks", "id": 8909890}, {"name": "Office_and_administrative_support_occupations", "id": 787616}], "successors": [{"name": "General_secretaries", "id": 34924849}, {"name": "Private_secretaries", "id": 77573917}]}
+{"name": "Secretaries", "id": 4557550, "predecessors": [{"name": "Clerks", "id": 8909890}, {"name": "Office_and_administrative_support_occupations", "id": 787616}], "successors": [{"name": "Private_secretaries", "id": 77573917}]}

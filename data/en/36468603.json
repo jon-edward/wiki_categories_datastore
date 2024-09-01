@@ -1,1 +1,1 @@
-{"name": "Group_C", "id": 36468603, "predecessors": [{"name": "Racing_car_classes", "id": 41451276}, {"name": "Sports_car_racing", "id": 4887708}], "successors": [{"name": "Group_C_cars", "id": 11145557}]}
+{"name": "Group_C", "id": 36468603, "predecessors": [{"name": "Fédération_Internationale_de_l'Automobile", "id": 35774573}, {"name": "Racing_car_classes", "id": 41451276}, {"name": "Sports_car_racing", "id": 4887708}], "successors": [{"name": "Group_C_cars", "id": 11145557}]}
