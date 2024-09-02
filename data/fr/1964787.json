@@ -1,0 +1,1 @@
+{"name": "Fleur_comestible", "id": 1964787, "predecessors": [{"name": "Plante_comestible", "id": 11305397}, {"name": "Horticulture", "id": 105492}, {"name": "Ingrédient_culinaire", "id": 208011}], "successors": [{"name": "Légume-fleur", "id": 11349486}]}

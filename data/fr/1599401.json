@@ -1,0 +1,1 @@
+{"name": "Numéro_de_téléphone", "id": 1599401, "predecessors": [{"name": "Identifiant", "id": 1014315}, {"name": "Téléphonie", "id": 155838}], "successors": [{"name": "Indicatif_régional_américain", "id": 6271501}, {"name": "Indicatif_régional_canadien", "id": 6280213}, {"name": "Indicatif_régional_des_Caraïbes", "id": 6280392}, {"name": "Numéro_d'urgence", "id": 6697795}]}

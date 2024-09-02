@@ -1,0 +1,1 @@
+{"name": "Voie_piétonnière", "id": 10448098, "predecessors": [{"name": "Lieu_sans_voiture", "id": 14402748}, {"name": "Piéton", "id": 1169525}, {"name": "Aménagement_du_territoire", "id": 367727}], "successors": [{"name": "Voie_piétonnière_en_France", "id": 10448165}, {"name": "Voie_piétonnière_en_Allemagne", "id": 12867269}, {"name": "Voie_piétonnière_à_Liège", "id": 11290102}]}

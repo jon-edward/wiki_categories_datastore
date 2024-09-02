@@ -1,1 +1,1 @@
-{"name": "Kustbevakning_efter_land", "id": 4959284, "predecessors": [{"name": "Gränskontroll", "id": 4895625}], "successors": [{"name": "Kustbevakningen", "id": 1096990}, {"name": "Personer_som_tjänstgjort_i_USA:s_kustbevakning", "id": 8633296}]}
+{"name": "Kustbevakning_efter_land", "id": 4959284, "predecessors": [{"name": "Gränskontroll", "id": 4895625}], "successors": [{"name": "Kustbevakningen", "id": 1096990}, {"name": "USA:s_kustbevakning", "id": 8633297}]}

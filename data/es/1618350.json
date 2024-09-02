@@ -1,0 +1,1 @@
+{"name": "Números_primos", "id": 1618350, "predecessors": [{"name": "Números_enteros", "id": 4551056}], "successors": [{"name": "Algoritmos_de_factorización_de_enteros", "id": 795195}, {"name": "Tests_de_primalidad", "id": 2437982}, {"name": "Conjeturas_sobre_números_primos", "id": 2439287}, {"name": "Uno", "id": 6259285}, {"name": "Primos_de_Mersenne", "id": 10341047}]}

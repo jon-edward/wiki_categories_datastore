@@ -1,0 +1,1 @@
+{"name": "Vrachtwagen", "id": 297894, "predecessors": [{"name": "Auto", "id": 67080}, {"name": "Goederenvervoer", "id": 80543}], "successors": [{"name": "Vrachtwagen_van_Volvo", "id": 1402767}, {"name": "Vrachtwagen_van_DAF", "id": 2915095}]}

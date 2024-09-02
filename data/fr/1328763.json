@@ -1,0 +1,1 @@
+{"name": "Propulsion_spatiale", "id": 1328763, "predecessors": [{"name": "Propulsion", "id": 1527187}, {"name": "Technologie_spatiale", "id": 3842912}], "successors": [{"name": "Propulsion_nucléaire_(astronautique)", "id": 1087048}, {"name": "Moteur-fusée", "id": 3056881}, {"name": "Ergol", "id": 5154110}]}

@@ -1,0 +1,1 @@
+{"name": "Destilação", "id": 3287697, "predecessors": [{"name": "Processo_unitário", "id": 1432720}, {"name": "Processos_químicos", "id": 370600}, {"name": "Técnicas_de_laboratório", "id": 172843}, {"name": "Engenharia_química", "id": 370601}], "successors": [{"name": "Bebidas_destiladas", "id": 412200}, {"name": "Destilarias", "id": 3287696}]}

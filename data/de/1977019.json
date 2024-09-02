@@ -1,0 +1,1 @@
+{"name": "Taxi", "id": 1977019, "predecessors": [{"name": "Personenverkehr", "id": 7804459}, {"name": "Öffentlicher_Verkehr", "id": 1177579}], "successors": [{"name": "Taxifahrzeug", "id": 13142721}, {"name": "Taxi_(Deutschland)", "id": 13142761}, {"name": "Taxihersteller", "id": 13142792}]}

@@ -1,0 +1,1 @@
+{"name": "Véhicule_de_lutte_contre_l'incendie", "id": 290834, "predecessors": [{"name": "Camion", "id": 204958}, {"name": "Lutte_contre_l'incendie", "id": 116626}, {"name": "Véhicule_de_secours", "id": 121740}], "successors": [{"name": "Avion_bombardier_d'eau", "id": 7629754}, {"name": "Camion-citerne", "id": 15004942}]}

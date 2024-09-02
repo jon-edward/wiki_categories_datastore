@@ -1,0 +1,1 @@
+{"name": "Trafic_aérien", "id": 3648304, "predecessors": [{"name": "Aéronautique", "id": 87362}], "successors": [{"name": "Contrôle_aérien", "id": 4301852}, {"name": "Gestion_du_trafic_aérien_en_France", "id": 4303703}]}

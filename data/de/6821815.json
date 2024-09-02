@@ -1,0 +1,1 @@
+{"name": "Reise-_und_Routenplanung", "id": 6821815, "predecessors": [{"name": "Transport", "id": 9613581}, {"name": "Tourismus", "id": 241521}], "successors": [{"name": "Verkehrsinformationssystem", "id": 7780126}, {"name": "Flugplanung", "id": 8329287}, {"name": "Reiseführer", "id": 8350811}, {"name": "OpenStreetMap", "id": 9010726}]}

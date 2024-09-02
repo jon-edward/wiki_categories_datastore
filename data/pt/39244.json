@@ -1,0 +1,1 @@
+{"name": "Ligas_metálicas", "id": 39244, "predecessors": [{"name": "Metais", "id": 817260}, {"name": "Metalurgia", "id": 122435}], "successors": [{"name": "Ligas_metálicas_de_ferro", "id": 1625465}, {"name": "Moedas_de_bronze", "id": 4256338}, {"name": "Esculturas_de_bronze", "id": 4050926}]}

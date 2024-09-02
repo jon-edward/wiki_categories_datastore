@@ -1,0 +1,1 @@
+{"name": "Explosionsschutz", "id": 3591950, "predecessors": [{"name": "Brandschutz", "id": 247061}, {"name": "Pyrotechnik", "id": 615711}, {"name": "Technische_Sicherheit", "id": 1062123}], "successors": [{"name": "Explosionsgefährlicher_Stoff", "id": 1523212}, {"name": "Explosionskatastrophe", "id": 3155247}, {"name": "Explosionsschutz_im_Bergbau", "id": 3593602}]}

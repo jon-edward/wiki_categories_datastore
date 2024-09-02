@@ -1,0 +1,1 @@
+{"name": "Analistas_matemáticos", "id": 3494443, "predecessors": [{"name": "Análise_matemática", "id": 21668}, {"name": "Matemática", "id": 14939}], "successors": [{"name": "Analistas_funcionais", "id": 3494448}, {"name": "Analistas_variacionais", "id": 3757479}, {"name": "Teóricos_da_medida", "id": 3859938}, {"name": "Teóricos_da_aproximação", "id": 5222907}]}

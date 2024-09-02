@@ -1,1 +1,1 @@
-{"name": "USA:s_inrikessäkerhetsdepartement", "id": 6629387, "predecessors": [{"name": "USA:s_federala_departement", "id": 782631}], "successors": []}
+{"name": "USA:s_inrikessäkerhetsdepartement", "id": 6629387, "predecessors": [{"name": "USA:s_federala_departement", "id": 782631}], "successors": [{"name": "USA:s_kustbevakning", "id": 8633297}]}

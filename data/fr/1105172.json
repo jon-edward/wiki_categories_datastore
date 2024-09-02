@@ -1,0 +1,1 @@
+{"name": "Logiciel_d'installation", "id": 1105172, "predecessors": [{"name": "Logiciel_utilitaire", "id": 3978099}], "successors": [{"name": "Gestionnaire_de_paquets", "id": 1102194}, {"name": "Magasin_d'applications", "id": 9745048}]}

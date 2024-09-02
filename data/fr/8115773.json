@@ -1,0 +1,1 @@
+{"name": "Turbine_à_gaz", "id": 8115773, "predecessors": [{"name": "Moteur_à_combustion_interne", "id": 1217180}, {"name": "Dispositif_mécanique_tournant", "id": 15603495}], "successors": [{"name": "Turbomoteur", "id": 8114053}, {"name": "Turbopropulseur", "id": 8114054}]}

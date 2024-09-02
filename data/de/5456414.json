@@ -1,0 +1,1 @@
+{"name": "Flüssigkeitspumpe", "id": 5456414, "predecessors": [{"name": "Hydraulik", "id": 1607372}, {"name": "Energietechnik", "id": 239318}], "successors": [{"name": "Flüssigkeitspumpe_nach_Anwendung", "id": 5456438}]}

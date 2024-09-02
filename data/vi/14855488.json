@@ -1,1 +1,1 @@
-{"name": "Giờ_ở_Việt_Nam", "id": 14855488, "predecessors": [{"name": "Giờ_ở_Đông_Nam_Á", "id": 3416934}, {"name": "Địa_lý_Việt_Nam", "id": 22742}, {"name": "Thời_gian", "id": 8613}], "successors": []}
+{"name": "Giờ_ở_Việt_Nam", "id": 14855488, "predecessors": [{"name": "Giờ_theo_quốc_gia", "id": 482697}, {"name": "Giờ_ở_Đông_Nam_Á", "id": 3416934}, {"name": "Địa_lý_Việt_Nam", "id": 22742}], "successors": []}

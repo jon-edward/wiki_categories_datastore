@@ -1,0 +1,1 @@
+{"name": "Roboter", "id": 559751, "predecessors": [{"name": "Automat", "id": 2763881}, {"name": "Robotik", "id": 559743}], "successors": [{"name": "Autonomer_mobiler_Roboter", "id": 4628988}, {"name": "Industrieroboter", "id": 4629615}, {"name": "Spielzeugroboter", "id": 4767796}]}

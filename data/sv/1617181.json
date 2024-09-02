@@ -1,1 +1,1 @@
-{"name": "Spelare_i_Fort_Lauderdale_Strikers", "id": 1617181, "predecessors": [{"name": "Fotboll_i_USA", "id": 567614}], "successors": []}
+{"name": "Fotbollsspelare_i_Fort_Lauderdale_Strikers", "id": 1617181, "predecessors": [{"name": "Sport_i_Florida", "id": 398253}, {"name": "Fotboll_i_USA", "id": 567614}, {"name": "Broward_County", "id": 6048309}], "successors": []}

@@ -1,0 +1,1 @@
+{"name": "POSIX", "id": 3719186, "predecessors": [{"name": "Interface_de_programação_de_aplicações", "id": 1121594}, {"name": "Normas_IEEE", "id": 2032582}, {"name": "Padrões_de_TI_e_telecomunicações", "id": 1068601}, {"name": "Unix", "id": 60634}], "successors": [{"name": "Navegadores_para_POSIX", "id": 1936607}]}

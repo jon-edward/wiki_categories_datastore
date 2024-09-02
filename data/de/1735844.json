@@ -1,0 +1,1 @@
+{"name": "Elektrische_Maschine", "id": 1735844, "predecessors": [{"name": "Elektrogerät", "id": 295771}, {"name": "Elektromaschinenbau", "id": 8929435}, {"name": "Maschine", "id": 960178}], "successors": [{"name": "Elektromotor", "id": 3471355}, {"name": "Generator", "id": 3472184}, {"name": "Transformator", "id": 3968846}]}

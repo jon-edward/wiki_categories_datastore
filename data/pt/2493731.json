@@ -1,0 +1,1 @@
+{"name": "Toolkits_gráficos", "id": 2493731, "predecessors": [{"name": "Bibliotecas_de_rotinas", "id": 524737}, {"name": "Interface_gráfica_do_utilizador", "id": 1697201}], "successors": [{"name": "GNOME", "id": 37410}, {"name": "Qt", "id": 2797476}, {"name": "Bibliotecas_JavaScript", "id": 3489926}]}

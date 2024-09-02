@@ -1,0 +1,1 @@
+{"name": "Tensioactif", "id": 1286413, "predecessors": [{"name": "Chimie_colloïdale", "id": 1286319}, {"name": "Physico-chimie_des_interfaces", "id": 147583}, {"name": "Produit_chimique", "id": 4817319}], "successors": [{"name": "Phospholipide", "id": 299786}, {"name": "Tensioactif_anionique", "id": 14034998}, {"name": "Tensioactif_non_ionique", "id": 14035043}]}

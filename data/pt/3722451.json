@@ -1,0 +1,1 @@
+{"name": "Unidade_central_de_processamento", "id": 3722451, "predecessors": [{"name": "Arquitetura_de_computadores", "id": 64279}, {"name": "Hardware", "id": 42138}], "successors": [{"name": "Microprocessadores", "id": 57700}, {"name": "Microcontroladores", "id": 153439}, {"name": "Soquetes", "id": 881917}, {"name": "Circuitos_digitais", "id": 3636497}]}

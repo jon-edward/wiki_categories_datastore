@@ -1,0 +1,1 @@
+{"name": "Histologische_Technik", "id": 8163345, "predecessors": [{"name": "Biochemische_Methode", "id": 7911082}, {"name": "Histologie", "id": 256267}, {"name": "Mikroskopie", "id": 894900}], "successors": [{"name": "Histologische_Färbung", "id": 3207156}]}

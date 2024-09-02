@@ -1,0 +1,1 @@
+{"name": "Mašinstvo", "id": 160100, "predecessors": [{"name": "Tehničke_nauke", "id": 18609}, {"name": "Inženjerstvo", "id": 62627}], "successors": [{"name": "Hemijsko_inženjerstvo", "id": 62615}, {"name": "Pumpe", "id": 93597}, {"name": "Prenos_toplote", "id": 219772}, {"name": "Izmjenjivači_topline", "id": 249617}, {"name": "Parne_mašine", "id": 249680}]}

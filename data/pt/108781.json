@@ -1,0 +1,1 @@
+{"name": "Laboratórios", "id": 108781, "predecessors": [{"name": "Instituições", "id": 44501}, {"name": "Pesquisa", "id": 493374}, {"name": "Construções", "id": 41684}], "successors": [{"name": "Equipamentos_laboratoriais", "id": 15001}, {"name": "Técnicas_de_laboratório", "id": 172843}, {"name": "Biossegurança", "id": 1977966}, {"name": "Fab_labs", "id": 6089842}]}
