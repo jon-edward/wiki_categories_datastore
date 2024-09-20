@@ -1,1 +1,1 @@
-{"name": "Doprava_v_Nedvědici", "id": 1560574, "predecessors": [{"name": "Doprava_v_okrese_Brno-venkov", "id": 837957}, {"name": "Nedvědice", "id": 782193}, {"name": "Doprava_v_Česku", "id": 119943}], "successors": []}
+{"name": "Doprava_v_Nedvědici", "id": 1560574, "predecessors": [{"name": "Nedvědice", "id": 782193}, {"name": "Okresy_v_Jihomoravském_kraji", "id": 433440}, {"name": "Doprava_v_Česku", "id": 119943}], "successors": []}

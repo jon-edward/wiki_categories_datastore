@@ -1,1 +1,1 @@
-{"name": "Kolektivní_sporty", "id": 79908, "predecessors": [{"name": "Spolupráce", "id": 383121}, {"name": "Sporty", "id": 4664}], "successors": [{"name": "Hokej", "id": 16290}, {"name": "Míčové_sporty", "id": 79909}, {"name": "Pálkovací_sporty", "id": 81075}]}
+{"name": "Kolektivní_sporty", "id": 79908, "predecessors": [{"name": "Spolupráce", "id": 383121}, {"name": "Sporty", "id": 4664}], "successors": [{"name": "Hokej", "id": 16290}, {"name": "Míčové_sporty", "id": 79909}, {"name": "Pálkovací_sporty", "id": 81075}, {"name": "Plážové_sporty", "id": 714026}]}

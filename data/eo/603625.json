@@ -1,1 +1,1 @@
-{"name": "Scienca_popularigo", "id": 603625, "predecessors": [{"name": "Edukado_laŭ_fakoj", "id": 439441}, {"name": "Literaturaj_ĝenroj", "id": 436702}], "successors": [{"name": "Sciencaj_verkistoj", "id": 603624}]}
+{"name": "Scienca_popularigo", "id": 603625, "predecessors": [{"name": "Scienca_edukado", "id": 600920}, {"name": "Literaturaj_ĝenroj", "id": 436702}], "successors": [{"name": "Sciencaj_verkistoj", "id": 603624}]}

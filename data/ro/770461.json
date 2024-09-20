@@ -1,1 +1,1 @@
-{"name": "Autoturisme_românești", "id": 770461, "predecessors": [{"name": "Vehicule_românești", "id": 1170508}, {"name": "Automobile", "id": 31957}, {"name": "Transportul_rutier_în_Europa", "id": 2930922}], "successors": [{"name": "Vehicule_Dacia", "id": 1241869}]}
+{"name": "Autoturisme_românești", "id": 770461, "predecessors": [{"name": "Vehicule_românești", "id": 1170508}, {"name": "Automobile", "id": 31957}, {"name": "Transportul_rutier_în_Europa", "id": 2930922}], "successors": [{"name": "Vehicule_Dacia", "id": 1241869}, {"name": "Vehicule_ARO", "id": 3137867}]}

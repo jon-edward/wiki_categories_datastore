@@ -1,1 +1,1 @@
-{"name": "Doprava_v_Jilemnici", "id": 1491835, "predecessors": [{"name": "Doprava_v_okrese_Semily", "id": 838186}, {"name": "Doprava_v_Česku_podle_měst", "id": 195488}, {"name": "Jilemnice", "id": 528428}], "successors": []}
+{"name": "Doprava_v_Jilemnici", "id": 1491835, "predecessors": [{"name": "Doprava_v_Česku_podle_měst", "id": 195488}, {"name": "Jilemnice", "id": 528428}, {"name": "Geografie_Libereckého_kraje", "id": 630788}], "successors": []}

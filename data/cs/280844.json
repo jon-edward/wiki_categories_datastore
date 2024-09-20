@@ -1,1 +1,1 @@
-{"name": "Farmaceutické_firmy", "id": 280844, "predecessors": [{"name": "Farmacie", "id": 149578}, {"name": "Firmy", "id": 7243}], "successors": [{"name": "České_farmaceutické_firmy", "id": 631327}, {"name": "Hoffmann-La_Roche", "id": 1147203}]}
+{"name": "Farmaceutické_firmy", "id": 280844, "predecessors": [{"name": "Farmacie", "id": 149578}, {"name": "Firmy", "id": 7243}], "successors": [{"name": "České_farmaceutické_firmy", "id": 631327}, {"name": "Německé_farmaceutické_firmy", "id": 1093730}, {"name": "Hoffmann-La_Roche", "id": 1147203}]}

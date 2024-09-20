@@ -1,1 +1,0 @@
-{"name": "Casino", "id": 103991, "predecessors": [{"name": "Divertissement", "id": 145624}, {"name": "Infrastructure_touristique", "id": 1946654}, {"name": "Loisir", "id": 977513}], "successors": [{"name": "Groupe_de_casinos", "id": 190970}, {"name": "Jeu_vidéo_de_casino", "id": 2036195}, {"name": "Jeu_de_casino", "id": 4880213}]}

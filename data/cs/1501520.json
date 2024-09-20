@@ -1,1 +1,1 @@
-{"name": "Doprava_v_Rumburku", "id": 1501520, "predecessors": [{"name": "Doprava_v_okrese_Děčín", "id": 837203}, {"name": "Doprava_v_Česku_podle_měst", "id": 195488}, {"name": "Rumburk", "id": 482740}], "successors": []}
+{"name": "Doprava_v_Rumburku", "id": 1501520, "predecessors": [{"name": "Doprava_v_Česku_podle_měst", "id": 195488}, {"name": "Rumburk", "id": 482740}, {"name": "Doprava_v_Česku", "id": 119943}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Madrido_en_filmoj", "id": 843222, "predecessors": [{"name": "Filmoj", "id": 80385}, {"name": "Hispana_kino", "id": 311704}, {"name": "Hispanio_en_fikcio", "id": 631089}], "successors": []}
+{"name": "Madrido_en_filmoj", "id": 843222, "predecessors": [{"name": "Madrido_en_fikcio", "id": 843223}, {"name": "Filmoj", "id": 80385}, {"name": "Hispana_kino", "id": 311704}], "successors": []}

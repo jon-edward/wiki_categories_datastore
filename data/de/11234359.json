@@ -1,1 +1,0 @@
-{"name": "Zahlungsmittel", "id": 11234359, "predecessors": [{"name": "Währung", "id": 613775}, {"name": "Zahlungsverkehr", "id": 408899}], "successors": [{"name": "Primitivgeld", "id": 11234327}, {"name": "Geldersatzmittel", "id": 11234725}]}

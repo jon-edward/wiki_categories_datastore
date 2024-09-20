@@ -1,1 +1,1 @@
-{"name": "Suediako_futbolariak", "id": 106218, "predecessors": [{"name": "Futbolariak", "id": 10038}, {"name": "Suediako_kirola", "id": 295583}], "successors": [{"name": "Suediako_emakume_futbolariak", "id": 1125735}]}
+{"name": "Suediako_futbolariak", "id": 106218, "predecessors": [{"name": "Suediako_kirolariak", "id": 106219}, {"name": "Futbolariak", "id": 10038}], "successors": [{"name": "Suediako_emakume_futbolariak", "id": 1125735}]}

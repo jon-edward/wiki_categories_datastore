@@ -1,1 +1,1 @@
-{"name": "Snekkere", "id": 1266698, "predecessors": [{"name": "Håndverkere", "id": 1457380}], "successors": [{"name": "Norske_snekkere", "id": 1277507}]}
+{"name": "Snekkere", "id": 1266698, "predecessors": [{"name": "Håndverk", "id": 45295}], "successors": [{"name": "Norske_snekkere", "id": 1277507}]}

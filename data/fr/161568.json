@@ -1,1 +1,0 @@
-{"name": "Colorimétrie", "id": 161568, "predecessors": [{"name": "Couleur", "id": 95594}, {"name": "Mesure_physique", "id": 95966}, {"name": "Métrologie_optique", "id": 6909881}, {"name": "Éclairage", "id": 412773}], "successors": [{"name": "Espace_couleur", "id": 186916}]}

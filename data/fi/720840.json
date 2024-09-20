@@ -1,1 +1,1 @@
-{"name": "Yhdysvaltalaiset_ohjukset", "id": 720840, "predecessors": [{"name": "Yhdysvaltain_asevoimien_kalusto", "id": 684149}, {"name": "Ohjukset", "id": 37403}], "successors": []}
+{"name": "Yhdysvaltalaiset_ohjukset", "id": 720840, "predecessors": [{"name": "Yhdysvaltain_asevoimien_kalusto", "id": 684149}, {"name": "Ohjukset", "id": 37403}], "successors": [{"name": "Yhdysvaltalaiset_risteilyohjukset", "id": 1467031}]}

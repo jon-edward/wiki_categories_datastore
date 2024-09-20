@@ -1,1 +1,1 @@
-{"name": "Programari_d'Apple", "id": 1061410, "predecessors": [{"name": "Apple", "id": 505518}, {"name": "Programari_de_propietat", "id": 815384}], "successors": [{"name": "Mac_OS", "id": 256308}, {"name": "Videojocs_per_a_iOS", "id": 1973595}]}
+{"name": "Programari_d'Apple", "id": 1061410, "predecessors": [{"name": "Apple", "id": 505518}, {"name": "Programari_de_propietat", "id": 815384}], "successors": [{"name": "Sistemes_operatius_d'Apple", "id": 1061413}]}

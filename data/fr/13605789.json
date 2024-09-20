@@ -1,1 +1,0 @@
-{"name": "Type_de_camion", "id": 13605789, "predecessors": [{"name": "Camion", "id": 204958}], "successors": [{"name": "Véhicule_Pick-up", "id": 586775}, {"name": "Véhicule_blindé_de_transport_de_troupes", "id": 6607402}, {"name": "Camion-citerne", "id": 15004942}]}

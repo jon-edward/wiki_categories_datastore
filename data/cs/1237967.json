@@ -1,1 +1,1 @@
-{"name": "Doprava_v_Mladé_Boleslavi", "id": 1237967, "predecessors": [{"name": "Doprava_v_okrese_Mladá_Boleslav", "id": 843378}, {"name": "Doprava_v_Česku_podle_měst", "id": 195488}, {"name": "Části_států", "id": 277520}], "successors": [{"name": "Rallye_Bohemia", "id": 692075}]}
+{"name": "Doprava_v_Mladé_Boleslavi", "id": 1237967, "predecessors": [{"name": "Doprava_v_Česku_podle_měst", "id": 195488}, {"name": "Doprava_ve_Středočeském_kraji", "id": 126869}, {"name": "Části_států", "id": 277520}], "successors": [{"name": "Rallye_Bohemia", "id": 692075}]}

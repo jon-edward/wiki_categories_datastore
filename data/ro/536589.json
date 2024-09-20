@@ -1,1 +1,1 @@
-{"name": "Medicină_preventivă", "id": 536589, "predecessors": [{"name": "Prevenire", "id": 2330290}, {"name": "Specialități_medicale", "id": 760126}], "successors": []}
+{"name": "Medicină_preventivă", "id": 536589, "predecessors": [{"name": "Prevenire", "id": 2330290}, {"name": "Specialități_medicale", "id": 760126}], "successors": [{"name": "Vaccinare", "id": 2498645}]}

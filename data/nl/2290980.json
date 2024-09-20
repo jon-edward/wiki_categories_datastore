@@ -1,1 +1,0 @@
-{"name": "Vliegtuigmotor", "id": 2290980, "predecessors": [{"name": "Motor", "id": 2290910}, {"name": "Vliegtuigonderdeel", "id": 138270}], "successors": [{"name": "Vliegtuigmotorbouwer", "id": 344816}, {"name": "Raketmotor", "id": 2929359}]}

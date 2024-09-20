@@ -1,1 +1,1 @@
-{"name": "Entiset_suomalaiset_elintarvikeyritykset", "id": 1786928, "predecessors": [{"name": "Entiset_suomalaiset_vähittäiskaupan_yritykset", "id": 1811547}, {"name": "Suomalaiset_elintarvikeyritykset", "id": 1384554}], "successors": []}
+{"name": "Entiset_suomalaiset_elintarvikeyritykset", "id": 1786928, "predecessors": [{"name": "Entiset_suomalaiset_vähittäiskaupan_yritykset", "id": 1811547}, {"name": "Suomalaiset_elintarvikeyritykset", "id": 1384554}], "successors": [{"name": "Entiset_suomalaiset_panimot", "id": 1811614}]}

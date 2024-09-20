@@ -1,1 +1,1 @@
-{"name": "Doprava_ve_Vrchlabí", "id": 1642915, "predecessors": [{"name": "Doprava_v_okrese_Trutnov", "id": 838201}, {"name": "Doprava_v_Česku_podle_měst", "id": 195488}, {"name": "Vrchlabí", "id": 541407}], "successors": []}
+{"name": "Doprava_ve_Vrchlabí", "id": 1642915, "predecessors": [{"name": "Doprava_v_Česku_podle_měst", "id": 195488}, {"name": "Vrchlabí", "id": 541407}, {"name": "Geografie_Královéhradeckého_kraje", "id": 630529}], "successors": []}

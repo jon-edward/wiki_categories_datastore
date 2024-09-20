@@ -1,1 +1,1 @@
-{"name": "Fordøyelsessystemet", "id": 138224, "predecessors": [{"name": "Fysiologi", "id": 29977}, {"name": "Gastroenterologi", "id": 64817}, {"name": "Anatomi", "id": 13167}], "successors": []}
+{"name": "Fordøyelsessystemet", "id": 138224, "predecessors": [{"name": "Fysiologi", "id": 29977}, {"name": "Gastroenterologi", "id": 64817}, {"name": "Anatomi", "id": 13167}], "successors": [{"name": "Urinering", "id": 2210378}, {"name": "Defekasjon", "id": 2212160}]}

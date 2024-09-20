@@ -1,1 +1,1 @@
-{"name": "Vozy_F1_v_roce_2014", "id": 972542, "predecessors": [{"name": "Formule_1_podle_let", "id": 110958}, {"name": "Doprava_v_roce_2014", "id": 1349317}, {"name": "Vozy_F1", "id": 21642}], "successors": []}
+{"name": "Vozy_F1_v_roce_2014", "id": 972542, "predecessors": [{"name": "Formule_1_podle_let", "id": 110958}, {"name": "Formule_1_v_roce_2014", "id": 1057541}, {"name": "Doprava_v_roce_2014", "id": 1349317}, {"name": "Vozy_F1", "id": 21642}], "successors": []}

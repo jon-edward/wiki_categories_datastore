@@ -1,1 +1,1 @@
-{"name": "Suomen_sodanaikaiset_lentokentät", "id": 266780, "predecessors": [{"name": "Lentotukikohdat", "id": 1275855}, {"name": "Suomen_ilmavoimat", "id": 258686}, {"name": "Suomen_lentopaikat", "id": 41155}], "successors": []}
+{"name": "Suomen_sodanaikaiset_lentokentät", "id": 266780, "predecessors": [{"name": "Suomen_ilmavoimat", "id": 258686}, {"name": "Suomen_lentopaikat", "id": 41155}, {"name": "Sotilasalueet", "id": 1123390}], "successors": []}

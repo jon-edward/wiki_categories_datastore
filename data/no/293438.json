@@ -1,1 +1,1 @@
-{"name": "Lydutstyr", "id": 293438, "predecessors": [{"name": "Lydteknikk", "id": 250948}], "successors": [{"name": "Musikkinstrumenter", "id": 11513}]}
+{"name": "Lydutstyr", "id": 293438, "predecessors": [{"name": "Lydteknikk", "id": 250948}], "successors": [{"name": "Musikkinstrumenter", "id": 11513}, {"name": "Mikrofoner", "id": 310545}]}

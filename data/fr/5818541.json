@@ -1,1 +1,0 @@
-{"name": "Isolation_thermique_du_bâtiment", "id": 5818541, "predecessors": [{"name": "Technique_de_construction", "id": 2279420}, {"name": "Thermique_du_bâtiment", "id": 3051430}, {"name": "Construction", "id": 149634}], "successors": [{"name": "Isolant_thermique", "id": 5823431}]}

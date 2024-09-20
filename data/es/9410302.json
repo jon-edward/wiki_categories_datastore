@@ -1,1 +1,0 @@
-{"name": "Ventas", "id": 9410302, "predecessors": [{"name": "Compras", "id": 10802012}, {"name": "Economía_de_la_empresa", "id": 5348337}, {"name": "Mercadotecnia", "id": 56015}], "successors": [{"name": "Promoción_de_ventas", "id": 6895858}, {"name": "Compras", "id": 10802012}]}

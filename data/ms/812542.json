@@ -1,1 +1,1 @@
-{"name": "Diplomat", "id": 812542, "predecessors": [{"name": "Diplomasi", "id": 168540}, {"name": "Pekerjaan", "id": 29250}, {"name": "Pekerjaan_pemerintahan", "id": 168003}], "successors": []}
+{"name": "Diplomat", "id": 812542, "predecessors": [{"name": "Diplomasi", "id": 168540}, {"name": "Pekerjaan", "id": 29250}, {"name": "Pekerjaan_pemerintahan", "id": 168003}], "successors": [{"name": "Diplomat_Malaysia", "id": 1036253}]}

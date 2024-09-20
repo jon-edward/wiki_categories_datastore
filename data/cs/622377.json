@@ -1,1 +1,1 @@
-{"name": "Ocel", "id": 622377, "predecessors": [{"name": "Metalurgie", "id": 43550}, {"name": "Slitiny", "id": 6651}, {"name": "Stavební_materiály", "id": 149752}, {"name": "Železo", "id": 260428}], "successors": [{"name": "Ocelové_mosty", "id": 622382}]}
+{"name": "Ocel", "id": 622377, "predecessors": [{"name": "Metalurgie", "id": 43550}, {"name": "Slitiny", "id": 6651}, {"name": "Stavební_materiály", "id": 149752}, {"name": "Železo", "id": 260428}], "successors": [{"name": "Ocelářské_firmy", "id": 463806}, {"name": "Ocelové_mosty", "id": 622382}]}

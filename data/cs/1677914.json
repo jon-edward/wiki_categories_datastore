@@ -1,1 +1,1 @@
-{"name": "Doprava_v_Plasích", "id": 1677914, "predecessors": [{"name": "Doprava_v_okrese_Plzeň-sever", "id": 838145}, {"name": "Doprava_v_Česku_podle_měst", "id": 195488}, {"name": "Plasy", "id": 848856}], "successors": []}
+{"name": "Doprava_v_Plasích", "id": 1677914, "predecessors": [{"name": "Doprava_v_Česku_podle_měst", "id": 195488}, {"name": "Plasy", "id": 848856}, {"name": "Okresy_v_Plzeňském_kraji", "id": 906910}], "successors": []}

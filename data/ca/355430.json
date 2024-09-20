@@ -1,1 +1,1 @@
-{"name": "Boxa_als_Jocs_Olímpics", "id": 355430, "predecessors": [{"name": "Boxa", "id": 240357}, {"name": "Competicions_esportives_als_Jocs_Olímpics", "id": 338381}], "successors": []}
+{"name": "Boxa_als_Jocs_Olímpics", "id": 355430, "predecessors": [{"name": "Boxa", "id": 240357}, {"name": "Competicions_esportives", "id": 53516}], "successors": [{"name": "Medallistes_olímpics_de_boxa", "id": 2114357}]}

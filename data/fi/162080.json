@@ -1,1 +1,1 @@
-{"name": "Kasvinjalostus", "id": 162080, "predecessors": [{"name": "Kasvitalous", "id": 872276}, {"name": "Kasvitiede", "id": 26849}, {"name": "Evoluutio", "id": 26735}], "successors": []}
+{"name": "Kasvinjalostus", "id": 162080, "predecessors": [{"name": "Kasvitalous", "id": 872276}, {"name": "Kasvitiede", "id": 26849}, {"name": "Evoluutio", "id": 26735}], "successors": [{"name": "Lajikkeet", "id": 1818149}]}

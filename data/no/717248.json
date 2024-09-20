@@ -1,1 +1,1 @@
-{"name": "Sensorer", "id": 717248, "predecessors": [{"name": "Måleinstrumenter", "id": 138378}], "successors": [{"name": "Detektorer", "id": 717249}]}
+{"name": "Sensorer", "id": 717248, "predecessors": [{"name": "Måleinstrumenter", "id": 138378}], "successors": [{"name": "Mikrofoner", "id": 310545}, {"name": "Detektorer", "id": 717249}]}

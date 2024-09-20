@@ -1,1 +1,1 @@
-{"name": "Actors_de_cinema_mut", "id": 342948, "predecessors": [{"name": "Història_del_cinema", "id": 658170}, {"name": "Principal", "id": 13225}], "successors": [{"name": "Actors_de_cinema_mut_estatunidencs", "id": 1567885}]}
+{"name": "Actors_de_cinema_mut", "id": 342948, "predecessors": [{"name": "Actors_de_cinema", "id": 18943}, {"name": "Història_del_cinema", "id": 658170}], "successors": [{"name": "Actors_de_cinema_mut_estatunidencs", "id": 1567885}]}

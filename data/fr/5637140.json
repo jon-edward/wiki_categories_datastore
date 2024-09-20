@@ -1,1 +1,0 @@
-{"name": "Froid", "id": 5637140, "predecessors": [{"name": "Transfert_thermique", "id": 2755250}], "successors": [{"name": "Réfrigération", "id": 854533}, {"name": "Installation_de_refroidissement", "id": 5789881}]}

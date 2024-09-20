@@ -1,1 +1,1 @@
-{"name": "Sähkökemia", "id": 182477, "predecessors": [{"name": "Fysikaalinen_kemia", "id": 164538}, {"name": "Sähkömagnetismi", "id": 27392}], "successors": [{"name": "Korroosio", "id": 283455}]}
+{"name": "Sähkökemia", "id": 182477, "predecessors": [{"name": "Fysikaalinen_kemia", "id": 164538}, {"name": "Sähkömagnetismi", "id": 27392}], "successors": [{"name": "Korroosio", "id": 283455}, {"name": "Jalometallit", "id": 405686}]}

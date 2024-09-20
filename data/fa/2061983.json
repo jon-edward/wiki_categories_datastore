@@ -1,1 +1,1 @@
-{"name": "انواع_بیمه", "id": 2061983, "predecessors": [{"name": "بیمه", "id": 209183}], "successors": []}
+{"name": "انواع_بیمه", "id": 2061983, "predecessors": [{"name": "بیمه", "id": 209183}], "successors": [{"name": "بیمه_اتومبیل", "id": 2505756}]}

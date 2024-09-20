@@ -1,1 +1,1 @@
-{"name": "Esgrima_als_Jocs_Olímpics", "id": 337753, "predecessors": [{"name": "Competicions_esportives_als_Jocs_Olímpics", "id": 338381}, {"name": "Esgrima", "id": 333094}], "successors": []}
+{"name": "Esgrima_als_Jocs_Olímpics", "id": 337753, "predecessors": [{"name": "Esgrima", "id": 333094}, {"name": "Competicions_esportives", "id": 53516}], "successors": [{"name": "Medallistes_olímpics_d'esgrima", "id": 2114380}]}

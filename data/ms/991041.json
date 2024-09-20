@@ -1,1 +1,1 @@
-{"name": "Manchuria", "id": 991041, "predecessors": [{"name": "Asia_Timur", "id": 52622}], "successors": [{"name": "Sejarah_Manchuria", "id": 991040}]}
+{"name": "Manchuria", "id": 991041, "predecessors": [{"name": "Asia_Timur", "id": 52622}, {"name": "Geografi_China", "id": 23598}], "successors": [{"name": "Sejarah_Manchuria", "id": 991040}]}

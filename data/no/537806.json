@@ -1,1 +1,1 @@
-{"name": "Kroppsvæsker", "id": 537806, "predecessors": [{"name": "Anatomi", "id": 13167}, {"name": "Fysiologi", "id": 29977}], "successors": [{"name": "Blod", "id": 505599}]}
+{"name": "Kroppsvæsker", "id": 537806, "predecessors": [{"name": "Anatomi", "id": 13167}, {"name": "Fysiologi", "id": 29977}], "successors": [{"name": "Blod", "id": 505599}, {"name": "Urinering", "id": 2210378}]}

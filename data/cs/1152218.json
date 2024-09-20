@@ -1,1 +1,1 @@
-{"name": "Vánoční_písně", "id": 1152218, "predecessors": [{"name": "Vánoce", "id": 51640}, {"name": "Písně", "id": 47736}], "successors": [{"name": "Vánoční_koledy", "id": 372475}]}
+{"name": "Vánoční_písně", "id": 1152218, "predecessors": [{"name": "Písně", "id": 47736}, {"name": "Hudba", "id": 4419}], "successors": [{"name": "Vánoční_koledy", "id": 372475}]}

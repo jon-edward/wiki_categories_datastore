@@ -1,1 +1,0 @@
-{"name": "Outil_de_mécanicien", "id": 1798204, "predecessors": [{"name": "Génie_mécanique", "id": 719812}, {"name": "Outil", "id": 104861}], "successors": [{"name": "Outil_pour_frapper", "id": 1439213}, {"name": "Outil_pour_percer", "id": 1439595}, {"name": "Pince", "id": 1471692}, {"name": "Clé_(outil)", "id": 1618406}]}

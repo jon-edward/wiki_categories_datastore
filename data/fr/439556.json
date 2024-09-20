@@ -1,1 +1,0 @@
-{"name": "Calcul_informatique", "id": 439556, "predecessors": [{"name": "Application_de_l'informatique", "id": 3951846}, {"name": "Automation", "id": 4660743}], "successors": [{"name": "Calcul_distribué", "id": 148307}, {"name": "Calcul_parallèle", "id": 438628}, {"name": "Calcul_formel", "id": 2146500}]}

@@ -1,1 +1,1 @@
-{"name": "Urologi", "id": 137383, "predecessors": [{"name": "Kirurgi", "id": 63801}], "successors": [{"name": "Sykdommer_i_urin-_og_kjønnsorganer", "id": 64827}]}
+{"name": "Urologi", "id": 137383, "predecessors": [{"name": "Kirurgi", "id": 63801}, {"name": "Urinering", "id": 2210378}], "successors": [{"name": "Sykdommer_i_urin-_og_kjønnsorganer", "id": 64827}]}

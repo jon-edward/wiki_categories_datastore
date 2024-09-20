@@ -1,1 +1,1 @@
-{"name": "Doprava_v_Raspenavě", "id": 1506877, "predecessors": [{"name": "Doprava_v_okrese_Liberec", "id": 837229}, {"name": "Doprava_v_Česku_podle_měst", "id": 195488}, {"name": "Raspenava", "id": 786167}], "successors": []}
+{"name": "Doprava_v_Raspenavě", "id": 1506877, "predecessors": [{"name": "Doprava_v_Česku_podle_měst", "id": 195488}, {"name": "Raspenava", "id": 786167}, {"name": "Doprava_v_Česku", "id": 119943}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Vaccinuri", "id": 580732, "predecessors": [{"name": "Imunologie", "id": 35829}], "successors": [{"name": "Vaccin_anti-COVID-19", "id": 2592171}]}
+{"name": "Vaccinuri", "id": 580732, "predecessors": [{"name": "Imunologie", "id": 35829}, {"name": "Vaccinare", "id": 2498645}], "successors": [{"name": "Vaccin_anti-COVID-19", "id": 2592171}]}

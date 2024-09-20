@@ -1,1 +1,0 @@
-{"name": "Drone", "id": 12041965, "predecessors": [{"name": "Appareil_informatique", "id": 4097239}, {"name": "Robot", "id": 550754}, {"name": "Type_d'aéronef", "id": 321850}], "successors": [{"name": "Type_ou_modèle_de_drone", "id": 6645615}]}
