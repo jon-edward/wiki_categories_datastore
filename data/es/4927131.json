@@ -1,0 +1,1 @@
+{"name": "Wi-Fi", "id": 4927131, "predecessors": [{"name": "Acceso_a_Internet", "id": 707952}, {"name": "Estándares_de_hardware", "id": 9742798}, {"name": "IEEE_802.11", "id": 8400998}, {"name": "Redes_inalámbricas", "id": 707929}, {"name": "Tecnologías_y_protocolos_de_nivel_físico", "id": 235044}], "successors": []}

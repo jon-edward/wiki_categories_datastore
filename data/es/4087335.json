@@ -1,0 +1,1 @@
+{"name": "Antispam", "id": 4087335, "predecessors": [{"name": "Autentificación_de_correo_electrónico", "id": 9055037}, {"name": "Spam", "id": 1816040}], "successors": [{"name": "Lista_negra", "id": 10531887}]}

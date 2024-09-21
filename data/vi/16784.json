@@ -1,1 +1,1 @@
-{"name": "Xét_nghiệm_y_khoa", "id": 16784, "predecessors": [{"name": "Phân_tích", "id": 1685434}, {"name": "Quan_sát", "id": 2416421}, {"name": "Y_học", "id": 8417}], "successors": []}
+{"name": "Xét_nghiệm_y_khoa", "id": 16784, "predecessors": [{"name": "Phân_tích", "id": 1685434}, {"name": "Quan_sát", "id": 2416421}, {"name": "Y_học", "id": 8417}], "successors": [{"name": "Phản_xạ", "id": 11764423}]}

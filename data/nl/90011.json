@@ -1,0 +1,1 @@
+{"name": "Webbrowser", "id": 90011, "predecessors": [{"name": "Internetsoftware", "id": 1757903}, {"name": "World_wide_web", "id": 2465539}], "successors": [{"name": "Mozilla_Firefox", "id": 1409576}, {"name": "Internet_Explorer", "id": 1758283}]}

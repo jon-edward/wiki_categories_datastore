@@ -1,0 +1,1 @@
+{"name": "Krediet", "id": 1149363, "predecessors": [{"name": "Bankwezen", "id": 805173}, {"name": "Geld", "id": 68350}], "successors": [{"name": "Hypotheek", "id": 689895}, {"name": "Microfinanciering", "id": 805219}, {"name": "Obligatie", "id": 1151777}, {"name": "Creditcard", "id": 1671653}]}

@@ -1,0 +1,1 @@
+{"name": "Bussystem", "id": 265533, "predecessors": [{"name": "Rechnerarchitektur", "id": 237671}, {"name": "Schnittstelle_(Hardware)", "id": 598657}], "successors": [{"name": "Feldbus", "id": 652472}, {"name": "Peripheriebus_(intern)", "id": 5532666}, {"name": "Peripheriebus_(extern)", "id": 5532693}]}

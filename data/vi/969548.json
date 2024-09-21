@@ -1,1 +1,1 @@
-{"name": "Nhện", "id": 969548, "predecessors": [{"name": "Động_vật_nguy_hiểm", "id": 3116836}, {"name": "Động_vật_ăn_thịt", "id": 167016}], "successors": [{"name": "Danh_sách_các_chi_nhện", "id": 2438350}, {"name": "Nhện_tuyệt_chủng", "id": 3665110}]}
+{"name": "Nhện", "id": 969548, "predecessors": [{"name": "Động_vật_chân_đốt_có_độc", "id": 3652671}, {"name": "Động_vật_nguy_hiểm", "id": 3116836}, {"name": "Động_vật_ăn_thịt", "id": 167016}], "successors": [{"name": "Danh_sách_các_chi_nhện", "id": 2438350}, {"name": "Nhện_tuyệt_chủng", "id": 3665110}]}

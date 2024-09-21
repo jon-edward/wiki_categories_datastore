@@ -1,0 +1,1 @@
+{"name": "Bildverarbeitung", "id": 994388, "predecessors": [{"name": "Computergrafik", "id": 249536}, {"name": "Fototechnik", "id": 295847}], "successors": [{"name": "Kantendetektion", "id": 1435416}, {"name": "Optische_Zeichenerkennung", "id": 2726469}, {"name": "Computer_Vision", "id": 11332619}]}

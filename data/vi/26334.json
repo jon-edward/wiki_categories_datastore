@@ -1,1 +1,1 @@
-{"name": "Dịch_giả", "id": 26334, "predecessors": [{"name": "Dịch_thuật", "id": 26335}, {"name": "Nghề_nghiệp_viết", "id": 3171180}, {"name": "Văn_học", "id": 6286}], "successors": [{"name": "Dịch_giả_Kinh_Thánh", "id": 1667819}]}
+{"name": "Dịch_giả", "id": 26334, "predecessors": [{"name": "Dịch_thuật", "id": 26335}, {"name": "Nghề_nghiệp_viết", "id": 3171180}, {"name": "Nghề_nghiệp_nghệ_thuật", "id": 2448652}], "successors": [{"name": "Dịch_giả_Kinh_Thánh", "id": 1667819}]}

@@ -1,1 +1,1 @@
-{"name": "Điều_dưỡng", "id": 804625, "predecessors": [{"name": "Chuyên_viên_y_tế", "id": 59678}, {"name": "Khoa_học_sức_khỏe", "id": 4159}, {"name": "Y_tế", "id": 1619814}], "successors": [{"name": "Y_tá_và_điều_dưỡng_viên", "id": 3180303}]}
+{"name": "Điều_dưỡng", "id": 804625, "predecessors": [{"name": "Chuyên_viên_y_tế", "id": 59678}, {"name": "Khoa_học_sức_khỏe", "id": 4159}, {"name": "Y_tế", "id": 1619814}], "successors": [{"name": "Y_tá_và_điều_dưỡng_viên", "id": 3180303}, {"name": "An_tử", "id": 19889314}]}

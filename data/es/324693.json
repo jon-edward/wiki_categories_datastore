@@ -1,0 +1,1 @@
+{"name": "Riego", "id": 324693, "predecessors": [{"name": "Infraestructuras_hidráulicas", "id": 6591557}, {"name": "Técnicas_agrícolas", "id": 3332097}, {"name": "Industria_alimentaria", "id": 3146334}], "successors": [{"name": "Canales_de_riego", "id": 419091}, {"name": "Acequias", "id": 6474530}, {"name": "Azudes", "id": 6474546}]}

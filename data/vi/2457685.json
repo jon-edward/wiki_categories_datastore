@@ -1,1 +1,1 @@
-{"name": "Tàu_vũ_trụ_đến_Sao_Kim", "id": 2457685, "predecessors": [{"name": "Tàu_không_gian", "id": 658768}], "successors": []}
+{"name": "Tàu_vũ_trụ_đến_Sao_Kim", "id": 2457685, "predecessors": [{"name": "Tàu_không_gian", "id": 658768}, {"name": "Phát_hiện_và_khám_phá_hệ_Mặt_Trời", "id": 15472018}], "successors": [{"name": "Chương_trình_Venera", "id": 19797885}]}

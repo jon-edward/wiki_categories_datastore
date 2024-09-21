@@ -1,1 +1,1 @@
-{"name": "Rối_loạn_tâm_thần_và_hành_vi", "id": 1407122, "predecessors": [{"name": "Bệnh_của_người", "id": 3666037}, {"name": "Hành_vi_con_người", "id": 84233}, {"name": "Sức_khỏe_tinh_thần", "id": 3202638}, {"name": "Vấn_đề_xã_hội", "id": 1406723}], "successors": []}
+{"name": "Rối_loạn_tâm_thần_và_hành_vi", "id": 1407122, "predecessors": [{"name": "Bệnh_của_người", "id": 3666037}, {"name": "Hành_vi_con_người", "id": 84233}, {"name": "Sức_khỏe_tinh_thần", "id": 3202638}, {"name": "Vấn_đề_xã_hội", "id": 1406723}], "successors": [{"name": "Rối_loạn_chú_ý", "id": 3219219}]}

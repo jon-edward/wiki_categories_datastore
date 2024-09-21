@@ -1,0 +1,1 @@
+{"name": "Détournement_d'avion", "id": 7255642, "predecessors": [{"name": "Attentat", "id": 4138566}, {"name": "Prise_d'otages", "id": 2915717}, {"name": "Sécurité_aérienne", "id": 355904}, {"name": "Accident_ou_incident_aérien", "id": 7330890}], "successors": [{"name": "Attentats_du_11_septembre_2001", "id": 775504}, {"name": "Raid_d'Entebbe", "id": 12647865}]}

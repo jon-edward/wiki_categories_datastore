@@ -1,0 +1,1 @@
+{"name": "Vuelos_suborbitales", "id": 9969555, "predecessors": [{"name": "Vuelo_espacial", "id": 3021442}, {"name": "Órbitas", "id": 902636}], "successors": [{"name": "Cohetes_sonda", "id": 1725824}, {"name": "ICBM", "id": 1876348}]}

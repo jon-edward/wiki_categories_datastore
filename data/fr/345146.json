@@ -1,0 +1,1 @@
+{"name": "Catalyseur", "id": 345146, "predecessors": [{"name": "Catalyse", "id": 1928341}, {"name": "Produit_chimique", "id": 4817319}], "successors": [{"name": "Enzyme", "id": 235868}, {"name": "Catalyseur_pour_hydrogénation", "id": 15767256}]}

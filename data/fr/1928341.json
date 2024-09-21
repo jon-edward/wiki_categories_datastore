@@ -1,0 +1,1 @@
+{"name": "Catalyse", "id": 1928341, "predecessors": [{"name": "Cinétique_chimique", "id": 3115092}, {"name": "Enzymologie", "id": 234465}, {"name": "Procédé_chimique", "id": 431578}, {"name": "Réaction_chimique", "id": 430330}], "successors": [{"name": "Catalyseur", "id": 345146}, {"name": "Catalyse_homogène", "id": 3879945}, {"name": "Catalyse_hétérogène", "id": 9852137}]}

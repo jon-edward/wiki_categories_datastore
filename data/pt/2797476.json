@@ -1,0 +1,1 @@
+{"name": "Qt", "id": 2797476, "predecessors": [{"name": "Bibliotecas_C++", "id": 2797477}, {"name": "Interface_de_programação_de_aplicações", "id": 1121594}, {"name": "Softwares_multiplataformas", "id": 4107987}, {"name": "Toolkits_gráficos", "id": 2493731}, {"name": "X_Window_System", "id": 2173026}], "successors": [{"name": "Softwares_que_utilizam_Qt", "id": 2797474}]}

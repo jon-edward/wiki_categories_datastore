@@ -1,0 +1,1 @@
+{"name": "Aparato_respiratorio", "id": 51561, "predecessors": [{"name": "Anatomía_humana", "id": 91674}, {"name": "Respiración", "id": 1771687}], "successors": [{"name": "Enfermedades_del_aparato_respiratorio", "id": 55358}, {"name": "Laringe", "id": 1792288}, {"name": "Tráquea", "id": 1792342}, {"name": "Pulmón", "id": 3241387}, {"name": "Voz_humana", "id": 5993374}]}

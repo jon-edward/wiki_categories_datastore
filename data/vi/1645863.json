@@ -1,1 +1,1 @@
-{"name": "Quá_trình_tâm_lý", "id": 1645863, "predecessors": [{"name": "Nội_dung_tinh_thần", "id": 14670029}, {"name": "Nguồn_gốc", "id": 3632685}], "successors": [{"name": "Trí_nhớ", "id": 1685339}]}
+{"name": "Quá_trình_tâm_lý", "id": 1645863, "predecessors": [{"name": "Khoa_học_nhận_thức", "id": 53586}, {"name": "Nội_dung_tinh_thần", "id": 14670029}, {"name": "Ý_hướng", "id": 3228006}], "successors": [{"name": "Tri_giác", "id": 62167}, {"name": "Trí_nhớ", "id": 1685339}, {"name": "Tưởng_tượng", "id": 19700448}]}

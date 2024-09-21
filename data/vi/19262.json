@@ -1,1 +1,1 @@
-{"name": "Hệ_hô_hấp", "id": 19262, "predecessors": [{"name": "Hô_hấp", "id": 16712}, {"name": "Hệ_cơ_quan", "id": 13733}, {"name": "Khoa_hô_hấp", "id": 16713}], "successors": [{"name": "Khoa_hô_hấp", "id": 16713}, {"name": "Mũi", "id": 2420717}, {"name": "Họng", "id": 13538550}]}
+{"name": "Hệ_hô_hấp", "id": 19262, "predecessors": [{"name": "Hô_hấp", "id": 16712}, {"name": "Hệ_cơ_quan", "id": 13733}, {"name": "Khoa_hô_hấp", "id": 16713}], "successors": [{"name": "Khoa_hô_hấp", "id": 16713}, {"name": "Mũi", "id": 2420717}]}

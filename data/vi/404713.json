@@ -1,1 +1,1 @@
-{"name": "Vị_giác", "id": 404713, "predecessors": [{"name": "Giác_quan", "id": 104893}, {"name": "Ăn_uống", "id": 494980}], "successors": [{"name": "Hương_liệu", "id": 2578229}]}
+{"name": "Vị_giác", "id": 404713, "predecessors": [{"name": "Giác_quan", "id": 104893}, {"name": "Mỹ_học", "id": 62166}, {"name": "Ăn_uống", "id": 494980}, {"name": "Cảm_giác", "id": 404714}, {"name": "Hệ_giác_quan", "id": 2420720}], "successors": [{"name": "Hương_liệu", "id": 2578229}]}

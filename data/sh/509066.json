@@ -1,0 +1,1 @@
+{"name": "Industrijski_procesi", "id": 509066, "predecessors": [{"name": "Industrija", "id": 4747}, {"name": "Nauka", "id": 18608}], "successors": [{"name": "Hemijski_procesi", "id": 508984}, {"name": "Obrada_drveta", "id": 1227764}, {"name": "Inhibitori_korozije", "id": 624197}, {"name": "Helatni_agensi", "id": 932060}]}

@@ -1,0 +1,1 @@
+{"name": "Processos_químicos", "id": 370600, "predecessors": [{"name": "Engenharia_química", "id": 370601}, {"name": "Processos_industriais", "id": 43948}], "successors": [{"name": "Síntese_química", "id": 370598}, {"name": "Destilação", "id": 3287697}, {"name": "Corrosão", "id": 5034030}, {"name": "Combustíveis", "id": 37407}, {"name": "Fogo", "id": 373325}]}

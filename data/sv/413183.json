@@ -1,1 +1,1 @@
-{"name": "Framtida_rymdsonder", "id": 413183, "predecessors": [{"name": "Framtida_rymdhändelser", "id": 413196}, {"name": "Rymdsonder", "id": 400560}], "successors": []}
+{"name": "Framtida_rymdsonder", "id": 413183, "predecessors": [{"name": "Rymdsonder", "id": 400560}, {"name": "Framtida_händelser", "id": 499408}], "successors": []}

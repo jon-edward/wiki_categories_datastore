@@ -1,0 +1,1 @@
+{"name": "Spécialité_à_base_de_lait", "id": 14171087, "predecessors": [{"name": "Produit_laitier", "id": 321206}, {"name": "Préparation_culinaire", "id": 3257048}], "successors": [{"name": "Spécialité_à_base_de_fromage", "id": 1898677}, {"name": "Boisson_lactée", "id": 4156558}]}

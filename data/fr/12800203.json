@@ -1,0 +1,1 @@
+{"name": "Patate_douce", "id": 12800203, "predecessors": [{"name": "Ipomoea", "id": 15645268}, {"name": "Légume-racine", "id": 516650}, {"name": "Plante_potagère", "id": 101065}, {"name": "Plante_à_féculents", "id": 101133}], "successors": [{"name": "Ravageur_de_la_patate_douce", "id": 12800188}, {"name": "Spécialité_à_base_de_patates_douces", "id": 12800211}]}

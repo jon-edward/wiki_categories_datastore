@@ -1,1 +1,1 @@
-{"name": "Macrolide", "id": 19522809, "predecessors": [{"name": "Hóa_chất", "id": 59544}, {"name": "Dị_vòng_oxy", "id": 19522800}, {"name": "Dược_liệu_học", "id": 14518576}], "successors": []}
+{"name": "Macrolide", "id": 19522809, "predecessors": [{"name": "Hóa_chất", "id": 59544}, {"name": "Lactone", "id": 19522802}, {"name": "Polyketide", "id": 19522808}], "successors": []}

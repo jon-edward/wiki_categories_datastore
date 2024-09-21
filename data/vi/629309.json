@@ -1,1 +1,1 @@
-{"name": "Bắn_súng_góc_nhìn_người_thứ_nhất", "id": 629309, "predecessors": [{"name": "Trò_chơi_điện_tử_bắn_súng", "id": 788942}, {"name": "Lối_chơi_trò_chơi_điện_tử", "id": 14595839}], "successors": [{"name": "Half-Life", "id": 3610070}]}
+{"name": "Bắn_súng_góc_nhìn_người_thứ_nhất", "id": 629309, "predecessors": [{"name": "Trò_chơi_điện_tử_bắn_súng", "id": 788942}, {"name": "Trò_chơi_điện_tử_góc_nhìn_người_thứ_nhất", "id": 18672888}, {"name": "Trò_chơi_chiến_tranh", "id": 19891223}], "successors": [{"name": "Half-Life", "id": 3610070}]}

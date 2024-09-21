@@ -1,0 +1,1 @@
+{"name": "Antivirais", "id": 492345, "predecessors": [{"name": "Doenças_virais", "id": 1526917}, {"name": "Doenças_infecciosas", "id": 43049}], "successors": [{"name": "Antirretrovirais", "id": 2710137}, {"name": "Inibidores_de_neuraminidase", "id": 6582638}]}

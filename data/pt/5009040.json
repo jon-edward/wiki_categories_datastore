@@ -1,0 +1,1 @@
+{"name": "Dispositivos_com_sistema_operativo_Android", "id": 5009040, "predecessors": [{"name": "Android", "id": 4095796}, {"name": "Linux_embarcado", "id": 3923423}, {"name": "Smartphones", "id": 3242167}], "successors": [{"name": "Google_Pixel", "id": 7170133}, {"name": "Google_Nexus", "id": 7431543}, {"name": "Série_Moto", "id": 7431547}]}

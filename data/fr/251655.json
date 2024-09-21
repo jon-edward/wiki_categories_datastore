@@ -1,0 +1,1 @@
+{"name": "Bombardement", "id": 251655, "predecessors": [{"name": "Explosion", "id": 756085}, {"name": "Guerre", "id": 82473}, {"name": "Histoire_militaire", "id": 82511}], "successors": [{"name": "Bombe", "id": 1461167}, {"name": "Bombardement_aérien", "id": 7754493}]}

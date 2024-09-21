@@ -1,0 +1,1 @@
+{"name": "MacOS", "id": 884110, "predecessors": [{"name": "BSD", "id": 35257}, {"name": "X86-64_운영_체제", "id": 2511181}, {"name": "애플의_운영_체제", "id": 469318}, {"name": "운영체제_계열", "id": 3615535}], "successors": [{"name": "MacOS_API", "id": 953839}, {"name": "MacOS_소프트웨어", "id": 953844}, {"name": "MacOS_사용자_인터페이스", "id": 3813746}]}

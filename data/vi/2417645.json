@@ -1,1 +1,1 @@
-{"name": "Sự_kiện_thời_tiết", "id": 2417645, "predecessors": [{"name": "Thời_tiết", "id": 18606}, {"name": "Tự_nhiên", "id": 24895}, {"name": "Khí_tượng_học", "id": 1664}], "successors": [{"name": "Bão", "id": 32623}, {"name": "Lũ_lụt", "id": 384355}]}
+{"name": "Sự_kiện_thời_tiết", "id": 2417645, "predecessors": [{"name": "Thời_tiết", "id": 18606}, {"name": "Tự_nhiên", "id": 24895}, {"name": "Khí_tượng_học", "id": 1664}], "successors": [{"name": "Bão", "id": 32623}, {"name": "Lũ_lụt", "id": 384355}, {"name": "Hạn_hán", "id": 19530657}]}

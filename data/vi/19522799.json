@@ -1,1 +1,1 @@
-{"name": "Ester_carboxylat", "id": 19522799, "predecessors": [{"name": "Ester", "id": 479411}, {"name": "Hóa_chất", "id": 59544}, {"name": "Hợp_chất_carbon", "id": 38957}], "successors": [{"name": "Ester_propionat", "id": 19528891}]}
+{"name": "Ester_carboxylat", "id": 19522799, "predecessors": [{"name": "Ester", "id": 479411}, {"name": "Hóa_chất", "id": 59544}, {"name": "Hợp_chất_carbon", "id": 38957}], "successors": [{"name": "Lactone", "id": 19522802}, {"name": "Ester_propionat", "id": 19528891}, {"name": "Este_fomat", "id": 19528896}]}

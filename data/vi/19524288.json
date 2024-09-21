@@ -1,1 +1,1 @@
-{"name": "URI", "id": 19524288, "predecessors": [{"name": "Giao_thức_tầng_ứng_dụng", "id": 2260979}, {"name": "Tiêu_chuẩn_Internet", "id": 56274}, {"name": "Định_danh", "id": 1645012}, {"name": "Giao_thức_tầng_mạng", "id": 204006}], "successors": [{"name": "URL", "id": 19523886}]}
+{"name": "URI", "id": 19524288, "predecessors": [{"name": "Giao_thức_tầng_ứng_dụng", "id": 2260979}, {"name": "Tiêu_chuẩn_Internet", "id": 56274}, {"name": "Địa_chỉ_mạng", "id": 3338187}, {"name": "Định_danh", "id": 1645012}], "successors": [{"name": "URL", "id": 19523886}]}

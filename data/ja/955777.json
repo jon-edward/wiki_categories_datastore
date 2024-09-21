@@ -1,0 +1,1 @@
+{"name": "Windowsのコンポーネント", "id": 955777, "predecessors": [{"name": "Microsoft_Windows", "id": 105058}], "successors": [{"name": "DirectX", "id": 1827025}, {"name": "Windowsのコマンド", "id": 3620294}, {"name": "廃止されたWindowsのコンポーネント", "id": 4339465}]}

@@ -1,0 +1,1 @@
+{"name": "Chemisches_Analyseverfahren", "id": 278685, "predecessors": [{"name": "Analytische_Chemie", "id": 659915}, {"name": "Messtechnik", "id": 239326}], "successors": [{"name": "Elektrophorese", "id": 2056533}, {"name": "Massenspektrometrie", "id": 4216616}, {"name": "Chromatographie", "id": 4889125}, {"name": "Titration", "id": 6759775}]}

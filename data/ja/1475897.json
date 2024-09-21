@@ -1,0 +1,1 @@
+{"name": "セキュア通信", "id": 1475897, "predecessors": [{"name": "セキュリティ技術", "id": 138111}, {"name": "諜報", "id": 1475776}, {"name": "通信", "id": 190996}], "successors": [{"name": "暗号技術", "id": 142576}, {"name": "匿名ネットワーク", "id": 1652770}, {"name": "Transport_Layer_Security", "id": 3609239}]}

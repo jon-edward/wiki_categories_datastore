@@ -1,1 +1,1 @@
-{"name": "Dược_liệu_học", "id": 14518576, "predecessors": [{"name": "Dược_học", "id": 14518586}, {"name": "Dược_lý_học", "id": 12915}], "successors": [{"name": "Chế_tạo_thuốc", "id": 14518255}, {"name": "Terpen_và_terpenoid", "id": 19566980}, {"name": "Macrolide", "id": 19522809}]}
+{"name": "Dược_liệu_học", "id": 14518576, "predecessors": [{"name": "Dược_học", "id": 14518586}, {"name": "Dược_lý_học", "id": 12915}], "successors": [{"name": "Chế_tạo_thuốc", "id": 14518255}, {"name": "Hợp_chất_thiên_nhiên", "id": 19522803}]}

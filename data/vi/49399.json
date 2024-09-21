@@ -1,1 +1,1 @@
-{"name": "Lý_thuyết_mã_hóa", "id": 49399, "predecessors": [{"name": "Lý_thuyết_thông_tin", "id": 14118}, {"name": "Mã_hóa", "id": 12018}], "successors": [{"name": "Nén_dữ_liệu", "id": 278899}, {"name": "Phát_hiện_và_sửa_lỗi", "id": 15973924}]}
+{"name": "Lý_thuyết_mã_hóa", "id": 49399, "predecessors": [{"name": "Lý_thuyết_thông_tin", "id": 14118}, {"name": "Mã_hóa", "id": 12018}], "successors": [{"name": "Nén_dữ_liệu", "id": 278899}, {"name": "Mã_hóa_kí_tự", "id": 13538525}, {"name": "Phát_hiện_và_sửa_lỗi", "id": 15973924}]}

@@ -1,1 +1,1 @@
-{"name": "Maskininlärning", "id": 8108116, "predecessors": [{"name": "Datavetenskap", "id": 50677}], "successors": [{"name": "Generativ_artificiell_intelligens", "id": 8838869}]}
+{"name": "Maskininlärning", "id": 8108116, "predecessors": [{"name": "Datavetenskap", "id": 50677}], "successors": [{"name": "Neurala_nätverk", "id": 512584}, {"name": "Generativ_artificiell_intelligens", "id": 8838869}, {"name": "Djupinlärning", "id": 8878365}]}

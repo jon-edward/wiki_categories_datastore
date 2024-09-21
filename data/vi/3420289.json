@@ -1,1 +1,1 @@
-{"name": "Nội_tiết_tố_Peptit", "id": 3420289, "predecessors": [{"name": "Hormone", "id": 16466}, {"name": "Peptide", "id": 19523170}], "successors": [{"name": "Neuropeptide", "id": 19535612}]}
+{"name": "Nội_tiết_tố_Peptit", "id": 3420289, "predecessors": [{"name": "Peptide", "id": 19523170}], "successors": [{"name": "Neuropeptide", "id": 19535612}]}

@@ -1,0 +1,1 @@
+{"name": "PHP", "id": 217183, "predecessors": [{"name": "Langage_de_script", "id": 221735}, {"name": "Langage_orienté_objet", "id": 83587}, {"name": "Technologie_web", "id": 2707103}], "successors": [{"name": "Bibliothèque_logicielle_PHP", "id": 11976701}, {"name": "Framework_PHP", "id": 11976757}, {"name": "Logiciel_écrit_en_PHP", "id": 14657450}]}

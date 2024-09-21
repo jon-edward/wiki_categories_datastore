@@ -1,1 +1,1 @@
-{"name": "Tranh_cãi_trò_chơi_điện_tử", "id": 14891945, "predecessors": [{"name": "Công_nghiệp_trò_chơi_điện_tử", "id": 12839917}, {"name": "Giải_trí", "id": 6073}, {"name": "Phần_mềm", "id": 2314}], "successors": []}
+{"name": "Tranh_cãi_trò_chơi_điện_tử", "id": 14891945, "predecessors": [{"name": "Công_nghiệp_trò_chơi_điện_tử", "id": 12839917}, {"name": "Phê_phán_phần_mềm_và_website", "id": 14891967}, {"name": "Tranh_cãi_truyền_thông_và_giải_trí", "id": 14891958}], "successors": []}

@@ -1,0 +1,1 @@
+{"name": "Pâte", "id": 5678741, "predecessors": [{"name": "Matériau", "id": 154211}, {"name": "Phase", "id": 1006522}, {"name": "Procédé_chimique", "id": 431578}], "successors": [{"name": "Adhésif", "id": 380296}, {"name": "Résine", "id": 1286422}, {"name": "Enduit", "id": 7206996}, {"name": "Boue", "id": 8487672}]}

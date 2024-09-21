@@ -1,0 +1,1 @@
+{"name": "Maladie_tropicale", "id": 707722, "predecessors": [{"name": "Maladie", "id": 87795}, {"name": "Spécialité_médicale", "id": 293687}], "successors": [{"name": "Maladie_infectieuse_tropicale", "id": 1540808}]}

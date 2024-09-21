@@ -1,0 +1,1 @@
+{"name": "Hydraulik", "id": 1607372, "predecessors": [{"name": "Fluidtechnik", "id": 867314}, {"name": "Hydromechanik", "id": 4023406}], "successors": [{"name": "Ventil", "id": 1609082}, {"name": "Druckbehälter", "id": 3878308}, {"name": "Flüssigkeitspumpe", "id": 5456414}]}

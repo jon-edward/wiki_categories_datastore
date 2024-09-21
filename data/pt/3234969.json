@@ -1,0 +1,1 @@
+{"name": "Dado", "id": 3234969, "predecessors": [{"name": "Aleatoriedade", "id": 3234968}, {"name": "Jogos", "id": 15106}], "successors": [{"name": "Jogos_de_dados", "id": 962808}]}

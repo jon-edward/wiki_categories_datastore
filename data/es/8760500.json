@@ -1,0 +1,1 @@
+{"name": "Almacenamiento_distribuido_de_datos", "id": 8760500, "predecessors": [{"name": "Compartición_de_archivos", "id": 5027114}, {"name": "Redes_de_compartición_de_archivos", "id": 5027225}, {"name": "Redes_informáticas", "id": 186159}, {"name": "Protocolos_de_nivel_de_aplicación", "id": 234518}], "successors": [{"name": "Almacenamiento_en_nube", "id": 5033053}]}

@@ -1,1 +1,1 @@
-{"name": "Huyết_học", "id": 16782, "predecessors": [{"name": "Chuyên_ngành_y_khoa", "id": 3180293}, {"name": "Máu", "id": 16781}, {"name": "Y_học", "id": 8417}], "successors": [{"name": "Máu", "id": 16781}, {"name": "Hiến_máu", "id": 3182280}, {"name": "Y_học_truyền_máu", "id": 19522603}]}
+{"name": "Huyết_học", "id": 16782, "predecessors": [{"name": "Chuyên_ngành_y_khoa", "id": 3180293}, {"name": "Y_học", "id": 8417}], "successors": [{"name": "Hiến_máu", "id": 3182280}, {"name": "Y_học_truyền_máu", "id": 19522603}]}

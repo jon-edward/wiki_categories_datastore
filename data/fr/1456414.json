@@ -1,0 +1,1 @@
+{"name": "Infrastructure_portuaire", "id": 1456414, "predecessors": [{"name": "Ouvrage_lié_à_l'eau", "id": 2782652}, {"name": "Port", "id": 813239}], "successors": [{"name": "Forme_de_radoub", "id": 8992074}, {"name": "Terminal_pétrolier", "id": 10431149}, {"name": "Terminal_méthanier", "id": 15562031}, {"name": "Quai_à_Liège", "id": 8017721}]}

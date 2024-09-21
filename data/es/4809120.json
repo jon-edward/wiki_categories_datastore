@@ -1,0 +1,1 @@
+{"name": "Ferrocarril_en_Tokio", "id": 4809120, "predecessors": [{"name": "Transporte_de_Tokio", "id": 4809136}, {"name": "Ferrocarril_en_Japón", "id": 944737}], "successors": [{"name": "Estaciones_de_ferrocarril_de_Tokio", "id": 4809103}, {"name": "Línea_Yamanote", "id": 4809152}]}

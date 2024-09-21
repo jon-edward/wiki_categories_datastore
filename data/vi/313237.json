@@ -1,1 +1,1 @@
-{"name": "Phần_mềm_thống_kê", "id": 313237, "predecessors": [{"name": "Phần_mềm", "id": 2314}, {"name": "Phần_mềm_toán_học", "id": 48432}], "successors": []}
+{"name": "Phần_mềm_thống_kê", "id": 313237, "predecessors": [{"name": "Phần_mềm", "id": 2314}, {"name": "Phần_mềm_toán_học", "id": 48432}], "successors": [{"name": "Phần_mềm_học_máy_và_khai_phá_dữ_liệu", "id": 13835232}]}

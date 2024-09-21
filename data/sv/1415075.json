@@ -1,1 +1,1 @@
-{"name": "Skeppsbyggnad", "id": 1415075, "predecessors": [{"name": "Fartygskonstruktion", "id": 319537}, {"name": "Industri", "id": 94026}, {"name": "Sjöfart", "id": 66600}, {"name": "Tillverkning", "id": 130333}], "successors": [{"name": "Skeppsvarv", "id": 514803}, {"name": "Skeppsbyggare", "id": 1020598}]}
+{"name": "Skeppsbyggnad", "id": 1415075, "predecessors": [{"name": "Fartygskonstruktion", "id": 319537}, {"name": "Industri", "id": 94026}, {"name": "Sjöfart", "id": 66600}, {"name": "Tillverkning", "id": 130333}], "successors": [{"name": "Skeppsvarv", "id": 514803}]}

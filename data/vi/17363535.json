@@ -1,1 +1,1 @@
-{"name": "Tâm_lý_ngôn_ngữ_học", "id": 17363535, "predecessors": [{"name": "Ngôn_ngữ_học", "id": 4054}], "successors": [{"name": "Tiếp_thu_ngôn_ngữ", "id": 19091716}]}
+{"name": "Tâm_lý_ngôn_ngữ_học", "id": 17363535, "predecessors": [{"name": "Khoa_học_nhận_thức", "id": 53586}, {"name": "Nhận_thức", "id": 53585}, {"name": "Ngôn_ngữ_học", "id": 4054}], "successors": [{"name": "Tiếp_thu_ngôn_ngữ", "id": 19091716}]}

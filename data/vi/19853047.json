@@ -1,1 +1,1 @@
-{"name": "Thu_hồi_và_lưu_trữ_carbon", "id": 19853047, "predecessors": [{"name": "Carbon_dioxide", "id": 3430457}, {"name": "Giảm_thiểu_biến_đổi_khí_hậu", "id": 14670698}, {"name": "Khí_nhà_kính", "id": 32174}, {"name": "Công_nghiệp", "id": 37647}], "successors": []}
+{"name": "Thu_hồi_và_lưu_trữ_carbon", "id": 19853047, "predecessors": [{"name": "Carbon_dioxide", "id": 3430457}, {"name": "Giảm_thiểu_biến_đổi_khí_hậu", "id": 14670698}, {"name": "Giảm_thiểu_khí_thải", "id": 14670693}, {"name": "Công_nghiệp", "id": 37647}], "successors": []}

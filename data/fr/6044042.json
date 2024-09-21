@@ -1,0 +1,1 @@
+{"name": "Satellite_d'observation_de_la_Terre", "id": 6044042, "predecessors": [{"name": "Observation_de_la_Terre_par_satellite", "id": 15482504}, {"name": "Satellite_artificiel", "id": 221312}], "successors": [{"name": "Satellite_météorologique", "id": 889940}, {"name": "Télédétection_spatiale", "id": 6044108}]}

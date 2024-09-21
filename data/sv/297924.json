@@ -1,1 +1,1 @@
-{"name": "Karnevaler", "id": 297924, "predecessors": [{"name": "Evenemang", "id": 163380}, {"name": "Nöjen", "id": 57634}], "successors": [{"name": "Lundakarnevalen", "id": 507307}, {"name": "Ansiktsmasker", "id": 8431747}]}
+{"name": "Karnevaler", "id": 297924, "predecessors": [{"name": "Evenemang", "id": 163380}], "successors": [{"name": "Lundakarnevalen", "id": 507307}, {"name": "Ansiktsmasker", "id": 8431747}]}

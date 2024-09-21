@@ -1,1 +1,1 @@
-{"name": "Ăn_mòn", "id": 15613177, "predecessors": [{"name": "Luyện_kim", "id": 121604}, {"name": "Quá_trình_hóa_học", "id": 2453455}, {"name": "Điện_hóa", "id": 77309}, {"name": "Bảo_tồn_và_phục_hồi", "id": 3190370}], "successors": [{"name": "Chất_ăn_mòn", "id": 15612981}]}
+{"name": "Ăn_mòn", "id": 15613177, "predecessors": [{"name": "Luyện_kim", "id": 121604}, {"name": "Phá_hủy_vật_liệu", "id": 14865052}, {"name": "Quá_trình_hóa_học", "id": 2453455}, {"name": "Điện_hóa", "id": 77309}], "successors": [{"name": "Chất_ăn_mòn", "id": 15612981}]}

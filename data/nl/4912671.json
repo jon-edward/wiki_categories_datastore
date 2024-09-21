@@ -1,0 +1,1 @@
+{"name": "Laboratorium", "id": 4912671, "predecessors": [{"name": "Bouwwerk_naar_functie", "id": 702326}, {"name": "Exacte_wetenschap", "id": 63433}, {"name": "Instituut", "id": 97288}], "successors": [{"name": "Natuurkundig_laboratorium", "id": 63487}, {"name": "Laboratoriuminstrument", "id": 87801}, {"name": "Basis_op_Antarctica", "id": 311514}]}

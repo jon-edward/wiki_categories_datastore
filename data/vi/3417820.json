@@ -1,1 +1,1 @@
-{"name": "Thành_phố_cảng_ở_Na_Uy", "id": 3417820, "predecessors": [{"name": "Thành_phố_cảng_châu_Âu", "id": 11814986}, {"name": "Thành_phố_của_Na_Uy", "id": 230654}, {"name": "Kết_cấu_hạ_tầng", "id": 564932}, {"name": "Bờ_biển", "id": 2366172}], "successors": []}
+{"name": "Thành_phố_cảng_ở_Na_Uy", "id": 3417820, "predecessors": [{"name": "Thành_phố_cảng_châu_Âu", "id": 11814986}, {"name": "Thành_phố_của_Na_Uy", "id": 230654}, {"name": "Thành_phố_ven_biển_ở_Na_Uy", "id": 3417828}, {"name": "Kết_cấu_hạ_tầng", "id": 564932}], "successors": []}

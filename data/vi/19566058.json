@@ -1,1 +1,1 @@
-{"name": "Tử_vong_vì_súng", "id": 19566058, "predecessors": [{"name": "Bạo_lực", "id": 341905}, {"name": "Vũ_khí_bắn", "id": 315044}], "successors": []}
+{"name": "Tử_vong_vì_súng", "id": 19566058, "predecessors": [{"name": "Bạo_lực_súng", "id": 19566054}, {"name": "Bạo_lực", "id": 341905}, {"name": "Vũ_khí_bắn", "id": 315044}], "successors": []}
