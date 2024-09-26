@@ -1,1 +1,1 @@
-{"name": "Diesel_engines_by_model", "id": 27428685, "predecessors": [{"name": "Diesel_engines", "id": 16236256}, {"name": "Engines_by_model", "id": 27428692}], "successors": []}
+{"name": "Diesel_engines_by_model", "id": 27428685, "predecessors": [{"name": "Diesel_engines", "id": 16236256}, {"name": "Engines_by_model", "id": 27428692}], "successors": [{"name": "Napier_Deltic", "id": 25536267}]}

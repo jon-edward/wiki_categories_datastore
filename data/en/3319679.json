@@ -1,1 +1,1 @@
-{"name": "Carsharing", "id": 3319679, "predecessors": [{"name": "Road_transport", "id": 700964}, {"name": "Auto_dealerships", "id": 5598357}, {"name": "Sustainable_transport", "id": 14664782}], "successors": [{"name": "Ridesharing_companies", "id": 43629584}]}
+{"name": "Carsharing", "id": 3319679, "predecessors": [{"name": "Road_transport", "id": 700964}, {"name": "Auto_dealerships", "id": 5598357}, {"name": "Sharing_economy", "id": 47930021}], "successors": [{"name": "Ridesharing_companies", "id": 43629584}]}

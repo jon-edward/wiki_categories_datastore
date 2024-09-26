@@ -1,1 +1,1 @@
-{"name": "Fungal_grape_diseases", "id": 42935704, "predecessors": [{"name": "Fungal_fruit_diseases", "id": 54850518}, {"name": "Eudicot_diseases", "id": 42660003}], "successors": []}
+{"name": "Fungal_grape_diseases", "id": 42935704, "predecessors": [{"name": "Fungal_fruit_diseases", "id": 54850518}, {"name": "Eudicot_diseases", "id": 42660003}], "successors": [{"name": "Grapevine_trunk_diseases", "id": 42973795}]}

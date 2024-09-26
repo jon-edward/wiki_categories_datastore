@@ -1,1 +1,1 @@
-{"name": "Ironclad_warships_of_the_French_Navy", "id": 33919719, "predecessors": [{"name": "Ships_of_the_French_Navy", "id": 17038832}], "successors": [{"name": "Provence-class_ironclads", "id": 41102746}]}
+{"name": "Ironclad_warships_of_the_French_Navy", "id": 33919719, "predecessors": [{"name": "Ships_of_the_French_Navy", "id": 17038832}, {"name": "Ship_types", "id": 712258}], "successors": [{"name": "Provence-class_ironclads", "id": 41102746}]}

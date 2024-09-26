@@ -1,1 +1,1 @@
-{"name": "Magazines_published_in_Ohio", "id": 32893742, "predecessors": [{"name": "Calendars", "id": 698466}], "successors": [{"name": "Magazines_published_in_Cleveland", "id": 62274473}, {"name": "Magazines_published_in_Cincinnati", "id": 63883717}]}
+{"name": "Magazines_published_in_Ohio", "id": 32893742, "predecessors": [{"name": "19th_century", "id": 884481}], "successors": [{"name": "Magazines_published_in_Cleveland", "id": 62274473}, {"name": "Magazines_published_in_Cincinnati", "id": 63883717}]}

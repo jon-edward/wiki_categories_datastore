@@ -1,1 +1,1 @@
-{"name": "Proteinogenic_amino_acids", "id": 5929116, "predecessors": [{"name": "Amino_acids", "id": 713789}], "successors": []}
+{"name": "Proteinogenic_amino_acids", "id": 5929116, "predecessors": [{"name": "Amino_acids", "id": 713789}], "successors": [{"name": "Essential_amino_acids", "id": 4516249}]}

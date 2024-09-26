@@ -1,1 +1,1 @@
-{"name": "Colobinae", "id": 26111120, "predecessors": [{"name": "Folivores", "id": 33748744}, {"name": "Herbivorous_mammals", "id": 54540055}], "successors": []}
+{"name": "Colobinae", "id": 26111120, "predecessors": [{"name": "Folivores", "id": 33748744}, {"name": "Herbivorous_mammals", "id": 54540055}], "successors": [{"name": "Trachypithecus", "id": 54665608}, {"name": "Semnopithecus", "id": 54666076}, {"name": "Presbytis", "id": 54667112}]}

@@ -1,1 +1,1 @@
-{"name": "German_mercenaries", "id": 15146269, "predecessors": [{"name": "Mercenaries", "id": 1611704}], "successors": [{"name": "Landsknechts", "id": 8952068}]}
+{"name": "German_mercenaries", "id": 15146269, "predecessors": [{"name": "Mercenaries", "id": 1611704}, {"name": "Continents", "id": 788686}], "successors": [{"name": "Landsknechts", "id": 8952068}]}

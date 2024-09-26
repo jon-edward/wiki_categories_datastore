@@ -1,1 +1,1 @@
-{"name": "Maritime_pilotage", "id": 47870447, "predecessors": [{"name": "Navigation", "id": 716308}], "successors": []}
+{"name": "Maritime_pilotage", "id": 47870447, "predecessors": [{"name": "Marine_occupations", "id": 7258620}, {"name": "Navigation", "id": 716308}], "successors": []}

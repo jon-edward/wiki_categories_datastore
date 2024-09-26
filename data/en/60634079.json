@@ -1,1 +1,1 @@
-{"name": "Amusement_park_attractions_introduced_in_2016", "id": 60634079, "predecessors": [{"name": "2016_introductions", "id": 42502473}], "successors": [{"name": "Amusement_rides_introduced_in_2016", "id": 49202955}]}
+{"name": "Amusement_park_attractions_introduced_in_2016", "id": 60634079, "predecessors": [{"name": "2016_introductions", "id": 42502473}, {"name": "Amusement_park_attractions", "id": 54597396}], "successors": [{"name": "Amusement_rides_introduced_in_2016", "id": 49202955}]}

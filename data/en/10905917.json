@@ -1,1 +1,1 @@
-{"name": "Employment_agencies", "id": 10905917, "predecessors": [{"name": "Recruitment", "id": 16773099}], "successors": [{"name": "Public_employment_service", "id": 43219947}]}
+{"name": "Employment_agencies", "id": 10905917, "predecessors": [{"name": "Recruitment", "id": 16773099}, {"name": "Services_sector_of_the_economy", "id": 10887914}], "successors": [{"name": "Public_employment_service", "id": 43219947}]}

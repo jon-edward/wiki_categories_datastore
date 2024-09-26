@@ -1,1 +1,1 @@
-{"name": "Industrial_computing", "id": 14236835, "predecessors": [{"name": "Industrial_engineering", "id": 11034627}], "successors": []}
+{"name": "Industrial_computing", "id": 14236835, "predecessors": [{"name": "Automation", "id": 885076}, {"name": "Industrial_engineering", "id": 11034627}], "successors": [{"name": "Programmable_logic_controllers", "id": 47862836}, {"name": "Digital_manufacturing", "id": 52171371}]}

@@ -1,1 +1,1 @@
-{"name": "1943_books", "id": 770927, "predecessors": [{"name": "1943", "id": 885558}], "successors": [{"name": "1943_children's_books", "id": 53976742}, {"name": "1943_non-fiction_books", "id": 62373736}, {"name": "1943_American_novels", "id": 51378959}, {"name": "1943_British_novels", "id": 51386551}]}
+{"name": "1943_books", "id": 770927, "predecessors": [{"name": "1943", "id": 885558}, {"name": "20th-century_literature", "id": 38322217}], "successors": [{"name": "1943_children's_books", "id": 53976742}, {"name": "1943_non-fiction_books", "id": 62373736}]}

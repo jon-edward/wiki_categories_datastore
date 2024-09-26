@@ -1,1 +1,1 @@
-{"name": "Medieval_banking", "id": 24965489, "predecessors": [{"name": "Medieval_economic_history", "id": 24244269}], "successors": []}
+{"name": "Medieval_banking", "id": 24965489, "predecessors": [{"name": "History_of_banking", "id": 5879849}, {"name": "Medieval_economic_history", "id": 24244269}], "successors": [{"name": "Medieval_bankers", "id": 37889563}]}

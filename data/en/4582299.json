@@ -1,1 +1,1 @@
-{"name": "Sound_modules", "id": 4582299, "predecessors": [{"name": "MIDI_instruments", "id": 36418691}, {"name": "Synthesizers", "id": 757735}], "successors": []}
+{"name": "Sound_modules", "id": 4582299, "predecessors": [{"name": "MIDI_instruments", "id": 36418691}], "successors": []}

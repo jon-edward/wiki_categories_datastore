@@ -1,1 +1,1 @@
-{"name": "Terrorism_by_method", "id": 29472131, "predecessors": [{"name": "Terrorism", "id": 701590}], "successors": [{"name": "Terrorism_tactics", "id": 11671334}, {"name": "Nuclear_terrorism", "id": 16547161}, {"name": "Bioterrorism", "id": 24468089}]}
+{"name": "Terrorism_by_method", "id": 29472131, "predecessors": [{"name": "Terrorism", "id": 701590}], "successors": [{"name": "Nuclear_terrorism", "id": 16547161}, {"name": "Bioterrorism", "id": 24468089}]}

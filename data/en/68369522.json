@@ -1,1 +1,1 @@
-{"name": "Anglican_liturgical_books", "id": 68369522, "predecessors": [{"name": "Anglican_liturgy", "id": 17843674}], "successors": [{"name": "Book_of_Common_Prayer", "id": 9339747}]}
+{"name": "Anglican_liturgical_books", "id": 68369522, "predecessors": [{"name": "Anglican_liturgy", "id": 17843674}, {"name": "Anglicanism", "id": 771339}], "successors": [{"name": "Book_of_Common_Prayer", "id": 9339747}]}

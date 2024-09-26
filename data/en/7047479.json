@@ -1,1 +1,1 @@
-{"name": "Shipping_companies_of_Hong_Kong", "id": 7047479, "predecessors": [{"name": "Transport_operators_of_Hong_Kong", "id": 1627517}], "successors": [{"name": "Star_Ferry", "id": 4532394}]}
+{"name": "Shipping_companies_of_Hong_Kong", "id": 7047479, "predecessors": [{"name": "Shipping_companies_of_China", "id": 16052803}, {"name": "Transport_operators_of_Hong_Kong", "id": 1627517}, {"name": "Maritime_transport", "id": 56494593}], "successors": [{"name": "Star_Ferry", "id": 4532394}]}

@@ -1,1 +1,1 @@
-{"name": "Canadian_gold_prospectors", "id": 23496002, "predecessors": [{"name": "Canadian_miners", "id": 9373794}, {"name": "Canadian_prospectors", "id": 11402477}, {"name": "Gold_prospectors", "id": 4363544}, {"name": "Mining", "id": 843521}], "successors": [{"name": "People_of_the_Klondike_Gold_Rush", "id": 23567331}]}
+{"name": "Canadian_gold_prospectors", "id": 23496002, "predecessors": [{"name": "Canadian_miners", "id": 9373794}, {"name": "Gold_mining", "id": 3046004}], "successors": [{"name": "People_of_the_Klondike_Gold_Rush", "id": 23567331}]}

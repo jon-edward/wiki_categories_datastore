@@ -1,1 +1,1 @@
-{"name": "Tents", "id": 41043521, "predecessors": [{"name": "Camping_equipment", "id": 1690626}, {"name": "Portable_buildings_and_shelters", "id": 29156077}], "successors": [{"name": "Tipis", "id": 69154267}]}
+{"name": "Tents", "id": 41043521, "predecessors": [{"name": "Camping_equipment", "id": 1690626}], "successors": [{"name": "Tipis", "id": 69154267}]}

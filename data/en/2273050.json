@@ -1,1 +1,1 @@
-{"name": "Blindness_equipment", "id": 2273050, "predecessors": [{"name": "Assistive_technology", "id": 945499}], "successors": [{"name": "Screen_readers", "id": 1899544}, {"name": "Braille_technology", "id": 36389939}]}
+{"name": "Blindness_equipment", "id": 2273050, "predecessors": [{"name": "Assistive_technology", "id": 945499}, {"name": "Blindness", "id": 2173860}], "successors": [{"name": "Braille_technology", "id": 36389939}]}

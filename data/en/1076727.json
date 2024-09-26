@@ -1,1 +1,1 @@
-{"name": "Ratites", "id": 1076727, "predecessors": [{"name": "Birds_by_common_name", "id": 11002423}, {"name": "Flightless_birds", "id": 3604894}, {"name": "Birds", "id": 953524}], "successors": [{"name": "Apteryx", "id": 5975744}]}
+{"name": "Ratites", "id": 1076727, "predecessors": [{"name": "Birds_by_common_name", "id": 11002423}, {"name": "Flightless_birds", "id": 3604894}, {"name": "Albian_first_appearances", "id": 47762965}], "successors": [{"name": "Struthio", "id": 5829843}, {"name": "Apteryx", "id": 5975744}, {"name": "Emus", "id": 61540123}]}

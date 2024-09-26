@@ -1,1 +1,0 @@
-{"name": "Hybrid_fruit", "id": 2520602, "predecessors": [{"name": "Edible_fruits", "id": 39951547}, {"name": "Garden_plants", "id": 1331915}, {"name": "Edible_plants", "id": 1318013}], "successors": [{"name": "Hybrid_prunus", "id": 3551284}, {"name": "Hybrid_grape_varieties", "id": 4866453}, {"name": "Citrus_hybrids", "id": 34314271}]}

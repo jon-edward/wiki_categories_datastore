@@ -1,1 +1,1 @@
-{"name": "Las_Vegas_Bowl", "id": 40917889, "predecessors": [{"name": "College_football_bowls", "id": 1217861}], "successors": [{"name": "Las_Vegas_Bowl_champion_seasons", "id": 40923670}]}
+{"name": "Las_Vegas_Bowl", "id": 40917889, "predecessors": [{"name": "College_football_bowls", "id": 1217861}, {"name": "Sports_competitions_in_Las_Vegas", "id": 56731920}, {"name": "Sports_in_Las_Vegas", "id": 36954921}, {"name": "American_football_competitions_in_Nevada", "id": 76370489}], "successors": [{"name": "Las_Vegas_Bowl_champion_seasons", "id": 40923670}]}

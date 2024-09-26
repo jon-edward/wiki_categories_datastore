@@ -1,1 +1,1 @@
-{"name": "Sports_law", "id": 7298233, "predecessors": [{"name": "Health_law", "id": 1585045}], "successors": [{"name": "Doping_in_sport", "id": 36868822}, {"name": "Fisheries_law", "id": 40950612}]}
+{"name": "Sports_law", "id": 7298233, "predecessors": [{"name": "Health_law", "id": 1585045}, {"name": "Politics_and_sports", "id": 43968163}], "successors": [{"name": "Fisheries_law", "id": 40950612}, {"name": "Hunting_legislation", "id": 44264784}]}

@@ -1,1 +1,1 @@
-{"name": "Locks_(water_navigation)", "id": 6523300, "predecessors": [{"name": "Vertical_transport_devices", "id": 30136127}, {"name": "Water_transport_infrastructure", "id": 3037022}], "successors": [{"name": "Stop_locks", "id": 23950252}]}
+{"name": "Locks_(water_navigation)", "id": 6523300, "predecessors": [{"name": "Rivers", "id": 695393}, {"name": "Ship_canals", "id": 16927755}, {"name": "Vertical_transport_devices", "id": 30136127}, {"name": "Water_transport_infrastructure", "id": 3037022}], "successors": [{"name": "Stop_locks", "id": 23950252}]}

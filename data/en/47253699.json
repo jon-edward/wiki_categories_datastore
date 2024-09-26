@@ -1,1 +1,1 @@
-{"name": "Species_endangered_by_the_pet_trade", "id": 47253699, "predecessors": [{"name": "Endangered_animals", "id": 22450356}, {"name": "Pets", "id": 737815}, {"name": "Endangered_species", "id": 759296}], "successors": []}
+{"name": "Species_endangered_by_the_pet_trade", "id": 47253699, "predecessors": [{"name": "Pets", "id": 737815}, {"name": "Endangered_species", "id": 759296}], "successors": []}

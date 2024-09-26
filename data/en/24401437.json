@@ -1,1 +1,1 @@
-{"name": "Speed_skating_venues", "id": 24401437, "predecessors": [{"name": "Ice_rinks", "id": 49658627}, {"name": "Event_management", "id": 38591267}], "successors": [{"name": "Olympic_speed_skating_venues", "id": 31306354}]}
+{"name": "Speed_skating_venues", "id": 24401437, "predecessors": [{"name": "Ice_rinks", "id": 49658627}, {"name": "Speed_skating", "id": 700819}, {"name": "Racing", "id": 43030261}, {"name": "Event_management", "id": 38591267}], "successors": [{"name": "Olympic_speed_skating_venues", "id": 31306354}]}

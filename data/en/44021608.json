@@ -1,1 +1,1 @@
-{"name": "Freshwater_plants", "id": 44021608, "predecessors": [{"name": "Aquatic_plants", "id": 1069224}], "successors": []}
+{"name": "Freshwater_plants", "id": 44021608, "predecessors": [{"name": "Aquatic_plants", "id": 1069224}, {"name": "Aquatic_organisms", "id": 1460650}], "successors": []}

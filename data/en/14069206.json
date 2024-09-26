@@ -1,1 +1,1 @@
-{"name": "Political_sex_scandals", "id": 14069206, "predecessors": [{"name": "Political_scandals", "id": 1896257}], "successors": []}
+{"name": "Political_sex_scandals", "id": 14069206, "predecessors": [{"name": "Sex_scandals", "id": 3008131}], "successors": [{"name": "LGBTQ-related_political_scandals", "id": 70240393}]}

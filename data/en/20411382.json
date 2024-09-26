@@ -1,1 +1,1 @@
-{"name": "Austrian_books", "id": 20411382, "predecessors": [{"name": "Austrian_literature", "id": 3150582}], "successors": [{"name": "Austrian_novels", "id": 4784313}, {"name": "Austrian_autobiographers", "id": 20516675}]}
+{"name": "Austrian_books", "id": 20411382, "predecessors": [{"name": "Austrian_literature", "id": 3150582}, {"name": "Culture_of_Austria", "id": 727017}], "successors": [{"name": "Austrian_novels", "id": 4784313}, {"name": "Austrian_autobiographers", "id": 20516675}]}

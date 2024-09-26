@@ -1,1 +1,1 @@
-{"name": "Wildlife_parks", "id": 51661181, "predecessors": [{"name": "Zoos", "id": 700581}], "successors": []}
+{"name": "Wildlife_parks", "id": 51661181, "predecessors": [{"name": "Zoos", "id": 700581}], "successors": [{"name": "Wildlife_parks_in_Australia", "id": 62710847}]}

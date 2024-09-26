@@ -1,1 +1,1 @@
-{"name": "Coins_of_Japan", "id": 5589321, "predecessors": [{"name": "Coins", "id": 904510}], "successors": [{"name": "Japanese_yen_coins", "id": 65801154}]}
+{"name": "Coins_of_Japan", "id": 5589321, "predecessors": [{"name": "Currencies_of_Japan", "id": 7393488}, {"name": "Coins", "id": 904510}], "successors": [{"name": "Japanese_yen_coins", "id": 65801154}]}

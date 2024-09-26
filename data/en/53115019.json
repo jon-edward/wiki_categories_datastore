@@ -1,1 +1,1 @@
-{"name": "Passenger_ship_terminals", "id": 53115019, "predecessors": [{"name": "Ports_and_harbours", "id": 3047410}, {"name": "Transport_infrastructure", "id": 2962532}, {"name": "Water_transport_infrastructure", "id": 3037022}], "successors": []}
+{"name": "Passenger_ship_terminals", "id": 53115019, "predecessors": [{"name": "Ports_and_harbours", "id": 3047410}, {"name": "Public_transport", "id": 700497}, {"name": "Water_transport_infrastructure", "id": 3037022}], "successors": [{"name": "Cruise_seaports", "id": 74065244}]}

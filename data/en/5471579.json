@@ -1,1 +1,1 @@
-{"name": "Hot_Wheels", "id": 5471579, "predecessors": [{"name": "Toy_brands", "id": 6076778}, {"name": "Toy_cars_and_trucks", "id": 892901}, {"name": "Mattel", "id": 4683817}], "successors": [{"name": "Hot_Wheels_video_games", "id": 31451733}]}
+{"name": "Hot_Wheels", "id": 5471579, "predecessors": [{"name": "Toy_cars_and_trucks", "id": 892901}, {"name": "Mattel", "id": 4683817}], "successors": [{"name": "Hot_Wheels_video_games", "id": 31451733}]}

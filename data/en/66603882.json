@@ -1,1 +1,1 @@
-{"name": "Chengdu_Metro_lines", "id": 66603882, "predecessors": [{"name": "Underground_rapid_transit_in_China", "id": 32579763}], "successors": []}
+{"name": "Chengdu_Metro_lines", "id": 66603882, "predecessors": [{"name": "Transport_in_Chengdu", "id": 44281323}, {"name": "Railway_lines_in_China", "id": 37504891}], "successors": []}

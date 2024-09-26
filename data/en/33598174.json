@@ -1,1 +1,1 @@
-{"name": "Medellín_Cartel", "id": 33598174, "predecessors": [{"name": "Colombian_Mafia", "id": 73938530}], "successors": [{"name": "Medellín_Cartel_traffickers", "id": 9017531}]}
+{"name": "Medellín_Cartel", "id": 33598174, "predecessors": [{"name": "Colombian_Mafia", "id": 73938530}, {"name": "Medellín", "id": 21302994}, {"name": "Pablo_Escobar", "id": 44032237}, {"name": "Gangs", "id": 713684}, {"name": "Americas", "id": 1526345}], "successors": [{"name": "Medellín_Cartel_traffickers", "id": 9017531}]}

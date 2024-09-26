@@ -1,1 +1,1 @@
-{"name": "Gadolinium_compounds", "id": 2309991, "predecessors": [{"name": "Chemical_compounds_by_element", "id": 1674961}], "successors": [{"name": "Organogadolinium_compounds", "id": 28740547}]}
+{"name": "Gadolinium_compounds", "id": 2309991, "predecessors": [{"name": "Chemical_compounds_by_element", "id": 1674961}, {"name": "Chemical_elements", "id": 691255}], "successors": [{"name": "Organogadolinium_compounds", "id": 28740547}]}

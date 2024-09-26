@@ -1,1 +1,1 @@
-{"name": "Interglacials", "id": 51341288, "predecessors": [{"name": "Ice_ages", "id": 4417589}], "successors": [{"name": "Holocene", "id": 1783906}]}
+{"name": "Interglacials", "id": 51341288, "predecessors": [{"name": "Glaciology", "id": 717148}, {"name": "Ice_ages", "id": 4417589}], "successors": [{"name": "Holocene", "id": 1783906}]}

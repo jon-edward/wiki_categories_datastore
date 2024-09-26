@@ -1,1 +1,1 @@
-{"name": "Amateur_radio_transceivers", "id": 4124678, "predecessors": [{"name": "Amateur_radio", "id": 702878}, {"name": "Radiofrequency_receivers", "id": 7887580}], "successors": []}
+{"name": "Amateur_radio_transceivers", "id": 4124678, "predecessors": [{"name": "Amateur_radio", "id": 702878}, {"name": "Radiofrequency_receivers", "id": 7887580}, {"name": "Types_of_radios", "id": 906139}], "successors": []}

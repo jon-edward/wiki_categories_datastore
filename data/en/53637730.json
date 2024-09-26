@@ -1,1 +1,1 @@
-{"name": "Korean_vegetables", "id": 53637730, "predecessors": [{"name": "Vegetables", "id": 699347}, {"name": "Asian_vegetables", "id": 52701327}], "successors": [{"name": "Namul", "id": 9422500}, {"name": "Kimchi", "id": 9412422}]}
+{"name": "Korean_vegetables", "id": 53637730, "predecessors": [{"name": "Korean_cuisine", "id": 805747}, {"name": "Asian_vegetables", "id": 52701327}], "successors": [{"name": "Namul", "id": 9422500}]}

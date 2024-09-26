@@ -1,1 +1,1 @@
-{"name": "Italian_Space_Agency", "id": 52595244, "predecessors": [{"name": "European_space_programmes", "id": 23143037}], "successors": [{"name": "Spacecraft_launched_by_Vega_rockets", "id": 52750652}]}
+{"name": "Italian_Space_Agency", "id": 52595244, "predecessors": [{"name": "Space_agencies", "id": 1031839}, {"name": "European_space_programmes", "id": 23143037}], "successors": [{"name": "Spacecraft_launched_by_Vega_rockets", "id": 52750652}]}

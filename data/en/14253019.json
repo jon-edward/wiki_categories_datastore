@@ -1,1 +1,1 @@
-{"name": "Singapore_Grand_Prix", "id": 14253019, "predecessors": [{"name": "Sport_in_Singapore", "id": 3056393}, {"name": "Formula_One", "id": 699395}], "successors": []}
+{"name": "Singapore_Grand_Prix", "id": 14253019, "predecessors": [{"name": "Formula_One_Grands_Prix", "id": 967669}, {"name": "National_Grands_Prix", "id": 23542372}, {"name": "Sport_in_Singapore", "id": 3056393}, {"name": "Formula_One", "id": 699395}], "successors": []}

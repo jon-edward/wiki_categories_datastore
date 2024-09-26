@@ -1,1 +1,1 @@
-{"name": "Chinese_melee_weapons", "id": 36667813, "predecessors": [{"name": "Melee_weapons", "id": 36667799}], "successors": []}
+{"name": "Chinese_melee_weapons", "id": 36667813, "predecessors": [{"name": "Chinese_martial_arts", "id": 1068505}, {"name": "Melee_weapons", "id": 36667799}], "successors": [{"name": "Chinese_swords", "id": 2569126}]}

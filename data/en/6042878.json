@@ -1,1 +1,1 @@
-{"name": "Canadian_wine", "id": 6042878, "predecessors": [{"name": "Canadian_alcoholic_drinks", "id": 24682330}, {"name": "Canadian_cuisine", "id": 706035}, {"name": "Health_in_Canada", "id": 4723025}], "successors": []}
+{"name": "Canadian_wine", "id": 6042878, "predecessors": [{"name": "Canadian_alcoholic_drinks", "id": 24682330}, {"name": "Canadian_cuisine", "id": 706035}, {"name": "Alcohol_by_country", "id": 24323097}], "successors": []}

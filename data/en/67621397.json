@@ -1,1 +1,1 @@
-{"name": "Zen_Buddhist_monks", "id": 67621397, "predecessors": [{"name": "Chan_Buddhist_monks", "id": 62071200}, {"name": "Chan_Buddhists", "id": 17037770}], "successors": [{"name": "Zen_Buddhist_abbots", "id": 67635277}]}
+{"name": "Zen_Buddhist_monks", "id": 67621397, "predecessors": [{"name": "Chan_Buddhist_monks", "id": 62071200}, {"name": "Jain_philosophy", "id": 24806891}], "successors": [{"name": "Zen_Buddhist_abbots", "id": 67635277}]}

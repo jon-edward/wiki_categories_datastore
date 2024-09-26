@@ -1,1 +1,1 @@
-{"name": "Chinese_edible_mushrooms", "id": 7087590, "predecessors": [{"name": "Edible_fungi", "id": 22255031}], "successors": []}
+{"name": "Chinese_edible_mushrooms", "id": 7087590, "predecessors": [{"name": "Chinese_cuisine", "id": 698765}, {"name": "Edible_fungi", "id": 22255031}], "successors": []}

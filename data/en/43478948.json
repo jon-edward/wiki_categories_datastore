@@ -1,1 +1,1 @@
-{"name": "CSIO_Gijón", "id": 43478948, "predecessors": [{"name": "Sport_in_Gijón", "id": 19822935}], "successors": []}
+{"name": "CSIO_Gijón", "id": 43478948, "predecessors": [{"name": "Show_jumping_events", "id": 19223763}, {"name": "Sport_in_Gijón", "id": 19822935}, {"name": "Sport_in_Spain", "id": 3058492}], "successors": []}

@@ -1,0 +1,1 @@
+{"name": "Metaprogramming", "id": 34761132, "predecessors": [{"name": "Generic_programming", "id": 9295809}], "successors": [{"name": "Compiler_optimizations", "id": 1771298}, {"name": "Source-to-source_compilers", "id": 36827087}]}

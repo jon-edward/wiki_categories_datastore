@@ -1,1 +1,1 @@
-{"name": "Document_forgeries", "id": 24454218, "predecessors": [{"name": "Document_forgery", "id": 765878}, {"name": "Forgery", "id": 735422}], "successors": [{"name": "Literary_forgeries", "id": 1639809}, {"name": "Photography_forgeries", "id": 67292655}]}
+{"name": "Document_forgeries", "id": 24454218, "predecessors": [{"name": "Document_forgery", "id": 765878}], "successors": [{"name": "Literary_forgeries", "id": 1639809}, {"name": "Photography_forgeries", "id": 67292655}]}

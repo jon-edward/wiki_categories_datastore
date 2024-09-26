@@ -1,1 +1,1 @@
-{"name": "Time-sharing", "id": 48535517, "predecessors": [{"name": "Centralized_computing", "id": 10683135}], "successors": []}
+{"name": "Time-sharing", "id": 48535517, "predecessors": [{"name": "Centralized_computing", "id": 10683135}], "successors": [{"name": "Time-sharing_operating_systems", "id": 20309215}, {"name": "Time-sharing_companies", "id": 40776924}]}

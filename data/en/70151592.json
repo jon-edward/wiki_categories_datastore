@@ -1,1 +1,1 @@
-{"name": "Sport_in_Zemun", "id": 70151592, "predecessors": [{"name": "Zemun", "id": 31686794}], "successors": [{"name": "FK_Zemun_players", "id": 20480143}, {"name": "FK_Zemun_managers", "id": 44927572}, {"name": "FK_Teleoptik_players", "id": 26373250}, {"name": "FK_Teleoptik_managers", "id": 44927426}]}
+{"name": "Sport_in_Zemun", "id": 70151592, "predecessors": [{"name": "Zemun", "id": 31686794}], "successors": []}

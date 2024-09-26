@@ -1,1 +1,1 @@
-{"name": "Environmental_toxicology", "id": 22529583, "predecessors": [{"name": "Environmental_health", "id": 17265684}, {"name": "Occupational_safety_and_health", "id": 1215289}, {"name": "Toxicology", "id": 1043816}], "successors": []}
+{"name": "Environmental_toxicology", "id": 22529583, "predecessors": [{"name": "Environmental_health", "id": 17265684}, {"name": "Occupational_safety_and_health", "id": 1215289}, {"name": "Toxicology", "id": 1043816}], "successors": [{"name": "Ecotoxicology", "id": 56080504}]}

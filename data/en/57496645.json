@@ -1,1 +1,1 @@
-{"name": "Sports_venue_architects", "id": 57496645, "predecessors": [{"name": "Sports_venues", "id": 3826004}, {"name": "Architecture", "id": 708984}], "successors": [{"name": "Golf_course_architects", "id": 1569177}, {"name": "Zaha_Hadid_buildings", "id": 7333850}]}
+{"name": "Sports_venue_architects", "id": 57496645, "predecessors": [{"name": "Sports_venues", "id": 3826004}], "successors": [{"name": "Golf_course_architects", "id": 1569177}]}

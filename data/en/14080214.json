@@ -1,1 +1,1 @@
-{"name": "Incarcerated_spies", "id": 14080214, "predecessors": [{"name": "Imprisonment_and_detention", "id": 2395825}], "successors": [{"name": "Spies_who_died_in_prison_custody", "id": 14080647}]}
+{"name": "Incarcerated_spies", "id": 14080214, "predecessors": [{"name": "People_convicted_of_spying", "id": 37573765}], "successors": [{"name": "Spies_who_died_in_prison_custody", "id": 14080647}]}

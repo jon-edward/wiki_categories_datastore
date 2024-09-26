@@ -1,1 +1,1 @@
-{"name": "Buick_engines", "id": 1430669, "predecessors": [{"name": "Automobile_engines", "id": 773958}, {"name": "General_Motors_engines", "id": 39314719}], "successors": []}
+{"name": "Buick_engines", "id": 1430669, "predecessors": [{"name": "Automobile_engines", "id": 773958}, {"name": "Buick", "id": 1003171}, {"name": "General_Motors_engines", "id": 39314719}], "successors": []}

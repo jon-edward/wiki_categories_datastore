@@ -1,1 +1,1 @@
-{"name": "European_weapons", "id": 74441571, "predecessors": [{"name": "Weapons", "id": 698507}], "successors": [{"name": "European_swords", "id": 739367}, {"name": "Renaissance-era_weapons", "id": 22111481}, {"name": "Viking_swords", "id": 28371165}]}
+{"name": "European_weapons", "id": 74441571, "predecessors": [{"name": "Military_history_of_Europe", "id": 13165844}, {"name": "Weapons", "id": 698507}], "successors": [{"name": "European_swords", "id": 739367}, {"name": "Renaissance-era_weapons", "id": 22111481}, {"name": "Viking_swords", "id": 28371165}]}

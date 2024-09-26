@@ -1,0 +1,1 @@
+{"name": "Burglary", "id": 54756378, "predecessors": [{"name": "Crime_by_type", "id": 15090762}, {"name": "Theft", "id": 1515403}], "successors": [{"name": "Burglars", "id": 1133473}, {"name": "Watergate_scandal", "id": 22877410}, {"name": "Films_about_burglary", "id": 54756506}]}

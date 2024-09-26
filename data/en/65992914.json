@@ -1,1 +1,1 @@
-{"name": "DEC_computers", "id": 65992914, "predecessors": [{"name": "Computers", "id": 4583997}], "successors": [{"name": "DEC_minicomputers", "id": 70013650}]}
+{"name": "DEC_computers", "id": 65992914, "predecessors": [{"name": "DEC_hardware", "id": 738111}, {"name": "Computers", "id": 4583997}], "successors": [{"name": "DEC_minicomputers", "id": 70013650}]}

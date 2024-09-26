@@ -1,1 +1,1 @@
-{"name": "Video_game_designers", "id": 9568387, "predecessors": [{"name": "Video_game_design", "id": 9568249}, {"name": "Video_game_developers", "id": 9568425}], "successors": [{"name": "Final_Fantasy_designers", "id": 1900438}, {"name": "Dungeons_&_Dragons_video_game_designers", "id": 21642305}, {"name": "Women_video_game_designers", "id": 45205698}]}
+{"name": "Video_game_designers", "id": 9568387, "predecessors": [{"name": "Video_game_design", "id": 9568249}, {"name": "Video_game_developers", "id": 9568425}, {"name": "Game_design", "id": 6349444}], "successors": []}

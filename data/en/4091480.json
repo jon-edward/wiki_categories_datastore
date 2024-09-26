@@ -1,1 +1,1 @@
-{"name": "Ornithological_citizen_science", "id": 4091480, "predecessors": [{"name": "Birdwatching", "id": 2543327}, {"name": "Citizen_science", "id": 4091482}], "successors": []}
+{"name": "Ornithological_citizen_science", "id": 4091480, "predecessors": [{"name": "Birdwatching", "id": 2543327}, {"name": "Citizen_science", "id": 4091482}, {"name": "Ornithology", "id": 1247364}], "successors": []}

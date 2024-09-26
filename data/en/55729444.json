@@ -1,1 +1,1 @@
-{"name": "Crimes_in_Manhattan", "id": 55729444, "predecessors": [{"name": "Crimes_in_New_York_City", "id": 44623163}, {"name": "Urban_decay_in_the_United_States", "id": 31548010}], "successors": [{"name": "September_11_attacks", "id": 19230513}]}
+{"name": "Crimes_in_Manhattan", "id": 55729444, "predecessors": [{"name": "Crimes_in_New_York_City", "id": 44623163}, {"name": "Manhattan", "id": 700742}, {"name": "Crime_in_the_United_States", "id": 3386178}], "successors": [{"name": "September_11_attacks", "id": 19230513}]}

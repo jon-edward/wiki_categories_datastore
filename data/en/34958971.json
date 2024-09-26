@@ -1,1 +1,1 @@
-{"name": "Network_address_translation", "id": 34958971, "predecessors": [{"name": "Internet_architecture", "id": 1111447}, {"name": "Network_layer_protocols", "id": 7940366}], "successors": []}
+{"name": "Network_address_translation", "id": 34958971, "predecessors": [{"name": "Internet_architecture", "id": 1111447}, {"name": "Network_addressing", "id": 5075431}, {"name": "Network_layer_protocols", "id": 7940366}], "successors": []}

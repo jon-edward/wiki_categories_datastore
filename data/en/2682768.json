@@ -1,1 +1,1 @@
-{"name": "Metal_forming", "id": 2682768, "predecessors": [{"name": "Forming_processes", "id": 42703403}, {"name": "Metalworking", "id": 1069682}], "successors": [{"name": "Rolling_mills", "id": 1984221}]}
+{"name": "Metal_forming", "id": 2682768, "predecessors": [{"name": "Forming_processes", "id": 42703403}, {"name": "Metalworking", "id": 1069682}], "successors": [{"name": "Rolling_mills", "id": 1984221}, {"name": "Casting_(manufacturing)", "id": 24160894}, {"name": "Presswork", "id": 40495209}]}

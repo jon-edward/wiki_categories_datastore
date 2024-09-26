@@ -1,1 +1,1 @@
-{"name": "Sacred_caves", "id": 28073220, "predecessors": [{"name": "Caves", "id": 824482}, {"name": "Rock-cut_architecture", "id": 42380454}, {"name": "Sacred_natural_sites", "id": 24970119}], "successors": []}
+{"name": "Sacred_caves", "id": 28073220, "predecessors": [{"name": "Caves", "id": 824482}, {"name": "Rock-cut_architecture", "id": 42380454}, {"name": "Sacred_natural_sites", "id": 24970119}], "successors": [{"name": "Cave_monasteries", "id": 38231807}, {"name": "Cave_churches", "id": 61087791}]}

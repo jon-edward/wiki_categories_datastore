@@ -1,1 +1,1 @@
-{"name": "Ironclad_classes", "id": 15097573, "predecessors": [{"name": "Ship_classes", "id": 730439}], "successors": [{"name": "Provence-class_ironclads", "id": 41102746}]}
+{"name": "Ironclad_classes", "id": 15097573, "predecessors": [{"name": "Ship_types", "id": 712258}, {"name": "Ship_classes", "id": 730439}], "successors": [{"name": "Provence-class_ironclads", "id": 41102746}]}

@@ -1,1 +1,1 @@
-{"name": "Military_research_institutes", "id": 47530489, "predecessors": [{"name": "Military_organization", "id": 1054894}, {"name": "Military_science", "id": 1437392}], "successors": []}
+{"name": "Military_research_institutes", "id": 47530489, "predecessors": [{"name": "Military_organization", "id": 1054894}, {"name": "Research_institutes", "id": 697108}, {"name": "Research_and_development", "id": 3594251}], "successors": [{"name": "Defence_Research_and_Development_Organisation", "id": 15466816}, {"name": "DARPA", "id": 37942742}]}

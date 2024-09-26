@@ -1,1 +1,1 @@
-{"name": "Lorises_and_galagos", "id": 26201603, "predecessors": [{"name": "Mammal_taxonomy", "id": 39031289}, {"name": "Taxa_named_by_Étienne_Geoffroy_Saint-Hilaire", "id": 50628538}], "successors": [{"name": "Galagos", "id": 54154754}, {"name": "Galagidae", "id": 55398587}, {"name": "Slow_lorises", "id": 54402572}]}
+{"name": "Lorises_and_galagos", "id": 26201603, "predecessors": [{"name": "Mammal_taxonomy", "id": 39031289}, {"name": "Extant_Eocene_first_appearances", "id": 48650167}], "successors": [{"name": "Galagos", "id": 54154754}]}

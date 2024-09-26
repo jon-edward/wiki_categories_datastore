@@ -1,1 +1,1 @@
-{"name": "High-speed_rail_in_China", "id": 37504742, "predecessors": [{"name": "Passenger_rail_transport", "id": 5356605}], "successors": [{"name": "High-speed_trains_of_China", "id": 24850904}]}
+{"name": "High-speed_rail_in_China", "id": 37504742, "predecessors": [{"name": "Passenger_rail_transport_in_China", "id": 37504720}, {"name": "Rail_transport_in_China", "id": 35558066}], "successors": [{"name": "High-speed_trains_of_China", "id": 24850904}, {"name": "High-speed_railway_lines_in_China", "id": 37504790}]}

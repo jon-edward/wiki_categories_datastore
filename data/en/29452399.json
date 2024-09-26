@@ -1,1 +1,1 @@
-{"name": "Wedding_traditions", "id": 29452399, "predecessors": [{"name": "Wedding", "id": 805639}], "successors": [{"name": "Indian_wedding_traditions", "id": 34586505}, {"name": "Badchens", "id": 66761405}]}
+{"name": "Wedding_traditions", "id": 29452399, "predecessors": [{"name": "Traditions", "id": 696248}, {"name": "Wedding", "id": 805639}], "successors": [{"name": "Indian_wedding_traditions", "id": 34586505}, {"name": "Badchens", "id": 66761405}]}

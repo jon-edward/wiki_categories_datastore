@@ -1,1 +1,1 @@
-{"name": "Pseudorandom_number_generators", "id": 1060172, "predecessors": [{"name": "Algorithms", "id": 691136}, {"name": "Pseudorandomness", "id": 4159939}, {"name": "Random_number_generation", "id": 38066142}], "successors": []}
+{"name": "Pseudorandom_number_generators", "id": 1060172, "predecessors": [{"name": "Algorithms", "id": 691136}, {"name": "Pseudorandomness", "id": 4159939}, {"name": "Random_number_generation", "id": 38066142}], "successors": [{"name": "Cryptographically_secure_pseudorandom_number_generators", "id": 4325366}]}

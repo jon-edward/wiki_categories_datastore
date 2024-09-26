@@ -1,1 +1,1 @@
-{"name": "Bone_carvings", "id": 72438612, "predecessors": [{"name": "Sculpture_materials", "id": 10308784}], "successors": []}
+{"name": "Bone_carvings", "id": 72438612, "predecessors": [{"name": "Bone_products", "id": 3150886}, {"name": "Sculpture_materials", "id": 10308784}], "successors": [{"name": "Netsuke-shi", "id": 62874534}]}

@@ -1,1 +1,1 @@
-{"name": "Oko", "id": 34985065, "predecessors": [{"name": "Missile_defense", "id": 13373210}, {"name": "Reconnaissance_satellites_of_the_Soviet_Union", "id": 5092665}], "successors": []}
+{"name": "Oko", "id": 34985065, "predecessors": [{"name": "Missile_defense", "id": 13373210}, {"name": "Reconnaissance_satellites_of_Russia", "id": 5092697}, {"name": "Reconnaissance_satellites_of_the_Soviet_Union", "id": 5092665}], "successors": []}

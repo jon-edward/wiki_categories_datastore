@@ -1,1 +1,1 @@
-{"name": "Tram_vehicles_of_Germany", "id": 14304031, "predecessors": [{"name": "Rolling_stock_of_Germany", "id": 25174195}], "successors": []}
+{"name": "Tram_vehicles_of_Germany", "id": 14304031, "predecessors": [{"name": "Rolling_stock_of_Germany", "id": 25174195}, {"name": "Tram_transport_in_Germany", "id": 3709601}, {"name": "Tram_vehicles", "id": 3709588}], "successors": []}

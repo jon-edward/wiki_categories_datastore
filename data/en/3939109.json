@@ -1,1 +1,1 @@
-{"name": "Fictional_drug_dealers", "id": 3939109, "predecessors": [{"name": "Drug_dealers", "id": 22342398}, {"name": "Drug_traffickers", "id": 1325880}], "successors": []}
+{"name": "Fictional_drug_dealers", "id": 3939109, "predecessors": [{"name": "Drug_dealers", "id": 22342398}, {"name": "Fictional_salespeople", "id": 7721387}, {"name": "Fictional_smugglers", "id": 47390922}, {"name": "Drug_traffickers", "id": 1325880}, {"name": "Crime_by_type", "id": 15090762}], "successors": [{"name": "Drug_dealers_of_The_Wire", "id": 39061839}]}

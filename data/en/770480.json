@@ -1,1 +1,1 @@
-{"name": "Automotive_accessories", "id": 770480, "predecessors": [{"name": "Auto_parts", "id": 2850556}], "successors": [{"name": "Automotive_electronics", "id": 22207541}, {"name": "Automobile_wheels", "id": 56204231}]}
+{"name": "Automotive_accessories", "id": 770480, "predecessors": [{"name": "Auto_parts", "id": 2850556}], "successors": [{"name": "Convertible_top_suppliers", "id": 4284217}, {"name": "Automotive_electronics", "id": 22207541}, {"name": "In-car_entertainment", "id": 23962508}, {"name": "Automobile_wheels", "id": 56204231}]}

@@ -1,1 +1,1 @@
-{"name": "Russian_space_probes", "id": 14704833, "predecessors": [{"name": "Space_probes", "id": 23636920}, {"name": "Space_program_of_Russia", "id": 36845342}], "successors": []}
+{"name": "Russian_space_probes", "id": 14704833, "predecessors": [{"name": "Space_probes", "id": 23636920}], "successors": [{"name": "ExoMars", "id": 35285903}]}

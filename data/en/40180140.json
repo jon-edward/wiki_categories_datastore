@@ -1,1 +1,1 @@
-{"name": "High-speed_rail_in_Spain", "id": 40180140, "predecessors": [{"name": "Passenger_rail_transport", "id": 5356605}], "successors": []}
+{"name": "High-speed_rail_in_Spain", "id": 40180140, "predecessors": [{"name": "Transport_in_Spain", "id": 4732180}], "successors": [{"name": "High-speed_railway_lines_in_Spain", "id": 21149587}]}

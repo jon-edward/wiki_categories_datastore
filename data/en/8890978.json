@@ -1,1 +1,1 @@
-{"name": "Audiology", "id": 8890978, "predecessors": [{"name": "Health_sciences", "id": 964864}], "successors": [{"name": "Audiologists", "id": 23323168}]}
+{"name": "Audiology", "id": 8890978, "predecessors": [{"name": "Health_sciences", "id": 964864}, {"name": "Medical_specialties", "id": 1449968}, {"name": "Neurology", "id": 714324}], "successors": [{"name": "Deafness", "id": 8326083}, {"name": "Audiologists", "id": 23323168}, {"name": "Audiology_journals", "id": 28577449}]}

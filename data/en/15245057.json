@@ -1,1 +1,1 @@
-{"name": "Synthetic_elements", "id": 15245057, "predecessors": [{"name": "Radioactivity", "id": 1008810}, {"name": "Synthetic_materials", "id": 2018552}], "successors": [{"name": "Hypothetical_chemical_elements", "id": 35975361}]}
+{"name": "Synthetic_elements", "id": 15245057, "predecessors": [{"name": "Chemical_elements", "id": 691255}, {"name": "Radioactivity", "id": 1008810}, {"name": "Sets_of_chemical_elements", "id": 43958874}, {"name": "Synthetic_materials", "id": 2018552}], "successors": [{"name": "Hypothetical_chemical_elements", "id": 35975361}]}

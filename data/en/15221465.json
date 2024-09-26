@@ -1,1 +1,1 @@
-{"name": "Canals_in_Staffordshire", "id": 15221465, "predecessors": [{"name": "Buildings_and_structures_in_Staffordshire", "id": 1773395}, {"name": "Tourist_attractions_in_Staffordshire", "id": 1773349}, {"name": "Transport_in_Staffordshire", "id": 1773340}, {"name": "Staffordshire", "id": 756224}], "successors": [{"name": "Trent_and_Mersey_Canal", "id": 41595478}]}
+{"name": "Canals_in_Staffordshire", "id": 15221465, "predecessors": [{"name": "Canals_in_England", "id": 3887308}], "successors": [{"name": "Trent_and_Mersey_Canal", "id": 41595478}]}

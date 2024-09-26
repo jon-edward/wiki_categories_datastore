@@ -1,1 +1,1 @@
-{"name": "Virtual_world_communities", "id": 67262717, "predecessors": [{"name": "Virtual_communities", "id": 1168796}], "successors": [{"name": "Metaverse", "id": 71384621}]}
+{"name": "Virtual_world_communities", "id": 67262717, "predecessors": [{"name": "Applications_of_distributed_computing", "id": 23786744}, {"name": "Virtual_communities", "id": 1168796}], "successors": [{"name": "Massively_multiplayer_online_games", "id": 696426}, {"name": "Second_Life", "id": 5193732}, {"name": "Metaverse", "id": 71384621}]}

@@ -1,1 +1,1 @@
-{"name": "Bus_transport_brands", "id": 9018518, "predecessors": [{"name": "Road_transport", "id": 700964}], "successors": []}
+{"name": "Bus_transport_brands", "id": 9018518, "predecessors": [{"name": "Road_transport", "id": 700964}], "successors": [{"name": "City_Sightseeing", "id": 44382615}, {"name": "Gray_Line_Worldwide", "id": 44382774}]}

@@ -1,1 +1,1 @@
-{"name": "Plague_churches", "id": 68231066, "predecessors": [{"name": "Plague_(disease)", "id": 36064382}], "successors": []}
+{"name": "Plague_churches", "id": 68231066, "predecessors": [{"name": "Church_buildings", "id": 19905850}, {"name": "Plague_(disease)", "id": 36064382}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Sufi_poetry", "id": 5050173, "predecessors": [{"name": "Islamic_poetry", "id": 4260711}, {"name": "Sufi_literature", "id": 2953743}], "successors": []}
+{"name": "Sufi_poetry", "id": 5050173, "predecessors": [{"name": "Islamic_poetry", "id": 4260711}, {"name": "Sufi_literature", "id": 2953743}, {"name": "Sufism", "id": 1045218}], "successors": [{"name": "Sufi_poets", "id": 4622520}]}

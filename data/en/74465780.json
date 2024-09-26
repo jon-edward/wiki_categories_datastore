@@ -1,1 +1,1 @@
-{"name": "Diplomatic_visits_to_China", "id": 74465780, "predecessors": [{"name": "Diplomatic_visits", "id": 36451838}], "successors": []}
+{"name": "Diplomatic_visits_to_China", "id": 74465780, "predecessors": [{"name": "Foreign_relations_of_China", "id": 24879036}, {"name": "Diplomatic_visits", "id": 36451838}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Rail_transport_of_heads_of_state", "id": 34138554, "predecessors": [{"name": "Passenger_rail_transport", "id": 5356605}, {"name": "Trains", "id": 1784707}, {"name": "Heads_of_state", "id": 700236}], "successors": []}
+{"name": "Rail_transport_of_heads_of_state", "id": 34138554, "predecessors": [{"name": "Trains", "id": 1784707}, {"name": "Heads_of_state", "id": 700236}], "successors": []}

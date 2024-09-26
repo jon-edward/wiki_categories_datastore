@@ -1,1 +1,1 @@
-{"name": "Software_documentation", "id": 21934500, "predecessors": [{"name": "Software_development", "id": 1470317}], "successors": [{"name": "Documentation_generators", "id": 1531958}, {"name": "Literate_programming", "id": 33313601}, {"name": "Source_code_documentation_formats", "id": 75663958}]}
+{"name": "Software_documentation", "id": 21934500, "predecessors": [{"name": "Software_development", "id": 1470317}], "successors": [{"name": "Documentation_generators", "id": 1531958}, {"name": "Literate_programming", "id": 33313601}]}

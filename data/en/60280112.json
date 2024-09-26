@@ -1,1 +1,1 @@
-{"name": "Missing_person_cases_in_Belgium", "id": 60280112, "predecessors": [{"name": "Benelux", "id": 33481662}], "successors": []}
+{"name": "Missing_person_cases_in_Belgium", "id": 60280112, "predecessors": [{"name": "Missing_person_cases_in_Europe", "id": 59520696}, {"name": "Society_of_Belgium", "id": 2673225}, {"name": "Regions_of_Europe", "id": 1023050}], "successors": []}

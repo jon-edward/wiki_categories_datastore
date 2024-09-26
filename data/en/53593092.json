@@ -1,1 +1,1 @@
-{"name": "Tampella", "id": 53593092, "predecessors": [{"name": "Weapons_manufacturing_companies", "id": 4694385}], "successors": []}
+{"name": "Tampella", "id": 53593092, "predecessors": [{"name": "Companies_based_in_Tampere", "id": 68435842}, {"name": "Weapons_manufacturing_companies", "id": 4694385}, {"name": "Manufacturing_companies_of_Finland", "id": 5378710}], "successors": []}

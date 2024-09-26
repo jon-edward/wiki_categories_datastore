@@ -1,1 +1,1 @@
-{"name": "Key_derivation_functions", "id": 37920127, "predecessors": [{"name": "Cryptographic_hash_functions", "id": 1060140}, {"name": "Key_management", "id": 3331067}, {"name": "Password_authentication", "id": 19244779}], "successors": []}
+{"name": "Key_derivation_functions", "id": 37920127, "predecessors": [{"name": "Computer_access_control_protocols", "id": 30936421}, {"name": "Cryptographic_hash_functions", "id": 1060140}, {"name": "Key_management", "id": 3331067}, {"name": "Password_authentication", "id": 19244779}], "successors": []}

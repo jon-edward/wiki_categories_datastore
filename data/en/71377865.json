@@ -1,1 +1,1 @@
-{"name": "Kyle_Busch", "id": 71377865, "predecessors": [{"name": "NASCAR_team_owners", "id": 33868277}, {"name": "21st_century", "id": 884422}], "successors": []}
+{"name": "Kyle_Busch", "id": 71377865, "predecessors": [{"name": "NASCAR_Cup_Series_champions", "id": 27312308}, {"name": "NASCAR_Xfinity_Series_champions", "id": 27312331}, {"name": "NASCAR_team_owners", "id": 33868277}], "successors": [{"name": "Kyle_Busch_Motorsports_drivers", "id": 69339425}]}

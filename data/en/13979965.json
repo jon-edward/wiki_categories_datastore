@@ -1,0 +1,1 @@
+{"name": "Beer_brands", "id": 13979965, "predecessors": [{"name": "Alcoholic_drink_brands", "id": 5109188}, {"name": "Beer", "id": 887222}, {"name": "Alcohol", "id": 1344286}], "successors": [{"name": "Heineken_brands", "id": 8023685}, {"name": "Molson_Coors_brands", "id": 25517761}, {"name": "AB_InBev_brands", "id": 31118292}, {"name": "Carlsberg_brands", "id": 75296640}]}

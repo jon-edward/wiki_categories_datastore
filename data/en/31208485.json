@@ -1,1 +1,1 @@
-{"name": "North_Carolina_sheriffs", "id": 31208485, "predecessors": [{"name": "County_sheriffs_in_the_United_States", "id": 39156540}], "successors": []}
+{"name": "North_Carolina_sheriffs", "id": 31208485, "predecessors": [{"name": "North_Carolina_counties", "id": 791391}, {"name": "County_sheriffs_in_the_United_States", "id": 39156540}], "successors": []}

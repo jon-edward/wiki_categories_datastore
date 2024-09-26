@@ -1,1 +1,1 @@
-{"name": "Tourist_attractions_in_Tel_Aviv", "id": 36736389, "predecessors": [{"name": "Urban_planning", "id": 705232}], "successors": [{"name": "Museums_in_Tel_Aviv", "id": 22631859}]}
+{"name": "Tourist_attractions_in_Tel_Aviv", "id": 36736389, "predecessors": [{"name": "Cities_in_Israel", "id": 1976148}, {"name": "Tel_Aviv_District", "id": 7952864}, {"name": "Economy_of_Israel", "id": 1158460}], "successors": [{"name": "Museums_in_Tel_Aviv", "id": 22631859}]}

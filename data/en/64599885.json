@@ -1,1 +1,1 @@
-{"name": "Magnetic_confinement_fusion", "id": 64599885, "predecessors": [{"name": "Fusion_power", "id": 1834810}], "successors": []}
+{"name": "Magnetic_confinement_fusion", "id": 64599885, "predecessors": [{"name": "Fusion_power", "id": 1834810}], "successors": [{"name": "Magnetic_confinement_fusion_devices", "id": 64599965}]}

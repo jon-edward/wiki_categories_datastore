@@ -1,1 +1,1 @@
-{"name": "Euro_coins_by_issuing_country", "id": 39775352, "predecessors": [{"name": "Euro_coins", "id": 39775186}, {"name": "Coins", "id": 904510}], "successors": []}
+{"name": "Euro_coins_by_issuing_country", "id": 39775352, "predecessors": [{"name": "Euro_by_country", "id": 39769499}, {"name": "Euro_coins", "id": 39775186}, {"name": "Coins", "id": 904510}], "successors": []}

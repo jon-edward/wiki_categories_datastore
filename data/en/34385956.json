@@ -1,1 +1,1 @@
-{"name": "HM_Revenue_and_Customs", "id": 34385956, "predecessors": [{"name": "Customs_services", "id": 2388831}], "successors": [{"name": "Customs_cutters_of_the_United_Kingdom", "id": 23308926}]}
+{"name": "HM_Revenue_and_Customs", "id": 34385956, "predecessors": [{"name": "Customs_services", "id": 2388831}], "successors": [{"name": "Customs_cutters_of_the_United_Kingdom", "id": 23308926}, {"name": "Civil_servants_in_the_Board_of_Inland_Revenue", "id": 24303941}, {"name": "Civil_servants_in_HM_Customs_and_Excise", "id": 24313794}]}

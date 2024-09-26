@@ -1,1 +1,1 @@
-{"name": "Dance_critics", "id": 11081957, "predecessors": [{"name": "Dance_writers", "id": 8640106}, {"name": "Journalism", "id": 698307}, {"name": "Dance_culture", "id": 4236708}], "successors": [{"name": "American_dance_critics", "id": 10041548}, {"name": "Ballet_critics", "id": 44276142}]}
+{"name": "Dance_critics", "id": 11081957, "predecessors": [{"name": "Dance_writers", "id": 8640106}, {"name": "Dance_culture", "id": 4236708}], "successors": [{"name": "American_dance_critics", "id": 10041548}, {"name": "Ballet_critics", "id": 44276142}]}

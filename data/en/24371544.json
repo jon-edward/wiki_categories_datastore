@@ -1,1 +1,1 @@
-{"name": "Pittsburgh_Penguins_owners", "id": 24371544, "predecessors": [{"name": "National_Hockey_League_owners", "id": 24360652}, {"name": "National_Hockey_League", "id": 4070275}], "successors": []}
+{"name": "Pittsburgh_Penguins_owners", "id": 24371544, "predecessors": [{"name": "National_Hockey_League_owners", "id": 24360652}, {"name": "Pittsburgh_Penguins", "id": 2683162}], "successors": []}

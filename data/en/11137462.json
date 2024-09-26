@@ -1,1 +1,1 @@
-{"name": "Quinolone_antibiotics", "id": 11137462, "predecessors": [{"name": "4-Quinolones", "id": 54739658}, {"name": "Antibiotics", "id": 695084}], "successors": []}
+{"name": "Quinolone_antibiotics", "id": 11137462, "predecessors": [{"name": "4-Quinolones", "id": 54739658}, {"name": "Antibiotics", "id": 695084}], "successors": [{"name": "Fluoroquinolone_antibiotics", "id": 695380}]}

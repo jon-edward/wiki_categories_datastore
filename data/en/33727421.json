@@ -1,1 +1,1 @@
-{"name": "Agroforestry", "id": 33727421, "predecessors": [{"name": "Agronomy", "id": 2298488}, {"name": "Habitat_management_equipment_and_methods", "id": 4127077}, {"name": "Sustainable_forest_management", "id": 24078727}], "successors": []}
+{"name": "Agroforestry", "id": 33727421, "predecessors": [{"name": "Agroecology", "id": 24970377}, {"name": "Agronomy", "id": 2298488}, {"name": "Habitat_management_equipment_and_methods", "id": 4127077}, {"name": "Sustainable_forest_management", "id": 24078727}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Cognitive_tests", "id": 1832409, "predecessors": [{"name": "Cognitive_therapy", "id": 2870652}], "successors": [{"name": "Memory_tests", "id": 16138451}]}
+{"name": "Cognitive_tests", "id": 1832409, "predecessors": [{"name": "Cognitive_therapy", "id": 2870652}, {"name": "Psychological_tests_and_scales", "id": 8378411}], "successors": [{"name": "Intelligence_tests", "id": 11716937}, {"name": "Memory_tests", "id": 16138451}]}

@@ -1,1 +1,1 @@
-{"name": "Flood_basalts", "id": 1793805, "predecessors": [{"name": "Lava_flows", "id": 53317417}], "successors": [{"name": "Large_igneous_provinces", "id": 1793844}]}
+{"name": "Flood_basalts", "id": 1793805, "predecessors": [{"name": "Basalt_formations", "id": 74196906}, {"name": "Lava_flows", "id": 53317417}], "successors": [{"name": "Large_igneous_provinces", "id": 1793844}]}

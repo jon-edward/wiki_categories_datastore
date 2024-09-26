@@ -1,1 +1,1 @@
-{"name": "Refugees_in_Norway", "id": 39778168, "predecessors": [{"name": "Immigration_to_Norway", "id": 25856222}, {"name": "Refugees", "id": 1205466}, {"name": "Right_of_asylum", "id": 19746300}], "successors": []}
+{"name": "Refugees_in_Norway", "id": 39778168, "predecessors": [{"name": "Refugees_in_Europe", "id": 48473020}, {"name": "Refugees", "id": 1205466}, {"name": "Right_of_asylum", "id": 19746300}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Fountains_in_California", "id": 40213232, "predecessors": [{"name": "Tourist_attractions_in_California", "id": 7331470}, {"name": "Water_in_California", "id": 4558776}], "successors": []}
+{"name": "Fountains_in_California", "id": 40213232, "predecessors": [{"name": "Tourist_attractions_in_California", "id": 7331470}, {"name": "Water_in_California", "id": 4558776}], "successors": [{"name": "Fountains_in_San_Francisco", "id": 77765881}]}

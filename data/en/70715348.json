@@ -1,1 +1,1 @@
-{"name": "Deaths_from_vascular_dementia", "id": 70715348, "predecessors": [{"name": "Deaths_from_dementia", "id": 18589576}, {"name": "People_with_dementia", "id": 19007140}], "successors": []}
+{"name": "Deaths_from_vascular_dementia", "id": 70715348, "predecessors": [{"name": "Deaths_from_cerebrovascular_disease", "id": 48293509}, {"name": "Deaths_from_dementia", "id": 18589576}], "successors": []}

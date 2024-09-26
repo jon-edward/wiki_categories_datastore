@@ -1,0 +1,1 @@
+{"name": "Viral_respiratory_tract_infections", "id": 39756458, "predecessors": [{"name": "Animal_viral_diseases", "id": 48674710}, {"name": "Respiratory_diseases", "id": 19827264}], "successors": [{"name": "Influenza", "id": 2932559}, {"name": "Polio", "id": 10761217}, {"name": "Measles", "id": 29261665}, {"name": "COVID-19", "id": 63508804}]}

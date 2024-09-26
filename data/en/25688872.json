@@ -1,1 +1,1 @@
-{"name": "Stack-based_virtual_machines", "id": 25688872, "predecessors": [{"name": "Stack_machines", "id": 28765626}], "successors": []}
+{"name": "Stack-based_virtual_machines", "id": 25688872, "predecessors": [{"name": "Stack_machines", "id": 28765626}, {"name": "Virtual_machines", "id": 4726255}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Sailing_expeditions", "id": 27752887, "predecessors": [{"name": "Exploration", "id": 968416}], "successors": [{"name": "Single-handed_sailors", "id": 3619806}]}
+{"name": "Sailing_expeditions", "id": 27752887, "predecessors": [{"name": "Sailing", "id": 894884}, {"name": "Exploration", "id": 968416}], "successors": [{"name": "Single-handed_sailors", "id": 3619806}]}

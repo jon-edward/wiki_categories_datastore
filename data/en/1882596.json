@@ -1,1 +1,1 @@
-{"name": "Ford_factories", "id": 1882596, "predecessors": [{"name": "Ford_Motor_Company_facilities", "id": 57718069}, {"name": "Automotive_industry", "id": 1338498}], "successors": [{"name": "Ford_of_Europe_factories", "id": 31507886}, {"name": "Ford_village_industries", "id": 32603434}]}
+{"name": "Ford_factories", "id": 1882596, "predecessors": [{"name": "Automotive_industry", "id": 1338498}], "successors": [{"name": "Ford_of_Europe_factories", "id": 31507886}, {"name": "Ford_village_industries", "id": 32603434}]}

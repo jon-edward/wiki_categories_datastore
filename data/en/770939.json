@@ -1,1 +1,1 @@
-{"name": "1941_books", "id": 770939, "predecessors": [{"name": "1941", "id": 885560}], "successors": [{"name": "1941_novels", "id": 4450874}, {"name": "1941_children's_books", "id": 53976738}, {"name": "1941_non-fiction_books", "id": 62373740}]}
+{"name": "1941_books", "id": 770939, "predecessors": [{"name": "1941", "id": 885560}, {"name": "20th-century_literature", "id": 38322217}], "successors": [{"name": "1941_novels", "id": 4450874}, {"name": "1941_children's_books", "id": 53976738}, {"name": "1941_non-fiction_books", "id": 62373740}]}

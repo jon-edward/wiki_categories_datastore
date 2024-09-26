@@ -1,1 +1,1 @@
-{"name": "Roman_Catholic_missionaries_in_New_France", "id": 52336412, "predecessors": [{"name": "Roman_Catholic_priests_in_New_France", "id": 67499824}], "successors": [{"name": "Jesuit_missionaries_in_New_France", "id": 52406502}]}
+{"name": "Roman_Catholic_missionaries_in_New_France", "id": 52336412, "predecessors": [{"name": "Roman_Catholic_priests_in_New_France", "id": 67499824}, {"name": "Catholic_missions", "id": 7666271}], "successors": [{"name": "Jesuit_missionaries_in_New_France", "id": 52406502}]}

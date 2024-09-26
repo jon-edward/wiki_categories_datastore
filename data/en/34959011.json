@@ -1,1 +1,1 @@
-{"name": "Gopher_(protocol)", "id": 34959011, "predecessors": [{"name": "Application_layer_protocols", "id": 7941457}, {"name": "Computer-related_introductions_in_1991", "id": 51880041}, {"name": "Hypertext", "id": 2678130}], "successors": []}
+{"name": "Gopher_(protocol)", "id": 34959011, "predecessors": [{"name": "Application_layer_protocols", "id": 7941457}, {"name": "Computer-related_introductions_in_1991", "id": 51880041}, {"name": "Hypertext", "id": 2678130}, {"name": "Internet_Standards", "id": 40416776}], "successors": [{"name": "Gopher_clients", "id": 27122502}]}

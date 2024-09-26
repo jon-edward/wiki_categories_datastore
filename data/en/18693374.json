@@ -1,1 +1,1 @@
-{"name": "Painters_of_ruins", "id": 18693374, "predecessors": [{"name": "Landscape_painters", "id": 27046147}, {"name": "Archaeological_sites", "id": 1062022}], "successors": []}
+{"name": "Painters_of_ruins", "id": 18693374, "predecessors": [{"name": "Landscape_painters", "id": 27046147}, {"name": "Archaeological_sites", "id": 1062022}, {"name": "Painting", "id": 707606}], "successors": [{"name": "Italian_vedutisti", "id": 35594449}]}

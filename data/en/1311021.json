@@ -1,1 +1,1 @@
-{"name": "Chip_carriers", "id": 1311021, "predecessors": [{"name": "Integrated_circuits", "id": 1240658}, {"name": "Semiconductor_packages", "id": 26661107}], "successors": []}
+{"name": "Chip_carriers", "id": 1311021, "predecessors": [{"name": "Integrated_circuits", "id": 1240658}, {"name": "Printed_circuit_board_manufacturing", "id": 47360983}, {"name": "Semiconductor_packages", "id": 26661107}], "successors": []}

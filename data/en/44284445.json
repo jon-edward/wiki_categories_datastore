@@ -1,1 +1,1 @@
-{"name": "Converts_to_Sunni_Islam_from_Catholicism", "id": 44284445, "predecessors": [{"name": "Converts_to_Islam_from_Catholicism", "id": 26827481}, {"name": "Converts_to_Sunni_Islam_from_Christianity", "id": 44284534}], "successors": []}
+{"name": "Converts_to_Sunni_Islam_from_Catholicism", "id": 44284445, "predecessors": [{"name": "Converts_to_Islam_from_Catholicism", "id": 26827481}], "successors": [{"name": "Converts_to_Sunni_Islam_from_Roman_Catholicism", "id": 76008283}]}

@@ -1,1 +1,1 @@
-{"name": "Isotopes_of_carbon", "id": 3459297, "predecessors": [{"name": "Carbon", "id": 3459278}], "successors": []}
+{"name": "Isotopes_of_carbon", "id": 3459297, "predecessors": [{"name": "Carbon", "id": 3459278}, {"name": "Isotopes", "id": 1940094}], "successors": [{"name": "Radiocarbon_dating", "id": 37302804}]}

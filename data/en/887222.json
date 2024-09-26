@@ -1,1 +1,1 @@
-{"name": "Beer", "id": 887222, "predecessors": [{"name": "Brewing", "id": 14893672}, {"name": "Malt-based_drinks", "id": 50884862}], "successors": [{"name": "Defunct_breweries", "id": 26383920}, {"name": "Multinational_breweries", "id": 42183231}]}
+{"name": "Beer", "id": 887222, "predecessors": [{"name": "Brewing", "id": 14893672}], "successors": [{"name": "Beer_culture", "id": 5823707}, {"name": "Beer_brands", "id": 13979965}, {"name": "Beer_dishes", "id": 52852650}, {"name": "Defunct_breweries", "id": 26383920}, {"name": "Beer_museums", "id": 30125445}]}

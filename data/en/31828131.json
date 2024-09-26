@@ -1,1 +1,1 @@
-{"name": "Series_of_paintings_by_Vincent_van_Gogh", "id": 31828131, "predecessors": [{"name": "Paintings_by_Vincent_van_Gogh", "id": 35324710}], "successors": [{"name": "Portraits_by_Vincent_van_Gogh", "id": 52589448}]}
+{"name": "Series_of_paintings_by_Vincent_van_Gogh", "id": 31828131, "predecessors": [{"name": "Painting_series", "id": 7914470}, {"name": "Paintings_by_Vincent_van_Gogh", "id": 35324710}], "successors": [{"name": "Portraits_by_Vincent_van_Gogh", "id": 52589448}]}

@@ -1,1 +1,1 @@
-{"name": "Art_Deco_airports", "id": 69889117, "predecessors": [{"name": "Art_Deco_architecture", "id": 29229767}], "successors": []}
+{"name": "Art_Deco_airports", "id": 69889117, "predecessors": [{"name": "Art_Deco_architecture", "id": 29229767}, {"name": "Transport_infrastructure", "id": 2962532}], "successors": []}

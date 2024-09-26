@@ -1,1 +1,1 @@
-{"name": "United_States_Navy_submariners", "id": 74142922, "predecessors": [{"name": "Vehicles", "id": 694929}], "successors": [{"name": "United_States_submarine_commanders", "id": 4042261}]}
+{"name": "United_States_Navy_submariners", "id": 74142922, "predecessors": [{"name": "United_States_Navy", "id": 747847}, {"name": "Vehicles", "id": 694929}, {"name": "Submarines_of_the_United_States", "id": 3549100}], "successors": [{"name": "United_States_submarine_commanders", "id": 4042261}]}

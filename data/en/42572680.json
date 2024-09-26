@@ -1,1 +1,1 @@
-{"name": "Oil_shale_geology", "id": 42572680, "predecessors": [{"name": "Oil_shale", "id": 10122270}], "successors": []}
+{"name": "Oil_shale_geology", "id": 42572680, "predecessors": [{"name": "Oil_shale", "id": 10122270}], "successors": [{"name": "Oil_shale_formations", "id": 50488729}]}

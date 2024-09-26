@@ -1,1 +1,1 @@
-{"name": "5_ft_6_in_gauge_railways_in_Canada", "id": 42374500, "predecessors": [{"name": "Rail_transport_in_Canada", "id": 1963990}], "successors": [{"name": "Grand_Trunk_Railway", "id": 2283328}]}
+{"name": "5_ft_6_in_gauge_railways_in_Canada", "id": 42374500, "predecessors": [{"name": "Rail_transport_in_Canada", "id": 1963990}, {"name": "Track_gauges", "id": 42344383}], "successors": [{"name": "Grand_Trunk_Railway", "id": 2283328}]}

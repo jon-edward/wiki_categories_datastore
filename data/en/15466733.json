@@ -1,1 +1,1 @@
-{"name": "Bed_and_breakfasts", "id": 15466733, "predecessors": [{"name": "Breakfast", "id": 705429}, {"name": "Tourist_accommodations", "id": 11495357}, {"name": "Buildings_and_structures_by_type", "id": 6884364}], "successors": []}
+{"name": "Bed_and_breakfasts", "id": 15466733, "predecessors": [{"name": "Breakfast", "id": 705429}, {"name": "Tourist_accommodations", "id": 11495357}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Hot_air_engines", "id": 12129417, "predecessors": [{"name": "External_combustion_engines", "id": 18432538}, {"name": "Thermodynamic_cycles", "id": 3285428}], "successors": []}
+{"name": "Hot_air_engines", "id": 12129417, "predecessors": [{"name": "External_combustion_engines", "id": 18432538}, {"name": "Thermodynamic_cycles", "id": 3285428}], "successors": [{"name": "Stirling_engines", "id": 33502624}]}

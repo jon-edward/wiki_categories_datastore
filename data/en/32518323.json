@@ -1,1 +1,1 @@
-{"name": "Male_genital_neoplasia", "id": 32518323, "predecessors": [{"name": "Types_of_neoplasia", "id": 32581830}], "successors": []}
+{"name": "Male_genital_neoplasia", "id": 32518323, "predecessors": [{"name": "Male_genital_disorders", "id": 32518157}, {"name": "Types_of_neoplasia", "id": 32581830}], "successors": [{"name": "Prostate_cancer", "id": 43026011}]}

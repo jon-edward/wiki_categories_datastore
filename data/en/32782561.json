@@ -1,1 +1,1 @@
-{"name": "Gospel_of_John_chapters", "id": 32782561, "predecessors": [{"name": "Gospel_of_John", "id": 32782493}], "successors": [{"name": "John_20", "id": 43499544}, {"name": "John_1", "id": 52357593}]}
+{"name": "Gospel_of_John_chapters", "id": 32782561, "predecessors": [{"name": "Gospel_of_John", "id": 32782493}, {"name": "Bible", "id": 1114670}], "successors": [{"name": "John_20", "id": 43499544}, {"name": "John_1", "id": 52357593}]}

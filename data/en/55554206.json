@@ -1,1 +1,1 @@
-{"name": "Parasites_of_Hymenoptera", "id": 55554206, "predecessors": [{"name": "Hymenoptera", "id": 1267828}], "successors": [{"name": "Parasites_of_bees", "id": 47398646}]}
+{"name": "Parasites_of_Hymenoptera", "id": 55554206, "predecessors": [{"name": "Hymenoptera", "id": 1267828}, {"name": "Parasites_of_insects", "id": 40223289}], "successors": [{"name": "Parasites_of_bees", "id": 47398646}]}

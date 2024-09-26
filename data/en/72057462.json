@@ -1,1 +1,1 @@
-{"name": "C_Line_(Los_Angeles_Metro)_stations", "id": 72057462, "predecessors": [{"name": "Public_transportation_in_Los_Angeles", "id": 28606895}], "successors": []}
+{"name": "C_Line_(Los_Angeles_Metro)_stations", "id": 72057462, "predecessors": [{"name": "Public_transportation_in_Los_Angeles", "id": 28606895}, {"name": "Los_Angeles_Metro_Rail", "id": 2116424}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "People_executed_for_heresy", "id": 3738776, "predecessors": [{"name": "Capital_punishment", "id": 3519519}, {"name": "Religious_persecution", "id": 748067}], "successors": []}
+{"name": "People_executed_for_heresy", "id": 3738776, "predecessors": [{"name": "People_convicted_of_heresy", "id": 27570100}, {"name": "Crime_by_type", "id": 15090762}, {"name": "Capital_punishment", "id": 3519519}, {"name": "Religious_persecution", "id": 748067}], "successors": []}

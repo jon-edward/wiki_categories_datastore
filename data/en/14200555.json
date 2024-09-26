@@ -1,1 +1,1 @@
-{"name": "Canals_in_Wiltshire", "id": 14200555, "predecessors": [{"name": "Buildings_and_structures_in_Wiltshire", "id": 1791596}, {"name": "Geography_of_Wiltshire", "id": 4931824}, {"name": "Tourist_attractions_in_Wiltshire", "id": 1791601}, {"name": "Transport_in_Wiltshire", "id": 1791581}], "successors": [{"name": "Kennet_and_Avon_Canal", "id": 7615655}]}
+{"name": "Canals_in_Wiltshire", "id": 14200555, "predecessors": [{"name": "Canals_in_England", "id": 3887308}], "successors": [{"name": "Kennet_and_Avon_Canal", "id": 7615655}]}

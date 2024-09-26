@@ -1,1 +1,1 @@
-{"name": "Flies_and_humans", "id": 57571776, "predecessors": [{"name": "Insects", "id": 858692}, {"name": "Animals_and_humans", "id": 52196069}], "successors": [{"name": "Artificial_flies", "id": 15987811}, {"name": "Diptera_used_as_pest_control_agents", "id": 48728722}]}
+{"name": "Flies_and_humans", "id": 57571776, "predecessors": [{"name": "Animals_and_humans", "id": 52196069}, {"name": "Insect_superorders", "id": 48216117}], "successors": [{"name": "Artificial_flies", "id": 15987811}, {"name": "Diptera_used_as_pest_control_agents", "id": 48728722}]}

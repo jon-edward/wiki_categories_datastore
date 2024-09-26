@@ -1,1 +1,1 @@
-{"name": "Library_law", "id": 15091478, "predecessors": [{"name": "Libraries", "id": 698261}], "successors": []}
+{"name": "Library_law", "id": 15091478, "predecessors": [{"name": "Libraries", "id": 698261}, {"name": "Public_law", "id": 1574080}], "successors": [{"name": "Deposit_libraries", "id": 37021096}]}

@@ -1,1 +1,1 @@
-{"name": "Formula_One_seasons", "id": 1260503, "predecessors": [{"name": "Formula_One", "id": 699395}, {"name": "Seasons", "id": 1074697}], "successors": []}
+{"name": "Formula_One_seasons", "id": 1260503, "predecessors": [{"name": "Formula_One", "id": 699395}, {"name": "Formula_racing", "id": 3460564}], "successors": [{"name": "2025_in_Formula_One", "id": 77769984}, {"name": "1947_Formula_One_races", "id": 53323035}, {"name": "1948_Formula_One_races", "id": 58197174}]}

@@ -1,1 +1,1 @@
-{"name": "Lunar_eclipses", "id": 12977829, "predecessors": [{"name": "Periodic_phenomena", "id": 6993687}], "successors": [{"name": "Central_total_lunar_eclipses", "id": 22324004}, {"name": "Lunar_saros_series", "id": 46217732}]}
+{"name": "Lunar_eclipses", "id": 12977829, "predecessors": [{"name": "Astronomical_events_of_the_Solar_System", "id": 21187499}, {"name": "Lunar_science", "id": 8907322}, {"name": "Orbit_of_the_Moon", "id": 8904036}], "successors": [{"name": "Central_total_lunar_eclipses", "id": 22324004}, {"name": "Lunar_saros_series", "id": 46217732}]}

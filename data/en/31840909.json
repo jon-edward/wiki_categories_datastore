@@ -1,1 +1,1 @@
-{"name": "Apothecaries", "id": 31840909, "predecessors": [{"name": "Health", "id": 751381}], "successors": []}
+{"name": "Apothecaries", "id": 31840909, "predecessors": [{"name": "Health", "id": 751381}], "successors": [{"name": "English_apothecaries", "id": 34406938}, {"name": "Scottish_apothecaries", "id": 44635788}]}

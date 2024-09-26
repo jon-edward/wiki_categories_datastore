@@ -1,1 +1,1 @@
-{"name": "Library_management", "id": 48657241, "predecessors": [{"name": "Library_science", "id": 30813411}], "successors": []}
+{"name": "Library_management", "id": 48657241, "predecessors": [{"name": "Information_management", "id": 46719327}, {"name": "Library_science", "id": 30813411}], "successors": []}

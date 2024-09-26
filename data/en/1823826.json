@@ -1,1 +1,1 @@
-{"name": "Quantum_electronics", "id": 1823826, "predecessors": [{"name": "Condensed_matter_physics", "id": 692176}, {"name": "Nanotechnology", "id": 888769}, {"name": "Quantum_mechanics", "id": 697231}], "successors": [{"name": "Spintronics", "id": 5345784}, {"name": "Quantum_electrodynamics", "id": 7797269}]}
+{"name": "Quantum_electronics", "id": 1823826, "predecessors": [{"name": "Electronics", "id": 707661}, {"name": "Quantum_mechanics", "id": 697231}], "successors": [{"name": "Spintronics", "id": 5345784}, {"name": "Quantum_electrodynamics", "id": 7797269}]}

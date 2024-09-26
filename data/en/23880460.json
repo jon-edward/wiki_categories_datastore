@@ -1,1 +1,1 @@
-{"name": "DOS_text_editors", "id": 23880460, "predecessors": [{"name": "Text_editors", "id": 694684}], "successors": []}
+{"name": "DOS_text_editors", "id": 23880460, "predecessors": [{"name": "DOS_software", "id": 1202419}, {"name": "Text_editors", "id": 694684}], "successors": []}

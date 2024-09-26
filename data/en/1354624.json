@@ -1,1 +1,1 @@
-{"name": "Triathlon", "id": 1354624, "predecessors": [{"name": "Swimming", "id": 691570}, {"name": "Environmental_studies", "id": 38349629}], "successors": []}
+{"name": "Triathlon", "id": 1354624, "predecessors": [{"name": "Athletic_sports", "id": 31210709}, {"name": "Endurance_games", "id": 1072401}, {"name": "Individual_sports", "id": 862248}, {"name": "Multisports", "id": 34822335}, {"name": "Swimming", "id": 691570}, {"name": "Sports_by_type", "id": 23596516}], "successors": [{"name": "Paratriathletes", "id": 38242784}]}

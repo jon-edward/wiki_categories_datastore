@@ -1,1 +1,1 @@
-{"name": "Ham_producers", "id": 53894173, "predecessors": [{"name": "Ham", "id": 9350580}], "successors": []}
+{"name": "Ham_producers", "id": 53894173, "predecessors": [{"name": "Ham", "id": 9350580}, {"name": "Meat_companies", "id": 57966197}], "successors": []}

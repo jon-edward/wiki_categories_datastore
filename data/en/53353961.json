@@ -1,1 +1,1 @@
-{"name": "Individual_shields", "id": 53353961, "predecessors": [{"name": "Military_equipment", "id": 771670}], "successors": []}
+{"name": "Individual_shields", "id": 53353961, "predecessors": [{"name": "Shields", "id": 1243588}, {"name": "Military_equipment", "id": 771670}], "successors": []}

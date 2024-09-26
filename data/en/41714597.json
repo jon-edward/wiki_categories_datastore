@@ -1,1 +1,1 @@
-{"name": "German_portrait_painters", "id": 41714597, "predecessors": [{"name": "Portrait_artists", "id": 2382510}], "successors": [{"name": "German_portrait_miniaturists", "id": 76556981}]}
+{"name": "German_portrait_painters", "id": 41714597, "predecessors": [{"name": "German_painters", "id": 883136}, {"name": "German_artists", "id": 1057744}], "successors": [{"name": "German_portrait_miniaturists", "id": 76556981}]}

@@ -1,1 +1,1 @@
-{"name": "SNCF_brands", "id": 26411306, "predecessors": [{"name": "Rail_transport_brands", "id": 8971527}, {"name": "SNCF", "id": 2323663}, {"name": "Rail_transport_in_France", "id": 2837463}], "successors": []}
+{"name": "SNCF_brands", "id": 26411306, "predecessors": [{"name": "SNCF", "id": 2323663}, {"name": "Rail_transport_in_France", "id": 2837463}], "successors": []}

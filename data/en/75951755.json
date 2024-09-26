@@ -1,1 +1,1 @@
-{"name": "British_social_historians", "id": 75951755, "predecessors": [{"name": "Social_historians", "id": 11273605}], "successors": [{"name": "British_Marxist_historians", "id": 38541945}]}
+{"name": "British_social_historians", "id": 75951755, "predecessors": [{"name": "British_historians", "id": 935978}, {"name": "Social_historians", "id": 11273605}], "successors": [{"name": "British_Marxist_historians", "id": 38541945}, {"name": "British_economic_historians", "id": 74123565}]}

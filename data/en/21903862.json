@@ -1,1 +1,1 @@
-{"name": "Schools_in_Seattle", "id": 21903862, "predecessors": [{"name": "Buildings_and_structures_in_Seattle", "id": 17389395}], "successors": [{"name": "Seattle_Public_Schools", "id": 16867869}]}
+{"name": "Schools_in_Seattle", "id": 21903862, "predecessors": [{"name": "Buildings_and_structures_in_Seattle", "id": 17389395}], "successors": [{"name": "Seattle_Public_Schools", "id": 16867869}, {"name": "High_schools_in_Seattle", "id": 77840954}]}

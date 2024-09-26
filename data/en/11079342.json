@@ -1,1 +1,1 @@
-{"name": "Retail_point_of_sale_systems", "id": 11079342, "predecessors": [{"name": "Information_systems", "id": 2978151}, {"name": "Equipment", "id": 3228046}], "successors": [{"name": "Point_of_sale_companies", "id": 14988199}]}
+{"name": "Retail_point_of_sale_systems", "id": 11079342, "predecessors": [{"name": "Information_systems", "id": 2978151}, {"name": "Equipment", "id": 3228046}, {"name": "Services_sector_of_the_economy", "id": 10887914}], "successors": [{"name": "Point_of_sale_companies", "id": 14988199}]}

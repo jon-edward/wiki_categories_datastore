@@ -1,1 +1,1 @@
-{"name": "Cluster_munitions", "id": 17726566, "predecessors": [{"name": "Aerial_bombs", "id": 27265821}, {"name": "Area_denial_weapons", "id": 1156264}, {"name": "Mine_warfare", "id": 13395540}], "successors": []}
+{"name": "Cluster_munitions", "id": 17726566, "predecessors": [{"name": "Aerial_bombs", "id": 27265821}, {"name": "Area_denial_weapons", "id": 1156264}, {"name": "Mine_warfare", "id": 13395540}], "successors": [{"name": "Submunitions", "id": 6985700}, {"name": "Cluster_bomb_attacks", "id": 17727182}]}

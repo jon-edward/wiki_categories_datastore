@@ -1,1 +1,1 @@
-{"name": "Liquid_crystal_displays", "id": 3129766, "predecessors": [{"name": "Display_technology", "id": 787720}, {"name": "Electronic_display_devices", "id": 76543159}, {"name": "Liquid_crystals", "id": 3129635}], "successors": []}
+{"name": "Liquid_crystal_displays", "id": 3129766, "predecessors": [{"name": "Computer_peripherals", "id": 3547205}, {"name": "Display_technology", "id": 787720}, {"name": "Electronic_display_devices", "id": 76543159}], "successors": []}

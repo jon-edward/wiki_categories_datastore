@@ -1,1 +1,1 @@
-{"name": "Fractions_(mathematics)", "id": 44363088, "predecessors": [{"name": "Numbers", "id": 698425}], "successors": []}
+{"name": "Fractions_(mathematics)", "id": 44363088, "predecessors": [{"name": "Division_(mathematics)", "id": 44363098}, {"name": "Numbers", "id": 698425}, {"name": "Rational_numbers", "id": 1921992}], "successors": [{"name": "Egyptian_fractions", "id": 7290631}]}

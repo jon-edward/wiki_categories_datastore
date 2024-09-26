@@ -1,1 +1,1 @@
-{"name": "Taco_Bell", "id": 11206211, "predecessors": [{"name": "Fast-food_Mexican_restaurants", "id": 2353112}], "successors": []}
+{"name": "Taco_Bell", "id": 11206211, "predecessors": [{"name": "Fast-food_Mexican_restaurants", "id": 2353112}, {"name": "Yum!_Brands", "id": 4115816}, {"name": "PepsiCo_subsidiaries", "id": 768693}], "successors": []}

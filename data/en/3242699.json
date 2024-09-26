@@ -1,1 +1,1 @@
-{"name": "Onions", "id": 3242699, "predecessors": [{"name": "Root_vegetables", "id": 1657049}], "successors": [{"name": "Onion-based_foods", "id": 43746289}, {"name": "Onion_cultivars", "id": 52988631}]}
+{"name": "Onions", "id": 3242699, "predecessors": [{"name": "Allium", "id": 10958918}, {"name": "Root_vegetables", "id": 1657049}], "successors": [{"name": "Onion-based_foods", "id": 43746289}, {"name": "Onion_cultivars", "id": 52988631}]}

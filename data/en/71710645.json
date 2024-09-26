@@ -1,1 +1,1 @@
-{"name": "Deep_learning_software_applications", "id": 71710645, "predecessors": [{"name": "Applied_machine_learning", "id": 33547387}, {"name": "Deep_learning_software", "id": 71710609}], "successors": [{"name": "Large_language_models", "id": 73281105}]}
+{"name": "Deep_learning_software_applications", "id": 71710645, "predecessors": [{"name": "Application_software", "id": 708063}, {"name": "Applied_machine_learning", "id": 33547387}, {"name": "Deep_learning_software", "id": 71710609}], "successors": [{"name": "Large_language_models", "id": 73281105}]}

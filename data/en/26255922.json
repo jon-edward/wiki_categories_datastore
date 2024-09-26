@@ -1,1 +1,1 @@
-{"name": "Orbital_Sciences_Corporation", "id": 26255922, "predecessors": [{"name": "Spacecraft_manufacturers", "id": 1972691}], "successors": [{"name": "Cygnus_(spacecraft)", "id": 41611733}]}
+{"name": "Orbital_Sciences_Corporation", "id": 26255922, "predecessors": [{"name": "Commercial_launch_service_providers", "id": 12031630}, {"name": "Private_spaceflight_companies", "id": 6385227}, {"name": "Spacecraft_manufacturers", "id": 1972691}, {"name": "Alliant_Techsystems", "id": 9463617}], "successors": [{"name": "Cygnus_(spacecraft)", "id": 41611733}]}

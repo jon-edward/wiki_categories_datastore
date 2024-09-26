@@ -1,1 +1,1 @@
-{"name": "Tick-borne_diseases", "id": 28888506, "predecessors": [{"name": "Arthropod_attacks", "id": 72547074}, {"name": "Zoonoses", "id": 2776372}], "successors": [{"name": "Lyme_disease", "id": 10084741}]}
+{"name": "Tick-borne_diseases", "id": 28888506, "predecessors": [{"name": "Insect-borne_diseases", "id": 6844246}, {"name": "Ticks", "id": 27032498}, {"name": "Zoonoses", "id": 2776372}], "successors": [{"name": "Lyme_disease", "id": 10084741}]}

@@ -1,1 +1,1 @@
-{"name": "Scarabaeinae", "id": 22085967, "predecessors": [{"name": "Coprophagous_insects", "id": 47600632}], "successors": []}
+{"name": "Scarabaeinae", "id": 22085967, "predecessors": [{"name": "Coprophagous_insects", "id": 47600632}, {"name": "Scarabaeidae", "id": 6153971}], "successors": [{"name": "Coprini", "id": 52380138}, {"name": "Deltochilini", "id": 52381245}]}

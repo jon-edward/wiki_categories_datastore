@@ -1,1 +1,1 @@
-{"name": "Exhibition_designers", "id": 10998143, "predecessors": [{"name": "Museum_occupations", "id": 7773230}], "successors": []}
+{"name": "Exhibition_designers", "id": 10998143, "predecessors": [{"name": "Exhibitions", "id": 1473785}, {"name": "Museum_occupations", "id": 7773230}], "successors": []}

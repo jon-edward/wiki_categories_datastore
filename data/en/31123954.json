@@ -1,1 +1,1 @@
-{"name": "Turin_Metro_stations", "id": 31123954, "predecessors": [{"name": "Rapid_transit", "id": 4286827}], "successors": []}
+{"name": "Turin_Metro_stations", "id": 31123954, "predecessors": [{"name": "Transport_in_Turin", "id": 10657473}, {"name": "Buildings_and_structures_in_Turin", "id": 5703658}, {"name": "Passenger_rail_transport_in_Italy", "id": 15900134}], "successors": []}

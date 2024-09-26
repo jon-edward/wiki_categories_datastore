@@ -1,1 +1,1 @@
-{"name": "Tomography", "id": 13886417, "predecessors": [{"name": "Medical_imaging", "id": 1745805}, {"name": "Scientific_techniques", "id": 15358485}], "successors": [{"name": "X-ray_computed_tomography", "id": 32444755}]}
+{"name": "Tomography", "id": 13886417, "predecessors": [{"name": "Medical_imaging", "id": 1745805}, {"name": "Medical_tests", "id": 1075994}], "successors": [{"name": "X-ray_computed_tomography", "id": 32444755}]}

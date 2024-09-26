@@ -1,1 +1,1 @@
-{"name": "Converts_to_Protestantism_from_Catholicism", "id": 24480629, "predecessors": [{"name": "Catholic_Church", "id": 733334}], "successors": []}
+{"name": "Converts_to_Protestantism_from_Catholicism", "id": 24480629, "predecessors": [{"name": "Converts_to_Protestantism", "id": 19179068}, {"name": "Catholic_Church", "id": 733334}, {"name": "Interfaith_dialogue", "id": 16996448}], "successors": [{"name": "Converts_to_Protestantism_from_Roman_Catholicism", "id": 27279357}]}

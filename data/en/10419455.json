@@ -1,1 +1,1 @@
-{"name": "Languages_of_Tibet", "id": 10419455, "predecessors": [{"name": "Culture_of_Asia", "id": 1438369}], "successors": [{"name": "Tibetan_language", "id": 27422833}, {"name": "Tani_languages", "id": 33274549}]}
+{"name": "Languages_of_Tibet", "id": 10419455, "predecessors": [{"name": "Languages_of_China", "id": 877276}, {"name": "Tibetan_culture", "id": 2329514}, {"name": "Culture_of_East_Asia", "id": 25515451}, {"name": "Linguistic_minorities", "id": 18090111}], "successors": [{"name": "Tibetan_language", "id": 27422833}, {"name": "Tani_languages", "id": 33274549}]}

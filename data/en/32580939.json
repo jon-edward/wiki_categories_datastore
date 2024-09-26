@@ -1,1 +1,1 @@
-{"name": "Larynx", "id": 32580939, "predecessors": [{"name": "Respiratory_system", "id": 800593}], "successors": []}
+{"name": "Larynx", "id": 32580939, "predecessors": [{"name": "Respiratory_system", "id": 800593}], "successors": [{"name": "Larynx_disorders", "id": 32635468}]}

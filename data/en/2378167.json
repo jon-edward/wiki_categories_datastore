@@ -1,1 +1,1 @@
-{"name": "British_film_critics", "id": 2378167, "predecessors": [{"name": "British_film_people", "id": 41764863}, {"name": "Film_criticism", "id": 1026493}], "successors": [{"name": "English_film_critics", "id": 2378162}, {"name": "British_women_film_critics", "id": 72351599}]}
+{"name": "British_film_critics", "id": 2378167, "predecessors": [{"name": "British_critics", "id": 6070378}, {"name": "British_film_people", "id": 41764863}], "successors": [{"name": "English_film_critics", "id": 2378162}]}

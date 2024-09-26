@@ -1,1 +1,1 @@
-{"name": "Thermodynamic_entropy", "id": 10105445, "predecessors": [{"name": "Entropy", "id": 2865929}, {"name": "Statistical_mechanics", "id": 958609}], "successors": []}
+{"name": "Thermodynamic_entropy", "id": 10105445, "predecessors": [{"name": "Entropy", "id": 2865929}, {"name": "State_functions", "id": 19908698}, {"name": "Statistical_mechanics", "id": 958609}], "successors": [{"name": "Quantum_mechanical_entropy", "id": 9910913}]}

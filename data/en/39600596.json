@@ -1,1 +1,1 @@
-{"name": "Residential_buildings_completed_in_2013", "id": 39600596, "predecessors": [{"name": "Buildings_and_structures_completed_in_2013", "id": 38188592}], "successors": []}
+{"name": "Residential_buildings_completed_in_2013", "id": 39600596, "predecessors": [{"name": "Buildings_and_structures_completed_in_2013", "id": 38188592}, {"name": "21st-century_architecture", "id": 21418100}], "successors": [{"name": "Hotel_buildings_completed_in_2013", "id": 39660505}]}

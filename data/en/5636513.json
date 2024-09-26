@@ -1,1 +1,1 @@
-{"name": "Hate_crime", "id": 5636513, "predecessors": [{"name": "Prejudice_and_discrimination", "id": 2600140}], "successors": [{"name": "Hate_crimes", "id": 2302419}, {"name": "Hate_crime_in_the_United_States", "id": 74146537}]}
+{"name": "Hate_crime", "id": 5636513, "predecessors": [{"name": "Crime_by_type", "id": 15090762}, {"name": "Prejudice_and_discrimination", "id": 2600140}], "successors": [{"name": "Hate_crimes", "id": 2302419}, {"name": "Hate_crime_in_the_United_States", "id": 74146537}]}

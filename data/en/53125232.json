@@ -1,1 +1,1 @@
-{"name": "Tax_evasion_in_the_United_States", "id": 53125232, "predecessors": [{"name": "Tax_evasion", "id": 20886037}], "successors": []}
+{"name": "Tax_evasion_in_the_United_States", "id": 53125232, "predecessors": [{"name": "Tax_evasion", "id": 20886037}, {"name": "Taxation_in_the_United_States", "id": 1165500}, {"name": "Crime_in_the_United_States", "id": 3386178}], "successors": [{"name": "American_people_convicted_of_tax_crimes", "id": 27324052}]}

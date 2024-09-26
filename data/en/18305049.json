@@ -1,1 +1,1 @@
-{"name": "Companies_based_in_Kirklees", "id": 18305049, "predecessors": [{"name": "NUTS_1_statistical_regions_of_England", "id": 31166663}, {"name": "Former_counties", "id": 36193893}], "successors": [{"name": "Companies_based_in_Huddersfield", "id": 18306097}]}
+{"name": "Companies_based_in_Kirklees", "id": 18305049, "predecessors": [{"name": "Metropolitan_boroughs", "id": 3395119}], "successors": [{"name": "Companies_based_in_Huddersfield", "id": 18306097}]}

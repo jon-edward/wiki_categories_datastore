@@ -1,1 +1,1 @@
-{"name": "Prehistoric_reptile_families", "id": 48613476, "predecessors": [{"name": "Herpetology", "id": 3070357}], "successors": []}
+{"name": "Prehistoric_reptile_families", "id": 48613476, "predecessors": [{"name": "Prehistoric_tetrapod_families", "id": 55667203}, {"name": "Reptiliomorphs", "id": 5660452}], "successors": [{"name": "Prehistoric_dinosaur_families", "id": 68714087}]}

@@ -1,1 +1,1 @@
-{"name": "49er_class_world_champions", "id": 47912433, "predecessors": [{"name": "World_championships_in_sailing", "id": 35618733}, {"name": "World_championships", "id": 7136195}], "successors": []}
+{"name": "49er_class_world_champions", "id": 47912433, "predecessors": [{"name": "49er_class_sailors", "id": 36873241}, {"name": "49er_class_sailing_competitions", "id": 56544837}, {"name": "World_championships", "id": 7136195}], "successors": []}

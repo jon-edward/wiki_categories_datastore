@@ -1,1 +1,1 @@
-{"name": "Precipitation", "id": 1893974, "predecessors": [{"name": "Forms_of_water", "id": 846987}, {"name": "Observational_astronomy", "id": 2776354}], "successors": [{"name": "Snow", "id": 1376968}]}
+{"name": "Precipitation", "id": 1893974, "predecessors": [{"name": "Forms_of_water", "id": 846987}, {"name": "Meteorological_phenomena", "id": 38779805}], "successors": [{"name": "Snow", "id": 1376968}, {"name": "Rain", "id": 42568993}, {"name": "Hailstorms", "id": 71896836}]}

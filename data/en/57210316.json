@@ -1,1 +1,1 @@
-{"name": "GeForce_series", "id": 57210316, "predecessors": [{"name": "Graphics_cards", "id": 4229703}], "successors": []}
+{"name": "GeForce_series", "id": 57210316, "predecessors": [{"name": "Graphics_cards", "id": 4229703}, {"name": "Nvidia_graphics_processors", "id": 51220215}], "successors": []}

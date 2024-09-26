@@ -1,1 +1,1 @@
-{"name": "Moravian_nobility", "id": 28908813, "predecessors": [{"name": "Czech_nobility", "id": 25317451}, {"name": "Austrian_nobility", "id": 1753101}], "successors": [{"name": "Moravian_noble_families", "id": 28740859}, {"name": "Přemyslid_dynasty", "id": 33596380}]}
+{"name": "Moravian_nobility", "id": 28908813, "predecessors": [{"name": "Czech_nobility", "id": 25317451}, {"name": "Austrian_nobility", "id": 1753101}, {"name": "Moravia", "id": 15968835}], "successors": [{"name": "Přemyslid_dynasty", "id": 33596380}]}

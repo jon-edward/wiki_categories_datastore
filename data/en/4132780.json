@@ -1,1 +1,1 @@
-{"name": "Ancient_chariot_racing", "id": 4132780, "predecessors": [{"name": "Chariots", "id": 15722395}, {"name": "Horse_driving", "id": 13280505}, {"name": "Classical_antiquity", "id": 5294499}], "successors": [{"name": "Ancient_Greek_chariot_racers", "id": 24140471}]}
+{"name": "Ancient_chariot_racing", "id": 4132780, "predecessors": [{"name": "Chariots", "id": 15722395}, {"name": "Horse_driving", "id": 13280505}, {"name": "Classical_antiquity", "id": 5294499}, {"name": "Horse_racing", "id": 866747}], "successors": [{"name": "Ancient_Greek_chariot_racers", "id": 24140471}]}

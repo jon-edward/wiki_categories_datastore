@@ -1,1 +1,1 @@
-{"name": "Renewable_fuels", "id": 36403111, "predecessors": [{"name": "Fuels", "id": 770810}], "successors": [{"name": "Carbohydrates", "id": 713772}, {"name": "Polysaccharides", "id": 721869}, {"name": "Biofuels", "id": 4102968}]}
+{"name": "Renewable_fuels", "id": 36403111, "predecessors": [{"name": "Sustainable_technologies", "id": 6091415}], "successors": [{"name": "Carbohydrates", "id": 713772}, {"name": "Polysaccharides", "id": 721869}, {"name": "Biofuels", "id": 4102968}]}

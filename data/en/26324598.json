@@ -1,1 +1,1 @@
-{"name": "International_banking_institutions", "id": 26324598, "predecessors": [{"name": "International_economic_organizations", "id": 8103981}], "successors": [{"name": "Bank_for_International_Settlements", "id": 73921193}]}
+{"name": "International_banking_institutions", "id": 26324598, "predecessors": [{"name": "Banking", "id": 1245386}, {"name": "International_economic_organizations", "id": 8103981}], "successors": [{"name": "Bank_for_International_Settlements", "id": 73921193}]}

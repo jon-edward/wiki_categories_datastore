@@ -1,1 +1,1 @@
-{"name": "Fruits_originating_in_East_Asia", "id": 67927508, "predecessors": [{"name": "Fruits_originating_in_Asia", "id": 14437824}], "successors": [{"name": "Japanese_fruit", "id": 14407976}]}
+{"name": "Fruits_originating_in_East_Asia", "id": 67927508, "predecessors": [{"name": "East_Asian_cuisine", "id": 25514991}, {"name": "Fruits_originating_in_Asia", "id": 14437824}], "successors": [{"name": "Japanese_fruit", "id": 14407976}]}

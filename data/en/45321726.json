@@ -1,1 +1,1 @@
-{"name": "Hostage_taking_in_France", "id": 45321726, "predecessors": [{"name": "Law_enforcement_in_France", "id": 947645}], "successors": [{"name": "November_2015_Paris_attacks", "id": 48550053}]}
+{"name": "Hostage_taking_in_France", "id": 45321726, "predecessors": [{"name": "Law_enforcement_in_Europe", "id": 1363187}, {"name": "Law_enforcement_in_France", "id": 947645}], "successors": [{"name": "November_2015_Paris_attacks", "id": 48550053}]}

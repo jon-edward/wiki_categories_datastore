@@ -1,1 +1,1 @@
-{"name": "Data_brokers", "id": 56896882, "predecessors": [{"name": "Data_mining", "id": 5206601}], "successors": [{"name": "Cambridge_Analytica", "id": 56905380}]}
+{"name": "Data_brokers", "id": 56896882, "predecessors": [{"name": "Data_collection", "id": 2523568}, {"name": "Data_mining", "id": 5206601}], "successors": [{"name": "Cambridge_Analytica", "id": 56905380}]}

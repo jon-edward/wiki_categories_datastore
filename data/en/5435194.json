@@ -1,1 +1,1 @@
-{"name": "Fictional_historians", "id": 5435194, "predecessors": [{"name": "Fictional_academics", "id": 42889320}, {"name": "History", "id": 693555}], "successors": [{"name": "Fictional_archaeologists", "id": 1310060}]}
+{"name": "Fictional_historians", "id": 5435194, "predecessors": [{"name": "Fictional_academics", "id": 42889320}, {"name": "Humanities_academics", "id": 5002303}], "successors": [{"name": "Fictional_archaeologists", "id": 1310060}]}

@@ -1,0 +1,1 @@
+{"name": "Side-channel_attacks", "id": 33484031, "predecessors": [{"name": "Cryptographic_attacks", "id": 724975}], "successors": [{"name": "Transient_execution_CPU_vulnerabilities", "id": 60264059}]}

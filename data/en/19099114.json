@@ -1,1 +1,1 @@
-{"name": "Aerial_warfare_tactics", "id": 19099114, "predecessors": [{"name": "Military_tactics", "id": 1074382}], "successors": [{"name": "Airstrikes", "id": 17910900}, {"name": "Kamikaze", "id": 33386271}]}
+{"name": "Aerial_warfare_tactics", "id": 19099114, "predecessors": [{"name": "Aerial_warfare", "id": 1054954}], "successors": [{"name": "Airstrikes", "id": 17910900}, {"name": "Kamikaze", "id": 33386271}]}

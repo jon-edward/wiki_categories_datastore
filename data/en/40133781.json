@@ -1,1 +1,1 @@
-{"name": "Brescia_Metro_stations", "id": 40133781, "predecessors": [{"name": "Rapid_transit", "id": 4286827}], "successors": []}
+{"name": "Brescia_Metro_stations", "id": 40133781, "predecessors": [{"name": "Buildings_and_structures_in_Brescia", "id": 34737838}, {"name": "Brescia", "id": 13114712}, {"name": "Passenger_rail_transport_in_Italy", "id": 15900134}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Aromatase_inhibitors", "id": 11120591, "predecessors": [{"name": "Hormonal_antineoplastic_drugs", "id": 32957831}, {"name": "World_Anti-Doping_Agency_prohibited_substances", "id": 51355853}], "successors": []}
+{"name": "Aromatase_inhibitors", "id": 11120591, "predecessors": [{"name": "Hormonal_antineoplastic_drugs", "id": 32957831}, {"name": "Hormones", "id": 717945}, {"name": "Cytochrome_P450", "id": 1024785}], "successors": []}

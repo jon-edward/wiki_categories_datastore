@@ -1,1 +1,1 @@
-{"name": "NHS_Lothian", "id": 24158924, "predecessors": [{"name": "Lothian", "id": 5013829}], "successors": []}
+{"name": "NHS_Lothian", "id": 24158924, "predecessors": [{"name": "Lothian", "id": 5013829}, {"name": "NHS_Scotland", "id": 8725974}], "successors": []}

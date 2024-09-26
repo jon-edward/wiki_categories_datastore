@@ -1,1 +1,1 @@
-{"name": "Systems_Network_Architecture", "id": 49021925, "predecessors": [{"name": "Network_architecture", "id": 5065063}, {"name": "Computer_networks", "id": 737003}], "successors": []}
+{"name": "Systems_Network_Architecture", "id": 49021925, "predecessors": [{"name": "IBM_computer_hardware", "id": 60039423}, {"name": "IBM_software", "id": 859157}, {"name": "Network_architecture", "id": 5065063}, {"name": "Computer_networks", "id": 737003}], "successors": []}

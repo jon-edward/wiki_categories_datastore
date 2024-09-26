@@ -1,1 +1,1 @@
-{"name": "Scale_model_scales", "id": 5761523, "predecessors": [{"name": "Scale_modeling", "id": 778538}], "successors": [{"name": "1:10_radio-controlled_off-road_buggies", "id": 47121422}]}
+{"name": "Scale_model_scales", "id": 5761523, "predecessors": [{"name": "Scale_modeling", "id": 778538}], "successors": [{"name": "Model_railroad_scales", "id": 718422}, {"name": "1:43_scale_models", "id": 33651896}, {"name": "1:25_scale_models", "id": 33713669}, {"name": "Playscale_miniaturism", "id": 34955765}, {"name": "1:10_radio-controlled_off-road_buggies", "id": 47121422}]}

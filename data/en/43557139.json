@@ -1,1 +1,1 @@
-{"name": "Food_halls", "id": 43557139, "predecessors": [{"name": "Food_retailing", "id": 2189204}, {"name": "Restaurants_by_type", "id": 15748273}], "successors": []}
+{"name": "Food_halls", "id": 43557139, "predecessors": [{"name": "Food_markets", "id": 10614502}, {"name": "Food_retailers", "id": 21550842}, {"name": "Food_retailing", "id": 2189204}, {"name": "Restaurants_by_type", "id": 15748273}], "successors": []}

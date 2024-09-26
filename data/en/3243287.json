@@ -1,1 +1,1 @@
-{"name": "Terahertz_technology", "id": 3243287, "predecessors": [{"name": "Electromagnetic_spectrum", "id": 929615}, {"name": "Optics", "id": 692743}, {"name": "Radio_spectrum", "id": 932435}], "successors": []}
+{"name": "Terahertz_technology", "id": 3243287, "predecessors": [{"name": "Electromagnetic_spectrum", "id": 929615}, {"name": "Electronics", "id": 707661}, {"name": "Optics", "id": 692743}, {"name": "Radio_spectrum", "id": 932435}, {"name": "Radio_technology", "id": 2959298}], "successors": []}

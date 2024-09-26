@@ -1,1 +1,1 @@
-{"name": "Dryers", "id": 42650023, "predecessors": [{"name": "Chemical_equipment", "id": 42616899}, {"name": "Liquid-solid_separation", "id": 43573722}], "successors": []}
+{"name": "Dryers", "id": 42650023, "predecessors": [{"name": "Chemical_equipment", "id": 42616899}, {"name": "Engineering_thermodynamics", "id": 13711429}], "successors": []}

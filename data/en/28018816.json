@@ -1,1 +1,1 @@
-{"name": "Wireless_energy_transfer", "id": 28018816, "predecessors": [{"name": "Battery_charging", "id": 34215626}, {"name": "Electric_power_distribution", "id": 28606596}], "successors": []}
+{"name": "Wireless_energy_transfer", "id": 28018816, "predecessors": [{"name": "Battery_charging", "id": 34215626}, {"name": "Electric_power_distribution", "id": 28606596}, {"name": "Wireless", "id": 7290928}], "successors": []}

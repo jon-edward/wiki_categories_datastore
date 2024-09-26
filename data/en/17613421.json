@@ -1,1 +1,1 @@
-{"name": "Industrial_robots", "id": 17613421, "predecessors": [{"name": "Industrial_equipment", "id": 13616594}, {"name": "Robots", "id": 943048}], "successors": []}
+{"name": "Industrial_robots", "id": 17613421, "predecessors": [{"name": "Industrial_equipment", "id": 13616594}, {"name": "Industrial_robotics", "id": 33638169}, {"name": "Robots", "id": 943048}], "successors": []}

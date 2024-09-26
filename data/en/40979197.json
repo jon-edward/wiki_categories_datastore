@@ -1,1 +1,1 @@
-{"name": "Seed_associations", "id": 40979197, "predecessors": [{"name": "Seeds", "id": 21371365}], "successors": [{"name": "Community_seed_banks", "id": 36974303}]}
+{"name": "Seed_associations", "id": 40979197, "predecessors": [{"name": "Agricultural_organizations", "id": 32366664}, {"name": "Seeds", "id": 21371365}], "successors": [{"name": "Community_seed_banks", "id": 36974303}]}

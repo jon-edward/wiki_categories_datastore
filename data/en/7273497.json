@@ -1,1 +1,1 @@
-{"name": "Well_logging", "id": 7273497, "predecessors": [{"name": "Natural_gas", "id": 930957}, {"name": "Petroleum_engineering", "id": 11986503}, {"name": "Petroleum_geology", "id": 17839671}], "successors": []}
+{"name": "Well_logging", "id": 7273497, "predecessors": [{"name": "In_situ_geotechnical_investigations", "id": 62422898}, {"name": "Natural_gas", "id": 930957}, {"name": "Petroleum_engineering", "id": 11986503}, {"name": "Petroleum_geology", "id": 17839671}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Lexus_vehicles", "id": 968448, "predecessors": [{"name": "Cars_of_Japan", "id": 8229688}, {"name": "Luxury_vehicles", "id": 1028860}, {"name": "Toyota_vehicles", "id": 904149}], "successors": [{"name": "Lexus_concept_vehicles", "id": 46690469}]}
+{"name": "Lexus_vehicles", "id": 968448, "predecessors": [{"name": "Cars_of_Japan", "id": 8229688}, {"name": "Lexus", "id": 952280}, {"name": "Luxury_vehicles", "id": 1028860}, {"name": "Toyota_vehicles", "id": 904149}], "successors": [{"name": "Lexus_concept_vehicles", "id": 46690469}]}

@@ -1,1 +1,1 @@
-{"name": "Building_information_modeling", "id": 27233177, "predecessors": [{"name": "Building_engineering", "id": 3642629}, {"name": "Computer-aided_design_software", "id": 2383151}, {"name": "Data_modeling", "id": 1116481}], "successors": []}
+{"name": "Building_information_modeling", "id": 27233177, "predecessors": [{"name": "Building_engineering", "id": 3642629}, {"name": "Computer-aided_design_software", "id": 2383151}, {"name": "Data_modeling", "id": 1116481}, {"name": "Construction", "id": 755979}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Tram_vehicles_of_Poland", "id": 14304216, "predecessors": [{"name": "Vehicles", "id": 694929}], "successors": []}
+{"name": "Tram_vehicles_of_Poland", "id": 14304216, "predecessors": [{"name": "Tram_transport_in_Poland", "id": 3709474}, {"name": "Rail_transport_in_Europe", "id": 5351311}, {"name": "Tram_vehicles", "id": 3709588}], "successors": []}

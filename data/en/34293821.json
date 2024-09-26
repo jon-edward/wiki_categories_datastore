@@ -1,1 +1,1 @@
-{"name": "Software_engineering_books", "id": 34293821, "predecessors": [{"name": "Software_development_books", "id": 34293839}], "successors": [{"name": "Computer_programming_books", "id": 34293674}, {"name": "Software_development_books", "id": 34293839}]}
+{"name": "Software_engineering_books", "id": 34293821, "predecessors": [{"name": "Software_development_books", "id": 34293839}, {"name": "Software_engineering_publications", "id": 14528127}], "successors": [{"name": "Computer_programming_books", "id": 34293674}, {"name": "Software_development_books", "id": 34293839}]}

@@ -1,1 +1,1 @@
-{"name": "FINA_Water_Polo_World_Cup", "id": 16051050, "predecessors": [{"name": "World_cups", "id": 55528374}, {"name": "World_championships", "id": 7136195}], "successors": []}
+{"name": "World_Aquatics_Water_Polo_World_Cup", "id": 16051050, "predecessors": [{"name": "World_cups", "id": 55528374}, {"name": "World_championships", "id": 7136195}, {"name": "Association_of_Summer_Olympic_International_Federations", "id": 74309076}], "successors": []}

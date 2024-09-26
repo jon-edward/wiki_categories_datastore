@@ -1,1 +1,1 @@
-{"name": "FINA_Swimming_World_Cup", "id": 35455834, "predecessors": [{"name": "World_cups", "id": 55528374}], "successors": []}
+{"name": "World_Aquatics_Swimming_World_Cup", "id": 35455834, "predecessors": [{"name": "World_cups", "id": 55528374}, {"name": "Association_of_Summer_Olympic_International_Federations", "id": 74309076}], "successors": []}

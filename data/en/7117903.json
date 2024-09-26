@@ -1,1 +1,1 @@
-{"name": "Network_file_transfer_protocols", "id": 7117903, "predecessors": [{"name": "File_transfer_protocols", "id": 1680190}], "successors": [{"name": "File_Transfer_Protocol", "id": 34959018}]}
+{"name": "Network_file_transfer_protocols", "id": 7117903, "predecessors": [{"name": "File_transfer_protocols", "id": 1680190}], "successors": [{"name": "SSH_File_Transfer_Protocol_clients", "id": 3671800}, {"name": "File_Transfer_Protocol", "id": 34959018}]}

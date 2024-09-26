@@ -1,1 +1,1 @@
-{"name": "Textile_machinery", "id": 33000068, "predecessors": [{"name": "Machinery", "id": 7810523}, {"name": "Textile_industry", "id": 17136491}], "successors": [{"name": "Textile_machinery_manufacturers", "id": 19311282}, {"name": "Weaving_equipment", "id": 34338050}, {"name": "Cotton_gin", "id": 45584517}]}
+{"name": "Textile_machinery", "id": 33000068, "predecessors": [{"name": "Machinery", "id": 7810523}], "successors": [{"name": "Textile_machinery_manufacturers", "id": 19311282}, {"name": "Weaving_equipment", "id": 34338050}, {"name": "Cotton_gin", "id": 45584517}]}

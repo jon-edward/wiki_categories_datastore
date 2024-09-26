@@ -1,1 +1,1 @@
-{"name": "Antimicrobial_peptides", "id": 11184275, "predecessors": [{"name": "Peptides", "id": 3791010}, {"name": "Membrane_biology", "id": 1064336}, {"name": "Antibiotics", "id": 695084}], "successors": []}
+{"name": "Antimicrobial_peptides", "id": 11184275, "predecessors": [{"name": "Immune_system", "id": 729294}, {"name": "Peptides", "id": 3791010}, {"name": "Molecules", "id": 3129318}, {"name": "Antibiotics", "id": 695084}], "successors": [{"name": "Defensins", "id": 56833230}]}

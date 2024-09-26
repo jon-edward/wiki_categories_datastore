@@ -1,1 +1,1 @@
-{"name": "Hitachi_subsidiaries", "id": 74767576, "predecessors": [{"name": "Hitachi", "id": 27610404}], "successors": []}
+{"name": "Hitachi_subsidiaries", "id": 74767576, "predecessors": [{"name": "Hitachi", "id": 27610404}], "successors": [{"name": "Hitachi_locomotives", "id": 23956239}, {"name": "Hitachi_multiple_units", "id": 23956477}]}

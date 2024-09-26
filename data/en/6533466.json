@@ -1,1 +1,1 @@
-{"name": "Economic_forecasting", "id": 6533466, "predecessors": [{"name": "Forecasting", "id": 51479668}, {"name": "Economic_methodology", "id": 5016781}], "successors": []}
+{"name": "Economic_forecasting", "id": 6533466, "predecessors": [{"name": "Forecasting", "id": 51479668}, {"name": "Economic_methodology", "id": 5016781}], "successors": [{"name": "Market_trends", "id": 5017833}]}

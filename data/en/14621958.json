@@ -1,1 +1,1 @@
-{"name": "Japanese_cuisine_terms", "id": 14621958, "predecessors": [{"name": "Culinary_terminology", "id": 45143182}, {"name": "Japanese_words_and_phrases", "id": 8730181}], "successors": []}
+{"name": "Japanese_cuisine_terms", "id": 14621958, "predecessors": [{"name": "Culinary_terminology", "id": 45143182}, {"name": "Japanese_cuisine", "id": 937592}, {"name": "Japanese_words_and_phrases", "id": 8730181}], "successors": [{"name": "Sushi", "id": 3197170}, {"name": "Surimi", "id": 5804491}, {"name": "Japanese_tea", "id": 9913642}]}

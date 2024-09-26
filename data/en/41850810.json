@@ -1,1 +1,1 @@
-{"name": "Buttons", "id": 41850810, "predecessors": [{"name": "Textile_arts", "id": 945184}, {"name": "Textile_closures", "id": 11768992}], "successors": []}
+{"name": "Buttons", "id": 41850810, "predecessors": [{"name": "Parts_of_clothing", "id": 8197638}, {"name": "Sewing", "id": 945132}, {"name": "Textile_arts", "id": 945184}], "successors": []}

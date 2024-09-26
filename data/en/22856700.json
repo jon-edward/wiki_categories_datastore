@@ -1,1 +1,1 @@
-{"name": "Bracelets", "id": 22856700, "predecessors": [{"name": "Types_of_jewellery", "id": 20089431}], "successors": []}
+{"name": "Bracelets", "id": 22856700, "predecessors": [{"name": "Armwear", "id": 9932547}, {"name": "Handwear", "id": 72499274}, {"name": "Types_of_jewellery", "id": 20089431}, {"name": "Wrist", "id": 2335927}], "successors": []}

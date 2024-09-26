@@ -1,1 +1,1 @@
-{"name": "Polish_film_actresses", "id": 38376144, "predecessors": [{"name": "Polish_film_actors", "id": 3066871}], "successors": [{"name": "Polish_silent_film_actresses", "id": 38530327}]}
+{"name": "Polish_film_actresses", "id": 38376144, "predecessors": [{"name": "Polish_film_actors", "id": 3066871}, {"name": "Polish_actresses", "id": 38135536}], "successors": [{"name": "Polish_silent_film_actresses", "id": 38530327}]}

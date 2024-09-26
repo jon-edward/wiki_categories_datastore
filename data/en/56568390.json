@@ -1,1 +1,1 @@
-{"name": "Reference_publishers", "id": 56568390, "predecessors": [{"name": "Reference_works", "id": 699920}], "successors": [{"name": "Janes_Information_Services", "id": 75739077}]}
+{"name": "Reference_publishers", "id": 56568390, "predecessors": [{"name": "Reference_works", "id": 699920}, {"name": "Publishing", "id": 1001911}], "successors": [{"name": "Janes_Information_Services", "id": 75739077}]}

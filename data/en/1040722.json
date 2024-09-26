@@ -1,1 +1,1 @@
-{"name": "1503_deaths", "id": 1040722, "predecessors": [{"name": "Calendars", "id": 698466}], "successors": []}
+{"name": "1503_deaths", "id": 1040722, "predecessors": [{"name": "1500s_deaths", "id": 1040725}, {"name": "Calendars", "id": 698466}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Fox_Television_Stations", "id": 39517731, "predecessors": [{"name": "Fox_Broadcasting_Company", "id": 32931899}], "successors": [{"name": "New_World_Communications_television_stations", "id": 37726771}]}
+{"name": "Fox_Television_Stations", "id": 39517731, "predecessors": [{"name": "Fox_Broadcasting_Company", "id": 32931899}, {"name": "Fox_Corporation_subsidiaries", "id": 59525469}], "successors": [{"name": "New_World_Communications_television_stations", "id": 37726771}]}

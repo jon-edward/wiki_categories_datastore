@@ -1,1 +1,1 @@
-{"name": "Stations_of_Kobe_Municipal_Subway", "id": 18789860, "predecessors": [{"name": "Railway_stations_in_Kobe", "id": 45526322}, {"name": "Transport_in_Kobe", "id": 8297775}, {"name": "Rapid_transit", "id": 4286827}], "successors": []}
+{"name": "Stations_of_Kobe_Municipal_Subway", "id": 18789860, "predecessors": [{"name": "Transport_in_Kobe", "id": 8297775}, {"name": "Railway_companies_of_Japan", "id": 703223}, {"name": "Transport_in_Japan", "id": 6394372}], "successors": []}

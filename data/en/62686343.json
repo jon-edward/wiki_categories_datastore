@@ -1,1 +1,1 @@
-{"name": "Occupational_health_psychology", "id": 62686343, "predecessors": [{"name": "Health_psychology", "id": 68666175}, {"name": "Occupational_safety_and_health", "id": 1215289}], "successors": [{"name": "Occupational_stress", "id": 69485066}]}
+{"name": "Occupational_health_psychology", "id": 62686343, "predecessors": [{"name": "Applied_psychology", "id": 1061365}, {"name": "Health_psychology", "id": 68666175}, {"name": "Occupational_safety_and_health", "id": 1215289}], "successors": [{"name": "Occupational_stress", "id": 69485066}]}

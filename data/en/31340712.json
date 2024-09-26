@@ -1,1 +1,1 @@
-{"name": "Metadata_publishing", "id": 31340712, "predecessors": [{"name": "Metadata", "id": 2388558}], "successors": [{"name": "Microformats", "id": 10220551}]}
+{"name": "Metadata_publishing", "id": 31340712, "predecessors": [{"name": "Electronic_publishing", "id": 13690850}, {"name": "Metadata", "id": 2388558}], "successors": [{"name": "Microformats", "id": 10220551}]}

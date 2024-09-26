@@ -1,1 +1,1 @@
-{"name": "People_executed_for_corruption", "id": 53632372, "predecessors": [{"name": "People_convicted_of_corruption", "id": 39652120}], "successors": []}
+{"name": "People_executed_for_corruption", "id": 53632372, "predecessors": [{"name": "People_convicted_of_corruption", "id": 39652120}, {"name": "Crime_by_type", "id": 15090762}], "successors": []}

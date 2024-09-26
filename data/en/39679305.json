@@ -1,1 +1,1 @@
-{"name": "Free_password_managers", "id": 39679305, "predecessors": [{"name": "Free_personal_information_managers", "id": 6701891}, {"name": "Password_managers", "id": 3268336}], "successors": []}
+{"name": "Free_password_managers", "id": 39679305, "predecessors": [{"name": "Free_personal_information_managers", "id": 6701891}, {"name": "Free_security_software", "id": 6703051}, {"name": "Password_managers", "id": 3268336}], "successors": []}

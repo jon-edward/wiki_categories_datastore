@@ -1,1 +1,1 @@
-{"name": "Quaternary_California", "id": 47558576, "predecessors": [{"name": "Geologic_formations_of_California", "id": 44532101}], "successors": [{"name": "Pleistocene_California", "id": 49924036}]}
+{"name": "Quaternary_California", "id": 47558576, "predecessors": [{"name": "Geologic_formations_of_California", "id": 44532101}, {"name": "Quaternary_United_States", "id": 47558486}], "successors": [{"name": "Pleistocene_California", "id": 49924036}]}

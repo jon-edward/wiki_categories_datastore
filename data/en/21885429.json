@@ -1,1 +1,1 @@
-{"name": "Eggs_in_culture", "id": 21885429, "predecessors": [{"name": "Food_and_drink_culture", "id": 18623243}], "successors": [{"name": "Easter_egg", "id": 70551534}]}
+{"name": "Eggs_in_culture", "id": 21885429, "predecessors": [{"name": "Eggs", "id": 15319466}, {"name": "Food_and_drink_culture", "id": 18623243}], "successors": [{"name": "Easter_egg", "id": 70551534}]}

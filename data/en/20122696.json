@@ -1,1 +1,1 @@
-{"name": "Parks_in_Helsinki", "id": 20122696, "predecessors": [{"name": "Tourist_attractions_in_Helsinki", "id": 6005784}], "successors": []}
+{"name": "Parks_in_Helsinki", "id": 20122696, "predecessors": [{"name": "Geography_of_Helsinki", "id": 20121502}, {"name": "Tourist_attractions_in_Helsinki", "id": 6005784}], "successors": [{"name": "Linnanmäki", "id": 22634145}]}

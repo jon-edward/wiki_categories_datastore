@@ -1,1 +1,1 @@
-{"name": "Hindu_art", "id": 13179748, "predecessors": [{"name": "Religious_art", "id": 13177566}], "successors": [{"name": "Hindu_iconography", "id": 33558311}, {"name": "Hindu_architecture", "id": 58837642}]}
+{"name": "Hindu_art", "id": 13179748, "predecessors": [{"name": "Hindu_culture", "id": 36056874}, {"name": "Religious_art", "id": 13177566}], "successors": [{"name": "Hindu_iconography", "id": 33558311}, {"name": "Hindu_dance_traditions", "id": 33859624}, {"name": "Hindu_architecture", "id": 58837642}]}

@@ -1,1 +1,1 @@
-{"name": "Deaths_by_defenestration", "id": 15003821, "predecessors": [{"name": "Windows", "id": 707885}], "successors": []}
+{"name": "Deaths_by_defenestration", "id": 15003821, "predecessors": [{"name": "Deaths_from_falls", "id": 19267759}, {"name": "Windows", "id": 707885}], "successors": []}

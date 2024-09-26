@@ -1,1 +1,1 @@
-{"name": "Compagnie_des_Alpes", "id": 33859239, "predecessors": [{"name": "Transport_companies_of_France", "id": 18668651}], "successors": [{"name": "Roller_coasters_operated_by_Compagnie_des_Alpes", "id": 77202271}]}
+{"name": "Compagnie_des_Alpes", "id": 33859239, "predecessors": [{"name": "Amusement_park_companies", "id": 8327093}, {"name": "Transport_companies_of_France", "id": 18668651}], "successors": [{"name": "Roller_coasters_operated_by_Compagnie_des_Alpes", "id": 77202271}]}

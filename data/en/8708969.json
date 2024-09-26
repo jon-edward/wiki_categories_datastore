@@ -1,1 +1,1 @@
-{"name": "Sieges_involving_Russia", "id": 8708969, "predecessors": [{"name": "Sieges", "id": 879445}], "successors": [{"name": "Beslan_school_siege", "id": 5991928}]}
+{"name": "Sieges_involving_Russia", "id": 8708969, "predecessors": [{"name": "Battles_involving_Russia", "id": 8685985}, {"name": "Sieges", "id": 879445}], "successors": [{"name": "Beslan_school_siege", "id": 5991928}, {"name": "Sieges_involving_the_Soviet_Union", "id": 8711873}, {"name": "Sieges_involving_the_Russian_Empire", "id": 76816128}, {"name": "Sieges_involving_the_Tsardom_of_Russia", "id": 76816204}]}

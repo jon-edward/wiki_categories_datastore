@@ -1,1 +1,1 @@
-{"name": "Bays_of_Qikiqtaaluk_Region", "id": 9662134, "predecessors": [{"name": "Northern_Canada", "id": 24827026}, {"name": "Qikiqtaaluk_Region", "id": 5240191}], "successors": [{"name": "James_Bay", "id": 10441572}, {"name": "Bays_of_Foxe_Basin", "id": 52405502}]}
+{"name": "Bays_of_Qikiqtaaluk_Region", "id": 9662134, "predecessors": [{"name": "Arctic_Ocean", "id": 9224465}], "successors": [{"name": "James_Bay", "id": 10441572}]}

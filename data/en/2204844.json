@@ -1,1 +1,1 @@
-{"name": "Hung_Hom", "id": 2204844, "predecessors": [{"name": "Kowloon", "id": 1795450}, {"name": "Kowloon_City_District", "id": 1795440}, {"name": "Yau_Tsim_Mong_District", "id": 1795546}], "successors": []}
+{"name": "Hung_Hom", "id": 2204844, "predecessors": [{"name": "Areas_of_Hong_Kong", "id": 3720662}, {"name": "Kowloon", "id": 1795450}, {"name": "Kowloon_City_District", "id": 1795440}, {"name": "Yau_Tsim_Mong_District", "id": 1795546}], "successors": [{"name": "Hong_Kong_Polytechnic_University", "id": 12235019}]}

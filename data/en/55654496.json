@@ -1,1 +1,1 @@
-{"name": "Company_housing", "id": 55654496, "predecessors": [{"name": "Housing", "id": 4152584}, {"name": "Labor_history", "id": 13025949}], "successors": [{"name": "Company_towns", "id": 1020459}, {"name": "Model_villages", "id": 3673927}]}
+{"name": "Company_housing", "id": 55654496, "predecessors": [{"name": "Housing", "id": 4152584}, {"name": "Labor_history", "id": 13025949}, {"name": "Business", "id": 771152}], "successors": [{"name": "Company_towns", "id": 1020459}, {"name": "Model_villages", "id": 3673927}]}

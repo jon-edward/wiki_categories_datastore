@@ -1,1 +1,1 @@
-{"name": "Flags_of_dependent_territories", "id": 75903815, "predecessors": [{"name": "Flags", "id": 700721}], "successors": [{"name": "Flags_of_Overseas_France", "id": 53659834}]}
+{"name": "Flags_of_dependent_territories", "id": 75903815, "predecessors": [{"name": "Flags", "id": 700721}, {"name": "Dependent_territories", "id": 697608}], "successors": [{"name": "Flags_of_the_insular_areas_of_the_United_States", "id": 2718344}, {"name": "Flags_of_British_Overseas_Territories", "id": 26705899}, {"name": "Flags_of_Overseas_France", "id": 53659834}]}

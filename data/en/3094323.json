@@ -1,1 +1,1 @@
-{"name": "Sound_effects", "id": 3094323, "predecessors": [{"name": "Special_effects", "id": 801183}, {"name": "Sound_recording", "id": 2497458}], "successors": [{"name": "Audio_effects", "id": 1120316}, {"name": "Sound_effects_albums", "id": 38090656}]}
+{"name": "Sound_effects", "id": 3094323, "predecessors": [{"name": "Special_effects", "id": 801183}, {"name": "Sound_recording", "id": 2497458}], "successors": [{"name": "Audio_effects", "id": 1120316}]}

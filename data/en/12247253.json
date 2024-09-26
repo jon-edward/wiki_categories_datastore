@@ -1,1 +1,1 @@
-{"name": "Forestry_academics", "id": 12247253, "predecessors": [{"name": "Forestry_education", "id": 12996443}, {"name": "Forestry_occupations", "id": 3036865}, {"name": "History_of_forestry", "id": 35726707}], "successors": [{"name": "Forestry_researchers", "id": 35644245}]}
+{"name": "Forestry_academics", "id": 12247253, "predecessors": [{"name": "Forestry_education", "id": 12996443}, {"name": "Forestry_occupations", "id": 3036865}, {"name": "History_of_forestry", "id": 35726707}], "successors": [{"name": "Plant_physiologists", "id": 37411352}]}

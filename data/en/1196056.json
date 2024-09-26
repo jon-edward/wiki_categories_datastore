@@ -1,1 +1,1 @@
-{"name": "X86_microprocessors", "id": 1196056, "predecessors": [{"name": "Instruction_set_architectures", "id": 23410612}], "successors": [{"name": "VIA_Technologies_x86_microprocessors", "id": 18040808}]}
+{"name": "X86_microprocessors", "id": 1196056, "predecessors": [{"name": "X86_architecture", "id": 2299258}], "successors": [{"name": "AMD_x86_microprocessors", "id": 18040169}, {"name": "VIA_Technologies_x86_microprocessors", "id": 18040808}, {"name": "Intel_x86_microprocessors", "id": 18041287}]}

@@ -1,1 +1,1 @@
-{"name": "Register-based_virtual_machines", "id": 21118976, "predecessors": [{"name": "Models_of_computation", "id": 31036668}], "successors": []}
+{"name": "Register-based_virtual_machines", "id": 21118976, "predecessors": [{"name": "Virtual_machines", "id": 4726255}, {"name": "Models_of_computation", "id": 31036668}], "successors": []}

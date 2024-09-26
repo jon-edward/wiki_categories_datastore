@@ -1,1 +1,1 @@
-{"name": "Aldehydic_acids", "id": 55355979, "predecessors": [{"name": "Carboxylic_acids", "id": 695889}], "successors": []}
+{"name": "Aldehydic_acids", "id": 55355979, "predecessors": [{"name": "Aldehydes", "id": 695891}, {"name": "Carboxylic_acids", "id": 695889}], "successors": []}

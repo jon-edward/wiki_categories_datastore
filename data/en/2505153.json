@@ -1,1 +1,1 @@
-{"name": "Ancient_Greek_painters", "id": 2505153, "predecessors": [{"name": "Ancient_Greek_artists", "id": 2409817}, {"name": "Greek_painters", "id": 1100695}], "successors": [{"name": "Ancient_Greek_vase_painters", "id": 7105409}]}
+{"name": "Ancient_Greek_painters", "id": 2505153, "predecessors": [{"name": "Ancient_Greek_artists", "id": 2409817}, {"name": "Greek_painters", "id": 1100695}, {"name": "Ancient_art", "id": 2303805}, {"name": "Painting", "id": 707606}], "successors": [{"name": "Ancient_Greek_vase_painters", "id": 7105409}]}

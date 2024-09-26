@@ -1,1 +1,1 @@
-{"name": "Ethologists", "id": 821896, "predecessors": [{"name": "Ethology", "id": 2650082}, {"name": "Zoologists", "id": 712123}, {"name": "Animals_and_humans", "id": 52196069}], "successors": []}
+{"name": "Ethologists", "id": 821896, "predecessors": [{"name": "Zoologists", "id": 712123}, {"name": "Animals_and_humans", "id": 52196069}], "successors": [{"name": "Behavior_geneticists", "id": 6191878}, {"name": "Women_ethologists", "id": 41986774}, {"name": "Behavioral_neuroscientists", "id": 67351316}]}

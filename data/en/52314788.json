@@ -1,1 +1,1 @@
-{"name": "Bayesian_estimation", "id": 52314788, "predecessors": [{"name": "Bayesian_inference", "id": 32549775}, {"name": "Estimation_theory", "id": 1587689}], "successors": [{"name": "Markov_chain_Monte_Carlo", "id": 21407782}]}
+{"name": "Bayesian_estimation", "id": 52314788, "predecessors": [{"name": "Bayesian_inference", "id": 32549775}, {"name": "Estimation_theory", "id": 1587689}], "successors": [{"name": "Markov_chain_Monte_Carlo", "id": 21407782}, {"name": "Signal_estimation", "id": 28857734}]}

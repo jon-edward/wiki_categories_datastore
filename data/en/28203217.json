@@ -1,1 +1,1 @@
-{"name": "Linear_integrated_circuits", "id": 28203217, "predecessors": [{"name": "Analog_circuits", "id": 5536289}, {"name": "Integrated_circuits", "id": 1240658}], "successors": []}
+{"name": "Linear_integrated_circuits", "id": 28203217, "predecessors": [{"name": "Analog_circuits", "id": 5536289}, {"name": "Integrated_circuits", "id": 1240658}, {"name": "Linear_electronic_circuits", "id": 45311563}], "successors": []}

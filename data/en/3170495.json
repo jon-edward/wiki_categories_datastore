@@ -1,1 +1,1 @@
-{"name": "Metalworking_measuring_instruments", "id": 3170495, "predecessors": [{"name": "Metalworking_tools", "id": 11786655}, {"name": "Measuring_instruments", "id": 889248}], "successors": []}
+{"name": "Metalworking_measuring_instruments", "id": 3170495, "predecessors": [{"name": "Metalworking_tools", "id": 11786655}, {"name": "Measuring_instruments", "id": 889248}], "successors": [{"name": "Squares_(tool)", "id": 65694434}]}

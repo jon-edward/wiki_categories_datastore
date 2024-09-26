@@ -1,1 +1,1 @@
-{"name": "Zinc_proteins", "id": 20412060, "predecessors": [{"name": "Metalloproteins", "id": 2039530}, {"name": "Zinc_compounds", "id": 1907056}], "successors": []}
+{"name": "Zinc_proteins", "id": 20412060, "predecessors": [{"name": "Metalloproteins", "id": 2039530}, {"name": "Zinc_compounds", "id": 1907056}], "successors": [{"name": "Zinc_enzymes", "id": 13901700}, {"name": "Zinc_finger_proteins", "id": 46689725}]}

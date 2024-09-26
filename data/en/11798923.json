@@ -1,1 +1,1 @@
-{"name": "Portable_software", "id": 11798923, "predecessors": [{"name": "Portable_electronics", "id": 27739343}], "successors": []}
+{"name": "Portable_software", "id": 11798923, "predecessors": [{"name": "Portable_electronics", "id": 27739343}, {"name": "Software_by_type", "id": 54611051}], "successors": [{"name": "Google_Chrome", "id": 33979912}]}

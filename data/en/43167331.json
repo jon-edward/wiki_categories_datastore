@@ -1,1 +1,1 @@
-{"name": "Bi-metallic_coins", "id": 43167331, "predecessors": [{"name": "Coins", "id": 904510}, {"name": "Composite_materials", "id": 944345}], "successors": []}
+{"name": "Bi-metallic_coins", "id": 43167331, "predecessors": [{"name": "Coins", "id": 904510}, {"name": "Metallurgy", "id": 977017}], "successors": []}

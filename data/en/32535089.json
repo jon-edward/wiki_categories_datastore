@@ -1,1 +1,1 @@
-{"name": "Weather_ships", "id": 32535089, "predecessors": [{"name": "Meteorological_instrumentation_and_equipment", "id": 4014775}, {"name": "Meteorological_stations", "id": 14006257}], "successors": []}
+{"name": "Weather_ships", "id": 32535089, "predecessors": [{"name": "Meteorological_instrumentation_and_equipment", "id": 4014775}, {"name": "Meteorological_stations", "id": 14006257}, {"name": "Naval_meteorology", "id": 72115297}], "successors": []}

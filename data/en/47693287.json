@@ -1,1 +1,1 @@
-{"name": "Corporate_tax_avoidance", "id": 47693287, "predecessors": [{"name": "Tax_avoidance", "id": 16701331}], "successors": [{"name": "Tax_inversions", "id": 43151148}]}
+{"name": "Corporate_tax_avoidance", "id": 47693287, "predecessors": [{"name": "Corporate_taxation", "id": 12806731}, {"name": "Tax_avoidance", "id": 16701331}], "successors": []}

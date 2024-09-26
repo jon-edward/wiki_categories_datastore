@@ -1,0 +1,1 @@
+{"name": "Analysis_of_algorithms", "id": 3234221, "predecessors": [{"name": "Computational_complexity_theory", "id": 693727}], "successors": [{"name": "Analysis_of_parallel_algorithms", "id": 45209280}, {"name": "Amortized_data_structures", "id": 56031456}, {"name": "Graph_minor_theory", "id": 28226574}]}

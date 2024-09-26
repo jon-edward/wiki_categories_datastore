@@ -1,1 +1,1 @@
-{"name": "Continuously_variable_transmissions", "id": 26219169, "predecessors": [{"name": "Auto_parts", "id": 2850556}, {"name": "Gears", "id": 2346217}, {"name": "Torque", "id": 36325807}], "successors": []}
+{"name": "Continuously_variable_transmissions", "id": 26219169, "predecessors": [{"name": "Auto_parts", "id": 2850556}, {"name": "Automotive_transmission_technologies", "id": 1154958}, {"name": "Gears", "id": 2346217}, {"name": "Mechanical_power_transmission", "id": 22781840}], "successors": []}

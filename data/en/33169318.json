@@ -1,1 +1,1 @@
-{"name": "Court_physicians", "id": 33169318, "predecessors": [{"name": "Physicians", "id": 718247}, {"name": "Books", "id": 694040}], "successors": [{"name": "Physicians-in-Ordinary", "id": 24187770}]}
+{"name": "Court_physicians", "id": 33169318, "predecessors": [{"name": "Physicians", "id": 718247}], "successors": [{"name": "Physicians-in-Ordinary", "id": 24187770}]}

@@ -1,1 +1,1 @@
-{"name": "Aviation_ministries", "id": 56451438, "predecessors": [{"name": "Ministries_of_transport", "id": 9262229}], "successors": []}
+{"name": "Aviation_ministries", "id": 56451438, "predecessors": [{"name": "Civil_aviation", "id": 18408174}, {"name": "Ministries_of_transport", "id": 9262229}], "successors": [{"name": "Ministry_of_Civil_Aviation_(India)", "id": 42998416}]}

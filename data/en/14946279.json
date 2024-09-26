@@ -1,1 +1,1 @@
-{"name": "Modular_synthesizers", "id": 14946279, "predecessors": [{"name": "Modularity", "id": 51259459}, {"name": "Synthesizers", "id": 757735}], "successors": [{"name": "Synthesiser_modules", "id": 8230866}]}
+{"name": "Modular_synthesizers", "id": 14946279, "predecessors": [{"name": "Modularity", "id": 51259459}], "successors": [{"name": "Synthesiser_modules", "id": 8230866}]}

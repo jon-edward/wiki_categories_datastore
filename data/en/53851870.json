@@ -1,1 +1,1 @@
-{"name": "Species_endangered_by_human_consumption_for_medicinal_or_magical_purposes", "id": 53851870, "predecessors": [{"name": "Magic_(supernatural)", "id": 16567661}, {"name": "Traditional_medicine", "id": 2957649}], "successors": []}
+{"name": "Species_endangered_by_human_consumption_for_medicinal_or_magical_purposes", "id": 53851870, "predecessors": [{"name": "Magic_(supernatural)", "id": 16567661}, {"name": "Species_endangered_by_human_consumption", "id": 53844735}, {"name": "Traditional_medicine", "id": 2957649}], "successors": []}

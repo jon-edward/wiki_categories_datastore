@@ -1,1 +1,1 @@
-{"name": "Spanish-language_books", "id": 48837343, "predecessors": [{"name": "Spanish_language", "id": 846078}, {"name": "Books", "id": 694040}], "successors": [{"name": "Spanish-language_novels", "id": 15651281}]}
+{"name": "Spanish-language_books", "id": 48837343, "predecessors": [{"name": "Books", "id": 694040}, {"name": "Mass_media", "id": 696790}], "successors": [{"name": "Spanish-language_novels", "id": 15651281}]}

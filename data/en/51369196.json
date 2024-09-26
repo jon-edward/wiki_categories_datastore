@@ -1,1 +1,1 @@
-{"name": "Greek-script_diacritics", "id": 51369196, "predecessors": [{"name": "Graphemes", "id": 4194372}], "successors": []}
+{"name": "Greek-script_diacritics", "id": 51369196, "predecessors": [{"name": "Greek_alphabet", "id": 2047363}, {"name": "Graphemes", "id": 4194372}], "successors": []}

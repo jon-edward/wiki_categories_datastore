@@ -1,1 +1,1 @@
-{"name": "Plant_hormones", "id": 1137530, "predecessors": [{"name": "Chemical_compounds", "id": 695235}], "successors": []}
+{"name": "Plant_hormones", "id": 1137530, "predecessors": [{"name": "Hormones", "id": 717945}, {"name": "Chemical_compounds", "id": 695235}, {"name": "Horticulture", "id": 2213176}], "successors": [{"name": "Auxins", "id": 6997632}]}

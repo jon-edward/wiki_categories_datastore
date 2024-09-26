@@ -1,1 +1,1 @@
-{"name": "Vaishnava_texts", "id": 45075462, "predecessors": [{"name": "Hindu_texts", "id": 730963}], "successors": [{"name": "Ramayana", "id": 11625466}, {"name": "Mahabharata", "id": 28128728}, {"name": "Bhagavad_Gita", "id": 42028710}]}
+{"name": "Vaishnava_texts", "id": 45075462, "predecessors": [{"name": "Hindu_texts", "id": 730963}, {"name": "Vaishnavism", "id": 1114848}], "successors": [{"name": "Ramayana", "id": 11625466}, {"name": "Mahabharata", "id": 28128728}, {"name": "Bhagavad_Gita", "id": 42028710}]}

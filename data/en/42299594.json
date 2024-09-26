@@ -1,1 +1,1 @@
-{"name": "Song_dynasty_art", "id": 42299594, "predecessors": [{"name": "Song_dynasty", "id": 42299518}], "successors": [{"name": "Song_dynasty_calligraphers", "id": 42299600}, {"name": "Song_dynasty_painters", "id": 42299695}, {"name": "Song_dynasty_paintings", "id": 42299706}]}
+{"name": "Song_dynasty_art", "id": 42299594, "predecessors": [{"name": "Song_dynasty", "id": 42299518}, {"name": "Chinese_art", "id": 882753}], "successors": [{"name": "Song_dynasty_calligraphers", "id": 42299600}]}

@@ -1,1 +1,1 @@
-{"name": "Ships_lost_with_all_hands", "id": 39684651, "predecessors": [{"name": "Death", "id": 921954}, {"name": "Maritime_disasters", "id": 29732377}, {"name": "Shipwrecks", "id": 739221}], "successors": []}
+{"name": "Ships_lost_with_all_hands", "id": 39684651, "predecessors": [{"name": "Death", "id": 921954}, {"name": "Maritime_disasters", "id": 29732377}, {"name": "Shipwrecks", "id": 739221}], "successors": [{"name": "Warships_lost_with_all_hands", "id": 70545451}, {"name": "Submarines_lost_with_all_hands", "id": 74144683}]}

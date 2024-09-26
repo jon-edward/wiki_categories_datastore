@@ -1,1 +1,1 @@
-{"name": "Population_models", "id": 25209907, "predecessors": [{"name": "Statistical_models", "id": 17193471}], "successors": [{"name": "Population_dynamics", "id": 67601726}]}
+{"name": "Population_models", "id": 25209907, "predecessors": [{"name": "Population_ecology", "id": 11128507}, {"name": "Statistical_models", "id": 17193471}], "successors": [{"name": "Population_dynamics", "id": 67601726}]}

@@ -1,1 +1,1 @@
-{"name": "Microsoft_Tablet_PC", "id": 34142540, "predecessors": [{"name": "Microsoft_hardware", "id": 13659567}, {"name": "Touchscreens", "id": 22221220}], "successors": []}
+{"name": "Microsoft_Tablet_PC", "id": 34142540, "predecessors": [{"name": "Laptops", "id": 705508}, {"name": "Microsoft_hardware", "id": 13659567}, {"name": "Tablet_computers", "id": 26588084}, {"name": "Touchscreens", "id": 22221220}], "successors": []}

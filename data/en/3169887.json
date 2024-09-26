@@ -1,1 +1,1 @@
-{"name": "Grand_tourers", "id": 3169887, "predecessors": [{"name": "Luxury_vehicles", "id": 1028860}, {"name": "Mid-size_cars", "id": 3644516}, {"name": "Sports_cars", "id": 695196}], "successors": []}
+{"name": "Grand_tourers", "id": 3169887, "predecessors": [{"name": "Luxury_vehicles", "id": 1028860}, {"name": "Mid-size_cars", "id": 3644516}, {"name": "Sports_cars", "id": 695196}], "successors": [{"name": "Grand_tourer_racing_cars", "id": 13578800}]}

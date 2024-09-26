@@ -1,0 +1,1 @@
+{"name": "EF-hand-containing_proteins", "id": 52371706, "predecessors": [{"name": "Protein_structure", "id": 740536}, {"name": "Calcium", "id": 7138396}], "successors": [{"name": "S100_proteins", "id": 52371623}, {"name": "EH-domain-containing_proteins", "id": 52420084}]}

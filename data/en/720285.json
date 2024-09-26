@@ -1,1 +1,1 @@
-{"name": "Steroid_hormones", "id": 720285, "predecessors": [{"name": "Steroids", "id": 720288}], "successors": []}
+{"name": "Steroid_hormones", "id": 720285, "predecessors": [{"name": "Steroids", "id": 720288}, {"name": "Hormones", "id": 717945}], "successors": [{"name": "Corticosteroids", "id": 720354}, {"name": "Testosterone", "id": 31274141}]}

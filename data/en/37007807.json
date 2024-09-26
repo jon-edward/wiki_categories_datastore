@@ -1,1 +1,1 @@
-{"name": "Science_writing_awards", "id": 37007807, "predecessors": [{"name": "Non-fiction_literary_awards", "id": 17645284}, {"name": "Science_communication_awards", "id": 13646560}, {"name": "Journalism", "id": 698307}, {"name": "Mass_media_events", "id": 47788896}], "successors": []}
+{"name": "Science_writing_awards", "id": 37007807, "predecessors": [{"name": "Science_communication_awards", "id": 13646560}, {"name": "Science_communication", "id": 51230818}, {"name": "Mass_media_events", "id": 47788896}], "successors": []}

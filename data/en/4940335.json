@@ -1,1 +1,1 @@
-{"name": "Ships_built_in_Finland", "id": 4940335, "predecessors": [{"name": "Ships_of_Finland", "id": 3001854}], "successors": [{"name": "Ships_built_in_Helsinki", "id": 52376289}]}
+{"name": "Ships_built_in_Finland", "id": 4940335, "predecessors": [{"name": "Ships_of_Finland", "id": 3001854}, {"name": "Economy_of_Finland", "id": 1289349}], "successors": [{"name": "Ships_built_in_Helsinki", "id": 52376289}, {"name": "Ships_built_in_Turku", "id": 52383593}, {"name": "Ships_built_in_Rauma,_Finland", "id": 52843692}]}

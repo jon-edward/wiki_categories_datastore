@@ -1,1 +1,1 @@
-{"name": "Messerschmitt_aircraft", "id": 15674626, "predecessors": [{"name": "Vehicles", "id": 694929}], "successors": []}
+{"name": "Messerschmitt_aircraft", "id": 15674626, "predecessors": [{"name": "Aviation_in_Germany", "id": 4678252}, {"name": "Companies_based_in_Augsburg", "id": 42821376}], "successors": [{"name": "Messerschmitt_Bf_109", "id": 40180643}, {"name": "BFW_aircraft", "id": 59882196}, {"name": "Messerschmitt_Me_262", "id": 61416458}]}

@@ -1,1 +1,1 @@
-{"name": "Family_economics", "id": 5110087, "predecessors": [{"name": "Family", "id": 706788}], "successors": [{"name": "Home_economics", "id": 21116311}]}
+{"name": "Family_economics", "id": 5110087, "predecessors": [{"name": "Demographic_economics", "id": 6535870}, {"name": "Family", "id": 706788}, {"name": "Private_sector", "id": 71252134}], "successors": [{"name": "Child_care", "id": 1065869}, {"name": "Personal_finance", "id": 1655037}, {"name": "Matriarchy", "id": 19286475}, {"name": "Home_economics", "id": 21116311}]}

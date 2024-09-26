@@ -1,1 +1,1 @@
-{"name": "Barcelona_Metro_lines", "id": 36935053, "predecessors": [{"name": "Rapid_transit", "id": 4286827}], "successors": []}
+{"name": "Barcelona_Metro_lines", "id": 36935053, "predecessors": [{"name": "Railway_lines_in_Catalonia", "id": 36934765}, {"name": "Rail_transport_in_Barcelona", "id": 71547829}, {"name": "Railway_lines_in_Spain", "id": 21149566}], "successors": []}

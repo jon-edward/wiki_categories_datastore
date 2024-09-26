@@ -1,1 +1,1 @@
-{"name": "Rorquals", "id": 77592491, "predecessors": [{"name": "Taxa_named_by_John_Edward_Gray", "id": 50618731}], "successors": []}
+{"name": "Rorquals", "id": 77592491, "predecessors": [{"name": "Baleen_whales", "id": 3648552}, {"name": "Taxa_named_by_John_Edward_Gray", "id": 50618731}], "successors": [{"name": "Balaenoptera", "id": 77592513}]}

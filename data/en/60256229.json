@@ -1,1 +1,1 @@
-{"name": "Former_bank_buildings", "id": 60256229, "predecessors": [{"name": "Bank_buildings", "id": 18892243}, {"name": "Buildings_and_structures_by_type", "id": 6884364}], "successors": []}
+{"name": "Former_bank_buildings", "id": 60256229, "predecessors": [{"name": "Bank_buildings", "id": 18892243}, {"name": "Historical_geography", "id": 1228643}], "successors": [{"name": "Former_bank_buildings_in_Queensland", "id": 58959374}, {"name": "Former_bank_buildings_in_New_South_Wales", "id": 58959401}]}

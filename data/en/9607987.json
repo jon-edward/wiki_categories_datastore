@@ -1,1 +1,1 @@
-{"name": "Fiji_sugar_industry", "id": 9607987, "predecessors": [{"name": "Colony_of_Fiji", "id": 33919929}], "successors": [{"name": "Cane_growers_unions_of_Fiji", "id": 7132317}]}
+{"name": "Fiji_sugar_industry", "id": 9607987, "predecessors": [{"name": "Colony_of_Fiji", "id": 33919929}, {"name": "Sugar_industry_by_country", "id": 52498672}, {"name": "Agriculture_by_country", "id": 2300147}, {"name": "Melanesia", "id": 1074916}], "successors": [{"name": "Cane_growers_unions_of_Fiji", "id": 7132317}]}

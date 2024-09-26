@@ -1,1 +1,1 @@
-{"name": "Lea_catchment", "id": 50276275, "predecessors": [{"name": "River_Lea", "id": 30617291}, {"name": "Thames_drainage_basin", "id": 30884436}], "successors": []}
+{"name": "Lea_catchment", "id": 50276275, "predecessors": [{"name": "River_Lea", "id": 30617291}, {"name": "Thames_drainage_basin", "id": 30884436}], "successors": [{"name": "Weirs_on_the_River_Lea", "id": 30821614}]}

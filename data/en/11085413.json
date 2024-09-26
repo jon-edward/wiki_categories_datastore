@@ -1,1 +1,1 @@
-{"name": "Luggage", "id": 11085413, "predecessors": [{"name": "Bags", "id": 8109357}, {"name": "Clothing_containers", "id": 11084709}, {"name": "Domestic_implements", "id": 30314144}, {"name": "Travel_gear", "id": 6984528}], "successors": []}
+{"name": "Luggage", "id": 11085413, "predecessors": [{"name": "Bags", "id": 8109357}, {"name": "Domestic_implements", "id": 30314144}, {"name": "Travel_gear", "id": 6984528}], "successors": [{"name": "Luggage_brands", "id": 37635134}, {"name": "Luggage_manufacturers", "id": 37635176}]}

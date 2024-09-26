@@ -1,1 +1,1 @@
-{"name": "Amateur_archaeologists", "id": 60760919, "predecessors": [{"name": "Amateur_anthropologists", "id": 60760603}, {"name": "Archaeology", "id": 696279}, {"name": "Citizen_science", "id": 4091482}], "successors": []}
+{"name": "Amateur_archaeologists", "id": 60760919, "predecessors": [{"name": "Amateur_anthropologists", "id": 60760603}, {"name": "Humanities_academics", "id": 5002303}, {"name": "Citizen_science", "id": 4091482}], "successors": []}

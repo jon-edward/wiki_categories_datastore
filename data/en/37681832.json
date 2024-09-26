@@ -1,1 +1,1 @@
-{"name": "Lingerie_retailers", "id": 37681832, "predecessors": [{"name": "Clothing_industry", "id": 49731938}], "successors": []}
+{"name": "Lingerie_retailers", "id": 37681832, "predecessors": [{"name": "Lingerie", "id": 10450826}, {"name": "Design_companies", "id": 7968526}], "successors": [{"name": "Victoria's_Secret", "id": 21865090}]}

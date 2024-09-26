@@ -1,1 +1,1 @@
-{"name": "Battleship_classes", "id": 3498151, "predecessors": [{"name": "Ship_classes", "id": 730439}], "successors": []}
+{"name": "Battleship_classes", "id": 3498151, "predecessors": [{"name": "Battleships", "id": 735212}, {"name": "Ship_classes", "id": 730439}], "successors": [{"name": "Majestic-class_battleships", "id": 38718092}, {"name": "King_Edward_VII-class_battleships", "id": 38718147}, {"name": "Iowa-class_battleships", "id": 38718170}, {"name": "Royal_Sovereign-class_battleships", "id": 38728021}, {"name": "German_battleship_Bismarck", "id": 49390955}]}

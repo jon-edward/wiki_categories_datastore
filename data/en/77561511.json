@@ -1,1 +1,1 @@
-{"name": "Deaths_from_medical_malpractice", "id": 77561511, "predecessors": [{"name": "Medical_malpractice", "id": 11891988}], "successors": []}
+{"name": "Deaths_from_medical_malpractice", "id": 77561511, "predecessors": [{"name": "Accidental_deaths", "id": 2301018}, {"name": "Medical_malpractice", "id": 11891988}], "successors": []}

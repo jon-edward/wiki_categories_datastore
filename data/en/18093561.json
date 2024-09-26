@@ -1,1 +1,1 @@
-{"name": "Cancer_research_organizations", "id": 18093561, "predecessors": [{"name": "Cancer_organizations", "id": 1846455}, {"name": "Cancer_research", "id": 17341662}], "successors": []}
+{"name": "Cancer_research_organizations", "id": 18093561, "predecessors": [{"name": "Cancer_research", "id": 17341662}, {"name": "Medical_research_organizations", "id": 39596137}], "successors": [{"name": "Memorial_Sloan_Kettering_Cancer_Center_faculty", "id": 53805644}, {"name": "Memorial_Sloan_Kettering_Cancer_Center_physicians", "id": 59821462}]}

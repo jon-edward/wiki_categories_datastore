@@ -1,1 +1,1 @@
-{"name": "Uniform_polytopes", "id": 77420916, "predecessors": [{"name": "Symmetry", "id": 2320527}], "successors": [{"name": "Uniform_polyhedra", "id": 2932702}]}
+{"name": "Uniform_polytopes", "id": 77420916, "predecessors": [{"name": "Polytopes", "id": 1216104}, {"name": "Symmetry", "id": 2320527}], "successors": []}

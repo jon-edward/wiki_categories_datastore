@@ -1,1 +1,1 @@
-{"name": "Peace_awards", "id": 14868714, "predecessors": [{"name": "Peace", "id": 1243099}], "successors": [{"name": "Nobel_Peace_Prize", "id": 14276126}, {"name": "Nobel_Peace_Prize_laureates", "id": 7324884}, {"name": "Olof_Palme_Prize_laureates", "id": 9224195}, {"name": "Atoms_for_Peace_Award_recipients", "id": 24855307}]}
+{"name": "Peace_awards", "id": 14868714, "predecessors": [{"name": "Awards_for_contributions_to_society", "id": 62936178}, {"name": "Peace", "id": 1243099}], "successors": [{"name": "Nobel_Peace_Prize", "id": 14276126}]}

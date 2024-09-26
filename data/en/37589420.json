@@ -1,1 +1,1 @@
-{"name": "Blind_writers", "id": 37589420, "predecessors": [{"name": "Writers_with_disabilities", "id": 56729722}], "successors": [{"name": "Blind_poets", "id": 52050889}]}
+{"name": "Blind_writers", "id": 37589420, "predecessors": [{"name": "Writers_with_disabilities", "id": 56729722}, {"name": "Blindness", "id": 2173860}], "successors": [{"name": "Blind_scholars_and_academics", "id": 73759006}]}

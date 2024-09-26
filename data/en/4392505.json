@@ -1,1 +1,1 @@
-{"name": "Digital_display_connectors", "id": 4392505, "predecessors": [{"name": "Audiovisual_connectors", "id": 2942607}, {"name": "Computer_connectors", "id": 34376900}, {"name": "Display_technology", "id": 787720}, {"name": "Electrical_signal_connectors", "id": 4393577}], "successors": []}
+{"name": "Digital_display_connectors", "id": 4392505, "predecessors": [{"name": "Audiovisual_connectors", "id": 2942607}, {"name": "Computer_connectors", "id": 34376900}, {"name": "Display_technology", "id": 787720}, {"name": "Digital_technology", "id": 2150811}], "successors": []}

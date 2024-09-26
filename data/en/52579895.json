@@ -1,1 +1,1 @@
-{"name": "American_Latter_Day_Saint_missionaries", "id": 52579895, "predecessors": [{"name": "American_Latter_Day_Saint_leaders", "id": 47413697}], "successors": []}
+{"name": "American_Latter_Day_Saint_missionaries", "id": 52579895, "predecessors": [{"name": "American_Christian_missionaries", "id": 16629238}, {"name": "American_Latter_Day_Saint_leaders", "id": 47413697}, {"name": "Latter_Day_Saints", "id": 1181380}], "successors": [{"name": "American_Mormon_missionaries", "id": 15995974}]}

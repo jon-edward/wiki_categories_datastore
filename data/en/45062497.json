@@ -1,1 +1,1 @@
-{"name": "Kannada_male_actors", "id": 45062497, "predecessors": [{"name": "Kannada_cinema", "id": 7834747}], "successors": [{"name": "Male_actors_in_Kannada_theatre", "id": 54230576}]}
+{"name": "Kannada_male_actors", "id": 45062497, "predecessors": [{"name": "Kannada_cinema", "id": 7834747}, {"name": "Emigration", "id": 14031257}], "successors": [{"name": "Male_actors_in_Kannada_television", "id": 53952657}, {"name": "Male_actors_in_Kannada_theatre", "id": 54230576}]}

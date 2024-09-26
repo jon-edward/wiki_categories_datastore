@@ -1,1 +1,1 @@
-{"name": "Spanish_male_stage_actors", "id": 40790966, "predecessors": [{"name": "Theatre", "id": 698600}], "successors": [{"name": "Male_stage_actors_from_Catalonia", "id": 41448375}]}
+{"name": "Spanish_male_stage_actors", "id": 40790966, "predecessors": [{"name": "Spanish_actors", "id": 1093754}], "successors": [{"name": "Male_stage_actors_from_Catalonia", "id": 41448375}]}

@@ -1,1 +1,1 @@
-{"name": "Microwave_technology", "id": 3245589, "predecessors": [{"name": "Radio_spectrum", "id": 932435}], "successors": [{"name": "Radar", "id": 939701}, {"name": "Microwave_transmission", "id": 15990776}, {"name": "Microwave_engineers", "id": 65301494}]}
+{"name": "Microwave_technology", "id": 3245589, "predecessors": [{"name": "Electronics", "id": 707661}, {"name": "Radio_spectrum", "id": 932435}, {"name": "Radio_technology", "id": 2959298}], "successors": [{"name": "Radar", "id": 939701}, {"name": "Microwave_engineers", "id": 65301494}]}

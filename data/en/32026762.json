@@ -1,1 +1,1 @@
-{"name": "FTSE_Group_stock_market_indices", "id": 32026762, "predecessors": [{"name": "London_Stock_Exchange", "id": 40340645}, {"name": "London_Stock_Exchange_Group", "id": 68367137}], "successors": []}
+{"name": "FTSE_Group_stock_market_indices", "id": 32026762, "predecessors": [{"name": "European_stock_market_indices", "id": 21204124}, {"name": "London_Stock_Exchange", "id": 40340645}, {"name": "London_Stock_Exchange_Group", "id": 68367137}], "successors": []}

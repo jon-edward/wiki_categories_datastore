@@ -1,1 +1,1 @@
-{"name": "North_Sea_oil_fields", "id": 69783932, "predecessors": [{"name": "North_Sea_energy", "id": 18281971}], "successors": []}
+{"name": "North_Sea_oil_fields", "id": 69783932, "predecessors": [{"name": "North_Sea_energy", "id": 18281971}, {"name": "Oil_fields_of_Europe", "id": 27901565}], "successors": []}

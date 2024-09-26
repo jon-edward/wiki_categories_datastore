@@ -1,1 +1,1 @@
-{"name": "Natural_gas_terminals", "id": 25665032, "predecessors": [{"name": "Ports_and_harbours", "id": 3047410}, {"name": "Energy", "id": 865456}, {"name": "Buildings_and_structures_by_type", "id": 6884364}], "successors": [{"name": "Liquefied_natural_gas_terminals", "id": 18792987}]}
+{"name": "Natural_gas_terminals", "id": 25665032, "predecessors": [{"name": "Ports_and_harbours", "id": 3047410}, {"name": "Infrastructure", "id": 2962329}, {"name": "Transport_infrastructure", "id": 2962532}], "successors": [{"name": "Liquefied_natural_gas_terminals", "id": 18792987}]}

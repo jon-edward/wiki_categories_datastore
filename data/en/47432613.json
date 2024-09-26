@@ -1,1 +1,1 @@
-{"name": "Medieval_pirates", "id": 47432613, "predecessors": [{"name": "Pirates", "id": 952185}, {"name": "Piracy", "id": 952189}], "successors": [{"name": "Vikings", "id": 7520104}]}
+{"name": "Medieval_pirates", "id": 47432613, "predecessors": [{"name": "Pirates", "id": 952185}, {"name": "Naval_history", "id": 1184827}, {"name": "Medieval_law", "id": 14003072}], "successors": [{"name": "Vikings", "id": 7520104}]}

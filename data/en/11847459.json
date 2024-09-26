@@ -1,1 +1,1 @@
-{"name": "Christian_pacifism", "id": 11847459, "predecessors": [{"name": "Pacifism", "id": 805507}, {"name": "Religion_and_peace", "id": 64781055}], "successors": []}
+{"name": "Christian_pacifism", "id": 11847459, "predecessors": [{"name": "Christian_ethics", "id": 17861521}, {"name": "Christian_movements", "id": 16181273}, {"name": "Christian_radicalism", "id": 30175566}, {"name": "Pacifism", "id": 805507}], "successors": [{"name": "Catholic_Worker_Movement", "id": 29020160}]}

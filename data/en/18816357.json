@@ -1,1 +1,1 @@
-{"name": "River_cruise_companies", "id": 18816357, "predecessors": [{"name": "Cruise_lines", "id": 772935}, {"name": "Water_organizations", "id": 31737122}], "successors": []}
+{"name": "River_cruise_companies", "id": 18816357, "predecessors": [{"name": "Cruise_lines", "id": 772935}, {"name": "Rivers", "id": 695393}, {"name": "Water_organizations", "id": 31737122}], "successors": []}

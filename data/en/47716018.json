@@ -1,1 +1,1 @@
-{"name": "Plants_in_art", "id": 47716018, "predecessors": [{"name": "Plants_in_culture", "id": 47716019}, {"name": "Matter", "id": 1926287}], "successors": [{"name": "Botanical_art", "id": 6168327}, {"name": "Sculptures_of_plants", "id": 74215558}]}
+{"name": "Plants_in_art", "id": 47716018, "predecessors": [{"name": "Plants_in_culture", "id": 47716019}, {"name": "Visual_arts", "id": 1081533}], "successors": [{"name": "Botanical_art", "id": 6168327}, {"name": "Sculptures_of_plants", "id": 74215558}]}

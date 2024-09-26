@@ -1,1 +1,1 @@
-{"name": "Intellectual_property_law_firms", "id": 10056446, "predecessors": [{"name": "Intellectual_property_organizations", "id": 1239013}], "successors": [{"name": "Patent_law_firms", "id": 8481987}]}
+{"name": "Intellectual_property_law_firms", "id": 10056446, "predecessors": [{"name": "Intellectual_property_law", "id": 6583610}, {"name": "Intellectual_property_organizations", "id": 1239013}, {"name": "Information_economy", "id": 26952279}], "successors": [{"name": "Patent_law_firms", "id": 8481987}]}

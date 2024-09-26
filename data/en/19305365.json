@@ -1,1 +1,1 @@
-{"name": "Anthracyclines", "id": 19305365, "predecessors": [{"name": "Amino_sugars", "id": 10160100}, {"name": "DNA_intercalaters", "id": 54629572}], "successors": []}
+{"name": "Anthracyclines", "id": 19305365, "predecessors": [{"name": "Amino_sugars", "id": 10160100}, {"name": "Anthraquinones", "id": 25542323}, {"name": "DNA_intercalaters", "id": 54629572}], "successors": []}

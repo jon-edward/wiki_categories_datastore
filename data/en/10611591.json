@@ -1,1 +1,1 @@
-{"name": "Streets_in_Saint_Petersburg", "id": 10611591, "predecessors": [{"name": "Urban_planning", "id": 705232}], "successors": [{"name": "Nevsky_Prospekt", "id": 20158740}, {"name": "Kamennoostrovsky_Prospekt", "id": 72354442}]}
+{"name": "Streets_in_Saint_Petersburg", "id": 10611591, "predecessors": [{"name": "Transport_in_Saint_Petersburg", "id": 3380484}, {"name": "Saint_Petersburg", "id": 1347189}, {"name": "Roads_in_Russia", "id": 3520122}], "successors": [{"name": "Nevsky_Prospekt", "id": 20158740}, {"name": "Kamennoostrovsky_Prospekt", "id": 72354442}]}

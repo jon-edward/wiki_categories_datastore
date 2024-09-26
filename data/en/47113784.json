@@ -1,1 +1,1 @@
-{"name": "Lepidosauromorphs", "id": 47113784, "predecessors": [{"name": "Reptile_taxonomy", "id": 48597229}, {"name": "Diapsids", "id": 47374766}], "successors": []}
+{"name": "Lepidosauromorphs", "id": 47113784, "predecessors": [{"name": "Reptile_taxonomy", "id": 48597229}, {"name": "Diapsids", "id": 47374766}], "successors": [{"name": "Rhynchocephalia", "id": 17684255}, {"name": "Prehistoric_snakes", "id": 54616231}, {"name": "Jurassic_lizards", "id": 17657026}, {"name": "Cretaceous_lizards", "id": 17657229}, {"name": "Prehistoric_lizard_genera", "id": 56089881}]}

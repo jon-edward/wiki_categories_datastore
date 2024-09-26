@@ -1,1 +1,1 @@
-{"name": "Cars_powered_by_aircraft_engines", "id": 44623204, "predecessors": [{"name": "Aircraft_engines", "id": 762219}, {"name": "Engines", "id": 743017}], "successors": []}
+{"name": "Cars_powered_by_aircraft_engines", "id": 44623204, "predecessors": [{"name": "Aircraft_engines", "id": 762219}, {"name": "Car_models", "id": 13698345}], "successors": []}

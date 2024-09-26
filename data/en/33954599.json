@@ -1,1 +1,1 @@
-{"name": "Front-wheel-drive_sports_cars", "id": 33954599, "predecessors": [{"name": "Sports_cars", "id": 695196}], "successors": []}
+{"name": "Front-wheel-drive_sports_cars", "id": 33954599, "predecessors": [{"name": "Front-wheel-drive_vehicles", "id": 33954687}, {"name": "Sports_cars", "id": 695196}], "successors": []}

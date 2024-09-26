@@ -1,1 +1,1 @@
-{"name": "Olympic_ice_hockey_venues", "id": 22541291, "predecessors": [{"name": "Ice_hockey_venues", "id": 945318}, {"name": "Sports_at_the_Winter_Olympics", "id": 43038391}, {"name": "Event_management", "id": 38591267}], "successors": []}
+{"name": "Olympic_ice_hockey_venues", "id": 22541291, "predecessors": [{"name": "Ice_hockey_venues", "id": 945318}, {"name": "Entertainment", "id": 693016}, {"name": "International_competitions", "id": 54288402}], "successors": []}

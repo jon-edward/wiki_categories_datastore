@@ -1,1 +1,1 @@
-{"name": "Computational_astronomy", "id": 33537654, "predecessors": [{"name": "Computational_fields_of_study", "id": 52242291}], "successors": [{"name": "Astronomical_databases", "id": 11268428}]}
+{"name": "Computational_astronomy", "id": 33537654, "predecessors": [{"name": "Astronomy_software", "id": 2749154}, {"name": "Computational_fields_of_study", "id": 52242291}], "successors": [{"name": "Astronomical_databases", "id": 11268428}]}

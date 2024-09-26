@@ -1,1 +1,1 @@
-{"name": "U-boats_sunk_by_British_submarines", "id": 44552624, "predecessors": [{"name": "Ships_sunk_by_British_submarines", "id": 13373712}, {"name": "Submarines_sunk_by_submarines", "id": 57567381}], "successors": []}
+{"name": "U-boats_sunk_by_British_submarines", "id": 44552624, "predecessors": [{"name": "Ships_sunk_by_British_submarines", "id": 13373712}, {"name": "U-boats_sunk_by_British_warships", "id": 36732633}, {"name": "Submarines_sunk_by_submarines", "id": 57567381}], "successors": []}

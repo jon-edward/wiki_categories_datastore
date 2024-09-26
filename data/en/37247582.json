@@ -1,1 +1,1 @@
-{"name": "Energy_infrastructure_completed_in_1928", "id": 37247582, "predecessors": [{"name": "Buildings_and_structures_by_type", "id": 6884364}], "successors": []}
+{"name": "Energy_infrastructure_completed_in_1928", "id": 37247582, "predecessors": [{"name": "Infrastructure", "id": 2962329}, {"name": "Buildings_and_structures_completed_in_1928", "id": 29868561}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Huts", "id": 8769072, "predecessors": [{"name": "Buildings_and_structures_by_type", "id": 6884364}, {"name": "Vernacular_architecture", "id": 7381096}], "successors": [{"name": "Mountain_huts", "id": 1840383}, {"name": "Quonset_huts", "id": 77288959}]}
+{"name": "Huts", "id": 8769072, "predecessors": [{"name": "Vernacular_architecture", "id": 7381096}, {"name": "Living_arrangements", "id": 1374137}], "successors": [{"name": "Mountain_huts", "id": 1840383}, {"name": "Quonset_huts", "id": 77288959}, {"name": "Mountain_huts_in_Australia", "id": 33803510}]}

@@ -1,1 +1,1 @@
-{"name": "People_convicted_of_treason_against_Germany", "id": 31759098, "predecessors": [{"name": "People_convicted_of_treason", "id": 16509969}], "successors": [{"name": "People_convicted_of_treason_against_Nazi_Germany", "id": 74920433}]}
+{"name": "People_convicted_of_treason_against_Germany", "id": 31759098, "predecessors": [{"name": "People_convicted_of_treason", "id": 16509969}, {"name": "Prisoners_and_detainees_of_Germany", "id": 17786340}], "successors": [{"name": "People_convicted_of_treason_against_Nazi_Germany", "id": 74920433}]}

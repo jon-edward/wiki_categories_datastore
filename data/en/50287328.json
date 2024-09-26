@@ -1,1 +1,1 @@
-{"name": "Film_distribution", "id": 50287328, "predecessors": [{"name": "Distribution_(marketing)", "id": 1232228}, {"name": "Film_industry", "id": 42321809}], "successors": [{"name": "Film_distributors", "id": 1139888}]}
+{"name": "Film_distribution", "id": 50287328, "predecessors": [{"name": "Distribution_(marketing)", "id": 1232228}, {"name": "Film_industry", "id": 42321809}], "successors": [{"name": "Film_distributors", "id": 1139888}, {"name": "Television_series_reunion_films", "id": 5393386}, {"name": "Television_film_series", "id": 63449495}]}

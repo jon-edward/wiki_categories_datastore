@@ -1,1 +1,1 @@
-{"name": "Chrysler_platforms", "id": 860405, "predecessors": [{"name": "Chrysler", "id": 860407}], "successors": []}
+{"name": "Chrysler_platforms", "id": 860405, "predecessors": [{"name": "Chrysler", "id": 860407}, {"name": "Automotive_technologies", "id": 859604}, {"name": "Stellantis", "id": 66410550}], "successors": []}

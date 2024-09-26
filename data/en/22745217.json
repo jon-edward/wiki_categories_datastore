@@ -1,1 +1,1 @@
-{"name": "Computer_networking_conferences", "id": 22745217, "predecessors": [{"name": "Computer_science_conferences", "id": 2977953}], "successors": []}
+{"name": "Computer_networking_conferences", "id": 22745217, "predecessors": [{"name": "Computer_networking", "id": 4677693}, {"name": "Computer_science_conferences", "id": 2977953}], "successors": []}

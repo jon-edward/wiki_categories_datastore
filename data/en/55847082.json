@@ -1,1 +1,1 @@
-{"name": "Hebrew_Bible_studies", "id": 55847082, "predecessors": [{"name": "Hebrew_Bible", "id": 12107744}], "successors": [{"name": "Targums", "id": 9640259}, {"name": "Jewish_biblical_scholars", "id": 30341268}]}
+{"name": "Hebrew_Bible_studies", "id": 55847082, "predecessors": [{"name": "Biblical_studies", "id": 8272798}, {"name": "Hebrew_Bible", "id": 12107744}], "successors": [{"name": "Targums", "id": 9640259}, {"name": "Jewish_biblical_scholars", "id": 30341268}]}

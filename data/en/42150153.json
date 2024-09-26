@@ -1,1 +1,1 @@
-{"name": "ESPN_people", "id": 42150153, "predecessors": [{"name": "Disney_people", "id": 1194407}, {"name": "ESPN", "id": 1698512}, {"name": "Journalism", "id": 698307}], "successors": [{"name": "ESPN_executives", "id": 26048963}, {"name": "ESPN_announcers", "id": 42150053}]}
+{"name": "ESPN_people", "id": 42150153, "predecessors": [{"name": "Disney_people", "id": 1194407}, {"name": "ESPN", "id": 1698512}, {"name": "Sports_occupations_and_roles", "id": 25536293}], "successors": [{"name": "ESPN_executives", "id": 26048963}, {"name": "ESPN_announcers", "id": 42150053}]}

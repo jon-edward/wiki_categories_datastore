@@ -1,1 +1,1 @@
-{"name": "Advertising_regulation", "id": 44415208, "predecessors": [{"name": "Advertising", "id": 884913}], "successors": [{"name": "Self-regulatory_organizations_of_the_advertising_industry", "id": 55712853}]}
+{"name": "Advertising_regulation", "id": 44415208, "predecessors": [{"name": "Advertising", "id": 884913}, {"name": "Regulation", "id": 35504121}], "successors": [{"name": "Self-regulatory_organizations_of_the_advertising_industry", "id": 55712853}]}

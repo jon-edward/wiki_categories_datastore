@@ -1,1 +1,1 @@
-{"name": "Araceae", "id": 1361632, "predecessors": [{"name": "Monocots", "id": 4126589}], "successors": []}
+{"name": "Araceae", "id": 1361632, "predecessors": [{"name": "Monocots", "id": 4126589}], "successors": [{"name": "Araceae_genera", "id": 21418326}, {"name": "Aroideae", "id": 27650737}, {"name": "Orontioideae", "id": 38228498}, {"name": "Monsteroideae", "id": 38299917}, {"name": "Lasioideae", "id": 41246708}, {"name": "Lemnoideae", "id": 41246731}, {"name": "Pothoideae", "id": 43902329}]}

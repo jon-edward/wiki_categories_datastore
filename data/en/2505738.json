@@ -1,1 +1,1 @@
-{"name": "Skin_care", "id": 2505738, "predecessors": [{"name": "Cosmetics", "id": 1952489}, {"name": "Hygiene", "id": 1056532}], "successors": [{"name": "Sun_tanning", "id": 1490207}, {"name": "Skin_care_brands", "id": 67073203}]}
+{"name": "Skin_care", "id": 2505738, "predecessors": [{"name": "Cosmetics", "id": 1952489}, {"name": "Dermatology", "id": 722618}, {"name": "Human_appearance", "id": 923111}, {"name": "Hygiene", "id": 1056532}, {"name": "Skin", "id": 19812235}], "successors": [{"name": "Sun_tanning", "id": 1490207}, {"name": "Skin_care_brands", "id": 67073203}]}

@@ -1,1 +1,1 @@
-{"name": "Opera_houses", "id": 939604, "predecessors": [{"name": "Opera", "id": 694830}, {"name": "Theatres", "id": 938321}, {"name": "Music_venues", "id": 2313791}], "successors": []}
+{"name": "Opera_houses", "id": 939604, "predecessors": [{"name": "Opera", "id": 694830}, {"name": "Theatres", "id": 938321}], "successors": [{"name": "Works_based_on_The_Phantom_of_the_Opera", "id": 65270104}]}

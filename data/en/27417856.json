@@ -1,1 +1,1 @@
-{"name": "People_charged_with_blasphemy", "id": 27417856, "predecessors": [{"name": "Religious_persecution", "id": 748067}], "successors": [{"name": "People_convicted_of_blasphemy", "id": 27417846}]}
+{"name": "People_charged_with_blasphemy", "id": 27417856, "predecessors": [{"name": "Blasphemy", "id": 21518309}, {"name": "Religious_persecution", "id": 748067}, {"name": "Prosecution", "id": 1189414}], "successors": [{"name": "People_convicted_of_blasphemy", "id": 27417846}]}

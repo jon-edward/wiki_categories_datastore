@@ -1,1 +1,1 @@
-{"name": "Buoyancy_devices", "id": 41097025, "predecessors": [{"name": "Buoyancy", "id": 41097007}, {"name": "Equipment", "id": 3228046}], "successors": []}
+{"name": "Buoyancy_devices", "id": 41097025, "predecessors": [{"name": "Equipment", "id": 3228046}], "successors": [{"name": "Buoyage", "id": 17164225}]}

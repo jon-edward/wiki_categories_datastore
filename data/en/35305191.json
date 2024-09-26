@@ -1,1 +1,1 @@
-{"name": "Paintings_by_Leonardo_da_Vinci", "id": 35305191, "predecessors": [{"name": "Italian_paintings", "id": 11613507}, {"name": "Works_by_artist", "id": 3673705}], "successors": [{"name": "Mona_Lisa", "id": 38957756}]}
+{"name": "Paintings_by_Leonardo_da_Vinci", "id": 35305191, "predecessors": [{"name": "Italian_paintings", "id": 11613507}, {"name": "Renaissance_paintings", "id": 3602059}, {"name": "Works_by_artist", "id": 3673705}, {"name": "Leonardo_da_Vinci", "id": 1374970}], "successors": [{"name": "Mona_Lisa", "id": 38957756}]}

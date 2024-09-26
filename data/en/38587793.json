@@ -1,1 +1,1 @@
-{"name": "German_broadcast_news_analysts", "id": 38587793, "predecessors": [{"name": "Broadcast_news_analysts", "id": 1051599}, {"name": "German_journalists", "id": 1076730}], "successors": []}
+{"name": "German_broadcast_news_analysts", "id": 38587793, "predecessors": [{"name": "Broadcast_news_analysts", "id": 1051599}, {"name": "German_broadcasters", "id": 52754350}, {"name": "German_journalists", "id": 1076730}], "successors": []}

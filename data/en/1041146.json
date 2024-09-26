@@ -1,1 +1,1 @@
-{"name": "Dance_moves", "id": 1041146, "predecessors": [{"name": "Dance_technique", "id": 1041185}, {"name": "Rhythm_and_meter", "id": 40348248}], "successors": [{"name": "Breakdance_moves", "id": 5238426}, {"name": "Acro_dance_moves", "id": 42474148}, {"name": "Social_dance_steps", "id": 44240286}]}
+{"name": "Dance_moves", "id": 1041146, "predecessors": [{"name": "Dance_technique", "id": 1041185}, {"name": "Rhythm_and_meter", "id": 40348248}], "successors": [{"name": "Breakdance_moves", "id": 5238426}]}

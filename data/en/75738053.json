@@ -1,1 +1,1 @@
-{"name": "Haredi_poskim", "id": 75738053, "predecessors": [{"name": "Orthodox_poskim", "id": 75738066}, {"name": "Orthodox_rabbis", "id": 717227}], "successors": [{"name": "Hasidic_poskim", "id": 75738063}]}
+{"name": "Haredi_poskim", "id": 75738053, "predecessors": [{"name": "Orthodox_poskim", "id": 75738066}, {"name": "Jewish_religious_movements", "id": 34565377}], "successors": [{"name": "Hasidic_poskim", "id": 75738063}]}

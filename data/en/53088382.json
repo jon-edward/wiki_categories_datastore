@@ -1,1 +1,1 @@
-{"name": "Circus_owners", "id": 53088382, "predecessors": [{"name": "Circuses", "id": 1216722}], "successors": [{"name": "American_circus_owners", "id": 75853477}, {"name": "British_circus_owners", "id": 76395043}]}
+{"name": "Circus_owners", "id": 53088382, "predecessors": [{"name": "Circuses", "id": 1216722}, {"name": "Entertainment_industry_businesspeople", "id": 44006988}, {"name": "Business", "id": 771152}], "successors": [{"name": "American_circus_owners", "id": 75853477}, {"name": "British_circus_owners", "id": 76395043}]}

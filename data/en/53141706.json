@@ -1,1 +1,1 @@
-{"name": "Animal_emotions", "id": 53141706, "predecessors": [{"name": "Animal_cognition", "id": 1524594}, {"name": "Animals_and_humans", "id": 52196069}, {"name": "Emotion", "id": 691820}, {"name": "Ethology", "id": 2650082}, {"name": "Pets", "id": 737815}], "successors": []}
+{"name": "Animal_emotions", "id": 53141706, "predecessors": [{"name": "Animal_cognition", "id": 1524594}, {"name": "Animals_and_humans", "id": 52196069}, {"name": "Emotion", "id": 691820}, {"name": "Pets", "id": 737815}], "successors": []}

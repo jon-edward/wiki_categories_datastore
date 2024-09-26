@@ -1,0 +1,1 @@
+{"name": "Discovery_Program", "id": 41030346, "predecessors": [{"name": "NASA_space_probes", "id": 36702674}, {"name": "NASA_programs", "id": 1201326}], "successors": [{"name": "Kepler_space_telescope", "id": 35299760}, {"name": "Discovery_program_proposals", "id": 46694907}, {"name": "InSight", "id": 56459955}]}

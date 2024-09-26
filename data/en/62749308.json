@@ -1,1 +1,1 @@
-{"name": "Pedestrian_tunnels_in_the_United_States", "id": 62749308, "predecessors": [{"name": "Pedestrian_tunnels", "id": 26723488}], "successors": []}
+{"name": "Pedestrian_tunnels_in_the_United_States", "id": 62749308, "predecessors": [{"name": "Pedestrian_infrastructure_in_the_United_States", "id": 20589134}, {"name": "Pedestrian_tunnels", "id": 26723488}, {"name": "Transportation_in_the_United_States", "id": 710636}], "successors": []}

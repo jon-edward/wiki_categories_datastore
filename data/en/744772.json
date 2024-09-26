@@ -1,1 +1,1 @@
-{"name": "Mozilla", "id": 744772, "predecessors": [{"name": "Free_software_projects", "id": 703116}], "successors": [{"name": "Firefox", "id": 31874463}, {"name": "WebGL", "id": 43848504}]}
+{"name": "Mozilla", "id": 744772, "predecessors": [{"name": "Free_software_projects", "id": 703116}], "successors": [{"name": "Gecko-based_software", "id": 23529558}, {"name": "Firefox", "id": 31874463}, {"name": "WebGL", "id": 43848504}, {"name": "Nonfree_Firefox_WebExtensions", "id": 69899345}, {"name": "Free_Firefox_WebExtensions", "id": 69899367}]}

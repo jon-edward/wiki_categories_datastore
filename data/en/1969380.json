@@ -1,1 +1,1 @@
-{"name": "Desiccants", "id": 1969380, "predecessors": [{"name": "Chemical_compounds", "id": 695235}, {"name": "Materials", "id": 722279}, {"name": "Liquid-solid_separation", "id": 43573722}], "successors": []}
+{"name": "Desiccants", "id": 1969380, "predecessors": [{"name": "Chemical_compounds", "id": 695235}, {"name": "Engineering_thermodynamics", "id": 13711429}], "successors": []}

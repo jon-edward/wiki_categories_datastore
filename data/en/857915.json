@@ -1,0 +1,1 @@
+{"name": "Bookstores", "id": 857915, "predecessors": [{"name": "Bookselling", "id": 13123053}], "successors": [{"name": "Bookstore_neighborhoods", "id": 25945389}, {"name": "Ebook_suppliers", "id": 39393092}, {"name": "Used_bookstores", "id": 66022900}, {"name": "Films_set_in_bookstores", "id": 69168987}]}

@@ -1,1 +1,1 @@
-{"name": "Tour_guides", "id": 26434874, "predecessors": [{"name": "Cultural_heritage", "id": 3218670}], "successors": []}
+{"name": "Tour_guides", "id": 26434874, "predecessors": [{"name": "Cultural_heritage", "id": 3218670}, {"name": "Guides", "id": 43145260}, {"name": "Tourism", "id": 698284}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "E-recruitment", "id": 55393140, "predecessors": [{"name": "Recruitment", "id": 16773099}, {"name": "Web_applications", "id": 2333917}], "successors": []}
+{"name": "E-recruitment", "id": 55393140, "predecessors": [{"name": "Recruitment", "id": 16773099}, {"name": "Web_applications", "id": 2333917}], "successors": [{"name": "Employment_websites", "id": 27729268}]}

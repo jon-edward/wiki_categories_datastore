@@ -1,1 +1,1 @@
-{"name": "Burials_in_Iona", "id": 43122397, "predecessors": [{"name": "Geographic_position", "id": 65166917}], "successors": []}
+{"name": "Burials_in_Iona", "id": 43122397, "predecessors": [{"name": "Iona", "id": 4533878}, {"name": "Burials_in_Scotland", "id": 18843010}], "successors": [{"name": "Burials_at_Iona_Abbey", "id": 46507569}]}

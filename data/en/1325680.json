@@ -1,1 +1,1 @@
-{"name": "Cricket_on_television", "id": 1325680, "predecessors": [{"name": "Sports_television", "id": 1943062}], "successors": []}
+{"name": "Cricket_on_television", "id": 1325680, "predecessors": [{"name": "Sports_television", "id": 1943062}, {"name": "Cricket", "id": 692385}], "successors": []}

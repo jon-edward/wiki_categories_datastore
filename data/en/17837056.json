@@ -1,1 +1,1 @@
-{"name": "Engine_control_systems", "id": 17837056, "predecessors": [{"name": "Engine_technology", "id": 1124196}, {"name": "Power_control", "id": 16305327}], "successors": []}
+{"name": "Engine_control_systems", "id": 17837056, "predecessors": [{"name": "Embedded_systems", "id": 852879}, {"name": "Engine_technology", "id": 1124196}, {"name": "Power_control", "id": 16305327}], "successors": []}

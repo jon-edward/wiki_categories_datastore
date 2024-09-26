@@ -1,1 +1,1 @@
-{"name": "Streets_in_Warsaw", "id": 10621497, "predecessors": [{"name": "Fortified_settlements", "id": 44443091}, {"name": "Urban_planning", "id": 705232}], "successors": []}
+{"name": "Streets_in_Warsaw", "id": 10621497, "predecessors": [{"name": "Transport_in_Warsaw", "id": 3314717}, {"name": "Masovian_Voivodeship", "id": 6103847}, {"name": "Streets_in_Poland", "id": 20454293}], "successors": []}

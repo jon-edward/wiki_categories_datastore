@@ -1,1 +1,1 @@
-{"name": "Bats_as_food", "id": 34844709, "predecessors": [{"name": "Bats", "id": 922846}], "successors": []}
+{"name": "Bats_as_food", "id": 34844709, "predecessors": [{"name": "Meat_by_animal", "id": 51423933}, {"name": "Bats", "id": 922846}], "successors": []}

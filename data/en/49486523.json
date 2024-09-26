@@ -1,1 +1,1 @@
-{"name": "Islamic_worship", "id": 49486523, "predecessors": [{"name": "Religious_rituals", "id": 51636123}], "successors": [{"name": "Salah", "id": 4202304}, {"name": "Fasting_in_Islam", "id": 4202911}, {"name": "Hajj", "id": 4260642}, {"name": "Jihad", "id": 4499473}, {"name": "Zakat", "id": 40512300}]}
+{"name": "Islamic_worship", "id": 49486523, "predecessors": [{"name": "Islamic_practices", "id": 20587979}], "successors": [{"name": "Salah", "id": 4202304}, {"name": "Fasting_in_Islam", "id": 4202911}, {"name": "Hajj", "id": 4260642}, {"name": "Jihad", "id": 4499473}]}

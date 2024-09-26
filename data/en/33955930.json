@@ -1,1 +1,1 @@
-{"name": "All-wheel-drive_vehicles", "id": 33955930, "predecessors": [{"name": "Off-road_vehicles", "id": 945069}], "successors": []}
+{"name": "All-wheel-drive_vehicles", "id": 33955930, "predecessors": [{"name": "Four-wheel_drive_layout", "id": 44413131}, {"name": "Off-road_vehicles", "id": 945069}], "successors": [{"name": "Rear_mid-engine,_all-wheel-drive_vehicles", "id": 45538353}]}

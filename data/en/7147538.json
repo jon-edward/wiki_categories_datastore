@@ -1,1 +1,1 @@
-{"name": "ATVs", "id": 7147538, "predecessors": [{"name": "Off-road_vehicles", "id": 945069}], "successors": []}
+{"name": "ATVs", "id": 7147538, "predecessors": [{"name": "Off-road_vehicles", "id": 945069}], "successors": [{"name": "Honda_ATVs", "id": 19437562}, {"name": "Kawasaki_ATVs", "id": 44855265}]}

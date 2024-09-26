@@ -1,1 +1,1 @@
-{"name": "Long-duration_gamma-ray_bursts", "id": 21424366, "predecessors": [{"name": "Time", "id": 744728}], "successors": []}
+{"name": "Long-duration_gamma-ray_bursts", "id": 21424366, "predecessors": [{"name": "Gamma-ray_bursts", "id": 21020150}, {"name": "Cataclysmic_variable_stars", "id": 35250517}, {"name": "Time", "id": 744728}], "successors": []}

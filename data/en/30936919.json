@@ -1,1 +1,1 @@
-{"name": "Wireless_networking_hardware", "id": 30936919, "predecessors": [{"name": "Networking_hardware", "id": 1899604}], "successors": []}
+{"name": "Wireless_networking_hardware", "id": 30936919, "predecessors": [{"name": "Networking_hardware", "id": 1899604}, {"name": "Wireless_networking", "id": 979699}], "successors": [{"name": "Wireless_access_points", "id": 30936806}]}

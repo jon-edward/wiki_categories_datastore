@@ -1,1 +1,1 @@
-{"name": "Expected_utility", "id": 51624720, "predecessors": [{"name": "Decision_theory", "id": 946910}, {"name": "Utility", "id": 2022258}], "successors": [{"name": "Prospect_theory", "id": 35586938}]}
+{"name": "Expected_utility", "id": 51624720, "predecessors": [{"name": "Applied_probability", "id": 11487293}, {"name": "Decision_theory", "id": 946910}, {"name": "Utility", "id": 2022258}], "successors": [{"name": "Optimal_decisions", "id": 22004271}, {"name": "Prospect_theory", "id": 35586938}]}

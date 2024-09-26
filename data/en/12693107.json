@@ -1,1 +1,1 @@
-{"name": "NKVD_officers", "id": 12693107, "predecessors": [{"name": "NKVD", "id": 1261796}], "successors": []}
+{"name": "NKVD_officers", "id": 12693107, "predecessors": [{"name": "NKVD", "id": 1261796}, {"name": "Politicide_perpetrators", "id": 40403238}, {"name": "Soviet_intelligence_agencies", "id": 19993025}], "successors": [{"name": "Commissars_3rd_Class_of_State_Security", "id": 53051409}]}

@@ -1,1 +1,1 @@
-{"name": "Electronic_oscillators", "id": 58774873, "predecessors": [{"name": "Analog_circuits", "id": 5536289}, {"name": "Oscillators", "id": 1331525}], "successors": []}
+{"name": "Electronic_oscillators", "id": 58774873, "predecessors": [{"name": "Analog_circuits", "id": 5536289}, {"name": "Electronic_feedback", "id": 11237971}, {"name": "Oscillators", "id": 1331525}], "successors": []}

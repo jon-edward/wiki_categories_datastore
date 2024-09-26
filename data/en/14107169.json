@@ -1,1 +1,1 @@
-{"name": "Chemical_weapons_demilitarization", "id": 14107169, "predecessors": [{"name": "Arms_control", "id": 2001830}, {"name": "Chemical_weapons", "id": 700042}, {"name": "Military_disbanding_and_disarmament", "id": 25652973}], "successors": []}
+{"name": "Chemical_weapons_demilitarization", "id": 14107169, "predecessors": [{"name": "Arms_control", "id": 2001830}, {"name": "Chemical_weapons", "id": 700042}, {"name": "Military_disbanding_and_disarmament", "id": 25652973}], "successors": [{"name": "United_States_chemical_weapons_depots", "id": 14991593}]}

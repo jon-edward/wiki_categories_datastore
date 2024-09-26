@@ -1,1 +1,1 @@
-{"name": "Peer-to-peer_software", "id": 50145219, "predecessors": [{"name": "Peer-to-peer", "id": 35882813}], "successors": [{"name": "BitTorrent_clients", "id": 1844547}]}
+{"name": "Peer-to-peer_software", "id": 50145219, "predecessors": [{"name": "Peer-to-peer", "id": 35882813}, {"name": "Software_by_type", "id": 54611051}], "successors": [{"name": "BitTorrent_clients", "id": 1844547}]}

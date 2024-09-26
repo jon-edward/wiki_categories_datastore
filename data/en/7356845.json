@@ -1,1 +1,1 @@
-{"name": "68k_Macintosh_computers", "id": 7356845, "predecessors": [{"name": "68k-based_computers", "id": 71815361}, {"name": "Central_processing_unit", "id": 5834555}], "successors": [{"name": "Compact_Macintosh", "id": 7517028}, {"name": "Macintosh_Quadra", "id": 7517353}]}
+{"name": "68k_Macintosh_computers", "id": 7356845, "predecessors": [{"name": "68k-based_computers", "id": 71815361}, {"name": "Computers", "id": 4583997}], "successors": [{"name": "Compact_Macintosh", "id": 7517028}, {"name": "Macintosh_Quadra", "id": 7517353}]}

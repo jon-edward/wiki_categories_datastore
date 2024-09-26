@@ -1,1 +1,1 @@
-{"name": "Rides_at_Europa-Park", "id": 45640807, "predecessors": [{"name": "Amusement_parks", "id": 713049}], "successors": []}
+{"name": "Rides_at_Europa-Park", "id": 45640807, "predecessors": [{"name": "Amusement_parks", "id": 713049}, {"name": "Amusement_parks_in_Germany", "id": 6728575}], "successors": []}

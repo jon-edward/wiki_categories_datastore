@@ -1,1 +1,1 @@
-{"name": "Deal_or_No_Deal", "id": 5020408, "predecessors": [{"name": "Banijay_franchises", "id": 62481213}, {"name": "NBC_game_shows", "id": 76426733}, {"name": "Television_series_by_Banijay", "id": 72372409}], "successors": []}
+{"name": "Deal_or_No_Deal", "id": 5020408, "predecessors": [{"name": "Banijay_franchises", "id": 62481213}, {"name": "Television_game_shows", "id": 34751879}, {"name": "Television_series_by_Banijay", "id": 72372409}], "successors": []}

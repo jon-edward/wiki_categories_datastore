@@ -1,1 +1,1 @@
-{"name": "Olympic_coaches", "id": 14564249, "predecessors": [{"name": "Olympic_Games", "id": 41751258}], "successors": [{"name": "Coaches_at_the_2024_Summer_Olympics", "id": 77571008}]}
+{"name": "Olympic_coaches", "id": 14564249, "predecessors": [{"name": "Olympic_Games", "id": 41751258}, {"name": "Sports_coaches", "id": 17908961}], "successors": [{"name": "Coaches_at_the_2024_Summer_Olympics", "id": 77571008}]}

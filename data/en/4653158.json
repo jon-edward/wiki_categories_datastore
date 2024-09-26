@@ -1,1 +1,1 @@
-{"name": "Geographic_coordinate_systems", "id": 4653158, "predecessors": [{"name": "Coordinate_systems", "id": 956479}, {"name": "Geodesy", "id": 862535}, {"name": "Geographic_position", "id": 65166917}], "successors": [{"name": "Vertical_datums", "id": 59333840}]}
+{"name": "Geographic_coordinate_systems", "id": 4653158, "predecessors": [{"name": "Cartography", "id": 716309}, {"name": "Coordinate_systems", "id": 956479}, {"name": "Geodesy", "id": 862535}, {"name": "Geographic_position", "id": 65166917}], "successors": [{"name": "Vertical_datums", "id": 59333840}]}

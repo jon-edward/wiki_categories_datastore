@@ -1,1 +1,1 @@
-{"name": "Tourist_attractions_in_Zagreb", "id": 43480751, "predecessors": [{"name": "Tourism", "id": 698284}], "successors": [{"name": "Sports_venues_in_Zagreb", "id": 18778450}, {"name": "Squares_in_Zagreb", "id": 19363462}, {"name": "Theatres_in_Zagreb", "id": 30744425}]}
+{"name": "Tourist_attractions_in_Zagreb", "id": 43480751, "predecessors": [{"name": "Cities_and_towns_in_Croatia", "id": 18343346}], "successors": [{"name": "Sports_venues_in_Zagreb", "id": 18778450}, {"name": "Squares_in_Zagreb", "id": 19363462}, {"name": "Theatres_in_Zagreb", "id": 30744425}]}

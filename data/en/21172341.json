@@ -1,1 +1,1 @@
-{"name": "Chinese_New_Year_foods", "id": 21172341, "predecessors": [{"name": "Chinese_New_Year", "id": 9362968}, {"name": "New_Year_foods", "id": 59834798}], "successors": []}
+{"name": "Chinese_New_Year_foods", "id": 21172341, "predecessors": [{"name": "Chinese_New_Year", "id": 9362968}, {"name": "Chinese_cuisine", "id": 698765}, {"name": "New_Year_foods", "id": 59834798}], "successors": []}

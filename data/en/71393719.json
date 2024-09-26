@@ -1,1 +1,1 @@
-{"name": "Artists_from_Normandy", "id": 71393719, "predecessors": [{"name": "Normandy", "id": 864800}, {"name": "French_artists", "id": 1031199}], "successors": [{"name": "Artists_from_Rouen", "id": 68483765}, {"name": "Artists_from_Caen", "id": 71082396}]}
+{"name": "Artists_from_Normandy", "id": 71393719, "predecessors": [{"name": "Normandy", "id": 864800}, {"name": "Art_occupations", "id": 63223006}], "successors": [{"name": "Artists_from_Rouen", "id": 68483765}, {"name": "Artists_from_Caen", "id": 71082396}]}

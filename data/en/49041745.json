@@ -1,1 +1,1 @@
-{"name": "German_porcelain", "id": 49041745, "predecessors": [{"name": "Porcelain", "id": 3505701}], "successors": [{"name": "Meissen_porcelain", "id": 49082322}]}
+{"name": "German_porcelain", "id": 49041745, "predecessors": [{"name": "Porcelain", "id": 3505701}, {"name": "German_art", "id": 3774333}], "successors": [{"name": "Meissen_porcelain", "id": 49082322}]}

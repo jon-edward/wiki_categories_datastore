@@ -1,1 +1,1 @@
-{"name": "Intermetallics", "id": 3846261, "predecessors": [{"name": "Alloys", "id": 695965}, {"name": "Condensed_matter_physics", "id": 692176}, {"name": "Inorganic_compounds", "id": 695962}, {"name": "Metallurgy", "id": 977017}], "successors": []}
+{"name": "Intermetallics", "id": 3846261, "predecessors": [{"name": "Inorganic_compounds", "id": 695962}, {"name": "Metallurgy", "id": 977017}], "successors": []}

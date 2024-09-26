@@ -1,1 +1,1 @@
-{"name": "Indian_melee_weapons", "id": 36667821, "predecessors": [{"name": "Melee_weapons", "id": 36667799}], "successors": []}
+{"name": "Indian_melee_weapons", "id": 36667821, "predecessors": [{"name": "Indian_martial_arts", "id": 1986067}, {"name": "Melee_weapons", "id": 36667799}], "successors": [{"name": "Indian_swords", "id": 25345240}]}

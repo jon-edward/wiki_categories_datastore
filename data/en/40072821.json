@@ -1,1 +1,1 @@
-{"name": "Indian_businesspeople_in_coal", "id": 40072821, "predecessors": [{"name": "Indian_businesspeople_in_mining", "id": 40072802}, {"name": "Coal_mining", "id": 3045355}, {"name": "Energy", "id": 865456}], "successors": []}
+{"name": "Indian_businesspeople_in_coal", "id": 40072821, "predecessors": [{"name": "Indian_businesspeople_in_mining", "id": 40072802}, {"name": "Coal", "id": 1103533}, {"name": "Coal_industry", "id": 52565651}], "successors": []}

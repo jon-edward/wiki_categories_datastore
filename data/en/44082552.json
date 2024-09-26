@@ -1,1 +1,1 @@
-{"name": "Pittsburgh_Penguins_games", "id": 44082552, "predecessors": [{"name": "Pittsburgh_Penguins", "id": 2683162}], "successors": []}
+{"name": "Pittsburgh_Penguins_games", "id": 44082552, "predecessors": [{"name": "Pittsburgh_Penguins", "id": 2683162}, {"name": "Management_by_type", "id": 36812489}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Hearing_aids", "id": 26670819, "predecessors": [{"name": "Assistive_technology", "id": 945499}], "successors": [{"name": "Hearing_aid_manufacturers", "id": 42933342}]}
+{"name": "Hearing_aids", "id": 26670819, "predecessors": [{"name": "Assistive_technology", "id": 945499}, {"name": "Otology", "id": 7822685}], "successors": []}

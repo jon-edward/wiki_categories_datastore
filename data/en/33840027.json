@@ -1,1 +1,1 @@
-{"name": "Pasta_industry", "id": 33840027, "predecessors": [{"name": "Food_industry", "id": 3540193}], "successors": []}
+{"name": "Pasta_industry", "id": 33840027, "predecessors": [{"name": "Food_industry", "id": 3540193}, {"name": "Pasta", "id": 1326262}], "successors": [{"name": "Italian_pasta_companies", "id": 57967679}, {"name": "American_pasta_companies", "id": 57967705}]}

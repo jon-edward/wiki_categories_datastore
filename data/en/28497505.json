@@ -1,1 +1,1 @@
-{"name": "Carrier_Strike_Groups", "id": 28497505, "predecessors": [{"name": "Aircraft_carriers", "id": 733409}], "successors": []}
+{"name": "Carrier_Strike_Groups", "id": 28497505, "predecessors": [{"name": "Military_units_and_formations_of_the_United_States_Navy", "id": 10899696}], "successors": [{"name": "Carrier_Strike_Group_One", "id": 34641801}, {"name": "Carrier_Strike_Group_Two", "id": 34658383}]}

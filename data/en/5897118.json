@@ -1,1 +1,1 @@
-{"name": "Help_desk", "id": 5897118, "predecessors": [{"name": "Information_technology_management", "id": 1226541}], "successors": [{"name": "Help_desk_software", "id": 52407277}]}
+{"name": "Help_desk", "id": 5897118, "predecessors": [{"name": "Customer_service", "id": 27901763}, {"name": "Information_technology_management", "id": 1226541}], "successors": [{"name": "Help_desk_software", "id": 52407277}]}

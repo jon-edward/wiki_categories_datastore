@@ -1,1 +1,1 @@
-{"name": "U.S._Route_42", "id": 31195714, "predecessors": [{"name": "Roads_in_Cincinnati", "id": 48114326}, {"name": "U.S._Highways_in_Ohio", "id": 3119575}], "successors": []}
+{"name": "U.S._Route_42", "id": 31195714, "predecessors": [{"name": "Roads_in_Cincinnati", "id": 48114326}, {"name": "U.S._Highways_in_Kentucky", "id": 3119108}, {"name": "U.S._Highways_in_Ohio", "id": 3119575}, {"name": "United_States_Numbered_Highway_System", "id": 3510575}], "successors": []}

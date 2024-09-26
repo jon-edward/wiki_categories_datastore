@@ -1,1 +1,1 @@
-{"name": "Metal_hydrides", "id": 1934144, "predecessors": [{"name": "Inorganic_compounds", "id": 695962}], "successors": []}
+{"name": "Metal_hydrides", "id": 1934144, "predecessors": [{"name": "Hydrides", "id": 1949115}, {"name": "Inorganic_compounds", "id": 695962}, {"name": "Reducing_agents", "id": 13304153}], "successors": []}

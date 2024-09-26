@@ -1,0 +1,1 @@
+{"name": "Biological_contamination", "id": 40050315, "predecessors": [{"name": "Pollution", "id": 871522}], "successors": [{"name": "Biological_weapons", "id": 704835}, {"name": "Biological_hazards", "id": 2638111}, {"name": "Mycotoxins", "id": 4645470}, {"name": "Plant_toxins", "id": 9507849}, {"name": "Bacterial_toxins", "id": 32756222}]}

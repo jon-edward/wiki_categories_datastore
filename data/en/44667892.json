@@ -1,1 +1,1 @@
-{"name": "Hair_diseases", "id": 44667892, "predecessors": [{"name": "Animal_hair", "id": 10156141}], "successors": []}
+{"name": "Hair_diseases", "id": 44667892, "predecessors": [{"name": "Animal_hair", "id": 10156141}, {"name": "Human_hair", "id": 36697594}], "successors": []}

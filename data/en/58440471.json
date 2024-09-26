@@ -1,1 +1,1 @@
-{"name": "IFSC_Climbing_World_Cup", "id": 58440471, "predecessors": [{"name": "World_cups", "id": 55528374}], "successors": [{"name": "IFSC_Climbing_World_Cup_overall_medalists", "id": 73149538}]}
+{"name": "IFSC_Climbing_World_Cup", "id": 58440471, "predecessors": [{"name": "Climbing_competitions", "id": 58440366}, {"name": "Sports_competition_series", "id": 42860193}, {"name": "World_cups", "id": 55528374}], "successors": [{"name": "IFSC_Climbing_World_Cup_overall_medalists", "id": 73149538}]}

@@ -1,1 +1,1 @@
-{"name": "London_bus_operators", "id": 4612293, "predecessors": [{"name": "Bus_transport_in_London", "id": 11886341}], "successors": [{"name": "Former_London_bus_operators", "id": 14444162}]}
+{"name": "London_bus_operators", "id": 4612293, "predecessors": [{"name": "Bus_transport_in_London", "id": 11886341}, {"name": "Transport_in_England", "id": 5155486}, {"name": "Bus_operating_companies", "id": 12185357}], "successors": [{"name": "Former_London_bus_operators", "id": 14444162}]}

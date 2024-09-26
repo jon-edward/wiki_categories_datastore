@@ -1,0 +1,1 @@
+{"name": "Pressurized_water_reactors", "id": 11191600, "predecessors": [{"name": "Light_water_reactors", "id": 11191660}], "successors": [{"name": "Nuclear_power_stations_using_AP1000_reactors", "id": 31316949}, {"name": "Nuclear_power_stations_using_VVER_reactors", "id": 31316981}, {"name": "Nuclear_power_stations_using_pressurized_water_reactors", "id": 31904332}]}

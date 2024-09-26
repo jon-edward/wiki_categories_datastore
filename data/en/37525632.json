@@ -1,1 +1,1 @@
-{"name": "Petrochemical_companies", "id": 37525632, "predecessors": [{"name": "Petrochemical_industry", "id": 49822727}, {"name": "Petroleum_industry", "id": 37426453}], "successors": []}
+{"name": "Petrochemical_companies", "id": 37525632, "predecessors": [{"name": "Petrochemical_industry", "id": 49822727}, {"name": "Petroleum_industry", "id": 37426453}], "successors": [{"name": "Petrochemical_companies_of_India", "id": 50287227}]}

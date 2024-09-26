@@ -1,1 +1,1 @@
-{"name": "Root-finding_algorithms", "id": 697463, "predecessors": [{"name": "Algorithms", "id": 691136}, {"name": "Numerical_analysis", "id": 697506}], "successors": []}
+{"name": "Root-finding_algorithms", "id": 697463, "predecessors": [{"name": "0_(number)", "id": 44538171}, {"name": "Algorithms", "id": 691136}, {"name": "Numerical_analysis", "id": 697506}], "successors": [{"name": "Polynomial_factorization_algorithms", "id": 70823290}]}

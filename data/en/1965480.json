@@ -1,1 +1,1 @@
-{"name": "London_Underground_electric_multiple_units", "id": 1965480, "predecessors": [{"name": "London_Underground", "id": 1290741}], "successors": []}
+{"name": "London_Underground_electric_multiple_units", "id": 1965480, "predecessors": [{"name": "Electric_multiple_units_of_Great_Britain", "id": 34119967}, {"name": "London_Underground", "id": 1290741}, {"name": "Rapid_transit", "id": 4286827}], "successors": []}

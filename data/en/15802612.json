@@ -1,0 +1,1 @@
+{"name": "Electric_arcs", "id": 15802612, "predecessors": [{"name": "Electricity", "id": 959298}, {"name": "Types_of_lamp", "id": 45198981}], "successors": [{"name": "Lightning", "id": 12425718}, {"name": "Electrical_breakdown", "id": 13402107}, {"name": "Gas_discharge_lamps", "id": 15802367}, {"name": "Arc_welding", "id": 15830702}, {"name": "Gas-filled_tubes", "id": 27000634}]}

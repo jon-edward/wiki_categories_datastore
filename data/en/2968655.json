@@ -1,1 +1,1 @@
-{"name": "Supranational_banks", "id": 2968655, "predecessors": [{"name": "International_finance_institutions", "id": 8334411}], "successors": [{"name": "World_Bank", "id": 706432}, {"name": "Bank_for_International_Settlements", "id": 73921193}]}
+{"name": "Supranational_banks", "id": 2968655, "predecessors": [{"name": "Banks", "id": 718748}, {"name": "International_finance_institutions", "id": 8334411}], "successors": [{"name": "World_Bank", "id": 706432}, {"name": "Bank_for_International_Settlements", "id": 73921193}]}

@@ -1,1 +1,1 @@
-{"name": "Cancer_screening", "id": 31321936, "predecessors": [{"name": "Cancer", "id": 999635}, {"name": "Diagnostic_medical_imaging", "id": 74641432}], "successors": []}
+{"name": "Cancer_screening", "id": 31321936, "predecessors": [{"name": "Cancer", "id": 999635}, {"name": "Diagnostic_medical_imaging", "id": 74641432}, {"name": "Medical_tests", "id": 1075994}], "successors": []}

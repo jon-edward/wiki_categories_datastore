@@ -1,1 +1,1 @@
-{"name": "Italian_chess_players", "id": 2083079, "predecessors": [{"name": "Abstract_strategy_games", "id": 3290901}], "successors": []}
+{"name": "Italian_chess_players", "id": 2083079, "predecessors": [{"name": "Sport_in_Italy", "id": 3049847}, {"name": "Culture_of_Europe", "id": 709679}], "successors": [{"name": "Italian_female_chess_players", "id": 47505740}]}

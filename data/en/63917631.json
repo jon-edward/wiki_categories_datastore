@@ -1,1 +1,1 @@
-{"name": "Fever_hospitals", "id": 63917631, "predecessors": [{"name": "Types_of_hospitals", "id": 71789932}], "successors": []}
+{"name": "Fever_hospitals", "id": 63917631, "predecessors": [{"name": "Fever", "id": 32567243}, {"name": "Infectious_disease_organizations", "id": 55793821}], "successors": []}

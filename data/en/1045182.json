@@ -1,1 +1,1 @@
-{"name": "Hyperbolic_geometry", "id": 1045182, "predecessors": [{"name": "Non-Euclidean_geometry", "id": 3638518}, {"name": "Classical_antiquity", "id": 5294499}], "successors": [{"name": "Hyperbolic_tilings", "id": 44205976}]}
+{"name": "Hyperbolic_geometry", "id": 1045182, "predecessors": [{"name": "Non-Euclidean_geometry", "id": 3638518}, {"name": "Riemann_surfaces", "id": 1031092}, {"name": "Classical_antiquity", "id": 5294499}], "successors": [{"name": "Hyperbolic_tilings", "id": 44205976}]}

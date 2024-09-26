@@ -1,1 +1,1 @@
-{"name": "Flying_squirrels", "id": 3424166, "predecessors": [{"name": "Gliding_animals", "id": 26043064}], "successors": []}
+{"name": "Flying_squirrels", "id": 3424166, "predecessors": [{"name": "Gliding_animals", "id": 26043064}, {"name": "Squirrels", "id": 1260965}], "successors": [{"name": "Hylopetes", "id": 12521908}, {"name": "Petaurista", "id": 12527787}]}

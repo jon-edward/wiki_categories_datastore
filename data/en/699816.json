@@ -1,1 +1,0 @@
-{"name": "Word_games", "id": 699816, "predecessors": [{"name": "Language_games", "id": 1289327}], "successors": [{"name": "Word_puzzles", "id": 4237254}, {"name": "Word_board_games", "id": 6384796}, {"name": "Palindromes", "id": 24393286}, {"name": "Tongue_twisters", "id": 26462666}, {"name": "Constrained_writing", "id": 27389077}, {"name": "Anagrams", "id": 48689773}]}

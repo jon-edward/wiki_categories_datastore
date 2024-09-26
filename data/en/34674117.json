@@ -1,1 +1,1 @@
-{"name": "Immigrants_to_Peru", "id": 34674117, "predecessors": [{"name": "Andean_Community", "id": 45512140}, {"name": "Immigration", "id": 8704137}], "successors": [{"name": "Argentine_emigrants_to_Peru", "id": 41071641}]}
+{"name": "Immigrants_to_Peru", "id": 34674117, "predecessors": [{"name": "Latin_America", "id": 1327770}, {"name": "Andean_Community", "id": 45512140}, {"name": "Americas", "id": 1526345}], "successors": [{"name": "Argentine_emigrants_to_Peru", "id": 41071641}]}

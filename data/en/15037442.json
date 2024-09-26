@@ -1,1 +1,1 @@
-{"name": "Fictional_astronomers", "id": 15037442, "predecessors": [{"name": "Fictional_scientists", "id": 874492}], "successors": [{"name": "Fictional_astrophysicists", "id": 52938123}]}
+{"name": "Fictional_astronomers", "id": 15037442, "predecessors": [{"name": "Astronomers", "id": 698061}, {"name": "Fiction_about_outer_space", "id": 27437183}, {"name": "Fictional_scientists", "id": 874492}], "successors": [{"name": "Fictional_astrophysicists", "id": 52938123}]}

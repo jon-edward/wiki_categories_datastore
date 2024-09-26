@@ -1,1 +1,1 @@
-{"name": "Hair_coloring", "id": 52057349, "predecessors": [{"name": "Hair_color", "id": 10156068}], "successors": []}
+{"name": "Hair_coloring", "id": 52057349, "predecessors": [{"name": "Body_modification", "id": 735335}, {"name": "Hairdressing", "id": 933176}, {"name": "Hair_color", "id": 10156068}], "successors": []}

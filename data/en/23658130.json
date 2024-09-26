@@ -1,1 +1,1 @@
-{"name": "Agricultural_subsidies", "id": 23658130, "predecessors": [{"name": "Agrarian_politics", "id": 6746129}, {"name": "Subsidies", "id": 2144922}], "successors": []}
+{"name": "Agricultural_subsidies", "id": 23658130, "predecessors": [{"name": "Agrarian_politics", "id": 6746129}, {"name": "Agricultural_economics", "id": 4820513}, {"name": "Agricultural_policy", "id": 32607707}, {"name": "Subsidies", "id": 2144922}], "successors": []}

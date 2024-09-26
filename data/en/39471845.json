@@ -1,1 +1,1 @@
-{"name": "Xbox_One", "id": 39471845, "predecessors": [{"name": "Eighth-generation_video_game_consoles", "id": 32523293}, {"name": "Home_video_game_consoles", "id": 44315020}], "successors": [{"name": "Xbox_One_software", "id": 51482084}]}
+{"name": "Xbox_One", "id": 39471845, "predecessors": [{"name": "Eighth-generation_video_game_consoles", "id": 32523293}, {"name": "X86-based_game_consoles", "id": 54326474}, {"name": "Xbox", "id": 2477065}, {"name": "Microsoft_hardware", "id": 13659567}], "successors": [{"name": "Xbox_One_software", "id": 51482084}]}

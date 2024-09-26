@@ -1,1 +1,1 @@
-{"name": "Shaving", "id": 13945753, "predecessors": [{"name": "Hair_removal", "id": 44532338}], "successors": []}
+{"name": "Shaving", "id": 13945753, "predecessors": [{"name": "Facial_hair", "id": 3808601}, {"name": "Hair_removal", "id": 44532338}, {"name": "Hairdressing", "id": 933176}], "successors": []}

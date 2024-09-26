@@ -1,1 +1,1 @@
-{"name": "Canneries", "id": 31427320, "predecessors": [{"name": "Food_industry", "id": 3540193}, {"name": "Food_preservation", "id": 999907}], "successors": []}
+{"name": "Canneries", "id": 31427320, "predecessors": [{"name": "Food_industry", "id": 3540193}, {"name": "Food_preservation", "id": 999907}], "successors": [{"name": "Seafood_canneries", "id": 70348798}]}

@@ -1,1 +1,1 @@
-{"name": "Computer_memory_companies", "id": 7637201, "predecessors": [{"name": "Computer_hardware_companies", "id": 699547}, {"name": "Computer_memory", "id": 877797}, {"name": "Semiconductor_device_fabrication", "id": 1274670}], "successors": []}
+{"name": "Computer_memory_companies", "id": 7637201, "predecessors": [{"name": "Computer_hardware_companies", "id": 699547}, {"name": "Computer_memory", "id": 877797}, {"name": "Semiconductor_device_fabrication", "id": 1274670}], "successors": [{"name": "Micron_Technology", "id": 63314692}]}

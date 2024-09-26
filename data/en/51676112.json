@@ -1,1 +1,1 @@
-{"name": "Celebrity_doctors", "id": 51676112, "predecessors": [{"name": "Celebrity", "id": 28251652}, {"name": "Physicians", "id": 718247}, {"name": "Science_communicators", "id": 47125022}], "successors": []}
+{"name": "Celebrity_doctors", "id": 51676112, "predecessors": [{"name": "Celebrity", "id": 28251652}, {"name": "Medical_educators", "id": 11304253}, {"name": "Physicians", "id": 718247}, {"name": "Science_communicators", "id": 47125022}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Argentine_polo_players", "id": 3138844, "predecessors": [{"name": "Sport_in_Argentina", "id": 3020701}], "successors": [{"name": "Olympic_polo_players_for_Argentina", "id": 11434691}]}
+{"name": "Argentine_polo_players", "id": 3138844, "predecessors": [{"name": "Sport_in_Argentina", "id": 3020701}, {"name": "Polo", "id": 1600726}, {"name": "Culture_of_Latin_America", "id": 1327767}], "successors": [{"name": "Olympic_polo_players_for_Argentina", "id": 11434691}]}

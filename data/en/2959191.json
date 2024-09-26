@@ -1,1 +1,1 @@
-{"name": "Cable_radio", "id": 2959191, "predecessors": [{"name": "Cable_television_technology", "id": 27983038}], "successors": []}
+{"name": "Cable_radio", "id": 2959191, "predecessors": [{"name": "Cable_television_technology", "id": 27983038}, {"name": "Radio_technology", "id": 2959298}], "successors": []}

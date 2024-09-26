@@ -1,1 +1,1 @@
-{"name": "Nuclear_regulatory_organizations", "id": 12179622, "predecessors": [{"name": "Energy_regulatory_authorities", "id": 55529172}, {"name": "Nuclear_organizations", "id": 3099410}, {"name": "Nuclear_safety_and_security", "id": 3096958}], "successors": [{"name": "Nuclear_Regulatory_Commission", "id": 37744323}]}
+{"name": "Nuclear_regulatory_organizations", "id": 12179622, "predecessors": [{"name": "Nuclear_organizations", "id": 3099410}, {"name": "Nuclear_safety_and_security", "id": 3096958}], "successors": [{"name": "Nuclear_Regulatory_Commission", "id": 37744323}]}

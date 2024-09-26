@@ -1,1 +1,1 @@
-{"name": "IAAF_World_Outdoor_Meetings", "id": 61876201, "predecessors": [{"name": "Annual_athletics_series", "id": 32060424}], "successors": [{"name": "IAAF_Golden_League", "id": 8366091}, {"name": "IAAF_Super_Grand_Prix", "id": 23232418}]}
+{"name": "IAAF_World_Outdoor_Meetings", "id": 61876201, "predecessors": [{"name": "Annual_athletics_series", "id": 32060424}, {"name": "World_Athletics_competitions", "id": 23232215}], "successors": [{"name": "IAAF_Golden_League", "id": 8366091}, {"name": "IAAF_Super_Grand_Prix", "id": 23232418}, {"name": "Herculis", "id": 65289346}]}

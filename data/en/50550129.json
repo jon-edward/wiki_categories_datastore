@@ -1,1 +1,1 @@
-{"name": "Gujarati-language_books", "id": 50550129, "predecessors": [{"name": "Books", "id": 694040}], "successors": [{"name": "Gujarati-language_novels", "id": 50569403}, {"name": "Gujarati-language_poetry_collections", "id": 50569438}]}
+{"name": "Gujarati-language_books", "id": 50550129, "predecessors": [{"name": "Gujarati_literature", "id": 6395647}, {"name": "Books", "id": 694040}, {"name": "Gujarati_culture", "id": 4036027}], "successors": [{"name": "Gujarati-language_novels", "id": 50569403}, {"name": "Gujarati-language_poetry_collections", "id": 50569438}]}

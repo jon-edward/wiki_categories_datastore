@@ -1,1 +1,1 @@
-{"name": "Mutilation", "id": 39622646, "predecessors": [{"name": "Quality_of_life", "id": 40249123}, {"name": "Torture", "id": 979826}], "successors": []}
+{"name": "Mutilation", "id": 39622646, "predecessors": [{"name": "Body_modification", "id": 735335}, {"name": "Quality_of_life", "id": 40249123}, {"name": "Torture", "id": 979826}], "successors": [{"name": "Amputation", "id": 36054784}, {"name": "Genital_modification_and_mutilation", "id": 44532332}]}

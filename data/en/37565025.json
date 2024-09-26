@@ -1,1 +1,1 @@
-{"name": "Chinese_gangsters", "id": 37565025, "predecessors": [{"name": "Chinese_folklore", "id": 1208297}], "successors": [{"name": "Triad_members", "id": 1597951}, {"name": "Chinese_crime_bosses", "id": 37565022}]}
+{"name": "Chinese_gangsters", "id": 37565025, "predecessors": [{"name": "Organized_crime", "id": 716194}, {"name": "Gangs", "id": 713684}, {"name": "Chinese_folklore", "id": 1208297}, {"name": "Countries_in_Asia", "id": 37691781}], "successors": [{"name": "Triad_members", "id": 1597951}, {"name": "Chinese_crime_bosses", "id": 37565022}]}

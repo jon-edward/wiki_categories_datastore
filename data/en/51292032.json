@@ -1,1 +1,1 @@
-{"name": "Baking_industry", "id": 51292032, "predecessors": [{"name": "Baking", "id": 1495742}, {"name": "Food_industry", "id": 3540193}], "successors": []}
+{"name": "Baking_industry", "id": 51292032, "predecessors": [{"name": "Baking", "id": 1495742}, {"name": "Food_industry", "id": 3540193}], "successors": [{"name": "Baking_mixes", "id": 46861041}, {"name": "Bakers'_and_confectioners'_trade_unions", "id": 65838835}]}

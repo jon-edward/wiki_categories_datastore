@@ -1,1 +1,1 @@
-{"name": "MRT_(Bangkok)_stations", "id": 41430393, "predecessors": [{"name": "Rapid_transit", "id": 4286827}], "successors": []}
+{"name": "MRT_(Bangkok)_stations", "id": 41430393, "predecessors": [{"name": "Railway_stations_by_type", "id": 72782274}, {"name": "Rapid_transit", "id": 4286827}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Eastern_Christian_liturgies", "id": 43441174, "predecessors": [{"name": "Catholic_liturgical_rites", "id": 38214035}], "successors": [{"name": "Byzantine_Rite", "id": 52800419}]}
+{"name": "Eastern_Christian_liturgies", "id": 43441174, "predecessors": [{"name": "Catholic_liturgical_rites", "id": 38214035}, {"name": "Eastern_Christian_liturgy", "id": 22004932}], "successors": [{"name": "Byzantine_Rite", "id": 52800419}]}

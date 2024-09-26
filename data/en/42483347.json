@@ -1,1 +1,1 @@
-{"name": "Books_about_physicians", "id": 42483347, "predecessors": [{"name": "Books_about_scientists", "id": 42477438}], "successors": []}
+{"name": "Books_about_physicians", "id": 42483347, "predecessors": [{"name": "Books_about_scientists", "id": 42477438}, {"name": "Medical_books", "id": 13000376}, {"name": "Physicians", "id": 718247}, {"name": "Biographical_books", "id": 9550264}], "successors": []}

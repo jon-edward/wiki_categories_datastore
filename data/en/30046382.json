@@ -1,1 +1,1 @@
-{"name": "Phosphonic_acids", "id": 30046382, "predecessors": [{"name": "Organic_acids", "id": 978289}, {"name": "Organophosphorus_compounds", "id": 8297425}], "successors": []}
+{"name": "Phosphonic_acids", "id": 30046382, "predecessors": [{"name": "Organic_acids", "id": 978289}, {"name": "Organophosphorus_compounds", "id": 8297425}], "successors": [{"name": "Bisphosphonates", "id": 2980033}]}

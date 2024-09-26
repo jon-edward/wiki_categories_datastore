@@ -1,0 +1,1 @@
+{"name": "NP-complete_problems", "id": 1223322, "predecessors": [{"name": "Computational_problems", "id": 4594748}, {"name": "NP-hard_problems", "id": 22231194}], "successors": [{"name": "Sudoku", "id": 3679615}, {"name": "Tetris", "id": 5395114}, {"name": "Nonograms", "id": 12415460}, {"name": "Number_partitioning", "id": 65877024}]}

@@ -1,1 +1,1 @@
-{"name": "Fictional_books", "id": 705244, "predecessors": [{"name": "Books_by_type", "id": 1925647}, {"name": "False_documents", "id": 2617964}], "successors": [{"name": "Fictional_encyclopedias", "id": 4362931}, {"name": "Fictional_diaries", "id": 27872768}]}
+{"name": "Fictional_books", "id": 705244, "predecessors": [{"name": "False_documents", "id": 2617964}, {"name": "Copyright_law", "id": 702268}], "successors": [{"name": "Fictional_encyclopedias", "id": 4362931}, {"name": "Fictional_diaries", "id": 27872768}]}

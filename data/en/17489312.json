@@ -1,1 +1,1 @@
-{"name": "Ships_built_in_Poland", "id": 17489312, "predecessors": [{"name": "Vehicles", "id": 694929}], "successors": [{"name": "Naval_ships_built_in_Poland_for_export", "id": 63168444}]}
+{"name": "Ships_built_in_Poland", "id": 17489312, "predecessors": [{"name": "Economy_of_Poland", "id": 1241341}], "successors": [{"name": "Ships_built_in_Gdańsk", "id": 24914596}, {"name": "Ships_built_in_Szczecin", "id": 31848497}, {"name": "Ships_built_in_Gdynia", "id": 59009443}, {"name": "Naval_ships_built_in_Poland_for_export", "id": 63168444}]}

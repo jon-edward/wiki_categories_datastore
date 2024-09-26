@@ -1,1 +1,1 @@
-{"name": "Baku_Metro_stations", "id": 31591323, "predecessors": [{"name": "Rapid_transit", "id": 4286827}, {"name": "Urban_economics", "id": 2299522}], "successors": []}
+{"name": "Baku_Metro_stations", "id": 31591323, "predecessors": [{"name": "Track_gauges", "id": 42344383}, {"name": "Railway_stations_by_type", "id": 72782274}, {"name": "Geography_of_Baku", "id": 64659465}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Writing_teachers", "id": 7869135, "predecessors": [{"name": "Books", "id": 694040}], "successors": []}
+{"name": "Writing_teachers", "id": 7869135, "predecessors": [{"name": "Writing_occupations", "id": 2148788}, {"name": "Arts_occupations", "id": 5638026}], "successors": []}

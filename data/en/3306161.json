@@ -1,1 +1,1 @@
-{"name": "Museums_in_Bucharest", "id": 3306161, "predecessors": [{"name": "Tourist_attractions_in_Bucharest", "id": 20435427}], "successors": []}
+{"name": "Museums_in_Bucharest", "id": 3306161, "predecessors": [{"name": "Buildings_and_structures_in_Bucharest", "id": 3305810}, {"name": "Culture_in_Bucharest", "id": 3305942}, {"name": "Tourist_attractions_in_Bucharest", "id": 20435427}, {"name": "Capitals_in_Europe", "id": 981572}, {"name": "Balkan_countries", "id": 51872943}], "successors": [{"name": "Art_museums_and_galleries_in_Bucharest", "id": 65410365}]}

@@ -1,1 +1,1 @@
-{"name": "Horse_diseases", "id": 7378506, "predecessors": [{"name": "Horse_health", "id": 2674028}, {"name": "Mammal_taxonomy", "id": 39031289}], "successors": []}
+{"name": "Horse_diseases", "id": 7378506, "predecessors": [{"name": "Horse_health", "id": 2674028}, {"name": "Mammal_diseases", "id": 48666507}], "successors": []}

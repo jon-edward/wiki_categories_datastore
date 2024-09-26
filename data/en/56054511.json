@@ -1,1 +1,1 @@
-{"name": "NBC_soap_operas", "id": 56054511, "predecessors": [{"name": "NBC_original_programming", "id": 796477}], "successors": [{"name": "Days_of_Our_Lives", "id": 8854606}, {"name": "Passions_characters", "id": 1761964}, {"name": "Passions_images", "id": 12630786}]}
+{"name": "NBC_soap_operas", "id": 56054511, "predecessors": [{"name": "NBC_original_programming", "id": 796477}, {"name": "Television_series_by_Universal_Television", "id": 36770018}], "successors": [{"name": "Days_of_Our_Lives", "id": 8854606}]}

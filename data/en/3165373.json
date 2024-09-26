@@ -1,1 +1,1 @@
-{"name": "Carp", "id": 3165373, "predecessors": [{"name": "Fishkeeping", "id": 1579875}], "successors": [{"name": "Goldfish_breeds", "id": 8402093}]}
+{"name": "Carp", "id": 3165373, "predecessors": [{"name": "Cyprinidae", "id": 1270758}, {"name": "Fishkeeping", "id": 1579875}], "successors": []}

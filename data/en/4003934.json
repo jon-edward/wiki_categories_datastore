@@ -1,1 +1,1 @@
-{"name": "Message_authentication_codes", "id": 4003934, "predecessors": [{"name": "Error_detection_and_correction", "id": 1061200}], "successors": []}
+{"name": "Message_authentication_codes", "id": 4003934, "predecessors": [{"name": "Authentication_methods", "id": 1212312}, {"name": "Error_detection_and_correction", "id": 1061200}, {"name": "Cryptographic_algorithms", "id": 704483}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Metamorphic_rocks", "id": 717426, "predecessors": [{"name": "Rocks", "id": 2629756}], "successors": [{"name": "Marble", "id": 2629792}]}
+{"name": "Metamorphic_rocks", "id": 717426, "predecessors": [{"name": "Rocks", "id": 2629756}], "successors": [{"name": "Marble", "id": 2629792}, {"name": "Gneiss", "id": 15435577}, {"name": "Metamorphic_complexes", "id": 51297171}, {"name": "Schist_formations", "id": 60323951}]}

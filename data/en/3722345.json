@@ -1,1 +1,1 @@
-{"name": "Fictional_shopkeepers", "id": 3722345, "predecessors": [{"name": "Fiction_about_economics", "id": 10525264}], "successors": [{"name": "Fictional_merchants", "id": 7836739}]}
+{"name": "Fictional_shopkeepers", "id": 3722345, "predecessors": [{"name": "Fictional_salespeople", "id": 7721387}, {"name": "Fiction_about_economics", "id": 10525264}], "successors": [{"name": "Fictional_merchants", "id": 7836739}]}

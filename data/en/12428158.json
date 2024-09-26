@@ -1,1 +1,1 @@
-{"name": "Transport_in_Belgrade", "id": 12428158, "predecessors": [{"name": "Tourism", "id": 698284}], "successors": [{"name": "Streets_in_Belgrade", "id": 10548462}, {"name": "Bridges_in_Belgrade", "id": 12810123}, {"name": "Railway_stations_in_Belgrade", "id": 42822091}]}
+{"name": "Transport_in_Belgrade", "id": 12428158, "predecessors": [{"name": "Capitals_in_Europe", "id": 981572}, {"name": "Tourism_in_Serbia", "id": 5451975}], "successors": [{"name": "Streets_in_Belgrade", "id": 10548462}]}

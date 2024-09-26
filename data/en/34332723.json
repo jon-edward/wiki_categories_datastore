@@ -1,1 +1,1 @@
-{"name": "Carbon_capture_and_storage", "id": 34332723, "predecessors": [{"name": "Carbon_dioxide", "id": 4535947}, {"name": "Emissions_reduction", "id": 2644560}], "successors": []}
+{"name": "Carbon_capture_and_storage", "id": 34332723, "predecessors": [{"name": "Carbon_dioxide", "id": 4535947}, {"name": "Climate_engineering", "id": 20901640}, {"name": "Emissions_reduction", "id": 2644560}, {"name": "Environmental_engineering", "id": 1786721}], "successors": []}

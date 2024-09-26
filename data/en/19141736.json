@@ -1,1 +1,1 @@
-{"name": "Bass_guitar_manufacturing_companies", "id": 19141736, "predecessors": [{"name": "Bass_guitars", "id": 16776046}, {"name": "Guitar_manufacturing_companies", "id": 9359025}], "successors": [{"name": "Gibson_Brands", "id": 34381456}]}
+{"name": "Bass_guitar_manufacturing_companies", "id": 19141736, "predecessors": [{"name": "Bass_(sound)", "id": 25624513}, {"name": "Bass_guitars", "id": 16776046}], "successors": [{"name": "Gibson_Brands", "id": 34381456}]}

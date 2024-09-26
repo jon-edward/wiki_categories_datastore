@@ -1,1 +1,1 @@
-{"name": "False_advertising_law", "id": 42325519, "predecessors": [{"name": "Competition_law", "id": 12992471}, {"name": "False_advertising", "id": 24765276}, {"name": "Trademark_law", "id": 702301}], "successors": []}
+{"name": "False_advertising_law", "id": 42325519, "predecessors": [{"name": "Competition_law", "id": 12992471}, {"name": "Consumer_protection_law", "id": 14338139}, {"name": "False_advertising", "id": 24765276}, {"name": "Trademark_law", "id": 702301}], "successors": []}

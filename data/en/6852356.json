@@ -1,1 +1,1 @@
-{"name": "Shipbuilding_companies_of_Norway", "id": 6852356, "predecessors": [{"name": "Infrastructure", "id": 2962329}], "successors": [{"name": "Aker_ASA", "id": 6927789}, {"name": "Kværner", "id": 52623834}]}
+{"name": "Shipbuilding_companies_of_Norway", "id": 6852356, "predecessors": [{"name": "Infrastructure", "id": 2962329}], "successors": [{"name": "Shipyards_of_Norway", "id": 6852338}, {"name": "Aker_ASA", "id": 6927789}, {"name": "Kværner", "id": 52623834}]}

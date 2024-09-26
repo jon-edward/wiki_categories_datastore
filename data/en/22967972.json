@@ -1,1 +1,1 @@
-{"name": "Inactive_volcanoes", "id": 22967972, "predecessors": [{"name": "Volcanoes", "id": 693788}], "successors": [{"name": "Extinct_volcanoes", "id": 11700775}, {"name": "Dormant_volcanoes", "id": 12007234}]}
+{"name": "Inactive_volcanoes", "id": 22967972, "predecessors": [{"name": "Volcanoes", "id": 693788}], "successors": [{"name": "Extinct_volcanoes", "id": 11700775}, {"name": "Dormant_volcanoes", "id": 12007234}, {"name": "Inactive_volcanoes_of_the_Philippines", "id": 21119836}]}

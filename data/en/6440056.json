@@ -1,1 +1,1 @@
-{"name": "Ice_cream_brands", "id": 6440056, "predecessors": [{"name": "Ice_cream", "id": 887267}], "successors": []}
+{"name": "Ice_cream_brands", "id": 6440056, "predecessors": [{"name": "Frozen_food_brands", "id": 10042612}, {"name": "Ice_cream", "id": 887267}], "successors": []}

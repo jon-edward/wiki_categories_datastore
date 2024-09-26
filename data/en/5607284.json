@@ -1,1 +1,1 @@
-{"name": "Linux_people", "id": 5607284, "predecessors": [{"name": "Free_software_people", "id": 34294969}], "successors": [{"name": "GNOME_developers", "id": 9577342}, {"name": "Linux_kernel_programmers", "id": 41459197}, {"name": "Linus_Torvalds", "id": 53479567}]}
+{"name": "Linux_people", "id": 5607284, "predecessors": [{"name": "Free_software_people", "id": 34294969}, {"name": "Unix_people", "id": 1245344}], "successors": [{"name": "GNOME_developers", "id": 9577342}, {"name": "Linux_kernel_programmers", "id": 41459197}, {"name": "Linus_Torvalds", "id": 53479567}]}

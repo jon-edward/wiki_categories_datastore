@@ -1,1 +1,1 @@
-{"name": "Beer_vessels_and_serving", "id": 11144892, "predecessors": [{"name": "Liquid_containers", "id": 38522306}, {"name": "Serving_and_dining", "id": 24696567}], "successors": [{"name": "Beer_glassware", "id": 4248503}]}
+{"name": "Beer_vessels_and_serving", "id": 11144892, "predecessors": [{"name": "Beer_culture", "id": 5823707}, {"name": "Serving_and_dining", "id": 24696567}], "successors": [{"name": "Beer_glassware", "id": 4248503}]}

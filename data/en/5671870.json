@@ -1,1 +1,1 @@
-{"name": "Linux_magazines", "id": 5671870, "predecessors": [{"name": "Publications_by_format", "id": 11278400}], "successors": []}
+{"name": "Linux_magazines", "id": 5671870, "predecessors": [{"name": "Linux", "id": 694804}, {"name": "Science_and_technology_magazines", "id": 4340628}], "successors": []}

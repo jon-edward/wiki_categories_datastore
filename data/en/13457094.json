@@ -1,1 +1,1 @@
-{"name": "Armoured_fighting_vehicles_of_Sweden", "id": 13457094, "predecessors": [{"name": "Armoured_fighting_vehicles", "id": 12171698}, {"name": "Vehicles", "id": 694929}], "successors": []}
+{"name": "Armoured_fighting_vehicles_of_Sweden", "id": 13457094, "predecessors": [{"name": "Armoured_fighting_vehicles", "id": 12171698}, {"name": "Swedish_Army", "id": 8014190}], "successors": [{"name": "Tanks_of_Sweden", "id": 13457110}]}

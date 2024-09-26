@@ -1,1 +1,1 @@
-{"name": "Garlic", "id": 21995380, "predecessors": [{"name": "Food_preservation", "id": 999907}, {"name": "Medicinal_plants", "id": 771411}, {"name": "Root_vegetables", "id": 1657049}], "successors": [{"name": "Garlic_dishes", "id": 55561074}]}
+{"name": "Garlic", "id": 21995380, "predecessors": [{"name": "Allium", "id": 10958918}, {"name": "Food_preservation", "id": 999907}, {"name": "Medicinal_plants", "id": 771411}, {"name": "Root_vegetables", "id": 1657049}], "successors": [{"name": "Garlic_dishes", "id": 55561074}]}

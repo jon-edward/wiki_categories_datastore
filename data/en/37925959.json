@@ -1,1 +1,1 @@
-{"name": "Ships_built_in_Baltimore", "id": 37925959, "predecessors": [{"name": "Transportation_in_Baltimore", "id": 17859066}], "successors": []}
+{"name": "Ships_built_in_Baltimore", "id": 37925959, "predecessors": [{"name": "Ships_built_in_Maryland", "id": 18532710}, {"name": "Transportation_in_Baltimore", "id": 17859066}], "successors": []}

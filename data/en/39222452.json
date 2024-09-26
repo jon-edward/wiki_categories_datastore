@@ -1,1 +1,1 @@
-{"name": "Teen_sports_films", "id": 39222452, "predecessors": [{"name": "Youth_sport", "id": 14950852}, {"name": "Teen_fiction", "id": 29665443}, {"name": "Leisure_activities", "id": 8245547}], "successors": [{"name": "Films_about_high_school_sports", "id": 73482558}]}
+{"name": "Teen_sports_films", "id": 39222452, "predecessors": [{"name": "Youth_sport", "id": 14950852}, {"name": "Films_about_games", "id": 47564898}], "successors": [{"name": "Films_about_high_school_sports", "id": 73482558}]}

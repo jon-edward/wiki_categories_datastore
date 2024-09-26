@@ -1,1 +1,1 @@
-{"name": "Adephaga_genera", "id": 52903923, "predecessors": [{"name": "Adephaga", "id": 31944321}], "successors": []}
+{"name": "Adephaga_genera", "id": 52903923, "predecessors": [{"name": "Adephaga", "id": 31944321}, {"name": "Beetle_genera", "id": 44112574}], "successors": [{"name": "Dytiscidae_genera", "id": 52601116}, {"name": "Carabidae_genera", "id": 52888535}, {"name": "Monotypic_Adephaga_genera", "id": 52908576}]}

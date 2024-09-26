@@ -1,1 +1,1 @@
-{"name": "Computational_topology", "id": 25230376, "predecessors": [{"name": "Computational_mathematics", "id": 43450101}, {"name": "Topology", "id": 691921}], "successors": []}
+{"name": "Computational_topology", "id": 25230376, "predecessors": [{"name": "Computational_mathematics", "id": 43450101}, {"name": "Geometric_algorithms", "id": 702582}, {"name": "Topology", "id": 691921}], "successors": []}

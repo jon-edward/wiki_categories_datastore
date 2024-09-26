@@ -1,1 +1,1 @@
-{"name": "Fusion_reactors", "id": 2131404, "predecessors": [{"name": "Fusion_power", "id": 1834810}, {"name": "Nuclear_fusion", "id": 1019080}], "successors": []}
+{"name": "Fusion_reactors", "id": 2131404, "predecessors": [{"name": "Fusion_power", "id": 1834810}, {"name": "Nuclear_fusion", "id": 1019080}, {"name": "Nuclear_reactors", "id": 2471531}], "successors": [{"name": "Magnetic_confinement_fusion_devices", "id": 64599965}]}

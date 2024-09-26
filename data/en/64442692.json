@@ -1,1 +1,1 @@
-{"name": "Film_people_from_Hamburg", "id": 64442692, "predecessors": [{"name": "Film_industry", "id": 42321809}], "successors": [{"name": "Film_directors_from_Hamburg", "id": 63899585}]}
+{"name": "Film_people_from_Hamburg", "id": 64442692, "predecessors": [{"name": "Mass_media_people_from_Hamburg", "id": 64403125}, {"name": "Film_industry", "id": 42321809}], "successors": [{"name": "Film_directors_from_Hamburg", "id": 63899585}]}

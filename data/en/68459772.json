@@ -1,1 +1,1 @@
-{"name": "Blockmodeling", "id": 68459772, "predecessors": [{"name": "Machine_learning", "id": 706543}, {"name": "Random_graphs", "id": 17766079}], "successors": []}
+{"name": "Blockmodeling", "id": 68459772, "predecessors": [{"name": "Machine_learning", "id": 706543}, {"name": "Network_science", "id": 68459817}, {"name": "Random_graphs", "id": 17766079}], "successors": []}

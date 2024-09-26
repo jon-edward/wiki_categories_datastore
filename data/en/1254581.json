@@ -1,1 +1,1 @@
-{"name": "Propaganda_organizations", "id": 1254581, "predecessors": [{"name": "Propaganda", "id": 838111}], "successors": [{"name": "Propaganda_film_units", "id": 11897260}, {"name": "Nazi_propaganda_organizations", "id": 58865696}]}
+{"name": "Propaganda_organizations", "id": 1254581, "predecessors": [{"name": "Propaganda", "id": 838111}, {"name": "Advocacy_groups", "id": 2964371}], "successors": [{"name": "Propaganda_film_units", "id": 11897260}, {"name": "Nazi_propaganda_organizations", "id": 58865696}]}

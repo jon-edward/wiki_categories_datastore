@@ -1,1 +1,1 @@
-{"name": "DOS_emulators", "id": 5058245, "predecessors": [{"name": "Emulation_software", "id": 1393117}], "successors": []}
+{"name": "DOS_emulators", "id": 5058245, "predecessors": [{"name": "DOS_on_IBM_PC_compatibles", "id": 1094172}, {"name": "Emulation_software", "id": 1393117}], "successors": []}

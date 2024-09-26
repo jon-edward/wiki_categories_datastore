@@ -1,1 +1,1 @@
-{"name": "Spacecraft_that_orbited_the_Moon", "id": 41302852, "predecessors": [{"name": "Orbiters_(space_probe)", "id": 54293433}], "successors": []}
+{"name": "Spacecraft_that_orbited_the_Moon", "id": 41302852, "predecessors": [{"name": "Orbit_of_the_Moon", "id": 8904036}, {"name": "Orbiters_(space_probe)", "id": 54293433}], "successors": [{"name": "Satellites_orbiting_the_Moon", "id": 38971467}]}

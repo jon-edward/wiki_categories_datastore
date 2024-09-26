@@ -1,1 +1,1 @@
-{"name": "Commercial_building_fires", "id": 63542277, "predecessors": [{"name": "Buildings_and_structures_by_type", "id": 6884364}, {"name": "Disasters", "id": 745842}], "successors": [{"name": "Department_store_fires", "id": 47809697}]}
+{"name": "Commercial_building_fires", "id": 63542277, "predecessors": [{"name": "Commercial_real_estate", "id": 24007176}], "successors": []}

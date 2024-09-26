@@ -1,1 +1,1 @@
-{"name": "Page_layout", "id": 10993438, "predecessors": [{"name": "Book_design", "id": 2790112}, {"name": "Typography", "id": 889619}], "successors": []}
+{"name": "Page_layout", "id": 10993438, "predecessors": [{"name": "Book_design", "id": 2790112}, {"name": "Printing", "id": 774014}, {"name": "Typography", "id": 889619}], "successors": []}

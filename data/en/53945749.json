@@ -1,1 +1,1 @@
-{"name": "Sculptures_of_dogs", "id": 53945749, "predecessors": [{"name": "Dogs_in_art", "id": 34579678}], "successors": [{"name": "Dog_monuments", "id": 1765458}]}
+{"name": "Sculptures_of_dogs", "id": 53945749, "predecessors": [{"name": "Dogs_in_art", "id": 34579678}, {"name": "Sculptures_of_mammals", "id": 74162334}], "successors": [{"name": "Dog_monuments", "id": 1765458}, {"name": "Sculptures_of_dogs_in_the_United_States", "id": 56824857}, {"name": "Sculptures_of_dogs_in_the_United_Kingdom", "id": 72908129}]}

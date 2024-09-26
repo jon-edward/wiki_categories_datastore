@@ -1,1 +1,1 @@
-{"name": "Software_that_uses_PyGTK", "id": 42279783, "predecessors": [{"name": "Software_that_uses_GTK", "id": 40563904}], "successors": []}
+{"name": "Software_that_uses_PyGTK", "id": 42279783, "predecessors": [{"name": "Software_that_uses_GTK", "id": 40563904}, {"name": "Software_that_uses_PyGObject", "id": 42279087}], "successors": []}

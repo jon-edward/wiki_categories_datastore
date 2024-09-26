@@ -1,1 +1,1 @@
-{"name": "Wool", "id": 52387058, "predecessors": [{"name": "Animal_hair_products", "id": 3135689}, {"name": "Textiles", "id": 918950}], "successors": [{"name": "Sheep_wool", "id": 3135730}, {"name": "Cashmere_wool", "id": 55648946}]}
+{"name": "Wool", "id": 52387058, "predecessors": [{"name": "Animal_hair_products", "id": 3135689}], "successors": [{"name": "Sheep_wool", "id": 3135730}, {"name": "Cashmere_wool", "id": 55648946}]}

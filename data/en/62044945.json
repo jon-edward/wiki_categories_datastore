@@ -1,1 +1,1 @@
-{"name": "Beard", "id": 62044945, "predecessors": [{"name": "Male_beauty", "id": 53989826}], "successors": [{"name": "Bearded_women", "id": 981752}, {"name": "Barber_shops", "id": 55170739}]}
+{"name": "Beard", "id": 62044945, "predecessors": [{"name": "Facial_hair", "id": 3808601}, {"name": "Male_beauty", "id": 53989826}], "successors": [{"name": "Bearded_women", "id": 981752}, {"name": "Barber_shops", "id": 55170739}]}

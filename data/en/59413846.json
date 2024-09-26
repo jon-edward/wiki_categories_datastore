@@ -1,1 +1,1 @@
-{"name": "Tour_de_Ski_skiers", "id": 59413846, "predecessors": [{"name": "FIS_Cross-Country_World_Cup", "id": 25172201}], "successors": [{"name": "Tour_de_Ski_winners", "id": 52810156}]}
+{"name": "Tour_de_Ski_skiers", "id": 59413846, "predecessors": [{"name": "Cross-country_skiing_competitions", "id": 43128376}], "successors": [{"name": "Tour_de_Ski_winners", "id": 52810156}]}

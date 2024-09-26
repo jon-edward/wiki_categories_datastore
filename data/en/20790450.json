@@ -1,1 +1,1 @@
-{"name": "Energy_markets", "id": 20790450, "predecessors": [{"name": "Energy_economics", "id": 3646879}, {"name": "Wholesale_markets", "id": 21600704}, {"name": "Energy", "id": 865456}], "successors": [{"name": "Electricity_markets", "id": 20790446}, {"name": "Oil_and_gas_markets", "id": 55313149}]}
+{"name": "Energy_markets", "id": 20790450, "predecessors": [{"name": "Energy_economics", "id": 3646879}, {"name": "Wholesale_markets", "id": 21600704}], "successors": [{"name": "Electricity_markets", "id": 20790446}, {"name": "Oil_and_gas_markets", "id": 55313149}]}

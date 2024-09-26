@@ -1,0 +1,1 @@
+{"name": "Pharmaceutics", "id": 11677783, "predecessors": [{"name": "Drugs", "id": 1325883}, {"name": "Pharmacy", "id": 1004425}, {"name": "Health_sciences", "id": 964864}], "successors": [{"name": "Pharmacokinetics", "id": 726044}, {"name": "Pharmacodynamics", "id": 726051}, {"name": "Drug_discovery", "id": 10435830}]}

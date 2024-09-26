@@ -1,1 +1,1 @@
-{"name": "Video_game_law", "id": 9568848, "predecessors": [{"name": "Computer_law", "id": 1166522}, {"name": "Entertainment_law", "id": 40600571}, {"name": "Video_gaming", "id": 53895843}], "successors": [{"name": "Microsoft_litigation", "id": 37676071}]}
+{"name": "Video_game_law", "id": 9568848, "predecessors": [{"name": "Computer_law", "id": 1166522}, {"name": "Video_game_culture", "id": 9568204}, {"name": "Entertainment", "id": 693016}], "successors": [{"name": "Microsoft_litigation", "id": 37676071}, {"name": "Sony_litigation", "id": 38303749}]}

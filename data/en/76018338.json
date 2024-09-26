@@ -1,1 +1,1 @@
-{"name": "Asian_folk_art", "id": 76018338, "predecessors": [{"name": "Folk_art", "id": 2941728}], "successors": [{"name": "Japanese_folk_art", "id": 32169074}, {"name": "Chinese_folk_art", "id": 46754969}, {"name": "Indian_folk_art", "id": 53585822}]}
+{"name": "Asian_folk_art", "id": 76018338, "predecessors": [{"name": "Asian_art", "id": 707631}, {"name": "Folk_art", "id": 2941728}], "successors": [{"name": "Japanese_folk_art", "id": 32169074}, {"name": "Chinese_folk_art", "id": 46754969}, {"name": "Indian_folk_art", "id": 53585822}]}

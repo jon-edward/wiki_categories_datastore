@@ -1,0 +1,1 @@
+{"name": "Coagulation_system", "id": 968318, "predecessors": [{"name": "Blood", "id": 968308}, {"name": "Blood_proteins", "id": 4354941}], "successors": [{"name": "Coagulopathies", "id": 32637172}]}

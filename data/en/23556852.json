@@ -1,1 +1,1 @@
-{"name": "British_talent_agents", "id": 23556852, "predecessors": [{"name": "Talent_agents", "id": 1865214}], "successors": [{"name": "British_music_managers", "id": 4220788}, {"name": "British_sports_agents", "id": 23556707}, {"name": "English_talent_agents", "id": 34653278}]}
+{"name": "British_talent_agents", "id": 23556852, "predecessors": [{"name": "Talent_agents", "id": 1865214}, {"name": "British_businesspeople", "id": 8440832}], "successors": [{"name": "British_music_managers", "id": 4220788}, {"name": "British_sports_agents", "id": 23556707}]}

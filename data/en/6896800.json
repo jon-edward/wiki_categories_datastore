@@ -1,1 +1,1 @@
-{"name": "Castles_in_Edinburgh", "id": 6896800, "predecessors": [{"name": "Buildings_and_structures_in_Edinburgh", "id": 1755016}, {"name": "Military_history_of_Edinburgh", "id": 76183648}], "successors": [{"name": "Edinburgh_Castle", "id": 10908675}]}
+{"name": "Castles_in_Edinburgh", "id": 6896800, "predecessors": [{"name": "Military_history_of_Edinburgh", "id": 76183648}, {"name": "Castles_in_Scotland", "id": 978964}], "successors": [{"name": "Edinburgh_Castle", "id": 10908675}]}

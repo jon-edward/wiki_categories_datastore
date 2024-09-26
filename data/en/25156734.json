@@ -1,1 +1,1 @@
-{"name": "String_data_structures", "id": 25156734, "predecessors": [{"name": "Data_structures", "id": 691150}], "successors": [{"name": "Substring_indices", "id": 33958933}]}
+{"name": "String_data_structures", "id": 25156734, "predecessors": [{"name": "Data_structures", "id": 691150}, {"name": "String_(computer_science)", "id": 33512329}], "successors": [{"name": "Substring_indices", "id": 33958933}]}

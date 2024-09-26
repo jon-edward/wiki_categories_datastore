@@ -1,1 +1,1 @@
-{"name": "JavaScript_libraries", "id": 6452254, "predecessors": [{"name": "Computer_libraries", "id": 7482978}], "successors": []}
+{"name": "JavaScript_libraries", "id": 6452254, "predecessors": [{"name": "Computer_libraries", "id": 7482978}, {"name": "JavaScript", "id": 26863204}], "successors": [{"name": "JavaScript_visualization_toolkits", "id": 34630467}, {"name": "JavaScript_web_frameworks", "id": 51168403}]}

@@ -1,0 +1,1 @@
+{"name": "X86_memory_management", "id": 4012312, "predecessors": [{"name": "Memory_management", "id": 1957448}, {"name": "X86_architecture", "id": 2299258}], "successors": [{"name": "DOS_memory_management", "id": 31177305}]}

@@ -1,1 +1,1 @@
-{"name": "Sungrazing_comets", "id": 39438726, "predecessors": [{"name": "Impact_events", "id": 1241857}], "successors": []}
+{"name": "Sungrazing_comets", "id": 39438726, "predecessors": [{"name": "Comets", "id": 698007}, {"name": "Impact_events", "id": 1241857}], "successors": []}

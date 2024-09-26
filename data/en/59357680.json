@@ -1,1 +1,1 @@
-{"name": "Tour_de_Ski_by_year", "id": 59357680, "predecessors": [{"name": "FIS_Cross-Country_World_Cup", "id": 25172201}], "successors": []}
+{"name": "Tour_de_Ski_by_year", "id": 59357680, "predecessors": [{"name": "Cross-country_skiing", "id": 765983}, {"name": "Cross-country_skiing_competitions", "id": 43128376}], "successors": []}

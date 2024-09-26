@@ -1,1 +1,1 @@
-{"name": "Minimum_wage", "id": 10982582, "predecessors": [{"name": "Income_distribution", "id": 5050920}, {"name": "Wages_and_salaries", "id": 51873816}], "successors": []}
+{"name": "Minimum_wage", "id": 10982582, "predecessors": [{"name": "Economic_policy", "id": 3168459}, {"name": "Income_distribution", "id": 5050920}, {"name": "Wages_and_salaries", "id": 51873816}], "successors": []}

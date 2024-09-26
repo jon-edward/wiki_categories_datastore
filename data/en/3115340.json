@@ -1,1 +1,1 @@
-{"name": "Surf_lifesaving", "id": 3115340, "predecessors": [{"name": "Lifesaving", "id": 7755538}], "successors": [{"name": "Lifesaving_in_Australia", "id": 37070957}]}
+{"name": "Surf_lifesaving", "id": 3115340, "predecessors": [{"name": "Surfing", "id": 774169}], "successors": [{"name": "Lifesaving_in_Australia", "id": 37070957}, {"name": "Surf_Life_Saving_Australia_clubs", "id": 27013279}]}

@@ -1,1 +1,1 @@
-{"name": "Islamic_manuscripts", "id": 35897428, "predecessors": [{"name": "Islamic_literature", "id": 7577015}], "successors": [{"name": "Islamic_illuminated_manuscripts", "id": 30632124}, {"name": "Quranic_manuscripts", "id": 33199146}]}
+{"name": "Islamic_manuscripts", "id": 35897428, "predecessors": [{"name": "Islamic_literature", "id": 7577015}, {"name": "Manuscripts", "id": 1145570}], "successors": [{"name": "Islamic_illuminated_manuscripts", "id": 30632124}, {"name": "Quranic_manuscripts", "id": 33199146}]}

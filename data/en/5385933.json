@@ -1,1 +1,1 @@
-{"name": "Digital_movie_cameras", "id": 5385933, "predecessors": [{"name": "Movie_cameras", "id": 3440962}], "successors": []}
+{"name": "Digital_movie_cameras", "id": 5385933, "predecessors": [{"name": "Digital_cameras", "id": 886201}, {"name": "Movie_cameras", "id": 3440962}], "successors": []}

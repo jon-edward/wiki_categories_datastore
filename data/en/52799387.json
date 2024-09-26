@@ -1,1 +1,1 @@
-{"name": "Chiton_genera", "id": 52799387, "predecessors": [{"name": "Chitons", "id": 14122316}], "successors": []}
+{"name": "Chiton_genera", "id": 52799387, "predecessors": [{"name": "Chitons", "id": 14122316}, {"name": "Mollusc_genera", "id": 42203349}], "successors": [{"name": "Prehistoric_chiton_genera", "id": 52799294}]}

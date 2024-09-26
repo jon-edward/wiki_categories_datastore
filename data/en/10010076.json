@@ -1,1 +1,1 @@
-{"name": "Birds_of_Madagascar", "id": 10010076, "predecessors": [{"name": "Biota_of_archipelagoes", "id": 59413549}], "successors": [{"name": "Endemic_birds_of_Madagascar", "id": 51974730}]}
+{"name": "Birds_of_Madagascar", "id": 10010076, "predecessors": [{"name": "Birds_of_East_Africa", "id": 51955396}, {"name": "Birds_of_the_Indian_Ocean", "id": 52001923}, {"name": "Dinosaurs_of_Madagascar", "id": 68205467}, {"name": "Fauna_of_Southern_Africa", "id": 42684545}], "successors": [{"name": "Important_Bird_Areas_of_Madagascar", "id": 52203816}]}

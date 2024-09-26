@@ -1,0 +1,1 @@
+{"name": "Dinosaur_genera", "id": 44208101, "predecessors": [{"name": "Reptile_genera", "id": 42203435}, {"name": "Dinosaurs", "id": 912963}], "successors": [{"name": "Bird_genera", "id": 39314878}, {"name": "Monotypic_dinosaur_genera", "id": 44208100}, {"name": "Ornithischian_genera", "id": 68789440}, {"name": "Multispecific_non-avian_dinosaur_genera", "id": 75568403}]}

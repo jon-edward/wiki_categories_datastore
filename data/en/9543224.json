@@ -1,1 +1,1 @@
-{"name": "Natural_gas_companies_of_Russia", "id": 9543224, "predecessors": [{"name": "Oil_and_gas_markets", "id": 55313149}], "successors": []}
+{"name": "Natural_gas_companies_of_Russia", "id": 9543224, "predecessors": [{"name": "Oil_and_gas_markets", "id": 55313149}, {"name": "Economy_of_Asia", "id": 7786241}, {"name": "Petroleum_industry", "id": 37426453}], "successors": [{"name": "Gazprom", "id": 4449146}, {"name": "Lukoil", "id": 18976761}]}

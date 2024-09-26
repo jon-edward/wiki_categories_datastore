@@ -1,1 +1,1 @@
-{"name": "Gas_shipping_companies", "id": 13153241, "predecessors": [{"name": "Liquefied_natural_gas", "id": 18792961}, {"name": "Petroleum_transport", "id": 18033511}], "successors": [{"name": "LNG_tankers", "id": 20935414}]}
+{"name": "Gas_shipping_companies", "id": 13153241, "predecessors": [{"name": "Liquefied_natural_gas", "id": 18792961}, {"name": "Petroleum_transport", "id": 18033511}, {"name": "Tanker_shipping_companies", "id": 13153243}], "successors": [{"name": "LNG_tankers", "id": 20935414}]}

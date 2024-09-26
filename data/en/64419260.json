@@ -1,1 +1,1 @@
-{"name": "SpaceX_Starship", "id": 64419260, "predecessors": [{"name": "Reusable_spacecraft", "id": 64792982}, {"name": "SpaceX_launch_vehicles", "id": 59796846}, {"name": "American_spacecraft", "id": 62727113}], "successors": []}
+{"name": "SpaceX_Starship", "id": 64419260, "predecessors": [{"name": "Crewed_spacecraft", "id": 786264}, {"name": "SpaceX_launch_vehicles", "id": 59796846}, {"name": "American_spacecraft", "id": 62727113}], "successors": []}

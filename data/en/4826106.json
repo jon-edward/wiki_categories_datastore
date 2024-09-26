@@ -1,1 +1,1 @@
-{"name": "Catholic_philosophers", "id": 4826106, "predecessors": [{"name": "Catholic_Church", "id": 733334}], "successors": [{"name": "School_of_Salamanca", "id": 60915649}]}
+{"name": "Catholic_philosophers", "id": 4826106, "predecessors": [{"name": "Roman_Catholic_scholars", "id": 62319373}, {"name": "Catholic_Church", "id": 733334}], "successors": [{"name": "Scholastic_philosophers", "id": 873502}, {"name": "Jesuit_philosophers", "id": 39742334}, {"name": "School_of_Salamanca", "id": 60915649}]}

@@ -1,1 +1,1 @@
-{"name": "Churches_in_Prague", "id": 20273861, "predecessors": [{"name": "Tourist_attractions_in_Prague", "id": 20273895}], "successors": [{"name": "Churches_in_Prague_1", "id": 43838032}]}
+{"name": "Churches_in_Prague", "id": 20273861, "predecessors": [{"name": "Buildings_and_structures_in_Prague", "id": 3301573}, {"name": "Tourist_attractions_in_Prague", "id": 20273895}, {"name": "Culture_in_Prague", "id": 3301566}, {"name": "Culture_of_the_Czech_Republic", "id": 725131}], "successors": [{"name": "Churches_in_Prague_1", "id": 43838032}]}

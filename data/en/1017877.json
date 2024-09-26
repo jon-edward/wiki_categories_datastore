@@ -1,1 +1,1 @@
-{"name": "Rolls-Royce_vehicles", "id": 1017877, "predecessors": [{"name": "Cars_of_England", "id": 8357578}, {"name": "Luxury_vehicles", "id": 1028860}], "successors": [{"name": "Rolls-Royce_Motor_Cars_vehicles", "id": 34085322}, {"name": "Rolls-Royce_Phantom", "id": 72278290}]}
+{"name": "Rolls-Royce_vehicles", "id": 1017877, "predecessors": [{"name": "Cars_of_England", "id": 8357578}, {"name": "Luxury_vehicles", "id": 1028860}, {"name": "Rolls-Royce", "id": 1017879}], "successors": [{"name": "Rolls-Royce_Motor_Cars_vehicles", "id": 34085322}]}

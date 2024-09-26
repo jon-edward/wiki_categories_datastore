@@ -1,1 +1,1 @@
-{"name": "Lymphocytic_leukemia", "id": 32530915, "predecessors": [{"name": "Leukemia", "id": 20566458}], "successors": []}
+{"name": "Lymphocytic_leukemia", "id": 32530915, "predecessors": [{"name": "Leukemia", "id": 20566458}, {"name": "Lymphocytic_disorders", "id": 32637394}], "successors": [{"name": "Deaths_from_chronic_lymphocytic_leukemia", "id": 72182084}]}

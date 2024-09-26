@@ -1,1 +1,1 @@
-{"name": "Associated_Press_people", "id": 44104799, "predecessors": [{"name": "American_newspaper_journalists", "id": 26428335}], "successors": [{"name": "Associated_Press_reporters", "id": 25461180}, {"name": "Associated_Press_photographers", "id": 34888695}]}
+{"name": "Associated_Press_people", "id": 44104799, "predecessors": [{"name": "American_newspaper_journalists", "id": 26428335}, {"name": "Associated_Press", "id": 15744532}], "successors": [{"name": "Associated_Press_reporters", "id": 25461180}, {"name": "Associated_Press_photographers", "id": 34888695}]}

@@ -1,1 +1,1 @@
-{"name": "Streets_in_Lima", "id": 20877326, "predecessors": [{"name": "Government_of_Peru", "id": 1905350}], "successors": [{"name": "Avenues_in_Lima", "id": 72973405}]}
+{"name": "Streets_in_Lima", "id": 20877326, "predecessors": [{"name": "Transport_in_Lima", "id": 6049468}, {"name": "Government_of_Peru", "id": 1905350}], "successors": [{"name": "Avenues_in_Lima", "id": 72973405}]}

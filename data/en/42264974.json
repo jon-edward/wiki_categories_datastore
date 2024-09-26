@@ -1,1 +1,1 @@
-{"name": "Green_belts", "id": 42264974, "predecessors": [{"name": "Belt_regions", "id": 17951296}, {"name": "Environmental_planning", "id": 10448609}, {"name": "Urbanization", "id": 35133352}], "successors": [{"name": "Green_belts_in_the_United_Kingdom", "id": 56455840}]}
+{"name": "Green_belts", "id": 42264974, "predecessors": [{"name": "Belt_regions", "id": 17951296}, {"name": "Protected_areas", "id": 1624994}, {"name": "Urbanization", "id": 35133352}], "successors": [{"name": "Green_belts_in_the_United_Kingdom", "id": 56455840}]}

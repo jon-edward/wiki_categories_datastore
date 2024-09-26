@@ -1,1 +1,1 @@
-{"name": "Used_car_market", "id": 57695102, "predecessors": [{"name": "Reuse", "id": 33445743}], "successors": []}
+{"name": "Used_car_market", "id": 57695102, "predecessors": [{"name": "Car_ownership", "id": 42009098}, {"name": "Reuse", "id": 33445743}], "successors": []}

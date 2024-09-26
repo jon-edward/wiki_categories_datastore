@@ -1,1 +1,1 @@
-{"name": "Paranormal_romance_novels", "id": 13773601, "predecessors": [{"name": "Paranormal_novels", "id": 31520963}, {"name": "Romance_genres", "id": 35003032}, {"name": "Paranormal_fiction", "id": 34403989}], "successors": [{"name": "Novels_by_Christine_Feehan", "id": 14408902}, {"name": "Paranormal_romance_novel_series", "id": 31521051}]}
+{"name": "Paranormal_romance_novels", "id": 13773601, "predecessors": [{"name": "Romance_genres", "id": 35003032}, {"name": "Paranormal_fiction", "id": 34403989}], "successors": [{"name": "Novels_by_Christine_Feehan", "id": 14408902}]}

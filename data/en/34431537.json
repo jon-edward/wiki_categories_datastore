@@ -1,1 +1,1 @@
-{"name": "Biomarkers", "id": 34431537, "predecessors": [{"name": "Astrobiology", "id": 1119598}, {"name": "Biological_techniques_and_tools", "id": 5881429}], "successors": [{"name": "Tumor_markers", "id": 2849527}, {"name": "Carotenoids", "id": 2983218}]}
+{"name": "Biomarkers", "id": 34431537, "predecessors": [{"name": "Astrobiology", "id": 1119598}, {"name": "Biological_techniques_and_tools", "id": 5881429}, {"name": "Medical_signs", "id": 3738824}], "successors": [{"name": "Tumor_markers", "id": 2849527}, {"name": "Carotenoids", "id": 2983218}]}

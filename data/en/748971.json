@@ -1,1 +1,1 @@
-{"name": "Arteries", "id": 748971, "predecessors": [{"name": "Angiology", "id": 1482803}], "successors": []}
+{"name": "Arteries", "id": 748971, "predecessors": [{"name": "Angiology", "id": 1482803}], "successors": [{"name": "Arteries_of_the_lower_limb", "id": 21970570}, {"name": "Arteries_of_the_upper_limb", "id": 21970696}, {"name": "Arteries_of_the_head_and_neck", "id": 21973766}, {"name": "Arteries_of_the_thorax", "id": 21973664}, {"name": "Arteries_of_the_abdomen", "id": 21973686}]}

@@ -1,1 +1,1 @@
-{"name": "Slot_machines", "id": 4859831, "predecessors": [{"name": "Commercial_machines", "id": 18608853}, {"name": "Electronic_games", "id": 21451401}, {"name": "Gaming_devices", "id": 8949314}], "successors": [{"name": "Slot_machine_manufacturers", "id": 6392097}]}
+{"name": "Slot_machines", "id": 4859831, "predecessors": [{"name": "Commercial_machines", "id": 18608853}, {"name": "Electronic_games", "id": 21451401}, {"name": "Gambling_games", "id": 8949287}, {"name": "Gaming_devices", "id": 8949314}], "successors": [{"name": "Slot_machine_manufacturers", "id": 6392097}]}

@@ -1,1 +1,1 @@
-{"name": "Women's_Rugby_World_Cup", "id": 4942673, "predecessors": [{"name": "World_championships", "id": 7136195}], "successors": [{"name": "2021_Rugby_World_Cup", "id": 58714410}]}
+{"name": "Women's_Rugby_World_Cup", "id": 4942673, "predecessors": [{"name": "World_Rugby_competitions", "id": 45296237}, {"name": "World_championships", "id": 7136195}], "successors": [{"name": "2021_Rugby_World_Cup", "id": 58714410}]}

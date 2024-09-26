@@ -1,1 +1,1 @@
-{"name": "English_medical_researchers", "id": 39571769, "predecessors": [{"name": "English_academics", "id": 1095830}], "successors": [{"name": "Medical_scholars_of_the_University_of_Oxford", "id": 45301492}]}
+{"name": "English_medical_researchers", "id": 39571769, "predecessors": [{"name": "British_medical_researchers", "id": 24530461}, {"name": "English_biologists", "id": 1623499}, {"name": "English_academics", "id": 1095830}, {"name": "British_medical_research", "id": 45314442}], "successors": [{"name": "Medical_scholars_of_the_University_of_Oxford", "id": 45301492}]}

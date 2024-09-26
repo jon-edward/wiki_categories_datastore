@@ -1,1 +1,1 @@
-{"name": "Telemarketing", "id": 1192019, "predecessors": [{"name": "Promotion_and_marketing_communications", "id": 1232608}], "successors": []}
+{"name": "Telemarketing", "id": 1192019, "predecessors": [{"name": "Promotion_and_marketing_communications", "id": 1232608}, {"name": "Telephony", "id": 1048611}], "successors": []}

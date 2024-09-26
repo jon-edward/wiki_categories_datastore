@@ -1,1 +1,1 @@
-{"name": "Gimlet_Media", "id": 55774771, "predecessors": [{"name": "Spotify", "id": 62451862}], "successors": [{"name": "Gimlet_Media_podcasts", "id": 75699284}]}
+{"name": "Gimlet_Media", "id": 55774771, "predecessors": [{"name": "Companies_based_in_Brooklyn", "id": 35261692}, {"name": "Entertainment_companies_based_in_New_York_City", "id": 54652944}, {"name": "Mass_media_companies_based_in_New_York_City", "id": 31492608}, {"name": "Podcasting_companies", "id": 6581891}], "successors": [{"name": "Gimlet_Media_podcasts", "id": 75699284}]}

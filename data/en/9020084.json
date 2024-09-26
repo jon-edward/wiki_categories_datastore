@@ -1,1 +1,1 @@
-{"name": "Public_transport_administrators_of_Norway", "id": 9020084, "predecessors": [{"name": "Infrastructure", "id": 2962329}, {"name": "Economy_of_Norway", "id": 1298600}], "successors": [{"name": "Oslo_Sporveier", "id": 9020480}]}
+{"name": "Public_transport_administrators_of_Norway", "id": 9020084, "predecessors": [{"name": "Public_transport", "id": 700497}, {"name": "Traffic_management", "id": 44938737}], "successors": [{"name": "Oslo_Sporveier", "id": 9020480}]}

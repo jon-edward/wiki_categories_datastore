@@ -1,1 +1,1 @@
-{"name": "Freshwater_pipelines", "id": 34786256, "predecessors": [{"name": "Aqueducts", "id": 1953973}, {"name": "Water_supply_infrastructure", "id": 19139704}, {"name": "Buildings_and_structures_by_type", "id": 6884364}], "successors": []}
+{"name": "Freshwater_pipelines", "id": 34786256, "predecessors": [{"name": "Aqueducts", "id": 1953973}, {"name": "Water_supply_infrastructure", "id": 19139704}, {"name": "Transport_infrastructure", "id": 2962532}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Lobbying", "id": 3230990, "predecessors": [{"name": "Political_law", "id": 39202680}, {"name": "Right_to_petition", "id": 37548339}], "successors": []}
+{"name": "Lobbying", "id": 3230990, "predecessors": [{"name": "Activism_by_type", "id": 39631262}, {"name": "Political_law", "id": 39202680}, {"name": "Political_occupations", "id": 1755568}, {"name": "Right_to_petition", "id": 37548339}], "successors": []}

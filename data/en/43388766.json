@@ -1,1 +1,1 @@
-{"name": "Paleogene_France", "id": 43388766, "predecessors": [{"name": "Geologic_formations_of_France", "id": 47483297}], "successors": [{"name": "Quercy_Phosphorites_Formation", "id": 65322721}, {"name": "Eocene_France", "id": 72511021}]}
+{"name": "Paleogene_France", "id": 43388766, "predecessors": [{"name": "Geologic_formations_of_Europe", "id": 40998959}, {"name": "Earth", "id": 754965}], "successors": [{"name": "Quercy_Phosphorites_Formation", "id": 65322721}, {"name": "Eocene_France", "id": 72511021}]}

@@ -1,1 +1,1 @@
-{"name": "Organic_electronics", "id": 19325146, "predecessors": [{"name": "Artificial_materials", "id": 51591971}], "successors": [{"name": "Organic_semiconductors", "id": 3088861}]}
+{"name": "Organic_electronics", "id": 19325146, "predecessors": [{"name": "Electronics", "id": 707661}], "successors": [{"name": "Organic_semiconductors", "id": 3088861}]}

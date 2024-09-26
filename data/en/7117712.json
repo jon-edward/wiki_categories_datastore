@@ -1,1 +1,1 @@
-{"name": "BBS_file_transfer_protocols", "id": 7117712, "predecessors": [{"name": "File_transfer_protocols", "id": 1680190}], "successors": []}
+{"name": "BBS_file_transfer_protocols", "id": 7117712, "predecessors": [{"name": "Bulletin_board_systems", "id": 36904398}, {"name": "File_transfer_protocols", "id": 1680190}], "successors": []}

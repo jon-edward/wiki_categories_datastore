@@ -1,1 +1,1 @@
-{"name": "Whitespace", "id": 7055667, "predecessors": [{"name": "Character_encoding", "id": 2123467}, {"name": "Punctuation", "id": 1019193}, {"name": "Source_code", "id": 2857334}], "successors": []}
+{"name": "Whitespace", "id": 7055667, "predecessors": [{"name": "Character_encoding", "id": 2123467}, {"name": "Punctuation", "id": 1019193}], "successors": []}

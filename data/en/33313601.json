@@ -1,1 +1,1 @@
-{"name": "Literate_programming", "id": 33313601, "predecessors": [{"name": "Donald_Knuth", "id": 4866911}, {"name": "Programming_paradigms", "id": 914736}, {"name": "Software_documentation", "id": 21934500}], "successors": [{"name": "Notebook_interface", "id": 52308686}]}
+{"name": "Literate_programming", "id": 33313601, "predecessors": [{"name": "Programming_paradigms", "id": 914736}, {"name": "Software_documentation", "id": 21934500}], "successors": [{"name": "Notebook_interface", "id": 52308686}]}

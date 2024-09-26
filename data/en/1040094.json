@@ -1,1 +1,1 @@
-{"name": "Salads", "id": 1040094, "predecessors": [{"name": "Cuisine", "id": 713870}], "successors": [{"name": "Fruit_salads", "id": 42005845}, {"name": "Arab_salads", "id": 76800045}]}
+{"name": "Salads", "id": 1040094, "predecessors": [{"name": "Cuisine", "id": 713870}], "successors": [{"name": "Salad_dressings", "id": 5134990}, {"name": "Fruit_salads", "id": 42005845}, {"name": "American_salads", "id": 67632076}, {"name": "Arab_salads", "id": 76800045}]}

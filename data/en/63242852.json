@@ -1,1 +1,1 @@
-{"name": "Ebola_researchers", "id": 63242852, "predecessors": [{"name": "Ebola", "id": 8265047}], "successors": []}
+{"name": "Ebola_researchers", "id": 63242852, "predecessors": [{"name": "Ebola", "id": 8265047}, {"name": "Epidemiologists", "id": 3170026}, {"name": "Medical_researchers", "id": 2986153}, {"name": "Infectious_diseases", "id": 707355}], "successors": []}

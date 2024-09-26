@@ -1,1 +1,1 @@
-{"name": "Johns_Hopkins_Hospital", "id": 23424472, "predecessors": [{"name": "Hospitals_in_Baltimore", "id": 17444041}, {"name": "Johns_Hopkins_University", "id": 2829493}], "successors": []}
+{"name": "Johns_Hopkins_Hospital", "id": 23424472, "predecessors": [{"name": "Hospitals_in_Baltimore", "id": 17444041}, {"name": "Johns_Hopkins_University", "id": 2829493}], "successors": [{"name": "Johns_Hopkins_Hospital_physicians", "id": 23424482}]}

@@ -1,1 +1,1 @@
-{"name": "Streamliner_cars", "id": 48498701, "predecessors": [{"name": "Car_body_styles", "id": 750616}, {"name": "Vehicles_by_type", "id": 25508719}], "successors": []}
+{"name": "Streamliner_cars", "id": 48498701, "predecessors": [{"name": "Car_body_styles", "id": 750616}, {"name": "Public_transport", "id": 700497}], "successors": [{"name": "Streamline_Moderne_cars", "id": 30099738}]}

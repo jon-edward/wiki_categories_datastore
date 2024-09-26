@@ -1,1 +1,1 @@
-{"name": "PH_indicators", "id": 1446561, "predecessors": [{"name": "Chemical_compounds", "id": 695235}, {"name": "Chromism", "id": 3115273}, {"name": "Indicators", "id": 68060457}], "successors": [{"name": "Anthocyanins", "id": 2984008}]}
+{"name": "PH_indicators", "id": 1446561, "predecessors": [{"name": "Acid–base_chemistry", "id": 43484841}, {"name": "Chemical_compounds", "id": 695235}, {"name": "Chromism", "id": 3115273}, {"name": "Equilibrium_chemistry", "id": 20193898}, {"name": "Indicators", "id": 68060457}], "successors": [{"name": "Anthocyanins", "id": 2984008}]}

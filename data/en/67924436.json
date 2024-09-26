@@ -1,1 +1,1 @@
-{"name": "Residential_treatment_centers", "id": 67924436, "predecessors": [{"name": "Total_institutions", "id": 33773713}], "successors": []}
+{"name": "Residential_treatment_centers", "id": 67924436, "predecessors": [{"name": "School_types", "id": 1119661}, {"name": "Total_institutions", "id": 33773713}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Multi-robot_systems", "id": 17612277, "predecessors": [{"name": "Multi-agent_systems", "id": 8050180}], "successors": []}
+{"name": "Multi-robot_systems", "id": 17612277, "predecessors": [{"name": "Multi-agent_systems", "id": 8050180}, {"name": "Robotics", "id": 853492}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Word_puzzle_video_games", "id": 52664091, "predecessors": [{"name": "Word_puzzles", "id": 4237254}], "successors": []}
+{"name": "Word_puzzle_video_games", "id": 52664091, "predecessors": [{"name": "Puzzle_video_games", "id": 10615049}, {"name": "Word_puzzles", "id": 4237254}], "successors": []}

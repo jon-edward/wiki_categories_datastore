@@ -1,1 +1,1 @@
-{"name": "Toxic_effects_of_metals", "id": 32637759, "predecessors": [{"name": "Metals", "id": 744693}, {"name": "Health_effects_by_subject", "id": 47239886}], "successors": [{"name": "Lead_poisoning", "id": 32205513}]}
+{"name": "Toxic_effects_of_metals", "id": 32637759, "predecessors": [{"name": "Toxic_effects_of_substances_chiefly_nonmedicinal_as_to_source", "id": 26434208}, {"name": "Dietary_minerals", "id": 718214}], "successors": [{"name": "Lead_poisoning", "id": 32205513}, {"name": "Mercury_poisoning", "id": 32207626}]}

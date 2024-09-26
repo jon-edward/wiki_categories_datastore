@@ -1,1 +1,1 @@
-{"name": "Bird_artists", "id": 2247784, "predecessors": [{"name": "Animal_artists", "id": 2401574}, {"name": "Birds_in_art", "id": 34665262}, {"name": "Scientific_illustrators", "id": 7706001}], "successors": []}
+{"name": "Bird_artists", "id": 2247784, "predecessors": [{"name": "Animal_artists", "id": 2401574}, {"name": "Birds_in_art", "id": 34665262}, {"name": "Scientific_illustrators", "id": 7706001}], "successors": [{"name": "Australian_bird_artists", "id": 21837546}, {"name": "British_bird_artists", "id": 28889463}, {"name": "American_bird_artists", "id": 28901344}]}

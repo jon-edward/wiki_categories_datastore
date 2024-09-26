@@ -1,1 +1,1 @@
-{"name": "Non-impact_printing", "id": 25246426, "predecessors": [{"name": "Printing_processes", "id": 25245567}], "successors": [{"name": "Photographic_processes", "id": 1171722}, {"name": "Laser_printers", "id": 52098140}]}
+{"name": "Non-impact_printing", "id": 25246426, "predecessors": [{"name": "Printing_processes", "id": 25245567}], "successors": [{"name": "Photographic_processes", "id": 1171722}, {"name": "Digital_press", "id": 11673129}, {"name": "Laser_printers", "id": 52098140}]}

@@ -1,1 +1,1 @@
-{"name": "Flow_control_(data)", "id": 40416830, "predecessors": [{"name": "Logical_link_control", "id": 34959061}, {"name": "Transport_layer_protocols", "id": 2931875}], "successors": [{"name": "TCP_congestion_control", "id": 41178120}]}
+{"name": "Flow_control_(data)", "id": 40416830, "predecessors": [{"name": "Computer_networking", "id": 4677693}, {"name": "Data_transmission", "id": 2459124}, {"name": "Logical_link_control", "id": 34959061}, {"name": "Transport_layer_protocols", "id": 2931875}], "successors": [{"name": "TCP_congestion_control", "id": 41178120}]}

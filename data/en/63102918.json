@@ -1,1 +1,1 @@
-{"name": "Dog_attack_victims", "id": 63102918, "predecessors": [{"name": "Canid_attacks", "id": 42500695}, {"name": "Dogs", "id": 704389}], "successors": [{"name": "Deaths_due_to_dog_attacks", "id": 22806874}]}
+{"name": "Dog_attack_victims", "id": 63102918, "predecessors": [{"name": "Canid_attacks", "id": 42500695}, {"name": "Dogs", "id": 704389}, {"name": "Animal_attacks", "id": 11998598}], "successors": [{"name": "Deaths_due_to_dog_attacks", "id": 22806874}]}

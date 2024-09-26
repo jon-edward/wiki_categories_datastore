@@ -1,1 +1,1 @@
-{"name": "Electrical_generation_engine_manufacturers", "id": 6464404, "predecessors": [{"name": "Power_stations", "id": 6093635}, {"name": "Engines", "id": 743017}], "successors": []}
+{"name": "Electrical_generation_engine_manufacturers", "id": 6464404, "predecessors": [{"name": "Power_stations", "id": 6093635}, {"name": "Engines", "id": 743017}], "successors": [{"name": "Kohler_Company", "id": 48633205}]}

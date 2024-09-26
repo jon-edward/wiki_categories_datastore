@@ -1,1 +1,1 @@
-{"name": "Factory_fires", "id": 62548814, "predecessors": [{"name": "Industrial_fires_and_explosions", "id": 24963990}, {"name": "Manufacturing_buildings_and_structures", "id": 39982760}, {"name": "Disasters", "id": 745842}], "successors": []}
+{"name": "Factory_fires", "id": 62548814, "predecessors": [{"name": "Industrial_fires_and_explosions", "id": 24963990}], "successors": []}

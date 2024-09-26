@@ -1,1 +1,1 @@
-{"name": "British_comedy_horror_films", "id": 39203625, "predecessors": [{"name": "British_horror_films", "id": 20289776}, {"name": "Horror_comedy", "id": 40926688}], "successors": [{"name": "British_zombie_comedy_films", "id": 52187947}]}
+{"name": "British_comedy_horror_films", "id": 39203625, "predecessors": [{"name": "British_comedy_films", "id": 21110286}, {"name": "British_horror_films", "id": 20289776}, {"name": "Comedy", "id": 696823}], "successors": [{"name": "British_zombie_comedy_films", "id": 52187947}]}

@@ -1,1 +1,1 @@
-{"name": "Chicken_dishes", "id": 18236924, "predecessors": [{"name": "Chicken_as_food", "id": 55178514}, {"name": "Poultry_dishes", "id": 18237866}], "successors": [{"name": "Chicken_and_rice_dishes", "id": 65392638}]}
+{"name": "Chicken_dishes", "id": 18236924, "predecessors": [{"name": "Chicken_as_food", "id": 55178514}, {"name": "Poultry_dishes", "id": 18237866}], "successors": [{"name": "Fried_chicken", "id": 61629535}, {"name": "Chicken_soups", "id": 64744178}, {"name": "Chicken_and_rice_dishes", "id": 65392638}, {"name": "Chicken_sandwiches", "id": 68257359}]}

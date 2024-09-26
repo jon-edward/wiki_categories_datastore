@@ -1,1 +1,1 @@
-{"name": "Printed_fabrics", "id": 11705789, "predecessors": [{"name": "Woven_fabrics", "id": 11696961}], "successors": []}
+{"name": "Printed_fabrics", "id": 11705789, "predecessors": [{"name": "Textile_printing", "id": 11796816}, {"name": "Woven_fabrics", "id": 11696961}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Royal_Scots_Dragoon_Guards_officers", "id": 15040743, "predecessors": [{"name": "Royal_Armoured_Corps", "id": 25826616}], "successors": []}
+{"name": "Royal_Scots_Dragoon_Guards_officers", "id": 15040743, "predecessors": [{"name": "British_Army_officers", "id": 788424}, {"name": "Scottish_soldiers", "id": 2395658}], "successors": [{"name": "Royal_Scots_Greys_officers", "id": 13753359}, {"name": "3rd_Carabiniers_officers", "id": 13872866}]}

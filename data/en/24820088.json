@@ -1,1 +1,1 @@
-{"name": "National_Football_League_games", "id": 24820088, "predecessors": [{"name": "National_Football_League", "id": 841731}], "successors": [{"name": "National_Football_League_playoff_games", "id": 24820106}]}
+{"name": "National_Football_League_games", "id": 24820088, "predecessors": [{"name": "National_Football_League", "id": 841731}, {"name": "Competitions_in_the_United_States", "id": 21763200}, {"name": "Meetings", "id": 1261738}], "successors": []}

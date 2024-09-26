@@ -1,1 +1,1 @@
-{"name": "Double-decker_EMUs", "id": 35114796, "predecessors": [{"name": "Double-decker_rail_vehicles", "id": 35114781}], "successors": []}
+{"name": "Double-decker_EMUs", "id": 35114796, "predecessors": [{"name": "Double-decker_rail_vehicles", "id": 35114781}, {"name": "Electric_rail_transport", "id": 7031362}], "successors": []}

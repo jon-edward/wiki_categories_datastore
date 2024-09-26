@@ -1,1 +1,1 @@
-{"name": "Isotopes_of_hydrogen", "id": 3459401, "predecessors": [{"name": "Hydrogen", "id": 3459391}, {"name": "Hydrogen_physics", "id": 6849505}], "successors": [{"name": "Deuterium", "id": 74385705}]}
+{"name": "Isotopes_of_hydrogen", "id": 3459401, "predecessors": [{"name": "Hydrogen", "id": 3459391}, {"name": "Hydrogen_physics", "id": 6849505}, {"name": "Isotopes", "id": 1940094}], "successors": [{"name": "Deuterium", "id": 74385705}]}

@@ -1,1 +1,1 @@
-{"name": "Philosophical_paradoxes", "id": 57913855, "predecessors": [{"name": "Philosophical_problems", "id": 6277288}], "successors": []}
+{"name": "Philosophical_paradoxes", "id": 57913855, "predecessors": [{"name": "Paradoxes", "id": 693691}, {"name": "Philosophical_problems", "id": 6277288}], "successors": [{"name": "Logical_paradoxes", "id": 57913828}]}

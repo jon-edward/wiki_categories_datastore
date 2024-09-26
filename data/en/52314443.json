@@ -1,1 +1,1 @@
-{"name": "Estimation_methods", "id": 52314443, "predecessors": [{"name": "Estimation_theory", "id": 1587689}], "successors": [{"name": "Monte_Carlo_methods", "id": 5200150}, {"name": "Maximum_likelihood_estimation", "id": 52315312}]}
+{"name": "Estimation_methods", "id": 52314443, "predecessors": [{"name": "Estimation_theory", "id": 1587689}], "successors": [{"name": "Monte_Carlo_methods", "id": 5200150}, {"name": "Robust_statistics", "id": 17401622}, {"name": "Signal_estimation", "id": 28857734}, {"name": "Maximum_likelihood_estimation", "id": 52315312}]}

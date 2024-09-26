@@ -1,1 +1,1 @@
-{"name": "Pharmacodynamics", "id": 726051, "predecessors": [{"name": "Pharmacology", "id": 717788}], "successors": []}
+{"name": "Pharmacodynamics", "id": 726051, "predecessors": [{"name": "Pharmaceutics", "id": 11677783}, {"name": "Pharmacology", "id": 717788}], "successors": []}

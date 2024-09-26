@@ -1,1 +1,1 @@
-{"name": "RMS_Titanic_survivors", "id": 37754075, "predecessors": [{"name": "20th_century", "id": 884457}], "successors": []}
+{"name": "RMS_Titanic_survivors", "id": 37754075, "predecessors": [{"name": "Shipwreck_survivors", "id": 36819958}, {"name": "20th_century", "id": 884457}], "successors": []}

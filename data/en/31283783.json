@@ -1,1 +1,1 @@
-{"name": "Olympic_short_track_speed_skating_venues", "id": 31283783, "predecessors": [{"name": "Short_track_speed_skating_at_the_Winter_Olympics", "id": 33839658}, {"name": "Event_management", "id": 38591267}], "successors": []}
+{"name": "Olympic_short_track_speed_skating_venues", "id": 31283783, "predecessors": [{"name": "Short_track_speed_skating_at_the_Winter_Olympics", "id": 33839658}, {"name": "Ice_skating", "id": 36868216}, {"name": "Entertainment", "id": 693016}], "successors": []}

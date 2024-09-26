@@ -1,1 +1,1 @@
-{"name": "Cysts", "id": 32580604, "predecessors": [{"name": "Diseases_and_disorders", "id": 16705267}], "successors": []}
+{"name": "Cysts", "id": 32580604, "predecessors": [{"name": "Diseases_and_disorders", "id": 16705267}], "successors": [{"name": "Epidermal_nevi,_neoplasms,_and_cysts", "id": 19989709}, {"name": "Cysts_of_the_oral_and_maxillofacial_region", "id": 46698451}]}

@@ -1,1 +1,1 @@
-{"name": "Port_wine", "id": 54525965, "predecessors": [{"name": "Portuguese_wine", "id": 6042394}], "successors": []}
+{"name": "Port_wine", "id": 54525965, "predecessors": [{"name": "Fortified_wine", "id": 2299168}, {"name": "Portuguese_wine", "id": 6042394}], "successors": []}

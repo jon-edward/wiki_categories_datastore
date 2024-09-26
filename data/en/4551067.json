@@ -1,1 +1,1 @@
-{"name": "Ziyarat", "id": 4551067, "predecessors": [{"name": "Islamic_holy_places", "id": 12466527}], "successors": [{"name": "Mosques_in_Medina", "id": 6141280}, {"name": "Islamic_shrines", "id": 52554223}]}
+{"name": "Ziyarat", "id": 4551067, "predecessors": [{"name": "Islamic_holy_places", "id": 12466527}, {"name": "Islamic_mysticism", "id": 725428}, {"name": "Islamic_pilgrimages", "id": 15358499}, {"name": "Sufism", "id": 1045218}], "successors": [{"name": "Islamic_shrines", "id": 52554223}]}

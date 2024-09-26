@@ -1,1 +1,1 @@
-{"name": "Medieval_Italian_knights", "id": 54563414, "predecessors": [{"name": "Medieval_knights", "id": 33447477}], "successors": []}
+{"name": "Medieval_Italian_knights", "id": 54563414, "predecessors": [{"name": "Italian_knights", "id": 49224575}, {"name": "Medieval_knights", "id": 33447477}, {"name": "Italian_nobility", "id": 1200047}, {"name": "Italian_military_personnel", "id": 6676820}], "successors": []}

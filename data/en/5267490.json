@@ -1,1 +1,1 @@
-{"name": "Nazi_eugenics", "id": 5267490, "predecessors": [{"name": "History_of_eugenics", "id": 38263844}, {"name": "Nazi_human_subject_research", "id": 34232672}], "successors": [{"name": "Aktion_T4", "id": 6736964}]}
+{"name": "Nazi_eugenics", "id": 5267490, "predecessors": [{"name": "History_of_eugenics", "id": 38263844}, {"name": "Nazi_human_subject_research", "id": 34232672}, {"name": "Politics_of_Nazi_Germany", "id": 34959410}, {"name": "Law_of_Germany", "id": 707677}, {"name": "Nazi_Germany", "id": 707674}], "successors": [{"name": "Aktion_T4", "id": 6736964}]}

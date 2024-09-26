@@ -1,1 +1,1 @@
-{"name": "Truck_manufacturers_of_Japan", "id": 61190759, "predecessors": [{"name": "Motor_vehicle_manufacturers", "id": 5754930}], "successors": []}
+{"name": "Truck_manufacturers_of_Japan", "id": 61190759, "predecessors": [{"name": "Automotive_companies_of_Japan", "id": 5760158}, {"name": "Motor_vehicle_manufacturers", "id": 5754930}], "successors": [{"name": "Toyota", "id": 904150}, {"name": "Isuzu", "id": 1079079}, {"name": "UD_trucks", "id": 56284460}]}

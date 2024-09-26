@@ -1,1 +1,1 @@
-{"name": "Gangsters_from_the_Metropolitan_City_of_Palermo", "id": 66340092, "predecessors": [{"name": "Sicilian_mafiosi", "id": 15002155}], "successors": []}
+{"name": "Gangsters_from_the_Metropolitan_City_of_Palermo", "id": 66340092, "predecessors": [{"name": "Sicilian_mafiosi", "id": 15002155}, {"name": "People_from_Sicily", "id": 9774922}], "successors": [{"name": "Gangsters_from_Palermo", "id": 66340319}, {"name": "People_murdered_by_the_Corleonesi", "id": 48811117}]}

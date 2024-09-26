@@ -1,0 +1,1 @@
+{"name": "Computer_access_control_protocols", "id": 30936421, "predecessors": [{"name": "Authentication_protocols", "id": 35484742}, {"name": "Communications_protocols", "id": 40642016}, {"name": "Computer_access_control", "id": 30841684}], "successors": [{"name": "Directory_services", "id": 30937577}, {"name": "Key_derivation_functions", "id": 37920127}]}

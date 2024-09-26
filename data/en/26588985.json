@@ -1,1 +1,1 @@
-{"name": "Filmmaker_cooperatives", "id": 26588985, "predecessors": [{"name": "Film_industry", "id": 42321809}], "successors": []}
+{"name": "Filmmaker_cooperatives", "id": 26588985, "predecessors": [{"name": "Artist_cooperatives", "id": 13925858}, {"name": "Film_industry", "id": 42321809}], "successors": []}

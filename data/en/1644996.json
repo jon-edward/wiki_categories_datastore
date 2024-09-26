@@ -1,1 +1,1 @@
-{"name": "Eurasia", "id": 1644996, "predecessors": [{"name": "Continents", "id": 788686}], "successors": [{"name": "Asia", "id": 697006}, {"name": "Eurasian_history", "id": 1644962}, {"name": "Eurasian_Steppe", "id": 34822815}, {"name": "Eurasianism", "id": 36475450}]}
+{"name": "Eurasia", "id": 1644996, "predecessors": [{"name": "Continents", "id": 788686}, {"name": "Earth", "id": 754965}], "successors": [{"name": "Asia", "id": 697006}, {"name": "Eurasian_history", "id": 1644962}, {"name": "Eurasian_Steppe", "id": 34822815}, {"name": "Eurasianism", "id": 36475450}]}

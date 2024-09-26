@@ -1,1 +1,1 @@
-{"name": "Public_schools_in_Baltimore", "id": 22232586, "predecessors": [{"name": "Buildings_and_structures_in_Baltimore", "id": 17404902}], "successors": []}
+{"name": "Public_schools_in_Baltimore", "id": 22232586, "predecessors": [{"name": "School_districts_in_Maryland", "id": 1660240}, {"name": "Buildings_and_structures_in_Baltimore", "id": 17404902}, {"name": "Education_in_Maryland", "id": 1432888}], "successors": [{"name": "Baltimore_City_College_faculty", "id": 13867357}, {"name": "Baltimore_City_College_alumni", "id": 17165117}]}

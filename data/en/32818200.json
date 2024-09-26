@@ -1,1 +1,1 @@
-{"name": "Daegu_Metro_stations", "id": 32818200, "predecessors": [{"name": "Rapid_transit", "id": 4286827}], "successors": []}
+{"name": "Daegu_Metro_stations", "id": 32818200, "predecessors": [{"name": "Rapid_transit", "id": 4286827}, {"name": "Rail_transport_in_South_Korea", "id": 3374022}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Three-phase_AC_locomotives", "id": 32004834, "predecessors": [{"name": "Railway_lines", "id": 1195239}], "successors": []}
+{"name": "Three-phase_AC_locomotives", "id": 32004834, "predecessors": [{"name": "Electric_locomotives", "id": 1389555}, {"name": "Railway_lines", "id": 1195239}], "successors": []}

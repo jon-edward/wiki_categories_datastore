@@ -1,1 +1,1 @@
-{"name": "1903_suicides", "id": 66275278, "predecessors": [{"name": "1903_deaths", "id": 1005468}], "successors": []}
+{"name": "1903_suicides", "id": 66275278, "predecessors": [{"name": "1903_deaths", "id": 1005468}, {"name": "1900s_deaths", "id": 1005591}], "successors": []}

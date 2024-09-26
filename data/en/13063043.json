@@ -1,1 +1,1 @@
-{"name": "Child_writers", "id": 13063043, "predecessors": [{"name": "Books", "id": 694040}], "successors": [{"name": "American_child_writers", "id": 13063037}, {"name": "British_child_writers", "id": 18156338}, {"name": "Child_journalists", "id": 76094116}]}
+{"name": "Child_writers", "id": 13063043, "predecessors": [{"name": "Mass_media", "id": 696790}], "successors": [{"name": "American_child_writers", "id": 13063037}, {"name": "British_child_writers", "id": 18156338}]}

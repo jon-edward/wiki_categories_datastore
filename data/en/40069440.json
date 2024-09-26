@@ -1,1 +1,1 @@
-{"name": "Frequency_mixers", "id": 40069440, "predecessors": [{"name": "Frequency", "id": 66501513}], "successors": []}
+{"name": "Frequency_mixers", "id": 40069440, "predecessors": [{"name": "Communication_circuits", "id": 1439661}, {"name": "Electronic_circuits", "id": 1331227}, {"name": "Frequency", "id": 66501513}, {"name": "Radio_electronics", "id": 1474255}, {"name": "Telecommunication_theory", "id": 12810241}], "successors": []}

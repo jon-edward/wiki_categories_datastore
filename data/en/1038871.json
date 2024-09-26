@@ -1,1 +1,1 @@
-{"name": "Incendiary_weapons", "id": 1038871, "predecessors": [{"name": "Weapons", "id": 698507}], "successors": [{"name": "Grenades", "id": 1021085}, {"name": "Flamethrowers", "id": 10402444}, {"name": "Terrorist_incidents_involving_incendiary_devices", "id": 76436173}]}
+{"name": "Incendiary_weapons", "id": 1038871, "predecessors": [{"name": "Fire", "id": 3734304}, {"name": "Weapons", "id": 698507}], "successors": [{"name": "Grenades", "id": 1021085}, {"name": "Flamethrowers", "id": 10402444}, {"name": "Terrorist_incidents_involving_incendiary_devices", "id": 76436173}]}

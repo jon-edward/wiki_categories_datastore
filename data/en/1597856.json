@@ -1,1 +1,1 @@
-{"name": "Yakuza_members", "id": 1597856, "predecessors": [{"name": "Yakuza", "id": 3650088}], "successors": [{"name": "Japanese_crime_bosses", "id": 17435492}, {"name": "Yamaguchi-gumi", "id": 19163004}]}
+{"name": "Yakuza_members", "id": 1597856, "predecessors": [{"name": "Yakuza", "id": 3650088}, {"name": "Gangs", "id": 713684}], "successors": [{"name": "Japanese_crime_bosses", "id": 17435492}, {"name": "Yamaguchi-gumi", "id": 19163004}]}

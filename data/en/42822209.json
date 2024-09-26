@@ -1,1 +1,1 @@
-{"name": "Clinical_trials_related_to_cardiology", "id": 42822209, "predecessors": [{"name": "Cardiology", "id": 692364}], "successors": []}
+{"name": "Clinical_trials_related_to_cardiology", "id": 42822209, "predecessors": [{"name": "Cardiology", "id": 692364}, {"name": "Interventional_cardiology", "id": 16345668}, {"name": "Clinical_trials", "id": 1067749}], "successors": []}

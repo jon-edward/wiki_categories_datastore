@@ -1,1 +1,1 @@
-{"name": "Songs_about_entertainers", "id": 70371409, "predecessors": [{"name": "Biography_(genre)", "id": 6277368}], "successors": [{"name": "Songs_about_actors", "id": 53611678}, {"name": "Songs_about_musicians", "id": 54172904}]}
+{"name": "Songs_about_entertainers", "id": 70371409, "predecessors": [{"name": "Songs_about_occupations", "id": 65164948}, {"name": "Occupations", "id": 787658}], "successors": [{"name": "Songs_about_actors", "id": 53611678}, {"name": "Songs_about_musicians", "id": 54172904}]}

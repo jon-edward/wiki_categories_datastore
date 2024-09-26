@@ -1,1 +1,1 @@
-{"name": "Street_view_services", "id": 17114441, "predecessors": [{"name": "Web_Map_Services", "id": 9168072}], "successors": [{"name": "Google_Street_View", "id": 31061406}]}
+{"name": "Street_view_services", "id": 17114441, "predecessors": [{"name": "Web_Map_Services", "id": 9168072}], "successors": []}

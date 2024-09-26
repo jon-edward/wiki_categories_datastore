@@ -1,1 +1,1 @@
-{"name": "Japanese_lacquerware", "id": 10283086, "predecessors": [{"name": "Lacquerware", "id": 10206171}], "successors": [{"name": "Samurai_weapons_and_equipment", "id": 31364662}]}
+{"name": "Japanese_lacquerware", "id": 10283086, "predecessors": [{"name": "Japanese_crafts", "id": 3207482}, {"name": "Japanese_inventions", "id": 22509971}, {"name": "East_Asian_art", "id": 58419810}], "successors": [{"name": "Samurai_weapons_and_equipment", "id": 31364662}]}

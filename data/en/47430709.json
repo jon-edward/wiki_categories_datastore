@@ -1,1 +1,1 @@
-{"name": "Canadian_auditors", "id": 47430709, "predecessors": [{"name": "Canadian_accountants", "id": 6796294}], "successors": [{"name": "Auditors_general_of_Canada", "id": 76165890}]}
+{"name": "Canadian_auditors", "id": 47430709, "predecessors": [{"name": "Canadian_accountants", "id": 6796294}, {"name": "Accountants", "id": 10206400}], "successors": [{"name": "Auditors_general_of_Canada", "id": 76165890}]}

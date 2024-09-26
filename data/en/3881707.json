@@ -1,1 +1,1 @@
-{"name": "Amateur_astronomers", "id": 3881707, "predecessors": [{"name": "Amateur_astronomy", "id": 3881688}, {"name": "Hobbies", "id": 698271}, {"name": "Citizen_science", "id": 4091482}], "successors": []}
+{"name": "Amateur_astronomers", "id": 3881707, "predecessors": [{"name": "Amateur_astronomy", "id": 3881688}, {"name": "Astronomers", "id": 698061}, {"name": "Hobbies", "id": 698271}, {"name": "Citizen_science", "id": 4091482}], "successors": []}

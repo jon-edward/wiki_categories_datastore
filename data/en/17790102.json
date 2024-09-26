@@ -1,1 +1,1 @@
-{"name": "Paul_McCartney_concert_tours", "id": 17790102, "predecessors": [{"name": "Concert_tours", "id": 2275443}], "successors": [{"name": "The_Beatles_concert_tours", "id": 17789798}]}
+{"name": "Paul_McCartney_concert_tours", "id": 17790102, "predecessors": [{"name": "Paul_McCartney", "id": 691823}], "successors": [{"name": "The_Beatles_concert_tours", "id": 17789798}]}

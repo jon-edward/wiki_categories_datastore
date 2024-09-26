@@ -1,1 +1,1 @@
-{"name": "Bank_failures", "id": 24982078, "predecessors": [{"name": "Banking_crises", "id": 53085548}, {"name": "Financial_crises", "id": 11354087}], "successors": [{"name": "Bank_failures_in_the_United_States", "id": 33719190}]}
+{"name": "Bank_failures", "id": 24982078, "predecessors": [{"name": "Banking_crises", "id": 53085548}, {"name": "Defunct_banks", "id": 731149}, {"name": "Financial_crises", "id": 11354087}, {"name": "History_of_banking", "id": 5879849}, {"name": "Insolvent_companies", "id": 33637550}], "successors": []}

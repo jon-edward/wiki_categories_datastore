@@ -1,1 +1,1 @@
-{"name": "Public_transport_operators_of_Germany", "id": 22482283, "predecessors": [{"name": "Public_transport_operators", "id": 29894398}, {"name": "Traffic_management", "id": 44938737}], "successors": []}
+{"name": "Public_transport_operators_of_Germany", "id": 22482283, "predecessors": [{"name": "Public_transport_in_Germany", "id": 12431587}, {"name": "Public_transport_operators", "id": 29894398}, {"name": "Transport_companies_of_Germany", "id": 30283230}], "successors": []}

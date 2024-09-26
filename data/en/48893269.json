@@ -1,1 +1,1 @@
-{"name": "Animal_shows", "id": 48893269, "predecessors": [{"name": "Animals_in_culture", "id": 52196120}], "successors": [{"name": "Dog_shows_and_showing", "id": 970284}, {"name": "Horse_showing_and_exhibition", "id": 50941408}]}
+{"name": "Animal_shows", "id": 48893269, "predecessors": [{"name": "Animals_in_culture", "id": 52196120}, {"name": "Exhibitions", "id": 1473785}, {"name": "Fairs", "id": 1158601}], "successors": [{"name": "Dog_shows_and_showing", "id": 970284}, {"name": "Horse_showing_and_exhibition", "id": 50941408}]}

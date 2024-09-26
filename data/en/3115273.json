@@ -1,1 +1,1 @@
-{"name": "Chromism", "id": 3115273, "predecessors": [{"name": "Materials_science", "id": 709184}, {"name": "Smart_materials", "id": 2923706}, {"name": "Spectroscopy", "id": 697614}], "successors": [{"name": "PH_indicators", "id": 1446561}, {"name": "Complexometric_indicators", "id": 3201271}]}
+{"name": "Chromism", "id": 3115273, "predecessors": [{"name": "Spectroscopy", "id": 697614}], "successors": [{"name": "PH_indicators", "id": 1446561}, {"name": "Complexometric_indicators", "id": 3201271}]}

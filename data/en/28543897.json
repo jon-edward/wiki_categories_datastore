@@ -1,1 +1,1 @@
-{"name": "World_Rally_Cars", "id": 28543897, "predecessors": [{"name": "World_Rally_Championship", "id": 4306516}], "successors": []}
+{"name": "World_Rally_Cars", "id": 28543897, "predecessors": [{"name": "Rally_cars", "id": 1643512}, {"name": "World_Rally_Championship", "id": 4306516}], "successors": []}

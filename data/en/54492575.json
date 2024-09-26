@@ -1,1 +1,1 @@
-{"name": "GAZ_Group_vehicles", "id": 54492575, "predecessors": [{"name": "Cars_of_Russia", "id": 18528352}], "successors": [{"name": "GAZ_Group_military_vehicles", "id": 54496625}]}
+{"name": "GAZ_Group_vehicles", "id": 54492575, "predecessors": [{"name": "Cars_of_Russia", "id": 18528352}, {"name": "Manufacturing_companies_based_in_Moscow", "id": 50787012}], "successors": [{"name": "GAZ_Group_trucks", "id": 54492591}, {"name": "GAZ_Group_military_vehicles", "id": 54496625}, {"name": "GAZ_Volga", "id": 54501925}]}

@@ -1,1 +1,1 @@
-{"name": "Seat_belts", "id": 41823983, "predecessors": [{"name": "Safety_equipment", "id": 1206445}, {"name": "Vehicle_parts", "id": 23450032}], "successors": []}
+{"name": "Seat_belts", "id": 41823983, "predecessors": [{"name": "Safety_equipment", "id": 1206445}, {"name": "Vehicle_parts", "id": 23450032}, {"name": "Vehicle_safety_technologies", "id": 1154937}], "successors": []}

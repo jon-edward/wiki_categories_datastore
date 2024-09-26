@@ -1,1 +1,1 @@
-{"name": "Earth_satellite_radar_altimeters", "id": 67667437, "predecessors": [{"name": "Space_radars", "id": 5682492}], "successors": []}
+{"name": "Earth_satellite_radar_altimeters", "id": 67667437, "predecessors": [{"name": "Space_radars", "id": 5682492}, {"name": "Earth_observation_satellites", "id": 1831416}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Index_(publishing)", "id": 2198982, "predecessors": [{"name": "Directories", "id": 3119166}, {"name": "Library_science", "id": 30813411}], "successors": [{"name": "Indexes", "id": 1789509}, {"name": "Collation", "id": 14490200}]}
+{"name": "Index_(publishing)", "id": 2198982, "predecessors": [{"name": "Directories", "id": 3119166}, {"name": "Library_science", "id": 30813411}, {"name": "Publishing", "id": 1001911}], "successors": [{"name": "Indexes", "id": 1789509}, {"name": "Collation", "id": 14490200}]}

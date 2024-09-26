@@ -1,1 +1,1 @@
-{"name": "Monte_Carlo", "id": 36280608, "predecessors": [{"name": "Quarters_of_Monaco", "id": 11720779}], "successors": [{"name": "People_from_Monte_Carlo", "id": 23958049}, {"name": "Monte-Carlo_Masters", "id": 34561276}]}
+{"name": "Monte_Carlo", "id": 36280608, "predecessors": [{"name": "Quarters_of_Monaco", "id": 11720779}, {"name": "Mediterranean", "id": 727169}], "successors": [{"name": "People_from_Monte_Carlo", "id": 23958049}, {"name": "Monte_Carlo_Rally", "id": 9038497}, {"name": "Monte-Carlo_Masters", "id": 34561276}]}

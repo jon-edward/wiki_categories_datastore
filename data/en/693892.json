@@ -1,1 +1,1 @@
-{"name": "Lambda_calculus", "id": 693892, "predecessors": [{"name": "Logical_calculi", "id": 4127376}, {"name": "Models_of_computation", "id": 31036668}, {"name": "Programming_language_theory", "id": 24085628}], "successors": []}
+{"name": "Lambda_calculus", "id": 693892, "predecessors": [{"name": "Computability_theory", "id": 30870610}, {"name": "Functional_programming", "id": 693702}, {"name": "Logical_calculi", "id": 4127376}, {"name": "Models_of_computation", "id": 31036668}, {"name": "Programming_language_theory", "id": 24085628}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Grammatical_gender", "id": 10948051, "predecessors": [{"name": "Grammatical_categories", "id": 36810816}, {"name": "Linguistic_morphology", "id": 897586}, {"name": "Vocabulary", "id": 1486284}], "successors": [{"name": "Gender-neutral_pronouns", "id": 3829986}]}
+{"name": "Grammatical_gender", "id": 10948051, "predecessors": [{"name": "Linguistic_morphology", "id": 897586}, {"name": "Vocabulary", "id": 1486284}], "successors": [{"name": "Gender-neutral_pronouns", "id": 3829986}]}

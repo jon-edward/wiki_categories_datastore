@@ -1,1 +1,1 @@
-{"name": "Google_Cloud", "id": 62445244, "predecessors": [{"name": "Cloud_infrastructure", "id": 18668249}], "successors": []}
+{"name": "Google_Cloud", "id": 62445244, "predecessors": [{"name": "Cloud_computing_providers", "id": 19303682}, {"name": "Cloud_infrastructure", "id": 18668249}, {"name": "Cloud_platforms", "id": 18706342}, {"name": "Google_services", "id": 6090339}], "successors": []}

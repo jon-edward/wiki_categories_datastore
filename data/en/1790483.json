@@ -1,1 +1,1 @@
-{"name": "Meat_substitutes", "id": 1790483, "predecessors": [{"name": "Meat", "id": 757474}, {"name": "Vegetarian_cuisine", "id": 1171878}, {"name": "Food_and_drink", "id": 694860}], "successors": []}
+{"name": "Meat_substitutes", "id": 1790483, "predecessors": [{"name": "Imitation_foods", "id": 20340415}, {"name": "Meat", "id": 757474}, {"name": "Vegetarian_cuisine", "id": 1171878}, {"name": "Food_and_drink", "id": 694860}, {"name": "Animal_products", "id": 2304680}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Dog_medications", "id": 40042778, "predecessors": [{"name": "Dog_health", "id": 972913}], "successors": []}
+{"name": "Dog_medications", "id": 40042778, "predecessors": [{"name": "Dog_health", "id": 972913}, {"name": "Veterinary_drugs", "id": 16901953}], "successors": []}

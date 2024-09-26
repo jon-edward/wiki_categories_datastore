@@ -1,1 +1,1 @@
-{"name": "Landing_craft", "id": 772245, "predecessors": [{"name": "Landing_operations", "id": 57047254}], "successors": [{"name": "Military_hovercraft", "id": 48793093}]}
+{"name": "Landing_craft", "id": 772245, "predecessors": [{"name": "Amphibious_warfare_vessels", "id": 3483175}, {"name": "Landing_operations", "id": 57047254}], "successors": [{"name": "Military_hovercraft", "id": 48793093}, {"name": "LCI(L)-351-class_large_infantry_landing_craft", "id": 38718038}]}

@@ -1,1 +1,1 @@
-{"name": "HNK_Hajduk_Split_players", "id": 24108205, "predecessors": [{"name": "HNK_Hajduk_Split", "id": 24108152}], "successors": [{"name": "HNK_Hajduk_Split_II_players", "id": 71260293}]}
+{"name": "HNK_Hajduk_Split_players", "id": 24108205, "predecessors": [{"name": "HNK_Hajduk_Split", "id": 24108152}, {"name": "Culture_of_Croatia", "id": 713721}], "successors": [{"name": "HNK_Hajduk_Split_II_players", "id": 71260293}]}

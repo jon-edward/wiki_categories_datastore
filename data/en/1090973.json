@@ -1,1 +1,1 @@
-{"name": "Sulfate_minerals", "id": 1090973, "predecessors": [{"name": "Sulfates", "id": 698800}, {"name": "Minerals", "id": 708104}], "successors": [{"name": "Tungstate_minerals", "id": 1093400}, {"name": "Alabaster", "id": 43814059}]}
+{"name": "Sulfate_minerals", "id": 1090973, "predecessors": [{"name": "Sulfates", "id": 698800}, {"name": "Minerals", "id": 708104}], "successors": [{"name": "Tungstate_minerals", "id": 1093400}, {"name": "Tellurate_and_selenate_minerals", "id": 30770242}, {"name": "Alabaster", "id": 43814059}]}

@@ -1,1 +1,1 @@
-{"name": "Taxation_in_France", "id": 7798358, "predecessors": [{"name": "Government_of_France", "id": 2874684}, {"name": "Law_of_France", "id": 805562}, {"name": "Economy_of_France", "id": 1298598}], "successors": [{"name": "Tax_resistance_in_France", "id": 59110955}]}
+{"name": "Taxation_in_France", "id": 7798358, "predecessors": [{"name": "Government_of_France", "id": 2874684}, {"name": "Law_of_France", "id": 805562}, {"name": "Accounting", "id": 7028488}, {"name": "Economy_of_France", "id": 1298598}], "successors": [{"name": "Tax_resistance_in_France", "id": 59110955}]}

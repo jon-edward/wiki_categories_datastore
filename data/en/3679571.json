@@ -1,1 +1,1 @@
-{"name": "Fast-food_franchises", "id": 3679571, "predecessors": [{"name": "Fast-food_restaurants", "id": 730142}, {"name": "Restaurant_franchises", "id": 28373976}], "successors": []}
+{"name": "Fast-food_franchises", "id": 3679571, "predecessors": [{"name": "Fast-food_restaurants", "id": 730142}, {"name": "Restaurant_chains", "id": 6105715}, {"name": "Restaurant_franchises", "id": 28373976}], "successors": []}

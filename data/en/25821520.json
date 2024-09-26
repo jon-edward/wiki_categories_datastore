@@ -1,1 +1,1 @@
-{"name": "Isoquinolines", "id": 25821520, "predecessors": [{"name": "Heterocyclic_compounds_with_2_rings", "id": 4488801}, {"name": "Nitrogen_heterocycles", "id": 3197412}], "successors": []}
+{"name": "Isoquinolines", "id": 25821520, "predecessors": [{"name": "Heterocyclic_compounds_with_2_rings", "id": 4488801}, {"name": "Six-membered_rings", "id": 54784042}], "successors": [{"name": "Isoquinoline_alkaloids", "id": 64202229}, {"name": "Morphinans", "id": 5488793}, {"name": "Benzylisoquinoline_alkaloids", "id": 67202830}]}

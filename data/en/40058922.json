@@ -1,1 +1,1 @@
-{"name": "Eastern_Orthodox_liturgical_music", "id": 40058922, "predecessors": [{"name": "Christian_liturgical_music", "id": 55516814}], "successors": [{"name": "Byzantine_hymnographers", "id": 28881158}]}
+{"name": "Eastern_Orthodox_liturgical_music", "id": 40058922, "predecessors": [{"name": "Christian_liturgical_music", "id": 55516814}, {"name": "Eastern_Orthodox_liturgy", "id": 52800260}], "successors": [{"name": "Byzantine_hymnographers", "id": 28881158}]}

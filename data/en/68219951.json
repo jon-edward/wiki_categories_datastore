@@ -1,1 +1,1 @@
-{"name": "British_cookbook_writers", "id": 68219951, "predecessors": [{"name": "Cookbook_writers", "id": 38321683}], "successors": [{"name": "English_cookbook_writers", "id": 69522902}]}
+{"name": "British_cookbook_writers", "id": 68219951, "predecessors": [{"name": "British_food_writers", "id": 1500014}, {"name": "Cookbook_writers", "id": 38321683}], "successors": [{"name": "English_cookbook_writers", "id": 69522902}]}

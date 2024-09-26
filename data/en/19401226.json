@@ -1,1 +1,1 @@
-{"name": "Blind_animals", "id": 19401226, "predecessors": [{"name": "Animals_by_adaptation", "id": 50053927}], "successors": [{"name": "Talpidae", "id": 12593778}, {"name": "Cave_salamanders", "id": 17273574}]}
+{"name": "Blind_animals", "id": 19401226, "predecessors": [{"name": "Animals_by_adaptation", "id": 50053927}, {"name": "Blindness", "id": 2173860}], "successors": [{"name": "Talpidae", "id": 12593778}, {"name": "Cave_salamanders", "id": 17273574}]}

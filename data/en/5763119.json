@@ -1,0 +1,1 @@
+{"name": "FK_Sarajevo", "id": 5763119, "predecessors": [{"name": "Football_clubs_in_Bosnia_and_Herzegovina", "id": 34428248}, {"name": "Sport_in_Sarajevo", "id": 9247774}], "successors": [{"name": "FK_Sarajevo_presidents_of_the_assembly", "id": 63145858}]}

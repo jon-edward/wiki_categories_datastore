@@ -1,1 +1,1 @@
-{"name": "Warning_coloration", "id": 37722087, "predecessors": [{"name": "Animal_communication", "id": 945435}, {"name": "Antipredator_adaptations", "id": 28056774}, {"name": "Color", "id": 979606}], "successors": [{"name": "Aposematic_animals", "id": 46253030}]}
+{"name": "Warning_coloration", "id": 37722087, "predecessors": [{"name": "Animal_communication", "id": 945435}, {"name": "Antipredator_adaptations", "id": 28056774}, {"name": "Color", "id": 979606}, {"name": "Mimicry", "id": 13609231}], "successors": [{"name": "Aposematic_animals", "id": 46253030}]}

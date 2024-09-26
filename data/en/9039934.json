@@ -1,1 +1,1 @@
-{"name": "European_Southern_Observatory", "id": 9039934, "predecessors": [{"name": "Atacama_Desert", "id": 44432438}, {"name": "International_scientific_organizations_based_in_Europe", "id": 47937275}], "successors": []}
+{"name": "European_Southern_Observatory", "id": 9039934, "predecessors": [{"name": "Astronomical_observatories_in_Chile", "id": 2298456}, {"name": "Atacama_Desert", "id": 44432438}, {"name": "International_scientific_organizations_based_in_Europe", "id": 47937275}], "successors": [{"name": "ESO_objects", "id": 17466142}]}

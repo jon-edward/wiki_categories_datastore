@@ -1,1 +1,1 @@
-{"name": "Industrial_design_firms", "id": 6676724, "predecessors": [{"name": "Design_companies", "id": 7968526}], "successors": [{"name": "Design_bureaus", "id": 57521922}]}
+{"name": "Industrial_design_firms", "id": 6676724, "predecessors": [{"name": "Design_companies", "id": 7968526}, {"name": "Industrial_design", "id": 999520}], "successors": [{"name": "Fiskars", "id": 22032122}, {"name": "Design_bureaus", "id": 57521922}]}

@@ -1,1 +1,1 @@
-{"name": "Taxation_and_redistribution", "id": 7597065, "predecessors": [{"name": "Government_aid_programs", "id": 62706779}, {"name": "Income_distribution", "id": 5050920}], "successors": [{"name": "Inheritance_tax", "id": 39206331}]}
+{"name": "Taxation_and_redistribution", "id": 7597065, "predecessors": [{"name": "Government_aid_programs", "id": 62706779}, {"name": "Income_distribution", "id": 5050920}, {"name": "Tax_policy", "id": 53294724}, {"name": "Welfare_state", "id": 21761213}], "successors": [{"name": "Inheritance_tax", "id": 39206331}]}

@@ -1,1 +1,1 @@
-{"name": "Oil_pipeline_companies", "id": 15458673, "predecessors": [{"name": "Energy", "id": 865456}, {"name": "Petroleum_industry", "id": 37426453}], "successors": [{"name": "Enbridge", "id": 27497554}]}
+{"name": "Oil_pipeline_companies", "id": 15458673, "predecessors": [{"name": "Infrastructure", "id": 2962329}, {"name": "Petroleum_industry", "id": 37426453}], "successors": [{"name": "Transneft", "id": 8824559}, {"name": "Enbridge", "id": 27497554}]}

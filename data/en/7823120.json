@@ -1,1 +1,1 @@
-{"name": "Beer_in_France", "id": 7823120, "predecessors": [{"name": "French_cuisine", "id": 707216}, {"name": "Health_in_Europe", "id": 29366955}], "successors": []}
+{"name": "Beer_in_France", "id": 7823120, "predecessors": [{"name": "French_cuisine", "id": 707216}, {"name": "Alcohol_by_country", "id": 24323097}, {"name": "European_cuisine", "id": 1259768}], "successors": []}

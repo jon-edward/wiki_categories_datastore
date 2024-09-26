@@ -1,1 +1,1 @@
-{"name": "NASCAR_team_owners", "id": 33868277, "predecessors": [{"name": "Motorsport_team_owners", "id": 34158496}, {"name": "NASCAR_people", "id": 5590073}], "successors": [{"name": "Kyle_Busch", "id": 71377865}]}
+{"name": "NASCAR_team_owners", "id": 33868277, "predecessors": [{"name": "Motorsport_team_owners", "id": 34158496}, {"name": "NASCAR_people", "id": 5590073}, {"name": "NASCAR_teams", "id": 1261858}], "successors": [{"name": "Kyle_Busch", "id": 71377865}, {"name": "Ray_Evernham", "id": 75763031}]}

@@ -1,1 +1,1 @@
-{"name": "Juice_brands", "id": 41814129, "predecessors": [{"name": "Juice", "id": 1000316}], "successors": []}
+{"name": "Juice_brands", "id": 41814129, "predecessors": [{"name": "Juice", "id": 1000316}, {"name": "Drink_brands", "id": 4115722}], "successors": []}

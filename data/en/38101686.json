@@ -1,1 +1,1 @@
-{"name": "Superscalar_microprocessors", "id": 38101686, "predecessors": [{"name": "Instruction_processing", "id": 5991922}, {"name": "Microprocessors", "id": 832619}, {"name": "Parallel_computing", "id": 957606}], "successors": []}
+{"name": "Superscalar_microprocessors", "id": 38101686, "predecessors": [{"name": "Parallel_computing", "id": 957606}], "successors": []}

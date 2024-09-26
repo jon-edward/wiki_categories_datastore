@@ -1,1 +1,1 @@
-{"name": "Fictional_female_scientists", "id": 38178105, "predecessors": [{"name": "Fictional_scientists", "id": 874492}], "successors": [{"name": "Fictional_female_engineers", "id": 49989070}]}
+{"name": "Fictional_female_scientists", "id": 38178105, "predecessors": [{"name": "Fictional_scientists", "id": 874492}, {"name": "Women_scientists", "id": 1704168}], "successors": [{"name": "Fictional_female_engineers", "id": 49989070}]}

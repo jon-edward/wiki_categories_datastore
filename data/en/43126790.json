@@ -1,1 +1,1 @@
-{"name": "Agaricales_genera", "id": 43126790, "predecessors": [{"name": "Agaricales", "id": 18071932}], "successors": [{"name": "Monotypic_Agaricales_genera", "id": 43127356}]}
+{"name": "Agaricales_genera", "id": 43126790, "predecessors": [{"name": "Agaricales", "id": 18071932}, {"name": "Agaricomycetes_genera", "id": 47501997}], "successors": [{"name": "Monotypic_Agaricales_genera", "id": 43127356}]}

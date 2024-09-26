@@ -1,1 +1,1 @@
-{"name": "Human_drug_metabolites", "id": 47618895, "predecessors": [{"name": "Drugs", "id": 1325883}, {"name": "Human_metabolites", "id": 39304616}, {"name": "Medicinal_chemistry", "id": 2161858}], "successors": []}
+{"name": "Human_drug_metabolites", "id": 47618895, "predecessors": [{"name": "Drugs", "id": 1325883}, {"name": "Human_metabolites", "id": 39304616}, {"name": "Medicinal_chemistry", "id": 2161858}], "successors": [{"name": "Recreational_drug_metabolites", "id": 47619014}, {"name": "5α-Reduced_steroid_metabolites", "id": 57777341}]}

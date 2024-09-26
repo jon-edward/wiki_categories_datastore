@@ -1,1 +1,0 @@
-{"name": "Chemical_process_engineering", "id": 42636594, "predecessors": [{"name": "Chemical_engineering", "id": 1147083}, {"name": "Process_engineering", "id": 42618133}], "successors": [{"name": "Chemical_processes", "id": 698322}, {"name": "Petroleum_industry", "id": 37426453}, {"name": "Process_safety", "id": 42636165}, {"name": "Chemical_reactions", "id": 995738}]}

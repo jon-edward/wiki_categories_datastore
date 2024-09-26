@@ -1,1 +1,1 @@
-{"name": "Food_storage", "id": 18859537, "predecessors": [{"name": "Food_preservation", "id": 999907}, {"name": "Food_safety", "id": 2257850}], "successors": [{"name": "Food_banks", "id": 11947349}, {"name": "Food_storage_containers", "id": 24926754}]}
+{"name": "Food_storage", "id": 18859537, "predecessors": [{"name": "Food_preservation", "id": 999907}, {"name": "Food_safety", "id": 2257850}], "successors": [{"name": "Food_banks", "id": 11947349}, {"name": "Food_storage_containers", "id": 24926754}, {"name": "Frozen_food", "id": 67278943}]}

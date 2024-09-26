@@ -1,1 +1,1 @@
-{"name": "Angle_measuring_instruments", "id": 44968730, "predecessors": [{"name": "Angle", "id": 1764976}, {"name": "Measuring_instruments", "id": 889248}], "successors": [{"name": "Gyroscopes", "id": 5251965}]}
+{"name": "Angle_measuring_instruments", "id": 44968730, "predecessors": [{"name": "Angle", "id": 1764976}, {"name": "Measuring_instruments", "id": 889248}], "successors": [{"name": "Gyroscopes", "id": 5251965}, {"name": "Inclinometers", "id": 11518581}]}

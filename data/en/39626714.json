@@ -1,1 +1,1 @@
-{"name": "Canadian_notaries", "id": 39626714, "predecessors": [{"name": "Law_of_Canada", "id": 724486}], "successors": [{"name": "Quebec_notaries", "id": 20602334}]}
+{"name": "Canadian_notaries", "id": 39626714, "predecessors": [{"name": "Notaries", "id": 26397348}, {"name": "Law_of_Canada", "id": 724486}], "successors": [{"name": "Quebec_notaries", "id": 20602334}]}

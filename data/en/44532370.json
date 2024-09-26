@@ -1,1 +1,1 @@
-{"name": "Religious_headgear", "id": 44532370, "predecessors": [{"name": "Religious_clothing", "id": 5377949}], "successors": [{"name": "Coats_of_arms_with_mitres", "id": 45619695}, {"name": "Hijab", "id": 51838629}]}
+{"name": "Religious_headgear", "id": 44532370, "predecessors": [{"name": "Headgear", "id": 714883}, {"name": "Religious_clothing", "id": 5377949}], "successors": [{"name": "Coats_of_arms_with_mitres", "id": 45619695}, {"name": "Hijab", "id": 51838629}]}
