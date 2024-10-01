@@ -1,1 +1,1 @@
-{"name": "Portes_de_muralles", "id": 1327110, "predecessors": [{"name": "Muralles", "id": 796654}, {"name": "Elements_arquitectònics", "id": 55088}], "successors": [{"name": "Portes_de_muralles_de_Catalunya", "id": 1327111}, {"name": "Portes_de_muralles_romanes", "id": 1974443}]}
+{"name": "Portes_de_muralles", "id": 1327110, "predecessors": [{"name": "Muralles", "id": 796654}, {"name": "Portes", "id": 285261}], "successors": [{"name": "Portes_de_muralles_de_Catalunya", "id": 1327111}, {"name": "Portes_de_muralles_romanes", "id": 1974443}]}

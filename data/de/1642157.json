@@ -1,1 +1,0 @@
-{"name": "Kühltechnik", "id": 1642157, "predecessors": [{"name": "Klimatechnik", "id": 581209}, {"name": "Wärmetechnik", "id": 1642003}], "successors": [{"name": "Kältetechnik", "id": 581208}, {"name": "Kühlmittel", "id": 4065017}, {"name": "Kühlgerät", "id": 6912107}, {"name": "Kühlverfahren", "id": 7893845}]}

@@ -1,1 +1,0 @@
-{"name": "Type_de_banque", "id": 1091889, "predecessors": [{"name": "Banque", "id": 2451155}, {"name": "Système_bancaire", "id": 2182029}], "successors": [{"name": "Banque_coopérative", "id": 10972787}]}

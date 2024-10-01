@@ -1,1 +1,0 @@
-{"name": "Type_de_bateau_de_passagers", "id": 12977447, "predecessors": [{"name": "Bateau_à_passagers", "id": 294436}, {"name": "Type_de_bateaux", "id": 674247}], "successors": [{"name": "Navire_à_grande_vitesse", "id": 13207333}, {"name": "Bateau-bus", "id": 13608870}]}

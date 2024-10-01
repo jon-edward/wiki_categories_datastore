@@ -1,1 +1,1 @@
-{"name": "Drept_procesual_penal", "id": 101744, "predecessors": [{"name": "Drept_penal", "id": 549789}, {"name": "Drept_procesual", "id": 220707}], "successors": [{"name": "Infracțiuni", "id": 752756}, {"name": "Procurori", "id": 1165358}, {"name": "Prizonieri_și_deținuți", "id": 1488682}]}
+{"name": "Drept_procesual_penal", "id": 101744, "predecessors": [{"name": "Drept_penal", "id": 549789}, {"name": "Drept_procesual", "id": 220707}], "successors": [{"name": "Procurori", "id": 1165358}, {"name": "Prizonieri_și_deținuți", "id": 1488682}]}

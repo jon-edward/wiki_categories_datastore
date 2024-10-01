@@ -1,1 +1,1 @@
-{"name": "Kognitiivinen_psykologia", "id": 118140, "predecessors": [{"name": "Kognitiotiede", "id": 210976}, {"name": "Psykologian_osa-alueet", "id": 210957}], "successors": [{"name": "Kognitio", "id": 299301}]}
+{"name": "Kognitiivinen_psykologia", "id": 118140, "predecessors": [{"name": "Kognitiivinen_neurotiede", "id": 1415587}, {"name": "Kognitiotiede", "id": 210976}, {"name": "Psykologian_osa-alueet", "id": 210957}], "successors": [{"name": "Kognitio", "id": 299301}]}

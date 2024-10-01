@@ -1,1 +1,0 @@
-{"name": "Wasserkraftmaschine", "id": 3456257, "predecessors": [{"name": "Wasserkrafttechnik", "id": 6779375}, {"name": "Antriebstechnik", "id": 491624}, {"name": "Antrieb_nach_Energiequelle", "id": 9393332}], "successors": [{"name": "Wasserturbine", "id": 3450803}]}

@@ -1,0 +1,1 @@
+{"name": "Ventilație,_încălzire,_climatizare", "id": 1329368, "predecessors": [{"name": "Automatizare", "id": 288346}, {"name": "Termotehnică", "id": 290642}, {"name": "Transmiterea_căldurii", "id": 644028}, {"name": "Inginerie_electrică", "id": 40646}], "successors": [{"name": "Încălzire", "id": 602643}, {"name": "Tehnologia_răcirii", "id": 1329449}]}

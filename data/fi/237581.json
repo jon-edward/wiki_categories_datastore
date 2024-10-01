@@ -1,1 +1,1 @@
-{"name": "Yhdysvaltalaiset_jännityskirjailijat", "id": 237581, "predecessors": [{"name": "Yhdysvaltalaiset_kirjailijat", "id": 18882}, {"name": "Viestintä", "id": 40231}], "successors": [{"name": "Yhdysvaltalaiset_rikoskirjailijat", "id": 237600}]}
+{"name": "Yhdysvaltalaiset_jännityskirjailijat", "id": 237581, "predecessors": [{"name": "Jännityskirjailijat", "id": 237444}, {"name": "Yhdysvaltalaiset_kirjailijat", "id": 18882}], "successors": [{"name": "Yhdysvaltalaiset_rikoskirjailijat", "id": 237600}]}

@@ -1,1 +1,1 @@
-{"name": "Yhdysvaltalaiset_säätiöt", "id": 519201, "predecessors": [{"name": "Yhteiskunta", "id": 23764}, {"name": "Säätiöt", "id": 48755}], "successors": [{"name": "Apache_Software_Foundation", "id": 1442712}]}
+{"name": "Yhdysvaltalaiset_säätiöt", "id": 519201, "predecessors": [{"name": "Pääluokat", "id": 65378}, {"name": "Säätiöt", "id": 48755}], "successors": [{"name": "Apache_Software_Foundation", "id": 1442712}]}

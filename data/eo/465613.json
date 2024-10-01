@@ -1,1 +1,1 @@
-{"name": "Financa_sistemo", "id": 465613, "predecessors": [{"name": "Ekonomiaj_sistemoj", "id": 439139}, {"name": "Financoj", "id": 307875}], "successors": [{"name": "Financa_merkato", "id": 465604}]}
+{"name": "Financa_sistemo", "id": 465613, "predecessors": [{"name": "Ekonomiaj_sistemoj", "id": 439139}, {"name": "Financoj", "id": 307875}], "successors": [{"name": "Financa_merkato", "id": 465604}, {"name": "Financa_sistemo_de_Brazilo", "id": 734444}]}

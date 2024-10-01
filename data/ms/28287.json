@@ -1,1 +1,1 @@
-{"name": "Tulisan_bahasa_Melayu", "id": 28287, "predecessors": [{"name": "Bahasa_Melayu", "id": 6882}, {"name": "Sistem_tulisan", "id": 60636}], "successors": []}
+{"name": "Tulisan_bahasa_Melayu", "id": 28287, "predecessors": [{"name": "Bahasa_Melayu", "id": 6882}, {"name": "Sistem_tulisan", "id": 60636}], "successors": [{"name": "Tulisan_Jawi", "id": 1206937}]}

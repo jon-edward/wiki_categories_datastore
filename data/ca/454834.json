@@ -1,1 +1,1 @@
-{"name": "Setmana_Santa", "id": 454834, "predecessors": [{"name": "Ritus_cristians", "id": 405654}], "successors": [{"name": "Setmana_Santa_a_Catalunya", "id": 994750}]}
+{"name": "Setmana_Santa", "id": 454834, "predecessors": [{"name": "Ritus_cristians", "id": 405654}, {"name": "Calendari", "id": 30143}], "successors": [{"name": "Setmana_Santa_a_Catalunya", "id": 994750}]}

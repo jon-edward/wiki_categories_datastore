@@ -1,1 +1,1 @@
-{"name": "Amor", "id": 722500, "predecessors": [{"name": "Sentiments", "id": 41311}], "successors": [{"name": "Déus_de_l'amor", "id": 2061038}]}
+{"name": "Amor", "id": 722500, "predecessors": [{"name": "Sentiments", "id": 41311}, {"name": "Comportament_humà", "id": 867297}], "successors": [{"name": "Déus_de_l'amor", "id": 2061038}]}

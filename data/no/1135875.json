@@ -1,1 +1,1 @@
-{"name": "Lister_over_teknikk", "id": 1135875, "predecessors": [{"name": "Teknikk", "id": 147152}, {"name": "Kategorier", "id": 15527}], "successors": [{"name": "Transportlister", "id": 1136080}]}
+{"name": "Lister_over_teknikk", "id": 1135875, "predecessors": [{"name": "Lister", "id": 12754}, {"name": "Teknikk", "id": 147152}], "successors": [{"name": "Transportlister", "id": 1136080}]}

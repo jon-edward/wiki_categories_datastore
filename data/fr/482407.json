@@ -1,1 +1,0 @@
-{"name": "Sandwich", "id": 482407, "predecessors": [{"name": "Cuisine_de_rue", "id": 6695316}, {"name": "Préparation_culinaire", "id": 3257048}, {"name": "Restauration_rapide", "id": 122127}, {"name": "Spécialité_à_base_de_pain", "id": 14109982}], "successors": [{"name": "Sandwich_chaud", "id": 14126235}]}

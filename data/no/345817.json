@@ -1,1 +1,1 @@
-{"name": "Israels_forsvar", "id": 345817, "predecessors": [{"name": "Militærvesen_etter_land", "id": 58597}, {"name": "Israel", "id": 11392}], "successors": [{"name": "Israelske_offiserer", "id": 74375}, {"name": "Kriger_med_deltagelse_av_Israel", "id": 470939}]}
+{"name": "Israels_forsvar", "id": 345817, "predecessors": [{"name": "Israelske_myndigheter", "id": 1836448}, {"name": "Militærvesen_etter_land", "id": 58597}], "successors": [{"name": "Israelske_offiserer", "id": 74375}, {"name": "Kriger_med_deltagelse_av_Israel", "id": 470939}]}

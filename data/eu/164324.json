@@ -1,1 +1,1 @@
-{"name": "Fotosintesia", "id": 164324, "predecessors": [{"name": "Landare-fisiologia", "id": 100085}, {"name": "Kimika", "id": 3460}], "successors": [{"name": "Pigmentu_fotosintetikoak", "id": 290362}]}
+{"name": "Fotosintesia", "id": 164324, "predecessors": [{"name": "Fotokimika", "id": 164325}, {"name": "Landare-fisiologia", "id": 100085}], "successors": [{"name": "Pigmentu_fotosintetikoak", "id": 290362}]}

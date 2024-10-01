@@ -1,1 +1,0 @@
-{"name": "Stoffwechsel", "id": 286924, "predecessors": [{"name": "Biochemie", "id": 281260}, {"name": "Humanphysiologie", "id": 9848242}, {"name": "Tierphysiologie", "id": 9848243}], "successors": [{"name": "Stoffwechselintermediat", "id": 1914842}, {"name": "Reservestoff", "id": 3795270}, {"name": "Stoffwechselweg", "id": 3815373}]}

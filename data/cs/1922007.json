@@ -1,1 +1,1 @@
-{"name": "Inhibitory_acetaldehyddehydrogenázy", "id": 1922007, "predecessors": [{"name": "Alkohol", "id": 702648}, {"name": "Enzymy", "id": 26618}], "successors": []}
+{"name": "Inhibitory_acetaldehyddehydrogenázy", "id": 1922007, "predecessors": [{"name": "Alkohol", "id": 702648}, {"name": "Inhibitory_aldehyddehydrogenázy", "id": 1951004}], "successors": []}

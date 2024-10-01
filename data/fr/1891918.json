@@ -1,1 +1,0 @@
-{"name": "Motoriste", "id": 1891918, "predecessors": [{"name": "Moteur", "id": 104866}, {"name": "Machine", "id": 104860}], "successors": [{"name": "Motoriste_aéronautique", "id": 4041156}, {"name": "Motoriste_automobile", "id": 6509572}, {"name": "Motoriste_spatial", "id": 6514040}]}

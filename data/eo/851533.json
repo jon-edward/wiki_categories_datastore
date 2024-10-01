@@ -1,1 +1,1 @@
-{"name": "Trolebusa_transporto_en_Rusio", "id": 851533, "predecessors": [{"name": "Ekonomio_de_Rusio", "id": 312916}, {"name": "Elektra_trakcio", "id": 291749}], "successors": []}
+{"name": "Trolebusa_transporto_en_Rusio", "id": 851533, "predecessors": [{"name": "Ekonomio_de_Rusio", "id": 312916}, {"name": "Elektra_trakcio", "id": 291749}], "successors": [{"name": "Trolebusa_transporto_en_Krimeo", "id": 884455}]}

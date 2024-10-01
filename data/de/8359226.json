@@ -1,1 +1,0 @@
-{"name": "Wasserstandsmessung", "id": 8359226, "predecessors": [{"name": "Dimensionale_Messtechnik", "id": 1434327}, {"name": "Hydrologie", "id": 319754}], "successors": [{"name": "Pegel", "id": 3092108}, {"name": "Nullniveau", "id": 8359227}, {"name": "Gezeitenrechnung", "id": 8359243}, {"name": "Abflussmessung", "id": 8367070}, {"name": "Hochwasserereignisse", "id": 8489092}]}

@@ -1,1 +1,0 @@
-{"name": "Jeu_Atari", "id": 4041329, "predecessors": [{"name": "Atari", "id": 1440109}, {"name": "Jeu_vidéo", "id": 85212}], "successors": [{"name": "Jeu_Atari_SA", "id": 11665613}, {"name": "Jeu_Tengen", "id": 12866236}]}

@@ -1,1 +1,0 @@
-{"name": "Application_web", "id": 3750821, "predecessors": [{"name": "Cloud_computing", "id": 6089163}, {"name": "Logiciel", "id": 82489}], "successors": [{"name": "Système_de_gestion_de_contenu", "id": 99787}, {"name": "Webmail", "id": 358206}, {"name": "Logiciel_écrit_en_PHP", "id": 14657450}, {"name": "Jeu_Facebook", "id": 10392070}]}

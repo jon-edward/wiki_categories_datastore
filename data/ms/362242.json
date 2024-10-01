@@ -1,1 +1,1 @@
-{"name": "Jenis_album", "id": 362242, "predecessors": [{"name": "Album_lagu", "id": 52716}], "successors": []}
+{"name": "Jenis_album", "id": 362242, "predecessors": [{"name": "Album_lagu", "id": 52716}], "successors": [{"name": "Album_single", "id": 1167799}]}

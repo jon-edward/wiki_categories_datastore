@@ -1,1 +1,1 @@
-{"name": "Espanjalaiset_papit", "id": 660864, "predecessors": [{"name": "Espanjalaiset_henkilöt", "id": 127535}, {"name": "Kristinusko_Espanjassa", "id": 1694397}, {"name": "Papit", "id": 41178}], "successors": [{"name": "Espanjalaiset_kardinaalit", "id": 704175}]}
+{"name": "Espanjalaiset_papit", "id": 660864, "predecessors": [{"name": "Espanjalaiset_henkilöt", "id": 127535}, {"name": "Papit", "id": 41178}, {"name": "Eurooppalainen_kulttuuri", "id": 208086}], "successors": [{"name": "Espanjalaiset_kardinaalit", "id": 704175}]}

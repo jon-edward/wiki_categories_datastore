@@ -1,1 +1,0 @@
-{"name": "IEEE_802", "id": 943035, "predecessors": [{"name": "Norme_IEEE", "id": 943022}, {"name": "Protocole_réseau", "id": 314354}], "successors": [{"name": "IEEE_802.11", "id": 2357545}, {"name": "IEEE_802.3", "id": 2470501}]}

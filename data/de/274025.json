@@ -1,1 +1,0 @@
-{"name": "Laborgerät", "id": 274025, "predecessors": [{"name": "Chemie", "id": 235238}, {"name": "Labortechnik", "id": 8059531}, {"name": "Gerät", "id": 381787}], "successors": [{"name": "Kolben", "id": 3184046}, {"name": "Laborwaage", "id": 5874635}]}

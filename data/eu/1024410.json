@@ -1,1 +1,1 @@
-{"name": "Karboxilatoen_esterrak", "id": 1024410, "predecessors": [{"name": "Esterrak", "id": 286037}, {"name": "Azido_karboxilikoak", "id": 164379}], "successors": [{"name": "Laktonak", "id": 1024409}]}
+{"name": "Karboxilatoen_esterrak", "id": 1024410, "predecessors": [{"name": "Esterrak", "id": 286037}, {"name": "Azido_karboxilikoak", "id": 164379}, {"name": "Karbonodun_konposatuak", "id": 670211}], "successors": [{"name": "Laktonak", "id": 1024409}]}

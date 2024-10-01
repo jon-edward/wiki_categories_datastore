@@ -1,1 +1,0 @@
-{"name": "Transporte_naval", "id": 4869587, "predecessors": [{"name": "Cuerpos_de_agua", "id": 932490}], "successors": [{"name": "Náutica", "id": 66045}, {"name": "Transporte_marítimo", "id": 73768}, {"name": "Puertos", "id": 76014}, {"name": "Piratería", "id": 218991}, {"name": "Publicaciones_náuticas", "id": 3656400}, {"name": "Historia_marítima", "id": 6965676}]}

@@ -1,1 +1,1 @@
-{"name": "Metroo_de_Doho", "id": 745618, "predecessors": [{"name": "Metrooj_laŭ_urboj", "id": 425740}, {"name": "Transporto_en_Kataro", "id": 745961}], "successors": [{"name": "Stacioj_de_la_metroo_de_Doho", "id": 745778}]}
+{"name": "Metroo_de_Doho", "id": 745618, "predecessors": [{"name": "Metrooj_laŭ_urboj", "id": 425740}, {"name": "Kataro", "id": 45288}], "successors": [{"name": "Stacioj_de_la_metroo_de_Doho", "id": 745778}]}

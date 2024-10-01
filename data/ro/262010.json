@@ -1,1 +1,1 @@
-{"name": "Seriale_Anime", "id": 262010, "predecessors": [{"name": "Anime", "id": 176957}, {"name": "Seriale_de_animație", "id": 760019}], "successors": [{"name": "OVA_anime", "id": 262011}, {"name": "Dragon_Ball", "id": 906959}, {"name": "Anime_și_manga_dramatic", "id": 3044948}]}
+{"name": "Seriale_anime", "id": 262010, "predecessors": [{"name": "Anime", "id": 176957}, {"name": "Seriale_de_animație", "id": 760019}], "successors": [{"name": "OVA_anime", "id": 262011}, {"name": "Dragon_Ball", "id": 906959}, {"name": "Anime_și_manga_dramatic", "id": 3044948}]}

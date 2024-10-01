@@ -1,1 +1,1 @@
-{"name": "Kosmické_lety", "id": 1369631, "predecessors": [{"name": "Kosmonautika", "id": 13412}, {"name": "Letectví", "id": 12553}], "successors": [{"name": "Pilotované_kosmické_lety", "id": 729858}, {"name": "Nepilotované_kosmické_lety", "id": 1097213}]}
+{"name": "Kosmické_lety", "id": 1369631, "predecessors": [{"name": "Kosmonautika", "id": 13412}, {"name": "Letectví", "id": 12553}], "successors": [{"name": "Probíhající_vesmírné_lety", "id": 384886}, {"name": "Pilotované_kosmické_lety", "id": 729858}, {"name": "Nepilotované_kosmické_lety", "id": 1097213}]}

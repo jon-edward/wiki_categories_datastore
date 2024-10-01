@@ -1,1 +1,0 @@
-{"name": "Infection_bactérienne_humaine", "id": 12410926, "predecessors": [{"name": "Maladie_bactérienne", "id": 1537285}, {"name": "Maladie_infectieuse", "id": 99359}], "successors": [{"name": "Mort_du_typhus", "id": 5556271}]}

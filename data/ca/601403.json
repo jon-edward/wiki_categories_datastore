@@ -1,1 +1,1 @@
-{"name": "Ciclistes_txecs", "id": 601403, "predecessors": [{"name": "Esports_d'equip", "id": 53116}, {"name": "Principal", "id": 13225}, {"name": "Esportistes_txecs", "id": 181690}], "successors": [{"name": "Ciclistes_de_Brno", "id": 1292063}]}
+{"name": "Ciclistes_txecs", "id": 601403, "predecessors": [{"name": "Vehicles_terrestres", "id": 995436}, {"name": "Principal", "id": 13225}, {"name": "Esportistes_txecs", "id": 181690}], "successors": [{"name": "Ciclistes_de_Brno", "id": 1292063}]}

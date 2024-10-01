@@ -1,1 +1,1 @@
-{"name": "Criquet", "id": 326639, "predecessors": [{"name": "Esports_d'equip", "id": 53116}, {"name": "Esports_de_pilota", "id": 118359}, {"name": "Esport", "id": 815150}], "successors": [{"name": "Jugadors_de_criquet", "id": 1324097}]}
+{"name": "Criquet", "id": 326639, "predecessors": [{"name": "Esports_d'equip", "id": 53116}, {"name": "Esports_de_pilota", "id": 118359}, {"name": "Esport", "id": 815150}], "successors": [{"name": "Jugadors_de_criquet", "id": 1324097}, {"name": "Clubs_de_criquet", "id": 1590999}]}

@@ -1,1 +1,1 @@
-{"name": "Yhdysvaltalaiset_oppilaitokset", "id": 530814, "predecessors": [{"name": "Aluemaantiede", "id": 423146}, {"name": "Yhteiskunta", "id": 23764}, {"name": "Rakennukset_ja_rakennelmat", "id": 25177}], "successors": [{"name": "Yhdysvaltain_yliopistot_ja_korkeakoulut", "id": 235729}]}
+{"name": "Yhdysvaltalaiset_oppilaitokset", "id": 530814, "predecessors": [{"name": "Aluemaantiede", "id": 423146}, {"name": "Pääluokat", "id": 65378}, {"name": "Rakennukset_ja_rakennelmat", "id": 25177}], "successors": [{"name": "Yhdysvaltain_yliopistot_ja_korkeakoulut", "id": 235729}]}

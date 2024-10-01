@@ -1,1 +1,1 @@
-{"name": "Koleje_bývalé_Pařížské_univerzity", "id": 854070, "predecessors": [{"name": "Pařížská_univerzita", "id": 854068}, {"name": "Stavby_v_Paříži", "id": 297727}, {"name": "Budovy", "id": 44130}], "successors": [{"name": "Sorbonna", "id": 660820}]}
+{"name": "Koleje_bývalé_Pařížské_univerzity", "id": 854070, "predecessors": [{"name": "Pařížská_univerzita", "id": 854068}, {"name": "Stavby_v_Paříži", "id": 297727}, {"name": "Studentské_koleje", "id": 51924}], "successors": [{"name": "Sorbonna", "id": 660820}]}

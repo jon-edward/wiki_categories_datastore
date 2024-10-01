@@ -1,1 +1,1 @@
-{"name": "Actors_de_teatre_musical_estatunidencs", "id": 1007920, "predecessors": [{"name": "Actors_de_teatre_estatunidencs", "id": 594528}, {"name": "Cantants_estatunidencs", "id": 83054}, {"name": "Música_vocal", "id": 155615}], "successors": []}
+{"name": "Actors_de_teatre_musical_estatunidencs", "id": 1007920, "predecessors": [{"name": "Actors_de_teatre_estatunidencs", "id": 594528}, {"name": "Actors_de_teatre_musical", "id": 1008094}, {"name": "Cantants_estatunidencs", "id": 83054}], "successors": []}

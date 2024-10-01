@@ -1,1 +1,1 @@
-{"name": "Ranskalaiset_rikolliset", "id": 1123515, "predecessors": [{"name": "Ranskalaiset_henkilöt", "id": 124892}, {"name": "Rikolliset", "id": 38319}, {"name": "Yhteiskunta", "id": 23764}], "successors": []}
+{"name": "Ranskalaiset_rikolliset", "id": 1123515, "predecessors": [{"name": "Ranskalaiset_henkilöt", "id": 124892}, {"name": "Rikolliset", "id": 38319}, {"name": "Pääluokat", "id": 65378}], "successors": []}

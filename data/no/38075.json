@@ -1,1 +1,1 @@
-{"name": "Kor", "id": 38075, "predecessors": [{"name": "Musikkgrupper", "id": 293987}, {"name": "Sang", "id": 313189}], "successors": [{"name": "Norske_kor", "id": 38073}, {"name": "Tyske_kor", "id": 1643953}]}
+{"name": "Kor", "id": 38075, "predecessors": [{"name": "Musikkgrupper", "id": 293987}, {"name": "Sang", "id": 313189}], "successors": [{"name": "Norske_kor", "id": 38073}, {"name": "Tyske_kor", "id": 1643953}, {"name": "Korledere", "id": 2159759}]}
