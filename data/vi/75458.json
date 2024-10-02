@@ -1,1 +1,1 @@
-{"name": "Kênh_đào", "id": 75458, "predecessors": [{"name": "Công_trình_hạ_tầng_đường_thủy", "id": 87391}, {"name": "Vùng_nước", "id": 193323}], "successors": []}
+{"name": "Kênh_đào", "id": 75458, "predecessors": [{"name": "Công_trình_hạ_tầng_đường_thủy", "id": 87391}, {"name": "Giao_thông_đường_thủy", "id": 48426}, {"name": "Vùng_nước", "id": 193323}], "successors": [{"name": "Kênh_đào_Đức", "id": 2430230}, {"name": "Kênh_đào_Việt_Nam", "id": 3705657}, {"name": "Kênh_đào_tại_Nga", "id": 13501704}]}

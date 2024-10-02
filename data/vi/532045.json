@@ -1,1 +1,1 @@
-{"name": "Tạp_chí_Nhật_Bản", "id": 532045, "predecessors": [{"name": "Văn_hóa_đại_chúng_Nhật_Bản", "id": 3243124}, {"name": "Khoa_học_và_công_nghệ_Nhật", "id": 1610068}], "successors": [{"name": "Tạp_chí_manga_Nhật_Bản", "id": 14515624}]}
+{"name": "Tạp_chí_Nhật_Bản", "id": 532045, "predecessors": [{"name": "Văn_hóa_đại_chúng_Nhật_Bản", "id": 3243124}, {"name": "Tạp_chí", "id": 124752}, {"name": "Công_nghệ_thông_tin_và_truyền_thông", "id": 15132483}], "successors": [{"name": "Tạp_chí_manga_Nhật_Bản", "id": 14515624}]}

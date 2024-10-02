@@ -1,1 +1,1 @@
-{"name": "Động_vật_Địa_Trung_Hải", "id": 2260338, "predecessors": [{"name": "Hệ_sinh_thái_Địa_Trung_Hải", "id": 2260339}, {"name": "Sinh_vật", "id": 23540}], "successors": [{"name": "Động_vật_Biển_Đen", "id": 1406018}, {"name": "Cá_Địa_Trung_Hải", "id": 2260337}]}
+{"name": "Động_vật_Địa_Trung_Hải", "id": 2260338, "predecessors": [{"name": "Hệ_sinh_thái_Địa_Trung_Hải", "id": 2260339}, {"name": "Động_vật", "id": 61620}], "successors": [{"name": "Động_vật_Biển_Đen", "id": 1406018}, {"name": "Cá_Địa_Trung_Hải", "id": 2260337}]}

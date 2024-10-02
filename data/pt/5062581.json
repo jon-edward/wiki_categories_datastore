@@ -1,1 +1,1 @@
-{"name": "Pedra", "id": 5062581, "predecessors": [{"name": "Rochas", "id": 44482}, {"name": "Materiais", "id": 29615}], "successors": [{"name": "Pedras", "id": 4854712}, {"name": "Esculturas_de_pedra", "id": 4837142}]}
+{"name": "Pedra", "id": 5062581, "predecessors": [{"name": "Materiais_naturais", "id": 399260}, {"name": "Rochas", "id": 44482}], "successors": [{"name": "Pedras", "id": 4854712}, {"name": "Esculturas_de_pedra", "id": 4837142}]}

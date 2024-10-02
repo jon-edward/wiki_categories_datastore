@@ -1,1 +1,1 @@
-{"name": "Văn_học_nhà_Đường", "id": 13465187, "predecessors": [{"name": "Nhà_Đường", "id": 27151}, {"name": "Văn_hóa_triều_Đường", "id": 3263421}, {"name": "Văn_hóa_Trung_Hoa", "id": 1376938}], "successors": [{"name": "Thơ_Đường", "id": 46706}, {"name": "Nhà_văn_Trung_Quốc_thời_Đường", "id": 3424952}]}
+{"name": "Văn_học_nhà_Đường", "id": 13465187, "predecessors": [{"name": "Văn_học_Trung_Quốc", "id": 32893}], "successors": [{"name": "Thơ_Đường", "id": 46706}, {"name": "Nhà_văn_Trung_Quốc_thời_Đường", "id": 3424952}]}

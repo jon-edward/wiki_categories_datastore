@@ -1,1 +1,1 @@
-{"name": "YouTube", "id": 792428, "predecessors": [{"name": "Dịch_vụ_Google", "id": 792429}, {"name": "Mạng_xã_hội", "id": 200722}, {"name": "Website_chia_sẻ_Video", "id": 214377}, {"name": "Website_giải_trí", "id": 505082}], "successors": [{"name": "YouTuber", "id": 3124509}]}
+{"name": "YouTube", "id": 792428, "predecessors": [{"name": "Dịch_vụ_Google", "id": 792429}, {"name": "Dịch_vụ_lưu_trữ_video", "id": 214377}, {"name": "Mạng_xã_hội", "id": 200722}, {"name": "Website_giải_trí", "id": 505082}], "successors": [{"name": "YouTuber", "id": 3124509}]}

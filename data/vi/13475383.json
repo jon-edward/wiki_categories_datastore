@@ -1,1 +1,1 @@
-{"name": "Biển_Bering", "id": 13475383, "predecessors": [{"name": "Biển_Hoa_Kỳ", "id": 7527212}, {"name": "Biển_Nga", "id": 460459}, {"name": "Biển_châu_Á", "id": 7569421}, {"name": "Môi_trường_Đông_Bắc_Á", "id": 1444218}, {"name": "Thủy_vực_Alaska", "id": 7530043}], "successors": [{"name": "Thủy_vực_biển_Bering", "id": 13475381}, {"name": "Đảo_biển_Bering", "id": 14088345}]}
+{"name": "Biển_Bering", "id": 13475383, "predecessors": [{"name": "Biển_Hoa_Kỳ", "id": 7527212}, {"name": "Biển_Nga", "id": 460459}], "successors": []}

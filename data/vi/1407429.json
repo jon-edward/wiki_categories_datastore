@@ -1,1 +1,1 @@
-{"name": "Quốc_tịch", "id": 1407429, "predecessors": [{"name": "Nhận_dạng", "id": 3243405}, {"name": "Xã_hội", "id": 7494}, {"name": "Chủ_nghĩa_dân_tộc", "id": 68567}], "successors": [{"name": "Mã_quốc_gia", "id": 107823}, {"name": "Luật_quốc_tịch", "id": 7106847}]}
+{"name": "Quốc_tịch", "id": 1407429, "predecessors": [{"name": "Chủ_nghĩa_dân_tộc", "id": 68567}], "successors": [{"name": "Mã_quốc_gia", "id": 107823}, {"name": "Luật_quốc_tịch", "id": 7106847}]}

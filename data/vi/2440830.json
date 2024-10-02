@@ -1,1 +1,1 @@
-{"name": "Quản_lý_môi_trường", "id": 2440830, "predecessors": [{"name": "Môi_trường", "id": 32789}, {"name": "Quản_lý_theo_dạng", "id": 1678558}], "successors": [{"name": "Kỹ_thuật_môi_trường", "id": 2430178}, {"name": "Quản_lý_tài_nguyên_thiên_nhiên", "id": 2440815}, {"name": "Công_nghệ_kiểm_soát_ô_nhiễm", "id": 2611801}]}
+{"name": "Quản_lý_môi_trường", "id": 2440830, "predecessors": [{"name": "Môi_trường", "id": 32789}, {"name": "Quản_lý_theo_dạng", "id": 1678558}], "successors": []}

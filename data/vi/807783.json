@@ -1,1 +1,1 @@
-{"name": "Động_vật_Costa_Rica", "id": 807783, "predecessors": [{"name": "Hệ_sinh_thái", "id": 1405862}, {"name": "Động_vật_Trung_Mỹ", "id": 1437052}], "successors": [{"name": "Động_vật_đặc_hữu_Costa_Rica", "id": 1683851}, {"name": "Cá_Costa_Rica", "id": 19490967}]}
+{"name": "Động_vật_Costa_Rica", "id": 807783, "predecessors": [{"name": "Động_vật", "id": 61620}, {"name": "Động_vật_Trung_Mỹ", "id": 1437052}], "successors": [{"name": "Động_vật_đặc_hữu_Costa_Rica", "id": 1683851}, {"name": "Cá_Costa_Rica", "id": 19490967}]}

@@ -1,1 +1,1 @@
-{"name": "Thủy_triều", "id": 53052, "predecessors": [{"name": "Khí_tượng_học", "id": 1664}, {"name": "Lực_hấp_dẫn", "id": 19407}, {"name": "Lực_quán_tính", "id": 25589}, {"name": "Mặt_Trăng", "id": 7294}, {"name": "Thuyết_tương_đối", "id": 3762}, {"name": "Địa_vật_lý", "id": 22479}], "successors": []}
+{"name": "Thủy_triều", "id": 53052, "predecessors": [{"name": "Lực_hấp_dẫn", "id": 19407}, {"name": "Thuyết_tương_đối", "id": 3762}], "successors": []}

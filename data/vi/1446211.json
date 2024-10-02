@@ -1,1 +1,1 @@
-{"name": "Văn_bản_chính_thức", "id": 1446211, "predecessors": [{"name": "Hồ_sơ_công_cộng", "id": 1446213}, {"name": "Văn_bản", "id": 1446212}], "successors": [{"name": "Giấy_tờ_tùy_thân", "id": 1211434}, {"name": "Điều_lệ_chính_trị", "id": 1446210}]}
+{"name": "Văn_bản_chính_thức", "id": 1446211, "predecessors": [{"name": "Hồ_sơ_công_cộng", "id": 1446213}, {"name": "Luật_dân_sự", "id": 228849}, {"name": "Văn_bản", "id": 1446212}], "successors": [{"name": "Hiệp_ước", "id": 68458}, {"name": "Giấy_tờ_tùy_thân", "id": 1211434}, {"name": "Điều_lệ_chính_trị", "id": 1446210}]}

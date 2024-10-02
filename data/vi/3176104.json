@@ -1,1 +1,1 @@
-{"name": "Động_vật_Hy_Lạp", "id": 3176104, "predecessors": [{"name": "Hệ_sinh_thái", "id": 1405862}], "successors": [{"name": "Động_vật_đặc_hữu_Hy_Lạp", "id": 12508273}]}
+{"name": "Động_vật_Hy_Lạp", "id": 3176104, "predecessors": [{"name": "Động_vật", "id": 61620}, {"name": "Hy_Lạp", "id": 28168}], "successors": [{"name": "Động_vật_đặc_hữu_Hy_Lạp", "id": 12508273}]}

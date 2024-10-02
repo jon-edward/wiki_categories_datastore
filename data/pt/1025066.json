@@ -1,1 +1,1 @@
-{"name": "Gases_do_efeito_estufa", "id": 1025066, "predecessors": [{"name": "Atmosfera", "id": 44317}, {"name": "Gases", "id": 435736}, {"name": "Aquecimento_global", "id": 1424114}], "successors": [{"name": "Dióxido_de_carbono", "id": 6179415}]}
+{"name": "Gases_do_efeito_estufa", "id": 1025066, "predecessors": [{"name": "Atmosfera", "id": 44317}, {"name": "Efeito_estufa", "id": 2639762}, {"name": "Gases", "id": 435736}], "successors": [{"name": "Dióxido_de_carbono", "id": 6179415}]}

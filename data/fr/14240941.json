@@ -1,0 +1,1 @@
+{"name": "Sauvetage", "id": 14240941, "predecessors": [{"name": "Service_de_secours", "id": 129487}, {"name": "Sécurité", "id": 144579}], "successors": [{"name": "Secours_en_montagne", "id": 5213575}, {"name": "Sauvetage_en_mer", "id": 13490107}, {"name": "Mission_de_sauvetage_d'otages", "id": 14241015}, {"name": "Sauvetage_de_Juifs_pendant_la_Shoah", "id": 15138152}]}

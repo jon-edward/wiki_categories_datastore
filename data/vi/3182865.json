@@ -1,1 +1,1 @@
-{"name": "Eurozone", "id": 3182865, "predecessors": [{"name": "Chính_trị_Liên_minh_châu_Âu", "id": 1699715}, {"name": "Euro", "id": 10556}, {"name": "Kinh_tế_Liên_minh_châu_Âu", "id": 185757}, {"name": "Liên_minh_tiền_tệ", "id": 3309447}], "successors": []}
+{"name": "Eurozone", "id": 3182865, "predecessors": [{"name": "Euro", "id": 10556}, {"name": "Liên_minh_tiền_tệ", "id": 3309447}], "successors": []}

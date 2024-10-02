@@ -1,0 +1,1 @@
+{"name": "Phương_tiện_giao_thông_đường_thủy", "id": 327658, "predecessors": [{"name": "Giao_thông_đường_thủy", "id": 48426}, {"name": "Phương_tiện_giao_thông", "id": 29193}], "successors": [{"name": "Tàu_thủy", "id": 45123}, {"name": "Thuyền", "id": 327657}, {"name": "Xe_lội_nước", "id": 1296154}, {"name": "Ngư_lôi", "id": 488238}]}

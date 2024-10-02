@@ -1,0 +1,1 @@
+{"name": "Arranque_del_computador", "id": 495687, "predecessors": [{"name": "Sistemas_operativos", "id": 54097}], "successors": [{"name": "BIOS", "id": 809245}, {"name": "Arranque_desde_red", "id": 4040970}, {"name": "Live_USB", "id": 6469969}]}

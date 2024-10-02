@@ -1,1 +1,1 @@
-{"name": "Heuristic", "id": 2326125, "predecessors": [{"name": "Nhận_thức", "id": 53585}, {"name": "Phương_pháp_khoa_học", "id": 814258}, {"name": "Thiên_kiến_nhận_thức", "id": 1745912}, {"name": "Giải_quyết_vấn_đề", "id": 52707}], "successors": [{"name": "Quy_tắc_ngón_cái", "id": 3430727}, {"name": "Dao_cạo_(triết_học)", "id": 19514918}]}
+{"name": "Heuristic", "id": 2326125, "predecessors": [{"name": "Thiên_kiến_nhận_thức", "id": 1745912}], "successors": [{"name": "Quy_tắc_ngón_cái", "id": 3430727}, {"name": "Dao_cạo_(triết_học)", "id": 19514918}]}

@@ -1,0 +1,1 @@
+{"name": "Agrarhandel", "id": 9782702, "predecessors": [{"name": "Agribusiness", "id": 9582301}, {"name": "Landwirtschaft", "id": 352875}, {"name": "Handel", "id": 419440}], "successors": [{"name": "Landwirtschaftsmesse", "id": 2782827}, {"name": "Viehhandel", "id": 9782761}, {"name": "Pferdehandel", "id": 10247431}, {"name": "Agrarhandelsunternehmen", "id": 12553512}]}

@@ -1,1 +1,1 @@
-{"name": "BlackBerry", "id": 2447995, "predecessors": [{"name": "Hệ_điều_hành_di_động", "id": 2448003}], "successors": [{"name": "Phần_mềm_BlackBerry", "id": 2447994}]}
+{"name": "BlackBerry", "id": 2447995, "predecessors": [{"name": "BlackBerry_(công_ty)", "id": 2447996}, {"name": "Hệ_điều_hành_di_động", "id": 2448003}], "successors": [{"name": "Phần_mềm_BlackBerry", "id": 2447994}]}

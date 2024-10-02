@@ -1,1 +1,1 @@
-{"name": "Nhà_văn_Séc", "id": 38502, "predecessors": [{"name": "Văn_học_Séc", "id": 32218}, {"name": "Người_Séc", "id": 28172}, {"name": "Châu_Âu", "id": 1528}], "successors": [{"name": "Nhà_thơ_Séc", "id": 32219}, {"name": "Nhà_viết_kịch_Séc", "id": 644120}]}
+{"name": "Nhà_văn_Séc", "id": 38502, "predecessors": [{"name": "Văn_học_Séc", "id": 32218}, {"name": "Người_Séc", "id": 28172}, {"name": "Nhà_văn", "id": 6284}], "successors": [{"name": "Nhà_thơ_Séc", "id": 32219}, {"name": "Nhà_viết_kịch_Séc", "id": 644120}]}

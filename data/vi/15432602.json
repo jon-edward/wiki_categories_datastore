@@ -1,1 +1,1 @@
-{"name": "Đặc_điểm_địa_chất_trên_Mặt_Trăng", "id": 15432602, "predecessors": [{"name": "Địa_chất_Mặt_Trăng", "id": 3637456}, {"name": "Vệ_tinh_tự_nhiên", "id": 23772}], "successors": [{"name": "Hố_va_chạm_trên_Mặt_Trăng", "id": 15432594}]}
+{"name": "Đặc_điểm_địa_chất_trên_Mặt_Trăng", "id": 15432602, "predecessors": [{"name": "Danh_sách_địa_lý", "id": 12475415}], "successors": [{"name": "Hố_va_chạm_trên_Mặt_Trăng", "id": 15432594}]}

@@ -1,1 +1,1 @@
-{"name": "蚕に関する文化", "id": 3413126, "predecessors": [{"name": "家畜", "id": 107053}], "successors": [{"name": "養蚕", "id": 3304732}]}
+{"name": "蚕に関する文化", "id": 3413126, "predecessors": [{"name": "昆虫の文化", "id": 1054544}, {"name": "家畜", "id": 107053}], "successors": [{"name": "養蚕", "id": 3304732}]}

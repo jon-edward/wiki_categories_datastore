@@ -1,1 +1,1 @@
-{"name": "Tạp_chí_phụ_nữ", "id": 19515790, "predecessors": [{"name": "Nữ_giới_và_nghệ_thuật", "id": 3243394}], "successors": [{"name": "Tạp_chí_thời_trang_phụ_nữ", "id": 19515793}]}
+{"name": "Tạp_chí_phụ_nữ", "id": 19515790, "predecessors": [{"name": "Nữ_giới_và_nghệ_thuật", "id": 3243394}, {"name": "Tạp_chí", "id": 124752}], "successors": [{"name": "Tạp_chí_thời_trang_phụ_nữ", "id": 19515793}]}

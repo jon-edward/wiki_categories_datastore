@@ -1,1 +1,1 @@
-{"name": "Lưu_vực_biển_Azov", "id": 13995024, "predecessors": [{"name": "Biển_Azov", "id": 13477446}, {"name": "Môi_trường_Địa_Trung_Hải", "id": 1439612}, {"name": "Địa_lý_Nga", "id": 33359}], "successors": [{"name": "Phụ_lưu_sông_Đông", "id": 13995390}]}
+{"name": "Lưu_vực_biển_Azov", "id": 13995024, "predecessors": [{"name": "Nước", "id": 64811}, {"name": "Địa_lý_Nga", "id": 33359}], "successors": [{"name": "Phụ_lưu_sông_Đông", "id": 13995390}]}

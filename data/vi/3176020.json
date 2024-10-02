@@ -1,1 +1,1 @@
-{"name": "Eo_biển_Trung_Quốc", "id": 3176020, "predecessors": [{"name": "Eo_biển_Thái_Bình_Dương", "id": 13376295}, {"name": "Eo_biển", "id": 42052}, {"name": "Quốc_gia_châu_Á", "id": 61997}], "successors": [{"name": "Eo_biển_Đài_Loan", "id": 3176019}]}
+{"name": "Eo_biển_Trung_Quốc", "id": 3176020, "predecessors": [{"name": "Eo_biển", "id": 42052}, {"name": "Nước", "id": 64811}], "successors": [{"name": "Eo_biển_Đài_Loan", "id": 3176019}]}

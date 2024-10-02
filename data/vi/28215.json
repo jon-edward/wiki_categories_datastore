@@ -1,1 +1,1 @@
-{"name": "Nhà_văn_Thụy_Sĩ", "id": 28215, "predecessors": [{"name": "Người_Thụy_Sĩ", "id": 7441}, {"name": "Văn_hóa_Thụy_Sĩ", "id": 49015}, {"name": "Châu_Âu", "id": 1528}], "successors": [{"name": "Nhà_thơ_Thụy_Sĩ", "id": 28213}]}
+{"name": "Nhà_văn_Thụy_Sĩ", "id": 28215, "predecessors": [{"name": "Người_Thụy_Sĩ", "id": 7441}, {"name": "Văn_hóa_Thụy_Sĩ", "id": 49015}, {"name": "Nhà_văn", "id": 6284}], "successors": [{"name": "Nhà_thơ_Thụy_Sĩ", "id": 28213}]}

@@ -1,0 +1,1 @@
+{"name": "Accident_ou_incident_aérien_dont_la_cause_est_inconnue", "id": 11957156, "predecessors": [{"name": "Accident_ou_incident_aérien", "id": 7330890}], "successors": [{"name": "Avion_disparu", "id": 15303658}, {"name": "Aviateur_disparu", "id": 15303721}]}

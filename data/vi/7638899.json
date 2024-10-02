@@ -1,1 +1,1 @@
-{"name": "Cộng_đồng_Kinh_tế_Tây_Phi", "id": 7638899, "predecessors": [{"name": "Cộng_đồng_Kinh_tế_Khu_vực_của_Liên_minh_châu_Phi", "id": 7638903}, {"name": "Liên_minh_châu_Phi", "id": 802523}, {"name": "Liên_minh_tiền_tệ", "id": 3309447}, {"name": "Tổ_chức_quốc_tế_châu_Phi", "id": 7638901}, {"name": "Kinh_tế_châu_Phi", "id": 334061}, {"name": "Abuja", "id": 1266036}], "successors": []}
+{"name": "Cộng_đồng_Kinh_tế_Tây_Phi", "id": 7638899, "predecessors": [{"name": "Liên_minh_tiền_tệ", "id": 3309447}, {"name": "Abuja", "id": 1266036}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Diện_tích", "id": 24924, "predecessors": [{"name": "Chiều_dài", "id": 24925}, {"name": "Kích_thước", "id": 3167827}, {"name": "Đại_lượng_vật_lý", "id": 4635}], "successors": [{"name": "Đơn_vị_đo_diện_tích", "id": 19453}, {"name": "Áp_suất", "id": 25582}, {"name": "Giải_tích_tích_phân", "id": 15842550}]}
+{"name": "Diện_tích", "id": 24924, "predecessors": [{"name": "Chiều_dài", "id": 24925}], "successors": [{"name": "Đơn_vị_đo_diện_tích", "id": 19453}, {"name": "Áp_suất", "id": 25582}, {"name": "Giải_tích_tích_phân", "id": 15842550}]}

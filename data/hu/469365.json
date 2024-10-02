@@ -1,1 +1,1 @@
-{"name": "Fázisállapotok", "id": 469365, "predecessors": [{"name": "Anyagok", "id": 117789}, {"name": "Fizikai_kémia", "id": 163331}, {"name": "Kontinuummechanika", "id": 469168}, {"name": "Termodinamika", "id": 68007}, {"name": "Anyagtudomány", "id": 237252}], "successors": []}
+{"name": "Fázisállapotok", "id": 469365, "predecessors": [{"name": "Anyagok", "id": 117789}, {"name": "Fizikai_kémia", "id": 163331}, {"name": "Kondenzált_anyagok_fizikája", "id": 876252}, {"name": "Kontinuummechanika", "id": 469168}, {"name": "Termodinamika", "id": 68007}], "successors": []}

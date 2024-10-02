@@ -1,0 +1,1 @@
+{"name": "Vaisselle", "id": 1439605, "predecessors": [{"name": "Arts_de_la_table", "id": 1000646}, {"name": "Récipient", "id": 304539}], "successors": [{"name": "Plat", "id": 1599556}, {"name": "Fabricant_d'ustensiles_de_cuisine", "id": 1797578}, {"name": "Équipement_pour_le_café", "id": 4517051}, {"name": "Verre_(récipient)", "id": 6320313}]}

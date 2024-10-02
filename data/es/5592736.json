@@ -1,0 +1,1 @@
+{"name": "Calidad_de_software", "id": 5592736, "predecessors": [{"name": "Calidad", "id": 244882}], "successors": [{"name": "Antipatrón_de_diseño", "id": 206515}, {"name": "Pruebas_de_software", "id": 5592023}]}

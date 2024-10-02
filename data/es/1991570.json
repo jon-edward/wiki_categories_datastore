@@ -1,0 +1,1 @@
+{"name": "Chat", "id": 1991570, "predecessors": [{"name": "Comunicación_por_medio_de_computadoras", "id": 9439625}, {"name": "Protocolos_de_nivel_de_aplicación", "id": 234518}, {"name": "Servicios_en_línea", "id": 4887406}, {"name": "Telecomunicaciones", "id": 52300}], "successors": [{"name": "IRC", "id": 305672}]}

@@ -1,1 +1,1 @@
-{"name": "Máy_bay_Consolidated", "id": 19870091, "predecessors": [{"name": "Máy_bay_do_Hoa_Kỳ_sản_xuất", "id": 1643695}, {"name": "Công_ty_sản_xuất_máy_bay", "id": 43211}], "successors": [{"name": "Máy_bay_Convair", "id": 19870090}]}
+{"name": "Máy_bay_Consolidated", "id": 19870091, "predecessors": [{"name": "Công_ty_sản_xuất_máy_bay", "id": 43211}], "successors": [{"name": "Máy_bay_Convair", "id": 19870090}]}

@@ -1,1 +1,1 @@
-{"name": "Chính_khách_Cuba", "id": 3645164, "predecessors": [{"name": "Chính_trị_Cuba", "id": 1449792}, {"name": "Chính_khách", "id": 6855}, {"name": "Người_Bắc_Mỹ", "id": 1684590}], "successors": [{"name": "Chủ_tịch_Cuba", "id": 33013}, {"name": "Nữ_chính_khách_Cuba", "id": 3655823}, {"name": "Thủ_tướng_Cuba", "id": 16390779}]}
+{"name": "Chính_khách_Cuba", "id": 3645164, "predecessors": [{"name": "Chính_khách", "id": 6855}], "successors": [{"name": "Chủ_tịch_Cuba", "id": 33013}, {"name": "Nữ_chính_khách_Cuba", "id": 3655823}, {"name": "Thủ_tướng_Cuba", "id": 16390779}]}

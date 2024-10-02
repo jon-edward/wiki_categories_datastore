@@ -1,1 +1,1 @@
-{"name": "Công_ty_viễn_thông_Bắc_Triều_Tiên", "id": 19494014, "predecessors": [{"name": "Kinh_tế_Bắc_Triều_Tiên", "id": 104003}, {"name": "Khoa_học_và_công_nghệ_Bắc_Triều_Tiên", "id": 3197267}, {"name": "Kinh_tế_Triều_Tiên", "id": 1489228}, {"name": "Công_nghệ_thông_tin_và_truyền_thông", "id": 15132483}], "successors": []}
+{"name": "Công_ty_viễn_thông_Bắc_Triều_Tiên", "id": 19494014, "predecessors": [{"name": "Công_ty", "id": 62090}, {"name": "Công_nghệ_thông_tin_và_truyền_thông", "id": 15132483}], "successors": []}

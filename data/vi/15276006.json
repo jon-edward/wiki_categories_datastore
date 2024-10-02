@@ -1,1 +1,1 @@
-{"name": "Công_ty_xuất_bản_tạp_chí_Tokyo", "id": 15276006, "predecessors": [{"name": "Công_ty_có_trụ_sở_tại_Tokyo", "id": 12807895}, {"name": "Công_ty_xuất_bản_tạp_chí_Nhật_Bản", "id": 3417673}], "successors": []}
+{"name": "Công_ty_xuất_bản_tạp_chí_Tokyo", "id": 15276006, "predecessors": [{"name": "Công_ty_xuất_bản_tạp_chí_Nhật_Bản", "id": 3417673}], "successors": [{"name": "Enterbrain", "id": 15276005}]}

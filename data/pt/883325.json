@@ -1,1 +1,1 @@
-{"name": "Teoria_das_cordas", "id": 883325, "predecessors": [{"name": "Física_moderna", "id": 2406464}], "successors": [{"name": "Teóricos_das_cordas", "id": 4765128}]}
+{"name": "Teoria_das_cordas", "id": 883325, "predecessors": [{"name": "Física_moderna", "id": 2406464}, {"name": "Gravidade_quântica", "id": 3631669}, {"name": "Hipóteses_astronômicas", "id": 6687389}, {"name": "Teoria_quântica_de_campos", "id": 129108}], "successors": [{"name": "Teóricos_das_cordas", "id": 4765128}]}

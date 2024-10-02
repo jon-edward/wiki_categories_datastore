@@ -1,1 +1,1 @@
-{"name": "Biên_giới_Hàn_Quốc-Nhật_Bản", "id": 7570191, "predecessors": [{"name": "Quan_hệ_Hàn_Quốc-Nhật_Bản", "id": 7569540}, {"name": "Quan_hệ_ngoại_giao_của_Nhật_Bản", "id": 281177}, {"name": "Quan_hệ_ngoại_giao_của_Hàn_Quốc", "id": 68690}], "successors": [{"name": "Biển_Nhật_Bản", "id": 7569344}]}
+{"name": "Biên_giới_Hàn_Quốc-Nhật_Bản", "id": 7570191, "predecessors": [{"name": "Quan_hệ_Hàn_Quốc-Nhật_Bản", "id": 7569540}, {"name": "Luật_biển", "id": 12129}], "successors": [{"name": "Biển_Nhật_Bản", "id": 7569344}]}

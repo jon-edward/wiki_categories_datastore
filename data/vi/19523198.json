@@ -1,1 +1,1 @@
-{"name": "Chất_bị_Cơ_quan_phòng_chống_doping_thế_giới_cấm", "id": 19523198, "predecessors": [{"name": "Doping", "id": 14638971}, {"name": "Khoa_học_thể_thao", "id": 3385589}], "successors": [{"name": "Chất_ức_chế_aromatase", "id": 19838627}]}
+{"name": "Chất_bị_Cơ_quan_phòng_chống_doping_thế_giới_cấm", "id": 19523198, "predecessors": [{"name": "Doping", "id": 14638971}, {"name": "Thuốc_trong_thể_thao", "id": 14638989}], "successors": [{"name": "Chất_ức_chế_aromatase", "id": 19838627}]}

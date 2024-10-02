@@ -1,1 +1,1 @@
-{"name": "Produtos_animais", "id": 399259, "predecessors": [{"name": "Animais", "id": 19978}, {"name": "Materiais", "id": 29615}], "successors": [{"name": "Alimentos_de_origem_animal", "id": 4246343}, {"name": "Esculturas_de_marfim", "id": 4051027}]}
+{"name": "Produtos_animais", "id": 399259, "predecessors": [{"name": "Animais", "id": 19978}, {"name": "Materiais_naturais", "id": 399260}], "successors": [{"name": "Alimentos_de_origem_animal", "id": 4246343}, {"name": "Esculturas_de_marfim", "id": 4051027}]}

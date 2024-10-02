@@ -1,1 +1,1 @@
-{"name": "Akusztika", "id": 310367, "predecessors": [{"name": "Hallás", "id": 154020}, {"name": "Fizika", "id": 4211}], "successors": [{"name": "Hangtechnika", "id": 32918}, {"name": "Zajok", "id": 1995495}, {"name": "Szűrők", "id": 1996302}]}
+{"name": "Akusztika", "id": 310367, "predecessors": [{"name": "Hallás", "id": 154020}, {"name": "Fizika", "id": 4211}], "successors": [{"name": "Hangtechnika", "id": 32918}, {"name": "Zajok", "id": 1995495}]}

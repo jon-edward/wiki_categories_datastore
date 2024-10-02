@@ -1,1 +1,1 @@
-{"name": "Cảng_Ba_Lan", "id": 14197339, "predecessors": [{"name": "Địa_lý_Ba_Lan", "id": 825275}, {"name": "Kết_cấu_hạ_tầng", "id": 564932}, {"name": "Kinh_tế_châu_Âu", "id": 99879}, {"name": "Kinh_tế_Ba_Lan", "id": 173029}], "successors": [{"name": "Thành_phố_cảng_Ba_Lan", "id": 14197333}]}
+{"name": "Cảng_Ba_Lan", "id": 14197339, "predecessors": [{"name": "Địa_lý_Ba_Lan", "id": 825275}, {"name": "Kinh_tế_Ba_Lan", "id": 173029}], "successors": [{"name": "Thành_phố_cảng_Ba_Lan", "id": 14197333}]}

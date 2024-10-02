@@ -1,1 +1,1 @@
-{"name": "Vụ_án_kinh_tế_Việt_Nam", "id": 3166285, "predecessors": [{"name": "Kinh_tế_Việt_Nam", "id": 52628}], "successors": [{"name": "Vụ_án_PVC", "id": 3492064}]}
+{"name": "Vụ_án_kinh_tế_Việt_Nam", "id": 3166285, "predecessors": [{"name": "Kinh_tế_Việt_Nam", "id": 52628}, {"name": "Vụ_án_tại_Việt_Nam", "id": 519311}], "successors": [{"name": "Vụ_án_PVC", "id": 3492064}]}

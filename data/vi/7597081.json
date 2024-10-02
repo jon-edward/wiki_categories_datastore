@@ -1,1 +1,1 @@
-{"name": "Tam_Sa", "id": 7597081, "predecessors": [{"name": "Thành_phố_tỉnh_Hải_Nam", "id": 63632}, {"name": "Đơn_vị_hành_chính_cấp_địa_khu_Hải_Nam", "id": 7597251}, {"name": "Đảo_Biển_Đông", "id": 7534343}], "successors": [{"name": "Quần_đảo_Hoàng_Sa", "id": 1402080}, {"name": "Quần_đảo_Trung_Sa", "id": 14328586}]}
+{"name": "Tam_Sa", "id": 7597081, "predecessors": [{"name": "Đảo_Biển_Đông", "id": 7534343}], "successors": [{"name": "Quần_đảo_Hoàng_Sa", "id": 1402080}, {"name": "Quần_đảo_Trung_Sa", "id": 14328586}]}

@@ -1,1 +1,1 @@
-{"name": "Mô_phỏng", "id": 3214785, "predecessors": [{"name": "Mô_hình_hóa_khoa_học", "id": 52714}, {"name": "Vận_trù_học", "id": 46694}], "successors": [{"name": "Phần_mềm_mô_phỏng", "id": 3214782}]}
+{"name": "Mô_phỏng", "id": 3214785, "predecessors": [{"name": "Vận_trù_học", "id": 46694}], "successors": [{"name": "Phần_mềm_mô_phỏng", "id": 3214782}]}

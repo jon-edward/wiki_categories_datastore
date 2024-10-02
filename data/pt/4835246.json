@@ -1,1 +1,1 @@
-{"name": "Filmes_pós-cyberpunk", "id": 4835246, "predecessors": [{"name": "Filmes_cyberpunk", "id": 3633388}, {"name": "Filmes_de_ficção_científica", "id": 445694}, {"name": "Ficção_científica", "id": 37509}], "successors": [{"name": "Filmes_biopunk", "id": 4835243}]}
+{"name": "Filmes_pós-cyberpunk", "id": 4835246, "predecessors": [{"name": "Filmes_cyberpunk", "id": 3633388}, {"name": "Filmes_de_ficção_científica", "id": 445694}, {"name": "Subgêneros_da_ficção_científica", "id": 404737}], "successors": [{"name": "Filmes_biopunk", "id": 4835243}]}

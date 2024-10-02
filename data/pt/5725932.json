@@ -1,1 +1,1 @@
-{"name": "Ficção_narrada_por_pessoas_mortas", "id": 5725932, "predecessors": [{"name": "Personagens_fictícias", "id": 3049504}, {"name": "Livros_por_tipo", "id": 865293}, {"name": "Ficção", "id": 103486}], "successors": []}
+{"name": "Ficção_narrada_por_pessoas_mortas", "id": 5725932, "predecessors": [{"name": "Ficção_por_gênero", "id": 6314514}, {"name": "Personagens_fictícias", "id": 3049504}, {"name": "Livros_por_tipo", "id": 865293}], "successors": []}

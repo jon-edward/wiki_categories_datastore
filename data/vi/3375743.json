@@ -1,1 +1,1 @@
-{"name": "Động_vật_México", "id": 3375743, "predecessors": [{"name": "Hệ_sinh_thái", "id": 1405862}, {"name": "Động_vật_Bắc_Mỹ", "id": 1405482}, {"name": "Lịch_sử_tự_nhiên_Bắc_Mỹ", "id": 1406613}], "successors": [{"name": "Động_vật_đặc_hữu_México", "id": 3375727}, {"name": "Động_vật_bò_sát_México", "id": 3375746}]}
+{"name": "Động_vật_México", "id": 3375743, "predecessors": [{"name": "Động_vật", "id": 61620}, {"name": "México", "id": 2418265}], "successors": [{"name": "Động_vật_đặc_hữu_México", "id": 3375727}, {"name": "Động_vật_bò_sát_México", "id": 3375746}]}

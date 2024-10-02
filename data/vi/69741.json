@@ -1,1 +1,1 @@
-{"name": "Triết_gia_thời_kỳ_Khai_sáng", "id": 69741, "predecessors": [{"name": "Người_thời_kỳ_Khai_sáng", "id": 14593143}, {"name": "Nhà_tư_tưởng", "id": 19507160}, {"name": "Triết_học_Khai_sáng", "id": 69791}], "successors": [{"name": "David_Hume", "id": 60878}]}
+{"name": "Triết_gia_thời_kỳ_Khai_sáng", "id": 69741, "predecessors": [{"name": "Người_thời_kỳ_Khai_sáng", "id": 14593143}, {"name": "Triết_học_Khai_sáng", "id": 69791}, {"name": "Thời_kỳ_cận_đại", "id": 3653526}], "successors": [{"name": "David_Hume", "id": 60878}]}

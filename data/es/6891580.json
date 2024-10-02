@@ -1,0 +1,1 @@
+{"name": "Productores", "id": 6891580, "predecessors": [{"name": "Empresarios", "id": 68254}], "successors": [{"name": "Productores_de_cine", "id": 194470}, {"name": "Productores_de_televisión", "id": 440921}, {"name": "Productores_de_música", "id": 848021}, {"name": "Productores_de_radio", "id": 5464555}]}

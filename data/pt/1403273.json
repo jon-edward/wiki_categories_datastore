@@ -1,1 +1,1 @@
-{"name": "Psicologia_aplicada", "id": 1403273, "predecessors": [{"name": "Psicologia", "id": 22480}], "successors": [{"name": "Consumo", "id": 217315}, {"name": "Psicologia_de_sistemas", "id": 3420734}, {"name": "Comportamento_do_consumidor", "id": 6217975}]}
+{"name": "Psicologia_aplicada", "id": 1403273, "predecessors": [{"name": "Ramos_da_psicologia", "id": 2274175}], "successors": [{"name": "Consumo", "id": 217315}, {"name": "Psicologia_clínica", "id": 538391}, {"name": "Psicologia_de_sistemas", "id": 3420734}, {"name": "Comportamento_do_consumidor", "id": 6217975}]}

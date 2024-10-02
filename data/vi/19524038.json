@@ -1,1 +1,1 @@
-{"name": "Thần_sinh_sản", "id": 19524038, "predecessors": [{"name": "Khả_năng_sinh_sản", "id": 19524039}, {"name": "Mùa_xuân", "id": 3418957}, {"name": "Thần_tự_nhiên", "id": 19523513}, {"name": "Tình_dục_và_tôn_giáo", "id": 14669469}, {"name": "Thần_thánh", "id": 442964}], "successors": []}
+{"name": "Thần_sinh_sản", "id": 19524038, "predecessors": [{"name": "Mùa_xuân", "id": 3418957}, {"name": "Thần_tự_nhiên", "id": 19523513}, {"name": "Tình_dục_và_tôn_giáo", "id": 14669469}, {"name": "Thần_thánh", "id": 442964}], "successors": []}

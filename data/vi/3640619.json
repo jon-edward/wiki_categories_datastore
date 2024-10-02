@@ -1,1 +1,1 @@
-{"name": "Nữ_giới_Áo", "id": 3640619, "predecessors": [{"name": "Người_Áo", "id": 27905}, {"name": "Nữ_giới", "id": 2979924}, {"name": "Châu_Âu", "id": 1528}, {"name": "Nữ_giới_theo_quốc_gia", "id": 2979926}], "successors": [{"name": "Hoàng_nữ_Áo", "id": 458511}, {"name": "Hoàng_hậu_Áo", "id": 14742907}]}
+{"name": "Nữ_giới_Áo", "id": 3640619, "predecessors": [{"name": "Người_Áo", "id": 27905}, {"name": "Áo", "id": 3896}], "successors": [{"name": "Hoàng_nữ_Áo", "id": 458511}, {"name": "Hoàng_hậu_Áo", "id": 14742907}]}

@@ -1,1 +1,1 @@
-{"name": "Alken", "id": 32759, "predecessors": [{"name": "Hydrocarbon", "id": 100347}, {"name": "Hóa_chất", "id": 59544}, {"name": "Hợp_chất_hữu_cơ", "id": 17305}], "successors": [{"name": "Dẫn_xuất_của_alken", "id": 19521447}, {"name": "Polyene", "id": 19522811}]}
+{"name": "Alken", "id": 32759, "predecessors": [{"name": "Hydrocarbon", "id": 100347}, {"name": "Hóa_chất", "id": 59544}], "successors": [{"name": "Dẫn_xuất_của_alken", "id": 19521447}, {"name": "Polyene", "id": 19522811}]}

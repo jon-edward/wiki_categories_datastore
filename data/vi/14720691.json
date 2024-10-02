@@ -1,1 +1,1 @@
-{"name": "Cơ_quan_thủy_sản", "id": 14720691, "predecessors": [{"name": "Cơ_quan_môi_trường", "id": 13977987}, {"name": "Quản_lý_tài_nguyên_thiên_nhiên", "id": 2440815}], "successors": [{"name": "Bộ_thủy_sản", "id": 14720686}]}
+{"name": "Cơ_quan_thủy_sản", "id": 14720691, "predecessors": [{"name": "Cơ_quan_môi_trường", "id": 13977987}, {"name": "Thủy_sản", "id": 491173}], "successors": [{"name": "Bộ_thủy_sản", "id": 14720686}]}

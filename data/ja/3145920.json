@@ -1,1 +1,1 @@
-{"name": "希少疾患", "id": 3145920, "predecessors": [{"name": "病気", "id": 185077}], "successors": [{"name": "希少疾病用医薬品", "id": 2790011}]}
+{"name": "希少疾患", "id": 3145920, "predecessors": [{"name": "病気", "id": 185077}, {"name": "遺伝学", "id": 172881}], "successors": [{"name": "希少疾病用医薬品", "id": 2790011}]}

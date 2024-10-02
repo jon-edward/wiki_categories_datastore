@@ -1,1 +1,1 @@
-{"name": "Động_vật_bị_đe_dọa", "id": 13852100, "predecessors": [{"name": "Loài_nguy_cấp", "id": 66001}, {"name": "Sinh_vật_nhân_thực", "id": 3678249}], "successors": [{"name": "Cá_bị_đe_dọa", "id": 13852087}]}
+{"name": "Động_vật_bị_đe_dọa", "id": 13852100, "predecessors": [{"name": "Loài_nguy_cấp", "id": 66001}, {"name": "Động_vật_học", "id": 25808}], "successors": [{"name": "Cá_bị_đe_dọa", "id": 13852087}]}

@@ -1,1 +1,1 @@
-{"name": "Xà_phòng", "id": 277346, "predecessors": [{"name": "Hóa_chất", "id": 59544}, {"name": "Hợp_chất_hữu_cơ", "id": 17305}, {"name": "Sản_phẩm_làm_sạch", "id": 3175952}, {"name": "Sản_phẩm_vệ_sinh_cá_nhân", "id": 3175946}], "successors": [{"name": "Nhãn_hiệu_xà_phòng", "id": 19749876}]}
+{"name": "Xà_phòng", "id": 277346, "predecessors": [{"name": "Hóa_chất", "id": 59544}, {"name": "Sản_phẩm_làm_sạch", "id": 3175952}, {"name": "Sản_phẩm_vệ_sinh_cá_nhân", "id": 3175946}], "successors": [{"name": "Nhãn_hiệu_xà_phòng", "id": 19749876}]}

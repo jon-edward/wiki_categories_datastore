@@ -1,1 +1,1 @@
-{"name": "Động_cơ_điện", "id": 189053, "predecessors": [{"name": "Kỹ_thuật_điện", "id": 76264}, {"name": "Máy_điện", "id": 75359}, {"name": "Động_cơ", "id": 43050}], "successors": []}
+{"name": "Động_cơ_điện", "id": 189053, "predecessors": [{"name": "Động_cơ", "id": 43050}], "successors": []}

@@ -1,0 +1,1 @@
+{"name": "Hidroterapia", "id": 6349096, "predecessors": [{"name": "Baños", "id": 3391931}, {"name": "Ejercicio_físico", "id": 6320892}], "successors": [{"name": "Aguas_termales", "id": 739153}, {"name": "Balneoterapia", "id": 6445825}]}

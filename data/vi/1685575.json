@@ -1,1 +1,1 @@
-{"name": "Thực_vật_có_mạch", "id": 1685575, "predecessors": [{"name": "Phân_loại_thực_vật", "id": 36530}], "successors": [{"name": "Ngành_Thạch_tùng", "id": 1644069}]}
+{"name": "Thực_vật_có_mạch", "id": 1685575, "predecessors": [{"name": "Thực_vật", "id": 12825}], "successors": [{"name": "Ngành_Thạch_tùng", "id": 1644069}, {"name": "Lớp_Dương_xỉ_tòa_sen", "id": 457969}, {"name": "Nhà_dương_xỉ_học", "id": 486509}, {"name": "Lớp_Dương_xỉ", "id": 546195}, {"name": "Thực_vật_có_hoa", "id": 36527}]}

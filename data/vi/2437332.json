@@ -1,1 +1,1 @@
-{"name": "Cơ_quan_Liên_Hợp_Quốc", "id": 2437332, "predecessors": [{"name": "Liên_Hợp_Quốc", "id": 15524}], "successors": [{"name": "Cơ_quan_Năng_lượng_Nguyên_tử_Quốc_tế", "id": 2398425}]}
+{"name": "Cơ_quan_Liên_Hợp_Quốc", "id": 2437332, "predecessors": [{"name": "Liên_Hợp_Quốc", "id": 15524}], "successors": [{"name": "Hội_đồng_Bảo_an_Liên_Hợp_Quốc", "id": 251817}, {"name": "Cơ_quan_Năng_lượng_Nguyên_tử_Quốc_tế", "id": 2398425}, {"name": "Thẩm_phán_Tòa_án_Công_lý_Quốc_tế", "id": 3217227}]}

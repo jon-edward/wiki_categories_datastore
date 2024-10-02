@@ -1,1 +1,1 @@
-{"name": "Thác_nước_Hoa_Kỳ", "id": 69470, "predecessors": [{"name": "Thác_nước", "id": 55399}, {"name": "Địa_lý_Hoa_Kỳ", "id": 50870}, {"name": "Du_lịch_Hoa_Kỳ", "id": 250522}, {"name": "Châu_Mỹ", "id": 27725}, {"name": "Địa_lý_Bắc_Mỹ", "id": 62001}], "successors": []}
+{"name": "Thác_nước_Hoa_Kỳ", "id": 69470, "predecessors": [{"name": "Thác_nước", "id": 55399}, {"name": "Du_lịch_Hoa_Kỳ", "id": 250522}, {"name": "Nước", "id": 64811}], "successors": []}

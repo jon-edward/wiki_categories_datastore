@@ -1,1 +1,1 @@
-{"name": "Hệ_thống_quản_lý", "id": 1678742, "predecessors": [{"name": "Quản_lý", "id": 52706}, {"name": "Quản_lý_dự_án", "id": 45449}], "successors": [{"name": "Phần_mềm_quản_lý_dự_án", "id": 19715297}]}
+{"name": "Hệ_thống_quản_lý", "id": 1678742, "predecessors": [{"name": "Hệ_thống_xã_hội", "id": 1645564}, {"name": "Quản_lý", "id": 52706}, {"name": "Quản_lý_dự_án", "id": 45449}], "successors": [{"name": "Phần_mềm_quản_lý_dự_án", "id": 19715297}]}

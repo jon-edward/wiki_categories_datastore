@@ -1,1 +1,1 @@
-{"name": "Tranh_cãi_y_học", "id": 14296480, "predecessors": [{"name": "Tranh_cãi_khoa_học", "id": 14056831}, {"name": "Đạo_đức_y_học", "id": 21823}, {"name": "Xã_hội", "id": 7494}], "successors": [{"name": "Tranh_cãi_tâm_thần_học", "id": 14296467}]}
+{"name": "Tranh_cãi_y_học", "id": 14296480, "predecessors": [{"name": "Tranh_cãi_khoa_học", "id": 14056831}, {"name": "Đạo_đức_y_học", "id": 21823}, {"name": "Y_học", "id": 8417}], "successors": [{"name": "Tranh_cãi_tâm_thần_học", "id": 14296467}]}

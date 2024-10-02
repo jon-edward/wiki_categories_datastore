@@ -1,1 +1,1 @@
-{"name": "Cơ_quan_quản_lý_bóng_đá_Bắc_Mỹ", "id": 5496693, "predecessors": [{"name": "Cơ_quan_quản_lý_bóng_đá", "id": 28876}, {"name": "Bóng_đá", "id": 8451}, {"name": "Châu_Mỹ", "id": 27725}], "successors": []}
+{"name": "Cơ_quan_quản_lý_bóng_đá_Bắc_Mỹ", "id": 5496693, "predecessors": [{"name": "Cơ_quan_quản_lý_bóng_đá", "id": 28876}, {"name": "Bóng_đá", "id": 8451}, {"name": "Cơ_quan_quản_lý_thể_thao", "id": 3261148}], "successors": [{"name": "Liên_đoàn_bóng_đá_Hoa_Kỳ", "id": 5492624}]}

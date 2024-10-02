@@ -1,1 +1,1 @@
-{"name": "Aprendizagem_profunda", "id": 5222423, "predecessors": [{"name": "Aprendizagem_de_máquina", "id": 3666386}, {"name": "Inteligência_artificial", "id": 344046}, {"name": "Redes_neurais", "id": 1128711}], "successors": []}
+{"name": "Aprendizagem_profunda", "id": 5222423, "predecessors": [{"name": "Aprendizagem_de_máquina", "id": 3666386}, {"name": "Engenharia_de_inteligência_artificial", "id": 7442617}, {"name": "Inteligência_artificial", "id": 344046}, {"name": "Redes_neurais", "id": 1128711}], "successors": []}

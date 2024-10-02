@@ -1,1 +1,1 @@
-{"name": "Músicos_de_metal_alternativo", "id": 5482247, "predecessors": [{"name": "Músicos_de_heavy_metal", "id": 268804}, {"name": "Gêneros_de_heavy_metal", "id": 5221758}], "successors": [{"name": "Guitarristas_de_metal_alternativo", "id": 5482256}]}
+{"name": "Músicos_de_metal_alternativo", "id": 5482247, "predecessors": [{"name": "Músicos_de_heavy_metal", "id": 268804}, {"name": "Gêneros_de_heavy_metal", "id": 5221758}], "successors": [{"name": "Baixistas_de_metal_alternativo", "id": 5482235}, {"name": "Guitarristas_de_metal_alternativo", "id": 5482256}]}

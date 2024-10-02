@@ -1,1 +1,1 @@
-{"name": "Tàu_khu_trục_của_Hải_quân_Hoa_Kỳ", "id": 2439174, "predecessors": [{"name": "Tàu_của_Hải_quân_Hoa_Kỳ", "id": 1237128}], "successors": [{"name": "Lớp_tàu_khu_trục_Fletcher", "id": 3678216}, {"name": "Lớp_tàu_khu_trục_Forrest_Sherman", "id": 19728614}]}
+{"name": "Tàu_khu_trục_của_Hải_quân_Hoa_Kỳ", "id": 2439174, "predecessors": [{"name": "Tàu_của_Hải_quân_Hoa_Kỳ", "id": 1237128}, {"name": "Tàu_khu_trục", "id": 787185}], "successors": [{"name": "Lớp_tàu_khu_trục_Fletcher", "id": 3678216}, {"name": "Lớp_tàu_khu_trục_Forrest_Sherman", "id": 19728614}]}

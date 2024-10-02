@@ -1,0 +1,1 @@
+{"name": "Instrument_de_mesure_du_temps", "id": 1090377, "predecessors": [{"name": "Instrument_de_mesure", "id": 390899}, {"name": "Mesure_du_temps", "id": 88806}], "successors": [{"name": "Calendrier", "id": 114194}, {"name": "Horloge", "id": 3779720}, {"name": "Sablier_dans_la_peinture", "id": 16324444}]}

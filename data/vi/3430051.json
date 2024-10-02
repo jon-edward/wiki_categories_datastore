@@ -1,1 +1,1 @@
-{"name": "Kiến_trúc_Kitô_giáo", "id": 3430051, "predecessors": [{"name": "Lịch_sử_kiến_trúc", "id": 30967}, {"name": "Nghệ_thuật_Kitô_giáo", "id": 3130787}, {"name": "Nghệ_thuật_theo_lĩnh_vực", "id": 38414}], "successors": [{"name": "Vương_cung_thánh_đường", "id": 424486}]}
+{"name": "Kiến_trúc_Kitô_giáo", "id": 3430051, "predecessors": [{"name": "Kiến_trúc_tôn_giáo", "id": 3141079}, {"name": "Lịch_sử_kiến_trúc", "id": 30967}, {"name": "Nghệ_thuật_Kitô_giáo", "id": 3130787}], "successors": [{"name": "Vương_cung_thánh_đường", "id": 424486}]}

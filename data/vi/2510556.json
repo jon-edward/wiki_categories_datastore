@@ -1,1 +1,1 @@
-{"name": "Phim_dựa_theo_truyện_tranh_Mỹ", "id": 2510556, "predecessors": [{"name": "Phim_dựa_theo_truyện_tranh", "id": 2510715}], "successors": [{"name": "Phim_dựa_theo_truyện_tranh_Marvel", "id": 2510513}, {"name": "Phim_dựa_trên_DC_Comics", "id": 19771694}]}
+{"name": "Phim_dựa_theo_truyện_tranh_Mỹ", "id": 2510556, "predecessors": [{"name": "Phim_dựa_theo_truyện_tranh", "id": 2510715}, {"name": "Truyện_tranh_Mỹ", "id": 2510637}], "successors": [{"name": "Phim_dựa_theo_truyện_tranh_Marvel", "id": 2510513}, {"name": "Phim_dựa_trên_DC_Comics", "id": 19771694}]}

@@ -1,1 +1,1 @@
-{"name": "Đền_thờ", "id": 9313, "predecessors": [{"name": "Công_trình_tôn_giáo", "id": 29019}, {"name": "Nghệ_thuật_theo_lĩnh_vực", "id": 38414}], "successors": [{"name": "Văn_miếu", "id": 47371}, {"name": "Đền_thờ_Ấn_Độ_giáo", "id": 3402096}]}
+{"name": "Đền_thờ", "id": 9313, "predecessors": [{"name": "Công_trình_tôn_giáo", "id": 29019}, {"name": "Kiến_trúc_tôn_giáo", "id": 3141079}], "successors": [{"name": "Văn_miếu", "id": 47371}, {"name": "Đền_thờ_Ấn_Độ_giáo", "id": 3402096}]}

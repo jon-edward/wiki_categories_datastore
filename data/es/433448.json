@@ -1,0 +1,1 @@
+{"name": "Aseguradoras", "id": 433448, "predecessors": [{"name": "Instituciones_financieras", "id": 348474}, {"name": "Seguros", "id": 1532771}, {"name": "Sistema_financiero", "id": 1024941}, {"name": "Empresas", "id": 62409}], "successors": [{"name": "Aseguradoras_de_España", "id": 433447}, {"name": "Aseguradoras_de_los_Estados_Unidos", "id": 3771723}]}

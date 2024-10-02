@@ -1,0 +1,1 @@
+{"name": "POSIX", "id": 4010788, "predecessors": [{"name": "IEEE-Norm", "id": 2063450}, {"name": "IT-Standard", "id": 3516120}, {"name": "Unix", "id": 585233}, {"name": "Informationstechnik", "id": 2109576}], "successors": [{"name": "POSIX-konformes_Betriebssystem", "id": 4316792}, {"name": "POSIX-Signal", "id": 7951186}]}

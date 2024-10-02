@@ -1,1 +1,1 @@
-{"name": "Tranh_cãi_đạo_đức_tư_pháp", "id": 15279006, "predecessors": [{"name": "Triết_học_luật_pháp", "id": 1750545}, {"name": "Tranh_cãi", "id": 3225340}], "successors": [{"name": "Tử_hình", "id": 814783}]}
+{"name": "Tranh_cãi_đạo_đức_tư_pháp", "id": 15279006, "predecessors": [{"name": "Tranh_cãi", "id": 3225340}, {"name": "Đạo_đức", "id": 127816}], "successors": [{"name": "Tử_hình", "id": 814783}]}

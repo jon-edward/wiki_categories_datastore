@@ -1,1 +1,1 @@
-{"name": "이라크의_쿠데타", "id": 3276288, "predecessors": [{"name": "군사사", "id": 336214}], "successors": []}
+{"name": "이라크의_쿠데타", "id": 3276288, "predecessors": [{"name": "군사사", "id": 336214}, {"name": "이라크의_정치", "id": 41808}, {"name": "아시아의_반란", "id": 1358867}], "successors": []}

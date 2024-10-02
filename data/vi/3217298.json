@@ -1,1 +1,1 @@
-{"name": "Lý_thuyết_sinh_học", "id": 3217298, "predecessors": [{"name": "Khái_niệm_sinh_học", "id": 3217300}, {"name": "Lý_thuyết_khoa_học", "id": 1645566}], "successors": [{"name": "Tiến_hóa_sinh_học", "id": 3217292}]}
+{"name": "Lý_thuyết_sinh_học", "id": 3217298, "predecessors": [{"name": "Lý_thuyết_khoa_học", "id": 1645566}], "successors": [{"name": "Tiến_hóa_sinh_học", "id": 3217292}]}

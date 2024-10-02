@@ -1,1 +1,1 @@
-{"name": "Thực_vật_Panama", "id": 555806, "predecessors": [{"name": "Thực_vật_Trung_Mỹ", "id": 1737746}, {"name": "Hệ_sinh_thái", "id": 1405862}, {"name": "Panama", "id": 122584}], "successors": [{"name": "Cây_Panama", "id": 3419546}, {"name": "Lan_Panama", "id": 3419979}]}
+{"name": "Thực_vật_Panama", "id": 555806, "predecessors": [{"name": "Thực_vật_Trung_Mỹ", "id": 1737746}, {"name": "Panama", "id": 122584}, {"name": "Thực_vật", "id": 12825}], "successors": [{"name": "Cây_Panama", "id": 3419546}, {"name": "Lan_Panama", "id": 3419979}]}

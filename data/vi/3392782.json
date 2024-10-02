@@ -1,1 +1,1 @@
-{"name": "Cảng_Hàn_Quốc", "id": 3392782, "predecessors": [{"name": "Địa_lý_Hàn_Quốc", "id": 274909}, {"name": "Kết_cấu_hạ_tầng", "id": 564932}, {"name": "Kinh_tế_châu_Á", "id": 68355}, {"name": "Giao_thông_Hàn_Quốc", "id": 1440646}, {"name": "Kinh_tế_Hàn_Quốc", "id": 35854}], "successors": [{"name": "Thành_phố_cảng_ở_Hàn_Quốc", "id": 3420431}]}
+{"name": "Cảng_Hàn_Quốc", "id": 3392782, "predecessors": [{"name": "Nước", "id": 64811}, {"name": "Nghệ_thuật_thị_giác", "id": 27766}], "successors": [{"name": "Thành_phố_cảng_ở_Hàn_Quốc", "id": 3420431}]}

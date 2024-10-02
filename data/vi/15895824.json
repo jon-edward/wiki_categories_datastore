@@ -1,1 +1,1 @@
-{"name": "Chất_dẫn_điện", "id": 15895824, "predecessors": [{"name": "Vật_liệu", "id": 8288}, {"name": "Vật_liệu_điện", "id": 43556}, {"name": "Điện_học", "id": 26951}], "successors": [{"name": "Điện_cực", "id": 1263701}, {"name": "Chất_điện_ly", "id": 17552435}]}
+{"name": "Chất_dẫn_điện", "id": 15895824, "predecessors": [{"name": "Vật_liệu", "id": 8288}, {"name": "Vật_liệu_điện", "id": 43556}, {"name": "Điện_học", "id": 26951}], "successors": [{"name": "Điện_cực", "id": 1263701}]}

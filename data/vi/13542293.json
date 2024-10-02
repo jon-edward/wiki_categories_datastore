@@ -1,1 +1,1 @@
-{"name": "Hệ_thị_giác", "id": 13542293, "predecessors": [{"name": "Hệ_giác_quan", "id": 2420720}, {"name": "Thị_giác", "id": 415254}], "successors": [{"name": "Mắt", "id": 104891}, {"name": "Rối_loạn_thị_giác", "id": 13542266}]}
+{"name": "Hệ_thị_giác", "id": 13542293, "predecessors": [{"name": "Thị_giác", "id": 415254}], "successors": [{"name": "Mắt", "id": 104891}, {"name": "Rối_loạn_thị_giác", "id": 13542266}]}

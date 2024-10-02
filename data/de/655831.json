@@ -1,0 +1,1 @@
+{"name": "Beschichtungswerkstoff", "id": 655831, "predecessors": [{"name": "Beschichten", "id": 1924061}, {"name": "Farbmitteltechnik", "id": 4480988}, {"name": "Funktionswerkstoff", "id": 622469}], "successors": [{"name": "Beschichtung_(Baustoff)", "id": 1276198}, {"name": "Lack", "id": 4576864}, {"name": "Blattmetall", "id": 7856103}, {"name": "Malmittel", "id": 10552126}]}

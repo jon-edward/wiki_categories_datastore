@@ -1,1 +1,1 @@
-{"name": "Dự_báo_kinh_tế", "id": 85439, "predecessors": [{"name": "Kinh_tế_lượng", "id": 85432}, {"name": "Dự_đoán", "id": 1685516}], "successors": [{"name": "Khuynh_hướng_thị_trường", "id": 2222431}]}
+{"name": "Dự_báo_kinh_tế", "id": 85439, "predecessors": [{"name": "Dự_đoán", "id": 1685516}], "successors": [{"name": "Khuynh_hướng_thị_trường", "id": 2222431}]}

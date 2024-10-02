@@ -1,1 +1,1 @@
-{"name": "Thành_phố_ven_biển_ở_Trung_Quốc", "id": 3418625, "predecessors": [{"name": "Thành_phố_của_Trung_Quốc", "id": 22074}, {"name": "Bờ_biển", "id": 2366172}], "successors": [{"name": "Ma_Cao", "id": 935547}]}
+{"name": "Thành_phố_ven_biển_ở_Trung_Quốc", "id": 3418625, "predecessors": [{"name": "Nước", "id": 64811}], "successors": [{"name": "Ma_Cao", "id": 935547}]}

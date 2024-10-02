@@ -1,1 +1,1 @@
-{"name": "Nữ_khoa_học_gia", "id": 1737251, "predecessors": [{"name": "Nhà_khoa_học", "id": 48904}, {"name": "Nữ_giới", "id": 2979924}], "successors": [{"name": "Nhà_thiên_văn_học_nữ", "id": 1341241}, {"name": "Nhà_toán_học_nữ", "id": 3143202}, {"name": "Nữ_khoa_học_gia_máy_tính", "id": 3254301}]}
+{"name": "Nữ_khoa_học_gia", "id": 1737251, "predecessors": [{"name": "Nhà_khoa_học", "id": 48904}], "successors": [{"name": "Nhà_thiên_văn_học_nữ", "id": 1341241}, {"name": "Nhà_toán_học_nữ", "id": 3143202}, {"name": "Nữ_khoa_học_gia_máy_tính", "id": 3254301}]}

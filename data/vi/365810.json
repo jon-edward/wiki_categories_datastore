@@ -1,1 +1,1 @@
-{"name": "Danh_sách_hóa_học", "id": 365810, "predecessors": [{"name": "Danh_sách_khoa_học", "id": 3633471}, {"name": "Hóa_học", "id": 1648}], "successors": [{"name": "Danh_sách_nguyên_tố_hóa_học", "id": 2424396}, {"name": "Danh_sách_số_UN", "id": 2434391}]}
+{"name": "Danh_sách_hóa_học", "id": 365810, "predecessors": [{"name": "Danh_sách_khoa_học", "id": 3633471}], "successors": [{"name": "Danh_sách_nguyên_tố_hóa_học", "id": 2424396}, {"name": "Danh_sách_số_UN", "id": 2434391}]}

@@ -1,1 +1,1 @@
-{"name": "Odores_corporais", "id": 7065687, "predecessors": [{"name": "Endocrinologia", "id": 46203}, {"name": "Fisiologia", "id": 15866}, {"name": "Higiene", "id": 150940}], "successors": [{"name": "Fragrâncias_de_celebridades", "id": 2647517}]}
+{"name": "Odores_corporais", "id": 7065687, "predecessors": [{"name": "Endocrinologia", "id": 46203}, {"name": "Fisiologia", "id": 15866}, {"name": "Higiene", "id": 150940}], "successors": [{"name": "Desodorantes", "id": 7064904}, {"name": "Fragrâncias_de_celebridades", "id": 2647517}]}

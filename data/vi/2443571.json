@@ -1,1 +1,1 @@
-{"name": "Mùa_đông", "id": 2443571, "predecessors": [{"name": "Lạnh", "id": 2443572}, {"name": "Mùa", "id": 18605}], "successors": [{"name": "Môn_thể_thao_mùa_đông", "id": 2443568}, {"name": "Tuyết", "id": 2443573}, {"name": "Giờ_mùa_đông", "id": 3416947}, {"name": "Lễ_hội_mùa_đông", "id": 13464966}]}
+{"name": "Mùa_đông", "id": 2443571, "predecessors": [{"name": "Mùa", "id": 18605}], "successors": [{"name": "Môn_thể_thao_mùa_đông", "id": 2443568}, {"name": "Tuyết", "id": 2443573}, {"name": "Giờ_mùa_đông", "id": 3416947}, {"name": "Lễ_hội_mùa_đông", "id": 13464966}]}

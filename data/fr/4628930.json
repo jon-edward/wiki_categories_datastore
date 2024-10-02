@@ -1,0 +1,1 @@
+{"name": "Viaduc_ferroviaire", "id": 4628930, "predecessors": [{"name": "Infrastructure_ferroviaire", "id": 89481}, {"name": "Pont", "id": 85510}], "successors": [{"name": "Viaduc_ferroviaire_en_France", "id": 5681606}]}

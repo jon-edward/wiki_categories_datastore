@@ -1,0 +1,1 @@
+{"name": "Dateisystem", "id": 279104, "predecessors": [{"name": "Betriebssystemkomponente", "id": 2428733}, {"name": "Dokumentation", "id": 321891}], "successors": [{"name": "Dateiverwaltung", "id": 2354357}, {"name": "Journaling-Dateisystem", "id": 2354522}, {"name": "Freies_Dateisystem", "id": 2926024}, {"name": "Verteiltes_Dateisystem", "id": 6748749}]}

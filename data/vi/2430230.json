@@ -1,1 +1,1 @@
-{"name": "Kênh_đào_Đức", "id": 2430230, "predecessors": [{"name": "Kinh_tế_Đức", "id": 52649}, {"name": "Địa_lý_Đức", "id": 43151}], "successors": [{"name": "Kênh_đào_München", "id": 2429569}]}
+{"name": "Kênh_đào_Đức", "id": 2430230, "predecessors": [{"name": "Kênh_đào", "id": 75458}, {"name": "Giao_thông_đường_thủy", "id": 48426}, {"name": "Địa_lý_Đức", "id": 43151}], "successors": [{"name": "Kênh_đào_München", "id": 2429569}]}

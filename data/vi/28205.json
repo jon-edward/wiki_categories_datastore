@@ -1,1 +1,1 @@
-{"name": "Nhà_văn_Đan_Mạch", "id": 28205, "predecessors": [{"name": "Châu_Âu", "id": 1528}, {"name": "Văn_hóa_Đan_Mạch", "id": 322097}], "successors": [{"name": "Nhà_thơ_Đan_Mạch", "id": 28209}, {"name": "Hans_Christian_Andersen", "id": 822312}]}
+{"name": "Nhà_văn_Đan_Mạch", "id": 28205, "predecessors": [{"name": "Người_Đan_Mạch", "id": 28206}, {"name": "Văn_hóa_Đan_Mạch", "id": 322097}, {"name": "Nhà_văn", "id": 6284}], "successors": [{"name": "Nhà_thơ_Đan_Mạch", "id": 28209}, {"name": "Hans_Christian_Andersen", "id": 822312}]}

@@ -1,1 +1,1 @@
-{"name": "Tháng_năm", "id": 61309, "predecessors": [{"name": "Lịch_Gregorius", "id": 3153989}, {"name": "Ngày", "id": 68442}, {"name": "Tháng", "id": 3527}], "successors": [{"name": "Sự_kiện_tháng_5", "id": 3252805}]}
+{"name": "Tháng_năm", "id": 61309, "predecessors": [{"name": "Tháng", "id": 3527}], "successors": [{"name": "Sự_kiện_tháng_5", "id": 3252805}]}

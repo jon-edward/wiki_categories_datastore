@@ -1,1 +1,1 @@
-{"name": "Ứng_dụng_Web", "id": 563978, "predecessors": [{"name": "Giao_diện_đồ_họa_người_dùng", "id": 3144278}, {"name": "Web_2.0", "id": 82695}], "successors": [{"name": "Thương_mại_điện_tử", "id": 42895}]}
+{"name": "Ứng_dụng_Web", "id": 563978, "predecessors": [{"name": "Giao_diện_đồ_họa_người_dùng", "id": 3144278}, {"name": "Web_2.0", "id": 82695}], "successors": [{"name": "Thương_mại_điện_tử", "id": 42895}, {"name": "Web_framework", "id": 19495639}]}

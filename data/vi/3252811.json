@@ -1,1 +1,1 @@
-{"name": "Liên_hoan_phim_Pháp", "id": 3252811, "predecessors": [{"name": "Điện_ảnh_Pháp", "id": 42576}, {"name": "Liên_hoan_phim", "id": 42577}, {"name": "Sự_kiện", "id": 68192}], "successors": [{"name": "Liên_hoan_phim_Cannes", "id": 55388}]}
+{"name": "Liên_hoan_phim_Pháp", "id": 3252811, "predecessors": [{"name": "Điện_ảnh_Pháp", "id": 42576}, {"name": "Liên_hoan_phim", "id": 42577}, {"name": "Giải_trí", "id": 6073}], "successors": [{"name": "Liên_hoan_phim_Cannes", "id": 55388}]}

@@ -1,1 +1,1 @@
-{"name": "Tuyến_tàu_điện_ngầm_Busan", "id": 3200605, "predecessors": [{"name": "Busan_Metro", "id": 3199045}, {"name": "Công_trình_xây_dựng_Busan", "id": 3230842}, {"name": "Tuyến_đường_sắt_ở_Hàn_Quốc", "id": 3196132}], "successors": []}
+{"name": "Tuyến_tàu_điện_ngầm_Busan", "id": 3200605, "predecessors": [{"name": "Công_trình_xây_dựng_Busan", "id": 3230842}], "successors": []}

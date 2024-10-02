@@ -1,1 +1,1 @@
-{"name": "Chỉ_huy_trưởng_Bộ_Chỉ_huy_Quân_sự_tỉnh_Quảng_Bình", "id": 3693237, "predecessors": [{"name": "Quân_khu_4,_Quân_đội_nhân_dân_Việt_Nam", "id": 9574293}, {"name": "Quảng_Bình", "id": 35441}], "successors": []}
+{"name": "Chỉ_huy_trưởng_Bộ_Chỉ_huy_Quân_sự_tỉnh_Quảng_Bình", "id": 3693237, "predecessors": [{"name": "Chức_vụ_Quân_đội_nhân_dân_Việt_Nam", "id": 9510770}, {"name": "Quân_khu_4,_Quân_đội_nhân_dân_Việt_Nam", "id": 9574293}, {"name": "Quảng_Bình", "id": 35441}], "successors": []}

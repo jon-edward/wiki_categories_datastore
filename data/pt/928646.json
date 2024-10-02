@@ -1,1 +1,1 @@
-{"name": "Perfumaria", "id": 928646, "predecessors": [{"name": "Cosmética", "id": 4094049}, {"name": "Moda", "id": 97099}], "successors": [{"name": "Perfumarias", "id": 7049945}]}
+{"name": "Perfumaria", "id": 928646, "predecessors": [{"name": "Cosmética", "id": 4094049}, {"name": "Moda", "id": 97099}], "successors": [{"name": "Perfumes", "id": 5277531}, {"name": "Perfumarias", "id": 7049945}]}

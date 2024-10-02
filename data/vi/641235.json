@@ -1,1 +1,1 @@
-{"name": "Truyền_thanh_Liên_Xô", "id": 641235, "predecessors": [{"name": "Thông_tin_liên_lạc_ở_Liên_Xô", "id": 641234}, {"name": "Truyền_thanh", "id": 3089}, {"name": "Văn_hóa_Liên_Xô", "id": 231831}, {"name": "Phát_sóng", "id": 417631}], "successors": []}
+{"name": "Truyền_thanh_Liên_Xô", "id": 641235, "predecessors": [{"name": "Thông_tin_liên_lạc_ở_Liên_Xô", "id": 641234}, {"name": "Truyền_thanh", "id": 3089}, {"name": "Phát_sóng", "id": 417631}], "successors": []}

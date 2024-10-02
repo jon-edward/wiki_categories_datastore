@@ -1,1 +1,1 @@
-{"name": "Flygfraktbolag", "id": 3926615, "predecessors": [{"name": "Godstransport", "id": 65988}, {"name": "Flyg", "id": 60557}], "successors": []}
+{"name": "Flygfraktbolag", "id": 3926615, "predecessors": [{"name": "Flygbolag", "id": 54070}, {"name": "Godstransport", "id": 65988}], "successors": []}

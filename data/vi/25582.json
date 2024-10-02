@@ -1,1 +1,1 @@
-{"name": "Áp_suất", "id": 25582, "predecessors": [{"name": "Diện_tích", "id": 24924}, {"name": "Lực", "id": 17740}, {"name": "Đại_lượng_vật_lý", "id": 4635}], "successors": [{"name": "Đơn_vị_đo_áp_suất", "id": 25581}, {"name": "Huyết_áp", "id": 818023}, {"name": "Chân_không", "id": 2422033}]}
+{"name": "Áp_suất", "id": 25582, "predecessors": [{"name": "Diện_tích", "id": 24924}], "successors": [{"name": "Đơn_vị_đo_áp_suất", "id": 25581}, {"name": "Huyết_áp", "id": 818023}, {"name": "Chân_không", "id": 2422033}]}

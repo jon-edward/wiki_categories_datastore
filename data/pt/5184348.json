@@ -1,1 +1,1 @@
-{"name": "Hardware_de_redes", "id": 5184348, "predecessors": [{"name": "Hardware", "id": 42138}, {"name": "Redes_de_computadores", "id": 15843}, {"name": "Telemática", "id": 2797473}], "successors": []}
+{"name": "Hardware_de_redes", "id": 5184348, "predecessors": [{"name": "Engenharia_de_redes", "id": 7438428}, {"name": "Hardware", "id": 42138}, {"name": "Telemática", "id": 2797473}], "successors": []}

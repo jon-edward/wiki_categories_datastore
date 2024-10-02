@@ -1,1 +1,1 @@
-{"name": "Khu_dân_cư_ở_biển_Caspi", "id": 16824759, "predecessors": [{"name": "Biển_Caspi", "id": 123985}, {"name": "Hồ_châu_Âu", "id": 1618089}, {"name": "Địa_lý_châu_Á", "id": 43135}], "successors": [{"name": "Thành_phố_cảng_biển_Caspi", "id": 16832356}]}
+{"name": "Khu_dân_cư_ở_biển_Caspi", "id": 16824759, "predecessors": [{"name": "Biển_Caspi", "id": 123985}, {"name": "Hồ_châu_Âu", "id": 1618089}, {"name": "Hồ", "id": 33356}], "successors": [{"name": "Thành_phố_cảng_biển_Caspi", "id": 16832356}]}

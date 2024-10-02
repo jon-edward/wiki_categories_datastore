@@ -1,1 +1,1 @@
-{"name": "Phép_toán_một_ngôi", "id": 14855536, "predecessors": [{"name": "Hàm_số_và_ánh_xạ", "id": 3272434}, {"name": "Toán_tử_(lập_trình)", "id": 3688685}], "successors": [{"name": "Tính_chẵn_lẻ", "id": 14855504}]}
+{"name": "Phép_toán_một_ngôi", "id": 14855536, "predecessors": [{"name": "1_(số)", "id": 14855539}, {"name": "Hàm_số_và_ánh_xạ", "id": 3272434}, {"name": "Toán_tử_(lập_trình)", "id": 3688685}], "successors": [{"name": "Tính_chẵn_lẻ", "id": 14855504}]}

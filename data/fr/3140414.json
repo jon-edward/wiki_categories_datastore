@@ -1,0 +1,1 @@
+{"name": "Attelage", "id": 3140414, "predecessors": [{"name": "Sport_équestre", "id": 898202}, {"name": "Traction_animale", "id": 3140403}], "successors": [{"name": "Véhicule_hippomobile", "id": 211445}, {"name": "Course_de_chars", "id": 689632}, {"name": "Meneur", "id": 1679170}, {"name": "Cheval_carrossier", "id": 7710557}]}

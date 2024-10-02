@@ -1,1 +1,1 @@
-{"name": "Eo_biển_Biển_Đông", "id": 13475063, "predecessors": [{"name": "Eo_biển_Thái_Bình_Dương", "id": 13376295}, {"name": "Eo_biển_châu_Á", "id": 522555}, {"name": "Thủy_vực_Biển_Đông", "id": 13475065}], "successors": [{"name": "Eo_biển_Đài_Loan", "id": 3176019}, {"name": "Eo_biển_Malacca", "id": 3422280}]}
+{"name": "Eo_biển_Biển_Đông", "id": 13475063, "predecessors": [{"name": "Thủy_vực_Biển_Đông", "id": 13475065}], "successors": [{"name": "Eo_biển_Đài_Loan", "id": 3176019}, {"name": "Eo_biển_Malacca", "id": 3422280}]}

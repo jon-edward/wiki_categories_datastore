@@ -1,1 +1,1 @@
-{"name": "Bệnh_học_thực_vật", "id": 75272, "predecessors": [{"name": "Bệnh", "id": 16308}, {"name": "Sinh_vật_gây_hại", "id": 1706917}, {"name": "Thực_vật", "id": 12825}, {"name": "Thực_vật_học", "id": 1560}, {"name": "Vi_sinh_vật_học", "id": 12912}], "successors": []}
+{"name": "Bệnh_học_thực_vật", "id": 75272, "predecessors": [{"name": "Bệnh", "id": 16308}, {"name": "Thực_vật", "id": 12825}, {"name": "Vi_sinh_vật_học", "id": 12912}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Luật_hợp_đồng", "id": 3429959, "predecessors": [{"name": "Luật_kinh_doanh", "id": 310579}], "successors": [{"name": "Giấy_phép_phần_mềm", "id": 19491588}]}
+{"name": "Luật_hợp_đồng", "id": 3429959, "predecessors": [{"name": "Luật_kinh_doanh", "id": 310579}, {"name": "Thông_luật", "id": 3393629}, {"name": "Luật_pháp", "id": 7508}], "successors": [{"name": "Giấy_phép_phần_mềm", "id": 19491588}, {"name": "Hiệp_ước", "id": 68458}]}

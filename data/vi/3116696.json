@@ -1,1 +1,1 @@
-{"name": "Danh_sách_tổ_chức", "id": 3116696, "predecessors": [{"name": "Danh_sách_xã_hội", "id": 3224531}, {"name": "Tổ_chức", "id": 62092}], "successors": [{"name": "Danh_sách_công_ty", "id": 525091}, {"name": "Danh_sách_chính_đảng", "id": 525145}]}
+{"name": "Danh_sách_tổ_chức", "id": 3116696, "predecessors": [{"name": "Danh_sách_xã_hội", "id": 3224531}], "successors": [{"name": "Danh_sách_công_ty", "id": 525091}, {"name": "Danh_sách_chính_đảng", "id": 525145}]}

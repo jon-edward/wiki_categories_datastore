@@ -1,1 +1,1 @@
-{"name": "Săn_bắt_theo_loài", "id": 14056805, "predecessors": [{"name": "Săn", "id": 3429380}], "successors": [{"name": "Săn_hải_cẩu", "id": 14056802}]}
+{"name": "Săn_bắt_theo_loài", "id": 14056805, "predecessors": [{"name": "Săn", "id": 3429380}], "successors": [{"name": "Săn_bắt_cá_voi", "id": 2530008}, {"name": "Săn_hải_cẩu", "id": 14056802}]}

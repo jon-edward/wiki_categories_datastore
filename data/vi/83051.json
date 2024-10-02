@@ -1,1 +1,1 @@
-{"name": "Hãng_hàng_không_Hoa_Kỳ", "id": 83051, "predecessors": [{"name": "Du_lịch_Hoa_Kỳ", "id": 250522}, {"name": "Hãng_hàng_không", "id": 92608}, {"name": "Kinh_tế_Hoa_Kỳ", "id": 148181}], "successors": [{"name": "Pan_Am", "id": 83052}]}
+{"name": "Hãng_hàng_không_Hoa_Kỳ", "id": 83051, "predecessors": [{"name": "Du_lịch_Hoa_Kỳ", "id": 250522}, {"name": "Hãng_hàng_không", "id": 92608}], "successors": [{"name": "Pan_Am", "id": 83052}]}

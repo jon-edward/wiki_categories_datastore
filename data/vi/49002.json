@@ -1,1 +1,1 @@
-{"name": "Nhạc_sĩ_Áo", "id": 49002, "predecessors": [{"name": "Âm_nhạc_Áo", "id": 49003}, {"name": "Châu_Âu", "id": 1528}], "successors": [{"name": "Nhà_soạn_nhạc_Áo", "id": 49001}, {"name": "Nhạc_trưởng_Áo", "id": 2451139}, {"name": "Nam_ca_sĩ_Áo", "id": 7329839}]}
+{"name": "Nhạc_sĩ_Áo", "id": 49002, "predecessors": [{"name": "Âm_nhạc_Áo", "id": 49003}, {"name": "Người_Áo", "id": 27905}], "successors": [{"name": "Nhà_soạn_nhạc_Áo", "id": 49001}, {"name": "Nhạc_trưởng_Áo", "id": 2451139}, {"name": "Nam_ca_sĩ_Áo", "id": 7329839}]}

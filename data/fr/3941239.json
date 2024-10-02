@@ -1,0 +1,1 @@
+{"name": "Auteur_culinaire", "id": 3941239, "predecessors": [{"name": "Cuisine", "id": 84917}, {"name": "Gastronomie", "id": 82475}, {"name": "Métier", "id": 87726}], "successors": [{"name": "Auteur_de_livre_de_recettes_de_cuisine", "id": 8307032}, {"name": "Auteur_culinaire_français", "id": 14983882}, {"name": "Auteur_culinaire_italien", "id": 14988480}]}

@@ -1,1 +1,1 @@
-{"name": "Vật_liệu_hạt_nhân", "id": 3186853, "predecessors": [{"name": "Công_nghệ_hạt_nhân", "id": 437665}, {"name": "Vật_liệu", "id": 8288}], "successors": [{"name": "Urani", "id": 437504}, {"name": "Chất_độc_neutron", "id": 3416899}, {"name": "Nhiên_liệu_hạt_nhân", "id": 19521531}]}
+{"name": "Vật_liệu_hạt_nhân", "id": 3186853, "predecessors": [{"name": "Công_nghệ_hạt_nhân", "id": 437665}, {"name": "Vật_liệu", "id": 8288}], "successors": [{"name": "Nhiên_liệu_hạt_nhân", "id": 19521531}]}

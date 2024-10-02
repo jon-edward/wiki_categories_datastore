@@ -1,1 +1,1 @@
-{"name": "Visão_computacional", "id": 5335466, "predecessors": [{"name": "Inteligência_artificial", "id": 344046}, {"name": "Visão", "id": 370620}], "successors": [{"name": "Pesquisadores_da_visão_computacional", "id": 6247898}]}
+{"name": "Visão_computacional", "id": 5335466, "predecessors": [{"name": "Engenharia_de_inteligência_artificial", "id": 7442617}, {"name": "Inteligência_artificial", "id": 344046}, {"name": "Visão", "id": 370620}], "successors": [{"name": "Pesquisadores_da_visão_computacional", "id": 6247898}]}

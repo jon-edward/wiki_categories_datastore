@@ -1,1 +1,1 @@
-{"name": "Sáp", "id": 3685927, "predecessors": [{"name": "Ester", "id": 479411}, {"name": "Hóa_chất", "id": 59544}, {"name": "Vật_liệu", "id": 8288}, {"name": "Vật_chất", "id": 72306}], "successors": [{"name": "Acid_béo", "id": 3674769}]}
+{"name": "Sáp", "id": 3685927, "predecessors": [{"name": "Hóa_chất", "id": 59544}, {"name": "Vật_liệu", "id": 8288}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "John_Lennon", "id": 109622, "predecessors": [{"name": "The_Beatles", "id": 68342}], "successors": [{"name": "Bài_hát_của_John_Lennon", "id": 660714}]}
+{"name": "John_Lennon", "id": 109622, "predecessors": [{"name": "The_Beatles", "id": 68342}], "successors": [{"name": "Bài_hát_của_John_Lennon", "id": 660714}, {"name": "Album_của_John_Lennon", "id": 2423225}, {"name": "Bài_hát_viết_bởi_John_Lennon", "id": 15087805}, {"name": "Bài_hát_sản_xuất_bởi_John_Lennon", "id": 19828483}]}

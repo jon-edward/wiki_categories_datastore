@@ -1,1 +1,1 @@
-{"name": "Album_phát_hành_sau_khi_mất", "id": 3155251, "predecessors": [{"name": "Chết", "id": 64794}], "successors": []}
+{"name": "Album_phát_hành_sau_khi_mất", "id": 3155251, "predecessors": [{"name": "Chết", "id": 64794}], "successors": [{"name": "Album_biên_tập_phát_hành_sau_khi_mất", "id": 3155243}]}

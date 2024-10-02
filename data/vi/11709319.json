@@ -1,1 +1,1 @@
-{"name": "Phim_về_doanh_nhân", "id": 11709319, "predecessors": [{"name": "Doanh_nhân", "id": 25655}, {"name": "Tác_phẩm_về_kinh_tế_học", "id": 2460961}], "successors": [{"name": "Phim_tiểu_sử_về_doanh_nhân", "id": 11709318}]}
+{"name": "Phim_về_doanh_nhân", "id": 11709319, "predecessors": [{"name": "Doanh_nhân", "id": 25655}, {"name": "Kinh_doanh", "id": 37648}], "successors": [{"name": "Phim_tiểu_sử_về_doanh_nhân", "id": 11709318}]}

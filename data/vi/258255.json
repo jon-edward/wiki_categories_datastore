@@ -1,1 +1,1 @@
-{"name": "Tỉnh_của_Chile", "id": 258255, "predecessors": [{"name": "Đơn_vị_hành_chính_địa_phương_cấp_2_theo_quốc_gia", "id": 462570}, {"name": "Phân_vùng_quốc_gia_Nam_Mỹ", "id": 9582957}], "successors": [{"name": "Đảo_Phục_Sinh", "id": 1520380}, {"name": "Tỉnh_của_vùng_Valparaíso", "id": 14083953}]}
+{"name": "Tỉnh_của_Chile", "id": 258255, "predecessors": [{"name": "Đơn_vị_hành_chính_địa_phương_cấp_2_theo_quốc_gia", "id": 462570}, {"name": "Chile", "id": 32628}], "successors": [{"name": "Đảo_Phục_Sinh", "id": 1520380}, {"name": "Tỉnh_của_vùng_Valparaíso", "id": 14083953}]}

@@ -1,1 +1,1 @@
-{"name": "Seattle_i_fiktion", "id": 1206346, "predecessors": [{"name": "Washington_i_fiktion", "id": 1110594}, {"name": "Seattle", "id": 994906}, {"name": "USA_i_fiktion", "id": 947198}], "successors": [{"name": "Seattle_på_film", "id": 1206337}]}
+{"name": "Seattle_i_fiktion", "id": 1206346, "predecessors": [{"name": "Washington", "id": 97601}, {"name": "Seattle", "id": 994906}, {"name": "USA_i_fiktion", "id": 947198}], "successors": [{"name": "Seattle_på_film", "id": 1206337}, {"name": "TV-serier_som_utspelar_sig_i_Seattle", "id": 8882958}]}

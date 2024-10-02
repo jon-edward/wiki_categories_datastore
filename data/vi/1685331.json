@@ -1,1 +1,1 @@
-{"name": "Phân_cấp", "id": 1685331, "predecessors": [{"name": "Cấu_trúc", "id": 1439383}, {"name": "Mẫu", "id": 1439378}, {"name": "Thứ_tự", "id": 1685332}], "successors": [{"name": "Phân_loại", "id": 148863}, {"name": "Bất_bình_đẳng_xã_hội", "id": 2437417}]}
+{"name": "Phân_cấp", "id": 1685331, "predecessors": [{"name": "Mẫu", "id": 1439378}], "successors": [{"name": "Phân_loại", "id": 148863}, {"name": "Bất_bình_đẳng_xã_hội", "id": 2437417}]}

@@ -1,0 +1,1 @@
+{"name": "Chocolaterie", "id": 547689, "predecessors": [{"name": "Entreprise_du_chocolat", "id": 8114578}, {"name": "Type_de_commerces", "id": 1049148}], "successors": [{"name": "Chocolaterie_française", "id": 5942477}, {"name": "Chocolaterie_belge", "id": 6493770}, {"name": "Chocolaterie_suisse", "id": 6493873}]}

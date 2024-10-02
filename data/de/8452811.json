@@ -1,0 +1,1 @@
+{"name": "Schulbuchwesen", "id": 8452811, "predecessors": [{"name": "Buchwesen", "id": 7713342}, {"name": "Didaktik", "id": 531181}, {"name": "Schulwesen", "id": 305947}], "successors": [{"name": "Schulbuch", "id": 1954849}, {"name": "Schulbuchverlag", "id": 2888339}, {"name": "Schulbuchtyp", "id": 8452825}, {"name": "Schulbuchautor", "id": 10483438}]}

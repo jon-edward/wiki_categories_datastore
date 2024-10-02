@@ -1,1 +1,1 @@
-{"name": "Bảo_tàng_Hoa_Kỳ", "id": 186005, "predecessors": [{"name": "Cơ_sở_giáo_dục_Hoa_Kỳ", "id": 7857588}, {"name": "Du_lịch_Hoa_Kỳ", "id": 250522}, {"name": "Tổ_chức_có_trụ_sở_tại_Hoa_Kỳ", "id": 3209858}, {"name": "Châu_Mỹ", "id": 27725}], "successors": [{"name": "Viện_bảo_tàng_Smithsonian", "id": 15643391}]}
+{"name": "Bảo_tàng_Hoa_Kỳ", "id": 186005, "predecessors": [{"name": "Du_lịch_Hoa_Kỳ", "id": 250522}, {"name": "Văn_hóa_phương_Tây", "id": 27888}], "successors": [{"name": "Viện_bảo_tàng_Smithsonian", "id": 15643391}]}

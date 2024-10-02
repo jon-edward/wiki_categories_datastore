@@ -1,1 +1,1 @@
-{"name": "Nữ_giới_Thụy_Sĩ", "id": 3640692, "predecessors": [{"name": "Người_Thụy_Sĩ", "id": 7441}, {"name": "Nữ_giới", "id": 2979924}, {"name": "Châu_Âu", "id": 1528}, {"name": "Nữ_giới_theo_quốc_gia", "id": 2979926}], "successors": [{"name": "Nữ_ca_sĩ_Thụy_Sĩ", "id": 3392371}]}
+{"name": "Nữ_giới_Thụy_Sĩ", "id": 3640692, "predecessors": [{"name": "Người_Thụy_Sĩ", "id": 7441}, {"name": "Thụy_Sĩ", "id": 7347}], "successors": [{"name": "Nữ_ca_sĩ_Thụy_Sĩ", "id": 3392371}]}

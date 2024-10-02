@@ -1,1 +1,1 @@
-{"name": "Máy_xoay_tròn", "id": 3143966, "predecessors": [{"name": "Máy_móc", "id": 491738}, {"name": "Xoay_tròn", "id": 3143970}], "successors": [{"name": "Động_cơ", "id": 43050}, {"name": "Tuốc_bin", "id": 395856}]}
+{"name": "Máy_xoay_tròn", "id": 3143966, "predecessors": [{"name": "Máy_móc", "id": 491738}, {"name": "Xoay_tròn", "id": 3143970}], "successors": [{"name": "Động_cơ", "id": 43050}, {"name": "Tuốc_bin", "id": 395856}, {"name": "Bánh_trục", "id": 3143968}]}

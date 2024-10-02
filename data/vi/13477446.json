@@ -1,1 +1,1 @@
-{"name": "Biển_Azov", "id": 13477446, "predecessors": [{"name": "Biển_Nga", "id": 460459}, {"name": "Biển_Địa_Trung_Hải", "id": 13477450}, {"name": "Biển", "id": 16532}], "successors": [{"name": "Bán_đảo_Kerch", "id": 13477466}, {"name": "Lưu_vực_biển_Azov", "id": 13995024}, {"name": "Eo_biển_Kerch", "id": 13477649}]}
+{"name": "Biển_Azov", "id": 13477446, "predecessors": [{"name": "Biển_Nga", "id": 460459}, {"name": "Biển", "id": 16532}], "successors": []}

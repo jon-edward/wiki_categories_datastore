@@ -1,1 +1,1 @@
-{"name": "Mang_thai", "id": 54956, "predecessors": [{"name": "Mẹ", "id": 3383715}, {"name": "Phụ_khoa", "id": 13732}, {"name": "Sinh_sản_con_người", "id": 3247386}], "successors": [{"name": "Kiểm_soát_sinh_sản", "id": 35716}, {"name": "Phim_về_mang_thai", "id": 3165489}]}
+{"name": "Mang_thai", "id": 54956, "predecessors": [{"name": "Phụ_khoa", "id": 13732}, {"name": "Sinh_sản_con_người", "id": 3247386}], "successors": [{"name": "Kiểm_soát_sinh_sản", "id": 35716}, {"name": "Phim_về_mang_thai", "id": 3165489}]}

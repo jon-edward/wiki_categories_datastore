@@ -1,1 +1,1 @@
-{"name": "Amino_acid", "id": 1408654, "predecessors": [{"name": "Acid_carboxylic", "id": 1408651}, {"name": "Amin", "id": 60503}, {"name": "Phân_tử_sinh_học", "id": 1410152}], "successors": []}
+{"name": "Amino_acid", "id": 1408654, "predecessors": [{"name": "Amin", "id": 60503}], "successors": []}

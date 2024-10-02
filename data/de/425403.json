@@ -1,0 +1,1 @@
+{"name": "Mobilfunk", "id": 425403, "predecessors": [{"name": "Mobilfunkdienst", "id": 7453788}, {"name": "Telefonie", "id": 5635002}], "successors": [{"name": "Mobiltelefon", "id": 566716}, {"name": "Handyspiel", "id": 1419483}, {"name": "Mobilfunktechnik", "id": 2337625}, {"name": "Short_Message_Service", "id": 7520685}, {"name": "Mobilfunkanbieter", "id": 1363586}]}

@@ -1,1 +1,1 @@
-{"name": "Hydroxide", "id": 3274837, "predecessors": [{"name": "Base", "id": 9199}, {"name": "Hóa_chất", "id": 59544}, {"name": "Hợp_chất_hydro", "id": 3674796}, {"name": "Hợp_chất_oxy", "id": 3274915}], "successors": []}
+{"name": "Hydroxide", "id": 3274837, "predecessors": [{"name": "Base", "id": 9199}, {"name": "Hóa_chất", "id": 59544}], "successors": [{"name": "Nước", "id": 64811}]}

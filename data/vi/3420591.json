@@ -1,1 +1,1 @@
-{"name": "Thực_vật_Bắc_Cực", "id": 3420591, "predecessors": [{"name": "Môi_trường_Bắc_Cực", "id": 1439343}, {"name": "Địa_lý_học_thực_vật", "id": 13954159}], "successors": [{"name": "Thực_vật_Iceland", "id": 3416760}, {"name": "Thực_vật_Siberia", "id": 3420664}, {"name": "Đài_nguyên", "id": 14097790}]}
+{"name": "Thực_vật_Bắc_Cực", "id": 3420591, "predecessors": [{"name": "Thực_vật", "id": 12825}], "successors": [{"name": "Thực_vật_Iceland", "id": 3416760}, {"name": "Thực_vật_Siberia", "id": 3420664}, {"name": "Đài_nguyên", "id": 14097790}]}

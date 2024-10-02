@@ -1,1 +1,1 @@
-{"name": "Khoáng_vật_silicat", "id": 325179, "predecessors": [{"name": "Silicat", "id": 2457836}, {"name": "Khoáng_chất", "id": 192740}], "successors": []}
+{"name": "Khoáng_vật_silicat", "id": 325179, "predecessors": [{"name": "Khoáng_chất", "id": 192740}], "successors": [{"name": "Silicat_đảo", "id": 328270}, {"name": "Silicat_mạch", "id": 328493}, {"name": "Silicat_lớp", "id": 397493}, {"name": "Silicat_vòng", "id": 518942}, {"name": "Silicat_đảo_kép", "id": 529671}, {"name": "Silicat_khung", "id": 2456940}]}

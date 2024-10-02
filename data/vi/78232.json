@@ -1,1 +1,1 @@
-{"name": "Yokohama", "id": 78232, "predecessors": [{"name": "Khu_định_cư_cảng_Nhật_Bản", "id": 6453973}, {"name": "Thành_phố_tỉnh_Kanagawa", "id": 572601}, {"name": "Đô_thị_cấp_quốc_gia_của_Nhật_Bản", "id": 78786}], "successors": [{"name": "Người_Yokohama", "id": 405120}]}
+{"name": "Yokohama", "id": 78232, "predecessors": [{"name": "Khu_định_cư_cảng_Nhật_Bản", "id": 6453973}], "successors": [{"name": "Người_Yokohama", "id": 405120}, {"name": "Quận_của_Yokohama", "id": 577107}]}

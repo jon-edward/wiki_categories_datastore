@@ -1,1 +1,1 @@
-{"name": "Sân_bay_Na_Uy", "id": 78735, "predecessors": [{"name": "Du_lịch_châu_Âu_theo_quốc_gia", "id": 14791262}, {"name": "Na_Uy", "id": 31214}], "successors": [{"name": "Sân_bay_Finnmark", "id": 253159}, {"name": "Sân_bay_Troms", "id": 254820}]}
+{"name": "Sân_bay_Na_Uy", "id": 78735, "predecessors": [{"name": "Du_lịch_châu_Âu_theo_quốc_gia", "id": 14791262}], "successors": [{"name": "Sân_bay_Finnmark", "id": 253159}, {"name": "Sân_bay_Troms", "id": 254820}]}

@@ -1,1 +1,1 @@
-{"name": "Chính_sách_tiền_tệ", "id": 63703, "predecessors": [{"name": "Chính_sách_kinh_tế", "id": 63704}, {"name": "Chính_sách_kinh_tế_vĩ_mô", "id": 1667545}, {"name": "Kinh_tế_học_vĩ_mô", "id": 52650}], "successors": [{"name": "Tiêu_chuẩn_vàng", "id": 1667544}, {"name": "Liên_minh_tiền_tệ", "id": 3309447}]}
+{"name": "Chính_sách_tiền_tệ", "id": 63703, "predecessors": [{"name": "Chính_sách_kinh_tế", "id": 63704}, {"name": "Chính_sách_kinh_tế_vĩ_mô", "id": 1667545}], "successors": [{"name": "Tiêu_chuẩn_vàng", "id": 1667544}, {"name": "Liên_minh_tiền_tệ", "id": 3309447}]}

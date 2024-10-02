@@ -1,1 +1,1 @@
-{"name": "Plesiosauria", "id": 2306661, "predecessors": [{"name": "Répteis", "id": 50572}, {"name": "Répteis_marinhos", "id": 1426088}, {"name": "Sauropterygia", "id": 4031875}], "successors": []}
+{"name": "Plesiosauria", "id": 2306661, "predecessors": [{"name": "Répteis_marinhos", "id": 1426088}, {"name": "Sauropterygia", "id": 4031875}], "successors": [{"name": "Pliosauridae", "id": 4031795}]}

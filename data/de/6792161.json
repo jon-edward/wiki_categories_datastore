@@ -1,0 +1,1 @@
+{"name": "Warnsystem", "id": 6792161, "predecessors": [{"name": "Alarmierung", "id": 236108}, {"name": "Katastrophenschutz", "id": 349518}, {"name": "Sicherheitspolitik", "id": 726810}], "successors": [{"name": "Radarwarngerät", "id": 11867206}, {"name": "Bevölkerungsschutz-Software", "id": 12612644}]}

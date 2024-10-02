@@ -1,1 +1,1 @@
-{"name": "Nhân_vật_truyền_thuyết_Trung_Hoa", "id": 442958, "predecessors": [{"name": "Nhân_vật_lịch_sử_Trung_Hoa", "id": 442957}, {"name": "Truyền_thuyết_Trung_Hoa", "id": 189379}, {"name": "Nhân_vật_thần_thoại", "id": 107562}], "successors": [{"name": "Nhân_vật_thần_thoại_Trung_Hoa", "id": 442963}]}
+{"name": "Nhân_vật_truyền_thuyết_Trung_Hoa", "id": 442958, "predecessors": [{"name": "Truyền_thuyết_Trung_Hoa", "id": 189379}, {"name": "Nhân_vật_thần_thoại", "id": 107562}], "successors": [{"name": "Nhân_vật_thần_thoại_Trung_Hoa", "id": 442963}]}

@@ -1,0 +1,1 @@
+{"name": "Arithmétique_modulaire", "id": 139880, "predecessors": [{"name": "Calcul_numérique", "id": 88734}, {"name": "Théorie_algébrique_des_nombres", "id": 231440}], "successors": [{"name": "Test_de_primalité", "id": 617143}, {"name": "Algorithme_de_factorisation_des_entiers", "id": 939914}, {"name": "Caractère_de_Dirichlet", "id": 1876589}]}

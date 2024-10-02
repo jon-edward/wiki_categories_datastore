@@ -1,1 +1,1 @@
-{"name": "Chòm_sao_Anh_Tiên", "id": 92059, "predecessors": [{"name": "Chòm_sao", "id": 13693}, {"name": "Chòm_sao_phương_bắc", "id": 14628243}, {"name": "Chòm_sao_theo_Ptolemy", "id": 14625380}], "successors": [{"name": "Cụm_Anh_Tiên", "id": 19515431}]}
+{"name": "Chòm_sao_Anh_Tiên", "id": 92059, "predecessors": [{"name": "Chòm_sao_theo_Ptolemy", "id": 14625380}], "successors": [{"name": "Cụm_Anh_Tiên", "id": 19515431}]}

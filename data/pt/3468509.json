@@ -1,1 +1,1 @@
-{"name": "Toei_tokusatsu", "id": 3468509, "predecessors": [{"name": "Filmes_tokusatsu", "id": 96970}, {"name": "Empresas_do_Japão", "id": 99006}], "successors": [{"name": "Super_Sentai", "id": 155675}, {"name": "Metal_Hero", "id": 499557}, {"name": "Kamen_Rider", "id": 989656}]}
+{"name": "Toei_tokusatsu", "id": 3468509, "predecessors": [{"name": "Tokusatsu", "id": 96970}, {"name": "Empresas_do_Japão", "id": 99006}], "successors": [{"name": "Super_Sentai", "id": 155675}, {"name": "Metal_Hero", "id": 499557}, {"name": "Kamen_Rider", "id": 989656}]}

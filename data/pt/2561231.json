@@ -1,1 +1,1 @@
-{"name": "Participantes_no_Festival_RTP_da_Canção", "id": 2561231, "predecessors": [{"name": "Festival_RTP_da_Canção", "id": 851694}], "successors": [{"name": "Cantores_vencedores_do_Festival_RTP_da_Canção", "id": 4652083}]}
+{"name": "Participantes_no_Festival_RTP_da_Canção", "id": 2561231, "predecessors": [{"name": "Festival_RTP_da_Canção", "id": 851694}, {"name": "Competições", "id": 1562370}], "successors": [{"name": "Cantores_vencedores_do_Festival_RTP_da_Canção", "id": 4652083}]}

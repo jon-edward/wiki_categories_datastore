@@ -1,0 +1,1 @@
+{"name": "Software_de_audio", "id": 2932231, "predecessors": [{"name": "Audio_digital", "id": 221028}], "successors": [{"name": "Códecs_de_audio", "id": 54626}, {"name": "Software_de_música", "id": 475992}, {"name": "Bibliotecas_de_audio", "id": 2228390}, {"name": "Editores_de_audio", "id": 2931843}, {"name": "Software_de_audio_libre", "id": 2932243}]}
