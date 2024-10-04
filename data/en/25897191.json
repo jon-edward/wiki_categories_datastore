@@ -1,1 +1,1 @@
-{"name": "Oxetanes", "id": 25897191, "predecessors": [{"name": "Cyclic_ethers", "id": 61324828}, {"name": "Four-membered_rings", "id": 54414848}, {"name": "Heterocyclic_compounds_with_1_ring", "id": 5235450}], "successors": [{"name": "Taxanes", "id": 39645721}]}
+{"name": "Oxetanes", "id": 25897191, "predecessors": [{"name": "Cyclic_ethers", "id": 61324828}], "successors": [{"name": "Taxanes", "id": 39645721}]}

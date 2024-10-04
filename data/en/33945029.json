@@ -1,1 +1,1 @@
-{"name": "Mutated_genes", "id": 33945029, "predecessors": [{"name": "Mutation", "id": 860079}, {"name": "Genes", "id": 734506}], "successors": [{"name": "Genes_mutated_in_mice", "id": 34087453}]}
+{"name": "Mutated_genes", "id": 33945029, "predecessors": [{"name": "Mutation", "id": 860079}], "successors": [{"name": "Genes_mutated_in_mice", "id": 34087453}]}

@@ -1,1 +1,1 @@
-{"name": "Preventive_dentistry", "id": 74142343, "predecessors": [{"name": "Dentistry_branches", "id": 15024139}, {"name": "Prevention", "id": 4689595}], "successors": [{"name": "Dentifrices", "id": 10027782}]}
+{"name": "Preventive_dentistry", "id": 74142343, "predecessors": [{"name": "Preventive_medicine", "id": 30133979}], "successors": [{"name": "Dentifrices", "id": 10027782}]}

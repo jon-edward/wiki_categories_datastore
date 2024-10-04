@@ -1,1 +1,1 @@
-{"name": "Newspaper_buildings", "id": 57808634, "predecessors": [{"name": "Commercial_real_estate", "id": 24007176}], "successors": []}
+{"name": "Newspaper_buildings", "id": 57808634, "predecessors": [{"name": "Newspapers", "id": 695985}, {"name": "Commercial_real_estate", "id": 24007176}], "successors": []}

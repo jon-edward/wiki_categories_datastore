@@ -1,1 +1,1 @@
-{"name": "Indian_chemical_engineers", "id": 26062738, "predecessors": [{"name": "Indian_scientists", "id": 1066053}], "successors": [{"name": "Indian_fluid_dynamicists", "id": 52192422}]}
+{"name": "Indian_chemical_engineers", "id": 26062738, "predecessors": [{"name": "Chemical_industry", "id": 15176982}], "successors": [{"name": "Indian_fluid_dynamicists", "id": 52192422}]}

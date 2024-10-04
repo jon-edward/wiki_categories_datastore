@@ -1,1 +1,1 @@
-{"name": "Visual_anthropologists", "id": 27536300, "predecessors": [{"name": "Cultural_anthropologists", "id": 12731098}, {"name": "Humanities_academics", "id": 5002303}], "successors": [{"name": "Ethnographers", "id": 3995054}]}
+{"name": "Visual_anthropologists", "id": 27536300, "predecessors": [{"name": "Cultural_anthropologists", "id": 12731098}, {"name": "Visual_anthropology", "id": 6959098}], "successors": [{"name": "Ethnographers", "id": 3995054}]}

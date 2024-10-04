@@ -1,1 +1,1 @@
-{"name": "Geophilidae", "id": 73098378, "predecessors": [{"name": "Centipede_families", "id": 48978141}], "successors": [{"name": "Ribautia", "id": 73121700}, {"name": "Geophilus", "id": 73165050}]}
+{"name": "Geophilidae", "id": 73098378, "predecessors": [{"name": "Centipede_families", "id": 48978141}, {"name": "Geophilomorpha", "id": 48999820}], "successors": [{"name": "Ribautia", "id": 73121700}, {"name": "Geophilus", "id": 73165050}]}

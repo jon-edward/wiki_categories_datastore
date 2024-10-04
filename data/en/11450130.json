@@ -1,1 +1,1 @@
-{"name": "Nature_reserves_in_Dorset", "id": 11450130, "predecessors": [{"name": "Conservation_in_England", "id": 4122865}], "successors": [{"name": "Sites_of_Special_Scientific_Interest_in_Dorset", "id": 5873598}]}
+{"name": "Nature_reserves_in_Dorset", "id": 11450130, "predecessors": [{"name": "Environment_of_Dorset", "id": 5873609}, {"name": "Protected_areas_of_Dorset", "id": 27866812}, {"name": "Tourist_attractions_in_Dorset", "id": 1808558}, {"name": "English_law", "id": 805703}], "successors": [{"name": "Sites_of_Special_Scientific_Interest_in_Dorset", "id": 5873598}]}

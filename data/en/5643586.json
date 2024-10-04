@@ -1,1 +1,1 @@
-{"name": "Dance_notators", "id": 5643586, "predecessors": [{"name": "Dance_notation", "id": 1041222}, {"name": "Dance_culture", "id": 4236708}], "successors": []}
+{"name": "Dance_notators", "id": 5643586, "predecessors": [{"name": "Dance_notation", "id": 1041222}, {"name": "Dance_scholars", "id": 74680410}, {"name": "Dance_culture", "id": 4236708}], "successors": []}

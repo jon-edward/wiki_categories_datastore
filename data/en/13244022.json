@@ -1,1 +1,1 @@
-{"name": "Cestoda", "id": 13244022, "predecessors": [{"name": "Rhabditophora", "id": 52764093}, {"name": "Parasitic_protostomes", "id": 55821909}], "successors": [{"name": "Cestoda_genera", "id": 55698882}, {"name": "Eucestoda", "id": 56077503}]}
+{"name": "Cestoda", "id": 13244022, "predecessors": [{"name": "Parasitic_protostomes", "id": 55821909}], "successors": [{"name": "Cestoda_genera", "id": 55698882}, {"name": "Eucestoda", "id": 56077503}]}

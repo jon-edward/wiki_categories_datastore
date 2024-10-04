@@ -1,1 +1,1 @@
-{"name": "Polyketide_antibiotics", "id": 1590613, "predecessors": [{"name": "Polyketides", "id": 50845643}, {"name": "Antibiotics", "id": 695084}, {"name": "Chemical_compounds", "id": 695235}], "successors": [{"name": "Macrolide_antibiotics", "id": 695373}, {"name": "Tetracycline_antibiotics", "id": 695383}]}
+{"name": "Polyketide_antibiotics", "id": 1590613, "predecessors": [{"name": "Polyketides", "id": 50845643}, {"name": "Antibiotics", "id": 695084}], "successors": [{"name": "Macrolide_antibiotics", "id": 695373}, {"name": "Tetracycline_antibiotics", "id": 695383}]}

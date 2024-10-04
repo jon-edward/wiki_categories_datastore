@@ -1,1 +1,1 @@
-{"name": "Batting_(baseball)", "id": 24731105, "predecessors": [{"name": "Baseball_bats", "id": 52813936}, {"name": "Baseball_terminology", "id": 705046}], "successors": [{"name": "Batting_statistics", "id": 35267716}, {"name": "Hit_(baseball)", "id": 77374540}]}
+{"name": "Batting_(baseball)", "id": 24731105, "predecessors": [{"name": "Baseball_bats", "id": 52813936}, {"name": "Baseball_positions", "id": 705060}, {"name": "Baseball_terminology", "id": 705046}], "successors": [{"name": "Batting_statistics", "id": 35267716}, {"name": "Hit_(baseball)", "id": 77374540}]}

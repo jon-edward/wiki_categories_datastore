@@ -1,1 +1,1 @@
-{"name": "Pancreas", "id": 19401187, "predecessors": [{"name": "Endocrine_system", "id": 692422}, {"name": "Exocrine_system", "id": 720982}], "successors": [{"name": "Pancreas_disorders", "id": 32609517}]}
+{"name": "Pancreas", "id": 19401187, "predecessors": [{"name": "Abdomen", "id": 1703539}, {"name": "Digestive_system", "id": 703214}, {"name": "Endocrine_system", "id": 692422}, {"name": "Exocrine_system", "id": 720982}], "successors": [{"name": "Pancreas_disorders", "id": 32609517}]}

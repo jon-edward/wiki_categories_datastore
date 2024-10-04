@@ -1,1 +1,1 @@
-{"name": "Buildings_and_structures_in_Downtown_Seattle", "id": 77874930, "predecessors": [{"name": "Buildings_and_structures_in_Seattle", "id": 17389395}], "successors": [{"name": "Buildings_and_structures_in_Pioneer_Square,_Seattle", "id": 77875023}]}
+{"name": "Buildings_and_structures_in_Downtown_Seattle", "id": 77874930, "predecessors": [{"name": "Downtown_Seattle", "id": 49502350}, {"name": "Buildings_and_structures_in_Seattle", "id": 17389395}], "successors": [{"name": "Buildings_and_structures_in_Pioneer_Square,_Seattle", "id": 77875023}]}

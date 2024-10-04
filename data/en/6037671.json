@@ -1,1 +1,1 @@
-{"name": "Ontario_Power_Generation", "id": 6037671, "predecessors": [{"name": "Electric_power_companies_of_Ontario", "id": 77355780}, {"name": "Ontario_Hydro", "id": 1688894}, {"name": "Electric_power", "id": 959286}, {"name": "Economy_of_Ontario", "id": 11403785}], "successors": []}
+{"name": "Ontario_Power_Generation", "id": 6037671, "predecessors": [{"name": "Ontario_Hydro", "id": 1688894}, {"name": "Electric_power", "id": 959286}], "successors": []}

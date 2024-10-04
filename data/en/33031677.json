@@ -1,1 +1,1 @@
-{"name": "Nuclear_waste_companies", "id": 33031677, "predecessors": [{"name": "Radioactive_waste", "id": 1007344}, {"name": "Nuclear_industry_organizations", "id": 13634390}], "successors": [{"name": "Radioactive_waste_repositories", "id": 11662081}]}
+{"name": "Nuclear_waste_companies", "id": 33031677, "predecessors": [{"name": "Radioactive_waste", "id": 1007344}, {"name": "Public_utilities", "id": 10812628}, {"name": "Nuclear_industry_organizations", "id": 13634390}], "successors": [{"name": "Radioactive_waste_repositories", "id": 11662081}]}

@@ -1,1 +1,1 @@
-{"name": "Intelligence_education", "id": 35830721, "predecessors": [{"name": "Espionage", "id": 878532}], "successors": [{"name": "Training_establishments_of_the_Special_Operations_Executive", "id": 76552356}]}
+{"name": "Intelligence_education", "id": 35830721, "predecessors": [{"name": "Education_by_subject", "id": 2477717}, {"name": "Espionage", "id": 878532}], "successors": [{"name": "Training_establishments_of_the_Special_Operations_Executive", "id": 76552356}]}

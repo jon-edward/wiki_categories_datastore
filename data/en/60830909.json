@@ -1,1 +1,1 @@
-{"name": "Decompression_theory", "id": 60830909, "predecessors": [{"name": "Scientific_theories", "id": 21991760}, {"name": "Underwater_diving_procedures", "id": 35657647}], "successors": []}
+{"name": "Decompression_theory", "id": 60830909, "predecessors": [{"name": "Scientific_theories", "id": 21991760}], "successors": [{"name": "Decompression_algorithms", "id": 11979719}, {"name": "Decompression_researchers", "id": 60830861}]}

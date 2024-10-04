@@ -1,1 +1,1 @@
-{"name": "Seattle_Seahawks_coaches", "id": 3869425, "predecessors": [{"name": "Seattle_Seahawks", "id": 3394076}], "successors": [{"name": "Seattle_Seahawks_head_coaches", "id": 24595394}]}
+{"name": "Seattle_Seahawks_coaches", "id": 3869425, "predecessors": [{"name": "Seattle_Seahawks", "id": 3394076}, {"name": "Coaches_of_American_football", "id": 20671228}], "successors": [{"name": "Seattle_Seahawks_head_coaches", "id": 24595394}]}

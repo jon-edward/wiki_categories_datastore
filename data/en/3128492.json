@@ -1,1 +1,1 @@
-{"name": "Swedish_motorcycle_racers", "id": 3128492, "predecessors": [{"name": "Sport_in_Sweden", "id": 3058621}], "successors": [{"name": "Swedish_speedway_riders", "id": 14086989}, {"name": "Swedish_motocross_riders", "id": 68454649}]}
+{"name": "Swedish_motorcycle_racers", "id": 3128492, "predecessors": [{"name": "Individual_sports", "id": 862248}], "successors": [{"name": "Swedish_speedway_riders", "id": 14086989}, {"name": "Swedish_motocross_riders", "id": 68454649}]}

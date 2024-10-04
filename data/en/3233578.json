@@ -1,1 +1,1 @@
-{"name": "Physical_constants", "id": 3233578, "predecessors": [{"name": "Empirical_laws", "id": 2269809}, {"name": "Scientific_laws", "id": 37547424}], "successors": [{"name": "Fundamental_constants", "id": 936579}]}
+{"name": "Physical_constants", "id": 3233578, "predecessors": [{"name": "Empirical_laws", "id": 2269809}, {"name": "Measurement", "id": 734262}, {"name": "Physical_quantities", "id": 18726608}, {"name": "Scientific_laws", "id": 37547424}, {"name": "Real_numbers", "id": 736442}], "successors": [{"name": "Fundamental_constants", "id": 936579}]}

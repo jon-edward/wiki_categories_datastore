@@ -1,1 +1,1 @@
-{"name": "Primate_attacks", "id": 48220352, "predecessors": [{"name": "Primate_behavior", "id": 47255370}, {"name": "Mammal_orders", "id": 43534992}, {"name": "Animal_attacks", "id": 11998598}], "successors": []}
+{"name": "Primate_attacks", "id": 48220352, "predecessors": [{"name": "Animal_attacks", "id": 11998598}], "successors": []}

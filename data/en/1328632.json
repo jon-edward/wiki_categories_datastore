@@ -1,1 +1,1 @@
-{"name": "Flash_cartoons", "id": 1328632, "predecessors": [{"name": "Adobe_Flash", "id": 7880628}, {"name": "Web_animation", "id": 916999}], "successors": [{"name": "Flash_animated_web_series", "id": 57612578}]}
+{"name": "Flash_cartoons", "id": 1328632, "predecessors": [{"name": "Adobe_Flash", "id": 7880628}, {"name": "Web_animation", "id": 916999}], "successors": [{"name": "Flash_television_shows", "id": 20884497}, {"name": "Flash_animated_films", "id": 57611008}, {"name": "Flash_animated_web_series", "id": 57612578}]}

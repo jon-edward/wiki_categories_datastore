@@ -1,1 +1,1 @@
-{"name": "Units_of_information", "id": 756539, "predecessors": [{"name": "Information_theory", "id": 694025}, {"name": "Units_of_measurement", "id": 37973176}], "successors": [{"name": "Data_unit", "id": 6156939}]}
+{"name": "Units_of_information", "id": 756539, "predecessors": [{"name": "Information", "id": 1009209}, {"name": "Information_theory", "id": 694025}, {"name": "Units_of_measurement", "id": 37973176}], "successors": [{"name": "Data_unit", "id": 6156939}]}

@@ -1,1 +1,1 @@
-{"name": "American_male_sprinters", "id": 51196430, "predecessors": [{"name": "American_male_track_and_field_athletes", "id": 43286602}], "successors": [{"name": "Puerto_Rican_male_sprinters", "id": 51317675}, {"name": "United_States_Virgin_Islands_male_sprinters", "id": 51347739}]}
+{"name": "American_male_sprinters", "id": 51196430, "predecessors": [{"name": "Running", "id": 847059}], "successors": [{"name": "Puerto_Rican_male_sprinters", "id": 51317675}, {"name": "United_States_Virgin_Islands_male_sprinters", "id": 51347739}]}

@@ -1,1 +1,1 @@
-{"name": "Swedish_governesses", "id": 50011148, "predecessors": [{"name": "Child_care_occupations", "id": 1014488}, {"name": "Swedish_educators", "id": 5243001}], "successors": [{"name": "Governesses_to_the_Swedish_monarchy", "id": 57069818}]}
+{"name": "Swedish_governesses", "id": 50011148, "predecessors": [{"name": "Child_care_occupations", "id": 1014488}, {"name": "Domestic_workers", "id": 4684029}, {"name": "Education_in_Sweden", "id": 932091}], "successors": [{"name": "Governesses_to_the_Swedish_monarchy", "id": 57069818}]}

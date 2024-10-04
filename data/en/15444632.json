@@ -1,1 +1,1 @@
-{"name": "Electrical_standards", "id": 15444632, "predecessors": [{"name": "Electrical_systems", "id": 4274881}], "successors": [{"name": "Electrical_connectors", "id": 893681}, {"name": "Battery_shapes", "id": 5415736}, {"name": "Electrical_safety_standards_organizations", "id": 70286432}]}
+{"name": "Electrical_standards", "id": 15444632, "predecessors": [{"name": "Electrical_systems", "id": 4274881}, {"name": "Standards", "id": 724561}], "successors": [{"name": "Battery_shapes", "id": 5415736}, {"name": "Electrical_safety_standards_organizations", "id": 70286432}]}

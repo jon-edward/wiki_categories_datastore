@@ -1,1 +1,1 @@
-{"name": "Books_about_the_Bible", "id": 56148903, "predecessors": [{"name": "Biblical_studies", "id": 8272798}, {"name": "Religion_in_popular_culture", "id": 8937011}], "successors": [{"name": "Books_about_Jesus", "id": 47228204}, {"name": "Books_based_on_the_Bible", "id": 56148848}]}
+{"name": "Books_about_the_Bible", "id": 56148903, "predecessors": [{"name": "Biblical_studies", "id": 8272798}, {"name": "Religious_texts", "id": 694048}], "successors": [{"name": "Books_about_Jesus", "id": 47228204}, {"name": "Books_based_on_the_Bible", "id": 56148848}]}

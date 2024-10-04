@@ -1,1 +1,1 @@
-{"name": "Individual_cows", "id": 50885903, "predecessors": [{"name": "Female_mammals", "id": 36776654}, {"name": "Artiodactyls", "id": 922678}], "successors": []}
+{"name": "Individual_cows", "id": 50885903, "predecessors": [{"name": "Cattle", "id": 972888}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Iridoids", "id": 29998866, "predecessors": [{"name": "Heterocyclic_compounds_with_2_rings", "id": 4488801}, {"name": "Monoterpenes", "id": 26932912}, {"name": "Oxygen_heterocycles", "id": 3217714}, {"name": "Phytochemicals", "id": 2983462}], "successors": []}
+{"name": "Iridoids", "id": 29998866, "predecessors": [{"name": "Monoterpenes", "id": 26932912}, {"name": "Oxygen_heterocycles", "id": 3217714}, {"name": "Phytochemicals", "id": 2983462}], "successors": [{"name": "Iridoid_glycosides", "id": 29998856}]}

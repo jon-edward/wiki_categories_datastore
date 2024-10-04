@@ -1,1 +1,1 @@
-{"name": "Telemetry", "id": 3450459, "predecessors": [{"name": "Telecommunications", "id": 700813}], "successors": [{"name": "Deep_space_networks", "id": 26262516}]}
+{"name": "Telemetry", "id": 3450459, "predecessors": [{"name": "Measurement", "id": 734262}, {"name": "Telecommunications", "id": 700813}], "successors": []}

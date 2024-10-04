@@ -1,1 +1,1 @@
-{"name": "Emetics", "id": 884754, "predecessors": [{"name": "Toxicology_treatments", "id": 32638019}, {"name": "Vomiting", "id": 4574651}], "successors": []}
+{"name": "Emetics", "id": 884754, "predecessors": [{"name": "Drugs_acting_on_the_gastrointestinal_system_and_metabolism", "id": 22260378}, {"name": "Toxicology_treatments", "id": 32638019}, {"name": "Vomiting", "id": 4574651}], "successors": []}

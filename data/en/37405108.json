@@ -1,1 +1,1 @@
-{"name": "Hanging", "id": 37405108, "predecessors": [{"name": "Human_head_and_neck", "id": 36703875}], "successors": [{"name": "Deaths_by_hanging", "id": 5401646}, {"name": "Suicides_by_hanging", "id": 4654914}]}
+{"name": "Hanging", "id": 37405108, "predecessors": [{"name": "Execution_methods", "id": 3427490}, {"name": "Human_head_and_neck", "id": 36703875}, {"name": "Abuse", "id": 691808}], "successors": [{"name": "Deaths_by_hanging", "id": 5401646}, {"name": "Suicides_by_hanging", "id": 4654914}]}

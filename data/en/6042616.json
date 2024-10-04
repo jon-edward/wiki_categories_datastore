@@ -1,1 +1,1 @@
-{"name": "South_African_wine", "id": 6042616, "predecessors": [{"name": "South_African_cuisine", "id": 1851466}, {"name": "Society_of_South_Africa", "id": 2678340}], "successors": []}
+{"name": "South_African_wine", "id": 6042616, "predecessors": [{"name": "South_African_cuisine", "id": 1851466}, {"name": "Wine_by_country", "id": 6042237}, {"name": "Health_by_country", "id": 2693630}], "successors": [{"name": "Wineries_of_South_Africa", "id": 4422720}]}

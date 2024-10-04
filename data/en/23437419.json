@@ -1,1 +1,1 @@
-{"name": "Student_film_festivals", "id": 23437419, "predecessors": [{"name": "Student_films", "id": 23471718}, {"name": "Entertainment", "id": 693016}], "successors": []}
+{"name": "Student_film_festivals", "id": 23437419, "predecessors": [{"name": "Student_films", "id": 23471718}, {"name": "Arts_events", "id": 27486124}], "successors": [{"name": "World_Festival_of_Youth_and_Students", "id": 29079330}]}

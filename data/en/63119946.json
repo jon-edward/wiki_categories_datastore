@@ -1,1 +1,1 @@
-{"name": "Cranberries", "id": 63119946, "predecessors": [{"name": "Berries", "id": 17115366}, {"name": "Edible_fruits", "id": 39951547}, {"name": "Vaccinium", "id": 12923912}], "successors": [{"name": "Cocktails_with_cranberry_juice", "id": 62126125}]}
+{"name": "Cranberries", "id": 63119946, "predecessors": [{"name": "Berries", "id": 17115366}, {"name": "Edible_fruits", "id": 39951547}], "successors": [{"name": "Cocktails_with_cranberry_juice", "id": 62126125}]}

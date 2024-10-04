@@ -1,1 +1,1 @@
-{"name": "Books_about_economic_inequality", "id": 45250539, "predecessors": [{"name": "Economic_inequality", "id": 22857441}], "successors": [{"name": "Books_about_wealth_distribution", "id": 39975654}]}
+{"name": "Books_about_economic_inequality", "id": 45250539, "predecessors": [{"name": "Economics_books", "id": 1224240}, {"name": "Economic_inequality", "id": 22857441}], "successors": [{"name": "Books_about_wealth_distribution", "id": 39975654}]}

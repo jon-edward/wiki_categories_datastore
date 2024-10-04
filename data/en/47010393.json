@@ -1,1 +1,0 @@
-{"name": "FK_Austria_Wien_non-playing_staff", "id": 47010393, "predecessors": [{"name": "Football_clubs_in_Vienna", "id": 39408841}, {"name": "Football_in_Austria", "id": 3062303}], "successors": [{"name": "FK_Austria_Wien_managers", "id": 20136529}]}

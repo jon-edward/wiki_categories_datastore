@@ -1,1 +1,1 @@
-{"name": "Digital_tabletop_games", "id": 50965308, "predecessors": [{"name": "Strategy_video_games", "id": 10249117}, {"name": "Tabletop_games", "id": 967265}], "successors": [{"name": "Digital_card_games", "id": 11222748}]}
+{"name": "Digital_tabletop_games", "id": 50965308, "predecessors": [{"name": "Strategy_video_games", "id": 10249117}, {"name": "Tabletop_games", "id": 967265}], "successors": [{"name": "Digital_card_games", "id": 11222748}, {"name": "Digital_tabletop_role-playing_games", "id": 70615153}, {"name": "Digital_board_games", "id": 70615245}]}

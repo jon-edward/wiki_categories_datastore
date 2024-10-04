@@ -1,1 +1,0 @@
-{"name": "Terrestrial_locomotion", "id": 34907754, "predecessors": [{"name": "Animal_locomotion", "id": 44745208}], "successors": [{"name": "Running", "id": 847059}, {"name": "Horse_gaits", "id": 3540414}, {"name": "Walking", "id": 6824611}, {"name": "Rolling_animals", "id": 22004047}]}

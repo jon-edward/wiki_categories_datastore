@@ -1,1 +1,1 @@
-{"name": "Papier-mâché", "id": 72097612, "predecessors": [{"name": "Paper_art", "id": 2328835}, {"name": "Sculpture_materials", "id": 10308784}], "successors": []}
+{"name": "Papier-mâché", "id": 72097612, "predecessors": [{"name": "Composite_materials", "id": 944345}, {"name": "Paper_art", "id": 2328835}, {"name": "Sculpture_materials", "id": 10308784}], "successors": []}

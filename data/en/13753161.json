@@ -1,1 +1,1 @@
-{"name": "Electric_vehicle_battery_manufacturers", "id": 13753161, "predecessors": [{"name": "Battery_manufacturers", "id": 3515528}, {"name": "Electric_vehicles", "id": 961956}], "successors": []}
+{"name": "Electric_vehicle_battery_manufacturers", "id": 13753161, "predecessors": [{"name": "Battery_manufacturers", "id": 3515528}, {"name": "Electric_vehicles", "id": 961956}, {"name": "Rechargeable_batteries", "id": 4518680}], "successors": []}

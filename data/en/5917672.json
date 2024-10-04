@@ -1,1 +1,1 @@
-{"name": "Auction_theory", "id": 5917672, "predecessors": [{"name": "Game_theory", "id": 774008}, {"name": "Market_structure", "id": 5038095}, {"name": "Business_models", "id": 1228999}], "successors": [{"name": "Types_of_auction", "id": 62922734}]}
+{"name": "Auction_theory", "id": 5917672, "predecessors": [{"name": "Game_theory", "id": 774008}, {"name": "Market_structure", "id": 5038095}, {"name": "Business_models", "id": 1228999}], "successors": [{"name": "Types_of_auction", "id": 62922734}, {"name": "Bidding_strategy", "id": 64617150}]}

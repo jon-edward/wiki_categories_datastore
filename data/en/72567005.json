@@ -1,1 +1,1 @@
-{"name": "Cottages", "id": 72567005, "predecessors": [{"name": "Agricultural_buildings", "id": 4145201}, {"name": "House_types", "id": 803191}, {"name": "Vernacular_architecture", "id": 7381096}], "successors": [{"name": "Cottage_orné", "id": 36918770}, {"name": "Cottage_hospitals", "id": 46985737}]}
+{"name": "Cottages", "id": 72567005, "predecessors": [{"name": "Agricultural_buildings", "id": 4145201}, {"name": "House_types", "id": 803191}], "successors": [{"name": "Cottage_orné", "id": 36918770}, {"name": "Cottage_hospitals", "id": 46985737}]}

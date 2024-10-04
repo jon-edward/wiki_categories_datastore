@@ -1,1 +1,1 @@
-{"name": "Chalices", "id": 23409303, "predecessors": [{"name": "Artworks_in_metal", "id": 18420811}, {"name": "Drinkware", "id": 1424894}, {"name": "Eucharistic_objects", "id": 2106859}, {"name": "Christian_art", "id": 1189213}], "successors": [{"name": "Holy_Grail", "id": 5343890}]}
+{"name": "Chalices", "id": 23409303, "predecessors": [{"name": "Artworks_in_metal", "id": 18420811}, {"name": "Ceremonial_magic", "id": 42136480}, {"name": "Drinkware", "id": 1424894}, {"name": "Eucharistic_objects", "id": 2106859}], "successors": [{"name": "Holy_Grail", "id": 5343890}]}

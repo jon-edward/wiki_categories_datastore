@@ -1,0 +1,1 @@
+{"name": "3D_rendering", "id": 40650408, "predecessors": [{"name": "3D_computer_graphics", "id": 2138831}], "successors": [{"name": "Texture_mapping", "id": 26201786}, {"name": "Global_illumination_algorithms", "id": 36690509}]}

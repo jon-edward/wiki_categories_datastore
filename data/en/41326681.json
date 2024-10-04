@@ -1,1 +1,1 @@
-{"name": "American_restaurant_critics", "id": 41326681, "predecessors": [{"name": "American_critics", "id": 21378590}, {"name": "American_food_writers", "id": 3035172}, {"name": "American_journalists", "id": 939429}], "successors": []}
+{"name": "American_restaurant_critics", "id": 41326681, "predecessors": [{"name": "American_critics", "id": 21378590}, {"name": "American_food_writers", "id": 3035172}, {"name": "Restaurant_critics", "id": 28137078}, {"name": "American_journalists", "id": 939429}], "successors": []}

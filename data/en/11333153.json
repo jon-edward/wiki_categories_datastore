@@ -1,1 +1,1 @@
-{"name": "Chess_in_Spain", "id": 11333153, "predecessors": [{"name": "Abstract_strategy_games", "id": 3290901}, {"name": "Sport_in_Spain", "id": 3058492}], "successors": [{"name": "Spanish_chess_players", "id": 2063455}, {"name": "Spanish_chess_writers", "id": 31135662}]}
+{"name": "Chess_in_Spain", "id": 11333153, "predecessors": [{"name": "Sport_in_Spain", "id": 3058492}, {"name": "Board_games", "id": 9205892}], "successors": [{"name": "Spanish_chess_players", "id": 2063455}, {"name": "Spanish_chess_writers", "id": 31135662}]}

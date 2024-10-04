@@ -1,1 +1,1 @@
-{"name": "Hospital_chapels", "id": 77465485, "predecessors": [{"name": "Hospitals", "id": 791496}], "successors": []}
+{"name": "Hospital_chapels", "id": 77465485, "predecessors": [{"name": "Chapels", "id": 812750}, {"name": "Hospitals", "id": 791496}], "successors": []}

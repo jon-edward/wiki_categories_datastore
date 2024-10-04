@@ -1,1 +1,1 @@
-{"name": "Organ_transplantation_journals", "id": 39134499, "predecessors": [{"name": "Immunology_journals", "id": 12952773}, {"name": "Surgery_journals", "id": 20281497}], "successors": []}
+{"name": "Organ_transplantation_journals", "id": 39134499, "predecessors": [{"name": "Organ_transplantation", "id": 38959574}, {"name": "Surgery_journals", "id": 20281497}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Pens", "id": 7283286, "predecessors": [{"name": "Writing_implements", "id": 34766664}, {"name": "Tools", "id": 846098}], "successors": [{"name": "Pen_manufacturers", "id": 51555482}, {"name": "Ballpoint_pen_art", "id": 70604733}]}
+{"name": "Pens", "id": 7283286, "predecessors": [{"name": "Writing_implements", "id": 34766664}], "successors": [{"name": "Pen_manufacturers", "id": 51555482}, {"name": "Ballpoint_pen_art", "id": 70604733}]}

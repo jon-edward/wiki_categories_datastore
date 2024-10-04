@@ -1,1 +1,1 @@
-{"name": "Conjugated_dienes", "id": 60929067, "predecessors": [{"name": "Dienes", "id": 698095}, {"name": "Hydrocarbons", "id": 695870}], "successors": [{"name": "Furans", "id": 987581}, {"name": "2-Pyrones", "id": 26762345}, {"name": "Cyclohexadienes", "id": 29324872}, {"name": "Cyclopentadienes", "id": 57189921}]}
+{"name": "Conjugated_dienes", "id": 60929067, "predecessors": [{"name": "Dienes", "id": 698095}, {"name": "Hydrocarbons", "id": 695870}], "successors": [{"name": "Furans", "id": 987581}, {"name": "2-Pyrones", "id": 26762345}]}

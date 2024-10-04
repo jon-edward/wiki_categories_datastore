@@ -1,1 +1,1 @@
-{"name": "Tax_policy", "id": 53294724, "predecessors": [{"name": "Fiscal_policy", "id": 6534006}, {"name": "Tax", "id": 1241037}], "successors": [{"name": "Tax_reform", "id": 2194301}, {"name": "Taxation_and_redistribution", "id": 7597065}]}
+{"name": "Tax_policy", "id": 53294724, "predecessors": [{"name": "Fiscal_policy", "id": 6534006}, {"name": "Tax", "id": 1241037}], "successors": [{"name": "Tax_reform", "id": 2194301}, {"name": "Taxation_and_redistribution", "id": 7597065}, {"name": "Tax_incidence", "id": 7598273}, {"name": "Tax_credits", "id": 14691375}]}

@@ -1,1 +1,1 @@
-{"name": "GHB_receptor_agonists", "id": 44364775, "predecessors": [{"name": "Receptor_agonists", "id": 22002801}], "successors": []}
+{"name": "GHB_receptor_agonists", "id": 44364775, "predecessors": [{"name": "Receptor_agonists", "id": 22002801}, {"name": "Signal_transduction", "id": 754106}], "successors": []}

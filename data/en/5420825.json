@@ -1,1 +1,1 @@
-{"name": "Kharkiv_Metro_stations", "id": 5420825, "predecessors": [{"name": "Buildings_and_structures_in_Kharkiv", "id": 34227680}, {"name": "Oblasts_of_Ukraine", "id": 17763066}, {"name": "Railway_buildings_and_structures", "id": 41204871}], "successors": []}
+{"name": "Kharkiv_Metro_stations", "id": 5420825, "predecessors": [{"name": "Rapid_transit", "id": 4286827}, {"name": "Railway_buildings_and_structures", "id": 41204871}], "successors": []}

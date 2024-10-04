@@ -1,1 +1,1 @@
-{"name": "Hostage_rescue_operations", "id": 43345100, "predecessors": [{"name": "Counterterrorism", "id": 3223549}, {"name": "Hostage_taking", "id": 2395034}], "successors": [{"name": "Hostage_negotiators", "id": 52748203}, {"name": "Operation_Entebbe", "id": 22701880}]}
+{"name": "Hostage_rescue_operations", "id": 43345100, "predecessors": [{"name": "Counterterrorism", "id": 3223549}, {"name": "Hostage_taking", "id": 2395034}, {"name": "Military_operations_by_type", "id": 7797117}, {"name": "Rescue", "id": 1013590}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Atari_ST_software", "id": 2529029, "predecessors": [{"name": "Atari_ST", "id": 2468226}, {"name": "Software_development", "id": 1470317}, {"name": "Operating_systems", "id": 693664}, {"name": "Home_computers", "id": 707669}], "successors": []}
+{"name": "Atari_ST_software", "id": 2529029, "predecessors": [{"name": "Atari_ST", "id": 2468226}, {"name": "Software_development", "id": 1470317}, {"name": "Operating_systems", "id": 693664}], "successors": [{"name": "Atari_ST_games", "id": 826055}]}

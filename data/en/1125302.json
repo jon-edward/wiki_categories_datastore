@@ -1,1 +1,1 @@
-{"name": "Sukhoi_aircraft", "id": 1125302, "predecessors": [{"name": "Aircraft_manufacturers_of_Russia", "id": 10713487}, {"name": "Aviation_in_the_Soviet_Union", "id": 4678331}, {"name": "Vehicles", "id": 694929}, {"name": "United_Aircraft_Corporation", "id": 16382204}], "successors": []}
+{"name": "Sukhoi_aircraft", "id": 1125302, "predecessors": [{"name": "Aviation_in_the_Soviet_Union", "id": 4678331}, {"name": "Transport", "id": 5523119}, {"name": "Aviation", "id": 735378}], "successors": [{"name": "Sukhoi_Su-27_family_aircraft", "id": 77371919}]}

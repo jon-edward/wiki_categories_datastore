@@ -1,1 +1,1 @@
-{"name": "Nicotinic_agonists", "id": 890002, "predecessors": [{"name": "Cholinergics", "id": 43114403}, {"name": "Nicotinic_acetylcholine_receptors", "id": 53775327}], "successors": [{"name": "Neonicotinoids", "id": 57123879}]}
+{"name": "Nicotinic_agonists", "id": 890002, "predecessors": [{"name": "Cholinergics", "id": 43114403}, {"name": "Nicotinic_acetylcholine_receptors", "id": 53775327}, {"name": "Drugs_acting_on_the_nervous_system", "id": 22001763}], "successors": [{"name": "Neonicotinoids", "id": 57123879}]}

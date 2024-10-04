@@ -1,1 +1,1 @@
-{"name": "FA_Cup_finals", "id": 5177339, "predecessors": [{"name": "Endings", "id": 52707259}], "successors": [{"name": "FA_Cup_final_referees", "id": 9344070}, {"name": "FA_Cup_final_venues", "id": 37894455}]}
+{"name": "FA_Cup_finals", "id": 5177339, "predecessors": [{"name": "FA_Cup", "id": 2497155}, {"name": "FA_Cup_matches", "id": 23198151}, {"name": "FA_Cup_seasons", "id": 13010083}, {"name": "Endings", "id": 52707259}], "successors": [{"name": "FA_Cup_final_referees", "id": 9344070}, {"name": "FA_Cup_final_venues", "id": 37894455}]}

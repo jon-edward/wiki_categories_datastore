@@ -1,1 +1,1 @@
-{"name": "British_women_jazz_musicians", "id": 77903649, "predecessors": [{"name": "British_jazz_musicians", "id": 2057285}, {"name": "British_musicians", "id": 699440}], "successors": []}
+{"name": "British_women_jazz_musicians", "id": 77903649, "predecessors": [{"name": "Women_jazz_musicians", "id": 34525838}, {"name": "British_musicians", "id": 699440}], "successors": [{"name": "British_women_jazz_singers", "id": 54502831}, {"name": "British_women_jazz_pianists", "id": 77755432}, {"name": "British_women_jazz_saxophonists", "id": 77903570}]}

@@ -1,1 +1,1 @@
-{"name": "Sports_venues_in_Veneto", "id": 34760880, "predecessors": [{"name": "Sport_in_Veneto", "id": 34760884}, {"name": "Tourist_attractions_in_Veneto", "id": 34700160}, {"name": "Veneto", "id": 1041847}, {"name": "Sports_venues_in_Italy", "id": 2305886}], "successors": []}
+{"name": "Sports_venues_in_Veneto", "id": 34760880, "predecessors": [{"name": "Sports_venues_in_Italy", "id": 2305886}, {"name": "Architecture_in_Italy", "id": 869965}], "successors": []}

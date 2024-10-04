@@ -1,1 +1,1 @@
-{"name": "Gas-filled_tubes", "id": 27000634, "predecessors": [{"name": "Glass_applications", "id": 15377712}, {"name": "Vacuum_tubes", "id": 1010995}, {"name": "Electric_arcs", "id": 15802612}], "successors": [{"name": "Gas_discharge_lamps", "id": 15802367}]}
+{"name": "Gas-filled_tubes", "id": 27000634, "predecessors": [{"name": "Vacuum_tubes", "id": 1010995}], "successors": [{"name": "Gas_discharge_lamps", "id": 15802367}]}

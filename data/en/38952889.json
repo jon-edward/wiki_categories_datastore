@@ -1,1 +1,1 @@
-{"name": "Cars_powered_by_boxer_engines", "id": 38952889, "predecessors": [{"name": "Boxer_engines", "id": 15896236}, {"name": "Car_models", "id": 13698345}], "successors": [{"name": "Volkswagen_Beetle", "id": 44070670}]}
+{"name": "Cars_powered_by_boxer_engines", "id": 38952889, "predecessors": [{"name": "Engines", "id": 743017}], "successors": []}

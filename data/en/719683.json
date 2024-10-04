@@ -1,0 +1,1 @@
+{"name": "Protein_kinases", "id": 719683, "predecessors": [{"name": "Transferases", "id": 719740}], "successors": [{"name": "Tyrosine_kinases", "id": 719688}, {"name": "EC_2.7.11", "id": 5613247}]}

@@ -1,1 +1,1 @@
-{"name": "Intermediate-range_ballistic_missiles", "id": 1930511, "predecessors": [{"name": "Ballistic_missiles", "id": 1023781}], "successors": []}
+{"name": "Intermediate-range_ballistic_missiles", "id": 1930511, "predecessors": [{"name": "Ballistic_missiles", "id": 1023781}, {"name": "Guided_missiles", "id": 1930532}], "successors": []}

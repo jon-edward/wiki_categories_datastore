@@ -1,1 +1,1 @@
-{"name": "International_named_passenger_trains", "id": 20215258, "predecessors": [{"name": "Trains", "id": 1784707}, {"name": "Borders", "id": 1854524}], "successors": [{"name": "Trans_Europ_Express", "id": 38611942}, {"name": "EuroCity", "id": 38634090}]}
+{"name": "International_named_passenger_trains", "id": 20215258, "predecessors": [{"name": "International_rail_transport", "id": 20215268}, {"name": "Passenger_rail_transport", "id": 5356605}], "successors": [{"name": "Trans_Europ_Express", "id": 38611942}, {"name": "EuroCity", "id": 38634090}]}

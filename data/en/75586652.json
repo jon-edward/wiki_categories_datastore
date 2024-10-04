@@ -1,1 +1,1 @@
-{"name": "Women_slave_traders", "id": 75586652, "predecessors": [{"name": "Women_slave_owners", "id": 70743837}, {"name": "Kidnappers", "id": 13987659}, {"name": "Women_and_employment", "id": 63694012}], "successors": []}
+{"name": "Women_slave_traders", "id": 75586652, "predecessors": [{"name": "Women_slave_owners", "id": 70743837}, {"name": "Slave_owners", "id": 45188171}, {"name": "Women_and_employment", "id": 63694012}], "successors": []}

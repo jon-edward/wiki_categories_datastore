@@ -1,1 +1,1 @@
-{"name": "Italian_exploitation_films", "id": 71108291, "predecessors": [{"name": "Italian_films_by_genre", "id": 15669856}], "successors": [{"name": "Italian_sexploitation_films", "id": 71108192}]}
+{"name": "Italian_exploitation_films", "id": 71108291, "predecessors": [{"name": "Exploitation_films", "id": 2481622}, {"name": "Italian_films_by_genre", "id": 15669856}], "successors": [{"name": "Italian_sexploitation_films", "id": 71108192}]}

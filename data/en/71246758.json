@@ -1,1 +1,1 @@
-{"name": "Businesspeople_in_the_pulp_and_paper_industry", "id": 71246758, "predecessors": [{"name": "Business", "id": 771152}], "successors": [{"name": "Papermakers", "id": 6417612}]}
+{"name": "Businesspeople_in_the_pulp_and_paper_industry", "id": 71246758, "predecessors": [{"name": "Businesspeople_in_manufacturing", "id": 67894549}, {"name": "Pulp_and_paper_industry", "id": 1139631}], "successors": [{"name": "Papermakers", "id": 6417612}]}

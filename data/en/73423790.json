@@ -1,1 +1,1 @@
-{"name": "Rock_music_historians", "id": 73423790, "predecessors": [{"name": "Rock_music", "id": 692809}, {"name": "Music_historians", "id": 11668153}], "successors": []}
+{"name": "Rock_music_historians", "id": 73423790, "predecessors": [{"name": "History_of_rock_music", "id": 77994460}, {"name": "Rock_music", "id": 692809}, {"name": "Music_genres", "id": 4826123}], "successors": [{"name": "Beatles_historians", "id": 73673770}]}

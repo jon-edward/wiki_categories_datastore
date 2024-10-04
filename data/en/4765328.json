@@ -1,1 +1,1 @@
-{"name": "Neurolinguistics", "id": 4765328, "predecessors": [{"name": "Psycholinguistics", "id": 1055958}], "successors": []}
+{"name": "Neurolinguistics", "id": 4765328, "predecessors": [{"name": "Cognitive_science", "id": 957793}, {"name": "Psycholinguistics", "id": 1055958}, {"name": "Science_experiments", "id": 1126634}, {"name": "Linguistics", "id": 693798}], "successors": []}

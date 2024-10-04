@@ -1,1 +1,1 @@
-{"name": "Hippocampus_(brain)", "id": 53598425, "predecessors": [{"name": "Limbic_system", "id": 3743303}, {"name": "Neuroscience_of_memory", "id": 69648092}], "successors": []}
+{"name": "Hippocampus_(brain)", "id": 53598425, "predecessors": [{"name": "Cerebral_cortex", "id": 53599393}, {"name": "Limbic_system", "id": 3743303}, {"name": "Neuroscience_of_memory", "id": 69648092}, {"name": "Temporal_lobe", "id": 53653973}, {"name": "Cerebrum", "id": 749784}], "successors": []}

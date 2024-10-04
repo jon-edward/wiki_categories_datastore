@@ -1,1 +1,1 @@
-{"name": "Color_appearance_phenomena", "id": 15704415, "predecessors": [{"name": "Color", "id": 979606}, {"name": "Color_vision", "id": 55373443}, {"name": "Optical_phenomena", "id": 1776538}, {"name": "Visual_perception", "id": 18328389}], "successors": []}
+{"name": "Color_appearance_phenomena", "id": 15704415, "predecessors": [{"name": "Color", "id": 979606}, {"name": "Color_vision", "id": 55373443}, {"name": "Optical_phenomena", "id": 1776538}, {"name": "Psychophysics", "id": 16888641}], "successors": []}

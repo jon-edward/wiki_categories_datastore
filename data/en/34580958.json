@@ -1,1 +1,1 @@
-{"name": "Spanish_bankers", "id": 34580958, "predecessors": [{"name": "Banking_by_country", "id": 5578355}, {"name": "Economy_of_Spain", "id": 1298602}], "successors": [{"name": "Governors_of_the_Bank_of_Spain", "id": 57540065}]}
+{"name": "Spanish_bankers", "id": 34580958, "predecessors": [{"name": "Bankers", "id": 855391}, {"name": "Banking_by_country", "id": 5578355}], "successors": [{"name": "Governors_of_the_Bank_of_Spain", "id": 57540065}]}

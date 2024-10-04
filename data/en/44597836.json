@@ -1,1 +1,1 @@
-{"name": "AMPA_receptor_antagonists", "id": 44597836, "predecessors": [{"name": "Ionotropic_glutamate_receptors", "id": 53680489}, {"name": "Glutamate_(neurotransmitter)", "id": 53668777}], "successors": []}
+{"name": "AMPA_receptor_antagonists", "id": 44597836, "predecessors": [{"name": "Ionotropic_glutamate_receptors", "id": 53680489}, {"name": "Signal_transduction", "id": 754106}], "successors": []}

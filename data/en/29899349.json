@@ -1,1 +1,1 @@
-{"name": "Counterfeit_consumer_goods", "id": 29899349, "predecessors": [{"name": "Commercial_crimes", "id": 1418756}, {"name": "Consumer_fraud", "id": 7428216}, {"name": "Forgery", "id": 735422}], "successors": []}
+{"name": "Counterfeit_consumer_goods", "id": 29899349, "predecessors": [{"name": "Consumer_fraud", "id": 7428216}, {"name": "Forgery", "id": 735422}], "successors": [{"name": "Anti-counterfeiting", "id": 52121723}]}

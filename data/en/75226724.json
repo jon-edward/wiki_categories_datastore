@@ -1,1 +1,1 @@
-{"name": "Combination_antihypertensive_drugs", "id": 75226724, "predecessors": [{"name": "Antihypertensive_agents", "id": 718652}], "successors": []}
+{"name": "Combination_antihypertensive_drugs", "id": 75226724, "predecessors": [{"name": "Antihypertensive_agents", "id": 718652}, {"name": "Combination_drugs", "id": 27641879}], "successors": []}

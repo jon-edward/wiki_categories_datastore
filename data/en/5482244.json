@@ -1,1 +1,1 @@
-{"name": "Pheromones", "id": 5482244, "predecessors": [{"name": "Olfaction", "id": 1061081}, {"name": "Chemical_compounds", "id": 695235}], "successors": [{"name": "Insect_pheromones", "id": 34216534}, {"name": "Mammalian_pheromones", "id": 38561841}]}
+{"name": "Pheromones", "id": 5482244, "predecessors": [{"name": "Chemical_ecology", "id": 26986497}, {"name": "Olfaction", "id": 1061081}, {"name": "Semiochemicals", "id": 65987992}], "successors": [{"name": "Insect_pheromones", "id": 34216534}, {"name": "Mammalian_pheromones", "id": 38561841}]}

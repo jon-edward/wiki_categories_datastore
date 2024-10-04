@@ -1,1 +1,1 @@
-{"name": "Forensic_psychiatry", "id": 23189989, "predecessors": [{"name": "Forensic_disciplines", "id": 24241646}, {"name": "Psychiatry", "id": 718542}], "successors": [{"name": "Forensic_psychiatrists", "id": 11307429}]}
+{"name": "Forensic_psychiatry", "id": 23189989, "predecessors": [{"name": "Psychiatry", "id": 718542}], "successors": [{"name": "Forensic_psychiatrists", "id": 11307429}]}

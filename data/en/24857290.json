@@ -1,1 +1,1 @@
-{"name": "Leper_hospitals", "id": 24857290, "predecessors": [{"name": "Leprosy", "id": 3861642}], "successors": [{"name": "Japanese_leper_hospital_administrators", "id": 39595702}]}
+{"name": "Leper_hospitals", "id": 24857290, "predecessors": [{"name": "Leprosy", "id": 3861642}, {"name": "Types_of_hospitals", "id": 71789932}], "successors": [{"name": "Japanese_leper_hospital_administrators", "id": 39595702}]}

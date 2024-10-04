@@ -1,1 +1,1 @@
-{"name": "Windows_compression_software", "id": 1323582, "predecessors": [{"name": "File_archivers", "id": 20094145}], "successors": []}
+{"name": "Windows_compression_software", "id": 1323582, "predecessors": [{"name": "Data_compression_software", "id": 946143}], "successors": []}

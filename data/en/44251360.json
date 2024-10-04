@@ -1,1 +1,1 @@
-{"name": "Tool-using_animals", "id": 44251360, "predecessors": [{"name": "Animals_by_adaptation", "id": 50053927}, {"name": "Tools", "id": 846098}], "successors": [{"name": "Tool-using_mammals", "id": 44251510}]}
+{"name": "Tool-using_animals", "id": 44251360, "predecessors": [{"name": "Animals_by_adaptation", "id": 50053927}, {"name": "Ethology", "id": 2650082}, {"name": "Tools", "id": 846098}], "successors": [{"name": "Tool-using_mammals", "id": 44251510}]}

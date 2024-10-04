@@ -1,1 +1,1 @@
-{"name": "Fundraising_events", "id": 56665616, "predecessors": [{"name": "Fundraising", "id": 23548469}], "successors": [{"name": "Telethons", "id": 9136889}]}
+{"name": "Fundraising_events", "id": 56665616, "predecessors": [{"name": "Fundraising", "id": 23548469}], "successors": [{"name": "Telethons", "id": 9136889}, {"name": "Charity_events", "id": 49122184}]}

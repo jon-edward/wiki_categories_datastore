@@ -1,1 +1,1 @@
-{"name": "Partial_zero-emissions_vehicles", "id": 15785120, "predecessors": [{"name": "Emissions_reduction", "id": 2644560}, {"name": "Green_vehicles", "id": 1380896}], "successors": []}
+{"name": "Partial_zero-emissions_vehicles", "id": 15785120, "predecessors": [{"name": "Emissions_reduction", "id": 2644560}, {"name": "Green_vehicles", "id": 1380896}], "successors": [{"name": "Hybrid_vehicles", "id": 934650}]}

@@ -1,1 +1,1 @@
-{"name": "Tobacco_buildings_in_the_United_States", "id": 57234683, "predecessors": [{"name": "Tobacco_in_the_United_States", "id": 19364030}], "successors": [{"name": "Cigar_factories_on_the_National_Register_of_Historic_Places", "id": 77298094}]}
+{"name": "Tobacco_buildings_in_the_United_States", "id": 57234683, "predecessors": [{"name": "Tobacco_buildings", "id": 57234049}, {"name": "Tobacco_in_the_United_States", "id": 19364030}], "successors": [{"name": "Cigar_factories_on_the_National_Register_of_Historic_Places", "id": 77298094}]}

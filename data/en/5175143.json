@@ -1,1 +1,1 @@
-{"name": "Geostatistics", "id": 5175143, "predecessors": [{"name": "Spatial_analysis", "id": 17228412}], "successors": []}
+{"name": "Geostatistics", "id": 5175143, "predecessors": [{"name": "Spatial_analysis", "id": 17228412}, {"name": "Geographic_data_and_information", "id": 51208626}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Israeli_women_diplomats", "id": 56186332, "predecessors": [{"name": "Women_government_officials", "id": 37165591}], "successors": [{"name": "Israeli_women_ambassadors", "id": 63574976}]}
+{"name": "Israeli_women_diplomats", "id": 56186332, "predecessors": [{"name": "Israeli_diplomats", "id": 3418707}, {"name": "Israeli_civil_servants", "id": 4090279}], "successors": [{"name": "Israeli_women_ambassadors", "id": 63574976}]}

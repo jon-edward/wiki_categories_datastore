@@ -1,1 +1,1 @@
-{"name": "Microbiology_organizations", "id": 40640794, "predecessors": [{"name": "Microbiology", "id": 726300}], "successors": [{"name": "Culture_collections", "id": 41252326}, {"name": "Microbiology_institutes", "id": 54841792}, {"name": "Antimicrobial_resistance_organizations", "id": 57262786}, {"name": "Microbiology_societies", "id": 75105614}]}
+{"name": "Microbiology_organizations", "id": 40640794, "predecessors": [{"name": "Biology_organizations", "id": 8860574}], "successors": [{"name": "Antimicrobial_resistance_organizations", "id": 57262786}]}

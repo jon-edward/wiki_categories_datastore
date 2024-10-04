@@ -1,1 +1,1 @@
-{"name": "Fish_of_Chile", "id": 16862245, "predecessors": [{"name": "Environment_of_Chile", "id": 6736041}], "successors": [{"name": "Freshwater_fish_of_Chile", "id": 31298497}]}
+{"name": "Fish_of_Chile", "id": 16862245, "predecessors": [{"name": "Environment_of_Chile", "id": 6736041}, {"name": "Fauna_of_Chile", "id": 725100}], "successors": [{"name": "Freshwater_fish_of_Chile", "id": 31298497}]}

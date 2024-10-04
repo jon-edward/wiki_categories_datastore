@@ -1,1 +1,1 @@
-{"name": "Deaths_from_foodborne_illnesses", "id": 17913618, "predecessors": [{"name": "Food_safety_scandals", "id": 19434228}, {"name": "Infectious_diseases", "id": 707355}], "successors": []}
+{"name": "Deaths_from_foodborne_illnesses", "id": 17913618, "predecessors": [{"name": "Deaths_from_digestive_disease", "id": 19627699}, {"name": "Food_safety_scandals", "id": 19434228}, {"name": "Foodborne_illnesses", "id": 1081967}, {"name": "Infectious_diseases", "id": 707355}], "successors": []}

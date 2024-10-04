@@ -1,1 +1,1 @@
-{"name": "Plant_nutrition", "id": 51873783, "predecessors": [{"name": "Land_management", "id": 4413012}, {"name": "Nutrition", "id": 9936002}, {"name": "Plant_physiology", "id": 717191}], "successors": [{"name": "Fertilizers", "id": 18364955}]}
+{"name": "Plant_nutrition", "id": 51873783, "predecessors": [{"name": "Land_management", "id": 4413012}, {"name": "Nutrition", "id": 9936002}], "successors": [{"name": "Fertilizers", "id": 18364955}]}

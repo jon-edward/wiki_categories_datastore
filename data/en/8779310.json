@@ -1,1 +1,1 @@
-{"name": "World_record_holders_in_swimming", "id": 8779310, "predecessors": [{"name": "Sports_world_record_holders", "id": 31125329}], "successors": [{"name": "World_record_holders_in_paralympic_swimming", "id": 21264298}]}
+{"name": "World_record_holders_in_swimming", "id": 8779310, "predecessors": [{"name": "World_record_setters_in_swimming", "id": 9963481}, {"name": "Competitions", "id": 737119}], "successors": [{"name": "World_record_holders_in_paralympic_swimming", "id": 21264298}]}

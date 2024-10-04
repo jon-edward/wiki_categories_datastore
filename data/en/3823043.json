@@ -1,1 +1,1 @@
-{"name": "Java_device_platform", "id": 3823043, "predecessors": [{"name": "Personal_digital_assistant_software", "id": 18168249}, {"name": "Mobile_software", "id": 10473202}], "successors": [{"name": "J2ME_games", "id": 69154944}]}
+{"name": "Java_device_platform", "id": 3823043, "predecessors": [{"name": "Personal_digital_assistant_software", "id": 18168249}, {"name": "Mobile_software", "id": 10473202}], "successors": [{"name": "J2ME_games", "id": 69154944}, {"name": "Series_40_devices", "id": 76880675}]}

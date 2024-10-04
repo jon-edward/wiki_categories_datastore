@@ -1,1 +1,1 @@
-{"name": "Deuterated_solvents", "id": 9268743, "predecessors": [{"name": "Deuterated_compounds", "id": 53685905}, {"name": "Deuterium", "id": 74385705}, {"name": "Nuclear_magnetic_resonance", "id": 3937372}, {"name": "Solvents", "id": 1921212}], "successors": []}
+{"name": "Deuterated_solvents", "id": 9268743, "predecessors": [{"name": "Deuterated_compounds", "id": 53685905}, {"name": "Deuterium", "id": 74385705}], "successors": []}

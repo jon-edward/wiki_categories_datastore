@@ -1,1 +1,1 @@
-{"name": "Kodak_cameras", "id": 39171480, "predecessors": [{"name": "Kodak", "id": 39172212}], "successors": [{"name": "Kodak_EasyShare_cameras", "id": 36445754}]}
+{"name": "Kodak_cameras", "id": 39171480, "predecessors": [{"name": "Cameras_by_brand", "id": 1975579}, {"name": "Kodak", "id": 39172212}], "successors": [{"name": "Kodak_EasyShare_cameras", "id": 36445754}]}

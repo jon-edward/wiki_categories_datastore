@@ -1,1 +1,1 @@
-{"name": "Kappa-opioid_receptor_agonists", "id": 27101186, "predecessors": [{"name": "G_protein-coupled_receptors", "id": 719555}], "successors": [{"name": "Morphine", "id": 35026059}]}
+{"name": "Kappa-opioid_receptor_agonists", "id": 27101186, "predecessors": [{"name": "Opioids", "id": 719361}, {"name": "Opioid_modulators", "id": 69104888}], "successors": [{"name": "Morphine", "id": 35026059}]}

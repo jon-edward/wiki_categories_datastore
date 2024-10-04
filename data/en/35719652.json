@@ -1,1 +1,1 @@
-{"name": "World_Curling_Tour", "id": 35719652, "predecessors": [{"name": "Sports_competition_series", "id": 42860193}], "successors": [{"name": "Champions_Curling_Tour_events", "id": 51401891}]}
+{"name": "World_Curling_Tour", "id": 35719652, "predecessors": [{"name": "Sports_competition_series", "id": 42860193}], "successors": [{"name": "World_Curling_Tour_events", "id": 25669712}, {"name": "Champions_Curling_Tour_events", "id": 51401891}]}

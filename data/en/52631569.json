@@ -1,1 +1,1 @@
-{"name": "Noise_(electronics)", "id": 52631569, "predecessors": [{"name": "Applications_of_randomness", "id": 52536092}, {"name": "Signal_processing", "id": 763505}, {"name": "Telecommunication_theory", "id": 12810241}], "successors": []}
+{"name": "Noise_(electronics)", "id": 52631569, "predecessors": [{"name": "Applications_of_randomness", "id": 52536092}, {"name": "Signal_processing", "id": 763505}, {"name": "Telecommunication_theory", "id": 12810241}], "successors": [{"name": "Noise_(graphics)", "id": 52723976}]}

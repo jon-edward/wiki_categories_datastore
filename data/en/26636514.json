@@ -1,1 +1,1 @@
-{"name": "Hospitals_in_Dhaka", "id": 26636514, "predecessors": [{"name": "Buildings_and_structures_in_Dhaka", "id": 4839289}, {"name": "Health_by_country", "id": 2693630}], "successors": []}
+{"name": "Hospitals_in_Dhaka", "id": 26636514, "predecessors": [{"name": "Health_by_country", "id": 2693630}], "successors": [{"name": "Bangabandhu_Sheikh_Mujib_Medical_University_affiliates", "id": 76272748}]}

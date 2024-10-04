@@ -1,1 +1,1 @@
-{"name": "Forensic_genetics", "id": 46916937, "predecessors": [{"name": "Forensic_science", "id": 1306118}], "successors": [{"name": "DNA_profiling_techniques", "id": 14848921}]}
+{"name": "Forensic_genetics", "id": 46916937, "predecessors": [{"name": "Applied_genetics", "id": 1343759}, {"name": "Forensic_science", "id": 1306118}], "successors": [{"name": "DNA_profiling_techniques", "id": 14848921}]}

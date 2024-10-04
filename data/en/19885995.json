@@ -1,1 +1,1 @@
-{"name": "Convulsants", "id": 19885995, "predecessors": [{"name": "Neurotoxins", "id": 755003}], "successors": []}
+{"name": "Convulsants", "id": 19885995, "predecessors": [{"name": "Neurotoxins", "id": 755003}, {"name": "Drugs_by_mechanism_of_action", "id": 22001991}], "successors": []}

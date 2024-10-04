@@ -1,1 +1,1 @@
-{"name": "Toxicology_treatments", "id": 32638019, "predecessors": [{"name": "Medical_treatments", "id": 694975}, {"name": "Toxicology", "id": 1043816}], "successors": [{"name": "Emetics", "id": 884754}]}
+{"name": "Toxicology_treatments", "id": 32638019, "predecessors": [{"name": "Medical_treatments", "id": 694975}, {"name": "Toxicology", "id": 1043816}], "successors": [{"name": "Antidotes", "id": 780158}, {"name": "Emetics", "id": 884754}, {"name": "Alternative_detoxification", "id": 20074731}]}

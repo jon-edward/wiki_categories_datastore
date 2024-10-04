@@ -1,1 +1,1 @@
-{"name": "Aston_Martin_vehicles", "id": 852591, "predecessors": [{"name": "Aston_Martin", "id": 852918}, {"name": "Cars_of_England", "id": 8357578}, {"name": "Luxury_vehicles", "id": 1028860}], "successors": [{"name": "Lagonda_vehicles", "id": 3910461}, {"name": "Aston_Martin_racing_cars", "id": 19249895}]}
+{"name": "Aston_Martin_vehicles", "id": 852591, "predecessors": [{"name": "Aston_Martin", "id": 852918}, {"name": "Luxury_vehicles", "id": 1028860}], "successors": [{"name": "Aston_Martin_racing_cars", "id": 19249895}]}

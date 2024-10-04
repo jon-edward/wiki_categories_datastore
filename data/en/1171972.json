@@ -1,1 +1,1 @@
-{"name": "Car_doors", "id": 1171972, "predecessors": [{"name": "Automotive_body_parts", "id": 20816801}, {"name": "Vehicle_parts", "id": 23450032}], "successors": []}
+{"name": "Car_doors", "id": 1171972, "predecessors": [{"name": "Automotive_body_parts", "id": 20816801}, {"name": "Doors", "id": 2867563}], "successors": []}

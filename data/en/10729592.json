@@ -1,1 +1,1 @@
-{"name": "Arts_centres_in_Australia", "id": 10729592, "predecessors": [{"name": "Art_museums_and_galleries_in_Australia", "id": 1000645}, {"name": "Arts_in_Australia", "id": 3082264}, {"name": "Culture_of_Australia", "id": 699831}], "successors": [{"name": "Performing_arts_centres_in_Australia", "id": 36140015}]}
+{"name": "Arts_centres_in_Australia", "id": 10729592, "predecessors": [{"name": "Art_museums_and_galleries_in_Australia", "id": 1000645}, {"name": "Arts_centres", "id": 1024182}], "successors": [{"name": "Performing_arts_centres_in_Australia", "id": 36140015}]}

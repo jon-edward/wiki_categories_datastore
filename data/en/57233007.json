@@ -1,1 +1,1 @@
-{"name": "Cannabis_industry", "id": 57233007, "predecessors": [{"name": "Cannabis", "id": 1512579}, {"name": "Pharmaceutical_industry", "id": 2161287}], "successors": []}
+{"name": "Cannabis_industry", "id": 57233007, "predecessors": [{"name": "Cannabis", "id": 1512579}, {"name": "Pharmaceutical_industry", "id": 2161287}], "successors": [{"name": "Cannabis_companies", "id": 45540522}, {"name": "Businesspeople_in_the_cannabis_industry", "id": 57430747}]}

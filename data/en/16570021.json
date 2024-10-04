@@ -1,1 +1,1 @@
-{"name": "Manx_Electric_Railway", "id": 16570021, "predecessors": [{"name": "550_V_DC_railway_electrification", "id": 50953146}, {"name": "Track_gauges", "id": 42344383}, {"name": "Transport_in_the_Isle_of_Man", "id": 25685322}, {"name": "Rail_transport_in_Europe", "id": 5351311}], "successors": []}
+{"name": "Manx_Electric_Railway", "id": 16570021, "predecessors": [{"name": "550_V_DC_railway_electrification", "id": 50953146}, {"name": "Autonomous_regions", "id": 31692410}], "successors": []}

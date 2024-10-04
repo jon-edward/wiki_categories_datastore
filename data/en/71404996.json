@@ -1,1 +1,1 @@
-{"name": "Scintigraphy", "id": 71404996, "predecessors": [{"name": "2D_nuclear_medical_imaging", "id": 32445663}, {"name": "Medical_imaging", "id": 1745805}], "successors": []}
+{"name": "Scintigraphy", "id": 71404996, "predecessors": [{"name": "Medical_imaging", "id": 1745805}], "successors": []}

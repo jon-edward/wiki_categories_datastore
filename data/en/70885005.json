@@ -1,1 +1,1 @@
-{"name": "4,5-Epoxymorphinans", "id": 70885005, "predecessors": [{"name": "Dibenzofurans", "id": 25897138}, {"name": "Heterocyclic_compounds_with_5_rings", "id": 67571107}, {"name": "Morphinans", "id": 5488793}, {"name": "Amines", "id": 725878}], "successors": [{"name": "Morphine", "id": 35026059}]}
+{"name": "4,5-Epoxymorphinans", "id": 70885005, "predecessors": [{"name": "Dibenzofurans", "id": 25897138}, {"name": "Morphinans", "id": 5488793}, {"name": "Amines", "id": 725878}], "successors": [{"name": "Morphine", "id": 35026059}]}

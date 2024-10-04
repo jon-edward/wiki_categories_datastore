@@ -1,1 +1,1 @@
-{"name": "Beta-lactamase_inhibitors", "id": 2321959, "predecessors": [{"name": "Antibiotics", "id": 695084}], "successors": []}
+{"name": "Beta-lactamase_inhibitors", "id": 2321959, "predecessors": [{"name": "Hydrolase_inhibitors", "id": 32657731}, {"name": "Antibiotics", "id": 695084}], "successors": []}

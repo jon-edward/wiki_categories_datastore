@@ -1,1 +1,1 @@
-{"name": "Peugeot_vehicles", "id": 920225, "predecessors": [{"name": "Cars_of_France", "id": 14761671}, {"name": "Peugeot", "id": 771870}], "successors": [{"name": "Talbot_vehicles", "id": 1059444}, {"name": "Peugeot_concept_vehicles", "id": 43589227}, {"name": "Peugeot_motorcycles", "id": 66951458}]}
+{"name": "Peugeot_vehicles", "id": 920225, "predecessors": [{"name": "Cars_of_France", "id": 14761671}, {"name": "Peugeot", "id": 771870}], "successors": [{"name": "Peugeot_concept_vehicles", "id": 43589227}, {"name": "Peugeot_motorcycles", "id": 66951458}]}

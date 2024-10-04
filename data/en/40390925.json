@@ -1,1 +1,1 @@
-{"name": "Freight_rolling_stock", "id": 40390925, "predecessors": [{"name": "Rolling_stock", "id": 1103564}], "successors": [{"name": "British_railway_wagons", "id": 24647016}, {"name": "Freight_locomotives", "id": 41498661}]}
+{"name": "Freight_rolling_stock", "id": 40390925, "predecessors": [{"name": "Rail_freight_transport", "id": 20691971}, {"name": "Rolling_stock", "id": 1103564}], "successors": [{"name": "British_railway_wagons", "id": 24647016}, {"name": "Freight_locomotives", "id": 41498661}]}

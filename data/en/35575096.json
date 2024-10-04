@@ -1,1 +1,1 @@
-{"name": "NATO_military_personnel", "id": 35575096, "predecessors": [{"name": "NATO_personnel", "id": 49154378}], "successors": [{"name": "NATO_Supreme_Allied_Commanders", "id": 16616467}]}
+{"name": "NATO_military_personnel", "id": 35575096, "predecessors": [{"name": "NATO_personnel", "id": 49154378}, {"name": "Military_organization", "id": 1054894}], "successors": [{"name": "NATO_Supreme_Allied_Commanders", "id": 16616467}]}

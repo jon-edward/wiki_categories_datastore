@@ -1,1 +1,1 @@
-{"name": "Neurotransmitter_precursors", "id": 75474600, "predecessors": [{"name": "Neurotransmitters", "id": 717823}], "successors": [{"name": "Monoamine_precursors", "id": 71427548}]}
+{"name": "Neurotransmitter_precursors", "id": 75474600, "predecessors": [{"name": "Neurotransmitters", "id": 717823}, {"name": "Prodrugs", "id": 8280050}], "successors": [{"name": "Monoamine_precursors", "id": 71427548}]}

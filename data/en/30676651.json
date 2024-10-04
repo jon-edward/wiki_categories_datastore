@@ -1,1 +1,1 @@
-{"name": "Oceania_Athletics_Championships", "id": 30676651, "predecessors": [{"name": "Oceania_Athletics_Association_competitions", "id": 56949566}, {"name": "Oceanian_championships", "id": 30164115}], "successors": []}
+{"name": "Oceania_Athletics_Championships", "id": 30676651, "predecessors": [{"name": "Continental_athletics_championships", "id": 56947886}, {"name": "Oceania_Athletics_Association_competitions", "id": 56949566}, {"name": "Oceanian_championships", "id": 30164115}], "successors": [{"name": "Oceanian_Athletics_Championships_winners", "id": 63467603}]}

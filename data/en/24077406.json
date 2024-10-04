@@ -1,1 +1,1 @@
-{"name": "Bus_companies_of_Switzerland", "id": 24077406, "predecessors": [{"name": "Transport_companies_of_Switzerland", "id": 29894319}, {"name": "Public_transport_in_Switzerland", "id": 6495572}, {"name": "Bus_operating_companies", "id": 12185357}], "successors": []}
+{"name": "Bus_companies_of_Switzerland", "id": 24077406, "predecessors": [{"name": "Transport_companies_of_Switzerland", "id": 29894319}, {"name": "Road_transport", "id": 700964}, {"name": "Bus_operating_companies", "id": 12185357}], "successors": []}

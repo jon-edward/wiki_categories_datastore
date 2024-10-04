@@ -1,1 +1,1 @@
-{"name": "McLaren_vehicles", "id": 20009716, "predecessors": [{"name": "Cars_of_England", "id": 8357578}, {"name": "Luxury_vehicles", "id": 1028860}, {"name": "McLaren_Group", "id": 62270076}], "successors": [{"name": "McLaren_racing_cars", "id": 20009711}]}
+{"name": "McLaren_vehicles", "id": 20009716, "predecessors": [{"name": "Luxury_vehicles", "id": 1028860}, {"name": "McLaren_Group", "id": 62270076}], "successors": [{"name": "McLaren_racing_cars", "id": 20009711}]}

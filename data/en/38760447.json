@@ -1,1 +1,1 @@
-{"name": "Combined_track_and_field_events", "id": 38760447, "predecessors": [{"name": "Combination_events", "id": 36657394}, {"name": "Individual_sports", "id": 862248}], "successors": []}
+{"name": "Combined_track_and_field_events", "id": 38760447, "predecessors": [{"name": "Athletics_by_type", "id": 31203195}, {"name": "Combination_events", "id": 36657394}, {"name": "Events_in_track_and_field", "id": 19650184}, {"name": "Individual_sports", "id": 862248}], "successors": [{"name": "Team_Bath_pentathletes", "id": 63838055}]}

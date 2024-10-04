@@ -1,1 +1,1 @@
-{"name": "Fitness_magazines", "id": 6523424, "predecessors": [{"name": "Physical_exercise", "id": 34955640}], "successors": []}
+{"name": "Fitness_magazines", "id": 6523424, "predecessors": [{"name": "Health_magazines", "id": 8885377}, {"name": "Physical_exercise", "id": 34955640}, {"name": "Printing", "id": 774014}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Vending_machines", "id": 9460877, "predecessors": [{"name": "Automation", "id": 885076}, {"name": "Commercial_machines", "id": 18608853}], "successors": [{"name": "Vending_machine_manufacturers", "id": 6773009}]}
+{"name": "Vending_machines", "id": 9460877, "predecessors": [{"name": "Automation", "id": 885076}, {"name": "Commercial_machines", "id": 18608853}, {"name": "Vending", "id": 2578666}], "successors": [{"name": "Vending_machine_manufacturers", "id": 6773009}]}

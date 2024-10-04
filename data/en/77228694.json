@@ -1,1 +1,1 @@
-{"name": "Cultural_activism", "id": 77228694, "predecessors": [{"name": "Activism", "id": 905806}], "successors": [{"name": "Culture_jamming", "id": 1267630}, {"name": "Cultural_activists", "id": 77228615}]}
+{"name": "Cultural_activism", "id": 77228694, "predecessors": [{"name": "Culture", "id": 694861}, {"name": "Activism", "id": 905806}], "successors": [{"name": "Culture_jamming", "id": 1267630}, {"name": "Cultural_activists", "id": 77228615}]}

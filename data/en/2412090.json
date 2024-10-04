@@ -1,1 +1,1 @@
-{"name": "Pipe_bands", "id": 2412090, "predecessors": [{"name": "Bagpiping", "id": 4650019}, {"name": "Marching_bands", "id": 1270344}], "successors": [{"name": "Scottish_pipe_bands", "id": 33165143}]}
+{"name": "Pipe_bands", "id": 2412090, "predecessors": [{"name": "Bagpiping", "id": 4650019}, {"name": "Marching_bands", "id": 1270344}], "successors": [{"name": "Grade_1_pipe_bands", "id": 1986955}, {"name": "World_Pipe_Band_Championships_winners", "id": 7376864}, {"name": "Grade_2_pipe_bands", "id": 12028418}, {"name": "Scottish_pipe_bands", "id": 33165143}]}

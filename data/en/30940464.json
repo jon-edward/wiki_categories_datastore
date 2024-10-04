@@ -1,1 +1,1 @@
-{"name": "Animation_educators", "id": 30940464, "predecessors": [{"name": "Art_educators", "id": 7917157}, {"name": "Animation", "id": 691460}], "successors": [{"name": "USC_School_of_Cinematic_Arts_faculty", "id": 62733222}]}
+{"name": "Animation_educators", "id": 30940464, "predecessors": [{"name": "Art_educators", "id": 7917157}, {"name": "Film_educators", "id": 11302670}, {"name": "Education_by_subject", "id": 2477717}, {"name": "Animation", "id": 691460}], "successors": [{"name": "USC_School_of_Cinematic_Arts_faculty", "id": 62733222}]}

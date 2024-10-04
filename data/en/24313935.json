@@ -1,1 +1,1 @@
-{"name": "Postal_officials", "id": 24313935, "predecessors": [{"name": "Postal_systems", "id": 878463}], "successors": [{"name": "Postmasters", "id": 5103699}, {"name": "Mail_carriers", "id": 35182584}]}
+{"name": "Postal_officials", "id": 24313935, "predecessors": [{"name": "Postal_systems", "id": 878463}, {"name": "Government_officials", "id": 8567895}], "successors": [{"name": "Postmasters", "id": 5103699}, {"name": "Mail_carriers", "id": 35182584}]}

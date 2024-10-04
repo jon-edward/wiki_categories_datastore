@@ -1,1 +1,1 @@
-{"name": "University_of_Warsaw", "id": 14256366, "predecessors": [{"name": "Universities_and_colleges_in_Warsaw", "id": 6839757}], "successors": [{"name": "Academic_staff_of_the_University_of_Warsaw", "id": 14256255}]}
+{"name": "University_of_Warsaw", "id": 14256366, "predecessors": [{"name": "Universities_and_colleges_in_Warsaw", "id": 6839757}], "successors": [{"name": "University_of_Warsaw_alumni", "id": 14255998}, {"name": "Academic_staff_of_the_University_of_Warsaw", "id": 14256255}]}

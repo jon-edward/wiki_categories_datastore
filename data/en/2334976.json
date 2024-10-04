@@ -1,0 +1,1 @@
+{"name": "Chemical_tests", "id": 2334976, "predecessors": [{"name": "Analytical_chemistry", "id": 695001}, {"name": "Laboratory_techniques", "id": 1305783}, {"name": "Tests", "id": 7058186}], "successors": [{"name": "PH_indicators", "id": 1446561}, {"name": "Biochemistry_detection_methods", "id": 65795945}]}

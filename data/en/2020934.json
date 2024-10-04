@@ -1,1 +1,1 @@
-{"name": "Inflation", "id": 2020934, "predecessors": [{"name": "Monetary_economics", "id": 6329341}], "successors": [{"name": "Price_indices", "id": 18385089}, {"name": "Inflation_by_country", "id": 39101466}]}
+{"name": "Inflation", "id": 2020934, "predecessors": [{"name": "Macroeconomic_problems", "id": 54326547}, {"name": "Monetary_economics", "id": 6329341}, {"name": "Economic_problems", "id": 10320597}], "successors": [{"name": "Price_indices", "id": 18385089}, {"name": "Inflation_by_country", "id": 39101466}]}

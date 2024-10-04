@@ -1,1 +1,1 @@
-{"name": "Argentine_stage_actresses", "id": 38378677, "predecessors": [{"name": "Argentine_actresses", "id": 38190671}, {"name": "Culture_of_Argentina", "id": 719449}], "successors": [{"name": "Argentine_musical_theatre_actresses", "id": 38482244}]}
+{"name": "Argentine_stage_actresses", "id": 38378677, "predecessors": [{"name": "Argentine_actresses", "id": 38190671}, {"name": "Theatre", "id": 698600}, {"name": "Culture_of_Argentina", "id": 719449}], "successors": [{"name": "Argentine_musical_theatre_actresses", "id": 38482244}]}

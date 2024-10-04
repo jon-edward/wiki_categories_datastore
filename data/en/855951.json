@@ -1,1 +1,1 @@
-{"name": "Natural_opium_alkaloids", "id": 855951, "predecessors": [{"name": "Alkaloids_found_in_plants", "id": 38961512}], "successors": [{"name": "Morphine", "id": 35026059}]}
+{"name": "Natural_opium_alkaloids", "id": 855951, "predecessors": [{"name": "Opium", "id": 32027757}, {"name": "Alkaloids_found_in_plants", "id": 38961512}], "successors": [{"name": "Morphine", "id": 35026059}]}

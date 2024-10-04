@@ -1,1 +1,1 @@
-{"name": "Bombardier_Transportation_tram_vehicles", "id": 40762125, "predecessors": [{"name": "Bombardier_Transportation_rail_vehicles", "id": 40762078}, {"name": "Tram_vehicles", "id": 3709588}], "successors": []}
+{"name": "Bombardier_Transportation_tram_vehicles", "id": 40762125, "predecessors": [{"name": "Tram_vehicles", "id": 3709588}], "successors": []}

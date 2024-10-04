@@ -1,1 +1,1 @@
-{"name": "Scheibe_aircraft", "id": 21148322, "predecessors": [{"name": "Aviation_in_Germany", "id": 4678252}], "successors": []}
+{"name": "Scheibe_aircraft", "id": 21148322, "predecessors": [{"name": "Glider_aircraft", "id": 751910}, {"name": "Aviation", "id": 735378}], "successors": []}

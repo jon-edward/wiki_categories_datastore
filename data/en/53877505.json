@@ -1,1 +1,1 @@
-{"name": "Chinese_newspaper_editors", "id": 53877505, "predecessors": [{"name": "Asian_newspaper_editors", "id": 26296861}, {"name": "Mass_media", "id": 696790}], "successors": []}
+{"name": "Chinese_newspaper_editors", "id": 53877505, "predecessors": [{"name": "Asian_newspaper_editors", "id": 26296861}, {"name": "Mass_media", "id": 696790}, {"name": "Chinese_journalists", "id": 1046229}], "successors": []}

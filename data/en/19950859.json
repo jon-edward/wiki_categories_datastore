@@ -1,1 +1,1 @@
-{"name": "Edible_Apiaceae", "id": 19950859, "predecessors": [{"name": "Apiaceae", "id": 1372865}, {"name": "Edible_plants", "id": 1318013}], "successors": [{"name": "Celery", "id": 71133235}]}
+{"name": "Edible_Apiaceae", "id": 19950859, "predecessors": [{"name": "Edible_plants", "id": 1318013}], "successors": [{"name": "Celery", "id": 71133235}, {"name": "Carrot_diseases", "id": 42782093}, {"name": "Carrot_dishes", "id": 48745049}]}

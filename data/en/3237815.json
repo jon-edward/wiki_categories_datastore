@@ -1,1 +1,1 @@
-{"name": "Amine_oxides", "id": 3237815, "predecessors": [{"name": "Amines", "id": 725878}, {"name": "Functional_groups", "id": 724516}, {"name": "Oxides", "id": 695963}, {"name": "Chemical_compounds", "id": 695235}], "successors": []}
+{"name": "Amine_oxides", "id": 3237815, "predecessors": [{"name": "Amines", "id": 725878}, {"name": "Functional_groups", "id": 724516}, {"name": "Oxides", "id": 695963}, {"name": "Nitrogen_compounds", "id": 903300}], "successors": []}

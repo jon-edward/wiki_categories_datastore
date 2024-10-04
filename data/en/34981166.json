@@ -1,1 +1,1 @@
-{"name": "Environmental_certification_marks", "id": 34981166, "predecessors": [{"name": "Certification_marks", "id": 1856874}], "successors": [{"name": "Ecolabelling", "id": 19868877}]}
+{"name": "Environmental_certification_marks", "id": 34981166, "predecessors": [{"name": "Certification_marks", "id": 1856874}, {"name": "Environmental_certification", "id": 34981064}], "successors": [{"name": "Ecolabelling", "id": 19868877}]}

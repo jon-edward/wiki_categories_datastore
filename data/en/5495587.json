@@ -1,1 +1,1 @@
-{"name": "Foul-smelling_chemicals", "id": 5495587, "predecessors": [{"name": "Chemical_compounds", "id": 695235}], "successors": [{"name": "Thiols", "id": 1111832}, {"name": "Acyl_chlorides", "id": 3203855}, {"name": "Isocyanides", "id": 14543846}]}
+{"name": "Foul-smelling_chemicals", "id": 5495587, "predecessors": [{"name": "Odor", "id": 35786646}], "successors": [{"name": "Thiols", "id": 1111832}, {"name": "Acyl_chlorides", "id": 3203855}, {"name": "Isocyanides", "id": 14543846}]}

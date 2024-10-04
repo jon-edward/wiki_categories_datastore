@@ -1,1 +1,1 @@
-{"name": "Red_dwarfs", "id": 56274726, "predecessors": [{"name": "Stars", "id": 694492}, {"name": "Star_types", "id": 3177479}], "successors": [{"name": "K-type_main-sequence_stars", "id": 39079978}, {"name": "M-type_main-sequence_stars", "id": 39079984}]}
+{"name": "Red_dwarfs", "id": 56274726, "predecessors": [{"name": "Stars", "id": 694492}, {"name": "Star_types", "id": 3177479}, {"name": "Astronomy", "id": 692915}], "successors": [{"name": "K-type_main-sequence_stars", "id": 39079978}, {"name": "M-type_main-sequence_stars", "id": 39079984}]}

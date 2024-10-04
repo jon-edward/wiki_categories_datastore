@@ -1,1 +1,1 @@
-{"name": "World_champions_in_shooting", "id": 56080923, "predecessors": [{"name": "Precision_sports", "id": 700726}, {"name": "World_championships", "id": 7136195}], "successors": []}
+{"name": "World_champions_in_shooting", "id": 56080923, "predecessors": [{"name": "World_championships", "id": 7136195}, {"name": "Shooting_sports", "id": 698444}], "successors": [{"name": "IPSC_World_Shoot_Champions", "id": 45370750}]}

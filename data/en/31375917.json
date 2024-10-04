@@ -1,1 +1,1 @@
-{"name": "Thesauri", "id": 31375917, "predecessors": [{"name": "Information_science", "id": 1009204}, {"name": "Knowledge_representation", "id": 796635}, {"name": "Reference_works", "id": 699920}], "successors": []}
+{"name": "Thesauri", "id": 31375917, "predecessors": [{"name": "Dictionaries_by_type", "id": 23380265}, {"name": "Information_science", "id": 1009204}, {"name": "Knowledge_representation", "id": 796635}, {"name": "Reference_works", "id": 699920}], "successors": []}

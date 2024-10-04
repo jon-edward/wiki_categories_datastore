@@ -1,1 +1,1 @@
-{"name": "Chelating_agents", "id": 1000030, "predecessors": [{"name": "Chemical_compounds", "id": 695235}, {"name": "Process_chemicals", "id": 20755625}], "successors": [{"name": "Siderophores", "id": 45087354}]}
+{"name": "Chelating_agents", "id": 1000030, "predecessors": [{"name": "Process_chemicals", "id": 20755625}], "successors": []}

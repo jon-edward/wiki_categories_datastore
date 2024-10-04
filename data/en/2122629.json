@@ -1,1 +1,1 @@
-{"name": "Quarks", "id": 2122629, "predecessors": [{"name": "Elementary_particles", "id": 43587238}, {"name": "Fermions", "id": 3558669}, {"name": "Quantum_chromodynamics", "id": 1653460}], "successors": [{"name": "Strange_quark", "id": 63459498}]}
+{"name": "Quarks", "id": 2122629, "predecessors": [{"name": "Fermions", "id": 3558669}, {"name": "Quantum_chromodynamics", "id": 1653460}], "successors": [{"name": "Strange_quark", "id": 63459498}]}

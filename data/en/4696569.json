@@ -1,1 +1,1 @@
-{"name": "Fictional_artisans", "id": 4696569, "predecessors": [{"name": "Artisans", "id": 742819}], "successors": [{"name": "Fictional_carpenters", "id": 54286181}]}
+{"name": "Fictional_artisans", "id": 4696569, "predecessors": [{"name": "Artisans", "id": 742819}], "successors": [{"name": "Fictional_chefs", "id": 1033457}, {"name": "Fictional_smiths", "id": 8423741}, {"name": "Fictional_bakers", "id": 11822290}, {"name": "Fictional_carpenters", "id": 54286181}]}

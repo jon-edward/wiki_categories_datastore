@@ -1,1 +1,1 @@
-{"name": "Lakes_of_Waikato", "id": 42581151, "predecessors": [{"name": "Landforms_of_Waikato", "id": 45147871}, {"name": "Tourist_attractions_in_Waikato", "id": 42581240}, {"name": "Water_in_New_Zealand", "id": 28189254}], "successors": [{"name": "Lake_Taupō", "id": 67139466}]}
+{"name": "Lakes_of_Waikato", "id": 42581151, "predecessors": [{"name": "Tourist_attractions_in_Waikato", "id": 42581240}, {"name": "Tourism_in_New_Zealand", "id": 2662602}], "successors": [{"name": "Lake_Taupō", "id": 67139466}]}

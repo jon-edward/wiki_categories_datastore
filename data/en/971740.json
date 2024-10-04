@@ -1,1 +1,1 @@
-{"name": "Topological_spaces", "id": 971740, "predecessors": [{"name": "General_topology", "id": 696311}, {"name": "Topology", "id": 691921}, {"name": "Mathematical_structures", "id": 20083363}], "successors": [{"name": "Topological_groups", "id": 974639}, {"name": "Homogeneous_spaces", "id": 2786153}, {"name": "Manifolds", "id": 3030322}, {"name": "Properties_of_topological_spaces", "id": 5253590}]}
+{"name": "Topological_spaces", "id": 971740, "predecessors": [{"name": "Mathematical_concepts", "id": 27248985}], "successors": [{"name": "Homogeneous_spaces", "id": 2786153}]}

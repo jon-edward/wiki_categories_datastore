@@ -1,1 +1,1 @@
-{"name": "Digestive_system_imaging", "id": 32626044, "predecessors": [{"name": "Diagnostic_gastroenterology", "id": 1423309}, {"name": "Diagnostic_medical_imaging", "id": 74641432}], "successors": []}
+{"name": "Digestive_system_imaging", "id": 32626044, "predecessors": [{"name": "Diagnostic_gastroenterology", "id": 1423309}, {"name": "Digestive_system_procedures", "id": 32487457}, {"name": "Diagnostic_medical_imaging", "id": 74641432}], "successors": []}

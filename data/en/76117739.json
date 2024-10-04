@@ -1,1 +1,1 @@
-{"name": "Ronchamp_coal_mines", "id": 76117739, "predecessors": [{"name": "Mining_in_France", "id": 7639360}, {"name": "Regions_of_France", "id": 871494}], "successors": []}
+{"name": "Ronchamp_coal_mines", "id": 76117739, "predecessors": [{"name": "Underground_mining", "id": 21595701}, {"name": "Coal", "id": 1103533}, {"name": "Regions_of_France", "id": 871494}], "successors": []}

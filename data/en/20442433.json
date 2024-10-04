@@ -1,1 +1,1 @@
-{"name": "Law_societies", "id": 20442433, "predecessors": [{"name": "Law-related_professional_associations", "id": 27073919}], "successors": [{"name": "Law_societies_of_Canada", "id": 20098028}]}
+{"name": "Law_societies", "id": 20442433, "predecessors": [{"name": "Law-related_professional_associations", "id": 27073919}, {"name": "Legal_ethics", "id": 692704}], "successors": [{"name": "Law_societies_of_Canada", "id": 20098028}]}

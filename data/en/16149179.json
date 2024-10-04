@@ -1,1 +1,1 @@
-{"name": "IBM_transistorized_computers", "id": 16149179, "predecessors": [{"name": "IBM_computers", "id": 18066006}, {"name": "Transistorized_computers", "id": 24366991}], "successors": [{"name": "IBM_1400_series", "id": 43155567}]}
+{"name": "IBM_transistorized_computers", "id": 16149179, "predecessors": [{"name": "IBM_computers", "id": 18066006}], "successors": [{"name": "IBM_1400_series", "id": 43155567}]}

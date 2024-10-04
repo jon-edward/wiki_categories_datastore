@@ -1,1 +1,1 @@
-{"name": "Heart_(radio_network)", "id": 39109297, "predecessors": [{"name": "Global_Radio", "id": 18444852}], "successors": [{"name": "Heart_(radio_network)_stations", "id": 65124816}]}
+{"name": "Heart_(radio_network)", "id": 39109297, "predecessors": [{"name": "British_radio_networks", "id": 12551329}, {"name": "Global_Radio", "id": 18444852}], "successors": [{"name": "Heart_(radio_network)_stations", "id": 65124816}]}

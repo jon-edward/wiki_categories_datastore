@@ -1,1 +1,1 @@
-{"name": "E4_(TV_channel)_original_programming", "id": 48582871, "predecessors": [{"name": "Channel_4_original_programming", "id": 807199}], "successors": []}
+{"name": "E4_(TV_channel)_original_programming", "id": 48582871, "predecessors": [{"name": "Channel_4_original_programming", "id": 807199}], "successors": [{"name": "E4_(TV_channel)_comedy", "id": 49734192}, {"name": "E4_(TV_channel)_reality_television_shows", "id": 49825594}, {"name": "E4_(TV_channel)_dramas", "id": 53408158}]}

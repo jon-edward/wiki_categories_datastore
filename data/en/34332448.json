@@ -1,1 +1,1 @@
-{"name": "Monotypic_mollusc_genera", "id": 34332448, "predecessors": [{"name": "Mollusc_genera", "id": 42203349}, {"name": "Monotypic_protostome_genera", "id": 52957521}, {"name": "Podiata", "id": 57018478}], "successors": [{"name": "Monotypic_gastropod_genera", "id": 37989776}]}
+{"name": "Monotypic_mollusc_genera", "id": 34332448, "predecessors": [{"name": "Monotypic_protostome_genera", "id": 52957521}, {"name": "Individualism", "id": 24193500}], "successors": [{"name": "Monotypic_gastropod_genera", "id": 37989776}]}

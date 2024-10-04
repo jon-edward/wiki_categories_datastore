@@ -1,1 +1,1 @@
-{"name": "Equilibrium_chemistry", "id": 20193898, "predecessors": [{"name": "Branches_of_thermodynamics", "id": 13805509}], "successors": [{"name": "PH_indicators", "id": 1446561}, {"name": "Acid–base_chemistry", "id": 43484841}]}
+{"name": "Equilibrium_chemistry", "id": 20193898, "predecessors": [{"name": "Analytical_chemistry", "id": 695001}, {"name": "Physical_chemistry", "id": 784394}], "successors": [{"name": "PH_indicators", "id": 1446561}]}

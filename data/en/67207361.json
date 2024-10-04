@@ -1,1 +1,1 @@
-{"name": "Australian_monster_movies", "id": 67207361, "predecessors": [{"name": "Australian_horror_films", "id": 13618394}, {"name": "Monster_movies", "id": 7133153}], "successors": [{"name": "Australian_zombie_films", "id": 69047207}]}
+{"name": "Australian_monster_movies", "id": 67207361, "predecessors": [{"name": "Monster_movies", "id": 7133153}], "successors": [{"name": "Australian_zombie_films", "id": 69047207}]}

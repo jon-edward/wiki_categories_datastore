@@ -1,1 +1,1 @@
-{"name": "Anthocyanidins", "id": 20976680, "predecessors": [{"name": "Benzopyrans", "id": 26455836}, {"name": "Bicyclic_compounds", "id": 52796624}, {"name": "Flavonoids", "id": 2983457}, {"name": "Oxonium_compounds", "id": 67459704}, {"name": "Phenol_dyes", "id": 33962836}], "successors": [{"name": "Anthocyanins", "id": 2984008}]}
+{"name": "Anthocyanidins", "id": 20976680, "predecessors": [{"name": "Benzopyrans", "id": 26455836}, {"name": "Flavonoids", "id": 2983457}, {"name": "Phenol_dyes", "id": 33962836}], "successors": [{"name": "Anthocyanins", "id": 2984008}]}

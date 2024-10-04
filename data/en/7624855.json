@@ -1,1 +1,1 @@
-{"name": "Life_coaches", "id": 7624855, "predecessors": [{"name": "Life_coaching", "id": 9715094}, {"name": "Health", "id": 751381}], "successors": []}
+{"name": "Life_coaches", "id": 7624855, "predecessors": [{"name": "Life_coaching", "id": 9715094}, {"name": "Health", "id": 751381}, {"name": "Education_by_subject", "id": 2477717}], "successors": []}

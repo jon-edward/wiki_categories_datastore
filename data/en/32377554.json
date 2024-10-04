@@ -1,1 +1,1 @@
-{"name": "Novels_set_in_Los_Angeles", "id": 32377554, "predecessors": [{"name": "Books_about_Los_Angeles", "id": 60498324}], "successors": [{"name": "Harry_Bosch_series", "id": 12987719}, {"name": "Hollywood_novels", "id": 36347341}]}
+{"name": "Novels_set_in_Los_Angeles", "id": 32377554, "predecessors": [{"name": "Books_about_Los_Angeles", "id": 60498324}, {"name": "Novels_set_in_California", "id": 32075884}, {"name": "California_culture", "id": 1199922}], "successors": [{"name": "Harry_Bosch_series", "id": 12987719}, {"name": "Hollywood_novels", "id": 36347341}]}

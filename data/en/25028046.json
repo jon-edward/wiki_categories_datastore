@@ -1,1 +1,1 @@
-{"name": "Laser_medicine", "id": 25028046, "predecessors": [{"name": "Medical_physics", "id": 8811012}], "successors": []}
+{"name": "Laser_medicine", "id": 25028046, "predecessors": [{"name": "Laser_applications", "id": 12901552}, {"name": "Medical_physics", "id": 8811012}], "successors": []}

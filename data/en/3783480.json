@@ -1,1 +1,1 @@
-{"name": "Wine_styles", "id": 3783480, "predecessors": [{"name": "Wine", "id": 1635343}, {"name": "Visual_arts_theory", "id": 12270152}], "successors": [{"name": "Fortified_wine", "id": 2299168}]}
+{"name": "Wine_styles", "id": 3783480, "predecessors": [{"name": "Wine", "id": 1635343}, {"name": "Art_history", "id": 707612}], "successors": [{"name": "Sparkling_wines", "id": 1662240}, {"name": "Fortified_wine", "id": 2299168}, {"name": "Fruit_wines", "id": 3790658}, {"name": "Dessert_wine", "id": 26266008}, {"name": "Noble_rot_wines", "id": 9907018}]}

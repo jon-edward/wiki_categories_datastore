@@ -1,1 +1,1 @@
-{"name": "Tax_inspectors", "id": 76464354, "predecessors": [{"name": "Civil_services", "id": 753439}], "successors": []}
+{"name": "Tax_inspectors", "id": 76464354, "predecessors": [{"name": "Tax_investigation", "id": 53218450}, {"name": "Tax_officials", "id": 24306996}, {"name": "Civil_services", "id": 753439}], "successors": []}

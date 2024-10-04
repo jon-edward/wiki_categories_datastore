@@ -1,1 +1,1 @@
-{"name": "Modern_pentathlon_at_the_Summer_Olympics", "id": 33840198, "predecessors": [{"name": "Sports_at_the_Summer_Olympics", "id": 43038293}], "successors": [{"name": "Olympic_modern_pentathlon_venues", "id": 31132589}]}
+{"name": "Modern_pentathlon_at_the_Summer_Olympics", "id": 33840198, "predecessors": [{"name": "Sports_at_the_Summer_Olympics", "id": 43038293}, {"name": "Multi-sport_events", "id": 944214}], "successors": [{"name": "Olympic_modern_pentathlon_venues", "id": 31132589}, {"name": "Olympic_medalists_in_modern_pentathlon", "id": 31980100}]}

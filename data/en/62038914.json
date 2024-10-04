@@ -1,1 +1,1 @@
-{"name": "South_Korean_government_officials", "id": 62038914, "predecessors": [{"name": "Government_of_South_Korea", "id": 2926456}], "successors": [{"name": "South_Korean_diplomats", "id": 2347178}]}
+{"name": "South_Korean_government_officials", "id": 62038914, "predecessors": [{"name": "Government_of_South_Korea", "id": 2926456}, {"name": "Government_officials", "id": 8567895}], "successors": [{"name": "South_Korean_diplomats", "id": 2347178}, {"name": "South_Korean_prosecutors", "id": 62038927}, {"name": "Chiefs_of_staff_to_the_president_of_South_Korea", "id": 71799660}]}

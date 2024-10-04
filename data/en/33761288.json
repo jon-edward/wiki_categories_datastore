@@ -1,1 +1,1 @@
-{"name": "Taipei_Metro", "id": 33761288, "predecessors": [{"name": "Rail_transport", "id": 700920}, {"name": "Economy_of_Taiwan", "id": 3131848}], "successors": [{"name": "Taipei_Metro_navigational_boxes", "id": 56041203}]}
+{"name": "Taipei_Metro", "id": 33761288, "predecessors": [{"name": "Rail_transport", "id": 700920}], "successors": [{"name": "Taipei_Metro_navigational_boxes", "id": 56041203}]}

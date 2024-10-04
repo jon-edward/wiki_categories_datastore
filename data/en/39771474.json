@@ -1,1 +1,1 @@
-{"name": "Hyundai_trucks", "id": 39771474, "predecessors": [{"name": "Hyundai_vehicles", "id": 1049659}, {"name": "Transport_in_South_Korea", "id": 29894795}], "successors": []}
+{"name": "Hyundai_trucks", "id": 39771474, "predecessors": [{"name": "Hyundai_vehicles", "id": 1049659}, {"name": "Road_transport", "id": 700964}], "successors": []}

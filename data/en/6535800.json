@@ -1,1 +1,1 @@
-{"name": "Covariance_and_correlation", "id": 6535800, "predecessors": [{"name": "Independence_(probability_theory)", "id": 17652827}, {"name": "Multivariate_statistics", "id": 6539078}, {"name": "Summary_statistics", "id": 6537978}], "successors": [{"name": "Autocorrelation", "id": 52461673}]}
+{"name": "Covariance_and_correlation", "id": 6535800, "predecessors": [{"name": "Independence_(probability_theory)", "id": 17652827}], "successors": [{"name": "Autocorrelation", "id": 52461673}]}

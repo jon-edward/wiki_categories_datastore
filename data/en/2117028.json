@@ -1,1 +1,1 @@
-{"name": "Painting_materials", "id": 2117028, "predecessors": [{"name": "Painting", "id": 707606}, {"name": "Visual_arts_materials", "id": 1115350}, {"name": "Consumer_goods", "id": 916951}], "successors": [{"name": "Paints", "id": 10781538}]}
+{"name": "Painting_materials", "id": 2117028, "predecessors": [{"name": "Painting", "id": 707606}, {"name": "Visual_arts_materials", "id": 1115350}], "successors": [{"name": "Paints", "id": 10781538}]}

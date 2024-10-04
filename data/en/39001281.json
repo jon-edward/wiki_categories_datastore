@@ -1,1 +1,1 @@
-{"name": "British_furniture_makers", "id": 39001281, "predecessors": [{"name": "Furniture_makers", "id": 1588201}, {"name": "British_design", "id": 18064688}], "successors": [{"name": "British_cabinetmakers", "id": 39001309}]}
+{"name": "British_furniture_makers", "id": 39001281, "predecessors": [{"name": "Furniture_makers", "id": 1588201}, {"name": "Culture_of_Europe", "id": 709679}], "successors": [{"name": "British_cabinetmakers", "id": 39001309}]}

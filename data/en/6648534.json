@@ -1,1 +1,1 @@
-{"name": "Regional_rail_in_Germany", "id": 6648534, "predecessors": [{"name": "Passenger_rail_transport_in_Germany", "id": 15878601}], "successors": [{"name": "S-Bahn_in_Germany", "id": 1175238}]}
+{"name": "Regional_rail_in_Germany", "id": 6648534, "predecessors": [{"name": "Passenger_rail_transport_in_Germany", "id": 15878601}, {"name": "Passenger_rail_transport", "id": 5356605}], "successors": [{"name": "S-Bahn_in_Germany", "id": 1175238}]}

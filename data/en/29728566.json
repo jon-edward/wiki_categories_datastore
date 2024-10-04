@@ -1,1 +1,1 @@
-{"name": "Building_energy_rating", "id": 29728566, "predecessors": [{"name": "Low-energy_building", "id": 5224936}, {"name": "Rating_systems", "id": 935594}], "successors": []}
+{"name": "Building_energy_rating", "id": 29728566, "predecessors": [{"name": "Low-energy_building", "id": 5224936}, {"name": "Rating_systems", "id": 935594}, {"name": "Sustainable_building_rating_systems", "id": 52516689}], "successors": []}

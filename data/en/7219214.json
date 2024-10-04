@@ -1,1 +1,1 @@
-{"name": "Barracks", "id": 7219214, "predecessors": [{"name": "Living_arrangements", "id": 1374137}, {"name": "Military_installations", "id": 29694585}], "successors": []}
+{"name": "Barracks", "id": 7219214, "predecessors": [{"name": "Military_life", "id": 1018928}, {"name": "Military_installations", "id": 29694585}], "successors": []}

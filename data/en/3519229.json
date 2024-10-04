@@ -1,1 +1,1 @@
-{"name": "Effects_of_gravity", "id": 3519229, "predecessors": [{"name": "General_relativity", "id": 782202}, {"name": "Gravity", "id": 16212316}], "successors": [{"name": "Gravitational_lensing", "id": 5574652}, {"name": "Gravitational_waves", "id": 37749144}, {"name": "Tidal_forces", "id": 50348237}]}
+{"name": "Effects_of_gravity", "id": 3519229, "predecessors": [{"name": "Gravity", "id": 16212316}], "successors": [{"name": "Gravitational_lensing", "id": 5574652}, {"name": "Gravitational_waves", "id": 37749144}, {"name": "Tidal_forces", "id": 50348237}]}

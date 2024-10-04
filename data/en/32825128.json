@@ -1,1 +1,1 @@
-{"name": "Sydney_Blue_Sox", "id": 32825128, "predecessors": [{"name": "Sports_clubs_and_teams_in_Sydney", "id": 36829572}], "successors": []}
+{"name": "Sydney_Blue_Sox", "id": 32825128, "predecessors": [{"name": "Sports_clubs_and_teams_in_Sydney", "id": 36829572}, {"name": "Competitions", "id": 737119}], "successors": [{"name": "Sydney_Blue_Sox_players", "id": 34661139}]}

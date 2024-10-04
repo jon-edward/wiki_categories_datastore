@@ -1,1 +1,1 @@
-{"name": "Woollen_industry", "id": 52386806, "predecessors": [{"name": "Wool_industry", "id": 54008607}], "successors": [{"name": "Woolen_clothing", "id": 31401295}, {"name": "American_Woolen_Company", "id": 40567791}, {"name": "Woollen_mills", "id": 52396922}]}
+{"name": "Woollen_industry", "id": 52386806, "predecessors": [{"name": "Textile_industry", "id": 17136491}, {"name": "Wool_industry", "id": 54008607}], "successors": [{"name": "Woolen_clothing", "id": 31401295}, {"name": "American_Woolen_Company", "id": 40567791}, {"name": "Woollen_mills", "id": 52396922}]}

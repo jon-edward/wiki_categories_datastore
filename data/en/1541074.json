@@ -1,1 +1,1 @@
-{"name": "Pamphlets", "id": 1541074, "predecessors": [{"name": "Ephemera", "id": 1273608}, {"name": "Publications_by_format", "id": 11278400}], "successors": [{"name": "Protocols_of_the_Elders_of_Zion", "id": 10895148}]}
+{"name": "Pamphlets", "id": 1541074, "predecessors": [{"name": "Ephemera", "id": 1273608}, {"name": "Publications_by_format", "id": 11278400}, {"name": "Printing", "id": 774014}], "successors": [{"name": "Protocols_of_the_Elders_of_Zion", "id": 10895148}]}

@@ -1,1 +1,1 @@
-{"name": "Concert_residencies_in_the_Las_Vegas_Valley", "id": 55589641, "predecessors": [{"name": "Production_shows_in_the_Las_Vegas_Valley", "id": 34794872}], "successors": []}
+{"name": "Concert_residencies_in_the_Las_Vegas_Valley", "id": 55589641, "predecessors": [{"name": "Production_shows_in_the_Las_Vegas_Valley", "id": 34794872}, {"name": "Concerts", "id": 1172935}], "successors": []}

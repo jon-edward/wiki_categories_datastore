@@ -1,1 +1,1 @@
-{"name": "Fictional_philosophers", "id": 56165596, "predecessors": [{"name": "Fictional_academics", "id": 42889320}], "successors": [{"name": "Fictional_alchemists", "id": 2102422}]}
+{"name": "Fictional_philosophers", "id": 56165596, "predecessors": [{"name": "Fictional_academics", "id": 42889320}, {"name": "Humanities", "id": 1004110}], "successors": [{"name": "Fictional_alchemists", "id": 2102422}]}

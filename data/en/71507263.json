@@ -1,1 +1,1 @@
-{"name": "Novels_set_in_fictional_wars", "id": 71507263, "predecessors": [{"name": "War_novels", "id": 3499291}], "successors": [{"name": "Military_science_fiction_novels", "id": 28528046}, {"name": "Novels_about_alien_invasions", "id": 37573978}, {"name": "Novels_set_during_World_War_III", "id": 63910434}]}
+{"name": "Novels_set_in_fictional_wars", "id": 71507263, "predecessors": [{"name": "Fictional_wars", "id": 796111}, {"name": "War_novels", "id": 3499291}], "successors": [{"name": "Novels_about_alien_invasions", "id": 37573978}]}

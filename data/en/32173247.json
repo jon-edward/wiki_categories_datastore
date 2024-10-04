@@ -1,1 +1,1 @@
-{"name": "Public_speaking_competitions", "id": 32173247, "predecessors": [{"name": "Public_speaking", "id": 2810397}], "successors": [{"name": "Debating_competitions", "id": 2263648}, {"name": "Moot_court_competitions", "id": 7963326}]}
+{"name": "Public_speaking_competitions", "id": 32173247, "predecessors": [{"name": "Public_speaking", "id": 2810397}, {"name": "Competitions", "id": 737119}], "successors": [{"name": "Debating_competitions", "id": 2263648}, {"name": "Moot_court_competitions", "id": 7963326}]}

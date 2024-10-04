@@ -1,1 +1,1 @@
-{"name": "Upholstery", "id": 36861853, "predecessors": [{"name": "Crafts", "id": 3061643}, {"name": "Furniture", "id": 965851}, {"name": "Furniture-making", "id": 18575284}], "successors": [{"name": "Couches", "id": 7759349}]}
+{"name": "Upholstery", "id": 36861853, "predecessors": [{"name": "Crafts", "id": 3061643}, {"name": "Furniture", "id": 965851}], "successors": [{"name": "Couches", "id": 7759349}]}

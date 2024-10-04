@@ -1,1 +1,1 @@
-{"name": "Lie_detection", "id": 31975656, "predecessors": [{"name": "Forensic_disciplines", "id": 24241646}, {"name": "Forensic_psychology", "id": 13191262}], "successors": []}
+{"name": "Lie_detection", "id": 31975656, "predecessors": [{"name": "Forensic_psychology", "id": 13191262}, {"name": "Lying", "id": 53316498}], "successors": []}

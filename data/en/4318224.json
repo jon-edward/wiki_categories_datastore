@@ -1,1 +1,1 @@
-{"name": "Advertising_directors", "id": 4318224, "predecessors": [{"name": "Advertising_people", "id": 2902326}, {"name": "Directors", "id": 705298}], "successors": []}
+{"name": "Advertising_directors", "id": 4318224, "predecessors": [{"name": "Advertising_people", "id": 2902326}, {"name": "Directors", "id": 705298}], "successors": [{"name": "Television_commercial_directors", "id": 34286174}, {"name": "Indian_advertising_directors", "id": 55686471}]}

@@ -1,1 +1,1 @@
-{"name": "Factory_inspectors", "id": 38529806, "predecessors": [{"name": "Occupational_safety_and_health", "id": 1215289}, {"name": "Public_safety", "id": 1355477}], "successors": []}
+{"name": "Factory_inspectors", "id": 38529806, "predecessors": [{"name": "Manufacturing_plants", "id": 2003393}, {"name": "Occupational_safety_and_health", "id": 1215289}], "successors": []}

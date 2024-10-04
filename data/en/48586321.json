@@ -1,1 +1,1 @@
-{"name": "Extant_Triassic_first_appearances", "id": 48586321, "predecessors": [{"name": "Triassic_first_appearances", "id": 46562715}], "successors": [{"name": "Extant_Early_Triassic_first_appearances", "id": 48586312}, {"name": "Extant_Middle_Triassic_first_appearances", "id": 48586444}, {"name": "Extant_Late_Triassic_first_appearances", "id": 48586531}]}
+{"name": "Extant_Triassic_first_appearances", "id": 48586321, "predecessors": [{"name": "Triassic_first_appearances", "id": 46562715}, {"name": "Mesozoic_fossil_record", "id": 47364462}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "GABAA_receptor_negative_allosteric_modulators", "id": 44368145, "predecessors": [{"name": "GABA", "id": 53668945}], "successors": [{"name": "Morphine", "id": 35026059}]}
+{"name": "GABAA_receptor_negative_allosteric_modulators", "id": 44368145, "predecessors": [{"name": "Drugs_by_mechanism_of_action", "id": 22001991}, {"name": "GABA", "id": 53668945}], "successors": [{"name": "Morphine", "id": 35026059}]}

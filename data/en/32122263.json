@@ -1,1 +1,1 @@
-{"name": "Missing_air_passengers", "id": 32122263, "predecessors": [{"name": "Missing_people", "id": 28293078}, {"name": "Aviation_accidents_and_incidents", "id": 6914608}], "successors": []}
+{"name": "Missing_air_passengers", "id": 32122263, "predecessors": [{"name": "Aviation_accidents_and_incidents", "id": 6914608}], "successors": []}

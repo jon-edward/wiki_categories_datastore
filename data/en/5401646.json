@@ -1,1 +1,1 @@
-{"name": "Deaths_by_hanging", "id": 5401646, "predecessors": [{"name": "Hanging", "id": 37405108}], "successors": [{"name": "Suicides_by_hanging", "id": 4654914}]}
+{"name": "Deaths_by_hanging", "id": 5401646, "predecessors": [{"name": "Hanging", "id": 37405108}, {"name": "Killings_by_type", "id": 50222534}], "successors": [{"name": "Suicides_by_hanging", "id": 4654914}, {"name": "People_executed_by_hanging", "id": 4976852}]}

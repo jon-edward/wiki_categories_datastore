@@ -1,1 +1,1 @@
-{"name": "Quarries_in_Somerset", "id": 42459269, "predecessors": [{"name": "Quarries_in_England", "id": 36579760}], "successors": [{"name": "Quarries_in_the_Mendip_Hills", "id": 36579820}]}
+{"name": "Quarries_in_Somerset", "id": 42459269, "predecessors": [{"name": "Geology_of_Somerset", "id": 27146279}, {"name": "Quarries_in_England", "id": 36579760}, {"name": "Ceremonial_counties_of_England", "id": 24214310}], "successors": [{"name": "Quarries_in_the_Mendip_Hills", "id": 36579820}]}

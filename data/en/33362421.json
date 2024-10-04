@@ -1,1 +1,1 @@
-{"name": "Chewing_gum", "id": 33362421, "predecessors": [{"name": "Brand_name_confectionery", "id": 7701549}, {"name": "Sugar_confectionery", "id": 46223113}, {"name": "Confectionery", "id": 693491}, {"name": "Biting", "id": 77939657}], "successors": []}
+{"name": "Chewing_gum", "id": 33362421, "predecessors": [{"name": "Brand_name_confectionery", "id": 7701549}, {"name": "Sugar_confectionery", "id": 46223113}, {"name": "Confectionery", "id": 693491}, {"name": "Digestive_system", "id": 703214}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Hotels_in_Spain", "id": 2650193, "predecessors": [{"name": "Tourism_in_Spain", "id": 2650139}], "successors": [{"name": "Hotel_chains_in_Spain", "id": 57794028}, {"name": "PortAventura_World", "id": 35811796}, {"name": "Skyscraper_hotels_in_Barcelona", "id": 53396451}]}
+{"name": "Hotels_in_Spain", "id": 2650193, "predecessors": [{"name": "Tourist_accommodations", "id": 11495357}], "successors": [{"name": "Hotel_chains_in_Spain", "id": 57794028}, {"name": "PortAventura_World", "id": 35811796}, {"name": "Skyscraper_hotels_in_Barcelona", "id": 53396451}]}

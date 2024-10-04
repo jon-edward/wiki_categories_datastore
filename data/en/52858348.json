@@ -1,1 +1,1 @@
-{"name": "Scows", "id": 52858348, "predecessors": [{"name": "Boat_types", "id": 886322}, {"name": "Sailboat_types", "id": 1618454}, {"name": "Tall_ships", "id": 910250}], "successors": []}
+{"name": "Scows", "id": 52858348, "predecessors": [{"name": "Tall_ships", "id": 910250}, {"name": "Water_sports_equipment", "id": 23112594}], "successors": []}

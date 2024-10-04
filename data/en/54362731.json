@@ -1,1 +1,1 @@
-{"name": "Linen_industry", "id": 54362731, "predecessors": [{"name": "Flax", "id": 43927026}], "successors": [{"name": "Linens", "id": 2053448}, {"name": "Linen_industry_in_Ireland", "id": 14645168}]}
+{"name": "Linen_industry", "id": 54362731, "predecessors": [{"name": "Flax", "id": 43927026}, {"name": "Textile_industry", "id": 17136491}], "successors": [{"name": "Linens", "id": 2053448}, {"name": "Linen_industry_in_Ireland", "id": 14645168}, {"name": "Linen_merchants", "id": 77315879}]}

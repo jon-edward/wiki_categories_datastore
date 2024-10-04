@@ -1,1 +1,1 @@
-{"name": "Binary_arithmetic", "id": 34511514, "predecessors": [{"name": "2_(number)", "id": 33397633}, {"name": "Positional_numeral_systems", "id": 1834612}], "successors": [{"name": "Boolean_algebra", "id": 705249}]}
+{"name": "Binary_arithmetic", "id": 34511514, "predecessors": [{"name": "2_(number)", "id": 33397633}, {"name": "Computer_arithmetic", "id": 782015}, {"name": "Positional_numeral_systems", "id": 1834612}], "successors": [{"name": "Boolean_algebra", "id": 705249}]}

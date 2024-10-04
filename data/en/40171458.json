@@ -1,1 +1,1 @@
-{"name": "Touring_theatre", "id": 40171458, "predecessors": [{"name": "Theatre", "id": 698600}, {"name": "Touring_performing_arts", "id": 40197680}], "successors": [{"name": "Broadway_theatre", "id": 32997888}]}
+{"name": "Touring_theatre", "id": 40171458, "predecessors": [{"name": "Arts_events", "id": 27486124}, {"name": "Theatre", "id": 698600}, {"name": "Touring_performing_arts", "id": 40197680}], "successors": [{"name": "Broadway_theatre", "id": 32997888}]}

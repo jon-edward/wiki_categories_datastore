@@ -1,1 +1,1 @@
-{"name": "Pests_of_oil_palm", "id": 66778960, "predecessors": [{"name": "Palm_diseases", "id": 41097694}], "successors": []}
+{"name": "Pests_of_oil_palm", "id": 66778960, "predecessors": [{"name": "Oil_palm", "id": 27750931}, {"name": "Palm_diseases", "id": 41097694}], "successors": []}

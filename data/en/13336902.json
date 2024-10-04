@@ -1,1 +1,1 @@
-{"name": "Radiation_health_effects_researchers", "id": 13336902, "predecessors": [{"name": "Medical_researchers", "id": 2986153}, {"name": "People_associated_with_nuclear_power", "id": 11719160}, {"name": "Radiation_health_effects_research", "id": 62627791}, {"name": "Radiobiologists", "id": 750052}], "successors": []}
+{"name": "Radiation_health_effects_researchers", "id": 13336902, "predecessors": [{"name": "Radiation_health_effects_research", "id": 62627791}, {"name": "Radiobiologists", "id": 750052}], "successors": []}

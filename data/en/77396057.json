@@ -1,1 +1,1 @@
-{"name": "Krupp_naval_guns", "id": 77396057, "predecessors": [{"name": "Krupp", "id": 6658702}, {"name": "Artillery_by_type", "id": 13392456}], "successors": []}
+{"name": "Krupp_naval_guns", "id": 77396057, "predecessors": [{"name": "Naval_artillery", "id": 1679331}], "successors": []}

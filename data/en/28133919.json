@@ -1,1 +1,1 @@
-{"name": "Pali_Buddhist_texts", "id": 28133919, "predecessors": [{"name": "Theravada_Buddhist_texts", "id": 14996932}], "successors": [{"name": "Digha_Nikaya", "id": 1725714}, {"name": "Khuddaka_Nikaya", "id": 1725746}, {"name": "Majjhima_Nikaya", "id": 3843929}]}
+{"name": "Pali_Buddhist_texts", "id": 28133919, "predecessors": [{"name": "Theravada_Buddhist_texts", "id": 14996932}, {"name": "Literature_by_language", "id": 2995394}], "successors": [{"name": "Digha_Nikaya", "id": 1725714}, {"name": "Khuddaka_Nikaya", "id": 1725746}, {"name": "Majjhima_Nikaya", "id": 3843929}]}

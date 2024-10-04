@@ -1,1 +1,1 @@
-{"name": "Futures_exchanges", "id": 4707028, "predecessors": [{"name": "Currency", "id": 1626296}, {"name": "Derivatives_(finance)", "id": 29667152}, {"name": "Futures_markets", "id": 15536089}], "successors": []}
+{"name": "Futures_exchanges", "id": 4707028, "predecessors": [{"name": "Currency", "id": 1626296}, {"name": "Derivatives_(finance)", "id": 29667152}, {"name": "Futures_markets", "id": 15536089}], "successors": [{"name": "Companies_listed_on_the_Moscow_Exchange", "id": 36601219}, {"name": "Companies_formerly_listed_on_the_Moscow_Exchange", "id": 55128774}]}

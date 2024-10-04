@@ -1,1 +1,1 @@
-{"name": "Leathermaking", "id": 22062039, "predecessors": [{"name": "Leather", "id": 2441300}, {"name": "Leather_industry", "id": 52102117}, {"name": "Production_and_manufacturing", "id": 1226515}], "successors": [{"name": "Tanneries", "id": 35160559}, {"name": "Tanners", "id": 38106213}]}
+{"name": "Leathermaking", "id": 22062039, "predecessors": [{"name": "Leather", "id": 2441300}, {"name": "Leather_industry", "id": 52102117}], "successors": [{"name": "Tanneries", "id": 35160559}, {"name": "Tanners", "id": 38106213}]}

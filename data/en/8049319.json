@@ -1,1 +1,1 @@
-{"name": "Sapporo_Municipal_Subway", "id": 8049319, "predecessors": [{"name": "Rail_transport_in_Hokkaido", "id": 36642378}, {"name": "Rubber-tyred_metros", "id": 24064955}, {"name": "Transport_in_Hokkaido", "id": 36642390}, {"name": "Rapid_transit", "id": 4286827}], "successors": []}
+{"name": "Sapporo_Municipal_Subway", "id": 8049319, "predecessors": [{"name": "Rubber-tyred_metros", "id": 24064955}, {"name": "Rapid_transit", "id": 4286827}], "successors": []}

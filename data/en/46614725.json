@@ -1,1 +1,1 @@
-{"name": "Almaty_Metro_stations", "id": 46614725, "predecessors": [{"name": "Buildings_and_structures_in_Almaty", "id": 26567400}, {"name": "Almaty", "id": 9807712}, {"name": "Central_Asia", "id": 882886}, {"name": "Railway_stations_by_type", "id": 72782274}], "successors": []}
+{"name": "Almaty_Metro_stations", "id": 46614725, "predecessors": [{"name": "Track_gauges", "id": 42344383}, {"name": "Railway_stations_by_type", "id": 72782274}, {"name": "Rapid_transit", "id": 4286827}], "successors": []}

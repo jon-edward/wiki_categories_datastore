@@ -1,1 +1,1 @@
-{"name": "AMD_microarchitectures", "id": 43194240, "predecessors": [{"name": "AMD", "id": 8712165}], "successors": []}
+{"name": "AMD_microarchitectures", "id": 43194240, "predecessors": [{"name": "AMD", "id": 8712165}, {"name": "Computer_architecture", "id": 869984}], "successors": []}

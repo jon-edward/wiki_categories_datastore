@@ -1,1 +1,1 @@
-{"name": "Party_board_games", "id": 4204384, "predecessors": [{"name": "Party_games", "id": 776242}], "successors": []}
+{"name": "Party_board_games", "id": 4204384, "predecessors": [{"name": "Party_games", "id": 776242}, {"name": "Board_games", "id": 9205892}], "successors": []}

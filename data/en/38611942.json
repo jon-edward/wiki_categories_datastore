@@ -1,1 +1,1 @@
-{"name": "Trans_Europ_Express", "id": 38611942, "predecessors": [{"name": "International_named_passenger_trains", "id": 20215258}, {"name": "Transport_and_the_European_Union", "id": 13049045}, {"name": "Rail_transport_in_Europe", "id": 5351311}], "successors": []}
+{"name": "Trans_Europ_Express", "id": 38611942, "predecessors": [{"name": "International_named_passenger_trains", "id": 20215258}, {"name": "Rail_transport_brands", "id": 8971527}, {"name": "Transport_and_the_European_Union", "id": 13049045}], "successors": []}

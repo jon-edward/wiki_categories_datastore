@@ -1,1 +1,1 @@
-{"name": "Bitters", "id": 9399355, "predecessors": [{"name": "Drink_mixers", "id": 8833662}, {"name": "Alcoholic_drinks", "id": 13294809}], "successors": []}
+{"name": "Bitters", "id": 9399355, "predecessors": [{"name": "Drink_mixers", "id": 8833662}, {"name": "Alcoholic_drinks", "id": 13294809}], "successors": [{"name": "Cocktails_with_bitters", "id": 32166298}]}

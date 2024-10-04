@@ -1,1 +1,1 @@
-{"name": "Anesthetic_equipment", "id": 799930, "predecessors": [{"name": "Medical_equipment", "id": 799934}], "successors": []}
+{"name": "Anesthetic_equipment", "id": 799930, "predecessors": [{"name": "Anesthesia", "id": 718239}, {"name": "Medical_equipment", "id": 799934}], "successors": []}

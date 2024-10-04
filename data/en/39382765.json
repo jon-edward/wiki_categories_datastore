@@ -1,1 +1,1 @@
-{"name": "Management_consulting", "id": 39382765, "predecessors": [{"name": "Management_by_type", "id": 36812489}, {"name": "Employment", "id": 1798901}], "successors": [{"name": "Management_consultants", "id": 24431598}]}
+{"name": "Management_consulting", "id": 39382765, "predecessors": [{"name": "Management_by_type", "id": 36812489}, {"name": "Society", "id": 1633936}, {"name": "Employment", "id": 1798901}], "successors": [{"name": "Management_consultants", "id": 24431598}]}

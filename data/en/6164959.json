@@ -1,1 +1,1 @@
-{"name": "Executive_cars", "id": 6164959, "predecessors": [{"name": "Car_classifications", "id": 873684}], "successors": [{"name": "Compact_executive_cars", "id": 15082481}, {"name": "Euro_NCAP_executive_cars", "id": 21700802}]}
+{"name": "Executive_cars", "id": 6164959, "predecessors": [{"name": "Car_classifications", "id": 873684}, {"name": "Sedans", "id": 3388736}], "successors": [{"name": "Compact_executive_cars", "id": 15082481}, {"name": "Euro_NCAP_executive_cars", "id": 21700802}]}

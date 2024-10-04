@@ -1,1 +1,1 @@
-{"name": "Hamburger_SV_players", "id": 2643022, "predecessors": [{"name": "Hamburger_SV", "id": 4923468}, {"name": "Football_in_Germany", "id": 3065875}], "successors": []}
+{"name": "Hamburger_SV_players", "id": 2643022, "predecessors": [{"name": "Team_sports", "id": 700681}], "successors": [{"name": "Hamburger_SV_II_players", "id": 25790682}]}

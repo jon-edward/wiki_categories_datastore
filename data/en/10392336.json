@@ -1,1 +1,1 @@
-{"name": "Youth_science", "id": 10392336, "predecessors": [{"name": "Youth", "id": 6913424}], "successors": [{"name": "Young_Scientist_and_Technology_Exhibition", "id": 25830324}]}
+{"name": "Youth_science", "id": 10392336, "predecessors": [{"name": "Science_competitions", "id": 3357142}, {"name": "Science_events", "id": 13887373}], "successors": []}

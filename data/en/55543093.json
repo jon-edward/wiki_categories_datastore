@@ -1,1 +1,1 @@
-{"name": "Santa_Maria_Formation", "id": 55543093, "predecessors": [{"name": "Anisian_Stage", "id": 52171296}, {"name": "Carnian_Stage", "id": 52165723}, {"name": "Fossils_of_Brazil", "id": 39041031}, {"name": "Ladinian_Stage", "id": 52165727}, {"name": "Norian_Stage", "id": 52171191}, {"name": "Paraná_Basin", "id": 55208678}, {"name": "Triassic_Brazil", "id": 53679552}], "successors": []}
+{"name": "Santa_Maria_Formation", "id": 55543093, "predecessors": [{"name": "Paraná_Basin", "id": 55208678}, {"name": "Triassic_Brazil", "id": 53679552}], "successors": []}

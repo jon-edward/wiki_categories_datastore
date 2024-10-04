@@ -1,1 +1,1 @@
-{"name": "Dielectrics", "id": 4476461, "predecessors": [{"name": "Electricity", "id": 959298}], "successors": [{"name": "Glass", "id": 1253297}, {"name": "Quartz_varieties", "id": 1129423}, {"name": "Quartzite_formations", "id": 47650677}, {"name": "Crystal_skull", "id": 60217885}]}
+{"name": "Dielectrics", "id": 4476461, "predecessors": [{"name": "Materials", "id": 722279}], "successors": [{"name": "Glass", "id": 1253297}, {"name": "Quartz_varieties", "id": 1129423}, {"name": "Quartzite_formations", "id": 47650677}, {"name": "Crystal_skull", "id": 60217885}]}

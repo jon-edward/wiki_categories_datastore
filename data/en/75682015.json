@@ -1,1 +1,1 @@
-{"name": "Individual_chairs", "id": 75682015, "predecessors": [{"name": "Individual_pieces_of_furniture", "id": 55660233}], "successors": [{"name": "Individual_thrones", "id": 58419360}]}
+{"name": "Individual_chairs", "id": 75682015, "predecessors": [{"name": "Chairs", "id": 2181348}, {"name": "Individual_pieces_of_furniture", "id": 55660233}], "successors": [{"name": "Individual_thrones", "id": 58419360}]}

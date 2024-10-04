@@ -1,1 +1,1 @@
-{"name": "Glider_pilots", "id": 12561659, "predecessors": [{"name": "Air_sports", "id": 3021809}, {"name": "Vehicles", "id": 694929}], "successors": [{"name": "Glider_flight_record_holders", "id": 54357920}]}
+{"name": "Glider_pilots", "id": 12561659, "predecessors": [{"name": "Gliding", "id": 2847368}, {"name": "Competitions", "id": 737119}, {"name": "Vehicles", "id": 694929}], "successors": [{"name": "Lilienthal_Gliding_Medal_recipients", "id": 31629477}]}

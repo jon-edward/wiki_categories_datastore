@@ -1,1 +1,1 @@
-{"name": "Human_eye_anatomy", "id": 36703893, "predecessors": [{"name": "Human_eye", "id": 62044772}, {"name": "Ophthalmology", "id": 765995}, {"name": "Human_anatomy", "id": 2294735}, {"name": "Eye", "id": 1060937}], "successors": []}
+{"name": "Human_eye_anatomy", "id": 36703893, "predecessors": [{"name": "Human_eye", "id": 62044772}, {"name": "Ophthalmology", "id": 765995}, {"name": "Human_anatomy", "id": 2294735}, {"name": "Anatomy", "id": 692380}], "successors": [{"name": "Human_iris", "id": 62044789}, {"name": "Human_pupil", "id": 62045297}]}

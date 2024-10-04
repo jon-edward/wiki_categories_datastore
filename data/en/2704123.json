@@ -1,1 +1,1 @@
-{"name": "British_potters", "id": 2704123, "predecessors": [{"name": "British_ceramicists", "id": 22121945}, {"name": "British_art", "id": 4173215}, {"name": "Ceramic_art", "id": 21064591}], "successors": [{"name": "English_potters", "id": 15901885}]}
+{"name": "British_potters", "id": 2704123, "predecessors": [{"name": "British_ceramicists", "id": 22121945}, {"name": "British_art", "id": 4173215}, {"name": "Art_by_country", "id": 1001486}], "successors": [{"name": "English_potters", "id": 15901885}]}

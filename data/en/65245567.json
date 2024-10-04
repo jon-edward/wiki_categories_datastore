@@ -1,1 +1,1 @@
-{"name": "Negro_league_baseball_seasons", "id": 65245567, "predecessors": [{"name": "Negro_league_baseball", "id": 19468088}], "successors": [{"name": "Negro_league_baseball_teams_seasons", "id": 76698280}]}
+{"name": "Negro_league_baseball_seasons", "id": 65245567, "predecessors": [{"name": "Negro_league_baseball", "id": 19468088}, {"name": "History_of_baseball", "id": 5321637}], "successors": [{"name": "Negro_league_baseball_teams_seasons", "id": 76698280}]}

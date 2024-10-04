@@ -1,1 +1,1 @@
-{"name": "Glycolipids", "id": 28100125, "predecessors": [{"name": "Carbohydrates", "id": 713772}, {"name": "Lipids", "id": 713771}], "successors": []}
+{"name": "Glycolipids", "id": 28100125, "predecessors": [{"name": "Carbohydrates", "id": 713772}, {"name": "Glycobiology", "id": 27433123}, {"name": "Lipids", "id": 713771}], "successors": []}

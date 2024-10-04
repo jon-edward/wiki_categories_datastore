@@ -1,1 +1,1 @@
-{"name": "Iodine_compounds", "id": 1949180, "predecessors": [{"name": "Chemical_compounds_by_element", "id": 1674961}, {"name": "Iodine", "id": 4496905}, {"name": "Halogens", "id": 1573931}], "successors": [{"name": "Iodides", "id": 1869356}, {"name": "Organoiodides", "id": 3204955}, {"name": "Iodates", "id": 2122520}]}
+{"name": "Iodine_compounds", "id": 1949180, "predecessors": [{"name": "Iodine", "id": 4496905}], "successors": [{"name": "Iodides", "id": 1869356}, {"name": "Organoiodides", "id": 3204955}, {"name": "Iodates", "id": 2122520}]}

@@ -1,1 +1,1 @@
-{"name": "FK_Tomori_Berat_players", "id": 26473922, "predecessors": [{"name": "Football_clubs_in_Albania", "id": 34427636}, {"name": "Football_in_Albania", "id": 3059678}], "successors": []}
+{"name": "FK_Tomori_Berat_players", "id": 26473922, "predecessors": [{"name": "Team_sports", "id": 700681}], "successors": []}

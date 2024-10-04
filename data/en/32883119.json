@@ -1,1 +1,1 @@
-{"name": "RTL_(German_TV_channel)_original_programming", "id": 32883119, "predecessors": [{"name": "RTL_Group", "id": 5683097}, {"name": "Television_in_Germany", "id": 20830877}], "successors": [{"name": "Deutschland_sucht_den_Superstar", "id": 31148101}]}
+{"name": "RTL_(German_TV_channel)_original_programming", "id": 32883119, "predecessors": [{"name": "Broadcasting", "id": 765733}], "successors": [{"name": "Deutschland_sucht_den_Superstar", "id": 31148101}]}

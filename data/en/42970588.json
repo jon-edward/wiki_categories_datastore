@@ -1,1 +1,1 @@
-{"name": "Melbourne_City_FC", "id": 42970588, "predecessors": [{"name": "Soccer_clubs_in_Melbourne", "id": 35169345}], "successors": []}
+{"name": "Melbourne_City_FC", "id": 42970588, "predecessors": [{"name": "A-League_Men_teams", "id": 4292718}, {"name": "Soccer_clubs_in_Melbourne", "id": 35169345}], "successors": [{"name": "Melbourne_City_FC_seasons", "id": 35270043}, {"name": "Melbourne_City_FC_players", "id": 42970631}, {"name": "Melbourne_City_FC_non-playing_staff", "id": 42975539}]}

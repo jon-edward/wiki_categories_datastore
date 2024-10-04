@@ -1,1 +1,1 @@
-{"name": "Lucky_symbols", "id": 27756352, "predecessors": [{"name": "Luck", "id": 4826112}], "successors": [{"name": "Swastika", "id": 12717299}, {"name": "Amulets", "id": 25082437}]}
+{"name": "Lucky_symbols", "id": 27756352, "predecessors": [{"name": "Luck", "id": 4826112}, {"name": "Culture", "id": 694861}], "successors": [{"name": "Swastika", "id": 12717299}, {"name": "Amulets", "id": 25082437}]}

@@ -1,1 +1,1 @@
-{"name": "Personnel_economics", "id": 23507747, "predecessors": [{"name": "Human_resource_management", "id": 5039303}], "successors": [{"name": "Offshoring", "id": 10815767}, {"name": "Franchising", "id": 52132859}]}
+{"name": "Personnel_economics", "id": 23507747, "predecessors": [{"name": "Human_resource_management", "id": 5039303}, {"name": "Labour_economics", "id": 4606796}], "successors": [{"name": "Offshoring", "id": 10815767}, {"name": "Franchising", "id": 52132859}]}

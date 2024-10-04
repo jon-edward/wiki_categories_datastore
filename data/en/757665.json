@@ -1,1 +1,1 @@
-{"name": "EC_2.7.7", "id": 757665, "predecessors": [{"name": "DNA_replication", "id": 1172214}], "successors": []}
+{"name": "EC_2.7.7", "id": 757665, "predecessors": [{"name": "DNA_replication", "id": 1172214}, {"name": "Transferases", "id": 719740}], "successors": []}

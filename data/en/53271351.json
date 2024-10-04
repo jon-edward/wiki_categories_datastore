@@ -1,1 +1,1 @@
-{"name": "Tax_organizations", "id": 53271351, "predecessors": [{"name": "Tax", "id": 1241037}], "successors": [{"name": "Taxpayer_groups", "id": 31506526}]}
+{"name": "Tax_organizations", "id": 53271351, "predecessors": [{"name": "Tax", "id": 1241037}, {"name": "Society", "id": 1633936}], "successors": [{"name": "Revenue_services", "id": 27057897}, {"name": "Taxpayer_groups", "id": 31506526}, {"name": "Tax_practitioner_associations", "id": 32261612}]}

@@ -1,1 +1,1 @@
-{"name": "Water_buffalo's-milk_cheeses", "id": 7236765, "predecessors": [{"name": "Milk_by_animal", "id": 50885441}], "successors": []}
+{"name": "Water_buffalo's-milk_cheeses", "id": 7236765, "predecessors": [{"name": "Types_of_food", "id": 58080273}, {"name": "Water_buffalo", "id": 11679914}], "successors": []}

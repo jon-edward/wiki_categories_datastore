@@ -1,1 +1,1 @@
-{"name": "Film_formats", "id": 1120163, "predecessors": [{"name": "Media_formats", "id": 14272021}], "successors": [{"name": "Motion_picture_film_formats", "id": 953089}]}
+{"name": "Film_formats", "id": 1120163, "predecessors": [{"name": "Mechanical_standards", "id": 8273307}, {"name": "Media_formats", "id": 14272021}, {"name": "Photographic_films", "id": 1467845}, {"name": "Structure", "id": 5183917}], "successors": [{"name": "Motion_picture_film_formats", "id": 953089}]}

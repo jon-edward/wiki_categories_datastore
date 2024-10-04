@@ -1,1 +1,1 @@
-{"name": "Ethics_commissions", "id": 35060527, "predecessors": [{"name": "Public_inquiries", "id": 4160062}], "successors": []}
+{"name": "Ethics_commissions", "id": 35060527, "predecessors": [{"name": "Ethics_organizations", "id": 23866449}, {"name": "Public_inquiries", "id": 4160062}], "successors": []}

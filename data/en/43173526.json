@@ -1,1 +1,1 @@
-{"name": "Petrochemicals", "id": 43173526, "predecessors": [{"name": "Petroleum_products", "id": 1458301}], "successors": []}
+{"name": "Petrochemicals", "id": 43173526, "predecessors": [{"name": "Petroleum_products", "id": 1458301}, {"name": "Chemical_engineering", "id": 1147083}], "successors": []}

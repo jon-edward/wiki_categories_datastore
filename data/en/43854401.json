@@ -1,1 +1,1 @@
-{"name": "Chemotherapy_regimens_used_in_lymphoma", "id": 43854401, "predecessors": [{"name": "Lymphoma", "id": 26669375}], "successors": []}
+{"name": "Chemotherapy_regimens_used_in_lymphoma", "id": 43854401, "predecessors": [{"name": "Lymphoma", "id": 26669375}, {"name": "Antineoplastic_drugs", "id": 22255852}], "successors": []}

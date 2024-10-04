@@ -1,1 +1,1 @@
-{"name": "Companies_based_in_Kirklees", "id": 18305049, "predecessors": [{"name": "Metropolitan_boroughs", "id": 3395119}], "successors": [{"name": "Companies_based_in_Huddersfield", "id": 18306097}]}
+{"name": "Companies_based_in_Kirklees", "id": 18305049, "predecessors": [{"name": "Metropolitan_boroughs", "id": 3395119}, {"name": "Counties_of_England", "id": 846741}], "successors": [{"name": "Companies_based_in_Huddersfield", "id": 18306097}]}

@@ -1,1 +1,1 @@
-{"name": "Women_print_editors", "id": 48600120, "predecessors": [{"name": "Print_editors", "id": 717632}, {"name": "Women_editors", "id": 42013180}], "successors": []}
+{"name": "Women_print_editors", "id": 48600120, "predecessors": [{"name": "Print_editors", "id": 717632}, {"name": "Women_editors", "id": 42013180}], "successors": [{"name": "Women_newspaper_editors", "id": 43960133}]}

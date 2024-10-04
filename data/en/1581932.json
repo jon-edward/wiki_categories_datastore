@@ -1,1 +1,1 @@
-{"name": "Incapacitating_agents", "id": 1581932, "predecessors": [{"name": "Chemical_weapons", "id": 700042}, {"name": "Non-lethal_weapons", "id": 29174287}], "successors": []}
+{"name": "Incapacitating_agents", "id": 1581932, "predecessors": [{"name": "Chemical_weapons", "id": 700042}, {"name": "Non-lethal_weapons", "id": 29174287}], "successors": [{"name": "Psychedelics,_dissociatives_and_deliriants", "id": 2194339}]}

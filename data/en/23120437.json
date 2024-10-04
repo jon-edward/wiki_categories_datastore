@@ -1,1 +1,1 @@
-{"name": "Horse_farms_in_Australia", "id": 23120437, "predecessors": [{"name": "Farms_in_Australia", "id": 15366089}, {"name": "Farms_by_type", "id": 69552663}], "successors": []}
+{"name": "Horse_farms_in_Australia", "id": 23120437, "predecessors": [{"name": "Farms_in_Australia", "id": 15366089}, {"name": "Livestock_in_Australia", "id": 55057289}, {"name": "Farms_by_type", "id": 69552663}], "successors": []}

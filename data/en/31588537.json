@@ -1,1 +1,1 @@
-{"name": "Feral_dogs", "id": 31588537, "predecessors": [{"name": "Dog_types", "id": 704388}], "successors": [{"name": "Street_dogs", "id": 41435019}]}
+{"name": "Feral_dogs", "id": 31588537, "predecessors": [{"name": "Dog_types", "id": 704388}, {"name": "Feral_animals", "id": 19032416}], "successors": [{"name": "Street_dogs", "id": 41435019}]}

@@ -1,1 +1,1 @@
-{"name": "Atypical_antipsychotics", "id": 718550, "predecessors": [{"name": "Dopamine_antagonists", "id": 733156}], "successors": []}
+{"name": "Atypical_antipsychotics", "id": 718550, "predecessors": [{"name": "Antipsychotics", "id": 718544}, {"name": "Dopamine_antagonists", "id": 733156}], "successors": []}

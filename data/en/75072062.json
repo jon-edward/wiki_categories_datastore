@@ -1,1 +1,1 @@
-{"name": "Chinese_character_components", "id": 75072062, "predecessors": [{"name": "Chinese_characters", "id": 6524051}, {"name": "Technology_systems", "id": 10958482}], "successors": [{"name": "Kangxi_radicals", "id": 20895072}, {"name": "Simplified_Chinese_radicals", "id": 66285397}]}
+{"name": "Chinese_character_components", "id": 75072062, "predecessors": [{"name": "Chinese_characters", "id": 6524051}, {"name": "Structure", "id": 5183917}], "successors": [{"name": "Kangxi_radicals", "id": 20895072}, {"name": "Simplified_Chinese_radicals", "id": 66285397}]}

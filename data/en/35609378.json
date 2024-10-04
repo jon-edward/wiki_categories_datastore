@@ -1,1 +1,1 @@
-{"name": "Great_Wall_Motors_vehicles", "id": 35609378, "predecessors": [{"name": "Cars_of_China", "id": 4415809}, {"name": "Car_manufacturers_of_China", "id": 29485204}], "successors": [{"name": "WEY_vehicles", "id": 67470878}, {"name": "Haval_vehicles", "id": 67769966}]}
+{"name": "Great_Wall_Motors_vehicles", "id": 35609378, "predecessors": [{"name": "Cars_of_China", "id": 4415809}, {"name": "Chinese_brands", "id": 22858065}], "successors": [{"name": "WEY_vehicles", "id": 67470878}, {"name": "Haval_vehicles", "id": 67769966}]}

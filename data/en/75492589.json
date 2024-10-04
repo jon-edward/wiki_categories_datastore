@@ -1,1 +1,1 @@
-{"name": "Bariatric_surgery", "id": 75492589, "predecessors": [{"name": "Management_of_obesity", "id": 38316947}], "successors": []}
+{"name": "Bariatric_surgery", "id": 75492589, "predecessors": [{"name": "Digestive_system_surgery", "id": 32487353}, {"name": "Management_of_obesity", "id": 38316947}], "successors": []}

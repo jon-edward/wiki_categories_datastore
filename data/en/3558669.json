@@ -1,1 +1,1 @@
-{"name": "Fermions", "id": 3558669, "predecessors": [{"name": "Spinors", "id": 4094772}, {"name": "Subatomic_particles", "id": 700598}], "successors": [{"name": "Leptons", "id": 723070}, {"name": "Quarks", "id": 2122629}, {"name": "Baryons", "id": 3558594}]}
+{"name": "Fermions", "id": 3558669, "predecessors": [{"name": "Spinors", "id": 4094772}], "successors": [{"name": "Leptons", "id": 723070}, {"name": "Quarks", "id": 2122629}, {"name": "Baryons", "id": 3558594}]}

@@ -1,1 +1,1 @@
-{"name": "Canadian_talk_radio_hosts", "id": 20926654, "predecessors": [{"name": "Canadian_radio_hosts", "id": 53731325}], "successors": [{"name": "Canadian_sports_talk_radio_hosts", "id": 63917736}]}
+{"name": "Canadian_talk_radio_hosts", "id": 20926654, "predecessors": [{"name": "Canadian_radio_hosts", "id": 53731325}, {"name": "Canadian_talk_radio_programs", "id": 14290798}], "successors": [{"name": "Canadian_sports_talk_radio_hosts", "id": 63917736}]}

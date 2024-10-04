@@ -1,1 +1,1 @@
-{"name": "ARM-based_systems_on_chips", "id": 72563895, "predecessors": [{"name": "System_on_a_chip", "id": 39378120}], "successors": [{"name": "Apple_silicon", "id": 65818198}]}
+{"name": "ARM-based_systems_on_chips", "id": 72563895, "predecessors": [{"name": "ARM_architecture", "id": 3291475}, {"name": "System_on_a_chip", "id": 39378120}], "successors": [{"name": "Apple_silicon", "id": 65818198}]}

@@ -1,1 +1,1 @@
-{"name": "Regius_Professorships", "id": 18157243, "predecessors": [{"name": "Higher_education_in_the_United_Kingdom", "id": 20027626}], "successors": [{"name": "Regius_Professors", "id": 48894234}]}
+{"name": "Regius_Professorships", "id": 18157243, "predecessors": [{"name": "Higher_education_in_the_United_Kingdom", "id": 20027626}, {"name": "Professorships", "id": 4865314}], "successors": [{"name": "Regius_Professors", "id": 48894234}]}

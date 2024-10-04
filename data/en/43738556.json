@@ -1,1 +1,1 @@
-{"name": "Coke_ovens", "id": 43738556, "predecessors": [{"name": "Coal_industry", "id": 52565651}], "successors": []}
+{"name": "Coke_ovens", "id": 43738556, "predecessors": [{"name": "Ovens", "id": 43738405}, {"name": "Coal_industry", "id": 52565651}], "successors": []}

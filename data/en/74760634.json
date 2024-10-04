@@ -1,1 +1,1 @@
-{"name": "Resignations", "id": 74760634, "predecessors": [{"name": "Termination_of_employment", "id": 16552514}, {"name": "Strategy", "id": 4685400}, {"name": "Government", "id": 697609}], "successors": [{"name": "Abdication", "id": 33900850}]}
+{"name": "Resignations", "id": 74760634, "predecessors": [{"name": "Political_science", "id": 693803}, {"name": "Termination_of_employment", "id": 16552514}, {"name": "Strategy", "id": 4685400}, {"name": "Government", "id": 697609}], "successors": [{"name": "Abdication", "id": 33900850}]}

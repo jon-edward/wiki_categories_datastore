@@ -1,1 +1,1 @@
-{"name": "Mexican_amber", "id": 47357215, "predecessors": [{"name": "Amber", "id": 43523158}, {"name": "Lagerstätten", "id": 21168918}, {"name": "Neogene_Mexico", "id": 43328301}, {"name": "Paleogene_Mexico", "id": 43328392}, {"name": "Oligocene_North_America", "id": 47925997}, {"name": "Miocene_life", "id": 3394131}], "successors": []}
+{"name": "Mexican_amber", "id": 47357215, "predecessors": [{"name": "Amber", "id": 43523158}, {"name": "Lagerstätten", "id": 21168918}, {"name": "Miocene_life", "id": 3394131}, {"name": "Extinction", "id": 1297233}], "successors": []}

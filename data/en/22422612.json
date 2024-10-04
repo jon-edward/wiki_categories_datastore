@@ -1,1 +1,1 @@
-{"name": "Finswimming", "id": 22422612, "predecessors": [{"name": "Swimming", "id": 691570}, {"name": "Underwater_sports", "id": 27792419}], "successors": []}
+{"name": "Finswimming", "id": 22422612, "predecessors": [{"name": "Swimming", "id": 691570}, {"name": "Underwater_sports", "id": 27792419}], "successors": [{"name": "Finswimmers", "id": 47980290}, {"name": "Finswimming_World_Championships", "id": 57914884}]}

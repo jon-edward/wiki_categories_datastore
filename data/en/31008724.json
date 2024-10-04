@@ -1,1 +1,1 @@
-{"name": "Tributaries_of_the_Feather_River", "id": 31008724, "predecessors": [{"name": "Feather_River", "id": 29146688}], "successors": [{"name": "Yuba_River", "id": 49849540}]}
+{"name": "Tributaries_of_the_Feather_River", "id": 31008724, "predecessors": [{"name": "Feather_River", "id": 29146688}, {"name": "Tributaries_of_the_Sacramento_River", "id": 31008357}], "successors": [{"name": "Yuba_River", "id": 49849540}]}

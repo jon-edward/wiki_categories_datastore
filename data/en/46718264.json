@@ -1,1 +1,1 @@
-{"name": "Fires_at_legislative_buildings", "id": 46718264, "predecessors": [{"name": "Legislative_buildings", "id": 1381485}], "successors": []}
+{"name": "Fires_at_legislative_buildings", "id": 46718264, "predecessors": [{"name": "Legislative_buildings", "id": 1381485}, {"name": "Disasters", "id": 745842}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Dwarf_novae", "id": 5112827, "predecessors": [{"name": "Binary_stars", "id": 948379}, {"name": "Cataclysmic_variable_stars", "id": 35250517}, {"name": "Novae", "id": 1671324}, {"name": "White_dwarfs", "id": 39120330}], "successors": []}
+{"name": "Dwarf_novae", "id": 5112827, "predecessors": [{"name": "Cataclysmic_variable_stars", "id": 35250517}, {"name": "Novae", "id": 1671324}, {"name": "White_dwarfs", "id": 39120330}], "successors": []}

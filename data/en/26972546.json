@@ -1,1 +1,1 @@
-{"name": "Association_football_magazines", "id": 26972546, "predecessors": [{"name": "Sports_magazines", "id": 1118385}, {"name": "Ball_games", "id": 996038}], "successors": [{"name": "Football_fanzines", "id": 26088437}, {"name": "France_Football_awards", "id": 70496571}]}
+{"name": "Association_football_magazines", "id": 26972546, "predecessors": [{"name": "Sports_magazines", "id": 1118385}, {"name": "Association_football_organizations", "id": 43599324}], "successors": [{"name": "Football_fanzines", "id": 26088437}, {"name": "France_Football_awards", "id": 70496571}]}

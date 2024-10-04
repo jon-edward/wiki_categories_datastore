@@ -1,1 +1,1 @@
-{"name": "Talent_shows", "id": 26867764, "predecessors": [{"name": "Variety_shows", "id": 35047104}], "successors": [{"name": "Got_Talent", "id": 17723840}]}
+{"name": "Talent_shows", "id": 26867764, "predecessors": [{"name": "Variety_shows", "id": 35047104}], "successors": [{"name": "Got_Talent", "id": 17723840}, {"name": "Dance_competition_television_shows", "id": 40771476}, {"name": "Singing_talent_shows", "id": 41169281}, {"name": "Show_Me_the_Money_(South_Korean_TV_series)", "id": 49507883}]}

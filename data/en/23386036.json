@@ -1,1 +1,1 @@
-{"name": "Type_C2_ships", "id": 23386036, "predecessors": [{"name": "Ship_classes", "id": 730439}], "successors": [{"name": "Type_C2_ships_of_the_United_States_Navy", "id": 23482648}]}
+{"name": "Type_C2_ships", "id": 23386036, "predecessors": [{"name": "Ship_classes", "id": 730439}], "successors": [{"name": "Type_C2_ships_of_the_United_States_Navy", "id": 23482648}, {"name": "Type_C2-S-B1_ships", "id": 23386317}, {"name": "Type_C2-S-AJ1_ships", "id": 23386480}, {"name": "Tolland-class_attack_cargo_ships", "id": 38677805}]}

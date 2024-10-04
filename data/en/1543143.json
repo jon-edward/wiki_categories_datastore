@@ -1,1 +1,1 @@
-{"name": "Clothing_manufacturers", "id": 1543143, "predecessors": [{"name": "Design_companies", "id": 7968526}], "successors": [{"name": "Swimwear_manufacturers", "id": 1487517}, {"name": "Suit_makers", "id": 28602687}]}
+{"name": "Clothing_manufacturers", "id": 1543143, "predecessors": [{"name": "Businesspeople_in_textiles", "id": 29503984}, {"name": "Clothing", "id": 737090}], "successors": [{"name": "Swimwear_manufacturers", "id": 1487517}, {"name": "Suit_makers", "id": 28602687}, {"name": "Knitwear_manufacturers", "id": 37311089}]}

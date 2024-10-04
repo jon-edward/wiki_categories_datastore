@@ -1,1 +1,1 @@
-{"name": "Social_work_education", "id": 43259341, "predecessors": [{"name": "Social_work", "id": 5783724}], "successors": []}
+{"name": "Social_work_education", "id": 43259341, "predecessors": [{"name": "Education_by_subject", "id": 2477717}, {"name": "Social_work", "id": 5783724}, {"name": "Vocational_education", "id": 2251696}], "successors": [{"name": "Schools_of_social_work", "id": 10367711}]}

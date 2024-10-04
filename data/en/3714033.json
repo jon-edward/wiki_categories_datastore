@@ -1,1 +1,1 @@
-{"name": "Financial_cryptography", "id": 3714033, "predecessors": [{"name": "Applications_of_cryptography", "id": 3506226}, {"name": "Computer_security", "id": 765969}], "successors": [{"name": "Cryptocurrencies", "id": 41684201}]}
+{"name": "Financial_cryptography", "id": 3714033, "predecessors": [{"name": "Applications_of_cryptography", "id": 3506226}, {"name": "Computer_security", "id": 765969}, {"name": "Payment_systems", "id": 1053701}], "successors": [{"name": "Cryptocurrencies", "id": 41684201}]}

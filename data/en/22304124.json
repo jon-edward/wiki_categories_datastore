@@ -1,1 +1,1 @@
-{"name": "Astronomical_X-ray_sources", "id": 22304124, "predecessors": [{"name": "Astronomical_objects", "id": 960879}, {"name": "X-ray_astronomy", "id": 24891771}], "successors": [{"name": "X-ray_binaries", "id": 5107154}]}
+{"name": "Astronomical_X-ray_sources", "id": 22304124, "predecessors": [{"name": "Astronomical_objects", "id": 960879}], "successors": [{"name": "X-ray_binaries", "id": 5107154}]}

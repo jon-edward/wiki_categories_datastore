@@ -1,1 +1,1 @@
-{"name": "Graphical_user_interface_testing", "id": 30964044, "predecessors": [{"name": "Graphical_user_interfaces", "id": 30872503}, {"name": "Software_testing_tools", "id": 30996248}], "successors": []}
+{"name": "Graphical_user_interface_testing", "id": 30964044, "predecessors": [{"name": "Automation_software", "id": 42864368}, {"name": "Graphical_user_interfaces", "id": 30872503}, {"name": "Software_testing_tools", "id": 30996248}], "successors": []}

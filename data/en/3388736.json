@@ -1,0 +1,1 @@
+{"name": "Sedans", "id": 3388736, "predecessors": [{"name": "Car_body_styles", "id": 750616}], "successors": [{"name": "Executive_cars", "id": 6164959}, {"name": "Sports_sedans", "id": 13437671}, {"name": "Limousines", "id": 37235898}]}

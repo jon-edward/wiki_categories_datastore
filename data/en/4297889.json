@@ -1,1 +1,1 @@
-{"name": "Shorebirds", "id": 4297889, "predecessors": [{"name": "Birds_by_common_name", "id": 11002423}, {"name": "Wading_birds", "id": 4280919}], "successors": [{"name": "Sandpipers", "id": 20942477}]}
+{"name": "Shorebirds", "id": 4297889, "predecessors": [{"name": "Wading_birds", "id": 4280919}], "successors": [{"name": "Sandpipers", "id": 20942477}, {"name": "Vanellus", "id": 12422240}, {"name": "Charadrius", "id": 1872428}, {"name": "Anarhynchus", "id": 75615111}, {"name": "Haematopus", "id": 12423738}]}

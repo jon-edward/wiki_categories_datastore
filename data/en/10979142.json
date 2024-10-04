@@ -1,1 +1,1 @@
-{"name": "Lecturers", "id": 10979142, "predecessors": [{"name": "Education_and_training_occupations", "id": 18730907}, {"name": "Public_speaking", "id": 2810397}], "successors": [{"name": "Public_orators", "id": 36687505}]}
+{"name": "Lecturers", "id": 10979142, "predecessors": [{"name": "Education_and_training_occupations", "id": 18730907}, {"name": "Educators", "id": 752485}, {"name": "Public_speaking", "id": 2810397}], "successors": [{"name": "Public_orators", "id": 36687505}]}

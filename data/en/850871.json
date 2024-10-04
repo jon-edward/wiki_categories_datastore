@@ -1,1 +1,1 @@
-{"name": "Skylab_program", "id": 850871, "predecessors": [{"name": "Human_spaceflight_programs", "id": 43562977}, {"name": "NASA_programs", "id": 1201326}, {"name": "Space_stations", "id": 693396}], "successors": [{"name": "Skylab_program_astronauts", "id": 61267157}]}
+{"name": "Skylab_program", "id": 850871, "predecessors": [{"name": "NASA_programs", "id": 1201326}, {"name": "Space_stations", "id": 693396}], "successors": [{"name": "Skylab_program_astronauts", "id": 61267157}]}

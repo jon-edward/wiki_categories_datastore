@@ -1,1 +1,1 @@
-{"name": "Optical_telescope_components", "id": 54272612, "predecessors": [{"name": "Optical_telescopes", "id": 54264333}, {"name": "Technology_systems", "id": 10958482}], "successors": []}
+{"name": "Optical_telescope_components", "id": 54272612, "predecessors": [{"name": "Optical_telescopes", "id": 54264333}, {"name": "Structure", "id": 5183917}], "successors": []}

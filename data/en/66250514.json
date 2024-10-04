@@ -1,1 +1,1 @@
-{"name": "Horse_trade", "id": 66250514, "predecessors": [{"name": "Animal_trade", "id": 66250086}, {"name": "Agriculture_by_type", "id": 31038144}], "successors": [{"name": "Horse_trader", "id": 66251818}]}
+{"name": "Horse_trade", "id": 66250514, "predecessors": [{"name": "Agriculture_by_type", "id": 31038144}], "successors": [{"name": "Horse_trader", "id": 66251818}]}

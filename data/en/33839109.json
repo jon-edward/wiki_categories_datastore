@@ -1,1 +1,1 @@
-{"name": "Badminton_at_the_Summer_Olympics", "id": 33839109, "predecessors": [{"name": "Sports_at_the_Summer_Olympics", "id": 43038293}], "successors": [{"name": "Olympic_badminton_venues", "id": 31109905}]}
+{"name": "Badminton_at_the_Summer_Olympics", "id": 33839109, "predecessors": [{"name": "Badminton_at_multi-sport_events", "id": 39696242}, {"name": "Sports_at_the_Summer_Olympics", "id": 43038293}], "successors": [{"name": "Olympic_badminton_venues", "id": 31109905}, {"name": "Olympic_medalists_in_badminton", "id": 32062867}]}

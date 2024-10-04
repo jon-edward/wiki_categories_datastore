@@ -1,1 +1,1 @@
-{"name": "Baby_products", "id": 21527449, "predecessors": [{"name": "Consumer_goods", "id": 916951}, {"name": "Infancy", "id": 1737226}], "successors": [{"name": "Babycare", "id": 12531391}, {"name": "Baby_food_manufacturers", "id": 31524679}]}
+{"name": "Baby_products", "id": 21527449, "predecessors": [{"name": "Consumer_goods", "id": 916951}, {"name": "Infancy", "id": 1737226}], "successors": [{"name": "Babycare", "id": 12531391}, {"name": "Infant_products_companies", "id": 20928780}, {"name": "Baby_food_manufacturers", "id": 31524679}]}

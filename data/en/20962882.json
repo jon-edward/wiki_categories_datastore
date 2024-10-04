@@ -1,1 +1,1 @@
-{"name": "Indian_pottery", "id": 20962882, "predecessors": [{"name": "Indian_handicrafts", "id": 29599666}], "successors": [{"name": "Indian_potters", "id": 21218513}]}
+{"name": "Indian_pottery", "id": 20962882, "predecessors": [{"name": "Indian_handicrafts", "id": 29599666}, {"name": "Art_by_country", "id": 1001486}], "successors": [{"name": "Indian_potters", "id": 21218513}]}

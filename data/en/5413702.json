@@ -1,1 +1,1 @@
-{"name": "Benzazepines", "id": 5413702, "predecessors": [{"name": "Aromatic_compounds", "id": 1369194}, {"name": "Heterocyclic_compounds_with_2_rings", "id": 4488801}, {"name": "Heterocyclic_compounds_with_1_ring", "id": 5235450}], "successors": [{"name": "Dibenzazepines", "id": 25904004}]}
+{"name": "Benzazepines", "id": 5413702, "predecessors": [{"name": "Aromatic_compounds", "id": 1369194}, {"name": "Nitrogen_heterocycles", "id": 3197412}], "successors": []}

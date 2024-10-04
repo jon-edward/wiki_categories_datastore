@@ -1,1 +1,1 @@
-{"name": "Guitar_magazines", "id": 3717841, "predecessors": [{"name": "Guitars", "id": 1018151}, {"name": "Music_magazines", "id": 1117100}], "successors": []}
+{"name": "Guitar_magazines", "id": 3717841, "predecessors": [{"name": "Music_magazines", "id": 1117100}, {"name": "Music_journalism", "id": 15528317}], "successors": []}

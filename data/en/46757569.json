@@ -1,1 +1,1 @@
-{"name": "Goodwill_ambassador_programmes", "id": 46757569, "predecessors": [{"name": "Diplomacy", "id": 911551}], "successors": [{"name": "United_Nations_goodwill_ambassadors", "id": 61979309}]}
+{"name": "Goodwill_ambassador_programmes", "id": 46757569, "predecessors": [{"name": "Diplomacy", "id": 911551}, {"name": "Social_change", "id": 3659012}, {"name": "Diplomatic_ranks", "id": 46837417}], "successors": [{"name": "United_Nations_goodwill_ambassadors", "id": 61979309}]}

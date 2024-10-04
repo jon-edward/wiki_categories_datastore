@@ -1,1 +1,1 @@
-{"name": "Cohort_studies", "id": 32775573, "predecessors": [{"name": "Epidemiology", "id": 903647}, {"name": "Health_informatics", "id": 3031321}, {"name": "Panel_data", "id": 20134093}], "successors": []}
+{"name": "Cohort_studies", "id": 32775573, "predecessors": [{"name": "Epidemiology", "id": 903647}, {"name": "Health_informatics", "id": 3031321}, {"name": "Panel_data", "id": 20134093}, {"name": "Statistical_data_sets", "id": 6538378}], "successors": []}

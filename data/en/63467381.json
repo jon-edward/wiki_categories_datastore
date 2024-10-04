@@ -1,1 +1,1 @@
-{"name": "IndyCar_Series_champions", "id": 63467381, "predecessors": [{"name": "IndyCar_Series", "id": 3413739}, {"name": "IndyCar_Series_drivers", "id": 34854358}, {"name": "Automotive_events", "id": 5252068}, {"name": "Champ_Car", "id": 5100878}], "successors": [{"name": "Tony_Stewart", "id": 36652867}]}
+{"name": "IndyCar_Series_champions", "id": 63467381, "predecessors": [{"name": "IndyCar_Series", "id": 3413739}, {"name": "IndyCar_Series_drivers", "id": 34854358}, {"name": "Champ_Car", "id": 5100878}], "successors": [{"name": "Tony_Stewart", "id": 36652867}]}

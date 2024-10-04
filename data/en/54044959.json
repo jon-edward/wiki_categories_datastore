@@ -1,1 +1,1 @@
-{"name": "Heart_transplant_recipients", "id": 54044959, "predecessors": [{"name": "Heart", "id": 19400737}], "successors": []}
+{"name": "Heart_transplant_recipients", "id": 54044959, "predecessors": [{"name": "Heart", "id": 19400737}, {"name": "Organ_transplantation", "id": 38959574}], "successors": []}

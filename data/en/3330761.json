@@ -1,1 +1,1 @@
-{"name": "Amstrad_CPC", "id": 3330761, "predecessors": [{"name": "Amstrad", "id": 12549877}, {"name": "Home_computers", "id": 707669}, {"name": "Computers", "id": 4583997}], "successors": [{"name": "Amstrad_CPC_games", "id": 827521}]}
+{"name": "Amstrad_CPC", "id": 3330761, "predecessors": [{"name": "Amstrad", "id": 12549877}, {"name": "Home_computers", "id": 707669}, {"name": "Z80-based_home_computers", "id": 41186875}, {"name": "Computers", "id": 4583997}], "successors": []}

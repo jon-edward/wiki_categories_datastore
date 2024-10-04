@@ -1,1 +1,1 @@
-{"name": "Formula_One_engines", "id": 21304735, "predecessors": [{"name": "Automobile_engines", "id": 773958}, {"name": "Formula_One", "id": 699395}], "successors": [{"name": "Formula_One_engine_manufacturers", "id": 1227690}, {"name": "Formula_One_engine_engineers", "id": 72773450}]}
+{"name": "Formula_One_engines", "id": 21304735, "predecessors": [{"name": "Automobile_engines", "id": 773958}, {"name": "Formula_One", "id": 699395}], "successors": [{"name": "Formula_One_engine_engineers", "id": 72773450}]}

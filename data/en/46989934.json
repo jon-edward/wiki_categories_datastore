@@ -1,1 +1,1 @@
-{"name": "Borders_Railway", "id": 46989934, "predecessors": [{"name": "Standard_gauge_railways_in_Scotland", "id": 31635277}, {"name": "Transport_in_Midlothian", "id": 4205476}, {"name": "Transport_in_the_Scottish_Borders", "id": 4208498}], "successors": []}
+{"name": "Borders_Railway", "id": 46989934, "predecessors": [{"name": "Transport_in_Edinburgh", "id": 1755002}, {"name": "Transport_in_Midlothian", "id": 4205476}, {"name": "Transport_in_the_Scottish_Borders", "id": 4208498}], "successors": []}

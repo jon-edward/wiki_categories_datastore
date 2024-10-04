@@ -1,1 +1,1 @@
-{"name": "Pareidolia", "id": 77607738, "predecessors": [{"name": "Auditory_illusions", "id": 715334}, {"name": "Optical_illusions", "id": 859315}, {"name": "Visual_perception", "id": 18328389}], "successors": []}
+{"name": "Pareidolia", "id": 77607738, "predecessors": [{"name": "Auditory_illusions", "id": 715334}, {"name": "Cognitive_biases", "id": 893782}, {"name": "Optical_illusions", "id": 859315}], "successors": []}

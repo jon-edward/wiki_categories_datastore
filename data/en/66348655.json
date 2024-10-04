@@ -1,1 +1,1 @@
-{"name": "Animal_breeding_organizations", "id": 66348655, "predecessors": [{"name": "Animal_breeding", "id": 36659941}], "successors": [{"name": "Breeder_organizations", "id": 2090833}]}
+{"name": "Animal_breeding_organizations", "id": 66348655, "predecessors": [{"name": "Animal_breeding", "id": 36659941}, {"name": "Zoology_organizations", "id": 14507721}], "successors": [{"name": "Breeder_organizations", "id": 2090833}]}

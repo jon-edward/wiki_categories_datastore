@@ -1,1 +1,1 @@
-{"name": "Stockbrokers", "id": 39630729, "predecessors": [{"name": "Stock_market", "id": 988245}, {"name": "Finance_occupations", "id": 50682347}], "successors": [{"name": "Women_stockbrokers", "id": 48217237}]}
+{"name": "Stockbrokers", "id": 39630729, "predecessors": [{"name": "Stock_market", "id": 988245}], "successors": [{"name": "Women_stockbrokers", "id": 48217237}]}

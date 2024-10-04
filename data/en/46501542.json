@@ -1,1 +1,1 @@
-{"name": "Decrees", "id": 46501542, "predecessors": [{"name": "Legal_documents", "id": 694070}, {"name": "Sources_of_law", "id": 36468932}], "successors": [{"name": "Soviet_decrees", "id": 46501608}, {"name": "United_States_presidential_directives", "id": 55473800}]}
+{"name": "Decrees", "id": 46501542, "predecessors": [{"name": "Legal_documents", "id": 694070}], "successors": [{"name": "Soviet_decrees", "id": 46501608}, {"name": "United_States_presidential_directives", "id": 55473800}]}

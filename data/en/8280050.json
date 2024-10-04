@@ -1,0 +1,1 @@
+{"name": "Prodrugs", "id": 8280050, "predecessors": [{"name": "Drugs", "id": 1325883}, {"name": "Medicinal_chemistry", "id": 2161858}], "successors": [{"name": "Corticosteroid_esters", "id": 54551344}, {"name": "Sex_hormone_esters_and_conjugates", "id": 75474559}, {"name": "Neurotransmitter_precursors", "id": 75474600}]}

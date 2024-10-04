@@ -1,1 +1,1 @@
-{"name": "Railway_stations_in_Ticino", "id": 34522352, "predecessors": [{"name": "Buildings_and_structures_in_Ticino", "id": 23917662}, {"name": "Transport_in_Ticino", "id": 36453038}, {"name": "Public_transport_in_Switzerland", "id": 6495572}], "successors": []}
+{"name": "Railway_stations_in_Ticino", "id": 34522352, "predecessors": [{"name": "Rail_transport_in_Switzerland", "id": 5364824}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Toei_Mita_Line", "id": 8112956, "predecessors": [{"name": "Railway_lines_in_Tokyo", "id": 52156652}, {"name": "Toei_Subway", "id": 5158995}], "successors": []}
+{"name": "Toei_Mita_Line", "id": 8112956, "predecessors": [{"name": "Toei_Subway", "id": 5158995}], "successors": []}

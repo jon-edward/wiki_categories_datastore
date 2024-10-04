@@ -1,1 +1,1 @@
-{"name": "Glory_kickboxers", "id": 50399911, "predecessors": [{"name": "Boxing_people", "id": 24191384}], "successors": [{"name": "Glory_champions", "id": 73371207}]}
+{"name": "Glory_kickboxers", "id": 50399911, "predecessors": [{"name": "Kickboxing_organizations", "id": 16274619}, {"name": "Boxing_people", "id": 24191384}], "successors": [{"name": "Glory_champions", "id": 73371207}]}

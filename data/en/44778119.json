@@ -1,1 +1,1 @@
-{"name": "Ford_Australia_vehicles", "id": 44778119, "predecessors": [{"name": "Cars_of_Australia", "id": 28855580}, {"name": "Ford_vehicles", "id": 704106}, {"name": "Car_manufacturers_of_Australia", "id": 29486591}], "successors": []}
+{"name": "Ford_Australia_vehicles", "id": 44778119, "predecessors": [{"name": "Cars_of_Australia", "id": 28855580}, {"name": "Ford_vehicles", "id": 704106}, {"name": "Ford_Motor_Company", "id": 24744557}], "successors": []}

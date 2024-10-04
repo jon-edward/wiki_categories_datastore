@@ -1,1 +1,1 @@
-{"name": "Aviation_accidents_and_incidents_caused_by_clear_air_turbulence", "id": 77631531, "predecessors": [{"name": "Airliner_accidents_and_incidents_caused_by_weather", "id": 33849073}], "successors": []}
+{"name": "Aviation_accidents_and_incidents_caused_by_clear_air_turbulence", "id": 77631531, "predecessors": [{"name": "Aviation_accidents_and_incidents_caused_by_weather", "id": 64791491}, {"name": "Turbulence", "id": 8113170}], "successors": []}

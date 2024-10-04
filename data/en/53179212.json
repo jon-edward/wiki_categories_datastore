@@ -1,1 +1,1 @@
-{"name": "Torah_study", "id": 53179212, "predecessors": [{"name": "Torah", "id": 766410}], "successors": [{"name": "Women_rabbis_and_Torah_scholars", "id": 69761266}]}
+{"name": "Torah_study", "id": 53179212, "predecessors": [{"name": "Orthodox_yeshivas", "id": 2711272}, {"name": "Torah", "id": 766410}], "successors": [{"name": "Women_rabbis_and_Torah_scholars", "id": 69761266}]}

@@ -1,1 +1,1 @@
-{"name": "Airports_in_Tokyo", "id": 61494324, "predecessors": [{"name": "Buildings_and_structures_in_Tokyo", "id": 3302811}, {"name": "Airports_in_Japan", "id": 2842807}, {"name": "Geography_of_Tokyo", "id": 3303350}, {"name": "Kantō_region", "id": 7501374}, {"name": "Transport_infrastructure", "id": 2962532}], "successors": [{"name": "Haneda_Airport", "id": 50680922}]}
+{"name": "Airports_in_Tokyo", "id": 61494324, "predecessors": [{"name": "Transport_infrastructure", "id": 2962532}], "successors": []}

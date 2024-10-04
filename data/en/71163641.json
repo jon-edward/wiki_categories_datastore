@@ -1,1 +1,1 @@
-{"name": "Cuboids", "id": 71163641, "predecessors": [{"name": "Elementary_shapes", "id": 33759104}, {"name": "Polyhedra", "id": 731400}, {"name": "Zonohedra", "id": 3690411}], "successors": [{"name": "Cubes", "id": 31304937}]}
+{"name": "Cuboids", "id": 71163641, "predecessors": [{"name": "Elementary_shapes", "id": 33759104}, {"name": "Polyhedra", "id": 731400}, {"name": "Prismatoid_polyhedra", "id": 2951418}, {"name": "Space-filling_polyhedra", "id": 25344436}, {"name": "Zonohedra", "id": 3690411}], "successors": [{"name": "Cubes", "id": 31304937}]}

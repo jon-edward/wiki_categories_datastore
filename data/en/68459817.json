@@ -1,1 +1,1 @@
-{"name": "Network_science", "id": 68459817, "predecessors": [{"name": "Network_theory", "id": 18839833}], "successors": [{"name": "Blockmodeling", "id": 68459772}, {"name": "Network_scientists", "id": 68459968}, {"name": "Social_network_analysis", "id": 68542719}]}
+{"name": "Network_science", "id": 68459817, "predecessors": [{"name": "Computer_science", "id": 691117}, {"name": "Social_sciences", "id": 695042}], "successors": [{"name": "Blockmodeling", "id": 68459772}, {"name": "Network_scientists", "id": 68459968}, {"name": "Social_network_analysis", "id": 68542719}]}

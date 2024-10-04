@@ -1,1 +1,1 @@
-{"name": "Falstad_concentration_camp_survivors", "id": 24562159, "predecessors": [{"name": "Nazi_concentration_camp_survivors", "id": 1435813}, {"name": "Prisoners_of_Nazi_concentration_camps", "id": 29567641}], "successors": []}
+{"name": "Falstad_concentration_camp_survivors", "id": 24562159, "predecessors": [{"name": "Nazi_concentration_camp_survivors", "id": 1435813}, {"name": "Nazi_concentration_camps_in_Norway", "id": 1602646}], "successors": []}

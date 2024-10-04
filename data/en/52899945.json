@@ -1,1 +1,1 @@
-{"name": "Austrian_women_psychiatrists", "id": 52899945, "predecessors": [{"name": "Austrian_psychiatrists", "id": 1854015}, {"name": "Women_psychiatrists", "id": 52898703}, {"name": "Health_by_country", "id": 2693630}], "successors": []}
+{"name": "Austrian_women_psychiatrists", "id": 52899945, "predecessors": [{"name": "Women_physicians", "id": 3903758}, {"name": "Women_psychiatrists", "id": 52898703}], "successors": []}

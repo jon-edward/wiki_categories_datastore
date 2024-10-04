@@ -1,1 +1,1 @@
-{"name": "Discrete_groups", "id": 1390971, "predecessors": [{"name": "Geometric_group_theory", "id": 1427925}, {"name": "Topological_groups", "id": 974639}], "successors": [{"name": "Automorphic_forms", "id": 971791}, {"name": "Kleinian_groups", "id": 30990568}]}
+{"name": "Discrete_groups", "id": 1390971, "predecessors": [{"name": "Geometric_group_theory", "id": 1427925}], "successors": [{"name": "Automorphic_forms", "id": 971791}, {"name": "Kleinian_groups", "id": 30990568}]}

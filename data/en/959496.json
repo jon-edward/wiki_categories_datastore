@@ -1,1 +1,1 @@
-{"name": "Sex_educators", "id": 959496, "predecessors": [{"name": "Sex_education", "id": 5950242}, {"name": "Health_education", "id": 6123888}], "successors": [{"name": "American_sex_columnists", "id": 51150207}]}
+{"name": "Sex_educators", "id": 959496, "predecessors": [{"name": "Sex_education", "id": 5950242}, {"name": "Education_by_subject", "id": 2477717}, {"name": "Health_education", "id": 6123888}], "successors": [{"name": "American_sex_columnists", "id": 51150207}]}

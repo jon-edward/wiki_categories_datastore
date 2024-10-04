@@ -1,1 +1,1 @@
-{"name": "Looting_in_North_America", "id": 75952337, "predecessors": [{"name": "Americas", "id": 1526345}], "successors": [{"name": "Looting_in_the_United_States", "id": 76301656}]}
+{"name": "Looting_in_North_America", "id": 75952337, "predecessors": [{"name": "Continents", "id": 788686}, {"name": "Looting", "id": 33788975}], "successors": [{"name": "Looting_in_the_United_States", "id": 76301656}]}

@@ -1,1 +1,1 @@
-{"name": "School_violence", "id": 65494286, "predecessors": [{"name": "School_bullying", "id": 31769640}, {"name": "Violence", "id": 692173}], "successors": [{"name": "Attacks_on_universities_and_colleges_in_Asia", "id": 76707386}]}
+{"name": "School_violence", "id": 65494286, "predecessors": [{"name": "Education_issues", "id": 2478321}, {"name": "School_bullying", "id": 31769640}, {"name": "Violence", "id": 692173}], "successors": [{"name": "Works_about_school_violence", "id": 65494308}]}

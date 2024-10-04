@@ -1,1 +1,1 @@
-{"name": "Sony_software", "id": 19571211, "predecessors": [{"name": "Software_industry", "id": 14444058}], "successors": [{"name": "Sony_Interactive_Entertainment_games", "id": 11776095}]}
+{"name": "Sony_software", "id": 19571211, "predecessors": [{"name": "Sony_products", "id": 1291539}, {"name": "Electronics_industry", "id": 35046850}], "successors": [{"name": "Sony_Interactive_Entertainment_games", "id": 11776095}]}

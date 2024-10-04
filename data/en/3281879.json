@@ -1,1 +1,1 @@
-{"name": "Steel_companies_of_Japan", "id": 3281879, "predecessors": [{"name": "Manufacturing_companies_of_Japan", "id": 4688489}, {"name": "Companies_of_Japan", "id": 736471}, {"name": "Economy_of_Japan", "id": 1448803}], "successors": [{"name": "Nippon_Steel", "id": 71588157}]}
+{"name": "Steel_companies_of_Japan", "id": 3281879, "predecessors": [{"name": "Steel_industry", "id": 33916632}], "successors": [{"name": "Nippon_Steel", "id": 71588157}]}

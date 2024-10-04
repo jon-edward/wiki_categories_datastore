@@ -1,1 +1,1 @@
-{"name": "Hematopoiesis", "id": 32636203, "predecessors": [{"name": "Blood_cells", "id": 3108835}, {"name": "Hematology", "id": 693583}, {"name": "Immunology", "id": 804899}], "successors": []}
+{"name": "Hematopoiesis", "id": 32636203, "predecessors": [{"name": "Hematology", "id": 693583}, {"name": "Immunology", "id": 804899}], "successors": []}

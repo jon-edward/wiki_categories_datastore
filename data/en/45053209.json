@@ -1,1 +1,1 @@
-{"name": "Fortified_towers", "id": 45053209, "predecessors": [{"name": "Towers", "id": 791935}], "successors": [{"name": "Martello_towers", "id": 36897570}, {"name": "Fortified_towers_by_type", "id": 45053259}]}
+{"name": "Fortified_towers", "id": 45053209, "predecessors": [{"name": "Fortifications_by_type", "id": 34892847}, {"name": "Towers", "id": 791935}], "successors": [{"name": "Martello_towers", "id": 36897570}, {"name": "Fortified_towers_by_type", "id": 45053259}]}

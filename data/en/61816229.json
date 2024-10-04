@@ -1,1 +1,1 @@
-{"name": "Women_deans_(academic)", "id": 61816229, "predecessors": [{"name": "Women_academic_administrators", "id": 40987355}], "successors": [{"name": "Deans_of_women", "id": 52252046}]}
+{"name": "Women_deans_(academic)", "id": 61816229, "predecessors": [{"name": "Deans_(academic)", "id": 22297670}, {"name": "Women_academic_administrators", "id": 40987355}], "successors": [{"name": "Deans_of_women", "id": 52252046}]}

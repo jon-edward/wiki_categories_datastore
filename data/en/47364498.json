@@ -1,1 +1,1 @@
-{"name": "Quaternary_fossil_record", "id": 47364498, "predecessors": [{"name": "Quaternary", "id": 7211112}, {"name": "Paleontology", "id": 716918}], "successors": [{"name": "Homo_fossils", "id": 46233895}]}
+{"name": "Quaternary_fossil_record", "id": 47364498, "predecessors": [{"name": "Extinction", "id": 1297233}, {"name": "Paleontology", "id": 716918}], "successors": [{"name": "Homo_fossils", "id": 46233895}, {"name": "Pleistocene_first_appearances", "id": 46900932}]}

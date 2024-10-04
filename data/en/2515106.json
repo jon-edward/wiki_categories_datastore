@@ -1,1 +1,1 @@
-{"name": "English_domestic_cricket_competitions", "id": 2515106, "predecessors": [{"name": "Sports_competitions_in_England", "id": 24282603}], "successors": []}
+{"name": "English_domestic_cricket_competitions", "id": 2515106, "predecessors": [{"name": "Sports_competitions_in_England", "id": 24282603}, {"name": "Cricket", "id": 692385}], "successors": [{"name": "Cricket_competitions_in_Yorkshire", "id": 63705504}, {"name": "Super_Fours", "id": 68342900}, {"name": "Women's_Twenty20_Cup", "id": 72680810}, {"name": "County_Championship_seasons", "id": 50773145}]}

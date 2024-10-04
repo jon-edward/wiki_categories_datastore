@@ -1,1 +1,1 @@
-{"name": "Japanese_Army_officers", "id": 33962346, "predecessors": [{"name": "Military_personnel", "id": 6660319}, {"name": "Government_of_Japan", "id": 1448683}, {"name": "Japanese_military_personnel", "id": 6676821}], "successors": [{"name": "Japanese_generals", "id": 1643794}, {"name": "Imperial_Japanese_Army_officers", "id": 60562830}]}
+{"name": "Japanese_Army_officers", "id": 33962346, "predecessors": [{"name": "Military_personnel", "id": 6660319}], "successors": [{"name": "Japanese_generals", "id": 1643794}, {"name": "Imperial_Japanese_Army_officers", "id": 60562830}]}

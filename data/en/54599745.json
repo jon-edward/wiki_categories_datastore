@@ -1,1 +1,1 @@
-{"name": "Vultures", "id": 54599745, "predecessors": [{"name": "Birds_by_common_name", "id": 11002423}, {"name": "Birds_of_prey", "id": 1173183}, {"name": "Scavengers", "id": 18064051}], "successors": []}
+{"name": "Vultures", "id": 54599745, "predecessors": [{"name": "Scavengers", "id": 18064051}], "successors": []}

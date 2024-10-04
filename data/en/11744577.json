@@ -1,1 +1,1 @@
-{"name": "Immigration_to_Greece", "id": 11744577, "predecessors": [{"name": "Demographics_of_Europe", "id": 29268366}], "successors": [{"name": "Immigrants_to_Greece", "id": 15779635}]}
+{"name": "Immigration_to_Greece", "id": 11744577, "predecessors": [{"name": "Immigration", "id": 8704137}, {"name": "Demographics_of_Europe", "id": 29268366}], "successors": [{"name": "Immigrants_to_Greece", "id": 15779635}]}

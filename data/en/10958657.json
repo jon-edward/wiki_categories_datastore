@@ -1,1 +1,1 @@
-{"name": "SUSE_Linux", "id": 10958657, "predecessors": [{"name": "Micro_Focus_International", "id": 47591613}, {"name": "Novell_software", "id": 6363304}, {"name": "RPM-based_Linux_distributions", "id": 5763231}], "successors": []}
+{"name": "SUSE_Linux", "id": 10958657, "predecessors": [{"name": "Enterprise_Linux_distributions", "id": 22390643}, {"name": "Micro_Focus_International", "id": 47591613}, {"name": "Novell_software", "id": 6363304}, {"name": "RPM-based_Linux_distributions", "id": 5763231}], "successors": []}

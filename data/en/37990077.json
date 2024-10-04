@@ -1,1 +1,1 @@
-{"name": "TNF_inhibitors", "id": 37990077, "predecessors": [{"name": "Disease-modifying_antirheumatic_drugs", "id": 71300727}], "successors": []}
+{"name": "TNF_inhibitors", "id": 37990077, "predecessors": [{"name": "Disease-modifying_antirheumatic_drugs", "id": 71300727}, {"name": "Drugs_by_mechanism_of_action", "id": 22001991}], "successors": []}

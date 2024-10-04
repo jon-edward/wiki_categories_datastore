@@ -1,1 +1,1 @@
-{"name": "Color_depths", "id": 7347937, "predecessors": [{"name": "Color", "id": 979606}, {"name": "Computer_display_standards", "id": 6608152}, {"name": "Television_technology", "id": 1257870}], "successors": []}
+{"name": "Color_depths", "id": 7347937, "predecessors": [{"name": "Color", "id": 979606}, {"name": "Computer_display_standards", "id": 6608152}, {"name": "Computer_graphics", "id": 735771}, {"name": "Television_technology", "id": 1257870}], "successors": []}

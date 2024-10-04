@@ -1,1 +1,1 @@
-{"name": "Hospitals_in_Toronto", "id": 1019792, "predecessors": [{"name": "Buildings_and_structures_in_Toronto", "id": 3081267}, {"name": "Health_in_Toronto", "id": 22598989}, {"name": "Hospitals_in_Ontario", "id": 5224765}], "successors": []}
+{"name": "Hospitals_in_Toronto", "id": 1019792, "predecessors": [{"name": "Health_in_Toronto", "id": 22598989}], "successors": []}

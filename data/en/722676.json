@@ -1,0 +1,1 @@
+{"name": "Anatomical_pathology", "id": 722676, "predecessors": [{"name": "Anatomy", "id": 692380}, {"name": "Pathology", "id": 1311481}], "successors": [{"name": "Gross_pathology", "id": 10807861}, {"name": "Histopathology", "id": 10807902}, {"name": "Lesions", "id": 42216461}, {"name": "Fistulas", "id": 44313476}]}

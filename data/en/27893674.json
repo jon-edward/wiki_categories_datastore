@@ -1,1 +1,1 @@
-{"name": "Wildlife_smuggling", "id": 27893674, "predecessors": [{"name": "Animal_trade", "id": 66250086}, {"name": "Smuggling", "id": 3515950}, {"name": "Wildlife", "id": 10932162}], "successors": [{"name": "Poaching", "id": 61170479}]}
+{"name": "Wildlife_smuggling", "id": 27893674, "predecessors": [{"name": "Wildlife", "id": 10932162}], "successors": [{"name": "Poaching", "id": 61170479}]}

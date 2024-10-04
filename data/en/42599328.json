@@ -1,1 +1,1 @@
-{"name": "Sunday_magazines", "id": 42599328, "predecessors": [{"name": "Sunday_newspapers", "id": 31714280}, {"name": "Sunday", "id": 31714397}], "successors": []}
+{"name": "Sunday_magazines", "id": 42599328, "predecessors": [{"name": "Newspaper_supplements", "id": 37333292}, {"name": "Sunday_newspapers", "id": 31714280}, {"name": "Sunday", "id": 31714397}], "successors": []}

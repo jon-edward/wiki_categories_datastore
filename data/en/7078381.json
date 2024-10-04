@@ -1,1 +1,1 @@
-{"name": "Scouting_events", "id": 7078381, "predecessors": [{"name": "Scouting", "id": 748558}, {"name": "Youth_events", "id": 42790262}], "successors": [{"name": "Scouting_jamborees", "id": 7068959}]}
+{"name": "Scouting_events", "id": 7078381, "predecessors": [{"name": "Scouting", "id": 748558}], "successors": [{"name": "Scouting_jamborees", "id": 7068959}]}

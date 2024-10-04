@@ -1,1 +1,1 @@
-{"name": "Edible_palms", "id": 41817383, "predecessors": [{"name": "Arecaceae", "id": 1190683}, {"name": "Edible_plants", "id": 1318013}], "successors": []}
+{"name": "Edible_palms", "id": 41817383, "predecessors": [{"name": "Arecaceae", "id": 1190683}, {"name": "Edible_plants", "id": 1318013}], "successors": [{"name": "Oil_palm", "id": 27750931}]}

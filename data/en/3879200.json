@@ -1,1 +1,1 @@
-{"name": "MSN", "id": 3879200, "predecessors": [{"name": "Web_portals", "id": 1544009}], "successors": [{"name": "Windows_Live", "id": 3322074}, {"name": "MSNBC", "id": 5980007}]}
+{"name": "MSN", "id": 3879200, "predecessors": [{"name": "Microsoft_websites", "id": 5387000}, {"name": "Web_portals", "id": 1544009}], "successors": [{"name": "Windows_Live", "id": 3322074}, {"name": "MSNBC", "id": 5980007}]}

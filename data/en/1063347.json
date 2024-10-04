@@ -1,1 +1,1 @@
-{"name": "Physiological_psychology", "id": 1063347, "predecessors": [{"name": "Human_physiology", "id": 2261140}], "successors": [{"name": "Laughter", "id": 17974474}]}
+{"name": "Physiological_psychology", "id": 1063347, "predecessors": [{"name": "Behavioral_neuroscience", "id": 6568309}, {"name": "Branches_of_psychology", "id": 2870944}, {"name": "Human_physiology", "id": 2261140}], "successors": [{"name": "Laughter", "id": 17974474}]}

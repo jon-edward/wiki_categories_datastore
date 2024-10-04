@@ -1,1 +1,1 @@
-{"name": "Geometric_centers", "id": 33432516, "predecessors": [{"name": "Euclidean_geometry", "id": 694421}, {"name": "Point_(geometry)", "id": 67269243}, {"name": "Symmetry", "id": 2320527}], "successors": [{"name": "Means", "id": 1087706}]}
+{"name": "Geometric_centers", "id": 33432516, "predecessors": [{"name": "Euclidean_geometry", "id": 694421}, {"name": "Point_(geometry)", "id": 67269243}, {"name": "Symmetry", "id": 2320527}], "successors": [{"name": "Means", "id": 1087706}, {"name": "Geographical_centres", "id": 11188125}, {"name": "Triangle_centers", "id": 33432527}]}

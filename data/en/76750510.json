@@ -1,1 +1,1 @@
-{"name": "Golf_writers", "id": 76750510, "predecessors": [{"name": "Sports_journalists", "id": 6023369}], "successors": [{"name": "Tiger_Woods", "id": 34411725}]}
+{"name": "Golf_writers", "id": 76750510, "predecessors": [{"name": "Golf_people", "id": 23977499}, {"name": "Golf_culture", "id": 65582380}], "successors": [{"name": "Tiger_Woods", "id": 34411725}]}

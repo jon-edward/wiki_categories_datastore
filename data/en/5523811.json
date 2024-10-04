@@ -1,1 +1,1 @@
-{"name": "Luftwaffe_Wings", "id": 5523811, "predecessors": [{"name": "Government_of_Germany", "id": 2253591}, {"name": "Military_aviation", "id": 924143}], "successors": [{"name": "Fighter_wings_of_the_Luftwaffe_1933-1945", "id": 68953174}, {"name": "Bomber_wings_of_the_Luftwaffe_1933-1945", "id": 69071741}]}
+{"name": "Luftwaffe_Wings", "id": 5523811, "predecessors": [{"name": "Military_aviation", "id": 924143}], "successors": [{"name": "Fighter_wings_of_the_Luftwaffe_1933-1945", "id": 68953174}, {"name": "Bomber_wings_of_the_Luftwaffe_1933-1945", "id": 69071741}]}

@@ -1,1 +1,1 @@
-{"name": "GPER_agonists", "id": 64333155, "predecessors": [{"name": "Receptor_agonists", "id": 22002801}], "successors": []}
+{"name": "GPER_agonists", "id": 64333155, "predecessors": [{"name": "Receptor_agonists", "id": 22002801}, {"name": "Drugs_by_mechanism_of_action", "id": 22001991}], "successors": []}

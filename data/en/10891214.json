@@ -1,1 +1,1 @@
-{"name": "Railway_stations_in_Mecklenburg-Western_Pomerania", "id": 10891214, "predecessors": [{"name": "Transport_in_Mecklenburg-Western_Pomerania", "id": 10891394}, {"name": "Mecklenburg-Vorpommern", "id": 10891178}, {"name": "Passenger_rail_transport_in_Germany", "id": 15878601}], "successors": []}
+{"name": "Railway_stations_in_Mecklenburg-Western_Pomerania", "id": 10891214, "predecessors": [{"name": "Passenger_rail_transport_in_Germany", "id": 15878601}], "successors": [{"name": "Rostock_S-Bahn_stations", "id": 55745993}]}

@@ -1,1 +1,1 @@
-{"name": "Combination_vaccines", "id": 57765896, "predecessors": [{"name": "Vaccines", "id": 1064664}], "successors": []}
+{"name": "Combination_vaccines", "id": 57765896, "predecessors": [{"name": "Combination_drugs", "id": 27641879}, {"name": "Vaccines", "id": 1064664}], "successors": []}

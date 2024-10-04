@@ -1,1 +1,1 @@
-{"name": "Advertising_tools", "id": 32830047, "predecessors": [{"name": "Advertising", "id": 884913}, {"name": "Tools", "id": 846098}], "successors": [{"name": "Billboards", "id": 11888640}]}
+{"name": "Advertising_tools", "id": 32830047, "predecessors": [{"name": "Advertising", "id": 884913}, {"name": "Tools", "id": 846098}], "successors": [{"name": "Billboards", "id": 11888640}, {"name": "Advertising_publications_by_format", "id": 32830160}]}

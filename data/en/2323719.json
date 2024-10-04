@@ -1,1 +1,1 @@
-{"name": "SNCF_multiple_units", "id": 2323719, "predecessors": [{"name": "Rolling_stock", "id": 1103564}, {"name": "Rail_transport_in_France", "id": 2837463}, {"name": "SNCF", "id": 2323663}], "successors": [{"name": "TGV_trainsets", "id": 25670136}]}
+{"name": "SNCF_multiple_units", "id": 2323719, "predecessors": [{"name": "Rolling_stock", "id": 1103564}, {"name": "Rail_transport_in_France", "id": 2837463}], "successors": [{"name": "TGV_trainsets", "id": 25670136}]}

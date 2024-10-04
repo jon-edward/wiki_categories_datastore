@@ -1,1 +1,1 @@
-{"name": "Blister_agents", "id": 21220462, "predecessors": [{"name": "Chemical_weapons", "id": 700042}], "successors": []}
+{"name": "Blister_agents", "id": 21220462, "predecessors": [{"name": "Antineoplastic_drugs", "id": 22255852}, {"name": "Chemical_weapons", "id": 700042}], "successors": []}

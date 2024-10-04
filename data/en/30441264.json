@@ -1,1 +1,1 @@
-{"name": "Immigration_to_Sweden", "id": 30441264, "predecessors": [{"name": "Demographics_of_Europe", "id": 29268366}], "successors": [{"name": "Immigrants_to_Sweden", "id": 16955767}, {"name": "Refugees_in_Sweden", "id": 30945936}]}
+{"name": "Immigration_to_Sweden", "id": 30441264, "predecessors": [{"name": "Immigration", "id": 8704137}, {"name": "Demographics_of_Europe", "id": 29268366}], "successors": [{"name": "Immigrants_to_Sweden", "id": 16955767}, {"name": "Refugees_in_Sweden", "id": 30945936}]}

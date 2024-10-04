@@ -1,1 +1,1 @@
-{"name": "Children's_books_about_dogs", "id": 73822754, "predecessors": [{"name": "Children's_books_about_animals", "id": 73822669}, {"name": "Dogs_in_literature", "id": 32860323}, {"name": "Animals_in_culture", "id": 52196120}], "successors": [{"name": "Children's_novels_about_dogs", "id": 73860424}]}
+{"name": "Children's_books_about_dogs", "id": 73822754, "predecessors": [{"name": "Dogs_in_literature", "id": 32860323}], "successors": [{"name": "Children's_novels_about_dogs", "id": 73860424}]}

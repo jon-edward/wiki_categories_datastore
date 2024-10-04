@@ -1,1 +1,1 @@
-{"name": "Popstars_contestants", "id": 34259340, "predecessors": [{"name": "Popstars", "id": 25190098}], "successors": [{"name": "Popstars_winners", "id": 34259369}]}
+{"name": "Popstars_contestants", "id": 34259340, "predecessors": [{"name": "Popstars", "id": 25190098}, {"name": "Singing_talent_show_contestants", "id": 40199173}], "successors": [{"name": "Popstars_winners", "id": 34259369}]}

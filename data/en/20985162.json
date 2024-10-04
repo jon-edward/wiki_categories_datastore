@@ -1,1 +1,1 @@
-{"name": "Tributaries_of_the_Congo_River", "id": 20985162, "predecessors": [{"name": "Congo_River", "id": 20953122}], "successors": [{"name": "Kasai_River", "id": 21375726}, {"name": "Lualaba_River", "id": 21971163}]}
+{"name": "Tributaries_of_the_Congo_River", "id": 20985162, "predecessors": [{"name": "Congo_River", "id": 20953122}, {"name": "Congo_drainage_basin", "id": 30837874}], "successors": [{"name": "Kasai_River", "id": 21375726}, {"name": "Lualaba_River", "id": 21971163}]}

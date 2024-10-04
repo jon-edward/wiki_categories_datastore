@@ -1,1 +1,1 @@
-{"name": "Fictional_goblins", "id": 7202205, "predecessors": [{"name": "Fictional_humanoids", "id": 37442919}, {"name": "Goblins", "id": 7202210}], "successors": [{"name": "Fictional_trolls", "id": 2603536}, {"name": "Green_Goblin", "id": 66116396}]}
+{"name": "Fictional_goblins", "id": 7202205, "predecessors": [{"name": "Goblins", "id": 7202210}], "successors": [{"name": "Fictional_trolls", "id": 2603536}, {"name": "Green_Goblin", "id": 66116396}]}

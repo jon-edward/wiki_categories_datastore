@@ -1,1 +1,1 @@
-{"name": "Door_furniture", "id": 1200110, "predecessors": [{"name": "Furniture", "id": 965851}], "successors": []}
+{"name": "Door_furniture", "id": 1200110, "predecessors": [{"name": "Doors", "id": 2867563}, {"name": "Furniture", "id": 965851}], "successors": []}

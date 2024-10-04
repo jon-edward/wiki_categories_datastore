@@ -1,1 +1,1 @@
-{"name": "Sprint_(running)", "id": 35040500, "predecessors": [{"name": "Running_by_type", "id": 57328875}], "successors": []}
+{"name": "Sprint_(running)", "id": 35040500, "predecessors": [{"name": "Running_by_type", "id": 57328875}], "successors": [{"name": "Sprint_hurdles", "id": 60945438}, {"name": "Sprint_running_disciplines", "id": 77117013}]}

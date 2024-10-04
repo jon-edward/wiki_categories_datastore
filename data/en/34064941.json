@@ -1,1 +1,1 @@
-{"name": "TC_2000_Championship_drivers", "id": 34064941, "predecessors": [{"name": "Automotive_events", "id": 5252068}, {"name": "Sport_in_Argentina", "id": 3020701}, {"name": "Individual_sports", "id": 862248}], "successors": [{"name": "Súper_TC_2000_drivers", "id": 67417511}]}
+{"name": "TC_2000_Championship_drivers", "id": 34064941, "predecessors": [{"name": "Sport_in_Argentina", "id": 3020701}, {"name": "Individual_sports", "id": 862248}], "successors": [{"name": "Súper_TC_2000_drivers", "id": 67417511}]}

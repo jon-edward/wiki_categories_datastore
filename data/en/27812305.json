@@ -1,1 +1,1 @@
-{"name": "Cooper_racing_cars", "id": 27812305, "predecessors": [{"name": "British_racecar_constructors", "id": 13061572}, {"name": "Car_brands", "id": 52723773}], "successors": [{"name": "Cooper_Formula_One_cars", "id": 12512437}]}
+{"name": "Cooper_racing_cars", "id": 27812305, "predecessors": [{"name": "British_racecar_constructors", "id": 13061572}, {"name": "Racing_cars", "id": 1047165}], "successors": [{"name": "Cooper_Formula_One_cars", "id": 12512437}]}

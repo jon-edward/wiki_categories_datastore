@@ -1,1 +1,1 @@
-{"name": "FK_Vardar", "id": 9769612, "predecessors": [{"name": "Football_clubs_in_Skopje", "id": 43169067}], "successors": []}
+{"name": "FK_Vardar", "id": 9769612, "predecessors": [{"name": "Football_clubs_in_Skopje", "id": 43169067}], "successors": [{"name": "FK_Vardar_players", "id": 20956687}]}

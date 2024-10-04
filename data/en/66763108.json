@@ -1,1 +1,1 @@
-{"name": "Railway_stations_closed_in_2021", "id": 66763108, "predecessors": [{"name": "21st_century", "id": 884422}, {"name": "2021", "id": 23416494}], "successors": [{"name": "Railway_stations_in_Japan_closed_in_2021", "id": 75202555}]}
+{"name": "Railway_stations_closed_in_2021", "id": 66763108, "predecessors": [{"name": "2021", "id": 23416494}, {"name": "21st_century", "id": 884422}, {"name": "Rail_transport", "id": 700920}], "successors": [{"name": "Railway_stations_in_Japan_closed_in_2021", "id": 75202555}]}

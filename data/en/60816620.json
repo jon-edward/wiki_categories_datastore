@@ -1,1 +1,1 @@
-{"name": "British_university_and_college_faculty_deans", "id": 60816620, "predecessors": [{"name": "British_academic_administrators", "id": 56066562}, {"name": "Universities_and_colleges_in_the_United_Kingdom", "id": 2877782}], "successors": []}
+{"name": "British_university_and_college_faculty_deans", "id": 60816620, "predecessors": [{"name": "Universities_and_colleges_in_the_United_Kingdom", "id": 2877782}, {"name": "Deans_(academic)", "id": 22297670}], "successors": [{"name": "Deans_of_the_Royal_College_of_Science", "id": 63611998}]}

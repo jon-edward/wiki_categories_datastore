@@ -1,1 +1,1 @@
-{"name": "Surfing_equipment", "id": 27835695, "predecessors": [{"name": "Surfing", "id": 774169}], "successors": [{"name": "Surfwear_brands", "id": 20143046}]}
+{"name": "Surfing_equipment", "id": 27835695, "predecessors": [{"name": "Surfing", "id": 774169}, {"name": "Water_sports_equipment", "id": 23112594}], "successors": [{"name": "Surfwear_brands", "id": 20143046}]}

@@ -1,1 +1,1 @@
-{"name": "Indian_pop", "id": 17366229, "predecessors": [{"name": "Indian_styles_of_music", "id": 1750081}, {"name": "Pop_music_genres", "id": 2567688}], "successors": []}
+{"name": "Indian_pop", "id": 17366229, "predecessors": [{"name": "Pop_music_genres", "id": 2567688}], "successors": [{"name": "Indian_pop_singers", "id": 7982783}, {"name": "Indian_pop_composers", "id": 17366257}]}

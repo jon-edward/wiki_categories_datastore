@@ -1,1 +1,1 @@
-{"name": "Philadelphia_Flyers_players", "id": 700667, "predecessors": [{"name": "Philadelphia_Flyers", "id": 2098554}], "successors": [{"name": "Philadelphia_Flyers_captains", "id": 30581030}]}
+{"name": "Philadelphia_Flyers_players", "id": 700667, "predecessors": [{"name": "National_Hockey_League_players", "id": 4070276}, {"name": "Sports_occupations_and_roles", "id": 25536293}], "successors": [{"name": "Philadelphia_Flyers_captains", "id": 30581030}]}

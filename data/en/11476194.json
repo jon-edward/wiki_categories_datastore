@@ -1,1 +1,1 @@
-{"name": "Pilgrimage_routes", "id": 11476194, "predecessors": [{"name": "Pilgrimage", "id": 725614}, {"name": "Transport_infrastructure", "id": 2962532}], "successors": [{"name": "Camino_de_Santiago_routes", "id": 61571891}]}
+{"name": "Pilgrimage_routes", "id": 11476194, "predecessors": [{"name": "Pilgrimage", "id": 725614}, {"name": "Transport_infrastructure", "id": 2962532}, {"name": "Footpaths", "id": 6824242}], "successors": [{"name": "Camino_de_Santiago_routes", "id": 61571891}]}

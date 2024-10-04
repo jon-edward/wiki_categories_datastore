@@ -1,1 +1,1 @@
-{"name": "Olympic_sailing_venues", "id": 31153505, "predecessors": [{"name": "Marinas", "id": 2859628}, {"name": "Sailing_at_the_Summer_Olympics", "id": 33840118}, {"name": "Entertainment", "id": 693016}, {"name": "Sailing_(sport)", "id": 39828227}], "successors": []}
+{"name": "Olympic_sailing_venues", "id": 31153505, "predecessors": [{"name": "Marinas", "id": 2859628}, {"name": "Sailing_at_the_Summer_Olympics", "id": 33840118}, {"name": "Event_management", "id": 38591267}, {"name": "Sailing_(sport)", "id": 39828227}], "successors": []}

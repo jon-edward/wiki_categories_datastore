@@ -1,1 +1,1 @@
-{"name": "Floppy_disk_computer_storage", "id": 28177766, "predecessors": [{"name": "Computer_storage_devices", "id": 895945}, {"name": "Legacy_hardware", "id": 10048344}, {"name": "Rotating_disc_computer_storage_media", "id": 1218078}], "successors": [{"name": "Floppy_disk_drives", "id": 19313791}]}
+{"name": "Floppy_disk_computer_storage", "id": 28177766, "predecessors": [{"name": "Computer_storage_devices", "id": 895945}, {"name": "Legacy_hardware", "id": 10048344}], "successors": [{"name": "Floppy_disk_drives", "id": 19313791}]}

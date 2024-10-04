@@ -1,1 +1,1 @@
-{"name": "Books_about_actors", "id": 42043680, "predecessors": [{"name": "Books_about_film", "id": 6193340}, {"name": "Occupations", "id": 787658}, {"name": "Biographical_books", "id": 9550264}], "successors": [{"name": "Biographies_about_actors", "id": 38248829}]}
+{"name": "Books_about_actors", "id": 42043680, "predecessors": [{"name": "Books_about_film", "id": 6193340}], "successors": []}

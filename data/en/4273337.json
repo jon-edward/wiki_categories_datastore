@@ -1,1 +1,1 @@
-{"name": "MLS_Cup", "id": 4273337, "predecessors": [{"name": "MLS_Cup_playoffs", "id": 37591741}, {"name": "Major_League_Soccer", "id": 3135272}, {"name": "Endings", "id": 52707259}], "successors": []}
+{"name": "MLS_Cup", "id": 4273337, "predecessors": [{"name": "MLS_Cup_playoffs", "id": 37591741}, {"name": "Major_League_Soccer", "id": 3135272}, {"name": "Endings", "id": 52707259}], "successors": [{"name": "MLS_Cup_champion_seasons", "id": 49033924}]}

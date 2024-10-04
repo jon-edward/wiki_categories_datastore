@@ -1,1 +1,1 @@
-{"name": "Cityscapes", "id": 17488769, "predecessors": [{"name": "Landscape", "id": 7904093}, {"name": "City", "id": 9467493}], "successors": [{"name": "Venice_in_art", "id": 61518281}, {"name": "Amsterdam_in_art", "id": 61524913}]}
+{"name": "Cityscapes", "id": 17488769, "predecessors": [{"name": "Cities", "id": 699805}], "successors": [{"name": "Venice_in_art", "id": 61518281}, {"name": "Amsterdam_in_art", "id": 61524913}, {"name": "Rome_in_art", "id": 73516272}]}

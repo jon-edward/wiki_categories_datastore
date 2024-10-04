@@ -1,1 +1,1 @@
-{"name": "Fungal_strawberry_diseases", "id": 42810446, "predecessors": [{"name": "Fungal_fruit_diseases", "id": 54850518}, {"name": "Small_fruit_diseases", "id": 9500916}], "successors": []}
+{"name": "Fungal_strawberry_diseases", "id": 42810446, "predecessors": [{"name": "Fungal_fruit_diseases", "id": 54850518}, {"name": "Fragaria", "id": 8366706}], "successors": []}

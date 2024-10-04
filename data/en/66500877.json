@@ -1,1 +1,1 @@
-{"name": "Transportation_journals", "id": 66500877, "predecessors": [{"name": "Human_activities", "id": 56691321}], "successors": []}
+{"name": "Transportation_journals", "id": 66500877, "predecessors": [{"name": "Engineering_journals", "id": 6715198}, {"name": "Human_activities", "id": 56691321}], "successors": []}

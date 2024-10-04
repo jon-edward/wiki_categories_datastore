@@ -1,1 +1,1 @@
-{"name": "Special_Air_Service_soldiers", "id": 17093125, "predecessors": [{"name": "British_Army_soldiers", "id": 788865}, {"name": "Special_Air_Service", "id": 8272693}], "successors": []}
+{"name": "Special_Air_Service_soldiers", "id": 17093125, "predecessors": [{"name": "British_Army_soldiers", "id": 788865}, {"name": "Special_Air_Service", "id": 8272693}, {"name": "Special_forces", "id": 740538}], "successors": []}

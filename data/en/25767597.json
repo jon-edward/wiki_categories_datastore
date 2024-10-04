@@ -1,1 +1,1 @@
-{"name": "House_plants", "id": 25767597, "predecessors": [{"name": "Gardening", "id": 740309}, {"name": "Ornamental_plants", "id": 42670397}], "successors": []}
+{"name": "House_plants", "id": 25767597, "predecessors": [{"name": "Gardening", "id": 740309}, {"name": "Ornamental_plants", "id": 42670397}], "successors": [{"name": "Low_light_plants", "id": 59782781}]}

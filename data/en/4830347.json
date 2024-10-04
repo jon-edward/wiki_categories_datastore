@@ -1,1 +1,1 @@
-{"name": "ECHL_seasons", "id": 4830347, "predecessors": [{"name": "Minor_league_ice_hockey", "id": 2811029}, {"name": "Winter_sports", "id": 700686}], "successors": []}
+{"name": "ECHL_seasons", "id": 4830347, "predecessors": [{"name": "Minor_league_ice_hockey", "id": 2811029}, {"name": "Athletic_sports", "id": 31210709}], "successors": [{"name": "Kelly_Cup_playoffs", "id": 26861136}]}

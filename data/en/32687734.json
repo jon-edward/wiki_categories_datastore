@@ -1,1 +1,1 @@
-{"name": "Plant_proteins", "id": 32687734, "predecessors": [{"name": "Plant_physiology", "id": 717191}, {"name": "Tree_of_life_(biology)", "id": 44386495}], "successors": [{"name": "Seed_storage_proteins", "id": 12513215}]}
+{"name": "Plant_proteins", "id": 32687734, "predecessors": [{"name": "Proteins", "id": 717889}], "successors": [{"name": "Seed_storage_proteins", "id": 12513215}]}

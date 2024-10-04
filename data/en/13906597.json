@@ -1,1 +1,1 @@
-{"name": "Book_promotion", "id": 13906597, "predecessors": [{"name": "Books", "id": 694040}, {"name": "Promotion_and_marketing_communications", "id": 1232608}], "successors": [{"name": "Television_shows_about_books_and_literature", "id": 72312592}, {"name": "Radio_programs_about_books_and_literature", "id": 73672058}]}
+{"name": "Book_promotion", "id": 13906597, "predecessors": [{"name": "Books", "id": 694040}, {"name": "Promotion_and_marketing_communications", "id": 1232608}], "successors": [{"name": "Radio_programs_about_books_and_literature", "id": 73672058}]}

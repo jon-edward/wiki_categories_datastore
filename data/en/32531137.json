@@ -1,1 +1,1 @@
-{"name": "Urological_neoplasia", "id": 32531137, "predecessors": [{"name": "Types_of_neoplasia", "id": 32581830}], "successors": [{"name": "Kidney_cancer", "id": 26723658}]}
+{"name": "Urological_neoplasia", "id": 32531137, "predecessors": [{"name": "Types_of_neoplasia", "id": 32581830}, {"name": "Urological_conditions", "id": 25408617}], "successors": [{"name": "Kidney_cancer", "id": 26723658}]}

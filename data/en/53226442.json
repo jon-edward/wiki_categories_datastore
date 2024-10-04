@@ -1,1 +1,0 @@
-{"name": "Fixed_asset", "id": 53226442, "predecessors": [{"name": "Asset", "id": 42749827}, {"name": "Capital_budgeting", "id": 53094417}], "successors": [{"name": "Depreciation", "id": 53304374}]}

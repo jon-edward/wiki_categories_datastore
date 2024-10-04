@@ -1,1 +1,1 @@
-{"name": "Acne_treatments", "id": 22247626, "predecessors": [{"name": "Medical_treatments", "id": 694975}], "successors": [{"name": "Tetracycline_antibiotics", "id": 695383}]}
+{"name": "Acne_treatments", "id": 22247626, "predecessors": [{"name": "Medical_treatments", "id": 694975}], "successors": [{"name": "Tetracycline_antibiotics", "id": 695383}, {"name": "Anti-acne_preparations", "id": 22102494}]}

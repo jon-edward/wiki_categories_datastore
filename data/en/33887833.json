@@ -1,1 +1,1 @@
-{"name": "Football_in_Mumbai", "id": 33887833, "predecessors": [{"name": "Sport_in_Mumbai", "id": 3352394}, {"name": "Sport_in_Maharashtra", "id": 22551763}, {"name": "Culture_of_Asia", "id": 1438369}], "successors": [{"name": "Football_clubs_in_Mumbai", "id": 33887737}, {"name": "Mumbai_Football_League_players", "id": 71535308}]}
+{"name": "Football_in_Mumbai", "id": 33887833, "predecessors": [{"name": "Sport_in_Mumbai", "id": 3352394}], "successors": [{"name": "Football_clubs_in_Mumbai", "id": 33887737}, {"name": "Mumbai_Football_League_players", "id": 71535308}]}

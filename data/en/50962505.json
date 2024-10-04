@@ -1,1 +1,1 @@
-{"name": "Ugliness", "id": 50962505, "predecessors": [{"name": "Human_appearance", "id": 923111}, {"name": "Physical_attractiveness", "id": 10157151}], "successors": []}
+{"name": "Ugliness", "id": 50962505, "predecessors": [{"name": "Human_appearance", "id": 923111}, {"name": "Interpersonal_attraction", "id": 36456022}, {"name": "Physical_attractiveness", "id": 10157151}, {"name": "Social_concepts", "id": 34119332}], "successors": []}

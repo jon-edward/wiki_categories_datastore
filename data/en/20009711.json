@@ -1,1 +1,1 @@
-{"name": "McLaren_racing_cars", "id": 20009711, "predecessors": [{"name": "British_racecar_constructors", "id": 13061572}, {"name": "McLaren_vehicles", "id": 20009716}, {"name": "Car_brands", "id": 52723773}], "successors": [{"name": "McLaren_Formula_One_cars", "id": 8831512}]}
+{"name": "McLaren_racing_cars", "id": 20009711, "predecessors": [{"name": "British_racecar_constructors", "id": 13061572}, {"name": "McLaren_vehicles", "id": 20009716}, {"name": "Racing_cars", "id": 1047165}], "successors": [{"name": "McLaren_Formula_One_cars", "id": 8831512}]}

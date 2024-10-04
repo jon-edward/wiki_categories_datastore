@@ -1,1 +1,1 @@
-{"name": "Fistulas", "id": 44313476, "predecessors": [{"name": "Animal_anatomy", "id": 3120301}], "successors": []}
+{"name": "Fistulas", "id": 44313476, "predecessors": [{"name": "Anatomical_pathology", "id": 722676}, {"name": "Animal_anatomy", "id": 3120301}], "successors": []}

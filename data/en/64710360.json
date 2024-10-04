@@ -1,1 +1,1 @@
-{"name": "Particle_traps", "id": 64710360, "predecessors": [{"name": "Atomic_physics", "id": 697256}, {"name": "Optics", "id": 692743}], "successors": [{"name": "Magnetic_confinement_fusion_devices", "id": 64599965}]}
+{"name": "Particle_traps", "id": 64710360, "predecessors": [{"name": "Biophysics", "id": 1757009}, {"name": "Optics", "id": 692743}, {"name": "Physics_experiments", "id": 1126619}], "successors": [{"name": "Magnetic_confinement_fusion_devices", "id": 64599965}]}

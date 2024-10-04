@@ -1,1 +1,1 @@
-{"name": "Ornamental_trees", "id": 15528654, "predecessors": [{"name": "Ornamental_plants", "id": 42670397}, {"name": "Trees", "id": 713086}], "successors": [{"name": "Bonsai", "id": 12683961}, {"name": "Plants_used_in_bonsai", "id": 18377694}, {"name": "Cherry_blossom", "id": 31228420}]}
+{"name": "Ornamental_trees", "id": 15528654, "predecessors": [{"name": "Ornamental_plants", "id": 42670397}], "successors": [{"name": "Bonsai", "id": 12683961}, {"name": "Plants_used_in_bonsai", "id": 18377694}, {"name": "Cherry_blossom", "id": 31228420}]}

@@ -1,1 +1,1 @@
-{"name": "Railway_lines_in_Piedmont", "id": 40082448, "predecessors": [{"name": "Transport_in_Piedmont", "id": 10772118}, {"name": "Economy_of_Italy", "id": 2637119}], "successors": []}
+{"name": "Railway_lines_in_Piedmont", "id": 40082448, "predecessors": [{"name": "Rail_transport", "id": 700920}], "successors": []}

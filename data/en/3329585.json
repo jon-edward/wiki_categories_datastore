@@ -1,1 +1,1 @@
-{"name": "ZX_Spectrum", "id": 3329585, "predecessors": [{"name": "Microcomputers", "id": 845532}, {"name": "Computers", "id": 4583997}], "successors": [{"name": "ZX_Spectrum_clones", "id": 1990930}]}
+{"name": "ZX_Spectrum", "id": 3329585, "predecessors": [{"name": "Microcomputers", "id": 845532}, {"name": "Z80-based_home_computers", "id": 41186875}, {"name": "Computers", "id": 4583997}], "successors": [{"name": "ZX_Spectrum_clones", "id": 1990930}, {"name": "ZX_Spectrum_software", "id": 8751262}, {"name": "Screenshots_of_ZX_Spectrum_games", "id": 26761863}]}

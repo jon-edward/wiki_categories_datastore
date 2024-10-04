@@ -1,1 +1,1 @@
-{"name": "Source-to-source_compilers", "id": 36827087, "predecessors": [{"name": "Compilers", "id": 884777}, {"name": "Metaprogramming", "id": 34761132}], "successors": []}
+{"name": "Source-to-source_compilers", "id": 36827087, "predecessors": [{"name": "Compilers", "id": 884777}, {"name": "Programming_language_theory", "id": 24085628}, {"name": "Computer_programming", "id": 4423397}], "successors": []}

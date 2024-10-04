@@ -1,1 +1,1 @@
-{"name": "Cyrillic_letters", "id": 757232, "predecessors": [{"name": "Cyrillic_script", "id": 32759749}], "successors": [{"name": "Cyrillic_ligatures", "id": 10704400}, {"name": "Cyrillic_letters_with_diacritics", "id": 62304065}]}
+{"name": "Cyrillic_letters", "id": 757232, "predecessors": [{"name": "Cyrillic_script", "id": 32759749}, {"name": "Alphabets", "id": 36431011}], "successors": [{"name": "Cyrillic_ligatures", "id": 10704400}, {"name": "Cyrillic_letters_with_diacritics", "id": 62304065}]}

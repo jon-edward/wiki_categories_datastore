@@ -1,1 +1,1 @@
-{"name": "Electronic_toll_collection", "id": 1426687, "predecessors": [{"name": "Toll_(fee)", "id": 68709429}], "successors": []}
+{"name": "Electronic_toll_collection", "id": 1426687, "predecessors": [{"name": "Payment_systems", "id": 1053701}, {"name": "Radio-frequency_identification", "id": 16047036}, {"name": "Toll_(fee)", "id": 68709429}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Diphtheria", "id": 36582395, "predecessors": [{"name": "Animal_bacterial_diseases", "id": 48682499}, {"name": "Corynebacterium", "id": 14586336}, {"name": "Vaccine-preventable_diseases", "id": 56263158}], "successors": [{"name": "Deaths_from_diphtheria", "id": 19420234}, {"name": "Balto", "id": 76502745}]}
+{"name": "Diphtheria", "id": 36582395, "predecessors": [{"name": "Vaccine-preventable_diseases", "id": 56263158}], "successors": [{"name": "Deaths_from_diphtheria", "id": 19420234}, {"name": "Balto", "id": 76502745}]}

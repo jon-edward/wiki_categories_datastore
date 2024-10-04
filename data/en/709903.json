@@ -1,1 +1,1 @@
-{"name": "Smithing_gods", "id": 709903, "predecessors": [{"name": "Blacksmiths", "id": 2354146}], "successors": [{"name": "Hephaestus", "id": 12615432}, {"name": "Lugh", "id": 39519652}, {"name": "Vulcan_(mythology)", "id": 71082062}, {"name": "Ptah", "id": 72527246}]}
+{"name": "Smithing_gods", "id": 709903, "predecessors": [{"name": "Handicraft_deities", "id": 77234700}], "successors": [{"name": "Hephaestus", "id": 12615432}, {"name": "Lugh", "id": 39519652}, {"name": "Vulcan_(mythology)", "id": 71082062}, {"name": "Ptah", "id": 72527246}]}

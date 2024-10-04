@@ -1,1 +1,1 @@
-{"name": "Inquiry", "id": 21994999, "predecessors": [{"name": "Critical_thinking_skills", "id": 53899290}], "successors": [{"name": "Public_inquiries", "id": 4160062}]}
+{"name": "Inquiry", "id": 21994999, "predecessors": [{"name": "Critical_thinking_skills", "id": 53899290}, {"name": "Knowledge", "id": 700914}], "successors": [{"name": "Research", "id": 1395115}, {"name": "Problem_solving", "id": 1855180}, {"name": "Public_inquiries", "id": 4160062}]}

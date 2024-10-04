@@ -1,1 +1,1 @@
-{"name": "Church_of_England_ecclesiastical_polity", "id": 9095830, "predecessors": [{"name": "Church_of_England", "id": 2629390}, {"name": "Governance", "id": 38301528}], "successors": [{"name": "Canon_law_of_the_Church_of_England", "id": 46780169}]}
+{"name": "Church_of_England_ecclesiastical_polity", "id": 9095830, "predecessors": [{"name": "Church_of_England", "id": 2629390}, {"name": "Ecclesiology", "id": 6854405}], "successors": [{"name": "Canon_law_of_the_Church_of_England", "id": 46780169}, {"name": "Church_Estates_Commissioners", "id": 57918345}]}

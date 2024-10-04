@@ -1,1 +1,1 @@
-{"name": "Behavioural_genetics", "id": 47373634, "predecessors": [{"name": "Human_genetics", "id": 14002166}], "successors": [{"name": "Behavior_geneticists", "id": 6191878}, {"name": "Twin_studies", "id": 31438425}]}
+{"name": "Behavioural_genetics", "id": 47373634, "predecessors": [{"name": "Behavioral_neuroscience", "id": 6568309}, {"name": "Branches_of_psychology", "id": 2870944}, {"name": "Human_genetics", "id": 14002166}], "successors": [{"name": "Behavior_geneticists", "id": 6191878}, {"name": "Twin_studies", "id": 31438425}]}

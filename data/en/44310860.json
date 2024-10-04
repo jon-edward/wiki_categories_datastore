@@ -1,1 +1,1 @@
-{"name": "Rare_infectious_diseases", "id": 44310860, "predecessors": [{"name": "Infectious_diseases", "id": 707355}], "successors": []}
+{"name": "Rare_infectious_diseases", "id": 44310860, "predecessors": [{"name": "Infectious_diseases", "id": 707355}, {"name": "Rare_diseases", "id": 1116081}], "successors": []}

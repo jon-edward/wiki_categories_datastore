@@ -1,1 +1,1 @@
-{"name": "Racing_aircraft", "id": 14323185, "predecessors": [{"name": "Air_racing", "id": 810488}, {"name": "Aircraft_by_type", "id": 4749432}, {"name": "Racing_vehicles", "id": 14323308}], "successors": [{"name": "Schneider_Trophy", "id": 17059503}]}
+{"name": "Racing_aircraft", "id": 14323185, "predecessors": [{"name": "Air_racing", "id": 810488}, {"name": "Aircraft_by_type", "id": 4749432}, {"name": "Racing_vehicles", "id": 14323308}, {"name": "Air_sports", "id": 3021809}], "successors": [{"name": "Schneider_Trophy", "id": 17059503}]}

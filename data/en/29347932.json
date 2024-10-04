@@ -1,1 +1,1 @@
-{"name": "Couplers", "id": 29347932, "predecessors": [{"name": "Locomotive_parts", "id": 1044978}, {"name": "Mechanisms_(engineering)", "id": 44366434}, {"name": "Rail_technologies", "id": 1239654}], "successors": []}
+{"name": "Couplers", "id": 29347932, "predecessors": [{"name": "Locomotive_parts", "id": 1044978}, {"name": "Mechanical_standards", "id": 8273307}, {"name": "Rail_technologies", "id": 1239654}], "successors": []}

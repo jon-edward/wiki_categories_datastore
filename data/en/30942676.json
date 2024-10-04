@@ -1,1 +1,1 @@
-{"name": "Photoelectrochemistry", "id": 30942676, "predecessors": [{"name": "Electrochemistry", "id": 698311}, {"name": "Energy_conversion", "id": 1947340}, {"name": "Photochemistry", "id": 2931063}], "successors": []}
+{"name": "Photoelectrochemistry", "id": 30942676, "predecessors": [{"name": "Energy_conversion", "id": 1947340}], "successors": []}

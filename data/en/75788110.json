@@ -1,1 +1,1 @@
-{"name": "Underwater_diving_equipment_components", "id": 75788110, "predecessors": [{"name": "Underwater_diving_equipment", "id": 2684399}, {"name": "Technology_systems", "id": 10958482}], "successors": [{"name": "Underwater_breathing_apparatus_components", "id": 75726873}]}
+{"name": "Underwater_diving_equipment_components", "id": 75788110, "predecessors": [{"name": "Underwater_diving_equipment", "id": 2684399}, {"name": "Structure", "id": 5183917}], "successors": [{"name": "Underwater_breathing_apparatus_components", "id": 75726873}]}

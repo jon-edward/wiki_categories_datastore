@@ -1,1 +1,1 @@
-{"name": "Theorems_about_triangles", "id": 65742972, "predecessors": [{"name": "Polygons", "id": 731055}], "successors": [{"name": "Theorems_about_triangles_and_circles", "id": 65745408}, {"name": "Pythagorean_theorem", "id": 56788072}]}
+{"name": "Theorems_about_triangles", "id": 65742972, "predecessors": [{"name": "Triangle_geometry", "id": 12923111}, {"name": "Polygons", "id": 731055}], "successors": [{"name": "Theorems_about_triangles_and_circles", "id": 65745408}]}

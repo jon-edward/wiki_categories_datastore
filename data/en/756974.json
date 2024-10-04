@@ -1,1 +1,1 @@
-{"name": "Musical_texture", "id": 756974, "predecessors": [{"name": "Technology_systems", "id": 10958482}], "successors": []}
+{"name": "Musical_texture", "id": 756974, "predecessors": [{"name": "Structure", "id": 5183917}], "successors": [{"name": "Hexachords", "id": 28907951}, {"name": "Whistles", "id": 8527692}, {"name": "Monophonic_synthesizers", "id": 32763810}]}

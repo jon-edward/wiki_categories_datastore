@@ -1,1 +1,1 @@
-{"name": "Aromatic_amines", "id": 3204567, "predecessors": [{"name": "Amines", "id": 725878}, {"name": "Aromatic_compounds", "id": 1369194}], "successors": [{"name": "Naphthylamines", "id": 29966090}, {"name": "Anilines", "id": 30527747}, {"name": "Aminopyrimidines", "id": 61127635}, {"name": "2-Aminopyridines", "id": 77544446}]}
+{"name": "Aromatic_amines", "id": 3204567, "predecessors": [{"name": "Amines", "id": 725878}, {"name": "Aromatic_compounds", "id": 1369194}], "successors": [{"name": "Anilines", "id": 30527747}]}

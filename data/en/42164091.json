@@ -1,1 +1,1 @@
-{"name": "Compilation_films", "id": 42164091, "predecessors": [{"name": "Mass_media", "id": 696790}], "successors": [{"name": "Mondo_films", "id": 10875752}, {"name": "Collage_film", "id": 34885060}]}
+{"name": "Compilation_films", "id": 42164091, "predecessors": [{"name": "Film_genres", "id": 3008852}, {"name": "Mass_media", "id": 696790}], "successors": [{"name": "Mondo_films", "id": 10875752}, {"name": "Collage_film", "id": 34885060}]}

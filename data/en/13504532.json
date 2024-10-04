@@ -1,1 +1,1 @@
-{"name": "Shoe_companies_of_Germany", "id": 13504532, "predecessors": [{"name": "Clothing_companies_of_Germany", "id": 13504559}], "successors": [{"name": "Adidas", "id": 23119359}, {"name": "Puma_(brand)", "id": 33846829}]}
+{"name": "Shoe_companies_of_Germany", "id": 13504532, "predecessors": [{"name": "Clothing_companies_of_Germany", "id": 13504559}, {"name": "Fashion", "id": 1000816}], "successors": [{"name": "Adidas", "id": 23119359}, {"name": "Puma_(brand)", "id": 33846829}]}

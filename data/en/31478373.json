@@ -1,1 +1,1 @@
-{"name": "Withdrawal_syndromes", "id": 31478373, "predecessors": [{"name": "Drug_rehabilitation", "id": 870146}, {"name": "Syndromes", "id": 4678438}], "successors": []}
+{"name": "Withdrawal_syndromes", "id": 31478373, "predecessors": [{"name": "Drug_rehabilitation", "id": 870146}, {"name": "Substance_dependence", "id": 32516128}, {"name": "Syndromes", "id": 4678438}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Chocolateries", "id": 41929758, "predecessors": [{"name": "Chocolate_companies", "id": 39292551}], "successors": []}
+{"name": "Chocolateries", "id": 41929758, "predecessors": [{"name": "Chocolate_companies", "id": 39292551}, {"name": "Retailers_by_type_of_merchandise_sold", "id": 55586528}], "successors": []}

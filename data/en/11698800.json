@@ -1,1 +1,1 @@
-{"name": "Police_strikes", "id": 11698800, "predecessors": [{"name": "Law_enforcement", "id": 718211}], "successors": []}
+{"name": "Police_strikes", "id": 11698800, "predecessors": [{"name": "Law_enforcement", "id": 718211}, {"name": "Police_unions", "id": 19326590}], "successors": []}

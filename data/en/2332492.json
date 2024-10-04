@@ -1,1 +1,1 @@
-{"name": "Types_of_animal_cancers", "id": 2332492, "predecessors": [{"name": "Animal_diseases", "id": 2992388}, {"name": "Oncology", "id": 695159}], "successors": []}
+{"name": "Types_of_animal_cancers", "id": 2332492, "predecessors": [{"name": "Animal_diseases", "id": 2992388}, {"name": "Types_of_cancer", "id": 2332168}, {"name": "Oncology", "id": 695159}], "successors": []}

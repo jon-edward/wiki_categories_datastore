@@ -1,0 +1,1 @@
+{"name": "Medical_schools", "id": 9612454, "predecessors": [{"name": "Medical_education", "id": 1427229}, {"name": "Health_education", "id": 6123888}], "successors": [{"name": "Medical_students", "id": 39741532}, {"name": "Public_medical_universities", "id": 68352267}]}

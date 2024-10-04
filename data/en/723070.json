@@ -1,1 +1,1 @@
-{"name": "Leptons", "id": 723070, "predecessors": [{"name": "Elementary_particles", "id": 43587238}, {"name": "Fermions", "id": 3558669}], "successors": [{"name": "Electron", "id": 3272213}, {"name": "Neutrinos", "id": 22820165}]}
+{"name": "Leptons", "id": 723070, "predecessors": [{"name": "Fermions", "id": 3558669}], "successors": [{"name": "Electron", "id": 3272213}, {"name": "Neutrinos", "id": 22820165}]}

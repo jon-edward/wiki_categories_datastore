@@ -1,1 +1,1 @@
-{"name": "Big_bands", "id": 7869729, "predecessors": [{"name": "Swing_ensembles", "id": 12081376}], "successors": []}
+{"name": "Big_bands", "id": 7869729, "predecessors": [{"name": "Swing_ensembles", "id": 12081376}], "successors": [{"name": "Experimental_big_bands", "id": 11940345}, {"name": "Dance_bands", "id": 11940512}, {"name": "Big_band_bandleaders", "id": 12018780}, {"name": "Big_band_albums", "id": 12119765}, {"name": "Progressive_big_band_bandleaders", "id": 12020188}, {"name": "Progressive_big_band_musicians", "id": 12047284}]}

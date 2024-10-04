@@ -1,1 +1,1 @@
-{"name": "Uterus", "id": 51033237, "predecessors": [{"name": "Human_female_reproductive_system", "id": 36696277}, {"name": "Mammal_female_reproductive_system", "id": 36696072}], "successors": [{"name": "Hysteria", "id": 76265988}]}
+{"name": "Uterus", "id": 51033237, "predecessors": [{"name": "Human_female_reproductive_system", "id": 36696277}], "successors": [{"name": "Hysteria", "id": 76265988}]}

@@ -1,1 +1,1 @@
-{"name": "Actors_in_Hindi_cinema", "id": 40223682, "predecessors": [{"name": "Hindi_cinema", "id": 1311518}, {"name": "Hindi", "id": 1123882}], "successors": [{"name": "Actresses_in_Hindi_cinema", "id": 40246860}, {"name": "Male_actors_in_Hindi_cinema", "id": 40578250}]}
+{"name": "Actors_in_Hindi_cinema", "id": 40223682, "predecessors": [{"name": "Hindi_cinema", "id": 1311518}, {"name": "Culture_of_India", "id": 33349475}], "successors": [{"name": "Actresses_in_Hindi_cinema", "id": 40246860}, {"name": "Male_actors_in_Hindi_cinema", "id": 40578250}]}

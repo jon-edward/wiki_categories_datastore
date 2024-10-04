@@ -1,1 +1,1 @@
-{"name": "Botanical_nomenclature", "id": 2776838, "predecessors": [{"name": "Biological_nomenclature", "id": 24147863}, {"name": "Plant_taxonomy", "id": 3076389}, {"name": "Biology_terminology", "id": 16705072}], "successors": [{"name": "Plant_taxonomy", "id": 3076389}, {"name": "Forma_specialis_taxa", "id": 57035855}, {"name": "Forma_taxa", "id": 58056171}]}
+{"name": "Botanical_nomenclature", "id": 2776838, "predecessors": [{"name": "Biological_nomenclature", "id": 24147863}, {"name": "Biology_terminology", "id": 16705072}], "successors": []}

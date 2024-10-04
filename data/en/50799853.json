@@ -1,1 +1,1 @@
-{"name": "GLP-1_receptor_agonists", "id": 50799853, "predecessors": [{"name": "Anti-diabetic_drugs", "id": 722742}, {"name": "Anti-obesity_drugs", "id": 9519373}, {"name": "Hormones", "id": 717945}], "successors": []}
+{"name": "GLP-1_receptor_agonists", "id": 50799853, "predecessors": [{"name": "Anti-diabetic_drugs", "id": 722742}, {"name": "Anti-obesity_drugs", "id": 9519373}, {"name": "Systemic_hormonal_preparations", "id": 22002422}], "successors": []}

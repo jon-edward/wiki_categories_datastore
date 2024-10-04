@@ -1,1 +1,1 @@
-{"name": "Nightclub_fires_started_by_pyrotechnics", "id": 47100724, "predecessors": [{"name": "Fireworks_accidents_and_incidents", "id": 42532428}], "successors": []}
+{"name": "Nightclub_fires_started_by_pyrotechnics", "id": 47100724, "predecessors": [{"name": "Nightclub_fires", "id": 4271886}, {"name": "Disasters", "id": 745842}], "successors": []}

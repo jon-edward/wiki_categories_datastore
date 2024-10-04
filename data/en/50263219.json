@@ -1,1 +1,1 @@
-{"name": "Quadratic_irrational_numbers", "id": 50263219, "predecessors": [{"name": "Irrational_numbers", "id": 736444}], "successors": [{"name": "Golden_ratio", "id": 4175676}]}
+{"name": "Quadratic_irrational_numbers", "id": 50263219, "predecessors": [{"name": "Algebraic_numbers", "id": 747570}, {"name": "Irrational_numbers", "id": 736444}], "successors": [{"name": "Golden_ratio", "id": 4175676}]}

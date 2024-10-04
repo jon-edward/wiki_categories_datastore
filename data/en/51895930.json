@@ -1,1 +1,1 @@
-{"name": "Films_shot_in_Prague", "id": 51895930, "predecessors": [{"name": "Films_shot_in_the_Czech_Republic", "id": 25487132}, {"name": "City", "id": 9467493}, {"name": "Culture_in_Prague", "id": 3301566}], "successors": [{"name": "Films_shot_at_Barrandov_Studios", "id": 51043089}]}
+{"name": "Films_shot_in_Prague", "id": 51895930, "predecessors": [{"name": "Cities", "id": 699805}, {"name": "Culture_in_Prague", "id": 3301566}], "successors": [{"name": "Films_shot_at_Barrandov_Studios", "id": 51043089}]}

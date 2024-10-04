@@ -1,1 +1,1 @@
-{"name": "Sherry", "id": 9906562, "predecessors": [{"name": "Andalusian_cuisine", "id": 3778703}, {"name": "Fortified_wine", "id": 2299168}, {"name": "Spanish_wine", "id": 6042340}], "successors": []}
+{"name": "Sherry", "id": 9906562, "predecessors": [{"name": "Andalusian_cuisine", "id": 3778703}, {"name": "Dessert_wine", "id": 26266008}, {"name": "Fortified_wine", "id": 2299168}, {"name": "Spanish_wine", "id": 6042340}], "successors": []}

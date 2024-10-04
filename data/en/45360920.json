@@ -1,1 +1,1 @@
-{"name": "Graphical_terminals", "id": 45360920, "predecessors": [{"name": "Computer_terminals", "id": 6228328}], "successors": []}
+{"name": "Graphical_terminals", "id": 45360920, "predecessors": [{"name": "Computer_graphics", "id": 735771}, {"name": "Computer_terminals", "id": 6228328}], "successors": []}

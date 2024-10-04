@@ -1,0 +1,1 @@
+{"name": "Pain_management", "id": 46628123, "predecessors": [{"name": "Pain", "id": 1061105}, {"name": "Therapy", "id": 870156}, {"name": "Medical_specialties", "id": 1449968}], "successors": [{"name": "Regional_anesthesia", "id": 718248}, {"name": "Analgesics", "id": 718589}, {"name": "Pain_scales", "id": 10949360}, {"name": "American_pain_physicians", "id": 55773608}]}

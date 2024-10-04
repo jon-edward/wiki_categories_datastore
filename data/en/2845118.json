@@ -1,1 +1,1 @@
-{"name": "Airports_in_South_Africa", "id": 2845118, "predecessors": [{"name": "Tourism_in_South_Africa", "id": 2678608}], "successors": []}
+{"name": "Airports_in_South_Africa", "id": 2845118, "predecessors": [{"name": "Tourism_in_South_Africa", "id": 2678608}, {"name": "Economy_of_South_Africa", "id": 2678371}], "successors": [{"name": "Airports_in_KwaZulu-Natal", "id": 73484408}]}

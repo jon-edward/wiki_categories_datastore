@@ -1,1 +1,0 @@
-{"name": "Model_selection", "id": 27955209, "predecessors": [{"name": "Statistical_inference", "id": 17193265}, {"name": "Statistical_models", "id": 17193471}], "successors": [{"name": "Regression_variable_selection", "id": 19259559}, {"name": "Loss_functions", "id": 28004586}]}

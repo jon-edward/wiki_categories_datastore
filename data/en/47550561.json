@@ -1,1 +1,1 @@
-{"name": "Trick_films", "id": 47550561, "predecessors": [{"name": "Film_styles", "id": 2169051}, {"name": "History_of_film", "id": 2260983}, {"name": "Special_effects", "id": 801183}, {"name": "Mass_media", "id": 696790}], "successors": []}
+{"name": "Trick_films", "id": 47550561, "predecessors": [{"name": "Film_genres", "id": 3008852}, {"name": "Film_styles", "id": 2169051}, {"name": "History_of_film", "id": 2260983}, {"name": "Special_effects", "id": 801183}, {"name": "Mass_media", "id": 696790}], "successors": []}

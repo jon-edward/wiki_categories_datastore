@@ -1,1 +1,1 @@
-{"name": "Psychiatric_nurses", "id": 39328571, "predecessors": [{"name": "Mental_health_professionals", "id": 10406353}, {"name": "Nursing_specialties", "id": 2711518}, {"name": "Medical_specialties", "id": 1449968}], "successors": []}
+{"name": "Psychiatric_nurses", "id": 39328571, "predecessors": [{"name": "Mental_health_professionals", "id": 10406353}, {"name": "Medical_specialties", "id": 1449968}], "successors": []}

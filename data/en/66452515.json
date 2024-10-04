@@ -1,1 +1,1 @@
-{"name": "Empathy", "id": 66452515, "predecessors": [{"name": "Interpersonal_relationships", "id": 1055603}, {"name": "Life_skills", "id": 28085670}, {"name": "Moral_psychology", "id": 12842966}], "successors": [{"name": "Kindness", "id": 38330568}]}
+{"name": "Empathy", "id": 66452515, "predecessors": [{"name": "Interpersonal_relationships", "id": 1055603}, {"name": "Life_skills", "id": 28085670}, {"name": "Moral_psychology", "id": 12842966}, {"name": "Virtue", "id": 845488}], "successors": [{"name": "Kindness", "id": 38330568}]}

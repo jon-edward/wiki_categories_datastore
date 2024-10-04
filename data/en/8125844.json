@@ -1,1 +1,0 @@
-{"name": "Heat_conduction", "id": 8125844, "predecessors": [{"name": "Heat_transfer", "id": 23011909}, {"name": "Thermodynamics", "id": 693006}], "successors": [{"name": "High-temperature_superconductors", "id": 3470852}]}

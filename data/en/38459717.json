@@ -1,1 +1,1 @@
-{"name": "University_presses", "id": 38459717, "predecessors": [{"name": "Communications_and_media_organizations", "id": 8882759}], "successors": []}
+{"name": "University_presses", "id": 38459717, "predecessors": [{"name": "University_and_college_organizations", "id": 3550719}, {"name": "Communications_and_media_organizations", "id": 8882759}], "successors": [{"name": "Books_published_by_university_presses", "id": 29597039}, {"name": "Academic_journals_published_by_university_presses", "id": 39028984}]}

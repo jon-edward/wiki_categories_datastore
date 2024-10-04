@@ -1,1 +1,1 @@
-{"name": "Pre-main-sequence_stars", "id": 39098142, "predecessors": [{"name": "Star_types", "id": 3177479}], "successors": [{"name": "T_Tauri_stars", "id": 1275482}, {"name": "Herbig_Ae/Be_stars", "id": 20608032}]}
+{"name": "Pre-main-sequence_stars", "id": 39098142, "predecessors": [{"name": "Star_types", "id": 3177479}, {"name": "Astronomy", "id": 692915}], "successors": [{"name": "T_Tauri_stars", "id": 1275482}, {"name": "Herbig_Ae/Be_stars", "id": 20608032}]}

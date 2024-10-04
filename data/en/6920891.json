@@ -1,1 +1,1 @@
-{"name": "Foot_diseases", "id": 6920891, "predecessors": [{"name": "Foot", "id": 3221669}, {"name": "Podiatry", "id": 1305362}], "successors": []}
+{"name": "Foot_diseases", "id": 6920891, "predecessors": [{"name": "Foot", "id": 3221669}, {"name": "Podiatry", "id": 1305362}, {"name": "Human_diseases_and_disorders", "id": 48701151}], "successors": []}

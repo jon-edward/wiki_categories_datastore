@@ -1,1 +1,1 @@
-{"name": "Hindu_mantras", "id": 24807042, "predecessors": [{"name": "Hindu_prayer_and_meditation", "id": 33893121}, {"name": "Mantras", "id": 3516832}], "successors": [{"name": "Kirtan", "id": 41397304}]}
+{"name": "Hindu_mantras", "id": 24807042, "predecessors": [{"name": "Hindu_prayer_and_meditation", "id": 33893121}, {"name": "Mantras", "id": 3516832}, {"name": "Chants", "id": 15443747}], "successors": [{"name": "Kirtan", "id": 41397304}]}

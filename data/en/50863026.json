@@ -1,1 +1,1 @@
-{"name": "Ammonite_families", "id": 50863026, "predecessors": [{"name": "Prehistoric_cephalopod_families", "id": 50862518}, {"name": "Animal_subphyla", "id": 48978573}], "successors": []}
+{"name": "Ammonite_families", "id": 50863026, "predecessors": [{"name": "Prehistoric_cephalopod_families", "id": 50862518}, {"name": "Animals_by_adaptation", "id": 50053927}], "successors": [{"name": "Ceratitida_families", "id": 51356745}, {"name": "Ammonitida_families", "id": 53657113}, {"name": "Goniatitida_families", "id": 58895489}]}

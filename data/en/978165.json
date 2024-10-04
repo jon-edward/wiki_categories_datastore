@@ -1,1 +1,1 @@
-{"name": "Cats_as_pets", "id": 978165, "predecessors": [{"name": "Mammals_as_pets", "id": 42179663}], "successors": [{"name": "Cat_breeds", "id": 710421}, {"name": "Cat_equipment", "id": 8174570}]}
+{"name": "Cats_as_pets", "id": 978165, "predecessors": [{"name": "Cats", "id": 799717}, {"name": "Mammals_as_pets", "id": 42179663}], "successors": [{"name": "Cat_breeds", "id": 710421}, {"name": "Cat_equipment", "id": 8174570}]}

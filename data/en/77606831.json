@@ -1,1 +1,1 @@
-{"name": "Grenade_attacks_in_Asia", "id": 77606831, "predecessors": [{"name": "Asia", "id": 697006}, {"name": "Grenades", "id": 1021085}], "successors": [{"name": "Grenade_attacks_in_Pakistan", "id": 77606862}]}
+{"name": "Grenade_attacks_in_Asia", "id": 77606831, "predecessors": [{"name": "Continents", "id": 788686}, {"name": "Grenades", "id": 1021085}], "successors": [{"name": "Grenade_attacks_in_Pakistan", "id": 77606862}]}

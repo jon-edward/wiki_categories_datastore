@@ -1,1 +1,1 @@
-{"name": "Drug_manufacturing", "id": 75520453, "predecessors": [{"name": "Pharmaceutical_industry", "id": 2161287}, {"name": "Production_and_manufacturing", "id": 1226515}], "successors": [{"name": "Excipients", "id": 12250356}]}
+{"name": "Drug_manufacturing", "id": 75520453, "predecessors": [{"name": "Pharmaceutical_industry", "id": 2161287}], "successors": [{"name": "Excipients", "id": 12250356}, {"name": "Cleanroom_technology", "id": 40743991}]}

@@ -1,1 +1,1 @@
-{"name": "BBC_awards", "id": 33907162, "predecessors": [{"name": "British_awards", "id": 6571917}, {"name": "BBC", "id": 698718}], "successors": [{"name": "BBC_Sports_Personality_of_the_Year_awards", "id": 1419515}, {"name": "BBC_music_awards", "id": 11978525}]}
+{"name": "BBC_awards", "id": 33907162, "predecessors": [{"name": "BBC", "id": 698718}], "successors": [{"name": "BBC_Sports_Personality_of_the_Year_awards", "id": 1419515}, {"name": "BBC_music_awards", "id": 11978525}]}

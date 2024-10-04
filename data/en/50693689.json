@@ -1,1 +1,1 @@
-{"name": "Contemporary_art_fairs", "id": 50693689, "predecessors": [{"name": "Contemporary_art_exhibitions", "id": 32964204}], "successors": [{"name": "Venice_Biennale", "id": 49662671}]}
+{"name": "Contemporary_art_fairs", "id": 50693689, "predecessors": [{"name": "Art_fairs", "id": 41272532}, {"name": "Contemporary_art_exhibitions", "id": 32964204}], "successors": [{"name": "Venice_Biennale", "id": 49662671}]}

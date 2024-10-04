@@ -1,1 +1,1 @@
-{"name": "Spin_models", "id": 22044710, "predecessors": [{"name": "Magnetism", "id": 982364}, {"name": "Quantum_mechanics", "id": 697231}, {"name": "Statistical_mechanics", "id": 958609}, {"name": "Statistical_models", "id": 17193471}], "successors": []}
+{"name": "Spin_models", "id": 22044710, "predecessors": [{"name": "Quantum_mechanics", "id": 697231}, {"name": "Statistical_mechanics", "id": 958609}, {"name": "Statistical_models", "id": 17193471}], "successors": []}

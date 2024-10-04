@@ -1,1 +1,1 @@
-{"name": "Time_in_linguistics", "id": 46787625, "predecessors": [{"name": "Time", "id": 744728}], "successors": [{"name": "Grammatical_tenses", "id": 904160}, {"name": "Grammatical_aspects", "id": 904309}]}
+{"name": "Time_in_linguistics", "id": 46787625, "predecessors": [{"name": "Linguistics", "id": 693798}, {"name": "Time", "id": 744728}], "successors": [{"name": "Grammatical_tenses", "id": 904160}, {"name": "Grammatical_aspects", "id": 904309}]}

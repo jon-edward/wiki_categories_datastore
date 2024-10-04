@@ -1,1 +1,1 @@
-{"name": "Nerves_of_the_torso", "id": 21977813, "predecessors": [{"name": "Nerves", "id": 19827041}], "successors": [{"name": "Nerves_of_the_lower_limb_and_lower_torso", "id": 21969636}]}
+{"name": "Nerves_of_the_torso", "id": 21977813, "predecessors": [{"name": "Nerves", "id": 19827041}, {"name": "Anatomy", "id": 692380}], "successors": [{"name": "Spinal_nerves", "id": 15355217}, {"name": "Nerves_of_the_lower_limb_and_lower_torso", "id": 21969636}]}

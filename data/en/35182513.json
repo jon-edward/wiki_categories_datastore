@@ -1,1 +1,1 @@
-{"name": "PESA_SA", "id": 35182513, "predecessors": [{"name": "Tram_manufacturers", "id": 34835388}, {"name": "Manufacturing_companies_of_Poland", "id": 5405712}, {"name": "Electric_vehicles_by_country", "id": 70033667}], "successors": []}
+{"name": "PESA_SA", "id": 35182513, "predecessors": [{"name": "Tram_manufacturers", "id": 34835388}, {"name": "Rail_transport", "id": 700920}, {"name": "Electric_vehicles_by_country", "id": 70033667}], "successors": []}

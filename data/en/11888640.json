@@ -1,1 +1,1 @@
-{"name": "Billboards", "id": 11888640, "predecessors": [{"name": "Advertising_tools", "id": 32830047}, {"name": "Signage", "id": 4130053}, {"name": "Street_furniture", "id": 965867}], "successors": []}
+{"name": "Billboards", "id": 11888640, "predecessors": [{"name": "Advertising_tools", "id": 32830047}, {"name": "Signage", "id": 4130053}, {"name": "Street_furniture", "id": 965867}, {"name": "Advertisements", "id": 2236661}], "successors": []}

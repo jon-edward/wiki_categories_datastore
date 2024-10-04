@@ -1,1 +1,1 @@
-{"name": "Minivans", "id": 932406, "predecessors": [{"name": "Commercial_vehicles", "id": 5689565}, {"name": "Light_trucks", "id": 9794630}], "successors": [{"name": "Compact_MPVs", "id": 5802790}, {"name": "Mini_MPVs", "id": 5803412}, {"name": "Hybrid_minivans", "id": 10978709}]}
+{"name": "Minivans", "id": 932406, "predecessors": [{"name": "Commercial_vehicles", "id": 5689565}], "successors": [{"name": "Compact_MPVs", "id": 5802790}, {"name": "Mini_MPVs", "id": 5803412}, {"name": "Hybrid_minivans", "id": 10978709}]}

@@ -1,1 +1,0 @@
-{"name": "Greenhouse_gas_emissions", "id": 28268626, "predecessors": [{"name": "Greenhouse_gases", "id": 788513}, {"name": "Air_pollution", "id": 4565514}], "successors": [{"name": "Greenhouse_gas_emissions_by_country", "id": 62219622}, {"name": "Satellites_monitoring_GHG_emissions", "id": 73593584}]}

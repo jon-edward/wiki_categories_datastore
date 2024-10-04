@@ -1,1 +1,1 @@
-{"name": "Thermoelectricity", "id": 43390119, "predecessors": [{"name": "Branches_of_thermodynamics", "id": 13805509}, {"name": "Electricity", "id": 959298}, {"name": "Energy_conversion", "id": 1947340}], "successors": []}
+{"name": "Thermoelectricity", "id": 43390119, "predecessors": [{"name": "Energy_conversion", "id": 1947340}], "successors": []}

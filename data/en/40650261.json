@@ -1,1 +1,1 @@
-{"name": "Single-equation_methods_(econometrics)", "id": 40650261, "predecessors": [{"name": "Econometric_modeling", "id": 51706300}, {"name": "Regression_analysis", "id": 6534587}], "successors": [{"name": "Least_squares", "id": 29421988}, {"name": "Generalized_linear_models", "id": 35997105}]}
+{"name": "Single-equation_methods_(econometrics)", "id": 40650261, "predecessors": [{"name": "Regression_analysis", "id": 6534587}], "successors": [{"name": "Least_squares", "id": 29421988}, {"name": "Generalized_linear_models", "id": 35997105}]}
