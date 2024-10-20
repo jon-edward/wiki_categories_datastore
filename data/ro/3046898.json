@@ -1,1 +1,1 @@
-{"name": "Plante_hibride", "id": 3046898, "predecessors": [{"name": "Genetică_clasică", "id": 293364}], "successors": []}
+{"name": "Plante_hibride", "id": 3046898, "predecessors": [{"name": "Plante", "id": 40802}, {"name": "Genetică_clasică", "id": 293364}], "successors": []}

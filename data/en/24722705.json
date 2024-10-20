@@ -1,1 +1,1 @@
-{"name": "Cyclitols", "id": 24722705, "predecessors": [{"name": "Cycloalkanes", "id": 698561}], "successors": [{"name": "Inositol", "id": 24484783}]}
+{"name": "Cyclitols", "id": 24722705, "predecessors": [{"name": "Cycloalkanes", "id": 698561}, {"name": "Polyols", "id": 4187771}], "successors": [{"name": "Inositol", "id": 24484783}]}

@@ -1,1 +1,1 @@
-{"name": "Tourist_attractions_in_Santa_Fe,_New_Mexico", "id": 34184322, "predecessors": [{"name": "Santa_Fe,_New_Mexico", "id": 5295965}], "successors": [{"name": "Museums_in_Santa_Fe,_New_Mexico", "id": 21824953}]}
+{"name": "Tourist_attractions_in_Santa_Fe,_New_Mexico", "id": 34184322, "predecessors": [{"name": "Santa_Fe,_New_Mexico", "id": 5295965}, {"name": "Metropolitan_areas_of_New_Mexico", "id": 10964116}], "successors": [{"name": "Museums_in_Santa_Fe,_New_Mexico", "id": 21824953}]}

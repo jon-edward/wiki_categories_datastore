@@ -1,1 +1,1 @@
-{"name": "Plante_toxice", "id": 169051, "predecessors": [{"name": "Toxicologie", "id": 78282}], "successors": [{"name": "Cartofi", "id": 914742}, {"name": "Tutun", "id": 930906}]}
+{"name": "Plante_toxice", "id": 169051, "predecessors": [{"name": "Plante", "id": 40802}, {"name": "Toxicologie", "id": 78282}], "successors": [{"name": "Cartofi", "id": 914742}, {"name": "Tutun", "id": 930906}]}

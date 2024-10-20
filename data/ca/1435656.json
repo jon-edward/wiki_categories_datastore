@@ -1,1 +1,1 @@
-{"name": "Esportistes_de_Bergen", "id": 1435656, "predecessors": [{"name": "Persones_de_Bergen", "id": 1223091}, {"name": "Noruecs", "id": 29819}], "successors": [{"name": "Gimnastes_artístics_de_Bergen", "id": 1468685}]}
+{"name": "Esportistes_de_Bergen", "id": 1435656, "predecessors": [{"name": "Esportistes_noruecs", "id": 442558}, {"name": "Persones_de_Bergen", "id": 1223091}], "successors": [{"name": "Gimnastes_artístics_de_Bergen", "id": 1468685}]}

@@ -1,1 +1,1 @@
-{"name": "Bear_mascots", "id": 36384423, "predecessors": [{"name": "Animal_mascots", "id": 36383174}, {"name": "Bears_in_popular_culture", "id": 43709477}, {"name": "Fictional_bears", "id": 986167}], "successors": [{"name": "Smokey_Bear", "id": 77589349}]}
+{"name": "Bear_mascots", "id": 36384423, "predecessors": [{"name": "Bears_in_popular_culture", "id": 43709477}, {"name": "Fictional_bears", "id": 986167}, {"name": "Animal_mascots", "id": 36383174}], "successors": [{"name": "Smokey_Bear", "id": 77589349}]}

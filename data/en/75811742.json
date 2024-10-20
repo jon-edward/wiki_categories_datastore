@@ -1,1 +1,1 @@
-{"name": "Female_professional_wrestling_trainers", "id": 75811742, "predecessors": [{"name": "Professional_wrestling_trainers", "id": 23312198}], "successors": []}
+{"name": "Female_professional_wrestling_trainers", "id": 75811742, "predecessors": [{"name": "Female_sports_coaches", "id": 45422825}, {"name": "Professional_wrestling_trainers", "id": 23312198}, {"name": "Women's_professional_wrestling", "id": 4517892}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Color_space", "id": 916744, "predecessors": [{"name": "Color_schemes", "id": 3267266}, {"name": "Metric_spaces", "id": 30994566}, {"name": "Color", "id": 979606}], "successors": []}
+{"name": "Color_space", "id": 916744, "predecessors": [{"name": "Color_schemes", "id": 3267266}, {"name": "Photometry", "id": 3135540}, {"name": "Color", "id": 979606}], "successors": []}

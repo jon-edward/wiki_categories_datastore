@@ -1,1 +1,1 @@
-{"name": "New_York_Yankees_postseason", "id": 24830497, "predecessors": [{"name": "New_York_Yankees", "id": 1292808}, {"name": "Tournament_systems", "id": 1799766}], "successors": []}
+{"name": "New_York_Yankees_postseason", "id": 24830497, "predecessors": [{"name": "Baseball_competitions_in_New_York_City", "id": 72925275}, {"name": "Events_at_Yankee_Stadium", "id": 78051972}, {"name": "New_York_Yankees", "id": 1292808}, {"name": "Tournament_systems", "id": 1799766}], "successors": [{"name": "World_Series_at_Yankee_Stadium", "id": 78051979}]}

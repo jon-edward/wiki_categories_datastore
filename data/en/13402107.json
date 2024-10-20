@@ -1,1 +1,1 @@
-{"name": "Electrical_breakdown", "id": 13402107, "predecessors": [{"name": "Electrical_phenomena", "id": 2007926}], "successors": [{"name": "Lightning", "id": 12425718}, {"name": "Electromagnetic_compatibility", "id": 21284271}]}
+{"name": "Electrical_breakdown", "id": 13402107, "predecessors": [{"name": "Electric_arcs", "id": 15802612}, {"name": "Electrical_phenomena", "id": 2007926}, {"name": "Electricity", "id": 959298}], "successors": [{"name": "Lightning", "id": 12425718}, {"name": "Electromagnetic_compatibility", "id": 21284271}]}

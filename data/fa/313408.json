@@ -1,1 +1,1 @@
-{"name": "حد", "id": 313408, "predecessors": [{"name": "آنالیز_ریاضی", "id": 42318}], "successors": []}
+{"name": "حد", "id": 313408, "predecessors": [{"name": "آنالیز_ریاضی", "id": 42318}, {"name": "حسابان", "id": 422951}], "successors": [{"name": "حد_(ریاضی)", "id": 1629565}]}

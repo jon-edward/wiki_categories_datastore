@@ -1,1 +1,0 @@
-{"name": "State_functions", "id": 19908698, "predecessors": [{"name": "Thermodynamic_properties", "id": 13785327}], "successors": [{"name": "Temperature", "id": 1214620}, {"name": "Thermodynamic_entropy", "id": 10105445}, {"name": "Threshold_temperatures", "id": 37792728}]}

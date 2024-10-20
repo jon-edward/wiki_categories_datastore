@@ -1,1 +1,1 @@
-{"name": "Digital_circuits", "id": 4588517, "predecessors": [{"name": "Digital_electronics", "id": 969487}], "successors": [{"name": "Gate_arrays", "id": 3285479}, {"name": "Digital_registers", "id": 4588627}, {"name": "Logic_gates", "id": 4657697}]}
+{"name": "Digital_circuits", "id": 4588517, "predecessors": [{"name": "Digital_electronics", "id": 969487}, {"name": "Electronic_circuits", "id": 1331227}], "successors": [{"name": "Gate_arrays", "id": 3285479}, {"name": "Digital_registers", "id": 4588627}, {"name": "Logic_gates", "id": 4657697}]}

@@ -1,1 +1,1 @@
-{"name": "Medical_clamps", "id": 12386261, "predecessors": [{"name": "Surgical_instruments", "id": 15048366}], "successors": []}
+{"name": "Medical_clamps", "id": 12386261, "predecessors": [{"name": "Clamps_(tool)", "id": 44366455}, {"name": "Surgical_instruments", "id": 15048366}], "successors": []}

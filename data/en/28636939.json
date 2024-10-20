@@ -1,1 +1,1 @@
-{"name": "Diesel_engine_manufacturers", "id": 28636939, "predecessors": [{"name": "Diesel_engines", "id": 16236256}, {"name": "Engines", "id": 743017}], "successors": [{"name": "Land_Rover", "id": 884084}]}
+{"name": "Diesel_engine_manufacturers", "id": 28636939, "predecessors": [{"name": "Auto_parts_suppliers", "id": 2060917}, {"name": "Diesel_engines", "id": 16236256}, {"name": "Engines", "id": 743017}], "successors": [{"name": "Land_Rover", "id": 884084}]}

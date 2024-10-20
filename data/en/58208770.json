@@ -1,1 +1,1 @@
-{"name": "Medical_device_manufacturers", "id": 58208770, "predecessors": [{"name": "Medical_devices", "id": 41242589}, {"name": "Life_sciences_industry", "id": 47317803}], "successors": []}
+{"name": "Medical_device_manufacturers", "id": 58208770, "predecessors": [{"name": "Instrument-making_corporations", "id": 19889200}, {"name": "Medical_devices", "id": 41242589}, {"name": "Life_sciences_industry", "id": 47317803}], "successors": [{"name": "X-ray_equipment_manufacturers", "id": 16268133}]}

@@ -1,1 +1,1 @@
-{"name": "Idols", "id": 233047, "predecessors": [{"name": "Kykyjenetsintäohjelmat", "id": 233060}, {"name": "Laulukilpailut", "id": 692874}, {"name": "Musiikkiohjelmat", "id": 167591}], "successors": [{"name": "Suomen_Idols", "id": 509933}]}
+{"name": "Idols", "id": 233047, "predecessors": [{"name": "Kykyjenetsintäohjelmat", "id": 233060}, {"name": "Musiikkiohjelmat", "id": 167591}, {"name": "Laulu", "id": 542861}], "successors": [{"name": "Suomen_Idols", "id": 509933}]}

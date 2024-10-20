@@ -1,1 +1,1 @@
-{"name": "Cluster_bomb_attacks", "id": 17727182, "predecessors": [{"name": "Cluster_munitions", "id": 17726566}], "successors": []}
+{"name": "Cluster_bomb_attacks", "id": 17727182, "predecessors": [{"name": "Bombs", "id": 762472}, {"name": "Cluster_munitions", "id": 17726566}], "successors": []}

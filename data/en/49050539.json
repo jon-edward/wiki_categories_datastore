@@ -1,1 +1,1 @@
-{"name": "LED_lamps", "id": 49050539, "predecessors": [{"name": "Light-emitting_diodes", "id": 21606199}], "successors": []}
+{"name": "LED_lamps", "id": 49050539, "predecessors": [{"name": "Light-emitting_diodes", "id": 21606199}, {"name": "Types_of_lamp", "id": 45198981}], "successors": []}

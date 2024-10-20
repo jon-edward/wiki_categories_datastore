@@ -1,1 +1,1 @@
-{"name": "Volcanic_degassing", "id": 64791286, "predecessors": [{"name": "Gases", "id": 1645013}], "successors": []}
+{"name": "Volcanic_degassing", "id": 64791286, "predecessors": [{"name": "Gases", "id": 1645013}, {"name": "Geological_hazards", "id": 2638161}], "successors": []}

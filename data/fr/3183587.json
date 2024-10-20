@@ -1,1 +1,0 @@
-{"name": "Métier_des_transports", "id": 3183587, "predecessors": [{"name": "Transport", "id": 82492}, {"name": "Métier", "id": 87726}], "successors": [{"name": "Métier_des_chemins_de_fer", "id": 1274598}, {"name": "Métier_de_la_route", "id": 1643125}, {"name": "Métier_de_l'automobile", "id": 14136203}]}

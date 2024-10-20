@@ -1,1 +1,1 @@
-{"name": "Insurance_underwriters", "id": 31001801, "predecessors": [{"name": "Underwriting", "id": 53501736}], "successors": []}
+{"name": "Insurance_underwriters", "id": 31001801, "predecessors": [{"name": "Businesspeople_in_insurance", "id": 36933275}, {"name": "Underwriting", "id": 53501736}, {"name": "Finance_occupations", "id": 50682347}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Electrical_conductors", "id": 12011927, "predecessors": [{"name": "Materials", "id": 722279}], "successors": [{"name": "Carbon_nanotubes", "id": 19887642}]}
+{"name": "Electrical_conductors", "id": 12011927, "predecessors": [{"name": "Electricity", "id": 959298}, {"name": "Materials", "id": 722279}], "successors": [{"name": "Electrodes", "id": 1508206}, {"name": "Carbon_nanotubes", "id": 19887642}, {"name": "Electrolytes", "id": 33115992}]}

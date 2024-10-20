@@ -1,1 +1,1 @@
-{"name": "Hall_effect", "id": 3450307, "predecessors": [{"name": "Electrical_phenomena", "id": 2007926}], "successors": []}
+{"name": "Hall_effect", "id": 3450307, "predecessors": [{"name": "Electric_and_magnetic_fields_in_matter", "id": 2461342}, {"name": "Electrical_phenomena", "id": 2007926}, {"name": "Solid_state_engineering", "id": 38350513}], "successors": []}

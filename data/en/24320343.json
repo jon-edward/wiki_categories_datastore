@@ -1,1 +1,1 @@
-{"name": "Astronomical_radio_sources", "id": 24320343, "predecessors": [{"name": "Astronomical_objects", "id": 960879}], "successors": [{"name": "Microquasars", "id": 5214008}, {"name": "Cambridge_surveys_of_radio_sources", "id": 26956961}]}
+{"name": "Astronomical_radio_sources", "id": 24320343, "predecessors": [{"name": "Astronomy", "id": 692915}], "successors": [{"name": "Microquasars", "id": 5214008}, {"name": "Cambridge_surveys_of_radio_sources", "id": 26956961}]}

@@ -1,1 +1,1 @@
-{"name": "Expeditionary_warfare", "id": 39727462, "predecessors": [{"name": "Warfare_by_type", "id": 4733422}, {"name": "Military_geography", "id": 7774333}], "successors": [{"name": "Expeditionary_units_and_formations", "id": 9073722}, {"name": "Rapid_reaction_force_units_and_formations", "id": 73992038}]}
+{"name": "Expeditionary_warfare", "id": 39727462, "predecessors": [{"name": "Warfare_by_type", "id": 4733422}, {"name": "Exploration", "id": 968416}, {"name": "Military_geography", "id": 7774333}], "successors": [{"name": "Military_expeditions", "id": 36565431}]}

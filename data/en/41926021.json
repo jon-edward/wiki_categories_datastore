@@ -1,1 +1,1 @@
-{"name": "Southeast_Asian_curries", "id": 41926021, "predecessors": [{"name": "Southeast_Asian_cuisine", "id": 3597575}, {"name": "Curry_dishes", "id": 57852423}], "successors": [{"name": "Thai_curries", "id": 41926027}]}
+{"name": "Southeast_Asian_curries", "id": 41926021, "predecessors": [{"name": "Southeast_Asian_cuisine", "id": 3597575}, {"name": "Cuisine_by_region", "id": 23168367}], "successors": [{"name": "Thai_curries", "id": 41926027}]}

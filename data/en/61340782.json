@@ -1,1 +1,1 @@
-{"name": "Pyrogallol_ethers", "id": 61340782, "predecessors": [{"name": "Catechol_ethers", "id": 61339146}], "successors": [{"name": "Mescalines", "id": 61348483}]}
+{"name": "Pyrogallol_ethers", "id": 61340782, "predecessors": [{"name": "Catechol_ethers", "id": 61339146}, {"name": "Pyrogallols", "id": 29692300}, {"name": "Resorcinols", "id": 29145312}], "successors": [{"name": "Mescalines", "id": 61348483}]}

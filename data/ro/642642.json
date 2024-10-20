@@ -1,1 +1,1 @@
-{"name": "Bob", "id": 642642, "predecessors": [{"name": "Sporturi_de_iarnă", "id": 651477}, {"name": "Sporturi_olimpice", "id": 36680}], "successors": [{"name": "Bob_la_Jocurile_Olimpice", "id": 1231936}]}
+{"name": "Bob", "id": 642642, "predecessors": [{"name": "Sporturi_de_iarnă", "id": 651477}, {"name": "Sporturi_olimpice", "id": 36680}], "successors": [{"name": "Boberi", "id": 642641}, {"name": "Bob_la_Jocurile_Olimpice", "id": 1231936}]}

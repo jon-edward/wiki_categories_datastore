@@ -1,1 +1,0 @@
-{"name": "Viaje", "id": 2763778, "predecessors": [{"name": "Transporte", "id": 55371}, {"name": "Turismo", "id": 55707}, {"name": "Comportamiento_humano", "id": 744693}], "successors": [{"name": "Viaje_en_el_tiempo", "id": 988836}, {"name": "Literatura_de_viajes", "id": 2438278}, {"name": "Sitios_web_de_viajes", "id": 2925489}]}

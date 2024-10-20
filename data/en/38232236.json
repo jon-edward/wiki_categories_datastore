@@ -1,1 +1,1 @@
-{"name": "Muni_Metro_line_templates", "id": 38232236, "predecessors": [{"name": "Muni_Metro", "id": 18456187}], "successors": []}
+{"name": "Muni_Metro_line_templates", "id": 38232236, "predecessors": [{"name": "Muni_Metro", "id": 18456187}, {"name": "San_Francisco_Municipal_Railway", "id": 3034429}], "successors": []}

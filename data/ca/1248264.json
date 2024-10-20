@@ -1,1 +1,1 @@
-{"name": "Begudes_sense_alcohol", "id": 1248264, "predecessors": [{"name": "Begudes", "id": 15064}], "successors": [{"name": "Refrescs", "id": 572375}, {"name": "Te", "id": 673192}, {"name": "Llet", "id": 809521}, {"name": "Begudes_amb_llet", "id": 989120}]}
+{"name": "Begudes_sense_alcohol", "id": 1248264, "predecessors": [{"name": "Aliments_elaborats", "id": 442653}], "successors": [{"name": "Refrescs", "id": 572375}, {"name": "Te", "id": 673192}, {"name": "Llet", "id": 809521}, {"name": "Begudes_amb_llet", "id": 989120}]}

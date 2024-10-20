@@ -1,1 +1,0 @@
-{"name": "Internet_Protocol", "id": 6743802, "predecessors": [{"name": "Internet", "id": 240464}, {"name": "Geschichte_des_Internets", "id": 6067820}], "successors": [{"name": "IPv6-Übergangsmechanismus", "id": 7215581}, {"name": "Netzwerkadressübersetzung", "id": 12695509}, {"name": "Dynamic_Host_Configuration_Protocol", "id": 12750536}]}

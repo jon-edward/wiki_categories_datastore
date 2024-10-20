@@ -1,1 +1,1 @@
-{"name": "Spacecraft_that_impacted_the_Moon", "id": 41302914, "predecessors": [{"name": "Destroyed_space_probes", "id": 41660398}, {"name": "Impactor_spacecraft", "id": 52250682}, {"name": "Endings", "id": 52707259}], "successors": []}
+{"name": "Spacecraft_that_impacted_the_Moon", "id": 41302914, "predecessors": [{"name": "Destroyed_space_probes", "id": 41660398}, {"name": "Impactor_spacecraft", "id": 52250682}, {"name": "Spacecraft_retirement", "id": 41271256}], "successors": []}

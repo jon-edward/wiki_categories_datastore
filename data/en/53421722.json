@@ -1,1 +1,1 @@
-{"name": "Sports_competitions_in_Mexico_City", "id": 53421722, "predecessors": [{"name": "Competitions", "id": 737119}], "successors": [{"name": "Mexico_City_ePrix", "id": 49404210}]}
+{"name": "Sports_competitions_in_Mexico_City", "id": 53421722, "predecessors": [{"name": "Sport_in_Mexico_City", "id": 3311525}, {"name": "Competitions", "id": 737119}], "successors": [{"name": "Mexico_City_ePrix", "id": 49404210}]}

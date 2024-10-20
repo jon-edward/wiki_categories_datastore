@@ -1,1 +1,1 @@
-{"name": "Ethernet_cables", "id": 2068176, "predecessors": [{"name": "Computer_connectors", "id": 34376900}, {"name": "Ethernet", "id": 893717}, {"name": "Networking_hardware", "id": 1899604}, {"name": "Physical_layer_protocols", "id": 7920188}, {"name": "Electrical_wiring", "id": 8386771}], "successors": []}
+{"name": "Ethernet_cables", "id": 2068176, "predecessors": [{"name": "Computer_connectors", "id": 34376900}, {"name": "Ethernet", "id": 893717}, {"name": "Networking_hardware", "id": 1899604}, {"name": "Physical_layer_protocols", "id": 7920188}], "successors": []}

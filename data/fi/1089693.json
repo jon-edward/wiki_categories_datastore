@@ -1,1 +1,1 @@
-{"name": "Inkerin_historia", "id": 1089693, "predecessors": [{"name": "Inkeri", "id": 64483}, {"name": "Historia", "id": 18187}, {"name": "Venäjän_historia", "id": 28068}], "successors": [{"name": "Pietarin_historia", "id": 1795744}]}
+{"name": "Inkerin_historia", "id": 1089693, "predecessors": [{"name": "Inkeri", "id": 64483}, {"name": "Historia_aiheittain", "id": 273944}, {"name": "Venäjän_historia", "id": 28068}], "successors": [{"name": "Pietarin_historia", "id": 1795744}]}

@@ -1,1 +1,1 @@
-{"name": "Star_systems", "id": 936518, "predecessors": [{"name": "Astronomical_objects", "id": 960879}, {"name": "Stars", "id": 694492}], "successors": [{"name": "Multiple_stars", "id": 992775}, {"name": "Multiple_star_systems", "id": 5294467}]}
+{"name": "Star_systems", "id": 936518, "predecessors": [{"name": "Stars", "id": 694492}, {"name": "Astronomy", "id": 692915}], "successors": [{"name": "Multiple_stars", "id": 992775}, {"name": "Multiple_star_systems", "id": 5294467}]}

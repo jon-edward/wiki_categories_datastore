@@ -1,1 +1,1 @@
-{"name": "Psikoterapi", "id": 86417, "predecessors": [{"name": "Kesihatan_mental", "id": 86418}, {"name": "Psikologi", "id": 23859}, {"name": "Terapi", "id": 86411}], "successors": [{"name": "Mimpi", "id": 40442}]}
+{"name": "Psikoterapi", "id": 86417, "predecessors": [{"name": "Kesihatan_mental", "id": 86418}, {"name": "Psikologi", "id": 23859}, {"name": "Terapi", "id": 86411}, {"name": "Psikiatri", "id": 86428}], "successors": [{"name": "Mimpi", "id": 40442}]}

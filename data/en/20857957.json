@@ -1,1 +1,1 @@
-{"name": "Industrial_supply_companies", "id": 20857957, "predecessors": [{"name": "Industrial_organization", "id": 4820928}], "successors": []}
+{"name": "Industrial_supply_companies", "id": 20857957, "predecessors": [{"name": "Industrial_organization", "id": 4820928}], "successors": [{"name": "Steam_engine_manufacturers", "id": 27752200}, {"name": "Turbocharger_manufacturers", "id": 32358389}, {"name": "Model_railroad_manufacturers", "id": 718376}, {"name": "Rail_infrastructure_manufacturers", "id": 18644521}, {"name": "Tram_manufacturers", "id": 34835388}]}

@@ -1,1 +1,1 @@
-{"name": "Filmoj_pri_malliberejoj", "id": 606107, "predecessors": [{"name": "Juraj_filmoj", "id": 593702}, {"name": "Malliberejoj", "id": 306224}, {"name": "Filmoj", "id": 80385}], "successors": []}
+{"name": "Filmoj_pri_malliberejoj", "id": 606107, "predecessors": [{"name": "Juraj_filmoj", "id": 593702}, {"name": "Malliberejoj", "id": 306224}, {"name": "Filmoj", "id": 80385}], "successors": [{"name": "Filmoj_pri_malliberuloj", "id": 606106}]}

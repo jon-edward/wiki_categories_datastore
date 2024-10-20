@@ -1,1 +1,1 @@
-{"name": "Questioned_document_examination", "id": 30181202, "predecessors": [{"name": "Documents", "id": 694072}, {"name": "Fraud", "id": 737192}, {"name": "Writing", "id": 1166293}], "successors": [{"name": "Authorship_debates", "id": 31740236}]}
+{"name": "Questioned_document_examination", "id": 30181202, "predecessors": [{"name": "Documents", "id": 694072}, {"name": "Writing", "id": 1166293}], "successors": [{"name": "Authorship_debates", "id": 31740236}]}

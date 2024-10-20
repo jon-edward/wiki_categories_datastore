@@ -1,1 +1,1 @@
-{"name": "Cyclohexanols", "id": 40084957, "predecessors": [{"name": "Cyclohexanes", "id": 56069527}], "successors": [{"name": "Sterols", "id": 12797554}]}
+{"name": "Cyclohexanols", "id": 40084957, "predecessors": [{"name": "Cyclohexanes", "id": 56069527}, {"name": "Alkanols", "id": 46536540}], "successors": [{"name": "Sterols", "id": 12797554}]}

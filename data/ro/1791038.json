@@ -1,1 +1,1 @@
-{"name": "Grădinărit", "id": 1791038, "predecessors": [{"name": "Hobby", "id": 32140}, {"name": "Munca_în_agricultură", "id": 91049}], "successors": [{"name": "Unelte_de_grădinărit", "id": 1928216}, {"name": "Plante_de_grădină", "id": 1938359}]}
+{"name": "Grădinărit", "id": 1791038, "predecessors": [{"name": "Hobby", "id": 32140}, {"name": "Horticultură", "id": 69240}], "successors": [{"name": "Unelte_de_grădinărit", "id": 1928216}, {"name": "Plante_de_grădină", "id": 1938359}]}

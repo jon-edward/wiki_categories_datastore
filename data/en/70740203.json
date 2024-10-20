@@ -1,1 +1,1 @@
-{"name": "Electrical_interconnectors_to_and_from_the_Synchronous_Grid_of_Continental_Europe", "id": 70740203, "predecessors": [{"name": "Electric_power_infrastructure", "id": 19126571}], "successors": []}
+{"name": "Electrical_interconnectors_to_and_from_the_Synchronous_Grid_of_Continental_Europe", "id": 70740203, "predecessors": [{"name": "HVDC_transmission_lines", "id": 13944120}, {"name": "Electric_power_infrastructure", "id": 19126571}], "successors": []}

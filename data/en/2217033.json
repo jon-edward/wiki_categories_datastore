@@ -1,1 +1,1 @@
-{"name": "Vowels", "id": 2217033, "predecessors": [{"name": "Linguistic_units", "id": 12603388}, {"name": "Phonetics", "id": 837848}], "successors": [{"name": "Vowel_letters", "id": 5621728}]}
+{"name": "Vowels", "id": 2217033, "predecessors": [{"name": "Phonetics", "id": 837848}], "successors": [{"name": "Vowel_letters", "id": 5621728}]}

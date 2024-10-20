@@ -1,1 +1,0 @@
-{"name": "Prise_d'otages", "id": 2915717, "predecessors": [{"name": "Affaire_criminelle", "id": 101635}, {"name": "Attentat", "id": 4138566}], "successors": [{"name": "Otage", "id": 289795}, {"name": "Preneur_d'otage", "id": 4461863}, {"name": "Détournement_d'avion", "id": 7255642}, {"name": "Mission_de_sauvetage_d'otages", "id": 14241015}]}

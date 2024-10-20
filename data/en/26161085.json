@@ -1,1 +1,1 @@
-{"name": "Elevator_manufacturers", "id": 26161085, "predecessors": [{"name": "Elevators", "id": 1157921}], "successors": [{"name": "Otis_Worldwide", "id": 10926422}]}
+{"name": "Elevator_manufacturers", "id": 26161085, "predecessors": [{"name": "Electrical_equipment_manufacturers", "id": 13690913}, {"name": "Elevators", "id": 1157921}], "successors": [{"name": "Otis_Worldwide", "id": 10926422}]}

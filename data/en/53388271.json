@@ -1,1 +1,0 @@
-{"name": "Similarity_measures", "id": 53388271, "predecessors": [{"name": "Distance", "id": 56650552}, {"name": "Information_theory", "id": 694025}, {"name": "Semantic_relations", "id": 68435826}], "successors": [{"name": "String_metrics", "id": 9833053}, {"name": "Distance", "id": 56650552}]}

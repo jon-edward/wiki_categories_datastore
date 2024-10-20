@@ -1,1 +1,1 @@
-{"name": "Sejarah_Yunani", "id": 162790, "predecessors": [{"name": "Sejarah_Eropah", "id": 73102}, {"name": "Yunani", "id": 162783}, {"name": "Sejarah", "id": 8026}, {"name": "Kawasan", "id": 81856}], "successors": [{"name": "Yunani", "id": 162783}]}
+{"name": "Sejarah_Yunani", "id": 162790, "predecessors": [{"name": "Sejarah_Eropah", "id": 73102}, {"name": "Yunani", "id": 162783}, {"name": "Sejarah", "id": 8026}, {"name": "Kawasan", "id": 81856}], "successors": [{"name": "Yunani", "id": 162783}, {"name": "Yunani_Purba", "id": 1131918}]}

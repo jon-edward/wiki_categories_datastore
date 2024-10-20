@@ -1,1 +1,1 @@
-{"name": "Indian_Buddhist_monks", "id": 17092416, "predecessors": [{"name": "Buddhist_monks", "id": 11303572}], "successors": [{"name": "Monks_of_Nalanda", "id": 66591729}, {"name": "Monks_of_Vikramashila", "id": 66812959}]}
+{"name": "Indian_Buddhist_monks", "id": 17092416, "predecessors": [{"name": "Indian_Buddhists", "id": 7642197}, {"name": "Buddhist_monks", "id": 11303572}], "successors": [{"name": "Monks_of_Nalanda", "id": 66591729}, {"name": "Monks_of_Vikramashila", "id": 66812959}]}

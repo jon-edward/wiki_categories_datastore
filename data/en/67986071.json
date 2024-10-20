@@ -1,1 +1,1 @@
-{"name": "Manhunts", "id": 67986071, "predecessors": [{"name": "Counterterrorism", "id": 3223549}, {"name": "Intelligence_operations_by_type", "id": 40544856}, {"name": "Law_enforcement_techniques", "id": 1307032}], "successors": []}
+{"name": "Manhunts", "id": 67986071, "predecessors": [{"name": "Counterterrorism", "id": 3223549}, {"name": "Intelligence_operations_by_type", "id": 40544856}, {"name": "Law_enforcement_operations", "id": 22088683}, {"name": "Law_enforcement_techniques", "id": 1307032}], "successors": []}

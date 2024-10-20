@@ -1,1 +1,1 @@
-{"name": "Health_fraud_people", "id": 74786671, "predecessors": [{"name": "Fraudsters", "id": 1588152}, {"name": "Health_fraud", "id": 17112991}], "successors": [{"name": "People_convicted_for_health_fraud", "id": 60320304}]}
+{"name": "Health_fraud_people", "id": 74786671, "predecessors": [{"name": "Health_fraud", "id": 17112991}], "successors": [{"name": "People_convicted_for_health_fraud", "id": 60320304}]}

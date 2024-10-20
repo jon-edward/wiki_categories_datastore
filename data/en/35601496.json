@@ -1,1 +1,1 @@
-{"name": "Newspapers_published_in_London", "id": 35601496, "predecessors": [{"name": "Companies_based_in_London", "id": 5891736}, {"name": "Mass_media_in_London", "id": 35601505}], "successors": [{"name": "London_newspapers", "id": 15152965}, {"name": "The_Independent_people", "id": 32026849}]}
+{"name": "Newspapers_published_in_London", "id": 35601496, "predecessors": [{"name": "Local_mass_media_in_London", "id": 1337520}, {"name": "Publishing_companies_based_in_London", "id": 37201256}], "successors": [{"name": "London_newspapers", "id": 15152965}]}

@@ -1,1 +1,1 @@
-{"name": "Medisinsk_litteratur", "id": 434953, "predecessors": [{"name": "Medisin", "id": 13341}, {"name": "Sakprosa", "id": 231944}, {"name": "Forberedelse_for_fremtiden", "id": 1234315}], "successors": [{"name": "Medisinske_tidsskrifter", "id": 2093144}]}
+{"name": "Medisinsk_litteratur", "id": 434953, "predecessors": [{"name": "Medisin", "id": 13341}, {"name": "Sakprosa", "id": 231944}, {"name": "Helse", "id": 30676}], "successors": [{"name": "Medisinske_tidsskrifter", "id": 2093144}]}

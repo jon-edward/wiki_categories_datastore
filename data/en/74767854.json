@@ -1,1 +1,1 @@
-{"name": "Windows-only_proprietary_software", "id": 74767854, "predecessors": [{"name": "Proprietary_software_for_Windows", "id": 74766502}, {"name": "Operating_systems", "id": 693664}], "successors": []}
+{"name": "Windows-only_proprietary_software", "id": 74767854, "predecessors": [{"name": "Proprietary_software_for_Windows", "id": 74766502}, {"name": "Operating_systems", "id": 693664}], "successors": [{"name": "Windows-only_freeware", "id": 9442453}, {"name": "Windows-only_shareware", "id": 17287581}]}

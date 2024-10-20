@@ -1,1 +1,1 @@
-{"name": "Elliptic_curves", "id": 1120102, "predecessors": [{"name": "Abelian_varieties", "id": 1120103}, {"name": "Elliptic_functions", "id": 1120101}], "successors": [{"name": "Elliptic_curve_cryptography", "id": 26325963}]}
+{"name": "Elliptic_curves", "id": 1120102, "predecessors": [{"name": "Algebraic_curves", "id": 1114053}, {"name": "Cubic_curves", "id": 73951220}, {"name": "Elliptic_functions", "id": 1120101}], "successors": [{"name": "Elliptic_curve_cryptography", "id": 26325963}]}

@@ -1,1 +1,1 @@
-{"name": "Ammonia", "id": 60159369, "predecessors": [{"name": "Hydrogen_compounds", "id": 1675024}, {"name": "Nitrogen_compounds", "id": 903300}], "successors": [{"name": "Ammonium_compounds", "id": 903331}]}
+{"name": "Ammonia", "id": 60159369, "predecessors": [{"name": "Nitrogen_compounds", "id": 903300}], "successors": [{"name": "Ammonium_compounds", "id": 903331}]}

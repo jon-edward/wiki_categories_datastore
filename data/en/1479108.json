@@ -1,1 +1,1 @@
-{"name": "Recording", "id": 1479108, "predecessors": [{"name": "Data_management", "id": 762162}, {"name": "Data_storage", "id": 25108506}, {"name": "Time", "id": 744728}], "successors": []}
+{"name": "Recording", "id": 1479108, "predecessors": [{"name": "Data_management", "id": 762162}, {"name": "Data_storage", "id": 25108506}, {"name": "Time", "id": 744728}], "successors": [{"name": "Imaging", "id": 2102726}]}

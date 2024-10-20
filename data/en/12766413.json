@@ -1,1 +1,1 @@
-{"name": "Motion_in_computer_vision", "id": 12766413, "predecessors": [{"name": "Computer_vision", "id": 797088}, {"name": "Motion_(physics)", "id": 44363056}, {"name": "Video_processing", "id": 15951944}], "successors": [{"name": "Motion_capture", "id": 57653350}]}
+{"name": "Motion_in_computer_vision", "id": 12766413, "predecessors": [{"name": "Computer_vision", "id": 797088}, {"name": "Video_processing", "id": 15951944}], "successors": [{"name": "Motion_capture", "id": 57653350}]}

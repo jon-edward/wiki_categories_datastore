@@ -1,1 +1,1 @@
-{"name": "Aquatic_fungi", "id": 32503553, "predecessors": [{"name": "Aquatic_organisms", "id": 1460650}, {"name": "Evolutionary_biology", "id": 714501}], "successors": [{"name": "Chytridiomycota", "id": 5243335}, {"name": "Blastocladiomycota", "id": 42335013}]}
+{"name": "Aquatic_fungi", "id": 32503553, "predecessors": [{"name": "Aquatic_ecology", "id": 6840293}, {"name": "Evolutionary_biology", "id": 714501}], "successors": [{"name": "Chytridiomycota", "id": 5243335}, {"name": "Blastocladiomycota", "id": 42335013}]}

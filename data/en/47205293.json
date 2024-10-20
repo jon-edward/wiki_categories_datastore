@@ -1,1 +1,1 @@
-{"name": "Minors_convicted_of_murder", "id": 47205293, "predecessors": [{"name": "Murder_committed_by_minors", "id": 12178962}, {"name": "People_charged_with_murder", "id": 55943057}], "successors": []}
+{"name": "Minors_convicted_of_murder", "id": 47205293, "predecessors": [{"name": "People_convicted_of_murder", "id": 20173255}, {"name": "Murder_committed_by_minors", "id": 12178962}], "successors": []}

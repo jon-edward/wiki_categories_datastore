@@ -1,1 +1,1 @@
-{"name": "Table-cooked_dishes", "id": 18795736, "predecessors": [{"name": "Cooking_techniques", "id": 757512}], "successors": [{"name": "Flambéed_foods", "id": 23744312}]}
+{"name": "Table-cooked_dishes", "id": 18795736, "predecessors": [{"name": "Cooking_techniques", "id": 757512}], "successors": [{"name": "Flambéed_foods", "id": 23744312}, {"name": "Hot_pot", "id": 74751938}]}

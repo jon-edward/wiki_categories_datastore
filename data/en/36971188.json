@@ -1,1 +1,1 @@
-{"name": "Inward_investment", "id": 36971188, "predecessors": [{"name": "Foreign_direct_investment", "id": 27786656}, {"name": "International_business", "id": 3236392}, {"name": "International_finance", "id": 5138124}], "successors": []}
+{"name": "Inward_investment", "id": 36971188, "predecessors": [{"name": "Foreign_direct_investment", "id": 27786656}, {"name": "International_business", "id": 3236392}, {"name": "International_finance", "id": 5138124}], "successors": [{"name": "Mansudae_Overseas_Projects", "id": 49335814}]}

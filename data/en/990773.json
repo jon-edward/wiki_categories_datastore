@@ -1,1 +1,1 @@
-{"name": "Hardware_description_languages", "id": 990773, "predecessors": [{"name": "Electronic_design_automation", "id": 1051471}, {"name": "Specification_languages", "id": 945925}], "successors": []}
+{"name": "Hardware_description_languages", "id": 990773, "predecessors": [{"name": "Electronic_design_automation", "id": 1051471}, {"name": "Electronic_engineering", "id": 2909311}, {"name": "Specification_languages", "id": 945925}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Single-stage-to-orbit", "id": 32308393, "predecessors": [{"name": "Rocket_propulsion", "id": 1936708}, {"name": "Space_access", "id": 6036006}, {"name": "Spacecraft_propulsion", "id": 691707}, {"name": "Rocketry", "id": 1421160}], "successors": []}
+{"name": "Single-stage-to-orbit", "id": 32308393, "predecessors": [{"name": "Rocket_propulsion", "id": 1936708}, {"name": "Space_access", "id": 6036006}, {"name": "Rocketry", "id": 1421160}], "successors": []}

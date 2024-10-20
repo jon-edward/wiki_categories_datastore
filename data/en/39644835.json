@@ -1,1 +1,1 @@
-{"name": "Dismemberments", "id": 39644835, "predecessors": [{"name": "Amputation", "id": 36054784}], "successors": [{"name": "Human_trophy_collecting", "id": 25473829}]}
+{"name": "Dismemberments", "id": 39644835, "predecessors": [{"name": "Amputation", "id": 36054784}], "successors": [{"name": "People_executed_by_dismemberment", "id": 5181463}, {"name": "Human_trophy_collecting", "id": 25473829}, {"name": "Decapitation", "id": 48561367}]}

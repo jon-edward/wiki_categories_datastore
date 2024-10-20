@@ -1,1 +1,1 @@
-{"name": "Burgher_military_personnel", "id": 41556158, "predecessors": [{"name": "Military_personnel", "id": 6660319}, {"name": "Continents", "id": 788686}], "successors": []}
+{"name": "Burgher_military_personnel", "id": 41556158, "predecessors": [{"name": "Military_personnel", "id": 6660319}, {"name": "Regions", "id": 1023064}], "successors": []}

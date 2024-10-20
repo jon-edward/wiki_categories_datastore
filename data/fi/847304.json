@@ -1,1 +1,1 @@
-{"name": "Ilmastohistoria", "id": 847304, "predecessors": [{"name": "Ilmasto", "id": 27191}, {"name": "Ilmastonmuutos", "id": 165623}, {"name": "Historia", "id": 18187}], "successors": [{"name": "Jääkaudet", "id": 1054763}, {"name": "Holoseeni", "id": 1074937}]}
+{"name": "Ilmastohistoria", "id": 847304, "predecessors": [{"name": "Historia_aiheittain", "id": 273944}, {"name": "Ilmasto", "id": 27191}, {"name": "Ilmastonmuutos", "id": 165623}], "successors": [{"name": "Jääkaudet", "id": 1054763}, {"name": "Holoseeni", "id": 1074937}]}

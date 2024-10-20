@@ -1,1 +1,1 @@
-{"name": "Puolan_sotahistoria", "id": 581476, "predecessors": [{"name": "Puolan_historia", "id": 51450}, {"name": "Historia", "id": 18187}], "successors": [{"name": "Puolan_sodat", "id": 339872}, {"name": "Puolan_taistelut", "id": 581475}]}
+{"name": "Puolan_sotahistoria", "id": 581476, "predecessors": [{"name": "Puolan_historia", "id": 51450}, {"name": "Tiede", "id": 19816}], "successors": [{"name": "Puolan_sodat", "id": 339872}, {"name": "Puolan_taistelut", "id": 581475}]}

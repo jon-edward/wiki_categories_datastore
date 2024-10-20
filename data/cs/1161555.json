@@ -1,1 +1,1 @@
-{"name": "Seznamy_lanovek", "id": 1161555, "predecessors": [{"name": "Dopravní_seznamy", "id": 481627}, {"name": "Lanové_dráhy", "id": 54862}], "successors": []}
+{"name": "Seznamy_lanovek", "id": 1161555, "predecessors": [{"name": "Lanové_dráhy", "id": 54862}, {"name": "Seznamy_dopravních_staveb", "id": 1951421}], "successors": []}

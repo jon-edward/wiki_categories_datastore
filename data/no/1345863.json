@@ -1,1 +1,1 @@
-{"name": "Rakettdrevne_luftfartøy", "id": 1345863, "predecessors": [{"name": "Raketter", "id": 357743}, {"name": "Energi", "id": 96350}], "successors": []}
+{"name": "Rakettdrevne_luftfartøy", "id": 1345863, "predecessors": [{"name": "Motorer", "id": 29820}, {"name": "Energi", "id": 96350}], "successors": []}

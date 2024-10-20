@@ -1,1 +1,1 @@
-{"name": "Pasta_sauce_brands", "id": 77750366, "predecessors": [{"name": "Food_product_brands", "id": 4108480}, {"name": "Italian_sauces", "id": 8581959}, {"name": "Sauces", "id": 754918}], "successors": []}
+{"name": "Pasta_sauce_brands", "id": 77750366, "predecessors": [{"name": "Food_product_brands", "id": 4108480}, {"name": "Italian_sauces", "id": 8581959}, {"name": "Pasta_industry", "id": 33840027}, {"name": "Sauces", "id": 754918}], "successors": []}

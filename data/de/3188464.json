@@ -1,1 +1,0 @@
-{"name": "Brenngas", "id": 3188464, "predecessors": [{"name": "Brenngastechnik", "id": 3993712}, {"name": "Gas", "id": 589970}, {"name": "Technik", "id": 242544}], "successors": [{"name": "Fossiles_Brenngas", "id": 4030687}, {"name": "Biogenes_Brenngas", "id": 4460028}]}

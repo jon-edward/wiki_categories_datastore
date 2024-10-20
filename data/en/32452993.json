@@ -1,1 +1,1 @@
-{"name": "Wine_chemistry", "id": 32452993, "predecessors": [{"name": "Oenology", "id": 859497}, {"name": "Wine", "id": 1635343}, {"name": "Biochemistry", "id": 695996}], "successors": []}
+{"name": "Wine_chemistry", "id": 32452993, "predecessors": [{"name": "Oenology", "id": 859497}, {"name": "Wine", "id": 1635343}, {"name": "Alcohol", "id": 1344286}], "successors": []}

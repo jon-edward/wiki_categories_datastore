@@ -1,1 +1,1 @@
-{"name": "Japanese_military_attachés", "id": 56180064, "predecessors": [{"name": "Japanese_diplomats", "id": 1429365}, {"name": "Japanese_military_personnel", "id": 6676821}, {"name": "Military_attachés", "id": 51086509}], "successors": [{"name": "Japanese_naval_attachés", "id": 56187525}]}
+{"name": "Japanese_military_attachés", "id": 56180064, "predecessors": [{"name": "Japanese_diplomats", "id": 1429365}, {"name": "Military_attachés", "id": 51086509}, {"name": "Regions", "id": 1023064}], "successors": [{"name": "Japanese_naval_attachés", "id": 56187525}]}

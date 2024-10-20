@@ -1,1 +1,1 @@
-{"name": "Attacks_on_military_installations_in_Vietnam", "id": 77254591, "predecessors": [{"name": "Government", "id": 697609}, {"name": "Attacks_on_government_buildings_and_structures_in_Asia", "id": 76707861}], "successors": []}
+{"name": "Attacks_on_military_installations_in_Vietnam", "id": 77254591, "predecessors": [{"name": "Attacks_on_military_installations", "id": 46451261}, {"name": "Attacks_on_government_buildings_and_structures_in_Asia", "id": 76707861}], "successors": []}

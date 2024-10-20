@@ -1,1 +1,1 @@
-{"name": "Art_museums_and_galleries_in_Prague", "id": 75631068, "predecessors": [{"name": "Art_museums_and_galleries_in_the_Czech_Republic", "id": 2516916}, {"name": "Museums_in_Prague", "id": 3301563}], "successors": [{"name": "Paintings_in_the_National_Gallery_Prague", "id": 67333353}]}
+{"name": "Art_museums_and_galleries_in_Prague", "id": 75631068, "predecessors": [{"name": "Museums_in_Prague", "id": 3301563}, {"name": "Czech_art", "id": 2252175}], "successors": [{"name": "Paintings_in_the_National_Gallery_Prague", "id": 67333353}]}

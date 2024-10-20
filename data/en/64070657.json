@@ -1,1 +1,1 @@
-{"name": "Plane_curves", "id": 64070657, "predecessors": [{"name": "Curves", "id": 769226}, {"name": "Euclidean_plane_geometry", "id": 3189382}], "successors": [{"name": "Piecewise-circular_curves", "id": 67686188}]}
+{"name": "Plane_curves", "id": 64070657, "predecessors": [{"name": "Euclidean_plane_geometry", "id": 3189382}], "successors": [{"name": "Conic_sections", "id": 969626}, {"name": "Algebraic_curves", "id": 1114053}, {"name": "Piecewise-circular_curves", "id": 67686188}]}

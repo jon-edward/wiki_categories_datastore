@@ -1,1 +1,1 @@
-{"name": "Recovered_astronomical_objects", "id": 77652947, "predecessors": [{"name": "Astronomical_objects", "id": 960879}], "successors": []}
+{"name": "Recovered_astronomical_objects", "id": 77652947, "predecessors": [{"name": "Astronomy", "id": 692915}, {"name": "Lost_objects", "id": 34167044}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Norte_del_Valle_Cartel", "id": 14648222, "predecessors": [{"name": "Colombian_Mafia", "id": 73938530}, {"name": "Crime", "id": 1183180}, {"name": "Continents", "id": 788686}], "successors": [{"name": "Norte_del_Valle_Cartel_traffickers", "id": 38525428}]}
+{"name": "Norte_del_Valle_Cartel", "id": 14648222, "predecessors": [{"name": "Colombian_Mafia", "id": 73938530}, {"name": "Gangs", "id": 713684}, {"name": "Continents", "id": 788686}], "successors": [{"name": "Norte_del_Valle_Cartel_traffickers", "id": 38525428}]}

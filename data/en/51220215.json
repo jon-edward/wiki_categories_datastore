@@ -1,1 +1,1 @@
-{"name": "Nvidia_graphics_processors", "id": 51220215, "predecessors": [{"name": "Graphics_processing_units", "id": 34587258}, {"name": "Nvidia_products", "id": 51180513}], "successors": [{"name": "GeForce_series", "id": 57210316}]}
+{"name": "Nvidia_graphics_processors", "id": 51220215, "predecessors": [{"name": "Graphics_processing_units", "id": 34587258}], "successors": [{"name": "GeForce_series", "id": 57210316}]}

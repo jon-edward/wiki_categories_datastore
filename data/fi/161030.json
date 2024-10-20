@@ -1,1 +1,1 @@
-{"name": "Rockfestivaalit_Suomessa", "id": 161030, "predecessors": [{"name": "Musiikkitapahtumat_Suomessa", "id": 161026}, {"name": "Festivaalit", "id": 1725245}, {"name": "Suomalainen_populaarimusiikki", "id": 1738556}], "successors": []}
+{"name": "Rockfestivaalit_Suomessa", "id": 161030, "predecessors": [{"name": "Musiikkifestivaalit_Suomessa", "id": 1822698}, {"name": "Festivaalit", "id": 1725245}, {"name": "Suomalainen_populaarimusiikki", "id": 1738556}], "successors": [{"name": "Entiset_rockfestivaalit_Suomessa", "id": 1822680}]}

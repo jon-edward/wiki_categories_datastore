@@ -1,1 +1,1 @@
-{"name": "Helse_i_USA", "id": 85836, "predecessors": [{"name": "USA", "id": 37486}, {"name": "Forberedelse_for_fremtiden", "id": 1234315}], "successors": [{"name": "Sykehus_i_USA", "id": 420858}, {"name": "USA_under_koronaviruspandemien_i_2020", "id": 1808457}]}
+{"name": "Helse_i_USA", "id": 85836, "predecessors": [{"name": "USA", "id": 37486}, {"name": "Helse", "id": 30676}], "successors": [{"name": "Sykehus_i_USA", "id": 420858}, {"name": "USA_under_koronaviruspandemien_i_2020", "id": 1808457}]}

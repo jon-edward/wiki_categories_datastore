@@ -1,1 +1,1 @@
-{"name": "Radiography", "id": 10041001, "predecessors": [{"name": "Radiology", "id": 695053}], "successors": [{"name": "X-ray_computed_tomography", "id": 32444755}, {"name": "Radiographers", "id": 58896222}]}
+{"name": "Radiography", "id": 10041001, "predecessors": [{"name": "Radiology", "id": 695053}, {"name": "X-rays", "id": 1297860}], "successors": [{"name": "X-ray_computed_tomography", "id": 32444755}, {"name": "Radiographers", "id": 58896222}]}

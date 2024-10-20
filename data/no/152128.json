@@ -1,1 +1,1 @@
-{"name": "Sykehus_i_Danmark", "id": 152128, "predecessors": [{"name": "Byggverk_i_Danmark", "id": 1108756}, {"name": "Byggverk_etter_funksjon", "id": 1370629}, {"name": "Forberedelse_for_fremtiden", "id": 1234315}], "successors": []}
+{"name": "Sykehus_i_Danmark", "id": 152128, "predecessors": [{"name": "Byggverk_i_Danmark", "id": 1108756}, {"name": "Byggverk_etter_funksjon", "id": 1370629}, {"name": "Helse", "id": 30676}], "successors": []}

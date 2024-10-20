@@ -1,1 +1,1 @@
-{"name": "Paradoxuri", "id": 240836, "predecessors": [{"name": "Argumente_filozofice", "id": 186853}, {"name": "Logică", "id": 22402}, {"name": "Probleme", "id": 186861}], "successors": [{"name": "Paradoxuri_matematice", "id": 121022}, {"name": "Paradoxuri_fizice", "id": 2294467}]}
+{"name": "Paradoxuri", "id": 240836, "predecessors": [{"name": "Logică", "id": 22402}, {"name": "Probleme", "id": 186861}, {"name": "Argumente", "id": 186852}], "successors": [{"name": "Paradoxuri_matematice", "id": 121022}, {"name": "Paradoxuri_fizice", "id": 2294467}]}

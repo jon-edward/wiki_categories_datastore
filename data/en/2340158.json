@@ -1,1 +1,1 @@
-{"name": "Straits_of_Asia", "id": 2340158, "predecessors": [{"name": "Continents", "id": 788686}], "successors": [{"name": "Taiwan_Strait", "id": 43260757}, {"name": "Straits_of_the_South_China_Sea", "id": 44819138}, {"name": "Straits_of_the_Kuril_Islands", "id": 21415143}]}
+{"name": "Straits_of_Asia", "id": 2340158, "predecessors": [{"name": "Regions", "id": 1023064}], "successors": [{"name": "Taiwan_Strait", "id": 43260757}, {"name": "Straits_of_the_South_China_Sea", "id": 44819138}, {"name": "Straits_of_the_Kuril_Islands", "id": 21415143}]}

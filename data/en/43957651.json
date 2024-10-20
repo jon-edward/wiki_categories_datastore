@@ -1,1 +1,1 @@
-{"name": "Hospital_scandals", "id": 43957651, "predecessors": [{"name": "Hospitals", "id": 791496}, {"name": "Medical_scandals", "id": 8451173}], "successors": []}
+{"name": "Hospital_scandals", "id": 43957651, "predecessors": [{"name": "Medical_scandals", "id": 8451173}, {"name": "History_of_medicine", "id": 709678}], "successors": []}

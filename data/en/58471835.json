@@ -1,1 +1,1 @@
-{"name": "Propane", "id": 58471835, "predecessors": [{"name": "Alkanes", "id": 696506}, {"name": "Fuel_gas", "id": 15245034}], "successors": [{"name": "Propionamides", "id": 27626100}, {"name": "Propionic_acids", "id": 29973196}, {"name": "Cyclopropanes", "id": 30471522}]}
+{"name": "Propane", "id": 58471835, "predecessors": [{"name": "Alkanes", "id": 696506}, {"name": "Fuel_gas", "id": 15245034}], "successors": [{"name": "Propionic_acids", "id": 29973196}, {"name": "Cyclopropanes", "id": 30471522}]}

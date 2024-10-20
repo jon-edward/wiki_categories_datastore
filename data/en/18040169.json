@@ -1,1 +1,1 @@
-{"name": "AMD_x86_microprocessors", "id": 18040169, "predecessors": [{"name": "X86_microprocessors", "id": 1196056}, {"name": "AMD_products", "id": 8712206}], "successors": []}
+{"name": "AMD_x86_microprocessors", "id": 18040169, "predecessors": [{"name": "X86_microprocessors", "id": 1196056}, {"name": "Microprocessors", "id": 832619}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Filologia", "id": 40935, "predecessors": [{"name": "Kielitiede", "id": 18872}, {"name": "Tekstuaalitieteet", "id": 1138146}, {"name": "Historia", "id": 18187}, {"name": "Antiikki", "id": 18481}], "successors": [{"name": "Filologit", "id": 90999}]}
+{"name": "Filologia", "id": 40935, "predecessors": [{"name": "Kielitiede", "id": 18872}, {"name": "Tekstuaalitieteet", "id": 1138146}, {"name": "Tiede", "id": 19816}, {"name": "Antiikki", "id": 18481}], "successors": [{"name": "Filologit", "id": 90999}]}

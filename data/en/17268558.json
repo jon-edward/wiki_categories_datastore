@@ -1,1 +1,1 @@
-{"name": "Neutrino_experiments", "id": 17268558, "predecessors": [{"name": "Neutrinos", "id": 22820165}, {"name": "Particle_experiments", "id": 2041814}], "successors": [{"name": "Accelerator_neutrino_experiments", "id": 17268628}]}
+{"name": "Neutrino_experiments", "id": 17268558, "predecessors": [{"name": "Particle_experiments", "id": 2041814}], "successors": [{"name": "Accelerator_neutrino_experiments", "id": 17268628}]}

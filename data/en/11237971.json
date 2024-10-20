@@ -1,1 +1,1 @@
-{"name": "Electronic_feedback", "id": 11237971, "predecessors": [{"name": "Feedback", "id": 54039168}], "successors": [{"name": "Electronic_oscillators", "id": 58774873}]}
+{"name": "Electronic_feedback", "id": 11237971, "predecessors": [{"name": "Electronic_circuits", "id": 1331227}, {"name": "Feedback", "id": 54039168}], "successors": [{"name": "Electronic_oscillators", "id": 58774873}]}

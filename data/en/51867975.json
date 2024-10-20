@@ -1,1 +1,1 @@
-{"name": "PEZA_Special_Economic_Zones", "id": 51867975, "predecessors": [{"name": "Special_economic_zones", "id": 42217330}, {"name": "Economy_of_the_Philippines", "id": 2013462}], "successors": [{"name": "Clark_Freeport_Zone", "id": 59553018}]}
+{"name": "PEZA_special_economic_zones", "id": 51867975, "predecessors": [{"name": "Economy_of_the_Philippines", "id": 2013462}, {"name": "Special_economic_zones", "id": 42217330}], "successors": [{"name": "Clark_Freeport_Zone", "id": 59553018}]}

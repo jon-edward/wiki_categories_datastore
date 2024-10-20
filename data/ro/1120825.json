@@ -1,1 +1,1 @@
-{"name": "Meme", "id": 1120825, "predecessors": [{"name": "Concepte", "id": 200389}], "successors": [{"name": "Fenomene_pe_internet", "id": 1120823}]}
+{"name": "Meme", "id": 1120825, "predecessors": [{"name": "Concepte", "id": 200389}, {"name": "Filozofia_limbajului", "id": 175695}], "successors": [{"name": "Fenomene_pe_internet", "id": 1120823}]}

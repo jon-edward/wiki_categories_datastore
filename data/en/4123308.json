@@ -1,0 +1,1 @@
+{"name": "Thermal_protection", "id": 4123308, "predecessors": [{"name": "Temperature", "id": 1214620}], "successors": [{"name": "Sweaters", "id": 9925160}, {"name": "Building_insulation_materials", "id": 20551465}]}

@@ -1,1 +1,1 @@
-{"name": "Mains_power_connectors", "id": 2919689, "predecessors": [{"name": "Electrical_wiring", "id": 8386771}], "successors": []}
+{"name": "Mains_power_connectors", "id": 2919689, "predecessors": [{"name": "Electrical_power_connectors", "id": 4393534}, {"name": "Electrical_wiring", "id": 8386771}], "successors": []}

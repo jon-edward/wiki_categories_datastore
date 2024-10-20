@@ -1,1 +1,1 @@
-{"name": "Star_clusters", "id": 936360, "predecessors": [{"name": "Astronomical_objects", "id": 960879}, {"name": "Stars", "id": 694492}], "successors": []}
+{"name": "Star_clusters", "id": 936360, "predecessors": [{"name": "Stars", "id": 694492}, {"name": "Astronomy", "id": 692915}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Kirjeet", "id": 716827, "predecessors": [{"name": "Dokumentit", "id": 340018}, {"name": "Postiliikenne", "id": 28110}, {"name": "Tekijänoikeus", "id": 27969}], "successors": []}
+{"name": "Kirjeet", "id": 716827, "predecessors": [{"name": "Dokumentit", "id": 340018}, {"name": "Postiliikenne", "id": 28110}, {"name": "Tekijänoikeus", "id": 27969}], "successors": [{"name": "Apostolisten_isien_kirjeet", "id": 1823621}, {"name": "Uuden_testamentin_kirjeet", "id": 1823622}]}

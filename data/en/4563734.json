@@ -1,1 +1,1 @@
-{"name": "Platinum", "id": 4563734, "predecessors": [{"name": "Precious_metals", "id": 3715204}], "successors": [{"name": "Platinum_compounds", "id": 1936834}, {"name": "Isotopes_of_platinum", "id": 23205826}, {"name": "Platinum_mining_companies", "id": 30817854}]}
+{"name": "Platinum", "id": 4563734, "predecessors": [{"name": "Chemical_elements", "id": 691255}, {"name": "Precious_metals", "id": 3715204}], "successors": [{"name": "Platinum_compounds", "id": 1936834}, {"name": "Isotopes_of_platinum", "id": 23205826}, {"name": "Platinum_mining_companies", "id": 30817854}]}

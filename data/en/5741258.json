@@ -1,1 +1,1 @@
-{"name": "Chickens", "id": 5741258, "predecessors": [{"name": "Poultry", "id": 757493}], "successors": [{"name": "Chicken_breeds", "id": 1204186}, {"name": "Cockfighting", "id": 36165740}, {"name": "Chicken_as_food", "id": 55178514}]}
+{"name": "Chickens", "id": 5741258, "predecessors": [{"name": "Poultry", "id": 757493}], "successors": [{"name": "Cockfighting", "id": 36165740}, {"name": "Chicken_as_food", "id": 55178514}]}

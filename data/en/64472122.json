@@ -1,1 +1,1 @@
-{"name": "Mexican_gangsters", "id": 64472122, "predecessors": [{"name": "Organized_crime", "id": 716194}], "successors": [{"name": "Mexican_crime_bosses", "id": 32617472}, {"name": "Mexican_female_gangsters", "id": 74714010}]}
+{"name": "Mexican_gangsters", "id": 64472122, "predecessors": [{"name": "Organized_crime", "id": 716194}, {"name": "Gangs", "id": 713684}], "successors": [{"name": "Mexican_crime_bosses", "id": 32617472}, {"name": "Mexican_female_gangsters", "id": 74714010}]}

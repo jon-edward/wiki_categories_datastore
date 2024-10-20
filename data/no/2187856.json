@@ -1,1 +1,1 @@
-{"name": "Radioprodusenter", "id": 2187856, "predecessors": [{"name": "Kultur", "id": 380118}], "successors": []}
+{"name": "Norske_radioprodusenter", "id": 2187856, "predecessors": [{"name": "Norske_produsenter", "id": 1800855}, {"name": "Radio", "id": 13667}], "successors": [{"name": "Programskapere_for_NRK", "id": 2218336}]}

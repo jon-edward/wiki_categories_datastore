@@ -1,1 +1,1 @@
-{"name": "Sportive_americane", "id": 1240964, "predecessors": [{"name": "Femei_din_SUA", "id": 1233466}, {"name": "Americani", "id": 33932}, {"name": "Femei", "id": 53145}], "successors": [{"name": "Fotbaliste_americane", "id": 2477836}, {"name": "Atlete_americane", "id": 2964298}]}
+{"name": "Sportive_americane", "id": 1240964, "predecessors": [{"name": "Femei_din_SUA", "id": 1233466}, {"name": "Americani", "id": 33932}, {"name": "Sportive", "id": 883388}], "successors": [{"name": "Fotbaliste_americane", "id": 2477836}, {"name": "Atlete_americane", "id": 2964298}]}

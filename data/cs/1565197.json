@@ -1,1 +1,1 @@
-{"name": "Prevence", "id": 1565197, "predecessors": [{"name": "Bezpečnost", "id": 63970}], "successors": []}
+{"name": "Prevence", "id": 1565197, "predecessors": [{"name": "Bezpečnost", "id": 63970}], "successors": [{"name": "Ochrana_zdraví", "id": 1159933}]}

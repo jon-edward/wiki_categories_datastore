@@ -1,1 +1,1 @@
-{"name": "Norske_TV-produsenter", "id": 1197525, "predecessors": [{"name": "Norske_produsenter", "id": 1800855}, {"name": "TV_i_Norge", "id": 767255}, {"name": "TV", "id": 13666}], "successors": []}
+{"name": "Norske_TV-produsenter", "id": 1197525, "predecessors": [{"name": "Norske_produsenter", "id": 1800855}, {"name": "TV_i_Norge", "id": 767255}, {"name": "TV", "id": 13666}], "successors": [{"name": "Programskapere_for_NRK", "id": 2218336}]}

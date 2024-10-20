@@ -1,1 +1,1 @@
-{"name": "Anheuser-Busch", "id": 5953426, "predecessors": [{"name": "Alcoholic_drink_companies", "id": 18621662}, {"name": "Busch_family", "id": 4782221}], "successors": [{"name": "Anheuser-Busch_advertising", "id": 3063827}]}
+{"name": "Anheuser-Busch", "id": 5953426, "predecessors": [{"name": "AB_InBev", "id": 30740678}, {"name": "Alcoholic_drink_companies", "id": 18621662}, {"name": "Busch_family", "id": 4782221}], "successors": [{"name": "Anheuser-Busch_advertising", "id": 3063827}]}

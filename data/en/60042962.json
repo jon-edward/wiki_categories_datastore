@@ -1,1 +1,1 @@
-{"name": "Chinese_aircraft_designers", "id": 60042962, "predecessors": [{"name": "Aircraft_designers", "id": 10896290}], "successors": []}
+{"name": "Chinese_aircraft_designers", "id": 60042962, "predecessors": [{"name": "Aircraft_designers", "id": 10896290}, {"name": "Chinese_aerospace_engineers", "id": 26132293}], "successors": []}

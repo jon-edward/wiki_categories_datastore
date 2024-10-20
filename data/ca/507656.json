@@ -1,1 +1,1 @@
-{"name": "Ciclistes_noruecs", "id": 507656, "predecessors": [{"name": "Vehicles_terrestres", "id": 995436}, {"name": "Noruecs", "id": 29819}, {"name": "Principal", "id": 13225}], "successors": []}
+{"name": "Ciclistes_noruecs", "id": 507656, "predecessors": [{"name": "Vehicles_terrestres", "id": 995436}, {"name": "Esportistes_noruecs", "id": 442558}, {"name": "Principal", "id": 13225}], "successors": []}

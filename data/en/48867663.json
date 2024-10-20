@@ -1,1 +1,1 @@
-{"name": "Monogeneric_fish_families", "id": 48867663, "predecessors": [{"name": "Monogeneric_animal_families", "id": 17773690}], "successors": []}
+{"name": "Monogeneric_fish_families", "id": 48867663, "predecessors": [{"name": "Monogeneric_animal_families", "id": 17773690}], "successors": [{"name": "Monogeneric_cartilaginous_fish_families", "id": 78110493}, {"name": "Monogeneric_ray-finned_fish_families", "id": 78109336}, {"name": "Monogeneric_tetrapodomorph_families", "id": 78119189}]}

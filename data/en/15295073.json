@@ -1,1 +1,1 @@
-{"name": "Glass_in_nature", "id": 15295073, "predecessors": [{"name": "Glass", "id": 1253297}, {"name": "Minerals", "id": 708104}, {"name": "Natural_materials", "id": 2959852}], "successors": [{"name": "Opals", "id": 49082653}, {"name": "Obsidian", "id": 69001452}]}
+{"name": "Glass_in_nature", "id": 15295073, "predecessors": [{"name": "Minerals", "id": 708104}, {"name": "Natural_materials", "id": 2959852}], "successors": [{"name": "Opals", "id": 49082653}, {"name": "Obsidian", "id": 69001452}]}

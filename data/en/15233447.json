@@ -1,1 +1,1 @@
-{"name": "Transportation_in_Hillsboro,_Oregon", "id": 15233447, "predecessors": [{"name": "Transportation_in_Washington_County,_Oregon", "id": 18688421}, {"name": "Cities_in_Oregon", "id": 764447}, {"name": "Hillsboro,_Oregon", "id": 5681358}], "successors": [{"name": "MAX_Blue_Line", "id": 18497113}]}
+{"name": "Transportation_in_Hillsboro,_Oregon", "id": 15233447, "predecessors": [{"name": "Cities_in_Oregon", "id": 764447}], "successors": [{"name": "MAX_Blue_Line", "id": 18497113}]}

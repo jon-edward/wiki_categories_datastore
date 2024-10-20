@@ -1,1 +1,1 @@
-{"name": "Sosialismin_historia", "id": 1699449, "predecessors": [{"name": "Poliittinen_ideologia", "id": 20691}, {"name": "Historia", "id": 18187}], "successors": [{"name": "Anarkismin_historia", "id": 1736890}]}
+{"name": "Sosialismin_historia", "id": 1699449, "predecessors": [{"name": "Poliittinen_ideologia", "id": 20691}, {"name": "Historia_aiheittain", "id": 273944}], "successors": [{"name": "Anarkismin_historia", "id": 1736890}]}
