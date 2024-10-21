@@ -1,0 +1,1 @@
+{"name": "Simulateur", "id": 674125, "predecessors": [{"name": "Interface_utilisateur", "id": 82562}], "successors": [{"name": "Jeu_vidéo_de_simulation_aéronautique", "id": 4298755}, {"name": "Jeu_vidéo_de_simulation_de_vol_spatial", "id": 4866435}]}

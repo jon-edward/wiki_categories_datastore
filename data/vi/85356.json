@@ -1,1 +1,1 @@
-{"name": "Nhạc_sĩ_hải_ngoại", "id": 85356, "predecessors": [{"name": "Nghệ_sĩ_hải_ngoại", "id": 141465}, {"name": "Nhạc_hải_ngoại", "id": 41200}, {"name": "Nhạc_sĩ_Việt_Nam", "id": 17891}, {"name": "Người_Việt_Nam", "id": 13966}], "successors": [{"name": "Ca_sĩ_hải_ngoại", "id": 85373}]}
+{"name": "Nhạc_sĩ_gốc_Việt", "id": 85356, "predecessors": [{"name": "Nghệ_sĩ_gốc_Việt", "id": 141465}, {"name": "Nhạc_hải_ngoại", "id": 41200}, {"name": "Nhạc_sĩ_Việt_Nam", "id": 17891}, {"name": "Người_Việt_Nam", "id": 13966}], "successors": []}

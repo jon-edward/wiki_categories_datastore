@@ -1,0 +1,1 @@
+{"name": "Tomate", "id": 3844988, "predecessors": [{"name": "Légume-fruit", "id": 7404743}, {"name": "Plante_potagère", "id": 101065}, {"name": "Solanum", "id": 4867113}], "successors": [{"name": "Spécialité_à_base_de_tomates", "id": 3846082}, {"name": "Maladie_de_la_tomate", "id": 3938578}]}

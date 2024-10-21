@@ -1,0 +1,1 @@
+{"name": "Rettungsdienstfahrzeug", "id": 1131533, "predecessors": [{"name": "Gesellschaft", "id": 691624}, {"name": "Rettungsdienst", "id": 349516}], "successors": [{"name": "Sanitätsfahrzeug", "id": 883260}, {"name": "Rettungshubschrauber", "id": 1717238}]}

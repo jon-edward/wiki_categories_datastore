@@ -1,1 +1,1 @@
-{"name": "Vegetarianos_dos_Estados_Unidos", "id": 2412369, "predecessors": [{"name": "Ativistas_dos_Estados_Unidos", "id": 2528417}, {"name": "Vegetarianos", "id": 1734476}], "successors": []}
+{"name": "Vegetarianos_dos_Estados_Unidos", "id": 2412369, "predecessors": [{"name": "Ativistas_dos_Estados_Unidos", "id": 2528417}, {"name": "Alimentação", "id": 41629}], "successors": [{"name": "Veganos_dos_Estados_Unidos", "id": 6749387}]}

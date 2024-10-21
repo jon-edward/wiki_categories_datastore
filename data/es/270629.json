@@ -1,0 +1,1 @@
+{"name": "Baterías", "id": 270629, "predecessors": [{"name": "Almacenamiento_de_energía", "id": 400164}, {"name": "Electroquímica", "id": 1550059}], "successors": [{"name": "Fabricantes_de_baterías", "id": 4233182}, {"name": "Baterías_recargables", "id": 4520378}, {"name": "Tipos_de_baterías", "id": 6129665}]}

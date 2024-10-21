@@ -1,1 +1,1 @@
-{"name": "Cầu_thủ_đội_tuyển_bóng_đá_quốc_gia_Hy_Lạp", "id": 13686430, "predecessors": [{"name": "Bóng_đá_Hy_Lạp", "id": 27436}, {"name": "Đội_tuyển_bóng_đá_quốc_gia", "id": 28860}], "successors": []}
+{"name": "Cầu_thủ_đội_tuyển_bóng_đá_quốc_gia_Hy_Lạp", "id": 13686430, "predecessors": [{"name": "Cầu_thủ_bóng_đá_Hy_Lạp", "id": 32826}, {"name": "Đội_tuyển_bóng_đá_quốc_gia", "id": 28860}, {"name": "Bóng_đá_Hy_Lạp", "id": 27436}], "successors": []}

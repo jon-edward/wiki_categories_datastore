@@ -1,1 +1,1 @@
-{"name": "Galerias_nacionais", "id": 6123125, "predecessors": [{"name": "Museus_nacionais", "id": 2206771}, {"name": "Artes_visuais", "id": 3465285}], "successors": []}
+{"name": "Galerias_nacionais", "id": 6123125, "predecessors": [{"name": "Museus_de_arte", "id": 384366}, {"name": "Museus_nacionais", "id": 2206771}], "successors": []}

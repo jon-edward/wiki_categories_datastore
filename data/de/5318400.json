@@ -1,0 +1,1 @@
+{"name": "Schneeräumung", "id": 5318400, "predecessors": [{"name": "Schnee", "id": 430057}, {"name": "Straßenerhaltung", "id": 5075125}], "successors": [{"name": "Schneeräumfahrzeug", "id": 5708219}]}

@@ -1,0 +1,1 @@
+{"name": "Prière", "id": 1136392, "predecessors": [{"name": "Religion", "id": 84974}], "successors": [{"name": "Prière_catholique", "id": 303534}, {"name": "Liturgie_juive", "id": 579870}, {"name": "Exorcisme", "id": 4347624}, {"name": "Liturgie_des_Heures", "id": 8329442}, {"name": "Prière_musulmane", "id": 15541398}]}

@@ -1,0 +1,1 @@
+{"name": "Processeur", "id": 2483569, "predecessors": [{"name": "Architecture_informatique", "id": 216174}, {"name": "Matériel_informatique", "id": 126616}], "successors": [{"name": "Microprocesseur", "id": 175718}, {"name": "Registre_de_processeur", "id": 9294800}]}

@@ -1,1 +1,1 @@
-{"name": "Sportevenemang_i_Nürnberg", "id": 8043914, "predecessors": [{"name": "Sportevenemang_i_Bayern", "id": 8042355}, {"name": "Franken", "id": 1513971}, {"name": "Evenemang", "id": 163380}], "successors": []}
+{"name": "Sportevenemang_i_Nürnberg", "id": 8043914, "predecessors": [{"name": "Sportevenemang_i_Bayern", "id": 8042355}, {"name": "Sport_i_Bayern", "id": 1248824}, {"name": "Evenemang", "id": 163380}, {"name": "Franken", "id": 1513971}], "successors": []}

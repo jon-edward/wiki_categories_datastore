@@ -1,0 +1,1 @@
+{"name": "Simulación", "id": 5122666, "predecessors": [{"name": "Investigación_operativa", "id": 5472764}, {"name": "Modelos_científicos", "id": 5122662}], "successors": [{"name": "Vida_artificial", "id": 121531}, {"name": "Videojuegos_de_simulación", "id": 298162}, {"name": "Virtualización", "id": 746202}, {"name": "Software_de_simulación", "id": 2952657}]}

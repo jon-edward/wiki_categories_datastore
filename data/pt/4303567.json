@@ -1,1 +1,1 @@
-{"name": "Listas_sobre_saúde", "id": 4303567, "predecessors": [{"name": "Listas", "id": 18777}, {"name": "Saúde", "id": 43114}], "successors": [{"name": "Listas_de_medicina", "id": 2880156}]}
+{"name": "Listas_sobre_saúde", "id": 4303567, "predecessors": [{"name": "Saúde", "id": 43114}], "successors": [{"name": "Listas_de_medicina", "id": 2880156}]}

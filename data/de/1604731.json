@@ -1,0 +1,1 @@
+{"name": "Werkzeugbau", "id": 1604731, "predecessors": [{"name": "Technik", "id": 242544}, {"name": "Maschinenbau", "id": 239333}], "successors": [{"name": "Werkzeug", "id": 242680}, {"name": "Werkzeugwerkstoff", "id": 622889}, {"name": "Werkzeughersteller", "id": 4151909}, {"name": "Silextechnologie", "id": 5969222}]}

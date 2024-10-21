@@ -1,0 +1,1 @@
+{"name": "インターネット標準", "id": 3705179, "predecessors": [{"name": "インターネット", "id": 111711}, {"name": "インターネット技術", "id": 274152}, {"name": "工業規格", "id": 225634}], "successors": [{"name": "RFC", "id": 1049328}, {"name": "Transport_Layer_Security", "id": 3609239}, {"name": "Domain_Name_System", "id": 3918233}]}

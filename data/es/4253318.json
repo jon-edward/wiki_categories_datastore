@@ -1,0 +1,1 @@
+{"name": "Firmware", "id": 4253318, "predecessors": [{"name": "Software_de_sistema", "id": 1661490}], "successors": [{"name": "BIOS", "id": 809245}, {"name": "Firmware_personalizado", "id": 9702024}]}

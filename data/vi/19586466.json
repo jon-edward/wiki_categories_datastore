@@ -1,1 +1,1 @@
-{"name": "Tử_vong_vì_đại_dịch_COVID-19", "id": 19586466, "predecessors": [{"name": "Chết_vì_bệnh_hệ_hô_hấp", "id": 3395811}, {"name": "Nhân_vật_liên_quan_đến_đại_dịch_COVID-19", "id": 18328534}, {"name": "Tử_vong_vì_bệnh_truyền_nhiễm", "id": 3175941}], "successors": []}
+{"name": "Tử_vong_vì_đại_dịch_COVID-19", "id": 19586466, "predecessors": [{"name": "Nhân_vật_liên_quan_đến_đại_dịch_COVID-19", "id": 18328534}, {"name": "Tử_vong_vì_bệnh_hệ_hô_hấp", "id": 3395811}, {"name": "Tử_vong_vì_bệnh_truyền_nhiễm", "id": 3175941}], "successors": []}

@@ -1,0 +1,1 @@
+{"name": "Pavimentos", "id": 4944618, "predecessors": [{"name": "Calles_y_carreteras", "id": 288740}, {"name": "Elementos_estructurales", "id": 731448}], "successors": [{"name": "Asfalto", "id": 952270}, {"name": "Escaleras", "id": 4944623}, {"name": "Mosaico", "id": 5023770}, {"name": "Alfombras", "id": 8756424}]}

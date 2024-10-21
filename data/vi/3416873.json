@@ -1,1 +1,1 @@
-{"name": "Mất_thế_kỷ_20_do_bệnh_lao", "id": 3416873, "predecessors": [{"name": "Chết_vì_bệnh_lao", "id": 1752072}, {"name": "Mất_thế_kỷ_20", "id": 19478}], "successors": []}
+{"name": "Mất_thế_kỷ_20_do_bệnh_lao", "id": 3416873, "predecessors": [{"name": "Mất_thế_kỷ_20", "id": 19478}, {"name": "Tử_vong_vì_bệnh_lao", "id": 1752072}], "successors": []}

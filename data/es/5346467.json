@@ -1,0 +1,1 @@
+{"name": "Tasas_de_interés", "id": 5346467, "predecessors": [{"name": "Banca", "id": 59605}, {"name": "Economía_financiera", "id": 2801550}, {"name": "Interés", "id": 1650287}], "successors": [{"name": "Política_monetaria", "id": 413707}, {"name": "Inflación", "id": 1067662}, {"name": "Reserva_Federal", "id": 4349681}]}

@@ -1,0 +1,1 @@
+{"name": "Stromnetzbetreiber", "id": 3703483, "predecessors": [{"name": "Elektrische_Energieverteilung", "id": 4036611}, {"name": "Elektrizitätsversorger", "id": 3419991}], "successors": [{"name": "Übertragungsnetzbetreiber", "id": 6760391}]}

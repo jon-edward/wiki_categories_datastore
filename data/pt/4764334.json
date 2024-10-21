@@ -1,1 +1,1 @@
-{"name": "Jogadores_da_Seleção_Uruguaia_de_Futebol", "id": 4764334, "predecessors": [{"name": "Seleção_Uruguaia_de_Futebol", "id": 2877019}, {"name": "Futebol", "id": 18693}], "successors": [{"name": "Jogadores_da_Seleção_Uruguaia_de_Futebol_Sub-20", "id": 5321704}]}
+{"name": "Jogadores_da_Seleção_Uruguaia_de_Futebol", "id": 4764334, "predecessors": [{"name": "Futebol_do_Uruguai", "id": 107513}, {"name": "Futebol", "id": 18693}], "successors": [{"name": "Jogadores_da_Seleção_Uruguaia_de_Futebol_Sub-20", "id": 5321704}]}

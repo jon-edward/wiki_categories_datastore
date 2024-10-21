@@ -1,1 +1,1 @@
-{"name": "Företag_i_Atlanta", "id": 3938042, "predecessors": [{"name": "Företag_i_Georgia", "id": 1674381}, {"name": "DeKalb_County,_Georgia", "id": 4982776}, {"name": "Amerikanska_företag", "id": 53792}], "successors": [{"name": "Coca-Cola", "id": 1405350}, {"name": "CNN", "id": 3938045}]}
+{"name": "Företag_i_Atlanta", "id": 3938042, "predecessors": [{"name": "Atlanta", "id": 522027}, {"name": "Företag_i_Georgia", "id": 1674381}, {"name": "Amerikanska_företag", "id": 53792}], "successors": [{"name": "Coca-Cola", "id": 1405350}, {"name": "CNN", "id": 3938045}]}

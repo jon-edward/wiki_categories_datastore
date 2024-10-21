@@ -1,1 +1,1 @@
-{"name": "Empresas_de_laticínios", "id": 6929727, "predecessors": [{"name": "Empresas_de_alimentação", "id": 275808}, {"name": "Laticínios", "id": 403801}], "successors": []}
+{"name": "Empresas_de_laticínios", "id": 6929727, "predecessors": [{"name": "Empresas_de_alimentação", "id": 275808}, {"name": "Laticínios", "id": 403801}], "successors": [{"name": "Subsidiárias_da_Lactalis", "id": 7123730}, {"name": "Marcas_da_Danone", "id": 2457024}, {"name": "Empresas_de_laticínios_do_Brasil", "id": 7454748}, {"name": "Empresas_de_laticínios_dos_Estados_Unidos", "id": 7454758}]}

@@ -1,0 +1,1 @@
+{"name": "Buchbinden", "id": 9654272, "predecessors": [{"name": "Buchherstellung", "id": 1020478}, {"name": "Kunsthandwerk", "id": 1015536}], "successors": [{"name": "Buchbinder", "id": 2382303}, {"name": "Einbandart", "id": 6134709}]}

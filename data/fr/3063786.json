@@ -1,0 +1,1 @@
+{"name": "Standard_du_web", "id": 3063786, "predecessors": [{"name": "Standard_Internet", "id": 558857}, {"name": "Technologie_web", "id": 2707103}], "successors": [{"name": "XML", "id": 111466}, {"name": "Hypertext_Transfer_Protocol", "id": 1145322}, {"name": "W3C", "id": 5950488}, {"name": "ActivityPub", "id": 13664334}]}

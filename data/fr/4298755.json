@@ -1,0 +1,1 @@
+{"name": "Jeu_vidéo_de_simulation_aéronautique", "id": 4298755, "predecessors": [{"name": "Jeu_vidéo_de_simulation_de_véhicule", "id": 11538434}, {"name": "Simulateur", "id": 674125}, {"name": "Aéronautique", "id": 87362}], "successors": [{"name": "Jeu_de_simulation_de_combat_aérien", "id": 7551643}]}

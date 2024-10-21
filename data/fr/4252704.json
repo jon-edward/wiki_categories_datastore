@@ -1,0 +1,1 @@
+{"name": "Jeu_de_labyrinthe", "id": 4252704, "predecessors": [{"name": "Jeu_d'action", "id": 198636}, {"name": "Jeu_vidéo_de_réflexion", "id": 568052}, {"name": "Jeu_vidéo", "id": 85212}], "successors": [{"name": "Dungeon_crawler", "id": 12199179}]}

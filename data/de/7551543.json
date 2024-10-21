@@ -1,0 +1,1 @@
+{"name": "Förderanlage", "id": 7551543, "predecessors": [{"name": "Anlagentyp", "id": 9379538}, {"name": "Fördertechnik", "id": 239317}], "successors": [{"name": "Flurförderzeug", "id": 3677094}, {"name": "Aufzugsbauart", "id": 7680391}, {"name": "Rohrleitung", "id": 8511806}, {"name": "Luftseilbahn-Bauart", "id": 7681559}]}

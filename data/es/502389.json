@@ -1,0 +1,1 @@
+{"name": "Tarjeta_madre", "id": 502389, "predecessors": [{"name": "Hardware", "id": 52372}], "successors": [{"name": "Ranuras_de_expansión_de_placas_base", "id": 511692}, {"name": "Factor_de_forma_de_tarjeta_madre", "id": 511893}, {"name": "BIOS", "id": 809245}, {"name": "Empresas_de_placas_base", "id": 4282846}]}

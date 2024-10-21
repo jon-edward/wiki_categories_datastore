@@ -1,0 +1,1 @@
+{"name": "Bauform_aus_Metall", "id": 6052394, "predecessors": [{"name": "Bauform", "id": 843130}, {"name": "Technik", "id": 242544}], "successors": [{"name": "Stahlachterbahn", "id": 2716672}, {"name": "Turm_aus_Metall", "id": 5686898}, {"name": "Brücke_aus_Metall", "id": 10476322}]}

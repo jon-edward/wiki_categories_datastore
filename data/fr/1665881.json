@@ -1,0 +1,1 @@
+{"name": "Affaire_médiatique", "id": 1665881, "predecessors": [{"name": "Médias", "id": 84985}], "successors": [{"name": "Affaire_judiciaire", "id": 176642}, {"name": "Crise_politique", "id": 402487}, {"name": "Affaire_financière", "id": 894639}, {"name": "Crise_diplomatique", "id": 2762113}, {"name": "Scandale", "id": 15618395}]}

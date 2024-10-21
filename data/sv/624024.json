@@ -1,1 +1,1 @@
-{"name": "Termodynamiska_processer", "id": 624024, "predecessors": [{"name": "Termodynamik", "id": 50450}, {"name": "Fenomen", "id": 4304641}, {"name": "Rörelse", "id": 1486711}], "successors": []}
+{"name": "Termodynamiska_processer", "id": 624024, "predecessors": [{"name": "Termodynamik", "id": 50450}, {"name": "Fenomen", "id": 4304641}, {"name": "Rörelse", "id": 1486711}], "successors": [{"name": "Termodynamiska_cykler", "id": 624025}]}

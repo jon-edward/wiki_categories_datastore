@@ -1,1 +1,1 @@
-{"name": "Condenados_por_homicídio_no_Brasil", "id": 7304824, "predecessors": [{"name": "Acusados_de_homicídio", "id": 7304815}, {"name": "Saúde_no_Brasil", "id": 1891871}], "successors": [{"name": "Assassinos_do_Brasil", "id": 5217271}]}
+{"name": "Condenados_por_homicídio_no_Brasil", "id": 7304824, "predecessors": [{"name": "Condenados_por_homicídio", "id": 7304810}, {"name": "Saúde_no_Brasil", "id": 1891871}], "successors": [{"name": "Assassinos_do_Brasil", "id": 5217271}]}

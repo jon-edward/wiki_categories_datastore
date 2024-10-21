@@ -1,0 +1,1 @@
+{"name": "Fallecidos_por_inanición", "id": 5377607, "predecessors": [{"name": "Ayuno", "id": 4160932}, {"name": "Hambre", "id": 5960014}, {"name": "Causas_de_muerte", "id": 2161243}], "successors": [{"name": "Fallecidos_por_huelga_de_hambre", "id": 5032905}, {"name": "Fallecidos_por_anorexia_nerviosa", "id": 5380395}]}

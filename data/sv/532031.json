@@ -1,1 +1,1 @@
-{"name": "USA:s_hälsoministrar", "id": 532031, "predecessors": [{"name": "USA:s_ministrar", "id": 537873}, {"name": "Ministrar_efter_post", "id": 1100239}, {"name": "Samhälle", "id": 51553}], "successors": []}
+{"name": "USA:s_hälsoministrar", "id": 532031, "predecessors": [{"name": "Sjukvård_i_USA", "id": 1663619}, {"name": "USA:s_ministrar", "id": 537873}, {"name": "Ministrar_efter_post", "id": 1100239}], "successors": []}

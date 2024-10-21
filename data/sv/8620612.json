@@ -1,1 +1,1 @@
-{"name": "Abort_i_USA", "id": 8620612, "predecessors": [{"name": "Abort_efter_land", "id": 8607455}, {"name": "USA:s_samhälle", "id": 448255}, {"name": "Samhälle", "id": 51553}], "successors": []}
+{"name": "Abort_i_USA", "id": 8620612, "predecessors": [{"name": "Abort_efter_land", "id": 8607455}, {"name": "Sjukvård_i_USA", "id": 1663619}, {"name": "USA:s_samhälle", "id": 448255}], "successors": []}

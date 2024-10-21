@@ -1,0 +1,1 @@
+{"name": "Neumática", "id": 916956, "predecessors": [{"name": "Mecánica_de_fluidos", "id": 74186}, {"name": "Presión", "id": 4232969}], "successors": [{"name": "Válvulas", "id": 1182078}, {"name": "Recipientes_a_presión", "id": 1935219}, {"name": "Compresores", "id": 5353112}]}

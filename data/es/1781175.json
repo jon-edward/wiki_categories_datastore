@@ -1,0 +1,1 @@
+{"name": "Contaminación_acuática", "id": 1781175, "predecessors": [{"name": "Agua", "id": 79856}, {"name": "Contaminación", "id": 90182}], "successors": [{"name": "Biocidas", "id": 4968931}, {"name": "Tratamiento_de_aguas", "id": 5517911}, {"name": "Contaminación_oceánica", "id": 8780694}, {"name": "Eutrofización", "id": 10170939}]}

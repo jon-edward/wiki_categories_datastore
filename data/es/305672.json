@@ -1,0 +1,1 @@
+{"name": "IRC", "id": 305672, "predecessors": [{"name": "Chat", "id": 1991570}, {"name": "Protocolos_de_nivel_de_aplicación", "id": 234518}, {"name": "Software_social", "id": 8961295}, {"name": "Mensajería_instantánea", "id": 59782}, {"name": "Protocolo_de_Internet", "id": 5991293}], "successors": [{"name": "Clientes_de_IRC_libres", "id": 467909}]}

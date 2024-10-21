@@ -1,1 +1,1 @@
-{"name": "Transport_i_Kentucky", "id": 1603338, "predecessors": [{"name": "Kentucky", "id": 97461}, {"name": "Transport_i_USA", "id": 426704}], "successors": []}
+{"name": "Transport_i_Kentucky", "id": 1603338, "predecessors": [{"name": "USA:s_delstater", "id": 54069}, {"name": "Transport_i_USA", "id": 426704}], "successors": []}

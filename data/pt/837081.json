@@ -1,1 +1,1 @@
-{"name": "Geografia_econômica", "id": 837081, "predecessors": [{"name": "Economia", "id": 15044}, {"name": "Geografia_humana", "id": 494348}, {"name": "Ciências_sociais", "id": 15662}], "successors": []}
+{"name": "Geografia_econômica", "id": 837081, "predecessors": [{"name": "Economia", "id": 15044}, {"name": "Geografia_humana", "id": 494348}, {"name": "Ciências_sociais", "id": 15662}], "successors": [{"name": "Economia_urbana", "id": 3613896}]}

@@ -1,0 +1,1 @@
+{"name": "Iers_acteur", "id": 90646, "predecessors": [{"name": "Iers_persoon", "id": 66440}, {"name": "Amusement", "id": 104217}, {"name": "Kunst", "id": 63472}], "successors": [{"name": "Iers_filmacteur", "id": 1800070}, {"name": "Iers_televisieacteur", "id": 1808016}]}

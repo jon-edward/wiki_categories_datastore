@@ -1,1 +1,1 @@
-{"name": "Museus_de_arte_de_Paris", "id": 5543430, "predecessors": [{"name": "Museus_de_Paris", "id": 1163974}, {"name": "Museus_de_arte_da_França", "id": 1871043}, {"name": "Artes_visuais", "id": 3465285}], "successors": [{"name": "Pinturas_no_museu_de_Orsay", "id": 2070836}]}
+{"name": "Museus_de_arte_de_Paris", "id": 5543430, "predecessors": [{"name": "Museus_de_Paris", "id": 1163974}, {"name": "Museus_de_arte_da_França", "id": 1871043}, {"name": "Museus_de_arte", "id": 384366}], "successors": [{"name": "Pinturas_no_museu_de_Orsay", "id": 2070836}]}

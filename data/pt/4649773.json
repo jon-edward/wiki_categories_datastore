@@ -1,1 +1,1 @@
-{"name": "Consequencialismo", "id": 4649773, "predecessors": [{"name": "Teorias_éticas", "id": 2618930}, {"name": "Filosofia_da_religião", "id": 65837}], "successors": [{"name": "Utilitarismo", "id": 4649798}, {"name": "Altruísmo", "id": 4985094}, {"name": "Altruísmo_eficaz", "id": 5683393}]}
+{"name": "Consequencialismo", "id": 4649773, "predecessors": [{"name": "Teleologia", "id": 4649776}, {"name": "Teorias_éticas", "id": 2618930}], "successors": [{"name": "Utilitarismo", "id": 4649798}, {"name": "Altruísmo", "id": 4985094}, {"name": "Altruísmo_eficaz", "id": 5683393}]}

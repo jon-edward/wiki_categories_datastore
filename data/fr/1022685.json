@@ -1,0 +1,1 @@
+{"name": "Domain_Name_System", "id": 1022685, "predecessors": [{"name": "Adressage_réseau", "id": 1172041}, {"name": "Architecture_d'Internet", "id": 1349351}, {"name": "Protocole_réseau_sur_la_couche_application", "id": 4265377}, {"name": "Standard_Internet", "id": 558857}], "successors": [{"name": "Domaine_de_premier_niveau", "id": 921771}]}

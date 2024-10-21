@@ -1,1 +1,1 @@
-{"name": "!Predefinições_sobre_Microsoft", "id": 2741744, "predecessors": [{"name": "!Predefinições_sobre_empresas_TIC", "id": 4032567}, {"name": "Microsoft", "id": 153438}], "successors": []}
+{"name": "!Predefinições_sobre_Microsoft", "id": 2741744, "predecessors": [{"name": "Microsoft", "id": 153438}, {"name": "!Predefinições_sobre_economia_por_país", "id": 6799604}], "successors": [{"name": "!Predefinições_sobre_jogos_eletrônicos_da_Microsoft", "id": 7448104}, {"name": "!Predefinições_sobre_sistemas_operacionais_da_Microsoft", "id": 7448110}]}

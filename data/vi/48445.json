@@ -1,1 +1,1 @@
-{"name": "Môi_trường_màn_hình_nền", "id": 48445, "predecessors": [{"name": "Giao_diện_đồ_họa_người_dùng", "id": 3144278}, {"name": "Phần_mềm_hệ_thống", "id": 26061}], "successors": [{"name": "Môi_trường_màn_hình_nền_tự_do", "id": 48444}]}
+{"name": "Môi_trường_desktop", "id": 48445, "predecessors": [{"name": "Giao_diện_đồ_họa_người_dùng", "id": 3144278}, {"name": "Phần_mềm_hệ_thống", "id": 26061}], "successors": [{"name": "Môi_trường_desktop_tự_do", "id": 48444}]}

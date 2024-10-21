@@ -1,0 +1,1 @@
+{"name": "Neumonía", "id": 1703620, "predecessors": [{"name": "Enfermedades_del_aparato_respiratorio", "id": 55358}, {"name": "Enfermedades_infecciosas", "id": 64496}], "successors": [{"name": "Fallecidos_por_neumonía", "id": 5032934}, {"name": "Pandemia_de_COVID-19", "id": 9321678}]}

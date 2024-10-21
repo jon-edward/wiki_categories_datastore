@@ -1,1 +1,1 @@
-{"name": "Empresas_de_Campinas", "id": 1902245, "predecessors": [{"name": "Empresas_do_estado_de_São_Paulo", "id": 2715077}, {"name": "Campinas", "id": 533154}], "successors": [{"name": "CPFL_Energia", "id": 4353660}, {"name": "Grupo_EP", "id": 5876042}]}
+{"name": "Empresas_de_Campinas", "id": 1902245, "predecessors": [{"name": "Empresas_do_estado_de_São_Paulo", "id": 2715077}, {"name": "Campinas", "id": 533154}], "successors": [{"name": "CPFL_Energia", "id": 4353660}, {"name": "Grupo_EP", "id": 5876042}, {"name": "Empresas_com_sede_em_Campinas", "id": 7452057}]}

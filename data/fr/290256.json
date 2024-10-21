@@ -1,0 +1,1 @@
+{"name": "Munition", "id": 290256, "predecessors": [{"name": "Arme_à_feu", "id": 235719}, {"name": "Arme", "id": 87379}, {"name": "Pyrotechnie", "id": 2068449}], "successors": [{"name": "Munition_d'artillerie", "id": 13948769}, {"name": "Cartouche_pour_pistolet_et_fusil", "id": 15791913}]}

@@ -1,0 +1,1 @@
+{"name": "Betalingssysteem", "id": 250051, "predecessors": [{"name": "Betalingsverkeer", "id": 613795}], "successors": [{"name": "Creditcard", "id": 1671653}, {"name": "Vervoerbewijs", "id": 1919793}]}

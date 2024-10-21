@@ -1,0 +1,1 @@
+{"name": "Transport_ferroviaire_au_Luxembourg", "id": 5486861, "predecessors": [{"name": "Transport_au_Luxembourg", "id": 573174}, {"name": "Chemin_de_fer", "id": 84762}], "successors": [{"name": "Gare_au_Luxembourg", "id": 6799271}, {"name": "Matériel_moteur_des_CFL", "id": 9366590}]}

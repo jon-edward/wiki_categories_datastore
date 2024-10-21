@@ -1,1 +1,1 @@
-{"name": "Cancros_da_cabeça_e_do_pescoço", "id": 5626131, "predecessors": [{"name": "Cabeça_e_pescoço", "id": 839027}, {"name": "Tipos_de_neoplasia", "id": 4631121}], "successors": [{"name": "Mortes_por_câncer_de_boca", "id": 6291605}]}
+{"name": "Cancros_da_cabeça_e_do_pescoço", "id": 5626131, "predecessors": [{"name": "Cabeça_e_pescoço", "id": 839027}, {"name": "Tipos_de_neoplasia", "id": 4631121}], "successors": [{"name": "Mortes_por_câncer_de_boca", "id": 6291605}, {"name": "Tumores_odontogênicos", "id": 7443744}]}

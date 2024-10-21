@@ -1,0 +1,1 @@
+{"name": "Botellas", "id": 597840, "predecessors": [{"name": "Envases", "id": 85124}, {"name": "Recipientes_de_plástico", "id": 5166797}, {"name": "Recipientes_de_vidrio", "id": 3291291}, {"name": "Vasijas", "id": 7345432}], "successors": [{"name": "Recipientes_de_laboratorio", "id": 7355736}, {"name": "Ungüentarios", "id": 7360798}]}

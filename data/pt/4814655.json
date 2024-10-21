@@ -1,1 +1,1 @@
-{"name": "Museus_Vaticanos", "id": 4814655, "predecessors": [{"name": "Museus_de_Roma", "id": 2072221}, {"name": "História_do_Vaticano", "id": 1910864}, {"name": "Artes_visuais", "id": 3465285}, {"name": "Museus_de_arqueologia", "id": 1852512}], "successors": []}
+{"name": "Museus_Vaticanos", "id": 4814655, "predecessors": [{"name": "Museus_de_Roma", "id": 2072221}, {"name": "História_do_Vaticano", "id": 1910864}, {"name": "Museus_de_arte", "id": 384366}, {"name": "Museus_de_arqueologia", "id": 1852512}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Economia_do_bem-estar", "id": 4097870, "predecessors": [{"name": "Economia", "id": 15044}], "successors": [{"name": "Índice_de_Desenvolvimento_Humano", "id": 2415835}, {"name": "Altruísmo", "id": 4985094}, {"name": "Habitação_social", "id": 5952563}]}
+{"name": "Economia_do_bem-estar", "id": 4097870, "predecessors": [{"name": "Microeconomia", "id": 559266}], "successors": [{"name": "Índice_de_Desenvolvimento_Humano", "id": 2415835}, {"name": "Altruísmo", "id": 4985094}, {"name": "Habitação_social", "id": 5952563}]}

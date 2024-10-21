@@ -1,1 +1,1 @@
-{"name": "Eventos_políticos_em_curso", "id": 6728113, "predecessors": [{"name": "Eventos_atuais", "id": 2220743}, {"name": "Política", "id": 15653}], "successors": []}
+{"name": "Eventos_políticos_em_curso", "id": 6728113, "predecessors": [{"name": "Eventos_atuais", "id": 2220743}, {"name": "Política", "id": 15653}], "successors": [{"name": "Eleições_atuais", "id": 2220724}]}

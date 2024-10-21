@@ -1,0 +1,1 @@
+{"name": "Szabad_szoftverek", "id": 4909, "predecessors": [{"name": "Jog", "id": 19776}, {"name": "Szoftverek", "id": 85626}], "successors": [{"name": "KDE", "id": 5441}, {"name": "GNU_projektek", "id": 31553}, {"name": "GNOME", "id": 118155}, {"name": "SourceForge_projektek", "id": 333910}, {"name": "Apache_Software_Foundation", "id": 622248}]}

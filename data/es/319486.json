@@ -1,0 +1,1 @@
+{"name": "Ingeniería_geotécnica", "id": 319486, "predecessors": [{"name": "Disciplinas_de_la_geología", "id": 8918313}, {"name": "Ingeniería_civil", "id": 125981}], "successors": [{"name": "Cimentaciones", "id": 319482}, {"name": "Mecánica_de_suelos", "id": 1297742}, {"name": "Pruebas_de_suelos", "id": 1835286}, {"name": "Mecánica_de_sólidos_deformables", "id": 5699646}]}

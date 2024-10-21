@@ -1,0 +1,1 @@
+{"name": "Policija", "id": 23050, "predecessors": [{"name": "Javna_sigurnost", "id": 258959}, {"name": "Nacionalna_sigurnost", "id": 258954}, {"name": "Pravo", "id": 14268}], "successors": [{"name": "Policajci", "id": 55765}, {"name": "Policijski_filmovi", "id": 240565}, {"name": "Forenzika", "id": 1310232}, {"name": "Policija_Srbije", "id": 79954}]}
