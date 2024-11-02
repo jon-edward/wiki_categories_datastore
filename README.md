@@ -2,8 +2,8 @@
 
 > [!WARNING]  
 > This is no longer deployed automatically. If you need automatic 
-> deployments, fork this repository and place `update.yml` in 
-> your workflows directory. 
+> deployments, fork this repository and place `update.yml.old` in 
+> your workflows directory, fixing its file extension.
 > 
 > Also, I've made a more compact (and accessible, it uploads to GH Pages 
 > only instead of the actual repo) version called [wiki-categories](
