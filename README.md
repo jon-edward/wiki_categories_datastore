@@ -1,6 +1,6 @@
 # wiki_categories_datastore
 
-> **Warning**  
+> [!WARNING]  
 > This is no longer deployed automatically. If you need automatic 
 > deployments, fork this repository and place `update.yml` in 
 > your workflows directory. 
