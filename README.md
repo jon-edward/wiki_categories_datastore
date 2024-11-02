@@ -1,5 +1,14 @@
 # wiki_categories_datastore
 
+> **Warning**  
+> This is no longer deployed automatically. If you need automatic 
+> deployments, fork this repository and place `update.yml` in 
+> your workflows directory. 
+> 
+> Also, I've made a more compact (and accessible, it uploads to GH Pages 
+> only instead of the actual repo) version called [wiki-categories](
+    https://github.com/jon-edward/wiki-categories).
+
 This repository contains automatic deployments of the Wikipedia category tree, trimmed by the algorithm defined in 
 [main](https://github.com/jon-edward/wiki_categories_datastore/blob/main/main.py).
 
